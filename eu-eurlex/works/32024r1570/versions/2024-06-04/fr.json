@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r1570:2024-06-04",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2024/1570 of 4\u00A0June 2024 amending Implementing Regulation (EU)\u00A02022/423 laying down the technical specifications, measures and other requirements for the implementation of the decentralised IT system referred to in Regulation (EU)\u00A02020/1784",
+  "valid_from": "2024-06-04",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r1570/versions/2024-06-04/fr.xml",
+    "sha256": "89649eaf8bab0dbeeb389cec2bdebd5175cf2a27b59664580374188a3ad29e05",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R1570"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r1570:2024-06-04#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’annexe du règlement d’exécution (UE) 2022/423 est modifiée conformément à l’annexe du présent règlement.",
+      "text_sha256": "10b793d5717e7a6e9587afcc275b9663a8105e463bd582ec78bad2ab3347e145",
+      "md_span": {
+        "start": 825,
+        "end": 948
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r1570:2024-06-04#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 981,
+        "end": 1122
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

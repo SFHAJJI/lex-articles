@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -52,5 +53,58 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2020-07-24",
+          "valid_to": null,
+          "text_sha256": "d91be6911500eb17dd855e3490fdc19f2bed9f0a145e9afe45ba6aadadd7a075",
+          "in_version": "lu-legilux:loi-2020-06-24-a526:2020-07-24",
+          "article_valid_from": "2020-07-24"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2020-07-24",
+          "valid_to": "2020-09-22",
+          "text_sha256": "e0bd5bc74d81c7bbe4a945057fd1d2b03b1d995748a3f2d7b0941d56e70858e7",
+          "in_version": "lu-legilux:loi-2020-06-24-a526:2020-07-24",
+          "article_valid_from": "2020-07-24"
+        },
+        {
+          "valid_from": "2020-09-23",
+          "valid_to": "2020-12-21",
+          "text_sha256": "b5be1aec6f4e32606820ec5c0e64a3cd08a3a2cf48330cc4b8ff304e51844d60",
+          "in_version": "lu-legilux:loi-2020-06-24-a526:2020-09-23",
+          "article_valid_from": "2020-09-23"
+        },
+        {
+          "valid_from": "2020-12-22",
+          "valid_to": "2021-06-29",
+          "text_sha256": "3459635a6232753c782ee8f8a62bb81b6a386ca4f1fd6a17cee7b413708a18b0",
+          "in_version": "lu-legilux:loi-2020-06-24-a526:2020-12-22",
+          "article_valid_from": "2020-12-22"
+        },
+        {
+          "valid_from": "2021-06-30",
+          "valid_to": "2021-12-16",
+          "text_sha256": "f9b47646c093747931812ff6533b4b14f86064f3e4467857acf0143bfd4d00b8",
+          "in_version": "lu-legilux:loi-2020-06-24-a526:2021-06-30",
+          "article_valid_from": "2021-06-30"
+        },
+        {
+          "valid_from": "2021-12-17",
+          "valid_to": null,
+          "text_sha256": "4db32dbf49ccb021642c96d046cbc9c04a2aeaea0b282e177bbdfaac5e99e149",
+          "in_version": "lu-legilux:loi-2020-06-24-a526:2021-12-17",
+          "article_valid_from": "2021-12-17"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

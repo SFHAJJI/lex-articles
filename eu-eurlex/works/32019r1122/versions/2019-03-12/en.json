@@ -1,0 +1,1574 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r1122:2019-03-12",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2019/1122 of 12 March 2019 supplementing Directive 2003/87/EC",
+  "valid_from": "2019-03-12",
+  "valid_to": "2020-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r1122/versions/2019-03-12/en.xml",
+    "sha256": "91cf1c4398b5abe62b559ce27939a622f0e56dc94225b9ffb7767d2843ea4995",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1122"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation lays down general, operational and maintenance requirements concerning the Union Registry and the independent transaction log provided for in Article 20(1) of Directive 2003/87/EC.",
+      "text_sha256": "1821f74b82cb8a38c941727b9a83186ff8a0094f9876b8b7b13991b1a2f2fb9f",
+      "md_span": {
+        "start": 649,
+        "end": 856
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation applies to allowances created for the purposes of the European Union Emissions Trading System (EU ETS).",
+      "text_sha256": "b343a4744c563542d054fb5f7f31283f91b2492b9ce2a005c609c6750f0d8833",
+      "md_span": {
+        "start": 889,
+        "end": 1019
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nFor the purposes of this Regulation, the definitions in Article 3 of Regulation (EU) No 1031/2010 and in Article 3 of Commission Delegated Regulation (EU) 2019/331 (17) shall apply. The following definitions shall also apply:\n\n| (1) | ‘central administrator’ means the person designated by the Commission pursuant to Article 20 of Directive 2003/87/EC; |\n| --- | --- |\n\n| (2) | ‘national administrator’ means the entity responsible for administering on behalf of a Member State a set of user accounts under the jurisdiction of a Member State in the Union Registry, designated in accordance with Article 7; |\n| --- | --- |\n\n| (3) | ‘account holder’ means a natural or legal person that holds an account in the Union Registry; |\n| --- | --- |\n\n| (4) | ‘account information’ means all information necessary to open an account or register a verifier, including all information on representatives assigned to them; |\n| --- | --- |\n\n| (5) | ‘competent authority’ means the authority or authorities designated by a Member State pursuant to Article 18 of Directive 2003/87/EC; |\n| --- | --- |\n\n| (6) | ‘verifier’ means a verifier as defined in Article 3(3) of Commission Implementing Regulation (EU) 2018/2067 (18); |\n| --- | --- |\n\n| (7) | ‘aviation allowances’ means allowances created pursuant to Article 3c(2) of Directive 2003/87/EC, including allowances, created for the same purpose, stemming from emission trading systems that are linked to the EU ETS under Article 25 of that Directive; |\n| --- | --- |\n\n| (8) | ‘general allowances’ means all other allowances created pursuant to Directive 2003/87/EC, including allowances stemming from emission trading systems that are linked with the EU ETS pursuant to Article 25 of that Directive; |\n| --- | --- |\n\n| (9) | ‘process’ means an automated technical means to carry out an action relating to an account or a unit in the Union Registry; |\n| --- | --- |\n\n| (10) | ‘execution’ means the finalisation of a process proposed for execution that may result in completion if all conditions are fulfilled or in termination; |\n| --- | --- |\n\n| (11) | ‘working day’ means any day of the year from Monday to Friday; |\n| --- | --- |\n\n| (12) | ‘transaction’ means a process in the Union registry that involves the transfer of an allowance from one account to another account; |\n| --- | --- |\n\n| (13) | ‘surrender’ means the accounting of an allowance by an operator or aircraft operator against the verified emissions of its installation or aircraft; |\n| --- | --- |\n\n| (14) | ‘deletion’ means the definitive disposal of an allowance by its holder without accounting it against verified emissions; |\n| --- | --- |\n\n| (15) | ‘money laundering’ means money laundering as defined in Article 1(3) of Directive (EU) 2015/849; |\n| --- | --- |\n\n| (16) | ‘serious crime’ means serious crime as defined in Article 3(4) of Directive (EU) 2015/849; |\n| --- | --- |\n\n| (17) | ‘terrorist financing’ means terrorist financing as defined in Article 1(5) of Directive (EU) 2015/849; |\n| --- | --- |\n\n| (18) | ‘directors’ means the persons discharging managerial responsibilities as defined in Article 3(1) point (25) of Regulation (EU) No 596/2014; |\n| --- | --- |\n\n| (19) | ‘parent undertaking’ means parent undertaking as defined in Article 2(9) of Directive 2013/34/EU of the European Parliament and of the Council (19); |\n| --- | --- |\n\n| (20) | ‘subsidiary undertaking’ means subsidiary undertaking as defined in Article 2(10) of Directive 2013/34/EU; |\n| --- | --- |\n\n| (21) | ‘group’ means group as defined in Article 2(11) of Directive 2013/34/EU; |\n| --- | --- |\n\n| (22) | ‘central counterparty’ means central counterparty as defined in Article 2(1) of Regulation (EU) No 648/2012 of the European Parliament and of the Council (20); |\n| --- | --- |",
+      "text_sha256": "e5600a6c971bc802ee02cbcfd0cef10c41c941f2251ffa7cbbf7f59c1918d64e",
+      "md_span": {
+        "start": 1052,
+        "end": 4839
+      },
+      "citations": [
+        {
+          "href": "#ntr17-L_2019177EN.01000301-E0017",
+          "text": "(17)"
+        },
+        {
+          "href": "#ntr18-L_2019177EN.01000301-E0018",
+          "text": "(18)"
+        },
+        {
+          "href": "#ntr19-L_2019177EN.01000301-E0019",
+          "text": "(19)"
+        },
+        {
+          "href": "#ntr20-L_2019177EN.01000301-E0020",
+          "text": "(20)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. The central administrator shall operate and maintain the Union Registry, including its technical infrastructure.\n\n2. Member States shall use the Union Registry for the purposes of meeting their obligations under Article 19 of Directive 2003/87/EC. The Union Registry shall provide national administrators and account holders with the processes set out in this Regulation.\n\n3. The central administrator shall ensure that the Union Registry conforms to the hardware, network, software and security requirements set out in the data exchange and technical specifications provided for in Article 75 of this Regulation.",
+      "text_sha256": "4dada90b06189a0fb74156b3aa9e3bfed06893b1d6e0385e6aa42b9d47719b66",
+      "md_span": {
+        "start": 4872,
+        "end": 5499
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. A European Union Transaction Log (EUTL), to take the form of a standardised electronic database, is established, pursuant to Article 20 of Directive 2003/87/EC, for transactions within the scope of this Regulation.\n\n2. The central administrator shall operate and maintain the EUTL in accordance with the provisions of this Regulation.\n\n3. The central administrator shall ensure that the EUTL is capable of checking and recording all processes referred to under this Regulation, and complies with the hardware, network and software requirements set out in the data exchange and technical specifications provided for in Article 75 of this Regulation.\n\n4. The central administrator shall ensure that the EUTL is capable of recording all processes described in Chapter 3 of Title I and in Titles II and III.",
+      "text_sha256": "d2c9f250a428cc1e1c625061a2e463e04ba04c81f4b231194ff88ae373d4bec4",
+      "md_span": {
+        "start": 5532,
+        "end": 6349
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. The central administrator shall ensure that the Union Registry maintains a communication link with the registries of greenhouse gas emissions trading systems with whom a linking agreement is in force in accordance with Article 25 of Directive 2003/87/EC for the purposes of communicating transactions with allowances.\n\n2. The central administrator shall ensure that the Union Registry maintains a direct communication link with the EUTL for the purposes of checking and recording transactions with allowances and the account management processes set out in Chapter 3 of Title I. All transactions involving allowances units shall take place within the Union Registry, and shall be recorded and checked by the EUTL. The central administrator may establish a restricted communication link between the EUTL and the registry of a third country which signed a treaty concerning its accession to the Union.",
+      "text_sha256": "19e60aaddc805574e037733fa2a57474a5f4eef5407078739899c1d872b3f959",
+      "md_span": {
+        "start": 6382,
+        "end": 7295
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Each Member State shall designate a national administrator. The Member State shall access and administer pursuant to Article 10 its own accounts and the accounts in the Union Registry under its jurisdiction through its national administrator as defined in Annex I.\n\n2. The Member States and the Commission shall ensure that there is no conflict of interest amongst national administrators, the central administrator and account holders.\n\n3. Each Member State shall notify the Commission of the identity and contact details of its national administrator, including an emergency telephone number to be used in the case of a security incident.\n\n4. The Commission shall coordinate the implementation of this Regulation with the national administrators of each Member State and the central administrator. In particular, the Commission shall pursue all appropriate consultations in accordance with the Treaties on issues and procedures related to the operation of registries regulated under this Regulation and the implementation of this Regulation. The terms of cooperation, agreed between the central administrator and the national administrators shall include common operational procedures for the implementation of this Regulation, change and incident management procedures for the Union Registry, technical specifications for the functioning and reliability of the Union Registry and the EUTL and provisions for the tasks of the controllers of personal data gathered pursuant to this Regulation. The terms of cooperation may include the modalities of the consolidation of the external communication links, the information technology infrastructure and user account access procedures. To ensure harmonised implementation of Chapter 3 of Title I, every two years the central administrator shall provide the national administrators a report on the relevant practices in place in each Member State.\n\n5. The central administrator, the competent authorities and national administrators shall only perform processes necessary to carry out their respective functions as set out in Directive 2003/87/EC and the measures adopted pursuant to its provisions.",
+      "text_sha256": "7c793cacd955fa8ec3aaa8e4eeaa84b1a5ec376753df512ed8edcc8f0423e2e5",
+      "md_span": {
+        "start": 7328,
+        "end": 9487
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Member States and the central administrator shall ensure that the Union Registry contains accounts as specified in Annex I.\n\n2. Each account type may hold the unit types as set out in Annex I.",
+      "text_sha256": "1a830f19895f66e24e864d9fe4a95903153763075922bc1372d8d81f766dbbdf",
+      "md_span": {
+        "start": 9520,
+        "end": 9726
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Accounts shall be in one of the following status: ‘open’, ‘blocked’, ‘closure pending’ or ‘closed’. For particular years, accounts may also have the status ‘excluded’.\n\n2. No processes may be initiated from blocked accounts, except for the processes specified in Articles 22, 31 and 56.\n\n3. Before an account is closed, it may be set to status ‘closure pending’ for the period of available remedies against closure or until the conditions of the closure are fulfilled but not longer than 10 years. No processes may be initiated from accounts in status ‘closure pending’, it may not acquire units and all access to these accounts shall be suspended. An account having the status ‘closure pending’ can be set to ‘open’ only if all conditions for opening an account are fulfilled.\n\n4. No processes may be initiated from closed accounts. A closed account may not be re-opened, and may not acquire units.\n\n5. Upon exclusion of an installation from the EU ETS pursuant to Articles 27 or 27a of Directive 2003/87/EC, the national administrator shall set the corresponding operator holding account to excluded status for the duration of the exclusion.\n\n6. Upon notification from the competent authority that an aircraft operator's flights are no longer included in the EU ETS in accordance with Annex I to Directive 2003/87/EC in a given year, the national administrator shall set the corresponding aircraft operator holding account to excluded status, after giving prior notice to the aircraft operator concerned and until notification from the competent authority that an aircraft operator's flights are again included in the EU ETS.\n\n7. No processes may be initiated from excluded accounts, except for the processes specified in Articles 22 and 57 and the processes specified in Articles 31 and 56 corresponding to the period where the account status was not set to excluded.",
+      "text_sha256": "e616df21dc5289be2bb42c7c6a3f88a07876d5ff72aac0d4d474619459c766d1",
+      "md_span": {
+        "start": 9759,
+        "end": 11643
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Every account shall have an administrator who shall be responsible for administering the account on behalf of a Member State or on behalf of the Union.\n\n2. The administrator of an account shall be determined for each account type as set out in Annex I.\n\n3. The administrator of an account shall open, suspend access to, or close an account, change its status, approve authorised representatives, permit changes to account details that require the approval of the administrator, initiate transactions as requested by the account representative or the account holder in accordance with Article 20(6) and (7) and initiate transactions as instructed by the competent authority or the relevant law enforcement authority, in accordance with this Regulation.\n\n4. The administrator may require the account holders and their representatives to agree to comply with reasonable terms and conditions consistent with this Regulation having regard to the issues set out in Annex II.\n\n5. Accounts shall be governed by the laws and fall under the jurisdiction of the Member State of their administrator and the units held in them shall be considered to be situated in that Member State's territory.",
+      "text_sha256": "d412612d184d682cb4278ea5874308da880a0265d09a5929fcbce318f412dc23",
+      "md_span": {
+        "start": 11678,
+        "end": 12875
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nThe central administrator shall notify the account representatives and the national administrator of the proposal for execution and completion or termination of any process related to the account, and of the change of status of the account, through an automated mechanism described in the data exchange and technical specifications provided for in Article 75. Notifications shall be sent in the official language(s) of the Member State of the administrator of the account.",
+      "text_sha256": "ab492a3377b46d77d9e7c7150b5e2d0046d186a475cac70aba75f3b687b58b40",
+      "md_span": {
+        "start": 12910,
+        "end": 13394
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nThe central administrator shall open all ETS management accounts in the Union Registry.",
+      "text_sha256": "e42742da18257c0b31b62fedb8f6787022543743c0f85d97bf2645f8af36b800",
+      "md_span": {
+        "start": 13429,
+        "end": 13528
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. A clearing system or a settlement system as defined in Regulation (EU) No 1031/2010 that is connected to an auction platform appointed pursuant to Article 26 or Article 30 of that Regulation may submit to a national administrator a request for the opening of an auction collateral delivery account in the Union Registry. The person requesting the account shall provide the information set out in Annex IV.\n\n2. Within 20 working days of the receipt of a complete set of information in accordance with paragraph 1 of this Article and Article 21, the national administrator shall open the auction collateral delivery account in the Union Registry or inform the person requesting the account of the refusal to open the account, pursuant to Article 19.\n\n3. Allowances held in an auction collateral delivery account, shall constitute collateral security as defined in Article 2(m) of Directive 98/26/EC of the European Parliament and of the Council.\n\nFor the purposes of Article 9(2) of Directive 98/26/EC, an auction collateral delivery account held in the Union Registry shall constitute the relevant account and shall be deemed to be located in and governed by the laws of the Member State referred to in Article 10(5) of this Regulation.",
+      "text_sha256": "40cd433c9b784a67ff1dcd16434c0fbd3c2975f4e3a25b9212feadb8164dba1c",
+      "md_span": {
+        "start": 13563,
+        "end": 14813
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Within 20 working days of the entry into force of a greenhouse gas emissions permit, the relevant competent authority or the operator shall provide the relevant national administrator with the information set out in Annex VI and shall request the national administrator to open an operator holding account in the Union Registry.\n\n2. Within 20 working days of the receipt of a complete set of information in accordance with paragraph 1 of this Article and Article 21, the national administrator shall open an operator holding account for each installation in the Union Registry or inform the prospective account holder of the refusal to open the account, pursuant to Article 19.\n\n3. A new operator holding account may be opened only if the installation does not already have an operator holding account that was opened based on the same greenhouse gas emissions permit.",
+      "text_sha256": "9a27ea47015a20c6621aff181fb1305c8b050a597320551a31e69ca5638d6d56",
+      "md_span": {
+        "start": 14848,
+        "end": 15731
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Within 20 working days from the approval of the monitoring plan of an aircraft operator, the competent authority or aircraft operator shall provide the relevant national administrator with the information set out in Annex VII and shall request the national administrator to open an aircraft operator holding account in the Union Registry.\n\n2. Each aircraft operator shall have one aircraft operator holding account.\n\n3. Aircraft operators performing aviation activities with total annual emissions lower than 25 000 tonnes of carbon dioxide equivalent per year or operating fewer than 243 flights per period for three consecutive four-month period may mandate a natural person or a legal entity to open an aircraft operator holding account and to surrender the allowances pursuant to Article 12(2a) of Directive 2003/87/EC on their behalf. Responsibility for compliance still remains with the aircraft operator. When mandating the natural person or the legal entity, the aircraft operator shall ensure that there is no conflict of interest amongst the mandated person or entity and competent authorities, national administrators, verifiers or other bodies subject to the provisions of Directive 2003/87/EC and the acts adopted for its implementation. In this case, the natural person or legal entity mandated shall provide the information required in accordance with paragraph 1.\n\n4. Within 20 working days of the receipt of a complete set of information in accordance with paragraph 1 of this Article and Article 21, the national administrator shall open an aircraft operator holding account for each aircraft operator in the Union Registry or inform the prospective account holder of the refusal to open the account, pursuant to Article 19.\n\n5. An aircraft operator shall have only one aircraft operator holding account.",
+      "text_sha256": "c8e55ce2cc8e941245da4874c0e9b93b7b222c79700dc48a1fd4515ac9fa9e9b",
+      "md_span": {
+        "start": 15766,
+        "end": 17603
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. A request for opening a trading account in the Union Registry shall be submitted to the national administrator by the prospective account holder. The prospective account holder shall provide information as required by the national administrator, which shall include, at a minimum, the information set out in Annex IV.\n\n2. The Member State of the national administrator may require as a condition for opening a trading account that the prospective account holders have their permanent residence or registration in the Member State of the national administrator administering the account.\n\n3. The Member State of the national administrator may require as a condition for opening a trading account that prospective account holders are registered for value added tax (VAT) in the Member State of the national administrator of the account.\n\n4. Within 20 working days of the receipt of a complete set of information in accordance with paragraph 1 of this Article and Article 21, the national administrator shall open a trading account in the Union Registry or inform the prospective account holder of the refusal to open the account, pursuant to Article 19.",
+      "text_sha256": "d7e3fe5801e796c4db905fd9db1108fbc00b1d51bb7d6dfd82009410981464e3",
+      "md_span": {
+        "start": 17638,
+        "end": 18804
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nThe competent authority of a Member State shall instruct the national administrator to open a national holding account in the Union Registry within 20 working days of the receipt of the information set out in Annex III.",
+      "text_sha256": "7a89da042e936f5eb3fa07848bc94496bb88e89c94a37cd11a533510b210a708",
+      "md_span": {
+        "start": 18839,
+        "end": 19070
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. A request for registering a verifier in the Union Registry shall be submitted to the national administrator. The person requesting the registration shall provide information as required by the national administrator, including the information set out in Annexes III and V.\n\n2. Within 20 working days of the receipt of a complete set of information in accordance with paragraph 1 of this Article and Article 21, the national administrator shall register the verifier in the Union Registry or inform the prospective verifier of the refusal, pursuant to Article 19.",
+      "text_sha256": "e0f3e6b4e3a059b06916ef13fb0625b94c308a6e000305e527abac470bd3711b",
+      "md_span": {
+        "start": 19105,
+        "end": 19682
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. The national administrator shall verify whether the information and documents provided for account opening or registration are complete, up-to-date, accurate and true.\n\nIn the event of justified doubts, the national administrator may request assistance by another national administrator in carrying out the verification referred to in the first subparagraph. The administrator that has received such request may refuse it. The prospective account holder or verifier may explicitly ask the national administrator to request such assistance. The national administrator shall inform the prospective account holder or verifier of such assistance request.\n\n2. A national administrator may refuse to open an account or register a verifier:\n\n| (a) | if the information and documents provided are incomplete, out-of-date or otherwise inaccurate or false; |\n| --- | --- |\n\n| (b) | if a law enforcement authority provides information or if information is available by other means to a national administrator that the prospective account holder, or, if it is a legal person, any of the directors of the prospective account holder, is under investigation or has been convicted in the preceding five years for fraud involving allowances, money laundering, terrorist financing or other serious crimes for which the account may be an instrument; |\n| --- | --- |\n\n| (c) | if the national administrator has reasonable grounds to believe that the accounts may be used for fraud involving allowances, money laundering, terrorist financing or other serious crimes; |\n| --- | --- |\n\n| (d) | for reasons set out in national law. |\n| --- | --- |\n\n3. Where the national administrator refuses to open an operator holding account or aircraft operator holding account in accordance with paragraph 2, the account may be opened upon instruction from the competent authority. All access to the account shall be suspended in accordance with Article 30(4) until the reasons for refusal listed in paragraph 2 are no longer present.\n\n4. If the national administrator refuses to open an account, the person requesting the account opening may object to the competent authority or the relevant authority under national law, who shall either instruct the national administrator to open the account or uphold the refusal in a reasoned decision, subject to requirements of national law that pursue a legitimate objective compatible with this Regulation and are proportionate.",
+      "text_sha256": "ae88c9c5092e1a2f776ab8d60d009cf6a2c05988e8c085b56480abce9465e005",
+      "md_span": {
+        "start": 19717,
+        "end": 22167
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. The central administrator shall ensure that authorised representatives of accounts in the Union Registry can access the relevant accounts and have one of the following rights on behalf of the account holder:\n\n| (a) | initiate processes; |\n| --- | --- |\n\n| (b) | approve processes, if required; |\n| --- | --- |\n\n| (c) | initiate processes and approve processes initiated by another authorised representative. |\n| --- | --- |\n\n2. At the opening, each account shall have at least two authorised representatives with one of the following combination of rights:\n\n| (a) | one authorised representative with the right to initiate processes and one with right to approve processes; |\n| --- | --- |\n\n| (b) | one authorised representative with the right to initiate processes and approve processes initiated by another authorised representative and one with right to approve processes; |\n| --- | --- |\n\n| (c) | one authorised representative with right to initiate processes and one with the right to initiate processes and approve processes initiated by another authorised representative; |\n| --- | --- |\n\n| (d) | two authorised representatives with the right to initiate processes and approve processes initiated by another authorised representative. |\n| --- | --- |\n\n3. Verifiers shall have at least one authorised representative who initiates relevant processes on behalf of the verifier. A representative of a verifier may not be representative of any account.\n\n4. Account holders may decide that the approval of a second authorised representative is not necessary to propose transfers for execution to accounts on the trusted account list set up pursuant to Article 23. The account holder may withdraw such decision. The decision and the withdrawal of the decision shall be communicated in a duly signed statement submitted to the national administrator.\n\n5. In addition to the authorised representatives specified in paragraphs 1 and 2, accounts may also have authorised representatives with ‘read only’ access to the account.\n\n6. If an authorised representative cannot access the Union Registry for technical or other reasons, the national administrator, in accordance with the rights assigned to that authorised representative, may initiate or approve transactions on behalf of the authorised representative upon request, provided that the national administrator allows such requests and that the access of the authorised representative was not suspended in accordance with this Regulation.\n\n7. If authorised representatives of an account cannot access the Union Registry, account holders may request the national administrator to propose a process for execution in their name, in accordance with this Regulation, provided that the national administrator allows such requests. Such requests may not be made for accounts in closed status.\n\n8. The data exchange and technical specifications laid down in Article 75 may set a maximum number of authorised representatives for each account type.\n\n9. Authorised representatives shall be natural persons over 18 years of age. All authorised representatives of a single account shall be different persons but the same person can be an authorised representative on more than one account. The Member State of the national administrator may require that at least one of the authorised representatives of an account shall be a permanent resident in that Member State, except for representatives of verifiers.",
+      "text_sha256": "5d0b43faff5d422dcea1e41601ea4e85bdcdf8d32cae4f23b293e73951ed38ea",
+      "md_span": {
+        "start": 22202,
+        "end": 25661
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. When requesting the opening of an account or the registration of a verifier, the prospective account holder or verifier shall nominate a number of authorised representatives in accordance with Article 20.\n\n2. When nominating an authorised representative, the account holder shall provide information as required by the administrator. That information shall include, at a minimum, the information set out in Annex VIII.\n\nIf the prospective authorised representative has already been nominated to an account and if the account holder so requests, the national administrator may use the documentation that was submitted at the earlier nomination for the purposes of verification referred to in paragraph 4.\n\n3. Within 20 working days of the receipt of a complete set of information required in accordance with paragraph 2, the national administrator shall approve an authorised representative, or inform the account holder of its refusal. Where evaluation of the nominee information requires more time, the administrator may extend the evaluation process by up to 20 additional working days, and notify the extension to the account holder.\n\n4. The national administrator shall verify whether the information and documents provided for nominating an authorised representative are complete, up-to-date, accurate and true.\n\nIn the event of justified doubts, the national administrator may request assistance by another national administrator in carrying out the verification referred to in the first subparagraph. The administrator that has received such request may refuse it. The prospective account holder or verifier may explicitly ask the national administrator to request such assistance. The national administrator shall inform the prospective account holder or verifier of such assistance request.\n\n5. A national administrator may refuse to approve an authorised representative:\n\n| (a) | if the information and documents provided are incomplete, out-of-date or otherwise inaccurate or false; |\n| --- | --- |\n\n| (b) | if a law enforcement authority provides information or if information is available by other means to a national administrator that the prospective representative is under investigation or has been convicted in the preceding five years for fraud involving allowances, money laundering, terrorist financing or other serious crimes for which the account may be an instrument; |\n| --- | --- |\n\n| (c) | for reasons set out in national law. |\n| --- | --- |\n\n6. If the national administrator refused to approve an authorised representative, the account holder may object to the relevant authority under national law, who shall either instruct the national administrator to approve the representative or uphold the refusal in a reasoned decision, subject to requirements of national law that pursue a legitimate objective compatible with this Regulation and are proportionate.",
+      "text_sha256": "b9b76195ba3bd3b8e5a50995271d886fb5afdadc48cc92e04bb084e46c162297",
+      "md_span": {
+        "start": 25696,
+        "end": 28598
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. All account holders shall notify the national administrator within 10 working days of changes to the account information. In addition, account holders shall confirm to the national administrator by 31 December each year that their account information remains complete, up-to-date, accurate and true.\n\n2. Operators and aircraft operators shall notify the administrator of their account within 10 working days if they have undergone a merger or a split.\n\n3. The notification of change shall be supported by information as required by the national administrator in conformity with this Section. Within 20 working days of the receipt of such a notification and supporting information, the relevant national administrator shall approve the update of the information. The administrator may refuse to update the information in accordance with Article 21(4) and (5). The account holder shall be notified of any such refusal. Objections to such refusals may be raised with the competent authority or the relevant authority under national law in accordance with Article 19(4).\n\n4. At least once every three years, the national administrator shall review whether the account information remains complete, up-to-date, accurate and true, and shall request that the account holder notify any changes as appropriate. For operator holding accounts, aircraft operator holding accounts and verifiers, the review shall take place at least once every five years.\n\n5. The account holder of an operator holding account may only sell or divest of its operator holding account together with the installation linked to the operator holding account.\n\n6. Subject to paragraph 5, no account holder may sell or divest of the ownership of its account to another person.\n\n7. Where the legal entity holding an account in the Union registry changes due to a merger or a split of account holders, the account holder shall be the legal successor of the previous account holder upon submission of the documentation required pursuant to Articles 14, 15 or 16.\n\n8. An authorised representative may not transfer its status as such to another person.\n\n9. An account holder or a verifier may request the removal of an authorised representative. Upon receipt of the request, the national administrator shall suspend the access of the authorised representative. Within 20 working days of the receipt of the request, the relevant administrator shall remove the authorised representative.\n\n10. An account holder may nominate new authorised representatives in accordance with Article 21.\n\n11. If the administering Member State of an aircraft operator changes in accordance with the procedure set out in Article 18a of Directive 2003/87/EC, the central administrator shall update the national administrator of the corresponding aircraft operator holding account. Where the administrator of an aircraft operator holding account changes, the new administrator may require the aircraft operator to submit the account opening information that it requires in accordance with Article 15 and the information about authorised representatives that it requires in accordance with Article 21.\n\n12. Subject to paragraph 11, the Member State responsible for managing an account shall not change.",
+      "text_sha256": "c6dc4d1a6e26d5fec9fcd758e46c943f9f3f3795e2cdc2f15eee1fecdc7d8444",
+      "md_span": {
+        "start": 28633,
+        "end": 31883
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\n1. Accounts in the Union Registry may have a trusted account list.\n\n2. Accounts held by the same account holder and administered by the same national administrator shall be automatically included on the trusted account list.\n\n3. The EU Allocation Account and the Union Deletion Account shall be automatically included on the trusted account list\n\n4. Changes to the trusted account list shall be proposed for execution and finalised through the procedure set out in Article 35. The change shall be initiated and approved by two authorised representatives entitled to initiate and approve processes respectively. The execution of the proposed change shall be immediate for the deletion of accounts from the trusted account list. For all other changes to the trusted account list the execution shall take place at 12.00 Central European Time (CET) on the fourth working day following the proposal.",
+      "text_sha256": "ca417f54c183a61735613aa7ef25af2a48c056d8403e4b137f06cb353212567d",
+      "md_span": {
+        "start": 31918,
+        "end": 32824
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nSubject to Article 29, within 10 working days of the receipt of a request from the account holder of an account other than those specified in Articles 25 and 26, the administrator shall close the account.",
+      "text_sha256": "cc2315372c3d2f5e1708ca1f90ef830334c937c37f70c76aa09f03c3b7d1dce4",
+      "md_span": {
+        "start": 32859,
+        "end": 33075
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\n1. The competent authority shall notify the national administrator within 10 working days of the withdrawal of a greenhouse gas emissions permit or knowledge of cessation of operation of an installation. Within 10 working days of such a notification, the national administrator shall record the relevant date in the Union Registry.\n\n2. The national administrator may close an operator holding account if the following conditions are fulfilled:\n\n| (a) | the installation ceased operation or the greenhouse gas emissions permit was withdrawn; |\n| --- | --- |\n\n| (b) | the year of last emission is registered in the Union Registry; |\n| --- | --- |\n\n| (c) | verified emissions were registered for all years when the operator was included in the EU ETS; |\n| --- | --- |\n\n| (d) | the operator of the relevant installation has surrendered an amount of allowances equal to or greater than its verified emissions; |\n| --- | --- |\n\n| (e) | no return of excess allowances is pending pursuant to Article 48(4). |\n| --- | --- |",
+      "text_sha256": "8f4e20dfa6b719d09057a95e2a36facacb5fe611703e888e00694093efe71cf0",
+      "md_span": {
+        "start": 33110,
+        "end": 34136
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\n1. The competent authority shall notify the national administrator within 10 working days of notification by the account holder or of discovering after examining other evidence, that the aircraft operator merged into another aircraft operator or the aircraft operator has ceased all its operations covered by Annex I to Directive 2003/87/EC.\n\n2. The national administrator may close an aircraft operator holding account if the following conditions are fulfilled:\n\n| (a) | notification pursuant to paragraph 1 has been made; |\n| --- | --- |\n\n| (b) | the year of last emission is registered in the Union Registry; |\n| --- | --- |\n\n| (c) | verified emissions were registered for all years when the aircraft operator was included in the EU ETS; |\n| --- | --- |\n\n| (d) | the aircraft operator has surrendered an amount of allowances equal to or greater than its verified emissions; |\n| --- | --- |\n\n| (e) | no return of excess allowances is pending pursuant to Article 50(6). |\n| --- | --- |",
+      "text_sha256": "4c063f5974ac5d74706611a418bf31ab2257b90a20d577f4b3ef91ea2f7d3793",
+      "md_span": {
+        "start": 34171,
+        "end": 35169
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_27",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 27\n\n1. Within 10 working days of the receipt of a request by a verifier to remove the verifier from the Union Registry, the national administrator shall remove the verifier.\n\n2. The competent authority may also instruct the national administrator to remove a verifier from the Union Registry where one of the following conditions is fulfilled:\n\n| (a) | the verifier's accreditation has expired or has been withdrawn; |\n| --- | --- |\n\n| (b) | the verifier ceased operation. |\n| --- | --- |",
+      "text_sha256": "411e29a2a64a328fc9bb7f0a5ee10b699816612554db014ef757c554cec241fd",
+      "md_span": {
+        "start": 35204,
+        "end": 35700
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_28",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 28\n\n1. If the situation giving rise to the suspension of access to accounts pursuant to Article 30 is not resolved within a reasonable period despite repeated notifications, the competent authority or the relevant law enforcement authority may instruct the national administrator to close those accounts for which access is suspended.\n\nIn the case of operator holding accounts or aircraft operator holding accounts the competent authority or the relevant law enforcement authority may instruct the national administrator to set to blocked status those accounts for which access is suspended until the competent authority determines that the situation giving rise to the suspension no longer subsists.\n\n2. If on a trading account no transactions have been recorded for a period of one year, the national administrator may close that trading account after having notified the account holder that the trading account will be closed within 40 working days unless the national administrator receives a request that the account be maintained. If the national administrator does not receive any such request from the account holder, the national administrator may close the account or set its status to closure pending.\n\n3. The national administrator shall close an operator holding account or an aircraft operator holding account upon instruction from the competent authority on the basis that there is no reasonable prospect of further allowances being surrendered or excess allowances being returned.\n\n4. The national administrator may remove an authorised representative if it considers that the approval of the authorised representative should have been refused in accordance with Article 21(3), and in particular if it discovers that the documents and identification information provided upon nomination were incomplete, out-of-date or otherwise inaccurate or false.\n\n5. The account holder may object to the change of account status of an account in accordance with paragraph 1 or the removal of an authorised representative in accordance with paragraph 4 with the authority competent under national law within 30 calendar days, who shall either instruct the national administrator to reinstate the account or the authorised representative or uphold the change of account status or removal in a reasoned decision, subject to requirements of national law that pursue a legitimate objective compatible with this Regulation and are proportionate.",
+      "text_sha256": "dba455270d7a0af803c35a29385a5db39957debdf7e4906f424a3467e882f93b",
+      "md_span": {
+        "start": 35735,
+        "end": 38185
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_29",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 29\n\nIf there is a positive balance of allowances on an account which an administrator is to close in accordance with Articles 24, 25, 26 and 28, the administrator shall request the account holder to specify another account to which such allowances shall be transferred. If the account holder has not responded to the administrator's request within 40 working days, the administrator may transfer the allowances to its national holding account or set the account status to closure pending.",
+      "text_sha256": "02d03d1168489b82d2d242c1b0da8906ae734e8d78840769d004319471dba719",
+      "md_span": {
+        "start": 38220,
+        "end": 38716
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_30",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 30\n\n1. An administrator may suspend the access of an authorised representative to any account or verifier in the registry or to processes to which that authorised representative would otherwise have access if the administrator has reasonable grounds to believe that the authorised representative has:\n\n| (a) | attempted to access accounts or processes for which he is not authorised; |\n| --- | --- |\n\n| (b) | repeatedly attempted to access an account or a process using an incorrect username and password; or |\n| --- | --- |\n\n| (c) | attempted to compromise the security, the availability, the integrity or the confidentiality of the Union Registry or the EUTL, or of the data handled or stored therein. |\n| --- | --- |\n\n2. An administrator may suspend all access of authorised representatives to a specific account or a verifier where one of the following conditions is fulfilled:\n\n| (a) | the account holder died or ceased to exist as a legal person; |\n| --- | --- |\n\n| (b) | the account holder did not pay fees; |\n| --- | --- |\n\n| (c) | the account holder violated the terms and conditions applicable to the account; |\n| --- | --- |\n\n| (d) | the account holder did not agree to changes in the terms and conditions set by the national administrator or the central administrator; |\n| --- | --- |\n\n| (e) | the account holder did not notify changes to account information or provide evidence concerning the changes to account information, or evidence concerning new requirements on account information; |\n| --- | --- |\n\n| (f) | the account holder failed to maintain compliance with the Member State requirement to have an authorised representative with a permanent residence in the Member State of the national administrator; |\n| --- | --- |\n\n| (g) | the account holder failed to maintain compliance with the Member State requirement that the account holder have a permanent residence or registration in the Member State of the administrator of the account. |\n| --- | --- |\n\n3. An administrator may suspend all access of authorised representatives to a specific account or verifier in any of the following cases:\n\n| (a) | for a maximum period of four weeks if the administrator has reasonable grounds to believe that the account was used or will be used for fraud, money laundering, terrorist financing, corruption or other serious crimes. In this case, provisions of Article 67 shall be applied accordingly. Upon instruction from the financial intelligence unit the period may be extended; |\n| --- | --- |\n\n| (b) | on the basis of and in accordance with national law provisions that pursue a legitimate objective. |\n| --- | --- |\n\n4. The national administrator may suspend all access of authorised representatives to a specific accounts or verifiers if it considers that the opening of the account or the registration of the verifier should have been refused in accordance with Article 19 or that the account holder no longer meets the requirements for the opening of the account.\n\n5. The national administrator may suspend all access of authorised representatives to all accounts of an account holder if it receives information that the account holder has become subject of insolvency procedures. This suspension may be maintained until the national administrator receives official information about who has the rights to represent the account holder and the authorised representatives are confirmed or new authorised representatives are nominated in accordance with Article 21.\n\n6. The administrator of the account shall reverse the suspension immediately once the situation giving rise to the suspension is resolved.\n\n7. The account holder or account representative may object to the suspension of its access in accordance with paragraphs 1 to 3 to the competent authority or the relevant authority under national law within 30 calendar days, who shall either instruct the national administrator to reinstate access or uphold the suspension in a reasoned decision, subject to requirements of national law that pursue a legitimate objective compatible with this Regulation and are proportionate.\n\n8. The competent authority or the Commission may also instruct the national administrator or the central administrator to implement a suspension for one of the grounds set in paragraphs 1 to 5.\n\n9. A national law enforcement authority of the Member State of the administrator may also request the administrator to implement a suspension on the basis of and in accordance with national law.\n\n10. Where the holder of an operator holding account or aircraft operator holding account is prevented from surrendering in the 10 working days preceding the surrender time-limit laid down in Article 12(2a) and (3) of Directive 2003/87/EC due to suspension in accordance with this Article, the national administrator shall, if so requested by the account holder, surrender the number of allowances specified by the account holder.\n\n11. If there is a positive balance of allowances on an account to which access was suspended, the competent authority or the relevant law enforcement authority, in accordance with relevant national law provisions, may instruct the national administrator to transfer immediately the allowances to the relevant national account or set the account status to ‘closure pending’.",
+      "text_sha256": "9056c9d43131159c48e1290c031398887a3b3d9296840102ae2912efe8dcd88f",
+      "md_span": {
+        "start": 38751,
+        "end": 44053
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_31",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 31\n\n1. Whenever required by national law, each operator and aircraft operator shall select a verifier from the list of verifiers registered with the national administrator administering its account.\n\n2. The national administrator, the competent authority or, upon decision of the competent authority, the account holder or the verifier shall enter emissions data for the previous year.\n\n3. Annual emissions data shall be submitted using the format set out in Annex IX.\n\n4. Upon the satisfactory verification in accordance with Article 15 of Directive 2003/87/EC of an operator's report on the emissions from an installation during a previous year, or of an aircraft operator's report on the emissions from all aviation activities it performed during a previous year, the verifier or the competent authority shall approve the annual emissions data.\n\n5. The emissions approved in accordance with paragraph 4 shall be marked as ‘verified’ in the Union Registry by the national administrator or the competent authority. The competent authority may decide that instead of the national administrator, the verifier shall be responsible for marking emissions as ‘verified’ in the Union Registry. All approved emissions shall be marked ‘verified’ by 31 March.\n\n6. The competent authority may instruct the national administrator to correct the annual verified emissions for an installation or an aircraft operator to ensure compliance with Articles 14 and 15 of Directive 2003/87/EC, by entering the corrected verified or estimated emissions for that installation or an aircraft operator for a given year in the Union Registry.\n\n7. Where, on 1 May of each year, no verified emissions figure has been recorded in the Union Registry for an installation or an aircraft operator for a previous year or the verified emissions figure was proven to be incorrect, any substitute emissions figure estimate entered in the Union Registry shall be calculated as closely as possible in accordance with Articles 14 and 15 of Directive 2003/87/EC.",
+      "text_sha256": "b76771a6583fa21313de66b9bb384b70ffbfccb781c6c64e7ae82ab71d5d4ad9",
+      "md_span": {
+        "start": 44088,
+        "end": 46118
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_32",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 32\n\n1. If, on 1 April of each year, the annual emissions of an installation or aircraft operator for the preceding year have not been entered and marked as ‘verified’ in the Union Registry, the central administrator shall ensure that the Union Registry sets the corresponding operator holding account or aircraft operator holding account to a blocked status.\n\n2. When all overdue verified emissions of the installation or aircraft operator for that year have been recorded in the Union Registry, the central administrator shall ensure that the Union Registry sets the account to open status.",
+      "text_sha256": "e865fb6f16ea04b96c1b1e249c1dd7f368465abf460ac5b0350f6c260b5adbc9",
+      "md_span": {
+        "start": 46153,
+        "end": 46752
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_33",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 33\n\n1. The central administrator shall ensure that on 1 May of each year, the Union Registry indicates the compliance status figure for the preceding year for every installation and aircraft operator with an operator or aircraft operator holding account that is not in a closed status by calculating the sum of all allowances surrendered for the current period less the sum of all verified emissions in the current period up to and including the preceding year, plus a correction factor. The compliance status figure shall not be calculated for accounts that had their previous compliance status figure zero or positive and the year of last emissions was set to a year before the preceding year. The calculation shall not take into account the surrender of allowances issued for a period subsequent to the current compliance period.\n\nThe central administrator shall ensure that the Union Registry calculates the compliance status figure before the closure of the account pursuant to Articles 25 and 26.\n\n2. For the trading periods 2008-2012 and 2013-2020, the correction factor referred to in paragraph 1 shall be zero if the compliance status figure of the last year of the previous period was greater than zero, but shall remain the same as the compliance status figure of the last year of the previous period if this figure is less than or equal to zero. For the trading periods starting on 1 January 2021, the correction factor referred to in paragraph 1 shall be the same as the compliance status figure of the last year of the previous period.\n\n3. The central administrator shall ensure that the Union Registry records the compliance status figure for every installation and aircraft operator for each year.",
+      "text_sha256": "2ca4584047c411f92e501de701c1f1deab3610ec0a6f15c42f9481dd655ffd9f",
+      "md_span": {
+        "start": 46787,
+        "end": 48508
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_34",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 34\n\nOnly transactions expressly provided for in this Regulation for each account type shall be initiated by that account type.",
+      "text_sha256": "b2162872f8eec805fdfc1ec487839ce8e8e4a4a3a601a193a385b586e1989471",
+      "md_span": {
+        "start": 48543,
+        "end": 48677
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_35",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 35\n\n1. For all transactions specified in this Chapter, an out of band confirmation shall be required by the Union Registry before the transaction can be proposed for execution. Subject to Article 20(4), a transaction shall only be proposed for execution where an authorised representative initiated and another account representative has approved the transaction out of band.\n\n2. The central administrator shall ensure that all transfers specified in Article 55 to accounts indicated on the trusted account list are executed immediately if they are proposed for execution between 10:00 and 16:00 CET on working days.\n\nA transfer to accounts indicated on the trusted accounts list proposed for execution at any other time shall be executed on the same working day at 10:00 CET, if it is proposed for execution before 10:00 CET, or on the following working day at 10:00 CET, if it is proposed for execution after 16:00 CET.\n\n3. The central administrator shall ensure that all transfers specified in Article 55 to accounts not indicated on the trusted account list and transfers from an Auction Collateral Delivery Account, proposed for execution before 12.00 CET of a working day, are executed at 12.00 CET of the following working day. Transactions proposed for execution after 12.00 CET of a working day shall be executed at 12.00 CET of the second working day following the day of proposal for execution.\n\n4. The central administrator shall ensure that transfers are finalised before 16.00 CET on the day of execution.\n\n5. The central administrator shall ensure that the Union Registry enables to abort a transaction, which is subject to execution rules set out in paragraph 3, before its execution. An authorised representative may initiate aborting a transaction at least two hours before its execution. If aborting a transaction was initiated because of suspected fraud, the account holder shall immediately report it to the competent national law enforcement authority. That report shall be forwarded to the national administrator within 7 working days.\n\n6. If an account representative or the account holder suspects that a transfer, which is subject to execution rules in paragraph 3, was proposed for execution fraudulently, at the latest two hours before its execution, the account representative or the account holder may request the national administrator, or the central administrator where appropriate, to abort the transfer on behalf of the account representative or the account holder. The account holder shall report the suspected fraud to the competent national law enforcement authority immediately following the request. That report shall be forwarded to the national administrator or the central administrator where appropriate, within 7 working days.\n\n7. Upon proposal for execution, a notification shall be sent to all account representatives indicating the proposed execution of the transfer. Upon initiation of aborting a transaction pursuant to paragraph 5, a notification shall be sent to all account representatives and the national administrator administering the account.\n\n8. For the purposes of Article 3(11), Member States may decide that for a given year national public holidays are not to be considered as working days for the purposes of application of this Regulation in that Member State. Such decision shall specify those days and shall be published by 1 December of the year preceding the year concerned.",
+      "text_sha256": "8dd398065348fc5d39d05b0ba73df61f0fdade36445c6f046144ec8d7fe2b277",
+      "md_span": {
+        "start": 48712,
+        "end": 52163
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_36",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 36\n\n1. An allowance shall be a fungible, dematerialised instrument that is tradable on the market.\n\n2. The dematerialized nature of allowances shall imply that the record of the Union Registry shall constitute prima facie and sufficient evidence of title over an allowance, and of any other matter which is by this Regulation directed or authorised to be recorded in the Union Registry.\n\n3. The fungibility of allowances shall imply that any recovery or restitution obligations that may arise under national law in respect of an allowance shall only apply to the allowance in kind.\n\nSubject to Article 58 and the reconciliation process provided for in Article 73, a transaction shall become final and irrevocable upon its finalisation pursuant to Article 74. Without prejudice to any provision of or remedy under national law that may result in a requirement or order to execute a new transaction in the Union Registry, no law, regulation, rule or practice on the setting aside of contracts or transactions shall lead to the unwinding in the registry of a transaction that has become final and irrevocable under this Regulation.\n\nAn account holder or a third party shall not be prevented from exercising any right or claim resulting from the underlying transaction that they may have in law, including to recovery, restitution or damages, in respect of a transaction that has become final in the Union Registry, for instance in case of fraud or technical error, as long as this does not lead to the reversal, revocation or unwinding of the transaction in the Union Registry.\n\n4. A purchaser and holder of an allowance acting in good faith shall acquire title to an allowance free of any defects in the title of the transferor.",
+      "text_sha256": "0c6789511c09fb0ae1741d819dc501ffee0e02bb818de0f2436012e8eec45686",
+      "md_span": {
+        "start": 52198,
+        "end": 53932
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_37",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 37\n\n1. The central administrator may create an EU Total Quantity Account, an EU Aviation Total Quantity Account, an EU Auction Account and an EU Aviation Auction Account as appropriate, and shall create or cancel accounts and allowances as made necessary by Union acts, including as may be required by Directive 2003/87/EC or Article 10(1) of Regulation (EU) No 1031/2010.\n\n2. The central administrator shall ensure that the Union Registry assigns each allowance a unique unit identification code upon its creation.\n\n3. Allowances created from 1 January 2021 onwards shall include an indication showing in which ten-year period beginning from 1 January 2021 they were created.\n\n4. The central administrator shall ensure that the ISIN-codes defined in ISO 6166 for the allowances are displayed in the Union Registry.\n\n5. Subject to paragraph 6, allowances created pursuant to the national allocation table of a Member State which has notified the European Council of its intention to withdraw from the Union pursuant to Article 50 of the Treaty on European Union, or to be auctioned by an Auction Platform appointed by such a Member State, shall be identified by a country code and shall be made distinguishable according to the year of creation.\n\n6. Allowances created shall not be identified with a country code:\n\n| (a) | For years where Union law does not yet cease to apply in that Member State by 30 April of the following year or where it is sufficiently ensured that the surrender of allowances must take place in a legally enforceable manner before the Treaties cease to apply in that Member State; |\n| --- | --- |\n\n| (b) | If allowances were created in respect of years where ensuring compliance with Directive 2003/87/EC for emissions taking place during these years is required by an agreement setting out arrangements for the withdrawal of a Member State which has notified its intention to withdraw from the Union, and the instruments of ratification of both parties to the withdrawal agreement are deposited. |\n| --- | --- |",
+      "text_sha256": "44f9fb07845e2f414f9d8702a909c4b3b58e7ff52f126a897f5fa59c045c7dd4",
+      "md_span": {
+        "start": 53967,
+        "end": 56012
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_38",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 38\n\n1. The central administrator shall, in a timely manner, transfer on behalf of the relevant auctioning Member State as represented by its auctioneer appointed in accordance with Regulation (EU) No 1031/2010, general allowances from the EU Total Quantity Account into the EU Auction Account in a quantity corresponding to the annual volumes determined pursuant to Article 10 of that Regulation.\n\n2. In case of adjustments to the annual volumes in conformity with Article 14 of Regulation (EU) No 1031/2010, the central administrator shall transfer a corresponding quantity of general allowances from the EU Total Quantity Account to the EU Auction Account or from the EU Auction Account to the EU Total Quantity Account, as the case may be.",
+      "text_sha256": "c95287290fbf4e4fede006757687a910171ddaa04ae8d203091d207b100cbb16",
+      "md_span": {
+        "start": 56047,
+        "end": 56797
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_39",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 39\n\nThe central administrator shall, in a timely manner, transfer general allowances from the EU Total Quantity Account into the EU Allocation Account in a quantity corresponding to the sum of the allowances allocated free of charge according to the national allocation table of each Member State.",
+      "text_sha256": "b3652c6d48ad4dbcab4d546cd26c906bd0684a1a897b3db3578c2c5eb1eba868",
+      "md_span": {
+        "start": 56832,
+        "end": 57137
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_40",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 40\n\n1. The central administrator shall, in a timely manner, transfer on behalf of the relevant auctioning Member State as represented by its auctioneer appointed in accordance with Regulation (EU) No 1031/2010, aviation allowances from the EU Aviation Total Quantity Account to the EU Aviation Auction Account in a quantity corresponding to the annual volumes determined pursuant to that Regulation.\n\n2. In case of adjustments to the annual volumes in conformity with Article 14 of Regulation (EU) No 1031/2010, the central administrator shall transfer a corresponding quantity of aviation allowances from the EU Aviation Total Quantity Account to the EU Aviation Auction Account or from the EU Aviation Auction Account to the EU Aviation Total Quantity Account, as the case may be.",
+      "text_sha256": "b737ce2154fc6469faa87c0932458a64598f76247f0e291a559b2c481a460563",
+      "md_span": {
+        "start": 57172,
+        "end": 57962
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_41",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 41\n\n1. The central administrator shall, in a timely manner, transfer aviation allowances from the EU Aviation Total Quantity Account to the EU Aviation Allocation Account in a quantity corresponding to the number of aviation allowances to be allocated free of charge determined by the Commission's decision adopted on the basis of Article 3e(3) of Directive 2003/87/EC.\n\n2. If the number of aviation allowances to be allocated free of charge is increased by a decision pursuant to Article 3e(3) of Directive 2003/87/EC, the central administrator shall transfer further aviation allowances from the EU Aviation Total Quantity Account to the EU Aviation Allocation Account in a quantity corresponding to the increase of the number of aviation allowances to be allocated free of charge.\n\n3. If the number of aviation allowances to be allocated free of charge is decreased by a decision pursuant to Article 3e(3) of Directive 2003/87/EC, the central administrator shall delete aviation allowances on the EU Aviation Allocation Account in a quantity corresponding to the decrease of the number of aviation allowances to be allocated free of charge.",
+      "text_sha256": "18b5a6a165fa2afafb51997658997df13425a2680b52ae5b9354bcfa39eb76be",
+      "md_span": {
+        "start": 57997,
+        "end": 59148
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_42",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 42\n\n1. The central administrator shall, in a timely manner, transfer aviation allowances from the EU Aviation Total Quantity Account to the EU Special Reserve Account in a quantity corresponding to the number of aviation allowances in the special reserve determined by the decision adopted pursuant to Article 3e(3) of Directive 2003/87/EC.\n\n2. If the number of aviation allowances in the special reserve is increased by a decision adopted pursuant to Article 3e(3) of Directive 2003/87/EC, the central administrator shall transfer further aviation allowances from the EU Aviation Total Quantity Account to the EU Special Reserve Account in a quantity corresponding to the increase of the number of aviation allowances in the special reserve.\n\n3. If the number of aviation allowances in the special reserve is decreased by a decision adopted on the basis of Article 3e(3) of Directive 2003/87/EC, the central administrator shall delete aviation allowances on the EU Special Reserve Account in a quantity corresponding to the decrease of the number of allowances in the special reserve.\n\n4. In the case of allocation from the special reserve pursuant to Article 3f of Directive 2003/87/EC, the resulting final amount of aviation allowances allocated free of charge to the aircraft operator for the whole trading period shall be automatically transferred from the EU Special Reserve Account to the EU Aviation Allocation Account.",
+      "text_sha256": "e2630a5a2225134b23026a5bd1953c32e25357fc09b04ac5214b0c68fa3cdbed",
+      "md_span": {
+        "start": 59183,
+        "end": 60618
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_43",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 43\n\nAt the end of each trading period, the central administrator shall transfer all allowances remaining on the EU Allocation Account to the EU Total Quantity Account.",
+      "text_sha256": "6a3706299e063eaf8a7a59572f16010941c34db6f2d6b69935aaadef08c424f0",
+      "md_span": {
+        "start": 60653,
+        "end": 60828
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_44",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 44\n\nAt the end of each trading period, the central administrator shall transfer all allowances remaining on the EU Special Reserve Account to the EU Aviation Total Quantity Account.",
+      "text_sha256": "aa9e916221c02cbe009b0399dc1648d906df225f1b24196987147e53f8ee44cf",
+      "md_span": {
+        "start": 60863,
+        "end": 61052
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_45",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 45\n\nThe central administrator shall ensure that, at the end of each trading period, all allowances remaining on the EU Aviation Allocation Account shall be transferred to the Union Deletion Account.",
+      "text_sha256": "d73fbbd2805298add56195e8cef954da399ca9427485d2cef532d55941f2a9e2",
+      "md_span": {
+        "start": 61087,
+        "end": 61293
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_46",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 46\n\n1. Each Member State shall notify its national allocation table for the period 2021-2025 and for the period 2026-2030 to the Commission by 31 December 2020 and 31 December 2025 respectively. Member States shall ensure that national allocation tables include the information set out in Annex X.\n\n2. The Commission shall instruct the central administrator to enter the national allocation table into the Union Registry if it considers that the national allocation table is in conformity with Directive 2003/87/EC, Delegated Regulation (EU) 2019/331 and decisions adopted by the Commission pursuant to Article 10c of Directive 2003/87/EC. It shall otherwise reject the national allocation table within a reasonable period and inform the Member State concerned without delay, stating its reasons and setting out criteria to be fulfilled for a subsequent notification to be accepted. That Member State shall submit a revised national allocation table to the Commission within three months.",
+      "text_sha256": "f2c0abd2facfaed60415e62e20b3ed7bc72de096201ac7a6681f28df5e6350f6",
+      "md_span": {
+        "start": 61328,
+        "end": 62324
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_47",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 47\n\n1. The central administrator shall ensure that any change to the national allocation table pursuant to the rules governing free allocation to stationary installations are carried out in the Union Registry.\n\n2. Upon introduction of a change pursuant to paragraph 1, a notification shall be sent to the national administrator administering the installation affected by the change.\n\n3. A Member State shall notify the Commission of changes to its national allocation table concerning allocation free of charge pursuant to Article 10c of Directive 2003/87/EC.\n\nOn receiving a notification pursuant to the first subparagraph, the Commission shall instruct the central administrator to make the corresponding changes to the national allocation table held in the Union Registry if it considers that the changes to the national allocation table are in conformity with Article 10c of Directive 2003/87/EC. It shall otherwise reject the changes within a reasonable period and inform the Member State concerned without delay, stating its reasons and setting out criteria to be fulfilled for a subsequent notification to be accepted.",
+      "text_sha256": "ff5e1e30b917d2ae170cccfa748c2f7d5271d31307cf2283f82f8e166d0c8113",
+      "md_span": {
+        "start": 62359,
+        "end": 63492
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_48",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 48\n\n1. The national administrator shall indicate in the national allocation table for each operator, for each year and for each legal basis set out in Annex X, whether or not an installation should receive an allocation for that year.\n\n2. The central administrator shall ensure that the Union Registry transfers general allowances automatically from the EU Allocation Account in accordance with the relevant national allocation table to the relevant open or blocked operator holding account, having regard to the modalities of the automatic transfer specified in the data exchange and technical specifications provided for in Article 75.\n\n3. Where an excluded operator holding account does not receive allowances under paragraph 2, allowances for the years of exclusion shall not be transferred to the account, should it be set to open status for subsequent years.\n\n4. The central administrator shall ensure that an operator can perform transfers returning excess allowances to the EU Allocation Account where the national allocation table of a Member State has been changed pursuant to Article 47 to correct for an over allocation of allowances to the operator, and the competent authority has requested the operator to return such excess allowances.\n\n5. The competent authority may instruct the national administrator to transfer returning excess allowances to the EU Allocation Account where the over allocation of allowances is a consequence of allocation after an operator ceased the activities carried out in the installation to which the allocation relate, without informing the competent authority.",
+      "text_sha256": "ce12791fdd361358550d43da5b870f2f44462aab66d69bc46e97c041b897b345",
+      "md_span": {
+        "start": 63527,
+        "end": 65141
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_49",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 49\n\n1. Member States shall notify the Commission of changes to their national aviation allocation tables.\n\n2. The Commission shall instruct the central administrator to make the corresponding changes to the national aviation allocation tables in the Union Registry if it considers that the change to the national aviation allocation table is in accordance with Directive 2003/87/EC, in particular with the allocations calculated and published pursuant to Article 3f(7) of that Directive in case of allocations from the special reserve. It shall otherwise reject the changes within a reasonable period and inform the Member State without delay, stating its reasons and setting out criteria to be fulfilled for a subsequent notification to be accepted.\n\n3. If a merger between aircraft operators involves aircraft operators that are administered by different Member States, the change shall be initiated by the national administrator administering the aircraft operator whose allocation is to be merged into the allocation of another aircraft operator. Before carrying out the change, consent shall be obtained from the national administrator administering the aircraft operator whose allocation will incorporate the allocation of the merged aircraft operator.",
+      "text_sha256": "052816b6a6ff22a9ecf194fb96c96d9e7d9cce217a80b19577c9968a4710ab24",
+      "md_span": {
+        "start": 65176,
+        "end": 66442
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_50",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 50\n\n1. The national administrator shall indicate for each aircraft operator and for each year whether or not the aircraft operator should receive an allocation for that year in the national aviation allocation table.\n\n2. The central administrator shall ensure that the Union Registry transfers aviation allowances automatically from the EU Aviation Allocation Account to the relevant open or blocked aircraft operator holding account in accordance with the relevant allocation table, having regard to the modalities of the automatic transfer specified in the data exchange and technical specifications provided for in Article 75.\n\n3. Where an agreement pursuant to Article 25 of Directive 2003/87/EC is in force and requires transferring aviation allowances to aircraft operators holding accounts in the registry of another greenhouse gas emissions trading system, the central administrator, in cooperation with the administrator of the other registry, shall ensure that the Union Registry transfers those aviation allowances from the EU Aviation Allocation Account to the corresponding accounts in the other registry.\n\n4. Where an agreement pursuant to Article 25 of Directive 2003/87/EC is in force and requires transferring aviation allowances corresponding to another greenhouse gas emissions trading system to aircraft operators holding accounts in the Union Registry, the central administrator, in cooperation with the administrator of the other registry, shall ensure that the Union Registry transfers those aviation allowances from the corresponding accounts of the other registry to the aircraft operator holding accounts in the Union Registry, upon approval by the competent authority responsible for the administration of the other greenhouse gas emissions trading system.\n\n5. Where an excluded aircraft operator holding account does not receive allowances under paragraph 2, allowances for the years of exclusion shall not be transferred to the account, should it be set to open status for subsequent years.\n\n6. The central administrator shall ensure that an aircraft operator can transfer returning excess allowances to the EU Aviation Allocation Account where the national aviation allocation table of a Member State has been changed pursuant to Article 49 to correct for an over allocation of allowances to the aircraft operator, and the competent authority has requested the aircraft operator to return such excess allowances.\n\n7. The competent authority may instruct the national administrator to transfer returning excess allowances to the EU Allocation Account where the over allocation of allowances is a consequence of allocation after an aircraft operator ceased the activities to which the allocation relate, without informing the competent authority.",
+      "text_sha256": "4a52bc2698f712b0f74e545da1176b83fe4ec85cb4054411f4519310a50c41d2",
+      "md_span": {
+        "start": 66477,
+        "end": 69259
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_51",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 51\n\nWhen a change to the national aviation allocation table is carried out pursuant to Article 25a of Directive 2003/87/EC after the transfer of allowances to the aircraft operator holding accounts for a given year in accordance with Article 50 of this Regulation, the central administrator shall execute any transfer required by any measure adopted pursuant to Article 25a of Directive 2003/87/EC.",
+      "text_sha256": "e8e3658cd578e2958312c6b737df15fd46302e3ee0e6fd6a0f8a8a75a61ddf0a",
+      "md_span": {
+        "start": 69294,
+        "end": 69700
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_52",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 52\n\n1. Within one month of the determination and before the publication of an auction calendar pursuant to Articles 11(1), 13(1), 13(2) or 32(4) of Regulation (EU) No 1031/2010, the relevant settlement system or clearing system as defined in Regulation (EU) No 1031/2010 shall provide the Commission with the corresponding auction table.\n\nThe said settlement system or clearing system shall provide two auction tables for each calendar year from 2012, one for the auctioning of general allowances and one for the auctioning of aviation allowances and shall ensure that the auction tables includes the information set out in Annex XIII.\n\n2. The Commission shall instruct the central administrator to enter the auction table into the EUTL if it considers that the auction table is in conformity with Regulation (EU) No 1031/2010. It shall otherwise reject the auction table within a reasonable period and inform the settlement system or clearing system, as defined in Regulation (EU) No 1031/2010, without delay, stating its reasons and setting out the criteria to be fulfilled for a subsequent submission to be accepted. The said settlement system or clearing system shall accordingly submit a revised auction table to the Commission within three months.\n\n3. Each auction table or revised auction table which is subsequently entered into the EUTL pursuant to paragraph 2 of this Article shall constitute a transfer order, as defined in Article 2(i) of Directive 98/26/EC of the European Parliament and of the Council.\n\nWithout prejudice to Article 53(3), the moment of submission of each such auction table or revised auction table to the Commission, shall constitute the moment of entry of a transfer order into a system, as defined in Article 2(a) of Directive 98/26/EC, pursuant to Article 3(3) of that Directive.",
+      "text_sha256": "6e5ac284d5b830b3a5608e7906ddabc63676344a973420f328b21582095d2225",
+      "md_span": {
+        "start": 69735,
+        "end": 71558
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_53",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 53\n\n1. The relevant settlement system or clearing system as defined in Regulation (EU) No 1031/2010 shall immediately notify the Commission of any necessary amendment to the auction table.\n\n2. The Commission shall instruct the central administrator to enter the revised auction table into the EUTL if it considers that the revised auction table is in conformity with Regulation (EU) No 1031/2010. It shall otherwise reject the changes within a reasonable period and inform the said settlement system or clearing system without delay, stating its reasons and setting out the criteria to be fulfilled for a subsequent notification to be accepted.\n\n3. The Commission may instruct the central administrator to suspend the transfer of allowances as specified in an auction table if it becomes aware of a necessary amendment to the auction table that the aforementioned settlement system or clearing system has failed to notify.",
+      "text_sha256": "df0a1162233e45ee8cd4a0cd4bbe13e5d89d92b0c2f11d3eafcc8b78f4eb970c",
+      "md_span": {
+        "start": 71593,
+        "end": 72523
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_54",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 54\n\n1. The Commission shall instruct the central administrator, in a timely manner, to transfer on request of the auctioning Member State as represented by its auctioneer, appointed in accordance with Regulation (EU) No 1031/2010, general allowances from the EU Auction Account, and/or aviation allowances from the EU Aviation Auction Account to the relevant auction collateral delivery account in accordance with the auction tables. The account holder of the relevant auction collateral delivery account shall ensure the transfer of the auctioned allowances to the successful bidders or their successors in title in accordance with Regulation (EU) No 1031/2010.\n\n2. In accordance with Regulation (EU) No 1031/2010, the authorised representative of an auction collateral delivery account may be required to transfer any allowances that were not delivered from the auction collateral delivery account to the EU Auction Account or the EU Aviation Auction Account respectively.",
+      "text_sha256": "53f58aeb7bbb23970eec732ddec901d2bd1095daeffad403ca42a6f123277ef3",
+      "md_span": {
+        "start": 72558,
+        "end": 73540
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_55",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 55\n\n1. Subject to paragraph 2, upon request of an account holder, the central administrator shall ensure that the Union Registry carries out a transfer of allowances to any other account unless such a transfer is prevented by the status of the initiating or receiving account.\n\n2. Operator holding accounts and aircraft operator holding accounts may only transfer allowances to an account on the trusted account list set up pursuant to Article 23.\n\n3. Holders of operator holding or aircraft operator holding accounts may decide that transfers are possible from their account to accounts not on the trusted account list set up pursuant to Article 23. Holders of operator holding or aircraft operator holding accounts may withdraw such decision. The decision and withdrawal of the decision shall be communicated in a duly signed statement submitted to the national administrator.\n\n4. Upon initiation of a transfer, the authorised representative initiating the transfer shall indicate in the Union Registry if the transfer represents a bilateral transaction unless that transaction is registered at a market venue, or it is cleared at a central counterparty, or it represents a transfer between different accounts of the same account holder in the Union Registry.",
+      "text_sha256": "b38c1c7f667eb540af891c266b0eb1dca78f92546f6308287fb8002939f90a65",
+      "md_span": {
+        "start": 73575,
+        "end": 74844
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_56",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 56\n\n1. An operator or aircraft operator shall surrender allowances by proposing to the Union Registry to:\n\n| (a) | transfer a specified number of allowances from the relevant operator holding account or aircraft operator holding account into the Union Deletion Account; |\n| --- | --- |\n\n| (b) | record the number and type of transferred allowances as surrendered for the emissions of the operator's installation or the emissions of the aircraft operator in the current period. |\n| --- | --- |\n\n2. The central administrator shall ensure that the Union Registry prevents proposal for execution of surrendering allowances that are not to be taken into account for the calculation of the compliance status figure pursuant to Article 33(1).\n\n3. An allowance that was already surrendered may not be surrendered again.\n\n4. Where an agreement is in force in accordance with Article 25 of Directive 2003/87/EC, paragraphs 1, 2 and 3 of this Article shall apply to units issued under the greenhouse gas emissions trading system linked to the EU ETS.\n\n5. Allowances which have a country code pursuant to Article 37(5) may not be surrendered.",
+      "text_sha256": "96eb34d3c550839e488f2422898c2470469c29cf81ba5b4e37867682ccbec4e4",
+      "md_span": {
+        "start": 74879,
+        "end": 76017
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_57",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 57\n\n1. The central administrator shall ensure that the Union Registry carries out any request from an account holder pursuant to Article 12(4) of Directive 2003/87/EC to delete allowances held in the accounts of the account holder by:\n\n| (a) | transferring a specified number of allowances from the relevant account into the Union Deletion Account; |\n| --- | --- |\n\n| (b) | recording the number of transferred allowances as deleted for the current year. |\n| --- | --- |\n\n2. Deleted allowances shall not be recorded as surrendered for any emissions.",
+      "text_sha256": "1da3dea78baa7e352ff7f9ea804d80d56834116610363d0d6631d8765cf15761",
+      "md_span": {
+        "start": 76052,
+        "end": 76608
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_58",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 58\n\n1. If an account holder or a national administrator acting on behalf of the account holder unintentionally or erroneously initiated one of the transactions referred to in paragraph 2, the account holder may propose to the administrator of its account to carry out a reversal of the completed transaction in a written request. The request shall be duly signed by the authorised representative or representatives of the account holder that are authorised to initiate the type of transaction to be reversed and shall be posted within ten working days of the finalisation of the process. The request shall contain a statement indicating that the transaction was initiated erroneously or unintentionally.\n\n2. Account holders may propose the reversal of the following transactions:\n\n| (a) | surrender of allowances; |\n| --- | --- |\n\n| (b) | deletion of allowances. |\n| --- | --- |\n\n3. If the administrator of the account establishes that the request fulfils the conditions under paragraph 1 and agrees with the request, it may propose the reversal of the transaction in the Union Registry.\n\n4. If a national administrator unintentionally or erroneously initiated one of the transactions referred to in paragraph 5, it may propose to the central administrator to carry out a reversal of the completed transaction in a written request. The request shall contain a statement indicating that the transaction was initiated erroneously or unintentionally.\n\n5. National administrators may propose the reversal of the following transactions:\n\n| (a) | allocation of general allowances; |\n| --- | --- |\n\n| (b) | allocation of aviation allowances. |\n| --- | --- |\n\n6. The central administrator shall ensure that the Union Registry accepts the proposal for reversal made pursuant to paragraph 1, blocks the units that are to be transferred by the reversal and forwards the proposal to the central administrator provided that all of the following conditions are met:\n\n| (a) | a transaction surrendering or deleting allowances to be reversed was not completed more than 30 working days prior to the account administrator's proposal in accordance with paragraph 3; |\n| --- | --- |\n\n| (b) | after the reversal of surrendering transaction no operator or aircraft operator would become non-compliant as a result of the reversal. |\n| --- | --- |\n\n7. The central administrator shall ensure that the Union Registry accepts the proposal for reversal made pursuant to paragraph 4, blocks the units that are to be transferred by the reversal and forwards the proposal to the central administrator provided that the following conditions are met:\n\n| (a) | the destination account of the transaction to be reversed still holds the amount of units of the type that were involved in the transaction to be reversed; |\n| --- | --- |\n\n| (b) | the allocation of general allowances to be reversed was carried out after the withdrawal date of the installation's permit or after the installation fully or partially ceased operations. |\n| --- | --- |\n\n8. The central administrator shall ensure that the Union Registry completes the reversal with units of the same unit type on the destination account of the transaction that is being reversed.",
+      "text_sha256": "d9649cb62f33be459bf1e5ebae5264ec2cf5612396900f5fba48925b27dc0728",
+      "md_span": {
+        "start": 76643,
+        "end": 79855
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_59",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_59",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 59\n\nThe central administrator may create accounts and processes and undertake transactions and other operations at appropriate times to implement agreements and arrangements made pursuant to Articles 25 and 25a of Directive 2003/87/EC.",
+      "text_sha256": "0aa50abe0c97c6e928040f5e41848899dd8e8d96fcc59ef0f820b81c61197b9c",
+      "md_span": {
+        "start": 79890,
+        "end": 80133
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_60",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 60\n\n1. The central administrator shall take all reasonable steps to ensure that:\n\n| (a) | the Union Registry is available for access by account representatives and national administrators 24 hours a day, 7 days a week; |\n| --- | --- |\n\n| (b) | the communication links referred to in Article 6 between the Union Registry and the EUTL are maintained 24 hours a day, 7 days a week; |\n| --- | --- |\n\n| (c) | backup hardware and software necessary in the event of a breakdown in operations of the primary hardware and software is provided for; |\n| --- | --- |\n\n| (d) | the Union Registry and the EUTL respond promptly to requests made by account representatives. |\n| --- | --- |\n\n2. The central administrator shall ensure that the Union Registry and EUTL incorporate robust systems and procedures to safeguard all relevant data and facilitate the prompt recovery of data and operations in the event of failure or disaster.\n\n3. The central administrator shall keep interruptions to the operation of the Union Registry and EUTL to a minimum.",
+      "text_sha256": "7a975cc9b18b4c17fd9c4b101581fce20f429ef0278c4256930beb28a1092e57",
+      "md_span": {
+        "start": 80168,
+        "end": 81210
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_61",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 61\n\n1. National administrators shall provide assistance and support to account holders and account representatives in the Union Registry that are administered by them through national helpdesks.\n\n2. The central administrator shall provide support to national administrators through a central helpdesk for the purposes of helping them to provide assistance in accordance with paragraph 1.",
+      "text_sha256": "b1abfadc50a97a7979db2ec5a8f90adef546fde31653eecec219e9650cdef99d",
+      "md_span": {
+        "start": 81245,
+        "end": 81640
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_62",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 62\n\nThe identity of the Union Registry shall be authenticated by the EUTL having regard to the data exchange and technical specifications provided for in Article 75.",
+      "text_sha256": "34d3f4901e625fe5ae75981ba41338678ec22d5f3a916115d444b2913d6d3446",
+      "md_span": {
+        "start": 81675,
+        "end": 81848
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_63",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 63\n\n1. Account representatives shall be able to access their accounts in the Union Registry through the secure area of the Union Registry. The central administrator shall ensure that the secure area of the Union Registry website is accessible through the internet. The website of the Union Registry shall be available in all official languages of the Union.\n\n2. National administrators shall be able to access the accounts they administer in the Union Registry through the secure area of the Union Registry. The central administrator shall ensure that this secure area of the Union Registry website is accessible through the internet.\n\n3. Communications between authorised representatives or national administrators and the secure area of the Union Registry shall be encrypted having regard to the security requirements set out in the data exchange and technical specifications provided for in Article 75.\n\n4. The central administrator shall take all necessary steps to ensure that unauthorised access to the secure area of the Union Registry website does not occur.\n\n5. If the security of the credentials of an authorised representative has been compromised, this authorised representative shall immediately suspend its access to the relevant account, inform the administrator of the account thereof and request new credentials. If the account cannot be accessed in order to suspend the access, the authorised representative shall immediately request the national administrator to suspend its access.",
+      "text_sha256": "79f10f81b03f3b009b47f036bb8714ecd83769fa65e90a189a0f957b0eca50c5",
+      "md_span": {
+        "start": 81883,
+        "end": 83392
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_64",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 64\n\n1. The central administrator shall ensure that national administrators and each authorised representative are assigned credentials to authenticate them for the purposes of accessing the Union Registry.\n\n2. An authorised representative shall only have access to accounts in the Union Registry for which he is authorised and shall only be able to request the initiation of processes for which he is authorised pursuant to Article 21. That access or request shall take place through a secure area of the website of the Union Registry.\n\n3. In addition to the credentials referred to in paragraph 1, an authorised representative shall use secondary authentication to access the Union Registry, having regard to the types of secondary authentication mechanisms set out in the data exchange and technical specifications provided for in Article 75.\n\n4. The administrator of an account may assume that a user who was successfully authenticated by the Union Registry is the authorised representative registered under the provided authentication credentials, unless the authorised representative informs the administrator of the account that the security of his credentials has been compromised and requests a replacement of his credentials.\n\n5. The authorised representative shall take all necessary measures to prevent the loss, theft or compromise of its credentials. The authorised representative shall immediately report to the national administrator the loss, theft or compromise of its credentials.",
+      "text_sha256": "0ad5d840a81a2c8595f573a4b6512ad2c2c38bd8e0d6a9268232f6bf434c8d5d",
+      "md_span": {
+        "start": 83427,
+        "end": 84933
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_65",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_65",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 65\n\n1. The central administrator may temporarily suspend access to the Union Registry or the EUTL or any part thereof where it has a reasonable suspicion that there is a breach of security or a serious risk affecting the security of the Union Registry or of the EUTL within the meaning of Commission Decision (EU, Euratom) 2017/46 (21), including the back-up facilities referred to in Article 60. In case the reasons for suspension persist for more than five working days, the Commission may instruct the central administrator to keep the suspension in place.\n\nThe central administrator shall promptly inform all national administrators about the suspension, its reasons and the likely duration.\n\n2. A national administrator who becomes aware of a breach of security or a security risk shall promptly inform the central administrator. The central administrator may take the measures referred to in paragraph 1.\n\n3. A national administrator who becomes aware of a situation, as described in paragraph 1, which requires the suspension of all access to the accounts that it administers in accordance with this Regulation, shall suspend all access to all accounts it administers and shall promptly inform the central administrator. The central administrator shall inform all national administrators as soon as possible.\n\n4. Account holders shall be informed about measures taken pursuant to paragraphs 1, 2 and 3 with such prior notice of the suspension as practicable. The notice shall include the likely duration of the suspension and shall be clearly displayed on the public area of the Union Registry web site.",
+      "text_sha256": "7f1c8ec45a258a363cc35a04a8cc17d265572b03cc831a1166a10e149e8a5646",
+      "md_span": {
+        "start": 84968,
+        "end": 86586
+      },
+      "citations": [
+        {
+          "href": "#ntr21-L_2019177EN.01000301-E0021",
+          "text": "(21)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_66",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_66",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 66\n\n1. A national administrator or a national administrator acting on instruction of the competent authority or a relevant authority under national law may suspend access to allowances in the part of the Union Registry it administers in any of the following cases:\n\n| (a) | for a maximum period of four weeks if it suspects that the allowances have been the subject of a transaction constituting fraud, money laundering, terrorist financing, corruption or other serious crime; |\n| --- | --- |\n\n| (b) | if suspension is on the basis of and in accordance with national law provisions that pursue a legitimate objective. |\n| --- | --- |\n\nFor the purposes of point (a) of the first subparagraph, provisions of Article 67 shall be applied accordingly. Upon instruction from the financial intelligence unit the period may be extended.\n\n2. The Commission may instruct the central administrator to suspend access to allowances in the Union Registry or the EUTL for a maximum period of four weeks if it suspects that the allowances have been the subject of a transaction constituting fraud, money laundering, terrorist financing, corruption or other serious crime.\n\n3. The national administrator or the Commission shall immediately inform the competent law enforcement authority of the suspension.\n\n4. A national law enforcement authority of the Member State of the national administrator may also request the administrator to implement a suspension on the basis of and in accordance with national law.",
+      "text_sha256": "6039eaacaee7b01a9c480eab50b660b415a379761435c3bd3d427080c068d6fc",
+      "md_span": {
+        "start": 86621,
+        "end": 88122
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_67",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_67",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 67\n\n1. The central adminsitrator and the national administrators shall cooperate with public bodies charged with the supervision of compliance under Directive 2003/87/EC and public bodies competent for the oversight of primary and secondary markets in allowances in order to ensure that they can acquire a consolidated overview of allowances markets.\n\n2. The national administrator, its directors and its employees shall cooperate fully with the relevant competent authorities to establish adequate and appropriate procedures to forestall and prevent operations related to money laundering or terrorist financing.\n\n3. The national administrator, its directors and its employees, shall cooperate fully with the financial intelligence unit (FIU) referred to in Article 32 of Directive (EU) 2015/849 by promptly:\n\n| (a) | informing the FIU, on their own initiative, where they know, suspect or have reasonable grounds to suspect that money laundering, terrorist financing or criminal activity is being or has been committed or attempted; |\n| --- | --- |\n\n| (b) | providing the FIU, at its request, with all necessary information, in accordance with the procedures established by the applicable legislation. |\n| --- | --- |\n\n4. The information referred to in paragraph 2 shall be forwarded to the FIU of the Member State of the national administrator. The national measures transposing the compliance management and communication policies and procedures, referred to in Article 45(1) of Directive (EU) 2015/849, shall designate the person or persons responsible for forwarding information pursuant to this Article.\n\n5. The Member State of the national administrator shall ensure that the national measures transposing Articles 37, 38, 39, 42 and 46 of Directive (EU) 2015/849 apply to the national administrator.\n\n6. Account holders shall immediately report any fraud or suspected fraud to the competent national law enforcement authority. That report shall be forwarded to the national administrators.",
+      "text_sha256": "b5c8adb3e383df1d31830654ed641ffd097a05c7fd7061f5d658d509107898a8",
+      "md_span": {
+        "start": 88157,
+        "end": 90163
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_68",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_68",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 68\n\n1. The Commission may instruct the central administrator to temporarily suspend the acceptance by the EUTL of some or all processes originating from the Union Registry if it is not operated and maintained in accordance with the provisions of this Regulation. It shall immediately notify national administrators concerned.\n\n2. The central administrator may temporarily suspend the initiation or acceptance of some or all processes in the Union Registry for the purposes of carrying out scheduled or emergency maintenance on the Union Registry.\n\n3. A national administrator may request the Commission to reinstate processes suspended in accordance with paragraph 1 if it considers that the outstanding issues that caused the suspension have been resolved. If this is the case, the Commission shall instruct the central administrator to reinstate those processes. It shall otherwise reject the request within a reasonable period and inform the national administrator without delay, stating its reasons and setting out criteria to be fulfilled for a subsequent request to be accepted.\n\n4. The Commission may, including at the request of a Member State which has notified the European Council of its intention to withdraw from the Union pursuant to Article 50 of the Treaty on European Union, instruct the central administrator to temporarily suspend the acceptance by the EUTL of relevant processes for that Member State relating to free allocation and auctioning.",
+      "text_sha256": "da05c4f6500d85e9132836b4327705b3f5a6c14391d10b02d479cebb3018bc4c",
+      "md_span": {
+        "start": 90198,
+        "end": 91670
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_69",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_69",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 69\n\nIn case of suspension or termination of an agreement under Article 25 of Directive 2003/87/EC, the central administrator shall take the appropriate measures in accordance with the agreement.",
+      "text_sha256": "9fd555ebcb194756b8ca746868007fc5246b82da68a90db963d125709ed65695",
+      "md_span": {
+        "start": 91705,
+        "end": 91907
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_70",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_70",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 70\n\n1. All processes must conform to the general IT-requirements of electronic messaging that ensure the successful reading, checking and recording of a process by the Union Registry. All processes must conform to the specific process-related requirements set out in this Regulation.\n\n2. The central administrator shall ensure that the EUTL conducts automated checks having regard to the data exchange and technical specifications provided for in Article 75 for all processes to identify irregularities and discrepancies, where a proposed process does not conform to the requirements of Directive 2003/87/EC and this Regulation.",
+      "text_sha256": "2349cc303d052cab79b977be8f663db1902b7df0228287ceb63db42c4678091e",
+      "md_span": {
+        "start": 91942,
+        "end": 92578
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_71",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 71\n\nIn the case of processes completed through the direct communication link between the Union Registry and the EUTL referred to in Article 6(2), the central administrator shall ensure that the EUTL terminates any processes where it identifies discrepancies upon conducting the automated checks referred to in Article 72(2), and informs thereof the Union Registry and the administrator of the accounts involved in the terminated transaction by returning an automated check response code. The central administrator shall ensure that the Union Registry immediately informs the relevant account holders that the process has been terminated.",
+      "text_sha256": "d05150a6d424292a2295c2d10405d657c4c7b8523d5af9657a543f0dcc27dd28",
+      "md_span": {
+        "start": 92613,
+        "end": 93258
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_72",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_72",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 72\n\n1. The central administrator and Member States shall ensure that the Union Registry contain check input codes and check response codes to ensure the correct interpretation of information exchanged during each process. The check codes shall have regard to those contained in the data exchange and technical specifications provided for in Article 75.\n\n2. The central administrator shall ensure that, prior to and during the execution of all processes, the Union Registry conducts appropriate automated checks to ensure that discrepancies are detected and incorrect processes are terminated in advance of automated checks being conducted by the EUTL.",
+      "text_sha256": "dd259f87a7c039485fbd92e86d8c7d2e53c7887081e113a550192d528063d0de",
+      "md_span": {
+        "start": 93293,
+        "end": 93952
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_73",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_73",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 73\n\n1. The central administrator shall ensure that the EUTL periodically initiates data reconciliation to ensure that the EUTL's records of accounts and holdings of allowances match the records of these holdings in the Union Registry. The central administrator shall ensure that the EUTL records all processes.\n\n2. If during the data reconciliation process referred to in paragraph 1, an inconsistency is identified by the EUTL, whereby the information regarding accounts, holdings of allowances provided by the Union Registry as part of the periodic reconciliation process differs from the information contained in the EUTL, the central administrator shall ensure that the EUTL prevents any further processes to be completed with any of the accounts, allowances which are the subject of the inconsistency. The central administrator shall ensure that the EUTL immediately informs the central administrator and the administrators of the relevant accounts of any inconsistency.",
+      "text_sha256": "cfb0cd87ae76cc30569e61219bbd962508a54e0ddd35334e31c17f3a77d09704",
+      "md_span": {
+        "start": 93987,
+        "end": 94970
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_74",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_74",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 74\n\n1. All transactions and other processes communicated to the EUTL in accordance with Article 6(2) shall be final when the EUTL notifies the Union Registry that it has completed the processes. The central administrator shall ensure that the EUTL automatically aborts the completion of a transaction or process if it could not be completed within 24 hours of its communication.\n\n2. The data reconciliation process referred to in Article 73(1) shall be final when all inconsistencies between the information contained in the Union Registry and the information contained in the EUTL for a specific time and date have been resolved, and the data reconciliation process has been successfully re-initiated and completed.",
+      "text_sha256": "41e186406729017b749616968736ff65a1c1172956adc5ecd0a0d5e77d72f1b5",
+      "md_span": {
+        "start": 95005,
+        "end": 95729
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_75",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_75",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 75\n\n1. The Commission shall make available to national administrators data exchange and technical specifications laying down operational requirements for the Union Registry including the identification codes, automated checks, response codes and data logging requirements, as well as the testing procedures and security requirements.\n\n2. The data exchange and technical specifications shall be drawn up in consultation with the Member States.\n\n3. Standards developed in accordance with agreements under Article 25 of Directive 2003/87/EC shall be consistent with the data exchange and technical specifications drawn up in accordance with paragraphs 1 and 2 of this Article.",
+      "text_sha256": "3361559cab1b70f7c1246d0210d694819b8beef75a4832226ac6235ecc92a4d9",
+      "md_span": {
+        "start": 95764,
+        "end": 96445
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_76",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_76",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 76\n\nIf a new version or release of the Union Registry software is required, the central administrator shall ensure that the testing procedures set out in the data exchange and technical specifications provided for in Article 75 are completed before a communication link is established and activated between the new version or release of that software and the EUTL.",
+      "text_sha256": "af0cb7d756a4fb97174b9614621755d678dcee84f14b9dbfdcd2fb4a51168298",
+      "md_span": {
+        "start": 96480,
+        "end": 96852
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_77",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_77",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 77\n\n1. In relation to the processing of personal data in the Union Registry and the EUTL, the national administrators shall be regarded as controllers within the meaning of Article 4(7) of Regulation (EU) 2016/679. In relation to its responsibilities under this Regulation and the processing of personal data involved therein, the Commission shall be regarded as a controller within the meaning of Article 3(8) of Regulation (EU) 2018/1725.\n\n2. In the case of a personal data breach detected by a national administrator, it shall without undue delay inform the central administrator and other national administrators about the nature and possible consequences of the breach and the measures taken and proposed to be taken to address the personal data breach and to mitigate the possible adverse effects.\n\n3. In the case of a personal data breach detected by the central administrator, it shall without undue delay inform the national administrators about the nature and possible consequences of the breach and the measures taken by the central administrator and proposed to be taken by national administrators to address the personal data breach and to mitigate the possible adverse effects.\n\n4. Arrangements on the respective responsibilities of the controllers for compliance with their data protection obligations shall be included in the terms of cooperation drawn up pursuant to Article 7(4).\n\n5. The central administrator and Member States shall ensure that the Union Registry and the EUTL only store and process the information concerning the accounts, account holders and account representatives as set out in Table III-I of Annex III, Tables VI-I and VI-II of Annex VI, Table VII-I of Annex VII, and Table VIII-I of Annex VIII. Any other information to be provided pursuant to this Regulation shall be stored and processed outside the Union Registry or the EUTL.\n\n6. National administrators shall ensure that information required by this Regulation but not stored in the Union Registry or the EUTL are processed in accordance with the relevant provisions of Union and national law.\n\n7. No special categories of data as defined in Article 9 of Regulation (EU) 2016/679 and Article 10 of Regulation (EU) 2018/1725 shall be recorded in the Union Registry or the EUTL.",
+      "text_sha256": "65c9cd43032b94402f6fddaebe9c7a0caed2b964ecb4685128209cbb3b6628b3",
+      "md_span": {
+        "start": 96887,
+        "end": 99168
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_78",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_78",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 78\n\n1. The central administrator shall ensure that the Union Registry stores records concerning all processes, log data and account holders for five years after the closure of an account.\n\n2. Personal data shall be removed from the records after five years of the closure of an account or after five years of the closure of business relationship, as defined in Article 3(13) of Directive (EU) 2015/849, with a natural person.\n\n3. Personal data may be retained, with access restricted to the central administrator, for additional five years only for the purposes of investigation, detection, prosecution, tax administration or enforcement, auditing and financial supervision of activities involving allowances, or of money laundering, terrorism financing, other serious crime or market abuse for which the accounts in the Union Registry may be an instrument, or of breaches of Union or national law ensuring the functioning the EU ETS.\n\n4. For the purposes of investigation, detection, prosecution, tax administration or enforcement, auditing and financial supervision of activities involving allowances, or of money laundering, terrorism financing, other serious crime or market abuse for which the accounts in the Union Registry may be an instrument, or of breaches of Union or national law ensuring the functioning the EU ETS, personal data controlled by national administrators may be retained after the closure of the business relationship until the end of a period corresponding to the maximum prescription period of these offences laid down in the national law of the national administrator.\n\n5. Account information containing personal data, gathered pursuant to the provisions of this Regulation and not stored in the Union Registry or the EUTL shall be retained according to the provisions of this Regulation.\n\n6. The central administrator shall ensure that national administrators are able to access, query and export all records held in the Union Registry in relation to accounts that are or were administered by them.",
+      "text_sha256": "6dc5d9289524081ae0723cd6b1d8d7c3d78fe6327822df38093aeedec356c565",
+      "md_span": {
+        "start": 99203,
+        "end": 101239
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_79",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_79",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 79\n\n1. The central administrator shall make available the information referred to in Annex XIII to the recipients set out in Annex XIII in a transparent and organised manner. The central administrator shall take all reasonable steps to make available the information referred to in Annex XIII at the frequencies set out in Annex XIII. The central administrator shall not release additional information held in the EUTL or in the Union Registry unless this is permitted under Article 80.\n\n2. National administrators may also make available the part of the information referred to in Annex XIII that they have access to in accordance with Article 80 at the frequencies and to the recipients set out in Annex XIII in a transparent and organised manner on a site publicly accessible via the internet. National administrators shall not release additional information held in the Union Registry unless this is permitted under Article 80.",
+      "text_sha256": "4ed2a753728f7403c720971174803e34f3486fe178e0fc51514deec99bae1f77",
+      "md_span": {
+        "start": 101274,
+        "end": 102213
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_80",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_80",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 80\n\n1. All information, including the holdings of all accounts, all transactions made, the unique unit identification code of the allowances held or affected by a transaction, held in the EUTL and the Union Registry shall be considered confidential except as otherwise required by Union law, or by provisions of national law that pursue a legitimate objective compatible with this Regulation and are proportionate.\n\nThe first subparagraph also applies to any information gathered pursuant to this Regulation and held by the central administrator or the national administrator.\n\n2. The central administrator and the national administrators shall ensure that all persons who work or who have worked for them or entities to whom tasks are delegated, as well as experts instructed by them, are bound by the obligation of professional secrecy. They shall not divulge any confidential information which they may receive in the course of their duties, without prejudice to requirements of national criminal or taxation law or the other provisions of this Regulation.\n\n3. The central administrator or national administrator may provide data stored in the Union Registry and the EUTL or gathered pursuant to this Regulation to the following entities:\n\n| (a) | the police or another law enforcement or judicial authority and tax authorities of a Member State; |\n| --- | --- |\n\n| (b) | the European Anti-fraud Office of the European Commission; |\n| --- | --- |\n\n| (c) | the European Court of Auditors; |\n| --- | --- |\n\n| (d) | Eurojust; |\n| --- | --- |\n\n| (e) | the competent authorities referred to in Article 48 of Directive (EU) 2015/849; |\n| --- | --- |\n\n| (f) | the competent authorities referred to in Article 67 of Directive 2014/65/EU; |\n| --- | --- |\n\n| (g) | the competent authorities referred to in Article 22 of Regulation (EU) No 596/2014; |\n| --- | --- |\n\n| (h) | European Securities and Markets Authority, established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council (22); |\n| --- | --- |\n\n| (i) | Agency for the Cooperation of Energy Regulators established by Regulation (EC) No 713/2009 of the European Parliament and of the Council (23) |\n| --- | --- |\n\n| (j) | competent national supervisory authorities; |\n| --- | --- |\n\n| (k) | the national administrators of Member States and the competent authorities referred to in Article 18 of Directive 2003/87/EC; |\n| --- | --- |\n\n| (l) | the authorities mentioned in Article 6 of Directive 98/26/EC; |\n| --- | --- |\n\n| (m) | the European Data Protection Supervisor and the competent national data protection authorities. |\n| --- | --- |\n\n4. Data may be provided to the entities referred to in paragraph 3 upon their request to the central administrator or to a national administrator if such requests are justified and necessary for the purposes of investigation, detection, prosecution, tax administration or enforcement, auditing and financial supervision of activities involving allowances, or of money laundering, terrorism financing, other serious crime, market abuse for which the accounts in the Union Registry may be an instrument, or of breaches of Union or national law ensuring the functioning the EU ETS.\n\nWithout prejudice to requirements of national criminal or taxation law, the central administrator, the national administrators or other authorities, bodies natural or legal persons, which receive confidential information pursuant to this Regulation, may use it only in the performance of their duties and for the exercise of their functions, in the case of the central administrator and the national administrators, within the scope of this Regulation or, in the case of other authorities, bodies or natural or legal persons, for the purpose for which such information was provided to them and/or in the context of administrative or judicial proceedings specifically relating to the exercise of those functions.\n\nAny confidential information received, exchanged or transmitted pursuant to this Regulation shall be subject to the conditions laid down in this Article. Nevertheless, this Article shall not prevent the central administrator and the national administrators from exchanging or transmitting confidential information in accordance with this Regulation.\n\nThis Article shall not prevent the central administrator and the national administrators from exchanging or transmitting, in accordance with national law, confidential information that has not been received from the central administrator or a national administrator of another Member State.\n\n5. An entity receiving data in accordance with paragraph 4 shall ensure that the data received is only used for the purposes stated in the request in accordance with paragraph 4 and is not made available deliberately or accidentally to persons not involved in the intended purpose of the data use. This provision shall not preclude these entities to make the data available to other entities listed in paragraph 3, if this is necessary for the purposes stated in the request made in accordance with paragraph 4.\n\n6. Upon their request, the central administrator may provide access to transaction data which do not allow the direct identification of specific persons to the entities referred to in paragraph 3 for the purpose of looking for suspicious transaction patterns. Entities with such access may notify suspicious transaction patterns to other entities listed in paragraph 3.\n\n7. Europol shall obtain permanent read-only access to data stored in the Union Registry and the EUTL for the purposes of Article 18 of Regulation (EU) 2016/794 of the European Parliament and of the Council (24). Europol shall keep the Commission informed of the use it makes of the data.\n\n8. National administrators shall make available through secure means to all other national administrators and the central administrator the name, nationality and date and place of birth of persons for whom they refused to open an account in accordance with points (a), (b) and (c) of Article 19(2), or whom they refused to nominate as an authorised representative in accordance with points (a) and (b) of Article 21(5), and the name, nationality and birth date of the account holder and the authorised representatives of accounts to which access has been suspended in accordance with Articles 30(1)(c), 30(2)(a), 30(3)(a) and (b) and Article 30(4) or of accounts that have been closed in accordance with Article 28. National administrators shall ensure that the information is kept up to date and no longer shared when the grounds giving rise to sharing cease to exist. The information shall not be shared for more than five years.\n\nNational administrators shall inform the persons concerned about the fact that their identity was shared with other national administrators and about the duration of this information sharing.\n\nThe persons concerned may object to the information sharing at the competent authority or the relevant authority under national law within 30 calendar days. The competent authority or the relevant authority shall instruct the national administrator either to stop sharing the information or maintain the sharing of information in a reasoned decision, subject to requirements of national law.\n\nThe persons concerned may require the national administrator sharing information pursuant to the first subparagraph to present them the personal data that was shared concerning them. National administrators shall comply with such requests within 20 working days of receiving the request.\n\n9. National administrators may decide to notify to national law enforcement and tax authorities all transactions that involve a number of units above the number determined by the national administrator and to notify any account that is involved in a number of transactions within a period that is above a number determined by the national administrator.\n\n10. The EUTL and the Union Registry shall not require account holders to submit price information concerning allowances.\n\n11. The auction monitor appointed pursuant to Article 24 of Regulation (EU) No 1031/2010 shall have access to all information concerning the auction collateral delivery account held in the Union Registry.",
+      "text_sha256": "ed0e3561a1e51a41bb72d7889bb5205abc1202f4a3a87d5d0b4286edb9c64c4e",
+      "md_span": {
+        "start": 102248,
+        "end": 110472
+      },
+      "citations": [
+        {
+          "href": "#ntr22-L_2019177EN.01000301-E0022",
+          "text": "(22)"
+        },
+        {
+          "href": "#ntr23-L_2019177EN.01000301-E0023",
+          "text": "(23)"
+        },
+        {
+          "href": "#ntr24-L_2019177EN.01000301-E0024",
+          "text": "(24)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_81",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_81",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 81\n\n1. The central administrator shall not charge any fees to account holders in the Union Registry.\n\n2. National administrators may charge reasonable fees to account holders and verifiers administered by them.\n\n3. National administrators shall notify the central administrator of the fees charged and of any changes in the fees within ten working days. The central administrator shall display fees on a public website.",
+      "text_sha256": "453dc3de6f12ce44566be4c6746c87ba11b50fe0e013aa3bdcb7f814043ff3dc",
+      "md_span": {
+        "start": 110507,
+        "end": 110934
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_82",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_82",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 82\n\nThe central administrator shall ensure that interruptions to the operation of the Union Registry are kept to a minimum by taking all reasonable steps to ensure the availability and security of the Union Registry and of the EUTL within the meaning of Decision (EU, Euratom) 2017/46 and by providing for robust systems and procedures to safeguard all information.",
+      "text_sha256": "c2010ca2df8a9d3794d634c07bf42eff518339ed9dc3bc1ffffd20a1cac00d17",
+      "md_span": {
+        "start": 110969,
+        "end": 111342
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_83",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_83",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 83\n\nMember States shall bring into force the laws, regulations and administrative provisions necessary to implement this Regulation, and in particular for national administrators to comply with their obligations to verify and review information submitted pursuant to Articles 19(1), 21(4) and 22(4).",
+      "text_sha256": "c47ad3562ed215cfbb3038c1a984137bb4edf51e32dfb5b2f904b2424bfca05e",
+      "md_span": {
+        "start": 111377,
+        "end": 111684
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_84",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_84",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 84\n\n1. Accounts, as specified in Chapter 3 of Title I of this Regulation, opened or used pursuant to Commission Regulation (EU) No 389/2013 shall remain in use for the purposes of this Regulation.\n\n2. Person holding accounts opened pursuant to Article 18 of Regulation (EU) No 389/2013 shall be transformed into trading accounts.",
+      "text_sha256": "d099c4f8ddea2ddce29b53b057488e1bd80ed5f2290fe78d5f5b11ee515b64a0",
+      "md_span": {
+        "start": 111719,
+        "end": 112056
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_85",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_85",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 85\n\n1. Kyoto units as defined in Article 3(12) of Regulation (EU) No 389/2013 may be held in ETS accounts in the Union Registry until 1 July 2023.\n\n2. After the date referred to in paragraph 1, the central administrator shall provide national administrators with a list of the ETS accounts holding Kyoto units. On the basis of this list, the national administrator shall request the account holder to specify a KP account to which such international credits shall be transferred.\n\n3. If the account holder has not responded to the national administrator's request within 40 working days, the national administrator shall transfer the international credits to a national KP account or an account defined by national law.",
+      "text_sha256": "133e00d04cf5b21644c7838db259458728d1c1a984c658f21a6d6ffe24b82d6d",
+      "md_span": {
+        "start": 112091,
+        "end": 112818
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_86",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_86",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 86\n\nAccount information required by this Regulation that was not required by Regulation (EU) No 389/2013 shall be submitted to national administrators at the latest during the next review referred to in Article 22(4).",
+      "text_sha256": "d19cee6ef4ec32e69d7750d94efeaeb3e721a38a9ebed6f7020bcc16a6f80c18",
+      "md_span": {
+        "start": 112853,
+        "end": 113078
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_87",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_87",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 87\n\nRegulation (EU) No 389/2013 is amended as follows:\n\n| (1) | in Article 7 the following paragraph 4 is added:‘4. The central administrator shall ensure that the Union Registry maintains a communication link with the registries of greenhouse gas emissions trading systems with whom a linking agreement is in force in accordance with Article 25 of Directive 2003/87/EC for the purposes of communicating transactions with allowances.’; |\n| --- | --- |\n\n| (2) | in Article 56 the following paragraphs 4 and 5 are added:‘4. Where an agreement pursuant to Article 25 of Directive 2003/87/EC is in force and requires transferring aviation allowances to aircraft operators holding accounts in the registry of another greenhouse gas emissions trading system, the central administrator, in cooperation with the administrator of the other registry, shall ensure that the Union Registry transfers those aviation allowances from the EU Aviation Allocation Account to the corresponding accounts in the other registry.5. Where an agreement pursuant to Article 25 of Directive 2003/87/EC is in force and requires transferring aviation allowances corresponding to another greenhouse gas emissions trading system to aircraft operators holding accounts in the Union Registry, the central administrator, in cooperation with the administrator of the other registry, shall ensure that the Union Registry transfers those aviation allowances from the corresponding accounts of the other registry to the aircraft operator holding accounts in the Union Registry, upon approval by the competent authority responsible for the administration of the other greenhouse gas emissions trading system.’; |\n| --- | --- |\n\n| (3) | in Article 67 the following paragraph 5 is added:‘5. Where an agreement is in force in accordance with Article 25 of Directive 2003/87/EC, paragraphs 1, 2 and 3 of this Article shall apply to units issued under the greenhouse gas emissions trading system linked to the EU ETS.’; |\n| --- | --- |\n\n| (4) | Article 71 is replaced by the following:‘Article 71Implementation of linking arrangementsThe central administrator may create accounts and processes and undertake transactions and other operations at appropriate times to implement agreements and arrangements made pursuant to Articles 25 and 25a of Directive 2003/87/EC.’; |\n| --- | --- |\n\n| (5) | the following Article 99a is inserted:‘Article 99aSuspension of linking agreementsIn case of suspension or termination of an agreement under Article 25 of Directive 2003/87/EC, the central administrator shall take the measures in accordance with the agreement.’; |\n| --- | --- |\n\n| (6) | in Article 105, the following paragraph 3 is added:‘3. Standards developed in accordance with agreements under Article 25 of Directive 2003/87/EC shall be consistent with the data exchange and technical specifications drawn up in accordance with paragraphs 1 and 2.’; |\n| --- | --- |\n\n| (7) | Article 108 is replaced by the following:‘Article 108Records1. The central administrator shall ensure that the Union Registry stores records concerning all processes, log data and account holders for five years after the closure of an account.2. Personal data shall be removed from the records after five years of the closure of an account or after five years of the closure of business relationship, as defined in Article 3(13) of Directive (EU) 2015/849, with the natural person.3. Personal data may be retained, with access restricted to the central administrator, for additional five years only for the purposes of investigation, detection, prosecution, tax administration or enforcement, auditing and financial supervision of activities involving allowances, or of money laundering, terrorism financing, other serious crime or market abuse for which the accounts in the Union Registry may be an instrument, or of breaches of Union or national law ensuring the functioning the EU ETS.4. For the purposes of investigation, detection, prosecution, tax administration or enforcement, auditing and financial supervision of activities involving allowances, or of money laundering, terrorism financing, other serious crime or market abuse for which the accounts in the Union Registry may be an instrument, or of breaches of Union or national law ensuring the functioning the EU ETS, personal data controlled by national administrators may be retained after the closure of the business relationship until the end of a period corresponding to the maximum prescription period of these offences laid down in the national law of the national administrator.5. Account information containing personal data, gathered pursuant to the provisions of this Regulation and not stored in the Union Registry or the EUTL shall be retained according to the provisions of this Regulation.6. The central administrator shall ensure that national administrators are able to access, query and export all records held in the Union Registry in relation to accounts that are or were administered by them.’ |\n| --- | --- |\n\n| (8) | in Annex XIV, the following point 4a is inserted:‘4a.On 1 May each year, the following information shall be published on agreements which are in force pursuant to Article 25 of Directive 2003/87/EC recorded by the EUTL by 30 April:(a)holdings of allowances issued in the linked emissions trading system on all accounts in the Union Registry;(b)number of allowances issued in the linked emissions trading system used for compliance in the EU ETS;(c)sum of allowances issued in the linked emissions trading system that were transferred to accounts in the Union Registry in the preceding calendar year;(d)sum of allowances that were transferred to accounts in the linked emissions trading system in the preceding calendar year.’. |\n| --- | --- |\n| ‘4a. | On 1 May each year, the following information shall be published on agreements which are in force pursuant to Article 25 of Directive 2003/87/EC recorded by the EUTL by 30 April:(a)holdings of allowances issued in the linked emissions trading system on all accounts in the Union Registry;(b)number of allowances issued in the linked emissions trading system used for compliance in the EU ETS;(c)sum of allowances issued in the linked emissions trading system that were transferred to accounts in the Union Registry in the preceding calendar year;(d)sum of allowances that were transferred to accounts in the linked emissions trading system in the preceding calendar year.’. |\n| (a) | holdings of allowances issued in the linked emissions trading system on all accounts in the Union Registry; |\n| (b) | number of allowances issued in the linked emissions trading system used for compliance in the EU ETS; |\n| (c) | sum of allowances issued in the linked emissions trading system that were transferred to accounts in the Union Registry in the preceding calendar year; |\n| (d) | sum of allowances that were transferred to accounts in the linked emissions trading system in the preceding calendar year.’. |",
+      "text_sha256": "5e07fd8840020d395560ec0216ecc8091e5e1baec9303f464c75549cbc321b83",
+      "md_span": {
+        "start": 113113,
+        "end": 120108
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_88",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_88",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 88\n\nRegulation (EU) No 389/2013 is repealed with effect from 1 January 2021.\n\nHowever, Regulation (EU) No 389/2013 shall continue to apply until 1 January 2026 to all operations required in relation to the trading period between 2013 and 2020, to the second commitment period of the Kyoto Protocol and to the compliance period as defined in Article 3(30) of that Regulation.",
+      "text_sha256": "31479c436fc50d7584d83e4c99c11e01c26b5e74cdd67c52b5a193a402cdeb94",
+      "md_span": {
+        "start": 120143,
+        "end": 120525
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_89",
+      "provision_id": "eu-eurlex:32019r1122:2019-03-12#art_89",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 89\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2021, with the exception of Article 87, which shall apply from the day of entry into force.",
+      "text_sha256": "2537c03a8cc5e36f94d217761615e08fe8fc710485d73a54ade3e736fec240bf",
+      "md_span": {
+        "start": 120560,
+        "end": 120835
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

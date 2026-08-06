@@ -1,0 +1,167 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r1603:2019-07-18",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2019/1603 of 18 July 2019 supplementing Directive 2003/87/EC",
+  "valid_from": "2019-07-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r1603/versions/2019-07-18/fr.xml",
+    "sha256": "300c98c091aab84aa1a724d36cfab94cce580ac4ba57b3cefb4a781e8b0770a4",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R1603"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les obligations de déclaration prévues à l'article 2 ne s'appliquent qu'aux exploitants d'aéronefs qui remplissent l'ensemble des conditions suivantes:\n\n| a) | ils sont titulaires d'un certificat de transporteur aérien délivré par un État membre ou sont enregistrés dans un État membre, y compris dans les régions ultrapériphériques, les dépendances et les territoires dudit État membre; |\n| --- | --- |\n\n| b) | ils produisent des émissions annuelles de CO2 supérieures à 10 000 tonnes, qui proviennent de l'utilisation d'aéronefs ayant une masse maximale certifiée au décollage supérieure à 5 700 kg et effectuant des vols entre aérodromes situés dans différents États de l'Espace économique européen (EEE) ou des vols visés à l'article 2, paragraphe 1, à compter du 1er janvier 2019. |\n| --- | --- |\n\n2. Aux fins du paragraphe 1, point b), les émissions des types de vols suivants ne sont pas prises en compte:\n\n| a) | vols d'État; |\n| --- | --- |\n\n| b) | vols humanitaires; |\n| --- | --- |\n\n| c) | vols médicaux; |\n| --- | --- |\n\n| d) | vols militaires; |\n| --- | --- |\n\n| e) | vols de lutte contre le feu. |\n| --- | --- |",
+      "text_sha256": "97274cfde4ab66d9da02a799edebbbeee97f317252a17c86dac9da0a2da1191b",
+      "md_span": {
+        "start": 642,
+        "end": 1787
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les exploitants d'aéronefs déclarent les émissions des vols suivants:\n\n| a) | les vols entre aérodromes situés dans des États membres et aérodromes situés dans des pays tiers; |\n| --- | --- |\n\n| b) | les vols entre aérodromes situés dans des États membres et aérodromes situés dans des régions ultrapériphériques, des dépendances ou territoires d'autres États membres; |\n| --- | --- |\n\n| c) | les vols entre aérodromes situés dans des régions ultrapériphériques, des dépendances ou territoires d'États membres et des aérodromes situés dans des pays tiers ou des dépendances ou territoires d'autres États membres. |\n| --- | --- |\n\n2. Le paragraphe 1 s'applique également aux exploitants de transport aérien commercial effectuant moins de 243 vols par période pendant trois périodes consécutives de quatre mois au départ ou à destination d'un aérodrome situé sur le territoire d'un État membre.\n\n3. Il est recommandé aux exploitants d'aéronefs de vérifier et de déclarer également leurs émissions provenant de vols entre aérodromes situés dans deux pays tiers différents.\n\n4. Les paragraphes 1 et 3 s'appliquent aux émissions de tout type de vol, excepté les types de vols visés à l'article 1er, paragraphe 2, y compris:\n\n| a) | les vols à des fins de formation, de recherche et de sauvetage; |\n| --- | --- |\n\n| b) | les vols effectués selon les règles de navigation à vue; |\n| --- | --- |\n\n| c) | les vols à des fins de recherche et d'expérimentation scientifiques; |\n| --- | --- |\n\n| d) | les vols effectués dans le cadre d'obligations de service public. |\n| --- | --- |",
+      "text_sha256": "42e046f1262d57920f1e9920a0f70cd3ab249a1cff259e0acce8af4a38902970",
+      "md_span": {
+        "start": 1820,
+        "end": 3404
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Aux fins de la déclaration de leurs émissions conformément à l'article 2 du présent règlement, les exploitants d'aéronefs sont soumis aux mêmes exigences que celles qui sont énoncées à l'article 14 de la directive 2003/87/CE et dans le règlement (UE) no 601/2012. À partir du 1er janvier 2021, ils sont soumis aux mêmes exigences que celles qui sont énoncées dans le règlement d'exécution (UE) 2018/2066.\n\n2. La Commission publie un format d'échange électronique de données aux fins de la déclaration des émissions provenant des vols visés à l'article 2. Les exploitants d'aéronefs utilisent ce format d'échange électronique de données.",
+      "text_sha256": "8388147fc992da8ac0c9d4a26624b44c89a14501aac332b37186cce4250086f9",
+      "md_span": {
+        "start": 3437,
+        "end": 4087
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLa vérification des données relatives aux émissions qui doivent être déclarées conformément à l'article 2 du présent règlement et l'accréditation des vérificateurs qui effectuent cette vérification sont soumises aux mêmes exigences que celles énoncées à l'article 15 de la directive 2003/87/CE et à l'annexe V, partie B, de ladite directive, ainsi que dans le règlement d'exécution (UE) 2018/2067.",
+      "text_sha256": "466a340cf4f1ac9f72b51c0b839c2c1e7d0a781220c98329b7bd100d1773ab71",
+      "md_span": {
+        "start": 4120,
+        "end": 4528
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nUn exploitant d'aéronef figurant sur la liste de l'annexe du règlement (CE) no 748/2009 de la Commission (5) déclare ses émissions à l'État membre responsable précisé dans ladite annexe.\n\nUn exploitant d'aéronef qui ne figure pas sur la liste de l'annexe du règlement (CE) no 748/2009 déclare ses émissions à l'État membre qui a délivré son certificat de transporteur aérien ou, si un certificat de transporteur aérien n'a pas été délivré par un État membre, l'État membre dans lequel cet exploitant a son lieu d'immatriculation.",
+      "text_sha256": "5aa8224fd2e28316960d0e377d673ec5acbbd30f597eef9ec20770071c3156b2",
+      "md_span": {
+        "start": 4561,
+        "end": 5101
+      },
+      "citations": [
+        {
+          "href": "#ntr5-L_2019250FR.01001001-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nÀ la demande d'un État membre, la Commission peut solliciter l'assistance d'Eurocontrol afin d'améliorer l'exactitude des données relatives aux émissions en vue de leur transmission conformément à l'article 7.",
+      "text_sha256": "e899bf85871078657a487d8df34a699e194f96ff7598a1ef57e2c0f8aed10884",
+      "md_span": {
+        "start": 5134,
+        "end": 5354
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nSans préjudice de la révision de la directive 2003/87/CE par le Parlement européen et le Conseil, les États membres transmettent au secrétariat de l'Organisation de l'aviation civile internationale les données relatives aux émissions pertinentes déclarées conformément à l'article 14 de la directive 2003/87/CE et au présent règlement. Avant cette transmission, les autorités compétentes effectuent des vérifications de l'ordre de grandeur des données à transmettre. Dans le même temps, les États membres transmettent également les données relatives aux émissions à la Commission.\n\nLe facteur d'émission indiqué à l'annexe 16, volume IV, de la convention relative à l'aviation civile internationale, signée le 7 décembre 1944 (convention de Chicago), en ce qui concerne le carburant kérosène (Jet A1 ou Jet A), est utilisé aux fins de la transmission des données relatives aux émissions conformément au premier alinéa du présent article.",
+      "text_sha256": "e0c08a3d06da3206a078f74c52c443d462ccc02ea41fa8a6a5c1a3023948361a",
+      "md_span": {
+        "start": 5387,
+        "end": 6335
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "0bb49eccec4e6e2876953d8384c9a1506bb1704caa569e252423a498597ec7a0",
+      "md_span": {
+        "start": 6368,
+        "end": 6509
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

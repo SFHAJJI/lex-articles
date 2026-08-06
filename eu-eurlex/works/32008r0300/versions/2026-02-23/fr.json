@@ -1,0 +1,439 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32008r0300:2026-02-23",
+  "language": "fr",
+  "title": "Regulation (EC) No 300/2008",
+  "valid_from": "2026-02-23",
+  "valid_to": "2026-08-01",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32008r0300/versions/2026-02-23/fr.html",
+    "sha256": "07eeb699b414807c64b1b02975f86008bcb13ab03e5f43363e7c34b921e2f2ea",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02008R0300-20260223"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objectifs",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Le présent règlement instaure des règles communes destinées à protéger l’aviation civile contre des actes d’intervention illicite mettant en péril la sûreté de celle-ci.Il constitue, en outre, la base d’une interprétation commune de l’annexe 17 de la convention de Chicago relative à l’aviation civile internationale.\n\n**2.** Les moyens mis en œuvre pour atteindre les objectifs énoncés au paragraphe 1 sont les suivants:a) l’établissement de règles et normes de base communes en matière de sûreté de l’aviation;b) des mécanismes pour en contrôler l’application.",
+      "text_sha256": "4e32962790a2f90b187a243ca469e8b364c4344ff109719d9cc876459af3273e",
+      "md_span": {
+        "start": 609,
+        "end": 1178
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Champ d’application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Le présent règlement s’applique:a) à tous les aéroports ou parties d’aéroports situés sur le territoire d’un État membre qui ne sont pas exclusivement utilisés à des fins militaires;b) à tous les exploitants, y compris les transporteurs aériens, fournissant des services dans les aéroports visés au point a);c) à toutes les entités appliquant des normes de sûreté de l’aviation qui opèrent dans des locaux situés à l’intérieur ou à l’extérieur des bâtiments de l’aéroport et qui fournissent des biens et/ou des services aux aéroports visés au point a) ou à travers ceux-ci.\n\n**2.** L’application du présent règlement à l’aéroport de Gibraltar s’entend sans préjudice des positions juridiques respectives du Royaume d’Espagne et du Royaume-Uni au sujet du différend relatif à la souveraineté sur le territoire où cet aéroport est situé.",
+      "text_sha256": "2345149e4a4704ab3497649c22e2ddb36f3f5d01b7d44b1da658155a1a378c1a",
+      "md_span": {
+        "start": 1237,
+        "end": 2079
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aux fins du présent règlement, on entend par:\n\n1) «aviation civile», toute exploitation d’aéronef civil, à l’exclusion de l’exploitation des aéronefs d’État visés à l’article 3 de la convention de Chicago relative à l’aviation civile internationale;\n\n2) «sûreté de l'aviation», la combinaison des mesures et des ressources humaines et matérielles visant à protéger l’aviation civile d’actes d’intervention illicite mettant en péril la sûreté de l’aviation civile;\n\n3) «exploitant», une personne, une organisation ou une entreprise effectuant ou proposant d’effectuer un transport aérien;\n\n4) «transporteur aérien», une entreprise de transport aérien titulaire d’une licence d’exploitation valable ou d’un document équivalent;\n\n5) «transporteur aérien communautaire», un transporteur aérien titulaire d’une licence d’exploitation valable délivrée par un État membre conformément au règlement (CEE) no 2407/92 du Conseil du 23 juillet 1992 concernant les licences des transporteurs aériens (1);\n\n6) «entité», une personne, une organisation ou une entreprise autre qu’un exploitant;\n\n7) «articles prohibés», des armes, des explosifs ou d’autres dispositifs, articles ou substances dangereux pouvant être utilisés pour un acte d’intervention illicite mettant en péril la sûreté de l’aviation civile;\n\n8) «inspection/filtrage», la mise en œuvre de moyens techniques ou autres visant à identifier et/ou détecter des articles prohibés;\n\n9) «contrôle de sûreté», la mise en œuvre des moyens permettant de prévenir l’introduction d’articles prohibés;\n\n10) «contrôle des accès», la mise en œuvre des moyens permettant de prévenir l’entrée de personnes ou de véhicules non autorisés, ou des deux;\n\n11) «côté piste», l’aire de mouvement et la totalité ou une partie des terrains et des bâtiments adjacents d’un aéroport, dont l’accès est réglementé;\n\n12) «côté ville», les parties d’un aéroport, y compris la totalité ou une partie des terrains et des bâtiments adjacents, qui ne se trouvent pas du côté piste;\n\n13) «zone de sûreté à accès réglementé», la zone côté piste où, en plus d’un accès réglementé, d’autres normes de sûreté de l’aviation sont appliquées;\n\n14) «zone délimitée», une zone qui est séparée, au moyen d’un contrôle d’accès, des zones de sûreté à accès réglementé ou, si la zone délimitée est elle-même une zone de sûreté à accès réglementé, des autres zones de sûreté à accès réglementé d’un aéroport;\n\n15) «vérification des antécédents», le contrôle consigné de l’identité d’une personne, y compris son casier judiciaire éventuel, dans le but de déterminer si elle peut obtenir un accès non accompagné aux zones de sûreté à accès réglementé;\n\n16) «passagers, bagages, fret ou courrier en correspondance», les passagers, les bagages, le fret ou le courrier partant par un autre aéronef que celui par lequel ils sont arrivés;\n\n17) «passagers, bagages, fret ou courrier en transit», les passagers, les bagages, le fret ou le courrier partant par le même aéronef que celui par lequel ils sont arrivés;\n\n18) «passager susceptible de causer des troubles», un passager qui est une personne expulsée, une personne réputée non admissible par les autorités d’immigration ou encore une personne placée en détention en vertu d’une décision légale;\n\n19) «bagage de cabine», un bagage destiné à être transporté dans la cabine d’un aéronef;\n\n20) «bagage de soute», un bagage destiné à être transporté dans la soute d’un aéronef;\n\n21) «bagage de soute accompagné», un bagage transporté dans la soute d’un aéronef qui a été enregistré pour un vol par un passager voyageant sur ce même vol;\n\n22) «courrier de transporteur aérien», le courrier dont l’expéditeur et le destinataire sont tous deux des transporteurs aériens;\n\n23) «matériel de transporteur aérien», le matériel dont l’expéditeur et le destinataire sont tous deux des transporteurs aériens, ou qui est utilisé par un transporteur aérien;\n\n24) «courrier», les envois de correspondance et d’autres articles, autres que le courrier de transporteur aérien, remis par des services postaux et qui leur sont destinés, conformément aux règles de l’Union postale universelle;\n\n25) «fret», tout bien destiné à être transporté par aéronef, autre que des bagages, du courrier, du courrier de transporteur aérien, du matériel de transporteur aérien ou que les approvisionnements de bord;\n\n26) «agent habilité», un transporteur aérien, un agent, un transitaire ou toute autre entité qui assure les contrôles de sûreté en ce qui concerne le fret ou le courrier;\n\n27) «chargeur connu», un expéditeur qui envoie du fret ou du courrier à son propre compte et dont les procédures se conforment à un degré suffisant aux règles et aux normes de sûreté communes pour que ce fret ou courrier puisse être transporté par tout aéronef;\n\n28) «client en compte», un expéditeur qui envoie du fret ou du courrier à son propre compte et dont les procédures se conforment à un degré suffisant aux règles et normes de sûreté pour que ce fret ou ce courrier puisse être transporté par un aéronef tout-cargo ou un aéronef tout-courrier respectivement;\n\n29) «vérification de sûreté d’un aéronef», l’inspection des parties intérieures d’un aéronef auxquelles les passagers ont pu avoir accès, conjointement à l’inspection de la soute de cet aéronef en vue d’y détecter des articles prohibés ou des interventions illicites sur l’aéronef;\n\n30) «fouille de sûreté d’un aéronef», l’inspection de l’intérieur et de l’extérieur accessible d’un aéronef en vue d’y détecter des articles prohibés ou des interventions illicites mettant en péril la sûreté de l’aéronef;\n\n31) «officier de sûreté à bord», une personne employée par un État pour voyager à bord d’un aéronef d’un transporteur aérien détenteur d’une licence délivrée par cet État, dans le but de protéger cet aéronef et ses occupants contre les actes d’intervention illicite mettant en péril la sûreté du vol.",
+      "text_sha256": "1d43f06c8077e87b760bd6bc651b0ea0765269f7e3674123b07eaf10a6ff6de6",
+      "md_span": {
+        "start": 2130,
+        "end": 8008
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Normes de base communes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les normes de base communes de protection de l’aviation civile contre les actes d’intervention illicite mettant en péril la sûreté de celle-ci figurent en annexe.Il y a lieu d’insérer dans l’annexe les normes de base communes supplémentaires non prévues au moment de l’entrée en vigueur du présent règlement, conformément à la procédure visée à l’article 251 du traité.\n\n**2.** Les mesures de portée générale visant à modifier les éléments non essentiels des normes de base communes visées au paragraphe 1 en les complétant sont arrêtées en conformité avec la procédure de réglementation avec contrôle visée à l’article 19, paragraphe 3.Ces mesures de portée générale concernent:a) les méthodes d’inspection/filtrage autorisées;b) les catégories d’articles qui peuvent être prohibés;c) pour ce qui est du contrôle des accès, les motifs justifiant l’autorisation d’accès au côté piste et aux zones de sûreté à accès réglementé;d) les méthodes autorisées pour le contrôle des véhicules, les vérifications de sûreté d’un aéronef et les fouilles de sûreté d’un aéronef;e) les critères de reconnaissance de l’équivalence des normes de sûreté des pays tiers;f) les conditions dans lesquelles le fret et le courrier doivent être inspectés/filtrés ou soumis à d’autres contrôles de sûreté, ainsi que le processus d’habilitation ou de nomination d’agents habilités, de chargeurs connus ou de clients en compte;g) les conditions dans lesquelles le courrier d’un transporteur aérien et le matériel d’un transporteur aérien sont inspectés/filtrés ou soumis à d’autres contrôles de sûreté;h) les conditions dans lesquelles les approvisionnements de bord et les fournitures destinées aux aéroports sont inspectés/filtrés ou soumis à d’autres contrôles de sûreté, ainsi que le processus d’habilitation ou de nomination de fournisseurs habilités ou de fournisseurs connus;i) les critères de définition des parties critiques des zones de sûreté à accès réglementé;j) les critères de recrutement du personnel et les méthodes de formation;k) les conditions dans lesquelles des procédures spéciales de sûreté ou des exemptions de contrôle de sûreté peuvent s’appliquer, etl) toute mesure de portée générale ayant pour objet de modifier des éléments non essentiels des normes de base communes visées au paragraphe 1 en les complétant et non prévue au moment de l’entrée en vigueur du présent règlement.Pour des raisons d’urgence impérieuses, la Commission peut avoir recours à la procédure d’urgence visée à l’article 19, paragraphe 4.\n\n**3.** Les mesures détaillées de mise en œuvre des normes de base communes visées au paragraphe 1 et les mesures de portée générale visées au paragraphe 2 sont arrêtées en conformité avec la procédure de réglementation visée à l’article 19, paragraphe 2.Ces mesures concernent en particulier:a) les exigences et les procédures en matière d’inspection/filtrage;b) la liste des articles prohibés;c) les exigences et les procédures en matière de contrôle des accès;d) les exigences et les procédures concernant le contrôle des véhicules, les vérifications de sûreté d’un aéronef et les fouilles de sûreté d’un aéronef;e) les décisions visant à reconnaître l’équivalence des normes de sûreté appliquées dans un pays tiers;f) pour ce qui est du fret et du courrier, les procédures d’habilitation et de nomination des agents habilités, des chargeurs connus et des clients en compte, ainsi que les obligations auxquelles lesdits agents, chargeurs et clients sont soumis;g) les exigences et les procédures en matière de contrôle de sûreté du courrier d’un transporteur aérien et du matériel d’un transporteur aérien;h) pour ce qui est des approvisionnements de bord et des fournitures destinées aux aéroports, les procédures d’habilitation ou de nomination des fournisseurs habilités et des fournisseurs connus, ainsi que les obligations auxquelles ces fournisseurs sont soumis;i) la définition des parties critiques des zones de sûreté à accès réglementé;j) les exigences en matière de recrutement et de formation du personnel;k) les procédures spéciales de sûreté ou les exemptions de contrôle de sûreté;l) les spécifications techniques et les procédures d’approbation et d’utilisation des équipements de sûreté, etm) les exigences et les procédures touchant aux passagers susceptibles de causer des troubles.\n\n**4.** La Commission fixe, en modifiant le présent règlement par une décision conformément à la procédure de réglementation avec contrôle visée à l’article 19, paragraphe 3, les critères permettant aux États membres de déroger aux normes de base communes visées au paragraphe 1 et d’adopter d’autres mesures de sûreté procurant un niveau de protection adéquat sur la base d’une évaluation locale des risques. Ces mesures sont justifiées par des raisons liées à la taille de l’aéronef, ou à la nature, l’échelle ou la fréquence de l’exploitation ou d’autres activités pertinentes.Pour des raisons d’urgence impérieuses, la Commission peut avoir recours à la procédure d’urgence visée à l’article 19, paragraphe 4.Les États membres informent la Commission de ces mesures.\n\n**5.** Les États membres veillent à l’application sur leur territoire des normes de base communes visées au paragraphe 1. Lorsqu’un État membre a des raisons d’estimer que le niveau de sûreté de l’aviation a été compromis par un manquement à la sûreté, il veille à ce que des mesures adéquates soient rapidement prises pour remédier à ce manquement et assurer la continuité de la sûreté de l’aviation civile.",
+      "text_sha256": "61f6e923c966cdd91d069ad1bb2e822c27bd8ce0781d2bc5b1ea1f3dae36ed1d",
+      "md_span": {
+        "start": 8071,
+        "end": 13578
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Coûts de sûreté",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Sous réserve des règles de droit communautaire applicables, chaque État membre peut déterminer dans quelles circonstances et dans quelle mesure les coûts engendrés par les mesures de sûreté prises en vertu du présent règlement pour protéger l’aviation civile contre les actes d’intervention illicite devraient être supportés par l’État, les entités aéroportuaires, les transporteurs aériens, d’autres organismes responsables ou les usagers. S’il y a lieu, et conformément au droit communautaire, les États membres peuvent contribuer avec les usagers aux coûts de mesures de sûreté plus strictes prises en vertu du présent règlement. Dans la mesure où cela est possible, les redevances ou transferts des frais afférents à la sûreté sont en relation directe avec les coûts des prestations de services de sûreté concernés et ne dépassent pas les coûts concernés.",
+      "text_sha256": "9ed382338492bc61e64da0f1c5ebb95adf47526c95e1c99f14a1c472350d8b0d",
+      "md_span": {
+        "start": 13633,
+        "end": 14492
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Application de mesures plus strictes par les États membres",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les États membres peuvent appliquer des mesures plus strictes que les normes de base communes visées à l’article 4. Dans ce cas, ils agissent sur la base d’une évaluation des risques et conformément au droit communautaire. Ces mesures sont pertinentes, objectives, non discriminatoires et proportionnées aux risques auxquels elles répondent.\n\n**2.** Les États membres informent la Commission de ces mesures dès que possible après leur mise en œuvre. Dès réception de cette information, la Commission la transmet aux autres États membres.\n\n**3.** Les États membres ne sont pas tenus d’informer la Commission si les mesures en question sont limitées à un vol donné à une date précise.",
+      "text_sha256": "b0bdc8cdc7a984c3344a1cfbe4f4237e75d8ca167d509d80f5e80eed3c63ac0c",
+      "md_span": {
+        "start": 14590,
+        "end": 15279
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Mesures de sûreté demandées par des pays tiers",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Sans préjudice de tout accord bilatéral auquel la Communauté est partie, un État membre notifie à la Commission les mesures demandées par un pays tiers si elles sont différentes des normes de base communes visées à l’article 4, en ce qui concerne les vols au départ d’un aéroport situé dans un État membre et à destination de ce pays tiers ou survolant celui-ci.\n\n**2.** À la demande de l’État membre concerné ou de sa propre initiative, la Commission examine toute demande de mesure notifiée en vertu du paragraphe 1 et peut, conformément à la procédure de réglementation visée à l’article 19, paragraphe 2, élaborer une réponse adéquate destinée au pays tiers concerné.\n\n**3.** Les paragraphes 1 et 2 ne s’appliquent pas si:a) l’État membre concerné applique les mesures en question conformément à l’article 6, ou sib) la demande du pays tiers se limite à un vol donné à une date précise.",
+      "text_sha256": "0d3f3d993a442bf806fb4a113efc28890a2e9cf41d9b76126d4fdc8118078780",
+      "md_span": {
+        "start": 15365,
+        "end": 16262
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Coopération avec l’Organisation de l’aviation civile internationale",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Sans préjudice de l’article 300 du traité, la Commission peut conclure avec l’Organisation de l’aviation civile internationale (OACI) un protocole d’accord concernant les audits en vue d’éviter tout double contrôle du respect, par les États membres, de l’annexe 17 de la convention de Chicago relative à l’aviation civile internationale.",
+      "text_sha256": "7c6f3eb058327e07ce66a07392fe5dc2c98968a33866d037f5dec73d961fdd22",
+      "md_span": {
+        "start": 16369,
+        "end": 16706
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Autorité compétente",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Lorsque, dans un même État membre, deux organismes ou plus sont chargés de la sûreté de l’aviation civile, l’État membre en question désigne une seule autorité (ci-après «l’autorité compétente») comme responsable de la coordination et de la surveillance de la mise en œuvre des normes de base communes visées à l’article 4.",
+      "text_sha256": "14a17e819dcb0f793c2f7a21be978d49a7a9e3a309f06ace3c478c1d77c85799",
+      "md_span": {
+        "start": 16765,
+        "end": 17088
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Programme national de sûreté de l’aviation civile",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Chaque État membre élabore, applique et maintient un programme national de sûreté de l’aviation civile.Ce programme définit les responsabilités en matière de mise en œuvre des normes de base communes visées à l’article 4 et décrit les mesures demandées à cet effet aux exploitants et aux entités.\n\n**2.** L’autorité compétente met par écrit à la disposition des exploitants et des entités dont elle estime qu’ils y ont un intérêt légitime, selon le principe du «besoin d’en connaître», les parties appropriées de son programme national de sûreté de l’aviation civile.",
+      "text_sha256": "680bfc53c229711d1f5099da36f29be6e0a42ffb3cdc8cda6a47d017cdeed31a",
+      "md_span": {
+        "start": 17179,
+        "end": 17753
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Programme national de contrôle de la qualité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Chaque État membre élabore, applique et maintient un programme national de contrôle de la qualité.Ce programme permet à l’État membre de contrôler la qualité de la sûreté de l’aviation civile afin de veiller au respect tant du présent règlement que de son programme national de sûreté de l’aviation civile.\n\n**2.** Les spécifications du programme national de contrôle de la qualité sont arrêtées en modifiant le présent règlement par l’ajout d’une annexe en conformité avec la procédure de réglementation avec contrôle visée à l’article 19, paragraphe 3.Pour des raisons d’urgence impérieuses, la Commission peut avoir recours à la procédure d’urgence visée à l’article 19, paragraphe 4.Le programme doit permettre de déceler et de corriger rapidement les déficiences. Il prévoit également que tous les aéroports, exploitants et entités responsables de la mise en œuvre de normes de sûreté de l’aviation qui sont situés sur le territoire de l’État membre concerné font l’objet d’une surveillance régulière exercée directement par l’autorité compétente ou sous la supervision de celle-ci.",
+      "text_sha256": "1de8c65db39ff4aabdd7ee2f47fc3378bc9bfb8da118ebc02b1362ba87c4b962",
+      "md_span": {
+        "start": 17839,
+        "end": 18933
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Programme de sûreté aéroportuaire",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Chaque exploitant d’aéroport élabore, applique et maintient un programme de sûreté aéroportuaire.Ce programme décrit les méthodes et les procédures à suivre par l’exploitant d’aéroport afin de se conformer à la fois au présent règlement et au programme national de sûreté de l’aviation civile de l’État membre dans lequel l’aéroport est situé.Le programme comprend des dispositions relatives au contrôle interne de la qualité décrivant la manière dont l’exploitant d’aéroport doit veiller au respect de ces méthodes et procédures.\n\n**2.** Le programme de sûreté aéroportuaire est soumis à l’autorité compétente, qui peut prendre des mesures additionnelles s’il y a lieu.",
+      "text_sha256": "e25c6229d31a597126d5ec0d2e18cba1a96829e220e28798488f851014a47cf6",
+      "md_span": {
+        "start": 19008,
+        "end": 19685
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Programme de sûreté du transporteur aérien",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Chaque transporteur aérien élabore, applique et maintient un programme de sûreté du transporteur aérien.Ce programme décrit les méthodes et les procédures à suivre par le transporteur aérien afin de se conformer tant au présent règlement qu’au programme national de sûreté de l’aviation civile de l’État membre à partir duquel il fournit ses services.Ce programme comprend des dispositions relatives au contrôle interne de la qualité décrivant la manière dont le transporteur aérien doit veiller au respect de ces méthodes et procédures.\n\n**2.** Sur demande, le programme de sûreté du transporteur aérien est soumis à l’autorité compétente, qui peut prendre des mesures additionnelles s’il y a lieu.\n\n**3.** Lorsque le programme de sûreté d’un transporteur aérien communautaire a été validé par l’autorité compétente de l’État membre accordant la licence d’exploitation, le transporteur aérien est réputé, pour tous les autres États membres, avoir satisfait aux exigences prévues au paragraphe 1. Cela est sans préjudice du droit d’un État membre de demander à tout transporteur aérien des informations détaillées sur la mise en œuvre des éléments suivants:a) les mesures de sûreté appliquées par cet État membre en vertu des dispositions de l’article 6, et/oub) les procédures locales applicables dans les aéroports desservis.",
+      "text_sha256": "41bf800991ac9a01fee5ed8e182c51649779ac6b76dbc5b47988bf8f02c355cc",
+      "md_span": {
+        "start": 19769,
+        "end": 21103
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Programme de sûreté d’une entité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Chaque entité tenue d’appliquer des normes de sûreté de l’aviation civile, en vertu du programme national de sûreté de l’aviation civile visé à l’article 10, élabore, applique et maintient un programme de sûreté.Ce programme décrit les méthodes et les procédures à suivre par l’entité afin de se conformer au programme national de sûreté de l’aviation civile de l’État membre concerné, pour ce qui est de son exploitation dans cet État membre.Le programme comprend des dispositions relatives au contrôle interne de la qualité décrivant la manière dont l’entité doit elle-même veiller au respect de ces méthodes et procédures.\n\n**2.** Sur demande, le programme de sûreté de l’entité appliquant les normes de sûreté de l’aviation est soumis à l’autorité compétente, qui peut prendre des mesures additionnelles s’il y a lieu.",
+      "text_sha256": "48928bf0cfcc557ec45fd6bb3a9cf4201a94d7d83c2f5a1f40205b244f953948",
+      "md_span": {
+        "start": 21177,
+        "end": 22006
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Inspections de la Commission",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** La Commission, en coopération avec l’autorité compétente de l’État membre concerné, réalise des inspections, y compris dans les aéroports et auprès des exploitants et des entités appliquant des normes de sûreté de l’aviation, afin de veiller à l’application du présent règlement par les États membres et, le cas échéant, de formuler des recommandations visant à renforcer la sûreté de l’aviation. À cet effet, l’autorité compétente informe la Commission par écrit de tous les aéroports affectés à l’aviation civile situés sur son territoire autres que ceux visés à l’article 4, paragraphe 4.Les procédures relatives à l’exécution des inspections par la Commission sont arrêtées en conformité avec la procédure de réglementation visée à l’article 19, paragraphe 2.\n\n**2.** Les inspections réalisées par la Commission dans les aéroports et auprès des exploitants et des entités appliquant des normes de sûreté de l’aviation sont inopinées. La Commission informe suffisamment à l’avance l’État membre concerné de la réalisation d’une inspection.\n\n**3.** Chaque rapport d’inspection de la Commission est communiqué à l’autorité compétente de l’État membre concerné qui, dans sa réponse, expose les mesures prises pour remédier aux déficiences constatées.Ce rapport, accompagné de la réponse de l’autorité compétente, est ensuite communiqué à l’autorité compétente de chacun des autres États membres.",
+      "text_sha256": "bfdb84c0c18d8ea0710df31077e3e46f3c4cbc1ed336e406e168d2b4ceef0a6e",
+      "md_span": {
+        "start": 22076,
+        "end": 23478
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Rapport annuel",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La Commission présente chaque année au Parlement européen, au Conseil et aux États membres un rapport qui les informe à la fois de l’application du présent règlement et de son impact sur l’amélioration de la sûreté de l’aviation.",
+      "text_sha256": "29f9ba316a9b41a57fed3c27fc8572d99cdd7d20abd11d251b9d14e410a19f82",
+      "md_span": {
+        "start": 23534,
+        "end": 23763
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Groupe consultatif des parties intéressées",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Sans préjudice du rôle dévolu au comité visé à l’article 19, la Commission établit un groupe consultatif des parties intéressées à la sûreté de l’aviation regroupant les organisations représentatives européennes opérant dans la sûreté de l’aviation ou directement concernées par celle-ci. Ce groupe a uniquement pour mission de conseiller la Commission. Le comité visé à l’article 19 tient le groupe consultatif des parties intéressées informé pendant toute la durée de la procédure réglementaire.",
+      "text_sha256": "ce76a6b2ba5ce40a2b39605029f784803a4eb5839644cc914570a620858ffce8",
+      "md_span": {
+        "start": 23847,
+        "end": 24344
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Diffusion des informations",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "En règle générale, la Commission publie les mesures qui ont une incidence directe sur les passagers. Toutefois, les documents suivants sont considérés comme «informations classifiées de l’Union européenne» au sens de la décision 2001/844/CE, CECA, Euratom:\n\na) les mesures et les procédures visées à l’article 4, paragraphes 3 et 4, à l’article 6, paragraphe 1, et à l’article 7, paragraphe 1, si elles contiennent des informations sensibles relatives à la sûreté;\n\nb) les rapports d’inspection de la Commission et les réponses des autorités compétentes visés à l’article 15, paragraphe 3.",
+      "text_sha256": "dfe6495616f8ec3510d3bffd509f99cffa398db0c1ae0edd4aeb0b6c1f2f7237",
+      "md_span": {
+        "start": 24412,
+        "end": 25001
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Procédure de comité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** La Commission est assistée par un comité.\n\n**2.** Dans le cas où il est fait référence au présent paragraphe, les articles 5 et 7 de la décision 1999/468/CE s’appliquent, dans le respect des dispositions de l’article 8 de celle-ci.La période prévue à l’article 5, paragraphe 6, de la décision 1999/468/CE est fixée à un mois.\n\n**3.** Dans le cas où il est fait référence au présent paragraphe, l’article 5 *bis*, paragraphes 1 à 4, et l’article 7 de la décision 1999/468/CE s’appliquent, dans le respect des dispositions de l’article 8 de celle-ci.\n\n**4.** Dans le cas où il est fait référence au présent paragraphe, l’article 5 *bis*, paragraphes 1, 2, 4 et 6, et l’article 7 de la décision 1999/468/CE s’appliquent, dans le respect des dispositions de l’article 8 de celle-ci.",
+      "text_sha256": "f61284c52f9d5bb950ee5aa306d0cda9932fdd8e8db5273bf36ae43f1b195616",
+      "md_span": {
+        "start": 25062,
+        "end": 25847
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Accords entre la Communauté et les pays tiers",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le cas échéant et conformément à la législation communautaire, des accords reconnaissant que les normes de sûreté appliquées dans un pays tiers sont équivalentes aux normes communautaires pourraient être envisagés dans des accords sur l’aviation conclus entre la Communauté et un pays tiers conformément à l’article 300 du traité, afin de promouvoir l’objectif du «contrôle unique de sûreté» pour tous les vols entre l’Union européenne et les pays tiers.",
+      "text_sha256": "8b2306b6947736d5f91dbd916b2b8cb259973b8733d4284b12f5ed7cecd8a33e",
+      "md_span": {
+        "start": 25934,
+        "end": 26388
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Sanctions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres déterminent le régime de sanctions applicable aux violations des dispositions du présent règlement et prennent toutes les mesures nécessaires pour assurer l’application de ces sanctions. Ces sanctions doivent être effectives, proportionnées et dissuasives.",
+      "text_sha256": "6c47e3d70ebc5349b27f015eaccc4b8579976ba21fc5cd92ce320855032bdcda",
+      "md_span": {
+        "start": 26439,
+        "end": 26713
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Rapport de la Commission sur le financement",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La Commission fait rapport, au plus tard le 31 décembre 2008, sur les principes du financement des coûts des mesures de sûreté dans le domaine de l’aviation civile. Ce rapport examine les mesures qui doivent être prises afin de garantir que les redevances de sûreté soient utilisées exclusivement pour couvrir les coûts afférents à la sûreté, et afin d’améliorer la transparence de ces redevances. Ce rapport traite également des principes nécessaires pour maintenir une concurrence non faussée entre aéroports et entre transporteurs aériens et des différentes méthodes pour garantir la protection des consommateurs en ce qui concerne la répartition des coûts des mesures de sûreté entre les contribuables et les usagers. Le rapport de la Commission est accompagné le cas échéant d’une proposition législative.",
+      "text_sha256": "abd7b1e20db28f68aa96be2d12564546293c88ca1f2473fbbd1e24ea339bd51f",
+      "md_span": {
+        "start": 26798,
+        "end": 27608
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Abrogation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le règlement (CE) no 2320/2002 est abrogé.",
+      "text_sha256": "b1a32c9c84896fab0b6a82b2d98c030c352b5c8e928658ef63e9d91684a3e48b",
+      "md_span": {
+        "start": 27660,
+        "end": 27702
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32008r0300:2026-02-23#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Entrée en vigueur",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.\n\n**2.** Il est applicable à partir de la date précisée dans les règles de mise en œuvre adoptées conformément aux procédures visées à l’article 4, paragraphes 2 et 3, mais au plus tard dans les vingt-quatre mois suivant l’entrée en vigueur du présent règlement.\n\n**3.** Par dérogation au paragraphe 2, l’article 4, paragraphes 2, 3 et 4, l’article 8, l’article 11, paragraphe 2, l’article 15, paragraphe 1, deuxième alinéa, les articles 17, 19 et 22 sont applicables à partir de la date d’entrée en vigueur du présent règlement.",
+      "text_sha256": "148a1aeeaca0e4e5b72e4755cc693934a3cca8ce214b65e79f8121b45c56d71d",
+      "md_span": {
+        "start": 27761,
+        "end": 28429
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

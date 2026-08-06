@@ -4,10 +4,10 @@ title: 'RED II — Directive (EU) 2018/2001'
 valid_from: '2018-12-21'
 valid_to: '2022-06-06'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018L2001-20181221'
-source_sha256: '58bd0ed56bb8b2fc0aa2aeab63fa8f0a82a658b80bbaf171119a4d632126430c'
+source_sha256: 'c7ceb214d0298991ffd59a4b0dc7fd03d4f5b39368b32f295b587e2aaf0d8f76'
 license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
 attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
-generator: 'fmx4-eu/1 · lex derive'
+generator: 'xhtml-eu/1 · lex derive'
 ---
 
 <a id="art_1"></a>
@@ -20,7 +20,7 @@ This Directive establishes a common framework for the promotion of energy from r
 
 ### Article 2 — Definitions
 
-For the purposes of this Directive, the relevant definitions in Directive 2009/72/EC of the European Parliament and of the Council apply.
+For the purposes of this Directive, the relevant definitions in Directive 2009/72/EC of the European Parliament and of the Council (1) apply.
 
 The following definitions also apply:
 
@@ -36,15 +36,15 @@ The following definitions also apply:
 
 (6) ‘renewable energy obligation’ means a support scheme requiring energy producers to include a given share of energy from renewable sources in their production, requiring energy suppliers to include a given share of energy from renewable sources in their supply, or requiring energy consumers to include a given share of energy from renewable sources in their consumption, including schemes under which such requirements may be fulfilled by using green certificates;
 
-(7) ‘financial instrument’ means a financial instrument as defined in point (29) of Article 2 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council;
+(7) ‘financial instrument’ means a financial instrument as defined in point (29) of Article 2 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (2);
 
-(8) ‘SME’ means a micro, small or medium-sized enterprise as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC;
+(8) ‘SME’ means a micro, small or medium-sized enterprise as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC (3);
 
 (9) ‘waste heat and cold’ means unavoidable heat or cold generated as by-product in industrial or power generation installations, or in the tertiary sector, which would be dissipated unused in air or water without access to a district heating or cooling system, where a cogeneration process has been used or will be used or where cogeneration is not feasible;
 
 (10) ‘repowering’ means renewing power plants that produce renewable energy, including the full or partial replacement of installations or operation systems and equipment for the purposes of replacing capacity or increasing the efficiency or capacity of the installation;
 
-(11) ‘distribution system operator’ means an operator as defined in point (6) of Article 2 of Directive 2009/72/EC and in point (6) of Article 2 of Directive 2009/73/EC of the European Parliament and of the Council;
+(11) ‘distribution system operator’ means an operator as defined in point (6) of Article 2 of Directive 2009/72/EC and in point (6) of Article 2 of Directive 2009/73/EC of the European Parliament and of the Council (4);
 
 (12) ‘guarantee of origin’ means an electronic document which has the sole function of providing evidence to a final customer that a given share or quantity of energy was produced from renewable sources;
 
@@ -132,15 +132,7 @@ If, on the basis of the assessment of the draft integrated national energy and c
 
 **4.** From 1 January 2021, the share of energy from renewable sources in each Member State's gross final consumption of energy shall not be lower than the baseline share shown in the third column of the table in Part A of Annex I to this Directive. Member States shall take the necessary measures to ensure compliance with that baseline share. If a Member State does not maintain its baseline share as measured over any one-year period, the first and second subparagraphs of Article 32(4) of Regulation (EU) 2018/1999 shall apply.
 
-**5.** The Commission shall support the high ambition of Member States through an enabling framework comprising the enhanced use of Union funds, including additional funds to facilitate a just transition of carbon intensive regions towards increased shares of renewable energy, in particular financial instruments, especially for the following purposes:
-
-(a) reducing the cost of capital for renewable energy projects;
-
-(b) developing projects and programmes for integrating renewable sources into the energy system, for increasing flexibility of the energy system, for maintaining grid stability and for managing grid congestions;
-
-(c) developing transmission and distribution grid infrastructure, intelligent networks, storage facilities and interconnections, with the objective of arriving at a 15 % electricity interconnection target by 2030, in order to increase the technically feasible and economically affordable level of renewable energy in the electricity system;
-
-(d) enhancing regional cooperation between Member States and between Member States and third countries, through joint projects, joint support schemes and the opening of support schemes for renewable electricity to producers located in other Member States.
+**5.** The Commission shall support the high ambition of Member States through an enabling framework comprising the enhanced use of Union funds, including additional funds to facilitate a just transition of carbon intensive regions towards increased shares of renewable energy, in particular financial instruments, especially for the following purposes:(a) reducing the cost of capital for renewable energy projects;(b) developing projects and programmes for integrating renewable sources into the energy system, for increasing flexibility of the energy system, for maintaining grid stability and for managing grid congestions;(c) developing transmission and distribution grid infrastructure, intelligent networks, storage facilities and interconnections, with the objective of arriving at a 15 % electricity interconnection target by 2030, in order to increase the technically feasible and economically affordable level of renewable energy in the electricity system;(d) enhancing regional cooperation between Member States and between Member States and third countries, through joint projects, joint support schemes and the opening of support schemes for renewable electricity to producers located in other Member States.
 
 **6.** The Commission shall establish a facilitative platform in order to support Member States that use cooperation mechanisms to contribute to the binding overall Union target set in paragraph 1.
 
@@ -164,41 +156,13 @@ Member States may exempt small-scale installations and demonstration projects fr
 
 Member States may also consider establishing mechanisms to ensure the regional diversification in the deployment of renewable electricity, in particular to ensure cost-efficient system integration.
 
-**5.** Member States may limit tendering procedures to specific technologies where opening support schemes to all producers of electricity from renewable sources would lead to a suboptimal result, in view of:
+**5.** Member States may limit tendering procedures to specific technologies where opening support schemes to all producers of electricity from renewable sources would lead to a suboptimal result, in view of:(a) the long-term potential of a particular technology;(b) the need to achieve diversification;(c) grid integration costs;(d) network constraints and grid stability;(e) for biomass, the need to avoid distortions of raw materials markets.
 
-(a) the long-term potential of a particular technology;
-
-(b) the need to achieve diversification;
-
-(c) grid integration costs;
-
-(d) network constraints and grid stability;
-
-(e) for biomass, the need to avoid distortions of raw materials markets.
-
-**6.** Where support for electricity from renewable sources is granted by means of a tendering procedure, Member States shall, in order to ensure a high project realisation rate:
-
-(a) establish and publish non-discriminatory and transparent criteria to qualify for the tendering procedure and set clear dates and rules for delivery of the project;
-
-(b) publish information about previous tendering procedures, including project realisation rates.
+**6.** Where support for electricity from renewable sources is granted by means of a tendering procedure, Member States shall, in order to ensure a high project realisation rate:(a) establish and publish non-discriminatory and transparent criteria to qualify for the tendering procedure and set clear dates and rules for delivery of the project;(b) publish information about previous tendering procedures, including project realisation rates.
 
 **7.** In order to increase the generation of energy from renewable sources in the outermost regions and small islands, Member States may adapt financial support schemes for projects located in those regions in order to take into account the production costs associated with their specific conditions of isolation and external dependence.
 
-**8.** By 31 December 2021 and every three years thereafter, the Commission shall report to the European Parliament and to the Council on the performance of support for electricity from renewable sources granted by means of tendering procedures in the Union, analysing in particular the ability of tendering procedures to:
-
-(a) achieve cost-reduction;
-
-(b) achieve technological improvement;
-
-(c) achieve high realisation rates;
-
-(d) provide non-discriminatory participation of small actors and, where applicable, local authorities;
-
-(e) limit environmental impact;
-
-(f) ensure local acceptability;
-
-(g) ensure security of supply and grid integration.
+**8.** By 31 December 2021 and every three years thereafter, the Commission shall report to the European Parliament and to the Council on the performance of support for electricity from renewable sources granted by means of tendering procedures in the Union, analysing in particular the ability of tendering procedures to:(a) achieve cost-reduction;(b) achieve technological improvement;(c) achieve high realisation rates;(d) provide non-discriminatory participation of small actors and, where applicable, local authorities;(e) limit environmental impact;(f) ensure local acceptability;(g) ensure security of supply and grid integration.
 
 **9.** This Article shall apply without prejudice to Articles 107 and 108 TFEU.
 
@@ -238,13 +202,7 @@ In order to acquire further implementation experience, Member States may organis
 
 ### Article 7 — Calculation of the share of energy from renewable sources
 
-**1.** The gross final consumption of energy from renewable sources in each Member State shall be calculated as the sum of:
-
-(a) gross final consumption of electricity from renewable sources;
-
-(b) gross final consumption of energy from renewable sources in the heating and cooling sector; and
-
-(c) final consumption of energy from renewable sources in the transport sector.
+**1.** The gross final consumption of energy from renewable sources in each Member State shall be calculated as the sum of:(a) gross final consumption of electricity from renewable sources;(b) gross final consumption of energy from renewable sources in the heating and cooling sector; and(c) final consumption of energy from renewable sources in the transport sector.
 
 With regard to point (a), (b), or (c) of the first subparagraph, gas, electricity and hydrogen from renewable sources shall be considered only once for the purposes of calculating the share of gross final consumption of energy from renewable sources.
 
@@ -268,11 +226,7 @@ By 31 December 2021, the Commission shall adopt delegated acts in accordance wit
 
 That methodology shall include minimum seasonal performance factors for heat pumps operating in reverse mode.
 
-**4.** For the purposes of point (c) of the first subparagraph of paragraph 1, the following requirements shall apply:
-
-(a) Final consumption of energy from renewable sources in the transport sector shall be calculated as the sum of all biofuels, biomass fuels and renewable liquid and gaseous transport fuels of non-biological origin consumed in the transport sector. However, renewable liquid and gaseous transport fuels of non-biological origin that are produced from renewable electricity shall be considered to be part of the calculation pursuant to point (a) of the first subparagraph of paragraph 1 only when calculating the quantity of electricity produced in a Member State from renewable sources.
-
-(b) For the calculation of final consumption of energy in the transport sector, the values regarding the energy content of transport fuels, as set out in Annex III, shall be used. For the determination of the energy content of transport fuels not included in Annex III, Member States shall use the relevant European Standards Organisation (ESO) standards in order to determine the calorific values of fuels. Where no ESO standard has been adopted for that purpose, Member States shall use the relevant International Organization for Standardisation (ISO) standards.
+**4.** For the purposes of point (c) of the first subparagraph of paragraph 1, the following requirements shall apply:(a) Final consumption of energy from renewable sources in the transport sector shall be calculated as the sum of all biofuels, biomass fuels and renewable liquid and gaseous transport fuels of non-biological origin consumed in the transport sector. However, renewable liquid and gaseous transport fuels of non-biological origin that are produced from renewable electricity shall be considered to be part of the calculation pursuant to point (a) of the first subparagraph of paragraph 1 only when calculating the quantity of electricity produced in a Member State from renewable sources.(b) For the calculation of final consumption of energy in the transport sector, the values regarding the energy content of transport fuels, as set out in Annex III, shall be used. For the determination of the energy content of transport fuels not included in Annex III, Member States shall use the relevant European Standards Organisation (ESO) standards in order to determine the calorific values of fuels. Where no ESO standard has been adopted for that purpose, Member States shall use the relevant International Organization for Standardisation (ISO) standards.
 
 **5.** The share of energy from renewable sources shall be calculated as the gross final consumption of energy from renewable sources divided by the gross final consumption of energy from all energy sources, expressed as a percentage.
 
@@ -288,11 +242,7 @@ Member States shall ensure coherence of the statistical information used in calc
 
 ### Article 8 — Union renewable development platform and statistical transfers between Member States
 
-**1.** Member States may agree on the statistical transfer of a specified amount of energy from renewable sources from one Member State to another Member State. The transferred quantity shall be:
-
-(a) deducted from the amount of energy from renewable sources that is taken into account in calculating the renewable energy share of the Member State making the transfer for the purposes of this Directive; and
-
-(b) added to the amount of energy from renewable sources that is taken into account in calculating the renewable energy share of the Member State accepting the transfer for the purposes of this Directive.
+**1.** Member States may agree on the statistical transfer of a specified amount of energy from renewable sources from one Member State to another Member State. The transferred quantity shall be:(a) deducted from the amount of energy from renewable sources that is taken into account in calculating the renewable energy share of the Member State making the transfer for the purposes of this Directive; and(b) added to the amount of energy from renewable sources that is taken into account in calculating the renewable energy share of the Member State accepting the transfer for the purposes of this Directive.
 
 **2.** In order to facilitate the achievement of the Union target set in Article 3(1) of this Directive and of each Member State's contribution to that target in accordance with Article 3(2) of this Directive, and to facilitate statistical transfers in accordance with paragraph 1 of this Article, the Commission shall establish a Union renewable development platform (‘URDP’). Member States may, on a voluntary basis, submit to the URDP annual data on their national contributions to the Union target or any benchmark set for monitoring progress in Regulation (EU) 2018/1999, including the amount by which they expect to fall short of or exceed their contribution, and an indication of the price at which they would accept to transfer any excess production of energy from renewable sources from or to another Member State. The price of those transfers shall be set on a case-by-case basis based on the URDP demand-and-supply matching mechanism.
 
@@ -312,15 +262,7 @@ The Commission is empowered to adopt delegated acts in accordance with Article 3
 
 **2.** Member States shall notify the Commission of the proportion or amount of electricity, heating or cooling from renewable sources produced by any joint project in their territory that became operational after 25 June 2009, or by the increased capacity of an installation that was refurbished after that date, which is to be regarded as counting towards the renewable energy share of another Member State for the purposes of this Directive.
 
-**3.** The notification referred to in paragraph 2 shall:
-
-(a) describe the proposed installation or identify the refurbished installation;
-
-(b) specify the proportion or amount of electricity or heating or cooling produced from the installation which is to be regarded as counting towards the renewable energy share of the other Member State;
-
-(c) identify the Member State in whose favour the notification is being made; and
-
-(d) specify the period, in whole calendar years, during which the electricity or heating or cooling produced by the installation from renewable sources is to be regarded as counting towards the renewable energy share of the other Member State.
+**3.** The notification referred to in paragraph 2 shall:(a) describe the proposed installation or identify the refurbished installation;(b) specify the proportion or amount of electricity or heating or cooling produced from the installation which is to be regarded as counting towards the renewable energy share of the other Member State;(c) identify the Member State in whose favour the notification is being made; and(d) specify the period, in whole calendar years, during which the electricity or heating or cooling produced by the installation from renewable sources is to be regarded as counting towards the renewable energy share of the other Member State.
 
 **4.** The duration of a joint project as referred to in this Article may extend beyond 2030.
 
@@ -332,19 +274,11 @@ The Commission is empowered to adopt delegated acts in accordance with Article 3
 
 ### Article 10 — Effects of joint projects between Member States
 
-**1.** Within three months of the end of each year falling within the period referred to in point (d) of Article 9(3), the Member State that made the notification under Article 9 shall issue a letter of notification stating:
-
-(a) the total amount of electricity or heating or cooling produced from renewable sources during that year by the installation which was the subject of the notification under Article 9; and
-
-(b) the amount of electricity or heating or cooling produced from renewable sources during that year by that installation which is to count towards the renewable energy share of another Member State in accordance with the terms of the notification.
+**1.** Within three months of the end of each year falling within the period referred to in point (d) of Article 9(3), the Member State that made the notification under Article 9 shall issue a letter of notification stating:(a) the total amount of electricity or heating or cooling produced from renewable sources during that year by the installation which was the subject of the notification under Article 9; and(b) the amount of electricity or heating or cooling produced from renewable sources during that year by that installation which is to count towards the renewable energy share of another Member State in accordance with the terms of the notification.
 
 **2.** The notifying Member State shall submit the letter of notification to the Member State in whose favour the notification was made and to the Commission.
 
-**3.** For the purposes of this Directive, the amount of electricity or heating or cooling from renewable sources notified in accordance with point (b) of paragraph 1 shall be:
-
-(a) deducted from the amount of electricity or heating or cooling from renewable sources that is taken into account in calculating the renewable energy share of the Member State issuing the letter of notification pursuant to paragraph 1; and
-
-(b) added to the amount of electricity or heating or cooling from renewable sources that is taken into account in calculating the renewable energy share of the Member State receiving the letter of notification pursuant to paragraph 2.
+**3.** For the purposes of this Directive, the amount of electricity or heating or cooling from renewable sources notified in accordance with point (b) of paragraph 1 shall be:(a) deducted from the amount of electricity or heating or cooling from renewable sources that is taken into account in calculating the renewable energy share of the Member State issuing the letter of notification pursuant to paragraph 1; and(b) added to the amount of electricity or heating or cooling from renewable sources that is taken into account in calculating the renewable energy share of the Member State receiving the letter of notification pursuant to paragraph 2.
 
 <a id="art_11"></a>
 
@@ -352,39 +286,13 @@ The Commission is empowered to adopt delegated acts in accordance with Article 3
 
 **1.** One or more Member States may cooperate with one or more third countries on all types of joint projects with regard to the production of electricity from renewable sources. Such cooperation may involve private operators and shall take place in full respect of international law.
 
-**2.** Electricity from renewable sources produced in a third country shall be taken into account for the purposes of calculating the renewable energy shares of the Member States only where the following conditions are met:
+**2.** Electricity from renewable sources produced in a third country shall be taken into account for the purposes of calculating the renewable energy shares of the Member States only where the following conditions are met:(a) the electricity is consumed in the Union, which is deemed to be met where:(i) an equivalent amount of electricity to the electricity accounted for has been firmly nominated to the allocated interconnection capacity by all responsible transmission system operators in the country of origin, the country of destination and, if relevant, each third country of transit;(ii) an equivalent amount of electricity to the electricity accounted for has been firmly registered in the schedule of balance by the responsible transmission system operator on the Union side of an interconnector; and(iii) the nominated capacity and the production of electricity from renewable sources by the installation referred to in point (b) refer to the same period of time;(b) the electricity is produced by an installation that became operational after 25 June 2009 or by the increased capacity of an installation that was refurbished after that date, under a joint project as referred to in paragraph 1;(c) the amount of electricity produced and exported has not received support from a support scheme of a third country other than investment aid granted to the installation; and(d) the electricity has been produced in accordance with international law, in a third country that is a signatory to the Council of Europe Convention for the Protection of Human Rights and Fundamental Freedoms, or other international conventions or treaties on human rights.
 
-(a) the electricity is consumed in the Union, which is deemed to be met where: (i) an equivalent amount of electricity to the electricity accounted for has been firmly nominated to the allocated interconnection capacity by all responsible transmission system operators in the country of origin, the country of destination and, if relevant, each third country of transit; (ii) an equivalent amount of electricity to the electricity accounted for has been firmly registered in the schedule of balance by the responsible transmission system operator on the Union side of an interconnector; and (iii) the nominated capacity and the production of electricity from renewable sources by the installation referred to in point (b) refer to the same period of time;
-
-(b) the electricity is produced by an installation that became operational after 25 June 2009 or by the increased capacity of an installation that was refurbished after that date, under a joint project as referred to in paragraph 1;
-
-(c) the amount of electricity produced and exported has not received support from a support scheme of a third country other than investment aid granted to the installation; and
-
-(d) the electricity has been produced in accordance with international law, in a third country that is a signatory to the Council of Europe Convention for the Protection of Human Rights and Fundamental Freedoms, or other international conventions or treaties on human rights.
-
-**3.** For the purposes of paragraph 4, Member States may apply to the Commission for account to be taken of electricity from renewable sources produced and consumed in a third country, in the context of the construction of an interconnector with a very long lead-time between a Member State and a third country where the following conditions are met:
-
-(a) construction of the interconnector started by 31 December 2026;
-
-(b) it is not possible for the interconnector to become operational by 31 December 2030;
-
-(c) it is possible for the interconnector to become operational by 31 December 2032;
-
-(d) after it becomes operational, the interconnector will be used for the export to the Union, in accordance with paragraph 2, of electricity from renewable sources;
-
-(e) the application relates to a joint project that fulfils the criteria set out in points (b) and (c) of paragraph 2 and that will use the interconnector after it becomes operational, and to a quantity of electricity that is no greater than the quantity that will be exported to the Union after the interconnector becomes operational.
+**3.** For the purposes of paragraph 4, Member States may apply to the Commission for account to be taken of electricity from renewable sources produced and consumed in a third country, in the context of the construction of an interconnector with a very long lead-time between a Member State and a third country where the following conditions are met:(a) construction of the interconnector started by 31 December 2026;(b) it is not possible for the interconnector to become operational by 31 December 2030;(c) it is possible for the interconnector to become operational by 31 December 2032;(d) after it becomes operational, the interconnector will be used for the export to the Union, in accordance with paragraph 2, of electricity from renewable sources;(e) the application relates to a joint project that fulfils the criteria set out in points (b) and (c) of paragraph 2 and that will use the interconnector after it becomes operational, and to a quantity of electricity that is no greater than the quantity that will be exported to the Union after the interconnector becomes operational.
 
 **4.** The proportion or amount of electricity produced by any installation in the territory of a third country, which is to be regarded as counting towards the renewable energy share of one or more Member States for the purposes of this Directive, shall be notified to the Commission. When more than one Member State is concerned, the distribution between Member States of that proportion or amount shall be notified to the Commission. The proportion or amount shall not exceed the proportion or amount actually exported to, and consumed in, the Union, shall correspond to the amount referred to in point (a)(i) and (ii) of paragraph 2 and shall meet the conditions set out in point (a) of that paragraph. The notification shall be made by each Member State towards whose overall national target the proportion or amount of electricity is to count.
 
-**5.** The notification referred to in paragraph 4 shall:
-
-(a) describe the proposed installation or identify the refurbished installation;
-
-(b) specify the proportion or amount of electricity produced from the installation which is to be regarded as counting towards the renewable energy share of a Member State as well as, subject to confidentiality requirements, the corresponding financial arrangements;
-
-(c) specify the period, in whole calendar years, during which the electricity is to be regarded as counting towards the renewable energy share of the Member State; and
-
-(d) include a written acknowledgement of points (b) and (c) by the third country in whose territory the installation is to become operational and an indication of the proportion or amount of electricity produced by the installation which will be used domestically by that third country.
+**5.** The notification referred to in paragraph 4 shall:(a) describe the proposed installation or identify the refurbished installation;(b) specify the proportion or amount of electricity produced from the installation which is to be regarded as counting towards the renewable energy share of a Member State as well as, subject to confidentiality requirements, the corresponding financial arrangements;(c) specify the period, in whole calendar years, during which the electricity is to be regarded as counting towards the renewable energy share of the Member State; and(d) include a written acknowledgement of points (b) and (c) by the third country in whose territory the installation is to become operational and an indication of the proportion or amount of electricity produced by the installation which will be used domestically by that third country.
 
 **6.** The duration of a joint project as referred to in this Article may extend beyond 2030.
 
@@ -396,13 +304,7 @@ The Commission is empowered to adopt delegated acts in accordance with Article 3
 
 ### Article 12 — Effects of joint projects between Member States and third countries
 
-**1.** Within 12 months of the end of each year falling within the period specified under point (c) of Article 11(5), the notifying Member State shall issue a letter of notification stating:
-
-(a) the total amount of electricity produced from renewable sources during that year by the installation which was the subject of the notification under Article 11;
-
-(b) the amount of electricity produced from renewable sources during that year by that installation which is to count towards its renewable energy share in accordance with the terms of the notification under Article 11; and
-
-(c) evidence of compliance with the conditions laid down in Article 11(2).
+**1.** Within 12 months of the end of each year falling within the period specified under point (c) of Article 11(5), the notifying Member State shall issue a letter of notification stating:(a) the total amount of electricity produced from renewable sources during that year by the installation which was the subject of the notification under Article 11;(b) the amount of electricity produced from renewable sources during that year by that installation which is to count towards its renewable energy share in accordance with the terms of the notification under Article 11; and(c) evidence of compliance with the conditions laid down in Article 11(2).
 
 **2.** The Member State referred to in paragraph 1 shall submit the letter of notification to the Commission and to the third country that has acknowledged the project in accordance with point (d) of Article 11(5).
 
@@ -412,11 +314,7 @@ The Commission is empowered to adopt delegated acts in accordance with Article 3
 
 ### Article 13 — Joint support schemes
 
-**1.** Without prejudice to the obligations of Member States under Article 5, two or more Member States may decide, on a voluntary basis, to join or partly coordinate their national support schemes. In such cases, a certain amount of energy from renewable sources produced in the territory of one participating Member State may count towards the renewable energy share of another participating Member State, provided that the Member States concerned:
-
-(a) make a statistical transfer of specified amounts of energy from renewable sources from one Member State to another Member State in accordance with Article 8; or
-
-(b) set up a distribution rule agreed by participating Member States that allocates amounts of energy from renewable sources between the participating Member States.
+**1.** Without prejudice to the obligations of Member States under Article 5, two or more Member States may decide, on a voluntary basis, to join or partly coordinate their national support schemes. In such cases, a certain amount of energy from renewable sources produced in the territory of one participating Member State may count towards the renewable energy share of another participating Member State, provided that the Member States concerned:(a) make a statistical transfer of specified amounts of energy from renewable sources from one Member State to another Member State in accordance with Article 8; or(b) set up a distribution rule agreed by participating Member States that allocates amounts of energy from renewable sources between the participating Member States.
 
 A distribution rule as referred to in point (b) of the first subparagraph shall be notified to the Commission not later than three months after the end of the first year in which it takes effect.
 
@@ -554,27 +452,11 @@ The guarantee of origin shall have no function in terms of a Member State's comp
 
 **6.** Member States or the designated competent bodies shall put in place appropriate mechanisms to ensure that guarantees of origin are issued, transferred and cancelled electronically and are accurate, reliable and fraud-resistant. Member States and designated competent bodies shall ensure that the requirements they impose comply with the standard CEN - EN 16325.
 
-**7.** A guarantee of origin shall specify at least:
-
-(a) the energy source from which the energy was produced and the start and end dates of production;
-
-(b) whether it relates to: (i) electricity; (ii) gas, including hydrogen; or (iii) heating or cooling;
-
-(c) the identity, location, type and capacity of the installation where the energy was produced;
-
-(d) whether the installation has benefited from investment support and whether the unit of energy has benefited in any other way from a national support scheme, and the type of support scheme;
-
-(e) the date on which the installation became operational; and
-
-(f) the date and country of issue and a unique identification number.
+**7.** A guarantee of origin shall specify at least:(a) the energy source from which the energy was produced and the start and end dates of production;(b) whether it relates to:(i) electricity;(ii) gas, including hydrogen; or(iii) heating or cooling;(c) the identity, location, type and capacity of the installation where the energy was produced;(d) whether the installation has benefited from investment support and whether the unit of energy has benefited in any other way from a national support scheme, and the type of support scheme;(e) the date on which the installation became operational; and(f) the date and country of issue and a unique identification number.
 
 Simplified information may be specified on guarantees of origin from installations of less than 50 kW.
 
-**8.** Where an electricity supplier is required to demonstrate the share or quantity of energy from renewable sources in its energy mix for the purposes of point (a) of Article 3(9) of Directive 2009/72/EC, it shall do so by using guarantees of origin except:
-
-(a) as regards the share of its energy mix corresponding to non-tracked commercial offers, if any, for which the supplier may use the residual mix; or
-
-(b) where a Member State decides not to issue guarantees of origin to a producer that receives financial support from a support scheme.
+**8.** Where an electricity supplier is required to demonstrate the share or quantity of energy from renewable sources in its energy mix for the purposes of point (a) of Article 3(9) of Directive 2009/72/EC, it shall do so by using guarantees of origin except:(a) as regards the share of its energy mix corresponding to non-tracked commercial offers, if any, for which the supplier may use the residual mix; or(b) where a Member State decides not to issue guarantees of origin to a producer that receives financial support from a support scheme.
 
 Where Member States have arranged to have guarantees of origin for other types of energy, suppliers shall use for disclosure the same type of guarantees of origin as the energy supplied. Likewise, guarantees of origin created pursuant to Article 14(10) of Directive 2012/27/EU may be used to substantiate any requirement to demonstrate the quantity of electricity produced from high-efficiency cogeneration. For the purposes of paragraph 2 of this Article, where electricity is generated from high-efficiency cogeneration using renewable sources, only one guarantee of origin specifying both characteristics may be issued.
 
@@ -604,41 +486,15 @@ Where Member States have arranged to have guarantees of origin for other types o
 
 **1.** Member States shall ensure that consumers are entitled to become renewables self-consumers, subject to this Article.
 
-**2.** Member States shall ensure that renewables self-consumers, individually or through aggregators, are entitled:
+**2.** Member States shall ensure that renewables self-consumers, individually or through aggregators, are entitled:(a) to generate renewable energy, including for their own consumption, store and sell their excess production of renewable electricity, including through renewables power purchase agreements, electricity suppliers and peer-to-peer trading arrangements, without being subject:(i) in relation to the electricity that they consume from or feed into the grid, to discriminatory or disproportionate procedures and charges, and to network charges that are not cost-reflective;(ii) in relation to their self-generated electricity from renewable sources remaining within their premises, to discriminatory or disproportionate procedures, and to any charges or fees;(b) to install and operate electricity storage systems combined with installations generating renewable electricity for self-consumption without liability for any double charge, including network charges, for stored electricity remaining within their premises;(c) to maintain their rights and obligations as final consumers;(d) to receive remuneration, including, where applicable, through support schemes, for the self-generated renewable electricity that they feed into the grid, which reflects the market value of that electricity and which may take into account its long-term value to the grid, the environment and society.
 
-(a) to generate renewable energy, including for their own consumption, store and sell their excess production of renewable electricity, including through renewables power purchase agreements, electricity suppliers and peer-to-peer trading arrangements, without being subject: (i) in relation to the electricity that they consume from or feed into the grid, to discriminatory or disproportionate procedures and charges, and to network charges that are not cost-reflective; (ii) in relation to their self-generated electricity from renewable sources remaining within their premises, to discriminatory or disproportionate procedures, and to any charges or fees;
-
-(b) to install and operate electricity storage systems combined with installations generating renewable electricity for self-consumption without liability for any double charge, including network charges, for stored electricity remaining within their premises;
-
-(c) to maintain their rights and obligations as final consumers;
-
-(d) to receive remuneration, including, where applicable, through support schemes, for the self-generated renewable electricity that they feed into the grid, which reflects the market value of that electricity and which may take into account its long-term value to the grid, the environment and society.
-
-**3.** Member States may apply non-discriminatory and proportionate charges and fees to renewables self-consumers, in relation to their self-generated renewable electricity remaining within their premises in one or more of the following cases:
-
-(a) if the self-generated renewable electricity is effectively supported via support schemes, only to the extent that the economic viability of the project and the incentive effect of such support are not undermined;
-
-(b) from 1 December 2026, if the overall share of self-consumption installations exceeds 8 % of the total installed electricity capacity of a Member State, and if it is demonstrated, by means of a cost-benefit analysis performed by the national regulatory authority of that Member State, which is conducted by way of an open, transparent and participatory process, that the provision laid down in point (a)(ii) of paragraph 2 either results in a significant disproportionate burden on the long-term financial sustainability of the electric system, or creates an incentive exceeding what is objectively needed to achieve cost-effective deployment of renewable energy, and that such burden or incentive cannot be minimised by taking other reasonable actions; or
-
-(c) if the self-generated renewable electricity is produced in installations with a total installed electrical capacity of more than 30 kW.
+**3.** Member States may apply non-discriminatory and proportionate charges and fees to renewables self-consumers, in relation to their self-generated renewable electricity remaining within their premises in one or more of the following cases:(a) if the self-generated renewable electricity is effectively supported via support schemes, only to the extent that the economic viability of the project and the incentive effect of such support are not undermined;(b) from 1 December 2026, if the overall share of self-consumption installations exceeds 8 % of the total installed electricity capacity of a Member State, and if it is demonstrated, by means of a cost-benefit analysis performed by the national regulatory authority of that Member State, which is conducted by way of an open, transparent and participatory process, that the provision laid down in point (a)(ii) of paragraph 2 either results in a significant disproportionate burden on the long-term financial sustainability of the electric system, or creates an incentive exceeding what is objectively needed to achieve cost-effective deployment of renewable energy, and that such burden or incentive cannot be minimised by taking other reasonable actions; or(c) if the self-generated renewable electricity is produced in installations with a total installed electrical capacity of more than 30 kW.
 
 **4.** Member States shall ensure that renewables self-consumers located in the same building, including multi-apartment blocks, are entitled to engage jointly in activities referred to in paragraph 2 and that they are permitted to arrange sharing of renewable energy that is produced on their site or sites between themselves, without prejudice to the network charges and other relevant charges, fees, levies and taxes applicable to each renewables self-consumer. Member States may differentiate between individual renewables self-consumers and jointly acting renewables self-consumers. Any such differentiation shall be proportionate and duly justified.
 
 **5.** The renewables self-consumer's installation may be owned by a third party or managed by a third party for installation, operation, including metering and maintenance, provided that the third party remains subject to the renewables self-consumer's instructions. The third party itself shall not be considered to be a renewables self-consumer.
 
-**6.** Member States shall put in place an enabling framework to promote and facilitate the development of renewables self-consumption based on an assessment of the existing unjustified barriers to, and of the potential of, renewables self-consumption in their territories and energy networks. That enabling framework shall, *inter alia*:
-
-(a) address accessibility of renewables self-consumption to all final customers, including those in low-income or vulnerable households;
-
-(b) address unjustified barriers to the financing of projects in the market and measures to facilitate access to finance;
-
-(c) address other unjustified regulatory barriers to renewables self-consumption, including for tenants;
-
-(d) address incentives to building owners to create opportunities for renewables self-consumption, including for tenants;
-
-(e) grant renewables self-consumers, for self-generated renewable electricity that they feed into the grid, non-discriminatory access to relevant existing support schemes as well as to all electricity market segments;
-
-(f) ensure that renewables self-consumers contribute in an adequate and balanced way to the overall cost sharing of the system when electricity is fed into the grid.
+**6.** Member States shall put in place an enabling framework to promote and facilitate the development of renewables self-consumption based on an assessment of the existing unjustified barriers to, and of the potential of, renewables self-consumption in their territories and energy networks. That enabling framework shall, *inter alia*:(a) address accessibility of renewables self-consumption to all final customers, including those in low-income or vulnerable households;(b) address unjustified barriers to the financing of projects in the market and measures to facilitate access to finance;(c) address other unjustified regulatory barriers to renewables self-consumption, including for tenants;(d) address incentives to building owners to create opportunities for renewables self-consumption, including for tenants;(e) grant renewables self-consumers, for self-generated renewable electricity that they feed into the grid, non-discriminatory access to relevant existing support schemes as well as to all electricity market segments;(f) ensure that renewables self-consumers contribute in an adequate and balanced way to the overall cost sharing of the system when electricity is fed into the grid.
 
 Member States shall include a summary of the policies and measures under the enabling framework and an assessment of their implementation respectively in their integrated national energy and climate plans and progress reports pursuant to Regulation (EU) 2018/1999.
 
@@ -650,35 +506,11 @@ Member States shall include a summary of the policies and measures under the ena
 
 **1.** Member States shall ensure that final customers, in particular household customers, are entitled to participate in a renewable energy community while maintaining their rights or obligations as final customers, and without being subject to unjustified or discriminatory conditions or procedures that would prevent their participation in a renewable energy community, provided that for private undertakings, their participation does not constitute their primary commercial or professional activity.
 
-**2.** Member States shall ensure that renewable energy communities are entitled to:
-
-(a) produce, consume, store and sell renewable energy, including through renewables power purchase agreements;
-
-(b) share, within the renewable energy community, renewable energy that is produced by the production units owned by that renewable energy community, subject to the other requirements laid down in this Article and to maintaining the rights and obligations of the renewable energy community members as customers;
-
-(c) access all suitable energy markets both directly or through aggregation in a non-discriminatory manner.
+**2.** Member States shall ensure that renewable energy communities are entitled to:(a) produce, consume, store and sell renewable energy, including through renewables power purchase agreements;(b) share, within the renewable energy community, renewable energy that is produced by the production units owned by that renewable energy community, subject to the other requirements laid down in this Article and to maintaining the rights and obligations of the renewable energy community members as customers;(c) access all suitable energy markets both directly or through aggregation in a non-discriminatory manner.
 
 **3.** Member States shall carry out an assessment of the existing barriers and potential of development of renewable energy communities in their territories.
 
-**4.** Member States shall provide an enabling framework to promote and facilitate the development of renewable energy communities. That framework shall ensure, *inter alia*, that:
-
-(a) unjustified regulatory and administrative barriers to renewable energy communities are removed;
-
-(b) renewable energy communities that supply energy or provide aggregation or other commercial energy services are subject to the provisions relevant for such activities;
-
-(c) the relevant distribution system operator cooperates with renewable energy communities to facilitate energy transfers within renewable energy communities;
-
-(d) renewable energy communities are subject to fair, proportionate and transparent procedures, including registration and licensing procedures, and cost-reflective network charges, as well as relevant charges, levies and taxes, ensuring that they contribute, in an adequate, fair and balanced way, to the overall cost sharing of the system in line with a transparent cost-benefit analysis of distributed energy sources developed by the national competent authorities;
-
-(e) renewable energy communities are not subject to discriminatory treatment with regard to their activities, rights and obligations as final customers, producers, suppliers, distribution system operators, or as other market participants;
-
-(f) the participation in the renewable energy communities is accessible to all consumers, including those in low-income or vulnerable households;
-
-(g) tools to facilitate access to finance and information are available;
-
-(h) regulatory and capacity-building support is provided to public authorities in enabling and setting up renewable energy communities, and in helping authorities to participate directly;
-
-(i) rules to secure the equal and non-discriminatory treatment of consumers that participate in the renewable energy community are in place.
+**4.** Member States shall provide an enabling framework to promote and facilitate the development of renewable energy communities. That framework shall ensure, *inter alia*, that:(a) unjustified regulatory and administrative barriers to renewable energy communities are removed;(b) renewable energy communities that supply energy or provide aggregation or other commercial energy services are subject to the provisions relevant for such activities;(c) the relevant distribution system operator cooperates with renewable energy communities to facilitate energy transfers within renewable energy communities;(d) renewable energy communities are subject to fair, proportionate and transparent procedures, including registration and licensing procedures, and cost-reflective network charges, as well as relevant charges, levies and taxes, ensuring that they contribute, in an adequate, fair and balanced way, to the overall cost sharing of the system in line with a transparent cost-benefit analysis of distributed energy sources developed by the national competent authorities;(e) renewable energy communities are not subject to discriminatory treatment with regard to their activities, rights and obligations as final customers, producers, suppliers, distribution system operators, or as other market participants;(f) the participation in the renewable energy communities is accessible to all consumers, including those in low-income or vulnerable households;(g) tools to facilitate access to finance and information are available;(h) regulatory and capacity-building support is provided to public authorities in enabling and setting up renewable energy communities, and in helping authorities to participate directly;(i) rules to secure the equal and non-discriminatory treatment of consumers that participate in the renewable energy community are in place.
 
 **5.** The main elements of the enabling framework referred to in paragraph 4, and of its implementation, shall be part of the updates of the Member States' integrated national energy and climate plans and progress reports pursuant to Regulation (EU) 2018/1999.
 
@@ -692,13 +524,7 @@ Member States shall include a summary of the policies and measures under the ena
 
 **1.** In order to promote the use of renewable energy in the heating and cooling sector, each Member State shall endeavour to increase the share of renewable energy in that sector by an indicative 1,3 percentage points as an annual average calculated for the periods 2021 to 2025 and 2026 to 2030, starting from the share of renewable energy in the heating and cooling sector in 2020, expressed in terms of national share of final energy consumption and calculated in accordance with the methodology set out in Article 7, without prejudice to paragraph 2 of this Article. That increase shall be limited to an indicative 1,1 percentage points for Member States where waste heat and cold is not used. Member States shall, where appropriate, prioritise the best available technologies.
 
-**2.** For the purposes of paragraph 1, when calculating its share of renewable energy in the heating and cooling sector and its average annual increase in accordance with that paragraph, each Member State:
-
-(a) may count waste heat and cold, subject to a limit of 40 % of the average annual increase;
-
-(b) where its share of renewable energy in the heating and cooling sector is above 60 %, may count any such share as fulfilling the average annual increase; and
-
-(c) where its share of renewable energy in the heating and cooling sector is above 50 % and up to 60 %, may count any such share as fulfilling half of the average annual increase.
+**2.** For the purposes of paragraph 1, when calculating its share of renewable energy in the heating and cooling sector and its average annual increase in accordance with that paragraph, each Member State:(a) may count waste heat and cold, subject to a limit of 40 % of the average annual increase;(b) where its share of renewable energy in the heating and cooling sector is above 60 %, may count any such share as fulfilling the average annual increase; and(c) where its share of renewable energy in the heating and cooling sector is above 50 % and up to 60 %, may count any such share as fulfilling half of the average annual increase.
 
 When deciding which measures to adopt for the purposes of deploying energy from renewable sources in the heating and cooling sector, Member States may take into account cost-effectiveness reflecting structural barriers arising from the high share of natural gas or cooling, or from a dispersed settlement structure with low population density.
 
@@ -706,31 +532,13 @@ Where those measures would result in a lower average annual increase than that r
 
 **3.** On the basis of objective and non-discriminatory criteria, Member States may establish and make public a list of measures and may designate and make public the implementing entities, such as fuel suppliers, public or professional bodies, which are to contribute to the average annual increase referred to in paragraph 1.
 
-**4.** Member States may implement the average annual increase referred to in paragraph 1 by means, *inter alia*, of one or more of the following options:
-
-(a) physical incorporation of renewable energy or waste heat and cold in the energy and energy fuel supplied for heating and cooling;
-
-(b) direct mitigation measures such as the installation of highly efficient renewable heating and cooling systems in buildings, or the use of renewable energy or waste heat and cold in industrial heating and cooling processes;
-
-(c) indirect mitigation measures covered by tradable certificates proving compliance with the obligation laid down in paragraph 1 through support to indirect mitigation measures, carried out by another economic operator such as an independent renewable technology installer or energy service company providing renewable installation services;
-
-(d) other policy measures, with an equivalent effect, to reach the average annual increase referred to in paragraph 1, including fiscal measures or other financial incentives.
+**4.** Member States may implement the average annual increase referred to in paragraph 1 by means, *inter alia*, of one or more of the following options:(a) physical incorporation of renewable energy or waste heat and cold in the energy and energy fuel supplied for heating and cooling;(b) direct mitigation measures such as the installation of highly efficient renewable heating and cooling systems in buildings, or the use of renewable energy or waste heat and cold in industrial heating and cooling processes;(c) indirect mitigation measures covered by tradable certificates proving compliance with the obligation laid down in paragraph 1 through support to indirect mitigation measures, carried out by another economic operator such as an independent renewable technology installer or energy service company providing renewable installation services;(d) other policy measures, with an equivalent effect, to reach the average annual increase referred to in paragraph 1, including fiscal measures or other financial incentives.
 
 When adopting and implementing the measures referred to in the first subparagraph, Member States shall aim to ensure the accessibility of measures to all consumers, in particular those in low-income or vulnerable households, who would not otherwise possess sufficient up-front capital to benefit.
 
 **5.** Member States may use the structures established under the national energy savings obligations set out in Article 7 of Directive 2012/27/EU to implement and monitor the measures referred to in paragraph 3 of this Article.
 
-**6.** Where entities are designated under paragraph 3, Member States shall ensure that the contribution by those designated entities is measurable and verifiable and that the designated entities report annually on:
-
-(a) the total amount of energy supplied for heating and cooling;
-
-(b) the total amount of renewable energy supplied for heating and cooling;
-
-(c) the amount of waste heat and cold supplied for heating and cooling;
-
-(d) the share of renewable energy and waste heat and cold in the total amount of energy supplied for heating and cooling; and
-
-(e) the type of renewable energy source.
+**6.** Where entities are designated under paragraph 3, Member States shall ensure that the contribution by those designated entities is measurable and verifiable and that the designated entities report annually on:(a) the total amount of energy supplied for heating and cooling;(b) the total amount of renewable energy supplied for heating and cooling;(c) the amount of waste heat and cold supplied for heating and cooling;(d) the share of renewable energy and waste heat and cold in the total amount of energy supplied for heating and cooling; and(e) the type of renewable energy source.
 
 <a id="art_24"></a>
 
@@ -744,31 +552,13 @@ Where the termination of a contract is linked to physical disconnection, such a 
 
 **3.** Member States may restrict the right to disconnect by terminating or modifying a contract in accordance with paragraph 2 to customers who can demonstrate that the planned alternative supply solution for heating or cooling results in a significantly better energy performance. The energy-performance assessment of the alternative supply solution may be based on the energy performance certificate.
 
-**4.** Member States shall lay down the necessary measures to ensure that district heating and cooling systems contribute to the increase referred to in Article 23(1) of this Directive by implementing at least one of the two following options:
+**4.** Member States shall lay down the necessary measures to ensure that district heating and cooling systems contribute to the increase referred to in Article 23(1) of this Directive by implementing at least one of the two following options:(a) Endeavour to increase the share of energy from renewable sources and from waste heat and cold in district heating and cooling by at least one percentage point as an annual average calculated for the period 2021 to 2025 and for the period 2026 to 2030, starting from the share of energy from renewable sources and from waste heat and cold in district heating and cooling in 2020, expressed in terms of share of final energy consumption in district heating and cooling, by implementing measures that can be expected to trigger that average annual increase in years with normal climatic conditions.Member States with a share of energy from renewable sources and from waste heat and cold in district heating and cooling above 60 % may count any such share as fulfilling the average annual increase referred to in the first subparagraph of this point.Member States shall lay down the necessary measures to implement the average annual increase referred to in the first subparagraph of this point in their integrated national energy and climate plans pursuant to Annex I to Regulation (EU) 2018/1999.(b) Ensure that operators of district heating or cooling systems are obliged to connect suppliers of energy from renewable sources and from waste heat and cold or are obliged to offer to connect and purchase heat or cold from renewable sources and from waste heat and cold from third-party suppliers based on non-discriminatory criteria set by the competent authority of the Member State concerned, where they need to do one or more of the following:(i) meet demand from new customers;(ii) replace existing heat or cold generation capacity;(iii) expand existing heat or cold generation capacity.
 
-(a) Endeavour to increase the share of energy from renewable sources and from waste heat and cold in district heating and cooling by at least one percentage point as an annual average calculated for the period 2021 to 2025 and for the period 2026 to 2030, starting from the share of energy from renewable sources and from waste heat and cold in district heating and cooling in 2020, expressed in terms of share of final energy consumption in district heating and cooling, by implementing measures that can be expected to trigger that average annual increase in years with normal climatic conditions. Member States with a share of energy from renewable sources and from waste heat and cold in district heating and cooling above 60 % may count any such share as fulfilling the average annual increase referred to in the first subparagraph of this point. Member States shall lay down the necessary measures to implement the average annual increase referred to in the first subparagraph of this point in their integrated national energy and climate plans pursuant to Annex I to Regulation (EU) 2018/1999.
-
-(b) Ensure that operators of district heating or cooling systems are obliged to connect suppliers of energy from renewable sources and from waste heat and cold or are obliged to offer to connect and purchase heat or cold from renewable sources and from waste heat and cold from third-party suppliers based on non-discriminatory criteria set by the competent authority of the Member State concerned, where they need to do one or more of the following: (i) meet demand from new customers; (ii) replace existing heat or cold generation capacity; (iii) expand existing heat or cold generation capacity.
-
-**5.** Where a Member State exercises the option referred to in point (b) of paragraph 4, an operator of a district heating or cooling system may refuse to connect and to purchase heat or cold from a third-party supplier where:
-
-(a) the system lacks the necessary capacity due to other supplies of waste heat and cold, of heat or cold from renewable sources or of heat or cold produced by high-efficiency cogeneration;
-
-(b) the heat or cold from the third-party supplier does not meet the technical parameters necessary to connect and ensure the reliable and safe operation of the district heating and cooling system; or
-
-(c) the operator can demonstrate that providing access would lead to an excessive heat or cold cost increase for final customers compared to the cost of using the main local heat or cold supply with which the renewable source or waste heat and cold would compete.
+**5.** Where a Member State exercises the option referred to in point (b) of paragraph 4, an operator of a district heating or cooling system may refuse to connect and to purchase heat or cold from a third-party supplier where:(a) the system lacks the necessary capacity due to other supplies of waste heat and cold, of heat or cold from renewable sources or of heat or cold produced by high-efficiency cogeneration;(b) the heat or cold from the third-party supplier does not meet the technical parameters necessary to connect and ensure the reliable and safe operation of the district heating and cooling system; or(c) the operator can demonstrate that providing access would lead to an excessive heat or cold cost increase for final customers compared to the cost of using the main local heat or cold supply with which the renewable source or waste heat and cold would compete.
 
 Member States shall ensure that, when an operator of a district heating or cooling system refuses to connect a supplier of heating or cooling pursuant to the first subparagraph, information on the reasons for the refusal, as well as the conditions to be met and measures to be taken in the system in order to enable the connection, is provided by that operator to the competent authority in accordance with paragraph 9.
 
-**6.** Where a Member State exercises the option referred to in point (b) of paragraph 4, it may exempt operators of the following district heating and cooling systems from the application of that point:
-
-(a) efficient district heating and cooling;
-
-(b) efficient district heating and cooling that exploits high-efficiency cogeneration;
-
-(c) district heating and cooling that, on the basis of a plan approved by the competent authority, is efficient district heating and cooling by 31 December 2025;
-
-(d) district heating and cooling with a total rated thermal input below 20 MW.
+**6.** Where a Member State exercises the option referred to in point (b) of paragraph 4, it may exempt operators of the following district heating and cooling systems from the application of that point:(a) efficient district heating and cooling;(b) efficient district heating and cooling that exploits high-efficiency cogeneration;(c) district heating and cooling that, on the basis of a plan approved by the competent authority, is efficient district heating and cooling by 31 December 2025;(d) district heating and cooling with a total rated thermal input below 20 MW.
 
 **7.** The right to disconnect by terminating or modifying a contract in accordance with paragraph 2 may be exercised by individual customers, by joint undertakings formed by customers or by parties acting on behalf of customers. For multi-apartment blocks, such disconnection may be exercised only at a whole building level in accordance with the applicable housing law.
 
@@ -776,13 +566,7 @@ Member States shall ensure that, when an operator of a district heating or cooli
 
 **9.** Member States shall ensure that the rights of consumers and the rules for operating district heating and cooling systems in accordance with this Article are clearly defined and enforced by the competent authority.
 
-**10.** A Member State shall not be required to apply paragraphs 2 to 9 of this Article where:
-
-(a) its share of district heating and cooling is less than or equal to 2 % of the overall consumption of energy in heating and cooling on 24 December 2018;
-
-(b) its share of district heating and cooling is increased above 2 % by developing new efficient district heating and cooling based on its integrated national energy and climate plan pursuant to Annex I to Regulation (EU) 2018/1999 or the assessment referred to in Article 15(7) of this Directive; or
-
-(c) its share of systems referred to in paragraph 6 of this Article constitutes over 90 % of total sales of its district heating and cooling.
+**10.** A Member State shall not be required to apply paragraphs 2 to 9 of this Article where:(a) its share of district heating and cooling is less than or equal to 2 % of the overall consumption of energy in heating and cooling on 24 December 2018;(b) its share of district heating and cooling is increased above 2 % by developing new efficient district heating and cooling based on its integrated national energy and climate plan pursuant to Annex I to Regulation (EU) 2018/1999 or the assessment referred to in Article 15(7) of this Directive; or(c) its share of systems referred to in paragraph 6 of this Article constitutes over 90 % of total sales of its district heating and cooling.
 
 <a id="art_25"></a>
 
@@ -834,21 +618,9 @@ By 1 September 2023, the Commission shall review the criteria laid down in the d
 
 ### Article 27 — Calculation rules with regard to the minimum shares of renewable energy in the transport sector
 
-**1.** For the calculation of the minimum shares referred to in the first and fourth subparagraphs of Article 25(1), the following provisions shall apply:
+**1.** For the calculation of the minimum shares referred to in the first and fourth subparagraphs of Article 25(1), the following provisions shall apply:(a) for the calculation of the denominator, that is the energy content of road- and rail- transport fuels supplied for consumption or use on the market, petrol, diesel, natural gas, biofuels, biogas, renewable liquid and gaseous transport fuels of non-biological origin, recycled carbon fuels and electricity supplied to the road and rail transport sectors, shall be taken into account;(b) for the calculation of the numerator, that is the amount of energy from renewable sources consumed in the transport sector for the purposes of the first subparagraph of Article 25(1), the energy content of all types of energy from renewable sources supplied to all transport sectors, including renewable electricity supplied to the road and rail transport sectors, shall be taken into account. Member States may also take into account recycled carbon fuels.For the calculation of the numerator, the share of biofuels and biogas produced from the feedstock listed in Part B of Annex IX shall, except for in Cyprus and Malta, be limited to 1,7 % of the energy content of transport fuels supplied for consumption or use on the market. Member States may, where justified, modify that limit, taking into account the availability of feedstock. Any such modification shall be subject to approval by the Commission;(c) for the calculation of both numerator and denominator, the values regarding the energy content of transport fuels set out in Annex III shall be used. For the determination of the energy content of transport fuels not included in Annex III, the Member States shall use the relevant ESO standards for the determination of the calorific values of fuels. Where no ESO standard has been adopted for that purpose, the relevant ISO standards shall be used. The Commission is empowered to adopt delegated acts in accordance with Article 35 to amend this Directive by adapting the energy content of transport fuels, as set out in Annex III, in accordance with scientific and technical progress.
 
-(a) for the calculation of the denominator, that is the energy content of road- and rail- transport fuels supplied for consumption or use on the market, petrol, diesel, natural gas, biofuels, biogas, renewable liquid and gaseous transport fuels of non-biological origin, recycled carbon fuels and electricity supplied to the road and rail transport sectors, shall be taken into account;
-
-(b) for the calculation of the numerator, that is the amount of energy from renewable sources consumed in the transport sector for the purposes of the first subparagraph of Article 25(1), the energy content of all types of energy from renewable sources supplied to all transport sectors, including renewable electricity supplied to the road and rail transport sectors, shall be taken into account. Member States may also take into account recycled carbon fuels. For the calculation of the numerator, the share of biofuels and biogas produced from the feedstock listed in Part B of Annex IX shall, except for in Cyprus and Malta, be limited to 1,7 % of the energy content of transport fuels supplied for consumption or use on the market. Member States may, where justified, modify that limit, taking into account the availability of feedstock. Any such modification shall be subject to approval by the Commission;
-
-(c) for the calculation of both numerator and denominator, the values regarding the energy content of transport fuels set out in Annex III shall be used. For the determination of the energy content of transport fuels not included in Annex III, the Member States shall use the relevant ESO standards for the determination of the calorific values of fuels. Where no ESO standard has been adopted for that purpose, the relevant ISO standards shall be used. The Commission is empowered to adopt delegated acts in accordance with Article 35 to amend this Directive by adapting the energy content of transport fuels, as set out in Annex III, in accordance with scientific and technical progress.
-
-**2.** For the purposes of demonstrating compliance with the minimum shares referred to in Article 25(1):
-
-(a) the share of biofuels and biogas for transport produced from the feedstock listed in Annex IX may be considered to be twice its energy content;
-
-(b) the share of renewable electricity shall be considered to be four times its energy content when supplied to road vehicles and may be considered to be 1,5 times its energy content when supplied to rail transport;
-
-(c) with the exception of fuels produced from food and feed crops, the share of fuels supplied in the aviation and maritime sectors shall be considered to be 1,2 times their energy content.
+**2.** For the purposes of demonstrating compliance with the minimum shares referred to in Article 25(1):(a) the share of biofuels and biogas for transport produced from the feedstock listed in Annex IX may be considered to be twice its energy content;(b) the share of renewable electricity shall be considered to be four times its energy content when supplied to road vehicles and may be considered to be 1,5 times its energy content when supplied to rail transport;(c) with the exception of fuels produced from food and feed crops, the share of fuels supplied in the aviation and maritime sectors shall be considered to be 1,2 times their energy content.
 
 **3.** For the calculation of the share of renewable electricity in the electricity supplied to road and rail vehicles for the purposes of paragraph 1 of this Article, Member States shall refer to the two-year period before the year in which the electricity is supplied in their territory.
 
@@ -882,7 +654,7 @@ Fuel suppliers shall enter the information necessary to verify compliance with t
 
 **4.** Member States shall have access to the Union database referred to in paragraph 2 of this Article. They shall take measures to ensure that economic operators enter accurate information into the relevant database. The Commission shall require the schemes that are the subject of a decision pursuant to Article 30(4) of this Directive to verify compliance with that requirement when checking compliance with the sustainability criteria for biofuels, bioliquids and biomass fuels. It shall publish, every two years, aggregated information from the Union database pursuant to Annex VIII to Regulation (EU) 2018/1999.
 
-**5.** By 31 December 2021, the Commission shall adopt delegated acts in accordance with Article 35 to supplement this Directive by specifying the methodology to determine the share of biofuel, and biogas for transport, resulting from biomass being processed with fossil fuels in a common process, and by specifying the methodology for assessing greenhouse gas emissions savings from renewable liquid and gaseous transport fuels of non-biological origin and from recycled carbon fuels, which shall ensure that credit for avoided emissions is not given for CO_2 the capture of which has already received an emission credit under other provisions of law.
+**5.** By 31 December 2021, the Commission shall adopt delegated acts in accordance with Article 35 to supplement this Directive by specifying the methodology to determine the share of biofuel, and biogas for transport, resulting from biomass being processed with fossil fuels in a common process, and by specifying the methodology for assessing greenhouse gas emissions savings from renewable liquid and gaseous transport fuels of non-biological origin and from recycled carbon fuels, which shall ensure that credit for avoided emissions is not given for CO2 the capture of which has already received an emission credit under other provisions of law.
 
 **6.** By 25 June 2019 and every two years thereafter, the Commission shall review the list of feedstock set out in Parts A and B of Annex IX with a view to adding feedstock in accordance with the principles set out in the third subparagraph.
 
@@ -910,13 +682,7 @@ The Commission shall, if appropriate, submit a proposal to amend the obligation 
 
 ### Article 29 — Sustainability and greenhouse gas emissions saving criteria for biofuels, bioliquids and biomass fuels
 
-**1.** Energy from biofuels, bioliquids and biomass fuels shall be taken into account for the purposes referred to in points (a), (b) and (c) of this subparagraph only if they fulfil the sustainability and the greenhouse gas emissions saving criteria laid down in paragraphs 2 to 7 and 10:
-
-(a) contributing towards the Union target set in Article 3(1) and the renewable energy shares of Member States;
-
-(b) measuring compliance with renewable energy obligations, including the obligation laid down in Article 25;
-
-(c) eligibility for financial support for the consumption of biofuels, bioliquids and biomass fuels.
+**1.** Energy from biofuels, bioliquids and biomass fuels shall be taken into account for the purposes referred to in points (a), (b) and (c) of this subparagraph only if they fulfil the sustainability and the greenhouse gas emissions saving criteria laid down in paragraphs 2 to 7 and 10:(a) contributing towards the Union target set in Article 3(1) and the renewable energy shares of Member States;(b) measuring compliance with renewable energy obligations, including the obligation laid down in Article 25;(c) eligibility for financial support for the consumption of biofuels, bioliquids and biomass fuels.
 
 However, biofuels, bioliquids and biomass fuels produced from waste and residues, other than agricultural, aquaculture, fisheries and forestry residues, are required to fulfil only the greenhouse gas emissions saving criteria laid down in paragraph 10 in order to be taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph. This subparagraph shall also apply to waste and residues that are first processed into a product before being further processed into biofuels, bioliquids and biomass fuels.
 
@@ -928,41 +694,19 @@ The sustainability and the greenhouse gas emissions saving criteria laid down in
 
 **2.** Biofuels, bioliquids and biomass fuels produced from waste and residues derived not from forestry but from agricultural land shall be taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 only where operators or national authorities have monitoring or management plans in place in order to address the impacts on soil quality and soil carbon. Information about how those impacts are monitored and managed shall be reported pursuant to Article 30(3).
 
-**3.** Biofuels, bioliquids and biomass fuels produced from agricultural biomass taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 shall not be made from raw material obtained from land with a high biodiversity value, namely land that had one of the following statuses in or after January 2008, whether or not the land continues to have that status:
-
-(a) primary forest and other wooded land, namely forest and other wooded land of native species, where there is no clearly visible indication of human activity and the ecological processes are not significantly disturbed;
-
-(b) highly biodiverse forest and other wooded land which is species-rich and not degraded, or has been identified as being highly biodiverse by the relevant competent authority, unless evidence is provided that the production of that raw material did not interfere with those nature protection purposes;
-
-(c) areas designated: (i) by law or by the relevant competent authority for nature protection purposes; or (ii) for the protection of rare, threatened or endangered ecosystems or species recognised by international agreements or included in lists drawn up by intergovernmental organisations or the International Union for the Conservation of Nature, subject to their recognition in accordance with the first subparagraph of Article 30(4), unless evidence is provided that the production of that raw material did not interfere with those nature protection purposes;
-
-(d) highly biodiverse grassland spanning more than one hectare that is: (i) natural, namely grassland that would remain grassland in the absence of human intervention and that maintains the natural species composition and ecological characteristics and processes; or (ii) non-natural, namely grassland that would cease to be grassland in the absence of human intervention and that is species-rich and not degraded and has been identified as being highly biodiverse by the relevant competent authority, unless evidence is provided that the harvesting of the raw material is necessary to preserve its status as highly biodiverse grassland.
+**3.** Biofuels, bioliquids and biomass fuels produced from agricultural biomass taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 shall not be made from raw material obtained from land with a high biodiversity value, namely land that had one of the following statuses in or after January 2008, whether or not the land continues to have that status:(a) primary forest and other wooded land, namely forest and other wooded land of native species, where there is no clearly visible indication of human activity and the ecological processes are not significantly disturbed;(b) highly biodiverse forest and other wooded land which is species-rich and not degraded, or has been identified as being highly biodiverse by the relevant competent authority, unless evidence is provided that the production of that raw material did not interfere with those nature protection purposes;(c) areas designated:(i) by law or by the relevant competent authority for nature protection purposes; or(ii) for the protection of rare, threatened or endangered ecosystems or species recognised by international agreements or included in lists drawn up by intergovernmental organisations or the International Union for the Conservation of Nature, subject to their recognition in accordance with the first subparagraph of Article 30(4),unless evidence is provided that the production of that raw material did not interfere with those nature protection purposes;(d) highly biodiverse grassland spanning more than one hectare that is:(i) natural, namely grassland that would remain grassland in the absence of human intervention and that maintains the natural species composition and ecological characteristics and processes; or(ii) non-natural, namely grassland that would cease to be grassland in the absence of human intervention and that is species-rich and not degraded and has been identified as being highly biodiverse by the relevant competent authority, unless evidence is provided that the harvesting of the raw material is necessary to preserve its status as highly biodiverse grassland.
 
 The Commission may adopt implementing acts further specifying the criteria by which to determine which grassland are to be covered by point (d) of the first subparagraph of this paragraph. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(3).
 
-**4.** Biofuels, bioliquids and biomass fuels produced from agricultural biomass taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 shall not be made from raw material obtained from land with high-carbon stock, namely land that had one of the following statuses in January 2008 and no longer has that status:
-
-(a) wetlands, namely land that is covered with or saturated by water permanently or for a significant part of the year;
-
-(b) continuously forested areas, namely land spanning more than one hectare with trees higher than five metres and a canopy cover of more than 30 %, or trees able to reach those thresholds *in situ*;
-
-(c) land spanning more than one hectare with trees higher than five metres and a canopy cover of between 10 % and 30 %, or trees able to reach those thresholds *in situ*, unless evidence is provided that the carbon stock of the area before and after conversion is such that, when the methodology laid down in Part C of Annex V is applied, the conditions laid down in paragraph 10 of this Article would be fulfilled.
+**4.** Biofuels, bioliquids and biomass fuels produced from agricultural biomass taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 shall not be made from raw material obtained from land with high-carbon stock, namely land that had one of the following statuses in January 2008 and no longer has that status:(a) wetlands, namely land that is covered with or saturated by water permanently or for a significant part of the year;(b) continuously forested areas, namely land spanning more than one hectare with trees higher than five metres and a canopy cover of more than 30 %, or trees able to reach those thresholds *in situ*;(c) land spanning more than one hectare with trees higher than five metres and a canopy cover of between 10 % and 30 %, or trees able to reach those thresholds *in situ*, unless evidence is provided that the carbon stock of the area before and after conversion is such that, when the methodology laid down in Part C of Annex V is applied, the conditions laid down in paragraph 10 of this Article would be fulfilled.
 
 This paragraph shall not apply if, at the time the raw material was obtained, the land had the same status as it had in January 2008.
 
 **5.** Biofuels, bioliquids and biomass fuels produced from agricultural biomass taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 shall not be made from raw material obtained from land that was peatland in January 2008, unless evidence is provided that the cultivation and harvesting of that raw material does not involve drainage of previously undrained soil.
 
-**6.** Biofuels, bioliquids and biomass fuels produced from forest biomass taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 shall meet the following criteria to minimise the risk of using forest biomass derived from unsustainable production:
+**6.** Biofuels, bioliquids and biomass fuels produced from forest biomass taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 shall meet the following criteria to minimise the risk of using forest biomass derived from unsustainable production:(a) the country in which forest biomass was harvested has national or sub-national laws applicable in the area of harvest as well as monitoring and enforcement systems in place ensuring:(i) the legality of harvesting operations;(ii) forest regeneration of harvested areas;(iii) that areas designated by international or national law or by the relevant competent authority for nature protection purposes, including in wetlands and peatlands, are protected;(iv) that harvesting is carried out considering maintenance of soil quality and biodiversity with the aim of minimising negative impacts; and(v) that harvesting maintains or improves the long-term production capacity of the forest;(b) when evidence referred to in point (a) of this paragraph is not available, the biofuels, bioliquids and biomass fuels produced from forest biomass shall be taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 if management systems are in place at forest sourcing area level ensuring:(i) the legality of harvesting operations;(ii) forest regeneration of harvested areas;(iii) that areas designated by international or national law or by the relevant competent authority for nature protection purposes, including in wetlands and peatlands, are protected unless evidence is provided that the harvesting of that raw material does not interfere with those nature protection purposes;(iv) that harvesting is carried out considering the maintenance of soil quality and biodiversity with the aim of minimising negative impacts; and(v) that harvesting maintains or improves the long-term production capacity of the forest.
 
-(a) the country in which forest biomass was harvested has national or sub-national laws applicable in the area of harvest as well as monitoring and enforcement systems in place ensuring: (i) the legality of harvesting operations; (ii) forest regeneration of harvested areas; (iii) that areas designated by international or national law or by the relevant competent authority for nature protection purposes, including in wetlands and peatlands, are protected; (iv) that harvesting is carried out considering maintenance of soil quality and biodiversity with the aim of minimising negative impacts; and (v) that harvesting maintains or improves the long-term production capacity of the forest;
-
-(b) when evidence referred to in point (a) of this paragraph is not available, the biofuels, bioliquids and biomass fuels produced from forest biomass shall be taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 if management systems are in place at forest sourcing area level ensuring: (i) the legality of harvesting operations; (ii) forest regeneration of harvested areas; (iii) that areas designated by international or national law or by the relevant competent authority for nature protection purposes, including in wetlands and peatlands, are protected unless evidence is provided that the harvesting of that raw material does not interfere with those nature protection purposes; (iv) that harvesting is carried out considering the maintenance of soil quality and biodiversity with the aim of minimising negative impacts; and (v) that harvesting maintains or improves the long-term production capacity of the forest.
-
-**7.** Biofuels, bioliquids and biomass fuels produced from forest biomass taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 shall meet the following land-use, land-use change and forestry (LULUCF) criteria:
-
-(a) the country or regional economic integration organisation of origin of the forest biomass is a Party to the Paris Agreement and: (i) it has submitted a nationally determined contribution (NDC) to the United Nations Framework Convention on Climate Change (UNFCCC), covering emissions and removals from agriculture, forestry and land use which ensures that changes in carbon stock associated with biomass harvest are accounted towards the country’s commitment to reduce or limit greenhouse gas emissions as specified in the NDC; or (ii) it has national or sub-national laws in place, in accordance with Article 5 of the Paris Agreement, applicable in the area of harvest, to conserve and enhance carbon stocks and sinks, and provides evidence that reported LULUCF-sector emissions do not exceed removals;
-
-(b) where evidence referred to in point (a) of this paragraph is not available, the biofuels, bioliquids and biomass fuels produced from forest biomass shall be taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 if management systems are in place at forest sourcing area level to ensure that carbon stocks and sinks levels in the forest are maintained, or strengthened over the long term.
+**7.** Biofuels, bioliquids and biomass fuels produced from forest biomass taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 shall meet the following land-use, land-use change and forestry (LULUCF) criteria:▼C1(a) the country or regional economic integration organisation of origin of the forest biomass is a Party to the Paris Agreement and:(i) it has submitted a nationally determined contribution (NDC) to the United Nations Framework Convention on Climate Change (UNFCCC), covering emissions and removals from agriculture, forestry and land use which ensures that changes in carbon stock associated with biomass harvest are accounted towards the country’s commitment to reduce or limit greenhouse gas emissions as specified in the NDC; or(ii) it has national or sub-national laws in place, in accordance with Article 5 of the Paris Agreement, applicable in the area of harvest, to conserve and enhance carbon stocks and sinks, and provides evidence that reported LULUCF-sector emissions do not exceed removals;▼B(b) where evidence referred to in point (a) of this paragraph is not available, the biofuels, bioliquids and biomass fuels produced from forest biomass shall be taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 if management systems are in place at forest sourcing area level to ensure that carbon stocks and sinks levels in the forest are maintained, or strengthened over the long term.
 
 **8.** By 31 January 2021, the Commission shall adopt implementing acts establishing the operational guidance on the evidence for demonstrating compliance with the criteria laid down in paragraphs 6 and 7 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(3).
 
@@ -970,29 +714,13 @@ This paragraph shall not apply if, at the time the raw material was obtained, th
 
 The Commission shall, if appropriate, submit a legislative proposal to amend the criteria laid down in paragraphs 6 and 7 for the period after 2030.
 
-**10.** The greenhouse gas emission savings from the use of biofuels, bioliquids and biomass fuels taken into account for the purposes referred to in paragraph 1 shall be:
-
-(a) at least 50 % for biofuels, biogas consumed in the transport sector, and bioliquids produced in installations in operation on or before 5 October 2015;
-
-(b) at least 60 % for biofuels, biogas consumed in the transport sector, and bioliquids produced in installations starting operation from 6 October 2015 until 31 December 2020;
-
-(c) at least 65 % for biofuels, biogas consumed in the transport sector, and bioliquids produced in installations starting operation from 1 January 2021;
-
-(d) at least 70 % for electricity, heating and cooling production from biomass fuels used in installations starting operation from 1 January 2021 until 31 December 2025, and 80 % for installations starting operation from 1 January 2026.
+**10.** The greenhouse gas emission savings from the use of biofuels, bioliquids and biomass fuels taken into account for the purposes referred to in paragraph 1 shall be:(a) at least 50 % for biofuels, biogas consumed in the transport sector, and bioliquids produced in installations in operation on or before 5 October 2015;(b) at least 60 % for biofuels, biogas consumed in the transport sector, and bioliquids produced in installations starting operation from 6 October 2015 until 31 December 2020;(c) at least 65 % for biofuels, biogas consumed in the transport sector, and bioliquids produced in installations starting operation from 1 January 2021;(d) at least 70 % for electricity, heating and cooling production from biomass fuels used in installations starting operation from 1 January 2021 until 31 December 2025, and 80 % for installations starting operation from 1 January 2026.
 
 An installation shall be considered to be in operation once the physical production of biofuels, biogas consumed in the transport sector and bioliquids, and the physical production of heating and cooling and electricity from biomass fuels has started.
 
 The greenhouse gas emission savings from the use of biofuels, biogas consumed in the transport sector, bioliquids and biomass fuels used in installations producing heating, cooling and electricity shall be calculated in accordance with Article 31(1).
 
-**11.** Electricity from biomass fuels shall be taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 only if it meets one or more of the following requirements:
-
-(a) it is produced in installations with a total rated thermal input below 50 MW;
-
-(b) for installations with a total rated thermal input from 50 to 100 MW, it is produced applying high-efficiency cogeneration technology, or, for electricity-only installations, meeting an energy efficiency level associated with the best available techniques (BAT-AEELs) as defined in Commission Implementing Decision (EU) 2017/1442;
-
-(c) for installations with a total rated thermal input above 100 MW, it is produced applying high-efficiency cogeneration technology, or, for electricity-only installations, achieving an net-electrical efficiency of at least 36 %;
-
-(d) it is produced applying Biomass CO_2 Capture and Storage.
+**11.** Electricity from biomass fuels shall be taken into account for the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 only if it meets one or more of the following requirements:(a) it is produced in installations with a total rated thermal input below 50 MW;(b) for installations with a total rated thermal input from 50 to 100 MW, it is produced applying high-efficiency cogeneration technology, or, for electricity-only installations, meeting an energy efficiency level associated with the best available techniques (BAT-AEELs) as defined in Commission Implementing Decision (EU) 2017/1442 (5);(c) for installations with a total rated thermal input above 100 MW, it is produced applying high-efficiency cogeneration technology, or, for electricity-only installations, achieving an net-electrical efficiency of at least 36 %;(d) it is produced applying Biomass CO2 Capture and Storage.
 
 For the purposes of points (a), (b) and (c) of the first subparagraph of paragraph 1 of this Article, electricity-only-installations shall be taken into account only if they do not use fossil fuels as a main fuel and only if there is no cost-effective potential for the application of high-efficiency cogeneration technology according to the assessment in accordance with Article 14 of Directive 2012/27/EU.
 
@@ -1004,11 +732,7 @@ The first subparagraph shall not apply to electricity from installations which a
 
 **12.** For the purposes referred to in points (a), (b) and (c) of the first subparagraph of paragraph 1 of this Article, and without prejudice to Articles 25 and 26, Member States shall not refuse to take into account, on other sustainability grounds, biofuels and bioliquids obtained in compliance with this Article. This paragraph shall be without prejudice to public support granted under support schemes approved before 24 December 2018.
 
-**13.** For the purposes referred to in point (c) of the first subparagraph of paragraph 1 of this Article, Member States may derogate, for a limited period of time, from the criteria laid down in paragraphs 2 to 7 and 10 and 11 of this Article by adopting different criteria for:
-
-(a) installations located in an outermost region as referred to in Article 349 TFEU to the extent that such facilities produce electricity or heating or cooling from biomass fuels; and
-
-(b) biomass fuels used in the installations referred to in point (a) of this subparagraph, irrespective of the place of origin of that biomass, provided that such criteria are objectively justified on the grounds that their aim is to ensure, for that outermost region, a smooth phase-in of the criteria laid down in paragraphs 2 to 7 and 10 and 11 of this Article and thereby incentivise the transition from fossil fuels to sustainable biomass fuels.
+**13.** For the purposes referred to in point (c) of the first subparagraph of paragraph 1 of this Article, Member States may derogate, for a limited period of time, from the criteria laid down in paragraphs 2 to 7 and 10 and 11 of this Article by adopting different criteria for:(a) installations located in an outermost region as referred to in Article 349 TFEU to the extent that such facilities produce electricity or heating or cooling from biomass fuels; and(b) biomass fuels used in the installations referred to in point (a) of this subparagraph, irrespective of the place of origin of that biomass, provided that such criteria are objectively justified on the grounds that their aim is to ensure, for that outermost region, a smooth phase-in of the criteria laid down in paragraphs 2 to 7 and 10 and 11 of this Article and thereby incentivise the transition from fossil fuels to sustainable biomass fuels.
 
 The different criteria referred to in this paragraph shall be subject to a specific notification by the relevant Member State to the Commission.
 
@@ -1020,23 +744,11 @@ By 31 December 2026, the Commission shall assess the impact of such additional c
 
 ### Article 30 — Verification of compliance with the sustainability and greenhouse gas emissions saving criteria
 
-**1.** Where biofuels, bioliquids and biomass fuels, or other fuels that are eligible for counting towards the numerator referred to in point (b) of Article 27(1), are to be taken into account for the purposes referred to in Articles 23 and 25 and in points (a), (b) and (c) of the first subparagraph of Article 29(1), Member States shall require economic operators to show that the sustainability and greenhouse gas emissions saving criteria laid down in Article 29(2) to (7) and (10) have been fulfilled. For those purposes, they shall require economic operators to use a mass balance system which:
-
-(a) allows consignments of raw material or fuels with differing sustainability and greenhouse gas emissions saving characteristics to be mixed for instance in a container, processing or logistical facility, transmission and distribution infrastructure or site;
-
-(b) allows consignments of raw material with differing energy content to be mixed for the purposes of further processing, provided that the size of consignments is adjusted according to their energy content;
-
-(c) requires information about the sustainability and greenhouse gas emissions saving characteristics and sizes of the consignments referred to in point (a) to remain assigned to the mixture; and
-
-(d) provides for the sum of all consignments withdrawn from the mixture to be described as having the same sustainability characteristics, in the same quantities, as the sum of all consignments added to the mixture and requires that this balance be achieved over an appropriate period of time.
+**1.** Where biofuels, bioliquids and biomass fuels, or other fuels that are eligible for counting towards the numerator referred to in point (b) of Article 27(1), are to be taken into account for the purposes referred to in Articles 23 and 25 and in points (a), (b) and (c) of the first subparagraph of Article 29(1), Member States shall require economic operators to show that the sustainability and greenhouse gas emissions saving criteria laid down in Article 29(2) to (7) and (10) have been fulfilled. For those purposes, they shall require economic operators to use a mass balance system which:(a) allows consignments of raw material or fuels with differing sustainability and greenhouse gas emissions saving characteristics to be mixed for instance in a container, processing or logistical facility, transmission and distribution infrastructure or site;(b) allows consignments of raw material with differing energy content to be mixed for the purposes of further processing, provided that the size of consignments is adjusted according to their energy content;(c) requires information about the sustainability and greenhouse gas emissions saving characteristics and sizes of the consignments referred to in point (a) to remain assigned to the mixture; and(d) provides for the sum of all consignments withdrawn from the mixture to be described as having the same sustainability characteristics, in the same quantities, as the sum of all consignments added to the mixture and requires that this balance be achieved over an appropriate period of time.
 
 The mass balance system shall ensure that each consignment is counted only once in point (a), (b) or (c) of the first subparagraph of Article 7(1) for the purposes of calculating the gross final consumption of energy from renewable sources and shall include information on whether support has been provided for the production of that consignment, and if so, on the type of support scheme.
 
-**2.** Where a consignment is processed, information on the sustainability and greenhouse gas emissions saving characteristics of the consignment shall be adjusted and assigned to the output in accordance with the following rules:
-
-(a) when the processing of a consignment of raw material yields only one output that is intended for the production of biofuels, bioliquids or biomass fuels, renewable liquid and gaseous transport fuels of non-biological origin, or recycled carbon fuels, the size of the consignment and the related quantities of sustainability and greenhouse gas emissions saving characteristics shall be adjusted applying a conversion factor representing the ratio between the mass of the output that is intended for such production and the mass of the raw material entering the process;
-
-(b) when the processing of a consignment of raw material yields more than one output that is intended for the production of biofuels, bioliquids or biomass fuels, renewable liquid and gaseous transport fuels of non-biological origin, or recycled carbon fuels, for each output a separate conversion factor shall be applied and a separate mass balance shall be used.
+**2.** Where a consignment is processed, information on the sustainability and greenhouse gas emissions saving characteristics of the consignment shall be adjusted and assigned to the output in accordance with the following rules:(a) when the processing of a consignment of raw material yields only one output that is intended for the production of biofuels, bioliquids or biomass fuels, renewable liquid and gaseous transport fuels of non-biological origin, or recycled carbon fuels, the size of the consignment and the related quantities of sustainability and greenhouse gas emissions saving characteristics shall be adjusted applying a conversion factor representing the ratio between the mass of the output that is intended for such production and the mass of the raw material entering the process;(b) when the processing of a consignment of raw material yields more than one output that is intended for the production of biofuels, bioliquids or biomass fuels, renewable liquid and gaseous transport fuels of non-biological origin, or recycled carbon fuels, for each output a separate conversion factor shall be applied and a separate mass balance shall be used.
 
 **3.** Member States shall take measures to ensure that economic operators submit reliable information regarding the compliance with the greenhouse gas emissions savings thresholds set in, and adopted pursuant to, Article 25(2), and with the sustainability and greenhouse gas emissions saving criteria laid down in Article 29(2) to (7) and (10), and that economic operators make available to the relevant Member State, upon request, the data that were used to develop the information. Member States shall require economic operators to arrange for an adequate standard of independent auditing of the information submitted, and to provide evidence that this has been done. In order to comply with point (a) of Article 29(6) and point (a) of Article 29(7), the first or second party auditing may be used up to the first gathering point of the forest biomass. The auditing shall verify that the systems used by economic operators are accurate, reliable and protected against fraud, including verification ensuring that materials are not intentionally modified or discarded so that the consignment or part thereof could become a waste or residue. It shall evaluate the frequency and methodology of sampling and the robustness of the data.
 
@@ -1050,7 +762,7 @@ The Commission may decide that those schemes contain accurate information on mea
 
 **5.** The Commission shall adopt decisions under paragraph 4 of this Article by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(3). Such decisions shall be valid for a period of no more than five years.
 
-The Commission shall require that each voluntary scheme on which a decision has been adopted under paragraph 4 submit annually by 30 April a report to the Commission covering each of the points set out in Annex XI to Regulation (EU) 2018/1999. The report shall cover the preceding calendar year. The requirement to submit a report shall apply only to voluntary schemes that have operated for at least 12 months.
+The Commission shall require that each voluntary scheme on which a decision has been adopted under paragraph 4 submit annually by 30 April a report to the Commission covering each of the points ►C1 set out in Annex XI to Regulation (EU) 2018/1999.** ◄ ** The report shall cover the preceding calendar year. The requirement to submit a report shall apply only to voluntary schemes that have operated for at least 12 months.
 
 The Commission shall make the reports drawn up by the voluntary schemes available, in an aggregated form or in full if appropriate, on the e-reporting platform referred to in Article 28 of Regulation (EU) 2018/1999.
 
@@ -1084,17 +796,9 @@ Within six months of receipt of such a request and in accordance with the examin
 
 ### Article 31 — Calculation of the greenhouse gas impact of biofuels, bioliquids and biomass fuels
 
-**1.** For the purposes of Article 29(10), the greenhouse gas emissions saving from the use of biofuel, bioliquids and biomass fuels shall be calculated in one of the following ways:
+**1.** For the purposes of Article 29(10), the greenhouse gas emissions saving from the use of biofuel, bioliquids and biomass fuels shall be calculated in one of the following ways:(a) where a default value for greenhouse gas emissions saving for the production pathway is laid down in Part A or B of Annex V for biofuels and bioliquids and in Part A of Annex VI for biomass fuels where the el value for those biofuels or bioliquids calculated in accordance with point 7 of Part C of Annex V and for those biomass fuels calculated in accordance with point 7 of Part B of Annex VI is equal to or less than zero, by using that default value;(b) by using an actual value calculated in accordance with the methodology laid down in Part C of Annex V for biofuels and bioliquids and in Part B of Annex VI for biomass fuels;(c) by using a value calculated as the sum of the factors of the formulas referred to in point 1 of Part C of Annex V, where disaggregated default values in Part D or E of Annex V may be used for some factors, and actual values, calculated in accordance with the methodology laid down in Part C of Annex V, are used for all other factors;(d) by using a value calculated as the sum of the factors of the formulas referred to in point 1 of Part B of Annex VI, where disaggregated default values in Part C of Annex VI may be used for some factors, and actual values, calculated in accordance with the methodology laid down in Part B of Annex VI, are used for all other factors.
 
-(a) where a default value for greenhouse gas emissions saving for the production pathway is laid down in Part A or B of Annex V for biofuels and bioliquids and in Part A of Annex VI for biomass fuels where the e_l value for those biofuels or bioliquids calculated in accordance with point 7 of Part C of Annex V and for those biomass fuels calculated in accordance with point 7 of Part B of Annex VI is equal to or less than zero, by using that default value;
-
-(b) by using an actual value calculated in accordance with the methodology laid down in Part C of Annex V for biofuels and bioliquids and in Part B of Annex VI for biomass fuels;
-
-(c) by using a value calculated as the sum of the factors of the formulas referred to in point 1 of Part C of Annex V, where disaggregated default values in Part D or E of Annex V may be used for some factors, and actual values, calculated in accordance with the methodology laid down in Part C of Annex V, are used for all other factors;
-
-(d) by using a value calculated as the sum of the factors of the formulas referred to in point 1 of Part B of Annex VI, where disaggregated default values in Part C of Annex VI may be used for some factors, and actual values, calculated in accordance with the methodology laid down in Part B of Annex VI, are used for all other factors.
-
-**2.** Member States may submit to the Commission reports including information on the typical greenhouse gas emissions from the cultivation of agricultural raw materials of the areas on their territory classified as level 2 in the nomenclature of territorial units for statistics (NUTS) or as a more disaggregated NUTS level in accordance with Regulation (EC) No 1059/2003 of the European Parliament and of the Council. Those reports shall be accompanied by a description of the method and data sources used to calculate the level of emissions. That method shall take into account soil characteristics, climate and expected raw material yields.
+**2.** Member States may submit to the Commission reports including information on the typical greenhouse gas emissions from the cultivation of agricultural raw materials of the areas on their territory classified as level 2 in the nomenclature of territorial units for statistics (NUTS) or as a more disaggregated NUTS level in accordance with Regulation (EC) No 1059/2003 of the European Parliament and of the Council (6). Those reports shall be accompanied by a description of the method and data sources used to calculate the level of emissions. That method shall take into account soil characteristics, climate and expected raw material yields.
 
 **3.** In the case of territories outside the Union, reports equivalent to those referred to in paragraph 2 and drawn up by competent bodies may be submitted to the Commission.
 
@@ -1112,13 +816,13 @@ In the case of an adaptation of, or addition to, the list of default values in A
 
 (b) in all other cases, the default values shall be conservative compared to normal production processes.
 
-**6.** Where necessary in order to ensure the uniform application of Part C of Annex V and Part B of Annex VI, the Commission may adopt implementing acts setting out detailed technical specifications including definitions, conversion factors, the calculation of annual cultivation emissions or emission savings caused by changes above and below-ground carbon stocks on already cultivated land, the calculation of emission savings from CO_2 capture, CO_2 replacement and CO_2 geological storage. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(3).
+**6.** Where necessary in order to ensure the uniform application of Part C of Annex V and Part B of Annex VI, the Commission may adopt implementing acts setting out detailed technical specifications including definitions, conversion factors, the calculation of annual cultivation emissions or emission savings caused by changes above and below-ground carbon stocks on already cultivated land, the calculation of emission savings from CO2 capture, CO2 replacement and CO2 geological storage. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 34(3).
 
 <a id="art_32"></a>
 
 ### Article 32 — Implementing acts
 
-The implementing acts referred to in the second subparagraph of Article 29(3), Article 29(8), the first subparagraph of Article 30(5), the second subparagraph of Article 30(6), the first subparagraph of Article 30(8), the first subparagraph of Article 31(4) and Article 31(6) of this Directive, shall take full account of the provisions relating to greenhouse gas emissions reductions in accordance with Article 7a of Directive 98/70/EC of the European Parliament and of the Council.
+The implementing acts referred to in the second subparagraph of Article 29(3), Article 29(8), the first subparagraph of Article 30(5), the second subparagraph of Article 30(6), the first subparagraph of Article 30(8), the first subparagraph of Article 31(4) and Article 31(6) of this Directive, shall take full account of the provisions relating to greenhouse gas emissions reductions in accordance with Article 7a of Directive 98/70/EC of the European Parliament and of the Council (7).
 
 <a id="art_33"></a>
 
@@ -1200,11 +904,11 @@ This Directive is addressed to the Member States.
 
 ### ANNEX I
 
-**NATIONAL OVERALL TARGETS FOR THE SHARE OF ENERGY FROM RENEWABLE SOURCES IN GROSS FINAL CONSUMPTION OF ENERGY IN 2020**
+**NATIONAL OVERALL TARGETS FOR THE SHARE OF ENERGY FROM RENEWABLE SOURCES IN GROSS FINAL CONSUMPTION OF ENERGY IN 2020** (8)
 
-**A.National overall targets**
+A. **National overall targets**
 
-|  | Share of energy from renewable sources in gross final consumption of energy, 2005 (S_2005) | Target for share of energy from renewable sources in gross final consumption of energy, 2020 (S_2020) |
+|  | Share of energy from renewable sources in gross final consumption of energy, 2005 (S2005) | Target for share of energy from renewable sources in gross final consumption of energy, 2020 (S2020) |
 | --- | --- | --- |
 | Belgium | 2,2 % | 13 % |
 | Bulgaria | 9,4 % | 16 % |
@@ -1239,28 +943,38 @@ This Directive is addressed to the Member States.
 
 ### ANNEX II
 
-The following rule shall be applied for the purposes of accounting for electricity generated from hydropower in a given Member State:[formula image: L_2020311EN.01001101.tif]where:The following rule shall be applied for the purposes of accounting for electricity generated from onshore wind power in a given Member State:[formula image: L_2020311EN.01001201.tif]where:The following rule shall be applied for the purposes of accounting for electricity generated from offshore wind power in a given Member State:[formula image: L_2020311EN.01001202.tif]where:
-
 **NORMALISATION RULE FOR ACCOUNTING FOR ELECTRICITY GENERATED FROM HYDROPOWER AND WIND POWER**
 
-| N | = | reference year; |
-| --- | --- | --- |
-| Q_N(norm) | = | normalised electricity generated by all hydropower plants of the Member State in year N, for accounting purposes; |
-| Q_i | = | the quantity of electricity actually generated in year i by all hydropower plants of the Member State measured in GWh, excluding production from pumped storage units using water that has previously been pumped uphill; |
-| C_i | = | the total installed capacity, net of pumped storage, of all hydropower plants of the Member State at the end of year i, measured in MW. |
+The following rule shall be applied for the purposes of accounting for electricity generated from hydropower in a given Member State:
+
+►C1 ** ◄ **where:
 
 | N | = | reference year; |
 | --- | --- | --- |
-| Q_N(norm) | = | normalised electricity generated by all onshore wind power plants of the Member State in year N, for accounting purposes; |
-| Q_i | = | the quantity of electricity actually generated in year i by all onshore wind power plants of the Member State measured in GWh; |
-| C_j | = | the total installed capacity of all the onshore wind power plants of the Member State at the end of year j, measured in MW; |
+| QN(norm) | = | normalised electricity generated by all hydropower plants of the Member State in year N, for accounting purposes; |
+| Qi | = | the quantity of electricity actually generated in year i by all hydropower plants of the Member State measured in GWh, excluding production from pumped storage units using water that has previously been pumped uphill; |
+| Ci | = | the total installed capacity, net of pumped storage, of all hydropower plants of the Member State at the end of year i, measured in MW. |
+
+The following rule shall be applied for the purposes of accounting for electricity generated from onshore wind power in a given Member State:
+
+►C1 ** ◄ **where:
+
+| N | = | reference year; |
+| --- | --- | --- |
+| QN(norm) | = | normalised electricity generated by all onshore wind power plants of the Member State in year N, for accounting purposes; |
+| Qi | = | the quantity of electricity actually generated in year i by all onshore wind power plants of the Member State measured in GWh; |
+| Cj | = | the total installed capacity of all the onshore wind power plants of the Member State at the end of year j, measured in MW; |
 | n | = | 4 or the number of years preceding year N for which capacity and production data are available for the Member State in question, whichever is lower. |
 
+The following rule shall be applied for the purposes of accounting for electricity generated from offshore wind power in a given Member State:
+
+►C1 ** ◄ **where:
+
 | N | = | reference year; |
 | --- | --- | --- |
-| Q_N(norm) | = | normalised electricity generated by all offshore wind power plants of the Member State in year N, for accounting purposes; |
-| Q_i | = | the quantity of electricity actually generated in year i by all offshore wind power plants of the Member State measured in GWh; |
-| C_j | = | the total installed capacity of all the offshore wind power plants of the Member State at the end of year j, measured in MW; |
+| QN(norm) | = | normalised electricity generated by all offshore wind power plants of the Member State in year N, for accounting purposes; |
+| Qi | = | the quantity of electricity actually generated in year i by all offshore wind power plants of the Member State measured in GWh; |
+| Cj | = | the total installed capacity of all the offshore wind power plants of the Member State at the end of year j, measured in MW; |
 | n | = | 4 or the number of years preceding year N for which capacity and production data are available for the Member State in question, whichever is lower. |
 
 <a id="anx_iii"></a>
@@ -1271,6 +985,7 @@ The following rule shall be applied for the purposes of accounting for electrici
 
 | Fuel | Energy content by weight (lower calorific value, MJ/kg) | Energy content by volume (lower calorific value, MJ/l) |
 | --- | --- | --- |
+| FUELS FROM BIOMASS AND/OR BIOMASS PROCESSING OPERATIONS |  |  |
 | Bio-Propane | 46 | 24 |
 | Pure vegetable oil (oil produced from oil plants through pressing, extraction or comparable procedures, crude or refined but chemically unmodified) | 37 | 34 |
 | Biodiesel - fatty acid methyl ester (methyl-ester produced from oil of biomass origin) | 37 | 33 |
@@ -1284,6 +999,7 @@ The following rule shall be applied for the purposes of accounting for electrici
 | Co-processed oil (processed in a refinery simultaneously with fossil fuel) of biomass or pyrolysed biomass origin, to be used to replace petrol | 44 | 32 |
 | Co-processed oil (processed in a refinery simultaneously with fossil fuel) of biomass or pyrolysed biomass origin, to be used to replace jet fuel | 43 | 33 |
 | Co-processed oil (processed in a refinery simultaneously with fossil fuel) of biomass or pyrolysed biomass origin, to be used to replace liquefied petroleum gas | 46 | 23 |
+| RENEWABLE FUELS THAT CAN BE PRODUCED FROM VARIOUS RENEWABLE SOURCES, INCLUDING BIOMASS |  |  |
 | Methanol from renewable sources | 20 | 16 |
 | Ethanol from renewable sources | 27 | 21 |
 | Propanol from renewable sources | 31 | 25 |
@@ -1300,6 +1016,7 @@ The following rule shall be applied for the purposes of accounting for electrici
 | TAME (tertiary-amyl-methyl-ether produced on the basis of methanol) | 36 (of which 18 % from renewable sources) | 28 (of which 18 % from renewable sources) |
 | THxEE (tertiary-hexyl-ethyl-ether produced on the basis of ethanol) | 38 (of which 25 % from renewable sources) | 30 (of which 25 % from renewable sources) |
 | THxME (tertiary-hexyl-methyl-ether produced on the basis of methanol) | 38 of which 14 % from renewable sources) | 30 (of which 14 % from renewable sources) |
+| FOSSIL FUELS |  |  |
 | Petrol | 43 | 32 |
 | Diesel | 43 | 36 |
 
@@ -1307,9 +1024,9 @@ The following rule shall be applied for the purposes of accounting for electrici
 
 ### ANNEX IV
 
-The certification schemes or equivalent qualification schemes referred to in Article 18(3) shall be based on the following criteria:
-
 **CERTIFICATION OF INSTALLERS**
+
+The certification schemes or equivalent qualification schemes referred to in Article 18(3) shall be based on the following criteria:
 
 1. The certification or qualification process shall be transparent and clearly defined by the Member States or by the administrative body that they appoint.
 
@@ -1329,7 +1046,7 @@ The certification schemes or equivalent qualification schemes referred to in Art
 
 **RULES FOR CALCULATING THE GREENHOUSE GAS IMPACT OF BIOFUELS, BIOLIQUIDS AND THEIR FOSSIL FUEL COMPARATORS**
 
-**A.TYPICAL AND DEFAULT VALUES FOR BIOFUELS IF PRODUCED WITH NO NET CARBON EMISSIONS FROM LAND-USE CHANGE**
+A. **TYPICAL AND DEFAULT VALUES FOR BIOFUELS IF PRODUCED WITH NO NET CARBON EMISSIONS FROM LAND-USE CHANGE**
 
 | Biofuel production pathway | Greenhouse gas emissions saving – typical value | Greenhouse gas emissions saving – default value |
 | --- | --- | --- |
@@ -1353,7 +1070,9 @@ The certification schemes or equivalent qualification schemes referred to in Art
 | rape seed biodiesel | 52 % | 47 % |
 | sunflower biodiesel | 57 % | 52 % |
 | soybean biodiesel | 55 % | 50 % |
+| ▼C1 |  |  |
 | palm oil biodiesel (open effluent pond) | 33 % | 20 % |
+| ▼B |  |  |
 | palm oil biodiesel (process with methane capture at oil mill) | 51 % | 45 % |
 | waste cooking oil biodiesel | 88 % | 84 % |
 | animal fats from rendering biodiesel (**) | 84 % | 78 % |
@@ -1370,20 +1089,29 @@ The certification schemes or equivalent qualification schemes referred to in Art
 | pure vegetable oil from palm oil (open effluent pond) | 40 % | 30 % |
 | pure vegetable oil from palm oil (process with methane capture at oil mill) | 59 % | 57 % |
 | pure oil from waste cooking oil | 98 % | 98 % |
-| (*)Default values for processes using CHP are valid only if all the process heat is supplied by CHP.(**)Applies only to biofuels produced from animal by-products classified as category 1 and 2 material in accordance with Regulation (EC) No 1069/2009 of the European Parliament and of the Council, for which emissions related to hygenisation as part of the rendering are not considered. |  |  |
+| (*) Default values for processes using CHP are valid only if all the process heat is supplied by CHP.(**) Applies only to biofuels produced from animal by-products classified as category 1 and 2 material in accordance with Regulation (EC) No 1069/2009 of the European Parliament and of the Council (1), for which emissions related to hygenisation as part of the rendering are not considered. |  |  |
+| (1)Regulation (EC) No 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation) (OJ L 300, 14.11.2009, p. 1). |  |  |
 
-**B.ESTIMATED TYPICAL AND DEFAULT VALUES FOR FUTURE BIOFUELS THAT WERE NOT ON THE MARKET OR WERE ON THE MARKET ONLY IN NEGLIGIBLE QUANTITIES IN 2016, IF PRODUCED WITH NO NET CARBON EMISSIONS FROM LAND-USE CHANGE**
+B. **ESTIMATED TYPICAL AND DEFAULT VALUES FOR FUTURE BIOFUELS THAT WERE NOT ON THE MARKET OR WERE ON THE MARKET ONLY IN NEGLIGIBLE QUANTITIES IN 2016, IF PRODUCED WITH NO NET CARBON EMISSIONS FROM LAND-USE CHANGE**
 
 | Biofuel production pathway | Greenhouse gas emissions saving - typical value | Greenhouse gas emissions saving - default value |
 | --- | --- | --- |
 | wheat straw ethanol | 85 % | 83 % |
+| ▼C1 |  |  |
 | waste wood Fischer-Tropsch diesel in free-standing plant | 83 % | 83 % |
+| ▼B |  |  |
 | farmed wood Fischer-Tropsch diesel in free-standing plant | 82 % | 82 % |
+| ▼C1 |  |  |
 | waste wood Fischer-Tropsch petrol in free-standing plant | 83 % | 83 % |
+| ▼B |  |  |
 | farmed wood Fischer-Tropsch petrol in free-standing plant | 82 % | 82 % |
+| ▼C1 |  |  |
 | waste wood dimethylether (DME) in free-standing plant | 84 % | 84 % |
+| ▼B |  |  |
 | farmed wood dimethylether (DME) in free-standing plant | 83 % | 83 % |
+| ▼C1 |  |  |
 | waste wood methanol in free-standing plant | 84 % | 84 % |
+| ▼B |  |  |
 | farmed wood methanol in free-standing plant | 83 % | 83 % |
 | Fischer-Tropsch diesel from black-liquor gasification integrated with pulp mill | 89 % | 89 % |
 | Fischer-Tropsch petrol from black-liquor gasification integrated with pulp mill | 89 % | 89 % |
@@ -1391,78 +1119,179 @@ The certification schemes or equivalent qualification schemes referred to in Art
 | Methanol from black-liquor gasification integrated with pulp mill | 89 % | 89 % |
 | the part from renewable sources of methyl-tertio-butyl-ether (MTBE) | Equal to that of the methanol production pathway used |  |
 
-**C.METHODOLOGY**
+C. **METHODOLOGY**
 
-1. Greenhouse gas emissions from the production and use of transport fuels, biofuels and bioliquids shall be calculated as follows: (a) greenhouse gas emissions from the production and use of biofuels shall be calculated as: E = e_ec + e_l + e_p + e_td + e_u – e_sca – e_ccs – e_ccr, where Emissions from the manufacture of machinery and equipment shall not be taken into account. (b) Greenhouse gas emissions from the production and use of bioliquids shall be calculated as for biofuels (E), but with the extension necessary for including the energy conversion to electricity and/or heat and cooling produced, as follows: (i) For energy installations delivering only heat: *EC*_*h**E**η*_*h* (ii) For energy installations delivering only electricity: *EC*_*el**E**η*_*el* where EC_h,elTotal greenhouse gas emissions from the final energy commodity.ETotal greenhouse gas emissions of the bioliquid before end-conversion.η_elThe electrical efficiency, defined as the annual electricity produced divided by the annual bioliquid input based on its energy content.η_hThe heat efficiency, defined as the annual useful heat output divided by the annual bioliquid input based on its energy content. (iii) For the electricity or mechanical energy coming from energy installations delivering useful heat together with electricity and/or mechanical energy: *EC*_*el**E**η*_*el*[*C*_*el**η*_*el**C*_*el**η*_*el**C*_*h**η*_*h*] (iv) For the useful heat coming from energy installations delivering heat together with electricity and/or mechanical energy: *EC*_*h**E**η*_*h*[*C*_*h**η*_*h**C*_*el**η*_*el**C*_*h**η*_*h*] where: EC_h,elTotal greenhouse gas emissions from the final energy commodity.ETotal greenhouse gas emissions of the bioliquid before end-conversion.η_elThe electrical efficiency, defined as the annual electricity produced divided by the annual fuel input based on its energy content.η_hThe heat efficiency, defined as the annual useful heat output divided by the annual fuel input based on its energy content.C_elFraction of exergy in the electricity, and/or mechanical energy, set to 100 % (C_el = 1).C_hCarnot efficiency (fraction of exergy in the useful heat). The Carnot efficiency, C_h, for useful heat at different temperatures is defined as: *C*_*h**T*_*h**T*_0*T*_*h* where T_hTemperature, measured in absolute temperature (kelvin) of the useful heat at point of delivery.T_0Temperature of surroundings, set at 273,15 kelvin (equal to 0 °C) If the excess heat is exported for heating of buildings, at a temperature below 150 °C (423,15 kelvin), C_h can alternatively be defined as follows: C_hCarnot efficiency in heat at 150 °C (423,15 kelvin), which is: 0,3546 For the purposes of that calculation, the following definitions apply: (a) ‘cogeneration’ means the simultaneous generation in one process of thermal energy and electricity and/or mechanical energy; (b) ‘useful heat’ means heat generated to satisfy an economical justifiable demand for heat, for heating and cooling purposes; (c) ‘economically justifiable demand’ means the demand that does not exceed the needs for heat or cooling and which would otherwise be satisfied at market conditions.
+1. Greenhouse gas emissions from the production and use of transport fuels, biofuels and bioliquids shall be calculated as follows:
 
-| E | = | total emissions from the use of the fuel; |
+(a) greenhouse gas emissions from the production and use of biofuels shall be calculated as: E = eec + el + ep + etd + eu – esca – eccs – eccr, where | E | = | total emissions from the use of the fuel; |
 | --- | --- | --- |
-| e_ec | = | emissions from the extraction or cultivation of raw materials; |
-| e_l | = | annualised emissions from carbon stock changes caused by land-use change; |
-| e_p | = | emissions from processing; |
-| e_td | = | emissions from transport and distribution; |
-| e_u | = | emissions from the fuel in use; |
-| e_sca | = | emission savings from soil carbon accumulation via improved agricultural management; |
-| e_ccs | = | emission savings from CO_2 capture and geological storage; and |
-| e_ccr | = | emission savings from CO_2 capture and replacement. |
+| eec | = | emissions from the extraction or cultivation of raw materials; |
+| el | = | annualised emissions from carbon stock changes caused by land-use change; |
+| ep | = | emissions from processing; |
+| etd | = | emissions from transport and distribution; |
+| eu | = | emissions from the fuel in use; |
+| esca | = | emission savings from soil carbon accumulation via improved agricultural management; |
+| eccs | = | emission savings from CO2 capture and geological storage; and |
+| eccr | = | emission savings from CO2 capture and replacement. | Emissions from the manufacture of machinery and equipment shall not be taken into account.
 
-2. Greenhouse gas emissions from biofuels and bioliquids shall be expressed as follows: (a) greenhouse gas emissions from biofuels, E, shall be expressed in terms of grams of CO_2 equivalent per MJ of fuel, g CO_2eq/MJ. (b) greenhouse gas emissions from bioliquids, EC, in terms of grams of CO_2 equivalent per MJ of final energy commodity (heat or electricity), g CO_2eq/MJ. When heating and cooling are co-generated with electricity, emissions shall be allocated between heat and electricity (as under 1(b)), irrespective if the heat is used for actual heating purposes or for cooling. Where the greenhouse gas emissions from the extraction or cultivation of raw materials e_ec are expressed in unit g CO_2eq/dry-ton of feedstock, the conversion to grams of CO_2 equivalent per MJ of fuel, g CO_2eq/MJ, shall be calculated as follows: *e*_*ec**fuel*_*a**gCO*_2*eq**MJ**fuel*_*ec**e*_*ec**feedstock*_*a**gCO*_2*eq**t*_*dry**LHV*_*a**MJ**feedstock**t**dry feedstock**Fuel feedstock factor*_*a**Allocation factor fuel*_*a* where *Allocation factor fuel*_*a**Energy in fuel**Energy fuel**Energy in co-products* *Fuel feedstock factor*_*a**Ratio of MJ feedstock required to make 1 MJ fuel* Emissions per dry-ton feedstock shall be calculated as follows: *e*_*ec**feedstock*_*a**gCO*_2*eq**t*_*dry**e*_*ec**feedstock*_*a**gCO*_2*eq**t*_*moist*[1*moisture content*]
-
-3. Greenhouse gas emissions savings from biofuels and bioliquids shall be calculated as follows: (a) greenhouse gas emissions savings from biofuels: SAVING = (E_F(t) – E_B)/E_F(t), where (b) greenhouse gas emissions savings from heat and cooling, and electricity being generated from bioliquids: SAVING = (EC_F(h&c,el) – EC_B(h&c,el))/EC_F(h&c,el), where EC_B(h&c,el)total emissions from the heat or electricity; andEC_F(h&c,el)total emissions from the fossil fuel comparator for useful heat or electricity.
-
-| E_B | = | total emissions from the biofuel; and |
+(b) Greenhouse gas emissions from the production and use of bioliquids shall be calculated as for biofuels (E), but with the extension necessary for including the energy conversion to electricity and/or heat and cooling produced, as follows: (i) For energy installations delivering only heat: (ii) For energy installations delivering only electricity: where | ECh,el | = | Total greenhouse gas emissions from the final energy commodity. |
+| --- | --- | --- | | E | = | Total greenhouse gas emissions of the bioliquid before end-conversion. |
+| --- | --- | --- | | ηel | = | The electrical efficiency, defined as the annual electricity produced divided by the annual bioliquid input based on its energy content. |
+| --- | --- | --- | | ηh | = | The heat efficiency, defined as the annual useful heat output divided by the annual bioliquid input based on its energy content. |
+| --- | --- | --- | (iii) For the electricity or mechanical energy coming from energy installations delivering useful heat together with electricity and/or mechanical energy: (iv) For the useful heat coming from energy installations delivering heat together with electricity and/or mechanical energy: where: | ECh,el | = | Total greenhouse gas emissions from the final energy commodity. |
+| --- | --- | --- | | E | = | Total greenhouse gas emissions of the bioliquid before end-conversion. |
+| --- | --- | --- | | ηel | = | The electrical efficiency, defined as the annual electricity produced divided by the annual fuel input based on its energy content. |
+| --- | --- | --- | | ηh | = | The heat efficiency, defined as the annual useful heat output divided by the annual fuel input based on its energy content. |
+| --- | --- | --- | | Cel | = | Fraction of exergy in the electricity, and/or mechanical energy, set to 100 % (Cel = 1). |
+| --- | --- | --- | | Ch | = | Carnot efficiency (fraction of exergy in the useful heat). |
 | --- | --- | --- |
-| E_F(t) | = | total emissions from the fossil fuel comparator for transport |
 
-4. The greenhouse gases taken into account for the purposes of point 1 shall be CO_2, N_2O and CH_4. For the purposes of calculating CO_2 equivalence, those gases shall be valued as follows:
+The Carnot efficiency, Ch, for useful heat at different temperatures is defined as:
 
-| CO_2 | : | 1 |
+where
+
+| Th | = | Temperature, measured in absolute temperature (kelvin) of the useful heat at point of delivery. |
 | --- | --- | --- |
-| N_2O | : | 298 |
-| CH_4 | : | 25 |
 
-5. Emissions from the extraction or cultivation of raw materials, e_ec, shall include emissions from the extraction or cultivation process itself; from the collection, drying and storage of raw materials; from waste and leakages; and from the production of chemicals or products used in extraction or cultivation. Capture of CO_2 in the cultivation of raw materials shall be excluded. Estimates of emissions from agriculture biomass cultivation may be derived from the use of regional averages for cultivation emissions included in the reports referred to in Article 31(4) or the information on the disaggregated default values for cultivation emissions included in this Annex, as an alternative to using actual values. In the absence of relevant information in those reports it is allowed to calculate averages based on local farming practises based for instance on data of a group of farms, as an alternative to using actual values.
-
-6. For the purposes of the calculation referred to in point 1(a), greenhouse gas emissions savings from improved agriculture management, e_sca, such as shifting to reduced or zero-tillage, improved crop/rotation, the use of cover crops, including crop residue management, and the use of organic soil improver (e.g. compost, manure fermentation digestate), shall be taken into account only if solid and verifiable evidence is provided that the soil carbon has increased or that it is reasonable to expect to have increased over the period in which the raw materials concerned were cultivated while taking into account the emissions where such practices lead to increased fertiliser and herbicide use.
-
-7. Annualised emissions from carbon stock changes caused by land-use change, e_l, shall be calculated by dividing total emissions equally over 20 years. For the calculation of those emissions, the following rule shall be applied: e_l = (CS_R – CS_A) × 3,664 × 1/20 × 1/P – e_B, where
-
-| e_l | = | annualised greenhouse gas emissions from carbon stock change due to land-use change (measured as mass (grams) of CO_2-equivalent per unit of biofuel or bioliquid energy (megajoules)). ‘Cropland’ and ‘perennial cropland’ shall be regarded as one land use; |
+| T0 | = | Temperature of surroundings, set at 273,15 kelvin (equal to 0 °C) |
 | --- | --- | --- |
-| CS_R | = | the carbon stock per unit area associated with the reference land-use (measured as mass (tonnes) of carbon per unit area, including both soil and vegetation). The reference land-use shall be the land-use in January 2008 or 20 years before the raw material was obtained, whichever was the later; |
-| CS_A | = | the carbon stock per unit area associated with the actual land-use (measured as mass (tonnes) of carbon per unit area, including both soil and vegetation). In cases where the carbon stock accumulates over more than one year, the value attributed to CS_A shall be the estimated stock per unit area after 20 years or when the crop reaches maturity, whichever the earlier; |
+
+If the excess heat is exported for heating of buildings, at a temperature below 150 °C (423,15 kelvin), Ch can alternatively be defined as follows:
+
+| Ch | = | Carnot efficiency in heat at 150 °C (423,15 kelvin), which is: 0,3546 |
+| --- | --- | --- |
+
+For the purposes of that calculation, the following definitions apply:
+
+(a) ‘cogeneration’ means the simultaneous generation in one process of thermal energy and electricity and/or mechanical energy;
+
+(b) ‘useful heat’ means heat generated to satisfy an economical justifiable demand for heat, for heating and cooling purposes;
+
+(c) ‘economically justifiable demand’ means the demand that does not exceed the needs for heat or cooling and which would otherwise be satisfied at market conditions.
+
+2. Greenhouse gas emissions from biofuels and bioliquids shall be expressed as follows:
+
+(a) greenhouse gas emissions from biofuels, E, shall be expressed in terms of grams of CO2 equivalent per MJ of fuel, g CO2eq/MJ.
+
+(b) greenhouse gas emissions from bioliquids, EC, in terms of grams of CO2 equivalent per MJ of final energy commodity (heat or electricity), g CO2eq/MJ.
+
+When heating and cooling are co-generated with electricity, emissions shall be allocated between heat and electricity (as under 1(b)), irrespective if the heat is used for actual heating purposes or for cooling (9).
+
+Where the greenhouse gas emissions from the extraction or cultivation of raw materials eec are expressed in unit g CO2eq/dry-ton of feedstock, the conversion to grams of CO2 equivalent per MJ of fuel, g CO2eq/MJ, shall be calculated as follows (10):
+
+where
+
+Emissions per dry-ton feedstock shall be calculated as follows:
+
+3. Greenhouse gas emissions savings from biofuels and bioliquids shall be calculated as follows:
+
+(a) greenhouse gas emissions savings from biofuels: SAVING = (EF(t) – EB)/EF(t), where | EB | = | total emissions from the biofuel; and |
+| --- | --- | --- |
+| EF(t) | = | total emissions from the fossil fuel comparator for transport |
+
+(b) greenhouse gas emissions savings from heat and cooling, and electricity being generated from bioliquids: SAVING = (ECF(h&c,el) – ECB(h&c,el))/ECF(h&c,el), where | ECB(h&c,el) | = | total emissions from the heat or electricity; and |
+| --- | --- | --- | | ECF(h&c,el) | = | total emissions from the fossil fuel comparator for useful heat or electricity. |
+| --- | --- | --- |
+
+4. The greenhouse gases taken into account for the purposes of point 1 shall be CO2, N2O and CH4. For the purposes of calculating CO2 equivalence, those gases shall be valued as follows:
+
+| CO2 | : | 1 |
+| --- | --- | --- |
+| N2O | : | 298 |
+| CH4 | : | 25 |
+
+5. Emissions from the extraction or cultivation of raw materials, eec, shall include emissions from the extraction or cultivation process itself; from the collection, drying and storage of raw materials; from waste and leakages; and from the production of chemicals or products used in extraction or cultivation. Capture of CO2 in the cultivation of raw materials shall be excluded. Estimates of emissions from agriculture biomass cultivation may be derived from the use of regional averages for cultivation emissions included in the reports referred to in Article 31(4) or the information on the disaggregated default values for cultivation emissions included in this Annex, as an alternative to using actual values. In the absence of relevant information in those reports it is allowed to calculate averages based on local farming practises based for instance on data of a group of farms, as an alternative to using actual values.
+
+6. For the purposes of the calculation referred to in point 1(a), greenhouse gas emissions savings from improved agriculture management, esca, such as shifting to reduced or zero-tillage, improved crop/rotation, the use of cover crops, including crop residue management, and the use of organic soil improver (e.g. compost, manure fermentation digestate), shall be taken into account only if solid and verifiable evidence is provided that the soil carbon has increased or that it is reasonable to expect to have increased over the period in which the raw materials concerned were cultivated while taking into account the emissions where such practices lead to increased fertiliser and herbicide use (11).
+
+7. Annualised emissions from carbon stock changes caused by land-use change, el, shall be calculated by dividing total emissions equally over 20 years. For the calculation of those emissions, the following rule shall be applied:
+
+el = (CSR – CSA) × 3,664 × 1/20 × 1/P – eB, (12)
+
+where
+
+| el | = | annualised greenhouse gas emissions from carbon stock change due to land-use change (measured as mass (grams) of CO2-equivalent per unit of biofuel or bioliquid energy (megajoules)). ‘Cropland’ (1) and ‘perennial cropland’ (2) shall be regarded as one land use; |
+| --- | --- | --- |
+| CSR | = | the carbon stock per unit area associated with the reference land-use (measured as mass (tonnes) of carbon per unit area, including both soil and vegetation). The reference land-use shall be the land-use in January 2008 or 20 years before the raw material was obtained, whichever was the later; |
+| CSA | = | the carbon stock per unit area associated with the actual land-use (measured as mass (tonnes) of carbon per unit area, including both soil and vegetation). In cases where the carbon stock accumulates over more than one year, the value attributed to CSA shall be the estimated stock per unit area after 20 years or when the crop reaches maturity, whichever the earlier; |
 | P | = | the productivity of the crop (measured as biofuel or bioliquid energy per unit area per year) and |
-| e_B | = | bonus of 29 g CO_2eq/MJ biofuel or bioliquid if biomass is obtained from restored degraded land under the conditions laid down in point 8. |
+| eB | = | bonus of 29 g CO2eq/MJ biofuel or bioliquid if biomass is obtained from restored degraded land under the conditions laid down in point 8. |
+| (1)Cropland as defined by IPCC.(2)Perennial crops are defined as multi-annual crops, the stem of which is usually not annually harvested such as short rotation coppice and oil palm. |  |  |
 
-8. The bonus of 29 g CO_2eq/MJ shall be attributed if evidence is provided that the land: (a) was not in use for agriculture or any other activity in January 2008; and (b) is severely degraded land, including such land that was formerly in agricultural use. The bonus of 29 g CO_2eq/MJ shall apply for a period of up to 20 years from the date of conversion of the land to agricultural use, provided that a steady increase in carbon stocks as well as a sizable reduction in erosion phenomena for land falling under (b) are ensured.
+8. The bonus of 29 g CO2eq/MJ shall be attributed if evidence is provided that the land:
+
+(a) was not in use for agriculture or any other activity in January 2008; and
+
+(b) is severely degraded land, including such land that was formerly in agricultural use.
+
+The bonus of 29 g CO2eq/MJ shall apply for a period of up to 20 years from the date of conversion of the land to agricultural use, provided that a steady increase in carbon stocks as well as a sizable reduction in erosion phenomena for land falling under (b) are ensured.
 
 9. ‘Severely degraded land’ means land that, for a significant period of time, has either been significantly salinated or presented significantly low organic matter content and has been severely eroded.
 
-10. The Commission shall review, by 31 December 2020, guidelines for the calculation of land carbon stocks drawing on the 2006 IPCC Guidelines for National Greenhouse Gas Inventories – volume 4 and in accordance with Regulation (EU) No 525/2013 and Regulation (EU) 2018/841 of the European Parliament and of the Council. The Commission guidelines shall serve as the basis for the calculation of land carbon stocks for the purposes of this Directive.
+10. The Commission shall review, by 31 December 2020, guidelines for the calculation of land carbon stocks (13) drawing on the 2006 IPCC Guidelines for National Greenhouse Gas Inventories – volume 4 and in accordance with Regulation (EU) No 525/2013 and Regulation (EU) 2018/841 of the European Parliament and of the Council (14). The Commission guidelines shall serve as the basis for the calculation of land carbon stocks for the purposes of this Directive.
 
-11. Emissions from processing, e_p, shall include emissions from the processing itself; from waste and leakages; and from the production of chemicals or products used in processing including the CO_2 emissions corresponding to the carbon contents of fossil inputs, whether or not actually combusted in the process. In accounting for the consumption of electricity not produced within the fuel production plant, the greenhouse gas emissions intensity of the production and distribution of that electricity shall be assumed to be equal to the average emission intensity of the production and distribution of electricity in a defined region. By way of derogation from this rule, producers may use an average value for an individual electricity production plant for electricity produced by that plant, if that plant is not connected to the electricity grid. Emissions from processing shall include emissions from drying of interim products and materials where relevant.
+11. Emissions from processing, ep, shall include emissions from the processing itself; from waste and leakages; and from the production of chemicals or products used in processing including the CO2 emissions corresponding to the carbon contents of fossil inputs, whether or not actually combusted in the process.
 
-12. Emissions from transport and distribution, e_td, shall include emissions from the transport of raw and semi-finished materials and from the storage and distribution of finished materials. Emissions from transport and distribution to be taken into account under point 5 shall not be covered by this point.
+In accounting for the consumption of electricity not produced within the fuel production plant, the greenhouse gas emissions intensity of the production and distribution of that electricity shall be assumed to be equal to the average emission intensity of the production and distribution of electricity in a defined region. By way of derogation from this rule, producers may use an average value for an individual electricity production plant for electricity produced by that plant, if that plant is not connected to the electricity grid.
 
-13. Emissions of the fuel in use, e_u, shall be taken to be zero for biofuels and bioliquids. Emissions of non-CO_2 greenhouse gases (N_2O and CH_4) of the fuel in use shall be included in the e_u factor for bioliquids.
+Emissions from processing shall include emissions from drying of interim products and materials where relevant.
 
-14. Emission savings from CO_2 capture and geological storage, e_ccs, that have not already been accounted for in e_p, shall be limited to emissions avoided through the capture and storage of emitted CO_2 directly related to the extraction, transport, processing and distribution of fuel if stored in compliance with Directive 2009/31/EC of the European Parliament and of the Council.
+12. Emissions from transport and distribution, etd, shall include emissions from the transport of raw and semi-finished materials and from the storage and distribution of finished materials. Emissions from transport and distribution to be taken into account under point 5 shall not be covered by this point.
 
-15. Emission savings from CO_2 capture and replacement, e_ccr, shall be related directly to the production of biofuel or bioliquid they are attributed to, and shall be limited to emissions avoided through the capture of CO_2 of which the carbon originates from biomass and which is used to replace fossil-derived CO_2 in production of commercial products and services.
+13. Emissions of the fuel in use, eu, shall be taken to be zero for biofuels and bioliquids.
 
-16. Where a cogeneration unit – providing heat and/or electricity to a fuel production process for which emissions are being calculated – produces excess electricity and/or excess useful heat, the greenhouse gas emissions shall be divided between the electricity and the useful heat according to the temperature of the heat (which reflects the usefulness (utility) of the heat). The useful part of the heat is found by multiplying its energy content with the Carnot efficiency, C_h, calculated as follows: *C*_*h**T*_*h**T*_0*T*_*h* where T_hTemperature, measured in absolute temperature (kelvin) of the useful heat at point of delivery.T_0Temperature of surroundings, set at 273,15 kelvin (equal to 0 °C) If the excess heat is exported for heating of buildings, at a temperature below 150 °C (423,15 kelvin), C_h can alternatively be defined as follows: C_hCarnot efficiency in heat at 150 °C (423,15 kelvin), which is: 0,3546 For the purposes of that calculation, the actual efficiencies shall be used, defined as the annual mechanical energy, electricity and heat produced respectively divided by the annual energy input. For the purposes of that calculation, the following definitions apply: (a) ‘cogeneration’ shall mean the simultaneous generation in one process of thermal energy and electrical and/or mechanical energy; (b) ‘useful heat’ shall mean heat generated to satisfy an economical justifiable demand for heat, for heating or cooling purposes; (c) ‘economically justifiable demand’ shall mean the demand that does not exceed the needs for heat or cooling and which would otherwise be satisfied at market conditions.
+Emissions of non-CO2 greenhouse gases (N2O and CH4) of the fuel in use shall be included in the eu factor for bioliquids.
 
-17. Where a fuel production process produces, in combination, the fuel for which emissions are being calculated and one or more other products (co-products), greenhouse gas emissions shall be divided between the fuel or its intermediate product and the co-products in proportion to their energy content (determined by lower heating value in the case of co-products other than electricity and heat). The greenhouse gas intensity of excess useful heat or excess electricity is the same as the greenhouse gas intensity of heat or electricity delivered to the fuel production process and is determined from calculating the greenhouse intensity of all inputs and emissions, including the feedstock and CH_4 and N_2O emissions, to and from the cogeneration unit, boiler or other apparatus delivering heat or electricity to the fuel production process. In the case of cogeneration of electricity and heat, the calculation is performed following point 16.
+14. Emission savings from CO2 capture and geological storage, eccs, that have not already been accounted for in ep, shall be limited to emissions avoided through the capture and storage of emitted CO2 directly related to the extraction, transport, processing and distribution of fuel if stored in compliance with Directive 2009/31/EC of the European Parliament and of the Council (15).
 
-18. For the purposes of the calculation referred to in point 17, the emissions to be divided shall be e_ec + e_l + e_sca + those fractions of e_p, e_td, e_ccs, and e_ccr that take place up to and including the process step at which a co-product is produced. If any allocation to co-products has taken place at an earlier process step in the life-cycle, the fraction of those emissions assigned in the last such process step to the intermediate fuel product shall be used for those purposes instead of the total of those emissions. In the case of biofuels and bioliquids, all co-products shall be taken into account for the purposes of that calculation. No emissions shall be allocated to wastes and residues. Co-products that have a negative energy content shall be considered to have an energy content of zero for the purposes of the calculation. Wastes and residues, including tree tops and branches, straw, husks, cobs and nut shells, and residues from processing, including crude glycerine (glycerine that is not refined) and bagasse, shall be considered to have zero life-cycle greenhouse gas emissions up to the process of collection of those materials irrespectively of whether they are processed to interim products before being transformed into the final product. In the case of fuels produced in refineries, other than the combination of processing plants with boilers or cogeneration units providing heat and/or electricity to the processing plant, the unit of analysis for the purposes of the calculation referred to in point 17 shall be the refinery.
+15. Emission savings from CO2 capture and replacement, eccr, shall be related directly to the production of biofuel or bioliquid they are attributed to, and shall be limited to emissions avoided through the capture of CO2 of which the carbon originates from biomass and which is used to replace fossil-derived CO2 in production of commercial products and services.
 
-19. For biofuels, for the purposes of the calculation referred to in point 3, the fossil fuel comparator E_F(t) shall be 94 g CO_2eq/MJ. For bioliquids used for the production of electricity, for the purposes of the calculation referred to in point 3, the fossil fuel comparator EC_F(e) shall be 183 g CO_2eq/MJ. For bioliquids used for the production of useful heat, as well as for the production of heating and/or cooling, for the purposes of the calculation referred to in point 3, the fossil fuel comparator EC_F(h&c) shall be 80 g CO_2eq/MJ.
+16. Where a cogeneration unit – providing heat and/or electricity to a fuel production process for which emissions are being calculated – produces excess electricity and/or excess useful heat, the greenhouse gas emissions shall be divided between the electricity and the useful heat according to the temperature of the heat (which reflects the usefulness (utility) of the heat). The useful part of the heat is found by multiplying its energy content with the Carnot efficiency, Ch, calculated as follows:
 
-Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of this Annex, including soil N_2O emissionsDisaggregated default values for cultivation: ‘e_ec’ – for soil N_2O emissions only (these are already included in the disaggregated values for cultivation emissions in the ‘e_ec’ table)Disaggregated default values for processing: ‘e_p’ as defined in Part C of this AnnexDisaggregated default values for oil extraction only (these are already included in the disaggregated values for processing emissions in the ‘e_p’ table)Disaggregated default values for transport and distribution: ‘e_td’ as defined in Part C of this AnnexDisaggregated default values for transport and distribution of final fuel only. These are already included in the table of ‘transport and distribution emissions e_td’ as defined in Part C of this Annex, but the following values are useful if an economic operator wishes to declare actual transport emissions for crops or oil transport only).Total for cultivation, processing, transport and distribution
+where
 
-**D.DISAGGREGATED DEFAULT VALUES FOR BIOFUELS AND BIOLIQUIDS**
+| Th | = | Temperature, measured in absolute temperature (kelvin) of the useful heat at point of delivery. |
+| --- | --- | --- |
 
-| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |
+| T0 | = | Temperature of surroundings, set at 273,15 kelvin (equal to 0 °C) |
+| --- | --- | --- |
+
+If the excess heat is exported for heating of buildings, at a temperature below 150 °C (423,15 kelvin), Ch can alternatively be defined as follows:
+
+| Ch | = | Carnot efficiency in heat at 150 °C (423,15 kelvin), which is: 0,3546 |
+| --- | --- | --- |
+
+For the purposes of that calculation, the actual efficiencies shall be used, defined as the annual mechanical energy, electricity and heat produced respectively divided by the annual energy input.
+
+For the purposes of that calculation, the following definitions apply:
+
+(a) ‘cogeneration’ shall mean the simultaneous generation in one process of thermal energy and electrical and/or mechanical energy;
+
+(b) ‘useful heat’ shall mean heat generated to satisfy an economical justifiable demand for heat, for heating or cooling purposes;
+
+(c) ‘economically justifiable demand’ shall mean the demand that does not exceed the needs for heat or cooling and which would otherwise be satisfied at market conditions.
+
+17. Where a fuel production process produces, in combination, the fuel for which emissions are being calculated and one or more other products (co-products), greenhouse gas emissions shall be divided between the fuel or its intermediate product and the co-products in proportion to their energy content (determined by lower heating value in the case of co-products other than electricity and heat). The greenhouse gas intensity of excess useful heat or excess electricity is the same as the greenhouse gas intensity of heat or electricity delivered to the fuel production process and is determined from calculating the greenhouse intensity of all inputs and emissions, including the feedstock and CH4 and N2O emissions, to and from the cogeneration unit, boiler or other apparatus delivering heat or electricity to the fuel production process. In the case of cogeneration of electricity and heat, the calculation is performed following point 16.
+
+18. For the purposes of the calculation referred to in point 17, the emissions to be divided shall be eec + el + esca + those fractions of ep, etd, eccs, and eccr that take place up to and including the process step at which a co-product is produced. If any allocation to co-products has taken place at an earlier process step in the life-cycle, the fraction of those emissions assigned in the last such process step to the intermediate fuel product shall be used for those purposes instead of the total of those emissions.
+
+In the case of biofuels and bioliquids, all co-products shall be taken into account for the purposes of that calculation. No emissions shall be allocated to wastes and residues. Co-products that have a negative energy content shall be considered to have an energy content of zero for the purposes of the calculation.
+
+Wastes and residues, including tree tops and branches, straw, husks, cobs and nut shells, and residues from processing, including crude glycerine (glycerine that is not refined) and bagasse, shall be considered to have zero life-cycle greenhouse gas emissions up to the process of collection of those materials irrespectively of whether they are processed to interim products before being transformed into the final product.
+
+In the case of fuels produced in refineries, other than the combination of processing plants with boilers or cogeneration units providing heat and/or electricity to the processing plant, the unit of analysis for the purposes of the calculation referred to in point 17 shall be the refinery.
+
+19. For biofuels, for the purposes of the calculation referred to in point 3, the fossil fuel comparator EF(t) shall be 94 g CO2eq/MJ.
+
+For bioliquids used for the production of electricity, for the purposes of the calculation referred to in point 3, the fossil fuel comparator ECF(e) shall be 183 g CO2eq/MJ.
+
+For bioliquids used for the production of useful heat, as well as for the production of heating and/or cooling, for the purposes of the calculation referred to in point 3, the fossil fuel comparator ECF(h&c) shall be 80 g CO2eq/MJ.
+
+D. **DISAGGREGATED DEFAULT VALUES FOR BIOFUELS AND BIOLIQUIDS**
+
+Disaggregated default values for cultivation: ‘eec’ as defined in Part C of this Annex, including soil N2O emissions
+
+| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |
 | --- | --- | --- |
 | sugar beet ethanol | 9,6 | 9,6 |
 | corn (maize) ethanol | 25,5 | 25,5 |
@@ -1473,22 +1302,29 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | rape seed biodiesel | 32,0 | 32,0 |
 | sunflower biodiesel | 26,1 | 26,1 |
 | soybean biodiesel | 21,2 | 21,2 |
+| ▼C1 |  |  |
 | palm oil biodiesel | 26,0 | 26,0 |
+| ▼B |  |  |
 | waste cooking oil biodiesel | 0 | 0 |
-| animal fats from rendering biodiesel | 0 | 0 |
+| animal fats from rendering biodiesel (*1) | 0 | 0 |
 | hydrotreated vegetable oil from rape seed | 33,4 | 33,4 |
 | hydrotreated vegetable oil from sunflower | 26,9 | 26,9 |
 | hydrotreated vegetable oil from soybean | 22,1 | 22,1 |
+| ▼C1 |  |  |
 | hydrotreated vegetable oil from palm oil | 27,3 | 27,3 |
+| ▼B |  |  |
 | hydrotreated oil from waste cooking oil | 0 | 0 |
-| hydrotreated oil from animal fats from rendering | 0 | 0 |
+| hydrotreated oil from animal fats from rendering (*1) | 0 | 0 |
 | pure vegetable oil from rape seed | 33,4 | 33,4 |
 | pure vegetable oil from sunflower | 27,2 | 27,2 |
 | pure vegetable oil from soybean | 22,2 | 22,2 |
 | pure vegetable oil from palm oil | 27,1 | 27,1 |
 | pure oil from waste cooking oil | 0 | 0 |
+| (*1)Applies only to biofuels produced from animal by-products classified as category 1 and 2 material in accordance with Regulation (EC) No 1069/2009, for which emissions related to hygenisation as part of the rendering are not considered. |  |  |
 
-| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |
+Disaggregated default values for cultivation: ‘eec’ – for soil N2O emissions only (these are already included in the disaggregated values for cultivation emissions in the ‘eec’ table)
+
+| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |
 | --- | --- | --- |
 | sugar beet ethanol | 4,9 | 4,9 |
 | corn (maize) ethanol | 13,7 | 13,7 |
@@ -1501,35 +1337,38 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | soybean biodiesel | 13,4 | 13,4 |
 | palm oil biodiesel | 16,5 | 16,5 |
 | waste cooking oil biodiesel | 0 | 0 |
-| animal fats from rendering biodiesel | 0 | 0 |
+| animal fats from rendering biodiesel (*1) | 0 | 0 |
 | hydrotreated vegetable oil from rape seed | 18,0 | 18,0 |
 | hydrotreated vegetable oil from sunflower | 12,5 | 12,5 |
 | hydrotreated vegetable oil from soybean | 13,7 | 13,7 |
 | hydrotreated vegetable oil from palm oil | 16,9 | 16,9 |
 | hydrotreated oil from waste cooking oil | 0 | 0 |
-| hydrotreated oil from animal fats from rendering | 0 | 0 |
+| hydrotreated oil from animal fats from rendering (*1) | 0 | 0 |
 | pure vegetable oil from rape seed | 17,6 | 17,6 |
 | pure vegetable oil from sunflower | 12,2 | 12,2 |
 | pure vegetable oil from soybean | 13,4 | 13,4 |
 | pure vegetable oil from palm oil | 16,5 | 16,5 |
 | pure oil from waste cooking oil | 0 | 0 |
+| (*1)Note: applies only to biofuels produced from animal by-products classified as category 1 and 2 material in accordance with Regulation (EC) No 1069/2009, for which emissions related to hygenisation as part of the rendering are not considered. |  |  |
 
-| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |
+Disaggregated default values for processing: ‘ep’ as defined in Part C of this Annex
+
+| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |
 | --- | --- | --- |
 | sugar beet ethanol (no biogas from slop, natural gas as process fuel in conventional boiler) | 18,8 | 26,3 |
 | sugar beet ethanol (with biogas from slop, natural gas as process fuel in conventional boiler) | 9,7 | 13,6 |
-| sugar beet ethanol (no biogas from slop, natural gas as process fuel in CHP plant) | 13,2 | 18,5 |
-| sugar beet ethanol (with biogas from slop, natural gas as process fuel in CHP plant) | 7,6 | 10,6 |
-| sugar beet ethanol (no biogas from slop, lignite as process fuel in CHP plant) | 27,4 | 38,3 |
-| sugar beet ethanol (with biogas from slop, lignite as process fuel in CHP plant) | 15,7 | 22,0 |
+| sugar beet ethanol (no biogas from slop, natural gas as process fuel in CHP plant (*1)) | 13,2 | 18,5 |
+| sugar beet ethanol (with biogas from slop, natural gas as process fuel in CHP plant (*1)) | 7,6 | 10,6 |
+| sugar beet ethanol (no biogas from slop, lignite as process fuel in CHP plant (*1)) | 27,4 | 38,3 |
+| sugar beet ethanol (with biogas from slop, lignite as process fuel in CHP plant (*1)) | 15,7 | 22,0 |
 | corn (maize) ethanol (natural gas as process fuel in conventional boiler) | 20,8 | 29,1 |
-| corn (maize) ethanol, (natural gas as process fuel in CHP plant) | 14,8 | 20,8 |
-| corn (maize) ethanol (lignite as process fuel in CHP plant) | 28,6 | 40,1 |
-| corn (maize) ethanol (forest residues as process fuel in CHP plant) | 1,8 | 2,6 |
+| corn (maize) ethanol, (natural gas as process fuel in CHP plant (*1)) | 14,8 | 20,8 |
+| corn (maize) ethanol (lignite as process fuel in CHP plant (*1)) | 28,6 | 40,1 |
+| corn (maize) ethanol (forest residues as process fuel in CHP plant (*1)) | 1,8 | 2,6 |
 | other cereals excluding maize ethanol (natural gas as process fuel in conventional boiler) | 21,0 | 29,3 |
-| other cereals excluding maize ethanol (natural gas as process fuel in CHP plant) | 15,1 | 21,1 |
-| other cereals excluding maize ethanol (lignite as process fuel in CHP plant) | 30,3 | 42,5 |
-| other cereals excluding maize ethanol (forest residues as process fuel in CHP plant) | 1,5 | 2,2 |
+| other cereals excluding maize ethanol (natural gas as process fuel in CHP plant (*1)) | 15,1 | 21,1 |
+| other cereals excluding maize ethanol (lignite as process fuel in CHP plant (*1)) | 30,3 | 42,5 |
+| other cereals excluding maize ethanol (forest residues as process fuel in CHP plant (*1)) | 1,5 | 2,2 |
 | sugar cane ethanol | 1,3 | 1,8 |
 | the part from renewable sources of ETBE | Equal to that of the ethanol production pathway used |  |
 | the part from renewable sources of TAEE | Equal to that of the ethanol production pathway used |  |
@@ -1539,22 +1378,27 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | palm oil biodiesel (open effluent pond) | 30,4 | 42,6 |
 | palm oil biodiesel (process with methane capture at oil mill) | 13,2 | 18,5 |
 | waste cooking oil biodiesel | 9,3 | 13,0 |
-| animal fats from rendering biodiesel | 13,6 | 19,1 |
+| animal fats from rendering biodiesel (*2) | 13,6 | 19,1 |
 | hydrotreated vegetable oil from rape seed | 10,7 | 15,0 |
 | hydrotreated vegetable oil from sunflower | 10,5 | 14,7 |
 | hydrotreated vegetable oil from soybean | 10,9 | 15,2 |
 | hydrotreated vegetable oil from palm oil (open effluent pond) | 27,8 | 38,9 |
 | hydrotreated vegetable oil from palm oil (process with methane capture at oil mill) | 9,7 | 13,6 |
 | hydrotreated oil from waste cooking oil | 10,2 | 14,3 |
-| hydrotreated oil from animal fats from rendering | 14,5 | 20,3 |
+| hydrotreated oil from animal fats from rendering (*2) | 14,5 | 20,3 |
+| ▼C1 |  |  |
 | pure vegetable oil from rape seed | 3,7 | 5,2 |
+| ▼B |  |  |
 | pure vegetable oil from sunflower | 3,8 | 5,4 |
 | pure vegetable oil from soybean | 4,2 | 5,9 |
 | pure vegetable oil from palm oil (open effluent pond) | 22,6 | 31,7 |
 | pure vegetable oil from palm oil (process with methane capture at oil mill) | 4,7 | 6,5 |
 | pure oil from waste cooking oil | 0,6 | 0,8 |
+| (*1)Default values for processes using CHP are valid only if all the process heat is supplied by CHP.(*2)Note: applies only to biofuels produced from animal by-products classified as category 1 and 2 material in accordance with Regulation (EC) No 1069/2009, for which emissions related to hygenisation as part of the rendering are not considered. |  |  |
 
-| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |
+Disaggregated default values for oil extraction only (these are already included in the disaggregated values for processing emissions in the ‘ep’ table)
+
+| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |
 | --- | --- | --- |
 | rape seed biodiesel | 3,0 | 4,2 |
 | sunflower biodiesel | 2,9 | 4,0 |
@@ -1562,37 +1406,40 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | palm oil biodiesel (open effluent pond) | 20,9 | 29,2 |
 | palm oil biodiesel (process with methane capture at oil mill) | 3,7 | 5,1 |
 | waste cooking oil biodiesel | 0 | 0 |
-| animal fats from rendering biodiesel | 4,3 | 6,1 |
+| animal fats from rendering biodiesel (*1) | 4,3 | 6,1 |
 | hydrotreated vegetable oil from rape seed | 3,1 | 4,4 |
 | hydrotreated vegetable oil from sunflower | 3,0 | 4,1 |
 | hydrotreated vegetable oil from soybean | 3,3 | 4,6 |
 | hydrotreated vegetable oil from palm oil (open effluent pond) | 21,9 | 30,7 |
 | hydrotreated vegetable oil from palm oil (process with methane capture at oil mill) | 3,8 | 5,4 |
 | hydrotreated oil from waste cooking oil | 0 | 0 |
-| hydrotreated oil from animal fats from rendering | 4,3 | 6,0 |
+| hydrotreated oil from animal fats from rendering (*1) | 4,3 | 6,0 |
 | pure vegetable oil from rape seed | 3,1 | 4,4 |
 | pure vegetable oil from sunflower | 3,0 | 4,2 |
 | pure vegetable oil from soybean | 3,4 | 4,7 |
 | pure vegetable oil from palm oil (open effluent pond) | 21,8 | 30,5 |
 | pure vegetable oil from palm oil (process with methane capture at oil mill) | 3,8 | 5,3 |
 | pure oil from waste cooking oil | 0 | 0 |
+| (*1)Note: applies only to biofuels produced from animal by-products classified as category 1 and 2 material in accordance with Regulation (EC) No 1069/2009, for which emissions related to hygenisation as part of the rendering are not considered. |  |  |
 
-| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |
+Disaggregated default values for transport and distribution: ‘etd’ as defined in Part C of this Annex
+
+| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |
 | --- | --- | --- |
 | sugar beet ethanol (no biogas from slop, natural gas as process fuel in conventional boiler) | 2,3 | 2,3 |
 | sugar beet ethanol (with biogas from slop, natural gas as process fuel in conventional boiler) | 2,3 | 2,3 |
-| sugar beet ethanol (no biogas from slop, natural gas as process fuel in CHP plant) | 2,3 | 2,3 |
-| sugar beet ethanol (with biogas from slop, natural gas as process fuel in CHP plant) | 2,3 | 2,3 |
-| sugar beet ethanol (no biogas from slop, lignite as process fuel in CHP plant) | 2,3 | 2,3 |
-| sugar beet ethanol (with biogas from slop, lignite as process fuel in CHP plant) | 2,3 | 2,3 |
-| corn (maize) ethanol (natural gas as process fuel in CHP plant) | 2,2 | 2,2 |
+| sugar beet ethanol (no biogas from slop, natural gas as process fuel in CHP plant (*1)) | 2,3 | 2,3 |
+| sugar beet ethanol (with biogas from slop, natural gas as process fuel in CHP plant (*1)) | 2,3 | 2,3 |
+| sugar beet ethanol (no biogas from slop, lignite as process fuel in CHP plant (*1)) | 2,3 | 2,3 |
+| sugar beet ethanol (with biogas from slop, lignite as process fuel in CHP plant (*1)) | 2,3 | 2,3 |
+| corn (maize) ethanol (natural gas as process fuel in CHP plant (*1)) | 2,2 | 2,2 |
 | corn (maize) ethanol (natural gas as process fuel in conventional boiler) | 2,2 | 2,2 |
-| corn (maize) ethanol (lignite as process fuel in CHP plant) | 2,2 | 2,2 |
-| corn (maize) ethanol (forest residues as process fuel in CHP plant) | 2,2 | 2,2 |
+| corn (maize) ethanol (lignite as process fuel in CHP plant (*1)) | 2,2 | 2,2 |
+| corn (maize) ethanol (forest residues as process fuel in CHP plant (*1)) | 2,2 | 2,2 |
 | other cereals excluding maize ethanol (natural gas as process fuel in conventional boiler) | 2,2 | 2,2 |
-| other cereals excluding maize ethanol (natural gas as process fuel in CHP plant) | 2,2 | 2,2 |
-| other cereals excluding maize ethanol (lignite as process fuel in CHP plant) | 2,2 | 2,2 |
-| other cereals excluding maize ethanol (forest residues as process fuel in CHP plant) | 2,2 | 2,2 |
+| other cereals excluding maize ethanol (natural gas as process fuel in CHP plant (*1)) | 2,2 | 2,2 |
+| other cereals excluding maize ethanol (lignite as process fuel in CHP plant (*1)) | 2,2 | 2,2 |
+| other cereals excluding maize ethanol (forest residues as process fuel in CHP plant (*1)) | 2,2 | 2,2 |
 | sugar cane ethanol | 9,7 | 9,7 |
 | the part from renewable sources of ETBE | Equal to that of the ethanol production pathway used |  |
 | the part from renewable sources of TAEE | Equal to that of the ethanol production pathway used |  |
@@ -1602,37 +1449,42 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | palm oil biodiesel (open effluent pond) | 6,9 | 6,9 |
 | palm oil biodiesel (process with methane capture at oil mill) | 6,9 | 6,9 |
 | waste cooking oil biodiesel | 1,9 | 1,9 |
-| animal fats from rendering biodiesel | 1,6 | 1,6 |
+| ▼C1 |  |  |
+| animal fats from rendering biodiesel (*1) | 1,6 | 1,6 |
+| ▼B |  |  |
 | hydrotreated vegetable oil from rape seed | 1,7 | 1,7 |
 | hydrotreated vegetable oil from sunflower | 2,0 | 2,0 |
 | hydrotreated vegetable oil from soybean | 9,2 | 9,2 |
 | hydrotreated vegetable oil from palm oil (open effluent pond) | 7,0 | 7,0 |
 | hydrotreated vegetable oil from palm oil (process with methane capture at oil mill) | 7,0 | 7,0 |
 | hydrotreated oil from waste cooking oil | 1,7 | 1,7 |
-| hydrotreated oil from animal fats from rendering | 1,5 | 1,5 |
+| hydrotreated oil from animal fats from rendering (*2) | 1,5 | 1,5 |
 | pure vegetable oil from rape seed | 1,4 | 1,4 |
 | pure vegetable oil from sunflower | 1,7 | 1,7 |
 | pure vegetable oil from soybean | 8,8 | 8,8 |
 | pure vegetable oil from palm oil (open effluent pond) | 6,7 | 6,7 |
 | pure vegetable oil from palm oil (process with methane capture at oil mill) | 6,7 | 6,7 |
 | pure oil from waste cooking oil | 1,4 | 1,4 |
+| (*1)Default values for processes using CHP are valid only if all the process heat is supplied by CHP.(*2)Note: applies only to biofuels produced from animal by-products classified as category 1 and 2 material in accordance with Regulation (EC) No 1069/2009, for which emissions related to hygenisation as part of the rendering are not considered. |  |  |
 
-| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |
+Disaggregated default values for transport and distribution of final fuel only. These are already included in the table of ‘transport and distribution emissions etd’ as defined in Part C of this Annex, but the following values are useful if an economic operator wishes to declare actual transport emissions for crops or oil transport only).
+
+| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |
 | --- | --- | --- |
 | sugar beet ethanol (no biogas from slop, natural gas as process fuel in conventional boiler) | 1,6 | 1,6 |
 | sugar beet ethanol (with biogas from slop, natural gas as process fuel in conventional boiler) | 1,6 | 1,6 |
-| sugar beet ethanol (no biogas from slop, natural gas as process fuel in CHP plant) | 1,6 | 1,6 |
-| sugar beet ethanol (with biogas from slop, natural gas as process fuel in CHP plant) | 1,6 | 1,6 |
-| sugar beet ethanol (no biogas from slop, lignite as process fuel in CHP plant) | 1,6 | 1,6 |
-| sugar beet ethanol (with biogas from slop, lignite as process fuel in CHP plant) | 1,6 | 1,6 |
+| sugar beet ethanol (no biogas from slop, natural gas as process fuel in CHP plant (*1)) | 1,6 | 1,6 |
+| sugar beet ethanol (with biogas from slop, natural gas as process fuel in CHP plant (*1)) | 1,6 | 1,6 |
+| sugar beet ethanol (no biogas from slop, lignite as process fuel in CHP plant (*1)) | 1,6 | 1,6 |
+| sugar beet ethanol (with biogas from slop, lignite as process fuel in CHP plant (*1)) | 1,6 | 1,6 |
 | corn (maize) ethanol (natural gas as process fuel in conventional boiler) | 1,6 | 1,6 |
-| corn (maize) ethanol (natural gas as process fuel in CHP plant) | 1,6 | 1,6 |
-| corn (maize) ethanol (lignite as process fuel in CHP plant) | 1,6 | 1,6 |
-| corn (maize) ethanol (forest residues as process fuel in CHP plant) | 1,6 | 1,6 |
+| corn (maize) ethanol (natural gas as process fuel in CHP plant (*1)) | 1,6 | 1,6 |
+| corn (maize) ethanol (lignite as process fuel in CHP plant (*1)) | 1,6 | 1,6 |
+| corn (maize) ethanol (forest residues as process fuel in CHP plant (*1)) | 1,6 | 1,6 |
 | other cereals excluding maize ethanol (natural gas as process fuel in conventional boiler) | 1,6 | 1,6 |
-| other cereals excluding maize ethanol (natural gas as process fuel in CHP plant) | 1,6 | 1,6 |
-| other cereals excluding maize ethanol (lignite as process fuel in CHP plant) | 1,6 | 1,6 |
-| other cereals excluding maize ethanol (forest residues as process fuel in CHP plant) | 1,6 | 1,6 |
+| other cereals excluding maize ethanol (natural gas as process fuel in CHP plant (*1)) | 1,6 | 1,6 |
+| other cereals excluding maize ethanol (lignite as process fuel in CHP plant (*1)) | 1,6 | 1,6 |
+| other cereals excluding maize ethanol (forest residues as process fuel in CHP plant (*1)) | 1,6 | 1,6 |
 | sugar cane ethanol | 6,0 | 6,0 |
 | the part of ethyl-tertio-butyl-ether (ETBE) from renewable ethanol | Will be considered to be equal to that of the ethanol production pathway used |  |
 | the part of tertiary-amyl-ethyl-ether (TAEE) from renewable ethanol | Will be considered to be equal to that of the ethanol production pathway used |  |
@@ -1642,72 +1494,88 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | palm oil biodiesel (open effluent pond) | 1,3 | 1,3 |
 | palm oil biodiesel (process with methane capture at oil mill) | 1,3 | 1,3 |
 | waste cooking oil biodiesel | 1,3 | 1,3 |
-| animal fats from rendering biodiesel | 1,3 | 1,3 |
+| animal fats from rendering biodiesel (*2) | 1,3 | 1,3 |
 | hydrotreated vegetable oil from rape seed | 1,2 | 1,2 |
 | hydrotreated vegetable oil from sunflower | 1,2 | 1,2 |
 | hydrotreated vegetable oil from soybean | 1,2 | 1,2 |
 | hydrotreated vegetable oil from palm oil (open effluent pond) | 1,2 | 1,2 |
 | hydrotreated vegetable oil from palm oil (process with methane capture at oil mill) | 1,2 | 1,2 |
 | hydrotreated oil from waste cooking oil | 1,2 | 1,2 |
-| hydrotreated oil from animal fats from rendering | 1,2 | 1,2 |
+| hydrotreated oil from animal fats from rendering (*2) | 1,2 | 1,2 |
 | pure vegetable oil from rape seed | 0,8 | 0,8 |
 | pure vegetable oil from sunflower | 0,8 | 0,8 |
 | pure vegetable oil from soybean | 0,8 | 0,8 |
 | pure vegetable oil from palm oil (open effluent pond) | 0,8 | 0,8 |
 | pure vegetable oil from palm oil (process with methane capture at oil mill) | 0,8 | 0,8 |
 | pure oil from waste cooking oil | 0,8 | 0,8 |
+| (*1)Default values for processes using CHP are valid only if all the process heat is supplied by CHP.(*2)Note: applies only to biofuels produced from animal by-products classified as category 1 and 2 material in accordance with Regulation (EC) No 1069/2009, for which emissions related to hygenisation as part of the rendering are not considered. |  |  |
 
-| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |
+Total for cultivation, processing, transport and distribution
+
+| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |
 | --- | --- | --- |
 | sugar beet ethanol (no biogas from slop, natural gas as process fuel in conventional boiler) | 30,7 | 38,2 |
 | sugar beet ethanol (with biogas from slop, natural gas as process fuel in conventional boiler) | 21,6 | 25,5 |
-| sugar beet ethanol (no biogas from slop, natural gas as process fuel in CHP plant) | 25,1 | 30,4 |
-| sugar beet ethanol (with biogas from slop, natural gas as process fuel in CHP plant) | 19,5 | 22,5 |
-| sugar beet ethanol (no biogas from slop, lignite as process fuel in CHP plant) | 39,3 | 50,2 |
-| sugar beet ethanol (with biogas from slop, lignite as process fuel in CHP plant) | 27,6 | 33,9 |
+| sugar beet ethanol (no biogas from slop, natural gas as process fuel in CHP plant (*1)) | 25,1 | 30,4 |
+| sugar beet ethanol (with biogas from slop, natural gas as process fuel in CHP plant (*1)) | 19,5 | 22,5 |
+| sugar beet ethanol (no biogas from slop, lignite as process fuel in CHP plant (*1)) | 39,3 | 50,2 |
+| sugar beet ethanol (with biogas from slop, lignite as process fuel in CHP plant (*1)) | 27,6 | 33,9 |
 | corn (maize) ethanol (natural gas as process fuel in conventional boiler) | 48,5 | 56,8 |
-| corn (maize) ethanol, (natural gas as process fuel in CHP plant) | 42,5 | 48,5 |
-| corn (maize) ethanol (lignite as process fuel in CHP plant) | 56,3 | 67,8 |
-| corn (maize) ethanol (forest residues as process fuel in CHP plant) | 29,5 | 30,3 |
+| corn (maize) ethanol, (natural gas as process fuel in CHP plant (*1)) | 42,5 | 48,5 |
+| corn (maize) ethanol (lignite as process fuel in CHP plant (*1)) | 56,3 | 67,8 |
+| corn (maize) ethanol (forest residues as process fuel in CHP plant (*1)) | 29,5 | 30,3 |
 | other cereals excluding maize ethanol (natural gas as process fuel in conventional boiler) | 50,2 | 58,5 |
-| other cereals excluding maize ethanol (natural gas as process fuel in CHP plant) | 44,3 | 50,3 |
-| other cereals excluding maize ethanol (lignite as process fuel in CHP plant) | 59,5 | 71,7 |
-| other cereals excluding maize ethanol (forest residues as process fuel in CHP plant | 30,7 | 31,4 |
+| other cereals excluding maize ethanol (natural gas as process fuel in CHP plant (*1)) | 44,3 | 50,3 |
+| other cereals excluding maize ethanol (lignite as process fuel in CHP plant (*1)) | 59,5 | 71,7 |
+| ▼C1 |  |  |
+| other cereals excluding maize ethanol (forest residues as process fuel in CHP plant (*1) | 30,7 | 31,4 |
 | sugar cane ethanol | 28,1 | 28,6 |
+| ▼B |  |  |
 | the part from renewable sources of ETBE | Equal to that of the ethanol production pathway used |  |
 | the part from renewable sources of TAEE | Equal to that of the ethanol production pathway used |  |
 | rape seed biodiesel | 45,5 | 50,1 |
 | sunflower biodiesel | 40,0 | 44,7 |
 | soybean biodiesel | 42,2 | 47,0 |
+| ▼C1 |  |  |
 | palm oil biodiesel (open effluent pond) | 63,3 | 75,5 |
 | palm oil biodiesel (process with methane capture at oil mill) | 46,1 | 51,4 |
+| ▼B |  |  |
 | waste cooking oil biodiesel | 11,2 | 14,9 |
-| animals fats from rendering biodiesel | 15,2 | 20,7 |
+| ▼C1 |  |  |
+| animals fats from rendering biodiesel (*1) | 15,2 | 20,7 |
+| ▼B |  |  |
 | hydrotreated vegetable oil from rape seed | 45,8 | 50,1 |
 | hydrotreated vegetable oil from sunflower | 39,4 | 43,6 |
 | hydrotreated vegetable oil from soybean | 42,2 | 46,5 |
+| ▼C1 |  |  |
 | hydrotreated vegetable oil from palm oil (open effluent pond) | 62,1 | 73,2 |
 | hydrotreated vegetable oil from palm oil (process with methane capture at oil mill) | 44,0 | 47,9 |
+| ▼B |  |  |
 | hydrotreated oil from waste cooking oil | 11,9 | 16,0 |
-| hydrotreated oil from animal fats from rendering | 16,0 | 21,8 |
+| hydrotreated oil from animal fats from rendering (*2) | 16,0 | 21,8 |
 | pure vegetable oil from rape seed | 38,5 | 40,0 |
 | pure vegetable oil from sunflower | 32,7 | 34,3 |
 | pure vegetable oil from soybean | 35,2 | 36,9 |
+| ▼C1 |  |  |
 | pure vegetable oil from palm oil (open effluent pond) | 56,4 | 65,5 |
 | pure vegetable oil from palm oil (process with methane capture at oil mill) | 38,5 | 40,3 |
+| ▼B |  |  |
 | pure oil from waste cooking oil | 2,0 | 2,2 |
+| (*1)Default values for processes using CHP are valid only if all the process heat is supplied by CHP.(*2)Note: applies only to biofuels produced from animal by-products classified as category 1 and 2 material in accordance with Regulation (EC) No 1069/2009, for which emissions related to hygenisation as part of the rendering are not considered. |  |  |
 
-Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of this Annex, including N_2O emissions (including chipping of waste or farmed wood)Disaggregated default values for soil N_2O emissions (included in disaggregated default values for cultivation emissions in the ‘e_ec’ table)Disaggregated default values for processing: ‘e_p’ as defined in Part C of this AnnexDisaggregated default values for transport and distribution: ‘e_td’ as defined in Part C of this AnnexDisaggregated default values for transport and distribution of final fuel only. These are already included in the table of ‘transport and distribution emissions e_td’ as defined in Part C of this Annex, but the following values are useful if an economic operator wishes to declare actual transport emissions for feedstock transport only).Total for cultivation, processing, transport and distribution
+E. **ESTIMATED DISAGGREGATED DEFAULT VALUES FOR FUTURE BIOFUELS AND BIOLIQUIDS THAT WERE NOT ON THE MARKET OR WERE ONLY ON THE MARKET IN NEGLIGIBLE QUANTITIES IN 2016**
 
-**E.ESTIMATED DISAGGREGATED DEFAULT VALUES FOR FUTURE BIOFUELS AND BIOLIQUIDS THAT WERE NOT ON THE MARKET OR WERE ONLY ON THE MARKET IN NEGLIGIBLE QUANTITIES IN 2016**
+Disaggregated default values for cultivation: ‘eec’ as defined in Part C of this Annex, including N2O emissions (including chipping of waste or farmed wood)
 
-| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |
+| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |
 | --- | --- | --- |
 | wheat straw ethanol | 1,8 | 1,8 |
 | waste wood Fischer-Tropsch diesel in free-standing plant | 3,3 | 3,3 |
 | farmed wood Fischer-Tropsch diesel in free-standing plant | 8,2 | 8,2 |
+| ▼C1 |  |  |
 | waste wood Fischer-Tropsch petrol in free-standing plant | 3,3 | 3,3 |
 | farmed wood Fischer-Tropsch petrol in free-standing plant | 8,2 | 8,2 |
+| ▼B |  |  |
 | waste wood dimethylether (DME) in free-standing plant | 3,1 | 3,1 |
 | farmed wood dimethylether (DME) in free-standing plant | 7,6 | 7,6 |
 | waste wood methanol in free-standing plant | 3,1 | 3,1 |
@@ -1718,7 +1586,9 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | Methanol from black-liquor gasification integrated with pulp mill | 2,5 | 2,5 |
 | the part from renewable sources of MTBE | Equal to that of the methanol production pathway used |  |
 
-| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |
+Disaggregated default values for soil N2O emissions (included in disaggregated default values for cultivation emissions in the ‘eec’ table)
+
+| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |
 | --- | --- | --- |
 | wheat straw ethanol | 0 | 0 |
 | waste wood Fischer-Tropsch diesel in free-standing plant | 0 | 0 |
@@ -1735,7 +1605,9 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | Methanol from black-liquor gasification integrated with pulp mill | 0 | 0 |
 | the part from renewable sources of MTBE | Equal to that of the methanol production pathway used |  |
 
-| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |
+Disaggregated default values for processing: ‘ep’ as defined in Part C of this Annex
+
+| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |
 | --- | --- | --- |
 | wheat straw ethanol | 4,8 | 6,8 |
 | waste wood Fischer-Tropsch diesel in free-standing plant | 0,1 | 0,1 |
@@ -1752,16 +1624,26 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | methanol from black-liquor gasification integrated with pulp mill | 0 | 0 |
 | the part from renewable sources of MTBE | Equal to that of the methanol production pathway used |  |
 
-| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |
+Disaggregated default values for transport and distribution: ‘etd’ as defined in Part C of this Annex
+
+| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |
 | --- | --- | --- |
 | wheat straw ethanol | 7,1 | 7,1 |
+| ▼C1 |  |  |
 | waste wood Fischer-Tropsch diesel in free-standing plant | 12,2 | 12,2 |
+| ▼B |  |  |
 | farmed wood Fischer-Tropsch diesel in free-standing plant | 8,4 | 8,4 |
+| ▼C1 |  |  |
 | waste wood Fischer-Tropsch petrol in free-standing plant | 12,2 | 12,2 |
+| ▼B |  |  |
 | farmed wood Fischer-Tropsch petrol in free-standing plant | 8,4 | 8,4 |
+| ▼C1 |  |  |
 | waste wood dimethylether (DME) in free-standing plant | 12,1 | 12,1 |
+| ▼B |  |  |
 | farmed wood dimethylether (DME) in free-standing plant | 8,6 | 8,6 |
+| ▼C1 |  |  |
 | waste wood methanol in free-standing plant | 12,1 | 12,1 |
+| ▼B |  |  |
 | farmed wood methanol in free-standing plant | 8,6 | 8,6 |
 | Fischer-Tropsch diesel from black-liquor gasification integrated with pulp mill | 7,7 | 7,7 |
 | Fischer-Tropsch petrol from black-liquor gasification integrated with pulp mill | 7,9 | 7,9 |
@@ -1769,7 +1651,9 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | methanol from black-liquor gasification integrated with pulp mill | 7,9 | 7,9 |
 | the part from renewable sources of MTBE | Equal to that of the methanol production pathway used |  |
 
-| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |
+Disaggregated default values for transport and distribution of final fuel only. These are already included in the table of ‘transport and distribution emissions etd’ as defined in Part C of this Annex, but the following values are useful if an economic operator wishes to declare actual transport emissions for feedstock transport only).
+
+| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |
 | --- | --- | --- |
 | wheat straw ethanol | 1,6 | 1,6 |
 | waste wood Fischer-Tropsch diesel in free-standing plant | 1,2 | 1,2 |
@@ -1786,16 +1670,26 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | methanol from black-liquor gasification integrated with pulp mill | 2,0 | 2,0 |
 | the part from renewable sources of MTBE | Equal to that of the methanol production pathway used |  |
 
-| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |
+Total for cultivation, processing, transport and distribution
+
+| Biofuel and bioliquid production pathway | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |
 | --- | --- | --- |
 | wheat straw ethanol | 13,7 | 15,7 |
+| ▼C1 |  |  |
 | waste wood Fischer-Tropsch diesel in free-standing plant | 15,6 | 15,6 |
+| ▼B |  |  |
 | farmed wood Fischer-Tropsch diesel in free-standing plant | 16,7 | 16,7 |
+| ▼C1 |  |  |
 | waste wood Fischer-Tropsch petrol in free-standing plant | 15,6 | 15,6 |
+| ▼B |  |  |
 | farmed wood Fischer-Tropsch petrol in free-standing plant | 16,7 | 16,7 |
+| ▼C1 |  |  |
 | waste wood dimethylether (DME) in free-standing plant | 15,2 | 15,2 |
+| ▼B |  |  |
 | farmed wood dimethylether (DME) in free-standing plant | 16,2 | 16,2 |
+| ▼C1 |  |  |
 | waste wood methanol in free-standing plant | 15,2 | 15,2 |
+| ▼B |  |  |
 | farmed wood methanol in free-standing plant | 16,2 | 16,2 |
 | Fischer-Tropsch diesel from black-liquor gasification integrated with pulp mill | 10,2 | 10,2 |
 | Fischer-Tropsch petrol from black-liquor gasification integrated with pulp mill | 10,4 | 10,4 |
@@ -1809,126 +1703,128 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 
 **RULES FOR CALCULATING THE GREENHOUSE GAS IMPACT OF BIOMASS FUELS AND THEIR FOSSIL FUEL COMPARATORS**
 
-**A.Typical and default values of greenhouse gas emissions savings for biomass fuels if produced with no net-carbon emissions from land-use change**
+A. **Typical and default values of greenhouse gas emissions savings for biomass fuels if produced with no net-carbon emissions from land-use change**
 
 | WOODCHIPS |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Biomass fuel production system | Transport distance | Greenhouse gas emissions savings –typical value | Greenhouse gas emissions savings – default value |  |  |
 | Heat | Electricity | Heat | Electricity |  |  |
 | Woodchips from forest residues | 1 to 500 km | 93 % | 89 % | 91 % | 87 % |
-| 500 to 2500 km | 89 % | 84 % | 87 % | 81 % |  |
-| 2500 to 10000 km | 82 % | 73 % | 78 % | 67 % |  |
-| Above 10000 km | 67 % | 51 % | 60 % | 41 % |  |
-| Woodchips from short rotation coppice (Eucalyptus) | 2500 to 10000 km | 77 % | 65 % | 73 % | 60 % |
+| 500 to 2 500 km | 89 % | 84 % | 87 % | 81 % |  |
+| 2 500 to 10 000 km | 82 % | 73 % | 78 % | 67 % |  |
+| Above 10 000 km | 67 % | 51 % | 60 % | 41 % |  |
+| Woodchips from short rotation coppice (Eucalyptus) | 2 500 to 10 000 km | 77 % | 65 % | 73 % | 60 % |
 | Woodchips from short rotation coppice (Poplar – Fertilised) | 1 to 500 km | 89 % | 83 % | 87 % | 81 % |
-| 500 to 2500 km | 85 % | 78 % | 84 % | 76 % |  |
-| 2500 to 10000 km | 78 % | 67 % | 74 % | 62 % |  |
-| Above 10000 km | 63 % | 45 % | 57 % | 35 % |  |
+| 500 to 2 500 km | 85 % | 78 % | 84 % | 76 % |  |
+| 2 500 to 10 000 km | 78 % | 67 % | 74 % | 62 % |  |
+| Above 10 000 km | 63 % | 45 % | 57 % | 35 % |  |
 | Woodchips from short rotation coppice (Poplar – No fertilisation) | 1 to 500 km | 91 % | 87 % | 90 % | 85 % |
-| 500 to 2500 km | 88 % | 82 % | 86 % | 79 % |  |
-| 2500 to 10000 km | 80 % | 70 % | 77 % | 65 % |  |
-| Above 10000 km | 65 % | 48 % | 59 % | 39 % |  |
+| 500 to 2 500 km | 88 % | 82 % | 86 % | 79 % |  |
+| 2 500 to 10 000 km | 80 % | 70 % | 77 % | 65 % |  |
+| Above 10 000 km | 65 % | 48 % | 59 % | 39 % |  |
 | Woodchips from stemwood | 1 to 500 km | 93 % | 89 % | 92 % | 88 % |
-| 500 to 2500 km | 90 % | 85 % | 88 % | 82 % |  |
-| 2500 to 10000 km | 82 % | 73 % | 79 % | 68 % |  |
-| Above 10000 km | 67 % | 51 % | 61 % | 42 % |  |
+| 500 to 2 500 km | 90 % | 85 % | 88 % | 82 % |  |
+| 2 500 to 10 000 km | 82 % | 73 % | 79 % | 68 % |  |
+| Above 10 000 km | 67 % | 51 % | 61 % | 42 % |  |
 | Woodchips from industry residues | 1 to 500 km | 94 % | 92 % | 93 % | 90 % |
-| 500 to 2500 km | 91 % | 87 % | 90 % | 85 % |  |
-| 2500 to 10000 km | 83 % | 75 % | 80 % | 71 % |  |
-| Above 10000 km | 69 % | 54 % | 63 % | 44 % |  |
+| 500 to 2 500 km | 91 % | 87 % | 90 % | 85 % |  |
+| 2 500 to 10 000 km | 83 % | 75 % | 80 % | 71 % |  |
+| Above 10 000 km | 69 % | 54 % | 63 % | 44 % |  |
 
-| WOOD PELLETS |  |  |  |  |  |  |
+| WOOD PELLETS (*1) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Biomass fuel production system | Transport distance | Greenhouse gas emissions savings – typical value | Greenhouse gas emissions savings – default value |  |  |  |
 | Heat | Electricity | Heat | Electricity |  |  |  |
 | Wood briquettes or pellets from forest residues | Case 1 | 1 to 500 km | 58 % | 37 % | 49 % | 24 % |
-| 500 to 2500 km | 58 % | 37 % | 49 % | 25 % |  |  |
-| 2500 to 10000 km | 55 % | 34 % | 47 % | 21 % |  |  |
-| Above 10000 km | 50 % | 26 % | 40 % | 11 % |  |  |
+| 500 to 2 500 km | 58 % | 37 % | 49 % | 25 % |  |  |
+| 2 500 to 10 000 km | 55 % | 34 % | 47 % | 21 % |  |  |
+| Above 10 000 km | 50 % | 26 % | 40 % | 11 % |  |  |
 | Case 2a | 1 to 500 km | 77 % | 66 % | 72 % | 59 % |  |
-| 500 to 2500 km | 77 % | 66 % | 72 % | 59 % |  |  |
-| 2500 to 10000 km | 75 % | 62 % | 70 % | 55 % |  |  |
-| Above 10000 km | 69 % | 54 % | 63 % | 45 % |  |  |
+| 500 to 2 500 km | 77 % | 66 % | 72 % | 59 % |  |  |
+| 2 500 to 10 000 km | 75 % | 62 % | 70 % | 55 % |  |  |
+| Above 10 000 km | 69 % | 54 % | 63 % | 45 % |  |  |
 | Case 3a | 1 to 500 km | 92 % | 88 % | 90 % | 85 % |  |
-| 500 to 2500 km | 92 % | 88 % | 90 % | 86 % |  |  |
-| 2500 to 10000 km | 90 % | 85 % | 88 % | 81 % |  |  |
-| Above 10000 km | 84 % | 76 % | 81 % | 72 % |  |  |
-| Wood briquettes or pellets from short rotation coppice (Eucalyptus) | Case 1 | 2500 to 10000 km | 52 % | 28 % | 43 % | 15 % |
-| Case 2a | 2500 to 10000 km | 70 % | 56 % | 66 % | 49 % |  |
-| Case 3a | 2500 to 10000 km | 85 % | 78 % | 83 % | 75 % |  |
+| 500 to 2 500 km | 92 % | 88 % | 90 % | 86 % |  |  |
+| 2 500 to 10 000 km | 90 % | 85 % | 88 % | 81 % |  |  |
+| Above 10 000 km | 84 % | 76 % | 81 % | 72 % |  |  |
+| Wood briquettes or pellets from short rotation coppice (Eucalyptus) | Case 1 | 2 500 to 10 000 km | 52 % | 28 % | 43 % | 15 % |
+| Case 2a | 2 500 to 10 000 km | 70 % | 56 % | 66 % | 49 % |  |
+| Case 3a | 2 500 to 10 000 km | 85 % | 78 % | 83 % | 75 % |  |
 | Wood briquettes or pellets from short rotation coppice (Poplar – Fertilised) | Case 1 | 1 to 500 km | 54 % | 32 % | 46 % | 20 % |
-| 500 to 10000 km | 52 % | 29 % | 44 % | 16 % |  |  |
-| Above 10000 km | 47 % | 21 % | 37 % | 7 % |  |  |
+| 500 to 10 000 km | 52 % | 29 % | 44 % | 16 % |  |  |
+| Above 10 000 km | 47 % | 21 % | 37 % | 7 % |  |  |
 | Case 2a | 1 to 500 km | 73 % | 60 % | 69 % | 54 % |  |
-| 500 to 10000 km | 71 % | 57 % | 67 % | 50 % |  |  |
-| Above 10000 km | 66 % | 49 % | 60 % | 41 % |  |  |
+| 500 to 10 000 km | 71 % | 57 % | 67 % | 50 % |  |  |
+| Above 10 000 km | 66 % | 49 % | 60 % | 41 % |  |  |
 | Case 3a | 1 to 500 km | 88 % | 82 % | 87 % | 81 % |  |
-| 500 to 10000 km | 86 % | 79 % | 84 % | 77 % |  |  |
-| Above 10000 km | 80 % | 71 % | 78 % | 67 % |  |  |
+| 500 to 10 000 km | 86 % | 79 % | 84 % | 77 % |  |  |
+| Above 10 000 km | 80 % | 71 % | 78 % | 67 % |  |  |
 | Wood briquettes or pellets from short rotation coppice (Poplar – No fertilisation) | Case 1 | 1 to 500 km | 56 % | 35 % | 48 % | 23 % |
-| 500 to 10000 km | 54 % | 32 % | 46 % | 20 % |  |  |
-| Above 10000 km | 49 % | 24 % | 40 % | 10 % |  |  |
+| 500 to 10 000 km | 54 % | 32 % | 46 % | 20 % |  |  |
+| Above 10 000 km | 49 % | 24 % | 40 % | 10 % |  |  |
 | Case 2a | 1 to 500 km | 76 % | 64 % | 72 % | 58 % |  |
-| 500 to 10000 km | 74 % | 61 % | 69 % | 54 % |  |  |
-| Above 10000 km | 68 % | 53 % | 63 % | 45 % |  |  |
+| 500 to 10 000 km | 74 % | 61 % | 69 % | 54 % |  |  |
+| Above 10 000 km | 68 % | 53 % | 63 % | 45 % |  |  |
 | Case 3a | 1 to 500 km | 91 % | 86 % | 90 % | 85 % |  |
-| 500 to 10000 km | 89 % | 83 % | 87 % | 81 % |  |  |
-| Above 10000 km | 83 % | 75 % | 81 % | 71 % |  |  |
+| 500 to 10 000 km | 89 % | 83 % | 87 % | 81 % |  |  |
+| Above 10 000 km | 83 % | 75 % | 81 % | 71 % |  |  |
 | Stemwood | Case 1 | 1 to 500 km | 57 % | 37 % | 49 % | 24 % |
-| 500 to 2500 km | 58 % | 37 % | 49 % | 25 % |  |  |
-| 2500 to 10000 km | 55 % | 34 % | 47 % | 21 % |  |  |
-| Above 10000 km | 50 % | 26 % | 40 % | 11 % |  |  |
+| 500 to 2 500 km | 58 % | 37 % | 49 % | 25 % |  |  |
+| 2 500 to 10 000 km | 55 % | 34 % | 47 % | 21 % |  |  |
+| Above 10 000 km | 50 % | 26 % | 40 % | 11 % |  |  |
 | Case 2a | 1 to 500 km | 77 % | 66 % | 73 % | 60 % |  |
-| 500 to 2500 km | 77 % | 66 % | 73 % | 60 % |  |  |
-| 2500 to 10000 km | 75 % | 63 % | 70 % | 56 % |  |  |
-| Above 10000 km | 70 % | 55 % | 64 % | 46 % |  |  |
+| 500 to 2 500 km | 77 % | 66 % | 73 % | 60 % |  |  |
+| 2 500 to 10 000 km | 75 % | 63 % | 70 % | 56 % |  |  |
+| Above 10 000 km | 70 % | 55 % | 64 % | 46 % |  |  |
 | Case 3a | 1 to 500 km | 92 % | 88 % | 91 % | 86 % |  |
-| 500 to 2500 km | 92 % | 88 % | 91 % | 87 % |  |  |
-| 2500 to 10000 km | 90 % | 85 % | 88 % | 83 % |  |  |
-| Above 10000 km | 84 % | 77 % | 82 % | 73 % |  |  |
+| 500 to 2 500 km | 92 % | 88 % | 91 % | 87 % |  |  |
+| 2 500 to 10 000 km | 90 % | 85 % | 88 % | 83 % |  |  |
+| Above 10 000 km | 84 % | 77 % | 82 % | 73 % |  |  |
 | Wood briquettes or pellets from wood industry residues | Case 1 | 1 to 500 km | 75 % | 62 % | 69 % | 55 % |
-| 500 to 2500 km | 75 % | 62 % | 70 % | 55 % |  |  |
-| 2500 to 10000 km | 72 % | 59 % | 67 % | 51 % |  |  |
-| Above 10000 km | 67 % | 51 % | 61 % | 42 % |  |  |
+| 500 to 2 500 km | 75 % | 62 % | 70 % | 55 % |  |  |
+| 2 500 to 10 000 km | 72 % | 59 % | 67 % | 51 % |  |  |
+| Above 10 000 km | 67 % | 51 % | 61 % | 42 % |  |  |
 | Case 2a | 1 to 500 km | 87 % | 80 % | 84 % | 76 % |  |
-| 500 to 2500 km | 87 % | 80 % | 84 % | 77 % |  |  |
-| 2500 to 10000 km | 85 % | 77 % | 82 % | 73 % |  |  |
-| Above 10000 km | 79 % | 69 % | 75 % | 63 % |  |  |
+| 500 to 2 500 km | 87 % | 80 % | 84 % | 77 % |  |  |
+| 2 500 to 10 000 km | 85 % | 77 % | 82 % | 73 % |  |  |
+| Above 10 000 km | 79 % | 69 % | 75 % | 63 % |  |  |
 | Case 3a | 1 to 500 km | 95 % | 93 % | 94 % | 91 % |  |
-| 500 to 2500 km | 95 % | 93 % | 94 % | 92 % |  |  |
-| 2500 to 10000 km | 93 % | 90 % | 92 % | 88 % |  |  |
-| Above 10000 km | 88 % | 82 % | 85 % | 78 % |  |  |
+| 500 to 2 500 km | 95 % | 93 % | 94 % | 92 % |  |  |
+| 2 500 to 10 000 km | 93 % | 90 % | 92 % | 88 % |  |  |
+| Above 10 000 km | 88 % | 82 % | 85 % | 78 % |  |  |
+| (*1)Case 1 refers to processes in which a natural gas boiler is used to provide the process heat to the pellet mill. Electricity for the pellet mill is supplied from the grid;Case 2a refers to processes in which a woodchips boiler, fed with pre-dried chips, is used to provide process heat. Electricity for the pellet mill is supplied from the grid;Case 3a refers to processes in which a CHP, fed with pre-dried woodchips, is used to provide electricity and heat to the pellet mill. |  |  |  |  |  |  |
 
 | AGRICULTURE PATHWAYS |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Biomass fuel production system | Transport distance | Greenhouse gas emissions savings – typical value | Greenhouse gas emissions savings – default value |  |  |
 | Heat | Electricity | Heat | Electricity |  |  |
-| Agricultural Residues with density < 0,2 t/m^3 | 1 to 500 km | 95 % | 92 % | 93 % | 90 % |
-| 500 to 2500 km | 89 % | 83 % | 86 % | 80 % |  |
-| 2500 to 10000 km | 77 % | 66 % | 73 % | 60 % |  |
-| Above 10000 km | 57 % | 36 % | 48 % | 23 % |  |
-| Agricultural Residues with density > 0,2 t/m^3 | 1 to 500 km | 95 % | 92 % | 93 % | 90 % |
-| 500 to 2500 km | 93 % | 89 % | 92 % | 87 % |  |
-| 2500 to 10000 km | 88 % | 82 % | 85 % | 78 % |  |
-| Above 10000 km | 78 % | 68 % | 74 % | 61 % |  |
+| Agricultural Residues with density < 0,2 t/m3 (*1) | 1 to 500 km | 95 % | 92 % | 93 % | 90 % |
+| 500 to 2 500 km | 89 % | 83 % | 86 % | 80 % |  |
+| 2 500 to 10 000 km | 77 % | 66 % | 73 % | 60 % |  |
+| Above 10 000 km | 57 % | 36 % | 48 % | 23 % |  |
+| Agricultural Residues with density > 0,2 t/m3 (*2) | 1 to 500 km | 95 % | 92 % | 93 % | 90 % |
+| 500 to 2 500 km | 93 % | 89 % | 92 % | 87 % |  |
+| 2 500 to 10 000 km | 88 % | 82 % | 85 % | 78 % |  |
+| Above 10 000 km | 78 % | 68 % | 74 % | 61 % |  |
 | Straw pellets | 1 to 500 km | 88 % | 82 % | 85 % | 78 % |
-| 500 to 10000 km | 86 % | 79 % | 83 % | 74 % |  |
-| Above 10000 km | 80 % | 70 % | 76 % | 64 % |  |
-| Bagasse briquettes | 500 to 10000 km | 93 % | 89 % | 91 % | 87 % |
-| Above 10000 km | 87 % | 81 % | 85 % | 77 % |  |
-| Palm Kernel Meal | Above 10000 km | 20 % | -18 % | 11 % | -33 % |
-| Palm Kernel Meal (no CH_4 emissions from oil mill) | Above 10000 km | 46 % | 20 % | 42 % | 14 % |
+| 500 to 10 000 km | 86 % | 79 % | 83 % | 74 % |  |
+| Above 10 000 km | 80 % | 70 % | 76 % | 64 % |  |
+| Bagasse briquettes | 500 to 10 000 km | 93 % | 89 % | 91 % | 87 % |
+| Above 10 000 km | 87 % | 81 % | 85 % | 77 % |  |
+| Palm Kernel Meal | Above 10 000 km | 20 % | -18 % | 11 % | -33 % |
+| Palm Kernel Meal (no CH4 emissions from oil mill) | Above 10 000 km | 46 % | 20 % | 42 % | 14 % |
+| (*1)This group of materials includes agricultural residues with a low bulk density and it comprises materials such as straw bales, oat hulls, rice husks and sugar cane bagasse bales (not exhaustive list).(*2)The group of agricultural residues with higher bulk density includes materials such as corn cobs, nut shells, soybean hulls, palm kernel shells (not exhaustive list). |  |  |  |  |  |
 
-| BIOGAS FOR ELECTRICITY |  |  |  |  |
+| BIOGAS FOR ELECTRICITY (*1) |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Biogas production system | Technological option | Greenhouse gas emissions savings – typical value | Greenhouse gas emissions savings – default value |  |
-| Wet manure | Case 1 | Open digestate | 146 % | 94 % |
-| Close digestate | 246 % | 240 % |  |  |
+| Wet manure (1) | Case 1 | Open digestate (2) | 146 % | 94 % |
+| Close digestate (3) | 246 % | 240 % |  |  |
 | Case 2 | Open digestate | 136 % | 85 % |  |
 | Close digestate | 227 % | 219 % |  |  |
 | Case 3 | Open digestate | 142 % | 86 % |  |
 | Close digestate | 243 % | 235 % |  |  |
-| Maize whole plant | Case 1 | Open digestate | 36 % | 21 % |
+| Maize whole plant (4) | Case 1 | Open digestate | 36 % | 21 % |
 | Close digestate | 59 % | 53 % |  |  |
 | Case 2 | Open digestate | 34 % | 18 % |  |
 | Close digestate | 55 % | 47 % |  |  |
@@ -1940,6 +1836,7 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | Close digestate | 77 % | 68 % |  |  |
 | Case 3 | Open digestate | 38 % | 14 % |  |
 | Close digestate | 76 % | 66 % |  |  |
+| (*1)Case 1 refers to pathways in which electricity and heat required in the process are supplied by the CHP engine itself.Case 2 refers to pathways in which the electricity required in the process is taken from the grid and the process heat is supplied by the CHP engine itself. In some Member States, operators are not allowed to claim the gross production for subsidies and case 1 is the more likely configuration.Case 3 refers to pathways in which the electricity required in the process is taken from the grid and the process heat is supplied by a biogas boiler. This case applies to some installations in which the CHP engine is not on-site and biogas is sold (but not upgraded to biomethane).(1)The values for biogas production from manure include negative emissions for emissions saved from raw manure management. The value of esca considered is equal to – 45 g CO2eq/MJ manure used in anaerobic digestion.(2)Open storage of digestate accounts for additional emissions of CH4 and N2O. The magnitude of those emissions changes with ambient conditions, substrate types and the digestion efficiency.(3)Close storage means that the digestate resulting from the digestion process is stored in a gas-tight tank and that the additional biogas released during storage is considered to be recovered for production of additional electricity or biomethane. No greenhouse gas emissions are included in that process.(4)Maize whole plant means maize harvested as fodder and ensiled for preservation. |  |  |  |  |
 
 | BIOGAS FOR ELECTRICITY – MIXTURES OF MANURE AND MAIZE |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -1963,7 +1860,7 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | Case 3 | Open digestate | 46 % | 22 % |  |
 | Close digestate | 81 % | 72 % |  |  |
 
-| BIOMETHANE FOR TRANSPORT |  |  |  |
+| BIOMETHANE FOR TRANSPORT (*1) |  |  |  |
 | --- | --- | --- | --- |
 | Biomethane production system | Technological options | Greenhouse gas emissions savings – typical value | Greenhouse gas emissions savings – default value |
 | Wet manure | Open digestate, no off-gas combustion | 117 % | 72 % |
@@ -1978,12 +1875,13 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | Open digestate, off-gas combustion | 59 % | 42 % |  |
 | Close digestate, no off-gas combustion | 70 % | 58 % |  |
 | Close digestate, off-gas combustion | 86 % | 80 % |  |
+| (*1)The greenhouse gas emissions savings for biomethane only refer to compressed biomethane relative to the fossil fuel comparator for transport of 94 g CO2eq/MJ. |  |  |  |
 
-| BIOMETHANE – MIXTURES OF MANURE AND MAIZE |  |  |  |
+| BIOMETHANE – MIXTURES OF MANURE AND MAIZE (*1) |  |  |  |
 | --- | --- | --- | --- |
 | Biomethane production system | Technological options | Greenhouse gas emissions savings – typical value | Greenhouse gas emissions savings – default value |
-| Manure – Maize80 % - 20 % | Open digestate, no off-gas combustion | 62 % | 35 % |
-| Open digestate, off-gas combustion | 78 % | 57 % |  |
+| Manure – Maize80 % - 20 % | Open digestate, no off-gas combustion (1) | 62 % | 35 % |
+| Open digestate, off-gas combustion (2) | 78 % | 57 % |  |
 | Close digestate, no off-gas combustion | 97 % | 86 % |  |
 | Close digestate, off-gas combustion | 113 % | 108 % |  |
 | Manure – Maize70 % - 30 % | Open digestate, no off-gas combustion | 53 % | 29 % |
@@ -1994,172 +1892,314 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | Open digestate, off-gas combustion | 64 % | 48 % |  |
 | Close digestate, no off-gas combustion | 74 % | 62 % |  |
 | Close digestate, off-gas combustion | 90 % | 84 % |  |
+| (*1)The greenhouse gas emissions savings for biomethane only refer to compressed biomethane relative to the fossil fuel comparator for transport of 94 g CO2eq/MJ.(1)This category includes the following categories of technologies for biogas upgrade to biomethane: Pressure Swing Adsorption (PSA), Pressure Water Scrubbing (PWS), Membranes, Cryogenic, and Organic Physical Scrubbing (OPS). It includes an emission of 0,03 MJ CH4/MJ biomethane for the emission of methane in the off-gases.(2)This category includes the following categories of technologies for biogas upgrade to biomethane: Pressure Water Scrubbing (PWS) when water is recycled, Pressure Swing Adsorption (PSA), Chemical Scrubbing, Organic Physical Scrubbing (OPS), Membranes and Cryogenic upgrading. No methane emissions are considered for this category (the methane in the off-gas is combusted, if any). |  |  |  |
 
-**B.METHODOLOGY**
+B. **METHODOLOGY**
 
-1. Greenhouse gas emissions from the production and use of biomass fuels, shall be calculated as follows: (a) Greenhouse gas emissions from the production and use of biomass fuels before conversion into electricity, heating and cooling, shall be calculated as: E = e_ec + e_l + e_p + e_td + e_u – e_sca – e_ccs – e_ccr, Where Etotal emissions from the production of the fuel before energy conversion;e_ecemissions from the extraction or cultivation of raw materials;e_lannualised emissions from carbon stock changes caused by land-use change;e_pemissions from processing;e_tdemissions from transport and distribution;e_uemissions from the fuel in use;e_scaemission savings from soil carbon accumulation via improved agricultural management;e_ccsemission savings from CO_2 capture and geological storage; ande_ccremission savings from CO_2 capture and replacement. Emissions from the manufacture of machinery and equipment shall not be taken into account. (b) In the case of co-digestion of different substrates in a biogas plant for the production of biogas or biomethane, the typical and default values of greenhouse gas emissions shall be calculated as: [formula image: L_2020311EN.01001502.tif] where Egreenhouse gas emissions per MJ biogas or biomethane produced from co-digestion of the defined mixture of substratesS_nShare of feedstock n in energy contentE_nEmission in g CO_2/MJ for pathway n as provided in Part D of this Annex (*) [formula image: L_2020311EN.01001504.tif] where P_nenergy yield [MJ] per kilogram of wet input of feedstock n (**)W_nweighting factor of substrate n defined as: *W*_*n**I*_*n**n*_1*I*_*n*[1*AM*_*n*1*SM*_*n*] where: I_nAnnual input to digester of substrate n [tonne of fresh matter]AM_nAverage annual moisture of substrate n [kg water/kg fresh matter]SM_nStandard moisture for substrate n (***). (*)For animal manure used as substrate, a bonus of 45 g CO_2eq/MJ manure (– 54 kg CO_2eq/t fresh matter) is added for improved agricultural and manure management.(**)The following values of P_n shall be used for calculating typical and default values:P(Maize): 4,16 [MJ_biogas/kg_wet maize @ 65 % moisture]P(Manure): 0,50 [MJ_biogas/kg_wet manure @ 90 % moisture]P(Biowaste) 3,41 [MJ_biogas/kg_wet biowaste @ 76 % moisture](***)The following values of the standard moisture for substrate SM_n shall be used:SM(Maize): 0,65 [kg water/kg fresh matter]SM(Manure): 0,90 [kg water/kg fresh matter]SM(Biowaste): 0,76 [kg water/kg fresh matter] (c) In the case of co-digestion of n substrates in a biogas plant for the production of electricity or biomethane, actual greenhouse gas emissions of biogas and biomethane are calculated as follows: *E**n*1*S*_*n*[*e*_*ec,n**e*_*td,feedstock,n**e*_*l,n**e*_*sca,n*]*e*_*p**e*_*td,product**e*_*u**e*_*ccs**e*_*ccr* where Etotal emissions from the production of the biogas or biomethane before energy conversion;S_nShare of feedstock n, in fraction of input to the digester;e_ec,nemissions from the extraction or cultivation of feedstock n;e_td,feedstock,nemissions from transport of feedstock n to the digester;e_l,nannualised emissions from carbon stock changes caused by land-use change, for feedstock n;e_scaemission savings from improved agricultural management of feedstock n (*);e_pemissions from processing;e_td,productemissions from transport and distribution of biogas and/or biomethane;e_uemissions from the fuel in use, that is greenhouse gases emitted during combustion;e_ccsemission savings from CO_2 capture and geological storage; ande_ccremission savings from CO_2 capture and replacement. (*)For e_sca a bonus of 45 g CO_2eq/MJ manure shall be attributed for improved agricultural and manure management in the case animal manure is used as a substrate for the production of biogas and biomethane. (d) Greenhouse gas emissions from the use of biomass fuels in producing electricity, heating and cooling, including the energy conversion to electricity and/or heat or cooling produced, shall be calculated as follows: (i) For energy installations delivering only heat: *EC*_*h**E**η*_*h* (ii) For energy installations delivering only electricity: *EC*_*el**E**η*_*el* where EC_h,elTotal greenhouse gas emissions from the final energy commodity.ETotal greenhouse gas emissions of the fuel before end-conversion.η_elThe electrical efficiency, defined as the annual electricity produced divided by the annual fuel input, based on its energy content.η_hThe heat efficiency, defined as the annual useful heat output divided by the annual fuel input, based on its energy content. (iii) For the electricity or mechanical energy coming from energy installations delivering useful heat together with electricity and/or mechanical energy: *EC*_*el**E**η*_*el*[*C*_*el**η*_*el**C*_*el**η*_*el**C*_*h**η*_*h*] (iv) For the useful heat coming from energy installations delivering heat together with electricity and/or mechanical energy: *EC*_*h**E**η*_*h*[*C*_*h**η*_*h**C*_*el**η*_*el**C*_*h**η*_*h*] where: EC_h,elTotal greenhouse gas emissions from the final energy commodity.ETotal greenhouse gas emissions of the fuel before end-conversion.η_elThe electrical efficiency, defined as the annual electricity produced divided by the annual energy input, based on its energy content.η_hThe heat efficiency, defined as the annual useful heat output divided by the annual energy input, based on its energy content.C_elFraction of exergy in the electricity, and/or mechanical energy, set to 100 % (C_el = 1).C_hCarnot efficiency (fraction of exergy in the useful heat). The Carnot efficiency, C_h, for useful heat at different temperatures is defined as: *C*_*h**T*_*h**T*_0*T*_*h* where: T_hTemperature, measured in absolute temperature (kelvin) of the useful heat at point of delivery.T_0Temperature of surroundings, set at 273,15 kelvin (equal to 0 °C). If the excess heat is exported for heating of buildings, at a temperature below 150 °C (423,15 kelvin), C_h can alternatively be defined as follows: C_hCarnot efficiency in heat at 150 °C (423,15 kelvin), which is: 0,3546 For the purposes of that calculation, the following definitions apply: (i) ‘cogeneration’ shall mean the simultaneous generation in one process of thermal energy and electricity and/or mechanical energy; (ii) ‘useful heat’ shall mean heat generated to satisfy an economical justifiable demand for heat, for heating or cooling purposes; (iii) ‘economically justifiable demand’ shall mean the demand that does not exceed the needs for heat or cooling and which would otherwise be satisfied at market conditions.
+1. Greenhouse gas emissions from the production and use of biomass fuels, shall be calculated as follows:
 
-2. Greenhouse gas emissions from biomass fuels shall be expressed as follows: (a) greenhouse gas emissions from biomass fuels, E, shall be expressed in terms of grams of CO_2 equivalent per MJ of biomass fuel, g CO_2eq/MJ; (b) greenhouse gas emissions from heating or electricity, produced from biomass fuels, EC, shall be expressed in terms of grams of CO_2 equivalent per MJ of final energy commodity (heat or electricity), g CO_2eq/MJ. When heating and cooling are co-generated with electricity, emissions shall be allocated between heat and electricity (as under point 1(d)), irrespective if the heat is used for actual heating purposes or for cooling. Where the greenhouse gas emissions from the extraction or cultivation of raw materials e_ec are expressed in unit g CO_2eq/dry-ton of feedstock, the conversion to grams of CO_2 equivalent per MJ of fuel, g CO_2eq /MJ, shall be calculated as follows: *e*_*ec**fuel*_*a**gCO*_2*eq**MJ**fuel*_*ec**e*_*ec**feedstock*_*a**gCO*_2*eq**t*_*dry**LHV*_*a**MJ**feedstock**t**dry feedstock**Fuel feedstock factor*_*a**Allocation factor fuel*_*a* Where *Allocation factor fuel*_*a**Energy in fuel**Energy fuel**Energy in co-products* *Fuel feedstock factor*_*a**Ratio of MJ feedstock required to make 1 MJ fuel* Emissions per dry-ton feedstock shall be calculated as follows: *e*_*ec**feedstock*_*a**gCO*_2*eq**t*_*dry**e*_*ec**feedstock*_*a**gCO*_2*eq**t*_*moist*[1*moisture content*]
+(a) Greenhouse gas emissions from the production and use of biomass fuels before conversion into electricity, heating and cooling, shall be calculated as: E = eec + el + ep + etd + eu – esca – eccs – eccr, Where | E | = | total emissions from the production of the fuel before energy conversion; |
+| --- | --- | --- | | eec | = | emissions from the extraction or cultivation of raw materials; |
+| --- | --- | --- | | el | = | annualised emissions from carbon stock changes caused by land-use change; |
+| --- | --- | --- | | ep | = | emissions from processing; |
+| --- | --- | --- | | etd | = | emissions from transport and distribution; |
+| --- | --- | --- | | eu | = | emissions from the fuel in use; |
+| --- | --- | --- | | esca | = | emission savings from soil carbon accumulation via improved agricultural management; |
+| --- | --- | --- | | eccs | = | emission savings from CO2 capture and geological storage; and |
+| --- | --- | --- | | eccr | = | emission savings from CO2 capture and replacement. |
+| --- | --- | --- | Emissions from the manufacture of machinery and equipment shall not be taken into account.
 
-3. Greenhouse gas emissions savings from biomass fuels shall be calculated as follows: (a) greenhouse gas emissions savings from biomass fuels used as transport fuels: SAVING = (E_F(t) – E_B)/E_F(t) where E_Btotal emissions from biomass fuels used as transport fuels; andE_F(t)total emissions from the fossil fuel comparator for transport (b) greenhouse gas emissions savings from heat and cooling, and electricity being generated from biomass fuels: SAVING = (EC_F(h&c,el) – EC_B(h&c,el))/EC_F (h&c,el), where EC_B(h&c,el)total emissions from the heat or electricity,EC_F(h&c,el)total emissions from the fossil fuel comparator for useful heat or electricity.
+(b) In the case of co-digestion of different substrates in a biogas plant for the production of biogas or biomethane, the typical and default values of greenhouse gas emissions shall be calculated as: where | E | = | greenhouse gas emissions per MJ biogas or biomethane produced from co-digestion of the defined mixture of substrates |
+| --- | --- | --- | | Sn | = | Share of feedstock n in energy content |
+| --- | --- | --- | | En | = | Emission in g CO2/MJ for pathway n as provided in Part D of this Annex (*) |
+| --- | --- | --- | where | Pn | = | energy yield [MJ] per kilogram of wet input of feedstock n (**) |
+| --- | --- | --- | | Wn | = | weighting factor of substrate n defined as: |
+| --- | --- | --- | where: | In | = | Annual input to digester of substrate n [tonne of fresh matter] |
+| --- | --- | --- | | AMn | = | Average annual moisture of substrate n [kg water/kg fresh matter] |
+| --- | --- | --- | | SMn | = | Standard moisture for substrate n (***). |
+| --- | --- | --- | (*) For animal manure used as substrate, a bonus of 45 g CO2eq/MJ manure (– 54 kg CO2eq/t fresh matter) is added for improved agricultural and manure management. (**) The following values of Pn shall be used for calculating typical and default values: biogas wet maize @ 65 % moisture biogas wet manure @ 90 % moisture biogas wet biowaste @ 76 % moisture (***) The following values of the standard moisture for substrate SMn shall be used: SM(Maize): 0,65 [kg water/kg fresh matter] SM(Manure): 0,90 [kg water/kg fresh matter] SM(Biowaste): 0,76 [kg water/kg fresh matter]
 
-4. The greenhouse gases taken into account for the purposes of point 1 shall be CO_2, N_2O and CH_4. For the purposes of calculating CO_2 equivalence, those gases shall be valued as follows: - CO_2: 1 CO_2: 1 - N_2O: 298 N_2O: 298 - CH_4: 25 CH_4: 25
+(c) In the case of co-digestion of n substrates in a biogas plant for the production of electricity or biomethane, actual greenhouse gas emissions of biogas and biomethane are calculated as follows: where | E | = | total emissions from the production of the biogas or biomethane before energy conversion; |
+| --- | --- | --- | | Sn | = | Share of feedstock n, in fraction of input to the digester; |
+| --- | --- | --- | | eec,n | = | emissions from the extraction or cultivation of feedstock n; |
+| --- | --- | --- | | etd,feedstock,n | = | emissions from transport of feedstock n to the digester; |
+| --- | --- | --- | | el,n | = | annualised emissions from carbon stock changes caused by land-use change, for feedstock n; |
+| --- | --- | --- | | esca | = | emission savings from improved agricultural management of feedstock n (*); |
+| --- | --- | --- | | ep | = | emissions from processing; |
+| --- | --- | --- | | etd,product | = | emissions from transport and distribution of biogas and/or biomethane; |
+| --- | --- | --- | | eu | = | emissions from the fuel in use, that is greenhouse gases emitted during combustion; |
+| --- | --- | --- | | eccs | = | emission savings from CO2 capture and geological storage; and |
+| --- | --- | --- | | eccr | = | emission savings from CO2 capture and replacement. |
+| --- | --- | --- | (*) For esca a bonus of 45 g CO2eq/MJ manure shall be attributed for improved agricultural and manure management in the case animal manure is used as a substrate for the production of biogas and biomethane.
 
-5. Emissions from the extraction, harvesting or cultivation of raw materials, e_ec, shall include emissions from the extraction, harvesting or cultivation process itself; from the collection, drying and storage of raw materials; from waste and leakages; and from the production of chemicals or products used in extraction or cultivation. Capture of CO_2 in the cultivation of raw materials shall be excluded. Estimates of emissions from agriculture biomass cultivation may be derived from the regional averages for cultivation emissions included in the reports referred to in Article 31(4) of this Directive or the information on the disaggregated default values for cultivation emissions included in this Annex, as an alternative to using actual values. In the absence of relevant information in those reports it is allowed to calculate averages based on local farming practises based for instance on data of a group of farms, as an alternative to using actual values. Estimates of emissions from cultivation and harvesting of forestry biomass may be derived from the use of averages for cultivation and harvesting emissions calculated for geographical areas at national level, as an alternative to using actual values.
+(d) Greenhouse gas emissions from the use of biomass fuels in producing electricity, heating and cooling, including the energy conversion to electricity and/or heat or cooling produced, shall be calculated as follows: (i) For energy installations delivering only heat: (ii) For energy installations delivering only electricity: where | ECh,el | = | Total greenhouse gas emissions from the final energy commodity. |
+| --- | --- | --- | | E | = | Total greenhouse gas emissions of the fuel before end-conversion. |
+| --- | --- | --- | | ηel | = | The electrical efficiency, defined as the annual electricity produced divided by the annual fuel input, based on its energy content. |
+| --- | --- | --- | | ηh | = | The heat efficiency, defined as the annual useful heat output divided by the annual fuel input, based on its energy content. |
+| --- | --- | --- | (iii) For the electricity or mechanical energy coming from energy installations delivering useful heat together with electricity and/or mechanical energy: (iv) For the useful heat coming from energy installations delivering heat together with electricity and/or mechanical energy: where: | ECh,el | = | Total greenhouse gas emissions from the final energy commodity. |
+| --- | --- | --- | | E | = | Total greenhouse gas emissions of the fuel before end-conversion. |
+| --- | --- | --- | | ηel | = | The electrical efficiency, defined as the annual electricity produced divided by the annual energy input, based on its energy content. |
+| --- | --- | --- | | ηh | = | The heat efficiency, defined as the annual useful heat output divided by the annual energy input, based on its energy content. |
+| --- | --- | --- | | Cel | = | Fraction of exergy in the electricity, and/or mechanical energy, set to 100 % (Cel = 1). |
+| --- | --- | --- | | Ch | = | Carnot efficiency (fraction of exergy in the useful heat). |
+| --- | --- | --- | The Carnot efficiency, Ch, for useful heat at different temperatures is defined as: where: | Th | = | Temperature, measured in absolute temperature (kelvin) of the useful heat at point of delivery. |
+| --- | --- | --- | | T0 | = | Temperature of surroundings, set at 273,15 kelvin (equal to 0 °C). |
+| --- | --- | --- | If the excess heat is exported for heating of buildings, at a temperature below 150 °C (423,15 kelvin), Ch can alternatively be defined as follows: | Ch | = | Carnot efficiency in heat at 150 °C (423,15 kelvin), which is: 0,3546 |
+| --- | --- | --- | For the purposes of that calculation, the following definitions apply: (i) ‘cogeneration’ shall mean the simultaneous generation in one process of thermal energy and electricity and/or mechanical energy; (ii) ‘useful heat’ shall mean heat generated to satisfy an economical justifiable demand for heat, for heating or cooling purposes; (iii) ‘economically justifiable demand’ shall mean the demand that does not exceed the needs for heat or cooling and which would otherwise be satisfied at market conditions.
 
-6. For the purposes of the calculation referred to in point 1(a), emission savings from improved agriculture management, e_sca, such as shifting to reduced or zero-tillage, improved crop/rotation, the use of cover crops, including crop residue management, and the use of organic soil improver (e.g. compost, manure fermentation digestate), shall be taken into account only if solid and verifiable evidence is provided that the soil carbon has increased or that it is reasonable to expect to have increased over the period in which the raw materials concerned were cultivated while taking into account the emissions where such practices lead to increased fertiliser and herbicide use.
+2. Greenhouse gas emissions from biomass fuels shall be expressed as follows:
 
-7. Annualised emissions from carbon stock changes caused by land-use change, e_l, shall be calculated by dividing total emissions equally over 20 years. For the calculation of those emissions the following rule shall be applied: e_l = (CS_R – CS_A) × 3,664 × 1/20 × 1/P – e_B, where e_lannualised greenhouse gas emissions from carbon stock change due to land-use change (measured as mass of CO_2-equivalent per unit biomass fuel energy). ‘Cropland’ and ‘perennial cropland’ shall be regarded as one land use;CS_Rthe carbon stock per unit area associated with the reference land use (measured as mass (tonnes) of carbon per unit area, including both soil and vegetation). The reference land use shall be the land use in January 2008 or 20 years before the raw material was obtained, whichever was the later;CS_Athe carbon stock per unit area associated with the actual land use (measured as mass (tonnes) of carbon per unit area, including both soil and vegetation). In cases where the carbon stock accumulates over more than one year, the value attributed to CS_A shall be the estimated stock per unit area after 20 years or when the crop reaches maturity, whichever the earlier;Pthe productivity of the crop (measured as biomass fuel energy per unit area per year); ande_Bbonus of 29 g CO_2eq/MJ biomass fuel if biomass is obtained from restored degraded land under the conditions laid down in point 8.
+(a) greenhouse gas emissions from biomass fuels, E, shall be expressed in terms of grams of CO2 equivalent per MJ of biomass fuel, g CO2eq/MJ;
 
-8. The bonus of 29 g CO_2eq/MJ shall be attributed if evidence is provided that the land: (a) was not in use for agriculture in January 2008 or any other activity; and (b) is severely degraded land, including such land that was formerly in agricultural use. The bonus of 29 g CO_2eq/MJ shall apply for a period of up to 20 years from the date of conversion of the land to agricultural use, provided that a steady increase in carbon stocks as well as a sizable reduction in erosion phenomena for land falling under (b) are ensured.
+(b) greenhouse gas emissions from heating or electricity, produced from biomass fuels, EC, shall be expressed in terms of grams of CO2 equivalent per MJ of final energy commodity (heat or electricity), g CO2eq/MJ.
+
+When heating and cooling are co-generated with electricity, emissions shall be allocated between heat and electricity (as under point 1(d)), irrespective if the heat is used for actual heating purposes or for cooling. (16)
+
+Where the greenhouse gas emissions from the extraction or cultivation of raw materials eec are expressed in unit g CO2eq/dry-ton of feedstock, the conversion to grams of CO2 equivalent per MJ of fuel, g CO2eq /MJ, shall be calculated as follows (17):
+
+Where
+
+Emissions per dry-ton feedstock shall be calculated as follows:
+
+3. Greenhouse gas emissions savings from biomass fuels shall be calculated as follows:
+
+(a) greenhouse gas emissions savings from biomass fuels used as transport fuels: SAVING = (EF(t) – EB)/EF(t) where | EB | = | total emissions from biomass fuels used as transport fuels; and |
+| --- | --- | --- | | EF(t) | = | total emissions from the fossil fuel comparator for transport |
+| --- | --- | --- |
+
+(b) greenhouse gas emissions savings from heat and cooling, and electricity being generated from biomass fuels: SAVING = (ECF(h&c,el) – ECB(h&c,el))/ECF (h&c,el), where | ECB(h&c,el) | = | total emissions from the heat or electricity, |
+| --- | --- | --- | | ECF(h&c,el) | = | total emissions from the fossil fuel comparator for useful heat or electricity. |
+| --- | --- | --- |
+
+4. The greenhouse gases taken into account for the purposes of point 1 shall be CO2, N2O and CH4. For the purposes of calculating CO2 equivalence, those gases shall be valued as follows:
+
+2
+
+2
+
+4
+
+5. Emissions from the extraction, harvesting or cultivation of raw materials, eec, shall include emissions from the extraction, harvesting or cultivation process itself; from the collection, drying and storage of raw materials; from waste and leakages; and from the production of chemicals or products used in extraction or cultivation. Capture of CO2 in the cultivation of raw materials shall be excluded. Estimates of emissions from agriculture biomass cultivation may be derived from the regional averages for cultivation emissions included in the reports referred to in Article 31(4) of this Directive or the information on the disaggregated default values for cultivation emissions included in this Annex, as an alternative to using actual values. In the absence of relevant information in those reports it is allowed to calculate averages based on local farming practises based for instance on data of a group of farms, as an alternative to using actual values.
+
+Estimates of emissions from cultivation and harvesting of forestry biomass may be derived from the use of averages for cultivation and harvesting emissions calculated for geographical areas at national level, as an alternative to using actual values.
+
+6. For the purposes of the calculation referred to in point 1(a), emission savings from improved agriculture management, esca, such as shifting to reduced or zero-tillage, improved crop/rotation, the use of cover crops, including crop residue management, and the use of organic soil improver (e.g. compost, manure fermentation digestate), shall be taken into account only if solid and verifiable evidence is provided that the soil carbon has increased or that it is reasonable to expect to have increased over the period in which the raw materials concerned were cultivated while taking into account the emissions where such practices lead to increased fertiliser and herbicide use (18).
+
+7. Annualised emissions from carbon stock changes caused by land-use change, el, shall be calculated by dividing total emissions equally over 20 years. For the calculation of those emissions the following rule shall be applied:
+
+el = (CSR – CSA) × 3,664 × 1/20 × 1/P – eB, (19)
+
+where
+
+| el | = | annualised greenhouse gas emissions from carbon stock change due to land-use change (measured as mass of CO2-equivalent per unit biomass fuel energy). ‘Cropland’ (20) and ‘perennial cropland’ (21) shall be regarded as one land use; |
+| --- | --- | --- |
+
+| CSR | = | the carbon stock per unit area associated with the reference land use (measured as mass (tonnes) of carbon per unit area, including both soil and vegetation). The reference land use shall be the land use in January 2008 or 20 years before the raw material was obtained, whichever was the later; |
+| --- | --- | --- |
+
+| CSA | = | the carbon stock per unit area associated with the actual land use (measured as mass (tonnes) of carbon per unit area, including both soil and vegetation). In cases where the carbon stock accumulates over more than one year, the value attributed to CSA shall be the estimated stock per unit area after 20 years or when the crop reaches maturity, whichever the earlier; |
+| --- | --- | --- |
+
+| P | = | the productivity of the crop (measured as biomass fuel energy per unit area per year); and |
+| --- | --- | --- |
+
+| eB | = | bonus of 29 g CO2eq/MJ biomass fuel if biomass is obtained from restored degraded land under the conditions laid down in point 8. |
+| --- | --- | --- |
+
+8. The bonus of 29 g CO2eq/MJ shall be attributed if evidence is provided that the land:
+
+(a) was not in use for agriculture in January 2008 or any other activity; and
+
+(b) is severely degraded land, including such land that was formerly in agricultural use.
+
+The bonus of 29 g CO2eq/MJ shall apply for a period of up to 20 years from the date of conversion of the land to agricultural use, provided that a steady increase in carbon stocks as well as a sizable reduction in erosion phenomena for land falling under (b) are ensured.
 
 9. ‘Severely degraded land’ means land that, for a significant period of time, has either been significantly salinated or presented significantly low organic matter content and has been severely eroded.
 
-10. In accordance with point 10 of Part C of Annex V to this Directive, Commission Decision 2010/335/EU, which provides for guidelines for the calculation of land carbon stocks in relation to this Directive, drawing on the 2006 IPCC Guidelines for National Greenhouse Gas Inventories – volume 4, and in accordance with Regulations (EU) No 525/2013 and (EU) 2018/841, shall serve as the basis for the calculation of land carbon stocks.
+10. In accordance with point 10 of Part C of Annex V to this Directive, Commission Decision 2010/335/EU (22), which provides for guidelines for the calculation of land carbon stocks in relation to this Directive, drawing on the 2006 IPCC Guidelines for National Greenhouse Gas Inventories – volume 4, and in accordance with Regulations (EU) No 525/2013 and (EU) 2018/841, shall serve as the basis for the calculation of land carbon stocks.
 
-11. Emissions from processing, e_p, shall include emissions from the processing itself; from waste and leakages; and from the production of chemicals or products used in processing, including the CO_2 emissions corresponding to the carbon contents of fossil inputs, whether or not actually combusted in the process. In accounting for the consumption of electricity not produced within the solid or gaseous biomass fuel production plant, the greenhouse gas emissions intensity of the production and distribution of that electricity shall be assumed to be equal to the average emission intensity of the production and distribution of electricity in a defined region. By way of derogation from this rule, producers may use an average value for an individual electricity production plant for electricity produced by that plant, if that plant is not connected to the electricity grid. Emissions from processing shall include emissions from drying of interim products and materials where relevant.
+11. Emissions from processing, ep, shall include emissions from the processing itself; from waste and leakages; and from the production of chemicals or products used in processing, including the CO2 emissions corresponding to the carbon contents of fossil inputs, whether or not actually combusted in the process.
 
-12. Emissions from transport and distribution, e_td, shall include emissions from the transport of raw and semi-finished materials and from the storage and distribution of finished materials. Emissions from transport and distribution to be taken into account under point 5 shall not be covered by this point.
+In accounting for the consumption of electricity not produced within the solid or gaseous biomass fuel production plant, the greenhouse gas emissions intensity of the production and distribution of that electricity shall be assumed to be equal to the average emission intensity of the production and distribution of electricity in a defined region. By way of derogation from this rule, producers may use an average value for an individual electricity production plant for electricity produced by that plant, if that plant is not connected to the electricity grid.
 
-13. Emissions of CO_2 from fuel in use, e_u, shall be taken to be zero for biomass fuels. Emissions of non-CO_2 greenhouse gases (CH_4 and N_2O) from the fuel in use shall be included in the e_u factor.
+Emissions from processing shall include emissions from drying of interim products and materials where relevant.
 
-14. Emission savings from CO_2 capture and geological storage, e_ccs, that have not already been accounted for in e_p, shall be limited to emissions avoided through the capture and storage of emitted CO_2 directly related to the extraction, transport, processing and distribution of biomass fuel if stored in compliance with Directive 2009/31/EC.
+12. Emissions from transport and distribution, etd, shall include emissions from the transport of raw and semi-finished materials and from the storage and distribution of finished materials. Emissions from transport and distribution to be taken into account under point 5 shall not be covered by this point.
 
-15. Emission savings from CO_2 capture and replacement, e_ccr, shall be related directly to the production of biomass fuel they are attributed to, and shall be limited to emissions avoided through the capture of CO_2 of which the carbon originates from biomass and which is used to replace fossil-derived CO_2 in production of commercial products and services.
+13. Emissions of CO2 from fuel in use, eu, shall be taken to be zero for biomass fuels. Emissions of non-CO2 greenhouse gases (CH4 and N2O) from the fuel in use shall be included in the eu factor.
 
-16. Where a cogeneration unit – providing heat and/or electricity to a biomass fuel production process for which emissions are being calculated – produces excess electricity and/or excess useful heat, the greenhouse gas emissions shall be divided between the electricity and the useful heat according to the temperature of the heat (which reflects the usefulness (utility) of the heat). The useful part of the heat is found by multiplying its energy content with the Carnot efficiency, C_h, calculated as follows: *C*_*h**T*_*h**T*_0*T*_*h* where T_hTemperature, measured in absolute temperature (kelvin) of the useful heat at point of delivery.T_0Temperature of surroundings, set at 273,15 kelvin (equal to 0 °C). If the excess heat is exported for heating of buildings, at a temperature below 150 °C (423,15 kelvin), C_h can alternatively be defined as follows: C_hCarnot efficiency in heat at 150 °C (423,15 kelvin), which is: 0,3546 For the purposes of that calculation, the actual efficiencies shall be used, defined as the annual mechanical energy, electricity and heat produced respectively divided by the annual energy input. For the purposes of that calculation, the following definitions apply: (a) ‘cogeneration’ shall mean the simultaneous generation in one process of thermal energy and electrical and/or mechanical energy; (b) ‘useful heat’ shall mean heat generated to satisfy an economical justifiable demand for heat, for heating or cooling purposes; (c) ‘economically justifiable demand’ shall mean the demand that does not exceed the needs for heat or cooling and which would otherwise be satisfied at market conditions.
+14. Emission savings from CO2 capture and geological storage, eccs, that have not already been accounted for in ep, shall be limited to emissions avoided through the capture and storage of emitted CO2 directly related to the extraction, transport, processing and distribution of biomass fuel if stored in compliance with Directive 2009/31/EC.
 
-17. Where a biomass fuel production process produces, in combination, the fuel for which emissions are being calculated and one or more other products (‘co-products’), greenhouse gas emissions shall be divided between the fuel or its intermediate product and the co-products in proportion to their energy content (determined by lower heating value in the case of co-products other than electricity and heat). The greenhouse gas intensity of excess useful heat or excess electricity is the same as the greenhouse gas intensity of heat or electricity delivered to the biomass fuel production process and is determined from calculating the greenhouse gas intensity of all inputs and emissions, including the feedstock and CH_4 and N_2O emissions, to and from the cogeneration unit, boiler or other apparatus delivering heat or electricity to the biomass fuel production process. In the case of cogeneration of electricity and heat, the calculation is performed following point 16.
+15. Emission savings from CO2 capture and replacement, eccr, shall be related directly to the production of biomass fuel they are attributed to, and shall be limited to emissions avoided through the capture of CO2 of which the carbon originates from biomass and which is used to replace fossil-derived CO2 in production of commercial products and services.
 
-18. For the purposes of the calculations referred to in point 17, the emissions to be divided shall be e_ec + e_l + e_sca + those fractions of e_p, e_td, e_ccs and e_ccr that take place up to and including the process step at which a co-product is produced. If any allocation to co-products has taken place at an earlier process step in the life-cycle, the fraction of those emissions assigned in the last such process step to the intermediate fuel product shall be used for those purposes instead of the total of those emissions. In the case of biogas and biomethane, all co-products shall be taken into account for the purposes of that calculation. No emissions shall be allocated to wastes and residues. Co-products that have a negative energy content shall be considered to have an energy content of zero for the purposes of the calculation. Wastes and residues, including tree tops and branches, straw, husks, cobs and nut shells, and residues from processing, including crude glycerine (glycerine that is not refined) and bagasse, shall be considered to have zero life-cycle greenhouse gas emissions up to the process of collection of those materials irrespectively of whether they are processed to interim products before being transformed into the final product. In the case of biomass fuels produced in refineries, other than the combination of processing plants with boilers or cogeneration units providing heat and/or electricity to the processing plant, the unit of analysis for the purposes of the calculation referred to in point 17 shall be the refinery.
+16. Where a cogeneration unit – providing heat and/or electricity to a biomass fuel production process for which emissions are being calculated – produces excess electricity and/or excess useful heat, the greenhouse gas emissions shall be divided between the electricity and the useful heat according to the temperature of the heat (which reflects the usefulness (utility) of the heat). The useful part of the heat is found by multiplying its energy content with the Carnot efficiency, Ch, calculated as follows:
 
-19. For biomass fuels used for the production of electricity, for the purposes of the calculation referred to in point 3, the fossil fuel comparator EC_F(el) shall be 183 g CO_2eq/MJ electricity or 212 g CO_2eq/MJ electricity for the outermost regions. For biomass fuels used for the production of useful heat, as well as for the production of heating and/or cooling, for the purposes of the calculation referred to in point 3, the fossil fuel comparator EC_F(h) shall be 80 g CO_2eq/MJ heat. For biomass fuels used for the production of useful heat, in which a direct physical substitution of coal can be demonstrated, for the purposes of the calculation referred to in point 3, the fossil fuel comparator EC_F(h) shall be 124 g CO_2eq/MJ heat. For biomass fuels used as transport fuels, for the purposes of the calculation referred to in point 3, the fossil fuel comparator E_F(t) shall be 94 g CO_2eq/MJ.
+where
 
-**C.DISAGGREGATED DEFAULT VALUES FOR BIOMASS FUELS**
+| Th | = | Temperature, measured in absolute temperature (kelvin) of the useful heat at point of delivery. |
+| --- | --- | --- |
 
-**Wood briquettes or pellets**
+| T0 | = | Temperature of surroundings, set at 273,15 kelvin (equal to 0 °C). |
+| --- | --- | --- |
 
-| Biomass fuel production system | Transport distance | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |  |  |  |  |  |  |
+If the excess heat is exported for heating of buildings, at a temperature below 150 °C (423,15 kelvin), Ch can alternatively be defined as follows:
+
+| Ch | = | Carnot efficiency in heat at 150 °C (423,15 kelvin), which is: 0,3546 |
+| --- | --- | --- |
+
+For the purposes of that calculation, the actual efficiencies shall be used, defined as the annual mechanical energy, electricity and heat produced respectively divided by the annual energy input.
+
+For the purposes of that calculation, the following definitions apply:
+
+(a) ‘cogeneration’ shall mean the simultaneous generation in one process of thermal energy and electrical and/or mechanical energy;
+
+(b) ‘useful heat’ shall mean heat generated to satisfy an economical justifiable demand for heat, for heating or cooling purposes;
+
+(c) ‘economically justifiable demand’ shall mean the demand that does not exceed the needs for heat or cooling and which would otherwise be satisfied at market conditions.
+
+17. Where a biomass fuel production process produces, in combination, the fuel for which emissions are being calculated and one or more other products (‘co-products’), greenhouse gas emissions shall be divided between the fuel or its intermediate product and the co-products in proportion to their energy content (determined by lower heating value in the case of co-products other than electricity and heat). The greenhouse gas intensity of excess useful heat or excess electricity is the same as the greenhouse gas intensity of heat or electricity delivered to the biomass fuel production process and is determined from calculating the greenhouse gas intensity of all inputs and emissions, including the feedstock and CH4 and N2O emissions, to and from the cogeneration unit, boiler or other apparatus delivering heat or electricity to the biomass fuel production process. In the case of cogeneration of electricity and heat, the calculation is performed following point 16.
+
+18. For the purposes of the calculations referred to in point 17, the emissions to be divided shall be eec + el + esca + those fractions of ep, etd, eccs and eccr that take place up to and including the process step at which a co-product is produced. If any allocation to co-products has taken place at an earlier process step in the life-cycle, the fraction of those emissions assigned in the last such process step to the intermediate fuel product shall be used for those purposes instead of the total of those emissions.
+
+►C1 In the case of biogas and biomethane, all co-products shall be taken into account for the purposes of that calculation.** ◄ ** No emissions shall be allocated to wastes and residues. Co-products that have a negative energy content shall be considered to have an energy content of zero for the purposes of the calculation.
+
+Wastes and residues, including tree tops and branches, straw, husks, cobs and nut shells, and residues from processing, including crude glycerine (glycerine that is not refined) and bagasse, shall be considered to have zero life-cycle greenhouse gas emissions up to the process of collection of those materials irrespectively of whether they are processed to interim products before being transformed into the final product.
+
+In the case of biomass fuels produced in refineries, other than the combination of processing plants with boilers or cogeneration units providing heat and/or electricity to the processing plant, the unit of analysis for the purposes of the calculation referred to in point 17 shall be the refinery.
+
+19. For biomass fuels used for the production of electricity, for the purposes of the calculation referred to in point 3, the fossil fuel comparator ECF(el) shall be 183 g CO2eq/MJ electricity or 212 g CO2eq/MJ electricity for the outermost regions.
+
+For biomass fuels used for the production of useful heat, as well as for the production of heating and/or cooling, for the purposes of the calculation referred to in point 3, the fossil fuel comparator ECF(h) shall be 80 g CO2eq/MJ heat.
+
+For biomass fuels used for the production of useful heat, in which a direct physical substitution of coal can be demonstrated, for the purposes of the calculation referred to in point 3, the fossil fuel comparator ECF(h) shall be 124 g CO2eq/MJ heat.
+
+For biomass fuels used as transport fuels, for the purposes of the calculation referred to in point 3, the fossil fuel comparator EF(t) shall be 94 g CO2eq/MJ.
+
+C. **DISAGGREGATED DEFAULT VALUES FOR BIOMASS FUELS**
+
+Wood briquettes or pellets
+
+| Biomass fuel production system | Transport distance | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cultivation | Processing | Transport | Non-CO_2 emissions from the fuel in use | Cultivation | Processing | Transport | Non-CO_2 emissions from the fuel in use |  |  |
+| Cultivation | Processing | Transport | Non-CO2 emissions from the fuel in use | Cultivation | Processing | Transport | Non-CO2 emissions from the fuel in use |  |  |
 | Wood chips from forest residues | 1 to 500 km | 0,0 | 1,6 | 3,0 | 0,4 | 0,0 | 1,9 | 3,6 | 0,5 |
-| 500 to 2500 km | 0,0 | 1,6 | 5,2 | 0,4 | 0,0 | 1,9 | 6,2 | 0,5 |  |
-| 2500 to 10000 km | 0,0 | 1,6 | 10,5 | 0,4 | 0,0 | 1,9 | 12,6 | 0,5 |  |
-| Above 10000 km | 0,0 | 1,6 | 20,5 | 0,4 | 0,0 | 1,9 | 24,6 | 0,5 |  |
-| Wood chips from SRC (Eucalyptus) | 2500 to 10000 km | 4,4 | 0,0 | 11,0 | 0,4 | 4,4 | 0,0 | 13,2 | 0,5 |
+| 500 to 2 500 km | 0,0 | 1,6 | 5,2 | 0,4 | 0,0 | 1,9 | 6,2 | 0,5 |  |
+| 2 500 to 10 000 km | 0,0 | 1,6 | 10,5 | 0,4 | 0,0 | 1,9 | 12,6 | 0,5 |  |
+| Above 10 000 km | 0,0 | 1,6 | 20,5 | 0,4 | 0,0 | 1,9 | 24,6 | 0,5 |  |
+| Wood chips from SRC (Eucalyptus) | 2 500 to 10 000 km | 4,4 | 0,0 | 11,0 | 0,4 | 4,4 | 0,0 | 13,2 | 0,5 |
 | Wood chips from SRC (Poplar – fertilised) | 1 to 500 km | 3,9 | 0,0 | 3,5 | 0,4 | 3,9 | 0,0 | 4,2 | 0,5 |
-| 500 to 2500 km | 3,9 | 0,0 | 5,6 | 0,4 | 3,9 | 0,0 | 6,8 | 0,5 |  |
-| 2500 to 10000 km | 3,9 | 0,0 | 11,0 | 0,4 | 3,9 | 0,0 | 13,2 | 0,5 |  |
-| Above 10000 km | 3,9 | 0,0 | 21,0 | 0,4 | 3,9 | 0,0 | 25,2 | 0,5 |  |
+| 500 to 2 500 km | 3,9 | 0,0 | 5,6 | 0,4 | 3,9 | 0,0 | 6,8 | 0,5 |  |
+| 2 500 to 10 000 km | 3,9 | 0,0 | 11,0 | 0,4 | 3,9 | 0,0 | 13,2 | 0,5 |  |
+| Above 10 000 km | 3,9 | 0,0 | 21,0 | 0,4 | 3,9 | 0,0 | 25,2 | 0,5 |  |
 | Wood chips from SRC (Poplar – Not fertilised) | 1 to 500 km | 2,2 | 0,0 | 3,5 | 0,4 | 2,2 | 0,0 | 4,2 | 0,5 |
-| 500 to 2500 km | 2,2 | 0,0 | 5,6 | 0,4 | 2,2 | 0,0 | 6,8 | 0,5 |  |
-| 2500 to 10000 km | 2,2 | 0,0 | 11,0 | 0,4 | 2,2 | 0,0 | 13,2 | 0,5 |  |
-| Above 10000 km | 2,2 | 0,0 | 21,0 | 0,4 | 2,2 | 0,0 | 25,2 | 0,5 |  |
+| 500 to 2 500 km | 2,2 | 0,0 | 5,6 | 0,4 | 2,2 | 0,0 | 6,8 | 0,5 |  |
+| 2 500 to 10 000 km | 2,2 | 0,0 | 11,0 | 0,4 | 2,2 | 0,0 | 13,2 | 0,5 |  |
+| Above 10 000 km | 2,2 | 0,0 | 21,0 | 0,4 | 2,2 | 0,0 | 25,2 | 0,5 |  |
 | Wood chips from stemwood | 1 to 500 km | 1,1 | 0,3 | 3,0 | 0,4 | 1,1 | 0,4 | 3,6 | 0,5 |
-| 500 to 2500 km | 1,1 | 0,3 | 5,2 | 0,4 | 1,1 | 0,4 | 6,2 | 0,5 |  |
-| 2500 to 10000 km | 1,1 | 0,3 | 10,5 | 0,4 | 1,1 | 0,4 | 12,6 | 0,5 |  |
-| Above 10000 km | 1,1 | 0,3 | 20,5 | 0,4 | 1,1 | 0,4 | 24,6 | 0,5 |  |
+| 500 to 2 500 km | 1,1 | 0,3 | 5,2 | 0,4 | 1,1 | 0,4 | 6,2 | 0,5 |  |
+| 2 500 to 10 000 km | 1,1 | 0,3 | 10,5 | 0,4 | 1,1 | 0,4 | 12,6 | 0,5 |  |
+| Above 10 000 km | 1,1 | 0,3 | 20,5 | 0,4 | 1,1 | 0,4 | 24,6 | 0,5 |  |
 | Wood chips from wood industry residues | 1 to 500 km | 0,0 | 0,3 | 3,0 | 0,4 | 0,0 | 0,4 | 3,6 | 0,5 |
-| 500 to 2500 km | 0,0 | 0,3 | 5,2 | 0,4 | 0,0 | 0,4 | 6,2 | 0,5 |  |
-| 2500 to 10000 km | 0,0 | 0,3 | 10,5 | 0,4 | 0,0 | 0,4 | 12,6 | 0,5 |  |
-| Above 10000 km | 0,0 | 0,3 | 20,5 | 0,4 | 0,0 | 0,4 | 24,6 | 0,5 |  |
+| 500 to 2 500 km | 0,0 | 0,3 | 5,2 | 0,4 | 0,0 | 0,4 | 6,2 | 0,5 |  |
+| 2 500 to 10 000 km | 0,0 | 0,3 | 10,5 | 0,4 | 0,0 | 0,4 | 12,6 | 0,5 |  |
+| Above 10 000 km | 0,0 | 0,3 | 20,5 | 0,4 | 0,0 | 0,4 | 24,6 | 0,5 |  |
 
-**Wood briquettes or pellets**
+Wood briquettes or pellets
 
-| Biomass fuel production system | Transport distance | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |  |  |  |  |  |  |
+| Biomass fuel production system | Transport distance | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Cultivation | Processing | Transport & distribution | Non-CO_2 emissions from the fuel in use | Cultivation | Processing | Transport & distribution | Non-CO_2 emissions from the fuel in use |
+|  |  | Cultivation | Processing | Transport & distribution | Non-CO2 emissions from the fuel in use | Cultivation | Processing | Transport & distribution | Non-CO2 emissions from the fuel in use |
 | Wood briquettes or pellets from forest residues (case 1) | 1 to 500 km | 0,0 | 25,8 | 2,9 | 0,3 | 0,0 | 30,9 | 3,5 | 0,3 |
-| 500 to 2500 km | 0,0 | 25,8 | 2,8 | 0,3 | 0,0 | 30,9 | 3,3 | 0,3 |  |
-| 2500 to 10000 km | 0,0 | 25,8 | 4,3 | 0,3 | 0,0 | 30,9 | 5,2 | 0,3 |  |
-| Above 10000 km | 0,0 | 25,8 | 7,9 | 0,3 | 0,0 | 30,9 | 9,5 | 0,3 |  |
+| 500 to 2 500 km | 0,0 | 25,8 | 2,8 | 0,3 | 0,0 | 30,9 | 3,3 | 0,3 |  |
+| 2 500 to 10 000 km | 0,0 | 25,8 | 4,3 | 0,3 | 0,0 | 30,9 | 5,2 | 0,3 |  |
+| Above 10 000 km | 0,0 | 25,8 | 7,9 | 0,3 | 0,0 | 30,9 | 9,5 | 0,3 |  |
 | Wood briquettes or pellets from forest residues (case 2a) | 1 to 500 km | 0,0 | 12,5 | 3,0 | 0,3 | 0,0 | 15,0 | 3,6 | 0,3 |
-| 500 to 2500 km | 0,0 | 12,5 | 2,9 | 0,3 | 0,0 | 15,0 | 3,5 | 0,3 |  |
-| 2500 to 10000 km | 0,0 | 12,5 | 4,4 | 0,3 | 0,0 | 15,0 | 5,3 | 0,3 |  |
-| Above 10000 km | 0,0 | 12,5 | 8,1 | 0,3 | 0,0 | 15,0 | 9,8 | 0,3 |  |
+| 500 to 2 500 km | 0,0 | 12,5 | 2,9 | 0,3 | 0,0 | 15,0 | 3,5 | 0,3 |  |
+| 2 500 to 10 000 km | 0,0 | 12,5 | 4,4 | 0,3 | 0,0 | 15,0 | 5,3 | 0,3 |  |
+| Above 10 000 km | 0,0 | 12,5 | 8,1 | 0,3 | 0,0 | 15,0 | 9,8 | 0,3 |  |
 | Wood briquettes or pellets from forest residues (case 3a) | 1 to 500 km | 0,0 | 2,4 | 3,0 | 0,3 | 0,0 | 2,8 | 3,6 | 0,3 |
-| 500 to 2500 km | 0,0 | 2,4 | 2,9 | 0,3 | 0,0 | 2,8 | 3,5 | 0,3 |  |
-| 2500 to 10000 km | 0,0 | 2,4 | 4,4 | 0,3 | 0,0 | 2,8 | 5,3 | 0,3 |  |
-| Above 10000 km | 0,0 | 2,4 | 8,2 | 0,3 | 0,0 | 2,8 | 9,8 | 0,3 |  |
-| Wood briquettes from short rotation coppice(Eucalyptus – case 1) | 2500 to 10000 km | 3,9 | 24,5 | 4,3 | 0,3 | 3,9 | 29,4 | 5,2 | 0,3 |
-| Wood briquettes from short rotation coppice(Eucalyptus – case 2a) | 2500 to 10000 km | 5,0 | 10,6 | 4,4 | 0,3 | 5,0 | 12,7 | 5,3 | 0,3 |
-| Wood briquettes from short rotation coppice(Eucalyptus – case 3a) | 2500 to 10000 km | 5,3 | 0,3 | 4,4 | 0,3 | 5,3 | 0,4 | 5,3 | 0,3 |
+| 500 to 2 500 km | 0,0 | 2,4 | 2,9 | 0,3 | 0,0 | 2,8 | 3,5 | 0,3 |  |
+| 2 500 to 10 000 km | 0,0 | 2,4 | 4,4 | 0,3 | 0,0 | 2,8 | 5,3 | 0,3 |  |
+| Above 10 000 km | 0,0 | 2,4 | 8,2 | 0,3 | 0,0 | 2,8 | 9,8 | 0,3 |  |
+| Wood briquettes from short rotation coppice(Eucalyptus – case 1) | 2 500 to 10 000 km | 3,9 | 24,5 | 4,3 | 0,3 | 3,9 | 29,4 | 5,2 | 0,3 |
+| Wood briquettes from short rotation coppice(Eucalyptus – case 2a) | 2 500 to 10 000 km | 5,0 | 10,6 | 4,4 | 0,3 | 5,0 | 12,7 | 5,3 | 0,3 |
+| Wood briquettes from short rotation coppice(Eucalyptus – case 3a) | 2 500 to 10 000 km | 5,3 | 0,3 | 4,4 | 0,3 | 5,3 | 0,4 | 5,3 | 0,3 |
 | Wood briquettes from short rotation coppice(Poplar – Fertilised – case 1) | 1 to 500 km | 3,4 | 24,5 | 2,9 | 0,3 | 3,4 | 29,4 | 3,5 | 0,3 |
-| 500 to 10000 km | 3,4 | 24,5 | 4,3 | 0,3 | 3,4 | 29,4 | 5,2 | 0,3 |  |
-| Above 10000 km | 3,4 | 24,5 | 7,9 | 0,3 | 3,4 | 29,4 | 9,5 | 0,3 |  |
+| 500 to 10 000 km | 3,4 | 24,5 | 4,3 | 0,3 | 3,4 | 29,4 | 5,2 | 0,3 |  |
+| Above 10 000 km | 3,4 | 24,5 | 7,9 | 0,3 | 3,4 | 29,4 | 9,5 | 0,3 |  |
 | Wood briquettes from short rotation coppice(Poplar – Fertilised – case 2a) | 1 to 500 km | 4,4 | 10,6 | 3,0 | 0,3 | 4,4 | 12,7 | 3,6 | 0,3 |
-| 500 to 10000 km | 4,4 | 10,6 | 4,4 | 0,3 | 4,4 | 12,7 | 5,3 | 0,3 |  |
-| Above 10000 km | 4,4 | 10,6 | 8,1 | 0,3 | 4,4 | 12,7 | 9,8 | 0,3 |  |
+| 500 to 10 000 km | 4,4 | 10,6 | 4,4 | 0,3 | 4,4 | 12,7 | 5,3 | 0,3 |  |
+| Above 10 000 km | 4,4 | 10,6 | 8,1 | 0,3 | 4,4 | 12,7 | 9,8 | 0,3 |  |
 | Wood briquettes from short rotation coppice(Poplar – Fertilised – case 3a) | 1 to 500 km | 4,6 | 0,3 | 3,0 | 0,3 | 4,6 | 0,4 | 3,6 | 0,3 |
-| 500 to 10000 km | 4,6 | 0,3 | 4,4 | 0,3 | 4,6 | 0,4 | 5,3 | 0,3 |  |
-| Above 10000 km | 4,6 | 0,3 | 8,2 | 0,3 | 4,6 | 0,4 | 9,8 | 0,3 |  |
+| 500 to 10 000 km | 4,6 | 0,3 | 4,4 | 0,3 | 4,6 | 0,4 | 5,3 | 0,3 |  |
+| Above 10 000 km | 4,6 | 0,3 | 8,2 | 0,3 | 4,6 | 0,4 | 9,8 | 0,3 |  |
 | Wood briquettes from short rotation coppice(Poplar – no fertilisation – case 1) | 1 to 500 km | 2,0 | 24,5 | 2,9 | 0,3 | 2,0 | 29,4 | 3,5 | 0,3 |
-| 500 to 2500 km | 2,0 | 24,5 | 4,3 | 0,3 | 2,0 | 29,4 | 5,2 | 0,3 |  |
-| 2500 to 10000 km | 2,0 | 24,5 | 7,9 | 0,3 | 2,0 | 29,4 | 9,5 | 0,3 |  |
+| 500 to 2 500 km | 2,0 | 24,5 | 4,3 | 0,3 | 2,0 | 29,4 | 5,2 | 0,3 |  |
+| 2 500 to 10 000 km | 2,0 | 24,5 | 7,9 | 0,3 | 2,0 | 29,4 | 9,5 | 0,3 |  |
 | Wood briquettes from short rotation coppice(Poplar – no fertilisation – case 2a) | 1 to 500 km | 2,5 | 10,6 | 3,0 | 0,3 | 2,5 | 12,7 | 3,6 | 0,3 |
-| 500 to 10000 km | 2,5 | 10,6 | 4,4 | 0,3 | 2,5 | 12,7 | 5,3 | 0,3 |  |
-| Above 10000 km | 2,5 | 10,6 | 8,1 | 0,3 | 2,5 | 12,7 | 9,8 | 0,3 |  |
+| 500 to 10 000 km | 2,5 | 10,6 | 4,4 | 0,3 | 2,5 | 12,7 | 5,3 | 0,3 |  |
+| Above 10 000 km | 2,5 | 10,6 | 8,1 | 0,3 | 2,5 | 12,7 | 9,8 | 0,3 |  |
 | Wood briquettes from short rotation coppice(Poplar – no fertilisation– case 3a) | 1 to 500 km | 2,6 | 0,3 | 3,0 | 0,3 | 2,6 | 0,4 | 3,6 | 0,3 |
-| 500 to 10000 km | 2,6 | 0,3 | 4,4 | 0,3 | 2,6 | 0,4 | 5,3 | 0,3 |  |
-| Above 10000 km | 2,6 | 0,3 | 8,2 | 0,3 | 2,6 | 0,4 | 9,8 | 0,3 |  |
+| 500 to 10 000 km | 2,6 | 0,3 | 4,4 | 0,3 | 2,6 | 0,4 | 5,3 | 0,3 |  |
+| Above 10 000 km | 2,6 | 0,3 | 8,2 | 0,3 | 2,6 | 0,4 | 9,8 | 0,3 |  |
 | Wood briquettes or pellets from stemwood (case 1) | 1 to 500 km | 1,1 | 24,8 | 2,9 | 0,3 | 1,1 | 29,8 | 3,5 | 0,3 |
-| 500 to 2500 km | 1,1 | 24,8 | 2,8 | 0,3 | 1,1 | 29,8 | 3,3 | 0,3 |  |
-| 2500 to 10000 km | 1,1 | 24,8 | 4,3 | 0,3 | 1,1 | 29,8 | 5,2 | 0,3 |  |
-| Above 10000 km | 1,1 | 24,8 | 7,9 | 0,3 | 1,1 | 29,8 | 9,5 | 0,3 |  |
+| 500 to 2 500 km | 1,1 | 24,8 | 2,8 | 0,3 | 1,1 | 29,8 | 3,3 | 0,3 |  |
+| 2 500 to 10 000 km | 1,1 | 24,8 | 4,3 | 0,3 | 1,1 | 29,8 | 5,2 | 0,3 |  |
+| Above 10 000 km | 1,1 | 24,8 | 7,9 | 0,3 | 1,1 | 29,8 | 9,5 | 0,3 |  |
 | Wood briquettes or pellets from stemwood (case 2a) | 1 to 500 km | 1,4 | 11,0 | 3,0 | 0,3 | 1,4 | 13,2 | 3,6 | 0,3 |
-| 500 to 2500 km | 1,4 | 11,0 | 2,9 | 0,3 | 1,4 | 13,2 | 3,5 | 0,3 |  |
-| 2500 to 10000 km | 1,4 | 11,0 | 4,4 | 0,3 | 1,4 | 13,2 | 5,3 | 0,3 |  |
-| Above 10000 km | 1,4 | 11,0 | 8,1 | 0,3 | 1,4 | 13,2 | 9,8 | 0,3 |  |
+| 500 to 2 500 km | 1,4 | 11,0 | 2,9 | 0,3 | 1,4 | 13,2 | 3,5 | 0,3 |  |
+| 2 500 to 10 000 km | 1,4 | 11,0 | 4,4 | 0,3 | 1,4 | 13,2 | 5,3 | 0,3 |  |
+| Above 10 000 km | 1,4 | 11,0 | 8,1 | 0,3 | 1,4 | 13,2 | 9,8 | 0,3 |  |
 | Wood briquettes or pellets from stemwood (case 3a) | 1 to 500 km | 1,4 | 0,8 | 3,0 | 0,3 | 1,4 | 0,9 | 3,6 | 0,3 |
-| 500 to 2500 km | 1,4 | 0,8 | 2,9 | 0,3 | 1,4 | 0,9 | 3,5 | 0,3 |  |
-| 2500 to 10000 km | 1,4 | 0,8 | 4,4 | 0,3 | 1,4 | 0,9 | 5,3 | 0,3 |  |
-| Above 10000 km | 1,4 | 0,8 | 8,2 | 0,3 | 1,4 | 0,9 | 9,8 | 0,3 |  |
+| 500 to 2 500 km | 1,4 | 0,8 | 2,9 | 0,3 | 1,4 | 0,9 | 3,5 | 0,3 |  |
+| 2 500 to 10 000 km | 1,4 | 0,8 | 4,4 | 0,3 | 1,4 | 0,9 | 5,3 | 0,3 |  |
+| Above 10 000 km | 1,4 | 0,8 | 8,2 | 0,3 | 1,4 | 0,9 | 9,8 | 0,3 |  |
 | Wood briquettes or pellets from wood industry residues (case 1) | 1 to 500 km | 0,0 | 14,3 | 2,8 | 0,3 | 0,0 | 17,2 | 3,3 | 0,3 |
-| 500 to 2500 km | 0,0 | 14,3 | 2,7 | 0,3 | 0,0 | 17,2 | 3,2 | 0,3 |  |
-| 2500 to 10000 km | 0,0 | 14,3 | 4,2 | 0,3 | 0,0 | 17,2 | 5,0 | 0,3 |  |
-| Above 10000 km | 0,0 | 14,3 | 7,7 | 0,3 | 0,0 | 17,2 | 9,2 | 0,3 |  |
+| 500 to 2 500 km | 0,0 | 14,3 | 2,7 | 0,3 | 0,0 | 17,2 | 3,2 | 0,3 |  |
+| 2 500 to 10 000 km | 0,0 | 14,3 | 4,2 | 0,3 | 0,0 | 17,2 | 5,0 | 0,3 |  |
+| Above 10 000 km | 0,0 | 14,3 | 7,7 | 0,3 | 0,0 | 17,2 | 9,2 | 0,3 |  |
 | Wood briquettes or pellets from wood industry residues (case 2a) | 1 to 500 km | 0,0 | 6,0 | 2,8 | 0,3 | 0,0 | 7,2 | 3,4 | 0,3 |
-| 500 to 2500 km | 0,0 | 6,0 | 2,7 | 0,3 | 0,0 | 7,2 | 3,3 | 0,3 |  |
-| 2500 to 10000 km | 0,0 | 6,0 | 4,2 | 0,3 | 0,0 | 7,2 | 5,1 | 0,3 |  |
-| Above 10000 km | 0,0 | 6,0 | 7,8 | 0,3 | 0,0 | 7,2 | 9,3 | 0,3 |  |
+| 500 to 2 500 km | 0,0 | 6,0 | 2,7 | 0,3 | 0,0 | 7,2 | 3,3 | 0,3 |  |
+| 2 500 to 10 000 km | 0,0 | 6,0 | 4,2 | 0,3 | 0,0 | 7,2 | 5,1 | 0,3 |  |
+| Above 10 000 km | 0,0 | 6,0 | 7,8 | 0,3 | 0,0 | 7,2 | 9,3 | 0,3 |  |
 | Wood briquettes or pellets from wood industry residues (case 3a) | 1 to 500 km | 0,0 | 0,2 | 2,8 | 0,3 | 0,0 | 0,3 | 3,4 | 0,3 |
-| 500 to 2500 km | 0,0 | 0,2 | 2,7 | 0,3 | 0,0 | 0,3 | 3,3 | 0,3 |  |
-| 2500 to 10000 km | 0,0 | 0,2 | 4,2 | 0,3 | 0,0 | 0,3 | 5,1 | 0,3 |  |
-| Above 10000 km | 0,0 | 0,2 | 7,8 | 0,3 | 0,0 | 0,3 | 9,3 | 0,3 |  |
+| 500 to 2 500 km | 0,0 | 0,2 | 2,7 | 0,3 | 0,0 | 0,3 | 3,3 | 0,3 |  |
+| 2 500 to 10 000 km | 0,0 | 0,2 | 4,2 | 0,3 | 0,0 | 0,3 | 5,1 | 0,3 |  |
+| Above 10 000 km | 0,0 | 0,2 | 7,8 | 0,3 | 0,0 | 0,3 | 9,3 | 0,3 |  |
 
-**Agriculture pathways**
+Agriculture pathways
 
-| Biomass fuel production system | Transport distance | Greenhouse gas emissions – typical value (g CO_2eq/MJ) | Greenhouse gas emissions – default value (g CO_2eq/MJ) |  |  |  |  |  |  |
+| Biomass fuel production system | Transport distance | Greenhouse gas emissions – typical value (g CO2eq/MJ) | Greenhouse gas emissions – default value (g CO2eq/MJ) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Cultivation | Processing | Transport & distribution | Non-CO_2 emissions from the fuel in use | Cultivation | Processing | Transport & distribution | Non-CO_2 emissions from the fuel in use |
-| Agricultural Residues with density < 0,2 t/m^3 | 1 to 500 km | 0,0 | 0,9 | 2,6 | 0,2 | 0,0 | 1,1 | 3,1 | 0,3 |
-| 500 to 2500 km | 0,0 | 0,9 | 6,5 | 0,2 | 0,0 | 1,1 | 7,8 | 0,3 |  |
-| 2500 to 10000 km | 0,0 | 0,9 | 14,2 | 0,2 | 0,0 | 1,1 | 17,0 | 0,3 |  |
-| Above 10000 km | 0,0 | 0,9 | 28,3 | 0,2 | 0,0 | 1,1 | 34,0 | 0,3 |  |
-| Agricultural Residues with density > 0,2 t/m^3 | 1 to 500 km | 0,0 | 0,9 | 2,6 | 0,2 | 0,0 | 1,1 | 3,1 | 0,3 |
-| 500 to 2500 km | 0,0 | 0,9 | 3,6 | 0,2 | 0,0 | 1,1 | 4,4 | 0,3 |  |
-| 2500 to 10000 km | 0,0 | 0,9 | 7,1 | 0,2 | 0,0 | 1,1 | 8,5 | 0,3 |  |
-| Above 10000 km | 0,0 | 0,9 | 13,6 | 0,2 | 0,0 | 1,1 | 16,3 | 0,3 |  |
+|  |  | Cultivation | Processing | Transport & distribution | Non-CO2 emissions from the fuel in use | Cultivation | Processing | Transport & distribution | Non-CO2 emissions from the fuel in use |
+| Agricultural Residues with density < 0,2 t/m3 | 1 to 500 km | 0,0 | 0,9 | 2,6 | 0,2 | 0,0 | 1,1 | 3,1 | 0,3 |
+| 500 to 2 500 km | 0,0 | 0,9 | 6,5 | 0,2 | 0,0 | 1,1 | 7,8 | 0,3 |  |
+| 2 500 to 10 000 km | 0,0 | 0,9 | 14,2 | 0,2 | 0,0 | 1,1 | 17,0 | 0,3 |  |
+| Above 10 000 km | 0,0 | 0,9 | 28,3 | 0,2 | 0,0 | 1,1 | 34,0 | 0,3 |  |
+| Agricultural Residues with density > 0,2 t/m3 | 1 to 500 km | 0,0 | 0,9 | 2,6 | 0,2 | 0,0 | 1,1 | 3,1 | 0,3 |
+| 500 to 2 500 km | 0,0 | 0,9 | 3,6 | 0,2 | 0,0 | 1,1 | 4,4 | 0,3 |  |
+| 2 500 to 10 000 km | 0,0 | 0,9 | 7,1 | 0,2 | 0,0 | 1,1 | 8,5 | 0,3 |  |
+| Above 10 000 km | 0,0 | 0,9 | 13,6 | 0,2 | 0,0 | 1,1 | 16,3 | 0,3 |  |
 | Straw pellets | 1 to 500 km | 0,0 | 5,0 | 3,0 | 0,2 | 0,0 | 6,0 | 3,6 | 0,3 |
-| 500 to 10000 km | 0,0 | 5,0 | 4,6 | 0,2 | 0,0 | 6,0 | 5,5 | 0,3 |  |
-| Above 10000 km | 0,0 | 5,0 | 8,3 | 0,2 | 0,0 | 6,0 | 10,0 | 0,3 |  |
-| Bagasse briquettes | 500 to 10000 km | 0,0 | 0,3 | 4,3 | 0,4 | 0,0 | 0,4 | 5,2 | 0,5 |
-| Above 10000 km | 0,0 | 0,3 | 8,0 | 0,4 | 0,0 | 0,4 | 9,5 | 0,5 |  |
-| Palm Kernel Meal | Above 10000 km | 21,6 | 21,1 | 11,2 | 0,2 | 21,6 | 25,4 | 13,5 | 0,3 |
-| Palm Kernel Meal (no CH_4 emissions from oil mill) | Above 10000 km | 21,6 | 3,5 | 11,2 | 0,2 | 21,6 | 4,2 | 13,5 | 0,3 |
+| 500 to 10 000 km | 0,0 | 5,0 | 4,6 | 0,2 | 0,0 | 6,0 | 5,5 | 0,3 |  |
+| Above 10 000 km | 0,0 | 5,0 | 8,3 | 0,2 | 0,0 | 6,0 | 10,0 | 0,3 |  |
+| Bagasse briquettes | 500 to 10 000 km | 0,0 | 0,3 | 4,3 | 0,4 | 0,0 | 0,4 | 5,2 | 0,5 |
+| Above 10 000 km | 0,0 | 0,3 | 8,0 | 0,4 | 0,0 | 0,4 | 9,5 | 0,5 |  |
+| Palm Kernel Meal | Above 10 000 km | 21,6 | 21,1 | 11,2 | 0,2 | 21,6 | 25,4 | 13,5 | 0,3 |
+| Palm Kernel Meal (no CH4 emissions from oil mill) | Above 10 000 km | 21,6 | 3,5 | 11,2 | 0,2 | 21,6 | 4,2 | 13,5 | 0,3 |
 
-**Disaggregated default values for biogas for the production of electricity**
+Disaggregated default values for biogas for the production of electricity
 
-| Biomass fuel production system | Technology | TYPICAL VALUE [g CO_2eq/MJ] | DEFAULT VALUE [g CO_2eq/MJ] |  |  |  |  |  |  |  |  |  |
+| Biomass fuel production system | Technology | TYPICAL VALUE [g CO2eq/MJ] | DEFAULT VALUE [g CO2eq/MJ] |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cultivation | Processing | Non-CO_2 emissions from the fuel in use | Transport | Manure credits | Cultivation | Processing | Non-CO_2 emissions from the fuel in use | Transport | Manure credits |  |  |  |
-| Wet manure | case 1 | Open digestate | 0,0 | 69,6 | 8,9 | 0,8 | – 107,3 | 0,0 | 97,4 | 12,5 | 0,8 | – 107,3 |
+| Cultivation | Processing | Non-CO2 emissions from the fuel in use | Transport | Manure credits | Cultivation | Processing | Non-CO2 emissions from the fuel in use | Transport | Manure credits |  |  |  |
+| Wet manure (1) | case 1 | Open digestate | 0,0 | 69,6 | 8,9 | 0,8 | – 107,3 | 0,0 | 97,4 | 12,5 | 0,8 | – 107,3 |
 | Close digestate | 0,0 | 0,0 | 8,9 | 0,8 | – 97,6 | 0,0 | 0,0 | 12,5 | 0,8 | – 97,6 |  |  |
 | case 2 | Open digestate | 0,0 | 74,1 | 8,9 | 0,8 | – 107,3 | 0,0 | 103,7 | 12,5 | 0,8 | – 107,3 |  |
 | Close digestate | 0,0 | 4,2 | 8,9 | 0,8 | – 97,6 | 0,0 | 5,9 | 12,5 | 0,8 | – 97,6 |  |  |
 | case 3 | Open digestate | 0,0 | 83,2 | 8,9 | 0,9 | – 120,7 | 0,0 | 116,4 | 12,5 | 0,9 | – 120,7 |  |
 | Close digestate | 0,0 | 4,6 | 8,9 | 0,8 | – 108,5 | 0,0 | 6,4 | 12,5 | 0,8 | – 108,5 |  |  |
-| Maize whole plant | case 1 | Open digestate | 15,6 | 13,5 | 8,9 | 0,0 | — | 15,6 | 18,9 | 12,5 | 0,0 | — |
+| Maize whole plant (2) | case 1 | Open digestate | 15,6 | 13,5 | 8,9 | 0,0 (3) | — | 15,6 | 18,9 | 12,5 | 0,0 | — |
 | Close digestate | 15,2 | 0,0 | 8,9 | 0,0 | — | 15,2 | 0,0 | 12,5 | 0,0 | — |  |  |
 | case 2 | Open digestate | 15,6 | 18,8 | 8,9 | 0,0 | — | 15,6 | 26,3 | 12,5 | 0,0 | — |  |
 | Close digestate | 15,2 | 5,2 | 8,9 | 0,0 | — | 15,2 | 7,2 | 12,5 | 0,0 | — |  |  |
@@ -2171,10 +2211,11 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | Close digestate | 0,0 | 5,9 | 8,9 | 0,5 | — | 0,0 | 8,3 | 12,5 | 0,5 | — |  |  |
 | case 3 | Open digestate | 0,0 | 31,2 | 8,9 | 0,5 | — | 0,0 | 43,7 | 12,5 | 0,5 | — |  |
 | Close digestate | 0,0 | 6,5 | 8,9 | 0,5 | — | 0,0 | 9,1 | 12,5 | 0,5 | — |  |  |
+| (1)The values for biogas production from manure include negative emissions for emissions saved from raw manure management. The value of esca considered is equal to – 45 g CO2eq/MJ manure used in anaerobic digestion.(2)Maize whole plant means maize harvested as fodder and ensiled for preservation.(3)Transport of agricultural raw materials to the transformation plant is, according to the methodology provided in the Commission's report of 25 February 2010 on sustainability requirements for the use of solid and gaseous biomass sources in electricity, heating and cooling, included in the ‘cultivation’ value. The value for transport of maize silage accounts for 0,4 g CO2eq/MJ biogas. |  |  |  |  |  |  |  |  |  |  |  |  |
 
-**Disaggregated default values for biomethane**
+Disaggregated default values for biomethane
 
-| Biomethane production system | Technological option | TYPICAL VALUE [g CO_2eq/MJ] | DEFAULT VALUE [g CO_2eq/MJ] |  |  |  |  |  |  |  |  |  |  |  |
+| Biomethane production system | Technological option | TYPICAL VALUE [g CO2eq/MJ] | DEFAULT VALUE [g CO2eq/MJ] |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cultivation | Processing | Upgrading | Transport | Compression at filling station | Manure credits | Cultivation | Processing | Upgrading | Transport | Compression at filling station | Manure credits |  |  |  |
 | Wet manure | Open digestate | no off-gas combustion | 0,0 | 84,2 | 19,5 | 1,0 | 3,3 | – 124,4 | 0,0 | 117,9 | 27,3 | 1,0 | 4,6 | – 124,4 |
@@ -2190,116 +2231,121 @@ Disaggregated default values for cultivation: ‘e_ec’ as defined in Part C of
 | Close digestate | no off-gas combustion | 0,0 | 5,1 | 19,5 | 0,5 | 3,3 | — | 0,0 | 7,2 | 27,3 | 0,5 | 4,6 | — |  |
 | off-gas combustion | 0,0 | 5,1 | 4,5 | 0,5 | 3,3 | — | 0,0 | 7,2 | 6,3 | 0,5 | 4,6 | — |  |  |
 
-Case 1 refers to processes in which a Natural Gas boiler is used to provide the process heat to the pellet mill. Process electricity is purchased from the grid.Case 2a refers to processes in which a boiler fuelled with wood chips is used to provide the process heat to the pellet mill. Process electricity is purchased from the grid.Case 3a refers to processes in which a CHP, fuelled with wood chips, is used to provide heat and electricity to the pellet mill.
+D. **TOTAL TYPICAL AND DEFAULT VALUES FOR BIOMASS FUEL PATHWAYS**
 
-**D.TOTAL TYPICAL AND DEFAULT VALUES FOR BIOMASS FUEL PATHWAYS**
-
-| Biomass fuel production system | Transport distance | Greenhouse gas emissions – typical value (g CO_2eq/MJ) | Greenhouse gas emissions – default value (g CO_2eq/MJ) |
+| Biomass fuel production system | Transport distance | Greenhouse gas emissions – typical value (g CO2eq/MJ) | Greenhouse gas emissions – default value (g CO2eq/MJ) |
 | --- | --- | --- | --- |
 | Woodchips from forest residues | 1 to 500 km | 5 | 6 |
-| 500 to 2500 km | 7 | 9 |  |
-| 2500 to 10000 km | 12 | 15 |  |
-| Above 10000 km | 22 | 27 |  |
-| Woodchips from short rotation coppice (Eucalyptus) | 2500 to 10000 km | 16 | 18 |
+| 500 to 2 500 km | 7 | 9 |  |
+| 2 500 to 10 000 km | 12 | 15 |  |
+| Above 10 000 km | 22 | 27 |  |
+| Woodchips from short rotation coppice (Eucalyptus) | 2 500 to 10 000 km | 16 | 18 |
 | Woodchips from short rotation coppice (Poplar – Fertilised) | 1 to 500 km | 8 | 9 |
-| 500 to 2500 km | 10 | 11 |  |
-| 2500 to 10000 km | 15 | 18 |  |
-| Above 10000 km | 25 | 30 |  |
+| 500 to 2 500 km | 10 | 11 |  |
+| 2 500 to 10 000 km | 15 | 18 |  |
+| Above 10 000 km | 25 | 30 |  |
 | Woodchips from short rotation coppice (Poplar – No fertilisation) | 1 to 500 km | 6 | 7 |
-| 500 to 2500 km | 8 | 10 |  |
-| 2500 to 10000 km | 14 | 16 |  |
-| Above 10000 km | 24 | 28 |  |
+| 500 to 2 500 km | 8 | 10 |  |
+| 2 500 to 10 000 km | 14 | 16 |  |
+| Above 10 000 km | 24 | 28 |  |
 | Woodchips from stemwood | 1 to 500 km | 5 | 6 |
-| 500 to 2500 km | 7 | 8 |  |
-| 2500 to 10000 km | 12 | 15 |  |
-| Above 10000 km | 22 | 27 |  |
+| 500 to 2 500 km | 7 | 8 |  |
+| 2 500 to 10 000 km | 12 | 15 |  |
+| Above 10 000 km | 22 | 27 |  |
 | Woodchips from industry residues | 1 to 500 km | 4 | 5 |
-| 500 to 2500 km | 6 | 7 |  |
-| 2500 to 10000 km | 11 | 13 |  |
-| Above 10000 km | 21 | 25 |  |
+| 500 to 2 500 km | 6 | 7 |  |
+| 2 500 to 10 000 km | 11 | 13 |  |
+| Above 10 000 km | 21 | 25 |  |
 | Wood briquettes or pellets from forest residues (case 1) | 1 to 500 km | 29 | 35 |
-| 500 to 2500 km | 29 | 35 |  |
-| 2500 to 10000 km | 30 | 36 |  |
-| Above 10000 km | 34 | 41 |  |
+| 500 to 2 500 km | 29 | 35 |  |
+| 2 500 to 10 000 km | 30 | 36 |  |
+| Above 10 000 km | 34 | 41 |  |
 | Wood briquettes or pellets from forest residues (case 2a) | 1 to 500 km | 16 | 19 |
-| 500 to 2500 km | 16 | 19 |  |
-| 2500 to 10000 km | 17 | 21 |  |
-| Above 10000 km | 21 | 25 |  |
+| 500 to 2 500 km | 16 | 19 |  |
+| 2 500 to 10 000 km | 17 | 21 |  |
+| Above 10 000 km | 21 | 25 |  |
 | Wood briquettes or pellets from forest residues (case 3a) | 1 to 500 km | 6 | 7 |
-| 500 to 2500 km | 6 | 7 |  |
-| 2500 to 10000 km | 7 | 8 |  |
-| Above 10000 km | 11 | 13 |  |
-| Wood briquettes or pellets from short rotation coppice (Eucalyptus – case 1) | 2500 to 10000 km | 33 | 39 |
-| Wood briquettes or pellets from short rotation coppice (Eucalyptus – case 2a) | 2500 to 10000 km | 20 | 23 |
-| Wood briquettes or pellets from short rotation coppice (Eucalyptus – case 3a) | 2500 to 10000 km | 10 | 11 |
+| 500 to 2 500 km | 6 | 7 |  |
+| 2 500 to 10 000 km | 7 | 8 |  |
+| Above 10 000 km | 11 | 13 |  |
+| Wood briquettes or pellets from short rotation coppice (Eucalyptus – case 1) | 2 500 to 10 000 km | 33 | 39 |
+| Wood briquettes or pellets from short rotation coppice (Eucalyptus – case 2a) | 2 500 to 10 000 km | 20 | 23 |
+| Wood briquettes or pellets from short rotation coppice (Eucalyptus – case 3a) | 2 500 to 10 000 km | 10 | 11 |
 | Wood briquettes or pellets from short rotation coppice (Poplar – Fertilised – case 1) | 1 to 500 km | 31 | 37 |
-| 500 to 10000 km | 32 | 38 |  |
-| Above 10000 km | 36 | 43 |  |
+| 500 to 10 000 km | 32 | 38 |  |
+| Above 10 000 km | 36 | 43 |  |
 | Wood briquettes or pellets from short rotation coppice (Poplar – Fertilised – case 2a) | 1 to 500 km | 18 | 21 |
-| 500 to 10000 km | 20 | 23 |  |
-| Above 10000 km | 23 | 27 |  |
+| 500 to 10 000 km | 20 | 23 |  |
+| Above 10 000 km | 23 | 27 |  |
 | Wood briquettes or pellets from short rotation coppice (Poplar – Fertilised – case 3a) | 1 to 500 km | 8 | 9 |
-| 500 to 10000 km | 10 | 11 |  |
-| Above 10000 km | 13 | 15 |  |
+| 500 to 10 000 km | 10 | 11 |  |
+| Above 10 000 km | 13 | 15 |  |
 | Wood briquettes or pellets from short rotation coppice (Poplar – no fertilisation – case 1) | 1 to 500 km | 30 | 35 |
-| 500 to 10000 km | 31 | 37 |  |
-| Above 10000 km | 35 | 41 |  |
+| 500 to 10 000 km | 31 | 37 |  |
+| Above 10 000 km | 35 | 41 |  |
 | Wood briquettes or pellets from short rotation coppice (Poplar – no fertilisation – case 2a) | 1 to 500 km | 16 | 19 |
-| 500 to 10000 km | 18 | 21 |  |
-| Above 10000 km | 21 | 25 |  |
+| 500 to 10 000 km | 18 | 21 |  |
+| Above 10 000 km | 21 | 25 |  |
 | Wood briquettes or pellets from short rotation coppice (Poplar – no fertilisation – case 3a) | 1 to 500 km | 6 | 7 |
-| 500 to 10000 km | 8 | 9 |  |
-| Above 10000 km | 11 | 13 |  |
+| 500 to 10 000 km | 8 | 9 |  |
+| Above 10 000 km | 11 | 13 |  |
 | Wood briquettes or pellets from stemwood (case 1) | 1 to 500 km | 29 | 35 |
-| 500 to 2500 km | 29 | 34 |  |
-| 2500 to 10000 km | 30 | 36 |  |
-| Above 10000 km | 34 | 41 |  |
+| 500 to 2 500 km | 29 | 34 |  |
+| 2 500 to 10 000 km | 30 | 36 |  |
+| Above 10 000 km | 34 | 41 |  |
 | Wood briquettes or pellets from stemwood (case 2a) | 1 to 500 km | 16 | 18 |
-| 500 to 2500 km | 15 | 18 |  |
-| 2500 to 10000 km | 17 | 20 |  |
-| Above 10000 km | 21 | 25 |  |
+| 500 to 2 500 km | 15 | 18 |  |
+| 2 500 to 10 000 km | 17 | 20 |  |
+| Above 10 000 km | 21 | 25 |  |
 | Wood briquettes or pellets from stemwood (case 3a) | 1 to 500 km | 5 | 6 |
-| 500 to 2500 km | 5 | 6 |  |
-| 2500 to 10000 km | 7 | 8 |  |
-| Above 10000 km | 11 | 12 |  |
+| 500 to 2 500 km | 5 | 6 |  |
+| 2 500 to 10 000 km | 7 | 8 |  |
+| Above 10 000 km | 11 | 12 |  |
 | Wood briquettes or pellets from wood industry residues (case 1) | 1 to 500 km | 17 | 21 |
-| 500 to 2500 km | 17 | 21 |  |
-| 2500 to 10000 km | 19 | 23 |  |
-| Above 10000 km | 22 | 27 |  |
+| 500 to 2 500 km | 17 | 21 |  |
+| 2 500 to 10 000 km | 19 | 23 |  |
+| Above 10 000 km | 22 | 27 |  |
 | Wood briquettes or pellets from wood industry residues (case 2a) | 1 to 500 km | 9 | 11 |
-| 500 to 2500 km | 9 | 11 |  |
-| 2500 to 10000 km | 10 | 13 |  |
-| Above 10000 km | 14 | 17 |  |
+| 500 to 2 500 km | 9 | 11 |  |
+| 2 500 to 10 000 km | 10 | 13 |  |
+| Above 10 000 km | 14 | 17 |  |
 | Wood briquettes or pellets from wood industry residues (case 3a) | 1 to 500 km | 3 | 4 |
-| 500 to 2500 km | 3 | 4 |  |
-| 2500 to 10000 | 5 | 6 |  |
-| Above 10000 km | 8 | 10 |  |
+| 500 to 2 500 km | 3 | 4 |  |
+| 2 500 to 10 000 | 5 | 6 |  |
+| Above 10 000 km | 8 | 10 |  |
 
-| Biomass fuel production system | Transport distance | Greenhouse gas emissions – typical value (g CO_2eq/MJ) | Greenhouse gas emissions – default value (g CO_2eq/MJ) |
+Case 1 refers to processes in which a Natural Gas boiler is used to provide the process heat to the pellet mill. Process electricity is purchased from the grid.
+
+Case 2a refers to processes in which a boiler fuelled with wood chips is used to provide the process heat to the pellet mill. Process electricity is purchased from the grid.
+
+Case 3a refers to processes in which a CHP, fuelled with wood chips, is used to provide heat and electricity to the pellet mill.
+
+| Biomass fuel production system | Transport distance | Greenhouse gas emissions – typical value (g CO2eq/MJ) | Greenhouse gas emissions – default value (g CO2eq/MJ) |
 | --- | --- | --- | --- |
-| Agricultural Residues with density < 0,2 t/m^3 | 1 to 500 km | 4 | 4 |
-| 500 to 2500 km | 8 | 9 |  |
-| 2500 to 10000 km | 15 | 18 |  |
-| Above 10000 km | 29 | 35 |  |
-| Agricultural Residues with density > 0,2 t/m^3 | 1 to 500 km | 4 | 4 |
-| 500 to 2500 km | 5 | 6 |  |
-| 2500 to 10000 km | 8 | 10 |  |
-| Above 10000 km | 15 | 18 |  |
+| Agricultural Residues with density < 0,2 t/m3 (1) | 1 to 500 km | 4 | 4 |
+| 500 to 2 500 km | 8 | 9 |  |
+| 2 500 to 10 000 km | 15 | 18 |  |
+| Above 10 000 km | 29 | 35 |  |
+| Agricultural Residues with density > 0,2 t/m3 (2) | 1 to 500 km | 4 | 4 |
+| 500 to 2 500 km | 5 | 6 |  |
+| 2 500 to 10 000 km | 8 | 10 |  |
+| Above 10 000 km | 15 | 18 |  |
 | Straw pellets | 1 to 500 km | 8 | 10 |
-| 500 to 10000 km | 10 | 12 |  |
-| Above 10000 km | 14 | 16 |  |
-| Bagasse briquettes | 500 to 10000 km | 5 | 6 |
-| Above 10000 km | 9 | 10 |  |
-| Palm Kernel Meal | Above 10000 km | 54 | 61 |
-| Palm Kernel Meal (no CH_4 emissions from oil mill) | Above 10000 km | 37 | 40 |
+| 500 to 10 000 km | 10 | 12 |  |
+| Above 10 000 km | 14 | 16 |  |
+| Bagasse briquettes | 500 to 10 000 km | 5 | 6 |
+| Above 10 000 km | 9 | 10 |  |
+| Palm Kernel Meal | Above 10 000 km | 54 | 61 |
+| Palm Kernel Meal (no CH4 emissions from oil mill) | Above 10 000 km | 37 | 40 |
+| (1)This group of materials includes agricultural residues with a low bulk density and it comprises materials such as straw bales, oat hulls, rice husks and sugar cane bagasse bales (not exhaustive list).(2)The group of agricultural residues with higher bulk density includes materials such as corn cobs, nut shells, soybean hulls, palm kernel shells (not exhaustive list). |  |  |  |
 
-**Typical and default values – biogas for electricity**
+Typical and default values – biogas for electricity
 
 | Biogas production system | Technological option | Typical value | Default value |  |
 | --- | --- | --- | --- | --- |
-| Greenhouse gas emissions(g CO_2eq/MJ) | Greenhouse gas emissions(g CO_2eq/MJ) |  |  |  |
-| Biogas for electricity from wet manure | Case 1 | Open digestate | – 28 | 3 |
-| Close digestate | – 88 | – 84 |  |  |
+| Greenhouse gas emissions(g CO2eq/MJ) | Greenhouse gas emissions(g CO2eq/MJ) |  |  |  |
+| Biogas for electricity from wet manure | Case 1 | Open digestate (1) | – 28 | 3 |
+| Close digestate (2) | – 88 | – 84 |  |  |
 | Case 2 | Open digestate | – 23 | 10 |  |
 | Close digestate | – 84 | – 78 |  |  |
 | Case 3 | Open digestate | – 28 | 9 |  |
@@ -2316,13 +2362,14 @@ Case 1 refers to processes in which a Natural Gas boiler is used to provide the 
 | Close digestate | 15 | 21 |  |  |
 | Case 3 | Open digestate | 41 | 57 |  |
 | Close digestate | 16 | 22 |  |  |
+| (1)Open storage of digestate accounts for additional emissions of methane which change with the weather, the substrate and the digestion efficiency. In these calculations the amounts are taken to be equal to 0,05 MJ CH4/MJ biogas for manure, 0,035 MJ CH4/MJ biogas for maize and 0,01 MJ CH4/MJ biogas for biowaste.(2)Close storage means that the digestate resulting from the digestion process is stored in a gas tight tank and the additional biogas released during storage is considered to be recovered for production of additional electricity or biomethane. |  |  |  |  |
 
-**Typical and default values for biomethane**
+Typical and default values for biomethane
 
-| Biomethane production system | Technological option | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |
+| Biomethane production system | Technological option | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |
 | --- | --- | --- | --- |
-| Biomethane from wet manure | Open digestate, no off-gas combustion | – 20 | 22 |
-| Open digestate, off-gas combustion | – 35 | 1 |  |
+| Biomethane from wet manure | Open digestate, no off-gas combustion (1) | – 20 | 22 |
+| Open digestate, off-gas combustion (2) | – 35 | 1 |  |
 | Close digestate, no off-gas combustion | – 88 | – 79 |  |
 | Close digestate, off-gas combustion | – 103 | – 100 |  |
 | Biomethane from maize whole plant | Open digestate, no off-gas combustion | 58 | 73 |
@@ -2333,12 +2380,11 @@ Case 1 refers to processes in which a Natural Gas boiler is used to provide the 
 | Open digestate, off-gas combustion | 36 | 50 |  |
 | Close digestate, no off-gas combustion | 25 | 35 |  |
 | Close digestate, off-gas combustion | 10 | 14 |  |
+| (1)This category includes the following categories of technologies for biogas upgrade to biomethane: Pressure Swing Adsorption (PSA), Pressure Water Scrubbing (PWS), Membranes, Cryogenic, and Organic Physical Scrubbing (OPS). It includes an emission of 0,03 MJ CH4/MJ biomethane for the emission of methane in the off-gases.(2)This category includes the following categories of technologies for biogas upgrade to biomethane: Pressure Water Scrubbing (PWS) when water is recycled, Pressure Swing Adsorption (PSA), Chemical Scrubbing, Organic Physical Scrubbing (OPS), Membranes and Cryogenic upgrading. No methane emissions are considered for this category (the methane in the off-gas is combusted, if any). |  |  |  |
 
-CommentsCase 1 refers to pathways in which electricity and heat required in the process are supplied by the CHP engine itself.Case 2 refers to pathways in which the electricity required in the process is taken from the grid and the process heat is supplied by the CHP engine itself. In some Member States, operators are not allowed to claim the gross production for subsidies and case 1 is the more likely configuration.Case 3 refers to pathways in which the electricity required in the process is taken from the grid and the process heat is supplied by a biogas boiler. This case applies to some installations in which the CHP engine is not on-site and biogas is sold (but not upgraded to biomethane).
+Typical and default values – biogas for electricity – mixtures of manure and maize: greenhouse gas emissions with shares given on a fresh mass basis
 
-**Typical and default values – biogas for electricity – mixtures of manure and maize: greenhouse gas emissions with shares given on a fresh mass basis**
-
-| Biogas production system | Technological options | Greenhouse gas emissions – typical value(g CO_2eq/MJ) | Greenhouse gas emissions – default value(g CO_2eq/MJ) |  |
+| Biogas production system | Technological options | Greenhouse gas emissions – typical value(g CO2eq/MJ) | Greenhouse gas emissions – default value(g CO2eq/MJ) |  |
 | --- | --- | --- | --- | --- |
 | Manure – Maize80 % - 20 % | Case 1 | Open digestate | 17 | 33 |
 | Close digestate | – 12 | – 9 |  |  |
@@ -2359,13 +2405,19 @@ CommentsCase 1 refers to pathways in which electricity and heat required in the 
 | Case 3 | Open digestate | 36 | 52 |  |
 | Close digestate | 12 | 18 |  |  |
 
-Where biomethane is used as Compressed Biomethane as a transport fuel, a value of 3,3 g CO_2eq/MJ biomethane needs to be added to the typical values and a value of 4,6 g CO_2eq/MJ biomethane to the default values.
+Comments
 
-**Typical and default values – biomethane - mixtures of manure and maize: greenhouse gas emissions with shares given on a fresh mass basis**
+Case 1 refers to pathways in which electricity and heat required in the process are supplied by the CHP engine itself.
+
+Case 2 refers to pathways in which the electricity required in the process is taken from the grid and the process heat is supplied by the CHP engine itself. In some Member States, operators are not allowed to claim the gross production for subsidies and case 1 is the more likely configuration.
+
+Case 3 refers to pathways in which the electricity required in the process is taken from the grid and the process heat is supplied by a biogas boiler. This case applies to some installations in which the CHP engine is not on-site and biogas is sold (but not upgraded to biomethane).
+
+Typical and default values – biomethane - mixtures of manure and maize: greenhouse gas emissions with shares given on a fresh mass basis
 
 | Biomethane production system | Technological options | Typical value | Default value |
 | --- | --- | --- | --- |
-| (g CO_2eq/MJ) | (g CO_2eq/MJ) |  |  |
+| (g CO2eq/MJ) | (g CO2eq/MJ) |  |  |
 | Manure – Maize80 % - 20 % | Open digestate, no off-gas combustion | 32 | 57 |
 | Open digestate, off-gas combustion | 17 | 36 |  |
 | Close digestate, no off-gas combustion | – 1 | 9 |  |
@@ -2379,39 +2431,55 @@ Where biomethane is used as Compressed Biomethane as a transport fuel, a value o
 | Close digestate, no off-gas combustion | 22 | 31 |  |
 | Close digestate, off-gas combustion | 7 | 10 |  |
 
+Where biomethane is used as Compressed Biomethane as a transport fuel, a value of 3,3 g CO2eq/MJ biomethane needs to be added to the typical values and a value of 4,6 g CO2eq/MJ biomethane to the default values.
+
 <a id="anx_vii"></a>
 
 ### ANNEX VII
 
-The amount of aerothermal, geothermal or hydrothermal energy captured by heat pumps to be considered to be energy from renewable sources for the purposes of this Directive, E_RES, shall be calculated in accordance with the following formula:E_RES = Q_usable * (1 – 1/SPF)where—Q_usablethe estimated total usable heat delivered by heat pumps fulfilling the criteria referred to in Article 7(4), implemented as follows: Only heat pumps for which SPF > 1,15 * 1/η shall be taken into account,—SPFthe estimated average seasonal performance factor for those heat pumps,—ηthe ratio between total gross production of electricity and the primary energy consumption for the production of electricity and shall be calculated as an EU average based on Eurostat data.
-
 **ACCOUNTING OF ENERGY FROM HEAT PUMPS**
+
+The amount of aerothermal, geothermal or hydrothermal energy captured by heat pumps to be considered to be energy from renewable sources for the purposes of this Directive, ERES, shall be calculated in accordance with the following formula:
+
+ERES = Qusable * (1 – 1/SPF)
+
+where
+
+| — | Qusable= the estimated total usable heat delivered by heat pumps fulfilling the criteria referred to in Article 7(4), implemented as follows: Only heat pumps for which SPF > 1,15 * 1/η shall be taken into account, |
+| --- | --- |
+
+| — | SPF= the estimated average seasonal performance factor for those heat pumps, |
+| --- | --- |
+
+| — | η= the ratio between total gross production of electricity and the primary energy consumption for the production of electricity and shall be calculated as an EU average based on Eurostat data. |
+| --- | --- |
 
 <a id="anx_viii"></a>
 
 ### ANNEX VIII
 
-**PART A.PROVISIONAL ESTIMATED INDIRECT LAND-USE CHANGE EMISSIONS FROM BIOFUEL, BIOLIQUID AND BIOMASS FUEL FEEDSTOCK (g CO2eq/MJ)**
+PART A. **PROVISIONAL ESTIMATED INDIRECT LAND-USE CHANGE EMISSIONS FROM BIOFUEL, BIOLIQUID AND BIOMASS FUEL FEEDSTOCK (g CO2eq/MJ) (23)**
 
-| Feedstock group | Mean | Interpercentile range derived from the sensitivity analysis |
+| Feedstock group | Mean (1) | Interpercentile range derived from the sensitivity analysis (2) |
 | --- | --- | --- |
 | Cereals and other starch-rich crops | 12 | 8 to 16 |
 | Sugars | 13 | 4 to 17 |
 | Oil crops | 55 | 33 to 66 |
+| (1)The mean values included here represent a weighted average of the individually modelled feedstock values.(2)The range included here reflects 90 % of the results using the fifth and ninety-fifth percentile values resulting from the analysis. The fifth percentile suggests a value below which 5 % of the observations were found (namely, 5 % of total data used showed results below 8, 4, and 33 g CO2eq/MJ). The ninety-fifth percentile suggests a value below which 95 % of the observations were found (namely, 5 % of total data used showed results above 16, 17, and 66 g CO2eq/MJ). |  |  |
+
+PART B. **BIOFUELS, BIOLIQUIDS AND BIOMASS FUELS FOR WHICH THE ESTIMATED INDIRECT LAND-USE CHANGE EMISSIONS ARE CONSIDERED TO BE ZERO**
 
 Biofuels, bioliquids and biomass fuels produced from the following feedstock categories will be considered to have estimated indirect land-use change emissions of zero:
 
-**PART B.BIOFUELS, BIOLIQUIDS AND BIOMASS FUELS FOR WHICH THE ESTIMATED INDIRECT LAND-USE CHANGE EMISSIONS ARE CONSIDERED TO BE ZERO**
-
 (1) feedstocks which are not listed under part A of this Annex.
 
-(2) feedstocks, the production of which has led to direct land-use change, namely, a change from one of the following IPCC land cover categories: forest land, grassland, wetlands, settlements, or other land, to cropland or perennial cropland. In such a case a direct land-use change emission value (e_l) should have been calculated in accordance with point 7 of part C of Annex V.
+(2) feedstocks, the production of which has led to direct land-use change, namely, a change from one of the following IPCC land cover categories: forest land, grassland, wetlands, settlements, or other land, to cropland or perennial cropland (24). In such a case a direct land-use change emission value (el) should have been calculated in accordance with point 7 of part C of Annex V.
 
 <a id="anx_ix"></a>
 
 ### ANNEX IX
 
-Part A. Feedstocks for the production of biogas for transport and advanced biofuels, the contribution of which towards the minimum shares referred to in the first and fourth subparagraphs of Article 25(1) may be considered to be twice their energy content:Part B. Feedstocks for the production of biofuels and biogas for transport, the contribution of which towards the minimum share established in the first subparagraph of Article 25(1) shall be limited and may be considered to be twice their energy content:
+Part A. Feedstocks for the production of biogas for transport and advanced biofuels, the contribution of which towards the minimum shares referred to in the first and fourth subparagraphs of Article 25(1) may be considered to be twice their energy content:
 
 (a) Algae if cultivated on land in ponds or photobioreactors;
 
@@ -2447,6 +2515,8 @@ Part A. Feedstocks for the production of biogas for transport and advanced biofu
 
 (q) Other ligno-cellulosic material except saw logs and veneer logs.
 
+Part B. Feedstocks for the production of biofuels and biogas for transport, the contribution of which towards the minimum share established in the first subparagraph of Article 25(1) shall be limited and may be considered to be twice their energy content:
+
 (a) Used cooking oil;
 
 (b) Animal fats classified as categories 1 and 2 in accordance with Regulation (EC) No 1069/2009.
@@ -2455,14 +2525,20 @@ Part A. Feedstocks for the production of biogas for transport and advanced biofu
 
 ### ANNEX X
 
-**PART ARepealed Directive with a list of the successive amendments thereto (referred to in Article 37)**
+PART A
+
+**Repealed Directive with a list of the successive amendments thereto (referred to in Article 37)**
 
 | Directive 2009/28/EC of the European Parliament and of the Council(OJ L 140, 5.6.2009, p. 16) |  |
 | --- | --- |
 | Council Directive 2013/18/EU(OJ L 158, 10.6.2013, p. 230) |  |
 | Directive (EU) 2015/1513 of the European Parliament and of the Council(OJ L 239, 15.9.2015, p. 1) | Only Article 2 |
 
-**PART BTime-limits for transposition into national law(referred to in Article 36)**
+PART B
+
+**Time-limits for transposition into national law**
+
+**(referred to in Article 36)**
 
 | Directive | Time-limit for transposition |
 | --- | --- |
@@ -2474,7 +2550,7 @@ Part A. Feedstocks for the production of biogas for transport and advanced biofu
 
 ### ANNEX XI
 
-**Correlation table**
+Correlation table
 
 | Directive 2009/28/EC | This Directive |
 | --- | --- |
@@ -2639,3 +2715,51 @@ Part A. Feedstocks for the production of biogas for transport and advanced biofu
 | Annex IX | Annex IX |
 | — | Annex X |
 | — | Annex XI |
+
+(1) Directive 2009/72/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in electricity and repealing Directive 2003/54/EC (OJ L 211, 14.8.2009, p. 55).
+
+(2) Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1).
+
+(3) Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).
+
+(4) Directive 2009/73/EC of the European Parliament and of the Council of 13 July 2009 concerning common rules for the internal market in natural gas and repealing Directive 2003/55/EC (OJ L 211, 14.8.2009, p. 94).
+
+(5) Commission Implementing Decision (EU) 2017/1442 of 31 July 2017 establishing best available techniques (BAT) conclusions, under Directive 2010/75/EU of the European Parliament and of the Council, for large combustion plants (OJ L 212, 17.8.2017, p. 1).
+
+(6) Regulation (EC) No 1059/2003 of the European Parliament and of the Council of 26 May 2003 on the establishment of a common classification of territorial units for statistics (NUTS) (OJ L 154, 21.6.2003, p. 1).
+
+(7) Directive 98/70/EC of the European Parliament and of the Council of 13 October 1998 relating to the quality of petrol and diesel fuels and amending Council Directive 93/12/EEC (OJ L 350, 28.12.1998, p. 58).
+
+(8) In order to be able to achieve the national objectives set out in this Annex, it is underlined that the State aid guidelines for environmental protection recognise the continued need for national mechanisms of support for the promotion of energy from renewable sources.
+
+(9) Heat or waste heat is used to generate cooling (chilled air or water) through absorption ***chillers***. Therefore, it is appropriate to calculate only the emissions associated to the heat produced per MJ of heat, irrespectively if the end-use of the heat is actual heating or cooling via absorption chillers.
+
+(10) The formula for calculating greenhouse gas emissions from the extraction or cultivation of raw materials eec describes cases where feedstock is converted into biofuels in one step. For more complex supply chains, adjustments are needed for calculating greenhouse gas emissions from the extraction or cultivation of raw materials eec for intermediate products.
+
+(11) Measurements of soil carbon can constitute such evidence, e.g. by a first measurement in advance of the cultivation and subsequent ones at regular intervals several years apart. In such a case, before the second measurement is available, increase in soil carbon would be estimated on the basis of representative experiments or soil models. From the second measurement onwards, the measurements would constitute the basis for determining the existence of an increase in soil carbon and its magnitude.
+
+(12) The quotient obtained by dividing the molecular weight of CO2 (44,010 g/mol) by the molecular weight of carbon (12,011 g/mol) is equal to 3,664.
+
+(13) Commission Decision 2010/335/EU of 10 June 2010 on guidelines for the calculation of land carbon stocks for the purpose of Annex V to Directive 2009/28/EC (OJ L 151, 17.6.2010, p. 19).
+
+(14) Regulation (EU) 2018/841 of the European Parliament and of the Council of 30 May 2018 on the inclusion of greenhouse gas emissions and removals from land use, land use change and forestry in the 2030 climate and energy framework, and amending Regulation (EU) No 525/2013 and Decision No 529/2013/EU (OJ L 156, 19.6.2018, p. 1).
+
+(15) Directive 2009/31/EC of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide and amending Council Directive 85/337/EEC, European Parliament and Council Directives 2000/60/EC, 2001/80/EC, 2004/35/EC, 2006/12/EC, 2008/1/EC and Regulation (EC) No 1013/2006 (OJ L 140, 5.6.2009, p. 114).
+
+(16) Heat or waste heat is used to generate cooling (chilled air or water) through absorption chillers. Therefore, it is appropriate to calculate only the emissions associated to the heat produced, per MJ of heat, irrespectively if the end-use of the heat is actual heating or cooling via absorption chillers.
+
+(17) The formula for calculating greenhouse gas emissions from the extraction or cultivation of raw materials eec describes cases where feedstock is converted into biofuels in one step. For more complex supply chains, adjustments are needed for calculating greenhouse gas emissions from the extraction or cultivation of raw materials eec for intermediate products.
+
+(18) Measurements of soil carbon can constitute such evidence, e.g. by a first measurement in advance of the cultivation and subsequent ones at regular intervals several years apart. In such a case, before the second measurement is available, increase in soil carbon would be estimated on the basis of representative experiments or soil models. From the second measurement onwards, the measurements would constitute the basis for determining the existence of an increase in soil carbon and its magnitude.
+
+(19) The quotient obtained by dividing the molecular weight of CO2 (44,010 g/mol) by the molecular weight of carbon (12,011 g/mol) is equal to 3,664.
+
+(20) Cropland as defined by IPCC.
+
+(21) Perennial crops are defined as multi-annual crops, the stem of which is usually not annually harvested such as short rotation coppice and oil palm.
+
+(22) Commission Decision 2010/335/EU of 10 June 2010 on guidelines for the calculation of land carbon stocks for the purpose of Annex V to Directive 2009/28/EC (OJ L 151, 17.6.2010, p. 19).
+
+(23) The mean values reported here represent a weighted average of the individually modelled feedstock values. The magnitude of the values in the Annex is sensitive to the range of assumptions (such as treatment of co-products, yield developments, carbon stocks and displacement of other commodities) used in the economic models developed for their estimation. Although it is therefore not possible to fully characterise the uncertainty range associated with such estimates, a sensitivity analysis conducted on the results based on a random variation of key parameters, a so-called Monte Carlo analysis, was conducted.
+
+(24) Perennial crops are defined as multi-annual crops, the stem of which is usually not annually harvested such as short rotation coppice and oil palm.

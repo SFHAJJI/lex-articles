@@ -1,0 +1,252 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32020r1406:2020-10-02",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2020/1406 of 2 October 2020 laying down implementing technical standards with regard to procedures and forms for exchange of information and cooperation between competent authorities, ESMA, the Commission and other entities under Articles 24(2) and 25 of Regulation (EU) No 596/2014",
+  "valid_from": "2020-10-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32020r1406/versions/2020-10-02/en.xml",
+    "sha256": "96a8e14945bdc87da01f71a0d00e9e718ef725bcb724ab7fb1c38266c045216f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R1406"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32020r1406:2020-10-02#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation shall apply to cooperation and exchanges of information between the following bodies (referred to in this Regulation as ‘specified bodies’) under the following provisions:\n\n| (a) | between competent authorities and ESMA under Article 24(2) or Article 25(1), (5) or (7) of Regulation (EU) No 596/2014; |\n| --- | --- |\n\n| (b) | between competent authorities and the Commission under the second subparagraph of Article 25(1) of that Regulation, in relation to commodities which are agricultural products; |\n| --- | --- |\n\n| (c) | between competent authorities and the Agency for the Cooperation of Energy Regulators (ACER) or national regulatory authorities under Article 25(3) or (5) of that Regulation, in relation to wholesale energy products; |\n| --- | --- |\n\n| (d) | between ESMA and ACER or national regulatory authorities under Article 25(3) and (5) of that Regulation, in relation to wholesale energy products; |\n| --- | --- |\n\n| (e) | between competent authorities and relevant national regulatory authorities responsible for related spot markets under the first subparagraph of Article 25(8) of that Regulation; |\n| --- | --- |\n\n| (f) | between competent authorities and the entities referred to in points (a) and (b) of the second subparagraph of Article 25(8) of that Regulation, in relation to emission allowances. |\n| --- | --- |",
+      "text_sha256": "9cf0c8a4a4d05f6bc5af7e09c92dd1861848c7a03d63bcf8df420af73d39b3bb",
+      "md_span": {
+        "start": 867,
+        "end": 2234
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32020r1406:2020-10-02#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nFor the purposes of this Regulation, ‘electronic means’ are means of electronic equipment for the processing (including digital compression), storage and transmission of data, employing wires, radio, optical technologies, or any other electromagnetic means.",
+      "text_sha256": "86cd6400135c1e35a37745d2ec6e43f1fac187671fa81a2d9a6b1fac8a4a0059",
+      "md_span": {
+        "start": 2267,
+        "end": 2535
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32020r1406:2020-10-02#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. By 26 November 2020 ESMA shall ask each of the other specified bodies to provide ESMA with details of one or more contact points designated by that body for the purposes of cooperation and exchange of information referred to in Articles 24 and 25 of Regulation (EU) No 596/2014, and to keep ESMA informed of any subsequent changes to those details.\n\n2. ESMA shall ask each of the other specified bodies to confirm or update the details provided by them under paragraph 1 at least once a year.\n\n3. ESMA shall maintain an up-to-date list of the details provided or updated under paragraphs 1 and 2, together with details of ESMA’s own contact points designated for the purposes of this Regulation, and shall circulate the up-to-date list to each of the other specified bodies.\n\n4. The most recent list circulated under paragraph 3 shall be used by the specified bodies for the purposes of cooperation and exchanges of information falling within the scope of this Regulation.",
+      "text_sha256": "a15b38ea95321439e719ed6b1f04d76b981cc7c7ee02e8f955a0ef7dbe70e234",
+      "md_span": {
+        "start": 2568,
+        "end": 3554
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32020r1406:2020-10-02#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Except where otherwise stated in this Regulation, any communications to be made for the purposes of cooperation or exchanges of information falling within the scope of this Regulation shall be made either by post, fax or electronic means.\n\n2. When determining the most appropriate means of communication in any particular case, due account shall be taken of confidentiality considerations, the time necessary for correspondence, the volume of material to be communicated and the ease of access to the information.\n\n3. Without limiting the generality of paragraph 2, where electronic means are used, the electronic means shall be one that ensures the completeness, integrity and confidentiality of the information during its transmission.\n\n4. If ESMA and ACER jointly specify the use of a particular electronic system for communications with ACER and the national regulatory authorities falling within the scope of this Regulation, that system shall be used for the purposes so specified.",
+      "text_sha256": "da0a9a75f6bad38961064074d06c1566a1fe4eb6b5f2e92ba6d622041a3ba2d4",
+      "md_span": {
+        "start": 3587,
+        "end": 4588
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32020r1406:2020-10-02#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. When requesting cooperation or exchange of information falling within the scope of this Regulation, the requesting body shall use the form set out in Annex I and shall:\n\n| (a) | specify details of the information or cooperation that it is seeking; and |\n| --- | --- |\n\n| (b) | identify, where appropriate, any issues relating to the confidentiality of any information that may be obtained. |\n| --- | --- |\n\n2. The requesting body may attach to the request any document or supporting material deemed necessary to support that request.\n\n3. In urgent cases, the requesting body may make the request orally. Unless the specified body to whom the oral request is made (‘the requested body’) agrees otherwise, that oral request shall subsequently be confirmed in writing without undue delay.",
+      "text_sha256": "3c43586c6b85fa2e34b47ea38bbfb7fea7467946232bb7f3ea305cfcc8fc8899",
+      "md_span": {
+        "start": 4621,
+        "end": 5420
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32020r1406:2020-10-02#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nWithin the period specified in the written request or in the written confirmation confirming an oral request made in accordance with Article 5 or, where no period is specified, within 10 working days after receipt of that written request or written confirmation, the requested body shall acknowledge receipt to the requesting body. The acknowledgement of receipt shall be made using the form set out in Annex II and shall include, where possible, an indication of the estimated date of reply for responding to the request.",
+      "text_sha256": "eed0e47546b1bc48bf17362b27d22624c18167fa2b621e3607d163df668b3bbb",
+      "md_span": {
+        "start": 5453,
+        "end": 5986
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32020r1406:2020-10-02#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. If the requested body requires clarification of a request made in accordance with Article 5, it shall seek that clarification from the requesting body, without undue delay, using any means appropriate, either orally or in writing. The requesting body shall provide the clarification without undue delay.\n\n2. In executing a request made in accordance with Article 5, the requested body shall:\n\n| (a) | use the form set out in Annex III; |\n| --- | --- |\n\n| (b) | take all reasonable steps within its powers to provide the requested cooperation or information; and |\n| --- | --- |\n\n| (c) | act without delay and in a manner which ensures that any necessary regulatory action can proceed expediently taking into account the complexity of the request concerned and whether it is necessary to involve third parties. |\n| --- | --- |\n\n3. If the requested body is a competent authority who refuses to act on the request, in full or in part, in one of the exceptional circumstances listed in Article 25(2) of Regulation (EU) No 596/2014, it shall inform the requesting body without delay using any means appropriate, either orally or in writing. It shall subsequently confirm its decision in writing, indicating which of those exceptional circumstances it has relied upon for its refusal.",
+      "text_sha256": "7ea77f226c1f5584e1996c79b69bd2f85fc3aebb7807f9ed5eb0937a5f9e08c9",
+      "md_span": {
+        "start": 6019,
+        "end": 7311
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32020r1406:2020-10-02#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Where the requested body becomes aware of circumstances that may lead to its estimated date of reply having to be deferred by more than 10 working days, it shall notify the requesting body without undue delay.\n\n2. Where appropriate, the requested body shall provide the requesting body with regular updates on the progress of a pending request, including revised estimates of the targeted date of reply.\n\n3. Where the request has been marked as urgent, the requested body shall consult with the requesting body on the frequency of updates that are required.\n\n4. The Specified bodies shall cooperate with each another in order to solve any difficulties that may arise in executing a request.",
+      "text_sha256": "4ab98bdaaf969f6f2631c392c661cb0e17eabaed42e6e2777dfcd2171aedc9f4",
+      "md_span": {
+        "start": 7344,
+        "end": 8048
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32020r1406:2020-10-02#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. For the purposes of any cooperation or exchange of information falling within the scope of this Regulation that is not the subject of a specific request, including any subsequent communications relating to it, the form set out in Annex IV shall be used.\n\n2. In the case of an exchange of information referred to in Article 25, paragraphs 3, 5 and 8 of Regulation (EU) No 596/2014 falling within the scope of this Regulation, if the competent authority believes that the information should be supplied urgently, it may transmit the information orally provided that the information is subsequently transmitted in writing without undue delay using the form set out in Annex IV.",
+      "text_sha256": "00b13c7846784ddd2f0e4a7be98e5a949147a794c7cfb410d86676586ae689ed",
+      "md_span": {
+        "start": 8081,
+        "end": 8769
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32020r1406:2020-10-02#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. For the purposes of ensuring a coordinated action under Article 25(3) of Regulation (EU) No 596/2014 on cross-border cases involving financial instruments related to wholesale energy products, competent authorities shall participate, when requested to do so by ACER, in a cross-border investigatory group established under Article 16(4), point (c), of Regulation (EU) No 1227/2011 of the European Parliament and of the Council (4).\n\n2. For the purposes of ensuring a consistent approach to the enforcement of relevant rules under Regulations (EU) No 596/2014 and (EU) No 1227/2011, irrespective of the existence of a specific case, ESMA and ACER shall consult each other regularly.\n\n3. Where ESMA is requested under the second subparagraph of Article 25(6) of Regulation (EU) No 596/2014 to coordinate an investigation or inspection with cross-border effect, ESMA may establish a temporary group on an ad hoc basis to include the competent authorities of the Member States affected by that investigation or inspection.",
+      "text_sha256": "54e40830fe6e8d3e823cbf7e84f9370d61dd0d500cbaf911fb90b8bb9d6a32ae",
+      "md_span": {
+        "start": 8804,
+        "end": 9837
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2020325EN.01000701-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32020r1406:2020-10-02#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nReferral to ESMA under Article 25(7) of Regulation (EU) No 596/2014 of a rejection or absence of action within a reasonable timeframe shall be made in writing and shall include:\n\n| (a) | a copy of the request for cooperation or exchange of information and any reply received; |\n| --- | --- |\n\n| (b) | the reasons for referring to ESMA the rejection or absence of action. |\n| --- | --- |",
+      "text_sha256": "c69f1e81fe0f4b3668a6449cc1cd3aee88056c1508e620f215ffe54d5a31564c",
+      "md_span": {
+        "start": 9872,
+        "end": 10270
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32020r1406:2020-10-02#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. When using the forms in the Annexes, specified bodies shall include an appropriate confidentiality warning in accordance with the relevant form.\n\n2. The requested body shall not disclose the existence and content of a request for cooperation or exchange of information falling within the scope of this Regulation unless the requesting body consents to such disclosure. Where such consent is not given and where it is not reasonably practicable to comply with the request without disclosing its existence or content, the requesting body shall withdraw or suspend its request until the requesting body is able to provide such consent to disclosure.\n\n3. Information received as part of a request for cooperation or exchange of information falling within the scope of this Regulation shall be used by the specified body receiving the information solely for the performance of its duties and the exercise of its functions or for the purposes of securing compliance with or enforcement of Regulation (EU) No 596/2014 or, where applicable, Regulation (EU) 1227/2011, including but not limited to initiating, conducting, or assisting in, criminal, administrative, civil or disciplinary proceedings resulting from a breach of those Regulations.",
+      "text_sha256": "088291bd72f9f511fd5f39b128617d0a6f5dcb36e45f07f21a488843c87230ea",
+      "md_span": {
+        "start": 10305,
+        "end": 11555
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32020r1406:2020-10-02#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "6a0801534bdcf77fa15497a6fdc7e6677ec1cd520a5d0920f789214bec536875",
+      "md_span": {
+        "start": 11590,
+        "end": 11742
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

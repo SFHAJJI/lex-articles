@@ -1,0 +1,196 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0296:2024-10-31",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2025/296 of 31\u00A0October 2024 supplementing Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-10-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0296/versions/2024-10-31/en.xml",
+    "sha256": "d9416e293e63d21374139dd267bbdcf30493967c29656601b602607ffbcf38dd",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0296"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. When a credit institution submits the crypto-asset white paper to the competent authority for the purpose of its approval in accordance with Article 17(1), point (a), of Regulation (EU) 2023/1114, the credit institution shall provide a contact point for the competent authority to submit all communications to it.\n\n2. Competent authorities shall provide on their website contact details for the purposes of approvals of crypto-asset white papers.\n\n3. The submission of the application for approval of a crypto-asset white paper as well as notifications or communications between the competent authorities, the European Central Bank (ECB) and other relevant central banks and credit institutions in accordance with this Regulation shall be made by electronic means.",
+      "text_sha256": "5ff8f5d576a73a4a0f535f2657c4e066f23fbc8590db8cf24c4ce6a10612f2e7",
+      "md_span": {
+        "start": 649,
+        "end": 1427
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. The competent authority shall acknowledge receipt of the application for approval of a crypto-asset white paper within 2 working days following the receipt of the application.\n\n2. The acknowledgement referred to in paragraph 1 shall include the following information:\n\n| (a) | the reference number of the application; |\n| --- | --- |\n\n| (b) | the contact point within the competent authority to which queries regarding the application may be addressed. |\n| --- | --- |",
+      "text_sha256": "f4f6032cec6fdaaded55125bd2906872f900050e846bf9bd44d62eb3df4b333f",
+      "md_span": {
+        "start": 1460,
+        "end": 1942
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThe competent authority shall, within 20 working days of receipt of the application for approval of a crypto-asset white paper, assess the completeness of the crypto-asset white paper with regard to the requirements referred to in Article 19(1) of Regulation (EU) 2023/1114.",
+      "text_sha256": "2357dd754c2f79be6ce167ea8477abd2375e3dfc693a417a9f9a87e7eda4393b",
+      "md_span": {
+        "start": 1975,
+        "end": 2260
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Where the competent authority concludes that the crypto-asset white paper is not complete with regard to the requirements of Article 19(1) of Regulation (EU) 2023/1114, the competent authority shall inform the credit institution of the missing information and shall set a deadline by which that credit institution is required to provide the missing information.\n\n2. The deadline for providing any missing information referred to in paragraph 1 shall not exceed 20 working days from the date of the request. Until the expiry of the deadline referred to in paragraph 1, the period set in Article 3 shall be suspended. Any further requests by the competent authority for completion or clarification of the information for the assessment under Article 3 shall be at its discretion but shall not result in a suspension of the set period.\n\n3. Following any request from the competent authority referred to in paragraph 1, the credit institution shall submit a revised crypto-asset white paper to the competent authority within the deadline set in the request. The submission by the credit institution shall include the following:\n\n| (a) | the revised crypto-asset white paper in a clean, unmarked version; |\n| --- | --- |\n\n| (b) | the revised crypto-asset white paper in a version with all the changes clearly marked, highlighting all supplementary information that is new compared to the original version of the crypto-asset white paper submitted in accordance with Article 1; |\n| --- | --- |\n\n| (c) | an explanation as to how the supplementary information, reflected in the version referred to in point (b), addresses the competent authority’s request pursuant to paragraph 1 for providing missing information. |\n| --- | --- |",
+      "text_sha256": "228da8b1b117819948b8dc1bdd2420cf5c0dd0da53980949dd755c09185cec3d",
+      "md_span": {
+        "start": 2293,
+        "end": 4029
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Where, after the process set out in Article 4 is completed, the competent authority assesses the crypto-asset white paper as complete, it shall notify the credit institution of the completeness of the crypto-asset white paper. The notification shall set the date at which the crypto-asset white paper is deemed complete.\n\n2. Where, after the process set out in Article 4 is completed, the competent authority assesses the crypto-asset white paper as incomplete, it shall reject the application for approval of the crypto-asset white paper and notify its decision to the credit institution.",
+      "text_sha256": "f9360477cf74ae87b36649646185c7ccc0af56309946b649581d2b9c4979043a",
+      "md_span": {
+        "start": 4062,
+        "end": 4665
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. The communication by the competent authority referred to in Article 17(5), first subparagraph, of Regulation (EU) 2023/1114 shall be made no later than 2 working days from the notification referred to in Article 5(1) of this Regulation.\n\n2. The ECB and, where applicable, the relevant central bank as referred to in Article 17(5), first subparagraph, of Regulation (EU) 2023/1114, shall, within 2 working days of the receipt of the complete information, provide the competent authority with both of the following:\n\n| (a) | acknowledgement of receipt of the information; |\n| --- | --- |\n\n| (b) | the contact point to which queries regarding the application may be addressed. |\n| --- | --- |",
+      "text_sha256": "37cdbf88bd4c27aa728d67b56d9cb28194ffd7bf319393d3e6725fb5312b2465",
+      "md_span": {
+        "start": 4698,
+        "end": 5401
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nFollowing a positive opinion by the ECB or, where applicable, the relevant central bank as referred to in Article 17(5), first subparagraph, of Regulation (EU) 2023/1114, or following the expiration of the period of 20 working days laid down in Article 17(5), second subparagraph, of that Regulation without any opinion issued by the ECB or the relevant central bank, the competent authority shall carry out a substantive assessment of the crypto-asset white paper with regard to the requirements referred to in Article 19 of that Regulation.",
+      "text_sha256": "23c84dd95bf45af46a63b8f3244bd50dce9eca7d99b8383b562ff8ac8b2279c3",
+      "md_span": {
+        "start": 5434,
+        "end": 5987
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Within 10 working days of a positive opinion by the ECB or, where applicable, the relevant central bank as referred to in Article 17(5), first subparagraph, of Regulation (EU) 2023/1114, or following the expiration of the period of 20 working days laid down in Article 17(5), second subparagraph, of that Regulation without any opinion issued by the ECB or the relevant central bank, the competent authority may notify the credit institution of a duly justified request for changes of the crypto-asset white paper. The request shall set a deadline by which that credit institution is required to provide the updated crypto-asset white paper.\n\n2. The deadline for the credit institution to provide the updated crypto-asset white paper requested by the competent authority as referred to in paragraph 1 shall not exceed 10 working days following the issuance of the request for changes by the competent authority.\n\n3. Following any request from the competent authority referred to in paragraph 1, the credit institution shall submit a revised crypto-asset white paper to the competent authority within the deadline set out in the request. The submission by the credit institution shall include all of the following:\n\n| (a) | the revised crypto-asset white paper in a clean, unmarked version; |\n| --- | --- |\n\n| (b) | the revised crypto-asset white paper in a version with all the changes clearly marked, highlighting all changes made compared to the version of the crypto-asset white paper submitted either in accordance with Article 1, or, where additional information had been requested by the competent authority, in accordance with Article 4; |\n| --- | --- |\n\n| (c) | an explanation as to how the changes made, reflected in the version referred to in point (b), address the competent authority’s request, pursuant to paragraph 1, for making substantive changes to the crypto-asset white paper. |\n| --- | --- |",
+      "text_sha256": "a65280eef0be2a554c33174605276971d76acf7fdce2ec89700192378f90101a",
+      "md_span": {
+        "start": 6020,
+        "end": 7945
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. The competent authority shall notify the credit institution of its final decision regarding the approval of the crypto-asset white paper within 10 working days from the receipt of the new crypto-asset white paper referred to in Article 8(3) or, where no changes to the crypto-asset white paper are requested, 10 working days from a positive opinion by the ECB or, where applicable, the relevant central bank as referred to in Article 17(5), first subparagraph, of Regulation (EU) 2023/1114, or following the expiration of the period of 20 working days laid down in Article 17(5), second subparagraph, of that Regulation without any opinion issued by the ECB or the relevant central bank.\n\n2. The crypto-asset white paper shall not be published until the competent authority of the home Member State has approved it.",
+      "text_sha256": "b1119cb4e2ef1e01098e939cc2f99a3e05f5624982d3127b15ece64a312ee62b",
+      "md_span": {
+        "start": 7978,
+        "end": 8807
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32025r0296:2024-10-31#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "bc76379acc813c6b825e443aa7fba591492be48eb630cb7c4154716c8b2646e8",
+      "md_span": {
+        "start": 8842,
+        "end": 8994
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

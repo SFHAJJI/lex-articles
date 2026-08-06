@@ -1,0 +1,167 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r1603:2019-07-18",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2019/1603 of 18 July 2019 supplementing Directive 2003/87/EC",
+  "valid_from": "2019-07-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r1603/versions/2019-07-18/en.xml",
+    "sha256": "25fe6e434c0f0ed4f60b10534dc68b2ca4d4b2b79f3c25528f0a62a879c36e20",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1603"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. The reporting obligations provided for in Article 2 shall only apply to aircraft operators that fulfil all of the following conditions:\n\n| (a) | they hold an air operator certificate issued by a Member State or are registered in a Member State, including in the outermost regions, dependencies and territories of that Member State; |\n| --- | --- |\n\n| (b) | they produce annual CO2 emissions greater than 10 000 tonnes from the use of aeroplanes with a maximum certified take-off mass greater than 5 700 kg conducting flights between aerodromes located in different States in the European Economic Area (EEA) or flights referred to in Article 2(1), from 1 January 2019. |\n| --- | --- |\n\n2. For the purposes of point (b) of paragraph 1, emissions from the following types of flights shall not be taken into account:\n\n| (a) | State flights; |\n| --- | --- |\n\n| (b) | humanitarian flights; |\n| --- | --- |\n\n| (c) | medical flights; |\n| --- | --- |\n\n| (d) | military flights; |\n| --- | --- |\n\n| (e) | firefighting flights. |\n| --- | --- |",
+      "text_sha256": "0ed8c47fa1b28d7ac9cdf9c4ad2a3cce026762dfea1783028c353bbf8c00a3d4",
+      "md_span": {
+        "start": 642,
+        "end": 1688
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Aircraft operators shall report emissions from the following flights:\n\n| (a) | flights between aerodromes located in Member States and aerodromes located in third countries; |\n| --- | --- |\n\n| (b) | flights between aerodromes located in Member States and aerodromes located in outermost regions, dependencies or territories of other Member States; |\n| --- | --- |\n\n| (c) | flights between aerodromes located in outermost regions, dependencies or territories of Member States and aerodromes located in third countries or dependencies or territories of other Member States. |\n| --- | --- |\n\n2. Paragraph 1 shall apply also in respect of commercial air transport operators operating fewer than 243 flights per period of three consecutive four-month periods that depart from or arrive in an aerodrome situated in the territory of a Member State.\n\n3. Aircraft operators are recommended to also verify and report their emissions from flights between aerodromes located in two different third countries.\n\n4. Paragraphs 1 and 3 shall apply with respect to emissions from any type of flight except for the types of flights referred to in Article 1(2), including:\n\n| (a) | flights for the purposes of training or search and rescue; |\n| --- | --- |\n\n| (b) | flights under visual flight rules; |\n| --- | --- |\n\n| (c) | flights for scientific research and testing; |\n| --- | --- |\n\n| (d) | Public Service Obligation flights. |\n| --- | --- |",
+      "text_sha256": "6e3f8fe81877aece4ee11fc4a543e9eb20d115decf5f04179e0870ec1e928553",
+      "md_span": {
+        "start": 1721,
+        "end": 3162
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. For the purposes of reporting their emissions pursuant to Article 2 of this Regulation, aircraft operators shall be subject to the same requirements as those laid down in Article 14 of Directive 2003/87/EC and Regulation (EU) No 601/2012. From 1 January 2021, they shall be subject to the same requirements as those laid down in Implementing Regulation (EU) 2018/2066.\n\n2. The Commission shall publish an electronic data exchange format for the purposes of reporting emissions from the flights referred to in Article 2. Aircraft operators shall use that electronic data exchange format.",
+      "text_sha256": "2462e09ef43a3fac696baeb6162a9c176df81a18cde89852c58046966762f067",
+      "md_span": {
+        "start": 3195,
+        "end": 3795
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThe verification of emission data to be reported pursuant to Article 2 of this Regulation and the accreditation of verifiers carrying out that verification shall be subject to the same requirements as those laid down in Article 15 of Directive 2003/87/EC and Part B of Annex V to that Directive, as well as Implementing Regulation (EU) 2018/2067.",
+      "text_sha256": "af3e43744e21e6e86c31d514d7196cc4e7fc2fabd7f12d26e7bce0a504364a22",
+      "md_span": {
+        "start": 3828,
+        "end": 4185
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nAn aircraft operator that is listed in the Annex to Commission Regulation (EC) No 748/2009 (5) shall report its emissions to its administering Member State specified in that Annex.\n\nAn aircraft operator that is not listed in the Annex to Regulation (EC) No 748/2009 shall report its emissions to the Member State that issued its air operator certificate or, where an air operator certificate has not been issued by a Member State, the Member State where that aircraft operator has its place of judicial registration.",
+      "text_sha256": "73d577bce3458c3dc411eed8074171be2fa5f43e1e58102dac16cfa3143e6dfd",
+      "md_span": {
+        "start": 4218,
+        "end": 4745
+      },
+      "citations": [
+        {
+          "href": "#ntr5-L_2019250EN.01001001-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nUpon request by a Member State, the Commission may request the assistance of Eurocontrol to improve the accuracy of emissions data, with a view to their transmission in accordance with Article 7.",
+      "text_sha256": "06e1bc680ad528faec04be90e7341bd4ba9b27a76d7e767b29c24bb8639a6e07",
+      "md_span": {
+        "start": 4778,
+        "end": 4984
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nWithout prejudice to the revision of Directive 2003/87/EC by the European Parliament and the Council, Member States shall transmit to the Secretariat of the International Civil Aviation Organisation the relevant emissions data that have been reported pursuant to Article 14 of Directive 2003/87/EC and pursuant to this Regulation. Before that transmission, competent authorities shall conduct order of magnitude checks on the data to be transmitted. At the same time, Member States shall also transmit this emissions data to the Commission.\n\nThe emissions factor specified in Annex 16, Volume IV to the Convention on International Civil Aviation signed on 7 December 1944 (Chicago Convention) for the fuel Jet Kerosene (Jet A1 or Jet A) shall be used for the purposes of the transmission of emissions data pursuant to the first paragraph of this Article.",
+      "text_sha256": "fbfc136ba50a21986652e6af8d011ab95d0dea61eff369b2b55e2303f1782a38",
+      "md_span": {
+        "start": 5017,
+        "end": 5882
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32019r1603:2019-07-18#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nThis Regulation shall enter into force on the twentieth day following its publication in the Official Journal of the European Union.",
+      "text_sha256": "b8d22446d91211641685717120a24465d28bcb1526836a1633d9f10c527d53cb",
+      "md_span": {
+        "start": 5915,
+        "end": 6058
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

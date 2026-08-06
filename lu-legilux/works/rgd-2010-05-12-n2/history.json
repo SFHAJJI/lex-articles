@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -33,5 +34,39 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2016-04-30",
+          "valid_to": null,
+          "text_sha256": "f49dbd9acd98ea9ee945fdfeded5fa1a2e1e108da6bd68817c87b48704f6bd04",
+          "in_version": "lu-legilux:rgd-2010-05-12-n2:2016-04-30",
+          "article_valid_from": "2016-04-30"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2016-04-30",
+          "valid_to": null,
+          "text_sha256": "ce7feee0623514c3336e534338e2ce63fa85bdf4b6875240ddb2ec4bc7888fcb",
+          "in_version": "lu-legilux:rgd-2010-05-12-n2:2016-04-30",
+          "article_valid_from": "2016-04-30"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2016-04-30",
+          "valid_to": null,
+          "text_sha256": "c4451df7629ea1acf63ef96cc3cd4a2d7641dd5c7578e91a10d4dce185b02a0c",
+          "in_version": "lu-legilux:rgd-2010-05-12-n2:2016-04-30",
+          "article_valid_from": "2016-04-30"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

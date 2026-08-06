@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0206:2014-03-04",
+  "language": "en",
+  "title": "Commission Regulation (EU) No\u00A0206/2014 of 4\u00A0March 2014 amending Regulation (EU) No\u00A0601/201…",
+  "valid_from": "2014-03-04",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0206/versions/2014-03-04/en.xml",
+    "sha256": "80545b60da2765547f85ef300b634dcfef967856042b7d0e84826b78a5f47db2",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0206"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0206:2014-03-04#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nAnnex VI to Regulation (EU) No 601/2012 is amended as set out in the Annex to this Regulation.",
+      "text_sha256": "ec8ae0b18708d40dca343542bf760c10d495d982a9445563014629625bcdeab8",
+      "md_span": {
+        "start": 636,
+        "end": 741
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0206:2014-03-04#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2013.",
+      "text_sha256": "b0f21408662764ab635cce3662a40f98028aed88f774e8704a13959b8e63737d",
+      "md_span": {
+        "start": 774,
+        "end": 952
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

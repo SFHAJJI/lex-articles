@@ -1,0 +1,298 @@
+{
+  "lex_work_id": "eu-eurlex:32014r1151",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "art_1": [
+      {
+        "valid_from": "2014-06-04",
+        "valid_to": "2022-03-05",
+        "text_sha256": "021c9015150389c514d91788dd156ea5fc4a5ea5f7b3b096d67f4809d84a0486",
+        "in_version": "eu-eurlex:32014r1151:2014-06-04"
+      },
+      {
+        "valid_from": "2022-03-06",
+        "valid_to": null,
+        "text_sha256": "e52cac68b4aedf0e0e063a4ce3bf5dd61a1dfadd9a84d9640a98acaea6f272d9",
+        "in_version": "eu-eurlex:32014r1151:2022-03-06"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2014-06-04",
+        "valid_to": "2022-03-05",
+        "text_sha256": "b4799fce2148f6939113916adfc8833fe03dab57e313b911012365c91f3fed8a",
+        "in_version": "eu-eurlex:32014r1151:2014-06-04"
+      },
+      {
+        "valid_from": "2022-03-06",
+        "valid_to": null,
+        "text_sha256": "b071ee6a0d715e1ebb8783033ea969ee94c1ac019e09f7e8ab7ded6db66150aa",
+        "in_version": "eu-eurlex:32014r1151:2022-03-06"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2014-06-04",
+        "valid_to": "2022-03-05",
+        "text_sha256": "2fc4331c287cf563f0b5bc90fb4e31ba47f4664c1b37e60b58cbe459de082180",
+        "in_version": "eu-eurlex:32014r1151:2014-06-04"
+      },
+      {
+        "valid_from": "2022-03-06",
+        "valid_to": null,
+        "text_sha256": "9e02eb9f85eff371d54b22c3702c326dea22e509554d76d979b1a9dfb42d43b7",
+        "in_version": "eu-eurlex:32014r1151:2022-03-06"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2014-06-04",
+        "valid_to": "2022-03-05",
+        "text_sha256": "41985ad9252a607509f3b5151c8ae7fe2f7a69e68577b15a34eaa03f736fd43d",
+        "in_version": "eu-eurlex:32014r1151:2014-06-04"
+      },
+      {
+        "valid_from": "2022-03-06",
+        "valid_to": null,
+        "text_sha256": "73c26a712808ae31064e8150b1dcee7cc5aa19f4e074476332c3c7f3c4be9ac5",
+        "in_version": "eu-eurlex:32014r1151:2022-03-06"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2014-06-04",
+        "valid_to": "2022-03-05",
+        "text_sha256": "a539d3786c5c1ac003fe23590900b5b778dc1cc32b186c7b869e090b8bd1bc84",
+        "in_version": "eu-eurlex:32014r1151:2014-06-04"
+      },
+      {
+        "valid_from": "2022-03-06",
+        "valid_to": null,
+        "text_sha256": "9764b1495bd66d78ad984c7fafe8292a91b27e1a9f789492f85bfe8727c6d5c3",
+        "in_version": "eu-eurlex:32014r1151:2022-03-06"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2014-06-04",
+        "valid_to": "2022-03-05",
+        "text_sha256": "fa276107727fcac2c4e64f6e6728350e99397b510291050a1165e007d077a146",
+        "in_version": "eu-eurlex:32014r1151:2014-06-04"
+      },
+      {
+        "valid_from": "2022-03-06",
+        "valid_to": "2022-12-28",
+        "text_sha256": "b38c5fc69d4a549dfced299dafa90b773a7530281068b0a6eaae7091be699fd9",
+        "in_version": "eu-eurlex:32014r1151:2022-03-06"
+      },
+      {
+        "valid_from": "2022-12-29",
+        "valid_to": null,
+        "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+        "in_version": "eu-eurlex:32014r1151:2022-12-29"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "en": {
+      "art_1": [
+        {
+          "valid_from": "2014-06-04",
+          "valid_to": "2022-03-05",
+          "text_sha256": "021c9015150389c514d91788dd156ea5fc4a5ea5f7b3b096d67f4809d84a0486",
+          "in_version": "eu-eurlex:32014r1151:2014-06-04"
+        },
+        {
+          "valid_from": "2022-03-06",
+          "valid_to": null,
+          "text_sha256": "e52cac68b4aedf0e0e063a4ce3bf5dd61a1dfadd9a84d9640a98acaea6f272d9",
+          "in_version": "eu-eurlex:32014r1151:2022-03-06"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2014-06-04",
+          "valid_to": "2022-03-05",
+          "text_sha256": "b4799fce2148f6939113916adfc8833fe03dab57e313b911012365c91f3fed8a",
+          "in_version": "eu-eurlex:32014r1151:2014-06-04"
+        },
+        {
+          "valid_from": "2022-03-06",
+          "valid_to": null,
+          "text_sha256": "b071ee6a0d715e1ebb8783033ea969ee94c1ac019e09f7e8ab7ded6db66150aa",
+          "in_version": "eu-eurlex:32014r1151:2022-03-06"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2014-06-04",
+          "valid_to": "2022-03-05",
+          "text_sha256": "2fc4331c287cf563f0b5bc90fb4e31ba47f4664c1b37e60b58cbe459de082180",
+          "in_version": "eu-eurlex:32014r1151:2014-06-04"
+        },
+        {
+          "valid_from": "2022-03-06",
+          "valid_to": null,
+          "text_sha256": "9e02eb9f85eff371d54b22c3702c326dea22e509554d76d979b1a9dfb42d43b7",
+          "in_version": "eu-eurlex:32014r1151:2022-03-06"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2014-06-04",
+          "valid_to": "2022-03-05",
+          "text_sha256": "41985ad9252a607509f3b5151c8ae7fe2f7a69e68577b15a34eaa03f736fd43d",
+          "in_version": "eu-eurlex:32014r1151:2014-06-04"
+        },
+        {
+          "valid_from": "2022-03-06",
+          "valid_to": null,
+          "text_sha256": "73c26a712808ae31064e8150b1dcee7cc5aa19f4e074476332c3c7f3c4be9ac5",
+          "in_version": "eu-eurlex:32014r1151:2022-03-06"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2014-06-04",
+          "valid_to": "2022-03-05",
+          "text_sha256": "a539d3786c5c1ac003fe23590900b5b778dc1cc32b186c7b869e090b8bd1bc84",
+          "in_version": "eu-eurlex:32014r1151:2014-06-04"
+        },
+        {
+          "valid_from": "2022-03-06",
+          "valid_to": null,
+          "text_sha256": "9764b1495bd66d78ad984c7fafe8292a91b27e1a9f789492f85bfe8727c6d5c3",
+          "in_version": "eu-eurlex:32014r1151:2022-03-06"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2014-06-04",
+          "valid_to": "2022-03-05",
+          "text_sha256": "fa276107727fcac2c4e64f6e6728350e99397b510291050a1165e007d077a146",
+          "in_version": "eu-eurlex:32014r1151:2014-06-04"
+        },
+        {
+          "valid_from": "2022-03-06",
+          "valid_to": "2022-12-28",
+          "text_sha256": "b38c5fc69d4a549dfced299dafa90b773a7530281068b0a6eaae7091be699fd9",
+          "in_version": "eu-eurlex:32014r1151:2022-03-06"
+        },
+        {
+          "valid_from": "2022-12-29",
+          "valid_to": null,
+          "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+          "in_version": "eu-eurlex:32014r1151:2022-12-29"
+        }
+      ]
+    },
+    "fr": {
+      "art_1": [
+        {
+          "valid_from": "2014-06-04",
+          "valid_to": "2022-03-05",
+          "text_sha256": "4926cdbb555683d7a37f157d123009665a191dff9e307babbed763fe52ad9f74",
+          "in_version": "eu-eurlex:32014r1151:2014-06-04"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2014-06-04",
+          "valid_to": "2022-03-05",
+          "text_sha256": "a8ba29f544abfa51bc01891d6459e3dfb86c4addafad33b6661524fa10683100",
+          "in_version": "eu-eurlex:32014r1151:2014-06-04"
+        },
+        {
+          "valid_from": "2022-03-06",
+          "valid_to": null,
+          "text_sha256": "fab09623dc18dd9671568050289be649c9a8be70fdd9f3fe14fcb4052711e045",
+          "in_version": "eu-eurlex:32014r1151:2022-03-06"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2014-06-04",
+          "valid_to": "2022-03-05",
+          "text_sha256": "dec18fcd69cc3b30fbd37fee01f0a9e22c5715a7f8b76226f5001b6cdc561aa7",
+          "in_version": "eu-eurlex:32014r1151:2014-06-04"
+        },
+        {
+          "valid_from": "2022-03-06",
+          "valid_to": null,
+          "text_sha256": "9de4ad9b8dd93be4f54a5f91ac8c909eeaf859686e62e42532f4f0df5e551341",
+          "in_version": "eu-eurlex:32014r1151:2022-03-06"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2014-06-04",
+          "valid_to": "2022-03-05",
+          "text_sha256": "f0bdc9328c30926b9dbabe9dd856c9f17132570010c92c37c2d57fdfc72bda09",
+          "in_version": "eu-eurlex:32014r1151:2014-06-04"
+        },
+        {
+          "valid_from": "2022-03-06",
+          "valid_to": null,
+          "text_sha256": "916946c136e1367dd9d420aff639b6632344c68066559bb0247a2b9b37ee48a4",
+          "in_version": "eu-eurlex:32014r1151:2022-03-06"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2014-06-04",
+          "valid_to": "2022-03-05",
+          "text_sha256": "36c2eda7cbba03fa903502cabb51952e389518c7408ee13e61bcc0ae9c9e9507",
+          "in_version": "eu-eurlex:32014r1151:2014-06-04"
+        },
+        {
+          "valid_from": "2022-03-06",
+          "valid_to": null,
+          "text_sha256": "c4aa006431decd26763b56bb9c331442e85169e5e33d23b36cab7eb58324d4c4",
+          "in_version": "eu-eurlex:32014r1151:2022-03-06"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2014-06-04",
+          "valid_to": "2022-03-05",
+          "text_sha256": "0eaefb1eb12d2e388a1cbe04c2dcfecd3332a109b3251bf3b1563a3ebd0f7ba0",
+          "in_version": "eu-eurlex:32014r1151:2014-06-04"
+        },
+        {
+          "valid_from": "2022-03-06",
+          "valid_to": null,
+          "text_sha256": "4f0ebbabfa920eee8504f4a4b14ec37f4c5575e0546539da4bd2e5666bcff6cd",
+          "in_version": "eu-eurlex:32014r1151:2022-03-06"
+        }
+      ],
+      "art_premier": [
+        {
+          "valid_from": "2022-03-06",
+          "valid_to": null,
+          "text_sha256": "3ceaff0bafdc390bf6816fc22a3c0c858b1f0256a3c451d1363f4f0159c4724f",
+          "in_version": "eu-eurlex:32014r1151:2022-03-06"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": [
+      {
+        "type": "removed",
+        "anchor": "art_1",
+        "at_version": "eu-eurlex:32014r1151:2022-03-06"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_premier",
+        "at_version": "eu-eurlex:32014r1151:2022-03-06"
+      }
+    ]
+  }
+}

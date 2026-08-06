@@ -1,0 +1,69 @@
+{
+  "lex_work_id": "eu-eurlex:32009r0280",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "art_1": [
+      {
+        "valid_from": "2009-04-06",
+        "valid_to": null,
+        "text_sha256": "0aadcf40617e034d0433b0186e52ab9813621b92464c0e2e05b23ea850b87e34",
+        "in_version": "eu-eurlex:32009r0280:2009-04-06"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2009-04-06",
+        "valid_to": null,
+        "text_sha256": "d3c785c690b8bdf8d8c2902a03c64cf7a3eba91863fcdb12add1ee83ed37e9d5",
+        "in_version": "eu-eurlex:32009r0280:2009-04-06"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "en": {
+      "art_1": [
+        {
+          "valid_from": "2009-04-06",
+          "valid_to": null,
+          "text_sha256": "0aadcf40617e034d0433b0186e52ab9813621b92464c0e2e05b23ea850b87e34",
+          "in_version": "eu-eurlex:32009r0280:2009-04-06"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2009-04-06",
+          "valid_to": null,
+          "text_sha256": "d3c785c690b8bdf8d8c2902a03c64cf7a3eba91863fcdb12add1ee83ed37e9d5",
+          "in_version": "eu-eurlex:32009r0280:2009-04-06"
+        }
+      ]
+    },
+    "fr": {
+      "art_1": [
+        {
+          "valid_from": "2009-04-06",
+          "valid_to": null,
+          "text_sha256": "61d7ec3dd5e208062ee4776bd0650028864c72015eedada9addaeb2a1cb86835",
+          "in_version": "eu-eurlex:32009r0280:2009-04-06"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2009-04-06",
+          "valid_to": null,
+          "text_sha256": "12cf78a3c921d990d5ec149b06cbfa703916567f0fda2e6dc3c14301fbc536be",
+          "in_version": "eu-eurlex:32009r0280:2009-04-06"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": []
+  }
+}

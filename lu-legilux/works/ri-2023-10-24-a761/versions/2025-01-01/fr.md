@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:ri-2023-10-24-a761:2025-01-01'
-title: 'Version consolidée applicable au 21/01/2026 : Règlement de la Chambre des Députés.'
+title: 'Version consolidée applicable au 01/01/2026 : Règlement de la Chambre des Députés.'
 valid_from: '2025-01-01'
 valid_to: '2025-01-21'
 source: 'https://legilux.public.lu/eli/etat/leg/ri/2023/10/24/a761/consolide/20250101/fr'

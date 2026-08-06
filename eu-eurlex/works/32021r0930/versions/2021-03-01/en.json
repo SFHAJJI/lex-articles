@@ -1,0 +1,111 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r0930:2021-03-01",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2021/930 of 1\u00A0March 2021 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2021-03-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r0930/versions/2021-03-01/en.xml",
+    "sha256": "78ca3eec7360fb9b60801b67d10e19f98a1651ab88eeec5a1d6b3652842e4d38",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0930"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r0930:2021-03-01#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. For the purposes of Article 181(1), point (b), or 182(1), point (b) of Regulation (EU) No 575/2013, an economic downturn shall be identified for each type of exposure, as defined in Article 142(1), point (2), of that Regulation.\n\n2. In identifying an economic downturn for a given type of exposures, the following specification rules shall apply:\n\n| (a) | the nature of an economic downturn is characterised by a set of economic indicators that are classified as relevant for exposures within that type of exposures in accordance with the rules laid down in Article 2 (‘the relevant indicator set’); |\n| --- | --- |\n\n| (b) | in terms of severity, an economic downturn is indicated by the most severe value relating to a 12-month period (‘the most severe 12-month value’) that is observed, for each economic indicator in the relevant indicator set, over a historical time-span determined for that economic indicator in accordance with Article 3 (‘the applicable time-span’); |\n| --- | --- |\n\n| (c) | an economic downturn is comprised of one or more distinct downturn periods covering the peaks and troughs related to the most-severe 12-month values for the economic indicators in the relevant indicator set, each such period being of a duration determined in accordance with Article 4 (‘the duration of a downturn period’). |\n| --- | --- |\n\n3. For the purposes of paragraph 2, point (b), the 12-month periods to which values for an economic indicator relate may start at any point in time within the applicable time-span.\n\n4. For the purposes of paragraph 2, point (c):\n\n| (a) | a downturn period is a period in which an economic indicator reaches its most severe 12-month value; |\n| --- | --- |\n\n| (b) | where, for different, significantly correlated economic indicators, the peaks or troughs related to the most severe 12-month values are reached simultaneously or shortly after each other, the downturn periods in which those indicators reach their most severe 12-month value are to be treated as one single downturn period covering the most severe 12-month values for all those indicators. |\n| --- | --- |",
+      "text_sha256": "1c32af2ea33306d7ef80476450c198d25d27f5c2606bdace0515fea2c37db8e7",
+      "md_span": {
+        "start": 648,
+        "end": 2770
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r0930:2021-03-01#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. The following economic indicators shall be classified as relevant for exposures within a given type of exposures:\n\n| (a) | for all types of exposures:(i)gross domestic product (GDP);(ii)unemployment rate;(iii)externally provided aggregate default rates, where available;(iv)externally provided aggregate credit losses, where available; |\n| --- | --- |\n| (i) | gross domestic product (GDP); |\n| (ii) | unemployment rate; |\n| (iii) | externally provided aggregate default rates, where available; |\n| (iv) | externally provided aggregate credit losses, where available; |\n\n| (b) | in addition to the economic indicators listed in point (a):(i)for exposures to corporates or to retail small and medium-sized enterprises (SMEs): sector- or industry-specific indices;(ii)for residential property exposures to corporates or to retail obligors: house prices or house price indices;(iii)for commercial immovable property exposures to corporates or to SME retail obligors: commercial immovable property prices or commercial immovable property price indices, and commercial immovable property rental prices or commercial immovable property rental price indices;(iv)for retail exposures other than those falling within point (i), (ii) or (iii): total household debt and disposable personal income, in each case where available;(v)for specialised lending exposures:—in the case of immovable property: immovable property prices or immovable property price indices, immovable property rental prices, or immovable property rental price indices for residential, commercial or industrial property, as applicable,—in the case of project finance: prices for the underlying products supplied,—in the case of object finance: indices for the relevant type or types of collateral,—in the case of commodity finance: prices or price indices for the relevant type of commodity;(vi)for exposures to institutions: financial credit indices; |\n| --- | --- |\n| (i) | for exposures to corporates or to retail small and medium-sized enterprises (SMEs): sector- or industry-specific indices; |\n| (ii) | for residential property exposures to corporates or to retail obligors: house prices or house price indices; |\n| (iii) | for commercial immovable property exposures to corporates or to SME retail obligors: commercial immovable property prices or commercial immovable property price indices, and commercial immovable property rental prices or commercial immovable property rental price indices; |\n| (iv) | for retail exposures other than those falling within point (i), (ii) or (iii): total household debt and disposable personal income, in each case where available; |\n| (v) | for specialised lending exposures:—in the case of immovable property: immovable property prices or immovable property price indices, immovable property rental prices, or immovable property rental price indices for residential, commercial or industrial property, as applicable,—in the case of project finance: prices for the underlying products supplied,—in the case of object finance: indices for the relevant type or types of collateral,—in the case of commodity finance: prices or price indices for the relevant type of commodity; |\n| — | in the case of immovable property: immovable property prices or immovable property price indices, immovable property rental prices, or immovable property rental price indices for residential, commercial or industrial property, as applicable, |\n| — | in the case of project finance: prices for the underlying products supplied, |\n| — | in the case of object finance: indices for the relevant type or types of collateral, |\n| — | in the case of commodity finance: prices or price indices for the relevant type of commodity; |\n| (vi) | for exposures to institutions: financial credit indices; |\n\n| (c) | in addition to the economic indicators listed in points (a) and (b), any other economic indicators that are explanatory variables for, or indicators of, the economic cycle specific to exposures in the type of exposures under consideration. |\n| --- | --- |\n\n2. The economic indicators identified for exposures within a type of exposures in accordance with paragraph 1 shall reflect the geographical distribution and, where applicable, the sectoral distribution of the exposures within that type of exposures.\n\nFor that purpose, an economic indicator shall be included in the relevant indicator set as follows:\n\n| (a) | once for each jurisdiction or, where appropriate, once for each geographical area within a jurisdiction, covered by a material share of that type of exposures; and |\n| --- | --- |\n\n| (b) | once for each sector, where applicable, covered by a material share of that type of exposures. |\n| --- | --- |\n\nHowever, where economic indicators to be included in accordance with the second subparagraph show strong co-movement across the different jurisdictions, or where appropriate, different geographical areas within a jurisdiction, or, where applicable, different sectors, a common economic indicator may instead be selected to reflect those jurisdictions, geographical areas or sectors overall.",
+      "text_sha256": "78232e143e471f0e5de52ee50f44a5328b4f1fb921be4015eece8f16e78ad442",
+      "md_span": {
+        "start": 2803,
+        "end": 7913
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32021r0930:2021-03-01#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nFor the purposes of Article 1(2), point (b), the historical time-span applicable to an economic indicator shall be the period of 20 years ending at the point in time at which the institution identifies the economic downturn in accordance with this Regulation. However, where the variability of an economic indicator over that 20-year period is not representative of the likely range of variability of that indicator in the future, the historical time-span applicable to that indicator shall be of such longer length as is sufficient to provide values that are representative of that likely range of variability.",
+      "text_sha256": "86f0ccbe5d292cc4562958b3462761effbf19c557ba4ba1e869a4c32a9c2e85c",
+      "md_span": {
+        "start": 7946,
+        "end": 8568
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32021r0930:2021-03-01#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nFor the purposes of Article 1(2), point (c), the duration of a downturn period shall be determined as follows:\n\n| (a) | in a case falling within Article 1(4), point (b), the single downturn period shall be such period that is long enough to cover all the peaks or troughs related to the most severe 12-month values observed for the different economic indicators associated with that single downturn period; |\n| --- | --- |\n\n| (b) | in all cases, whether or not falling within Article 1(4), point (b), where the various 12-month values observed for the economic indicator or indicators in question over the applicable time-span do not significantly deviate from their most severe 12-month value over a specific, continuous period of time within the applicable time-span, the downturn period shall be long enough to reflect the prolonged severity observed for the economic indicator or indicators in question; |\n| --- | --- |\n\n| (c) | in all cases, whether or not falling within Article 1(4), point (b), where the economic indicator or indicators show adjacent peaks or troughs to those peaks or troughs related to the most severe 12-month values observed for the economic indicator or indicators in question over the applicable time-span and those adjacent peaks and troughs do not significantly deviate from the most severe 12-month value observed for that indicator or those indicators over that time-span and those adjacent peaks and troughs are related to the same overall economic condition, the downturn period shall be long enough to reflect the whole prolonged period over which those adjacent peaks or troughs are observed; |\n| --- | --- |\n\n| (d) | in a case falling within Article 1(4), point (a), where neither point (b), nor point (c) of this Article applies, the downturn period shall be the 12-month period to which the most severe 12-month value relates. |\n| --- | --- |",
+      "text_sha256": "8d212cc6e6a9c6da783c136eba31d5992393c9eb0144f838d27eee72d83de3fd",
+      "md_span": {
+        "start": 8601,
+        "end": 10496
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32021r0930:2021-03-01#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nThis Regulation shall apply from 1 January 2021.",
+      "text_sha256": "66ffc53cd7baf5ab840884e724a7e6df686c5c0b8a48b2557ae26b698d3e17e4",
+      "md_span": {
+        "start": 10529,
+        "end": 10730
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

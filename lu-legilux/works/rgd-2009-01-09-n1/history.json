@@ -4,6 +4,7 @@
   "profiles": [
     "pdf-memorial-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -22,5 +23,28 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2011-07-10",
+          "valid_to": null,
+          "text_sha256": "b37a3fb3c34eb7853a45b42b4d560083a71332450564d4e677f8621730132f26",
+          "in_version": "lu-legilux:rgd-2009-01-09-n1:2011-07-10"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2011-07-10",
+          "valid_to": null,
+          "text_sha256": "244f7957c85a68e8181e8d3d2f126a396d25f38aa8fafffaf7865b0114ec8623",
+          "in_version": "lu-legilux:rgd-2009-01-09-n1:2011-07-10"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

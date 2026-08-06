@@ -1,0 +1,230 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r0292:2018-02-26",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2018/292 of 26 February 2018 laying down implementing technical standards with regard to procedures and forms for exchange of information and assistance between competent authorities according to Regulation (EU) No 596/2014",
+  "valid_from": "2018-02-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r0292/versions/2018-02-26/fr.xml",
+    "sha256": "2d36d94310eafa93e3385d7a1d107e9421e9b8bcce47296ea8afec196fc89a19",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018R0292"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r0292:2018-02-26#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nAux fins du présent règlement, on entend par «moyens électroniques sécurisés» les moyens électroniques de traitement (y compris la compression numérique), de stockage et de transmission de données par câble, ondes radio, technologie optique ou tout autre moyen électromagnétique, qui garantissent que l'exhaustivité, l'intégrité et la confidentialité des informations sont préservées pendant la transmission.",
+      "text_sha256": "9c8221e553371569986cf6f8a3c3f58ba2c3832f4eb4b9fba855ae69abe20523",
+      "md_span": {
+        "start": 808,
+        "end": 1233
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r0292:2018-02-26#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les autorités compétentes désignent des points de contact aux fins du présent règlement.\n\n2. Les autorités compétentes transmettent les coordonnées des points de contact à l'Autorité européenne des marchés financiers (AEMF) dans un délai de trente jours à compter de l'entrée en vigueur du présent règlement. Elles communiquent des informations actualisées à l'AEMF si nécessaire.\n\n3. L'AEMF tient une liste des points de contact désignés par les autorités compétentes conformément au paragraphe 1 et actualise cette liste si nécessaire en vue de leur utilisation par les autorités compétentes.",
+      "text_sha256": "c3c8dd71e9954bb233e878a37c2e249b282c3d56490a3a0a43901c9938413e42",
+      "md_span": {
+        "start": 1266,
+        "end": 1874
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32018r0292:2018-02-26#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. L'autorité demandeuse présente une demande écrite d'assistance par courrier postal, par télécopieur ou par des moyens électroniques sécurisés. Elle adresse cette demande au point de contact désigné par l'autorité sollicitée conformément à l'article 2.\n\n2. Une autorité compétente qui demande une assistance utilise le formulaire figurant à l'annexe I et veille à:\n\n| a) | préciser quelles informations l'autorité demandeuse cherche à obtenir auprès de l'autorité sollicitée; |\n| --- | --- |\n\n| b) | signaler, le cas échéant, les problèmes liés à la confidentialité des informations qu'elle est susceptible de recevoir. |\n| --- | --- |\n\n3. L'autorité demandeuse peut joindre à sa demande tout document ou justificatif jugé nécessaire pour l'appuyer.\n\n4. En cas d'urgence, l'autorité demandeuse peut présenter une demande d'assistance oralement. Sauf accord contraire de l'autorité sollicitée, cette demande orale est ensuite confirmée par écrit sans délai en recourant aux moyens visés au paragraphe 1.",
+      "text_sha256": "2efd86d4dd4bb0951dc647a9cc46acabb4d683f3d867406175cd28a298efad37",
+      "md_span": {
+        "start": 1907,
+        "end": 2922
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32018r0292:2018-02-26#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nDans un délai de dix jours ouvrables à compter de la réception d'une demande écrite d'assistance, l'autorité sollicitée adresse un accusé de réception par courrier postal, par télécopieur ou par des moyens électroniques sécurisés au point de contact désigné conformément à l'article 2, sauf indication contraire dans la demande. Cet accusé de réception est établi au moyen du formulaire figurant à l'annexe II et comporte, dans la mesure du possible, l'indication de la date de réponse estimée.",
+      "text_sha256": "6a3d2379ccf75760deeab984703c15d87f8b7aa0551c6036d3f9d46b2c1b8aba",
+      "md_span": {
+        "start": 2955,
+        "end": 3460
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32018r0292:2018-02-26#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. L'autorité sollicitée répond par écrit et par courrier postal, par télécopieur ou par des moyens électroniques sécurisés à une demande d'assistance. Cette réponse est adressée au point de contact désigné conformément à l'article 2, sauf indication contraire dans la demande.\n\n2. L'autorité sollicitée répond à la demande d'assistance en utilisant le formulaire figurant à l'annexe III et veille à:\n\n| a) | demander, dès que possible, des clarifications sous quelque forme que ce soit si elle éprouve le moindre doute quant aux informations précises demandées; |\n| --- | --- |\n\n| b) | prendre toutes les mesures raisonnables, dans le cadre de ses compétences, pour fournir l'assistance demandée; |\n| --- | --- |\n\n| c) | donner suite aux demandes d'assistance sans délai et de manière à permettre d'appliquer rapidement toute mesure réglementaire nécessaire, compte tenu de la complexité de la demande et de l'éventuelle nécessité de faire intervenir des tiers ou une autre autorité compétente. |\n| --- | --- |\n\n3. Si l'autorité sollicitée refuse de donner suite, en tout ou en partie, à une demande d'assistance, elle informe dès que possible, oralement ou par écrit, l'autorité demandeuse de sa décision. L'autorité sollicitée fournit également une réponse écrite, établie conformément au paragraphe 1, qui indique quelles exceptions visées à l'article 25, paragraphe 2, du règlement (UE) no 596/2014 elle invoque pour justifier son refus.",
+      "text_sha256": "647cbc867e036227833d6a31ea1a306034e5c8913267e7d43e4bba8c9a0ba176",
+      "md_span": {
+        "start": 3493,
+        "end": 4946
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32018r0292:2018-02-26#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. L'autorité demandeuse et l'autorité sollicitée utilisent les moyens les plus efficaces pour communiquer au sujet d'une demande d'assistance et de sa réponse, en tenant dûment compte des considérations de confidentialité, des délais de transmission, du volume des documents à transmettre et de la facilité d'accès aux informations par l'autorité demandeuse. En particulier, l'autorité demandeuse répond rapidement aux demandes de clarification de l'autorité sollicitée.\n\n2. Lorsque l'autorité sollicitée prend connaissance de circonstances susceptibles d'entraîner un retard de plus de dix jours ouvrables par rapport à sa date de réponse estimée, elle en informe l'autorité demandeuse sans délai.\n\n3. Le cas échéant, l'autorité sollicitée fournit des informations régulières sur l'état d'avancement de la demande en attente, y compris des estimations révisées de la date visée de réponse à l'autorité demandeuse.\n\n4. Si la demande a été qualifiée d'urgente par l'autorité demandeuse, les autorités compétentes se concertent sur la fréquence à laquelle l'autorité sollicitée tiendra informée l'autorité demandeuse.\n\n5. L'autorité sollicitée et l'autorité demandeuse coopèrent en vue de résoudre toute difficulté pouvant survenir dans le cadre de l'exécution d'une demande.",
+      "text_sha256": "e2fef0db6688ca3dec86ed3c5e9123117b2d75dd836a66d10dfc3abd31562a58",
+      "md_span": {
+        "start": 4979,
+        "end": 6264
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32018r0292:2018-02-26#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Si la demande de l'autorité demandeuse comprend le recueil de la déclaration d'une personne dans le contexte d'une enquête ou d'une inspection, l'autorité sollicitée et l'autorité demandeuse, dans le respect des limitations ou contraintes légales en vigueur et des éventuelles différences de règles procédurales, examinent les points suivants, et en tiennent compte:\n\n| a) | les droits des personnes dont les déclarations seront recueillies, y compris, le cas échéant, en matière d'auto-incrimination; |\n| --- | --- |\n\n| b) | la nature de la participation des membres du personnel de l'autorité demandeuse (observateurs ou participants actifs); |\n| --- | --- |\n\n| c) | le rôle du personnel de l'autorité sollicitée et de l'autorité demandeuse dans le recueil de la déclaration; |\n| --- | --- |\n\n| d) | le droit éventuel de la personne dont la déclaration doit être recueillie d'être assistée par un représentant légal et, si elle a ce droit, la portée de l'assistance de ce représentant lors du recueil de la déclaration, notamment en termes d'enregistrement de cette déclaration et d'établissement de rapports à son sujet; |\n| --- | --- |\n\n| e) | le caractère volontaire ou forcé de la déclaration, lorsque cette distinction existe; |\n| --- | --- |\n\n| f) | si, sur la base des informations disponibles au moment de la demande, la personne dont la déclaration doit être recueillie aura le statut de témoin ou de suspect, lorsque cette distinction existe; |\n| --- | --- |\n\n| g) | si, sur la base des informations disponibles au moment de la demande, il est possible, ou prévu, que la déclaration soit utilisée dans une procédure pénale; |\n| --- | --- |\n\n| h) | la recevabilité de la déclaration sur le territoire de l'autorité demandeuse; |\n| --- | --- |\n\n| i) | l'enregistrement de la déclaration et les procédures applicables, notamment s'il prendra la forme d'un procès-verbal écrit consigné sur le moment ou résumé, ou d'un enregistrement sonore ou audiovisuel; |\n| --- | --- |\n\n| j) | les procédures de certification ou de confirmation de la déclaration par la personne qui la fournit, notamment si cette certification ou confirmation sera postérieure au recueil de la déclaration; et |\n| --- | --- |\n\n| k) | la procédure de transmission de la déclaration par l'autorité sollicitée à l'autorité demandeuse, notamment le format et le calendrier. |\n| --- | --- |\n\n2. L'autorité sollicitée et l'autorité demandeuse prennent les dispositions nécessaires pour que leur personnel puisse travailler efficacement, en particulier pour qu'il puisse s'accorder sur les informations supplémentaires éventuellement nécessaires, et notamment:\n\n| a) | la planification du calendrier; |\n| --- | --- |\n\n| b) | la liste des questions à poser à la personne dont la déclaration doit être recueillie; |\n| --- | --- |\n\n| c) | les modalités de déplacement, qui doivent notamment permettre à l'autorité sollicitée et à l'autorité demandeuse de se rencontrer pour discuter du dossier avant le recueil de la déclaration; et |\n| --- | --- |\n\n| d) | le régime linguistique applicable. |\n| --- | --- |",
+      "text_sha256": "ab37752d420048349e3134c9f574384bdfbcef851f790600c21bb199eba9ea01",
+      "md_span": {
+        "start": 6297,
+        "end": 9387
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32018r0292:2018-02-26#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. En cas de demande d'enquête ou d'inspection sur place en vertu de l'article 25, paragraphe 6, du règlement (UE) no 596/2014, l'autorité demandeuse et l'autorité sollicitée se concertent sur la meilleure façon de donner un effet utile à la demande d'assistance, compte tenu de l'article 25, paragraphe 6, troisième alinéa, points a) à e), du règlement (UE) no 596/2014, notamment sur l'utilité d'une enquête conjointe ou d'une inspection sur place conjointe.\n\n2. L'autorité sollicitée informe l'autorité demandeuse des progrès de l'enquête ou de l'inspection sur place et transmet ses conclusions en temps utile à l'autorité demandeuse.\n\n3. Pour décider s'il y a lieu d'ouvrir une enquête conjointe ou de procéder à une inspection sur place conjointe, l'autorité demandeuse et l'autorité sollicitée tiennent compte, au minimum:\n\n| a) | du contenu de toute demande d'assistance émanant de l'autorité demandeuse, y compris de tout élément suggérant qu'il serait opportun de mener une enquête conjointe ou de procéder à une inspection sur place conjointe; |\n| --- | --- |\n\n| b) | du fait qu'elles mènent ou non séparément leurs propres investigations sur une question ayant des implications transfrontières et du fait que cette question se prêterait davantage ou non à une collaboration conjointe; |\n| --- | --- |\n\n| c) | du cadre juridique et réglementaire en vigueur sur leurs territoires respectifs, en veillant à ce que les deux autorités aient une bonne connaissance des contraintes potentielles et des limitations légales s'appliquant aux enquêtes conjointes ou inspections sur place conjointes et aux procédures qui peuvent suivre, y compris les aspects qui se rapportent au principe ne bis in idem; |\n| --- | --- |\n\n| d) | de la gestion et de la direction nécessaires pour mener à bien l'enquête ou l'inspection sur place; |\n| --- | --- |\n\n| e) | des perspectives probables qu'elles s'accorderont sur le recueil des faits; |\n| --- | --- |\n\n| f) | de l'allocation des ressources et de la désignation du personnel chargé de mener les enquêtes ou de procéder aux inspections sur place; |\n| --- | --- |\n\n| g) | de la possibilité de définir un plan d'action conjoint et un calendrier de travail pour chaque autorité; |\n| --- | --- |\n\n| h) | de la définition des mesures à prendre, conjointement ou individuellement, par chaque autorité; |\n| --- | --- |\n\n| i) | de l'échange des informations recueillies et de l'établissement de rapports sur le résultat des mesures individuelles adoptées; et |\n| --- | --- |\n\n| j) | d'autres questions propres au dossier. |\n| --- | --- |\n\n4. Si l'autorité demandeuse et l'autorité sollicitée décident de mener une enquête conjointe ou de procéder à une inspection sur place conjointe, elles prennent les mesures suivantes:\n\n| a) | elles conviennent de procédures pour la conduite et la conclusion de l'enquête ou de l'inspection; |\n| --- | --- |\n\n| b) | elles maintiennent un dialogue continu afin de coordonner le processus de recherche d'informations et le recueil des faits; |\n| --- | --- |\n\n| c) | elles coopèrent étroitement dans le cadre de la conduite de l'enquête conjointe ou de l'inspection sur place conjointe; |\n| --- | --- |\n\n| d) | elles se prêtent mutuellement assistance, dans les limites légales, concernant les procédures d'exécution ultérieures, notamment en coordonnant les procédures ou autres mesures répressives éventuelles (administratives, civiles ou pénales) liées aux résultats de l'enquête conjointe ou de l'inspection sur place conjointe ou, le cas échéant, les perspectives de règlement; |\n| --- | --- |\n\n| e) | elles déterminent les dispositions légales spécifiques qui régissent l'objet de l'enquête conjointe ou de l'inspection sur place conjointe; |\n| --- | --- |\n\n| f) | le cas échéant, elles prévoient au moins les éléments suivants:1)l'élaboration d'un plan d'action commun précisant notamment le contenu, la nature et le calendrier des mesures à prendre, comportant des jalons, répartissant les responsabilités en matière de production des résultats des travaux et tenant compte des priorités respectives de chaque autorité;2)l'identification et l'évaluation des éventuelles limitations ou contraintes légales et des éventuelles différences concernant la procédure en matière d'enquête et de mesures répressives ou toute autre procédure, y compris les droits des personnes faisant l'objet de l'enquête;3)l'identification et l'évaluation des dispositions légales précises, en matière de secret professionnel, susceptibles d'avoir une incidence sur l'enquête et sur les mesures répressives, y compris en ce qui concerne l'auto-incrimination;4)la stratégie de communication avec le public et les médias; et5)l'utilisation prévue des informations échangées. |\n| --- | --- |\n| 1) | l'élaboration d'un plan d'action commun précisant notamment le contenu, la nature et le calendrier des mesures à prendre, comportant des jalons, répartissant les responsabilités en matière de production des résultats des travaux et tenant compte des priorités respectives de chaque autorité; |\n| 2) | l'identification et l'évaluation des éventuelles limitations ou contraintes légales et des éventuelles différences concernant la procédure en matière d'enquête et de mesures répressives ou toute autre procédure, y compris les droits des personnes faisant l'objet de l'enquête; |\n| 3) | l'identification et l'évaluation des dispositions légales précises, en matière de secret professionnel, susceptibles d'avoir une incidence sur l'enquête et sur les mesures répressives, y compris en ce qui concerne l'auto-incrimination; |\n| 4) | la stratégie de communication avec le public et les médias; et |\n| 5) | l'utilisation prévue des informations échangées. |",
+      "text_sha256": "b1d5434c2c7be5a54e56ce58ce767da5bc24d6e5143d0e3a2cb74a44598bc45c",
+      "md_span": {
+        "start": 9420,
+        "end": 15135
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32018r0292:2018-02-26#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Lorsqu'une assistance pour le recouvrement de sanctions pécuniaires est demandée en vertu de l'article 25, paragraphe 6, du règlement (UE) no 596/2014, l'autorité demandeuse et l'autorité sollicitée se concertent sur la meilleure façon de donner un effet utile à la demande. Les autorités tiennent compte des mesures déjà prises par l'autorité demandeuse sur son territoire, ainsi que du cadre national de l'autorité sollicitée régissant le recouvrement des sanctions.\n\n2. L'autorité sollicitée fournit l'assistance requise ou met à disposition toute information demandée aux fins du présent article conformément à la législation nationale applicable. Si une autre autorité ou instance compétente de l'État membre de l'autorité sollicitée peut fournir l'assistance requise ou dispose de l'information demandée, l'autorité sollicitée propose de communiquer à l'autorité demandeuse les informations nécessaires pour que celle-ci puisse établir un contact direct avec l'autre autorité ou instance auprès de laquelle l'information demandée pourrait être disponible, conformément à la législation nationale.",
+      "text_sha256": "86280b2c80c341922060aa4b7d181aa5207b519d57940546139833ba401aa599",
+      "md_span": {
+        "start": 15168,
+        "end": 16284
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32018r0292:2018-02-26#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Aux fins de la transmission d'informations non sollicitées en vertu de l'article 16, paragraphe 4, et de l'article 25, paragraphe 5, du règlement (UE) no 596/2014, ou lorsqu'une autorité compétente dispose d'informations dont elle juge qu'elles pourraient aider une autre autorité compétente à s'acquitter des missions qui lui incombent en vertu du règlement (UE) no 596/2014, elle transmet ces informations par écrit et par courrier postal, par télécopieur ou par des moyens électroniques sécurisés au point de contact de l'autorité compétente désigné conformément à l'article 2.\n\n2. Si l'autorité compétente qui envoie les informations juge que celles-ci devraient être transmises d'urgence, elle peut informer oralement l'autre autorité, à condition que les informations soient ensuite transmises par écrit sans délai.\n\n3. Une autorité compétente qui transmet des informations de manière non sollicitée utilise à cette fin le formulaire figurant à l'annexe IV, en tenant compte en particulier des aspects relatifs à la confidentialité des informations.",
+      "text_sha256": "e8bfc57f0b7b4187e917a2de9cb69db6fc00fe3597885fc4fa1d5a93a80b798f",
+      "md_span": {
+        "start": 16319,
+        "end": 17389
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32018r0292:2018-02-26#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. L'autorité demandeuse et l'autorité sollicitée font figurer un avertissement de confidentialité approprié dans toute demande d'assistance, réponse à une demande d'assistance ou transmission d'informations non sollicitées, conformément aux formulaires établis dans les annexes.\n\n2. Si, pour donner suite à la demande, elle est tenue de divulguer le fait que l'autorité demandeuse a formulé cette demande, l'autorité sollicitée ne le divulgue qu'après avoir discuté avec l'autorité demandeuse de la nature et de l'étendue de cette divulgation et obtenu son accord pour celle-ci. Si l'autorité demandeuse ne consent pas à la divulgation, l'autorité sollicitée ne donne pas suite à la demande et l'autorité demandeuse peut retirer ou suspendre sa demande jusqu'à ce qu'elle soit en mesure de donner son consentement.\n\n3. Les informations fournies conformément à l'article 10 sont utilisées uniquement aux fins de garantir le respect ou l'application des dispositions du règlement (UE) no 596/2014, notamment, mais pas uniquement, pour engager ou conduire des procédures pénales, administratives, civiles ou disciplinaires résultant d'une violation des dispositions de ce règlement ou fournir de l'aide dans le cadre de telles procédures.",
+      "text_sha256": "3db5c4e66dd153d871e37312cc8d59660fb6d39df30278b9d3b3f51ed2dbe99e",
+      "md_span": {
+        "start": 17424,
+        "end": 18672
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32018r0292:2018-02-26#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "2908c8e21438fc4dadc04d769b44e51e974cc6e09e526db32295406a9d214da4",
+      "md_span": {
+        "start": 18707,
+        "end": 18839
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

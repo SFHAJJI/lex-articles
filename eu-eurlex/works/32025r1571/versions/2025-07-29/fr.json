@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1571:2025-07-29",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2025/1571 of 29\u00A0July 2025 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2025-07-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1571/versions/2025-07-29/fr.xml",
+    "sha256": "2d3d04091b90bf20ccc6d9fc979980e9b0f01f724c70201cc2a5de7dab3ea7a9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1571"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1571:2025-07-29#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les organes de contrôle soumettent à la Commission leurs rapports annuels visés à l’article 46 bis, paragraphe 6, et à l’article 46 ter, paragraphe 6, du règlement (UE) no 910/2014, par l’intermédiaire d’un canal électronique sécurisé mis à disposition par la Commission.\n\n2. Les organes de contrôle ne transmettent les informations dans leurs rapports annuels qu’une seule fois, en réutilisant, le cas échéant, les informations précédemment communiquées.\n\n3. Les organes de contrôle des portefeuilles européens d’identité numérique visés à l’article 46 bis, paragraphe 1, du règlement (UE) no 910/2014 veillent à ce que leurs rapports annuels contiennent au moins les informations visées à l’annexe I du présent règlement.\n\n4. Les organes de contrôle des services de confiance visés à l’article 46 ter, paragraphe 1, du règlement (UE) no 910/2014 veillent à ce que leurs rapports annuels contiennent au moins les informations visées à l’annexe II du présent règlement.",
+      "text_sha256": "e2d42723ba00e841d4566faa55ae4decc162e1de6c352edf8fddb38b384ceb57",
+      "md_span": {
+        "start": 679,
+        "end": 1668
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1571:2025-07-29#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 1701,
+        "end": 1842
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

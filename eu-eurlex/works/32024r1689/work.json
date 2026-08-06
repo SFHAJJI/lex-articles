@@ -2,31 +2,42 @@
   "lex_work_id": "eu-eurlex:32024r1689",
   "title": "AI Act — Regulation (EU) 2024/1689",
   "languages": [
-    "en"
+    "en",
+    "fr"
   ],
   "versions": [
+    {
+      "valid_from": "2024-06-13",
+      "valid_to": "2024-07-11",
+      "language": "en",
+      "provisions": 113
+    },
+    {
+      "valid_from": "2024-06-13",
+      "valid_to": "2024-07-11",
+      "language": "fr",
+      "provisions": 113
+    },
+    {
+      "valid_from": "2024-07-12",
+      "valid_to": "2026-07-26",
+      "language": "fr",
+      "provisions": 113
+    },
     {
       "valid_from": "2026-07-27",
       "valid_to": null,
       "language": "en",
-      "provisions": 133
+      "provisions": 119
+    },
+    {
+      "valid_from": "2026-07-27",
+      "valid_to": null,
+      "language": "fr",
+      "provisions": 119
     }
   ],
   "anchors": [
-    "anx_i",
-    "anx_ii",
-    "anx_iii",
-    "anx_iv",
-    "anx_ix",
-    "anx_v",
-    "anx_vi",
-    "anx_vii",
-    "anx_viii",
-    "anx_xi",
-    "anx_xii",
-    "anx_xiii",
-    "anx_xiv",
-    "anx_xunion_legislative_acts_on_large_scale_it_systems_in_the_area_of_freedom_security_and_justice",
     "art_1",
     "art_10",
     "art_100",

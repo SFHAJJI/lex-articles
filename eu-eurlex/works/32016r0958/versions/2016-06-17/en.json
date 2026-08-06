@@ -1,0 +1,257 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r0958:2016-06-17",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2016/958 of 9 March 2016 supplementing Regulation (EU) No 596/2014",
+  "valid_from": "2016-06-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r0958/versions/2016-06-17/en.html",
+    "sha256": "55938cfdd667de81a5a832e6ec5508b5bac0c9b3cb0dd61dbb03011279e424d0",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R0958-20160617"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r0958:2016-06-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Definitions",
+      "path": [
+        "CHAPTER I — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "For the purposes of this Regulation, the following definitions shall apply:\n\n(a) ‘expert’ means a person referred to in Article 3(1)(34)(ii) of Regulation (EU) No 596/2014 who repeatedly proposes investment decisions in respect of financial instruments and who: (i) presents himself as having financial expertise or experience; or (ii) puts forward his recommendation in such a way that other persons would reasonably believe he has financial expertise or experience;\n\n(b) ‘group’ means a group as defined in Article 2(11) of Directive 2013/34/EU of the European Parliament and of the Council (1).",
+      "text_sha256": "e5fccd1262a37a93545a28f924025af676b4e7be62fe6666c7af94bccb0fd278",
+      "md_span": {
+        "start": 710,
+        "end": 1307
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r0958:2016-06-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Identity of producers of recommendations",
+      "path": [
+        "CHAPTER II — PRODUCTION OF RECOMMENDATIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Persons who produce investment recommendations or other information recommending or suggesting an investment strategy (‘recommendations’) shall disclose clearly and prominently in all the recommendations they produce their identity and the following information about the identity of any other person(s) responsible for the production of the recommendation:(a) the name and the job title of all the natural persons involved in the production of the recommendation;(b) where a natural or a legal person involved in the production of the recommendation is acting under contract, including a contract of employment, or otherwise for a legal person, the name of such legal person.\n\n**2.** Where the person who produces recommendations is an investment firm, a credit institution, or a natural person working for an investment firm or a credit institution under contract of employment or otherwise, that person shall, in addition to the information laid down in paragraph 1, state the identity of the relevant competent authority in the recommendation.\n\n**3.** Where the person who produces recommendations is not a person referred to in paragraph 2, but is subject to self-regulatory standards or codes of conduct for the production of recommendations, that person shall, in addition to the information laid down in paragraph 1, state a reference to those standards or codes in the recommendation.",
+      "text_sha256": "c5c54a4c70bcec9477d6e24d01eb8fbe0cb1df869d9cbe990df311a2df09af2a",
+      "md_span": {
+        "start": 1434,
+        "end": 2834
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r0958:2016-06-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "General obligations in relation to objective presentation of recommendations",
+      "path": [
+        "CHAPTER II — PRODUCTION OF RECOMMENDATIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Persons who produce recommendations shall ensure that their recommendations comply with the following requirements:(a) facts are clearly distinguished from interpretations, estimates, opinions and other types of non-factual information;(b) all substantially material sources of information are clearly and prominently indicated;(c) all sources of information are reliable or, where there is any doubt as to whether a source is reliable, this is clearly indicated;(d) all projections, forecasts and price targets are clearly and prominently labelled as such, and the material assumptions made in producing or using them are indicated;(e) the date and time when the production of the recommendation was completed is clearly and prominently indicated.\n\n**2.** Where the disclosure of the information required in points (b) or (e) of paragraph 1 is disproportionate in relation to the length or form of the recommendation, including in the case of a non-written recommendation that is made using modalities, such as meetings, road shows, audio or video conferences, as well as radio, television or website interviews, the person who produces recommendations shall state in the recommendation where the required information can be directly and easily accessed by the persons receiving the recommendation free of charge.\n\n**3.** Persons who produce recommendations shall substantiate any recommendation they have produced to the competent authority upon its request.",
+      "text_sha256": "8a9cdd9ff193069dcd3e7b1f69dbf0835a1cb301116cf4d551055563d7f52d5b",
+      "md_span": {
+        "start": 2950,
+        "end": 4417
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32016r0958:2016-06-17#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Additional obligations in relation to objective presentation of recommendations applicable to the persons referred to Article 3(1)(34)(i) of Regulation (EU) No 596/2014 and experts",
+      "path": [
+        "CHAPTER II — PRODUCTION OF RECOMMENDATIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** In addition to the information laid down in Article 3, the persons referred to Article 3(1)(34)(i) of Regulation (EU) No 596/2014 and experts shall include in the recommendation the following information in a clear and prominent manner:(a) if the recommendation has been disclosed to the issuer to which the recommendation, directly or indirectly, relates and it has been subsequently amended, a statement to that effect;(b) a summary of any basis of valuation or methodology and the underlying assumptions used to either evaluate a financial instrument or an issuer, or to set a price target for a financial instrument, as well as an indication and a summary of any changes in the valuation, methodology or underlying assumptions;(c) an indication of the place where detailed information about the valuation or methodology and the underlying assumptions is directly and easily accessible, in the event that the person who produces recommendations has not used proprietary models;(d) an indication of the place where material information about the proprietary models used is directly and easily accessible, in the event that the person who produces recommendations has used proprietary models;(e) the meaning of any recommendation made, such as the recommendations to ‘buy’, ‘sell’ or ‘hold’, and the length of time of the investment to which the recommendation relates are adequately explained and any appropriate risk warning, which shall include a sensitivity analysis of the assumptions, is indicated;(f) a reference to the planned frequency of updates to the recommendation;(g) an indication of the relevant date and time for any price of financial instruments mentioned in the recommendation;(h) where a recommendation differs from any of their previous recommendations concerning the same financial instrument or issuer that has been disseminated during the preceding 12-month period, the change(s) and the date of that previous recommendation are indicated; and(i) a list of all their recommendations on any financial instrument or issuer that were disseminated during the preceding 12-month period, containing for each recommendation: the date of dissemination, the identity of the natural person(s) referred to in Article 2(1)(a), the price target and the relevant market price at the time of dissemination, the direction of the recommendation and the validity time period of the price target or of the recommendation.\n\n**2.** Where the disclosure of the information required in points (b), (e) or (i) of paragraph 1 is disproportionate in relation to the length or form of the recommendation, including in the case of a non-written recommendation that is made using modalities, such as meetings, road shows, audio or video conferences, as well as radio, television or website interviews, the person who produces recommendations shall state in the recommendation where the required information can be directly and easily accessed by the persons receiving the recommendation free of charge.",
+      "text_sha256": "afcc6c8270d2e9f1c4d3ceb700bf586dffa90f6e567694ba5232936b552e3402",
+      "md_span": {
+        "start": 4637,
+        "end": 7643
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32016r0958:2016-06-17#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "General obligations in relation to disclosure of interests or of conflicts of interest",
+      "path": [
+        "CHAPTER II — PRODUCTION OF RECOMMENDATIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Persons who produce recommendations shall disclose in their recommendations all relationships and circumstances that may reasonably be expected to impair the objectivity of the recommendation, including interests or conflicts of interest, on their part or on the part of any natural or legal person working for them under a contract, including a contract of employment, or otherwise, who was involved in producing the recommendation, concerning any financial instrument or the issuer to which the recommendation directly or indirectly relates.\n\n**2.** Where a person who produces recommendations referred to in paragraph 1 is a legal person, the information to be disclosed in accordance with paragraph 1 shall also include any interests or conflicts of interest of any person belonging to the same group that are:(a) known, or reasonably expected to be known, to the persons involved in the production of the recommendation; or(b) known to persons who, although not involved in the production of the recommendation, have or could reasonably be expected to have, access to the recommendation prior to its completion.\n\n**3.** Where a person who produces recommendations referred to in paragraph 1 is a natural person, the information to be disclosed in accordance with paragraph 1 shall also include any interests or conflicts of interest of any person closely associated with him.",
+      "text_sha256": "2b11772213cc8abe463d31cc089ec83a23f4305d938420181c19912870757bbb",
+      "md_span": {
+        "start": 7769,
+        "end": 9156
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32016r0958:2016-06-17#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Additional obligations in relation to disclosure of interests or of conflicts of interest by persons referred to in Article 3(1)(34)(i) of Regulation (EU) No 596/2014 and experts",
+      "path": [
+        "CHAPTER II — PRODUCTION OF RECOMMENDATIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** In addition to the information required in Article 5, the persons referred to in Article 3(1)(34)(i) of Regulation (EU) No 596/2014 and experts shall include in the recommendation the following information on their interests and conflicts of interest concerning the issuer to which the recommendation, directly or indirectly, relates:(a) if the person or expert owns a net long or short position exceeding the threshold of 0,5 % of the total issued share capital of the issuer, calculated in accordance with Article 3 of Regulation (EU) No 236/2012 and with Chapters III and IV of Commission Delegated Regulation (EU) No 918/2012 (2), a statement to that effect specifying whether the net position is long or short;(b) if the holdings of the issuer in the total issued share capital of the person or expert exceed 5 %, a statement to that effect;▼B(c) if the person producing the recommendation or any other person belonging to the same group with that person:(i) is a market maker or liquidity provider in the financial instruments of the issuer, a statement to that effect;(ii) has been lead manager or co-lead manager over the previous 12 months of any publicly disclosed offer of financial instruments of the issuer, a statement to that effect;(iii) is party to an agreement with the issuer relating to the provision of services of investment firms set out in Sections A and B of Annex I to Directive 2014/65/EU of the European Parliament and of the Council (3), a statement to that effect, provided that this would not entail the disclosure of any confidential commercial information and that the agreement has been in effect over the previous 12 months or has given rise during the same period to the obligation to pay or receive compensation;(iv) is party to an agreement with the issuer relating to the production of the recommendation, a statement to that effect.\n\n**2.** Where the person referred to in paragraph 1 is an investment firm, a credit institution, or a natural or a legal person working for an investment firm or credit institution under a contract, including a contract of employment, or otherwise, that person shall, in addition to the information laid down in paragraph 1, include the following information in the recommendation:(a) a description of the effective internal organisational and administrative arrangements and of any information barrier it has set up for the prevention and avoidance of conflicts of interest with respect to the recommendations;(b) if the remuneration of natural or legal persons working for it under a contract of employment or otherwise, and who were involved in producing the recommendation, is directly tied to transactions in services of investment firms set out in Sections A and B of Annex I to Directive 2014/65/EU or other type of transactions it or any legal person part of the same group performs, or to trading fees it or any legal person that is part of the same group receives, a statement to that effect;(c) information on the price and date of acquisition of shares where natural persons working for the person referred to in the first subparagraph under a contract of employment or otherwise, and who were involved in producing the recommendation, receive or purchase the shares of the issuer to which the recommendation, directly or indirectly, relates, prior to a public offering of such shares.\n\n**3.** Where the person referred to in paragraph 1 is an investment firm, a credit institution, or a natural or legal person working for an investment firm or credit institution under a contract, including a contract of employment, or otherwise, that person shall publish, on a quarterly basis, the proportion of all recommendations that are ‘buy’, ‘hold’, ‘sell’ or equivalent terms over the previous 12 months, and the proportion of issuers corresponding to each of those categories to which such person has supplied material services of investment firms set out in Sections A and B of Annex I to Directive 2014/65/EU over the previous 12 months.\n\n**4.** Where the disclosure of the information referred to in paragraphs 1 and 2 is disproportionate in relation to the length or form of the recommendation, including in the case of a non-written recommendation that is made using modalities, such as meetings, road shows or audio or video conferences, as well as radio, television or website interviews, the person who produces recommendations shall state in the recommendation where the required information can be directly and easily accessed by the persons receiving the recommendation free of charge.",
+      "text_sha256": "82022f3583830d1f8236a89fe313617d0e027943130bbfaac77338f2f348d38b",
+      "md_span": {
+        "start": 9374,
+        "end": 13958
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32016R0958R%2801%29",
+          "text": "32016R0958R(01): REPLACED"
+        },
+        {
+          "href": "#E0002",
+          "text": "2"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32016R0958",
+          "text": "▼B"
+        },
+        {
+          "href": "#E0003",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32016r0958:2016-06-17#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Dissemination of recommendations by the producer",
+      "path": [
+        "CHAPTER II — PRODUCTION OF RECOMMENDATIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Where a person producing recommendations disseminates a recommendation it produced, it shall include in the recommendation the date and time when the recommendation was first disseminated.",
+      "text_sha256": "32cde95ce750b17ba1c663ea845384035e94f0ccf37fbaf0e22151cff3fdb349",
+      "md_span": {
+        "start": 14046,
+        "end": 14234
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32016r0958:2016-06-17#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Arrangements for dissemination of recommendations",
+      "path": [
+        "CHAPTER III — DISSEMINATION OF RECOMMENDATIONS PRODUCED BY THIRD PARTIES"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Persons who disseminate recommendations produced by a third party shall communicate to the persons receiving the recommendations the following information:(a) their identity, in a clear and prominent manner;(b) all relationships and circumstances that may reasonably be expected to impair the objective presentation of the recommendation, including interests or conflicts of interest concerning any financial instrument or the issuer to which the recommendation, directly or indirectly, relates;(c) the date and time when the recommendation is first disseminated.\n\n**2.** Where a person referred to in paragraph 1 is an investment firm, a credit institution, or a natural or legal person working for an investment firm or a credit institution under a contract, including a contract of employment, or otherwise, that person shall, in addition to the information laid down in paragraph 1, communicate to the persons receiving the recommendations the following information:(a) the identity of the relevant competent authority;(b) its own interests or indication of conflicts of interest as laid down in Article 5 and Article 6(1) and (2), unless that person is acting as the disseminating channel of the recommendations produced within the same group without exercising any discretion as to the selection of the recommendation to disseminate.",
+      "text_sha256": "4bbbf8c18e3c6b72164a9756e4c99f9295c1451c16b6992bf3ce24342db6a1fc",
+      "md_span": {
+        "start": 14400,
+        "end": 15746
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32016r0958:2016-06-17#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Additional arrangements for dissemination of summary or extract of recommendations",
+      "path": [
+        "CHAPTER III — DISSEMINATION OF RECOMMENDATIONS PRODUCED BY THIRD PARTIES"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** In addition to the information laid down in Article 8, persons who disseminate a summary or an extract of a recommendation produced by a third party shall ensure that such summary or extract:(a) is clear and not misleading;(b) is identified as a summary or extract;(c) includes a clear identification of the original recommendation.\n\n**2.** The persons referred to in paragraph 1 shall also ensure that the information regarding the producer of the recommendation set out in Articles 2 to 6 is made available either directly, in the summary or in the extract itself, or through reference to the place where that information can be accessed by the persons receiving the summary or extract of the recommendation free of charge.",
+      "text_sha256": "493cd795fc6db87e6b8dc3474ab6ed44d01f0f82a34e3ad3683bc580e423df61",
+      "md_span": {
+        "start": 15868,
+        "end": 16600
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32016r0958:2016-06-17#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Additional arrangements for dissemination of substantially altered recommendations",
+      "path": [
+        "CHAPTER III — DISSEMINATION OF RECOMMENDATIONS PRODUCED BY THIRD PARTIES"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** In addition to the information laid down in Article 8, persons who disseminate a recommendation produced by a third party that is substantially altered, shall ensure that the recommendation clearly indicates the substantial alteration in detail.\n\n**2.** The persons referred to in paragraph 1 shall meet the requirements laid down in Articles 2 to 5 to the extent of the substantial alteration and include in the substantially altered recommendation a reference to the place where the information regarding the producer of the original recommendation set out in Articles 2 to 6 can be accessed by the persons receiving the substantially altered recommendation free of charge.",
+      "text_sha256": "8801ed6d651c4e73f31334c994bcecb868e3fa543e266e97421704db1bd3e8e1",
+      "md_span": {
+        "start": 16724,
+        "end": 17406
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32016r0958:2016-06-17#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Entry into force",
+      "path": [
+        "CHAPTER IV — FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.\n\nIt shall apply from 3 July 2016.",
+      "text_sha256": "78f8d0133f130d4869d1be8372b6e96e34d1157a2fb915334243b48c2ca3741c",
+      "md_span": {
+        "start": 17498,
+        "end": 17664
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0575:2017-03-31",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/575 of 8 June 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2017-03-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0575/versions/2017-03-31/fr.html",
+    "sha256": "6ea653a6335b1f5ec9322bb95c7b056b401efcf3d2219e8c2902d723145fad2a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02017R0575-20170331"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32017r0575:2017-03-31#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objet",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement définit le contenu spécifique, le format et la périodicité des données que doivent publier les plates-formes d'exécution sur la qualité d'exécution des transactions. Il s'applique aux plates-formes de négociation, aux internalisateurs systématiques, aux teneurs de marché et aux autres fournisseurs de liquidité.",
+      "text_sha256": "46d4d16a0c0edcd38746d7398b4f8cbd417957553aaaa2444291b57218451a66",
+      "md_span": {
+        "start": 673,
+        "end": 1006
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0575:2017-03-31#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aux fins du présent règlement, on entend par:\n\n| a) | «système de négociation» : la manière dont une plate-forme d'exécution exécute les ordres, que ce soit au moyen d'un carnet d'ordres à enchères continues, d'un système continu dirigé par les prix *(quote driven)*, d'un système de demandes d'offres de prix *(request for quote)*, d'enchères périodiques ou de tout système hybride relevant de plusieurs de ces catégories ou dans lequel le processus de détermination des prix est d'une autre nature que ceux des types de systèmes susmentionnés; |\n| --- | --- |\n\n| b) | «taille spécifique à l'instrument financier» : la taille spécifique à une obligation, à un produit financier structuré, à un quota d'émissions ou à un dérivé négociés sur une plate-forme de négociation pour lesquels il n'existe pas de marché liquide et dont la transaction fait l'objet d'une autorisation de publication différée conformément à l'article 11 du règlement (UE) no 600/2014; |\n| --- | --- |\n\n| c) | «taille élevée» : une taille élevée au sens des articles 7 et 11 du règlement (UE) no 600/2014; |\n| --- | --- |\n\n| d) | «transaction avortée» : une transaction qui a été invalidée par la plate-forme d'exécution; |\n| --- | --- |\n\n| e) | «multiplicateur du prix» : le nombre d'unités de l'instrument sous-jacent représentées par un seul contrat dérivé; |\n| --- | --- |\n\n| f) | «expression du prix» : l'indication de la manière dont le prix de la transaction est exprimé: en valeur monétaire, en pourcentage ou en taux de rendement; |\n| --- | --- |\n\n| g) | «expression de la quantité» : l'indication de la manière dont le volume de la transaction est exprimé: en nombre d'unités, en valeur nominale ou en valeur monétaire; |\n| --- | --- |\n\n| h) | «type de livraison» : l'indication du mode de règlement, physique ou en espèces, de l'instrument financier, y compris des cas dans lesquels la contrepartie peut choisir ce mode ou dans lesquels il est déterminé par un tiers; |\n| --- | --- |\n\n| i) | «mode de négociation» : les enchères programmées d'ouverture, de clôture ou intrajournalières, les enchères non programmées, la négociation au dernier cours, la négociation hors séance ou la déclaration de transactions *(trade reporting)*; |\n| --- | --- |\n\n| j) | «plate-forme de négociation» : le type de plate-forme utilisé par la plate-forme d'exécution: électronique, par téléphone ou à la criée; |\n| --- | --- |\n\n| k) | «profondeur du carnet d'ordres» : la liquidité totale disponible, exprimée par le produit du prix et du volume de toutes les offres d'achat et de vente pour un nombre déterminé de paliers de prix à partir de la valeur médiane des meilleurs prix affichés à l'achat et à la vente *(best bid and offer*); |\n| --- | --- |\n\n| l) | «écart effectif moyen» : le double de la différence moyenne entre le prix d'exécution effectif et la valeur médiane des meilleurs prix affichés à l'achat et à la vente au moment de la réception, pour les ordres au marché ou les ordres à cours limité; |\n| --- | --- |\n\n| m) | «vitesse moyenne d'exécution des ordres passifs non modifiés au meilleur prix affiché à l'achat ou à la vente» : le temps moyen écoulé entre la réception, par la plate-forme d'exécution, d'un ordre à cours limité correspondant au meilleur prix affiché à l'achat ou à la vente et l'exécution de cet ordre; |\n| --- | --- |\n\n| n) | «ordre agressif» : un ordre, inscrit dans le carnet d'ordres, qui a absorbé de la liquidité; |\n| --- | --- |\n\n| o) | «ordre passif» : un ordre, inscrit dans le carnet d'ordres, qui a apporté de la liquidité; |\n| --- | --- |\n\n| p) | «ordre pour exécution immédiate ou annulation»*(immediate or cancel)* : un ordre exécuté dès son inscription dans le carnet d'ordres et dont toute portion non exécutée est effacée de ce dernier; |\n| --- | --- |\n\n| q) | «ordre pour exécution intégrale immédiate ou annulation»*(fill or kill)* : un ordre à exécuter dès son inscription dans le carnet d'ordres, à condition qu'il puisse l'être intégralement. S'il ne peut être exécuté qu'en partie, il est automatiquement rejeté et n'est donc pas exécuté. |\n| --- | --- |",
+      "text_sha256": "8c30a40be00bad4383049f99ec1780cb3e8896a59d77ac22be0d8b6e8868a816",
+      "md_span": {
+        "start": 1057,
+        "end": 5137
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0575:2017-03-31#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Publication d'informations sur les plates-formes d'exécution et les instruments financiers",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Pour chaque segment de marché sur lequel ils opèrent et pour chaque instrument financier soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes de négociation et les internalisateurs systématiques publient des informations sur le type de plate-forme d'exécution conformément au troisième alinéa.\n\nPour chaque segment de marché sur lequel elles opèrent et pour chaque instrument financier qui n'est pas soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes d'exécution publient des informations sur le type de plate-forme d'exécution conformément au troisième alinéa.\n\nLes informations suivantes sont publiées selon le modèle figurant au tableau 1 de l'annexe:\n\ni) nom et identifiant de la plate-forme d'exécution;\n\nii) pays d'implantation de l'autorité compétente;\n\niii) nom et identifiant du segment de marché;\n\niv) date de la séance de négociation;\n\nv) nature, nombre et durée moyenne de toutes les défaillances qui, durant les heures normales de négociation de la plate-forme, ont interrompu la négociation de l'ensemble des instruments disponibles à la négociation sur la plate-forme à la date de la séance de négociation;\n\nvi) nature, nombre et durée moyenne de toutes les enchères programmées durant les heures normales de négociation de la plate-forme à la date de la séance de négociation;\n\nvii) nombre de transactions avortées à la date de la séance de négociation;\n\nviii) valeur des transactions avortées en pourcentage de la valeur totale des transactions exécutées à la date de la séance de négociation.\n\n2. Pour chaque segment de marché sur lequel ils opèrent et pour chaque instrument financier soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes de négociation et les internalisateurs systématiques publient des informations sur le type d'instrument financier conformément au troisième alinéa.\n\nPour chaque segment de marché sur lequel elles opèrent et pour chaque instrument financier qui n'est pas soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes d'exécution publient des informations sur le type d'instrument financier conformément au troisième alinéa du présent paragraphe.\n\nLes informations suivantes sont publiées selon le modèle figurant au tableau 2 de l'annexe:\n\na) pour les instruments financiers possédant un identifiant au sens du tableau 2 de l'annexe:\n\ni) nom et identifiant de l'instrument financier;\n\nii) catégorie d'instrument financier;\n\niii) monnaie;\n\nb) pour les instruments financiers ne possédant pas d'identifiant au sens du tableau 2 de l'annexe:\n\ni) nom et description écrite de l'instrument, incluant la monnaie de l'instrument sous-jacent, le multiplicateur du prix, l'expression du prix, l'expression de la quantité et le type de livraison;\n\nii) catégorie d'instrument financier;\n\niii) monnaie.",
+      "text_sha256": "f888c0f3f4a9c2d6af38e78e3fea22a671212aec89a7ebde2f5872ea7b5f28b4",
+      "md_span": {
+        "start": 5267,
+        "end": 8273
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0575:2017-03-31#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Prix",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour chaque segment de marché sur lequel ils opèrent et pour chaque instrument financier soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes de négociation et les internalisateurs systématiques publient des informations, conformément aux troisième et quatrième alinéas du présent article, sur les prix pour chaque séance de négociation durant laquelle des ordres portant sur l'instrument financier en question ont été exécutés.\n\nPour chaque segment de marché sur lequel elles opèrent et pour chaque instrument financier qui n'est pas soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes d'exécution publient des informations, conformément aux troisième et quatrième alinéas du présent article, sur les prix pour chaque séance de négociation durant laquelle des ordres portant sur l'instrument financier en question ont été exécutés.\n\nLes informations suivantes sont publiées:\n\na) informations intrajournalières\n\ni) pour les plates-formes de négociation: le prix moyen simple de toutes les transactions exécutées à cette date dans les deux minutes suivant chacune des heures de référence 9:30:00, 11:30:00, 13:30:00 et 15:30:00 (TUC), pour chacun des intervalles de taille définis à l'article 9;\n\nii) pour les internalisateurs systématiques, les teneurs de marché et les autres fournisseurs de liquidité: le prix moyen simple de toutes les transactions exécutées à cette date dans les deux minutes suivant chacune des heures de référence 9:30:00, 11:30:00, 13:30:00 et 15:30:00 (TUC), pour l'intervalle de taille 1 défini à l'article 9;\n\niii) la valeur totale des transactions exécutées durant les périodes de deux minutes définies aux points i) et ii);\n\niv) pour les plates-formes de négociation: si aucune transaction n'a eu lieu durant les deux premières minutes suivant les heures de référence définies au point i), le prix de la première transaction éventuellement exécutée à cette date, dans chacun des intervalles de taille définis à l'article 9, après chacune des heures de référence prévues au point i);\n\nv) pour les internalisateurs systématiques, les teneurs de marché et les autres fournisseurs de liquidité: si aucune transaction n'a eu lieu durant les deux premières minutes suivant les heures de référence définies au point ii), le prix de la première transaction éventuellement exécutée à cette date, dans l'intervalle de taille 1 défini à l'article 9, après chacune des heures de référence prévues au point ii);\n\nvi) le délai d'exécution de chacune des transactions visées aux points iv) et v);\n\nvii) la taille de la transaction, en valeur, pour chacune des transactions exécutées visées aux points iv) et v);\n\nviii) le système de négociation et le mode de négociation qui ont servi à l'exécution des transactions visées aux points iv) et v);\n\nix) la plate-forme de négociation sur laquelle ont été exécutées les transactions visées aux points iv) et v);\n\nx) le meilleur prix affiché à l'achat et à la vente *(best bid and offer)* ou le prix de référence approprié, au moment de l'exécution, pour chacune des transactions exécutées visées aux points iv) et v).\n\nLes informations intrajournalières sont publiées selon le modèle figurant au tableau 3 de l'annexe;\n\nb) informations journalières:\n\ni) si plus d'une transaction a eu lieu, le prix moyen simple, et le prix moyen pondéré en fonction du volume, des transactions;\n\nii) si plus de deux transactions ont eu lieu, le prix d'exécution le plus élevé;\n\niii) si plus de deux transactions ont eu lieu, le prix d'exécution le plus bas.\n\nLes informations journalières sont publiées selon le modèle figurant au tableau 4 de l'annexe.",
+      "text_sha256": "5182d5363f1a1f217dce6fe74ed16c502845c0788c43779a994b88eff8eee21a",
+      "md_span": {
+        "start": 8317,
+        "end": 12046
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32017R0575R%2803%29",
+          "text": "32017R0575R(03): REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32017R0575",
+          "text": "32017R0575"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0575:2017-03-31#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Coûts",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour chaque segment de marché sur lequel ils opèrent et pour chaque instrument financier soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes de négociation et les internalisateurs systématiques publient des informations, conformément au troisième alinéa du présent article, sur les coûts que la plate-forme de négociation applique aux membres ou utilisateurs de la plate-forme.\n\nPour chaque segment de marché sur lequel elles opèrent et pour chaque instrument financier qui n'est pas soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes d'exécution publient des informations, conformément au troisième alinéa du présent article, sur les coûts qu'elles appliquent aux membres ou utilisateurs de la plate-forme.\n\nLes informations suivantes sont publiées selon le modèle figurant au tableau 5 de l'annexe:\n\na) une description de la nature et une indication du niveau de toutes les composantes des coûts appliqués par la plate-forme d'exécution, avant toute remise ou ristourne, et des informations sur la modulation de ces coûts en fonction de l'utilisateur ou de l'instrument financier concerné et sur les différences de montant qui en découlent. Les composantes de coûts incluent:\n\ni) les frais d'exécution;\n\nii) les frais de soumission, de modification ou d'annulation d'ordres ou de retraits d'offres;\n\niii) les frais d'accès aux données de marché et d'utilisation de terminaux;\n\niv) les frais de compensation et de règlement et tous les autres frais payés à des tiers participant à l'exécution de l'ordre;\n\nb) une description de la nature et une indication du niveau de toute remise, ristourne ou autre type de paiement proposé aux utilisateurs de la plate-forme d'exécution, notamment des informations sur la modulation de ces remises, ristournes ou autres types de paiements en fonction de l'utilisateur ou de l'instrument financier concerné et sur les différences de montant qui en découlent;\n\nc) une description de la nature et une indication du montant de tout avantage non pécuniaire offert aux utilisateurs de la plate-forme d'exécution, notamment des informations sur la modulation de ces avantages non pécuniaires en fonction de l'utilisateur ou de l'instrument financier concerné et sur les différences de montant qui en découlent;\n\nd) une description de la nature et une indication du niveau des taxes ou prélèvements facturés ou supportés par la plate-forme d'exécution pour le compte des membres ou utilisateurs de la plate-forme;\n\ne) un lien vers le site web de la plate-forme ou vers une autre source d'information supplémentaire sur les coûts;\n\nf) la valeur totale des remises, ristournes, avantages non pécuniaires ou autres types de paiements mentionnés aux points b) et c), exprimée en pourcentage de la valeur totale des transactions effectuées sur la période de déclaration;\n\ng) la valeur totale des coûts indiqués au point a), à l'exclusion de la valeur totale des remises, ristournes, avantages non pécuniaires ou autres types de paiements mentionnés aux points b) et c), exprimée en pourcentage de la valeur totale des transactions effectuées sur la période de déclaration.",
+      "text_sha256": "8a11187c6822bad9c22de084c10df9e82fc91705d584fc11d3067af088159443",
+      "md_span": {
+        "start": 12091,
+        "end": 15323
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0575:2017-03-31#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Probabilité d'exécution",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour chaque segment de marché sur lequel ils opèrent et pour chaque instrument financier soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes de négociation et les internalisateurs systématiques publient pour chaque séance de négociation des informations, conformément au troisième alinéa du présent article, sur la probabilité d'exécution.\n\nPour chaque segment de marché sur lequel elles opèrent et pour chaque instrument financier qui n'est pas soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes d'exécution publient pour chaque séance de négociation des informations, conformément au troisième alinéa du présent article, sur la probabilité d'exécution.\n\nLes informations suivantes sont publiées selon le modèle figurant au tableau 6 de l'annexe:\n\na) nombre d'ordres ou de demandes d'offres de prix reçus;\n\nb) nombre et valeur des transactions exécutées, s'il y en a eu plus d'une;\n\nc) nombre d'ordres ou de demandes d'offres de prix reçus qui ont été annulés ou retirés, à l'exclusion des ordres passifs assortis d'une instruction d'expiration ou d'annulation à la fin de la séance;\n\nd) nombre d'ordres ou de demandes d'offres de prix reçus qui ont été modifiés à cette date;\n\ne) taille de transaction médiane à cette date, s'il y a eu plus d'une transaction;\n\nf) taille médiane de tous les ordres ou demandes d'offres de prix reçus à cette date, s'il y en a eu plusieurs;\n\ng) nombre de teneurs de marché désignés.",
+      "text_sha256": "d5be844ba515b714ae7ae46037224fedb3406deffa29afcbfe33a157681084b1",
+      "md_span": {
+        "start": 15386,
+        "end": 16937
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r0575:2017-03-31#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Informations supplémentaires pour les plates-formes d'exécution utilisant un carnet d'ordres à enchères continues ou un système de négociation en continu dirigé par les prix",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Pour chaque segment de marché sur lequel ils opèrent et pour chaque instrument financier soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes de négociation et les internalisateurs systématiques utilisant un carnet d'ordres à enchères continues, un système de négociation en continu dirigé par les prix ou un autre type de système de négociation pour lequel ces informations sont disponibles publient, aux heures de référence indiquées à l'article 4, points a), i) et ii), des informations supplémentaires, conformément au troisième alinéa du présent paragraphe, pour chaque séance de négociation.\n\nPour chaque segment de marché sur lequel elles opèrent et pour chaque instrument financier qui n'est pas soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes d'exécution utilisant un carnet d'ordres à enchères continues, un système de négociation en continu dirigé par les prix ou un autre type de système de négociation pour lequel ces informations sont disponibles publient, aux heures de référence indiquées à l'article 4, points a), i) et ii), des informations supplémentaires, conformément au troisième alinéa du présent paragraphe, pour chaque séance de négociation.\n\nLes informations suivantes sont publiées selon le modèle figurant au tableau 7 de l'annexe:\n\ni) meilleurs prix affichés à l'achat et à la vente et volumes correspondants;\n\nii) profondeur du carnet d'ordres pour trois paliers de prix.\n\n2. Pour chaque segment de marché sur lequel ils opèrent et pour chaque instrument financier soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes de négociation et les internalisateurs systématiques utilisant un carnet d'ordres à enchères continues, un système de négociation en continu dirigé par les prix ou un autre type de système de négociation pour lequel ces informations sont disponibles publient, pour chaque séance de négociation, des informations supplémentaires conformément au troisième alinéa du présent paragraphe.\n\nPour chaque segment de marché sur lequel elles opèrent et pour chaque instrument financier qui n'est pas soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes d'exécution utilisant un carnet d'ordres à enchères continues, un système de négociation en continu dirigé par les prix ou un autre type de système de négociation pour lequel ces informations sont disponibles publient, pour chaque séance de négociation, des informations supplémentaires conformément au troisième alinéa du présent paragraphe.\n\nLes informations suivantes sont publiées selon le modèle figurant au tableau 8 de l'annexe:\n\na) écart effectif moyen;\n\nb) volume moyen au meilleur prix affiché à l'achat et à la vente;\n\nc) écart moyen au meilleur prix affiché à l'achat et à la vente;\n\nd) nombre d'annulations au meilleur prix affiché à l'achat et à la vente;\n\ne) nombre de modifications au meilleur prix affiché à l'achat et à la vente;\n\nf) profondeur moyenne du carnet d'ordres pour trois paliers de prix;\n\ng) laps de temps moyen et laps de temps médian écoulés entre la réception, par la plate-forme d'exécution, d'un ordre agressif ou d'une acceptation d'offre et l'exécution totale ou partielle;\n\nh) vitesse moyenne d'exécution des ordres passifs non modifiés au meilleur prix affiché à l'achat et à la vente;\n\ni) nombre d'ordres pour exécution intégrale immédiate ou annulation *(fill or kill)* avortés;\n\nj) nombre d'ordres pour exécution immédiate ou annulation *(immediate or cancel)* dont aucune portion n'a été exécutée;\n\nk) nombre et valeur des transactions exécutées sur la plate-forme de négociation qui sont d'une taille élevée au sens de l'article 4 ou de l'article 9 du règlement (UE) no 600/2014;\n\nl) nombre et valeur des transactions exécutées sur la plate-forme de négociation conformément à l'article 4 ou à l'article 9 du règlement (UE) no 600/2014, à l'exclusion des ordres placés dans un système de gestion des ordres de la plate-forme de négociation en attendant leur divulgation et non repris au point k);\n\nm) nombre et durée moyenne des interruptions de négociation liées à une enchère lors d'un épisode de volatilité ou au déclenchement d'un coupe-circuit intervenues durant les heures normales de négociation de la plate-forme;\n\nn) nature, nombre et durée moyenne de toute suspension de négociation intervenue sur décision de la plate-forme durant ses heures normales de négociation, autre que les défaillances déclarées conformément à l'article 3, paragraphe 1, point v).\n\n3. Pour chaque segment de marché sur lequel ils opèrent et pour chaque instrument financier soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes de négociation et les internalisateurs systématiques opérant, intégralement ou en partie, à l'aide d'un système de négociation en continu dirigé par les prix publient des informations supplémentaires conformément au troisième alinéa du présent paragraphe.\n\nPour chaque segment de marché sur lequel elles opèrent et pour chaque instrument financier qui n'est pas soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes d'exécution opérant, intégralement ou en partie, à l'aide d'un système de négociation en continu dirigé par les prix publient des informations supplémentaires conformément au troisième alinéa du présent paragraphe.\n\nLes informations suivantes sont publiées selon le modèle figurant au tableau 8 de l'annexe:\n\na) pour chaque séance de négociation, le nombre et la durée moyenne de toutes les périodes de plus de 15 minutes, s'inscrivant dans les heures normales de négociation de la plate-forme, durant lesquelles aucun prix d'achat ou de vente n'a été fourni;\n\nb) le taux moyen de présence des offres, en pourcentage de la période normale de négociation de la plate-forme à cette date.",
+      "text_sha256": "0c13f8b3df3c3d21c3436062e17970c5958828acbe4bc2579626c4335c58b834",
+      "md_span": {
+        "start": 17150,
+        "end": 23202
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r0575:2017-03-31#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Informations supplémentaires pour les plates-formes d'exécution utilisant un système de demandes d'offres de prix",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour chaque segment de marché sur lequel ils opèrent et pour chaque instrument financier soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes de négociation et les internalisateurs systématiques utilisant un système de demandes d'offres de prix ou tout autre type de système de négociation pour lequel ces informations sont disponibles publient pour chaque séance de négociation des informations supplémentaires conformément au troisième alinéa du présent article.\n\nPour chaque segment de marché sur lequel elles opèrent et pour chaque instrument financier qui n'est pas soumis à l'obligation de négociation prévue par les articles 23 et 28 du règlement (UE) no 600/2014, les plates-formes d'exécution utilisant un système de demandes d'offre de prix, ou tout autre type de système de négociation pour lequel ces informations sont disponibles, publient des informations supplémentaires pour chaque séance de négociation conformément au troisième alinéa du présent article.\n\nLes informations suivantes sont publiées selon le modèle figurant au tableau 9 de l'annexe:\n\na) le laps de temps moyen et le laps de temps médian écoulés entre l'acceptation d'une offre de prix et l'exécution, pour toutes les transactions portant sur l'instrument financier concerné; et\n\nb) le laps de temps moyen et le laps de temps médian écoulés entre la demande et la remise d'offres de prix, pour toutes les offres de prix portant sur l'instrument financier concerné.",
+      "text_sha256": "284e7756ec33c212d98a329784bed71d0db9ba3466d42e249314e7a9876252d4",
+      "md_span": {
+        "start": 23355,
+        "end": 24867
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32017r0575:2017-03-31#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Définition d'intervalles de taille",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les plates-formes d'exécution déclarent les transactions exécutées visées à l'article 4 en les répartissant dans les intervalles de taille suivants:\n\na) pour tous les instruments financiers autres que les instruments du marché monétaire\n\ni) intervalle de taille 1: taille supérieure à 0 EUR mais inférieure ou égale à la taille normale de marché ou à la taille spécifique à l'instrument financier;\n\nii) intervalle de taille 2: taille supérieure à la taille normale de marché ou à la taille spécifique à l'instrument financier mais inférieure ou égale à une taille élevée;\n\niii) intervalle de taille 3: taille supérieure à une taille élevée;\n\nb) pour les actions non liquides, les fonds cotés ou les certificats représentatifs:\n\ni) intervalle de taille 1: taille supérieure à 0 EUR mais inférieure ou égale à la plus petite taille normale de marché disponible pour ce type d'instrument;\n\nii) intervalle de taille 2: taille supérieure à la plus petite taille normale de marché disponible pour ce type d'instrument mais inférieure ou égale à une taille élevée;\n\niii) intervalle de taille 3: taille supérieure à une taille élevée;\n\nc) pour les instruments du marché monétaire;\n\ni) intervalle de taille 1: taille supérieure à 0 EUR mais inférieure ou égale à 10 millions d'EUR;\n\nii) intervalle de taille 2: taille supérieure à 10 millions d'EUR mais inférieure ou égale à 50 millions d'EUR;\n\niii) intervalle de taille 3: taille supérieure à 50 millions d'EUR.",
+      "text_sha256": "e6eb65659d62ac96006c620421d4473d521b64c0455e23282ad07e8b111048c6",
+      "md_span": {
+        "start": 24941,
+        "end": 26395
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32017r0575:2017-03-31#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Format de publication",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pour chaque séance de négociation, les plates-formes d'exécution publient les informations requises conformément aux modèles figurant en annexe, sous une forme électronique lisible par machine et téléchargeable en ligne par le public.",
+      "text_sha256": "bb9334f1e2a5304f1d1272e71419e9261ebfb295a26f80e373a701b976d1f449",
+      "md_span": {
+        "start": 26458,
+        "end": 26692
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32017r0575:2017-03-31#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Périodicité des publications",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les plates-formes d'exécution publient trimestriellement, au plus tard trois mois après la fin de chaque trimestre, à savoir:\n\na) au plus tard le 30 juin, les informations portant sur la période du 1er janvier au 31 mars;\n\nb) au plus tard le 30 septembre, les informations portant sur la période du 1er avril au 30 juin;\n\nc) au plus tard le 31 décembre, les informations portant sur la période du 1er juillet au 30 septembre;\n\nd) au plus tard le 31 mars, les informations portant sur la période du 1er octobre au 31 décembre.",
+      "text_sha256": "c6d726446aecfae06add72327026ff0f2807793b77cb2c55f8986c0267ec2f6d",
+      "md_span": {
+        "start": 26762,
+        "end": 27287
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32017r0575:2017-03-31#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Entrée en vigueur et application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.\n\nIl s'applique à compter du 3 janvier 2018.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.",
+      "text_sha256": "9bfa3df03a6486b30b57ff439f55ac7bb82f54b7dc0eb9ca58abaa66cf761258",
+      "md_span": {
+        "start": 27361,
+        "end": 27647
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe",
+      "provision_id": "eu-eurlex:32017r0575:2017-03-31#annexe",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Tableau 1 — Informations d'identification à publier conformément à l'article 3, paragraphe 1 — Type de plate-forme d'exécution**\n\n| Plate-forme | Nom | Identifiant (code d'identification de marché MIC selon la norme ISO 10383 ou code d'entité juridique LEI) |  |\n| --- | --- | --- | --- |\n| Pays de l'autorité compétente | Nom |  |  |\n| Segment de marché | Nom | Identifiant (MIC du segment de marché selon ISO 10383) |  |\n| Date de la séance de négociation | ISO 8601 |  |  |\n| Défaillances | Nature | Nombre | Durée moyenne |\n| Enchères programmées | Nature | Nombre | Durée moyenne |\n| Transactions avortées |  | Nombre | Valeur (en % de la valeur totale des transactions exécutées à la date indiquée) |\n\n**Tableau 2 — Informations d'identification à publier conformément à l'article 3, paragraphe 2 — Type d'instrument financier**\n\n| Instrument financier | Nom | Identifiant (ISO 6166) |\n| --- | --- | --- |\n| Description écrite de l'instrument financier en cas d'absence d'identifiant (monnaie de l'instrument sous-jacent, multiplicateur du prix, expression du prix, expression de la quantité et type de livraison) |  |  |\n| Catégorie d'instrument financier | (code CFI selon la norme ISO 10962) |  |\n| Monnaie | (ISO 4217) |  |\n\n**Tableau 3 — Informations sur les prix à publier conformément à l'article 4, point a)**\n\n|  | Intervalles de taille | Ensemble des transactions exécutées dans les deux premières minutes suivant l'instant *T* | Première transaction effectuée après l'instant *T* (s'il n'y en a pas eu dans les deux premières minutes suivant l'instant *T*) |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Heure (instant *T*) |  | Prix moyen simple des transactions exécutées (à l'exclusion des commissions et intérêts courus) | Montant total des transactions exécutées | Prix | Heure d'exécution | Taille des transactions | Système de négociation | Mode de négociation | Plate-forme de négociation | Meilleurs prix affichés à l'achat et à la vente *(best bid and offer)* ou prix de référence approprié au moment de l'exécution |\n| 09:30:00 | 1 |  |  |  |  |  |  |  |  |  |\n|  | 2 |  |  |  |  |  |  |  |  |  |\n|  | 3 |  |  |  |  |  |  |  |  |  |\n| 11:30:00 | 1 |  |  |  |  |  |  |  |  |  |\n|  | 2 |  |  |  |  |  |  |  |  |  |\n|  | 3 |  |  |  |  |  |  |  |  |  |\n| 13:30:00 | 1 |  |  |  |  |  |  |  |  |  |\n|  | 2 |  |  |  |  |  |  |  |  |  |\n|  | 3 |  |  |  |  |  |  |  |  |  |\n| 15:30:00 | 1 |  |  |  |  |  |  |  |  |  |\n|  | 2 |  |  |  |  |  |  |  |  |  |\n|  | 3 |  |  |  |  |  |  |  |  |  |\n\n**Tableau 4 — Informations sur les prix à publier conformément à l'article 4, point b)**\n\n| Prix moyen simple des transactions |  |\n| --- | --- |\n| Prix moyen des transactions pondéré en fonction du volume |  |\n| Prix d'exécution le plus élevé |  |\n| Prix d'exécution le plus bas |  |\n\n**Tableau 5 — Informations sur les coûts à publier conformément à l'article 5**\n\n| Informations requises par l'article 5, points a) à d) | (Description) |\n| --- | --- |\n| Lien vers un site web ou une autre source d'information supplémentaire sur les coûts |  |\n| Montant total des remises, ristournes et autres types de paiements proposés (en % de la valeur totale des transactions effectuées sur la période de déclaration) | % |\n| Montant total des coûts (en % de la valeur totale des transactions effectuées sur la période de déclaration) | % |\n\n**Tableau 6 — Informations sur la probabilité d'exécution à publier conformément à l'article 6**\n\n| Nombre d'ordres ou de demandes d'offres de prix reçus |  |\n| --- | --- |\n| Nombre de transactions exécutées |  |\n| Valeur totale des transactions exécutées |  |\n| Nombre d'ordres ou de demandes d'offres de prix reçus qui ont été annulés ou retirés |  |\n| Nombre d'ordres ou de demandes d'offres de prix reçus qui ont été modifiés |  |\n| Taille médiane des transactions |  |\n| Taille médiane de l'ensemble des ordres ou demandes d'offres de prix |  |\n| Nombre de teneurs de marché désignés |  |\n\n**Tableau 7 — Informations sur la probabilité d'exécution à publier conformément à l'article 7, paragraphe 1**\n\n| Heure | Meilleur prix affiché à l'achat | Meilleur prix affiché à la vente | Taille de la meilleure offre d'achat | Taille de la meilleure offre de vente | Profondeur du carnet d'ordres pour trois paliers de prix |\n| --- | --- | --- | --- | --- | --- |\n| 09:30:00 |  |  |  |  |  |\n| 11:30:00 |  |  |  |  |  |\n| 13:30:00 |  |  |  |  |  |\n| 15:30:00 |  |  |  |  |  |\n\n**Tableau 8 — Informations à publier conformément à l'article 7, paragraphes 2 et 3**\n\n| Écart effectif moyen |  |\n| --- | --- |\n| Volume moyen aux meilleurs prix affichés à l'achat et à la vente |  |\n| Écart moyen entre les meilleurs prix affichés à l'achat et à la vente |  |\n| Nombre d'annulations aux meilleurs prix affichés à l'achat et à la vente |  |\n| Nombre de modifications aux meilleurs prix affichés à l'achat et à la vente |  |\n| Profondeur moyenne du carnet d'ordres pour trois paliers de prix |  |\n| Temps moyen et temps médian écoulés entre la réception, par la plate-forme d'exécution, d'un ordre agressif ou d'une acceptation d'offre de prix et l'exécution totale ou partielle |  |\n| Temps médian (à la milliseconde) écoulé entre la réception, par la plate-forme d'exécution, d'un ordre au marché et son exécution totale ou partielle |  |\n| Vitesse moyenne d'exécution des ordres passifs non modifiés aux meilleurs prix affichés à l'achat et à la vente |  |\n| Nombre d'ordres *fill or kill* avortés |  |\n| Nombre d'ordres *immediate or cancel* dont aucune portion n'a été exécutée |  |\n| Nombre de transactions exécutées sur la plate-forme de négociation qui sont d'une taille élevée au sens de l'article 4 ou 9 du règlement (UE) no 600/2014 |  |\n| Valeur des transactions exécutées sur la plate-forme de négociation qui sont d'une taille élevée au sens de l'article 4 ou 9 du règlement (UE) no 600/2014 |  |\n| Nombre de transactions exécutées sur la plate-forme de négociation qui ne sont pas d'une taille élevée au sens de l'article 4 ou de l'article 9 du règlement MiFIR, à l'exclusion des ordres placés dans un système de gestion des ordres de la plate-forme de négociation en attendant leur divulgation |  |\n| Valeur des transactions exécutées sur la plate-forme de négociation qui ne sont pas d'une taille élevée au sens de l'article 4 ou de l'article 9 du règlement MiFIR, à l'exclusion des ordres placés dans un système de gestion des ordres de la plate-forme de négociation en attendant leur divulgation |  |\n| Nombre d'interruptions de la négociation |  |\n| Durée moyenne des interruptions de la négociation |  |\n| Nombre de suspensions |  |\n| Nature des suspensions |  |\n| Durée moyenne des suspensions |  |\n| Pour les plates-formes utilisant un système de négociation en continu dirigé par les prix, nombre de périodes durant lesquelles aucune offre n'a été faite |  |\n| Pour les plates-formes utilisant un système de négociation en continu dirigé par les prix, durée moyenne des périodes durant lesquelles aucune offre n'a été faite |  |\n| Taux moyen de présence des offres |  |\n\n**Tableau 9 — Informations à publier conformément à l'article 8**\n\n| Temps moyen écoulé entre l'acceptation et l'exécution |  |\n| --- | --- |\n| Temps médian écoulé entre l'acceptation et l'exécution |  |\n| Temps moyen écoulé entre la demande et la fourniture d'offres de prix |  |\n| Temps médian écoulé entre la demande et la fourniture d'offres de prix |  |",
+      "text_sha256": "8db1ce315da0922ff6ba32e521b9cbe52047ff7fd0c73a8355a8f98eb2a31e98",
+      "md_span": {
+        "start": 27682,
+        "end": 35118
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

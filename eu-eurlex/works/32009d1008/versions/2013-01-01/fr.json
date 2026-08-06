@@ -1,0 +1,125 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32009d1008:2013-01-01",
+  "language": "fr",
+  "title": "Council Implementing Decision of 7\u00A0December 2009 authorising the Republic of Latvia to ext…",
+  "valid_from": "2013-01-01",
+  "valid_to": "2015-12-17",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32009d1008/versions/2013-01-01/fr.html",
+    "sha256": "716a8621f86259c690823db92161fe8c55d57f43619fbd63351dedb5d086a0aa",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02009D1008-20130101"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32009d1008:2013-01-01#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Par dérogation à l’article 193 de la directive 2006/112/CE, la Lettonie est autorisée à continuer de désigner le destinataire des biens ou des services comme le redevable de la TVA dans le cas des opérations concernant le bois.",
+      "text_sha256": "bccf1c05e1951069b1351ba2d9ca50e73a8a4ee368b07ab1c6f62ae26ec7bd79",
+      "md_span": {
+        "start": 667,
+        "end": 894
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32009d1008:2013-01-01#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La présente décision est applicable du 1er janvier 2010 au ►M1 31 décembre 2015** ◄ **.",
+      "text_sha256": "6103f10be2daebaebedddfee13e756c8e6fc975e81cd949291fd783dc9749d79",
+      "md_span": {
+        "start": 931,
+        "end": 1018
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32013D0055",
+          "text": "►M1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32013D0055",
+          "text": "32013D0055: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2_bis",
+      "provision_id": "eu-eurlex:32009d1008:2013-01-01#art_2_bis",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2 bis",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Toute demande de prorogation de la mesure prévue par la présente décision est transmise à la Commission, au plus tard le 31 mars 2015, accompagnée d’un rapport sur l’application de ladite mesure.",
+      "text_sha256": "bd35d5babb9a8ab3093dc99a67eee9e0bb5af5f5d1a5f94156bb1f2f0e540e01",
+      "md_span": {
+        "start": 1063,
+        "end": 1258
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009D1008",
+          "text": "32009D1008"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32009d1008:2013-01-01#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La République de Lettonie est destinataire de la présente décision.\n\n(1) JO L 347 du 11.12.2006, p. 1.\n\n(2) JO L 236 du 23.9.2003, p. 33.\n\n(3) JO L 25 du 28.1.2006, p. 31.\n\n(4) JO L 145 du 13.6.1977, p. 1.",
+      "text_sha256": "7e1dab4918bae726a43fcbb1dc5bbf27b7d29a954ee83d8315aae2fa43360383",
+      "md_span": {
+        "start": 1295,
+        "end": 1500
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

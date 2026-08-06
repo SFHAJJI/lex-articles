@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r2854r(01):2024-12-09",
+  "language": "en",
+  "title": "Corrigendum to Regulation (EU) 2023/2854",
+  "valid_from": "2024-12-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r2854r(01)/versions/2024-12-09/en.xml",
+    "sha256": "73b6dcc798c1a76b8e27eae190595f16f19593ab3db5eb42b2800293cd7b1970",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2854R%2801%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32023r2854r(01):2024-12-09#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Official Journal of the European Union EN L series 2024/90790 9.12.2024 Corrigendum to Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act) ( Official Journal of the European Union L, 2023/2854, 22 December 2023 ) On page 70, Article 48: for: ‘68. Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act) (OJ L, 2023/2854, 22.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2854/oj).’, read: ‘(69) Regulation (EU) 2023/2854 of the European Parliament and of the Council of 13 December 2023 on harmonised rules on fair access to and use of data and amending Regulation (EU) 2017/2394 and Directive (EU) 2020/1828 (Data Act) (OJ L, 2023/2854, 22.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2854/oj).’. ELI: http://data.europa.eu/eli/reg/2023/2854/corrigendum/2024-12-09/oj ISSN 1977-0677 (electronic edition)",
+      "text_sha256": "b392099dfbb3f1369634588083124b5c577693fc44572158f61024e06eda2c95",
+      "md_span": {
+        "start": 612,
+        "end": 1764
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1184:2025-06-10",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2025/1184 of 10\u00A0June 2025 amending Delegated Regulati…",
+  "valid_from": "2025-06-10",
+  "valid_to": "2025-09-09",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1184/versions/2025-06-10/fr.xml",
+    "sha256": "50612d795e00cf3ebe9017840b27d44d5a9fd53a87489a1d473b275039d3a915",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1184"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1184:2025-06-10#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe tableau figurant au point I de l’annexe du règlement délégué (UE) 2016/1675 est remplacé par le tableau figurant à l’annexe du présent règlement.",
+      "text_sha256": "abcd142fa63293a10661dbb3647e175050349816a73c7464aec6eece341eab2b",
+      "md_span": {
+        "start": 642,
+        "end": 807
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1184:2025-06-10#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 840,
+        "end": 981
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

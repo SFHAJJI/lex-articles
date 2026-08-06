@@ -1,0 +1,274 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31993l0013:2011-12-12",
+  "language": "fr",
+  "title": "Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts",
+  "valid_from": "2011-12-12",
+  "valid_to": "2022-05-27",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31993l0013/versions/2011-12-12/fr.html",
+    "sha256": "7bc51e6cbebbf942af8203c738cd4bf4df70b09a637118fdc2519a1acd4d7581",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01993L0013-20111212"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:31993l0013:2011-12-12#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. La présente directive a pour objet de rapprocher les dispositions législatives, réglementaires et administratives des États membres relatives aux clauses abusives dans les contrats conclus entre un professionnel et un consommateur.\n\n2. Les clauses contractuelles qui reflètent des dispositions législatives ou réglementaires impératives ainsi que des dispositions ou principes des conventions internationales, dont les États membres ou la Communauté sont partis, notamment dans le domaine des transports, ne sont pas soumises aux dispositions de la présente directive.",
+      "text_sha256": "e9feb6969e09ad8bda91ae1ba4a6383dbe1a8461f166da41f02bb2b1a3d8e46d",
+      "md_span": {
+        "start": 657,
+        "end": 1228
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:31993l0013:2011-12-12#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aux fins de la présente directive, on entend par:\n\n| a) | «clauses abusives» : les clauses d’un contrat telles qu’elles sont définies à l’article 3; |\n| --- | --- |\n\n| b) | «consommateur» : toute personne physique qui, dans les contrats relevant de la présente directive, agit à des fins qui n’entrent pas dans le cadre de son activité professionnelle; |\n| --- | --- |\n\n| c) | «professionnel» : toute personne physique ou morale qui, dans les contrats relevant de la présente directive, agit dans le cadre de son activité professionnelle, qu’elle soit publique ou privée. |\n| --- | --- |",
+      "text_sha256": "e15d3c97cbafff2c40b48a63cb286bd11f0d46edcb34a0d3b4731f8d0cf295dc",
+      "md_span": {
+        "start": 1265,
+        "end": 1852
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:31993l0013:2011-12-12#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Une clause d’un contrat n’ayant pas fait l’objet d’une négociation individuelle est considérée comme abusive lorsque, en dépit de l’exigence de bonne foi, elle crée au détriment du consommateur un déséquilibre significatif entre les droits et obligations des parties découlant du contrat.\n\n2. Une clause est toujours considérée comme n’ayant pas fait l’objet d’une négociation individuelle lorsqu’elle a été rédigée préalablement et que le consommateur n’a, de ce fait, pas pu avoir d’influence sur son contenu, notamment dans le cadre d’un contrat d’adhésion.\n\nLe fait que certains éléments d’une clause ou qu’une clause isolée aient fait l’objet d’une négociation individuelle n’exclut pas l’application du présent article au reste d’un contrat si l’appréciation globale permet de conclure qu’il s’agit malgré tout d’un contrat d’adhésion.\n\nSi le professionnel prétend qu’une clause standardisée a fait l’objet d’une négociation individuelle, la charge de la preuve lui incombe.\n\n3. L’annexe contient une liste indicative et non exhaustive de clauses qui peuvent être déclarées abusives.",
+      "text_sha256": "70cb5137cfc898ee21df032b83a9117ea523cc105a50acf6ecc71c07ee42863e",
+      "md_span": {
+        "start": 1889,
+        "end": 2981
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:31993l0013:2011-12-12#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Sans préjudice de l’article 7, le caractère abusif d’une clause contractuelle est apprécié en tenant compte de la nature des biens ou services qui font l’objet du contrat et en se référant, au moment de la conclusion du contrat, à toutes les circonstances qui entourent sa conclusion, de même qu’à toutes les autres clauses du contrat, ou d’un autre contrat dont il dépend.\n\n2. L’appréciation du caractère abusif des clauses ne porte ni sur la définition de l’objet principal du contrat ni sur l’adéquation entre le prix et la rémunération, d’une part, et les services ou les biens à fournir en contrepartie, d’autre part, pour autant que ces clauses soient rédigées de façon claire et compréhensible.",
+      "text_sha256": "1fb81a53eb690c8ee022b71720340036e28c3f3d031a9fb965c73263129270df",
+      "md_span": {
+        "start": 3018,
+        "end": 3722
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:31993l0013:2011-12-12#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Dans le cas des contrats dont toutes ou certaines clauses proposées au consommateur sont rédigées par écrit, ces clauses doivent toujours être rédigées de façon claire et compréhensible. En cas de doute sur le sens d’une clause, l’interprétation la plus favorable au consommateur prévaut. Cette règle d’interprétation n’est pas applicable dans le cadre des procédures prévues à l’article 7 paragraphe 2.",
+      "text_sha256": "54d762040b370f132c7705ebe6b040f4034a63d304f0c1d0ec09154799722e04",
+      "md_span": {
+        "start": 3759,
+        "end": 4162
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:31993l0013:2011-12-12#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres prévoient que les clauses abusives figurant dans un contrat conclu avec un consommateur par un professionnel ne lient pas les consommateurs, dans les conditions fixées par leurs droits nationaux, et que le contrat restera contraignant pour les parties selon les mêmes termes, s’il peut subsister sans les clauses abusives.\n\n2. Les États membres prennent les mesures nécessaires pour que le consommateur ne soit pas privé de la protection accordée par la présente directive du fait du choix du droit d’un pays tiers comme droit applicable au contrat, lorsque le contrat présente un lien étroit avec le territoire des États membres.",
+      "text_sha256": "2c7a44b1615284a7a9a1a806a1df8b66ad3529a1e896fa7446d5baad96b6d74a",
+      "md_span": {
+        "start": 4199,
+        "end": 4850
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:31993l0013:2011-12-12#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que, dans l’intérêt des consommateurs ainsi que des concurrents professionnels, des moyens adéquats et efficaces existent afin de faire cesser l’utilisation des clauses abusives dans les contrats conclus avec les consommateurs par un professionnel.\n\n2. Les moyens visés au paragraphe 1 comprennent des dispositions permettant à des personnes ou à des organisations ayant, selon la législation nationale, un intérêt légitime à protéger les consommateurs de saisir, selon le droit national, les tribunaux ou les organes administratifs compétents afin qu’ils déterminent si des clauses contractuelles, rédigées en vue d’une utilisation généralisée, ont un caractère abusif et appliquent des moyens adéquats et efficaces afin de faire cesser l’utilisation de telles clauses.\n\n3. Dans le respect de la législation nationale, les recours visés au paragraphe 2 peuvent être dirigés, séparément ou conjointement, contre plusieurs professionnels du même secteur économique ou leurs associations qui utilisent ou recommandent l’utilisation des mêmes clauses contractuelles générales, ou de clauses similaires.",
+      "text_sha256": "17c863ccd06569d360f804ce112f28c25d901b5a6e0cc7956b139d88cb7b0773",
+      "md_span": {
+        "start": 4887,
+        "end": 6021
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:31993l0013:2011-12-12#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres peuvent adopter ou maintenir, dans le domaine régi par la présente directive, des dispositions plus strictes, compatibles avec le traité, pour assurer un niveau de protection plus élevé au consommateur.",
+      "text_sha256": "90f7b52fd81edcb4facb9e5fbb97d397eda4245c8bf52cf2fb333fe8a98435ff",
+      "md_span": {
+        "start": 6058,
+        "end": 6278
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "32011L0083: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8_bis",
+      "provision_id": "eu-eurlex:31993l0013:2011-12-12#art_8_bis",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8 bis",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Lorsqu’un État membre adopte des dispositions conformément à l’article 8, il informe la Commission de l’adoption desdites dispositions ainsi que de toutes modifications ultérieures, en particulier lorsque ces dispositions:\n\n— étendent l’appréciation de leur caractère abusif aux clauses contractuelles négociées individuellement ou aux clauses relatives à l’adéquation du prix ou de la rémunération, ou\n\n— contiennent des listes de clauses contractuelles réputées abusives.\n\n2. La Commission s’assure que les informations visées au paragraphe 1 sont aisément accessibles aux consommateurs et aux professionnels, entre autres sur un site internet spécifique.\n\n3. La Commission transmet les informations visées au paragraphe 1 aux autres États membres et au Parlement européen. La Commission consulte les parties prenantes sur ces informations.",
+      "text_sha256": "8c7f466bbf4f1e1df357dd630b607c4aceb5db0b230fbbf1077789f2cd011643",
+      "md_span": {
+        "start": 6323,
+        "end": 7168
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/31993L0013",
+          "text": "31993L0013"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:31993l0013:2011-12-12#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La Commission soumet au Parlament européen et au Conseil, cinq ans au plus tard après la date visée à l’article 10 paragraphe 1, un rapport concernant l’application de la présente directive.",
+      "text_sha256": "4358c7cef4c383812c6396a618d6f08b9831ee107972e2d1a32137e1912c08fe",
+      "md_span": {
+        "start": 7205,
+        "end": 7395
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:31993l0013:2011-12-12#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le 31 décembre 1994. Ils en informent immédiatement la Commission.\n\nCes dispositions sont applicables à tous les contrats conclus après le 31 décembre 1994.\n\n2. Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n3. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine régi par la présente directive.",
+      "text_sha256": "2a88e4808f704cf98318d17342ced0e4d9c44d25011ad8fef3ff96635732b1d1",
+      "md_span": {
+        "start": 7434,
+        "end": 8200
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:31993l0013:2011-12-12#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres sont destinataires de la présente directive.",
+      "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+      "md_span": {
+        "start": 8239,
+        "end": 8301
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe",
+      "provision_id": "eu-eurlex:31993l0013:2011-12-12#annexe",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**CLAUSES VISÉES À L’ARTICLE 3 PARAGRAPHE 3**\n\n1. ****Clauses ayant pour objet ou pour effet:****\n\na) d’exclure ou de limiter la responsabilité légale du professionnel en cas de mort d’un consommateur ou de dommages corporels causés à celui-ci, résultant d’un acte ou d’une omission de ce professionnel;\n\nb) d’exclure ou de limiter de façon inappropriée les droits légaux du consommateur vis-à-vis du professionnel ou d’une autre partie en cas de non-exécution totale ou partielle ou d’exécution défectueuse par le professionnel d’une quelconque des obligations contractuelles, y compris la possibilité de compenser une dette envers le professionnel avec une créance qu’il aurait contre lui;\n\nc) de prévoir un engagement ferme du consommateur, alors que l’exécution des prestations du professionnel est assujettie à une condition dont la réalisation dépend de sa seule volonté;\n\nd) de permettre au professionnel de retenir des sommes versées par le consommateur lorsque celui-ci renonce à conclure ou à exécuter le contrat, sans prévoir le droit, pour le consommateur, de percevoir une indemnité d’un montant équivalent de la part du professionnel lorsque c’est celui-ci qui renonce;\n\ne) d’imposer au consommateur qui n’exécute pas ses obligations une indemnité d’un montant disproportionnellement élevé;\n\nf) d’autoriser le professionnel à résilier le contrat de façon discrétionnaire si la même faculté n’est pas reconnue au consommateur, ainsi que de permettre au professionnel de retenir les sommes versées au titre de prestations non encore réalisées par lui, lorsque c’est le professionnel lui-même qui résilie le contrat;\n\ng) d’autoriser le professionnel à mettre fin sans un préavis raisonnable à un contrat à durée indéterminée, sauf en cas de motif grave;\n\nh) de proroger automatiquement un contrat à durée déterminée en l’absence d’expression contraire du consommateur, alors qu’une date excessivement éloignée de la fin du contrat a été fixée comme date limite pour exprimer cette volonté de non-prorogation de la part du consommateur;\n\ni) constater de manière irréfragable l’adhésion du consommateur à des clauses dont il n’a pas eu, effectivement, l’occasion de prendre connaissance avant la conclusion du contrat;\n\nj) d’autoriser le professionnel à modifier unilatéralement les termes du contrat sans raison valable et spécifiée dans le contrat;\n\nk) d’autoriser les professionnels à modifier unilatéralement sans raison valable des caractéristiques du produit à livrer ou du service à fournir;\n\nl) de prévoir que le prix des biens est déterminé au moment de la livraison, ou d’accorder au vendeur de biens ou au fournisseur de services le droit d’augmenter leurs prix, sans que, dans les deux cas, le consommateur n’ait de droit correspondant lui permettant de rompre le contrat au cas où le prix final est trop élevé par rapport au prix convenu lors de la conclusion du contrat;\n\nm) d’accorder au professionnel le droit de déterminer si la chose livrée ou le service fourni est conforme aux stipulations du contrat ou de lui conférer le droit exclusif d’interpréter une quelconque clause du contrat;\n\nn) de restreindre l’obligation du professionnel de respecter les engagements pris par ses mandataires ou de soumettre ses engagements au respect d’une formalité particulière;\n\no) d’obliger le consommateur à exécuter ses obligations lors même que le professionnel n’exécuterait pas les siennes;\n\np) de prévoir la possibilité de cession du contrat de la part du professionnel, lorsqu’elle est susceptible d’engendrer une diminution des garanties pour le consommateur sans l’accord de celui-ci;\n\nq) de supprimer ou d’entraver l’exercice d’actions en justice ou des voies de recours par le consommateur, notamment en obligeant le consommateur à saisir exclusivement une juridiction d’arbitrage non couverte par des dispositions légales, en limitant indûment les moyens de preuves à la disposition du consommateur ou en imposant à celui-ci une charge de preuve qui, en vertu du droit applicable, devrait revenir normalement à une autre partie au contrat.\n\n2. ****Portée des points g), j) et l)****\n\na) Le point g) ne fait pas obstacle à des clauses par lesquelles le fournisseur de services financiers se réserve le droit de mettre fin au contrat à durée indéterminée unilatéralement, et ce, sans préavis en cas de raison valable, pourvu que soit mise à la charge du professionnel l’obligation d’en informer la ou les autres parties contractantes immédiatement.\n\nb) Le point j) ne fait pas obstacle à des clauses selon lesquelles le fournisseur de services financiers se réserve le droit de modifier le taux d’intérêt dû par le consommateur ou dû à celui-ci, ou le montant de toutes autres charges afférentes à des services financiers, sans aucun préavis en cas de raison valable, pourvu que soit mise à la charge du professionnel l’obligation d’en informer la ou les autres parties contractantes dans les meilleurs délais et que celles-ci soient libres de résilier immédiatement le contrat.\n\nLe point j) ne fait pas non plus obstacle à des clauses selon lesquelles le professionnel se réserve le droit de modifier unilatéralement les conditions d’un contrat de durée indéterminée pourvu que soit mis à sa charge le devoir d’en informer le consommateur avec un préavis raisonnable et que celui-ci soit libre de résilier le contrat.\n\nc) Les points g), j) et l) ne sont pas applicables aux:\n\n— transactions concernant les valeurs mobilières, instruments financiers et autres produits ou services dont le prix est lié aux fluctuations d’un cours ou d’un indice boursier ou d’un taux de marché financier que le professionnel ne contrôle pas,\n\n— contrats d’achat ou de vente de devises, de chèques de voyage ou de mandats-poste internationaux libellés en devises.\n\nd) Le point 1) ne fait pas obstacle aux clauses d’indexation de prix pour autant qu’elles soient licites et que le mode de variation du prix y soit explicitement décrit.\n\n(1) JO no C 73 du 24.3.1992, p. 7.\n\n(2) JO no C 326 du 16.12.1991, p. 108. JO no C 21 du 25.1.1993.\n\n(3) JO no C 159 du 17.6.1991, p. 34.\n\n(4) JO no C 92 du 25.4.1975, p. 1. JO no C 133 du 3.6.1981, p. 1.",
+      "text_sha256": "ea7fe94fe29f6a19bb7d96f3d00c9ee3992a19abb4484a77aaae7dccecb746b2",
+      "md_span": {
+        "start": 8336,
+        "end": 14482
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

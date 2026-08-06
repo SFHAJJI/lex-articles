@@ -1,0 +1,73 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r1254:2021-04-21",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2021/1254 of 21\u00A0April 2021 correcting Delegated Regulation (EU) 2017/565 supplementing Directive 2014/65/EU",
+  "valid_from": "2021-04-21",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r1254/versions/2021-04-21/en.xml",
+    "sha256": "dd06dc5050d1f85be3348ce7b476ab13091fd8353eb5c6736aaabaf424107830",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1254"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r1254:2021-04-21#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nDelegated Regulation (EU) 2017/565 is corrected as follows:\n\n| (1) | in Article 1, paragraph 1 is replaced by the following:‘1. Chapter II, and Sections 1 to 4, Article 64(4), Article 65 and Sections 6 to 8 of Chapter III and, to the extent they relate to those provisions, Chapter I and Chapter VIII of this Regulation shall apply to management companies when providing services in accordance with Article 6(4) of Directive 2009/65/EC and Article 6(6) of Directive 2011/61/EU of the European Parliament and of the Council(*1).(*1) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1).’;\" |\n| --- | --- |\n\n| (2) | Annex I is replaced by the text in the Annex to this Regulation. |\n| --- | --- |",
+      "text_sha256": "424c23d621e4d61e49ba2463808b425ecd6600596a9671db426c5352cf50c082",
+      "md_span": {
+        "start": 689,
+        "end": 1596
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2021277EN.01000601-E0003",
+          "text": "(*1)"
+        },
+        {
+          "href": "#ntc*1-L_2021277EN.01000601-E0003",
+          "text": "(*1)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2011_174_R_TOC",
+          "text": "OJ L 174, 1.7.2011, p. 1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r1254:2021-04-21#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1629,
+        "end": 1780
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

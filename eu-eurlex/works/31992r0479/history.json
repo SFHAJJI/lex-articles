@@ -1,0 +1,63 @@
+{
+  "lex_work_id": "eu-eurlex:31992r0479",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "html-eu-tolerant/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "document": [
+      {
+        "valid_from": "1992-02-25",
+        "valid_to": "1994-12-31",
+        "text_sha256": "a5ecfc52974777a96115376d7414de71bb5733ec189a4e8d04d53cfe0b61f5ff",
+        "in_version": "eu-eurlex:31992r0479:1992-02-25"
+      },
+      {
+        "valid_from": "2009-04-14",
+        "valid_to": null,
+        "text_sha256": "df1e00e52719ab137cebcabeb86435c53a03b408aedfc0c38005e52033b4e6d9",
+        "in_version": "eu-eurlex:31992r0479:2009-04-14"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "en": {
+      "document": [
+        {
+          "valid_from": "1992-02-25",
+          "valid_to": "1994-12-31",
+          "text_sha256": "a5ecfc52974777a96115376d7414de71bb5733ec189a4e8d04d53cfe0b61f5ff",
+          "in_version": "eu-eurlex:31992r0479:1992-02-25"
+        },
+        {
+          "valid_from": "2009-04-14",
+          "valid_to": null,
+          "text_sha256": "df1e00e52719ab137cebcabeb86435c53a03b408aedfc0c38005e52033b4e6d9",
+          "in_version": "eu-eurlex:31992r0479:2009-04-14"
+        }
+      ]
+    },
+    "fr": {
+      "document": [
+        {
+          "valid_from": "1992-02-25",
+          "valid_to": "1994-12-31",
+          "text_sha256": "6401bbc4fd9328533049fb9d904d513d76f92b355c46a120e130a4612bc43855",
+          "in_version": "eu-eurlex:31992r0479:1992-02-25"
+        },
+        {
+          "valid_from": "2009-04-14",
+          "valid_to": null,
+          "text_sha256": "976340f2ee1572957ee80bd187213e69cbf92fc6196a9d25e91e19647aaa3378",
+          "in_version": "eu-eurlex:31992r0479:2009-04-14"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": []
+  }
+}

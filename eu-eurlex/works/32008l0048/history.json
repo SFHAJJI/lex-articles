@@ -1,0 +1,2426 @@
+{
+  "lex_work_id": "eu-eurlex:32008l0048",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "anx_i": [
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2011-12-04",
+        "text_sha256": "63314806506c9236e3109e3d5e87e3b3a4b979f6730e886e3e02266bdb5b2d98",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2011-12-05",
+        "valid_to": "2017-12-31",
+        "text_sha256": "f17540b26b58e3e999bef110d98b64b52da3c25552ed59e08ae26e871d67b85a",
+        "in_version": "eu-eurlex:32008l0048:2011-12-05"
+      },
+      {
+        "valid_from": "2018-01-01",
+        "valid_to": "2019-07-25",
+        "text_sha256": "fbcb7ea59b4d491266a6459fce1c78c95d07b2534982af0421cb1de0242a1804",
+        "in_version": "eu-eurlex:32008l0048:2018-01-01"
+      }
+    ],
+    "anx_ii": [
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      }
+    ],
+    "anx_iii": [
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      }
+    ],
+    "art_1": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "ec43ff088af8132f189f0cbf1b557f57351a8eedacccc9cfa1887c2a4c54ba8f",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": null,
+        "text_sha256": "a0719c0f4d875e8a8d1727780eb6d567a4366d009d10d7820baa6cef1d3e3070",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      }
+    ],
+    "art_10": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "084261dc2b5aa03f1f4d6536e2bb849fb41c3146b2ff545a322d420800dec1e3",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "bf32e3b33cc4fea87b36a60db50d0086ad430183b2c4470e506a6a5be4426895",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "b62d30a479aa676e149c85725511e20e13a4160d61d58d23d46719fc5567fbbf",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_11": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "6fd98d15bfac521cde1586ffa37885255a6cd964d9692e82082d028fbbbeceac",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "ffe4dabbcd322fa435e0249738ce8509477987593eca2e09ad35471e70ebe89a",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "60fd8fdbaddac0cdf75a278dc6ceb517a3fd3907a1652ac31624fd1be129258e",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_11a": [
+      {
+        "valid_from": "2023-12-30",
+        "valid_to": null,
+        "text_sha256": "49508f1501e588552810fc344f9c7a5c0097eab72e61fc1011facd40e43d6a77",
+        "in_version": "eu-eurlex:32008l0048:2023-12-30"
+      }
+    ],
+    "art_12": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "604e0afdcaa852ee4e782da40fce533489236e228ec2df7bb2c650b467216f33",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "2db02e0380214055e8ac01c8e5e2913040d43955d8043917c9ee4aed784d25ef",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "ada7040956bd6897993fd5e2d270d57d09baf4150c11791f2237b987833de1d1",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_13": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "17725818fea4f9bee5549c0ea07dfd4669a5aac9805be40c27228f3d82815be1",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "a08c2f17aa292e9853e82bb7354beb76b8034ab0f4738ff67bfaca4a52cd29da",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "3cc7d0043ca8ff0f253967b3dae8d26c8de9c0230fd7038337222450e011a4c2",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_14": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "24c526d9e41981fc09881d12adb3e85639c5ec5ba189429f0f2285c1348fc6f3",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2017-12-31",
+        "text_sha256": "673fd4b7a4223c3bd8a65e6cdb78141aeda29f09452d4530594e1cae5dfbbdfa",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2018-01-01",
+        "valid_to": "2019-07-25",
+        "text_sha256": "0d99651edd714bb788189a8bbb1e789cd097df84fb2c67cd1c271bb3f80fd7a8",
+        "in_version": "eu-eurlex:32008l0048:2018-01-01"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "61505697f439bcede0f536368dd933aff33e225972ff3737cdc0fcd6b6fdf3e1",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_15": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "a718d5e3a8f497e8b02ea9da720ca944b22144f7945929b333df48eb8ccdede2",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "8644fc1121f2e152933b209eed5be7e296f992144aaaaacb48da93ac0776beeb",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "6cae63acb3a935c6401e37fa964bcfd2d0fb74ba6e9f944ea5e095fc38be1ef8",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_16": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "194bf2b4ccaaa68285bfcfd8612c429c9abe796a70eaea0781cf0b26a217fcd1",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "c1b8eff4e35822a830caadf19b6f069524fbe984bfc418bbb5850dffe6af478a",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "cc5389e48dd2ee5bafd0dea0bd7cbcaed07cd57cb1f704dfefffc81e67d588a3",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_16a": [
+      {
+        "valid_from": "2023-12-30",
+        "valid_to": null,
+        "text_sha256": "b6460e43b648c1f3d81c7e320a28085503c217ea7904dfcee7db3295fbcadae8",
+        "in_version": "eu-eurlex:32008l0048:2023-12-30"
+      }
+    ],
+    "art_17": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "66d2f9adbc07ae71fb6a4bb3fd6698cdf3b38d9f1a50d87304d9e5a7a7888f76",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "11bc6a27d418fc2a0d0b8edbf87b6f8b709a4d18d8133ae10c9ed5ba1f6efbea",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "2622f4d6470822c17c8af6767cce8f1ce2b620b7f17148efaf666674d2714455",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_18": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "9ed38be5d63d50cccc2a26533b96797f5a85520281af7fa0628dc3968f17baba",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "92bb6240c8cf442178e7a3bb602830ba981e18ff94029817b90141b9fba6a85c",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "8407bcbd4db18085c29d2f9d76ee944304dccc35b4c857fc79c505a4bcee8889",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_19": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "eac780837204ade0ac9e21f13162d4094075ee3f461348e767c2c58e83e21e37",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "8fbac33dd400c2636de0e2472a5041d7710618607f5703c6013a27fd1a64ba75",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "10ceeaedf7dd4f6972516aa90b1cffe05b169c889b81bc2b6de174202143a799",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "0d30c2f437c77b368fc0d0ac16fa5f7efca1227e992906a3717d5bc2f7268a03",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2014-03-19",
+        "text_sha256": "2a1383743e41cd6c452dbb7997ca441d48a3bc25d9fc525912b0b2dc0ac45dc0",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2014-03-20",
+        "valid_to": "2017-12-31",
+        "text_sha256": "2c8320d570f10ddd1a31988f1d8194adf3aaaa4e0fb4f5475fde8e16496e268a",
+        "in_version": "eu-eurlex:32008l0048:2014-03-20"
+      },
+      {
+        "valid_from": "2018-01-01",
+        "valid_to": "2019-07-25",
+        "text_sha256": "21b528d3767400e70ae229457b19f6c17731bd41759f4e01441ce381495f65df",
+        "in_version": "eu-eurlex:32008l0048:2018-01-01"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "46a7e536aee1ef51bcf5f3b7afd4f653ef8463865ae5534d099695e0dd95a76c",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_20": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "52fb2a42ec2628f9e8feb2e9a2d9d6329edec039b28e7221238b09d400d2ec2a",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": null,
+        "text_sha256": "5db7475a35564ac0cf4a6f18b8c41b23dd7f10e499008be31b3919e73f24a6e7",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      }
+    ],
+    "art_21": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "ae563d15f074ee3dd669d33e21307ba06aa3ec42d5b28d404e0df6cc22f540d5",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": null,
+        "text_sha256": "7518164055fa7dab32611169ad5158f098ada41188660dbc7c2c3c23ebf9c413",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      }
+    ],
+    "art_22": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "30f35e3fef565918a19ad316929f3e6a768facc7992c08e04c9a010c03b0758c",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "49eee35d7314f319702c765951d079a7e5069ef35e87c1d4ca28d5bd449ed596",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": "2023-12-29",
+        "text_sha256": "76c9d0b6fd59679548b53b4c9e33c97e984a865c4129e329231f6362b76c1163",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      },
+      {
+        "valid_from": "2023-12-30",
+        "valid_to": null,
+        "text_sha256": "acdc253737c92ce4c978b4fe2cd7ab86c05d0b6f88ef186621168cd400cda558",
+        "in_version": "eu-eurlex:32008l0048:2023-12-30"
+      }
+    ],
+    "art_23": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "d47fe36b3a31fba8e114998818a348c366907629122691179fb0c3af752925f3",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": null,
+        "text_sha256": "856bb6b64c76df6c1c94702c908e91753be793fec7e6fa238782168900ff88fa",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      }
+    ],
+    "art_24": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "b68fd7d0e305ca704360e29b4771719780d250aef0a5d69a75a11c8f8ebedded",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "90184f6aad6d675e46ec81cdabe8ad8eefcc574f66655e30c1aff294b046318a",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "c4485baed336f6e2d01dcd28a698c3ec59beca18e1a7d64bcb73b06b2e43ba43",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_24a": [
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "1d283b5f548aee875ace0e08722f65055482d851490636b0381e7160beed4166",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_25": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "344f030440507c3ed0a818d838a592b8affdb175678036826766de1a85d88a93",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "a64173c4196474620463d8994d34e2c1bb36a4d0bb61272e557ccea3f7679a68",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      }
+    ],
+    "art_26": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "70cc8d219471c5e777d4e22c89b735d7b9f3060bbe7b972bb1969250172c2cc2",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": null,
+        "text_sha256": "feebda89c2e89d36712f230f6029ae139553b70769b54b97d741193405293d0c",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      }
+    ],
+    "art_27": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "283921c0028329f51085c13ed7caafcb337dd9ddca2ad613503cf5cf9ebf696d",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2017-12-31",
+        "text_sha256": "65da3d2d09fd45c6d25f29ab48dc5cfcdea6b54d684e018cbe7e36aeb08eafb0",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2018-01-01",
+        "valid_to": "2019-07-25",
+        "text_sha256": "1d5c6bb05a161a3683812c5babb1ea609313a0d8b939d06f54c2f9730e1d836f",
+        "in_version": "eu-eurlex:32008l0048:2018-01-01"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "8dbcb4efe0706f12c53086f064e9cea86733831923c57aab8895bd576862e53b",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_28": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "e70e25637d8eb0c04031fb22042a6e2edf942195b5ccf93a0dc8ed645e092ffd",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "59916be0eccb6712457f661f566d2de4f455774bb1b8da05c78188b1766740b5",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "f5e505de0850ca7c74db6226bd4e102a5c9316dbe07f721055c4691d78eafa40",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_29": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "d52a17caa4fd38fe74dcdef3e12004733bf311efe2e3137bfe4e837234a13069",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": null,
+        "text_sha256": "ac1b88e37f4b5e6c96ff79c6e59187926e406854fa4739c8ca792f0e2bc70f3c",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "615a5cdba41210f1a1b3924a3436392e1aad52da1bb51140dd02d1dd28ad3bd6",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "1eef7a149ec60a433312b901ee155d13de30ef4c26ca798e3db344827dc5c1ac",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "1d629902b666cae316caee87b724c349508fae481b50a8fee79ad27fc146ef84",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_30": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "d022aca266d0bfc0bb0d7ec787df3b00998356ccd7a204f374a11f6bcd94705f",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "810566e6f96f3d0fc314afc99250a4a91a2aa6fb2248b00af367fa7c3bb075cb",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "2e3297c456042376bd88fa341e9b3a83fcef63e567ce2ee5b1e00ce9a634ef64",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_31": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "6bc5ffab6830afea474ae8631ff3f42df3a938a579a16861fda84d46859afd4d",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": null,
+        "text_sha256": "02dc6f0c0a100ccb8d05531fbcfdf9db82b41de9a255b0fa02c3a2a865b977e7",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      }
+    ],
+    "art_32": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "df01ac485d42398d2bd7d3acb389720e1ddf76f1cd929c2d7e699e2d8276297d",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "ca6aa168b13d17a6f8a2a1d62a006704f497050c672383128e47427e3550b286",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "8458ab39320bbcce95a69cf97f209ca791577692e5a1389b8baa4b2927f369a7",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "3a75c261c03f4f937c1954617304f82cac1cbf884d94f9f4ebe674d8401ded5e",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "ca6369e60c613fc60a8afc2ef5bae050f06003c3530f9f5a1a1bb5a3c07cd356",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "0e843db216df54409ccb1561638bdda386b48f2a48fe72396f22e890538a56b9",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2017-12-31",
+        "text_sha256": "e190268973772858e172ff40c50c8f803b17701d9c06ad6f0834a061802b149e",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2018-01-01",
+        "valid_to": "2019-07-25",
+        "text_sha256": "cc4657c3155650f02c1dbd5e660ba6363cfd7c0ef515b56a0b3bf7b942480119",
+        "in_version": "eu-eurlex:32008l0048:2018-01-01"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "e09772f214a3fe8af110ff3a95346872df1c5108024de0ba1171e761e42e58a5",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "0ec58bfef99ae811266cd86cf70f63302a7da31d8c1ef0e6bdb995e1eda40ce1",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "9fa4c8456c91ebb483b6327feeeac6ffedd6df450328facee420be5d190493c1",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "9b31cb9efad0e8fa1e5549bbc45956238772163fa4adeec5ecf71705cd1ae4af",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "806a7149b7558e510512e3671f618e67d49a394c83d05575e237a3aa5de49a5f",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": null,
+        "text_sha256": "43a4a0c3f96427dd9eb8276a5586c1d7617ed3aa41663a716e3bc8ec81a20eab",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "1fab04907a97b025487730407ecae04ef2045e3f1134423e87464364be9e51c0",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2019-07-25",
+        "text_sha256": "4606c7c3df9f718c6f2eb27b06f18b7d8587d259859548c6b49bd040fefabbb7",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "a74bdd6976d120d8e480b2031e93c7dae6a326dc6784ce3f34962e5bb9a33327",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "art_9": [
+      {
+        "valid_from": "2008-04-23",
+        "valid_to": "2008-06-20",
+        "text_sha256": "f631164abb5e749e3a0e2a89c2d75468fda1c1c1c2d4541c752de37c86c1644a",
+        "in_version": "eu-eurlex:32008l0048:2008-04-23"
+      },
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2017-12-31",
+        "text_sha256": "0dd2a03ae99bee6fe7e0cd5fc076191d811763d6177f1200600c4b3c391dae77",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2018-01-01",
+        "valid_to": "2019-07-25",
+        "text_sha256": "6eb14585b57a7332e701fd6e68dda07e9b6046d2439eb1adfe09eb0e0d85ac25",
+        "in_version": "eu-eurlex:32008l0048:2018-01-01"
+      },
+      {
+        "valid_from": "2019-07-26",
+        "valid_to": null,
+        "text_sha256": "fbec323c5907daa5f3da5e54f9ca864401a71ebebb2f454c50d508f71cab6f07",
+        "in_version": "eu-eurlex:32008l0048:2019-07-26"
+      }
+    ],
+    "european_consumer_credit_information_for": [
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2017-12-31",
+        "text_sha256": "129b41e4591beae5920d26de3d215676d452b8d0e1ea7ff80ef4a8a04a9d7672",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2018-01-01",
+        "valid_to": "2019-07-25",
+        "text_sha256": "5912002a87e5e788b8810c43e9fb81faa5c5673ba00019b6a6c2cffdfcdbc316",
+        "in_version": "eu-eurlex:32008l0048:2018-01-01"
+      }
+    ],
+    "standard_european_consumer_credit_information": [
+      {
+        "valid_from": "2008-06-21",
+        "valid_to": "2017-12-31",
+        "text_sha256": "8109af242647b9412bb5574f9f5f4c4875028c84fb10c007eef80f6a8b1929d8",
+        "in_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "valid_from": "2018-01-01",
+        "valid_to": "2019-07-25",
+        "text_sha256": "2ce5ce13f6aa98a62ad185f57eda7d219a41efae10ddb53788cad68d4d68e150",
+        "in_version": "eu-eurlex:32008l0048:2018-01-01"
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "inserted",
+      "anchor": "anx_i",
+      "at_version": "eu-eurlex:32008l0048:2008-06-21"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_ii",
+      "at_version": "eu-eurlex:32008l0048:2008-06-21"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_iii",
+      "at_version": "eu-eurlex:32008l0048:2008-06-21"
+    },
+    {
+      "type": "inserted",
+      "anchor": "european_consumer_credit_information_for",
+      "at_version": "eu-eurlex:32008l0048:2008-06-21"
+    },
+    {
+      "type": "inserted",
+      "anchor": "standard_european_consumer_credit_information",
+      "at_version": "eu-eurlex:32008l0048:2008-06-21"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_i",
+      "at_version": "eu-eurlex:32008l0048:2019-07-26"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_ii",
+      "at_version": "eu-eurlex:32008l0048:2019-07-26"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_iii",
+      "at_version": "eu-eurlex:32008l0048:2019-07-26"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_25",
+      "at_version": "eu-eurlex:32008l0048:2019-07-26"
+    },
+    {
+      "type": "removed",
+      "anchor": "european_consumer_credit_information_for",
+      "at_version": "eu-eurlex:32008l0048:2019-07-26"
+    },
+    {
+      "type": "removed",
+      "anchor": "standard_european_consumer_credit_information",
+      "at_version": "eu-eurlex:32008l0048:2019-07-26"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_24a",
+      "at_version": "eu-eurlex:32008l0048:2019-07-26"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_11a",
+      "at_version": "eu-eurlex:32008l0048:2023-12-30"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_16a",
+      "at_version": "eu-eurlex:32008l0048:2023-12-30"
+    }
+  ],
+  "anchors_by_language": {
+    "en": {
+      "anx_i": [
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2011-12-04",
+          "text_sha256": "63314806506c9236e3109e3d5e87e3b3a4b979f6730e886e3e02266bdb5b2d98",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2011-12-05",
+          "valid_to": "2017-12-31",
+          "text_sha256": "f17540b26b58e3e999bef110d98b64b52da3c25552ed59e08ae26e871d67b85a",
+          "in_version": "eu-eurlex:32008l0048:2011-12-05"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2019-07-25",
+          "text_sha256": "fbcb7ea59b4d491266a6459fce1c78c95d07b2534982af0421cb1de0242a1804",
+          "in_version": "eu-eurlex:32008l0048:2018-01-01"
+        }
+      ],
+      "anx_ii": [
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "anx_iii": [
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_1": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "ec43ff088af8132f189f0cbf1b557f57351a8eedacccc9cfa1887c2a4c54ba8f",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": null,
+          "text_sha256": "a0719c0f4d875e8a8d1727780eb6d567a4366d009d10d7820baa6cef1d3e3070",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "084261dc2b5aa03f1f4d6536e2bb849fb41c3146b2ff545a322d420800dec1e3",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "bf32e3b33cc4fea87b36a60db50d0086ad430183b2c4470e506a6a5be4426895",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "b62d30a479aa676e149c85725511e20e13a4160d61d58d23d46719fc5567fbbf",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "6fd98d15bfac521cde1586ffa37885255a6cd964d9692e82082d028fbbbeceac",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "ffe4dabbcd322fa435e0249738ce8509477987593eca2e09ad35471e70ebe89a",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "60fd8fdbaddac0cdf75a278dc6ceb517a3fd3907a1652ac31624fd1be129258e",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_11a": [
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "49508f1501e588552810fc344f9c7a5c0097eab72e61fc1011facd40e43d6a77",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "604e0afdcaa852ee4e782da40fce533489236e228ec2df7bb2c650b467216f33",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "2db02e0380214055e8ac01c8e5e2913040d43955d8043917c9ee4aed784d25ef",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "ada7040956bd6897993fd5e2d270d57d09baf4150c11791f2237b987833de1d1",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "17725818fea4f9bee5549c0ea07dfd4669a5aac9805be40c27228f3d82815be1",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "a08c2f17aa292e9853e82bb7354beb76b8034ab0f4738ff67bfaca4a52cd29da",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "3cc7d0043ca8ff0f253967b3dae8d26c8de9c0230fd7038337222450e011a4c2",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "24c526d9e41981fc09881d12adb3e85639c5ec5ba189429f0f2285c1348fc6f3",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2017-12-31",
+          "text_sha256": "673fd4b7a4223c3bd8a65e6cdb78141aeda29f09452d4530594e1cae5dfbbdfa",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2019-07-25",
+          "text_sha256": "0d99651edd714bb788189a8bbb1e789cd097df84fb2c67cd1c271bb3f80fd7a8",
+          "in_version": "eu-eurlex:32008l0048:2018-01-01"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "61505697f439bcede0f536368dd933aff33e225972ff3737cdc0fcd6b6fdf3e1",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "a718d5e3a8f497e8b02ea9da720ca944b22144f7945929b333df48eb8ccdede2",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "8644fc1121f2e152933b209eed5be7e296f992144aaaaacb48da93ac0776beeb",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "6cae63acb3a935c6401e37fa964bcfd2d0fb74ba6e9f944ea5e095fc38be1ef8",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "194bf2b4ccaaa68285bfcfd8612c429c9abe796a70eaea0781cf0b26a217fcd1",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "c1b8eff4e35822a830caadf19b6f069524fbe984bfc418bbb5850dffe6af478a",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "cc5389e48dd2ee5bafd0dea0bd7cbcaed07cd57cb1f704dfefffc81e67d588a3",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_16a": [
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "b6460e43b648c1f3d81c7e320a28085503c217ea7904dfcee7db3295fbcadae8",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_17": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "66d2f9adbc07ae71fb6a4bb3fd6698cdf3b38d9f1a50d87304d9e5a7a7888f76",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "11bc6a27d418fc2a0d0b8edbf87b6f8b709a4d18d8133ae10c9ed5ba1f6efbea",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "2622f4d6470822c17c8af6767cce8f1ce2b620b7f17148efaf666674d2714455",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_18": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "9ed38be5d63d50cccc2a26533b96797f5a85520281af7fa0628dc3968f17baba",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "92bb6240c8cf442178e7a3bb602830ba981e18ff94029817b90141b9fba6a85c",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "8407bcbd4db18085c29d2f9d76ee944304dccc35b4c857fc79c505a4bcee8889",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_19": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "eac780837204ade0ac9e21f13162d4094075ee3f461348e767c2c58e83e21e37",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "8fbac33dd400c2636de0e2472a5041d7710618607f5703c6013a27fd1a64ba75",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "10ceeaedf7dd4f6972516aa90b1cffe05b169c889b81bc2b6de174202143a799",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "0d30c2f437c77b368fc0d0ac16fa5f7efca1227e992906a3717d5bc2f7268a03",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2014-03-19",
+          "text_sha256": "2a1383743e41cd6c452dbb7997ca441d48a3bc25d9fc525912b0b2dc0ac45dc0",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2014-03-20",
+          "valid_to": "2017-12-31",
+          "text_sha256": "2c8320d570f10ddd1a31988f1d8194adf3aaaa4e0fb4f5475fde8e16496e268a",
+          "in_version": "eu-eurlex:32008l0048:2014-03-20"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2019-07-25",
+          "text_sha256": "21b528d3767400e70ae229457b19f6c17731bd41759f4e01441ce381495f65df",
+          "in_version": "eu-eurlex:32008l0048:2018-01-01"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "46a7e536aee1ef51bcf5f3b7afd4f653ef8463865ae5534d099695e0dd95a76c",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_20": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "52fb2a42ec2628f9e8feb2e9a2d9d6329edec039b28e7221238b09d400d2ec2a",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": null,
+          "text_sha256": "5db7475a35564ac0cf4a6f18b8c41b23dd7f10e499008be31b3919e73f24a6e7",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_21": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "ae563d15f074ee3dd669d33e21307ba06aa3ec42d5b28d404e0df6cc22f540d5",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": null,
+          "text_sha256": "7518164055fa7dab32611169ad5158f098ada41188660dbc7c2c3c23ebf9c413",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_22": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "30f35e3fef565918a19ad316929f3e6a768facc7992c08e04c9a010c03b0758c",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "49eee35d7314f319702c765951d079a7e5069ef35e87c1d4ca28d5bd449ed596",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": "2023-12-29",
+          "text_sha256": "76c9d0b6fd59679548b53b4c9e33c97e984a865c4129e329231f6362b76c1163",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "acdc253737c92ce4c978b4fe2cd7ab86c05d0b6f88ef186621168cd400cda558",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_23": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "d47fe36b3a31fba8e114998818a348c366907629122691179fb0c3af752925f3",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": null,
+          "text_sha256": "856bb6b64c76df6c1c94702c908e91753be793fec7e6fa238782168900ff88fa",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_24": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "b68fd7d0e305ca704360e29b4771719780d250aef0a5d69a75a11c8f8ebedded",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "90184f6aad6d675e46ec81cdabe8ad8eefcc574f66655e30c1aff294b046318a",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "c4485baed336f6e2d01dcd28a698c3ec59beca18e1a7d64bcb73b06b2e43ba43",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_24a": [
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "1d283b5f548aee875ace0e08722f65055482d851490636b0381e7160beed4166",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_25": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "344f030440507c3ed0a818d838a592b8affdb175678036826766de1a85d88a93",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "a64173c4196474620463d8994d34e2c1bb36a4d0bb61272e557ccea3f7679a68",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_26": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "70cc8d219471c5e777d4e22c89b735d7b9f3060bbe7b972bb1969250172c2cc2",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": null,
+          "text_sha256": "feebda89c2e89d36712f230f6029ae139553b70769b54b97d741193405293d0c",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_27": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "283921c0028329f51085c13ed7caafcb337dd9ddca2ad613503cf5cf9ebf696d",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2017-12-31",
+          "text_sha256": "65da3d2d09fd45c6d25f29ab48dc5cfcdea6b54d684e018cbe7e36aeb08eafb0",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2019-07-25",
+          "text_sha256": "1d5c6bb05a161a3683812c5babb1ea609313a0d8b939d06f54c2f9730e1d836f",
+          "in_version": "eu-eurlex:32008l0048:2018-01-01"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "8dbcb4efe0706f12c53086f064e9cea86733831923c57aab8895bd576862e53b",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_28": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "e70e25637d8eb0c04031fb22042a6e2edf942195b5ccf93a0dc8ed645e092ffd",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "59916be0eccb6712457f661f566d2de4f455774bb1b8da05c78188b1766740b5",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "f5e505de0850ca7c74db6226bd4e102a5c9316dbe07f721055c4691d78eafa40",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_29": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "d52a17caa4fd38fe74dcdef3e12004733bf311efe2e3137bfe4e837234a13069",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": null,
+          "text_sha256": "ac1b88e37f4b5e6c96ff79c6e59187926e406854fa4739c8ca792f0e2bc70f3c",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "615a5cdba41210f1a1b3924a3436392e1aad52da1bb51140dd02d1dd28ad3bd6",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "1eef7a149ec60a433312b901ee155d13de30ef4c26ca798e3db344827dc5c1ac",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "1d629902b666cae316caee87b724c349508fae481b50a8fee79ad27fc146ef84",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_30": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "d022aca266d0bfc0bb0d7ec787df3b00998356ccd7a204f374a11f6bcd94705f",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "810566e6f96f3d0fc314afc99250a4a91a2aa6fb2248b00af367fa7c3bb075cb",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "2e3297c456042376bd88fa341e9b3a83fcef63e567ce2ee5b1e00ce9a634ef64",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_31": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "6bc5ffab6830afea474ae8631ff3f42df3a938a579a16861fda84d46859afd4d",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": null,
+          "text_sha256": "02dc6f0c0a100ccb8d05531fbcfdf9db82b41de9a255b0fa02c3a2a865b977e7",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_32": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "df01ac485d42398d2bd7d3acb389720e1ddf76f1cd929c2d7e699e2d8276297d",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "ca6aa168b13d17a6f8a2a1d62a006704f497050c672383128e47427e3550b286",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "8458ab39320bbcce95a69cf97f209ca791577692e5a1389b8baa4b2927f369a7",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "3a75c261c03f4f937c1954617304f82cac1cbf884d94f9f4ebe674d8401ded5e",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "ca6369e60c613fc60a8afc2ef5bae050f06003c3530f9f5a1a1bb5a3c07cd356",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "0e843db216df54409ccb1561638bdda386b48f2a48fe72396f22e890538a56b9",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2017-12-31",
+          "text_sha256": "e190268973772858e172ff40c50c8f803b17701d9c06ad6f0834a061802b149e",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2019-07-25",
+          "text_sha256": "cc4657c3155650f02c1dbd5e660ba6363cfd7c0ef515b56a0b3bf7b942480119",
+          "in_version": "eu-eurlex:32008l0048:2018-01-01"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "e09772f214a3fe8af110ff3a95346872df1c5108024de0ba1171e761e42e58a5",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "0ec58bfef99ae811266cd86cf70f63302a7da31d8c1ef0e6bdb995e1eda40ce1",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "9fa4c8456c91ebb483b6327feeeac6ffedd6df450328facee420be5d190493c1",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "9b31cb9efad0e8fa1e5549bbc45956238772163fa4adeec5ecf71705cd1ae4af",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "806a7149b7558e510512e3671f618e67d49a394c83d05575e237a3aa5de49a5f",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": null,
+          "text_sha256": "43a4a0c3f96427dd9eb8276a5586c1d7617ed3aa41663a716e3bc8ec81a20eab",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "1fab04907a97b025487730407ecae04ef2045e3f1134423e87464364be9e51c0",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "4606c7c3df9f718c6f2eb27b06f18b7d8587d259859548c6b49bd040fefabbb7",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "a74bdd6976d120d8e480b2031e93c7dae6a326dc6784ce3f34962e5bb9a33327",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "f631164abb5e749e3a0e2a89c2d75468fda1c1c1c2d4541c752de37c86c1644a",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2017-12-31",
+          "text_sha256": "0dd2a03ae99bee6fe7e0cd5fc076191d811763d6177f1200600c4b3c391dae77",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2019-07-25",
+          "text_sha256": "6eb14585b57a7332e701fd6e68dda07e9b6046d2439eb1adfe09eb0e0d85ac25",
+          "in_version": "eu-eurlex:32008l0048:2018-01-01"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": null,
+          "text_sha256": "fbec323c5907daa5f3da5e54f9ca864401a71ebebb2f454c50d508f71cab6f07",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "european_consumer_credit_information_for": [
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2017-12-31",
+          "text_sha256": "129b41e4591beae5920d26de3d215676d452b8d0e1ea7ff80ef4a8a04a9d7672",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2019-07-25",
+          "text_sha256": "5912002a87e5e788b8810c43e9fb81faa5c5673ba00019b6a6c2cffdfcdbc316",
+          "in_version": "eu-eurlex:32008l0048:2018-01-01"
+        }
+      ],
+      "standard_european_consumer_credit_information": [
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2017-12-31",
+          "text_sha256": "8109af242647b9412bb5574f9f5f4c4875028c84fb10c007eef80f6a8b1929d8",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2019-07-25",
+          "text_sha256": "2ce5ce13f6aa98a62ad185f57eda7d219a41efae10ddb53788cad68d4d68e150",
+          "in_version": "eu-eurlex:32008l0048:2018-01-01"
+        }
+      ]
+    },
+    "fr": {
+      "annexe_i": [
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2011-12-04",
+          "text_sha256": "474526b6c5ebc169cb63b91dc61f84cbcb9879f1e1506ff4947ce072dbb38529",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2011-12-05",
+          "valid_to": "2023-12-29",
+          "text_sha256": "7ce9871773fd384d698a58957d100d05ea1437cebe37ec967e2e025f51ff9475",
+          "in_version": "eu-eurlex:32008l0048:2011-12-05"
+        }
+      ],
+      "annexe_ii": [
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "annexe_iii": [
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_1": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "8351f0877e75e5c8a65d391ee333286d9be1b6e0d5a6e4a3b66d113bfbafd645",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "0b700a4299519b6f0ff9c99d6d711dc1c0ed7f6c51d7c6e2ff4817a5e6af17ec",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "6f352554879c5582775e77b21a44dbe90d40a3274e62f43e626c80ed40854eae",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "be5b0e0b5d8e93b390cfcdcbc8d6edf3188071725424e99e4714b68d1917658d",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "ca61ea13c5887a1fe4d4c2f74f5395bccfa779fad69c8184024b463ff78ec0bd",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "6efa8587afe6fe2c992f3c3f46fb935d123f1d4d2c34c8c2d706d10a58c3173d",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "aec18b40e1d11fa1b73d55a17e3fa80a7145b88ea3420c9b0bd13b11089313ca",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "c0fad207f5883fcbce4456c9e9f1097ff10bd5d1fbcb66218e7d569119d8ffb2",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_11a": [
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "63edf4577938604a51091cfbb1631acf5faabf72bb461e18899a563d3b7fbb25",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "b5708e910af8fab98a4a429d5cfc6b1df43985d4ab2a0991df4eab0606161ddc",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "d61ddd4c1e404cbd191b8fe8959f2e2c602d1cfb28d645c965fda083bc117459",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "31d5920b460f373948d3aa8e85f6600d0dffcdd978e6e7803bf2e726bee3cc01",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "e209c7c024472d45f68b6921fd454e07c07568f78f70e079d08519d5303f8d8f",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "aa9da2c421f4e6f5c51b1fa020b615086ec5a13cb2e3cb6dbe37f77405ac9cc0",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "1eb90270cd6bf719baf76109cd046bfb91e065c3f1899cf5fd57c3e026dc6619",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "b843edc103c601ecd482dfc2e0642a3686dd55accd5bfd6b5553eb3515ee1e4d",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2017-12-31",
+          "text_sha256": "3cf5c34392a776b7da63e41862caf59fcef65219726dddcd453fd4abfec8f049",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2023-12-29",
+          "text_sha256": "21e36617db442cf2dfa36992b41949debb53081faa0a902125a37d671dc18f0c",
+          "in_version": "eu-eurlex:32008l0048:2018-01-01"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "236be5b9d97c0d1ad6842b64303f15ac12fc186fdcaf4c7920daf90721e9009d",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "eaf796459c85e5dca2d6d1692253e48c838b62017042be7404c931f1e84bc8e3",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "b97aba4269c80307e7fe7db3b2262cc9a93ca01f909d33a480285964b820dede",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "7941772f76815ce01ff67d380ba3e3617ed217c76776e7710998f1bd5326bfdd",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "071d8118888d9e5161ac989e9e42ca145fcb93e242c1343bae19bc95a5419278",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "08ed9d0a78d307451515b6eb7c43c56d2465571d92f2c0846cdff881e1bb1426",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "1519332ad2ea9bc96284a9daafba773162ced988c3347920d06fd8eda9740911",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_16a": [
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "dd357707bcbaea427df8ca33f997806c434a8fdacf8e9fd30a89d02f9d0471b1",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_17": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "326a4bc459a50088c965b59f66b821883f6bb102ea788d29e87251e93630c854",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "964aa6ab0125392befdafd6e8c87870242ff5d202961259c984d7e758e306fab",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "29213d8291099786a6272fb73a6fa079a959cd031ee0c501a1dfa89c879c083b",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_18": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "f8d91c4af109ea2259e2de35fa474e5b5dba343a97af662e09d52e9e8c48c893",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "1799bf61441ce6ef6cdb205cd6d111d28eb0fd32586c89c32d1ba072c2ee3800",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "77ef368cd8433376bb53182a3d1faba66171ea6370560f2904de8a77cee651e7",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_19": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "8be15be25e624b6b35510a320169beea80c5e70570b5b96de88ac60bad54b690",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "3a948ebde19671947cd0c9464c8f4ba5de14307f32c1de0a1ed45018c63b2286",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": "2023-12-29",
+          "text_sha256": "cf8ce671e5d2897d8eb5c67a075d5c9c2a6ae7832099cb6032440707c928f75d",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "fa637405ec32568771255b8f91ea3be0a766f63cb795f69e9b149117cdeb2a1f",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "2bbcb536cd3897c1f9298c887419822a980711ed0aaaf16f58af00e842907458",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2014-03-19",
+          "text_sha256": "efd63940142d992d3d50730d24e8679bc4f70032bfb5e330fd8dc14da4c13e23",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2014-03-20",
+          "valid_to": "2017-12-31",
+          "text_sha256": "5049839324c573881935f1261049ce4485d08b6c990c3deff79a0c8d0e913441",
+          "in_version": "eu-eurlex:32008l0048:2014-03-20"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2023-12-29",
+          "text_sha256": "3c2717c85ee7454439a5508201c9aed14392b926af49a4cc3549466446b40ba6",
+          "in_version": "eu-eurlex:32008l0048:2018-01-01"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "1b0e27e4fdb569fbfbfc6393f186d81d26b2dc9133440df68c2f38a78b884bee",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_20": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "f57c85ecb1d2a795ad4d5c5146555d645bffe91dfaf6f09c9d40fed04b08846b",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": null,
+          "text_sha256": "53880e97c6579350d96933aecef395eff92a83abcd831d26c0d998c4fcbcd21b",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_21": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "9c61d44f52c3c7c9a4ad9f93e02916f22b5cd2a4a6c1d73d59ea0af8dae87968",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": null,
+          "text_sha256": "efe8d8d883aa706cd5118c57d5526452e97ca2a9fccb29c878236f2144207b21",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_22": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "15c5ce6c0c6e38ec40dd6c085da246de456981b54944f103e0974b00ea51ba00",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "96a7ace9d57a198ed075bd2bb83277de2ab74b232aa94f1c48b3d724e6050e22",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "59f1e62c906120c02ae16026b53b873f827a1346a045a333ff7b3eb7a56eea7f",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_23": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "285d232eca3ece3a26b6bee161b6e1fe50912b1bb83c8603c7f3271c3cd0ece4",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": null,
+          "text_sha256": "529ede4d6b652014721d827120cd0092292b2c2c254f31d7756e99144c1d918d",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_24": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "a20b4aa118cbab254a3eec3fdba127d1f3c6be8d61aac449ef30c662964d62a3",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "2d619b2abcd8472a75ae5daa1902f92b57fcee332c04f931f555315fe92b42f1",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "87585ba4e644395d3044b577308e93dc066fd65cf8422bb76024324560677858",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_24_bis": [
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": "2023-12-29",
+          "text_sha256": "59a9a3af6a16b4bc00cf3f3287e94e3e109f830ff1b94b1973760fadeaf24e88",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "art_24a": [
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "cb9e4f1c1a7005ba0bd931baaa312160f5109447e782d1a61a9088f7b5e84ba8",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_25": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "1c8e5b29a7ef5e2dcd2ce4236b95a9f17eadc9f3bf18adfd1e2e2a6e12dc6f31",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2019-07-25",
+          "text_sha256": "635a424cf1c949e7e4c64dbf9821e3010fd3bb98afc7d9adc0787844fa481f1e",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_26": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "008290730627644f86aa4aa73b653064517cf150b42d1d425309fc07b60eda2f",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": null,
+          "text_sha256": "6c0612bff5e719d6d4c703f28b1ce9d825a5515ecdd6dbe1977d4eb8ccfa294a",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_27": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "5731c458b0756a9ddc2f1dcfc444600fb112308ba260d3e0c6b17652a80233fc",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2017-12-31",
+          "text_sha256": "9571155ab3c5013d7244658b70d4e7196c789d5aec18bf5212a81b308ac3adaf",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2023-12-29",
+          "text_sha256": "b1946913c52e85485f01501a9deb9221f38d5cbc7fe132ca7723963674d663e7",
+          "in_version": "eu-eurlex:32008l0048:2018-01-01"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "5d6ea8237dc16325630a0c4a9f3f7067574b080461366b1a4811b6b243b1473e",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_28": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "359c64ea9866e825ddacffaf74414c30e4f6db7941f82ea7bf99db3cafed4cac",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "1c8d2125126e43c043f9e9fa741f8ede4bb40abd867c1b3f0c2fef73e9de45cd",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "4b9761167b9731983d078337ccf9678f6e3d283c69b8508e4bfe84bfacb1ec83",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_29": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "90184ed34882b87bc0a8176a91d2aeb49dd6d96b8950f36747ce8602c85146c9",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": null,
+          "text_sha256": "c1722b46f06c6b41caf1ea17ab868546ddef7ce0b50f1ce15ff7ef4895c1dc0f",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "dab5cc99c3cea7dafc8bea524c0faa9bce1fd1240cce01f7cee2465262edb05c",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "4cdecf213d209ac91095aaeeb76ed8e48063d0a7eda4fa80d6a5cd2e4ae0aee4",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "6de9db98f74d69df4a7d8cb29cde8363b61bc63fc2c4e4b38cedb0847f83943a",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_30": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "8b275c45f430057e736bea11c08a692b42d0052938a134f200bd6c55affad18a",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "6d01e24971034ddf2752b91267b47953fc6ca9976adae434cfd4501a4ba2de8d",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "e40416f417b1beae03ec6e937b0d80966289961f47d75d0df197f5dd518c78ff",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_31": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "fc87c0c70384c427eb76fa12343e873ab090e4ca1272ad693a33e0c7317ded4f",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": null,
+          "text_sha256": "1c2af73dbfcc7ea246028ca391a47177896e40ae1c897bfe0c7122790b3b709e",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_32": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "4cecf289dcefdbef460c904ae00e566e896289583e58a91a6d73b1735c48dad5",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "1c9df1f549f695ea106237ebf3b28bf7c3bff1744f3fb885197420810be51160",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "785da5c883d08db0573bb7e1c09686b644998390a54f8ea233c5df826783dad5",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "3c5dc084ab710797030fc9466fab07c3e5925d5a361d870a25e1e129906fd8c8",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "d92b41da5cc923f872f84f0b91cd60b257f71ff49f43972d3b2b2c831817634f",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "38a25c3ad23a5d3ad5f194ebd5caa0c05637a5de2cbb612e1b171c6bdf148656",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2017-12-31",
+          "text_sha256": "d9347143cccc5158a2d555c502756f3f127d7fac44509aa38709c69c5a0fdc18",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2023-12-29",
+          "text_sha256": "a41674e8554dd12e5d51122592bee9ce49c0d0ba9405a3dbb055dbb3a09e42b1",
+          "in_version": "eu-eurlex:32008l0048:2018-01-01"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "0797260f11b5028b5ceb285b120790fb1f8452d4bdcd1f068d4af36e5022c44f",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "a2beb9e44c44fa489fc908495cc3a513277ca93b30e55d4dc7b6c489f7ac4410",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "41114bb3188ccf2ad9d559a3704899480090fa2ca86cfe140db95ba16fe70e34",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "f46c67e99780641ab89549e307c54b4d2245b2bc2b4e5bf9cae9dd12a408c1f9",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "fafe2f3b02c82e7d6ae89aa254d6aa877e44090b0710e9c7e79e663ad126c830",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": null,
+          "text_sha256": "64e09c423dae6f7d21d88f427482d69ba8f5b869b16ab6b7082f46b1566d8f1f",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "944e8b660c26853b513df389f6b4ac598f6b50cf70f9d8854528b0d8a140402c",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "9939e2f6e4083281b50e2f94f0a7342aa1c4c15cc5c946eb7187f553032308d9",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "07c32588ab4f5bda138b0d9df5688aedacd50193724931372f44cb47baebbb89",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2008-04-23",
+          "valid_to": "2008-06-20",
+          "text_sha256": "f6b1a80bfbed5bcebcae6ef940b6e9e41ae6f814a9cb645c893f8b51db81a6aa",
+          "in_version": "eu-eurlex:32008l0048:2008-04-23"
+        },
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2017-12-31",
+          "text_sha256": "99d03f2912822cc0170bcd5a64518284e0663b1431db2554402bc7f59819c9a2",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2023-12-29",
+          "text_sha256": "c4dcab0d9973227e6cace273738fc8a45f6d491863667af3b383f92190c50841",
+          "in_version": "eu-eurlex:32008l0048:2018-01-01"
+        },
+        {
+          "valid_from": "2023-12-30",
+          "valid_to": null,
+          "text_sha256": "eea3e0a4e8b50d19fbcf3cc866b41c002526cdc9a32766e6f71fc5df0bf7b9cc",
+          "in_version": "eu-eurlex:32008l0048:2023-12-30"
+        }
+      ],
+      "art_premier": [
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2023-12-29",
+          "text_sha256": "0b700a4299519b6f0ff9c99d6d711dc1c0ed7f6c51d7c6e2ff4817a5e6af17ec",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        }
+      ],
+      "informations_europeennes_en_matiere_de_credit_aux_consommateurs_relatives": [
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2017-12-31",
+          "text_sha256": "bdcdcd40321a7b2b69d5686fbc96e3f7b404b64fd0ed21fb97473fa8ab0a7fe4",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2019-07-25",
+          "text_sha256": "3681be74dbd7b0e3a504460e958f73573ae79be5893125ad2b8c21836faf8a9a",
+          "in_version": "eu-eurlex:32008l0048:2018-01-01"
+        },
+        {
+          "valid_from": "2019-07-26",
+          "valid_to": "2023-12-29",
+          "text_sha256": "9803714f124de49bba12360df7f027f7ee70a458ec281c6db83367c95e6cb2c9",
+          "in_version": "eu-eurlex:32008l0048:2019-07-26"
+        }
+      ],
+      "informations_europeennes_normalisees_en_matiere_de_credit_aux_consommateurs": [
+        {
+          "valid_from": "2008-06-21",
+          "valid_to": "2017-12-31",
+          "text_sha256": "e28732eee93802ee1d5935f3117f98db1533238a8c4ead7037d406722da206b8",
+          "in_version": "eu-eurlex:32008l0048:2008-06-21"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2023-12-29",
+          "text_sha256": "0bac0b03583954087a32d6c27a0b8f4e5d9918c5f6528d9ee0594c1fcbb1044b",
+          "in_version": "eu-eurlex:32008l0048:2018-01-01"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [
+      {
+        "type": "inserted",
+        "anchor": "anx_i",
+        "at_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_ii",
+        "at_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_iii",
+        "at_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "type": "inserted",
+        "anchor": "european_consumer_credit_information_for",
+        "at_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "type": "inserted",
+        "anchor": "standard_european_consumer_credit_information",
+        "at_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_i",
+        "at_version": "eu-eurlex:32008l0048:2019-07-26"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_ii",
+        "at_version": "eu-eurlex:32008l0048:2019-07-26"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_iii",
+        "at_version": "eu-eurlex:32008l0048:2019-07-26"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_25",
+        "at_version": "eu-eurlex:32008l0048:2019-07-26"
+      },
+      {
+        "type": "removed",
+        "anchor": "european_consumer_credit_information_for",
+        "at_version": "eu-eurlex:32008l0048:2019-07-26"
+      },
+      {
+        "type": "removed",
+        "anchor": "standard_european_consumer_credit_information",
+        "at_version": "eu-eurlex:32008l0048:2019-07-26"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_24a",
+        "at_version": "eu-eurlex:32008l0048:2019-07-26"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_11a",
+        "at_version": "eu-eurlex:32008l0048:2023-12-30"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_16a",
+        "at_version": "eu-eurlex:32008l0048:2023-12-30"
+      }
+    ],
+    "fr": [
+      {
+        "type": "removed",
+        "anchor": "art_1",
+        "at_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_i",
+        "at_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_ii",
+        "at_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_iii",
+        "at_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_premier",
+        "at_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "type": "inserted",
+        "anchor": "informations_europeennes_en_matiere_de_credit_aux_consommateurs_relatives",
+        "at_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "type": "inserted",
+        "anchor": "informations_europeennes_normalisees_en_matiere_de_credit_aux_consommateurs",
+        "at_version": "eu-eurlex:32008l0048:2008-06-21"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_25",
+        "at_version": "eu-eurlex:32008l0048:2019-07-26"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_24_bis",
+        "at_version": "eu-eurlex:32008l0048:2019-07-26"
+      },
+      {
+        "type": "renumbered",
+        "from": "art_premier",
+        "to": "art_1",
+        "text_sha256": "0b700a4299519b6f0ff9c99d6d711dc1c0ed7f6c51d7c6e2ff4817a5e6af17ec",
+        "at_version": "eu-eurlex:32008l0048:2023-12-30",
+        "basis": "identical_text"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_i",
+        "at_version": "eu-eurlex:32008l0048:2023-12-30"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_ii",
+        "at_version": "eu-eurlex:32008l0048:2023-12-30"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_iii",
+        "at_version": "eu-eurlex:32008l0048:2023-12-30"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_24_bis",
+        "at_version": "eu-eurlex:32008l0048:2023-12-30"
+      },
+      {
+        "type": "removed",
+        "anchor": "informations_europeennes_en_matiere_de_credit_aux_consommateurs_relatives",
+        "at_version": "eu-eurlex:32008l0048:2023-12-30"
+      },
+      {
+        "type": "removed",
+        "anchor": "informations_europeennes_normalisees_en_matiere_de_credit_aux_consommateurs",
+        "at_version": "eu-eurlex:32008l0048:2023-12-30"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_11a",
+        "at_version": "eu-eurlex:32008l0048:2023-12-30"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_16a",
+        "at_version": "eu-eurlex:32008l0048:2023-12-30"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_24a",
+        "at_version": "eu-eurlex:32008l0048:2023-12-30"
+      }
+    ]
+  }
+}

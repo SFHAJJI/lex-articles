@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r0229:2022-01-07",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2022/229 of 7\u00A0January 2022 on amending Delegated Regulation (EU) 2016/1675 supplementing Directive (EU) 2015/849",
+  "valid_from": "2022-01-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r0229/versions/2022-01-07/fr.xml",
+    "sha256": "ccd10b093b1840813835e69b7429b5942c36fea21e7524a0619c55f0543a3167",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R0229"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r0229:2022-01-07#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l’annexe du règlement délégué (UE) 2016/1675 de la Commission, dans le tableau figurant au point «I. Les pays tiers à haut risque qui ont pris un engagement politique écrit à haut niveau de remédier aux carences constatées et qui ont élaboré un plan d’action avec le GAFI.», les lignes suivantes sont ajoutées:\n\n| «Burkina Faso |\n| --- |\n| Îles Caïmans |\n| Haïti |\n| Jordanie |\n| Mali |\n| Maroc |\n| Philippines |\n| Sénégal |\n| Soudan du Sud» |",
+      "text_sha256": "52b277c9cec661b63c72e00b40dc4a791725c9c5502e558ab19621cdccd0c9f5",
+      "md_span": {
+        "start": 694,
+        "end": 1156
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r0229:2022-01-07#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nÀ l’annexe du règlement délégué (UE) 2016/1675 de la Commission, dans le tableau figurant au point «I. Les pays tiers à haut risque qui ont pris un engagement politique écrit à haut niveau de remédier aux carences constatées et qui ont élaboré un plan d’action avec le GAFI.», les lignes suivantes sont supprimées:\n\n| «Bahamas |\n| --- |\n| Botswana |\n| Ghana |\n| Iraq |\n| Maurice» |",
+      "text_sha256": "728f77f99642dedf7d4440a7655edd85f05a775d096e9d98e5b9f6d8590409ca",
+      "md_span": {
+        "start": 1189,
+        "end": 1581
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r0229:2022-01-07#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nÀ l’annexe du règlement délégué (UE) 2016/1675 de la Commission, le tableau figurant au point «I. Les pays tiers à haut risque qui ont pris un engagement politique écrit à haut niveau de remédier aux carences constatées et qui ont élaboré un plan d’action avec le GAFI.» est remplacé par ce qui suit:\n\n| «No | Pays tiers à haut risque |\n| --- | --- |\n| 1 | Afghanistan |\n| 2 | Barbade |\n| 3 | Burkina Faso |\n| 4 | Cambodge |\n| 5 | Îles Caïmans |\n| 6 | Haïti |\n| 7 | Jamaïque |\n| 8 | Jordanie |\n| 9 | Mali |\n| 10 | Maroc |\n| 11 | Myanmar/Birmanie |\n| 12 | Nicaragua |\n| 13 | Pakistan |\n| 14 | Panama |\n| 15 | Philippines |\n| 16 | Sénégal |\n| 17 | Soudan du Sud |\n| 18 | Syrie |\n| 19 | Trinité-et-Tobago |\n| 20 | Ouganda |\n| 21 | Vanuatu |\n| 22 | Yémen |\n| 23 | Zimbabwe» |",
+      "text_sha256": "5b7aece0a5b209408d9b4e0d42076a22d8332f399bd43639a50adf07935c03df",
+      "md_span": {
+        "start": 1614,
+        "end": 2396
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r0229:2022-01-07#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "b8c1b172e87d9f3d25fa7408c473a0c09567665b259934334f0182acb0dfdc95",
+      "md_span": {
+        "start": 2429,
+        "end": 2570
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

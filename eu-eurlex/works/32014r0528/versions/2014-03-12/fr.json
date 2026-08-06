@@ -1,0 +1,196 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0528:2014-03-12",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) No 528/2014 of 12 March 2014 supplementing Regulation (EU) No 575/2013",
+  "valid_from": "2014-03-12",
+  "valid_to": "2014-06-08",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0528/versions/2014-03-12/fr.xml",
+    "sha256": "9cef643d351b3503a5a7e7143c201e9f7864248b706fb1026ddb050e1a31f848",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0528"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0528:2014-03-12#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les établissements calculent leurs exigences de fonds propres pour le risque de marché en fonction du risque non-delta lié aux options ou aux warrants, comme requis par l'article 329, paragraphe 3, l'article 352, paragraphe 6, et l'article 358, paragraphe 4, du règlement (UE) no 575/2013, selon l'une des méthodes suivantes:\n\n| a) | la méthode simplifiée, telle que définie aux articles 2 et 3 du présent règlement; |\n| --- | --- |\n\n| b) | la méthode delta-plus, telle que définie aux articles 4, 5 et 6 du présent règlement; |\n| --- | --- |\n\n| c) | la méthode par scénarios, telle que définie aux articles 7, 8 et 9 du présent règlement. |\n| --- | --- |\n\n2. Pour le calcul des exigences de fonds propres sur base consolidée, les établissements peuvent utiliser plusieurs méthodes de manière combinée. Sur une base individuelle, les établissements peuvent uniquement combiner la méthode par scénarios à la méthode delta-plus dans les conditions prévues aux articles 4 à 9.\n\n3. Aux fins du calcul mentionné au paragraphe 1, les établissements prennent les mesures suivantes:\n\n| a) | ventiler les paniers d'options ou de warrants selon leurs composantes fondamentales; |\n| --- | --- |\n\n| b) | ventiler les caps et les floors ou autres options qui se rapportent aux taux d'intérêt à diverses dates selon une chaîne d'options indépendantes relatives à différentes périodes de temps («caplets» et «floorlets»); |\n| --- | --- |\n\n| c) | traiter les options ou warrants sur contrats d'échange de taux d'intérêt fixe-variable dans les options ou warrants sur l'élément taux fixe du contrat d'échange; |\n| --- | --- |\n\n| d) | traiter les options ou warrants qui se rapportent à plus d'un sous-jacent parmi ceux décrits à l'article 5, paragraphe 3, comme un panier d'options ou de warrants où chaque option a un sous-jacent distinct unique. |\n| --- | --- |",
+      "text_sha256": "e212dc3bbdbe23800695fcff8673a8e4900cc838b5cb01c1568fbb3bf81d92b6",
+      "md_span": {
+        "start": 658,
+        "end": 2524
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0528:2014-03-12#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes établissements qui n'achètent que des options et warrants ne peuvent utiliser que la méthode simplifiée.",
+      "text_sha256": "ddd028ba64e5eee24cbaba9571495e95a3e262a328cc27af2cd96ddcb80f1723",
+      "md_span": {
+        "start": 2557,
+        "end": 2676
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0528:2014-03-12#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les établissements appliquant la méthode simplifiée calculent les exigences de fonds propres par rapport aux risques non-delta liés aux options ou warrants d'achat et de vente comme étant soit zéro, soit la différence entre les valeurs suivantes si cette différence est supérieure à zéro:\n\n| a) | le montant brut, tel que défini aux paragraphes 2 à 5; |\n| --- | --- |\n\n| b) | le montant de l'équivalent delta pondéré du risque, calculé comme étant la valeur de marché de l'instrument sous-jacent multipliée par le delta puis par l'une des pondérations pertinentes suivantes:i)pour le risque spécifique et général sur actions ou le risque de taux d'intérêt, conformément à la troisième partie, titre IV, chapitre 2, du règlement (UE) no 575/2013;ii)pour le risque lié aux matières premières, conformément à la troisième partie, titre IV, chapitre 4, du règlement (UE) no 575/2013; etiii)pour le risque de change, conformément à la troisième partie, titre IV, chapitre 3, du règlement (UE) no 575/2013. |\n| --- | --- |\n| i) | pour le risque spécifique et général sur actions ou le risque de taux d'intérêt, conformément à la troisième partie, titre IV, chapitre 2, du règlement (UE) no 575/2013; |\n| ii) | pour le risque lié aux matières premières, conformément à la troisième partie, titre IV, chapitre 4, du règlement (UE) no 575/2013; et |\n| iii) | pour le risque de change, conformément à la troisième partie, titre IV, chapitre 3, du règlement (UE) no 575/2013. |\n\n2. Pour les options ou warrants qui relèvent de l'une des deux catégories suivantes, le montant brut visé au paragraphe 1 est déterminé conformément aux paragraphes 3 et 4:\n\n| a) | lorsque l'acheteur a le droit inconditionnel d'acheter l'actif sous-jacent à un prix prédéterminé à la date d'expiration ou à tout moment avant la date d'expiration, et lorsque le vendeur a l'obligation de satisfaire à la demande de l'acheteur («options ou warrants d'achat simple»); |\n| --- | --- |\n\n| b) | lorsque l'acheteur a le droit inconditionnel de vendre l'actif sous-jacent de la même manière que décrit au point a) («options ou warrants de vente simple») |\n| --- | --- |\n\n3. Le montant brut visé au paragraphe 1 est calculé comme étant soit zéro, soit la valeur de marché du titre sous-jacent multipliée par la somme des exigences de fonds propres pour le risque de marché spécifique et général pour le sous-jacent moins le montant du bénéfice éventuel résultant de l'exécution instantanée de l'option («dans le cours»), lorsque l'une des conditions suivantes est remplie:\n\n| a) | l'option ou le warrant intègre le droit de vendre l'actif sous-jacent («achat d'une option de vente») et est combiné avec des détentions de l'actif sous-jacent («position longue sur l'instrument sous-jacent»); |\n| --- | --- |\n\n| b) | l'option ou le warrant intègre le droit d'acheter l'actif sous-jacent («achat d'une option d'achat») et est combiné avec la promesse de vendre des détentions de l'instrument sous-jacent («position courte sur l'actif sous-jacent»). |\n| --- | --- |\n\n4. Lorsque l'option ou le warrant intègre le droit d'acheter l'actif sous-jacent («achat d'une option d'achat») ou le droit de vendre l'actif sous-jacent («achat d'une option de vente»), le montant brut visé au paragraphe 1 est le moins élevé des deux montants suivants:\n\n| a) | la valeur de marché du titre sous-jacent multipliée par la somme des exigences de risque de marché spécifiques et générales pour l'actif sous-jacent; |\n| --- | --- |\n\n| b) | la valeur de la position déterminée par la méthode d'évaluation à la valeur de marché ou de la méthode d'évaluation à la valeur de modèle comme prévu à l'article 104, paragraphe 2, points b) et c) du règlement (UE) no 575/2013 («valeur de marché de l'option ou du warrant»). |\n| --- | --- |\n\n5. Pour tous les types d'options ou de warrants qui n'ont pas les caractéristiques visées au paragraphe 2, le montant brut visé au paragraphe 1 est la valeur de marché de l'option ou du warrant.",
+      "text_sha256": "b1cfdab830640ee12a44a31300ac73145e101571127791e86c4d3befaf298d2e",
+      "md_span": {
+        "start": 2709,
+        "end": 6684
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r0528:2014-03-12#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Lorsque les établissements choisissent d'appliquer la méthode delta-plus, pour les options et les warrants dont le gamma est une fonction continue dans le prix du sous-jacent et dont le vega est une fonction continue dans la volatilité implicite («options et warrants en continu»), les exigences de fonds propres pour les risques non-delta liés aux options ou aux warrants sont calculées comme étant la somme des exigences suivantes:\n\n| a) | les exigences de fonds propres relatives à la dérivée partielle de delta en se référant au prix du sous-jacent, qui, pour les options sur obligations ou obligations avec warrant, est la dérivée partielle de delta en se référant au taux de rendement actuariel de l'obligation sous-jacente, et pour les options sur swap est la dérivée partielle du delta en se référant au taux d'échange; |\n| --- | --- |\n\n| b) | l'exigence relative à la première dérivée partielle de la valeur d'une option ou d'un warrant, en se référant à la volatilité implicite. |\n| --- | --- |\n\n2. La volatilité implicite est la valeur de la volatilité dans la formule d'évaluation des options ou warrants pour laquelle, compte tenu d'un certain modèle d'évaluation et étant donné le niveau de tous les autres paramètres d'évaluation observables, le prix théorique de l'option ou du warrant est égal à sa valeur de marché, «valeur de marché» s'entendant au sens de l'article 3, paragraphe 4.\n\n3. Les exigences de fonds propres pour les risques non-delta liés aux options ou warrants non continus sont déterminées comme suit:\n\n| a) | lorsque les options ou warrants ont été achetés, ces exigences sont soit zéro, soit la différence entre les valeurs suivantes si cette différence est supérieure à zéro:i)la valeur de marché de l'option ou du warrant, telle que définie à l'article 3, paragraphe 4;ii)le montant de l'équivalent delta pondéré du risque, tel que défini à l'article 3, paragraphe 1, point b); |\n| --- | --- |\n| i) | la valeur de marché de l'option ou du warrant, telle que définie à l'article 3, paragraphe 4; |\n| ii) | le montant de l'équivalent delta pondéré du risque, tel que défini à l'article 3, paragraphe 1, point b); |\n\n| b) | lorsque les options ou warrants ont été vendus, ces exigences sont soit zéro, soit la différence entre les valeurs suivantes si cette différence est supérieure à zéro:i)la valeur de marché pertinent de l'actif sous-jacent, qui doit être soit le paiement maximum possible à la date d'expiration, s'il est fixé contractuellement, soit la valeur de marché de l'actif sous-jacent ou la valeur notionnelle effective si aucun paiement maximum possible n'est fixé contractuellement;ii)le montant de l'équivalent delta pondéré du risque, tel que défini à l'article 3, paragraphe 1, point b). |\n| --- | --- |\n| i) | la valeur de marché pertinent de l'actif sous-jacent, qui doit être soit le paiement maximum possible à la date d'expiration, s'il est fixé contractuellement, soit la valeur de marché de l'actif sous-jacent ou la valeur notionnelle effective si aucun paiement maximum possible n'est fixé contractuellement; |\n| ii) | le montant de l'équivalent delta pondéré du risque, tel que défini à l'article 3, paragraphe 1, point b). |\n\n4. Les valeurs de gamma et de vega utilisées dans le calcul des exigences de fonds propres sont calculées en utilisant un modèle d'évaluation approprié comme visé à l'article 329, paragraphe 1, à l'article 352, paragraphe 1 et à l'article 358, paragraphe 3, du règlement (UE) no 575/2013. Lorsque le gamma ou le vega ne peut être calculé conformément au présent paragraphe, l'exigence de capital pour les risques non-delta est calculée conformément au paragraphe 3.",
+      "text_sha256": "2698e4a27265f079b6348b89e5c19c941aa5d40433ee424cf9a479756ff71baa",
+      "md_span": {
+        "start": 6717,
+        "end": 10388
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32014r0528:2014-03-12#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Aux fins de l'article 4, paragraphe 1, point a), les exigences de fonds propres pour le risque gamma sont calculées par un processus constitué de la séquence d'étapes suivante:\n\n| a) | pour chaque option ou warrant, l'impact du gamma est calculé; |\n| --- | --- |\n\n| b) | les impacts du gamma d'options et de warrants individuels qui se réfèrent au même type de sous-jacent distinct sont additionnés; |\n| --- | --- |\n\n| c) | la valeur absolue de la somme de toutes les valeurs négatives résultant de l'étape b) fournit les exigences de fonds propres pour le risque gamma. Les valeurs positives résultant de l'étape b) sont ignorées. |\n| --- | --- |\n\n2. Aux fins de l'étape du paragraphe 1, point a), les impacts du gamma sont calculés conformément à la formule décrite à l'annexe I.\n\n3. Aux fins de l'étape du paragraphe 1, point b), un type de sous-jacent distinct est:\n\n| a) | pour les taux d'intérêt dans la même devise: chaque fourchette d'échéances de maturité telle que définie au tableau 2 de l'article 339 du règlement (UE) no 575/2013; |\n| --- | --- |\n\n| b) | pour les actions et indices boursiers: chaque marché tel que défini dans les règles à développer conformément à l'article 341, paragraphe 3, du règlement (UE) no 575/2013; |\n| --- | --- |\n\n| c) | pour les devises et l'or: chaque paire de devises et l'or; |\n| --- | --- |\n\n| d) | pour les matières premières: les matières premières considérés comme identiques au sens de l'article 357, paragraphe 4, du règlement (UE) no 575/2013. |\n| --- | --- |",
+      "text_sha256": "72c5c494b4b4d099770e8fa7570e81401e034d4b383dda41d3d755b10e93baac",
+      "md_span": {
+        "start": 10421,
+        "end": 11948
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32014r0528:2014-03-12#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nAux fins de l'article 4, paragraphe 1, point b), les exigences de fonds propres pour le risque vega sont calculées par un processus constitué de la séquence d'étapes suivante:\n\n| a) | pour chaque option, la valeur vega est déterminée; |\n| --- | --- |\n\n| b) | pour chaque option, un décalage supposé plus/moins 25 % dans la volatilité implicite est calculé, la volatilité implicite s'entendant au sens de l'article 4, paragraphe 2; |\n| --- | --- |\n\n| c) | pour chaque option, la valeur vega résultant de l'étape au point a) est multipliée par le décalage supposé de la volatilité implicite obtenu à l'étape au point b); |\n| --- | --- |\n\n| d) | pour chaque type de sous-jacent distinct, tel que défini à l'article 5, paragraphe 3, les valeurs résultant de l'étape au point c) sont additionnées; |\n| --- | --- |\n\n| e) | la somme des valeurs absolues résultant de l'étape au point d) fournit l'exigence de fonds propres totale pour le risque vega. |\n| --- | --- |",
+      "text_sha256": "9a8efca122a00dc946ac5e101be44b0f130ca274365beb312e2f8afa7cb721f4",
+      "md_span": {
+        "start": 11981,
+        "end": 12951
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32014r0528:2014-03-12#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nLes établissements peuvent utiliser la méthode par scénarios lorsqu'ils remplissent toutes les conditions suivantes:\n\n| a) | ils ont établi une unité de contrôle des risques qui surveille le risque du portefeuille d'options des établissements et présente les résultats à la direction; |\n| --- | --- |\n\n| b) | ils ont notifié aux autorités compétentes une gamme prédéfinie d'expositions qui seront couvertes par cette méthode d'une manière cohérente dans le temps; |\n| --- | --- |\n\n| c) | ils intègrent les résultats de la méthode par scénarios dans les rapports internes adressés à la direction de l'établissement. |\n| --- | --- |\n\nAux fins du point c), les établissements définissent les positions précises qui sont soumises à la méthode par scénarios, y compris le type de produit ou la salle des marchés et le portefeuille identifiés, la méthode de gestion des risques spécifique qui s'applique à ces positions, l'application informatique dédiée qui s'applique à ces positions, et la justification de l'attribution de ces positions à la méthode par scénarios, par rapport à celles affectées à d'autres méthodes.",
+      "text_sha256": "c2d2bf8cdee3e44c9075512d462d176e20fd6fe276e77dfe1efe8466a40050f7",
+      "md_span": {
+        "start": 12984,
+        "end": 14109
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32014r0528:2014-03-12#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Pour chaque type de sous-jacent distinct, visé à l'article 5, paragraphe 3, un établissement définit une matrice de scénarios qui contient un ensemble de scénarios.\n\n2. La première dimension de la matrice de scénarios correspond aux variations de prix du sous-jacent au-dessus et en dessous de sa valeur actuelle. Cette plage de variations est composée des éléments suivants:\n\n| a) | pour les options ou warrants sur taux d'intérêt, plus/moins la variation du taux d'intérêt présumée fixée à la colonne 5 du tableau 2 de l'article 339 du règlement (UE) no 575/2013; |\n| --- | --- |\n\n| b) | pour les options ou warrants sur actions ou indices boursiers, plus/moins la pondération prévue à l'article 343 du règlement (UE) no 575/2013; |\n| --- | --- |\n\n| c) | pour les options ou warrants sur devises et or, plus/moins la pondération prévue à l'article 351 du règlement (UE) no 575/2013 ou, le cas échéant, plus/moins la pondération prévue à l'article 354 du règlement (UE) no 575/2013; |\n| --- | --- |\n\n| d) | pour les options (warrants) sur matières premières, plus/moins la pondération indiquée à l'article 360, paragraphe 1, point a), du règlement (UE) no 575/2013. |\n| --- | --- |\n\n3. Les scénarios de changement de prix du sous-jacent sont définis par une grille d'au moins sept points qui inclut l'observation courante et divise la plage indiquée au paragraphe 2 en intervalles égaux.\n\n4. La seconde dimension de la matrice de scénarios est définie par des changements de volatilité. La plage des changements de volatilité est comprise entre plus/moins 25 % de la volatilité implicite, la volatilité implicite s'entendant au sens de l'article 4, paragraphe 2. Cette plage est divisée en une grille d'au moins trois points qui incluent un changement de 0 %, la plage étant divisée en intervalles égaux.\n\n5. La matrice de scénarios est déterminée par toutes les combinaisons possibles de points, tel que mentionné aux paragraphes 3 et 4. Chaque combinaison constitue un seul scénario.",
+      "text_sha256": "3dad5ec0dfa3817ae110c026a7c9b1cc23191248e505a42e9db2fb6d65040746",
+      "md_span": {
+        "start": 14142,
+        "end": 16142
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32014r0528:2014-03-12#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nSelon la méthode par scénarios, l'exigence de fonds propres sur les risques non-delta liés aux options ou warrants est calculée au moyen d'un processus constitué de la séquence d'étapes suivante:\n\n| a) | pour chaque option ou warrant, tous les scénarios visés à l'article 8 sont appliqués pour calculer la perte ou le gain net simulé correspondant à chaque scénario. Cette simulation est effectuée en utilisant des méthodes de réévaluation complètes, en simulant les changements de prix par l'utilisation de modèles d'évaluation et sans avoir recours à des approximations locales de ces modèles; |\n| --- | --- |\n\n| b) | pour chaque type de sous-jacent distinct, tel que défini à l'article 5, paragraphe 3, les valeurs obtenues comme résultat du calcul au point a) et en se référant aux scénarios individuels sont agrégées; |\n| --- | --- |\n\n| c) | pour chaque type de sous-jacent distinct, tel que défini à l'article 5, paragraphe 3, le «scénario pertinent» est calculé comme étant le scénario pour lequel les valeurs déterminées à l'étape b) donnent lieu à la plus grande perte, ou au plus faible gain en l'absence de pertes; |\n| --- | --- |\n\n| d) | pour chaque type sous-jacent distinct, tel que défini à l'article 5, paragraphe 3, les exigences de fonds propres sont calculées conformément à la formule décrite à l'annexe II; |\n| --- | --- |\n\n| e) | l'exigence de fonds propres totale dans le cas d'un risque non-delta lié aux options ou warrants est la somme des exigences de fonds propres obtenues en résultat du calcul visé à l'étape d) pour tous les types de sous-jacent distincts tels que définis à l'article 5, paragraphe 3. |\n| --- | --- |",
+      "text_sha256": "7d534d3b3dd118107929b2cd7d2dca913f0f513cb870c546da1b8ebc08b2efe6",
+      "md_span": {
+        "start": 16175,
+        "end": 17834
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32014r0528:2014-03-12#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "0cbfc352a5fa4687bf946e26e5740540b4650b4fda6a82e0b71e84a37bb965e8",
+      "md_span": {
+        "start": 17869,
+        "end": 18011
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

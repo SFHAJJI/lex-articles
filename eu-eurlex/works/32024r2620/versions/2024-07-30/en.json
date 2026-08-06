@@ -1,0 +1,111 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2620:2024-07-30",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2024/2620 of 30\u00A0July 2024 supplementing Directive\u00A02003/87/EC",
+  "valid_from": "2024-07-30",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2620/versions/2024-07-30/en.xml",
+    "sha256": "fcf8ae3ef344457d6bc4e54578e68cc15889afd29e118fd6529b31b8d1bcf67f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2620"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2620:2024-07-30#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation lays down the requirements for considering that CO2 has become permanently chemically bound in a product.",
+      "text_sha256": "ebdb8efc7c0e8b37e62914815dad63a01d3096fdfe24f08455e62da3fd4cf08c",
+      "md_span": {
+        "start": 642,
+        "end": 774
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2620:2024-07-30#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nFor the purposes of this Regulation, the following definitions apply:\n\n| (1) | ‘capture’ means any technological process or procedure required to capture, and, if necessary, process or purify prior to utilisation, CO2 resulting from activities within the scope of Directive 2003/87/EC; |\n| --- | --- |\n\n| (2) | ‘utilisation’ means any technological process or practice that makes use of captured CO2 as a feedstock for the manufacture of products; |\n| --- | --- |\n\n| (3) | ‘chemically bound’ means that CO2 is chemically transformed so that the carbon atom is chemically fixated by strong bonds in a manner that prevents its global warming impact from occurring; |\n| --- | --- |\n\n| (4) | ‘product’ means goods or materials, including intermediates and derivatives thereof, that utilise by chemically binding CO2 or carbon atoms derived from CO2; |\n| --- | --- |\n\n| (5) | ‘construction product’ means any formed or formless physical item placed on the market for incorporation in a permanent manner into construction works or parts thereof; |\n| --- | --- |\n\n| (6) | ‘normal use’ means any manner in which a product is expected to be typically utilised by the end user based on the characteristics of the product; |\n| --- | --- |\n\n| (7) | ‘normal activity taking place after the end of the life of the product’ means any prevailing treatment of a product after it is discarded by the end user based on the relevant waste management practices and legislation in force. |\n| --- | --- |",
+      "text_sha256": "59b2b98da0c42f0a628ab06c887c1d2ac087d0f761f7a1369d3c0bd26b0ee3c7",
+      "md_span": {
+        "start": 807,
+        "end": 2299
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r2620:2024-07-30#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. CO2 shall be considered permanently chemically bound in a product where all of the following criteria are met:\n\n| (a) | It has become chemically bound in a product through an active and controlled utilisation process, which allows for the measurement and determination of the amount of CO2 equivalent bound in the product during the utilisation process, excluding any carbon present in the material before the utilisation process or naturally absorbed from the atmosphere or other sources after the utilisation process; and |\n| --- | --- |\n\n| (b) | It remains permanently chemically bound in a product so as to not enter the atmosphere under normal use of the product, including any normal activity taking place after the end of the life of the product, for a period of at least several centuries. In case of products with multiple normal use and end of life pathways, all such pathways need to be taken into account for the purposes of this paragraph. Products that during normal use, including any normal activity taking place after the end of the life of the product, may be exposed to high temperature combustion, such as during waste incineration, shall not be considered to permanently chemically bind CO2. |\n| --- | --- |\n\n2. Products considered to meet the requirements of paragraph 1 are listed in the Annex.",
+      "text_sha256": "00ae6c4ef5dbc11ff16b529e81d13ea25ee14e3727cdc7320db0d446222d9752",
+      "md_span": {
+        "start": 2332,
+        "end": 3663
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r2620:2024-07-30#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. The Commission shall review the products listed in the Annex based on relevant technological developments and innovation in the field of permanent carbon storage in products, improvements in monitoring, reporting and verification practices, as well as the experience in implementing this Regulation and update the Annex, if necessary.\n\n2. For the purposes of paragraph 1, the Commission shall take into account requests submitted by the competent authorities to update the list of products in the Annex, where duly supported by evidence of compliance with the requirements in Article 3(1).\n\n3. The results and relevant documentation of any review of the products listed in the Annex shall be made publicly available.",
+      "text_sha256": "1edeb4856f85d3d25d6161160354c047c85427cd6f676cb3402ca6402b7120ac",
+      "md_span": {
+        "start": 3696,
+        "end": 4426
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r2620:2024-07-30#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "80138b582df404d1030db3a74fc8e7cecf3799549ce0d411861a09d8ebdf3c93",
+      "md_span": {
+        "start": 4459,
+        "end": 4610
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

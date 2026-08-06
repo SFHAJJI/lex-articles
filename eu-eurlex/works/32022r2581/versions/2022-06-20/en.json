@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r2581:2022-06-20",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2022/2581 of 20\u00A0June 2022 laying down implementing technical standards for the application of Directive 2013/36/EU",
+  "valid_from": "2022-06-20",
+  "valid_to": "2022-12-28",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r2581/versions/2022-06-20/en.xml",
+    "sha256": "55e65a5f3495a473347648ad36dee06978ba6ee4904ba6052194746c4cbb6da1",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2581"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r2581:2022-06-20#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Applicants for authorisation as a credit institution shall submit the information set out in Articles 1 to 9 of Delegated Regulation (EU) 2022/2580 to their competent authority by filling in the template set out in the Annex to this Regulation.\n\n2. Competent authorities shall indicate on their website the contact details for submitting an application for authorisation as a credit institution and shall indicate whether that application is to be submitted in paper format, in electronic form or both.",
+      "text_sha256": "811cf64b9c2b6714fac190dee6925d92c9916eb37d0a7f0519923d1f98d9e693",
+      "md_span": {
+        "start": 705,
+        "end": 1221
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r2581:2022-06-20#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Applications for authorisation as a credit institution shall be deemed to be complete if those applications contain all the information required by Delegated Regulation (EU) 2022/2580.\n\n2. Where the information provided in the application is assessed and found to be incomplete, the competent authorities shall send, in paper format or by electronic means, a request the applicants concerned indicating the further information required, and shall provide to those applicants the opportunity to submit the information identified.\n\n3. Upon an application being assessed as complete, the competent authority shall inform the applicant of that fact, together with the date of receipt of the complete application or, as the case may be, the date of receipt of the information that completed the application.\n\n4. Competent authorities may require the applicant to provide additional explanations and supplementary information for the purposes of assessing the application.",
+      "text_sha256": "d7f68744b91df340800f3ed7bf914180193c400f84290be2fa655ad8c73acac8",
+      "md_span": {
+        "start": 1254,
+        "end": 2234
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r2581:2022-06-20#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall apply to applications for authorisation as a credit institution submitted on or after XX.XX.XXXX.",
+      "text_sha256": "034ae76b6f0becddf5442c3f5d79535b0acbcc7ed3e644193a2e520bcda1afbd",
+      "md_span": {
+        "start": 2267,
+        "end": 2397
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r2581:2022-06-20#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nThis Regulation shall apply from the XX.XX.XXXX.",
+      "text_sha256": "677a8c59821c18cf5f13824ba8742b010090fc9a598f4349ce95846106ce8a1f",
+      "md_span": {
+        "start": 2430,
+        "end": 2631
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

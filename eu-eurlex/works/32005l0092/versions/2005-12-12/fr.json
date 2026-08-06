@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32005l0092:2005-12-12",
+  "language": "fr",
+  "title": "Council Directive 2005/92/EC of  12 December 2005  amending Directive 77/388/EEC with rega…",
+  "valid_from": "2005-12-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32005l0092/versions/2005-12-12/fr.xml",
+    "sha256": "2a4299bc4021da6421a299c3ad40ffb104533064dd0ea6b6ba8d92f4feb87f2f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32005L0092"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32005l0092:2005-12-12#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l'article 12, paragraphe 3, point a), de la directive 77/388/CEE, le premier et le deuxième alinéas sont remplacés par le texte suivant:\n\n«Le taux normal de la taxe sur la valeur ajoutée est fixé par chaque État membre à un pourcentage de la base d'imposition qui est le même pour les livraisons de biens et pour les prestations de service. À partir du 1er janvier 2006 et jusqu'au 31 décembre 2010, le taux normal ne peut être inférieur à 15 %.\n\nLe Conseil décide, conformément à l'article 93 du traité, du niveau du taux normal applicable après le 31 décembre 2010.»",
+      "text_sha256": "a46b51565c78eeae8214ea6340bddc6a4c1833663d0162d7e020321a1a39a78c",
+      "md_span": {
+        "start": 636,
+        "end": 1223
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32005l0092:2005-12-12#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive avec effet au 1er janvier 2006. Ils en informent immédiatement la Commission.\n\n2. Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n3. Les États membres communiquent à la Commission le texte des dispositions de droit interne qu'ils adoptent dans le domaine régi par la présente directive.",
+      "text_sha256": "66f2d9764e78c805421a3c838d152bd21581a29b63db2b1f0c1c77e4f09d8b36",
+      "md_span": {
+        "start": 1256,
+        "end": 1928
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32005l0092:2005-12-12#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLa présente directive entre en vigueur le jour de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "b8d03b4357c0490265a7d0d63431844731ac7396199e3001ed99651d2c886f06",
+      "md_span": {
+        "start": 1961,
+        "end": 2079
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32005l0092:2005-12-12#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "0fc712c9ed5879dbad5bea3e7474f713eea34cda4ea895cc231207fc9b7290bb",
+      "md_span": {
+        "start": 2112,
+        "end": 2185
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

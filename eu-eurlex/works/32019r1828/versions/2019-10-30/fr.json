@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r1828:2019-10-30",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2019/1828 of 30 October 2019 amending Directive 2014/24/EU",
+  "valid_from": "2019-10-30",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r1828/versions/2019-10-30/fr.xml",
+    "sha256": "946ef2834ff9af55cfd7e903a0706665e0141babcfd616c9b30c43d50fa0d551",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R1828"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r1828:2019-10-30#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLa directive 2014/24/UE est modifiée comme suit:\n\n| 1) | l’article 4 est modifié comme suit:a)au point a), «5 548 000 EUR» est remplacé par «5 350 000 EUR»;b)au point b), «144 000 EUR» est remplacé par «139 000 EUR»;c)au point c), «221 000 EUR» est remplacé par «214 000 EUR»; |\n| --- | --- |\n| a) | au point a), «5 548 000 EUR» est remplacé par «5 350 000 EUR»; |\n| b) | au point b), «144 000 EUR» est remplacé par «139 000 EUR»; |\n| c) | au point c), «221 000 EUR» est remplacé par «214 000 EUR»; |\n\n| 2) | l’article 13, premier alinéa, est modifié comme suit:a)au point a), «5 548 000 EUR» est remplacé par «5 350 000 EUR»;b)au point b), «221 000 EUR» est remplacé par «214 000 EUR. |\n| --- | --- |\n| a) | au point a), «5 548 000 EUR» est remplacé par «5 350 000 EUR»; |\n| b) | au point b), «221 000 EUR» est remplacé par «214 000 EUR. |",
+      "text_sha256": "dcca6428ea9bf433ee52254ce7e33fb7bc14c8835871faf7b157b6a092527b61",
+      "md_span": {
+        "start": 640,
+        "end": 1497
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r1828:2019-10-30#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 1er janvier 2020.",
+      "text_sha256": "ad3a33eee28f141691d7b76cc71023fa16df3dbe4066fd35fcd12351ee9532a7",
+      "md_span": {
+        "start": 1530,
+        "end": 1720
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

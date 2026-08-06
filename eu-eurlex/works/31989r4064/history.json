@@ -1,0 +1,45 @@
+{
+  "lex_work_id": "eu-eurlex:31989r4064",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "html-eu-tolerant/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "document": [
+      {
+        "valid_from": "1989-12-21",
+        "valid_to": "1990-09-20",
+        "text_sha256": "2b0ad37e64b1ed67ebd8076fda46126440fea9e0307ceca256f780116e52b778",
+        "in_version": "eu-eurlex:31989r4064:1989-12-21"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "en": {
+      "document": [
+        {
+          "valid_from": "1989-12-21",
+          "valid_to": "1990-09-20",
+          "text_sha256": "2b0ad37e64b1ed67ebd8076fda46126440fea9e0307ceca256f780116e52b778",
+          "in_version": "eu-eurlex:31989r4064:1989-12-21"
+        }
+      ]
+    },
+    "fr": {
+      "document": [
+        {
+          "valid_from": "1989-12-21",
+          "valid_to": "1990-09-20",
+          "text_sha256": "71e6caaad13bc6fa3ce02bdd31b5b923c30af75efd3817b23a24e11907e5ef4d",
+          "in_version": "eu-eurlex:31989r4064:1989-12-21"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": []
+  }
+}

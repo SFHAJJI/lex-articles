@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1325:2025-07-07",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2025/1325 of 7\u00A0July 2025 amending Implementing Reg…",
+  "valid_from": "2025-07-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1325/versions/2025-07-07/fr.xml",
+    "sha256": "e648a238c2c8d3c2a7325e191d90bd441058ae2ff4d93a11e7cefe08cd8b13ae",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1325"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1325:2025-07-07#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe règlement d’exécution (UE) 2015/2378 est modifié comme suit:\n\n| 1) | À l’article 2, le paragraphe 4 suivant est ajouté:«4. Le format informatique à utiliser pour l’échange automatique et obligatoire d’informations au titre de l’article 8 bis sexies, paragraphe 5, de la directive 2011/16/UE est conforme au format figurant à l’annexe XVII du présent règlement.». |\n| --- | --- |\n\n| 2) | Le texte figurant à l’annexe du présent règlement est ajouté en tant qu’annexe XVII. |\n| --- | --- |",
+      "text_sha256": "8e9156d2d3e23e07ade9dabb37691b7f7c7502ea59b19286bc174e31ceec9084",
+      "md_span": {
+        "start": 636,
+        "end": 1143
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1325:2025-07-07#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 1176,
+        "end": 1317
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

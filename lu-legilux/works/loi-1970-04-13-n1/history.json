@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -42,5 +43,48 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2002-08-03",
+          "valid_to": null,
+          "text_sha256": "fb4333925a73e3b057160f0d032f6cc330a98b95921919aa4553a2345e8f8691",
+          "in_version": "lu-legilux:loi-1970-04-13-n1:2002-08-03",
+          "article_valid_from": "2002-08-03"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2002-08-03",
+          "valid_to": null,
+          "text_sha256": "10edc5ce1b51d1a8adb097147bf6853812a8a124236fa02a9d0ae1ab48d99906",
+          "in_version": "lu-legilux:loi-1970-04-13-n1:2002-08-03",
+          "article_valid_from": "2002-08-03"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2002-08-03",
+          "valid_to": null,
+          "text_sha256": "4dfc4a2fa545d02f45419f1b8030f5120f04096da48f395e568d03b1567e4a9d",
+          "in_version": "lu-legilux:loi-1970-04-13-n1:2002-08-03",
+          "article_valid_from": "2002-08-03"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2002-08-03",
+          "valid_to": null,
+          "text_sha256": "aef62bd9f083491ae636033b25a440a5d0bfb92cd73c5bdd126a40b3a0b899a5",
+          "in_version": "lu-legilux:loi-1970-04-13-n1:2002-08-03",
+          "article_valid_from": "2002-08-03"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

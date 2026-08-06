@@ -1,0 +1,162 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r1640:2023-06-05",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2023/1640 of 5\u00A0June 2023 on the methodology to determ…",
+  "valid_from": "2023-06-05",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r1640/versions/2023-06-05/en.xml",
+    "sha256": "b1c067734d848743e014a7daaffe000e5b0c08f69d3067c8f271207609ff0b8a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1640"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r1640:2023-06-05#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Economic operators co-processing biomass may develop and use a company-specific or process-specific testing method to determine the carbon-based share of bio-content that is adapted to their particular factory design and feedstock mix. That main testing method shall be based on either mass or energy balance, yield methods, or radiocarbon (14C) testing (i.e. radiocarbon detecting through Accelerator Mass Spectrometry (AMS) or Liquid Scintillation Counting (LSC) method) of the outputs.\n\n2. Economic operators shall consider the whole refinery, the installation treating bioliquids and fossil oil or the installation co-processing waste inputs as system boundaries independently from the testing method used. Blending of co-processed fuels with other fuels shall be considered as being outside the system boundaries. The radiocarbon (14C) testing shall be done before the fuels produced through co-processing are further blended with other fossil fuels or biofuels that were not part of the co-processing itself.\n\n3. When economic operators report co-processing results, they shall provide details on the accuracy and precision of the testing method used. Economic operators shall account for and report any inaccuracies in their measurements of flows or heating values as part of their main testing method. Economic operators shall apply the same testing method to different processing units of the same refinery, the installation treating bioliquids and fossil oil or the installation co-processing waste inputs. If these units are not connected and there are no flows between them, economic operators may apply different testing methods. In the case of installations co-processing waste-based inputs, this methodology and verification through radiocarbon (14C) testing can be applied only if a reliable and representative set of samples can be performed at the level of the inputs that allow to establish the bio content in the total inputs.\n\n4. Economic operators shall ensure that the detection limit of the testing method selected can effectively measure the expected share of biofuels or biogas in the process.\n\n5. When economic operators report co-processing results using a main testing method other than one based on radiocarbon (14C) testing, they shall use radiocarbon (14C) testing of the outputs as a regular way of verifying the correctness of the performance of their system and the results of the main testing method used. Verification through radiocarbon (14C) testing shall be required for all outputs claiming a carbon-based bio-content.\n\n6. Economic operators shall thoroughly document the amounts and types of biomass entering the common process where biomass is processed with fossil fuels, as well as the amounts of biofuel and biogas that are produced from that biomass. In addition, economic operators shall substantiate that information with evidence, including the results of the main control testing method set out in paragraph 1 and the results of the verification method set out in paragraph 5 or Article 5 in case of establishing the share of hydrogen of biological origin.",
+      "text_sha256": "e9a74910a44f4a2069aff17ccd8a19dba5494acf0342ee6a78b1572844bb644e",
+      "md_span": {
+        "start": 636,
+        "end": 3757
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r1640:2023-06-05#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. If a mass balance method is used, the economic operator shall perform the full mass balance analysis of the total mass of inputs and outputs. The mass balance method shall ensure that the bio-content of all outputs is proportional to the bio-content of the inputs and that the share of biogenic material identified by the radiocarbon 14C testing results is allocated to each output. Different conversion factors shall be applied for each output that most accurately correspond to the measured bio-content through the radiocarbon 14C testing results. The output shall take into account the mass lost in off-gases, in liquid industrial wastewaters and in solid residues. The mass balance method shall include additional analytic characterization of feedstocks and products, such as ultimate and proximate analyses of system mass flows.\n\n2. If a mass balance method is used as the main method, the economic operators shall take into account in the calculation the moisture and other non-fuel impurities in their feedstock as well as in the outputs of their production process.",
+      "text_sha256": "a3b313ee8fe2741ae27df2d91b01cf44b3baf738915efeccb70d9ad5069467a4",
+      "md_span": {
+        "start": 3790,
+        "end": 4877
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32023r1640:2023-06-05#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nIf an energy balance method is used, the energy share of biogenic content in all outputs from a co-processing step in an oil refinery shall be determined as being equal to the energy share of the biogenic content at the refinery input. The energy balance method shall record the energy content in the biomass and the fossil feedstocks and the process energy entering the co-processing facility. The energy content of both biomass and fossil feedstocks shall be calculated by using the mass of the feedstock and its lower heating value (LHV, measured in MJ per kg). The bio-fraction, calculated as bio energy input divided by total energy input, shall be applied to all fuel outputs, which result from co-processing, in order to determine the bio-content in the final fuels produced. Different conversion factors shall be applied for each output that best correspond to the measured bio-content through the radiocarbon 14C testing results.",
+      "text_sha256": "87674acc6ccb975d9615297c7bd9299fcefe93861a000f19a42b2cf9d4c30837",
+      "md_span": {
+        "start": 4910,
+        "end": 5859
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32023r1640:2023-06-05#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Where a yield method is used, economic operators may use one of the two methods described below in order to obtain a yield factor to be applied to the common process of the fuel production:\n\n| (a) | Yield Method A. The yields of the various products shall be first observed and recorded when the processing units operate with only pure fossil feedstock or, for specific applications (e.g. limited concentrations) on pilot scale units representative of the commercial scale ones. Then, a share of biomass feedstocks shall be added to the input stream and the incremental effect on the yields shall be observed and recorded. The bio-content shall be then attributed to each product in proportion to the increase in its production. Each yield factor shall only be valid for the reference inputs and process conditions, for which the yield factor had been established. Economic operators may define different yield factors to refer to different processes and operating conditions. Member States, in accordance with the rules stipulated in this Regulation, may define the yield factors that economic operators have to use on their territory. If different yield factors are used, a radiocarbon 14C test shall be carried out each time a new yield factor is used and the correlation between reference inputs and process conditions shall be checked and, if needed, updated. |\n| --- | --- |\n\n| (b) | Yield Method B. This method shall establish a relationship between the bio-input and the bio-output of a co-processing unit. The conversion factor shall be determined by running several batches of feedstock at known co-processing conditions, including a full characterization of inputs and outputs of the system. After having determined this yield factor correlation, it can be applied to the biogenic feedstock of the same type and quality that is used in the same co-processing unit working at the same operating conditions. |\n| --- | --- |\n\n2. Economic operators may only use yield methods as a main method if the system is kept under reference operating conditions defined by them, including for feedstock quality. If economic operators use a yield method, they shall use the radiocarbon 14C testing as a control method to verify its yield factor at least whenever they change the reference operating conditions and in accordance with article 6.\n\n3. The economic operator shall demonstrate the continuous operation of the plant at known co-processing conditions by running each specific bio-input through 14C testing, used to calculate its specific conversion factor.",
+      "text_sha256": "eade04ad1f82ff8fcf19b35bca296fb0b2e3de5352fd7a255a67b818df700ead",
+      "md_span": {
+        "start": 5892,
+        "end": 8467
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32023r1640:2023-06-05#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. If the production system co-processes renewable hydrogen of biological origin, economic operators shall document and provide evidence about the origin of the hydrogen as well as a proof that the hydrogen entering the hydrotreater or other co-processing unit:\n\n| (a) | has not been counted as a renewable energyelsewhere in order to avoid double-counting, and |\n| --- | --- |\n\n| (b) | has been incorporated into the final fuel and not simply used to remove impurities. |\n| --- | --- |\n\n2. Economic operators may use a common refinery elemental analysis such as CHN (Carbon, Hydrogen, Nitrogen) test to quantify the hydrogen content of the material before and after hydro treating as a way to document if there is any increase in hydrogen content of the fuel. Economic operators may account any such increase as an additional biofuel or biogas in the output. The biological origin of the hydrogen used in hydro treating or co-processing shall be certified for its biological origin by the supplier or the economic operators themselves, in case they are also producers before use.",
+      "text_sha256": "0c95fe3eb9abaa6ba73bcb681ead7554fd0873048545d5ab9f070a15673f4369",
+      "md_span": {
+        "start": 8500,
+        "end": 9591
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32023r1640:2023-06-05#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. When carrying out radiocarbon (14C) testing, economic operators shall apply the Accelerator Mass Spectrometry (AMS) method. However, they may alternatively apply Liquid Scintillation Counting (LSC) method if the bio-share is expected to be at least 1 volume % and if the sample is suitable for this testing method, especially regarding particles present in the liquid.\n\n2. Economic operators shall ensure that, when conducting a radiocarbon 14C test, the type of radiocarbon 14C test selected can reliably detect and quantify the bio-share. They shall provide details on the accuracy and precision of the results.\n\n3. The radiocarbon 14C testing shall also quantify any loss of carbon from biogenic origin due to the process of removing oxygen from the biogenic feedstock by making a comparison of biogenic and fossil carbon in the inputs and output products.\n\n4. If the radiocarbon 14C testing, when used as a second verification testing method of the bio-content in an output, shows a deviation of more than 1 % in absolute terms, compared to the results of the main method used by the economic operator, the values of the radiocarbon 14C testing shall be considered valid. In the first year of application of this methodology, the economic operators can apply an increased deviation of 3 % instead of 1 % in absolute terms, until they fine-tune their system of testing methods. In addition, the economic operator shall review its main testing methods to correct any system errors leading to such deviation and respectively calibrate the testing method if needed.\n\n5. The frequency for carrying out the main testing method and the radiocarbon 14C testing method when used as a second verification testing method shall be determined by taking into account the complexity and variability of the key parameters of the co-processing, in such a way as to ensure that at any time the claims of the bio-content reflect their actual shares. The economic operators shall perform the calculation of the bio-content share at least for each batch or consignment. Unless a method is applied that can map the operating conditions related to carbon content in the output for each batch or consignment, the radiocarbon 14C testing method shall be carried out every time that there is a change by more than 5 %, compared to the baseline conditions, in the feedstock composition in terms of the share of biogenic input or the amount of hydrogen and catalyst inputs in the total mass, the process parameters in terms of process temperature in absolute [K] or process pressure in absolute pressure [Pa] or the product composition. An elemental analysis of carbon, oxygen and nitrogen, together with an analysis of the water and solids content, shall be provided as a basis for assessing the parameters of the product composition. In all cases, the radiocarbon 14C testing method shall be carried out at least once every 4 months.",
+      "text_sha256": "121e57ed897a2bbb5d705de06ffdabb393d61c71221cc1ab946394533a7f7e4b",
+      "md_span": {
+        "start": 9624,
+        "end": 12549
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32023r1640:2023-06-05#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. When economic operators claim there is a specific share of biofuels or biogas in the fuel they put on the market, they shall keep samples for at least two years as well as records of measurement data and calculations. Economic operators shall provide certification bodies and their auditors with full access to such samples, records and other evidence. Economic operators shall prepare a detailed description of the main testing method they used, including an indication of its accuracy and precision as also verified through the application the radiocarbon 14C testing and together with a procedure for its application.\n\n2. In order to avoid the risks of deviations and facilitate retrospective audit verification of the accuracy of claims made by refineries or other co-processing installation on the bio-share in their fuels, economic operators shall apply an overall mass balance system that indicates the biogenic share of input and output. They shall perform this mass balance calculation in parallel to the main testing method in order to check and compare the results of both methods on assessing the bio-share in final fuels produced.\n\n3. If within the boundaries of the refinery or other co-processing installation, economic operators mix the output of co-processing with other fuels, they shall use a mass balance system that allows consignments of fuels produced resulting from biomass, being processed with fossil fuels in a common process, to be mixed with other fuels, while providing adequate information about the characteristics and sizes of the consignments, in accordance with Article 30 of Directive (EU) 2018/2001.\n\n4. Any deviations identified by the auditors of certification bodies in the shares of biofuels or biogas in the fuel that economic operators put on the market shall be treated as major non-conformities and immediately notified to the voluntary schemes or other certification schemes that verify compliance of the fuel resulting from biomass with the sustainability and the greenhouse gas emissions saving criteria laid down in Article 29(2) to (7) and (10) of Directive (EU) 2018/2001.\n\n5. The competent authorities of Member States may also verify the claims of economic operators about the share of biofuels or biogas in the fuels they put on the market by using the methods referred to in Articles 6 and 7 of this Regulation. Any deviations identified as a result of these control checks shall be immediately notified to the certification body and the voluntary scheme or other certification scheme that have certified the claims.\n\n6. In case of such notifications made either by certification bodies or the competent authorities of the Member States, the certification scheme concerned shall be obliged to take immediate action by investigating the case. If their investigation confirms the findings of the certification body or the competent authority of the Member State, the certification scheme shall treat the deviations as a major non-conformity and immediately suspend the certificate of the economic operator.\n\n7. In order to rectify the accuracy of the claims, the lower values established by the control checks shall be used as a basis for recalculating the claims. In addition, the economic operator shall be urged by the certification schemes to review its testing methods to correct, inter alia, any system errors leading to such deviations.\n\n8. The effectiveness of the measures taken by the economic operator shall be validated by another audit of the certification body before the suspension of its certificate can be lifted.",
+      "text_sha256": "b76f54a057772c8a417c9045fac2f36cb6e8211a6cd009c479f2be6daa95dd6d",
+      "md_span": {
+        "start": 12582,
+        "end": 16179
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32023r1640:2023-06-05#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nThis Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "666129feda52c84c5b47b490184d5b1e4517ed64c67df0fe67b69e284a20ed65",
+      "md_span": {
+        "start": 16212,
+        "end": 16358
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

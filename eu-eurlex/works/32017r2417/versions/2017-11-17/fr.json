@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r2417:2017-11-17",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/2417 of 17 November 2017 supplementing Regulation (EU) No 600/2014",
+  "valid_from": "2017-11-17",
+  "valid_to": "2022-05-17",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r2417/versions/2017-11-17/fr.xml",
+    "sha256": "13d751d5a5b9f1c1b849ef9af591b25d32cb21e8d6237ffc0808e7d0fd03adf2",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R2417"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r2417:2017-11-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes instruments dérivés décrits en annexe sont soumis à l'obligation de négociation visée à l'article 28 du règlement (UE) no 600/2014.\n\nUn contrat d'instrument dérivé visé au tableau 1, tableau 2 ou tableau 3 de l'annexe est réputé avoir une durée de 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15, 20 ou 30 ans lorsque le temps qui s'écoule entre la date à laquelle les obligations qui découlent dudit contrat prennent effet et la date de résiliation de ce contrat correspond à l'une de ces durées, plus ou moins cinq jours.",
+      "text_sha256": "24da4f58f22a48c049590b29095afad5e24d3ec6feff294d7ad04bbc12e9fd11",
+      "md_span": {
+        "start": 659,
+        "end": 1190
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r2417:2017-11-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nL'obligation de négociation prescrite à l'article 28 du règlement (UE) no 600/2014 prend effet à compter de la plus tardive des deux dates suivantes pour chaque catégorie de contreparties visée à l'article 3 du règlement délégué (UE) 2015/2205 et à l'article 3 du règlement délégué (UE) 2016/592:\n\n| a) | le 3 janvier 2018; |\n| --- | --- |\n\n| b) | la date visée à l'article 3 du règlement délégué (UE) 2015/2205 ou à l'article 3 du règlement délégué (UE) 2016/592 pour cette catégorie de contreparties. |\n| --- | --- |",
+      "text_sha256": "6970b31a0cf0aa43fdadd027070280b760e4cb95a853c90a497f28cd4951ed78",
+      "md_span": {
+        "start": 1223,
+        "end": 1752
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r2417:2017-11-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "e2b04ee2b40481ba71bf6f064175a8301083c00b49e356c6b9c1c1633ffc8e31",
+      "md_span": {
+        "start": 1785,
+        "end": 1916
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

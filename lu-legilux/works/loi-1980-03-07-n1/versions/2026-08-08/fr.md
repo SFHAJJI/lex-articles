@@ -1,8 +1,8 @@
 ---
 lex_id: 'lu-legilux:loi-1980-03-07-n1:2026-08-08'
-title: 'Version consolidée applicable au 08/08/2026 : Loi du 7 mars 1980 sur l''organisation judiciaire.'
+title: 'Version consolidée applicable au 16/09/2026 : Loi du 7 mars 1980 sur l''organisation judiciaire.'
 valid_from: '2026-08-08'
-valid_to: 'open'
+valid_to: '2026-09-15'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20260808/fr'
 source_sha256: 'a674c6799c42bbd045e3015477dd869f8ba4c386bacab45b25882a54ad6e4a9f'
 license: 'CC-BY-4.0'

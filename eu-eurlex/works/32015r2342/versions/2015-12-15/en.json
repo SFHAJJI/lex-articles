@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r2342:2015-12-15",
+  "language": "en",
+  "title": "Commission Regulation (EU) 2015/2342 of 15 December 2015 amending Directive 2004/18/EC",
+  "valid_from": "2015-12-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r2342/versions/2015-12-15/en.xml",
+    "sha256": "6a63f0eac4a8cffe10999f6afec9428ce6382a5863e5e182d96916b58e637ff6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2342"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r2342:2015-12-15#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nDirective 2004/18/EC is amended as follows:\n\n| (1) | Article 7 is amended as follows:(a)in point (a), the amount ‘EUR 134 000’ is replaced by ‘EUR 135 000’,(b)in point (b), the amount ‘EUR 207 000’ is replaced by ‘EUR 209 000’,(c)in point (c), the amount ‘EUR 5 186 000’ is replaced by ‘EUR 5 225 000’. |\n| --- | --- |\n| (a) | in point (a), the amount ‘EUR 134 000’ is replaced by ‘EUR 135 000’, |\n| (b) | in point (b), the amount ‘EUR 207 000’ is replaced by ‘EUR 209 000’, |\n| (c) | in point (c), the amount ‘EUR 5 186 000’ is replaced by ‘EUR 5 225 000’. |\n\n| (2) | The first paragraph of Article 8 is amended as follows:(a)in point (a), the amount ‘EUR 5 186 000’ is replaced by ‘EUR 5 225 000’,(b)in point (b), the amount ‘EUR 207 000’ is replaced by ‘EUR 209 000’. |\n| --- | --- |\n| (a) | in point (a), the amount ‘EUR 5 186 000’ is replaced by ‘EUR 5 225 000’, |\n| (b) | in point (b), the amount ‘EUR 207 000’ is replaced by ‘EUR 209 000’. |\n\n| (3) | In Article 56, the amount ‘EUR 5 186 000’ is replaced by ‘EUR 5 225 000’. |\n| --- | --- |\n\n| (4) | In the first subparagraph of Article 63(1), the amount ‘EUR 5 186 000’ is replaced by ‘EUR 5 225 000’. |\n| --- | --- |\n\n| (5) | Article 67(1) is amended as follows:(a)in point (a), the amount ‘EUR 134 000’ is replaced by ‘EUR 135 000’,(b)in point (b), the amount ‘EUR 207 000’ is replaced by ‘EUR 209 000’,(c)in point (c), the amount ‘EUR 207 000’ is replaced by ‘EUR 209 000’. |\n| --- | --- |\n| (a) | in point (a), the amount ‘EUR 134 000’ is replaced by ‘EUR 135 000’, |\n| (b) | in point (b), the amount ‘EUR 207 000’ is replaced by ‘EUR 209 000’, |\n| (c) | in point (c), the amount ‘EUR 207 000’ is replaced by ‘EUR 209 000’. |",
+      "text_sha256": "526ae33800379157835fb64ecb3ad1ec5781d11fd3324bd588f8443efd390911",
+      "md_span": {
+        "start": 631,
+        "end": 2329
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r2342:2015-12-15#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on 1 January 2016.",
+      "text_sha256": "450f8a74ebf9608d8fbb3248c0f45ec25907782deca1968b4432428bc1889427",
+      "md_span": {
+        "start": 2362,
+        "end": 2430
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

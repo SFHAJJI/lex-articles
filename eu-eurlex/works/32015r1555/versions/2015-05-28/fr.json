@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r1555:2015-05-28",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2015/1555 of 28 May 2015 supplementing Regulation (EU) No 575/2013",
+  "valid_from": "2015-05-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r1555/versions/2015-05-28/fr.xml",
+    "sha256": "de3f59c471195ade2036f1daa391105ea36d725cd4358c3004696c8e06d9273d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R1555"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r1555:2015-05-28#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nConformément à l'article 440 du règlement (UE) no 575/2013, le présent règlement précise les obligations d'information des établissements concernant leur respect des exigences de coussin de fonds propres contracyclique prévues au titre VII, chapitre 4, de la directive 2013/36/UE.",
+      "text_sha256": "9425e52e3686538edd5cb9da188cd1a292212f76549c2e34b95b8d1b23509cdb",
+      "md_span": {
+        "start": 648,
+        "end": 945
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r1555:2015-05-28#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLa répartition géographique des expositions de crédit d'un établissement pertinentes pour le calcul du coussin contracyclique visée à l'article 440, paragraphe 1, point a), du règlement (UE) no 575/2013 est publiée selon le modèle normalisé présenté dans le tableau 1 de l'annexe I, conformément aux instructions figurant à l'annexe II, parties I et II, et aux dispositions du règlement délégué (UE) no 1152/2014.",
+      "text_sha256": "bb5fedea206eea828a9d14c54d051d29104d5d1028ad8c1fabe600e4d1e626af",
+      "md_span": {
+        "start": 978,
+        "end": 1402
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32015r1555:2015-05-28#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe montant du coussin contracyclique spécifique d'un établissement visé à l'article 440, paragraphe 1, point b), du règlement (UE) no 575/2013 est publié selon le modèle normalisé présenté dans le tableau 2 de l'annexe I, conformément aux instructions figurant à l'annexe II, parties I et III.",
+      "text_sha256": "0e028bd06406ca0eb8bd662ba313b611427db7221a63c00ee11d0c790d082323",
+      "md_span": {
+        "start": 1435,
+        "end": 1739
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32015r1555:2015-05-28#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à compter du 1er janvier 2016.",
+      "text_sha256": "c9ea9e326e6b42bc580385db7ee765b3fba6877ceaa67a061d0e7acf792c08d9",
+      "md_span": {
+        "start": 1772,
+        "end": 1959
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

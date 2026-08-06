@@ -1,0 +1,116 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r2441:2023-10-31",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2023/2441 of 31\u00A0October 2023 laying down rules for the application of Directive\u00A02003/87/EC",
+  "valid_from": "2023-10-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r2441/versions/2023-10-31/fr.xml",
+    "sha256": "4232b0d2e05dbd4d9c9ac0730054e049ab087362c0fbdfa3e42b8364a411de37",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R2441"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r2441:2023-10-31#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe présent règlement établit le contenu et le format des plans de neutralité climatique visés à l’article 10 bis, paragraphe 1, cinquième alinéa, et à l’article 10 ter, paragraphe 4, de la directive 2003/87/CE.",
+      "text_sha256": "17836760b48b003d7f4121e69c9151942c1d77abd898783c113509f3940df8d5",
+      "md_span": {
+        "start": 675,
+        "end": 902
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r2441:2023-10-31#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins du présent règlement, on entend par:\n\n| 1) | «entreprise de chauffage urbain»: une entreprise qui exploite des installations dont les principales activités économiques sont classées selon les codes NACE visés dans le règlement (CE) no 1893/2006 du Parlement européen et du Conseil (9) soit comme des activités de production et distribution de vapeur et d’air conditionné, soit comme des activités de production d’électricité combinée à l’exportation de chauffage urbain; |\n| --- | --- |\n\n| 2) | «jalons»: les indicateurs qualitatifs des progrès accomplis dans la réalisation d’une mesure ou d’un investissement en vue d’atteindre l’objectif de neutralité climatique d’ici à 2050 énoncé à l’article 2 du règlement (UE) 2021/1119 au niveau de l’installation ou bien au niveau de l’entreprise pour les gestionnaires de réseaux de chauffage urbain, conformément à l’article 10 bis, paragraphe 1, cinquième alinéa, et à l’article 10 ter, paragraphe 4, troisième alinéa, de la directive 2003/87/CE, à l’exclusion de l’utilisation des crédits de compensation carbone; |\n| --- | --- |\n\n| 3) | «cibles»: les indicateurs quantitatifs des progrès accomplis dans la réalisation d’une mesure ou d’un investissement en vue d’atteindre l’objectif de neutralité climatique d’ici à 2050 énoncé à l’article 2 du règlement (UE) 2021/1119 au niveau de l’installation ou bien au niveau de l’entreprise pour les gestionnaires de réseaux de chauffage urbain, conformément à l’article 10 bis, paragraphe 1, cinquième alinéa, et à l’article 10 ter, paragraphe 4, troisième alinéa, de la directive 2003/87/CE, à l’exclusion de l’utilisation des crédits de compensation carbone; |\n| --- | --- |\n\n| 4) | «cibles et jalons intermédiaires»: les cibles et jalons fixés pour le 31 décembre 2025 puis pour le 31 décembre à intervalles de cinq ans. |\n| --- | --- |",
+      "text_sha256": "e14ae2b2ecc77aee667be668eb37cba33670e01f5ecbc6f22a6751015c03c6ad",
+      "md_span": {
+        "start": 935,
+        "end": 2785
+      },
+      "citations": [
+        {
+          "href": "#ntr9-L_202302441FR.000101-E0009",
+          "text": "(9)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32023r2441:2023-10-31#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les plans de neutralité climatique contiennent les éléments énumérés à l’annexe. Ces plans sont dûment motivés et justifiés.\n\n2. Les mesures, jalons et cibles, y compris les jalons et cibles intermédiaires, sont spécifiques, mesurables, réalisables, pertinents et assortis d’échéances.",
+      "text_sha256": "f7b32da3565a585d0f020ed45cbcd74bf199c96aae47006dd089a137d7745c5b",
+      "md_span": {
+        "start": 2818,
+        "end": 3117
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32023r2441:2023-10-31#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. La Commission met à disposition un modèle électronique ou un format de fichier spécifique pour la fourniture des informations spécifiées dans l’annexe.\n\n2. Les exploitants utilisent le modèle électronique ou le format de fichier spécifique visé au paragraphe 1 pour établir et soumettre le plan de neutralité climatique.\n\n3. Par dérogation au paragraphe 2, les États membres peuvent exiger que les modèles électroniques ou les formats de fichiers spécifiques qu’ils ont eux-mêmes élaborés soient utilisés par les exploitants pour établir et soumettre les plans de neutralité climatique conformément aux actes délégués adoptés en vertu de l’article 10 bis, paragraphe 1, premier alinéa, de la directive 2003/87/CE.",
+      "text_sha256": "4d61fed8411bf248070c8cd2aad569d240ad98dcc60ede681db17bf3a42cc8fb",
+      "md_span": {
+        "start": 3150,
+        "end": 3877
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32023r2441:2023-10-31#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "cd76bcb06b3749ee07344597c203b833ceef616295f0ff30b84c22a1ad223fec",
+      "md_span": {
+        "start": 3910,
+        "end": 4051
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

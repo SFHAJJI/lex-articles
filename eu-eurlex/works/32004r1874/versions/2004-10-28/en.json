@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32004r1874:2004-10-28",
+  "language": "en",
+  "title": "Commission Regulation (EC) No\u00A01874/2004 of 28 October 2004 amending Directives 2004/17/EC and 2004/18/EC",
+  "valid_from": "2004-10-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32004r1874/versions/2004-10-28/en.xml",
+    "sha256": "ce49261825c152f25a9ee0aae82a262bf5576b43f05c6ae366e37bb15681cd10",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R1874"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32004r1874:2004-10-28#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nDirective 2004/17/EC is amended as follows:\n\n| 1. | Article 16 is amended as follows:(a)in point (a), the amount ‘EUR 499 000’ is replaced by ‘EUR 473 000’,(b)in point (b), the amount ‘EUR 6 242 000’ is replaced by ‘EUR 5 923 000’. |\n| --- | --- |\n| (a) | in point (a), the amount ‘EUR 499 000’ is replaced by ‘EUR 473 000’, |\n| (b) | in point (b), the amount ‘EUR 6 242 000’ is replaced by ‘EUR 5 923 000’. |\n\n| 2. | Article 61 is amended as follows:(a)in paragraph 1, the amount ‘EUR 499 000’ is replaced by ‘EUR 473 000’,(b)in paragraph 2, the amount ‘EUR 499 000’ is replaced by ‘EUR 473 000’. |\n| --- | --- |\n| (a) | in paragraph 1, the amount ‘EUR 499 000’ is replaced by ‘EUR 473 000’, |\n| (b) | in paragraph 2, the amount ‘EUR 499 000’ is replaced by ‘EUR 473 000’. |",
+      "text_sha256": "df505ce25589658e63c4a98ebd8946b6e971d241d106d8b033aa0accc3fdea2b",
+      "md_span": {
+        "start": 649,
+        "end": 1435
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32004r1874:2004-10-28#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nDirective 2004/18/EC is amended as follows:\n\n| 1. | Article 7 is amended as follows:(a)in point (a), the amount ‘EUR 162 000’ is replaced by ‘EUR 154 000’,(b)in point (b), the amount ‘EUR 249 000’ is replaced by ‘EUR 236 000’,(c)in point (c), the amount ‘EUR 6 242 000’ is replaced by ‘EUR 5 923 000’; |\n| --- | --- |\n| (a) | in point (a), the amount ‘EUR 162 000’ is replaced by ‘EUR 154 000’, |\n| (b) | in point (b), the amount ‘EUR 249 000’ is replaced by ‘EUR 236 000’, |\n| (c) | in point (c), the amount ‘EUR 6 242 000’ is replaced by ‘EUR 5 923 000’; |\n\n| 2. | The first paragraph of Article 8 is amended as follows:(a)in point (a), the amount ‘EUR 6 242 000’ is replaced by ‘EUR 5 923 000’,(b)in point (b) the amount ‘EUR 249 000’ is replaced by ‘EUR 154 000’; |\n| --- | --- |\n| (a) | in point (a), the amount ‘EUR 6 242 000’ is replaced by ‘EUR 5 923 000’, |\n| (b) | in point (b) the amount ‘EUR 249 000’ is replaced by ‘EUR 154 000’; |\n\n| 3. | In Article 56, the amount ‘EUR 6 242 000’ is replaced by ‘EUR 5 923 000’; |\n| --- | --- |\n\n| 4. | In the first subparagraph of Article 63(1), the amount ‘EUR 6 242 000’ is replaced by ‘EUR 5 923 000’; |\n| --- | --- |\n\n| 5. | Article 67(1) is amended as follows:(a)in point (a), the amount ‘EUR 162 000’ is replaced by ‘EUR 154 000’,(b)in point (b), the amount ‘EUR 249 000’ is replaced by ‘EUR 236 000’,(c)in point (c), the amount ‘EUR 249 000’ is replaced by ‘EUR 236 000’. |\n| --- | --- |\n| (a) | in point (a), the amount ‘EUR 162 000’ is replaced by ‘EUR 154 000’, |\n| (b) | in point (b), the amount ‘EUR 249 000’ is replaced by ‘EUR 236 000’, |\n| (c) | in point (c), the amount ‘EUR 249 000’ is replaced by ‘EUR 236 000’. |",
+      "text_sha256": "3a3773e41fea28e6ee414749cbb39d3bce8052b28477e798e457af348a1fdc7e",
+      "md_span": {
+        "start": 1468,
+        "end": 3159
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32004r1874:2004-10-28#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "63ebde8987b07b59ea5d2387be48bf4df9158bde7943a54b7fd49b3b49c01c92",
+      "md_span": {
+        "start": 3192,
+        "end": 3339
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

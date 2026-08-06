@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0945:2014-09-04",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) No 945/2014 of 4 September 2014 laying down implementing technical standards with regard to relevant appropriately diversified indices according to Regulation (EU) No 575/2013",
+  "valid_from": "2014-09-04",
+  "valid_to": "2020-02-18",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0945/versions/2014-09-04/fr.xml",
+    "sha256": "e4313c6772cfb3247f13ccbdd4bfcf782d9cd8bbd23c1826a7dc815faa6cea6a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0945"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0945:2014-09-04#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLa liste des indices boursiers auxquels peuvent s'appliquer les traitements prévus à l'article 344, paragraphe 4, deuxième phrase, du règlement (UE) no 575/2013 figure en annexe.",
+      "text_sha256": "92c87ccf286acd391b8ed62d73f0faeaff21ca429d4d81ad02c10c71498bee8a",
+      "md_span": {
+        "start": 766,
+        "end": 961
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0945:2014-09-04#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "91deaebb4a04a055d8a9d5823aaced733082a23d8dadda698fa9f22d4847d8e8",
+      "md_span": {
+        "start": 994,
+        "end": 1135
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

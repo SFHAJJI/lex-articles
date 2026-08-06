@@ -1,0 +1,2073 @@
+---
+lex_id: 'eu-eurlex:32010l0078:2011-01-04'
+title: 'Directive 2010/78/EU'
+valid_from: '2011-01-04'
+valid_to: '2019-01-12'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02010L0078-20110104'
+source_sha256: 'ab0370c0a7b272bb8e656c6b8bd399e8cc096ecb58b9b6c95fc373ad5ef4b00e'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_premier"></a>
+
+### Article premier — Modifications de la directive 98/26/CE
+
+La directive 98/26/CE est modifiée comme suit:
+
+1. À l’article 6, le paragraphe 3 est remplacé par le texte suivant:
+
+«3. L’État membre visé au paragraphe 2 la notifie immédiatement au Comité européen du risque systémique, aux autres États membres et à l’Autorité européenne de surveillance (Autorité européenne des marchés financiers) (ci-après dénommée “AEMF”) instituée par le règlement (UE) no 1095/2010 du Parlement européen et du Conseil (19).
+
+2. À l’article 10, paragraphe 1, le premier alinéa est remplacé par le texte suivant:
+
+«1. Les États membres déterminent les systèmes, et les opérateurs de système respectifs, entrant dans le champ d’application de la présente directive; ils les notifient à l’AEMF et informent celle-ci des autorités choisies conformément à l’article 6, paragraphe 2. L’AEMF publie ces renseignements sur son site internet.».
+
+3. L’article suivant est inséré:
+
+«Article 10 bis
+
+1. Les autorités compétentes coopèrent avec l’AEMF aux fins de la présente directive, conformément au règlement (UE) no 1095/2010.
+
+2. Dans les plus brefs délais, les autorités compétentes fournissent à l’AEMF toutes les informations nécessaires à l’accomplissement de sa mission conformément à l’article 35 du règlement (UE) no 1095/2010.».
+
+<a id="art_2"></a>
+
+### Article 2 — Modifications de la directive 2002/87/CE
+
+La directive 2002/87/CE est modifiée comme suit:
+
+1. L’article 4 est modifié comme suit:
+
+a) le paragraphe 2 est remplacé par le texte suivant:
+
+«2. Le coordinateur désigné conformément à l’article 10 informe l’entreprise mère qui est à la tête d’un groupe ou, en l’absence d’entreprise mère, l’entité réglementée qui affiche le total du bilan le plus élevé dans le secteur financier le plus important d’un groupe, que le groupe a été identifié comme étant un conglomérat financier et que le coordinateur a été désigné.
+
+Le coordinateur en informe également les autorités compétentes qui ont agréé les entités réglementées du groupe et les autorités compétentes de l’État membre dans lequel la compagnie financière holding mixte a son siège social, ainsi que le comité mixte des autorités européennes de surveillance (AES) institué respectivement par l’article 54 du règlement (UE) no 1093/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité bancaire européenne) (20), du règlement (UE) no 1094/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des assurances et des pensions professionnelles) (21) et du règlement (UE) no 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers) (22) (ci-après dénommé “comité mixte”).
+
+b) le paragraphe suivant est ajouté:
+
+«3. Le comité mixte publie sur son site internet et tient à jour la liste des conglomérats financiers identifiés. Ces informations sont disponibles via un lien hypertexte sur le site internet de chacune des autorités européennes de surveillance.».
+
+2. À l’article 9, paragraphe 2, le point suivant est ajouté:
+
+«d) des dispositifs mis en place pour participer à la réalisation et, le cas échéant, au développement de mécanismes et de plans de sauvetage et de résolution des défaillances appropriés. Ces dispositifs sont régulièrement mis à jour.».
+
+3. Le titre de la section 3 est remplacé par le texte suivant:
+
+«MESURES VISANT À FACILITER LA SURVEILLANCE COMPLÉMENTAIRE ET LES COMPÉTENCES DU COMITÉ MIXTE».
+
+4. L’article suivant est inséré dans la section 3:
+
+«Article 9 bis
+
+Rôle du comité mixte
+
+Le comité mixte assure, conformément à l’article 56 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement, la cohérence transsectorielle et transfrontalière de la surveillance et la conformité avec la législation de l'Union.».
+
+5. À l’article 10, le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Pour assurer une surveillance complémentaire adéquate des entités réglementées appartenant à un conglomérat financier, un coordinateur unique, responsable de la coordination et de l’exercice de la surveillance complémentaire, est désigné parmi les autorités compétentes des États membres concernés, y compris celles de l’État membre dans lequel la compagnie financière holding mixte a son siège social. Le nom du coordinateur est publié sur le site internet du comité mixte.».
+
+6. À l’article 11, paragraphe 1, le deuxième alinéa est remplacé par le texte suivant:
+
+«Pour faciliter la surveillance complémentaire et la fonder sur une base juridique large, le coordinateur et les autres autorités compétentes concernées et, le cas échéant, d’autres autorités compétentes concernées, mettent en place des accords de coordination. Ces accords peuvent confier des tâches supplémentaires au coordinateur et préciser les procédures que doivent suivre les autorités compétentes concernées pour prendre les décisions visées aux articles 3 et 4, à l’article 5, paragraphe 4, à l’article 6, à l’article 12, paragraphe 2, et aux articles 16 et 18, ainsi que pour coopérer avec d’autres autorités compétentes.
+
+Conformément, respectivement, à l’article 8 et à la procédure visée à l’article 56 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010, les AES élaborent, par l’intermédiaire du comité mixte, des orientations en vue de la convergence des pratiques de surveillance en ce qui concerne la cohérence des accords de coordination de la surveillance conformément à l’article 131 *bis* de la directive 2006/48/CE et à l’article 248, paragraphe 4, de la directive 2009/138/CE.».
+
+7. À l’article 12, paragraphe 1, le troisième alinéa est remplacé par le texte suivant:
+
+«Pour les besoins de l’exercice de leurs fonctions respectives, les autorités compétentes peuvent aussi échanger avec les autorités énumérées ci-après des informations sur les entités réglementées appartenant à un conglomérat financier, conformément aux règles sectorielles: les banques centrales, le système européen de banques centrales, la Banque centrale européenne et le Comité européen du risque systémique, conformément à l’article 15 du règlement (UE) no 1092/2010 du Parlement européen et du Conseil du 24 novembre 2010 relatif à la surveillance macroprudentielle du système financier dans l’Union européenne et instituant un Comité européen du risque systémique (23).
+
+8. L’article suivant est inséré:
+
+«Article 12 bis
+
+Coopération et échange d’informations avec le comité mixte
+
+1. Les autorités compétentes coopèrent avec le comité mixte aux fins de la présente directive, conformément au règlement (UE) no 1093/2010, au règlement (UE) no 1094/2010 et au règlement (UE) no 1095/2010.
+
+2. Les autorités compétentes fournissent dans les plus brefs délais au comité mixte toutes les informations nécessaires pour l’exercice de ses fonctions, conformément à l’article 35 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement.».
+
+9. À l’article 14, le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Les États membres veillent à ce qu’aucun obstacle juridique n'empêche, sur leur territoire, les personnes physiques et morales relevant de la surveillance complémentaire, qu’elles soient des entités réglementées ou non, de s’échanger toute information pouvant intéresser ladite surveillance complémentaire et d’échanger des informations en vertu de la présente directive avec les AES conformément à l’article 35 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement, le cas échéant par l’intermédiaire du comité mixte.».
+
+10. À l’article 16, le deuxième alinéa est remplacé par le texte suivant:
+
+«Sans préjudice de l’article 17, paragraphe 2, les États membres peuvent déterminer quelles mesures les autorités compétentes peuvent prendre à l’égard des compagnies financières holdings mixtes. Conformément aux articles 16 et 56 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement, les AES peuvent établir, par l’intermédiaire du comité mixte, des orientations concernant les mesures relatives aux compagnies financières holdings mixtes.».
+
+11. L’article 18 est modifié comme suit:
+
+a) le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Sans préjudice des règles sectorielles, quand l’article 5, paragraphe 3 s’applique, les autorités compétentes vérifient que les entités réglementées dont l’entreprise mère a son siège social dans un pays tiers sont soumises à la surveillance de l’autorité compétente de ce pays tiers, qui est équivalente à celle prévue par la présente directive pour la surveillance complémentaire des entités réglementées visées à l’article 5, paragraphe 2. La vérification est effectuée par l’autorité compétente qui jouerait le rôle de coordinateur si les critères énoncés à l’article 10, paragraphe 2, devaient s’appliquer, à la demande de l’entreprise mère ou de l’une quelconque des entités réglementées agréées dans l’Union, ou de sa propre initiative.
+
+Cette autorité compétente consulte les autres autorités compétentes concernées et met tout en œuvre pour respecter toute orientation applicable élaborée par l’intermédiaire du comité mixte conformément aux articles 16 et 56 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement.»;
+
+b) le paragraphe suivant est ajouté:
+
+«1 bis. Si une autorité compétente n’est pas d’accord avec la décision prise par une autre autorité compétente en vertu du paragraphe 1, l’article 19 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement s'applique.».
+
+12. À l’article 19, le paragraphe 2 est remplacé par le texte suivant:
+
+«2. Sans préjudice de l’article 218, paragraphes 1 et 2, du traité sur le fonctionnement de l’Union européenne, la Commission, assistée du comité mixte, du comité bancaire européen, du comité européen des assurances et des pensions professionnelles et du comité des conglomérats financiers, examine l’issue des négociations visées au paragraphe 1 et la situation qui en résulte.».
+
+13. À l’article 20, paragraphe 1, l’alinéa suivant est inséré:
+
+«Ces mesures ne couvrent pas l’objet du pouvoir délégué et conféré à la Commission en ce qui concerne les éléments énumérés à l’article 21 *bis*.».
+
+14. L’article 21 est modifié comme suit:
+
+a) le paragraphe 4 est remplacé par le texte suivant:
+
+«4. Les AES peuvent donner, par l’intermédiaire du comité mixte, des orientations générales sur la question de savoir si les régimes de surveillance complémentaire des autorités compétentes de pays tiers sont susceptibles d’atteindre les objectifs de la surveillance complémentaire définis dans la présente directive en ce qui concerne les entités réglementées d’un conglomérat financier dont l’entreprise mère a son siège dans un pays tiers. Le comité mixte réexamine régulièrement toute orientation de cette nature et tient compte de toute modification intervenant dans la surveillance complémentaire exercée par lesdites autorités compétentes.»;
+
+b) le paragraphe 5 est remplacé par le texte suivant:
+
+«5. Au plus tard le 1er décembre 2011, la Commission révise l’article 20 et présente toute proposition législative appropriée permettant la mise en place effective des actes délégués prévus à l’article 290 du traité sur le fonctionnement de l’Union européenne et des actes d’exécution prévus à l’article 291 dudit traité en ce qui concerne la présente directive. Sans préjudice des mesures d’exécution déjà adoptées, les compétences conférées à la Commission à l’article 21 pour adopter des mesures d'exécution, qui subsistent encore après l’entrée en vigueur du traité de Lisbonne, deviennent inopérantes à compter du 1er décembre 2012.».
+
+15. L’article suivant est inséré:
+
+«Article 21 bis
+
+Normes techniques
+
+1. Afin d’assurer une harmonisation cohérente de la présente directive, les AES peuvent élaborer, conformément à l’article 56 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement, des projets de normes techniques de réglementation concernant:
+
+a) l’article 2, point 11), afin de préciser l’application de l’article 17 de la directive 78/660/CEE du Conseil dans le contexte de la présente directive;
+
+b) l’article 2, point 17), afin d’établir des procédures ou de préciser les critères de détermination des “autorités compétentes concernées”;
+
+c) l’article 3, paragraphe 5, afin de préciser les variables de substitution pour l’identification des conglomérats financiers.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa, conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010, respectivement.
+
+2. Afin d’assurer des conditions uniformes d’application de la présente directive, les AES élaborent, conformément à l’article 56 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement, des projets de normes techniques d’exécution concernant:
+
+a) l’article 6, paragraphe 2, afin d’assurer des conditions uniformes d’application des méthodes de calcul énumérées à l’annexe I de la partie II, mais sans préjudice de l’article 6, paragraphe 4;
+
+b) l’article 7, paragraphe 2, afin d’assurer des conditions uniformes d’application des procédures de prise en compte des éléments entrant dans le champ d’application de la définition de “concentration de risques” aux fins du contrôle prudentiel visé à l’article 7, paragraphe 2, deuxième alinéa;
+
+c) l’article 8, paragraphe 2, afin d’assurer des conditions uniformes d’application des procédures de prise en compte des éléments entrant dans le champ d’application de la définition des “transactions intragroupe” aux fins du contrôle prudentiel visé à l’article 8, paragraphe 2, troisième alinéa.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa, conformément à l’article 15 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement.».
+
+<a id="art_3"></a>
+
+### Article 3 — Modifications de la directive 2003/6/CE
+
+La directive 2003/6/CE est modifiée comme suit:
+
+1. À l’article 1er, point 5, les alinéas suivants sont ajoutés:
+
+«L’Autorité européenne de surveillance (Autorité européenne des marchés financiers) (ci-après dénommée “AEMF”), instituée par le règlement (UE) no 1095/2010 du Parlement européen et du Conseil (24) peut élaborer des projets de normes techniques d’exécution pour assurer des conditions uniformes d’application des actes adoptés par la Commission conformément au présent article en lien avec les pratiques de marché admises.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au deuxième alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.
+
+2. À l’article 6, le paragraphe suivant est ajouté:
+
+«11. L’AEMF peut élaborer des projets de normes techniques d’exécution pour assurer des conditions uniformes d’application des actes adoptés par la Commission conformément au paragraphe 10, premier alinéa, sixième tiret.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+3. L’article 8 est modifié comme suit:
+
+a) le texte existant devient le paragraphe 1;
+
+b) le paragraphe suivant est ajouté:
+
+«2. L’AEMF peut élaborer des projets de normes techniques d’exécution pour garantir des conditions uniformes d’application des actes adoptés par la Commission conformément au paragraphe 1.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+4. À l’article 14, le paragraphe suivant est ajouté:
+
+«5. Les États membres fournissent chaque année à l’AEMF des informations globales sur l’ensemble des mesures administratives et des sanctions imposées en vertu des paragraphes 1 et 2.
+
+Lorsque l’autorité compétente rend publique une mesure administrative ou une sanction, elle en informe en même temps l’AEMF.
+
+Lorsqu’une sanction publiée concerne une entreprise d’investissement agréée conformément à la directive 2004/39/CE, l’AEMF ajoute une référence à ladite sanction dans le registre des entreprises d’investissement établi en vertu de l’article 5, paragraphe 3, de la directive 2004/39/CE.».
+
+5. L’article suivant est inséré:
+
+«Article 15 bis
+
+1. Les autorités compétentes coopèrent avec l’AEMF aux fins de la présente directive, conformément au règlement (UE) no 1095/2010.
+
+2. Dans les plus brefs délais, les autorités compétentes fournissent à l’AEMF toutes les informations nécessaires à l’accomplissement de sa mission conformément à l’article 35 du règlement (UE) no 1095/2010.».
+
+6. L’article 16 est modifié comme suit:
+
+a) au paragraphe 2, le quatrième alinéa est remplacé par le texte suivant:
+
+«Sans préjudice de l’article 258 du traité sur le fonctionnement de l’Union européenne, une autorité compétente dont la demande d’information ne reçoit pas de suite dans des délais raisonnables ou est rejetée peut référer ce rejet ou cette inaction à l’AEMF dans un délai raisonnable. Dans le cas visé à la première phrase, l’AEMF peut agir dans le cadre de l’article 19 du règlement (UE) no 1095/2010, sans préjudice de la possibilité de refuser de donner suite à une demande d’information prévue au deuxième alinéa du présent paragraphe et de la possibilité, pour l'AEMF, d’agir dans le cadre de l’article 17 du règlement (UE) no 1095/2010.»;
+
+b) au paragraphe 4, le cinquième alinéa est remplacé par le texte suivant:
+
+«Sans préjudice de l’article 258 du traité sur le fonctionnement de l’Union européenne, une autorité compétente dont la demande visant à ouvrir une enquête ou à permettre à ses agents d’accompagner ceux de l’autorité compétente de l’autre État membre ne reçoit pas de suite dans des délais raisonnables ou est rejetée peut référer ce rejet ou cette inaction à l’AEMF dans un délai raisonnable. Dans le cas visé à la première phrase, l’AEMF peut agir dans le cadre de l’article 19 du règlement (UE) no 1095/2010, sans préjudice de la possibilité de refuser de donner suite à une demande d’information prévue au quatrième alinéa du présent paragraphe et de la possibilité, pour l'EMF, d’agir dans le cadre de l’article 17 du règlement (UE) no 1095/2010.»;
+
+c) le paragraphe 5 est remplacé par le texte suivant:
+
+«5. Afin d’assurer des conditions uniformes d’application des paragraphes 2 et 4, l’AEMF peut élaborer des projets de normes techniques d’exécution concernant les procédures et la forme applicables à l’échange d’informations et aux inspections transfrontalières visés au présent article.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+7. L’article suivant est inséré:
+
+«Article 17 bis
+
+Au plus tard le 1er décembre 2011, la Commission révise les articles 1er, 6, 8, 14 et 16 et présente toute proposition législative appropriée permettant la mise en place effective des actes délégués prévus à l’article 290 du traité sur le fonctionnement de l’Union européenne et des actes d’exécution prévus à l’article 291 dudit traité en ce qui concerne la présente directive. Sans préjudice des mesures d’exécution déjà adoptées, les compétences conférées à la Commission à l’article 17 pour adopter des mesures d'exécution, qui subsistent encore après l’entrée en vigueur du traité de Lisbonne, deviennent inopérantes à compter du 1er décembre 2012.».
+
+<a id="art_4"></a>
+
+### Article 4 — Modifications de la directive 2003/41/CE
+
+La directive 2003/41/CE est modifiée comme suit:
+
+1. L’article 9 est modifié comme suit:
+
+a) au paragraphe 1, le point a) est remplacé par le texte suivant:
+
+«a) l’institution soit inscrite dans un registre national par l’autorité compétente, ou soit agréée; en cas d’activité transfrontalière telle que visée à l’article 20, le registre indique également les États membres dans lesquels l’institution opère; ces informations sont communiquées à l’Autorité européenne de surveillance (Autorité européenne des assurances et des pensions professionnelles) (ci-après dénommée “AEAPP”), instituée par le règlement (UE) no 1094/2010 du Parlement européen et du Conseil (25), qui les publie sur son site internet;
+
+b) le paragraphe 5 est remplacé par le texte suivant:
+
+«5. En cas d’activité transfrontalière telle que définie à l’article 20, les conditions de fonctionnement de l’institution sont soumises à l’agrément préalable des autorités compétentes de l’État membre d'origine. Lorsqu’ils accordent cet agrément, les États membres en informent dans les plus brefs délais l’AEAPP.».
+
+2. L’article 13 est modifié comme suit:
+
+a) le texte actuel devient le paragraphe 1;
+
+b) le paragraphe suivant est ajouté:
+
+«2. L’AEAPP peut élaborer des projets de normes techniques d’exécution sur les modèles et les formats des documents figurant au paragraphe 1, point c) i) à vi).
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1094/2010.».
+
+3. À l’article 14, paragraphe 4, le deuxième alinéa est remplacé par le texte suivant:
+
+«Toute décision d’interdire les activités d’une institution est motivée de façon détaillée et est notifiée à ladite institution. Elle est aussi notifiée à l'AEAPP.».
+
+4. À l’article 15, paragraphe 6, le premier alinéa est remplacé par le texte suivant:
+
+«6. Dans la perspective d’une harmonisation plus poussée des règles relatives au calcul des dispositions techniques pouvant se justifier – notamment les hypothèses concernant les taux d’intérêt et d’autres hypothèses influençant le niveau des dispositions techniques – la Commission, en s’appuyant sur l’avis de l'AEAPP, publie, tous les deux ans ou à la demande d’un État membre, un rapport sur la situation concernant le développement des activités transfrontalières.».
+
+5. À l’article 20, le paragraphe suivant est ajouté:
+
+«11. Les États membres communiquent à l’AEAPP leurs dispositions nationales de nature prudentielle relatives aux régimes de retraite professionnelle qui ne sont pas couvertes par la référence aux dispositions nationales du droit social et du droit du travail figurant au paragraphe 1.
+
+Les États membres mettent ces informations à jour régulièrement, et au moins tous les deux ans, et l’AEAPP les publie sur son site internet.
+
+Afin d’assurer des conditions uniformes d’application du présent paragraphe, l’AEAPP élabore des projets de normes techniques d’exécution précisant les procédures à suivre et les formats et modèles à utiliser par les autorités compétentes pour la transmission des informations pertinentes à l’AEAPP et leur mise à jour. L’AEAPP soumet ces projets de normes techniques d’exécution à la Commission au plus tard le 1er janvier 2014.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1094/2010.».
+
+6. L’article 21 est modifié comme suit:
+
+a) le titre est remplacé par le titre suivant:
+
+«Coopération entre les États membres, l’AEAPP et la Commission»;
+
+b) le paragraphe suivant est ajouté:
+
+«2 *bis*. Les autorités compétentes coopèrent avec l’AEAPP aux fins de la présente directive, conformément au règlement (UE) no 1094/2010.
+
+Les autorités compétentes fournissent dans les plus brefs délais à l’AEAPP toutes les informations nécessaires à l’accomplissement de sa mission au titre de la présente directive et du règlement (UE) no 1094/2010, conformément à l’article 35 dudit règlement.»;
+
+c) le paragraphe 3 est remplacé par le texte suivant:
+
+«3. Chaque État membre informe la Commission et l’AEAPP des difficultés majeures auxquelles donne lieu l’application de la présente directive.
+
+La Commission, l’AEAPP et les autorités compétentes des États membres concernés examinent ces difficultés le plus rapidement possible afin de trouver une solution adéquate.».
+
+<a id="art_5"></a>
+
+### Article 5 — Modifications de la directive 2003/71/CE
+
+La directive 2003/71/CE est modifiée comme suit:
+
+1. À l’article 4, le paragraphe 3 est remplacé par le paragraphe suivant:
+
+«3. Afin d’assurer une harmonisation cohérente de la présente directive, l’Autorité européenne de surveillance (Autorité européenne des marchés financiers) (ci-après dénommée “AEMF”) instituée par le règlement (UE) no 1095/2010 du Parlement européen et du Conseil (26) peut élaborer des projets de normes techniques de réglementation pour préciser les dérogations prévues aux points a) à e) du paragraphe 1 et aux points a) à h) du paragraphe 2.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+2. À l’article 5, paragraphe 2, les alinéas suivants sont ajoutés:
+
+«Afin d’assurer des conditions uniformes d’application de la présente directive et des actes délégués adoptés par la Commission conformément au paragraphe 5, l’AEMF élabore des projets de normes techniques d’exécution pour assurer des conditions uniformes d’application des actes délégués adoptés par la Commission conformément au paragraphe 5 en ce qui concerne un modèle uniforme pour la présentation du résumé, et pour permettre aux investisseurs de comparer la valeur mobilière concernée avec d’autres produits pertinents.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+3. À l’article 7, le paragraphe suivant est ajouté:
+
+«4. L’AEMF peut élaborer des projets de normes techniques d’exécution pour assurer des conditions uniformes d’application des actes délégués adoptés par la Commission conformément au paragraphe 1.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+4. À l’article 8, le paragraphe suivant est ajouté:
+
+«5. L’AEMF peut élaborer des projets de normes techniques d’exécution pour assurer des conditions uniformes d’application des actes délégués adoptés par la Commission conformément au paragraphe 4.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+5. L’article 13 est modifié comme suit:
+
+a) au paragraphe 2, l’alinéa suivant est ajouté:
+
+«L’autorité compétente notifie l’approbation du prospectus et de ses éventuels suppléments à l’AEMF en même temps qu’à l'émetteur, à l’offreur ou à la personne qui sollicite l’admission à la négociation sur un marché réglementé, selon le cas. Les autorités compétentes fournissent en même temps à l’AEMF une copie du prospectus et de ses éventuels suppléments.»;
+
+b) le paragraphe 5 est remplacé par le texte suivant:
+
+«5. L’autorité compétente de l’État membre d’origine peut déléguer l’approbation d’un prospectus à l’autorité compétente d’un autre État membre, moyennant notification préalable à l’AEMF et avec l’accord de l’autorité compétente. Cette délégation est notifiée à l’émetteur, à l’offreur ou à la personne qui sollicite l’admission à la négociation sur un marché réglementé dans les trois jours ouvrables qui suivent la date de la décision prise par l’autorité compétente de l’État membre d’origine. Le délai fixé au paragraphe 2 court à partir de cette même date. L’article 28, paragraphe 4, du règlement (UE) no 1095/2010 ne s’applique pas à la délégation de l’approbation du prospectus au titre du présent paragraphe.
+
+Afin d’assurer des conditions uniformes d’application de la présente directive et de faciliter la communication entre les autorités compétentes et entre celles-ci et l’AEMF, cette dernière peut élaborer des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés concernant les notifications prévues au présent paragraphe.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au deuxième alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+6. L’article 14 est modifié comme suit:
+
+a) le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Une fois approuvé, le prospectus est déposé auprès de l’autorité compétente de l’État membre d'origine, rendu accessible à l’AEMF par l’intermédiaire de l’autorité compétente et mis à la disposition du public par l’émetteur, l’offreur ou la personne qui sollicite l’admission à la négociation sur un marché réglementé, le plus tôt possible et, en tout état de cause, dans un délai raisonnable avant le début ou, au plus tard, au début de l’offre au public ou de l’admission à la négociation des valeurs mobilières concernées. En outre, dans le cas d’une première offre au public d’une catégorie d’actions non encore admises à la négociation sur un marché réglementé et qui doit l’être pour la première fois, le prospectus est disponible au moins six jours ouvrables avant la clôture de l’offre.»;
+
+b) le paragraphe suivant est inséré:
+
+«4 *bis*. L’AEMF publie sur son site internet la liste des prospectus approuvés conformément à l’article 13, en insérant, le cas échéant, un lien hypertexte vers le prospectus publié sur le site internet de l’autorité compétente de l’État membre d'origine, sur celui de l’émetteur ou sur celui du marché réglementé. La liste publiée est tenue à jour et chaque élément d’information reste accessible sur le site internet pendant une période de douze mois au moins.».
+
+7. À l’article 16, le paragraphe suivant est ajouté:
+
+«3. Afin d’assurer une harmonisation cohérente, de préciser les exigences établies au présent article et de tenir compte de l’évolution technique des marchés financiers, l’AEMF élabore des projets de normes techniques de réglementation pour préciser les situations dans lesquelles un fait nouveau significatif ou une erreur ou inexactitude substantielles concernant les informations contenues dans le prospectus exige la publication d’un supplément au prospectus. L’AEMF soumet ces projets de normes techniques de réglementation à la Commission au plus tard le 1er janvier 2014.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1095/2010.».
+
+8. L’article 17 est modifié comme suit:
+
+a) le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Sans préjudice de l’article 23, lorsqu’une offre au public ou une admission à la négociation sur un marché réglementé est prévue dans un ou plusieurs États membres, ou dans un État membre autre que l’État membre d'origine, le prospectus approuvé par l’État membre d’origine, ainsi que tout supplément éventuel, est valide aux fins d’une offre au public ou d’une admission à la négociation dans un nombre quelconque d’États membres d’accueil, pour autant que l’AEMF et l’autorité compétente de chaque État membre d’accueil reçoivent la notification prévue à l’article 18. Les autorités compétentes des États membres d’accueil n’engagent ni procédure d’approbation ni aucune procédure administrative à l’égard des prospectus.»;
+
+b) le paragraphe 2 est remplacé par le texte suivant:
+
+«2. Si des faits nouveaux significatifs ou des erreurs ou inexactitudes substantielles, au sens de l’article 16, surviennent ou apparaissent après l’approbation du prospectus, l’autorité compétente de l’État membre d’origine exige la publication d’un supplément, qui doit être approuvé dans les conditions prévues à l’article 13, paragraphe 1. L’AEMF et l’autorité compétente de l’État membre d’accueil peuvent informer l’autorité compétente de l’État membre d’origine sur la nécessité de nouvelles informations.».
+
+9. À l’article 18, les paragraphes suivants sont ajoutés:
+
+«3. L’autorité compétente de l’État membre d’origine notifie le certificat d’approbation du prospectus à l’AEMF en même temps qu’à l’autorité compétente de l’État membre d’accueil.
+
+L’AEMF et l’autorité compétente de l’État membre d’accueil publient sur leurs sites internet respectifs la liste des certificats d’approbation des prospectus et de leurs suppléments éventuels, qui sont notifiés conformément au présent article, en insérant, le cas échéant, un lien hypertexte vers ces documents publiés sur le site internet de l’autorité compétente de l’État membre d’origine, sur celui de l’émetteur ou sur celui du marché réglementé. La liste publiée est tenue à jour et chaque élément d’information reste accessible sur les sites internet pendant une période de douze mois au moins.
+
+4. Afin d’assurer des conditions uniformes d’application de la présente directive et de tenir compte de l’évolution technique des marchés financiers, l’AEMF peut élaborer des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés concernant la notification du certificat d’approbation, la copie du prospectus, les suppléments éventuels au prospectus et la traduction du résumé.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+10. L’article 21 est modifié comme suit:
+
+a) les paragraphes suivants sont insérés:
+
+«1 *bis*. Les autorités compétentes coopèrent avec l’AEMF aux fins de la présente directive, conformément au règlement (UE) no 1095/2010.
+
+1 *ter*. Dans les plus brefs délais, les autorités compétentes fournissent à l’AEMF toutes les informations nécessaires à l’accomplissement de sa mission conformément à l’article 35 du règlement (UE) no 1095/2010.»;
+
+b) au paragraphe 2, le troisième alinéa est remplacé par le texte suivant:
+
+«Les États membres informent la Commission, l’AEMF et les autorités compétentes des autres États membres de toute disposition prise concernant la délégation de tâches, y compris des conditions précises régissant cette délégation.»;
+
+c) au paragraphe 4, l’alinéa suivant est ajouté:
+
+«Conformément à l’article 21 du règlement (UE) no 1095/2010, l’AEMF est habilitée à prendre part aux inspections sur place visées au point d) lorsqu’elles sont menées conjointement par deux autorités compétentes ou plus.».
+
+11. L’article 22 est modifié comme suit:
+
+a) au paragraphe 2, l’alinéa suivant est ajouté:
+
+«Les autorités compétentes peuvent référer à l’AEMF les situations où des demandes de coopération, en particulier d’échange d'informations, ont été rejetées ou n’ont pas été suivies d’effet dans un délai raisonnable. Sans préjudice de l’article 258 du traité sur le fonctionnement de l’Union européenne, l’AEMF peut, dans les situations visées à la première phrase, agir dans le cadre du pouvoir qui lui est conféré par l’article 19 du règlement (UE) no 1095/2010.»;
+
+b) le paragraphe 3 est remplacé par le texte suivant:
+
+«3. Le paragraphe 1 n’empêche pas les autorités compétentes d’échanger des informations confidentielles ou de les transmettre à l’AEMF ou au Comité européen du risque systémique (ci-après dénommé “CERS”), sous réserve d’obligations en rapport avec l’information spécifique aux entreprises et les effets sur les pays tiers, comme prévu dans le règlement (UE) no 1095/2010 et le règlement (UE) no 1092/2010 du Parlement européen et du Conseil du 24 novembre 2010 relatif à la surveillance macroprudentielle du système financier dans l’Union européenne et instituant un Comité européen du risque systémique (27) respectivement. Les informations échangées entre les autorités compétentes et l’AEMF ou le CERS sont couvertes par l’obligation de secret professionnel à laquelle sont soumises les personnes employées ou ayant été employées par les autorités compétentes qui reçoivent ces informations.
+
+c) le paragraphe suivant est ajouté:
+
+«4. Afin d’assurer une harmonisation cohérente du présent article et de tenir compte de l’évolution technique des marchés financiers, l’AEMF élabore des projets de normes techniques de réglementation visant à préciser les informations exigées au paragraphe 2.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+Afin d’assurer des conditions uniformes d’application du paragraphe 2 et de tenir compte de l’évolution technique des marchés financiers, l’AEMF peut élaborer des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés concernant la coopération et l’échange d’informations entre les autorités compétentes.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au troisième alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+12. L’article 23 est remplacé par le texte suivant:
+
+«Article 23
+
+Mesures conservatoires
+
+1. Lorsque l’autorité compétente de l’État membre d’accueil établit que des irrégularités ont été commises par l’émetteur ou par les établissements financiers chargés des procédures d’offre au public ou que l’émetteur a enfreint ses obligations en raison de l’admission de ses valeurs mobilières à la négociation sur un marché réglementé, elle en informe l’autorité compétente de l’État membre d’origine et l’AEMF.
+
+2. Si, en dépit des mesures prises par l’autorité compétente de l’État membre d’origine ou en raison de l’inadéquation de ces mesures, l’émetteur ou les établissements financiers chargés de l’offre au public persistent à enfreindre les dispositions législatives ou réglementaires applicables, l’autorité compétente de l’État membre d'accueil, après en avoir informé l’autorité compétente de l’État membre d’origine et l’AEMF, prend toutes les mesures appropriées pour protéger les investisseurs et en informe la Commission et l’AEMF dans les meilleurs délais.».
+
+<a id="art_6"></a>
+
+### Article 6 — Modifications de la directive 2004/39/CE
+
+La directive 2004/39/CE est modifiée comme suit:
+
+1. À l’article 5, le paragraphe 3 est remplacé par le texte suivant:
+
+«3. Les États membres enregistrent toutes les entreprises d'investissement. Le registre est accessible au public et contient des informations sur les services ou les activités pour lesquels l’entreprise d’investissement est agréée. Il est régulièrement mis à jour. Tout agrément est notifié à l’Autorité européenne de surveillance (Autorité européenne des marchés financiers) (ci-après dénommée “AEMF”) instituée en vertu du règlement (UE) no 1095/2010 du Parlement européen et du Conseil (28).
+
+L’AEMF établit une liste de toutes les entreprises d’investissement de l’Union. La liste contient des informations sur les services ou les activités pour lesquels l’entreprise d’investissement est agréée, et elle est mise à jour sur une base régulière. L’AEMF publie et tient à jour cette liste sur son site internet.
+
+Lorsqu’une autorité compétente a retiré un agrément conformément à l’article 8, points b) à d), ce retrait est publié sur la liste durant une période de cinq ans.
+
+2. À l’article 7, le paragraphe suivant est ajouté:
+
+«4. Afin d’assurer une harmonisation cohérente du présent article, de l’article 9, paragraphes 2 à 4, et de l’article 10, paragraphes 1 et 2, l’AEMF peut élaborer des projets de normes techniques de réglementation visant à déterminer:
+
+a) les informations à fournir aux autorités compétentes au titre de l’article 7, paragraphe 2, y compris le programme des opérations;
+
+b) les exigences applicables à la gestion des entreprises d’investissement conformément à l’article 9, paragraphe 4, ainsi que les informations pour les notifications conformément à l’article 9, paragraphe 2;
+
+c) les exigences applicables aux actionnaires et associés qui détiennent une participation qualifiée, ainsi que les obstacles qui pourraient empêcher l’autorité compétente d’exercer effectivement ses fonctions prudentielles conformément à l’article 10, paragraphes 1 et 2.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa, conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+Afin d’assurer des conditions uniformes d’application de l’article 7, paragraphe 2, et de l’article 9, paragraphe 2, l’AEMF peut élaborer des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés concernant les notifications ou la fourniture d’informations prévues dans lesdits articles.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au troisième alinéa, conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+3. À l’article 8, l’alinéa suivant est ajouté:
+
+«Tout retrait d’agrément est notifié à l'AEMF.».
+
+4. À l’article 10 *bis*, le paragraphe suivant est ajouté:
+
+«8. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF élabore des projets de normes techniques de réglementation pour établir une liste exhaustive des informations visées à l'article 10 *ter*, paragraphe 4, que les candidats acquéreurs doivent mentionner dans leur notification, sans préjudice du paragraphe 2.
+
+L’AEMF soumet ces projets de normes techniques de réglementation à la Commission au plus tard le 1er janvier 2014.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa, conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+Afin d’assurer des conditions uniformes d’application des articles 10, 10 *bis* et 10 *ter*, l’AEMF élabore des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés concernant les modalités du processus de consultation entre les autorités compétentes concernées au sens de l’article 10, paragraphe 4.
+
+L’AEMF soumet ces projets de normes techniques d’exécution à la Commission au plus tard le 1er janvier 2014.
+
+La Commission a compétence pour adopter les normes techniques de d’exécution visées au quatrième alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+5. L’article 15 est modifié comme suit:
+
+a) le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Les États membres informent la Commission et l’AEMF des difficultés d’ordre général que rencontrent leurs entreprises d’investissement pour s’établir ou pour fournir des services d’investissement et/ou exercer des activités d’investissement dans un pays tiers.»;
+
+b) le paragraphe 2 est remplacé par le texte suivant:
+
+«2. Lorsque la Commission constate, sur la base des informations qui lui sont communiquées conformément au paragraphe 1, qu’un pays tiers n’accorde pas aux entreprises d’investissement de l’Union un accès effectif au marché comparable à celui offert par l’Union aux entreprises d’investissement de ce pays tiers, la Commission, suivant les orientations établies par l’AEMF, soumet des propositions au Conseil afin qu’un mandat de négociation approprié lui soit confié en vue d’obtenir des possibilités de concurrence comparables pour les entreprises d’investissement de l’Union. Le Conseil statue à la majorité qualifiée.
+
+Le Parlement européen est immédiatement et pleinement informé à toutes les étapes de la procédure, conformément à l’article 217 du traité sur le fonctionnement de l’Union européenne.
+
+L’AEMF assiste la Commission aux fins du présent article.».
+
+6. À l’article 16, paragraphe 2, l’alinéa suivant est ajouté:
+
+«L’AEMF peut établir des orientations portant sur les méthodes de contrôle mentionnées dans le présent paragraphe.».
+
+7. À l’article 19, paragraphe 6, le premier tiret est remplacé par le texte suivant:
+
+«— les services visés dans la phrase introductive concernent des actions admises à la négociation sur un marché réglementé ou sur un marché équivalent d’un pays tiers, des instruments du marché monétaire, des obligations et autres titres de créances (à l’exception des obligations et autres titres de créances qui comportent un instrument dérivé), des OPCVM et d’autres instruments financiers non complexes. Un marché d’un pays tiers est considéré comme équivalent à un marché réglementé s’il est conforme à des exigences équivalentes à celles établies au titre III. La Commission et l’AEMF publient sur leurs sites internet une liste des marchés en question qui sont considérés comme équivalents. Cette liste est mise à jour périodiquement. L’AEMF assiste la Commission dans l’évaluation des marchés de pays tiers.».
+
+8. À l’article 23, paragraphe 3, le premier alinéa est remplacé par le texte suivant:
+
+«3. Les États membres qui décident d’autoriser des entreprises d’investissement à faire appel à des agents liés établissent un registre public. Les agents liés sont inscrits au registre public de l’État membre dans lequel ils sont établis. L’AEMF publie sur son site internet les références ou liens hypertexte des registres publics établis au titre du présent article par les États membres qui décident d’autoriser des entreprises d’investissement à faire appel à des agents liés.».
+
+9. L’article 25 est modifié comme suit:
+
+a) le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Sans préjudice de la répartition des responsabilités afférentes au contrôle du respect des dispositions de la directive 2003/6/CE du Parlement européen et du Conseil du 28 janvier 2003 sur les opérations d’initiés et les manipulations de marché (abus de marché) (29), les États membres, coordonnés par l’AEMF au titre de l’article 31 du règlement (UE) no 1095/2010, veillent à ce que des mesures appropriées soient prises afin que les autorités compétentes puissent contrôler l’activité des entreprises d’investissement pour s’assurer qu’elles l’exercent d’une manière honnête, équitable et professionnelle qui favorise l’intégrité du marché.
+
+b) le paragraphe 2 est remplacé par le texte suivant:
+
+«2. Les États membres exigent des entreprises d’investissement qu’elles tiennent à la disposition des autorités compétentes, pour une durée minimale de cinq ans, les données pertinentes relatives à toutes les transactions sur instruments financiers qu’elles ont conclues, soit pour compte propre, soit au nom d’un client. Dans le cas des transactions conclues au nom d’un client, ces enregistrements contiennent tous les renseignements relatifs à l’identité de ce client ainsi que les informations requises en vertu de la directive 2005/60/CE.
+
+L’AEMF peut demander à avoir accès à ces informations conformément à la procédure et aux conditions fixées à l’article 35 du règlement (UE) no 1095/2010.».
+
+10. À l’article 27, le paragraphe 2 est remplacé par le texte suivant:
+
+«2. Pour chaque action, l’autorité compétente du marché le plus pertinent en termes de liquidité, visée à l’article 25, détermine, au moins annuellement, sur la base de la moyenne arithmétique de la valeur des ordres exécutés sur le marché concernant cette action, la catégorie d’actions à laquelle elle appartient. Cette information est mise à disposition de tous les participants au marché et transmise à l'AEMF, qui la publie sur son site internet.».
+
+11. L’article 31 est modifié comme suit:
+
+a) au paragraphe 2, le deuxième alinéa est remplacé par le texte suivant:
+
+«Si l’entreprise d’investissement entend recourir à des agents liés, l’autorité compétente de l’État membre d’origine de celle-ci communique, à la demande de l’autorité compétente de l’État membre d'accueil, et dans un délai raisonnable, l’identité des agents liés auxquels l’entreprise d’investissement entend recourir dans cet État membre. L’État membre d’accueil peut rendre ces informations publiques. L’AEMF peut demander à avoir accès à ces informations conformément à la procédure et aux conditions fixées à l’article 35 du règlement (UE) no 1095/2010.»;
+
+b) le paragraphe suivant est ajouté:
+
+«7. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF peut élaborer des projets de normes techniques de réglementation pour préciser les informations à notifier conformément aux paragraphes 2, 4 et 6.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés concernant la transmission des informations, conformément aux paragraphes 3, 4 et 6.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au troisième alinéa, conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+12. À l’article 32, le paragraphe suivant est ajouté:
+
+«10. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF peut élaborer des projets de normes techniques de réglementation pour préciser les informations à notifier conformément aux paragraphes 2, 4 et 9.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés concernant la transmission des informations conformément aux paragraphes 3 et 9.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au troisième alinéa, conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+13. À l’article 36, le paragraphe suivant est ajouté:
+
+«6. Tout retrait d’agrément est notifié à l'AEMF.».
+
+14. À l’article 41, le paragraphe 2 est remplacé par le texte suivant:
+
+«2. L’autorité compétente qui exige la suspension ou le retrait d’un instrument financier de la négociation sur un ou plusieurs marchés réglementés fait immédiatement connaître sa décision au public, à l’AEMF et aux autorités compétentes des autres États membres. À l’exception de situations dans lesquelles les intérêts des investisseurs ou le fonctionnement ordonné du marché pourraient être affectés d’une manière significative, les autorités compétentes des autres États membres exigent la suspension ou le retrait dudit instrument financier de la négociation sur les marchés réglementés et les MTF qui fonctionnent sous leur surveillance.».
+
+15. À l’article 42, paragraphe 6, le deuxième alinéa est remplacé par le texte suivant:
+
+«Le marché réglementé communique à l’autorité compétente de son État membre d’origine le nom de l’État membre dans lequel il compte prendre de telles dispositions. Dans le mois qui suit, l’autorité compétente de l’État membre d’origine communique cette information à l’État membre dans lequel le marché réglementé compte prendre de telles dispositions. L’AEMF peut demander à avoir accès à ces informations conformément à la procédure et aux conditions fixées à l’article 35 du règlement (UE) no 1095/2010.».
+
+16. L’article 47 est remplacé par le texte suivant:
+
+«Article 47
+
+Liste des marchés réglementés
+
+Chaque État membre établit une liste des marchés réglementés dont il est l’État membre d’origine et communique cette liste aux autres États membres et à l'AEMF. Chaque modification de cette liste donne lieu à une communication analogue. L’AEMF publie et tient à jour sur son site internet une liste de tous les marchés réglementés.».
+
+17. L’article 48 est modifié comme suit:
+
+a) le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Chaque État membre désigne les autorités compétentes qui sont chargées de remplir chacune des fonctions prévues par la présente directive. Les États membres communiquent à la Commission, à l’AEMF et aux autorités compétentes des autres États membres l’identité desdites autorités compétentes et les informent également de toute répartition des fonctions précitées.»;
+
+b) au paragraphe 2, le troisième alinéa est remplacé par le texte suivant:
+
+«Les États membres informent la Commission, l’AEMF et les autorités compétentes des autres États membres de tout accord conclu concernant la délégation de tâches, y compris des conditions précises régissant cette délégation.»;
+
+c) le paragraphe 3 est remplacé par le texte suivant:
+
+«3. L’AEMF publie et tient à jour sur son site internet une liste des autorités compétentes visées aux paragraphes 1 et 2.».
+
+18. À l’article 51, les paragraphes suivants sont ajoutés:
+
+«4. Les États membres fournissent chaque année à l’AEMF des informations globales sur l’ensemble des mesures administratives et des sanctions imposées en vertu des paragraphes 1 et 2.
+
+5. Lorsque l’autorité compétente rend publique une mesure administrative ou une sanction, elle en informe en même temps l’AEMF.
+
+6. Lorsqu’une sanction publiée concerne une entreprise d’investissement agréée conformément à la présente directive, l’AEMF ajoute une référence à ladite sanction dans le registre des entreprises d’investissement établi en vertu de l’article 5, paragraphe 3.».
+
+19. À l’article 53, le paragraphe suivant est ajouté:
+
+«3. Les autorités compétentes notifient à l’AEMF les procédures de plainte et de recours visées au paragraphe 1 qui sont disponibles sur leur territoire.
+
+L’AEMF publie et tient à jour sur son site internet une liste de tous les mécanismes extrajudiciaires.».
+
+20. Le titre du chapitre II est remplacé par le texte suivant:
+
+«Coopération entre les autorités compétentes des États membres et l’AEMF».
+
+21. L’article 56 est modifié comme suit:
+
+a) au paragraphe 1, le troisième alinéa est remplacé par le texte suivant:
+
+«Pour faciliter ou accélérer la coopération, et plus particulièrement l’échange d'informations, les États membres désignent une autorité compétente unique servant de point de contact aux fins de la présente directive. Les États membres communiquent à la Commission, à l’AEMF et aux autres États membres le nom des autorités chargées de recevoir des demandes d’échange d’informations ou de coopération en application du présent paragraphe. L’AEMF publie et tient à jour sur son site internet une liste desdites autorités.»;
+
+b) le paragraphe 4 est remplacé par le texte suivant:
+
+«4. Lorsqu’une autorité compétente a de bonnes raisons de soupçonner que des actes enfreignant les dispositions de la présente directive sont ou ont été commis sur le territoire d’un autre État membre par des entités qui ne sont pas soumises à sa surveillance, elle en informe l’autorité compétente de cet autre État membre et l’AEMF d’une manière aussi circonstanciée que possible. L’autorité compétente informée prend les mesures appropriées. Elle communique les résultats de son intervention à l’autorité compétente ainsi qu’à l’AEMF et, dans la mesure du possible, les éléments importants intervenus dans l'intervalle. Le présent paragraphe est sans préjudice des compétences de l’autorité compétente qui a transmis cette information.»;
+
+c) le paragraphe suivant est ajouté:
+
+«6. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés concernant les dispositifs de coopération visés au paragraphe 2.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+22. L’article 57 est modifié comme suit:
+
+a) le texte actuel devient le paragraphe 1;
+
+b) les paragraphes suivants sont ajoutés:
+
+«2. Dans le but de faire converger les pratiques de surveillance, l’AEMF a la possibilité de prendre part aux activités des collèges des autorités de surveillance, notamment aux vérifications ou enquêtes sur place qui sont menées conjointement par deux autorités compétentes ou plus, conformément à l’article 21 du règlement (UE) no 1095/2010.
+
+3. Afin d’assurer une harmonisation cohérente du paragraphe 1, l’AEMF peut élaborer des projets de normes techniques de réglementation pour définir les informations devant être échangées entre les autorités compétentes lorsqu’elles coopèrent dans le cadre d’activités de surveillance, de vérifications sur place et d’enquêtes.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+Afin d’assurer des conditions uniformes d’application du paragraphe 1, l’AEMF peut élaborer des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés pour que les autorités compétentes coopèrent aux activités de surveillance, aux vérifications sur place et aux enquêtes.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au troisième alinéa, conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+23. L’article 58 est modifié comme suit:
+
+a) le paragraphe 4 est remplacé par le texte suivant:
+
+«4. Afin d’assurer des conditions uniformes d’application des paragraphes 1 et 2, l’AEMF peut élaborer des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés concernant l’échange d’informations.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.»;
+
+b) le paragraphe 5 est remplacé par le texte suivant:
+
+«5. Ni le présent article ni les articles 54 ou 63 n’empêchent une autorité compétente de transmettre à l'AEMF, au Comité européen du risque systémique (ci-après dénommé “CERS”), aux banques centrales, au système européen de banques centrales et à la Banque centrale européenne agissant en qualité d’autorités monétaires et, le cas échéant, à d’autres autorités publiques chargées de la surveillance des systèmes de paiement et de règlement, des informations confidentielles destinées à l’exécution de leurs missions; de même, il n’est pas interdit à ces autorités ou organismes de communiquer aux autorités compétentes toute information dont elles pourraient avoir besoin aux fins d’exercer les fonctions prévues par la présente directive.».
+
+24. L’article suivant est inséré:
+
+«Article 58 bis
+
+Médiation contraignante
+
+Les autorités compétentes peuvent référer à l’AEMF les situations où une demande liée à une des deux situations suivantes a été rejetée ou n’a pas été suivie d’effet dans un délai raisonnable:
+
+a) des demandes d’activité de surveillance, de vérification sur place ou d’enquête telles que prévues à l’article 57; ou
+
+b) des demandes d’échange d’informations telles que prévues à l’article 58.
+
+Dans les situations visées au premier alinéa, l’AEMF peut agir conformément à l’article 19 du règlement (UE) no 1095/2010, sans préjudice de la possibilité de refuser de donner suite à une demande d’information conformément à l’article 59 *bis* ni de la possibilité, pour l'AEMF, de prendre, le cas échéant, des mesures conformément à l’article 17 du règlement (UE) no 1095/2010.».
+
+25. À l’article 59, le deuxième alinéa est remplacé par le texte suivant:
+
+«En cas de refus fondé sur ces motifs, l’autorité compétente notifie l’autorité compétente requérante et l'AEMF, de façon aussi circonstanciée que possible.».
+
+26. À l’article 60, le paragraphe suivant est ajouté:
+
+«4. Afin d’assurer des conditions uniformes d’application des paragraphes 1 et 2, l’AEMF peut élaborer des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés concernant la consultation des autres autorités compétentes avant l’octroi d’un agrément.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+27. L’article 62 est modifié comme suit:
+
+a) au paragraphe 1, le deuxième alinéa est remplacé par le texte suivant:
+
+«Si, en dépit des mesures prises par l’autorité compétente de l’État membre d’origine ou en raison du caractère inadéquat de ces mesures, l’entreprise d’investissement concernée continue d’agir d’une manière clairement préjudiciable aux intérêts des investisseurs de l’État membre d’accueil ou au fonctionnement ordonné des marchés, les mesures suivantes s’appliquent:
+
+a) après en avoir informé l’autorité compétente de l’État membre d’origine, l’autorité compétente de l’État membre d’accueil prend toutes les mesures appropriées requises pour protéger les investisseurs ou pour préserver le bon fonctionnement des marchés, ce qui inclut la possibilité d’empêcher les entreprises d’investissement en infraction d’effectuer de nouvelles opérations sur son territoire. La Commission et l’AEMF sont informées sans délai de l’adoption de ces mesures;
+
+b) en outre, l’autorité compétente de l’État membre d’accueil peut en référer à l'AEMF, qui peut agir dans le cadre des pouvoirs qui lui sont conférés par l’article 19 du règlement (UE) no 1095/2010.»;
+
+b) au paragraphe 2, le troisième alinéa est remplacé par le texte suivant:
+
+«Si, en dépit des mesures prises par l’État membre d’accueil, l’entreprise d’investissement persiste à enfreindre les dispositions législatives ou réglementaires visées au premier alinéa qui sont en vigueur dans cet État membre, les mesures suivantes s’appliquent:
+
+a) après en avoir informé les autorités compétentes de l’État membre d’origine, l’autorité compétente de l’État membre d’accueil prend toutes les mesures appropriées pour protéger les investisseurs ou pour préserver le bon fonctionnement des marchés. La Commission et l’AEMF sont informées sans délai de l’adoption de ces mesures;
+
+b) en outre, l’autorité compétente de l’État membre d’accueil peut en référer à l'AEMF, qui peut agir dans le cadre des pouvoirs qui lui sont conférés par l’article 19 du règlement (UE) no 1095/2010.»;
+
+c) au paragraphe 3, le deuxième alinéa est remplacé par le texte suivant:
+
+«Si, en dépit des mesures prises par l’autorité compétente de l’État membre d’origine ou en raison du caractère inadéquat de ces mesures, ledit marché réglementé ou MTF continue d’agir d’une manière clairement préjudiciable aux intérêts des investisseurs de l’État membre d’accueil ou au fonctionnement ordonné des marchés, les mesures suivantes s’appliquent:
+
+a) après en avoir informé l’autorité compétente de l’État membre d’origine, l’autorité compétente de l’État membre d’accueil, prend toutes les mesures appropriées requises pour protéger les investisseurs ou pour préserver le bon fonctionnement des marchés, ce qui inclut la possibilité d’empêcher ledit marché réglementé ou MTF de mettre leurs dispositifs à la disposition de membres à distance ou de participants établis dans l’État membre d’accueil. La Commission et l’AEMF sont informées sans délai de l’adoption de ces mesures;
+
+b) en outre, l’autorité compétente de l’État membre d’accueil peut en référer à l'AEMF, qui peut agir dans le cadre des attributions qui lui sont conférées par l’article 19 du règlement (UE) no 1095/2010.».
+
+28. L’article suivant est inséré:
+
+«Article 62 bis
+
+Coopération et échange d’informations avec l’AEMF
+
+1. Les autorités compétentes coopèrent avec l’AEMF aux fins de la présente directive, conformément au règlement (UE) no 1095/2010.
+
+2. Les autorités compétentes fournissent dans les plus brefs délais à l’AEMF toutes les informations nécessaires à l’accomplissement de sa mission au titre de la présente directive et conformément à l’article 35 du règlement (UE) no 1095/2010.».
+
+29. À l’article 63, le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Les États membres et l’AEMF, conformément à l’article 33 du règlement (UE) no 1095/2010, peuvent conclure des accords de coopération prévoyant l’échange d’informations avec les autorités compétentes de pays tiers pour autant que les informations communiquées bénéficient de garanties de secret professionnel au moins équivalentes à celles exigées en vertu de l’article 54. Cet échange d’informations doit être destiné à l’exécution des tâches desdites autorités compétentes.
+
+Les États membres et l’AEMF peuvent transférer des données à caractère personnel vers un pays tiers conformément au chapitre IV de la directive 95/46/CE.
+
+Les États membres et l’AEMF peuvent aussi conclure des accords de coopération prévoyant l’échange d’informations avec des autorités, organismes ou personnes physiques ou morales de pays tiers, en ce qui concerne un ou plusieurs points de la liste suivante:
+
+a) la surveillance des établissements de crédit, des autres établissements financiers et des entreprises d’assurance et des marchés financiers;
+
+b) les procédures de liquidation ou de faillite des entreprises d’investissement et toute autre procédure analogue;
+
+c) les procédures de contrôle légal des comptes des entreprises d’investissement et des autres établissements financiers, des établissements de crédit et des entreprises d’assurance, dans le cadre de l’exercice de leurs fonctions de surveillance, ou de l’exercice de leurs fonctions dans le cas des gestionnaires des systèmes d’indemnisation;
+
+d) la surveillance des organismes intervenant dans les procédures de liquidation ou de faillite des entreprises d’investissement, ou dans toute autre procédure analogue;
+
+e) la surveillance des personnes chargées du contrôle légal des comptes des entreprises d’assurance, des établissements de crédit, des entreprises d’investissement et des autres établissements financiers.
+
+Les accords de coopération visés au troisième alinéa ne peuvent être conclus que lorsque les informations communiquées bénéficient de garanties de secret professionnel au moins équivalentes à celles exigées en vertu de l’article 54. Cet échange d’informations est destiné à l’exécution des tâches desdites autorités, organismes ou personnes physiques ou morales.».
+
+30. L’article suivant est inséré:
+
+«Article 64 bis
+
+Clause de caducité
+
+Au plus tard le 1er décembre 2011, la Commission révise les articles 2, 4, 10 *ter*, 13, 15, 18, 19, 21, 22, 24 et 25, les articles 27 à 30, et les articles 40, 44, 45, 56 et 58 et présente toute proposition législative appropriée permettant la mise en place effective des actes délégués prévus à l’article 290 du traité sur le fonctionnement de l’Union européenne et actes d’exécution prévus à l’article 291 dudit traité en ce qui concerne la présente directive. Sans préjudice des mesures d’exécution déjà adoptées, les compétences conférées à la Commission à l’article 64 pour adopter des mesures d'exécution, qui subsistent encore après l’entrée en vigueur du traité de Lisbonne le 1er décembre 2009, deviennent inopérantes à compter du 1er décembre 2012.».
+
+<a id="art_7"></a>
+
+### Article 7 — Modifications de la directive 2004/109/CE
+
+La directive 2004/109/CE est modifiée comme suit:
+
+1. L’article 2, paragraphe 3, est modifié comme suit:
+
+a) le premier alinéa est remplacé par le texte suivant:
+
+«3. Afin de tenir compte de l’évolution technique des marchés financiers, de préciser les obligations prévues et d’assurer l’application uniforme du paragraphe 1, la Commission adopte, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*, des mesures concernant les définitions figurant au paragraphe 1.»;
+
+b) le troisième alinéa est remplacé par le texte suivant:
+
+«Les mesures visées au deuxième alinéa, points a) et b), sont adoptées par voie d’actes délégués en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*.».
+
+2. L’article 5, paragraphe 6 est modifié comme suit:
+
+a) le premier alinéa est remplacé par le texte suivant:
+
+«6. Afin de tenir compte de l’évolution technique des marchés financiers, de préciser les obligations prévues et d’assurer l’application uniforme des paragraphes 1 à 5 du présent article, la Commission adopte des mesures, en conformité avec l’article 27, paragraphe 2 ou avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater*.»;
+
+b) le troisième alinéa est remplacé par le texte suivant:
+
+«Les mesures visées au point a) sont adoptées en conformité avec la procédure de réglementation visée à l’article 27, paragraphe 2. Les mesures visées aux points b) et c) sont adoptées par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*.»;
+
+c) le quatrième alinéa est remplacé par le texte suivant:
+
+«Le cas échéant, la Commission peut également adapter la période de cinq ans visée au paragraphe 1 par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*.».
+
+3. L’article 9, paragraphe 7, est modifié comme suit:
+
+a) le premier alinéa est remplacé par le texte suivant:
+
+«7. Afin de tenir compte de l’évolution technique des marchés financiers et de préciser les obligations prévues aux paragraphes 2, 4 et 5, la Commission adopte des mesures, par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*.»;
+
+b) le deuxième alinéa est remplacé par le texte suivant:
+
+«La Commission précise, par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*, quelle est la durée maximale du “cycle de règlement à court terme” visé au paragraphe 4 du présent article, ainsi que les mécanismes appropriés de contrôle par l’autorité compétente de l’État membre d'origine.».
+
+4. L’article 12 est modifié comme suit:
+
+a) au paragraphe 8:
+
+i) la partie introductive du premier alinéa est remplacée par le texte suivant:
+
+«8. Afin de tenir compte de l’évolution technique des marchés financiers et de préciser les obligations prévues aux paragraphes 1, 2, 4, 5 et 6 du présent article, la Commission, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*, adopte des mesures:»;
+
+ii) le point a) est supprimé;
+
+iii) le deuxième alinéa est supprimé;
+
+b) le paragraphe suivant est ajouté:
+
+«9. Afin d’assurer des conditions uniformes d’application du présent article et de tenir compte de l’évolution technique des marchés financiers, l’Autorité européenne de surveillance (Autorité européenne des marchés financiers) (ci-après dénommée “AEMF”) instituée par le règlement (UE) no 1095/2010 du Parlement européen et du Conseil (30) peut élaborer des projets de normes techniques d’exécution visant à établir des formulaires, modèles et procédures normalisés à utiliser aux fins de la notification à l’émetteur des informations requises en vertu du paragraphe 1 du présent article ou aux fins du dépôt d’informations en vertu de l’article 19, paragraphe 3.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.
+
+5. L’article 13 est modifié comme suit:
+
+a) au paragraphe 2:
+
+i) le premier alinéa est remplacé par le texte suivant:
+
+«2. Afin de tenir compte de l’évolution technique des marchés financiers et de préciser les obligations prévues au paragraphe 1, la Commission adopte des mesures, par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*. Elle détermine en particulier:»;
+
+ii) le point c) est remplacé par le texte suivant:
+
+«c) le contenu de la notification à effectuer;»;
+
+iii) le deuxième alinéa est supprimé;
+
+b) le paragraphe suivant est ajouté:
+
+«3. Afin d’assurer des conditions uniformes d’application du paragraphe 1 du présent article et de tenir compte de l’évolution technique des marchés financiers, l’AEMF peut élaborer des projets de normes techniques d’exécution visant à établir des formulaires, modèles et procédures normalisés à utiliser aux fins de la notification à l’émetteur des informations requises en vertu du paragraphe 1 du présent article ou aux fins du dépôt d’informations en vertu de l’article 19, paragraphe 3.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+6. L’article 14, paragraphe 2, est remplacé par le texte suivant:
+
+«2. Afin de tenir compte de l’évolution technique des marchés financiers et de préciser les obligations prévues au paragraphe 1, la Commission adopte des mesures, par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*.».
+
+7. L’article 17, paragraphe 4 est remplacé par le texte suivant:
+
+«4. Afin de tenir compte de l’évolution technique des marchés financiers et des progrès des technologies de l’information et des communications et de préciser les exigences prévues aux paragraphes 1, 2 et 3, la Commission adopte des mesures, par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*. En particulier, la Commission précise les types d’établissements financiers auprès desquels un actionnaire peut exercer les droits financiers mentionnés au paragraphe 2, point c).».
+
+8. À l’article 18, le paragraphe 5 est remplacé par le texte suivant:
+
+«5. Afin de tenir compte de l’évolution technique des marchés financiers et des progrès des technologies de l’information et des communications et de préciser les exigences prévues aux paragraphes 1 à 4, la Commission adopte des mesures, par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*. En particulier, la Commission précise les types d’établissements financiers auprès desquels un détenteur de titres de créance peut exercer les droits financiers mentionnés au paragraphe 2, point c).».
+
+9. À l’article 19, le paragraphe 4 est remplacé par le texte suivant:
+
+«4. Afin de préciser les exigences prévues aux paragraphes 1, 2 et 3, la Commission adopte des mesures, par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater*, et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*.
+
+En particulier, la Commission fixe la procédure suivant laquelle un émetteur, un détenteur d’actions ou d’autres instruments financiers, ou une personne visée à l’article 10, doit déposer des informations auprès de l’autorité compétente de l’État membre d’origine en application du paragraphe 1 ou 3, respectivement, en vue de permettre un dépôt par voie électronique dans l’État membre d'origine.».
+
+10. À l’article 21, le paragraphe 4 est remplacé par le texte suivant:
+
+«4. Afin de tenir compte de l’évolution technique des marchés financiers et des progrès des technologies de l’information et des communications et de préciser les exigences établies aux paragraphes 1, 2 et 3, la Commission adopte des mesures, par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*.
+
+En particulier, la Commission fixe:
+
+a) des normes minimales pour la diffusion des informations réglementées visée au paragraphe 1;
+
+b) des normes minimales pour le mécanisme de stockage centralisé visé au paragraphe 2.
+
+La Commission peut aussi établir et mettre à jour une liste de médias pour la diffusion des informations auprès du public.».
+
+11. À l’article 22, le premier alinéa du paragraphe 1 est remplacé par le texte suivant:
+
+«1. L’AEMF fixe, conformément à l’article 16 du règlement (UE) no 1095/2010, des orientations visant à faciliter encore l’accès du public aux informations publiées en vertu de la directive 2003/6/CE, de la directive 2003/71/CE et de la présente directive.».
+
+12. L’article 23 est modifié comme suit:
+
+a) le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Lorsque le siège social d’un émetteur est situé dans un pays tiers, l’autorité compétente de l’État membre d’origine peut exempter cet émetteur des obligations énoncées aux articles 4 à 7, à l’article 12, paragraphe 6, et aux articles 14 à 18, à condition que la loi du pays tiers en question fixe des obligations équivalentes ou que cet émetteur satisfasse aux obligations de la loi d’un pays tiers que l’autorité compétente de l’État membre d’origine juge équivalentes.
+
+L’autorité compétente informe alors l’AEMF de la dérogation accordée.»;
+
+b) le paragraphe 4 est remplacé par le texte suivant:
+
+«4. Afin d’assurer des conditions uniformes d’application du paragraphe 1, la Commission adopte, conformément à la procédure visée à l’article 27, paragraphe 2, des mesures d’exécution:
+
+i) établissant un mécanisme qui garantit l’équivalence des informations exigées par la présente directive, y compris les états financiers et des informations, exigées par les dispositions législatives, réglementaires ou administratives d’un pays tiers;
+
+ii) indiquant que, en raison de ses dispositions législatives, réglementaires ou administratives nationales, ou bien de pratiques ou procédures fondées sur les normes édictées par des organisations internationales, le pays tiers dans lequel l’émetteur a son siège social assure l’équivalence des obligations d’information prévues par la présente directive.
+
+Dans le contexte du premier alinéa, point ii), la Commission adopte également, par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*, des mesures relatives à l’évaluation des normes se rapportant aux émetteurs de plus d’un pays.
+
+La Commission adopte, conformément à la procédure visée à l’article 27, paragraphe 2, les décisions nécessaires quant à l’équivalence des normes comptables appliquées par des émetteurs de pays tiers, dans les conditions prévues à l’article 30, paragraphe 3. Si la Commission décide que les normes comptables d’un pays tiers ne sont pas équivalentes, elle peut autoriser les émetteurs concernés à continuer d’appliquer lesdites normes pendant une période transitoire appropriée.
+
+Dans le contexte du troisième alinéa, la Commission adopte également, par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*, les mesures visant à établir des critères généraux d’équivalence relatifs aux normes se rapportant aux émetteurs de plus d’un pays.»;
+
+c) le paragraphe 5 est remplacé par le texte suivant:
+
+«5. Afin de préciser les exigences établies au paragraphe 2, la Commission peut adopter, par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*, des mesures définissant le type d’informations divulguées dans un pays tiers qui présentent de l’importance pour le public de l'Union.»;
+
+d) au paragraphe 7, le deuxième alinéa est remplacé par le texte suivant:
+
+«La Commission adopte également, par voie d’actes délégués, en conformité avec l’article 27, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 27 *bis* et 27 *ter*, des mesures visant à établir des critères généraux d’équivalence aux fins du premier alinéa.»;
+
+e) le paragraphe suivant est ajouté:
+
+«8. L’AEMF assiste la Commission dans l’accomplissement de la mission qui lui incombe en vertu du présent article, conformément à l’article 33 du règlement (UE) no 1095/2010.».
+
+13. L’article 24 est modifié comme suit:
+
+a) au paragraphe 1, le premier alinéa est remplacé par le texte suivant:
+
+«1. Chaque État membre désigne l’autorité centrale visée à l’article 21, paragraphe 1, de la directive 2003/71/CE, en tant qu’autorité administrative compétente centrale chargée de s’acquitter des obligations prévues dans la présente directive et de faire en sorte que les dispositions adoptées conformément à la présente directive soient appliquées. Les États membres en informent la Commission et l'AEMF.»;
+
+b) le paragraphe 3 est remplacé par le texte suivant:
+
+«3. Les États membres informent la Commission, l'AEMF, conformément à l’article 28, paragraphe 4, du règlement (UE) no 1095/2010, et les autorités compétentes des autres États membres de toute disposition prise concernant la délégation de tâches, y compris des conditions précises régissant ces délégations.».
+
+14. L’article 25 est modifié comme suit:
+
+a) les paragraphes suivants sont insérés:
+
+«2 *bis*. Les autorités compétentes peuvent référer à l’AEMF les situations où des demandes de coopération ont été rejetées ou n’ont pas été suivies d’effet dans un délai raisonnable. Sans préjudice de l’article 258 du traité sur le fonctionnement de l’Union européenne, l’AEMF peut, dans les situations visées à la première phrase, agir dans le cadre des pouvoirs qui lui sont conférés par l’article 19 du règlement (UE) no 1095/2010.
+
+2 *ter*. Les autorités compétentes coopèrent avec l’AEMF aux fins de la présente directive, conformément au règlement (UE) no 1095/2010.
+
+2 *quater*. Les autorités compétentes fournissent dans les plus brefs délais à l’AEMF toutes les informations nécessaires à l’accomplissement de sa mission au titre de la présente directive et du règlement (UE) no 1095/2010, conformément à l’article 35 dudit règlement.»;
+
+b) au paragraphe 3, la première phrase est remplacée par le texte suivant:
+
+«3. Le paragraphe 1 n’empêche pas les autorités compétentes d’échanger des informations confidentielles avec, ou de transmettre des informations à d’autres autorités compétentes, à l’AEMF et au Comité européen du risque systémique (CERS) institué par le règlement (UE) no 1092/2010 du Parlement européen et du Conseil du 24 novembre 2010 relatif à la surveillance macroprudentielle du système financier dans l’Union européenne et instituant un Comité européen du risque systémique (31).
+
+c) le paragraphe 4 est remplacé par le texte suivant:
+
+«4. Les États membres et l’AEMF peuvent, conformément à l’article 33 du règlement (UE) no 1095/2010, conclure des accords de coopération prévoyant l’échange d’informations avec les autorités ou organismes compétents de pays tiers habilités par leur propre législation à accomplir n’importe quelle tâche assignée par la présente directive conformément à l’article 24. Les États membres notifient l’AEMF lorsqu’ils concluent des accords de coopération. Cet échange d’informations est soumis à des garanties de secret professionnel au moins équivalentes à celles visées au présent article. Cet échange d’informations est destiné à l’exécution des missions de surveillance des autorités ou des organismes susmentionnés. Lorsqu’elles proviennent d’un autre État membre, les informations ne peuvent être divulguées sans l’accord exprès des autorités compétentes qui les ont communiquées et, le cas échéant, exclusivement aux fins pour lesquelles elles ont donné leur accord.».
+
+15. L’article 26 est remplacé par le texte suivant:
+
+«Article 26
+
+Mesures conservatoires
+
+1. Lorsque l’autorité compétente d’un État membre d’accueil constate qu’un émetteur ou un détenteur d’actions ou d’autres instruments financiers, ou la personne visée à l’article 10, a commis des irrégularités ou a enfreint ses obligations, elle fait part de ses constatations à l’autorité compétente de l’État membre d’origine et à l’AEMF.
+
+2. Si, en dépit des mesures prises par l’autorité compétente de l’État membre d’origine ou parce que ces mesures s’avèrent inadéquates, l’émetteur ou le détenteur de valeurs mobilières continue d’enfreindre les dispositions législatives ou réglementaires applicables, l’autorité compétente de l’État membre d'accueil, après en avoir informé l’autorité compétente de l’État membre d’origine, prend, conformément à l’article 3, paragraphe 2, toutes les mesures qui s’imposent pour protéger les investisseurs et en informe la Commission et l’AEMF dans les meilleurs délais.».
+
+16. Le titre du chapitre VI est remplacé par le titre suivant:
+
+«ACTES DÉLÉGUÉS ET MESURES D’EXÉCUTION».
+
+17. L’article 27 est modifié comme suit:
+
+a) le paragraphe 2 *bis* est remplacé par le texte suivant:
+
+«2 *bis*. Le pouvoir d’adopter les actes délégués visés à l’article 2, paragraphe 3, à l’article 5, paragraphe 6, à l’article 9, paragraphe 7, à l’article 12, paragraphe 8, à l’article 13, paragraphe 2, à l’article 14, paragraphe 2, à l’article 17, paragraphe 4, à l’article 18, paragraphe 5, à l’article 19, paragraphe 4, à l’article 21, paragraphe 4, et à l’article 23, paragraphes 4, 5 et 7, est conféré à la Commission pour une période de quatre ans à compter du 4 janvier 2011. La Commission présente un rapport relatif aux pouvoirs délégués au plus tard six mois avant la fin de la période de quatre ans. La délégation de pouvoir est automatiquement renouvelée pour des périodes d’une durée identique, sauf si le Parlement européen ou le Conseil la révoque conformément à l’article 27 *bis*.»;
+
+b) les paragraphes suivants sont insérés:
+
+«2 *ter*. Aussitôt qu’elle adopte un acte délégué, la Commission le notifie simultanément au Parlement européen et au Conseil.
+
+2 *quater*. Le pouvoir d’adopter des actes délégués conféré à la Commission est soumis aux conditions fixées par les articles 27 *bis* et 27 *ter*.».
+
+18. Les articles suivants sont insérés:
+
+«Article 27 bis
+
+Révocation de la délégation
+
+1. La délégation de pouvoir visée à l’article 2, paragraphe 3, à l’article 5, paragraphe 6, à l’article 9, paragraphe 7, à l’article 12, paragraphe 8, à l’article 13, paragraphe 2, à l’article 14, paragraphe 2, à l’article 17, paragraphe 4, à l’article 18, paragraphe 5, à l’article 19, paragraphe 4, à l’article 21, paragraphe 4, à l’article 23, paragraphes 4, 5 et 7 peut être révoquée à tout moment par le Parlement européen ou le Conseil.
+
+2. L’institution qui a entamé une procédure interne afin de décider si elle entend révoquer la délégation de pouvoir s’efforce d’informer l’autre institution et la Commission dans un délai raisonnable avant de prendre une décision finale, en indiquant les pouvoirs délégués qui pourraient faire l’objet d’une révocation.
+
+3. La décision de révocation met un terme à la délégation des pouvoirs spécifiés dans ladite décision. Elle prend effet immédiatement ou à une date ultérieure qu’elle précise. Elle n’affecte pas la validité des actes délégués déjà en vigueur. Elle est publiée au *Journal officiel de l’Union européenne*.
+
+Article 27 ter
+
+Objections aux actes délégués
+
+1. Le Parlement européen ou le Conseil peuvent formuler des objections à l’égard de l’acte délégué dans un délai de trois mois à compter de la date de notification. Sur l’initiative du Parlement européen ou du Conseil, ce délai est prolongé de trois mois.
+
+2. Si, à l’expiration du délai visé au paragraphe 1, ni le Parlement européen ni le Conseil n’ont formulé d’objections à l’égard de l’acte délégué, celui-ci est publié au *Journal officiel de l’Union européenne* et entre en vigueur à la date qu’il indique.
+
+L’acte délégué peut être publié au *Journal officiel de l’Union européenne* et entrer en vigueur avant l’expiration de ce délai si le Parlement européen et le Conseil ont tous les deux informé la Commission de leur intention de ne pas formuler d’objections.
+
+3. Si le Parlement européen ou le Conseil formulent des objections à l’égard d’un acte délégué dans le délai visé au paragraphe 1, celui-ci n’entre pas en vigueur. Conformément à l’article 296 du traité sur le fonctionnement de l’Union européenne, l’institution qui formule des objections à l’encontre d’un acte délégué en expose les motifs.».
+
+<a id="art_8"></a>
+
+### Article 8 — Modifications de la directive 2005/60/CE
+
+La directive 2005/60/CE est modifiée comme suit:
+
+1. À l’article 11, le paragraphe 4 est remplacé par le texte suivant:
+
+«4. Les États membres s’informent mutuellement, informent l’Autorité européenne de surveillance (Autorité bancaire européenne) (ci-après dénommée “ABE”), instituée par le règlement (UE) no 1093/2010 du Parlement européen et du Conseil instituant une Autorité européenne de surveillance (Autorité bancaire européenne) (32), l’Autorité européenne de surveillance (Autorité européenne des assurances et des pensions professionnelles) (ci-après dénommée “AEAPP”), instituée par le règlement (UE) no 1094/2010 du Parlement européen et du Conseil instituant une Autorité européenne de surveillance (Autorité européenne des assurances et des pensions professionnelles) (33) et l’Autorité européenne de surveillance (Autorité européenne des marchés financiers) (ci-après dénommée “AEMF”), instituée par le règlement (UE) no 1095/2010 du Parlement européen et du Conseil instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers) (34) (ci-après dénommées collectivement, “les AES”), dans la mesure où cela s’avère pertinent aux fins de la présente directive et dans le respect des dispositions pertinentes du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010, et informent la Commission des cas où ils estiment qu’un pays tiers remplit les conditions fixées aux paragraphes 1 et 2 ou dans d’autres situations qui satisfont aux critères techniques établis conformément à l’article 40, paragraphe 1, point b).
+
+2. À l’article 16, le paragraphe 2 est remplacé par le texte suivant:
+
+«2. Les États membres s’informent mutuellement, informent les AES, dans la mesure où cela s’avère pertinent aux fins de la présente directive et dans le respect des dispositions pertinentes du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010, et informent la Commission des cas où ils estiment qu’un pays tiers remplit les conditions fixées au paragraphe 1, point b).».
+
+3. À l’article 28, le paragraphe 7 est remplacé par le texte suivant:
+
+«7. Les États membres s’informent mutuellement, informent les AES, dans la mesure où cela s’avère pertinent aux fins de la présente directive et dans le respect des dispositions pertinentes du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010, et informent la Commission des cas où ils estiment qu’un pays tiers remplit les conditions fixées aux paragraphes 3, 4 ou 5.».
+
+4. L’article 31 est modifié comme suit:
+
+a) le paragraphe 2 est remplacé par le texte suivant:
+
+«2. Les États membres, les AES, dans la mesure où cela s’avère pertinent aux fins de la présente directive et dans le respect des dispositions pertinentes du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010, et la Commission s’informent mutuellement des cas où la législation d’un pays tiers ne permet pas d’appliquer les mesures requises conformément au paragraphe 1, premier alinéa, et une action coordonnée peut être entreprise pour rechercher une solution.»;
+
+b) le paragraphe suivant est ajouté:
+
+«4. Afin d’assurer une harmonisation cohérente du présent article et de tenir compte de l’évolution technique dans le domaine de la lutte contre le blanchiment de capitaux et le financement du terrorisme, les AES, compte tenu du cadre existant et, le cas échéant, en coopération avec d’autres organes de l’Union compétents dans ce domaine, peuvent élaborer, conformément aux articles 56 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement, des projets de normes techniques de réglementation pour préciser le type de mesures supplémentaires visées au paragraphe 3 du présent article et les actions minimales à entreprendre par les établissements de crédit et les établissements financiers si la législation du pays tiers ne permet pas d’appliquer les mesures requises conformément au paragraphe 1, premier alinéa, du présent article.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1093/2010.».
+
+5. À l’article 34, le paragraphe suivant est ajouté:
+
+«3. Afin d’assurer une harmonisation cohérente et de tenir compte de l’évolution technique dans le domaine de la lutte contre le blanchiment de capitaux et le financement du terrorisme, les AES, compte tenu du cadre existant et, le cas échéant, en coopération avec d’autres organes de l’Union compétents dans ce domaine, peuvent élaborer, conformément à l’article 56 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement, des projets de normes techniques de réglementation visant à préciser le contenu minimal de la communication visée au paragraphe 2.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1093/2010.».
+
+6. L’article suivant est inséré:
+
+«Article 37 bis
+
+1. Les autorités compétentes coopèrent avec les AES aux fins de la présente directive, conformément au règlement (UE) no 1093/2010, au règlement (UE) no 1094/2010 et au règlement (UE) no 1095/2010, respectivement.
+
+2. Les autorités compétentes fournissent aux AES toutes les informations nécessaires pour exercer leurs fonctions aux fins de la présente directive, et conformément au règlement (UE) no 1093/2010, au règlement (UE) no 1094/2010 et au règlement (UE) no 1095/2010, respectivement.».
+
+7. Le titre du chapitre VI est remplacé par le texte suivant:
+
+«ACTES DÉLÉGUÉS ET MESURES D’EXÉCUTION».
+
+8. L’article 40 est modifié comme suit:
+
+a) au paragraphe 1:
+
+i) au premier alinéa, la partie introductive est remplacée par le texte suivant:
+
+«1. Pour tenir compte de l’évolution technique dans le domaine de la lutte contre le blanchiment de capitaux et le financement du terrorisme et préciser les exigences énoncées dans la présente directive, la Commission peut adopter les mesures suivantes:»;
+
+ii) le deuxième alinéa est remplacé par le texte suivant:
+
+«Les mesures sont adoptées par voie d’actes délégués en conformité avec l’article 41, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 41 *bis* et 41 *ter*.»;
+
+b) au paragraphe 3, le deuxième alinéa est remplacé par le texte suivant:
+
+«Les mesures sont adoptées par voie d’actes délégués en conformité avec l’article 41, paragraphes 2 *bis*, 2 *ter* et 2 *quater* et dans le respect des conditions fixées par les articles 41 *bis* et 41 *ter*.».
+
+9. L’article 41 est modifié comme suit:
+
+a) au paragraphe 2, le premier alinéa est remplacé par le texte suivant:
+
+«2. Dans le cas où il est fait référence au présent paragraphe, les articles 5 et 7 de la décision 1999/468/CE s'appliquent, dans le respect de l’article 8 de celle-ci, et pour autant que les mesures adoptées selon ladite procédure ne modifient pas les dispositions essentielles de la présente directive.»;
+
+b) le paragraphe 2 *bis* est remplacé par le texte suivant:
+
+«2 *bis*. Le pouvoir d’adopter les actes délégués visés à l’article 40 est conféré à la Commission pour une période de quatre ans à compter du 4 janvier 2011. La Commission présente un rapport relatif aux pouvoirs délégués au plus tard six mois avant la fin de la période de quatre ans. La délégation de pouvoir est automatiquement renouvelée pour des périodes d’une durée identique, sauf si le Parlement européen ou le Conseil la révoque conformément à l’article 41 *bis*.»;
+
+c) les paragraphes suivants sont insérés:
+
+«2 *ter*. Aussitôt qu’elle adopte un acte délégué, la Commission le notifie simultanément au Parlement européen et au Conseil.
+
+2 *quater*. Le pouvoir d’adopter des actes délégués conféré à la Commission est soumis aux conditions fixées par les articles 41 *bis* et 41 *ter*.»;
+
+d) le paragraphe 3 est supprimé.
+
+10. Les articles suivants sont insérés:
+
+«Article 41 bis
+
+Révocation de délégation
+
+1. La délégation de pouvoir visée à l’article 40 peut être révoquée à tout moment par le Parlement européen ou le Conseil.
+
+2. L’institution qui a entamé une procédure interne afin de décider si elle entend révoquer la délégation de pouvoir s’efforce d’informer l’autre institution et la Commission, dans un délai raisonnable avant de prendre une décision finale, en indiquant les pouvoirs délégués qui pourraient faire l’objet d’une révocation.
+
+3. La décision de révocation met un terme à la délégation des pouvoirs spécifiés dans ladite décision. Elle prend effet immédiatement ou à une date ultérieure qu’elle précise. Elle n’affecte pas la validité des actes délégués déjà en vigueur. Elle est publiée au *Journal officiel de l’Union européenne*.
+
+Article 41 ter
+
+Objections aux actes délégués
+
+1. Le Parlement européen ou le Conseil peuvent formuler des objections à l’égard de l’acte délégué dans un délai de trois mois à compter de la date de notification. Sur l’initiative du Parlement européen ou du Conseil, ce délai est prolongé de trois mois.
+
+2. Si, à l’expiration du délai visé au paragraphe 1, ni le Parlement européen ni le Conseil n’ont formulé d’objections à l’égard de l’acte délégué, celui-ci est publié au *Journal officiel de l’Union européenne* et entre en vigueur à la date qu’il indique.
+
+L’acte délégué peut être publié au *Journal officiel de l’Union européenne* et entrer en vigueur avant l’expiration de ce délai si le Parlement européen et le Conseil ont tous les deux informé la Commission de leur intention de ne pas formuler d’objections.
+
+3. Si le Parlement européen ou le Conseil formulent des objections à l’égard d’un acte délégué dans le délai visé au paragraphe 1, celui-ci n’entre pas en vigueur. Conformément à l’article 296 du traité sur le fonctionnement de l’Union européenne, l’institution qui formule des objections à l’égard de l’acte délégué en expose les motifs.».
+
+<a id="art_9"></a>
+
+### Article 9 — Modifications de la directive 2006/48/CE
+
+La directive 2006/48/CE est modifiée comme suit:
+
+1. L’article 6 est modifié comme suit:
+
+a) le paragraphe existant est remplacé par le texte suivant:
+
+«1. Les États membres exigent que les établissements de crédit obtiennent un agrément avant de commencer leurs activités. Sans préjudice des articles 7 à 12, ils en fixent les conditions, et les notifient à la Commission et à l’Autorité européenne de surveillance (Autorité bancaire européenne) instituée par le règlement (UE) no 1093/2010 du Parlement européen et du Conseil (35) (ci-après dénommée “ABE”).
+
+b) les paragraphes suivants sont ajoutés:
+
+«2. Afin d’assurer une harmonisation cohérente du présent article, l’ABE peut élaborer des projets de normes techniques de réglementation:
+
+a) sur les informations à communiquer aux autorités compétentes dans la demande d’agrément des établissements de crédit, y compris le programme d’activités prévu à l’article 7;
+
+b) précisant les conditions applicables pour se conformer à l’exigence énoncée à l’article 8;
+
+c) précisant les exigences applicables aux actionnaires et associés qui détiennent une participation qualifiée, ainsi que les obstacles qui pourraient entraver le bon exercice de la mission de surveillance de l’autorité compétente comme le prévoit l’article 12.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées aux points a), b) et c) du premier alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.
+
+3. Afin d’assurer des conditions uniformes d’application du présent article, l’ABE peut élaborer des projets de normes techniques d’exécution sur les formulaires, modèles et procédures normalisés à utiliser pour la fourniture de ces informations.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1093/2010.».
+
+2. À l’article 9, paragraphe 2, le point b) est remplacé par le texte suivant:
+
+«b) les États membres intéressés notifient à la Commission et à l’ABE les raisons pour lesquelles ils font usage de cette faculté; et».
+
+3. L’article 14 est remplacé par le texte suivant:
+
+«Article 14
+
+Tout agrément est notifié à l’ABE.
+
+Le nom de tout établissement de crédit auquel l’agrément a été accordé est inscrit sur une liste. L’ABE publie et tient à jour cette liste sur son site internet.».
+
+4. À l’article 17, le paragraphe 2 est remplacé par le texte suivant:
+
+«2. Le retrait d’agrément est notifié à la Commission et à l’ABE et est motivé. Cette motivation est notifiée aux personnes intéressées.».
+
+5. À l’article 19, le paragraphe suivant est ajouté:
+
+«9. Afin d’assurer une harmonisation cohérente du présent article, l’ABE peut élaborer des projets de normes techniques de réglementation régissant l’établissement de la liste exhaustive des informations telles que visée à l’article 19 *bis*, paragraphe 4, que les candidats acquéreurs doivent mentionner dans leur notification, sans préjudice de l’article 19 *bis*, paragraphe 3.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1093/2010.
+
+Pour assurer des conditions uniformes d’application de la présente directive, l’ABE peut élaborer des projets de normes techniques d’exécution régissant l’établissement des procédures, formulaires et modèles normalisés communs à utiliser pour le processus de consultation entre les autorités compétentes concernées, visé à l’article 19 *ter*.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au troisième alinéa, conformément à l’article 15 du règlement (UE) no 1093/2010.».
+
+6. À l'article 22, le paragraphe suivant est ajouté:
+
+«6. Afin de préciser** ◄ ** les exigences énoncées au présent article et d’assurer la convergence des pratiques de surveillance, l’ABE peut élaborer des projets de normes techniques de réglementation pour déterminer le dispositif, les procédures et les mécanismes visés au paragraphe 1, conformément aux principes de proportionnalité et d’exhaustivité prévus au paragraphe 2.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.».
+
+7. À l’article 25, le paragraphe suivant est ajouté:
+
+«5. Afin d’assurer une harmonisation cohérente du présent article, l’ABE élabore des projets de normes techniques de réglementation pour préciser les informations à notifier conformément au présent article.
+
+Afin d’assurer des conditions uniformes d’application du présent article, l’ABE élabore des projets de normes techniques d’exécution pour établir des formulaires, des modèles et des procédures normalisés pour cette notification.
+
+L’ABE soumet ces projets de normes techniques à la Commission au plus tard le 1er janvier 2014.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.
+
+La Commission a également compétence pour adopter les normes techniques d’exécution visées au deuxième alinéa conformément à l’article 15 du règlement (UE) no 1093/2010.».
+
+8. À l’article 26, le paragraphe suivant est ajouté:
+
+«5. Afin d’assurer une harmonisation cohérente du présent article, l’ABE élabore des projets de normes techniques de réglementation pour préciser les informations à notifier conformément au présent article.
+
+Afin d’assurer des conditions uniformes d’application du présent article, l’ABE élabore des projets de normes techniques d’exécution pour établir des formulaires, des modèles et des procédures normalisés pour cette notification.
+
+L’ABE soumet ces projets de normes techniques à la Commission au plus tard le 1er janvier 2014.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.
+
+La Commission a également compétence pour adopter les normes techniques d’exécution visées au deuxième alinéa conformément à l’article 15 du règlement (UE) no 1093/2010.».
+
+9. À l’article 28, le paragraphe suivant est ajouté:
+
+«4. Afin d’assurer une harmonisation cohérente du présent article, l’ABE élabore des projets de normes techniques de réglementation pour préciser les informations à notifier conformément au présent article.
+
+Afin d’assurer des conditions uniformes d’application du présent article, l’ABE élabore des projets de normes techniques d’exécution pour établir des formulaires, des modèles et des procédures normalisés pour cette notification.
+
+L’ABE soumet ces projets de normes techniques à la Commission au plus tard le 1er janvier 2014.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1093/2010.
+
+La Commission a également compétence pour adopter les normes techniques d’exécution visées au deuxième alinéa conformément à l’article 15 du règlement (UE) no 1093/2010.».
+
+10. À l’article 33, le premier alinéa est remplacé par le texte suivant:
+
+«Avant de suivre la procédure prévue à l’article 30, les autorités compétentes de l’État membre d’accueil peuvent, en cas d'urgence, prendre les mesures conservatoires indispensables à la protection des intérêts des déposants, investisseurs ou autres personnes à qui des services sont fournis. La Commission, l’ABE et les autorités compétentes des autres États membres intéressés sont informées de ces mesures dans les plus brefs délais.».
+
+11. L’article 36 est remplacé par le texte suivant:
+
+«Article 36
+
+Les États membres communiquent à la Commission et à l’ABE le nombre et la nature des cas dans lesquels il y a eu refus, conformément à l’article 25 et à l’article 26, paragraphes 1, 2 et 3, ou dans lesquels des mesures ont été prises, conformément à l’article 30, paragraphe 3.».
+
+12. À l’article 38, le paragraphe 2 est remplacé par le texte suivant:
+
+«2. Les autorités compétentes notifient à la Commission, à l’ABE et au Comité bancaire européen tous les agréments de succursales accordés aux établissements de crédit ayant leur siège dans un pays tiers.».
+
+13. L’article 39 est modifié comme suit:
+
+a) au paragraphe 2, le point suivant est ajouté:
+
+«c) pour l'ABE, d’obtenir des autorités compétentes des États membres, les informations reçues d’autorités nationales de pays tiers conformément à l’article 35 du règlement (UE) no 1093/2010.»;
+
+b) le paragraphe suivant est ajouté:
+
+«4. L’ABE assiste la Commission aux fins du présent article, conformément à l’article 33 du règlement (UE) no 1093/2010.».
+
+14. À l’article 42, les alinéas suivants sont ajoutés:
+
+«Les autorités compétentes peuvent référer à l’ABE les situations où des demandes de coopération, en particulier d’échange d’informations, ont été rejetées ou n’ont pas été suivies d’effet dans un délai raisonnable. Sans préjudice des dispositions de l’article 258 du traité sur le fonctionnement de l’Union européenne, dans les situations visées à la première phrase, l’ABE peut agir dans le cadre des pouvoirs qui lui sont conférés par l’article 19 du règlement (UE) no 1093/2010.
+
+Afin d’assurer une harmonisation cohérente du présent article, l’ABE élabore des projets de normes techniques de réglementation visant à préciser les informations contenues dans le présent article.
+
+Afin d’assurer des conditions uniformes d’application du présent article, l’ABE élabore des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés pour les exigences d’échange d’informations susceptibles de faciliter le contrôle des établissements de crédit.
+
+L’ABE soumet ces projets de normes techniques à la Commission au plus tard le 1er janvier 2014.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au troisième alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.
+
+La Commission a également compétence pour adopter les normes techniques d’exécution visées au quatrième alinéa conformément à l’article 15 du règlement (UE) no 1093/2010.».
+
+15. L’article 42 *bis* est modifié comme suit:
+
+a) au paragraphe 1, l’alinéa suivant est inséré après le quatrième alinéa:
+
+«Si, au terme du délai initial de deux mois, l’une des autorités compétentes concernées a saisi l’ABE conformément à l’article 19 du règlement (UE) no 1093/2010, les autorités compétentes de l’État membre d’accueil défèrent leur décision et attendent la décision que l’ABE peut arrêter conformément à l’article 19, paragraphe 3, dudit règlement. Les autorités compétentes de l’État membre d’accueil prennent leur décision conformément à la décision de l'ABE. Le délai de deux mois s’entend du délai de conciliation au sens dudit règlement. L’ABE arrête sa décision dans un délai d’un mois. L’ABE n’est pas saisie au-delà du délai initial de deux mois ou après qu’une décision commune a été prise.»;
+
+b) au paragraphe 3, les alinéas suivants sont ajoutés:
+
+«Afin d’assurer une harmonisation cohérente du présent article, l’ABE peut élaborer des projets de normes techniques de réglementation visant à spécifier les conditions générales pour le fonctionnement des collèges des autorités de surveillance.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au quatrième alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.
+
+Afin d’assurer des conditions uniformes d’application du présent article, l’ABE élabore des projets de normes techniques d’exécution visant à déterminer le fonctionnement opérationnel des collèges des autorités de surveillance.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au sixième alinéa conformément à l’article 15 du règlement (UE) no 1093/2010.».
+
+16. L’article 42 *ter* est modifié comme suit:
+
+a) le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Dans l’exercice de leurs fonctions, les autorités compétentes tiennent compte de la convergence, en matière d’outils de surveillance et de pratiques de surveillance, dans l’application des dispositions législatives, réglementaires et administratives adoptées conformément à la présente directive. À ces fins, les États membres veillent à ce que:
+
+a) les autorités compétentes participent aux activités de l’ABE,
+
+b) les autorités compétentes suivent les orientations et recommandations de l’ABE et, si elles ne le font pas, en indiquent les raisons,
+
+c) les mandats nationaux conférés aux autorités compétentes n’entravent pas l’exercice des fonctions qui leur incombent en tant que membres de l’ABE ou en vertu de la présente directive.»;
+
+b) le paragraphe 2 est supprimé.
+
+17. À l’article 44, le paragraphe 2 est remplacé par le texte suivant:
+
+«2. Le paragraphe 1 ne fait pas obstacle à ce que les autorités compétentes des différents États membres procèdent aux échanges d’informations ou à la transmission d’informations à l’ABE prévus par la présente directive, par d’autres directives applicables aux établissements de crédit et par les articles 31 et 35 du règlement (UE) no 1093/2010. Ces informations sont soumises aux conditions liées au secret professionnel visé au paragraphe 1.».
+
+18. L’article 46 est remplacé par le texte suivant:
+
+«Article 46
+
+Conformément à l’article 33 du règlement (UE) no 1093/2010, les États membres et l’ABE peuvent conclure avec les autorités compétentes de pays tiers ou avec les autorités ou organes de ces pays tels que définis à l’article 47 et à l’article 48, paragraphe 1, de la présente directive, des accords de coopération qui prévoient des échanges d’informations, pour autant que les informations divulguées bénéficient de garanties de secret professionnel au moins équivalentes à celles qui sont visées à l’article 44, paragraphe 1, de la présente directive. Cet échange d’informations est destiné à l’accomplissement de la mission de surveillance des autorités ou organes mentionnés.
+
+Lorsque les informations proviennent d’un autre État membre, elles ne sont divulguées qu’avec l’accord exprès des autorités compétentes qui ont divulgué lesdites informations et, le cas échéant, exclusivement aux fins pour lesquelles ces dernières autorités ont marqué leur accord.».
+
+19. L’article 49 est modifié comme suit:
+
+a) le premier alinéa est remplacé par le texte suivant:
+
+«La présente section ne fait pas obstacle à ce qu’une autorité compétente transmette aux entités suivantes des informations destinées à l’accomplissement de leur mission:
+
+a) les banques centrales du système européen de banques centrales et autres organismes à vocation similaire en tant qu’autorités monétaires lorsque ces informations sont pertinentes pour l’exercice de leurs missions légales respectives, notamment la conduite de la politique monétaire et la fourniture de liquidités y afférente, la surveillance des systèmes de paiement, de compensation et de règlement, ainsi que la sauvegarde de la stabilité du système financier;
+
+b) le cas échéant, d’autres autorités publiques chargées de la surveillance des systèmes de paiement;
+
+c) le Comité européen du risque systémique (ci-après dénommé “CERS”) lorsque ces informations sont pertinentes pour l’exercice de ses missions légales en vertu du règlement (UE) no 1092/2010 du Parlement européen et du Conseil relatif à la surveillance macroprudentielle du système financier dans l’Union européenne et instituant un Comité européen du risque systémique (36).
+
+La présente section ne fait pas obstacle à ce que les autorités ou organes visés au premier alinéa communiquent aux autorités compétentes les informations qui leur sont nécessaires aux fins de l’article 45.
+
+b) le quatrième alinéa est remplacé par le texte suivant:
+
+«En cas de situation d’urgence visée à l’article 130, paragraphe 1, les États membres autorisent les autorités compétentes à transmettre sans attendre des informations aux banques centrales du système européen des banques centrales lorsque ces informations sont pertinentes pour l’exercice de leurs missions légales, notamment la conduite de la politique monétaire et la fourniture de liquidités y afférente, la surveillance des systèmes de paiement, de compensation et de règlement des opérations sur titres, ainsi que la sauvegarde de la stabilité du système financier, et au CERS au titre du règlement (UE) no 1092/2010 lorsque ces informations sont pertinentes pour l’exercice de ses missions légales.».
+
+20. L’article 63 *bis* est modifié comme suit:
+
+a) le paragraphe 4 est remplacé par le texte suivant:
+
+«4. Les dispositions régissant l’instrument prévoient la capacité du principal, des intérêts non versés ou du dividende à absorber des pertes et à ne pas faire obstacle à la recapitalisation de l’établissement de crédit au moyen de mécanismes appropriés, élaborés par l’ABE en application du paragraphe 6.»;
+
+b) le paragraphe 6 est remplacé par le texte suivant:
+
+«6. Afin d’assurer une harmonisation cohérente et la convergence des pratiques en matière de surveillance, l’ABE élabore des projets de normes techniques de réglementation pour préciser les exigences applicables aux instruments visés au paragraphe 1 du présent article. L’ABE soumet ces projets de normes techniques de réglementation à la Commission au plus tard le 1er janvier 2014. Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.
+
+L’ABE émet également des orientations en ce qui concerne les instruments visés à l’article 57, premier alinéa, point a).
+
+L’ABE surveille l’application de ces orientations.».
+
+21. À l’article 74, paragraphe 2, le deuxième alinéa est remplacé par le texte suivant:
+
+«Afin d’assurer des conditions uniformes d’application de la présente directive, pour la communication de ces calculs par les établissements de crédit, les autorités compétentes appliquent, à partir du 31 décembre 2012, des formats, des fréquences et des dates de notification uniformes. Afin d’assurer des conditions uniformes d’application de la présente directive, l’ABE élabore des projets de normes techniques d’exécution visant à instaurer, dans l’Union européenne, des formats (avec les spécifications correspondantes), des fréquences et des dates de notification uniformes avant le 1er janvier 2012. Les formats de notification sont adaptés à la nature, à l’échelle et à la complexité des activités des établissements de crédit.
+
+Afin d’assurer des conditions uniformes d’application de la présente directive, l’ABE élabore également des projets de normes techniques d’exécution concernant les solutions informatiques à appliquer pour la notification.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées aux deuxième et troisième alinéas, conformément à l’article 15 du règlement (UE) no 1093/2010.».
+
+22. À l’article 81, paragraphe 2, les alinéas suivants sont ajoutés:
+
+«Afin d’assurer une harmonisation cohérente du présent article, l’ABE élabore, en consultation avec l’Autorité européenne de surveillance (Autorité européenne des marchés financiers) (ci-après dénommée “AEMF”) instituée par le règlement (UE) no 1095/2010 du Parlement européen et du Conseil (37), des projets de normes techniques de réglementation visant à préciser la méthode d’évaluation en ce qui concerne les évaluations du crédit. L’ABE soumet ces projets de normes techniques de réglementation à la Commission au plus tard le 1er janvier 2014.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au second alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.
+
+23. À l’article 84, paragraphe 2, les alinéas suivants sont ajoutés:
+
+«Afin d’assurer une harmonisation cohérente du présent article, l’ABE peut élaborer des projets de normes techniques de réglementation visant à préciser la méthode d’évaluation en vertu de laquelle les autorités compétentes autorisent les établissements de crédit à utiliser l’approche NI.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au point a) du premier alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.».
+
+24. À l’article 97, paragraphe 2, les alinéas suivants sont ajoutés:
+
+«Afin d’assurer une harmonisation cohérente du présent article, l’ABE élabore, en consultation avec l’AEMF, des projets de normes techniques de réglementation visant à préciser la méthode d’évaluation en ce qui concerne les évaluations du crédit. L’ABE soumet ces projets de normes techniques de réglementation à la Commission au plus tard le 1er janvier 2014.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au deuxième alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.».
+
+25. À l’article 105, paragraphe 1, les alinéas suivants sont ajoutés:
+
+«Afin d’assurer une harmonisation cohérente du présent article, l’ABE peut élaborer des projets de normes techniques de réglementation pour préciser la méthode d’évaluation en vertu de laquelle les autorités compétentes autorisent les établissements de crédit à utiliser des approches par mesure avancée.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au deuxième alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.».
+
+26. À l’article 106, paragraphe 2, le deuxième alinéa est remplacé par le texte suivant:
+
+«Afin d’assurer une harmonisation cohérente du présent article, l’ABE élabore des projets de normes techniques de réglementation pour préciser les exclusions prévues aux points c) et d) ainsi que les conditions permettant de déterminer l’existence d’un groupe de clients liés, conformément au paragraphe 3. L’ABE soumet ces projets de normes techniques de réglementation à la Commission au plus tard le 1er janvier 2014.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au deuxième alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.».
+
+27. À l’article 110, le paragraphe 2 est remplacé par le texte suivant:
+
+«2. Les États membres prévoient que cette notification a lieu au moins deux fois par an. Les autorités compétentes appliquent, à compter du 31 décembre 2012, des formats, des fréquences et des dates de notification uniformes. Afin d’assurer des conditions uniformes d’application de la présente directive, l’ABE élabore des projets de normes techniques d’exécution visant à instaurer, dans l’Union, des formats (avec les spécifications correspondantes), des fréquences et des dates de notification uniformes avant le 1er janvier 2012. Les formats de notification sont adaptés à la nature, à l’échelle et à la complexité des activités des établissements de crédit.
+
+Afin d’assurer des conditions uniformes d’application de la présente directive, l’ABE élabore également des projets de normes techniques d’exécution concernant les solutions informatiques à appliquer pour la notification.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées aux premier et deuxième alinéas, conformément à la procédure énoncée à l’article 15 du règlement (UE) no 1093/2010.».
+
+28. À l’article 111, paragraphe 1, le quatrième alinéa est remplacé par le texte suivant:
+
+«Les États membres peuvent fixer une limite inférieure à 150 000 000 EUR et en informent l’ABE et la Commission.».
+
+29. À l’article 122 *bis*, le paragraphe 10 est remplacé par le texte suivant:
+
+«10. L’ABE rend compte chaque année à la Commission du respect du présent article par les autorités compétentes.
+
+Afin d’assurer une harmonisation cohérente du présent article, l’ABE élabore des projets de normes techniques de réglementation en vue de la convergence des pratiques de surveillance en rapport avec le présent article, y compris les mesures prises en cas de non-respect des obligations en matière de diligence appropriée et de gestion des risques. L’ABE soumet ces projets de normes techniques de réglementation à la Commission au plus tard le 1er janvier 2014.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au deuxième alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.».
+
+30. À l’article 124, le paragraphe suivant est ajouté:
+
+«6. Afin d’assurer une harmonisation cohérente du présent article, l’ABE peut élaborer des projets de normes techniques de réglementation visant à préciser le présent article ainsi qu’une procédure et une méthode communes d’évaluation des risques.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.».
+
+31. À l’article 126, le paragraphe 4 est remplacé par le texte suivant:
+
+«4. Les autorités compétentes notifient à la Commission et à l’ABE tout accord relevant du paragraphe 3.».
+
+32. L’article 129 est modifié comme suit:
+
+a) au paragraphe 1, l’alinéa suivant est inséré après le premier alinéa:
+
+«Lorsque le superviseur sur base consolidée n’accomplit pas les tâches visées au premier alinéa ou que les autorités compétentes ne coopèrent pas avec le superviseur sur base consolidée dans la mesure voulue dans l’accomplissement des tâches visées au premier alinéa, toute autorité compétente concernée peut en référer à l'ABE, qui peut agir conformément à l’article 19 du règlement no 1093/2010.»;
+
+b) au paragraphe 2, le texte suivant est ajouté au cinquième alinéa:
+
+«Si, au terme du délai de six mois, l’une des autorités compétentes concernées a saisi l’ABE conformément à l’article 19 du règlement (UE) no 1093/2010, le superviseur sur base consolidée défère sa décision et attend une décision que peut arrêter l’ABE conformément à l’article 19, paragraphe 3, dudit règlement sur sa décision et rend une décision conforme à la décision de l'ABE. Le délai de six mois s’entend du délai de conciliation au sens dudit règlement. L’ABE arrête sa décision dans un délai d’un mois. Elle n’est pas saisie au-delà du délai de six mois ou après qu’une décision commune a été prise.»;
+
+c) au paragraphe 2, les alinéas suivants sont ajoutés:
+
+«L’ABE peut élaborer des projets de normes techniques d’exécution afin d’assurer des conditions uniformes d’application du processus de décision commune visé au présent paragraphe, en ce qui concerne les demandes d’autorisation visées à l’article 84, paragraphe 1, à l’article 87, paragraphe 9, à l’article 105 et à l’annexe III, partie 6, dans le but de faciliter les décisions communes.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées aux sixième et septième alinéas, conformément à la procédure énoncée à l’article 15 du règlement (UE) no 1093/2010.»;
+
+d) le paragraphe 3 est modifié comme suit:
+
+i) au troisième alinéa, l’expression «le comité européen des contrôleurs bancaires» est remplacée par «l'ABE»;
+
+ii) le quatrième alinéa est remplacé par le texte suivant:
+
+«En l’absence d’une telle décision commune des autorités compétentes dans un délai de quatre mois, une décision sur l’application des articles 123 et 124 et de l’article 136, paragraphe 2, est prise, sur une base consolidée, par le superviseur sur base consolidée après un examen approprié de l’évaluation des risques des filiales réalisée par les autorités compétentes concernées. Si, au terme du délai de quatre mois, l’une des autorités compétentes concernées a saisi l’ABE conformément à l’article 19 du règlement (UE) no 1093/2010, le superviseur sur base consolidée reporte sa décision et attend toute décision que l’ABE peut arrêter conformément à l’article 19, paragraphe 3, dudit règlement, et rend sa décision finale en conformité avec la décision de l'ABE. Le délai de quatre mois s’entend du délai de conciliation au sens dudit règlement. L’ABE arrête sa décision dans un délai d’un mois. L’ABE n’est pas saisie au-delà du délai de quatre mois ou après qu’une décision commune a été prise.»;
+
+iii) le cinquième alinéa est remplacé par le texte suivant:
+
+«La décision sur l’application des articles 123 et 124 et de l’article 136, paragraphe 2, est prise par les autorités compétentes respectives chargées de la surveillance des filiales d’un établissement de crédit mère dans l’Union ou d’une compagnie financière holding mère dans l'Union, sur une base individuelle ou sous-consolidée, après un examen approprié des avis et des réserves exprimés par le superviseur sur base consolidée. Si, au terme du délai de quatre mois, l’une des autorités compétentes concernées a saisi l’ABE conformément à l’article 19 du règlement (UE) no 1093/2010, les autorités compétentes reportent leur décision et attendent toute décision que l’ABE arrête conformément à l’article 19, paragraphe 3, dudit règlement, et rendent leur décision en conformité avec la décision de l’ABE. Le délai de quatre mois s’entend du délai de conciliation au sens dudit règlement. L’ABE arrête sa décision dans un délai d’un mois. L’ABE n’est pas saisie au-delà du délai de quatre mois ou après qu’une décision commune a été prise.»;
+
+iv) le septième alinéa est remplacé par le texte suivant:
+
+«Toutes les autorités compétentes tiennent compte de l’avis de l’ABE lorsque celle-ci a été consultée et elles expliquent, le cas échéant, les raisons pour lesquelles elles s’en écartent sensiblement.»;
+
+v) le dixième alinéa est remplacé par le texte suivant:
+
+«L’ABE peut élaborer des projets de normes techniques d’exécution afin d’assurer des conditions uniformes d’application du processus de décision commune visé au présent paragraphe, en ce qui concerne l’application des articles 123 et 124 et de l’article 136, paragraphe 2, dans le but de faciliter les décisions communes.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au dixième alinéa, conformément à la procédure énoncée à l’article 15 du règlement (UE) no 1093/2010.».
+
+33. À l’article 130, paragraphe 1, les premier et deuxième alinéas sont remplacés par le texte suivant:
+
+«1. Lorsque survient une situation d’urgence, notamment une situation telle que décrite à l’article 18 du règlement (UE) no 1093/2010, ou une situation d’évolution défavorable des marchés, susceptible de menacer la liquidité du marché et la stabilité du système financier dans un des États membres dans lequel des entités d’un groupe ont été agréées ou dans lequel sont établies des succursales importantes telles que visées à l’article 42 *bis*, le superviseur sur une base consolidée alerte dès que possible, sous réserve du chapitre 1, section 2, l’ABE, le CERS et les autorités visées à l’article 49, quatrième alinéa, et à l’article 50, et il communique toutes les informations essentielles à la poursuite de leur mission. Ces obligations s’appliquent à toutes les autorités compétentes visées aux articles 125 et 126 ainsi qu’à l’autorité compétente déterminée conformément à l’article 129, paragraphe 1.
+
+Si l’autorité visée à l’article 49, quatrième alinéa, a connaissance d’une situation décrite au premier alinéa, elle alerte dès que possible les autorités compétentes visées aux articles 125 et 126, ainsi que l'ABE.».
+
+34. À l’article 131, le troisième alinéa est remplacé par le texte suivant:
+
+«Les autorités compétentes responsables de l’agrément de la filiale d’une entreprise mère qui est un établissement de crédit peuvent déléguer leur responsabilité de surveillance, par voie d’accord bilatéral, conformément à l’article 28 du règlement (UE) no 1093/2010, aux autorités compétentes qui ont agréé et supervisent l’entreprise mère, afin que celles-ci se chargent de la surveillance de la filiale conformément aux dispositions de la présente directive. L’ABE est tenue informée de l’existence et de la teneur de tels accords. Elle transmet cette information aux autorités compétentes des autres États membres et au comité bancaire européen.».
+
+35. L’article 131 *bis* est modifié comme suit:
+
+a) le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Le superviseur sur base consolidée établit des collèges des autorités de surveillance en vue de faciliter l’accomplissement des missions visées à l’article 129 et à l’article 130, paragraphe 1, et garantit, sous réserve de l’obligation de confidentialité visée au paragraphe 2 du présent article et de la compatibilité nécessaire avec la législation de l’Union, la coordination et la coopération adéquates avec les autorités compétentes des pays tiers concernés, s’il y a lieu.
+
+L’ABE contribue à promouvoir et contrôler le fonctionnement effectif, efficace et cohérent des collèges des autorités de surveillance visés au présent article conformément à l’article 21 du règlement (UE) no 1093/2010. À cette fin, l’ABE participe selon qu’elle le juge nécessaire et est considérée comme une autorité compétente dans ce cadre.
+
+Les collèges des autorités de surveillance fournissent un cadre permettant au superviseur sur base consolidée, à l’ABE et aux autres autorités compétentes concernées d’accomplir les tâches suivantes:
+
+a) échanger des informations entre eux, et avec l’ABE, conformément à l’article 21 du règlement (UE) no 1093/2010;
+
+b) convenir de confier des tâches et de déléguer des compétences, à titre volontaire, le cas échéant;
+
+c) définir des programmes de contrôle prudentiel sur la base d’une évaluation du risque du groupe conformément à l’article 124;
+
+d) renforcer l’efficacité de la surveillance en évitant la duplication inutile des exigences prudentielles, notamment en ce qui concerne les demandes d’informations visées à l’article 130, paragraphe 2, et à l’article 132, paragraphe 2;
+
+e) appliquer les exigences prudentielles prévues par la présente directive de manière cohérente dans l’ensemble des entités au sein d’un groupe bancaire sans préjudice des options et facultés prévues par la législation de l’Union;
+
+f) appliquer les dispositions de l’article 129, paragraphe 1, point c), en tenant compte des travaux d’autres enceintes susceptibles d’être établies dans ce domaine.
+
+Les autorités compétentes qui participent au collège des autorités de surveillance et l’ABE collaborent étroitement. Les exigences de confidentialité prévues au chapitre 1, section 2, n’empêchent pas les autorités compétentes d’échanger des informations confidentielles au sein des collèges des autorités de surveillance. L’établissement et les activités des collèges des autorités de surveillance n’affectent pas les droits et responsabilités des autorités compétentes au titre de la présente directive.»;
+
+b) au paragraphe 2:
+
+i) le deuxième alinéa est remplacé par le texte suivant:
+
+«Afin d’assurer une harmonisation cohérente du présent article, l’ABE peut élaborer des projets de normes techniques de réglementation visant à préciser les conditions générales du fonctionnement des collèges des autorités de surveillance.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au deuxième alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.
+
+Afin d’assurer des conditions uniformes d’application du présent article, l’ABE peut élaborer des projets de normes techniques d’exécution visant à déterminer le fonctionnement opérationnel des collèges des autorités de surveillance.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au quatrième alinéa conformément à la procédure énoncée à l’article 15 du règlement (UE) no 1093/2010.»;
+
+ii) le sixième alinéa est remplacé par le texte suivant:
+
+«Sous réserve des exigences de confidentialité prévues au chapitre 1, section 2, le superviseur sur base consolidée informe l’ABE des activités du collège des autorités de surveillance, y compris dans les situations d'urgence, et lui communique toutes les informations particulièrement pertinentes aux fins de la convergence en matière de surveillance.».
+
+36. L’article 132, paragraphe 1, est modifié comme suit:
+
+a) les alinéas suivants sont insérés après le premier alinéa:
+
+«Les autorités compétentes coopèrent avec l’ABE aux fins de la présente directive, conformément au règlement (UE) no 1093/2010.
+
+Les autorités compétentes fournissent à l’ABE toutes les informations nécessaires à l’accomplissement de ses missions au titre de la présente directive et du règlement (UE) no 1093/2010, conformément à l’article 35 dudit règlement.»;
+
+b) les alinéas suivants sont ajoutés:
+
+«Les autorités compétentes peuvent référer à l’ABE les situations dans lesquelles:
+
+a) une autorité compétente n’a pas communiqué des informations essentielles; ou
+
+b) des demandes de coopération, en particulier d’échange d’informations, ont été rejetées ou n’ont pas été suivies d’effet dans un délai raisonnable.
+
+Sans préjudice de l’article 258 du traité sur le fonctionnement de l’Union européenne, l’ABE peut, dans les situations visées au septième alinéa, agir dans le cadre des pouvoirs qui lui sont conférés par l’article 19 du règlement (UE) no 1093/2010.».
+
+37. À l’article 140, le paragraphe 3 est remplacé par le texte suivant:
+
+«3. Les autorités compétentes chargées d’exercer la surveillance sur une base consolidée établissent une liste des compagnies financières holdings visées à l’article 71, paragraphe 2. Cette liste est communiquée aux autorités compétentes des autres États membres, à l’ABE et à la Commission.».
+
+38. L’article 143 est modifié comme suit:
+
+a) le paragraphe 2 est modifié comme suit:
+
+i) la phrase suivante est ajoutée à la fin du premier alinéa:
+
+«L’ABE assiste la Commission et le comité bancaire européen aux fins de l’exécution de ces tâches, y compris en ce qui concerne l’actualisation éventuelle desdites orientations.»;
+
+ii) le deuxième alinéa est remplacé par le texte suivant:
+
+«L’autorité compétente qui effectue la vérification visée au paragraphe 1, premier alinéa, tient compte de toute orientation de cette nature. À cette fin, l’autorité compétente consulte également l’ABE avant de prendre une décision.»;
+
+b) au paragraphe 3, le quatrième alinéa est remplacé par le texte suivant:
+
+«Les techniques de surveillance sont conçues pour atteindre les objectifs de la surveillance consolidée définis dans le présent chapitre et sont notifiées aux autres autorités compétentes concernées, à l’ABE et à la Commission.».
+
+39. À l’article 144, les alinéas suivants sont ajoutés:
+
+«Afin d’assurer des conditions uniformes d’application du présent article, l’ABE élabore des projets de normes techniques d’exécution visant à déterminer le format, la structure, le contenu et la date de publication annuelle des communications prévues au présent article. L’ABE soumet ces projets de normes techniques d’exécution à la Commission au plus tard le 1er janvier 2014.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au troisième alinéa conformément à l’article 15 du règlement (UE) no 1093/2010.».
+
+40. À l’article 150, le paragraphe suivant est ajouté:
+
+«3. L’ABE élabore des projets de normes techniques d’exécution afin d’assurer des conditions uniformes d’application de la présente directive en ce qui concerne les conditions d’application:
+
+a) des points 15 à 17 de l’annexe V;
+
+b) du point 23 (l) de l’annexe V en ce qui concerne les critères permettant de déterminer les rapports appropriés entre les composantes fixe et variable de la rémunération totale et du point 23 (o)(ii) de l’annexe V visant à préciser les catégories d’instruments qui satisfont aux conditions énoncées audit point;
+
+c) de l’annexe VI, partie 2, en ce qui concerne les facteurs quantitatifs visés au point 12, les facteurs qualitatifs visés au point 13 et le taux de référence visé au point 14.
+
+L’ABE soumet ces projets de normes techniques d’exécution à la Commission au plus tard le 1er janvier 2014.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à la procédure énoncée à l’article 15 du règlement (UE) no 1093/2010.».
+
+41. L’article 156 est modifié comme suit:
+
+a) les termes «le comité européen des contrôleurs bancaires» sont remplacés par «l'ABE»;
+
+b) le premier alinéa est remplacé par le texte suivant:
+
+«En coopération avec l’ABE et les États membres, et tenant compte de la contribution de la Banque centrale européenne, la Commission contrôle régulièrement si la présente directive a, avec la directive 2006/49/CE, des effets importants sur le cycle économique et, à la lumière de ce contrôle, examine si d’éventuelles mesures correctives se justifient.».
+
+<a id="art_10"></a>
+
+### Article 10 — Modifications de la directive 2006/49/CE
+
+La directive 2006/49/CE est modifiée comme suit:
+
+1. À l’article 18, le paragraphe suivant est ajouté:
+
+«5. L’Autorité européenne de surveillance (l'Autorité bancaire européenne) (ci-après dénommée “ABE”) instituée par le règlement (UE) no 1093/2010 du Parlement européen et du Conseil (38) peut élaborer des projets de normes techniques de réglementation visant à préciser la méthode d’évaluation en vertu de laquelle les autorités compétentes autorisent les établissements à utiliser des modèles internes aux fins du calcul des exigences de fonds propres en vertu de la présente directive.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010.
+
+2. À l’article 22, paragraphe 1, l’alinéa suivant est ajouté:
+
+«Lorsque les autorités compétentes exemptent de l’application des exigences de fonds propres sur une base consolidée conformément au présent article, elles le notifient à la Commission et à l'ABE.».
+
+3. L’article 32, paragraphe 1, est modifié comme suit:
+
+a) le deuxième alinéa est remplacé par le texte suivant:
+
+«Les autorités compétentes notifient ces procédures à l'ABE, au Conseil et à la Commission.»;
+
+b) l’alinéa suivant est ajouté:
+
+«L’ABE émet également des orientations en ce qui concerne les procédures visées au présent paragraphe.».
+
+4. À l’article 36, le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Les États membres désignent les autorités qui sont compétentes pour exercer les fonctions prévues par la présente directive. Ils en informent l’ABE et la Commission, en indiquant toute répartition éventuelle de ces fonctions.».
+
+5. À l’article 38, paragraphe 1, les alinéas suivants sont ajoutés:
+
+«Les autorités compétentes coopèrent avec l’ABE aux fins de la présente directive, conformément au règlement (UE) no 1093/2010.
+
+Les autorités compétentes fournissent dans les plus brefs délais à l’ABE toutes les informations nécessaires à l’accomplissement de leurs missions au titre de la présente directive et du règlement (UE) no 1093/2010, conformément à l’article 35 dudit règlement.».
+
+<a id="art_11"></a>
+
+### Article 11 — Modifications de la directive 2009/65/CE
+
+La directive 2009/65/CE est modifiée comme suit:
+
+1. À l’article 5, le paragraphe suivant est ajouté:
+
+«8. Afin d’assurer une harmonisation cohérente du présent article, l’Autorité européenne de surveillance (Autorité européenne des marchés financiers) (ci-après dénommée “AEMF”) instituée par le règlement (UE) no 1095/2010 du Parlement européen et du Conseil (39) peut élaborer des projets de normes techniques de réglementation visant à préciser les informations à fournir aux autorités compétentes dans la demande d’agrément d’un OPCVM.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+2. À l’article 6, paragraphe 1, l’alinéa suivant est ajouté:
+
+«Tout agrément délivré est notifié à l'AEMF, qui publie et tient à jour sur son site internet la liste des sociétés de gestion agréées.».
+
+3. À l’article 7, le paragraphe suivant est ajouté:
+
+«6. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF peut élaborer des projets de normes techniques de réglementation visant à préciser:
+
+a) les informations à fournir aux autorités compétentes lors de la demande d’agrément de la société de gestion, y compris le programme d’activité;
+
+b) les exigences applicables à la société de gestion conformément au paragraphe 2, et les informations concernant les notifications prévues au paragraphe 3;
+
+c) les exigences applicables aux actionnaires et associés qui détiennent une participation qualifiée, ainsi que les obstacles qui pourraient empêcher l’autorité compétente d’exercer effectivement ses fonctions de surveillance comme le prévoient l’article 8, paragraphe 1, de la présente directive et l’article 10, paragraphes 1 et 2, de la directive 2004/39/CE, conformément à l’article 11 de la présente directive.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution pour définir des formulaires, modèles et procédures normalisés concernant la notification ou la fourniture d’informations visés aux points a) et b) du premier alinéa.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au troisième alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+4. À l’article 9, le paragraphe 2, est remplacé par le texte suivant:
+
+«2. Les États membres informent l’AEMF et la Commission de toute difficulté d’ordre général que rencontrent les OPCVM pour commercialiser leurs parts dans un pays tiers.
+
+La Commission examine ces difficultés le plus rapidement possible afin de trouver une solution adéquate. L’AEMF l’aide à s’acquitter de cette tâche.».
+
+5. À l’article 11, le paragraphe suivant est ajouté:
+
+«3. Afin d’assurer une harmonisation cohérente de la présente directive, l’AEMF peut élaborer des projets de normes techniques de réglementation pour établir une liste exhaustive des informations, comme le prévoit le présent article, en référence à l’article 10 *ter*, paragraphe 4, de la directive 2004/39/CE, liste qui doit être incluse par les candidats acquéreurs dans leur notification, sans préjudice de l’article 10 *bis*, paragraphe 2, de ladite directive.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés concernant les modalités du processus de consultation entre les autorités compétentes concernées, comme le prévoit le présent article en ce qui concerne l’article 10, paragraphe 4, de la directive 2004/39/CE.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au troisième alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+6. L’article 12 est modifié comme suit:
+
+a) le paragraphe 3 est modifié comme suit:
+
+i) le premier alinéa est remplacé par le texte suivant:
+
+«3. Sans préjudice de l’article 116, la Commission adopte, par voie d’actes délégués en conformité avec l’article 112, paragraphes 2, 3 et 4 et dans le respect des conditions fixées par les articles 112 *bis* et 112 *ter*, des mesures précisant les procédures et les dispositifs visés au paragraphe 1, deuxième alinéa, point a), ainsi que les structures et les conditions d’organisation destinées à restreindre au minimum les conflits d'intérêts, visées au paragraphe 1, deuxième alinéa, point b).»;
+
+ii) le deuxième alinéa est supprimé;
+
+b) le paragraphe suivant est ajouté:
+
+«4. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution visant à déterminer les conditions d’application des actes délégués adoptés par la Commission en ce qui concerne les procédures, les dispositifs, les structures et les conditions d’organisation visés au paragraphe 3.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+7. L’article 14 est modifié comme suit:
+
+a) le paragraphe 2 est modifié comme suit:
+
+i) au premier alinéa, la partie introductive est remplacée par le texte suivant:
+
+«2. Sans préjudice de l’article 116, la Commission adopte, par voie d’actes délégués en conformité avec l’article 112, paragraphes 2, 3 et 4 et dans le respect des conditions fixées par les articles 112 *bis* et 112 *ter*, des mesures en vue de garantir que la société de gestion remplit les obligations énoncées au paragraphe 1, en particulier en vue de:»;
+
+ii) le deuxième alinéa est supprimé;
+
+b) le paragraphe suivant est ajouté:
+
+«3. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution visant à déterminer les actes délégués adoptés par la Commission en ce qui concerne les critères, les principes et les mesures visés au paragraphe 2.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+8. À l’article 17, le paragraphe suivant est ajouté:
+
+«10. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF peut élaborer des projets de normes techniques de réglementation visant à définir les informations qui doivent être notifiées conformément aux paragraphes 1, 2, 3, 8 et 9.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés concernant la transmission d’informations, conformément aux paragraphes 3 et 9.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au troisième alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+9. À l’article 18, le paragraphe suivant est ajouté:
+
+«5. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF peut élaborer des projets de normes techniques de réglementation visant à définir les informations qui doivent être notifiées conformément aux paragraphes 1, 2 et 4.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés concernant la transmission d’informations, conformément aux paragraphes 2 et 4.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au troisième alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+10. À l’article 20, le paragraphe suivant est ajouté:
+
+«5. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF peut élaborer des projets de normes techniques de réglementation visant à déterminer les informations à fournir aux autorités compétentes lors de la demande de gestion d’un OPCVM établi dans un autre État membre.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés concernant ladite fourniture d’informations.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au troisième alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+11. L’article 21 est modifié comme suit:
+
+a) le paragraphe 5 est remplacé par le texte suivant:
+
+«5. Si, en dépit des mesures prises par les autorités compétentes de l’État membre d’origine de la société de gestion ou parce que ces mesures se révèlent inadéquates ou font défaut dans cet État membre, la société de gestion continue de refuser de fournir les informations demandées par l’État membre d’accueil de la société de gestion conformément au paragraphe 2 ou persiste à enfreindre les dispositions législatives ou réglementaires visées dans ce même paragraphe, qui sont en vigueur dans son État membre d’accueil, les autorités compétentes de l’État membre d’accueil de la société de gestion peuvent:
+
+a) après en avoir informé les autorités compétentes de l’État membre d’origine de la société de gestion, prendre les mesures appropriées, y compris au titre des articles 98 et 99, pour prévenir ou sanctionner de nouvelles irrégularités et, au besoin, empêcher cette société de gestion d’effectuer de nouvelles opérations sur son territoire. Les États membres veillent à ce que, sur leur territoire, les actes nécessaires pour de telles mesures puissent être signifiés aux sociétés de gestion. Lorsque le service fourni dans l’État membre d’accueil de la société de gestion est la gestion d’un OPCVM, cet État membre peut exiger de ladite société qu’elle cesse de gérer cet OPCVM; ou
+
+b) si elles estiment que l’état membre d’origine de la société de gestion n’a pas agi de manière adéquate, en référer à l’AEMF qui peut agir dans le cadre des pouvoirs qui lui sont conférés par l’article 19 du règlement (UE) no 1095/2010.»;
+
+b) au paragraphe 7, les premier et deuxième alinéas sont remplacés par le texte suivant:
+
+«7. Avant d’appliquer la procédure prévue au paragraphe 3, 4 ou 5, les autorités compétentes de l’État membre d’accueil d’une société de gestion peuvent, en cas d’urgence, prendre toute mesure de précaution nécessaire pour protéger les intérêts des investisseurs et des autres personnes auxquelles des services sont fournis. La Commission, l’AEMF et les autorités compétentes des autres États membres concernés sont informées de ces mesures dans les plus brefs délais.
+
+La Commission peut, après avoir consulté les autorités compétentes des États membres concernés, décider que l’État membre en cause doit modifier ou abroger ces mesures, sans préjudice des pouvoirs conférés à l’AEMF par l’article 17 du règlement (UE) no 1095/2010.»;
+
+c) au paragraphe 9, le premier alinéa est remplacé par le texte suivant:
+
+«9. Les États membres communiquent à l’AEMF et à la Commission le nombre et la nature des cas dans lesquels ils ont opposé un refus d’agrément au titre de l’article 17 ou rejeté une demande au titre de l’article 20 ou dans lesquels des mesures ont été prises conformément au paragraphe 5 du présent article.».
+
+12. À l’article 23, le paragraphe 6 est modifié comme suit:
+
+a) le premier alinéa est remplacé par le texte suivant:
+
+«6. La Commission peut adopter, par voie d’actes délégués, en conformité avec l’article 112, paragraphes 2, 3 et 4 et dans le respect des conditions fixées par les articles 112 *bis* et 112 *ter*, des mesures concernant les mesures à prendre par un dépositaire afin de remplir ses fonctions à l’égard d’un OPCVM géré par une société de gestion établie dans un autre État membre, y compris les éléments devant figurer dans l’accord type utilisé par le dépositaire et la société de gestion conformément au paragraphe 5.»;
+
+b) le deuxième alinéa est supprimé.
+
+13. À l’article 29, les paragraphes suivants sont ajoutés:
+
+«5. Afin d’assurer une harmonisation cohérente de la présente directive, l’AEMF peut élaborer des projets de normes techniques de réglementation visant à préciser:
+
+a) les informations à fournir aux autorités compétentes lors de la demande d’agrément de la société d’investissement, y compris le programme d’activité; et
+
+b) les obstacles qui pourraient entraver le bon exercice de la mission de surveillance de l’autorité compétente comme le prévoit le paragraphe 1, point c).
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.
+
+6. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution pour établir des formulaires, modèles et procédures normalisés concernant la fourniture des informations visées au paragraphe 5, premier alinéa, point a).
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+14. À l’article 32, le paragraphe 6, est remplacé par le texte suivant:
+
+«6. Les États membres communiquent à l’AEMF et à la Commission l’identité des sociétés d’investissement qui bénéficient des dérogations prévues aux paragraphes 4 et 5.».
+
+15. À l’article 33, le paragraphe 6 est modifié comme suit:
+
+a) le premier alinéa est remplacé par le texte suivant:
+
+«6. La Commission peut adopter, par voie d’actes délégués, en conformité avec l’article 112, paragraphes 2, 3, et 4 et dans le respect des conditions fixées par les articles 112 *bis* et 112 *ter*, des mesures concernant les mesures à prendre par un dépositaire afin de remplir ses fonctions à l’égard d’un OPCVM géré par une société de gestion établie dans un autre État membre, y compris les éléments devant figurer dans l’accord type utilisé par le dépositaire et la société de gestion conformément au paragraphe 5.»;
+
+b) le deuxième alinéa est supprimé.
+
+16. L’article 43 est modifié comme suit:
+
+a) le paragraphe 5 est modifié comme suit:
+
+i) le premier alinéa est remplacé par le texte suivant:
+
+«5. La Commission peut adopter, par voie d’actes délégués, en conformité avec l’article 112, paragraphes 2, 3 et 4 et dans le respect des conditions fixées par les articles 112 *bis* et 112 *ter*, des mesures d’exécution précisant le contenu détaillé, la forme et le mode de fourniture des informations visées aux paragraphes 1 et 3.»;
+
+ii) le deuxième alinéa est supprimé;
+
+b) le paragraphe suivant est ajouté:
+
+«6. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution visant à déterminer les conditions d’application des actes délégués adoptés par la Commission en ce qui concerne le contenu, le format et le mode de fourniture des informations visées aux paragraphes 1 et 3 du présent article.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+17. À l’article 50, le paragraphe suivant est ajouté:
+
+«4. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF peut élaborer des projets de normes techniques de réglementation visant à préciser les dispositions relatives aux catégories d’actifs dans lesquels l’OPCVM peut investir conformément au présent article et aux actes délégués adoptés par la Commission en rapport avec lesdites dispositions.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.».
+
+18. L’article 51 est modifié comme suit:
+
+a) au paragraphe 1, l’alinéa suivant est ajouté:
+
+«Les autorités compétentes veillent à ce que, pour toutes les sociétés de gestion ou d’investissement dont elles assurent la surveillance, toutes les informations obtenues en vertu du troisième paragraphe soient accessibles sous une forme consolidée à l’AEMF conformément à l’article 35 du règlement (UE) no 1095/2010 et au Comité européen du risque systémique (CERS) institué par le règlement (UE) no 1092/2010 du Parlement européen et du Conseil du 24 novembre 2010 relatif à la surveillance macroprudentielle du système financier dans l’Union européenne et instituant un Comité européen du risque systémique (40) conformément à l’article 15 dudit règlement aux fins de la surveillance des risques systémiques au niveau de l'Union.
+
+b) le paragraphe 4 est remplacé par le texte suivant:
+
+«4. Sans préjudice de l’article 116, la Commission adopte, par voie d’actes délégués, en conformité avec l’article 112, paragraphes 2, 3 et 4 et dans le respect des conditions fixées par les articles 112 *bis* et 112 *ter*, des mesures comportant les éléments suivants:
+
+a) les critères permettant d’évaluer l’adéquation de la méthode de gestion des risques employée par la société de gestion conformément au paragraphe 1, premier alinéa;
+
+b) des règles détaillées concernant l’évaluation exacte et indépendante de la valeur des instruments dérivés de gré à gré; et
+
+c) des règles détaillées concernant le contenu des informations visées au paragraphe 1, troisième alinéa, et la procédure à suivre pour les communiquer aux autorités compétentes de l’État membre d’origine de la société de gestion.»;
+
+c) le paragraphe suivant est ajouté:
+
+«5. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution pour préciser les conditions d’application des actes délégués adoptés par la Commission en ce qui concerne les critères et les règles visés au paragraphe 4.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+19. À l’article 52, paragraphe 4, le troisième alinéa est remplacé par le texte suivant:
+
+«Les États membres communiquent à l’AEMF et à la Commission la liste des catégories d’obligations visées au premier alinéa et des catégories d’émetteurs habilités, conformément à la législation et aux dispositions concernant la surveillance visées audit alinéa, à émettre des obligations conformes aux critères énoncés au présent article. Une notice précisant le statut des garanties offertes est jointe à ces listes. La Commission et l’AEMF communiquent immédiatement aux autres États membres ces informations, ainsi que toute observation qu’elles jugent appropriée et les rendent accessibles au public sur leur site internet. Cette communication peut faire l’objet d’échanges de vues au sein du comité européen des valeurs mobilières visé à l’article 112, paragraphe 1.».
+
+20. L’article 60 est modifié comme suit:
+
+a) le paragraphe 6 est modifié comme suit:
+
+i) au premier alinéa, la partie introductive est remplacée par le texte suivant:
+
+«6. La Commission peut adopter, par voie d’actes délégués, en conformité avec l’article 112, paragraphes 2, 3 et 4 et dans le respect des conditions fixées par les articles 112 *bis* et 112 *ter*, des mesures qui précisent:»;
+
+ii) le deuxième alinéa est supprimé;
+
+b) le paragraphe suivant est ajouté:
+
+«7. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution visant à déterminer les conditions d’application des actes délégués adoptés par la Commission en ce qui concerne l’accord, les mesures et les procédures visés au paragraphe 6.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+21. L’article 61 est modifié comme suit:
+
+a) le paragraphe 3 est remplacé par le texte suivant:
+
+«3. La Commission peut adopter, par voie d’actes délégués, en conformité avec l’article 112, paragraphes 2, 3 et 4 et dans le respect des conditions fixées par les articles 112 *bis* et 112 *ter*, des mesures qui précisent:
+
+a) les éléments d’information devant être inclus dans l’accord visé au paragraphe 1; et
+
+b) les types d’irrégularités visées au paragraphe 2 qui sont considérées comme ayant une incidence négative sur l’OPCVM nourricier.»;
+
+b) le paragraphe suivant est ajouté:
+
+«4. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution visant à déterminer les conditions d’application des actes délégués adoptés par la Commission en ce qui concerne l’accord, les mesures et les types d’irrégularités visés au paragraphe 3.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+22. À l’article 62, le paragraphe 4 est remplacé par le texte suivant:
+
+«4. La Commission peut adopter, par voie d’actes délégués, en conformité avec l’article 112, paragraphes 2, 3 et 4 et dans le respect des conditions fixées par les articles 112 *bis* et 112 *ter*, des mesures précisant le contenu de l’accord visé au paragraphe 1, premier alinéa.».
+
+23. L’article 64 est modifié comme suit:
+
+a) le paragraphe 4 est remplacé par le texte suivant:
+
+«4. La Commission peut adopter, par voie d’actes délégués, en conformité avec l’article 112, paragraphes 2, 3 et 4 et dans le respect des conditions fixées par les articles 112 *bis* et 112 *ter*, des mesures qui précisent:
+
+a) la forme et le mode de fourniture des informations visées au paragraphe 1; ou
+
+b) si l’OPCVM nourricier transfère la totalité ou une partie de ses actifs à l’OPCVM maître en contrepartie de parts, la procédure d’évaluation et d’audit de cette contribution en nature et le rôle du dépositaire de l’OPCVM nourricier lors de ce processus.»;
+
+b) le paragraphe suivant est ajouté:
+
+«5. Afin d’assurer des conditions uniformes d’application du mode de fourniture des informations, l’AEMF peut élaborer des projets de normes techniques d’exécution visant à déterminer les conditions d’application des actes délégués adoptés par la Commission en ce qui concerne la forme et le mode de fourniture des informations ainsi que la procédure visés au paragraphe 4.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+24. À l’Article 69, le paragraphe suivant est ajouté:
+
+«5. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF peut élaborer des projets de normes techniques de réglementation visant à préciser les modalités d’application des dispositions relatives au contenu du prospectus, du rapport annuel et du rapport semestriel conformément à l’annexe I, ainsi qu’au format de ces documents.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.».
+
+25. À l’article 75, le paragraphe 4 est remplacé par le texte suivant:
+
+«4. La Commission peut adopter, par voie d’actes délégués, en conformité avec l’article 112, paragraphes 2, 3 et 4 et dans le respect des conditions fixées par les articles 112 *bis* et 112 *ter*, des mesures précisant les conditions particulières qui doivent être respectées lorsque le prospectus est fourni sur un support durable autre que le papier ou au moyen d’un site internet qui ne constitue pas un support durable.».
+
+26. L’article 78 est modifié comme suit:
+
+a) le paragraphe 7 est remplacé par le texte suivant:
+
+«7. La Commission adopte, par voie d’actes délégués, en conformité avec l’article 112, paragraphes 2, 3 et 4 et dans le respect des conditions fixées par les articles 112 *bis* et 112 *ter*, des mesures qui précisent:
+
+a) le contenu détaillé et exhaustif des informations clés pour l’investisseur à fournir aux investisseurs conformément aux paragraphes 2, 3 et 4;
+
+b) le contenu détaillé et exhaustif des informations clés pour l’investisseur qui doivent être fournies aux investisseurs dans les cas particuliers suivants:
+
+i) pour les OPCVM qui ont différents compartiments d’investissement, les informations clés pour l’investisseur à fournir aux investisseurs qui investissent dans un compartiment d’investissement particulier, notamment les modalités de passage d’un compartiment à un autre et les coûts qu’entraîne ce passage;
+
+ii) pour les OPCVM proposant différentes catégories d’actions, les informations clés pour l’investisseur à fournir aux investisseurs qui investissent dans une catégorie d’actions particulière;
+
+iii) pour les fonds de fonds, les informations clés pour l’investisseur à fournir aux investisseurs qui investissent dans un OPCVM qui investit lui-même dans un autre OPCVM ou dans d’autres organismes de placement collectif visés à l’article 50, paragraphe 1, point e);
+
+iv) pour les structures maître-nourricier, les informations clés pour l’investisseur à fournir aux investisseurs qui investissent dans un OPCVM nourricier; et
+
+v) pour les OPCVM structurés, les OPCVM à capital protégé et les autres OPCVM comparables, les informations clés pour l’investisseur à fournir aux investisseurs au sujet des caractéristiques spécifiques de ces OPCVM; et
+
+c) la forme et la présentation particulières des informations clés pour l’investisseur à fournir aux investisseurs conformément au paragraphe 5.»;
+
+b) le paragraphe suivant est ajouté:
+
+«8. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution visant à déterminer les conditions d’application des actes délégués adoptés par la Commission conformément au paragraphe 7 en ce qui concerne les informations visées au paragraphe 3.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+27. À l’article 81, le paragraphe 2 est remplacé par le texte suivant:
+
+«2. La Commission peut adopter, par voie d’actes délégués, en conformité avec l’article 112, paragraphes 2, 3 et 4 et dans le respect des conditions fixées par les articles 112 *bis* et 112 *ter*, des mesures précisant les conditions particulières qui doivent être respectées lorsque les informations clés pour l’investisseur sont fournies sur un support durable autre que le papier ou au moyen d’un site internet qui ne constitue pas un support durable.».
+
+28. À l’article 83, le paragraphe suivant est ajouté:
+
+«3. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF peut élaborer des projets de normes techniques de réglementation visant à préciser les exigences prévues au présent article en ce qui concerne l’emprunt.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.».
+
+29. À l’article 84, le paragraphe suivant est ajouté:
+
+«4. Afin d’assurer une harmonisation cohérente du présent article, l’AEMF peut élaborer des projets de normes techniques de réglementation visant à préciser les conditions que doit remplir l’OPCVM après l’adoption de la suspension temporaire du rachat ou du remboursement des parts de l’OPCVM au sens du paragraphe 2, point a), lorsque la décision de suspension a été prise.
+
+Est délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa conformément aux articles 10 à 14 du règlement (UE) no 1095/2010.».
+
+30. L’article 95 est remplacé par le texte suivant:
+
+«Article 95
+
+1. La Commission peut adopter, par voie d’actes délégués, en conformité avec l’article 112, paragraphes 2, 3 et 4 et dans le respect des conditions fixées par les articles 112 *bis* et 112 *ter*, des mesures qui précisent:
+
+a) le champ des informations visées à l’article 91, paragraphe 3;
+
+b) les moyens de faciliter l’accès, pour les autorités compétentes des États membres d’accueil des OPCVM, aux informations ou documents visés à l’article 93, paragraphes 1, 2 et 3, conformément à l’article 93, paragraphe 7.
+
+2. Afin d’assurer des conditions uniformes d’application de l’article 93, l’AEMF peut élaborer des projets de normes techniques d’exécution visant à déterminer:
+
+a) la forme et le contenu d’une lettre de notification normalisée destinée à être employée par un OPCVM aux fins de la notification, telle que visée à l’article 93, paragraphe 1, y compris l’indication des documents auxquels se rapportent les traductions;
+
+b) la forme et le contenu d’une attestation normalisée destinée à être employée par les autorités compétentes des États membres, telle que visée à l’article 93, paragraphe 3;
+
+c) la procédure d’échange d’informations et d’utilisation des communications électroniques entre autorités compétentes aux fins de la notification conformément à l’article 93.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+31. À l’article 97, le paragraphe 1 est remplacé par le texte suivant:
+
+«1. Les États membres désignent les autorités compétentes chargées d’exercer les attributions qui sont prévues par la présente directive. Ils en informent l’AEMF et la Commission, en précisant le partage éventuel des attributions.».
+
+32. L’article 101 est modifié comme suit:
+
+a) le paragraphe suivant est ajouté:
+
+«2 *bis*. Les autorités compétentes coopèrent avec l’AEMF aux fins de la présente directive, conformément au règlement (UE) no 1095/2010.
+
+Les autorités compétentes fournissent dans les plus brefs délais à l’AEMF toutes les informations nécessaires à l’accomplissement de ses missions, conformément à l’article 35 du règlement (UE) no 1095/2010.»;
+
+b) les paragraphes 8 et 9 sont remplacés par le texte suivant:
+
+«8. Les autorités compétentes peuvent référer à l’AEMF des situations où:
+
+a) une demande d’échange d’informations telle que prévue à l’article 109 a été rejetée ou n’a pas été suivie d’effet dans un délai raisonnable;
+
+b) une demande d’enquête ou de vérification sur place telle que prévue à l’article 110 a été rejetée ou n’a pas été suivie d’effet dans un délai raisonnable; ou
+
+c) une demande d’autorisation de la présence de son propre personnel aux côtés du personnel des autorités compétentes de l’autre État membre a été rejetée ou n’a pas été suivie d’effet dans un délai raisonnable.
+
+Sans préjudice de l’article 258 du traité sur le fonctionnement de l’Union européenne, l’AEMF peut, dans les situations visées au premier alinéa, agir dans le cadre des pouvoirs qui lui sont conférés par l’article 19 du règlement (UE) no 1095/2010, sans préjudice de la possibilité de refuser de donner suite à une demande d’information ou à une demande d’enquête conformément au paragraphe 6 du présent article ni de la possibilité, pour l’AEMF, de prendre, le cas échéant, des mesures conformément à l’article 17 du présent règlement.
+
+9. Afin d’assurer des conditions uniformes d’application du présent article, l’AEMF peut élaborer des projets de normes techniques d’exécution visant à établir des procédures communes permettant aux autorités compétentes de coopérer dans le cadre des vérifications sur place et des enquêtes au sens des paragraphes 4 et 5.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+33. L’article 102 est modifié comme suit:
+
+a) au paragraphe 2, le premier alinéa est remplacé par le texte suivant:
+
+«2. Le paragraphe 1 ne fait pas obstacle à ce que les autorités compétentes des États membres procèdent aux échanges d’informations prévus par la présente directive ou d’autres actes législatifs de l’Union européenne applicables aux OPCVM ou aux entreprises qui concourent à leur activité, ou transmettent ces informations à l’AEMF conformément au règlement (UE) no 1095/2010 ou au CERS. Ces informations sont soumises aux conditions liées au secret professionnel visées au paragraphe 1.»
+
+b) au paragraphe 5, le point suivant est ajouté:
+
+«d) l’AEMF, l’Autorité européenne de surveillance (Autorité bancaire européenne) instituée par le règlement (UE) no 1093/2010 du Parlement européen et du Conseil (41), l’Autorité européenne de surveillance (Autorité européenne des assurances et des pensions professionnelles) instituée par le règlement (UE) no 1094/2010 du Parlement européen et du Conseil (42) et le CERS.
+
+34. L’article 103 est modifié comme suit:
+
+a) le paragraphe 3 est remplacé par le texte suivant:
+
+«3. Les États membres communiquent à l'AEMF, à la Commission et aux autres États membres l’identité des autorités qui peuvent recevoir des informations en vertu du paragraphe 1.»;
+
+b) le paragraphe 7 est remplacé par le texte suivant:
+
+«7. Les États membres communiquent à l'AEMF, à la Commission et aux autres États membres l’identité des autorités ou des organes qui peuvent recevoir des informations en vertu du paragraphe 4.».
+
+35. L’article 105 est remplacé par le texte suivant:
+
+«Article 105
+
+Afin d’assurer des conditions uniformes d’application de la présente directive en ce qui concerne l’échange d’informations, l’AEMF peut élaborer des projets de normes techniques d’exécution visant à déterminer les modalités d’application relatives aux procédures d’échange d’informations entre les autorités compétentes et entre les autorités compétentes et l’AEMF.
+
+La Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa conformément à l’article 15 du règlement (UE) no 1095/2010.».
+
+36. L’article 108, paragraphe 5, est modifié comme suit:
+
+a) au premier alinéa, le point b) est remplacé par le texte suivant:
+
+«b) s’il y a lieu, en référer à l'AEMF, qui peut agir dans le cadre des pouvoirs qui lui sont conférés par l’article 19 du règlement (UE) no 1095/2010.»;
+
+b) le deuxième alinéa est remplacé par le texte suivant:
+
+«La Commission et l’AEMF sont informées sans délai de toute mesure prise en application du point a) du premier alinéa.».
+
+37. Le titre du chapitre XIII est remplacé par le texte suivant:
+
+«ACTES DÉLÉGUÉS ET POUVOIRS D’EXÉCUTION».
+
+38. L’article 111 est remplacé par le texte suivant:
+
+«Article 111
+
+La Commission peut adopter des modifications techniques à la présente directive dans les domaines indiqués ci-après:
+
+a) clarification des définitions destinée à assurer une harmonisation cohérente et une application uniforme de la présente directive dans toute l’Union; ou
+
+b) alignement de la terminologie et reformulation des définitions en fonction des actes ultérieurs relatifs aux OPCVM et aux matières connexes.
+
+Les mesures visées au premier alinéa sont adoptées par voie d’actes délégués, en conformité avec l’article 112, paragraphes 2, 3 et 4 et dans le respect des conditions fixées par les articles 112 *bis* et 112 *ter*.».
+
+39. L’article 112 est remplacé par le texte suivant:
+
+«Article 112
+
+1. La Commission est assistée par le comité européen des valeurs mobilières, institué par la décision 2001/528/CE de la Commission.
+
+2. Le pouvoir d’adopter les actes délégués visés aux articles 12, 14, 23, 33, 43, 51, 60, 61, 62, 64, 75, 78, 81, 95 et 111 est conféré à la Commission pour une période de quatre ans à compter du 4 janvier 2011. La Commission présente un rapport relatif aux pouvoirs délégués au plus tard six mois avant la fin de la période de quatre ans. La délégation de pouvoir est automatiquement renouvelée pour des périodes d’une durée identique, sauf si le Parlement européen ou le Conseil la révoque conformément à l’article 112 *bis*.
+
+3. Aussitôt qu’elle adopte un acte délégué, la Commission le notifie simultanément au Parlement européen et au Conseil.
+
+4. Le pouvoir d’adopter des actes délégués conféré à la Commission est soumis aux conditions fixées par les articles 112 *bis* et 112 *ter*.».
+
+40. Les articles suivants sont insérés:
+
+«Article 112 bis
+
+Révocation de délégation
+
+1. La délégation de pouvoir visée aux articles 12, 14, 23, 33, 43, 51, 60, 61, 62, 64, 75, 78, 81, 95 et 111 peut être révoquée à tout moment par le Parlement européen ou par le Conseil.
+
+2. L’institution qui a entamé une procédure interne afin de décider si elle entend révoquer la délégation de pouvoir s’efforce d’informer l’autre institution et la Commission dans un délai raisonnable avant de prendre une décision finale, en indiquant les pouvoirs délégués qui pourraient faire l’objet d’une révocation.
+
+3. La décision de révocation met un terme à la délégation des pouvoirs spécifiés dans ladite décision. Elle prend effet immédiatement ou à une date ultérieure qu’elle précise. Elle n’affecte pas la validité des actes délégués déjà en vigueur. Elle est publiée au *Journal officiel de l’Union européenne*.
+
+Article 112 ter
+
+Objections aux actes délégués
+
+1. Le Parlement européen ou le Conseil peuvent formuler des objections à l’égard de l’acte délégué dans un délai de trois mois à compter de la date de notification. Sur l’initiative du Parlement européen ou du Conseil, ce délai peut être prolongé de trois mois.
+
+2. Si, à l’expiration du délai visé au paragraphe 1, ni le Parlement européen ni le Conseil n’ont formulé d’objection à l’égard de l’acte délégué, celui-ci est publié au *Journal officiel de l’Union européenne* et entre en vigueur à la date qu’il indique.
+
+L’acte délégué peut être publié au *Journal officiel de l’Union européenne* et entrer en vigueur avant l’expiration de ce délai si le Parlement européen et le Conseil ont tous les deux informé la Commission de leur intention de ne pas formuler d’objections.
+
+3. Si le Parlement européen ou le Conseil formule des objections à l’égard d’un acte délégué dans le délai visé au paragraphe 1, celui-ci n’entre pas en vigueur. Conformément à l’article 296 du traité sur le fonctionnement de l’Union européenne, l’institution qui formule des objections à l’égard de l’acte délégué en expose les motifs.».
+
+<a id="art_12"></a>
+
+### Article 12 — Révision
+
+La Commission présente, avant le 1er janvier 2014, au Parlement européen et au Conseil un rapport précisant si les ASE ont présenté les projets de normes techniques de réglementation et les projets de normes techniques d’exécution prévus dans la présente directive, qu’une telle présentation soit obligatoire ou facultative, ainsi que toutes les propositions appropriées.
+
+<a id="art_13"></a>
+
+### Article 13 — Transposition
+
+1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à l’article 1er, points 1) et 2), à l’article 2, point 1) a), à l’article 2, points 2), 5), 7) et 9), à l’article 2, point 11) b), à l’article 3, point 4), à l’article 3, points 6) a) et b), à l’article 4, point 1) a), à l’article 4, point 3), à l’article 5, point 5) a), à l’article 5, point 5) b), premier alinéa, à l’article 5, points 6), 8) et 9) (en lien avec l’article 18, paragraphe 3, de la directive 2003/71/CE), à l’article 5, point 10), à l’article 5, points 11) a) et b), à l’article 5), point 12), à l’article 6, point 1) (en lien avec l’article 5, paragraphe 3, premier alinéa, de la directive 2004/39/CE), à l’article 6, point 3), à l’article 6, point 5) a), à l’article 6, points 10), 13), 14) et 16), à l’article 6, points 17) a) et b), à l’article 6, points 18) et 19) (en lien avec l’article 53, paragraphe 3, premier alinéa, de la directive 2004/39/CE), à l’article 6, points 21) a) et b), à l’article 6, point 23) b), à l’article 6, points 24), 25) et 27), à l’article 7, point 12) a), à l’article 7, points 13), 14), 15) et 16), à l’article 9, point 1) a), à l’article 9, points 2), 3), 4), 10), 11), 12), 15), 16), 17), 18), 20), 29) et 32), à l’article 9, points 33) a) et b), à l’article 9, points 33) d) ii) à iv), à l’article 9, points 34) et 35), à l’article 9, point 36) b) ii), à l’article 9, point 37) b), à l’article 9, points 38) et 39), à l’article 10, point 2), à l’article 10, point 3) a), à l’article 10, point 4), à l’article 11, points 2), 4), 11), 14), 19) et 31), à l’article 11, point 32) b) concernant l’article 101, paragraphe 8, de la directive 2009/65/CE et à l’article 11, points 33), 34) et 36) de la présente directive, au plus tard le 31 décembre 2011. Ils communiquent immédiatement à la Commission le texte de ces dispositions, ainsi qu’un tableau de correspondance entre ces dispositions et la présente directive.
+
+Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.
+
+2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine régi par la présente directive.
+
+<a id="art_14"></a>
+
+### Article 14 — Entrée en vigueur
+
+La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.
+
+<a id="art_15"></a>
+
+### Article 15 — Destinataires
+
+Les États membres sont destinataires de la présente directive.
+
+(1) Avis du 18 mars 2010 (JO C 87 du 1.4.2010, p. 1).
+
+(2) Avis du 18 mars 2010 (non encore paru au Journal officiel).
+
+(3) Position du Parlement européen du 22 septembre 2010 (non encore parue au Journal officiel) et décision du Conseil du 17 novembre 2010.
+
+(4) Voir page 12 du présent Journal officiel.
+
+(5) Voir page 48 du présent Journal officiel.
+
+(6) Voir page 84 du présent Journal officiel.
+
+(7) JO L 177 du 30.6.2006, p. 1.
+
+(8) JO L 145 du 30.4.2004, p. 1.
+
+(9) JO L 345 du 31.12.2003, p. 64.
+
+(10) JO L 166 du 11.6.1998, p. 45.
+
+(11) JO L 235 du 23.9.2003, p. 10.
+
+(12) JO L 177 du 30.6.2006, p. 201.
+
+(13) JO L 166 du 11.6.1998, p. 45.
+
+(14) JO L 35 du 11.2.2003, p. 1.
+
+(15) JO L 96 du 12.4.2003, p. 16.
+
+(16) JO L 390 du 31.12.2004, p. 38.
+
+(17) JO L 309 du 25.11.2005, p. 15.
+
+(18) JO L 302 du 17.11.2009, p. 32.
+
+(19) JO L 331 du 15.12.2010, p. 84».
+
+(20) JO L 331 du 15.12.2010, p. 12.
+
+(21) JO L 331 du 15.12.2010, p. 48.
+
+(22) JO L 331 du 15.12.2010, p. 84.»;
+
+(23) JO L 331 du 15.12.2010, p. 1.».
+
+(24) JO L 331 du 15.12.2010, p. 84.».
+
+(25) JO L 331 du 15.12.2010, p. 48.»;
+
+(26) JO L 331 du 15.12.2010, p. 84.».
+
+(27) JO L 331 du 15.12.2010, p. 1.»;
+
+(28) JO L 331 du 15.12.2010, p. 84.».
+
+(29) JO L 96 du 12.4.2003, p. 16.»;
+
+(30) JO L 331 du 15.12.2010, p. 84.».
+
+(31) JO L 331 du 15.12.2010, p. 1.»;
+
+(32) JO L 331 du 15.12.2010, p. 12.
+
+(33) JO L 331 du 15.12.2010, p. 48.
+
+(34) JO L 331 du 15.12.2010, p. 84.».
+
+(35) JO L 331 du 15.12.2010, p. 12.»;
+
+(36) JO L 331 du 15.12.2010, p. 1.»;
+
+(37) JO L 331 du 15.12.2010, p. 84.».
+
+(38) JO L 331 du 15.12.2010, p. 12.».
+
+(39) JO L 331 du 15.12.2010, p. 84.».
+
+(40) JO L 331 du 15.12.2010, p. 1.»;
+
+(41) JO L 331 du 15.12.2010, p. 12.
+
+(42) JO L 331 du 15.12.2010, p. 48.».

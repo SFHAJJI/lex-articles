@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2795:2024-07-24",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2024/2795 of 24\u00A0July 2024 amending Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2024-07-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2795/versions/2024-07-24/fr.xml",
+    "sha256": "c40c58eea9c56c2fc7c9668837fd6c947079b4e89eb2ec3a6bdddb437db40309",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R2795"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2795:2024-07-24#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nDans le règlement (UE) no 575/2013, l’article 520 bis suivant est inséré:\n\n«Article 520 bis\n\nApplication des exigences de fonds propres pour risque de marché\n\nJusqu’au 1er janvier 2026, les établissements continuent d’appliquer la troisième partie, titre IV, et les exigences pour risque de marché prévues aux articles 430, 430 ter, 445 et 455 du présent règlement, dans sa version en vigueur au 8 juillet 2024.».",
+      "text_sha256": "878ac13ece101a6bf2837e92135276ddc5b947a063514e4b5aa4d3f0437d18ba",
+      "md_span": {
+        "start": 644,
+        "end": 1074
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2795:2024-07-24#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nLe présent règlement est applicable à partir du 1er janvier 2025.",
+      "text_sha256": "6d47555f73ca34318598cfefd4806ab4dd40a47e6f17c94fb53113fc6151759f",
+      "md_span": {
+        "start": 1107,
+        "end": 1305
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

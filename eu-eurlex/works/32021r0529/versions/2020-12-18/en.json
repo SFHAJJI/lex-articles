@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r0529:2020-12-18",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2021/529 of 18\u00A0December 2020 establishing regulatory …",
+  "valid_from": "2020-12-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r0529/versions/2020-12-18/en.xml",
+    "sha256": "b8a193cc1055a2586b280e29d2f63fd807145eac30e6f0928d1130d9c754f98d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0529"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r0529:2020-12-18#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nArticle 17 of Delegated Regulation (EU) 2017/583 is amended as follows:\n\n| (a) | paragraph 1 is replaced by the following:‘1. For determining the bonds for which there is not a liquid market for the purposes of Article 6 and according to the methodology specified in point (b) of Article 13(1), the approach for the liquidity criterion “average daily number of trades” shall be taken applying the “average daily number of trades” corresponding to stage S2 (10 daily trades).’; |\n| --- | --- |\n\n| (b) | paragraph 3 is replaced by the following:‘3. For determining the size specific to the financial instrument for the purposes of Article 5 and according to the methodology specified under point (b)(i) of Article 13(2), the approach for the trade percentile to be applied shall be used applying the trade percentile corresponding to the stage S2 (40th percentile).For determining the size specific to the financial instrument for the purposes of Article 5 and according to the methodology specified under points (b)(ii), (iii) and (iv) of Article 13(2), the approach for the trade percentile to be applied shall be used applying the trade percentile corresponding to the stage S1 (30th percentile).’. |\n| --- | --- |",
+      "text_sha256": "34defec189cb21c6fec30c7fd3c9382a9b9f6eae424f77bd05cb1d5a7e63e264",
+      "md_span": {
+        "start": 636,
+        "end": 1862
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r0529:2020-12-18#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1895,
+        "end": 2046
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

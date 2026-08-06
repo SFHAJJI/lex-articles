@@ -1,0 +1,65 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r2459:2017-12-05",
+  "language": "fr",
+  "title": "Council Implementing Regulation (EU) 2017/2459 of 5 December 2017 amending Implementing Re…",
+  "valid_from": "2017-12-05",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r2459/versions/2017-12-05/fr.xml",
+    "sha256": "4d64a4bb1b250166c41ed1542347b4ccb2260acb1bbfbd567f391836bdfba93a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R2459"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r2459:2017-12-05#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL'article 24 ter du règlement d'exécution (UE) no 282/2011est remplacé par le texte suivant:\n\n«Article 24 ter\n\nPour l'application de l'article 58 de la directive 2006/112/CE, lorsque des services de télécommunication, des services de radiodiffusion et de télévision ou des services fournis par voie électronique sont fournis à une personne non assujettie:\n\n| a) | par l'intermédiaire de sa ligne fixe, il est présumé que le preneur est établi, a son domicile ou a sa résidence habituelle au lieu d'installation de la ligne fixe; |\n| --- | --- |\n\n| b) | à partir de réseaux mobiles, il est présumé que le preneur est établi, a son domicile ou a sa résidence habituelle dans le pays identifié par le code mobile national de la carte SIM utilisée lorsqu'il reçoit les services en question; |\n| --- | --- |\n\n| c) | pour lesquels l'utilisation d'un décodeur ou d'un dispositif similaire ou d'une carte de décryptage est nécessaire et qui ne donnent pas lieu à l'utilisation d'une ligne fixe, il est présumé que le preneur est établi, a son domicile ou a sa résidence habituelle au lieu où se trouve ce décodeur ou ce dispositif similaire ou, si ce lieu n'est pas connu, au lieu où la carte de décryptage est envoyée en vue d'y permettre son utilisation; |\n| --- | --- |\n\n| d) | dans des conditions autres que celles qui sont visées à l'article 24 bis et aux points a), b) et c) du présent article, il est présumé que le preneur est établi, a son domicile ou a sa résidence habituelle au lieu identifié comme tel par le prestataire sur la base de deux éléments de preuve non contradictoires visés à l'article 24 septies du présent règlement. |\n| --- | --- |\n\nSans préjudice du premier alinéa, point d), pour les prestations de services relevant dudit point, lorsque la valeur totale de ces prestations, hors TVA, effectuées par un assujetti à partir du siège de son activité économique ou d'un établissement stable situé dans un État membre, ne dépasse pas 100 000 EUR ou sa contre-valeur en monnaie nationale, au cours de l'année civile en cours et de la précédente, il est présumé que le preneur est établi, a son domicile ou a sa résidence habituelle au lieu identifié comme tel par le prestataire sur la base d'un élément de preuve visé à l'article 24 septies, points a) à e), fourni par une personne participant à la prestation des services, autre que le prestataire ou le preneur.\n\nLorsque, au cours d'une année civile, le seuil prévu au deuxième alinéa a été dépassé, ledit alinéa ne s'applique plus à compter de ce moment et jusqu'à ce que les conditions énoncées dans ledit alinéa soient à nouveau remplies.\n\nLa contre-valeur du montant en monnaie nationale est calculée par application du taux de change publié par la Banque centrale européenne à la date d'adoption du règlement d'exécution (UE) 2017/2459 du Conseil(*1).",
+      "text_sha256": "f394ca290fbdf894e618692eb113500b8fcce2cf5c95d05779585b146040461e",
+      "md_span": {
+        "start": 636,
+        "end": 3478
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2017348FR.01003201-E0004",
+          "text": "(*1)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r2459:2017-12-05#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl est applicable à partir du 1er janvier 2019.",
+      "text_sha256": "023e7fd4fe1f8a88cad1791df4aaa2d839f2a8d4f6fe3c934b77c94a8593c9b8",
+      "md_span": {
+        "start": 3511,
+        "end": 3701
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

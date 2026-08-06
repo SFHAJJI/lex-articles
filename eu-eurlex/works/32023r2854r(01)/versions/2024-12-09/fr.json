@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r2854r(01):2024-12-09",
+  "language": "fr",
+  "title": "Corrigendum to Regulation (EU) 2023/2854",
+  "valid_from": "2024-12-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r2854r(01)/versions/2024-12-09/fr.xml",
+    "sha256": "016eb9459efa4c1de53409dbd39b38dcc9ef398980a5d6d9f13576603a83cced",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R2854R%2801%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32023r2854r(01):2024-12-09#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Journal officiel de l'Union européenne FR Série L 2024/90790 9.12.2024 Rectificatif au règlement (UE) 2023/2854 du Parlement européen et du Conseil du 13 décembre 2023 concernant des règles harmonisées portant sur l’équité de l’accès aux données et de l’utilisation des données et modifiant le règlement (UE) 2017/2394 et la directive (UE) 2020/1828 (règlement sur les données) ( «Journal officiel de l’Union européenne» L, 2023/2854, 22 décembre 2023 ) Page 70, à l’article 48: au lieu de: «68. Règlement (UE) 2023/2854 du Parlement européen et du Conseil du 13 décembre 2023 concernant des règles harmonisées portant sur l’équité de l’accès aux données et de l’utilisation des données et modifiant le règlement (UE) 2017/2394 et la directive (UE) 2020/1828 (règlement sur les données) (JO L, 2023/2854, 22.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2854/oj).», lire: «69) Règlement (UE) 2023/2854 du Parlement européen et du Conseil du 13 décembre 2023 concernant des règles harmonisées portant sur l’équité de l’accès aux données et de l’utilisation des données et modifiant le règlement (UE) 2017/2394 et la directive (UE) 2020/1828 (règlement sur les données) (JO L, 2023/2854, 22.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2854/oj).». ELI: http://data.europa.eu/eli/reg/2023/2854/corrigendum/2024-12-09/oj ISSN 1977-0693 (electronic edition)",
+      "text_sha256": "a5f7f302bd519024063817b819b2f0952b91e67d0740c61cadf5d0eb5e69c4a1",
+      "md_span": {
+        "start": 612,
+        "end": 1971
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

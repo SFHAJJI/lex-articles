@@ -1,0 +1,270 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r0805:2025-01-01",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2022/805 of 16\u00A0February 2022 supplementing Regulation (EU) 2016/1011",
+  "valid_from": "2025-01-01",
+  "valid_to": "2026-02-11",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r0805/versions/2025-01-01/fr.xml",
+    "sha256": "c8ca3b7ad5a437796385049759c8bbac31e934a7f34f94e53ce9925be4041467",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02022R0805-20250101"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r0805:2025-01-01#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objet et champ d’application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement fixe les règles relatives aux frais que l’AEMF peut facturer aux administrateurs d’indices de référence en ce qui concerne l’agrément, la reconnaissance et la surveillance.",
+      "text_sha256": "4003984fc67e9957d48f1601d11f6f978238f46716303b8ef101c5dd06b43482",
+      "md_span": {
+        "start": 706,
+        "end": 899
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r0805:2025-01-01#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aux fins du présent règlement, on entend par:\n\n1) «indice de référence d’importance critique»: un indice de référence d’importance critique au sens de l’article 20, paragraphe 1, points a) et c), du règlement (UE) 2016/1011;\n\n2) «indice de référence de pays tiers»: un indice de référence dont l’administrateur est situé en dehors de l’Union.",
+      "text_sha256": "8f1a3c2e5e24e6d255d81415c48020e9429eac7d24eb94a66f79d630b81a1f02",
+      "md_span": {
+        "start": 950,
+        "end": 1292
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2__2",
+      "provision_id": "eu-eurlex:32022r0805:2025-01-01#art_2__2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2 bis",
+      "heading": "Plein recouvrement des coûts de la surveillance",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les frais facturés aux administrateurs d’indices de référence couvrent:\n\na) tous les coûts directs et indirects liés à la surveillance des administrateurs d’indices de référence par l’AEMF conformément au règlement (UE) 2016/1011, y compris les coûts résultant de la reconnaissance, de l’agrément ou de l’extension de l’agrément;\n\nb) tous les coûts liés au remboursement des coûts directs et indirects supportés par les autorités compétentes auxquelles l’AEMF a délégué des tâches conformément au règlement (UE) 2016/1011.",
+      "text_sha256": "e49095f8853ac033b6fcda74263dba0bf5bd3e343a4f08bd741f705e70f99a0a",
+      "md_span": {
+        "start": 1386,
+        "end": 1908
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r0805:2025-01-01#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Frais de reconnaissance et frais d’agrément",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Un administrateur d’indices de référence établi dans un pays tiers qui demande une reconnaissance en vertu de l’article 32 du règlement (UE) 2016/1011 doit payer des frais de reconnaissance de 40 000 EUR.\n\n**2.** L’administrateur d’un indice de référence d’importance critique qui demande un agrément en vertu de l’article 34 du règlement (UE) 2016/1011 doit payer des frais de demande de 250 000 EUR.\n\n**3.** Les frais d’agrément et les frais de reconnaissance sont payés au moment de l’introduction de la demande, à la réception de la note de débit de l’AEMF.\n\n**4.** Dans le cas de demandes reçues par les autorités nationales compétentes après le 1er octobre 2021 et transférées à l’AEMF, les frais de reconnaissance sont payés au début de 2022.\n\n**5.** Les frais de reconnaissance et les frais d’agrément ne sont pas remboursés.",
+      "text_sha256": "21ede1e6daf3ea0a82623d8488c9132901fd9d196819719e315d93c16962570e",
+      "md_span": {
+        "start": 1991,
+        "end": 2831
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r0805:2025-01-01#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Frais de surveillance annuels",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** L’administrateur d’un ou plusieurs indices d’importance critique paie des frais annuels de surveillance:a) de 250 000 EUR, dans les cas où l’AEMF doit présider un collège d’autorités de surveillance en vertu de l’article 46 du règlement (UE) 2016/1011;b) de 200 000 EUR, dans les cas où l’AEMF n’a pas à présider de collège d’autorités de surveillance en vertu de l’article 46 du règlement (UE) 2016/1011.\n\n**2.** Un administrateur d’indices de référence établi dans un pays tiers et reconnu par l’AEMF paie un montant de frais annuels de surveillance calculé comme suit:a) le montant de frais de surveillance annuels pour une année donnée (n) est le montant annuel total des frais pour les administrateurs de pays tiers reconnus, ajusté par application d’un coefficient de chiffre d’affaires;b) le montant annuel total des frais pour les administrateurs de pays tiers reconnus pour une année donnée (n) est égal au budget de surveillance de l’AEMF pour le règlement (UE) 2016/1011 pour cette année (n), moins les frais de surveillance annuels dus à l’AEMF par les administrateurs d’indices de référence d’importance critique pour l’année (n);c) pour chaque administrateur de pays tiers, le coefficient de chiffre d’affaires correspond à la part que représente son chiffre d’affaires applicable dans le chiffre d’affaires global généré par tous les administrateurs de pays tiers reconnusd) Les frais de surveillance annuels minimaux pour les administrateurs de pays tiers reconnus sont de 20 000 EUR, y compris lorsque le chiffre d’affaires applicable de l’administrateur de pays tiers reconnu est égal à zéro.\n\n**3.** Les administrateurs d’indices de référence paient leurs frais de surveillance annuels à l’AEMF au plus tard le 31 mars de l’année civile au cours de laquelle ils sont dus. Si les informations relatives aux années civiles précédentes ne sont pas disponibles, les frais sont calculés sur la base des dernières informations disponibles pour les frais annuels. Les frais annuels payés ne sont pas remboursés.",
+      "text_sha256": "152960e9243c2ac5a04195dd6f4d3423a845d60ec58dffe92a6b114fe09af0be",
+      "md_span": {
+        "start": 2900,
+        "end": 4930
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32022r0805:2025-01-01#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Frais annuels de surveillance pour l’année de reconnaissance ou d’agrément",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Par dérogation à l’article 4, les frais de surveillance annuels dus pour la première année par les administrateurs de pays tiers reconnus et les administrateurs d’indices de référence d’importance critique agréés, c’est-à-dire pour l’année au cours de laquelle ils ont été reconnus ou agréés, sont calculés en appliquant aux frais de reconnaissance ou d’agrément, selon le cas, le coefficient suivant:\n\nCes frais de surveillance pour la première année sont payés après que l’administrateur a été informé par l’AEMF que sa demande a été acceptée, et dans un délai de 30 jours à compter de la date d’émission de la note de débit correspondante de l’AEMF.\n\nPar dérogation, lorsqu’un administrateur d’indice de référence est agréé au cours du mois de décembre, il ne paie pas de frais de surveillance pour la première année.",
+      "text_sha256": "4d0c85ec8e27a75c180d0fd57396822bc9dd4a9bb2ac8d9e289965fe24afc231",
+      "md_span": {
+        "start": 5044,
+        "end": 5864
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R1705",
+          "text": "32024R1705: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R0805",
+          "text": "32022R0805"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32022r0805:2025-01-01#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Chiffre d’affaires applicable",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Le chiffre d’affaires applicable d’un administrateur d’indices de référence de pays tiers reconnu pour une année n donnée correspond aux revenus qu’il a perçus en lien avec l’utilisation de ses indices de référence par des entités surveillées dans l’Union, tels que déclarés dans les comptes audités de l’année n – 2.\n\n**2.** Un administrateur d’indices de référence de pays tiers reconnu fournit chaque année à l’AEMF des chiffres audités confirmant les revenus qu’il a perçus en lien avec l’utilisation de ses indices de référence dans l’Union. Ces chiffres sont certifiés par un audit externe et sont soumis à l’AEMF par voie électronique au plus tard le 30 septembre de chaque année (n – 1). Un administrateur de pays tiers qui est reconnu après le 30 septembre d’une année civile fournit ces chiffres immédiatement après sa reconnaissance, et avant la fin de l’année civile au cours de laquelle il est reconnu. Un administrateur d’indices de référence de pays tiers reconnu fournit les documents contenant les chiffres audités dans une langue communément utilisée dans les services financiers.\n\n**3.** Si l’administrateur d’indices de référence de pays tiers reconnu n’a pas exercé son activité sur l’intégralité de l’année (n – 2), l’AEMF estime le chiffre d’affaires applicable en extrapolant à toute l’année (n – 2), pour cet administrateur, la valeur obtenue pour le nombre de mois de l’année (n – 2) au cours desquels il a exercé son activité.\n\n**4.** Lorsque les comptes audités de l’année (n – 2) ne sont pas disponibles, l’AEMF utilise les comptes audités de l’année (n – 1).\n\n**5.** Lorsque les revenus déclarés sont exprimés dans une monnaie autre que l’euro, l’AEMF les convertit en euros en utilisant le taux de change moyen de l’euro applicable à la période durant laquelle ces revenus ont été enregistrés. À cette fin, l’AEMF utilise le taux de change de référence de l’euro publié par la Banque centrale européenne.",
+      "text_sha256": "f37d0b8afdc2a90fa652a128d59518f45d3f94ca17e0bd23bac034d82b5a7efa",
+      "md_span": {
+        "start": 5933,
+        "end": 7875
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32022r0805:2025-01-01#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Modalités générales de paiement",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Tous les frais sont payables en euros.\n\n**2.** Tout retard de paiement entraîne l’application d’intérêts de retard conformément à l’article 99 du règlement (UE, Euratom) 2018/1046 du Parlement européen et du Conseil (1).",
+      "text_sha256": "b4e7b4bd84c19591c287bf284b8dfe848fa1c0a3203529cedda9b8a73f1551c2",
+      "md_span": {
+        "start": 7946,
+        "end": 8173
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R1705",
+          "text": "32024R1705: REPLACED"
+        },
+        {
+          "href": "#E0001",
+          "text": "1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R0805",
+          "text": "32022R0805"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32022r0805:2025-01-01#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Paiement des frais de demande et d’agrément",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les frais de demande, d’agrément ou d’extension de l’agrément sont dus à la date où l’administrateur d’indices de référence introduit sa demande et sont payés intégralement dans un délai de 30 jours à compter de la date d’émission de la facture de l’AEMF.\n\n**2.** L’AEMF ne rembourse pas les frais à un administrateur d’indice de référence qui décide de retirer sa demande d’agrément.",
+      "text_sha256": "76fcf3f2c93fb73e9b6d89d92fa7b9f2f8ad147f0986a33751ba9efbce7377f4",
+      "md_span": {
+        "start": 8256,
+        "end": 8647
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32022r0805:2025-01-01#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Paiement des frais de surveillance annuels",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les frais de surveillance annuels visés à l’article 4 pour un exercice annuel sont payés à l’AEMF avant le 31 mars de l’année civile pour laquelle ils sont dus. Les frais sont calculés sur la base des dernières informations disponibles pour les frais annuels.\n\n**2.** L’AEMF ne rembourse pas les frais de surveillance annuels.\n\n**3.** L’AEMF envoie la facture à l’administrateur d’indice de référence au moins 30 jours avant l’échéance du paiement.",
+      "text_sha256": "8afea593265a5e1c79ab9c9d6edc985f3ead147554550b5afcee197d821a4f83",
+      "md_span": {
+        "start": 8729,
+        "end": 9184
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32022r0805:2025-01-01#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Remboursement des autorités nationales compétentes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** En cas de délégation de tâches par l’AEMF à des autorités nationales compétentes, seule l’AEMF facture les frais de reconnaissance et les frais annuels de surveillance aux administrateurs de pays tiers et aux administrateurs d’indices de référence d’importance critique.\n\n**2.** L’AEMF rembourse aux autorités nationales compétentes, pour les coûts réels supportés par suite du travail effectué en application du règlement (UE) 2016/1011, un montant remplissant les conditions suivantes:a) l’AEMF et l’autorité compétente ont convenu de ce montant avant la délégation des tâches;b) ce montant est inférieur au montant total des frais de surveillance payés à l’AEMF par les administrateurs d’indices de référence concernés.",
+      "text_sha256": "5f6f47596311e85faf421d97f2e64b787541a81bbfc53a0563e14d87d73ee9c5",
+      "md_span": {
+        "start": 9276,
+        "end": 10005
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32022r0805:2025-01-01#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Dispositions transitoires",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** L’article 3 ne s’applique pas aux administrateurs d’indices de référence d’importance critique et d’indices de référence de pays tiers déjà agréés ou reconnus par des autorités nationales compétentes avant l’entrée en vigueur du présent règlement.\n\n**2.** Par dérogation à l’article 12, paragraphe 1, au cas où le présent règlement entrerait en vigueur après le troisième mois de 2022, les frais de surveillance annuels pour 2022 applicables aux administrateurs d’indices de référence soumis à la surveillance de l’AEMF sont dus dans un délai de 30 jours à compter de la date d’émission de la facture de l’AEMF.\n\n**3.** Aux fins du calcul, à l’article 4, paragraphe 2, des frais de surveillance annuels pour 2022 applicables aux administrateurs d’indices de référence soumis à la surveillance de l’AEMF, le chiffre d’affaires applicable est, par dérogation à l’article 4, paragraphe 2, points a) à d), provisoirement basé sur les revenus générés en 2021. Lorsque les comptes audités de 2021 sont disponibles, les administrateurs d’indice de référence les soumettent sans délai à l’AEMF. L’AEMF recalcule les frais de surveillance annuels pour 2021 sur la base des comptes audités et adresse à chaque administrateur d’indice de référence une facture finale correspondant à la différence.",
+      "text_sha256": "1e4f2bd0b674584f4032504f98989cdd1a8334ed6cac8fa2f754598725cd5807",
+      "md_span": {
+        "start": 10072,
+        "end": 11365
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32022r0805:2025-01-01#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Entrée en vigueur et date d’application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le troisième jour suivant celui de sa publication au *Journal officiel de l’Union européenne.*",
+      "text_sha256": "7feede3bb411c302a4b1f895c7a47a5a9759684650cdc500dbbe03da15cf08a3",
+      "md_span": {
+        "start": 11446,
+        "end": 11578
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)",
+    "duplicate anchor 'art_2' disambiguated as 'art_2__2'"
+  ]
+}

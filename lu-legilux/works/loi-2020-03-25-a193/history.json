@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_10": [
       {
@@ -217,5 +218,223 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_10": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": null,
+          "text_sha256": "98a739a25d1eb286431825b04afee5a87b6d3b4c0fa77f0609ff827d5fa95efd",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": null,
+          "text_sha256": "154e15b67dd5fe35b2fd593ff9e636e48546f5d5e0bb6a0230b40205312b55f9",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": null,
+          "text_sha256": "978331c507a6044083cb969e9476f6fcf987910ec02bed9843d19586dd6280e6",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": null,
+          "text_sha256": "79419f011669fdb8d7d9f954970fb53d5ff125bf13bf680403d7033fb92b193c",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": null,
+          "text_sha256": "c45b0ce3080611cd478967d64ae0d803320029d6913c5c7e18e403bd822f10dd",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": null,
+          "text_sha256": "2f2db840b4ab4b5106eb446d25cba33b2f4ec8bc511af0fb5022365196255810",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": null,
+          "text_sha256": "096d06a76edd294441b4a3a14d4fa22f8766ebe52293d3a7fe7d83abd994b449",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        }
+      ],
+      "art_17": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": null,
+          "text_sha256": "16d3c9deb01385dc1d0660d2418186b91c688ffd1402c708035ad17ea156513c",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        }
+      ],
+      "art_1er": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": "2022-07-04",
+          "text_sha256": "3618c4ed16246270fa62c95bce690f4274aa67c6ea4c4a17d36fe8bb83639113",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        },
+        {
+          "valid_from": "2022-07-05",
+          "valid_to": null,
+          "text_sha256": "1aa46f1c815ed399db1f6242282a860ebbdfe67e04240c82efe960734f700cc8",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2022-07-05",
+          "article_valid_from": "2022-07-05"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": null,
+          "text_sha256": "69179077982a6aea1789902ca98b78c8ce7b4571f673e6609f46d4c1df5adb9e",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2021-03-02"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": null,
+          "text_sha256": "2626fe72c9e6dc3f2f373ebe42ec5b595839233d0f78df2519be707e9d04e307",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": null,
+          "text_sha256": "4d224b188412bf1d6ebc19a31a51fa454ea4e49b5367152d88abe8c38a56d2a7",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": null,
+          "text_sha256": "8b76f687d007ded9b0443e0ad79a467ad1b56713e55019d1cc499f0f6ae8b08e",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": null,
+          "text_sha256": "ca34f54bae781fe92fc572cc6dac865f75454b513704d0eb9a0600d9544a4003",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": null,
+          "text_sha256": "63048be946809a8e681316b38f045fe38fd5b027e95732e2b3c6fa6d881a67f6",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": "2022-07-04",
+          "text_sha256": "0cae5d79791730c924eec2a788a3ef88906298701bf3b44266a623207460db34",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        },
+        {
+          "valid_from": "2022-07-05",
+          "valid_to": "2023-01-31",
+          "text_sha256": "c0db310a6e1d7e853bb42e35d1f0b8bf0c46595ec2b9dabfb79794f406ae1748",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2022-07-05",
+          "article_valid_from": "2022-07-05"
+        },
+        {
+          "valid_from": "2023-02-01",
+          "valid_to": "2023-05-31",
+          "text_sha256": "64c591d009524f70ac734dbcce4561a12651a729026f7604aa7e6c322b5648db",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2023-02-01",
+          "article_valid_from": "2023-02-01"
+        },
+        {
+          "valid_from": "2023-06-01",
+          "valid_to": null,
+          "text_sha256": "33155aa134e54b9a4254c2ad559dafff02c73a946656611f606a8d2c85a17aca",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2023-06-01",
+          "article_valid_from": "2023-06-01"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2021-03-02",
+          "valid_to": "2023-01-31",
+          "text_sha256": "10cfd7ffb437f5d70a519f75988c1331278e77effd6b06f1e6bc7bd3ec461763",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2021-03-02",
+          "article_valid_from": "2020-03-26",
+          "validity_conflict": true
+        },
+        {
+          "valid_from": "2023-02-01",
+          "valid_to": "2023-05-31",
+          "text_sha256": "2f671cbd4022bdf83d649a5f5ce7b5ebce8884de8ce3a6decb34feb3d541feff",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2023-02-01",
+          "article_valid_from": "2023-02-01"
+        },
+        {
+          "valid_from": "2023-06-01",
+          "valid_to": null,
+          "text_sha256": "4383fdb99d05d3e25dafe150162d3fd84fedbcacf796285d7747b9052b9ebc20",
+          "in_version": "lu-legilux:loi-2020-03-25-a193:2023-06-01",
+          "article_valid_from": "2023-06-01"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

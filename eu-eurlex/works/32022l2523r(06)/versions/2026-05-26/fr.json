@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022l2523r(06):2026-05-26",
+  "language": "fr",
+  "title": "Rectificatif à la directive (UE) 2022/2523 du Conseil du 14 décembre 2022 visant à assurer…",
+  "valid_from": "2026-05-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022l2523r(06)/versions/2026-05-26/fr.xml",
+    "sha256": "1591b52a3707c97a65f55d5d36a44d97c92be416bf74296e618ea7ec490d43bb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L2523R%2806%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32022l2523r(06):2026-05-26#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Journal officiel de l'Union européenne FR Série L 2026/90410 26.5.2026 Rectificatif à la directive (UE) 2022/2523 du Conseil du 14 décembre 2022 visant à assurer un niveau minimum d’imposition mondial pour les groupes d’entreprises multinationales et les groupes nationaux de grande envergure dans l’Union ( «Journal officiel de l’Union européenne» L 328 du 22 décembre 2022 ) 1. Page 17, à l’article 9, paragraphe 1: au lieu de: «1. L’impôt complémentaire pour la RIR dû par une entité mère pour une entité constitutive faiblement imposée conformément à l’article 5, paragraphe 1, à l’article 6, paragraphe 1, à l’article 7, paragraphe 1, et à l’article 8, paragraphe 1, correspondant à l’impôt complémentaire de l’entité constitutive faiblement imposée, calculé selon les modalités de l’article 27, multiplié par la part attribuable à l’entité mère de cet impôt complémentaire au titre de l’année fiscale.» , lire: «1. L’impôt complémentaire pour la RIR dû par une entité mère pour une entité constitutive faiblement imposée conformément à l’article 5, paragraphe 1, à l’article 6, paragraphe 1, à l’article 7, paragraphe 1, et à l’article 8, paragraphe 1, correspond à l’impôt complémentaire de l’entité constitutive faiblement imposée, calculé selon les modalités de l’article 27, multiplié par la part attribuable à l’entité mère de cet impôt complémentaire au titre de l’année fiscale.». 2. Page 21, à l’article 14, paragraphe 7, premier alinéa: au lieu de: «Les employés dont les coûts salariaux sont comptabilisés dans les états financiers distincts d’un établissement stable conformément à l’article 18, paragraphe 1, et ajustés selon les modalités de l’article 18, paragraphe 2, sont attribués à la juridiction dans laquelle est situé l’établissement permanent.» , lire: «Les employés dont les coûts salariaux sont comptabilisés dans les états financiers distincts d’un établissement permanent conformément à l’article 18, paragraphe 1, et ajustés selon les modalités de l’article 18, paragraphe 2, sont attribués à la juridiction dans laquelle est situé l’établissement permanent.». ELI: http://data.europa.eu/eli/dir/2022/2523/corrigendum/2026-05-26/oj ISSN 1977-0693 (electronic edition)",
+      "text_sha256": "48326f84d137de0460834f90ae8b21092bcb8db10efb30b4f0aadafe235cb13f",
+      "md_span": {
+        "start": 663,
+        "end": 2863
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32004r2006:2004-10-27",
+  "language": "fr",
+  "title": "Regulation (EC) No\u00A02006/2004",
+  "valid_from": "2004-10-27",
+  "valid_to": "2005-06-11",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32004r2006/versions/2004-10-27/fr.xml",
+    "sha256": "40f5b4e6bcf394c1836c2c5ba4e6079415c139a0c308a12bb078451f9c8c6783",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004R2006"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe présent règlement fixe les conditions dans lesquelles les autorités compétentes des États membres, désignées comme responsables de l'application des lois protégeant les intérêts des consommateurs, coopèrent entre elles et avec la Commission afin de garantir le respect de ces lois et le bon fonctionnement du marché intérieur et afin d'améliorer la protection des intérêts économiques des consommateurs.",
+      "text_sha256": "ed40452e6f2fcd10f83a265dd278150587b585dcd5ad40ef8115c6633c5e3118",
+      "md_span": {
+        "start": 579,
+        "end": 1002
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les dispositions en matière d'assistance mutuelle énoncées aux chapitres II et III s'appliquent aux infractions intracommunautaires.\n\n2. Le présent règlement est sans préjudice des règles communautaires de droit international privé, notamment celles relatives à la compétence judiciaire et au droit applicable.\n\n3. Le présent règlement est sans préjudice de l'application, dans les États membres, des mesures relatives à la coopération judiciaire en matière pénale et civile, en particulier le fonctionnement du réseau judiciaire européen.\n\n4. Le présent règlement est sans préjudice du respect par les États membres de toute autre obligation en matière d'assistance mutuelle en ce qui concerne la protection des intérêts économiques collectifs des consommateurs, y compris en matière pénale, découlant d'autres actes juridiques, y compris des accords bilatéraux ou multilatéraux.\n\n5. Le présent règlement est sans préjudice de la directive 98/27/CE du Parlement européen et du Conseil du 19 mai 1998 relative aux actions en cessation en matière de protection des intérêts des consommateurs (9).\n\n6. Le présent règlement est sans préjudice de la législation communautaire relative au marché intérieur, en particulier des dispositions relatives à la libre circulation des biens et services.\n\n7. Le présent règlement est sans préjudice de la législation communautaire relative aux services de radiodiffusion télévisuelle.",
+      "text_sha256": "547203cad4874c9798d34ee39bc5bd17671a0b4bb14f4fdc23b93f3dcb927111",
+      "md_span": {
+        "start": 1035,
+        "end": 2468
+      },
+      "citations": [
+        {
+          "href": "#ntr9-L_2004364FR.01000101-E0009",
+          "text": "(9)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nAux fins du présent règlement, on entend par:\n\n| a) | «lois protégeant les intérêts des consommateurs», les directives telles qu'elles ont été transposées dans l'ordre juridique interne des États membres, et les règlements énumérés à l'annexe; |\n| --- | --- |\n\n| b) | «infraction intracommunautaire», tout acte ou toute omission contraire aux lois protégeant les intérêts des consommateurs, telles qu'elles sont définies au point a), qui porte ou est susceptible de porter atteinte aux intérêts collectifs des consommateurs résidant dans un ou plusieurs États membres autres que celui où l'acte ou l'omission en question a son origine ou a eu lieu, ou sur le territoire duquel le vendeur ou le fournisseur responsable est établi, ou dans lequel se trouvent des preuves ou des actifs en rapport avec l'acte ou l'omission; |\n| --- | --- |\n\n| c) | «autorité compétente», toute autorité publique établie au niveau national, régional ou local et dotée de compétences spécifiques pour assurer le respect des lois protégeant les intérêts des consommateurs; |\n| --- | --- |\n\n| d) | «bureau de liaison unique», l'autorité publique de chaque État membre désignée comme responsable de la coordination de l'application du présent règlement dans l'État membre en question; |\n| --- | --- |\n\n| e) | «agent habilité», un agent d'une autorité compétente désignée comme responsable de l'application du présent règlement; |\n| --- | --- |\n\n| f) | «autorité requérante», l'autorité compétente qui formule une demande d'assistance mutuelle; |\n| --- | --- |\n\n| g) | «autorité requise», l'autorité compétente qui reçoit une demande d'assistance mutuelle; |\n| --- | --- |\n\n| h) | «vendeur ou fournisseur», toute personne physique ou morale qui, eu égard aux lois protégeant les intérêts des consommateurs, agit à des fins qui entrent dans le cadre de son activité commerciale, libérale, artisanale ou professionnelle; |\n| --- | --- |\n\n| i) | «activités de surveillance du marché», les actions d'une autorité compétente chargée de déterminer si des infractions intracommunautaires ont eu lieu sur son territoire; |\n| --- | --- |\n\n| j) | «réclamation d'un consommateur», une déclaration, étayée par des preuves suffisantes, selon laquelle un vendeur ou un fournisseur a commis ou est susceptible de commettre une infraction aux lois protégeant les intérêts des consommateurs; |\n| --- | --- |\n\n| k) | «intérêts collectifs des consommateurs», les intérêts d'un certain nombre de consommateurs qui ont subi ou sont susceptibles de subir un préjudice du fait d'une infraction. |\n| --- | --- |",
+      "text_sha256": "166eeb87cbe7575a20d6ccae8fb040f322dd7f13c35b9137520254d678b088ba",
+      "md_span": {
+        "start": 2501,
+        "end": 5073
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Chaque État membre désigne les autorités compétentes et le bureau de liaison unique responsables de l'application du présent règlement.\n\n2. Chaque État membre peut, s'il le juge nécessaire pour se conformer aux obligations qui lui incombent en vertu du présent règlement, désigner d'autres autorités publiques. Il peut aussi désigner des organismes ayant un intérêt légitime à voir cesser ou interdire les infractions intracommunautaires, conformément à l'article 8, paragraphe 3.\n\n3. Chaque autorité compétente dispose, sans préjudice du paragraphe 4, des pouvoirs d'enquête et d'exécution nécessaires à l'application du présent règlement et les exerce conformément à la législation nationale.\n\n4. Les autorités compétentes peuvent exercer les pouvoirs visés au paragraphe 3 conformément à la législation nationale soit:\n\n| a) | directement sous leur propre autorité ou sous le contrôle des autorités judiciaires, soit |\n| --- | --- |\n\n| b) | en demandant aux juridictions compétentes de rendre la décision nécessaire, y compris, le cas échéant, en formant un recours si cette demande n'aboutit pas. |\n| --- | --- |\n\n5. Dans la mesure où les autorités compétentes exercent leurs pouvoirs en faisant appel aux juridictions conformément au paragraphe 4, point b), ces juridictions sont compétentes pour prendre les décisions nécessaires.\n\n6. Les pouvoirs visés au paragraphe 3 ne sont exercés que lorsqu'il y a de bonnes raisons de soupçonner une infraction intracommunautaire et ils comprennent au moins le droit:\n\n| a) | d'avoir accès à tout document pertinent, sous quelque forme que ce soit, ayant trait à l'infraction intracommunautaire; |\n| --- | --- |\n\n| b) | d'exiger de toute personne qu'elle communique des informations utiles relatives à l'infraction intracommunautaire; |\n| --- | --- |\n\n| c) | de mener les inspections nécessaires sur place; |\n| --- | --- |\n\n| d) | de demander par écrit que le vendeur ou le fournisseur concerné mette fin à l'infraction intracommunautaire; |\n| --- | --- |\n\n| e) | d'obtenir du vendeur ou du fournisseur responsable de l'infraction intracommunautaire l'engagement de mettre fin à l'infraction et, le cas échéant, de rendre public cet engagement; |\n| --- | --- |\n\n| f) | d'exiger la cessation ou l'interdiction de toute infraction intracommunautaire et, le cas échéant, de rendre publiques les décisions qui en découlent; |\n| --- | --- |\n\n| g) | d'exiger de la partie perdante qu'elle dédommage l'État ou le bénéficiaire désigné ou prévu par la législation nationale, en cas de non-exécution de la décision. |\n| --- | --- |\n\n7. Les États membres veillent à ce que les autorités compétentes disposent des ressources nécessaires à l'application du présent règlement. Les agents habilités satisfont à des normes professionnelles et sont soumis à des procédures ou à des règles de conduite internes appropriées, garantissant notamment la protection des personnes physiques à l'égard du traitement des données à caractère personnel, l'équité des procédures et le respect voulu des dispositions prévues à l'article 13 en matière de confidentialité et de secret professionnel.\n\n8. Chaque autorité compétente rend publics les droits et compétences qui lui sont reconnus en vertu du présent règlement et désigne les agents habilités.",
+      "text_sha256": "c7d63033a1f8320972f05256bfba996fd8e16085a90024727bfce2f20b1f979c",
+      "md_span": {
+        "start": 5106,
+        "end": 8388
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Chaque État membre communique à la Commission et aux autres États membres l'identité des autorités compétentes, des autres autorités publiques et des organismes ayant un intérêt légitime à voir cesser ou interdire les infractions intracommunautaires, ainsi que du bureau de liaison unique.\n\n2. La Commission publie et met à jour la liste des bureaux de liaison uniques et des autorités compétentes au Journal officiel de l'Union européenne.",
+      "text_sha256": "9ca010c6ca5da47363451bf5ca16d408d0d325186c957f53764d0924fd79038f",
+      "md_span": {
+        "start": 8421,
+        "end": 8875
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. À la demande de l'autorité requérante, l'autorité requise fournit sans retard, conformément à l'article 4, toute information pertinente requise pour établir si une infraction intracommunautaire s'est produite ou s'il y a de bonnes raisons de soupçonner qu'une telle infraction est susceptible de se produire.\n\n2. L'autorité requise procède, si nécessaire avec le concours d'autres autorités publiques, aux enquêtes appropriées ou prend toute autre mesure nécessaire ou appropriée, conformément à l'article 4, pour réunir les informations requises.\n\n3. À la demande de l'autorité requérante, l'autorité requise peut autoriser un agent habilité de l'autorité requérante à accompagner les agents de l'autorité requise au cours de leurs enquêtes.\n\n4. Les mesures nécessaires à la mise en œuvre du présent article sont adoptées conformément à la procédure visée à l'article 19, paragraphe 2.",
+      "text_sha256": "688b6bd9e4c587a3880747fd8da6e5ee00cf3768ecedf52f1bb3b129aac8e9b7",
+      "md_span": {
+        "start": 8908,
+        "end": 9808
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Lorsqu'une autorité compétente a connaissance d'une infraction intracommunautaire ou a de bonnes raisons de soupçonner qu'une telle infraction est susceptible de se produire, elle en informe les autorités compétentes d'autres États membres ainsi que la Commission, en fournissant sans retard toutes les informations nécessaires.\n\n2. Lorsqu'une autorité compétente prend des mesures d'exécution supplémentaires ou reçoit des demandes d'assistance mutuelle en ce qui concerne l'infraction intracommunautaire, elle en informe les autorités compétentes d'autres États membres et la Commission.\n\n3. Les mesures nécessaires à la mise en œuvre du présent article sont adoptées conformément à la procédure visée à l'article 19, paragraphe 2.",
+      "text_sha256": "508572d35e6f12f5f2f9e154ac3354bdbecd913bf7eadd0d4a2f3680acc341a9",
+      "md_span": {
+        "start": 9841,
+        "end": 10588
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. À la demande de l'autorité requérante, l'autorité requise prend toutes les mesures d'exécution nécessaires pour faire cesser ou interdire sans retard l'infraction intracommunautaire.\n\n2. Afin de remplir les obligations qui lui incombent en vertu du paragraphe 1, l'autorité requise exerce les pouvoirs visés à l'article 4, paragraphe 6, et tout autre pouvoir qui lui est reconnu en vertu de la législation nationale. L'autorité requise détermine, si nécessaire avec le concours d'autres autorités publiques, les mesures d'exécution à prendre pour faire cesser ou interdire l'infraction intracommunautaire d'une manière proportionnée, rationnelle et efficace.\n\n3. L'autorité requise peut également remplir les obligations qui lui incombent en vertu des paragraphes 1 et 2 en chargeant un organisme désigné conformément à l'article 4, paragraphe 2, deuxième phrase, comme ayant un intérêt légitime à voir cesser ou interdire les infractions intracommunautaires de prendre toutes les mesures d'exécution nécessaires mises à sa disposition par la législation nationale pour faire cesser ou interdire l'infraction intracommunautaire au nom de l'autorité requise. Si cet organisme ne parvient pas à faire cesser ou à interdire l'infraction intracommunautaire dans les meilleurs délais, l'autorité requise demeure tenue de remplir les obligations qui lui incombent en vertu des paragraphes 1 et 2.\n\n4. L'autorité requise ne peut prendre les mesures visées au paragraphe 3 que si, après consultation de l'autorité requérante concernant le recours auxdites mesures, cette dernière et elle-même conviennent que:\n\n| — | le recours aux mesures visées au paragraphe 3 pour faire cesser ou interdire l'infraction intracommunautaire sera vraisemblablement au moins aussi efficace qu'une action de l'autorité requise,et |\n| --- | --- |\n\n| — | le fait de charger l'organisme désigné par la législation nationale de prendre lesdites mesures ne donne pas lieu à la divulgation, à cet organisme, d'informations protégées en vertu de l'article 13. |\n| --- | --- |\n\n5. Si l'autorité requérante estime que les conditions prévues au paragraphe 4 ne sont pas remplies, elle en informe par écrit l'autorité requise, motifs à l'appui. Si l'autorité requérante et l'autorité requise sont en désaccord, l'autorité requise peut saisir la Commission, qui rend un avis conformément à la procédure visée à l'article 19, paragraphe 2.\n\n6. L'autorité requise peut consulter l'autorité requérante lorsqu'elle adopte les mesures d'exécution visées aux paragraphes 1 et 2. L'autorité requise informe sans retard l'autorité requérante, les autorités compétentes d'autres États membres et la Commission des mesures prises et de leur effet sur l'infraction intracommunautaire, en indiquant notamment si celle-ci a cessé.\n\n7. Les mesures nécessaires à la mise en œuvre du présent article sont adoptées conformément à la procédure visée à l'article 19, paragraphe 2.",
+      "text_sha256": "efd8f05dfb0597410b4ee0018c66cb86826cbcd2bd9e8142b6a806d9c2c0f43d",
+      "md_span": {
+        "start": 10621,
+        "end": 13558
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Les autorités compétentes coordonnent leurs activités de surveillance du marché et d'exécution de la législation. Elles échangent toutes les informations nécessaires à cette fin.\n\n2. Lorsque des autorités compétentes ont connaissance d'une infraction intracommunautaire portant préjudice aux intérêts de consommateurs dans plus de deux États membres, elles coordonnent leurs mesures d'exécution et leurs demandes d'assistance mutuelle par l'intermédiaire du bureau de liaison unique. Elles s'efforcent en particulier de mener des enquêtes et de prendre des mesures d'exécution de façon simultanée.\n\n3. Les autorités compétentes informent préalablement la Commission de cette coordination et peuvent inviter les agents et les autres personnes les accompagnant autorisées par la Commission à y participer.\n\n4. Les mesures nécessaires à la mise en œuvre du présent article sont adoptées conformément à la procédure visée à l'article 19, paragraphe 2.",
+      "text_sha256": "1670627624527e91083be49431583dda131f18549fee01fffe0fa65ab8f4768d",
+      "md_span": {
+        "start": 13591,
+        "end": 14552
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. La Commission gère une base de données électronique, dans laquelle elle stocke et traite les informations qu'elle reçoit en vertu des articles 7, 8 et 9. La base de données est mise uniquement à la disposition des autorités compétentes à des fins de consultation. En ce qui concerne l'obligation qui leur incombe de notifier les informations à stocker dans la base de données et le traitement de données à caractère personnel que cela suppose, les autorités compétentes sont considérées comme responsables du traitement conformément à l'article 2, point d), de la directive 95/46/CE. En ce qui concerne les obligations qui lui incombent en vertu du présent article et le traitement de données à caractère personnel que cela suppose, la Commission est considérée comme responsable du traitement conformément à l'article 2, point d), du règlement (CE) no 45/2001.\n\n2. Lorsqu'une autorité compétente établit que la notification d'une infraction intracommunautaire qu'elle a effectuée en vertu de l'article 7 s'est ultérieurement révélée infondée, elle retire la notification et la Commission supprime sans délai l'information de la base de données. Lorsqu'une autorité requise notifie à la Commission en vertu de l'article 8, paragraphe 6, qu'une infraction intracommunautaire a cessé, les données stockées au sujet de ladite infraction sont supprimées cinq ans après la notification.\n\n3. Les mesures nécessaires à la mise en œuvre du présent article sont adoptées conformément à la procédure visée à l'article 19, paragraphe 2.",
+      "text_sha256": "30d9eca028125feda6eab22e457de36cf8205faa76597d1d2aea560a021aea3c",
+      "md_span": {
+        "start": 14587,
+        "end": 16127
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Les autorités compétentes remplissent leurs obligations au titre du présent règlement comme si elles agissaient dans l'intérêt des consommateurs de leur pays, soit de leur propre initiative, soit à la demande d'une autre autorité compétente de leur pays.\n\n2. Les États membres prennent toutes les mesures nécessaires pour garantir, par l'intermédiaire du bureau de liaison unique, une coordination efficace de l'application du présent règlement par les autorités compétentes, les autres autorités publiques, les organismes ayant un intérêt légitime à voir cesser ou interdire les infractions intracommunautaires qu'ils auront désignés, ainsi que par les juridictions compétentes.\n\n3. Les États membres encouragent la coopération entre les autorités compétentes et tous les autres organismes ayant un intérêt légitime, en vertu du droit national, à ce que les infractions intracommunautaires cessent ou soient interdites, afin de faire en sorte que les infractions intracommunautaires potentielles soient notifiées sans délai aux autorités compétentes.",
+      "text_sha256": "b14cb055b93bcb200a8a562b1b0f9dffa0686aae98adaf149b3ad8c97f8eb5f5",
+      "md_span": {
+        "start": 16162,
+        "end": 17228
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. L'autorité requérante veille à ce que toute demande d'assistance mutuelle contienne des informations suffisantes pour permettre à l'autorité requise de donner suite à la demande, y compris toute preuve nécessaire qui ne peut être obtenue que sur le territoire de l'autorité requérante.\n\n2. Les demandes sont transmises par l'autorité requérante au bureau de liaison unique de l'autorité requise, via le bureau de liaison unique de l'autorité requérante. Elles sont adressées sans délai par le bureau de liaison unique de l'autorité requise à l'autorité compétente concernée.\n\n3. Les demandes d'assistance et toutes les transmissions d'informations se font par écrit au moyen d'un formulaire standard et sont transmises par voie électronique, via la base de données visée à l'article 10.\n\n4. Les autorités compétentes concernées conviennent des langues à utiliser pour les demandes et les transmissions d'informations avant la présentation des demandes. Faute d'accord, les demandes sont communiquées dans la ou les langues officielles de l'État membre de l'autorité requérante et les réponses dans la ou les langues officielles de l'État membre de l'autorité requise.\n\n5. Les informations transmises à la suite d'une demande sont communiquées directement et simultanément à l'autorité requérante et aux bureaux de liaison uniques de l'autorité requérante et de l'autorité requise.\n\n6. Les mesures nécessaires à la mise en œuvre du présent article sont adoptées conformément à la procédure visée à l'article 19, paragraphe 2.",
+      "text_sha256": "9df03af7686607310b5e7b85b32d238b342ccfadf033b149463c08246f8e7ca4",
+      "md_span": {
+        "start": 17263,
+        "end": 18802
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Les informations fournies peuvent uniquement être utilisées pour assurer le respect des lois protégeant les intérêts des consommateurs.\n\n2. Les autorités compétentes peuvent invoquer comme moyen de preuve des informations, des documents, des constatations, des déclarations, des copies certifiées conformes ou des renseignements transmis, au même titre que des documents analogues obtenus dans leur propre pays.\n\n3. Les informations communiquées, sous quelque forme que ce soit, à des personnes travaillant pour les autorités compétentes, les juridictions, d'autres autorités publiques et la Commission, y compris des informations notifiées à la Commission et enregistrées dans la base de données visée à l'article 10, dont la divulgation porterait atteinte:\n\n| — | à la protection de la vie privée et de l'intégrité de l'individu, notamment en conformité avec la législation communautaire relative à la protection des données à caractère personnel, |\n| --- | --- |\n\n| — | aux intérêts commerciaux d'une personne physique ou morale, y compris en ce qui concerne la propriété intellectuelle, |\n| --- | --- |\n\n| — | aux procédures juridictionnelles et aux avis juridiques,ou |\n| --- | --- |\n\n| — | aux objectifs des activités d'inspection ou d'enquête, |\n| --- | --- |\n\nsont confidentielles et soumises à l'obligation du secret professionnel, sauf si leur divulgation est nécessaire pour faire cesser ou interdire une infraction intracommunautaire et si l'autorité qui communique les informations consent à les divulguer.\n\n4. Aux fins de l'application du présent règlement, les États membres adoptent les mesures législatives nécessaires pour restreindre en tant que de besoin les droits et les obligations prévus aux articles 10, 11 et 12 de la directive 95/46/CE afin de protéger les intérêts visés à l'article 13, paragraphe 1, points d) et f), de ladite directive. La Commission peut restreindre les droits et les obligations visés à l'article 4, paragraphe 1, à l'article 11, à l'article 12, paragraphe 1, aux articles 13 à 17 et à l'article 37, paragraphe 1, du règlement (CE) no 45/2001 si cette restriction constitue une mesure nécessaire pour protéger les intérêts visés à l'article 20, paragraphe 1, points a) et e), dudit règlement.\n\n5. Les mesures nécessaires à la mise en œuvre du présent article sont adoptées conformément à la procédure visée à l'article 19, paragraphe 2.",
+      "text_sha256": "d87e8bd63f3919aebf586eeaf53d1f70525cf707699cb08c7b4e847711c3cabd",
+      "md_span": {
+        "start": 18837,
+        "end": 21237
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Lorsqu'une autorité compétente reçoit des informations d'une autorité d'un pays tiers, elle les transmet aux autorités compétentes concernées d'autres États membres, dans la mesure où les accords d'assistance bilatéraux conclus avec le pays tiers en question l'y autorisent et conformément à la législation communautaire relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel.\n\n2. Une autorité compétente peut également transmettre à l'autorité d'un pays tiers, dans le cadre d'un accord bilatéral d'assistance conclu avec ledit pays, des informations transmises en application du présent règlement, dès lors que l'autorité compétente qui a initialement fourni l'information y consent et conformément à la législation communautaire relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel.",
+      "text_sha256": "1f13ad23b40089921e30fceacda57d283766872b81f3bc3bf5f34d2e27adfad7",
+      "md_span": {
+        "start": 21272,
+        "end": 22178
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Les États membres renoncent à toute demande de remboursement des frais supportés en application du présent règlement. Cependant, lorsque des mesures sont jugées infondées par une juridiction, l'État membre de l'autorité requérante reste responsable, vis-à-vis de l'État membre de l'autorité requise, de tout coût supporté et de toute perte subie de ce fait, pour tout ce qui a trait au fond de l'infraction intracommunautaire.\n\n2. L'autorité requise peut refuser de donner suite à une demande de mesures d'exécution présentée en application de l'article 8, à la suite d'une consultation avec l'autorité requérante si:\n\n| a) | une procédure judiciaire a déjà été engagée ou un jugement définitif a déjà été rendu à l'égard des mêmes infractions intracommunautaires et à l'encontre des mêmes vendeurs ou fournisseurs par les autorités judiciaires de l'État membre de l'autorité requise ou de l'autorité requérante; |\n| --- | --- |\n\n| b) | à son avis, après enquête appropriée de l'autorité requise, il est établi qu'aucune infraction intracommunautaire n'a eu lieu,ou |\n| --- | --- |\n\n| c) | à son avis, l'autorité requérante n'a pas fourni assez d'informations conformément à l'article 12, paragraphe 1, sauf lorsque l'autorité requise a déjà refusé de donner suite à une demande en vertu du paragraphe 3, point c), en ce qui concerne la même infraction intracommunautaire. |\n| --- | --- |\n\n3. L'autorité requise peut refuser de donner suite à une demande d'informations présentée en application de l'article 6 si:\n\n| a) | à son avis, à la suite d'une consultation avec l'autorité requérante, il s'avère que cette dernière n'a pas besoin des informations demandées pour établir si une infraction intracommunautaire s'est produite ou s'il y a de bonnes raisons de soupçonner qu'une telle infraction est susceptible de se produire; |\n| --- | --- |\n\n| b) | l'autorité requérante estime que les informations ne sont pas soumises aux dispositions concernant la confidentialité et le secret professionnel énoncées à l'article 13, paragraphe 3,ou |\n| --- | --- |\n\n| c) | une enquête criminelle ou une procédure judiciaire a déjà été engagée ou un jugement définitif a déjà été rendu à l'égard des mêmes infractions intracommunautaires et à l'encontre des même vendeurs ou fournisseurs par les autorités judiciaires de l'État membre de l'autorité requise ou de l'autorité requérante. |\n| --- | --- |\n\n4. L'autorité requise peut décider de ne pas se conformer aux obligations qui lui incombent en vertu de l'article 7 si une enquête criminelle ou une procédure judiciaire a déjà été engagée ou si un jugement définitif a déjà été rendu à l'égard des mêmes infractions intracommunautaires et à l'encontre des même vendeurs ou fournisseurs par les autorités judiciaires de l'État membre de l'autorité requise ou de l'autorité requérante.\n\n5. L'autorité requise informe l'autorité requérante et la Commission des motifs du rejet de la demande d'assistance. L'autorité requérante peut saisir la Commission, qui rend un avis conformément à la procédure visée à l'article 19, paragraphe 2.\n\n6. Les mesures nécessaires à la mise en œuvre du présent article sont adoptées conformément à la procédure visée à l'article 19, paragraphe 2.",
+      "text_sha256": "30cd1454371a5f80a16a5505e622c497c2b8e7f9dfbfa066baa659dcadb8ed94",
+      "md_span": {
+        "start": 22213,
+        "end": 25445
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Dans la mesure nécessaire à la réalisation des objectifs du présent règlement, les États membres s'informent mutuellement et informent la Commission de leurs activités présentant un intérêt communautaire dans des domaines tels que:\n\n| a) | la formation de leurs agents chargés de veiller à l'application de la législation en matière de protection des consommateurs, y compris la formation linguistique et l'organisation de séminaires de formation; |\n| --- | --- |\n\n| b) | la collecte et le classement des réclamations de consommateurs; |\n| --- | --- |\n\n| c) | la mise en place de réseaux d'agents habilités, spécialisés par secteur; |\n| --- | --- |\n\n| d) | la mise au point d'outils d'information et de communication; |\n| --- | --- |\n\n| e) | l'élaboration de normes, de méthodologies et de lignes directrices en matière de protection des consommateurs destinées aux agents chargés de veiller à l'application de la législation; |\n| --- | --- |\n\n| f) | l'échange de leurs agents. |\n| --- | --- |\n\nLes États membres peuvent, en coopération avec la Commission, mener des activités communes dans les domaines visés aux points a) à f). Les États membres élaborent, en coopération avec la Commission, un cadre commun pour le classement des réclamations des consommateurs.\n\n2. Les autorités compétentes peuvent échanger des agents habilités afin d'améliorer la coopération. Elles prennent les mesures nécessaires pour que les agents habilités faisant l'objet d'un échange jouent un rôle actif dans les activités de l'autorité compétente. À cette fin, lesdits agents sont autorisés à accomplir les tâches qui leur sont confiées par l'autorité compétente d'accueil, dans le respect des lois de l'État membre concerné.\n\n3. Pendant la durée de l'échange, la responsabilité civile et pénale de l'agent habilité est soumise aux mêmes conditions que celle des agents de l'autorité compétente d'accueil. Les agents habilités faisant l'objet d'un échange satisfont à des normes professionnelles et sont soumis aux règles de conduite internes appropriées de l'autorité compétente d'accueil, qui garantissent notamment la protection des personnes physiques à l'égard du traitement des données à caractère personnel, l'équité des procédures et le respect adéquat des dispositions prévues à l'article 13 en matière de confidentialité et de secret professionnel.\n\n4. Les mesures communautaires nécessaires à la mise en œuvre du présent article, y compris les modalités de mise en œuvre des activités communes, sont adoptées conformément à la procédure visée à l'article 19, paragraphe 2.",
+      "text_sha256": "eae67b5abb552bca215038c3589912ad29a88f277445e1d07d58c7bf97e0f45a",
+      "md_span": {
+        "start": 25480,
+        "end": 28060
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. Dans la mesure nécessaire à la réalisation des objectifs du présent règlement, les États membres s'informent mutuellement et informent la Commission de leurs activités présentant un intérêt communautaire dans des domaines tels que:\n\n| a) | la fourniture d'informations et de conseils aux consommateurs; |\n| --- | --- |\n\n| b) | le soutien des activités des représentants des consommateurs; |\n| --- | --- |\n\n| c) | le soutien des activités des organismes chargés du règlement extrajudiciaire des litiges de consommation; |\n| --- | --- |\n\n| d) | l'aide apportée aux consommateurs en matière d'accès à la justice; |\n| --- | --- |\n\n| e) | la collecte de statistiques, des résultats de recherches ou d'autres informations relatives au comportement et à l'attitude des consommateurs ainsi qu'aux conséquences pour eux. |\n| --- | --- |\n\nLes États membres peuvent, en coopération avec la Commission, mener des activités communes dans les domaines visés aux points a) à e). Les États membres élaborent, en coopération avec la Commission, un cadre commun pour les activités visées au point e).\n\n2. Les mesures communautaires nécessaires à la mise en œuvre du présent article, y compris les modalités de mise en œuvre des activités communes, sont adoptées conformément à la procédure visée à l'article 19, paragraphe 2.",
+      "text_sha256": "e046a0a348d4ed260669394ce496fe67adc7fb98f3f0e5631fd4f83557b24b3d",
+      "md_span": {
+        "start": 28095,
+        "end": 29417
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\nLa Communauté coopère avec les pays tiers et les organisations internationales compétentes dans les domaines couverts par le présent règlement afin d'améliorer la protection des intérêts économiques des consommateurs. Les modalités de la coopération, y compris la mise en place de dispositifs d'assistance mutuelle, peuvent faire l'objet d'accords entre la Communauté et les pays tiers concernés.",
+      "text_sha256": "999d9324eee8b91447200ed7b04dce77ba08b2a1364db4b09387c605831c1f41",
+      "md_span": {
+        "start": 29452,
+        "end": 29860
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. La Commission est assistée par un comité.\n\n2. Lorsqu'il est fait référence au présent paragraphe, les articles 5 et 7 de la décision 1999/468/CE s'appliquent, dans le respect des dispositions de l'article 8 de celle-ci.\n\nLa période visée à l'article 5, paragraphe 6, de la décision 1999/468/CE est fixée à trois mois.\n\n3. Le comité adopte son règlement intérieur.",
+      "text_sha256": "b7aef600abaaf1f4e86d991a98fe1d3dc5409e69845a0c6fe990687f319e0e6d",
+      "md_span": {
+        "start": 29895,
+        "end": 30273
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. Le comité peut examiner toute question relative à l'application du présent règlement soulevée par son président, soit à l'initiative de ce dernier, soit à la demande d'un représentant d'un État membre.\n\n2. En particulier, il examine et évalue le fonctionnement des dispositions en matière de coopération prévues par le présent règlement.",
+      "text_sha256": "fe3f2c380bc2f4dff29a35fe2fdad8d1d2471266649c66487505788451302e2e",
+      "md_span": {
+        "start": 30308,
+        "end": 30660
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. Les États membres communiquent à la Commission le texte de toute disposition de droit national qu'ils adoptent ou des accords, autres que ceux traitant de cas individuels, qu'ils concluent dans les matières couvertes par le présent règlement.\n\n2. Tous les deux ans à compter de la date d'entrée en vigueur du présent règlement, les États membres font rapport à la Commission sur l'application du présent règlement. La Commission rend publics ces rapports.\n\n3. Les rapports présentent:\n\n| a) | toute nouvelle information sur l'organisation, les pouvoirs, les ressources ou les responsabilités des autorités compétentes; |\n| --- | --- |\n\n| b) | toute information concernant des tendances, moyens ou méthodes relatifs à la commission des infractions intracommunautaires, en particulier celles qui ont mis en lumière des insuffisances ou des lacunes dans le présent règlement ou les lois protégeant les intérêts des consommateurs; |\n| --- | --- |\n\n| c) | toute information sur les techniques d'exécution de la législation qui ont prouvé leur efficacité; |\n| --- | --- |\n\n| d) | des statistiques récapitulatives sur les activités des autorités compétentes telles que les actions menées au titre du présent règlement, les réclamations reçues, les mesures d'exécution et les décisions rendues; |\n| --- | --- |\n\n| e) | des synthèses des décisions interprétatives majeures rendues par les juridictions nationales concernant les lois protégeant les intérêts des consommateurs; |\n| --- | --- |\n\n| f) | toute autre information ayant trait à l'application du présent règlement. |\n| --- | --- |\n\n4. La Commission soumet au Parlement européen et au Conseil un rapport sur l'application du présent règlement établi sur la base des rapports présentés par les États membres.",
+      "text_sha256": "55903b72a240f343c9cedccf059754aa7b68d3a4e86fb0fcb1594a3775ffaa48",
+      "md_span": {
+        "start": 30695,
+        "end": 32466
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32004r2006:2004-10-27#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à partir du 29 décembre 2005.\n\nLes dispositions en matière d'assistance mutuelle énoncées aux chapitres II et III s'appliquent à partir du 29 décembre 2006.",
+      "text_sha256": "ce236b2b7050be8256966467b8d697b32b82f3044a084ef8adb70341338e484c",
+      "md_span": {
+        "start": 32501,
+        "end": 32815
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

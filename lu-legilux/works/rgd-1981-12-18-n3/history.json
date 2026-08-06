@@ -4,6 +4,7 @@
   "profiles": [
     "pdf-memorial-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -38,5 +39,44 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "1994-07-01",
+          "valid_to": null,
+          "text_sha256": "6f73433a27e62ba0ec5b9abe2558e6f78cfe2503aea3d509e8c7666080cd529b",
+          "in_version": "lu-legilux:rgd-1981-12-18-n3:1994-07-01"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "1994-07-01",
+          "valid_to": null,
+          "text_sha256": "ccd17b852dc6b9280dea0a79f4fe5187f73a7d74e46e97f424e5447b4f44db69",
+          "in_version": "lu-legilux:rgd-1981-12-18-n3:1994-07-01"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "1994-07-01",
+          "valid_to": null,
+          "text_sha256": "cf9a8c6bb6d103f36f7e247b720d6bd2f3604a5103aab34f276b7d506dd02ec0",
+          "in_version": "lu-legilux:rgd-1981-12-18-n3:1994-07-01"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "1994-07-01",
+          "valid_to": null,
+          "text_sha256": "326998d29613d281dc06d29236fa698d061a0a417f74881ede89e4997488f7ff",
+          "in_version": "lu-legilux:rgd-1981-12-18-n3:1994-07-01"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

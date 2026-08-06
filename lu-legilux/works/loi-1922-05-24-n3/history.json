@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -62,5 +63,68 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "1997-01-01",
+          "valid_to": null,
+          "text_sha256": "eb3a9e472f770234f78ca1c0295566fe77728e9ec28948463713a6d1c23fc1a2",
+          "in_version": "lu-legilux:loi-1922-05-24-n3:1997-01-01",
+          "article_valid_from": "1922-06-19",
+          "validity_conflict": true
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "1997-01-01",
+          "valid_to": "2023-06-30",
+          "text_sha256": "3c7a9a8d1059f0e8edbde715d9f12af959defbd77362c472b3682bf4a345aca1",
+          "in_version": "lu-legilux:loi-1922-05-24-n3:1997-01-01",
+          "article_valid_from": "1922-06-19",
+          "validity_conflict": true
+        },
+        {
+          "valid_from": "2023-07-01",
+          "valid_to": null,
+          "text_sha256": "5566c3c4bbcdd0558f6e9cb55ac8c4af4e89da6d178c2691d4f50f461cc7f051",
+          "in_version": "lu-legilux:loi-1922-05-24-n3:2023-07-01",
+          "article_valid_from": "2023-07-01"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "1997-01-01",
+          "valid_to": null,
+          "text_sha256": "d28f2f2d284c273271ee93a2ce6f39927a623baec06530917d584b481a158e72",
+          "in_version": "lu-legilux:loi-1922-05-24-n3:1997-01-01",
+          "article_valid_from": "1997-01-01"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "1997-01-01",
+          "valid_to": null,
+          "text_sha256": "67459500fd7f2d3197f95dd371c86859abc1e0041f6432c8c8b1cfc6a69dca8c",
+          "in_version": "lu-legilux:loi-1922-05-24-n3:1997-01-01",
+          "article_valid_from": "1922-06-19",
+          "validity_conflict": true
+        }
+      ],
+      "article_transitoire": [
+        {
+          "valid_from": "1997-01-01",
+          "valid_to": null,
+          "text_sha256": "76c48e54dc72ca4b76af3c1bc1fb2c1d5a510b65b761898567c3a183278a610b",
+          "in_version": "lu-legilux:loi-1922-05-24-n3:1997-01-01",
+          "article_valid_from": "1922-06-19",
+          "validity_conflict": true
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

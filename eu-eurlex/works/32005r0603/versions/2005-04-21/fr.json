@@ -1,0 +1,175 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32005r0603:2005-04-21",
+  "language": "fr",
+  "title": "Council Regulation (EC) No\u00A0603/2005 of 12 April 2005 amending the lists of insolvency proc…",
+  "valid_from": "2005-04-21",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32005r0603/versions/2005-04-21/fr.html",
+    "sha256": "2c4be552feb288135cc55ca9356082512c4247830a3f4aa643090c190215136b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02005R0603-20050421"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32005r0603:2005-04-21#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le règlement (CE) no 1346/2000 est modifié comme suit:\n\n1) l’annexe A est remplacée par le texte figurant à l’annexe I du présent règlement;\n\n2) l’annexe B est remplacée par le texte figurant à l’annexe II du présent règlement;\n\n3) l’annexe C est remplacée par le texte figurant à l’annexe III du présent règlement.",
+      "text_sha256": "9a6f7e3165dec6825190a58ceb360336d01cb2a2c6243d6daeaefde2a7c57599",
+      "md_span": {
+        "start": 661,
+        "end": 976
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32005r0603:2005-04-21#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans les États membres conformément au traité instituant la Communauté européenne.",
+      "text_sha256": "ed7fdebd34498c2f8caf1257bdb8127c9bca30bf91b4e4b315ea65b056a58076",
+      "md_span": {
+        "start": 1013,
+        "end": 1305
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_i",
+      "provision_id": "eu-eurlex:32005r0603:2005-04-21#annexe_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1344,
+        "end": 1344
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_a",
+      "provision_id": "eu-eurlex:32005r0603:2005-04-21#annexe_a",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "«ANNEXE A",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Procédures d’insolvabilité visées à l’article 2, point a)\n\nBELGIË/BELGIQUE\n\n— Het faillissement/La faillite\n\n— Het gerechtelijk akkoord/Le concordat judiciaire\n\n— De collectieve schuldenregeling/Le règlement collectif de dettes\n\n— De vrijwillige vereffening/La liquidation volontaire\n\n— De gerechtelijke vereffening/La liquidation judiciaire\n\n— De voorlopige ontneming van beheer, bepaald in artikel 8 van de faillissementswet/Le dessaisissement provisoire, visé à l’article 8 de la loi sur les faillites\n\nČESKÁ REPUBLIKA\n\n— Konkurs\n\n— Nucené vyrovnání\n\n— Vyrovnání\n\nDEUTSCHLAND\n\n— Das Konkursverfahren\n\n— Das gerichtliche Vergleichsverfahren\n\n— Das Gesamtvollstreckungsverfahren\n\n— Das Insolvenzverfahren\n\nEESTI\n\n— Pankrotimenetlus\n\nΕΛΛΑΣ\n\n— Η πτώχευση\n\n— Η ειδική εκκαθάριση\n\n— Η προσωρινή διαχείριση εταιρείας. Η διοίκηση και διαχείριση των πιστωτών\n\n— Η υπαγωγή επιχείρησης υπό επίτροπο με σκοπό τη σύναψη συμβιβασμού με τους πιστωτές\n\nESPAÑA\n\n— Concurso\n\nFRANCE\n\n— Liquidation judiciaire\n\n— Redressement judiciaire avec nomination d’un administrateur\n\nIRELAND\n\n— Compulsory winding up by the court\n\n— Bankruptcy\n\n— The administration in bankruptcy of the estate of persons dying insolvent\n\n— Winding-up in bankruptcy of partnerships\n\n— Creditors’ voluntary winding up (with confirmation of a Court)\n\n— Arrangements under the control of the court which involve the vesting of all or part of the property of the debtor in the Official Assignee for realisation and distribution\n\n— Company examinership\n\nITALIA\n\n— Fallimento\n\n— Concordato preventivo\n\n— Liquidazione coatta amministrativa\n\n— Amministrazione straordinaria\n\nΚΥΠΡΟΣ\n\n— Υποχρεωτική εκκαθάριση από το Δικαστήριο\n\n— Εκούσια εκκαθάριση από πιστωτές κατόπιν Δικαστικού Διατάγματος\n\n— Εκούσια εκκαθάριση από μέλη\n\n— Εκκαθάριση με την εποπτεία του Δικαστηρίου\n\n— Πτώχευση κατόπιν Δικαστικού Διατάγματος\n\n— Διαχείριση της περιουσίας προσώπων που απεβίωσαν αφερέγγυα\n\nLATVIJA\n\n— Bankrots\n\n— Izlīgums\n\n— Sanācija\n\nLIETUVA\n\n— įmonės restruktūrizavimo byla\n\n— įmonės bankroto byla\n\n— įmonės bankroto procesas ne teismo tvarka\n\nLUXEMBOURG\n\n— Faillite\n\n— Gestion contrôlée\n\n— Concordat préventif de faillite (par abandon d’actif)\n\n— Régime spécial de liquidation du notariat\n\nMAGYARORSZÁG\n\n— Csődeljárás\n\n— Felszámolási eljárás\n\nMALTA\n\n— Xoljiment\n\n— Amministrazzjoni\n\n— Stralċ volontarju mill-membri jew mill-kredituri\n\n— Stralċ mill-Qorti\n\n— Falliment f’każ ta’ negozjant\n\nNEDERLAND\n\n— Het faillissement\n\n— De surséance van betaling\n\n— De schuldsaneringsregeling natuurlijke personen\n\nÖSTERREICH\n\n— Das Konkursverfahren\n\n— Das Ausgleichsverfahren\n\nPOLSKA\n\n— Postępowanie upadłościowe\n\n— Postępowanie układowe\n\n— Upadłość obejmująca likwidację\n\n— Upadłość z możliwością zawarcia układu\n\nPORTUGAL\n\n— O processo de insolvência\n\n— O processo de falência\n\n— Os processos especiais de recuperação de empresa, ou seja:\n\n— À concordata\n\n— A reconstituição empresarial\n\n— A reestruturação financeira\n\n— A gestão controlada\n\nSLOVENIJA\n\n— Stečajni postopek\n\n— Skrajšani stečajni postopek\n\n— Postopek prisilne poravnave\n\n— Prisilna poravnava v stečaju\n\nSLOVENSKO\n\n— Konkurzné konanie\n\n— Vyrovnanie\n\nSUOMI/FINLAND\n\n— Konkurssi/konkurs\n\n— Yrityssaneeraus/företagssanering\n\nSVERIGE\n\n— Konkurs\n\n— Företagsrekonstruktion\n\nUNITED KINGDOM\n\n— Winding up by or subject to the supervision of the court\n\n— Creditors’ voluntary winding up (with confirmation by the court)\n\n— Administration, including appointments made by filing prescribed documents with the court\n\n— Voluntary arrangements under insolvency legislation\n\n— Bankruptcy or sequestration»",
+      "text_sha256": "67945bdbaba425040dda5bfc1fe957b6f0c1232dc13532dbaf90546060768784",
+      "md_span": {
+        "start": 1384,
+        "end": 4963
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_ii",
+      "provision_id": "eu-eurlex:32005r0603:2005-04-21#annexe_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 5004,
+        "end": 5004
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_b",
+      "provision_id": "eu-eurlex:32005r0603:2005-04-21#annexe_b",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "«ANNEXE B",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Procédures de liquidation visées à l’article 2, point c)\n\nBELGIË/BELGIQUE\n\n–– Het faillissement/La faillite\n\n–– De vrijwillige vereffening/La liquidation volontaire\n\n–– De gerechtelijke vereffening/La liquidation judiciaire\n\nČESKÁ REPUBLIKA\n\n–– Konkurs\n\n–– Nucené vyrovnání\n\nDEUTSCHLAND\n\n–– Das Konkursverfahren\n\n–– Das Gesamtvollstreckungsverfahren\n\n–– Das Insolvenzverfahren\n\nEESTI\n\n–– Pankrotimenetlus\n\nΕΛΛΑΣ\n\n–– Η πτώχευση\n\n–– Η ειδική εκκαθάριση\n\nESPAÑA\n\n–– Concurso\n\nFRANCE\n\n–– Liquidation judiciaire\n\nIRELAND\n\n–– Compulsory winding up\n\n–– Bankruptcy\n\n–– The administration in bankruptcy of the estate of persons dying insolvent\n\n–– Winding-up in bankruptcy of partnerships\n\n–– Creditors’ voluntary winding up (with confirmation of a court)\n\n–– Arrangements under the control of the court which involve the vesting of all or part of the property of the debtor in the Official Assignee for realisation and distribution\n\nITALIA\n\n–– Fallimento\n\n–– Liquidazione coatta amministrativa\n\n–– Concordato preventivo con cessione dei beni\n\nΚΥΠΡΟΣ\n\n–– Υποχρεωτική εκκαθάριση από το Δικαστήριο\n\n–– Εκκαθάριση με την εποπτεία του Δικαστηρίου\n\n–– Εκούσια εκκαθάριση από πιστωτές (με την επικύρωση του Δικαστηρίου)\n\n–– Πτώχευση\n\n–– Διαχείριση της περιουσίας προσώπων που απεβίωσαν αφερέγγυα\n\nLATVIJA\n\n–– Bankrots\n\nLIETUVA\n\n–– įmonės bankroto byla\n\n–– įmonės bankroto procesas ne teismo tvarka\n\nLUXEMBOURG\n\n–– Faillite\n\n–– Régime spécial de liquidation du notariat\n\nMAGYARORSZÁG\n\n–– Felszámolási eljárás\n\nMALTA\n\n–– Stralċ volontarju\n\n–– Stralċ mill-Qorti\n\n–– Falliment inkluż il-ħruġ ta’ mandat ta’ qbid mill-Kuratur f’każ ta’ negozjant fallut\n\nNEDERLAND\n\n–– Het faillissement\n\n–– De schuldsaneringsregeling natuurlijke personen\n\nÖSTERREICH\n\n–– Das Konkursverfahren\n\nPOLSKA\n\n–– Postępowanie upadłościowe\n\n–– Upadłość obejmująca likwidację\n\nPORTUGAL\n\n–– O processo de insolvência\n\n–– O processo de falência\n\nSLOVENIJA\n\n–– Stečajni postopek\n\n–– Skrajšani stečajni postopek\n\nSLOVENSKO\n\n–– Konkurzné konanie\n\n–– Vyrovnanie\n\nSUOMI/FINLAND\n\n–– Konkurssi/konkurs\n\nSVERIGE\n\n–– Konkurs\n\nUNITED KINGDOM\n\n–– Winding up by or subject to the supervision of the court\n\n–– Winding up through administration, including appointments made by filing prescribed documents with the court\n\n–– Creditors’ voluntary winding up (with confirmation by the court)\n\n–– Bankruptcy or sequestration»",
+      "text_sha256": "521c678e1af0d04dc4489c042128a1b2fbce77051a2e76de6268dfb4e0e672db",
+      "md_span": {
+        "start": 5044,
+        "end": 7401
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_iii",
+      "provision_id": "eu-eurlex:32005r0603:2005-04-21#annexe_iii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 7444,
+        "end": 7444
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_c",
+      "provision_id": "eu-eurlex:32005r0603:2005-04-21#annexe_c",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "«ANNEXE C",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Syndics visés à l’article 2, point b)\n\nBELGIË/BELGIQUE\n\n— De curator/Le curateur\n\n— De commissaris inzake opschorting/Le commissaire au sursis\n\n— De schuldbemiddelaar/Le médiateur de dettes\n\n— De vereffenaar/Le liquidateur\n\n— De voorlopige bewindvoerder/L’administrateur provisoire\n\nČESKÁ REPUBLIKA\n\n— Správce podstaty\n\n— Předběžný správce\n\n— Vyrovnací správce\n\n— Zvláštní správce\n\n— Zástupce správce\n\nDEUTSCHLAND\n\n— Konkursverwalter\n\n— Vergleichsverwalter\n\n— Sachwalter (nach der Vergleichsordnung)\n\n— Verwalter\n\n— Insolvenzverwalter\n\n— Sachwalter (nach der Insolvenzordnung)\n\n— Treuhänder\n\n— Vorläufiger Insolvenzverwalter\n\nEESTI\n\n— Pankrotihaldur\n\n— Ajutine pankrotihaldur\n\n— Usaldusisik\n\nΕΛΛΑΣ\n\n— Ο σύνδικος\n\n— Ο προσωρινός διαχειριστής. Η διοικούσα επιτροπή των πιστωτών\n\n— Ο ειδικός εκκαθαριστής\n\n— Ο επίτροπος\n\nESPAÑA\n\n— Administradores concursales\n\nFRANCE\n\n— Représentant des créanciers\n\n— Mandataire liquidateur\n\n— Administrateur judiciaire\n\n— Commissaire à l’exécution de plan\n\nIRELAND\n\n— Liquidator\n\n— Official Assignee\n\n— Trustee in bankruptcy\n\n— Provisional Liquidator\n\n— Examiner\n\nITALIA\n\n— Curatore\n\n— Commissario\n\n— Liquidatore giudiziale\n\nΚΥΠΡΟΣ\n\n— Εκκαθαριστής και Προσωρινός Εκκαθαριστής\n\n— Επίσημος Παραλήπτης\n\n— Διαχειριστής της Πτώχευσης\n\n— Εξεταστής\n\nLATVIJA\n\n— Maksātnespējas procesa administrators\n\nLIETUVA\n\n— Bankrutuojančių įmonių administratorius\n\n— Restruktūrizuojamų įmonių administratorius\n\nLUXEMBOURG\n\n— Le curateur\n\n— Le commissaire\n\n— Le liquidateur\n\n— Le conseil de gérance de la section d’assainissement du notariat\n\nMAGYARORSZÁG\n\n— Vagyonfelügyelő\n\n— Felszámoló\n\nMALTA\n\n— Amministratur Proviżorju\n\n— Riċevitur Uffiċjali\n\n— Stralċjarju\n\n— Manager Speċjali\n\n— Kuraturi f’każ ta’ proċeduri ta’ falliment\n\nNEDERLAND\n\n— De curator in het faillissement\n\n— De bewindvoerder in de surséance van betaling\n\n— De bewindvoerder in de schuldsaneringsregeling natuurlijke personen\n\nÖSTERREICH\n\n— Masseverwalter\n\n— Ausgleichsverwalter\n\n— Sachverwalter\n\n— Treuhänder\n\n— Besondere Verwalter\n\n— Konkursgericht\n\nPOLSKA\n\n— Syndyk\n\n— Nadzorca sądowy\n\n— Zarządca\n\nPORTUGAL\n\n— Administrador da insolvência\n\n— Gestor judicial\n\n— Liquidatário judicial\n\n— Comissão de credores\n\nSLOVENIJA\n\n— Upravitelj prisilne poravnave\n\n— Stečajni upravitelj\n\n— Sodišče, pristojno za postopek prisilne poravnave\n\n— Sodišče, pristojno za stečajni postopek\n\nSLOVENSKO\n\n— Správca\n\n— Predbežný správca\n\n— Nútený správca\n\n— Likvidátor\n\nSUOMI/FINLAND\n\n— Pesänhoitaja/boförvaltare\n\n— Selvittäjä/utredare\n\nSVERIGE\n\n— Förvaltare\n\n— God man\n\n— Rekonstruktör\n\nUNITED KINGDOM\n\n— Liquidator\n\n— Supervisor of a voluntary arrangement\n\n— Administrator\n\n— Official Receiver\n\n— Trustee\n\n— Provisional Liquidator\n\n— Judicial factor»\n\n(1) JO L 160 du 30.6.2000, p. 1. Règlement modifié par l’acte d’adhésion de 2003.",
+      "text_sha256": "96db54b8f916421320d06f667a218c8752d4bfbcad72787f07bd09cec3917172",
+      "md_span": {
+        "start": 7484,
+        "end": 10276
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32005R0603R%2801%29",
+          "text": "32005R0603R(01): REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32005R0603",
+          "text": "32005R0603"
+        },
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

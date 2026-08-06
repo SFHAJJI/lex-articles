@@ -1,0 +1,332 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32012r1257:2012-12-17",
+  "language": "en",
+  "title": "Regulation (EU) No\u00A01257/2012",
+  "valid_from": "2012-12-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32012r1257/versions/2012-12-17/en.xml",
+    "sha256": "c0b91c7f7be8d26c1ff6b4a07fbcb075764529e7090c561e8b65f79257d7fadb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1257"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. This Regulation implements enhanced cooperation in the area of the creation of unitary patent protection, authorised by Decision 2011/167/EU.\n\n2. This Regulation constitutes a special agreement within the meaning of Article 142 of the Convention on the Grant of European Patents of 5 October 1973, as revised on 17 December 1991 and on 29 November 2000 (hereinafter ‘EPC’).",
+      "text_sha256": "2ea565c2c1cc6206f3f67065c22ba9230d28eaaf2661d9fca374b61b005b5d7c",
+      "md_span": {
+        "start": 573,
+        "end": 960
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nFor the purposes of this Regulation, the following definitions shall apply:\n\n| (a) | ‘Participating Member State’ means a Member State which participates in enhanced cooperation in the area of the creation of unitary patent protection by virtue of Decision 2011/167/EU, or by virtue of a decision adopted in accordance with the second or third subparagraph of Article 331(1) of the TFEU, at the time the request for unitary effect as referred to in Article 9 is made; |\n| --- | --- |\n\n| (b) | ‘European patent’ means a patent granted by the European Patent Office (hereinafter ‘EPO’) under the rules and procedures laid down in the EPC; |\n| --- | --- |\n\n| (c) | ‘European patent with unitary effect’ means a European patent which benefits from unitary effect in the participating Member States by virtue of this Regulation; |\n| --- | --- |\n\n| (d) | ‘European Patent Register’ means the register kept by the EPO under Article 127 of the EPC; |\n| --- | --- |\n\n| (e) | ‘Register for unitary patent protection’ means the register constituting part of the European Patent Register in which the unitary effect and any limitation, licence, transfer, revocation or lapse of a European patent with unitary effect are registered; |\n| --- | --- |\n\n| (f) | ‘European Patent Bulletin’ means the periodical publication provided for in Article 129 of the EPC. |\n| --- | --- |",
+      "text_sha256": "38ded1c41a06cb9d36dd566f602dc39b11f58d2e08a7a0ae1b8cb1708dd93c19",
+      "md_span": {
+        "start": 993,
+        "end": 2364
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. A European patent granted with the same set of claims in respect of all the participating Member States shall benefit from unitary effect in the participating Member States provided that its unitary effect has been registered in the Register for unitary patent protection.\n\nA European patent granted with different sets of claims for different participating Member States shall not benefit from unitary effect.\n\n2. A European patent with unitary effect shall have a unitary character. It shall provide uniform protection and shall have equal effect in all the participating Member States.\n\nIt may only be limited, transferred or revoked, or lapse, in respect of all the participating Member States.\n\nIt may be licensed in respect of the whole or part of the territories of the participating Member States.\n\n3. The unitary effect of a European patent shall be deemed not to have arisen to the extent that the European patent has been revoked or limited.",
+      "text_sha256": "8c49763b861aaf03014387cb14e0b0bf2f9d77c4c87044fef44719f1f8a02638",
+      "md_span": {
+        "start": 2397,
+        "end": 3363
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. A European patent with unitary effect shall take effect in the participating Member States on the date of publication by the EPO of the mention of the grant of the European patent in the European Patent Bulletin.\n\n2. The participating Member States shall take the necessary measures to ensure that, where the unitary effect of a European patent has been registered and extends to their territory, that European patent is deemed not to have taken effect as a national patent in their territory on the date of publication of the mention of the grant in the European Patent Bulletin.",
+      "text_sha256": "c02280922313fdd79353d8d1409a487413069dddd80d899669d2b850b11e3527",
+      "md_span": {
+        "start": 3396,
+        "end": 3990
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. The European patent with unitary effect shall confer on its proprietor the right to prevent any third party from committing acts against which that patent provides protection throughout the territories of the participating Member States in which it has unitary effect, subject to applicable limitations.\n\n2. The scope of that right and its limitations shall be uniform in all participating Member States in which the patent has unitary effect.\n\n3. The acts against which the patent provides protection referred to in paragraph 1 and the applicable limitations shall be those defined by the law applied to European patents with unitary effect in the participating Member State whose national law is applicable to the European patent with unitary effect as an object of property in accordance with Article 7.\n\n4. In its report referred to in Article 16(1), the Commission shall evaluate the functioning of the applicable limitations and shall, where necessary, make appropriate proposals.",
+      "text_sha256": "6c0884f5d8b7cdf98bc6b9791616a5096bece0ddd9271fad9c80f4fb2aa93057",
+      "md_span": {
+        "start": 4023,
+        "end": 5023
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThe rights conferred by a European patent with unitary effect shall not extend to acts concerning a product covered by that patent which are carried out within the participating Member States in which that patent has unitary effect after that product has been placed on the market in the Union by, or with the consent of, the patent proprietor, unless there are legitimate grounds for the patent proprietor to oppose further commercialisation of the product.",
+      "text_sha256": "7f370bd1c373a897efb484669f33a0cf4a1a4219fd3235846260b046d8b4bd3c",
+      "md_span": {
+        "start": 5056,
+        "end": 5525
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. A European patent with unitary effect as an object of property shall be treated in its entirety and in all the participating Member States as a national patent of the participating Member State in which that patent has unitary effect and in which, according to the European Patent Register:\n\n| (a) | the applicant had his residence or principal place of business on the date of filing of the application for the European patent; or |\n| --- | --- |\n\n| (b) | where point (a) does not apply, the applicant had a place of business on the date of filing of the application for the European patent. |\n| --- | --- |\n\n2. Where two or more persons are entered in the European Patent Register as joint applicants, point (a) of paragraph 1 shall apply to the joint applicant indicated first. Where this is not possible, point (a) of paragraph 1 shall apply to the next joint applicant indicated in the order of entry. Where point (a) of paragraph 1 does not apply to any of the joint applicants, point (b) of paragraph 1 shall apply accordingly.\n\n3. Where no applicant had his residence, principal place of business or place of business in a participating Member State in which that patent has unitary effect for the purposes of paragraphs 1 or 2, the European patent with unitary effect as an object of property shall be treated in its entirety and in all the participating Member States as a national patent of the State where the European Patent Organisation has its headquarters in accordance with Article 6(1) of the EPC.\n\n4. The acquisition of a right may not be dependent on any entry in a national patent register.",
+      "text_sha256": "3f14fc370939e22c48007a3144dabc8f810e4593cfed2a394de4377eb455d25a",
+      "md_span": {
+        "start": 5558,
+        "end": 7183
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. The proprietor of a European patent with unitary effect may file a statement with the EPO to the effect that the proprietor is prepared to allow any person to use the invention as a licensee in return for appropriate consideration.\n\n2. A licence obtained under this Regulation shall be treated as a contractual licence.",
+      "text_sha256": "2a1e45c7ba51860b94ab759a301c853b9a72536f198145cf82b54ae4d1a92a81",
+      "md_span": {
+        "start": 7216,
+        "end": 7549
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. The participating Member States shall, within the meaning of Article 143 of the EPC, give the EPO the following tasks, to be carried out in accordance with the internal rules of the EPO:\n\n| (a) | to administer requests for unitary effect by proprietors of European patents; |\n| --- | --- |\n\n| (b) | to include the Register for unitary patent protection within the European Patent Register and to administer the Register for unitary patent protection; |\n| --- | --- |\n\n| (c) | to receive and register statements on licensing referred to in Article 8, their withdrawal and licensing commitments undertaken by the proprietor of the European patent with unitary effect in international standardisation bodies; |\n| --- | --- |\n\n| (d) | to publish the translations referred to in Article 6 of Regulation (EU) No 1260/2012 during the transitional period referred to in that Article; |\n| --- | --- |\n\n| (e) | to collect and administer renewal fees for European patents with unitary effect, in respect of the years following the year in which the mention of the grant is published in the European Patent Bulletin; to collect and administer additional fees for late payment of renewal fees where such late payment is made within six months of the due date, as well as to distribute part of the collected renewal fees to the participating Member States; |\n| --- | --- |\n\n| (f) | to administer the compensation scheme for the reimbursement of translation costs referred to in Article 5 of Regulation (EU) No 1260/2012; |\n| --- | --- |\n\n| (g) | to ensure that a request for unitary effect by a proprietor of a European patent is submitted in the language of the proceedings as defined in Article 14(3) of the EPC no later than one month after the mention of the grant is published in the European Patent Bulletin; and |\n| --- | --- |\n\n| (h) | to ensure that the unitary effect is indicated in the Register for unitary patent protection, where a request for unitary effect has been filed and, during the transitional period provided for in Article 6 of Regulation (EU) No 1260/2012, has been submitted together with the translations referred to in that Article, and that the EPO is informed of any limitations, licences, transfers or revocations of European patents with unitary effect. |\n| --- | --- |\n\n2. The participating Member States shall ensure compliance with this Regulation in fulfilling their international obligations undertaken in the EPC and shall cooperate to that end. In their capacity as Contracting States to the EPC, the participating Member States shall ensure the governance and supervision of the activities related to the tasks referred to in paragraph 1 of this Article and shall ensure the setting of the level of renewal fees in accordance with Article 12 of this Regulation and the setting of the share of distribution of the renewal fees in accordance with Article 13 of this Regulation.\n\nTo that end they shall set up a select committee of the Administrative Council of the European Patent Organisation (hereinafter ‘Select Committee’) within the meaning of Article 145 of the EPC.\n\nThe Select Committee shall consist of the representatives of the participating Member States and a representative of the Commission as an observer, as well as alternates who will represent them in their absence. The members of the Select Committee may be assisted by advisers or experts.\n\nDecisions of the Select Committee shall be taken with due regard for the position of the Commission and in accordance with the rules laid down in Article 35(2) of the EPC.\n\n3. The participating Member States shall ensure effective legal protection before a competent court of one or several participating Member States against the decisions of the EPO in carrying out the tasks referred to in paragraph 1.",
+      "text_sha256": "3b55affee8bb7b415df89bc202e018281fccbe41d74449c7cb415c245ca00ae5",
+      "md_span": {
+        "start": 7582,
+        "end": 11389
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nThe expenses incurred by the EPO in carrying out the additional tasks given to it, within the meaning of Article 143 of the EPC, by the participating Member States shall be covered by the fees generated by the European patents with unitary effect.",
+      "text_sha256": "171911e52151dec803ce872eaa5e8d78f11fefdddcf07290abc70eef7c4072b8",
+      "md_span": {
+        "start": 11424,
+        "end": 11683
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Renewal fees for European patents with unitary effect and additional fees for their late payment shall be paid to the European Patent Organisation by the patent proprietor. Those fees shall be due in respect of the years following the year in which the mention of the grant of the European patent which benefits from unitary effect is published in the European Patent Bulletin.\n\n2. A European patent with unitary effect shall lapse if a renewal fee and, where applicable, any additional fee have not been paid in due time.\n\n3. Renewal fees which fall due after receipt of the statement referred to in Article 8(1) shall be reduced.",
+      "text_sha256": "e0c1fce7aa35e742a080e859d03988cefbdc105357075506324479b8d50805b7",
+      "md_span": {
+        "start": 11718,
+        "end": 12364
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Renewal fees for European patents with unitary effect shall be:\n\n| (a) | progressive throughout the term of the unitary patent protection; |\n| --- | --- |\n\n| (b) | sufficient to cover all costs associated with the grant of the European patent and the administration of the unitary patent protection; and |\n| --- | --- |\n\n| (c) | sufficient, together with the fees to be paid to the European Patent Organisation during the pre-grant stage, to ensure a balanced budget of the European Patent Organisation. |\n| --- | --- |\n\n2. The level of the renewal fees shall be set, taking into account, among others, the situation of specific entities such as small and medium-sized enterprises, with the aim of:\n\n| (a) | facilitating innovation and fostering the competitiveness of European businesses; |\n| --- | --- |\n\n| (b) | reflecting the size of the market covered by the patent; and |\n| --- | --- |\n\n| (c) | being similar to the level of the national renewal fees for an average European patent taking effect in the participating Member States at the time the level of the renewal fees is first set. |\n| --- | --- |\n\n3. In order to attain the objectives set out in this Chapter, the level of renewal fees shall be set at a level that:\n\n| (a) | is equivalent to the level of the renewal fee to be paid for the average geographical coverage of current European patents; |\n| --- | --- |\n\n| (b) | reflects the renewal rate of current European patents; and |\n| --- | --- |\n\n| (c) | reflects the number of requests for unitary effect. |\n| --- | --- |",
+      "text_sha256": "1efb0a1d68cc420ea2b00214606f4baab20b7ca2a84469b4d396b5f6f301ad52",
+      "md_span": {
+        "start": 12399,
+        "end": 13951
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. The EPO shall retain 50 per cent of the renewal fees referred to in Article 11 paid for European patents with unitary effect. The remaining amount shall be distributed to the participating Member States in accordance with the share of distribution of the renewal fees set pursuant to Article 9(2).\n\n2. In order to attain the objectives set out in this Chapter, the share of distribution of renewal fees among the participating Member States shall be based on the following fair, equitable and relevant criteria:\n\n| (a) | the number of patent applications; |\n| --- | --- |\n\n| (b) | the size of the market, while ensuring a minimum amount to be distributed to each participating Member State; |\n| --- | --- |\n\n| (c) | compensation to the participating Member States which have:(i)an official language other than one of the official languages of the EPO;(ii)a disproportionately low level of patenting activity; and/or(iii)acquired membership of the European Patent Organisation relatively recently. |\n| --- | --- |\n| (i) | an official language other than one of the official languages of the EPO; |\n| (ii) | a disproportionately low level of patenting activity; and/or |\n| (iii) | acquired membership of the European Patent Organisation relatively recently. |",
+      "text_sha256": "c66579bba1be2b052fcdc5c6d365011b1086a913810ae3d114036aec32f2459c",
+      "md_span": {
+        "start": 13986,
+        "end": 15258
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nThe Commission shall establish a close cooperation through a working agreement with the EPO in the fields covered by this Regulation. This cooperation shall include regular exchanges of views on the functioning of the working agreement and, in particular, on the issue of renewal fees and their impact on the budget of the European Patent Organisation.",
+      "text_sha256": "461503a92297ff4e4d09d87b5cc5d99f319fcab6d9b6d412070c09b38ae31acf",
+      "md_span": {
+        "start": 15293,
+        "end": 15657
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nThis Regulation shall be without prejudice to the application of competition law and the law relating to unfair competition.",
+      "text_sha256": "c9ed993beae453b4b116a2c3dbe93a894876077f2f99b2fc15aa0278a143d93b",
+      "md_span": {
+        "start": 15692,
+        "end": 15828
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Not later than three years from the date on which the first European patent with unitary effect takes effect, and every five years thereafter, the Commission shall present to the European Parliament and the Council a report on the operation of this Regulation and, where necessary, make appropriate proposals for amending it.\n\n2. The Commission shall regularly submit to the European Parliament and the Council reports on the functioning of the renewal fees referred to in Article 11, with particular emphasis on compliance with Article 12.",
+      "text_sha256": "4ca38582305d31ba32f962d71b8ff3af88a5ab29414b5d1b98b0a2e754da6162",
+      "md_span": {
+        "start": 15863,
+        "end": 16418
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. The participating Member States shall notify the Commission of the measures adopted in accordance with Article 9 by the date of application of this Regulation.\n\n2. Each participating Member State shall notify the Commission of the measures adopted in accordance with Article 4(2) by the date of application of this Regulation or, in the case of a participating Member State in which the Unified Patent Court does not have exclusive jurisdiction with regard to European patents with unitary effect on the date of application of this Regulation, by the date from which the Unified Patent Court has such exclusive jurisdiction in that participating Member State.",
+      "text_sha256": "81ab4e0126c2998acc80c62acfc9d455b929afbbfbde293e1f6e8ea28ed56ce1",
+      "md_span": {
+        "start": 16453,
+        "end": 17127
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32012r1257:2012-12-17#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\n2. It shall apply from 1 January 2014 or the date of entry into force of the Agreement on a Unified Patent Court (the ‘Agreement’), whichever is the later.\n\nBy way of derogation from Articles 3(1), 3(2) and 4(1), a European patent for which unitary effect is registered in the Register for unitary patent protection shall have unitary effect only in those participating Member States in which the Unified Patent Court has exclusive jurisdiction with regard to European patents with unitary effect at the date of registration.\n\n3. Each participating Member State shall notify the Commission of its ratification of the Agreement at the time of deposit of its ratification instrument. The Commission shall publish in the Official Journal of the European Union the date of entry into force of the Agreement and a list of the Member States who have ratified the Agreement at the date of entry into force. The Commission shall thereafter regularly update the list of the participating Member States which have ratified the Agreement and shall publish such updated list in the Official Journal of the European Union.\n\n4. The participating Member States shall ensure that the measures referred to in Article 9 are in place by the date of application of this Regulation.\n\n5. Each participating Member State shall ensure that the measures referred to in Article 4(2) are in place by the date of application of this Regulation or, in the case of a participating Member State in which the Unified Patent Court does not have exclusive jurisdiction with regard to European patents with unitary effect on the date of application of this Regulation, by the date from which the Unified Patent Court has such exclusive jurisdiction in that participating Member State.\n\n6. Unitary patent protection may be requested for any European patent granted on or after the date of application of this Regulation.",
+      "text_sha256": "93b171dbcc0fa4b1dfb6fba3e36ee5b1e0b020952891c183b24321e505f51345",
+      "md_span": {
+        "start": 17162,
+        "end": 19203
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

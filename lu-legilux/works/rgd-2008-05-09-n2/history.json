@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -55,5 +56,61 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2011-11-21",
+          "valid_to": null,
+          "text_sha256": "722a28c0cbc294bcdbf125e18217011703cd88110389f72f79b88938a86715b2",
+          "in_version": "lu-legilux:rgd-2008-05-09-n2:2011-11-21",
+          "article_valid_from": "2008-05-19",
+          "validity_conflict": true
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2011-11-21",
+          "valid_to": null,
+          "text_sha256": "bb5928396a0938073a7b59a12c849b11707f0e1494876678a244f363a829424e",
+          "in_version": "lu-legilux:rgd-2008-05-09-n2:2011-11-21",
+          "article_valid_from": "2008-05-19",
+          "validity_conflict": true
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2011-11-21",
+          "valid_to": null,
+          "text_sha256": "125fdad22379bf24dfa2386e3a6260eb7e3daec25309140cd030e9700029162b",
+          "in_version": "lu-legilux:rgd-2008-05-09-n2:2011-11-21",
+          "article_valid_from": "2011-11-21"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2011-11-21",
+          "valid_to": null,
+          "text_sha256": "62c0ceaa40de27eb96248e7a82a3db433fec153ce083e02923382362cd178ad2",
+          "in_version": "lu-legilux:rgd-2008-05-09-n2:2011-11-21",
+          "article_valid_from": "2008-05-19",
+          "validity_conflict": true
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2011-11-21",
+          "valid_to": null,
+          "text_sha256": "589d85aff5e50335af3482aa95c8880d3a49227e2d0170fbca3b85b5d4ae5116",
+          "in_version": "lu-legilux:rgd-2008-05-09-n2:2011-11-21",
+          "article_valid_from": "2008-05-19",
+          "validity_conflict": true
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

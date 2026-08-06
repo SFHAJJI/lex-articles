@@ -1,0 +1,568 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32002l0092:2014-07-02",
+  "language": "fr",
+  "title": "Directive 2002/92/EC",
+  "valid_from": "2014-07-02",
+  "valid_to": "2016-02-22",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32002l0092/versions/2014-07-02/fr.html",
+    "sha256": "1e6e49eeb8ff3546b929a21a938de6c73c1889e9027e4fc60e100f5c1de5c017",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02002L0092-20140702"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Champ d'application",
+      "path": [
+        "CHAPITRE I",
+        "CHAMP D'APPLICATION ET DÉFINITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La présente directive établit des règles concernant l'accès aux activités d'intermédiation en assurance et en réassurance et leur exercice par des personnes physiques et morales qui sont établies ou qui souhaitent s'établir dans un État membre.\n\n2. La présente directive ne s'applique pas aux personnes offrant des services d'intermédiation pour des contrats d'assurance lorsque toutes les conditions suivantes sont remplies:\n\na) le contrat d'assurance requiert uniquement une connaissance de la couverture offerte par l'assurance;\n\nb) le contrat d'assurance n'est pas un contrat d'assurance vie;\n\nc) le contrat d'assurance ne comporte aucune couverture de la responsabilité civile;\n\nd) l'intermédiation en assurance ne constitue pas l'activité professionnelle principale des personnes considérées;\n\ne) l'assurance constitue un complément au produit ou au service fourni par un fournisseur quel qu'il soit, lorsqu'elle couvre:\n\ni) le risque de mauvais fonctionnement, de perte ou d'endommagement des biens fournis par ce fournisseur, ou\n\nii) l'endommagement ou la perte de bagages et les autres risques liés à un voyage réservé auprès de ce fournisseur, même si l'assurance couvre la vie ou la responsabilité civile, à la condition que cette couverture soit accessoire à la couverture principale relative aux risques liés à ce voyage;\n\nf) le montant de la prime annuelle ne dépasse pas 500 euros et la durée totale du contrat d'assurance, reconductions éventuelles comprises, n'est pas supérieure à cinq ans.\n\n3. La présente directive n'est pas applicable aux services d'intermédiation en assurance et en réassurance fournis pour des risques et des engagements situés hors de la Communauté.\n\nLa présente directive n'affecte pas le droit d'un État membre quant à l'activité d'intermédiation en assurance et en réassurance exercée par des intermédiaires d'assurance et en réassurance établis dans un pays tiers et travaillant sur son territoire en vertu du principe de la libre prestation de services, à condition qu'une égalité de traitement soit garantie à toutes les personnes exerçant ou admises à exercer des activités d'intermédiation en assurance sur ce marché.\n\nLa présente directive ne régit pas les activités d'intermédiations en assurance menées dans les pays tiers, ni les activités des entreprises communautaires d'assurance ou de réassurance, telles que définies dans la première directive 73/239/CEE du Conseil du 24 juillet 1973 portant coordination des dispositions législatives, réglementaires et administratives concernant l'accès à l'activité de l'assurance directe autre que l'assurance sur la vie et son exercice (8) et la première directive 79/267/CEE du Conseil du 5 mars 1979 portant coordination des dispositions législatives, réglementaires et administratives concernant l'accès à l'activité de l'assurance directe sur la vie et son exercice (9), menées dans des pays tiers par le biais d'intermédiaires d'assurance.",
+      "text_sha256": "6f201be1f8df8a68c5846d23686992af942b59a3c51a92079398b0261b3270ba",
+      "md_span": {
+        "start": 673,
+        "end": 3617
+      },
+      "citations": [
+        {
+          "href": "#E0008",
+          "text": "8"
+        },
+        {
+          "href": "#E0009",
+          "text": "9"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [
+        "CHAPITRE I",
+        "CHAMP D'APPLICATION ET DÉFINITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Aux fins de la présente directive, on entend par:\n\n1) «entreprise d'assurance», une entreprise qui a reçu un agrément administratif conformément à l'article 6 de la directive 73/239/CEE ou à l'article 6 de la directive 79/267/CEE;\n\n2) «entreprise de réassurance», une entreprise autre qu'une entreprise d'assurance ou une entreprise d'assurance d'un pays tiers, dont l'activité principale consiste à accepter des risques cédés par une entreprise d'assurance, une entreprise d'assurance d'un pays tiers ou d'autres entreprises de réassurance;\n\n3) «intermédiation en assurance», toute activité consistant à présenter ou à proposer des contrats d'assurance ou à réaliser d'autres travaux préparatoires à leur conclusion ou à les conclure, ou à contribuer à leur gestion et à leur exécution, notamment en cas de sinistre.\n\nÀ l’exception du chapitre III *bis* de la présente directive, ces activités ne sont pas considérées comme une intermédiation en assurance ou une distribution d’assurance lorsqu’elles sont exercées par une entreprise d’assurance ou un salarié d’une entreprise d’assurance qui agit sous la responsabilité de celle-ci.\n\nNe sont pas non plus considérées comme une intermédiation en assurance les activités consistant à fournir des informations à titre occasionnel dans le cadre d'une autre activité professionnelle pour autant que ces activités n'aient pas pour objet d'aider le client à conclure ou à exécuter un contrat d'assurance, la gestion, à titre professionnel, des sinistres d'une entreprise d'assurance ou les activités d'estimation et de liquidation des sinistres;\n\n4) «intermédiation en réassurance», toute activité consistant à présenter ou à proposer des contrats de réassurance ou à réaliser d'autres travaux préparatoires à leur conclusion ou à les conclure, ou à contribuer à leur gestion et à leur exécution, notamment en cas de sinistre.\n\nCes activités ne sont pas considérées comme une intermédiation en réassurance lorsqu'elles sont exercées par une entreprise de réassurance ou d'un salarié d'une entreprise de réassurance qui agit sous la responsabilité de celle-ci.\n\nNe sont pas non plus considérées comme une intermédiation en réassurance les activités consistant à fournir des informations à titre occasionnel dans le cadre d'une autre activité professionnelle pour autant que ces activités n'aient pas pour objet d'aider le client à conclure ou à exécuter un contrat de réassurance, la gestion, à titre professionnel, des sinistres d'une entreprise de réassurance ou les activités d'estimation et de liquidation du sinistre;\n\n5) «intermédiaire d'assurance», toute personne physique ou morale qui, contre rémunération, accède à l'activité d'intermédiation en assurance ou l'exerce;\n\n6) «intermédiaire de réassurance», toute personne physique ou morale qui, contre rémunération, accède à l'activité d'intermédiation en réassurance ou l'exerce;\n\n7) «intermédiaire d'assurance lié», toute personne qui exerce une activité d'intermédiation en assurance au nom et pour le compte d'une entreprise d'assurance ou de plusieurs entreprises d'assurance, si les produits d'assurance n'entrent pas en concurrence, mais qui ne perçoit ni les primes ni les sommes destinées au client et agit sous l'entière responsabilité de ces entreprises d'assurance pour les produits qui les concernent respectivement.\n\nEst également considéré comme intermédiaire d'assurance lié, agissant sous la responsabilité d'une ou plusieurs entreprises d'assurance pour les produits qui les concernent respectivement, toute personne, qui exerce une activité d'intermédiation en assurance complémentairement à son activité professionnelle principale, lorsque l'assurance constitue un complément aux biens ou services fournis dans le cadre de cette activité professionnelle principale et qui ne perçoit ni les primes ni les sommes destinées au client;\n\n8) «grands risques», les grands risques tels que définis par l'article 5, point d), de la directive 73/239/CEE;\n\n9) «État membre d'origine»\n\na) lorsque l'intermédiaire est une personne physique, l'État membre dans lequel sa résidence est située et dans lequel il exerce son activité;\n\nb) lorsque l'intermédiaire est une personne morale, l'État membre dans lequel son siège statutaire est situé, ou, si dans son droit national il n'a pas de siège statutaire, l'État membre dans lequel son administration centrale est située;\n\n10) «État membre d'accueil», l'État membre dans lequel un intermédiaire d'assurance ou de réassurance a une succursale ou preste des services;\n\n11) «autorités compétentes», les autorités que chaque État membre désigne conformément à l'article 7;\n\n12) «support durable», tout instrument permettant au client de stocker des informations qui lui sont adressées personnellement, de telle sorte qu'elles puissent être consultées ultérieurement pendant une période adaptée à l'objectif de ces informations, et permettant la reproduction exacte des informations stockées.\n\nEn particulier, la notion de «support durable» inclut les disquettes informatiques, les CD-ROM, les DVD et le disque dur de l'ordinateur du consommateur sur lequel le courrier électronique est stocké, mais ne comprennent pas un site Internet, sauf si ce site satisfait aux critères spécifiés au premier alinéa;\n\n13) Aux fins du chapitre III *bis*, on entend par «produit d’investissement fondé sur l’assurance», un produit d’assurance comportant une durée de vie ou une valeur de rachat qui est totalement ou partiellement exposée, de manière directe ou indirecte, aux fluctuations du marché et ne comprend pas:\n\na) les produits d’assurance non-vie énumérés à l’annexe I de la directive 2009/138/CE (Classification par branche d’assurance non-vie);\n\nb) les contrats d’assurance-vie au titre desquels les prestations prévues par le contrat sont payables uniquement en cas de décès ou d’incapacité due à un accident, à une maladie ou à une infirmité;\n\nc) les produit de retraite, qui sont reconnus par le droit national comme ayant pour objectif premier de fournir à l’investisseur un revenu lors de sa retraite, et qui lui donne le droit à certaines prestations;\n\nd) les régimes de retraite professionnels officiellement reconnus qui relèvent du champ d’application de la directive 2003/41/CE ou de la directive 2009/138/CE;\n\ne) les produits de retraite individuels pour lesquels une contribution financière de l’employeur est requise en vertu du droit national, et l’employeur ou le salarié ne peut pas choisir le fournisseur du produit.",
+      "text_sha256": "7feb43b330a3910809eada30035e01e79909cf2f3686047e5513386a34da877f",
+      "md_span": {
+        "start": 3668,
+        "end": 10152
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32014L0065",
+          "text": "32014L0065: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0092",
+          "text": "32002L0092"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Immatriculation",
+      "path": [
+        "CHAPITRE II",
+        "CONDITIONS D'IMMATRICULATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les intermédiaires d'assurance et de réassurance sont immatriculés par une autorité compétente au sens de l'article 7, paragraphe 2, dans leur État membre d'origine.\n\nSans préjudice du premier alinéa, les États membres peuvent prévoir que les entreprises d'assurance et de réassurance ou d'autres organismes peuvent collaborer avec les autorités compétentes pour l'immatriculation des intermédiaires d'assurance et de réassurance ainsi que pour l'application à leur égard des exigences prévues à l'article 4. En particulier, dans le cas d'intermédiaires d'assurance liés, ils peuvent être immatriculés par une entreprise d'assurance ou une association d'entreprises d'assurance sous le contrôle d'une autorité compétente.\n\nLes États membres ne sont pas tenus d'appliquer l'exigence visée aux premier et deuxième alinéas à toutes les personnes physiques qui travaillent pour une entreprise et exercent une activité d'intermédiation en assurance ou en réassurance.\n\nDans le cas d'une personne morale, les États membres immatriculent cette dernière et indiquent, en outre, dans le registre le nom des personnes physiques, au sein de la direction, qui sont responsables pour les activités d'intermédiation.\n\n2. Les États membres peuvent établir plus d'un registre pour les intermédiaires d'assurance et de réassurance à condition de définir les critères selon lesquels les intermédiaires doivent être immatriculés.\n\nLes États membres veillent à instaurer un guichet unique, permettant un accès aisé et rapide à l'information en provenance de ces différents registres établis par voie électronique et actualisés à tout moment. Ce guichet fournit également les éléments d'identification des autorités compétentes de chaque État membre visées au paragraphe 1, premier alinéa. Le registre indique en outre le ou les pays dans lesquels l'intermédiaire opère en régime de libre établissement ou de libre prestation de services.\n\n3. Les États membres veillent à subordonner l'immatriculation des intermédiaires d'assurance, en ce compris les intermédiaires d'assurance liés, et de réassurance au respect des exigences professionnelles prévues à l'article 4.\n\nLes États membres veillent également à ce que les intermédiaires d'assurance, en ce compris les intermédiaires d'assurance liés, et de réassurance qui cessent de respecter ces exigences soient rayés du registre. La validité de l'immatriculation est réexaminée régulièrement par l'autorité compétente. Si nécessaire, l'État membre d'origine informe, par tous moyens appropriés, l'État membre d'accueil de cette suppression du registre.\n\n4. Les autorités compétentes peuvent délivrer à l'intermédiaire d'assurance ou de réassurance un document de nature à permettre à toute personne intéressée de vérifier par consultation du ou des registres visés au paragraphe 2 qu'il est dûment immatriculé.\n\nCe document fournit, au moins, les informations visées à l'article 12, paragraphe 1, points a) et b) et, dans le cas d'une personne morale, le(s) nom(s) de(s) (la) personne(s) physique(s) citée(s) au paragraphe 1, quatrième alinéa, du présent article.\n\nL'État membre exige que le document soit retourné à l'autorité compétente qui l'a délivré lorsque l'intermédiaire d'assurance ou de réassurance n'est plus immatriculé.\n\n5. Les intermédiaires d'assurance et de réassurance immatriculés sont autorisés à accéder à l'activité d'intermédiation en assurance et en réassurance et à l'exercer dans la Communauté sous le régime tant du libre établissement que de la libre prestation de services.\n\n6. Les États membres veillent à ce que les entreprises d'assurance recourent uniquement aux services d'intermédiation en assurance ou en réassurance fournis par des intermédiaires d'assurance ou de réassurance immatriculés et par les personnes visées à l'article 1er, paragraphe 2.",
+      "text_sha256": "f2f6408a796087692d09ec77a62afb0152fc14092994aa12bb3973acce4620f1",
+      "md_span": {
+        "start": 10257,
+        "end": 14074
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Exigences professionnelles",
+      "path": [
+        "CHAPITRE II",
+        "CONDITIONS D'IMMATRICULATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Tout intermédiaire d'assurance ou de réassurance possède les connaissances et aptitudes appropriées, telles qu'elles sont déterminées par l'État membre d'origine de l'intermédiaire.\n\nLes États membres d'origine peuvent moduler les conditions exigées en matière de connaissances et d'aptitude en fonction de l'activité de l'intermédiaire d'assurance et de réassurance et des produits distribués, plus particulièrement si l'intermédiaire exerce une activité professionnelle principale autre que l'intermédiation en assurance. Dans ce dernier cas, l'intéressé ne peut exercer une activité d'intermédiation en assurance que si un intermédiaire d'assurance répondant aux conditions du présent article ou une entreprise d'assurance assume l'entière responsabilité de ses actes.\n\nLes États membres peuvent prévoir que, pour les cas visés à l'article 3, paragraphe 1, deuxième alinéa, l'entreprise d'assurance vérifie si les connaissances et aptitudes des intermédiaires sont conformes aux exigences du premier alinéa du présent paragraphe et, le cas échéant, dispense une formation qui correspond aux exigences relatives aux produits proposés par ces intermédiaires.\n\nLes États membres ne sont pas tenus d'appliquer l'exigence visée au premier alinéa du présent paragraphe à toutes les personnes physiques qui travaillent pour une entreprise et qui exercent une activité d'intermédiation en assurance ou en réassurance. Les États membres veillent à ce qu'une proportion raisonnable de personnes, au sein de la structure de direction de ces entreprises, responsables pour l'intermédiation en matière de produits d'assurance ainsi que toutes autres personnes prenant directement part à l'intermédiation en assurance ou en réassurance fassent la preuve des connaissances et aptitudes nécessaires pour l'exercice de leurs tâches.\n\n2. Les intermédiaires d'assurance ou de réassurance sont des personnes honorables. Elles ont au minimum un casier judiciaire ou tout autre équivalent national vierge en ce qui concerne des infractions pénales graves liées soit à une atteinte aux biens, soit à d'autres faits punissables portant sur des activités financières, et elles ne devraient jamais avoir été déclarées en faillite, à moins qu'elles n'aient été réhabilitées conformément aux dispositions du droit interne.\n\nLes États membres peuvent permettre, conformément aux dispositions de l'article 3, paragraphe 1, deuxième alinéa, que l'entreprise d'assurance vérifie l'honorabilité des intermédiaires d'assurance.\n\nLes États membres ne sont pas tenus d'appliquer l'exigence visée au premier alinéa du présent paragraphe à toutes les personnes physiques qui travaillent pour une entreprise et qui exercent une activité d'intermédiation en assurance ou en réassurance. Ils veillent à ce que la structure de direction de ces entreprises et le personnel qui prend directement part à l'activité d'intermédiation en assurance ou en réassurance y satisfassent.\n\n3. Tout intermédiaire d'assurance ou de réassurance est couvert par une assurance de la responsabilité civile professionnelle couvrant tout le territoire de la Communauté, ou toute autre garantie équivalente, portant sur la responsabilité résultant d'une faute professionnelle, à raison d'au moins 1 000 000 d'euros par sinistre et 1 500 000 euros globalement, pour l'ensemble des sinistres survenus pendant une année, sauf si cette assurance ou une garantie équivalente lui est déjà fournie par une entreprise d'assurance ou de réassurance ou une autre entreprise, pour le compte de laquelle il agit ou par laquelle il est mandaté ou si cette entreprise assume l'entière responsabilité des actes de l'intermédiaire.\n\n4. Les États membres prennent toutes les mesures nécessaires pour protéger les clients contre l'incapacité de l'intermédiaire d'assurance de transférer la prime à l'entreprise d'assurance ou de transférer le montant de l'indemnisation ou d'une ristourne de prime aux assurés.\n\nCes mesures prennent une ou plusieurs des formes suivantes:\n\na) des dispositions légales ou contractuelles selon lesquelles l'argent versé par le client à l'intermédiaire est considéré comme versé à l'entreprise et l'argent versé par l'entreprise à l'intermédiaire n'est considéré comme versé au client que lorsque celui-ci l'a effectivement reçu;\n\nb) exigence pour l'intermédiaire d'assurance de posséder une capacité financière correspondant à tout moment à 4 % du montant des primes perçues par an, avec un montant minimal de 15 000 euros;\n\nc) exigence que les fonds du client soient transférés par des comptes clients strictement distincts et que ces comptes ne soient pas utilisés afin de rembourser d'autres créanciers en cas de faillite;\n\nd) exigence de la mise en place d'un fonds de garantie.\n\n5. L'exercice des activités d'intermédiation en assurance et en réassurance requiert que les exigences professionnelles énoncées au présent article soient satisfaites en permanence.\n\n6. Les États membres peuvent rendre plus strictes les exigences énoncées dans le présent article ou prévoir des exigences supplémentaires pour les intermédiaires d'assurance ou de réassurance immatriculés sur leur territoire.\n\n7. Les montants visés aux paragraphes 3 et 4 font l'objet d'une révision périodique pour tenir compte de l'évolution de l'indice européen des prix à la consommation, tel que publié par Eurostat. La première révision a lieu cinq ans après la date d'entrée en vigueur de la présente directive et les révisions suivantes chaque fois cinq ans après la révision précédente.\n\nLes adaptations sont automatiques. Le montant de base en euros est augmenté du pourcentage de variation de l'indice susmentionné sur la période allant de l'entrée en vigueur de la présente directive à la date de la première révision ou de la date de la dernière révision à la date de la nouvelle révision, et arrondi à l'euro supérieur.",
+      "text_sha256": "3c758171ddd3f0afeb792ebd31b3b16f72cd9450183b0fb24274218ce35dba97",
+      "md_span": {
+        "start": 14140,
+        "end": 19995
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Maintien des droits acquis",
+      "path": [
+        "CHAPITRE II",
+        "CONDITIONS D'IMMATRICULATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres peuvent prévoir que toute personne qui, avant le 1er septembre 2000, exerçait une activité d'intermédiation, était immatriculée et disposait d'une formation et d'une expérience similaires à celles requises par la présente directive soit automatiquement inscrite dans le registre à créer, lorsque les conditions fixées à l'article 4, paragraphes 3 et 4, sont remplies.",
+      "text_sha256": "ae8a80f962e35245864a19fcc0054f6d93abf2a0e9102bc45a08870de1ab503d",
+      "md_span": {
+        "start": 20061,
+        "end": 20446
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Notification en cas d'établissement ou de prestation de services dans d'autres États membres",
+      "path": [
+        "CHAPITRE II",
+        "CONDITIONS D'IMMATRICULATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Tout intermédiaire d'assurance ou de réassurance qui envisage d'exercer une activité pour la première fois dans un ou plusieurs États membres, en régime de libre prestation de services ou de libre établissement, en informe les autorités compétentes de l'État membre d'origine.\n\nDans un délai d'un mois suivant cette notification, ces autorités compétentes communiquent aux autorités compétentes des États membres d'accueil qui le souhaitent l'intention de l'intermédiaire d'assurance ou de réassurance et en informent concomitamment l'intermédiaire concerné.\n\nL'intermédiaire d'assurance ou de réassurance peut commencer son activité un mois après la date à laquelle il a été informé par les autorités compétentes de l'État membre d'origine de la communication visée au deuxième alinéa. Toutefois, cet intermédiaire peut commencer son activité immédiatement si l'État membre d'accueil ne souhaite pas en être informé.\n\n2. Les États membres communiquent à la Commission leur volonté d'être informés conformément au paragraphe 1. La Commission en avise à son tour tous les États membres.\n\n3. Les autorités compétentes de l'État membre d'accueil peuvent prendre les mesures nécessaires pour assurer la publication de façon appropriée des conditions dans lesquelles, pour des raisons d'intérêt général, les activités concernées doivent être exercées sur leur territoire.",
+      "text_sha256": "3a6163235a3854d4cd534adca9285d3eae1b55bb7ee0e0dbe9b27340fb093872",
+      "md_span": {
+        "start": 20578,
+        "end": 21947
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Autorités compétentes",
+      "path": [
+        "CHAPITRE II",
+        "CONDITIONS D'IMMATRICULATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres désignent les autorités compétentes chargées de veiller à la mise en œuvre de la présente directive. Ils en informent la Commission, en indiquant toute répartition éventuelle de fonctions.\n\n2. Les autorités visées au paragraphe 1 sont soit des autorités publiques, soit des organismes reconnus par le droit national ou par des autorités publiques expressément habilitées à cette fin par le droit national. Elles ne sont pas des entreprises d'assurance ou de réassurance.\n\n3. Les autorités compétentes disposent de tous les pouvoirs nécessaires pour remplir leurs fonctions. Chaque État membre veille, en cas de pluralité d'autorités compétentes sur son territoire, à ce que ces autorités collaborent étroitement, de sorte qu'elles puissent s'acquitter efficacement de leurs tâches respectives.",
+      "text_sha256": "2b93c4c8c761852f94a66ef0d1d597f03541620d7289a3393d93e3af063e800d",
+      "md_span": {
+        "start": 22008,
+        "end": 22822
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Sanctions",
+      "path": [
+        "CHAPITRE II",
+        "CONDITIONS D'IMMATRICULATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres prévoient des sanctions appropriées pour le cas où une personne exerçant l'activité d'intermédiation en assurance ou en réassurance ne serait pas immatriculée dans un État membre et ne serait pas visée par l'article 1er, paragraphe 2.\n\n2. Les États membres prévoient des sanctions appropriées à l'égard des entreprises d'assurance ou de réassurance qui recourent à des services d'intermédiation en assurance ou en réassurance fournis par des personnes qui ne sont pas immatriculées dans un État membre et qui ne sont pas visées par l'article 1er, paragraphe 2.\n\n3. Les États membres prévoient des sanctions appropriées pour le cas où un intermédiaire d'assurance ou de réassurance ne se conformerait pas aux dispositions nationales adoptées en application de la présente directive.\n\n4. La présente directive n'affecte pas le pouvoir des États membres d'accueil de prendre des mesures appropriées pour prévenir ou sanctionner, sur leur territoire, les actes qui sont contraires aux dispositions législatives ou réglementaires qu'ils ont arrêtées pour des raisons d'intérêt général. Cela inclut la possibilité d'empêcher un intermédiaire d'assurance ou de réassurance en infraction d'entreprendre de nouvelles opérations sur leur territoire.\n\n5. Toute mesure adoptée qui comporte des sanctions ou des restrictions aux activités d'un intermédiaire d'assurance ou de réassurance doit être dûment motivée et communiquée à l'intermédiaire concerné. Elle peut faire l'objet d'un recours juridictionnel dans l'État membre qui l'a prise.",
+      "text_sha256": "617a8ab7bf7b8218eed90f92de6683564c9f7e34cfed588f33d7357acd00f27c",
+      "md_span": {
+        "start": 22871,
+        "end": 24420
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Échange d'informations entre États membres",
+      "path": [
+        "CHAPITRE II",
+        "CONDITIONS D'IMMATRICULATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les autorités compétentes des divers États membres coopèrent afin d'assurer la bonne application des dispositions de la présente directive.\n\n2. Les autorités compétentes échangent les informations concernant les intermédiaires d'assurance et de réassurance qui ont fait l'objet d'une sanction prévue à l'article 8, paragraphe 3, ou d'une mesure prévue à l'article 8, paragraphe 4, qui sont susceptibles de conduire à la radiation du registre de ces intermédiaires. De plus, les autorités compétentes peuvent échanger toute information pertinente à la demande de l'une d'entre elles.\n\n3. Toutes les personnes tenues de recevoir ou de divulguer des informations en relation avec la présente directive sont tenues au secret professionnel, comme prévu à l'article 16 de la directive 92/49/CEE du Conseil du 18 juin 1992 portant coordination des dispositions législatives, réglementaires et administratives concernant l'assurance directe autre que l'assurance sur la vie et modifiant les directives 73/239/CEE et 88/357/CEE (troisième directive «assurance non vie») (10) et à l'article 15 de la directive 92/96/CEE du Conseil du 10 novembre 1992 portant coordination des dispositions législatives, réglementaires et administratives concernant l'assurance directe sur la vie, et modifiant les directives 79/267/CEE et 90/619/CEE (troisième directive «assurance vie») (11).",
+      "text_sha256": "7f1d068cfb0c85a96816c5496b071c883181389f3a5edb3fd9f4355ac562d5d0",
+      "md_span": {
+        "start": 24502,
+        "end": 25871
+      },
+      "citations": [
+        {
+          "href": "#E0010",
+          "text": "10"
+        },
+        {
+          "href": "#E0011",
+          "text": "11"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Dépôt de plaintes",
+      "path": [
+        "CHAPITRE II",
+        "CONDITIONS D'IMMATRICULATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres veillent à mettre en place des procédures permettant aux clients et autres intéressés, notamment les associations de consommateurs, de déposer plainte contre des intermédiaires d'assurance et de réassurance. Dans tous les cas, les plaintes reçoivent réponse.",
+      "text_sha256": "3dc45f10393bf62a9f2c1f8c1b0df6e0235795c5257d5a43095bceaa216ca359",
+      "md_span": {
+        "start": 25930,
+        "end": 26206
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Règlement extrajudiciaire des litiges",
+      "path": [
+        "CHAPITRE II",
+        "CONDITIONS D'IMMATRICULATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres encouragent la mise en place de procédures adéquates et efficaces de réclamation et de recours en vue du règlement extrajudiciaire des litiges entre intermédiaires d'assurance et clients en faisant appel, le cas échéant, aux organes existants.\n\n2. Les États membres incitent ces organes à coopérer pour résoudre les litiges transfrontaliers.",
+      "text_sha256": "7a21a2835c8a50108a4a40b1cac88d789bcf8f52884f70cb1d90f1a7f1934202",
+      "md_span": {
+        "start": 26285,
+        "end": 26647
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Informations fournies par l'intermédiaire d'assurance",
+      "path": [
+        "CHAPITRE III",
+        "INFORMATIONS À FOURNIR PAR LES INTERMÉDIAIRES"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Avant la conclusion d'un premier contrat d'assurance et, si nécessaire, à l'occasion de sa modification ou de son renouvellement, un intermédiaire d'assurance fournit au moins au client les informations suivantes:\n\na) son identité et son adresse;\n\nb) le registre dans lequel il a été inscrit et les moyens de vérifier qu'il a été immatriculé;\n\nc) toute participation, directe ou indirecte, supérieure à 10 % des droits de vote ou du capital d'une entreprise d'assurance déterminée qu'il détient;\n\nd) toute participation, directe ou indirecte, supérieure à 10 % des droits de vote ou du capital de l'intermédiaire d'assurance détenue par une entreprise d'assurance déterminée ou par l'entreprise mère d'une entreprise d'assurance déterminée;\n\ne) les procédures visées à l'article 10 permettant aux clients et aux autres intéressés de déposer plainte contre des intermédiaires d'assurance et, le cas échéant, les procédures extrajudiciaires de réclamation et de recours visées à l'article 11.\n\nEn outre, l'intermédiaire d'assurance indique au client, en ce qui concerne le contrat fourni:\n\ni) s'il fonde ses conseils sur l'obligation d'analyse impartiale visée au paragraphe 2, ou\n\nii) s'il est soumis à une obligation contractuelle de travailler, dans le secteur de l'intermédiation en assurance, exclusivement avec une ou plusieurs entreprises d'assurance. Dans ce cas, il communique, à la demande du client, le nom de ces entreprises d'assurance, ou\n\niii) s'il n'est pas soumis à l'obligation contractuelle de travailler, dans le secteur de l'intermédiation en assurance, exclusivement avec une ou plusieurs entreprises d'assurance et s'il ne fonde pas ses conseils sur l'obligation d'analyse impartiale visée au paragraphe 2. Dans ce cas, il communique, à la demande du client, le nom des entreprises d'assurance avec lesquelles il peut travailler et travaille.\n\nDans les cas où il est exigé de fournir ces informations à la demande du client seulement, celui-ci est informé du droit dont il dispose de solliciter ces informations.\n\n2. Lorsque l'intermédiaire d'assurance informe le client qu'il fonde ses conseils sur une analyse impartiale, il est tenu de fonder ces conseils sur l'analyse d'un nombre suffisant de contrats d'assurance offerts sur le marché, de façon à pouvoir recommander, en fonction de critères professionnels, le contrat d'assurance qui serait adapté aux besoins du client.\n\n3. Avant la conclusion d'un contrat d'assurance spécifique, l'intermédiaire d'assurance précise, en particulier sur la base des informations fournies par le client, au minimum les exigences et les besoins de ce client en même temps que les raisons qui motivent tout conseil fourni au client quant à un produit d'assurance déterminé. Ces précisions sont modulées en fonction de la complexité du contrat d'assurance proposé.\n\n4. Il n'est pas nécessaire de fournir les informations visées aux paragraphes 1, 2 et 3 lorsque l'intermédiaire d'assurance intervient dans le cadre de la couverture des grands risques, ni en cas d'intermédiation par des intermédiaires de réassurance.\n\n5. Les États membres peuvent maintenir ou adopter des dispositions plus strictes concernant les exigences en matière d'information prévue au paragraphe 1 dès lors que ces dispositions sont conformes au droit communautaire.\n\nLes États membres communiquent à la Commission les dispositions nationales prévues au premier alinéa.\n\nEn vue d'instaurer un niveau élevé de transparence par tous les moyens appropriés, la Commission veille à ce que les informations relatives aux dispositions nationales qu'elle reçoit soient également communiquées aux consommateurs et aux intermédiaires d'assurance.",
+      "text_sha256": "cf7f2ec4b8082110261acb14a159d4af8a76a8f2043263987afa90f78fd1988e",
+      "md_span": {
+        "start": 26810,
+        "end": 30482
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Modalités d'information",
+      "path": [
+        "CHAPITRE III",
+        "INFORMATIONS À FOURNIR PAR LES INTERMÉDIAIRES"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Toute information fournie aux clients en vertu de l'article 12 est communiquée:\n\na) sur papier ou sur tout autre support durable disponible et accessible au client;\n\nb) avec clarté et exactitude, d'une manière compréhensible pour le client;\n\nc) dans une langue officielle de l'État membre de l'engagement ou dans toute autre langue convenue par les parties.\n\n2. Par dérogation au paragraphe 1, point a), les informations visées à l'article 12 peuvent être fournies oralement lorsque le client le demande ou lorsqu'une couverture immédiate est nécessaire. Dans ces cas, les informations sont fournies au client conformément au paragraphe 1 immédiatement après la conclusion du contrat d'assurance.\n\n3. En cas de vente par téléphone, les informations préalables fournies au client sont conformes aux règles communautaires applicables à la commercialisation à distance de services financiers auprès des consommateurs. En outre, les informations sont fournies au client conformément au paragraphe 1 immédiatement après la conclusion du contrat d'assurance.",
+      "text_sha256": "2852a2af379fbef3e6652b718e3c86a9c90631bff695be6508f06ed49f9a9ef3",
+      "md_span": {
+        "start": 30547,
+        "end": 31602
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32014L0065",
+          "text": "32014L0065: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13_bis",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_13_bis",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13 bis",
+      "heading": "Champ d’application",
+      "path": [
+        "CHAPITRE III BIS",
+        "EXIGENCES SUPPLÉMENTAIRES DE PROTECTION DES CONSOMMATEURS EN CE QUI CONCERNE LES PRODUITS D’INVESTISSEMENT FONDÉS SUR L’ASSURANCE"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sous réserve des exceptions figurant à l’article 2, paragraphe 3, deuxième alinéa, le présent chapitre prévoit des exigences supplémentaires pour les activités d’intermédiation en assurance et pour la vente directe par des entreprises d’assurance dans le cas où existe un lien avec la vente de produits d’investissement fondés sur l’assurance. Ces activités sont appelées «activités de distribution d’assurances».",
+      "text_sha256": "221d09a5d568bf4810a788cc873cd0e6e855ee136aa78cc005ac91d1e66976f9",
+      "md_span": {
+        "start": 31827,
+        "end": 32240
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13_ter",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_13_ter",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13 ter",
+      "heading": "Prévention des conflits d’intérêts",
+      "path": [
+        "CHAPITRE III BIS",
+        "EXIGENCES SUPPLÉMENTAIRES DE PROTECTION DES CONSOMMATEURS EN CE QUI CONCERNE LES PRODUITS D’INVESTISSEMENT FONDÉS SUR L’ASSURANCE"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’intermédiaire ou l’entreprise d’assurance maintient et applique des dispositions organisationnelles et administratives efficaces en vue de prendre toutes les mesures raisonnables destinées à empêcher que des conflits d’intérêts, tels que définis à l’article 13 *quater*, ne portent atteinte aux intérêts de ses clients.",
+      "text_sha256": "ffb92c93949d8ef2b65c1ff42d6d6414b45c49eee986bdc99886524186bfc2ad",
+      "md_span": {
+        "start": 32324,
+        "end": 32645
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13_quater",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_13_quater",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13 quater",
+      "heading": "Conflits d’intérêts",
+      "path": [
+        "CHAPITRE III BIS",
+        "EXIGENCES SUPPLÉMENTAIRES DE PROTECTION DES CONSOMMATEURS EN CE QUI CONCERNE LES PRODUITS D’INVESTISSEMENT FONDÉS SUR L’ASSURANCE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres exigent que les intermédiaires et entreprises d’assurance prennent toutes les mesures appropriées pour détecter les conflits d’intérêts se posant entre eux-mêmes, y compris leurs dirigeants, les membres de leur personnel et leurs intermédiaires d’assurance liés, ou toute personne directement ou indirectement liée à eux par une relation de contrôle, et leurs clients ou entre deux clients, lors de l’exercice d’activités de distribution d’assurances.\n\n2. Lorsque les dispositions organisationnelles ou administratives prises par un intermédiaire d’assurance ou une entreprise d’assurance, conformément à l’article 13 *ter*, pour gérer les conflits d’intérêts ne suffisent pas à garantir, avec une certitude raisonnable, que le risque de porter atteinte aux intérêts des clients sera évité, l’intermédiaire d’assurance ou l’entreprise d’assurance informe clairement ceux-ci, avant d’agir en leur nom, de la nature générale et/ou de la source de ces conflits d’intérêts.\n\n3. La Commission est habilitée à adopter des actes délégués en conformité avec l’article 13 *sexies*, pour:\n\na) définir les mesures que les intermédiaires d’assurance ou entreprises d’assurance peuvent raisonnablement prendre aux fins de détecter, de prévenir, de gérer et de révéler les conflits d’intérêts se posant lors l’exercice d’activités de distribution d’assurances;\n\nb) établir les critères appropriés selon lesquels déterminer les types de conflits d’intérêts dont l’existence peut porter atteinte aux intérêts des clients ou des clients potentiels de l’intermédiaire ou de l’entreprise d’assurance.",
+      "text_sha256": "21755457ef07d827d6aed51098f1ff7d93885b3d8f6dd923b49ddf8da2159dee",
+      "md_span": {
+        "start": 32720,
+        "end": 34322
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13_quinquies",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_13_quinquies",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13 quinquies",
+      "heading": "Principes généraux et information des consommateurs",
+      "path": [
+        "CHAPITRE III BIS",
+        "EXIGENCES SUPPLÉMENTAIRES DE PROTECTION DES CONSOMMATEURS EN CE QUI CONCERNE LES PRODUITS D’INVESTISSEMENT FONDÉS SUR L’ASSURANCE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que, lorsqu’il ou elle exerce une activité de distribution d’assurances, un intermédiaire d’assurance ou une entreprise d’assurance agisse d’une manière honnête, loyale et professionnelle, et ce dans le meilleur intérêt de ses clients.\n\n2. Toutes les communications, y compris commerciales, adressées par l’intermédiaire ou l’entreprise d’assurance à des clients ou à des clients potentiels, sont correctes, claires et non trompeuses. Les informations publicitaires sont clairement identifiables en tant que telles.\n\n3. Les États membres peuvent interdire aux intermédiaires d’assurance et entreprises d’assurance d’accepter ou de percevoir des frais, des commissions ou d’autres avantages monétaires versés ou fournis par un tiers ou par une personne agissant pour le compte d’un tiers, en rapport avec la distribution aux clients de produits d’investissement fondés sur l’assurance.",
+      "text_sha256": "acb8dd430d6f1fc5cb5d2f6da53e9d54ee2422ab809380bec66b1a286beecabd",
+      "md_span": {
+        "start": 34435,
+        "end": 35354
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13_sexies",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_13_sexies",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13 sexies",
+      "heading": "Exercice de la délégation",
+      "path": [
+        "CHAPITRE III BIS",
+        "EXIGENCES SUPPLÉMENTAIRES DE PROTECTION DES CONSOMMATEURS EN CE QUI CONCERNE LES PRODUITS D’INVESTISSEMENT FONDÉS SUR L’ASSURANCE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Le pouvoir d’adopter des actes délégués conféré à la Commission est soumis aux conditions fixées au présent article.\n\n2. Le pouvoir d’adopter des actes délégués visé à l’article 13 *quater* est conféré à la Commission pour une durée indéterminée, à compter du 2 juillet 2014.\n\n3. La délégation de pouvoir visée à l’article 13 *quater* peut être révoquée à tout moment par le Parlement européen ou le Conseil. La décision de révocation met fin à la délégation des pouvoir qui y est précisée. La révocation prend effet le jour suivant celui de la publication de ladite décision au *Journal officiel de l’Union européenne* ou à une date ultérieure qui est précisée dans ladite décision. Elle ne porte pas atteinte à la validité des actes délégués déjà en vigueur.\n\n4. Aussitôt qu’elle adopte un acte délégué, la Commission le notifie au Parlement européen et au Conseil simultanément.\n\n5. Un acte délégué adopté en vertu de l’article 13 *quater* n’entre en vigueur que si le Parlement européen ou le Conseil n’a pas exprimé d’objections dans un délai de trois mois à compter de la notification de cet acte au Parlement européen et au Conseil ou si, avant l’expiration de ce délai, le Parlement européen et le Conseil ont tous deux informé la Commission de leur intention de ne pas exprimer d’objections. Ce délai est prolongé de trois mois à l’initiative du Parlement européen ou du Conseil.",
+      "text_sha256": "f35c8b3a2822eb958e12e339ecb7e6ce3514a96187ffcd3dc14703a59d875482",
+      "md_span": {
+        "start": 35435,
+        "end": 36826
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0092",
+          "text": "32002L0092"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Droit de recours juridictionnel",
+      "path": [
+        "CHAPITRE IV",
+        "DISPOSITIONS FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres garantissent que les décisions prises concernant un intermédiaire d'assurance ou de réassurance ou une entreprise d'assurance en vertu des dispositions législatives, réglementaires et administratives adoptées conformément à la présente directive peuvent faire l'objet d'un recours juridictionnel.",
+      "text_sha256": "fd148fbb56e8383dc30a0f86e0ed12a202e4dcb4cdca4e5edff1cdf8f7434c17",
+      "md_span": {
+        "start": 36941,
+        "end": 37255
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Abrogation",
+      "path": [
+        "CHAPITRE IV",
+        "DISPOSITIONS FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "La directive 77/92/CEE est abrogée avec effet à la date mentionnée à l'article 16, paragraphe 1.",
+      "text_sha256": "9d9ff2fece8bd9a90c16c4a87b1dbe3b3eb0be767c53b2cd9a6fba740cdd0075",
+      "md_span": {
+        "start": 37307,
+        "end": 37403
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Transposition",
+      "path": [
+        "CHAPITRE IV",
+        "DISPOSITIONS FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive avant le 15 janvier 2005. Ils en informent immédiatement la Commission.\n\nCes dispositions contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les États membres communiquent à la Commission le texte des dispositions législatives, réglementaires ou administratives qu'ils adoptent dans le domaine régi par la présente directive. Dans cette communication, ils fournissent un tableau indiquant les dispositions nationales qui correspondent à la présente directive.",
+      "text_sha256": "acdf851cd4c0737f541dbfd549f39800d168b6d9c1c90710dca0301d0a0e42c6",
+      "md_span": {
+        "start": 37458,
+        "end": 38229
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Entrée en vigueur",
+      "path": [
+        "CHAPITRE IV",
+        "DISPOSITIONS FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "La présente directive entre en vigueur le jour de sa publication au *Journal officiel des Communautés européennes*.",
+      "text_sha256": "89ca26fd92a6a7273f9b41c22780bfd4a6b09273c9373b984276fc2d954a7ea0",
+      "md_span": {
+        "start": 38288,
+        "end": 38403
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32002l0092:2014-07-02#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Destinataires",
+      "path": [
+        "CHAPITRE IV",
+        "DISPOSITIONS FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres sont destinataires de la présente directive.\n\n(1) JO C 29 E du 30.1.2001, p. 245.\n\n(2) JO C 221 du 7.8.2001, p. 121.\n\n(3) Avis du Parlement européen du 14 novembre 2001 (JO C 140 E du 13.6.2002, p. 167), position commune du Conseil du 18 mars 2002 (JO C 145 E du 18.6.2002, p. 1) et décision du Parlement européen du 13 juin 2002 (non encore parue au Journal officiel). Décision du Conseil du 28 juin 2002.\n\n(4) JO L 26 du 31.1.1977, p. 14. Directive modifiée en dernier lieu par l'acte d'adhésion de 1994.\n\n(5) JO L 19 du 28.1.1992, p. 32.\n\n(6) JO L 178 du 17.7.2000, p. 1.\n\n(7) JO L 115 du 17.4.1998, p. 31.\n\n(8) JO L 228 du 16.8.1973, p. 3. Directive modifiée en dernier lieu par la directive 2002/13/CE du Parlement européen et du Conseil (JO L 77 du 20.3.2002, p. 17).\n\n(9) JO L 63 du 13.3.1979, p. 1. Directive modifiée en dernier lieu par la directive 2002/12/CE du Parlement européen et du Conseil (JO L 77 du 20.3.2002, p. 11).\n\n(10) JO L 228 du 11.8.1992, p. 1. Directive modifiée en dernier lieu par la directive 2000/64/CE du Parlement européen et du Conseil (JO L 290 du 17.11.2000, p. 27).\n\n(11) JO L 360 du 9.12.1992, p. 1. Directive modifiée en dernier lieu par la directive 2000/64/CE du Parlement européen et du Conseil.",
+      "text_sha256": "4a97a8e2c0e594429106afec2589d054b342aa387395db41249b169f3a6abb5b",
+      "md_span": {
+        "start": 38458,
+        "end": 39714
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        },
+        {
+          "href": "#src.E0008",
+          "text": "8"
+        },
+        {
+          "href": "#src.E0009",
+          "text": "9"
+        },
+        {
+          "href": "#src.E0010",
+          "text": "10"
+        },
+        {
+          "href": "#src.E0011",
+          "text": "11"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

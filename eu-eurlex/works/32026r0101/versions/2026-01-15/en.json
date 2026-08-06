@@ -1,0 +1,217 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0101:2026-01-15",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2026/101 of 15\u00A0January 2026 on setting out the technical specifications and other requirements for the decentralised IT system, as referenced in Regulation (EU)\u00A02023/2844",
+  "valid_from": "2026-01-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0101/versions/2026-01-15/en.xml",
+    "sha256": "f742f37b75dabbdf4482a9e6bd32595939cd3b6287097787f510cfa1aea80537",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0101"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation applies to:\n\n| (1) | Electronic communications in the procedures established by:(a)Regulation (EC) No 1896/2006 of the European Parliament and of the Council (7).(b)Regulation (EC) No 861/2007 of the European Parliament and of the Council (8).(c)Council Framework Decision 2002/584/JHA (9).(d)Directive 2014/41/EU of the European Parliament and of the Council (10).(e)Regulation (EU) 2018/1805 of the European Parliament and of the Council (11). |\n| --- | --- |\n| (a) | Regulation (EC) No 1896/2006 of the European Parliament and of the Council (7). |\n| (b) | Regulation (EC) No 861/2007 of the European Parliament and of the Council (8). |\n| (c) | Council Framework Decision 2002/584/JHA (9). |\n| (d) | Directive 2014/41/EU of the European Parliament and of the Council (10). |\n| (e) | Regulation (EU) 2018/1805 of the European Parliament and of the Council (11). |\n\n| (2) | Electronic communications in the procedure established by Article 19a of Regulation (EU) 2020/1784, as introduced by Article 24(3) of Regulation (EU) 2023/2844 for the electronic service of documents through the European electronic access point. |\n| --- | --- |",
+      "text_sha256": "6dd2103b93b991999e08a8df722a072fcf011a26e78f42b0a888238b282ac3ee",
+      "md_span": {
+        "start": 755,
+        "end": 1919
+      },
+      "citations": [
+        {
+          "href": "#ntr7-L_202600101EN.000101-E0007",
+          "text": "(7)"
+        },
+        {
+          "href": "#ntr8-L_202600101EN.000101-E0008",
+          "text": "(8)"
+        },
+        {
+          "href": "#ntr9-L_202600101EN.000101-E0009",
+          "text": "(9)"
+        },
+        {
+          "href": "#ntr10-L_202600101EN.000101-E0010",
+          "text": "(10)"
+        },
+        {
+          "href": "#ntr11-L_202600101EN.000101-E0011",
+          "text": "(11)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThe technical specifications, measures and objectives of the decentralised IT system, referred to in Article 10(1), points (a), (b), (c) and (d), of Regulation (EU) 2023/2844 shall be as set out in Annex I to this Regulation.",
+      "text_sha256": "a6bda693007840d20250f29fef55f8089a04401781f85bbdfc9f0c532a5d2925",
+      "md_span": {
+        "start": 1952,
+        "end": 2188
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThe digital procedural standard applicable to electronic communication through the decentralised IT system in the procedure under Regulation (EC) No 1896/2006 shall be as set out in Annex II to this Regulation.",
+      "text_sha256": "cbc27e8105fb96c101820755071583fffe450317f089461a8e7c9850ae2e3f22",
+      "md_span": {
+        "start": 2221,
+        "end": 2442
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThe digital procedural standard applicable to electronic communication through the decentralised IT system in the procedure under Regulation (EC) No 861/2007 shall be as set out in Annex III to this Regulation.",
+      "text_sha256": "b35389d95cd2ae66a00a50ef3458c73a241cc2f4e7df1f8b288be8e02fd1e45b",
+      "md_span": {
+        "start": 2475,
+        "end": 2696
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThe digital procedural standard applicable to electronic communication through the decentralised IT system in procedures under Framework Decision 2002/584/JHA shall be as set out in Annex IV to this Regulation.",
+      "text_sha256": "11120c9e6be5e7ae765c293f82abdc0c36e7941b6639951d27291b788eb9ae25",
+      "md_span": {
+        "start": 2729,
+        "end": 2950
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThe digital procedural standard applicable to electronic communication through the decentralised IT system in procedures under Directive 2014/41/EU shall be as set out in Annex V to this Regulation.",
+      "text_sha256": "aaa4ffdfe6f7c0462ce6b94ad1f4c64730d72c14bc8e5470753ca0f87f5fd73b",
+      "md_span": {
+        "start": 2983,
+        "end": 3192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nThe digital procedural standard applicable to electronic communication through the decentralised IT system in procedures under Regulation (EU) 2018/1805 shall be as set out in Annex VI to this Regulation.",
+      "text_sha256": "9509aa231f6cfd59a85ce3f54a3da82b4d242a58369b48c768897d205c64211a",
+      "md_span": {
+        "start": 3225,
+        "end": 3440
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nThe digital procedural standard applicable to electronic communication through the decentralised IT system in the procedure established by Article 19a of Regulation (EU) 2020/1784, as introduced by Article 24(3) of Regulation (EU) 2023/2844 for the electronic service of documents through the European electronic access point shall be as set out in Annex VII to this Regulation.",
+      "text_sha256": "0b05d3b79d5fc219caddd7e2a6e4ed7cdc205c418195423fd8246e61b14ca0c0",
+      "md_span": {
+        "start": 3473,
+        "end": 3862
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nThe implementation timetable referred to in Article 10(1), point (f), of Regulation (EU) 2023/2844 shall be as set out in Annex VIII of this Regulation.",
+      "text_sha256": "05ff5a28fcea6ce8fc732825e404179a30c200d19a5e51f7747febba39c3ecd7",
+      "md_span": {
+        "start": 3895,
+        "end": 4058
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32026r0101:2026-01-15#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "bc76379acc813c6b825e443aa7fba591492be48eb630cb7c4154716c8b2646e8",
+      "md_span": {
+        "start": 4093,
+        "end": 4245
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

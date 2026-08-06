@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r1353:2014-12-15",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) No 1353/2014 of 15 December 2014 amending Implemen…",
+  "valid_from": "2014-12-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r1353/versions/2014-12-15/en.xml",
+    "sha256": "7ff2dac5070d172df122a2526120bd5b85b5ca4c6b26ed449da73c55bfea7b74",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R1353"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r1353:2014-12-15#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nRegulation (EU) No 1156/2012 is amended as follows:\n\n| (1) | The following Article 1a is inserted:‘Article 1aThe computerised format to be used for the mandatory automatic exchange of information pursuant to Article 8(1) of Directive 2011/16/EU shall comply with Annex V to this Regulation.’ |\n| --- | --- |\n\n| (2) | Annex V to Regulation (EU) No 1156/2012 is added as set out in the Annex to this Regulation. |\n| --- | --- |",
+      "text_sha256": "ff57d540f1371b2789d7ae952e39be3a08f8b813dd971462d1b28ce33913c346",
+      "md_span": {
+        "start": 636,
+        "end": 1072
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r1353:2014-12-15#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2015.",
+      "text_sha256": "94da88a8ee1585b3ba7e0b67a90b45e24190e7cc906e989728208ecd51c1876b",
+      "md_span": {
+        "start": 1105,
+        "end": 1289
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

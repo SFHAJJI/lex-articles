@@ -1,0 +1,93 @@
+{
+  "lex_work_id": "eu-eurlex:32008l0024",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "art_1": [
+      {
+        "valid_from": "2008-03-11",
+        "valid_to": null,
+        "text_sha256": "0aa5e4dc9ba44e519b67e4f35b47b90d8f5efdff9aa808549120d5db2e4f2ac3",
+        "in_version": "eu-eurlex:32008l0024:2008-03-11"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2008-03-11",
+        "valid_to": null,
+        "text_sha256": "02ed70a573f1427d8abfd4a643c971e17457bf41c10b27929236f28bbdfa8dfe",
+        "in_version": "eu-eurlex:32008l0024:2008-03-11"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2008-03-11",
+        "valid_to": null,
+        "text_sha256": "a648e391cf45d83a390256e7887418fe953be787a39b45794ff48844dbb61ca6",
+        "in_version": "eu-eurlex:32008l0024:2008-03-11"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "en": {
+      "art_1": [
+        {
+          "valid_from": "2008-03-11",
+          "valid_to": null,
+          "text_sha256": "0aa5e4dc9ba44e519b67e4f35b47b90d8f5efdff9aa808549120d5db2e4f2ac3",
+          "in_version": "eu-eurlex:32008l0024:2008-03-11"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2008-03-11",
+          "valid_to": null,
+          "text_sha256": "02ed70a573f1427d8abfd4a643c971e17457bf41c10b27929236f28bbdfa8dfe",
+          "in_version": "eu-eurlex:32008l0024:2008-03-11"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2008-03-11",
+          "valid_to": null,
+          "text_sha256": "a648e391cf45d83a390256e7887418fe953be787a39b45794ff48844dbb61ca6",
+          "in_version": "eu-eurlex:32008l0024:2008-03-11"
+        }
+      ]
+    },
+    "fr": {
+      "art_1": [
+        {
+          "valid_from": "2008-03-11",
+          "valid_to": null,
+          "text_sha256": "9acb0fba52a6d89806763fc25e44fc0156f3da7cd819426dddf1dce8d86db52b",
+          "in_version": "eu-eurlex:32008l0024:2008-03-11"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2008-03-11",
+          "valid_to": null,
+          "text_sha256": "5ffa3de0b6d958ac35f217b1a44af42f4b0df46250edacd6f69010d623227f09",
+          "in_version": "eu-eurlex:32008l0024:2008-03-11"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2008-03-11",
+          "valid_to": null,
+          "text_sha256": "833ef98fd4609c381caf373799d137893cdd0c15b1e98bdbe87eebad7a8f7e8b",
+          "in_version": "eu-eurlex:32008l0024:2008-03-11"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": []
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2690:2024-10-17",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2024/2690 of 17\u00A0October 2024 laying down rules for…",
+  "valid_from": "2024-10-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2690/versions/2024-10-17/fr.xml",
+    "sha256": "646e9e14ace9a1f96826b0c77c1c108092044ebecb1ca3fc305164923052e207",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R2690"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe présent règlement établit, en ce qui concerne les fournisseurs de services DNS, les registres des noms de domaines de premier niveau, les fournisseurs de services d’informatique en nuage, les fournisseurs de services de centres de données, les fournisseurs de réseaux de diffusion de contenu, les fournisseurs de services gérés, les fournisseurs de services de sécurité gérés, les fournisseurs de places de marché en ligne, de moteurs de recherche en ligne et de plateformes de services de réseaux sociaux et les fournisseurs de services de confiance (ci-après les «entités concernées»), les exigences techniques et méthodologiques liées aux mesures visées à l’article 21, paragraphe 2, de la directive (UE) 2022/2555 et précise plus en détail les cas dans lesquels un incident devrait être considéré comme important au sens de l’article 23, paragraphe 3, de la directive (UE) 2022/2555.",
+      "text_sha256": "616d1cf8ce60a4678c3a23ffe1e9ee89376103d6b2646f019cb68868e5647a53",
+      "md_span": {
+        "start": 636,
+        "end": 1543
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Pour les entités concernées, les exigences techniques et méthodologiques liées aux mesures de gestion des risques de cybersécurité visées à l’article 21, paragraphe 2, points a) à j), de la directive (UE) 2022/2555 sont énoncées à l’annexe du présent règlement.\n\n2. Lorsqu’elles mettent en œuvre et appliquent les exigences techniques et méthodologiques liées aux mesures de gestion des risques de cybersécurité énoncées à l’annexe du présent règlement, les entités concernées assurent un niveau de sécurité des réseaux et des systèmes d’information adapté aux risques présents. À cette fin, lorsqu’elles se conforment aux exigences techniques et méthodologiques liées aux mesures de gestion des risques en matière de cybersécurité énoncées à l’annexe du présent règlement, elles tiennent dûment compte de leur degré d’exposition aux risques, de leur taille et de la probabilité de survenance d’incidents, ainsi que de leur gravité, y compris de leur impact sociétal et économique.\n\nLorsque l’annexe du présent règlement prévoit qu’une exigence technique ou méthodologique liée à une mesure de gestion des risques de cybersécurité est appliquée «s’il est besoin», «s’il y a lieu» ou «dans la mesure du possible», et lorsqu’une entité concernée estime qu’il n’est pas besoin, qu’il n’y a pas lieu, ou qu’il est impossible pour elle d’appliquer certaines de ces exigences techniques et méthodologiques, elle documente de manière compréhensible son argumentation en ce sens.",
+      "text_sha256": "9b8018908a0784dc45bdb63194b44c37ae4eb2b4147201707cc8b7d888fa66f0",
+      "md_span": {
+        "start": 1576,
+        "end": 3061
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Un incident est considéré comme important au sens de l’article 23, paragraphe 3, de la directive (UE) 2022/2555 eu égard aux entités concernées lorsqu’un ou plusieurs des critères suivants sont remplis:\n\n| a) | l’incident a causé ou est susceptible de causer à l’entité concernée une perte financière directe supérieure à 500 000 EUR ou à 5 % du chiffre d’affaires annuel total de l’entité concernée au cours de l’exercice complet précédent, le montant le plus faible étant retenu; |\n| --- | --- |\n\n| b) | l’incident a causé ou est susceptible de provoquer l’exfiltration de secrets d’affaires de l’entité concernée, au sens de l’article 2, point 1), de la directive (UE) 2016/943; |\n| --- | --- |\n\n| c) | l’incident a causé ou est susceptible de causer la mort d’une personne physique; |\n| --- | --- |\n\n| d) | l’incident a causé ou est susceptible de causer des dommages considérables à la santé d’une personne physique; |\n| --- | --- |\n\n| e) | il y a eu un accès non autorisé effectif au réseau et aux systèmes d’information d’une entité concernée, qui est suspecté d’être malveillant et est susceptible de causer une perturbation opérationnelle grave; |\n| --- | --- |\n\n| f) | l’incident répond aux critères énoncés à l’article 4; |\n| --- | --- |\n\n| g) | l’incident répond à un ou plusieurs des critères énoncés aux articles 5 à 14. |\n| --- | --- |\n\n2. Les interruptions de service programmées et les conséquences prévues des opérations de maintenance programmées effectuées par les entités concernées ou pour leur compte ne sont pas considérées comme des incidents importants.\n\n3. Lorsqu’elles calculent le nombre d’utilisateurs touchés par un incident aux fins de l’article 7 et des articles 9 à 14, les entités concernées tiennent compte de l’ensemble des éléments suivants:\n\n| a) | le nombre de clients ayant conclu, avec l’entité concernée, un contrat qui leur donne accès au réseau et aux systèmes d’information de l’entité concernée ou aux services proposés par ce réseau et ces systèmes d’information ou accessibles par leur intermédiaire; |\n| --- | --- |\n\n| b) | le nombre de personnes physiques et morales associées à des clients professionnels qui utilisent le réseau et les systèmes d’information de l’entité concernée ou les services proposés par ce réseau et ces systèmes d’information ou accessibles par leur intermédiaire. |\n| --- | --- |",
+      "text_sha256": "4ec16b0520e88e3fe118770c61b409ae75aee7d2b2a4c1bc03e9c3c153546247",
+      "md_span": {
+        "start": 3094,
+        "end": 5464
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes incidents qui, pris isolément, ne sont pas considérés comme des incidents importants au sens de l’article 3 sont considérés collectivement comme un incident important lorsqu’ils remplissent l’ensemble des critères suivants:\n\n| a) | ils se sont produits au moins deux fois en six mois; |\n| --- | --- |\n\n| b) | ils ont la même cause originelle apparente; |\n| --- | --- |\n\n| c) | ils répondent collectivement aux critères énoncés à l’article 3, paragraphe 1, point a). |\n| --- | --- |",
+      "text_sha256": "7e9d8a21ef0c77acc7fc0dd0844aaa963b407953d65988c27ad1ee0fe2ac5220",
+      "md_span": {
+        "start": 5497,
+        "end": 5993
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nEn ce qui concerne les fournisseurs de services DNS, un incident est considéré comme important au sens de l’article 3, paragraphe 1, point g), lorsqu’il remplit un ou plusieurs des critères suivants:\n\n| a) | un service de résolution de noms de domaine récursif ou faisant autorité est totalement indisponible pendant plus de 30 minutes; |\n| --- | --- |\n\n| b) | pendant une période de plus d’une heure, un service de résolution de noms de domaine récursif ou faisant autorité a un temps de réponse moyen aux demandes DNS supérieur à 10 secondes; |\n| --- | --- |\n\n| c) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées à la fourniture du service de résolution de nom de domaine faisant autorité est compromise, sauf dans les cas où les données de moins de 1 000 noms de domaine gérées par le fournisseur de services DNS, ne représentant pas plus de 1 % des noms de domaine gérés par ce fournisseur, ne sont pas correctes en raison d’une mauvaise configuration. |\n| --- | --- |",
+      "text_sha256": "1a6582802a066c7e54e92e3a7885c1543c90fa149dc21fba25c20991cc02c455",
+      "md_span": {
+        "start": 6026,
+        "end": 7064
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nEn ce qui concerne les registres de noms de domaine de premier niveau, un incident est considéré comme important au sens de l’article 3, paragraphe 1, point g), lorsqu’il remplit un ou plusieurs des critères suivants:\n\n| a) | un service de résolution de noms de domaine faisant autorité est totalement indisponible; |\n| --- | --- |\n\n| b) | pendant une période de plus d’une heure, un service de résolution de noms de domaine faisant autorité a un temps de réponse moyen aux demandes DNS supérieur à 10 secondes; |\n| --- | --- |\n\n| c) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées au fonctionnement technique du domaine de premier niveau est compromise. |\n| --- | --- |",
+      "text_sha256": "325c53c233970d7e9e75de28dde65b60ea86e6eee81d961bc150ae88d989d33a",
+      "md_span": {
+        "start": 7097,
+        "end": 7833
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nEn ce qui concerne les fournisseurs de services d’informatique en nuage, un incident est considéré comme important au sens de l’article 3, paragraphe 1, point g), lorsqu’il remplit un ou plusieurs des critères suivants:\n\n| a) | un service d’informatique en nuage est totalement indisponible pendant plus de 30 minutes; |\n| --- | --- |\n\n| b) | la disponibilité d’un service d’informatique en nuage d’un fournisseur est limitée pour plus de 5 % des utilisateurs de ce service dans l’Union, ou pour plus de 1 million d’utilisateurs de ce service dans l’Union, le plus petit nombre étant retenu, pendant plus d’une heure; |\n| --- | --- |\n\n| c) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées à la fourniture d’un service d’informatique en nuage est compromise par une action suspectée d’être malveillante, |\n| --- | --- |\n\n| d) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées à la fourniture d’un service d’informatique en nuage est compromise, ce qui a un impact sur plus de 5 % des utilisateurs de ce service dans l’Union, ou sur plus de 1 million d’utilisateurs de ce service dans l’Union, le plus petit nombre étant retenu. |\n| --- | --- |",
+      "text_sha256": "5a36f20b45d81e95b248bd51a778f02ef8bdf68b6397e42d937b63a31854c129",
+      "md_span": {
+        "start": 7866,
+        "end": 9126
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nEn ce qui concerne les fournisseurs de services de centres de données, un incident est considéré comme important au sens de l’article 3, paragraphe 1, point g), lorsqu’il remplit un ou plusieurs des critères suivants:\n\n| a) | un service d’un centre de données exploité par le fournisseur est totalement indisponible; |\n| --- | --- |\n\n| b) | la disponibilité d’un service d’un centre de données exploité par le fournisseur est limitée pendant plus d’une heure; |\n| --- | --- |\n\n| c) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées à la fourniture d’un service de centre de données est compromise par une action suspectée d’être malveillante, |\n| --- | --- |\n\n| d) | l’accès physique à un centre de données exploité par le fournisseur est compromis. |\n| --- | --- |",
+      "text_sha256": "37ca5fe93bd3733101b3106d8c26adc8c06456ed1b2bea49b4e91ba7c3962864",
+      "md_span": {
+        "start": 9159,
+        "end": 9988
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nEn ce qui concerne les fournisseurs de services de réseaux de diffusion de contenu, un incident est considéré comme important au sens de l’article 3, paragraphe 1, point g), lorsqu’il remplit un ou plusieurs des critères suivants:\n\n| a) | un réseau de diffusion de contenu est totalement indisponible pendant plus de 30 minutes; |\n| --- | --- |\n\n| b) | la disponibilité d’un réseau de diffusion de contenu est limitée pour plus de 5 % des utilisateurs de ce réseau dans l’Union, ou pour plus de 1 million d’utilisateurs de ce réseau dans l’Union, le plus petit nombre étant retenu, pendant plus d’une heure; |\n| --- | --- |\n\n| c) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées à la fourniture d’un réseau de diffusion de contenu est compromise par une action suspectée d’être malveillante, |\n| --- | --- |\n\n| d) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées à la fourniture d’un réseau de diffusion de contenu est compromise, ce qui a un impact sur plus de 5 % des utilisateurs de ce réseau dans l’Union, ou sur plus de 1 million d’utilisateurs de ce réseau dans l’Union, le plus petit nombre étant retenu. |\n| --- | --- |",
+      "text_sha256": "c8bb6d2eea9b3d54f9ab32b6683ea110088c9c9a4b3e261c222924bf09644700",
+      "md_span": {
+        "start": 10021,
+        "end": 11267
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nEn ce qui concerne les fournisseurs de services gérés et les fournisseurs de services de sécurité gérés, un incident est considéré comme important au sens de l’article 3, paragraphe 1, point g), lorsqu’il remplit un ou plusieurs des critères suivants:\n\n| a) | un service géré ou un service de sécurité géré est totalement indisponible pendant plus de 30 minutes; |\n| --- | --- |\n\n| b) | la disponibilité d’un service géré ou d’un service de sécurité géré est limitée pour plus de 5 % des utilisateurs de ce service dans l’Union, ou pour plus de 1 million d’utilisateurs de ce service dans l’Union, le plus petit nombre étant retenu, pendant plus d’une heure; |\n| --- | --- |\n\n| c) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées à la fourniture d’un service géré ou d’un service de sécurité géré est compromise par une action suspectée d’être malveillante, |\n| --- | --- |\n\n| d) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées à la fourniture d’un service géré ou d’un service de sécurité géré est compromise, ce qui a un impact sur plus de 5 % des utilisateurs de ce service géré ou service de sécurité géré dans l’Union, ou sur plus de 1 million d’utilisateurs de ces services dans l’Union, le plus petit nombre étant retenu. |\n| --- | --- |",
+      "text_sha256": "2d3932557b2980a30981f318801d9d310153f907ab77a71cd6ceef27f6b618d5",
+      "md_span": {
+        "start": 11302,
+        "end": 12667
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nEn ce qui concerne les fournisseurs de places de marché en ligne, un incident est considéré comme important au sens de l’article 3, paragraphe 1, point g), lorsqu’il remplit un ou plusieurs des critères suivants:\n\n| a) | une place de marché en ligne est totalement indisponible pour plus de 5 % des utilisateurs de cette place de marché en ligne dans l’Union, ou pour plus de 1 million d’utilisateurs de cette place de marché en ligne dans l’Union, le plus petit nombre étant retenu; |\n| --- | --- |\n\n| b) | plus de 5 % des utilisateurs d’une place de marché en ligne dans l’Union, ou plus de 1 million d’utilisateurs d’une place de marché en ligne dans l’Union, le plus petit nombre étant retenu, sont touchés par la disponibilité limitée de cette place de marché en ligne; |\n| --- | --- |\n\n| c) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées à la fourniture d’une place de marché en ligne est compromise par une action suspectée d’être malveillante, |\n| --- | --- |\n\n| d) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées à la fourniture d’une place de marché en ligne est compromise, ce qui a un impact sur plus de 5 % des utilisateurs de cette place de marché en ligne dans l’Union, ou sur plus de 1 million d’utilisateurs de cette place de marché en ligne dans l’Union, le plus petit nombre étant retenu. |\n| --- | --- |",
+      "text_sha256": "c347585d735b88879be90afbe8daf4c8f36d34c3641a957d88d6bd5b8db70b0b",
+      "md_span": {
+        "start": 12702,
+        "end": 14148
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nEn ce qui concerne les fournisseurs de moteurs de recherche en ligne, un incident est considéré comme important au sens de l’article 3, paragraphe 1, point g), lorsqu’il remplit un ou plusieurs des critères suivants:\n\n| a) | un moteur de recherche en ligne est totalement indisponible pour plus de 5 % des utilisateurs de ce moteur de recherche en ligne dans l’Union, ou pour plus de 1 million d’utilisateurs de ce moteur de recherche en ligne dans l’Union, le plus petit nombre étant retenu; |\n| --- | --- |\n\n| b) | plus de 5 % des utilisateurs d’un moteur de recherche en ligne dans l’Union, ou plus de 1 million d’utilisateurs d’un moteur de recherche en ligne dans l’Union, le plus petit nombre étant retenu, sont touchés par la disponibilité limitée de ce moteur de recherche en ligne; |\n| --- | --- |\n\n| c) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées à la fourniture d’un moteur de recherche en ligne est compromise par une action suspectée d’être malveillante, |\n| --- | --- |\n\n| d) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées à la fourniture d’un moteur de recherche en ligne est compromise, ce qui a un impact sur plus de 5 % des utilisateurs de ce moteur de recherche en ligne dans l’Union, ou sur plus de 1 million d’utilisateurs de ce moteur de recherche en ligne dans l’Union, le plus petit nombre étant retenu. |\n| --- | --- |",
+      "text_sha256": "eae0612b13dc0e5b3f321fb00bea8438d21eeb6ebed9a4ebbdd59b957c864523",
+      "md_span": {
+        "start": 14183,
+        "end": 15653
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nEn ce qui concerne les fournisseurs de plateformes de services de réseaux sociaux, un incident est considéré comme important au sens de l’article 3, paragraphe 1, point g), lorsqu’il remplit un ou plusieurs des critères suivants:\n\n| a) | une plateforme de services de réseaux sociaux est totalement indisponible pour plus de 5 % des utilisateurs de cette plateforme dans l’Union, ou pour plus de 1 million d’utilisateurs de cette plateforme dans l’Union, le plus petit nombre étant retenu; |\n| --- | --- |\n\n| b) | plus de 5 % des utilisateurs d’une plateforme de services de réseaux sociaux dans l’Union, ou plus de 1 million d’utilisateurs d’une plateforme de services de réseaux sociaux dans l’Union, le plus petit nombre étant retenu, sont touchés par la disponibilité limitée de cette plateforme; |\n| --- | --- |\n\n| c) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées à la fourniture d’une plateforme de services de réseaux sociaux est compromise par une action suspectée d’être malveillante, |\n| --- | --- |\n\n| d) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées à la fourniture d’une plateforme de services de réseaux sociaux est compromise, ce qui a un impact sur plus de 5 % des utilisateurs de cette plateforme dans l’Union, ou sur plus de 1 million d’utilisateurs de cette plateforme dans l’Union, le plus petit nombre étant retenu. |\n| --- | --- |",
+      "text_sha256": "a2927738f2a36fd6636c52254177fcf9a66833af25562c32fa3a4f0bc29f088d",
+      "md_span": {
+        "start": 15688,
+        "end": 17166
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nEn ce qui concerne les fournisseurs de services de confiance, un incident est considéré comme important au sens de l’article 3, paragraphe 1, point g), lorsqu’il remplit un ou plusieurs des critères suivants:\n\n| a) | un service de confiance est totalement indisponible pendant plus de 20 minutes; |\n| --- | --- |\n\n| b) | un service de confiance est indisponible pour les utilisateurs ou les parties utilisatrices pendant plus d’une heure, le calcul étant effectué sur la base d’une semaine civile; |\n| --- | --- |\n\n| c) | plus de 1 % des utilisateurs ou des parties utilisatrices dans l’Union, ou plus de 200 000 utilisateurs ou parties utilisatrices dans l’Union, le plus petit nombre étant retenu, sont touchés par la disponibilité limitée de ce service de confiance; |\n| --- | --- |\n\n| d) | l’accès physique à une zone où sont situés des réseaux et des systèmes d’information et dont l’accès est limité au personnel de confiance du fournisseur de services de confiance, ou bien la protection de cet accès physique, est compromis; |\n| --- | --- |\n\n| e) | l’intégrité, la confidentialité ou l’authenticité des données stockées, transmises ou traitées liées à la fourniture d’un service de confiance est compromise, ce qui a un impact sur plus de 0,1 % des utilisateurs ou des parties utilisatrices, ou sur plus de 100 utilisateurs ou parties utilisatrices de ce service de confiance dans l’Union, le plus petit nombre étant retenu. |\n| --- | --- |",
+      "text_sha256": "30fe91a4e8c2621f194ab475be491a1feb7807ef385cafc8ac0a30d376407238",
+      "md_span": {
+        "start": 17201,
+        "end": 18661
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nLe règlement d’exécution (UE) 2018/151 (4) de la Commission est abrogé.",
+      "text_sha256": "698ce2c8a6352ff16cdb59e89e565cfc28bd33c8484ee03c280b4d46e25019cd",
+      "md_span": {
+        "start": 18696,
+        "end": 18779
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_202402690FR.000101-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32024r2690:2024-10-17#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "0e109c8aa01017614981888320dd1fd9a00652f8252e9a6dd89464b3aa8835fa",
+      "md_span": {
+        "start": 18814,
+        "end": 18956
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

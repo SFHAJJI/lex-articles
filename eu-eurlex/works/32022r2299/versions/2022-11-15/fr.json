@@ -1,0 +1,371 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r2299:2022-11-15",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2022/2299 of 15\u00A0November 2022 laying down rules for the application of Regulation (EU) 2018/1999",
+  "valid_from": "2022-11-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r2299/versions/2022-11-15/fr.xml",
+    "sha256": "0a57aa1fbf0f728f0413cb042dc39059426e0787c73bbbee9265145f86d2452f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2299"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nAux fins du présent règlement, on entend par:\n\n| 1) | «obligatoire si applicable», les catégories d’informations suivantes que les États membres sont tenus de soumettre:a)si les États membres ont défini ou adopté des objectifs généraux nationaux, des objectifs spécifiques nationaux et des contributions nationales ou des politiques et des mesures nationales, des informations à cet égard;b)si la Commission a adressé une recommandation en application de l’article 32, paragraphe 1 ou 2, du règlement (UE) 2018/1999, des informations sur la manière dont les États membres y donnent suite; |\n| --- | --- |\n| a) | si les États membres ont défini ou adopté des objectifs généraux nationaux, des objectifs spécifiques nationaux et des contributions nationales ou des politiques et des mesures nationales, des informations à cet égard; |\n| b) | si la Commission a adressé une recommandation en application de l’article 32, paragraphe 1 ou 2, du règlement (UE) 2018/1999, des informations sur la manière dont les États membres y donnent suite; |\n\n| 2) | «obligatoire si disponible», une catégorie d’informations que les États membres ne sont tenus de soumettre que si ces informations sont à leur disposition au moment de la soumission du rapport d’avancement bisannuel. |\n| --- | --- |",
+      "text_sha256": "6c2bfb854b255968f80a9f90ce012decf07cdcba23eeac481cf7db36fe104da5",
+      "md_span": {
+        "start": 681,
+        "end": 1978
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les États membres communiquent les informations sur les progrès accomplis en vue de la réalisation des objectifs généraux, y compris de l’objectif de neutralité climatique de l’Union énoncé à l’article 2, paragraphe 1, du règlement (UE) 2021/1119 du Parlement européen et du Conseil (3), et des objectifs spécifiques en matière d’émissions et d’absorptions de gaz à effet de serre énoncés à l’article 4, point a) 1), du règlement (UE) 2018/1999 en respectant les formats définis à l’annexe I du présent règlement.\n\nLa Commission considère les rapports bisannuels soumis par les États membres conformément à l’article 18, paragraphe 1, point b), du règlement (UE) 2018/1999 et les rapports annuels soumis conformément à l’article 26, paragraphe 3, dudit règlement, compte tenu des contrôles initiaux visés à l’article 37, paragraphe 4, dudit règlement, comme des déclarations soumises dans le cadre des rapports d’avancement nationaux intégrés bisannuels en matière d’énergie et de climat conformément à l’article 17, paragraphe 1, dudit règlement en ce qui concerne les émissions de gaz à effet de serre.\n\n2. Les États membres communiquent les informations sur les progrès accomplis en vue de la réalisation des objectifs généraux, des objectifs spécifiques et des contributions se rapportant aux énergies renouvelables conformément à l’article 4, point a) 2), et l’article 20, point a), du règlement (UE) 2018/1999 en respectant les formats définis à l’annexe II du présent règlement.\n\n3. Les États membres communiquent les informations sur l’adaptation conformément à l’article 4, point a) 1), du règlement (UE) 2018/1999 en respectant les formats définis à l’annexe III du présent règlement.",
+      "text_sha256": "86254a60b5747c57df546296ec8337149c6b9cb8f49dc2e05ec5618748fe830f",
+      "md_span": {
+        "start": 2011,
+        "end": 3719
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2022306FR.01000101-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLes États membres communiquent les informations sur les progrès accomplis en vue de la réalisation des objectifs généraux, des objectifs spécifiques et des contributions se rapportant à l’efficacité énergétique conformément à l’article 4, point b), et à l’article 21, point a), du règlement (UE) 2018/1999 en respectant les formats définis à l’annexe IV du présent règlement.",
+      "text_sha256": "3cf64db5e79c5c0f7f3985278838efd745d99447e8761d823ae278f92120b894",
+      "md_span": {
+        "start": 3752,
+        "end": 4138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes États membres communiquent les informations sur les progrès accomplis en vue de la réalisation des objectifs généraux, des objectifs spécifiques et des contributions se rapportant à la sécurité énergétique conformément à l’article 4, point c), et à l’article 22, points a) à d), du règlement (UE) 2018/1999 en respectant les formats définis à l’annexe V du présent règlement.",
+      "text_sha256": "5878775ef8b4f58f2330231bd22a8c8ed55597a1a3d008d95dc20618c1f6f853",
+      "md_span": {
+        "start": 4171,
+        "end": 4561
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLes États membres communiquent les informations sur les progrès accomplis en vue de la réalisation des objectifs généraux, des objectifs spécifiques et des contributions se rapportant au marché intérieur de l’énergie conformément à l’article 4, point d), et à l’article 23, paragraphe 1, points a) à g), du règlement (UE) 2018/1999 en respectant les formats définis à l’annexe VI du présent règlement.",
+      "text_sha256": "1daefe66f4129ab9009d41bd15af08f8fb5b1aa0891c7a371087e5d087a1af32",
+      "md_span": {
+        "start": 4594,
+        "end": 5006
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Les États membres communiquent les informations sur les progrès accomplis en vue de la réalisation des objectifs généraux, des objectifs spécifiques et des contributions se rapportant à la recherche, l’innovation et la compétitivité conformément à l’article 4, point e), et à l’article 25, points a) à c), du règlement (UE) 2018/1999 en respectant les formats définis à l’annexe VII du présent règlement.\n\n2. Les États membres communiquent les informations sur les progrès accomplis en vue de la réalisation des objectifs généraux nationaux visant l’élimination progressive des subventions à l’énergie, en particulier celles en faveur des combustibles fossiles, conformément à l’article 25, point d), du règlement (UE) 2018/1999 en respectant les formats définis à l’annexe VIII du présent règlement.",
+      "text_sha256": "cdc767d177532a89235202648f574c52d54ebdf80b128ec889ad4d6b444e38b1",
+      "md_span": {
+        "start": 5039,
+        "end": 5853
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Les États membres communiquent les informations sur les progrès accomplis en vue de la mise en œuvre des politiques et mesures nationales et, le cas échéant, des politiques et mesures mises à jour ou nouvelles, ou des groupes de politiques et mesures mises à jour ou nouvelles, visées à l’article 17, paragraphe 2, points a) et c), et aux articles 20 à 25 du règlement (UE) 2018/1999 en respectant les formats définis à l’annexe IX du présent règlement.\n\n2. La Commission considère les informations communiquées tous les deux ans par les États membres conformément à l’article 18, paragraphe 1, point a), du règlement (UE) 2018/1999 comme des déclarations soumises aux fins des rapports d’avancement nationaux intégrés bisannuels en matière d’énergie et de climat conformément à l’article 17, paragraphe 1, dudit règlement en ce qui concerne le domaine des émissions de gaz à effet de serre. Les États membres complètent les rapports en vertu de l’article 18, paragraphe 1, point a), au moyen des informations visées aux articles 10 et 11 du présent règlement.\n\n3. Lorsque les États membres communiquent les informations sur les nouvelles politiques et mesures visées à l’article 21, point b) 3), du règlement (UE) 2018/1999, leur déclaration respecte les formats définis à l’annexe X du présent règlement.",
+      "text_sha256": "b6f38fc537e6481ae98e628021534ce6b30f692e646cd743a6cafe5cb8c3a4b3",
+      "md_span": {
+        "start": 5886,
+        "end": 7206
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nLes États membres communiquent les informations visées à l’annexe IX, partie 2, points b) à d), du règlement (UE) 2018/1999 en respectant les formats définis à l’annexe XI du présent règlement.",
+      "text_sha256": "b3109621c939dcd8415a5401e533207dc11c226eee882140402a849f23f1dc10",
+      "md_span": {
+        "start": 7239,
+        "end": 7443
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Les États membres déclarent la surface au sol totale des bâtiments rénovés chauffés et/ou refroidis possédés et occupés par leur gouvernement central telle que visée à l’annexe IX, partie 2, point g), du règlement (UE) 2018/1999 en respectant les formats définis dans le tableau 1 de l’annexe XII du présent règlement.\n\n2. Les États membres déclarent le volume d’économies d’énergie dans les bâtiments concernés possédés et occupés par leur gouvernement central tel que visé à l’annexe IX, partie 2, point g), du règlement (UE) 2018/1999 en respectant les formats définis dans le tableau 2 de l’annexe XII du présent règlement.",
+      "text_sha256": "958f9def04d45b51eb510ac0f9979cadf68fe31e5fb8d6806cd40450c7d5fae2",
+      "md_span": {
+        "start": 7476,
+        "end": 8117
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nLes États membres communiquent les informations sur les progrès accomplis en vue du financement des politiques et des mesures, ou des groupes de politiques et de mesures, visées à l’article 17, paragraphe 2, point a), à l’article 20, point b) 3), à l’article 21, point b) 7), à l’article 22, point g), à l’article 23, paragraphe 1, point j), et à l’article 25, point g), du règlement (UE) 2018/1999 et déclarées conformément à l’article 7, paragraphe 1, du présent règlement, y compris une comparaison de l’investissement réel et des hypothèses d’investissement initiales, en respectant les formats définis à l’annexe XIII du présent règlement.",
+      "text_sha256": "a6f28e2352ce77733696802fa08daa2c77c419cc1cac8c8c2e57e192bce4351b",
+      "md_span": {
+        "start": 8152,
+        "end": 8808
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nLorsque les États membres communiquent des informations sur la quantification de l’impact des politiques et des mesures, ou des groupes de politiques et de mesures, sur la qualité de l’air et sur les émissions de polluants atmosphériques, qui sont couvertes par les rapports soumis conformément à l’article 7, paragraphe 1 et paragraphe 2, leur déclaration respecte les formats définis à l’annexe XIV du présent règlement.",
+      "text_sha256": "a4ad03bd6711ea6cdf8a9380c3ec9656c619ed69156b869f18864be31b9a55e3",
+      "md_span": {
+        "start": 8843,
+        "end": 9277
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nLes États membres communiquent des informations sur les politiques et les mesures visées à l’article 17, paragraphe 2, point a) et point c), du règlement (UE) 2018/1999 concernant l’élimination progressive des subventions à l’énergie, en particulier celles en faveur des combustibles fossiles, en respectant les formats définis à l’annexe XV du présent règlement.",
+      "text_sha256": "215d1f08cc3e21e29081826420ef6e5bf6f6183d020fcc627f71cb86c7930631",
+      "md_span": {
+        "start": 9312,
+        "end": 9687
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nLes États membres communiquent les informations supplémentaires visées à l’annexe IX, partie 1, du règlement (UE) 2018/1999 dans le domaine des énergies renouvelables, en respectant les formats définis à l’annexe XVI du présent règlement.",
+      "text_sha256": "8c9b749e7fafd57a9dc9e5407881f59a5362eff2d0d6724560de1464da26ca82",
+      "md_span": {
+        "start": 9722,
+        "end": 9972
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nLes États membres communiquent les informations supplémentaires visées à l’annexe IX, partie 2, point e), point f) et points h) à k), du règlement (UE) 2018/1999, en respectant les formats définis à l’annexe XVII du présent règlement.",
+      "text_sha256": "6eace33b30954893ce07b7d21a739fa7beebc6aaf54447a163580dab1e8ee787",
+      "md_span": {
+        "start": 10007,
+        "end": 10253
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Lorsque l’article 3, paragraphe 3, point d), deuxième alinéa, du règlement (UE) 2018/1999 s’applique, les États membres communiquent:\n\n| a) | les informations sur les progrès accomplis en vue de la réalisation des objectifs indicatifs nationaux visant à réduire le nombre de ménages en situation de précarité énergétique, visées à l’article 24, point a), du règlement (UE) 2018/1999, en respectant les formats définis à l’annexe XVIII du présent règlement; |\n| --- | --- |\n\n| b) | les informations quantitatives sur le nombre de ménages en situation de précarité énergétique, visées à l’article 24, point b), du règlement (UE) 2018/1999 en respectant les formats définis dans le tableau 1 de l’annexe XIX du présent règlement. |\n| --- | --- |\n\n2. Les États membres peuvent communiquer des informations sur les indicateurs relatifs à la précarité énergétique en respectant les formats définis dans les tableaux 2 et 3 de l’annexe XIX du présent règlement.\n\n3. Les États membres peuvent communiquer des informations sur la définition nationale de la précarité énergétique en respectant les formats définis dans le tableau 4 de l’annexe XIX du présent règlement.\n\n4. Les États membres peuvent communiquer des informations sur la contribution de la mise en œuvre du plan national intégré en matière d’énergie et de climat à la transition juste, à la promotion des droits de l’homme et de l’égalité de genre, et à la lutte contre les inégalités liées à la précarité énergétique en respectant les formats définis à l’annexe XX du présent règlement.",
+      "text_sha256": "7e39d124233e5c55ff5cda94e78169ad839028550bba7db4dc19a050c9c83905",
+      "md_span": {
+        "start": 10288,
+        "end": 11845
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\nLes États membres communiquent les informations relatives à la mise en œuvre de la coopération régionale visée à l’article 12, à l’article 20, point b) 2), à l’article 21, point b) 6), à l’article 22, point f), à l’article 23, paragraphe 1, point i), et à l’article 25, point f), du règlement (UE) 2018/1999 dans le contexte de la mise en œuvre des objectifs généraux, des objectifs spécifiques et des contributions ainsi que des politiques et mesures visés aux chapitres II et III du présent règlement, en respectant les formats définis à l’annexe XXI du présent règlement.",
+      "text_sha256": "a27de391e8cf87cfb735c2b75b0d29d8ca693e164ee19e29412255d67db1fcb2",
+      "md_span": {
+        "start": 11880,
+        "end": 12466
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nSi la Commission a adressé des recommandations en application de l’article 32, paragraphe 1 ou paragraphe 2, du règlement (UE) 2018/1999, les États membres communiquent les informations sur les politiques et mesures qu’ils ont adoptées, ou qu’ils envisagent d’adopter, et mises en œuvre, en réponse auxdites recommandations visées à l’article 17, paragraphe 6, du règlement (UE) 2018/1999, en respectant les formats définis à l’annexe XXII du présent règlement.\n\nSi les États membres concernés décident de ne pas donner suite à une recommandation ou à une partie substantielle de celle-ci, ils fournissent une justification en respectant les formats définis à l’annexe XXII du présent règlement.",
+      "text_sha256": "0a90b5b685d09e29e54a1f9f8073bd93fab2f2e7e7e7ecad19fde4548525509f",
+      "md_span": {
+        "start": 12501,
+        "end": 13208
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\nLes États membres communiquent les informations sur les progrès accomplis en vue de la mise en place du dialogue visé à l’article 11 du règlement (UE) 2018/1999 en respectant les formats établis à l’annexe XXII du présent règlement.",
+      "text_sha256": "f1fed045ef31198b793a04696c3eb5e09a7254015e819f3bf19706b44158ab8f",
+      "md_span": {
+        "start": 13243,
+        "end": 13487
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\nLes États membres utilisent la plateforme en ligne visée à l’article 28 du règlement (UE) 2018/1999 et les outils et modèles y afférents pour la soumission de leurs rapports d’avancement nationaux intégrés en matière d’énergie et de climat en vertu du présent règlement.",
+      "text_sha256": "a0b8a5262e90ee97c9824afd237331dd299e6f2477cf1753670a4cfdec25f4fc",
+      "md_span": {
+        "start": 13522,
+        "end": 13804
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32022r2299:2022-11-15#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "2e2c93e0245b9f1fbf265ec3e97c69909b823f237471c1fc202f3d25850a9a59",
+      "md_span": {
+        "start": 13839,
+        "end": 13981
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

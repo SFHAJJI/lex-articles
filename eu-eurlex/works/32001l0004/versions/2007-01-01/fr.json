@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32001l0004:2007-01-01",
+  "language": "fr",
+  "title": "Council Directive 2001/4/EC of 19 January 2001 amending the sixth Directive (77/388/EEC) o…",
+  "valid_from": "2007-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32001l0004/versions/2007-01-01/fr.fmx4/CL2001L0004FR0010010.0001.xml",
+    "sha256": "72fa15591e1caedceea1cee1ab9bfb955ef315db948e3e039778c0e09e9180d5",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02001L0004-20070101"
+  },
+  "generator": {
+    "profile": "fmx4-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32001l0004:2007-01-01#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "À l'article 12, paragraphe 3, point a), de la sixième directive TVA, le premier et le deuxième alinéas sont remplacés par le texte suivant:«3.a)Le taux normal de la taxe sur la valeur ajoutée est fixé par chaque État membre à un pourcentage de la base d'imposition qui est le même pour les livraisons de biens et pour les prestations de service. À partir du 1^er janvier 2001 et jusqu'au 31 décembre 2005, ce pourcentage ne peut être inférieur à 15 %.Sur proposition de la Commission, après consultation du Parlement européen et du Comité économique et social, le Conseil décide, à l'unanimité, du niveau du taux normal applicable après le 31 décembre 2005.»",
+      "text_sha256": "2ec2423b36261ed46c32de04dab8b669419746ffccea31818e69ce79904cee8f",
+      "md_span": {
+        "start": 660,
+        "end": 1318
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32001l0004:2007-01-01#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive avant le 1^er janvier 2001. Ils en informent immédiatement la Commission.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n**2.** Les États membres communiquent à la Commission le texte des dispositions de droit interne qu'ils adoptent dans le domaine régi par la présente directive.",
+      "text_sha256": "9cc2ff6acd9630b3ec8745eac04f2a2b8f576f0991f6ba7c653a036aaa5ad840",
+      "md_span": {
+        "start": 1355,
+        "end": 2017
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32001l0004:2007-01-01#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La présente directive entre en vigueur le troisième jour suivant celui de sa publication au *Journal officiel des Communautés européennes*.\n\nElle est applicable à partir du 1^er janvier 2001.",
+      "text_sha256": "a51b519f9a3b53fec7211480c5a21a26d587377f7db4d7c5beda6bb11e2900f6",
+      "md_span": {
+        "start": 2054,
+        "end": 2245
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32001l0004:2007-01-01#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres sont destinataires de la présente directive.",
+      "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+      "md_span": {
+        "start": 2282,
+        "end": 2344
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: Formex ARTICLE / CONS.ANNEX elements (publisher structural markup)"
+  ]
+}

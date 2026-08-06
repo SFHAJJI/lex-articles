@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0905:2026-04-24",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2026/905 of 24\u00A0April 2026 supplementing Regulation (EU)\u00A02016/1011",
+  "valid_from": "2026-04-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0905/versions/2026-04-24/en.xml",
+    "sha256": "c16f8efb3086b922c8fbb5b55afe994f91bb925668823b0d45bc926b45eab572",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0905"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0905:2026-04-24#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe spot foreign exchange benchmarks listed in the Annex are designated as spot foreign exchange benchmarks that fulfil the criteria laid down in Article 18a(1) of Regulation (EU) 2016/1011.",
+      "text_sha256": "637558e07a7bf5ce1c3b763ae18d6a18cc9b99da4f221a4cfc0bdce268da2d0f",
+      "md_span": {
+        "start": 650,
+        "end": 851
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0905:2026-04-24#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 884,
+        "end": 1035
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

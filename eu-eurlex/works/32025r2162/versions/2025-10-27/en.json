@@ -1,0 +1,196 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r2162:2025-10-27",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2025/2162 of 27\u00A0October 2025 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2025-10-27",
+  "valid_to": "2025-10-27",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r2162/versions/2025-10-27/en.xml",
+    "sha256": "e94ac9c98fc3ea6f81632c17a99cd8c92dfdd286bca066fb304035141d92986e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2162"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r2162:2025-10-27#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nFor the purpose of this Regulation, the following definitions shall apply:\n\n| (1) | ‘scheme owner’ means an entity or a group of entities which is responsible for developing and maintaining a conformity assessment scheme; |\n| --- | --- |\n\n| (2) | ‘certification decision’ means a certification decision, which follows a conformity assessment conducted by a conformity assessment body where that body positively or negatively confirms the conformity of a specific qualified trust service provider and the qualified trust service it provides with the requirements laid down in Regulation (EU) No 910/2014 and with Article 21 of Directive (EU) 2022/2555; |\n| --- | --- |\n\n| (3) | ‘certificate of conformity’ means a document by which a conformity assessment body attests a certification decision that positively confirms that a specific qualified trust service provider and the qualified trust service it provides comply with the requirements laid down in Regulation (EU) No 910/2014 and with Article 21 of Directive (EU) 2022/2555; |\n| --- | --- |\n\n| (4) | ‘conformity assessment scheme’ means a set of rules and procedures to be used by conformity assessment bodies for the purpose of the assessment of the conformity of qualified trust service providers and the qualified trust services that they provide with the requirements laid down in Regulation (EU) No 910/2014 and with Article 21 of Directive (EU) 2022/2555; |\n| --- | --- |\n\n| (5) | ‘conformity assessment report’ means a document that provides detailed information, where applicable supplementary to that contained in a certification decision and associated certificate of conformity, on the method used to carry out, in accordance with a conformity assessment scheme, a conformity assessment of the compliance of a specific qualified trust service provider and the qualified trust service it provides with the requirements of Regulation (EU) No 910/2014 and of Article 21 of Directive (EU) 2022/2555 and on the results of the conformity assessment; |\n| --- | --- |\n\n| (6) | ‘accreditation’ means an accreditation, as defined in Article 2, point 10 of Regulation (EC) No 765/2008; |\n| --- | --- |\n\n| (7) | ‘flexible scope accreditation’ means an accreditation where the specific conformity assessment activities for which accreditation is sought, or has been granted, are expressed to allow conformity assessment bodies to make changes in methodology and other parameters which fall within the competence of the conformity assessment body as confirmed by the national accreditation body; |\n| --- | --- |\n\n| (8) | ‘national accreditation body’ means a national accreditation body as defined in Article 2, point 11, of Regulation (EC) No 765/2008. |\n| --- | --- |",
+      "text_sha256": "730b603c030b2c9acebbcbe2db679fc7bdea09dc58ff4fda3bfc084a46d257d4",
+      "md_span": {
+        "start": 688,
+        "end": 3420
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r2162:2025-10-27#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. For the purposes of making certification decisions in accordance with a specific conformity assessment scheme, conformity assessment bodies shall be accredited in accordance with standard EN ISO/IEC 17065:2012 supplemented by standard ETSI EN 319 403-1 v2.3.1.\n\n2. The accreditation of conformity assessment bodies referred to in paragraph 1 shall be performed by a national accreditation body in compliance with standard EN ISO/IEC 17011:2017.",
+      "text_sha256": "c1e8f89c4ccc18586928fa0213d9398e9b087ffe97747766c3b03522bd0c44cd",
+      "md_span": {
+        "start": 3453,
+        "end": 3911
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r2162:2025-10-27#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. National accreditation bodies shall ensure that the accreditation certificates they issue to conformity assessment bodies contain at least the following information:\n\n| (a) | the unique accreditation certificate identity code; |\n| --- | --- |\n\n| (b) | the issuance date of the accreditation certificate; |\n| --- | --- |\n\n| (c) | the name and country, as stated in the national official records, of the national accreditation body issuing the accreditation certificate; |\n| --- | --- |\n\n| (d) | the name and, where applicable, registration number as stated in the national official records, of the accredited conformity assessment body; |\n| --- | --- |\n\n| (e) | the scope of accreditation, with regard to one or more of the following qualified trust services:—the issuance of qualified certificates for electronic signatures;—the issuance of qualified certificates for electronic seals;—the issuance of qualified certificates for website authentication;—the qualified validation service for qualified electronic signatures;—the qualified validation service for qualified electronic seals,—the qualified preservation service for qualified electronic signatures;—the qualified preservation service for qualified electronic seals;—the creation of qualified electronic timestamps;—the provision of qualified electronic registered delivery services;—the qualified service for the management of remote qualified electronic signature creation devices;—the qualified service for the management of remote qualified electronic seal creation devices;—the provision of qualified electronic archiving services;—the issuance of qualified electronic attestations of attributes;—the recording of electronic data in a qualified electronic ledger. |\n| --- | --- |\n| — | the issuance of qualified certificates for electronic signatures; |\n| — | the issuance of qualified certificates for electronic seals; |\n| — | the issuance of qualified certificates for website authentication; |\n| — | the qualified validation service for qualified electronic signatures; |\n| — | the qualified validation service for qualified electronic seals, |\n| — | the qualified preservation service for qualified electronic signatures; |\n| — | the qualified preservation service for qualified electronic seals; |\n| — | the creation of qualified electronic timestamps; |\n| — | the provision of qualified electronic registered delivery services; |\n| — | the qualified service for the management of remote qualified electronic signature creation devices; |\n| — | the qualified service for the management of remote qualified electronic seal creation devices; |\n| — | the provision of qualified electronic archiving services; |\n| — | the issuance of qualified electronic attestations of attributes; |\n| — | the recording of electronic data in a qualified electronic ledger. |\n\n| (f) | the identification, including, where relevant, the specific version, of the conformity assessment scheme for which the conformity assessment body has been accredited; |\n| --- | --- |\n\n| (g) | the indication of the use of the flexible scope accreditation, where relevant; |\n| --- | --- |\n\n| (h) | the identification, where relevant, of the document outlining the design and implementation process of the flexible scope accreditation. |\n| --- | --- |\n\n2. National accreditation bodies shall ensure that the start date, and where applicable, the end date of the accreditation of the conformity assessment body for conducting the conformity assessment of the qualified trust services as referred to in paragraph 1, point (e), including specific dates for each qualified trust service as applicable, are part of the accreditation details referred to in Article 20(1b) of Regulation (EU) No 910/2014.\n\n3. National accreditation bodies shall ensure that any relevant changes made in relation to the information provided in accordance with paragraph 1 shall be clearly reflected in the accreditation certificate.\n\n4. The accreditation certificate shall clearly describe the scope of the accreditation of the conformity assessment body, in accordance with Article 2(1).",
+      "text_sha256": "88ebe496f7ee8dea12c2154911f75759e211fa3133c2acdd42726439f3e0465e",
+      "md_span": {
+        "start": 3944,
+        "end": 8054
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r2162:2025-10-27#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. The scheme owner shall implement procedures to monitor any changes in the standards referred to in Article 2(1) or in Article 6(3), or to a conformity assessment scheme owned by it and on the basis of which a conformity assessment body has been accredited in accordance with Article 2.\n\n2. The scheme owner shall notify the national accreditation body of the changes identified as a result of the procedures referred to in paragraph 1, in a timely manner.\n\n3. Where the national accreditation body did not apply flexible scope accreditation to accredited conformity assessment bodies, the national accreditation body shall determine whether the changes, identified as a result of the procedures referred to in paragraph 1, are likely to materially affect the ability of accredited conformity assessment bodies to conduct conformity assessments pursuant to schemes for which they have been accredited.\n\n4. Where the national accreditation body determines, pursuant to paragraph 3, that changes do affect the ability of conformity assessment bodies to conduct conformity assessments, it shall request the conformity assessment body to take appropriate measures within a reasonable prescribed period.\n\n5. If the conformity assessment body is unable or unwilling to take the measures referred to in paragraph 4 within the period prescribed, the national accreditation body shall immediately withdraw or suspend the accreditation.\n\n6. Where the national accreditation body determines, pursuant to paragraph 3, that changes do not affect the ability of conformity assessment bodies to conduct conformity assessments, it may, where appropriate, extend the validity and scope of the accreditation of the assessed conformity assessment body.\n\n7. Where appropriate, the national accreditation body shall update the accreditation certificate in a timely manner to reflect the outcome of the reconsideration of the accreditation pursuant to this Article.\n\n8. Where a conformity assessment body receives a request pursuant to paragraph 4, it shall, in a timely manner, inform any qualified trust service providers that it has previously assessed under the relevant conformity assessment scheme of any impacts that the reconsideration of the conformity assessment body’s accreditation may have on those qualified trust service providers, including with respect to future certification decisions made by the conformity assessment body under that scheme.",
+      "text_sha256": "bfb6d8e312c1e165678d3a32bbecd5dccd7ef152495634d34fe39b149f34a7aa",
+      "md_span": {
+        "start": 8087,
+        "end": 10539
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r2162:2025-10-27#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Conformity assessment bodies shall make the certificates of conformity they issue available in a public repository maintained by that conformity assessment body for that purpose.\n\n2. Any subcontracting by the conformity assessment body of the performance of conformity assessment activities shall duly consider the nature of the activity to be performed. The conformity assessment body shall ensure that the subcontractor complies with the standards set out in Annex I for the specific activity being subcontracted.\n\n3. Conformity assessment bodies shall ensure, upon issuing a certification decision, that the qualified trust services provider to whom the decision relates, is able to submit the complete conformity assessment reports corresponding to that decision to the supervisory bodies.",
+      "text_sha256": "3a1fc82f3f7ce3259fea36613a423c8ca2119bf144923cba36e621f59b2a0dd3",
+      "md_span": {
+        "start": 10572,
+        "end": 11379
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r2162:2025-10-27#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Each conformity assessment scheme shall identify a scheme owner.\n\n2. A conformity assessment scheme shall comply with scheme type 6 of standard EN ISO/IEC 17067:2013 and with the requirements laid down in this Article.\n\n3. Scheme owners shall ensure that their conformity assessment schemes include at least the standards, as applicable, set out in Annex II by indicating the year and version number of these standards.\n\n4. Scheme owners shall ensure that where a flexible scope accreditation is applicable, this is indicated in the conformity assessment scheme.\n\n5. Scheme owners shall ensure that their conformity assessment schemes establish processes and procedures, regarding at least the following:\n\n| (a) | receiving and handling complaints to the scheme owner on the implementation of the conformity assessment scheme; |\n| --- | --- |\n\n| (b) | notifications by the conformity assessment body to the supervisory body designated in accordance with Article 46b(1) of Regulation (EU) No 910/2014 on the issuance of certificates of conformity and any changes thereto; |\n| --- | --- |\n\n| (c) | where applicable, subcontracting the performance of conformity assessment activities by the conformity assessment body; |\n| --- | --- |\n\n| (d) | the performance of yearly surveillance activities on the basis of the applicable requirements of clause 7.9 of standard ISO/IEC 17065:2012; |\n| --- | --- |\n\n| (e) | the management and notification by the qualified trust service provider to the conformity assessment body and to the competent supervisory body of any change impacting the operation of qualified trust service providers or the qualified trust services they provide; |\n| --- | --- |\n\n| (f) | the verification of evidence demonstrating that the conformity assessment body:—has sufficient knowledge and expertise in the application of specific standards related to the qualified trust service provided by the qualified trust service provider, as referred to in paragraph 3;—has professional experience in conformity assessment in at least three assessments of trust service providers or three assessments of information security management systems; and—can ensure the availability of a team of no fewer than two qualified persons possessing the necessary expertise to carry out such conformity assessment. |\n| --- | --- |\n| — | has sufficient knowledge and expertise in the application of specific standards related to the qualified trust service provided by the qualified trust service provider, as referred to in paragraph 3; |\n| — | has professional experience in conformity assessment in at least three assessments of trust service providers or three assessments of information security management systems; and |\n| — | can ensure the availability of a team of no fewer than two qualified persons possessing the necessary expertise to carry out such conformity assessment. |\n\n6. Scheme owners shall ensure that their conformity assessment schemes require the qualified trust service providers to have processes, procedures and work instructions in place to notify the conformity assessment body at least one month before the qualified trust service providers implement any significant change in the provision of the qualified trust services certified under that scheme and at least three months before it intends to cease the provision of the services or parts thereof.\n\n7. Scheme owners shall ensure that their conformity assessment schemes do not allow positive certification decisions, or any certificate of conformity, to be issued where the conformity assessment leads to the identification of non-conformity of the assessed qualified trust service providers and the qualified trust service they provide with the requirements of Regulation (EU) No 910/2014 and of Article 21 of Directive (EU) 2022/2555.\n\n8. Scheme owners shall ensure that their conformity assessment schemes set out the procedure for the attestation of a certificate of conformity. They shall require, in particular, that the qualified trust service providers immediately inform the competent supervisory body of any change to a certificate of conformity. They shall also require that qualified trust services providers refrain from providing the qualified trust services concerned or from advertising any reference thereto until the competent supervisory body reconfirms the qualified status. This procedure shall comply with the requirements set out in clause 7.11 of standard ISO/IEC 17065:2012.\n\n9. Scheme owners shall ensure that their conformity assessment schemes set out the conformity assessment process to be conducted over a sufficient number of person-days and shall ensure that sufficient resources and time are allocated for the conformity assessment, taking into account the scope and the complexity of the assessment.\n\n10. Scheme owners shall make a summary of the conformity assessment scheme publicly available for download. The summary shall contain a description of the set of rules and procedures followed for the assessment of the conformity of qualified trust service providers and the qualified trust services they provide with the requirements of Regulation (EU) No 910/2014 and of Article 21 of Directive (EU) 2022/2555.\n\n11. Scheme owners shall ensure that their conformity assessment schemes require that at least one surveillance conformity assessment is conducted annually for every evaluated qualified trust service.",
+      "text_sha256": "ebf44b55268dc72765ae49639db83c707270b45fcecff929332aa5d48d794584",
+      "md_span": {
+        "start": 11412,
+        "end": 16851
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32025r2162:2025-10-27#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. The conformity assessment report referred to in Article 20(1) of Regulation (EU) No 910/2014, shall comply with the specifications set out in Annex III.\n\n2. The conformity assessment report shall be considered a part of the certification documentation specified in clause 7.7 of standard ETSI EN 319 403-1.",
+      "text_sha256": "2f0c997fda32835a4d016fb770e9a75738884e1227dd31cd32f7202024bd36c5",
+      "md_span": {
+        "start": 16884,
+        "end": 17204
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32025r2162:2025-10-27#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Any interested party can request, free of charge, current and past information about the scope, start date and, where applicable, end date of the accreditation of conformity assessment bodies, for each type of qualified trust service that the conformity assessment body is or has been accredited to assess. This information shall be made available by national accreditation bodies.\n\n2. Current and past information, as referred to in paragraph 1, should be made available for at least a period of 6 years after the accreditation of the conformity assessment body.",
+      "text_sha256": "1282224f41bec3eceb9c2714c8a4c8a2992c84188bbd49ab91c4f9fee8a17e24",
+      "md_span": {
+        "start": 17237,
+        "end": 17814
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32025r2162:2025-10-27#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nConformity assessment bodies that have, before 17 November 2025, been accredited with reference to standard ETSI EN 319 403 version 2.2.2, or earlier version, for the purposes of the assessment of conformity with Regulation (EU) No 910/2014 of qualified trust service providers and the qualified trust services they provide shall have their accreditation be considered to meet the requirements of Article 2(1) until 17 May 2027.",
+      "text_sha256": "a1dc69bd2479bc1e53e798d84dce7c2a0aeff08e4e2e5bfaefd19cc4e0c1c85d",
+      "md_span": {
+        "start": 17847,
+        "end": 18286
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32025r2162:2025-10-27#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "bc76379acc813c6b825e443aa7fba591492be48eb630cb7c4154716c8b2646e8",
+      "md_span": {
+        "start": 18321,
+        "end": 18473
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

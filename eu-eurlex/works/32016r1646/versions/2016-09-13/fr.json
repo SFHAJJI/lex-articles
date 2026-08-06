@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1646:2016-09-13",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2016/1646 of 13 September 2016 laying down implementing technical standards with regard to main indices and recognised exchanges in accordance with Regulation (EU) No 575/2013",
+  "valid_from": "2016-09-13",
+  "valid_to": "2022-10-16",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1646/versions/2016-09-13/fr.xml",
+    "sha256": "41fc4197916ef410d0ecd87e69e6084bb953ed381bfbf74a0fa00020a01464a1",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R1646"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r1646:2016-09-13#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes indices importants aux fins de l'article 197, paragraphe 8, point a), du règlement (UE) no 575/2013 sont énumérés à l'annexe I du présent règlement.",
+      "text_sha256": "e373d1685ff06661a547fc434bb6c1f63c96c91aede0765797b3f21ff519f1d8",
+      "md_span": {
+        "start": 766,
+        "end": 935
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1646:2016-09-13#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes marchés reconnus aux fins de l'article 197, paragraphe 8, point b), du règlement (UE) no 575/2013 sont énumérés à l'annexe II du présent règlement.",
+      "text_sha256": "8f7e2002d990499bffb81e310b043383f0ba129bacaa7346f7fb13e530234d66",
+      "md_span": {
+        "start": 968,
+        "end": 1130
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r1646:2016-09-13#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "7720039f9cc590ca2cf0e65e106be507dd1006b57b075fd095ec38f7220a4937",
+      "md_span": {
+        "start": 1163,
+        "end": 1304
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

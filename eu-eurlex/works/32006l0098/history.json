@@ -1,0 +1,117 @@
+{
+  "lex_work_id": "eu-eurlex:32006l0098",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "art_1": [
+      {
+        "valid_from": "2006-11-20",
+        "valid_to": null,
+        "text_sha256": "2536c076eec652ca373a9e23c7bef67dc9e5b02c0ac72be80d8d38cf06f54c25",
+        "in_version": "eu-eurlex:32006l0098:2006-11-20"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2006-11-20",
+        "valid_to": null,
+        "text_sha256": "ee0eedce7b365474183a7beb8cfa0e230c67d8d27a9603f5583245713f2ff021",
+        "in_version": "eu-eurlex:32006l0098:2006-11-20"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2006-11-20",
+        "valid_to": null,
+        "text_sha256": "e3efbbe3907e82f8711089f6f0ccc3b7e35fe09f03aa1e3bf08f61cc86ee3df0",
+        "in_version": "eu-eurlex:32006l0098:2006-11-20"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2006-11-20",
+        "valid_to": null,
+        "text_sha256": "46febe2055ef1f915cbf717390fb7bb227daf6166e4052d12f7f39bbce864281",
+        "in_version": "eu-eurlex:32006l0098:2006-11-20"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "en": {
+      "art_1": [
+        {
+          "valid_from": "2006-11-20",
+          "valid_to": null,
+          "text_sha256": "2536c076eec652ca373a9e23c7bef67dc9e5b02c0ac72be80d8d38cf06f54c25",
+          "in_version": "eu-eurlex:32006l0098:2006-11-20"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2006-11-20",
+          "valid_to": null,
+          "text_sha256": "ee0eedce7b365474183a7beb8cfa0e230c67d8d27a9603f5583245713f2ff021",
+          "in_version": "eu-eurlex:32006l0098:2006-11-20"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2006-11-20",
+          "valid_to": null,
+          "text_sha256": "e3efbbe3907e82f8711089f6f0ccc3b7e35fe09f03aa1e3bf08f61cc86ee3df0",
+          "in_version": "eu-eurlex:32006l0098:2006-11-20"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2006-11-20",
+          "valid_to": null,
+          "text_sha256": "46febe2055ef1f915cbf717390fb7bb227daf6166e4052d12f7f39bbce864281",
+          "in_version": "eu-eurlex:32006l0098:2006-11-20"
+        }
+      ]
+    },
+    "fr": {
+      "art_1": [
+        {
+          "valid_from": "2006-11-20",
+          "valid_to": null,
+          "text_sha256": "ab758ec39220fb2eecef361f8f880c71d658cafca704bcae80cc1e6c2841ea1f",
+          "in_version": "eu-eurlex:32006l0098:2006-11-20"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2006-11-20",
+          "valid_to": null,
+          "text_sha256": "e60799d78ed821074fd9c87418d81a31b81e47ec08f03cb6a916b2f2afbb7125",
+          "in_version": "eu-eurlex:32006l0098:2006-11-20"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2006-11-20",
+          "valid_to": null,
+          "text_sha256": "bce80bae83d2ec448674e270e1c6fe11750c3934f76788cf9afb55842b4dbb7c",
+          "in_version": "eu-eurlex:32006l0098:2006-11-20"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2006-11-20",
+          "valid_to": null,
+          "text_sha256": "0fc712c9ed5879dbad5bea3e7474f713eea34cda4ea895cc231207fc9b7290bb",
+          "in_version": "eu-eurlex:32006l0098:2006-11-20"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": []
+  }
+}

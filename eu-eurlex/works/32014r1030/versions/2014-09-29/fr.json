@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r1030:2014-09-29",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) No 1030/2014 of 29 September 2014 laying down implementing technical standards with regard to the uniform formats and date for the disclosure of the values used to identify global systemically important institutions according to Regulation (EU) No 575/2013",
+  "valid_from": "2014-09-29",
+  "valid_to": "2016-05-25",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r1030/versions/2014-09-29/fr.xml",
+    "sha256": "967dce8a65163b8a7e7d9a942d8476e6b0030c408513cce7be26894cb02e8841",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R1030"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r1030:2014-09-29#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes EISm remplissent le formulaire type figurant en annexe du présent règlement, sous format électronique, tel que publié sur le site internet de l'Autorité bancaire européenne (ABE). En utilisant ce formulaire type, les EISm publient les valeurs des indicateurs utilisés pour déterminer leur note selon la méthode de recensement visée à l'article 131 de la directive 2013/36/UE.\n\nLes EISm ne sont pas tenus de publier les données et indicateurs auxiliaires.",
+      "text_sha256": "59140bb93914c490334e694c7794f2c1de4b1d0404d978349409184676d72fb1",
+      "md_span": {
+        "start": 847,
+        "end": 1322
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r1030:2014-09-29#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes EISm publient les informations de fin d'exercice visées à l'article 1er au plus tard quatre mois après la clôture de chaque exercice.\n\nLes autorités pertinentes peuvent autoriser les établissements dont l'exercice se termine le 30 juin à communiquer les valeurs des indicateurs sur la base de leur situation au 31 décembre. En tout état de cause, les informations sont publiées au plus tard le 31 juillet.",
+      "text_sha256": "c64356a031d9e266f814addf4d77213349c0713158aa1a487f2c18a8a517fb46",
+      "md_span": {
+        "start": 1355,
+        "end": 1775
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r1030:2014-09-29#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLes établissements peuvent publier les valeurs des indicateurs repris dans le formulaire type figurant en annexe du présent règlement sur le support qu'ils ont choisi pour publier les informations requises en vertu de la huitième partie du règlement (UE) no 575/2013, conformément à l'article 434 dudit règlement.\n\nSi les communications des valeurs des indicateurs ne sont pas incluses sur le support visé au premier alinéa, les EISm fournissent une référence directe aux formulaires remplis sur leur site internet ou au support sur lequel ces communications ont été mises à disposition.\n\nUne fois ces informations publiées par les EISm, les autorités pertinentes transmettent sans délai les formulaires remplis à l'ABE, qui les centralise sur son site internet.",
+      "text_sha256": "04299ffadcdbf900786ac30f4ad4ebabf922c6efc6d64e040c3f6c4e014490c2",
+      "md_span": {
+        "start": 1808,
+        "end": 2581
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r1030:2014-09-29#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "6229ea20ae69931b41c4c86108df961b31bc79d879a770b1657ed4c7decd8f7b",
+      "md_span": {
+        "start": 2614,
+        "end": 2755
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

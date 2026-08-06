@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32006l0049:2014-01-01",
+  "language": "fr",
+  "title": "Directive 2006/49/EC",
+  "valid_from": "2014-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32006l0049/versions/2014-01-01/fr.html",
+    "sha256": "f343f788d14f3d2a8481c3d08eb3c355109d01bf92fc030371fb36d4dc64250a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02006L0049-20140101"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32006l0049:2014-01-01#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "2006L0049 — FR — 01.01.2014 — 005.001 Ce document constitue un outil de documentation et n’engage pas la responsabilité des institutions ►B DIRECTIVE 2006/49/CE DU PARLEMENT EUROPÉEN ET DU CONSEIL du 14 juin 2006 sur l'adéquation des fonds propres des entreprises d'investissement et des établissements de crédit (refonte) (JO L 177, 30.6.2006, p.201) abrogé par: Journal officiel n° page date Directive 2013/36/UE du Parlement européen et du Conseil du 26 juin 2013 L 176 338 27.6.2013",
+      "text_sha256": "631ef271e36c58b62584fd9d687833993966d510e6ecb0459429050d2d65e77f",
+      "md_span": {
+        "start": 587,
+        "end": 1073
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

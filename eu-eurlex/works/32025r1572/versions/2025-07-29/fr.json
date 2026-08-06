@@ -1,0 +1,116 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1572:2025-07-29",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2025/1572 of 29\u00A0July 2025 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2025-07-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1572/versions/2025-07-29/fr.xml",
+    "sha256": "4abab65252233c988c64611535d58b5efbade9f545a0cc6e8056a210ed069e41",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R1572"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1572:2025-07-29#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les organes de contrôle établissent une méthode pour vérifier que les prestataires de services de confiance ayant notifié leur intention de commencer à fournir un service de confiance qualifié respectent les exigences énoncées dans le règlement (UE) no 910/2014 et à l’article 21, paragraphe 2, de la directive (UE) 2022/2555 du Parlement européen et du Conseil (5).\n\n2. La méthode de vérification comprend des procédures et des processus permettant d’associer les autorités compétentes désignées ou établies en vertu de l’article 8, paragraphe 1, de la directive (UE) 2022/2555, qui mènent des actions de supervision afin de vérifier le respect, par le prestataire de services de confiance, des exigences énoncées à l’article 21 de la directive (UE) 2022/2555.",
+      "text_sha256": "5da511750a2bd699f78d0c827441ddb121f8d9991c28b0ff78f470e76a925fa1",
+      "md_span": {
+        "start": 679,
+        "end": 1460
+      },
+      "citations": [
+        {
+          "href": "#ntr5-L_202501572FR.000101-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1572:2025-07-29#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes organes de contrôle publient les informations suivantes:\n\n| 1) | les coordonnées de l’organe de contrôle; |\n| --- | --- |\n\n| 2) | les canaux de communication à utiliser lorsque les prestataires de services de confiance notifient leur intention de commencer à fournir un service de confiance qualifié; |\n| --- | --- |\n\n| 3) | la liste des documents que les prestataires de services de confiance doivent fournir dans le cadre d’une notification de l’intention de commencer à fournir un service de confiance qualifié; |\n| --- | --- |\n\n| 4) | les procédures de traitement des réclamations relatives au processus permettant de vérifier que les prestataires de services de confiance ayant notifié leur intention de commencer à fournir un service de confiance qualifié respectent les exigences énoncées dans le règlement (UE) no 910/2014 et à l’article 21, paragraphe 2, de la directive (UE) 2022/2555; |\n| --- | --- |\n\n| 5) | une description générale de la méthode mentionnée à l’article 1er. |\n| --- | --- |",
+      "text_sha256": "d555b5cad92ba6b83da6c7fbf8976b576f8b31498d7cab32b51e43f87c8308af",
+      "md_span": {
+        "start": 1493,
+        "end": 2510
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r1572:2025-07-29#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLes prestataires de services de confiance fournissent au moins les informations suivantes dans leurs notifications d’intention de commencer à fournir un service de confiance qualifié:\n\n| 1) | lorsque le prestataire de services de confiance est une personne morale, son nom et, le cas échéant, un numéro d’enregistrement, le nom de l’État membre dans lequel il est établi et le nom de la ou des personnes qui signent ou soumettent la notification au nom de la personne morale; |\n| --- | --- |\n\n| 2) | lorsque le prestataire de services de confiance est une personne physique, son nom et son numéro d’identification personnel et, à défaut, sa date de naissance ainsi que le type et le numéro de son document d’identité; |\n| --- | --- |\n\n| 3) | le numéro de téléphone, l’adresse électronique et l’adresse postale du prestataire de services de confiance; |\n| --- | --- |\n\n| 4) | les identifiants uniformes de ressources (URI) permettant aux utilisateurs d’obtenir des informations supplémentaires concernant ce prestataire de services de confiance, y compris les déclarations et politiques en matière de pratiques, les conditions générales et les politiques de service à la clientèle qui s’appliquent au service de confiance notifié; |\n| --- | --- |\n\n| 5) | l’analyse des risques sous-tendant les mesures visées à l’article 24, paragraphe 2, point f bis), du règlement (UE) no 910/2014 et l’analyse des risques sous-tendant les mesures visées à l’article 21 de la directive (UE) 2022/2555; |\n| --- | --- |\n\n| 6) | chaque service de confiance qualifié que le prestataire de services de confiance a l’intention de commencer à fournir; |\n| --- | --- |\n\n| 7) | pour chaque service de confiance que le prestataire de services de confiance a l’intention de commencer à fournir en tant que service de confiance qualifié:—un ou plusieurs identifiants et, le cas échéant, certificats du service de confiance, à inclure dans la liste nationale de confiance conformément aux actes d’exécution adoptés en vertu de l’article 22, paragraphe 5, du règlement (UE) no 910/2014,—la date prévue pour le début de la fourniture du service de confiance,—le ou les rapports d’évaluation de la conformité du service de confiance et les coordonnées de l’organisme d’évaluation de la conformité,—le cas échéant, les rapports techniques étayant le rapport d’évaluation de la conformité; |\n| --- | --- |\n| — | un ou plusieurs identifiants et, le cas échéant, certificats du service de confiance, à inclure dans la liste nationale de confiance conformément aux actes d’exécution adoptés en vertu de l’article 22, paragraphe 5, du règlement (UE) no 910/2014, |\n| — | la date prévue pour le début de la fourniture du service de confiance, |\n| — | le ou les rapports d’évaluation de la conformité du service de confiance et les coordonnées de l’organisme d’évaluation de la conformité, |\n| — | le cas échéant, les rapports techniques étayant le rapport d’évaluation de la conformité; |\n\n| 8) | le plan d’arrêt d’activité mentionné à l’article 24, paragraphe 2, point i), du règlement (UE) no 910/2014. |\n| --- | --- |",
+      "text_sha256": "1d8b9b7b3c925d1c7976b7701365efa73eccfbad3176d36ec2f644e93d40f428",
+      "md_span": {
+        "start": 2543,
+        "end": 5635
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r1572:2025-07-29#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Afin de déterminer si le prestataire de services de confiance et le service de confiance qualifié que celui-ci a l’intention de fournir respectent les exigences du règlement (UE) no 910/2014 et de l’article 21 de la directive (UE) 2022/2555, les organes de contrôle analysent les informations fournies par le prestataire de services de confiance et peuvent, en sus des éventuelles mesures décrites dans la méthode établie conformément à l’article 1er, effectuer des vérifications sur place, et mener des entretiens avec des représentants du prestataire de services de confiance et de l’organisme d’évaluation de la conformité.\n\n2. Les organes de contrôle vérifient au moins les éléments suivants:\n\n| a) | le rapport d’évaluation de la conformité présenté contient suffisamment d’éléments démontrant que le prestataire de services de confiance et le service de confiance qualifié qu’il a l’intention de fournir respectent les exigences énoncées dans le règlement (UE) no 910/2014 et à l’article 21 de la directive (UE) 2022/2555; |\n| --- | --- |\n\n| b) | le rapport d’évaluation de la conformité soumis satisfait aux exigences énoncées dans les actes d’exécution adoptés en vertu de l’article 20, paragraphe 4, du règlement (UE) no 910/2014; |\n| --- | --- |\n\n| c) | toute information contenue dans le rapport d’évaluation de la conformité présenté indiquant que les exigences du règlement (UE) no 910/2014 ne sont pas respectées; |\n| --- | --- |\n\n| d) | toute information supplémentaire jugée nécessaire pour vérifier le respect des exigences énoncées dans le règlement (UE) no 910/2014 et à l’article 21 de la directive (UE) 2022/2555. |\n| --- | --- |",
+      "text_sha256": "d186e1dec5e5a284dd708cf379e3924ef3f86a0f3ba6ae19c8a48b1f2a043d9b",
+      "md_span": {
+        "start": 5668,
+        "end": 7332
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r1572:2025-07-29#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 19 août 2026.",
+      "text_sha256": "7c06b44cc1585c38ab1ebf055c820af5823bdab396f4ffcaf39249fa1e330dc7",
+      "md_span": {
+        "start": 7365,
+        "end": 7551
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

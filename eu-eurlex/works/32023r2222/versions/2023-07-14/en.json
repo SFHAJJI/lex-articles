@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r2222:2023-07-14",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2023/2222 of 14\u00A0July 2023 extending the transitional period laid down for third-country benchmarks in Article\u00A051(5) of Regulation (EU)\u00A02016/1011",
+  "valid_from": "2023-07-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r2222/versions/2023-07-14/en.xml",
+    "sha256": "db3e59a4976bb8cc658281ebb2b24bcdb8e4b18f51d8556754fc4b576f224de3",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2222"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r2222:2023-07-14#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe transitional period referred to in Article 51(5) of Regulation (EU) 2016/1011 is extended until 31 December 2025.",
+      "text_sha256": "c2374236a2e10cb335f23a1402c3716f55a93871659ccd5e66d49f5435578503",
+      "md_span": {
+        "start": 726,
+        "end": 854
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r2222:2023-07-14#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fef49a0526c3bc8f72d910413581dafec620b7b36b35e6295f6df9ebe6febc15",
+      "md_span": {
+        "start": 887,
+        "end": 1034
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

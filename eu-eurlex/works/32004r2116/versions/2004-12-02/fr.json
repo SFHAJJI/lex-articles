@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32004r2116:2004-12-02",
+  "language": "fr",
+  "title": "Council Regulation (EC) No 2116/2004 of 2 December 2004 amending Regulation (EC) No 2201/2…",
+  "valid_from": "2004-12-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32004r2116/versions/2004-12-02/fr.xml",
+    "sha256": "df3cc58cbd64293ddfda2f2d043d94f94eab96057796641081a9aeee31093dab",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32004R2116"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32004r2116:2004-12-02#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL'article 63 du règlement (CE) no 2201/2003 est modifié comme suit:\n\n| 1) | au paragraphe 3, le point suivant est ajouté:«c)Accord entre le Saint-Siège et Malte sur la reconnaissance d'effets civils aux mariages canoniques et aux décisions rendues par les autorités et juridictions ecclésiastiques sur lesdits mariages du 3 février 1993, y compris le protocole d'application de la même date, et son deuxième protocole additionnel du 6 janvier 1995.» |\n| --- | --- |\n| «c) | Accord entre le Saint-Siège et Malte sur la reconnaissance d'effets civils aux mariages canoniques et aux décisions rendues par les autorités et juridictions ecclésiastiques sur lesdits mariages du 3 février 1993, y compris le protocole d'application de la même date, et son deuxième protocole additionnel du 6 janvier 1995.» |\n\n| 2) | le paragraphe 4 est remplacé par le texte suivant:«4. En Espagne, en Italie ou à Malte, la reconnaissance des décisions prévue au paragraphe 2 peut être soumise aux mêmes procédures et contrôles que ceux qui sont applicables aux décisions rendues par les juridictions ecclésiastiques conformément aux traités internationaux conclus avec le Saint-Siège et visés au paragraphe 3.». |\n| --- | --- |",
+      "text_sha256": "8ca08f46d2bd95863353d04f43d4662ec50109b0fc0dececa1b022ac39e8c9a3",
+      "md_span": {
+        "start": 636,
+        "end": 1858
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32004r2116:2004-12-02#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nLe présent règlement s'applique à partir du 1er mars 2005.",
+      "text_sha256": "070d6a3e38253742d512f1091a1d11e5b6cb01dd8e9c6affe98200bee846fae9",
+      "md_span": {
+        "start": 1891,
+        "end": 2092
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

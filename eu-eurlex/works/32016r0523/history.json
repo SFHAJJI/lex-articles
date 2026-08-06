@@ -1,0 +1,93 @@
+{
+  "lex_work_id": "eu-eurlex:32016r0523",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "art_1": [
+      {
+        "valid_from": "2016-03-10",
+        "valid_to": null,
+        "text_sha256": "0d820ff2ae00fd22b00757692ac317c0b51bb1d2b4760d772f84ab4a93f2d37d",
+        "in_version": "eu-eurlex:32016r0523:2016-03-10"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2016-03-10",
+        "valid_to": null,
+        "text_sha256": "8716722812798bcaeb4aee290294b583002f71c199716bd115ce696e6a500a54",
+        "in_version": "eu-eurlex:32016r0523:2016-03-10"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2016-03-10",
+        "valid_to": null,
+        "text_sha256": "c578c8b8b314eae3584df482be0e0716e01b5ce4a4e3113f9ee0ae19718b2408",
+        "in_version": "eu-eurlex:32016r0523:2016-03-10"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "en": {
+      "art_1": [
+        {
+          "valid_from": "2016-03-10",
+          "valid_to": null,
+          "text_sha256": "0d820ff2ae00fd22b00757692ac317c0b51bb1d2b4760d772f84ab4a93f2d37d",
+          "in_version": "eu-eurlex:32016r0523:2016-03-10"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2016-03-10",
+          "valid_to": null,
+          "text_sha256": "8716722812798bcaeb4aee290294b583002f71c199716bd115ce696e6a500a54",
+          "in_version": "eu-eurlex:32016r0523:2016-03-10"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2016-03-10",
+          "valid_to": null,
+          "text_sha256": "c578c8b8b314eae3584df482be0e0716e01b5ce4a4e3113f9ee0ae19718b2408",
+          "in_version": "eu-eurlex:32016r0523:2016-03-10"
+        }
+      ]
+    },
+    "fr": {
+      "art_1": [
+        {
+          "valid_from": "2016-03-10",
+          "valid_to": null,
+          "text_sha256": "ed3c8d34a4ccccdcf75996bc53462ec64480141971b5f178fb2c2a517abc50ce",
+          "in_version": "eu-eurlex:32016r0523:2016-03-10"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2016-03-10",
+          "valid_to": null,
+          "text_sha256": "97ed9f7409f4f174f926a543e699c149669bd0f583ac70e45f1b31158217194d",
+          "in_version": "eu-eurlex:32016r0523:2016-03-10"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2016-03-10",
+          "valid_to": null,
+          "text_sha256": "cb99c3cef5d450f2890c93e0b6dbf3c9b456a4d1da9374b16df7586e16abe0ef",
+          "in_version": "eu-eurlex:32016r0523:2016-03-10"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": []
+  }
+}

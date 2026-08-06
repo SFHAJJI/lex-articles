@@ -2,7 +2,7 @@
 lex_id: 'lu-legilux:recueil-cours_tribunaux:2025-09-16'
 title: 'Cours et Tribunaux'
 valid_from: '2025-09-16'
-valid_to: '2026-09-15'
+valid_to: '2026-07-04'
 source: 'https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20250916/fr'
 source_sha256: '1006f8f243882575b08de1f4eee74c9f2e6b7fe5ab4ab3e4e10376eaa72f4e8f'
 license: 'CC-BY-4.0'

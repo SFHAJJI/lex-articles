@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0417:2024-11-28",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2025/417 of 28\u00A0November 2024 supplementing Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-11-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0417/versions/2024-11-28/fr.xml",
+    "sha256": "007a068a8f2fe11ddbd611f3510a0ad14b4c0d142765c1050abc40f816b7a2c6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0417"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0417:2024-11-28#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les prestataires de services sur crypto-actifs qui exploitent une plate-forme de négociation de crypto-actifs publient gratuitement les informations relatives aux règles de fonctionnement applicables à leur plate-forme de négociation, d’une manière aisément accessible, non discriminatoire, visible, compréhensible, impartiale, claire, non trompeuse et qui facilite la compréhension.\n\n2. Les prestataires de services sur crypto-actifs qui exploitent une plate-forme de négociation de crypto-actifs publient sur leur site internet, dans un document unique, les règles de fonctionnement applicables à leur plate-forme de négociation.",
+      "text_sha256": "73ee79158b09974d5670461236884513327f02c774f4e0963b8d2cdff5bc270d",
+      "md_span": {
+        "start": 650,
+        "end": 1301
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0417:2024-11-28#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Conformément à l’article 76, paragraphe 9, du règlement (UE) 2023/1114, les prestataires de services sur crypto-actifs qui exploitent une plate-forme de négociation de crypto-actifs rendent publics les prix acheteurs et vendeurs, ainsi que l’importance des intentions de négociation exprimées à ces prix, en fonction du type de système de négociation qu’ils exploitent, comme indiqué dans le tableau 1 de l’annexe I du présent règlement.\n\n2. Si les conditions de marché objectives visées au point a) se présentent, les prestataires de services sur crypto-actifs qui exploitent une plate-forme de négociation de crypto-actifs rendent publics les ordres qui remplissent toutes les conditions suivantes:\n\n| a) | les ordres sont subordonnés à la survenue de conditions de marché objectives définies au préalable par le protocole du système de négociation; |\n| --- | --- |\n\n| b) | les ordres ne peuvent interagir avec d’autres intentions de négociation avant la publication dans le carnet d’ordres exploité par la plate-forme de négociation; |\n| --- | --- |\n\n| c) | une fois publiés dans le carnet d’ordres, les ordres interagissent avec les autres ordres conformément aux règles applicables à ce type d’ordres au moment de la publication. |\n| --- | --- |\n\n3. Les prestataires de services sur crypto-actifs qui exploitent une plate-forme de négociation de crypto-actifs rendent public le détail de chaque ordre portant sur des crypto-actifs, comme prévu dans les tableaux 2 et 3 de l’annexe I.",
+      "text_sha256": "114fae7a1851e3701489ec2e929f07deb389f3dee317d9a74e1aa97685738971",
+      "md_span": {
+        "start": 1334,
+        "end": 2836
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0417:2024-11-28#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Conformément à l’article 76, paragraphe 10, du règlement (UE) 2023/1114, les prestataires de services sur crypto-actifs qui exploitent une plate-forme de négociation de crypto-actifs rendent public le détail de chaque transaction, comme prévu dans les tableaux 1 et 2 de l’annexe II.\n\n2. Si un rapport de négociation précédemment publié est annulé, les prestataires de services sur crypto-actifs qui exploitent une plate-forme de négociation de crypto-actifs rendent public un nouveau rapport de négociation comprenant toutes les informations du rapport initial ainsi que le code signalétique pour les transactions annulées spécifié dans le tableau 3 de l’annexe II.\n\n3. Si un rapport de négociation précédemment publié est modifié, les prestataires de services sur crypto-actifs qui exploitent une plate-forme de négociation de crypto-actifs rendent publics les éléments suivants:\n\n| a) | un nouveau rapport de négociation comprenant toutes les informations du rapport initial ainsi que le code signalétique pour les transactions annulées spécifié dans le tableau 3 de l’annexe II; |\n| --- | --- |\n\n| b) | un nouveau rapport de négociation comprenant toutes les informations du rapport initial avec toutes les corrections nécessaires ainsi que le code signalétique pour les transactions modifiées spécifié dans le tableau 3 de l’annexe II. |\n| --- | --- |",
+      "text_sha256": "fddac02091a4a1cfdebea7e932c74c33b62f6bb7e7257ada31e5d5b6d26d2971",
+      "md_span": {
+        "start": 2869,
+        "end": 4239
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0417:2024-11-28#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nPour les transactions exécutées sur leur plate-forme de négociation de crypto-actifs, les prestataires de services sur crypto-actifs qui exploitent une plate-forme de négociation de crypto-actifs rendent public le détail de chaque transaction comme prévu dans les tableaux 1, 2 et 3 de l’annexe II dans un délai aussi proche du temps réel que le permettent les moyens techniques, et en tout état de cause dans les trente secondes qui suivent l’exécution de la transaction.",
+      "text_sha256": "e236cdfab10eca4fd0801c1df9e78973286ec3c0f8b23ac0eba0de83e5de9aeb",
+      "md_span": {
+        "start": 4272,
+        "end": 4755
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0417:2024-11-28#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Les prestataires de services sur crypto-actifs qui exploitent une plate-forme de négociation de crypto-actifs mettent à la disposition du public les informations publiées conformément aux articles 2 et 3 en publiant séparément les données de transparence pré-négociation et les données de transparence post-négociation.\n\n2. Sur demande de toute partie intéressée, les prestataires de services sur crypto-actifs qui exploitent une plate-forme de négociation de crypto-actifs mettent à la disposition du public les données publiées conformément aux articles 2 et 3 en présentant les données pré- et post-négociation ventilées par crypto-actif.\n\n3. En plus de présenter les données conformément au paragraphe 2, les prestataires de services sur crypto-actifs qui exploitent une plate-forme de négociation peuvent présenter les données visées au paragraphe 2 pour des ensembles de crypto-actifs.\n\n4. Les paragraphes 2 et 3 ne s’appliquent pas si les informations visées aux articles 2 et 3 sont mises à disposition gratuitement.",
+      "text_sha256": "f7721cdab67611997dfb51ca5ae29d9d251b312c2117b993ed12399e022fdf57",
+      "md_span": {
+        "start": 4788,
+        "end": 5826
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r0417:2024-11-28#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "c09b73b69148bd7d9e0dbfde231d12a005b999b8a85ebf9860b2b8bebb65247a",
+      "md_span": {
+        "start": 5859,
+        "end": 6000
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

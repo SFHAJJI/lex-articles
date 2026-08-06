@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "article_unique": [
       {
@@ -15,5 +16,21 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "article_unique": [
+        {
+          "valid_from": "2006-09-04",
+          "valid_to": null,
+          "text_sha256": "579b2206240b5aab1c41b77c63447bb6176ae798ba8174280ace93d425b2751d",
+          "in_version": "lu-legilux:loi-1990-07-25-n3:2006-09-04",
+          "article_valid_from": "2006-09-04"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

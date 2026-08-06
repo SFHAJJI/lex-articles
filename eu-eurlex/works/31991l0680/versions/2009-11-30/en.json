@@ -1,0 +1,80 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31991l0680:2009-11-30",
+  "language": "en",
+  "title": "Council Directive 91/680/EEC of 16 December 1991 supplementing the common system of value …",
+  "valid_from": "2009-11-30",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31991l0680/versions/2009-11-30/en.html",
+    "sha256": "80901b8877b8d6f8e078b4cf974b57e06135645c2dcd26ba214b62dc2338892f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01991L0680-20091130"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:31991l0680:2009-11-30#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** The following Directives shall cease to have effect on 31 December 1992 as regards relations between Member States:▼M2 —————▼B— Directive 85/362/EEC.\n\n**2.** The provisions on value added tax laid down in the following Directive shall cease to have effect on 31 December 1992:— Directive 74/651/EEC (1), as last amended by Directive 88/663/EEC (2),— Directive 83/182/EEC (3),— Directive 83/183/EEC (4), as amended by Directive 89/604/EEC (5).\n\n**3.** The provisions of Directive 69/169/EEC (6) as last amended by Directive 91/191/EEC (7) relating to value added tax shall cease to have effect on 31 December 1992 as regards relations between Member States.",
+      "text_sha256": "ed4773a67342eac7863c9106156e4050eb8442901f67cc6c6ae88d4967fdeb17",
+      "md_span": {
+        "start": 649,
+        "end": 1312
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0132",
+          "text": "▼M2"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31991L0680",
+          "text": "▼B"
+        },
+        {
+          "href": "#E0010",
+          "text": "1"
+        },
+        {
+          "href": "#E0011",
+          "text": "2"
+        },
+        {
+          "href": "#E0012",
+          "text": "3"
+        },
+        {
+          "href": "#E0013",
+          "text": "4"
+        },
+        {
+          "href": "#E0014",
+          "text": "5"
+        },
+        {
+          "href": "#E0015",
+          "text": "6"
+        },
+        {
+          "href": "#E0016",
+          "text": "7"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

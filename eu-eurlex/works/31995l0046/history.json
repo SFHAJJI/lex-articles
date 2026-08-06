@@ -1,0 +1,81 @@
+{
+  "lex_work_id": "eu-eurlex:31995l0046",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "html-eu-tolerant/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "document": [
+      {
+        "valid_from": "1995-10-24",
+        "valid_to": "2003-11-19",
+        "text_sha256": "1aeec1a0fee174cc086d8528f97dea852d035acabf74beaba7b4d5f4fb123b6f",
+        "in_version": "eu-eurlex:31995l0046:1995-10-24"
+      },
+      {
+        "valid_from": "2003-11-20",
+        "valid_to": "2018-05-24",
+        "text_sha256": "eefc5763f0dffccb7d5880e6a17e2471c45f573a8ca1db221c70ac4aecc13113",
+        "in_version": "eu-eurlex:31995l0046:2003-11-20"
+      },
+      {
+        "valid_from": "2018-05-25",
+        "valid_to": null,
+        "text_sha256": "a2bf43d491e9d71f6c50862f96c4455e53f9ea091bc75376d19ec9b2ea07effd",
+        "in_version": "eu-eurlex:31995l0046:2018-05-25"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "en": {
+      "document": [
+        {
+          "valid_from": "1995-10-24",
+          "valid_to": "2003-11-19",
+          "text_sha256": "1aeec1a0fee174cc086d8528f97dea852d035acabf74beaba7b4d5f4fb123b6f",
+          "in_version": "eu-eurlex:31995l0046:1995-10-24"
+        },
+        {
+          "valid_from": "2003-11-20",
+          "valid_to": "2018-05-24",
+          "text_sha256": "eefc5763f0dffccb7d5880e6a17e2471c45f573a8ca1db221c70ac4aecc13113",
+          "in_version": "eu-eurlex:31995l0046:2003-11-20"
+        },
+        {
+          "valid_from": "2018-05-25",
+          "valid_to": null,
+          "text_sha256": "a2bf43d491e9d71f6c50862f96c4455e53f9ea091bc75376d19ec9b2ea07effd",
+          "in_version": "eu-eurlex:31995l0046:2018-05-25"
+        }
+      ]
+    },
+    "fr": {
+      "document": [
+        {
+          "valid_from": "1995-10-24",
+          "valid_to": "2003-11-19",
+          "text_sha256": "93e926fbeeeae12fb27c746c0256eeda38aaa85fdd34dd06ff22dab5f822d949",
+          "in_version": "eu-eurlex:31995l0046:1995-10-24"
+        },
+        {
+          "valid_from": "2003-11-20",
+          "valid_to": "2018-05-24",
+          "text_sha256": "d8024876064c156bad6f03e8a306d32d759bbb1fc75942afc74805d05a8aaed6",
+          "in_version": "eu-eurlex:31995l0046:2003-11-20"
+        },
+        {
+          "valid_from": "2018-05-25",
+          "valid_to": null,
+          "text_sha256": "5d56190a8f89700db737ccba12286444e44ae6ad241959301cdc466272402072",
+          "in_version": "eu-eurlex:31995l0046:2018-05-25"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": []
+  }
+}

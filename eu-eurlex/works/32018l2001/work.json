@@ -2,9 +2,22 @@
   "lex_work_id": "eu-eurlex:32018l2001",
   "title": "RED II — Directive (EU) 2018/2001",
   "languages": [
-    "en"
+    "en",
+    "fr"
   ],
   "versions": [
+    {
+      "valid_from": "2018-12-11",
+      "valid_to": "2018-12-20",
+      "language": "en",
+      "provisions": 39
+    },
+    {
+      "valid_from": "2018-12-11",
+      "valid_to": "2018-12-20",
+      "language": "fr",
+      "provisions": 39
+    },
     {
       "valid_from": "2018-12-21",
       "valid_to": "2022-06-06",
@@ -12,33 +25,73 @@
       "provisions": 50
     },
     {
+      "valid_from": "2018-12-21",
+      "valid_to": "2022-06-06",
+      "language": "fr",
+      "provisions": 50
+    },
+    {
       "valid_from": "2022-06-07",
       "valid_to": "2023-11-19",
       "language": "en",
-      "provisions": 50
+      "provisions": 39
+    },
+    {
+      "valid_from": "2022-06-07",
+      "valid_to": "2023-11-19",
+      "language": "fr",
+      "provisions": 39
     },
     {
       "valid_from": "2023-11-20",
       "valid_to": "2024-06-05",
       "language": "en",
-      "provisions": 67
+      "provisions": 55
+    },
+    {
+      "valid_from": "2023-11-20",
+      "valid_to": "2024-06-05",
+      "language": "fr",
+      "provisions": 55
     },
     {
       "valid_from": "2024-06-06",
       "valid_to": "2024-07-15",
       "language": "en",
-      "provisions": 67
+      "provisions": 55
+    },
+    {
+      "valid_from": "2024-06-06",
+      "valid_to": "2024-07-15",
+      "language": "fr",
+      "provisions": 55
     },
     {
       "valid_from": "2024-07-16",
       "valid_to": null,
       "language": "en",
-      "provisions": 67
+      "provisions": 55
+    },
+    {
+      "valid_from": "2024-07-16",
+      "valid_to": null,
+      "language": "fr",
+      "provisions": 55
     }
   ],
   "anchors": [
+    "annexe_i",
+    "annexe_ii",
+    "annexe_iii",
+    "annexe_iv",
+    "annexe_ix",
+    "annexe_v",
+    "annexe_vi",
+    "annexe_vii",
+    "annexe_viii",
+    "annexe_x",
+    "annexe_xi",
     "anx_i",
-    "anx_ia",
     "anx_ii",
     "anx_iii",
     "anx_iv",
@@ -103,7 +156,8 @@
     "art_6",
     "art_7",
     "art_8",
-    "art_9"
+    "art_9",
+    "art_premier"
   ],
   "relations": {
     "amends": [],

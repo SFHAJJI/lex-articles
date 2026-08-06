@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32004l0066:2004-04-26",
+  "language": "en",
+  "title": "Council Directive 2004/66/EC of 26 April 2004 adapting Directives 1999/45/EC, 2002/83/EC, 2003/37/EC and 2003/59/EC",
+  "valid_from": "2004-04-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32004l0066/versions/2004-04-26/en.xml",
+    "sha256": "a2175ee1bb2d51e6a4aae7116c96a48b7c8cde8fc252d40f48fb5fc6697b4feb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0066"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32004l0066:2004-04-26#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nDirectives 1999/45/EC, 2002/83/EC, 2003/37/EC, 2003/59/EC, 77/388/EEC, 91/414/EEC, 96/26/EC, 2003/48/EC and 2003/49/EC are amended as set out in the Annex of this Directive.",
+      "text_sha256": "5f97b9f4a200f7a924f5eb0e2a2d11ec830774e85ac06bfe6311ab84b72fe579",
+      "md_span": {
+        "start": 660,
+        "end": 844
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32004l0066:2004-04-26#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nMember States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by the date of entry into force of the Treaty of Accession. As regards the provisions of this Directive adapting Directive 91/414/EC as amended, as well as Directives 2002/83/EC, 2003/37/EC and 2003/59/EC, the date of transposition shall be that laid down therein. Member States shall forthwith submit the text of the provisions transposing this Directive to the Commission, with a table setting out their correlation with the specific provisions of this Directive.\n\nWhen Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.",
+      "text_sha256": "fd66382f9a4e96d187ffcf32cb2cf45f05dc41990d72def69cae41160f168cf1",
+      "md_span": {
+        "start": 877,
+        "end": 1734
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32004l0066:2004-04-26#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Directive shall enter into force only subject to and on the date of the entry into force of the Treaty of Accession.",
+      "text_sha256": "1421435381e41a9c3d67c22df6d561af1f8cf9b8bf8996dc4d751bc9dace06f4",
+      "md_span": {
+        "start": 1767,
+        "end": 1899
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32004l0066:2004-04-26#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "46febe2055ef1f915cbf717390fb7bb227daf6166e4052d12f7f39bbce864281",
+      "md_span": {
+        "start": 1932,
+        "end": 1992
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

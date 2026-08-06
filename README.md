@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-CC--BY--4.0-blue?style=flat-square)](LICENSE)
 [![Live](https://img.shields.io/badge/live-law.soufien.lu-e0705f?style=flat-square)](https://law.soufien.lu)
-[![Records](https://img.shields.io/badge/dataset-88%2C981%20articles%20%C2%B7%20102%2C773%20texts-brightgreen?style=flat-square)](SCHEMA.md)
+[![Records](https://img.shields.io/badge/dataset-live%20catalog-brightgreen?style=flat-square)](catalog.json)
 [![Formats](https://img.shields.io/badge/formats-JSON%20%C2%B7%20JSONL%20%C2%B7%20parquet-orange?style=flat-square)](README.md)
 [![Engine](https://img.shields.io/badge/engine-SFHAJJI%2Flex-24292f?style=flat-square)](https://github.com/SFHAJJI/lex)
 
@@ -11,18 +11,18 @@ Clean Markdown and structured JSON for every provision of every consolidated
 version, with validity dates, stable publisher-minted IDs, and a hash chain
 back to the exact bytes the state published.
 
-**1,212 works · 2,926 derived versions · 88,981 provisions · 102,773 distinct
-text states.**
+The generated [catalog](catalog.json) and release assets are the source of truth
+for work, version, provision, and distinct-text counts. They are regenerated
+from the evidence repositories rather than copied into prose.
 
-- **Luxembourg**, every act the state maintains a *consolidated* edition for,
-  1849→2030: 1,206 of 1,399 works, 2,882 of 4,644 versions. The remainder are
-  versions for which the publisher offers no machine-readable text; they keep
-  their dates and a link to the official source rather than being dropped.
-- **EU**, six acts in full text from the Publications Office's Formex 4
-  structural XML: **GDPR, CRR, PSD2, MiFID II, NIS2, SFDR**. **DORA and the AI
-  Act are tracked but not included**, no consolidated body is retrievable for
-  them, so Lex holds their record and dates only and answers `text_withheld`
-  rather than guessing.
+- **Luxembourg**, every machine-readable version in Legilux's consolidated
+  collection. Versions without usable official text keep their dates and source
+  link rather than being dropped or reconstructed.
+- **EU**, the reviewed, configuration-led scope in French and English, including
+  every available original and consolidated expression and the legal
+  relationships needed for temporal tracing. When an amended work has no
+  official consolidation, its record and amendment timeline remain available
+  with `consolidation_status=not_published`; Lex never manufactures merged text.
 
 **[Examples](examples/)** ·
 **[Schema contract](SCHEMA.md)** ·
@@ -56,8 +56,8 @@ WHERE lex_id LIKE 'lu-legilux:rgd-2023-07-21-a444%'
 ```
 
 Or talk to the same data through the hosted MCP endpoint (any MCP client, no
-key), 9 tools including per-article `as_of` (outline/select modes) and
-`article_history`:
+key). The read-only tools cover both Luxembourg and EU material, including
+search, per-article `as_of`, timelines, history, comparison, and provenance:
 
 ```
 claude mcp add --transport http lex https://law.soufien.lu/mcp

@@ -1,0 +1,45 @@
+{
+  "lex_work_id": "eu-eurlex:12003tn02-18-a",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "html-eu-tolerant/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "document": [
+      {
+        "valid_from": "2003-04-16",
+        "valid_to": null,
+        "text_sha256": "29bb212a846bfa88c6d83bc03d1c161f0a6bf683306c27c7c8b92a54c218147b",
+        "in_version": "eu-eurlex:12003tn02-18-a:2003-04-16"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "en": {
+      "document": [
+        {
+          "valid_from": "2003-04-16",
+          "valid_to": null,
+          "text_sha256": "29bb212a846bfa88c6d83bc03d1c161f0a6bf683306c27c7c8b92a54c218147b",
+          "in_version": "eu-eurlex:12003tn02-18-a:2003-04-16"
+        }
+      ]
+    },
+    "fr": {
+      "document": [
+        {
+          "valid_from": "2003-04-16",
+          "valid_to": null,
+          "text_sha256": "81bd7a5e48562a57af8b6846c1477778bc8ddb5ab0e25ad8d4229190fb1e95c8",
+          "in_version": "eu-eurlex:12003tn02-18-a:2003-04-16"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": []
+  }
+}

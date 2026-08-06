@@ -1,0 +1,380 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32020r1818:2026-01-19",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2020/1818 of 17 July 2020 supplementing Regulation (EU) 2016/1011",
+  "valid_from": "2026-01-19",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32020r1818/versions/2026-01-19/en.html",
+    "sha256": "2aa9500f940bf53eba40cf140991e16ec21b058b5d4f77ab4555c8156cab99b6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R1818-20260119"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Definitions",
+      "path": [
+        "CHAPTER I — DEFINITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "For the purposes of this Regulation, the following definitions shall apply:\n\n(a) ‘greenhouse gas (GHG) emissions’ means greenhouse gas emissions as defined in Article 3, point (1), of Regulation (EU) 2018/842 of the European Parliament and of the Council (1);\n\n(b) ‘absolute greenhouse gas (GHG) emissions’ means tonnes of CO2 equivalent, as defined in Article 2, point (7), of Regulation (EU) No 517/2014 of the European Parliament and of the Council (2);\n\n(c) ‘greenhouse gas (GHG) intensity’ means absolute GHG emissions divided by millions of euros in enterprise value including cash;\n\n(d) ‘enterprise value including cash’ or ‘EVIC’ means the sum, at fiscal year-end, of the market capitalisation of ordinary shares, the market capitalization of preferred shares, and the book value of total debt and non-controlling interests, without the deduction of cash or cash equivalents;\n\n(e) ‘investable universe’ means the set of all investable instruments in a given asset class or group of asset classes;\n\n(f) ‘base year’ means the first of a series of years in a benchmark.",
+      "text_sha256": "ad3da3d44367d6a4433589439277b2a9dc33c8fdea5983f334fbf72966f7aa37",
+      "md_span": {
+        "start": 702,
+        "end": 1776
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        },
+        {
+          "href": "#E0002",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Reference temperature scenario",
+      "path": [
+        "CHAPTER II — MINIMUM STANDARDS FOR THE DESIGN OF THE BENCHMARK METHODOLOGY",
+        "SECTION 1 — MINIMUM STANDARDS COMMON FOR EU CLIMATE TRANSITION BENCHMARKS AND EU PARIS-ALIGNED BENCHMARKS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Administrators of EU Climate Transition Benchmarks and administrators of EU Paris-aligned Benchmarks shall use the 1,5 °C scenario, with no or limited overshoot, referred to in the Special Report on Global Warming of 1,5 °C from the Intergovernmental Panel on Climate Change (IPCC) as the reference temperature scenario to design the methodology to construct those benchmarks.",
+      "text_sha256": "53362416c992415c9ded60502a31372d47855a89c4c46906bf0223919bc27203",
+      "md_span": {
+        "start": 2036,
+        "end": 2412
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Equity allocation constraint",
+      "path": [
+        "CHAPTER II — MINIMUM STANDARDS FOR THE DESIGN OF THE BENCHMARK METHODOLOGY",
+        "SECTION 1 — MINIMUM STANDARDS COMMON FOR EU CLIMATE TRANSITION BENCHMARKS AND EU PARIS-ALIGNED BENCHMARKS"
+      ],
+      "article_valid_from": null,
+      "text_md": "EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks that are based on equity securities admitted to a public market in the Union or in another jurisdiction, shall have an aggregated exposure to the sectors listed in Sections A to H and Section L of Annex I to Regulation (EC) No 1893/2006 that is at least equivalent to the aggregated exposure of the underlying investable universe to those sectors.",
+      "text_sha256": "6be2c4656ea8d531f78836b38664d45d4373d2de128735a0004dfaf765667f86",
+      "md_span": {
+        "start": 2480,
+        "end": 2892
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Calculation of GHG intensity or absolute GHG emissions",
+      "path": [
+        "CHAPTER II — MINIMUM STANDARDS FOR THE DESIGN OF THE BENCHMARK METHODOLOGY",
+        "SECTION 1 — MINIMUM STANDARDS COMMON FOR EU CLIMATE TRANSITION BENCHMARKS AND EU PARIS-ALIGNED BENCHMARKS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Administrators of EU Climate Transition Benchmarks and administrators of EU Paris-aligned Benchmarks shall calculate the GHG intensity or, where applicable, the absolute GHG emissions of those benchmarks using the same currency for all of their underlying assets.\n\n**2.** Administrators of EU Climate Transition Benchmarks and administrators of EU Paris-aligned Benchmarks shall recalculate the GHG intensity and the absolute GHG emissions of those benchmarks on a yearly basis.",
+      "text_sha256": "2018cf49e4bf482b191dc0a4923d410f1da64b53786615b57ef90fb09ca71134",
+      "md_span": {
+        "start": 2986,
+        "end": 3471
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Phase-in of Scope 3 GHG emissions data in the benchmark methodology",
+      "path": [
+        "CHAPTER II — MINIMUM STANDARDS FOR THE DESIGN OF THE BENCHMARK METHODOLOGY",
+        "SECTION 1 — MINIMUM STANDARDS COMMON FOR EU CLIMATE TRANSITION BENCHMARKS AND EU PARIS-ALIGNED BENCHMARKS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The benchmark methodology for EU Climate Transition Benchmarks or EU Paris-aligned Benchmarks shall include Scope 3 GHG emissions data in the following way:(a) As of 23 December 2020, Scope 3 GHG emissions data for at least the energy and mining sectors referred to in Divisions 05 to 09 and 19 and 20 of Annex I to Regulation (EC) No 1893/2006;(b) within two years from 23 December 2020, Scope 3 GHG emissions data for at least the transportation, construction, buildings, materials and industrial sectors referred to in Divisions 10 to 18, 21 to 33, 41, 42 and 43, 49 to 53 and Division 81 of Annex I to Regulation (EC) No 1893/2006;(c) within four years from 23 December 2020, Scope 3 GHG emissions data for all other sectors referred to in Annex I to Regulation (EC) No 1893/2006.\n\n**2.** For the purposes of paragraph 1, point (a), from 23 December 2020 to 31 December 2021, administrators of EU Climate Transition Benchmarks and administrators of EU Paris-aligned Benchmarks may use fossil fuel reserves, where they demonstrate that they cannot calculate nor estimate Scope 3 GHG emissions data.",
+      "text_sha256": "6954b5e6b3f066ffb0c79c150a523d24ce5274156c995b180456340c17a0c569",
+      "md_span": {
+        "start": 3578,
+        "end": 4686
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Companies setting and publishing GHG emission reduction targets",
+      "path": [
+        "CHAPTER II — MINIMUM STANDARDS FOR THE DESIGN OF THE BENCHMARK METHODOLOGY",
+        "SECTION 1 — MINIMUM STANDARDS COMMON FOR EU CLIMATE TRANSITION BENCHMARKS AND EU PARIS-ALIGNED BENCHMARKS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Administrators of EU Climate Transition Benchmarks and administrators of EU Paris-aligned Benchmarks may increase in those benchmarks the weight of the issuers of the constituent securities that set and publish GHG emission reduction targets, where the following conditions are fulfilled:\n\n(a) the issuers of the constituent securities publish consistently and accurately their Scope 1, 2 and 3 GHG emissions;\n\n(b) the issuers of the constituent securities have reduced their GHG intensity or, where applicable, their absolute GHG emissions, including Scope 1, 2 and 3 GHG emissions, by an average of at least 7 % per annum for at least three consecutive years.\n\nFor the purposes of the first subparagraph, Scope 3 GHG emissions shall be construed in accordance with the phase-in implementation period set out in Article 5.",
+      "text_sha256": "4c5a7f57c47009f933c3016cbe74d8b253ce52a9c38333842d80c3e62b90a150",
+      "md_span": {
+        "start": 4789,
+        "end": 5612
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Setting a decarbonisation trajectory",
+      "path": [
+        "CHAPTER II — MINIMUM STANDARDS FOR THE DESIGN OF THE BENCHMARK METHODOLOGY",
+        "SECTION 1 — MINIMUM STANDARDS COMMON FOR EU CLIMATE TRANSITION BENCHMARKS AND EU PARIS-ALIGNED BENCHMARKS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The decarbonisation trajectory for EU Climate Transition Benchmarks and EU Paris-aligned Benchmarks shall have the following targets:(a) for equity securities admitted to a public market in the Union or in another jurisdiction, at least 7 % reduction of GHG intensity on average per annum;(b) for debt securities other than those issued by a sovereign issuer, where the issuer of those debt securities has equity securities admitted to a public market in the Union or in another jurisdiction, at least 7 % reduction of GHG intensity on average per annum or at least 7 % reduction of absolute GHG emissions on average per annum;(c) for debt securities other than those issued by a sovereign issuer, where the issuer of those debt securities does not have equity securities admitted to a public market in the Union or in another jurisdiction, at least 7 % reduction of absolute GHG emissions on average per annum.\n\n**2.** The targets referred to in paragraph 1 shall be calculated geometrically, which shall mean that the annual minimum 7 % reduction of GHG intensity or of absolute GHG emissions for year ‘n’ shall be calculated based on the GHG intensity or absolute GHG emissions for the year n-1, in a geometric progression from the base year.\n\n**3.** Where the average EVIC of the constituent securities of the benchmark has increased or decreased during the last calendar year, the EVIC of each constituent shall be adjusted by dividing it by an enterprise value inflation adjustment factor. That enterprise value inflation adjustment factor shall be calculated by dividing the average EVIC of the benchmark constituents at the end of a calendar year by the average EVIC of the benchmark constituents at the end of the previous calendar year.\n\n**4.** Administrators of EU Climate Transition Benchmarks and administrators of EU Paris-aligned Benchmarks shall, for each year in which the targets laid down in paragraph 1 are not achieved, compensate for those missed targets by upwardly adjusting the targets in their decarbonisation trajectory for the following year.\n\n**5.** Administrators of EU Climate Transition Benchmarks and administrators of EU Paris-aligned Benchmarks shall no longer be able to label their benchmarks as such where:(a) the targets laid down in paragraph 1 are not achieved in a given year and the target miss is not compensated in the following year; or(b) the targets laid down in paragraph 1 are not achieved on three occasions in any consecutive 10-year period.\n\nBenchmark administrators may relabel a benchmark as an EU Climate Transition Benchmark or as an EU Paris-aligned Benchmark where that benchmark meets the decarbonisation trajectory target for two consecutive years following the loss of the label, unless that benchmark lost that label twice.",
+      "text_sha256": "12f16f5dda1f1c7db5eb5222d6f5852ab23ce0ddfdc1418fbf747f5c16852577",
+      "md_span": {
+        "start": 5688,
+        "end": 8481
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Change in GHG intensity and absolute GHG emissions",
+      "path": [
+        "CHAPTER II — MINIMUM STANDARDS FOR THE DESIGN OF THE BENCHMARK METHODOLOGY",
+        "SECTION 1 — MINIMUM STANDARDS COMMON FOR EU CLIMATE TRANSITION BENCHMARKS AND EU PARIS-ALIGNED BENCHMARKS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The change in GHG intensity or absolute GHG emissions shall be calculated as the percentage change between, on the one hand, the weighted average GHG intensity or absolute GHG emissions of all constituents of the EU Climate Transition Benchmark or the EU Paris-aligned Benchmark at the end of year ‘n’ and, on the other hand, the weighted average GHG intensity or absolute GHG emissions of all constituents of the benchmarks at the end of year n-1.\n\n**2.** Benchmark administrators shall use a new base year whenever significant changes in the calculation methodology of GHG intensity or absolute GHG emissions occur.\n\nFor the purposes of the first subparagraph, a new base year shall mean the year against which the decarbonisation trajectory referred to in Article 7 is calculated.\n\nThe selection of a new base year shall be without prejudice to the rules laid down in Article 7(5).",
+      "text_sha256": "8525a12d7b62b878a33da92ef1dc915b4136d022177e4b0fcdbf9007d9b18890",
+      "md_span": {
+        "start": 8571,
+        "end": 9462
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Baseline reduction of GHG intensity or absolute GHG emissions for EU Climate Transition Benchmarks",
+      "path": [
+        "CHAPTER II — MINIMUM STANDARDS FOR THE DESIGN OF THE BENCHMARK METHODOLOGY",
+        "SECTION 2 — MINIMUM STANDARDS FOR EU CLIMATE TRANSITION BENCHMARKS"
+      ],
+      "article_valid_from": null,
+      "text_md": "The GHG intensity or, where applicable, absolute GHG emissions for EU Climate Transition Benchmarks, including Scope 1, 2 and 3 GHG emissions, shall be at least 30 % lower than the GHG intensity or absolute GHG emissions of the investable universe.\n\nFor the purposes of the first subparagraph, Scope 3 GHG emissions shall be construed in accordance with the phase-in implementation period set out in Article 5.",
+      "text_sha256": "7bb4e2c5d7f5f30e503b18b395559a467f7f510f03599e420c61e48238691e17",
+      "md_span": {
+        "start": 9672,
+        "end": 10082
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Exclusions for EU Climate Transition Benchmarks",
+      "path": [
+        "CHAPTER II — MINIMUM STANDARDS FOR THE DESIGN OF THE BENCHMARK METHODOLOGY",
+        "SECTION 2 — MINIMUM STANDARDS FOR EU CLIMATE TRANSITION BENCHMARKS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Administrators of EU Climate Transition Benchmarks shall disclose in their methodology whether and how they exclude companies.\n\n**2.** By 31 December 2022, administrators of EU Climate Transition Benchmarks shall comply with the requirements set out in Article 12(1), points (a), (b) and (c), and Article 12(2).",
+      "text_sha256": "bc3d71bb598ab5ef2161997805765366e79ddd5cf52ebf393c553f0587459413",
+      "md_span": {
+        "start": 10171,
+        "end": 10489
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Baseline reduction of GHG intensity or absolute GHG emissions for EU Paris-aligned Benchmarks",
+      "path": [
+        "CHAPTER II — MINIMUM STANDARDS FOR THE DESIGN OF THE BENCHMARK METHODOLOGY",
+        "SECTION 3 — MINIMUM STANDARDS FOR EU PARIS-ALIGNED BENCHMARKS"
+      ],
+      "article_valid_from": null,
+      "text_md": "The GHG intensity or, where applicable, absolute GHG emissions for EU Paris-aligned Benchmarks, including Scope 1, 2 and 3 GHG emissions, shall be at least 50 % lower than the GHG intensity or absolute GHG emissions of the investable universe.\n\nFor the purposes of the first subparagraph, Scope 3 GHG emissions shall be construed in accordance with the phase-in implementation period set out in Article 5.",
+      "text_sha256": "e519afce3e735eda873f04c0afa58ad2a5efd02b8b4e352855fa8a9012ae7ac0",
+      "md_span": {
+        "start": 10691,
+        "end": 11096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Exclusions for EU Paris-aligned Benchmarks",
+      "path": [
+        "CHAPTER II — MINIMUM STANDARDS FOR THE DESIGN OF THE BENCHMARK METHODOLOGY",
+        "SECTION 3 — MINIMUM STANDARDS FOR EU PARIS-ALIGNED BENCHMARKS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Administrators of EU Paris-aligned Benchmarks shall exclude all of the following companies from those benchmarks:▼M1(a) companies involved in any activities related to prohibited weapons;▼B(b) companies involved in the cultivation and production of tobacco;(c) companies that benchmark administrators find in violation of the United Nations Global Compact (UNGC) principles or the Organisation for Economic Cooperation and Development (OECD) Guidelines for Multinational Enterprises;(d) companies that derive 1 % or more of their revenues from exploration, mining, extraction, distribution or refining of hard coal and lignite;(e) companies that derive 10 % or more of their revenues from the exploration, extraction, distribution or refining of oil fuels;(f) companies that derive 50 % or more of their revenues from the exploration, extraction, manufacturing or distribution of gaseous fuels;(g) companies that derive 50 % or more of their revenues from electricity generation with a GHG intensity of more than 100 g CO2 e/kWh.\n\nFor the purposes of point (a), prohibited weapons shall mean anti-personnel mines, cluster munitions, biological and chemical weapons the use, possession, development, transfer, manufacture, and stockpiling of which is expressly prohibited by the international arms conventions to which the majority of Member States are parties, as listed in the Annex.\n\n**2.** Administrators of EU Paris-aligned Benchmarks shall exclude from those benchmarks any companies that are found or estimated by them or by external data providers to significantly harm one or more of the environmental objectives referred to in Article 9 of Regulation (EU) 2020/852 of the European Parliament and of the Council (3), in accordance with the rules on estimations laid down in Article 13(2) of this Regulation.\n\n**3.** Administrators of EU Paris-aligned Benchmarks shall disclose in their benchmark methodology any additional exclusion criteria they use and which are based on climate-related or other environmental, social and governance (ESG) factors.",
+      "text_sha256": "aa1f58060ed376148de61f84719658235160f6c03b3429303a167a123bbb1a0f",
+      "md_span": {
+        "start": 11180,
+        "end": 13245
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32025R1775",
+          "text": "▼M1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R1818",
+          "text": "▼B"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32025R1775",
+          "text": "32025R1775: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R1818",
+          "text": "32020R1818"
+        },
+        {
+          "href": "#E0003",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Transparency requirements for estimations",
+      "path": [
+        "CHAPTER III — TRANSPARENCY AND ACCURACY"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** In addition to the requirements laid down in Annex III to Regulation (EU) 2016/1011, administrators of EU Climate Transition Benchmarks and administrators of EU Paris-aligned Benchmarks shall comply with the following requirements:(a) administrators of EU Climate Transition Benchmarks and administrators of EU Paris-aligned Benchmarks that use estimations that are not based on data provided by an external data provider, shall formalise, document and make public the methodology upon which such estimations are based, including:(i) the approach that they have used to calculate GHG emissions, and the main assumptions and the precautionary principles underlying those estimations;(ii) the research methodology to estimate missing, unreported, or underreported GHG emissions;(iii) the external data sets used in the estimation of missing, unreported or underreported GHG emissions;(b) administrators of EU Climate Transition Benchmarks and administrators of EU Paris-aligned Benchmarks that use estimations that are based on data provided by an external data provider shall formalise, document and make public all of the following information:(i) the name and contact details of the data provider;(ii) the methodology used and the main assumptions and precautionary principles, where available;(iii) a hyperlink to the website of the data provider, and to the relevant methodology used, where available.\n\n**2.** For the purposes of Article 12(2), administrators of EU Paris-aligned Benchmarks shall comply with the following requirements:(a) administrators of EU Paris-aligned Benchmarks that use estimations that are not based on data provided by an external data provider shall formalise, document and make public the methodology upon which such estimations are based, including:(i) the approach and research methodology that they have used, and the main assumptions and precautionary principles underlying those estimations;(ii) the external data sets used in the estimation;(b) administrators of EU Paris-aligned Benchmarks that use estimations that are based on data provided by an external data provider shall formalise, document and make public all of the following information:(i) the name and contact details of the data provider;(ii) the methodology used and the main assumptions and precautionary principles, where available;(iii) a hyperlink to the website of the data provider, and to the relevant methodology used, where available.",
+      "text_sha256": "9d440e1176200cca489fe8382a8938a1e38969d1920cc23ceedc37ff81a1ffdb",
+      "md_span": {
+        "start": 13372,
+        "end": 15825
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Disclosure of the decarbonisation trajectory",
+      "path": [
+        "CHAPTER III — TRANSPARENCY AND ACCURACY"
+      ],
+      "article_valid_from": null,
+      "text_md": "Administrators of EU Climate Transition Benchmarks and administrators of EU Paris-aligned Benchmarks shall formalise, document and make public the decarbonisation trajectories of those benchmarks, the base year used for the determination of those decarbonisation trajectories, and where the targets laid down in the decarbonisation trajectory are not met, the reasons for that failure and the steps that they will take to reach the adjusted target referred to in Article 7(4).",
+      "text_sha256": "133447beea6d1ea5c4ef290c5b9dedc5d5448dd850e4352db10b8a05406fd9e2",
+      "md_span": {
+        "start": 15911,
+        "end": 16387
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Accuracy of the data sources",
+      "path": [
+        "CHAPTER III — TRANSPARENCY AND ACCURACY"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Administrators of EU Climate Transition Benchmarks and administrators of EU Paris-aligned Benchmarks shall ensure that data on Scope 1, 2 and 3 GHG emissions are accurate, in accordance with global or European standards, such as the Product Environmental Footprint (PEF), the Organisation Environmental Footprint (OEF) methods (4), the Corporate Value Chain (Scope 3) Accounting and Reporting Standard (5), the EN ISO 14064 or the EN ISO 14069.\n\n**2.** For the purposes of paragraph 1, administrators of EU Climate Transition Benchmarks and administrators of EU Paris-aligned Benchmarks shall disclose in their methodology the standard used.\n\n**3.** Administrators of EU Climate Transition Benchmarks and administrators of EU Paris-aligned Benchmarks shall ensure the comparability and quality of GHG emissions data.",
+      "text_sha256": "54275a3a63bbacacc50087ec9f025f6c46bfd5509b50dccc59498e1bf4e4036c",
+      "md_span": {
+        "start": 16457,
+        "end": 17280
+      },
+      "citations": [
+        {
+          "href": "#E0004",
+          "text": "4"
+        },
+        {
+          "href": "#E0005",
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32020r1818:2026-01-19#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Entry into force and application",
+      "path": [
+        "CHAPTER IV — FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+      "md_span": {
+        "start": 17388,
+        "end": 17530
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

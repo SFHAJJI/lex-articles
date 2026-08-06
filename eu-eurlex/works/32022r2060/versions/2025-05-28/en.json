@@ -1,0 +1,185 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r2060:2025-05-28",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2022/2060 of 14\u00A0June 2022 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2025-05-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r2060/versions/2025-05-28/en.html",
+    "sha256": "f0ba5a67d63443e00b15d9470ba8135f55383c0d1b50481af5461b21e6269fb9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R2060-20250528"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r2060:2025-05-28#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Criteria for the assessment of the modellability of risk factors that do not belong to a curve, a surface or a cube",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Risk factors of the positions referred to in Article 325be(1) of Regulation (EU) No 575/2013 that do not belong to a curve, a surface or a cube shall be assessed as modellable where either of the following criteria is met:(a) over an observation period of 12 months ending at the previous reporting reference date referred to in Article 2(1), point (b), of Commission Implementing Regulation (EU) 2021/451 (1), both of the following conditions are met:(i) the institution has identified for that risk factor the existence of at least 24 prices which are verifiable in accordance with Article 2 of this Regulation, which have distinct observation dates and which are considered representative of that risk factor in accordance with Article 3 of this Regulation;(ii) there has not been a period of 90 days or more in which there were less than four of the verifiable prices referred to in point (i);(b) over the observation period of 12 months referred to in point (a), the institution has identified for that risk factor the existence of at least 100 prices which are verifiable in accordance with Article 2 of this Regulation, which have distinct observation dates and which are considered representative of that risk factor in accordance with Article 3 of this Regulation.\n\n**2.** An institution may replace the 12-month period referred to in paragraph 1 by a 12-month period ending no earlier than one month before the previous reporting reference date referred to in Article 2(1), point (b), of Implementing Regulation (EU) 2021/451 (‘shifted period’), where all of the following conditions are met:(a) the institution applies that shifted period consistently across all risk factors of the same type as the risk factor concerned;(b) the institution applies that shifted period consistently over time;(c) the institution provides the competent authority with a detailed description of the application of that shifted period.",
+      "text_sha256": "7149a3249f7ec4777587b888dc6bae6b7f7a5ba0afb5c8a793ae0e473e383425",
+      "md_span": {
+        "start": 780,
+        "end": 2714
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r2060:2025-05-28#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Verifiable prices",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** A price shall be considered verifiable where any of the following conditions are met:(a) the price is obtained from a transaction to which the institution was one of the parties and which was entered into at arm’s length;(b) the price is obtained from a transaction which was entered into by third parties at arm’s length and that meets all the conditions set out in paragraph 5;(c) the price is obtained from actual bona fide competitive bid and offer quotations provided at arm’s length by the institution itself or by third parties, the values at which the institution or the third parties have committed to execute a transaction in accordance with trade custom and that meets all the conditions set out in paragraph 5.\n\n**2.** Notwithstanding paragraph 1, a price shall not be considered verifiable where any of the following conditions are met:(a) the price is obtained from a transaction or bid and offer quotations between two entities of the same group;(b) the price is obtained from a transaction or bid and offer quotations of a negligible volume as compared to usual volume of transactions or quotations reflective of current market conditions;(c) the price is obtained from quotations with a bid-offer spread that deviates substantially from bid-offer spreads reflective of current market conditions;(d) the price is obtained from a transaction that has been conducted with the sole purpose of identifying a sufficient number of verifiable prices that meet the criteria set out in Article 1 of this Regulation;(e) the price is obtained from quotations that have been committed with the sole purpose of identifying a sufficient number of verifiable prices that meet the criteria set out in Article 1 of this Regulation.\n\n**3.** The observation date of a verifiable price shall be identical to the date on which the transaction was executed or to the date on which the bid and offer quotations were committed. The observation dates of verifiable prices shall be recorded based on a consistent single time zone across all data sources.\n\n**5.** A transaction or bid and offer quotations shall only be used for the purposes of paragraph 1, points (b) and (c), where all of the following conditions are met:(a) the transaction or quotations have been processed through, or collected by, a third-party vendor;(b) the third-party vendor or the institution has agreed to provide to the institution’s competent authority, where requested, evidence of the transaction or the quotations and evidence of the verifiability of the price obtained from that transaction or those quotations;(c) the third-party vendor has communicated to the institution the date on which the transaction or the quotations have been observed, and a minimum set of information on the transaction or the quotations to enable the institution to map the verifiable price to the risk factors for which that price obtained from that transaction or those quotations is representative in accordance with Article 3 of this Regulation;(d) the institution has verified that the third-party vendor is subject, at least annually, to an independent audit by a third-party undertaking, within the meaning of Article 325bi(1), second subparagraph, of Regulation (EU) No 575/2013, regarding the validity of its price information, governance and processes, and has access to audit results and reports, in order to be able to communicate to its competent authority, where requested, those results and reports.\n\n**6.** For the purposes of paragraph 5, point (d), the independent audit shall assess all of the following:(a) whether the third-party vendor possesses the information necessary to check that the price is verifiable and to map the verifiable price to the risk factors for which that price is representative in accordance with Article 3 of this Regulation;(b) whether the third-party vendor is able to demonstrate the integrity of the information referred to in point (a);(c) whether the third-party vendor has in place internal processes and a sufficient number of staff with a level of skills appropriate for the management of the information referred to in point (a);(d) whether, where a third-party vendor does not provide the institution with the information necessary to check the verifiability of the price, the third-party vendor is contractually obliged to have checked the verifiability of the price.\n\n**7.** Where a third-party vendor does not provide the institution with the information necessary to check the verifiability of the price, the institution shall be able to demonstrate to its competent authority that the third-party vendor is contractually obliged to have checked the verifiability of the price.",
+      "text_sha256": "b77271b9e0180483b00139a2c12ec6eee47f233a3c2fc5029040c335f9db5596",
+      "md_span": {
+        "start": 2771,
+        "end": 7469
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32025R0878",
+          "text": "32025R0878: DELETED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R2060",
+          "text": "32022R2060"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r2060:2025-05-28#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Representativeness of verifiable prices for risk factors",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** A verifiable price shall be considered representative of a risk factor as of its observation date where all of the following conditions are met:(a) there is a close relationship between the risk factor and the verifiable price;(b) the institution has specified a conceptually sound methodology to extract the value of the risk factor from the value of the verifiable price.\n\nFor the purposes of point (b), any input data or risk factor used in the methodology other than the verifiable price shall be based on objective data.\n\n**2.** Any verifiable price may be counted as an observation for the purposes of Article 1 for all of the risk factors for which it is representative in accordance with paragraph 1.\n\n**3.** Where an institution uses a systematic credit or equity risk factor to capture market-wide movements for given attributes of a pool of issuers, including the country, region or sector of those issuers, verifiable prices of market indices or instruments of individual issuers shall be considered to be representative for that systematic risk factor only where they share the same attributes as that systematic risk factor.",
+      "text_sha256": "a60aaa5e3012dc26384a01efbe22a3fbda62506c175768a3bd7453dc8cce8a27",
+      "md_span": {
+        "start": 7565,
+        "end": 8710
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r2060:2025-05-28#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Criteria for the assessment of the modellability of risk factors that belong to a curve, a surface or a cube",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Risk factors for the positions referred to in Article 325be(1) of Regulation (EU) No 575/2013 that belong to a curve, surface or cube shall be assessed as modellable by applying the following steps in the following order:(a) for each curve, surface or cube, the institution determines the relevant buckets of risk factors in accordance with Article 5 of this Regulation;(b) the institution determines the modellability of the relevant buckets referred to in point (a) in accordance with paragraph 2;(c) the institution considers as modellable any risk factor that belongs to a bucket that has been considered modellable in accordance with paragraph 2.\n\n**2.** The criteria for assessing whether a bucket is modellable shall be either of the following:(a) over an observation period of 12 months ending at the previous reporting reference date referred to in Article 2(1), point (b), of Implementing Regulation (EU) 2021/451:(i) the institution has identified for that bucket the existence of at least 24 prices which are verifiable in accordance with Article 2 of this Regulation, which have distinct observation dates and which are allocated to that bucket, and(ii) there has not been a period of 90 days or more in which there were less than four of the verifiable prices referred to in point (i);(b) over the observation period of 12 months referred to in point (a), the institution has identified for that bucket the existence of at least 100 prices which are verifiable in accordance with Article 2 of this Regulation, which have distinct observation dates and which are allocated to that bucket.\n\n**3.** An institution may replace the 12-month period referred to in paragraph 2 by a 12-month period ending no earlier than one month before the previous reporting reference date referred to in Article 2(1), point (b), of Implementing Regulation (EU) 2021/451, (‘shifted period’) where all of the following conditions are met:(a) the institution applies that shifted period consistently across all the buckets of a curve, a surface or a cube;(b) the institution applies that shifted period consistently over time;(c) the institution provides its competent authority with a detailed description of the application of that shifted period.\n\n**4.** A verifiable price shall be allocated to a bucket where it is representative in accordance with Article 3 of this Regulation for a risk factor that belongs to that bucket.\n\n**5.** For the purposes of paragraph 4, an institution may consider as a risk factor any point of the curve, surface or cube belonging to the bucket, regardless of whether such point is a risk factor included in its risk-measurement model.",
+      "text_sha256": "a4ac278df9f6190d37fb1c1e6558be04986836e117b9cdb082f58ca0550994f2",
+      "md_span": {
+        "start": 8858,
+        "end": 11526
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32022r2060:2025-05-28#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Bucketing approaches for risk factors belonging to curves, surfaces or cubes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** For each curve, surface or cube to which a risk factor belongs, institutions shall determine the buckets of that curve, surface or cube using either the standard pre-defined buckets referred to in paragraph 2, or buckets defined by the institutions themselves provided that those institutions meet the requirements of paragraph 3.\n\n**2.** For the purposes of paragraph 1, the standard pre-defined buckets shall be the following:(a) the nine buckets referred to in row i of Table 1 of paragraph 3 for risk factors with one maturity dimension * ‘t’ *, expressed in years, which have been assigned to the following broad risk factor categories:(i) ‘interest rate’, except those risk factors assigned to the broad risk factor subcategory ‘volatility’;(ii) ‘foreign exchange’, except those risk factors assigned to the broad risk factor subcategory ‘volatility’;(iii) ‘commodity’, except those risk factors assigned to the broad risk factor subcategories ‘energy volatility and carbon emissions volatility’, ‘precious metal volatility and non-ferrous metal volatility’ and ‘other commodity volatilities’;(b) the six buckets referred to in row ii of Table 1 of paragraph 3 for each maturity dimension * ‘t’ * of risk factors with more than one maturity dimension, expressed in years, which have been assigned to the following broad risk factor categories:(i) ‘interest rate’, except for the risk factors assigned to the broad risk factor subcategory ‘volatility’;(ii) ‘foreign exchange’, except for the risk factors assigned to the broad risk factor subcategory ‘volatility’;(iii) ‘commodity’, except for the risk factors assigned to the broad risk factor subcategories ‘energy volatility and carbon emissions volatility’, ‘precious metal volatility and non-ferrous metal volatility’ and ‘other commodity volatilities’;(c) the five buckets referred to in row iii of Table 1 of paragraph 3 for each maturity dimension * ‘t’ * for risk factors with one or several maturity dimensions, expressed in years, which have been assigned to the following broad risk factor categories:(i) ‘credit spread’, except those risk factors assigned to the broad risk factor subcategory ‘volatility’;(ii) ‘equity’, except those risk factors assigned to the broad risk factor subcategories ‘volatility (large market capitalisation)’ and ‘volatility (small market capitalisation)’;(d) the five buckets referred to in row iv of Table 1 of paragraph 3 for any risk factors with one or several moneyness dimensions, as expressed using the options’ delta (‘δ* ’ *);(e) the five buckets referred to in row iii of Table 1 of paragraph 3 and the five buckets referred to in row iv of Table 1 of paragraph 3 for risk factors which have been assigned to the following broad risk factor categories:(i) ‘foreign exchange’, for those risk factors assigned to the broad risk factor subcategory ‘volatility’;(ii) ‘credit spread’, for those risk factors assigned to the broad risk factor subcategory ‘volatility’;(iii) ‘equity’, for those risk factors assigned to the broad risk factor subcategories ‘volatility (large market capitalisation)’ and ‘volatility (small market capitalisation)’;(iv) ‘commodity’, for those risk factors assigned to the broad risk factor subcategories ‘energy volatility and carbon emissions volatility’, ‘precious metal volatility and non-ferrous metal volatility’ and ‘other commodity volatilities’;(f) the six buckets referred to in row ii of Table 1 of paragraph 3, the five buckets referred to in row iii of Table 1 of paragraph 3 and the five buckets referred to in row iv of Table 1 of paragraph 3 for risk factors assigned to the broad risk factor category ‘interest rate’ and to the broad risk factor subcategory ‘volatility’ with a maturity, expiry and moneyness dimension.\n\nFor the purposes of point (d), for option markets using other conventions than the option’s delta for the definition of the moneyness, institutions shall convert the buckets referred to in row iv of Table 1 of paragraph 3 to the prevailing conventions in those option markets using quantitative techniques derived from the institution’s own pricing models provided that those pricing models have been well documented and have been independently reviewed.\n\n**3.** For the purposes of paragraph 2, a standard bucket may be subdivided in smaller buckets.*Table 1*Bucket no.123456789i.0 ≤ *t* < 0,750,75 ≤ *t* <1,51,5 ≤ *t* <44 ≤ *t* < 77 ≤ *t* < 1212 ≤ *t* < 1818 ≤ *t* < 2525 ≤ *t* < 3535 ≤ *t*ii.0 ≤ *t* <0,750,75 ≤ *t* < 44 ≤ *t* < 1010 ≤ *t* < 1818 ≤ *t* < 3030 ≤ *t* iii.0 ≤ *t* < 1,51,5 ≤ *t* < 3,53,5 ≤ *t* < 7,57,5 ≤ *t* < 1515 ≤ *t* iv.0 ≤ *δ* < 0,050,05 ≤ *δ* < 0,30,3 ≤ *δ* < 0.70,7 ≤ *δ* < 0,950,95 ≤ *δ* ≤ 1\n\n**4.** For the purposes of paragraph 1, institutions may establish themselves buckets for a given curve, surface or a cube where all of the following conditions are met:(a) the buckets cover the whole curve, surface or cube;(b) the buckets are non-overlapping;(c) each bucket contains exactly one risk factor that is part of the calculation of the theoretical changes in the portfolio’s value of one of the trading desks of the institution to assess compliance with the profit and loss attribution requirements laid down in Article 325bg of Regulation (EU) No 575/2013.\n\n**5.** For the assessment of the modellability of risk factors of the broad risk factor category ‘credit spread’ belonging to a certain maturity bucket, an institution may reallocate the verifiable prices of a bucket to the adjacent bucket related to shorter maturities only where all of the following conditions are met:(a) the institution does not have exposure to any risk factor belonging to the bucket corresponding to the longer maturities and hence does not use any of these risk factors within its risk-management model;(b) any verifiable price is only counted in a single maturity bucket;(c) any verifiable price is only reallocated once.",
+      "text_sha256": "5c3ce6dd5e54664906a20639fc64f089649639ccbd109cf6307e19d669793645",
+      "md_span": {
+        "start": 11642,
+        "end": 17555
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32022r2060:2025-05-28#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Criteria for the assessment of the modellability of risk factors representing function parameters of a parametric curve, a surface or a cube",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Institutions that use one or more parametric functions to represent a curve, a surface or a cube and incorporate the function parameters as risk factors in their internal risk-measurement models shall assess the modellability of those function parameters by applying for each parametric function the following steps in the following order:(a) those institutions identify the set of points of the curve, the surface or the cube that were used to calibrate the parametric function;(b) those institutions apply the bucketing approach set out in Article 5(2) as if the risk factors in their risk-measurement model were the points identified pursuant to point (a);(c) those institutions assess, in accordance with Article 4, paragraphs 2 and 3, the modellability of the buckets resulting from the application of the bucketing approach set out in Article 5(2), as if the risk factors in their risk-measurement model were the points identified in accordance with point (a).\n\n**2.** The modellability of a parameter of the parametric function as referred to in paragraph 1 shall be assessed by identifying the set of points of the curve, the surface or the cube that were used to calibrate that function parameter. Where the identified points belong only to buckets assessed as modellable pursuant to paragraph 1, point (c), the function parameter shall be assessed as modellable.",
+      "text_sha256": "e4e399589e6905b2d410064a2dc1c085d90cc614391cd5e06c7b4120740c6fff",
+      "md_span": {
+        "start": 17735,
+        "end": 19114
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32022r2060:2025-05-28#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Documentation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Institutions shall document in their internal policies all of the following:(a) the set and description of the risk factors in their internal risk-measurement model subject to the modellability assessment;(b) the sources of verifiable price information used to assess the modellability of risk factors;(c) the criteria for a price to be considered verifiable in accordance with Article 2, including an outline of how the institution assesses whether the volume of a transaction or of a committed quote is non-negligible as referred to in Article 2(2), point (b), and whether the bid-offer spread of a quote is reasonable as referred to in Article 2(2), point (c);(d) the mapping process and the criteria used to determine the representativeness of verifiable prices for risk factors as referred to in Article 3, including an outline of the methodology specified for the extraction of the value of the risk factor from the verifiable prices and any additional input the methodology potentially requires;(e) the modellability assessment for parametric curves, surfaces or cubes as referred to in Article 6;(f) the use of the bucketing approaches referred to in Article 5, also specifying whether and how the institution applies Article 5(5);(g) the use of the 12-month shifted period in accordance with Article 1(2) or with Article 4(3).\n\nWhere an institution’s sources of verifiable price information referred to in point (b) of the first subparagraph include third-party vendors, the institution shall document in addition for each third-party vendor the number of risk factors that have been classified as modellable on the basis of the verifiable prices provided by that third party vendor, and a materiality assessment of those risk factors.\n\n**2.** For each risk factor, institutions shall keep a record of at least one year of the results of their modellability assessment, including the documentation referred to in paragraph 1. For risk factors for which a track record of one year of results is not yet available, institutions shall keep the maximum available track record of results.",
+      "text_sha256": "99e5ff4c9b192f8a6a8798ee2c67c5de66187b6451f3c3d89a25c27ed94292f3",
+      "md_span": {
+        "start": 19167,
+        "end": 21266
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32025R0878",
+          "text": "32025R0878: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R2060",
+          "text": "32022R2060"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32022r2060:2025-05-28#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Entry into force",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+      "md_span": {
+        "start": 21322,
+        "end": 21464
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

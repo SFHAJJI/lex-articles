@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0526:2014-03-12",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) No 526/2014 of 12 March 2014 supplementing Regulation (EU) No 575/2013",
+  "valid_from": "2014-03-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0526/versions/2014-03-12/fr.xml",
+    "sha256": "494acf0bc1b65b6207a16f91ed228c9ea2719936e0378c01261524947a1306cf",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0526"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0526:2014-03-12#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. L'approximation d'écart pour une contrepartie donnée est considérée comme appropriée au regard de la notation, du secteur d'activité et de l'implantation géographique de la contrepartie en vertu de l'article 383, paragraphe 1, quatrième alinéa, du règlement (UE) no 575/2013, lorsque les conditions suivantes sont satisfaites:\n\n| a) | l'approximation d'écart est déterminée au regard de toutes les caractéristiques spécifiques fondées sur la notation, le secteur d'activité et l'implantation géographique de la contrepartie spécifiées aux points b), c) et d); |\n| --- | --- |\n\n| b) | la caractéristique spécifique fondée sur la notation a été déterminée au vu de l'utilisation d'une hiérarchie prédéterminée des sources de notations internes et externes. Les notations doivent être mises en correspondance avec les échelons de qualité de crédit visés à l'article 384, paragraphe 2, du règlement (UE) no 575/2013. Si plusieurs notations externes sont disponibles, leur mise en correspondance avec les échelons de qualité du crédit doit suivre l'approche pour les évaluations de crédit multiples telle qu'énoncée à l'article 138 dudit règlement; |\n| --- | --- |\n\n| c) | la caractéristique spécifique fondée sur le secteur d'activité a été déterminée en tenant compte, au minimum, des catégories suivantes:i)secteur public;ii)secteur financier;iii)autres; |\n| --- | --- |\n| i) | secteur public; |\n| ii) | secteur financier; |\n| iii) | autres; |\n\n| d) | la caractéristique spécifique fondée sur l'implantation géographique a été déterminée en tenant compte, au minimum, des catégories suivantes:i)Europe;ii)Amérique du Nord;iii)Asie;iv)reste du monde; |\n| --- | --- |\n| i) | Europe; |\n| ii) | Amérique du Nord; |\n| iii) | Asie; |\n| iv) | reste du monde; |\n\n| e) | l'approximation d'écart tient compte de façon représentative des écarts sur contrat d'échange sur risque de crédit disponibles et des écarts des autres instruments de risque de crédit négociés sur les marchés liquides, correspondant à la combinaison pertinente de catégories applicables et satisfaisant aux critères de qualité des données visés au paragraphe 3; |\n| --- | --- |\n\n| f) | le caractère approprié de l'approximation d'écart est déterminé en référence à la volatilité plutôt qu'au niveau de l'écart. |\n| --- | --- |\n\n2. Lors du processus de prise en compte des caractéristiques spécifiques fondées sur la notation, le secteur d'activité et l'implantation géographique de la contrepartie en vertu du paragraphe 1, il est approprié d'estimer l'approximation d'écart pour une autorité régionale ou locale sur la base de l'écart de crédit de l'émetteur souverain concerné dès lors que l'une des deux conditions suivantes est remplie:\n\n| a) | l'autorité régionale ou locale et l'entité souveraine ont les mêmes notations; |\n| --- | --- |\n\n| b) | il n'existe pas de notation pour l'autorité régionale ou locale. |\n| --- | --- |\n\n3. Toutes les données utilisées dans la détermination d'une approximation d'écart sont basées sur des données fiables observées sur un marché liquide à double sens tel que défini à l'article 338, paragraphe 1, deuxième alinéa, du règlement (UE) no 575/2013. Suffisamment de données doivent être disponibles pour générer des approximations d'écart pour toutes les durées pertinentes ainsi que pour les périodes historiques visées à l'article 383, paragraphe 5, dudit règlement.",
+      "text_sha256": "513433e5f97b5e993a3ec70d8a3df674e73c5ad5003036083985d47ee2b14f98",
+      "md_span": {
+        "start": 652,
+        "end": 4042
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0526:2014-03-12#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nPour identifier les pertes en cas de défaut de la contrepartie (LGDMKT) aux fins du calcul des exigences de fonds propres pour risque de CVA selon la méthode avancée pour une contrepartie nécessitant l'utilisation d'une approximation d'écart, les établissements doivent utiliser une valeur LGDMKT cohérente avec les valeurs LGD fixes communément utilisées par les acteurs du marché pour déterminer les PD induites par les écarts de marché qui ont été utilisés pour déterminer l'approximation d'écart pour la contrepartie en question en vertu de l'article 1er.",
+      "text_sha256": "62b6a6fc04564228f43cb62be6d452e67bb95cedb378fe6573ad1e9e82599560",
+      "md_span": {
+        "start": 4075,
+        "end": 4645
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0526:2014-03-12#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Pour respecter le critère du nombre limité de portefeuilles de petite taille visé à l'article 383, paragraphe 4, du règlement (UE) no 575/2013, toutes les conditions suivantes doivent être satisfaites:\n\n| a) | le nombre de toutes les transactions non IMM exposées au risque de CVA ne dépasse pas 15 % du nombre total de transactions exposées au risque de CVA; |\n| --- | --- |\n\n| b) | la taille de chaque ensemble de compensation non IMM exposé au risque de CVA ne dépasse pas 1 % de la taille totale de tous les ensembles de compensation exposés au risque de CVA; |\n| --- | --- |\n\n| c) | la taille totale de tous les ensembles de compensation non IMM exposés au risque de CVA ne dépasse pas 10 % de la taille totale de tous les ensembles de compensation exposés au risque de CVA; |\n| --- | --- |\n\n2. Aux fins des points b) et c) du paragraphe 1, la taille d'un ensemble de compensation correspond à l'exposition au moment du défaut de l'ensemble de compensation calculée selon la méthode de l'évaluation au prix du marché définie à l'article 274 du règlement (UE) no 575/2013, compte tenu des effets de la compensation, conformément à l'article 298 dudit règlement, mais pas des effets des sûretés.\n\n3. Aux fins du paragraphe 1, un établissement calcule, pour chaque trimestre, la moyenne arithmétique des valeurs relevées au moins une fois par mois des ratios des éléments suivants:\n\n| a) | le nombre de transactions non IMM par rapport au nombre total de transactions; |\n| --- | --- |\n\n| b) | la taille individuelle du plus grand ensemble de compensation non IMM par rapport à la taille totale de tous les ensembles de compensation; et |\n| --- | --- |\n\n| c) | la taille totale de tous les ensembles de compensation non IMM par rapport à la taille totale de tous les ensembles de compensation. |\n| --- | --- |\n\n4. Lorsque le critère spécifié au paragraphe 1 n'est pas satisfait pour deux calculs consécutifs visés au paragraphe 3, un établissement utilise la méthode standard indiquée à l'article 384 du règlement (UE) no 575/2013 pour calculer les exigences de fonds propres pour risque de CVA pour tous les ensembles de compensation non IMM et en informe les autorités compétentes.\n\n5. Les conditions énoncées au paragraphe 1 s'appliquent sur une base individuelle, sous-consolidée ou consolidée, en fonction de la portée de l'autorisation d'utiliser la méthode du modèle interne visée à l'article 283 du règlement (UE) no 575/2013.",
+      "text_sha256": "d8fb1e59a0df8504c1964fb537de6343c0e1a456e8e741017d09fa8cb9351d4e",
+      "md_span": {
+        "start": 4678,
+        "end": 7127
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r0526:2014-03-12#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "6229ea20ae69931b41c4c86108df961b31bc79d879a770b1657ed4c7decd8f7b",
+      "md_span": {
+        "start": 7160,
+        "end": 7301
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

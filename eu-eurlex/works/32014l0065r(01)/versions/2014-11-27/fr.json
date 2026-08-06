@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014l0065r(01):2014-11-27",
+  "language": "fr",
+  "title": "Rectificatif à la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 …",
+  "valid_from": "2014-11-27",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014l0065r(01)/versions/2014-11-27/fr.xml",
+    "sha256": "7ed500facb1eb17d42db16b45caed1c69f8557bd1486f6567154e68548835097",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014L0065R%2801%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32014l0065r(01):2014-11-27#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "27.11.2014 FR Journal officiel de l'Union européenne L 341/32 Rectificatif à la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE ( «Journal officiel de l'Union européenne» L 173 du 12 juin 2014 ) 1) Page 361, au considérant 74: au lieu de: «… d'accepter, en les conservant des droits, des commissions ou tout autre avantage pécuniaire et non pécuniaire provenant de tiers …» lire: «… d'accepter, en les conservant des droits, des commissions ou tout autre avantage monétaire et non monétaire provenant de tiers …». 2) Page 399, à l'article 17, paragraphe 4: au lieu de: «4. Aux fins du présent article et de l'article 48 de la présente directive, une entreprise d'investissement est considérée comme appliquant une stratégie de tenue de marché lorsque …» lire: «4. Aux fins du présent article et de l'article 48 de la présente directive, une entreprise d'investissement recourant au trading algorithmique est considérée comme appliquant une stratégie de tenue de marché lorsque …» . 3) Page 406, à l'article 24, paragraphe 7, point b): au lieu de: «… Les avantages monétaires mineurs qui sont susceptibles …» lire: «… Les avantages non monétaires mineurs qui sont susceptibles …». 4) Page 406, à l'article 24, paragraphe 8: au lieu de: «… Les avantages monétaires mineurs qui sont susceptibles …» lire: «… Les avantages non monétaires mineurs qui sont susceptibles …». 5) Page 407, à l'article 24, paragraphe 9, premier alinéa: au lieu de: «… ou fournissent ou reçoivent un avantage non pécuniaire …» lire: «… ou fournissent ou reçoivent un avantage non monétaire …». 6) Page 407, à l'article 24, paragraphe 9, deuxième alinéa: au lieu de: «… sur les mécanismes de transfert au client de la rémunération, de la commission et de l'avantage pécuniaire ou non pécuniaire reçus …» lire: «… sur les mécanismes de transfert au client de la rémunération, de la commission et de l'avantage monétaire ou non monétaire reçus …». 7) Page 412, à l'article 27, paragraphe 2: au lieu de: «2. Une entreprise d'investissement ne reçoit aucune rémunération, aucune remise ou aucun avantage non pécuniaire …» lire: «2. Une entreprise d'investissement ne reçoit aucune rémunération, aucune remise ou aucun avantage non monétaire …» .",
+      "text_sha256": "97088973d464ec51b95cfbff9cf7eeb40074521c639da46dbed770946745e35a",
+      "md_span": {
+        "start": 663,
+        "end": 3012
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

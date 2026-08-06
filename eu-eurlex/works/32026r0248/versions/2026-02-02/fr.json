@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0248:2026-02-02",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2026/248 of 2\u00A0February 2026 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2026-02-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0248/versions/2026-02-02/fr.xml",
+    "sha256": "29f8bec5151c1c4fcd6ae3b376069ee430683aa18bb1faabc5413dcb7520840c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0248"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0248:2026-02-02#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les États membres qui exigent une signature électronique avancée ou une signature électronique avancée reposant sur un certificat qualifié, conformément à l’article 27, paragraphes 1 et 2, du règlement (UE) no 910/2014, reconnaissent les signatures électroniques avancées utilisant un format ou un conteneur de signature associé qui respectent les spécifications techniques énumérées à l’annexe I du présent règlement.\n\n2. Les États membres reconnaissent les signatures électroniques avancées utilisant un format ou un conteneur de signature associé qui respectent les spécifications techniques énumérées à l’annexe II du présent règlement, lorsque ces signatures électroniques ont été créées avant le 23 février 2028.",
+      "text_sha256": "73dc4271dffd819d308a71bd8702622a07889a7c142494002d9b3ca261ceb5a9",
+      "md_span": {
+        "start": 681,
+        "end": 1419
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0248:2026-02-02#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les États membres qui exigent une signature électronique avancée ou une signature électronique avancée reposant sur un certificat qualifié conformément à l’article 27, paragraphes 1 et 2, du règlement (UE) no 910/2014, reconnaissent les formats de signatures électroniques avancées autres que ceux mentionnés à l’article 1er du présent règlement, lorsque:\n\n| a) | l’État membre dans lequel le prestataire de services de confiance utilisé par le signataire est établi propose à d’autres États membres des méthodes de validation de signature pour ces formats; et que |\n| --- | --- |\n\n| b) | ces méthodes de validation sont appliquées conformément au paragraphe 2. |\n| --- | --- |\n\n2. Les méthodes de validation des autres formats de signature remplissent toutes les conditions suivantes:\n\n| a) | elles sont, dans la mesure du possible, adaptées au traitement automatisé; |\n| --- | --- |\n\n| b) | elles permettent à d’autres États membres de valider en ligne, gratuitement, la signature électronique reçue; |\n| --- | --- |\n\n| c) | elles fournissent des instructions claires, complètes, facilement compréhensibles et accessibles pour procéder à la validation; |\n| --- | --- |\n\n| d) | elles figurent dans le document signé, dans la signature électronique ou dans le conteneur de documents électroniques; |\n| --- | --- |\n\n| e) | elles confirment la validité d’une signature électronique avancée, à condition que:—le certificat qui prend en charge la signature électronique avancée ait été valide au moment de la signature,—lorsque la signature électronique avancée est prise en charge par un certificat qualifié, ce certificat qualifié ait été, au moment de la signature, un certificat qualifié pour signature électronique conforme à l’annexe I du règlement (UE) no 910/2014 et qu’il ait été établi par un prestataire de services de confiance qualifié,—les données de validation de signature correspondent aux données transmises à la partie utilisatrice,—l’ensemble unique de données représentant le signataire soit correctement fourni à la partie utilisatrice,—si un pseudonyme a été utilisé au moment de la signature, la partie utilisatrice en ait été clairement informée,—lorsque la signature électronique avancée est créée par un dispositif de création de signature électronique qualifié, l’utilisation d’un tel dispositif ait été clairement indiquée à la partie utilisatrice,—l’intégrité des données signées n’ait pas été compromise,—les exigences prévues à l’article 26 du règlement (UE) no 910/2014 aient été respectées au moment de la signature,—le système utilisé pour valider la signature électronique avancée fournisse à la partie utilisatrice le résultat correct du processus de validation et lui permette de détecter tout problème pertinent relatif à la sécurité. |\n| --- | --- |\n| — | le certificat qui prend en charge la signature électronique avancée ait été valide au moment de la signature, |\n| — | lorsque la signature électronique avancée est prise en charge par un certificat qualifié, ce certificat qualifié ait été, au moment de la signature, un certificat qualifié pour signature électronique conforme à l’annexe I du règlement (UE) no 910/2014 et qu’il ait été établi par un prestataire de services de confiance qualifié, |\n| — | les données de validation de signature correspondent aux données transmises à la partie utilisatrice, |\n| — | l’ensemble unique de données représentant le signataire soit correctement fourni à la partie utilisatrice, |\n| — | si un pseudonyme a été utilisé au moment de la signature, la partie utilisatrice en ait été clairement informée, |\n| — | lorsque la signature électronique avancée est créée par un dispositif de création de signature électronique qualifié, l’utilisation d’un tel dispositif ait été clairement indiquée à la partie utilisatrice, |\n| — | l’intégrité des données signées n’ait pas été compromise, |\n| — | les exigences prévues à l’article 26 du règlement (UE) no 910/2014 aient été respectées au moment de la signature, |\n| — | le système utilisé pour valider la signature électronique avancée fournisse à la partie utilisatrice le résultat correct du processus de validation et lui permette de détecter tout problème pertinent relatif à la sécurité. |\n\n3. Les informations visées au paragraphe 2, point d), permettent aux parties utilisatrices d’accéder facilement et gratuitement aux spécifications complètes de la méthode de validation de la signature.",
+      "text_sha256": "d6a32f584e87239c2dfd21efff058e52cd105bd0c7acb1c03deca1f58d76744a",
+      "md_span": {
+        "start": 1452,
+        "end": 5890
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32026r0248:2026-02-02#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les États membres qui exigent un cachet électronique avancé ou un cachet électronique avancé reposant sur un certificat qualifié conformément à l’article 37, paragraphes 1 et 2, du règlement (UE) no 910/2014, reconnaissent les cachets électroniques avancés utilisant des formats ou des conteneurs de cachet associés qui respectent les spécifications techniques énumérées à l’annexe I du présent règlement.\n\n2. Les États membres reconnaissent les cachets électroniques avancés utilisant des formats ou des conteneurs de cachets associés qui respectent les spécifications techniques énumérées à l’annexe II du présent règlement lorsque ces cachets électroniques ont été créés avant le 23 février 2028.",
+      "text_sha256": "95c438d73f23f92c14d4b9fa25537f5948b610574f3a4ca07e0a19018ac89885",
+      "md_span": {
+        "start": 5923,
+        "end": 6636
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32026r0248:2026-02-02#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les États membres qui exigent un cachet électronique avancé ou un cachet électronique avancé reposant sur un certificat qualifié conformément à l’article 37, paragraphes 1 et 2, du règlement (UE) no 910/2014, reconnaissent les formats de cachets électroniques autres que ceux mentionnés à l’article 3 du présent règlement, lorsque:\n\n| a) | l’État membre dans lequel le prestataire de services de confiance utilisé par le créateur du cachet est établi propose à d’autres États membres des méthodes de validation de cachet pour ces formats; et que |\n| --- | --- |\n\n| b) | ces méthodes de validation sont appliquées conformément au paragraphe 2. |\n| --- | --- |\n\n2. Les méthodes de validation des autres formats de cachet remplissent toutes les conditions suivantes:\n\n| a) | elles sont, dans la mesure du possible, adaptées au traitement automatisé; |\n| --- | --- |\n\n| b) | elles permettent à d’autres États membres de valider en ligne, gratuitement, le cachet électronique reçu; |\n| --- | --- |\n\n| c) | elles fournissent des instructions claires, complètes, facilement compréhensibles et accessibles pour procéder à la validation; |\n| --- | --- |\n\n| d) | elles figurent dans le document portant le cachet, dans le cachet électronique ou dans le conteneur de documents électroniques; et |\n| --- | --- |\n\n| e) | elles confirment la validité d’un cachet électronique avancé, à condition que:—le certificat qui prend en charge le cachet électronique avancé ait été valide au moment de l’apposition du cachet,—lorsque le cachet électronique avancé est pris en charge par un certificat qualifié, ce certificat qualifié ait été, au moment de l’apposition du cachet, un certificat qualifié pour cachet électronique conforme à l’annexe III du règlement (UE) no 910/2014 et qu’il ait été établi par un prestataire de services de confiance qualifié,—les données de validation du cachet correspondent aux données communiquées à la partie utilisatrice,—l’ensemble unique de données représentant le créateur du cachet soit correctement fourni à la partie utilisatrice,—si un pseudonyme a été utilisé au moment de l’apposition du cachet, la partie utilisatrice en ait été clairement informée,—lorsque le cachet électronique avancé est créé par un dispositif de création de cachet électronique qualifié, l’utilisation d’un tel dispositif ait été clairement indiquée à la partie utilisatrice,—l’intégrité des données portant le cachet n’ait pas été compromise,—les exigences prévues à l’article 36 du règlement (UE) no 910/2014 aient été satisfaites au moment de l’apposition du cachet, et que—le système utilisé pour valider le cachet électronique avancé fournisse à la partie utilisatrice le résultat correct du processus de validation et permette à celle-ci de détecter tout problème pertinent relatif à la sécurité. |\n| --- | --- |\n| — | le certificat qui prend en charge le cachet électronique avancé ait été valide au moment de l’apposition du cachet, |\n| — | lorsque le cachet électronique avancé est pris en charge par un certificat qualifié, ce certificat qualifié ait été, au moment de l’apposition du cachet, un certificat qualifié pour cachet électronique conforme à l’annexe III du règlement (UE) no 910/2014 et qu’il ait été établi par un prestataire de services de confiance qualifié, |\n| — | les données de validation du cachet correspondent aux données communiquées à la partie utilisatrice, |\n| — | l’ensemble unique de données représentant le créateur du cachet soit correctement fourni à la partie utilisatrice, |\n| — | si un pseudonyme a été utilisé au moment de l’apposition du cachet, la partie utilisatrice en ait été clairement informée, |\n| — | lorsque le cachet électronique avancé est créé par un dispositif de création de cachet électronique qualifié, l’utilisation d’un tel dispositif ait été clairement indiquée à la partie utilisatrice, |\n| — | l’intégrité des données portant le cachet n’ait pas été compromise, |\n| — | les exigences prévues à l’article 36 du règlement (UE) no 910/2014 aient été satisfaites au moment de l’apposition du cachet, et que |\n| — | le système utilisé pour valider le cachet électronique avancé fournisse à la partie utilisatrice le résultat correct du processus de validation et permette à celle-ci de détecter tout problème pertinent relatif à la sécurité. |\n\n3. Les informations visées au paragraphe 2, point d), permettent aux parties utilisatrices d’accéder facilement et gratuitement aux spécifications complètes de la méthode de validation du cachet.",
+      "text_sha256": "664ff4b26e202de4148c3514f290c407fd955510c90c8e4c875a10fa6eb1ce47",
+      "md_span": {
+        "start": 6669,
+        "end": 11182
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32026r0248:2026-02-02#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLa décision d’exécution (UE) 2015/1506 est abrogée.\n\nLes références à la décision abrogée s’entendent comme faites au présent règlement.",
+      "text_sha256": "195ad0b78758c79689148f9764ea5fe355c746e75994c7005925b78bd5d4adf2",
+      "md_span": {
+        "start": 11215,
+        "end": 11362
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32026r0248:2026-02-02#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nL’article 1er, paragraphe 1, et l’article 3, paragraphe 1, sont applicables à partir du 23 février 2027.",
+      "text_sha256": "76a4e1506f3dfdf6576bde5c856e7df45377ca835615e90a8a2e5d1dd304c52b",
+      "md_span": {
+        "start": 11395,
+        "end": 11642
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

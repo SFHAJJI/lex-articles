@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0988:2017-06-06",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2017/988 of 6 June 2017 laying down implementing t…",
+  "valid_from": "2017-06-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0988/versions/2017-06-06/fr.xml",
+    "sha256": "98be72738d385340a06777f27f020f4fa7acfba9ca5f3b959f1fd02f2c7a0c53",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R0988"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0988:2017-06-06#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les autorités compétentes des États membres d'origine et d'accueil d'une plate-forme de négociation dont les activités ont acquis une importance considérable au sens de l'article 79, paragraphe 2, de la directive 2014/65/UE mettent en place des dispositifs de coopération proportionnés, au moyen d'un accord de coopération tel qu'établi à l'annexe I.\n\n2. Les autorités compétentes des États membres d'origine et d'accueil peuvent adapter ou compléter l'accord de coopération type figurant à l'annexe I afin que ses dispositions soient proportionnées aux circonstances particulières qui rendent la coopération nécessaire.\n\n3. Les autorités compétentes des États membres d'origine et d'accueil envoient les demandes de coopération sous le format prévu à l'annexe II et y répondent sous le format prévu à l'annexe III.",
+      "text_sha256": "2fd9a96f57a1d18bddbd0702a4bf3119118281ce5e1abdf74e8840c0ab4c40df",
+      "md_span": {
+        "start": 636,
+        "end": 1471
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0988:2017-06-06#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à compter du 3 janvier 2018.",
+      "text_sha256": "386eb35d42320c13dd9a0aa1f96f37050392987da8e187218f2cc6df9c357753",
+      "md_span": {
+        "start": 1504,
+        "end": 1689
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

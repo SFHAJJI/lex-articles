@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022l0228:2022-02-16",
+  "language": "fr",
+  "title": "Directive (EU) 2022/228",
+  "valid_from": "2022-02-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022l0228/versions/2022-02-16/fr.xml",
+    "sha256": "2ef626cfc8bcd7eb54f6006972476355ccdc73b6dc8835c665eff30e273ac1b1",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022L0228"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022l0228:2022-02-16#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’article 20 de la directive 2014/41/UE est supprimé.",
+      "text_sha256": "005137e5fa52851e83344deacea28328a72a10be33c380d67d8e55275eb9b762",
+      "md_span": {
+        "start": 568,
+        "end": 638
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022l0228:2022-02-16#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le 14 mars 2023. Ils en informent immédiatement la Commission.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les États membres communiquent à la Commission le texte des dispositions de droit interne qu’ils adoptent dans le domaine régi par la présente directive.",
+      "text_sha256": "178e6dd9f39d910128e85870f51ff9eaea0d7876a9e19a619b54e0355a701b88",
+      "md_span": {
+        "start": 671,
+        "end": 1338
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022l0228:2022-02-16#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLa présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "33d675349ea71b50fecd79643cf4d588edb987445b0a9353a37d98672f1c30b7",
+      "md_span": {
+        "start": 1371,
+        "end": 1513
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022l0228:2022-02-16#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes États membres sont destinataires de la présente directive conformément aux traités.",
+      "text_sha256": "0ae38d84e139139b57c73e6cfb09dbe9e43868bbbd2abebd8544cba943ea4af0",
+      "md_span": {
+        "start": 1546,
+        "end": 1644
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

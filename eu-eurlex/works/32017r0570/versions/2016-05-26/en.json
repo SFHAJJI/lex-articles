@@ -1,0 +1,65 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0570:2016-05-26",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/570 of 26 May 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2016-05-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0570/versions/2016-05-26/en.xml",
+    "sha256": "aa1af9d177023a0be648ca511e4b7c9968a987a1e354653c30aaaeb536ce85d4",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0570"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0570:2016-05-26#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nFor the purposes of the second subparagraph of Article 48(5) of Directive 2014/65/EU, the material market in terms of liquidity shall be considered to be:\n\n| (a) | in respect of shares, depositary receipts, exchange-traded funds, certificates and other similar financial instruments, the trading venue which is the most relevant market in terms of liquidity for the instrument as set out in Article 4 of Commission Delegated Regulation (EU) 2017/587 (3), |\n| --- | --- |\n\n| (b) | in respect of financial instruments other than those set out in point (a) which are admitted to trading on a regulated market, the regulated market where the financial instrument was first admitted to trading; |\n| --- | --- |\n\n| (c) | in respect of financial instruments other than those set out in point (a) which are not admitted to trading on a regulated market, the trading venue where the financial instrument was first traded. |\n| --- | --- |",
+      "text_sha256": "28dc37d90a53771e281f69dc0735062506ffd907697c74d4dd1873b2552ccfca",
+      "md_span": {
+        "start": 640,
+        "end": 1579
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2017087EN.01012401-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0570:2016-05-26#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nThis Regulation shall apply from the date that appears first in the second subparagraph of Article 93(1) of Directive 2014/65/EU.",
+      "text_sha256": "2d3b1033329e67a72b3de0779d48afa1191c65de6876f5faee47afb5a661ffee",
+      "md_span": {
+        "start": 1612,
+        "end": 1894
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

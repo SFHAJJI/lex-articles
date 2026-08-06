@@ -1,0 +1,2421 @@
+{
+  "lex_work_id": "eu-eurlex:32014r0680",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "fmx4-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "anx_i": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2015-05-31",
+        "text_sha256": "f3d3dee4e42d931fbfbdfb8292b31e78bdbc92797e5c7a4850b187a97ab3dca0",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2015-06-01",
+        "valid_to": "2016-11-30",
+        "text_sha256": "717a89ff1b3409eb23a71eb32335c18e8a388df123703300be80b593a112470e",
+        "in_version": "eu-eurlex:32014r0680:2015-06-01"
+      },
+      {
+        "valid_from": "2016-12-01",
+        "valid_to": "2018-02-28",
+        "text_sha256": "b5722ad18a7f4995da573281b3c684f4d490f3d0753d11031fa410e7ef35592d",
+        "in_version": "eu-eurlex:32014r0680:2016-12-01"
+      },
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": "2018-11-30",
+        "text_sha256": "d6c47761103fae8c47fa77626bdc69b30d22140475065bfcfcf0df58555c1e21",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      },
+      {
+        "valid_from": "2018-12-01",
+        "valid_to": "2020-05-31",
+        "text_sha256": "0d6c65c9d878ecfea0ad201c61eb09eb354fb3c9b6bac18e1e3f64a3f9081fdf",
+        "in_version": "eu-eurlex:32014r0680:2018-12-01"
+      },
+      {
+        "valid_from": "2020-06-01",
+        "valid_to": null,
+        "text_sha256": "14e7e3c442635fa257fc116861695ad32c668ba2613e2b8f55d0c6f76e28d78a",
+        "in_version": "eu-eurlex:32014r0680:2020-06-01"
+      }
+    ],
+    "anx_ii": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2015-05-31",
+        "text_sha256": "289ea4571198c20c5c16712db39d762cdab35beb383a533323850881a39e31f7",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2015-06-01",
+        "valid_to": "2016-04-19",
+        "text_sha256": "03a497246dbbb17c53b293e6beacfbc97cef1aec6f8a35bc15bbc2cd567ad9c3",
+        "in_version": "eu-eurlex:32014r0680:2015-06-01"
+      },
+      {
+        "valid_from": "2016-04-20",
+        "valid_to": "2016-11-30",
+        "text_sha256": "f3fdd018b6a6f7555289370e74b3df1b5b1c9a9ee1e59b8cc3f3d4efd662fdf0",
+        "in_version": "eu-eurlex:32014r0680:2016-04-20"
+      },
+      {
+        "valid_from": "2016-12-01",
+        "valid_to": "2018-02-28",
+        "text_sha256": "f68977b210b60519ab64b3497257913c64d6dc6464b481e73321a67c8caa4eca",
+        "in_version": "eu-eurlex:32014r0680:2016-12-01"
+      },
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": "2018-11-30",
+        "text_sha256": "70527d1a869fd2c2d84c622d6ca1fcb84e568e01936a20e1647385f62a56eeb1",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      },
+      {
+        "valid_from": "2018-12-01",
+        "valid_to": "2020-05-31",
+        "text_sha256": "7eb62b580c9dd77b768f4a12d87fd266fe7593b4f4fb616540414e4ccbabb642",
+        "in_version": "eu-eurlex:32014r0680:2018-12-01"
+      },
+      {
+        "valid_from": "2020-06-01",
+        "valid_to": null,
+        "text_sha256": "584ade07cb8b38fe06abe03ea5da1cf51d25f410fabe24f22a2509dc15deb543",
+        "in_version": "eu-eurlex:32014r0680:2020-06-01"
+      }
+    ],
+    "anx_iii": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2015-05-31",
+        "text_sha256": "c56ec5c0438009f26d1c7edff3f9046051c9a4097a1152b385dcfaebc9af57b1",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2015-06-01",
+        "valid_to": "2016-11-30",
+        "text_sha256": "258b78e23c50ef93f6a002a552b724832b2ae4e731b930d3a8fac58a8983fdc9",
+        "in_version": "eu-eurlex:32014r0680:2015-06-01"
+      },
+      {
+        "valid_from": "2016-12-01",
+        "valid_to": "2017-12-31",
+        "text_sha256": "d23808949e23548baf35f94fddadac78babf3ce8922b9fb7dea4fa328dd2d74b",
+        "in_version": "eu-eurlex:32014r0680:2016-12-01"
+      },
+      {
+        "valid_from": "2018-01-01",
+        "valid_to": "2018-02-28",
+        "text_sha256": "1f12f2f5fb235a87a17e0282e66649ef73579b46a1b4bfe9dfc8f426e6a74384",
+        "in_version": "eu-eurlex:32014r0680:2018-01-01"
+      },
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": "2020-05-31",
+        "text_sha256": "cc883277eba1719fd01dbff262bda2fabe55d0dc163008d16c5c425d32a6325d",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      },
+      {
+        "valid_from": "2020-06-01",
+        "valid_to": null,
+        "text_sha256": "5ac42e9dfda5acd5dabc046d95a3c59ddd73fc96256e58343990da325ed896db",
+        "in_version": "eu-eurlex:32014r0680:2020-06-01"
+      }
+    ],
+    "anx_iv": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2015-05-31",
+        "text_sha256": "c7f10535a1fe6f9cefad4e87cce761a20e1fe836f0ffce31491a5591672a4e9a",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2015-06-01",
+        "valid_to": "2016-11-30",
+        "text_sha256": "c0796968141fb5db086663cdd0eaa0dc89ae360399c4d0b66c8852a538fb3a96",
+        "in_version": "eu-eurlex:32014r0680:2015-06-01"
+      },
+      {
+        "valid_from": "2016-12-01",
+        "valid_to": "2017-12-31",
+        "text_sha256": "318c55f0cac4ef2dbeb2dd6065ed7661b1961604b58431a890f24e5e57d07c79",
+        "in_version": "eu-eurlex:32014r0680:2016-12-01"
+      },
+      {
+        "valid_from": "2018-01-01",
+        "valid_to": "2018-02-28",
+        "text_sha256": "1d8fd4b29e901425a63b8741a4608c5d20c10c24470fed43a27734f7383c25ed",
+        "in_version": "eu-eurlex:32014r0680:2018-01-01"
+      },
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": "2020-05-31",
+        "text_sha256": "637ea557d71987ed04f660e58137fc38930797e55bb698207ce5585a65684dc7",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      },
+      {
+        "valid_from": "2020-06-01",
+        "valid_to": null,
+        "text_sha256": "c293a84363d79479975087adf2a8ea95b3a96a4ff6165d43309f04f04e4142d4",
+        "in_version": "eu-eurlex:32014r0680:2020-06-01"
+      }
+    ],
+    "anx_ix": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2015-05-31",
+        "text_sha256": "75a726231083ab7a4c27794ff6f7fa78507164c05549296e857a7f8b5ce16e60",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2015-06-01",
+        "valid_to": "2016-11-30",
+        "text_sha256": "f831795e6c92fb39fe1908bfa71dabae65525d5ac6febcd621f4c73a9ebe9b60",
+        "in_version": "eu-eurlex:32014r0680:2015-06-01"
+      },
+      {
+        "valid_from": "2016-12-01",
+        "valid_to": "2018-11-30",
+        "text_sha256": "6abf342fb00924e9b41f181140ebf17b685d5cb5b6ed08d41cd5e6744efd0a9d",
+        "in_version": "eu-eurlex:32014r0680:2016-12-01"
+      },
+      {
+        "valid_from": "2018-12-01",
+        "valid_to": null,
+        "text_sha256": "17260ddbcad8c8b436b352e9768a2ef765b90914f001229646659810f435bc35",
+        "in_version": "eu-eurlex:32014r0680:2018-12-01"
+      }
+    ],
+    "anx_v": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2015-05-31",
+        "text_sha256": "a8b7be6e07867b6a47bc00538ae9a91f54ea05a12cb1490040e3559a86b07e42",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2015-06-01",
+        "valid_to": "2016-04-19",
+        "text_sha256": "9b1ee952bdc2c7ab87f16a9f9607ed8c53df0f37158568bf0a30db5c6c7991af",
+        "in_version": "eu-eurlex:32014r0680:2015-06-01"
+      },
+      {
+        "valid_from": "2016-04-20",
+        "valid_to": "2016-11-30",
+        "text_sha256": "8e8d399ff88c35b894de32bdf70cd681abacc1d2d000bcf07c8b0df8f8eebbac",
+        "in_version": "eu-eurlex:32014r0680:2016-04-20"
+      },
+      {
+        "valid_from": "2016-12-01",
+        "valid_to": "2017-12-31",
+        "text_sha256": "2019929eabd806c8173022b6a619d623d039c27bdf96f307e7cb471fd75e98cd",
+        "in_version": "eu-eurlex:32014r0680:2016-12-01"
+      },
+      {
+        "valid_from": "2018-01-01",
+        "valid_to": "2018-11-30",
+        "text_sha256": "4619aee196d499133ff1d067e62ce63b660042f32151e545a3463b7a29c3ae5e",
+        "in_version": "eu-eurlex:32014r0680:2018-01-01"
+      },
+      {
+        "valid_from": "2018-12-01",
+        "valid_to": "2020-05-31",
+        "text_sha256": "97af359d4c8e8ac4345f784e8196d2c9b2605cb2469015b9db90b2f774da16f5",
+        "in_version": "eu-eurlex:32014r0680:2018-12-01"
+      },
+      {
+        "valid_from": "2020-06-01",
+        "valid_to": null,
+        "text_sha256": "b14f756e4b051d161b151861a7221c51fd4ca438f8cd7afdd42f2147242da6cf",
+        "in_version": "eu-eurlex:32014r0680:2020-06-01"
+      }
+    ],
+    "anx_vi": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "6b164b1c495bfd9f62ed5a8a19c8a7475d3b4a2ae350485d11abc6030dcb2be7",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "anx_vii": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2016-11-30",
+        "text_sha256": "1d0e9eacaebfa767b373a65ac682fffbe449a4a858815ba0583ffc80330f763f",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2016-12-01",
+        "valid_to": "2018-02-28",
+        "text_sha256": "b0d9e007d24459812d6bd9a893e9a31f93d134df3bc1b3f0d8632e26c09b9d34",
+        "in_version": "eu-eurlex:32014r0680:2016-12-01"
+      },
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": null,
+        "text_sha256": "6776bf78da74076cae3987471f3d1bac013884f5c3b59dde4d28dcaf765aafb6",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      }
+    ],
+    "anx_viii": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "ffb6cb5e707f35390c2d0ad3e57349e2fbb770a0e8f3c70720d9fcf02414a855",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "anx_x": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2016-04-19",
+        "text_sha256": "a7a26f8a63b199bb0d17691e64e25ad409e88229eec159d5f7f617769cd5898d",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2016-04-20",
+        "valid_to": null,
+        "text_sha256": "a251ab5aee1e47cccedd98cca55e2ac7c19307dcfabf14b6dc5cbf99a81a80a7",
+        "in_version": "eu-eurlex:32014r0680:2016-04-20"
+      }
+    ],
+    "anx_xi": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2016-04-19",
+        "text_sha256": "f4361537e78653f73d8897bb411cb7f96915520a783c5f82a06b47752a313d16",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2016-04-20",
+        "valid_to": "2018-02-28",
+        "text_sha256": "c0e65cf323e223d4f1ad88c5498f6615a274926c32103a38e2815b6af2e2764a",
+        "in_version": "eu-eurlex:32014r0680:2016-04-20"
+      },
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": "2018-11-30",
+        "text_sha256": "7919843ffc5d9a612034db49ad84fc444797d8cf8351d04a3af42cdf6dc611bf",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      },
+      {
+        "valid_from": "2018-12-01",
+        "valid_to": null,
+        "text_sha256": "6d83bea99a7bf34bff03f20b0f36f329b71f807ea66371bc83fe937e4327e2df",
+        "in_version": "eu-eurlex:32014r0680:2018-12-01"
+      }
+    ],
+    "anx_xii": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "395ac24a9ae9ff336020a4fd65d1488390dda7e845af2799678e1c8041e2cee4",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "anx_xiii": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "2a33b507eaa5904e2c948fffdd53f6c7ad0b0c8fbef46f9b9331709aedcb908a",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "anx_xiv": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2018-02-28",
+        "text_sha256": "30b559f398f6132d9945f848f46a94056d6b9953a33bc61b4eb5eab07f7a35c0",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": null,
+        "text_sha256": "88b673922474d5ed58766fa2f184d574afc4a3f2b196ccd3dc54fbd29fac1972",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      }
+    ],
+    "anx_xix": [
+      {
+        "valid_from": "2016-03-25",
+        "valid_to": "2018-02-28",
+        "text_sha256": "03c06b68e49c606f7bd74eb1aa87feb7d8f455ae3ec9765b7a1a86dd5941ad32",
+        "in_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": "2018-11-30",
+        "text_sha256": "974c4999dd73db49b99c711a72bb05c3731fad514a72590860f2e581aa9b32fd",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      },
+      {
+        "valid_from": "2018-12-01",
+        "valid_to": "2020-05-31",
+        "text_sha256": "ba950c84969461add54fcfc2f4c2db515784d46f15e9da923fbd896c7fe66b76",
+        "in_version": "eu-eurlex:32014r0680:2018-12-01"
+      },
+      {
+        "valid_from": "2020-06-01",
+        "valid_to": null,
+        "text_sha256": "9e248c5c18c89a125e325db67a2ce038d65c9b8d396aa05b7b16c639380e23e9",
+        "in_version": "eu-eurlex:32014r0680:2020-06-01"
+      }
+    ],
+    "anx_xv": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2018-02-28",
+        "text_sha256": "fda30af94750124bfd46b471b2e0abccce4b8702ec4622875e3a357aa441b3ec",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": null,
+        "text_sha256": "8268e88c33010fd891562d195ef527f68bf3961b79f52350e827b7c55922e225",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      }
+    ],
+    "anx_xvi": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2018-11-30",
+        "text_sha256": "9ed1c76aec04dccf025401cf71f54499d02965937b1ad630048a3dd976cd0e26",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2018-12-01",
+        "valid_to": null,
+        "text_sha256": "21de4ad08bb469da485561960ad6f80e6043b1f933251af03fbe7f79bf977173",
+        "in_version": "eu-eurlex:32014r0680:2018-12-01"
+      }
+    ],
+    "anx_xvii": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2015-05-31",
+        "text_sha256": "50527004c49f260462704470e6e02835775557d32a137c0132112dfb8ff90699",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2015-06-01",
+        "valid_to": null,
+        "text_sha256": "e623654fd69532057bb6caed0e89fd1c90939c5469bf28aec73f1e8019ddcaef",
+        "in_version": "eu-eurlex:32014r0680:2015-06-01"
+      }
+    ],
+    "anx_xviii": [
+      {
+        "valid_from": "2016-03-25",
+        "valid_to": "2018-02-28",
+        "text_sha256": "ee8bcd259bcbc30988e658dff1ad438cc87d6eda333e4a61eb75ff76e41371b6",
+        "in_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": "2020-05-31",
+        "text_sha256": "2054c664becb8e65b31ea7fe2bfa3f4b04ab8dd08a8f54fd4a75e0aaa0587e50",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      },
+      {
+        "valid_from": "2020-06-01",
+        "valid_to": null,
+        "text_sha256": "49fe9fee0d8795334b33900a8879c6c8eab73dc1891e4ed61fa960375409f1e0",
+        "in_version": "eu-eurlex:32014r0680:2020-06-01"
+      }
+    ],
+    "anx_xx": [
+      {
+        "valid_from": "2016-03-25",
+        "valid_to": "2018-02-28",
+        "text_sha256": "8bf934d86595bd695b188c61555eb918b0446d988caf06707c5d175b8991a87d",
+        "in_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": null,
+        "text_sha256": "555474a5171c2ef963415ef8a8a17cd1dbf42dc356b93540bd2f533ada7abbb6",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      }
+    ],
+    "anx_xxi": [
+      {
+        "valid_from": "2016-03-25",
+        "valid_to": "2018-02-28",
+        "text_sha256": "6d555f73cd3ba502bbd642b3abd40ee23a36c471399dbc1705d1e0f2ae4f31bb",
+        "in_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": "2018-11-30",
+        "text_sha256": "654ed93358d9f31c07fc23ce8a8f04b688aaec8ba10669a08dd0eece9c5a1cb2",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      },
+      {
+        "valid_from": "2018-12-01",
+        "valid_to": null,
+        "text_sha256": "121374f0bbaa1c99c15ca429a72575c1af9f8a54962b132f079e8eba2d99b23f",
+        "in_version": "eu-eurlex:32014r0680:2018-12-01"
+      }
+    ],
+    "anx_xxii": [
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": "2018-11-30",
+        "text_sha256": "3d8d0ecc26cd47dfce37de4ef7e3baa52914bcee9a0143bdc7ef577ec349e9a5",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      },
+      {
+        "valid_from": "2018-12-01",
+        "valid_to": null,
+        "text_sha256": "f378735f557c7cecc6453100383f54c6def5c94567ac3e40de5a6ba7308be8d5",
+        "in_version": "eu-eurlex:32014r0680:2018-12-01"
+      }
+    ],
+    "anx_xxiii": [
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": "2018-11-30",
+        "text_sha256": "a6e80cf0eec2815cf62ae6723642e99c3bdf34da7fc937a10377b98bd85ea4a2",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      },
+      {
+        "valid_from": "2018-12-01",
+        "valid_to": null,
+        "text_sha256": "c00a23a10f09b389121a9feebc164e600fd04dedf09ef6e10ab4905450a4f782",
+        "in_version": "eu-eurlex:32014r0680:2018-12-01"
+      }
+    ],
+    "anx_xxiv": [
+      {
+        "valid_from": "2016-09-10",
+        "valid_to": "2020-05-31",
+        "text_sha256": "c66306478673e02a5abcce5db9ccbb007ae5000025479a7f324526129613d912",
+        "in_version": "eu-eurlex:32014r0680:2016-09-10"
+      },
+      {
+        "valid_from": "2020-06-01",
+        "valid_to": null,
+        "text_sha256": "ada7d1ec5d2a1a4e5a93591496dc6cdd37ae3c27ada53865324782abaf9cd184",
+        "in_version": "eu-eurlex:32014r0680:2020-06-01"
+      }
+    ],
+    "anx_xxv": [
+      {
+        "valid_from": "2016-09-10",
+        "valid_to": "2020-05-31",
+        "text_sha256": "eb54689b2c41ce0dc3c3f3a9bd31fba5520266ba4fdeffdd13d5a3b8d841e09f",
+        "in_version": "eu-eurlex:32014r0680:2016-09-10"
+      },
+      {
+        "valid_from": "2020-06-01",
+        "valid_to": null,
+        "text_sha256": "e47d5fa607e1307c453e18f42cc69411f649416437c8923a33198ddafbdf4747",
+        "in_version": "eu-eurlex:32014r0680:2020-06-01"
+      }
+    ],
+    "art_1": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2016-03-24",
+        "text_sha256": "e7d3e10f3bc67a57d7c71490935c86bdb019e4b540029466c8657068f6024b88",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2016-03-25",
+        "valid_to": "2016-04-19",
+        "text_sha256": "4ccd81c8cd2e7e60dc2aac60222b418ea610b5307f1fc95ee343db95340f0fe8",
+        "in_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "valid_from": "2016-04-20",
+        "valid_to": null,
+        "text_sha256": "5262dfc62710bcb235220036b95c3a8407e6d446d11e5aad9db8569a5fccb634",
+        "in_version": "eu-eurlex:32014r0680:2016-04-20"
+      }
+    ],
+    "art_10": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "f7c5c6f30f514be2736a1347a7f94b9e0c99e1aaa7dcd798172fa51c43b712ab",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "art_11": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2020-05-31",
+        "text_sha256": "4c75ffbdbe10dd416f9d07dc38a857aaea3560b72b2f6ed3c72722fc32ac01b2",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2020-06-01",
+        "valid_to": null,
+        "text_sha256": "6ad38ed67c4ec3a467b845195804f92ee829b8023c2131cc5f40665deaee002d",
+        "in_version": "eu-eurlex:32014r0680:2020-06-01"
+      }
+    ],
+    "art_12": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "a0ef2f0a86b63b1ad7f3012248c620593ecac228f954ef84abd1b7ba6ddbbd31",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "art_13": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "4f99c6d7acf2add8d76f74d38d662e9b44975ceb334dde0f11c8049bfa291575",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "art_14": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2016-04-19",
+        "text_sha256": "e90f670f5f56c78bbff28dda2a8d9d66c1c9bc6e0c06c8fa98d39201e9878c01",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2016-04-20",
+        "valid_to": null,
+        "text_sha256": "0a1015af0df3c5b199f093e093c8a2a2470bc693ce7576fad57cc3ad6179a74c",
+        "in_version": "eu-eurlex:32014r0680:2016-04-20"
+      }
+    ],
+    "art_15": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2016-09-09",
+        "text_sha256": "e120560c79cefae7340b6d9cc82f39988611740798c14454f06d8bd5a7099487",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2016-09-10",
+        "valid_to": null,
+        "text_sha256": "fd5811638e2bc291afe2cd4bd889ffd4fb893b2b7e33c7a279b0500116fc3cb5",
+        "in_version": "eu-eurlex:32014r0680:2016-09-10"
+      }
+    ],
+    "art_16": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "6294cac7601ba02a8d260f45c7f19bbae11b7eb7e837d6b29a7160e54ccb131d",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "art_16a": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "79901f8a036e749a38f07bbed20dda0fd1b0c43d6005e968eff2ad5aa9c41990",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "art_16b": [
+      {
+        "valid_from": "2016-03-25",
+        "valid_to": "2018-02-28",
+        "text_sha256": "ac3f374d5f879361b48af9082bb6d9b80826cc6226c573b87230e2092ff27399",
+        "in_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": null,
+        "text_sha256": "f859f1a091fd0fd9e807628982b74ceb288976a4de678ca42af96fdb46cd78d3",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      }
+    ],
+    "art_17": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "5cc18440d590590d6a6d6d3ad8c7cbcc05aeae848a1ba4d5053a5599f2aff2c1",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "art_18": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2016-03-24",
+        "text_sha256": "dba96c065c12a43aef82392377c14754d1eff9fecb45798544e54bfefce06373",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2016-03-25",
+        "valid_to": "2016-09-09",
+        "text_sha256": "66a73a60ce42cc08170a252664f80cd81f938b1edacda7541b1b3b271aa726b4",
+        "in_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "valid_from": "2016-09-10",
+        "valid_to": null,
+        "text_sha256": "981aa36979db6769699943ade78d9398258a1ed7da65ea471f811c6b351ce17d",
+        "in_version": "eu-eurlex:32014r0680:2016-09-10"
+      }
+    ],
+    "art_19": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "ed6cb064cbf0b5caa13f4c7da9877bcb73c770a40b6bb21d0df4fc8e99d82d01",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "75f898d70b96c1e056d0b2b758e03443e0cdcc6815c846c5675857f72a322f37",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "615118a8d1ef2762e629f3a0589994fa85253efcd4d6a8e065203528e1a0b6d8",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "f441499b84775c06ccc37f21e9c993899472567f344f081bcde0a0c2ad0917f0",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2018-02-28",
+        "text_sha256": "6ba63dfcfd8e4eae8cfd0feb0ab11da6bd8d243dd4ef1556c278cc32d4ef83e5",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2018-03-01",
+        "valid_to": "2018-11-30",
+        "text_sha256": "3d15b0eaad8fa69727e90ac6d1d90a4108c76a7c265799b359f73286d5254afa",
+        "in_version": "eu-eurlex:32014r0680:2018-03-01"
+      },
+      {
+        "valid_from": "2018-12-01",
+        "valid_to": "2020-05-31",
+        "text_sha256": "0d477820d57c3d8ddcdc16b8a47d4cd578bbc38408b95b7dc020db733b100874",
+        "in_version": "eu-eurlex:32014r0680:2018-12-01"
+      },
+      {
+        "valid_from": "2020-06-01",
+        "valid_to": null,
+        "text_sha256": "d3420e5815b0c7cc7763428add4c7461251cef306dbb8e0e4eee7ea2d15b87cb",
+        "in_version": "eu-eurlex:32014r0680:2020-06-01"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "99d6cbe418436b6fe919d8362811f29cb79ab80feabde53b08313add3e52f61d",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "a04b6d00f969513f62dd7f08441c9876d30e4d5f99a355e94a5cd4297c3fe5bd",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": null,
+        "text_sha256": "9b304ced1b003a90211a76b839d8a1cb9bc24e12e009df71c25746b7f467b04d",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      }
+    ],
+    "art_9": [
+      {
+        "valid_from": "2015-02-21",
+        "valid_to": "2018-11-30",
+        "text_sha256": "8e1cfc38f22f349617337911299aa67b8104f1710aa5caa2588150f187634fca",
+        "in_version": "eu-eurlex:32014r0680:2015-02-21"
+      },
+      {
+        "valid_from": "2018-12-01",
+        "valid_to": "2020-05-31",
+        "text_sha256": "b9046e64bb3330634067f42f5e5d5feb7098edc53d3c21129cb4ee88d588c35a",
+        "in_version": "eu-eurlex:32014r0680:2018-12-01"
+      },
+      {
+        "valid_from": "2020-06-01",
+        "valid_to": null,
+        "text_sha256": "78e92bcd7c416d7f6dc8a23771e67f0b9e9cbb3d4b3b75b0c311d48958b883fa",
+        "in_version": "eu-eurlex:32014r0680:2020-06-01"
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "inserted",
+      "anchor": "anx_xix",
+      "at_version": "eu-eurlex:32014r0680:2016-03-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_xviii",
+      "at_version": "eu-eurlex:32014r0680:2016-03-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_xx",
+      "at_version": "eu-eurlex:32014r0680:2016-03-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_xxi",
+      "at_version": "eu-eurlex:32014r0680:2016-03-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_16b",
+      "at_version": "eu-eurlex:32014r0680:2016-03-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_xxiv",
+      "at_version": "eu-eurlex:32014r0680:2016-09-10"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_xxv",
+      "at_version": "eu-eurlex:32014r0680:2016-09-10"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_xxii",
+      "at_version": "eu-eurlex:32014r0680:2018-03-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_xxiii",
+      "at_version": "eu-eurlex:32014r0680:2018-03-01"
+    }
+  ],
+  "anchors_by_language": {
+    "en": {
+      "anx_i": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2015-05-31",
+          "text_sha256": "f3d3dee4e42d931fbfbdfb8292b31e78bdbc92797e5c7a4850b187a97ab3dca0",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2015-06-01",
+          "valid_to": "2016-11-30",
+          "text_sha256": "717a89ff1b3409eb23a71eb32335c18e8a388df123703300be80b593a112470e",
+          "in_version": "eu-eurlex:32014r0680:2015-06-01"
+        },
+        {
+          "valid_from": "2016-12-01",
+          "valid_to": "2018-02-28",
+          "text_sha256": "b5722ad18a7f4995da573281b3c684f4d490f3d0753d11031fa410e7ef35592d",
+          "in_version": "eu-eurlex:32014r0680:2016-12-01"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "d6c47761103fae8c47fa77626bdc69b30d22140475065bfcfcf0df58555c1e21",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "0d6c65c9d878ecfea0ad201c61eb09eb354fb3c9b6bac18e1e3f64a3f9081fdf",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "14e7e3c442635fa257fc116861695ad32c668ba2613e2b8f55d0c6f76e28d78a",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "anx_ii": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2015-05-31",
+          "text_sha256": "289ea4571198c20c5c16712db39d762cdab35beb383a533323850881a39e31f7",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2015-06-01",
+          "valid_to": "2016-04-19",
+          "text_sha256": "03a497246dbbb17c53b293e6beacfbc97cef1aec6f8a35bc15bbc2cd567ad9c3",
+          "in_version": "eu-eurlex:32014r0680:2015-06-01"
+        },
+        {
+          "valid_from": "2016-04-20",
+          "valid_to": "2016-11-30",
+          "text_sha256": "f3fdd018b6a6f7555289370e74b3df1b5b1c9a9ee1e59b8cc3f3d4efd662fdf0",
+          "in_version": "eu-eurlex:32014r0680:2016-04-20"
+        },
+        {
+          "valid_from": "2016-12-01",
+          "valid_to": "2018-02-28",
+          "text_sha256": "f68977b210b60519ab64b3497257913c64d6dc6464b481e73321a67c8caa4eca",
+          "in_version": "eu-eurlex:32014r0680:2016-12-01"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "70527d1a869fd2c2d84c622d6ca1fcb84e568e01936a20e1647385f62a56eeb1",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "7eb62b580c9dd77b768f4a12d87fd266fe7593b4f4fb616540414e4ccbabb642",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "584ade07cb8b38fe06abe03ea5da1cf51d25f410fabe24f22a2509dc15deb543",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "anx_iii": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2015-05-31",
+          "text_sha256": "c56ec5c0438009f26d1c7edff3f9046051c9a4097a1152b385dcfaebc9af57b1",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2015-06-01",
+          "valid_to": "2016-11-30",
+          "text_sha256": "258b78e23c50ef93f6a002a552b724832b2ae4e731b930d3a8fac58a8983fdc9",
+          "in_version": "eu-eurlex:32014r0680:2015-06-01"
+        },
+        {
+          "valid_from": "2016-12-01",
+          "valid_to": "2017-12-31",
+          "text_sha256": "d23808949e23548baf35f94fddadac78babf3ce8922b9fb7dea4fa328dd2d74b",
+          "in_version": "eu-eurlex:32014r0680:2016-12-01"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2018-02-28",
+          "text_sha256": "1f12f2f5fb235a87a17e0282e66649ef73579b46a1b4bfe9dfc8f426e6a74384",
+          "in_version": "eu-eurlex:32014r0680:2018-01-01"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "cc883277eba1719fd01dbff262bda2fabe55d0dc163008d16c5c425d32a6325d",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "5ac42e9dfda5acd5dabc046d95a3c59ddd73fc96256e58343990da325ed896db",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "anx_iv": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2015-05-31",
+          "text_sha256": "c7f10535a1fe6f9cefad4e87cce761a20e1fe836f0ffce31491a5591672a4e9a",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2015-06-01",
+          "valid_to": "2016-11-30",
+          "text_sha256": "c0796968141fb5db086663cdd0eaa0dc89ae360399c4d0b66c8852a538fb3a96",
+          "in_version": "eu-eurlex:32014r0680:2015-06-01"
+        },
+        {
+          "valid_from": "2016-12-01",
+          "valid_to": "2017-12-31",
+          "text_sha256": "318c55f0cac4ef2dbeb2dd6065ed7661b1961604b58431a890f24e5e57d07c79",
+          "in_version": "eu-eurlex:32014r0680:2016-12-01"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2018-02-28",
+          "text_sha256": "1d8fd4b29e901425a63b8741a4608c5d20c10c24470fed43a27734f7383c25ed",
+          "in_version": "eu-eurlex:32014r0680:2018-01-01"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "637ea557d71987ed04f660e58137fc38930797e55bb698207ce5585a65684dc7",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "c293a84363d79479975087adf2a8ea95b3a96a4ff6165d43309f04f04e4142d4",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "anx_ix": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2015-05-31",
+          "text_sha256": "75a726231083ab7a4c27794ff6f7fa78507164c05549296e857a7f8b5ce16e60",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2015-06-01",
+          "valid_to": "2016-11-30",
+          "text_sha256": "f831795e6c92fb39fe1908bfa71dabae65525d5ac6febcd621f4c73a9ebe9b60",
+          "in_version": "eu-eurlex:32014r0680:2015-06-01"
+        },
+        {
+          "valid_from": "2016-12-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "6abf342fb00924e9b41f181140ebf17b685d5cb5b6ed08d41cd5e6744efd0a9d",
+          "in_version": "eu-eurlex:32014r0680:2016-12-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": null,
+          "text_sha256": "17260ddbcad8c8b436b352e9768a2ef765b90914f001229646659810f435bc35",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        }
+      ],
+      "anx_v": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2015-05-31",
+          "text_sha256": "a8b7be6e07867b6a47bc00538ae9a91f54ea05a12cb1490040e3559a86b07e42",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2015-06-01",
+          "valid_to": "2016-04-19",
+          "text_sha256": "9b1ee952bdc2c7ab87f16a9f9607ed8c53df0f37158568bf0a30db5c6c7991af",
+          "in_version": "eu-eurlex:32014r0680:2015-06-01"
+        },
+        {
+          "valid_from": "2016-04-20",
+          "valid_to": "2016-11-30",
+          "text_sha256": "8e8d399ff88c35b894de32bdf70cd681abacc1d2d000bcf07c8b0df8f8eebbac",
+          "in_version": "eu-eurlex:32014r0680:2016-04-20"
+        },
+        {
+          "valid_from": "2016-12-01",
+          "valid_to": "2017-12-31",
+          "text_sha256": "2019929eabd806c8173022b6a619d623d039c27bdf96f307e7cb471fd75e98cd",
+          "in_version": "eu-eurlex:32014r0680:2016-12-01"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "4619aee196d499133ff1d067e62ce63b660042f32151e545a3463b7a29c3ae5e",
+          "in_version": "eu-eurlex:32014r0680:2018-01-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "97af359d4c8e8ac4345f784e8196d2c9b2605cb2469015b9db90b2f774da16f5",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "b14f756e4b051d161b151861a7221c51fd4ca438f8cd7afdd42f2147242da6cf",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "anx_vi": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "6b164b1c495bfd9f62ed5a8a19c8a7475d3b4a2ae350485d11abc6030dcb2be7",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "anx_vii": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2016-11-30",
+          "text_sha256": "1d0e9eacaebfa767b373a65ac682fffbe449a4a858815ba0583ffc80330f763f",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2016-12-01",
+          "valid_to": "2018-02-28",
+          "text_sha256": "b0d9e007d24459812d6bd9a893e9a31f93d134df3bc1b3f0d8632e26c09b9d34",
+          "in_version": "eu-eurlex:32014r0680:2016-12-01"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": null,
+          "text_sha256": "6776bf78da74076cae3987471f3d1bac013884f5c3b59dde4d28dcaf765aafb6",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        }
+      ],
+      "anx_viii": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "ffb6cb5e707f35390c2d0ad3e57349e2fbb770a0e8f3c70720d9fcf02414a855",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "anx_x": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2016-04-19",
+          "text_sha256": "a7a26f8a63b199bb0d17691e64e25ad409e88229eec159d5f7f617769cd5898d",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2016-04-20",
+          "valid_to": null,
+          "text_sha256": "a251ab5aee1e47cccedd98cca55e2ac7c19307dcfabf14b6dc5cbf99a81a80a7",
+          "in_version": "eu-eurlex:32014r0680:2016-04-20"
+        }
+      ],
+      "anx_xi": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2016-04-19",
+          "text_sha256": "f4361537e78653f73d8897bb411cb7f96915520a783c5f82a06b47752a313d16",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2016-04-20",
+          "valid_to": "2018-02-28",
+          "text_sha256": "c0e65cf323e223d4f1ad88c5498f6615a274926c32103a38e2815b6af2e2764a",
+          "in_version": "eu-eurlex:32014r0680:2016-04-20"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "7919843ffc5d9a612034db49ad84fc444797d8cf8351d04a3af42cdf6dc611bf",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": null,
+          "text_sha256": "6d83bea99a7bf34bff03f20b0f36f329b71f807ea66371bc83fe937e4327e2df",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        }
+      ],
+      "anx_xii": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "395ac24a9ae9ff336020a4fd65d1488390dda7e845af2799678e1c8041e2cee4",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "anx_xiii": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "2a33b507eaa5904e2c948fffdd53f6c7ad0b0c8fbef46f9b9331709aedcb908a",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "anx_xiv": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2018-02-28",
+          "text_sha256": "30b559f398f6132d9945f848f46a94056d6b9953a33bc61b4eb5eab07f7a35c0",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": null,
+          "text_sha256": "88b673922474d5ed58766fa2f184d574afc4a3f2b196ccd3dc54fbd29fac1972",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        }
+      ],
+      "anx_xix": [
+        {
+          "valid_from": "2016-03-25",
+          "valid_to": "2018-02-28",
+          "text_sha256": "03c06b68e49c606f7bd74eb1aa87feb7d8f455ae3ec9765b7a1a86dd5941ad32",
+          "in_version": "eu-eurlex:32014r0680:2016-03-25"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "974c4999dd73db49b99c711a72bb05c3731fad514a72590860f2e581aa9b32fd",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "ba950c84969461add54fcfc2f4c2db515784d46f15e9da923fbd896c7fe66b76",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "9e248c5c18c89a125e325db67a2ce038d65c9b8d396aa05b7b16c639380e23e9",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "anx_xv": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2018-02-28",
+          "text_sha256": "fda30af94750124bfd46b471b2e0abccce4b8702ec4622875e3a357aa441b3ec",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": null,
+          "text_sha256": "8268e88c33010fd891562d195ef527f68bf3961b79f52350e827b7c55922e225",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        }
+      ],
+      "anx_xvi": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2018-11-30",
+          "text_sha256": "9ed1c76aec04dccf025401cf71f54499d02965937b1ad630048a3dd976cd0e26",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": null,
+          "text_sha256": "21de4ad08bb469da485561960ad6f80e6043b1f933251af03fbe7f79bf977173",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        }
+      ],
+      "anx_xvii": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2015-05-31",
+          "text_sha256": "50527004c49f260462704470e6e02835775557d32a137c0132112dfb8ff90699",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2015-06-01",
+          "valid_to": null,
+          "text_sha256": "e623654fd69532057bb6caed0e89fd1c90939c5469bf28aec73f1e8019ddcaef",
+          "in_version": "eu-eurlex:32014r0680:2015-06-01"
+        }
+      ],
+      "anx_xviii": [
+        {
+          "valid_from": "2016-03-25",
+          "valid_to": "2018-02-28",
+          "text_sha256": "ee8bcd259bcbc30988e658dff1ad438cc87d6eda333e4a61eb75ff76e41371b6",
+          "in_version": "eu-eurlex:32014r0680:2016-03-25"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "2054c664becb8e65b31ea7fe2bfa3f4b04ab8dd08a8f54fd4a75e0aaa0587e50",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "49fe9fee0d8795334b33900a8879c6c8eab73dc1891e4ed61fa960375409f1e0",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "anx_xx": [
+        {
+          "valid_from": "2016-03-25",
+          "valid_to": "2018-02-28",
+          "text_sha256": "8bf934d86595bd695b188c61555eb918b0446d988caf06707c5d175b8991a87d",
+          "in_version": "eu-eurlex:32014r0680:2016-03-25"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": null,
+          "text_sha256": "555474a5171c2ef963415ef8a8a17cd1dbf42dc356b93540bd2f533ada7abbb6",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        }
+      ],
+      "anx_xxi": [
+        {
+          "valid_from": "2016-03-25",
+          "valid_to": "2018-02-28",
+          "text_sha256": "6d555f73cd3ba502bbd642b3abd40ee23a36c471399dbc1705d1e0f2ae4f31bb",
+          "in_version": "eu-eurlex:32014r0680:2016-03-25"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "654ed93358d9f31c07fc23ce8a8f04b688aaec8ba10669a08dd0eece9c5a1cb2",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": null,
+          "text_sha256": "121374f0bbaa1c99c15ca429a72575c1af9f8a54962b132f079e8eba2d99b23f",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        }
+      ],
+      "anx_xxii": [
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "3d8d0ecc26cd47dfce37de4ef7e3baa52914bcee9a0143bdc7ef577ec349e9a5",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": null,
+          "text_sha256": "f378735f557c7cecc6453100383f54c6def5c94567ac3e40de5a6ba7308be8d5",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        }
+      ],
+      "anx_xxiii": [
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "a6e80cf0eec2815cf62ae6723642e99c3bdf34da7fc937a10377b98bd85ea4a2",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": null,
+          "text_sha256": "c00a23a10f09b389121a9feebc164e600fd04dedf09ef6e10ab4905450a4f782",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        }
+      ],
+      "anx_xxiv": [
+        {
+          "valid_from": "2016-09-10",
+          "valid_to": "2020-05-31",
+          "text_sha256": "c66306478673e02a5abcce5db9ccbb007ae5000025479a7f324526129613d912",
+          "in_version": "eu-eurlex:32014r0680:2016-09-10"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "ada7d1ec5d2a1a4e5a93591496dc6cdd37ae3c27ada53865324782abaf9cd184",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "anx_xxv": [
+        {
+          "valid_from": "2016-09-10",
+          "valid_to": "2020-05-31",
+          "text_sha256": "eb54689b2c41ce0dc3c3f3a9bd31fba5520266ba4fdeffdd13d5a3b8d841e09f",
+          "in_version": "eu-eurlex:32014r0680:2016-09-10"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "e47d5fa607e1307c453e18f42cc69411f649416437c8923a33198ddafbdf4747",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "art_1": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2016-03-24",
+          "text_sha256": "e7d3e10f3bc67a57d7c71490935c86bdb019e4b540029466c8657068f6024b88",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2016-03-25",
+          "valid_to": "2016-04-19",
+          "text_sha256": "4ccd81c8cd2e7e60dc2aac60222b418ea610b5307f1fc95ee343db95340f0fe8",
+          "in_version": "eu-eurlex:32014r0680:2016-03-25"
+        },
+        {
+          "valid_from": "2016-04-20",
+          "valid_to": null,
+          "text_sha256": "5262dfc62710bcb235220036b95c3a8407e6d446d11e5aad9db8569a5fccb634",
+          "in_version": "eu-eurlex:32014r0680:2016-04-20"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "f7c5c6f30f514be2736a1347a7f94b9e0c99e1aaa7dcd798172fa51c43b712ab",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2020-05-31",
+          "text_sha256": "4c75ffbdbe10dd416f9d07dc38a857aaea3560b72b2f6ed3c72722fc32ac01b2",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "6ad38ed67c4ec3a467b845195804f92ee829b8023c2131cc5f40665deaee002d",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "a0ef2f0a86b63b1ad7f3012248c620593ecac228f954ef84abd1b7ba6ddbbd31",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "4f99c6d7acf2add8d76f74d38d662e9b44975ceb334dde0f11c8049bfa291575",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2016-04-19",
+          "text_sha256": "e90f670f5f56c78bbff28dda2a8d9d66c1c9bc6e0c06c8fa98d39201e9878c01",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2016-04-20",
+          "valid_to": null,
+          "text_sha256": "0a1015af0df3c5b199f093e093c8a2a2470bc693ce7576fad57cc3ad6179a74c",
+          "in_version": "eu-eurlex:32014r0680:2016-04-20"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2016-09-09",
+          "text_sha256": "e120560c79cefae7340b6d9cc82f39988611740798c14454f06d8bd5a7099487",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2016-09-10",
+          "valid_to": null,
+          "text_sha256": "fd5811638e2bc291afe2cd4bd889ffd4fb893b2b7e33c7a279b0500116fc3cb5",
+          "in_version": "eu-eurlex:32014r0680:2016-09-10"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "6294cac7601ba02a8d260f45c7f19bbae11b7eb7e837d6b29a7160e54ccb131d",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_16a": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "79901f8a036e749a38f07bbed20dda0fd1b0c43d6005e968eff2ad5aa9c41990",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_16b": [
+        {
+          "valid_from": "2016-03-25",
+          "valid_to": "2018-02-28",
+          "text_sha256": "ac3f374d5f879361b48af9082bb6d9b80826cc6226c573b87230e2092ff27399",
+          "in_version": "eu-eurlex:32014r0680:2016-03-25"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": null,
+          "text_sha256": "f859f1a091fd0fd9e807628982b74ceb288976a4de678ca42af96fdb46cd78d3",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        }
+      ],
+      "art_17": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "5cc18440d590590d6a6d6d3ad8c7cbcc05aeae848a1ba4d5053a5599f2aff2c1",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_18": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2016-03-24",
+          "text_sha256": "dba96c065c12a43aef82392377c14754d1eff9fecb45798544e54bfefce06373",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2016-03-25",
+          "valid_to": "2016-09-09",
+          "text_sha256": "66a73a60ce42cc08170a252664f80cd81f938b1edacda7541b1b3b271aa726b4",
+          "in_version": "eu-eurlex:32014r0680:2016-03-25"
+        },
+        {
+          "valid_from": "2016-09-10",
+          "valid_to": null,
+          "text_sha256": "981aa36979db6769699943ade78d9398258a1ed7da65ea471f811c6b351ce17d",
+          "in_version": "eu-eurlex:32014r0680:2016-09-10"
+        }
+      ],
+      "art_19": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "ed6cb064cbf0b5caa13f4c7da9877bcb73c770a40b6bb21d0df4fc8e99d82d01",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "75f898d70b96c1e056d0b2b758e03443e0cdcc6815c846c5675857f72a322f37",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "615118a8d1ef2762e629f3a0589994fa85253efcd4d6a8e065203528e1a0b6d8",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "f441499b84775c06ccc37f21e9c993899472567f344f081bcde0a0c2ad0917f0",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2018-02-28",
+          "text_sha256": "6ba63dfcfd8e4eae8cfd0feb0ab11da6bd8d243dd4ef1556c278cc32d4ef83e5",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "3d15b0eaad8fa69727e90ac6d1d90a4108c76a7c265799b359f73286d5254afa",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "0d477820d57c3d8ddcdc16b8a47d4cd578bbc38408b95b7dc020db733b100874",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "d3420e5815b0c7cc7763428add4c7461251cef306dbb8e0e4eee7ea2d15b87cb",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "99d6cbe418436b6fe919d8362811f29cb79ab80feabde53b08313add3e52f61d",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "a04b6d00f969513f62dd7f08441c9876d30e4d5f99a355e94a5cd4297c3fe5bd",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "9b304ced1b003a90211a76b839d8a1cb9bc24e12e009df71c25746b7f467b04d",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2018-11-30",
+          "text_sha256": "8e1cfc38f22f349617337911299aa67b8104f1710aa5caa2588150f187634fca",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "b9046e64bb3330634067f42f5e5d5feb7098edc53d3c21129cb4ee88d588c35a",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "78e92bcd7c416d7f6dc8a23771e67f0b9e9cbb3d4b3b75b0c311d48958b883fa",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ]
+    },
+    "fr": {
+      "annexe_i": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2015-05-31",
+          "text_sha256": "e993e04bac8c154fd9ae482fe9ddd739906261ffaa743ab48f1485a6a3bc7c72",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2015-06-01",
+          "valid_to": "2016-11-30",
+          "text_sha256": "e94ab5ebb698ad06bbed4f081142545f6629860c0c77b6f55eac2bb66600edb4",
+          "in_version": "eu-eurlex:32014r0680:2015-06-01"
+        },
+        {
+          "valid_from": "2016-12-01",
+          "valid_to": "2018-02-28",
+          "text_sha256": "275cabbb2d9e8174861534c5d38b7508701ed08a84d02348eb1b7e72263fb57c",
+          "in_version": "eu-eurlex:32014r0680:2016-12-01"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "a40c82a4ea99163de8900af4dbbe791fe6a266289fec2baab277a6f9ee609037",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "bd1ee6c4144aac959ab1c260c2054c6497088a0094e71a6fe15065cb668a17fc",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "7a706aa4f9f8b048d9b06bc8ccab5e2611fbe41a80fdd95e2fb9a4d72d4f275c",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "annexe_ii": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2015-05-31",
+          "text_sha256": "142b45cb01171c7aa36969834ef8fd5257eaf96cd0361066dc5d3115f5f0f9be",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2015-06-01",
+          "valid_to": "2016-11-30",
+          "text_sha256": "3398c04f26eab4c0002160f355a325001084dbbd05d2b2a46fe5ebbad0fea6c8",
+          "in_version": "eu-eurlex:32014r0680:2015-06-01"
+        },
+        {
+          "valid_from": "2016-12-01",
+          "valid_to": "2018-02-28",
+          "text_sha256": "27c20e4f7a7cf9efc5b27bd7bb8fb1edc2a2abb36b7251264a312a3f8220ed77",
+          "in_version": "eu-eurlex:32014r0680:2016-12-01"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "37bf8774e5df012d0621b9521f2d14ad02cb0b1491024eb76c8d19a929457615",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "7982a46055b05613df2efcca7dbefc7334456135f2a338a697e1608d73843974",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "4b35687dab73e5593acebe394d349d5290ac7031f7d01ffa382be1cac3da60dd",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "annexe_iii": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2015-05-31",
+          "text_sha256": "d2124e978978241a94d7952b1cd36dee8b38442088ab9c86e868ed2588ab5184",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2015-06-01",
+          "valid_to": "2016-11-30",
+          "text_sha256": "63d12a70f60b5f5a5a211256167717aaaba6126d2e1a3dc6641c7a7db69580d0",
+          "in_version": "eu-eurlex:32014r0680:2015-06-01"
+        },
+        {
+          "valid_from": "2016-12-01",
+          "valid_to": "2017-12-31",
+          "text_sha256": "6e3a496b829fae6bf3866fd1a11d6994962d59f8a8d12f2450575e465cb43839",
+          "in_version": "eu-eurlex:32014r0680:2016-12-01"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "1508c5b7b68c3b86e3177bc57d7c840dc1aa591a6d460b821f750da0033375b3",
+          "in_version": "eu-eurlex:32014r0680:2018-01-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "fdeb2814996eb08d730862e2b0f70101da5454cbe65f0e59fba8d3fdc0262012",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "7d7f6492c0708d1f144ce5b8c0c1df30d28ce432ba9dc932f9b3b50538b842e5",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "annexe_iv": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2015-05-31",
+          "text_sha256": "a6faed82d617ab6476f8610bcc0ed3d7ceea4c36abc1100a5838fdb7c4256bff",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2015-06-01",
+          "valid_to": "2016-11-30",
+          "text_sha256": "73156eb0425732d6a3df7f660592025f831f0b0213b4215633e77d8234adf078",
+          "in_version": "eu-eurlex:32014r0680:2015-06-01"
+        },
+        {
+          "valid_from": "2016-12-01",
+          "valid_to": "2017-12-31",
+          "text_sha256": "c5ffde0c40b10da318f2878c523956d1070ab9168991483eeb21ede139b5e38d",
+          "in_version": "eu-eurlex:32014r0680:2016-12-01"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "979e5db0cd5c5db291eebe84250acb07a94fe4532e1d97ef0478f856a956ae9e",
+          "in_version": "eu-eurlex:32014r0680:2018-01-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "39c6dc7f937de73cf7a389b911ff1753ea7ef6e46902560fd37ac33bdb43fbbb",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "e8d496d43c2e5833eb938d9d5175647b4e884cb3d004701e60e6a565eae7a837",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "annexe_ix": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2015-05-31",
+          "text_sha256": "524a6bbff60168c37fb29ddbcc4c70e59237b79f3d348bfced5f91bc67a38f58",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2015-06-01",
+          "valid_to": "2016-11-30",
+          "text_sha256": "c7bcaf3d87701469baed6bf370dd0ca98265015f62a604b1d38b3493aac27462",
+          "in_version": "eu-eurlex:32014r0680:2015-06-01"
+        },
+        {
+          "valid_from": "2016-12-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "2da63d8f07bb18a37eed618f82a8333c8b046f08f97bd8c7ab3b50f5f260073c",
+          "in_version": "eu-eurlex:32014r0680:2016-12-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": null,
+          "text_sha256": "26cfa95963d8e08d7ffa72a7a1cee3aab825caea7cc12da7198635e7a6c33c2e",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        }
+      ],
+      "annexe_v": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2015-05-31",
+          "text_sha256": "e3920c98e3639a00a6fa62ebec47d9243770ace34c081760ce405c6a3dea1007",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2015-06-01",
+          "valid_to": "2016-11-30",
+          "text_sha256": "cef1904ce65ffda0f35b41a063a1cdbc610b04310fd7938fe92214233059587b",
+          "in_version": "eu-eurlex:32014r0680:2015-06-01"
+        },
+        {
+          "valid_from": "2016-12-01",
+          "valid_to": "2017-12-31",
+          "text_sha256": "54a3d783d12ecbabceab308d52b8494d71c6b9aa64eaaf2c361d1d44bc2ffc35",
+          "in_version": "eu-eurlex:32014r0680:2016-12-01"
+        },
+        {
+          "valid_from": "2018-01-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "fe9035a37526b84664077a62893cbb079436acd4768f3a7372bc343f4e61a37b",
+          "in_version": "eu-eurlex:32014r0680:2018-01-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "c104626eaeb0ec3335de4db89816d0c2eb64b678530579ae990d8318336bbdf1",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "eccc880e1920bad502fa3020296ecb820f36f6ce9af3f7993588b2a773559933",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "annexe_vi": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "682d84947d0df1109ec8d2345d08a23d675e4c5d625e271ac69a2299d65fa865",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "annexe_vii": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2016-11-30",
+          "text_sha256": "5785bdab226b33d58d4b258b355ab061638e0070c47f8524aab34c5fb7ad7424",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2016-12-01",
+          "valid_to": "2018-02-28",
+          "text_sha256": "ec9aea82abacf2268f8af9603de9bcbcc0388ca06053d2b17d0ac2418009c631",
+          "in_version": "eu-eurlex:32014r0680:2016-12-01"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": null,
+          "text_sha256": "a86d47538c021ecedb57aa73897255757df4a441ac266c53016f46f46a733f95",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        }
+      ],
+      "annexe_viii": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "d43ce81c6823e3a77662e30857b02b66c26fa66dc1ee1fa9b0677bd375eef6f7",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "annexe_x": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2016-04-19",
+          "text_sha256": "ad6700d06cd1c18e5a19179b8b5f82db06b583b20d0d24cc29bf1254be663db7",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2016-04-20",
+          "valid_to": null,
+          "text_sha256": "5f84e6fcdaaba4d0009c48f28758831139640f287a86ef12b4dcf88370d68ec4",
+          "in_version": "eu-eurlex:32014r0680:2016-04-20"
+        }
+      ],
+      "annexe_xi": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2015-05-31",
+          "text_sha256": "c03ce2d25a3e6a3dc79be4e88bd86a019ab51ecabe87539b6752701744399dbb",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2015-06-01",
+          "valid_to": "2016-04-19",
+          "text_sha256": "ff9dfac3d22359b65abad26763d38f0064fbd3db392c643950ac45094a1c1bb7",
+          "in_version": "eu-eurlex:32014r0680:2015-06-01"
+        },
+        {
+          "valid_from": "2016-04-20",
+          "valid_to": "2018-02-28",
+          "text_sha256": "deb89673d9945aa201215f9c89a4e579ca08f6ee255fab86a02d4f25e0d14af3",
+          "in_version": "eu-eurlex:32014r0680:2016-04-20"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "7f5c3eea0f84c98ffceb12306c193c53b5975cb76a00070745d6da24d9046403",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": null,
+          "text_sha256": "a3ed9cc93a179dddd633e0a59288d3257499075058663fe9a9a0167c48ccb1c8",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        }
+      ],
+      "annexe_xii": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "bdeefbc303ec301613452f9a0cc9dbb962ade82149564af35337e64730db86b7",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "annexe_xiii": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "c685eedf7dc966c465a8be37d064373d9672e4d063a38b6f3ccc0f5a9af0ec7d",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "annexe_xiv": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2018-02-28",
+          "text_sha256": "37e71bc4f25b9719647d371c521767ef49e1a9437b120434a5691220fc2481d3",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": null,
+          "text_sha256": "d997a5721d22bd970318f208f090be91c10eb13f171ac284f19e0df495b6e6e0",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        }
+      ],
+      "annexe_xix": [
+        {
+          "valid_from": "2016-03-25",
+          "valid_to": "2018-02-28",
+          "text_sha256": "952dd527f746a554047f9bfb64333b2a61af9d67bb047d587a9612e1d6cd6538",
+          "in_version": "eu-eurlex:32014r0680:2016-03-25"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "e8c7fa98ccb97c95c6c1591bcb6f75a6df698f320cec060900c09683387cada7",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "6a1f05ce383329426c452f8dfff0212115de8439bc8a7a2791857e12f21d75fd",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "574877373d94521faa3581092a6e62b57056ff18c36a93c42fe9ecf5fad1a56a",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "annexe_xv": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2018-02-28",
+          "text_sha256": "f9056eef0e410127d3d9c0c6ae0d329f9ba0c0f607346a923641fbd961027272",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": null,
+          "text_sha256": "9c6d56322c26427a5157292ae9046b3049096eb7d40868743eea7c7e3aa22b0a",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        }
+      ],
+      "annexe_xvi": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2018-11-30",
+          "text_sha256": "29ae46b45c79e76d92b01c8204d50d6fa8a4413613274f25d065b101d4a95919",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": null,
+          "text_sha256": "590e5b109cc871fb11330f0cb0e5135f3785672c5f326a5b3fe871edcb95bbb9",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        }
+      ],
+      "annexe_xvii": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2015-05-31",
+          "text_sha256": "d7b3f4c8dfeea40ebcf2d3106ec6acf81904daba07c13a6f8f512ea2986bc85b",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2015-06-01",
+          "valid_to": null,
+          "text_sha256": "afb938fa3ba7acc705df4e894bfc6609e71699e482b7dea3cd56c3f741fd1b41",
+          "in_version": "eu-eurlex:32014r0680:2015-06-01"
+        }
+      ],
+      "annexe_xviii": [
+        {
+          "valid_from": "2016-03-25",
+          "valid_to": "2018-02-28",
+          "text_sha256": "ae4d79931c2065d4f4645f2fcb344d02f52ca66af91253684587402590166df4",
+          "in_version": "eu-eurlex:32014r0680:2016-03-25"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "f8244152258580d2173b8015fac9e87e1351ef2314ef40db6820cd727b8e9ce1",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "52ff1edd8eb8c94683f39eb92842939f7d78d5b2d1b77f964421c1793666ac52",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "annexe_xx": [
+        {
+          "valid_from": "2016-03-25",
+          "valid_to": "2018-02-28",
+          "text_sha256": "23603ed4f9cfb6c9eab5a2c3c9e129791fb25a7141a6a3e67b2df84556915301",
+          "in_version": "eu-eurlex:32014r0680:2016-03-25"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": null,
+          "text_sha256": "ac2b4c487676c1b01fa1f3fca757d207d90cd78a025911558ad596ab288f0553",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        }
+      ],
+      "annexe_xxi": [
+        {
+          "valid_from": "2016-03-25",
+          "valid_to": "2018-02-28",
+          "text_sha256": "8758f7fa66e3586cbad4ca72c6faac9a4ef305a1bdce6a3ddaea7ea78422b2b9",
+          "in_version": "eu-eurlex:32014r0680:2016-03-25"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "6ef9600b8847ceae9d8c95fd77b2b5bfe6887a5719a6974f515c11342c30cd70",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": null,
+          "text_sha256": "dbbc592cb27f12b5c4a2a9eb573021e0f6e9506ffcfb229837a9f81fdea02c78",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        }
+      ],
+      "annexe_xxii": [
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "6a60d0d203252a02e513424f40fb11e4b3ad4ae4fcf6859827de5e18becc5f96",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": null,
+          "text_sha256": "e937b7b869e99c37e95bd01ee6cb677a84903c16074d33a51c04651f5a808e89",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        }
+      ],
+      "annexe_xxiii": [
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "a8878c7c0caf7ddf0c1e5ba2096cde9dc59818636d7464dc5f07983228250f13",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": null,
+          "text_sha256": "70caf5a1f8fd2ad2fab4e34d17e868d8841ad2bad90b10464504ad96530c8562",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        }
+      ],
+      "annexe_xxiv": [
+        {
+          "valid_from": "2016-09-10",
+          "valid_to": "2020-05-31",
+          "text_sha256": "c6102414057de931ce07a660e2a4ad11821ff0e9531c82c278009e252a5aab67",
+          "in_version": "eu-eurlex:32014r0680:2016-09-10"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "47bfbcb8264ce469e6d1c4db4439480d99f5fce56a75336e528124fa4f8cfa13",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "annexe_xxv": [
+        {
+          "valid_from": "2016-09-10",
+          "valid_to": "2020-05-31",
+          "text_sha256": "550d497068db65fd4f54364fa11240193b18e7126c24e1dd286f8863f9dfb914",
+          "in_version": "eu-eurlex:32014r0680:2016-09-10"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "b8529fd45ea74c25cfa21a5b3f469f4d2e098e40e80327c17bd682b8eb888cf1",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "ec804c2d9fabe432e4cb182ae58d940739df593b08167904526992ca8c70510d",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2020-05-31",
+          "text_sha256": "3a87df9cf5f23cbedb2866a33d129912036454c758f99af4d4b9d050026824fc",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "b5ab8f24531b0d3c521815a2bac6e13953e1482bb9c431dd2c1db4deeb522931",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "321f256961cf1adab6c2a9dba2a881b072f2cd08884f8216da4b0873b1ca968c",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "774e8bc9263c71882056a4497de2fcdfac75067b14f8d4ae477e6a042c8b9a77",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2016-04-19",
+          "text_sha256": "82ede61fddcfc9424409db6329fb1fee7080ef295cbabd0f814dd791cacd1723",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2016-04-20",
+          "valid_to": null,
+          "text_sha256": "7949e2424576723b6703a1fcbdae6299271797855ca3bf016e38854981af7490",
+          "in_version": "eu-eurlex:32014r0680:2016-04-20"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2016-09-09",
+          "text_sha256": "f9c645f847b5197e10a514838fc8306b28720e701e81cdf8accb80906c92eea0",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2016-09-10",
+          "valid_to": null,
+          "text_sha256": "e6c1724884c5bc53b324f90c31931ffbb0f83a88240a6ceb5cc7cf62455a520b",
+          "in_version": "eu-eurlex:32014r0680:2016-09-10"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "a6f6d62c0a4af7324fb45578481ff87a1beb63cd9c7a8c7d502ad815dedeb553",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_16_bis": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "4a088712c536f47ec6159cba141aab6b689ff9e1a43cd178c5c33221435667c6",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_16_ter": [
+        {
+          "valid_from": "2016-03-25",
+          "valid_to": "2018-02-28",
+          "text_sha256": "6545db8a9b8c1a172108eac84228bc83af66b8a54ab5709abe89278ab71b1f27",
+          "in_version": "eu-eurlex:32014r0680:2016-03-25"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": null,
+          "text_sha256": "88e70aa1662d99e3389bc5a7797340657e42298da0b8e5ea339ed98a5a829cd7",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        }
+      ],
+      "art_17": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "5d7f98ab4c0b11c559c6e786d157ce91c508d22ed9854fb2d3f551f64f8679d6",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_18": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2016-03-24",
+          "text_sha256": "f0e8b44316d49e96181e85c2bb0ca371fcb8c441805ae7e338eb3860fb932f6a",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2016-03-25",
+          "valid_to": "2016-09-09",
+          "text_sha256": "cf753d90da0b7f95d35552dee596eb35b3e11023dfd8f14125ed256a6c4c102c",
+          "in_version": "eu-eurlex:32014r0680:2016-03-25"
+        },
+        {
+          "valid_from": "2016-09-10",
+          "valid_to": null,
+          "text_sha256": "89c46ec930100901cbf444683a1d4af1f6a0af29c5ff3f4ab000d40fad153cb2",
+          "in_version": "eu-eurlex:32014r0680:2016-09-10"
+        }
+      ],
+      "art_19": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "d2fb370201f0db5fbb55433cec154f8942c9be00a5dbe371b9d81d24a10ffaca",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "b8ee1e51e02d82fbe180ad07b79c57d2e65a80d921685dd75229eb2efff802f3",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "cdc7ea94f416158ee7ca7da793e7d57234075af012e4d42434e8c308705395b8",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "ea5099fba802dfe6ad2a111be82ef30654e858be88ef4e746c2175897f0dca86",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2018-02-28",
+          "text_sha256": "18b27c248824b073731e58b6dcef78fd7170c1221002cf92b75d113a4e71efcb",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2018-03-01",
+          "valid_to": "2018-11-30",
+          "text_sha256": "e2f18e52fe559c17acfe9895934f3918f2e2b7089d502c2977d2d93d49ba1a94",
+          "in_version": "eu-eurlex:32014r0680:2018-03-01"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "241c2d9219217e563c3fb98a3ad1557b623f29a8ad00e1450fca52948a98348d",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "ab342349a6dbfea5f97958b9bd2ca1726d5592f84536895b0762d63a88e41ad4",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "0338b5562b7caaedf96b7ce17d2dad95c2eb83fc0b3f270e19795c2265a2f85f",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "c43aedfa0c393733d188b82d040a88dd476413f7fe8377f8014b53451d01ce82",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": null,
+          "text_sha256": "2c5940ad4b974e50dae7de44cb8db4fcaef4bb7a1b034d337de6dd2f99bbaf65",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2018-11-30",
+          "text_sha256": "854ffac391cbd8ff268ab940115774e71693167fc6f3d9444727542b63892f41",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2018-12-01",
+          "valid_to": "2020-05-31",
+          "text_sha256": "e6e5da2fa99aab645b282f65bbe59f670f36505452d8705e2c5ce585bae6efc8",
+          "in_version": "eu-eurlex:32014r0680:2018-12-01"
+        },
+        {
+          "valid_from": "2020-06-01",
+          "valid_to": null,
+          "text_sha256": "1c67fe378962de69917d8c63d04bcd9334294546d16fcf83fc6b520ec8a88374",
+          "in_version": "eu-eurlex:32014r0680:2020-06-01"
+        }
+      ],
+      "art_premier": [
+        {
+          "valid_from": "2015-02-21",
+          "valid_to": "2016-03-24",
+          "text_sha256": "9de4bbb57fc8df8c782db4333d7866adae622d526069ef050a1196d30e888da6",
+          "in_version": "eu-eurlex:32014r0680:2015-02-21"
+        },
+        {
+          "valid_from": "2016-03-25",
+          "valid_to": null,
+          "text_sha256": "ddb3b576e86e93a0aa6a6b06ae672eb3f365d533a705d50560eb8106e1ca0aaf",
+          "in_version": "eu-eurlex:32014r0680:2016-03-25"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [
+      {
+        "type": "inserted",
+        "anchor": "anx_xix",
+        "at_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_xviii",
+        "at_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_xx",
+        "at_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_xxi",
+        "at_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_16b",
+        "at_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_xxiv",
+        "at_version": "eu-eurlex:32014r0680:2016-09-10"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_xxv",
+        "at_version": "eu-eurlex:32014r0680:2016-09-10"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_xxii",
+        "at_version": "eu-eurlex:32014r0680:2018-03-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_xxiii",
+        "at_version": "eu-eurlex:32014r0680:2018-03-01"
+      }
+    ],
+    "fr": [
+      {
+        "type": "inserted",
+        "anchor": "annexe_xix",
+        "at_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_xviii",
+        "at_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_xx",
+        "at_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_xxi",
+        "at_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_16_ter",
+        "at_version": "eu-eurlex:32014r0680:2016-03-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_xxiv",
+        "at_version": "eu-eurlex:32014r0680:2016-09-10"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_xxv",
+        "at_version": "eu-eurlex:32014r0680:2016-09-10"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_xxii",
+        "at_version": "eu-eurlex:32014r0680:2018-03-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_xxiii",
+        "at_version": "eu-eurlex:32014r0680:2018-03-01"
+      }
+    ]
+  }
+}

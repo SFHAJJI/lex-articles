@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12016e103:2016-06-07",
+  "language": "fr",
+  "title": "Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…",
+  "valid_from": "2016-06-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12016e103/versions/2016-06-07/fr.xml",
+    "sha256": "bd2726efec5d20dd6048fae80e550c51d0ffb0bf0758fe1e100ed086a16067c1",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12016E103"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12016e103:2016-06-07#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "7.6.2016 FR Journal officiel de l'Union européenne C 202/89 Article 103 (ex-article 83 TCE) 1. Les règlements ou directives utiles en vue de l'application des principes figurant aux articles 101 et 102 sont établis par le Conseil, statuant sur proposition de la Commission et après consultation du Parlement européen. 2. Les dispositions visées au paragraphe 1 ont pour but notamment: a) d'assurer le respect des interdictions visées à l'article 101, paragraphe 1, et à l'article 102, par l'institution d'amendes et d'astreintes, b) de déterminer les modalités d'application de l'article 101, paragraphe 3, en tenant compte de la nécessité, d'une part, d'assurer une surveillance efficace et, d'autre part, de simplifier dans toute la mesure du possible le contrôle administratif, c) de préciser, le cas échéant, dans les diverses branches économiques, le champ d'application des dispositions des articles 101 et 102, d) de définir le rôle respectif de la Commission et de la Cour de justice de l'Union européenne dans l'application des dispositions visées dans le présent paragraphe, e) de définir les rapports entre les législations nationales, d'une part, et, d'autre part, les dispositions de la présente section ainsi que celles adoptées en application du présent article.",
+      "text_sha256": "fd680505a2f3eb8573492842883baa35147567c40468dede3ddbc9a9cc99ba9c",
+      "md_span": {
+        "start": 647,
+        "end": 1924
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

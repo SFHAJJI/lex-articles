@@ -4,10 +4,10 @@ title: 'SFDR — Regulation (EU) 2019/2088'
 valid_from: '2020-07-12'
 valid_to: '2024-01-08'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R2088-20200712'
-source_sha256: 'bd612718474b46fcd3d168914e92fbd9572521749250f6a3e5b64c0740731c39'
+source_sha256: '7ecfacfa6f2882a7de43a6eadbc31992100a4a069a2ab02f45d6f12e65c7c9c3'
 license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
 attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
-generator: 'fmx4-eu/1 · lex derive'
+generator: 'xhtml-eu/1 · lex derive'
 ---
 
 <a id="art_1"></a>
@@ -26,7 +26,7 @@ For the purposes of this Regulation, the following definitions apply:
 
 (2) ‘insurance undertaking’ means an insurance undertaking authorised in accordance with Article 18 of Directive 2009/138/EC;
 
-(3) ‘insurance‐based investment product’ or ‘IBIP’ means: (a) an insurance‐based investment product as defined in point (2) of Article 4 of Regulation (EU) No 1286/2014 of the European Parliament and of the Council; or (b) an insurance product which is made available to a professional investor and which offers a maturity or surrender value that is wholly or partially exposed, directly or indirectly, to market fluctuations;
+(3) ‘insurance‐based investment product’ or ‘IBIP’ means: (a) an insurance‐based investment product as defined in point (2) of Article 4 of Regulation (EU) No 1286/2014 of the European Parliament and of the Council (1); or (b) an insurance product which is made available to a professional investor and which offers a maturity or surrender value that is wholly or partially exposed, directly or indirectly, to market fluctuations;
 
 (4) ‘alternative investment fund manager’ or ‘AIFM’ means an AIFM as defined in point (b) of Article 4(1) of Directive 2011/61/EU;
 
@@ -92,31 +92,15 @@ For the purposes of this Regulation, the following definitions apply:
 
 ### Article 4 — Transparency of adverse sustainability impacts at entity level
 
-**1.** Financial market participants shall publish and maintain on their websites:
+**1.** Financial market participants shall publish and maintain on their websites:(a) where they consider principal adverse impacts of investment decisions on sustainability factors, a statement on due diligence policies with respect to those impacts, taking due account of their size, the nature and scale of their activities and the types of financial products they make available; or(b) where they do not consider adverse impacts of investment decisions on sustainability factors, clear reasons for why they do not do so, including, where relevant, information as to whether and when they intend to consider such adverse impacts.
 
-(a) where they consider principal adverse impacts of investment decisions on sustainability factors, a statement on due diligence policies with respect to those impacts, taking due account of their size, the nature and scale of their activities and the types of financial products they make available; or
-
-(b) where they do not consider adverse impacts of investment decisions on sustainability factors, clear reasons for why they do not do so, including, where relevant, information as to whether and when they intend to consider such adverse impacts.
-
-**2.** Financial market participants shall include in the information provided in accordance with point (a) of paragraph 1 at least the following:
-
-(a) information about their policies on the identification and prioritisation of principal adverse sustainability impacts and indicators;
-
-(b) a description of the principal adverse sustainability impacts and of any actions in relation thereto taken or, where relevant, planned;
-
-(c) brief summaries of engagement policies in accordance with Article 3g of Directive 2007/36/EC, where applicable;
-
-(d) a reference to their adherence to responsible business conduct codes and internationally recognised standards for due diligence and reporting and, where relevant, the degree of their alignment with the objectives of the Paris Agreement.
+**2.** Financial market participants shall include in the information provided in accordance with point (a) of paragraph 1 at least the following:(a) information about their policies on the identification and prioritisation of principal adverse sustainability impacts and indicators;(b) a description of the principal adverse sustainability impacts and of any actions in relation thereto taken or, where relevant, planned;(c) brief summaries of engagement policies in accordance with Article 3g of Directive 2007/36/EC, where applicable;(d) a reference to their adherence to responsible business conduct codes and internationally recognised standards for due diligence and reporting and, where relevant, the degree of their alignment with the objectives of the Paris Agreement.
 
 **3.** By way of derogation from paragraph 1, from 30 June 2021, financial market participants exceeding on their balance sheet dates the criterion of the average number of 500 employees during the financial year shall publish and maintain on their websites a statement on their due diligence policies with respect to the principal adverse impacts of investment decisions on sustainability factors. That statement shall at least include the information referred to in paragraph 2.
 
 **4.** By way of derogation from paragraph 1 of this Article, from 30 June 2021, financial market participants which are parent undertakings of a large group as referred to in Article 3(7) of Directive 2013/34/EU exceeding on the balance sheet date of the group, on a consolidated basis, the criterion of the average number of 500 employees during the financial year shall publish and maintain on their websites a statement on their due diligence policies with respect to the principal adverse impacts of investment decisions on sustainability factors. That statement shall at least include the information referred to in of paragraph 2.
 
-**5.** Financial advisers shall publish and maintain on their websites:
-
-(a) information as to whether, taking due account of their size, the nature and scale of their activities and the types of financial products they advise on, they consider in their investment advice or insurance advice the principal adverse impacts on sustainability factors; or
-
-(b) information as to why they do not to consider adverse impacts of investment decisions on sustainability factors in their investment advice or insurance advice, and, where relevant, including information as to whether and when they intend to consider such adverse impacts.
+**5.** Financial advisers shall publish and maintain on their websites:(a) information as to whether, taking due account of their size, the nature and scale of their activities and the types of financial products they advise on, they consider in their investment advice or insurance advice the principal adverse impacts on sustainability factors; or(b) information as to why they do not to consider adverse impacts of investment decisions on sustainability factors in their investment advice or insurance advice, and, where relevant, including information as to whether and when they intend to consider such adverse impacts.
 
 **6.** By 30 December 2020, the ESAs shall develop, through the Joint Committee, draft regulatory technical standards in accordance with Articles 10 to 14 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 on the content, methodologies and presentation of information referred to in paragraphs 1 to 5 of this Article in respect of the sustainability indicators in relation to adverse impacts on the climate and other environment‐related adverse impacts.
 
@@ -140,57 +124,21 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 ### Article 6 — Transparency of the integration of sustainability risks
 
-**1.** Financial market participants shall include descriptions of the following in pre‐contractual disclosures:
-
-(a) the manner in which sustainability risks are integrated into their investment decisions; and
-
-(b) the results of the assessment of the likely impacts of sustainability risks on the returns of the financial products they make available.
+**1.** Financial market participants shall include descriptions of the following in pre‐contractual disclosures:(a) the manner in which sustainability risks are integrated into their investment decisions; and(b) the results of the assessment of the likely impacts of sustainability risks on the returns of the financial products they make available.
 
 Where financial market participants deem sustainability risks not to be relevant, the descriptions referred to in the first subparagraph shall include a clear and concise explanation of the reasons therefor.
 
-**2.** Financial advisers shall include descriptions of the following in pre‐contractual disclosures:
-
-(a) the manner in which sustainability risks are integrated into their investment or insurance advice; and
-
-(b) the result of the assessment of the likely impacts of sustainability risks on the returns of the financial products they advise on.
+**2.** Financial advisers shall include descriptions of the following in pre‐contractual disclosures:(a) the manner in which sustainability risks are integrated into their investment or insurance advice; and(b) the result of the assessment of the likely impacts of sustainability risks on the returns of the financial products they advise on.
 
 Where financial advisers deem sustainability risks not to be relevant, the descriptions referred to in the first subparagraph shall include a clear and concise explanation of the reasons therefor.
 
-**3.** The information referred to in paragraphs 1 and 2 of this Article shall be disclosed in the following manner:
-
-(a) for AIFMs, in the disclosures to investors referred to in Article 23(1) of Directive 2011/61/EU;
-
-(b) for insurance undertakings, in the provision of information referred to in Article 185(2) of Directive 2009/138/EC or, where relevant, in accordance with Article 29(1) of Directive (EU) 2016/97;
-
-(c) for IORPs, in the provision of information referred to in Article 41 of Directive (EU) 2016/2341;
-
-(d) for managers of qualifying venture capital funds, in the provision of information referred to in Article 13(1) of Regulation (EU) No 345/2013;
-
-(e) for managers of qualifying social entrepreneurship funds, in the provision of information referred to in Article 14(1) of Regulation (EU) No 346/2013;
-
-(f) for manufacturers of pension products, in writing in good time before a retail investor is bound by a contract relating to a pension product;
-
-(g) for UCITS management companies, in the prospectus referred to in Article 69 of Directive 2009/65/EC;
-
-(h) for investment firms which provide portfolio management or provide investment advice, in accordance with Article 24(4) of Directive 2014/65/EU;
-
-(i) for credit institutions which provide portfolio management or provide investment advice, in accordance with Article 24(4) of Directive 2014/65/EU;
-
-(j) for insurance intermediaries and insurance undertakings which provide insurance advice with regard to IBIPs and for insurance intermediaries which provide insurance advice with regard to pension products exposed to market fluctuations, in accordance with Article 29(1) of Directive (EU) 2016/97;
-
-(k) for AIFMs of ELTIFs, in the prospectus referred to in Article 23 of Regulation (EU) 2015/760;
-
-(l) for PEPP providers, in the PEPP key information document referred to in Article 26 of Regulation (EU) 2019/1238.
+**3.** The information referred to in paragraphs 1 and 2 of this Article shall be disclosed in the following manner:(a) for AIFMs, in the disclosures to investors referred to in Article 23(1) of Directive 2011/61/EU;(b) for insurance undertakings, in the provision of information referred to in Article 185(2) of Directive 2009/138/EC or, where relevant, in accordance with Article 29(1) of Directive (EU) 2016/97;(c) for IORPs, in the provision of information referred to in Article 41 of Directive (EU) 2016/2341;(d) for managers of qualifying venture capital funds, in the provision of information referred to in Article 13(1) of Regulation (EU) No 345/2013;(e) for managers of qualifying social entrepreneurship funds, in the provision of information referred to in Article 14(1) of Regulation (EU) No 346/2013;(f) for manufacturers of pension products, in writing in good time before a retail investor is bound by a contract relating to a pension product;(g) for UCITS management companies, in the prospectus referred to in Article 69 of Directive 2009/65/EC;(h) for investment firms which provide portfolio management or provide investment advice, in accordance with Article 24(4) of Directive 2014/65/EU;(i) for credit institutions which provide portfolio management or provide investment advice, in accordance with Article 24(4) of Directive 2014/65/EU;(j) for insurance intermediaries and insurance undertakings which provide insurance advice with regard to IBIPs and for insurance intermediaries which provide insurance advice with regard to pension products exposed to market fluctuations, in accordance with Article 29(1) of Directive (EU) 2016/97;(k) for AIFMs of ELTIFs, in the prospectus referred to in Article 23 of Regulation (EU) 2015/760;(l) for PEPP providers, in the PEPP key information document referred to in Article 26 of Regulation (EU) 2019/1238.
 
 <a id="art_7"></a>
 
 ### Article 7 — Transparency of adverse sustainability impacts at financial product level
 
-**1.** By 30 December 2022, for each financial product where a financial market participant applies point (a) of Article 4(1) or Article 4(3) or (4), the disclosures referred to in Article 6(3) shall include the following:
-
-(a) a clear and reasoned explanation of whether, and, if so, how a financial product considers principal adverse impacts on sustainability factors;
-
-(b) a statement that information on principal adverse impacts on sustainability factors is available in the information to be disclosed pursuant to Article 11(2).
+**1.** By 30 December 2022, for each financial product where a financial market participant applies point (a) of Article 4(1) or Article 4(3) or (4), the disclosures referred to in Article 6(3) shall include the following:(a) a clear and reasoned explanation of whether, and, if so, how a financial product considers principal adverse impacts on sustainability factors;(b) a statement that information on principal adverse impacts on sustainability factors is available in the information to be disclosed pursuant to Article 11(2).
 
 Where information in Article 11(2) includes quantifications of principal adverse impacts on sustainability factors, that information may rely on the provisions of the regulatory technical standards adopted pursuant to Article 4(6) and (7).
 
@@ -200,15 +148,11 @@ Where information in Article 11(2) includes quantifications of principal adverse
 
 ### Article 8 — Transparency of the promotion of environmental or social characteristics in pre‐contractual disclosures
 
-**1.** Where a financial product promotes, among other characteristics, environmental or social characteristics, or a combination of those characteristics, provided that the companies in which the investments are made follow good governance practices, the information to be disclosed pursuant to Article 6(1) and (3) shall include the following:
-
-(a) information on how those characteristics are met;
-
-(b) if an index has been designated as a reference benchmark, information on whether and how this index is consistent with those characteristics.
+**1.** Where a financial product promotes, among other characteristics, environmental or social characteristics, or a combination of those characteristics, provided that the companies in which the investments are made follow good governance practices, the information to be disclosed pursuant to Article 6(1) and (3) shall include the following:(a) information on how those characteristics are met;(b) if an index has been designated as a reference benchmark, information on whether and how this index is consistent with those characteristics.
 
 **2.** Financial market participants shall include in the information to be disclosed pursuant to Article 6(1) and (3) an indication of where the methodology used for the calculation of the index referred to in paragraph 1 of this Article is to be found.
 
-**2a.** Where financial market participants make available a financial product as referred to in Article 6 of Regulation (EU) 2020/852 of the European Parliament and of the Council, they shall include in the information to be disclosed pursuant to Article 6(1) and (3) of this Regulation the information required under Article 6 of Regulation (EU) 2020/852.
+**2a.** Where financial market participants make available a financial product as referred to in Article 6 of Regulation (EU) 2020/852 of the European Parliament and of the Council (2), they shall include in the information to be disclosed pursuant to Article 6(1) and (3) of this Regulation the information required under Article 6 of Regulation (EU) 2020/852.
 
 **3.** The ESAs shall, through the Joint Committee, develop draft regulatory technical standards to specify the details of the content and presentation of the information to be disclosed pursuant to paragraphs 1 and 2 of this Article.
 
@@ -234,17 +178,13 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 ### Article 9 — Transparency of sustainable investments in pre‐contractual disclosures
 
-**1.** Where a financial product has sustainable investment as its objective and an index has been designated as a reference benchmark, the information to be disclosed pursuant to Article 6(1) and (3) shall be accompanied by the following:
-
-(a) information on how the designated index is aligned with that objective;
-
-(b) an explanation as to why and how the designated index aligned with that objective differs from a broad market index.
+**1.** Where a financial product has sustainable investment as its objective and an index has been designated as a reference benchmark, the information to be disclosed pursuant to Article 6(1) and (3) shall be accompanied by the following:(a) information on how the designated index is aligned with that objective;(b) an explanation as to why and how the designated index aligned with that objective differs from a broad market index.
 
 **2.** Where a financial product has sustainable investment as its objective and no index has been designated as a reference benchmark, the information to be disclosed pursuant to Article 6(1) and (3) shall include an explanation on how that objective is to be attained.
 
 **3.** Where a financial product has a reduction in carbon emissions as its objective, the information to be disclosed pursuant to Article 6(1) and (3) shall include the objective of low carbon emission exposure in view of achieving the long‐term global warming objectives of the Paris Agreement.
 
-By way of derogation from paragraph 2 of this Article, where no EU Climate Transition Benchmark or EU Paris‐aligned Benchmark in accordance with Regulation (EU) 2016/1011 of the European Parliament and of the Council is available, the information referred to in Article 6 shall include a detailed explanation of how the continued effort of attaining the objective of reducing carbon emissions is ensured in view of achieving the long‐term global warming objectives of the Paris Agreement.
+By way of derogation from paragraph 2 of this Article, where no EU Climate Transition Benchmark or EU Paris‐aligned Benchmark in accordance with Regulation (EU) 2016/1011 of the European Parliament and of the Council (3) is available, the information referred to in Article 6 shall include a detailed explanation of how the continued effort of attaining the objective of reducing carbon emissions is ensured in view of achieving the long‐term global warming objectives of the Paris Agreement.
 
 **4.** Financial market participants shall include in the information to be disclosed pursuant to Article 6(1) and (3) an indication of where the methodology used for the calculation of the indices referred to in paragraph 1 of this Article and the benchmarks referred to in the second subparagraph of paragraph 3 of this Article are to be found.
 
@@ -274,15 +214,7 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 ### Article 10 — Transparency of the promotion of environmental or social characteristics and of sustainable investments on websites
 
-**1.** Financial market participants shall publish and maintain on their websites the following information for each financial product referred to in Article 8(1) and Article 9(1), (2) and (3):
-
-(a) a description of the environmental or social characteristics or the sustainable investment objective;
-
-(b) information on the methodologies used to assess, measure and monitor the environmental or social characteristics or the impact of the sustainable investments selected for the financial product, including its data sources, screening criteria for the underlying assets and the relevant sustainability indicators used to measure the environmental or social characteristics or the overall sustainable impact of the financial product;
-
-(c) the information referred to in Articles 8 and 9;
-
-(d) the information referred to in Article 11.
+**1.** Financial market participants shall publish and maintain on their websites the following information for each financial product referred to in Article 8(1) and Article 9(1), (2) and (3):(a) a description of the environmental or social characteristics or the sustainable investment objective;(b) information on the methodologies used to assess, measure and monitor the environmental or social characteristics or the impact of the sustainable investments selected for the financial product, including its data sources, screening criteria for the underlying assets and the relevant sustainability indicators used to measure the environmental or social characteristics or the overall sustainable impact of the financial product;(c) the information referred to in Articles 8 and 9;(d) the information referred to in Article 11.
 
 The information to be disclosed pursuant to the first subparagraph shall be clear, succinct and understandable to investors. It shall be published in a way that is accurate, fair, clear, not misleading, simple and concise and in a prominent easily accessible area of the website.
 
@@ -298,37 +230,9 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 ### Article 11 — Transparency of the promotion of environmental or social characteristics and of sustainable investments in periodic reports
 
-**1.** Where financial market participants make available a financial product as referred to in Article 8(1) or in Article 9(1), (2) or (3), they shall include a description of the following in periodic reports:
+**1.** Where financial market participants make available a financial product as referred to in Article 8(1) or in Article 9(1), (2) or (3), they shall include a description of the following in periodic reports:(a) for a financial product as referred to in Article 8(1), the extent to which environmental or social characteristics are met;(b) for a financial product as referred to in Article 9(1), (2) or (3):(i) the overall sustainability‐related impact of the financial product by means of relevant sustainability indicators; or(ii) where an index has been designated as a reference benchmark, a comparison between the overall sustainability‐related impact of the financial product with the impacts of the designated index and of a broad market index through sustainability indicators;▼M1(c) for a financial product subject to Article 5 of Regulation (EU) 2020/852, the information required under that Article;(d) for a financial product subject to Article 6 of Regulation (EU) 2020/852, the information required under that Article.▼B
 
-(a) for a financial product as referred to in Article 8(1), the extent to which environmental or social characteristics are met;
-
-(b) for a financial product as referred to in Article 9(1), (2) or (3): (i) the overall sustainability‐related impact of the financial product by means of relevant sustainability indicators; or (ii) where an index has been designated as a reference benchmark, a comparison between the overall sustainability‐related impact of the financial product with the impacts of the designated index and of a broad market index through sustainability indicators;
-
-(c) for a financial product subject to Article 5 of Regulation (EU) 2020/852, the information required under that Article;
-
-(d) for a financial product subject to Article 6 of Regulation (EU) 2020/852, the information required under that Article.
-
-**2.** The information referred to in paragraph 1 of this Article shall be disclosed in the following manner:
-
-(a) for AIFMs, in the annual report referred to in Article 22 of Directive 2011/61/EU;
-
-(b) for insurance undertakings, annually in writing in accordance with Article 185(6) of Directive 2009/138/EC;
-
-(c) for IORPs, in the annual report referred to in Article 29 of Directive (EU) 2016/2341;
-
-(d) for managers of qualifying venture capital funds, in the annual report referred to in Article 12 of Regulation (EU) No 345/2013;
-
-(e) for managers of qualifying social entrepreneurship funds, in the annual report referred to in Article 13 of Regulation (EU) No 346/2013;
-
-(f) for manufacturers of pension products, in writing in the annual report or in a report in accordance with national law;
-
-(g) for UCITS management companies, in the annual report referred to in Article 69 of Directive 2009/65/EC;
-
-(h) for investment firms which provide portfolio management, in a periodic report as referred to in Article 25(6) of Directive 2014/65/EU;
-
-(i) for credit institutions which provide portfolio management, in a periodic report as referred to in Article 25(6) of Directive 2014/65/EU;
-
-(j) for PEPP providers, in the PEPP Benefit Statement referred to in Article 36 of Regulation (EU) 2019/1238.
+**2.** The information referred to in paragraph 1 of this Article shall be disclosed in the following manner:(a) for AIFMs, in the annual report referred to in Article 22 of Directive 2011/61/EU;(b) for insurance undertakings, annually in writing in accordance with Article 185(6) of Directive 2009/138/EC;(c) for IORPs, in the annual report referred to in Article 29 of Directive (EU) 2016/2341;(d) for managers of qualifying venture capital funds, in the annual report referred to in Article 12 of Regulation (EU) No 345/2013;(e) for managers of qualifying social entrepreneurship funds, in the annual report referred to in Article 13 of Regulation (EU) No 346/2013;(f) for manufacturers of pension products, in writing in the annual report or in a report in accordance with national law;(g) for UCITS management companies, in the annual report referred to in Article 69 of Directive 2009/65/EC;(h) for investment firms which provide portfolio management, in a periodic report as referred to in Article 25(6) of Directive 2014/65/EU;(i) for credit institutions which provide portfolio management, in a periodic report as referred to in Article 25(6) of Directive 2014/65/EU;(j) for PEPP providers, in the PEPP Benefit Statement referred to in Article 36 of Regulation (EU) 2019/1238.
 
 **3.** For the purposes of paragraph 1 of this Article, financial market participants may use the information in management reports in accordance with Article 19 of Directive 2013/34/EU or the information in non‐financial statements in accordance with Article 19a of that Directive where appropriate.
 
@@ -414,11 +318,7 @@ The ESAs shall take stock of the extent of voluntary disclosures in accordance w
 
 ### Article 19 — Evaluation
 
-**1.** By 30 December 2022, the Commission shall evaluate the application of this Regulation and shall in particular consider:
-
-(a) whether the reference to the average number of employees in Article 4(3) and (4) should be maintained, replaced or accompanied by other criteria, and shall consider the benefits and proportionality of the related administrative burden;
-
-(b) whether the functioning of this Regulation is inhibited by the lack of data or their suboptimal quality, including indicators on adverse impacts on sustainability factors by investee companies.
+**1.** By 30 December 2022, the Commission shall evaluate the application of this Regulation and shall in particular consider:(a) whether the reference to the average number of employees in Article 4(3) and (4) should be maintained, replaced or accompanied by other criteria, and shall consider the benefits and proportionality of the related administrative burden;(b) whether the functioning of this Regulation is inhibited by the lack of data or their suboptimal quality, including indicators on adverse impacts on sustainability factors by investee companies.
 
 **2.** The evaluation referred to in paragraph 1 shall be accompanied, if appropriate, by a legislative proposal.
 
@@ -430,12 +330,4 @@ The ESAs shall take stock of the extent of voluntary disclosures in accordance w
 
 **2.** This Regulation shall apply from 10 March 2021.
 
-**3.** By way of derogation from paragraph 2 of this Article:
-
-(a) Articles 4(6) and (7), 8(3), 9(5), 10(2), 11(4) and 13(2) shall apply from 29 December 2019;
-
-(b) Articles 2a, 8(4), 9(6) and 11(5) shall apply from 12 July 2020;
-
-(c) Articles 8(2a) and 9(4a) shall apply: (i) in respect of the environmental objectives referred to in points (a) and (b) of Article 9 of Regulation (EU) 2020/852, from 1 January 2022; and (ii) in respect of the environmental objectives referred to in points (c) to (f) of Article 9 of Regulation (EU) 2020/852, from 1 January 2023;
-
-(d) Article 11(1), (2) and (3) shall apply from 1 January 2022.
+**3.** By way of derogation from paragraph 2 of this Article:(a) Articles 4(6) and (7), 8(3), 9(5), 10(2), 11(4) and 13(2) shall apply from 29 December 2019;(b) Articles 2a, 8(4), 9(6) and 11(5) shall apply from 12 July 2020;(c) Articles 8(2a) and 9(4a) shall apply:(i) in respect of the environmental objectives referred to in points (a) and (b) of Article 9 of Regulation (EU) 2020/852, from 1 January 2022; and(ii) in respect of the environmental objectives referred to in points (c) to (f) of Article 9 of Regulation (EU) 2020/852, from 1 January 2023;(d) Article 11(1), (2) and (3) shall apply from 1 January 2022.

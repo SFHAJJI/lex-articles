@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r1718:2023-09-08",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2023/1718 of 8\u00A0September 2023 amending the implementing technical standards laid down in Implementing Regulation (EU)\u00A02015/2197 with regard to closely correlated currencies in accordance with Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2023-09-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r1718/versions/2023-09-08/fr.xml",
+    "sha256": "e06855c2b527108dcc4646cac80f9d82daa32d698878a4d2e41bdc8a5501a566",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R1718"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r1718:2023-09-08#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’annexe du règlement d’exécution (UE) 2015/2197 est remplacée par le texte figurant dans l’annexe du présent règlement.",
+      "text_sha256": "f0f9966f22ba4703022743275a854d5156c43601da3e2fe85b85e1c3adf443b1",
+      "md_span": {
+        "start": 804,
+        "end": 941
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r1718:2023-09-08#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 974,
+        "end": 1115
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

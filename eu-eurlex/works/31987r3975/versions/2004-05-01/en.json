@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31987r3975:2004-05-01",
+  "language": "en",
+  "title": "Council Regulation (EEC) No 3975/87 of 14 December 1987 laying down the procedure for the …",
+  "valid_from": "2004-05-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31987r3975/versions/2004-05-01/en.html",
+    "sha256": "1f59b415bf0f8b4b6e17725de0e1b14aa4ac4b6a2a5162643550bb7728f56f12",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01987R3975-20040501"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31987r3975:2004-05-01#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1987R3975 — EN — 01.05.2004 — 003.001 This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents ►B COUNCIL REGULATION (EEC) No 3975/87 of 14 December 1987 laying down the procedure for the application of the rules on competition to undertakings in the air transport sector (OJ L 374, 31.12.1987, p.1) repealed by: Official Journal No page date Council Regulation (EC) No 411/2004 of 26 February 2004 L 68 1 6.3.2004",
+      "text_sha256": "b208fbe8a118b5951b10e1d4cd682366a4d6d4abe7c94069179af891de856e1c",
+      "md_span": {
+        "start": 658,
+        "end": 1135
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

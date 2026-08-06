@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_10": [
       {
@@ -130,5 +131,136 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_10": [
+        {
+          "valid_from": "2010-06-12",
+          "valid_to": null,
+          "text_sha256": "8a8bce62c24817f26c312b506b96ab144a610ddc5c58aa62764340dcf3b42005",
+          "in_version": "lu-legilux:loi-1987-12-02-n1:2010-06-12",
+          "article_valid_from": "1987-12-13",
+          "validity_conflict": true
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2010-06-12",
+          "valid_to": null,
+          "text_sha256": "7f350a01afa36658369766f360a040470aea90c2cc2738c4acab759d2fe3210c",
+          "in_version": "lu-legilux:loi-1987-12-02-n1:2010-06-12",
+          "article_valid_from": "1987-12-13",
+          "validity_conflict": true
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2010-06-12",
+          "valid_to": null,
+          "text_sha256": "fdc4bdff7dccdb295d9b30e4213023f351bbc4b708eaddea105ea5e8d8d05489",
+          "in_version": "lu-legilux:loi-1987-12-02-n1:2010-06-12",
+          "article_valid_from": "1987-12-13",
+          "validity_conflict": true
+        }
+      ],
+      "art_1er": [
+        {
+          "valid_from": "2010-06-12",
+          "valid_to": null,
+          "text_sha256": "27db204a4eb63d4a8e4e6736037899a69f174b4d110fafa4180afc23a50eb2a9",
+          "in_version": "lu-legilux:loi-1987-12-02-n1:2010-06-12",
+          "article_valid_from": "1987-12-13",
+          "validity_conflict": true
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2010-06-12",
+          "valid_to": null,
+          "text_sha256": "296ea30c3f2dac67b96e52c3b62b5ba0487b46e247ce46694b1da5aff1d46d60",
+          "in_version": "lu-legilux:loi-1987-12-02-n1:2010-06-12",
+          "article_valid_from": "2010-06-12"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2010-06-12",
+          "valid_to": null,
+          "text_sha256": "85a096bd2080a972b5c9da5d6cfea45989b8f81ca428432c1b2f97841b9a4a09",
+          "in_version": "lu-legilux:loi-1987-12-02-n1:2010-06-12",
+          "article_valid_from": "1987-12-13",
+          "validity_conflict": true
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2010-06-12",
+          "valid_to": "2017-07-02",
+          "text_sha256": "b029c14668d22f388b2acd87d32875f71bd1f5541519239d4554c45be95e6a05",
+          "in_version": "lu-legilux:loi-1987-12-02-n1:2010-06-12",
+          "article_valid_from": "1987-12-13",
+          "validity_conflict": true
+        },
+        {
+          "valid_from": "2017-07-03",
+          "valid_to": null,
+          "text_sha256": "f4905529a056df4e705f7364fe8c7dbba4ca0501054e994663ac340ab57df791",
+          "in_version": "lu-legilux:loi-1987-12-02-n1:2017-07-03",
+          "article_valid_from": "2017-07-03"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2010-06-12",
+          "valid_to": null,
+          "text_sha256": "186320b119538681adc446f40d5f868d60f7a2c2fba76b90f614f7b192162a1b",
+          "in_version": "lu-legilux:loi-1987-12-02-n1:2010-06-12",
+          "article_valid_from": "2010-06-12"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2010-06-12",
+          "valid_to": null,
+          "text_sha256": "7586879d531b9b0cd286634798a3cf9d191794a758a8633a601cab10ceb942db",
+          "in_version": "lu-legilux:loi-1987-12-02-n1:2010-06-12",
+          "article_valid_from": "2010-06-12"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2010-06-12",
+          "valid_to": null,
+          "text_sha256": "44e4079b1ef3b9a8b3b662586a4f0b9e61bc79c3b98138038de2c4f1fc3a0da5",
+          "in_version": "lu-legilux:loi-1987-12-02-n1:2010-06-12",
+          "article_valid_from": "1987-12-13",
+          "validity_conflict": true
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2010-06-12",
+          "valid_to": null,
+          "text_sha256": "1aa6ffa749b72f8d7c429baeeeae1491bfc158db3524d1bf02136357628effee",
+          "in_version": "lu-legilux:loi-1987-12-02-n1:2010-06-12",
+          "article_valid_from": "1987-12-13",
+          "validity_conflict": true
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2010-06-12",
+          "valid_to": null,
+          "text_sha256": "33f477181c7b938ecf51b6d7a1e8bfd5fd3e27f4309d6b0facc285d58083c938",
+          "in_version": "lu-legilux:loi-1987-12-02-n1:2010-06-12",
+          "article_valid_from": "1987-12-13",
+          "validity_conflict": true
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

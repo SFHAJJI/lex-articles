@@ -1,0 +1,141 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32004l0106:2004-11-16",
+  "language": "en",
+  "title": "Council Directive 2004/106/EC of 16 November 2004 amending Directives 77/799/EEC concernin…",
+  "valid_from": "2004-11-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32004l0106/versions/2004-11-16/en.xml",
+    "sha256": "85f660206b498e2c21336c0f34f234dd32fcc7bb65044ed2805b20ca23e6eb59",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0106"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32004l0106:2004-11-16#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nDirective 77/799/EEC is hereby amended as follows:\n\n| 1. | the title shall be replaced by the following title: ‘Council Directive 77/799/EEC of 19 December 1977 concerning mutual assistance by the competent authorities of the Member States in the field of direct taxation and taxation of insurance premiums’; |\n| --- | --- |\n\n| 2. | paragraph 1 of Article 1 shall be replaced by the following:‘1. In accordance with the provisions of this Directive the competent authorities of the Member States shall exchange any information that may enable them to effect a correct assessment of taxes on income and on capital, and any information relating to the establishment of taxes on insurance premiums referred to in the sixth indent of Article 3 of Council Directive 76/308/EEC of 15 March 1976 on mutual assistance for the recovery of claims relating to certain levies, duties, taxes and other measures(*1).’(*1) OJ L 73, 19.3.1976, p. 18. Directive as last amended by the 2003 Act of Accession.\" |\n| --- | --- |",
+      "text_sha256": "27bbd4fda9d83cf042827c7a12a6347cfe68fb1a5e8e89b38d922c9229ccf190",
+      "md_span": {
+        "start": 636,
+        "end": 1654
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2004359EN.01003001-E0008",
+          "text": "(*1)"
+        },
+        {
+          "href": "#ntc*1-L_2004359EN.01003001-E0008",
+          "text": "(*1)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_1976_073_R_TOC",
+          "text": "OJ L 73, 19.3.1976, p. 18"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32004l0106:2004-11-16#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nDirective 92/12/EEC is hereby amended as follows:\n\n| 1. | Article 15a shall be deleted; |\n| --- | --- |\n\n| 2. | Article 15b shall be deleted; |\n| --- | --- |\n\n| 3. | Article 19(6) shall be deleted. |\n| --- | --- |",
+      "text_sha256": "866fb575d726b395a4488985d4c5ded9ac5b06652ca8429f33ee0a14d1fb92fa",
+      "md_span": {
+        "start": 1687,
+        "end": 1911
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32004l0106:2004-11-16#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nReferences to Directive 77/799/EEC in respect of excise duties shall be construed as being made to Regulation (EC) No 2073/2004.\n\nReferences to Directive 92/12/EEC in respect of administrative cooperation in the field of excise duties shall be construed as being made to Regulation (EC) No 2073/2004.",
+      "text_sha256": "0d9e85a1b07407acb3cbcab3c196cb2e5e4e6f28243c709237734acd71559dbe",
+      "md_span": {
+        "start": 1944,
+        "end": 2255
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32004l0106:2004-11-16#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 30 June 2005. They shall forthwith inform the Commission thereof.\n\nThey shall apply these provisions from 1 July 2005.\n\nWhen Member States adopt these measures, they shall contain a reference to this Directive or be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.\n\n2. Member States shall communicate to the Commission the text of the provisions of national law which they adopt in the field covered by this Directive.\n\n3. By way of derogation from Article 2 of Directive 2004/56/EC, Member States are not obliged to adopt and apply the provisions needed to comply with Directive 2004/56/EC in respect of excise duties.",
+      "text_sha256": "2f43fcbc506753925bef178a4abdef5e5849d09a8f3cec99f1b97d5819d055a7",
+      "md_span": {
+        "start": 2288,
+        "end": 3159
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32004l0106:2004-11-16#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThis Directive shall enter into force on the twentieth day following its publication in the Official Journal of the European Union.",
+      "text_sha256": "564730ef52d21865dc7c53f3605bf34abbea8e3e785128c676f94e77db25b164",
+      "md_span": {
+        "start": 3192,
+        "end": 3334
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32004l0106:2004-11-16#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "94bcb853392d4fb8f7ad9323290be5e8fba1f7886177b952bc4ceb9cc5f89f2d",
+      "md_span": {
+        "start": 3367,
+        "end": 3427
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

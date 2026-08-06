@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1055:2016-06-29",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2016/1055 of 29 June 2016 laying down implementing technical standards with regard to the technical means for appropriate public disclosure of inside information and for delaying the public disclosure of inside information in accordance with Regulation (EU) No 596/2014",
+  "valid_from": "2016-06-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1055/versions/2016-06-29/en.xml",
+    "sha256": "f8a3777e604c00f51eb89d26870ad91554e900291e3582bd7d733a928f9f052b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R1055"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r1055:2016-06-29#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nFor the purposes of this Regulation, the following definition shall apply:\n\n|  | ‘electronic means’ are means of electronic equipment for the processing (including digital compression), storage and transmission of data, employing wires, radio, optical technologies, or any other electromagnetic means. |\n| --- | --- |",
+      "text_sha256": "a646a20e0cf154b60c9819e15911c285384c884ed455e5149ae44e040b512bec",
+      "md_span": {
+        "start": 854,
+        "end": 1182
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1055:2016-06-29#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Issuers and emission allowance market participants shall disclose inside information using technical means that ensure:\n\n| (a) | inside information is disseminated:(i)to as wide a public as possible on a non-discriminatory basis;(ii)free of charge;(iii)simultaneously throughout the Union; |\n| --- | --- |\n| (i) | to as wide a public as possible on a non-discriminatory basis; |\n| (ii) | free of charge; |\n| (iii) | simultaneously throughout the Union; |\n\n| (b) | inside information is communicated, directly or through a third party, to the media which are reasonably relied upon by the public to ensure its effective dissemination. That communication shall be transmitted using electronic means that ensure that the completeness, integrity and confidentiality of the information is maintained during the transmission, and it shall clearly identify:(i)that the information communicated is inside information;(ii)the identity of the issuer or emissions allowance market participant: full legal name;(iii)the identity of the person making the notification: name, surname, position within the issuer or emission allowance market participant;(iv)the subject matter of the inside information;(v)the date and time of the communication to the media. |\n| --- | --- |\n| (i) | that the information communicated is inside information; |\n| (ii) | the identity of the issuer or emissions allowance market participant: full legal name; |\n| (iii) | the identity of the person making the notification: name, surname, position within the issuer or emission allowance market participant; |\n| (iv) | the subject matter of the inside information; |\n| (v) | the date and time of the communication to the media. |\n\nIssuers and emission allowance market participants shall ensure the completeness, integrity and confidentiality by remedying any failure or disruption in the communication of inside information without delay.\n\n2. Emission allowance market participants required to disclose inside information in accordance with Article 4 of Regulation (EU) No 1227/2011 may use the technical means established for the purpose of disclosing inside information under that Regulation for the disclosure of inside information under Article 17(2) of Regulation (EU) No 596/2014 provided the inside information required to be disclosed has substantially the same content and the technical means used for the disclosure ensure that the inside information is communicated to the relevant media.",
+      "text_sha256": "395d4f4647773d7777ada25f835cb90a14350da7b5faa15743a9056744723b2d",
+      "md_span": {
+        "start": 1215,
+        "end": 3692
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r1055:2016-06-29#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThe websites referred to in Article 17(1) and (9) of Regulation (EU) No 596/2014 shall comply with the following requirements:\n\n| (a) | they allow users to access the inside information posted on the website in a non-discriminatory basis and free of charge; |\n| --- | --- |\n\n| (b) | they allow users to locate the inside information in an easily identifiable section of the website; |\n| --- | --- |\n\n| (c) | they ensure the disclosed inside information clearly indicates date and time of disclosure and that the information is organised in chronological order. |\n| --- | --- |",
+      "text_sha256": "a9f7f1dcb42d055171394f7b1ab823de5fc5da0652ab76c9bbe4a48e77ca66a8",
+      "md_span": {
+        "start": 3725,
+        "end": 4312
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32016r1055:2016-06-29#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. For the purpose of delaying the public disclosure of inside information in accordance with the third subparagraph of Article 17(4) of Regulation (EU) No 596/2014, issuers and emission allowance market participants shall use technical means that ensure the accessibility, readability, and maintenance in a durable medium of the following information:\n\n| (a) | the dates and times when:(i)the inside information first existed within the issuer or the emission allowance market participant;(ii)the decision to delay the disclosure of inside information was made;(iii)the issuer or emission allowance market participant is likely to disclose the inside information; |\n| --- | --- |\n| (i) | the inside information first existed within the issuer or the emission allowance market participant; |\n| (ii) | the decision to delay the disclosure of inside information was made; |\n| (iii) | the issuer or emission allowance market participant is likely to disclose the inside information; |\n\n| (b) | the identity of the persons within the issuer or emission allowance market participant responsible for:(i)making the decision to delay disclosure and deciding on the start of the delay and its likely end;(ii)ensuring the ongoing monitoring of the conditions for the delay;(iii)making the decision to publicly disclose the inside information;(iv)providing the requested information about the delay and the written explanation to the competent authority; |\n| --- | --- |\n| (i) | making the decision to delay disclosure and deciding on the start of the delay and its likely end; |\n| (ii) | ensuring the ongoing monitoring of the conditions for the delay; |\n| (iii) | making the decision to publicly disclose the inside information; |\n| (iv) | providing the requested information about the delay and the written explanation to the competent authority; |\n\n| (c) | evidence of the initial fulfilment of the conditions referred to in Article 17(4) of Regulation (EU) No 596/2014, and of any change of this fulfilment during the delay period, including:(i)the information barriers which have been put in place internally and with regard to third parties to prevent access to inside information by persons other than those who require it for the normal exercise of their employment, profession or duties within the issuer or emission allowance market participant;(ii)the arrangements put in place to disclose the relevant inside information as soon as possible where the confidentiality is no longer ensured. |\n| --- | --- |\n| (i) | the information barriers which have been put in place internally and with regard to third parties to prevent access to inside information by persons other than those who require it for the normal exercise of their employment, profession or duties within the issuer or emission allowance market participant; |\n| (ii) | the arrangements put in place to disclose the relevant inside information as soon as possible where the confidentiality is no longer ensured. |\n\n2. Issuers and emission allowance market participants shall inform, by means of a written notification, the competent authority of a delay in the disclosure of inside information and provide any written explanation of such delay through the dedicated contact point within, or designated by, the competent authority using the electronic means specified by the competent authority.\n\nCompetent authorities shall publish on their website the dedicated contact point within, or designated by, the competent authority and the electronic means referred to in the first subparagraph. Those electronic means shall ensure that completeness, integrity and confidentiality of the information are maintained during the transmission.\n\n3. The electronic means referred to in paragraph 2 shall ensure that the notification of a delay in the disclosure of inside information includes the following information:\n\n| (a) | the identity of the issuer or emission allowance market participant: full legal name; |\n| --- | --- |\n\n| (b) | the identity of the person making the notification: name, surname, position within the issuer or emission allowance market participant; |\n| --- | --- |\n\n| (c) | the contact details of the person making the notification: professional e-mail address and phone number; |\n| --- | --- |\n\n| (d) | identification of the publicly disclosed inside information that was subject to delayed disclosure: title of the disclosure statement; the reference number where the system used to disseminate the inside information assigns one; date and time of the public disclosure of the inside information; |\n| --- | --- |\n\n| (e) | date and time of the decision to delay the disclosure of inside information; |\n| --- | --- |\n\n| (f) | the identity of all persons responsible for the decision to delay the public disclosure of inside information. |\n| --- | --- |\n\n4. Where the written explanation of a delay in the disclosure of inside information is provided only upon request of the competent authority in accordance with the third subparagraph of Article 17(4) of Regulation (EU) No 596/2014, the electronic means referred to in paragraph 2 of this Article shall ensure that such written explanation includes the information referred to in paragraph 3 of this Article.",
+      "text_sha256": "58e93a253b6e82b0cb5c95ca8f702bdef73ee5f4b1d4870f20d0b328ea1530aa",
+      "md_span": {
+        "start": 4345,
+        "end": 9596
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32016r1055:2016-06-29#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. For the purpose of delaying the public disclosure of inside information in accordance with Article 17(5) of Regulation (EU) No 596/2014, an issuer that is a credit institution or a financial institution shall provide the competent authority with a notification in writing, of its intention to delay the disclosure of inside information in order to preserve the stability of the financial system, ensuring the completeness, integrity and confidentiality of the information, through a dedicated contact point within, or designated by, the competent authority.\n\nWhere the issuer transmits the notification referred to in the first subparagraph electronically, it shall use the electronic means referred to in Article 4(2) of this Regulation.\n\n2. The competent authority shall communicate to the issuer its decision to consent or not the delay of the disclosure on the basis of the information provided pursuant to paragraph 1 in writing and ensuring the completeness, integrity and confidentiality of the information.\n\n3. The issuer shall use the same technical means used to provide the competent authority with the notification referred to in paragraph 1 to inform the competent authority of any new information that may affect the decision of the competent authority regarding the delay of the disclosure of the inside information.",
+      "text_sha256": "f76b5324af6efa410e5d1a8d80da5ce6caa602067639e3cfbbbf9ceea71c2f04",
+      "md_span": {
+        "start": 9629,
+        "end": 10974
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32016r1055:2016-06-29#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 3 July 2016.",
+      "text_sha256": "edd08a4ed71a0b997cbe367828185ce345da9a5441d64fcb055b29c592474a16",
+      "md_span": {
+        "start": 11007,
+        "end": 11182
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r1645:2018-07-13",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2018/1645 of 13 July 2018 supplementing Regulation (EU) 2016/1011",
+  "valid_from": "2018-07-13",
+  "valid_to": "2026-02-18",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r1645/versions/2018-07-13/fr.xml",
+    "sha256": "af9141f92364d4e7e3dbae3d19af8cee6fa4abfeb7d7c42c4aaf46219cfc2087",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018R1645"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r1645:2018-07-13#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Un administrateur situé dans un pays tiers qui fait une demande de reconnaissance au titre de l'article 32 du règlement (UE) 2016/1011 fournit les informations indiquées en annexe.\n\n2. Si le demandeur n'a pas fourni l'une des informations requises, la demande comprend une explication de la raison pour laquelle cette information n'a pas été fournie.",
+      "text_sha256": "cb4154ddbd4f3bd7584a6f80d21d2e3214979578958a3f93ea3c534890be33d9",
+      "md_span": {
+        "start": 653,
+        "end": 1023
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r1645:2018-07-13#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. La demande de reconnaissance est présentée dans la langue officielle ou l'une des langues officielles de l'État membre de référence, sauf indication contraire dans l'annexe. Les documents visés au point 8 de l'annexe sont présentés dans une langue usuelle dans la sphère financière internationale, ou dans la langue officielle ou l'une des langues officielles de l'État membre de référence.\n\n2. La demande de reconnaissance est présentée par des moyens électroniques ou, si l'autorité compétente concernée l'accepte, sur support papier. Ces moyens électroniques préservent l'exhaustivité, l'intégrité et la confidentialité des informations durant la transmission. Le demandeur veille à ce que chaque document transmis indique clairement à quelle exigence précise du présent règlement il se rapporte.",
+      "text_sha256": "9d344333890afd0014c22b04e0692a2691b9c6617edf57f6034f15466d0c4651",
+      "md_span": {
+        "start": 1056,
+        "end": 1869
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32018r1645:2018-07-13#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Toute politique ou procédure mise en place pour se conformer aux exigences du règlement (UE) 2016/1011 et décrite dans la demande contient les éléments suivants, ou en est accompagnée:\n\n| a) | une mention de l'identité de la ou des personnes responsables de l'approbation et de l'actualisation des politiques et des procédures; |\n| --- | --- |\n\n| b) | la description des modalités de contrôle du respect des politiques et des procédures, et l'identité de la ou des personnes responsables de ce contrôle; |\n| --- | --- |\n\n| c) | une description des mesures à prendre en cas de violation des politiques et procédures. |\n| --- | --- |\n\n2. Si le demandeur fait partie d'un groupe, il peut se conformer au paragraphe 1 en soumettant les politiques et les procédures de son groupe qui concernent la fourniture d'indices de référence.",
+      "text_sha256": "274a6b2241230fe681059127d0657b4ca23025ea3d8382e819e24d1146513072",
+      "md_span": {
+        "start": 1902,
+        "end": 2743
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32018r1645:2018-07-13#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe présent règlement entre en vigueur le vingtième jour suivant la date de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à partir du 25 janvier 2019.",
+      "text_sha256": "3758c3eb014ee64e7a80cb6f9a13fde5e934024194f26e1b1778d663640e66b9",
+      "md_span": {
+        "start": 2776,
+        "end": 2963
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

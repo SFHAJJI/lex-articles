@@ -1,0 +1,103 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32020l2020:2020-12-07",
+  "language": "fr",
+  "title": "Council Directive (EU) 2020/2020 of 7 December 2020 amending Directive 2006/112/EC as rega…",
+  "valid_from": "2020-12-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32020l2020/versions/2020-12-07/fr.xml",
+    "sha256": "2c29477b4dc9ab8ac8fbce6ef33a54bf2969a986a1f86ac4062a72fc73fc2d71",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020L2020"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32020l2020:2020-12-07#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’article suivant est inséré dans la directive 2006/112/CE:\n\n«Article 129 bis\n\n1. Les États membres peuvent prendre l’une des mesures suivantes:\n\n| a) | appliquer un taux réduit aux livraisons de dispositifs médicaux de diagnostic in vitro de la COVID-19 et aux prestations de services étroitement liés à ces dispositifs; |\n| --- | --- |\n\n| b) | accorder une exonération avec droit à déduction de la TVA payée au stade antérieur pour les livraisons de dispositifs médicaux de diagnostic in vitro de la COVID-19 et les prestations de services étroitement liés à ces dispositifs. |\n| --- | --- |\n\nSeuls les dispositifs médicaux de diagnostic in vitro de la COVID-19 qui sont conformes aux exigences applicables énoncées dans la directive 98/79/CE du Parlement européen et du Conseil(*) ou le règlement (UE) 2017/746 du Parlement européen et du Conseil(**) et dans les autres législations applicables de l’Union peuvent bénéficier des mesures prévues au premier alinéa.\n\n2. Les États membres peuvent accorder une exonération avec droit à déduction de la TVA payée au stade antérieur pour les livraisons de vaccins contre la COVID-19 et les services étroitement liés à ces vaccins.\n\nSeuls les vaccins contre la COVID-19 autorisés par la Commission ou les États membres peuvent bénéficier de l’exonération prévue au premier alinéa.\n\n3. Le présent article s’applique jusqu’au 31 décembre 2022.",
+      "text_sha256": "41409b0b53615cc80a83aba11e9519ec1b745f11d2c25b32ec40ee24e303e7f3",
+      "md_span": {
+        "start": 636,
+        "end": 2040
+      },
+      "citations": [
+        {
+          "href": "#ntr*-L_2020419FR.01000101-E0005",
+          "text": "(*)"
+        },
+        {
+          "href": "#ntr**-L_2020419FR.01000101-E0006",
+          "text": "(**)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32020l2020:2020-12-07#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Lorsque les États membres décident d’appliquer un taux réduit ou une exonération visée à l’article 1er, les dispositions législatives, réglementaires et administratives qu’ils adoptent et publient et qui sont nécessaires pour se conformer à la présente directive contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine régi par la présente directive dans un délai de deux mois à compter de leur adoption.",
+      "text_sha256": "4706594342d9e389519ed4c43a300f87c71a4f50a15d2ddbd94a6412c39c555e",
+      "md_span": {
+        "start": 2073,
+        "end": 2774
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32020l2020:2020-12-07#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLa présente directive entre en vigueur le jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "e13bba014934ec9c44212d773605832f81cdf9c74d77e6067d3518ab0019dd4a",
+      "md_span": {
+        "start": 2807,
+        "end": 2939
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32020l2020:2020-12-07#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "0fc712c9ed5879dbad5bea3e7474f713eea34cda4ea895cc231207fc9b7290bb",
+      "md_span": {
+        "start": 2972,
+        "end": 3045
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r2227:2016-12-09",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2016/2227 of 9 December 2016 on the extension of the transitional periods related to own funds requirements for exposures to central counterparties set out in Regulations (EU) No 575/2013 and (EU) No 648/2012",
+  "valid_from": "2016-12-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r2227/versions/2016-12-09/en.xml",
+    "sha256": "f51ed505cbe6f649628d22feac07911ddff0887d36a498f35423a173254e86cb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R2227"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r2227:2016-12-09#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe 15-month periods referred to in Article 497(2) of Regulation (EU) No 575/2013 and in the second subparagraph of Article 89(5a) of Regulation (EU) No 648/2012, respectively, as last extended in accordance with Article 1 of Implementing Regulation (EU) 2016/892, are extended by an additional six months until 15 June 2017.",
+      "text_sha256": "9aa95fb3daf27fbcf672f4decc89ba5b90184e73ab9dca434298cdf913bece72",
+      "md_span": {
+        "start": 793,
+        "end": 1129
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r2227:2016-12-09#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fef49a0526c3bc8f72d910413581dafec620b7b36b35e6295f6df9ebe6febc15",
+      "md_span": {
+        "start": 1162,
+        "end": 1309
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

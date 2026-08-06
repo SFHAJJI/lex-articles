@@ -4,6 +4,7 @@
   "profiles": [
     "pdf-memorial-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -70,5 +71,76 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "1984-02-03",
+          "valid_to": null,
+          "text_sha256": "66e861c5c9e0932213928972c7b9fcad39a7a80a9604564e977d2cf1e99d286d",
+          "in_version": "lu-legilux:rgd-1983-02-21-n2:1984-02-03"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "1984-02-03",
+          "valid_to": null,
+          "text_sha256": "a48dd9ceb364f745283da846e9692c05546731a2bcb94ae999e6eaea9fb257a2",
+          "in_version": "lu-legilux:rgd-1983-02-21-n2:1984-02-03"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "1984-02-03",
+          "valid_to": null,
+          "text_sha256": "3e0dab5003050823b82390d65e966556e64b96d4e2dcc6028632eff8366c96b5",
+          "in_version": "lu-legilux:rgd-1983-02-21-n2:1984-02-03"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "1984-02-03",
+          "valid_to": null,
+          "text_sha256": "748bec9fb085f353dd20b2d0a013225dbfa994c457a03b177b18ce934142c4ae",
+          "in_version": "lu-legilux:rgd-1983-02-21-n2:1984-02-03"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "1984-02-03",
+          "valid_to": null,
+          "text_sha256": "68ae062f9ce1502bcdfee31fdbecb6eccc3dde4e7430891cb5be686f464a121e",
+          "in_version": "lu-legilux:rgd-1983-02-21-n2:1984-02-03"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "1984-02-03",
+          "valid_to": null,
+          "text_sha256": "d419a43b9ed8dcbfb77003cf86f1308bc34f797fd720fc1eff67977cff4c0627",
+          "in_version": "lu-legilux:rgd-1983-02-21-n2:1984-02-03"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "1984-02-03",
+          "valid_to": null,
+          "text_sha256": "c0d59c9db03216e93d186227cb8c8f42bfb1a774ef1652107d1cf6a5bf025f45",
+          "in_version": "lu-legilux:rgd-1983-02-21-n2:1984-02-03"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "1984-02-03",
+          "valid_to": null,
+          "text_sha256": "a752084f7656b618684960e1ea42d888df029381384b10ec737590409c30d661",
+          "in_version": "lu-legilux:rgd-1983-02-21-n2:1984-02-03"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

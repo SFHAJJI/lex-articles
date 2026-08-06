@@ -1,0 +1,235 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32006l0114:2006-12-12",
+  "language": "fr",
+  "title": "Directive 2006/114/EC",
+  "valid_from": "2006-12-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32006l0114/versions/2006-12-12/fr.xml",
+    "sha256": "bb6db9280717d60b5f2956aeb02830134315d5b7daa2cb11abed758ba03d23fb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32006L0114"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32006l0114:2006-12-12#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLa présente directive a pour objet de protéger les professionnels contre la publicité trompeuse et ses conséquences déloyales et d'établir les conditions dans lesquelles la publicité comparative est considérée comme licite.",
+      "text_sha256": "c4a19923cd57774c99298cf46743e5833c59e446c25539cb27fae1ccdb50ce16",
+      "md_span": {
+        "start": 566,
+        "end": 806
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32006l0114:2006-12-12#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins de la présente directive, on entend par:\n\n| a) | «publicité», toute forme de communication faite dans le cadre d'une activité commerciale, industrielle, artisanale ou libérale dans le but de promouvoir la fourniture de biens ou de services, y compris les biens immeubles, les droits et les obligations; |\n| --- | --- |\n\n| b) | «publicité trompeuse», toute publicité qui, d'une manière quelconque, y compris sa présentation, induit en erreur ou est susceptible d'induire en erreur les personnes auxquelles elle s'adresse ou qu'elle touche et qui, en raison de son caractère trompeur, est susceptible d'affecter leur comportement économique ou qui, pour ces raisons, porte préjudice ou est susceptible de porter préjudice à un concurrent; |\n| --- | --- |\n\n| c) | «publicité comparative», toute publicité qui, explicitement ou implicitement, identifie un concurrent ou des biens ou services offerts par un concurrent; |\n| --- | --- |\n\n| d) | «professionnel», toute personne physique ou morale qui agit à des fins qui entrent dans le cadre de son activité commerciale, industrielle, artisanale ou libérale et toute personne agissant au nom ou pour le compte d'un professionnel; |\n| --- | --- |\n\n| e) | «responsable de code», toute entité, y compris un professionnel ou groupe de professionnels, responsable de l'élaboration et de la révision d'un code de conduite et/ou de la surveillance du respect de ce code par ceux qui se sont engagés à être liés par lui. |\n| --- | --- |",
+      "text_sha256": "3c26347fff277584e49e1820ddf0934f9e6df4a3c03a58723b60dd02a79cd059",
+      "md_span": {
+        "start": 839,
+        "end": 2331
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32006l0114:2006-12-12#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nPour déterminer si une publicité est trompeuse, il est tenu compte de tous ses éléments et notamment de ses indications concernant:\n\n| a) | les caractéristiques des biens ou services, telles que leur disponibilité, leur nature, leur exécution, leur composition, le mode et la date de fabrication ou de prestation, leur caractère approprié, leurs utilisations, leur quantité, leurs spécifications, leur origine géographique ou commerciale ou les résultats qui peuvent être attendus de leur utilisation, ou les résultats et les caractéristiques essentiels des tests ou contrôles effectués sur les biens ou les services; |\n| --- | --- |\n\n| b) | le prix ou son mode d'établissement et les conditions de fourniture des biens ou de prestation des services; |\n| --- | --- |\n\n| c) | la nature, les qualités et les droits de l'annonceur, tels que son identité et son patrimoine, ses qualifications et ses droits de propriété industrielle, commerciale ou intellectuelle ou les prix qu'il a reçus ou ses distinctions. |\n| --- | --- |",
+      "text_sha256": "5d67a779738394cd37295b16ea304f01e3b622641cebe7411476071210dd11ec",
+      "md_span": {
+        "start": 2364,
+        "end": 3397
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32006l0114:2006-12-12#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nPour ce qui concerne la comparaison, la publicité comparative est licite dès lors que les conditions suivantes sont remplies:\n\n| a) | elle n'est pas trompeuse au sens de l'article 2, point b), de l'article 3 et de l'article 8, paragraphe 1, de la présente directive ou des articles 6 et 7 de la directive 2005/29/CE du Parlement européen et du Conseil du 11 mai 2005 relative aux pratiques commerciales déloyales des entreprises vis-à-vis des consommateurs dans le marché intérieur («directive sur les pratiques commerciales déloyales») (7); |\n| --- | --- |\n\n| b) | elle compare des biens ou services répondant aux mêmes besoins ou ayant le même objectif; |\n| --- | --- |\n\n| c) | elle compare objectivement une ou plusieurs caractéristiques essentielles, pertinentes, vérifiables et représentatives de ces biens et services, y compris éventuellement le prix; |\n| --- | --- |\n\n| d) | elle n'entraîne pas le discrédit ou le dénigrement des marques, noms commerciaux, autres signes distinctifs, biens, services, activités ou situation d'un concurrent; |\n| --- | --- |\n\n| e) | pour les produits ayant une appellation d'origine, elle porte dans chaque cas sur des produits ayant la même appellation; |\n| --- | --- |\n\n| f) | elle ne tire pas indûment profit de la notoriété attachée à une marque, à un nom commercial ou à d'autres signes distinctifs d'un concurrent ou de l'appellation d'origine de produits concurrents; |\n| --- | --- |\n\n| g) | elle ne présente pas un bien ou un service comme une imitation ou une reproduction d'un bien ou d'un service portant une marque ou un nom commercial protégés; |\n| --- | --- |\n\n| h) | elle n'est pas source de confusion parmi les professionnels, entre l'annonceur et un concurrent ou entre les marques, noms commerciaux, autres signes distinctifs, biens ou services de l'annonceur et ceux d'un concurrent. |\n| --- | --- |",
+      "text_sha256": "82b19257a937bc388ed07c647ea86a715323748b07b0cba9778a383da231486e",
+      "md_span": {
+        "start": 3430,
+        "end": 5299
+      },
+      "citations": [
+        {
+          "href": "#ntr7-L_2006376FR.01002101-E0007",
+          "text": "(7)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32006l0114:2006-12-12#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Les États membres veillent à ce qu'il existe des moyens adéquats et efficaces pour lutter contre la publicité trompeuse et faire respecter les dispositions en matière de publicité comparative dans l'intérêt des professionnels et des concurrents.\n\nCes moyens doivent inclure des dispositions juridiques aux termes desquelles les personnes ou organisations ayant, selon la législation nationale, un intérêt légitime à lutter contre la publicité trompeuse ou à réglementer la publicité comparative peuvent:\n\n| a) | intenter une action en justice contre une telle publicité;ou |\n| --- | --- |\n\n| b) | porter une telle publicité devant une autorité administrative compétente soit pour statuer sur les plaintes, soit pour engager les poursuites judiciaires appropriées. |\n| --- | --- |\n\n2. Il appartient à chaque État membre de décider laquelle des procédures visées au paragraphe 1, deuxième alinéa, sera retenue et s'il convient que les tribunaux ou les autorités administratives puissent exiger le recours préalable à d'autres voies établies de règlement des plaintes, y compris celles mentionnées à l'article 6.\n\nIl incombe à chaque État membre de décider:\n\n| a) | si ces moyens juridiques peuvent être mis en œuvre séparément ou conjointement contre un certain nombre de professionnels du même secteur économique,et |\n| --- | --- |\n\n| b) | si ces moyens juridiques peuvent être mis en œuvre contre le responsable d'un code lorsque ce code encourage le non-respect des prescriptions légales. |\n| --- | --- |\n\n3. Dans le cadre des dispositions visées aux paragraphes 1 et 2, les États membres confèrent aux tribunaux ou aux organes administratifs des compétences les habilitant, au cas où ceux-ci estiment que ces mesures sont nécessaires compte tenu de tous les intérêts en jeu, et notamment de l'intérêt général:\n\n| a) | à ordonner la cessation ou à engager les poursuites judiciaires appropriées en vue de faire ordonner la cessation d'une publicité trompeuse ou d'une publicité comparative illicite;ou |\n| --- | --- |\n\n| b) | lorsque la publicité trompeuse ou la publicité comparative illicite n'a pas encore été portée à la connaissance du public, mais que sa diffusion est imminente, à interdire cette diffusion ou à engager les poursuites appropriées en vue d'en faire ordonner l'interdiction. |\n| --- | --- |\n\nLe premier alinéa s'applique même en l'absence de preuve d'une perte ou d'un préjudice réel, ou d'une intention ou négligence de la part de l'annonceur.\n\nLes États membres prévoient que les mesures visées au premier alinéa peuvent être prises dans le cadre d'une procédure accélérée soit avec effet provisoire, soit avec effet définitif à la discrétion de l'État membre.\n\n4. Les États membres peuvent conférer aux tribunaux ou aux organes administratifs des compétences les habilitant, en vue d'éliminer les effets persistants d'une publicité trompeuse ou d'une publicité comparative illicite, dont la cessation a été ordonnée par une décision définitive:\n\n| a) | à exiger la publication de cette décision en tout ou en partie et dans la forme qu'ils jugent adéquate; |\n| --- | --- |\n\n| b) | à exiger, en outre, la publication d'un communiqué rectificatif. |\n| --- | --- |\n\n5. Les organes administratifs visés au paragraphe 1, deuxième alinéa, point b), doivent:\n\n| a) | être composés de manière à ne pas mettre en doute leur impartialité; |\n| --- | --- |\n\n| b) | avoir des pouvoirs adéquats pour permettre de surveiller et d'imposer de façon efficace l'observation de leurs décisions lorsqu'ils statuent sur les plaintes; |\n| --- | --- |\n\n| c) | en principe motiver leurs décisions. |\n| --- | --- |\n\n6. Lorsque les compétences visées aux paragraphes 3 et 4 sont exercées uniquement par un organe administratif, les décisions doivent être motivées dans tous les cas. Dans ce cas, des procédures doivent être prévues par lesquelles tout exercice impropre ou injustifié des pouvoirs de l'organe administratif ou tout manquement impropre ou injustifié à l'exercice desdits pouvoirs peuvent faire l'objet d'un recours juridictionnel.",
+      "text_sha256": "94aa6c6941a3537d31bd72e202ed82594cb9aefa4dcd6a679452d83aaf6372b3",
+      "md_span": {
+        "start": 5332,
+        "end": 9390
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32006l0114:2006-12-12#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLa présente directive n'exclut pas le contrôle volontaire, que les États membres peuvent encourager, de la publicité trompeuse ou comparative par des organismes autonomes ni le recours à de tels organismes par les personnes ou organisations visées à l'article 5, paragraphe 1, deuxième alinéa, s'il existe des procédures devant de tels organismes en sus des procédures judiciaires ou administratives visées audit article.",
+      "text_sha256": "3a46d41cac94836cc4331f3afb7c99eb0c22d0b47ddc91c7355125fa0bf4f0d7",
+      "md_span": {
+        "start": 9423,
+        "end": 9855
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32006l0114:2006-12-12#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nLes États membres confèrent aux tribunaux ou aux organes administratifs des compétences les habilitant, lors d'une procédure civile ou administrative, visée à l'article 5:\n\n| a) | à exiger que l'annonceur apporte des preuves concernant l'exactitude matérielle des données de fait contenues dans la publicité si, compte tenu des intérêts légitimes de l'annonceur et de toute autre partie à la procédure, une telle exigence paraît appropriée au vu des circonstances du cas d'espèce et, dans le cas de la publicité comparative, à exiger que l'annonceur fournisse ces preuves à bref délai,et |\n| --- | --- |\n\n| b) | à considérer des données de fait comme inexactes si les preuves exigées conformément au point a) ne sont pas apportées ou sont estimées insuffisantes par le tribunal ou l'organe administratif. |\n| --- | --- |",
+      "text_sha256": "714ed963385f838fdc271ee4176f0b6b3a0e4c034a9a6bf51a603d12ce4a27eb",
+      "md_span": {
+        "start": 9888,
+        "end": 10719
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32006l0114:2006-12-12#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. La présente directive ne fait pas obstacle au maintien ou à l'adoption par les États membres de dispositions visant à assurer, en matière de publicité trompeuse, une protection plus étendue des professionnels et des concurrents.\n\nLe premier alinéa n'est pas applicable à la publicité comparative pour autant que la comparaison est concernée.\n\n2. Les dispositions de la présente directive s'appliquent sans préjudice des dispositions communautaires applicables à la publicité concernant des produits et/ou services spécifiques ou des restrictions ou interdictions relatives à la publicité dans des médias déterminés.\n\n3. Les dispositions de la présente directive concernant la publicité comparative n'obligent pas les États membres qui, dans le respect des dispositions du traité, maintiennent ou introduisent des interdictions de publicité pour certains biens ou services, qu'elles soient imposées directement ou par un organisme ou une organisation qui est responsable, en vertu des législations des États membres, de réglementer l'exercice d'une activité commerciale, industrielle, artisanale ou libérale, à permettre la publicité comparative pour ces biens ou services. Lorsque ces interdictions sont limitées à des médias déterminés, la présente directive s'applique aux médias qui ne sont pas couverts par ces interdictions.\n\n4. Aucune disposition de la présente directive n'empêche les États membres de maintenir ou d'introduire, dans le respect des dispositions du traité, des interdictions ou des restrictions quant au recours à des comparaisons dans la publicité pour des services relevant de professions libérales, que ces interdictions ou ces restrictions soient imposées directement ou par un organisme ou une organisation responsable, en vertu des législations des États membres, de réglementer l'exercice d'une activité libérale.",
+      "text_sha256": "63d4ce9798c566a328f4c658484d06da50147efcf8221b479b8652d8a3e454fb",
+      "md_span": {
+        "start": 10752,
+        "end": 12609
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32006l0114:2006-12-12#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nLes États membres communiquent à la Commission les dispositions essentielles de droit interne qu'ils adoptent dans le domaine régi par la présente directive.",
+      "text_sha256": "32c984d33da366185094325750aa8cebcdf7aae994d043438a5b85b49f3a4f5e",
+      "md_span": {
+        "start": 12642,
+        "end": 12810
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32006l0114:2006-12-12#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nLa directive 84/450/CEE est abrogée, sans préjudice des obligations des États membres en ce qui concerne les délais de transposition en droit interne et d'application des directives indiqués à l'annexe I, partie B.\n\nLes références faites à la directive abrogée s'entendent comme faites à la présente directive et sont à lire selon le tableau de correspondance figurant à l'annexe II.",
+      "text_sha256": "2d7627c9c152779dc4455702c53f661e3d7db27af6301cc039ac7f08a8bfc037",
+      "md_span": {
+        "start": 12845,
+        "end": 13240
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32006l0114:2006-12-12#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nLa présente directive entre en vigueur le 12 décembre 2007.",
+      "text_sha256": "bb498c52c748f6b15a8aac906866313a2e44a48a91ec521cb3e3445bff8f3e43",
+      "md_span": {
+        "start": 13275,
+        "end": 13346
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32006l0114:2006-12-12#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "a80a2c8f63fc6f6b83602ef3edeb97532713551902b2279cd8d7cd42f9d5bd1c",
+      "md_span": {
+        "start": 13381,
+        "end": 13455
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

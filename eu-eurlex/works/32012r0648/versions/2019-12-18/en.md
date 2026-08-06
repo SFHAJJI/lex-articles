@@ -1,0 +1,2645 @@
+---
+lex_id: 'eu-eurlex:32012r0648:2019-12-18'
+title: 'Regulation (EU) No 648/2012'
+valid_from: '2019-12-18'
+valid_to: '2019-12-31'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0648-20191218'
+source_sha256: '902ce1919dcac7970c8243e0641204455b6bec8e918956f526c33373c1ae32c1'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## TITLE I
+
+### **SUBJECT MATTER, SCOPE AND DEFINITIONS**
+
+<a id="art_1"></a>
+
+### Article 1 — Subject matter and scope
+
+1. This Regulation lays down clearing and bilateral risk-management requirements for over-the-counter (‘OTC’) derivative contracts, reporting requirements for derivative contracts and uniform requirements for the performance of activities of central counterparties (‘CCPs’) and trade repositories.
+
+2. This Regulation shall apply to CCPs and their clearing members, to financial counterparties and to trade repositories. It shall apply to non-financial counterparties and trading venues where so provided.
+
+3. Title V of this Regulation shall apply only to transferable securities and money-market instruments, as defined in point (18)(a) and (b) and point (19) of Article 4(1) of Directive 2004/39/EC.
+
+4. This Regulation shall not apply to:
+
+(a) the members of the ESCB and other Member States’ bodies performing similar functions and other Union public bodies charged with or intervening in the management of the public debt;
+
+(b) the Bank for International Settlements;
+
+(c) the central banks and public bodies charged with or intervening in the management of the public debt in the following countries:
+
+(i) Japan;
+
+(ii) United States of America;
+
+(iii) Australia;
+
+(iv) Canada;
+
+(v) Hong Kong;
+
+(vi) Mexico;
+
+(vii) Singapore;
+
+(viii) Switzerland.
+
+5. With the exception of the reporting obligation under Article 9, this Regulation shall not apply to the following entities:
+
+(a) multilateral development banks, as listed under Section 4.2 of Part 1 of Annex VI to Directive 2006/48/EC;
+
+(b) public sector entities within the meaning of point (18) of Article 4 of Directive 2006/48/EC where they are owned by central governments and have explicit guarantee arrangements provided by central governments;
+
+(c) the European Financial Stability Facility and the European Stability Mechanism.
+
+6. The Commission shall be empowered to adopt delegated acts in accordance with Article 82 to amend the list set out in paragraph 4 of this Article.
+
+To that end, by 17 November 2012 the Commission shall present to the European Parliament and the Council a report assessing the international treatment of public bodies charged with or intervening in the management of the public debt and central banks.
+
+The report shall include a comparative analysis of the treatment of those bodies and of central banks within the legal framework of a significant number of third countries, including at least the three most important jurisdictions as regards volumes of contracts traded, and the risk-management standards applicable to the derivative transactions entered into by those bodies and by central banks in those jurisdictions. If the report concludes, in particular in regard to the comparative analysis, that the exemption of the monetary responsibilities of those third-country central banks from the clearing and reporting obligation is necessary, the Commission shall add them to the list set out in paragraph 4.
+
+<a id="art_2"></a>
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) ‘CCP’ means a legal person that interposes itself between the counterparties to the contracts traded on one or more financial markets, becoming the buyer to every seller and the seller to every buyer;
+
+(2) ‘trade repository’ means a legal person that centrally collects and maintains the records of derivatives;
+
+(3) ‘clearing’ means the process of establishing positions, including the calculation of net obligations, and ensuring that financial instruments, cash, or both, are available to secure the exposures arising from those positions;
+
+(4) ‘trading venue’ means a system operated by an investment firm or a market operator within the meaning of Article 4(1)(1) and 4(1)(13) of Directive 2004/39/EC other than a systematic internaliser within the meaning of Article 4(1)(7) thereof, which brings together buying or selling interests in financial instruments in the system, in a way that results in a contract in accordance with Title II or III of that Directive;
+
+(5) ‘derivative’ or ‘derivative contract’ means a financial instrument as set out in points (4) to (10) of Section C of Annex I to Directive 2004/39/EC as implemented by Article 38 and 39 of Regulation (EC) No 1287/2006;
+
+(6) ‘class of derivatives’ means a subset of derivatives sharing common and essential characteristics including at least the relationship with the underlying asset, the type of underlying asset, and currency of notional amount. Derivatives belonging to the same class may have different maturities;
+
+(7) ‘OTC derivative’ or ‘OTC derivative contract’ means a derivative contract the execution of which does not take place on a regulated market within the meaning of Article 4(1)(14) of Directive 2004/39/EC or on a third-country market considered to be equivalent to a regulated market in accordance with Article 2a of this Regulation;
+
+(8) ‘financial counterparty’ means:
+
+(a) an investment firm authorised in accordance with Directive 2014/65/EU of the European Parliament and of the Council (1);
+
+(b) a credit institution authorised in accordance with Directive 2013/36/EU of the European Parliament and of the Council (2);
+
+(c) an insurance undertaking or reinsurance undertaking authorised in accordance with Directive 2009/138/EC of the European Parliament and of the Council (3);
+
+(d) a UCITS and, where relevant, its management company, authorised in accordance with Directive 2009/65/EC, unless that UCITS is set up exclusively for the purpose of serving one or more employee share purchase plans;
+
+(e) an institution for occupational retirement provision (IORP), as defined in point (1) of Article 6 of Directive (EU) 2016/2341 of the European Parliament and of the Council (4);
+
+(f) an alternative investment fund (AIF), as defined in point (a) of Article 4(1) of Directive 2011/61/EU, which is either established in the Union or managed by an alternative investment fund manager (AIFM) authorised or registered in accordance with that Directive, unless that AIF is set up exclusively for the purpose of serving one or more employee share purchase plans, or unless that AIF is a securitisation special purpose entity as referred to in point (g) of Article 2(3) of Directive 2011/61/EU, and, where relevant, its AIFM established in the Union;
+
+(g) a central securities depository authorised in accordance with Regulation (EU) No 909/2014 of the European Parliament and of the Council (5);
+
+(9) ‘non-financial counterparty’ means an undertaking established in the Union other than the entities referred to in points (1) and (8);
+
+(10) ‘pension scheme arrangement’ means:
+
+(a) institutions for occupational retirement provision within the meaning of Article 6(a) of Directive 2003/41/EC, including any authorised entity responsible for managing such an institution and acting on its behalf as referred to in Article 2(1) of that Directive as well as any legal entity set up for the purpose of investment of such institutions, acting solely and exclusively in their interest;
+
+(b) occupational retirement provision businesses of institutions referred to in Article 3 of Directive 2003/41/EC;
+
+(c) occupational retirement provision businesses of life insurance undertakings covered by Directive 2002/83/EC, provided that all assets and liabilities corresponding to the business are ring-fenced, managed and organised separately from the other activities of the insurance undertaking, without any possibility of transfer;
+
+(d) any other authorised and supervised entities, or arrangements, operating on a national basis, provided that:
+
+(i) they are recognised under national law; and
+
+(ii) their primary purpose is to provide retirement benefits;
+
+(11) ‘counterparty credit risk’ means the risk that the counterparty to a transaction defaults before the final settlement of the transaction’s cash flows;
+
+(12) ‘interoperability arrangement’ means an arrangement between two or more CCPs that involves a cross-system execution of transactions;
+
+(13) ‘competent authority’ means the competent authority referred to in the legislation referred to in point (8) of this Article, the competent authority referred to in Article 10(5) or the authority designated by each Member State in accordance with Article 22;
+
+(14) ‘clearing member’ means an undertaking which participates in a CCP and which is responsible for discharging the financial obligations arising from that participation;
+
+(15) ‘client’ means an undertaking with a contractual relationship with a clearing member of a CCP which enables that undertaking to clear its transactions with that CCP;
+
+(16) ‘group’ means the group of undertakings consisting of a parent undertaking and its subsidiaries within the meaning of Articles 1 and 2 of Directive 83/349/EEC or the group of undertakings referred to in Article 3(1) and Article 80(7) and (8) of Directive 2006/48/EC;
+
+(17) ‘financial institution’ means an undertaking other than a credit institution, the principal activity of which is to acquire holdings or to carry on one or more of the activities listed in points (2) to (12) of Annex I to Directive 2006/48/EC;
+
+(18) ‘financial holding company’ means a financial institution, the subsidiary undertakings of which are either exclusively or mainly credit institutions or financial institutions, at least one of such subsidiary undertakings being a credit institution, and which is not a mixed financial holding company within the meaning of Article 2(15) of Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate (6);
+
+(19) ‘ancillary services undertaking’ means an undertaking the principal activity of which consists in owning or managing property, managing data-processing services, or a similar activity which is ancillary to the principal activity of one or more credit institution;
+
+(20) ‘qualifying holding’ means any direct or indirect holding in a CCP or trade repository which represents at least 10 % of the capital or of the voting rights, as set out in Articles 9 and 10 of Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market (7), taking into account the conditions regarding aggregation thereof laid down in Article 12(4) and (5) of that Directive, or which makes it possible to exercise a significant influence over the management of the CCP or trade repository in which that holding subsists;
+
+(21) ‘parent undertaking’ means a parent undertaking as described in Articles 1 and 2 of Directive 83/349/EEC;
+
+(22) ‘subsidiary’ means a subsidiary undertaking as described in Articles 1 and 2 of Directive 83/349/EEC, including a subsidiary of a subsidiary undertaking of an ultimate parent undertaking;
+
+(23) ‘control’ means the relationship between a parent undertaking and a subsidiary, as described in Article 1 of Directive 83/349/EEC;
+
+(24) ‘close links’ means a situation in which two or more natural or legal persons are linked by:
+
+(a) participation, by way of direct ownership or control, of 20 % or more of the voting rights or capital of an undertaking; or
+
+(b) control or a similar relationship between any natural or legal person and an undertaking or a subsidiary of a subsidiary also being considered a subsidiary of the parent undertaking which is at the head of those undertakings.
+
+A situation in which two or more natural or legal persons are permanently linked to one and the same person by a control relationship shall also be regarded as constituting a close link between such persons.
+
+(25) ‘capital’ means subscribed capital within the meaning of Article 22 of Council Directive 86/635/EEC of 8 December 1986 on the annual accounts and consolidated accounts of banks and other financial institutions (8) in so far it has been paid up, plus the related share premium accounts, it fully absorbs losses in going concern situations, and, in the event of bankruptcy or liquidation, it ranks after all other claims;
+
+(26) ‘reserves’ means reserves as set out in Article 9 of Fourth Council Directive 78/660/EEC of 25 July 1978 based on Article 54(3)(g) of the Treaty on the annual accounts of certain types of companies (9) and profits and losses brought forward as a result of the application of the final profit or loss;
+
+(27) ‘board’ means administrative or supervisory board, or both, in accordance with national company law;
+
+(28) ‘independent member’ of the board means a member of the board who has no business, family or other relationship that raises a conflict of interests regarding the CCP concerned or its controlling shareholders, its management or its clearing members, and who has had no such relationship during the five years preceding his membership of the board;
+
+(29) ‘senior management’ means the person or persons who effectively direct the business of the CCP or the trade repository, and the executive member or members of the board;
+
+(30) ‘covered bond’ means a bond meeting the requirements of Article 129 of Regulation (EU) No 575/2013;
+
+(31) ‘covered bond entity’ means the covered bond issuer or cover pool of a covered bond.
+
+<a id="art_2a"></a>
+
+### Article 2a — Equivalence decisions for the purposes of the definition of OTC derivatives
+
+1. For the purposes of Article 2(7) of this Regulation, a third-country market shall be considered to be equivalent to a regulated market within the meaning of Article 4(1)(14) of Directive 2004/39/EC where it complies with legally binding requirements which are equivalent to the requirements laid down in Title III of that Directive and it is subject to effective supervision and enforcement in that third country on an ongoing basis, as determined by the Commission in accordance with the procedure referred to in paragraph 2 of this Article.
+
+2. The Commission may adopt implementing acts determining that a third-country market complies with legally binding requirements which are equivalent to the requirements laid down in Title III of Directive 2004/39/EC and it is subject to effective supervision and enforcement in that third country on an ongoing basis for the purposes of paragraph 1.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 86(2) of this Regulation.
+
+3. The Commission and ESMA shall publish on their websites a list of those markets that are to be considered to be equivalent in accordance with the implementing act referred to in paragraph 2. That list shall be updated periodically.
+
+<a id="art_3"></a>
+
+### Article 3 — Intragroup transactions
+
+1. In relation to a non-financial counterparty, an intragroup transaction is an OTC derivative contract entered into with another counterparty which is part of the same group provided that both counterparties are included in the same consolidation on a full basis and they are subject to an appropriate centralised risk evaluation, measurement and control procedures and that counterparty is established in the Union or, if it is established in a third country, the Commission has adopted an implementing act under Article 13(2) in respect of that third country.
+
+2. In relation to a financial counterparty, an intragroup transaction is any of the following:
+
+(a) an OTC derivative contract entered into with another counterparty which is part of the same group, provided that the following conditions are met:
+
+(i) the financial counterparty is established in the Union or, if it is established in a third country, the Commission has adopted an implementing act under Article 13(2) in respect of that third country;
+
+(ii) the other counterparty is a financial counterparty, a financial holding company, a financial institution or an ancillary services undertaking subject to appropriate prudential requirements;
+
+(iii) both counterparties are included in the same consolidation on a full basis; and
+
+(iv) both counterparties are subject to appropriate centralised risk evaluation, measurement and control procedures;
+
+(b) an OTC derivative contract entered into with another counterparty where both counterparties are part of the same institutional protection scheme, referred to in Article 80(8) of Directive 2006/48/EC, provided that the condition set out in point (a)(ii) of this paragraph is met;
+
+(c) an OTC derivative contract entered into between credit institutions affiliated to the same central body or between such credit institution and the central body, as referred to in Article 3(1) of Directive 2006/48/EC; or
+
+(d) an OTC derivative contract entered into with a non-financial counterparty which is part of the same group provided that both counterparties are included in the same consolidation on a full basis and they are subject to an appropriate centralised risk evaluation, measurement and control procedures and that counterparty is established in the Union or in a third-country jurisdiction for which the Commission has adopted an implementing act as referred to in Article 13(2) in respect of that third country.
+
+3. For the purposes of this Article, counterparties shall be considered to be included in the same consolidation when they are both either:
+
+(a) included in a consolidation in accordance with Directive 83/349/EEC or International Financial Reporting Standards (IFRS) adopted pursuant to Regulation (EC) No 1606/2002 or, in relation to a group the parent undertaking of which has its head office in a third country, in accordance with generally accepted accounting principles of a third country determined to be equivalent to IFRS in accordance with Regulation (EC) No 1569/2007 (or accounting standards of a third country the use of which is permitted in accordance with Article 4 of that Regulation); or
+
+(b) covered by the same consolidated supervision in accordance with Directive 2006/48/EC or Directive 2006/49/EC or, in relation to a group the parent undertaking of which has its head office in a third country, the same consolidated supervision by a third-country competent authority verified as equivalent to that governed by the principles laid down in Article 143 of Directive 2006/48/EC or in Article 2 of Directive 2006/49/EC.
+
+## TITLE II
+
+### **CLEARING, REPORTING AND RISK MITIGATION OF OTC DERIVATIVES**
+
+<a id="art_4"></a>
+
+### Article 4 — Clearing obligation
+
+1. Counterparties shall clear all OTC derivative contracts pertaining to a class of OTC derivatives that has been declared subject to the clearing obligation in accordance with Article 5(2), if those contracts fulfil both of the following conditions:
+
+(a) they have been concluded in one of the following ways:
+
+(i) between two financial counterparties that meet the conditions set out in the second subparagraph of Article 4a(1);
+
+(ii) between a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) and a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1);
+
+(iii) between two non-financial counterparties that meet the conditions set out in the second subparagraph of Article 10(1);
+
+(iv) between, on the one side, a financial counterparty that meets the conditions set out in the second subparagraph of Article 4a(1) or a non-financial counterparty that meets the conditions set out in the second subparagraph of Article 10(1), and, on the other side, an entity established in a third country that would be subject to the clearing obligation if it were established in the Union;
+
+(v) between two entities established in one or more third countries that would be subject to the clearing obligation if they were established in the Union, provided that the contract has a direct, substantial and foreseeable effect within the Union or where such an obligation is necessary or appropriate to prevent the evasion of any provisions of this Regulation; and
+
+(b) they are entered into or novated on or after the date on which the clearing obligation takes effect, provided that, on the date they are entered into or novated, both counterparties meet the conditions set out in point (a).
+
+2. Without prejudice to risk-mitigation techniques under Article 11, OTC derivative contracts that are intragroup transactions as described in Article 3 shall not be subject to the clearing obligation.
+
+The exemption set out in the first subparagraph shall apply only:
+
+(a) where two counterparties established in the Union belonging to the same group have first notified their respective competent authorities in writing that they intend to make use of the exemption for the OTC derivative contracts concluded between each other. The notification shall be made not less than 30 calendar days before the use of the exemption. Within 30 calendar days after receipt of that notification, the competent authorities may object to the use of this exemption if the transactions between the counterparties do not meet the conditions laid down in Article 3, without prejudice to the right of the competent authorities to object after that period of 30 calendar days has expired where those conditions are no longer met. If there is disagreement between the competent authorities, ESMA may assist those authorities in reaching an agreement in accordance with its powers under Article 19 of Regulation (EU) No 1095/2010;
+
+(b) to OTC derivative contracts between two counterparties belonging to the same group which are established in a Member State and in a third country, where the counterparty established in the Union has been authorised to apply the exemption by its competent authority within 30 calendar days after it has been notified by the counterparty established in the Union, provided that the conditions laid down in Article 3 are met. The competent authority shall notify ESMA of that decision.
+
+3. The OTC derivative contracts that are subject to the clearing obligation pursuant to paragraph 1 shall be cleared in a CCP authorised under Article 14 or recognised under Article 25 to clear that class of OTC derivatives and listed in the register in accordance with Article 6(2)(b).
+
+For that purpose a counterparty shall become a clearing member, a client, or shall establish indirect clearing arrangements with a clearing member, provided that those arrangements do not increase counterparty risk and ensure that the assets and positions of the counterparty benefit from protection with equivalent effect to that referred to in Articles 39 and 48.
+
+4. In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the contracts that are considered to have a direct, substantial and foreseeable effect within the Union or the cases where it is necessary or appropriate to prevent the evasion of any provision of this Regulation as referred to in paragraph 1(a)(v), and the types of indirect contractual arrangements that meet the conditions referred to in the second subparagraph of paragraph 3.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+5. Paragraph 1 of this Article shall not apply with respect to OTC derivative contracts that are concluded by covered bond entities in connection with a covered bond, or by a securitisation special purpose entity in connection with a securitisation, within the meaning of Regulation (EU) 2017/2402 of the European Parliament and of the Council (10) provided that:
+
+(a) in the case of securitisation special purpose entities, the securitisation special purpose entity shall solely issue securitisations that meet the requirements of Article 18, and of Articles 19 to 22 or 23 to 26 of Regulation (EU) 2017/2402 (the Securitisation Regulation);
+
+(b) the OTC derivative contract is used only to hedge interest rate or currency mismatches under the covered bond or securitisation; and
+
+(c) the arrangements under the covered bond or securitisation adequately mitigate counterparty credit risk with respect to the OTC derivative contracts concluded by the covered bond entity or securitisation special purpose entity in connection with the covered bond or securitisation.
+
+6. In order to ensure consistent application of this Article, and taking into account the need to prevent regulatory arbitrage, the ESAs shall develop draft regulatory technical standards specifying criteria for establishing which arrangements under covered bonds or securitisations adequately mitigate counterparty credit risk, within the meaning of paragraph 5.
+
+The ESAs shall submit those draft regulatory technical standards to the Commission by 18 July 2018.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in this paragraph in accordance with Articles 10 to 14 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 or (EU) No 1095/2010.
+
+<a id="art_4a"></a>
+
+### Article 4a — Financial counterparties that are subject to the clearing obligation
+
+1. Every 12 months, a financial counterparty taking positions in OTC derivative contracts may calculate its aggregate month-end average position for the previous 12 months in accordance with paragraph 3.
+
+Where a financial counterparty does not calculate its positions, or where the result of that calculation exceeds any of the clearing thresholds specified pursuant to point (b) of Article 10(4), the financial counterparty shall:
+
+(a) immediately notify ESMA and the relevant competent authority thereof, and, where relevant, indicate the period used for the calculation;
+
+(b) establish clearing arrangements within four months after the notification referred to in point (a) of this subparagraph; and
+
+(c) become subject to the clearing obligation referred to in Article 4 for all OTC derivative contracts pertaining to any class of OTC derivatives which is subject to the clearing obligation entered into or novated more than four months following the notification referred to in point (a) of this subparagraph.
+
+2. A financial counterparty that is subject to the clearing obligation referred to in Article 4 on 17 June 2019 or that becomes subject to the clearing obligation in accordance with the second subparagraph of paragraph 1, shall remain subject to that obligation and shall continue clearing until that financial counterparty demonstrates to the relevant competent authority that its aggregate month-end average position for the previous 12 months does not exceed the clearing threshold specified pursuant to point (b) of Article 10(4).
+
+The financial counterparty shall be able to demonstrate to the relevant competent authority that the calculation of the aggregate month-end average position for the previous 12 months does not lead to a systematic underestimation of that position.
+
+3. In calculating the positions referred to in paragraph 1, the financial counterparty shall include all OTC derivative contracts entered into by that financial counterparty or entered into by other entities within the group to which that financial counterparty belongs.
+
+Notwithstanding the first subparagraph, for UCITS and AIFs, the positions referred to in paragraph 1 shall be calculated at the level of the fund.
+
+UCITS management companies which manage more than one UCITSs and AIFMs which manage more than one AIF shall be able to demonstrate to the relevant competent authority that the calculation of positions at the fund level does not lead to:
+
+(a) a systematic underestimation of the positions of any of the funds they manage or the positions of the manager; and
+
+(b) a circumvention of the clearing obligation.
+
+The relevant competent authorities of the financial counterparty and of the other entities within the group shall establish cooperation procedures to ensure the effective calculation of the positions at the group level.
+
+<a id="art_5"></a>
+
+### Article 5 — Clearing obligation procedure
+
+1. Where a competent authority authorises a CCP to clear a class of OTC derivatives under Article 14 or 15, or where a class of OTC derivatives which a CCP intends to start clearing is covered by an existing authorisation granted in accordance with Article 14 or 15, the competent authority shall immediately notify ESMA of that authorisation or of the class of OTC derivatives which the CCP intends to start clearing.
+
+2. Within six months of receiving notification in accordance with paragraph 1 or accomplishing a procedure for recognition set out in Article 25, ESMA shall, after conducting a public consultation and after consulting the ESRB and, where appropriate, the competent authorities of third countries, develop and submit to the Commission for endorsement draft regulatory technical standards specifying the following:
+
+(a) the class of OTC derivatives that should be subject to the clearing obligation referred to in Article 4;
+
+(b) the date or dates from which the clearing obligation takes effect, including any phase in and the categories of counterparties to which the obligation applies.
+
+Power is delegated to the Commission to adopt regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+In the developing of the draft regulatory technical standards under this paragraph ESMA shall not prejudice the transitional provision relating to C6 energy derivative contracts as laid down in Article 95 of Directive 2014/65/EU (11).
+
+3. ESMA shall, on its own initiative, after conducting a public consultation and after consulting the ESRB and, where appropriate, the competent authorities of third countries, identify, in accordance with the criteria set out in points (a), (b) and (c) of paragraph 4 and notify to the Commission the classes of derivatives that should be subject to the clearing obligation provided in Article 4, but for which no CCP has yet received authorisation.
+
+Following the notification, ESMA shall publish a call for a development of proposals for the clearing of those classes of derivatives.
+
+4. With the overarching aim of reducing systemic risk, the draft regulatory technical standards for the part referred to in paragraph 2(a) shall take into consideration the following criteria:
+
+(a) the degree of standardisation of the contractual terms and operational processes of the relevant class of OTC derivatives;
+
+(b) the volume and liquidity of the relevant class of OTC derivatives;
+
+(c) the availability of fair, reliable and generally accepted pricing information in the relevant class of OTC derivatives.
+
+In preparing those draft regulatory technical standards, ESMA may take into consideration the interconnectedness between counterparties using the relevant classes of OTC derivatives, the anticipated impact on the levels of counterparty credit risk between counterparties as well as the impact on competition across the Union.
+
+In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards further specifying the criteria referred to in points (a), (b) and (c) of the first subparagraph.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt regulatory technical standards referred to in the third subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+5. The draft regulatory technical standards for the part referred to in paragraph 2(b) shall take into consideration the following criteria:
+
+(a) the expected volume of the relevant class of OTC derivatives;
+
+(b) whether more than one CCP already clear the same class of OTC derivatives;
+
+(c) the ability of the relevant CCPs to handle the expected volume and to manage the risk arising from the clearing of the relevant class of OTC derivatives;
+
+(d) the type and number of counterparties active, and expected to be active within the market for the relevant class of OTC derivatives;
+
+(e) the period of time a counterparty subject to the clearing obligation needs in order to put in place arrangements to clear its OTC derivative contracts through a CCP;
+
+(f) the risk management and the legal and operational capacity of the range of counterparties that are active in the market for the relevant class of OTC derivatives and that would be captured by the clearing obligation pursuant to Article 4(1).
+
+6. If a class of OTC derivative contracts no longer has a CCP which is authorised or recognised to clear those contracts under this Regulation, it shall cease to be subject to the clearing obligation referred to in Article 4, and paragraph 3 of this Article shall apply.
+
+<a id="art_6"></a>
+
+### Article 6 — Public register
+
+1. ESMA shall establish, maintain and keep up to date a public register in order to identify the classes of OTC derivatives subject to the clearing obligation correctly and unequivocally. The public register shall be available on ESMA’s website.
+
+2. The register shall include:
+
+(a) the classes of OTC derivatives that are subject to the clearing obligation pursuant to Article 4;
+
+(b) the CCPs that are authorised or recognised for the purpose of the clearing obligation;
+
+(c) the dates from which the clearing obligation takes effect, including any phased-in implementation;
+
+(d) the classes of OTC derivatives identified by ESMA in accordance with Article 5(3);
+
+(f) the CCPs that have been notified to ESMA by the competent authority for the purpose of the clearing obligation and the date of notification of each of them.
+
+3. Where a CCP is no longer authorised or recognised in accordance with this Regulation to clear a specific class of OTC derivatives, ESMA shall immediately remove that CCP from the public register in relation to that class of OTC derivatives.
+
+4. In order to ensure consistent application of this Article, ESMA may develop draft regulatory technical standards specifying the details to be included in the public register referred to in paragraph 1.
+
+ESMA shall submit any such draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_6a"></a>
+
+### Article 6a — Suspension of clearing obligation
+
+1. ESMA may request that the Commission suspend the clearing obligation referred to in Article 4(1) for specific classes of OTC derivatives or for a specific type of counterparty, where one of the following conditions is met:
+
+(a) the specific classes of OTC derivatives are no longer suitable for central clearing in accordance with the criteria referred to in the first subparagraph of Article 5(4) and in Article 5(5);
+
+(b) a CCP is likely to cease clearing those specific classes of OTC derivatives and no other CCP is able to clear those specific classes of OTC derivatives without interruption;
+
+(c) the suspension of the clearing obligation for those specific classes of OTC derivatives or for a specific type of counterparty is necessary to avoid or address a serious threat to financial stability or to the orderly functioning of financial markets in the Union and that suspension is proportionate to those aims.
+
+For the purposes of point (c) of the first subparagraph, prior to the request referred to in the first subparagraph, ESMA shall consult the ESRB and the competent authorities designated in accordance with Article 22.
+
+The request referred to in the first subparagraph shall be accompanied by evidence that at least one of the conditions set out therein is met.
+
+Where the suspension of the clearing obligation is considered by ESMA to be a material change in the criteria for the trading obligation to take effect referred to in Article 32(5) of Regulation (EU) No 600/2014, the request referred to in the first subparagraph of this paragraph may also include a request to suspend the trading obligation laid down in Article 28(1) and (2) of that Regulation for the same specific classes of OTC derivatives that are subject to the request to suspend the clearing obligation.
+
+2. Under the conditions set out in paragraph 1 of this Article, the competent authorities responsible for the supervision of clearing members and the competent authorities designated in accordance with Article 22 may request that ESMA submit a request for a suspension of the clearing obligation to the Commission. The request by the competent authority shall provide reasons and submit evidence showing that at least one of the conditions set out in the first subparagraph of paragraph 1 of this Article is met.
+
+ESMA shall, within 48 hours of receipt of the request from the competent authority referred to in the first subparagraph of this paragraph, on the basis of the reasons and evidence provided by the competent authority, either request that the Commission suspend the clearing obligation referred to in Article 4(1) or reject the request referred to in the first subparagraph of this paragraph. ESMA shall inform the competent authority concerned of its decision. Where ESMA rejects the request by the competent authority, it shall provide reasons therefor in writing.
+
+3. The requests referred to in paragraphs 1 and 2 shall not be made public.
+
+4. The Commission shall, without undue delay after receipt of the request referred to in paragraph 1, on the basis of the reasons and evidence provided by ESMA, either suspend the clearing obligation for the specific classes of OTC derivatives or for the specific type of counterparty referred to in paragraph 1 by way of an implementing act, or reject the requested suspension. Where the Commission rejects the requested suspension, it shall provide reasons therefor in writing to ESMA. The Commission shall immediately inform the European Parliament and the Council thereof and forward them the reasons provided to ESMA. Such information shall not be made public.
+
+The implementing act referred to in the first subparagraph of this paragraph shall be adopted in accordance with the procedure referred to in Article 86(3).
+
+5. Where requested by ESMA in accordance with the fourth subparagraph of paragraph 1 of this Article, the implementing act suspending the clearing obligation for specific classes of OTC derivatives may also suspend the trading obligation laid down in Article 28(1) and (2) of Regulation (EU) No 600/2014 for the same specific classes of OTC derivatives that are subject to the suspension of the clearing obligation.
+
+6. The suspension of the clearing obligation and, where applicable, the trading obligation shall be communicated to ESMA and shall be published in the *Official Journal of the European Union*, on the Commission's website and in the public register referred to in Article 6.
+
+7. The suspension of the clearing obligation referred to in paragraph 4 shall be valid for an initial period of no more than three months from the date of application of that suspension.
+
+The suspension of the trading obligation referred to in paragraph 5 shall be valid for the same initial period.
+
+8. Where the grounds for the suspension continue to apply, the Commission may, by way of an implementing act, extend the suspension referred to in paragraph 4 for additional periods of no more than three months, with the total period of the suspension of no more than 12 months. Any extensions of the suspension shall be published in accordance with paragraph 6.
+
+The implementing act referred to in the first subparagraph of this paragraph shall be adopted in accordance with the procedure referred to in Article 86(3).
+
+ESMA shall, in sufficient time before the end of the suspension period referred to in paragraph 7 of this Article or of the extension period referred to in the first subparagraph of this paragraph, issue an opinion to the Commission on whether the grounds for the suspension continue to apply. For the purposes of point (c) of the first subparagraph of paragraph 1 of this Article, ESMA shall consult the ESRB and the competent authorities designated in accordance with Article 22. ESMA shall send a copy of that opinion to the European Parliament and to the Council. That opinion shall not be made public.
+
+The implementing act extending the suspension of the clearing obligation may also extend the period of the suspension of the trading obligation referred to in paragraph 7.
+
+The extension of the suspension of the trading obligation shall be valid for the same period as the extension of the suspension of the clearing obligation.
+
+<a id="art_7"></a>
+
+### Article 7 — Access to a CCP
+
+1. A CCP that has been authorised to clear OTC derivative contracts shall accept clearing such contracts on a non-discriminatory and transparent basis, including as regards collateral requirements and fees related to access, regardless of the trading venue. This in particular shall ensure that a trading venue has the right to non-discriminatory treatment in terms of how contracts traded on that trading venue are treated in terms of:
+
+(a) collateral requirements and netting of economically equivalent contracts, where the inclusion of such contracts in the close-out and other netting procedures of a CCP based on the applicable insolvency law would not endanger the smooth and orderly functioning, the validity or enforceability of such procedures; and
+
+(b) cross-margining with correlated contracts cleared by the same CCP under a risk model that complies with Article 41.
+
+A CCP may require that a trading venue comply with the operational and technical requirements established by the CCP, including the risk-management requirements.
+
+2. A CCP shall accede to or refuse a formal request for access by a trading venue within three months of such a request.
+
+3. Where a CCP refuses access under paragraph 2, it shall provide the trading venue with full reasons for such refusal.
+
+4. Save where the competent authority of the trading venue and that of the CCP refuse access, the CCP shall, subject to the second subparagraph, grant access within three months of a decision acceding to the trading venue’s formal request in accordance with paragraph 2.
+
+The competent authority of the trading venue and that of the CCP may refuse access to the CCP following a formal request by the trading venue only where such access would threaten the smooth and orderly functioning of the markets or would adversely affect systemic risk.
+
+5. ESMA shall settle any dispute arising from a disagreement between competent authorities in accordance with its powers under Article 19 of Regulation (EU) No 1095/2010.
+
+6. The conditions laid down in paragraph 1 regarding non-discriminatory treatment in terms of how contracts traded on that trading venue are treated in terms of collateral requirements and netting of economically equivalent contracts and cross-margining with correlated contracts cleared by the same CCP shall be further specified by the technical standards adopted pursuant to Article 35(6)(e) of Regulation (EU) No 600/2014 (12).
+
+<a id="art_8"></a>
+
+### Article 8 — Access to a trading venue
+
+1. A trading venue shall provide trade feeds on a non-discriminatory and transparent basis to any CCP that has been authorised to clear OTC derivative contracts traded on that trading venue upon request by the CCP.
+
+2. Where a request to access a trading venue has been formally submitted to a trading venue by a CCP, the trading venue shall respond to the CCP within three months.
+
+3. Where access is refused by a trading venue, it shall notify the CCP accordingly, providing full reasons.
+
+4. Without prejudice to the decision by competent authorities of the trading venue and of the CCP, access shall be made possible by the trading venue within three months of a positive response to a request for access.
+
+Access of the CCP to the trading venue shall be granted only where such access would not require interoperability or threaten the smooth and orderly functioning of markets in particular due to liquidity fragmentation and the trading venue has put in place adequate mechanisms to prevent such fragmentation.
+
+5. In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the notion of liquidity fragmentation.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_9"></a>
+
+### Article 9 — Reporting obligation
+
+1. Counterparties and CCPs shall ensure that the details of any derivative contract they have concluded and of any modification or termination of the contract are reported in accordance with paragraphs 1a to 1f of this Article to a trade repository registered in accordance with Article 55 or recognised in accordance with Article 77. The details shall be reported no later than the working day following the conclusion, modification or termination of the contract.
+
+The reporting obligation shall apply to derivative contracts which:
+
+(a) were entered into before 12 February 2014 and remain outstanding on that date;
+
+(b) were entered into on or after 12 February 2014.
+
+Notwithstanding Article 3, the reporting obligation shall not apply to derivative contracts within the same group where at least one of the counterparties is a non-financial counterparty or would be qualified as a non-financial counterparty if it were established in the Union, provided that:
+
+(a) both counterparties are included in the same consolidation on a full basis;
+
+(b) both counterparties are subject to appropriate centralised risk evaluation, measurement and control procedures; and
+
+(c) the parent undertaking is not a financial counterparty.
+
+Counterparties shall notify their competent authorities of their intention to apply the exemption referred to in the third subparagraph. The exemption shall be valid unless the notified competent authorities do not agree upon fulfilment of the conditions referred to in the third subparagraph within three months of the date of notification.
+
+1e. Counterparties and CCPs that are required to report the details of derivative contracts shall ensure that such details are reported correctly and without duplication.
+
+1f. Counterparties and CCPs that are subject to the reporting obligation referred to in paragraph 1 may delegate that reporting obligation.
+
+2. Counterparties shall keep a record of any derivative contract they have concluded and any modification for at least five years following the termination of the contract.
+
+3. Where a trade repository is not available to record the details of a derivative contract, counterparties and CCPs shall ensure that such details are reported to ESMA.
+
+In this case ESMA shall ensure that all the relevant entities referred to in Article 81(3) have access to all the details of derivative contracts they need to fulfil their respective responsibilities and mandates.
+
+4. A counterparty or a CCP that reports the details of a derivative contract to a trade repository or to ESMA, or an entity that reports such details on behalf of a counterparty or a CCP shall not be considered in breach of any restriction on disclosure of information imposed by that contract or by any legislative, regulatory or administrative provision.
+
+No liability resulting from that disclosure shall lie with the reporting entity or its directors or employees.
+
+5. In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the details and type of the reports referred to in paragraphs 1 and 3 for the different classes of derivatives.
+
+The reports referred to in paragraphs 1 and 3 shall specify at least:
+
+(a) the parties to the derivative contract and, where different, the beneficiary of the rights and obligations arising from it;
+
+(b) the main characteristics of the derivative contracts, including their type, underlying maturity, notional value, price, and settlement date.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+6. To ensure uniform conditions of application of paragraphs 1 and 3, ESMA shall, in close cooperation with the ESCB, develop draft implementing technical standards specifying:
+
+(a) the data standards and formats for the information to be reported, which shall include at least the following:
+
+(i) global legal entity identifiers (LEIs);
+
+(ii) international securities identification numbers (ISINs);
+
+(iii) unique trade identifiers (UTIs);
+
+(b) the methods and arrangements for reporting;
+
+(c) the frequency of the reports;
+
+(d) the date by which derivative contracts are to be reported.
+
+In developing those draft implementing technical standards, ESMA shall take into account international developments and standards agreed upon at Union or global level, and their consistency with the reporting requirements laid down in Article 4 of Regulation (EU) 2015/2365 (13) and Article 26 of Regulation (EU) No 600/2014.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2020.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_10"></a>
+
+### Article 10 — Non-financial counterparties
+
+1. Every 12 months, a non-financial counterparty taking positions in OTC derivative contracts may calculate its aggregate month-end average position for the previous 12 months in accordance with paragraph 3.
+
+Where a non-financial counterparty does not calculate its positions, or where the result of that calculation in respect of one or more classes of OTC derivatives exceeds the clearing thresholds specified pursuant to point (b) of the first subparagraph of paragraph 4, that non-financial counterparty shall:
+
+(a) immediately notify ESMA and the relevant competent authority thereof, and, where relevant, indicate the period used for the calculation;
+
+(b) establish clearing arrangements within four months of the notification referred to in point (a) of this subparagraph;
+
+(c) become subject to the clearing obligation referred to in Article 4 for the OTC derivative contracts entered into or novated more than four months following the notification referred to in point (a) of this subparagraph that pertain to those asset classes in respect of which the result of the calculation exceeds the clearing thresholds or, where the non-financial counterparty has not calculated its position, that pertain to any class of OTC derivatives which is subject to the clearing obligation.
+
+2. A non-financial counterparty that is subject to the clearing obligation referred to in Article 4 on 17 June 2019 or that becomes subject to the clearing obligation in accordance with the second subparagraph of paragraph 1 of this Article, shall remain subject to that obligation and shall continue clearing until that non-financial counterparty demonstrates to the relevant competent authority that its aggregate month-end average position for the previous 12 months does not exceed the clearing threshold specified pursuant to point (b) of paragraph 4 of this Article.
+
+The non-financial counterparty shall be able to demonstrate to the relevant competent authority that the calculation of the aggregate month-end average position for the previous 12 months does not lead to a systematic underestimation of the position.
+
+2a. The relevant competent authorities of the non-financial counterparty and of the other entities within the group shall establish cooperation procedures to ensure the effective calculation of the positions at the group level.
+
+3. In calculating the positions referred to in paragraph 1, the non-financial counterparty shall include all the OTC derivative contracts entered into by the non-financial counterparty or by other non-financial entities within the group to which the non-financial counterparty belongs, which are not objectively measurable as reducing risks directly relating to the commercial activity or treasury financing activity of the non-financial counterparty or of that group.
+
+4. In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards, after consulting the ESRB and other relevant authorities, specifying:
+
+(a) criteria for establishing which OTC derivative contracts are objectively measurable as reducing risks directly relating to the commercial activity or treasury financing activity referred to in paragraph 3; and
+
+(b) values of the clearing thresholds, which are determined taking into account the systemic relevance of the sum of net positions and exposures per counterparty and per class of OTC derivatives.
+
+After conducting an open public consultation, ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+After consulting the ESRB and other relevant authorities, ESMA shall periodically review the clearing thresholds referred to in point (b) of the first subparagraph and, where necessary taking into account, in particular, the interconnectedness of financial counterparties, propose to amend the regulatory technical standards in accordance with this paragraph.
+
+That periodic review shall be accompanied by a report by ESMA on the subject.
+
+5. Each Member State shall designate an authority responsible for ensuring that the obligation under paragraph 1 is met.
+
+<a id="art_11"></a>
+
+### Article 11 — Risk-mitigation techniques for OTC derivative contracts not cleared by a CCP
+
+1. Financial counterparties and non-financial counterparties that enter into an OTC derivative contract not cleared by a CCP, shall ensure, exercising due diligence, that appropriate procedures and arrangements are in place to measure, monitor and mitigate operational risk and counterparty credit risk, including at least:
+
+(a) the timely confirmation, where available, by electronic means, of the terms of the relevant OTC derivative contract;
+
+(b) formalised processes which are robust, resilient and auditable in order to reconcile portfolios, to manage the associated risk and to identify disputes between parties early and resolve them, and to monitor the value of outstanding contracts.
+
+2. Financial counterparties and non-financial counterparties referred to in Article 10 shall mark-to-market on a daily basis the value of outstanding contracts. Where market conditions prevent marking-to-market, reliable and prudent marking-to-model shall be used.
+
+3. Financial counterparties shall have risk-management procedures that require the timely, accurate and appropriately segregated exchange of collateral with respect to OTC derivative contracts that are entered into on or after 16 August 2012. Non-financial counterparties referred to in Article 10 shall have risk-management procedures that require the timely, accurate and appropriately segregated exchange of collateral with respect to OTC derivative contracts that are entered into on or after the clearing threshold is exceeded.
+
+4. Financial counterparties shall hold an appropriate and proportionate amount of capital to manage the risk not covered by appropriate exchange of collateral.
+
+5. The requirement laid down in paragraph 3 of this Article shall not apply to an intragroup transaction referred to in Article 3 that is entered into by counterparties which are established in the same Member State provided that there is no current or foreseen practical or legal impediment to the prompt transfer of own funds or repayment of liabilities between counterparties.
+
+6. An intragroup transaction referred to in Article 3(2)(a), (b) or (c) that is entered into by counterparties which are established in different Member States shall be exempt totally or partially from the requirement laid down in paragraph 3 of this Article, on the basis of a positive decision of both the relevant competent authorities, provided that the following conditions are fulfilled:
+
+(a) the risk-management procedures of the counterparties are adequately sound, robust and consistent with the level of complexity of the derivative transaction;
+
+(b) there is no current or foreseen practical or legal impediment to the prompt transfer of own funds or repayment of liabilities between the counterparties.
+
+If the competent authorities fail to reach a positive decision within 30 calendar days of receipt of the application for exemption, ESMA may assist those authorities in reaching agreement in accordance with its powers under Article 19 of Regulation (EU) No 1095/2010.
+
+7. An intragroup transaction referred to in Article 3(1) that is entered into by non-financial counterparties which are established in different Member States shall be exempt from the requirement laid down in paragraph 3 of this Article, provided that the following conditions are fulfilled:
+
+(a) the risk-management procedures of the counterparties are adequately sound, robust and consistent with the level of complexity of the derivative transaction;
+
+(b) there is no current or foreseen practical or legal impediment to the prompt transfer of own funds or repayment of liabilities between the counterparties.
+
+The non-financial counterparties shall notify their intention to apply the exemption to the competent authorities referred to in Article 10(5). The exemption shall be valid unless either of the notified competent authorities does not agree upon fulfilment of the conditions referred to in point (a) or (b) of the first subparagraph within three months of the date of the notification.
+
+8. An intragroup transaction referred to in Article 3(2)(a) to (d) that is entered into by a counterparty which is established in the Union and a counterparty which is established in a third-country jurisdiction shall be exempt totally or partially from the requirement laid down in paragraph 3 of this Article, on the basis of a positive decision of the relevant competent authority responsible for supervision of the counterparty which is established in the Union, provided that the following conditions are fulfilled:
+
+(a) the risk-management procedures of the counterparties are adequately sound, robust and consistent with the level of complexity of the derivative transaction;
+
+(b) there is no current or foreseen practical or legal impediment to the prompt transfer of own funds or repayment of liabilities between the counterparties.
+
+9. An intragroup transaction referred to in Article 3(1) that is entered into by a non-financial counterparty which is established in the Union and a counterparty which is established in a third-country jurisdiction shall be exempt from the requirement laid down in paragraph 3 of this Article, provided that the following conditions are fulfilled:
+
+(a) the risk-management procedures of the counterparties are adequately sound, robust and consistent with the level of complexity of the derivative transaction;
+
+(b) there is no current or foreseen practical or legal impediment to the prompt transfer of own funds or repayment of liabilities between the counterparties.
+
+The non-financial counterparty shall notify its intention to apply the exemption to the competent authority referred to in Article 10(5). The exemption shall be valid unless the notified competent authority does not agree upon fulfilment of the conditions referred to in point (a) or (b) of the first subparagraph within three months of the date of notification.
+
+10. An intragroup transaction referred to in Article 3(1) that is entered into by a non-financial counterparty and a financial counterparty which are established in different Member States shall be exempt totally or partially from the requirement laid down in paragraph 3 of this Article, on the basis of a positive decision of the relevant competent authority responsible for supervision of the financial counterparty, provided that the following conditions are fulfilled:
+
+(a) the risk-management procedures of the counterparties are adequately sound, robust and consistent with the level of complexity of the derivative transaction;
+
+(b) there is no current or foreseen practical or legal impediment to the prompt transfer of own funds or repayment of liabilities between the counterparties.
+
+The relevant competent authority responsible for supervision of the financial counterparty shall notify any such decision to the competent authority referred to in Article 10(5). The exemption is valid unless the notified competent authority does not agree upon fulfilment of the conditions referred to in point (a) or (b) of the first subparagraph. If there is disagreement between the competent authorities, ESMA may assist those authorities in reaching an agreement in accordance with its powers under Article 19 of Regulation (EU) No 1095/2010.
+
+11. The counterparty of an intragroup transaction which has been exempted from the requirement laid down in paragraph 3 shall publicly disclose information on the exemption.
+
+A competent authority shall notify ESMA of any decision adopted pursuant to paragraph 6, 8 or 10, or any notification received pursuant to paragraph 7, 9 or 10, and shall provide ESMA with the details of the intragroup transaction concerned.
+
+12. The obligations set out in paragraphs 1 to 11 shall apply to OTC derivative contracts entered into between third country entities that would be subject to those obligations if they were established in the Union, provided that those contracts have a direct, substantial and foreseeable effect within the Union or where such obligation is necessary or appropriate to prevent the evasion of any provision of this Regulation.
+
+13. ESMA shall regularly monitor the activity in derivatives not eligible for clearing in order to identify cases where a particular class of derivatives may pose systemic risk and to prevent regulatory arbitrage between cleared and non-cleared derivative transactions. In particular, ESMA shall, after consulting the ESRB, take action in accordance with Article 5(3) or review the regulatory technical standards on margin requirements laid down in paragraph 14 of this Article and in Article 41.
+
+14. In order to ensure consistent application of this Article, ESMA shall draft regulatory technical standards specifying:
+
+(a) the procedures and arrangements referred to in paragraph 1;
+
+(b) the market conditions that prevent marking-to-market and the criteria for using marking-to-model referred to in paragraph 2;
+
+(c) the details of the exempted intragroup transactions to be included in the notification referred to in paragraphs 7, 9 and 10;
+
+(d) the details of the information on exempted intragroup transactions referred to in paragraph 11;
+
+(e) the contracts that are considered to have a direct, substantial and foreseeable effect within the Union or the cases where it is necessary or appropriate to prevent the evasion of any provision of this Regulation as referred to in paragraph 12;
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+15. In order to ensure consistent application of this Article, the ESAs shall develop common draft regulatory technical standards specifying:
+
+(a) the risk-management procedures, including the levels and type of collateral and segregation arrangements referred to in paragraph 3;
+
+(aa) the supervisory procedures to ensure initial and ongoing validation of those risk-management procedures;
+
+(b) the procedures for the counterparties and the relevant competent authorities to be followed when applying exemptions under paragraphs 6 to 10;
+
+(c) the applicable criteria referred to in paragraphs 5 to 10 including in particular what is to be considered as a practical or legal impediment to the prompt transfer of own funds and repayment of liabilities between the counterparties.
+
+The level and type of collateral required with respect to OTC derivative contracts that are concluded by covered bond entities in connection with a covered bond, or by a securitisation special purpose entity in connection with a securitisation within the meaning of this Regulation and meeting the conditions of Article 4(5) of this Regulation and the requirements set out in Article 18, and in Articles 19 to 22 or 23 to 26 of Regulation (EU) 2017/2402 (the Securitisation Regulation) shall be determined taking into account any impediments faced in exchanging collateral with respect to existing collateral arrangements under the covered bond or securitisation.
+
+The ESAs shall submit those draft regulatory technical standards, except for those referred to in point (aa) of the first subparagraph, to the Commission by 18 July 2018.
+
+EBA, in cooperation with ESMA and EIOPA, shall submit the draft regulatory technical standards referred to in point (aa) of the first subparagraph to the Commission by 18 June 2020.
+
+Depending on the legal nature of the counterparty, power is delegated to the Commission to adopt the regulatory technical standards referred to in this paragraph in accordance with Articles 10 to 14 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 or (EU) No 1095/2010.
+
+<a id="art_12"></a>
+
+### Article 12 — Penalties
+
+1. Member States shall lay down the rules on penalties applicable to infringements of the rules under this Title and shall take all measures necessary to ensure that they are implemented. Those penalties shall include at least administrative fines. The penalties provided for shall be effective, proportionate and dissuasive.
+
+2. Member States shall ensure that the competent authorities responsible for the supervision of financial, and, where appropriate, non-financial counterparties disclose every penalty that has been imposed for infringements of Articles 4, 5 and 7 to 11 to the public, unless such disclosure would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved. Member States shall, at regular intervals, publish assessment reports on the effectiveness of the penalty rules being applied. Such disclosure and publication shall not contain personal data within the meaning of Article 2(a) of Directive 95/46/EC.
+
+By 17 February 2013, the Member States shall notify the rules referred to in paragraph 1 to the Commission. They shall notify the Commission of any subsequent amendment thereto without delay.
+
+3. An infringement of the rules under this Title shall not affect the validity of an OTC derivative contract or the possibility for the parties to enforce the provisions of an OTC derivative contract. An infringement of the rules under this Title shall not give rise to any right to compensation from a party to an OTC derivative contract.
+
+<a id="art_13"></a>
+
+### Article 13 — Mechanism to avoid duplicative or conflicting rules
+
+1. The Commission shall be assisted by ESMA in monitoring and preparing reports to the European Parliament and to the Council on the international application of principles laid down in Articles 4, 9, 10 and 11, in particular with regard to potential duplicative or conflicting requirements on market participants, and recommend possible action.
+
+2. The Commission may adopt implementing acts declaring that the legal, supervisory and enforcement arrangements of a third country:
+
+(a) are equivalent to the requirements laid down in this Regulation under Articles 4, 9, 10 and 11;
+
+(b) ensure protection of professional secrecy that is equivalent to that set out in this Regulation; and
+
+(c) are being effectively applied and enforced in an equitable and non-distortive manner so as to ensure effective supervision and enforcement in that third country.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 86(2).
+
+3. An implementing act on equivalence as referred to in paragraph 2 shall imply that counterparties entering into a transaction subject to this Regulation shall be deemed to have fulfilled the obligations contained in Articles 4, 9, 10 and 11 where at least one of the counterparties is established in that third country.
+
+4. The Commission shall, in cooperation with ESMA, monitor the effective implementation by third countries, for which an implementing act on equivalence has been adopted, of the requirements equivalent to those laid down in Articles 4, 9, 10 and 11 and regularly report, at least on an annual basis, to the European Parliament and the Council. Where the report reveals an insufficient or inconsistent application of the equivalent requirements by third country authorities, the Commission shall, within 30 calendar days of the presentation of the report, withdraw the recognition as equivalent of the third country legal framework in question. Where an implementing act on equivalence is withdrawn, counterparties shall automatically be subject again to all requirements laid down in this Regulation.
+
+## *CHAPTER 1*
+
+### ***Conditions and procedures for the authorisation of a CCP***
+
+<a id="art_14"></a>
+
+### Article 14 — Authorisation of a CCP
+
+1. Where a legal person established in the Union intends to provide clearing services as a CCP, it shall apply for authorisation to the competent authority of the Member State where it is established (the CCP’s competent authority), in accordance with the procedure set out in Article 17.
+
+2. Once authorisation has been granted in accordance with Article 17, it shall be effective for the entire territory of the Union.
+
+3. Authorisation referred to in paragraph 1 shall be granted only for activities linked to clearing and shall specify the services or activities which the CCP is authorised to provide or perform including the classes of financial instruments covered by such authorisation.
+
+4. A CCP shall comply at all times with the conditions necessary for authorisation.
+
+A CCP shall, without undue delay, notify the competent authority of any material changes affecting the conditions for authorisation.
+
+5. Authorisation referred to in paragraph 1 shall not prevent Member States from adopting or continuing to apply, in respect of CCPs established in their territory, additional requirements including certain requirements for authorisation under Directive 2006/48/EC.
+
+<a id="art_15"></a>
+
+### Article 15 — Extension of activities and services
+
+1. A CCP wishing to extend its business to additional services or activities not covered by the initial authorisation shall submit a request for extension to the CCP’s competent authority. The offering of clearing services for which the CCP has not already been authorised shall be considered to be an extension of that authorisation.
+
+The extension of authorisation shall be made in accordance with the procedure set out under Article 17.
+
+2. Where a CCP wishes to extend its business into a Member State other than that where it is established, the CCP’s competent authority shall immediately notify the competent authority of that other Member State.
+
+<a id="art_16"></a>
+
+### Article 16 — Capital requirements
+
+1. A CCP shall have a permanent and available initial capital of at least EUR 7,5 million to be authorised pursuant to Article 14.
+
+2. A CCP’s capital, including retained earnings and reserves, shall be proportionate to the risk stemming from the activities of the CCP. It shall at all times be sufficient to ensure an orderly winding-down or restructuring of the activities over an appropriate time span and an adequate protection of the CCP against credit, counterparty, market, operational, legal and business risks which are not already covered by specific financial resources as referred to in Articles 41 to 44.
+
+3. In order to ensure consistent application of this Article, EBA shall, in close cooperation with the ESCB and after consulting ESMA, develop draft regulatory technical standards specifying requirements regarding the capital, retained earnings and reserves of a CCP referred to in paragraph 2.
+
+EBA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+<a id="art_17"></a>
+
+### Article 17 — Procedure for granting and refusing authorisation
+
+1. The applicant CCP shall submit an application for authorisation to the competent authority of the Member State where it is established.
+
+2. The applicant CCP shall provide all information necessary to satisfy the competent authority that the applicant CCP has established, at the time of authorisation, all the necessary arrangements to meet the requirements laid down in this Regulation. The competent authority shall immediately transmit all the information received from the applicant CCP to ESMA and the college referred to in Article 18(1).
+
+3. Within 30 working days of receipt of the application, the competent authority shall assess whether the application is complete. If the application is not complete, the competent authority shall set a deadline by which the applicant CCP has to provide additional information. After assessing that an application is complete, the competent authority shall notify the applicant CCP and the members of the college established in accordance with Article 18(1) and ESMA accordingly.
+
+4. The competent authority shall grant authorisation only where it is fully satisfied that the applicant CCP complies with all the requirements laid down in this Regulation and that the CCP is notified as a system pursuant to Directive 98/26/EC.
+
+The competent authority shall duly consider the opinion of the college reached in accordance with Article 19. Where the CCP’s competent authority does not agree with a positive opinion of the college, its decision shall contain full reasons and an explanation of any significant deviation from that positive opinion.
+
+The CCP shall not be authorised where all the members of the college, excluding the authorities of the Member State where the CCP is established, reach a joint opinion by mutual agreement, pursuant to Article 19(1), that the CCP not be authorised. That opinion shall state in writing the full and detailed reasons why the college consider that the requirements laid down in this Regulation or other Union law are not met.
+
+Where a joint opinion by mutual agreement as referred to in the third subparagraph has not been reached and a majority of two-thirds of the college have expressed a negative opinion, any of the competent authorities concerned, based on that majority of two-thirds of the college, may, within 30 calendar days of the adoption of that negative opinion, refer the matter to ESMA in accordance with Article 19 of Regulation (EU) No 1095/2010.
+
+The referral decision shall state in writing the full and detailed reasons why the relevant members of the college consider that the requirements laid down in this Regulation or other parts of Union law are not met. In that case the CCP’s competent authority shall defer its decision on authorisation and await any decision on authorisation that ESMA may take in accordance with Article 19(3) of Regulation (EU) No 1095/2010, The competent authority shall take its decision in conformity with ESMA’s decision. The matter shall not be referred to ESMA after the end of the 30-day period referred to in the fourth subparagraph.
+
+Where all the members of the college, excluding the authorities of the Member State where the CCP is established, reach a joint opinion by mutual agreement, pursuant to Article 19(1), that the CCP not be authorised, the CCP’s competent authority may refer the matter to ESMA in accordance with Article 19 of Regulation (EU) No 1095/2010.
+
+The competent authority of the Member State where the CCP is established shall transmit the decision to the other competent authorities concerned.
+
+5. ESMA shall act in accordance with Article 17 of Regulation (EU) No 1095/2010 in the event that the CCP’s competent authority has not applied the provisions of this Regulation, or has applied them in a way which appears to be in breach of Union law.
+
+ESMA may investigate an alleged breach or non-application of Union law upon request from any member of the college or on its own initiative, after having informed the competent authority.
+
+6. While performing their duties, any action taken by any member of the college shall not, directly or indirectly, discriminate against any Member State or group of Member States as a venue for clearing services in any currency.
+
+7. Within six months of the submission of a complete application, the competent authority shall inform the applicant CCP in writing, with a fully reasoned explanation, whether authorisation has been granted or refused.
+
+<a id="art_18"></a>
+
+### Article 18 — College
+
+1. Within 30 calendar days of the submission of a complete application in accordance with Article 17, the CCP’s competent authority shall establish, manage and chair a college to facilitate the exercise of the tasks referred to in Articles 15, 17, 49, 51 and 54.
+
+2. The college shall consist of:
+
+(a) ESMA;
+
+(b) the CCP’s competent authority;
+
+(c) the competent authorities responsible for the supervision of the clearing members of the CCP that are established in the three Member States with the largest contributions to the default fund of the CCP referred to in Article 42 on an aggregate basis over a one-year period;
+
+(d) the competent authorities responsible for the supervision of trading venues served by the CCP;
+
+(e) the competent authorities supervising CCPs with which interoperability arrangements have been established;
+
+(f) the competent authorities supervising central securities depositories to which the CCP is linked;
+
+(g) the relevant members of the ESCB responsible for the oversight of the CCP and the relevant members of the ESCB responsible for the oversight of the CCPs with which interoperability arrangements have been established;
+
+(h) the central banks of issue of the most relevant Union currencies of the financial instruments cleared.
+
+3. The competent authority of a Member State which is not a member of the college may request from the college any information relevant for the performance of its supervisory duties.
+
+4. The college shall, without prejudice to the responsibilities of competent authorities under this Regulation, ensure:
+
+(a) the preparation of the opinion referred to in Article 19;
+
+(b) the exchange of information, including requests for information pursuant to Article 84;
+
+(c) agreement on the voluntary entrustment of tasks among its members;
+
+(d) the coordination of supervisory examination programmes based on a risk assessment of the CCP; and
+
+(e) the determination of procedures and contingency plans to address emergency situations, as referred to in Article 24.
+
+5. The establishment and functioning of the college shall be based on a written agreement between all its members.
+
+That agreement shall determine the practical arrangements for the functioning of the college, including detailed rules on voting procedures as referred to in Article 19(3), and may determine tasks to be entrusted to the CCP’s competent authority or another member of the college.
+
+6. In order to ensure the consistent and coherent functioning of colleges across the Union, ESMA shall develop draft regulatory technical standards specifying the conditions under which the Union currencies referred to in paragraph 2(h) are to be considered as the most relevant and the details of the practical arrangements referred to in paragraph 5.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_19"></a>
+
+### Article 19 — Opinion of the college
+
+1. Within four months of the submission of a complete application by the CCP in accordance with Article 17, the CCP’s competent authority shall conduct a risk assessment of the CCP and submit a report to the college.
+
+Within 30 calendar days of receipt, and on the basis of the findings in, that report, the college shall reach a joint opinion determining whether the applicant CCP complies with all the requirements laid down in this Regulation.
+
+Without prejudice to the fourth subparagraph of Article 17(4) and if no joint opinion is reached in accordance with the second subparagraph, the college shall adopt a majority opinion within the same period.
+
+2. ESMA shall facilitate the adoption of the joint opinion in accordance with its general coordination function under Article 31 of Regulation (EU) No 1095/2010.
+
+3. A majority opinion of the college shall be adopted on the basis of a simple majority of its members. For colleges up to and including 12 members, a maximum of two college members belonging to the same Member State shall have a vote and each voting member shall have one vote. For colleges with more than 12 members, a maximum of three members belonging to the same Member State shall have a vote and each voting member shall have one vote. ESMA shall have no voting rights on the opinions of the college.
+
+<a id="art_20"></a>
+
+### Article 20 — Withdrawal of authorisation
+
+1. Without prejudice to Article 22(3), the CCP’s competent authority shall withdraw authorisation where the CCP:
+
+(a) has not made use of the authorisation within 12 months, expressly renounces the authorisation or has provided no services or performed no activity for the preceding six months;
+
+(b) has obtained authorisation by making false statements or by any other irregular means;
+
+(c) is no longer in compliance with the conditions under which authorisation was granted and has not taken the remedial action requested by the CCP’s competent authority within a set time frame;
+
+(d) has seriously and systematically infringed any of the requirements laid down in this Regulation.
+
+2. Where the CCP’s competent authority considers that one of the circumstances referred to in paragraph 1 applies, it shall, within five working days, notify ESMA and the members of college accordingly.
+
+3. The CCP’s competent authority shall consult the members of the college on the necessity to withdraw the authorisation of the CCP, except where a decision is required urgently.
+
+4. Any member of the college may, at any time, request that the CCP’s competent authority examine whether the CCP remains in compliance with the conditions under which authorisation was granted.
+
+5. The CCP’s competent authority may limit the withdrawal to a particular service, activity, or class of financial instruments.
+
+6. The CCP’s competent authority shall send ESMA and the members of the college its fully reasoned decision, which shall take into account the reservations of the members of the college.
+
+7. The decision on the withdrawal of authorisation shall take effect throughout the Union.
+
+<a id="art_21"></a>
+
+### Article 21 — Review and evaluation
+
+1. Without prejudice to the role of the college, the competent authorities referred to in Article 22 shall review the arrangements, strategies, processes and mechanisms implemented by CCPs to comply with this Regulation and evaluate the risks to which CCPs are, or might be, exposed.
+
+2. The review and evaluation referred to in paragraph 1 shall cover all the requirements on CCPs laid down in this Regulation.
+
+3. The competent authorities shall establish the frequency and depth of the review and evaluation referred to in paragraph 1 having regard to the size, systemic importance, nature, scale and complexity of the activities of the CCPs concerned. The review and evaluation shall be updated at least on an annual basis.
+
+The CCPs shall be subject to on-site inspections.
+
+4. The competent authorities shall regularly, and at least annually, inform the college of the results of the review and evaluation as referred to in paragraph 1, including any remedial action taken or penalty imposed.
+
+5. The competent authorities shall require any CCP that does not meet the requirements laid down in this Regulation to take the necessary action or steps at an early stage to address the situation.
+
+6. ESMA shall fulfil a coordination role between competent authorities and across colleges with a view to building a common supervisory culture and consistent supervisory practices, ensuring uniform procedures and consistent approaches, and strengthening consistency in supervisory outcomes.
+
+For the purposes of the first subparagraph, ESMA shall, at least annually:
+
+(a) conduct a peer review analysis of the supervisory activities of all competent authorities in relation to the authorisation and the supervision of CCPs in accordance with Article 30 of Regulation (EU) No 1095/2010; and
+
+(b) initiate and coordinate Union-wide assessments of the resilience of CCPs to adverse market developments in accordance with Article 32(2) of Regulation (EU) No 1095/2010.
+
+Where an assessment referred to in point (b) of the second subparagraph exposes shortcomings in the resilience of one or more CCPs, ESMA shall issue the necessary recommendations pursuant to Article 16 of Regulation (EU) No 1095/2010.
+
+## *CHAPTER 2*
+
+### ***Supervision and oversight of CCPs***
+
+<a id="art_22"></a>
+
+### Article 22 — Competent authority
+
+1. Each Member State shall designate the competent authority responsible for carrying out the duties resulting from this Regulation for the authorisation and supervision of CCPs established in its territory and shall inform the Commission and ESMA thereof.
+
+Where a Member State designates more than one competent authority, it shall clearly determine the respective roles and shall designate a single authority to be responsible for coordinating cooperation and the exchange of information with the Commission, ESMA, other Member States’ competent authorities, EBA and the relevant members of the ESCB, in accordance with Articles 23, 24, 83 and 84.
+
+2. Each Member State shall ensure that the competent authority has the supervisory and investigatory powers necessary for the exercise of its functions.
+
+3. Each Member State shall ensure that appropriate administrative measures, in conformity with national law, can be taken or imposed against the natural or legal persons responsible for non-compliance with this Regulation.
+
+Those measures shall be effective, proportionate and dissuasive and may include requests for remedial action within a set time frame.
+
+4. ESMA shall publish on its website a list of the competent authorities designated in accordance with paragraph 1.
+
+## *CHAPTER 3*
+
+### ***Cooperation***
+
+<a id="art_23"></a>
+
+### Article 23 — Cooperation between authorities
+
+1. Competent authorities shall cooperate closely with each other, with ESMA and, if necessary, with the ESCB.
+
+2. Competent authorities shall, in the exercise of their general duties, duly consider the potential impact of their decisions on the stability of the financial system in all other Member States concerned, in particular the emergency situations referred to in Article 24, based on the available information at the time.
+
+<a id="art_24"></a>
+
+### Article 24 — Emergency situations
+
+The CCP’s competent authority or any other authority shall inform ESMA, the college, the relevant members of the ESCB and other relevant authorities without undue delay of any emergency situation relating to a CCP, including developments in financial markets, which may have an adverse effect on market liquidity and the stability of the financial system in any of the Member States where the CCP or one of its clearing members are established.
+
+## *CHAPTER 4*
+
+### ***Relations with third countries***
+
+<a id="art_25"></a>
+
+### Article 25 — Recognition of a third-country CCP
+
+1. A CCP established in a third country may provide clearing services to clearing members or trading venues established in the Union only where that CCP is recognised by ESMA.
+
+2. ESMA, after consulting the authorities referred to in paragraph 3, may recognise a CCP established in a third country that has applied for recognition to provide certain clearing services or activities where:
+
+(a) the Commission has adopted an implementing act in accordance with paragraph 6;
+
+(b) the CCP is authorised in the relevant third country, and is subject to effective supervision and enforcement ensuring full compliance with the prudential requirements applicable in that third country;
+
+(c) cooperation arrangements have been established pursuant to paragraph 7;
+
+(d) the CCP is established or authorised in a third country that is not considered, by the Commission in accordance with Directive (EU) 2015/849 of the European Parliament and of the Council (14), as having strategic deficiencies in its national anti-money laundering and counter financing of terrorism regime that poses significant threats to the financial system of the Union.
+
+3. When assessing whether the conditions referred to in paragraph 2 are met, ESMA shall consult:
+
+(a) the competent authority of a Member State in which the CCP provides or intends to provide clearing services and which has been selected by the CCP;
+
+(b) the competent authorities responsible for the supervision of the clearing members of the CCP that are established in the three Member States which make or are anticipated by the CCP to make the largest contributions to the default fund of the CCP referred to in Article 42 on an aggregate basis over a one-year period;
+
+(c) the competent authorities responsible for the supervision of trading venues located in the Union, served or to be served by the CCP;
+
+(d) the competent authorities supervising CCPs established in the Union with which interoperability arrangements have been established;
+
+(e) the relevant members of the ESCB of the Member States in which the CCP provides or intends to provide clearing services and the relevant members of the ESCB responsible for the oversight of the CCPs with which interoperability arrangements have been established;
+
+(f) the central banks of issue of the most relevant Union currencies of the financial instruments cleared or to be cleared.
+
+4. The CCP referred to in paragraph 1 shall submit its application to ESMA.
+
+The applicant CCP shall provide ESMA with all information necessary for its recognition. Within 30 working days of receipt, ESMA shall assess whether the application is complete. If the application is not complete, ESMA shall set a deadline by which the applicant CCP has to provide additional information.
+
+The recognition decision shall be based on the conditions set out in paragraph 2 and shall be independent of any assessment as the basis for the equivalence decision as referred to in Article 13(3).
+
+ESMA shall consult the authorities and entities referred to in paragraph 3 prior to taking its decision.
+
+Within 180 working days of the submission of a complete application, ESMA shall inform the applicant CCP in writing, with a fully reasoned explanation, whether the recognition has been granted or refused.
+
+ESMA shall publish on its website a list of the CCPs recognised in accordance with this Regulation.
+
+5. ESMA shall, after consulting the authorities and entities referred to in paragraph 3, review the recognition of the CCP established in a third country where that CCP has extended the range of its activities and services in the Union. That review shall be conducted in accordance with paragraphs 2, 3 and 4. ESMA may withdraw the recognition of that CCP where the conditions set out in paragraph 2 are no longer met and in the same circumstances as those described in Article 20.
+
+6. The Commission may adopt an implementing act under Article 5 of Regulation (EU) No 182/2011, determining that the legal and supervisory arrangements of a third country ensure that CCPs authorised in that third country comply with legally binding requirements which are equivalent to the requirements laid down in Title IV of this Regulation, that those CCPs are subject to effective supervision and enforcement in that third country on an ongoing basis and that the legal framework of that third country provides for an effective equivalent system for the recognition of CCPs authorised under third-country legal regimes.
+
+7. ESMA shall establish cooperation arrangements with the relevant competent authorities of third countries whose legal and supervisory frameworks have been recognised as equivalent to this Regulation in accordance with paragraph 6. Such arrangements shall specify at least:
+
+(a) the mechanism for the exchange of information between ESMA and the competent authorities of the third countries concerned, including access to all information requested by ESMA regarding CCPs authorised in third countries;
+
+(b) the mechanism for prompt notification to ESMA where a third-country competent authority deems a CCP it is supervising to be in breach of the conditions of its authorisation or of other law to which it is subject;
+
+(c) the mechanism for prompt notification to ESMA by a third-country competent authority where a CCP it is supervising has been granted the right to provide clearing services to clearing members or clients established in the Union;
+
+(d) the procedures concerning the coordination of supervisory activities including, where appropriate, on-site inspections.
+
+8. In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the information that the applicant CCP shall provide ESMA in its application for recognition.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+## *CHAPTER 1*
+
+### ***Organisational requirements***
+
+<a id="art_26"></a>
+
+### Article 26 — General provisions
+
+1. A CCP shall have robust governance arrangements, which include a clear organisational structure with well-defined, transparent and consistent lines of responsibility, effective processes to identify, manage, monitor and report the risks to which it is or might be exposed, and adequate internal control mechanisms, including sound administrative and accounting procedures.
+
+2. A CCP shall adopt policies and procedures which are sufficiently effective so as to ensure compliance with this Regulation, including compliance of its managers and employees with all the provisions of this Regulation.
+
+3. A CCP shall maintain and operate an organisational structure that ensures continuity and orderly functioning in the performance of its services and activities. It shall employ appropriate and proportionate systems, resources and procedures.
+
+4. A CCP shall maintain a clear separation between the reporting lines for risk management and those for the other operations of the CCP.
+
+5. A CCP shall adopt, implement and maintain a remuneration policy which promotes sound and effective risk management and which does not create incentives to relax risk standards.
+
+6. A CCP shall maintain information technology systems adequate to deal with the complexity, variety and type of services and activities performed so as to ensure high standards of security and the integrity and confidentiality of the information maintained.
+
+7. A CCP shall make its governance arrangements, the rules governing the CCP, and its admission criteria for clearing membership, available publicly free of charge.
+
+8. The CCP shall be subject to frequent and independent audits. The results of those audits shall be communicated to the board and shall be made available to the competent authority.
+
+9. In order to ensure consistent application of this Article, ESMA, after consulting the members of the ESCB, shall develop draft regulatory technical standards specifying the minimum content of the rules and governance arrangements referred to in paragraphs 1 to 8.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_27"></a>
+
+### Article 27 — Senior management and the board
+
+1. The senior management of a CCP shall be of sufficiently good repute and shall have sufficient experience so as to ensure the sound and prudent management of the CCP.
+
+2. A CCP shall have a board. At least one third, but no less than two, of the members of that board shall be independent. Representatives of the clients of clearing members shall be invited to board meetings for matters relevant to Articles 38 and 39. The compensation of the independent and other non-executive members of the board shall not be linked to the business performance of the CCP.
+
+The members of a CCP’s board, including its independent members, shall be of sufficiently good repute and shall have adequate expertise in financial services, risk management and clearing services.
+
+3. A CCP shall clearly determine the roles and responsibilities of the board and shall make the minutes of the board meetings available to the competent authority and auditors.
+
+<a id="art_28"></a>
+
+### Article 28 — Risk committee
+
+1. A CCP shall establish a risk committee, which shall be composed of representatives of its clearing members, independent members of the board and representatives of its clients. The risk committee may invite employees of the CCP and external independent experts to attend risk-committee meetings in a non-voting capacity. Competent authorities may request to attend risk-committee meetings in a non-voting capacity and to be duly informed of the activities and decisions of the risk committee. The advice of the risk committee shall be independent of any direct influence by the management of the CCP. None of the groups of representatives shall have a majority in the risk committee.
+
+2. A CCP shall clearly determine the mandate, the governance arrangements to ensure its independence, the operational procedures, the admission criteria and the election mechanism for risk-committee members. The governance arrangements shall be publicly available and shall, at least, determine that the risk committee is chaired by an independent member of the board, reports directly to the board and holds regular meetings.
+
+3. The risk committee shall advise the board on any arrangements that may impact the risk management of the CCP, such as a significant change in its risk model, the default procedures, the criteria for accepting clearing members, the clearing of new classes of instruments, or the outsourcing of functions. The advice of the risk committee is not required for the daily operations of the CCP. Reasonable efforts shall be made to consult the risk committee on developments impacting the risk management of the CCP in emergency situations.
+
+4. Without prejudice to the right of competent authorities to be duly informed, the members of the risk committee shall be bound by confidentiality. Where the chairman of the risk committee determines that a member has an actual or potential conflict of interest on a particular matter, that member shall not be allowed to vote on that matter.
+
+5. A CCP shall promptly inform the competent authority of any decision in which the board decides not to follow the advice of the risk committee.
+
+<a id="art_29"></a>
+
+### Article 29 — Record keeping
+
+1. A CCP shall maintain, for a period of at least 10 years, all the records on the services and activity provided so as to enable the competent authority to monitor the CCP’s compliance with this Regulation.
+
+2. A CCP shall maintain, for a period of at least 10 years following the termination of a contract, all information on all contracts it has processed. That information shall at least enable the identification of the original terms of a transaction before clearing by that CCP.
+
+3. A CCP shall make the records and information referred to in paragraphs 1 and 2 and all information on the positions of cleared contracts, irrespective of the venue where the transactions were executed, available upon request to the competent authority, to ESMA and to the relevant members of the ESCB.
+
+4. In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the details of the records and information to be retained as referred to in paragraphs 1 to 3.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+5. In order to ensure uniform conditions of application of paragraphs 1 and 2, ESMA shall develop draft implementing technical standards specifying the format of the records and information to be retained.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 30 September 2012.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_30"></a>
+
+### Article 30 — Shareholders and members with qualifying holdings
+
+1. The competent authority shall not authorise a CCP unless it has been informed of the identities of the shareholders or members, whether direct or indirect, natural or legal persons, that have qualifying holdings and of the amounts of those holdings.
+
+2. The competent authority shall refuse to authorise a CCP where it is not satisfied as to the suitability of the shareholders or members that have qualifying holdings in the CCP, taking into account the need to ensure the sound and prudent management of a CCP.
+
+3. Where close links exist between the CCP and other natural or legal persons, the competent authority shall grant authorisation only where those links do not prevent the effective exercise of the supervisory functions of the competent authority.
+
+4. Where the persons referred to in paragraph 1 exercise an influence which is likely to be prejudicial to the sound and prudent management of the CCP, the competent authority shall take appropriate measures to terminate that situation, which may include the withdrawal of the authorisation of the CCP.
+
+5. The competent authority shall refuse authorisation where the laws, regulations or administrative provisions of a third country governing one or more natural or legal persons with which the CCP has close links, or difficulties involved in their enforcement, prevent the effective exercise of the supervisory functions of the competent authority.
+
+<a id="art_31"></a>
+
+### Article 31 — Information to competent authorities
+
+1. A CCP shall notify its competent authority of any changes to its management, and shall provide the competent authority with all the information necessary to assess compliance with Article 27(1) and the second subparagraph of Article 27(2).
+
+Where the conduct of a member of the board is likely to be prejudicial to the sound and prudent management of the CCP, the competent authority shall take appropriate measures, which may include removing that member from the board.
+
+2. Any natural or legal person or such persons acting in concert (the ‘proposed acquirer’), who have taken a decision either to acquire, directly or indirectly, a qualifying holding in a CCP or to further increase, directly or indirectly, such a qualifying holding in a CCP as a result of which the proportion of the voting rights or of the capital held would reach or exceed 10 %, 20 %, 30 % or 50 % or so that the CCP would become its subsidiary (the ‘proposed acquisition’), shall first notify in writing the competent authority of the CCP in which they are seeking to acquire or increase a qualifying holding, indicating the size of the intended holding and relevant information, as referred to in Article 32(4).
+
+Any natural or legal person who has taken a decision to dispose, directly or indirectly, of a qualifying holding in a CCP (the ‘proposed vendor’) shall first notify the competent authority in writing thereof, indicating the size of such holding. Such a person shall likewise notify the competent authority where it has taken a decision to reduce a qualifying holding so that the proportion of the voting rights or of the capital held would fall below 10 %, 20 %, 30 % or 50 % or so that the CCP would cease to be that person’s subsidiary.
+
+The competent authority shall, promptly and in any event within two working days of receipt of the notification referred to in this paragraph and of the information referred to in paragraph 3, acknowledge receipt in writing thereof to the proposed acquirer or vendor.
+
+The competent authority shall have a maximum of 60 working days as from the date of the written acknowledgement of receipt of the notification and all documents required to be attached to the notification on the basis of the list referred to in Article 32(4) (the assessment period), to carry out the assessment provided for in Article 32(1) (the assessment).
+
+The competent authority shall inform the proposed acquirer or vendor of the date of the expiry of the assessment period at the time of acknowledging receipt.
+
+3. The competent authority may, during the assessment period, where necessary, but no later than on the 50th working day of the assessment period, request any further information that is necessary to complete the assessment. Such request shall be made in writing and shall specify the additional information needed.
+
+The assessment period shall be interrupted for the period between the date of request for information by the competent authority and the receipt of a response thereto by the proposed acquirer. The interruption shall not exceed 20 working days. Any further requests by the competent authority for completion or clarification of the information shall be at its discretion but may not result in an interruption of the assessment period.
+
+4. The competent authority may extend the interruption referred to in the second subparagraph of paragraph 3 up to 30 working days where the proposed acquirer or vendor is either:
+
+(a) situated or regulated outside the Union;
+
+(b) a natural or legal person not subject to supervision under this Regulation or Directive 73/239/EEC, Council Directive 92/49/EEC of 18 June 1992 on the coordination of laws, regulations and administrative provisions relating to direct insurance other than life assurance (15) or Directives 2002/83/EC, 2003/41/EC, 2004/39/EC, 2005/68/EC, 2006/48/EC, 2009/65/EC or 2011/61/EU.
+
+5. Where the competent authority, upon completion of the assessment, decides to oppose the proposed acquisition, it shall, within two working days, and not exceeding the assessment period, inform the proposed acquirer in writing and provide the reasons for that decision. The competent authority shall notify the college referred to in Article 18 accordingly. Subject to national law, an appropriate statement of the reasons for the decision may be made accessible to the public at the request of the proposed acquirer. However, Member States may allow a competent authority to make such disclosure in the absence of a request by the proposed acquirer.
+
+6. Where the competent authority does not oppose the proposed acquisition within the assessment period, it shall be deemed to be approved.
+
+7. The competent authority may fix a maximum period for concluding the proposed acquisition and extend it where appropriate.
+
+8. Member States shall not impose requirements for notification to, and approval by, the competent authority of direct or indirect acquisitions of voting rights or capital that are more stringent than those set out in this Regulation.
+
+<a id="art_32"></a>
+
+### Article 32 — Assessment
+
+1. Where assessing the notification provided for in Article 31(2) and the information referred to in Article 31(3), the competent authority shall, in order to ensure the sound and prudent management of the CCP in which an acquisition is proposed, and having regard to the likely influence of the proposed acquirer on the CCP, appraise the suitability of the proposed acquirer and the financial soundness of the proposed acquisition against all of the following:
+
+(a) the reputation and financial soundness of the proposed acquirer;
+
+(b) the reputation and experience of any person who will direct the business of the CCP as a result of the proposed acquisition;
+
+(c) whether the CCP will be able to comply and continue to comply with this Regulation;
+
+(d) whether there are reasonable grounds to suspect that, in connection with the proposed acquisition, money laundering or terrorist financing within the meaning of Article 1 of Directive 2005/60/EC is being or has been committed or attempted, or that the proposed acquisition could increase the risk thereof.
+
+Where assessing the financial soundness of the proposed acquirer, the competent authority shall pay particular attention to the type of business pursued and envisaged in the CCP in which the acquisition is proposed.
+
+Where assessing the CCP’s ability to comply with this Regulation, the competent authority shall pay particular attention to whether the group of which it will become a part has a structure that makes it possible to exercise effective supervision, to effectively exchange information among the competent authorities and to determine the allocation of responsibilities among the competent authorities.
+
+2. The competent authorities may oppose the proposed acquisition only where there are reasonable grounds for doing so on the basis of the criteria set out in paragraph 1 or where the information provided by the proposed acquirer is incomplete.
+
+3. Member States shall neither impose any prior conditions in respect of the level of holding that shall be acquired nor allow their competent authorities to examine the proposed acquisition in terms of the economic needs of the market.
+
+4. Member States shall make publicly available a list specifying the information that is necessary to carry out the assessment and that shall be provided to the competent authorities at the time of notification referred to in Article 31(2). The information required shall be proportionate and shall be adapted to the nature of the proposed acquirer and the proposed acquisition. Member States shall not require information that is not relevant for a prudential assessment.
+
+5. Notwithstanding Article 31(2), (3) and (4), where two or more proposals to acquire or increase qualifying holdings in the same CCP have been notified to the competent authority, the latter shall treat the proposed acquirers in a non-discriminatory manner.
+
+6. The relevant competent authorities shall cooperate closely with each other when carrying out the assessment where the proposed acquirer is one of the following:
+
+(a) another CCP, a credit institution, assurance undertaking, insurance undertaking, reinsurance undertaking, investment firm, market operator, an operator of a securities settlement system, a UCITS management company or an AIFM authorised in another Member State;
+
+(b) the parent undertaking of another CCP, a credit institution, assurance undertaking, insurance undertaking, reinsurance undertaking, investment firm, market operator, an operator of a securities settlement system, a UCITS management company or an AIFM authorised in another Member State;
+
+(c) a natural or legal person controlling another CCP, a credit institution, assurance undertaking, insurance undertaking, reinsurance undertaking, investment firm, market operator, an operator of a securities settlement system, a UCITS management company or an AIFM authorised in another Member State.
+
+7. The competent authorities shall, without undue delay, provide each other with any information which is essential or relevant for the assessment. The competent authorities shall, upon request, communicate all relevant information to each other and shall communicate all essential information at their own initiative. A decision by the competent authority that has authorised the CCP in which the acquisition is proposed shall indicate any views or reservations expressed by the competent authority responsible for the proposed acquirer.
+
+<a id="art_33"></a>
+
+### Article 33 — Conflicts of interest
+
+1. A CCP shall maintain and operate effective written organisational and administrative arrangements to identify and manage any potential conflicts of interest between itself, including its managers, employees, or any person with direct or indirect control or close links, and its clearing members or their clients known to the CCP. It shall maintain and implement adequate procedures aiming at resolving possible conflicts of interest.
+
+2. Where the organisational or administrative arrangements of a CCP to manage conflicts of interest are not sufficient to ensure, with reasonable confidence, that risks of damage to the interests of a clearing member or client are prevented, it shall clearly disclose the general nature or sources of conflicts of interest to the clearing member before accepting new transactions from that clearing member. Where the client is known to the CCP, the CCP shall inform the client and the clearing member whose client is concerned.
+
+3. Where the CCP is a parent undertaking or a subsidiary, the written arrangements shall also take into account any circumstances, of which the CCP is or should be aware, which may give rise to a conflict of interest arising as a result of the structure and business activities of other undertakings with which it has a parent undertaking or a subsidiary relationship.
+
+4. The written arrangements established in accordance with paragraph 1 shall include the following:
+
+(a) the circumstances which constitute or may give rise to a conflict of interest entailing a material risk of damage to the interests of one or more clearing members or clients;
+
+(b) procedures to be followed and measures to be adopted in order to manage such conflict.
+
+5. A CCP shall take all reasonable steps to prevent any misuse of the information held in its systems and shall prevent the use of that information for other business activities. A natural person who has a close link to a CCP or a legal person that has a parent undertaking or a subsidiary relationship with a CCP shall not use confidential information recorded in that CCP for any commercial purposes without the prior written consent of the client to whom such confidential information belongs.
+
+<a id="art_34"></a>
+
+### Article 34 — Business continuity
+
+1. A CCP shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan aiming at ensuring the preservation of its functions, the timely recovery of operations and the fulfilment of the CCP’s obligations. Such a plan shall at least allow for the recovery of all transactions at the time of disruption to allow the CCP to continue to operate with certainty and to complete settlement on the scheduled date.
+
+2. A CCP shall establish, implement and maintain an adequate procedure ensuring the timely and orderly settlement or transfer of the assets and positions of clients and clearing members in the event of a withdrawal of authorisation pursuant to a decision under Article 20.
+
+3. In order to ensure consistent application of this Article, ESMA shall, after consulting the members of the ESCB, develop draft regulatory technical standards specifying the minimum content and requirements of the business continuity policy and of the disaster recovery plan.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_35"></a>
+
+### Article 35 — Outsourcing
+
+1. Where a CCP outsources operational functions, services or activities, it shall remain fully responsible for discharging all of its obligations under this Regulation and shall ensure at all times that:
+
+(a) outsourcing does not result in the delegation of its responsibility;
+
+(b) the relationship and obligations of the CCP towards its clearing members or, where relevant, towards their clients are not altered;
+
+(c) the conditions for authorisation of the CCP do not effectively change;
+
+(d) outsourcing does not prevent the exercise of supervisory and oversight functions, including on-site access to acquire any relevant information needed to fulfil those mandates;
+
+(e) outsourcing does not result in depriving the CCP from the necessary systems and controls to manage the risks it faces;
+
+(f) the service provider implements equivalent business continuity requirements to those that the CCP must fulfil under this Regulation;
+
+(g) the CCP retains the necessary expertise and resources to evaluate the quality of the services provided and the organisational and capital adequacy of the service provider, and to supervise the outsourced functions effectively and manage the risks associated with the outsourcing and supervises those functions and manages those risks on an ongoing basis;
+
+(h) the CCP has direct access to the relevant information of the outsourced functions;
+
+(i) the service provider cooperates with the competent authority in connection with the outsourced activities;
+
+(j) the service provider protects any confidential information relating to the CCP and its clearing members and clients or, where that service provider is established in a third country, ensures that the data protection standards of that third country, or those set out in the agreement between the parties concerned, are comparable to the data protection standards in effect in the Union.
+
+A CCP shall not outsource major activities linked to risk management unless such outsourcing is approved by the competent authority.
+
+2. The competent authority shall require the CCP to allocate and set out its rights and obligations, and those of the service provider, clearly in a written agreement.
+
+3. A CCP shall make all information necessary to enable the competent authority to assess the compliance of the performance of the outsourced activities with this Regulation available on request.
+
+## *CHAPTER 2*
+
+### ***Conduct of business rules***
+
+<a id="art_36"></a>
+
+### Article 36 — General provisions
+
+1. When providing services to its clearing members, and where relevant, to their clients, a CCP shall act fairly and professionally in accordance with the best interests of such clearing members and clients and sound risk management.
+
+2. A CCP shall have accessible, transparent and fair rules for the prompt handling of complaints.
+
+<a id="art_37"></a>
+
+### Article 37 — Participation requirements
+
+1. A CCP shall establish, where relevant per type of product cleared, the categories of admissible clearing members and the admission criteria, upon the advice of the risk committee pursuant to Article 28(3). Such criteria shall be non-discriminatory, transparent and objective so as to ensure fair and open access to the CCP and shall ensure that clearing members have sufficient financial resources and operational capacity to meet the obligations arising from participation in a CCP. Criteria that restrict access shall be permitted only to the extent that their objective is to control the risk for the CCP.
+
+2. A CCP shall ensure that the application of the criteria referred to in paragraph 1 is met on an ongoing basis and shall have timely access to the information relevant for such assessment. A CCP shall conduct, at least once a year, a comprehensive review of compliance with this Article by its clearing members.
+
+3. Clearing members that clear transactions on behalf of their clients shall have the necessary additional financial resources and operational capacity to perform this activity. The CCP’s rules for clearing members shall allow it to gather relevant basic information to identify, monitor and manage relevant concentrations of risk relating to the provision of services to clients. Clearing members shall, upon request, inform the CCP about the criteria and arrangements they adopt to allow their clients to access the services of the CCP. Responsibility for ensuring that clients comply with their obligations shall remain with clearing members.
+
+4. A CCP shall have objective and transparent procedures for the suspension and orderly exit of clearing members that no longer meet the criteria referred to in paragraph 1.
+
+5. A CCP may only deny access to clearing members meeting the criteria referred to in paragraph 1 where duly justified in writing and based on a comprehensive risk analysis.
+
+6. A CCP may impose specific additional obligations on clearing members, such as the participation in auctions of a defaulting clearing member’s position. Such additional obligations shall be proportional to the risk brought by the clearing member and shall not restrict participation to certain categories of clearing members.
+
+<a id="art_38"></a>
+
+### Article 38 — Transparency
+
+1. A CCP and its clearing members shall publicly disclose the prices and fees associated with the services provided. They shall disclose the prices and fees of each service provided separately, including discounts and rebates and the conditions to benefit from those reductions. A CCP shall allow its clearing members and, where relevant, their clients separate access to the specific services provided.
+
+A CCP shall account separately for costs and revenues of the services provided and shall disclose that information to the competent authority.
+
+2. A CCP shall disclose to clearing members and clients the risks associated with the services provided.
+
+3. A CCP shall disclose to its clearing members and to its competent authority the price information used to calculate its end-of-day exposures to its clearing members.
+
+A CCP shall publicly disclose the volumes of the cleared transactions for each class of instruments cleared by the CCP on an aggregated basis.
+
+4. A CCP shall publicly disclose the operational and technical requirements relating to the communication protocols covering content and message formats it uses to interact with third parties, including the operational and technical requirements referred to in Article 7.
+
+5. A CCP shall publicly disclose any breaches by clearing members of the criteria referred to in Article 37(1) and the requirements laid down in paragraph 1 of this Article, except where the competent authority, after consulting ESMA, considers that such disclosure would constitute a threat to financial stability or to market confidence or would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved.
+
+6. A CCP shall provide its clearing members with a simulation tool allowing them to determine the amount of additional initial margin, on a gross basis, that the CCP may require upon the clearing of a new transaction. That tool shall only be accessible on a secured access basis, and the results of the simulation shall not be binding.
+
+7. A CCP shall provide its clearing members with information on the initial margin models it uses. That information shall:
+
+(a) clearly explain the design of the initial margin model and how it operates;
+
+(b) clearly describe the key assumptions and limitations of the initial margin model and the circumstances under which those assumptions are no longer valid;
+
+(c) be documented.
+
+<a id="art_39"></a>
+
+### Article 39 — Segregation and portability
+
+1. A CCP shall keep separate records and accounts that shall enable it, at any time and without delay, to distinguish in accounts with the CCP the assets and positions held for the account of one clearing member from the assets and positions held for the account of any other clearing member and from its own assets.
+
+2. A CCP shall offer to keep separate records and accounts enabling each clearing member to distinguish in accounts with the CCP the assets and positions of that clearing member from those held for the accounts of its clients (‘omnibus client segregation’).
+
+3. A CCP shall offer to keep separate records and accounts enabling each clearing member to distinguish in accounts with the CCP the assets and positions held for the account of a client from those held for the account of other clients (‘individual client segregation’). Upon request, the CCP shall offer clearing members the possibility to open more accounts in their own name or for the account of their clients.
+
+4. A clearing member shall keep separate records and accounts that enable it to distinguish both in accounts held with the CCP and in its own accounts its assets and positions from the assets and positions held for the account of its clients at the CCP.
+
+5. A clearing member shall offer its clients, at least, the choice between omnibus client segregation and individual client segregation and inform them of the costs and level of protection referred to in paragraph 7 associated with each option. The client shall confirm its choice in writing.
+
+6. When a client opts for individual client segregation, any margin in excess of the client’s requirement shall also be posted to the CCP and distinguished from the margins of other clients or clearing members and shall not be exposed to losses connected to positions recorded in another account.
+
+7. CCPs and clearing members shall publicly disclose the levels of protection and the costs associated with the different levels of segregation that they provide and shall offer those services on reasonable commercial terms. Details of the different levels of segregation shall include a description of the main legal implications of the respective levels of segregation offered including information on the insolvency law applicable in the relevant jurisdictions.
+
+8. A CCP shall have a right of use relating to the margins or default fund contributions collected via a security financial collateral arrangement, within the meaning of Article 2(1)(c) of Directive 2002/47/EC of the European Parliament and of the Council of 6 June 2002 on financial collateral arrangements (16) provided that the use of such arrangements is provided for in its operating rules. The clearing member shall confirm its acceptance of the operating rules in writing. The CCP shall publicly disclose that right of use, which shall be exercised in accordance with Article 47.
+
+9. The requirement to distinguish assets and positions with the CCP in accounts is satisfied where:
+
+(a) the assets and positions are recorded in separate accounts;
+
+(b) the netting of positions recorded on different accounts is prevented;
+
+(c) the assets covering the positions recorded in an account are not exposed to losses connected to positions recorded in another account.
+
+10. Assets refer to collateral held to cover positions and include the right to the transfer of assets equivalent to that collateral or the proceeds of the realisation of any collateral, but does not include default fund contributions.
+
+11. Member States' national insolvency laws shall not prevent a CCP from acting in accordance with Article 48(5), (6) and (7) with regard to the assets and positions recorded in accounts as referred to in paragraphs 2 to 5 of this Article.
+
+## *CHAPTER 3*
+
+### ***Prudential requirements***
+
+<a id="art_40"></a>
+
+### Article 40 — Exposure management
+
+A CCP shall measure and assess its liquidity and credit exposures to each clearing member and, where relevant, to another CCP with which it has concluded an interoperability arrangement, on a near to real-time basis. A CCP shall have access in a timely manner and on a non-discriminatory basis to the relevant pricing sources to effectively measure its exposures. This shall be done on a reasonable cost basis.
+
+<a id="art_41"></a>
+
+### Article 41 — Margin requirements
+
+1. A CCP shall impose, call and collect margins to limit its credit exposures from its clearing members and, where relevant, from CCPs with which it has interoperability arrangements. Such margins shall be sufficient to cover potential exposures that the CCP estimates will occur until the liquidation of the relevant positions. They shall also be sufficient to cover losses that result from at least 99 % of the exposures movements over an appropriate time horizon and they shall ensure that a CCP fully collateralises its exposures with all its clearing members, and, where relevant, with CCPs with which it has interoperability arrangements, at least on a daily basis. A CCP shall regularly monitor and, if necessary, revise the level of its margins to reflect current market conditions taking into account any potentially procyclical effects of such revisions.
+
+2. A CCP shall adopt models and parameters in setting its margin requirements that capture the risk characteristics of the products cleared and take into account the interval between margin collections, market liquidity and the possibility of changes over the duration of the transaction. The models and parameters shall be validated by the competent authority and subject to an opinion in accordance with Article 19.
+
+3. A CCP shall call and collect margins on an intraday basis, at least when predefined thresholds are exceeded.
+
+4. A CCP shall call and collect margins that are adequate to cover the risk stemming from the positions registered in each account kept in accordance with Article 39 with respect to specific financial instruments. A CCP may calculate margins with respect to a portfolio of financial instruments provided that the methodology used is prudent and robust.
+
+5. In order to ensure consistent application of this Article, ESMA shall, after consulting EBA and the ESCB, develop draft regulatory technical standards specifying the appropriate percentage and time horizons for the liquidation period and the calculation of historical volatility, as referred to in paragraph 1, to be considered for the different classes of financial instruments, taking into account the objective to limit procyclicality, and the conditions under which portfolio margining practices referred to in paragraph 4 can be implemented.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_42"></a>
+
+### Article 42 — Default fund
+
+1. To limit its credit exposures to its clearing members further, a CCP shall maintain a pre-funded default fund to cover losses that exceed the losses to be covered by margin requirements laid down in Article 41, arising from the default, including the opening of an insolvency procedure, of one or more clearing members.
+
+The CCP shall establish a minimum amount below which the size of the default fund is not to fall under any circumstances.
+
+2. A CCP shall establish the minimum size of contributions to the default fund and the criteria to calculate the contributions of the single clearing members. The contributions shall be proportional to the exposures of each clearing member.
+
+3. The default fund shall at least enable the CCP to withstand, under extreme but plausible market conditions, the default of the clearing member to which it has the largest exposures or of the second and third largest clearing members, if the sum of their exposures is larger. A CCP shall develop scenarios of extreme but plausible market conditions. The scenarios shall include the most volatile periods that have been experienced by the markets for which the CCP provides its services and a range of potential future scenarios. They shall take into account sudden sales of financial resources and rapid reductions in market liquidity.
+
+4. A CCP may establish more than one default fund for the different classes of instrument that it clears.
+
+5. In order to ensure consistent application of this Article, ESMA shall, in close cooperation with the ESCB and after consulting EBA, develop draft regulatory technical standards specifying the framework for defining extreme but plausible market conditions referred to in paragraph 3, that should be used when defining the size of the default fund and the other financial resources referred to in Article 43.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_43"></a>
+
+### Article 43 — Other financial resources
+
+1. A CCP shall maintain sufficient pre-funded available financial resources to cover potential losses that exceed the losses to be covered by margin requirements laid down in Article 41 and the default fund as referred to in Article 42. Such pre-funded financial resources shall include dedicated resources of the CCP, shall be freely available to the CCP and shall not be used to meet the capital required under Article 16.
+
+2. The default fund referred to in Article 42 and the other financial resources referred to in paragraph 1 of this Article shall at all times enable the CCP to withstand the default of at least the two clearing members to which it has the largest exposures under extreme but plausible market conditions.
+
+3. A CCP may require non-defaulting clearing members to provide additional funds in the event of a default of another clearing member. The clearing members of a CCP shall have limited exposures toward the CCP.
+
+<a id="art_44"></a>
+
+### Article 44 — Liquidity risk controls
+
+1. A CCP shall at all times have access to adequate liquidity to perform its services and activities. To that end, it shall obtain the necessary credit lines or similar arrangements to cover its liquidity needs in case the financial resources at its disposal are not immediately available. A clearing member, parent undertaking or subsidiary of that clearing member together shall not provide more than 25 % of the credit lines needed by the CCP.
+
+A CCP shall measure, on a daily basis, its potential liquidity needs. It shall take into account the liquidity risk generated by the default of at least the two clearing members to which it has the largest exposures.
+
+2. In order to ensure consistent application of this Article, ESMA shall, after consulting the relevant authorities and the members of the ESCB, develop draft regulatory technical standards specifying the framework for managing the liquidity risk that CCPs are to withstand in accordance with paragraph 1.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_45"></a>
+
+### Article 45 — Default waterfall
+
+1. A CCP shall use the margins posted by a defaulting clearing member prior to other financial resources in covering losses.
+
+2. Where the margins posted by the defaulting clearing member are not sufficient to cover the losses incurred by the CCP, the CCP shall use the default fund contribution of the defaulting member to cover those losses.
+
+3. A CCP shall use contributions to the default fund of the non-defaulting clearing members and any other financial resources referred to in Article 43(1) only after having exhausted the contributions of the defaulting clearing member.
+
+4. A CCP shall use dedicated own resources before using the default fund contributions of non-defaulting clearing members. A CCP shall not use the margins posted by non-defaulting clearing members to cover the losses resulting from the default of another clearing member.
+
+5. In order to ensure consistent application of this Article, ESMA, shall, after consulting the relevant competent authorities and the members of the ESCB, develop draft regulatory technical standards specifying the methodology for calculation and maintenance of the amount of the CCP’s own resources to be used in accordance with paragraph 4.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_46"></a>
+
+### Article 46 — Collateral requirements
+
+1. A CCP shall accept highly liquid collateral with minimal credit and market risk to cover its initial and ongoing exposure to its clearing members. For non-financial counterparties, a CCP may accept bank guarantees, taking such guarantees into account when calculating its exposure to a bank that is a clearing member. It shall apply adequate haircuts to asset values that reflect the potential for their value to decline over the interval between their last revaluation and the time by which they can reasonably be assumed to be liquidated. It shall take into account the liquidity risk following the default of a market participant and the concentration risk on certain assets that may result in establishing the acceptable collateral and the relevant haircuts.
+
+2. A CCP may accept, where appropriate and sufficiently prudent, the underlying of the derivative contract or the financial instrument that originates the CCP exposure as collateral to cover its margin requirements.
+
+3. In order to ensure consistent application of this Article, ESMA shall, after consulting EBA, the ESRB and the ESCB, develop draft regulatory technical standards specifying:
+
+(a) the type of collateral that could be considered highly liquid, such as cash, gold, government and high-quality corporate bonds and covered bonds;
+
+(b) the haircuts referred to in paragraph 1; and
+
+(c) the conditions under which commercial bank guarantees may be accepted as collateral under paragraph 1.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_47"></a>
+
+### Article 47 — Investment policy
+
+1. A CCP shall invest its financial resources only in cash or in highly liquid financial instruments with minimal market and credit risk. A CCP’s investments shall be capable of being liquidated rapidly with minimal adverse price effect.
+
+2. The amount of capital, including retained earnings and reserves of a CCP which are not invested in accordance with paragraph 1, shall not be taken into account for the purposes of Article 16(2) or Article 45(4).
+
+3. Financial instruments posted as margins or as default fund contributions shall, where available, be deposited with operators of securities settlement systems that ensure the full protection of those financial instruments. Alternatively, other highly secure arrangements with authorised financial institutions may be used.
+
+4. Cash deposits of a CCP shall be performed through highly secure arrangements with authorised financial institutions or, alternatively, through the use of the standing deposit facilities of central banks or other comparable means provided for by central banks.
+
+5. Where a CCP deposits assets with a third party, it shall ensure that the assets belonging to the clearing members are identifiable separately from the assets belonging to the CCP and from assets belonging to that third party by means of differently titled accounts on the books of the third party or any other equivalent measures that achieve the same level of protection. A CCP shall have prompt access to the financial instruments when required.
+
+6. A CCP shall not invest its capital or the sums arising from the requirements laid down in Article 41, 42, 43 or 44 in its own securities or those of its parent undertaking or its subsidiary.
+
+7. A CCP shall take into account its overall credit risk exposures to individual obligors in making its investment decisions and shall ensure that its overall risk exposure to any individual obligor remains within acceptable concentration limits.
+
+8. In order to ensure consistent application of this Article, ESMA shall, after consulting EBA and the ESCB, develop draft regulatory technical standards specifying the financial instruments that can be considered highly liquid, bearing minimal credit and market risk as referred to in paragraph 1, the highly secured arrangements referred to in paragraphs 3 and 4 and the concentration limits referred to in paragraph 7.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_48"></a>
+
+### Article 48 — Default procedures
+
+1. A CCP shall have detailed procedures in place to be followed where a clearing member does not comply with the participation requirements of the CCP laid down in Article 37 within the time limit and in accordance with the procedures established by the CCP. The CCP shall set out in detail the procedures to be followed in the event the default of a clearing member is not declared by the CCP. Those procedures shall be reviewed annually.
+
+2. A CCP shall take prompt action to contain losses and liquidity pressures resulting from defaults and shall ensure that the closing out of any clearing member’s positions does not disrupt its operations or expose the non-defaulting clearing members to losses that they cannot anticipate or control.
+
+3. Where a CCP considers that the clearing member will not be able to meet its future obligations, it shall promptly inform the competent authority before the default procedure is declared or triggered. The competent authority shall promptly communicate that information to ESMA, to the relevant members of the ESCB and to the authority responsible for the supervision of the defaulting clearing member.
+
+4. A CCP shall verify that its default procedures are enforceable. It shall take all reasonable steps to ensure that it has the legal powers to liquidate the proprietary positions of the defaulting clearing member and to transfer or liquidate the clients’ positions of the defaulting clearing member.
+
+5. Where assets and positions are recorded in the records and accounts of a CCP as being held for the account of a defaulting clearing member’s clients in accordance with Article 39(2), the CCP shall, at least, contractually commit itself to trigger the procedures for the transfer of the assets and positions held by the defaulting clearing member for the account of its clients to another clearing member designated by all of those clients, on their request and without the consent of the defaulting clearing member. That other clearing member shall be obliged to accept those assets and positions only where it has previously entered into a contractual relationship with the clients by which it has committed itself to do so. If the transfer to that other clearing member has not taken place for any reason within a predefined transfer period specified in its operating rules, the CCP may take all steps permitted by its rules to actively manage its risks in relation to those positions, including liquidating the assets and positions held by the defaulting clearing member for the account of its clients.
+
+6. Where assets and positions are recorded in the records and accounts of a CCP as being held for the account of a defaulting clearing member’s client in accordance with Article 39(3), the CCP shall, at least, contractually commit itself to trigger the procedures for the transfer of the assets and positions held by the defaulting clearing member for the account of the client to another clearing member designated by the client, on the client’s request and without the consent of the defaulting clearing member. That other clearing member shall be obliged to accept these assets and positions only where it has previously entered into a contractual relationship with the client by which it has committed itself to do so. If the transfer to that other clearing member has not taken place for any reason within a predefined transfer period specified in its operating rules, the CCP may take all steps permitted by its rules to actively manage its risks in relation to those positions, including liquidating the assets and positions held by the defaulting clearing member for the account of the client.
+
+7. Clients’ collateral distinguished in accordance with Article 39(2) and (3) shall be used exclusively to cover the positions held for their account. Any balance owed by the CCP after the completion of the clearing member’s default management process by the CCP shall be readily returned to those clients when they are known to the CCP or, if they are not, to the clearing member for the account of its clients.
+
+<a id="art_49"></a>
+
+### Article 49 — Review of models, stress testing and back testing
+
+1. A CCP shall regularly review the models and parameters adopted to calculate its margin requirements, default fund contributions, collateral requirements and other risk control mechanisms. It shall subject the models to rigorous and frequent stress tests to assess their resilience in extreme but plausible market conditions and shall perform back tests to assess the reliability of the methodology adopted. The CCP shall obtain independent validation, shall inform its competent authority and ESMA of the results of the tests performed and shall obtain their validation before adopting any significant change to the models and parameters.
+
+The adopted models and parameters, including any significant change thereto, shall be subject to an opinion of the college pursuant to Article 19.
+
+ESMA shall ensure that information on the results of the stress tests is passed on to the ESAs to enable them to assess the exposure of financial undertakings to the default of CCPs.
+
+2. A CCP shall regularly test the key aspects of its default procedures and take all reasonable steps to ensure that all clearing members understand them and have appropriate arrangements in place to respond to a default event.
+
+3. A CCP shall publicly disclose key information on its risk-management model and assumptions adopted to perform the stress tests referred to in paragraph 1.
+
+4. In order to ensure consistent application of this Article, ESMA shall, after consulting EBA, other relevant competent authorities and the members of the ESCB, develop draft regulatory technical standards specifying:
+
+(a) the type of tests to be undertaken for different classes of financial instruments and portfolios;
+
+(b) the involvement of clearing members or other parties in the tests;
+
+(c) the frequency of the tests;
+
+(d) the time horizons of the tests;
+
+(e) the key information referred to in paragraph 3.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 30 September 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_50"></a>
+
+### Article 50 — Settlement
+
+1. A CCP shall, where practical and available, use central bank money to settle its transactions. Where central bank money is not used, steps shall be taken to strictly limit cash settlement risks.
+
+2. A CCP shall clearly state its obligations with respect to deliveries of financial instruments, including whether it has an obligation to make or receive delivery of a financial instrument or whether it indemnifies participants for losses incurred in the delivery process.
+
+3. Where a CCP has an obligation to make or receive deliveries of financial instruments, it shall eliminate principal risk through the use of delivery-versus-payment mechanisms to the extent possible.
+
+## CHAPTER 4
+
+### Calculations and reporting for the purposes of Regulation (EU) No 575/2013
+
+<a id="art_50a"></a>
+
+### Article 50a — Calculation of KCCP
+
+1. For the purposes of Article 308 of Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms (17), a CCP shall calculate KCCP as specified in paragraph 2 of this Article for all contracts and transactions it clears for all its clearing members falling within the coverage of the given default fund.
+
+2. A CCP shall calculate the hypothetical capital (KCCP) as follows:
+
+where:
+
+| EBRMi | = | exposure value before risk mitigation that is equal to the exposure value of the CCP to clearing member i arising from all the contracts and transactions with that clearing member, calculated without taking into account the collateral posted by that clearing member; |
+| --- | --- | --- |
+
+| IMi | = | the initial margin posted to the CCP by clearing member i; |
+| --- | --- | --- |
+
+| DFi | = | the pre-funded contribution of clearing member i; |
+| --- | --- | --- |
+
+| RW | = | a risk weight of 20 %; |
+| --- | --- | --- |
+
+| capital ratio | = | 8 %. |
+| --- | --- | --- |
+
+All values in the formula in the first subparagraph shall relate to the valuation at the end of the day before the margin called on the final margin call of that day is exchanged.
+
+3. A CCP shall undertake the calculation required by paragraph 2 at least quarterly or more frequently where required by the competent authorities of those of its clearing members which are institutions.
+
+4. For the purpose of paragraph 3, EBA shall develop draft implementing technical standards to specify the following:
+
+(a) the frequency and dates of the calculation laid down in paragraph 2;
+
+(b) the situations in which the competent authority of an institution acting as a clearing member may require higher frequencies of calculation and reporting than those referred to in point (a).
+
+EBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No1093/2010.
+
+<a id="art_50b"></a>
+
+### Article 50b — General rules for the calculation of KCCP
+
+For the purposes of the calculation laid down in Article 50a(2), the following shall apply:
+
+(a) a CCP shall calculate the value of the exposures it has to its clearing members as follows:
+
+(i) for exposures arising from contracts and transactions listed in Article 301(1)(a) and (d) of Regulation (EU) No 575/2013 it shall calculate them in accordance with the mark-to-market method laid down in Article 274 thereof;
+
+(ii) for exposures arising from contracts and transactions listed in Article 301(1)(b), (c) and (e) of Regulation (EU) No 575/2013 it shall calculate them in accordance with the Financial Collateral Comprehensive Method specified in Article 223 of that Regulation with supervisory volatility adjustments, specified in Articles 223 and 224 of that Regulation. The exception set out in point (a) of Article 285(3) of that Regulation, shall not apply;
+
+(iii) for exposures arising from transactions not listed in Article 301(1) of Regulation (EU) No 575/2013 and which entails settlement risk only it shall calculate them in accordance with Part Three, Title V of that Regulation;
+
+(b) for institutions that fall under the scope of Regulation (EU) No 575/2013 the netting sets are the same as those defined in Part Three, Title II of that Regulation;
+
+(c) when calculating the values referred to in point (a), the CCP shall subtract from its exposures the collateral posted by its clearing members, appropriately reduced by the supervisory volatility adjustments in accordance with the Financial Collateral Comprehensive Method specified in Article 224 of Regulation (EU) No 575/2013;
+
+(e) where a CCP has exposures to one or more CCPs it shall treat any such exposures as if they were exposures to clearing members and include any margin or pre-funded contributions received from those CCPs in the calculation of KCCP;
+
+(f) where a CCP has in place a binding contractual arrangement with its clearing members that allows it to use all or part of the initial margin received from its clearing members as if they were pre-funded contributions, the CCP shall consider that initial margin as prefunded contributions for the purposes of the calculation in paragraph 1 and not as initial margin;
+
+(h) when applying the Mark-to-Market Method as set out in Article 274 of Regulation (EU) No 575/2013, a CCP shall replace the formula in point (c)(ii) of Article 298(1) of that Regulation with the following:
+
+where the numerator of NGR is calculated in accordance with Article 274(1) of that Regulation and just before the variation margin is actually exchanged at the end of the settlement period, and the denominator is gross replacement cost;
+
+(i) where a CCP cannot calculate the value of NGR as set out in point (c)(ii) of Article 298(1) of Regulation (EU) No 575/2013, it shall:
+
+(i) notify those of its clearing members which are institutions and their competent authorities about its inability to calculate NGR and the reasons why it is unable to carry out the calculation;
+
+(ii) for a period of three months, it may use a value of NGR of 0,3 to perform the calculation of PCEred specified in point (h) of this Article;
+
+(j) where, at the end of the period specified in point (ii) of point (i), the CCP would still be unable to calculate the value of NGR, it shall do the following:
+
+(i) stop calculating KCCP;
+
+(ii) notify those of its clearing members which are institutions and their competent authorities that it has stopped calculating KCCP;
+
+(k) for the purpose of calculating the potential future exposure for options and swaptions in accordance with the Mark-to-Market Method specified in Article 274 of Regulation (EU) No 575/2013, a CCP shall multiply the notional amount of the contract by the absolute value of the option's delta (*δV*/ *δp*) as set out in point (a) of Article 280(1) of that Regulation;
+
+(l) where a CCP has more than one default fund, it shall carry out the calculation laid down in Article 50a(2) for each default fund separately.
+
+<a id="art_50c"></a>
+
+### Article 50c — Reporting of information
+
+1. For the purposes of Article 308 of Regulation (EU) No 575/2013, a CCP shall report the following information to those of its clearing members which are institutions and to their competent authorities:
+
+(a) the hypothetical capital (KCCP);
+
+(b) the sum of pre-funded contributions (DFCM);
+
+(c) the amount of its pre-funded financial resources that it is required to use — by law or due to a contractual agreement with its clearing members — to cover its losses following the default of one or more of its clearing members before using the default fund contributions of the remaining clearing members (DFCCP);
+
+(d) the total number of its clearing members (N);
+
+(e) the concentration factor (β), as set out in Article 50d.
+
+Where the CCP has more than one default fund, it shall report the information in the first subparagraph for each default fund separately.
+
+2. The CCP shall notify those of its clearing members which are institutions at least quarterly or more frequently where required by the competent authorities of those clearing members.
+
+3. EBA shall develop draft implementing technical standards to specify the following:
+
+(a) the uniform template for the purpose of the reporting specified in paragraph 1;
+
+(b) the frequency and dates of the reporting specified in paragraph 2;
+
+(c) the situations in which the competent authority of an institution acting as a clearing member may require higher frequencies of reporting than those referred to in point (b).
+
+EBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No1093/2010.
+
+<a id="art_50d"></a>
+
+### Article 50d — Calculation of specific items to be reported by the CCP
+
+For the purposes of Article 50c, the following shall apply:
+
+(a) where the rules of a CCP provide that it use part or all of its financial resources in parallel to the pre-funded contributions of its clearing members in a manner that makes those resources equivalent to pre-funded contributions of a clearing member in terms of how they absorb the losses incurred by the CCP in the case of the default or insolvency of one or more of its clearing members, the CCP shall add the corresponding amount of those resources to DFCM;
+
+(b) where the rules of a CCP provide that it use part or all of its financial resources to cover its losses due to the default of one or more of its clearing members after it has depleted its default fund, but before it calls on the contractually committed contributions of its clearing members, the CCP shall add the corresponding amount of those additional financial resources to the total amount of pre-funded contributions (DF) as follows:
+
+.
+
+(c) a CCP shall calculate the concentration factor (β) in accordance with the following formula:
+
+where:
+
+| PCEred,i | = | the reduced figure for potential future credit exposure for all contracts and transaction of a CCP with clearing member *i*; |
+| --- | --- | --- |
+
+| PCEred,1 | = | the reduced figure for potential future credit exposure for all contracts and transaction of a CCP with the clearing member that has the largest PCEred value; |
+| --- | --- | --- |
+
+| PCEred,2 | = | the reduced figure for potential future credit exposure for all contracts and transaction of a CCP with the clearing member that has the second largest PCEred value. |
+| --- | --- | --- |
+
+## TITLE V
+
+### **INTEROPERABILITY ARRANGEMENTS**
+
+<a id="art_51"></a>
+
+### Article 51 — Interoperability arrangements
+
+1. A CCP may enter into an interoperability arrangement with another CCP where the requirements laid down in Articles 52, 53 and 54 are fulfilled.
+
+2. When establishing an interoperability arrangement with another CCP for the purpose of providing services to a particular trading venue, the CCP shall have non-discriminatory access, both to the data that it needs for the performance of its functions from that particular trading venue, to the extent that the CCP complies with the operational and technical requirements established by the trading venue, and to the relevant settlement system.
+
+3. Entering into an interoperability arrangement or accessing a data feed or a settlement system referred to in paragraphs 1 and 2 shall be rejected or restricted, directly or indirectly, only in order to control any risk arising from that arrangement or access.
+
+<a id="art_52"></a>
+
+### Article 52 — Risk management
+
+1. CCPs that enter into an interoperability arrangement shall:
+
+(a) put in place adequate policies, procedures and systems to effectively identify, monitor and manage the risks arising from the arrangement so that they can meet their obligations in a timely manner;
+
+(b) agree on their respective rights and obligations, including the applicable law governing their relationships;
+
+(c) identify, monitor and effectively manage credit and liquidity risks so that a default of a clearing member of one CCP does not affect an interoperable CCP;
+
+(d) identify, monitor and address potential interdependences and correlations that arise from an interoperability arrangement that may affect credit and liquidity risks relating to clearing member concentrations, and pooled financial resources.
+
+For the purposes of point (b) of the first subparagraph, CCPs shall use the same rules concerning the moment of entry of transfer orders into their respective systems and the moment of irrevocability as set out in Directive 98/26/EC, where relevant.
+
+For the purposes of point (c) of the first subparagraph, the terms of the arrangement shall outline the process for managing the consequences of the default where one of the CCPs with which an interoperability arrangement has been concluded is in default.
+
+For the purposes of point (d) of the first subparagraph, CCPs shall have robust controls over the re-use of clearing members’ collateral under the arrangement, if permitted by their competent authorities. The arrangement shall outline how those risks have been addressed taking into account sufficient coverage and need to limit contagion.
+
+2. Where the risk-management models used by the CCPs to cover their exposure to their clearing members or their reciprocal exposures are different, the CCPs shall identify those differences, assess risks that may arise therefrom and take measures, including securing additional financial resources, that limit their impact on the interoperability arrangement as well as their potential consequences in terms of contagion risks and ensure that these differences do not affect each CCP’s ability to manage the consequences of the default of a clearing member.
+
+3. Any associated costs that arise from paragraphs 1 and 2 shall be borne by the CCP requesting interoperability or access, unless otherwise agreed between the parties.
+
+<a id="art_53"></a>
+
+### Article 53 — Provision of margins among CCPs
+
+1. A CCP shall distinguish in accounts the assets and positions held for the account of CCPs with whom it has entered into an interoperability arrangement.
+
+2. If a CCP that enters into an interoperability arrangement with another CCP only provides initial margins to that CCP under a security financial collateral arrangement, the receiving CCP shall have no right of use over the margins provided by the other CCP.
+
+3. Collateral received in the form of financial instruments shall be deposited with operators of securities settlement systems notified under Directive 98/26/EC.
+
+4. The assets referred to in paragraphs 1 and 2 shall be available to the receiving CCP only in case of default of the CCP which has provided the collateral in the context of an interoperability arrangement.
+
+5. In case of default of the CCP which has received the collateral in the context of an interoperability arrangement, the collateral referred to in paragraphs 1 and 2 shall be readily returned to the providing CCP.
+
+<a id="art_54"></a>
+
+### Article 54 — Approval of interoperability arrangements
+
+1. An interoperability arrangement shall be subject to the prior approval of the competent authorities of the CCPs involved. The procedure under Article 17 shall apply.
+
+2. The competent authorities shall grant approval of the interoperability arrangement only where the CCPs involved have been authorised to clear under Article 17 or recognised under Article 25 or authorised under a pre-existing national authorisation regime for a period of at least three years, the requirements laid down in Article 52 are met and the technical conditions for clearing transactions under the terms of the arrangement allow for a smooth and orderly functioning of financial markets and the arrangement does not undermine the effectiveness of supervision.
+
+3. Where a competent authority considers that the requirements laid down in paragraph 2 are not met, it shall provide explanations in writing regarding its risk considerations to the other competent authorities and the CCPs involved. It shall also notify ESMA, which shall issue an opinion on the effective validity of the risk considerations as grounds for denial of the interoperability arrangement. ESMA’s opinion shall be made available to all the CCPs involved. Where ESMA’s opinion differs from the assessment of the relevant competent authority, that competent authority shall reconsider its position, taking into account ESMA’s opinion.
+
+4. By 31 December 2012, ESMA shall issue guidelines or recommendations with a view to establishing consistent, efficient and effective assessments of interoperability arrangements, in accordance with the procedure laid down in Article 16 of Regulation (EU) No 1095/2010.
+
+ESMA shall develop drafts of those guidelines or recommendations after consulting the members of the ESCB.
+
+## *CHAPTER 1*
+
+### ***Conditions and procedures for registration of a trade repository***
+
+<a id="art_55"></a>
+
+### Article 55 — Registration of a trade repository
+
+1. A trade repository shall register with ESMA for the purposes of Article 9.
+
+2. To be eligible to be registered under this Article, a trade repository shall be a legal person established in the Union and meet the requirements laid down in Title VII.
+
+3. The registration of a trade repository shall be effective for the entire territory of the Union.
+
+4. A registered trade repository shall comply at all times with the conditions for registration. A trade repository shall, without undue delay, notify ESMA of any material changes to the conditions for registration.
+
+<a id="art_56"></a>
+
+### Article 56 — Application for registration
+
+1. For the purposes of Article 55(1), a trade repository shall submit either of the following to ESMA:
+
+(a) an application for registration;
+
+(b) an application for an extension of the registration where the trade repository is already registered under Chapter III of Regulation (EU) 2015/2365.
+
+2. ESMA shall assess whether the application is complete within 20 working days of receipt of the application.
+
+Where the application is not complete, ESMA shall set a deadline by which the trade repository is to provide additional information.
+
+After assessing an application as complete, ESMA shall notify the trade repository accordingly.
+
+3. To ensure the consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the following:
+
+(a) the details of the application for the registration referred to in point (a) of paragraph 1;
+
+(b) the details of the simplified application for the extension of the registration referred to in point (b) of paragraph 1.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2020.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+4. To ensure uniform conditions of application of paragraph 1, ESMA shall develop draft implementing technical standards specifying the following:
+
+(a) the format of the application for registration referred to in point (a) of paragraph 1;
+
+(b) the format of the application for an extension of the registration referred to in point (b) of paragraph 1.
+
+With regard to point (b) of the first subparagraph, ESMA shall develop a simplified format.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 18 June 2020.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+<a id="art_57"></a>
+
+### Article 57 — Notification of and consultation with competent authorities prior to registration
+
+1. If a trade repository which is applying for registration is an entity which is authorised or registered by a competent authority in the Member State where it is established, ESMA shall, without undue delay, notify and consult that competent authority prior to the registration of the trade repository.
+
+2. ESMA and the relevant competent authority shall exchange all information that is necessary for the registration of the trade repository as well as for the supervision of the entity’s compliance with the conditions of its registration or authorisation in the Member State where it is established.
+
+<a id="art_58"></a>
+
+### Article 58 — Examination of the application
+
+1. ESMA shall, within 40 working days from the notification referred to in the third subparagraph of Article 56(2), examine the application for registration based on the compliance of the trade repository with Articles 78 to 81 and shall adopt a fully reasoned registration decision or decision refusing registration.
+
+2. A decision issued by ESMA pursuant to paragraph 1 shall take effect on the fifth working day following its adoption.
+
+<a id="art_59"></a>
+
+### Article 59 — Notification of ESMA decisions relating to registration
+
+1. Where ESMA adopts a registration decision or a decision refusing or withdrawing registration, it shall notify the trade repository within five working days with a fully reasoned explanation of its decision.
+
+ESMA shall, without undue delay, notify the relevant competent authority referred to in Article 57(1) of its decision.
+
+2. ESMA shall communicate any decision taken in accordance with paragraph 1 to the Commission.
+
+3. ESMA shall publish on its website a list of trade repositories registered in accordance with this Regulation. That list shall be updated within five working days following the adoption of a decision under paragraph 1.
+
+<a id="art_60"></a>
+
+### Article 60 — Exercise of the powers referred to in Articles 61 to 63
+
+The powers conferred on ESMA or any official of or other person authorised by ESMA by Articles 61 to 63 shall not be used to require the disclosure of information or documents which are subject to legal privilege.
+
+<a id="art_61"></a>
+
+### Article 61 — Request for information
+
+1. ESMA may by simple request or by decision require trade repositories and related third parties to whom the trade repositories have outsourced operational functions or activities to provide all information that is necessary in order to carry out its duties under this Regulation.
+
+2. When sending a simple request for information under paragraph 1, ESMA shall:
+
+(a) refer to this Article as the legal basis of the request;
+
+(b) state the purpose of the request;
+
+(c) specify what information is required;
+
+(d) set a time limit within which the information is to be provided;
+
+(e) inform the person from whom the information is requested that he is not obliged to provide the information but that in case of a voluntary reply to the request the information provided must not be incorrect and misleading; and
+
+(f) indicate the fine provided for in Article 65 in conjunction with point (a) of Section IV of Annex I where the answers to questions asked are incorrect or misleading.
+
+3. When requiring to supply information under paragraph 1 by decision, ESMA shall:
+
+(a) refer to this Article as the legal basis of the request;
+
+(b) state the purpose of the request;
+
+(c) specify what information is required;
+
+(d) set a time limit within which the information is to be provided;
+
+(e) indicate the periodic penalty payments provided for in Article 66 where the production of the required information is incomplete;
+
+(f) indicate the fine provided for in Article 65 in conjunction with point (a) of Section IV of Annex I, where the answers to questions asked are incorrect or misleading; and
+
+(g) indicate the right to appeal the decision before ESMA’s Board of Appeal and to have the decision reviewed by the Court of Justice of the European Union (‘Court of Justice’) in accordance with Articles 60 and 61 of Regulation (EU) No 1095/2010.
+
+4. The persons referred to in paragraph 1 or their representatives and, in the case of legal persons or associations having no legal personality, the persons authorised to represent them by law or by their constitution shall supply the information requested. Lawyers duly authorised to act may supply the information on behalf of their clients. The latter shall remain fully responsible if the information supplied is incomplete, incorrect or misleading.
+
+5. ESMA shall, without delay, send a copy of the simple request or of its decision to the competent authority of the Member State where the persons referred to in paragraph 1 concerned by the request for information are domiciled or established.
+
+<a id="art_62"></a>
+
+### Article 62 — General investigations
+
+1. In order to carry out its duties under this Regulation, ESMA may conduct necessary investigations of persons referred to in Article 61(1). To that end, the officials and other persons authorised by ESMA shall be empowered to:
+
+(a) examine any records, data, procedures and any other material relevant to the execution of its tasks irrespective of the medium on which they are stored;
+
+(b) take or obtain certified copies of or extracts from such records, data, procedures and other material;
+
+(c) summon and ask any person referred to in Article 61(1) or their representatives or staff for oral or written explanations on facts or documents relating to the subject matter and purpose of the inspection and to record the answers;
+
+(d) interview any other natural or legal person who consents to be interviewed for the purpose of collecting information relating to the subject matter of an investigation;
+
+(e) request records of telephone and data traffic.
+
+2. The officials and other persons authorised by ESMA for the purposes of the investigations referred to in paragraph 1 shall exercise their powers upon production of a written authorisation specifying the subject matter and purpose of the investigation. That authorisation shall also indicate the periodic penalty payments provided for in Article 66 where the production of the required records, data, procedures or any other material, or the answers to questions asked to persons referred to in Article 61(1) are not provided or are incomplete, and the fines provided for in Article 65 in conjunction with point (b) of Section IV of Annex I, where the answers to questions asked to persons referred to in Article 61(1) are incorrect or misleading.
+
+3. The persons referred to in Article 61(1) are required to submit to investigations launched on the basis of a decision of ESMA. The decision shall specify the subject matter and purpose of the investigation, the periodic penalty payments provided for in Article 66, the legal remedies available under Regulation (EU) No 1095/2010 and the right to have the decision reviewed by the Court of Justice.
+
+4. In good time before the investigation, ESMA shall inform the competent authority of the Member State where the investigation is to be carried out of the investigation and of the identity of the authorised persons. Officials of the competent authority concerned shall, upon the request of ESMA, assist those authorised persons in carrying out their duties. Officials of the competent authority concerned may also attend the investigations upon request.
+
+5. If a request for records of telephone or data traffic referred to in point (e) of paragraph 1 requires a national competent authority to be authorised by a judicial authority in accordance with national rules, ESMA shall also apply for such authorisation. ESMA may also apply for such authorisation as a precautionary measure.
+
+6. Where authorisation as referred to in paragraph 5 is applied for, the national judicial authority shall control that the decision of ESMA is authentic and that the coercive measures envisaged are neither arbitrary nor excessive having regard to the subject matter of the investigations. In its control of the proportionality of the coercive measures, the national judicial authority may ask ESMA for detailed explanations, in particular relating to the grounds ESMA has for suspecting that an infringement of this Regulation has taken place and the seriousness of the suspected infringement and the nature of the involvement of the person subject to the coercive measures. However, the national judicial authority shall not review the necessity for the investigation or demand that it be provided with the information on ESMA’s file. The lawfulness of ESMA’s decision shall be subject to review only by the Court of Justice following the procedure set out in Regulation (EU) No 1095/2010.
+
+<a id="art_63"></a>
+
+### Article 63 — On-site inspections
+
+1. In order to carry out its duties under this Regulation, ESMA may conduct all necessary on-site inspections on any business premises, land or property of the legal persons referred to in Article 61(1). Where the proper conduct and efficiency of the inspection so require, ESMA may conduct the on-site inspection without prior announcement.
+
+2. The officials and other persons authorised by ESMA to conduct an on-site inspection may enter any business premises, land or property of the legal persons who are subject to an investigation decision adopted by ESMA and shall have all the powers referred to in Article 62(1). They shall also have the power to seal any business premises and books or records for the period of, and to the extent necessary for, the inspection.
+
+3. The officials and other persons authorised by ESMA to conduct an on-site inspection shall exercise their powers upon production of a written authorisation specifying the subject matter and purpose of the inspection and the periodic penalty payments provided for in Article 66 where the persons concerned do not submit to the inspection. In good time before the inspection, ESMA shall give notice of the inspection to the competent authority of the Member State where the inspection is to be conducted.
+
+4. The persons referred to in Article 61(1) shall submit to on-site inspections ordered by decision of ESMA. The decision shall specify the subject matter and purpose of the inspection, appoint the date on which it is to begin and indicate the periodic penalty payments provided for in Article 66, the legal remedies available under Regulation (EU) No 1095/2010 as well as the right to have the decision reviewed by the Court of Justice. ESMA shall take such decisions after consulting the competent authority of the Member State where the inspection is to be conducted.
+
+5. Officials of, as well as those authorised or appointed by, the competent authority of the Member State where the inspection is to be conducted shall, at the request of ESMA, actively assist the officials and other persons authorised by ESMA. To that end, they shall enjoy the powers set out in paragraph 2. Officials of the competent authority of the Member State concerned may also attend the on-site inspections on request.
+
+6. ESMA may also require competent authorities to carry out specific investigatory tasks and on-site inspections as provided for in this Article and in Article 62(1) on its behalf. To that end, competent authorities shall enjoy the same powers as ESMA as set out in this Article and in Article 62(1).
+
+7. Where the officials and other accompanying persons authorised by ESMA find that a person opposes an inspection ordered pursuant to this Article, the competent authority of the Member State concerned shall afford them the necessary assistance, requesting, where appropriate, the assistance of the police or of an equivalent enforcement authority, so as to enable them to conduct their on-site inspection.
+
+8. If the on-site inspection provided for in paragraph 1 or the assistance provided for in paragraph 7 requires a national competent authority to be authorised by a judicial authority in accordance with national rules, ESMA shall also apply for such authorisation. ESMA may also apply for such authorisation as a precautionary measure.
+
+9. Where authorisation as referred to in paragraph 8 is applied for, the national judicial authority shall verify that ESMA’s decision is authentic and that the coercive measures envisaged are neither arbitrary nor excessive having regard to the subject matter of the inspection. In its control of the proportionality of the coercive measures, the national judicial authority may ask ESMA for detailed explanations. Such a request for detailed explanations may in particular relate to the grounds ESMA has for suspecting that an infringement of this Regulation has taken place, as well as to the seriousness of the suspected infringement and the nature of the involvement of the person who is subjected to the coercive measures. However, the national judicial authority may not review the necessity for the inspection or demand to be provided with the information on ESMA’s file. The lawfulness of ESMA’s decision shall be subject to review only by the Court of Justice following the procedure set out in Regulation (EU) No 1095/2010.
+
+<a id="art_64"></a>
+
+### Article 64 — Procedural rules for taking supervisory measures and imposing fines
+
+1. Where, in carrying out its duties under this Regulation, ESMA finds that there are serious indications of the possible existence of facts liable to constitute one or more of the infringements listed in Annex I, ESMA shall appoint an independent investigation officer within ESMA to investigate the matter. The appointed officer shall not be involved or have been directly or indirectly involved in the supervision or the registration process of the trade repository concerned and shall perform his functions independently from ESMA.
+
+2. The investigation officer shall investigate the alleged infringements, taking into account any comments submitted by the persons who are subject to the investigations, and shall submit a complete file with his findings to ESMA.
+
+In order to carry out his tasks, the investigation officer may exercise the power to request information in accordance with Article 61 and to conduct investigations and on-site inspections in accordance with Articles 62 and 63. When using those powers, the investigation officer shall comply with Article 60.
+
+Where carrying out his tasks, the investigation officer shall have access to all documents and information gathered by ESMA in its supervisory activities.
+
+3. Upon completion of his investigation and before submitting the file with his findings to ESMA, the investigation officer shall give the persons subject to the investigations the opportunity to be heard on the matters being investigated. The investigation officer shall base his findings only on facts on which the persons concerned have had the opportunity to comment.
+
+The rights of the defence of the persons concerned shall be fully respected during investigations under this Article.
+
+4. When submitting the file with the findings referred to in paragraph 3 to ESMA, the investigation officer shall notify the persons who are subject to the investigations. Such persons shall be entitled to have access to the file, subject to the legitimate interest of other persons in the protection of their business secrets. The right of access to the file shall not extend to confidential information or to ESMA's internal preparatory documents.
+
+5. On the basis of the file containing the investigation officer’s findings and, when requested by the persons concerned, after having heard the persons subject to the investigations in accordance with Article 67, ESMA shall decide if one or more of the infringements listed in Annex I has been committed by the persons who have been subject to the investigations and, in such a case, shall take a supervisory measure in accordance with Article 73 and impose a fine in accordance with Article 65.
+
+6. The investigation officer shall not participate in ESMA’s deliberations or in any other way intervene in ESMA’s decision-making process.
+
+7. The Commission shall adopt further rules of procedure for the exercise of the power to impose fines or periodic penalty payments, including provisions on the rights of the defence, temporal provisions, and the collection of fines or periodic penalty payments, and shall adopt detailed rules on the limitation periods for the imposition and enforcement of penalties.
+
+The rules referred to in the first subparagraph shall be adopted by means of delegated acts in accordance with Article 82.
+
+8. ESMA shall refer matters to the relevant authorities for investigation and possible criminal prosecution where, in carrying out its duties under this Regulation, it finds that there are serious indications of the possible existence of facts that it knows to be liable to constitute a criminal offence under the applicable law. In addition, ESMA shall refrain from imposing fines or periodic penalty payments where it is aware that a prior acquittal or conviction arising from identical fact or facts which are substantially the same has already acquired the force of res judicata as the result of criminal proceedings under national law.
+
+<a id="art_65"></a>
+
+### Article 65 — Fines
+
+1. Where, in accordance with Article 64(5), ESMA finds that a trade repository has, intentionally or negligently, committed one of the infringements listed in Annex I, it shall adopt a decision imposing a fine in accordance with paragraph 2 of this Article.
+
+An infringement by a trade repository shall be considered to have been committed intentionally if ESMA finds objective factors which demonstrate that the trade repository or its senior management acted deliberately to commit the infringement.
+
+2. The basic amounts of the fines referred to in paragraph 1 shall be included within the following limits:
+
+(a) for the infringements referred to in point (c) of Section I of Annex I and in points (c) to (g) of Section II of Annex I, and in points (a) and (b) of Section III of Annex I the amounts of the fines shall be at least EUR 10 000 and shall not exceed ►M11 EUR 200 000 ** ◄ **;
+
+(b) for the infringements referred to in points (a), (b) and (d) to (k) of Section I of Annex I, and in points (a), (b) and (h) of Section II of Annex I, the amounts of the fines shall be at least EUR 5 000 and shall not exceed EUR 100 000 ;
+
+(c) for the infringements referred to in Section IV of Annex I, the amounts of the fines shall be at least EUR 5 000 and shall not exceed EUR 10 000 .
+
+In order to decide whether the basic amount of the fines should be at the lower, the middle or the higher end of the limits set out in the first subparagraph, ESMA shall have regard to the annual turnover of the preceding business year of the trade repository concerned. The basic amount shall be at the lower end of the limit for trade repositories whose annual turnover is below EUR 1 million, the middle of the limit for the trade repository whose turnover is between EUR 1 and 5 million and the higher end of the limit for the trade repository whose annual turnover is higher than EUR 5 million.
+
+3. The basic amounts set out in paragraph 2 shall be adjusted, if need be, by taking into account aggravating or mitigating factors in accordance with the relevant coefficients set out in Annex II.
+
+The relevant aggravating coefficients shall be applied one by one to the basic amount. If more than one aggravating coefficient is applicable, the difference between the basic amount and the amount resulting from the application of each individual aggravating coefficient shall be added to the basic amount.
+
+The relevant mitigating coefficients shall be applied one by one to the basic amount. If more than one mitigating coefficient is applicable, the difference between the basic amount and the amount resulting from the application of each individual mitigating coefficient shall be subtracted from the basic amount.
+
+4. Notwithstanding paragraphs 2 and 3, the amount of the fine shall not exceed 20 % of the annual turnover of the trade repository concerned in the preceding business year but, where the trade repository has directly or indirectly benefited financially from the infringement, the amount of the fine shall be at least equal to that benefit.
+
+Where an act or omission of a trade repository constitutes more than one infringement listed in Annex I, only the higher fine calculated in accordance with paragraphs 2 and 3 and relating to one of those infringements shall apply.
+
+<a id="art_66"></a>
+
+### Article 66 — Periodic penalty payments
+
+1. ESMA shall, by decision, impose periodic penalty payments in order to compel:
+
+(a) a trade repository to put an end to an infringement in accordance with a decision taken pursuant to Article 73(1)(a); or
+
+(b) a person referred to in Article 61(1):
+
+(i) to supply complete information which has been requested by a decision pursuant to Article 61;
+
+(ii) to submit to an investigation and in particular to produce complete records, data, procedures or any other material required and to complete and correct other information provided in an investigation launched by a decision pursuant to Article 62; or
+
+(iii) to submit to an on-site inspection ordered by a decision taken pursuant to Article 63.
+
+2. A periodic penalty payment shall be effective and proportionate. The periodic penalty payment shall be imposed for each day of delay.
+
+3. Notwithstanding paragraph 2, the amount of the periodic penalty payments shall be 3 % of the average daily turnover in the preceding business year, or, in the case of natural persons, 2 % of the average daily income in the preceding calendar year. It shall be calculated from the date stipulated in the decision imposing the periodic penalty payment.
+
+4. A periodic penalty payment shall be imposed for a maximum period of six months following the notification of ESMA’s decision. Following the end of the period, ESMA shall review the measure.
+
+<a id="art_67"></a>
+
+### Article 67 — Hearing of the persons concerned
+
+1. Before taking any decision under Article 73(1) and on a periodic penalty payment under Article 66, ESMA shall give the persons who are subject to the proceedings the opportunity to be heard on its findings. ESMA shall base its decisions only on findings on which the persons who are subject to the proceedings have had an opportunity to comment.
+
+The first subparagraph of this paragraph shall not apply to the decisions referred to in points (a), (c) and (d) of Article 73(1) if urgent action is needed in order to prevent significant and imminent damage to the financial system or to prevent significant and imminent damage to the integrity, transparency, efficiency and orderly functioning of financial markets, including to the stability or the correctness of data reported to a trade repository. In such a case, ESMA may adopt an interim decision and shall give the persons concerned the opportunity to be heard as soon as possible after taking its decision.
+
+2. The rights of the defence of the persons subject to the proceedings shall be fully respected in the proceedings. They shall be entitled to have access to ESMA’s file, subject to the legitimate interest of other persons in the protection of their business secrets. The right of access to the file shall not extend to confidential information or ESMA’s internal preparatory documents.
+
+<a id="art_68"></a>
+
+### Article 68 — Disclosure, nature, enforcement and allocation of fines and periodic penalty payments
+
+1. ESMA shall disclose to the public every fine and periodic penalty payment that has been imposed pursuant to Articles 65 and 66 unless such disclosure to the public would seriously jeopardise the financial markets or cause disproportionate damage to the parties involved. Such disclosure shall not contain personal data within the meaning of Regulation (EC) No 45/2001.
+
+2. Fines and periodic penalty payments imposed pursuant to Articles 65 and 66 shall be of an administrative nature.
+
+3. Where ESMA decides to impose no fines or penalty payments, it shall inform the European Parliament, the Council, the Commission, and the competent authorities of the Member State concerned accordingly and shall set out the reasons for its decision.
+
+4. Fines and periodic penalty payments imposed pursuant to Articles 65 and 66 shall be enforceable.
+
+Enforcement shall be governed by the rules of civil procedure in force in the State in the territory of which it is carried out. The order for its enforcement shall be appended to the decision without other formality than verification of the authenticity of the decision by the authority which the government of each Member State shall designate for that purpose and shall make known to ESMA and to the Court of Justice.
+
+When those formalities have been completed on application by the party concerned, the latter may proceed to enforcement in accordance with the national law, by bringing the matter directly before the competent body.
+
+Enforcement may be suspended only by a decision of the Court of Justice. However, the courts of the Member State concerned shall have jurisdiction over complaints that enforcement is being carried out in an irregular manner.
+
+5. The amounts of the fines and periodic penalty payments shall be allocated to the general budget of the European Union.
+
+<a id="art_69"></a>
+
+### Article 69 — Review by the Court of Justice
+
+The Court of Justice shall have unlimited jurisdiction to review decisions whereby ESMA has imposed a fine or a periodic penalty payment. It may annul, reduce or increase the fine or periodic penalty payment imposed.
+
+<a id="art_70"></a>
+
+### Article 70 — Amendments to Annex II
+
+In order to take account of developments on financial markets the Commission shall be empowered to adopt delegated acts in accordance with Article 82 concerning measures to amend Annex II.
+
+<a id="art_71"></a>
+
+### Article 71 — Withdrawal of registration
+
+1. Without prejudice to Article 73, ESMA shall withdraw the registration of a trade repository where the trade repository:
+
+(a) expressly renounces the registration or has provided no services for the preceding six months;
+
+(b) obtained the registration by making false statements or by any other irregular means;
+
+(c) no longer meets the conditions under which it was registered.
+
+2. ESMA shall, without undue delay, notify the relevant competent authority referred to in Article 57(1) of a decision to withdraw the registration of a trade repository.
+
+3. The competent authority of a Member State in which the trade repository performs its services and activities and which considers that one of the conditions referred to in paragraph 1 has been met, may request ESMA to examine whether the conditions for the withdrawal of registration of the trade repository concerned are met. Where ESMA decides not to withdraw the registration of the trade repository concerned, it shall provide full reasons.
+
+4. The competent authority referred to in paragraph 3 shall be the authority designated under Article 22.
+
+<a id="art_72"></a>
+
+### Article 72 — Supervisory fees
+
+1. ESMA shall charge fees to the trade repositories in accordance with this Regulation and in accordance with the delegated acts adopted pursuant to paragraph 3. Those fees shall fully cover ESMA’s necessary expenditure relating to the registration and supervision of trade repositories and the reimbursement of any costs that the competent authorities may incur carrying out work pursuant to this Regulation in particular as a result of any delegation of tasks in accordance with Article 74.
+
+2. The amount of any fee charged to a trade repository shall cover all reasonable administrative costs incurred by ESMA in relation to its registration and ESMA's supervisory activities and shall be proportionate to the turnover of the trade repository concerned and the type of registration and supervision exercised by ESMA.
+
+3. The Commission shall adopt a delegated act in accordance with Article 82 to specify further the type of fees, the matters for which fees are due, the amount of the fees and the manner in which they are to be paid.
+
+<a id="art_73"></a>
+
+### Article 73 — Supervisory measures by ESMA
+
+1. Where, in accordance with Article 64(5), ESMA finds that a trade repository has committed one of the infringements listed in Annex I, it shall take one or more of the following decisions:
+
+(a) requiring the trade repository to bring the infringement to an end;
+
+(b) imposing fines under Article 65;
+
+(c) issuing public notices;
+
+(d) as a last resort, withdrawing the registration of the trade repository.
+
+2. When taking the decisions referred to in paragraph 1, ESMA shall take into account the nature and seriousness of the infringement, having regard to the following criteria:
+
+(a) the duration and frequency of the infringement;
+
+(b) whether the infringement has revealed serious or systemic weaknesses in the undertaking’s procedures or in its management systems or internal controls;
+
+(c) whether financial crime has been occasioned, facilitated or otherwise attributable to the infringement;
+
+(d) whether the infringement has been committed intentionally or negligently.
+
+3. Without undue delay, ESMA shall notify any decision adopted pursuant to paragraph 1 to the trade repository concerned, and shall communicate it to the competent authorities of the Member States and to the Commission. It shall publicly disclose any such decision on its website within 10 working days from the date when it was adopted.
+
+When making public its decision as referred to in the first subparagraph, ESMA shall also make public the right of the trade repository concerned to appeal the decision, the fact, where relevant, that such an appeal has been lodged, specifying that such an appeal does not have suspensive effect, and the fact that it is possible for ESMA’s Board of Appeal to suspend the application of the contested decision in accordance with Article 60(3) of Regulation (EU) No 1095/2010.
+
+<a id="art_74"></a>
+
+### Article 74 — Delegation of tasks by ESMA to competent authorities
+
+1. Where necessary for the proper performance of a supervisory task, ESMA may delegate specific supervisory tasks to the competent authority of a Member State in accordance with the guidelines issued by ESMA pursuant to Article 16 of Regulation (EU) No 1095/2010. Such specific supervisory tasks may, in particular, include the power to carry out requests for information in accordance with Article 61 and to conduct investigations and on-site inspections in accordance with Article 62 and Article 63(6).
+
+2. Prior to delegation of a task, ESMA shall consult the relevant competent authority. Such consultation shall concern:
+
+(a) the scope of the task to be delegated;
+
+(b) the timetable for the performance of the task; and
+
+(c) the transmission of necessary information by and to ESMA.
+
+3. In accordance with the regulation on fees adopted by the Commission pursuant to Article 72(3), ESMA shall reimburse a competent authority for costs incurred as a result of carrying out delegated tasks.
+
+4. ESMA shall review the decision referred to in paragraph 1 at appropriate intervals. A delegation may be revoked at any time.
+
+5. A delegation of tasks shall not affect the responsibility of ESMA and shall not limit ESMA’s ability to conduct and oversee the delegated activity. Supervisory responsibilities under this Regulation, including registration decisions, final assessments and follow-up decisions concerning infringements, shall not be delegated.
+
+## *CHAPTER 2*
+
+### ***Relations with third countries***
+
+<a id="art_75"></a>
+
+### Article 75 — Equivalence and international agreements
+
+1. The Commission may adopt an implementing act determining that the legal and supervisory arrangements of a third country ensure that:
+
+(a) trade repositories authorised in that third country comply with legally binding requirements which are equivalent to those laid down in this Regulation;
+
+(b) effective supervision and enforcement of trade repositories takes place in that third country on an ongoing basis; and
+
+(c) guarantees of professional secrecy exist, including the protection of business secrets shared with third parties by the authorities, and they are at least equivalent to those set out in this Regulation.
+
+That implementing act shall be adopted in accordance with the examination procedure referred to in Article 86(2).
+
+2. Where appropriate, and in any case after adopting an implementing act as referred to in paragraph 1, the Commission shall submit recommendations to the Council for the negotiation of international agreements with the relevant third countries regarding mutual access to, and exchange of information on, derivative contracts held in trade repositories which are established in that third country, in a way that ensures that Union authorities, including ESMA, have immediate and continuous access to all the information needed for the exercise of their duties.
+
+3. After conclusion of the agreements referred to in paragraph 2, and in accordance with them, ESMA shall establish cooperation arrangements with the competent authorities of the relevant third countries. Those arrangements shall specify at least:
+
+(a) a mechanism for the exchange of information between ESMA and any other Union authorities that exercise responsibilities in accordance with this Regulation on the one hand and the relevant competent authorities of third countries concerned on the other; and
+
+(b) procedures concerning the coordination of supervisory activities.
+
+4. ESMA shall apply Regulation (EC) No 45/2001 with regard to the transfer of personal data to a third country.
+
+<a id="art_76"></a>
+
+### Article 76 — Cooperation arrangements
+
+Relevant authorities of third countries that do not have any trade repository established in their jurisdiction may contact ESMA with a view to establishing cooperation arrangements to access information on derivatives contracts held in Union trade repositories.
+
+ESMA may establish cooperation arrangements with those relevant authorities regarding access to information on derivatives contracts held in Union trade repositories that these authorities need to fulfil their respective responsibilities and mandates, provided that guarantees of professional secrecy exist, including the protection of business secrets shared by the authorities with third parties.
+
+<a id="art_76a"></a>
+
+### Article 76a — Mutual direct access to data
+
+1. Where necessary for the exercise of their duties, relevant authorities of third countries in which one or more trade repositories are established shall have direct access to information in trade repositories established in the Union, provided that the Commission has adopted an implementing act in accordance with paragraph 2 to that effect.
+
+2. Upon the submission of a request by the authorities referred to in paragraph 1 of this Article, the Commission may adopt implementing acts, in accordance with the examination procedure referred to in Article 86(2), determining whether the legal framework of the third country of the requesting authority fulfils all of the following conditions:
+
+(a) trade repositories established in that third country are duly authorised;
+
+(b) effective supervision and enforcement of trade repositories takes place in that third country on an ongoing basis;
+
+(c) guarantees of professional secrecy exist, including the protection of business secrets shared with third parties by the authorities, and they are at least equivalent to those set out in this Regulation;
+
+(d) trade repositories authorised in that third country are subject to a legally binding and enforceable obligation to grant the entities referred to in Article 81(3) direct and immediate access to the data.
+
+<a id="art_77"></a>
+
+### Article 77 — Recognition of trade repositories
+
+1. A trade repository established in a third country may provide its services and activities to entities established in the Union for the purposes of Article 9 only after its recognition by ESMA in accordance with paragraph 2.
+
+2. A trade repository referred to in paragraph 1 shall submit to ESMA its application for recognition together with all necessary information, including at least the information necessary to verify that the trade repository is authorised and subject to effective supervision in a third country which:
+
+(a) has been recognised by the Commission, by means of an implementing act pursuant to Article 75(1), as having an equivalent and enforceable regulatory and supervisory framework;
+
+(b) has entered into an international agreement with the Union pursuant to Article 75(2); and
+
+(c) has entered into cooperation arrangements pursuant to Article 75(3) to ensure that Union authorities, including ESMA, have immediate and continuous access to all the necessary information.
+
+Within 30 working days of receipt of the application, ESMA shall assess whether the application is complete. If the application is not complete, ESMA shall set a deadline by which the applicant trade repository has to provide additional information.
+
+Within 180 working days of the submission of a complete application, ESMA shall inform the applicant trade repository in writing with a fully reasoned explanation whether the recognition has been granted or refused.
+
+ESMA shall publish on its website a list of the trade repositories recognised in accordance with this Regulation.
+
+## TITLE VII
+
+### **REQUIREMENTS FOR TRADE REPOSITORIES**
+
+<a id="art_78"></a>
+
+### Article 78 — General requirements
+
+1. A trade repository shall have robust governance arrangements, which include a clear organisational structure with well defined, transparent and consistent lines of responsibility and adequate internal control mechanisms, including sound administrative and accounting procedures, which prevent any disclosure of confidential information.
+
+2. A trade repository shall maintain and operate effective written organisational and administrative arrangements to identify and manage any potential conflicts of interest concerning its managers, employees, or any person directly or indirectly linked to them by close links.
+
+3. A trade repository shall establish adequate policies and procedures sufficient to ensure its compliance, including of its managers and employees, with all the provisions of this Regulation.
+
+4. A trade repository shall maintain and operate an adequate organisational structure to ensure continuity and orderly functioning of the trade repository in the performance of its services and activities. It shall employ appropriate and proportionate systems, resources and procedures.
+
+5. Where a trade repository offers ancillary services such as trade confirmation, trade matching, credit event servicing, portfolio reconciliation or portfolio compression services, the trade repository shall maintain those ancillary services operationally separate from the trade repository’s function of centrally collecting and maintaining records of derivatives.
+
+6. The senior management and members of the board of a trade repository shall be of sufficiently good repute and experience so as to ensure the sound and prudent management of the trade repository.
+
+7. A trade repository shall have objective, non-discriminatory and publicly disclosed requirements for access by undertakings subject to the reporting obligation under Article 9. A trade repository shall grant service providers non-discriminatory access to information maintained by the trade repository, on condition that the relevant counterparties have provided their consent. Criteria that restrict access shall only be permitted to the extent that their objective is to control the risk to the data maintained by a trade repository.
+
+8. A trade repository shall publicly disclose the prices and fees associated with services provided under this Regulation. It shall disclose the prices and fees of each service provided separately, including discounts and rebates and the conditions to benefit from those reductions. It shall allow reporting entities to access specific services separately. The prices and fees charged by a trade repository shall be cost-related.
+
+<a id="art_79"></a>
+
+### Article 79 — Operational reliability
+
+1. A trade repository shall identify sources of operational risk and minimise them through the development of appropriate systems, controls and procedures. Such systems shall be reliable and secure and have adequate capacity to handle the information received.
+
+2. A trade repository shall establish, implement and maintain an adequate business continuity policy and disaster recovery plan aiming at ensuring the maintenance of its functions, the timely recovery of operations and the fulfilment of the trade repository’s obligations. Such a plan shall at least provide for the establishment of backup facilities.
+
+3. A trade repository from which registration has been withdrawn shall ensure orderly substitution including the transfer of data to other trade repositories and the redirection of reporting flows to other trade repositories.
+
+<a id="art_80"></a>
+
+### Article 80 — Safeguarding and recording
+
+1. A trade repository shall ensure the confidentiality, integrity and protection of the information received under Article 9.
+
+2. A trade repository may only use the data it receives under this Regulation for commercial purposes if the relevant counterparties have provided their consent.
+
+3. A trade repository shall promptly record the information received under Article 9 and shall maintain it for at least 10 years following the termination of the relevant contracts. It shall employ timely and efficient record keeping procedures to document changes to recorded information.
+
+4. A trade repository shall calculate the positions by class of derivatives and by reporting entity based on the details of the derivative contracts reported in accordance with Article 9.
+
+5. A trade repository shall allow the parties to a contract to access and correct the information on that contract in a timely manner.
+
+5a. Upon request, a trade repository shall provide counterparties that are not required to report the details of their OTC derivative contracts pursuant to Article 9(1a) to (1d) and counterparties and CCPs which have delegated their reporting obligation pursuant to Article 9(1f) with access to the information reported on their behalf.
+
+6. A trade repository shall take all reasonable steps to prevent any misuse of the information maintained in its systems.
+
+A natural person who has a close link with a trade repository or a legal person that has a parent undertaking or a subsidiary relationship with the trade repository shall not use confidential information recorded in a trade repository for commercial purposes.
+
+<a id="art_81"></a>
+
+### Article 81 — Transparency and data availability
+
+1. A trade repository shall regularly, and in an easily accessible way, publish aggregate positions by class of derivatives on the contracts reported to it.
+
+2. A trade repository shall collect and maintain data and shall ensure that the entities referred to in paragraph 3 have direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.
+
+3. A trade repository shall make the necessary information available to the following entities to enable them to fulfil their respective responsibilities and mandates:
+
+(a) ESMA;
+
+(b) EBA;
+
+(c) EIOPA;
+
+(d) the ESRB;
+
+(e) the competent authority supervising CCPs accessing the trade repositories;
+
+(f) the competent authority supervising the trading venues of the reported contracts;
+
+(g) the relevant members of the ESCB, including the ECB in carrying out its tasks within a single supervisory mechanism under Council Regulation (EU) No 1024/2013 (18);
+
+(h) the relevant authorities of a third country that has entered into an international agreement with the Union as referred to in Article 75;
+
+(i) supervisory authorities designated under Article 4 of Directive 2004/25/EC of the European Parliament and of the Council (19);
+
+(j) the relevant Union securities and market authorities whose respective supervisory responsibilities and mandates cover contracts, markets, participants and underlyings which fall within the scope of this Regulation;
+
+(k) the relevant authorities of a third country that have entered into a cooperation arrangement with ESMA, as referred to in Article 76;
+
+(l) the Agency for the Cooperation of Energy Regulators established by Regulation (EC) No 713/2009 of the European Parliament and of the Council (20);
+
+(m) the resolution authorities designated under Article 3 of Directive 2014/59/EU of the European Parliament and the Council (21);
+
+(n) the Single Resolution Board established by Regulation (EU) No 806/2014;
+
+(o) competent authorities or national competent authorities within the meaning of Regulations (EU) No 1024/2013 and (EU) No 909/2014 and of Directives 2003/41/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU and, 2014/65/EU, and supervisory authorities within the meaning of Directive 2009/138/EC;
+
+(p) the competent authorities designated in accordance with Article 10(5) of this Regulation;
+
+(q) the relevant authorities of a third country in respect of which an implementing act pursuant to Article 76a has been adopted.
+
+A trade repository shall transmit data to competent authorities in accordance with the requirements under Article 26 of Regulation (EU) No 600/2014 (22).
+
+4. ESMA shall share the information necessary for the exercise of their duties with other relevant Union authorities.
+
+5. In order to ensure the consistent application of this Article, ESMA shall, after consulting the members of the ESCB, develop draft regulatory technical standards specifying the following:
+
+(a) the information to be published or made available in accordance with paragraphs 1 and 3;
+
+(b) the frequency of publication of the information referred to in paragraph 1;
+
+(c) the operational standards required to aggregate and compare data across trade repositories and for the entities referred to in paragraph 3 to access that information;
+
+(d) the terms and conditions, the arrangements and the required documentation under which trade repositories grant access to the entities referred to in paragraph 3.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 18 June 2020.
+
+In developing those draft regulatory technical standards, ESMA shall ensure that the publication of the information referred to paragraph 1 does not reveal the identity of any party to any contract.
+
+Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+<a id="art_82"></a>
+
+### Article 82 — Exercise of the delegation
+
+1. The power to adopt delegated acts is conferred to the Commission subject to the conditions laid down in this Article.
+
+2. The delegation of power referred to in Articles 1(6), 4(3a), 64(7), Article 70, Articles 72(3), and 85(2) shall be conferred to the Commission for an indeterminate period of time.
+
+3. The delegation of power referred to in Articles 1(6), 4(3a), 64(7), Article 70, Articles 72(3) and 85(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the *Official Journal of the European Union* or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4. Before adopting a delegated act, the Commission shall endeavour to consult ESMA and shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6. A delegated act adopted pursuant to Articles 1(6), 4(3a), 64(7), Article 70, Articles 72(3) and 85(2) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
+
+## TITLE VIII
+
+### **COMMON PROVISIONS**
+
+<a id="art_83"></a>
+
+### Article 83 — Professional secrecy
+
+1. The obligation of professional secrecy shall apply to all persons who work or have worked for the competent authorities designated in accordance with Article 22 and the authorities referred to in Article 81(3), for ESMA, or for auditors and experts instructed by the competent authorities or ESMA. No confidential information that those persons receive in the course of their duties shall be divulged to any person or authority, except in summary or aggregate form such that an individual CCP, trade repository or any other person cannot be identified, without prejudice to cases covered by criminal or tax law or to this Regulation.
+
+2. Where a CCP has been declared bankrupt or is being compulsorily wound up, confidential information which does not concern third parties may be divulged in civil or commercial proceedings where necessary for carrying out the proceeding.
+
+3. Without prejudice to cases covered by criminal or tax law, the competent authorities, ESMA, bodies or natural or legal persons other than competent authorities which receive confidential information pursuant to this Regulation may use it only in the performance of their duties and for the exercise of their functions, in the case of the competent authorities, within the scope of this Regulation or, in the case of other authorities, bodies or natural or legal persons, for the purpose for which such information was provided to them or in the context of administrative or judicial proceedings specifically relating to the exercise of those functions, or both. Where ESMA, the competent authority or another authority, body or person communicating information consents thereto, the authority receiving the information may use it for other non-commercial purposes.
+
+4. Any confidential information received, exchanged or transmitted pursuant to this Regulation shall be subject to the conditions of professional secrecy laid down in paragraphs 1, 2 and 3. However, those conditions shall not prevent ESMA, the competent authorities or the relevant central banks from exchanging or transmitting confidential information in accordance with this Regulation and with other legislation applicable to investment firms, credit institutions, pension funds, UCITS, AIFMs, insurance and reinsurance intermediaries, insurance undertakings, regulated markets or market operators or otherwise with the consent of the competent authority or other authority or body or natural or legal person that communicated the information.
+
+5. Paragraphs 1, 2 and 3 shall not prevent the competent authorities from exchanging or transmitting confidential information, in accordance with national law, that has not been received from a competent authority of another Member State.
+
+<a id="art_84"></a>
+
+### Article 84 — Exchange of information
+
+1. Competent authorities, ESMA, and other relevant authorities shall, without undue delay, provide one another with the information required for the purposes of carrying out their duties.
+
+2. Competent authorities, ESMA, other relevant authorities and other bodies or natural and legal persons receiving confidential information in the exercise of their duties under this Regulation shall use it only in the course of their duties.
+
+3. Competent authorities shall communicate information to the relevant members of the ESCB where such information is relevant for the exercise of their duties.
+
+## TITLE IX
+
+### **TRANSITIONAL AND FINAL PROVISIONS**
+
+<a id="art_85"></a>
+
+### Article 85 — Reports and review
+
+1. By 18 June 2024 the Commission shall assess the application of this Regulation and prepare a general report. The Commission shall submit that report to the European Parliament and to the Council, together with any appropriate proposals.
+
+1a. By 17 June 2023 ESMA shall submit a report to the Commission on the following:
+
+(a) the impact of Regulation (EU) 2019/834 of the European Parliament and of the Council (23) on the level of clearing by financial and non-financial counterparties and on the distribution of clearing within each type of counterparty, in particular with regard to financial counterparties that have a limited volume of activity in OTC derivatives and with regard to the appropriateness of the clearing thresholds referred to in Article 10(4);
+
+(b) the impact of Regulation (EU) 2019/834 on the quality and accessibility of the data reported to trade repositories, as well as the quality of the information made available by trade repositories;
+
+(c) the changes to the reporting framework, including the take-up and implementation of delegated reporting as laid down in Article 9(1a) and in particular its impact on the reporting burden for non-financial counterparties that are not subject to the clearing obligation;
+
+(d) the accessibility of clearing services, in particular whether the requirement to provide clearing services, directly or indirectly, under fair, reasonable, non-discriminatory and transparent commercial terms referred to in Article 4(3a) has been effective in facilitating access to clearing.
+
+2. By 18 June 2020, and every 12 months thereafter until the final extension referred to in the third subparagraph, the Commission shall prepare a report assessing whether viable technical solutions have been developed for the transfer by pension scheme arrangements of cash and non-cash collateral as variation margins and the need for any measures to facilitate those viable technical solutions.
+
+ESMA shall, by 18 December 2019, and every 12 months thereafter until the final extension referred to in the third subparagraph, in cooperation with EIOPA, EBA and the ESRB, submit a report to the Commission, assessing the following:
+
+(a) whether CCPs, clearing members and pension scheme arrangements have undertaken an appropriate effort and have developed viable technical solutions facilitating the participation of such arrangements in central clearing by posting cash and non-cash collateral as variation margins, including the implications of those solutions on market liquidity and procyclicality and their potential legal or other implications;
+
+(b) the volume and the nature of the activity of pension scheme arrangements in cleared and non-cleared OTC derivatives markets, within each asset class, and any related systemic risk to the financial system;
+
+(c) the consequences of pension scheme arrangements fulfilling the clearing requirement on their investment strategies, including any shift in their cash and non-cash asset allocation;
+
+(d) the implications of the clearing thresholds specified pursuant to point (b) of Article 10(4) for pension scheme arrangements;
+
+(e) the impact of other legal requirements on the cost differentials between cleared and non-cleared OTC derivative contracts, including margin requirements for non-cleared derivatives and the calculation of the leverage ratio in accordance with Regulation (EU) No 575/2013;
+
+(f) whether any further measures are necessary to facilitate a clearing solution for pension scheme arrangements.
+
+The Commission may adopt a delegated act in accordance with Article 82 to extend the two-year period referred to in Article 89(1) twice, each time by one year, where it concludes that no viable technical solution has been developed and that the adverse effect of centrally clearing derivative contracts on the retirement benefits of future pensioners remains unchanged.
+
+CCPs, clearing members and pension scheme arrangements shall make their best efforts to contribute to the development of viable technical solutions that facilitate the clearing of OTC derivative contracts by such arrangements.
+
+The Commission shall set up an expert group composed of representatives of CCPs, clearing members, pension scheme arrangements and other relevant parties to such viable technical solutions to monitor their efforts and assess the progress made in the development of viable technical solutions that facilitate the clearing of OTC derivative contracts by pension scheme arrangements, including the transfer by such arrangements of cash and non-cash collateral as variation margins. That expert group shall meet at least every six months. The Commission shall consider the efforts made by CCPs, clearing members and pension scheme arrangements when drafting its report pursuant to the first subparagraph.
+
+3. By 18 December 2020 the Commission shall prepare a report assessing:
+
+(a) whether the obligations to report transactions under Article 26 of Regulation (EU) No 600/2014 and under this Regulation create a duplicative transaction reporting obligation for non-OTC derivatives and whether reporting of non-OTC transactions could be reduced or simplified for all counterparties without undue loss of information;
+
+(b) the necessity and appropriateness of aligning the trading obligation for derivatives under Regulation (EU) No 600/2014 with changes made under Regulation (EU) 2019/834 to the clearing obligation for derivatives, in particular to the scope of the entities that are subject to the clearing obligation;
+
+(c) whether any trades that directly result from post-trade risk reduction services, including portfolio compression, should be exempted from the clearing obligation referred to in Article 4(1), taking into account the extent to which those services mitigate risk, in particular counterparty credit risk and operational risk, the potential for circumvention of the clearing obligation and the potential disincentive to central clearing.
+
+The Commission shall submit the report referred to in the first subparagraph to the European Parliament and to the Council, together with any appropriate proposals.
+
+3a. By 18 May 2020, ESMA shall submit a report to the Commission. That report shall assess:
+
+(a) the consistency of the reporting requirements for non-OTC derivatives under Regulation (EU) No 600/2014 and under Article 9 of this Regulation, both in terms of the details of the derivative contracts that are to be reported and access to data by the relevant entities and whether those requirements should be aligned;
+
+(b) the feasibility of further simplifying the reporting chains for all counterparties, including for all indirect clients, taking into account the need for timely reporting and taking into account the measures adopted pursuant to Article 4(4) of this Regulation and Article 30(2) of Regulation (EU) No 600/2014;
+
+(c) the alignment of the trading obligation for derivatives under Regulation (EU) No 600/2014 with changes made under Regulation (EU) 2019/834 to the clearing obligation for derivatives, in particular to the scope of the entities that are subject to the clearing obligation;
+
+(d) in cooperation with the ESRB, whether any trades that directly result from post-trade risk reduction services, including portfolio compression, should be exempted from the clearing obligation referred to in Article 4(1); that report shall:
+
+(i) investigate portfolio compression and other available non-price forming post-trade risk reduction services which reduce non-market risks in derivatives portfolios without changing the market risk of the portfolios, such as rebalancing transactions;
+
+(ii) explain the purposes and functioning of such post-trade risk reduction services, the extent to which they mitigate risk, in particular counterparty credit risk and operational risk, and assess the need to clear such trades or to exempt them from clearing, in order to manage systemic risk; and
+
+(iii) assess to what extent any exemption from the clearing obligation for such services discourages central clearing and may lead to counterparties circumventing the clearing obligation;
+
+(e) whether the list of financial instruments that are considered highly liquid with minimal market and credit risk, in accordance with Article 47, could be extended and whether that list could include one or more money market funds authorised in accordance with Regulation (EU) 2017/1131 of the European Parliament and of the Council (24).
+
+4. The Commission shall, in cooperation with the Member States and ESMA, and after requesting the assessment of the ESRB, draw up an annual report assessing any possible systemic risk and cost implications of interoperability arrangements.
+
+The report shall focus at least on the number and complexity of such arrangements, and the adequacy of risk-management systems and models. The Commission shall submit the report to the European Parliament and the Council, together with any appropriate proposals.
+
+The ESRB shall provide the Commission with its assessment of any possible systemic risk implications of interoperability arrangements.
+
+5. ESMA shall present an annual report to the European Parliament, the Council and the Commission on the penalties imposed by competent authorities, including supervisory measures, fines and periodic penalty payments.
+
+<a id="art_86"></a>
+
+### Article 86 — Committee procedure
+
+1. The Commission shall be assisted by the European Securities Committee established by Commission Decision 2001/528/EC (25). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+3. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
+
+<a id="art_87"></a>
+
+### Article 87 — Amendment to Directive 98/26/EC
+
+1. In Article 9(1) of Directive 98/26/EC, the following subparagraph is added:
+
+‘Where a system operator has provided collateral security to another system operator in connection with an interoperable system, the rights of the providing system operator to that collateral security shall not be affected by insolvency proceedings against the receiving system operator.’.
+
+2. Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with point (1) by 17 August 2014. They shall forthwith inform the Commission thereof.
+
+When Member States adopt those measures, they shall contain a reference to Directive 98/26/EC or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+<a id="art_88"></a>
+
+### Article 88 — Websites
+
+1. ESMA shall maintain a website which provides details of the following:
+
+(a) contracts eligible for the clearing obligation under Article 5;
+
+(b) penalties imposed for breaches of Articles 4, 5 and 7 to 11;
+
+(c) CCPs authorised to offer services or activities in the Union that are established in the Union, and the services or activities which they are authorised to provide or perform, including the classes of financial instruments covered by their authorisation;
+
+(d) penalties imposed for breaches of Titles IV and V;
+
+(e) CCPs authorised to offer services or activities in the Union established in a third country, and the services or activities which they are authorised to provide or perform, including the classes of financial instruments covered by their authorisation;
+
+(f) trade repositories authorised to offer services or activities in the Union;
+
+(g) fines and periodic penalty payments imposed in accordance with Articles 65 and 66;
+
+(h) the public register referred to in Article 6.
+
+2. For the purposes of points (b), (c) and (d) of paragraph 1, competent authorities shall maintain websites, which shall be linked to the ESMA website.
+
+3. All websites referred to in this Article shall be publicly accessible and regularly updated, and shall provide information in a clear format.
+
+<a id="art_89"></a>
+
+### Article 89 — Transitional provisions
+
+1. Until 18 June 2021, the clearing obligation set out in Article 4 shall not apply to OTC derivative contracts that are objectively measurable as reducing investment risks that directly relate to the financial solvency of pension scheme arrangements, and to entities established to provide compensation to members of such arrangements in case of default.
+
+The clearing obligation set out in Article 4 shall not apply to OTC derivative contracts as referred to in the first subparagraph of this paragraph entered into by pension scheme arrangements from 17 August 2018 until 16 June 2019.
+
+The OTC derivative contracts, which would otherwise be subject to the clearing obligation under Article 4, entered into by those entities during this period shall be subject to the requirements laid down in Article 11.
+
+2. In relation to pension scheme arrangements referred to in Article 2(10)(c) and (d) the exemption referred to in paragraph 1 of this Article shall be granted by the relevant competent authority for types of entities or types of arrangements. After receiving the request, the competent authority shall notify ESMA and EIOPA. Within 30 calendar days of receipt of the notification ESMA, after consulting EIOPA, shall issue an opinion assessing compliance of the type of entities or the type of arrangements with Article 2(10)(c) or (d) as well as the reasons why an exemption is justified due to difficulties in meeting the variation margin requirements. The competent authority shall only grant an exemption where it is fully satisfied that the type of entities or the type of arrangements complies with Article 2(10)(c) or (d) and that they encounter difficulties in meeting the variation margin requirements. The competent authority shall adopt a decision within ten working days of receipt of ESMA’s opinion, taking due account of that opinion. If the competent authority does not agree with ESMA’s opinion, it shall give full reasons in its decision and shall explain any significant deviation therefrom.
+
+ESMA shall publish on its website a list of types of entities and types of arrangements referred to in Article 2(10)(c) and (d) which has been granted an exemption in accordance with the first subparagraph. To further strengthen consistency in supervisory outcomes, ESMA shall conduct a peer review of the entities included on the list every year in accordance with Article 30 of Regulation (EU) No 1095/2010.
+
+3. A CCP that has been authorised in its Member State of establishment to provide clearing services in accordance with the national law of that Member State before all the regulatory technical standards under Articles 4, 5, 8 to 11, 16, 18, 25, 26, 29, 34, 41, 42, 44, 45, 46, 47, 49, 56 and 81 are adopted by the Commission, shall apply for authorisation under Article 14 for the purposes of this Regulation within six months of the date of entry into force of all the regulatory technical standards under Articles 16, 25, 26, 29, 34, 41, 42, 44, 45, 47 and 49.
+
+A CCP established in a third country, which has been recognised to provide clearing services in a Member State in accordance with the national law of that Member State before all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49 are adopted by the Commission, shall apply for recognition under Article 25 for the purposes of this Regulation within six months of the date of entry into force of all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49.
+
+4. Until a decision is made under this Regulation on the authorisation or recognition of a CCP, the respective national rules on authorisation and recognition of CCPs shall continue to apply and the CCP shall continue to be supervised by the competent authority of its Member State of establishment or recognition.
+
+5. Where a competent authority authorised a CCP to clear a given class of derivatives in accordance with the national law of its Member State before all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 45, 47 and 49 are adopted by the Commission, the competent authority of that Member State shall notify ESMA of that authorisation within one month of the date of entry into force of the regulatory technical standards under Article 5(1).
+
+Where a competent authority recognised a CCP established in a third country to provide clearing services in accordance with the national law of its Member State before all the regulatory technical standards under Articles 16, 26, 29, 34, 41, 42, 45, 47 and 49 are adopted by the Commission, the competent authority of that Member State shall notify ESMA of that recognition within one month of the date of entry into force of the regulatory technical standards under Article 5(1).
+
+5a. Until 15 months after the date of entry into force of the latest of the regulatory technical standards referred to in Articles 16, 25, 26, 29, 34, 41, 42, 44, 45, 47 and 49, or until a decision is made under Article 14 on the authorisation of the CCP, whichever is earlier, that CCP shall apply the treatment specified in the third subparagraph of this paragraph.
+
+Until 15 months after the date of entry into force of the latest of the regulatory technical standards referred to in Articles 16, 26, 29, 34, 41, 42, 44, 45, 47 and 49, or until a decision is made under Article 25 on the recognition of the CCP, whichever is earlier, that CCP shall apply the treatment specified in the third subparagraph of this paragraph.
+
+Until the deadlines defined in the first two subparagraphs of this paragraph, and subject to the fourth subparagraph of this paragraph, where a CCP neither has a default fund nor has in place a binding arrangement with its clearing members that allows it to use all or part of the initial margin received from its clearing members as if they were pre-funded contributions, the information it is to report in accordance with Article 50c(1) shall include the total amount of initial margin it has received from its clearing members.
+
+The deadlines referred to in the first and second subparagraphs of this paragraph may be extended by six months in accordance with a Commission implementing act adopted pursuant to Article 497(3) of Regulation (EU) No 575/2013.
+
+6. A trade repository that has been authorised or registered in its Member State of establishment to collect and maintain the records of derivatives in accordance with the national law of that Member State before all the regulatory and implementing technical standards under Articles 9, 56 and 81 are adopted by the Commission, shall apply for registration under Article 55 within six months of the date of entry into force of those regulatory and implementing technical standards.
+
+A trade repository established in a third country, which is allowed to collect and maintain the records of derivatives in a Member State in accordance with the national law of that Member State before all the regulatory and implementing technical standards under Articles 9, 56 and 81 are adopted by the Commission, shall apply for recognition under Article 77 within six months of the date of entry into force of those regulatory and implementing technical standards.
+
+7. Until a decision is made under this Regulation on the registration or recognition of a trade repository, the respective national rules on authorisation, registration and recognition of trade repositories shall continue to apply and the trade repository shall continue to be supervised by the competent authority of its Member State of establishment or recognition.
+
+8. A trade repository that has been authorised or registered in its Member State of establishment to collect and maintain the records of derivatives in accordance with the national law of that Member State before the regulatory and implementing technical standards under Articles 56 and 81 are adopted by the Commission, can be used to meet the reporting requirement under Article 9 until the time a decision is made on the registration of the trade repository under this Regulation.
+
+A trade repository established in a third country which has been allowed to collect and maintain the records of derivatives in accordance with the national law of a Member State before all the regulatory and implementing technical standards under Articles 56 and 81 are adopted by the Commission, can be used to meet the reporting requirement under Article 9 until the time a decision is made on the recognition of the trade repository under this Regulation.
+
+9. Notwithstanding Article 81(3)(f), where no international agreement is in place between a third country and the Union as referred to in Article 75, a trade repository may make the necessary information available to the relevant authorities of that third country until 17 August 2013 provided that it notifies ESMA.
+
+<a id="art_90"></a>
+
+### Article 90 — Staff and resources of ESMA
+
+By 31 December 2012, ESMA shall assess the staffing and resources needs arising from the assumption of its powers and duties in accordance with this Regulation and submit a report to the European Parliament, the Council and the Commission.
+
+<a id="art_91"></a>
+
+### Article 91 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+<a id="anx_i"></a>
+
+### ANNEX I
+
+**List of infringements referred to in Article 65(1)**
+
+I. Infringements relating to organisational requirements or conflicts of interest:
+
+(a) a trade repository infringes Article 78(1) by not having robust governance arrangements which include a clear organisational structure with well-defined, transparent and consistent lines of responsibility and adequate internal control mechanisms, including sound administrative and accounting procedures, which prevent the disclosure of confidential information;
+
+(b) a trade repository infringes Article 78(2) by not maintaining or operating effective written organisational and administrative arrangements to identify and manage any potential conflicts of interest concerning its managers, its employees, and any person directly or indirectly linked to them by close links;
+
+(c) a trade repository infringes Article 78(3) by not establishing adequate policies and procedures sufficient to ensure compliance, including that of its managers and employees, with all the provisions of this Regulation;
+
+(d) a trade repository infringes Article 78(4) by not maintaining or operating an adequate organisational structure to ensure continuity and orderly functioning of the trade repository in the performance of its services and activities;
+
+(e) a trade repository infringes Article 78(5) by not separating operationally its ancillary services from its function of centrally collecting and maintaining records of derivatives;
+
+(f) a trade repository infringes Article 78(6) by not ensuring that its senior management and the members of the board are of sufficiently good repute and experience so as to ensure the sound and prudent management of the trade repository;
+
+(g) a trade repository infringes Article 78(7) by not having objective non-discriminatory and publicly disclosed requirements for access by services providers and undertakings subject to the reporting obligation under Article 9;
+
+(h) a trade repository infringes Article 78(8) by not publicly disclosing the prices and fees associated with services provided under this Regulation, by not allowing reporting entities to access specific services separately or by charging prices and fees that are not cost related;
+
+(i) a trade repository infringes point (a) of Article 78(9) by not establishing adequate procedures for the effective reconciliation of data between trade repositories;
+
+(j) a trade repository infringes point (b) of Article 78(9) by not establishing adequate procedures to verify the completeness and correctness of the data reported;
+
+(k) a trade repository infringes point (c) of Article 78(9) by not establishing adequate policies for the orderly transfer of data to other trade repositories where requested by the counterparties and CCPs referred to in Article 9 or where otherwise necessary.
+
+II. Infringements relating to operational requirements:
+
+(a) a trade repository infringes Article 79(1) by not identifying sources of operational risk or by not minimising those risks through the development of appropriate systems, controls and procedures;
+
+(b) a trade repository infringes Article 79(2) by not establishing, implementing or maintaining an adequate business continuity policy and disaster recovery plan aimed at ensuring the maintenance of its functions, the timely recovery of operations and the fulfilment of the trade repository’s obligations;
+
+(c) a trade repository infringes Article 80(1) by not ensuring the confidentiality, integrity or protection of the information received under Article 9;
+
+(d) a trade repository infringes Article 80(2) by using the data that it receives under this Regulation for commercial purposes without the relevant counterparties having provided their consent;
+
+(e) a trade repository infringes Article 80(3) by not promptly recording the information received under Article 9 or by not maintaining it for at least 10 years following the termination of the relevant contracts or by not employing timely and efficient record-keeping procedures to document changes to recorded information;
+
+(f) a trade repository infringes Article 80(4) by not calculating the positions by class of derivatives and by reporting entity based on the details of the derivative contracts reported in accordance with Article 9;
+
+(g) a trade repository infringes Article 80(5) by not allowing the parties to a contract to access and correct the information on that contract in a timely manner;
+
+(h) a trade repository infringes Article 80(6) by not taking all reasonable steps to prevent any misuse of the information maintained in its systems.
+
+III. Infringements relating to transparency and the availability of information:
+
+(a) a trade repository infringes Article 81(1) by not regularly publishing, in an easily accessible way, aggregate positions by class of derivatives on the contracts reported to it;
+
+(b) a trade repository infringes Article 81(2) by not allowing the entities referred to in Article 81(3) direct and immediate access to the details of derivatives contracts they need to fulfil their respective responsibilities and mandates.
+
+IV. Infringements relating to obstacles to the supervisory activities:
+
+(a) a trade repository infringes Article 61(1) by providing incorrect or misleading information in response to a simple request for information by ESMA in accordance with Article 61(2) or in response to a decision by ESMA requiring information in accordance with Article 61(3);
+
+(b) a trade repository provides incorrect or misleading answers to questions asked pursuant to Article 62(1)(c);
+
+(c) a trade repository does not comply in due time with a supervisory measure adopted by ESMA pursuant to Article 73;
+
+(d) a trade repository infringes Article 55(4) by not notifying ESMA in due time of any material changes to the conditions for its registration.
+
+<a id="anx_ii"></a>
+
+### ANNEX II
+
+**List of the coefficients linked to aggravating and mitigating factors for the application of Article 65(3)**
+
+The following coefficients shall be applicable, cumulatively, to the basic amounts referred to in Article 65(2):
+
+I. Adjustment coefficients linked to aggravating factors:
+
+(a) if the infringement has been committed repeatedly, for every time it has been repeated, an additional coefficient of 1,1 shall apply;
+
+(b) if the infringement has been committed for more than six months, a coefficient of 1,5 shall apply;
+
+(c) if the infringement has revealed systemic weaknesses in the organisation of the trade repository, in particular in its procedures, management systems or internal controls, a coefficient of 2,2 shall apply;
+
+(d) if the infringement has a negative impact on the quality of the data it maintains, a coefficient of 1,5 shall apply;
+
+(e) if the infringement has been committed intentionally, a coefficient of 2 shall apply;
+
+(f) if no remedial action has been taken since the breach has been identified, a coefficient of 1,7 shall apply;
+
+(g) if the trade repository’s senior management has not cooperated with ESMA in carrying out its investigations, a coefficient of 1,5 shall apply.
+
+II. Adjustment coefficients linked to mitigating factors:
+
+(a) if the infringement has been committed for less than 10 working days, a coefficient of 0,9 shall apply;
+
+(b) if the trade repository’s senior management can demonstrate to have taken all the necessary measures to prevent the infringement, a coefficient of 0,7 shall apply;
+
+(c) if the trade repository has brought quickly, effectively and completely the infringement to ESMA’s attention, a coefficient of 0,4 shall apply;
+
+(d) if the trade repository has voluntarily taken measures to ensure that a similar infringement cannot be committed in the future, a coefficient of 0,6 shall apply.
+
+(1) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+(2) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).
+
+(3) Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1).
+
+(4) Directive (EU) 2016/2341 of the European Parliament and of the Council of 14 December 2016 on the activities and supervision of institutions for occupational retirement provision (IORPs) (OJ L 354, 23.12.2016, p. 37).
+
+(5) Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 (OJ L 257, 28.8.2014, p. 1).
+
+(6) OJ L 35, 11.2.2003, p. 1.
+
+(7) OJ L 390, 31.12.2004, p. 38.
+
+(8) OJ L 372, 31.12.1986, p. 1.
+
+(9) OJ L 222, 14.8.1978, p. 11.
+
+(10) Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation, and amending Directives 2009/65/EC, 2009/138/EC and 2011/61/EU and Regulations (EC) No 1060/2009 and (EU) No 648/2012 (OJ L 347, 28.12.2017, p. 35).
+
+(11) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+(12) Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84).
+
+(13) Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012 (OJ L 337, 23.12.2015, p. 1).
+
+(14) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).
+
+(15) OJ L 228, 11.8.1992, p. 1.
+
+(16) OJ L 168, 27.6.2002, p. 43.
+
+(17) OJ L 176, 27.6.2013,p.1.
+
+(18) Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63).
+
+(19) Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12).
+
+(20) Regulation (EC) No 713/2009 of the European Parliament and of the Council of 13 July 2009 establishing an Agency for the Cooperation of Energy Regulators (OJ L 211, 14.8.2009, p. 1).
+
+(21) Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190).
+
+(22) Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84).
+
+(23) Regulation (EU) 2019/834 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 648/2012 as regards the clearing obligation, the suspension of the clearing obligation, the reporting requirements, the risk-mitigation techniques for OTC derivative contracts not cleared by a central counterparty, the registration and supervision of trade repositories and the requirements for trade repositories (OJ L 141, 28.5.2019, p. 42).
+
+(24) Regulation (EU) 2017/1131 of the European Parliament and of the Council of 14 June 2017 on money market funds (OJ L 169, 30.6.2017, p. 8).
+
+(25) OJ L 191, 13.7.2001, p. 45.

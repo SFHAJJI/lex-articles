@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0461:2019-01-30",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2019/461 of 30 January 2019 amending Delegated Regulation (EU) 2016/522 as regards the exemption of the Bank of England and the United Kingdom Debt Management Office from the scope of Regulation (EU) No 596/2014",
+  "valid_from": "2019-01-30",
+  "valid_to": "2019-03-21",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0461/versions/2019-01-30/fr.xml",
+    "sha256": "dde2f0d0ab65a84342f8eef5c7ee524c713dfff2ac10ab51dd4c0262f78f1d46",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R0461"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0461:2019-01-30#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL'annexe I du règlement délégué (UE) 2016/522 est remplacée par le texte figurant à l'annexe du présent règlement.",
+      "text_sha256": "2a198fe1ee8c5b9178f73be4a598638eacb3078e2be27645bbbf98d73301159c",
+      "md_span": {
+        "start": 799,
+        "end": 930
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0461:2019-01-30#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à compter du jour suivant la date à laquelle le règlement (UE) no 596/2014 cesse de s'appliquer au Royaume-Uni et sur son territoire.",
+      "text_sha256": "c93b2dd4c5d082d8fc8ea0093a8f0c8d15b808470e97ef3a5c4681944603b6af",
+      "md_span": {
+        "start": 963,
+        "end": 1243
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r2360:2022-08-03",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2022/2360 of 3\u00A0August 2022 amending the regulatory te…",
+  "valid_from": "2022-08-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r2360/versions/2022-08-03/fr.xml",
+    "sha256": "7c4ea3582a7812da0a6819f7b5c57e184724ae480f05c750879670670d1f045c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2360"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r2360:2022-08-03#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe règlement délégué (UE) 2018/389 est modifié comme suit:\n\n| 1) | L’article 10 est remplacé par le texte suivant:«Article 10Accès aux informations sur le compte de paiement directement auprès du prestataire de services de paiement gestionnaire du compte1. Les prestataires de services de paiement sont autorisés à ne pas appliquer l’authentification forte du client, sous réserve du respect des exigences définies à l’article 2, lorsqu’un utilisateur de services de paiement accède en ligne à son compte de paiement directement, à condition que cet accès soit limité à l’un des éléments suivants en ligne sans que des données de paiement sensibles soient divulguées:a)le solde d’un ou de plusieurs comptes de paiement désignés;b)les opérations de paiement exécutées durant les 90 derniers jours par l’intermédiaire d’un ou de plusieurs comptes de paiement désignés.2. Par dérogation au paragraphe 1, les prestataires de services de paiement ne sont pas exemptés de l’application de l’authentification forte du client lorsque l’une des conditions suivantes est remplie:a)l’utilisateur de services de paiement accède en ligne aux informations visées au paragraphe 1 pour la première fois;b)plus de 180 jours se sont écoulés depuis la dernière fois que l’utilisateur de services de paiement a accédé en ligne aux informations visées au paragraphe 1 et que la procédure d’authentification forte du client a été appliquée.». |\n| --- | --- |\n| a) | le solde d’un ou de plusieurs comptes de paiement désignés; |\n| b) | les opérations de paiement exécutées durant les 90 derniers jours par l’intermédiaire d’un ou de plusieurs comptes de paiement désignés. |\n| a) | l’utilisateur de services de paiement accède en ligne aux informations visées au paragraphe 1 pour la première fois; |\n| b) | plus de 180 jours se sont écoulés depuis la dernière fois que l’utilisateur de services de paiement a accédé en ligne aux informations visées au paragraphe 1 et que la procédure d’authentification forte du client a été appliquée.» |\n\n| 2) | L’article 10 bis suivant est inséré:«Article 10 bisAccès aux informations sur le compte de paiement par l’intermédiaire d’un prestataire de services d’information sur les comptes1. Les prestataires de services de paiement n’appliquent pas l’authentification forte du client lorsqu’un utilisateur de services de paiement accède en ligne à son compte de paiement par l’intermédiaire d’un prestataire de services d’information sur les comptes, à condition que cet accès soit limité à l’un des éléments suivants en ligne sans que des données de paiement sensibles soient divulguées:a)le solde d’un ou de plusieurs comptes de paiement désignés;b)les opérations de paiement exécutées durant les 90 derniers jours par l’intermédiaire d’un ou de plusieurs comptes de paiement désignés.2. Par dérogation au paragraphe 1, les prestataires de services de paiement appliquent l’authentification forte du client lorsque l’une des conditions suivantes est remplie:a)l’utilisateur de services de paiement accède en ligne aux informations visées au paragraphe 1 pour la première fois par l’intermédiaire du prestataire de services d’information sur les comptes;b)plus de 180 jours se sont écoulés depuis la dernière fois que l’utilisateur de services de paiement a accédé en ligne aux informations visées au paragraphe 1 par l’intermédiaire du prestataire de services d’information sur les comptes et que la procédure d’authentification forte du client a été appliquée.3. Par dérogation au paragraphe 1, les prestataires de services de paiement sont autorisés à appliquer l’authentification forte du client lorsqu’un utilisateur de services de paiement accède en ligne à son compte de paiement par l’intermédiaire d’un prestataire de services d’information sur les comptes et que le prestataire de services de paiement a des raisons objectivement motivées et documentées liées à un accès non autorisé ou frauduleux au compte de paiement. Dans ce cas, le prestataire de services de paiement documente et motive dûment auprès de son autorité nationale compétente, sur demande, les raisons de l’application d’une authentification forte du client.4. Les prestataires de services de paiement gestionnaires de comptes qui proposent une interface dédiée telle que visée à l’article 31 ne sont pas tenus d’appliquer la dérogation prévue au paragraphe 1 du présent article aux fins du mécanisme d’urgence visé à l’article 33, paragraphe 4, lorsqu’ils n’appliquent pas la dérogation prévue à l’article 10 dans l’interface directe utilisée pour l’authentification et la communication avec leurs utilisateurs de services de paiement.». |\n| --- | --- |\n| a) | le solde d’un ou de plusieurs comptes de paiement désignés; |\n| b) | les opérations de paiement exécutées durant les 90 derniers jours par l’intermédiaire d’un ou de plusieurs comptes de paiement désignés. |\n| a) | l’utilisateur de services de paiement accède en ligne aux informations visées au paragraphe 1 pour la première fois par l’intermédiaire du prestataire de services d’information sur les comptes; |\n| b) | plus de 180 jours se sont écoulés depuis la dernière fois que l’utilisateur de services de paiement a accédé en ligne aux informations visées au paragraphe 1 par l’intermédiaire du prestataire de services d’information sur les comptes et que la procédure d’authentification forte du client a été appliquée. |\n\n| 3) | À l’article 30, le paragraphe 4 bis suivant est inséré:«4 bis. Par dérogation au paragraphe 4, les prestataires de services de paiement gestionnaires de comptes mettent à la disposition des prestataires de services de paiement visés dans le présent article les modifications apportées aux spécifications techniques de leurs interfaces pour se conformer à l’article 10 bis, au moins 2 mois avant la mise en œuvre de ces modifications.». |\n| --- | --- |",
+      "text_sha256": "bc7aa930963a523305434134b3fbc8e1bb9a07a8173bef27dbb447bef8ce9e0b",
+      "md_span": {
+        "start": 636,
+        "end": 6496
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r2360:2022-08-03#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les prestataires de services de paiement qui appliquaient la dérogation prévue à l’article 10 du règlement délégué (UE) 2018/389 avant le 25 juillet 2023 sont autorisés à continuer d’appliquer cette dérogation pour les demandes d’accès reçues par l’intermédiaire d’un prestataire de services d’information sur les comptes jusqu’à l’expiration de la période couverte par cette dérogation.\n\n2. Par dérogation au paragraphe 1, lorsqu’une nouvelle authentification forte du client est appliquée pour une demande d’accès par l’intermédiaire d’un prestataire de services d’information sur les comptes avant l’expiration de la période couverte par la dérogation visée au paragraphe 1, l’article 10 bis introduit par le présent règlement est applicable.",
+      "text_sha256": "1ceeff6b22a02b2710318d72bd6b051ebd274c668666730c7fa2b52925c00fe5",
+      "md_span": {
+        "start": 6529,
+        "end": 7288
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r2360:2022-08-03#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 25 juillet 2023.",
+      "text_sha256": "897ede0a1abff44ced678cc411f47cac2365622024e4bfd6b2d9d3e49d66fcbb",
+      "md_span": {
+        "start": 7321,
+        "end": 7510
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

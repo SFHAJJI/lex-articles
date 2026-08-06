@@ -1,0 +1,111 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r1152:2014-06-04",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) No 1152/2014 of 4 June 2014 supplementing Directive 2013/36/EU",
+  "valid_from": "2014-06-04",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r1152/versions/2014-06-04/en.xml",
+    "sha256": "e38dcf24aa634b71931463c9d273a09d88fa20499d181f1fe72b4bb603effff4",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R1152"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r1152:2014-06-04#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nFor the purposes of this Regulation, the following definitions shall apply:\n\n| (1) | ‘general credit exposure’ means the risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013 of an exposure referred to in Article 140(4)(a) of Directive 2013/36/EU; |\n| --- | --- |\n\n| (2) | ‘trading book exposure’ means the risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013 of an exposure referred to in Article 140(4)(b) of Directive 2013/36/EU; |\n| --- | --- |\n\n| (3) | ‘securitisation exposure’ means the risk exposure amount calculated in accordance with Article 92(3) of Regulation (EU) No 575/2013 of an exposure referred to in Article 140(4)(c) of Directive 2013/36/EU; |\n| --- | --- |\n\n| (4) | ‘location of the obligor’ means the Member State or the third country, where the natural or legal person, who is the institution's counterparty to a general credit exposure or the issuer of a financial instrument not included in the trading book or the counterparty to a non-trading book exposure, is ordinarily resident (in the case of a natural person), or has its registered office (in the case of a legal person); for a legal person whose centre of actual administration is in a Member State or in a third country other than the Member State or the country of its registered office, ‘location of the obligor’ means the Member State or the third country of its actual place of administration; |\n| --- | --- |\n\n| (5) | ‘location of the debtor’ means the Member State or the third country, where the natural or legal person who is the issuer of the financial instrument in the trading book, or the counterparty to a trading book exposure, is ordinarily resident (in the case of a natural person), or has its registered office (in the case of a legal person); for a legal person whose centre of actual administration is in a Member State or in a third country other than the state or the country of its registered office, ‘location of the debtor’ means the Member State or the third country of its actual place of administration; |\n| --- | --- |\n\n| (6) | ‘location of the income’ means the Member State or the third country of the location of the assets which generate the income that is the primary source of repayment of the obligation in relation to a specialised lending exposure; |\n| --- | --- |\n\n| (7) | ‘foreign exposure’ means a general credit exposure whose obligor is not located in the institution's home Member State; |\n| --- | --- |\n\n| (8) | ‘specialised lending exposure’ means the general credit exposures possessing the characteristics referred to in Article 147(8) of Regulation (EU) No 575/2013. |\n| --- | --- |",
+      "text_sha256": "50e54f505bc526f20630b9cac37cbedc4c09569590030545c241fe0fe54f0b9c",
+      "md_span": {
+        "start": 644,
+        "end": 3357
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r1152:2014-06-04#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n(1) All general credit exposures, which do not fall under paragraphs 2 to 5 of this Article, shall be allocated to the location of the obligor.\n\n(2) General credit exposures to CIUs as referred to in point (o) of Article 112 of Regulation (EU) No 575/2013, shall be allocated to the location of the obligor of the underlying exposures. If there is more than one location corresponding to the obligors of the underlying exposures of a given CIU exposure, Article 4(2) of this Regulation may also apply to that CIU exposure.\n\n(3) Specialised lending exposures as referred to in Article 147(8) of Regulation (EU) No 575/2013 shall be allocated to the location of the income.\n\n(4) General credit exposures to other items as referred to in point (q) of Article 112 of Regulation (EU) No 575/2013 shall be allocated to the institution's home Member State if the institution cannot identify their obligor.\n\n(5) The following general credit exposures may be allocated to an institution's home Member State:\n\n| (a) | exposures to CIUs as referred to in point (o) of Article 112 of Regulation (EU) No 575/2013, where the institution cannot identify the location of the obligor or obligors of the underlying exposures based on information existing internally or available externally without disproportionate effort; |\n| --- | --- |\n\n| (b) | foreign exposures, whose aggregate does not exceed 2 % of the aggregate of the general credit, trading book and securitisation exposures of that institution. The aggregate of the general credit, trading book and securitisation exposures is calculated by excluding the general credit exposures located in accordance with point (a) of this paragraph and with paragraph 4. |\n| --- | --- |\n\n(6) Institutions shall calculate the percentage referred to in point (b) of paragraph 5, both on an annual and on an ad hoc basis. An ad hoc calculation is required when an event that affects the financial or economic situation of the institution occurs.",
+      "text_sha256": "d458f652bccabf47f2ea6e435eca170a31ff9e0b5ad5ce4ef1f570b1ce14d7ac",
+      "md_span": {
+        "start": 3390,
+        "end": 5372
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r1152:2014-06-04#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n(1) Subject to paragraphs 2 and 3, trading book exposures shall be allocated to the location of the debtor.\n\n(2) For trading book exposures subject to the own funds requirements under Part Three, Title IV, Chapter 5 of Regulation (EU) No 575/2013, institutions shall determine their geographical location by multiplying their aggregate risk exposure amount by the ratio below:\n\n| (a) | the own funds requirements for sub-portfolios split according to the geographical location determined according to the model provided in Chapter 5 of Title IV of Part Three of Regulation (EU) No 575/2013 to |\n| --- | --- |\n\n| (b) | the sum of own funds requirements determined under point (a) across all geographical locations. |\n| --- | --- |\n\n(3) Institutions, whose total trading book exposures does not exceed 2 % of their total general credit, trading book and securitisation exposures, may allocate those exposures to the home Member State of the institution.\n\n(4) Institutions shall calculate the percentage referred to in paragraph 3, both on an annual and on an ad hoc basis. An ad hoc calculation is required when an event that affects the financial or economic situation of the institution occurs.",
+      "text_sha256": "24be1f35db047260e31cb0addcda6e55488696267a84ba19a64c4a1c531ebfd1",
+      "md_span": {
+        "start": 5405,
+        "end": 6610
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r1152:2014-06-04#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n(1) A securitisation exposure shall be allocated to the location of the obligor of the underlying exposures.\n\n(2) Where there is more than one location corresponding to the obligor of the underlying exposures of a given securitisation exposure, that exposure may allocated to the location of the obligor of the underlying exposures with the highest proportion in the underlying securitisation exposures.\n\n(3) Securitisation exposures for which information on underlying securitisation exposures is not available, may be allocated to the home Member State of the institution if the institution cannot identify the underlying obligor based on existing available information from internal or external sources or without applying a disproportionate effort to obtain the information.",
+      "text_sha256": "51d74acddbda30bfddf96b9d387054b196216440285c79eed0b3377ca21b6186",
+      "md_span": {
+        "start": 6643,
+        "end": 7432
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32014r1152:2014-06-04#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "80138b582df404d1030db3a74fc8e7cecf3799549ce0d411861a09d8ebdf3c93",
+      "md_span": {
+        "start": 7465,
+        "end": 7616
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

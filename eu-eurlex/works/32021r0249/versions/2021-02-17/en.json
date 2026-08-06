@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r0249:2021-02-17",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2021/249 of 17 February 2021 amending Implementing Regulation (EU) 2015/2197 with regard to closely correlated currencies in accordance with Regulation (EU) No 575/2013",
+  "valid_from": "2021-02-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r0249/versions/2021-02-17/en.xml",
+    "sha256": "70d7447a80a9d91702fef2dd691f74c0507c3ec21607bf82c916d55ffb7fcc71",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0249"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r0249:2021-02-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe Annex to Implementing Regulation (EU) 2015/2197 is replaced by the text in the Annex to this Regulation.",
+      "text_sha256": "eb259a17be7ad10413f5e182c9ef3f1ed0439b8c4cebda8a9f49ce04ba20ba92",
+      "md_span": {
+        "start": 753,
+        "end": 872
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r0249:2021-02-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 905,
+        "end": 1056
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

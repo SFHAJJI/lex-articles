@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -24,5 +25,30 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "1990-02-12",
+          "valid_to": null,
+          "text_sha256": "ce11dcdbf98a197579d5e35b9567e80b15560530d0f66dd1ccc12945f271ca8b",
+          "in_version": "lu-legilux:loi-1990-01-24-n2:1990-02-12",
+          "article_valid_from": "1990-02-12"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "1990-02-12",
+          "valid_to": null,
+          "text_sha256": "bd16be53bd3371c6f533d850a2a981602d99f2b9b1957348a8c4a0927f2c5cb0",
+          "in_version": "lu-legilux:loi-1990-01-24-n2:1990-02-12",
+          "article_valid_from": "1990-02-12"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

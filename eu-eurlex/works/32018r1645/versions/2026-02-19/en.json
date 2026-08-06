@@ -1,0 +1,133 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r1645:2026-02-19",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2018/1645 of 13 July 2018 supplementing Regulation (EU) 2016/1011",
+  "valid_from": "2026-02-19",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r1645/versions/2026-02-19/en.html",
+    "sha256": "789f9c3ba45a08d6b8ca061151cbae72caa2cc0b759a20ea7522ebb5f7deffab",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R1645-20260219"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r1645:2026-02-19#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "General requirements",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** An administrator located in a third country shall when applying for recognition pursuant to Article 32 of Regulation (EU) 2016/1011 provide the information listed in the Annex.\n\n**2.** Where the applicant has left out any of the required information, the application shall include an explanation as to why that information has not been provided.\n\n**3.** Personal data relating to the good repute of an applicant benchmark administrator’s management body and employees responsible for the oversight function, or of members performing the oversight function where a separate committee carries out the oversight function, shall be kept by applicant benchmark administrators and ESMA for as long as necessary to assess the initial application and the ongoing supervision, as applicable and no longer than five years after that person has ceased to perform its function.",
+      "text_sha256": "20b8e4d8944cd57999a2395f25899d02ccf5204b39e43abdbd9d1b53e325e872",
+      "md_span": {
+        "start": 683,
+        "end": 1555
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R0264",
+          "text": "32026R0264: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32018R1645",
+          "text": "32018R1645"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r1645:2026-02-19#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Format of the application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** The application for recognition shall be submitted in a language customary in the sphere of international finance or in one of the official languages of the Member State where the legal representative is established.\n\n**2.** ►M1 The application for recognition shall be submitted by electronic means.** ◄ ** Those electronic means shall ensure that completeness, integrity and confidentiality of the information are maintained during the transmission. The applicant shall ensure that each submitted document clearly identifies to which specific requirement of this Regulation it refers.",
+      "text_sha256": "cc3177de248eeff116a93bb4fd3dbd64e9e815f3b01f16af6532e524d7ff3c7e",
+      "md_span": {
+        "start": 1620,
+        "end": 2213
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R0264",
+          "text": "32026R0264: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32018R1645",
+          "text": "32018R1645"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R0264",
+          "text": "►M1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2a",
+      "provision_id": "eu-eurlex:32018r1645:2026-02-19#art_2a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2a",
+      "heading": "Information to be provided for specific types of benchmarks",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** An applicant providing only interest rate benchmarks shall:(a) submit the information listed in the Annex to this Regulation;(b) specify how the specific requirements laid down in Annex I to Regulation (EU) 2016/1011 are implemented where, pursuant to Article 18 of that Regulation, those specific requirements apply.\n\n**2.** An applicant providing only commodity benchmarks shall:(a) submit the information listed in the Annex to this Regulation;(b) specify how the specific requirements set out in Annex II to Regulation (EU) 2016/1011 are implemented where, pursuant to Article 19 of that Regulation, those specific requirements apply.",
+      "text_sha256": "81cfc3195ceecd98b7a3b45f8498356258d254735f4ee38731128f1c8c2b1d80",
+      "md_span": {
+        "start": 2314,
+        "end": 2959
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32018r1645:2026-02-19#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Specific information concerning policies and procedures",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Any policies and procedures established to comply with requirements of Regulation (EU) 2016/1011 and described in an application shall contain or be accompanied by:(a) an indication of the identity of the person or persons responsible for the approval and maintenance of the policies and procedures;(b) a description of how compliance with the policies and procedures is monitored and the identity of the person or persons responsible for this monitoring;(c) a description of the measures to be taken in the event of a breach of the policies and procedures.\n\n**2.** Where an applicant is a company within a group, it may comply with paragraph 1 by submitting the policies and procedures of its group where they relate to the provision of benchmarks.",
+      "text_sha256": "42c8ed96095af07d34a302f63449a03f1a349dcabbcda7f67fe3675e405c123c",
+      "md_span": {
+        "start": 3054,
+        "end": 3810
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32018r1645:2026-02-19#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Entry into force",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.\n\nIt shall apply from 25 January 2019.",
+      "text_sha256": "7ea00ef3e0c9c8a632d66647dc09c4fb476c058e9d03b5efb5299eba10f6380c",
+      "md_span": {
+        "start": 3866,
+        "end": 4046
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

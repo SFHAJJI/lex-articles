@@ -1,0 +1,1617 @@
+---
+lex_id: 'eu-eurlex:32014l0023:2018-01-01'
+title: 'Directive 2014/23/EU'
+valid_from: '2018-01-01'
+valid_to: '2019-12-31'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014L0023-20180101'
+source_sha256: '0a7bb78f564235f7a04fb51b7b5c73bcd9a6582f1f69c9e8f8601fed9eec4410'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## Section I
+
+### **Subject-matter, scope, general principles, definitions and threshold**
+
+<a id="art_1"></a>
+
+### Article 1 — Subject-matter and scope
+
+1. This Directive establishes rules on the procedures for procurement by contracting authorities and contracting entities by means of a concession, whose value is estimated to be not less than the threshold laid down in Article 8.
+
+2. This Directive applies to the award of works or services concessions, to economic operators by:
+
+(a) Contracting authorities; or
+
+(b) Contracting entities, provided that the works or services are intended for the pursuit of one of the activities referred to in Annex II.
+
+3. The application of this Directive is subject to Article 346 TFEU.
+
+4. Agreements, decisions or other legal instruments that organise the transfer of powers and responsibilities for the performance of public tasks between contracting authorities or contracting entities or groupings of contracting authorities or contracting entities, and which do not provide for remuneration to be given for contractual performance, are considered to be a matter of internal organisation of the Member State concerned and, as such, are not affected in any way by this Directive.
+
+<a id="art_2"></a>
+
+### Article 2 — Principle of free administration by public authorities
+
+1. This Directive recognises the principle of free administration by national, regional and local authorities in conformity with national and Union law. Those authorities are free to decide how best to manage the execution of works or the provision of services, to ensure in particular a high level of quality, safety and affordability, equal treatment and the promotion of universal access and of user rights in public services.
+
+Those authorities may choose to perform their public interest tasks with their own resources, or in cooperation with other authorities or to confer them upon economic operators.
+
+2. This Directive does not affect Member States’ systems of property ownership. In particular it does not require the privatisation of public enterprises providing services to the public.
+
+<a id="art_3"></a>
+
+### Article 3 — Principle of equal treatment, non-discrimination and transparency
+
+1. Contracting authorities and contracting entities shall treat economic operators equally and without discrimination and shall act in a transparent and proportionate manner.
+
+The design of the concession award procedure, including the estimate of the value, shall not be made with the intention of excluding it from the scope of this Directive or of unduly favouring or disadvantaging certain economic operators or certain works, supplies or services.
+
+2. Contracting authorities and contracting entities shall aim at ensuring the transparency of the award procedure and of the performance of the contract, while complying with Article 28.
+
+<a id="art_4"></a>
+
+### Article 4 — Freedom to define services of general economic interest
+
+1. This Directive does not affect the freedom of Member States to define, in conformity with Union law, what they consider to be services of general economic interest, how those services should be organised and financed, in compliance with the State aid rules, and what specific obligations they should be subject to. Equally, this Directive does not affect the way in which the Member States organise their social security systems.
+
+2. Non-economic services of general interest shall fall outside the scope of this Directive.
+
+<a id="art_5"></a>
+
+### Article 5 — Definitions
+
+For the purposes of this Directive the following definitions apply:
+
+(1) ‘concessions’ means works or services concessions, as defined in points (a) and (b):
+
+(a) ‘works concession’ means a contract for pecuniary interest concluded in writing by means of which one or more contracting authorities or contracting entities entrust the execution of works to one or more economic operators the consideration for which consists either solely in the right to exploit the works that are the subject of the contract or in that right together with payment;
+
+(b) ‘services concession’ means a contract for pecuniary interest concluded in writing by means of which one or more contracting authorities or contracting entities entrust the provision and the management of services other than the execution of works referred to in point (a) to one or more economic operators, the consideration of which consists either solely in the right to exploit the services that are the subject of the contract or in that right together with payment.
+
+The award of a works or services concession shall involve the transfer to the concessionaire of an operating risk in exploiting those works or services encompassing demand or supply risk or both. The concessionaire shall be deemed to assume operating risk where, under normal operating conditions, it is not guaranteed to recoup the investments made or the costs incurred in operating the works or the services which are the subject-matter of the concession. The part of the risk transferred to the concessionaire shall involve real exposure to the vagaries of the market, such that any potential estimated loss incurred by the concessionaire shall not be merely nominal or negligible;
+
+(2) ‘economic operator’ means any natural or legal person, or public entity, or a group of such persons or entities, including temporary associations of undertakings, which offers the execution of works and/or a work, the supply of products or the provision of services on the market;
+
+(3) ‘candidate’ means an economic operator that has sought an invitation or has been invited to take part in a concession award procedure;
+
+(4) ‘tenderer’ means an economic operator which has submitted a tender;
+
+(5) ‘concessionaire’ means an economic operator which has been awarded a concession;
+
+(6) ‘written’ or ‘in writing’ means any expression consisting of words or figures which can be read, reproduced and subsequently communicated, including information which is transmitted and stored by electronic means;
+
+(7) ‘execution of works’ means the execution, or both the design and execution, of works related to one of the activities referred to in Annex I or of a work, or the realisation, by whatever means, of a work corresponding to the requirements specified by the contracting authority or contracting entity exercising a decisive influence on the type or design of the work;
+
+(8) ‘a work’ means the outcome of building or civil engineering works taken as a whole which is sufficient in itself to fulfil an economic or technical function;
+
+(9) ‘electronic means’ means electronic equipment for the processing (including digital compression) and storage of data which is transmitted, conveyed and received by wire, by radio, by optical means or by other electromagnetic means;
+
+(10) ‘exclusive right’ means a right granted by a competent authority of a Member State by means of any law, regulation or published administrative provision which is compatible with the Treaties the effect of which is to limit the exercise of an activity to a single economic operator and which substantially affects the ability of other economic operators to carry out such an activity;
+
+(11) ‘special right’ means a right granted by a competent authority of a Member State by means of any law, regulation or published administrative provision which is compatible with the Treaties the effect of which is to limit the exercise of an activity to two or more economic operators and which substantially affects the ability of other economic operators to carry out such an activity;
+
+(12) ‘concession document’ means any document produced or referred to by the contracting authority or contracting entity to describe or determine elements of the concession or the procedure, including the concession notice, the technical and functional requirements, proposed conditions of concession, formats for the presentation of documents by candidates and tenderers, information on generally applicable obligations and any additional documents;
+
+(13) ‘innovation’ means the implementation of a new or significantly improved product, service or process, including but not limited to production, building or construction processes a new marketing method, or a new organisational method in business practices, workplace organisation or external relations, inter alia, with the purpose of helping to solve societal challenges or to support the Europe 2020 strategy.
+
+<a id="art_6"></a>
+
+### Article 6 — Contracting authorities
+
+1. For the purposes of this Directive, ‘contracting authorities’ means State, regional or local authorities, bodies governed by public law or associations formed by one or more such authorities or one or more such bodies governed by public law other than those authorities, bodies or associations which pursue one of the activities referred to in Annex II and award a concession for the pursuit of one of those activities.
+
+2. ‘Regional authorities’ includes all authorities of the administrative units listed non-exhaustively in NUTS 1 and 2, as referred to in Regulation (EC) No 1059/2003 of the European Parliament and of the Council (1).
+
+3. ‘Local authorities’ includes all authorities of the administrative units falling under NUTS 3 and smaller administrative units, as referred to in Regulation (EC) No 1059/2003.
+
+4. ‘Bodies governed by public law’ means bodies that have all of the following characteristics:
+
+(a) they are established for the specific purpose of meeting needs in the general interest, not having an industrial or commercial character;
+
+(b) they have legal personality; and
+
+(c) they are financed, for the most part, by the State, regional or local authorities, or by other bodies governed by public law; or are subject to management supervision by those bodies or authorities; or have an administrative, managerial or supervisory board, more than half of whose members are appointed by the State, regional or local authorities, or by other bodies governed by public law.
+
+<a id="art_7"></a>
+
+### Article 7 — Contracting entities
+
+1. For the purposes of this Directive, ‘contracting entities’ means entities which pursue one of the activities referred to in Annex II and award a concession for the pursuit of one of those activities, and which are one of the following:
+
+(a) State, regional or local authorities, bodies governed by public law or associations formed by one or more such authorities or one or more such bodies governed by public law;
+
+(b) public undertakings as defined in paragraph 4 of this Article;
+
+(c) entities other than those referred to in points (a) and (b) of this paragraph, but which operate on the basis of special or exclusive rights, granted for the exercise of one of the activities referred to in Annex II.
+
+2. Entities which have been granted special or exclusive rights by means of a procedure in which adequate publicity has been ensured and where the granting of those rights was based on objective criteria shall not constitute ‘contracting entities’ within the meaning of point (c) of paragraph 1. Such procedures shall include:
+
+(a) procurement procedures with a prior call for competition in conformity with Directive 2014/24/EU of the European Parliament and of the Council (2) and Directive 2014/25/EU, Directive 2009/81/EC or this Directive;
+
+(b) procedures pursuant to other legal acts of the Union listed in Annex III, ensuring adequate prior transparency for granting authorisations on the basis of objective criteria.
+
+3. The Commission shall be empowered to adopt delegated acts in accordance with Article 48 concerning amendments to the list of the Union legal acts set out in Annex III where necessary because of the repeal or amendment of those acts, or because of the adoption of new acts.
+
+4. ‘Public undertaking’ means any undertaking over which the contracting authorities may exercise, directly or indirectly, a dominant influence by virtue of their ownership thereof, their financial participation therein, or the rules which govern it.
+
+A dominant influence on the part of the contracting authorities shall be presumed in any of the following cases, in which those authorities, directly or indirectly:
+
+(a) hold the majority of the undertaking’s subscribed capital;
+
+(b) control the majority of the votes attaching to shares issued by the undertaking;
+
+(c) can appoint more than half of the undertaking’s administrative, management or supervisory body.
+
+<a id="art_8"></a>
+
+### Article 8 — Threshold and methods for calculating the estimated value of concessions
+
+1. This Directive shall apply to concessions the value of which is equal to or greater than ►M2 EUR 5 548 000 ** ◄ **.
+
+2. The value of a concession shall be the total turnover of the concessionaire generated over the duration of the contract, net of VAT, as estimated by the contracting authority or the contracting entity, in consideration for the works and services being the object of the concession, as well as for the supplies incidental to such works and services.
+
+That estimate shall be valid at the moment at which the concession notice is sent or, in cases where such notice is not provided for, at the moment at which the contracting authority or the contracting entity commences the concession award procedure, for instance by contacting economic operators in relation to the concessions.
+
+For the purpose of paragraph 1, if the value of the concession at the time of the award is more than 20 % higher than its estimated value, the valid estimate shall be the value of the concession at the time of the award.
+
+3. The estimated value of the concession shall be calculated using an objective method specified in the concession documents. When calculating the estimated value of the concession, contracting authorities and contracting entities shall, where applicable, take into account in particular:
+
+(a) the value of any form of option and any extension of the duration of the concession;
+
+(b) revenue from the payment of fees and fines by the users of the works or services other than those collected on behalf of the contracting authority or contracting entity;
+
+(c) payments or any financial advantage in any form whatsoever made by the contracting authority or contracting entity or any other public authority to the concessionaire, including compensation for compliance with a public service obligation and public investment subsidies;
+
+(d) the value of grants or any other financial advantages, in any form, from third parties for the performance of the concession;
+
+(e) revenue from sales of any assets which are part of the concession;
+
+(f) the value of all the supplies and services that are made available to the concessionaire by the contracting authorities or contracting entities, provided that they are necessary for executing the works or providing the services;
+
+(g) any prizes or payments to candidates or tenderers.
+
+4. The choice of the method used to calculate the estimated value of a concession shall not be made with the intention of excluding it from the scope of this Directive. A concession shall not be subdivided with the effect of preventing it from falling within the scope of this Directive, unless justified by objective reasons.
+
+5. Where a proposed work or service may result in concessions being awarded in the form of separate lots, account shall be taken of the total estimated value of all such lots.
+
+6. Where the aggregate value of the lots is equal to or exceeds the threshold laid down in this Article, this Directive shall apply to the awarding of each lot.
+
+<a id="art_9"></a>
+
+### Article 9 — Revision of the threshold
+
+1. Every two years from 30 June 2013, the Commission shall verify that the threshold set out in Article 8(1) corresponds to the threshold established in the World Trade Organisation Agreement on Government Procurement (the ‘GPA’) for works concessions and shall, where necessary, revise that threshold in accordance with this Article.
+
+In accordance with the calculation method set out in the GPA, the Commission shall calculate the value of the threshold on the basis of the average daily value of the euro in terms of the special drawing rights (SDRs), over a period of 24 months terminating on 31 August preceding the revision with effect from 1 January. The value of the threshold thus revised shall, where necessary, be rounded down to the nearest thousand euros so as to ensure that the threshold in force provided for by the GPA, expressed in SDRs, is observed.
+
+2. Every two years from 1 January 2014, the Commission shall determine the values, in the national currencies of the Member States whose currency is not the euro, of the threshold referred to in Article 8(1), revised pursuant to paragraph 1 of this Article.
+
+In accordance with the calculation method set out in the GPA, the determination of such values shall be based on the average daily values of those currencies corresponding to the applicable threshold expressed in euro over the 24 months terminating on 31 August preceding the revision with effect from 1 January.
+
+3. The Commission shall publish the revised threshold referred to in paragraph 1, its corresponding value in the national currencies referred to in the first subparagraph of paragraph 2, and the value determined in accordance with the second subparagraph of paragraph 2, in the *Official Journal of the European Union* at the beginning of the month of November following their revision.
+
+4. The Commission shall be empowered to adopt delegated acts in accordance with Article 48 to adapt the methodology set out in the second subparagraph of paragraph 1 of this Article to any change in the methodology provided in the GPA for the revision of the threshold referred to in Article 8(1) and for the determination of the corresponding values in the national currencies of the Member States whose currency is not the euro, as referred to in paragraph 2 of this Article.
+
+The Commission shall also be empowered to adopt delegated acts in accordance with Article 48 to revise the threshold referred to in Article 8(1) pursuant to paragraph 1 of this Article.
+
+5. Where it is necessary to revise that threshold and time constraints prevent use of the procedure set out in Article 48 and therefore imperative grounds of urgency so require, the procedure provided for in Article 49 shall apply to delegated acts adopted pursuant to the second subparagraph of paragraph 4 of this Article.
+
+## Section II
+
+### **Exclusions**
+
+<a id="art_10"></a>
+
+### Article 10 — Exclusions applicable to concessions awarded by contracting authorities and contracting entities
+
+1. This Directive shall not apply to services concessions awarded to a contracting authority or to a contracting entity as referred to in point (a) of Article 7(1) or to an association thereof on the basis of an exclusive right.
+
+This Directive shall not apply to services concessions awarded to an economic operator on the basis of an exclusive right which has been granted in accordance with the TFEU and Union legal acts laying down common rules on access to the market applicable to activities referred to in Annex II.
+
+2. By way of derogation from the second subparagraph of paragraph 1 of this Article, where Union sectoral legislation referred to in that subparagraph does not provide for sector-specific transparency obligations, Article 32 shall apply.
+
+Where a Member State grants an exclusive right to an economic operator for the exercise of one of the activities referred to in Annex II, it shall inform the Commission thereof within one month after the award of that exclusive right.
+
+3. This Directive shall not apply to concessions for air transport services based on the granting of an operating licence within the meaning of Regulation (EC) No 1008/2008 of the European Parliament and of the Council (3) or to concessions for public passenger transport services within the meaning of Regulation (EC) No 1370/2007.
+
+4. This Directive shall not apply to concessions which the contracting authority or contracting entity is obliged to award or organise in accordance with procedures different from those laid down in this Directive established by any of the following:
+
+(a) a legal instrument creating international law obligations, such as an international agreement concluded in conformity with the TFEU between a Member State and one or more third countries or subdivisions thereof and covering works, supplies or services intended for the joint implementation or exploitation of a project by their signatories;
+
+(b) an international organisation.
+
+This Directive shall not apply to concessions which the contracting authority or contracting entity awards in accordance with procurement rules provided by an international organisation or international financing institution, where the concessions concerned are fully financed by that organisation or institution. In the case of concessions co-financed for the most part by an international organisation or international financing institution, the parties shall agree on applicable procurement procedures.
+
+The Member States shall communicate all legal instruments referred to in point (a) of the first subparagraph of this paragraph to the Commission, which may consult the Advisory Committee on Public Procurement referred to in Article 50.
+
+This paragraph shall not apply to concessions in the fields of defence and security as referred to in Directive 2009/81/EC.
+
+5. This Directive shall not apply to concessions in the fields of defence and security as referred to in Directive 2009/81/EC, which are governed by:
+
+(a) specific procedural rules pursuant to an international agreement or arrangement concluded between one or more Member States and one or more third countries;
+
+(b) specific procedural rules pursuant to a concluded international agreement or arrangement relating to the stationing of troops and concerning the undertakings of a Member State or a third country;
+
+(c) specific procedural rules of an international organisation purchasing for its purposes, or to concessions which must be awarded by a Member State in accordance with those rules.
+
+6. This Directive shall apply to the awarding of concessions in the fields of defence and security as referred to in Directive 2009/81/EC with the exception of the following:
+
+(a) concessions for which the application of this Directive would oblige a Member State to supply information the disclosure of which it considers contrary to the essential interests of its security; or where the procurement and performance of the concession are declared to be secret or must be accompanied by special security measures in accordance with the laws, regulations or administrative provisions in force in a Member State provided that the Member State has determined that the essential interests concerned cannot be guaranteed by less intrusive measures, such as those referred to in paragraph 7;
+
+(b) concessions awarded in the framework of a cooperative programme referred to in point (c) of Article 13 of Directive 2009/81/EC;
+
+(c) concessions awarded by a government to another government relating to works and services directly linked to military equipment or sensitive equipment, or works and services specifically for military purposes, or sensitive works and sensitive services;
+
+(d) concessions awarded in a third country, carried out when forces are deployed outside the territory of the Union where operational needs require those concessions to be concluded with economic operators located in the area of operations; and
+
+(e) concessions otherwise exempted under this Directive.
+
+7. This Directive shall not apply to concessions not otherwise exempted under paragraph 6 to the extent that the protection of the essential security interests of a Member State cannot be guaranteed by less intrusive measures, for instance by imposing requirements aimed at protecting the confidential nature of information which the contracting authority or contracting entity makes available in a concession award procedure as provided for in this Directive.
+
+8. This Directive shall not apply to service concessions for:
+
+(a) the acquisition or rental, by whatever financial means, of land, existing buildings or other immovable property or concerning rights thereon;
+
+(b) the acquisition, development, production or co-production of programme material intended for audiovisual media services or radio media services, that are awarded by audiovisual or radio media service providers, or concessions for broadcasting time or programme provision, that are awarded to audiovisual or radio media service providers. For the purposes of this point, ‘audiovisual media services’ and ‘media service providers’ shall, respectively, have the same meaning as in points (a) and (d) of Article 1(1) of Directive 2010/13/EU of the European Parliament and of the Council (4). ‘Programme’ shall have the same meaning as in point (b) Article 1(1) of that Directive, but shall also include radio programmes and radio programme materials. Furthermore, for the purposes of this provision, ‘programme material’ shall have the same meaning as ‘programme’;
+
+(c) arbitration and conciliation services;
+
+(d) any of the following legal services:
+
+(i) legal representation of a client by a lawyer within the meaning of Article 1 of Council Directive 77/249/EEC (5) in:
+
+— an arbitration or conciliation held in a Member State, a third country or before an international arbitration or conciliation instance, or
+
+— judicial proceedings before the courts, tribunals or public authorities of a Member State or a third country or before international courts, tribunals or institutions;
+
+(ii) legal advice given in preparation of any of the proceedings referred to in point (i) of this point or where there is a tangible indication and high probability that the matter to which the advice relates will become the subject of such proceedings, provided that the advice is given by a lawyer within the meaning of Article 1 of Directive 77/249/EEC;
+
+(iii) document certification and authentication services which must be provided by notaries;
+
+(iv) legal services provided by trustees or appointed guardians or other legal services the providers of which are designated by a court or tribunal in the Member State concerned or are designated by law to carry out specific tasks under the supervision of such tribunals or courts;
+
+(v) other legal services which in the Member State concerned are connected, even occasionally, with the exercise of official authority;
+
+(e) financial services in connection with the issue, sale, purchase or transfer of securities or other financial instruments within the meaning of Directive 2004/39/EC of the European Parliament and of the Council (6), central bank services and operations conducted with the European Financial Stability Facility and the European Stability Mechanism;
+
+(f) loans, whether or not in connection with the issue, sale, purchase or transfer of securities or other financial instruments;
+
+(g) civil defence, civil protection, and danger prevention services that are provided by non-profit organisations or associations, and which are covered by CPV codes: 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9 and 85143000-3 except patient transport ambulance services;
+
+(h) political campaign services, which are covered by CPV codes 79341400-0, 92111230-3 and 92111240-6, when awarded by a political party in the context of an election campaign.
+
+9. This Directive shall not apply to service concessions for lottery services, which are covered by CPV code 92351100-7, awarded by a Member State to an economic operator on the basis of an exclusive right. For the purpose of this paragraph, the notion of exclusive right does not cover exclusive rights as referred to in Article 7(2).
+
+The grant of such an exclusive right shall be subject to publication in the *Official Journal of the European Union*.
+
+10. This Directive shall not apply to concessions awarded by contracting entities for the pursuit of their activities in a third country, in conditions not involving the physical use of a network or geographical area within the Union.
+
+<a id="art_11"></a>
+
+### Article 11 — Specific exclusions in the field of electronic communications
+
+This Directive shall not apply to concessions for the principal purpose of permitting the contracting authorities to provide or exploit public communications networks, or to provide to the public one or more electronic communications services.
+
+For the purposes of this Article, ‘public communications network’ and ‘electronic communications service’ shall have the same meaning as in Directive 2002/21/EC of the European Parliament and of the Council (7).
+
+<a id="art_12"></a>
+
+### Article 12 — Specific exclusions in the field of water
+
+1. This Directive shall not apply to concessions awarded to:
+
+(a) provide or operate fixed networks intended to provide a service to the public in connection with the production, transport or distribution of drinking water;
+
+(b) supply drinking water to such networks.
+
+2. This Directive shall also not apply to concessions with one, or both of the following subject-matters when they are connected with an activity referred to in paragraph 1:
+
+(a) hydraulic engineering projects, irrigation or land drainage, provided that the volume of water to be used for the supply of drinking water represents more than 20 % of the total volume of water made available by such projects or irrigation or drainage installations; or
+
+(b) the disposal or treatment of sewage.
+
+<a id="art_13"></a>
+
+### Article 13 — Concessions awarded to an affiliated undertaking
+
+1. For the purposes of this Article, ‘affiliated undertaking’ means any undertaking the annual accounts of which are consolidated with those of the contracting entity in accordance with the requirements of the Directive 2013/34/EU.
+
+2. In the case of entities, which are not subject to Directive 2013/34/EU, ‘affiliated undertaking’ shall mean any undertaking that:
+
+(a) may be, directly or indirectly, subject to a dominant influence by the contracting entity;
+
+(b) may exercise a dominant influence over the contracting entity; or
+
+(c) in common with the contracting entity, is subject to the dominant influence of another undertaking by virtue of ownership, financial participation, or the rules which govern it.
+
+For the purposes of this paragraph, ‘dominant influence’ shall have the same meaning as in the second subparagraph of Article 7(4).
+
+3. Notwithstanding Article 17 and provided that the conditions in paragraph 4 of this Article are met, this Directive shall not apply to concessions awarded:
+
+(a) by a contracting entity to an affiliated undertaking; or
+
+(b) by a joint venture, formed exclusively by a number of contracting entities for the purpose of carrying out activities referred to in Annex II, to an undertaking which is affiliated with one of those contracting entities.
+
+4. Paragraph 3 shall apply to:
+
+(a) service concessions provided that at least 80 % of the average total turnover of the affiliated undertaking over the preceding three years, taking into account all services provided by that undertaking, derives from the provision of services to the contracting entity or other undertakings with which it is affiliated;
+
+(b) works concessions provided that at least 80 % of the average total turnover of the affiliated undertaking over the preceding three years taking into account all works provided by that undertaking, derives from the provision of works to the contracting entity or other undertakings with which it is affiliated.
+
+5. Where, because of the date on which an affiliated undertaking was created or commenced activities, the turnover is not available for the preceding three years, it shall be sufficient for that undertaking to show that the turnover referred to in points (a) or (b) of paragraph 4 is credible, in particular by means of business projections.
+
+6. Where more than one undertaking affiliated with the contracting entity with which they form an economic group provides the same or similar services or works, the percentages referred to in paragraph 4 shall be calculated taking into account the total turnover deriving respectively from the provision of services or works by those affiliated undertakings.
+
+<a id="art_14"></a>
+
+### Article 14 — Concessions awarded to a joint venture or to a contracting entity forming part of a joint venture
+
+Notwithstanding Article 17, and provided that the joint venture has been set up in order to carry out the activity concerned over a period of at least three years and that the instrument setting up the joint venture stipulates that the contracting entities, which form it, will be part thereof for at least the same period, this Directive shall not apply to concessions awarded by any of the following:
+
+(a) a joint venture, formed exclusively by a number of contracting entities for the purpose of carrying out activities referred to in Annex II, to one of these contracting entities; or
+
+(b) a contracting entity to such a joint venture of which it forms part.
+
+<a id="art_15"></a>
+
+### Article 15 — Notification of information by contracting entities
+
+Contracting entities shall notify to the Commission, if so requested, the following information regarding the application of Article 13(2) and (3) and Article 14:
+
+(a) the names of the undertakings or joint ventures concerned;
+
+(b) the nature and value of the concessions involved;
+
+(c) proof, deemed necessary by the Commission, that the relationship between the undertaking or joint venture to which the concessions are awarded and the contracting entity complies with the requirements of Article 13 or Article 14.
+
+<a id="art_16"></a>
+
+### Article 16 — Exclusion of activities which are directly exposed to competition
+
+This Directive shall not apply to concessions awarded by contracting entities where, for the Member State in which such concessions are to be performed, it has been established pursuant to Article 35 of Directive 2014/25/EU that the activity is directly exposed to competition in accordance with Article 34 of that Directive.
+
+<a id="art_17"></a>
+
+### Article 17 — Concessions between entities within the public sector
+
+1. A concession awarded by a contracting authority or a contracting entity as referred to in point (a) of Article 7(1) to a legal person governed by private or public law shall fall outside the scope of this Directive where all of the following conditions are fulfilled:
+
+(a) the contracting authority or contracting entity exercises over the legal person concerned a control which is similar to that which it exercises over its own departments;
+
+(b) more than 80 % of the activities of the controlled legal person are carried out in the performance of tasks entrusted to it by the controlling contracting authority or contracting entity or by other legal persons controlled by that contracting authority or contracting entity; and
+
+(c) there is no direct private capital participation in the controlled legal person with the exception of non-controlling and non-blocking forms of private capital participation required by national legislative provisions, in conformity with the Treaties, which do not exert a decisive influence on the controlled legal person.
+
+A contracting authority or contracting entity as referred to in point (a) of Article 7(1) shall be deemed to exercise over a legal person a control similar to that which it exercises over its own departments within the meaning of point (a) of the first subparagraph of this paragraph, where it exercises a decisive influence over both strategic objectives and significant decisions of the controlled legal person. That control may also be exercised by another legal person, which is itself controlled in the same way by the contracting authority or contracting entity.
+
+2. Paragraph 1 also applies where a controlled legal person which is a contracting authority or contracting entity as referred to in point (a) of Article 7(1) awards a concession to its controlling contracting authority or contracting entity, or to another legal person controlled by the same contracting authority or contracting entity, provided that there is no direct private capital participation in the legal person being awarded the concession with the exception of non-controlling and non-blocking forms of private capital participation required by national legislative provisions, in conformity with the Treaties, which do not exert a decisive influence on the controlled legal person.
+
+3. A contracting authority or a contracting entity as referred to in point (a) of Article 7(1), which does not exercise over a legal person governed by private or public law control within the meaning of paragraph 1 of this Article, may nevertheless award a concession to that legal person without applying this Directive where all of the following conditions are fulfilled:
+
+(a) the contracting authority or contracting entity as referred to in point (a) of Article 7(1) exercises jointly with other contracting authorities or contracting entities a control over that legal person which is similar to that which they exercise over their own departments;
+
+(b) more than 80 % of the activities of that legal person are carried out in the performance of tasks entrusted to it by the controlling contracting authorities or contracting entities or by other legal persons controlled by the same contracting authorities or contracting entities; and
+
+(c) there is no direct private capital participation in the controlled legal person with the exception of non-controlling and non-blocking forms of private capital participation required by national legislative provisions, in conformity with the Treaties, which do not exert a decisive influence on the controlled legal person.
+
+For the purposes of point (a) of the first subparagraph of this paragraph, contracting authorities or contracting entities as referred to in point (a) of Article 7(1) exercise joint control over a legal person where all of the following conditions are fulfilled:
+
+(i) the decision-making bodies of the controlled legal person are composed of representatives of all participating contracting authorities or contracting entities. Individual representatives may represent several or all of the participating contracting authorities or contracting entities;
+
+(ii) those contracting authorities or contracting entities are able to jointly exert decisive influence over the strategic objectives and significant decisions of the controlled legal person; and
+
+(iii) the controlled legal person does not pursue any interests which are contrary to those of the controlling contracting authorities or contracting entities.
+
+4. A contract concluded exclusively between two or more contracting authorities or contracting entities as referred to in point (a) of Article 7(1) shall fall outside the scope of this Directive where all of the following conditions are fulfilled:
+
+(a) the contract establishes or implements a cooperation between the participating contracting authorities or contracting entities with the aim of ensuring that public services they have to perform are provided with a view to achieving objectives they have in common;
+
+(b) the implementation of that cooperation is governed solely by considerations relating to the public interest; and
+
+(c) the participating contracting authorities or contracting entities perform on the open market less than 20 % of the activities concerned by the cooperation;
+
+5. For the determination of the percentage of activities referred to in point (b) of the first subparagraph of paragraph 1, point (b) of the first subparagraph of paragraph 3 and point (c) of paragraph 4, the average total turnover or an appropriate alternative activity based measure such as costs incurred by the relevant legal person, contracting authority or contracting entity as referred to point (a) of Article 7(1) with respect to services, supplies and works for the three years preceding the concession award shall be taken into consideration.
+
+Where, because of the date on which the relevant legal person, contracting authority or contracting entity was created or commenced activities or because of a reorganisation of its activities, the turnover, or alternative activity based measure such as costs, are either not available for the preceding three years or no longer relevant, it shall be sufficient to show that the measurement of activity is credible, particularly by means of business projections.
+
+## Section III
+
+### **General provisions**
+
+<a id="art_18"></a>
+
+### Article 18 — Duration of the concession
+
+1. The duration of concessions shall be limited. The contracting authority or contracting entity shall estimate the duration on the basis of the works or services requested.
+
+2. For concessions lasting more than five years, the maximum duration of the concession shall not exceed the time that a concessionaire could reasonably be expected to take to recoup the investments made in operating the works or services together with a return on invested capital taking into account the investments required to achieve the specific contractual objectives.
+
+The investments taken into account for the purposes of the calculation shall include both initial investments and investments during the life of the concession.
+
+<a id="art_19"></a>
+
+### Article 19 — Social and other specific services
+
+Concessions for social and other specific services listed in Annex IV falling within the scope of this Directive shall be subject only to the obligations arising from Article 31(3) and Articles 32, 46 and 47.
+
+<a id="art_20"></a>
+
+### Article 20 — Mixed contracts
+
+1. Concessions which have as their subject-matter both works and services shall be awarded in accordance with the provisions applicable to the type of concession that characterises the main subject-matter of the contract in question.
+
+In the case of mixed concessions consisting partly of social and other specific services listed in Annex IV and partly of other services, the main subject-matter shall be determined according to which of the estimated values of the respective services is the higher.
+
+2. Where the different parts of a given contract are objectively separable, paragraphs 3 and 4 shall apply. Where the different parts of a given contract are objectively not separable, paragraph 5 shall apply.
+
+Where part of a given contract is covered by Article 346 TFEU or Directive 2009/81/EC, Article 21 of this Directive shall apply.
+
+In the case of contracts intended to cover several activities, one of them being subject either to Annex II of this Directive or to Directive 2014/25/EU, the applicable provisions shall be established in accordance with Article 22 of this Directive and Article 6 of Directive 2014/25/EU, respectively.
+
+3. In the case of contracts which have as their subject-matter elements covered by this Directive as well as other elements, contracting authorities and contracting entities may choose to award separate contracts for the separate parts. Where contracting authorities or contracting entities choose to award separate contracts for separate parts, the decision as to which legal regime applies to any one of such separate contracts shall be taken on the basis of the characteristics of the separate part concerned.
+
+Where contracting authorities or contracting entities choose to award a single contract, this Directive shall, unless otherwise provided in paragraph 4 of this Article or in Article 21, apply to the ensuing mixed contract, irrespective of the value of the parts that would otherwise fall under a different legal regime and irrespective of which legal regime those parts would otherwise have been subject to.
+
+4. In the case of mixed contracts containing elements of concessions as well as elements of public contracts covered by Directive 2014/24/EU or contracts covered by Directive 2014/25/EU, the mixed contract shall be awarded in accordance with Directive 2014/24/EU or Directive 2014/25/EU, respectively.
+
+5. Where the different parts of a given contract are objectively not separable, the applicable legal regime shall be determined on the basis of the main subject-matter of that contract.
+
+In the event such contracts involve both elements of a services concession and of a supply contract, the main subject-matter shall be determined according to which of the estimated values of the respective services or supplies is the higher.
+
+<a id="art_21"></a>
+
+### Article 21 — Mixed procurement contracts involving defence or security aspects
+
+1. In the case of mixed contracts which have as their subject-matter elements of a concession covered by this Directive and procurement or other elements covered by Article 346 TFEU or Directive 2009/81/EC this Article shall apply.
+
+In the case of contracts intended to cover several activities, one of them being subject either to Annex II of this Directive or to Directive 2014/25/EU, and another being covered by Article 346 TFEU or Directive 2009/81/EC, the applicable provisions shall be established in accordance with, Article 23 of this Directive and Article 26 of 2014/25/EU, respectively.
+
+2. Where the different parts of a given contract are objectively separable, contracting authorities or contracting entities may choose to award separate contracts for the separate parts or to award a single contract.
+
+Where contracting authorities or contracting entities choose to award separate contracts for separate parts, the decision of the legal regime applicable to any one of such separate contracts shall be taken on the basis of the characteristics of the separate part concerned.
+
+Where contracting authorities or contracting entities choose to award a single contract, the following criteria shall apply to determine the applicable legal regime:
+
+(a) where part of a given contract is covered by Article 346 TFEU, or different parts are covered by Article 346 TFEU and Directive 2009/81/EC respectively, the contract may be awarded without applying this Directive, provided that the award of a single contract is justified for objective reasons;
+
+(b) where part of a given contract is covered by Directive 2009/81/EC, the contract may be awarded in accordance with this Directive or in accordance with Directive 2009/81/EC, provided that the award of a single contract is justified for objective reasons.
+
+The decision to award a single contract shall not, however, be taken for the purpose of excluding contracts from the application of either this Directive or Directive 2009/81/EC.
+
+3. Where the different parts of a given contract are objectively not separable, the contract may be awarded without applying this Directive where it includes elements to which Article 346 TFEU applies. Otherwise the contracting authority or contracting entity may choose to award a contract in accordance with this Directive or in accordance with this Directive or in accordance with Directive 2009/81/EC.
+
+<a id="art_22"></a>
+
+### Article 22 — Contracts covering both activities referred to in Annex II and other activities
+
+1. By way of derogation from Article 20, in the case of contracts intended to cover several activities, contracting entities may choose to award separate contracts for the purposes of each separate activity or to award a single contract. Where contracting entities choose to award a separate contract, the decision of which rules apply to any one of such separate contracts shall be taken on the basis of the characteristics of the separate activity concerned.
+
+Notwithstanding Article 20, where contracting entities choose to award a single contract, paragraphs 2 and 3 of this Article shall apply. However, where one of the activities concerned is covered by Article 346 TFEU or Directive 2009/81/EC, Article 23 of this Directive shall apply.
+
+The choice between awarding a single contract or awarding a number of separate contracts shall not be made with the objective of excluding the contract or contracts from the scope of this Directive or, where applicable, from the scope of Directive 2014/24/EU or 2014/25/EU.
+
+2. A contract which is intended to cover several activities shall be subject to the rules applicable to the activity for which it is principally intended.
+
+3. In the case of contracts for which it is objectively impossible to determine for which activity the contract is principally intended, the applicable rules shall be determined in accordance with the following:
+
+(a) the concession shall be awarded in accordance with the provisions of this Directive applicable to concessions awarded by contracting authorities, if one of the activities for which the contract is intended is subject to the provisions of this Directive applicable to concessions awarded by contracting authorities and the other is subject to the provisions of this Directive applicable to concessions awarded by contracting entities;
+
+(b) the contract shall be awarded in accordance with Directive 2014/24/EU, if one of the activities for which the contract is intended is subject to this Directive and the other to Directive 2014/24/EU;
+
+(c) the contract shall be awarded in accordance with this Directive, if one of the activities for which the contract is intended is subject to this Directive and the other is not subject to either this Directive, Directive 2014/24/EU or Directive 2014/25/EU.
+
+<a id="art_23"></a>
+
+### Article 23 — Concessions covering both activities referred to in Annex II and activities involving defence or security aspects
+
+1. In the case of contracts intended to cover several activities, contracting entities may choose to award separate contracts for the purposes of each separate activity or to award a single contract. Where contracting entities choose to award separate contracts for separate parts, the decision of which legal regime applies to any one of such separate contracts shall be taken on the basis of the characteristics of the separate activity concerned.
+
+Notwithstanding Article 21, where contracting entities choose to award a single contract, paragraph 2 of this Article shall apply.
+
+The choice between awarding a single contract or awarding a number of separate contracts shall not, however, be made with the objective of excluding the contract or contracts from the scope of application either of this Directive or Directive 2009/81/EC.
+
+2. In the case of contracts intended to cover an activity which is subject to this Directive and another which is:
+
+(a) covered by Article 346 TFEU; or
+
+(b) subject to Directive 2009/81/EC,
+
+the contracting entity may:
+
+(i) award a contract without applying this Directive in the cases set out under point (a); or
+
+(ii) award a contract either in accordance with this Directive or in accordance with Directive 2009/81/EC, in the cases set out under point (b). The first subparagraph of this paragraph is without prejudice to the thresholds and exclusions provided for by Directive 2009/81/EC.
+
+Contracts referred to in point (b), which also include procurement or other elements which are covered by Article 346 TFEU, may be awarded without applying this Directive.
+
+However, it shall be a condition for the application of this paragraph that the award of a single contract is justified for objective reasons and the decision to award a single contract is not taken for the purpose of excluding contracts from the application of this Directive.
+
+## Section IV
+
+### **Specific situations**
+
+<a id="art_24"></a>
+
+### Article 24 — Reserved concessions
+
+Member States may reserve the right to participate in concession award procedures to sheltered workshops and economic operators whose main aim is the social and professional integration of disabled or disadvantaged persons or may provide for such concessions to be performed in the context of sheltered employment programmes, provided that at least 30 % of the employees of those workshops, economic operators or programmes are disabled or disadvantaged workers. The concession notice or, in the case of services concessions as defined in Article 19, prior information notice shall make reference to this Article.
+
+<a id="art_25"></a>
+
+### Article 25 — Research and development services
+
+This Directive shall only apply to service concessions for research and development services which are covered by CPV codes 73000000-2 to 73120000-9, 73300000-5, 73420000-2 and 73430000-5 provided that both the following conditions are fulfilled:
+
+(a) the benefits accrue exclusively to the contracting authority or contracting entity for its use in the conduct of its own affairs; and
+
+(b) the service provided is wholly remunerated by the contracting authority or contracting entity.
+
+## *CHAPTER II*
+
+### ***Principles***
+
+<a id="art_26"></a>
+
+### Article 26 — Economic operators
+
+1. Economic operators that, under the law of the Member State in which they are established, are entitled to provide the relevant service, shall not be rejected solely on the ground that, under the law of the Member State in which the contract is awarded, they would be required to be either natural or legal persons.
+
+Legal persons may be required to indicate, in the tender or in the application, the names and relevant professional qualifications of the staff to be responsible for the performance of the contract in question.
+
+2. Groups of economic operators, including temporary associations, may participate in concession award procedures. They shall not be required by contracting authorities or contracting entities to have a specific legal form in order to submit a tender or a request to participate.
+
+Where necessary, contracting authorities or contracting entities may clarify in the concession documents how groups of economic operators shall meet the requirements as to economic and financial standing or technical and professional ability referred to in Article 38 provided that this is justified by objective reasons and is proportionate. Member States may establish standard terms for how groups of economic operators are to meet those requirements. Any conditions for the performance of a concession by such groups of economic operators, which are different from those imposed on individual participants, shall also be justified by objective reasons and shall be proportionate.
+
+3. Notwithstanding paragraphs 1 and 2, contracting authorities or contracting entities may require groups of economic operators to assume a specific legal form once they have been awarded the contract, to the extent that that change is necessary for the satisfactory performance of the contract.
+
+<a id="art_27"></a>
+
+### Article 27 — Nomenclatures
+
+1. Any references to nomenclatures in the context of the award of concessions shall be made using the ‘Common Procurement Vocabulary (CPV)’ as adopted by Regulation (EC) No 2195/2002 of the European Parliament and of the Council (8).
+
+2. The Commission shall be empowered to adopt delegated acts in accordance with Article 48 to adapt the CPV codes referred to in this Directive, where changes in the CPV nomenclature must be reflected in this Directive and they do not imply a modification of the scope of this Directive.
+
+<a id="art_28"></a>
+
+### Article 28 — Confidentiality
+
+1. Unless otherwise provided in this Directive or in the national law to which the contracting authority is subject, in particular legislation concerning access to information, and without prejudice to the obligations relating to the advertising of awarded concession contracts and to the information to candidates and tenderers set out in Articles 32 and 40, the contracting authority or contracting entity shall not disclose information forwarded to it by economic operators which they have designated as confidential, including but not limited to, technical or trade secrets and the confidential aspects of tenders.
+
+This Article shall not prevent public disclosure of non-confidential parts of concluded contracts, including any subsequent changes.
+
+2. The contracting authority or contracting entity may impose on economic operators requirements aimed at protecting the confidential nature of information which it makes available throughout the concession award procedure.
+
+<a id="art_29"></a>
+
+### Article 29 — Rules applicable to communication
+
+1. Except where use of electronic means is mandatory pursuant to Article 33(2) and Article 34, Member States or contracting authorities and contracting entities may choose one or more of the following means of communication for all communication and information exchange:
+
+(a) electronic means;
+
+(b) post or fax;
+
+(c) oral communication, including telephone, in respect of communications other than the essential elements of a concession award procedure, and provided that the content of the oral communication is documented to a sufficient degree on a durable medium;
+
+(d) hand delivery certified by an acknowledgement of receipt.
+
+Member States may make mandatory the use of electronic means of communication for concessions, going beyond the obligations established in Article 33(2) and Article 34.
+
+2. The means of communication chosen shall be generally available and non-discriminatory, and shall not restrict economic operators’ access to the concession award procedure. The tools and devices to be used for communicating by electronic means, as well as their technical characteristics shall be interoperable with the information and communication technology products in general use.
+
+In all communication, exchange and storage of information, contracting authorities and contracting entities shall ensure that the integrity of data and the confidentiality of applications and tenders are preserved. They shall examine the content of applications and tenders only after the time limit set for submitting them has expired.
+
+## *CHAPTER I*
+
+### ***General principles***
+
+<a id="art_30"></a>
+
+### Article 30 — General principles
+
+1. The contracting authority or contracting entity shall have the freedom to organise the procedure leading to the choice of concessionaire subject to compliance with this Directive.
+
+2. The design of the concession award procedure shall respect the principles laid down in Article 3. In particular during the concession award procedure, the contracting authority or contracting entity shall not provide information in a discriminatory manner which may give some candidates or tenderers an advantage over others.
+
+3. Member States shall take appropriate measures to ensure that in the performance of concession contracts economic operators comply with applicable obligations in the fields of environmental, social and labour law established by Union law, national law, collective agreements or by the international environmental, social and labour law provisions listed in Annex X.
+
+4. The Commission shall be empowered to adopt delegated acts in accordance with Article 48 to amend the list in Annex X, where necessary, to add new international agreements that have been ratified by all Member States or where the existing international agreements referred to are no longer ratified by all Member States or they are otherwise changed, for instance in respect of their scope, content or denomination.
+
+<a id="art_31"></a>
+
+### Article 31 — Concession notices
+
+1. Contracting authorities and contracting entities wishing to award a concession shall make known their intention by means of a concession notice.
+
+2. Concession notices shall contain the information referred to in Annex V and, where appropriate, any other information deemed useful by the contracting authority or entity, in accordance with the format of standard forms.
+
+3. Contracting authorities and contracting entities wishing to award a concession for social and other specific services listed in Annex IV shall make known their intention of planned concession award through the publication of a prior information notice. Those notices shall contain the information set out in Annex VI.
+
+4. By way of derogation from paragraph 1, contracting authorities or contracting entities shall not be required to publish a concession notice where the works or services can be supplied only by a particular economic operator for any of the following reasons:
+
+(a) the aim of the concession is the creation or acquisition of a unique work of art or artistic performance;
+
+(b) the absence of competition for technical reasons;
+
+(c) the existence of an exclusive right;
+
+(d) the protection of intellectual property rights and exclusive rights other than those defined in point (10) of Article 5.
+
+The exceptions set out in points (b), (c) and (d) of the first subparagraph only apply when no reasonable alternative or substitute exists and the absence of competition is not the result of an artificial narrowing down of the parameters of the concession award.
+
+5. By way of derogation from paragraph 1, the contracting authority or contracting entity shall not be required to publish a new concession notice where no applications, no tenders, no suitable tenders or no suitable applications have been submitted in response to a prior concession procedure, provided that the initial conditions of the concession contract are not substantially altered and that a report is sent to the Commission, where it so requests;
+
+For the purposes of the first subparagraph, a tender shall be considered not to be suitable where it is irrelevant to the concession, being manifestly incapable, without substantial changes, of meeting the contracting authority or contracting entity’s needs and requirements as specified in the concession documents.
+
+For the purposes of the first subparagraph, an application shall be considered not to be suitable:
+
+(a) where the applicant concerned shall or may be excluded pursuant to Article 38(4) to (9) or does not meet the selection criteria set out by the contracting authority or the contracting entity pursuant to Article 38(1);
+
+(b) where applications include tenders which are not suitable within the meaning of the second subparagraph.
+
+<a id="art_32"></a>
+
+### Article 32 — Concession award notices
+
+1. Not later than 48 days after the award of a concession, the contracting authorities and contracting entities shall, in accordance with the procedures laid down in Article 33, send a concession award notice on the results of the concession award procedure. For social and other specific services listed in Annex IV, such notices may however be grouped on a quarterly basis. In that case they shall send the grouped notices within 48 days of the end of each quarter.
+
+2. Concession award notices shall contain the information set out in Annex VII, or in relation to concessions for social and other specific services listed in Annex IV, the information set out in Annex VIII, and shall be published in accordance with Article 33.
+
+<a id="art_33"></a>
+
+### Article 33 — Form and manner of publication of notices
+
+1. Concession notices, concession award notices and the notice referred to in the second subparagraph of Article 43(1) shall include the information set out in Annexes V, VI, VII, VIII and XI and in the format of standard forms, including standard forms for corrigenda.
+
+The Commission shall establish those standard forms by means of implementing acts. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 50.
+
+2. The notices referred to in paragraph 1 shall be drawn up, transmitted by electronic means to the Publications Office of the European Union and published in accordance with Annex IX. The Publications Office of the European Union shall give the contracting authority or contracting entity confirmation of the receipt of the notice and of the publication of the information sent, indicating the date of publication which shall constitute proof of publication. Notices shall be published not later than five days after they are sent. The costs of publication of the notices by the Publications Office of the European Union shall be borne by the Union.
+
+3. Concession notices shall be published in full in one or more of the official languages of the institutions of the Union as chosen by the contracting authority or contracting entity. That language version or those language versions shall constitute the sole authentic text or texts. A summary of the important elements of each notice shall be published in the other official languages of the institutions of the Union.
+
+4. Concession notices and concession award notices shall not be published at national level before publication by the Publications Office of the European Union unless publication at Union level does not take place 48 hours after the Publications Office of the European Union confirms receipt by the contracting authority or the contracting entity of the notice as referred to in paragraph 2. Concession notices and concession award notices published at national level shall not contain information other than that contained in the notices dispatched to the Publications Office of the European Union but shall indicate the date of dispatch of the notice to the Publications Office of the European Union.
+
+<a id="art_34"></a>
+
+### Article 34 — Electronic availability of concession documents
+
+1. Contracting authorities and contracting entities shall offer by electronic means unrestricted and full direct access free of charge to the concession documents from the date of publication of a concession notice or, where the concession notice does not include the invitation to submit tenders, from the date on which an invitation to submit tenders was sent. The text of the concession notice or of these invitations shall specify the internet address at which the concession documents are accessible.
+
+2. Where, in duly justified circumstances, due to exceptional security, or technical reasons or due to the particularly sensitive nature of commercial information requiring a very high level of protection, unrestricted and full direct access free of charge by electronic means to certain concession documents cannot be offered, contracting authorities or contracting entities shall indicate in the notice or the invitation to submit a tender that the concession documents concerned will be transmitted by other means than electronic means and the time limit for the receipt of tenders shall be prolonged.
+
+3. Provided that it has been requested in good time, the contracting authorities and contracting entities or competent departments shall supply to all applicants or tenderers taking part in the concession award procedure additional information relating to the concession documents not later than six days before the deadline fixed for the receipt of tenders.
+
+<a id="art_35"></a>
+
+### Article 35 — Combating corruption and preventing conflicts of interest
+
+Member States shall require contracting authorities and contracting entities to take appropriate measures to combat fraud, favouritism and corruption and to effectively prevent, identify and remedy conflicts of interest arising in the conduct of concession award procedures, so as to avoid any distortion of competition and to ensure the transparency of the award procedure and the equal treatment of all candidates and tenderers.
+
+The concept of conflicts of interest shall at least cover any situation where staff members of the contracting authority or entity who are involved in the conduct of the concession award procedure or may influence the outcome of that procedure have, directly or indirectly, a financial, economic or other personal interest which might be perceived to compromise their impartiality and independence in the context of the concession award procedure.
+
+With regard to conflicts of interest, the measures adopted shall not go beyond what is strictly necessary to prevent a potential conflict of interest or eliminate a conflict of interest that has been identified.
+
+## *CHAPTER II*
+
+### ***Procedural guarantees***
+
+<a id="art_36"></a>
+
+### Article 36 — Technical and functional requirements
+
+1. Technical and functional requirements shall define the characteristics required of the works or services that are the subject-matter of the concession. They shall be set out in the concession documents.
+
+Those characteristics may also refer to the specific process of production or provision of the requested works or services provided that they are linked to the subject-matter of the contract and proportionate to its value and its objectives. The characteristics may for instance include quality levels, environmental and climate performance levels, design for all requirements (including accessibility for disabled persons) and conformity assessment, performance, safety or dimensions, terminology, symbols, testing and test methods, marking and labelling, or user instructions.
+
+2. Unless justified by the subject-matter of the contract, technical and functional requirements shall not refer to a specific make or source, or a particular process which characterises the products or services provided by a specific economic operator, or to trade marks, patents, types or a specific production with the effect of favouring or eliminating certain undertakings or certain products. Such a reference shall be permitted, on an exceptional basis, where a sufficiently precise and intelligible description of the subject- matter of the contract is not possible. Such reference shall be accompanied by the words ‘or equivalent’.
+
+3. A contracting authority or contracting entity shall not reject a tender on the grounds that the works and services tendered for do not comply with the technical and functional requirements to which it has referred, once the tenderer proves in its tender, by any appropriate means, that the solutions it has proposed satisfied in an equivalent manner the technical and functional requirements.
+
+<a id="art_37"></a>
+
+### Article 37 — Procedural guarantees
+
+1. Concessions shall be awarded on the basis of the award criteria set out by the contracting authority or contracting entity in accordance with Article 41, provided that all of the following conditions are fulfilled:
+
+(a) the tender complies with the minimum requirements set, where applicable, by the contracting authority or contracting entity;
+
+(b) the tenderer complies with the conditions for participation as referred to in Article 38(1); and
+
+(c) the tenderer is not excluded from participating in the award procedure in accordance with Article 38(4) to (7), and subject to Article 38(9).
+
+The minimum requirements referred to in point (a) shall contain conditions and characteristics (particularly technical, physical, functional and legal) that any tender should meet or possess.
+
+2. The contracting authority or contracting entity shall provide:
+
+(a) in the concession notice, a description of the concession and of the conditions of participation;
+
+(b) in the concession notice, in the invitation to submit a tender or in other concession documents, a description of the award criteria and, where applicable, the minimum requirements to be met.
+
+3. The contracting authority or contracting entity may limit the number of candidates or tenderers to an appropriate level, on condition that this is done in a transparent manner and on the basis of objective criteria. The number of candidates or tenderers invited shall be sufficient to ensure genuine competition.
+
+4. The contracting authority or contracting entity shall communicate the description of the envisaged organisation of the procedure and an indicative completion deadline to all participants. Any modification shall be communicated to all participants and, to the extent that they concern elements disclosed in the concession notice, advertised to all economic operators.
+
+5. The contracting authority or contracting entity shall provide for appropriate recording of the stages of the procedure using the means it judges appropriate, subject to compliance with Article 28(1).
+
+6. The contracting authority or contracting entity may hold negotiations with candidates and tenderers. The subject-matter of the concession, the award criteria and the minimum requirements shall not be changed during the course of the negotiations.
+
+<a id="art_38"></a>
+
+### Article 38 — Selection and qualitative assessment of candidates
+
+1. Contracting authorities and contracting entities shall verify the conditions for participation relating to the professional and technical ability and the financial and economic standing of the candidates or tenderers, on the basis of self-declarations, reference or references to be submitted as proof in accordance with the requirements specified in the concession notice that shall be non-discriminatory and proportionate to the subject-matter of the concession. The conditions for participation shall be related and proportionate to the need to ensure the ability of the concessionaire to perform the concession, taking into account the subject-matter of the concession and the purpose of ensuring genuine competition.
+
+2. With a view to meeting the conditions for participation laid down in paragraph 1, an economic operator may, where appropriate and for a particular concession, rely on the capacities of other entities, regardless of the legal nature of its links with them. Where an economic operator wants to rely on the capacities of other entities, it shall prove to the contracting authority or the contracting entity that it will have at its disposal, throughout the period of the concession, the necessary resources, for example, by producing a commitment by those entities to that effect. With regard to financial standing, the contracting authority or the contracting entity may require that the economic operator and those entities are jointly liable for the execution of the contract.
+
+3. Under the same conditions, a group of economic operators as referred to in Article 26 may rely on the capacities of participants in the group or of other entities.
+
+4. Contracting authorities and contracting entities as referred to in point (a) of Article 7(1) shall exclude an economic operator from participation in a concession award procedure where they have established that that economic operator has been the subject of a conviction by final judgment for one of the following reasons:
+
+(a) participation in a criminal organisation, as defined in Article 2 of Council Framework Decision 2008/841/JHA (9);
+
+(b) corruption, as defined in Article 3 of the Convention on the fight against corruption involving officials of the European Communities or officials of Member States of the European Union (10) and Article 2(1) of Council Framework Decision 2003/568/JHA (11), as well as corruption as defined in the national law of the contracting authority or entity or the economic operator;
+
+(c) fraud within the meaning of Article 1 of the Convention on the protection of the European Communities’ financial interests’ (12);
+
+(d) terrorist offences or offences linked to terrorist activities, as defined in Articles 1 and 3 of Council Framework Decision 2002/475/JHA (13) respectively, or inciting, aiding or abetting or attempting to commit an offence, as referred to in Article 4 of that Framework Decision;
+
+(e) money laundering or terrorist financing, as defined in Article 1 of Directive 2005/60/EC of the European Parliament and of the Council (14);
+
+(f) child labour and other forms of trafficking in human beings as defined in Article 2 of Directive 2011/36/EU of the European Parliament and of the Council (15).
+
+The obligation to exclude an economic operator shall also apply where the person convicted by final judgment is a member of the administrative, management or supervisory body of that economic operator or has powers of representation, decision or control therein.
+
+Contracting entities other than those referred to in point (a) of Article 7(1) may exclude an economic operator from participation in a concession award procedure where they are aware that that economic operator has been the subject of a conviction by a final judgment for any of the reasons listed in the first subparagraph of this paragraph.
+
+5. Contracting authorities and contracting entities as referred to in point (a) of Article 7(1) shall exclude the economic operator from participation in a concession award procedure where it is aware that the economic operator is in breach of its obligations relating to the payment of taxes or social security contributions and where this has been established by a judicial or administrative decision having final and binding effect in accordance with the legal provisions of the country in which it is established or with those of the Member State of the contracting authority or contracting entity.
+
+Furthermore, contracting authorities and contacting entities as referred to in point (a) of Article 7(1) may exclude or may be required by Member States to exclude from participation in a concession award procedure an economic operator where the contracting authority or entity can demonstrate by any appropriate means that the economic operator is in breach of its obligations relating to the payment of taxes or social security contributions.
+
+This paragraph shall no longer apply when the economic operator has fulfilled its obligations by paying or entering into a binding arrangement with a view to paying the taxes or social security contributions due, including, where applicable, any interest accrued or fines.
+
+6. Member States may provide for a derogation from the mandatory exclusion provided for in paragraphs 4 and 5, on an exceptional basis, for overriding reasons relating to the public interest such as public health or protection of the environment.
+
+Member States may also provide for a derogation from the mandatory exclusion provided for in paragraph 5, where an exclusion would be clearly disproportionate, in particular where only minor amounts of taxes or social security contributions are unpaid or where the economic operator was informed of the exact amount due following its breach of its obligations relating to the payment of taxes or social security contributions at such time that it did not have the possibility to take measures as provided for in the third subparagraph of paragraph 5 before expiration of the deadline for submitting its application.
+
+7. Contracting authorities or contracting entities may exclude or may be required by Member State to exclude from participation in a concession award any economic operator if one of the following conditions is fulfilled:
+
+(a) where it can demonstrate by any appropriate means any violation of applicable obligations referred to in Article 30(3);
+
+(b) where the economic operator is bankrupt or is the subject of insolvency or winding-up proceedings, where its assets are being administered by a liquidator or by the court, where it is in an arrangement with creditors, where its business activities are suspended or it is in any analogous situation arising from a similar procedure under national laws and regulations; the contracting authority or the contracting entity may, however, decide not to exclude or be required by the Member State not to so exclude an economic operator which is in one of the above situations where it has established that the economic operator in question will be able to perform the concession, taking into account the applicable national rules and measures on the continuation of business in the case of those situations;
+
+(c) where the contracting authority can demonstrate by any appropriate means that the economic operator is guilty of a grave professional misconduct, which renders its integrity questionable;
+
+(d) where a conflict of interest within the meaning of the second paragraph of Article 35, cannot be effectively remedied by any other less intrusive measure;
+
+(e) where the contracting authority has sufficiently plausible indications to conclude that the economic operator has entered into agreements with other economic operators aimed at distorting competition;
+
+(f) where the economic operator has shown significant or persistent deficiencies in the performance of a substantive requirement under a prior concession or a prior contract with a contracting authority or with a contracting entity as defined in this Directive or in Directive 2014/25/EU which led to early termination of that prior contract, damages or other comparable sanctions;
+
+(g) where the economic operator has been guilty of serious misrepresentation in supplying the information required for the verification of the absence of grounds for exclusion or the fulfilment of the selection criteria, has withheld such information or is unable to submit the required documents supporting such information;
+
+(h) where the economic operator has undertaken to unduly influence the decision-making process of the contracting authority or contracting entity, to obtain confidential information that may confer upon it undue advantages in the concession award procedure or to negligently provide misleading information that may have a material influence on decisions concerning exclusion, selection or award;
+
+(i) in the case of concessions in the fields of defence and security as referred to in Directive 2009/81/EC, where the economic operator has been found, on the basis of any means of evidence, including protected data sources, not to possess the reliability necessary to exclude risks to the security of the Member State.
+
+8. Contracting authorities and contacting entities as referred to in point (a) of Article 7(1) shall at any time during the procedure exclude an economic operator where it turns out that the economic operator in question is, in view of acts committed or omitted either before or during the procedure, in one of the situations referred to in paragraph 4 of this Article and the first subparagraph of paragraph 5 of this Article.
+
+At any time during the procedure, contracting authorities and contacting entities may exclude or may be required by Member States to exclude an economic operator where it turns out that the economic operator in question is, in view of acts committed or omitted either before or during procedure, in one of the situations referred to in the second subparagraph of paragraph 5 and in paragraph 7.
+
+9. Any economic operator that is in one of the situations referred to in paragraphs 4 and 7 may provide evidence to the effect that measures taken by the economic operator are sufficient to demonstrate its reliability despite the existence of the relevant ground for exclusion. If such evidence is considered to be sufficient, the economic operator concerned shall not be excluded from the procedure.
+
+For this purpose, the economic operator shall prove that it has paid or undertaken to pay compensation in respect of any damage caused by the criminal offence or misconduct, clarified the facts and circumstances in a comprehensive manner by actively collaborating with the investigating authorities and taken concrete technical, organisational and personnel measures that are appropriate to prevent further criminal offences or misconduct. The measures taken by the economic operators shall be evaluated taking into account the gravity and particular circumstances of the criminal offence or misconduct. Where the measures are considered to be insufficient, the economic operator concerned shall receive a statement of the reasons for that decision.
+
+An economic operator which has been excluded by a final judgment from participating in procurement or concession award procedures shall not be entitled to make use of the possibility provided under this paragraph during the period of exclusion resulting from that judgment in the Member States where the judgment is effective.
+
+10. By law, regulation or administrative provision and having regard for Union law, Member States shall specify, the implementing conditions for this Article. They shall in particular, determine the maximum period of exclusion if no measures as specified in paragraph 9 are taken by the economic operator to demonstrate its reliability. Where the period of exclusion has not been set by final judgment, that period shall not exceed five years from the date of the conviction by final judgment in the cases referred to in paragraph 4 and three years from the date of the relevant event in the cases referred to in paragraph 7.
+
+<a id="art_39"></a>
+
+### Article 39 — Time limits for receipt of applications and tenders for the concession
+
+1. When fixing the time limits for the receipt of applications or of tenders contracting authorities or contracting entities shall take account in particular of the complexity of the concession and the time required for drawing up tenders or applications without prejudice to the minimum time limits set out in this Article.
+
+2. Where applications or tenders can be made only after a visit to the site or after on-the-spot inspection of the documents supporting the concession award documents, the time limits for the receipt of applications for the concession or for the receipt of tenders, shall be fixed so that all economic operators concerned may be aware of all the information needed to produce applications or tenders and, in any event, shall be longer than the minimum time limits set out in paragraphs 3 and 4.
+
+3. The minimum time limit for the receipt of applications whether or not including tenders for the concession shall be 30 days from the date on which the concession notice was sent.
+
+4. Where the procedure takes place in successive stages the minimum time limit for the receipt of initial tenders shall be 22 days from the date on which the invitation to tender is sent.
+
+5. The time limit for receipt of tenders may be reduced by five days where the contracting authority or contracting entity accepts that tenders may be submitted by electronic means in conformity with Article 29.
+
+<a id="art_40"></a>
+
+### Article 40 — Provision of information to candidates and tenderers
+
+1. The contracting authority or contracting entity shall as soon as possible inform each candidate and tenderer of decisions taken concerning the award of a concession, including the name of the successful tenderer, the grounds for any decision to reject his application or tender and the grounds for any decision not to award a contract for which there has been publication of a concession notice or to recommence the procedure.
+
+Moreover, on request from the party concerned, the contracting authority or contracting entity shall as quickly as possible, and in any case within 15 days from receipt of a written request inform any tenderers that have made an admissible tender of the characteristics and relative advantages of the tender selected.
+
+2. The contracting authority or contracting entity may decide to withhold certain information referred to in paragraph 1, regarding the contract, where the release of such information would impede law enforcement, would otherwise be contrary to the public interest, would prejudice the legitimate commercial interests of economic operators, whether public or private, or might prejudice fair competition between such operators.
+
+<a id="art_41"></a>
+
+### Article 41 — Award criteria
+
+1. Concessions shall be awarded on the basis of objective criteria which comply with the principles set out in Article 3 and which ensure that tenders are assessed in conditions of effective competition so as to identify an overall economic advantage for the contracting authority or the contracting entity.
+
+2. The award criteria shall be linked to the subject-matter of the concession, and shall not confer an unrestricted freedom of choice on the contracting authority or the contracting entity. They may include, inter alia, environmental, social or innovation-related criteria.
+
+Those criteria shall be accompanied by requirements which allow the information provided by the tenderers to be effectively verified.
+
+The contracting authority or the contracting entity shall verify whether tenders properly meet the award criteria.
+
+3. The contracting authority or the contracting entity shall list the criteria in descending order of importance.
+
+Notwithstanding the first subparagraph, where the contracting authority or contracting entity receive a tender which proposes an innovative solution with an exceptional level of functional performance which could not have been foreseen by a diligent contracting authority or contracting entity, the contracting authority or contracting entity may, exceptionally, modify the ranking order of the award criteria to take into account that innovative solution. In that case, the contracting authority or the contracting entity shall inform all tenderers about the modification of the order of importance and shall issue a new invitation to submit tenders, in respect of the minimal time limits referred to in Article 39(4). Where the award criteria have been published at the moment of the publication of the concession notice, the contracting authority or entity shall publish a new concession notice, in respect of the minimum time limits referred to in Article 39(3).
+
+The modification of the ranking order shall not result in discrimination.
+
+## TITLE III
+
+### **RULES ON PERFORMANCE OF CONCESSIONS**
+
+<a id="art_42"></a>
+
+### Article 42 — Subcontracting
+
+1. Observance of the obligations referred to in Article 30(3) by subcontractors shall be ensured through appropriate action by the competent national authorities acting within the scope of their responsibility and remit.
+
+2. In the concession documents, the contracting authority or the contracting entity may ask or may be required by a Member State to ask the tenderer or the applicant to indicate in its tender any share of the concession it may intend to subcontract to third parties and any proposed subcontractors. This paragraph shall be without prejudice to the question of the main concessionaire’s liability.
+
+3. In the case of works concessions and in respect of services to be provided at the facility under the oversight of the contracting authority or the contracting entity, after the award of the concession and at the latest when the performance of the concession commences, the contracting authority or the contracting entity shall require the concessionaire to indicate to the contracting authority or the contracting entity the name, contact details and legal representatives of its subcontractors, involved in such works or services, insofar as known at that point in time. The contracting authority or the contracting entity shall require the concessionaire to notify it of any changes to that information during the course of the concession as well as of the required information for any new subcontractors which it subsequently involves in such works or services.
+
+Notwithstanding the first subparagraph Member States may impose the obligation to deliver the required information directly on the concessionaire.
+
+The first and second subparagraphs shall not apply to suppliers.
+
+Contracting authorities and contracting entities may extend or may be required by Member States to extend the obligations provided for in the first subparagraph to for instance:
+
+(a) services concessions other than those concerning services to be provided at the facilities under the oversight of the contracting authority or the contracting entity or to suppliers involved in works or services concessions;
+
+(b) subcontractors of the concessionaire’s subcontractors or further down the subcontracting chain.
+
+4. With the aim of avoiding breaches of the obligations referred to in Article 30(3), appropriate measures may be taken, such as:
+
+(a) Where the national law of a Member State provides for a mechanism of joint liability between subcontractors and the concessionaire, the Member State concerned shall ensure that the relevant rules are applied in compliance with the conditions set out in Article 30(3).
+
+(b) Contracting authorities and contracting entities may verify or may be required by Member States to verify whether there are grounds for exclusion of subcontractors pursuant to Article 38(4) to (10). In such cases, the contracting authority or the contracting entity shall require the economic operator to replace a subcontractor in respect of which the verification has shown that there are compulsory grounds for exclusion. The contracting authority or the contracting entity may require or may be required by a Member State to require that the economic operator replaces a subcontractor in respect of which the verification has shown that there are non-compulsory grounds for exclusion.
+
+5. Member States may provide for more stringent liability rules under national law.
+
+6. Member States having chosen to provide for measures pursuant to paragraphs 1 and 3 shall, by law, regulation or administrative provisions and having regard to Union law, specify the implementing conditions for those measures. In so doing, Member States may limit their applicability, for instance in respect of certain types of contracts, certain categories of contracting authorities, contracting entities or economic operators or as of certain amounts.
+
+<a id="art_43"></a>
+
+### Article 43 — Modification of contracts during their term
+
+1. Concessions may be modified without a new concession award procedure in accordance with this Directive in any of the following cases:
+
+(a) where the modifications, irrespective of their monetary value, have been provided for in the initial concession documents in clear, precise and unequivocal review clauses, which may include value revision clauses, or options. Such clauses shall state the scope and nature of possible modifications or options as well as the conditions under which they may be used. They shall not provide for modifications or options that would alter the overall nature of the concession;
+
+(b) for additional works or services by the original concessionaire that have become necessary and that were not included in the initial concession where a change of concessionaire:
+
+(i) cannot be made for economic or technical reasons such as requirements of interchangeability or interoperability with existing equipment, services or installations procured under the initial concession; and
+
+(ii) would cause significant inconvenience or substantial duplication of costs for the contracting authority or contracting entity.
+
+However, in the case of concessions awarded by a contracting authority, for the purposes of pursuing an activity other than those referred to in Annex II, any increase in value shall not exceed 50 % of the value of the original concession. Where several successive modifications are made, that limitation shall apply to the value of each modification. Such consecutive modifications shall not be aimed at circumventing this Directive;
+
+(c) where all of the following conditions are fulfilled:
+
+(i) the need for modification has been brought about by circumstances which a diligent contracting authority or contracting entity could not foresee;
+
+(ii) the modification does not alter the overall nature of the concession;
+
+(iii) in the case of concessions awarded by contracting authority, for the purposes of pursuing an activity other than those referred to in Annex II, any increase in value is not higher than 50 % of the value of the initial concession. Where several successive modifications are made, this limitation shall apply to the value of each modification. Such consecutive modifications shall not be aimed at circumventing this Directive;
+
+(d) where a new concessionaire replaces the one to which the contracting authority or the contracting entity had initially awarded the concession as a consequence of either:
+
+(i) an unequivocal review clause or option in conformity with point (a);
+
+(ii) universal or partial succession into the position of the initial concessionaire, following corporate restructuring, including takeover, merger, acquisition or insolvency, of another economic operator that fulfils the criteria for qualitative selection initially established provided that this does not entail other substantial modifications to the contract and is not aimed at circumventing the application of this Directive; or
+
+(iii) in the event that the contracting authority or contracting entity itself assumes the main concessionaire’s obligations towards its subcontractors where this possibility is provided for under national legislation;
+
+(e) where the modifications, irrespective of their value, are not substantial within the meaning of paragraph 4.
+
+Contracting authorities or contracting entities having modified a concession in the cases set out under points (b) and (c) of this paragraph shall publish a notice to that effect in the *Official Journal of the European Union*. Such notice shall contain the information set out in Annex XI and shall be published in accordance with Article 33.
+
+2. Furthermore, and without any need to verify whether the conditions set out under points (a) to (d) of paragraph 4 are met, concessions may equally be modified without a new concession award procedure in accordance with this Directive being necessary where the value of the modification is below both of the following values:
+
+(i) the threshold set out in Article 8; and
+
+(ii) 10 % of the value of the initial concession.
+
+However, the modification may not alter the overall nature of the concession. Where several successive modifications are made, the value shall be assessed on the basis of the net cumulative value of the successive modifications.
+
+3. For the purpose of the calculation of the value referred to in paragraph 2 and points (b) and (c) of paragraph 1, the updated value shall be the reference value when the concession includes an indexation clause. If the concession does not include an indexation clause, the updated value shall be calculated taking into account the average inflation in the Member State of the contracting authority or of the contracting entity.
+
+4. A modification of a concession during its term shall be considered to be substantial within the meaning of point (e) of paragraph 1, where it renders the concession materially different in character from the one initially concluded. In any event, without prejudice to paragraphs 1 and 2, a modification shall be considered to be substantial where one or more of the following conditions is met:
+
+(a) the modification introduces conditions which, had they been part of the initial concession award procedure, would have allowed for the admission of applicants other than those initially selected or for the acceptance of a tender other than that originally accepted or would have attracted additional participants in the concession award procedure;
+
+(b) the modification changes the economic balance of the concession in favour of the concessionaire in a manner which was not provided for in the initial concession;
+
+(c) the modification extends the scope of the concession considerably;
+
+(d) where a new concessionaire replaces the one to which the contracting authority or contracting entity had initially awarded the concession in other cases than those provided for under point (d) of paragraph 1.
+
+5. A new concession award procedure in accordance with this Directive shall be required for other modifications of the provisions of a concession during its term than those provided for under paragraphs 1 and 2.
+
+<a id="art_44"></a>
+
+### Article 44 — Termination of concessions
+
+Member States shall ensure that contracting authorities and contracting entities have the possibility, under the conditions determined by the applicable national law, to terminate a concession during its term, where one or more of the following conditions is fulfilled:
+
+(a) a modification of the concession has taken place, which would have required a new concession award procedure pursuant to Article 43;
+
+(b) the concessionaire has been, at the time of concession award, in one of the situations referred to in Article 38(4) and should therefore have been excluded from the concession award procedure;
+
+(c) the Court of Justice of the European Union finds, in a procedure pursuant to Article 258 TFEU, that a Member State has failed to fulfil its obligations under the Treaties by the fact that a contracting authority or contracting entity belonging to that Member State has awarded the concession in question without complying with its obligations under the Treaties and this Directive.
+
+<a id="art_45"></a>
+
+### Article 45 — Monitoring and reporting
+
+1. In order to ensure correct and efficient implementation, Member States shall ensure that at least the tasks set out in this Article are performed by one or more authorities or structures. They shall indicate to the Commission all authorities, or structures competent for these tasks.
+
+2. Member States shall ensure that the application of rules for the award of concession contracts is monitored. Where monitoring authorities or structures identify specific violations, such as fraud, corruption, conflict of interest and other serious irregularities, or systemic problems, they shall be empowered to indicate those violations or problems to national auditing authorities, courts or tribunals or other appropriate authorities or structures, such as the ombudsman, national parliaments or committees thereof.
+
+3. The results of the monitoring activities pursuant to paragraph 2 shall be made available to the public through appropriate means of information.
+
+The Commission may, at the most every three years, request that Member States transmit to the Commission a monitoring report covering an overview of the most frequent causes of incorrect application of the rules for the award of concession contracts, including possible structural or recurring problems in the application of the rules, including possible cases of fraud and other illegal behaviour.
+
+4. Member States shall ensure that information and guidance on the interpretation and application of Union law for the award of concession contracts is available free of charge to assist contracting authorities and entities and economic operators in correctly applying the Union rules.
+
+## TITLE IV
+
+### **AMENDMENTS TO DIRECTIVES 89/665/EEC AND 92/13/EEC**
+
+<a id="art_46"></a>
+
+### Article 46 — Amendments to Directive 89/665/EEC
+
+Directive 89/665/EEC is amended as follows:
+
+(1) in Article 1, paragraph 1 is replaced by the following:
+
+‘1. This Directive applies to contracts referred to in Directive 2014/24/EU of the European Parliament and of the Council (*1) unless such contracts are excluded in accordance with Articles 7, 8, 9, 10, 11, 12, 15, 16, 17 and 37 of that Directive.
+
+This Directive also applies to concessions awarded by contracting authorities, referred to in Directive 2014/23/EU of the European Parliament and of the Council (*2) unless such concessions are excluded in accordance with Articles 10, 11, 12, 17 and 25 of that Directive.
+
+Contracts within the meaning of this Directive include public contracts, framework agreements, works and services concessions and dynamic purchasing systems.
+
+Member States shall take the measures necessary to ensure that, as regards contracts falling within the scope of Directive 2014/24/EU or Directive 2014/23/EU, decisions taken by the contracting authorities may be reviewed effectively and, in particular, as rapidly as possible in accordance with the conditions set out in Articles 2 to 2f of this Directive, on the grounds that such decisions have infringed Union law in the field of public procurement or national rules transposing that law.
+
+(2) in Article 2a, paragraph 2 is amended as follows:
+
+(a) the first subparagraph is replaced by the following:
+
+‘A contract may not be concluded following the decision to award a contract falling within the scope of Directive 2014/24/EU or Directive 2014/23/EU before the expiry of a period of at least 10 calendar days with effect from the day following the date on which the contract award decision is sent to the tenderers and candidates concerned if fax or electronic means are used or, if other means of communication are used, before the expiry of a period of either at least 15 calendar days with effect from the day following the date on which the contract award decision is sent to the tenderers and candidates concerned or at least 10 calendar days with effect from the day following the date of the receipt of the contract award decision.’;
+
+(b) in the fourth subparagraph, the first indent is replaced by the following:
+
+‘— a summary of the relevant reasons as set out in Article 55(2) of Directive 2014/24/EU, subject to Article 55(3) of that Directive, or in the second subparagraph of Article 40(1) of Directive 2014/23/EU, subject to Article 40(2) of that Directive, and’;
+
+(3) Article 2b is amended as follows:
+
+(a) in the first paragraph:
+
+(i) point (a) is replaced by the following:
+
+‘(a) if Directive 2014/24/EU or, where relevant, Directive 2014/23/EU does not require prior publication of a contract notice in the *Official Journal of the European Union*;’;
+
+(ii) point (c) is replaced by the following:
+
+‘(c) in the case of a contract based on a framework agreement as provided for in Article 33 of Directive 2014/24/EU and in the case of a specific contract based on a dynamic purchasing system as provided for in Article 34 of that Directive.’;
+
+(b) in the second paragraph, the first and the second indent are replaced by the following:
+
+‘— there is an infringement of point (c) of Article 33(4) or of Article 34(6) of Directive 2014/24/EU, and
+
+— the contract value is estimated to be equal to or to exceed the thresholds set out in Article 4 of Directive 2014/24/EU.’;
+
+(4) in Article 2c, the words ‘Directive 2004/18/EC’ are replaced by the words ‘Directive 2014/24/EU or Directive 2014/23/EU’;
+
+(5) Article 2d is amended as follows:
+
+(a) in paragraph 1:
+
+(i) point (a) is replaced by the following:
+
+‘(a) if the contracting authority has awarded a contract without prior publication of a contract notice in the *Official Journal of the European Union* without this being permissible in accordance with Directive 2014/24/EU or Directive 2014/23/EU’;
+
+(ii) in point (b) the words ‘Directive 2004/18/EC’ are replaced by the words ‘Directive 2014/24/EU or Directive 2014/23/EU’;
+
+(b) in paragraph 4, the first indent is replaced by the following:
+
+‘— the contracting authority considers that the award of a contract without prior publication of a contract notice in the *Official Journal of the European Union* is permissible in accordance with Directive 2014/24/EU or Directive 2014/23/EU’;
+
+(c) in paragraph 5, the first indent is replaced by the following:
+
+‘— the contracting authority considers that the award of a contract is in accordance with point (c) of Article 33(4) or with Article 34(6) of Directive 2014/24/EU,’;
+
+(6) in Article 2f(1), point (a) is replaced by the following:
+
+‘(a) before the expiry of at least 30 calendar days with effect from the day following the date on which:
+
+— the contracting authority published a contract award notice in accordance with Articles 50 and 51 of Directive 2014/24/EU or with Articles 31 and 32 of Directive 2014/23/EU, provided that this notice includes justification of the decision of the contracting authority to award the contract without prior publication of a contract notice in the *Official Journal of the European Union*, or
+
+— the contracting authority informed the tenderers and candidates concerned of the conclusion of the contract, provided that this information contains a summary of the relevant reasons as set out in Article 55(2) of Directive 2014/24/EU, subject to Article 55(3) of that Directive or in the second subparagraph of Article 40(1) of Directive 2014/23/EU, subject to Article 40(2) of that Directive. This option also applies to the cases referred to in point (c) of the first paragraph of Article 2b of this Directive’;
+
+(7) in Article 3, paragraph 1 is replaced by the following:
+
+‘1. The Commission may invoke the procedure provided for in paragraphs 2 to 5 when, prior to a contract being concluded, it considers that a serious infringement of Union law in the field of public procurement has been committed during a contract award procedure falling within the scope of Directive 2014/24/EU or Directive 2014/23/EU.’.
+
+<a id="art_47"></a>
+
+### Article 47 — Amendments to Directive 92/13/EEC
+
+Directive 92/13/EEC is amended as follows:
+
+(1) in Article 1, paragraph 1 is replaced by the following:
+
+‘1. This Directive applies to contracts referred to in Directive 2014/25/EU of the European Parliament and of the Council (*3) unless such contracts are excluded in accordance with Articles 18 to 24, 27 to 30, 34 or 55 of that Directive.
+
+Contracts within the meaning of this Directive include supply, works and service contracts, works and services concessions, framework agreements and dynamic purchasing systems.
+
+This Directive also applies to concessions awarded by contracting entities, referred to in Directive 2014/23/EU of the European Parliament and of the Council (*4) unless such contracts are excluded in accordance with Articles 10, 12, 13, 14, 16, 17 and 25 of that Directive.
+
+Member States shall take the measures necessary to ensure that, as regards contracts falling within the scope of Directive 2014/25/EU or Directive 2014/23/EU, decisions taken by contracting entities may be reviewed effectively and, in particular, as rapidly as possible in accordance with the conditions set out in Articles 2 to 2f of this Directive, on the grounds that such decisions have infringed Union law in the field of procurement or national rules transposing that law.
+
+(2) in Article 2a, paragraph 2 is amended as follows:
+
+(a) the first subparagraph is replaced by the following:
+
+‘A contract may not be concluded following the decision to award a contract falling within the scope of Directive 2014/25/EU or Directive 2014/23/EU before the expiry of a period of at least 10 calendar days with effect from the day following the date on which the contract award decision is sent to the tenderers and candidates concerned if fax or electronic means are used or, if other means of communication are used, before the expiry of a period of either at least 15 calendar days with effect from the day following the date on which the contract award decision is sent to the tenderers and candidates concerned or at least 10 calendar days with effect from the day following the date of the receipt of the contract award decision.’;
+
+(b) in the fourth subparagraph, the first indent is replaced by the following:
+
+‘— a summary of the relevant reasons as set out in Article 75(2) of Directive 2014/25/EU, subject to the provisions of Article 75(3) of that Directive or in the second subparagraph of Article 40(1) of Directive 2014/23/EU, subject to the provisions of Article 40(2) of that Directive, and’;
+
+(3) Article 2b is amended as follows:
+
+(a) in the first paragraph:
+
+(i) point (a) is replaced by the following:
+
+‘(a) if Directive 2014/25/EU or, where relevant, Directive 2014/23/EU does not require prior publication of a notice in the *Official Journal of the European Union*;’;
+
+(ii) point (c) is replaced by the following:
+
+‘(c) in the case of specific contracts based on a dynamic purchasing system as provided for in Article 52 of Directive 2014/25/EU.’;
+
+(b) in the second paragraph, the first and the second indent are replaced by the following:
+
+‘— there is an infringement of Article 52(6) of Directive 2014/25/EU, and
+
+— the contract value is estimated to be equal to or to exceed the thresholds set out in Article 15 of Directive 2014/25/EU.’;
+
+(4) in Article 2c, the words ‘Directive 2004/17/EC’ are replaced by the words ‘Directive 2014/25/EU or Directive 2014/23/EU’;
+
+(5) Article 2d is amended as follows:
+
+(a) in paragraph 1,
+
+(i) point (a) is replaced by the following:
+
+‘(a) if the contracting entity has awarded a contract without prior publication of a notice in the *Official Journal of the European Union* without this being permissible in accordance with Directive 2014/25/EU or Directive 2014/23/EU’;
+
+(ii) in point (b), the words ‘Directive 2004/17/EC’ are replaced by the words ‘Directive 2014/25/EU or Directive 2014/23/EU’;
+
+(b) in paragraph 4, the first indent is replaced by the following:
+
+‘— the contracting entity considers that the award of a contract without prior publication of a notice in the *Official Journal of the European Union* is permissible in accordance with Directive 2014/25/EU or Directive 2014/23/EU,’;
+
+(c) in paragraph 5, the first indent is replaced by the following:
+
+‘— the contracting entity considers that the award of a contract is in accordance with Article 52(6) of Directive 2014/25/EU,’;
+
+(6) in Article 2f(1), point (a) is replaced by the following:
+
+‘(a) before the expiry of at least 30 calendar days with effect from the day following the date on which:
+
+— the contracting entity published a contract award notice in accordance with Articles 70 and 71 of Directive 2014/25/EU or with Articles 31 and 32 of Directive 2014/23/EU, provided that this notice includes the justification of the decision of the contracting entity to award the contract without prior publication of a notice in the *Official Journal of the European Union*, or
+
+— the contracting entity informed the tenderers and candidates concerned of the conclusion of the contract, provided that this information contains a summary of the relevant reasons as set out in Article 75(2) of 2014/25/EU subject to Article 75(3) of that Directive or in the second subparagraph of Article 40(1) of Directive 2014/23/EU, subject to Article 40(2) of that Directive. This option also applies to the cases referred to in point (c) of the first paragraph of Article 2b of this Directive;’;
+
+(7) in Article 8, paragraph 1 is replaced by the following:
+
+‘1. The Commission may invoke the procedure provided for in paragraphs 2 to 5 when, prior to a contract being concluded, it considers that a serious infringement of Union law in the field of procurement has been committed during a contract award procedure falling within the scope of Directive 2014/25/EU or Directive 2014/23/EU, or in relation to Article 26(1) of Directive 2014/25/EU in the case of contracting entities to which that provision applies’.
+
+## TITLE V
+
+### **DELEGATED POWERS, IMPLEMENTING POWERS AND FINAL PROVISIONS**
+
+<a id="art_48"></a>
+
+### Article 48 — Exercise of the delegation
+
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2. The power to adopt delegated acts referred to in Article 7(3), Article 9(4), Article 27(2) and Article 30(4) shall be conferred on the Commission for an indeterminate period of time from 17 April 2014.
+
+3. The delegation of power referred to in Article 7(3), Article 9(4), Article 27(2) and Article 30(4) may be revoked at any time by the European Parliament or by the Council. A decision of to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the *Official Journal of the European Union* or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5. A delegated act adopted pursuant to Article 7(3), Article 9(4), Article 27(2) and Article 30(4) shall enter into force only where no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of the act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+<a id="art_49"></a>
+
+### Article 49 — Urgency procedure
+
+1. Delegated acts adopted under this Article shall enter into force without delay and shall apply as long as no objection is expressed in accordance with paragraph 2. The notification of a delegated act to the European Parliament and to the Council shall state the reasons for the use of the urgency procedure.
+
+2. Either the European Parliament or the Council may object to a delegated act in accordance with the procedure referred to in Article 48(5). In such a case, the Commission shall repeal the act without delay following the notification of the decision to object by the European Parliament or by the Council.
+
+<a id="art_50"></a>
+
+### Article 50 — Committee Procedure
+
+1. The Commission shall be assisted by the Advisory Committee for Public Procurement established by Council Decision 71/306/EEC (16). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2. Where reference is made to this Article, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+<a id="art_51"></a>
+
+### Article 51 — Transposition
+
+1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 18 April 2016. They shall forthwith communicate to the Commission the text thereof.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.
+
+2. Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.
+
+<a id="art_52"></a>
+
+### Article 52 — Transitional provisions
+
+References to points (a) and (b) of Article 1(3) of Directive 2004/17/EC and to Article 1(3) and (4) and Title III of Directive 2004/18/EC Directive shall be construed as references to this Directive.
+
+<a id="art_53"></a>
+
+### Article 53 — Monitoring and reporting
+
+The Commission shall assess the economic effects on the internal market, in particular in terms of factors such as cross-border award of contracts and transaction costs, resulting from the application of the thresholds set out in Article 8, and report thereon to the European Parliament and the Council by 18 April 2019. The appropriateness of the level of thresholds shall be examined in the context of negotiations under the GPA taking into account the impact of inflation and transaction costs. The Commission shall, where possible and appropriate, consider suggesting an increase of the threshold amounts applicable under the GPA during the next round of negotiations.
+
+In the event of any change to the threshold amounts applicable under the GPA, the report shall, where appropriate, be followed by a legislative proposal amending the thresholds set out in this Directive.
+
+The Commission shall also assess the economic effects on the internal market of the exclusions set out in Article 12 taking into account the specific structures of the water sector, and report thereon to the European Parliament and the Council by 18 April 2019.
+
+The Commission shall review the functioning of this Directive and shall report to the European Parliament and to the Council by 18 April 2021, and every five years thereafter, based on information that Member States shall provide in accordance with Article 45(3).
+
+The Commission shall make the results of the review carried out in accordance with the fourth paragraph publicly available.
+
+<a id="art_54"></a>
+
+### Article 54 — Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+This Directive shall not apply to the award of concessions tendered or awarded before 17 April 2014.
+
+<a id="art_55"></a>
+
+### Article 55 — Addressees
+
+This Directive is addressed to the Member States.
+
+<a id="anx_i"></a>
+
+### ANNEX I
+
+**LIST OF THE ACTIVITIES REFERRED TO IN POINT (7) OF ARTICLE 5** (1)
+
+| NACE Rev. 1 (2) | CPV code |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| SECTION F | CONSTRUCTION |  |  |  |  |
+| Division | Group | Class | Subject | Notes |  |
+| 45 |  |  | Construction | This division includes:construction of new buildings and works, restoring and common repairs. | 45000000 |
+|  | 45.1 |  | Site preparation |  | 45100000 |
+|  |  | 45.11 | Demolition and wrecking of buildings; earth moving | This class includes:— demolition of buildings and other structures,— clearing of building sites,— earth moving: excavation, landfill, levelling and grading of construction sites, trench digging, rock removal, blasting, etc.,— site preparation for mining,— overburden removal and other development and preparation of mineral properties and sites.This class also includes:— building site drainage,— drainage of agricultural or forestry land. | 45110000 |
+|  |  | 45.12 | Test drilling and boring | This class includes:— test drilling, test boring and core sampling for construction, geophysical, geological or similar purposes.This class excludes:— drilling of production oil or gas wells, see 11.20,— water well drilling, see 45.25,— shaft sinking, see 45.25,— oil and gas field exploration, geophysical, geological and seismic surveying, see 74.20. | 45120000 |
+|  | 45.2 |  | Building of complete constructions or parts thereof; civil engineering |  | 45200000 |
+|  |  | 45.21 | General construction of buildings and civil engineering works | This class includes:— construction of all types of buildings construction of civil engineering constructions,— bridges, including those for elevated highways, viaducts, tunnels and subways,— long-distance pipelines, communication and power lines,— urban pipelines, urban communication and power lines,— ancillary urban works,— assembly and erection of prefabricated constructions on the site.This class excludes:— service activities incidental to oil and gas extraction, see 11.20,— erection of complete prefabricated constructions from self-manufactured parts not of concrete, see divisions 20, 26 and 28,— construction work, other than buildings, for stadiums, swimming pools, gymnasiums, tennis courts, golf courses and other sports installations, see 45.23,— building installation, see 45.3,— building completion, see 45.4,— architectural and engineering activities, see 74.20,— project management for construction, see 74.20. | 45210000Except:– 45213316452200004523100045232000 |
+|  |  | 45.22 | Erection of roof covering and frames | This class includes:— erection of roofs,— roof covering,— waterproofing. | 45261000 |
+|  |  | 45.23 | Construction of highways, roads, airfields and sport facilities | This class includes:— construction of highways, streets, roads, other vehicular and pedestrian ways,— construction of railways,— construction of airfield runways,— construction work, other than buildings, for stadiums, swimming pools, gymnasiums, tennis courts, golf courses and other sports installations,— painting of markings on road surfaces and car parks.This class excludes:— preliminary earth moving, see 45.11. | 45212212 and DA0345230000except:– 45231000– 45232000– 45234115 |
+|  |  | 45.24 | Construction of water projects | This class includes construction of:— waterways, harbour and river works, pleasure ports (marinas), locks, etc.,— dams and dykes,— dredging,— subsurface work. | 45240000 |
+|  |  | 45.25 | Other construction work involving special trades | This class includes:— construction activities specialising in one aspect common to different kinds of structures, requiring specialised skill or equipment,— construction of foundations, including pile driving,— water well drilling and construction, shaft sinking,— erection of non-self-manufactured steel elements,— steel bending,— bricklaying and stone setting,— scaffolds and work platform erecting and dismantling, including renting of scaffolds and work platforms,— erection of chimneys and industrial ovens.This class excludes:— renting of scaffolds without erection and dismantling, see 71.32. | 4525000045262000 |
+|  | 45.3 |  | Building installation |  | 45300000 |
+|  |  | 45.31 | Installation of electrical wiring and fittings | This class includes:installation in buildings or other construction projects of:— electrical wiring and fittings,— telecommunications systems,— electrical heating systems,— residential antennas and aerials,— fire alarms,— burglar alarm systems,— lifts and escalators,— lightning conductors, etc. | 4521331645310000Except:– 45316000 |
+|  |  | 45.32 | Insulation work activities | This class includes:— installation in buildings or other construction projects of thermal, sound or vibration insulation.This class excludes:— waterproofing, see 45.22. | 45320000 |
+|  |  | 45.33 | Plumbing | This class includes:— installation in buildings or other construction projects of:— plumbing and sanitary equipment,— gas fittings,— heating, ventilation, refrigeration or air-conditioning equipment and ducts,— sprinkler systems.This class excludes:— installation of electrical heating systems, see 45.31. | 45330000 |
+|  |  | 45.34 | Other building installation | This class includes:— installation of illumination and signalling systems for roads, railways, airports and harbours,— installation in buildings or other construction projects of fittings and fixtures n.e.c. | 452341154531600045340000 |
+|  | 45.4 |  | Building completion |  | 45400000 |
+|  |  | 45.41 | Plastering | This class includes:— application in buildings or other construction projects of interior and exterior plaster or stucco, including related lathing materials. | 45410000 |
+|  |  | 45.42 | Joinery installation | This class includes:— installation of not self-manufactured doors, windows, door and window frames, fitted kitchens, staircases, shop fittings and the like, of wood or other materials,— interior completion such as ceilings, wooden wall coverings, movable partitions, etc.This class excludes:— laying of parquet and other wood floor coverings, see 45.43. | 45420000 |
+|  |  | 45.43 | Floor and wall covering | This class includes:— laying, tiling, hanging or fitting in buildings or other construction projects of:— ceramic, concrete or cut stone wall or floor tiles,— parquet and other wood floor coverings carpets and linoleum floor coverings,— including of rubber or plastic,— terrazzo, marble, granite or slate floor or wall coverings,— wallpaper. | 45430000 |
+|  |  | 45.44 | Painting and glazing | This class includes:— interior and exterior painting of buildings,— painting of civil engineering structures,— installation of glass, mirrors, etc.This class excludes:— installation of windows, see 45.42. | 45440000 |
+|  |  | 45.45 | Other building completion | This class includes:— installation of private swimming pools,— steam cleaning, sand blasting and similar activities for building exteriors,— other building completion and finishing work n.e.c.This class excludes:— interior cleaning of buildings and other structures, see 74.70. | 45212212 and DA0445450000 |
+|  | 45.5 |  | Renting of construction or demolition equipment with operator |  | 45500000 |
+|  |  | 45.50 | Renting of construction or demolition equipment with operator | This class excludes:— renting of construction or demolition machinery and equipment without operators, see 71.32. | 45500000 |
+| (1)In the event of any difference of interpretation between the CPV and the NACE, the CPV nomenclature will apply.(2)Council Regulation (EEC) No 3037/90 of 9 October 1990 on the statistical classification of economic activities in the European Community (OJ L 293, 24.10.1990, p. 1). |  |  |  |  |  |
+
+<a id="anx_ii"></a>
+
+### ANNEX II
+
+**ACTIVITIES EXERCISED BY CONTRACTING ENTITIES AS REFERRED TO IN ARTICLE 7**
+
+The provisions of this Directive governing concessions awarded by contracting entities shall apply to the following activities:
+
+1. As far as gas and heat are concerned:
+
+(a) the provision or operation of fixed networks intended to provide a service to the public in connection with the production, transport or distribution of gas or heat;
+
+(b) the supply of gas or heat to such fixed networks.
+
+The supply by a contracting entity referred to in points (b) and (c) of Article 7(1) of gas or heat to fixed networks which provide a service to the public shall not be considered to be a relevant activity within the meaning of the first subparagraph of this paragraph where all of the following conditions are met:
+
+(i) the production of gas or heat by that contracting entity is the unavoidable consequence of carrying out an activity other than those referred to in this paragraph or in paragraphs 2 and 3 of this Annex;
+
+(ii) the supply to the public network is aimed only at the economic exploitation of such production and amounts to not more than 20 % of that contracting entity’s turnover on the basis of the average for the preceding three years, including the current year.
+
+For the purposes of this Directive, ‘supply’ includes the generation/production, wholesale and retail sale of gas. However, production of gas in the form of extraction falls within the scope of paragraph 4 of this Annex.
+
+2. As far as electricity is concerned:
+
+(a) the provision or operation of fixed networks intended to provide a service to the public in connection with the production, transport or distribution of electricity;
+
+(b) the supply of electricity to such fixed networks.
+
+For the purposes of this Directive, supply of electricity includes generation/production, wholesale and retail sale of electricity.
+
+The supply by a contracting entity referred to in points (b) and (c) of Article 7(1) of electricity to networks which provide a service to the public shall not be considered to be a relevant activity within the meaning of the first subparagraph of this paragraph where all of the following conditions are met:
+
+(a) the production of electricity by that contracting entity takes place because its consumption is necessary for carrying out an activity other than those referred to in this paragraph or in paragraphs 1 and 3 of this Annex;
+
+(b) supply to the public network depends only on that contracting entity’s own consumption and has not exceeded 30 % of that contracting entity’s total production of energy, on the basis of the average for the preceding three years, including the current year.
+
+3. Activities relating to the provision or operation of networks providing a service to the public in the field of transport by railway, automated systems, tramway, trolley bus, bus or cable.
+
+As regards transport services, a network shall be considered to exist where the service is provided under operating conditions laid down by a competent authority of a Member State, such as conditions on the routes to be served, the capacity to be made available or the frequency of the service.
+
+4. Activities relating to the exploitation of a geographical area for the purpose of the provision of airports and maritime or inland ports or other terminal facilities to carriers by air, sea or inland waterway.
+
+5. Activities relating to the provision of:
+
+(a) postal services;
+
+(b) other services than postal services, on condition that such services are provided by an entity which also provides postal services within the meaning of point (ii) of the second subparagraph of this paragraph and provided that the conditions set out in Article 34(1) of Directive 2014/25/EU are not satisfied in respect of the services falling within point (ii) of the second subparagraph.
+
+For the purpose of this Directive and without prejudice to Directive 97/67/EC:
+
+(i) ‘postal item’ means an item addressed in the final form in which it is to be carried, irrespective of weight. In addition to items of correspondence, such items also include for instance books, catalogues, newspapers, periodicals and postal packages containing merchandise with or without commercial value, irrespective of weight;
+
+(ii) ‘postal services’: means services consisting of the clearance, sorting, routing and delivery of postal items. This shall include both services falling within as well as services falling outside the scope of the universal service set up in conformity with Directive 97/67/EC;
+
+(iii) ‘other services than postal services’: means services provided in the following areas:
+
+— mail service management services (services both preceding and subsequent to despatch, including ‘mailroom management services’),
+
+— services concerning postal items not included in point (a), such as direct mail bearing no address.
+
+6. Activities relating to the exploitation of a geographical area for the purpose of:
+
+(a) extracting oil or gas;
+
+(b) exploring for, or extracting, coal or other solid fuels.
+
+<a id="anx_iii"></a>
+
+### ANNEX III
+
+**LIST OF LEGAL ACTS OF THE UNION REFERRED TO IN POINT (B) OF ARTICLE 7(2)**
+
+Rights which have been granted by means of a procedure in which adequate publicity has been ensured and where the granting of those rights was based on objective criteria shall not constitute ‘special or exclusive rights’ within the meaning of this Directive. The following lists procedures, ensuring adequate prior transparency, for granting authorisations on the basis of other legislative acts of the Union which do not constitute ‘special or exclusive rights’ within the meaning of this Directive:
+
+(a) Granting authorisation to operate natural gas installations in accordance with the procedures laid down in Article 4 of Directive 2009/73/EC;
+
+(b) Authorisation or an invitation to tender for the construction of new electricity production installations in accordance with Directive 2009/72/EC;
+
+(c) The granting in accordance with the procedures laid down in Article 9 of Directive 97/67/EC of authorisations in relation to a postal service which is not or shall not be reserved;
+
+(d) A procedure for granting an authorisation to carry on an activity involving the exploitation of hydrocarbons in accordance with Directive 94/22/EC;
+
+(e) Public service contracts within the meaning of Regulation (EC) No 1370/2007 for the provision of public passenger transport services by bus, tramway, rail or metro, which have been awarded on the basis of a competitive tendering procedure in accordance with its Article 5(3), provided that its length is in conformity with Article 4(3) or (4) of that Regulation.
+
+<a id="anx_iv"></a>
+
+### ANNEX IV
+
+**SERVICES REFERRED TO IN ARTICLE 19**
+
+| ▼C2 |  |
+| --- | --- |
+| CPV Code | Description |
+| ▼B |  |
+| 79611000-0; 75200000-8; 75231200-6; 75231240-8; 79622000-0 [Supply services of domestic help personnel]; 79624000-4 [Supply services of nursing personnel] and 79625000-1 [Supply services of medical personnel] from 85000000-9 to 85323000-9; 85143000-3,98133100-5, 98133000-4 and 98200000-5 and 98500000-8 [Private households with employed persons] and 98513000-2 to 98514000-9 [Manpower services for households, Agency staff services for households, Clerical staff services for households, Temporary staff for households, Home-help services and Domestic services], | Health, social and related services |
+| 85321000-5 and 85322000-2, 75000000-6 [Administration, defence and social security services], 75121000-0, 75122000-7, 75124000-1; from 79995000-5 to 79995200-7; from 80000000-4 Education and training services to 80660000-8; from 92000000-1 to 92342200-2; from 92360000-2 to 92700000-8;79950000-8 [Exhibition, fair and congress organisation services], 79951000-5 [Seminar organisation services], 79952000-2 [Event services], 79952100-3 [Cultural event organisation services], 79953000-9 [Festival organisation services], 79954000-6 [Party organisation services], 79955000-3[Fashion shows organisation services], 79956000-0 [Fair and exhibition organisation services] | Administrative, social, educational, healthcare and cultural services |
+| 75300000-9 | Compulsory social security services (1) |
+| 75310000-2, 75311000-9, 75312000-6,75313000-3, 75313100-4, 75314000-0,75320000-5, 75330000-8, 75340000-1 | Benefit services |
+| 98000000-3; 98120000-0; 98132000-7; 98133110-8 and 98130000-3 | Other community, social and personal services including services furnished by trade unions, political organisations, youth associations and other membership organisation services. |
+| 98131000-0 | Religious services |
+| 55100000-1 to 55410000-7; 55521000-8 to 55521200-0[55521000-8 Catering services for private households, 55521100-9Meals-on-wheels services, 55521200-0 Meal delivery service].55520000-1 Catering services, 55522000-5 Catering services for transport enterprises, 55523000-2 Catering services for other enterprises or other institutions, 55524000-9 School catering services55510000-8 Canteen services, 55511000-5 Canteen and other restricted-clientele cafeteria services, 55512000-2 Canteen management services, 55523100-3 School-meal services | Hotel and restaurant services |
+| 79100000-5 to 79140000-7; 75231100-5; | Legal services, to the extent not excluded pursuant to Article 10(8)(d) |
+| 75100000-7 to 75120000-3; 75123000-4; 75125000-8 to 75131000-3 | Other administrative services and government services |
+| 75200000-8 to 75231000-4 | Provision of services to the community |
+| 75231210-9 to 75231230-5; 75240000-0 to 75252000-7; 794300000-7; 98113100-9 | Prison related services, public security and rescue services, to the extent not excluded pursuant to point (g) of Article 10(8) |
+| 79700000-1 to 79721000-4 [Investigation and security services, Security services, Alarm-monitoring services, Guard services, Surveillance services, Tracing system services, Absconder-tracing services, Patrol services, Identification badge release services, Investigation services and Detective agency services]79722000-1[Graphology services], 79723000-8 [Waste analysis services] | Investigation and security services |
+| 64000000-6 [Postal and telecommunications services], 64100000-7 [Post and courier services], 64110000-0 [Postal services], 64111000-7 [Postal services related to newspapers and periodicals], 64112000-4 [Postal services related to letters], 64113000-1 [Postal services related to parcels], 64114000-8 [Post office counter services], 64115000-5 [Mailbox rental], 64116000-2 [Post-restante services], 64122000-7 [Internal office mail and messenger services] | Postal Services |
+| 50116510-9 [Tyre-remoulding services], 71550000-8 [Blacksmith services] | Miscellaneous services |
+| 98900000-2 [Services provided by extra-territorial organisations and bodies] and 98910000-5 [Services specific to international organisations and bodies] | International services |
+| (1)These services are not covered by the present Directive where they are organised as non-economic services of general interest. Member States are free to organise the provision of compulsory social services or of other services as services of general interest or as non-economic services of general interest. |  |
+
+<a id="anx_v"></a>
+
+### ANNEX V
+
+**INFORMATION TO BE INCLUDED IN CONCESSION NOTICES REFERRED TO IN ARTICLE 31**
+
+1. Name, identification number (where provided for in national legislation), address, including NUTS code, telephone, fax number, e-mail and internet address of the contracting authority or entity and, where different, of the service from which additional information may be obtained.
+
+2. Type of contracting authority or entity and main activity exercised.
+
+3. If the applications are to contain tenders, e-mail or internet address at which the concession documents will be available for unrestricted and full direct access, free of charge. Where unrestricted and full direct access, free of charge, is not available in the cases referred to in Article 34(2) an indication of how the procurement documents can be accessed.
+
+4. Description of the concession: nature and extent of works, nature and extent of services, order of magnitude or indicative value and, where possible, duration of the contract. Where the concession is divided into lots, this information shall be provided for each lot. Where appropriate, description of any options.
+
+5. CPV codes. Where the concession is divided into lots, this information shall be provided for each lot.
+
+6. NUTS code for the main location of works in case of works concessions or NUTS code for the main place of performance service concessions; where the concession is divided into lots, this information shall be provided for each lot.
+
+7. Conditions for participation, including:
+
+(a) where appropriate, indication whether the concession is restricted to sheltered workshops, or whether its execution is restricted to the framework of protected job programmes;
+
+(b) where appropriate, indication whether the provision of the service is reserved by law, regulation or administrative provision to a particular profession; reference to the relevant law, regulation or administrative provision;
+
+(c) a list and brief description of selection criteria where applicable; minimum level(s) of standards possibly required; indication of required information (self-declarations, documentation).
+
+8. Time limit for the submission of applications or receipt of tenders.
+
+9. Criteria which will be applied in the award of the concession where they do not appear in other concession documents.
+
+10. Date of dispatch of the notice.
+
+11. Name and address of the body responsible for appeal and, where appropriate, mediation procedures. Precise information concerning the deadline for lodging appeals or, if need be, the name, address, telephone number, fax number and e-mail address of the service from which this information may be obtained.
+
+12. Where appropriate, particular conditions to which performance of the concession is subject.
+
+13. Address where applications or tenders shall be transmitted.
+
+14. Where appropriate, indication of requirements and conditions related to the use of electronic means of communication.
+
+15. Information as to whether the concession is related to a project and/or programme financed by Union funds.
+
+16. For works concessions, indication as to whether the concession is covered by the GPA.
+
+<a id="anx_vi"></a>
+
+### ANNEX VI
+
+**INFORMATION TO BE INCLUDED IN PRIOR INFORMATION NOTICES CONCERNING CONCESSIONS FOR SOCIAL AND OTHER SPECIFIC SERVICES, AS REFERRED TO IN ARTICLE 31(3)**
+
+1. Name, identification number (where provided for in national legislation), address including NUTS code, telephone, fax number, e-mail and internet address of the contracting authority or contracting entity and, where different, of the service from which additional information may be obtained.
+
+2. Where appropriate, e-mail or internet address at which the specifications and any supporting documents will be available.
+
+3. Type of contracting authority or contracting entity and main activity exercised.
+
+4. CPV codes; where the contract is divided into lots, this information shall be provided for each lot.
+
+5. NUTS code for the main place of delivery or performance of service concessions.
+
+6. Description of the services, indicative order of magnitude or value.
+
+7. Conditions for participation.
+
+8. Where applicable, time limit(s) for contacting the contracting authority or contracting entity in view of participation.
+
+9. Where applicable, brief description of the main features of the award procedure to be applied.
+
+10. Any other relevant information.
+
+<a id="anx_vii"></a>
+
+### ANNEX VII
+
+**INFORMATION TO BE INCLUDED IN CONCESSION AWARD NOTICES, AS REFERRED TO IN ARTICLE 32**
+
+1. Name, identification number (where provided for in national legislation), address including NUTS code and, where appropriate, telephone, fax number, e-mail and internet address of the contracting authority or entity and, where different, of the service from which additional information may be obtained.
+
+2. Type of contracting authority or entity and main activity exercised.
+
+3. CPV codes.
+
+4. NUTS code for the main location of works in case of works concessions or NUTS code for the main place of performance in case of service concessions;
+
+5. Description of the concession: nature and extent of works, nature and extent of services, duration of the contract. Where the concession is divided into lots, this information shall be provided for each lot. Where appropriate, description of any options.
+
+6. Description of award procedure used, in the case of award without prior publication, justification.
+
+7. Criteria referred to in Article 41 which were used for award of the concession or concessions.
+
+8. Date of concession award decision or decisions.
+
+9. Number of tenders received with respect of each award, including:
+
+(a) number of tenders received from economic operators which are small and medium enterprises;
+
+(b) number of tenders received from abroad;
+
+(c) number of tenders received electronically.
+
+10. For each award, name, address including NUTS code and, where applicable, telephone, fax number, e-mail address and internet address of the successful tenderer(s) including:
+
+(a) information whether the successful tenderer is small and medium enterprise;
+
+(b) information whether the concession was awarded to a consortium.
+
+11. Value and main financial terms of the awarded concession, including:
+
+(a) fees prices and fines if any;
+
+(b) prizes and payments if any;
+
+(c) any other details relevant to the value of the concession as laid down in Article 8(3).
+
+12. Information whether the concession is related to a project and/or programme financed by Union funds.
+
+13. Name and address of the body responsible for review and, where appropriate, mediation procedures. Precise information concerning the deadline for review procedures, or if need be, the name, address, telephone number, fax number and e-mail address of the service from which this information may be obtained.
+
+14. Date(s) and reference(s) of previous publications in the *Official Journal of the European Union* relevant to the concession(s) advertised in this notice.
+
+15. Date of dispatch of the notice.
+
+16. Method used to calculate the estimated value of the concession, if not specified in other concession documents in accordance with Article 8.
+
+17. Any other relevant information.
+
+<a id="anx_viii"></a>
+
+### ANNEX VIII
+
+**INFORMATION TO BE INCLUDED IN CONCESSION AWARD NOTICES CONCERNING CONCESSIONS FOR SOCIAL AND OTHER SPECIFIC SERVICES, AS REFERRED TO IN ARTICLE 32**
+
+1. Name, identification number (where provided for in national legislation), address including NUTS code, where applicable, telephone, fax number, e-mail and internet address of the contracting authority or entity and, where different, of the service from which additional information may be obtained.
+
+2. Type of contracting authority or entity and main activity exercised.
+
+3. CPV codes; where the contract is divided into lots, this information shall be provided for each lot.
+
+4. Summary indication of the subject of the concession.
+
+5. Number of tenders received.
+
+6. Value of the successful tender, including fees and prices.
+
+7. Name and address including NUTS code, telephone, fax number, e-mail address and internet address of the successful economic operator(s).
+
+8. Any other relevant information.
+
+<a id="anx_ix"></a>
+
+### ANNEX IX
+
+**FEATURES CONCERNING PUBLICATION**
+
+1. **Publication of notices**
+
+The notices referred to in Articles 31 and 32 shall be sent by the contracting authorities or contracting entities to the Publications Office of the European Union and published in accordance with the following rules:
+
+Notices referred to in Articles 31 and 32 shall be published by the Publications Office of the European Union
+
+The Publications Office of the European Union shall give the contracting authority or entity the confirmation referred to in Article 33(2).
+
+2. **Format and procedures for sending notices electronically**
+
+The format and procedure for sending notices electronically as established by the Commission are made accessible at the internet address ‘http://simap.europa.eu’
+
+<a id="anx_x"></a>
+
+### ANNEX X
+
+**LIST OF INTERNATIONAL SOCIAL AND ENVIRONMENTAL CONVENTIONS REFERRED TO IN ARTICLE 30(3)**
+
+ILO Convention 87 on Freedom of Association and the Protection of the Right to Organise;
+
+ILO Convention 98 on the Right to Organise and Collective Bargaining;
+
+ILO Convention 29 on Forced Labour;
+
+ILO Convention 105 on the Abolition of Forced Labour;
+
+ILO Convention 138 on Minimum Age;
+
+ILO Convention 111 on Discrimination (Employment and Occupation);
+
+ILO Convention 100 on Equal Remuneration;
+
+ILO Convention 182 on Worst Forms of Child Labour;
+
+Vienna Convention for the protection of the Ozone Layer and its Montreal Protocol on substances that deplete the Ozone Layer;
+
+Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal (Basel Convention);
+
+Stockholm Convention on Persistent Organic Pollutants (Stockholm POPs Convention);
+
+Convention on the Prior Informed Consent Procedure for Certain Hazardous Chemicals and Pesticides in International Trade (UNEP/FAO) (PIC Convention) and its 3 regional Protocols.
+
+<a id="anx_xi"></a>
+
+### ANNEX XI
+
+**INFORMATION TO BE INCLUDED IN NOTICES OF MODIFICATIONS OF A CONCESSION DURING ITS TERM ACCORDING TO ARTICLE 43**
+
+1. Name, identification number (where provided for in national legislation), address including NUTS code, telephone, fax number, e-mail and internet address of the contracting authority or entity and, where different, of the service from which additional information may be obtained.
+
+2. CPV codes.
+
+3. NUTS code for the main location of works in case of works concessions or NUTS code for the main place of performance in service concessions.
+
+4. Description of the concession before and after the modification: nature and extent of the works, nature and extent of services.
+
+5. Where applicable, modification of value of the concession, including increase in prices or fees caused by the modification.
+
+6. Description of the circumstances which have rendered necessary the modification.
+
+7. Date of concession award decision.
+
+8. Where applicable, the name, address including NUTS code telephone, fax number, e-mail address and internet address of the new economic operator or operators.
+
+9. Information whether the concession is related to a project and/or programme financed by Union funds.
+
+10. Name and address of the body responsible for review and, where appropriate, mediation procedures. Precise information concerning the deadline for review procedures, or if need be, the name, address, telephone number, fax number and e-mail address of the service from which this information may be obtained.
+
+11. Date(s) and reference(s) of previous publications in the *Official Journal of the European Union* relevant to the contract(s) concerned by this notice.
+
+12. Date of dispatch of the notice.
+
+13. Any other relevant information.
+
+(1) Regulation (EC) No 1059/2003 of the European Parliament and of the Council of 26 May 2003 on the establishment of a common classification of territorial units for statistics (NUTS) (OJ L 154, 21.6.2003, p. 1).
+
+(2) Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement (see page 65 of this Official Journal).
+
+(3) Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community (OJ L 293, 31.10.2008, p. 3).
+
+(4) Directive 2010/13/EU of the European Parliament and of the Council of 10 March 2010 on the coordination of certain provisions laid down by law, regulation or administrative action in Member States concerning the provision of audiovisual media services (Audiovisual Media Services Directive) (OJ L 95, 15.4.2010, p. 1).
+
+(5) Council Directive 77/249/EEC of 22 March 1977 to facilitate the effective exercise by lawyers of freedom to provide services (OJ L 78, 26.3.1977, p. 17).
+
+(6) Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, 30.4.2004, p. 1).
+
+(7) Directive 2002/21/EC of the European Parliament and of the Council of 7 March 2002 on a common regulatory framework for electronic communications networks and services (Framework Directive) (OJ L 108, 24.4.2002, p. 33).
+
+(8) Regulation (EC) No 2195/2002 of the European Parliament and of the Council of 5 November 2002 on the Common Procurement Vocabulary (CPV) (OJ L 340, 16.12.2002, p. 1).
+
+(9) Council Framework Decision 2008/841/JHA of 24 October 2008 on the fight against organised crime (OJ L 300, 11.11.2008, p. 42).
+
+(10) OJ C 195, 25.6.1997, p. 1.
+
+(11) Council Framework Decision 2003/568/JHA of 22 July 2003 on combating corruption in the private sector (OJ L 192, 31.7.2003, p. 54).
+
+(12) OJ C 316, 27.11.1995, p. 48.
+
+(13) Council Framework Decision 2002/475/JHA of 13 June 2002 on combating terrorism (OJ L 164, 22.6.2002, p. 3).
+
+(14) Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing (OJ L 309, 25.11.2005, p. 15).
+
+(15) Directive 2011/36/EU of the European Parliament and of the Council of 5 April 2011 on preventing and combating trafficking in human beings and protecting its victims, and replacing Council Framework Decision 2002/629/JHA (OJ L 101, 15.4.2011, p. 1).
+
+(*1) Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement (OJ L 94, 28.3.2014, p. 65).
+
+(*2) Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contract (OJ L 94, 28.3.2014, p. 1).’;
+
+(*3) Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors (OJ L 94, 28.3.2014, p. 243).
+
+(*4) Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concessions contract (OJ L 94, 28.3.2014, p. 1).’;
+
+(16) Council Decision 71/306/EEC of 26 July 1971 setting up an Advisory Committee for Public Works Contracts (OJ L 185, 16.8.1971, p. 15).

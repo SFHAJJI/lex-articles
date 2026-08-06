@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r0432:2024-02-02",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2024/432 of 2\u00A0February 2024 determining that the i…",
+  "valid_from": "2024-02-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r0432/versions/2024-02-02/en.xml",
+    "sha256": "2e1a8e94782c384efe5f46259251bc9cf5d46350c93901786e2038103b5f88ee",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R0432"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r0432:2024-02-02#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe information that is required to be automatically exchanged pursuant to Part XX of Income Tax Act, as added by Section 78(1) of the Budget Implementation Act, 2023, No 1, and the Multilateral Competent Authority Agreement on automatic exchange of information on income derived through digital platforms (‘DPI-MCAA’) currently signed by the competent authorities of Canada and Belgium, Bulgaria, Croatia, Cyprus, Estonia, Finland, Ireland, Latvia, Luxembourg, Malta, Netherlands, Poland, Portugal, Slovakia, Slovenia, Spain and Sweden (‘the signatory Member States’) is equivalent, within the meaning of Section I, subparagraph A(7) of Annex V to Directive 2011/16/EU, to the information specified in Section III, paragraph B, of Annex V to Directive 2011/16/EU.\n\nThe determination of equivalence shall apply provided that the following conditions are met:\n\n| (a) | Part XX of Canada’s Income Tax Act, as added by Section 78(1) of Canada’s Budget Implementation Act, 2023, No 1, and as assessed by the Commission, has entered into force; |\n| --- | --- |\n\n| (b) | the exchange relationship between the competent authorities of Canada and each signatory Member State has been activated in accordance with Section 7 of the DPI-MCAA. |\n| --- | --- |",
+      "text_sha256": "c9d7f3ad58a77380ce218e2ad504026f4c2f53a23f4548185e4139581fe5fc07",
+      "md_span": {
+        "start": 636,
+        "end": 1894
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r0432:2024-02-02#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1927,
+        "end": 2078
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

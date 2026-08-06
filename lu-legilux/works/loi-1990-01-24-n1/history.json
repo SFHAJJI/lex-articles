@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -64,5 +65,70 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2002-01-01",
+          "valid_to": null,
+          "text_sha256": "308c062e183e643104a7fdea65568a08676049b810e2532c9b88866914f0a2f1",
+          "in_version": "lu-legilux:loi-1990-01-24-n1:2002-01-01",
+          "article_valid_from": "2002-01-01"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2002-01-01",
+          "valid_to": null,
+          "text_sha256": "e4b2e4b042d5f47864661115407a833fe28e715d1ce001f6e30fd061e2986017",
+          "in_version": "lu-legilux:loi-1990-01-24-n1:2002-01-01",
+          "article_valid_from": "1990-02-12",
+          "validity_conflict": true
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2002-01-01",
+          "valid_to": null,
+          "text_sha256": "566515c1ad2e43bfc26ea02bbf6ee915aaa0ea1c4d653f607a3d8a3a5f4ef5c7",
+          "in_version": "lu-legilux:loi-1990-01-24-n1:2002-01-01",
+          "article_valid_from": "2002-01-01"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2002-01-01",
+          "valid_to": null,
+          "text_sha256": "72f8b296ed73c5f53a64819a34fb8fabb597ec3f373f1056a9ae5693096d26bc",
+          "in_version": "lu-legilux:loi-1990-01-24-n1:2002-01-01",
+          "article_valid_from": "1990-02-12",
+          "validity_conflict": true
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2002-01-01",
+          "valid_to": null,
+          "text_sha256": "4242f771d58c6360e423bafe25ca7c6d69e399d2ed5c63e278dfefbe6dcc7b2a",
+          "in_version": "lu-legilux:loi-1990-01-24-n1:2002-01-01",
+          "article_valid_from": "1990-02-12",
+          "validity_conflict": true
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2002-01-01",
+          "valid_to": null,
+          "text_sha256": "034258ed3264025193965c6101998020bd5272334b83417831100e09ab306a5d",
+          "in_version": "lu-legilux:loi-1990-01-24-n1:2002-01-01",
+          "article_valid_from": "1990-02-12",
+          "validity_conflict": true
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

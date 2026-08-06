@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "attachment_1": [
       {
@@ -14,5 +15,20 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "attachment_1": [
+        {
+          "valid_from": "1995-11-10",
+          "valid_to": null,
+          "text_sha256": "bc35d72728d0e92c6be2e5c7fcc4192a2bb2ee10b7d82bee70dd675747b76ac9",
+          "in_version": "lu-legilux:loi-1981-03-11-n1:1995-11-10"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

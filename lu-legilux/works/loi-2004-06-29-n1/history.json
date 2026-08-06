@@ -4,6 +4,7 @@
   "profiles": [
     "pdf-memorial-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_11bis": [
       {
@@ -62,5 +63,68 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_11bis": [
+        {
+          "valid_from": "2013-09-30",
+          "valid_to": null,
+          "text_sha256": "098d539b15d2a4769370ed91d30df03dd7d328c05c588337ea6cd5957c626cdc",
+          "in_version": "lu-legilux:loi-2004-06-29-n1:2013-09-30"
+        }
+      ],
+      "art_11ter": [
+        {
+          "valid_from": "2013-09-30",
+          "valid_to": null,
+          "text_sha256": "eccfaddfc87e579bd35c7f3573e30fa2832dd20b5ca6a299542bf3adfa84e03e",
+          "in_version": "lu-legilux:loi-2004-06-29-n1:2013-09-30"
+        }
+      ],
+      "art_1er": [
+        {
+          "valid_from": "2013-09-30",
+          "valid_to": null,
+          "text_sha256": "0d6de8e8deeaa7d1e249308a88a816f25ebe255848890ccc2bd54e0ee1f0eb8d",
+          "in_version": "lu-legilux:loi-2004-06-29-n1:2013-09-30"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2013-09-30",
+          "valid_to": null,
+          "text_sha256": "99cb80d2651f27ff0427323721ef2dfa7a0560f9ce44d59b10abfadffd198584",
+          "in_version": "lu-legilux:loi-2004-06-29-n1:2013-09-30"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2013-09-30",
+          "valid_to": null,
+          "text_sha256": "f10b3c6958b62ec505570753145a7d21ca4810807f1f9402978cff919620040f",
+          "in_version": "lu-legilux:loi-2004-06-29-n1:2013-09-30"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2013-09-30",
+          "valid_to": null,
+          "text_sha256": "f4009dea779219164e594773a7c75a8975b24874523d310d207e1f4a66d8dd76",
+          "in_version": "lu-legilux:loi-2004-06-29-n1:2013-09-30"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2013-09-30",
+          "valid_to": null,
+          "text_sha256": "92e586e1b090664629b695503b6b1e6eaeae76f0a0db7593a223b100029ff09a",
+          "in_version": "lu-legilux:loi-2004-06-29-n1:2013-09-30"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

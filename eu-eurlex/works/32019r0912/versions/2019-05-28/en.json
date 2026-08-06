@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0912:2019-05-28",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2019/912 of 28 May 2019 amending Implementing Regulation (EU) No 650/2014 laying down implementing technical standards with regard to the format, structure, contents list and annual publication date of the information to be disclosed by competent authorities in accordance with Directive 2013/36/EU",
+  "valid_from": "2019-05-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0912/versions/2019-05-28/en.xml",
+    "sha256": "0bd360839912ede5c0dd55851c902ffb11ba0a201c20ff9706ae87293ee66329",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0912"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0912:2019-05-28#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nImplementing Regulation (EU) No 650/2014 is amended as follows:\n\n| (1) | in Article 5, the second and third paragraphs are replaced by the following:‘Competent authorities shall update the information referred to in point (d) of Article 143(1) of that Directive by 31 July of each year. That information shall cover the preceding calendar year.Competent authorities shall, for the institutions subject to their prudential supervision, update the information referred to in points (a) to (c) of Article 143(1) of that Directive on a regular basis, and in any event by 31 July of each year, unless there is no change in the information last published.’; |\n| --- | --- |\n\n| (2) | Annex I is replaced by the text in Annex I to this Regulation; |\n| --- | --- |\n\n| (3) | Annex II is replaced by the text in Annex II to this Regulation; |\n| --- | --- |\n\n| (4) | Annex III is replaced by the text in Annex III to this Regulation; |\n| --- | --- |\n\n| (5) | Annex IV is replaced by the text in Annex IV to this Regulation. |\n| --- | --- |",
+      "text_sha256": "f66143e455c249272d08ea3cba68c0f93858ed82461d2522198596bf14e7726e",
+      "md_span": {
+        "start": 883,
+        "end": 1921
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0912:2019-05-28#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1954,
+        "end": 2105
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

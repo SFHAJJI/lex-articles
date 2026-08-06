@@ -1,0 +1,42 @@
+---
+lex_id: 'eu-eurlex:32025r2475:2025-12-08'
+title: 'Commission Implementing Regulation (EU) 2025/2475 of 8 December 2025 amending the implemen…'
+valid_from: '2025-12-08'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2475'
+source_sha256: 'b4321412ac484bcc76cb047e552c6e602a8b7506088313c018459e72e7ced93a'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article 1
+
+Implementing Regulation (EU) 2024/3117 is amended as follows:
+
+| (1) | in Article 5, paragraph 4 is replaced by the following:‘4. For the calculation of the own funds requirements referred to in Article 92(4), points (b)(i) and (c), and Article 92(5), points (b) and (c), of Regulation (EU) No 575/2013, institutions shall, until 31 December 2026, submit the information on own funds requirements relating to market risk in accordance with Article 5(12) of Implementing Regulation (EU) 2021/451.’; |
+| --- | --- |
+
+| (2) | in Article 7, the following point (c) is added:‘(c)EU parent institutions shall report the information required in Annex I, template C 16.04 related to information on subsidiaries subject to the derogation provided for in Article 314(3) of Regulation (EU) No 575/2013, on a quarterly basis.’; |
+| --- | --- |
+| ‘(c) | EU parent institutions shall report the information required in Annex I, template C 16.04 related to information on subsidiaries subject to the derogation provided for in Article 314(3) of Regulation (EU) No 575/2013, on a quarterly basis.’; |
+
+| (3) | in Article 25, paragraphs 1 and 2 are replaced by the following:‘1. Implementing Regulation (EU) 2021/451 shall cease to apply from 1 January 2025, except for Article 5(12) and Annex I, templates 18 to 24, and Annex II Part II, points 5.1 to 5.7. Article 15 of Implementing Regulation (EU) 2021/451 shall continue to apply until 31 December 2026 only for the purposes of Article 5(4) of this Regulation.2. Implementing Regulation (EU) 2021/451 is repealed with effect from 31 December 2026.’; |
+| --- | --- |
+
+| (4) | in Annex I, Section 1 – ‘Reporting on own funds and own funds requirements’, is amended as follows:(a)template ‘C 16.01 – OPERATIONAL RISK – OWN Funds Requirements (OPR OF)’ is replaced by the template ‘C 16.01 – OPERATIONAL RISK – OWN Funds Requirements (OPR OF)’ set out in the Annex to this Regulation;(b)template ‘C 16.02 – OPERATIONAL RISK – Business Indicator Component (OPR BIC)’, template ‘C 16.03 – OPERATIONAL RISK BREAKDOWN (OPR BD) – Losses, expenses, provisions and other financial impacts resulting from operational risk events’ and template ‘C 16.04 – OPERATIONAL RISK – Information on subsidiaries subject to Article 314(3) CRR’ set out in the Annex to this Regulation are added after template ‘C 16.01 – OPERATIONAL RISK – OWN Funds Requirements (OPR OF)’. |
+| --- | --- |
+| (a) | template ‘C 16.01 – OPERATIONAL RISK – OWN Funds Requirements (OPR OF)’ is replaced by the template ‘C 16.01 – OPERATIONAL RISK – OWN Funds Requirements (OPR OF)’ set out in the Annex to this Regulation; |
+| (b) | template ‘C 16.02 – OPERATIONAL RISK – Business Indicator Component (OPR BIC)’, template ‘C 16.03 – OPERATIONAL RISK BREAKDOWN (OPR BD) – Losses, expenses, provisions and other financial impacts resulting from operational risk events’ and template ‘C 16.04 – OPERATIONAL RISK – Information on subsidiaries subject to Article 314(3) CRR’ set out in the Annex to this Regulation are added after template ‘C 16.01 – OPERATIONAL RISK – OWN Funds Requirements (OPR OF)’. |
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.

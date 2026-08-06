@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r2170:2015-11-24",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2015/2170 of 24 November 2015 amending Directive 2014/24/EU",
+  "valid_from": "2015-11-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r2170/versions/2015-11-24/fr.xml",
+    "sha256": "46c042ec8a7d65c1b349e0df6743c96e37bdaaa2ace63e94979eda385839305c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R2170"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r2170:2015-11-24#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLa directive 2014/24/UE est modifiée comme suit:\n\n| 1) | L'article 4 est modifié comme suit:a)au point a), le montant «5 186 000 EUR» est remplacé par celui «5 225 000 EUR»;b)au point b), le montant «134 000 EUR» est remplacé par celui «135 000 EUR»;c)au point c), le montant «207 000 EUR» est remplacé par celui «209 000 EUR». |\n| --- | --- |\n| a) | au point a), le montant «5 186 000 EUR» est remplacé par celui «5 225 000 EUR»; |\n| b) | au point b), le montant «134 000 EUR» est remplacé par celui «135 000 EUR»; |\n| c) | au point c), le montant «207 000 EUR» est remplacé par celui «209 000 EUR». |\n\n| 2) | L'article 13, premier alinéa, est modifié comme suit:a)au point a), le montant «5 186 000 EUR» est remplacé par celui «5 225 000 EUR»;b)au point b), le montant «207 000 EUR» est remplacé par celui «209 000 EUR». |\n| --- | --- |\n| a) | au point a), le montant «5 186 000 EUR» est remplacé par celui «5 225 000 EUR»; |\n| b) | au point b), le montant «207 000 EUR» est remplacé par celui «209 000 EUR». |",
+      "text_sha256": "6b1bb1328a6ddbd00b9cb308ebb45ffe8977ac8f64b88843b4e20496f4d3e8fd",
+      "md_span": {
+        "start": 641,
+        "end": 1670
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r2170:2015-11-24#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le 1er janvier 2016.",
+      "text_sha256": "eef72f5ba764142aed770cdce6bda3bf219bf6ea6f86d677a586b18b4a0e20f2",
+      "md_span": {
+        "start": 1703,
+        "end": 1772
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

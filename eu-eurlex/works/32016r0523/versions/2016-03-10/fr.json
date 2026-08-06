@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r0523:2016-03-10",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2016/523 of 10 March 2016 laying down implementing technical standards with regard to the format and template for notification and public disclosure of managers' transactions in accordance with Regulation (EU) No 596/2014",
+  "valid_from": "2016-03-10",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r0523/versions/2016-03-10/fr.xml",
+    "sha256": "b2982e12ec77f6452ef3050338d783b7bb1202d4a7a719402b6e65519c0fced7",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R0523"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r0523:2016-03-10#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nAux fins du présent règlement, on entend par «moyens électroniques», des moyens électroniques de traitement (y compris la compression numérique), de stockage et de transmission des données par câble, ondes radio, technologie optique, ou tout autre moyen électromagnétique.",
+      "text_sha256": "ed3c8d34a4ccccdcf75996bc53462ec64480141971b5f178fb2c2a517abc50ce",
+      "md_span": {
+        "start": 807,
+        "end": 1096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r0523:2016-03-10#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les personnes exerçant des responsabilités dirigeantes et les personnes qui leur sont étroitement liées veillent à ce que le modèle de notification figurant en annexe soit utilisé pour la présentation des notifications des transactions visées à l'article 19, paragraphe 1, du règlement (UE) no 596/2014.\n\n2. Les personnes exerçant des responsabilités dirigeantes et les personnes qui leur sont étroitement liées veillent à ce que les notifications visées au paragraphe 1 soient transmises par des moyens électroniques. Ces moyens électroniques doivent garantir l'exhaustivité, l'intégrité et la confidentialité de ces informations tout au long de leur transmission et permettre d'identifier avec certitude la source des informations transmises.\n\n3. Les autorités compétentes déterminent et indiquent sur leur site internet les moyens électroniques visés au paragraphe 2 à utiliser pour leur transmettre des informations.",
+      "text_sha256": "97ed9f7409f4f174f926a543e699c149669bd0f583ac70e45f1b31158217194d",
+      "md_span": {
+        "start": 1129,
+        "end": 2063
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r0523:2016-03-10#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à compter du 3 juillet 2016.",
+      "text_sha256": "cb99c3cef5d450f2890c93e0b6dbf3c9b456a4d1da9374b16df7586e16abe0ef",
+      "md_span": {
+        "start": 2096,
+        "end": 2271
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

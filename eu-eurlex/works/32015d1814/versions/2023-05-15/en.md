@@ -1,0 +1,67 @@
+---
+lex_id: 'eu-eurlex:32015d1814:2023-05-15'
+title: 'Decision (EU) 2015/1814'
+valid_from: '2023-05-15'
+valid_to: '2023-12-31'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015D1814-20230515'
+source_sha256: 'beaead2895a0d3d31ffbc565d06cc9c9fc01ef7c7b3cf9f9f4cc01a65c3de014'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### Article 1 — Market stability reserve
+
+**1.** A market stability reserve shall be established in 2018 and the placing of allowances in the reserve shall operate from 1 January 2019.
+
+**2.** The quantity of 900 million allowances deducted from auctioning volumes during the period 2014-2016, as determined in Regulation (EU) No 176/2014 pursuant to Article 10(4) of Directive 2003/87/EC, shall not be added to the volumes to be auctioned in 2019 and 2020 but shall instead be placed in the reserve.
+
+**3.** Allowances not allocated to installations pursuant to Article 10a(7) of Directive 2003/87/EC and allowances not allocated to installations because of the application of Article 10a(19) and (20) of that Directive shall be placed in the reserve in 2020. The Commission shall review Directive 2003/87/EC in relation to those unallocated allowances and, if appropriate, submit a proposal to the European Parliament and to the Council.
+
+**4.** The Commission shall publish the total number of allowances in circulation each year, by 15 May of the subsequent year. The total number of allowances in circulation in a given year shall be the cumulative number of allowances issued in the period since 1 January 2008, including the number issued pursuant to Article 13(2) of Directive 2003/87/EC in that period and entitlements to use international credits exercised by installations under the EU ETS in respect of emissions up to 31 December of that given year, minus the cumulative tonnes of verified emissions from installations under the EU ETS between 1 January 2008 and 31 December of that same given year, any allowances cancelled in accordance with Article 12(4) of Directive 2003/87/EC and the number of allowances in the reserve. No account shall be taken of emissions during the three-year period starting in 2005 and ending in 2007 and allowances issued in respect of those emissions. The first publication shall take place by 15 May 2017.
+
+**5.** Each year, a number of allowances equal to 12 % of the total number of allowances in circulation, as set out in the most recent publication as referred to in paragraph 4 of this Article, shall be deducted from the volume of allowances to be auctioned by the Member States under Article 10(2) of Directive 2003/87/EC and shall be placed in the reserve over a period of 12 months beginning on 1 September of that year, unless the number of allowances to be placed in the reserve would be less than 100 million. In the first year of the reserve's operation, placements shall also take place between 1 January and 1 September of that year of 8 % (representing 1 % for each calendar month) of the total number of allowances in circulation as set out in the most recent publication. ►M2 By way of derogation from the first and second sentences of this subparagraph, until 31 December 2030, the percentages and the 100 million allowances referred to in those sentences shall be doubled.** ◄ **
+
+Without prejudice to the total amount of allowances to be deducted pursuant to this paragraph, until 31 December 2025, allowances referred to in point (b) of the first subparagraph of Article 10(2) of Directive 2003/87/EC shall not be taken into account when determining Member States' shares contributing to that total amount.
+
+**5a.** Unless otherwise decided in the first review carried out in accordance with Article 3, from 2023 allowances held in the reserve above the total number of allowances auctioned during the previous year shall no longer be valid.
+
+**6.** In any year, if the total number of allowances in circulation is less than 400 million, 100 million allowances shall be released from the reserve and added to the volume of allowances to be auctioned by the Member States under Article 10(2) of Directive 2003/87/EC. Where fewer than 100 million allowances are in the reserve, all allowances in the reserve shall be released under this paragraph.
+
+**7.** In any year, if paragraph 6 of this Article is not applicable and measures are adopted under Article 29a of Directive 2003/87/EC, 100 million allowances shall be released from the reserve and added to the volume of allowances to be auctioned by the Member States under Article 10(2) of Directive 2003/87/EC. Where fewer than 100 million allowances are in the reserve, all allowances in the reserve shall be released under this paragraph.
+
+**8.** Where, following the publication of the total number of allowances in circulation, action is taken pursuant to paragraph 5, 6 or 7, the auction calendars shall take account of the allowances placed in the reserve or to be released from the reserve. The allowances shall be placed in the reserve or released from it over a period of 12 months. Where there is a release of allowances pursuant to paragraph 6 or 7, irrespective of the period during which the release takes place, it shall follow the Member States' shares applicable at the time the allowances were placed in the reserve and it shall also follow the order in which the allowances were placed in the reserve.
+
+<a id="art_2"></a>
+
+### Article 2 — Amendments to Directive 2003/87/EC
+
+Directive 2003/87/EC is amended as follows:
+
+(1) Article 10 is amended as follows: (a) paragraph 1 is replaced by the following: **‘1.** From 2019 onwards, Member States shall auction all allowances that are not allocated free of charge in accordance with Articles 10a and 10c and are not placed in the market stability reserve established by Decision (EU) 2015/1814 of the European Parliament and of the Council (*1). (b) the following paragraph is inserted after paragraph 1: **‘1a.** Where the volume of allowances to be auctioned by Member States in the last year of each period referred to in Article 13(1) of this Directive exceeds by more than 30 % the expected average auction volume for the first two years of the following period before application of Article 1(5) of Decision (EU) 2015/1814, two thirds of the difference between the volumes shall be deducted from the auction volumes in the last year of the period and added in equal instalments to the volumes to be auctioned by Member States in the first two years of the following period.’.
+
+(2) In Article 13(2), the second subparagraph is replaced by the following: ‘Member States shall issue allowances to persons for the current period to replace any allowances held by them which are cancelled in accordance with the first subparagraph. Similarly, allowances held in the market stability reserve and which are no longer valid shall be replaced by allowances which are valid for the current period.’.
+
+<a id="art_3"></a>
+
+### Article 3 — Review
+
+The Commission shall monitor the functioning of the reserve in the context of the report provided for in Article 10(5) of Directive 2003/87/EC. That report should consider relevant effects on competitiveness, in particular in the industrial sector, including in relation to GDP, employment and investment indicators. Within three years of the start of the operation of the reserve and at five-year intervals thereafter, the Commission shall, on the basis of an analysis of the orderly functioning of the European carbon market, review the reserve and submit a proposal, where appropriate, to the European Parliament and to the Council. Each review shall pay particular attention to the percentage figure for the determination of the number of allowances to be placed in the reserve pursuant to Article 1(5) of this Decision, as well as the numerical value of the threshold for the total number of allowances in circulation and the number of allowances to be released from the reserve pursuant to Article 1(6) or (7) of this Decision. In its review, the Commission shall also look into the impact of the reserve on growth, jobs, the Union's industrial competitiveness and on the risk of carbon leakage.
+
+<a id="art_4"></a>
+
+### Article 4 — Transitional provision
+
+Article 10(1) of Directive 2003/87/EC as amended by Directive 2009/29/EC of the European Parliament and of the Council (1) shall continue to apply until 31 December 2018.
+
+<a id="art_5"></a>
+
+### Article 5 — Entry into force
+
+This Decision shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+(*1) Decision (EU) 2015/1814 of the European Parliament and of the Council of 6 October 2015 concerning the establishment and operation of a market stability reserve for the Union greenhouse gas emission trading scheme and amending Directive 2003/87/EC (OJ L 264, 9.10.2015, p. 1).’;
+
+(1) Directive 2009/29/EC of the European Parliament and of the Council of 23 April 2009 amending Directive 2003/87/EC so as to improve and extend the greenhouse gas emission allowance trading scheme of the Community (OJ L 140, 5.6.2009, p. 63).

@@ -1,0 +1,111 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r0806:2015-05-22",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2015/806 of 22 May 2015 laying down specifications…",
+  "valid_from": "2015-05-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r0806/versions/2015-05-22/fr.xml",
+    "sha256": "0b7ad4bc7228b1779813c0dcdf8b04fe3aa2e3563785c240caaeef9e1330bbfb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R0806"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r0806:2015-05-22#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe label de confiance de l'Union pour les services de confiance qualifiés se présente conformément aux illustrations des annexes I et II, sans préjudice des dispositions énoncées à l'article 2.",
+      "text_sha256": "3d3a584e6fd810427da39c14a1eecd01a086c17647c17e563d9e2136c404c039",
+      "md_span": {
+        "start": 636,
+        "end": 846
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r0806:2015-05-22#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les couleurs de référence du label de confiance de l'Union pour les services de confiance qualifiés sont Pantone nos 654 et 116; ou bleu (100 % cyan + 78 % magenta + 25 % jaune + 9 % noir) et jaune (19 % magenta + 95 % jaune) en cas de recours à la quadrichromie. En cas de recours aux couleurs rouge vert bleu, les couleurs de référence sont bleu (43 rouge + 67 vert + 117 bleu) et jaune (243 rouge + 202 vert + 18 bleu).\n\n2. Le label de confiance de l'Union pour les services de confiance qualifiés peut être reproduit en noir et blanc, comme illustré à l'annexe II, uniquement s'il est impossible d'utiliser les couleurs.\n\n3. Si le label de confiance de l'Union pour les services de confiance qualifiés doit figurer sur un fond sombre, il peut être reproduit en négatif sur la couleur de fond, comme illustré aux annexes I et II.\n\n4. Si le label de confiance de l'Union pour les services de confiance qualifiés est reproduit en couleurs sur un fond coloré qui le rend difficile à voir, une ligne peut être tracée autour du logo afin d'améliorer le contraste avec les couleurs de fond.",
+      "text_sha256": "3963f22d52d6c175296177e688095086b8926fea98d8e1a3f967084bc6de487b",
+      "md_span": {
+        "start": 879,
+        "end": 1980
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32015r0806:2015-05-22#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLa taille du label de confiance de l'Union pour les services de confiance qualifiés, qui doit permettre d'en préserver les attributs visuels et les formes principales, est d'au moins 64 × 85 pixels avec une résolution de 150 ppp.",
+      "text_sha256": "6bbfc14b4200a711860cc8b436565a765dafbdb79e11bbe8b2274b0f1246b21a",
+      "md_span": {
+        "start": 2013,
+        "end": 2253
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32015r0806:2015-05-22#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe label de confiance de l'Union pour les services de confiance qualifiés est utilisé de façon à identifier clairement les services qualifiés auxquels le label s'applique. Il peut être associé à des éléments graphiques ou textuels faisant clairement référence aux services de confiance qualifiés pour lesquels il est utilisé, pour autant que ces éléments ne changent pas la nature du label ni ne modifient le lien vers les listes de confiance applicables visées à l'article 23, paragraphe 2, du règlement (UE) no 910/2014.",
+      "text_sha256": "850a4d5771230b4f184852e2d4aa89895014a7b4daa8da446492b9779b4e976f",
+      "md_span": {
+        "start": 2286,
+        "end": 2819
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32015r0806:2015-05-22#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "9ecdb315f2430819f256f8d4bff4cd0b2a90b407d388128e6e775efb858596ab",
+      "md_span": {
+        "start": 2852,
+        "end": 2993
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

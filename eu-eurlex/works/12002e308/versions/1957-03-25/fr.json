@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12002e308:1957-03-25",
+  "language": "fr",
+  "title": "Treaty establishing the European Community (Nice consolidated version)#Part Six: General a…",
+  "valid_from": "1957-03-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12002e308/versions/1957-03-25/fr.html",
+    "sha256": "c19664a506a2decb937736929b17c2d3ce640f1f56e7536227121ba0365c68a8",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12002E308"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12002e308:1957-03-25#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Avis juridique important | 12002E308 Traité instituant la Communauté européenne (version consolidée Nice) - Sixième partie: Dispositions générales et finales - Article 308 - Article 235 - Traité CE (version consolidée Maastricht) - Article 235 - Traité CEE Journal officiel n° C 325 du 24/12/2002 p. 0153 - 0153 Journal officiel n° C 340 du 10/11/1997 p. 0301 - version consolidée Journal officiel n° C 224 du 31/08/1992 p. 0078 - version consolidée (traité CEE - pas de publication officielle disponible) Traité instituant la Communauté européenne (version consolidée Nice)Sixième partie: Dispositions générales et finalesArticle 308Article 235 - Traité CE (version consolidée Maastricht)Article 235 - Traité CEEArticle 308Si une action de la Communauté apparaît nécessaire pour réaliser, dans le fonctionnement du marché commun, l'un des objets de la Communauté, sans que le présent traité ait prévu les pouvoirs d'action requis à cet effet, le Conseil, statuant à l'unanimité sur proposition de la Commission et après consultation du Parlement européen, prend les dispositions appropriées.",
+      "text_sha256": "07d73f286be837c10f14a3c2edc1be831718126c9348af6626eb47231cc4bc7a",
+      "md_span": {
+        "start": 647,
+        "end": 1739
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1014:2016-06-08",
+  "language": "fr",
+  "title": "Regulation (EU) 2016/1014",
+  "valid_from": "2016-06-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1014/versions/2016-06-08/fr.xml",
+    "sha256": "dbf22dfde28d0ebdbf449180bfc6a0efcbdf41cda430ee6bfb7fde8ee5e2156c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R1014"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r1014:2016-06-08#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe règlement (UE) no 575/2013 est modifié comme suit:\n\n| 1) | à l'article 493, paragraphe 1, la seconde phrase est remplacée par le texte suivant: «Cette dérogation est applicable jusqu'au 31 décembre 2020 ou jusqu'à la date d'entrée en vigueur de toute modification intervenue en application du paragraphe 2 du présent article, si cette dernière date est antérieure.» |\n| --- | --- |\n\n| 2) | à l'article 498, paragraphe 1, le second alinéa est remplacé par le texte suivant:«Cette dérogation est applicable jusqu'au 31 décembre 2020 ou jusqu'à la date d'entrée en vigueur de toute modification intervenue en application des paragraphes 2 et 3, si cette dernière date est antérieure.» |\n| --- | --- |",
+      "text_sha256": "4fd452ea804e0c9cc698839ec4d3b53fe0826b739ec9bfab6f1df286ea7fd5b8",
+      "md_span": {
+        "start": 570,
+        "end": 1287
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1014:2016-06-08#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "91deaebb4a04a055d8a9d5823aaced733082a23d8dadda698fa9f22d4847d8e8",
+      "md_span": {
+        "start": 1320,
+        "end": 1461
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

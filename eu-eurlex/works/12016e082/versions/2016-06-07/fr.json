@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12016e082:2016-06-07",
+  "language": "fr",
+  "title": "Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…",
+  "valid_from": "2016-06-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12016e082/versions/2016-06-07/fr.xml",
+    "sha256": "ea89198a098e6a62bcc9943cb7e206fae5128a064c95c9cfc02740a72a7bb1a1",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12016E082"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12016e082:2016-06-07#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "7.6.2016 FR Journal officiel de l'Union européenne C 202/79 Article 82 (ex-article 31 TUE) 1. La coopération judiciaire en matière pénale dans l'Union est fondée sur le principe de reconnaissance mutuelle des jugements et décisions judiciaires et inclut le rapprochement des dispositions législatives et réglementaires des États membres dans les domaines visés au paragraphe 2 et à l'article 83. Le Parlement européen et le Conseil, statuant conformément à la procédure législative ordinaire, adoptent les mesures visant: a) à établir des règles et des procédures pour assurer la reconnaissance, dans l'ensemble de l'Union, de toutes les formes de jugements et de décisions judiciaires; b) à prévenir et à résoudre les conflits de compétence entre les États membres; c) à soutenir la formation des magistrats et des personnels de justice; d) à faciliter la coopération entre les autorités judiciaires ou équivalentes des États membres dans le cadre des poursuites pénales et de l'exécution des décisions. 2. Dans la mesure où cela est nécessaire pour faciliter la reconnaissance mutuelle des jugements et décisions judiciaires, ainsi que la coopération policière et judiciaire dans les matières pénales ayant une dimension transfrontière, le Parlement européen et le Conseil, statuant par voie de directives conformément à la procédure législative ordinaire, peuvent établir des règles minimales. Ces règles minimales tiennent compte des différences entre les traditions et systèmes juridiques des États membres. Elles portent sur: a) l'admissibilité mutuelle des preuves entre les États membres; b) les droits des personnes dans la procédure pénale; c) les droits des victimes de la criminalité; d) d'autres éléments spécifiques de la procédure pénale, que le Conseil aura identifiés préalablement par une décision; pour l'adoption de cette décision, le Conseil statue à l'unanimité, après approbation du Parlement européen. L'adoption des règles minimales visées au présent paragraphe n'empêche pas les États membres de maintenir ou d'instituer un niveau de protection plus élevé pour les personnes. 3. Lorsqu'un membre du Conseil estime qu'un projet de directive visée au paragraphe 2 porterait atteinte aux aspects fondamentaux de son système de justice pénale, il peut demander que le Conseil européen soit saisi. Dans ce cas, la procédure législative ordinaire est suspendue. Après discussion, et en cas de consensus, le Conseil européen, dans un délai de quatre mois à compter de cette suspension, renvoie le projet au Conseil, ce qui met fin à la suspension de la procédure législative ordinaire. Dans le même délai, en cas de désaccord, et si au moins neuf États membres souhaitent instaurer une coopération renforcée sur la base du projet de directive concerné, ils en informent le Parlement européen, le Conseil et la Commission. Dans un tel cas, l'autorisation de procéder à une coopération renforcée, qui est visée à l'article 20, paragraphe 2, du traité sur l'Union européenne et à l'article 329, paragraphe 1, du présent traité est réputée accordée et les dispositions relatives à la coopération renforcée s'appliquent.",
+      "text_sha256": "fb2c5489574db75ca38f7bbb5b61fb511a65765660f52181899a4192f9607b1a",
+      "md_span": {
+        "start": 647,
+        "end": 3781
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

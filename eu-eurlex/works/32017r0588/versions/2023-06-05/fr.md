@@ -1,0 +1,134 @@
+---
+lex_id: 'eu-eurlex:32017r0588:2023-06-05'
+title: 'Commission Delegated Regulation (EU) 2017/588 of 14 July 2016 supplementing Directive 2014/65/EU'
+valid_from: '2023-06-05'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02017R0588-20230605'
+source_sha256: 'd0a548e16f91e70a13120f47c7b9014e7fe439caa9a0b0cffc75620bc4ad0a37'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_premier"></a>
+
+### Article premier — Marché le plus pertinent en termes de liquidité
+
+Aux fins du présent règlement, le marché le plus pertinent en termes de liquidité pour une action ou un certificat représentatif correspond au marché le plus pertinent en termes de liquidité tel que visé à l'article 4, paragraphe 1, point a), du règlement (UE) no 600/2014 et précisé à l'article 4 du règlement (UE) 2017/587 de la Commission (1).
+
+<a id="art_2"></a>
+
+### Article 2
+
+Pas de cotation pour les actions, certificats représentatifs et fonds cotés
+
+(Article 49, paragraphes 1 et 2, de la directive 2014/65/UE)
+
+**1.** Les plateformes de négociation appliquent aux ordres portant sur des actions ou des certificats représentatifs un pas de cotation supérieur ou égal à celui correspondant:a) à la tranche de liquidité figurant au tableau de l'annexe correspondant à la fourchette de nombres quotidiens moyens de transactions sur le marché le plus pertinent en termes de liquidité pour cet instrument; etb) à la fourchette de prix dans cette tranche de liquidité correspondant au prix de l'ordre.
+
+**2.** Par dérogation au paragraphe 1, point a), lorsque le marché le plus pertinent en termes de liquidité pour une action ou un certificat représentatif exploite uniquement un système de négociation qui apparie les ordres sur la base d'enchères périodiques et d'un algorithme de négociation fonctionnant sans intervention humaine, les plateformes de négociation appliquent la tranche de liquidité figurant au tableau de l'annexe qui correspond au plus faible nombre quotidien moyen de transactions.
+
+**3.** Les plateformes de négociation appliquent aux ordres portant sur des fonds cotés un pas de cotation supérieur ou égal à celui correspondant:a) à la tranche de liquidité figurant au tableau de l'annexe qui correspond au nombre quotidien moyen le plus élevé de transactions; etb) à la fourchette de prix dans cette tranche de liquidité correspondant au prix de l'ordre.
+
+**4.** Les exigences énoncées au paragraphe 3 ne s'appliquent qu'aux fonds cotés dont les instruments financiers sous-jacents sont uniquement des actions ou instruments assimilés soumis au régime de pas de cotation visé au paragraphe 1 ou un panier de telles actions ou instruments assimilés.
+
+<a id="art_3"></a>
+
+### Article 3
+
+Nombre quotidien moyen de transactions pour les actions et les certificats représentatifs
+
+(Article 49, paragraphes 1 et 2, de la directive 2014/65/UE)
+
+**1.** Au 1er mars de l'année suivant la date d'entrée en application du règlement (UE) no 600/2014 et au 1er mars de chaque année suivante, l'autorité compétente pour une action ou un certificat représentatif spécifique calcule, pour déterminer le marché le plus pertinent en termes de liquidité pour cette action ou ce certificat représentatif, le nombre quotidien moyen de transactions pour cet instrument financier sur ce marché et assure la publication de cette information.
+
+L'autorité compétente visée au premier alinéa est l'autorité compétente du marché le plus pertinent en termes de liquidité déterminé conformément à l'article 16 du règlement délégué (UE) 2017/590 de la Commission (2).
+
+**2.** Le calcul visé au paragraphe 1 présente les caractéristiques suivantes:a) il inclut, pour chaque plateforme de négociation, les transactions exécutées conformément aux règles de cette plateforme de négociation, à l'exclusion des transactions basées sur un prix de référence et des transactions négociées comportant un indicateur tel que prévu au tableau 4 de l'annexe I du règlement délégué (UE) 2017/587 et des transactions exécutées sur la base d'au moins un ordre ayant bénéficié d'une dérogation pour taille élevée et lorsque la taille de la transaction dépasse le seuil de taille élevée fixé conformément à l'article 7 du règlement délégué (UE) 2017/587.b) il couvre l'année civile précédente ou, le cas échéant, la période de l'année civile précédente au cours de laquelle l'instrument financier était admis à la négociation ou négocié sur une plateforme de négociation et sa négociation non suspendue.
+
+**3.** Les paragraphes 1 et 2 ne s'appliquent pas aux actions et aux certificats représentatifs qui ont été admis à la négociation ou négociés sur une plateforme de négociation pour la première fois quatre semaines ou moins avant la fin de l'année civile précédente.
+
+**4.** Les plateformes de négociation appliquent les pas de cotation de la tranche de liquidité correspondant au nombre quotidien moyen de transactions publié conformément au paragraphe 1 à compter du premier lundi d’avril suivant cette publication.
+
+**5.** Avant la première admission à la négociation ou avant le premier jour de négociation d'une action ou d'un certificat représentatif, l'autorité compétente de la plateforme de négociation sur laquelle cet instrument financier sera admis à la négociation ou négocié pour la première fois estime le nombre quotidien moyen de transactions pour cette plateforme de négociation, compte tenu de l'historique de négociation de cet instrument financier, le cas échéant, ainsi que de l'historique de négociation d'autres instruments financiers considérés comme présentant des caractéristiques similaires, et publie cette estimation.
+
+Les pas de cotation de la tranche de liquidité correspondant à cette estimation publiée du nombre quotidien moyen de transactions s'appliquent à compter de la publication de cette estimation jusqu'à la publication du nombre quotidien moyen de transactions pour cet instrument conformément au paragraphe 6.
+
+**6.** Au plus tard six semaines après le premier jour de négociation de l'action ou du certificat représentatif, l'autorité compétente de la plateforme de négociation sur laquelle l'instrument financier a été pour la première fois admis à la négociation ou négocié sur une plateforme de négociation calcule et publie le nombre quotidien moyen de transactions pour cet instrument financier sur cette plateforme de négociation, au moyen des données portant sur les quatre premières semaines de négociation de cet instrument financier.
+
+Les pas de cotation de la tranche de liquidité correspondant à ce nombre quotidien moyen de transactions publié s'appliquent à compter de la publication jusqu'à ce qu'un nouveau nombre quotidien moyen de transactions pour cet instrument ait été calculé et publié conformément à la procédure établie aux paragraphes 1 à 4.
+
+**7.** Aux fins du présent article, le nombre quotidien moyen de transactions pour un instrument financier est calculé en divisant, pour la période et la plateforme de négociation concernées, le nombre total de transactions pour cet instrument financier par le nombre de journées de négociation.
+
+**8.** L'autorité compétente pour une action spécifique peut ajuster le nombre quotidien moyen de transactions qu'elle a calculé ou estimé pour cette action conformément à la procédure décrite aux paragraphes 1 à 7, si toutes les conditions suivantes sont remplies:a) la plate-forme de négociation présentant le volume d'échanges le plus élevé pour cette action est située dans un pays tiers;b) lorsque ce nombre quotidien moyen de transactions a été calculé et publié conformément à la procédure décrite aux paragraphes 1 à 4, il est supérieur ou égal à un.
+
+Pour ajuster le nombre quotidien moyen de transactions pour une action, l'autorité compétente tient compte des transactions exécutées sur la plate-forme de négociation de pays tiers qui présente le volume d'échanges le plus élevé pour cette action.
+
+**9.** L'autorité compétente qui a ajusté le nombre quotidien moyen de transactions pour une action conformément au paragraphe 8 assure la publication de ce nombre quotidien moyen ajusté. Préalablement à cette publication, l'autorité compétente communique le nombre quotidien moyen ajusté de transactions pour cette action aux autorités compétentes des autres plates-formes de négociation opérant dans l'Union sur lesquelles cette action est négociée.
+
+**10.** Les plates-formes de négociation appliquent les pas de cotation de la tranche de liquidité correspondant au nombre quotidien moyen ajusté de transactions à compter du deuxième jour suivant celui de sa publication.
+
+<a id="art_4"></a>
+
+### Article 4
+
+Opérations sur titres
+
+(Article 49, paragraphes 1 et 2, de la directive 2014/65/UE)
+
+Lorsqu'une autorité compétente estime qu'une opération sur titre est susceptible de modifier le nombre quotidien moyen de transactions pour un instrument financier donné, ce dernier relevant alors d'une autre tranche de liquidité, elle détermine et publie une nouvelle tranche de liquidité applicable pour cet instrument financier, le considérant comme si c'était la première fois qu'il était admis à la négociation ou qu'il était négocié sur une plateforme de négociation, et applique la procédure établie à l'article 3, paragraphes 5 et 6.
+
+<a id="art_5"></a>
+
+### Article 5 — Dispositions transitoires
+
+**1.** L'autorité compétente de la plateforme de négociation sur laquelle une action ou un certificat représentatif a été admis à la négociation ou négocié pour la première fois avant la date d'entrée en application du règlement (UE) no 600/2014 collecte les données nécessaires et calcule et publie le nombre quotidien moyen de transactions pour cet instrument financier et pour cette plateforme de négociation dans les délais suivants:a) au plus tard quatre semaines avant la date d'entrée en application du règlement (UE) no 600/2014, lorsque l'action ou le certificat représentatif est négocié pour la première fois sur une plateforme de négociation dans l'Union dix semaines ou plus avant la date d'entrée en application du règlement (UE) no 600/2014;b) au plus tard à la date d'entrée en application du règlement (UE) no 600/2014, lorsque les instruments financiers sont négociés pour la première fois sur une plateforme de négociation dans l'Union au plus tôt dix semaines et au plus tard un jour avant la date d'entrée en application du règlement (UE) no 600/2014;
+
+**2.** Les calculs visés au paragraphe 1, point a), sont effectués comme suit:a) lorsqu'une action ou un certificat représentatif est négocié pour la première fois sur une plateforme de négociation dans l'Union 16 semaines ou plus avant la date d'entrée en application du règlement (UE) no 600/2014, les calculs sont fondés sur les données disponibles pour la période de référence de 40 semaines commençant 52 semaines avant la date d'entrée en application dudit règlement;b) lorsqu'une action ou un certificat représentatif est négocié pour la première fois sur une plateforme de négociation dans l'Union au plus tôt 16 semaines et au plus tard dix semaines avant la date d'entrée en application du règlement (UE) no 600/2014, les calculs sont fondés sur les données disponibles pour la première période de quatre semaines de négociation de cet instrument financier;c) lorsqu'une action ou un certificat représentatif est négocié pour la première fois sur une plateforme de négociation dans l'Union au plus tôt dix semaines et au plus tard un jour avant la date d'entrée en application du règlement (UE) no 600/2014, les calculs sont fondés sur l'historique des négociations de l'action, du certificat représentatif ou d'instruments financiers considérés comme présentant des caractéristiques similaires.
+
+**3.** Les pas de cotation de la tranche de liquidité correspondant au nombre quotidien moyen publié de transactions visé au paragraphe 1 s'appliquent jusqu'au 1er avril de l'année suivant la date d'entrée en application du règlement (UE) no 600/2014. Au cours de cette période, les autorités compétentes veillent à ce que les pas de cotation pour les instruments financiers visés aux points b) et c) du paragraphe 2 et pour lesquels elles sont compétentes ne contribuent pas à perturber le bon ordre du marché. Lorsqu'une autorité compétente constate un risque pour le fonctionnement ordonné des marchés lié à de tels pas de cotation, elle détermine et publie un nombre quotidien moyen actualisé de transactions pour les instruments financiers concernés afin de remédier à ce risque. Pour ce faire, elle se fonde sur un historique de négociation plus long et plus complet concernant ces instruments. Les plateformes de négociation appliquent immédiatement la tranche de liquidité correspondant à ce nombre quotidien moyen actualisé de transactions. Elles l'appliquent jusqu'au 1er avril de l'année suivant la date d'entrée en application du règlement (UE) no 600/2014 ou jusqu'à une nouvelle publication par les autorités compétentes conformément au présent paragraphe.
+
+<a id="art_6"></a>
+
+### Article 6 — Entrée en vigueur et application
+
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.
+
+Il s'applique à compter du 3 janvier 2018.
+
+Cependant, l'article 5 s'applique à partir de la date d'entrée en vigueur du présent règlement.
+
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.
+
+<a id="annexe"></a>
+
+### ANNEXE
+
+**Tableau des pas de cotation**
+
+|  | Tranches de liquidité |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Fourchettes de prix | 0 ≤ nombre quotidien moyen de transactions < 10 | 10 ≤ nombre quotidien moyen de transactions < 80 | 80 ≤ nombre quotidien moyen de transactions < 600 | 600 ≤ nombre quotidien moyen de transactions < 2 000 | 2 000 ≤ nombre quotidien moyen de transactions < 9 000 | 9 000 ≤ nombre quotidien moyen de transactions |
+| 0 ≤ prix < 0,1 | 0,0005 | 0,0002 | 0,0001 | 0,0001 | 0,0001 | 0,0001 |
+| 0,1 ≤ prix < 0,2 | 0,001 | 0,0005 | 0,0002 | 0,0001 | 0,0001 | 0,0001 |
+| 0,2 ≤ prix < 0,5 | 0,002 | 0,001 | 0,0005 | 0,0002 | 0,0001 | 0,0001 |
+| 0,5 ≤ prix < 1 | 0,005 | 0,002 | 0,001 | 0,0005 | 0,0002 | 0,0001 |
+| 1 ≤ prix < 2 | 0,01 | 0,005 | 0,002 | 0,001 | 0,0005 | 0,0002 |
+| 2 ≤ prix < 5 | 0,02 | 0,01 | 0,005 | 0,002 | 0,001 | 0,0005 |
+| 5 ≤ prix < 10 | 0,05 | 0,02 | 0,01 | 0,005 | 0,002 | 0,001 |
+| 10 ≤ prix < 20 | 0,1 | 0,05 | 0,02 | 0,01 | 0,005 | 0,002 |
+| 20 ≤ prix < 50 | 0,2 | 0,1 | 0,05 | 0,02 | 0,01 | 0,005 |
+| 50 ≤ prix < 100 | 0,5 | 0,2 | 0,1 | 0,05 | 0,02 | 0,01 |
+| 100 ≤ prix < 200 | 1 | 0,5 | 0,2 | 0,1 | 0,05 | 0,02 |
+| 200 ≤ prix < 500 | 2 | 1 | 0,5 | 0,2 | 0,1 | 0,05 |
+| 500 ≤ prix < 1 000 | 5 | 2 | 1 | 0,5 | 0,2 | 0,1 |
+| 1 000 ≤ prix < 2 000 | 10 | 5 | 2 | 1 | 0,5 | 0,2 |
+| 2 000 ≤ prix < 5 000 | 20 | 10 | 5 | 2 | 1 | 0,5 |
+| 5 000 ≤ prix < 10 000 | 50 | 20 | 10 | 5 | 2 | 1 |
+| 10 000 ≤ prix < 20 000 | 100 | 50 | 20 | 10 | 5 | 2 |
+| 20 000 ≤ prix < 50 000 | 200 | 100 | 50 | 20 | 10 | 5 |
+| 50 000 ≤ prix | 500 | 200 | 100 | 50 | 20 | 10 |
+
+(1) Règlement délégué (UE) 2017/587 de la Commission du 14 juillet 2016 complétant le règlement (UE) no 600/2014 du Parlement européen et du Conseil concernant les marchés d'instruments financiers par des normes techniques de réglementation relatives aux obligations de transparence applicables aux plates-formes de négociation et aux entreprises d'investissement pour les actions, certificats représentatifs, fonds cotés, certificats préférentiels et instruments financiers analogues, et aux obligations d'exécution des transactions sur certaines actions via une plate-forme de négociation ou par un internalisateur systématique (voir page 387 du présent Journal officiel).
+
+(2) Règlement délégué de la Commission (UE) 2017/590 du 28 juillet 2016 complétant le règlement (UE) no 600/2014 du Parlement européen et du Conseil par des normes techniques de réglementation pour la déclaration de transactions aux autorités compétentes (voir page 449. du présent Journal officiel).

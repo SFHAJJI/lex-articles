@@ -1,0 +1,961 @@
+{
+  "lex_work_id": "eu-eurlex:31999l0093",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "html-eu-tolerant/1",
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "anx_i": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "anx_ii": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "anx_iii": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "anx_iv": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "art_1": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "fb4f46c5be5919b38340135f9e02e1b5e2ba85783b145e0958e4a8c48d866337",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "art_10": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "885c403f4e6369fc89168eab60d309c8b7a7212fcc2604ad6c381f83983d2b99",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "art_11": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "5e9b5d8a5478003a86e9aff8617fc8c8bcd49e7f80c54a7cfb9bf284e17f4c11",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "art_12": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "223292015c7434646231e3badba9529243f482127c8d72141a294dffc1d9ac93",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "art_13": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "fc195a335d19663a20f2fe7bf824e1fbc7d8689a68c35240d0063701665ec069",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "art_14": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "02b277813e38cbe65bc5b4c3253756e536c8533094772272e6aa5c507ef2c66b",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "art_15": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "d0d9bf17bb51ca69029325908b5bd71547efdaa7f369c7ee2afae3aadd71b37f",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "0324054b3a0490b652024263dff461ae905324df9fb71bcff65c847da20d2ffb",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "9b3fa296f12e29ca080f6e639970cffdf5056444c313a4d2379bc6d26d5b2efc",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "1205b1100e193bd49393c82a13321bf10a3e630f6540349432dfb6f0594e5b86",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "3908c70ef2b281cadd7e1e801704f7b9c0cb29fca84083c19201a8df6ad74010",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "e3163492e368aff1ce21f76c07f91468ceb1a41178619bbb645ca03fb9abda3d",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "44c648c00069efe9aedda4a07494785cf0956f8ade6a323c5c20dad3af6bf6e1",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "art_9": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "d170a0bd2bd3a57abe73a325c88c7ef9c73d813105b61ba5b9617a418c5a8724",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "document": [
+      {
+        "valid_from": "1999-12-13",
+        "valid_to": "2008-12-10",
+        "text_sha256": "49782eef66ee627a8c4e3457bd32ab1c12082c98f02ac33526af5e972fab40ae",
+        "in_version": "eu-eurlex:31999l0093:1999-12-13"
+      }
+    ],
+    "recommendations_for_secure_signature_verification": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "3dedbf6ec046bfb990dea923b6385f36d15d202ab5dbf21c9dc04676aa47ed15",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "requirements_for_certification_service_providers_issuing_qualified_certificates": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "8b187eb48d34871699e935a608ea36d79426a8f2d35393054189824bdc12da6f",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "requirements_for_qualified_certificates": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "aea92f87e43a132a4c580800fb17d4ac7f58774990e8fc66f3a6483937662b33",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "requirements_for_secure_signature_creation_devices": [
+      {
+        "valid_from": "2008-12-11",
+        "valid_to": null,
+        "text_sha256": "fdec3cc2eef42a31fcc61ff45f1fb31484b8f9b718ce37397034119fefc4d0fb",
+        "in_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "removed",
+      "anchor": "document",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_i",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_ii",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_iii",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_iv",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_1",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_10",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_11",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_12",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_13",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_14",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_15",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_2",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_3",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_4",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_5",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_6",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_7",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_8",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_9",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "recommendations_for_secure_signature_verification",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "requirements_for_certification_service_providers_issuing_qualified_certificates",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "requirements_for_qualified_certificates",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    },
+    {
+      "type": "inserted",
+      "anchor": "requirements_for_secure_signature_creation_devices",
+      "at_version": "eu-eurlex:31999l0093:2008-12-11"
+    }
+  ],
+  "anchors_by_language": {
+    "en": {
+      "anx_i": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "anx_ii": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "anx_iii": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "anx_iv": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_1": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "fb4f46c5be5919b38340135f9e02e1b5e2ba85783b145e0958e4a8c48d866337",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "885c403f4e6369fc89168eab60d309c8b7a7212fcc2604ad6c381f83983d2b99",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "5e9b5d8a5478003a86e9aff8617fc8c8bcd49e7f80c54a7cfb9bf284e17f4c11",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "223292015c7434646231e3badba9529243f482127c8d72141a294dffc1d9ac93",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "fc195a335d19663a20f2fe7bf824e1fbc7d8689a68c35240d0063701665ec069",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "02b277813e38cbe65bc5b4c3253756e536c8533094772272e6aa5c507ef2c66b",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "d0d9bf17bb51ca69029325908b5bd71547efdaa7f369c7ee2afae3aadd71b37f",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "0324054b3a0490b652024263dff461ae905324df9fb71bcff65c847da20d2ffb",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "9b3fa296f12e29ca080f6e639970cffdf5056444c313a4d2379bc6d26d5b2efc",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "1205b1100e193bd49393c82a13321bf10a3e630f6540349432dfb6f0594e5b86",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "3908c70ef2b281cadd7e1e801704f7b9c0cb29fca84083c19201a8df6ad74010",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "e3163492e368aff1ce21f76c07f91468ceb1a41178619bbb645ca03fb9abda3d",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "44c648c00069efe9aedda4a07494785cf0956f8ade6a323c5c20dad3af6bf6e1",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "d170a0bd2bd3a57abe73a325c88c7ef9c73d813105b61ba5b9617a418c5a8724",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "document": [
+        {
+          "valid_from": "1999-12-13",
+          "valid_to": "2008-12-10",
+          "text_sha256": "49782eef66ee627a8c4e3457bd32ab1c12082c98f02ac33526af5e972fab40ae",
+          "in_version": "eu-eurlex:31999l0093:1999-12-13"
+        }
+      ],
+      "recommendations_for_secure_signature_verification": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "3dedbf6ec046bfb990dea923b6385f36d15d202ab5dbf21c9dc04676aa47ed15",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "requirements_for_certification_service_providers_issuing_qualified_certificates": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "8b187eb48d34871699e935a608ea36d79426a8f2d35393054189824bdc12da6f",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "requirements_for_qualified_certificates": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "aea92f87e43a132a4c580800fb17d4ac7f58774990e8fc66f3a6483937662b33",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "requirements_for_secure_signature_creation_devices": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "fdec3cc2eef42a31fcc61ff45f1fb31484b8f9b718ce37397034119fefc4d0fb",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ]
+    },
+    "fr": {
+      "annexe_i": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "annexe_ii": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "annexe_iii": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "annexe_iv": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "405e68b5e548333b449d9d31dd76d21cecf376af8b31cf9f7b64c7d46e3a66b7",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "1595de09d328975f1c377c68431ab4da162430e62ba71046914ab5bb5d18d975",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "78b4ab3b4cf47b1826aea439cd0eb2868fb320f03f95f24d6ebaa835424c65e9",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "ca1c469a4adf5478fa161c308da751d7a4bb81662802caced34b64deba1c521c",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "89ca26fd92a6a7273f9b41c22780bfd4a6b09273c9373b984276fc2d954a7ea0",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "831f1f1ec7953995ce8c36d529d9d4ff42b476cb2b1db1cd9ff4b5393226a267",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "64e5766e1030a1c55bdc7e58e639a538bf4c442b06ab00654ad1dba86460becb",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "65771b155d92539871f1e0e7a8eb4810c805e81a883799666f3d14527b0322ed",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "4076d13cc7dc1b9ebde568c13be013f5f813bc1fe069c261c1af5f7116dbcc66",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "cf4c06dce7f063adb38a2df685303bcdb95e8b5295c4b9bc083f6b45b1cdc210",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "21e253c186ed6fffa4243b01da1b6efce3bb44a3a44e53343eddd88fd503c706",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "f14abd8c98fd0cfb0ef5efb20b5eb4ca6e638c4ae05946208682b821cc4ba423",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "30ebfe03b8c30d5ec88fd9fbc2e36c2a0d47baaefd010622d912534ce07b4a78",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "art_premier": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "9d7436533a3d47f9d2f16737be54d2ba0f61c48e8d8691477d601910f3147410",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "document": [
+        {
+          "valid_from": "1999-12-13",
+          "valid_to": "2008-12-10",
+          "text_sha256": "da257d978c8ed37207b4b80c9369654e45cbcaa50117586379fbdcca19206a43",
+          "in_version": "eu-eurlex:31999l0093:1999-12-13"
+        }
+      ],
+      "exigences_concernant_les_certificats_qualifies": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "df5773803b98e527aa621b8d3662d1cd8159adcf28405c358ea8cf4287d01dad",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "exigences_concernant_les_prestataires_de_service_de_certification_delivrant_des_certificats_qualifies": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "a2a58cb1aac1841e43132a0faa29430ec02a7f1bbda532bd355235a198594ce6",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "exigences_pour_les_dispositifs_securises_de_creation_de_signature_electronique": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "b3806ff74d7a02c6d4e009703de9ee727b7dd236dd9c73bd3d5d67ea6caf3a89",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ],
+      "recommandations_pour_la_verification_securisee_de_la_signature": [
+        {
+          "valid_from": "2008-12-11",
+          "valid_to": null,
+          "text_sha256": "da1778dd1f60d9a23d951882397d0248a9248dca71a62431201cd102d22b4bad",
+          "in_version": "eu-eurlex:31999l0093:2008-12-11"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [
+      {
+        "type": "removed",
+        "anchor": "document",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_i",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_ii",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_iii",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_iv",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_1",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_10",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_11",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_12",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_13",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_14",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_15",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_2",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_3",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_4",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_5",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_6",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_8",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_9",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "recommendations_for_secure_signature_verification",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "requirements_for_certification_service_providers_issuing_qualified_certificates",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "requirements_for_qualified_certificates",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "requirements_for_secure_signature_creation_devices",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ],
+    "fr": [
+      {
+        "type": "removed",
+        "anchor": "document",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_i",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_ii",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_iii",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_iv",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_10",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_11",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_12",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_13",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_14",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_15",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_2",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_3",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_4",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_5",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_6",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_8",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_9",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_premier",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "exigences_concernant_les_certificats_qualifies",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "exigences_concernant_les_prestataires_de_service_de_certification_delivrant_des_certificats_qualifies",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "exigences_pour_les_dispositifs_securises_de_creation_de_signature_electronique",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "recommandations_pour_la_verification_securisee_de_la_signature",
+        "at_version": "eu-eurlex:31999l0093:2008-12-11"
+      }
+    ]
+  }
+}

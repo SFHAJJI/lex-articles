@@ -1,0 +1,103 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r1506:2024-02-22",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2024/1506 of 22\u00A0February 2024 supplementing Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-02-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r1506/versions/2024-02-22/en.xml",
+    "sha256": "0457ec4edba0977ca829de0c0504da8a49ffec67655c7f9132b4cfdbd874874f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1506"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r1506:2024-02-22#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nFor the purposes of this Regulation, the following definitions shall apply:\n\n| (1) | ‘financial institution’ means any of the following:(a)a credit institution;(b)an investment firm;(c)an electronic money institution;(d)a payment institution;(e)a UCITS management company;(f)an alternative investment fund manager;(g)an insurance undertaking as defined in Article 13, point (1), of Directive 2009/138/EC of the European Parliament and of the Council (2);(h)a reinsurance undertaking as defined in Article 13, point (4), of Directive 2009/138/EC;(i)an institution for occupational retirement provision as defined in Article 6, point (1), of Directive (EU) 2016/2341 of the European Parliament and of the Council (3); |\n| --- | --- |\n| (a) | a credit institution; |\n| (b) | an investment firm; |\n| (c) | an electronic money institution; |\n| (d) | a payment institution; |\n| (e) | a UCITS management company; |\n| (f) | an alternative investment fund manager; |\n| (g) | an insurance undertaking as defined in Article 13, point (1), of Directive 2009/138/EC of the European Parliament and of the Council (2); |\n| (h) | a reinsurance undertaking as defined in Article 13, point (4), of Directive 2009/138/EC; |\n| (i) | an institution for occupational retirement provision as defined in Article 6, point (1), of Directive (EU) 2016/2341 of the European Parliament and of the Council (3); |\n\n| (2) | ‘relevant period’ means the period referred to in Article 43(2), point (a), of Regulation (EU) 2023/1114, or the period referred to in Article 43(2), point (b), of that Regulation. |\n| --- | --- |",
+      "text_sha256": "b0f89dc75143be2ad8be64529981cf29d6648d7b6063fa18d921415c91998647",
+      "md_span": {
+        "start": 651,
+        "end": 2250
+      },
+      "citations": [
+        {
+          "href": "#ntr2-L_202401506EN.000101-E0002",
+          "text": "(2)"
+        },
+        {
+          "href": "#ntr3-L_202401506EN.000101-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r1506:2024-02-22#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. When assessing whether the criterion set out in Article 43(1), point (e), of Regulation (EU) 2023/1114 is fulfilled, the EBA shall assess all of the following core indicators:\n\n| (a) | the significance of the market share of value of cross-border transactions in asset-referenced tokens or e-money tokens into the Union and from the Union; |\n| --- | --- |\n\n| (b) | the significance of the estimated market share of value of cross-border transactions in asset-referenced tokens or e-money tokens into the Union and from the Union that are associated to uses as a means of exchange; |\n| --- | --- |\n\n| (c) | the degree of market capitalisation on an international scale of an asset-referenced token or an e-money token on the last calendar day of the relevant period; |\n| --- | --- |\n\n| (d) | the degree of market capitalisation on an international scale of all asset-referenced tokens and e-money tokens issued by the issuer or issuers concerned on the last calendar day of the relevant period. |\n| --- | --- |\n\n2. For the purposes of paragraph 1, point (a), the EBA shall consider all of the following sub-indicators:\n\n| (a) | the market share of value of cross-border transactions in asset-referenced tokens or e-money tokens into the Union (inflow transactions); |\n| --- | --- |\n\n| (b) | the market share of value of cross-border transactions in asset-referenced tokens or e-money tokens from the Union (outflow transactions). |\n| --- | --- |\n\nThe EBA shall calculate the sub-indicator referred to in the first subparagraph, point (a), in accordance with the following formula:\n\n| the total aggregate value of transactions of which the payer is outside the Union and the payee is inside the Union in a given asset-referenced token or e-money token during the relevant period |\n| --- |\n| the total aggregate value of transactions of which the payer is outside the Union and the payee is inside the Union in all asset-referenced tokens and e-money tokens during the relevant period |\n\nThe EBA shall calculate the sub-indicator referred to in the first subparagraph, point (b), in accordance with the following formula:\n\n| the total aggregate value of transactions of which the payer is within the Union and the payee is outside the Union in a given asset-referenced token or e-money token during the relevant period |\n| --- |\n| the total aggregate value of transactions of which the payer is within the Union and the payee is outside the Union in all asset-referrenced tokens and e-money tokens during the relevant period |\n\n3. The EBA shall calculate the estimated market share referred to in paragraph 1, point (b), in accordance with the following formula:\n\n| the estimated total aggregate value of cross-border transactions in a given asset-referenced token or e-money token into the Union and from the Union that are associated to its uses as a means of exchange during the relevant period |\n| --- |\n| the estimated total aggregate value of cross-border transactions in all asset-referenced tokens and e-money tokens into the Union and from the Union that are associated to their uses as a means of exchange during the relevant period) |",
+      "text_sha256": "8b39a551ce85f5e8c0cfd2b7fc8aa52117043113599244aedd0185c578a94d47",
+      "md_span": {
+        "start": 2283,
+        "end": 5439
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r1506:2024-02-22#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. When assessing whether the criterion set out in Article 43(1), point (f), of Regulation (EU) 2023/1114 is fulfilled, the EBA shall assess all of the following core indicators:\n\n| (a) | the significance of the share of non-deposit reserve assets of an asset-referenced token or an e-money token that are financial instruments issued by financial institutions; |\n| --- | --- |\n\n| (b) | the significance of the share of the issuer’s asset holdings relative to the total supply of specific financial instruments. |\n| --- | --- |\n\n2. For the purposes of paragraph 1, point (a), the EBA shall consider the following sub-indicators:\n\n| (a) | the share of non-deposit reserve assets of an asset-referenced token or an e-money token that are financial instruments issued by financial institutions; |\n| --- | --- |\n\n| (b) | in case of asset-referenced tokens, share of non-deposit reserve assets of an asset-referenced token that are derivatives; or |\n| --- | --- |\n\n| (c) | in case of e-money tokens, share of non-deposit reserve assets of an e-money token that are covered bonds. |\n| --- | --- |\n\nThe EBA shall calculate the sub-indicator referred to in the first subparagraph, point (a), in respect of the last calendar day of the relevant period in accordance with the following formula:\n\n| the total value of financial instruments issued by financial institutions that are part of the reserve of assets of the asset-referenced token or e-money token |\n| --- |\n| (the total value of the reserve of assets of the asset-referenced token or e-money token)-(the total value of deposits in the reserve of assets of the asset-referenced token or e-money token) |\n\nThe EBA shall calculate the sub-indicator referred to in the first subparagraph, point (b), in respect of the last calendar day of the relevant period in accordance with the following formula:\n\n| the total value of derivatives that are part of the reserve of assets of the asset-referenced token |\n| --- |\n| (the total value of the reserve of assets of the asset-referenced token)-(the total value of deposits in the reserve of assets of the asset-referenced token) |\n\nThe EBA shall calculate the sub-indicator referred to in the first subparagraph, point (c), in respect of the last calendar day of the relevant period in accordance with the following formula:\n\n| the total value of covered bonds issued by credit institutions that are part of the reserve of assets of the e-money token |\n| --- |\n| (the total value of the reserve of assets of the e-money token)-(the total value of deposits in the reserve of assets of the e-money token) |\n\n3. The EBA shall calculate the share of the issuer’s asset holdings referred to in paragraph 1, point (b), in respect of the last calendar day of the relevant period in accordance with the following formula:\n\n| the total value of holdings of the issuer of an asset-referenced token or an e-money token of a type of a financial instrument |\n| --- |\n| the total supply of that type of the financial instrument |\n\n4. Where the assessment of the core indicators referred to in paragraph 1 does not lead to a conclusive determination with regard to the interconnectedness criterion set out in of Article 43(1), point (f), of Regulation (EU) 2023/1114, the EBA shall assess all of the following ancillary indicators:\n\n| (a) | the ownership structure of the issuer of an asset-referenced token or an e-money token; |\n| --- | --- |\n\n| (b) | the degree of concentration of the reserve assets of the issuer of an asset-referenced token or an e-money token in financial institutions; |\n| --- | --- |\n\n| (c) | the degree of portfolio overlap of reserve assets of the issuer of an asset-referenced token or an e-money token with the reserve assets of other issuers of asset-referenced tokens and e-money tokens. |\n| --- | --- |\n\n5. For the purposes of paragraph 4, point (a), the EBA shall consider all of the following:\n\n| (a) | whether the issuer has a dispersed or concentrated ownership structure; |\n| --- | --- |\n\n| (b) | whether a natural or legal person with a qualifying holding is a financial institution; |\n| --- | --- |\n\n| (c) | the complexity of the ownership structure. |\n| --- | --- |\n\n6. For the purposes of paragraph 4, point (b), the EBA shall consider all of the following sub-indicators:\n\n| (a) | the concentration of the reserve assets of the issuer of an asset-referenced token or an e-money token in financial institutions; |\n| --- | --- |\n\n| (b) | the concentration of deposits held in credit institutions by the issuer of an asset-referenced token or an e-money token. |\n| --- | --- |\n\nThe EBA shall calculate the sub-indicator referred to in the first subparagraph, point (a), in respect of the last calendar day of the relevant period in accordance with the following formula:\n\nConcentration = s12+s22+s32+…sn2\n\nwhere sn = the share of reserve assets held in financial institutions n (expressed as a whole number).\n\nThe EBA shall calculate the sub-indicator referred to in the first subparagraph, point (b), in respect of the last calendar day of the relevant period in accordance with the following formula:\n\nConcentration = c12+c22+c32+…cn2\n\nwhere cn = the share of deposits held in credit institutions n (expressed as a whole number).\n\n7. The EBA shall calculate the ancillary indicator referred to in paragraph 4, point (c), in respect of the last calendar day of the relevant period in accordance with the following formula:\n\n| the total value of the reserve assets ofan asset-referenced token or an e-money token that are also held in the reserve of assets of other issuers of asset-referenced tokens or e-money tokens |\n| --- |\n| the total value of the reserve assets of the asset-referenced token or an e-money token |",
+      "text_sha256": "0a33de3d55c138b00936e1715441d8da6402d9498e45e8e6a5275eb044355961",
+      "md_span": {
+        "start": 5472,
+        "end": 11220
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r1506:2024-02-22#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nThis Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "text_sha256": "98b955664da4c8a793239052fce536b7d5511f9c06a54734491113ad4f531a9d",
+      "md_span": {
+        "start": 11253,
+        "end": 11500
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

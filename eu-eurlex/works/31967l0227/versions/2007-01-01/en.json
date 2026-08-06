@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31967l0227:2007-01-01",
+  "language": "en",
+  "title": "First Council Directive 67/227/EEC of 11 April 1967 on the harmonisation of legislation of…",
+  "valid_from": "2007-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31967l0227/versions/2007-01-01/en.html",
+    "sha256": "fdb694e499762c5209aab671e886e17b141606234f5ac5a8f66ce808997e8e79",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01967L0227-20070101"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31967l0227:2007-01-01#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1967L0227 — EN — 01.01.2007 — 003.001 This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents ►B FIRST COUNCIL DIRECTIVE of 11 April 1967 on the harmonisation of legislation of Member States concerning turnover taxes (67/227/EEC) (OJ P 071, 14.4.1967, p.1301) repealed by: Official Journal No page date Council Directive 2006/112/EC of 28 November 2006 L 347 1 11.12.2006",
+      "text_sha256": "65ed5a63c1432bd017fe0887a946b4ae3e45f2a990d8151e74458a31b9e5c8ed",
+      "md_span": {
+        "start": 658,
+        "end": 1093
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

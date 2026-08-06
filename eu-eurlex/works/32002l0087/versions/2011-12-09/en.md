@@ -1,0 +1,1239 @@
+---
+lex_id: 'eu-eurlex:32002l0087:2011-12-09'
+title: 'Directive 2002/87/EC'
+valid_from: '2011-12-09'
+valid_to: '2013-07-16'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02002L0087-20111209'
+source_sha256: '1671d65b7d0a486787de23e46a19b868484e7578a129e24114daa1fb8840090f'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPTER I
+
+### OBJECTIVE AND DEFINITIONS
+
+<a id="art_1"></a>
+
+### Article 1 — Subject matter
+
+This Directive lays down rules for supplementary supervision of regulated entities which have obtained an authorisation in accordance with Article 6 of Directive 73/239/EEC, Article 4 of Directive 2002/83/EC (14), Article 5 of Directive 2004/39/EC (15), Article 3 of Directive 2005/68/EC (16), Article 6 of Directive 2006/48/EC (17), Article 5 of Directive 2009/65/EC (18), Article 14 of Directive 2009/138/EC (19) or Articles 6 to 11 of Directive 2011/61/EU (20), and which are part of a financial conglomerate.
+
+This Directive also amends the relevant sectoral rules which apply to entities regulated by those Directives.
+
+<a id="art_2"></a>
+
+### Article 2 — Definitions
+
+For the purposes of this Directive:
+
+(1) ‘credit institution’ means a credit institution within the meaning of Article 4(1) of Directive 2006/48/EC;
+
+(2) ‘insurance undertaking’ means an insurance undertaking within the meaning of Article 13(1), (2) or (3) of Directive 2009/138/EC;
+
+(3) ‘investment firm’ means an investment firm within the meaning of point 1 of Article 4(1) of Directive 2004/39/EC, including the undertakings referred to in Article 3(1)(d) of Directive 2006/49/EC of the European Parliament and of the Council of 14 June 2006 on the capital adequacy of investment firms and credit institutions (21) or an undertaking the registered office of which is in a third country and which would require authorisation under Directive 2004/39/EC if its registered office were in the Union;
+
+(4) ‘regulated entity’ means a credit institution, an insurance undertaking, a reinsurance undertaking, an investment firm, an asset management company or an alternative investment fund manager;
+
+(5) ‘asset management company’ means a management company within the meaning of Article 2(1)(b) of Directive 2009/65/EC or an undertaking the registered office of which is in a third country and which would require authorisation under that Directive if its registered office were within the Union;
+
+(5a) ‘alternative investment fund manager’ means a manager of alternative investment funds within the meaning of Article 4(1)(b), (l) and (ab) of Directive 2011/61/EU or an undertaking the registered office of which is in a third country and which would require authorisation under that Directive if its registered office were within the Union;
+
+(6) ‘reinsurance undertaking’ means a reinsurance undertaking within the meaning of Article 13(4), (5) or (6) of Directive 2009/138/EC or a special purpose vehicle within the meaning of Article 13(26) of Directive 2009/138/EC;
+
+(7) ‘sectoral rules’ means Union legislation relating to the prudential supervision of regulated entities, in particular Directives 2004/39/EC, 2006/48/EC, 2006/49/EC and 2009/138/EC;
+
+(8) ‘financial sector’ means a sector composed of one or more of the following entities:
+
+(a) a credit institution, a financial institution or an ancillary services undertaking within the meaning of Article 4(1), (5) or (21) of Directive 2006/48/EC (hereinafter referred to collectively as ‘the banking sector’);
+
+(b) an insurance undertaking, a reinsurance undertaking or an insurance holding company within the meaning of Article 13(1), (2), (4) or (5) or of Article 212(1)(f) of Directive 2009/138/EC (hereinafter referred to collectively as ‘the insurance sector’);
+
+(c) an investment firm within the meaning of Article 3(1)(b) of Directive 2006/49/EC (hereinafter referred to collectively as ‘the investment services sector’);
+
+(9) ‘parent undertaking’ means a parent undertaking as defined in Article 1 of Seventh Council Directive 83/349/EEC of 13 June 1983 on consolidated accounts (22) or any undertaking which, in the opinion of the competent authorities, effectively exercises a dominant influence over another undertaking;
+
+(10) ‘subsidiary undertaking’ means a subsidiary undertaking as defined in Article 1 of Directive 83/349/EEC or any undertaking over which, in the opinion of the competent authorities, a parent undertaking effectively exercises a dominant influence or all subsidiaries of such subsidiary undertakings;
+
+(11) ‘participation’ means a participation within the meaning of the first sentence of Article 17 of Fourth Council Directive 78/660/EEC of 25 July 1978 on the annual accounts of certain types of companies (23), or the direct or indirect ownership of 20 % or more of the voting rights or capital of an undertaking;
+
+(12) ‘group’ means a group of undertakings which consists of a parent undertaking, its subsidiaries and the entities in which the parent undertaking or its subsidiaries hold a participation, or undertakings linked to each other by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC, including any subgroup thereof;
+
+(12a) ‘control’ means the relationship between a parent undertaking and a subsidiary undertaking as set out in Article 1 of Directive 83/349/EEC, or a similar relationship between a natural or legal person and an undertaking;
+
+(13) ‘close links’ means a situation in which two or more natural or legal persons are linked by control or participation, or a situation in which two or more natural or legal persons are permanently linked to the same person by a control relationship;
+
+(14) ‘financial conglomerate’ means a group or subgroup, where a regulated entity is at the head of the group or subgroup, or where at least one of the subsidiaries in that group or subgroup is a regulated entity, and which meets the following conditions:
+
+(a) where there is a regulated entity at the head of the group or subgroup:
+
+(i) that entity is a parent undertaking of an entity in the financial sector, an entity which holds a participation in an entity in the financial sector, or an entity linked with an entity in the financial sector by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC;
+
+(ii) at least one of the entities in the group or subgroup is within the insurance sector and at least one is within the banking or investment services sector; and
+
+(iii) the consolidated or aggregated activities of the entities in the group or subgroup within the insurance sector and of the entities within the banking and investment services sector are both significant within the meaning of Article 3(2) or (3) of this Directive; or
+
+(b) where there is no regulated entity at the head of the group or subgroup:
+
+(i) the group’s or subgroup’s activities occur mainly in the financial sector within the meaning of Article 3(1) of this Directive;
+
+(ii) at least one of the entities in the group or subgroup is within the insurance sector and at least one is within the banking or investment services sector; and
+
+(iii) the consolidated or aggregated activities of the entities in the group or subgroup within the insurance sector and of the entities within the banking and investment services sector are both significant within the meaning of Article 3(2) or (3) of this Directive;
+
+(15) ‘mixed financial holding company’ means a parent undertaking, other than a regulated entity, which, together with its subsidiaries — at least one of which is a regulated entity which has its registered office in the Union — and other entities, constitutes a financial conglomerate;
+
+(16) ‘competent authorities’ means the national authorities of the Member States which are empowered by law or regulation to supervise credit institutions, insurance undertakings, reinsurance undertakings, investment firms, asset management companies or alternative investment fund managers whether on an individual or group-wide basis;
+
+(17) ‘relevant competent authorities’ means:
+
+(a) Member States’ competent authorities responsible for the sectoral group-wide supervision of any of the regulated entities in a financial conglomerate, in particular of the ultimate parent undertaking of a sector;
+
+(b) the coordinator appointed in accordance with Article 10 if different from the authorities referred to in point (a);
+
+(c) where appropriate, other competent authorities relevant to the opinion of the authorities referred to in points (a) and (b);
+
+(18) ‘intra-group transactions’ means all transactions by which regulated entities within a financial conglomerate rely directly or indirectly on other undertakings within the same group or on any natural or legal person linked to the undertakings within that group by close links, for the fulfilment of an obligation, whether or not contractual, and whether or not for payment;
+
+(19) ‘risk concentration’ means all risk exposures with a loss potential which is large enough to threaten the solvency or the financial position in general of the regulated entities in a financial conglomerate, whether such exposures are caused by counterparty risk/credit risk, investment risk, insurance risk, market risk, other risks, or a combination or interaction of such risks.
+
+Until the entry into force of any regulatory technical standards adopted in accordance with Article 21a(1)(b), the opinion referred to in point (17)(c) shall, in particular, take into account the market share of the regulated entities of the financial conglomerate in other Member States, in particular if it exceeds 5 %, and the importance in the financial conglomerate of any regulated entity established in another Member State.
+
+<a id="art_3"></a>
+
+### Article 3 — Thresholds for identifying a financial conglomerate
+
+1. For the purposes of determining whether the activities of a group mainly occur in the financial sector, within the meaning of Article 2(14)(b)(i), the ratio of the balance sheet total of the regulated and non-regulated financial sector entities in the group to the balance sheet total of the group as a whole should exceed 40 %.
+
+2. For the purposes of determining whether activities in different financial sectors are significant within the meaning of Article 2(14)(a)(iii) or (14)(b)(iii), for each financial sector the average of the ratio of the balance sheet total of that financial sector to the balance sheet total of the financial sector entities in the group and the ratio of the solvency requirements of the same financial sector to the total solvency requirements of the financial sector entities in the group should exceed 10 %.
+
+For the purposes of this Directive, the smallest financial sector in a financial conglomerate is the sector with the smallest average and the most important financial sector in a financial conglomerate is the sector with the highest average. For the purposes of calculating the average and for the measurement of the smallest and the most important financial sectors, the banking sector and the investment services sector shall be considered together.
+
+Asset management companies shall be added to the sector to which they belong within the group. If they do not belong exclusively to one sector within the group, they shall be added to the smallest financial sector.
+
+Alternative investment fund managers shall be added to the sector to which they belong within the group. If they do not belong exclusively to one sector within the group, they shall be added to the smallest financial sector.
+
+3. Cross-sectoral activities shall also be presumed to be significant within the meaning of Article 2(14)(a)(iii) or (14)(b)(iii) if the balance sheet total of the smallest financial sector in the group exceeds EUR 6 billion.
+
+If the group does not reach the threshold referred to in paragraph 2 of this Article, the relevant competent authorities may decide by common agreement not to regard the group as a financial conglomerate. They may also decide not to apply the provisions of Article 7, 8, or 9, if they are of the opinion that the inclusion of the group in the scope of this Directive or the application of such provisions is not necessary or would be inappropriate or misleading with respect to the objectives of supplementary supervision.
+
+Decisions taken in accordance with this paragraph shall be notified to the other competent authorities and shall, save in exceptional circumstances, be made public by the competent authorities.
+
+3a. If the group reaches the threshold referred to in paragraph 2 of this Article, but the smallest sector does not exceed EUR 6 billion, the relevant competent authorities may decide by common agreement not to regard the group as a financial conglomerate. They may also decide not to apply the provisions of Article 7, 8, or 9, if they are of the opinion that the inclusion of the group in the scope of this Directive or the application of such provisions is not necessary or would be inappropriate or misleading with respect to the objectives of supplementary supervision.
+
+Decisions taken in accordance with this paragraph shall be notified to the other competent authorities and shall, save in exceptional circumstances, be made public by the competent authorities.
+
+4. For the application of paragraphs 1, 2 and 3, the relevant competent authorities may by common agreement:
+
+(a) exclude an entity when calculating the ratios, in the cases referred to in Article 6(5), unless the entity moved from a Member State to a third country and there is evidence that the entity changed its location in order to avoid regulation;
+
+(b) take into account compliance with the thresholds envisaged in paragraphs 1 and 2 for three consecutive years so as to avoid sudden regime shifts, and disregard such compliance if there are significant changes in the group's structure;
+
+(c) exclude one or more participations in the smaller sector if such participations are decisive for the identification of a financial conglomerate, and are collectively of negligible interest with respect to the objectives of supplementary supervision.
+
+Where a financial conglomerate has been identified according to paragraphs 1, 2 and 3, the decisions referred to in the first subparagraph of this paragraph shall be taken on the basis of a proposal made by the coordinator of that financial conglomerate.
+
+5. For the application of paragraphs 1 and 2, the relevant competent authorities may, in exceptional cases and by common agreement, replace the criterion based on balance sheet total with one or more of the following parameters or add one or more of these parameters, if they are of the opinion that those parameters are of particular relevance for the purpose of supplementary supervision under this Directive: income structure, off-balance sheet activities, total assets under management.
+
+6. For the application of paragraphs 1 and 2, if the ratios referred to in those paragraphs fall below 40 % and 10 % respectively for conglomerates already subject to supplementary supervision, a lower ratio of 35 % and 8 % respectively shall apply for the following three years to avoid sudden regime shifts.
+
+Similarly, for the application of paragraph 3, if the balance sheet total of the smallest financial sector in the group falls below EUR 6 billion for conglomerates already subject to supplementary supervision, a lower figure of EUR 5 billion shall apply for the following three years to avoid sudden regime shifts.
+
+During the period referred to in this paragraph, the coordinator may, with the agreement of the other relevant competent authorities, decide that the lower ratios or the lower amount referred to in this paragraph shall cease to apply.
+
+7. The calculations referred to in this Article regarding the balance sheet shall be made on the basis of the aggregated balance sheet total of the entities of the group, according to their annual accounts. For the purposes of this calculation, undertakings in which a participation is held shall be taken into account as regards the amount of their balance sheet total corresponding to the aggregated proportional share held by the group. However, where consolidated accounts are available, they shall be used instead of aggregated accounts.
+
+The solvency requirements referred to in paragraphs 2 and 3 shall be calculated in accordance with the provisions of the relevant sectoral rules.
+
+8. The European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council (24) (EBA), the European Supervisory Authority (European Insurance and Occupational Pensions Authority) established by Regulation (EU) No 1094/2010 of the European Parliament and of the Council (25) (EIOPA) and the European Supervisory Authority (European Securities and Markets Authority) established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council (26) (ESMA) (hereinafter collectively referred to as ‘the ESA’) shall, through the Joint Committee of the ESA (Joint Committee), issue common guidelines aimed at the convergence of supervisory practices with regard to the application of paragraphs 2, 3, 3a, 4 and 5 of this Article.
+
+9. The competent authorities shall, on an annual basis, reassess waivers of the application of supplementary supervision and shall review the quantitative indicators set out in this Article and risk-based assessments applied to financial groups.
+
+<a id="art_4"></a>
+
+### Article 4 — Identifying a financial conglomerate
+
+1. Competent authorities which have authorised regulated entities shall, on the basis of Articles 2, 3 and 5, identify any group that falls under the scope of this Directive.
+
+For that purpose:
+
+— competent authorities which have authorised regulated entities in the group shall cooperate closely,
+
+— if a competent authority is of the opinion that a regulated entity authorised by that competent authority is a member of a group which may be a financial conglomerate and which has not already been identified in accordance with this Directive, the competent authority shall communicate its view to the other competent authorities concerned and to the Joint Committee.
+
+2. The coordinator appointed in accordance with Article 10 shall inform the parent undertaking at the head of a group or, in the absence of a parent undertaking, the regulated entity with the largest balance sheet total in the most important financial sector in a group, that the group has been identified as a financial conglomerate and of the appointment of the coordinator.
+
+The coordinator shall also inform the competent authorities which have authorised regulated entities in the group, the competent authorities of the Member State in which the mixed financial holding company has its head office and the Joint Committee.
+
+3. The Joint Committee shall publish and keep up-to-date on its website the list of financial conglomerates defined in accordance with Article 2(14). That information shall be available by hyperlink on each of the ESA's websites.
+
+The name of each regulated entity referred to in Article 1 which is part of a financial conglomerate shall be entered on a list, which the Joint Committee shall publish and keep up-to-date on its website.
+
+## SECTION 1
+
+### SCOPE
+
+<a id="art_5"></a>
+
+### Article 5 — Scope of supplementary supervision of regulated entities referred to in Article 1
+
+1. Without prejudice to the provisions on supervision contained in the sectoral rules, Member States shall provide for the supplementary supervision of the regulated entities referred to in Article 1, to the extent and in the manner prescribed in this Directive.
+
+2. The following regulated entities shall be subject to supplementary supervision at the level of the financial conglomerate in accordance with Articles 6 to 17:
+
+(a) every regulated entity which is at the head of a financial conglomerate;
+
+(b) every regulated entity, the parent undertaking of which is a mixed financial holding company which has its head office in the Union;
+
+(c) every regulated entity linked with another financial sector entity by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC.
+
+Where a financial conglomerate is a subgroup of another financial conglomerate which meets the requirements of the first subparagraph, Member States may apply Articles 6 to 17 to the regulated entities within the latter group only and any reference in the Directive to the terms group and financial conglomerate will then be understood as referring to that latter group.
+
+3. Every regulated entity which is not subject to supplementary supervision in accordance with paragraph 2, the parent undertaking of which is a regulated entity or a mixed financial holding company which has its head office in a third country, shall be subject to supplementary supervision at the level of the financial conglomerate to the extent and in the manner prescribed in Article 18.
+
+4. Where persons hold participations or capital ties in one or more regulated entities or exercise significant influence over such entities without holding a participation or capital ties, other than the cases referred to in paragraphs 2 and 3, the relevant competent authorities shall, by common agreement and in conformity with national law, determine whether and to what extent supplementary supervision of the regulated entities is to be carried out, as if they constitute a financial conglomerate.
+
+In order to apply such supplementary supervision, at least one of the entities must be a regulated entity as referred to in Article 1 and the conditions set out in Article 2(14)(a)(ii) or (14)(b)(ii) and Article 2(14)(a)(iii) or (14)(b)(iii) must be met. The relevant competent authorities shall take their decision, taking into account the objectives of the supplementary supervision as provided for by this Directive.
+
+For the purposes of applying the first subparagraph to ‘cooperative groups’, the competent authorities must take into account the public financial commitment of these groups with respect to other financial entities.
+
+5. Without prejudice to Article 13, the exercise of supplementary supervision at the level of the financial conglomerate shall in no way imply that the competent authorities are required to play a supervisory role in relation to mixed financial holding companies, third-country regulated entities in a financial conglomerate or unregulated entities in a financial conglomerate, on a stand-alone basis.
+
+## SECTION 2
+
+### FINANCIAL POSITION
+
+<a id="art_6"></a>
+
+### Article 6 — Capital adequacy
+
+1. Without prejudice to the sectoral rules, supplementary supervision of the capital adequacy of the regulated entities in a financial conglomerate shall be exercised in accordance with the rules laid down in Article 9(2) to (5), in Section 3 of this Chapter, and in Annex I.
+
+2. The Member States shall require regulated entities in a financial conglomerate to ensure that own funds are available at the level of the financial conglomerate which are always at least equal to the capital adequacy requirements as calculated in accordance with Annex I.
+
+The Member States shall also require regulated entities to have in place adequate capital adequacy policies at the level of the financial conglomerate.
+
+The requirements referred to in the first and second subparagraphs shall be subject to supervisory overview by the coordinator in accordance with Section 3.
+
+The coordinator shall ensure that the calculation referred to in the first subparagraph is carried out at least once a year, either by the regulated entities or by the mixed financial holding company.
+
+The results of the calculation and the relevant data for the calculation shall be submitted to the coordinator by the regulated entity within the meaning of Article 1 which is at the head of the financial conglomerate, or, where the financial conglomerate is not headed by a regulated entity within the meaning of Article 1, by the mixed financial holding company or by the regulated entity in the financial conglomerate identified by the coordinator after consultation with the other relevant competent authorities and with the financial conglomerate.
+
+3. For the purposes of calculating the capital adequacy requirements referred to in the first subparagraph of paragraph 2, the following entities shall be included in the scope of supplementary supervision in accordance with Annex I:
+
+(a) a credit institution, a financial institution or an ancillary services undertaking;
+
+(b) an insurance undertaking, a reinsurance undertaking or an insurance holding company;
+
+(c) an investment firm;
+
+(d) a mixed financial holding company.
+
+4. When calculating the supplementary capital adequacy requirements with regard to a financial conglomerate by applying method 1 (Accounting consolidation) referred to in Annex I to this Directive, the own funds and the solvency requirements of the entities in the group shall be calculated by applying the corresponding sectoral rules on the form and extent of consolidation as laid down in particular in Articles 133 and 134 of Directive 2006/48/EC and Article 221 of Directive 2009/138/EC.
+
+When applying method 2 (Deduction and aggregation) referred to in Annex I, the calculation shall take account of the proportion of the subscribed capital which is directly or indirectly held by the parent undertaking or undertaking which holds a participation in another entity of the group.
+
+5. The coordinator may decide not to include a particular entity in the scope when calculating the supplementary capital adequacy requirements in the following cases:
+
+(a) if the entity is situated in a third country where there are legal impediments to the transfer of the necessary information, without prejudice to the sectoral rules regarding the obligation of competent authorities to refuse authorisation where the effective exercise of their supervisory functions is prevented;
+
+(b) if the entity is of negligible interest with respect to the objectives of the supplementary supervision of regulated entities in a financial conglomerate;
+
+(c) if the inclusion of the entity would be inappropriate or misleading with respect to the objectives of supplementary supervision.
+
+However, if several entities are to be excluded pursuant to (b) of the first subparagraph, they must nevertheless be included when collectively they are of non-negligible interest.
+
+In the case mentioned in (c) of the first subparagraph the coordinator shall, except in cases of urgency, consult the other relevant competent authorities before taking a decision.
+
+When the coordinator does not include a regulated entity in the scope under one of the cases provided for in (b) and (c) of the first subparagraph, the competent authorities of the Member State in which that entity is situated may ask the entity which is at the head of the financial conglomerate for information which may facilitate their supervision of the regulated entity.
+
+<a id="art_7"></a>
+
+### Article 7 — Risk concentration
+
+1. Without prejudice to the sectoral rules, supplementary supervision of the risk concentration of regulated entities in a financial conglomerate shall be exercised in accordance with the rules laid down in Article 9(2) to (4), in Section 3 of this Chapter and in Annex II.
+
+2. The Member States shall require regulated entities or mixed financial holding companies to report on a regular basis and at least annually to the coordinator any significant risk concentration at the level of the financial conglomerate, in accordance with the rules laid down in this Article and in Annex II. The necessary information shall be submitted to the coordinator by the regulated entity within the meaning of Article 1 which is at the head of the financial conglomerate or, where the financial conglomerate is not headed by a regulated entity within the meaning of Article 1, by the mixed financial holding company or by the regulated entity in the financial conglomerate identified by the coordinator after consultation with the other relevant competent authorities and with the financial conglomerate.
+
+These risk concentrations shall be subject to supervisory overview by the coordinator in accordance with Section 3.
+
+3. Pending further coordination of Union legislation, Member States may set quantitative limits, allow their competent authorities to set quantitative limits, or adopt other supervisory measures which would achieve the objectives of supplementary supervision, with regard to any risk concentration at the level of a financial conglomerate.
+
+4. Where a financial conglomerate is headed by a mixed financial holding company, the sectoral rules regarding risk concentration of the most important financial sector in the financial conglomerate, if any, shall apply to that sector as a whole, including the mixed financial holding company.
+
+5. The ESA shall, through the Joint Committee, issue common guidelines aimed at the convergence of supervisory practices with regard to the application of supplementary supervision of risk concentration as provided for in paragraphs 1 to 4 of this Article. In order to avoid duplication, the guidelines shall ensure that the application of the supervisory tools as provided for in this Article is aligned to the application of Articles 106 to 118 of Directive 2006/48/EC and of Article 244 of Directive 2009/138/EC. They shall issue specific common guidelines on the application of paragraphs 1 to 4 of this Article to participations of the financial conglomerate in cases where national company law provisions obstruct the application of Article 14(2) of this Directive.
+
+<a id="art_8"></a>
+
+### Article 8 — Intra-group transactions
+
+1. Without prejudice to the sectoral rules, supplementary supervision of intra-group transactions of regulated entities in a financial conglomerate shall be exercised in accordance with the rules laid down in Article 9(2) to (4), in Section 3 of this Chapter, and in Annex II.
+
+2. The Member States shall require regulated entities or mixed financial holding companies to report, on a regular basis and at least annually, to the coordinator all significant intra-group transactions of regulated entities within a financial conglomerate, in accordance with the rules laid down in this Article and in Annex II. Insofar as no definition of the thresholds referred to in the last sentence of the first paragraph of Annex II has been drawn up, an intra-group transaction shall be presumed to be significant if its amount exceeds at least 5 % of the total amount of capital adequacy requirements at the level of a financial conglomerate.
+
+The necessary information shall be submitted to the coordinator by the regulated entity within the meaning of Article 1 which is at the head of the financial conglomerate or, where the financial conglomerate is not headed by a regulated entity within the meaning of Article 1, by the mixed financial holding company or by the regulated entity in the financial conglomerate identified by the coordinator after consultation with the other relevant competent authorities and with the financial conglomerate.
+
+These intra-group transactions shall be subject to supervisory overview by the coordinator.
+
+3. Pending further coordination of Union legislation, Member States may set quantitative limits and qualitative requirements, allow their competent authorities to set quantitative limits or qualitative requirements, or take other supervisory measures that would achieve the objectives of supplementary supervision, with regard to intra-group transactions of regulated entities within a financial conglomerate.
+
+4. Where a financial conglomerate is headed by a mixed financial holding company, the sectoral rules regarding intra-group transactions of the most important financial sector in the financial conglomerate shall apply to that sector as a whole, including the mixed financial holding company.
+
+5. The ESA shall, through the Joint Committee, issue common guidelines aimed at the convergence of supervisory practices with regard to the application of supplementary supervision of intra-group transactions as provided for in paragraphs 1 to 4 of this Article. In order to avoid duplication, the guidelines shall ensure that the application of the supervisory tools, as provided for in this Article, is aligned to the application of Article 245 of Directive 2009/138/EC. They shall issue specific common guidelines on the application of paragraphs 1 to 4 of this Article to participations of the financial conglomerate in cases where national company law provisions obstruct the application of Article 14(2) of this Directive.
+
+<a id="art_9"></a>
+
+### Article 9 — Internal control mechanisms and risk management processes
+
+1. The Member States shall require regulated entities to have, in place at the level of the financial conglomerate, adequate risk management processes and internal control mechanisms, including sound administrative and accounting procedures.
+
+2. The risk management processes shall include:
+
+(a) sound governance and management with the approval and periodical review of the strategies and policies by the appropriate governing bodies at the level of the financial conglomerate with respect to all the risks they assume;
+
+(b) adequate capital adequacy policies in order to anticipate the impact of their business strategy on risk profile and capital requirements as determined in accordance with Article 6 and Annex I;
+
+(c) adequate procedures to ensure that their risk monitoring systems are well integrated into their organisation and that all measures are taken to ensure that the systems implemented in all the undertakings included in the scope of supplementary supervision are consistent so that the risks can be measured, monitored and controlled at the level of the financial conglomerate;
+
+(d) arrangements in place to contribute to and develop, if required, adequate recovery and resolution arrangements and plans. Such arrangements shall be updated regularly.
+
+3. The internal control mechanisms shall include:
+
+(a) adequate mechanisms as regards capital adequacy to identify and measure all material risks incurred and to appropriately relate own funds to risks;
+
+(b) sound reporting and accounting procedures to identify, measure, monitor and control the intra-group transactions and the risk concentration.
+
+4. The Member States shall ensure that, in all undertakings included in the scope of supplementary supervision pursuant to Article 5, there are adequate internal control mechanisms for the production of any data and information which would be relevant for the purposes of the supplementary supervision.
+
+The Member States shall require the regulated entities, at the level of the financial conglomerate, to regularly provide their competent authority with details on their legal structure and governance and organisational structure including all regulated entities, non-regulated subsidiaries and significant branches.
+
+The Member States shall require the regulated entities to disclose publicly, at the level of the financial conglomerate, on an annual basis, either in full or by way of references to equivalent information, a description of their legal structure and governance and organisational structure.
+
+5. The processes and mechanisms referred to in paragraphs 1 to 4 shall be subject to supervisory overview by the coordinator.
+
+6. Competent authorities shall align the application of the supplementary supervision of internal control mechanisms and risk management processes as provided for in this Article with the supervisory review processes as provided for by Article 124 of Directive 2006/48/EC and Article 248 of Directive 2009/138/EC. To this end, the ESA shall, through the Joint Committee, issue common guidelines aimed at the convergence of supervisory practices with regard to the application of supplementary supervision of internal control mechanisms and risk management processes as provided for in this Article, as well as on the consistency with the supervisory review processes as provided for by Article 124 of Directive 2006/48/EC and Article 248 of Directive 2009/138/EC. They shall issue specific common guidelines for the application of this Article to participations of the financial conglomerate, in cases where national company law provisions obstruct the application of Article 14(2) of this Directive.
+
+## SECTION 3
+
+### MEASURES TO FACILITATE SUPPLEMENTARY SUPERVISION AND POWERS OF THE JOINT COMMITTEE
+
+<a id="art_9a"></a>
+
+### Article 9a — Role of the Joint Committee
+
+The Joint Committee shall, in accordance with Article 56 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010 respectively, ensure coherent cross-sectoral and cross-border supervision and compliance with Union legislation.
+
+<a id="art_9b"></a>
+
+### Article 9b — Stress testing
+
+1. Member States may require that the coordinator ensure appropriate and regular stress testing of financial conglomerates. They shall require the relevant competent authorities to cooperate fully with the coordinator.
+
+2. For the purpose of Union-wide stress tests the ESA may, through the Joint Committee and in cooperation with the European Systemic Risk Board, established by Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on the European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board (27), develop supplementary parameters that capture the specific risks associated with financial conglomerates, in accordance with Regulation (EU) No 1093/2010, Regulation (EU) No 1094/2010 and Regulation (EU) No 1095/2010. The coordinator shall communicate the results of the stress tests to the Joint Committee.
+
+<a id="art_10"></a>
+
+### Article 10 — Competent authority responsible for exercising supplementary supervision (the coordinator)
+
+1. In order to ensure adequate supplementary supervision of the regulated entities in a financial conglomerate, a single coordinator, responsible for coordination and exercise of supplementary supervision, shall be appointed from among the competent authorities of the Member States concerned, including those of the Member State in which the mixed financial holding company has its head office. The identity of the coordinator shall be published on the Joint Committee's website.
+
+2. The appointment shall be based on the following criteria:
+
+(a) where a financial conglomerate is headed by a regulated entity, the task of coordinator shall be exercised by the competent authority which has authorised that regulated entity pursuant to the relevant sectoral rules;
+
+(b) where a financial conglomerate is not headed by a regulated entity, the task of coordinator shall be exercised by the competent authority identified in accordance with the following principles:
+
+(i) where the parent of a regulated entity is a mixed financial holding company, the task of coordinator shall be exercised by the competent authority which has authorised that regulated entity pursuant to the relevant sectoral rules;
+
+(ii) where at least two regulated entities which have their registered office in the Union have as their parent the same mixed financial holding company, and one of those entities has been authorised in the Member State in which the mixed financial holding company has its head office, the task of coordinator shall be exercised by the competent authority of the regulated entity authorised in that Member State.
+
+Where more than one regulated entity, being active in different financial sectors, have been authorised in the Member State in which the mixed financial holding company has its head office, the task of coordinator shall be exercised by the competent authority of the regulated entity active in the most important financial sector.
+
+Where the financial conglomerate is headed by more than one mixed financial holding company with a head office in different Member States and there is a regulated entity in each of these States, the task of coordinator shall be exercised by the competent authority of the regulated entity with the largest balance sheet total if these entities are in the same financial sector, or by the competent authority of the regulated entity in the most important financial sector;
+
+(iii) where at least two regulated entities which have their registered office in the Union have as their parent the same mixed financial holding company and none of those entities has been authorised in the Member State in which the mixed financial holding company has its head office, the task of coordinator shall be exercised by the competent authority which authorised the regulated entity with the largest balance sheet total in the most important financial sector;
+
+(iv) where the financial conglomerate is a group without a parent undertaking at the top, or in any other case, the task of coordinator shall be exercised by the competent authority which authorised the regulated entity with the largest balance sheet total in the most important financial sector.
+
+3. In particular cases, the relevant competent authorities may by common agreement waive the criteria referred to in paragraph 2 if their application would be inappropriate, taking into account the structure of the conglomerate and the relative importance of its activities in different countries, and appoint a different competent authority as coordinator. In these cases, before taking their decision, the competent authorities shall give the conglomerate an opportunity to state its opinion on that decision.
+
+<a id="art_11"></a>
+
+### Article 11 — Tasks of the coordinator
+
+1. The tasks to be carried out by the coordinator with regard to supplementary supervision shall include:
+
+(a) coordination of the gathering and dissemination of relevant or essential information in going concern and emergency situations, including the dissemination of information which is of importance for a competent authority's supervisory task under sectoral rules;
+
+(b) supervisory overview and assessment of the financial situation of a financial conglomerate;
+
+(c) assessment of compliance with the rules on capital adequacy and of risk concentration and intra-group transactions as set out in Articles 6, 7 and 8;
+
+(d) assessment of the financial conglomerate's structure, organisation and internal control system as set out in Article 9;
+
+(e) planning and coordination of supervisory activities in going concern as well as in emergency situations, in cooperation with the relevant competent authorities involved;
+
+(f) other tasks, measures and decisions assigned to the coordinator by this Directive or deriving from the application of this Directive.
+
+In order to facilitate and establish supplementary supervision on a broad legal basis, the coordinator, and the other relevant competent authorities, and, where necessary, the other competent authorities concerned, shall have coordination arrangements in place. The coordination arrangements may entrust additional tasks to the coordinator and may specify the procedures for the decision-making process among the relevant competent authorities as referred to in Articles 3 and 4, Article 5(4), Article 6, Article 12(2) and Articles 16 and 18, and for cooperation with other competent authorities.
+
+In accordance with Article 8 and the procedure set out in Article 56 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010 respectively, the ESA, through the Joint Committee, shall develop guidelines aimed at the convergence of supervisory practices with regard to the consistency of supervisory coordination arrangements in accordance with Article 131a of Directive 2006/48/EC and Article 248(4) of Directive 2009/138/EC.
+
+2. The coordinator should, when it needs information which has already been given to another competent authority in accordance with the sectoral rules, contact this authority whenever possible in order to prevent duplication of reporting to the various authorities involved in supervision.
+
+3. Without prejudice to the possibility of delegating specific supervisory competences and responsibilities as provided for by Union legislative acts, the presence of a coordinator entrusted with specific tasks concerning the supplementary supervision of regulated entities in a financial conglomerate shall not affect the tasks and responsibilities of the competent authorities as provided for by the sectoral rules.
+
+4. The required cooperation under this Section and the exercise of the tasks listed in paragraphs 1, 2 and 3 of this Article and in Article 12 and, subject to confidentiality requirements and Union law, the appropriate coordination and cooperation with relevant third-country supervisory authorities where appropriate, shall be fulfilled through colleges, established pursuant to Article 131a of Directive 2006/48/EC or Article 248(2) of Directive 2009/138/EC.
+
+The coordination arrangements referred to in the second subparagraph of paragraph 1 shall be separately reflected in the written coordination arrangements in place pursuant to Article 131 of Directive 2006/48/EC or Article 248 of Directive 2009/138/EC. The coordinator, as Chair of a college established pursuant to Article 131a of Directive 2006/48/EC or Article 248(2) of Directive 2009/138/EC, shall decide which other competent authorities participate in a meeting or in any activity of that college.
+
+<a id="art_12"></a>
+
+### Article 12 — Cooperation and exchange of information between competent authorities
+
+1. The competent authorities responsible for the supervision of regulated entities in a financial conglomerate and the competent authority appointed as the coordinator for that financial conglomerate shall cooperate closely with each other. Without prejudice to their respective responsibilities as defined under sectoral rules, these authorities, whether or not established in the same Member State, shall provide one another with any information which is essential or relevant for the exercise of the other authorities' supervisory tasks under the sectoral rules and this Directive. In this regard, the competent authorities and the coordinator shall communicate on request all relevant information and shall communicate on their own initiative all essential information.
+
+This cooperation shall at least provide for the gathering and the exchange of information with regard to the following items:
+
+(a) identification of the group’s legal structure and the governance and organisational structure, including all regulated entities, non-regulated subsidiaries and significant branches belonging to the financial conglomerate, the holders of qualifying holdings at the ultimate parent level, as well as of the competent authorities of the regulated entities in the group;
+
+(b) the financial conglomerate's strategic policies;
+
+(c) the financial situation of the financial conglomerate, in particular on capital adequacy, intra-group transactions, risk concentration and profitability;
+
+(d) the financial conglomerate's major shareholders and management;
+
+(e) the organisation, risk management and internal control systems at financial conglomerate level;
+
+(f) procedures for the collection of information from the entities in a financial conglomerate, and the verification of that information;
+
+(g) adverse developments in regulated entities or in other entities of the financial conglomerate which could seriously affect the regulated entities;
+
+(h) major sanctions and exceptional measures taken by competent authorities in accordance with sectoral rules or this Directive.
+
+The competent authorities may also exchange with the following authorities such information as may be needed for the performance of their respective tasks, regarding regulated entities in a financial conglomerate, in line with the provisions laid down in the sectoral rules: central banks, the European System of Central Banks, the European Central Bank and the European Systemic Risk Board in accordance with Article 15 of Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board (28).
+
+2. Without prejudice to their respective responsibilities as defined under sectoral rules, the competent authorities concerned shall, prior to their decision, consult each other with regard to the following items, where these decisions are of importance for other competent authorities' supervisory tasks:
+
+(a) changes in the shareholder, organisational or management structure of regulated entities in a financial conglomerate, which require the approval or authorisation of competent authorities;
+
+(b) major sanctions or exceptional measures taken by competent authorities.
+
+A competent authority may decide not to consult in cases of urgency or where such consultation may jeopardise the effectiveness of the decisions. In this case, the competent authority shall, without delay, inform the other competent authorities.
+
+3. The coordinator may invite the competent authorities of the Member State in which a parent undertaking has its head office, and which do not themselves exercise the supplementary supervision pursuant to Article 10, to ask the parent undertaking for any information which would be relevant for the exercise of its coordination tasks as laid down in Article 11, and to transmit that information to the coordinator.
+
+Where the information referred to in Article 14(2) has already been given to a competent authority in accordance with sectoral rules, the competent authorities responsible for exercising supplementary supervision may apply to the first-mentioned authority to obtain the information.
+
+4. Member States shall authorise the exchange of the information between their competent authorities and between their competent authorities and other authorities, as referred to in paragraphs 1, 2 and 3. The collection or possession of information with regard to an entity within a financial conglomerate which is not a regulated entity shall not in any way imply that the competent authorities are required to play a supervisory role in relation to these entities on a stand-alone basis.
+
+Information received in the framework of supplementary supervision, and in particular any exchange of information between competent authorities and between competent authorities and other authorities which is provided for in this Directive, shall be subject to the provisions on professional secrecy and communication of confidential information laid down in the sectoral rules.
+
+<a id="art_12a"></a>
+
+### Article 12a — Cooperation and exchange of information with the Joint Committee
+
+1. The competent authorities shall cooperate with the Joint Committee for the purposes of this Directive, in accordance with Regulation (EU) No 1093/2010, Regulation (EU) No 1094/2010, and Regulation (EU) No 1095/2010.
+
+2. The competent authorities shall without delay provide the Joint Committee with all information necessary to carry out its duties in accordance with Article 35 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010, and of Regulation (EU) No 1095/2010 respectively.
+
+3. The coordinators shall provide the Joint Committee with the information referred to in Article 9(4) and point (a) of the second subparagraph of Article 12(1). The Joint Committee shall make available to the competent authorities information regarding the legal structure and the governance and organisational structure of financial conglomerates.
+
+<a id="art_12b"></a>
+
+### Article 12b — Common guidelines
+
+1. The ESA shall, through the Joint Committee, develop common guidelines on how risk-based assessments of financial conglomerates are to be conducted by the competent authority. Those guidelines shall, in particular, ensure that risk- based assessments include appropriate tools in order to assess group risks posed to the financial conglomerates.
+
+2. The ESA shall, through the Joint Committee, issue common guidelines aimed at developing supervisory practices allowing for supplementary supervision of mixed financial holding companies to appropriately complement the group supervision under Directives 98/78/EC and 2009/138/EC or, as appropriate, consolidated supervision under Directive 2006/48/EC. Those guidelines shall allow all relevant risks to be incorporated in the supervision, while eliminating potential supervisory and prudential overlaps.
+
+<a id="art_13"></a>
+
+### Article 13 — Management body of mixed financial holding companies
+
+Member States shall require that persons who effectively direct the business of a mixed financial holding company are of sufficiently good repute and have sufficient experience to perform those duties.
+
+<a id="art_14"></a>
+
+### Article 14 — Access to information
+
+1. Member States shall ensure that there are no legal impediments within their jurisdiction preventing the natural and legal persons included within the scope of supplementary supervision, whether or not a regulated entity, from exchanging with each other any information which would be relevant for the purposes of supplementary supervision and from exchanging information in accordance with this Directive and with the ESA in accordance with Article 35 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010 respectively, where necessary through the Joint Committee.
+
+2. Member States shall provide that, when approaching the entities in a financial conglomerate, whether or not a regulated entity, either directly or indirectly, their competent authorities responsible for exercising supplementary supervision shall have access to any information which would be relevant for the purposes of supplementary supervision.
+
+<a id="art_15"></a>
+
+### Article 15 — Verification
+
+Where, in applying this Directive, competent authorities wish in specific cases to verify the information concerning an entity, whether or not regulated, which is part of a financial conglomerate and is situated in another Member State, they shall ask the competent authorities of that other Member State to have the verification carried out.
+
+The authorities which receive such a request shall, within the framework of their competences, act upon it either by carrying out the verification themselves, by allowing an auditor or expert to carry it out, or by allowing the authority which made the request to carry it out itself.
+
+The competent authority which made the request may, if it so wishes, participate in the verification when it does not carry out the verification itself.
+
+<a id="art_16"></a>
+
+### Article 16 — Enforcement measures
+
+If the regulated entities in a financial conglomerate do not comply with the requirements referred to in Articles 6 to 9 or where the requirements are met but solvency may nevertheless be jeopardised or where the intra-group transactions or the risk concentrations are a threat to the regulated entities' financial position, the necessary measures shall be required in order to rectify the situation as soon as possible:
+
+— by the coordinator with respect to the mixed financial holding company,
+
+— by the competent authorities with respect to the regulated entities; to that end, the coordinator shall inform those competent authorities of its findings.
+
+Without prejudice to Article 17(2), Member States may determine what measures may be taken by the competent authorities with respect to mixed financial holding companies. In accordance with Articles 16 and 56 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010 respectively, the ESA, through the Joint Committee, may develop guidelines for measures in relation to mixed financial holding companies.
+
+The competent authorities involved, including the coordinator, shall where appropriate coordinate their supervisory actions.
+
+<a id="art_17"></a>
+
+### Article 17 — Additional powers of the competent authorities
+
+1. Pending further harmonisation between sectoral rules, the Member States shall provide that their competent authorities shall have the power to take any supervisory measure deemed necessary in order to avoid or to deal with the circumvention of sectoral rules by regulated entities in a financial conglomerate.
+
+2. Without prejudice to their criminal law provisions, Member States shall ensure that penalties or measures aimed at ending observed breaches or the causes of such breaches may be imposed on mixed financial holding companies, or their effective managers, which infringe laws, regulations or administrative provisions enacted to implement this Directive. In certain cases, such measures may require the intervention of the courts. The competent authorities shall cooperate closely to ensure that such penalties or measures produce the desired results.
+
+## SECTION 4
+
+### THIRD COUNTRIES
+
+<a id="art_18"></a>
+
+### Article 18 — Parent undertakings in a third country
+
+1. Without prejudice to the sectoral rules, where Article 5(3) applies, the competent authorities shall verify whether the regulated entities, the parent undertaking of which has its head office in a third country are subject to supervision by that third country's competent authority, which is equivalent to that provided for by this Directive on the supplementary supervision of regulated entities referred to in Article 5(2). The verification shall be carried out by the competent authority which would be the coordinator if the criteria set out in Article 10(2) were to apply, on the request of the parent undertaking or of any of the regulated entities authorised in the Union or on its own initiative.
+
+That competent authority shall consult the other relevant competent authorities, and shall make every effort to comply with any applicable guidelines prepared through the Joint Committee in accordance with Articles 16 and 56 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010 respectively.
+
+1a. Where a competent authority disagrees with the decision taken by another relevant competent authority under paragraph 1, Article 19 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010 respectively shall apply.
+
+2. In the absence of equivalent supervision referred to in paragraph 1, Member States shall apply to the regulated entities, by analogy, the provisions concerning the supplementary supervision of regulated entities referred to in Article 5(2). As an alternative, competent authorities may apply one of the methods set out in paragraph 3.
+
+3. Competent authorities may apply other methods which ensure appropriate supplementary supervision of the regulated entities in a financial conglomerate. Those methods shall be agreed by the coordinator, after consulting the other relevant competent authorities. The competent authorities may in particular require the establishment of a mixed financial holding company which has its head office in the Union, and apply this Directive to the regulated entities in the financial conglomerate headed by that holding company. The competent authorities shall ensure that those methods achieve the objective of supplementary supervision under this Directive and shall notify the other competent authorities involved and the Commission thereof.
+
+<a id="art_19"></a>
+
+### Article 19 — Cooperation with third-country competent authorities
+
+Article 39(1) and (2) of Directive 2006/48/EC, Article 10a of Directive 98/78/EC and Article 264 of Directive 2009/138/EC shall apply *mutatis mutandis* to the negotiation of agreements with one or more third countries regarding the means of exercising supplementary supervision of regulated entities in a financial conglomerate.
+
+## CHAPTER III
+
+### **DELEGATED ACTS AND IMPLEMENTING MEASURES**
+
+<a id="art_20"></a>
+
+### Article 20 — Powers conferred on the Commission
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 21c concerning the technical adaptations to be made to this Directive in the following areas:
+
+(a) a more precise formulation of the definitions laid down in Article 2 in order to take account of developments in financial markets for the application of this Directive;
+
+(b) the alignment of terminology and the framing of definitions in this Directive in accordance with subsequent Union acts on regulated entities and related matters;
+
+(c) a more precise definition of the calculation methods set out in Annex I in order to take account of developments on financial markets and prudential techniques.
+
+Those measures shall not include the subject matter of the power delegated to and conferred on the Commission with regard to the items listed in Article 21a.
+
+<a id="art_21"></a>
+
+### Article 21 — Committee
+
+1. The Commission shall be assisted by a Financial Conglomerates Committee, hereinafter referred to as the ‘Committee’.
+
+4. The ESA, through the Joint Committee, may provide general guidelines as to whether the supplementary supervision arrangements of competent authorities in third countries are likely to achieve the objectives of the supplementary supervision as defined in this Directive, in relation to the regulated entities in a financial conglomerate, the head of which has its head office in a third country. The Joint Committee shall keep any such guidelines under review and take into account any changes to the supplementary supervision carried out by such competent authorities.
+
+6. The Committee shall be kept informed by Member States of the principles they apply concerning the supervision of intra-group transactions and risk concentration.
+
+<a id="art_21a"></a>
+
+### Article 21a — Technical standards
+
+1. In order to ensure consistent harmonisation of this Directive, the ESA, in accordance with Article 56 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010, and of Regulation (EU) No 1095/2010 respectively may develop draft regulatory technical standards with regard to:
+
+(a) Article 2(11) in order to specify the application of Article 17 of Council Directive 78/660/EEC in the context of this Directive;
+
+(b) Article 2(17) in order to establish procedures or specify criteria for the determination of ‘relevant competent authorities’;
+
+(c) Article 3(5) in order to specify the alternative parameters for the identification of a financial conglomerate;
+
+(d) Article 6(2) in order to ensure a uniform format (with instructions) for, and determine the frequency of and, where appropriate, the dates for reporting.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010, and of Regulation (EU) No 1095/2010 respectively.
+
+1a. In order to ensure consistent application of Articles 2, 7 and 8 and Annex II, the ESA shall, through the Joint Committee, develop draft regulatory technical standards to establish a more precise formulation of the definitions set out in Article 2 and to coordinate the provisions adopted pursuant to Articles 7 and 8 and Annex II.
+
+The Joint Committee shall submit those draft regulatory technical standards to the Commission by 1 January 2015.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010 respectively.
+
+2. In order to ensure uniform conditions of application of this Directive, the ESA, in accordance with Articles 56 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010, and of Regulation (EU) No 1095/2010 respectively may develop draft implementing technical standards with regard to:
+
+(a) Article 6(2) in order to ensure uniform conditions of application of the calculation methods listed in Annex I part II, but without prejudice to Article 6(4);
+
+(b) Article 7(2) in order to ensure uniform conditions of application of the procedures for including the items within the scope of the definition of ‘risk concentrations’ in the supervisory overview referred to in the second subparagraph of Article 7(2);
+
+(c) Article 8(2) in order to ensure uniform conditions of application of the procedures for including the items within the scope of the definition of ‘intra group transactions’ in the supervisory overview referred to in the third subparagraph of Article 8(2).
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010, and of Regulation (EU) No 1095/2010 respectively.
+
+3. Within two years of the adoption of any implementing technical standards in accordance with paragraph 2(a), Member States shall require a uniform format for and shall determine the frequency of, and the dates for, reporting of the calculations referred to in this Article.
+
+<a id="art_21b"></a>
+
+### Article 21b — Common Guidelines
+
+The ESA shall, through the Joint Committee, issue the common guidelines referred to in Article 3(8), Article 7(5), Article 8(5), Article 9(6), the third subparagraph of Article 11(1), Article 12b and Article 21(4) in accordance with the procedure laid down in Article 56 of Regulation (EU) No 1093/2010, of Regulation (EU) No 1094/2010 and of Regulation (EU) No 1095/2010 respectively.
+
+<a id="art_21c"></a>
+
+### Article 21c — Exercise of the delegation
+
+1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2. The delegation of power referred to in Article 20 shall be conferred on the Commission for a period of four years from 9 December 2011. The Commission shall draw up a report in respect of the delegated power at the latest six months before the end of the four-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3. The delegation of power referred to in Article 20 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect on the day following the publication of the decision in the *Official Journal of the European Union* or on a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5. A delegated act adopted pursuant to Article 20 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of three months of the notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or the Council.
+
+## CHAPTER IV
+
+### AMENDMENTS TO EXISTING DIRECTIVES
+
+<a id="art_22"></a>
+
+### Article 22 — Amendments to Directive 73/239/EEC
+
+Directive 73/239/EEC is amended as follows:
+
+1. the following Article shall be inserted:
+
+‘Article 12a
+
+1. The competent authorities of the other Member State involved shall be consulted prior to the granting of an authorisation to an insurance undertaking, which is:
+
+(a) a subsidiary of an insurance undertaking authorised in another Member State; or
+
+(b) a subsidiary of the parent undertaking of an insurance undertaking authorised in another Member State; or
+
+(c) controlled by the same person, whether natural or legal, who controls an insurance undertaking authorised in another Member State.
+
+2. The competent authority of a Member State involved responsible for the supervision of credit institutions or investment firms shall be consulted prior to the granting of an authorisation to an insurance undertaking which is:
+
+(a) a subsidiary of a credit institution or investment firm authorised in the Community; or
+
+(b) a subsidiary of the parent undertaking of a credit institution or investment firm authorised in the Community; or
+
+(c) controlled by the same person, whether natural or legal, who controls a credit institution or investment firm authorised in the Community.
+
+3. The relevant competent authorities referred to in paragraphs 1 and 2 shall in particular consult each other when assessing the suitability of the shareholders and the reputation and experience of directors involved in the management of another entity of the same group. They shall inform each other of any information regarding the suitability of shareholders and the reputation and experience of directors which is of relevance to the other competent authorities involved for the granting of an authorisation as well as for the ongoing assessment of compliance with operating conditions.’
+
+2. the following subparagraphs shall be added to Article 16(2):
+
+‘The available solvency margin shall also be reduced by the following items:
+
+(a) participations which the insurance undertaking holds in
+
+— insurance undertakings within the meaning of Article 6 of this Directive, Article 6 of First Directive 79/267/EEC of 5 March 1979 on the coordination of laws, regulations and administrative provisions relating to the taking up and pursuit of the business of direct life assurance (29), or Article 1(b) of Directive 98/78/EC of the European Parliament and of the Council (30),
+
+— reinsurance undertakings within the meaning of Article 1(c) of Directive 98/78/EC,
+
+— insurance holding companies within the meaning of Article 1(i) of Directive 98/78/EC,
+
+— credit institutions and financial institutions within the meaning of Article 1(1) and (5) of Directive 2000/12/EC of the European Parliament and of the Council (31),
+
+— investment firms and financial institutions within the meaning of Article 1(2) of Directive 93/22/EEC (32) and of Article 2(4) and (7) of Directive 93/6/EEC (33);
+
+(b) each of the following items which the insurance undertaking holds in respect of the entities defined in (a) in which it holds a participation:
+
+— instruments referred to in paragraph 3,
+
+— instruments referred to in Article 18(3) of Directive 79/267/EEC,
+
+— subordinated claims and instruments referred to in Article 35 and Article 36(3) of Directive 2000/12/EC.
+
+Where shares in another credit institution, investment firm, financial institution, insurance or reinsurance undertaking or insurance holding company are held temporarily for the purposes of a financial assistance operation designed to reorganise and save that entity, the competent authority may waive the provisions on deduction referred to under (a) and (b) of the fourth subparagraph.
+
+As an alternative to the deduction of the items referred to in (a) and (b) of the fourth subparagraph which the insurance undertaking holds in credit institutions, investment firms and financial institutions, Member States may allow their insurance undertakings to apply *mutatis mutandis* methods 1, 2, or 3 of Annex I to Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate (34). Method 1 (Accounting consolidation) shall only be applied if the competent authority is confident about the level of integrated management and internal control regarding the entities which would be included in the scope of consolidation. The method chosen shall be applied in a consistent manner overtime.
+
+Member States may provide that, for the calculation of the solvency margin as provided for by this Directive, insurance undertakings subject to supplementary supervision in accordance with Directive 98/78/EC or to supplementary supervision in accordance with Directive 2002/87/EC, need not deduct the items referred to in (a) and (b) of the fourth subparagraph which are held in credit institutions, investment firms, financial institutions, insurance or reinsurance undertakings or insurance holding companies which are included in the supplementary supervision.
+
+For the purposes of the deduction of participations referred to in this paragraph, participation shall mean a participation within the meaning of Article 1(f) of Directive 98/78/EC.
+
+<a id="art_23"></a>
+
+### Article 23 — Amendments to Directive 79/267/EEC
+
+Directive 79/267/EC is amended as follows:
+
+1. the following Article shall be inserted:
+
+‘Article 12a
+
+1. The competent authorities of the other Member State involved shall be consulted prior to the granting of an authorisation to a life assurance undertaking, which is:
+
+(a) a subsidiary of an insurance undertaking authorised in another Member State; or
+
+(b) a subsidiary of the parent undertaking of an insurance undertaking authorised in another Member State; or
+
+(c) controlled by the same person, whether natural or legal, who controls an insurance undertaking authorised in another Member State.
+
+2. The competent authority of a Member State involved, responsible for the supervision of credit institutions or investment firms, shall be consulted prior to the granting of an authorisation to a life assurance undertaking, which is:
+
+(a) a subsidiary of a credit institution or investment firm authorised in the Community; or
+
+(b) a subsidiary of the parent undertaking of a credit institution or investment firm authorised in the Community; or
+
+(c) controlled by the same person, whether natural or legal, who controls a credit institution or investment firm authorised in the Community.
+
+3. The relevant competent authorities referred to in paragraphs 1 and 2 shall in particular consult each other when assessing the suitability of the shareholders and the reputation and experience of directors involved in the management of another entity of the same group. They shall inform each other of any information regarding the suitability of shareholders and the reputation and experience of directors which is of relevance to the other competent authorities involved for the granting of an authorisation as well as for the ongoing assessment of compliance with operating conditions.’
+
+2. the following subparagraphs shall be added to Article 18(2):
+
+‘The available solvency margin shall also be reduced by the following items:
+
+(a) participations which the assurance undertaking holds, in
+
+— insurance undertakings within the meaning of Article 6 of this Directive, Article 6 of Directive 73/239/EEC (35), or Article 1(b) of Directive 98/78/EC of the European Parliament and of the Council (36),
+
+— reinsurance undertakings within the meaning of Article 1(c) of Directive 98/78/EC,
+
+— insurance holding companies within the meaning of Article 1(i) of Directive 98/78/EC,
+
+— credit institutions and financial institutions within the meaning of Article 1(1) and (5) of Directive 2000/12/EC of the European Parliament and of the Council (37),
+
+— investment firms and financial institutions within the meaning of Article 1(2) of Directive 93/22/EEC (38) and of Articles 2(4) and 2(7) of Directive 93/6/EEC (39);
+
+(b) each of the following items which the assurance undertaking holds in respect of the entities defined in (a) in which it holds a participation:
+
+— instruments referred to in paragraph 3,
+
+— instruments referred to in Article 16(3) of Directive 73/239/EEC,
+
+— subordinated claims and instruments referred to in Article 35 and Article 36(3) of Directive 2000/12/EC.
+
+Where shares in another credit institution, investment firm, financial institution, insurance or reinsurance undertaking or insurance holding company are held temporarily for the purposes of a financial assistance operation designed to reorganise and save that entity, the competent authority may waive the provisions on deduction referred to under (a) and (b) of the third subparagraph.
+
+As an alternative to the deduction of the items referred to in (a) and (b) of the third subparagraph which the insurance undertaking holds in credit institutions, investment firms and financial institutions, Member States may allow their insurance undertakings to apply mutatis mutandis methods 1, 2, or 3 of Annex I to Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate (40). Method 1 (Accounting consolidation) shall only be applied if the competent authority is confident about the level of integrated management and internal control regarding the entities which would be included in the scope of consolidation. The method chosen shall be applied in a consistent manner over time.
+
+Member States may provide that, for the calculation of the solvency margin as provided for by this Directive, insurance undertakings subject to supplementary supervision in accordance with Directive 98/78/EC or to supplementary supervision in accordance with Directive 2002/87/EC, need not deduct the items referred to in (a) and (b) of the third subparagraph which are held in credit institutions, investment firms, financial institutions, insurance or reinsurance undertakings or insurance holding companies which are included in the supplementary supervision.
+
+For the purposes of the deduction of participations referred to in this paragraph, participation shall mean a participation within the meaning of Article 1(f) of Directive 98/78/EC.
+
+<a id="art_24"></a>
+
+### Article 24 — Amendments to Directive 92/49/EEC
+
+Directive 92/49/EEC is amended as follows:
+
+1. the following paragraph shall be inserted in Article 15:
+
+‘1a. If the acquirer of the holdings referred to in paragraph 1 is an insurance undertaking, a credit institution or an investment firm authorised in another Member State, or the parent undertaking of such an entity, or a natural or legal person controlling such an entity, and if, as a result of that acquisition, the undertaking in which the acquirer proposes to hold a holding would become a subsidiary or subject to the control of the acquirer, the assessment of the acquisition must be subject to the prior consultation referred to in Article 12a of Directive 73/239/EEC.’
+
+2. Article 16(5c) shall be replaced by the following:
+
+‘5c. This Article shall not prevent a competent authority from transmitting
+
+— to central banks and other bodies with a similar function in their capacity as monetary authorities,
+
+— where appropriate, to other public authorities responsible for overseeing payment systems,
+
+information intended for the performance of their task, nor shall it prevent such authorities or bodies from communicating to the competent authorities such information as they may need for the purposes of paragraph 4. Information received in this context shall be subject to the conditions of professional secrecy imposed in this Article.’
+
+<a id="art_25"></a>
+
+### Article 25 — Amendments to Directive 92/96/EEC
+
+Directive 92/96/EEC is amended as follows:
+
+1. the following paragraph shall be inserted in Article 14:
+
+‘1a. If the acquirer of the holdings referred to in paragraph 1 is an insurance undertaking, a credit institution or an investment firm authorised in another Member State, or the parent undertaking of such an entity, or a natural or legal person controlling such an entity, and if, as a result of that acquisition, the undertaking in which the acquirer proposes to hold a holding would become a subsidiary or subject to the control of the acquirer, the assessment of the acquisition must be subject to the prior consultation referred to in Article 12a of Directive 79/267/EEC.’
+
+2. Article 15(5c) shall be replaced by the following:
+
+‘5c. This Article shall not prevent a competent authority from transmitting
+
+— to central banks and other bodies with a similar function in their capacity as monetary authorities,
+
+— where appropriate, to other public authorities responsible for overseeing payment systems,
+
+information intended for the performance of their task, nor shall it prevent such authorities or bodies from communicating to the competent authorities such information as they may need for the purposes of paragraph 4. Information received in this context shall be subject to the conditions of professional secrecy imposed in this Article.’
+
+<a id="art_26"></a>
+
+### Article 26 — Amendments to Directive 93/6/EEC
+
+In Article 7(3) of Directive 93/6/EEC the first and the second indents shall be replaced by the following:
+
+‘— “financial holding company” shall mean a financial institution, the subsidiary undertakings of which are either exclusively or mainly investment firms or other financial institutions, at least one of which is an investment firm, and which is not a mixed financial holding company within the meaning of Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate (41),
+
+— “mixed-activity holding company” shall mean a parent undertaking, other than a financial holding company or an investment firm or a mixed financial holding company within the meaning of Directive 2002/87/EC, the subsidiaries of which include at least one investment firm.
+
+<a id="art_27"></a>
+
+### Article 27 — Amendments to Directive 93/22/EEC
+
+Directive 93/22/EEC is amended as follows:
+
+1. in Article 6 the following paragraphs shall be added:
+
+‘The competent authority of a Member State involved, responsible for the supervision of credit institutions or insurance undertakings, shall be consulted prior to the granting of an authorisation to an investment firm which is:
+
+(a) a subsidiary of a credit institution or insurance undertaking authorised in the Community; or
+
+(b) a subsidiary of the parent undertaking of a credit institution or insurance undertaking authorised in the Community; or
+
+(c) controlled by the same person, whether natural or legal, who controls a credit institution or insurance undertaking authorised in the Community.
+
+The relevant competent authorities referred to in the first and second paragraphs shall in particular consult each other when assessing the suitability of the shareholders and the reputation and experience of directors involved in the management of another entity of the same group. They shall inform each other of any information regarding the suitability of shareholders and the reputation and experience of directors which is of relevance to the other competent authorities involved for the granting of an authorisation as well as for the ongoing assessment of compliance with operating conditions.’
+
+2. Article 9(2) shall be replaced by the following:
+
+‘2. If the acquirer of the holding referred to in paragraph 1 is an investment firm, a credit institution or an insurance undertaking authorised in another Member State, or the parent undertaking of an investment firm, credit institution or insurance undertaking authorised in another Member State, or a natural or legal person controlling an investment firm, credit institution or insurance undertaking authorised in another Member State, and if, as a result of that acquisition, the undertaking in which the acquirer proposes to acquire a holding would become the acquirer's subsidiary or come under his control, the assessment of the acquisition must be subject to the prior consultation provided for in Article 6.’
+
+<a id="art_28"></a>
+
+### Article 28 — Amendments to Directive 98/78/EC
+
+Directive 98/78/EC is amended as follows:
+
+1. in Article 1 points (g), (h), (i) and (j) shall be replaced by the following:
+
+‘(g) “participating undertaking” shall mean an undertaking which is either a parent undertaking or other undertaking which holds a participation, or an undertaking linked with another undertaking by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC;
+
+(h) “related undertaking” shall mean either a subsidiary or other undertaking in which a participation is held, or an undertaking linked with another undertaking by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC;
+
+(i) “insurance holding company” shall mean a parent undertaking, the main business of which is to acquire and hold participations in subsidiary undertakings, where those subsidiary undertakings are exclusively or mainly insurance undertakings, reinsurance undertakings, or non-member-country insurance undertakings, at least one of such subsidiary undertakings being an insurance undertaking, and which is not a mixed financial holding company within the meaning of Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate (42);
+
+(j) “mixed-activity insurance holding company” shall mean a parent undertaking, other than an insurance undertaking, a non-member country insurance undertaking, a reinsurance undertaking, an insurance holding company or a mixed financial holding company within the meaning of Directive 2002/87/EC, which includes at least one insurance undertaking among its subsidiary undertakings.
+
+2. in Article 6(3) the following sentence shall be added:
+
+‘The competent authority which made the request may, if it so wishes, participate in the verification when it does not carry out the verification itself.’
+
+3. in Article 8(2) the first subparagraph shall be replaced by the following:
+
+‘Member States shall require insurance undertakings to have in place adequate risk management processes and internal control mechanisms, including sound reporting and accounting procedures, in order to identify, measure, monitor and control transactions as provided for in paragraph 1 appropriately. Member States shall also require at least annual reporting by insurance undertakings to the competent authorities of significant transactions. These processes and mechanisms shall be subject to overview by the competent authorities.’
+
+4. the following Articles shall be inserted:
+
+‘Article 10a
+
+Cooperation with third countries' competent authorities
+
+1. The Commission may submit proposals to the Council, either at the request of a Member State or on its own initiative, for the negotiation of agreements with one or more third countries regarding the means of exercising supplementary supervision over:
+
+(a) insurance undertakings which have, as participating undertakings, undertakings within the meaning of Article 2 which have their head office situated in a third country; and
+
+(b) non-member country insurance undertakings which have, as participating undertakings, undertakings within the meaning of Article 2 which have their head office in the Community.
+
+2. The agreements referred to in paragraph 1 shall in particular seek to ensure both:
+
+(a) that the competent authorities of the Member States are able to obtain the information necessary for the supplementary supervision of insurance undertakings which have their head office in the Community and which have subsidiaries or hold participations in undertakings outside the Community; and
+
+(b) that the competent authorities of third countries are able to obtain the information necessary for the supplementary supervision of insurance undertakings which have their head office in their territories and which have subsidiaries or hold participations in undertakings in one or more Member States.
+
+3. The Commission and the Insurance Committee shall examine the outcome of the negotiations referred to in paragraph 1 and the resulting situation.
+
+Article 10b
+
+Management body of insurance holding companies
+
+The Member States shall require that persons who effectively direct the business of an insurance holding company are of sufficiently good repute and have sufficient experience to perform these duties.’
+
+5. in Annex I.1.B. the following paragraph shall be added:
+
+‘Where there are no capital ties between some of the undertakings in an insurance group, the competent authority shall determine which proportional share will have to be taken account of.’
+
+6. in Annex I.2. the following point shall be added:
+
+‘2.4a. **Related credit institutions, investment firms and financial institutions**
+
+When calculating the adjusted solvency of an insurance undertaking which is a participating undertaking in a credit institution, investment firm or financial institution, the rules laid down in Article 16(1) of Directive 73/239/EEC and in Article 18 of Directive 79/267/EEC on the deduction of such participations shall apply *mutatis mutandis*, as well as the provisions on the ability of Member States under certain conditions to allow alternative methods and to allow such participations not to be deducted.’
+
+<a id="art_29"></a>
+
+### Article 29 — Amendments to Directive 2000/12/EC
+
+Directive 2000/12/EC is amended as follows:
+
+1. Article 1 shall be amended as follows:
+
+(a) Point (9) shall be replaced by the following:
+
+‘9. “participation for the purposes of supervision on a consolidated basis and for the purposes of points 15 and 16 of Article 34(2)” shall mean participation within the meaning of the first sentence of Article 17 of Directive 78/660/EEC, or the ownership, direct or indirect, of 20 % or more of the voting rights or capital of an undertaking;’
+
+(b) Points (21) and (22) shall be replaced by the following:
+
+‘21. “financial holding company” shall mean a financial institution, the subsidiary undertakings of which are either exclusively or mainly credit institutions or financial institutions, at least one of such subsidiaries being a credit institution, and which is not a mixed financial holding company within the meaning of Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate (43);
+
+22. “mixed-activity holding company” shall mean a parent undertaking, other than a financial holding company or a credit institution or a mixed financial holding company within the meaning of Directive 2002/87/EC, the subsidiaries of which include at least one credit institution;
+
+2. in Article 12 the following paragraphs shall be added:
+
+‘The competent authority of a Member State involved, responsible for the supervision of insurance undertakings or investment firms, shall be consulted prior to the granting of an authorisation to a credit institution which is:
+
+(a) a subsidiary of an insurance undertaking or investment firm authorised in the Community; or
+
+(b) a subsidiary of the parent undertaking of an insurance undertaking or investment firm authorised in the Community; or
+
+(c) controlled by the same person, whether natural or legal, who controls an insurance undertaking or investment firm authorised in the Community.
+
+The relevant competent authorities referred to in the first and second paragraphs shall in particular consult each other when assessing the suitability of the shareholders and the reputation and experience of directors involved in the management of another entity of the same group. They shall inform each other of any information regarding the suitability of shareholders and the reputation and experience of directors which is of relevance to the other competent authorities involved for the granting of an authorisation as well as for the ongoing assessment of compliance with operating conditions.’
+
+3. Article 16(2) shall be replaced by the following:
+
+‘2. If the acquirer of the holdings referred to in paragraph 1 is a credit institution, insurance undertaking or investment firm authorised in another Member State or the parent undertaking of a credit institution, insurance undertaking or investment firm authorised in another Member State or a natural or legal person controlling a credit institution, insurance undertaking or investment firm authorised in another Member State, and if, as a result of that acquisition, the institution in which the acquirer proposes to hold a holding would become a subsidiary or subject to the control of the acquirer, the assessment of the acquisition must be subject to the prior consultation referred to in Article 12.’
+
+4. Article 34(2) shall be amended as follows:
+
+(a) in the first subparagraph points 12 and 13 shall be replaced by the following:
+
+‘12. holdings in other credit and financial institutions amounting to more than 10 % of their capital;
+
+13. subordinated claims and instruments referred to in Article 35 and Article 36(3) which a credit institution holds in respect of credit and financial institutions in which it has holdings exceeding 10 % of the capital in each case;
+
+14. holdings in other credit and financial institutions of up to 10 % of their capital, the subordinated claims and the instruments referred to in Article 35 and Article 36(3) which a credit institution holds in respect of credit and financial institutions other than those referred to in points 12 and 13 of this subparagraph in respect of the amount of the total of such holdings, subordinated claims and instruments which exceed 10 % of that credit institution's own funds calculated before the deduction of items in points 12 to 16 of this subparagraph;
+
+15. participations within the meaning of Article 1(9) which a credit institution holds in
+
+— insurance undertakings within the meaning of Article 6 of Directive 73/239/EEC, Article 6 of Directive 79/267/EEC or Article 1(b) of Directive 98/78/EC of the European Parliament and of the Council (44),
+
+— reinsurance undertakings within the meaning of Article 1(c) of Directive 98/78/EC,
+
+— insurance holding companies within the meaning of Article 1(i) of Directive 98/78/EC;
+
+16. each of the following items which the credit institution holds in respect of the entities defined in point (15) in which it holds a participation:
+
+— instruments referred to in Article 16(3) of Directive 73/239/EEC,
+
+— instruments referred to in Article 18(3) of Directive 79/267/EEC;
+
+(b) the second subparagraph shall be replaced by the following:
+
+‘Where shares in another credit institution, financial institution, insurance or reinsurance undertaking or insurance holding company are held temporarily for the purposes of a financial assistance operation designed to reorganise and save that entity, the competent authority may waive the provisions on deduction referred to in points 12 to 16.
+
+As an alternative to the deduction of the items referred to in points 15 and 16, Member States may allow their credit institutions to apply *mutatis mutandis* methods 1, 2, or 3 of Annex I to Directive 2002/87/EC. Method 1 (Accounting consolidation) shall only be applied if the competent authority is confident about the level of integrated management and internal control regarding the entities which would be included in the scope of consolidation. The method chosen shall be applied in a consistent manner over time.
+
+Member States may provide that for the calculation of own funds on a stand-alone basis, credit institutions subject to supervision on a consolidated basis in accordance with Chapter 3 or to supplementary supervision in accordance with Directive 2002/87/EC, need not deduct the items referred to in points 12 to 16 which are held in credit institutions, financial institutions, insurance or reinsurance undertakings or insurance holding companies, which are included in the scope of consolidated or supplementary supervision.
+
+This provision shall apply to all the prudential rules harmonised by Community acts.’
+
+5. Article 51(3) shall be replaced by the following:
+
+‘3. The Member States need not apply the limits laid down in paragraphs 1 and 2 to holdings in insurance companies as defined in Directive 73/239/EEC and Directive 79/267/EEC, or in reinsurancecompanies as defined in Directive 98/78/EC.’
+
+6. the last sentence in Article 52(2) shall be replaced by the following:
+
+‘Without prejudice to Article 54a, the consolidation of the financial situation of the financial holding company shall not in any way imply that the competent authorities are required to play a supervisory role in relation to the financial holding company on a stand-alone basis.’
+
+7. Article 54 shall be amended as follows:
+
+(a) in paragraph 1 the following subparagraph shall be added:
+
+‘In the case where undertakings are linked by a relationship within the meaning of Article 12 (1) of Directive 83/349/EEC, the competent authorities shall determine how consolidation is to be carried out.’
+
+(b) in paragraph 4, first subparagraph, the third indent shall be deleted;
+
+8. the following Article shall be inserted:
+
+‘Article 54a
+
+Management body of financial holding companies
+
+The Member States shall require that persons who effectively direct the business of a financial holding company are of sufficiently good repute and have sufficient experience to perform those duties.’
+
+9. the following Article shall be inserted:
+
+‘Article 55a
+
+Intra-group transactions with mixed-activity holding companies
+
+Without prejudice to the provisions of Title V, Chapter 2, Section 3, of this Directive, Member States shall provide that, where the parent undertaking of one or more credit institutions is a mixed-activity holding company, the competent authorities responsible for the supervision of these credit institutions shall exercise general supervision over transactions between the credit institution and the mixed-activity holding company and its subsidiaries.
+
+Competent authorities shall require credit institutions to have in place adequate risk management processes and internal control mechanisms, including sound reporting and accounting procedures, in order to identify, measure, monitor and control transactions with their parent mixed-activity holding company and its subsidiaries appropriately. Competent authorities shall require the reporting by the credit institution of any significant transaction with these entities other than the one referred to in Article 48. These procedures and significant transactions shall be subject to overview by the competent authorities.
+
+Where these intra-group transactions are a threat to a credit institution's financial position, the competent authority responsible for the supervision of the institution shall take appropriate measures.’
+
+10. in Article 56(7) the following sentence shall be added:
+
+‘The competent authority which made the request may, if it so wishes, participate in the verification when it does not carry out the verification itself.’
+
+11. the following Article shall be inserted:
+
+‘Article 56a
+
+Third-country parent undertakings
+
+Where a credit institution, the parent undertaking of which is a credit institution or a financial holding company, the head office of which is outside the Community, is not subject to consolidated supervision under Article 52, the competent authorities shall verify whether the credit institution is subject to consolidated supervision by a third-country competent authority which is equivalent to that governed by the principles laid down in Article 52. The verification shall be carried out by the competent authority which would be responsible for consolidated supervision if the fourth subparagraph were to apply, at the request of the parent undertaking or of any of the regulated entities authorised in the Community or on its own initiative. That competent authority shall consult the other competent authorities involved.
+
+The Banking Advisory Committee may give general guidance as to whether the consolidated supervision arrangements of competent authorities in third countries are likely to achieve the objectives of consolidated supervision as defined in this Chapter, in relation to credit institutions, the parent undertaking of which has its head office outside the Community. The Committee shall keep any such guidance under review and take into account any changes to the consolidated supervision arrangements applied by such competent authorities.
+
+The competent authority carrying out the verification specified in the second subparagraph shall take into account any such guidance. For this purpose the competent authority shall consult the Committee before taking a decision.
+
+In the absence of such equivalent supervision, Member States shall apply the provisions of Article 52 to the credit institution by analogy.
+
+As an alternative, Member States shall allow their competent authorities to apply other appropriate supervisory techniques which achieve the objectives of the supervision on a consolidated basis of credit institutions. Those methods must be agreed upon by the competent authority which would be responsible for consolidated supervision, after consultation with the other competent authorities involved. Competent authorities may in particular require the establishment of a financial holding company which has its head office in the Community, and apply the provisions on consolidated supervision to the consolidated position of that financial holding company. The methods must achieve the objectives of consolidated supervision as defined in this Chapter and must be notified to the other competent authorities involved and the Commission.’
+
+## CHAPTER V
+
+### ASSET MANAGEMENT COMPANIES
+
+<a id="art_30"></a>
+
+### Article 30 — Asset management companies
+
+Pending further coordination of sectoral rules, Member States shall provide for the inclusion of asset management companies:
+
+(a) within the scope of consolidated supervision of credit institutions and investment firms, or in the scope of supplementary supervision of insurance undertakings in an insurance group;
+
+(b) where the group is a financial conglomerate, in the scope of supplementary supervision within the meaning of this Directive; and
+
+(c) within the identification process in accordance with Article 3(2).
+
+For the application of the first paragraph, Member States shall provide, or give their competent authorities the power to decide, according to which sectoral rules (banking sector, insurance sector or investment services sector) asset management companies shall be included in the consolidated and/or supplementary supervision referred to in (a) of the first paragraph. For the purposes of this provision, the relevant sectoral rules regarding the form and extent of the inclusion of financial institutions (where asset management companies are included in the scope of consolidated supervision of credit institutions and investment firms) and of reinsurance undertakings (where asset management companies are included in the scope of supplementary supervision of insurance undertakings) shall apply *mutatis mutandis* to asset management companies. For the purposes of supplementary supervision referred to in (b) of the first paragraph, the asset management company shall be treated as part of whichever sector it is included in by virtue of (a) of the first paragraph.
+
+Where an asset management company is part of a financial conglomerate, any reference to the notion of regulated entity and any reference to the notion of competent authorities and relevant competent authorities shall therefore, for the purposes of this Directive, be understood as including, respectively, asset management companies and the competent authorities responsible for the supervision of asset management companies. This applies *mutatis mutandis* as regards groups referred to in (a) of the first paragraph.
+
+<a id="art_30a"></a>
+
+### Article 30a — Alternative investment fund managers
+
+1. Pending further coordination of sectoral rules, Member States shall provide for the inclusion of alternative investment fund managers:
+
+(a) within the scope of consolidated supervision of credit institutions and investment firms, or within the scope of supplementary supervision of insurance undertakings in an insurance group;
+
+(b) where the group is a financial conglomerate, within the scope of supplementary supervision within the meaning of this Directive; and
+
+(c) within the identification process in accordance with Article 3(2).
+
+2. For the application of paragraph 1, Member States shall determine, or give their competent authorities the power to decide, according to which sectoral rules (banking sector, insurance sector or investment services sector) alternative investment fund managers are to be included in the consolidated or supplementary supervision referred to in point (a) of paragraph 1. For the purposes of this paragraph, the relevant sectoral rules regarding the form and extent of the inclusion of financial institutions shall apply *mutatis mutandis* to alternative investment fund managers. For the purposes of supplementary supervision referred to in point (b) of paragraph 1, the alternative investment fund manager shall be treated as part of whichever sector it is included in by virtue of point (a) of paragraph 1.
+
+Where an alternative investment fund manager is part of a financial conglomerate, references to regulated entities, and to competent and relevant competent authorities shall therefore, for the purposes of this Directive, be understood as including, respectively, alternative investment fund managers and the competent authorities responsible for the supervision of alternative investment fund managers. This applies *mutatis mutandis* as regards groups as referred to in point (a) of paragraph 1.
+
+## CHAPTER VI
+
+### TRANSITIONAL AND FINAL PROVISIONS
+
+<a id="art_31"></a>
+
+### Article 31 — Report by the Commission
+
+1. By 11 August 2007, the Commission shall submit to the Financial Conglomerates Committee referred to in Article 21 a report on Member States' practices, and, if necessary, on the need for further harmonisation, with regard to
+
+— the inclusion of asset management companies in group-wide supervision,
+
+— the choice and the application of the capital adequacy methods set out in Annex I,
+
+— the definition of significant intra-group transactions and significant risk concentration and the supervision of intra-group transactions and risk concentration referred to in Annex II, in particular regarding the introduction of quantitative limits and qualitative requirements for this purpose,
+
+— the intervals at which financial conglomerates shall carry out the calculations of capital adequacy requirements as set out in Article 6(2) and report to the coordinator on significant risk concentration as set out in Article 7(2).
+
+The Commission shall consult the Committee before making its proposals.
+
+2. Within one year of agreement being reached at international level on the rules for eliminating the double gearing of own funds in financial groups, the Commission shall examine how to bring the provisions of this Directive into line with those international agreements and, if necessary, make appropriate proposals.
+
+<a id="art_32"></a>
+
+### Article 32 — Transposition
+
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive before 11 August 2004. They shall forthwith inform the Commission thereof.
+
+Member States shall provide that the provisions referred to in the first subparagraph shall first apply to the supervision of accounts for the financial year beginning on 1 January 2005 or during that calendar year.
+
+When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.
+
+<a id="art_33"></a>
+
+### Article 33 — Entry into force
+
+This Directive shall enter into force on the day of its publication in the *Official Journal of the European Union*.
+
+<a id="art_34"></a>
+
+### Article 34 — Addressees
+
+This Directive is addressed to the Member States.
+
+<a id="anx_i"></a>
+
+### ANNEX I
+
+CAPITAL ADEQUACY
+
+The calculation of the supplementary capital adequacy requirements of the regulated entities in a financial conglomerate referred to in Article 6(1) shall be carried out in accordance with the technical principles and one of the methods described in this Annex.
+
+Without prejudice to the provisions of the next paragraph, Member States shall allow their competent authorities, where they assume the role of coordinator with regard to a particular financial conglomerate, to decide, after consultation with the other relevant competent authorities and the conglomerate itself, which method shall be applied by that financial conglomerate.
+
+Member States may require that the calculation be carried out according to one particular method among those described in this Annex if a financial conglomerate is headed by a regulated entity which has been authorised in that Member State. Where a financial conglomerate is not headed by a regulated entity within the meaning of Article 1, Member States shall authorise the application of any of the methods described in this Annex, except in situations where the relevant competent authorities are located in the same Member State, in which case that Member State may require the application of one of the methods.
+
+I. **Technical principles**
+
+1. **Extent and form of the supplementary capital adequacy requirements calculation**
+
+Whichever method is used, when the entity is a subsidiary undertaking and has a solvency deficit, or, in the case of a non-regulated financial sector entity, a notional solvency deficit, the total solvency deficit of the subsidiary has to be taken into account. Where in this case, in the opinion of the coordinator, the responsibility of the parent undertaking owning a share of the capital is limited strictly and unambiguously to that share of the capital, the coordinator may give permission for the solvency deficit of the subsidiary undertaking to be taken into account on a proportional basis.
+
+Where there are no capital ties between entities in a financial conglomerate, the coordinator, after consultation with the other relevant competent authorities, shall determine which proportional share will have to be taken into account, bearing in mind the liability to which the existing relationship gives rise.
+
+2. **Other technical principles**
+
+Regardless of the method used for the calculation of the supplementary capital adequacy requirements of regulated entities in a financial conglomerate as laid down in Section II of this Annex, the coordinator, and where necessary other competent authorities concerned, shall ensure that the following principles will apply:
+
+(i) the multiple use of elements eligible for the calculation of own funds at the level of the financial conglomerate (multiple gearing) as well as any inappropriate intra-group creation of own funds must be eliminated; in order to ensure the elimination of multiple gearing and the intra-group creation of own funds, competent authorities shall apply by analogy the relevant principles laid down in the relevant sectoral rules;
+
+(ii) pending further harmonisation of sectoral rules, the solvency requirements for each different financial sector represented in a financial conglomerate shall be covered by own funds elements in accordance with the corresponding sectoral rules; when there is a deficit of own funds at the financial conglomerate level, only own funds elements which are eligible according to each of the sectoral rules (cross-sector capital) shall qualify for verification of compliance with the additional solvency requirements;
+
+where sectoral rules provide for limits on the eligibility of certain own funds instruments, which would qualify as cross-sector capital, these limits would apply *mutatis mutandis* when calculating own funds at the level of the financial conglomerate;
+
+when calculating own funds at the level of the financial conglomerate, competent authorities shall also take into account the effectiveness of the transferability and availability of the own funds across the different legal entities in the group, given the objectives of the capital adequacy rules;
+
+where, in the case of a non-regulated financial sector entity, a notional solvency requirement is calculated in accordance with section II of this Annex, notional solvency requirement means the capital requirement with which such an entity would have to comply under the relevant sectoral rules as if it were a regulated entity of that particular financial sector; in the case of asset management companies, solvency requirement means the capital requirement set out in Article 5a(1)(a) of Directive 85/611/EEC; the notional solvency requirement of a mixed financial holding company shall be calculated according to the sectoral rules of the most important financial sector in the financial conglomerate.
+
+II. **Technical calculation methods**
+
+Method 1: **‘Accounting consolidation’ method**
+
+The calculation of the supplementary capital adequacy requirements of the regulated entities in a financial conglomerate shall be carried out on the basis of the consolidated accounts.
+
+The supplementary capital adequacy requirements shall be calculated as the difference between:
+
+(i) the own funds of the financial conglomerate calculated on the basis of the consolidated position of the group; the elements eligible are those that qualify in accordance with the relevant sectoral rules;
+
+and
+
+(ii) the sum of the solvency requirements for each different financial sector represented in the group; the solvency requirements for each different financial sector are calculated in accordance with the corresponding sectoral rules.
+
+The sectoral rules referred to are in particular Directives 2000/12/EC, Title V, Chapter 3, as regards credit institutions, 98/78/EC as regards insurance undertakings, and 93/6/EEC as regards credit institutions and investment firms.
+
+In the case of non-regulated financial sector entities which are not included in the aforementioned sectoral solvency requirement calculations, a notional solvency requirement shall be calculated.
+
+The difference shall not be negative.
+
+Method 2: **‘Deduction and aggregation’ method**
+
+The calculation of the supplementary capital adequacy requirements of the regulated entities in a financial conglomerate shall be carried out on the basis of the accounts of each of the entities in the group.
+
+The supplementary capital adequacy requirements shall be calculated as the difference between:
+
+(i) the sum of the own funds of each regulated and non-regulated financial sector entity in the financial conglomerate; the elements eligible are those which qualify in accordance with the relevant sectoral rules;
+
+and
+
+(ii) the sum of
+
+— the solvency requirements for each regulated and non-regulated financial sector entity in the group; the solvency requirements shall be calculated in accordance with the relevant sectoral rules, and
+
+— the book value of the participations in other entities of the group.
+
+In the case of non-regulated financial sector entities, a notional solvency requirement shall be calculated. Own funds and solvency requirements shall be taken into account for their proportional share as provided for in Article 6(4) and in accordance with Section I of this Annex.
+
+The difference shall not be negative.
+
+Method 3: **‘Combination method’**
+
+Competent authorities may allow a combination of method 1 and method 2.
+
+<a id="anx_ii"></a>
+
+### ANNEX II
+
+TECHNICAL APPLICATION OF THE PROVISIONS ON INTRA-GROUP TRANSACTIONS AND RISK CONCENTRATION
+
+The coordinator, after consultation with the other relevant competent authorities, shall identify the type of transactions and risks regulated entities in a particular financial conglomerate shall report in accordance with the provisions of Article 7(2) and Article 8(2) on the reporting of intra-group transactions and risk concentration. When defining or giving their opinion about the type of transactions and risks, the coordinator and the relevant competent authorities shall take into account the specific group and risk management structure of the financial conglomerate. In order to identify significant intra-group transactions and significant risk concentration to be reported in accordance with the provisions of Articles 7 and 8, the coordinator, after consultation with the other relevant competent authorities and the conglomerate itself, shall define appropriate thresholds based on regulatory own funds and/or technical provisions.
+
+When overviewing the intra-group transactions and risk concentrations, the coordinator shall in particular monitor the possible risk of contagion in the financial conglomerate, the risk of a conflict of interests, the risk of circumvention of sectoral rules, and the level or volume of risks.
+
+Member States may allow their competent authorities to apply at the level of the financial conglomerate the provisions of the sectoral rules on intra-group transactions and risk concentration, in particular to avoid circumvention of the sectoral rules.
+
+(1) OJ C 213 E, 31.7.2001, p. 227.
+
+(2) OJ C 36, 8.2.2002, p. 1.
+
+(3) OJ C 271, 26.9.2001, p. 10.
+
+(4) Opinion of the European Parliament of 14 March 2002 (not yet published in the Official Journal), Council Common Position of 12 September 2002 (OJ C 253 E, 22.10.2002, p. 1) and Decision of the European Parliament of 20 November 2002 (not yet published in the Official Journal).
+
+(5) OJ L 184, 17.7.1999, p. 23.
+
+(6) OJ L 228, 16.8.1973, p. 3. Directive as last amended by Directive 2002/13/EC of the European Parliament and of the Council (OJ L 77, 20.3.2002, p. 17).
+
+(7) OJ L 63, 13.3.1979, p. 1. Directive as last amended by Directive 2002/12/EC of the European Parliament and of the Council (OJ L 77, 20.3.2002, p. 11).
+
+(8) OJ L 228, 11.8.1992, p. 1. Directive as last amended by Directive 2000/64/EC of the European Parliament and of the Council (OJ L 290, 17.11.2000, p. 27).
+
+(9) OJ L 360, 9.12.1992, p. 1. Directive as last amended by Directive 2000/64/EC.
+
+(10) OJ L 141, 11.6.1993, p. 1. Directive as last amended by Directive 98/33/EC of the European Parliament and of the Council (OJ L 204, 21.7.1998, p. 29).
+
+(11) OJ L 141, 11.6.1993, p. 27. Directive as last amended by Directive 2000/64/EC.
+
+(12) OJ L 330, 5.12.1998, p. 1.
+
+(13) OJ L 126, 26.5.2000, p. 1. Directive as amended by Directive 2000/28/EC (OJ L 275, 27.10.2000, p. 37).
+
+(14) Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life insurance (OJ L 345, 19.12.2002, p. 1).
+
+(15) Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments (OJ L 145, 30.4.2004, p. 1).
+
+(16) Directive 2005/68/EC of the European Parliament and of the Council of 16 November 2005 on reinsurance (OJ L 323, 9.12.2005, p. 1).
+
+(17) Directive 2006/48/EC of the European Parliament and of the Council of 14 June 2006 relating to the taking up and pursuit of the business of credit institutions (OJ L 177, 30.6.2006, p. 1).
+
+(18) Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32).
+
+(19) Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1).
+
+(20) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers (OJ L 174, 1.7.2011, p. 1).
+
+(21) OJ L 177, 30.6.2006, p. 201.
+
+(22) OJ L 193, 18.7.1983, p. 1.
+
+(23) OJ L 222, 14.8.1978, p. 11.
+
+(24) OJ L 331, 15.12.2010, p. 12.
+
+(25) OJ L 331, 15.12.2010, p. 48.
+
+(26) OJ L 331, 15.12.2010, p. 84.
+
+(27) OJ L 331, 15.12.2010, p. 1.
+
+(28) OJ L 331, 15.12.2010, p. 1.
+
+(29) OJ L 63, 13.3.1979, p. 1. Directive as last amended by Directive 2002/12/EC of the European Parliament and of the Council (OJ L 77, 20.3.2002, p. 11).
+
+(30) OJ L 330, 5.12.1998, p. 1.
+
+(31) OJ L 126, 26.5.2000, p. 1. Directive as amended by Directive 2000/28/EEC (OJ L 275, 27.10.2000, p. 37).
+
+(32) OJ L 141, 11.6.1993, p. 27. Directive as last amended by Directive 2000/64/EC of the European Parliament and of the Council (OJ L 290, 17.11.2000, p. 27).
+
+(33) OJ L 141, 11.6.1993, p. 1. Directive as last amended by Directive 98/33/EC of the European Parliament and of the Council (OJ L 204, 21.7.1998, p. 29).
+
+(34) OJ L 35, 11.2.2003.’
+
+(35) OJ L 228, 16.8.1973, p. 3. Directive as last amended by Directive 2002/13/EC of the European Parliament and of the Council (OJ L 77, 20.3.2002, p. 17).
+
+(36) OJ L 330, 5.12.1998, p. 1.
+
+(37) OJ L 126, 26.5.2000, p. 1. Directive as last amended by Directive 2000/28/EC (OJ L 275, 27.10.2000, p. 37).
+
+(38) OJ L 141, 11.6.1993, p. 27. Directive as last amended by Directive 2000/64/EC of the European Parliament and of the Council (OJ L 290, 17.11.2000, p. 27).
+
+(39) OJ L 141, 11.6.1993, p. 1. Directive as last amended by Directive 98/33/EC of the European Parliament and of the Council (OJ L 204, 21.7.1998, p. 29).
+
+(40) OJ L 35, 11.2.2003.’
+
+(41) OJ L 35, 11.2.2003.’
+
+(42) OJ L 35, 11.2.2003.’
+
+(43) OJ L 35, 11.2.2003’.
+
+(44) OJ L 330, 5.12.1998, p. 1.’

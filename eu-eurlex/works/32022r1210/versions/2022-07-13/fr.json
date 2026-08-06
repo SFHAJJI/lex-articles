@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r1210:2022-07-13",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2022/1210 of 13\u00A0July 2022 laying down implementing technical standards for the application of Regulation (EU) No\u00A0596/2014",
+  "valid_from": "2022-07-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r1210/versions/2022-07-13/fr.xml",
+    "sha256": "7e606181c85eb21a78a6340cd35edb79dfbbbdb1f29d2aa15e17ac50a7e45a8b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R1210"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r1210:2022-07-13#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les listes d’initiés requises par l’article 18, paragraphe 1, du règlement (UE) no 596/2014 contiennent une section spécifique à chaque information privilégiée et sont établies selon le format indiqué dans le modèle 1 figurant à l’annexe I du présent règlement.\n\n2. Les renseignements sur les personnes qui, du fait de la nature de leurs fonctions ou de leur poste, ont accès à tout moment à toutes les informations privilégiées peuvent figurer séparément dans la liste d’initiés dans une section «initiés permanents». Cette section est établie selon le format indiqué dans le modèle 2 figurant à l’annexe I du présent règlement. Si une section «initiés permanents» est établie, les renseignements sur les initiés permanents ne sont pas inclus dans les sections spécifiques de la liste d’initiés visées au paragraphe 1.\n\n3. Les listes d’initiés sont tenues sous une forme électronique qui, à tout moment, garantit que:\n\n| a) | l’accès aux listes d’initiés est réservé à des personnes clairement identifiées qui en ont besoin du fait de la nature de leurs fonctions ou de leur poste; |\n| --- | --- |\n\n| b) | les informations y figurant sont exactes; |\n| --- | --- |\n\n| c) | les versions antérieures de la liste d’initiés sont accessibles. |\n| --- | --- |\n\n4. L’autorité compétente indique sur son site web les moyens électroniques par lesquels les listes d’initiés doivent lui être transmises. Ces moyens électroniques préservent l’exhaustivité, l’intégrité et la confidentialité des informations durant la transmission.",
+      "text_sha256": "b39824b301981aaa6d67052c3c3f92b0e9a4c6b9a2025be00f355fe551afcfb7",
+      "md_span": {
+        "start": 706,
+        "end": 2245
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r1210:2022-07-13#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. La liste d’initiés visée à l’article 18, paragraphe 6, premier alinéa, du règlement (UE) no 596/2014 peut uniquement contenir les renseignements sur les personnes disposant d’un accès régulier à des informations privilégiées. Cette liste est établie selon le format indiqué à l’annexe II.\n\n2. Les listes d’initiés requises par les États membres en vertu de l’article 18, paragraphe 6, deuxième alinéa, du règlement (UE) no 596/2014 contiennent une section spécifique à chaque information privilégiée et sont établies selon le format indiqué dans le modèle 1 figurant à l’annexe III du présent règlement.\n\nLes renseignements sur les personnes qui, du fait de la nature de leurs fonctions ou de leur poste, ont accès à tout moment à toutes les informations privilégiées peuvent figurer séparément dans la liste d’initiés dans une section «initiés permanents». La section «initiés permanents» est établie selon le format indiqué dans le modèle 2 figurant à l’annexe III du présent règlement. Si une section «initiés permanents» est établie, les données à caractère personnel des initiés permanents ne sont pas incluses dans les différentes sections de la liste d’initiés correspondant à chaque information privilégiée visées au premier alinéa du présent paragraphe.\n\n3. Les listes d’initiés visées aux paragraphes 1 et 2 sont tenues sous une forme garantissant que l’exhaustivité, l’intégrité et la confidentialité des informations qui y figurent sont à tout moment préservées pendant la transmission à l’autorité compétente.",
+      "text_sha256": "bd5f226cd6c1644e794ec87903cf441221eb6353c880844da738fcc07dcbe9f6",
+      "md_span": {
+        "start": 2278,
+        "end": 3814
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r1210:2022-07-13#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe règlement d’exécution (UE) 2016/347 est abrogé. Les références faites au règlement abrogé s’entendent comme faites au présent règlement.",
+      "text_sha256": "6a3656f5437a33f64e26dc15bb875c521388b821bfbf52f9b61b2a675c6fd7c3",
+      "md_span": {
+        "start": 3847,
+        "end": 3997
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r1210:2022-07-13#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "b8c1b172e87d9f3d25fa7408c473a0c09567665b259934334f0182acb0dfdc95",
+      "md_span": {
+        "start": 4030,
+        "end": 4171
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

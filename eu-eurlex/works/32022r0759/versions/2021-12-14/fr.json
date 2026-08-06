@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r0759:2021-12-14",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2022/759 of 14\u00A0December 2021 amending Annex VII to Directive (EU) 2018/2001",
+  "valid_from": "2021-12-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r0759/versions/2021-12-14/fr.xml",
+    "sha256": "a9ec5e0be8a4b3442af614c3b5846697d4122e3f6dca505a70f4af43856529e7",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R0759"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r0759:2021-12-14#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’annexe VII de la directive (UE) 2018/2001 est remplacée par l’annexe du présent règlement.",
+      "text_sha256": "325ada049edc8d79005bce0bc718548f4c82f1dd09381a4e0756c8ba1fb22311",
+      "md_span": {
+        "start": 657,
+        "end": 766
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r0759:2021-12-14#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLa Commission réexamine le présent règlement à la lumière du progrès technologique et de l’innovation, du déploiement des équipements et de ses incidences sur les objectifs en matière d’énergies renouvelables.",
+      "text_sha256": "e424ee64d012cccb8c41543e8e93e8c289790b4ffaa1a28da0775b3454962364",
+      "md_span": {
+        "start": 799,
+        "end": 1019
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r0759:2021-12-14#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.",
+      "text_sha256": "9f7ffb297c50a42b3bac7c452775d74632860335bd512ca2b2bc59f2c31d3f30",
+      "md_span": {
+        "start": 1052,
+        "end": 1303
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

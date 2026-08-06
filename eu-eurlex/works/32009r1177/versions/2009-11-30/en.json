@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32009r1177:2009-11-30",
+  "language": "en",
+  "title": "Commission Regulation (EC) No 1177/2009 of 30 November 2009 amending Directives 2004/17/EC, 2004/18/EC and 2009/81/EC",
+  "valid_from": "2009-11-30",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32009r1177/versions/2009-11-30/en.xml",
+    "sha256": "20db32798f68f8168b9ca41ce2f3063d71281cc5d4fd417e2a8081cef0a10bf2",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1177"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32009r1177:2009-11-30#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nDirective 2004/17/EC is amended as follows:\n\n| 1. | Article 16 is amended as follows:(a)in point (a), the amount ‘EUR 412 000’ is replaced by ‘EUR 387 000’;(b)in point (b), the amount ‘EUR 5 150 000’ is replaced by ‘EUR 4 845 000’; |\n| --- | --- |\n| (a) | in point (a), the amount ‘EUR 412 000’ is replaced by ‘EUR 387 000’; |\n| (b) | in point (b), the amount ‘EUR 5 150 000’ is replaced by ‘EUR 4 845 000’; |\n\n| 2. | Article 61 is amended as follows:(a)in paragraph 1, the amount ‘EUR 412 000’ is replaced by ‘EUR 387 000’;(b)in paragraph 2, the amount ‘EUR 412 000’ is replaced by ‘EUR 387 000’. |\n| --- | --- |\n| (a) | in paragraph 1, the amount ‘EUR 412 000’ is replaced by ‘EUR 387 000’; |\n| (b) | in paragraph 2, the amount ‘EUR 412 000’ is replaced by ‘EUR 387 000’. |",
+      "text_sha256": "c68497a0b550158cc1266ecc51003bbd6c172724087f89b12bf4255c18406854",
+      "md_span": {
+        "start": 662,
+        "end": 1448
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32009r1177:2009-11-30#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nDirective 2004/18/EC is amended as follows:\n\n| 1. | Article 7 is amended as follows:(a)in point (a), the amount ‘EUR 133 000’ is replaced by ‘EUR 125 000’;(b)in point (b), the amount ‘EUR 206 000’ is replaced by ‘EUR 193 000’,(c)in point (c), the amount ‘EUR 5 150 000’ is replaced by ‘EUR 4 845 000’; |\n| --- | --- |\n| (a) | in point (a), the amount ‘EUR 133 000’ is replaced by ‘EUR 125 000’; |\n| (b) | in point (b), the amount ‘EUR 206 000’ is replaced by ‘EUR 193 000’, |\n| (c) | in point (c), the amount ‘EUR 5 150 000’ is replaced by ‘EUR 4 845 000’; |\n\n| 2. | the first paragraph of Article 8 is amended as follows:(a)in point (a), the amount ‘EUR 5 150 000’ is replaced by ‘EUR 4 845 000’;(b)in point (b), the amount ‘EUR 206 000’ is replaced by ‘EUR 193 000’; |\n| --- | --- |\n| (a) | in point (a), the amount ‘EUR 5 150 000’ is replaced by ‘EUR 4 845 000’; |\n| (b) | in point (b), the amount ‘EUR 206 000’ is replaced by ‘EUR 193 000’; |\n\n| 3. | in Article 56, the amount ‘EUR 5 150 000’ is replaced by ‘EUR 4 845 000’; |\n| --- | --- |\n\n| 4. | in the first subparagraph of Article 63(1), the amount ‘EUR 5 150 000’ is replaced by ‘EUR 4 845 000’; |\n| --- | --- |\n\n| 5. | Article 67(1) is amended as follows:(a)in point (a), the amount ‘EUR 133 000’ is replaced by ‘EUR 125 000’;(b)in point (b), the amount ‘EUR 206 000’ is replaced by ‘EUR 193 000’;(c)in point (c), the amount ‘EUR 206 000’ is replaced by ‘EUR 193 000’. |\n| --- | --- |\n| (a) | in point (a), the amount ‘EUR 133 000’ is replaced by ‘EUR 125 000’; |\n| (b) | in point (b), the amount ‘EUR 206 000’ is replaced by ‘EUR 193 000’; |\n| (c) | in point (c), the amount ‘EUR 206 000’ is replaced by ‘EUR 193 000’. |",
+      "text_sha256": "cd4a67e8e32c81f882b3665be19dab0bf224538366e82d4fb63e845db7d85278",
+      "md_span": {
+        "start": 1481,
+        "end": 3174
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32009r1177:2009-11-30#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nArticle 8 of Directive 2009/81/EC is amended as follows:\n\n| 1. | in point (a), the amount ‘EUR 412 000’ is replaced by ‘EUR 387 000’; |\n| --- | --- |\n\n| 2. | in point (b), the amount ‘EUR 5 150 000’ is replaced by ‘EUR 4 845 000’. |\n| --- | --- |",
+      "text_sha256": "85474118ba16b9e32c1fe0e85295e0b2a426ef9c2731b0dbb21c0aec75a549f5",
+      "md_span": {
+        "start": 3207,
+        "end": 3464
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32009r1177:2009-11-30#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on 1 January 2010.",
+      "text_sha256": "bc2fa6f13ae3a6caf86aa98e4feef48ccc49d10609282432cbdbd36d8e54e8b8",
+      "md_span": {
+        "start": 3497,
+        "end": 3565
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

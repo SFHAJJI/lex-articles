@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r1781r(01):2024-08-07",
+  "language": "en",
+  "title": "Corrigendum to Regulation (EU) 2024/1781",
+  "valid_from": "2024-08-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r1781r(01)/versions/2024-08-07/en.xml",
+    "sha256": "9fc1e33c9576f90db51cb78cba377f7778f49c4cd24a6d771ce74f67e0a93418",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1781R%2801%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32024r1781r(01):2024-08-07#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Official Journal of the European Union EN L series 2024/90493 7.8.2024 Corrigendum to Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC ( Official Journal of the European Union L, 2024/1781, of 28 June 2024 ) On page 77, Articles 77 and 78 should read: ‘Article 77 Amendment of Directive (EU) 2020/1828 Point (27) of Annex I to Directive (EU) 2020/1828 is replaced by the following: “(27) Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj)”. Article 78 Amendment of Regulation (EU) 2023/1542 In Article 77 of Regulation (EU) 2023/1542, the following paragraph is added: “10. The economic operator placing the battery on the market or putting it into service shall upload the unique identifier in the registry referred to in Article 13(1) of Regulation (EU) 2024/1781 of the European Parliament and of the Council (*1). (*1) Regulation (EU) 2024/1781 of the European Parliament and of the Council of 13 June 2024 on establishing a framework for the setting of ecodesign requirements for sustainable products, amending Directive (EU) 2020/1828 and Regulation (EU) 2023/1542 and repealing Directive 2009/125/EC (OJ L, 2024/1781, 28.6.2024, ELI: http://data.europa.eu/eli/reg/2024/1781/oj).”.’ ELI: http://data.europa.eu/eli/reg/2024/1781/corrigendum/2024-08-07/oj ISSN 1977-0677 (electronic edition)",
+      "text_sha256": "746c4443407b7c4359bb844c9a872f4375e5456bbacab147002383013360af4f",
+      "md_span": {
+        "start": 612,
+        "end": 2447
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

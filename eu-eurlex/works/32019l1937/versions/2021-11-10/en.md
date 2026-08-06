@@ -1,0 +1,773 @@
+---
+lex_id: 'eu-eurlex:32019l1937:2021-11-10'
+title: 'Directive (EU) 2019/1937'
+valid_from: '2021-11-10'
+valid_to: '2023-05-01'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L1937-20211110'
+source_sha256: 'a096bc3b815e7d958330f5c20e16a4013046e498828169b33c32ddf889e67ec7'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPTER I
+
+### **SCOPE, DEFINITIONS AND CONDITIONS FOR PROTECTION**
+
+<a id="art_1"></a>
+
+### Article 1 — Purpose
+
+The purpose of this Directive is to enhance the enforcement of Union law and policies in specific areas by laying down common minimum standards providing for a high level of protection of persons reporting breaches of Union law.
+
+<a id="art_2"></a>
+
+### Article 2 — Material scope
+
+**1.** This Directive lays down common minimum standards for the protection of persons reporting the following breaches of Union law:(a) breaches falling within the scope of the Union acts set out in the Annex that concern the following areas:(i) public procurement;(ii) financial services, products and markets, and prevention of money laundering and terrorist financing;(iii) product safety and compliance;(iv) transport safety;(v) protection of the environment;(vi) radiation protection and nuclear safety;(vii) food and feed safety, animal health and welfare;(viii) public health;(ix) consumer protection;(x) protection of privacy and personal data, and security of network and information systems;(b) breaches affecting the financial interests of the Union as referred to in Article 325 TFEU and as further specified in relevant Union measures;(c) breaches relating to the internal market, as referred to in Article 26(2) TFEU, including breaches of Union competition and State aid rules, as well as breaches relating to the internal market in relation to acts which breach the rules of corporate tax or to arrangements the purpose of which is to obtain a tax advantage that defeats the object or purpose of the applicable corporate tax law.
+
+**2.** This Directive is without prejudice to the power of Member States to extend protection under national law as regards areas or acts not covered by paragraph 1.
+
+<a id="art_3"></a>
+
+### Article 3 — Relationship with other Union acts and national provisions
+
+**1.** Where specific rules on the reporting of breaches are provided for in the sector-specific Union acts listed in Part II of the Annex, those rules shall apply. The provisions of this Directive shall be applicable to the extent that a matter is not mandatorily regulated in those sector-specific Union acts.
+
+**2.** This Directive shall not affect the responsibility of Member States to ensure national security or their power to protect their essential security interests. In particular, it shall not apply to reports of breaches of the procurement rules involving defence or security aspects unless they are covered by the relevant acts of the Union.
+
+**3.** This Directive shall not affect the application of Union or national law relating to any of the following:(a) the protection of classified information;(b) the protection of legal and medical professional privilege;(c) the secrecy of judicial deliberations;(d) rules on criminal procedure.
+
+**4.** This Directive shall not affect national rules on the exercise by workers of their rights to consult their representatives or trade unions, and on protection against any unjustified detrimental measure prompted by such consultations as well as on the autonomy of the social partners and their right to enter into collective agreements. This is without prejudice to the level of protection granted by this Directive.
+
+<a id="art_4"></a>
+
+### Article 4 — Personal scope
+
+**1.** This Directive shall apply to reporting persons working in the private or public sector who acquired information on breaches in a work-related context including, at least, the following:(a) persons having the status of worker, within the meaning of Article 45(1) TFEU, including civil servants;(b) persons having self-employed status, within the meaning of Article 49 TFEU;(c) shareholders and persons belonging to the administrative, management or supervisory body of an undertaking, including non-executive members, as well as volunteers and paid or unpaid trainees;(d) any persons working under the supervision and direction of contractors, subcontractors and suppliers.
+
+**2.** This Directive shall also apply to reporting persons where they report or publicly disclose information on breaches acquired in a work-based relationship which has since ended.
+
+**3.** This Directive shall also apply to reporting persons whose work-based relationship is yet to begin in cases where information on breaches has been acquired during the recruitment process or other pre-contractual negotiations.
+
+**4.** The measures for the protection of reporting persons set out in Chapter VI shall also apply, where relevant, to:(a) facilitators;(b) third persons who are connected with the reporting persons and who could suffer retaliation in a work-related context, such as colleagues or relatives of the reporting persons; and(c) legal entities that the reporting persons own, work for or are otherwise connected with in a work-related context.
+
+<a id="art_5"></a>
+
+### Article 5 — Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+(1) ‘breaches’ means acts or omissions that: (i) are unlawful and relate to the Union acts and areas falling within the material scope referred to in Article 2; or (ii) defeat the object or the purpose of the rules in the Union acts and areas falling within the material scope referred to in Article 2;
+
+(2) ‘information on breaches’ means information, including reasonable suspicions, about actual or potential breaches, which occurred or are very likely to occur in the organisation in which the reporting person works or has worked or in another organisation with which the reporting person is or was in contact through his or her work, and about attempts to conceal such breaches;
+
+(3) ‘report’ or ‘to report’ means, the oral or written communication of information on breaches;
+
+(4) ‘internal reporting’ means the oral or written communication of information on breaches within a legal entity in the private or public sector;
+
+(5) ‘external reporting’ means the oral or written communication of information on breaches to the competent authorities;
+
+(6) ‘public disclosure’ or ‘to publicly disclose’ means the making of information on breaches available in the public domain;
+
+(7) ‘reporting person’ means a natural person who reports or publicly discloses information on breaches acquired in the context of his or her work-related activities;
+
+(8) ‘facilitator’ means a natural person who assists a reporting person in the reporting process in a work-related context, and whose assistance should be confidential;
+
+(9) ‘work-related context’ means current or past work activities in the public or private sector through which, irrespective of the nature of those activities, persons acquire information on breaches and within which those persons could suffer retaliation if they reported such information;
+
+(10) ‘person concerned’ means a natural or legal person who is referred to in the report or public disclosure as a person to whom the breach is attributed or with whom that person is associated;
+
+(11) ‘retaliation’ means any direct or indirect act or omission which occurs in a work-related context, is prompted by internal or external reporting or by public disclosure, and which causes or may cause unjustified detriment to the reporting person;
+
+(12) ‘follow-up’ means any action taken by the recipient of a report or any competent authority, to assess the accuracy of the allegations made in the report and, where relevant, to address the breach reported, including through actions such as an internal enquiry, an investigation, prosecution, an action for recovery of funds, or the closure of the procedure;
+
+(13) ‘feedback’ means the provision to the reporting person of information on the action envisaged or taken as follow-up and on the grounds for such follow-up;
+
+(14) ‘competent authority’ means any national authority designated to receive reports in accordance with Chapter III and give feedback to the reporting person, and/or designated to carry out the duties provided for in this Directive, in particular as regards follow-up.
+
+<a id="art_6"></a>
+
+### Article 6 — Conditions for protection of reporting persons
+
+**1.** Reporting persons shall qualify for protection under this Directive provided that:(a) they had reasonable grounds to believe that the information on breaches reported was true at the time of reporting and that such information fell within the scope of this Directive; and(b) they reported either internally in accordance with Article 7 or externally in accordance with Article 10, or made a public disclosure in accordance with Article 15.
+
+**2.** Without prejudice to existing obligations to provide for anonymous reporting by virtue of Union law, this Directive does not affect the power of Member States to decide whether legal entities in the private or public sector and competent authorities are required to accept and follow up on anonymous reports of breaches.
+
+**3.** Persons who reported or publicly disclosed information on breaches anonymously, but who are subsequently identified and suffer retaliation, shall nonetheless qualify for the protection provided for under Chapter VI, provided that they meet the conditions laid down in paragraph 1.
+
+**4.** Persons reporting to relevant institutions, bodies, offices or agencies of the Union breaches falling within the scope of this Directive shall qualify for protection as laid down in this Directive under the same conditions as persons who report externally.
+
+## CHAPTER II
+
+### **INTERNAL REPORTING AND FOLLOW-UP**
+
+<a id="art_7"></a>
+
+### Article 7 — Reporting through internal reporting channels
+
+**1.** As a general principle and without prejudice to Articles 10 and 15, information on breaches may be reported through the internal reporting channels and procedures provided for in this Chapter.
+
+**2.** Member States shall encourage reporting through internal reporting channels before reporting through external reporting channels, where the breach can be addressed effectively internally and where the reporting person considers that there is no risk of retaliation.
+
+**3.** Appropriate information relating to the use of internal reporting channels referred to in paragraph 2 shall be provided in the context of the information given by legal entities in the private and public sector pursuant to point (g) of Article 9(1), and by competent authorities pursuant to point (a) of Article 12(4) and Article 13.
+
+<a id="art_8"></a>
+
+### Article 8 — Obligation to establish internal reporting channels
+
+**1.** Member States shall ensure that legal entities in the private and public sector establish channels and procedures for internal reporting and for follow-up, following consultation and in agreement with the social partners where provided for by national law.
+
+**2.** The channels and procedures referred to in paragraph 1 of this Article shall enable the entity's workers to report information on breaches. They may enable other persons, referred to in points (b), (c) and (d) of Article 4(1) and Article 4(2), who are in contact with the entity in the context of their work-related activities to also report information on breaches.
+
+**3.** Paragraph 1 shall apply to legal entities in the private sector with 50 or more workers.
+
+**4.** The threshold laid down in paragraph 3 shall not apply to the entities falling within the scope of Union acts referred to in Parts I.B and II of the Annex.
+
+**5.** Reporting channels may be operated internally by a person or department designated for that purpose or provided externally by a third party. The safeguards and requirements referred to in Article 9(1) shall also apply to entrusted third parties operating the reporting channel for a legal entity in the private sector.
+
+**6.** Legal entities in the private sector with 50 to 249 workers may share resources as regards the receipt of reports and any investigation to be carried out. This shall be without prejudice to the obligations imposed upon such entities by this Directive to maintain confidentiality, to give feedback, and to address the reported breach.
+
+**7.** Following an appropriate risk assessment taking into account the nature of the activities of the entities and the ensuing level of risk for, in particular, the environment and public health, Member States may require legal entities in the private sector with fewer than 50 workers to establish internal reporting channels and procedures in accordance with Chapter II.
+
+**8.** Member States shall notify the Commission of any decision they take to require legal entities in the private sector to establish internal reporting channels pursuant to paragraph 7. That notification shall include the reasons for the decision and the criteria used in the risk assessment referred to in paragraph 7. The Commission shall communicate that decision to the other Member States.
+
+**9.** Paragraph 1 shall apply to all legal entities in the public sector, including any entity owned or controlled by such entities.
+
+Member States may exempt from the obligation referred to in paragraph 1 municipalities with fewer than 10 000 inhabitants or fewer than 50 workers, or other entities referred to in the first subparagraph of this paragraph with fewer than 50 workers.
+
+Member States may provide that internal reporting channels can be shared between municipalities or operated by joint municipal authorities in accordance with national law, provided that the shared internal reporting channels are distinct from and autonomous in relation to the relevant external reporting channels.
+
+<a id="art_9"></a>
+
+### Article 9 — Procedures for internal reporting and follow-up
+
+**1.** The procedures for internal reporting and for follow-up as referred to in Article 8 shall include the following:(a) channels for receiving the reports which are designed, established and operated in a secure manner that ensures that the confidentiality of the identity of the reporting person and any third party mentioned in the report is protected, and prevents access thereto by non-authorised staff members;(b) acknowledgment of receipt of the report to the reporting person within seven days of that receipt;(c) the designation of an impartial person or department competent for following-up on the reports which may be the same person or department as the one that receives the reports and which will maintain communication with the reporting person and, where necessary, ask for further information from and provide feedback to that reporting person;(d) diligent follow-up by the designated person or department referred to in point (c);(e) diligent follow-up, where provided for in national law, as regards anonymous reporting;(f) a reasonable timeframe to provide feedback, not exceeding three months from the acknowledgment of receipt or, if no acknowledgement was sent to the reporting person, three months from the expiry of the seven-day period after the report was made;(g) provision of clear and easily accessible information regarding the procedures for reporting externally to competent authorities pursuant to Article 10 and, where relevant, to institutions, bodies, offices or agencies of the Union.
+
+**2.** The channels provided for in point (a) of paragraph 1 shall enable reporting in writing or orally, or both. Oral reporting shall be possible by telephone or through other voice messaging systems, and, upon request by the reporting person, by means of a physical meeting within a reasonable timeframe.
+
+## CHAPTER III
+
+### **EXTERNAL REPORTING AND FOLLOW-UP**
+
+<a id="art_10"></a>
+
+### Article 10 — Reporting through external reporting channels
+
+Without prejudice to point (b) of Article 15(1), reporting persons shall report information on breaches using the channels and procedures referred to in Articles 11 and 12, after having first reported through internal reporting channels, or by directly reporting through external reporting channels.
+
+<a id="art_11"></a>
+
+### Article 11 — Obligation to establish external reporting channels and to follow up on reports
+
+**1.** Member States shall designate the authorities competent to receive, give feedback and follow up on reports, and shall provide them with adequate resources.
+
+**2.** Member States shall ensure that the competent authorities:(a) establish independent and autonomous external reporting channels, for receiving and handling information on breaches;(b) promptly, and in any event within seven days of receipt of the report, acknowledge that receipt unless the reporting person explicitly requested otherwise or the competent authority reasonably believes that acknowledging receipt of the report would jeopardise the protection of the reporting person's identity;(c) diligently follow up on the reports;(d) provide feedback to the reporting person within a reasonable timeframe not exceeding three months, or six months in duly justified cases;(e) communicate to the reporting person the final outcome of investigations triggered by the report, in accordance with procedures provided for under national law;(f) transmit in due time the information contained in the report to competent institutions, bodies, offices or agencies of the Union, as appropriate, for further investigation, where provided for under Union or national law.
+
+**3.** Member States may provide that competent authorities, after having duly assessed the matter, can decide that a reported breach is clearly minor and does not require further follow-up pursuant to this Directive, other than closure of the procedure. This shall not affect other obligations or other applicable procedures to address the reported breach, or the protection granted by this Directive in relation to internal or external reporting. In such a case, the competent authorities shall notify the reporting person of their decision and the reasons therefor.
+
+**4.** Member States may provide that competent authorities can decide to close procedures regarding repetitive reports which do not contain any meaningful new information on breaches compared to a past report in respect of which the relevant procedures were concluded, unless new legal or factual circumstances justify a different follow-up. In such a case, the competent authorities shall notify the reporting person of their decision and the reasons therefor.
+
+**5.** Member States may provide that, in the event of high inflows of reports, competent authorities may deal with reports of serious breaches or breaches of essential provisions falling within the scope of this Directive as a matter of priority, without prejudice to the timeframe as set out in point (d) of paragraph 2.
+
+**6.** Member States shall ensure that any authority which has received a report but does not have the competence to address the breach reported transmits it to the competent authority, within a reasonable time, in a secure manner, and that the reporting person is informed, without delay, of such a transmission.
+
+<a id="art_12"></a>
+
+### Article 12 — Design of external reporting channels
+
+**1.** External reporting channels shall be considered independent and autonomous, if they meet all of the following criteria:(a) they are designed, established and operated in a manner that ensures the completeness, integrity and confidentiality of the information and prevents access thereto by non-authorised staff members of the competent authority;(b) they enable the durable storage of information in accordance with Article 18 to allow further investigations to be carried out.
+
+**2.** The external reporting channels shall enable reporting in writing and orally. Oral reporting shall be possible by telephone or through other voice messaging systems and, upon request by the reporting person, by means of a physical meeting within a reasonable timeframe.
+
+**3.** Competent authorities shall ensure that, where a report is received through channels other than the reporting channels referred to in paragraphs 1 and 2 or by staff members other than those responsible for handling reports, the staff members who receive it are prohibited from disclosing any information that might identify the reporting person or the person concerned, and that they promptly forward the report without modification to the staff members responsible for handling reports.
+
+**4.** Member States shall ensure that competent authorities designate staff members responsible for handling reports, and in particular for:(a) providing any interested person with information on the procedures for reporting;(b) receiving and following up on reports;(c) maintaining contact with the reporting person for the purpose of providing feedback and requesting further information where necessary.
+
+**5.** The staff members referred to in paragraph 4 shall receive specific training for the purposes of handling reports.
+
+<a id="art_13"></a>
+
+### Article 13 — Information regarding the receipt of reports and their follow-up
+
+Member States shall ensure that competent authorities publish on their websites in a separate, easily identifiable and accessible section at least the following information:
+
+(a) the conditions for qualifying for protection under this Directive;
+
+(b) the contact details for the external reporting channels as provided for under Article 12, in particular the electronic and postal addresses, and the phone numbers for such channels, indicating whether the phone conversations are recorded;
+
+(c) the procedures applicable to the reporting of breaches, including the manner in which the competent authority may request the reporting person to clarify the information reported or to provide additional information, the timeframe for providing feedback and the type and content of such feedback;
+
+(d) the confidentiality regime applicable to reports, and in particular the information in relation to the processing of personal data in accordance with Article 17 of this Directive, Articles 5 and 13 of Regulation (EU) 2016/679, Article 13 of Directive (EU) 2016/680 and Article 15 of Regulation (EU) 2018/1725, as applicable;
+
+(e) the nature of the follow-up to be given to reports;
+
+(f) the remedies and procedures for protection against retaliation and the availability of confidential advice for persons contemplating reporting;
+
+(g) a statement clearly explaining the conditions under which persons reporting to the competent authority are protected from incurring liability for a breach of confidentiality pursuant to Article 21(2); and
+
+(h) contact details of the information centre or of the single independent administrative authority as provided for in Article 20(3) where applicable.
+
+<a id="art_14"></a>
+
+### Article 14 — Review of the procedures by competent authorities
+
+Member States shall ensure that competent authorities review their procedures for receiving reports, and their follow-up, regularly, and at least once every three years. In reviewing such procedures, competent authorities shall take account of their experience as well as that of other competent authorities and adapt their procedures accordingly.
+
+## CHAPTER IV
+
+### **PUBLIC DISCLOSURES**
+
+<a id="art_15"></a>
+
+### Article 15 — Public disclosures
+
+**1.** A person who makes a public disclosure shall qualify for protection under this Directive if any of the following conditions is fulfilled:(a) the person first reported internally and externally, or directly externally in accordance with Chapters II and III, but no appropriate action was taken in response to the report within the timeframe referred to in point (f) of Article 9(1) or point (d) of Article 11(2); or(b) the person has reasonable grounds to believe that:(i) the breach may constitute an imminent or manifest danger to the public interest, such as where there is an emergency situation or a risk of irreversible damage; or(ii) in the case of external reporting, there is a risk of retaliation or there is a low prospect of the breach being effectively addressed, due to the particular circumstances of the case, such as those where evidence may be concealed or destroyed or where an authority may be in collusion with the perpetrator of the breach or involved in the breach.
+
+**2.** This Article shall not apply to cases where a person directly discloses information to the press pursuant to specific national provisions establishing a system of protection relating to freedom of expression and information.
+
+## CHAPTER V
+
+### **PROVISIONS APPLICABLE TO INTERNAL AND EXTERNAL REPORTING**
+
+<a id="art_16"></a>
+
+### Article 16 — Duty of confidentiality
+
+**1.** Member States shall ensure that the identity of the reporting person is not disclosed to anyone beyond the authorised staff members competent to receive or follow up on reports, without the explicit consent of that person. This shall also apply to any other information from which the identity of the reporting person may be directly or indirectly deduced.
+
+**2.** By way of derogation from paragraph 1, the identity of the reporting person and any other information referred to in paragraph 1 may be disclosed only where this is a necessary and proportionate obligation imposed by Union or national law in the context of investigations by national authorities or judicial proceedings, including with a view to safeguarding the rights of defence of the person concerned.
+
+**3.** Disclosures made pursuant to the derogation provided for in paragraph 2 shall be subject to appropriate safeguards under the applicable Union and national rules. In particular, reporting persons shall be informed before their identity is disclosed, unless such information would jeopardise the related investigations or judicial proceedings. When informing the reporting persons, the competent authority shall send them an explanation in writing of the reasons for the disclosure of the confidential data concerned.
+
+**4.** Member States shall ensure that competent authorities that receive information on breaches that includes trade secrets do not use or disclose those trade secrets for purposes going beyond what is necessary for proper follow-up.
+
+<a id="art_17"></a>
+
+### Article 17 — Processing of personal data
+
+Any processing of personal data carried out pursuant to this Directive, including the exchange or transmission of personal data by the competent authorities, shall be carried out in accordance with Regulation (EU) 2016/679 and Directive (EU) 2016/680. Any exchange or transmission of information by Union institutions, bodies, offices or agencies shall be undertaken in accordance with Regulation (EU) 2018/1725.
+
+Personal data which are manifestly not relevant for the handling of a specific report shall not be collected or, if accidentally collected, shall be deleted without undue delay.
+
+<a id="art_18"></a>
+
+### Article 18 — Record keeping of the reports
+
+**1.** Member States shall ensure that legal entities in the private and public sector and competent authorities keep records of every report received, in compliance with the confidentiality requirements provided for in Article 16. Reports shall be stored for no longer than it is necessary and proportionate in order to comply with the requirements imposed by this Directive, or other requirements imposed by Union or national law.
+
+**2.** Where a recorded telephone line or another recorded voice messaging system is used for reporting, subject to the consent of the reporting person, legal entities in the private and public sector and competent authorities shall have the right to document the oral reporting in one of the following ways:(a) by making a recording of the conversation in a durable and retrievable form; or(b) through a complete and accurate transcript of the conversation prepared by the staff members responsible for handling the report.
+
+Legal entities in the private and public sector and competent authorities shall offer the reporting person the opportunity to check, rectify and agree the transcript of the call by signing it.
+
+**3.** Where an unrecorded telephone line or another unrecorded voice messaging system is used for reporting, legal entities in the private and public sector and competent authorities shall have the right to document the oral reporting in the form of accurate minutes of the conversation written by the staff member responsible for handling the report. Legal entities in the private and public sector and competent authorities shall offer the reporting person the opportunity to check, rectify and agree the minutes of the conversation by signing them.
+
+**4.** Where a person requests a meeting with the staff members of legal entities in the private and public sector or of competent authorities for reporting purposes pursuant to Articles 9(2) and 12(2), legal entities in the private and public sector and competent authorities shall ensure, subject to the consent of the reporting person, that complete and accurate records of the meeting are kept in a durable and retrievable form.
+
+Legal entities in the private and public sector and competent authorities shall have the right to document the meeting in one of the following ways:
+
+(a) by making a recording of the conversation in a durable and retrievable form; or
+
+(b) through accurate minutes of the meeting prepared by the staff members responsible for handling the report.
+
+Legal entities in the private and public sector and competent authorities shall offer the reporting person the opportunity to check, rectify and agree the minutes of the meeting by signing them.
+
+## CHAPTER VI
+
+### **PROTECTION MEASURES**
+
+<a id="art_19"></a>
+
+### Article 19 — Prohibition of retaliation
+
+Member States shall take the necessary measures to prohibit any form of retaliation against persons referred to in Article 4, including threats of retaliation and attempts of retaliation including in particular in the form of:
+
+(a) suspension, lay-off, dismissal or equivalent measures;
+
+(b) demotion or withholding of promotion;
+
+(c) transfer of duties, change of location of place of work, reduction in wages, change in working hours;
+
+(d) withholding of training;
+
+(e) a negative performance assessment or employment reference;
+
+(f) imposition or administering of any disciplinary measure, reprimand or other penalty, including a financial penalty;
+
+(g) coercion, intimidation, harassment or ostracism;
+
+(h) discrimination, disadvantageous or unfair treatment;
+
+(i) failure to convert a temporary employment contract into a permanent one, where the worker had legitimate expectations that he or she would be offered permanent employment;
+
+(j) failure to renew, or early termination of, a temporary employment contract;
+
+(k) harm, including to the person's reputation, particularly in social media, or financial loss, including loss of business and loss of income;
+
+(l) blacklisting on the basis of a sector or industry-wide informal or formal agreement, which may entail that the person will not, in the future, find employment in the sector or industry;
+
+(m) early termination or cancellation of a contract for goods or services;
+
+(n) cancellation of a licence or permit;
+
+(o) psychiatric or medical referrals.
+
+<a id="art_20"></a>
+
+### Article 20 — Measures of support
+
+**1.** Member States shall ensure that persons referred to in Article 4 have access, as appropriate, to support measures, in particular the following:(a) comprehensive and independent information and advice, which is easily accessible to the public and free of charge, on procedures and remedies available, on protection against retaliation, and on the rights of the person concerned;(b) effective assistance from competent authorities before any relevant authority involved in their protection against retaliation, including, where provided for under national law, certification of the fact that they qualify for protection under this Directive; and(c) legal aid in criminal and in cross-border civil proceedings in accordance with Directive (EU) 2016/1919 and Directive 2008/52/EC of the European Parliament and of the Council (1), and, in accordance with national law, legal aid in further proceedings and legal counselling or other legal assistance.
+
+**2.** Member States may provide for financial assistance and support measures, including psychological support, for reporting persons in the framework of legal proceedings.
+
+**3.** The support measures referred to in this Article may be provided, as appropriate, by an information centre or a single and clearly identified independent administrative authority.
+
+<a id="art_21"></a>
+
+### Article 21 — Measures for protection against retaliation
+
+**1.** Member States shall take the necessary measures to ensure that persons referred to in Article 4 are protected against retaliation. Such measures shall include, in particular, those set out in paragraphs 2 to 8 of this Article.
+
+**2.** Without prejudice to Article 3(2) and (3), where persons report information on breaches or make a public disclosure in accordance with this Directive they shall not be considered to have breached any restriction on disclosure of information and shall not incur liability of any kind in respect of such a report or public disclosure provided that they had reasonable grounds to believe that the reporting or public disclosure of such information was necessary for revealing a breach pursuant to this Directive.
+
+**3.** Reporting persons shall not incur liability in respect of the acquisition of or access to the information which is reported or publicly disclosed, provided that such acquisition or access did not constitute a self-standing criminal offence. In the event of the acquisition or access constituting a self-standing criminal offence, criminal liability shall continue to be governed by applicable national law.
+
+**4.** Any other possible liability of reporting persons arising from acts or omissions which are unrelated to the reporting or public disclosure or which are not necessary for revealing a breach pursuant to this Directive shall continue to be governed by applicable Union or national law.
+
+**5.** In proceedings before a court or other authority relating to a detriment suffered by the reporting person, and subject to that person establishing that he or she reported or made a public disclosure and suffered a detriment, it shall be presumed that the detriment was made in retaliation for the report or the public disclosure. In such cases, it shall be for the person who has taken the detrimental measure to prove that that measure was based on duly justified grounds.
+
+**6.** Persons referred to in Article 4 shall have access to remedial measures against retaliation as appropriate, including interim relief pending the resolution of legal proceedings, in accordance with national law.
+
+**7.** In legal proceedings, including for defamation, breach of copyright, breach of secrecy, breach of data protection rules, disclosure of trade secrets, or for compensation claims based on private, public, or on collective labour law, persons referred to in Article 4 shall not incur liability of any kind as a result of reports or public disclosures under this Directive. Those persons shall have the right to rely on that reporting or public disclosure to seek dismissal of the case, provided that they had reasonable grounds to believe that the reporting or public disclosure was necessary for revealing a breach, pursuant to this Directive.
+
+Where a person reports or publicly discloses information on breaches falling within the scope of this Directive, and that information includes trade secrets, and where that person meets the conditions of this Directive, such reporting or public disclosure shall be considered lawful under the conditions of Article 3(2) of the Directive (EU) 2016/943.
+
+**8.** Member States shall take the necessary measures to ensure that remedies and full compensation are provided for damage suffered by persons referred to in Article 4 in accordance with national law.
+
+<a id="art_22"></a>
+
+### Article 22 — Measures for the protection of persons concerned
+
+**1.** Member States shall ensure, in accordance with the Charter, that persons concerned fully enjoy the right to an effective remedy and to a fair trial, as well as the presumption of innocence and the rights of defence, including the right to be heard and the right to access their file.
+
+**2.** Competent authorities shall ensure, in accordance with national law, that the identity of persons concerned is protected for as long as investigations triggered by the report or the public disclosure are ongoing.
+
+**3.** The rules set out in Articles 12, 17 and 18 as regards the protection of the identity of reporting persons shall also apply to the protection of the identity of persons concerned.
+
+<a id="art_23"></a>
+
+### Article 23 — Penalties
+
+**1.** Member States shall provide for effective, proportionate and dissuasive penalties applicable to natural or legal persons that:(a) hinder or attempt to hinder reporting;(b) retaliate against persons referred to in Article 4;(c) bring vexatious proceedings against persons referred to in Article 4;(d) breach the duty of maintaining the confidentiality of the identity of reporting persons, as referred to in Article 16.
+
+**2.** Member States shall provide for effective, proportionate and dissuasive penalties applicable in respect of reporting persons where it is established that they knowingly reported or publicly disclosed false information. Member States shall also provide for measures for compensating damage resulting from such reporting or public disclosures in accordance with national law.
+
+<a id="art_24"></a>
+
+### Article 24 — No waiver of rights and remedies
+
+Member States shall ensure that the rights and remedies provided for under this Directive cannot be waived or limited by any agreement, policy, form or condition of employment, including a pre-dispute arbitration agreement.
+
+## CHAPTER VII
+
+### **FINAL PROVISIONS**
+
+<a id="art_25"></a>
+
+### Article 25 — More favourable treatment and non-regression clause
+
+**1.** Member States may introduce or retain provisions more favourable to the rights of reporting persons than those set out in this Directive, without prejudice to Article 22 and Article 23(2).
+
+**2.** The implementation of this Directive shall under no circumstances constitute grounds for a reduction in the level of protection already afforded by Member States in the areas covered by this Directive.
+
+<a id="art_26"></a>
+
+### Article 26 — Transposition and transitional period
+
+**1.** Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 17 December 2021.
+
+**2.** By way of derogation from paragraph 1, as regards legal entities in the private sector with 50 to 249 workers, Member States shall by 17 December 2023 bring into force the laws, regulations and administrative provisions necessary to comply with the obligation to establish internal reporting channels under Article 8(3).
+
+**3.** When Member States adopt the provisions referred to in paragraphs 1 and 2, those provisions shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made. They shall forthwith communicate to the Commission the text of those provisions.
+
+<a id="art_27"></a>
+
+### Article 27 — Reporting, evaluation and review
+
+**1.** Member States shall provide the Commission with all relevant information regarding the implementation and application of this Directive. On the basis of the information provided, the. Commission shall, by 17 December 2023, submit a report to the European Parliament and the Council on the implementation and application of this Directive.
+
+**2.** Without prejudice to reporting obligations laid down in other Union legal acts, Member States shall, on an annual basis, submit the following statistics on the reports referred to in Chapter III to the Commission, preferably in an aggregated form, if they are available at a central level in the Member State concerned:(a) the number of reports received by the competent authorities;(b) the number of investigations and proceedings initiated as a result of such reports and their outcome; and(c) if ascertained, the estimated financial damage, and the amounts recovered following investigations and proceedings, related to the breaches reported.
+
+**3.** The Commission shall, by 17 December 2025, taking into account its report submitted pursuant to paragraph 1 and the Member States' statistics submitted pursuant to paragraph 2, submit a report to the European Parliament and to the Council assessing the impact of national law transposing this Directive. The report shall evaluate the way in which this Directive has functioned and consider the need for additional measures, including, where appropriate, amendments with a view to extending the scope of this Directive to further Union acts or areas, in particular the improvement of the working environment to protect workers' health and safety and working conditions.
+
+In addition to the evaluation referred to in the first subparagraph, the report shall evaluate how Member States made use of existing cooperation mechanisms as part of their obligations to follow up on reports regarding breaches falling within the scope of this Directive and more generally how they cooperate in cases of breaches with a cross-border dimension.
+
+**4.** The Commission shall make the reports referred to in paragraphs 1 and 3 public and easily accessible.
+
+<a id="art_28"></a>
+
+### Article 28 — Entry into force
+
+This Directive shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+<a id="art_29"></a>
+
+### Article 29 — Addressees
+
+This Directive is addressed to the Member States.
+
+<a id="annex"></a>
+
+### ANNEX
+
+**Part I**
+
+A. **Point (a)(i) of Article 2(1) — public procurement:**
+
+1. Rules of procedure for public procurement and the award of concessions, for the award of contracts in the fields of defence and security, and for the award of contracts by entities operating in the fields of water, energy, transport and postal services and any other contract, as set out in:
+
+(i) Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contracts (OJ L 94, 28.3.2014, p. 1);
+
+(ii) Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, p. 65);
+
+(iii) Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94, 28.3.2014, p. 243);
+
+(iv) Directive 2009/81/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of procedures for the award of certain works contracts, supply contracts and service contracts by contracting authorities or entities in the fields of defence and security, and amending Directives 2004/17/EC and 2004/18/EC (OJ L 216, 20.8.2009, p. 76).
+
+2. Review procedures regulated by:
+
+(i) Council Directive 92/13/EEC of 25 February 1992 coordinating the laws, regulations and administrative provisions relating to the application of Community rules on the procurement procedures of entities operating in the water, energy, transport and telecommunications sectors (OJ L 76, 23.3.1992, p. 14);
+
+(ii) Council Directive 89/665/EEC of 21 December 1989 on the coordination of the laws, regulations and administrative provisions relating to the application of review procedures to the award of public supply and public works contracts (OJ L 395, 30.12.1989, p. 33).
+
+B. **Point (a)(ii) of Article 2(1) — financial services, products and markets, and prevention of money laundering and terrorist financing:**
+
+Rules establishing a regulatory and supervisory framework and consumer and investor protection in the Union's financial services and capital markets, banking, credit, investment, insurance and re-insurance, occupational or personal pensions products, securities, investment funds, payment services and the activities listed in Annex I to Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338), as set out in:
+
+(i) Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions amending Directives 2005/60/EC and 2006/48/EC and repealing Directive 2000/46/EC (OJ L 267, 10.10.2009, p. 7);
+
+(ii) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1);
+
+(iii) Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps (OJ L 86, 24.3.2012, p. 1);
+
+(iv) Regulation (EU) No 345/2013 of the European Parliament and of the Council of 17 April 2013 on European venture capital funds (OJ L 115, 25.4.2013, p. 1);
+
+(v) Regulation (EU) No 346/2013 of the European Parliament and of the Council of 17 April 2013 on European social entrepreneurship fund (OJ L 115, 25.4.2013, p. 18);
+
+(vi) Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014 on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010 (OJ L 60, 28.2.2014, p. 34);
+
+(vii) Regulation (EU) No 537/2014 of the European Parliament and of the Council of 16 April 2014 on specific requirements regarding statutory audit of public-interest entities and repealing Commission Decision 2005/909/EC (OJ L 158, 27.5.2014, p. 77);
+
+(viii) Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 (OJ L 173, 12.6.2014, p. 84);
+
+(ix) Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market, amending Directives 2002/65/EC, 2009/110/EC and 2013/36/EU and Regulation (EU) No 1093/2010, and repealing Directive 2007/64/EC (OJ L 337, 23.12.2015, p. 35);
+
+(x) Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids (OJ L 142, 30.4.2004, p. 12);
+
+(xi) Directive 2007/36/EC of the European Parliament and of the Council of 11 July 2007 on the exercise of certain rights of shareholders in listed companies (OJ L 184, 14.7.2007, p. 17);
+
+(xii) Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38);
+
+(xiii) Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1);
+
+(xiv) Regulation (EU) 2016/1011 of the European Parliament and of the Council of 8 June 2016 on indices used as benchmarks in financial instruments and financial contracts or to measure the performance of investment funds and amending Directives 2008/48/EC and 2014/17/EU and Regulation (EU) No 596/2014 (OJ L 171, 29.6.2016, p. 1);
+
+(xv) Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1);
+
+(xvi) Directive 2014/59/EU of the European Parliament and of the Council of 15 May 2014 establishing a framework for the recovery and resolution of credit institutions and investment firms and amending Council Directive 82/891/EEC, and Directives 2001/24/EC, 2002/47/EC, 2004/25/EC, 2005/56/EC, 2007/36/EC, 2011/35/EU, 2012/30/EU and 2013/36/EU, and Regulations (EU) No 1093/2010 and (EU) No 648/2012, of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190);
+
+(xvii) Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives 73/239/EEC, 79/267/EEC, 92/49/EEC, 92/96/EEC, 93/6/EEC and 93/22/EEC, and Directives 98/78/EC and 2000/12/EC of the European Parliament and of the Council (OJ L 35, 11.2.2003, p. 1);
+
+(xviii) Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149);
+
+(xix) Directive 97/9/EC of the European Parliament and of the Council of 3 March 1997 on investor-compensation schemes (OJ L 84, 26.3.1997, p. 22);
+
+(xx) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1);
+
+(xxi) Regulation (EU) 2020/1503 of the European Parliament and of the Council of 7 October 2020 on European crowdfunding service providers for business and amending Regulation (EU) 2017/1129 and Directive (EU) 2019/1937 (OJ L 347, 20.10.2020, p. 1).
+
+C. **Point (a)(iii) of Article 2(1) — product safety and compliance:**
+
+1. Safety and compliance requirements for products placed in the Union market, as defined and regulated by:
+
+(i) Directive 2001/95/EC of the European Parliament and of the Council of 3 December 2001 on general product safety (OJ L 11, 15.1.2002, p. 4);
+
+(ii) Union harmonisation legislation concerning manufactured products, including labelling requirements, other than food, feed, medicinal products for human and veterinary use, living plants and animals, products of human origin and products of plants and animals relating directly to their future reproduction as listed in Annexes I and II to Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (OJ L 169, 25.6.2019, p. 1);
+
+(iii) Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p. 1).
+
+2. Rules on marketing and use of sensitive and dangerous products, as set out in:
+
+(i) Directive 2009/43/EC of the European Parliament and of the Council of 6 May 2009 simplifying terms and conditions of transfers of defence-related products within the Community (OJ L 146, 10.6.2009, p. 1);
+
+(ii) Council Directive 91/477/EEC of 18 June 1991 on control of the acquisition and possession of weapons (OJ L 256, 13.9.1991, p. 51);
+
+(iii) Regulation (EU) No 98/2013 of the European Parliament and the Council of 15 January 2013 on the marketing and use of explosives precursors (OJ L 39, 9.2.2013, p. 1).
+
+D. **Point (a)(iv) of Article 2(1) — transport safety:**
+
+1. Safety requirements in the railway sector, as regulated by Directive (EU) 2016/798 of the European Parliament and of the Council of 11 May 2016 on railway safety (OJ L 138, 26.5.2016, p. 102).
+
+2. Safety requirements in the civil aviation sector, as regulated by Regulation (EU) No 996/2010 of the European Parliament and of the Council of 20 October 2010 on the investigation and prevention of accidents and incidents in civil aviation and repealing Directive 94/56/EC (OJ L 295, 12.11.2010, p. 35).
+
+3. Safety requirements in the road sector, as regulated by:
+
+(i) Directive 2008/96/EC of the European Parliament and of the Council of 19 November 2008 on road infrastructure safety management (OJ L 319, 29.11.2008, p. 59);
+
+(ii) Directive 2004/54/EC of the European Parliament and of the Council of 29 April 2004 on minimum safety requirements for tunnels in the Trans-European Road Network (OJ L 167, 30.4.2004, p. 39);
+
+(iii) Regulation (EC) No 1071/2009 of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing Council Directive 96/26/EC (OJ L 300, 14.11.2009, p. 51).
+
+4. Safety requirements in the maritime sector, as regulated by:
+
+(i) Regulation (EC) No 391/2009 of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations (OJ L 131, 28.5.2009, p. 11);
+
+(ii) Regulation (EC) No 392/2009 of the European Parliament and of the Council of 23 April 2009 on the liability of carriers of passengers by sea in the event of accidents (OJ L 131, 28.5.2009, p. 24);
+
+(iii) Directive 2014/90/EU of the European Parliament and of the Council of 23 July 2014 on marine equipment and repealing Council Directive 96/98/EC (OJ L 257, 28.8.2014, p. 146);
+
+(iv) Directive 2009/18/EC of the European Parliament and of the Council of 23 April 2009 establishing the fundamental principles governing the investigation of accidents in the maritime transport sector and amending Council Directive 1999/35/EC and Directive 2002/59/EC (OJ L 131, 28.5.2009, p. 114);
+
+(v) Directive 2008/106/EC of the European Parliament and of the Council of 19 November 2008 on the minimum level of training of seafarers (OJ L 323, 3.12.2008, p. 33);
+
+(vi) Council Directive 98/41/EC of 18 June 1998 on the registration of persons sailing on board passenger ships operating to or from ports of the Member States of the Community (OJ L 188, 2.7.1998, p. 35);
+
+(vii) Directive 2001/96/EC of the European Parliament and of the Council of 4 December 2001 establishing harmonised requirements and procedures for the safe loading and unloading of bulk carriers (OJ L 13, 16.1.2002, p. 9).
+
+5. Safety requirements, as regulated by Directive 2008/68/EC of the European Parliament and of the Council of 24 September 2008 on the inland transport of dangerous goods (OJ L 260, 30.9.2008, p. 13).
+
+E. **Point (a)(v) of Article 2(1) — protection of the environment:**
+
+1. Any criminal offence against the protection of the environment as regulated by Directive 2008/99/EC of the European Parliament and of the Council of 19 November 2008 on the protection of the environment through criminal law (OJ L 328, 6.12.2008, p. 28) or any unlawful conduct infringing the legislation set out in the Annexes to Directive 2008/99/EC;
+
+2. Rules on the environment and climate, as set out in:
+
+(i) Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC (OJ L 275, 25.10.2003, p. 32);
+
+(ii) Directive 2009/28/EC of the European Parliament and of the Council of 23 April 2009 on the promotion of the use of energy from renewable sources and amending and subsequently repealing Directives 2001/77/EC and 2003/30/EC (OJ L 140, 5.6.2009, p. 16);
+
+(iii) Directive 2012/27/EU of the European Parliament and of the Council of 25 October 2012 on energy efficiency, amending Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC (OJ L 315, 14.11.2012, p. 1);
+
+(iv) Regulation (EU) No 525/2013 of the European Parliament and of the Council of 21 May 2013 on a mechanism for monitoring and reporting greenhouse gas emissions and for reporting other information at national and Union level relevant to climate change and repealing Decision No 280/2004/EC (OJ L 165, 18.6.2013, p. 13);
+
+(v) Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy from renewable sources (OJ L 328, 21.12.2018, p. 82).
+
+3. Rules on sustainable development and waste management, as set out in:
+
+(i) Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives (OJ L 312, 22.11.2008, p. 3);
+
+(ii) Regulation (EU) No 1257/2013 of the European Parliament and of the Council of 20 November 2013 on ship recycling and amending Regulation (EC) No 1013/2006 and Directive 2009/16/EC (OJ L 330, 10.12.2013, p. 1);
+
+(iii) Regulation (EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals (OJ L 201, 27.7.2012, p. 60).
+
+4. Rules on marine, air and noise pollution, as set out in:
+
+(i) Directive 1999/94/EC of the European Parliament and of the Council of 13 December 1999 relating to the availability of consumer information on fuel economy and CO2 emissions in respect of the marketing of new passenger cars (OJ L 12, 18.1.2000, p. 16);
+
+(ii) Directive 2001/81/EC of the European Parliament and of the Council of 23 October 2001 on national emission ceilings for certain atmospheric pollutants (OJ L 309, 27.11.2001, p. 22);
+
+(iii) Directive 2002/49/EC of the European Parliament and of the Council of 25 June 2002 relating to the assessment and management of environmental noise (OJ L 189, 18.7.2002, p. 12);
+
+(iv) Regulation (EC) No 782/2003 of the European Parliament and of the Council of 14 April 2003 on the prohibition of organotin compounds on ships (OJ L 115, 9.5.2003, p. 1);
+
+(v) Directive 2004/35/EC of the European Parliament and of the Council of 21 April 2004 on environmental liability with regard to the prevention and remedying of environmental damage (OJ L 143, 30.4.2004, p. 56);
+
+(vi) Directive 2005/35/EC of the European Parliament and of the Council of 7 September 2005 on ship-source pollution and on the introduction of penalties for infringements (OJ L 255, 30.9.2005, p. 11);
+
+(vii) Regulation (EC) No 166/2006 of the European Parliament and of the Council of 18 January 2006 concerning the establishment of a European Pollutant Release and Transfer Register and amending Council Directives 91/689/EEC and 96/61/EC (OJ L 33, 4.2.2006, p. 1);
+
+(viii) Directive 2009/33/EC of the European Parliament and of the Council of 23 April 2009 on the promotion of clean and energy-efficient road transport vehicles (OJ L 120, 15.5.2009, p. 5);
+
+(ix) Regulation (EC) No 443/2009 of the European Parliament and of the Council of 23 April 2009 setting emission performance standards for new passenger cars as part of the Community's integrated approach to reduce CO2 emissions from light-duty vehicles (OJ L 140, 5.6.2009, p. 1);
+
+(x) Regulation (EC) No 1005/2009 of the European Parliament and of the Council of 16 September 2009 on substances that deplete the ozone layer (OJ L 286, 31.10.2009, p. 1);
+
+(xi) Directive 2009/126/EC of the European Parliament and of the Council of 21 October 2009 on Stage II petrol vapour recovery during refuelling of motor vehicles at service stations (OJ L 285, 31.10.2009, p. 36);
+
+(xii) Regulation (EU) No 510/2011 of the European Parliament and of the Council of 11 May 2011 setting emission performance standards for new light commercial vehicles as part of the Union's integrated approach to reduce CO2 emissions from light-duty vehicles (OJ L 145, 31.5.2011, p. 1);
+
+(xiii) Directive 2014/94/EU of the European Parliament and of the Council of 22 October 2014 on the deployment of alternative fuels infrastructure (OJ L 307, 28.10.2014, p. 1);
+
+(xiv) Regulation (EU) 2015/757 of the European Parliament and of the Council of 29 April 2015 on the monitoring, reporting and verification of carbon dioxide emissions from maritime transport, and amending Directive 2009/16/EC (OJ L 123, 19.5.2015, p. 55);
+
+(xv) Directive (EU) 2015/2193 of the European Parliament and of the Council of 25 November 2015 on the limitation of emissions of certain pollutants into the air from medium combustion plants (OJ L 313, 28.11.2015, p. 1).
+
+5. Rules on the protection and management of water and soil, as set out in:
+
+(i) Directive 2007/60/EC of the European Parliament and of the Council of 23 October 2007 on the assessment and management of flood risks (OJ L 288, 6.11.2007, p. 27);
+
+(ii) Directive 2008/105/EC of the European Parliament and of the Council of 16 December 2008 on environmental quality standards in the field of water policy, amending and subsequently repealing Council Directives 82/176/EEC, 83/513/EEC, 84/156/EEC, 84/491/EEC, 86/280/EEC and amending Directive 2000/60/EC of the European Parliament and of the Council (OJ L 348, 24.12.2008, p. 84);
+
+(iii) Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment (OJ L 26, 28.1.2012, p. 1).
+
+6. Rules relating to the protection of nature and biodiversity, as set out in:
+
+(i) Council Regulation (EC) No 1936/2001 of 27 September 2001 laying down control measures applicable to fishing for certain stocks of highly migratory fish (OJ L 263, 3.10.2001, p. 1);
+
+(ii) Council Regulation (EC) No 812/2004 of 26 April 2004 laying down measures concerning bycatches of cetaceans in fisheries and amending Regulation (EC) No 88/98 (OJ L 150, 30.4.2004, p. 12);
+
+(iii) Regulation (EC) No 1007/2009 of the European Parliament and of the Council of 16 September 2009 on trade in seal products (OJ L 286, 31.10.2009, p. 36);
+
+(iv) Council Regulation (EC) No 734/2008 of 15 July 2008 on the protection of vulnerable marine ecosystems in the high seas from the adverse impacts of bottom fishing gears (OJ L 201, 30.7.2008, p. 8);
+
+(v) Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds (OJ L 20, 26.1.2010, p. 7);
+
+(vi) Regulation (EU) No 995/2010 of the European Parliament and of the Council of 20 October 2010 laying down the obligations of operators who place timber and timber products on the market (OJ L 295, 12.11.2010, p. 23);
+
+(vii) Regulation (EU) No 1143/2014 of the European Parliament and of the Council of 22 October 2014 on the prevention and management of the introduction and spread of invasive alien species (OJ L 317, 4.11.2014, p. 35).
+
+7. Rules on chemicals, as set out in Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, 30.12.2006, p. 1).
+
+8. Rules relating to organic products, as set out in Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1).
+
+F. **Point (a)(vi) of Article 2(1) — radiation protection and nuclear safety**
+
+Rules on nuclear safety, as set out in:
+
+(i) Council Directive 2009/71/Euratom of 25 June 2009 establishing a Community framework for the nuclear safety of nuclear installations (OJ L 172, 2.7.2009, p. 18);
+
+(ii) Council Directive 2013/51/Euratom of 22 October 2013 laying down requirements for the protection of the health of the general public with regard to radioactive substances in water intended for human consumption (OJ L 296, 7.11.2013, p. 12);
+
+(iii) Council Directive 2013/59/Euratom of 5 December 2013 laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom (OJ L 13, 17.1.2014, p. 1);
+
+(iv) Council Directive 2011/70/Euratom of 19 July 2011 establishing a Community framework for the responsible and safe management of spent fuel and radioactive waste (OJ L 199, 2.8.2011, p. 48);
+
+(v) Council Directive 2006/117/Euratom of 20 November 2006 on the supervision and control of shipments of radioactive waste and spent fuel (OJ L 337, 5.12.2006, p. 21);
+
+(vi) Council Regulation (Euratom) 2016/52 of 15 January 2016 laying down maximum permitted levels of radioactive contamination of food and feed following a nuclear accident or any other case of radiological emergency, and repealing Regulation (Euratom) No 3954/87 and Commission Regulations (Euratom) No 944/89 and (Euratom) No 770/90 (OJ L 13, 20.1.2016, p. 2);
+
+(vii) Council Regulation (Euratom) No 1493/93 of 8 June 1993 on shipments of radioactive substances between Member States (OJ L 148, 19.6.1993, p. 1).
+
+G. **Point (a)(vii) of Article 2(1) — food and feed safety, animal health and animal welfare:**
+
+1. Union food and feed law governed by the general principles and requirements as defined by Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1).
+
+2. Animal health, as regulated by:
+
+(i) Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (OJ L 84, 31.3.2016, p. 1);
+
+(ii) Regulation (EC) No 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation) (OJ L 300, 14.11.2009, p. 1).
+
+3. Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).
+
+4. Rules and standards on the protection and well-being of animals, as set out in:
+
+(i) Council Directive 98/58/EC of 20 July 1998 concerning the protection of animals kept for farming purposes (OJ L 221, 8.8.1998, p. 23);
+
+(ii) Council Regulation (EC) No 1/2005 of 22 December 2004 on the protection of animals during transport and related operations and amending Directives 64/432/EEC and 93/119/EC and Regulation (EC) No 1255/97 (OJ L 3, 5.1.2005, p. 1);
+
+(iii) Council Regulation (EC) No 1099/2009 of 24 September 2009 on the protection of animals at the time of killing (OJ L 303, 18.11.2009, p. 1);
+
+(iv) Council Directive 1999/22/EC of 29 March 1999 relating to the keeping of wild animals in zoos (OJ L 94, 9.4.1999, p. 24);
+
+(v) Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes (OJ L 276, 20.10.2010, p. 33).
+
+H. **Point (a) (viii) of Article 2(1) — public health:**
+
+1. Measures setting high standards of quality and safety of organs and substances of human origin, as regulated by:
+
+(i) Directive 2002/98/EC of the European Parliament and of the Council of 27 January 2003 setting standards of quality and safety for the collection, testing, processing, storage and distribution of human blood and blood components and amending Directive 2001/83/EC (OJ L 33, 8.2.2003, p. 30);
+
+(ii) Directive 2004/23/EC of the European Parliament and of the Council of 31 March 2004 on setting standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells (OJ L 102, 7.4.2004, p. 48);
+
+(iii) Directive 2010/53/EU of the European Parliament and of the Council of 7 July 2010 on standards of quality and safety of human organs intended for transplantation (OJ L 207, 6.8.2010, p. 14).
+
+2. Measures setting high standards of quality and safety for medicinal products and devices of medical use, as regulated by:
+
+(i) Regulation (EC) No 141/2000 of the European Parliament and of the Council of 16 December 1999 on orphan medicinal products (OJ L 18, 22.1.2000, p. 1);
+
+(ii) Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use (OJ L 311, 28.11.2001, p. 67);
+
+(iii) Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (OJ L 4, 7.1.2019, p. 43);
+
+(iv) Regulation (EC) No 726/2004 of the European Parliament and of the Council of 31 March 2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency (OJ L 136, 30.4.2004, p. 1);
+
+(v) Regulation (EC) No 1901/2006 of the European Parliament and of the Council of 12 December 2006 on medicinal products for paediatric use and amending Regulation (EEC) No 1768/92, Directive 2001/20/EC, Directive 2001/83/EC and Regulation (EC) No 726/2004 (OJ L 378, 27.12.2006, p. 1);
+
+(vi) Regulation (EC) No 1394/2007 of the European Parliament and of the Council of 13 November 2007 on advanced therapy medicinal products and amending Directive 2001/83/EC and Regulation (EC) No 726/2004 (OJ L 324, 10.12.2007, p. 121);
+
+(vii) Regulation (EU) No 536/2014 of the European Parliament and of the Council of 16 April 2014 on clinical trials on medicinal products for human use, and repealing Directive 2001/20/EC (OJ L 158, 27.5.2014, p. 1).
+
+3. Patients' rights, as regulated by Directive 2011/24/EU of the European Parliament and of the Council of 9 March 2011 on the application of patients' rights in cross-border healthcare (OJ L 88, 4.4.2011, p. 45).
+
+4. Manufacture, presentation and sale of tobacco and related products, as regulated by Directive 2014/40/EU of the European Parliament and of the Council of 3 April 2014 on the approximation of the laws, regulations and administrative provisions of the Member States concerning the manufacture, presentation and sale of tobacco and related products and repealing Directive 2001/37/EC (OJ L 127, 29.4.2014, p. 1).
+
+I. **Point (a)(ix) of Article 2(1) — consumer protection:**
+
+Consumer rights and consumer protection, as regulated by:
+
+(i) Directive 98/6/EC of the European Parliament and of the Council of 16 February 1998 on consumer protection in the indication of the prices of products offered to consumers (OJ L 80, 18.3.1998, p. 27);
+
+(ii) Directive (EU) 2019/770 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the supply of digital content and digital services (OJ L 136, 22.5.2019, p. 1);
+
+(iii) Directive (EU) 2019/771 of the European Parliament and of the Council of 20 May 2019 on certain aspects concerning contracts for the sale of goods, amending Regulation (EU) 2017/2394 and Directive 2009/22/EC, and repealing Directive 1999/44/EC (OJ L 136, 22.5.2019, p. 28);
+
+(iv) Directive 1999/44/EC of the European Parliament and of the Council of 25 May 1999 on certain aspects of the sale of consumer goods and associated guarantees (OJ L 171, 7.7.1999, p. 12);
+
+(v) Directive 2002/65/EC of the European Parliament and of the Council of 23 September 2002 concerning the distance marketing of consumer financial services and amending Council Directive 90/619/EEC and Directives 97/7/EC and 98/27/EC (OJ L 271, 9.10.2002, p. 16);
+
+(vi) Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market and amending Council Directive 84/450/EEC, Directives 97/7/EC, 98/27/EC and 2002/65/EC of the European Parliament and of the Council and Regulation (EC) No 2006/2004 of the European Parliament and of the Council (‘Unfair Commercial Practices Directive’) (OJ L 149, 11.6.2005, p. 22);
+
+(vii) Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers and repealing Council Directive 87/102/EEC (OJ L 133, 22.5.2008, p. 66);
+
+(viii) Directive 2011/83/EU of the European Parliament and of the Council of 25 October 2011 on consumer rights, amending Council Directive 93/13/EEC and Directive 1999/44/EC of the European Parliament and of the Council and repealing Council Directive 85/577/EEC and Directive 97/7/EC of the European Parliament and of the Council (OJ L 304, 22.11.2011, p. 64);
+
+(ix) Directive 2014/92/EU of the European Parliament and of the Council of 23 July 2014 on the comparability of fees related to payment accounts, payment account switching and access to payment accounts with basic features (OJ L 257, 28.8.2014, p. 214).
+
+J. **Point (a)(x) of Article 2(1) — protection of privacy and personal data, and security of network and information systems:**
+
+(i) Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (OJ L 201, 31.7.2002, p. 37);
+
+(ii) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1);
+
+(iii) Directive (EU) 2016/1148 of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union (OJ L 194, 19.7.2016, p. 1).
+
+**Part II**
+
+Article 3(1) refers to the following Union legislation:
+
+A. **Point (a)(ii) of Article 2(1) — financial services, products and markets, and prevention of money laundering and terrorist financing:**
+
+1. Financial services:
+
+(i) Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32);
+
+(ii) Directive (EU) 2016/2341 of the European Parliament and of the Council of 14 December 2016 on the activities and supervision of institutions for occupational retirement provision (IORPs) (OJ L 354, 23.12.2016, p. 37);
+
+(iii) Directive 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statutory audits of annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, p. 87);
+
+(iv) Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC (OJ L 173, 12.6.2014, p. 1);
+
+(v) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338);
+
+(vi) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349);
+
+(vii) Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 (OJ L 257, 28.8.2014, p. 1);
+
+(viii) Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) (OJ L 352, 9.12.2014, p. 1);
+
+(ix) Regulation (EU) 2015/2365 of the European Parliament and of the Council of 25 November 2015 on transparency of securities financing transactions and of reuse and amending Regulation (EU) No 648/2012 (OJ L 337, 23.12.2015, p. 1);
+
+(x) Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution (OJ L 26, 2.2.2016, p. 19);
+
+(xi) Regulation (EU) 2017/1129 of the European Parliament and of the Council of 14 June 2017 on the prospectus to be published when securities are offered to the public or admitted to trading on a regulated market, and repealing Directive 2003/71/EC (OJ L 168, 30.6.2017, p. 12).
+
+2. Prevention of money laundering and terrorist financing:
+
+(i) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73);
+
+(ii) Regulation (EU) 2015/847 of the European Parliament and of the Council of 20 May 2015 on information accompanying transfers of funds and repealing Regulation (EC) No 1781/2006 (OJ L 141, 5.6.2015, p. 1).
+
+B. **Point (a)(iv) of Article 2(1) — transport safety:**
+
+(i) Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007 (OJ L 122, 24.4.2014, p. 18);
+
+(ii) Directive 2013/54/EU of the European Parliament and of the Council of 20 November 2013 concerning certain flag State responsibilities for compliance with and enforcement of the Maritime Labour Convention, 2006 (OJ L 329, 10.12.2013, p. 1);
+
+(iii) Directive 2009/16/EC of the European Parliament and of the Council of 23 April 2009 on port State control (OJ L 131, 28.5.2009, p. 57).
+
+C. **Point (a)(v) of Article 2(1) — protection of the environment:**
+
+(i) Directive 2013/30/EU of the European Parliament and of the Council of 12 June 2013 on safety of offshore oil and gas operations and amending Directive 2004/35/EC (OJ L 178, 28.6.2013, p. 66).
+
+(1) Directive 2008/52/EC of the European Parliament and of the Council of 21 May 2008 on certain aspects of mediation in civil and commercial matters (OJ L 136, 24.5.2008, p. 3).

@@ -2,20 +2,36 @@
   "lex_work_id": "eu-eurlex:32022l2555",
   "title": "NIS2 — Directive (EU) 2022/2555",
   "languages": [
-    "en"
+    "en",
+    "fr"
   ],
   "versions": [
+    {
+      "valid_from": "2022-12-14",
+      "valid_to": "2022-12-26",
+      "language": "en",
+      "provisions": 46
+    },
+    {
+      "valid_from": "2022-12-14",
+      "valid_to": "2022-12-26",
+      "language": "fr",
+      "provisions": 46
+    },
     {
       "valid_from": "2022-12-27",
       "valid_to": null,
       "language": "en",
-      "provisions": 49
+      "provisions": 46
+    },
+    {
+      "valid_from": "2022-12-27",
+      "valid_to": null,
+      "language": "fr",
+      "provisions": 46
     }
   ],
   "anchors": [
-    "anx_i",
-    "anx_ii",
-    "anx_iii",
     "art_1",
     "art_10",
     "art_11",

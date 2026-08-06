@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0596r(03):2016-10-21",
+  "language": "en",
+  "title": "Corrigendum to Regulation (EU) No 596/2014",
+  "valid_from": "2016-10-21",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0596r(03)/versions/2016-10-21/en.xml",
+    "sha256": "1d528fed25f5921c0cfa19de0395535bf645ddacd3043fbb9c222841683e2131",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0596R%2803%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32014r0596r(03):2016-10-21#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "21.10.2016 EN Official Journal of the European Union L 287/320 Corrigendum to Regulation (EU) No 596/2014 of the European Parliament and of the Council of 16 April 2014 on market abuse (market abuse regulation) and repealing Directive 2003/6/EC of the European Parliament and of the Council and Commission Directives 2003/124/EC, 2003/125/EC and 2004/72/EC ( Official Journal of the European Union L 173 of 12 June 2014 ) On page 14, recital 76: for: ‘… market practices existing before the entry into force of this Regulation and accepted by competent authorities in accordance with Commission Regulation (EC) No 2273/2003 (1) for the purpose of applying point 2(a) of Article 1 of Directive 2003/6/EC, may remain applicable … read: ‘… market practices existing before the entry into force of this Regulation and accepted by competent authorities in accordance with Commission Directive 2004/72/EC (2) for the purpose of applying point 2(a) of Article 1 of Directive 2003/6/EC, may remain applicable … on page 19, Article 3(1)(26)(d): for: ‘(d) a legal person, trust or partnership, the managerial responsibilities of which are discharged by a person discharging managerial responsibilities or by a person referred to in point (a), (b) or (c), which is directly or indirectly controlled by such a person, which is set up for the benefit of such a person, or the economic interests of which are substantially equivalent to those of such a person;’, read: ‘(d) a legal person, trust or partnership, the managerial responsibilities of which are discharged by a person discharging managerial responsibilities or by a person referred to in point (a), (b) or (c), or which is directly or indirectly controlled by such a person, or which is set up for the benefit of such a person, or the economic interests of which are substantially equivalent to those of such a person;’; on page 53, Article 37: for: ‘Directive 2003/6/EC and Commission Directives 2004/72/EC (3), 2003/125/EC … read: ‘Directive 2003/6/EC and Commission Directives 2004/72/EC, 2003/125/EC …’. (1) Commission Regulation (EC) No 2273/2003 of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards exemptions for buy-back programmes and stabilisation of financial instruments (OJ L 336, 23.12.2003, p. 33).’, (2) Commission Directive 2004/72/EC of 29 April 2004 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards accepted market practices, the definition of inside information in relation to derivatives on commodities, the drawing up of lists of insiders, the notification of managers' transactions and the notification of suspicious transactions (OJ L 162, 30.4.2004, p. 70).’; (3) Commission Directive 2004/72/EC of 29 April 2004 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards accepted market practices, the definition of inside information in relation to derivatives on commodities, the drawing up of lists of insiders, the notification of managers' transactions and the notification of suspicious transactions (OJ L 162, 30.4.2004, p. 70).’,",
+      "text_sha256": "909a8cc60a3687d1bfb484293f789b9dc282f5c8db5377ac0887eae61bb5d0e3",
+      "md_span": {
+        "start": 614,
+        "end": 3754
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

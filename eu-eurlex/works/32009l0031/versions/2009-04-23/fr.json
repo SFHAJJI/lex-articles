@@ -1,0 +1,814 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32009l0031:2009-04-23",
+  "language": "fr",
+  "title": "Directive 2009/31/EC",
+  "valid_from": "2009-04-23",
+  "valid_to": "2012-02-16",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32009l0031/versions/2009-04-23/fr.xml",
+    "sha256": "0cfcb2303d56f1c0e4e0896b93faf38d32282b9550158284e95e9d2a3fa8fbb2",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32009L0031"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. La présente directive établit un cadre juridique pour le stockage géologique, en toute sécurité pour l’environnement, du dioxyde de carbone (CO2) afin de contribuer à la lutte contre le changement climatique.\n\n2. L’objectif du stockage géologique du CO2, en toute sécurité pour l’environnement, est le confinement permanent du CO2 de façon à prévenir et, lorsque cela est impossible, à supprimer le plus possible les effets néfastes et tout risque pour l’environnement et la santé humaine.",
+      "text_sha256": "56910b09b414f4c4fe4c05e760d83000041b201fcb1960906d628b0cffa7f0bf",
+      "md_span": {
+        "start": 571,
+        "end": 1080
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. La présente directive s’applique au stockage géologique du CO2 sur le territoire des États membres, dans leurs zones économiques exclusives et sur leurs plateaux continentaux au sens de la convention des Nations unies sur le droit de la mer (CNUDM).\n\n2. La présente directive ne s’applique pas au stockage géologique du CO2 d’une capacité de stockage totale envisagée inférieure à 100 kilotonnes, entrepris à des fins de recherche et développement ou d’expérimentation de nouveaux produits et procédés.\n\n3. Le stockage du CO2 dans un site de stockage situé dans un complexe de stockage s’étendant au-delà de la zone visée au paragraphe 1 n’est pas autorisé.\n\n4. Le stockage du CO2 dans la colonne d’eau n’est pas autorisé.",
+      "text_sha256": "e35d26eb36713c26f6b2d55a8fb363a02de94d59ba4cdcb73d974eb9b39c6a57",
+      "md_span": {
+        "start": 1113,
+        "end": 1849
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nAux fins de la présente directive, on entend par:\n\n| 1. | «stockage géologique du CO2», l’injection accompagnée du stockage de flux de CO2 dans des formations géologiques souterraines; |\n| --- | --- |\n\n| 2. | «colonne d'eau», la masse d’eau continue comprise verticalement entre la surface et les sédiments du fond; |\n| --- | --- |\n\n| 3. | «site de stockage», un volume défini au sein d’une formation géologique, utilisé pour le stockage géologique du CO2, et les installations de surface et d’injection qui y sont associées; |\n| --- | --- |\n\n| 4. | «formation géologique», une division lithostratigraphique au sein de laquelle s’observent des couches de roche distinctes pouvant faire l’objet d’une cartographie; |\n| --- | --- |\n\n| 5. | «fuite», tout dégagement de CO2 à partir du complexe de stockage; |\n| --- | --- |\n\n| 6. | «complexe de stockage», le site de stockage et le domaine géologique environnant qui est susceptible d’influer sur l’intégrité et la sécurité globales du stockage, c’est-à-dire les formations de confinement secondaires; |\n| --- | --- |\n\n| 7. | «unité hydraulique», un espace poreux lié à l’activité hydraulique, dans lequel on observe une conductibilité de pression techniquement mesurable, et qui est délimité par des barrières d’écoulement, telles que failles, dômes salins, barrières lithologiques, ou par un amenuisement ou un affleurement de la formation; |\n| --- | --- |\n\n| 8. | «exploration», l’évaluation des complexes de stockage potentiels aux fins du stockage géologique du CO2 au moyen d’activités menées dans les formations souterraines telles que des forages en vue d’obtenir des informations géologiques sur les strates contenues dans le complexe de stockage potentiel et, s’il y a lieu, la réalisation de tests d’injection afin de caractériser le site de stockage; |\n| --- | --- |\n\n| 9. | «permis d'exploration», une décision écrite et motivée autorisant l’exploration et précisant les conditions dans lesquelles elle peut avoir lieu, délivrée par l’autorité compétente conformément aux exigences de la présente directive; |\n| --- | --- |\n\n| 10. | «exploitant», toute personne physique ou morale, du secteur public ou privé, qui exploite ou contrôle le site de stockage ou qui, en vertu de la législation nationale, s’est vu déléguer un pouvoir économique déterminant à l’égard du fonctionnement technique de ce site de stockage; |\n| --- | --- |\n\n| 11. | «permis de stockage», une ou plusieurs décisions écrites et motivées autorisant le stockage géologique du CO2 dans un site de stockage par l’exploitant, et précisant les conditions dans lesquelles il peut avoir lieu, prises par l’autorité compétente conformément aux exigences de la présente directive; |\n| --- | --- |\n\n| 12. | «modification substantielle», toute modification non prévue dans le permis de stockage qui est susceptible d’avoir des effets sensibles sur l’environnement ou la santé humaine; |\n| --- | --- |\n\n| 13. | «flux de CO2», un flux de substances qui résulte des procédés de captage du CO2; |\n| --- | --- |\n\n| 14. | «déchets», les substances définies comme déchets à l’article 1er, paragraphe 1, point a), de la directive 2006/12/CE; |\n| --- | --- |\n\n| 15. | «zone de diffusion du CO2», le volume de CO2 qui diffuse dans la formation géologique; |\n| --- | --- |\n\n| 16. | «migration», le déplacement du CO2 au sein du complexe de stockage; |\n| --- | --- |\n\n| 17. | «irrégularité notable», toute irrégularité dans les opérations d’injection ou de stockage, ou concernant l’état du complexe de stockage proprement dit, qui implique un risque de fuite ou un risque pour l’environnement ou la santé humaine; |\n| --- | --- |\n\n| 18. | «risque significatif», la combinaison entre la probabilité de survenance d’un dommage et la gravité de celui-ci, qu’il est impossible de méconnaître sans remettre en cause l’objet de la présente directive pour le site de stockage concerné; |\n| --- | --- |\n\n| 19. | «mesures correctives», les mesures prises pour corriger les irrégularités notables ou pour stopper les fuites afin d’éviter ou d’arrêter le dégagement de CO2 à partir du complexe de stockage; |\n| --- | --- |\n\n| 20. | «fermeture» d’un site de stockage, l’arrêt définitif de l’injection de CO2 dans ce site de stockage; |\n| --- | --- |\n\n| 21. | «postfermeture», la période faisant suite à la fermeture d’un site de stockage, y compris la période qui suit le transfert de responsabilité à l’autorité compétente; |\n| --- | --- |\n\n| 22. | «réseau de transport», le réseau de pipelines, y compris les stations de compression associées, destiné à transporter le CO2 jusqu’au site de stockage. |\n| --- | --- |",
+      "text_sha256": "e159322fe1fbeab3c2fd8080c64dfccaa4de9b167a04986b796b66f286851a9b",
+      "md_span": {
+        "start": 1882,
+        "end": 6506
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les États membres conservent le droit de déterminer les régions au sein desquelles des sites de stockage peuvent être sélectionnés conformément aux exigences de la présente directive. Cela comprend le droit des États membres de ne pas autoriser le stockage dans certaines parties ou la totalité de leur territoire.\n\n2. Les États membres qui ont l’intention d’autoriser le stockage géologique du CO2 sur leur territoire procèdent à une évaluation de la capacité de stockage disponible dans certaines parties ou la totalité de leur territoire, notamment en autorisant l’exploration conformément à l’article 5. La Commission peut organiser un échange d’informations et des meilleures pratiques entre ces États membres, dans le cadre de l’échange d’informations prévu à l’article 27.\n\n3. La capacité d’une formation géologique à servir de site de stockage est déterminée grâce à une caractérisation et à une évaluation du complexe de stockage potentiel et des environs au regard des critères énoncés à l’annexe I.\n\n4. Une formation géologique n’est sélectionnée en tant que site de stockage que si, dans les conditions d’utilisation proposées, il n’existe pas de risque significatif de fuite ni de risque significatif pour l’environnement ou la santé.",
+      "text_sha256": "fb68d37a5e1d9a859fc04f0a959fb051047502dd095c9679555c7e0aee19919b",
+      "md_span": {
+        "start": 6539,
+        "end": 7800
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Lorsque les États membres constatent qu’une exploration est nécessaire pour obtenir les informations requises aux fins de la sélection des sites de stockage conformément à l’article 4, ils veillent à ce que cette exploration ne puisse être entreprise sans permis d’exploration.\n\nS’il y a lieu, la surveillance des tests d’injection peut être mentionnée dans le permis d’exploration.\n\n2. Les États membres veillent à ce que les procédures de délivrance des permis d’exploration soient ouvertes à toutes les entités possédant les capacités requises et à ce que les permis soient délivrés ou refusés sur la base de critères objectifs, publiés et non discriminatoires.\n\n3. La durée de validité d’un permis ne dépasse pas la durée nécessaire pour réaliser l’exploration pour laquelle il est accordé. Toutefois, les États membres peuvent proroger la validité du permis lorsque la durée qui y est indiquée est insuffisante pour mener à son terme l’exploration concernée et que celle-ci a été réalisée conformément au permis. Les permis d’exploration sont délivrés pour un volume limité.\n\n4. Le titulaire d’un permis d’exploration est le seul habilité à explorer le complexe de stockage de CO2 potentiel. Les États membres veillent à ce que des usages incompatibles du complexe ne soient pas autorisés durant la période de validité du permis.",
+      "text_sha256": "4be60eda53a65b47f878b41a503f43468fec0f69f4f6b8207590c08dab16bfc2",
+      "md_span": {
+        "start": 7833,
+        "end": 9181
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Les États membres veillent à ce qu’aucun site de stockage ne soit exploité sans permis de stockage, à ce qu’il n’y ait qu’un seul exploitant par site de stockage et à ce que des usages incompatibles du complexe ne soient pas autorisés sur le site.\n\n2. Les États membres veillent à ce que les procédures de délivrance des permis de stockage soient ouvertes à toutes les entités possédant les capacités requises et à ce que les permis soient délivrés sur la base de critères objectifs, publiés et transparents.\n\n3. Sans préjudice des exigences de la présente directive, le permis de stockage relatif à un site donné est accordé en priorité au titulaire du permis d’exploration de ce site, à condition que l’exploration du site en question soit achevée, que toutes les conditions prévues dans le permis d’exploration aient été respectées et que la demande de permis de stockage soit déposée pendant la période de validité du permis d’exploration. Les États membres veillent à ce que des usages incompatibles du complexe ne soient pas autorisés durant la procédure de délivrance du permis.",
+      "text_sha256": "dc4570ff98f9fef7ecff2571274c0ce40fc8ee4224175dcdba72f1267e55b9ff",
+      "md_span": {
+        "start": 9214,
+        "end": 10313
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nLes demandes de permis de stockage adressées à l’autorité compétente comprennent au minimum les renseignements suivants:\n\n| 1. | le nom et l’adresse de l’exploitant potentiel; |\n| --- | --- |\n\n| 2. | la preuve de la compétence technique de l’exploitant potentiel; |\n| --- | --- |\n\n| 3. | la caractérisation du site de stockage et du complexe de stockage et l’évaluation de la sécurité probable du stockage conformément à l’article 4, paragraphes 3 et 4; |\n| --- | --- |\n\n| 4. | la quantité totale de CO2 à injecter et à stocker, ainsi que les sources et les méthodes de transport envisagées, la composition des flux de CO2, les débits et pressions d’injection et l’emplacement des installations d’injection; |\n| --- | --- |\n\n| 5. | une description de mesures visant à prévenir des irrégularités notables; |\n| --- | --- |\n\n| 6. | une proposition de plan de surveillance conformément à l’article 13, paragraphe 2; |\n| --- | --- |\n\n| 7. | une proposition de mesures correctives conformément à l’article 16, paragraphe 2; |\n| --- | --- |\n\n| 8. | une proposition de plan de postfermeture provisoire conformément à l’article 17, paragraphe 3; |\n| --- | --- |\n\n| 9. | les informations fournies conformément à l’article 5 de la directive 85/337/CEE; |\n| --- | --- |\n\n| 10. | la preuve que la garantie financière ou toute autre disposition équivalente prévue à l’article 19 sera valable et effective avant le commencement de l’injection. |\n| --- | --- |",
+      "text_sha256": "2640e6a3b656684e85006f7b67558c3f8789ffdddf7396b4cfb6ab06a3155d0a",
+      "md_span": {
+        "start": 10346,
+        "end": 11801
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nL’autorité compétente ne délivre un permis de stockage que si les conditions suivantes sont réunies:\n\n| 1. | l’autorité compétente, sur la base de la demande présentée conformément à l’article 7 et de toute autre information pertinente, s’est assurée que:a)toutes les exigences applicables de la présente directive et des autres dispositions législatives communautaires pertinentes sont respectées;b)les finances de l’exploitant sont saines et ce dernier est fiable et techniquement compétent pour exploiter et contrôler le site, et le perfectionnement et la formation professionnels et techniques de l’exploitant et de tous les membres du personnel sont assurés;c)lorsqu’une unité hydraulique compte plus d’un site de stockage, les interactions potentielles de pression sont telles que les deux sites peuvent satisfaire simultanément aux exigences de la présente directive; |\n| --- | --- |\n| a) | toutes les exigences applicables de la présente directive et des autres dispositions législatives communautaires pertinentes sont respectées; |\n| b) | les finances de l’exploitant sont saines et ce dernier est fiable et techniquement compétent pour exploiter et contrôler le site, et le perfectionnement et la formation professionnels et techniques de l’exploitant et de tous les membres du personnel sont assurés; |\n| c) | lorsqu’une unité hydraulique compte plus d’un site de stockage, les interactions potentielles de pression sont telles que les deux sites peuvent satisfaire simultanément aux exigences de la présente directive; |\n\n| 2. | l’autorité compétente a pris en considération tout avis de la Commission sur le projet de permis rendu conformément à l’article 10. |\n| --- | --- |",
+      "text_sha256": "1baf2315be2e837a6b50996b5dc9f5cce54e1653292b4dfb91f8c47c298e2687",
+      "md_span": {
+        "start": 11834,
+        "end": 13534
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nLe permis contient au moins les éléments ci-après:\n\n| 1. | le nom et l’adresse de l’exploitant; |\n| --- | --- |\n\n| 2. | l’emplacement et la délimitation précis du site de stockage et du complexe de stockage, et des éléments d’information relatifs à l’unité hydraulique; |\n| --- | --- |\n\n| 3. | les conditions à remplir pour l’opération de stockage, la quantité totale de CO2 dont le stockage géologique est autorisé, les limites de pression du réservoir et les débits et pressions d’injection maximaux; |\n| --- | --- |\n\n| 4. | les exigences concernant la composition du flux de CO2 et la procédure d’acceptation du flux de CO2 conformément à l’article 12, et, le cas échéant, les autres exigences pour l’injection et le stockage, visant en particulier à prévenir des irrégularités notables; |\n| --- | --- |\n\n| 5. | le plan de surveillance approuvé, l’obligation de mettre en œuvre le plan et les exigences d’actualisation du plan conformément à l’article 13, ainsi que les exigences en matière d’informations à fournir conformément à l’article 14; |\n| --- | --- |\n\n| 6. | l’obligation d’informer l’autorité compétente en cas de fuite ou d’irrégularité notable, le plan de mesures correctives approuvé et l’obligation de le mettre en œuvre en cas de fuite ou d’irrégularité notable, conformément à l’article 16; |\n| --- | --- |\n\n| 7. | les conditions de fermeture et le plan de postfermeture provisoire approuvé visé à l’article 17; |\n| --- | --- |\n\n| 8. | toutes dispositions relatives à la modification, au réexamen, à l’actualisation et au retrait du permis de stockage conformément à l’article 11; |\n| --- | --- |\n\n| 9. | l’obligation d’établir et de maintenir la garantie financière ou toute autre disposition équivalente conformément à l’article 19. |\n| --- | --- |",
+      "text_sha256": "baf6f3230decef19e7dbbf0b0fbc14c4a890e65a72f59fb55c93276b3dcd089b",
+      "md_span": {
+        "start": 13567,
+        "end": 15348
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Les États membres mettent à la disposition de la Commission les demandes de permis dans un délai d’un mois après leur réception. Ils fournissent également toute autre documentation y afférente que l’autorité compétente prend en compte lorsqu’elle s’efforce de prendre une décision sur l’octroi d’un permis de stockage. Ils transmettent à la Commission tous les projets de permis de stockage et toute autre documentation ayant été prise en considération pour l’adoption du projet de décision. Dans un délai de quatre mois après réception du projet de permis de stockage, la Commission peut émettre un avis non contraignant sur ce dernier. Si la Commission décide de ne pas rendre d’avis, elle en informe l’État membre dans un délai d’un mois à compter de la transmission du projet de permis et motive sa décision.\n\n2. L’autorité compétente notifie sa décision finale à la Commission, en la justifiant si elle s’écarte de l’avis de la Commission.",
+      "text_sha256": "5f870e833e8b60b4d127dc4a4c6960998b64c4be3ea1c4aa46c5c097c0e99a91",
+      "md_span": {
+        "start": 15383,
+        "end": 16342
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. L’exploitant informe l’autorité compétente de tout changement prévu dans l’exploitation d’un site de stockage, y compris des changements qui le concernent. Le cas échéant, l’autorité compétente actualise le permis de stockage ou les conditions dont il est assorti.\n\n2. Les États membres veillent à ce qu’aucune modification substantielle ne soit effectuée sans qu’un nouveau permis de stockage ou un permis de stockage actualisé ait été délivré conformément à la présente directive. L’annexe II, point 13, premier tiret, de la directive 85/337/CEE s’applique dans de tels cas.\n\n3. L’autorité compétente réexamine et, si nécessaire, actualise ou, en dernier recours, retire le permis de stockage:\n\n| a) | lorsque des fuites ou des irrégularités notables lui ont été notifiées ou ont été portées à sa connaissance conformément à l’article 16, paragraphe 1; |\n| --- | --- |\n\n| b) | s’il ressort des rapports présentés en application de l’article 14 ou des inspections environnementales effectuées en application de l’article 15 que les conditions dont le permis est assorti ne sont pas respectées ou qu’il existe des risques de fuite ou d’irrégularité notable; |\n| --- | --- |\n\n| c) | lorsqu’elle est informée de tout autre manquement de l’exploitant par rapport aux conditions stipulées dans le permis; |\n| --- | --- |\n\n| d) | si cela apparaît nécessaire d’après les dernières constatations scientifiques et évolutions technologiques; ou |\n| --- | --- |\n\n| e) | sans préjudice des points a) à d), cinq ans après la date de délivrance du permis, puis tous les dix ans. |\n| --- | --- |\n\n4. Après le retrait d’un permis conformément au paragraphe 3, l’autorité compétente délivre un nouveau permis de stockage ou ferme le site de stockage conformément à l’article 17, paragraphe 1, point c). Jusqu’à ce qu’un nouveau permis de stockage soit délivré, l’autorité compétente assume temporairement toutes les obligations légales en rapport avec les critères d’acceptation lorsqu’elle décide de poursuivre les injections de CO2, la surveillance et les mesures correctives conformément aux exigences de la présente directive, la restitution de quotas en cas de fuite conformément à la directive 2003/87/CE, et les actions de prévention et de réparation conformément à l’article 5, paragraphe 1, et à l’article 6, paragraphe 1, de la directive 2004/35/CE. L’autorité compétente récupère tous les frais engagés auprès de l’ancien exploitant, y compris en recourant à la garantie financière visée à l’article 19. En cas de fermeture du site de stockage conformément à l’article 17, paragraphe 1, point c), l’article 17, paragraphe 4, s’applique.",
+      "text_sha256": "6b0552086eee6fd240adca98ce65ddc26e9a492772327c207880a17bbb17c17f",
+      "md_span": {
+        "start": 16377,
+        "end": 19023
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Un flux de CO2 est majoritairement composé de dioxyde de carbone. À cet effet, aucun déchet ni aucune autre matière ne peut y être ajouté en vue de son élimination. Cependant, un flux de CO2 peut contenir des substances qui se sont accidentellement associées dès la source ou lors des opérations de captage ou d’injection et des substances traces peuvent y être ajoutées afin d’aider à contrôler et à vérifier la migration du CO2. Les concentrations de toutes les substances associées par accident ou ajoutées sont inférieures aux niveaux qui seraient susceptibles:\n\n| a) | de compromettre l’intégrité du site de stockage ou des infrastructures de transport appropriées; |\n| --- | --- |\n\n| b) | de présenter un risque significatif pour l’environnement ou la santé humaine; ou |\n| --- | --- |\n\n| c) | d’enfreindre les dispositions de la législation communautaire applicable. |\n| --- | --- |\n\n2. La Commission adopte, si nécessaire, des lignes directrices permettant de définir les conditions applicables au cas par cas pour le respect des critères fixés au paragraphe 1.\n\n3. Les États membres veillent à ce que l’exploitant:\n\n| a) | n’accepte des flux de CO2 et ne procède à leur injection que s’il a été procédé à une analyse de leur composition, y compris des substances corrosives, et à une évaluation des risques, et si cette dernière a établi que les niveaux de contamination sont conformes aux conditions visées au paragraphe 1; |\n| --- | --- |\n\n| b) | tienne un registre des quantités et des propriétés des flux de CO2 livrés et injectés, y compris la composition de ces flux. |\n| --- | --- |",
+      "text_sha256": "198acaf556a1285fb8df74b39ea3c5189373b233eb4b3d78199fa7eee5009224",
+      "md_span": {
+        "start": 19058,
+        "end": 20671
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Les États membres veillent à ce que l’exploitant procède à la surveillance des installations d’injection, du complexe de stockage (y compris si possible de la zone de diffusion du CO2) et, s’il y a lieu, du milieu environnant, afin de:\n\n| a) | comparer le comportement réel du CO2 et de l’eau de formation dans le site de stockage à la modélisation de ce comportement; |\n| --- | --- |\n\n| b) | détecter les irrégularités notables; |\n| --- | --- |\n\n| c) | détecter la migration de CO2; |\n| --- | --- |\n\n| d) | détecter les fuites de CO2; |\n| --- | --- |\n\n| e) | détecter des effets délétères manifestes sur le milieu environnant, y compris en particulier sur l’eau potable, pour les populations humaines ou pour les utilisateurs de la biosphère environnante; |\n| --- | --- |\n\n| f) | évaluer l’efficacité des mesures correctives prises en vertu de l’article 16; |\n| --- | --- |\n\n| g) | mettre à jour l’évaluation de la sécurité et de l’intégrité du complexe de stockage à court et à long terme, y compris en déterminant si le CO2 stocké restera confiné parfaitement et en permanence. |\n| --- | --- |\n\n2. La surveillance est basée sur un plan de surveillance établi par l’exploitant conformément aux exigences énoncées à l’annexe II, qui comprend des données détaillées sur la surveillance conformément aux lignes directrices établies en vertu de l’article 14 et de l’article 23, paragraphe 2, de la directive 2003/87/CE, est soumis à l’autorité compétente et est approuvé par cette dernière, en application de l’article 7, point 6), et de l’article 9, point 5), de la présente directive. Ce plan est mis à jour conformément aux exigences énoncées à l’annexe II et, en tout état de cause, tous les cinq ans pour tenir compte de l’évolution du risque de fuite évalué, de l’évolution des risques évalués pour l’environnement et la santé humaine, des nouvelles connaissances scientifiques et des améliorations dans les meilleures technologies disponibles. Les plans mis à jour sont à nouveau soumis à l’approbation de l’autorité compétente.",
+      "text_sha256": "bdd96c2ba5004f62127468017f75998bf268ccab92f32309ec714ad4ae83f745",
+      "md_span": {
+        "start": 20706,
+        "end": 22754
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nSelon une périodicité déterminée par l’autorité compétente et, en tout état de cause, au moins une fois par an, l’exploitant communique à l’autorité compétente:\n\n| 1. | tous les résultats de la surveillance réalisée conformément à l’article 13 durant la période considérée, y compris les informations sur les techniques de surveillance employées; |\n| --- | --- |\n\n| 2. | les quantités et les propriétés des flux de CO2 livrés et injectés, y compris la composition de ces flux, au cours de la période considérée, enregistrées conformément à l’article 12, paragraphe 3, point b); |\n| --- | --- |\n\n| 3. | la preuve de la mise en place et du maintien de la garantie financière, conformément à l’article 19 et à l’article 9, point 9); |\n| --- | --- |\n\n| 4. | toute autre information jugée utile par l’autorité compétente pour évaluer le respect des conditions stipulées dans le permis de stockage et pour améliorer la connaissance du comportement du CO2 dans le site de stockage. |\n| --- | --- |",
+      "text_sha256": "262242856d672b4b6b1b6a117dc4f3783b3ae9d14dd81f3b2736f0ef386c8179",
+      "md_span": {
+        "start": 22789,
+        "end": 23791
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Les États membres veillent à ce que les autorités compétentes mettent en place un système d’inspections de routine ou ponctuelles sur tous les complexes de stockage relevant de la présente directive, afin de contrôler et de favoriser le respect des exigences de cette dernière et de surveiller les effets sur l’environnement et la santé humaine.\n\n2. Les inspections devraient comprendre des activités telles que des visites des installations de surface, y compris des installations d’injection, l’évaluation des opérations d’injection et de surveillance réalisées par l’exploitant et la vérification de tous les dossiers conservés par l’exploitant.\n\n3. Des inspections de routine sont effectuées au moins une fois par an jusqu’à trois ans après la fermeture et tous les cinq ans jusqu’au transfert de la responsabilité à l’autorité compétente. Elles portent sur les installations d’injection et de surveillance, et passent en revue tous les effets que le complexe de stockage est susceptible d’avoir sur l’environnement et la santé humaine.\n\n4. Des inspections ponctuelles sont réalisées:\n\n| a) | lorsque des fuites ou des irrégularités notables ont été notifiées à l’autorité compétente ou ont été portées à sa connaissance conformément à l’article 16, paragraphe 1; |\n| --- | --- |\n\n| b) | lorsque les rapports visés à l’article 14 ont montré que les conditions stipulées dans les permis n’étaient pas bien respectées; |\n| --- | --- |\n\n| c) | afin d’examiner les plaintes sérieuses relatives à l’environnement ou à la santé humaine; |\n| --- | --- |\n\n| d) | dans d’autres cas si l’autorité compétente le juge utile. |\n| --- | --- |\n\n5. Après chaque inspection, l’autorité compétente établit un rapport relatif aux résultats de l’inspection. Ce rapport évalue le respect des exigences de la présente directive et indique s’il y a lieu de prendre d’autres mesures. Il est transmis à l’exploitant concerné et est rendu public, conformément à la législation communautaire applicable, dans les deux mois suivant l’inspection.",
+      "text_sha256": "67973c210f198cfe802efbf04d4c1c53218a305ae4010245cd0a70e4b5ed9d3b",
+      "md_span": {
+        "start": 23826,
+        "end": 25862
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Les États membres veillent à ce que l’exploitant, en cas de fuite ou d’irrégularité notable, informe immédiatement l’autorité compétente et prenne les mesures correctives nécessaires, notamment des mesures ayant trait à la protection de la santé humaine. En cas de fuite ou d’irrégularité notable impliquant un risque de fuite, l’exploitant informe également l’autorité compétente conformément à la directive 2003/87/CE.\n\n2. Les mesures correctives visées au paragraphe 1 sont prises au minimum sur la base d’un plan de mesures correctives soumis à l’autorité compétente et approuvé par cette dernière conformément à l’article 7, point 7), et à l’article 9, point 6).\n\n3. L’autorité compétente peut à tout moment exiger que l’exploitant prenne les mesures correctives nécessaires ainsi que les mesures liées à la protection de la santé humaine. Il peut s’agir de mesures supplémentaires ou différentes de celles prévues dans le plan de mesures correctives. L’autorité compétente peut aussi prendre elle-même, à tout moment, des mesures correctives.\n\n4. Si l’exploitant ne prend pas les mesures correctives nécessaires, l’autorité compétente prend elle-même ces mesures.\n\n5. L’autorité compétente récupère, auprès de l’exploitant, les frais engagés dans le cadre des mesures visées aux paragraphes 3 et 4, y compris en recourant à la garantie financière prévue à l’article 19.",
+      "text_sha256": "02d8035aa6fe8cd098deaa7b3aa3299a9244d3f25a609a7b1dd24dd25f90603d",
+      "md_span": {
+        "start": 25897,
+        "end": 27287
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. Un site de stockage est fermé:\n\n| a) | si les conditions stipulées dans le permis sont réunies; |\n| --- | --- |\n\n| b) | à la demande justifiée de l’exploitant, après autorisation de l’autorité compétente; ou |\n| --- | --- |\n\n| c) | si l’autorité compétente le décide après retrait du permis de stockage conformément à l’article 11, paragraphe 3. |\n| --- | --- |\n\n2. Après la fermeture d’un site de stockage en vertu du paragraphe 1, point a) ou b), l’exploitant demeure responsable de la surveillance, de la communication d’informations et des mesures correctives, conformément aux exigences de la présente directive, et continue à assumer toutes les obligations concernant la restitution de quotas en cas de fuite conformément à la directive 2003/87/CE, et les actions de prévention et de réparation conformément aux articles 5 à 8 de la directive 2004/35/CE, jusqu’à ce que la responsabilité du site de stockage soit transférée à l’autorité compétente conformément à l’article 18, paragraphes 1 à 5, de la présente directive. L’exploitant est également responsable du scellement du site de stockage et du démontage des installations d’injection.\n\n3. Les obligations visées au paragraphe 2 sont remplies sur la base d’un plan de postfermeture établi par l’exploitant d’après les meilleures pratiques et conformément aux exigences énoncées à l’annexe II. Un plan de postfermeture provisoire est soumis à l’autorité compétente pour approbation conformément à l’article 7, point 8), et à l’article 9, point 7). Préalablement à la fermeture d’un site de stockage en vertu du paragraphe 1, point a) ou b), du présent article, le plan de postfermeture provisoire est:\n\n| a) | mis à jour en fonction des besoins, compte tenu de l’analyse des risques, des meilleures pratiques et des améliorations technologiques; |\n| --- | --- |\n\n| b) | soumis à l’autorité compétente pour approbation; et |\n| --- | --- |\n\n| c) | approuvé par l’autorité compétente en tant que plan de postfermeture définitif. |\n| --- | --- |\n\n4. Après la fermeture d’un site de stockage en vertu du paragraphe 1, point c), l’autorité compétente est responsable de la surveillance et des mesures correctives conformément aux exigences de la présente directive, et assume toutes les obligations concernant la restitution de quotas en cas de fuite conformément à la directive 2003/87/CE, et les actions de prévention et de réparation conformément à l’article 5, paragraphe 1, et à l’article 6, paragraphe 1, de la directive 2004/35/CE. L’autorité compétente respecte les exigences de postfermeture requises par la présente directive, sur la base du plan de postfermeture provisoire visé au paragraphe 3 du présent article, qui est mis à jour en fonction des besoins.\n\n5. L’autorité compétente récupère, auprès de l’exploitant, les frais engagés dans le cadre des mesures visées au paragraphe 4, y compris en recourant à la garantie financière prévue à l’article 19.",
+      "text_sha256": "e110dff42e71eaf63d13cad7c833dbec86d1364a65cc6b9caeefcef80c1d90bb",
+      "md_span": {
+        "start": 27322,
+        "end": 30260
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Lorsqu’un site de stockage a été fermé en vertu de l’article 17, paragraphe 1, point a) ou b), toutes les obligations légales concernant la surveillance et les mesures correctives conformément aux exigences de la présente directive, la restitution de quotas en cas de fuite conformément à la directive 2003/87/CE, et les actions de prévention et de réparation conformément à l’article 5, paragraphe 1, et à l’article 6, paragraphe 1, de la directive 2004/35/CE sont transférées à l’autorité compétente à l’initiative de cette dernière ou à la demande de l’exploitant, si les conditions suivantes sont remplies:\n\n| a) | tous les éléments disponibles tendent à prouver que le CO2 stocké restera confiné parfaitement et en permanence; |\n| --- | --- |\n\n| b) | une période minimale à définir par l’autorité compétente s’est écoulée. La durée de cette période minimale ne peut être inférieure à vingt ans, sauf si l’autorité compétente est convaincue que le critère visé au point a) est respecté avant la fin de cette période; |\n| --- | --- |\n\n| c) | les obligations financières visées à l’article 20 ont été respectées; |\n| --- | --- |\n\n| d) | il a été procédé au scellement du site et au démontage des installations d’injection. |\n| --- | --- |\n\n2. L’exploitant établit un rapport démontrant que la condition énoncée au paragraphe 1, point a), a été respectée, et le soumet à l’autorité compétente pour qu’elle approuve le transfert de responsabilité. Ce rapport démontre au moins ce qui suit:\n\n| a) | le comportement réel du CO2 injecté est conforme au comportement modélisé; |\n| --- | --- |\n\n| b) | il n’y a pas de fuite détectable; |\n| --- | --- |\n\n| c) | le site de stockage évolue vers une situation de stabilité à long terme. |\n| --- | --- |\n\nLa Commission peut adopter des lignes directrices concernant l’évaluation des éléments visés au premier alinéa, points a), b) et c), en y soulignant les éventuelles implications pour les critères techniques à prendre en considération pour définir la période minimale visée au paragraphe 1, point b).\n\n3. Après s’être assurée que les conditions visées au paragraphe 1, points a) et b), sont respectées, l’autorité compétente établit un projet de décision d’approbation du transfert de responsabilité. Ce projet de décision précise la méthode à utiliser pour déterminer que les conditions visées au paragraphe 1, point d), sont remplies, et contient d’éventuelles exigences actualisées pour le scellement du site de stockage et pour le démontage des installations d’injection.\n\nSi l’autorité compétente estime que les conditions visées au paragraphe 1, points a) et b), ne sont pas respectées, elle en communique les raisons à l’exploitant.\n\n4. Les États membres mettent à la disposition de la Commission les rapports visés au paragraphe 2 dans un délai d’un mois après leur réception. Ils fournissent également toute autre documentation y afférente que l’autorité compétente prend en considération lorsqu’elle prépare un projet de décision d’approbation sur le transfert de responsabilité. Ils transmettent à la Commission tous les projets de décisions d’approbation établis par l’autorité compétente conformément au paragraphe 3, et toute autre documentation ayant été prise en considération pour parvenir à leur conclusion. Dans un délai de quatre mois après réception du projet de décision d’approbation, la Commission peut émettre un avis non contraignant sur celui-ci. Si la Commission décide de ne pas rendre d’avis, elle en informe l’État membre dans un délai d’un mois à compter de la transmission du projet de décision d’approbation et motive sa décision.\n\n5. Après s’être assurée que les conditions visées au paragraphe 1, points a) à d), sont respectées, l’autorité compétente adopte la décision finale et la notifie à l’exploitant. L’autorité compétente notifie également la décision finale à la Commission, en la justifiant si elle s’écarte de l’avis de la Commission.\n\n6. Une fois le transfert de responsabilité intervenu, les inspections de routine prévues à l’article 15, paragraphe 3, cessent et la surveillance peut être réduite à un niveau permettant la détection des fuites ou des irrégularités notables. Si des fuites ou des irrégularités notables sont détectées, la surveillance est intensifiée suivant les besoins, afin de déterminer l’ampleur du problème et l’efficacité des mesures correctives.\n\n7. En cas de faute de la part de l’exploitant, y compris en cas d’insuffisance des données, de dissimulation d’informations pertinentes, de négligence, de tromperie délibérée ou de manque de diligence, l’autorité compétente récupère, auprès de l’ancien exploitant, les frais engagés après que le transfert de responsabilité a eu lieu. Sans préjudice de l’article 20, il n’y a pas d’autre récupération de frais après le transfert de responsabilité.\n\n8. Lorsqu’un site de stockage a été fermé en vertu de l’article 17, paragraphe 1, point c), le transfert de responsabilité est considéré comme effectif dès lors que tous les éléments disponibles tendent à prouver que le CO2 stocké sera confiné parfaitement et en permanence et que le site a été scellé et les installations d’injection démontées.",
+      "text_sha256": "59838ec35b9f1590b6945d5640ea598750406d0d9d1c37b99442b3cb9a920dc4",
+      "md_span": {
+        "start": 30295,
+        "end": 35469
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Les États membres veillent à ce que l’exploitant potentiel, dans le cadre de sa demande de permis de stockage, présente la preuve que des dispositions appropriées peuvent être prises, sous la forme d’une garantie financière ou de toute autre disposition équivalente, suivant des modalités à définir par les États membres, afin de garantir que toutes les obligations découlant du permis délivré conformément à la présente directive, y compris les exigences de fermeture et de postfermeture, ainsi que les obligations résultant de l’inclusion du site de stockage dans la directive 2003/87/CE, pourront être respectées. Cette garantie financière est valable et effective avant le commencement de l’injection.\n\n2. La garantie financière est périodiquement adaptée pour tenir compte de l’évolution du risque de fuite évalué et des coûts estimés de toutes les obligations découlant du permis délivré conformément à la présente directive, ainsi que de toutes les obligations résultant de l’inclusion du site de stockage dans la directive 2003/87/CE.\n\n3. La garantie financière ou toute autre disposition équivalente visée au paragraphe 1 reste valable et effective:\n\n| a) | après la fermeture d’un site de stockage en vertu de l’article 17, paragraphe 1, point a) ou b), jusqu’à ce que la responsabilité du site de stockage soit transférée à l’autorité compétente conformément à l’article 18, paragraphes 1 à 5; |\n| --- | --- |\n\n| b) | après le retrait d’un permis de stockage conformément à l’article 11, paragraphe 3:i)jusqu’à ce qu’un nouveau permis de stockage ait été délivré;ii)en cas de fermeture du site en vertu de l’article 17, paragraphe 1, point c), jusqu’au transfert de responsabilité conformément à l’article 18, paragraphe 8, à condition que les obligations financières visées à l’article 20 aient été respectées. |\n| --- | --- |\n| i) | jusqu’à ce qu’un nouveau permis de stockage ait été délivré; |\n| ii) | en cas de fermeture du site en vertu de l’article 17, paragraphe 1, point c), jusqu’au transfert de responsabilité conformément à l’article 18, paragraphe 8, à condition que les obligations financières visées à l’article 20 aient été respectées. |",
+      "text_sha256": "a301f5c28003e7aa2445bf9cbaa20ecbaddd61595a8cfb9afdb143824104a3fc",
+      "md_span": {
+        "start": 35504,
+        "end": 37683
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. Les États membres veillent à ce que l’exploitant mette une contribution financière à la disposition de l’autorité compétente, sur la base de modalités à arrêter par les États membres, avant que le transfert de responsabilité n’ait eu lieu conformément à l’article 18. La contribution de l’exploitant tient compte des critères visés à l’annexe I et des éléments liés à l’historique du stockage du CO2 qui sont pertinents pour établir les obligations postérieures au transfert et couvre au moins le coût prévisionnel de la surveillance pendant une période de trente ans. Cette contribution financière peut être utilisée pour couvrir les coûts supportés par l’autorité compétente après le transfert de responsabilité afin de garantir que le CO2 restera confiné parfaitement et en permanence dans les sites géologiques de stockage après le transfert de responsabilité.\n\n2. La Commission peut adopter des lignes directrices pour l’estimation des coûts visés au paragraphe 1, qu’elle élaborera en concertation avec les États membres en vue d’assurer la transparence et la prévisibilité pour les exploitants.",
+      "text_sha256": "ed83e07553c0905d8a349f6363ede18e6a17dfbf1a6e7d19af887352e578b508",
+      "md_span": {
+        "start": 37718,
+        "end": 38834
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. Les États membres prennent les mesures nécessaires pour que les utilisateurs potentiels puissent avoir accès aux réseaux de transport et aux sites de stockage aux fins du stockage géologique du CO2 produit et capté, conformément aux paragraphes 2, 3 et 4.\n\n2. L’accès visé au paragraphe 1 est fourni d’une manière transparente et non discriminatoire selon des modalités arrêtées par l’État membre. L’État membre respecte les objectifs d’un accès juste et ouvert, compte tenu:\n\n| a) | de la capacité de stockage disponible ou pouvant raisonnablement être rendue disponible dans les régions déterminées conformément à l’article 4, ainsi que de la capacité de transport disponible ou pouvant raisonnablement être rendue disponible; |\n| --- | --- |\n\n| b) | de la part de ses obligations de réduction des émissions de CO2 au titre des instruments juridiques internationaux et de la législation communautaire dont il a l’intention de s’acquitter grâce au captage et au stockage géologique du CO2; |\n| --- | --- |\n\n| c) | de la nécessité de refuser l’accès en cas d’incompatibilité des spécifications techniques ne pouvant être résolue de façon raisonnable; |\n| --- | --- |\n\n| d) | de la nécessité de respecter les besoins raisonnables et dûment justifiés du propriétaire ou de l’exploitant du site de stockage ou du réseau de transport et les intérêts de tous les autres utilisateurs du site ou du réseau ou des installations de traitement ou de manutention qui pourraient être concernés. |\n| --- | --- |\n\n3. Les exploitants des réseaux de transport et les exploitants des sites de stockage peuvent refuser l’accès en invoquant le manque de capacité. Le refus est dûment justifié.\n\n4. Les États membres prennent les mesures nécessaires pour garantir que l’exploitant qui refuse l’accès en raison d’un manque de capacité ou d’une absence de raccordement procède à tout aménagement nécessaire pour autant qu’il soit économiquement réalisable ou qu’un client potentiel soit disposé à en assumer le coût, et à condition qu’il n’en résulte pas d’incidence négative sur la sécurité du transport et du stockage géologique du CO2 du point de vue de l’environnement.",
+      "text_sha256": "2384464734af7798ac69d47f9481a0e7c8686ef5be5b7e41b5774984f57643f2",
+      "md_span": {
+        "start": 38869,
+        "end": 41035
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. Les États membres veillent à mettre en place un système de règlement des litiges, comportant une autorité indépendante des parties ayant accès à toutes les informations pertinentes, pour permettre le règlement rapide des litiges portant sur l’accès aux réseaux de transport et aux sites de stockage, compte tenu des critères visés à l’article 21, paragraphe 2, et du nombre des parties susceptibles d’intervenir dans la négociation de cet accès.\n\n2. En cas de litiges transfrontaliers, c’est le système de règlement des litiges de l’État membre de la juridiction duquel relève le réseau de transport ou le site de stockage auquel l’accès a été refusé qui s’applique. Lorsque, dans des litiges transfrontaliers, le réseau de transport ou le site de stockage concerné relève de plusieurs États membres, ces derniers se consultent pour faire en sorte que la présente directive soit appliquée de façon cohérente.",
+      "text_sha256": "623cea0573499c58119ea5fb177548eecba395d82b809644bf83237355cbf643",
+      "md_span": {
+        "start": 41070,
+        "end": 41993
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\nLes États membres établissent ou désignent la ou les autorités compétentes chargées de l’exécution des tâches définies par la présente directive. Lorsque plusieurs autorités compétentes sont désignées, les États membres définissent les modalités nécessaires à la coordination du travail desdites autorités en application de la présente directive.",
+      "text_sha256": "3ab26bd99a4cec199e9e662be4743ba7620100b8f1d0038724e62e7168173d6d",
+      "md_span": {
+        "start": 42028,
+        "end": 42386
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nEn cas de transport transfrontalier de CO2 et de sites de stockage ou de complexes de stockage transfrontaliers, les autorités compétentes des États membres concernés respectent conjointement les exigences de la présente directive et de toutes les autres dispositions de la législation communautaire applicable.",
+      "text_sha256": "52b1370c8ed1b173bf524403b3c2fa54e73fab443d07269b33b100938cec21a5",
+      "md_span": {
+        "start": 42421,
+        "end": 42744
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\n1. L’autorité compétente met en place et tient:\n\n| a) | un registre des permis de stockage accordés; et |\n| --- | --- |\n\n| b) | un registre permanent de tous les sites de stockage fermés et des complexes de stockage environnants, incluant des cartes et des sections montrant leur étendue et les informations disponibles permettant d’établir que le CO2 stocké restera confiné parfaitement et en permanence. |\n| --- | --- |\n\n2. Les autorités nationales compétentes prennent les registres visés au paragraphe 1 en considération dans les procédures de planification pertinentes et lors de l’autorisation d’activités susceptibles d’avoir des incidences sur le stockage géologique du CO2 dans les sites de stockage enregistrés, ou d’être perturbées par ce dernier.",
+      "text_sha256": "10f71926af60e794d2a6ab6450d0db6b31e163fe497151cdb4049874a7c0be05",
+      "md_span": {
+        "start": 42779,
+        "end": 43549
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\nLes États membres mettent à la disposition du public les informations environnementales relatives au stockage géologique du CO2 conformément à la législation communautaire applicable.",
+      "text_sha256": "3c3164adedd46c3e24c9977078476537a97e4e8bf329f16b4e9a3b4374fd48fc",
+      "md_span": {
+        "start": 43584,
+        "end": 43779
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_27",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 27\n\n1. Tous les trois ans, les États membres présentent à la Commission un rapport sur la mise en œuvre de la présente directive, y compris le registre visé à l’article 25, paragraphe 1, point b). Le premier rapport est transmis à la Commission le 30 juin 2011 au plus tard. Le rapport est établi sur la base d’un questionnaire ou d’un canevas préparé par la Commission conformément à la procédure visée à l’article 6 de la directive 91/692/CEE. Le questionnaire ou canevas est transmis aux États membres au moins six mois avant le délai de présentation du rapport.\n\n2. La Commission organise un échange d’informations entre les autorités compétentes des États membres au sujet de la mise en œuvre de la présente directive.",
+      "text_sha256": "3f279573d00824a0c8ab30cd729e6b77104272f6b76831d447e447f113daaa56",
+      "md_span": {
+        "start": 43814,
+        "end": 44545
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_28",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 28\n\nLes États membres déterminent le régime des sanctions applicables aux violations des dispositions nationales prises en application de la présente directive et prennent toute mesure nécessaire pour assurer la mise en œuvre de celles-ci. Les sanctions ainsi prévues doivent être effectives, proportionnées et dissuasives. Les États membres notifient ces dispositions à la Commission au plus tard le 25 juin 2011 et toute modification ultérieure les concernant dans les meilleurs délais.",
+      "text_sha256": "01cf9283906d76d3a59888edcf82772fb13415ef173970e818915bb5a9cff8e0",
+      "md_span": {
+        "start": 44580,
+        "end": 45076
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_29",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 29\n\nDes mesures peuvent être arrêtées pour modifier les annexes. Ces mesures, qui visent à modifier des éléments non essentiels de la présente directive, sont arrêtées en conformité avec la procédure de réglementation avec contrôle visée à l’article 30, paragraphe 2.",
+      "text_sha256": "e6cb4cd7b1c8b3a808ee9d44f645a1d4b35e5fc15601c1c1683b53ea9e392fdc",
+      "md_span": {
+        "start": 45111,
+        "end": 45386
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_30",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 30\n\n1. La Commission est assistée par le comité des changements climatiques.\n\n2. Dans le cas où il est fait référence au présent paragraphe, l’article 5 bis, paragraphes 1 à 4, et l’article 7 de la décision 1999/468/CE s’appliquent, dans le respect des dispositions de l’article 8 de celle-ci.",
+      "text_sha256": "8003e41ac007c7cfe3c2fb6d91834b3f37454ec90b8a142244fd6cf176b68c8f",
+      "md_span": {
+        "start": 45421,
+        "end": 45722
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_31",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 31\n\nLa directive 85/337/CEE est modifiée comme suit:\n\n| 1. | L’annexe I est modifiée comme suit:a)le point 16 est remplacé par le texte suivant:«16.Pipelines d’un diamètre supérieur à 800 millimètres et d’une longueur supérieure à 40 kilomètres:—pour le transport de gaz, de pétrole ou de produits chimiques, et—pour le transport de flux de dioxyde de carbone (CO2) en vue de leur stockage géologique, y compris les stations de compression associées.» b)les points suivants sont ajoutés:«23.Sites de stockage conformément à la directive 2009/31/CE du Parlement européen et du Conseil du 23 avril 2009 relative au stockage géologique du dioxyde de carbone(*1).24.Installations destinées au captage des flux de CO2 provenant des installations relevant de la présente annexe, en vue du stockage géologique conformément à la directive 2009/31/CE, ou qui captent annuellement une quantité totale de CO2 égale ou supérieure à 1,5 mégatonne.(*1) JO L 140 du 5.6.2009, p. 114.» \" |\n| --- | --- |\n| a) | le point 16 est remplacé par le texte suivant:«16.Pipelines d’un diamètre supérieur à 800 millimètres et d’une longueur supérieure à 40 kilomètres:—pour le transport de gaz, de pétrole ou de produits chimiques, et—pour le transport de flux de dioxyde de carbone (CO2) en vue de leur stockage géologique, y compris les stations de compression associées.» |\n| «16. | Pipelines d’un diamètre supérieur à 800 millimètres et d’une longueur supérieure à 40 kilomètres:—pour le transport de gaz, de pétrole ou de produits chimiques, et—pour le transport de flux de dioxyde de carbone (CO2) en vue de leur stockage géologique, y compris les stations de compression associées.» |\n| — | pour le transport de gaz, de pétrole ou de produits chimiques, et |\n| — | pour le transport de flux de dioxyde de carbone (CO2) en vue de leur stockage géologique, y compris les stations de compression associées.» |\n| b) | les points suivants sont ajoutés:«23.Sites de stockage conformément à la directive 2009/31/CE du Parlement européen et du Conseil du 23 avril 2009 relative au stockage géologique du dioxyde de carbone(*1).24.Installations destinées au captage des flux de CO2 provenant des installations relevant de la présente annexe, en vue du stockage géologique conformément à la directive 2009/31/CE, ou qui captent annuellement une quantité totale de CO2 égale ou supérieure à 1,5 mégatonne.(*1) JO L 140 du 5.6.2009, p. 114.» \" |\n| «23. | Sites de stockage conformément à la directive 2009/31/CE du Parlement européen et du Conseil du 23 avril 2009 relative au stockage géologique du dioxyde de carbone(*1). |\n| 24. | Installations destinées au captage des flux de CO2 provenant des installations relevant de la présente annexe, en vue du stockage géologique conformément à la directive 2009/31/CE, ou qui captent annuellement une quantité totale de CO2 égale ou supérieure à 1,5 mégatonne. |\n\n| 2. | L’annexe II est modifiée comme suit:a)au point 3, le point suivant est ajouté:«j)Installations destinées au captage des flux de CO2 provenant d’installations non couvertes par l’annexe I de la présente directive, en vue du stockage géologique conformément à la directive 2009/31/CE.»b)au point 10, le point i) est remplacé par le texte suivant:«i)Installations d’oléoducs et de gazoducs et de pipelines destinés au transport de flux de CO2 en vue de leur stockage géologique (projets non visés à l’annexe I).» |\n| --- | --- |\n| a) | au point 3, le point suivant est ajouté:«j)Installations destinées au captage des flux de CO2 provenant d’installations non couvertes par l’annexe I de la présente directive, en vue du stockage géologique conformément à la directive 2009/31/CE.» |\n| «j) | Installations destinées au captage des flux de CO2 provenant d’installations non couvertes par l’annexe I de la présente directive, en vue du stockage géologique conformément à la directive 2009/31/CE.» |\n| b) | au point 10, le point i) est remplacé par le texte suivant:«i)Installations d’oléoducs et de gazoducs et de pipelines destinés au transport de flux de CO2 en vue de leur stockage géologique (projets non visés à l’annexe I).» |\n| «i) | Installations d’oléoducs et de gazoducs et de pipelines destinés au transport de flux de CO2 en vue de leur stockage géologique (projets non visés à l’annexe I).» |",
+      "text_sha256": "4f62115f5e90b47f4413a335acc12dc83d15586a2b88202ebb9547010ace88a3",
+      "md_span": {
+        "start": 45757,
+        "end": 50051
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2009140FR.01011401-E0017",
+          "text": "(*1)"
+        },
+        {
+          "href": "#ntc*1-L_2009140FR.01011401-E0017",
+          "text": "(*1)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2009_140_R_TOC",
+          "text": "JO L 140 du 5.6.2009, p. 114"
+        }
+      ]
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_32",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 32\n\nÀ l’article 11, paragraphe 3, point j), de la directive 2000/60/CE, le tiret suivant est inséré après le troisième tiret:\n\n| «— | l’injection de flux de dioxyde de carbone aux fins de leur stockage dans des formations géologiques que la nature a rendu de façon permanente impropres à d’autres utilisations, pour autant que cette injection soit effectuée conformément à la directive 2009/31/CE du Parlement européen et du Conseil du 23 avril 2009 relative au stockage géologique du dioxyde de carbone(*1) ou exclue du champ d’application de ladite directive en vertu de son article 2, paragraphe 2; |\n| --- | --- |\n\n(*1) JO L 140 du 5.6.2009, p. 114.» \"",
+      "text_sha256": "1896a332ccc6c183a1295efd35727ca0b60945629961e9fbb433b290eb1168c7",
+      "md_span": {
+        "start": 50086,
+        "end": 50750
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2009140FR.01011401-E0017",
+          "text": "(*1)"
+        },
+        {
+          "href": "#ntc*1-L_2009140FR.01011401-E0017",
+          "text": "(*1)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2009_140_R_TOC",
+          "text": "JO L 140 du 5.6.2009, p. 114"
+        }
+      ]
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_33",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 33\n\nDans la directive 2001/80/CE, l’article suivant est inséré:\n\n«Article 9 bis\n\n1. Les États membres veillent à ce que les exploitants de toutes les installations de combustion d’une puissance électrique nominale égale ou supérieure à 300 mégawatts dont le premier permis de construire ou, en l’absence d’une telle procédure, le premier permis d’exploitation a été délivré après l’entrée en vigueur de la directive 2009/31/CE du Parlement européen et du Conseil du 23 avril 2009 relative au stockage géologique du dioxyde de carbone(*1) aient évalué si les conditions suivantes sont réunies:\n\n| — | disponibilité de sites de stockage appropriés, |\n| --- | --- |\n\n| — | faisabilité technique et économique de réseaux de transport, |\n| --- | --- |\n\n| — | faisabilité technique et économique d’une adaptation en vue du captage du CO2. |\n| --- | --- |\n\n2. Si les conditions énoncées au paragraphe 1 sont réunies, l’autorité compétente veille à ce que suffisamment d’espace soit prévu sur le site de l’installation pour l’équipement nécessaire au captage et à la compression du CO2. Elle détermine si ces conditions sont réunies sur la base de l’évaluation visée au paragraphe 1 et des autres informations disponibles, en particulier en ce qui concerne la protection de l’environnement et de la santé humaine.\n\n(*1) JO L 140 du 5.6.2009, p. 114.» \"",
+      "text_sha256": "538c621044eb789de39a530ae9705debdea0a13bf16d44d32ba4b866ea1d762f",
+      "md_span": {
+        "start": 50785,
+        "end": 52137
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2009140FR.01011401-E0017",
+          "text": "(*1)"
+        },
+        {
+          "href": "#ntc*1-L_2009140FR.01011401-E0017",
+          "text": "(*1)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2009_140_R_TOC",
+          "text": "JO L 140 du 5.6.2009, p. 114"
+        }
+      ]
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_34",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 34\n\nÀ l’annexe III de la directive 2004/35/CE, le point suivant est ajouté:\n\n| «14. | L’exploitation des sites de stockage conformément à la directive 2009/31/CE du Parlement européen et du Conseil du 23 avril 2009 relative au stockage géologique du dioxyde de carbone(*1). |\n| --- | --- |\n\n(*1) JO L 140 du 5.6.2009, p. 114.» \"",
+      "text_sha256": "89e6928caced45ad939a2715ff1907c6f3a825d115829109b3e0e108ee592bf3",
+      "md_span": {
+        "start": 52172,
+        "end": 52508
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2009140FR.01011401-E0017",
+          "text": "(*1)"
+        },
+        {
+          "href": "#ntc*1-L_2009140FR.01011401-E0017",
+          "text": "(*1)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2009_140_R_TOC",
+          "text": "JO L 140 du 5.6.2009, p. 114"
+        }
+      ]
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_35",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 35\n\nÀ l’article 2, paragraphe 1, de la directive 2006/12/CE, le point a) est remplacé par le texte suivant:\n\n| «a) | les effluents gazeux émis dans l’atmosphère et le dioxyde de carbone capté et transporté en vue de son stockage géologique et effectivement stocké dans des formations géologiques conformément à la directive 2009/31/CE du Parlement européen et du Conseil du 23 avril 2009 relative au stockage géologique du dioxyde de carbone(*1) ou exclu du champ d’application de ladite directive en vertu de son article 2, paragraphe 2; |\n| --- | --- |\n\n(*1) JO L 140 du 5.6.2009, p. 114.» \"",
+      "text_sha256": "59140d62620c8c2574985e0a78bdda82aa344850449818fde26831025bf53749",
+      "md_span": {
+        "start": 52543,
+        "end": 53144
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2009140FR.01011401-E0017",
+          "text": "(*1)"
+        },
+        {
+          "href": "#ntc*1-L_2009140FR.01011401-E0017",
+          "text": "(*1)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2009_140_R_TOC",
+          "text": "JO L 140 du 5.6.2009, p. 114"
+        }
+      ]
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_36",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 36\n\nÀ l’article 1er, paragraphe 3, du règlement (CE) no 1013/2006, le point suivant est ajouté:\n\n| «h) | les transferts de CO2 en vue du stockage géologique conformément à la directive 2009/31/CE du Parlement européen et du Conseil du 23 avril 2009 relative au stockage géologique du dioxyde de carbone(*1); |\n| --- | --- |\n\n(*1) JO L 140 du 5.6.2009, p. 114.» \"",
+      "text_sha256": "8de1d3dac1164403b0854a6ad9d7901f52f94c82e118edd3d59e8d38db54cd51",
+      "md_span": {
+        "start": 53179,
+        "end": 53549
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2009140FR.01011401-E0017",
+          "text": "(*1)"
+        },
+        {
+          "href": "#ntc*1-L_2009140FR.01011401-E0017",
+          "text": "(*1)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2009_140_R_TOC",
+          "text": "JO L 140 du 5.6.2009, p. 114"
+        }
+      ]
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_37",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 37\n\nÀ l’annexe I de la directive 2008/1/CE, le point suivant est ajouté:\n\n| «6.9. | Captage de flux de CO2 provenant d’installations couvertes par la présente directive, en vue de leur stockage géologique conformément à la directive 2009/31/CE du Parlement européen et du Conseil du 23 avril 2009 relative au stockage géologique du dioxyde de carbone(*1). |\n| --- | --- |\n\n(*1) JO L 140 du 5.6.2009, p. 114.» \"",
+      "text_sha256": "0a8321931a803f5a1d675964f879286af2d94cba832c220d6bdb0aa7d11918c2",
+      "md_span": {
+        "start": 53584,
+        "end": 54002
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2009140FR.01011401-E0017",
+          "text": "(*1)"
+        },
+        {
+          "href": "#ntc*1-L_2009140FR.01011401-E0017",
+          "text": "(*1)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2009_140_R_TOC",
+          "text": "JO L 140 du 5.6.2009, p. 114"
+        }
+      ]
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_38",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 38\n\n1. Dans un délai de neuf mois à compter de la réception des rapports visés à l’article 27, la Commission transmet au Parlement européen et au Conseil un rapport sur la mise en œuvre de la présente directive.\n\n2. Dans le rapport transmis au plus tard le 31 mars 2015, la Commission évalue en particulier, sur la base de l’expérience acquise dans la mise en œuvre de la présente directive, à la lumière de l’expérience acquise dans le CSC et compte tenu du progrès technique et des connaissances scientifiques les plus récentes:\n\n| — | s’il est suffisamment démontré que le CO2 restera confiné en permanence de façon à prévenir et à réduire le plus possible les effets néfastes sur l’environnement et tout risque en résultant pour la santé humaine et que le CSC est sûr d’un point de vue environnemental et pour l’homme, |\n| --- | --- |\n\n| — | si les procédures relatives à l’examen par la Commission des projets de permis de stockage, visé à l’article 10, et des projets de décisions sur le transfert de responsabilité, visé à l’article 18, sont toujours requises, |\n| --- | --- |\n\n| — | le fonctionnement des dispositions sur les critères et la procédure d’acceptation du flux de CO2 visés à l’article 12, |\n| --- | --- |\n\n| — | le fonctionnement des dispositions sur l’accès des tiers visées aux articles 21 et 22 et des dispositions sur la coopération transfrontalière conformément à l’article 24, |\n| --- | --- |\n\n| — | les dispositions applicables aux installations de combustion d’une puissance électrique nominale égale ou supérieure à 300 mégawatts, visées à l’article 9 bis de la directive 2001/80/CE, |\n| --- | --- |\n\n| — | les perspectives de stockage géologique du CO2 dans les pays tiers, |\n| --- | --- |\n\n| — | la poursuite de l’élaboration et la mise à jour des critères visés aux annexes I et II, |\n| --- | --- |\n\n| — | l’expérience acquise avec les incitations à appliquer le CSC aux installations brûlant de la biomasse, |\n| --- | --- |\n\n| — | la nécessité de prévoir une nouvelle réglementation concernant les risques pour l’environnement liés au transport du CO2, |\n| --- | --- |\n\net présente, s’il y a lieu, une proposition de révision de la directive.\n\n3. Lorsqu’il est suffisamment démontré que le CO2 restera confiné en permanence de façon à prévenir et, lorsque cela n’est pas possible, à éliminer le plus possible les effets néfastes et tout risque pour l’environnement et la santé humaine, que le CSC est sûr d’un point de vue environnemental et pour l’homme et qu’il est réalisable sur le plan économique, le réexamen étudiera l’opportunité et la possibilité d’établir une obligation impérative en ce qui concerne des normes de performance en matière d’émissions pour les nouvelles grandes installations de combustion produisant de l’électricité, conformément à l’article 9 bis de la directive 2001/80/CE.",
+      "text_sha256": "129822d44d2a28f967a561d67b191309c366547b6f5c2cb2bae3e646e9aa0280",
+      "md_span": {
+        "start": 54037,
+        "end": 56881
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_39",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 39\n\n1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le 25 juin 2011. Ils communiquent immédiatement à la Commission le texte de ces dispositions.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine régi par la présente directive.\n\n3. Les États membres veillent à ce que les sites de stockage suivants relevant du champ d’application de la présente directive soient exploités conformément aux exigences de la présente directive au plus tard le 25 juin 2012:\n\n| a) | les sites de stockage utilisés conformément à la législation existante le 25 juin 2009; |\n| --- | --- |\n\n| b) | les sites de stockage autorisés conformément à ladite législation avant le 25 juin 2009 ou à cette date, pour autant que ces sites soient utilisés au plus tard jusqu’à un an après cette date. |\n| --- | --- |\n\nLes articles 4 et 5, l’article 7, point 3), l’article 8, point 2), et l’article 10 ne s’appliquent pas dans ces cas.",
+      "text_sha256": "11de36545c8e469c9ef4fe0ea62d59a3409c0a850d91d895886a78fbd14325b1",
+      "md_span": {
+        "start": 56916,
+        "end": 58301
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_40",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 40\n\nLa présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "28e3f6c1b3efcf02e58b5ff03a2b00c51bc391139e8018010ba9bc5078874b62",
+      "md_span": {
+        "start": 58336,
+        "end": 58479
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "eu-eurlex:32009l0031:2009-04-23#art_41",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 41\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "cc98b694804ff84c1f20ffe69c4bcadc617f822446ea6bb069cc2c6d45f02785",
+      "md_span": {
+        "start": 58514,
+        "end": 58588
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -25,5 +26,31 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "1955-06-21",
+          "valid_to": null,
+          "text_sha256": "85f0c113f093065ffe68b1734ba9ddd92e9e00ac427dd814a134853372b6497e",
+          "in_version": "lu-legilux:a-1938-01-14-n1:1955-06-21",
+          "article_valid_from": "1955-06-21"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "1955-06-21",
+          "valid_to": null,
+          "text_sha256": "51a76eadb35092f694d5ee9ddeb8fdefbfee21a697f4a20d733bc9ebdc5837aa",
+          "in_version": "lu-legilux:a-1938-01-14-n1:1955-06-21",
+          "article_valid_from": "1938-01-26",
+          "validity_conflict": true
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

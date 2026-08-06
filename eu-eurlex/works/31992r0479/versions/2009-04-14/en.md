@@ -1,0 +1,16 @@
+---
+lex_id: 'eu-eurlex:31992r0479:2009-04-14'
+title: 'Council Regulation (EEC) No 479/92 of 25 February 1992 on the application of Article 85 (3…'
+valid_from: '2009-04-14'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01992R0479-20090414'
+source_sha256: '86f5eabd36c7eb5e278507d20566ce590211f20e51d988b00d975ba79faaeff9'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'html-eu-tolerant/1 · lex derive'
+---
+<a id="document"></a>
+
+### Document
+
+1992R0479 — EN — 14.04.2009 — 003.001 This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document ►B COUNCIL REGULATION (EEC) No 479/92 of 25 February 1992 on the application of Article 85 (3) of the Treaty to certain categories of agreements, decisions and concerted practices between liner shipping companies (consortia) (OJ L 055, 29.2.1992, p.3) repealed by: Official Journal No page date Council Regulation (EC) No 246/2009 of 26 February 2009 L 79 1 25.3.2009

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r2389:2023-09-29",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2023/2389 of 29\u00A0September 2023 determining that th…",
+  "valid_from": "2023-09-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r2389/versions/2023-09-29/en.xml",
+    "sha256": "0e16d680154149167f6550e8eb6c19aef8ccceb94838f986ef615c4fca5fc195",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2389"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r2389:2023-09-29#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe information that is required to be automatically exchanged pursuant to the draft Platform Operators (Due Diligence and Reporting Requirements) Regulations 2022 and the DPI-MCAA to be concluded between the competent authorities of Finland and the United Kingdom is equivalent, within the meaning of subparagraph A(7) of Section I of Annex V to Directive 2011/16/EU, to that specified in Section III, paragraph B, of Annex V to Directive 2011/16/EU.\n\nThe determination of equivalence is subject to the following conditions:\n\n| (i) | the adoption of the Platform Operators (Due Diligence and Reporting Requirements) Regulations 2022 in the version of the text as present in the draft Platform Operators (Due Diligence and Reporting Requirements) Regulations 2022 assessed by the Commission; |\n| --- | --- |\n\n| (ii) | the conclusion of the DPI-MCAA between the competent authorities of Finland and the United Kingdom by way of the activation of the exchange relationship in accordance with Section 7 of that agreement. |\n| --- | --- |",
+      "text_sha256": "3b83f81fdb49a9dfc5f132a1d2089b04e291cfe208caa799a8f8c138933d3e4b",
+      "md_span": {
+        "start": 636,
+        "end": 1681
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r2389:2023-09-29#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1714,
+        "end": 1865
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

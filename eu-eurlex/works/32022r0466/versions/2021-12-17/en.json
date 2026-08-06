@@ -1,0 +1,99 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r0466:2021-12-17",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2022/466 of 17\u00A0December 2021 supplementing Regulation (EU) No\u00A0600/2014",
+  "valid_from": "2021-12-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r0466/versions/2021-12-17/en.xml",
+    "sha256": "7c5d5c82750e2ef5827519d14c369fa2ff6b73667573b5cd540543106514eea8",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0466"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r0466:2021-12-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Approved publication arrangements (‘APAs’) and approved reporting mechanisms (‘ARMs’) shall be subject to authorisation and supervision by a competent authority of a Member State as defined in Article 4(1), point (26) of Directive 2014/65/EU of the European Parliament and of the Council (3) on account of their limited relevance for the internal market if the activities of those APAs and ARMs on average do not exceed any of the thresholds set out in Article 2 of this Regulation. Where more than one APA or ARM is operated by the same operator, a derogation shall only apply if the activities of none of the APAs or ARMs exceed the thresholds set out in Article 2.\n\n2. For the purpose of authorisation, the assessment of the criteria set out in Article 2 shall be based on estimates of the future activities provided by the applicant.\n\n3. The relevance for the internal market of the activities of an APA or an ARM referred to in paragraph 1 shall be reassessed by ESMA every year, starting in the year following the first full calendar year after authorisation. The assessment of the criteria in Article 2 shall be based on data representing the full calendar year prior to the reassessment.\n\n4. In the case that based on the reassessment referred to in paragraph 3 in two consecutive years the thresholds for derogation or application of ESMA supervision are no longer met, the change into application or derogation of ESMA supervision shall take effect on 1 June in the following year.",
+      "text_sha256": "43bc218533918c5fed9daf22e4f5ec4159cb823a330c82008710e531996a8f86",
+      "md_span": {
+        "start": 652,
+        "end": 2157
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2022096EN.01000101-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r0466:2021-12-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. An APA or ARM shall be subject to a derogation from ESMA supervision where:\n\n| (a) | the APA or ARM provides services to or on behalf of investment firms subject to the post trade disclosure requirements of Articles 20 and 21 of Regulation (EU) No 600/2014 or the reporting requirement of Article 26 of that Regulation, in maximum three different Member States, while at least 50 % of those investment firms are authorised in the same Member State as the APA or ARM; and |\n| --- | --- |\n\n| (b) | the number of trades reported to the public and the volume thereof by the APA in accordance with Article 20(1) of Regulation (EU) No 600/2014 regarding equity instruments amounts to less than 0,5 % of the total number of trades or volume reported by all APAs in accordance with Article 20(1) of that regulation and the number of trades reported to the public and the volume thereof by the APA in accordance with Article 21(1) of that regulation regarding non-equity instruments does not amount to more than 0,5 % of the total number of trades or volume reported by all APAs in accordance with Article 21(1) of that regulation; and |\n| --- | --- |\n\n| (c) | the number of transactions reported by the ARM in accordance with Articles 26(1) and 26(7) of Regulation (EU) No 600/2014 does not amount to more than 0,5 % of the total number of transactions reported by all ARMs in accordance with Articles 26(1) and 26(7) of that Regulation. |\n| --- | --- |\n\n2. APAs and ARMs shall provide the competent authority on request data which allows the assessment of the criterion laid down in paragraph 1, point (a).",
+      "text_sha256": "d92b9889be43e80cc5453559fc5b67ba54791e64ef3a5b4b19018e78b8647a37",
+      "md_span": {
+        "start": 2190,
+        "end": 3803
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r0466:2021-12-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nFor the purposes of Article 1, ESMA shall perform the initial assessment of the derogation criteria listed in Article 2. Such initial assessment shall be based on data related to the first 6 months of 2021.",
+      "text_sha256": "5bbb827744a83fd0c2495650384e8bec83b08326cf0e753ae4a474f8182ba134",
+      "md_span": {
+        "start": 3836,
+        "end": 4053
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r0466:2021-12-17#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force and apply on the third day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "512b3e60ac4880837b7521013413fec2f6c5672f916eac8ca0db97ae5fdf57dd",
+      "md_span": {
+        "start": 4086,
+        "end": 4243
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

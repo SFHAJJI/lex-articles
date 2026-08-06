@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r1502:2015-09-08",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2015/1502 of 8 September 2015 on setting out minimum technical specifications and procedures for assurance levels for electronic identification means pursuant to Article 8(3) of Regulation (EU) No 910/2014",
+  "valid_from": "2015-09-08",
+  "valid_to": "2022-07-10",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r1502/versions/2015-09-08/fr.xml",
+    "sha256": "302c450eceb0fc6fed2f2864a4fb30a1277e40748433d57d2e4630ac0029198e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R1502"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r1502:2015-09-08#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les niveaux de garantie faible, substantiel et élevé des moyens d'identification électronique délivrés dans le cadre d'un schéma d'identification électronique notifié sont déterminés par référence aux spécifications et procédures figurant à l'annexe.\n\n2. Les spécifications et procédures figurant à l'annexe doivent être utilisées pour spécifier le niveau de garantie des moyens d'identification électronique délivrés dans le cadre d'un schéma d'identification électronique notifié en déterminant la fiabilité et la qualité des éléments suivants:\n\n| a) | inscription, conformément aux dispositions du point 2.1 de l'annexe du présent règlement établies en vertu de l'article 8, paragraphe 3, point a), du règlement (UE) no 910/2014; |\n| --- | --- |\n\n| b) | gestion des moyens d'identification électronique, conformément aux dispositions du point 2.2 de l'annexe du présent règlement établies en vertu de l'article 8, paragraphe 3, points b) et f), du règlement (UE) no 910/2014; |\n| --- | --- |\n\n| c) | authentification, conformément aux dispositions du point 2.3 de l'annexe du présent règlement établies en vertu de l'article 8, paragraphe 3, point c), du règlement (UE) no 910/2014; |\n| --- | --- |\n\n| d) | gestion et organisation, conformément aux dispositions du point 2.4 de l'annexe du présent règlement établies en vertu de l'article 8, paragraphe 3, points d) et e), du règlement (UE) no 910/2014. |\n| --- | --- |\n\n3. Lorsque les moyens d'identification électronique délivrés dans le cadre d'un schéma d'identification électronique notifié répondent à une exigence énoncée pour un niveau de garantie plus élevé, ils sont réputés respecter l'exigence équivalente d'un niveau de garantie inférieur.\n\n4. Sauf indication contraire dans la partie pertinente de l'annexe, un moyen d'identification électronique délivré dans le cadre d'un schéma d'identification électronique notifié doit, pour correspondre à un niveau de garantie donné, comporter tous les éléments énumérés à l'annexe en ce qui concerne ce niveau de garantie.",
+      "text_sha256": "3df09f86f173bdb56ba2403d4c422e96f6f3b279bf228e96209460ca8f516980",
+      "md_span": {
+        "start": 796,
+        "end": 2846
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r1502:2015-09-08#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "91deaebb4a04a055d8a9d5823aaced733082a23d8dadda698fa9f22d4847d8e8",
+      "md_span": {
+        "start": 2879,
+        "end": 3020
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

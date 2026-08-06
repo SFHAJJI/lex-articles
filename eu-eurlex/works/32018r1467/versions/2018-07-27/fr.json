@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r1467:2018-07-27",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2018/1467 of 27 July 2018 amending Delegated Regulation (EU) 2016/1675 supplementing Directive (EU) 2015/849",
+  "valid_from": "2018-07-27",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r1467/versions/2018-07-27/fr.xml",
+    "sha256": "7814ce34860aa78848b8338e97709d1bfaa92486e48b37bac9b8e084ebba981d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018R1467"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r1467:2018-07-27#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l'annexe du règlement délégué (UE) 2016/1675, dans le tableau figurant au point I, la ligne suivante est ajoutée:\n\n| «14 | Pakistan» |\n| --- | --- |",
+      "text_sha256": "c5354d7581e557b799e33fc9ab9901d9539064eb91af4d5a6a493bed60b881b4",
+      "md_span": {
+        "start": 690,
+        "end": 857
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r1467:2018-07-27#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "91deaebb4a04a055d8a9d5823aaced733082a23d8dadda698fa9f22d4847d8e8",
+      "md_span": {
+        "start": 890,
+        "end": 1031
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

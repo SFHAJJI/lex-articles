@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r2028:2019-11-29",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2019/2028 of 29 November 2019 amending Implementing Regulation (EU) 2016/1799 as regards the mapping tables specifying the correspondence between the credit risk assessments of external credit assessment institutions and the credit quality steps set out in Regulation (EU) No 575/2013",
+  "valid_from": "2019-11-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r2028/versions/2019-11-29/en.xml",
+    "sha256": "029510c975f41af867d4c888f1d495d2146f73ed4f37fd05a30f5fdd0888843b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R2028"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r2028:2019-11-29#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nAnnex III to Implementing Regulation (EU) 2016/1799 is replaced by the text set out in the Annex to this Regulation.",
+      "text_sha256": "02b37af64f549ae03d4d73c3a26b616ded5ebd2763780e7a5aada3a21191e77e",
+      "md_span": {
+        "start": 869,
+        "end": 996
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r2028:2019-11-29#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1029,
+        "end": 1180
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014l0023r(01):2015-05-05",
+  "language": "en",
+  "title": "Corrigendum to Directive 2014/23/EU",
+  "valid_from": "2015-05-05",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014l0023r(01)/versions/2015-05-05/en.xml",
+    "sha256": "2ce2dd1ff65e9f4f2dca1bbae44a6da46b310a8e670780bc41b344add6d6a613",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0023R%2801%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32014l0023r(01):2015-05-05#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "5.5.2015 EN Official Journal of the European Union L 114/24 Corrigendum to Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contracts ( Official Journal of the European Union L 94 of 28 March 2014 ) On page 33, point (a) of the third subparagraph of Article 31(5): for: ‘(a) where the applicant concerned shall or may be excluded pursuant to Article 38(5) to (9) or does not meet the selection criteria set out by the contracting authority or the contracting entity pursuant to Article 38(1);’ ,read: ‘(a) where the applicant concerned shall or may be excluded pursuant to Article 38(4) to (9) or does not meet the selection criteria set out by the contracting authority or the contracting entity pursuant to Article 38(1);’ ;on page 33, the first subparagraph of Article 33(1): for: ‘1. Concession notices, concession award notices and the notice referred to in the second subparagraph of Article 43(1) shall include the information set out in Annexes V, VII and VIII and in the format of standard forms, including standard forms for corrigenda.’ ,read: ‘1. Concession notices, concession award notices and the notice referred to in the second subparagraph of Article 43(1) shall include the information set out in Annexes V, VI, VII, VIII and XI and in the format of standard forms, including standard forms for corrigenda.’ ;on page 53, Annex II, the introductory wording of the second subparagraph of paragraph 1: for: ‘The supply by a contracting entity referred to in points (b) and (c) of Article 7(1) of gas or heat to fixed networks which provide a service to the public shall not be considered to be a relevant activity within the meaning of paragraph 1 where all of the following conditions are met:’ ,read: ‘The supply by a contracting entity referred to in points (b) and (c) of Article 7(1) of gas or heat to fixed networks which provide a service to the public shall not be considered to be a relevant activity within the meaning of the first subparagraph of this paragraph where all of the following conditions are met:’ ;on page 53, Annex II, the introductory wording of the third subparagraph of paragraph 2: for: ‘The supply by a contracting entity referred to in points (b) and (c) of Article 7(1) of electricity to networks which provide a service to the public shall not be considered to be a relevant activity within the meaning of paragraph 1 where all of the following conditions are met:’ ,read: ‘The supply by a contracting entity referred to in points (b) and (c) of Article 7(1) of electricity to networks which provide a service to the public shall not be considered to be a relevant activity within the meaning of the first subparagraph of this paragraph where all of the following conditions are met:’ .",
+      "text_sha256": "80f502f23ac8a9e756cd9217fa2c58dc502fca164e25518dc615ba565e272301",
+      "md_span": {
+        "start": 607,
+        "end": 3407
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

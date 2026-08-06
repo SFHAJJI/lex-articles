@@ -1,0 +1,179 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0529:2014-03-12",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) No 529/2014 of 12 March 2014 supplementing Regulation (EU) No 575/2013",
+  "valid_from": "2014-03-12",
+  "valid_to": "2015-07-08",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0529/versions/2014-03-12/en.xml",
+    "sha256": "93e7a22fbf45fa1f1edf81c68434f384abfb6c376c331f7c98060cc2d448d196",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0529"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0529:2014-03-12#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation lays down the conditions for assessing the materiality of extensions and changes to the Internal Rating Based approaches and the Advanced Measurement Approaches permitted in accordance with Regulation (EU) No 575/2013, including the modalities of the notifications of such changes and extentensions.",
+      "text_sha256": "2837e0c72ede5d63f6825889d5c5bf8e545a9a0c1539afe940d81eb39e1804ea",
+      "md_span": {
+        "start": 658,
+        "end": 984
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0529:2014-03-12#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. The materiality of changes to the range of application of a rating system or an internal models approach to equity exposures, or of changes to the rating systems or internal models approach to equity exposures, for the Internal Rating Based approach (‘changes in the IRB approach’) or of the extensions and changes for the Advanced Measurement Approach, (‘extensions and changes in the AMA’) shall be classified into one of the following categories:\n\n| (a) | material extensions and changes, which, according to Articles 143(3) and 312(2) of Regulation (EU) No 575/2013, require permission from the competent authorities; |\n| --- | --- |\n\n| (b) | other extensions and changes, which require notification to the competent authorities. |\n| --- | --- |\n\n2. The extensions and changes referred to in point (b) of paragraph 1 shall further be classified into:\n\n| (a) | extensions and changes that require notification before their implementation; |\n| --- | --- |\n\n| (b) | extensions and changes that require notification after their implementation. |\n| --- | --- |",
+      "text_sha256": "655fdc26cdab42c8cf6eaebf692df934cafdfd08feed892efa747c1ba1b0ab0e",
+      "md_span": {
+        "start": 1017,
+        "end": 2090
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0529:2014-03-12#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. The classification of changes in the IRB approach shall be carried out in accordance with this Article and Articles 4 and 5.\n\nThe classification of extensions and changes in the AMA shall be carried out in accordance with this Article and Articles 6 and 7.\n\n2. Where institutions are required to calculate the quantitative impact of any extension or change on own funds requirements or, where applicable, on risk-weighted exposure amounts, they shall apply the following methodology:\n\n| (a) | for the purpose of the assessment of the quantitative impact institutions shall use the most recent data available; |\n| --- | --- |\n\n| (b) | where a precise assessment of the quantitative impact is not feasible, institutions shall instead perform an assessment of the impact based on a representative sample or other reliable inference methodologies; |\n| --- | --- |\n\n| (c) | for changes having no direct quantitative impact, no quantitative impact as laid down in Article 4(1)(c) for IRB approach or Article 6(1)(c) for AMA shall be calculated. |\n| --- | --- |\n\n3. One material extension or change shall not be split into several changes or extensions of lower materiality.\n\n4. In case of doubt, institutions shall assign extensions and changes to the category of the highest potential materiality.\n\n5. Where competent authorities have provided their permission in relation to a material extension or change, institutions shall calculate the own funds requirements based on the approved extension or change from the date specified in the new permission which shall replace the prior one. The non-implementation on the date specified in the new permission of an extension or change for which permission from competent authorities has been given, shall require a new permission from competent authorities which shall be applied for without undue delay.\n\n6. In case of delay of the implementation of an extension or change for which permission from the competent authority has been granted, the institution shall notify the competent authority and present to the competent authority a plan for a timely implementation of the approved extension or change, which it shall apply within a period to be agreed with the competent authority.\n\n7. Where an extension or change is classified as one requiring prior notification to competent authorities, and where, subsequently to the notification, institutions decide not to implement the extension or change, institutions shall notify without undue delay the competent authorities of this decision.",
+      "text_sha256": "9a3a839c232bc4b4123810eca1618a31fb157f7707d0b99d8438e48793818c4d",
+      "md_span": {
+        "start": 2123,
+        "end": 4668
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r0529:2014-03-12#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Changes to the IRB approach shall be considered material if they fulfil any of the following conditions:\n\n| (a) | they fall under any of the changes to the range of application of a rating system or internal models approach to equity exposures described in Annex I, Part I, Section 1; |\n| --- | --- |\n\n| (b) | they fall under any changes to the rating systems or internal models approach to equity exposures described in Annex I, Part II, Section 1; |\n| --- | --- |\n\n| (c) | they result in either of the following:(i)a decrease of 1,5 % of either of the following:—the overall EU parent institution's consolidated risk-weighted exposure amounts for credit and dilution risk,—the overall risk-weighted exposure amounts for credit and dilution risk in the case of an institution which is neither a parent institution, nor a subsidiary;(ii)a decrease of 15 % or more of the risk-weighted exposure amounts for credit and dilution risk associated with the range of application of the internal rating system or internal models approach to equity exposures. |\n| --- | --- |\n| (i) | a decrease of 1,5 % of either of the following:—the overall EU parent institution's consolidated risk-weighted exposure amounts for credit and dilution risk,—the overall risk-weighted exposure amounts for credit and dilution risk in the case of an institution which is neither a parent institution, nor a subsidiary; |\n| — | the overall EU parent institution's consolidated risk-weighted exposure amounts for credit and dilution risk, |\n| — | the overall risk-weighted exposure amounts for credit and dilution risk in the case of an institution which is neither a parent institution, nor a subsidiary; |\n| (ii) | a decrease of 15 % or more of the risk-weighted exposure amounts for credit and dilution risk associated with the range of application of the internal rating system or internal models approach to equity exposures. |\n\n2. For the purposes of paragraph (1)(c)(i) of this Article, and in accordance with Article 3(2), the impact of the change shall be assessed as a ratio calculated as follows:\n\n| (a) | in the numerator, the difference in the risk-weighted exposure amounts for credit and dilution risk associated with the range of application of the internal rating system or the internal models approach to equity exposures before and after the change at the EU parent institution's consolidated level or at the institution level which is neither a parent institution, nor a subsidiary; |\n| --- | --- |\n\n| (b) | in the denominator the overall risk-weighted exposure amounts for credit and dilution risk before the change at the EU parent institution's consolidated level or, respectively, at the institution level which is neither a parent institution, nor a subsidiary. |\n| --- | --- |\n\nThe calculation shall refer to the same point in time.\n\nThe determination of the impact on risk-weighted exposure amounts shall refer only to the impact of the change to the IRB approach, and the set of exposures shall be assumed to remain constant.\n\n3. For the purposes of paragraph (1)(c)(ii) of this Article, and in accordance with Article 3(2), the impact of the change shall be assessed as a ratio calculated as follows:\n\n| (a) | in the numerator, the difference in the risk-weighted exposure amounts for credit and dilution risk associated with the range of application of the internal rating system or the internal models approach to equity exposures before and after the change; |\n| --- | --- |\n\n| (b) | in the denominator, the risk-weighted exposure amounts for credit and dilution risk before the change associated with the range of application of the rating system or the internal models approach to equity exposures. |\n| --- | --- |\n\nThe calculation shall refer to the same point in time.\n\nThe determination of the impact on risk-weighted exposure amounts shall refer only to impact of the change to the IRB approach, and the set of exposures shall be assumed to remain constant.",
+      "text_sha256": "67b74449217f527c1bbca7ec51e54909132b310f3d448698076d9cd68628e7d0",
+      "md_span": {
+        "start": 4701,
+        "end": 8681
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32014r0529:2014-03-12#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Changes to the IRB approach, which are not material but are to be notified to competent authorities according to Article 143(4) of Regulation (EU) No 575/2013, shall be notified in the following manner:\n\n| (a) | changes which fulfil any of the following conditions shall be notified to competent authorities at least two months before their implementation:(i)changes described in Annex I, Part I, Section 2;(ii)changes described in Annex I, Part II, Section 2;(iii)changes which result in a decrease of at least 5 % of the risk-weighted exposure amounts for credit and dilution risk associated with the range of application of the internal rating system or internal models approach to equity exposures. |\n| --- | --- |\n| (i) | changes described in Annex I, Part I, Section 2; |\n| (ii) | changes described in Annex I, Part II, Section 2; |\n| (iii) | changes which result in a decrease of at least 5 % of the risk-weighted exposure amounts for credit and dilution risk associated with the range of application of the internal rating system or internal models approach to equity exposures. |\n\n| (b) | all other changes shall be notified to the competent authorities after their implementation at least on an annual basis. |\n| --- | --- |\n\n2. For the purposes of paragraph (1)(a)(iii) of this Article, and in accordance with Article 3(2), the impact of the change shall be assessed as a ratio calculated as follows:\n\n| (a) | in the numerator, the difference in the risk-weighted exposure amounts for credit and dilution risk associated with the range of application of the internal rating system or the internal models approach to equity exposures before and after the change; |\n| --- | --- |\n\n| (b) | in the denominator, the risk-weighted exposure amounts for credit and dilution risk before the change associated with the range of application of the rating system or the internal models approach to equity exposures. |\n| --- | --- |\n\nThe calculation shall refer to the same point in time.\n\nThe determination of the impact on risk-weighted exposure amounts shall refer only to impact of the change to the IRB approach, and the set of exposures shall be assumed to remain constant.",
+      "text_sha256": "f68a90ce3e5a0b6e4f3b0468dd5a778be7976b8e5aef6344044273867c240bb7",
+      "md_span": {
+        "start": 8714,
+        "end": 10905
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32014r0529:2014-03-12#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Extensions and changes to the AMA shall be considered material, if they fulfil any of the following conditions:\n\n| (a) | they fall under any extensions described in Annex II, Part I, Section 1; |\n| --- | --- |\n\n| (b) | they fall under any changes described in Annex II, Part II, Section 1; |\n| --- | --- |\n\n| (c) | they result in either of the following:(i)in a decrease of 10 % or more of either of the following:—the overall EU parent institution's consolidated own funds requirements for operational risk,—the overall own funds requirements for operational risk in the case of an institution which is neither a parent institution, nor a subsidiary;(ii)in a decrease of 10 % or more of either of the following:—the overall own funds requirements for operational risk at the consolidated level of a parent institution which is not an EU parent institution,—the overall own funds requirements for operational risk of a subsidiary where the parent institution has not received the permission to use the AMA. |\n| --- | --- |\n| (i) | in a decrease of 10 % or more of either of the following:—the overall EU parent institution's consolidated own funds requirements for operational risk,—the overall own funds requirements for operational risk in the case of an institution which is neither a parent institution, nor a subsidiary; |\n| — | the overall EU parent institution's consolidated own funds requirements for operational risk, |\n| — | the overall own funds requirements for operational risk in the case of an institution which is neither a parent institution, nor a subsidiary; |\n| (ii) | in a decrease of 10 % or more of either of the following:—the overall own funds requirements for operational risk at the consolidated level of a parent institution which is not an EU parent institution,—the overall own funds requirements for operational risk of a subsidiary where the parent institution has not received the permission to use the AMA. |\n| — | the overall own funds requirements for operational risk at the consolidated level of a parent institution which is not an EU parent institution, |\n| — | the overall own funds requirements for operational risk of a subsidiary where the parent institution has not received the permission to use the AMA. |\n\n2. For the purposes of paragraph (1)(c)(i), and in accordance with Article 3(2), the impact of any extension or change shall be assessed as a ratio calculated as follows:\n\n| (a) | in the numerator, the difference in the own funds requirements for operational risk associated with the scope of application of the AMA model before and after the extension or change at the EU parent institution's consolidated level or at the institution level which is neither a parent institution, nor a subsidiary; |\n| --- | --- |\n\n| (b) | in the denominator, the overall own funds requirements for operational risk before the extension or change at the EU parent institution's consolidated level or, respectively, at the institution level which is neither a parent institution, nor a subsidiary. |\n| --- | --- |\n\nThe calculation shall refer to the same point in time.\n\nThe determination of the impact on the own funds requirements shall refer only to impact of the extension and change to the AMA, and therefore the operational risk profile shall be assumed to remain constant.\n\n3. For the purposes of paragraph (1)(c)(ii), and in accordance with Article 3(2), the impact of any extension or change shall be assessed as a ratio calculated as follows:\n\n| (a) | in the numerator, the difference in the own funds requirements for operational risk associated with the scope of application of the model before and after the extension or change at the consolidated level of a parent institution which is not an EU parent institution or at the subsidiary level where the parent institution has not received the permission to use the AMA; |\n| --- | --- |\n\n| (b) | in the denominator, the overall own funds requirements for operational risk before the extension or change at the consolidated level of a parent institution which is not an EU parent institution or, respectively, at the subsidiary level where the parent institution has not received the permission to use the AMA. |\n| --- | --- |\n\nThe calculation shall refer to the same point in time.\n\nThe determination of the impact on the own funds requirements shall refer only to impact of the extension and change to the AMA, and therefore the operational risk profile shall be assumed to remain constant.",
+      "text_sha256": "50dbb78e881465612991e2e3828a79b35e0b5d5e0917a5874d81a5f16a96ddd8",
+      "md_span": {
+        "start": 10938,
+        "end": 15442
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32014r0529:2014-03-12#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nExtensions and changes to the AMA, which are not material but are to be notified to competent authorities according to Article 312(3) of Regulation (EU) No 575/2013, shall be notified in the following manner:\n\n| (a) | extensions and changes falling under Annex II, Part I, Section 2 and Part II, Section 2, shall be notified to competent authorities at least two months before their implementation; |\n| --- | --- |\n\n| (b) | all other extensions and changes shall be notified to the competent authorities after their implementation at least on an annual basis. |\n| --- | --- |",
+      "text_sha256": "0b673432d181358c5f0afccaa4b3e4332f0397dac3a3cefa4b7e96caf3ccc53e",
+      "md_span": {
+        "start": 15475,
+        "end": 16061
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32014r0529:2014-03-12#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. For extensions and changes to the IRB approach or to the AMA classified as requiring competent authorities' approval, institutions shall submit, together with the application, the following documentation:\n\n| (a) | description of the extension or change, its rationale and objective; |\n| --- | --- |\n\n| (b) | implementation date; |\n| --- | --- |\n\n| (c) | scope of application affected by the model extension or change, with volume characteristics; |\n| --- | --- |\n\n| (d) | technical and process document(s); |\n| --- | --- |\n\n| (e) | reports of the institutions' independent review or validation; |\n| --- | --- |\n\n| (f) | confirmation that the extension or change has been approved through the institution's approval processes by the competent bodies and date of approval; |\n| --- | --- |\n\n| (g) | where applicable, the quantitative impact of the change or extension on the risk weighted exposure amounts or the own funds requirements; |\n| --- | --- |\n\n| (h) | records of the institution's current and previous version number of internal models which are subject to approval. |\n| --- | --- |\n\n2. For extensions and changes classified as requiring notification either before or after implementation, institutions shall submit, together with the notification, the documentation referred to in points (a), (b), (c), (f) and (g) of paragraph 1.",
+      "text_sha256": "bc1d96f23891821a2c7f13060b6e1f6db572f832c6ab4c4c43be5d2ab85b0c42",
+      "md_span": {
+        "start": 16094,
+        "end": 17446
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32014r0529:2014-03-12#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "2f5437f0d0aaa788227a361954faac603f74f50e1e24748904fa5ed3fc22d605",
+      "md_span": {
+        "start": 17479,
+        "end": 17630
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

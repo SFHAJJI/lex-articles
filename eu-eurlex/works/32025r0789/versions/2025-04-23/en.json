@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0789:2025-04-23",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2025/789 of 23\u00A0April 2025 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2025-04-23",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0789/versions/2025-04-23/en.xml",
+    "sha256": "f638faa315d01f88b7f466fde8bbd4a666bc26f0317adf2eede54fd41d39f937",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0789"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0789:2025-04-23#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. The EBA shall consider any period of 250 business days that institutions use to assess whether they comply with the back-testing requirements set out in Article 325bf of Regulation (EU) No 575/2013 or with the requirements of the profit and loss attribution test set out in Article 325bg of that Regulation to be a period of extraordinary circumstances, where that period contains a timespan in relation to which the EBA has determined that all of the following conditions are met:\n\n| (a) | a significant cross-border financial market stress has been observed or a major regime shift has taken place; |\n| --- | --- |\n\n| (b) | the significant cross-border financial market stress or major regime shift referred to in point (a) is likely to render the outcome of the back-testing performed in accordance with Article 325bf of Regulation (EU) No 575/2013 or of the profit and loss attribution test performed in accordance with Article 325bg of that Regulation non-representative of the adequacy of the internal model for the calculation of own funds requirements, including where those tests produce results that do not relate to deficiencies in the internal model. |\n| --- | --- |\n\n2. When assessing whether the conditions specified in paragraph 1 are met, the EBA shall take into account indicators that are representative of, or reflect the nature of, the significant cross-border financial market stress or major regime shift, including all of the following:\n\n| (a) | the results of an analysis of volatility indices, and indicators of realised volatilities, that the EBA deems to be suitable to capture the nature of that significant cross-border financial market stress or that major regime shift; |\n| --- | --- |\n\n| (b) | the results of an assessment of whether that significant cross-border financial market stress or that major regime shift has led to volatility levels that are comparable to, or exceed, those observed during the global financial crisis or the COVID-19 pandemic, or has entailed a relative change in the volatility levels that is comparable to the change observed during that crisis or that pandemic; |\n| --- | --- |\n\n| (c) | the results of an assessment of how quickly the significant cross-border financial market stress manifested or the major regime shift happened; |\n| --- | --- |\n\n| (d) | the results of an analysis of relevant correlations and correlation indicators, including an assessment of whether a sudden and significant change of the level of the correlation was observed. |\n| --- | --- |\n\nFor the purposes of the first subparagraph, point (c) of this Article, with regard to the back-testing performed in accordance with Article 325bf of Regulation (EU) No 575/2013, the EBA shall in particular take into consideration whether and to which extent the statistical characteristics observed during the period of significant cross-border financial market stress or major regime shift differ from those observed during the reference period that institutions use for the calibration of the value-at-risk-number.",
+      "text_sha256": "1af6b1496235536a5c523dd5b8cbc3551e7ce8c8d6e1b9deead3cb6cf0718d2a",
+      "md_span": {
+        "start": 649,
+        "end": 3708
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0789:2025-04-23#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 3741,
+        "end": 3892
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

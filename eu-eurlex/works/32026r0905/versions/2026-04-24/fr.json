@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0905:2026-04-24",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2026/905 of 24\u00A0April 2026 supplementing Regulation (EU)\u00A02016/1011",
+  "valid_from": "2026-04-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0905/versions/2026-04-24/fr.xml",
+    "sha256": "1264a1ee2cd74a36b5346a5cc9289713d077c4897a27175a58bbde0ebe65774b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0905"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0905:2026-04-24#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes indices de référence de taux de change au comptant énumérés à l’annexe sont désignés comme étant des indices de référence de taux de change au comptant qui remplissent les critères énoncés à l’article 18 bis, paragraphe 1, du règlement (UE) 2016/1011.",
+      "text_sha256": "e0295498cc203cf8fd2969f0fe0a33bd8096f242a6170f6591861e05dbed589c",
+      "md_span": {
+        "start": 650,
+        "end": 922
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0905:2026-04-24#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 955,
+        "end": 1096
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

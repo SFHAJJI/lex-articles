@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -62,5 +63,68 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2014-04-18",
+          "valid_to": null,
+          "text_sha256": "bd9d692ecb04834eca9f65c5e70f63043b4f5e4bebb927e9cef30f062c5d0709",
+          "in_version": "lu-legilux:rgd-2009-05-28-n5:2014-04-18"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2014-04-18",
+          "valid_to": null,
+          "text_sha256": "e9c57d14504adc2268266cc6b6d1080b35a2041ae9d7be9e359d426378256cf2",
+          "in_version": "lu-legilux:rgd-2009-05-28-n5:2014-04-18"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2014-04-18",
+          "valid_to": null,
+          "text_sha256": "b0724ec2e7fa581087117bacfc05c50c8c55c9400ed6321ba5a3f09e4f0c54e7",
+          "in_version": "lu-legilux:rgd-2009-05-28-n5:2014-04-18"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2014-04-18",
+          "valid_to": null,
+          "text_sha256": "6112b157e0df5b6b694a06d5d873279ffd2c0a6cce7ed2d6bb7b2e53865493f0",
+          "in_version": "lu-legilux:rgd-2009-05-28-n5:2014-04-18"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2014-04-18",
+          "valid_to": null,
+          "text_sha256": "cbd6e74825ef3bcd3ddc95b4e72b449d8c2f8d60b025c67b7c74f7b1e84832d7",
+          "in_version": "lu-legilux:rgd-2009-05-28-n5:2014-04-18"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2014-04-18",
+          "valid_to": null,
+          "text_sha256": "2b0d1cadcc1ac8711212e0275679677f524577f317c80c0f727e681cf4394c0a",
+          "in_version": "lu-legilux:rgd-2009-05-28-n5:2014-04-18"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2014-04-18",
+          "valid_to": null,
+          "text_sha256": "7d0b94a30660241e4e19ee887e77f80d19e5e767d56a4253a1e15066b5afe39b",
+          "in_version": "lu-legilux:rgd-2009-05-28-n5:2014-04-18"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

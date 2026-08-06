@@ -1,0 +1,482 @@
+---
+lex_id: 'eu-eurlex:32024r0795:2024-02-29'
+title: 'Regulation (EU) 2024/795'
+valid_from: '2024-02-29'
+valid_to: '2025-12-22'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R0795'
+source_sha256: 'b10d2bcf37ae3d97ca0f9e4f04a8ef86b628d79d16afe193bcd2e435fdd37aa1'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article 1
+
+1. This Regulation establishes a Strategic Technologies for Europe Platform (STEP) to support critical and emerging strategic technologies and their respective value chains in relevant sectors.
+
+2. This Regulation lays down the objectives of the STEP, the amount of financial support available under the STEP, and rules for the implementation of the Sovereignty Seal and Sovereignty Portal as well as for reporting on the STEP objectives.
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+1. In order to ensure Union sovereignty and security, reduce the Union’s strategic dependencies in strategic sectors, strengthen the Union’s competitiveness by strengthening its resilience and productivity and by mobilising financing, favour a level playing field for investments in the internal market, foster cross-border participation, including of SMEs, strengthen economic, social and territorial cohesion and solidarity among Member States and regions and promote inclusive access to attractive quality jobs by investing in the skills of the future and making its economic, industrial and technological base fit for the green and digital transitions, the STEP shall pursue the following objectives:
+
+| (a) | supporting the development or manufacturing of critical technologies throughout the Union, or safeguarding and strengthening their respective value chains as referred to in paragraph 3, in the following sectors:(i)digital technologies, including those contributing to the targets and objectives of the Digital Decade Policy Programme 2030, multi-country projects as defined in Article 2, point (2), of Decision (EU) 2022/2481, and deep tech innovation;(ii)clean and resource efficient technologies, including net-zero technologies as defined in the Net-Zero Industry Act;(iii)biotechnologies, including medicinal products on the Union list of critical medicines and their components; |
+| --- | --- |
+| (i) | digital technologies, including those contributing to the targets and objectives of the Digital Decade Policy Programme 2030, multi-country projects as defined in Article 2, point (2), of Decision (EU) 2022/2481, and deep tech innovation; |
+| (ii) | clean and resource efficient technologies, including net-zero technologies as defined in the Net-Zero Industry Act; |
+| (iii) | biotechnologies, including medicinal products on the Union list of critical medicines and their components; |
+
+| (b) | addressing shortages of labour and skills critical to all kinds of quality jobs in support of the objective set out in point (a), in particular through life-long learning, education and training projects, including the European Net-Zero Industry Academies established pursuant to the relevant provision of the Net-Zero Industry Act, and in close cooperation with social partners and education and training initiatives already in place. |
+| --- | --- |
+
+2. The technologies referred to in paragraph 1, point (a), shall be deemed critical where they meet either of the following conditions:
+
+| (a) | they bring to the internal market an innovative, emerging and cutting-edge element with significant economic potential; |
+| --- | --- |
+
+| (b) | they contribute to reducing or preventing strategic dependencies of the Union. |
+| --- | --- |
+
+3. The value chain for the development or manufacturing of critical technologies referred to in paragraph 1, point (a), of this Article relates to final products, as well as to specific components and specific machinery primarily used for the production of the final products and critical raw materials set out in an annex to the Critical Raw Materials Act, and to associated services critical for and specific to the development or manufacturing of those final products.
+
+By way of derogation from the first subparagraph of this paragraph, the value chain for the development or manufacturing of technologies that fall within the scope of the Net-Zero Industry Act and that are technologies referred to in paragraph 1, point (a)(ii) of this Article, relates to final products, as well as to specific components and specific machinery primarily used for the production of the final products, as defined in the Net-Zero Industry Act and to associated services critical for and specific to the development or manufacturing of those final products.
+
+4. Strategic projects recognised in accordance with the relevant provision of the Net-Zero Industry Act that comply with the criteria on resilience or the criteria on competitiveness of the Net-Zero Industry Act shall be deemed to contribute to the STEP objective referred to in paragraph 1, point (a)(ii).
+
+5. Strategic projects recognised in accordance with the relevant provision of the Critical Raw Materials Act shall be deemed to contribute to the STEP objective referred to in paragraph 1, point (a).
+
+6. Where an important project of common European interest (IPCEI) approved by the Commission pursuant to Article 107(3), point (b), TFEU relates to any of the technology referred to in paragraph 1, point (a), of this Article, the relevant technologies shall be deemed critical.
+
+7. By 2 May 2024, the Commission shall issue guidance on how the technologies in the sectors referred to in paragraph 1, point (a), of this Article can be considered critical as well as on how to meet the conditions set out in paragraph 2 of this Article. In that guidance the Commission shall clarify the notion of value chain and associated services critical for and specific to the development or manufacturing of the final products referred to in paragraph 3 of this Article. That guidance shall be reviewed, where appropriate, in light of the interim evaluation report referred to in Article 8.
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+1. Financial support for the implementation of the STEP shall be provided from existing Union programmes.
+
+2. To reinforce the ability to achieve the STEP objectives, an amount of EUR 1 500 000 000 in current prices of the financial envelope referred to in Article 4(1) of Regulation (EU) 2021/697 shall support the implementation of the STEP. That amount shall be implemented in accordance with that Regulation and shall be used with the aim of achieving the STEP objectives.
+
+<a id="art_4"></a>
+
+### art_4
+
+Article 4
+
+1. The Commission shall award a Sovereignty Seal to any project contributing to any of the STEP objectives, provided that the project has been assessed and complies with minimum quality requirements, in particular eligibility, exclusion and award criteria, provided for in a call for proposals under Regulation (EU) 2021/522, (EU) 2021/694, (EU) 2021/695, or (EU) 2021/697, or under Commission Delegated Regulation (EU) 2019/856 (27).
+
+2. A call for proposals as referred to in paragraph 1 may include geographical limitations and shall, where appropriate, in accordance with the relevant sector-specific Union legislation, include obligations to respect working and employment conditions under applicable Union and national law, International Labour Organization conventions and collective agreements.
+
+3. The Sovereignty Seal shall be used as a quality label, in particular for the purposes of:
+
+| (a) | receiving support for the project under another Union programme in accordance with the rules applicable to that programme; or |
+| --- | --- |
+
+| (b) | financing the project through cumulative or combined funding with another Union instrument in accordance with the rules applicable to those instruments. |
+| --- | --- |
+
+4. When revising their recovery and resilience plans in accordance with Regulation (EU) 2021/241, Member States shall, without prejudice to the provisions of that Regulation, consider as priority projects those projects that have been awarded a Sovereignty Seal pursuant to paragraph 1 of this Article.
+
+5. When deciding on investment projects to finance from their respective shares of the Modernisation Fund in accordance with Article 10d of Directive 2003/87/EC, Member States may consider as priority projects for critical clean and resource-efficient technologies those projects that have been awarded a Sovereignty Seal in accordance with paragraph 1 of this Article. In addition, Member States may decide to grant national support to projects that have been awarded a Sovereignty Seal and contribute to the STEP objective referred to in Article 2(1), point (a)(ii), of this Regulation.
+
+6. In accordance with Regulation (EU) 2021/523, the Sovereignty Seal shall be taken into account in the context of the procedure provided for in Article 19 of the EIB Statute and of the policy check laid down in Article 23(3) of that Regulation. In addition, the implementing partners shall examine in a timely manner projects that have been awarded the Sovereignty Seal where they fall within their geographic and activity scope as laid down in Article 26(5) of Regulation (EU) 2021/523.
+
+7. Strategic projects recognised in accordance with the relevant provisions of the Net-Zero Industry Act and the Critical Raw Materials Act that fall within the scope of Article 2 of this Regulation and that receive a contribution under the programmes referred to in Article 3 of this Regulation may also receive a contribution from any other Union programme, including funds under shared management, provided that those contributions do not cover the same costs. The rules of the relevant Union programme shall apply to the corresponding contribution to the strategic project. The cumulative funding shall not exceed the total eligible costs of the strategic project. The support from the different Union programmes may be calculated on a pro rata basis in accordance with the documents setting out the conditions for support.
+
+8. The award of a Sovereignty Seal and the provision of cumulative funding shall be without prejudice to applicable State aid rules and to the Union’s international obligations.
+
+9. The Sovereignty Seal shall be valid for the period of implementation of the project to which it was awarded and shall cease to be valid if that project has not started within five years of the award, or the project has been relocated outside the Union.
+
+<a id="art_5"></a>
+
+### art_5
+
+Article 5
+
+In order to implement the STEP, the Commission shall, in particular:
+
+| (a) | promote the Sovereignty Seal referred to in Article 4(1), in particular to enhance the visibility of projects that have been awarded the Sovereignty Seal and of projects that have received funding under the ERDF, the Cohesion Fund, the ESF+ or the JTF; |
+| --- | --- |
+
+| (b) | set up and manage the Sovereignty Portal referred to in Article 6, in particular to bring all Union funding opportunities closer to potential beneficiaries and enhance transparency towards Union citizens; |
+| --- | --- |
+
+| (c) | liaise with national competent authorities designated in accordance with Article 6(4), and other relevant stakeholders, with a view to coordinating and exchanging information about the financial needs, existing bottlenecks and best practices in access to funding within the scope of this Regulation; |
+| --- | --- |
+
+| (d) | foster contacts across the sectors of the technologies referred to in Article 2, making particular use of existing industrial alliances, networks and structures, including the Net-Zero Europe Platform established by the Net-Zero Industry Act and the European Critical Raw Materials Board established by the Critical Raw Materials Act; |
+| --- | --- |
+
+| (e) | promote consistency, coherence, synergy and complementarity among Union programmes to support projects contributing to the STEP objectives. |
+| --- | --- |
+
+<a id="art_6"></a>
+
+### art_6
+
+Article 6
+
+1. The Commission shall set up a dedicated publicly available website (the ‘Sovereignty Portal’), providing information about funding opportunities for projects linked to the STEP objectives and enhancing the visibility of those projects, in particular by displaying the following information:
+
+| (a) | information about Union programmes within the scope of this Regulation and ongoing and upcoming calls for proposals and calls for tenders linked to the STEP objectives under those respective programmes; |
+| --- | --- |
+
+| (b) | details of projects that have been awarded a Sovereignty Seal in accordance with Article 4; |
+| --- | --- |
+
+| (c) | details of projects that have been recognised as strategic projects under the Net-Zero Industry Act and the Critical Raw Materials Act, to the extent that they fall within the scope of Article 2 of this Regulation; |
+| --- | --- |
+
+| (d) | details of projects supporting the STEP objectives that have been selected for support under the ERDF, the Cohesion Fund, the ESF+ or the JTF, to the extent that they have been communicated to the Commission in accordance with paragraph 5 of this Article; |
+| --- | --- |
+
+| (e) | contacts of the national competent authorities designated in accordance with paragraph 4. |
+| --- | --- |
+
+2. The Sovereignty Portal shall also display information about the implementation of the STEP and information in relation to Union budget expenditure as referred to in Article 7, as well as information about the performance indicators defined under the respective programmes.
+
+3. The Sovereignty Portal shall be launched on 1 March 2024 and shall be updated by the Commission on a regular basis.
+
+4. By 2 June 2024, each Member State shall designate a single national competent authority to act as its main point of contact for the implementation of the STEP at national level.
+
+5. Where available, the national competent authorities referred to in paragraph 4 of this Article shall communicate details of projects supporting the STEP objectives that have been selected for support under the ERDF, the Cohesion Fund, the ESF+ or the JTF to the Commission for display on the Sovereignty Portal.
+
+<a id="art_7"></a>
+
+### art_7
+
+Article 7
+
+1. The Commission shall monitor the implementation of the STEP and measure the achievement of the STEP objectives, on the basis of the monitoring frameworks of the Union programmes referred to in Article 3. The monitoring of the implementation shall be targeted and proportionate to the activities carried out under the STEP.
+
+2. The Commission shall ensure that data for monitoring the implementation of the activities carried out under the STEP are collected efficiently, effectively and in a timely manner. To that end, recipients of Union funding shall contribute with data for monitoring based on existing reporting requirements, where necessary and in a proportionate manner.
+
+3. The Commission shall submit an annual report to the European Parliament and to the Council on the implementation of the STEP and shall make that report publicly available.
+
+4. The annual report shall include consolidated information on the progress made in the implementation of the STEP objectives under each of the programmes referred to in Article 3, including, where available, qualitative and quantitative information on the STEP’s support per Member State and on cross-border projects.
+
+5. The annual report shall also include the following information:
+
+| (a) | overall expenditure of the STEP broken down by programme; |
+| --- | --- |
+
+| (b) | the performance of the STEP based on the performance indicators defined in the respective programmes; |
+| --- | --- |
+
+| (c) | an overview of the contribution of the STEP to the Union’s strategic objectives in ensuring long-term competitiveness; |
+| --- | --- |
+
+| (d) | an analysis of the geographical and technological distribution of the projects that have been awarded the Sovereignty Seal. |
+| --- | --- |
+
+<a id="art_8"></a>
+
+### art_8
+
+Article 8
+
+1. By 31 December 2025, the Commission shall provide the European Parliament and the Council with an interim evaluation report on the implementation of the STEP, for the purpose of informing future decision-making.
+
+2. The interim evaluation report shall, in particular, assess to which extent the objectives of the STEP have been achieved, the efficiency of the use of the resources and its European added value.
+
+The interim evaluation report shall also:
+
+| (a) | provide an overview of the Union regions for which the cohesion programmes have been amended in compliance with the partnership principle; |
+| --- | --- |
+
+| (b) | consider the relevance of the STEP objectives and actions, including the critical technologies supported by the STEP; |
+| --- | --- |
+
+| (c) | assess the feasibility of providing information on Union programmes in a single Union portal, to bring all Union funding opportunities closer to potential beneficiaries and enhance their transparency towards Union citizens; and |
+| --- | --- |
+
+| (d) | assess the feasibility of setting up a simulator to provide project promoters, especially SMEs, with guidance on the Union funding opportunities for which their particular project might be eligible. |
+| --- | --- |
+
+3. Where appropriate, the interim evaluation report shall be accompanied by a legislative proposal for an amendment of this Regulation with the aim of reducing the Union’s strategic dependencies and strengthening Union industrial policy, while ensuring the proper functioning of the internal market, avoiding market distortions and creating a level playing field in the Union, or by legislative proposals for other initiatives that pursue similar objectives.
+
+4. At the end of the implementation of the Union programmes by which the STEP is financially supported, but no later than 31 December 2031, the Commission shall provide the European Parliament and the Council with a final evaluation report on the implementation of the STEP, building on all elements included in the interim evaluation report and summarising the elements provided in the annual reports referred to in Article 7.
+
+<a id="art_9"></a>
+
+### art_9
+
+Article 9
+
+In Article 10a(8) of Directive 2003/87/EC, the following subparagraph is inserted after the fifth subparagraph:
+
+‘When designing and implementing calls for proposals or competitive bidding under the Innovation Fund, the Commission shall consider strategic projects recognised in accordance with a regulation of the European Parliament and of the Council establishing a framework of measures for strengthening Europe’s net-zero technology products manufacturing ecosystem, which are deemed to contribute to the objectives of the Strategic Technologies for Europe Platform (STEP) in accordance with Article 2(4) of Regulation (EU) 2024/795 of the European Parliament and of the Council(*1). Member States shall consider providing support from the European Regional Development Fund and the Cohesion Fund established by Regulation (EU) 2021/1058 of the European Parliament and of the Council(*2) and the Just Transition Fund established by Regulation (EU) 2021/1056 to projects in their territory in the context of financial mechanisms developed under the Innovation Fund, such as the ‘auction-as-a-service’ scheme.
+
+<a id="art_10"></a>
+
+### art_10
+
+Article 10
+
+Regulation (EU) 2021/1058 is amended as follows:
+
+| (1) | Article 3 is amended as follows:(a)in paragraph 1, point (a), the following point is added:‘(vi)supporting investments contributing to the objectives of the Strategic Technologies for Europe Platform (STEP) referred to in Article 2 of Regulation (EU) 2024/795 of the European Parliament and of the Council(*3).(*3) Regulation (EU) 2024/795 of the European Parliament and of the Council of 29 February 2024 establishing the Strategic Technologies for Europe Platform (STEP), and amending Directive 2003/87/EC and Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 (OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj).’;" (b)in paragraph 1, point (b), the following point is added:‘(ix)supporting investments contributing to the STEP objective referred to in Article 2(1), point (a)(ii), of Regulation (EU) 2024/795.’;(c)the following paragraph is inserted:‘1a The resources under the specific objective referred to in paragraph 1, points (a)(vi) and (b)(ix), shall be programmed under dedicated priorities corresponding to the respective policy objective and shall be limited to a maximum of 20 % of the initial national allocation of the ERDF.The Commission shall pay 30 % of the allocation to the priorities referred to in the first subparagraph of this paragraph as set out in the decision approving the programme amendment as exceptional one-off pre-financing in addition to the yearly pre-financing for the programme provided for in Article 90(1) and (2) of Regulation (EU) 2021/1060 or in Article 51(2), (3) and (4) of Regulation (EU) 2021/1059 of the European Parliament and of the Council(*4). That exceptional pre-financing shall be paid within 60 days of the adoption of the Commission decision approving the programme amendment, provided that the programme amendment is submitted to the Commission by 31 March 2025.In accordance with Article 90(5) of Regulation (EU) 2021/1060 and Article 51(5) of Regulation (EU) 2021/1059, the amount paid as exceptional pre-financing shall be cleared from the Commission accounts no later than with the final accounting year.In accordance with Article 90(6) of Regulation (EU) 2021/1060, any interest generated by the exceptional pre-financing shall be used for the programme concerned in the same way as the ERDF and shall be included in the accounts for the final accounting year.In accordance with Article 97(1) of Regulation (EU) 2021/1060, the exceptional pre-financing shall not be suspended.In accordance with Article 105(1) of Regulation (EU) 2021/1060, the pre-financing to be taken into account for the purposes of calculating amounts to be de-committed shall include the exceptional pre-financing paid.By way of derogation from Article 112 of Regulation (EU) 2021/1060, the maximum co-financing rates for dedicated priorities established to support the STEP objectives shall be 100 %.(*4) Regulation (EU) 2021/1059 of the European Parliament and of the Council of 24 June 2021 on specific provisions for the European territorial cooperation goal (Interreg) supported by the European Regional Development Fund and external financing instruments (OJ L 231, 30.6.2021, p. 94).’;" |
+| --- | --- |
+| (a) | in paragraph 1, point (a), the following point is added:‘(vi)supporting investments contributing to the objectives of the Strategic Technologies for Europe Platform (STEP) referred to in Article 2 of Regulation (EU) 2024/795 of the European Parliament and of the Council(*3).(*3) Regulation (EU) 2024/795 of the European Parliament and of the Council of 29 February 2024 establishing the Strategic Technologies for Europe Platform (STEP), and amending Directive 2003/87/EC and Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 (OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj).’;" |
+| ‘(vi) | supporting investments contributing to the objectives of the Strategic Technologies for Europe Platform (STEP) referred to in Article 2 of Regulation (EU) 2024/795 of the European Parliament and of the Council(*3). |
+| (b) | in paragraph 1, point (b), the following point is added:‘(ix)supporting investments contributing to the STEP objective referred to in Article 2(1), point (a)(ii), of Regulation (EU) 2024/795.’; |
+| ‘(ix) | supporting investments contributing to the STEP objective referred to in Article 2(1), point (a)(ii), of Regulation (EU) 2024/795.’; |
+| (c) | the following paragraph is inserted:‘1a The resources under the specific objective referred to in paragraph 1, points (a)(vi) and (b)(ix), shall be programmed under dedicated priorities corresponding to the respective policy objective and shall be limited to a maximum of 20 % of the initial national allocation of the ERDF.The Commission shall pay 30 % of the allocation to the priorities referred to in the first subparagraph of this paragraph as set out in the decision approving the programme amendment as exceptional one-off pre-financing in addition to the yearly pre-financing for the programme provided for in Article 90(1) and (2) of Regulation (EU) 2021/1060 or in Article 51(2), (3) and (4) of Regulation (EU) 2021/1059 of the European Parliament and of the Council(*4). That exceptional pre-financing shall be paid within 60 days of the adoption of the Commission decision approving the programme amendment, provided that the programme amendment is submitted to the Commission by 31 March 2025.In accordance with Article 90(5) of Regulation (EU) 2021/1060 and Article 51(5) of Regulation (EU) 2021/1059, the amount paid as exceptional pre-financing shall be cleared from the Commission accounts no later than with the final accounting year.In accordance with Article 90(6) of Regulation (EU) 2021/1060, any interest generated by the exceptional pre-financing shall be used for the programme concerned in the same way as the ERDF and shall be included in the accounts for the final accounting year.In accordance with Article 97(1) of Regulation (EU) 2021/1060, the exceptional pre-financing shall not be suspended.In accordance with Article 105(1) of Regulation (EU) 2021/1060, the pre-financing to be taken into account for the purposes of calculating amounts to be de-committed shall include the exceptional pre-financing paid.By way of derogation from Article 112 of Regulation (EU) 2021/1060, the maximum co-financing rates for dedicated priorities established to support the STEP objectives shall be 100 %.(*4) Regulation (EU) 2021/1059 of the European Parliament and of the Council of 24 June 2021 on specific provisions for the European territorial cooperation goal (Interreg) supported by the European Regional Development Fund and external financing instruments (OJ L 231, 30.6.2021, p. 94).’;" |
+
+| (2) | Article 5 is amended as follows:(a)in paragraph 2, the following point is added:‘(e)when they contribute to the specific objective under PO 1 set out in Article 3(1), point (a)(vi), or to the specific objective under PO 2 set out in Article 3(1), point (b)(ix), in less developed and transition regions, as well as more developed regions in Member States whose average GDP per capita is below the EU-27 average measured in purchasing power standards and calculated on the basis of Union figures for the period 2015-2017, while preserving a focus on SMEs.’;(b)in paragraph 2, the following subparagraph is added: ‘Point (e) shall apply to Interreg programmes where the geographical coverage of the programme within the Union consists exclusively of categories of regions set out in that point.’;(c)the following paragraph is inserted:‘3a. In order to contribute to the specific objectives under PO 1 set out in Article 3(1), point (a)(vi), and under PO 2 set out in point (b)(ix) of that subparagraph, the ERDF shall also support training, life-long learning, reskilling and education activities.’; |
+| --- | --- |
+| (a) | in paragraph 2, the following point is added:‘(e)when they contribute to the specific objective under PO 1 set out in Article 3(1), point (a)(vi), or to the specific objective under PO 2 set out in Article 3(1), point (b)(ix), in less developed and transition regions, as well as more developed regions in Member States whose average GDP per capita is below the EU-27 average measured in purchasing power standards and calculated on the basis of Union figures for the period 2015-2017, while preserving a focus on SMEs.’; |
+| ‘(e) | when they contribute to the specific objective under PO 1 set out in Article 3(1), point (a)(vi), or to the specific objective under PO 2 set out in Article 3(1), point (b)(ix), in less developed and transition regions, as well as more developed regions in Member States whose average GDP per capita is below the EU-27 average measured in purchasing power standards and calculated on the basis of Union figures for the period 2015-2017, while preserving a focus on SMEs.’; |
+| (b) | in paragraph 2, the following subparagraph is added: ‘Point (e) shall apply to Interreg programmes where the geographical coverage of the programme within the Union consists exclusively of categories of regions set out in that point.’; |
+| (c) | the following paragraph is inserted:‘3a. In order to contribute to the specific objectives under PO 1 set out in Article 3(1), point (a)(vi), and under PO 2 set out in point (b)(ix) of that subparagraph, the ERDF shall also support training, life-long learning, reskilling and education activities.’; |
+
+| (3) | in Annex I, Table I is amended as follows:(a)under policy objective 1, the following row is added: ‘(vi)supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795Any RCO listed for specific objectives (i), (iii) and (iv) RCO125 Firms: Enterprises supported linked primarily to digital technologies and deep tech innovation productive investments RCO126 Firms: Enterprises supported linked primarily to clean and resource-efficient technologies productive investments RCO127 Firms: Enterprises supported linked primarily to biotechnologies productive investments [These indicators are to be reported as subsets of RC001-RCO04]Any RCR listed for specific objectives (i), (iii) and (iv)’(b)under policy objective 2, the following row is added: ‘(ix)supporting investments contributing to the STEP objectives referred to in Article 2(1), point (a)(ii) of Regulation (EU) 2024/795Any RCO listed for specific objectives (i), (iii), (iv) and (vi) under policy objective 1 RCO125 Firms: Enterprises supported linked primarily to digital technologies and deep tech innovation productive investments RCO126 Firms: Enterprises supported linked primarily to clean and resource efficient technologies productive investments RCO127 Firms: Enterprises supported linked primarily to biotechnologies productive investments [These indicators are to be reported as subsets of RC001-RCO04]Any RCR listed for specific objectives (i), (iii) and (iv) under policy objective 1’ |  |  |
+| --- | --- | --- | --- |
+| (a) | under policy objective 1, the following row is added: ‘(vi)supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795Any RCO listed for specific objectives (i), (iii) and (iv) RCO125 Firms: Enterprises supported linked primarily to digital technologies and deep tech innovation productive investments RCO126 Firms: Enterprises supported linked primarily to clean and resource-efficient technologies productive investments RCO127 Firms: Enterprises supported linked primarily to biotechnologies productive investments [These indicators are to be reported as subsets of RC001-RCO04]Any RCR listed for specific objectives (i), (iii) and (iv)’ |  |  |
+|  | ‘(vi)supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795 | Any RCO listed for specific objectives (i), (iii) and (iv) RCO125 Firms: Enterprises supported linked primarily to digital technologies and deep tech innovation productive investments RCO126 Firms: Enterprises supported linked primarily to clean and resource-efficient technologies productive investments RCO127 Firms: Enterprises supported linked primarily to biotechnologies productive investments [These indicators are to be reported as subsets of RC001-RCO04] | Any RCR listed for specific objectives (i), (iii) and (iv)’ |
+| ‘(vi) | supporting investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795 |  |  |
+| (b) | under policy objective 2, the following row is added: ‘(ix)supporting investments contributing to the STEP objectives referred to in Article 2(1), point (a)(ii) of Regulation (EU) 2024/795Any RCO listed for specific objectives (i), (iii), (iv) and (vi) under policy objective 1 RCO125 Firms: Enterprises supported linked primarily to digital technologies and deep tech innovation productive investments RCO126 Firms: Enterprises supported linked primarily to clean and resource efficient technologies productive investments RCO127 Firms: Enterprises supported linked primarily to biotechnologies productive investments [These indicators are to be reported as subsets of RC001-RCO04]Any RCR listed for specific objectives (i), (iii) and (iv) under policy objective 1’ |  |  |
+|  | ‘(ix)supporting investments contributing to the STEP objectives referred to in Article 2(1), point (a)(ii) of Regulation (EU) 2024/795 | Any RCO listed for specific objectives (i), (iii), (iv) and (vi) under policy objective 1 RCO125 Firms: Enterprises supported linked primarily to digital technologies and deep tech innovation productive investments RCO126 Firms: Enterprises supported linked primarily to clean and resource efficient technologies productive investments RCO127 Firms: Enterprises supported linked primarily to biotechnologies productive investments [These indicators are to be reported as subsets of RC001-RCO04] | Any RCR listed for specific objectives (i), (iii) and (iv) under policy objective 1’ |
+| ‘(ix) | supporting investments contributing to the STEP objectives referred to in Article 2(1), point (a)(ii) of Regulation (EU) 2024/795 |  |  |
+
+| (4) | in Annex II, the table is amended as follows:(a)under policy objective 1, the following row is added: ‘(vi)supporting investments contributing to the STEP objectives referred to Article 2 of Regulation (EU) 2024/795Any CCO listed for specific objectives (i), (iii) and (iv) under policy objective 1Any CCR listed for specific objectives (i), (iii) and (iv) under policy objective 1’(b)under policy objective 2, the following row is added: ‘(ix)supporting investments contributing to the STEP objectives referred to Article 2(1), point (a)(ii) of Regulation (EU) 2024/795Any CCO listed for specific objectives (i), (iii) and (iv) under policy objective 1Any CCR listed for specific objectives (i), (iii) and (iv) under policy objective 1’ |  |  |
+| --- | --- | --- | --- |
+| (a) | under policy objective 1, the following row is added: ‘(vi)supporting investments contributing to the STEP objectives referred to Article 2 of Regulation (EU) 2024/795Any CCO listed for specific objectives (i), (iii) and (iv) under policy objective 1Any CCR listed for specific objectives (i), (iii) and (iv) under policy objective 1’ |  |  |
+|  | ‘(vi)supporting investments contributing to the STEP objectives referred to Article 2 of Regulation (EU) 2024/795 | Any CCO listed for specific objectives (i), (iii) and (iv) under policy objective 1 | Any CCR listed for specific objectives (i), (iii) and (iv) under policy objective 1’ |
+| ‘(vi) | supporting investments contributing to the STEP objectives referred to Article 2 of Regulation (EU) 2024/795 |  |  |
+| (b) | under policy objective 2, the following row is added: ‘(ix)supporting investments contributing to the STEP objectives referred to Article 2(1), point (a)(ii) of Regulation (EU) 2024/795Any CCO listed for specific objectives (i), (iii) and (iv) under policy objective 1Any CCR listed for specific objectives (i), (iii) and (iv) under policy objective 1’ |  |  |
+|  | ‘(ix)supporting investments contributing to the STEP objectives referred to Article 2(1), point (a)(ii) of Regulation (EU) 2024/795 | Any CCO listed for specific objectives (i), (iii) and (iv) under policy objective 1 | Any CCR listed for specific objectives (i), (iii) and (iv) under policy objective 1’ |
+| ‘(ix) | supporting investments contributing to the STEP objectives referred to Article 2(1), point (a)(ii) of Regulation (EU) 2024/795 |  |  |
+
+<a id="art_11"></a>
+
+### art_11
+
+Article 11
+
+Regulation (EU) 2021/1056 is amended as follows:
+
+| (1) | Article 2 is replaced by the following:‘Article 2Specific objectiveIn accordance with the second subparagraph of Article 5(1) of Regulation (EU) 2021/1060, the JTF shall contribute to the specific objective of enabling regions and people to address the social, employment, economic and environmental impacts of the transition towards the Union’s 2030 targets for energy and climate and a climate-neutral economy of the Union by 2050, based on the Paris Agreement. The JTF may also support investments contributing to the objectives of the Strategic Technologies for Europe Platform (STEP) referred to in Article 2 of Regulation (EU) 2024/795 of the European Parliament and of the Council(*5).(*5) Regulation (EU) 2024/795 of the European Parliament and of the Council of 29 February 2024 establishing the Strategic Technologies for Europe Platform (STEP), and amending Directive 2003/87/EC and Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 (OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj).’;" |
+| --- | --- |
+
+| (2) | in Article 8(2), the following subparagraph is added: ‘The JTF may also support productive investments in enterprises other than SMEs, while preserving a focus on SMEs, contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795. That support may be provided irrespective of whether the gap analysis was carried out in accordance with point (h) of Article 11(2) of this Regulation and irrespective of its outcome. Such investments shall only be eligible where they do not lead to relocation as defined in point (27) of Article 2 of Regulation (EU) 2021/1060. The provision of such support shall not require a revision of the territorial just transition plan where that revision would be exclusively linked to the gap analysis. Apprenticeships and jobs, education or training for new skills shall be considered in the selection process.’; |
+| --- | --- |
+
+| (3) | in Article 10, the following paragraph is added:‘4. The Commission shall pay 30 % of the JTF allocation, including amounts transferred in line with Article 27 of Regulation (EU) 2021/1060, to a programme as set out in the decision approving the programme as exceptional one-off pre-financing in addition to the yearly pre-financing for the programme provided for in Article 90(1) and (2) of that Regulation. That exceptional pre-financing shall be paid as from 1 March 2024.In accordance with Article 90(5) of Regulation (EU) 2021/1060, the amount paid as exceptional pre-financing shall be cleared from the Commission accounts no later than with the final accounting year.In accordance with Article 90(6) of Regulation (EU) 2021/1060, any interest generated by the exceptional pre-financing shall be used for the programme concerned in the same way as the JTF and shall be included in the accounts for the final accounting year.In accordance with Article 97(1) of Regulation (EU) 2021/1060, the exceptional pre-financing shall not be suspended.In accordance with Article 105(1) of Regulation (EU) 2021/1060, the pre-financing to be taken into account for the purposes of calculating amounts to be de-committed shall include the exceptional pre-financing paid.By way of derogation from Article 112 of Regulation (EU) 2021/1060, the maximum co-financing rates for dedicated priorities established to support the STEP objectives shall be 100 %.’. |
+| --- | --- |
+
+<a id="art_12"></a>
+
+### art_12
+
+Article 12
+
+The following Article is inserted in Regulation (EU) 2021/1057:
+
+‘Article 12a
+
+Support for the STEP objectives
+
+1. Member States may use the ESF+ to provide support to the objectives of the Strategic Technologies for Europe Platform (STEP) referred to in Article 2(1), point (b) of Regulation (EU) 2024/795 of the European Parliament and of the Council(*6), under the relevant specific objectives set out in Article 4(1) of this Regulation, including by supporting the development of skills in net-zero technologies, inter alia those based on learning programmes created by European Skills Academies, as well as the training of young people and the skilling, upskilling and reskilling of workers in net-zero technologies.
+
+2. In addition to the pre-financing for the programme provided for in Article 90(1) and (2) of Regulation (EU) 2021/1060, where the Commission approves an amendment of a programme including one or more priorities dedicated to operations supported by the ESF+ contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795, it shall make an exceptional pre-financing of 30 % on the basis of the allocation to those priorities. That exceptional pre-financing shall be paid within 60 days of the adoption of the Commission decision approving the programme amendment, provided that the programme amendment is submitted to the Commission by 31 March 2025.
+
+In accordance with Article 90(5) of Regulation (EU) 2021/1060, the amount paid as exceptional pre-financing shall be cleared from the Commission accounts no later than with the final accounting year.
+
+In accordance with Article 90(6) of Regulation (EU) 2021/1060, any interest generated by the exceptional pre-financing shall be used for the programme concerned in the same way as the ESF+ and shall be included in the accounts for the final accounting year.
+
+In accordance with Article 97(1) of Regulation (EU) 2021/1060, the exceptional pre-financing shall not be suspended.
+
+In accordance with Article 105(1) of Regulation (EU) 2021/1060, the pre-financing to be taken into account for the purposes of calculating amounts to be de-committed shall include the exceptional pre-financing paid.
+
+By way of derogation from Article 112 of Regulation (EU) 2021/1060, the maximum co-financing rate for dedicated priorities established to support the STEP objectives shall be 100 %.
+
+<a id="art_13"></a>
+
+### art_13
+
+Article 13
+
+Regulation (EU) 2021/1060 is amended as follows:
+
+| (1) | in Article 2, point (45) is replaced by the following:‘(45)“Seal of Excellence” means the quality label attributed by the Commission in respect of a proposal, which shows that the proposal which has been assessed in a call for proposals under a Union instrument is deemed to comply with the minimum quality requirements of that Union instrument, but could not be funded due to lack of budget available for that call for proposals, and might receive support from other Union or national sources of funding; or the “Sovereignty Seal” referred to in Article 4 of Regulation (EU) 2024/795 of the European Parliament and of the Council(*7).(*7) Regulation (EU) 2024/795 of the European Parliament and of the Council of 29 February 2024 establishing the Strategic Technologies for Europe Platform (STEP), and amending Directive 2003/87/EC and Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 (OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj).’;" |
+| --- | --- |
+| ‘(45) | “Seal of Excellence” means the quality label attributed by the Commission in respect of a proposal, which shows that the proposal which has been assessed in a call for proposals under a Union instrument is deemed to comply with the minimum quality requirements of that Union instrument, but could not be funded due to lack of budget available for that call for proposals, and might receive support from other Union or national sources of funding; or the “Sovereignty Seal” referred to in Article 4 of Regulation (EU) 2024/795 of the European Parliament and of the Council(*7). |
+
+| (2) | in Article 6(1), the following subparagraph is added: ‘Where, as a result of a programme amendment for the Strategic Technologies for Europe Platform (STEP) established by Regulation (EU) 2024/795, the climate contribution of the Cohesion Fund would exceed the target of 37 % of its total allocation, the amount exceeding that target may be taken into account when calculating the climate contribution of the ERDF for the purpose of reaching the target of 30 % of its total allocation. The amounts exceeding the ERDF climate contribution target of 30 % of its total allocation may be taken into account when calculating the climate contribution of the Cohesion Fund.’; |
+| --- | --- |
+
+| (3) | in Article 13, the following paragraphs are added:‘5. Without prejudice to the possibility to amend the Partnership Agreement by 31 March 2025 as referred to in paragraph 1 of this Article, a Member State may submit to the Commission an amended Partnership Agreement to take into account the introduction in the programmes of priorities contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795.6. By way of derogation from paragraphs 2 and 4 of this Article, the Commission shall approve the amended Partnership Agreement referred to in paragraph 5 no later than three months after its first submission by the Member State.’; |
+| --- | --- |
+
+| (4) | in Article 14(5), the first subparagraph is replaced by the following: ‘In accordance with the second subparagraph of Article 10(4) of Regulation (EU) 2021/523, where a guarantee agreement has not been concluded within 12 months of the conclusion of the contribution agreement, the contribution agreement shall be terminated or prolonged by mutual agreement.’; |
+| --- | --- |
+
+| (5) | in Article 24, the following paragraphs are added:‘9. By way of derogation from Article 18 of this Regulation, where priorities dedicated to investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795 have been included in a programme as a result of the approval of a programme amendment submitted by the Member State by 31 August 2024, those priorities shall not be taken into account for the purposes of the mid-term review. The decision approving such programme amendments may include a definitive allocation of the totality or part of the flexibility amount for the years 2026 and 2027 to address priorities dedicated to investments contributing to the STEP objectives. Where the totality of the flexibility amount of a programme is definitively allocated to such priorities, the mid-term review shall not be carried out for that programme.10. By way of derogation from paragraph 4 of this Article, the Commission shall adopt the decision approving a programme amendment that has been submitted by 31 August 2024 within two months of its submission by a Member State provided that it concerns exclusively the introduction of dedicated priorities to investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795.’; |
+| --- | --- |
+
+| (6) | in Article 49, the following paragraph is added:‘7. Where support is programmed for the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795, the managing authority shall ensure that all the information to be published in accordance with paragraph 2 of this Article is also submitted to the Commission in the format set out in paragraph 4 of this Article for publication on the Sovereignty Portal established pursuant to Article 6 of Regulation (EU) 2024/795, including a timetable of the planned calls for proposals that is updated at least three times a year, as well as the link to the calls for proposals on the day of their publication.’; |
+| --- | --- |
+
+| (7) | Annex I is amended as follows:(a)in Table 1, the following rows are added:INTERVENTION FIELDCoefficient for the calculation of support to climate change objectivesCoefficient for the calculation of support to environmental objectives‘145aSupport for the development of skills or access to employment in digital technologies and deep tech innovation, biotechnologies.0 %0 %145bSupport for the development of skills or access to employment in clean and resource-efficient technologies.100 %40 %188Productive investments in large enterprises linked primarily to clean and resource-efficient technologies.100 %40 %189Productive investments in SMEs linked primarily to clean and resource-efficient technologies.100 %40 %190Productive investments in large enterprises linked primarily to biotechnologies.0 %0 %191Productive investments in SMEs linked primarily to biotechnologies.0 %0 %192Productive investments in large enterprises linked primarily to digital technologies and deep tech innovation.0 %0 %193Productive investments in SMEs linked primarily to digital technologies and deep tech innovation.0 %0 %’(b)in Table 6, the following row is added:‘11Contributing to skills and jobs in digital technologies and deep tech innovation, clean and resource-efficient technologies, and biotechnologies0 %0 %’ |  |  |
+| --- | --- | --- | --- |
+| (a) | in Table 1, the following rows are added:INTERVENTION FIELDCoefficient for the calculation of support to climate change objectivesCoefficient for the calculation of support to environmental objectives‘145aSupport for the development of skills or access to employment in digital technologies and deep tech innovation, biotechnologies.0 %0 %145bSupport for the development of skills or access to employment in clean and resource-efficient technologies.100 %40 %188Productive investments in large enterprises linked primarily to clean and resource-efficient technologies.100 %40 %189Productive investments in SMEs linked primarily to clean and resource-efficient technologies.100 %40 %190Productive investments in large enterprises linked primarily to biotechnologies.0 %0 %191Productive investments in SMEs linked primarily to biotechnologies.0 %0 %192Productive investments in large enterprises linked primarily to digital technologies and deep tech innovation.0 %0 %193Productive investments in SMEs linked primarily to digital technologies and deep tech innovation.0 %0 %’ |  |  |
+| INTERVENTION FIELD | Coefficient for the calculation of support to climate change objectives | Coefficient for the calculation of support to environmental objectives |  |
+| ‘145a | Support for the development of skills or access to employment in digital technologies and deep tech innovation, biotechnologies. | 0 % | 0 % |
+| 145b | Support for the development of skills or access to employment in clean and resource-efficient technologies. | 100 % | 40 % |
+| 188 | Productive investments in large enterprises linked primarily to clean and resource-efficient technologies. | 100 % | 40 % |
+| 189 | Productive investments in SMEs linked primarily to clean and resource-efficient technologies. | 100 % | 40 % |
+| 190 | Productive investments in large enterprises linked primarily to biotechnologies. | 0 % | 0 % |
+| 191 | Productive investments in SMEs linked primarily to biotechnologies. | 0 % | 0 % |
+| 192 | Productive investments in large enterprises linked primarily to digital technologies and deep tech innovation. | 0 % | 0 % |
+| 193 | Productive investments in SMEs linked primarily to digital technologies and deep tech innovation. | 0 % | 0 %’ |
+| (b) | in Table 6, the following row is added:‘11Contributing to skills and jobs in digital technologies and deep tech innovation, clean and resource-efficient technologies, and biotechnologies0 %0 %’ |  |  |
+| ‘11 | Contributing to skills and jobs in digital technologies and deep tech innovation, clean and resource-efficient technologies, and biotechnologies | 0 % | 0 %’ |
+
+<a id="art_14"></a>
+
+### art_14
+
+Article 14
+
+Regulation (EU) No 1303/2013 is amended as follows:
+
+| (1) | in Article 25a, the following paragraph is inserted:‘1b. By way of derogation from Article 60(1) and the first and fourth subparagraphs of Article 120(3), a co-financing rate of 100 % may be applied to expenditure declared in payment applications for the entire accounting year starting on 1 July 2023 and ending on 30 June 2024 for one or more priority axes in a programme supported by the ERDF, the ESF or the Cohesion Fund.By way of derogation from Article 30(1) and (2) and Article 96(10), the application of the co-financing rate of 100 % shall not require a Commission decision approving a programme amendment. The Member State shall notify the revised financial tables to the Commission following approval by the monitoring committee. The co-financing rate of 100 % shall apply only if the financial tables are notified to the Commission before the submission of the final application for an interim payment for the last accounting year starting on 1 July 2023 and ending on 30 June 2024 in accordance with Article 135(2).’; |
+| --- | --- |
+
+| (2) | in Article 130, paragraph 3 the first subparagraph is replaced by the following:‘3. By way of derogation from paragraph 2, the contribution from the Funds or the EMFF through payments of the final balance for each priority per Fund and per category of regions in the final accounting year shall not exceed, by more than 15 %, the contribution from the Funds or the EMFF for each priority per Fund and per category of regions as laid down in the decision of the Commission approving the operational programme. For the purposes of this paragraph, the additional special allocation for the outermost regions set out in Article 92(1), point (e), shall be considered part of the ERDF allocation to the category of regions of the outermost region concerned.’; |
+| --- | --- |
+
+| (3) | in Article 135, the following paragraph is added:‘6. By way of derogation from paragraph 2, the deadline for the submission of the final application for an interim payment for the final accounting year shall be 31 July 2025. The last application for interim payment submitted by 31 July 2025 shall be deemed to be the final application for an interim payment for the final accounting year.Amounts from resources other than REACT-EU reimbursed by the Commission as interim payments in 2025 shall not exceed 1 % of the total financial appropriations to the programme concerned by Fund, REACT-EU resources excluded. Amounts that would be due to be paid by the Commission in 2025 exceeding this percentage shall not be paid and shall be used exclusively for the clearing of pre-financing at closure.’; |
+| --- | --- |
+
+| (4) | in Article 138, the following subparagraph is added: ‘By way of derogation from the deadline set out in the first subparagraph, Member States may submit the documents referred to under points (a), (b) and (c) for the final accounting year by 15 February 2026.’. |
+| --- | --- |
+
+<a id="art_15"></a>
+
+### art_15
+
+Article 15
+
+Regulation (EU) No 223/2014 is amended as follows:
+
+| (1) | in Article 13, paragraph 5 is replaced by the following:‘5. The Member State shall submit a final report on implementation of the operational programme together with the closure documents as set out in Article 52 by 15 February 2026 at the latest.’; |
+| --- | --- |
+
+| (2) | in Article 22, the following paragraph is inserted:‘2a. In the case of costs reimbursed pursuant to points (b) to (e) of Article 26(2), the corresponding actions being reimbursed shall be carried out by the submission of the final application for an interim payment for the final accounting year in accordance with Article 45(6).’; |
+| --- | --- |
+
+| (3) | in Article 45, the following paragraph is added:‘6. By way of derogation from paragraph 2, the deadline for the submission of the final application for an interim payment for the final accounting year shall be 31 July 2025. The last application for interim payment submitted by 31 July 2025 shall be deemed to be the final application for an interim payment for the final accounting year.Amounts reimbursed by the Commission as interim payments in 2025 shall not exceed 1 % of the total financial appropriations to the programme concerned. Amounts that would be due to be paid by the Commission in 2025 exceeding this percentage shall not be paid and shall be used exclusively for the clearing of pre-financing at closure.’; |
+| --- | --- |
+
+| (4) | in Article 48, the following paragraph is added: ‘By way of derogation from the deadline set out in the first paragraph, Member States may submit the documents referred to under points (a), (b) and (c) for the final accounting year by 15 February 2026.’. |
+| --- | --- |
+
+<a id="art_16"></a>
+
+### art_16
+
+Article 16
+
+Regulation (EU) 2021/523 is amended as follows:
+
+| (1) | Article 3 is amended as follows:(a)in paragraph 1, the following point is added:‘(h)supporting investments contributing to the objectives of the Strategic Technologies for Europe Platform (STEP) referred to in Article 2 of Regulation (EU) 2024/795 of the European Parliament and of the Council(*8).(*8) Regulation (EU) 2024/795 of the European Parliament and of the Council of 29 February 2024 establishing the Strategic Technologies for Europe Platform (STEP), and amending Directive 2003/87/EC and Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 (OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj).’;" |
+| --- | --- |
+| (a) | in paragraph 1, the following point is added:‘(h)supporting investments contributing to the objectives of the Strategic Technologies for Europe Platform (STEP) referred to in Article 2 of Regulation (EU) 2024/795 of the European Parliament and of the Council(*8).(*8) Regulation (EU) 2024/795 of the European Parliament and of the Council of 29 February 2024 establishing the Strategic Technologies for Europe Platform (STEP), and amending Directive 2003/87/EC and Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 (OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj).’;" |
+| ‘(h) | supporting investments contributing to the objectives of the Strategic Technologies for Europe Platform (STEP) referred to in Article 2 of Regulation (EU) 2024/795 of the European Parliament and of the Council(*8). |
+
+| (2) | in Article 7(3), the following subparagraph is added: ‘By way of derogation from the first subparagraph, when support from the financial instruments is combined in a financial product in a subordinated position to the EU guarantee under this Regulation and/or EU guarantee established by Regulation (EU) 2015/1017, the losses, revenues and repayments from financial products as referred to in paragraph 1, as well as potential recoveries, may also be attributed on a non pro rata basis between the financial instruments and the EU guarantee under this Regulation and/or EU guarantee established by Regulation (EU) 2015/1017.’; |
+| --- | --- |
+
+| (3) | in Article 10(4), the second subparagraph is replaced by the following: ‘Where no guarantee agreement has been concluded within 12 months from the conclusion of the contribution agreement, the contribution agreement shall be terminated or prolonged by mutual agreement. Where the amount of a contribution agreement has not been fully committed under one or more guarantee agreements within 12 months from the conclusion of the contribution agreement, that amount shall be amended accordingly. The unused amount of provisioning attributable to amounts allocated by Member States pursuant to the provisions on the use of the ERDF, the ESF+, the Cohesion Fund and the EMFAF delivered through the InvestEU Programme laid down in Regulation (EU) 2021/1060 of the European Parliament and of the Council(*9) or to the provisions on the use of the EAFRD delivered through the InvestEU Programme laid down in the CAP Strategic Plans Regulation shall be re-used in accordance with those respective Regulations. The unused amount of provisioning attributable to amounts allocated by a Member State under Article 4(1), third subparagraph, of this Regulation shall be paid back to the Member State.(*9) Regulation (EU) 2021/1060 of the European Parliament and of the Council of 24 June 2021 laying down common provisions on the European Regional Development Fund, the European Social Fund Plus, the Cohesion Fund, the Just Transition Fund and the European Maritime, Fisheries and Aquaculture Fund and financial rules for those and for the Asylum, Migration and Integration Fund, the Internal Security Fund and the Instrument for Financial Support for Border Management and Visa Policy (OJ L 231, 30.6.2021, p. 159).’;" |
+| --- | --- |
+
+| (4) | Article 13 is amended as follows:(a)paragraph 5 is replaced by the following:‘5. The remaining 25 % of the EU guarantee under the EU compartment shall be granted to other implementing partners, which shall also provide a financial contribution to be determined in the guarantee agreements. Where the Commission determines that such other implementing partners do not make full use of the remaining 25 % of the EU guarantee under the EU compartment, the unused amounts may be granted to the EIB Group. In that case the EIB Group shall provide an additional corresponding financial contribution in accordance with the requirements laid down in the third sentence of paragraph 4.’;(b)in paragraph 7, the second subparagraph is replaced by the following: ‘Contracts between the implementing partner and the final recipient or the financial intermediary or other entity referred to in Article 16(1), point (a), under the EU guarantee referred to in the first subparagraph of Article 4(2) shall be signed at the latest by 31 August 2026. In other cases, contracts between the implementing partner and the final recipient or the financial intermediary or other entity referred to Article 16(1), point (a), shall be signed by 31 December 2028.’; |
+| --- | --- |
+| (a) | paragraph 5 is replaced by the following:‘5. The remaining 25 % of the EU guarantee under the EU compartment shall be granted to other implementing partners, which shall also provide a financial contribution to be determined in the guarantee agreements. Where the Commission determines that such other implementing partners do not make full use of the remaining 25 % of the EU guarantee under the EU compartment, the unused amounts may be granted to the EIB Group. In that case the EIB Group shall provide an additional corresponding financial contribution in accordance with the requirements laid down in the third sentence of paragraph 4.’; |
+| (b) | in paragraph 7, the second subparagraph is replaced by the following: ‘Contracts between the implementing partner and the final recipient or the financial intermediary or other entity referred to in Article 16(1), point (a), under the EU guarantee referred to in the first subparagraph of Article 4(2) shall be signed at the latest by 31 August 2026. In other cases, contracts between the implementing partner and the final recipient or the financial intermediary or other entity referred to Article 16(1), point (a), shall be signed by 31 December 2028.’; |
+
+| (5) | in Article 23, the following paragraph is added:‘3. In the context of the procedures referred to in paragraphs 1 and 2 of this Article, the Commission shall take into account any Sovereignty Seal awarded in accordance with Article 4 of Regulation (EU) 2024/795 to a project.’; |
+| --- | --- |
+
+| (6) | in Article 26, the following paragraph is added:‘5. In addition to paragraph 4, implementing partners shall also examine projects that have been awarded the Sovereignty Seal in accordance with Article 4 of Regulation (EU) 2024/795 where those projects fall within their geographic and activity scope.’. |
+| --- | --- |
+
+<a id="art_17"></a>
+
+### art_17
+
+Article 17
+
+Regulation (EU) 2021/695 is amended as follows:
+
+| (1) | in Article 12, paragraph 1 is replaced by the following:‘1. The financial envelope for the implementation of the Programme for the period from 1 January 2021 to 31 December 2027 shall be EUR 86 123 000 000 in current prices for the specific programme referred to in point (a) of Article 1(2) and for the EIT and EUR 9 453 000 000 in current prices for the specific programme referred to in point (c) of Article 1(2).’; |
+| --- | --- |
+
+| (2) | in Article 48, paragraph 1 is amended as follows:(a)in the second subparagraph, point (c) is replaced by the following:‘(c)equity-only support to non-bankable SMEs, including start-ups, carrying out breakthrough and disruptive non-bankable innovation may also be provided;(d)equity-only support required for scale-up to non-bankable SMEs, including start-ups, and non-bankable small mid-caps, including entities which have already received support in line with points (a) to (c), carrying out breakthrough and disruptive non-bankable innovation in the critical technologies referred to in Article 2(1)(a) of Regulation (EU) 2024/795 of the European Parliament and of the Council(*10).(*10) Regulation (EU) 2024/795 of the European Parliament and of the Council of 29 February 2024 establishing the Strategic Technologies for Europe Platform (STEP), and amending Directive 2003/87/EC and Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 (OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj).’;" (b)the following subparagraph is added: ‘When providing equity support, the EIC shall strive to crowd-in other investors. However, in order to effectively support non-bankable innovation, equity support can be provided without crowding-in other investors, particularly for but not limited to breakthrough and disruptive non-bankable innovation in the technologies referred to in Article 2(1), point (a), of Regulation (EU) 2024/795.’. |
+| --- | --- |
+| (a) | in the second subparagraph, point (c) is replaced by the following:‘(c)equity-only support to non-bankable SMEs, including start-ups, carrying out breakthrough and disruptive non-bankable innovation may also be provided;(d)equity-only support required for scale-up to non-bankable SMEs, including start-ups, and non-bankable small mid-caps, including entities which have already received support in line with points (a) to (c), carrying out breakthrough and disruptive non-bankable innovation in the critical technologies referred to in Article 2(1)(a) of Regulation (EU) 2024/795 of the European Parliament and of the Council(*10).(*10) Regulation (EU) 2024/795 of the European Parliament and of the Council of 29 February 2024 establishing the Strategic Technologies for Europe Platform (STEP), and amending Directive 2003/87/EC and Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 (OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj).’;" |
+| ‘(c) | equity-only support to non-bankable SMEs, including start-ups, carrying out breakthrough and disruptive non-bankable innovation may also be provided; |
+| (d) | equity-only support required for scale-up to non-bankable SMEs, including start-ups, and non-bankable small mid-caps, including entities which have already received support in line with points (a) to (c), carrying out breakthrough and disruptive non-bankable innovation in the critical technologies referred to in Article 2(1)(a) of Regulation (EU) 2024/795 of the European Parliament and of the Council(*10). |
+| (b) | the following subparagraph is added: ‘When providing equity support, the EIC shall strive to crowd-in other investors. However, in order to effectively support non-bankable innovation, equity support can be provided without crowding-in other investors, particularly for but not limited to breakthrough and disruptive non-bankable innovation in the technologies referred to in Article 2(1), point (a), of Regulation (EU) 2024/795.’. |
+
+<a id="art_18"></a>
+
+### art_18
+
+Article 18
+
+Article 4 of Regulation (EU) 2021/697 is amended as follows:
+
+| (1) | paragraph 1 is replaced by the following:‘1. In accordance with Article 12(1) of Regulation (EU) 2021/695, the financial envelope for the implementation of the Fund for the period from 1 January 2021 to 31 December 2027 shall be EUR 9 453 000 000 in current prices.’; |
+| --- | --- |
+
+| (2) | in paragraph 2, points (a) and (b) are replaced by the following:‘(a)EUR 3 151 000 000 for research actions;(b)EUR 6 302 000 000 for development actions.’; |
+| --- | --- |
+| ‘(a) | EUR 3 151 000 000 for research actions; |
+| (b) | EUR 6 302 000 000 for development actions.’; |
+
+| (3) | the following paragraph is added:‘5. An amount of EUR 1 500 000 000 in current prices of the amount referred to in paragraph 2 shall be allocated to calls for proposals or awards of funding supporting investments contributing to the objectives of the Strategic Technologies for Europe Platform (STEP) referred to in Article 2(1), point (a), of Regulation (EU) 2024/795 of the European Parliament and of the Council(*11).(*11) Regulation (EU) 2024/795 of the European Parliament and of the Council of 29 February 2024 establishing the Strategic Technologies for Europe Platform (STEP), and amending Directive 2003/87/EC and Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 (OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj).’." |
+| --- | --- |
+
+<a id="art_19"></a>
+
+### art_19
+
+Article 19
+
+Regulation (EU) 2021/241 is amended as follows:
+
+| (1) | in Article 7, the following paragraph is added:‘3. Without prejudice to paragraph 2 of this Article, Member States may also propose to include in their recovery and resilience plan, as estimated costs, the amount of the cash contribution for the purpose of the Member State compartment pursuant to the relevant provisions of Regulation (EU) 2021/523 of the European Parliament and of the Council(*12) exclusively for measures supporting investment operations contributing to the objectives of the Strategic Technologies for Europe Platform (STEP) referred to in Article 2 of Regulation (EU) 2024/795 of the European Parliament and of the Council(*13). Those costs shall not exceed 6 % of the recovery and resilience plan’s total financial allocation, and the relevant measures, as set out in the recovery and resilience plan, shall respect the requirements of this Regulation.(*12) Regulation (EU) 2021/523 of the European Parliament and of the Council of 24 March 2021 establishing the InvestEU Programme and amending Regulation (EU) 2015/1017 (OJ L 107, 26.3.2021, p. 30)." (*13) Regulation (EU) 2024/795 of the European Parliament and of the Council of 29 February 2024 establishing the Strategic Technologies for Europe Platform (STEP), and amending Directive 2003/87/EC and Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 (OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj).’;" |
+| --- | --- |
+
+| (2) | in Article 21, the following paragraph is inserted:‘1a. For the sole purpose of taking advantage of the possibility provided for in Article 7(3) of this Regulation and in Article 4(4) of Regulation (EU) 2024/795, Member States may make a reasoned request to the Commission to make a proposal to amend the Council implementing decision referred to in Article 20(1) and (3) of this Regulation to include measures which support the objectives of Regulation (EU) 2024/795 without prejudice to the provisions of this Regulation.’; |
+| --- | --- |
+
+| (3) | in Article 29 the following paragraph is added:‘6. Prior to launching any calls for proposals or tendering procedures related to the STEP objectives set out in Article 2 of Regulation (EU) 2024/795, Member States shall make available the following information on the Sovereignty Portal referred to in Article 6 of that Regulation:(a)geographical area covered by the call for proposal;(b)investment concerned;(c)type of eligible applicants;(d)total amount of support for the call;(e)start and end date of the call;(f)link to the website where the call will be published.’. |
+| --- | --- |
+| (a) | geographical area covered by the call for proposal; |
+| (b) | investment concerned; |
+| (c) | type of eligible applicants; |
+| (d) | total amount of support for the call; |
+| (e) | start and end date of the call; |
+| (f) | link to the website where the call will be published.’. |
+
+<a id="art_20"></a>
+
+### art_20
+
+Article 20
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.

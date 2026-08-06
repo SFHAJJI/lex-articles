@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0417:2024-11-28",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2025/417 of 28\u00A0November 2024 supplementing Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-11-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0417/versions/2024-11-28/en.xml",
+    "sha256": "49d9aa5ac4464aba71175cd71cdad8ddeac59bb903e7083e95840ddd17a1aabb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0417"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0417:2024-11-28#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Crypto-asset service providers operating a trading platform for crypto-assets shall publish the information on the operating rules for their trading platform free of charge and in a manner that is easily accessible, non-discriminatory, prominent, comprehensible, fair, clear, not misleading and facilitates understanding.\n\n2. Crypto-asset service providers operating a trading platform for crypto-assets shall publish the operating rules for their trading platform in a single document on the crypto-asset service provider’s website.",
+      "text_sha256": "38319d5e621d1298b636355edb819322874af3555ff755dba6cd5a805b9f1064",
+      "md_span": {
+        "start": 650,
+        "end": 1197
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0417:2024-11-28#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Crypto-asset service providers operating a trading platform for crypto-assets shall make public any bid and ask prices and the depth of trading interest at those prices, as referred to in Article 76(9) of Regulation (EU) 2023/1114, in accordance with the type of trading systems they operate as listed in Table 1 of Annex I to this Regulation.\n\n2. When the objective market conditions referred to in point (a) occur, crypto-asset service providers operating a trading platform for crypto-assets shall make public the orders that meet all of the following conditions:\n\n| (a) | the orders are contingent on the occurrence of objective market conditions which are pre-defined by the trading system’s protocol; |\n| --- | --- |\n\n| (b) | the orders cannot interact with other trading interests prior to the disclosure to the order book operated by the trading platform; |\n| --- | --- |\n\n| (c) | once disclosed to the order book, the orders interact with other orders in accordance with the rules applicable to orders of that kind at the time of disclosure. |\n| --- | --- |\n\n3. Crypto-asset service providers operating a trading platform for crypto-assets shall make public the details of each order for crypto-assets as set out in Tables 2 and 3 of Annex I.",
+      "text_sha256": "833b01705587750da8cec207cea25d1cd9ca0328d81e6fa001cf082851a926fb",
+      "md_span": {
+        "start": 1230,
+        "end": 2495
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0417:2024-11-28#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Crypto-asset service providers operating a trading platform for crypto-assets shall make public the details of each transaction as referred to in Article 76(10) of Regulation (EU) 2023/1114 as set out in Tables 1 and 2 of Annex II.\n\n2. Where a previously published trade report is cancelled, crypto-asset service providers operating a trading platform for crypto-assets shall make public a new trade report which contains all the details of the original trade report and the cancellation flag specified in Table 3 of Annex II.\n\n3. Where a previously published trade report is amended, crypto-asset service providers operating a trading platform for crypto-assets shall make the following information public:\n\n| (a) | a new trade report that contains all the details of the original trade report and the cancellation flag specified in Table 3 of Annex II; |\n| --- | --- |\n\n| (b) | a new trade report that contains all the details of the original trade report with all necessary details corrected, and the amendment flag specified in Table 3 of Annex II. |\n| --- | --- |",
+      "text_sha256": "8c7de6a32a268bae232380d6e10c159c04ab5ea5e4c3381de74999b1e80b9298",
+      "md_span": {
+        "start": 2528,
+        "end": 3610
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0417:2024-11-28#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nFor transactions executed on their crypto-asset trading platforms, crypto-asset service providers operating a trading platform for crypto-assets shall make public the details of each transaction as set out in Tables 1, 2 and 3 of Annex II as close to real-time as is technically possible and in any case within thirty seconds after the execution of the transaction.",
+      "text_sha256": "aec67b88e0122286a5358714745be7e489841e0525cc79d11c977f83ddb6de44",
+      "md_span": {
+        "start": 3643,
+        "end": 4019
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0417:2024-11-28#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Crypto-asset service providers operating a trading platform for crypto-assets shall make the information published in accordance with Articles 2 and 3 available to the public by publishing pre-trade and post-trade transparency data separately.\n\n2. Crypto-asset service providers operating a trading platform for crypto-assets shall upon request by any interested party make the data published in accordance with Articles 2 and 3 available to the public by presenting pre-trade and post-trade data disaggregated for each crypto-asset.\n\n3. In addition to presenting the data in accordance with paragraph 2, crypto-asset service providers operating a trading platform may present the data referred to in paragraph 2 in bundles of crypto-assets.\n\n4. Paragraphs 2 and 3 shall not apply where the information referred to in Articles 2 and 3 is made available free of charge.",
+      "text_sha256": "04862281cd103d6c1a384a7c56bb0e141cd91d4974deffdb1d929cf4b16412ab",
+      "md_span": {
+        "start": 4052,
+        "end": 4934
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r0417:2024-11-28#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fa276107727fcac2c4e64f6e6728350e99397b510291050a1165e007d077a146",
+      "md_span": {
+        "start": 4967,
+        "end": 5118
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

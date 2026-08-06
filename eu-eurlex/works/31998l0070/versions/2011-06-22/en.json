@@ -1,0 +1,853 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31998l0070:2011-06-22",
+  "language": "en",
+  "title": "Directive 98/70/EC",
+  "valid_from": "2011-06-22",
+  "valid_to": "2014-06-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31998l0070/versions/2011-06-22/en.xml",
+    "sha256": "4f921dd6340b08fdc85771b194c27f8594ddec5401c19b8c744400bd2955ac0c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01998L0070-20110622"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Scope",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive sets, in respect of road vehicles, and non-road mobile machinery (including inland waterway vessels when not at sea), agricultural and forestry tractors, and recreational craft when not at sea:\n\n(a) technical specifications on health and environmental grounds for fuels to be used with positive ignition and compression-ignition engines, taking account of the technical requirements of those engines; and\n\n(b) a target for the reduction of life cycle greenhouse gas emissions.",
+      "text_sha256": "1365cb6b2d3fabab29908b14463b4c55b2d623d3eaffce06d97b925ee7847405",
+      "md_span": {
+        "start": 590,
+        "end": 1081
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0017",
+          "text": "32003L0017: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Definitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the purposes of this Directive:\n\n1. ‘petrol’ means any volatile mineral oil intended for the operation of internal combustion positive-ignition engines for the propulsion of vehicles and falling within CN codes 2710 11 41, 2710 11 45, 2710 11 49, 2710 11 51 and 2710 11 59 (13);\n\n2. ‘diesel fuels’ means gas oils falling within CN code 2710 19 41 (14) and used for self-propelling vehicles as referred to in Directive 70/220/EEC and Directive 88/77/EEC;\n\n3. ‘gas oils intended for use by non-road mobile machinery (including inland waterway vessels), agricultural and forestry tractors, and recreational craft’ means any petroleum-derived liquid, falling within CN codes 2710 19 41 and 2710 19 45 (15), intended for use in compression ignition engines referred to in Directives 94/25/EC (16), 97/68/EC (17) and 2000/25/EC (18);\n\n4. ‘outermost regions’ means France with regard to the French overseas departments, Portugal with regard to the Azores and Madeira, and Spain with regard to the Canary Islands;\n\n5. ‘Member States with low ambient summer temperatures’ means Denmark, Estonia, Finland, Ireland, Latvia, Lithuania, Sweden and the United Kingdom;\n\n6. ‘life cycle greenhouse gas emissions’ means all net emissions of CO2, CH4 and N2O that can be assigned to the fuel (including any blended components) or energy supplied. This includes all relevant stages from extraction or cultivation, including land-use changes, transport and distribution, processing and combustion, irrespective of where those emissions occur;\n\n7. ‘greenhouse gas emissions per unit of energy’ means the total mass of CO2 equivalent greenhouse gas emissions associated with the fuel or energy supplied, divided by the total energy content of the fuel or energy supplied (for fuel, expressed as its low heating value);\n\n8. ‘supplier’ means the entity responsible for passing fuel or energy through an excise duty point or, if no excise is due, any other relevant entity designated by a Member State;\n\n9. ‘biofuels’ has the same meaning as in Directive 2009/28/EC of the European Parliament and of the Council of 23 April 2009 on the promotion of the use of energy from renewable sources (19).",
+      "text_sha256": "c2ebee46166d2e26a7dfb24131c36a1139add365dfa579c034a1380b77bfa7a9",
+      "md_span": {
+        "start": 1132,
+        "end": 3306
+      },
+      "citations": [
+        {
+          "href": "#E0013",
+          "text": "13"
+        },
+        {
+          "href": "#E0014",
+          "text": "14"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: REPLACED"
+        },
+        {
+          "href": "#E0015",
+          "text": "15"
+        },
+        {
+          "href": "#E0016",
+          "text": "16"
+        },
+        {
+          "href": "#E0017",
+          "text": "17"
+        },
+        {
+          "href": "#E0018",
+          "text": "18"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0017",
+          "text": "32003L0017: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: INSERTED"
+        },
+        {
+          "href": "#E0019",
+          "text": "19"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: DELETED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31998L0070",
+          "text": "31998L0070"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Petrol",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. No later than 1 January 2000, Member States shall prohibit the marketing of leaded petrol within their territory.\n\n2. Member States shall ensure that petrol may be placed on the market within their territory only if it complies with the environmental specifications set out in Annex I.\n\nHowever, Member States may, for the outermost regions, make specific provisions for the introduction of petrol with a maximum sulphur content of 10 mg/kg. Member States making use of this provision shall inform the Commission accordingly.\n\n3. Member States shall require suppliers to ensure the placing on the market of petrol with a maximum oxygen content of 2,7 % and a maximum ethanol content of 5 % until 2013 and may require the placing on the market of such petrol for a longer period if they consider it necessary. They shall ensure the provision of appropriate information to consumers concerning the biofuel content of petrol and, in particular, on the appropriate use of different blends of petrol.\n\n4. Member States with low ambient summer temperatures may, subject to paragraph 5, permit the placing on the market during the summer period of petrol with a maximum vapour pressure of 70 kPa.\n\nMember States in which the derogation referred to in the first subparagraph is not applied may, subject to paragraph 5, permit the placing on the market during the summer period of petrol containing ethanol with a maximum vapour pressure of 60 kPa and in addition the permitted vapour pressure waiver specified in Annex III, on condition that the ethanol used is a biofuel.\n\n5. Where Member States wish to apply either of the derogations provided for in paragraph 4, they shall notify the Commission and provide all relevant information. The Commission shall assess the desirability and duration of the derogation, taking account of both:\n\n(a) the avoidance of socioeconomic problems resulting from higher vapour pressure, including time-limited technical adaptation needs; and\n\n(b) the environmental or health consequences of the higher vapour pressure and, in particular, the impact on compliance with Community legislation on air quality, both in the Member State concerned and in other Member States.\n\nIf the Commission's assessment shows that the derogation will result in a lack of compliance with Community legislation on air quality or air pollution, including the relevant limit values and emissions ceilings, the application shall be rejected. The Commission should also take account of relevant target values.\n\nWhere the Commission has raised no objections within six months of receipt of all relevant information, the Member State concerned may apply the requested derogation.\n\n6. Notwithstanding paragraph 1, Member States may continue to permit the marketing of small quantities of leaded petrol, with a lead content not exceeding 0,15 g/l, to a maximum of 0,03 % of total sales, to be used by old vehicles of a characteristic nature and to be distributed through special interest groups.",
+      "text_sha256": "25b0ddea193b7e63dc61093b3349a8ad4effa403674e956ef60c3560eadcaf97",
+      "md_span": {
+        "start": 3352,
+        "end": 6348
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: DELETED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Diesel fuel",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall ensure that diesel fuel may be placed on the market in their territory only if it complies with the specifications set out in Annex II.\n\nNotwithstanding the requirements of Annex II, Member States may permit the placing on the market of diesel with a fatty acid methyl ester (FAME) content greater than 7 %.\n\nMember States shall ensure the provision of appropriate information to consumers concerning the biofuel, in particular FAME, content of diesel fuel.\n\n2. Member States shall ensure that, no later than from 1 January 2008, gas oils intended for use by non-road mobile machinery (including inland waterway vessels), agricultural and forestry tractors and recreational craft may be placed on the market within their territory only if the sulphur content of those gas oils does not exceed 1 000 mg/kg. From 1 January 2011, the maximum permissible sulphur content of those gas oils shall be 10 mg/kg. Member States shall ensure that liquid fuels other than those gas oils may be used in inland waterway vessels and recreational craft only if the sulphur content of those liquid fuels does not exceed the maximum permissible content of those gas oils.\n\nHowever, in order to accommodate minor contamination in the supply chain, Member States may, from 1 January 2011, permit gas oil intended for use by non-road mobile machinery (including inland waterway vessels), agricultural and forestry tractors and recreational craft to contain up to 20 mg/kg of sulphur at the point of final distribution to end users. Member States may also permit the continued placing on the market until 31 December 2011 of gas oil containing up to 1 000 mg/kg sulphur for rail vehicles and agricultural and forestry tractors, provided that they can ensure that the proper functioning of emissions control systems will not be compromised.\n\n3. Member States may, for the outermost regions, make specific provision for the introduction of diesel fuel and gas oils with a maximum sulphur content of 10 mg/kg. Member States making use of this provision shall inform the Commission accordingly.\n\n4. For Member States with severe winter weather, the maximum distillation point of 65 % at 250 °C for diesel fuels and gas oils may be replaced by a maximum distillation point of 10 % (vol/vol) at 180 °C.",
+      "text_sha256": "74b616a6ea47fe3082d0846b11158f2cfadd37b0d3f16d9b564776b960a79d71",
+      "md_span": {
+        "start": 6399,
+        "end": 8696
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/31998L0070",
+          "text": "31998L0070"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Free circulation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "No Member State may prohibit, restrict or prevent the placing on the market of fuels which comply with the requirements of this Directive.",
+      "text_sha256": "59cd3ff6aae0e8b18aadf2a08d9cf77308c64f230cc43dace329f87ee5014724",
+      "md_span": {
+        "start": 8752,
+        "end": 8890
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Marketing of fuels with more stringent environmental specifications",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. By way of derogation from Articles 3, 4 and 5 and in accordance with Article 95(10) of the Treaty, a Member State may take measures to require that in specific areas, within its territory, fuels may be marketed only if they comply with more stringent environmental specifications than those provided for in this Directive for all or part of the vehicle fleet with a view to protecting the health of the population in a specific agglomeration or the environment in a specific ecologically or environmentally sensitive area in that Member State, if atmospheric or ground water pollution constitutes, or may reasonably be expected to constitute, a serious and recurrent problem for human health or the environment.\n\n2. A Member State wishing to make use of a derogation provided for in paragraph 1 shall submit its request in advance, including the justification for it, to the Commission. The justification shall include evidence that the derogation respects the principle of proportionality and that it will not disrupt the free movements of persons and goods.\n\n3. The Member States involved shall provide the Commission with relevant environmental data for the agglomeration or area in question as well as the predicted effects on the environment of the measures proposed.\n\n4. The Commission shall provide this information to the other Member States without delay.\n\n5. Member States may give their comments on the request and its justification within two months of the date of the Commission's provision of information.\n\n6. The Commission shall take a decision on the request of Member States within three months after the date on which Member States have submitted their comments. The Commission will take Member States' comments into account and will notify them of its decision and inform the European Parliament and the Council at the same time.",
+      "text_sha256": "7725e671ff1eed3ccc8a60c37d35bc0129eaac72aaa4e59f1793a1ff8318f980",
+      "md_span": {
+        "start": 8997,
+        "end": 10849
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0017",
+          "text": "32003L0017: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31998L0070",
+          "text": "31998L0070"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0017",
+          "text": "32003L0017: DELETED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Change in supply of crude oils",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "If, as a result of exceptional events, a sudden change in the supply of crude oils or petroleum products renders it difficult for the refineries in a Member State to respect the fuel specification requirements of Articles 3 and 4, that Member State shall inform the Commission thereof. The Commission, after informing the other Member States, may authorise higher limit values in that Member State for one or more fuel components for a period not exceeding six months.\n\nThe Commission shall notify the Member States and inform the European Parliament and the Council of its decision.\n\nAny Member State may refer the Commission's decision to the Council within one month of its notification.\n\nThe Council, acting by a qualified majority, may take a different decision within one month of the matter being referred to it.",
+      "text_sha256": "cb854e05e0784dff152e65d6fcb155b958ef656faf6a91053abb2476eedf2c2a",
+      "md_span": {
+        "start": 10919,
+        "end": 11738
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7a",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_7a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7a",
+      "heading": "Greenhouse gas emission reductions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall designate the supplier or suppliers responsible for monitoring and reporting life cycle greenhouse gas emissions per unit of energy from fuel and energy supplied. In the case of providers of electricity for use in road vehicles, Member States shall ensure that such providers may choose to become a contributor to the reduction obligation laid down in paragraph 2 if they can demonstrate that they can adequately measure and monitor electricity supplied for use in those vehicles.\n\nWith effect from 1 January 2011, suppliers shall report annually, to the authority designated by the Member State, on the greenhouse gas intensity of fuel and energy supplied within each Member State by providing, as a minimum, the following information:\n\n(a) the total volume of each type of fuel or energy supplied, indicating where purchased and its origin; and\n\n(b) life cycle greenhouse gas emissions per unit of energy.\n\nMember States shall ensure that reports are subject to verification.\n\nThe Commission shall, where appropriate, establish guidelines for the implementation of this paragraph.\n\n2. Member States shall require suppliers to reduce as gradually as possible life cycle greenhouse gas emissions per unit of energy from fuel and energy supplied by up to 10 % by 31 December 2020, compared with the fuel baseline standard referred to in paragraph 5(b). This reduction shall consist of:\n\n(a) 6 % by 31 December 2020. Member States may require suppliers, for this reduction, to comply with the following intermediate targets: 2 % by 31 December 2014 and 4 % by 31 December 2017;\n\n(b) an indicative additional target of 2 % by 31 December 2020, subject to Article 9(1)(h), to be achieved through one or both of the following methods:\n\n(i) the supply of energy for transport supplied for use in any type of road vehicle, non-road mobile machinery (including inland waterway vessels), agricultural or forestry tractor or recreational craft;\n\n(ii) the use of any technology (including carbon capture and storage) capable of reducing life cycle greenhouse gas emissions per unit of energy from fuel or energy supplied;\n\n(c) an indicative additional target of 2 % by 31 December 2020, subject to Article 9(1)(i), to be achieved through the use of credits purchased through the Clean Development Mechanism of the Kyoto Protocol, under the conditions set out in Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community (20), for reductions in the fuel supply sector.\n\n3. Life cycle greenhouse gas emissions from biofuels shall be calculated in accordance with Article 7d. Lifecycle greenhouse gas emissions from other fuels and energy shall be calculated using a methodology laid down in accordance with paragraph 5 of this Article.\n\n4. Member States shall ensure that a group of suppliers may choose to meet the reduction obligations pursuant to paragraph 2 jointly. In such case they shall be considered as a single supplier for the purposes of paragraph 2.\n\n5. Measures necessary for the implementation of this Article, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 11(4). Such measures include, in particular:\n\n(a) the methodology for the calculation of life cycle greenhouse gas emissions from fuels other than biofuels and from energy;\n\n(b) the methodology specifying, before 1 January 2011, the fuel baseline standard based on the life cycle greenhouse gas emissions per unit of energy from fossil fuels in 2010 for the purposes of paragraph 2;\n\n(c) any necessary rules to give effect to paragraph 4;\n\n(d) the methodology to calculate the contribution of electric road vehicles, which shall be compatible with Article 3(4) of Directive 2009/28/EC.",
+      "text_sha256": "b668f1e489665b1b01f2a5726f3eba0c9013970aff96515d438de000942f50b2",
+      "md_span": {
+        "start": 11814,
+        "end": 15730
+      },
+      "citations": [
+        {
+          "href": "#E0020",
+          "text": "20"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7b",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_7b",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7b",
+      "heading": "Sustainability criteria for biofuels",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Irrespective of whether the raw materials were cultivated inside or outside the territory of the Community, energy from biofuels shall be taken into account for the purposes of Article 7a only if they fulfil the sustainability criteria set out in paragraphs 2 to 6 of this Article.\n\nHowever, biofuels produced from waste and residues, other than agricultural, aquaculture, fisheries and forestry residues, need only fulfil the sustainability criteria set out in paragraph 2 of this Article in order to be taken into account for the purposes referred to in Article 7a.\n\n2. The greenhouse gas emission saving from the use of biofuels taken into account for the purposes referred to in paragraph 1 shall be at least 35 %.\n\nWith effect from 1 January 2017, the greenhouse gas emission saving from the use of biofuels taken into account for the purposes referred to in paragraph 1 shall be at least 50 %. From 1 January 2018 that greenhouse gas emissions saving shall be at least 60 % for biofuels produced in installations in which production has started on or after 1 January 2017.\n\nThe greenhouse gas emission saving from the use of biofuels shall be calculated in accordance with Article 7d(1).\n\nIn the case of biofuels produced by installations that were in operation on 23 January 2008, the first subparagraph shall apply from 1 April 2013.\n\n3. Biofuels taken into account for the purposes referred to in paragraph 1 shall not be made from raw material obtained from land with high biodiversity value, namely, land that had one of the following statuses in or after January 2008, whether or not the land continues to have such a status:\n\n(a) primary forest and other wooded land, that is forest and other wooded land of native species, where there is no clearly visible indication of human activity and the ecological processes are not significantly disturbed;\n\n(b) areas designated:\n\n(i) by law or by the relevant competent authority for nature protection purposes; or\n\n(ii) for the protection of rare, threatened or endangered ecosystems or species recognised by international agreements or included in lists drawn up by intergovernmental organisations or the International Union for the Conservation of Nature, subject to their recognition in accordance with the second subparagraph of Article 7c(4);\n\nunless evidence is provided that the production of that raw material did not interfere with those nature protection purposes;\n\n(c) highly biodiverse grassland that is:\n\n(i) natural, namely, grassland that would remain grassland in the absence of human intervention and which maintains the natural species composition and ecological characteristics and processes; or\n\n(ii) non-natural, namely, grassland that would cease to be grassland in the absence of human intervention and which is species-rich and not degraded, unless evidence is provided that the harvesting of the raw material is necessary to preserve its grassland status.\n\nThe Commission shall establish the criteria and geographic ranges to determine which grassland shall be covered by point (c) of the first subparagraph. Those measures, designed to amend non-essential elements of this Directive, by supplementing it shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 11(4).\n\n4. Biofuels taken into account for the purposes referred to in paragraph 1 shall not be made from raw material obtained from land with high carbon stock, namely, land that had one of the following statuses in January 2008 and no longer has that status:\n\n(a) wetlands, namely, land that is covered with or saturated by water permanently or for a significant part of the year;\n\n(b) continuously forested areas, namely, land spanning more than one hectare with trees higher than five metres and a canopy cover of more than 30 %, or trees able to reach those thresholds *in situ*;\n\n(c) land spanning more than one hectare with trees higher than five metres and a canopy cover of between 10 % and 30 %, or trees able to reach those thresholds *in situ*, unless evidence is provided that the carbon stock of the area before and after conversion is such that, when the methodology laid down in Part C of Annex IV is applied, the conditions laid down in paragraph 2 of this Article would be fulfilled.\n\nThe provisions of this paragraph shall not apply if, at the time the raw material was obtained, the land had the same status as it had in January 2008.\n\n5. Biofuels taken into account for the purposes referred to in paragraph 1 shall not be made from raw material obtained from land that was peatland in January 2008, unless evidence is provided that the cultivation and harvesting of that raw material does not involve drainage of previously undrained soil.\n\n6. Agricultural raw materials cultivated in the Community and used for the production of biofuels taken into account for the purposes referred to in Article 7a shall be obtained in accordance with the requirements and standards under the provisions referred to under the heading ‘Environment’ in Part A and in point 9 of Annex II to Council Regulation (EC) No 73/2009 of 19 January 2009 establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers (21) and in accordance with the minimum requirements for good agricultural and environmental condition defined pursuant to Article 6(1) of that Regulation.\n\n7. The Commission shall, every two years, report to the European Parliament and the Council, in respect of both third countries and Member States that are a significant source of biofuels or of raw material for biofuels consumed within the Community, on national measures taken to respect the sustainability criteria set out in paragraphs 2 to 5 and for soil, water and air protection. The first report shall be submitted in 2012.\n\nThe Commission shall, every two years, report to the European Parliament and the Council on the impact on social sustainability in the Community and in third countries of increased demand for biofuel, on the impact of Community biofuel policy on the availability of foodstuffs at affordable prices, in particular for people living in developing countries, and on wider development issues. Reports shall address the respect of land use rights. They shall state, both for third countries and Member States that are a significant source of raw material for biofuel consumed within the Community, whether the country has ratified and implemented each of the following Conventions of the International Labour Organisation:\n\n— Convention concerning Forced or Compulsory Labour (No 29),\n\n— Convention concerning Freedom of Association and Protection of the Right to Organise (No 87),\n\n— Convention concerning the Application of the Principles of the Right to Organise and to Bargain Collectively (No 98),\n\n— Convention concerning Equal Remuneration of Men and Women Workers for Work of Equal Value (No 100),\n\n— Convention concerning the Abolition of Forced Labour (No 105),\n\n— Convention concerning Discrimination in Respect of Employment and Occupation (No 111),\n\n— Convention concerning Minimum Age for Admission to Employment (No 138),\n\n— Convention concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labour (No 182).\n\nThose reports shall state, both for third countries and Member States that are a significant source of raw material for biofuel consumed within the Community, whether the country has ratified and implemented:\n\n— the Carthagena Protocol on biosafety,\n\n— the Convention on International Trade in Endangered Species of Wild Fauna and Flora.\n\nThe first report shall be submitted in 2012. The Commission shall, if appropriate, propose corrective action, in particular if evidence shows that biofuel production has a significant impact on food prices.\n\n8. For the purposes referred to in paragraph 1, Member States shall not refuse to take into account, on other sustainability grounds, biofuels obtained in compliance with this Article.",
+      "text_sha256": "92c1adae2494168d4f8b02cb846c861df67a70ba121ba78521cf38eb95a20756",
+      "md_span": {
+        "start": 15808,
+        "end": 23881
+      },
+      "citations": [
+        {
+          "href": "#E0021",
+          "text": "21"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7c",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_7c",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7c",
+      "heading": "Verification of compliance with the sustainability criteria for biofuels",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Where biofuels are to be taken into account for the purposes of Article 7a, Member States shall require economic operators to show that the sustainability criteria set out in Article 7b(2) to (5) have been fulfilled. For that purpose they shall require economic operators to use a mass balance system which:\n\n(a) allows consignments of raw material or biofuel with differing sustainability characteristics to be mixed;\n\n(b) requires information about the sustainability characteristics and sizes of the consignments referred to in point (a) to remain assigned to the mixture; and\n\n(c) provides for the sum of all consignments withdrawn from the mixture to be described as having the same sustainability characteristics, in the same quantities, as the sum of all consignments added to the mixture.\n\n2. The Commission shall report to the European Parliament and the Council in 2010 and 2012 on the operation of the mass balance verification method described in paragraph 1 and on the potential for allowing for other verification methods in relation to some or all types of raw material or biofuels. In its assessment the Commission shall consider those verification methods in which information about sustainability characteristics need not remain physically assigned to particular consignments or mixtures. The assessment shall take into account the need to maintain the integrity and effectiveness of the verification system while avoiding the imposition of an unreasonable burden on industry. The report shall be accompanied, where appropriate, by proposals to the European Parliament and the Council, concerning the use of other verification methods.\n\n3. Member States shall take measures to ensure that economic operators submit reliable information and make available to the Member State, on request, the data that were used to develop the information. Member States shall require economic operators to arrange for an adequate standard of independent auditing of the information submitted, and to provide evidence that this has been done. The auditing shall verify that the systems used by economic operators are accurate, reliable and protected against fraud. It shall evaluate the frequency and methodology of sampling and the robustness of the data.\n\nThe information referred to in the first subparagraph shall include in particular information on compliance with the sustainability criteria set out in Article 7b(2) to (5), appropriate and relevant information on measures taken for soil, water and air protection, the restoration of degraded land, the avoidance of excessive water consumption in areas where water is scarce, and appropriate and relevant information concerning measures taken in order to take into account the issues referred to in the second subparagraph of Article 7b(7).\n\nThe Commission shall, in accordance with the advisory procedure referred to in Article 11(3), establish the list of appropriate and relevant information referred to in the first two subparagraphs. It shall ensure, in particular, that the provision of that information does not represent an excessive administrative burden for operators in general or for smallholder farmers, producer organisations and cooperatives in particular.\n\nThe obligations laid down in this paragraph shall apply whether the biofuels are produced within the Community or imported.\n\nMember States shall submit to the Commission in aggregated form, the information referred to in the first subparagraph. The Commission shall publish that information on the transparency platform referred to in Article 24 of Directive 2009/28/EC in summary form preserving the confidentiality of commercially sensitive information.\n\n4. The Community shall endeavour to conclude bilateral or multilateral agreements with third countries containing provisions on sustainability criteria that correspond to those in this Directive. Where the Community has concluded agreements containing provisions relating to matters covered by the sustainability criteria set out in Article 7b(2) to (5), the Commission may decide that those agreements demonstrate that biofuels produced from raw materials cultivated in those countries comply with the sustainability criteria in question. When those agreements are concluded, due consideration shall be given to measures taken for the conservation of areas that provide, in critical situations, basic ecosystem services (such as watershed protection and erosion control), for soil, water and air protection, indirect land-use changes, the restoration of degraded land, the avoidance of excessive water consumption in areas where water is scarce and to the issues referred to in the second subparagraph of Article 7b(7).\n\nThe Commission may decide that voluntary national or international schemes setting standards for the production of biomass products contain accurate data for the purposes of Article 7b(2) or demonstrate that consignments of biofuel comply with the sustainability criteria set out in Article 7b(3) to (5). The Commission may decide that those schemes contain accurate data for the purposes of information on measures taken for the conservation of areas that provide, in critical situations, basic ecosystem services (such as watershed protection and erosion control), for soil, water and air protection, the restoration of degraded land, the avoidance of excessive water consumption in areas where water is scarce and on the issues referred to in the second subparagraph of Article 7b(7). The Commission may also recognise areas for the protection of rare, threatened or endangered ecosystems or species recognised by international agreements or included in lists drawn up by intergovernmental organisations or the International Union for the Conservation of Nature for the purposes of Article 7b(3)(b)(ii).\n\nThe Commission may decide that voluntary national or international schemes to measure greenhouse gas savings contain accurate data for the purposes of Article 7b(2).\n\nThe Commission may decide that land that falls within the scope of a national or regional recovery programme aimed at improving severely degraded or heavily contaminated land fulfils the criteria referred to in point 9 of Part C of Annex IV.\n\n5. The Commission shall adopt decisions under paragraph 4 only if the agreement or scheme in question meets adequate standards of reliability, transparency and independent auditing. Schemes to measure greenhouse gas savings shall also comply with the methodological requirements in Annex IV. Lists of areas of high biodiversity value as referred to in Article 7b(3)(b)(ii) shall meet adequate standards of objectivity and coherence with internationally recognised standards and provide for appropriate appeal procedures.\n\n6. Decisions under paragraph 4 shall be adopted in accordance with the advisory procedure referred to in Article 11(3). Such decisions shall be valid for a period of no more than five years.\n\n7. When an economic operator provides proof or data obtained in accordance with an agreement or scheme that has been the subject of a decision under paragraph 4, to the extent covered by that decision, a Member State shall not require the supplier to provide further evidence of compliance with the sustainability criteria set out in Article 7b(2) to (5) nor information on measures referred to in the second subparagraph of paragraph 3 of this Article.\n\n8. At the request of a Member State or on its own initiative the Commission shall examine the application of Article 7b in relation to a source of biofuel and, within six months of receipt of a request and in accordance with the advisory procedure referred to in Article 11(3), decide whether the Member State concerned may take biofuel from that source into account for the purposes of Article 7a.\n\n9. By 31 December 2012, the Commission shall report to the European Parliament and to the Council on:\n\n(a) the effectiveness of the system in place for the provision of information on sustainability criteria; and\n\n(b) whether it is feasible and appropriate to introduce mandatory requirements in relation to air, soil or water protection, taking into account the latest scientific evidence and the Community's international obligations.\n\nThe Commission shall, if appropriate, propose corrective action.",
+      "text_sha256": "607f5cb6e300c36e0bdadcde8b38777afc61fb14de73af52abcf0b90c1efbd76",
+      "md_span": {
+        "start": 23995,
+        "end": 32298
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7d",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_7d",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7d",
+      "heading": "Calculation of life cycle greenhouse gas emissions from biofuels",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. For the purposes of Article 7a and Article 7b(2), life cycle greenhouse gas emissions from biofuels shall be calculated as follows:\n\n(a) where a default value for greenhouse gas emission savings for the biofuel production pathway is laid down in Part A or B of Annex IV and where the el value for those biofuels calculated in accordance with point 7 of Part C of Annex IV is equal to or less than zero, by using that default value;\n\n(b) by using an actual value calculated in accordance with the methodology laid down in Part C of Annex IV; or\n\n(c) by using a value calculated as the sum of the factors of the formula referred to in point 1 of Part C of Annex IV, where disaggregated default values in Part D or E of Annex IV may be used for some factors, and actual values, calculated in accordance with the methodology laid down in Part C of Annex IV, for all other factors.\n\n2. By 31 March 2010, Member States shall submit to the Commission a report, including a list of those areas on their territory classified as level 2 in the nomenclature of territorial units for statistics (NUTS) or as a more disaggregated NUTS level in accordance with Regulation (EC) No 1059/2003 of the European Parliament and of the Council of 26 May 2003 on the establishment of a common classification of territorial units for statistics (NUTS) (22) where the typical greenhouse gas emissions from cultivation of agricultural raw materials can be expected to be lower than or equal to the emissions reported under the heading ‘Disaggregated default values for cultivation’ in Part D of Annex IV to this Directive, accompanied by a description of the method and data used to establish that list. That method shall take into account soil characteristics, climate and expected raw material yields.\n\n3. The default values in Part A of Annex IV, and the disaggregated default values for cultivation in Part D of Annex IV, may be used only when their raw materials are:\n\n(a) cultivated outside the Community;\n\n(b) cultivated in the Community in areas included in the lists referred to in paragraph 2; or\n\n(c) waste or residues other than agricultural, aquaculture and fisheries residues.\n\nFor biofuels not falling under points (a), (b) or (c), actual values for cultivation shall be used.\n\n4. By 31 March 2010, the Commission shall submit a report to the European Parliament and to the Council on the feasibility of drawing up lists of areas in third countries where the typical greenhouse gas emissions from cultivation of agricultural raw materials can be expected to be lower than or equal to the emissions reported under the heading ‘cultivation’ in Part D of Annex IV, accompanied if possible by such lists and a description of the method and data used to establish them. The report shall, if appropriate, be accompanied by relevant proposals.\n\n5. The Commission shall report by 31 December 2012 at the latest, and every two years thereafter, on the estimated typical and default values in Parts B and E of Annex IV, paying special attention to emissions from transport and processing and may, where necessary, decide to correct the values. Those measures, designed to amend non-essential elements of this Directive shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 11(4).\n\n6. The Commission shall, by 31 December 2010, submit a report to the European Parliament and to the Council reviewing the impact of indirect land use change on greenhouse gas emissions and addressing ways to minimise that impact. The report shall, if appropriate, be accompanied by a proposal, based on the best available scientific evidence, containing a concrete methodology for emissions from carbon stock changes caused by indirect land use changes, ensuring compliance with this Directive, in particular Article 7b(2).\n\nSuch a proposal shall include the necessary safeguards to provide certainty for investment, undertaken before that methodology is applied. With respect to installations that produced biofuels before the end of 2013, the application of the measures referred to in the first subparagraph shall not, until 31 December 2017, lead to biofuels produced by these installations being deemed to have failed to comply with the sustainability requirements of this Directive if they would otherwise have done so, provided that those biofuels achieve a greenhouse gas saving of at least 45 %. This shall apply to the capacities of the installations of biofuels at the end of 2012.\n\nThe European Parliament and the Council shall endeavour to decide by 31 December 2012 on any such proposals submitted by the Commission.\n\n7. Annex IV may be adapted to technical and scientific progress, including by the addition of values for further biofuel production pathways for the same or for other raw materials and by modifying the methodology laid down in Part C. Those measures, designed to amend non-essential elements of this Directive, *inter alia*, by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 11(4).\n\nRegarding the default values and methodology laid down in Annex IV, particular consideration shall be paid to:\n\n— the method of accounting for wastes and residues,\n\n— the method of accounting for co-products,\n\n— the method of accounting for cogeneration, and,\n\n— the status given to agricultural crop residues as co-products.\n\nThe default values for waste vegetable or animal oil biodiesel shall be reviewed as soon as possible.\n\nAny adaptation of or addition to the list of default values in Annex IV shall comply with the following:\n\n(a) where the contribution of a factor to overall emissions is small, or where there is limited variation, or where the cost or difficulty of establishing actual values is high, default values must be typical of normal production processes;\n\n(b) in all other cases default values must be conservative compared to normal production processes.\n\n8. Detailed definitions, including technical specifications required for the categories set out in point 9 of Part C of Annex IV shall be established. Those measures, designed to amend non-essential elements of this Directive by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 11(4).",
+      "text_sha256": "9cdf096edaa2c6e0a228f79a58065b9ccf803a555b0824d5db48f984f96fff4c",
+      "md_span": {
+        "start": 32404,
+        "end": 38725
+      },
+      "citations": [
+        {
+          "href": "#E0022",
+          "text": "22"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7e",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_7e",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7e",
+      "heading": "Implementing measures and reports concerning the sustainability of biofuels",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. The implementing measures referred to in the second subparagraph of Article 7b(3), the third subparagraph of Article 7c(3), Article 7c(6), Article 7c(8), Article 7d(5), the first subparagraph of Article 7d(7) and Article 7d(8) shall also take full account of the purposes of Directive 2009/28/EC.\n\n2. The reports by the Commission to the European Parliament and to the Council referred to in Article 7b(7), Article 7c(2), Article 7c(9), Article 7d(4) and (5) and the first subparagraph of Article 7d(6), as well as the reports and information submitted pursuant to in the first and fifth subparagraphs of Article 7c(3) and Article 7d(2), shall be prepared and transmitted for the purposes of both Directive 2009/28/EC and this Directive.",
+      "text_sha256": "6b1294e490de619b833306b125fbaa581d06c9f35efb819921aaccd789492250",
+      "md_span": {
+        "start": 38842,
+        "end": 39582
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0017",
+          "text": "32003L0017: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Monitoring compliance and reporting",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall monitor compliance with the requirements of Articles 3 and 4, in respect of petrol and diesel fuels, on the basis of the analytical methods referred to in European standards EN 228:2004 and EN 590:2004 respectively.\n\n2. Member States shall establish a fuel quality monitoring system in accordance with the requirements of the relevant European standard. The use of an alternative fuel quality monitoring system may be permitted provided that such a system ensures results of equivalent confidence.\n\n3. Each year by 30 June, the Member States shall submit a report of national fuel quality data for the preceding calendar year. The first report shall be submitted by 30 June 2002. From 1 January 2004, the format for this report shall be consistent with that described in the relevant European standard. In addition, Member States shall report the total volumes of petrol and diesel fuels marketed in their territories and the volumes of unleaded petrol and diesel fuels marketed with a maximum sulphur content of 10 mg/kg. Furthermore, Member States shall report annually on the availability on an appropriately balanced geographical basis of petrol and diesel fuels with a maximum sulphur content of 10 mg/kg that are marketed within their territory.\n\n4. The Commission shall ensure that the information submitted pursuant to paragraph 3 is promptly made available by appropriate means. The Commission shall publish annually, and for the first time by 31 December 2003, a report on actual fuel quality in the different Member States and geographical coverage of fuels with a maximum sulphur content of 10 mg/kg, aiming to provide an overview of the fuels quality data in the different Member States.",
+      "text_sha256": "ff657fec21405f8610a3e80881cb305ce3f21adc8e46fb4d80633f8b454cbff5",
+      "md_span": {
+        "start": 39657,
+        "end": 41380
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0017",
+          "text": "32003L0017: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8a",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_8a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8a",
+      "heading": "Metallic additives",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. The Commission shall conduct an assessment of the risks for health and the environment from the use of metallic additives in fuel and, for this purpose, develop a test methodology. It shall report its conclusions to the European Parliament and to the Council by 31 December 2012.\n\n2. Pending the development of the test methodology referred to in paragraph 1, the presence of the metallic additive methylcyclopentadienyl manganese tricarbonyl (MMT) in fuel shall be limited to 6 mg of manganese per litre from 1 January 2011. The limit shall be 2 mg of manganese per litre from 1 January 2014.\n\n3. The limit for the MMT content of fuel specified in paragraph 2 shall be revised on the basis of the results of the assessment carried out using the test methodology referred to in paragraph 1. It may be reduced to zero where justified by the risk assessment. It cannot be increased unless justified by the risk assessment. Such a measure, designed to amend non-essential elements of this Directive shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 11(4).\n\n4. Member States shall ensure that a label concerning the metallic additive content of fuel is displayed at any point where a fuel with metallic additives is made available to consumers.\n\n5. The label shall contain the following text: ‘Contains metallic additives’.\n\n6. The label shall be attached to the place where information indicating the type of fuel is displayed, in a clearly visible position. The label shall be of a size and font that is clearly visible and easily legible.",
+      "text_sha256": "b1a3e0953d870679621e656780001db9dd70d668b44049084508087cb72704b1",
+      "md_span": {
+        "start": 41440,
+        "end": 43028
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Reporting",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. The Commission shall submit by 31 December 2012, and every three years thereafter, a report to the European Parliament and the Council accompanied, where appropriate, by a proposal for amendments to this Directive. That report shall in particular take account of the following:\n\n(a) the use and evolution of automotive technology and, in particular, the feasibility of increasing the maximum permitted biofuel content of petrol and diesel and the need to review the date referred to in Article 3(3);\n\n(b) Community policy on CO2 emissions from road transport vehicles;\n\n(c) the possibility of applying the requirements of Annex II, and in particular the limit value for polycyclic aromatic hydrocarbons, to non-road mobile machinery (including inland waterways vessels), agricultural and forestry tractors and recreational craft;\n\n(d) the increase in the use of detergents in fuels;\n\n(e) the use of metallic additives other than MMT in fuels;\n\n(f) the total volume of components used in petrol and diesel having regard to Community environmental legislation, including the objectives of Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy (23) and its daughter directives;\n\n(g) the consequences of the greenhouse gas reduction target set in Article 7a(2) for the emissions trading scheme;\n\n(h) the potential need for adjustments to Articles 2(6), 2(7) and 7a(2)(b) in order to assess possible contributions for reaching a greenhouse gas reduction target of up to 10 % by 2020. These considerations shall be based on the potential for life cycle greenhouse gas emission reductions from fuels and energy within the Community, taking into account in particular any developments in environmentally safe carbon capture and storage technologies and in electric road vehicles, and the cost effectiveness of means of reducing those emissions, as referred to in Article 7a(2)(b);\n\n(i) the possibility of introducing additional measures for suppliers to reduce by 2 % life cycle greenhouse gas emissions per unit of energy, in comparison with the fuel baseline standard referred to in Article 7a(5)(b), through the use of credits purchased through the Clean Development Mechanism of the Kyoto Protocol under the conditions set out in Directive 2003/87/EC, in order to assess further possible contributions for reaching a greenhouse gas reduction target of up to 10 % by 2020, as referred to in Article 7a(2)(c) of this Directive;\n\n(j) an updated cost-benefit and impact analysis of a reduction in the maximum permitted vapour pressure for petrol for the summer period below 60 kPa.\n\n2. At the latest in 2014, the Commission shall submit a report to the European Parliament and the Council relating to the achievement of the greenhouse gas emission target for 2020 referred to in Article 7a, taking into account the need for consistency between this target and the target referred to in Article 3(3) of Directive 2009/28/EC, concerning the share of energy from renewable sources in transport, in the light of the reports referred to in Articles 23(8) and 23(9) of that Directive.\n\nThe Commission shall, if appropriate, accompany its report by a proposal for modification of the target.",
+      "text_sha256": "53f35876a2829e68228be2a98dbe0475799f7d8ed2bf283db48e36053bec112b",
+      "md_span": {
+        "start": 43077,
+        "end": 46363
+      },
+      "citations": [
+        {
+          "href": "#E0023",
+          "text": "23"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0017",
+          "text": "32003L0017: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9a",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_9a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9a",
+      "heading": "Penalties",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Member States shall determine the penalties applicable to breaches of the national provisions adopted pursuant to this Directive. The penalties determined must be effective, proportionate and dissuasive.",
+      "text_sha256": "8cd635abf84fb6f14e286cf3882c64275efa0ff0344a6b235316927434a28a30",
+      "md_span": {
+        "start": 46414,
+        "end": 46617
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/31998L0070",
+          "text": "31998L0070"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Procedure for adaptation to technical progress",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. If the adaptation of the permitted analytical methods referred to in Annex I or II to technical progress is necessary, amendments, designed to amend non-essential elements of this Directive, may be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 11(4). Annex III may also be adapted to technical and scientific progress. That measure, designed to amend non-essential elements of this Directive, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 11(4).\n\n2. Such adaptation must not result in any direct or indirect modification of the limit values laid down in this Directive or to any change in the dates from which they apply.",
+      "text_sha256": "e1e1f4371c0681dc8bec9b5d47cd91d4d8f1a1b26d01cd6859800f9d56bac72f",
+      "md_span": {
+        "start": 46705,
+        "end": 47424
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31998L0070",
+          "text": "31998L0070"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Committee Procedure",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Except in the cases referred to in paragraph 2, the Commission shall be assisted by the Committee on Fuel Quality.\n\n2. For matters relating to the sustainability of biofuels under Articles 7b, 7c and 7d, the Commission shall be assisted by the Committee on the Sustainability of Biofuels and Bioliquids referred to in Article 25(2) of Directive 2009/28/EC.\n\n3. Where reference is made to this paragraph, Articles 3 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.\n\n4. Where reference is made to this paragraph, Articles 5a(1) to (4), and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.",
+      "text_sha256": "2b4d7b81e77fa48ba53736bfaa62c1bf6809132cc6b3a823680e260f0e80f14e",
+      "md_span": {
+        "start": 47485,
+        "end": 48174
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/31998L0070",
+          "text": "31998L0070"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Repeal and amendment of the Directives related to the fuel quality of petrol and diesel fuels",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Directives 85/210/EEC, 85/536/EEC and 87/441/EEC are repealed as from 1 January 2000.\n\n2. Directive 93/12/EEC is amended by deleting Article 1(1)(b) and Article 2(1) as from 1 January 2000.",
+      "text_sha256": "e3c0b3ccd6485f4f6341cfdea94f7d811154664edc23caa234c28411a9755f77",
+      "md_span": {
+        "start": 48309,
+        "end": 48501
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Transposition into national legislation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with this Directive not later than 1 July 1999. They shall immediately inform the Commission thereof.\n\nMember States shall apply these measures from 1 January 2000.\n\nWhen Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.\n\n2. Member States shall communicate to the Commission the texts of the main provisions of domestic law which they adopt in the field covered by this Directive.",
+      "text_sha256": "53439d2adbb62ab65c5c251dd5bfadd1682efd4abef6d8775411986a8ffd4964",
+      "md_span": {
+        "start": 48582,
+        "end": 49273
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: DELETED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31998L0070",
+          "text": "31998L0070"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Entry into force of the Directive",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive shall enter into force on the day of its publication in the *Official Journal of the European Communities*.",
+      "text_sha256": "e78f34282c3ea609ec7919de812a269f5e8e5091c2c91ebdc907e50edb0101d4",
+      "md_span": {
+        "start": 49348,
+        "end": 49470
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Addressees",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive is addressed to the Member States.",
+      "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+      "md_span": {
+        "start": 49522,
+        "end": 49571
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "anx_i",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#anx_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 49606,
+        "end": 49606
+      },
+      "citations": []
+    },
+    {
+      "anchor": "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_positive_ignition_engines",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_positive_ignition_engines",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ENVIRONMENTAL SPECIFICATIONS FOR MARKET FUELS TO BE USED FOR VEHICLES EQUIPPED WITH POSITIVE-IGNITION ENGINES",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*Type*: **Petrol**\n\n| Parameter (1) | Unit | Limits (2) |  |\n| --- | --- | --- | --- |\n| Minimum | Maximum |  |  |\n| Research octane number |  | 95 (3) | — |\n| Motor octane number |  | 85 | — |\n| Vapour pressure, summer period (4) | kPa | — | 60,0 (5) |\n| Distillation: |  |  |  |\n| — percentage evaporated at 100 °C | % v/v | 46,0 | — |\n| — percentage evaporated at 150 °C | % v/v | 75,0 | — |\n| Hydrocarbon analysis: |  |  |  |\n| — olefins | % v/v | — | 18,0 |\n| — aromatics | % v/v | — | 35,0 |\n| — benzene | % v/v | — | 1,0 |\n| Oxygen content | % m/m |  | 3,7 |\n| Oxygenates |  |  |  |\n| — Methanol | % v/v |  | 3,0 |\n| — Ethanol (stabilising agents may be necessary) | % v/v |  | 10,0 |\n| — Iso-propyl alcohol | % v/v | — | 12,0 |\n| — Tert-butyl alcohol | % v/v | — | 15,0 |\n| — Iso-butyl alcohol | % v/v | — | 15,0 |\n| — Ethers containing five or more carbon atoms per molecule | % v/v | — | 22,0 |\n| — Other oxygenates (6) | % v/v | — | 15,0 |\n| Sulphur content | mg/kg | — | 10,0 |\n| Lead content | g/l | — | 0,005 |\n| (1)►M5 ** ◄ **(2)The values quoted in the specification are ‘true values’. In the establishment of their limit values, the terms of EN ISO 4259:2006 ‘Petroleum products — Determination and application of precision data in relation to methods of test’ have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account (R = reproducibility). The results of individual measurements shall be interpreted on the basis of the criteria described in EN ISO 4259:2006.(3)Member States may decide to continue to permit the placing on the market of unleaded regular grade petrol with a minimum motor octane number (MON) of 81 and a minimum research octane number (RON) of 91.(4)The summer period shall begin no later than 1 May and shall not end before 30 September. For Member States with low ambient summer temperatures the summer period shall begin no later than 1 June and shall not end before 31 August.(5)In the case of Member States with low ambient summer temperatures and for which a derogation is in effect in accordance with Article 3(4) and (5), the maximum vapour pressure shall be 70 kPa. In the case of Member States for which a derogation is in effect in accordance with Article 3(4) and (5) for petrol containing ethanol, the maximum vapour pressure shall be 60 kPa plus the vapour pressure waiver specified in Annex III.(6)►M5 ** ◄ ** |  |  |  |",
+      "text_sha256": "d05856b281318b9c8329ca366929c0ed6bc228072507980586d4a5f691aacd67",
+      "md_span": {
+        "start": 49847,
+        "end": 52275
+      },
+      "citations": [
+        {
+          "href": "#E0024",
+          "text": "(1)"
+        },
+        {
+          "href": "#E0025",
+          "text": "(2)"
+        },
+        {
+          "href": "#E0026",
+          "text": "(3)"
+        },
+        {
+          "href": "#E0027",
+          "text": "(4)"
+        },
+        {
+          "href": "#E0028",
+          "text": "(5)"
+        },
+        {
+          "href": "#E0029",
+          "text": "(6)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0063",
+          "text": "►M5"
+        }
+      ]
+    },
+    {
+      "anchor": "anx_ii",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#anx_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 52312,
+        "end": 52312
+      },
+      "citations": []
+    },
+    {
+      "anchor": "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_compression_ignition_engines",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_compression_ignition_engines",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ENVIRONMENTAL SPECIFICATIONS FOR MARKET FUELS TO BE USED FOR VEHICLES EQUIPPED WITH COMPRESSION IGNITION ENGINES",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*Type*: **Diesel**\n\n| Parameter (1) | Unit | Limits (2) |  |\n| --- | --- | --- | --- |\n| Minimum | Maximum |  |  |\n| Cetane number |  | 51,0 | — |\n| Density at 15 °C | kg/m (3) | — | 845,0 |\n| Distillation: |  |  |  |\n| — 95 % v/v recovered at: | °C | — | 360,0 |\n| Polycyclic aromatic hydrocarbons | % m/m | — | 8,0 |\n| Sulphur content | mg/kg | — | 10,0 |\n| FAME content — EN 14078 | % v/v | — | 7,0 (3) |\n| (1)►M5 ** ◄ **(2)The values quoted in the specification are ‘true values’. In the establishment of their limit values, the terms of EN ISO 4259:2006 ‘Petroleum products — Determination and application of precision data in relation to methods of test’ have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account (R = reproducibility). The results of individual measurements shall be interpreted on the basis of the criteria described in EN ISO 4259:2006.(3)FAME shall comply with EN 14214. |  |  |  |",
+      "text_sha256": "5c4e7880f560e99442eeceeb01a32414af99df5c82c99626c4adb31d6c5b0121",
+      "md_span": {
+        "start": 52559,
+        "end": 53523
+      },
+      "citations": [
+        {
+          "href": "#E0030",
+          "text": "(1)"
+        },
+        {
+          "href": "#E0031",
+          "text": "(2)"
+        },
+        {
+          "href": "#E0032",
+          "text": "(3)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0063",
+          "text": "►M5"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0063",
+          "text": "32011L0063: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "anx_iii",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#anx_iii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**VAPOUR PRESSURE WAIVER PERMITTED FOR PETROL CONTAINING BIOETHANOL**\n\n| Bioethanol content (%v/v) | Vapour pressure waiver permitted (kPa) (1) |\n| --- | --- |\n| 0 | 0 |\n| 1 | 3,7 |\n| 2 | 6,0 |\n| 3 | 7,2 |\n| 4 | 7,8 |\n| 5 | 8,0 |\n| 6 | 8,0 |\n| 7 | 7,9 |\n| 8 | 7,9 |\n| 9 | 7,8 |\n| 10 | 7,8 |\n| (1)The values quoted in the specification are ‘true values’. In the establishment of their limit values, the terms of EN ISO 4259:2006 ‘Petroleum products — Determination and application of precision data in relation to methods of test’ have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account (R = reproducibility). The results of individual measurements shall be interpreted on the basis of the criteria described in EN ISO 4259:2006. |  |\n\nThe permitted vapour pressure waiver for intermediate bioethanol content between the values listed shall be determined by a straight line interpolation between the bioethanol content immediately above and that immediately below the intermediate value.",
+      "text_sha256": "cf8d64faeae40af2c71631c0f9e80772810775914cf40cbd5d67474e15144878",
+      "md_span": {
+        "start": 53562,
+        "end": 54607
+      },
+      "citations": [
+        {
+          "href": "#E0033",
+          "text": "(1)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "anx_iv",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#anx_iv",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX IV",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 54644,
+        "end": 54644
+      },
+      "citations": []
+    },
+    {
+      "anchor": "rules_for_calculating_life_cycle_greenhouse_emissions_from_biofuels",
+      "provision_id": "eu-eurlex:31998l0070:2011-06-22#rules_for_calculating_life_cycle_greenhouse_emissions_from_biofuels",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "RULES FOR CALCULATING LIFE CYCLE GREENHOUSE EMISSIONS FROM BIOFUELS",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "A. **Typical and default values for biofuels if produced with no net carbon emissions from land use change**\n\n| Biofuel production pathway | Typical greenhouse gas emission saving | Default greenhouse gas emission saving |\n| --- | --- | --- |\n| Sugar beet ethanol | 61 % | 52 % |\n| Wheat ethanol (process fuel not specified) | 32 % | 16 % |\n| Wheat ethanol (lignite as process fuel in CHP plant) | 32 % | 16 % |\n| Wheat ethanol (natural gas as process fuel in conventional boiler) | 45 % | 34 % |\n| Wheat ethanol (natural gas as process fuel in CHP plant) | 53 % | 47 % |\n| Wheat ethanol (straw as process fuel in CHP plant) | 69 % | 69 % |\n| Corn (maize) ethanol, Community produced (natural gas as process fuel in CHP plant) | 56 % | 49 % |\n| Sugar cane ethanol | 71 % | 71 % |\n| The part from renewable sources of ethyl-Tertio-butyl-ether (ETBE) | Equal to that of the ethanol production Pathway used |  |\n| The part from renewable sources of tertiary-amyl-ethyl-ether (TAEE) | Equal to that of the ethanol production pathway used |  |\n| Rape seed biodiesel | 45 % | 38 % |\n| Sunflower biodiesel | 58 % | 51 % |\n| Soybean biodiesel | 40 % | 31 % |\n| Palm oil biodiesel (process not specified) | 36 % | 19 % |\n| Palm oil biodiesel (process with methane capture at oil mill) | 62 % | 56 % |\n| Waste vegetable or animal (1) oil biodiesel | 88 % | 83 % |\n| Hydrotreated vegetable oil from rape seed | 51 % | 47 % |\n| Hydrotreated vegetable oil from sunflower | 65 % | 62 % |\n| Hydrotreated vegetable oil from palm oil (process not specified) | 40 % | 26 % |\n| Hydrotreated vegetable oil from palm oil (process with methane capture at oil mill) | 68 % | 65 % |\n| Pure vegetable oil from rape seed | 58 % | 57 % |\n| Biogas from municipal organic waste as compressed natural gas | 80 % | 73 % |\n| Biogas from wet manure as compressed natural gas | 84 % | 81 % |\n| Biogas from dry manure as compressed natural gas | 86 % | 82 % |\n| (1)Not including animal oil produced from animal by-products classified as category 3 material in accordance with Regulation (EC) No 1774/2002 of the European Parliament and of the Council of 3 October 2002 laying down health rules concerning animal by-products not intended for human consumption(1)OJ L 273, 10.10.2002, p. 1. |  |  |\n\nB. **Estimated typical and default values for future biofuels that were not on the market or were on the market only in negligible quantities in January 2008, if produced with no net carbon emissions from land use change**\n\n| Biofuel production pathway | Typical greenhouse gas emission saving | Default greenhouse gas emission saving |\n| --- | --- | --- |\n| Wheat straw ethanol | 87 % | 85 % |\n| Waste wood ethanol | 80 % | 74 % |\n| Farmed wood ethanol | 76 % | 70 % |\n| Waste wood Fischer-Tropsch diesel | 95 % | 95 % |\n| Farmed wood Fischer-Tropsch diesel | 93 % | 93 % |\n| Waste wood dimethylether (DME) | 95 % | 95 % |\n| Farmed wood DME | 92 % | 92 % |\n| Waste wood methanol | 94 % | 94 % |\n| Farmed wood methanol | 91 % | 91 % |\n| The part from renewable sources of methyl-tertio-butyl-ether (MTBE) | Equal to that of the methanol production pathway used |  |\n\nC. **Methodology**\n\n| 1. | Greenhouse gas emissions from the production and use of biofuels shall be calculated as:*E* = *eec* + *el* + *ep* + *etd* + *eu* – *esca* – *eccs* – *eccr* – *eee*where*E*=total emissions from the use of the fuel;*eec*=emissions from the extraction or cultivation of raw materials;*el*=annualised emissions from carbon stock changes caused by land use change;*ep*=emissions from processing;*etd*=emissions from transport and distribution;*eu*=emissions from the fuel in use;*esca*=emission savings from soil carbon accumulation via improved agricultural management;*eccs*=emission savings from carbon capture and geological storage;*eccr*=emission savings from carbon capture and replacement; and*eee*=emission savings from excess electricity from cogeneration.Emissions from the manufacture of machinery and equipment shall not be taken into account. |  |\n| --- | --- | --- |\n| *E* | = | total emissions from the use of the fuel; |\n| *eec* | = | emissions from the extraction or cultivation of raw materials; |\n| *el* | = | annualised emissions from carbon stock changes caused by land use change; |\n| *ep* | = | emissions from processing; |\n| *etd* | = | emissions from transport and distribution; |\n| *eu* | = | emissions from the fuel in use; |\n| *esca* | = | emission savings from soil carbon accumulation via improved agricultural management; |\n| *eccs* | = | emission savings from carbon capture and geological storage; |\n| *eccr* | = | emission savings from carbon capture and replacement; and |\n| *eee* | = | emission savings from excess electricity from cogeneration. |\n\n| 2. | Greenhouse gas emissions from fuels, E, shall be expressed in terms of grams of CO2 equivalent per MJ of fuel, gCO2eq/MJ. |\n| --- | --- |\n\n| 3. | By derogation from point 2, values calculated in terms of gCO2eq/MJ may be adjusted to take into account differences between fuels in useful work done, expressed in terms of km/MJ. Such adjustments shall only be made where evidence of the differences in useful work done is provided. |\n| --- | --- |\n\n| 4. | Greenhouse gas emission savings from biofuels shall be calculated as:*SAVING* = (*EF* – *EB*)/*EF*where*EB*=total emissions from the biofuel; and*EF*=total emissions from the fossil fuel comparator. |  |\n| --- | --- | --- |\n| *EB* | = | total emissions from the biofuel; and |\n| *EF* | = | total emissions from the fossil fuel comparator. |\n\n| 5. | The greenhouse gases taken into account for the purposes of point 1 shall be CO2, N2O and CH4. For the purpose of calculating CO2 equivalence, those gases shall be valued as follows:CO2:1N2O:296CH4:23 |  |\n| --- | --- | --- |\n| CO2 | : | 1 |\n| N2O | : | 296 |\n| CH4 | : | 23 |\n\n| 6. | Emissions from the extraction or cultivation of raw materials, eec, shall include emissions from the extraction or cultivation process itself; from the collection of raw materials; from waste and leakages; and from the production of chemicals or products used in extraction or cultivation. Capture of CO2 in the cultivation of raw materials shall be excluded. Certified reductions of greenhouse gas emissions from flaring at oil production sites anywhere in the world shall be deducted. Estimates of emissions from cultivation may be derived from the use of averages calculated for smaller geographical areas than those used in the calculation of the default values, as an alternative to using actual values. |\n| --- | --- |\n\n| 7. | Annualised emissions from carbon stock changes caused by land use change, el, shall be calculated by dividing total emissions equally over 20 years. For the calculation of those emissions the following rule shall be applied:*el* = (*CSR* – *CSA*) × 3,664 × 1/20 × 1/*P* – *eB* (24),where*el*=annualised greenhouse gas emissions from carbon stock change due to land use change (measured as mass of CO2-equivalent per unit biofuel energy);*CSR*=the carbon stock per unit area associated with the reference land use (measured as mass of carbon per unit area, including both soil and vegetation). The reference land use shall be the land use in January 2008 or 20 years before the raw material was obtained, whichever was the later;*CSA*=the carbon stock per unit area associated with the actual land use (measured as mass of carbon per unit area, including both soil and vegetation). In cases where the carbon stock accumulates over more than one year, the value attributed to *CSA* shall be the estimated stock per unit area after 20 years or when the crop reaches maturity, whichever is the earlier;*P*=the productivity of the crop (measured as biofuel energy per unit area per year); and*eB*=bonus of 29 gCO2eq/MJ biofuel if biomass is obtained from restored degraded land under the conditions provided for in point 8. |  |\n| --- | --- | --- |\n| *el* | = | annualised greenhouse gas emissions from carbon stock change due to land use change (measured as mass of CO2-equivalent per unit biofuel energy); |\n| *CSR* | = | the carbon stock per unit area associated with the reference land use (measured as mass of carbon per unit area, including both soil and vegetation). The reference land use shall be the land use in January 2008 or 20 years before the raw material was obtained, whichever was the later; |\n| *CSA* | = | the carbon stock per unit area associated with the actual land use (measured as mass of carbon per unit area, including both soil and vegetation). In cases where the carbon stock accumulates over more than one year, the value attributed to *CSA* shall be the estimated stock per unit area after 20 years or when the crop reaches maturity, whichever is the earlier; |\n| *P* | = | the productivity of the crop (measured as biofuel energy per unit area per year); and |\n| *eB* | = | bonus of 29 gCO2eq/MJ biofuel if biomass is obtained from restored degraded land under the conditions provided for in point 8. |\n\n| 8. | The bonus of 29 gCO2eq/MJ shall be attributed if evidence is provided that the land:(a) was not in use for agriculture or any other activity in January 2008; and(b) falls into one of the following categories:(i) severely degraded land, including such land that was formerly in agricultural use;(ii) heavily contaminated land.The bonus of 29 gCO2eq/MJ shall apply for a period of up to 10 years from the date of conversion of the land to agricultural use, provided that a steady increase in carbon stocks as well as a sizable reduction in erosion phenomena for land falling under (i) are ensured and that soil contamination for land falling under (ii) is reduced. |\n| --- | --- |\n\n| 9. | The categories mentioned in point 8(b) are defined as follows:(a) ‘severely degraded land’ means land that, for a significant period of time, has either been significantly salinated or presented significantly low organic matter content and been severely eroded;(b) ‘heavily contaminated land’ means land that is unfit for the cultivation of food and feed due to soil contamination.Such land shall include land that has been the subject of a Commission decision in accordance with the fourth subparagraph of Article 7c(3). |\n| --- | --- |\n\n| 10. | The guide adopted pursuant to point 10 of Part C of Annex V to Directive 2009/28/EC shall serve as the basis of the calculation of land carbon stocks for the purposes of this Directive. |\n| --- | --- |\n\n| 11. | Emissions from processing, *ep*, shall include emissions from the processing itself; from waste and leakages; and from the production of chemicals or products used in processing.In accounting for the consumption of electricity not produced within the fuel production plant, the greenhouse gas emission intensity of the production and distribution of that electricity shall be assumed to be equal to the average emission intensity of the production and distribution of electricity in a defined region. As an exception to this rule producers may use an average value for an individual electricity production plant for electricity produced by that plant, if that plant is not connected to the electricity grid. |\n| --- | --- |\n\n| 12. | Emissions from transport and distribution, *etd*, shall include emissions from the transport and storage of raw and semi-finished materials and from the storage and distribution of finished materials. Emissions from transport and distribution to be taken into account under point 6 shall not be covered by this point. |\n| --- | --- |\n\n| 13. | Emissions from the fuel in use, *eu*, shall be taken to be zero for biofuels. |\n| --- | --- |\n\n| 14. | Emission savings from carbon capture and geological storage *eccs*, that have not already been accounted for in *ep*, shall be limited to emissions avoided through the capture and sequestration of emitted CO2 directly related to the extraction, transport, processing and distribution of fuel. |\n| --- | --- |\n\n| 15. | Emission savings from carbon capture and replacement, *eccr*, shall be limited to emissions avoided through the capture of CO2 of which the carbon originates from biomass and which is used to replace fossil-derived CO2 used in commercial products and services. |\n| --- | --- |\n\n| 16. | Emission savings from excess electricity from cogeneration, *eee*, shall be taken into account in relation to the excess electricity produced by fuel production systems that use cogeneration except where the fuel used for the cogeneration is a co-product other than an agricultural crop residue. In accounting for that excess electricity, the size of the cogeneration unit shall be assumed to be the minimum necessary for the cogeneration unit to supply the heat that is needed to produce the fuel. The greenhouse gas emission savings associated with that excess electricity shall be taken to be equal to the amount of greenhouse gas that would be emitted when an equal amount of electricity was generated in a power plant using the same fuel as the cogeneration unit. |\n| --- | --- |\n\n| 17. | Where a fuel production process produces, in combination, the fuel for which emissions are being calculated and one or more other products (co-products), greenhouse gas emissions shall be divided between the fuel or its intermediate product and the co-products in proportion to their energy content (determined by lower heating value in the case of co-products other than electricity). |\n| --- | --- |\n\n| 18. | For the purposes of the calculation referred to in point 17, the emissions to be divided shall be *eec* + *el* + those fractions of *ep*, *etd* and *eee* that take place up to and including the process step at which a co-product is produced. If any allocation to co-products has taken place at an earlier process step in the life-cycle, the fraction of those emissions assigned in the last such process step to the intermediate fuel product shall be used for this purpose instead of the total of those emissions.All co-products, including electricity that does not fall under the scope of point 16, shall be taken into account for the purposes of that calculation, except for agricultural crop residues, including straw, bagasse, husks, cobs and nut shells. Co-products that have a negative energy content shall be considered to have an energy content of zero for the purpose of the calculation.Wastes, agricultural crop residues, including straw, bagasse, husks, cobs and nut shells, and residues from processing, including crude glycerine (glycerine that is not refined), shall be considered to have zero life-cycle greenhouse gas emissions up to the process of collection of those materials.In the case of fuels produced in refineries, the unit of analysis for the purposes of the calculation referred to in point 17 shall be the refinery. |\n| --- | --- |\n\n| 19. | For the purposes of the calculation referred to in point 4, the fossil fuel comparator *EF* shall be the latest available actual average emissions from the fossil part of petrol and diesel consumed in the Community as reported under this Directive. If no such data are available, the value used shall be 83,8 gCO2eq/MJ. |\n| --- | --- |\n\nD. **Disaggregated default values for biofuels**\n\nDisaggregated default values for cultivation: ‘eec’ as defined in Part C of this Annex\n\n| Biofuel production pathway | Typical greenhouse gas emissions(gCO2eq/MJ) | Default greenhouse gas emissions(gCO2eq/MJ) |\n| --- | --- | --- |\n| Sugar beet ethanol | 12 | 12 |\n| Wheat ethanol | 23 | 23 |\n| Corn (maize) ethanol, Community produced | 20 | 20 |\n| Sugar cane ethanol | 14 | 14 |\n| The part from renewable sources of ETBE | Equal to that of the ethanol production pathway used |  |\n| The part from renewable sources of TAEE | Equal to that of the ethanol production pathway used |  |\n| Rape seed biodiesel | 29 | 29 |\n| Sunflower biodiesel | 18 | 18 |\n| Soybean biodiesel | 19 | 19 |\n| Palm oil biodiesel | 14 | 14 |\n| Waste vegetable or animal (1) oil biodiesel | 0 | 0 |\n| Hydrotreated vegetable oil from rape seed | 30 | 30 |\n| Hydrotreated vegetable oil from sunflower | 18 | 18 |\n| Hydrotreated vegetable oil from palm oil | 15 | 15 |\n| Pure vegetable oil from rape seed | 30 | 30 |\n| Biogas from municipal organic waste as compressed natural gas | 0 | 0 |\n| Biogas from wet manure as compressed natural gas | 0 | 0 |\n| Biogas from dry manure as compressed natural gas | 0 | 0 |\n| (1)Not including animal oil produced from animal by-products classified as category 3 material in accordance with Regulation (EC) No 1774/2002. |  |  |\n\nDisaggregated default values for processing (including excess electricity): ‘ep – eee’ as defined in Part C of this Annex\n\n| Biofuel production pathway | Typical greenhouse gas emissions(gCO2eq/MJ) | Default greenhouse gas emissions(gCO2eq/MJ) |\n| --- | --- | --- |\n| Sugar beet ethanol | 19 | 26 |\n| Wheat ethanol (process fuel not specified) | 32 | 45 |\n| Wheat ethanol (lignite as process fuel in CHP plant) | 32 | 45 |\n| Wheat ethanol (natural gas as process fuel in conventional boiler) | 21 | 30 |\n| Wheat ethanol (natural gas as process fuel in CHP plant) | 14 | 19 |\n| Wheat ethanol (straw as process fuel in CHP plant) | 1 | 1 |\n| Corn (maize) ethanol, Community produced (natural gas as process fuel in CHP plant) | 15 | 21 |\n| Sugar cane ethanol | 1 | 1 |\n| The part from renewable sources of ETBE | Equal to that of the ethanol production pathway used |  |\n| The part from renewable sources of TAEE | Equal to that of the ethanol production pathway used |  |\n| Rape seed biodiesel | 16 | 22 |\n| Sunflower biodiesel | 16 | 22 |\n| Soybean biodiesel | 18 | 26 |\n| Palm oil biodiesel (process not specified) | 35 | 49 |\n| Palm oil biodiesel (process with methane capture at oil mill) | 13 | 18 |\n| Waste vegetable or animal oil biodiesel | 9 | 13 |\n| Hydrotreated vegetable oil from rape seed | 10 | 13 |\n| Hydrotreated vegetable oil from sunflower | 10 | 13 |\n| Hydrotreated vegetable oil from palm oil (process not specified) | 30 | 42 |\n| Hydrotreated vegetable oil from palm oil (process with methane capture at oil mill) | 7 | 9 |\n| Pure vegetable oil from rape seed | 4 | 5 |\n| Biogas from municipal organic waste as compressed natural gas | 14 | 20 |\n| Biogas from wet manure as compressed natural gas | 8 | 11 |\n| Biogas from dry manure as compressed natural gas | 8 | 11 |\n\nDisaggregated default values for transport and distribution: ‘etd’ as defined in Part C of this Annex\n\n| Biofuel production pathway | Typical greenhouse gas emissions(gCO2eq/MJ) | Default greenhouse gas emissions(gCO2eq/MJ) |\n| --- | --- | --- |\n| Sugar beet ethanol | 2 | 2 |\n| Wheat ethanol | 2 | 2 |\n| Corn (maize) ethanol, Community produced | 2 | 2 |\n| Sugar cane ethanol | 9 | 9 |\n| The part from renewable sources of ETBE | Equal to that of the ethanol production pathway used |  |\n| The part from renewable sources of TAEE | Equal to that of the ethanol production pathway used |  |\n| Rape seed biodiesel | 1 | 1 |\n| Sunflower biodiesel | 1 | 1 |\n| Soybean biodiesel | 13 | 13 |\n| Palm oil biodiesel | 5 | 5 |\n| Waste vegetable or animal oil biodiesel | 1 | 1 |\n| Hydrotreated vegetable oil from rape seed | 1 | 1 |\n| Hydrotreated vegetable oil from sunflower | 1 | 1 |\n| Hydrotreated vegetable oil from palm oil | 5 | 5 |\n| Pure vegetable oil from rape seed | 1 | 1 |\n| Biogas from municipal organic waste as compressed natural gas | 3 | 3 |\n| Biogas from wet manure as compressed natural gas | 5 | 5 |\n| Biogas from dry manure as compressed natural gas | 4 | 4 |\n\nTotal for cultivation, processing, transport and distribution\n\n| Biofuel production pathway | Typical greenhouse gas emissions(gCO2eq/MJ) | Default greenhouse gas emissions(gCO2eq/MJ) |\n| --- | --- | --- |\n| Sugar beet ethanol | 33 | 40 |\n| Wheat ethanol (process fuel not specified) | 57 | 70 |\n| Wheat ethanol (lignite as process fuel in CHP plant) | 57 | 70 |\n| Wheat ethanol (natural gas as process fuel in conventional boiler) | 46 | 55 |\n| Wheat ethanol (natural gas as process fuel in CHP plant) | 39 | 44 |\n| Wheat ethanol (straw as process fuel in CHP plant) | 26 | 26 |\n| Corn (maize) ethanol, Community produced (natural gas as process fuel in CHP plant) | 37 | 43 |\n| Sugar cane ethanol | 24 | 24 |\n| The part from renewable sources of ETBE | Equal to that of the ethanol production pathway used |  |\n| The part from renewable sources of TAEE | Equal to that of the ethanol production pathway used |  |\n| Rape seed biodiesel | 46 | 52 |\n| Sunflower biodiesel | 35 | 41 |\n| Soybean biodiesel | 50 | 58 |\n| Palm oil biodiesel (process not specified) | 54 | 68 |\n| Palm oil biodiesel (process with methane capture at oil mill) | 32 | 37 |\n| Waste vegetable or animal oil biodiesel | 10 | 14 |\n| Hydrotreated vegetable oil from rape seed | 41 | 44 |\n| Hydrotreated vegetable oil from sunflower | 29 | 32 |\n| Hydrotreated vegetable oil from palm oil (process not specified) | 50 | 62 |\n| Hydrotreated vegetable oil from palm oil (process with methane capture at oil mill) | 27 | 29 |\n| Pure vegetable oil from rape seed | 35 | 36 |\n| Biogas from municipal organic waste as compressed natural gas | 17 | 23 |\n| Biogas from wet manure as compressed natural gas | 13 | 16 |\n| Biogas from dry manure as compressed natural gas | 12 | 15 |\n\nE. **Estimated disaggregated default values for future biofuels that were not on the market or were only on the market in negligible quantities in January 2008**\n\nDisaggregated values for cultivation: ‘eec’ as defined in Part C of this Annex\n\n| Biofuel production pathway | Typical greenhouse gas missions(gCO2eq/MJ) | Default greenhouse gas emissions(gCO2eq/MJ) |\n| --- | --- | --- |\n| Wheat straw ethanol | 3 | 3 |\n| Waste wood ethanol | 1 | 1 |\n| Farmed wood ethanol | 6 | 6 |\n| Waste wood Fischer-Tropsch diesel | 1 | 1 |\n| Farmed wood Fischer-Tropsch diesel | 4 | 4 |\n| Waste wood DME | 1 | 1 |\n| Farmed wood DME | 5 | 5 |\n| Waste wood methanol | 1 | 1 |\n| Farmed wood methanol | 5 | 5 |\n| The part from renewable sources of MTBE | Equal to that of the methanol production pathway used |  |\n\nDisaggregated values for processing (including excess electricity): ‘ep – eee’ as defined in Part C of this Annex\n\n| Biofuel production pathway | Typical greenhouse gas emissions(gCO2eq/MJ) | Default greenhouse gas emissions(gCO2eq/MJ) |\n| --- | --- | --- |\n| Wheat straw ethanol | 5 | 7 |\n| Wood ethanol | 12 | 17 |\n| Wood Fischer-Tropsch diesel | 0 | 0 |\n| Wood DME | 0 | 0 |\n| Wood methanol | 0 | 0 |\n| The part from renewable sources of MTBE | Equal to that of the methanol production pathway used |  |\n\nDisaggregated values for transport and distribution: ‘etd’ as defined in Part C of this Annex\n\n| Biofuel production pathway | Typical greenhouse gas emissions(gCO2eq/MJ) | Default greenhouse gas emissions(gCO2eq/MJ) |\n| --- | --- | --- |\n| Wheat straw ethanol | 2 | 2 |\n| Waste wood ethanol | 4 | 4 |\n| Farmed wood ethanol | 2 | 2 |\n| Waste wood Fischer-Tropsch diesel | 3 | 3 |\n| Farmed wood Fischer-Tropsch diesel | 2 | 2 |\n| Waste wood DME | 4 | 4 |\n| Farmed wood DME | 2 | 2 |\n| Waste wood methanol | 4 | 4 |\n| Farmed wood methanol | 2 | 2 |\n| The part from renewable sources of MTBE | Equal to that of the methanol production pathway used |  |\n\nTotal for cultivation, processing, transport and distribution\n\n| Biofuel production pathway | Typical greenhouse gas emissions(gCO2eq/MJ) | Default greenhouse gas emissions(gCO2eq/MJ) |\n| --- | --- | --- |\n| Wheat straw ethanol | 11 | 13 |\n| Waste wood ethanol | 17 | 22 |\n| Farmed wood ethanol | 20 | 25 |\n| Waste wood Fischer-Tropsch diesel | 4 | 4 |\n| Farmed wood Fischer-Tropsch diesel | 6 | 6 |\n| Waste wood DME | 5 | 5 |\n| Farmed wood DME | 7 | 7 |\n| Waste wood methanol | 5 | 5 |\n| Farmed wood methanol | 7 | 7 |\n| The part from renewable sources of MTBE | Equal to that of the methanol production pathway used |  |\n\n(1) OJ C 77, 11.3.1997, p. 1 and OJ C 209, 10.7.1997, p. 25.\n\n(2) OJ C 206, 7.7.1997, p. 113.\n\n(3) Opinion of the European Parliament of 10 April 1997 (OJ C 132, 28.4.1997, p. 170), Council Common Position of 7 October 1997 (OJ C 351, 19.11.1997, p. 1) and Decision of the European Parliament of 18 February 1998 (OJ C 80, 16.3.1998, p. 92). Decision of the European Parliament of 15 September 1998 (OJ C 313, 12.10.1998). Decision of the Council of 17 September 1998.\n\n(4) OJ L 76, 6.4.1970, p. 1. Directive as last amended by Directive 98/69/EC of the European Parliament and of the Council (see page 1 of this Official Journal).\n\n(5) OJ L 36, 9.2.1988, p. 33. Directive as last amended by Directive 96/1/EC of the European Parliament and of the Council (OJ L 40, 17.2.1996, p. 1).\n\n(6) OJ L 100, 19.4.1994, p. 42.\n\n(7) OJ L 316, 31.10.1992, p. 12. Directive as last amended by Directive 94/74/EC (OJ L 365, 31.12.1994, p. 46).\n\n(8) OJ L 204, 21.7.1998, p. 37. Directive as amended by Directive 98/48/EC (OJ L 217, 5.8.1998, p. 18).\n\n(9) OJ L 96, 3.4.1985, p. 25. Directive as last amended by the 1994 Act of Accession.\n\n(10) OJ L 334, 12.12.1985, p. 20. Directive as amended by Commission Directive 87/441/EEC (OJ L 238, 21.8.1987, p. 40).\n\n(11) OJ L 74, 27.3.1993, p. 81.\n\n(12) OJ C 102, 4.4.1996, p. 1.\n\n(13) The numbering of these CN codes as specified in the CCT, as amended by Commission Regulation (EC) No 2031/2001 (OJ L 279, 23.10.2001, p. 1).\n\n(14) The numbering of these CN codes as specified in the CCT, as amended by Commission Regulation (EC) No 2031/2001 (OJ L 279, 23.10.2001, p. 1).\n\n(15) The numbering of these CN codes as specified in the Common Customs Tariff (OJ L 256, 7.6.1987, p. 1).\n\n(16) OJ L 164, 30.6.1994, p. 15.\n\n(17) OJ L 59, 27.2.1998, p. 1.\n\n(18) OJ L 173, 12.7.2000, p. 1.\n\n(19) OJ L 140, 5.6.2009, p. 16.\n\n(20) OJ L 275, 25.10.2003, p. 32.\n\n(21) OJ L 30, 31.1.2009, p. 16.\n\n(22) OJ L 154, 21.6.2003, p. 1.\n\n(23) OJ L 327, 22.12.2000, p. 1.\n\n(24) The quotient obtained by dividing the molecular weight of CO2 (44,010 g/mol) by the molecular weight of carbon (12,011 g/mol) is equal to 3,664.",
+      "text_sha256": "abd652eca5e5fce6fb9368d182c4805a23607ef84bc79a7e1b8ad1946897d90b",
+      "md_span": {
+        "start": 54801,
+        "end": 80745
+      },
+      "citations": [
+        {
+          "href": "#E0034",
+          "text": "(1)"
+        },
+        {
+          "href": "#E0036",
+          "text": "24"
+        },
+        {
+          "href": "#E0037",
+          "text": "(1)"
+        },
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        },
+        {
+          "href": "#src.E0008",
+          "text": "8"
+        },
+        {
+          "href": "#src.E0009",
+          "text": "9"
+        },
+        {
+          "href": "#src.E0010",
+          "text": "10"
+        },
+        {
+          "href": "#src.E0011",
+          "text": "11"
+        },
+        {
+          "href": "#src.E0012",
+          "text": "12"
+        },
+        {
+          "href": "#src.E0013",
+          "text": "13"
+        },
+        {
+          "href": "#src.E0014",
+          "text": "14"
+        },
+        {
+          "href": "#src.E0015",
+          "text": "15"
+        },
+        {
+          "href": "#src.E0016",
+          "text": "16"
+        },
+        {
+          "href": "#src.E0017",
+          "text": "17"
+        },
+        {
+          "href": "#src.E0018",
+          "text": "18"
+        },
+        {
+          "href": "#src.E0019",
+          "text": "19"
+        },
+        {
+          "href": "#src.E0020",
+          "text": "20"
+        },
+        {
+          "href": "#src.E0021",
+          "text": "21"
+        },
+        {
+          "href": "#src.E0022",
+          "text": "22"
+        },
+        {
+          "href": "#src.E0023",
+          "text": "23"
+        },
+        {
+          "href": "#src.E0036",
+          "text": "24"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

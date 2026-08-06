@@ -1,0 +1,173 @@
+---
+lex_id: 'eu-eurlex:31994l0022:2018-12-24'
+title: 'Directive 94/22/EC'
+valid_from: '2018-12-24'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01994L0022-20181224'
+source_sha256: 'e54337463debec6b64bd1e2892cafb6d04e2c4295fa27a6e281ac53ae9797e7d'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### Article 1
+
+For the purposes of this Directive:
+
+1. * ‘competent authorities’ * means the public authorities, as defined in Article 1 (1) of Directive 90/531/EEC, which are responsible for granting authorization and/or monitoring use thereof;
+
+2. * ‘entity’ * means any natural or legal person or any group of such persons which applies for, is likely to apply for or holds an authorization;
+
+3. * ‘authorization’ * means any law, regulation, administrative or contractual provision or instrument issued thereunder by which the competent authorities of a Member State entitle an entity to exercise, on its own behalf and at its own risk, the exclusive right to prospect or explore for or produce hydrocarbons in a geographical area. An authorization may be granted for each activity separately or for several activities at a time;
+
+4. * ‘public entity’ * means a public undertaking as defined in Article 1 (2) of Directive 90/531/EEC.
+
+<a id="art_2"></a>
+
+### Article 2
+
+**1.** Member States retain the right to determine the areas within their territory to be made available for the exercise of the activities of prospecting, exploring for and producing hydrocarbons.
+
+**2.** Whenever an area is made available for the exercise of the activities set out in paragraph 1, Member States shall ensure that there is no discrimination between entities as regards access to and exercise of these activities.
+
+However, Member States may refuse, on grounds of national security, to allow access to and exercise of these activities to any entity which is effectively controlled by third countries or third country nationals.
+
+<a id="art_3"></a>
+
+### Article 3
+
+**1.** Member States shall take the necessary measures to ensure that authorizations are granted following a procedure in which all interested entities may submit applications in accordance either with paragraph 2 or 3.
+
+**2.** This procedure shall be initiated:(a) either at the initiative of the competent authorities by means of a notice inviting applications, to be published in the *Official Journal of the European Communities* at least 90 days before the closing date for applications;(b) or by means of a notice inviting applications, to be published in the *Official Journal of the European Communities* following submission of an application by an entity without prejudice to Article 2 (1). Other interested entities shall have a period of at least 90 days after the date of publication in which to submit an application.
+
+Notices shall specify the type of authorization, the geographical area or areas in part or all of which an application has been or may be made and the proposed date or time limit for granting authorization.
+
+Where preference is given to applications by entities which are single natural or legal persons, the notice shall so specify.
+
+**3.** Member States may grant authorizations without initiating a procedure under paragraph 2 where the area for which authorization is requested:(a) is available on a permanent basis; or(b) has been the subject of a previous procedure according to paragraph 2 which has not resulted in the grant of an authorization; or(c) has been relinquished by an entity and does not fall automatically under (a).
+
+A Member State wishing to apply this paragraph shall within three months of the adoption of this Directive or, in case of Member States who have not yet introduced such procedures, without delay arrange for the publication in the *Official Journal of the European Communities* of a notice indicating the areas within its territory which are available under this paragraph and where detailed information in this regard can be obtained. Any significant change in this information shall be the subject of an additional notice. However, no application for an authorization under this paragraph can be considered until after the publication of the relevant notice under this text.
+
+**4.** A Member State may decide not to apply the provisions of paragraph 1 if and to the extent that geological or production considerations justify the granting of the authorization for an area to the holder of an authorization for a contiguous area. The Member State concerned shall ensure that the holders of authorizations for any other contiguous areas are able to submit applications in such a case and are given sufficient time to do so.
+
+**5.** The following shall not be considererd as the grant of an authorization within the meaning of paragraph 1:(a) the grant of an authorization solely by reason of a change of name or ownership of an entity holding an existing authorization, a change in the composition of such an entity or a transfer of an authorization;(b) the grant of an authorization to an entity having another form of authorization where the possession of the latter authorization implies a right to the grant of the former authorization;(c) the decision of the competent authorities taken within the framework of an authorization (whether or not such authorization was granted before the date fixed in Article 14) and relating to the commencement, interruption, prolongation or cessation of the activities or to the prolongation of the authorization itself.
+
+**6.** Notwithstanding the initiation of the procedures mentioned in paragraph 2, Member States retain the option to refuse the granting of authorizations, whilst ensuring that this option does not give rise to discrimination between entities.
+
+<a id="art_4"></a>
+
+### Article 4
+
+Member States shall take the necessary measures to ensure that:
+
+(a) if the geographical areas are not delimited on the basis of a prior geometric division of the territory, the extent of each area is determined in such a way that it does not exceed the area justified by the best possible exercise of the activities from the technical and economic points of view. In the case of authorizations granted following the procedures laid down in Article 3 (2), objective criteria shall be established to this end and shall be made available to the entities prior to the submission of applications;
+
+(b) the duration of an authorization does not exceed the period necessary to carry out the activities for which the authorization is granted. However, the competent authorities may prolong the authorization where the stipulated duration is insufficient to complete the activity in question and where the activity has been performed in accordance with the authorization;
+
+(c) entities do not retain exclusive rights in the geographical area for which they have received an authorization for longer than is necessary for the proper performance of the authorized activities.
+
+<a id="art_5"></a>
+
+### Article 5
+
+Member States shall take the necessary measures to ensure that:
+
+1. authorizations are granted on the basis of criteria concerning, in all cases: (a) the technical and financial capability of the entities; and (b) the way in which they propose to prospect, to explore and/or to bring into production the geographical area in question; and, where applicable: (c) if the authorization is put up for sale, the price which the entity is prepared to pay in order to obtain the authorizations; (d) if, following evaluation under the criteria (a), (b) and, where applicable, (c), two or more applications have equal merit, other relevant objective and non-discriminatory criteria, in order to make a final choice among these applications. The competent authorities may also take account, when appraising applications, of any lack of efficiency and responsibility displayed by the applicants in operations under previous authorizations. Where the competent authorities determine the composition of an entity to which they may grant an authorization, they shall make that determination on the basis of objective and non-discriminatory criteria. Where the competent authorities determine the operator of an entity to which they may grant an authorization, they shall make that determination on the basis of objective and non-discriminatory criteria. The criteria shall be drawn up and published in the *Official Journal of the European Communities* before the start of the period for submission of applications. Member States which have already published the criteria in their official journals may limit the publication in the *Official Journal of the European Communities* to a reference to the publication in their official journals. However, any change in criteria shall be published in full in the *Official Journal of the European Communities*;
+
+2. the conditions and requirements concerning the exercise or termination of the activity which apply to each type of authorizations by virtue of the laws, regulations and administrative provisions in force at the time of submission of the applications, whether contained in the authorization or being one of the conditions to be accepted prior to the grant of such authorization, are established and made available to interested entities at all times. In the case provided for in Article 3 (2) (a), they may be made available only from the date starting from which applications for authorization may be submitted;
+
+3. any changes made to the conditions and requirements in the course of the procedure are notified to all interested entities;
+
+4. the criteria, conditions and requirements referred to in this Article are applied in a non-discriminatory manner;
+
+5. any entity whose application for an authorization is unsuccessful is, if the entity so wishes, informed of the reasons for the decision.
+
+<a id="art_6"></a>
+
+### Article 6
+
+**1.** Member States shall ensure that the conditions and requirements referred to in Article 5 (2) and the detailed obligations for use of a specific authorization are justified exclusively by the need to ensure the proper performance of the activities in the area for which an authorization is requested, by the application of paragraph 2 or by the payment of a financial contribution or a contribution in hydrocarbons.
+
+**2.** Member States may, to the extent justified by national security, public safety, public health, security of transport, protection of the environment, protection of biological resources and of national treasures possessing artistic, historic or archaeological value, safety of installations and of workers, planned management of hydrocarbon resources (for example the rate at which hydrocarbons are depleted or the optimization of their recovery) or the need to secure tax revenues, impose conditions and requirements on the exercise of the activities set out in Article 2 (1).
+
+**3.** The rules for payment of contributions referred to in paragraph 1, including any requirement for State participation, shall be fixed by Member States in such a way as to ensure that the independence of management of entities is maintained.
+
+However, where the grant of authorizations is subject to the State's participation in the activities and where a legal person has been entrusted with the management of this participation or where the State itself manages the participation, neither the legal person nor the State shall be prevented from assuming the rights and obligations associated with such participation, equivalent to the importance of the participation provided that the legal person or the State shall not be party to information nor exercise any voting rights on decisions regarding sources of procurement for entities, that the legal person or the State in combination with any public entity or entities shall not exercise a majority voting right on other decisions and that any vote by the State or the legal person shall be based exclusively on transparent, objective and non-discriminatory principles, and shall not prevent the management decisions of the entity from being based on normal commercial principles.
+
+However, the provisions of the preceding sub-paragraph shall not prevent the legal person or the State from opposing a decision by the holders of an authorization which would not respect the conditions and requirements, specified in the authorization, regarding depletion policy and protection of the financial interests of the State.
+
+The option to oppose a decision shall be exercised in a non-discriminatory manner, particularly regarding investment decisions and sources of supply of entities. Where the State's participation in the activities is managed by a legal person which also holds the authorizations, the Member State shall put in place arrangements requiring that legal person to keep separate accounts for its commercial role and its role as manager of the State's participation and guaranteeing that there is no flow of information from the part of the legal person responsible for the management of the State's participation to the part of the legal person which holds authorizations in its own right. However, where the part of the legal person responsible for the management of the State's participation engages the part of the legal person which holds authorization as a consultant, the former may make available any information which is necessary for the consultancy work to be carried out. The holders of all authorizations to which the information relates shall be informed in advance of what information will be given in this way and shall be given sufficient time to raise objections.
+
+**4.** Member States shall ensure that the monitoring of entities under an authorization is limited to that necessary to ensure compliance with the conditions, requirements and obligations referred to in paragraph 1. In particular, they shall take the measures necessary to ensure that no entity is required, by any law, regulation or administrative requirement, or by any agreement or undertaking, to provide information on its intended or actual sources of procurement, except at the request of the competent authorities and exclusively with a view to the objectives set out in Article 36 of the Treaty.
+
+<a id="art_7"></a>
+
+### Article 7
+
+Without prejudice to the provisions concerning or contained in individual authorizations and to the provisions of Article 3 (5) (b) legal, regulatory and administrative provisions which reserve to a single entity the right to obtain authorizations in a specific geographical area within the territory of a Member State shall be abolished by the Member States concerned before 1 January 1997.
+
+<a id="art_8"></a>
+
+### Article 8
+
+**1.** Member States shall inform the Commission of any general difficulty encountered, *de jure* or *de facto*, by entities in access to or exercise of the activities of prospecting, exploring for and producing hydrocarbons in third countries, which have been brought to their attention. Member States and the Commission shall ensure that commercial confidentiality is respected.
+
+**3.** Whenever the Commission establishes, either on the basis of the reports referred to in paragraph 2 or on the basis of other information, that a third country is not granting Community entities, as regards access to or exercise of the activities referred to in paragraph 1, treatment comparable to that which the Community grants entities from that third country, the Commission may submit proposals to the Community for the appropriate mandate for negotiation with a view to obtaining comparable competitive opportunities for Community entities. The Council shall decide by qualified majority.
+
+**4.** In the circumstances described in paragraph 3, the Commission may at any time propose that the Council authorize one or more Member States to refuse an authorization to an entity which is effectively controlled by the third country concerned and/or by nationals of that third country.
+
+The Commission may make such a proposal on its own initiative or at the request of a Member State.
+
+The Council shall act by qualified majority as soon as possible.
+
+**5.** Measures taken pursuant to this Article shall be without prejudice to the Community's obligations under any international agreement governing access to an exercise of the activities of prospecting, exploring for and producing hydrocarbons.
+
+<a id="art_10"></a>
+
+### Article 10
+
+Member States shall notify the Commission, no later than 1 May 1995, of the competent authorities. Member States shall notify the Commission without delay of any subsequent changes. The Commission shall publish the list of competent authorities and any changes thereto in the *Official Journal of the European Communities*.
+
+<a id="art_11"></a>
+
+### Article 11
+
+This Directive applies to authorizations granted from the date laid down in Article 14.
+
+<a id="art_12"></a>
+
+### Article 12
+
+The following paragraph shall be added to Article 3 of Directive 90/531/EEC:
+
+**‘5.** As regards the exploitation of geographical areas for the purpose of prospecting for or extracting oil or gas, paragraphs 1 to 4 shall apply as follows from the date on which the Member State concerned has complied with the provisions of the European Parliament and Council Directive 94/22/EC of 30 May on the conditions for granting and using authorizations for the prospection, exploration and production of hydrocarbons (*1):(a) the conditions laid down in paragraph 1 shall be considered to be satisfied with effect from that date without prejudice to paragraph 3;(b) with effect from that date, the Member State referred to in paragraph 4 shall be required to communicate only the provisions relating to compliance with the conditions referred to in paragraphs 2 and 3.
+
+<a id="art_13"></a>
+
+### Article 13
+
+The provisions of Articles 3 and 5 shall not apply to new authorizations granted by Denmark before 31 December 2012, in respect of the areas which are relinquished on 8 July 2012 upon expiry of the authorization issued on 8 July 1962. The new authorizations shall be granted on the basis of objective and non-discriminatory principles.
+
+Consequently, this Article shall not create any precedent for Member States.
+
+<a id="art_14"></a>
+
+### Article 14
+
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 1 July 1995. They shall forthwith inform the Commission thereof.
+
+When Member States adopt these measures they shall contain a reference to this Directive or shall be accompanied by such reference at the time of their official publication. The methods of making such reference shall be laid down by Member States.
+
+<a id="art_15"></a>
+
+### Article 15
+
+This Directive shall enter into force on the day of its publication in the *Official Journal of the European Communities*.
+
+<a id="art_16"></a>
+
+### Article 16
+
+This Directive is addressed to the Member States.

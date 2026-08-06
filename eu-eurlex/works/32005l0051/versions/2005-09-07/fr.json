@@ -1,0 +1,111 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32005l0051:2005-09-07",
+  "language": "fr",
+  "title": "Commission Directive 2005/51/EC of 7 September 2005 amending Annex XX to Directive 2004/17/EC and Annex VIII to Directive 2004/18/EC",
+  "valid_from": "2005-09-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32005l0051/versions/2005-09-07/fr.xml",
+    "sha256": "e70be37b6aae368c08139c3e7d0d395a41469319f2aa02f73c26984ac09c8626",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32005L0051"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32005l0051:2005-09-07#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLa première phrase du point 1 a) de l’annexe XX de la directive 2004/17/CE est modifiée comme suit:\n\n«Les avis visés aux articles 41, 42, 43 et 63 sont envoyés par les entités adjudicatrices à l’Office des publications officielles des Communautés européennes dans le format établi par les mesures d’application adoptées par la Commission conformément à la procédure visée à l’article 68, paragraphe 2.»",
+      "text_sha256": "b9f1537f51ecb9b4f415c3743b6fc887edc1a4c84927c8af44baf26c03a3c813",
+      "md_span": {
+        "start": 677,
+        "end": 1096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32005l0051:2005-09-07#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLa première phrase du point 1 a) de l’annexe VIII de la directive 2004/18/CE est modifiée comme suit:\n\n«Les avis visés aux articles 35, 58, 64 et 69 sont envoyés par les pouvoirs adjudicateurs à l’Office des publications officielles des Communautés européennes dans le format établi par les mesures d’application adoptées par la Commission conformément à la procédure visée à l’article 77, paragraphe 2.»",
+      "text_sha256": "980c3498156b4f4cd8f620f64f84a12f993721940a3f2a3111c24be1e2f13ae9",
+      "md_span": {
+        "start": 1129,
+        "end": 1544
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32005l0051:2005-09-07#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLes États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le 31 janvier 2006. Ils en informent immédiatement la Commission.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.",
+      "text_sha256": "f9889bb1f25dbff13f466c78d529c844ccfdbba10179d7fd1c282c66b522e145",
+      "md_span": {
+        "start": 1577,
+        "end": 2086
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32005l0051:2005-09-07#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLa présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "0fab9c6e678cd77843bb065169a71701c8173c752d104c3296de4e76543f546f",
+      "md_span": {
+        "start": 2119,
+        "end": 2261
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32005l0051:2005-09-07#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "d262bf068f985c2f9fbd6d3529e6c955709d83fa74b232a89d98dfc32026f00e",
+      "md_span": {
+        "start": 2294,
+        "end": 2367
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

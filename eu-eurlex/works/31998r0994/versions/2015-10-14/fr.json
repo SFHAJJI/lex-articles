@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31998r0994:2015-10-14",
+  "language": "fr",
+  "title": "Council Regulation (EC) No 994/98 of 7 May 1998 on the application of Articles 92 and 93 o…",
+  "valid_from": "2015-10-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31998r0994/versions/2015-10-14/fr.html",
+    "sha256": "1fb308eb5c7ce1deba656d4439b0682e69922ce6dc611ec37a1d4864d7444d11",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01998R0994-20151014"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31998r0994:2015-10-14#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1998R0994 — FR — 14.10.2015 — 002.001 Ce document constitue un outil de documentation et n’engage pas la responsabilité des institutions ►B RÈGLEMENT (CE) No 994/98 DU CONSEIL du 7 mai 1998 sur l’application des articles 107 et 108 du traité sur le fonctionnement de l’Union européenne à certaines catégories d’aides d’État horizontales (JO L 142, 14.5.1998, p.1) abrogé par: Journal officiel n° page date Règlement (UE) 2015/1588 du Conseil du 13 juillet 2015 L 248 1 24.9.2015",
+      "text_sha256": "e04808cbff34bb85279f5ec50ef0dd933e50516147252fb8e0334540a4d8b04d",
+      "md_span": {
+        "start": 658,
+        "end": 1136
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

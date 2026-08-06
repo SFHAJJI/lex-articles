@@ -1,0 +1,111 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32013l0061:2013-12-17",
+  "language": "en",
+  "title": "Council Directive 2013/61/EU of 17\u00A0December 2013 amending Directives 2006/112/EC and 2008/…",
+  "valid_from": "2013-12-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32013l0061/versions/2013-12-17/en.xml",
+    "sha256": "28007e44aceac674bcc1ae477703b39d89308de1b3d02a492da66bf394578726",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013L0061"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32013l0061:2013-12-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nPoint (c) of Article 6(1) of Directive 2006/112/EC is replaced by the following:\n\n| ‘(c) | the French territories referred to in Article 349 and Article 355(1) of the Treaty on the Functioning of the European Union;’. |\n| --- | --- |",
+      "text_sha256": "717eaf91aaee842443bbcc73592538f518f576007639631b8d260c3ce3fe8326",
+      "md_span": {
+        "start": 636,
+        "end": 880
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32013l0061:2013-12-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nArticle 5 of Directive 2008/118/EC is hereby amended as follows:\n\n| (1) | Point (b) of paragraph (2) is replaced by the following:‘(b)the French territories referred to in Article 349 and Article 355(1) of the Treaty on the Functioning of the European Union;’. |\n| --- | --- |\n| ‘(b) | the French territories referred to in Article 349 and Article 355(1) of the Treaty on the Functioning of the European Union;’. |\n\n| (2) | Paragraph (5) is replaced by the following:‘France may give notice, by means of a declaration, that this Directive and the Directives referred to in Article 1 apply to the territories referred to in point (b) of paragraph (2), subject to measures to adapt to the extreme remoteness of those territories, in respect of all or some of the excise goods referred to in Article 1, as from the first day of the second month following the deposit of such declaration.’. |\n| --- | --- |",
+      "text_sha256": "9844a2a9c34deb09168ab7e471e1edb2e30feff7e2ae8ae238c889dfdbf08298",
+      "md_span": {
+        "start": 913,
+        "end": 1826
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32013l0061:2013-12-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive with effect from 1 January 2014. They shall communicate to the Commission the text of those provisions before 1 January 2015.\n\nWhen Member States adopt those provisions, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.\n\n2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.",
+      "text_sha256": "188c0383b2a202c756b6e42785d3574fa730b30ed24eec966155376373936b5b",
+      "md_span": {
+        "start": 1859,
+        "end": 2544
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32013l0061:2013-12-17#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Directive shall enter into force on 1 January 2014.",
+      "text_sha256": "601f33cdbb1885d3373d04a434a5c6659dd61a6eb7f981374b9c57942a87689e",
+      "md_span": {
+        "start": 2577,
+        "end": 2644
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32013l0061:2013-12-17#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "725df0217ed142da14a49015de17b082300380898cb4484ae4b0cb7393a801e0",
+      "md_span": {
+        "start": 2677,
+        "end": 2737
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

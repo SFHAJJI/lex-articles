@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31977l0799:2013-01-01",
+  "language": "en",
+  "title": "Council Directive 77/799/EEC of 19 December 1977 concerning mutual assistance by the compe…",
+  "valid_from": "2013-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31977l0799/versions/2013-01-01/en.html",
+    "sha256": "d352ad3ecb9a508d5d4ce5b8a298bb803c10f7d3d8d3ae4b159efea38fa808f1",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01977L0799-20130101"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31977l0799:2013-01-01#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1977L0799 — EN — 01.01.2013 — 010.001 This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents ►B COUNCIL DIRECTIVE of 19 December 1977 concerning mutual assistance by the competent authorities of the Member States in the field of direct taxation and taxation of insurance premiums (77/799/EEC) (OJ L 336, 27.12.1977, p.15) repealed by: Official Journal No page date Council Directive 2011/16/EU of 15 February 2011 L 64 1 11.3.2011",
+      "text_sha256": "72c740082f78410a94185e1f86b1ebed51e5a185c8dbf849e55c7eee2f511f3a",
+      "md_span": {
+        "start": 658,
+        "end": 1153
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

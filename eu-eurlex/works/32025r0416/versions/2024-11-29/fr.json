@@ -1,0 +1,298 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0416:2024-11-29",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2025/416 of 29\u00A0November 2024 supplementing Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-11-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0416/versions/2024-11-29/fr.xml",
+    "sha256": "269a01ebd29b19b3712fa4abb54fda99d3b18f288926ed39576bc4578afd55b0",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0416"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs tiennent à la disposition de l’autorité compétente les informations, visées aux articles 2 à 15, sur chaque ordre portant sur des crypto-actifs qui est affiché par l’intermédiaire de leurs systèmes, ou lui donnent accès à ces informations, selon le format indiqué dans les tableaux 2 et 3 de l’annexe, dans la mesure où elles concernent l’ordre en question.\n\n2. Les données visées au paragraphe 1 sont présentées dans un format JSON suivant la méthode définie par la norme ISO 20022.",
+      "text_sha256": "35f465da3f6f453dd62dabaa66b35ad355d9f882ede582093ea1a02de5090901",
+      "md_span": {
+        "start": 650,
+        "end": 1259
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Pour tous les ordres sur crypto-actifs, les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs conservent des enregistrements permettant d’identifier tous les acteurs suivants:\n\n| a) | tout participant de la plate-forme de négociation de crypto-actifs qui est une entité juridique et qui soumet un ordre à cette plate-forme, tel qu’identifié conformément à l’article 4 et au champ 1 du tableau 2 de l’annexe; |\n| --- | --- |\n\n| b) | tout participant de la plate-forme de négociation de crypto-actifs qui est une personne physique et qui soumet un ordre à cette plate-forme, tel qu’identifié conformément au champ 2 du tableau 2 de l’annexe; |\n| --- | --- |\n\n| c) | tout client pour le compte duquel le participant de la plate-forme de négociation de crypto-actifs visé au point a) ou b) soumet l’ordre à cette plate-forme, tel qu’identifié conformément au champ 3 du tableau 2 de l’annexe; |\n| --- | --- |\n\n| d) | la personne ou l’algorithme informatique qui, au sein du participant à la plate-forme de négociation de crypto-actifs visé au point a) ou b), est responsable de la décision d’investissement liée à l’ordre, tel(le) qu’identifié(e) conformément au champ 4 du tableau 2 de l’annexe; |\n| --- | --- |\n\n| e) | la personne ou l’algorithme informatique qui, au sein du participant à la plate-forme de négociation de crypto-actifs visé au point a) ou b), est responsable de l’exécution de l’ordre, tel(le) qu’identifié(e) conformément au champ 5 du tableau 2 de l’annexe. |\n| --- | --- |\n\nAux fins du point d), lorsque la décision d’investissement est prise par plusieurs personnes, les prestataires de services sur crypto-actifs qui exploitent une plate-forme de négociation de crypto-actifs conservent un enregistrement de la personne qui assume la responsabilité principale de cette décision. Un prestataire de services sur crypto-actifs qui exploite une plate-forme de négociation de crypto-actifs n’identifie cette personne ou cet algorithme informatique que si la décision d’investissement est prise soit pour le compte du participant, soit pour le compte d’un client qui lui a confié un mandat discrétionnaire à cet effet.\n\n2. Si un participant d’une plate-forme de négociation de crypto-actifs a l’intention d’attribuer un ordre à un client après avoir soumis cet ordre à cette plate-forme, mais qu’il n’a pas encore procédé à cette attribution au moment de soumettre l’ordre, ce client est identifié comme indiqué dans le champ 3 du tableau 2 de l’annexe.\n\n3. Si plusieurs ordres de clients différents sont soumis ensemble à la plate-forme de négociation de crypto-actifs sous la forme d’un ordre groupé, les informations visées dans le champ 3 du tableau 2 de l’annexe sont enregistrées pour chaque client.",
+      "text_sha256": "d18de8e048e96ba699f482ce1f251008893ff5de58d5d94fadbe249b7ce01b11",
+      "md_span": {
+        "start": 1292,
+        "end": 4078
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Le prestataire de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs identifie les personnes physiques dans ses enregistrements de carnets d’ordres à l’aide de la désignation issue de la concaténation du code ISO 3166-1 alpha-2 précisé dans la norme ISO 3166 et de l’identifiant national de client, indiqués à l’annexe II du règlement délégué (UE) 2017/590, correspondant à la nationalité de chaque personne. Le code pays à deux lettres doit correspondre à la nationalité de la personne physique.\n\n2. L’identifiant national de client visé au paragraphe 1 est attribué conformément à l’ordre des priorités prévu à l’annexe II du règlement délégué (UE) 2017/590, l’identifiant ayant le plus haut degré de priorité parmi ceux de la personne concernée devant être utilisé, que celui-ci soit déjà connu ou non du prestataire de services sur crypto-actifs exploitant la plate-forme de négociation de crypto-actifs.\n\n3. Dans le cas d’une personne physique possédant la nationalité de plusieurs pays de l’espace économique européen (EEE), il convient d’utiliser le code pays de la première nationalité selon l’ordre alphabétique des codes ISO 3166-1 alpha-2 concernés et l’identifiant de cette nationalité attribué conformément au paragraphe 2. Lorsqu’une personne physique possède la nationalité d’un pays non-EEE, il convient d’utiliser l’identifiant ayant le plus haut degré de priorité parmi ceux prévus dans le champ «Tous les autres pays» de l’annexe II du règlement délégué (UE) 2017/590. Lorsqu’une personne physique possède la nationalité d’un pays de l’EEE et d’un pays non-EEE, il convient d’utiliser le code pays de la nationalité de l’EEE, et l’identifiant de plus haut degré de priorité de cette nationalité attribué conformément au paragraphe 2.\n\n4. Lorsqu’une personne physique est résidente d’un pays autre que celui dont elle possède la nationalité, le prestataire de services sur crypto-actifs qui exploite la plate-forme de négociation de crypto-actifs l’identifie aussi d’après son pays de résidence, comme indiqué dans le champ 50 du tableau 2 de l’annexe.\n\n5. Il convient d’exclure les préfixes de noms et d’ajouter le signe «#» aux prénoms et aux noms de famille de moins de cinq caractères. Tous les caractères sont à inscrire en capitales. L’utilisation d’apostrophes, d’accents, de traits d’union, de signes de ponctuation ou d’espaces est interdite.\n\n6. Lorsque l’identifiant attribué conformément au paragraphe 2 correspond à la mention CONCAT, le prestataire de services sur crypto-actifs qui exploite la plate-forme de négociation de crypto-actifs identifie la personne physique par la concaténation des éléments suivants, dans l’ordre indiqué:\n\n| a) | la date de naissance de la personne au format AAAAMMJJ; |\n| --- | --- |\n\n| b) | les cinq premiers caractères de son prénom; |\n| --- | --- |\n\n| c) | les cinq premiers caractères de son nom de famille. |\n| --- | --- |",
+      "text_sha256": "c7406c589e2a7ffb501f9b2e5c316b9c10ce992dbadcc19bdbf1e2408db5cd74",
+      "md_span": {
+        "start": 4111,
+        "end": 7051
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs identifient chaque entité juridique dans leurs enregistrements de carnets d’ordres à l’aide de l’identifiant d’entité prévu par l’article 14 du règlement délégué de la Commission définissant des normes techniques adopté en application de l’article 68, paragraphe 10, premier alinéa, point b).\n\n2. Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs identifient les crypto-actifs dans leurs enregistrements de carnets d’ordres à l’aide des identifiants d’actifs prévus par l’article 15 du règlement délégué de la Commission définissant des normes techniques adopté en application de l’article 68, paragraphe 10, premier alinéa, point b).\n\n3. Lorsqu’il utilise l’identifiant d’entité juridique LEI pour identifier des entités juridiques, conformément au paragraphe 1, le prestataire de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs veille à ce que la longueur et la composition du code LEI repris dans ses enregistrements de carnets d’ordres soient conformes à la norme ISO 17442 et à ce que ce code LEI figure dans la base de données internationale des codes LEI gérée par le Comité de surveillance réglementaire des identifiants d’entités juridiques, et corresponde bien à l’entité concernée.",
+      "text_sha256": "2705a4268d19ea502d3a150bc772bf1f06dbe03b7567fb5b7e9a55bd78b4cc34",
+      "md_span": {
+        "start": 7084,
+        "end": 8490
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLa qualité en laquelle le participant de la plate-forme de négociation de crypto-actifs soumet un ordre est enregistrée comme indiqué dans le champ 7 du tableau 2 de l’annexe.",
+      "text_sha256": "cb9db699e6a552c19e4d9ac88133181d1b11a61f82d6bcaa6e7163666d1f93e4",
+      "md_span": {
+        "start": 8523,
+        "end": 8709
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent la date et l’heure de la survenance de chaque événement mentionné dans le champ 20 du tableau 2 de l’annexe, comme indiqué dans le champ 8 du tableau 2 de l’annexe.\n\n2. Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent la date et l’heure de chaque élément d’information mentionné dans les champs 47, 48 et 49 du tableau 2 de l’annexe, comme indiqué dans le champ 8 du tableau 2 de l’annexe.",
+      "text_sha256": "e349327653057986db657bcd42b7d0a9f38b3144b5fa36e6e7f65bb2704228b7",
+      "md_span": {
+        "start": 8742,
+        "end": 9334
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent les durées de validité des ordres, et les restrictions attachées à ceux-ci, qui sont visées dans les champs 9 et 10 du tableau 2 de l’annexe.\n\n2. Pour chaque période de validité, les dates et heures délimitant la période sont enregistrées comme indiqué dans le champ 11 du tableau 2 de l’annexe.",
+      "text_sha256": "9754436071fbdce13c4213072cb01b65a0b4a792b38527aea3a04c874514ec5a",
+      "md_span": {
+        "start": 9367,
+        "end": 9795
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs qui utilisent des systèmes de négociation basés sur la priorité prix-visibilité-temps enregistrent l’horodatage de la priorité pour tous les ordres, comme indiqué dans le champ 12 du tableau 2 de l’annexe.\n\n2. Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs qui utilisent des systèmes de négociation basés sur la priorité taille-temps enregistrent les quantités qui déterminent la priorité accordée aux ordres, comme indiqué dans le champ 13 du tableau 2 de l’annexe, ainsi que l’horodatage de la priorité visé au paragraphe 1.\n\n3. Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs qui utilisent une combinaison associant la priorité prix-visibilité-temps et la priorité taille-temps, et qui affichent les ordres dans leur carnet d’ordres selon la priorité temps, enregistrent l’horodatage de la priorité pour tous les ordres, comme indiqué dans le champ 12 du tableau 2 de l’annexe.\n\n4. Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs qui utilisent une combinaison associant la priorité prix-visibilité-temps et la priorité taille-temps, et qui affichent les ordres dans leur carnet d’ordres selon la priorité taille-temps, enregistrent les quantités qui déterminent la priorité accordée aux ordres, comme indiqué dans le champ 13 du tableau 2 de l’annexe, ainsi que l’horodatage de la priorité visé au paragraphe 1.\n\n5. Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs attribuent à chaque événement un numéro de séquence, comme indiqué dans le champ 14 du tableau 2 de l’annexe, qu’ils enregistrent.",
+      "text_sha256": "254c835c85fe5fb2c3d0c718f3503a4de2a7878a37d47b31b5956bd7f5107d1c",
+      "md_span": {
+        "start": 9828,
+        "end": 11678
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs attribuent à chaque ordre un code d’identification individuel, comme indiqué dans le champ 19 du tableau 2 de l’annexe, qu’ils enregistrent. Ce code d’identification est propre à:\n\n| a) | un carnet d’ordres; |\n| --- | --- |\n\n| b) | une séance; et |\n| --- | --- |\n\n| c) | un crypto-actif. |\n| --- | --- |\n\nCe code est valable depuis la réception de l’ordre par l’exploitant de la plate-forme de négociation de crypto-actifs jusqu’à sa suppression du carnet d’ordres. Il s’applique aux ordres rejetés, quel que soit le motif du rejet.\n\n2. L’exploitant de la plate-forme de négociation de crypto-actifs enregistre les informations pertinentes, visées dans le champ 31 du tableau 2 de l’annexe, relatives aux ordres de stratégie avec fonctionnalité implicite (strategy orders with implied functionality, ou «SOIF») qui sont diffusés auprès du public. Le statut de l’ordre mentionné dans ce champ indique s’il s’agit d’un ordre implicite.\n\n3. Lors de l’exécution d’un ordre de stratégie avec fonctionnalité implicite, les informations le concernant sont enregistrées par l’exploitant de la plate-forme de négociation de crypto-actifs comme indiqué dans les champs pertinents du tableau 2 de l’annexe.\n\n4. Lors de l’exécution d’un ordre de stratégie avec fonctionnalité implicite, un code d’identification des ordres liés à la stratégie est indiqué, le même code étant attribué à tous les ordres liés à la stratégie en question. Le code d’identification des ordres liés à une stratégie prend la forme précisée dans le champ 44 du tableau 2 de l’annexe.\n\n5. Les ordres permettant une stratégie de routage qui sont soumis à une plate-forme de négociation de crypto-actifs sont identifiés par cette plate-forme comme étant des «ordres acheminés», comme indiqué dans le champ 31 du tableau 2 de l’annexe, lorsqu’ils sont redirigés vers une autre plate-forme. Les ordres permettant une stratégie de routage qui sont soumis à une plate-forme de négociation de crypto-actifs conservent le même code d’identification pendant toute leur durée de vie, que leur solde éventuel soit ou non réinscrit dans le carnet d’ordres.",
+      "text_sha256": "f76c7cc43252bc1c73b9d474a9a83babb620d58c166c5bf7e3ed2678d5ca67f4",
+      "md_span": {
+        "start": 11711,
+        "end": 13937
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nLes prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent les informations visées dans le champ 20 du tableau 2 de l’annexe en ce qui concerne tous les nouveaux ordres.",
+      "text_sha256": "125709962669ef84806de3417a5ba623bdee150a8ab0b29e740fc849c4d258af",
+      "md_span": {
+        "start": 13972,
+        "end": 14213
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent selon leurs propres spécifications le type d’ordres auquel appartient chaque ordre qu’ils reçoivent, comme indiqué dans le champ 21 du tableau 2 de l’annexe.\n\n2. Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs classent chaque ordre reçu soit en tant qu’ordre à cours limité, soit en tant qu’ordre stop, comme indiqué dans le champ 22 du tableau 2 de l’annexe.",
+      "text_sha256": "805a2d4b94fafd7e0839dcfdc1a7d73aee0593f6084f141c6457d70055d609c3",
+      "md_span": {
+        "start": 14248,
+        "end": 14799
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nLes prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent toutes les informations sur les cours qui concernent chaque ordre, comme indiqué dans la section I du tableau 2 de l’annexe.",
+      "text_sha256": "f723d173f7df1ba7bc0473289673b9b3ba6a52e834e477254cdb8c1ae05639c9",
+      "md_span": {
+        "start": 14834,
+        "end": 15089
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nLes prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent toutes les instructions reçues pour chaque ordre comme indiqué dans la section J du tableau 2 de l’annexe.",
+      "text_sha256": "a5fdef215481dd106dbb31c2756005ff5a854bf6fba08085d3e299e06300eb1f",
+      "md_span": {
+        "start": 15124,
+        "end": 15361
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nLes prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs attribuent à chaque transaction résultant de l’exécution totale ou partielle d’un ordre un code d’identification de transaction individuel, comme indiqué dans le champ 46 du tableau 2 et, selon le cas, dans le champ 1 du tableau 3 de l’annexe, et l’enregistrent.",
+      "text_sha256": "1ed8160f3d6d516a30b8abd30af9ac4ea33a24dc9582fb99fc0a0a2d269f1e7b",
+      "md_span": {
+        "start": 15396,
+        "end": 15776
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Les prestataires de services sur crypto-actifs exploitant une plate-forme de négociation de crypto-actifs enregistrent les phases de négociation, ainsi que les cours et volumes de fixing indicatifs, comme indiqué dans la section K du tableau 2 de l’annexe.\n\n2. Lorsque les autorités compétentes demandent des informations visées à la section K, il y a lieu de considérer que les informations visées dans les champs 8 et 14 à 17 du tableau 2 de l’annexe doivent figurer dans la réponse à cette demande.",
+      "text_sha256": "b8bbf259006efa74a820cda4c6de4aae72126f59f756e2d917f51efd28a4aef0",
+      "md_span": {
+        "start": 15811,
+        "end": 16327
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32025r0416:2024-11-29#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "0e109c8aa01017614981888320dd1fd9a00652f8252e9a6dd89464b3aa8835fa",
+      "md_span": {
+        "start": 16362,
+        "end": 16504
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

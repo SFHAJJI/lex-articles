@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32008l0020:2008-03-11",
+  "language": "en",
+  "title": "Directive 2008/20/EC",
+  "valid_from": "2008-03-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32008l0020/versions/2008-03-11/en.xml",
+    "sha256": "e1ba976be10168dfb7cc0704f4745f23808863bfdc3d094ba864ee5fd8ef564a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008L0020"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32008l0020:2008-03-11#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nDirective 2005/60/EC is hereby amended as follows:\n\n| 1. | Article 40(1) shall be amended as follows:(a)the words ‘, in accordance with the procedure referred to in Article 41(2),’ shall be deleted;(b)the following subparagraph shall be added:‘The measures referred to in the first subparagraph, designed to amend non-essential elements of this Directive, inter alia by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 41(2a).’; |\n| --- | --- |\n| (a) | the words ‘, in accordance with the procedure referred to in Article 41(2),’ shall be deleted; |\n| (b) | the following subparagraph shall be added:‘The measures referred to in the first subparagraph, designed to amend non-essential elements of this Directive, inter alia by supplementing it, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 41(2a).’; |\n\n| 2. | Article 40(3) shall be amended as follows:(a)the words ‘, in accordance with the procedure referred to in Article 41(2),’ shall be deleted;(b)the following subparagraph shall be added:‘The measures referred to in the first subparagraph, designed to amend non-essential elements of this Directive, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 41(2a).’; |\n| --- | --- |\n| (a) | the words ‘, in accordance with the procedure referred to in Article 41(2),’ shall be deleted; |\n| (b) | the following subparagraph shall be added:‘The measures referred to in the first subparagraph, designed to amend non-essential elements of this Directive, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 41(2a).’; |\n\n| 3. | Article 41 shall be amended as follows:(a)the following paragraph shall be inserted:‘2a. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.’;(b)paragraphs 3 and 4 shall be replaced by the following:‘3. By 31 December 2010, and thereafter at least every three years, the Commission shall review the provisions concerning its implementing powers and present a report to the European Parliament and to the Council on the functioning of those powers. The report shall examine, in particular, the need for the Commission to propose amendments to this Directive in order to ensure the appropriate scope of the implementing powers conferred on the Commission. The conclusion as to whether or not an amendment is necessary shall be accompanied by a detailed statement of reasons. If necessary, the report shall be accompanied by a legislative proposal to amend the provisions conferring implementing powers on the Commission’. |\n| --- | --- |\n| (a) | the following paragraph shall be inserted:‘2a. Where reference is made to this paragraph, Article 5a(1) to (4) and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.’; |\n| (b) | paragraphs 3 and 4 shall be replaced by the following:‘3. By 31 December 2010, and thereafter at least every three years, the Commission shall review the provisions concerning its implementing powers and present a report to the European Parliament and to the Council on the functioning of those powers. The report shall examine, in particular, the need for the Commission to propose amendments to this Directive in order to ensure the appropriate scope of the implementing powers conferred on the Commission. The conclusion as to whether or not an amendment is necessary shall be accompanied by a detailed statement of reasons. If necessary, the report shall be accompanied by a legislative proposal to amend the provisions conferring implementing powers on the Commission’. |",
+      "text_sha256": "6f1b58c43d1f9811ff3698151030fc868045b2fb9937b78a5fdf1a1ca113b7a5",
+      "md_span": {
+        "start": 565,
+        "end": 4378
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32008l0020:2008-03-11#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Directive shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "27b81f6a0af5bafa2acbc2a8fef0b7fb39767696739334a87bdec92944ac857f",
+      "md_span": {
+        "start": 4411,
+        "end": 4551
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32008l0020:2008-03-11#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "a648e391cf45d83a390256e7887418fe953be787a39b45794ff48844dbb61ca6",
+      "md_span": {
+        "start": 4584,
+        "end": 4644
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

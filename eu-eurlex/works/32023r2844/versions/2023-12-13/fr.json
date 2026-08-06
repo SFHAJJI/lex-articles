@@ -1,0 +1,610 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r2844:2023-12-13",
+  "language": "fr",
+  "title": "Regulation (EU) 2023/2844",
+  "valid_from": "2023-12-13",
+  "valid_to": "2023-12-26",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r2844/versions/2023-12-13/fr.xml",
+    "sha256": "b19033f40b1af9e11ad6061700173f44698703e4a26a22f441cf4e159cbe27a4",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R2844"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Le présent règlement établit un cadre juridique uniforme pour le recours à la communication électronique entre les autorités compétentes dans le cadre des procédures de coopération judiciaire en matière civile, commerciale et pénale, ainsi que pour le recours à la communication électronique entre les personnes physiques ou morales et les autorités compétentes dans le cadre des procédures judiciaires en matière civile et commerciale.\n\nEn outre, il établit des règles concernant:\n\n| a) | l’utilisation de la visioconférence ou d’autres technologies de communication à distance à des fins autres que l’obtention de preuves en vertu du règlement (UE) 2020/1783; |\n| --- | --- |\n\n| b) | l’application de signatures électroniques ou de cachets électroniques; |\n| --- | --- |\n\n| c) | les effets juridiques des documents électroniques; |\n| --- | --- |\n\n| d) | le paiement électronique des frais. |\n| --- | --- |\n\n2. Le présent règlement s’applique aux communications électroniques dans le cadre des procédures de coopération judiciaire en matière civile, commerciale et pénale, comme le prévoient les articles 3 et 4, ainsi qu’aux audiences ou aux auditions par visioconférence ou par une autre technologie de communication à distance en matière civile, commerciale et pénale, comme le prévoient les articles 5 et 6.",
+      "text_sha256": "300ea96f26f1ec724b6201126e5298ce575138400710336d01a3b8e25e6169a4",
+      "md_span": {
+        "start": 576,
+        "end": 1908
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins du présent règlement, on entend par:\n\n| 1) | «autorité compétente»: une juridiction, un parquet, une autorité centrale et d’autres autorités compétentes au sens des actes juridiques énumérés aux annexes I et II, ou désignées ou faisant l’objet d’une notification conformément à ces actes, ainsi que les organes et agences de l’Union participant aux procédures de coopération judiciaire conformément aux actes juridiques énumérés à l’annexe II; aux fins de l’article 5, on entend également par «autorité compétente» toute juridiction ou autre autorité compétente en vertu du droit de l’Union ou du droit national pour mener des audiences ou des auditions par visioconférence ou par une autre technologie de communication à distance en matière civile et commerciale; aux fins de l’article 6, on entend également par «autorité compétente» toute juridiction ou autre autorité participant aux procédures prévues dans les actes juridiques énumérés à l’annexe II; |\n| --- | --- |\n\n| 2) | «communication électronique»: l’échange numérique d’informations par l’intermédiaire de l’internet ou d’un autre réseau de communication électronique; |\n| --- | --- |\n\n| 3) | «système informatique décentralisé»: un réseau de systèmes informatiques et de points d’accès interopérables, dont le fonctionnement relève de la responsabilité et de la gestion individuelles de chaque État membre, organe ou agence de l’Union et qui permet un échange d’informations transfrontière sécurisé et fiable; |\n| --- | --- |\n\n| 4) | «point d’accès électronique européen»: un portail accessible aux personnes physiques et morales ou à leurs représentants, dans l’ensemble de l’Union, et connecté à un point d’accès interopérable dans le contexte du système informatique décentralisé; |\n| --- | --- |\n\n| 5) | «frais»: les paiements perçus par les autorités compétentes dans le contexte des procédures engagées en vertu des actes juridiques énumérés à l’annexe I; |\n| --- | --- |\n\n| 6) | «visioconférence»: une technologie de transmission audiovisuelle qui permet la communication bidirectionnelle et simultanée de l’image et du son, permettant ainsi une interaction visuelle, audio et orale. |\n| --- | --- |",
+      "text_sha256": "64df71debb586775d6a98acf47f90305d63d7ff5e003ddb1291946c63eda9fad",
+      "md_span": {
+        "start": 1941,
+        "end": 4131
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les communications en vertu des actes juridiques énumérés à l’annexe I, entre autorités compétentes de différents États membres et, en vertu des actes juridiques énumérés l’annexe II, entre autorités compétentes de différents États membres et entre une autorité nationale compétente et un organe ou une agence de l’Union, y compris l’échange de formulaires établis par ces actes, s’effectuent au moyen d’un système informatique décentralisé sûr, efficace et fiable.\n\n2. Il peut toutefois être procédé aux communications en recourant à d’autres moyens lorsque la communication électronique conformément au paragraphe 1 s’avère impossible en raison:\n\n| a) | d’une perturbation du système informatique décentralisé; |\n| --- | --- |\n\n| b) | de la nature physique ou technique des pièces transmises; ou |\n| --- | --- |\n\n| c) | d’un cas de force majeure. |\n| --- | --- |\n\nAux fins du premier alinéa, les autorités compétentes veillent à ce que les autres moyens de communication utilisés soient les plus rapides et les plus appropriés et à ce qu’ils permettent d’assurer la fiabilité et la sécurité de l’échange d’informations.\n\n3. Outre les exceptions visées au paragraphe 2, lorsque l’utilisation du système informatique décentralisé n’est pas appropriée dans une situation donnée, tout autre moyen de communication peut être utilisé. Les autorités compétentes veillent à ce que l’échange d’informations au titre du présent paragraphe se fasse de manière sûre et fiable.\n\n4. Le paragraphe 3 ne s’applique pas à l’échange de formulaires prévus par les actes juridiques énumérés aux annexes I et II.\n\nDans les cas où les autorités compétentes de différents États membres se trouvent au même endroit dans un État membre aux fins de l’assistance dans l’exécution des procédures de coopération judiciaire au titre des actes juridiques énumérés à l’annexe II, elles peuvent procéder à l’échange de formulaires par d’autres moyens appropriés, si cela est nécessaire en raison de l’urgence de la question. Les autorités compétentes veillent à ce que l’échange de formulaires visé au présent alinéa se fasse de manière sûre et fiable.\n\n5. Le présent article est sans préjudice des dispositions procédurales applicables du droit de l’Union et du droit national en matière d’admissibilité des documents, à l’exception des exigences relatives aux moyens de communication.\n\n6. Chaque État membre peut décider d’utiliser le système informatique décentralisé pour la communication entre ses autorités nationales dans les affaires relevant du champ d’application des actes juridiques énumérés à l’annexe I ou II.\n\n7. Les organes ou agences de l’Union peuvent décider d’utiliser le système informatique décentralisé pour les communications au sein de l’organe ou de l’agence dans les affaires relevant du champ d’application des actes juridiques énumérés à l’annexe II.",
+      "text_sha256": "01e2b151cedc2ec8d9f55cfb59dc869d0bfa494e896c95f9781332cbc3a11749",
+      "md_span": {
+        "start": 4164,
+        "end": 7026
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Un point d’accès électronique européen est établi sur le portail européen e-Justice.\n\n2. Ce point d’accès électronique européen peut être utilisé pour les communications électroniques entre des personnes physiques ou morales ou leurs représentants et les autorités compétentes dans les cas suivants:\n\n| a) | procédures prévues par les règlements (CE) no 1896/2006, (CE) no 861/2007 et (UE) no 655/2014; |\n| --- | --- |\n\n| b) | procédures prévues par le règlement (CE) no 805/2004; |\n| --- | --- |\n\n| c) | procédures relatives à la reconnaissance, à une déclaration constatant la force exécutoire ou au refus de reconnaissance prévues par les règlements (UE) no 650/2012, (UE) no 1215/2012 et (UE) no 606/2013 du Parlement européen et du Conseil (39), et les règlements (CE) no 4/2009, (UE) 2016/1103 (40), (UE) 2016/1104 (41) et (UE) 2019/1111 du Conseil; |\n| --- | --- |\n\n| d) | procédures relatives à la délivrance, à la rectification et à l’annulation ou au retrait:i)des extraits prévus par le règlement (CE) no 4/2009,ii)du certificat successoral européen et des attestations prévus par le règlement (UE) no 650/2012,iii)des certificats prévus par le règlement (UE) no 1215/2012,iv)des certificats prévus par le règlement (UE) no 606/2013,v)des attestations prévues par le règlement (UE) 2016/1103,vi)des attestations prévues par le règlement (UE) 2016/1104,vii)des certificats prévus par le règlement (UE) 2019/1111; |\n| --- | --- |\n| i) | des extraits prévus par le règlement (CE) no 4/2009, |\n| ii) | du certificat successoral européen et des attestations prévus par le règlement (UE) no 650/2012, |\n| iii) | des certificats prévus par le règlement (UE) no 1215/2012, |\n| iv) | des certificats prévus par le règlement (UE) no 606/2013, |\n| v) | des attestations prévues par le règlement (UE) 2016/1103, |\n| vi) | des attestations prévues par le règlement (UE) 2016/1104, |\n| vii) | des certificats prévus par le règlement (UE) 2019/1111; |\n\n| e) | production d’une créance par un créancier étranger dans le cadre d’une procédure d’insolvabilité en vertu de l’article 53 du règlement (UE) 2015/848; |\n| --- | --- |\n\n| f) | communications entre des personnes physiques ou morales ou leurs représentants et les autorités centrales au titre des règlements (CE) no 4/2009 et (UE) 2019/1111 ou les autorités compétentes au titre du chapitre IV de la directive 2003/8/CE. |\n| --- | --- |\n\n3. La Commission est responsable de la gestion technique, du développement, de l’accessibilité, de la maintenance et de la sécurité du point d’accès électronique européen ainsi que de l’assistance technique aux utilisateurs. La Commission fournit gratuitement une assistance technique aux utilisateurs.\n\n4. Le point d’accès électronique européen contient des informations destinées aux personnes physiques et morales concernant leur droit à une aide juridictionnelle, y compris dans les procédures transfrontières. Il permet également à leurs représentants légaux d’agir en leur nom. Le point d’accès électronique européen permet aux personnes physiques et morales ou à leurs représentants, dans les cas visés au paragraphe 2, de déposer des réclamations, d’introduire des demandes, d’envoyer et de recevoir des informations utiles à une procédure et de communiquer avec les autorités compétentes ou de se voir signifier ou notifier des actes judiciaires ou extrajudiciaires.\n\nLa communication par l’intermédiaire du point d’accès électronique européen respecte les exigences du droit de l’Union et du droit national de l’État membre concerné, notamment en ce qui concerne la forme, la langue et la représentation.\n\n5. Les autorités compétentes acceptent les communications par l’intermédiaire du point d’accès électronique européen dans les cas visés au paragraphe 2.\n\n6. À condition que la personne physique ou morale ou son représentant ait préalablement donné son consentement exprès à l’utilisation du point d’accès électronique européen en tant que moyen de communication ou mode de signification ou de notification, les autorités compétentes communiquent avec ladite personne physique ou morale ou son représentant dans les cas visés au paragraphe 2 au moyen dudit point d’accès et peuvent lui signifier ou notifier des documents. Chaque consentement est propre à la procédure dans le cadre de laquelle il est donné, et est donnée séparément aux fins de la communication et aux fins de de la signification ou de la notification des actes. Lorsqu’une personne physique ou morale entend utiliser le point d’accès électronique européen de sa propre initiative à des fins de communication dans le cadre d’une procédure, elle peut exprimer son consentement lors de cette communication initiale.\n\n7. Le point d’accès électronique européen est conçu de façon à garantir l’identification des utilisateurs.",
+      "text_sha256": "d12f6bee3a912be84638297247f1be40305a7675272cd696fca457e8e54901f0",
+      "md_span": {
+        "start": 7059,
+        "end": 11867
+      },
+      "citations": [
+        {
+          "href": "#ntr39-L_202302844FR.000101-E0039",
+          "text": "(39)"
+        },
+        {
+          "href": "#ntr40-L_202302844FR.000101-E0040",
+          "text": "(40)"
+        },
+        {
+          "href": "#ntr41-L_202302844FR.000101-E0041",
+          "text": "(41)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Sans préjudice des dispositions spécifiques régissant l’utilisation de la visioconférence ou d’autres technologies de communication à distance dans les procédures relevant des règlements (CE) no 861/2007, (UE) no 655/2014 et (UE) 2020/1783, et à la demande d’une partie ou de son représentant ou, lorsque cela est prévu par le droit national, de sa propre initiative, dans les procédures en matière civile et commerciale lorsque l’une des parties ou son représentant est présente dans un autre État membre, l’autorité compétente décide de la participation des parties et de leurs représentants à une audience ou à une audition par visioconférence ou par une autre technologie de communication à distance sur la base:\n\n| a) | de la disponibilité d’une telle technologie; |\n| --- | --- |\n\n| b) | de l’avis des parties à la procédure quant à l’utilisation d’une telle technologie; et |\n| --- | --- |\n\n| c) | du caractère approprié de l’utilisation de cette technologie dans les circonstances particulières de l’espèce. |\n| --- | --- |\n\n2. L’autorité compétente qui mène l’audience ou l’audition veille à ce que les parties et leurs représentants, y compris les personnes handicapées, aient accès à la visioconférence pour l’audience ou l’audition.\n\n3. Lorsque l’enregistrement des audiences ou des auditions est prévu par le droit national de l’État membre dans lequel se déroule la procédure, les mêmes règles s’appliquent aux audiences ou aux auditions conduites par visioconférence ou par une autre technologie de communication à distance. Les États membres dans lesquels la procédure a lieu prennent les mesures appropriées conformément au droit national pour s’assurer que ces enregistrements soient effectués et conservés de manière sécurisée et ne soient pas rendus publics.\n\n4. Sans préjudice des paragraphes 1, 2 et 3, la procédure relative aux audiences ou aux auditions par visioconférence ou par une autre technologie de communication à distance est réglementée par le droit national de l’État membre qui conduit l’audience ou l’audition.",
+      "text_sha256": "ea97b92cfbef2257655cda675ce7e03f8992fcf396ea391858dfef81c8bae0bd",
+      "md_span": {
+        "start": 11900,
+        "end": 13961
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Le présent article s’applique aux procédures au titre des actes juridiques suivants:\n\n| a) | la décision-cadre 2002/584/JAI du Conseil (42), et notamment son article 18, paragraphe 1, point a); |\n| --- | --- |\n\n| b) | la décision-cadre 2008/909/JAI, et notamment son article 6, paragraphe 3; |\n| --- | --- |\n\n| c) | la décision-cadre 2008/947/JAI, et notamment son article 17, paragraphe 4; |\n| --- | --- |\n\n| d) | la décision-cadre 2009/829/JAI, et notamment son article 19, paragraphe 4; |\n| --- | --- |\n\n| e) | la directive 2011/99/UE du Parlement européen et du Conseil (43), et notamment son article 6, paragraphe 4; |\n| --- | --- |\n\n| f) | le règlement (UE) 2018/1805, et notamment son article 33, paragraphe 1. |\n| --- | --- |\n\n2. Lorsque l’autorité compétente d’un État membre demande (ci-après dénommé «autorité requérante») que soit entendu un suspect, une personne poursuivie ou condamnée ou une personne concernée, au sens de l’article 2, point 10), du règlement (UE) 2018/1805, autre qu’un suspect ou une personne poursuivie ou condamnée, se trouvant dans un autre État membre dans le cadre d’une procédure au titre des actes juridiques énumérés au paragraphe 1 du présent article, l’autorité compétente de cet autre État membre (ci-après dénommée «autorité requise») autorise la participation de cette personne à l’audience ou à l’audition par visioconférence ou par une autre technologie de communication à distance, à condition que:\n\n| a) | les circonstances particulières de l’affaire justifient le recours à une telle technologie; et |\n| --- | --- |\n\n| b) | le suspect, la personne poursuivie ou condamnée ou la personne concernée a donné son consentement à l’utilisation de la visioconférence ou d’une autre technologie de communication à distance pour cette audience ou cette audition conformément aux exigences visées aux deuxième, troisième et quatrième alinéas du présent paragraphe. |\n| --- | --- |\n\nAvant de donner son consentement à l’utilisation de la visioconférence ou d’une autre technologie de communication à distance, le suspect ou la personne poursuivie a la possibilité de solliciter l’avis d’un avocat conformément à la directive 2013/48/UE. Les autorités compétentes fournissent à la personne qui doit être entendue des informations sur la procédure à suivre pour mener une audience ou une audition par visioconférence ou par une autre technologie de communication à distance, ainsi que sur ses droits procéduraux, y compris le droit à l’interprétation et le droit d’accès à un avocat avant que le consentement soit donné.\n\nLe consentement est donné volontairement et de manière non équivoque, et l’autorité compétente requérante vérifie ce consentement avant de commencer une telle audience ou audition. La vérification du consentement est consignée dans le procès-verbal de l’audience ou de l’audition conformément au droit national de l’État membre requérant.\n\nSans préjudice du principe de procès équitable et du droit à un recours juridictionnel en vertu du droit procédural national, l’autorité compétente peut décider de ne pas solliciter le consentement des personnes visées au premier alinéa, point b), du présent paragraphe lorsque la participation en personne à une audience ou une audition constitue, pour la sécurité publique ou la santé publique, une menace grave dont il est démontré qu’elle est réelle et présente ou prévisible.\n\n3. L’autorité compétente requise veille à ce que les personnes visées au paragraphe 2, y compris les personnes handicapées, aient accès à l’infrastructure nécessaire pour utiliser la visioconférence ou d’autres technologies de communication à distance.\n\n4. Le présent article est sans préjudice des autres actes juridiques de l’Union qui prévoient l’utilisation de la visioconférence ou d’autres technologies de communication à distance en matière pénale.\n\n5. La confidentialité des communications entre un suspect, une personne poursuivie ou condamnée ou une personne concernée et son avocat avant et pendant l’audience ou l’audition par visioconférence ou par une autre technologie de communication à distance est garantie conformément au droit national applicable.\n\n6. Avant qu’un enfant soit entendu par visioconférence ou par une autre technologie de communication à distance, les titulaires de la responsabilité parentale tels qu’ils sont définis à l’article 3, point 2), de la directive (UE) 2016/800 ou un autre adulte approprié visé à l’article 5, paragraphe 2, de ladite directive en sont informés rapidement. Lorsqu’elle décide s’il y a lieu d’entendre un enfant par visioconférence ou par une autre technologie de communication à distance, l’autorité compétente tient compte de l’intérêt supérieur de l’enfant.\n\n7. Lorsque l’enregistrement des audiences ou des auditions est prévu par le droit national d’un État membre pour les affaires nationales, les mêmes règles s’appliquent aux audiences ou aux auditions conduites par visioconférence ou par une autre technologie de communication à distance dans les affaires transfrontières. L’État membre requérant prend les mesures appropriées conformément au droit national pour s’assurer que ces enregistrements soient effectués et conservés de manière sécurisée et ne soient pas rendus publics.\n\n8. En cas de manquement aux exigences ou garanties prévues au présent article, un suspect, une personne poursuivie ou condamnée ou une personne concernée a la possibilité de former un recours effectif, conformément au droit national et dans le plein respect de la Charte.\n\n9. Sans préjudice des paragraphes 1 à 8, la procédure relative à la conduite d’une audience ou d’une audition par visioconférence ou par une autre technologie de communication à distance est réglementée par le droit national de l’État membre requérant. Les autorités compétentes requérantes et requises conviennent des modalités pratiques de l’audience ou de l’audition.",
+      "text_sha256": "a5848bb2fcf3f2dc468e18b6b077df3c5d065b76fb6d4a1e15ad2cfa7316a3b6",
+      "md_span": {
+        "start": 13994,
+        "end": 19888
+      },
+      "citations": [
+        {
+          "href": "#ntr42-L_202302844FR.000101-E0042",
+          "text": "(42)"
+        },
+        {
+          "href": "#ntr43-L_202302844FR.000101-E0043",
+          "text": "(43)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Le cadre juridique général régissant l’utilisation des services de confiance exposé dans le règlement (UE) no 910/2014 s’applique aux communications électroniques relevant du présent règlement.\n\n2. Lorsqu’un document transmis dans le cadre d’une communication électronique au titre de l’article 3 du présent règlement requiert un cachet ou une signature conformément aux actes juridiques énumérés aux annexes I et II du présent règlement, il porte un cachet électronique qualifié ou une signature électronique qualifiée au sens du règlement (UE) no 910/2014.\n\n3. Lorsqu’un document transmis dans le cadre d’une communication électronique relevant des cas visés à l’article 4, paragraphe 2, du présent règlement requiert la signature de la personne qui le transmet, cette personne satisfait à cette exigence au moyen:\n\n| a) | d’une identification électronique avec un niveau de garantie élevé comme le précise l’article 8, paragraphe 2, point c), du règlement (UE) no 910/2014; ou |\n| --- | --- |\n\n| b) | d’une signature électronique qualifiée au sens de l’article 3, point 12), du règlement (UE) no 910/2014. |\n| --- | --- |",
+      "text_sha256": "9ac137fed6dc7fdcc46be95e29bb203b7b176627574fda0ff846c9f8aa3c5a11",
+      "md_span": {
+        "start": 19921,
+        "end": 21059
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nLes documents transmis dans le cadre d’une communication électronique ne sont pas privés d’effet juridique et ne sont pas considérés comme irrecevables dans le cadre de procédures judiciaires transfrontières relevant des actes juridiques énumérés aux annexes I et II au seul motif qu’ils se présentent sous forme électronique.",
+      "text_sha256": "257ddc40c086d8c67669f894ce4fb181d62b0e23ea645c015e1b40f160e8e194",
+      "md_span": {
+        "start": 21092,
+        "end": 21429
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Les États membres prévoient la possibilité de payer les frais par voie électronique, y compris à partir d’États membres autres que celui dans lequel est située l’autorité compétente.\n\n2. Les moyens techniques pour le paiement électronique des frais sont conformes aux règles applicables en matière d’accessibilité. Lorsque les moyens disponibles de paiement électronique des frais le permettent, ils sont accessibles par l’intermédiaire du point d’accès électronique européen.",
+      "text_sha256": "51ecd9a1367d428e086d962e2a59ab57ead42aaf5112cb83760bb9cd45423f9e",
+      "md_span": {
+        "start": 21462,
+        "end": 21952
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. La Commission adopte des actes d’exécution relatifs au système informatique décentralisé visé à l’article 3, paragraphe 1, du présent règlement et au point d’accès électronique européen visé à l’article 4, paragraphe 1, du présent règlement qui établissent les éléments suivants:\n\n| a) | les spécifications techniques des méthodes de communication par voie électronique aux fins du système informatique décentralisé; |\n| --- | --- |\n\n| b) | les spécifications techniques des protocoles de communication; |\n| --- | --- |\n\n| c) | les objectifs en matière de sécurité de l’information et les mesures techniques pertinentes garantissant des normes minimales de sécurité de l’information et un niveau élevé de cybersécurité pour le traitement et la communication des informations au sein du système informatique décentralisé; |\n| --- | --- |\n\n| d) | les objectifs minimaux en matière de disponibilité et les éventuelles exigences techniques correspondantes pour les services fournis par le système informatique décentralisé; |\n| --- | --- |\n\n| e) | les normes de procédure numériques au sens de l’article 3, point 9), du règlement (UE) 2022/850; |\n| --- | --- |\n\n| f) | un calendrier de mise en œuvre fixant, entre autres, les dates de mise à disposition du logiciel de mise en œuvre de référence visé à l’article 12 du présent règlement, de son installation par les autorités compétentes et, le cas échéant, la date de l’achèvement des adaptations des systèmes informatiques nationaux nécessaires pour assurer le respect des exigences visées aux points a) à e) du présent paragraphe; et |\n| --- | --- |\n\n| g) | les spécifications techniques du point d’accès électronique européen, y compris les moyens utilisés pour l’identification électronique des utilisateurs au niveau de garantie élevé comme le précise l’article 8, paragraphe 2, point c), du règlement (UE) no 910/2014 et la durée de conservation des informations et des documents. |\n| --- | --- |\n\n2. Les actes d’exécution visés au paragraphe 1 sont adoptés conformément à la procédure d’examen visée à l’article 15, paragraphe 2.\n\n3. Les actes d’exécution visés au paragraphe 1 sont adoptés au plus tard:\n\n| a) | le 17 janvier 2026 pour les actes juridiques énumérés à l’annexe I, points 3 et 4, et à l’annexe II, point 1, 10 et 11; |\n| --- | --- |\n\n| b) | le 17 janvier 2027 pour les actes juridiques énumérés à l’annexe I, points 1, 8, 9 et 10, et à l’annexe II, points 5 et 9; |\n| --- | --- |\n\n| c) | le 17 janvier 2028 pour les actes juridiques énumérés à l’annexe I, points 6, 11 et 12, et à l’annexe II, points 2, 3, 4 et 8; et |\n| --- | --- |\n\n| d) | le 17 janvier 2029 pour les actes juridiques énumérés à l’annexe I, points 2, 5, 7 et 13, et à l’annexe II, point 6 et 7. |\n| --- | --- |",
+      "text_sha256": "7cdad832d2fa0eb496ef448ee9c590d6a8f54d0e57e9c43d4eb42588ba39800b",
+      "md_span": {
+        "start": 21987,
+        "end": 24751
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Les États membres veillent à ce que les professionnels de la justice concernés et les autorités compétentes se voient proposer la formation nécessaire à l’utilisation efficace du système informatique décentralisé et à l’utilisation appropriée de la visioconférence ou d’autres technologies de communication à distance. Sans préjudice de l’indépendance de la justice et des différences dans l’organisation du pouvoir judiciaire à travers l’Union, et dans le respect de l’indépendance des professions juridiques, les États membres encouragent la participation des juges, des procureurs et des autres professionnels de la justice à une telle formation.\n\n2. La Commission veille à ce que la formation des professionnels de la justice à l’utilisation efficace du système informatique décentralisé figure parmi les priorités de formation soutenues par les programmes financiers pertinents de l’Union.\n\n3. Les États membres encouragent les autorités à partager les bonnes pratiques en matière de visioconférence afin de réduire les coûts et d’accroître l’efficacité.\n\n4. La Commission informe les États membres de la possibilité de solliciter des subventions pour soutenir les activités visées aux paragraphes 1 et 3, au titre des programmes financiers pertinents de l’Union.",
+      "text_sha256": "c6fb8f3205dc2a2530bf9cd72a4f4758310a10b3c086393c50446703f57113f5",
+      "md_span": {
+        "start": 24786,
+        "end": 26069
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. La Commission est chargée de la création, de l’accessibilité, du développement et de la maintenance d’un logiciel de mise en œuvre de référence que les États membres peuvent choisir d’utiliser comme système dorsal en lieu et place d’un système informatique national. La création, le développement et la maintenance du logiciel de mise en œuvre de référence sont financés par le budget général de l’Union.\n\n2. La Commission assure la fourniture, la maintenance et le soutien du logiciel de mise en œuvre de référence à titre gratuit.\n\n3. Le logiciel de mise en œuvre de référence propose une interface commune pour la communication avec d’autres systèmes informatiques nationaux.",
+      "text_sha256": "8c54e5a2b5e8d01712b120f8e7a56c33fdc3a5f196dd6adc1d97bf3787287a1b",
+      "md_span": {
+        "start": 26104,
+        "end": 26797
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Chaque État membre ou entité exploitant un point d’accès e-CODEX autorisé au sens de l’article 3, paragraphe 4, du règlement (UE) 2022/850 supporte les coûts d’installation, d’exploitation et de maintenance des points d’accès du système informatique décentralisé dont ils sont responsables.\n\n2. Chaque État membre ou entité exploitant un point d’accès e-CODEX autorisé au sens de l’article 3, paragraphe 4, du règlement (UE) 2022/850 supporte les coûts de création et d’adaptation de ses systèmes informatiques pertinents nationaux, ou autres le cas échéant, pour permettre l’interopérabilité de ces systèmes avec les points d’accès, ainsi que les coûts d’administration, d’exploitation et de maintenance de ces systèmes.\n\n3. La Commission informe les États membres de la possibilité de solliciter des subventions pour soutenir les activités visées aux paragraphes 1 et 2, au titre des programmes financiers pertinents de l’Union.\n\n4. Les organes et agences de l’Union supportent les coûts d’installation, d’exploitation et de maintenance des composants du système informatique décentralisé relevant de leur responsabilité.\n\n5. Les organes et agences de l’Union supportent les coûts de création et d’adaptation de leurs systèmes de gestion des dossiers nécessaires pour permettre l’interopérabilité de ces systèmes avec les points d’accès, ainsi que les coûts d’administration, d’exploitation et de maintenance de ces systèmes.\n\n6. La Commission supporte tous les coûts liés au point d’accès électronique européen.",
+      "text_sha256": "e43af47c0c1903755c8cf4a8587f4a7184b06ea42c303eaaacea74c24161c8b9",
+      "md_span": {
+        "start": 26832,
+        "end": 28361
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. L’autorité compétente est considérée comme étant un responsable du traitement au sens des règlements (UE) 2016/679 et (UE) 2018/1725 ou de la directive (UE) 2016/680 en ce qui concerne le traitement des données à caractère personnel envoyées ou reçues par l’intermédiaire du système informatique décentralisé.\n\n2. La Commission est considérée comme étant un responsable du traitement au sens du règlement (UE) 2018/1725 en ce qui concerne le traitement des données à caractère personnel par le point d’accès électronique européen.\n\n3. Les autorités compétentes veillent à ce que les informations qui sont transmises à une autre autorité compétente dans le cadre d’une procédure judiciaire transfrontière et qui sont considérées comme confidentielles selon le droit de l’État membre à partir duquel les informations sont envoyées soient soumises aux règles de confidentialité prévues par le droit de l’Union et le droit national de l’État membre vers lequel les informations sont transmises.",
+      "text_sha256": "76841145d955d868ab4e4277ec2c2dd33037aef16ce34a58ec6ce8518c2c7ec1",
+      "md_span": {
+        "start": 28396,
+        "end": 29401
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. La Commission est assistée par un comité. Ledit comité est un comité au sens du règlement (UE) no 182/2011.\n\n2. Lorsqu’il est fait référence au présent paragraphe, l’article 5 du règlement (UE) no 182/2011 s’applique.",
+      "text_sha256": "3499f8a6bb97e20be2b7ea85ae1bc92695d5e5065875c950b68ca84943456e69",
+      "md_span": {
+        "start": 29436,
+        "end": 29668
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Quatre ans à compter de la date d’entrée en vigueur des actes d’exécution visés à l’article 10, paragraphe 3, point d), et tous les cinq ans par la suite, la Commission procède à une évaluation du présent règlement et soumet au Parlement européen et au Conseil un rapport étayé par des informations qui sont fournies par les États membres à la Commission et par des informations collectées par cette dernière. La Commission inclut également une évaluation de l’effet des communications électroniques sur l’égalité des armes dans le cadre des procédures civiles et pénales transfrontières. La Commission évalue en particulier l’application de l’article 5. Sur la base de cette évaluation, la Commission présente, s’il y a lieu, une proposition législative obligeant les États membres à mettre à disposition la visioconférence ou une autre technologie de communication à distance, précisant la technologie en question et les normes d’interopérabilité et instaurant une coopération judiciaire visant à fournir aux parties à la procédure l’accès à l’infrastructure nécessaire à l’utilisation de la visioconférence ou d’une autre technologie de communication à distance dans les locaux des autorités compétentes de l’État membre dans lequel la partie est présente.\n\n2. À moins qu’une procédure de notification équivalente ne s’applique en vertu d’autres actes juridiques de l’Union, les États membres fournissent chaque année à la Commission les informations pertinentes suivantes pour l’évaluation du fonctionnement et de l’application du présent règlement:\n\n| a) | trois ans à compter de la date d’entrée en vigueur de chacun des actes d’exécution visés à l’article 10, paragraphe 3, les coûts intervenus pour la création ou l’adaptation de leurs systèmes informatiques nationaux pertinents afin de permettre l’interopérabilité de ces systèmes avec les points d’accès; |\n| --- | --- |\n\n| b) | trois ans à compter de l’entrée en vigueur de chacun des actes d’exécution visés à l’article 10, paragraphe 3, point b), la durée des procédures judiciaires de première instance, depuis la réception de la demande par l’autorité compétente jusqu’à la date de la décision, en vertu des actes juridiques énumérés à l’annexe I, points 3, 4 et 9, lorsque ces informations sont disponibles; |\n| --- | --- |\n\n| c) | trois ans à compter de la date d’entrée en vigueur de chacun des actes d’exécution visés à l’article 10, paragraphe 3, les délais nécessaires pour transmettre des informations sur la décision concernant la reconnaissance et l’exécution d’un jugement ou d’une décision judiciaire ou, à défaut, pour transmettre les informations sur les résultats de l’exécution d’un tel jugement ou d’une telle décision judiciaire, en vertu des actes juridiques énumérés aux points 1 à 7 et 9 à 11 de l’annexe II, regroupés par acte juridique correspondant, le cas échéant; |\n| --- | --- |\n\n| d) | trois ans à compter de la date d’entrée en vigueur de chacun des actes d’exécution visés à l’article 10, paragraphe 3, le nombre de demandes transmises par l’intermédiaire du système informatique décentralisé conformément à l’article 3, paragraphes 1, et 2, lorsque cette information est disponible. |\n| --- | --- |\n\n3. Aux fins de l’établissement d’un échantillon, chaque État membre désigne une ou plusieurs autorités compétentes chargées de collecter les données relatives au nombre d’audiences ou auditions menées par ces autorités, lors desquelles la visioconférence ou une autre technologie de communication à distance a été utilisée conformément aux articles 5 et 6. Ces données sont communiquées à la Commission à compter du 2 mai 2026.\n\n4. Le logiciel de mise en œuvre de référence et, s’il est équipé pour ce faire, le système dorsal national sont programmés pour collecter les données visées au paragraphe 2, points b), c) et d), et ils transmettent ces données à la Commission chaque année.\n\n5. Les États membres mettent tout en œuvre pour collecter les données visées au paragraphe 2, points b), c) et d).",
+      "text_sha256": "8b7c95e2f5757b123398d98cdb88dccebae87ffb41645f4102ec401f013a4a1b",
+      "md_span": {
+        "start": 29703,
+        "end": 33715
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. Les États membres communiquent les informations suivantes à la Commission, au plus tard le 17 juillet 2024, en vue de leur mise à disposition sur portail européen e-Justice:\n\n| a) | des renseignements sur les portails informatiques nationaux, le cas échéant; |\n| --- | --- |\n\n| b) | une description des législations et procédures nationales applicables à la visioconférence conformément aux articles 5 et 6; |\n| --- | --- |\n\n| c) | des informations sur les frais dus; |\n| --- | --- |\n\n| d) | des renseignements sur les modes de paiement électronique disponibles pour le paiement des frais dus dans les affaires transfrontières; |\n| --- | --- |\n\n| e) | les autorités compétentes en vertu des actes juridiques énumérés aux annexes I et II, lorsqu’elles n’ont pas déjà été notifiées à la Commission conformément à ces actes juridiques. |\n| --- | --- |\n\nLes États membres communiquent sans tarder à la Commission toute modification relative aux informations visées au premier alinéa.\n\n2. S’ils sont en mesure d’appliquer l’article 5 ou l’article 6 ou d’exploiter le système informatique décentralisé avant l’échéance fixée par le présent règlement, les États membres adressent une notification à la Commission. La Commission met ces informations à disposition par voie électronique, en particulier sur le portail européen e-Justice.",
+      "text_sha256": "8321107f9db5488cf32aa29d5316bcbd56425f6d6566f229f61ae9cb8e2b0992",
+      "md_span": {
+        "start": 33750,
+        "end": 35093
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\nÀ l’article 13, paragraphe 1, du règlement (CE) no 805/2004, le point suivant est ajouté:\n\n| «e) | signification ou notification par les moyens électroniques prévus aux articles 19 et 19 bis du règlement (UE) 2020/1784 du Parlement européen et du Conseil(*1). |\n| --- | --- |",
+      "text_sha256": "669b875314d1aef7772cc4793a7c5c6f3339826b2e25bd3e5f4806c447827346",
+      "md_span": {
+        "start": 35128,
+        "end": 35415
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_202302844FR.000101-E0044",
+          "text": "(*1)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\nLe règlement (CE) no 1896/2006 est modifié comme suit:\n\n| 1) | À l’article 7, le paragraphe 5 est remplacé par le texte suivant:«5. La demande est introduite au moyen de la communication électronique prévue à l’article 4 du règlement (UE) 2023/2844 du Parlement européen et du Conseil(*2), sur support papier ou par tout autre moyen de communication accepté par l’État membre d’origine et utilisable par la juridiction d’origine, y compris par voie électronique.(*2) Règlement (UE) 2023/2844 du Parlement européen et du Conseil du 13 décembre 2023 relatif à la numérisation de la coopération judiciaire et de l’accès à la justice dans les affaires transfrontières en matière civile, commerciale et pénale, et modifiant certains actes dans le domaine de la coopération judiciaire (JO L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2844/oj).».\" |\n| --- | --- |\n\n| 2) | À l’article 7, paragraphe 6, le premier alinéa est remplacé par le texte suivant: «La demande est signée par le demandeur ou, le cas échéant, par le représentant du demandeur. Lorsque la demande est introduite par voie électronique conformément au paragraphe 5 du présent article, l’obligation de signer la demande est remplie conformément à l’article 7, paragraphe 3, du règlement (UE) 2023/2844. La signature électronique est reconnue dans l’État membre d’origine sans qu’il soit possible de la soumettre à des conditions supplémentaires.». |\n| --- | --- |\n\n| 3) | À l’article 13, le paragraphe suivant est ajouté: «L’injonction de payer européenne peut être signifiée ou notifiée au défendeur par les moyens électroniques de signification ou de notification prévus aux articles 19 et 19 bis du règlement (UE) 2020/1784 du Parlement européen et du Conseil(*3).(*3) Règlement (UE) 2020/1784 du Parlement européen et du Conseil du 25 novembre 2020 relatif à la signification et à la notification dans les États membres des actes judiciaires et extrajudiciaires en matière civile ou commerciale (signification ou notification des actes) (JO L 405 du 2.12.2020, p. 40).».\" |\n| --- | --- |\n\n| 4) | L’article 16 est modifié comme suit:a)le paragraphe 4 est remplacé par le texte suivant:«4. L’opposition est introduite par le moyen de communication électronique prévu à l’article 4 du règlement (UE) 2023/2844, sur support papier ou par tout autre moyen de communication accepté par l’État membre d’origine et utilisable par la juridiction d’origine, y compris par voie électronique.»;b)le paragraphe 5, premier alinéa, est remplacé par le texte suivant: «L’opposition est signée par le défendeur ou, le cas échéant, par son représentant. Lorsque l’opposition est introduite par voie électronique conformément au paragraphe 4 du présent article, l’obligation de signer la déclaration d’opposition est remplie conformément à l’article 7, paragraphe 3, du règlement (UE) 2023/2844. La signature électronique est reconnue dans l’État membre d’origine sans qu’il soit possible de la soumettre à des conditions supplémentaires.». |\n| --- | --- |\n| a) | le paragraphe 4 est remplacé par le texte suivant:«4. L’opposition est introduite par le moyen de communication électronique prévu à l’article 4 du règlement (UE) 2023/2844, sur support papier ou par tout autre moyen de communication accepté par l’État membre d’origine et utilisable par la juridiction d’origine, y compris par voie électronique.»; |\n| b) | le paragraphe 5, premier alinéa, est remplacé par le texte suivant: «L’opposition est signée par le défendeur ou, le cas échéant, par son représentant. Lorsque l’opposition est introduite par voie électronique conformément au paragraphe 4 du présent article, l’obligation de signer la déclaration d’opposition est remplie conformément à l’article 7, paragraphe 3, du règlement (UE) 2023/2844. La signature électronique est reconnue dans l’État membre d’origine sans qu’il soit possible de la soumettre à des conditions supplémentaires.». |",
+      "text_sha256": "569b53fae52a56da5ed3ef1d1504e70876a6f51e89d4fdbbdfe4b0d5fb04ec59",
+      "md_span": {
+        "start": 35450,
+        "end": 39389
+      },
+      "citations": [
+        {
+          "href": "#ntr*2-L_202302844FR.000101-E0045",
+          "text": "(*2)"
+        },
+        {
+          "href": "#ntc*2-L_202302844FR.000101-E0045",
+          "text": "(*2)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/02844/oj",
+          "text": "JO L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2844/oj"
+        },
+        {
+          "href": "#ntr*3-L_202302844FR.000101-E0046",
+          "text": "(*3)"
+        },
+        {
+          "href": "#ntc*3-L_202302844FR.000101-E0046",
+          "text": "(*3)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2020_405_R_TOC",
+          "text": "JO L 405 du 2.12.2020, p. 40"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\nLe règlement (CE) no 861/2007 est modifié comme suit:\n\n| 1) | À l’article 4, le paragraphe 1 est remplacé par le texte suivant:«1. Le demandeur introduit la procédure européenne de règlement des petits litiges en remplissant le formulaire type A figurant à l’annexe I du présent règlement, et en l’adressant directement à la juridiction compétente par voie postale, par le moyen de communication électronique prévu à l’article 4 du règlement (UE) 2023/2844 du Parlement européen et du Conseil(*4) ou par tout autre moyen de communication, comme la télécopie ou le courrier électronique, admis par l’État membre dans lequel la procédure est engagée. Le formulaire de demande comporte une description des éléments de preuve à l’appui de la demande et est accompagné, le cas échéant, de toute pièce justificative utile.(*4) Règlement (UE) 2023/2844 du Parlement européen et du Conseil du 13 décembre 2023 relatif à la numérisation de la coopération judiciaire et de l’accès à la justice dans les affaires transfrontières en matière civile, commerciale et pénale, et modifiant certains actes dans le domaine de la coopération judiciaire (JO L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2844/oj).».\" |\n| --- | --- |\n\n| 2) | À l’article 13, paragraphe 1, le point a) est remplacé par le texte suivant:«a)par voie postale;». |\n| --- | --- |\n| «a) | par voie postale;». |\n\n| 3) | À l’article 13, paragraphe 1, le point b) est remplacé par le texte suivant:«b)par les moyens électroniques de signification ou de notification prévus aux articles 19 et 19 bis du règlement (UE) 2020/1784 du Parlement européen et du Conseil(*5); ou(*5) Règlement (UE) 2020/1784 du Parlement européen et du Conseil du 25 novembre 2020 relatif à la signification et à la notification dans les États membres des actes judiciaires et extrajudiciaires en matière civile ou commerciale (signification ou notification des actes) (JO L 405 du 2.12.2020, p. 40).».\" |\n| --- | --- |\n| «b) | par les moyens électroniques de signification ou de notification prévus aux articles 19 et 19 bis du règlement (UE) 2020/1784 du Parlement européen et du Conseil(*5); ou |\n\n| 4) | À l’article 13, paragraphe 1, le point suivant est ajouté:«c)par l’intermédiaire du point d’accès électronique européen établi en vertu de l’article 4, paragraphe 1, du règlement (UE) 2023/2844, à condition que le destinataire ait préalablement donné son consentement exprès à l’utilisation de ce moyen pour la signification ou la notification d’actes au cours de la procédure européenne de règlement des petits litiges concernée.». |\n| --- | --- |\n| «c) | par l’intermédiaire du point d’accès électronique européen établi en vertu de l’article 4, paragraphe 1, du règlement (UE) 2023/2844, à condition que le destinataire ait préalablement donné son consentement exprès à l’utilisation de ce moyen pour la signification ou la notification d’actes au cours de la procédure européenne de règlement des petits litiges concernée.». |\n\n| 5) | À l’article 13, le paragraphe 2 est remplacé par le texte suivant:«2. Toute communication non visée au paragraphe 1 entre la juridiction et les parties ou d’autres personnes engagées dans la procédure s’effectue soit:a)par des moyens électroniques avec accusé de réception, lorsque ces moyens sont techniquement disponibles et admissibles conformément aux règles de procédure de l’État membre dans lequel la procédure européenne de règlement des petits litiges concernée est menée, à condition que la partie ou la personne concernée ait préalablement accepté de tels moyens de communication ou qu’elle soit, conformément aux règles de procédure de l’État membre dans lequel cette partie ou cette personne a son domicile ou sa résidence habituelle, légalement tenue d’accepter de tels moyens de communication; oub)par le moyen de communication électronique prévu à l’article 4 du règlement (UE) 2023/2844.». |\n| --- | --- |\n| a) | par des moyens électroniques avec accusé de réception, lorsque ces moyens sont techniquement disponibles et admissibles conformément aux règles de procédure de l’État membre dans lequel la procédure européenne de règlement des petits litiges concernée est menée, à condition que la partie ou la personne concernée ait préalablement accepté de tels moyens de communication ou qu’elle soit, conformément aux règles de procédure de l’État membre dans lequel cette partie ou cette personne a son domicile ou sa résidence habituelle, légalement tenue d’accepter de tels moyens de communication; ou |\n| b) | par le moyen de communication électronique prévu à l’article 4 du règlement (UE) 2023/2844.» |\n\n| 6) | À l’article 15 bis, le paragraphe 2 est remplacé par le texte suivant:«2. Les États membres veillent à ce que les parties puissent payer par voie électronique les frais de justice en utilisant des modes de paiement à distance qui permettent également aux parties d’effectuer le paiement à partir d’un État membre autre que celui dans lequel la juridiction est située, conformément à l’article 9 du règlement (UE) 2023/2844.». |\n| --- | --- |",
+      "text_sha256": "4d16b9acdf58fbed5a56307baf4847e44e2401a4f0bc7f72152f254bcf56db08",
+      "md_span": {
+        "start": 39424,
+        "end": 44505
+      },
+      "citations": [
+        {
+          "href": "#ntr*4-L_202302844FR.000101-E0047",
+          "text": "(*4)"
+        },
+        {
+          "href": "#ntc*4-L_202302844FR.000101-E0047",
+          "text": "(*4)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/02844/oj",
+          "text": "JO L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2844/oj"
+        },
+        {
+          "href": "#ntr*5-L_202302844FR.000101-E0048",
+          "text": "(*5)"
+        },
+        {
+          "href": "#ntc*5-L_202302844FR.000101-E0048",
+          "text": "(*5)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2020_405_R_TOC",
+          "text": "JO L 405 du 2.12.2020, p. 40"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\nLe règlement (UE) no 606/2013 est modifié comme suit:\n\n| 1) | À l’article 8, paragraphe 2, le premier alinéa est remplacé par le texte suivant: «Lorsque la personne à l’origine du risque encouru réside dans l’État membre d’origine, la notification est effectuée conformément au droit de cet État membre. Lorsque la personne à l’origine du risque encouru réside dans un État membre autre que l’État membre d’origine, la notification est effectuée par lettre recommandée avec accusé de réception, par un moyen équivalent ou par les moyens électroniques de signification ou de notification prévus aux articles 19 et 19 bis du règlement (UE) 2020/1784 du Parlement européen et du Conseil(*6). Lorsque la personne à l’origine du risque encouru réside dans un pays tiers, la notification est effectuée par lettre recommandée avec accusé de réception ou par un moyen équivalent.(*6) Règlement (UE) 2020/1784 du Parlement européen et du Conseil du 25 novembre 2020 relatif à la signification et à la notification dans les États membres des actes judiciaires et extrajudiciaires en matière civile ou commerciale (signification ou notification des actes) (JO L 405 du 2.12.2020, p. 40).».\" |\n| --- | --- |\n\n| 2) | À l’article 11, paragraphe 4, le premier alinéa est remplacé par le texte suivant: «Lorsque la personne à l’origine du risque encouru réside dans l’État membre requis, la notification est effectuée conformément au droit de cet État membre. Lorsque la personne à l’origine du risque encouru réside dans un État membre autre que l’État membre requis, la notification est effectuée par lettre recommandée avec accusé de réception, par un moyen équivalent ou par les moyens électroniques de signification ou de notification prévus aux articles 19 et 19 bis du règlement (UE) 2020/1784. Lorsque la personne à l’origine du risque encouru réside dans un pays tiers, la notification est effectuée par lettre recommandée avec accusé de réception ou par un moyen équivalent.». |\n| --- | --- |",
+      "text_sha256": "46013f044b93a2aaf9c7234f1eb9c624956b36240faff8bf655e8a832cd70fa7",
+      "md_span": {
+        "start": 44540,
+        "end": 46538
+      },
+      "citations": [
+        {
+          "href": "#ntr*6-L_202302844FR.000101-E0049",
+          "text": "(*6)"
+        },
+        {
+          "href": "#ntc*6-L_202302844FR.000101-E0049",
+          "text": "(*6)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2020_405_R_TOC",
+          "text": "JO L 405 du 2.12.2020, p. 40"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\nLe règlement (UE) no 655/2014 est modifié comme suit:\n\n| 1) | À l’article 8, le paragraphe 4 est remplacé par le texte suivant:«4. La demande et les pièces justificatives peuvent être présentées par tout moyen de communication, y compris électronique, qui est accepté en vertu des règles de procédure de l’État membre dans lequel la demande est introduite, ou par le moyen de communication électronique prévu à l’article4 du règlement (UE) 2023/2844 du Parlement européen et du Conseil(*7).(*7) Règlement (UE) 2023/2844 du Parlement européen et du Conseil du 13 décembre 2023 relatif à la numérisation de la coopération judiciaire et de l’accès à la justice dans les affaires transfrontières en matière civile, commerciale et pénale, et modifiant certains actes dans le domaine de la coopération judiciaire (JO L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2844/oj).».\" |\n| --- | --- |\n\n| 2) | À l’article 17, le paragraphe 5 est remplacé par le texte suivant:«5. La décision sur la demande est portée à la connaissance du créancier conformément à la procédure prévue par le droit de l’État membre d’origine pour des ordonnances équivalentes sur le plan national, ou par le moyen de communication électronique prévu à l’article 4 du règlement (UE) 2023/2844.». |\n| --- | --- |\n\n| 3) | L’article 29 est remplacé par le texte suivant:«Article 29Transmission de documents1. Dans les cas où le présent règlement prévoit la transmission de documents conformément au présent article, cette transmission est effectuée conformément au règlement (UE) 2023/2844 en ce qui concerne la communication entre autorités, ou par tout moyen approprié lorsque la communication est effectuée par des créanciers, à condition que le contenu du document reçu soit fidèle et conforme à celui du document transmis et que toutes les informations qu’il contient soient aisément lisibles.2. La juridiction ou l’autorité qui a reçu des documents conformément au paragraphe 1 du présent article adresse, au plus tard à la fin du jour ouvrable suivant le jour de réception:a)à l’autorité qui a transmis les documents, un accusé de réception conformément à l’article 3 du règlement (UE) 2023/2844; oub)au créancier ou à la banque qui a transmis les documents un accusé de réception, en ayant recours aux moyens de transmission les plus rapides.La juridiction ou l’autorité qui a reçu des documents conformément au paragraphe 1 du présent article utilise le formulaire type d’accusé de réception établi au moyen d’actes d’exécution adoptés en conformité avec la procédure consultative visée à l’article 52, paragraphe 2.». |\n| --- | --- |\n| a) | à l’autorité qui a transmis les documents, un accusé de réception conformément à l’article 3 du règlement (UE) 2023/2844; ou |\n| b) | au créancier ou à la banque qui a transmis les documents un accusé de réception, en ayant recours aux moyens de transmission les plus rapides. |\n\n| 4) | L’article 36 est modifié comme suit:a)le paragraphe 1 est remplacé par le texte suivant:«1. La demande de recours en vertu de l’article 33, 34 ou 35 est introduite en utilisant le formulaire de recours établi au moyen d’actes d’exécution adoptés en conformité avec la procédure consultative visée à l’article 52, paragraphe 2.Cette demande peut être faite à tout moment et introduite par:a)tout moyen de communication, y compris électronique, qui est accepté en vertu des règles de procédure de l’État membre dans lequel la demande est introduite; oub)le moyen de communication électronique prévu à l’article4 du règlement (UE) 2023/2844.»;b)le paragraphe 3 est remplacé par le texte suivant:«3. À l’exception des cas où la demande a été introduite par le débiteur en vertu de l’article 34, paragraphe 1, point a), ou de l’article 35, paragraphe 3, la décision sur la demande est rendue après que les deux parties ont eu l’occasion de présenter leurs arguments, y compris par les moyens appropriés relevant des technologies de la communication disponibles et acceptés au titre du droit national de chacun des États membres concernés ou par le moyen de communication électronique prévu par le règlement (UE) 2023/2844.». |\n| --- | --- |\n| a) | le paragraphe 1 est remplacé par le texte suivant:«1. La demande de recours en vertu de l’article 33, 34 ou 35 est introduite en utilisant le formulaire de recours établi au moyen d’actes d’exécution adoptés en conformité avec la procédure consultative visée à l’article 52, paragraphe 2.Cette demande peut être faite à tout moment et introduite par:a)tout moyen de communication, y compris électronique, qui est accepté en vertu des règles de procédure de l’État membre dans lequel la demande est introduite; oub)le moyen de communication électronique prévu à l’article4 du règlement (UE) 2023/2844.»; |\n| a) | tout moyen de communication, y compris électronique, qui est accepté en vertu des règles de procédure de l’État membre dans lequel la demande est introduite; ou |\n| b) | le moyen de communication électronique prévu à l’article4 du règlement (UE) 2023/2844.» |\n| b) | le paragraphe 3 est remplacé par le texte suivant:«3. À l’exception des cas où la demande a été introduite par le débiteur en vertu de l’article 34, paragraphe 1, point a), ou de l’article 35, paragraphe 3, la décision sur la demande est rendue après que les deux parties ont eu l’occasion de présenter leurs arguments, y compris par les moyens appropriés relevant des technologies de la communication disponibles et acceptés au titre du droit national de chacun des États membres concernés ou par le moyen de communication électronique prévu par le règlement (UE) 2023/2844.». |",
+      "text_sha256": "965db4c0bb1d293cb1a9cfd14100919be61c52c8039d1fadaaf44ef149add00e",
+      "md_span": {
+        "start": 46573,
+        "end": 52206
+      },
+      "citations": [
+        {
+          "href": "#ntr*7-L_202302844FR.000101-E0050",
+          "text": "(*7)"
+        },
+        {
+          "href": "#ntc*7-L_202302844FR.000101-E0050",
+          "text": "(*7)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/02844/oj",
+          "text": "JO L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2844/oj"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\nLe règlement (UE) 2015/848 est modifié comme suit:\n\n| 1) | À l’article 42, paragraphe 3, la première phrase est remplacée par le texte suivant: «La coopération visée au paragraphe 1 du présent article est mise en œuvre conformément à l’article 3 du règlement (UE) 2023/2844 du Parlement européen et du Conseil(*8).(*8) Règlement (UE) 2023/2844 du Parlement européen et du Conseil du 13 décembre 2023 relatif à la numérisation de la coopération judiciaire et de l’accès à la justice dans les affaires transfrontières en matière civile, commerciale et pénale, et modifiant certains actes dans le domaine de la coopération judiciaire (JO L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2844/oj).».\" |\n| --- | --- |\n\n| 2) | L’article 53 est remplacé par le texte suivant:«Article 53Droit de produire des créancesTout créancier étranger peut produire ses créances dans le cadre de la procédure d’insolvabilité par tous les moyens de transmission qui sont acceptés par le droit de l’État d’ouverture de la procédure ou par le moyen de communication électronique prévu à l’article 4 du règlement (UE) 2023/2844.La représentation par un avocat ou un autre professionnel du droit n’est pas obligatoire aux seules fins de la production de créances.». |\n| --- | --- |\n\n| 3) | À l’article 57, paragraphe 3, la première phrase est remplacée par le texte suivant: «La coopération visée au paragraphe 1 du présent article est mise en œuvre conformément à l’article 3 du règlement (UE) 2023/2844.». |\n| --- | --- |",
+      "text_sha256": "7559a7d562055356a6400372260bc9355e6dd8aac92cdccdb049982afd2779a8",
+      "md_span": {
+        "start": 52241,
+        "end": 53769
+      },
+      "citations": [
+        {
+          "href": "#ntr*8-L_202302844FR.000101-E0051",
+          "text": "(*8)"
+        },
+        {
+          "href": "#ntc*8-L_202302844FR.000101-E0051",
+          "text": "(*8)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/02844/oj",
+          "text": "JO L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2844/oj"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nLe règlement (UE) 2020/1784 est modifié comme suit:\n\n| 1) | À l’article 12, le paragraphe 7 est remplacé par le texte suivant:«7. Aux fins des paragraphes 1 et 2, les agents diplomatiques ou consulaires, dans les cas où la signification ou la notification est effectuée conformément à l’article 17, et l’autorité ou la personne, dans les cas où la signification ou la notification est effectuée conformément à l’article 18, 19, 19 bis ou 20, informent le destinataire qu’il peut refuser de recevoir l’acte et que soit le formulaire L qui figure à l’annexe I, soit une déclaration écrite de refus doit être envoyé à ces agents ou à cette autorité ou personne, respectivement.». |\n| --- | --- |\n\n| 2) | À l’article 13, le paragraphe 3 est remplacé par le texte suivant:«3. Le présent article s’applique également aux autres modes de transmission et de signification ou de notification d’actes judiciaires prévus à la section 2, à l’exception de l’article 19 bis.». |\n| --- | --- |\n\n| 3) | L’article suivant est inséré:«Article 19 bisSignification ou notification par voie électronique par l’intermédiaire du point d’accès électronique européen1. La signification ou la notification d’actes judiciaires peut être effectuée directement à une personne ayant une adresse connue à des fins de signification ou de notification dans un autre État membre par l’intermédiaire du point d’accès électronique européen établi en vertu de l’article 4, paragraphe 1, du règlement (UE) 2023/2844 du Parlement européen et du Conseil(*9), à condition que le destinataire ait préalablement donné son consentement exprès à l’utilisation de ce moyen pour la signification ou la notification d’actes au cours de la procédure judiciaire concernée.2. Le destinataire confirme la réception des actes avec un accusé de réception comportant la date de réception. La date de signification ou de notification des actes est la date indiquée dans l’accusé de réception. Il en va de même en cas de signification ou de notification d’actes refusés qui est régularisée conformément à l’article 12, paragraphe 5.(*9) Règlement (UE) 2023/2844 du Parlement européen et du Conseil du 13 décembre 2023 relatif à la numérisation de la coopération judiciaire et de l’accès à la justice dans les affaires transfrontières en matière civile, commerciale et pénale, et modifiant certains actes dans le domaine de la coopération judiciaire (JO L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2844/oj).».\" |\n| --- | --- |\n\n| 4) | À l’article 37, le paragraphe suivant est ajouté:«3. L’article 19 bis s’applique à compter du premier jour du mois suivant la période de deux ans à compter de la date d’entrée en vigueur des actes d’exécution visés à l’article 10, paragraphe 3, point a), du règlement (UE) 2023/2844.». |\n| --- | --- |",
+      "text_sha256": "022376baab8bde8553c29155f62956a301a59f4d06e1351b4c66311105a93587",
+      "md_span": {
+        "start": 53804,
+        "end": 56616
+      },
+      "citations": [
+        {
+          "href": "#ntr*9-L_202302844FR.000101-E0052",
+          "text": "(*9)"
+        },
+        {
+          "href": "#ntc*9-L_202302844FR.000101-E0052",
+          "text": "(*9)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/02844/oj",
+          "text": "JO L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2844/oj"
+        }
+      ]
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\nLe règlement (UE) 2018/1805 est modifié comme suit:\n\n| 1) | À l’article 4, le paragraphe 1 est remplacé par le texte suivant:«1. Une décision de gel est transmise au moyen d’un certificat de gel. L’autorité d’émission transmet le certificat de gel prévu à l’article 6 directement à l’autorité d’exécution ou, s’il y a lieu, à l’autorité centrale visée à l’article 24, paragraphe 2.». |\n| --- | --- |\n\n| 2) | À l’article 7, le paragraphe 2 est remplacé par le texte suivant:«2. L’autorité d’exécution fait rapport à l’autorité d’émission sur l’exécution de la décision de gel, notamment en fournissant une description des biens gelés et, si celle-ci est disponible, une estimation de leur valeur. Il est fait rapport sans retard indu dès que l’autorité d’exécution a été informée de l’exécution de la décision de gel.». |\n| --- | --- |\n\n| 3) | À l’article 8, le paragraphe 3 est remplacé par le texte suivant:«3. Toute décision de refus de reconnaissance ou de refus d’exécution de la décision de gel est prise sans tarder et notifiée immédiatement à l’autorité d’émission.». |\n| --- | --- |\n\n| 4) | À l’article 9, le paragraphe 4 est remplacé par le texte suivant:«4. L’autorité d’exécution communique sans tarder à l’autorité d’émission la décision concernant la reconnaissance et l’exécution de la décision de gel.». |\n| --- | --- |\n\n| 5) | À l’article 10, les paragraphes 2 et 3 sont remplacés par le texte suivant:«2. L’autorité d’exécution fait immédiatement rapport à l’autorité d’émission sur le sursis à l’exécution de la décision de gel, en précisant les motifs du sursis et, si possible, la durée escomptée du sursis.3. Dès que les motifs de sursis à l’exécution ont cessé d’exister, l’autorité d’exécution prend immédiatement les mesures nécessaires à l’exécution de la décision de gel et en informe l’autorité d’émission.». |\n| --- | --- |\n\n| 6) | À l’article 12, le paragraphe 2 est remplacé par le texte suivant:«2. L’autorité d’exécution peut, en tenant compte des circonstances de l’affaire, présenter à l’autorité d’émission une demande motivée visant à limiter la durée pendant laquelle le gel des biens est maintenu. Cette demande, y compris toute information utile à l’appui de celle-ci, est transmise directement à l’autorité d’émission. Lorsqu’elle examine une telle demande, l’autorité d’émission prend en compte tous les intérêts, y compris ceux de l’autorité d’exécution. L’autorité d’émission répond à la demande dans les plus brefs délais. Si l’autorité d’émission n’est pas d’accord avec la limitation, elle en donne les raisons à l’autorité d’exécution. Dans ce cas, le gel des biens est maintenu conformément au paragraphe 1. Si l’autorité d’émission ne répond pas dans les six semaines qui suivent la réception de la demande, l’autorité d’exécution n’est plus tenue d’exécuter la décision de gel.». |\n| --- | --- |\n\n| 7) | À l’article 14, le paragraphe 1 est remplacé par le texte suivant:«1. Une décision de confiscation est transmise au moyen d’un certificat de confiscation. L’autorité d’émission transmet le certificat de confiscation prévu à l’article 17 directement à l’autorité d’exécution ou, s’il y a lieu, à l’autorité centrale visée à l’article 24, paragraphe 2.». |\n| --- | --- |\n\n| 8) | À l’article 16, paragraphe 3, la phrase introductive est remplacée par le texte suivant: «L’autorité d’émission informe immédiatement l’autorité d’exécution lorsque:». |\n| --- | --- |\n\n| 9) | À l’article 18, le paragraphe 6 est remplacé par le texte suivant:«6. Dès que l’exécution de la décision de confiscation est réalisée, l’autorité d’exécution informe l’autorité d’émission des résultats de cette exécution.». |\n| --- | --- |\n\n| 10) | À l’article 19, le paragraphe 3 est remplacé par le texte suivant:«3. Toute décision de refus de reconnaissance ou de refus d’exécution de la décision de confiscation est prise sans tarder et notifiée immédiatement à l’autorité d’émission.». |\n| --- | --- |\n\n| 11) | À l’article 20, le paragraphe 2 est remplacé par le texte suivant:«2. L’autorité d’exécution communique sans tarder la décision concernant la reconnaissance et l’exécution de la décision de confiscation à l’autorité d’émission.». |\n| --- | --- |\n\n| 12) | À l’article 21, les paragraphes 3 et 4 sont remplacés par le texte suivant:«3. L’autorité d’exécution fait rapport sans tarder à l’autorité d’émission sur le sursis à l’exécution de la décision de confiscation, en précisant les motifs du sursis et, si possible, la durée escomptée du sursis.4. Dès que les motifs de sursis à l’exécution ont cessé d’exister, l’autorité d’exécution prend sans tarder les mesures nécessaires à l’exécution de la décision de confiscation et en informe l’autorité d’émission.». |\n| --- | --- |\n\n| 13) | L’article 25 est modifié comme suit:a)le titre est remplacé par le texte suivant: «Moyens de communication»;b)le paragraphe 1 est remplacé par le texte suivant:«1. À l’exception des communications au titre de l’article 8, paragraphes 2 et 4, de l’article 9, paragraphe 5, de l’article 19, paragraphe 2, de l’article 20, paragraphe 4, et de l’article 29, paragraphe 3, les communications officielles au titre du présent règlement entre l’autorité d’émission et l’autorité d’exécution sont effectuées conformément à l’article 3 du règlement (UE) 2023/2844 du Parlement européen et du Conseil(*10).2. Lorsqu’un État membre a désigné une autorité centrale, le paragraphe 1 s’applique également aux communications avec l’autorité centrale d’un autre État membre.3. Si nécessaire, l’autorité d’émission et l’autorité d’exécution se consultent sans tarder, par tout moyen de communication approprié, pour garantir la bonne application du présent règlement.(*10) Règlement (UE) 2023/2844 du Parlement européen et du Conseil du 13 décembre 2023 relatif à la numérisation de la coopération judiciaire et de l’accès à la justice dans les affaires transfrontières en matière civile, commerciale et pénale, et modifiant certains actes dans le domaine de la coopération judiciaire (JO L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2844/oj).».\" |\n| --- | --- |\n| a) | le titre est remplacé par le texte suivant: «Moyens de communication»; |\n| b) | le paragraphe 1 est remplacé par le texte suivant:«1. À l’exception des communications au titre de l’article 8, paragraphes 2 et 4, de l’article 9, paragraphe 5, de l’article 19, paragraphe 2, de l’article 20, paragraphe 4, et de l’article 29, paragraphe 3, les communications officielles au titre du présent règlement entre l’autorité d’émission et l’autorité d’exécution sont effectuées conformément à l’article 3 du règlement (UE) 2023/2844 du Parlement européen et du Conseil(*10).2. Lorsqu’un État membre a désigné une autorité centrale, le paragraphe 1 s’applique également aux communications avec l’autorité centrale d’un autre État membre.3. Si nécessaire, l’autorité d’émission et l’autorité d’exécution se consultent sans tarder, par tout moyen de communication approprié, pour garantir la bonne application du présent règlement.(*10) Règlement (UE) 2023/2844 du Parlement européen et du Conseil du 13 décembre 2023 relatif à la numérisation de la coopération judiciaire et de l’accès à la justice dans les affaires transfrontières en matière civile, commerciale et pénale, et modifiant certains actes dans le domaine de la coopération judiciaire (JO L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2844/oj).».\" |\n\n| 14) | À l’article 27, les paragraphes 2 et 3 sont remplacés par le texte suivant:«2. L’autorité d’émission informe immédiatement l’autorité d’exécution du retrait d’une décision de gel ou d’une décision de confiscation, et de toute décision ou mesure entraînant le retrait d’une décision de gel ou d’une décision de confiscation.3. L’autorité d’exécution met fin à l’exécution de la décision de gel ou de la décision de confiscation, dans la mesure où l’exécution n’a pas encore été réalisée, dès qu’elle a été informée par l’autorité d’émission conformément au paragraphe 2. L’autorité d’exécution envoie à l’État d’émission une confirmation de la cessation sans retard indu.». |\n| --- | --- |\n\n| 15) | À l’article 31, paragraphe 2, le troisième alinéa est remplacé par le texte suivant: «Les consultations, ou du moins le résultat de celles-ci, sont enregistrées.». |\n| --- | --- |",
+      "text_sha256": "aab34e925d8f1e2468274c5d958ddab5e305e88521104d84cb084696684a1417",
+      "md_span": {
+        "start": 56651,
+        "end": 64970
+      },
+      "citations": [
+        {
+          "href": "#ntr*10-L_202302844FR.000101-E0053",
+          "text": "(*10)"
+        },
+        {
+          "href": "#ntc*10-L_202302844FR.000101-E0053",
+          "text": "(*10)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/02844/oj",
+          "text": "JO L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2844/oj"
+        }
+      ]
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32023r2844:2023-12-13#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\n1. Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\n2. Il s’applique à compter du 1er mai 2025.\n\n3. Toutefois, les articles 3 et 4 s’appliquent à compter du premier jour du mois suivant la période de deux ans à compter de la date d’entrée en vigueur des actes d’exécution correspondants, visés à l’article 10, paragraphe 3, établissant le système informatique décentralisé pour chacun des actes juridiques énumérés aux annexes I et II.\n\n4. Les articles 3 et 4 s’appliquent aux procédures engagées à compter du jour visé au paragraphe 3 du présent article.",
+      "text_sha256": "fa07da9c3926bd1b5ad8255c44049c0d1a08a66a442a5734e6da5fef843ed1fb",
+      "md_span": {
+        "start": 65005,
+        "end": 65655
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

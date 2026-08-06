@@ -1,0 +1,4101 @@
+{
+  "lex_work_id": "eu-eurlex:32012l0027",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "anx_i": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-07-08",
+        "text_sha256": "d9e239ccdc41780c69b06aa43573639b9107b418578bdc6d5bd0407666234af4",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-07-09",
+        "valid_to": "2018-12-23",
+        "text_sha256": "2f73d4393c3518d99201a9528cc138f8527c97bedb3a826a8d95b6ca550cc58f",
+        "in_version": "eu-eurlex:32012l0027:2018-07-09"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2019-12-31",
+        "text_sha256": "b910ba5e305f4a60c33902035392e8c0228f22c049343f4c658f448d2a65edee",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-01-01",
+        "valid_to": "2020-12-31",
+        "text_sha256": "d94538f1c986dbf66af40149216b9638cd1f38847b6b50f0c3e7704fb8dab262",
+        "in_version": "eu-eurlex:32012l0027:2020-01-01"
+      },
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": "2023-05-03",
+        "text_sha256": "3113ec00c085d2956a429a9d28e3c0f23835757c0f694c1536d605fb9e4dcaac",
+        "in_version": "eu-eurlex:32012l0027:2021-01-01"
+      }
+    ],
+    "anx_ii": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2023-05-03",
+        "text_sha256": "c56ee068fb943bfc7e2fa5d60df9efcb319deb5db08b8b0faf8669338e0650e0",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      }
+    ],
+    "anx_iii": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-07-08",
+        "text_sha256": "8103e53110befad6bbf04734588c7401c57e6f7cdacce24bb3d49f047713b5de",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-07-09",
+        "valid_to": "2018-12-23",
+        "text_sha256": "68a296d3dc36c843b8209186b4b9fc861539d169a86755bbbe63aa8cdf596344",
+        "in_version": "eu-eurlex:32012l0027:2018-07-09"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2019-12-31",
+        "text_sha256": "d399c56376bdde9e29a5d53e93618fd770958ca7ef4af8e0522ac766385798d1",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-01-01",
+        "valid_to": "2020-12-31",
+        "text_sha256": "2bfed0008e1a7d005af7bb66a4110f5d61e0d892ba7f46b3096e04341a3cb20b",
+        "in_version": "eu-eurlex:32012l0027:2020-01-01"
+      },
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": "2023-05-03",
+        "text_sha256": "8a9f705b76750775249fa4e8f2fd930402ac7786bb7a9ba5aadbd668f51e1adf",
+        "in_version": "eu-eurlex:32012l0027:2021-01-01"
+      }
+    ],
+    "anx_iv": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-07-08",
+        "text_sha256": "ed4fdb8a185298ac5d533ef81011d34e573ae8c2007697b86e041a4970bb29fa",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-07-09",
+        "valid_to": "2018-12-23",
+        "text_sha256": "a38068719e2ba7e7f42d36284726fe17ac43525af888a72bfb3443510612ea0a",
+        "in_version": "eu-eurlex:32012l0027:2018-07-09"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-12-31",
+        "text_sha256": "0f382a3515f2c4298667a65d3abdd1bde84771f8e89b318918317e52aa3c5a26",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": "2023-05-03",
+        "text_sha256": "587b45605b9c6941a0f8f891772b5ca5cc816817d7f14dfd7e774e5273faefcf",
+        "in_version": "eu-eurlex:32012l0027:2021-01-01"
+      }
+    ],
+    "anx_ix": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-07-08",
+        "text_sha256": "81c59e966f27fd36ac00e97adc7030636bb7229f6b6e5e14e37b9bb3312d2919",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-07-09",
+        "valid_to": "2018-12-23",
+        "text_sha256": "f4c2a6722cb7969bedf18b7e9d8c45175f0c254c009bd8afd8092824a4c40be3",
+        "in_version": "eu-eurlex:32012l0027:2018-07-09"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2019-06-11",
+        "text_sha256": "9ded35d2bd7bea4de41d1781321587cadbcf1856a6adfc9b6109287f455d4a88",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2019-06-12",
+        "valid_to": "2023-05-03",
+        "text_sha256": "c3e6360b0571c0712d5be60b86e5aa8616181f37a864004b6c737d4e534d64a3",
+        "in_version": "eu-eurlex:32012l0027:2019-06-12"
+      }
+    ],
+    "anx_v": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-07-08",
+        "text_sha256": "67d4a7016e234e5bb0c3bf285d5bfe54a703fb99feec162b149d00a6a3ad9857",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-07-09",
+        "valid_to": "2018-12-23",
+        "text_sha256": "40a8b1ec3de576389fa10ab1dffe08f9a69debb878c3f8bf6795bc7b712861fc",
+        "in_version": "eu-eurlex:32012l0027:2018-07-09"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-12-31",
+        "text_sha256": "c30a74eb2420c028dda54fa2fc6360e593fd53d85801cdbf76210e2cba231564",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": "2023-05-03",
+        "text_sha256": "8466434eef73dc5e887f2efd6e9474d04cc5d07ff077a9226bbe4215b7aaf7b3",
+        "in_version": "eu-eurlex:32012l0027:2021-01-01"
+      }
+    ],
+    "anx_vi": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2023-05-03",
+        "text_sha256": "6bc21de9e29d9a7076c899b1ca0361c890e379b7b1c6f3150735b35102859546",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      }
+    ],
+    "anx_vii": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-12-23",
+        "text_sha256": "786acb38a4d3cae6fda91c70ed2788fb1646fd46b1ebe291c1cd5697cf68b6fc",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-12-31",
+        "text_sha256": "56d05b8a302a62d4284347c0894c5362cb2d7b540d255b18145afb70a5fa239b",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": "2023-05-03",
+        "text_sha256": "7698ad34eae4aaf66f3b7ea4706f827de328d1114ce59f10dd3bd951cc74439b",
+        "in_version": "eu-eurlex:32012l0027:2021-01-01"
+      }
+    ],
+    "anx_viia": [
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2023-05-03",
+        "text_sha256": "53d43ec31e42f1383ee8c66b3205a93d9288d3b2e8f950753e821a5f92f2cd99",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      }
+    ],
+    "anx_viii": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2019-06-11",
+        "text_sha256": "5f25e1fa28d9e842a5dbdf138a1dbc28567a203947dba8d6c546858680cb135e",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2019-06-12",
+        "valid_to": "2020-12-31",
+        "text_sha256": "2c413c1ef0f2d666d1ec8b87671e8e96e84162b73b4999aa2a406fdefd00f073",
+        "in_version": "eu-eurlex:32012l0027:2019-06-12"
+      },
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": "2023-05-03",
+        "text_sha256": "2dda80f6370002612ab1fc95eac828abcc5f775103505681a3bd20fae3472119",
+        "in_version": "eu-eurlex:32012l0027:2021-01-01"
+      }
+    ],
+    "anx_x": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2019-12-31",
+        "text_sha256": "d863d5fb893ffa19a1bb31ba91d5149d499afaeb3a9476af115e452d2f7e04d9",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2020-01-01",
+        "valid_to": "2023-05-03",
+        "text_sha256": "827526abc1773997a7681f37b2a1ad67777b689f9d8068971196aded04401844",
+        "in_version": "eu-eurlex:32012l0027:2020-01-01"
+      }
+    ],
+    "anx_xi": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2023-05-03",
+        "text_sha256": "e783c5057a9aa478d2a8739008a16e4da747cfb1d704a671ea5ea14f1cbcd876",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      }
+    ],
+    "anx_xii": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-12-23",
+        "text_sha256": "561e39dfab34cb6a186a826564276cceaec220dd2e3f18c12df11fb1feedb81f",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2019-12-31",
+        "text_sha256": "8a48245e721706a335e0ed8f27d582a348b59413b1d78c3209ad846d930178e8",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-01-01",
+        "valid_to": "2023-05-03",
+        "text_sha256": "4b799df20bb260b13368f2b5804e25a8cc8b688c6377b41508598be426a4b2b7",
+        "in_version": "eu-eurlex:32012l0027:2020-01-01"
+      }
+    ],
+    "anx_xiii": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2023-05-03",
+        "text_sha256": "0db78412edb23c51c38fee06b61a2deff9b0c20f666ef83637b21579cb11f376",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      }
+    ],
+    "anx_xiv": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-07-08",
+        "text_sha256": "6941b2284f455d94be513447d9cec6b30b9a328e4810b66a370a7d1f631dfaf5",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-07-09",
+        "valid_to": "2018-12-23",
+        "text_sha256": "2fae7980fd4ed4f82617e004b122dd2c8a4048330d8074a6114583dcfd7d972b",
+        "in_version": "eu-eurlex:32012l0027:2018-07-09"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2019-06-11",
+        "text_sha256": "6b9763d59c35b4665189308a5c8eb55b7331c1263a9b32c2e0082b887af9febd",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2019-06-12",
+        "valid_to": "2019-12-31",
+        "text_sha256": "fe82c6cab313ce08e31541b628327cf363659a87c35c4626babffc60c8751c5b",
+        "in_version": "eu-eurlex:32012l0027:2019-06-12"
+      },
+      {
+        "valid_from": "2020-01-01",
+        "valid_to": "2020-12-31",
+        "text_sha256": "d8ca998d2ba19e2d628744e7627a863b3cb6ae03ea08dbd183a9bcae62dba69c",
+        "in_version": "eu-eurlex:32012l0027:2020-01-01"
+      }
+    ],
+    "anx_xv": [
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-07-08",
+        "text_sha256": "0801c9adefbde822b3cf5fffa235c45bbea9dae903be15762104537db7d788bc",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-07-09",
+        "valid_to": "2018-12-23",
+        "text_sha256": "1dc1d2256810ac3bc13f4c2a9ed77f8f0ee54d3c5ebdaaff3e5383b13742d34c",
+        "in_version": "eu-eurlex:32012l0027:2018-07-09"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2019-06-11",
+        "text_sha256": "580c1f27adba9b8ce85eef7d611461b958662b668b3b15b26917f80dfd5bf00b",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2019-06-12",
+        "valid_to": "2020-12-31",
+        "text_sha256": "f1b24238ae6c70fa0720363e92503445ec1b9e0cada214ddc0f646b78b49e976",
+        "in_version": "eu-eurlex:32012l0027:2019-06-12"
+      },
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": "2023-05-03",
+        "text_sha256": "d64c62a1629b2bb7cddda9a72372ab52cf0ac8729e1e449dc499a93b18b914ef",
+        "in_version": "eu-eurlex:32012l0027:2021-01-01"
+      }
+    ],
+    "art_1": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "bf4e6f7a0a1a53269fe43a4b0c2dd7548a5572fb457562b39c876eecc477df88",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-12-23",
+        "text_sha256": "6beb1ff75a8207fdb45eee86b6432eed4b9ecd1e6e214d197ccee778cefc7080",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "7dcb4aca71ce5f216c42ab9421212bedd48b33432c69d4376d7144ff59be6c8c",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "21d5f40907f7fd5afc35de5c06710c39d968a73d6ae113560beec45a7f2fe043",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_10": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "9c098785d7c84a219064c5c5cb9ed9a7494f0080ac25f85f5335d3c13393f412",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-12-23",
+        "text_sha256": "f334d0aa40df2dedf8766013d899eace744dc56eab3b04f13ef1e83212faec7d",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "9cb00fe47e3e5a591707b1dd94e7ad0bef0d7c04cc1f502d5fc4adf62d226a96",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": "2020-12-31",
+        "text_sha256": "b4480e6f78d88543e1bb6eeea2a7a55ae216ab2725eff59acf31702d16e7cb4b",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      },
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": null,
+        "text_sha256": "510fcd7346b64a16a0d442afb4c64517c4d4ee9535df7fd5fe99129edfbf83b3",
+        "in_version": "eu-eurlex:32012l0027:2021-01-01"
+      }
+    ],
+    "art_10a": [
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "1bf0c923dd76ce738302ce6205e7450873de8d7f9f26fce4902b095dd22108b4",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "2640c4e6b09eb73164feacd2bb10d2787c8ea4ea3be5c58aafa49ab3c73d82d9",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_11": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "cb4b7ecd109cfc82491e13f95ee6fe85760bb9fbdf931c6bb4272ceda15e0e0d",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-12-23",
+        "text_sha256": "a7e323d4116ce797253d43d1b47a81787796393327663980ebdcaa7fc8dc934d",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": null,
+        "text_sha256": "28c97bc4749f2f3c4837388497c40abdb32ded9e6e518abc197556b8c9fbd305",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      }
+    ],
+    "art_11a": [
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "49c1ebfaf131fadeb69267069a3b1f6480e5b8d03f73f2fc5ef4249021098cf9",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "032ed2cb601f2efcf2d40045d1cd06748263fcdb7aeaf60ee957be954322b0b2",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_12": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "a25c4cc2fba39d4e8847415bf3932b63bc5ca137a593fce93074d253c9007833",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2019-12-31",
+        "text_sha256": "18ad25d9e4a8a74aa62fe1192270166343d6adf006cb02c7a0a25942e8b6dbdc",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2020-01-01",
+        "valid_to": "2020-10-25",
+        "text_sha256": "9b5d1741d38f0465ea0bf41278f85b45fbc7ee4ccd3625cabfe3ea083c28fa2b",
+        "in_version": "eu-eurlex:32012l0027:2020-01-01"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "4f65f2f4d13420cbfddb2390d50034e45118448d206a35d1b0bd24be696700f8",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_13": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "ba7250ae115470ea5a81d0f5ef137e927cb610cdaaff4e5cc7fcd6342a46e19e",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2020-10-25",
+        "text_sha256": "c1ee634e742f601ddc92e5e38ebf5cf7f3f99a400526712d7c8cec2486927beb",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": "2020-12-31",
+        "text_sha256": "a09bedb3e5824a9a26d93473e711866c1caa4b44956b47505eb3ba86ff3d75af",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      },
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": null,
+        "text_sha256": "8e6f530d680b5c6bb7ac9c37747cbcb5dd2eca9bf86d293f99d466b3ec054441",
+        "in_version": "eu-eurlex:32012l0027:2021-01-01"
+      }
+    ],
+    "art_14": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "51aa35caf8435df9d9ad1534bc60bf573163c23ac5432af461591a508e108b6c",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-07-08",
+        "text_sha256": "d219257276285fa8751297928de9f227ac98956beb683ba7eb2b5339fa4095dd",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-07-09",
+        "valid_to": "2018-12-23",
+        "text_sha256": "551e378f624b3e6b3fc30966f2c3c264c06017f572ae6981621f12d63061c92c",
+        "in_version": "eu-eurlex:32012l0027:2018-07-09"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "5a06b11860fa51f9cd60f091f39b2fe4036d49a6eb9c7c746e0d688341e1ce7d",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "974c089712ac7f3f0746bb9dcac08d50faa3e93e744f486727e981fc9c1b498f",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_15": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "fcef6d2ed4faed454b55e68b34328c75e33b62482f071af4e8cebaafa58460e3",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-07-08",
+        "text_sha256": "934f920b39e55a1aa6f85212cf866eaf63c4c7c260fbf9c299ee60a05ad4d3d5",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-07-09",
+        "valid_to": "2018-12-23",
+        "text_sha256": "2a8abc94ceea7dc56377c3758bd51bd375909f037a24d83391570e3961edfc57",
+        "in_version": "eu-eurlex:32012l0027:2018-07-09"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2019-12-31",
+        "text_sha256": "75f888d3fd402b0aa55063e87a11cf3ae23788d7db5c74c7917aa353c277d0ca",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-01-01",
+        "valid_to": "2020-10-25",
+        "text_sha256": "ff21fff5b130fe2a2a3595fc2cb6dd85e967f229998729b8cdfc3fbdb124feac",
+        "in_version": "eu-eurlex:32012l0027:2020-01-01"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": "2020-12-31",
+        "text_sha256": "dd8f2e50af2e374fae7c81a040505eec22bab155c09c83c90124375bb9e266ee",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      },
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": "2023-05-03",
+        "text_sha256": "6788ce3cfb2428f303b9128bb6d575bdedd33c1e7b165f97d7b29014343e9774",
+        "in_version": "eu-eurlex:32012l0027:2021-01-01"
+      },
+      {
+        "valid_from": "2023-05-04",
+        "valid_to": null,
+        "text_sha256": "e7e633f4b2797ab5b9e7ef4d99367a1831ec5fd2598294c32d1a0c1d3aad3c79",
+        "in_version": "eu-eurlex:32012l0027:2023-05-04"
+      }
+    ],
+    "art_16": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "a4dce33c106b5ec2fad5f8c6d01b0d6922957e587ab4678257068e05f043a4a3",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2020-10-25",
+        "text_sha256": "a9b57270ad0eb99e1fa9ec54eb9855e6e437f15d6a2882be67c2716e6d269ab0",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "21f5cdb0d6995d9710d982d1682716609104b248e142fbb2252a267b8c3d9705",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_17": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "cd0de792c34d4650731ccd26f61bf2d3caa2368879ed8ca71f60f666ce5c91e2",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2020-10-25",
+        "text_sha256": "3c954b7eaf5e9007c0ef8c3c711d346081ae48fd80404f7ff21141b09bc27d84",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "51a415743e5ac08ba7727d60694a4cfc9773b7f8e45064a426721a57bc354457",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_18": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "3f49b345986ef9da9ab2a38624db02bc9be096db170b1a5e208218e433a07d40",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-12-23",
+        "text_sha256": "3b8b5dd7945d5736fb31b43fad060d717d8e6a17c00654f9849fc24e3b3e5b94",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2019-12-31",
+        "text_sha256": "35181463b241f9ad6d802c99abe1527506d0d1404e25560986aad24913a9cc93",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-01-01",
+        "valid_to": "2020-10-25",
+        "text_sha256": "053985385934bdf897cd3269d1cd3d6368c3049a789f7a9bc7061c162635511b",
+        "in_version": "eu-eurlex:32012l0027:2020-01-01"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "cbb5cfc6a04f02fd47097870dcb68443345b81c26fe7bb86e80b08dd38617d97",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_19": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "37d781e7619764a5dfb9f0c174df8d3f2e25a257965f609ffafd6e1184ea44b5",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2020-10-25",
+        "text_sha256": "f80cf6c36ca959a58cebb7647dfb4ad84f5e5d60d7a6bed5ed62047cdac53c68",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "f64ead515454766efa9ecceb0b61f340b8bbd0e9d64d3bae5093b4d7ab3f4b32",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "a402fb9fbe601fcd7c50574628c64ecb1b74192895642eab1b5532863b3bc9c2",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-07-08",
+        "text_sha256": "5e34a67f3acafc64f04640ace5ea1e4bf8ff0f214a6a21e40209b54fe06218cf",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-07-09",
+        "valid_to": null,
+        "text_sha256": "73fbffd7c1fd6261132c44399dfca89fed12a5a84bce4dbe76af75d11d113e5b",
+        "in_version": "eu-eurlex:32012l0027:2018-07-09"
+      }
+    ],
+    "art_20": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "4f5688fbf0ead1cf37bbe5c8552f07445048810581aae28851b7ae2e1463a132",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-12-23",
+        "text_sha256": "abce9629447e5c1444b4c2fd52e5521359564ec99b18dbd62f8412b4b594bfe4",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2019-12-31",
+        "text_sha256": "c3604c860704b137a7bb1ca64e319b4f4e56a2bb599ef64593165007e1039638",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-01-01",
+        "valid_to": "2020-10-25",
+        "text_sha256": "58342e464757c32211bdbc60802768a6fb7897b1a8fea28b1f67b23d314be2e8",
+        "in_version": "eu-eurlex:32012l0027:2020-01-01"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "d3e12b5eef7ffd74db0819dda58b6d28f39dfde321f983211a108f51815febe7",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_21": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "f76c0535d9262078c2fcaefceb9e94b9a23c05f98b1d1de37f982547b18a4ab4",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": null,
+        "text_sha256": "141442738e3269e8ba2f8711dbe8a3ef6bc3ea9a5e8352b60c8da818a0cc7504",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      }
+    ],
+    "art_22": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "b4b509c37ad0885428c5d2c9d7975e90117e1c9dc4c6b52312b5dd721cce9f6f",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-12-23",
+        "text_sha256": "a75727da9396300c50828fba9dbda9017a80ae0961e4566207596cc30a720ff5",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "d8d42d1b5c9eaff5f9c2fb8f97e1dbf2405479220ec8a6653dcb0e17e19e7834",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "4cf427f62e53f64a55254468dddf76e83097c8cc629996a5751cb62c23554533",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_23": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "0b0bbc1d4dc54d364e8201aa9a544a6f71e7869a886d285b1890870f36611277",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-12-23",
+        "text_sha256": "58ebb4b135b00f037b512d012ad47b275315c2425ed9c96093bb2f72d2946714",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "c6a2d3d46a2703b594af869818e13284c7d9f61d0bbc729759647ea142740cf0",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "6719b8e74594e6bc75c08a846caf9dab6f26b8fa75d832d63096dbc83d9e1f10",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_24": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "e05335df589d73d4108098e0396c570c4c7bfdbfb7dbc1517e39c118074944a6",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-07-08",
+        "text_sha256": "1acd30acf8293df67d54c903fb8e91c2d5002e92ac1b239f77790f0d8b59d47d",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-07-09",
+        "valid_to": "2018-12-23",
+        "text_sha256": "861ce82665f7da1042462ebc649468be78e89dffb7c5a05374e7f8d9dc89f7ed",
+        "in_version": "eu-eurlex:32012l0027:2018-07-09"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "bb617618d66259f3d29e3cdadd19d3719cf2b3cefa0b2177afc6b96364a0eefe",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": "2020-12-31",
+        "text_sha256": "c09025a8c3f203034529a4738ea7e2f307f44aaaeb0c21b2f1d36733ecb08c3e",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      },
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": null,
+        "text_sha256": "1765e28f8dc062787d6cfb860b8587493aa9540159e71b98642c3748ff14648a",
+        "in_version": "eu-eurlex:32012l0027:2021-01-01"
+      }
+    ],
+    "art_25": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "9c90e27323b26525d43be44fcf8fa62806eaef15bf7e94051de9f3bc0443e319",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": null,
+        "text_sha256": "263c022e63fcee9d52d8df18b3afa3e7c8f31bb446e64b772f424c46dab7290e",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      }
+    ],
+    "art_26": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "dfa76f3289fb8c20bfda7a0e0edafad7cd4e5abee9ee9855afb8384b031ac8b7",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2020-10-25",
+        "text_sha256": "b6ccc4009111f4fbc7153b9967d53730f82b0ffd1585fda79b11ff0a3aaedc6a",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "58f12943dcdff93d443fa27812f2e248082923a1d94cca71d95ddf7c4316ff47",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_27": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "dd89b9c3f614386f384d491d82a8f70317e0b988ddbfbc9fe5ecac9e4ab1760c",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-07-08",
+        "text_sha256": "67a6203de1d7b8f0e4ade4b7a77ac3718d630289970f488a4a03f5a44ff6d22a",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-07-09",
+        "valid_to": "2019-12-31",
+        "text_sha256": "2f6a74c2d671d697eb6046a127d3fa0b7ad5d1792426f076eacf7233f94c9cf8",
+        "in_version": "eu-eurlex:32012l0027:2018-07-09"
+      },
+      {
+        "valid_from": "2020-01-01",
+        "valid_to": "2020-10-25",
+        "text_sha256": "ce8859b5d0cdc801d1611d4de8b1bf45e1112d58b45489b9dfbbc558098c473f",
+        "in_version": "eu-eurlex:32012l0027:2020-01-01"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "e4f4b9fcbe957f648acc0ebe81836321739a01022860e4c47c550ee1a6f8c671",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_28": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "a41c752ef48cd13f970444d9cfcd29ff5601631c57aa2cb5bae168abbb0c6a00",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2020-10-25",
+        "text_sha256": "65672f30e791bab80663a7de8c9018a1ecef92e66c21b7009f07370eb4ea4e50",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "d9f338881808714f08e1e2ab61ee644c58d7a9e75cd493ee3fb89921ec6ee1d5",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_29": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "ce0392296d5ca2c6014d86785a885984794aef1c175e59acd7366fdc577567c3",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": null,
+        "text_sha256": "3bc31fb8ae89e657fb7aef23104946d3c243101380316bd81ec120a825b01fcd",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "86f879ae8089408c4f0891604f3e07f93aa3f3c76d05af027219f84b20c190e9",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-12-23",
+        "text_sha256": "6b6e61b9693f61fc902de1fed3bb8677603f08ef4d7ee3ed0c1c15dfe6646228",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2019-12-31",
+        "text_sha256": "662ad64efafaeba70a9a34fc91c1a7c5a37c95a57744da19e54a226f60adbb42",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-01-01",
+        "valid_to": "2020-10-25",
+        "text_sha256": "8384974b7f8249d3887a0c2c71a1caa69902f61c6a9dbe5d846ac2c88159c40a",
+        "in_version": "eu-eurlex:32012l0027:2020-01-01"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": "2020-12-31",
+        "text_sha256": "aa7b63d970072ff6345151dc1365c4bba1d978ad28f6ec51047de370d14e53f4",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      },
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": null,
+        "text_sha256": "ec7e2e3887d2352ae08bdd5b312ca4181f2920846931a63dbd9f7feb5fb0b4a8",
+        "in_version": "eu-eurlex:32012l0027:2021-01-01"
+      }
+    ],
+    "art_30": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "4fa87e5eaf5855109385d9f44a9758a366a5b443c011de22247211760ecce1fd",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": null,
+        "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "a308398540987085da29ce5d428bfb4da5d42debd7cabd06a0105e092c469613",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-07-08",
+        "text_sha256": "e7f78ee6a736d3b3665abe973069c24083b691a95fee848476f49403b7896a05",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-07-09",
+        "valid_to": "2018-12-23",
+        "text_sha256": "7c098b068f811e51599d2e246f6624b3855381f75b20f5c1993d229cea680197",
+        "in_version": "eu-eurlex:32012l0027:2018-07-09"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "805717cd9dcdf80db477bec264ca46cc7d7bec8369fbdf864a34f2dc921cfb05",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2020-10-25",
+        "text_sha256": "b8f0469f69ccc02f00ef684c78518884ef6c92c9a51ab362c0f901229b73c815",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "60b5b736c63125a0dc27790a9c4656b67c504b2f502e1234e051d44819c870ab",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "f596ebba1e84011e429f3200072c0146a587763f0bddca604740ce164c209e41",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-07-08",
+        "text_sha256": "2ca52d479ee0da16f7e559c068abacbbe44496f22a56a669380f36e69c4c6b83",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-07-09",
+        "valid_to": "2018-12-23",
+        "text_sha256": "bea012041e38117bca9064151e99da5df165af1391a832ccc259518b5812c2a3",
+        "in_version": "eu-eurlex:32012l0027:2018-07-09"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "6b069596fea654ca187f1208104b143a54287a005f560cdb82dd4c4ab5bc774d",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "e88f43b4b23275f030ba27a3061e9f455dcb9f14329b6e1fe21c60b012c6a538",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "67e7c8e9e4d730ee0cdd0d88661b58c4ad219098a48140b71472a904e599c9c1",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-12-23",
+        "text_sha256": "5fc26a89564db9aab596823bffd03ec755d002f49e89bc391f97505322abd9e6",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "48e8cafe77ab22e02fc0c823c08263de6f38d7bc3ccfa041b14dd3cc77945717",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "0d94a3c87cb0b38f2ca6430776dd5aba2c3ea85e1e53cbeb9284148dc178ad05",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_7a": [
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "dc9641e812a9a0293dfce6e54992d88d36e12023ffbf94068dad10d037d31bc6",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "86764766c04453503f2226e60d8af81a921530e3eb173dfc079e4d3ed216517a",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_7b": [
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "8cc387ded88da961d913da151cc35bb9e2b9241c31d846cc784308a0186df5b8",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "a75451f82f66c29a659e98fd22876e61d578619824e6165f73df1440c1f143d8",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "0c349ff5e160260b398e62a1009159d6742d11dce2199717135a17eb8fac3181",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2020-10-25",
+        "text_sha256": "9c9c24ce058570e5ab88f705d86d24aa47002a0d1b1b61c9a3c609c5cf9b9170",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "32235ded3c80cc5596db7a256b6339bcc8dc975320b22828b24fbf8c541fa06a",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_9": [
+      {
+        "valid_from": "2012-10-25",
+        "valid_to": "2013-06-30",
+        "text_sha256": "b94c74d1c6d858184feb42a556a69fec34048496e4f5da996d86551e70e75daf",
+        "in_version": "eu-eurlex:32012l0027:2012-10-25"
+      },
+      {
+        "valid_from": "2013-07-01",
+        "valid_to": "2018-12-23",
+        "text_sha256": "d80468eae85e254bc748a9d07b8daa1053698508c029520994da1a3e3f00223c",
+        "in_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "9caad8d31a6a50cef1545a3287f63ce5c3d3ae4411ce1583f4340f0f3df712ed",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": "2020-12-31",
+        "text_sha256": "b6c46b22afc08646413312c67e9ecab2b0c810ef70ff7f092fe53460c38cb524",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      },
+      {
+        "valid_from": "2021-01-01",
+        "valid_to": null,
+        "text_sha256": "031947e55efdc9a3a467f03edd340a31cd24fa6193dda3a8bcf35aa5021c98b2",
+        "in_version": "eu-eurlex:32012l0027:2021-01-01"
+      }
+    ],
+    "art_9a": [
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "bfac6f1a234973dfaf33068c127b121cb2dadee4312f89fbc979a2ceb375d995",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "8da5885afce23f8f995ece2a00bccdda4bad2616b9d9db44121ee4a36f66b329",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_9b": [
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "075b3fcc3504a8f8116b242715f32d3710e8df690bec3d5a0a8f51df618fcb6b",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "2b17cddc52e3f9f182da537f53b56cb05908cb3fefdd92d0bf3ee606d017f4d9",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ],
+    "art_9c": [
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2020-10-25",
+        "text_sha256": "4ef151ee9fbe7cdd4085c646df96eecfa3514cd65ca20b5f1bf04435012fa6ba",
+        "in_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "valid_from": "2020-10-26",
+        "valid_to": null,
+        "text_sha256": "f04933160c4b89a4a7fe2f5982b48d8623de2aee9e1fd2509c23c887c496f3ee",
+        "in_version": "eu-eurlex:32012l0027:2020-10-26"
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "inserted",
+      "anchor": "anx_i",
+      "at_version": "eu-eurlex:32012l0027:2013-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_ii",
+      "at_version": "eu-eurlex:32012l0027:2013-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_iii",
+      "at_version": "eu-eurlex:32012l0027:2013-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_iv",
+      "at_version": "eu-eurlex:32012l0027:2013-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_ix",
+      "at_version": "eu-eurlex:32012l0027:2013-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_v",
+      "at_version": "eu-eurlex:32012l0027:2013-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_vi",
+      "at_version": "eu-eurlex:32012l0027:2013-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_vii",
+      "at_version": "eu-eurlex:32012l0027:2013-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_viii",
+      "at_version": "eu-eurlex:32012l0027:2013-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_x",
+      "at_version": "eu-eurlex:32012l0027:2013-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_xi",
+      "at_version": "eu-eurlex:32012l0027:2013-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_xii",
+      "at_version": "eu-eurlex:32012l0027:2013-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_xiii",
+      "at_version": "eu-eurlex:32012l0027:2013-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_xiv",
+      "at_version": "eu-eurlex:32012l0027:2013-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_xv",
+      "at_version": "eu-eurlex:32012l0027:2013-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_4",
+      "at_version": "eu-eurlex:32012l0027:2018-12-24"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_viia",
+      "at_version": "eu-eurlex:32012l0027:2018-12-24"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_10a",
+      "at_version": "eu-eurlex:32012l0027:2018-12-24"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_11a",
+      "at_version": "eu-eurlex:32012l0027:2018-12-24"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_7a",
+      "at_version": "eu-eurlex:32012l0027:2018-12-24"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_7b",
+      "at_version": "eu-eurlex:32012l0027:2018-12-24"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_9a",
+      "at_version": "eu-eurlex:32012l0027:2018-12-24"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_9b",
+      "at_version": "eu-eurlex:32012l0027:2018-12-24"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_9c",
+      "at_version": "eu-eurlex:32012l0027:2018-12-24"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_xiv",
+      "at_version": "eu-eurlex:32012l0027:2021-01-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_i",
+      "at_version": "eu-eurlex:32012l0027:2023-05-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_ii",
+      "at_version": "eu-eurlex:32012l0027:2023-05-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_iii",
+      "at_version": "eu-eurlex:32012l0027:2023-05-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_iv",
+      "at_version": "eu-eurlex:32012l0027:2023-05-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_ix",
+      "at_version": "eu-eurlex:32012l0027:2023-05-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_v",
+      "at_version": "eu-eurlex:32012l0027:2023-05-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_vi",
+      "at_version": "eu-eurlex:32012l0027:2023-05-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_vii",
+      "at_version": "eu-eurlex:32012l0027:2023-05-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_viia",
+      "at_version": "eu-eurlex:32012l0027:2023-05-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_viii",
+      "at_version": "eu-eurlex:32012l0027:2023-05-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_x",
+      "at_version": "eu-eurlex:32012l0027:2023-05-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_xi",
+      "at_version": "eu-eurlex:32012l0027:2023-05-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_xii",
+      "at_version": "eu-eurlex:32012l0027:2023-05-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_xiii",
+      "at_version": "eu-eurlex:32012l0027:2023-05-04"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_xv",
+      "at_version": "eu-eurlex:32012l0027:2023-05-04"
+    }
+  ],
+  "anchors_by_language": {
+    "en": {
+      "anx_i": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "d9e239ccdc41780c69b06aa43573639b9107b418578bdc6d5bd0407666234af4",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "2f73d4393c3518d99201a9528cc138f8527c97bedb3a826a8d95b6ca550cc58f",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-12-31",
+          "text_sha256": "b910ba5e305f4a60c33902035392e8c0228f22c049343f4c658f448d2a65edee",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-12-31",
+          "text_sha256": "d94538f1c986dbf66af40149216b9638cd1f38847b6b50f0c3e7704fb8dab262",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": "2023-05-03",
+          "text_sha256": "3113ec00c085d2956a429a9d28e3c0f23835757c0f694c1536d605fb9e4dcaac",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "anx_ii": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2023-05-03",
+          "text_sha256": "c56ee068fb943bfc7e2fa5d60df9efcb319deb5db08b8b0faf8669338e0650e0",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "anx_iii": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "8103e53110befad6bbf04734588c7401c57e6f7cdacce24bb3d49f047713b5de",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "68a296d3dc36c843b8209186b4b9fc861539d169a86755bbbe63aa8cdf596344",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-12-31",
+          "text_sha256": "d399c56376bdde9e29a5d53e93618fd770958ca7ef4af8e0522ac766385798d1",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-12-31",
+          "text_sha256": "2bfed0008e1a7d005af7bb66a4110f5d61e0d892ba7f46b3096e04341a3cb20b",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": "2023-05-03",
+          "text_sha256": "8a9f705b76750775249fa4e8f2fd930402ac7786bb7a9ba5aadbd668f51e1adf",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "anx_iv": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "ed4fdb8a185298ac5d533ef81011d34e573ae8c2007697b86e041a4970bb29fa",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "a38068719e2ba7e7f42d36284726fe17ac43525af888a72bfb3443510612ea0a",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-12-31",
+          "text_sha256": "0f382a3515f2c4298667a65d3abdd1bde84771f8e89b318918317e52aa3c5a26",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": "2023-05-03",
+          "text_sha256": "587b45605b9c6941a0f8f891772b5ca5cc816817d7f14dfd7e774e5273faefcf",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "anx_ix": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "81c59e966f27fd36ac00e97adc7030636bb7229f6b6e5e14e37b9bb3312d2919",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "f4c2a6722cb7969bedf18b7e9d8c45175f0c254c009bd8afd8092824a4c40be3",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-06-11",
+          "text_sha256": "9ded35d2bd7bea4de41d1781321587cadbcf1856a6adfc9b6109287f455d4a88",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2019-06-12",
+          "valid_to": "2023-05-03",
+          "text_sha256": "c3e6360b0571c0712d5be60b86e5aa8616181f37a864004b6c737d4e534d64a3",
+          "in_version": "eu-eurlex:32012l0027:2019-06-12"
+        }
+      ],
+      "anx_v": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "67d4a7016e234e5bb0c3bf285d5bfe54a703fb99feec162b149d00a6a3ad9857",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "40a8b1ec3de576389fa10ab1dffe08f9a69debb878c3f8bf6795bc7b712861fc",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-12-31",
+          "text_sha256": "c30a74eb2420c028dda54fa2fc6360e593fd53d85801cdbf76210e2cba231564",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": "2023-05-03",
+          "text_sha256": "8466434eef73dc5e887f2efd6e9474d04cc5d07ff077a9226bbe4215b7aaf7b3",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "anx_vi": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2023-05-03",
+          "text_sha256": "6bc21de9e29d9a7076c899b1ca0361c890e379b7b1c6f3150735b35102859546",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "anx_vii": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "786acb38a4d3cae6fda91c70ed2788fb1646fd46b1ebe291c1cd5697cf68b6fc",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-12-31",
+          "text_sha256": "56d05b8a302a62d4284347c0894c5362cb2d7b540d255b18145afb70a5fa239b",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": "2023-05-03",
+          "text_sha256": "7698ad34eae4aaf66f3b7ea4706f827de328d1114ce59f10dd3bd951cc74439b",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "anx_viia": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-05-03",
+          "text_sha256": "53d43ec31e42f1383ee8c66b3205a93d9288d3b2e8f950753e821a5f92f2cd99",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        }
+      ],
+      "anx_viii": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2019-06-11",
+          "text_sha256": "5f25e1fa28d9e842a5dbdf138a1dbc28567a203947dba8d6c546858680cb135e",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2019-06-12",
+          "valid_to": "2020-12-31",
+          "text_sha256": "2c413c1ef0f2d666d1ec8b87671e8e96e84162b73b4999aa2a406fdefd00f073",
+          "in_version": "eu-eurlex:32012l0027:2019-06-12"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": "2023-05-03",
+          "text_sha256": "2dda80f6370002612ab1fc95eac828abcc5f775103505681a3bd20fae3472119",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "anx_x": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2019-12-31",
+          "text_sha256": "d863d5fb893ffa19a1bb31ba91d5149d499afaeb3a9476af115e452d2f7e04d9",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2023-05-03",
+          "text_sha256": "827526abc1773997a7681f37b2a1ad67777b689f9d8068971196aded04401844",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        }
+      ],
+      "anx_xi": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2023-05-03",
+          "text_sha256": "e783c5057a9aa478d2a8739008a16e4da747cfb1d704a671ea5ea14f1cbcd876",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "anx_xii": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "561e39dfab34cb6a186a826564276cceaec220dd2e3f18c12df11fb1feedb81f",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-12-31",
+          "text_sha256": "8a48245e721706a335e0ed8f27d582a348b59413b1d78c3209ad846d930178e8",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2023-05-03",
+          "text_sha256": "4b799df20bb260b13368f2b5804e25a8cc8b688c6377b41508598be426a4b2b7",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        }
+      ],
+      "anx_xiii": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2023-05-03",
+          "text_sha256": "0db78412edb23c51c38fee06b61a2deff9b0c20f666ef83637b21579cb11f376",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "anx_xiv": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "6941b2284f455d94be513447d9cec6b30b9a328e4810b66a370a7d1f631dfaf5",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "2fae7980fd4ed4f82617e004b122dd2c8a4048330d8074a6114583dcfd7d972b",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-06-11",
+          "text_sha256": "6b9763d59c35b4665189308a5c8eb55b7331c1263a9b32c2e0082b887af9febd",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2019-06-12",
+          "valid_to": "2019-12-31",
+          "text_sha256": "fe82c6cab313ce08e31541b628327cf363659a87c35c4626babffc60c8751c5b",
+          "in_version": "eu-eurlex:32012l0027:2019-06-12"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-12-31",
+          "text_sha256": "d8ca998d2ba19e2d628744e7627a863b3cb6ae03ea08dbd183a9bcae62dba69c",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        }
+      ],
+      "anx_xv": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "0801c9adefbde822b3cf5fffa235c45bbea9dae903be15762104537db7d788bc",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "1dc1d2256810ac3bc13f4c2a9ed77f8f0ee54d3c5ebdaaff3e5383b13742d34c",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-06-11",
+          "text_sha256": "580c1f27adba9b8ce85eef7d611461b958662b668b3b15b26917f80dfd5bf00b",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2019-06-12",
+          "valid_to": "2020-12-31",
+          "text_sha256": "f1b24238ae6c70fa0720363e92503445ec1b9e0cada214ddc0f646b78b49e976",
+          "in_version": "eu-eurlex:32012l0027:2019-06-12"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": "2023-05-03",
+          "text_sha256": "d64c62a1629b2bb7cddda9a72372ab52cf0ac8729e1e449dc499a93b18b914ef",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "art_1": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "bf4e6f7a0a1a53269fe43a4b0c2dd7548a5572fb457562b39c876eecc477df88",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "6beb1ff75a8207fdb45eee86b6432eed4b9ecd1e6e214d197ccee778cefc7080",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "7dcb4aca71ce5f216c42ab9421212bedd48b33432c69d4376d7144ff59be6c8c",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "21d5f40907f7fd5afc35de5c06710c39d968a73d6ae113560beec45a7f2fe043",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "9c098785d7c84a219064c5c5cb9ed9a7494f0080ac25f85f5335d3c13393f412",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "f334d0aa40df2dedf8766013d899eace744dc56eab3b04f13ef1e83212faec7d",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "9cb00fe47e3e5a591707b1dd94e7ad0bef0d7c04cc1f502d5fc4adf62d226a96",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": "2020-12-31",
+          "text_sha256": "b4480e6f78d88543e1bb6eeea2a7a55ae216ab2725eff59acf31702d16e7cb4b",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "510fcd7346b64a16a0d442afb4c64517c4d4ee9535df7fd5fe99129edfbf83b3",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "art_10a": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "1bf0c923dd76ce738302ce6205e7450873de8d7f9f26fce4902b095dd22108b4",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "2640c4e6b09eb73164feacd2bb10d2787c8ea4ea3be5c58aafa49ab3c73d82d9",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "cb4b7ecd109cfc82491e13f95ee6fe85760bb9fbdf931c6bb4272ceda15e0e0d",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "a7e323d4116ce797253d43d1b47a81787796393327663980ebdcaa7fc8dc934d",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": null,
+          "text_sha256": "28c97bc4749f2f3c4837388497c40abdb32ded9e6e518abc197556b8c9fbd305",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        }
+      ],
+      "art_11a": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "49c1ebfaf131fadeb69267069a3b1f6480e5b8d03f73f2fc5ef4249021098cf9",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "032ed2cb601f2efcf2d40045d1cd06748263fcdb7aeaf60ee957be954322b0b2",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "a25c4cc2fba39d4e8847415bf3932b63bc5ca137a593fce93074d253c9007833",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2019-12-31",
+          "text_sha256": "18ad25d9e4a8a74aa62fe1192270166343d6adf006cb02c7a0a25942e8b6dbdc",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "9b5d1741d38f0465ea0bf41278f85b45fbc7ee4ccd3625cabfe3ea083c28fa2b",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "4f65f2f4d13420cbfddb2390d50034e45118448d206a35d1b0bd24be696700f8",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "ba7250ae115470ea5a81d0f5ef137e927cb610cdaaff4e5cc7fcd6342a46e19e",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "c1ee634e742f601ddc92e5e38ebf5cf7f3f99a400526712d7c8cec2486927beb",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": "2020-12-31",
+          "text_sha256": "a09bedb3e5824a9a26d93473e711866c1caa4b44956b47505eb3ba86ff3d75af",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "8e6f530d680b5c6bb7ac9c37747cbcb5dd2eca9bf86d293f99d466b3ec054441",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "51aa35caf8435df9d9ad1534bc60bf573163c23ac5432af461591a508e108b6c",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "d219257276285fa8751297928de9f227ac98956beb683ba7eb2b5339fa4095dd",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "551e378f624b3e6b3fc30966f2c3c264c06017f572ae6981621f12d63061c92c",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "5a06b11860fa51f9cd60f091f39b2fe4036d49a6eb9c7c746e0d688341e1ce7d",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "974c089712ac7f3f0746bb9dcac08d50faa3e93e744f486727e981fc9c1b498f",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "fcef6d2ed4faed454b55e68b34328c75e33b62482f071af4e8cebaafa58460e3",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "934f920b39e55a1aa6f85212cf866eaf63c4c7c260fbf9c299ee60a05ad4d3d5",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "2a8abc94ceea7dc56377c3758bd51bd375909f037a24d83391570e3961edfc57",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-12-31",
+          "text_sha256": "75f888d3fd402b0aa55063e87a11cf3ae23788d7db5c74c7917aa353c277d0ca",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "ff21fff5b130fe2a2a3595fc2cb6dd85e967f229998729b8cdfc3fbdb124feac",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": "2020-12-31",
+          "text_sha256": "dd8f2e50af2e374fae7c81a040505eec22bab155c09c83c90124375bb9e266ee",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": "2023-05-03",
+          "text_sha256": "6788ce3cfb2428f303b9128bb6d575bdedd33c1e7b165f97d7b29014343e9774",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        },
+        {
+          "valid_from": "2023-05-04",
+          "valid_to": null,
+          "text_sha256": "e7e633f4b2797ab5b9e7ef4d99367a1831ec5fd2598294c32d1a0c1d3aad3c79",
+          "in_version": "eu-eurlex:32012l0027:2023-05-04"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "a4dce33c106b5ec2fad5f8c6d01b0d6922957e587ab4678257068e05f043a4a3",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "a9b57270ad0eb99e1fa9ec54eb9855e6e437f15d6a2882be67c2716e6d269ab0",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "21f5cdb0d6995d9710d982d1682716609104b248e142fbb2252a267b8c3d9705",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_17": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "cd0de792c34d4650731ccd26f61bf2d3caa2368879ed8ca71f60f666ce5c91e2",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "3c954b7eaf5e9007c0ef8c3c711d346081ae48fd80404f7ff21141b09bc27d84",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "51a415743e5ac08ba7727d60694a4cfc9773b7f8e45064a426721a57bc354457",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_18": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "3f49b345986ef9da9ab2a38624db02bc9be096db170b1a5e208218e433a07d40",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "3b8b5dd7945d5736fb31b43fad060d717d8e6a17c00654f9849fc24e3b3e5b94",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-12-31",
+          "text_sha256": "35181463b241f9ad6d802c99abe1527506d0d1404e25560986aad24913a9cc93",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "053985385934bdf897cd3269d1cd3d6368c3049a789f7a9bc7061c162635511b",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "cbb5cfc6a04f02fd47097870dcb68443345b81c26fe7bb86e80b08dd38617d97",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_19": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "37d781e7619764a5dfb9f0c174df8d3f2e25a257965f609ffafd6e1184ea44b5",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "f80cf6c36ca959a58cebb7647dfb4ad84f5e5d60d7a6bed5ed62047cdac53c68",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "f64ead515454766efa9ecceb0b61f340b8bbd0e9d64d3bae5093b4d7ab3f4b32",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "a402fb9fbe601fcd7c50574628c64ecb1b74192895642eab1b5532863b3bc9c2",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "5e34a67f3acafc64f04640ace5ea1e4bf8ff0f214a6a21e40209b54fe06218cf",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": null,
+          "text_sha256": "73fbffd7c1fd6261132c44399dfca89fed12a5a84bce4dbe76af75d11d113e5b",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        }
+      ],
+      "art_20": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "4f5688fbf0ead1cf37bbe5c8552f07445048810581aae28851b7ae2e1463a132",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "abce9629447e5c1444b4c2fd52e5521359564ec99b18dbd62f8412b4b594bfe4",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-12-31",
+          "text_sha256": "c3604c860704b137a7bb1ca64e319b4f4e56a2bb599ef64593165007e1039638",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "58342e464757c32211bdbc60802768a6fb7897b1a8fea28b1f67b23d314be2e8",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "d3e12b5eef7ffd74db0819dda58b6d28f39dfde321f983211a108f51815febe7",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_21": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "f76c0535d9262078c2fcaefceb9e94b9a23c05f98b1d1de37f982547b18a4ab4",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "141442738e3269e8ba2f8711dbe8a3ef6bc3ea9a5e8352b60c8da818a0cc7504",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "art_22": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "b4b509c37ad0885428c5d2c9d7975e90117e1c9dc4c6b52312b5dd721cce9f6f",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "a75727da9396300c50828fba9dbda9017a80ae0961e4566207596cc30a720ff5",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "d8d42d1b5c9eaff5f9c2fb8f97e1dbf2405479220ec8a6653dcb0e17e19e7834",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "4cf427f62e53f64a55254468dddf76e83097c8cc629996a5751cb62c23554533",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_23": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "0b0bbc1d4dc54d364e8201aa9a544a6f71e7869a886d285b1890870f36611277",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "58ebb4b135b00f037b512d012ad47b275315c2425ed9c96093bb2f72d2946714",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "c6a2d3d46a2703b594af869818e13284c7d9f61d0bbc729759647ea142740cf0",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "6719b8e74594e6bc75c08a846caf9dab6f26b8fa75d832d63096dbc83d9e1f10",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_24": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "e05335df589d73d4108098e0396c570c4c7bfdbfb7dbc1517e39c118074944a6",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "1acd30acf8293df67d54c903fb8e91c2d5002e92ac1b239f77790f0d8b59d47d",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "861ce82665f7da1042462ebc649468be78e89dffb7c5a05374e7f8d9dc89f7ed",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "bb617618d66259f3d29e3cdadd19d3719cf2b3cefa0b2177afc6b96364a0eefe",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": "2020-12-31",
+          "text_sha256": "c09025a8c3f203034529a4738ea7e2f307f44aaaeb0c21b2f1d36733ecb08c3e",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "1765e28f8dc062787d6cfb860b8587493aa9540159e71b98642c3748ff14648a",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "art_25": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "9c90e27323b26525d43be44fcf8fa62806eaef15bf7e94051de9f3bc0443e319",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "263c022e63fcee9d52d8df18b3afa3e7c8f31bb446e64b772f424c46dab7290e",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "art_26": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "dfa76f3289fb8c20bfda7a0e0edafad7cd4e5abee9ee9855afb8384b031ac8b7",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "b6ccc4009111f4fbc7153b9967d53730f82b0ffd1585fda79b11ff0a3aaedc6a",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "58f12943dcdff93d443fa27812f2e248082923a1d94cca71d95ddf7c4316ff47",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_27": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "dd89b9c3f614386f384d491d82a8f70317e0b988ddbfbc9fe5ecac9e4ab1760c",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "67a6203de1d7b8f0e4ade4b7a77ac3718d630289970f488a4a03f5a44ff6d22a",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2019-12-31",
+          "text_sha256": "2f6a74c2d671d697eb6046a127d3fa0b7ad5d1792426f076eacf7233f94c9cf8",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "ce8859b5d0cdc801d1611d4de8b1bf45e1112d58b45489b9dfbbc558098c473f",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "e4f4b9fcbe957f648acc0ebe81836321739a01022860e4c47c550ee1a6f8c671",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_28": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "a41c752ef48cd13f970444d9cfcd29ff5601631c57aa2cb5bae168abbb0c6a00",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "65672f30e791bab80663a7de8c9018a1ecef92e66c21b7009f07370eb4ea4e50",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "d9f338881808714f08e1e2ab61ee644c58d7a9e75cd493ee3fb89921ec6ee1d5",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_29": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "ce0392296d5ca2c6014d86785a885984794aef1c175e59acd7366fdc577567c3",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "3bc31fb8ae89e657fb7aef23104946d3c243101380316bd81ec120a825b01fcd",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "86f879ae8089408c4f0891604f3e07f93aa3f3c76d05af027219f84b20c190e9",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "6b6e61b9693f61fc902de1fed3bb8677603f08ef4d7ee3ed0c1c15dfe6646228",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-12-31",
+          "text_sha256": "662ad64efafaeba70a9a34fc91c1a7c5a37c95a57744da19e54a226f60adbb42",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "8384974b7f8249d3887a0c2c71a1caa69902f61c6a9dbe5d846ac2c88159c40a",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": "2020-12-31",
+          "text_sha256": "aa7b63d970072ff6345151dc1365c4bba1d978ad28f6ec51047de370d14e53f4",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "ec7e2e3887d2352ae08bdd5b312ca4181f2920846931a63dbd9f7feb5fb0b4a8",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "art_30": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "4fa87e5eaf5855109385d9f44a9758a366a5b443c011de22247211760ecce1fd",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "a308398540987085da29ce5d428bfb4da5d42debd7cabd06a0105e092c469613",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "e7f78ee6a736d3b3665abe973069c24083b691a95fee848476f49403b7896a05",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "7c098b068f811e51599d2e246f6624b3855381f75b20f5c1993d229cea680197",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "805717cd9dcdf80db477bec264ca46cc7d7bec8369fbdf864a34f2dc921cfb05",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "b8f0469f69ccc02f00ef684c78518884ef6c92c9a51ab362c0f901229b73c815",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "60b5b736c63125a0dc27790a9c4656b67c504b2f502e1234e051d44819c870ab",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "f596ebba1e84011e429f3200072c0146a587763f0bddca604740ce164c209e41",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "2ca52d479ee0da16f7e559c068abacbbe44496f22a56a669380f36e69c4c6b83",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "bea012041e38117bca9064151e99da5df165af1391a832ccc259518b5812c2a3",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "6b069596fea654ca187f1208104b143a54287a005f560cdb82dd4c4ab5bc774d",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "e88f43b4b23275f030ba27a3061e9f455dcb9f14329b6e1fe21c60b012c6a538",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "67e7c8e9e4d730ee0cdd0d88661b58c4ad219098a48140b71472a904e599c9c1",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "5fc26a89564db9aab596823bffd03ec755d002f49e89bc391f97505322abd9e6",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "48e8cafe77ab22e02fc0c823c08263de6f38d7bc3ccfa041b14dd3cc77945717",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "0d94a3c87cb0b38f2ca6430776dd5aba2c3ea85e1e53cbeb9284148dc178ad05",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_7a": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "dc9641e812a9a0293dfce6e54992d88d36e12023ffbf94068dad10d037d31bc6",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "86764766c04453503f2226e60d8af81a921530e3eb173dfc079e4d3ed216517a",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_7b": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "8cc387ded88da961d913da151cc35bb9e2b9241c31d846cc784308a0186df5b8",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "a75451f82f66c29a659e98fd22876e61d578619824e6165f73df1440c1f143d8",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "0c349ff5e160260b398e62a1009159d6742d11dce2199717135a17eb8fac3181",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "9c9c24ce058570e5ab88f705d86d24aa47002a0d1b1b61c9a3c609c5cf9b9170",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "32235ded3c80cc5596db7a256b6339bcc8dc975320b22828b24fbf8c541fa06a",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "b94c74d1c6d858184feb42a556a69fec34048496e4f5da996d86551e70e75daf",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "d80468eae85e254bc748a9d07b8daa1053698508c029520994da1a3e3f00223c",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "9caad8d31a6a50cef1545a3287f63ce5c3d3ae4411ce1583f4340f0f3df712ed",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": "2020-12-31",
+          "text_sha256": "b6c46b22afc08646413312c67e9ecab2b0c810ef70ff7f092fe53460c38cb524",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "031947e55efdc9a3a467f03edd340a31cd24fa6193dda3a8bcf35aa5021c98b2",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "art_9a": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "bfac6f1a234973dfaf33068c127b121cb2dadee4312f89fbc979a2ceb375d995",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "8da5885afce23f8f995ece2a00bccdda4bad2616b9d9db44121ee4a36f66b329",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_9b": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "075b3fcc3504a8f8116b242715f32d3710e8df690bec3d5a0a8f51df618fcb6b",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "2b17cddc52e3f9f182da537f53b56cb05908cb3fefdd92d0bf3ee606d017f4d9",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_9c": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "4ef151ee9fbe7cdd4085c646df96eecfa3514cd65ca20b5f1bf04435012fa6ba",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "f04933160c4b89a4a7fe2f5982b48d8623de2aee9e1fd2509c23c887c496f3ee",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ]
+    },
+    "fr": {
+      "annexe_i": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "4761e05c18c16231980ae06334b6b70994af814a84b96b0988e66b8d1a33d6ce",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "41cd0b5813570121c8167fc664ae4522920371d66549e08a63bf43cbb96c3085",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-12-31",
+          "text_sha256": "9a1da44bd2d55779156ad0736ab9fc0af23ac9f04efdbe86f03633563d84a3ba",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-12-31",
+          "text_sha256": "214e851afce37a6516514d45f43d68238fd893a4253cbbc3b174bf87debb3e71",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "88d1779427093adf79213112fc66f80daedee726964095918229eb2509251a51",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "annexe_ii": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "865e432a9fae3727540ec29b9a0a102af231c0f297f63cdbb1af567aa7573a66",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "annexe_iii": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "91207e7a7290cd12b53ef4ae49b8879f75c962fd9c5cb01513580de7c6726030",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "8d5ad27b723d9f1eb9675b8f44b3bbfd37f30c9f568d52b7b52276292f8a94be",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-12-31",
+          "text_sha256": "4ea7438694e09a36d66a431b2b8bac99e0f2ed3273987e0ce8a97c751c42bf4b",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-12-31",
+          "text_sha256": "1fbfdaec172ab880f59f4cb227d41383006b3c351b11468bacceb234c0eec2d5",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "667a5c7650361ce64f9a363316f0a16d6bbea4e8ea1297cfe0141477a7ddbdad",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "annexe_iv": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "fb2a1786159de357db79443fbbde90afa4a266e5a7d3bd6c694ca1ef392a6aeb",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "bc927c0d3fa487f287efaad791dc4f21d30a4f52298ea746e4fef82ca3077027",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-12-31",
+          "text_sha256": "d631851ed8bd75ee060d76eb2ec330f6583001e6c0606f8cc23a1b47fea5c4d0",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": "2023-05-03",
+          "text_sha256": "3094b8fd15e975c23d56a44611c9803d9edac76c7a760b9db9860b2b6406cad6",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        },
+        {
+          "valid_from": "2023-05-04",
+          "valid_to": null,
+          "text_sha256": "4651bef974a825e5add5430d7a3f4323f4be86371fb5577b457e63271bfe72d2",
+          "in_version": "eu-eurlex:32012l0027:2023-05-04"
+        }
+      ],
+      "annexe_ix": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "7a509ad2727f0cc23866a86246eb6a67d42601a2aaed646a439a7414459e0099",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "9896ad31187147a0f05b85325b8628ba41111066ab7f106e80627469732ae2ae",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-06-11",
+          "text_sha256": "8abf381e89cd55e51d1f9b9f735bb74e79577ab31723134576e57982e6210901",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2019-06-12",
+          "valid_to": null,
+          "text_sha256": "a7c3ef50002fb69550e055c3e44608c2099a21171337af3128caa75e66d82719",
+          "in_version": "eu-eurlex:32012l0027:2019-06-12"
+        }
+      ],
+      "annexe_v": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "9145b415f1595ce4c6ccef513b726dce9d3f1454703616c1a942beea1784532a",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "d71f92d8d6922e1a67d6ae8041fcacae670a438b317251a73f40d7100b2fd587",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-12-31",
+          "text_sha256": "f408407c3e4a23d05833d76cfeaacf819bc57ff065c290ee8f450a3fa7dda0d6",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "38e82024e3aa6cbe1f51321da9229a7e5523c11c1740ee1bb62648489db51ba5",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "annexe_vi": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "b7b38504aa0fe27b50cb79b24b0de1eadb7e77a1208ffa3dc197e476dc80e8a1",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "annexe_vii": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "5716f253a7d293d46c64ca84a9a17d74b60760f900f9006b587d082f3c77bbf9",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-12-31",
+          "text_sha256": "00937ff6509bea10f0cff9ee42fb3bcd991c9707c8ea6aaf3d2fb6b60caf727c",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "4798696ae7d6aeb1ecf46f2d9f3c6e64ad816c43dca889f8ac4af3ee0be5e1f7",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "annexe_vii_bis": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": null,
+          "text_sha256": "1086740fead7d8c01103b14d621247caa4baf2ef4d84caea06b67fde7cce2bf4",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        }
+      ],
+      "annexe_viii": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2019-06-11",
+          "text_sha256": "0e6cef3104e9295fe8f2ee3288e4d179e434e00b66ee55990699cd2d6be23a2d",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2019-06-12",
+          "valid_to": "2020-12-31",
+          "text_sha256": "e5dd8940c29d92e5a29674bcc5dc38710b7b48b27ba214c5cb58634c5591be65",
+          "in_version": "eu-eurlex:32012l0027:2019-06-12"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "ef2ea6d54a32b34126d5c2a235c0bcb552e9d0ebde19d7146bf864bc86a3d113",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "annexe_x": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2019-12-31",
+          "text_sha256": "5abfcb2293b32306f159b49652515ac61c15dceb3bd9aa7e41aa57049ffb0050",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": null,
+          "text_sha256": "b809e86c99981eed2fa357eee74d9496449ab7327f50124671e01c9b11cf5135",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        }
+      ],
+      "annexe_xi": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "f77f01c015061116fb9d26ee5d0445b354c0fb5894a881e4cbbfad4c04a937a3",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "annexe_xii": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "ac99290d8ada95b0c7d7f157b0bf8d9cb84c5d3931ecfce3abcf83961b07e1af",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-12-31",
+          "text_sha256": "c621c2db40e22128f242531bdaf454b85bd08f002deec8cf38fd2309401d7c79",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": null,
+          "text_sha256": "dea58d721771b9273790e2b825ad39b34d1578f80f95637717374194a062c4a5",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        }
+      ],
+      "annexe_xiii": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "0a89db92d32b69f74e4044f6dfef5286e2b4f53d269e530e1b35e3f3b0eaa82c",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "annexe_xiv": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "53f9708f16ec6d53332170fda8f8b1bd93b4d3470ebf8c43f3320fdd86d53786",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "f66cb6063ef2ac4d3e76d46f14fe5d0f2d26ced28023ec49763797260181ed5c",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-06-11",
+          "text_sha256": "edbd56c0cc32ea9e620cec3b6fb242f00a2839c5dd94dba7fcfcdb1c4b87fbe6",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2019-06-12",
+          "valid_to": "2019-12-31",
+          "text_sha256": "abd9b7abf0925e77c506ec992ef3037811a19d8ffda594385dc8696af933f6a1",
+          "in_version": "eu-eurlex:32012l0027:2019-06-12"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-12-31",
+          "text_sha256": "94972261ea5ca7d9dc298b1b447ed7260db58b470de62a010b8f0b19475e1c79",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        }
+      ],
+      "annexe_xv": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "99305d5b1fa409d860e021958ca634a40b55afc831d41c5ffcbad43ba5fb7e29",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "e7b07a256cdf5b8884143a833a3f0466d85496fc522c1b78131842930469d709",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-06-11",
+          "text_sha256": "e35df9100718e83f2188896c0da4b60bbcc4da830550ae54a7d7b9f9df91c21a",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2019-06-12",
+          "valid_to": "2020-12-31",
+          "text_sha256": "829f8e21beb5506a067038b923f706420297a3d1219f56b65497251d1f48059f",
+          "in_version": "eu-eurlex:32012l0027:2019-06-12"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "ed86bbea5f1416a9ddfd52e58824fe85797e6e6952ab708530c3d404ea3d621c",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "art_1": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "14b93172c5bc669e226a6a2b24a361b80aca1324cbf150360344904e25a7b15e",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "876f8de3b77c8582dbb718beab625591c2cbd93654147985d6277c0d2ee54cb2",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "cae4d98ec4e34d64109c9f4f94204d9d9931b8f763a968ced12c1513783a3621",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "c24e7bf4ee1ed740668722d4c07dab44147a848e7e276a49ea4893e2c8fb8bec",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": "2020-12-31",
+          "text_sha256": "4a85892b29e9320f1d27572e24b837716d0271b6caeb29c1ba757b8d3c883ad2",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "00db663157851d92f6da30364a67b45b933464456359710c9e48f53a6f615bbb",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "art_10_bis": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "f638c249aadfb46ef5e508dd11bd75651a3a632aa46ff7a5b5ece6282df4061f",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "0f9bed86068892c4e2787f51721a8f4eed42ea59e0fc8efe99e7e033dbc0dfab",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "d520a08e6be9ca1862e4ba740a8dfbe79459012673a0c6cdcaa00f7e6148be84",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "ec62ef43e1697febeba1297081387357af8678e4aeeb19db59cfa5abba6130a1",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": null,
+          "text_sha256": "816655043a86837e5deb3cf801c2aaeb0bed2800532dfd56be6935937bce4a54",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        }
+      ],
+      "art_11_bis": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "534e91dd2be6ef52d9785692226780f72af29a554e654dc057eecf12283d8a7a",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "aad602540ced8b03dc2a82fca0c9fed6cfcb208cb888969b6d569e60757064d7",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "99dc8193698ce224c8220c0bd99b07c09734496aa3ffdb2b2b69a1dee910a6b0",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2019-12-31",
+          "text_sha256": "01c34c74e8cc5ce333f25a7dbc14c0a0ad26d2f7fe54c65df9a664293f0d6923",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "0f3439137c9e1c5779e5ddd013c769d0c32902f5c5feb51a5e5e80140bbcf5c8",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "a9d9ce8bf9034a271aeef3c1da279bd58317ba6a91393d9b270e42ced9b14365",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "ddadb02e27a13accd970743ca68c9298f472b5d5eaeabb0688b2e303e182a3a4",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "487b1a39cb7422f96b43654df84d0bf1f831a4f6b4080d31fa777d84321a38a2",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": "2020-12-31",
+          "text_sha256": "d65a7433ba6e1fac01062ee115fe3aff160dc7f829ec2baf05a391769c42c9f7",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "9b06fa33dae2a95d9a0280c8b1f0992b2d5b17df96d6bcfe120f42db8b8f2e6f",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "dd54a513a8f98111992ef5eafa034e83a799c5449d763ebaa69b6cfe4990e3fe",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "86e6997a2e4eb7c419614b274c2afeef25285b20fe4135a9ff50383572ccfc16",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "67c8748f6af268ea1d606c14b3732bd8920003adc8cd1c1de3a1c5060e0af499",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "421a289d786a244824afc26fc8471b73d5f3c603c4122a9fde82675663d6a960",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "80b6da41ba232ef274dc11647a9d5a04fcf5e7f78b18ba8d02c540c1116d9673",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "f97a390de797b06a27023b24eec4bcace7226f69d826d40606333027ecbd2405",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "fcbcd9c95cbbc1b4741b8882b7c040358d9238ba8b7a2a59847555c2f1489575",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "27634673423c8e9f274bdd22749a3826954ae1f646875632cb2cd646f3c91c14",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-12-31",
+          "text_sha256": "366608cd9ed5f4876194fd08c5e1b139a33fcd3e65e6a99e3d8e39562306e7e1",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "e16dcf86f7111041b6e4d643bb8adc475a20c5215d89d96da5ffb2a3eeb82f5b",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": "2020-12-31",
+          "text_sha256": "5758aeea67d63dd58d436b5bdd9ef15658df36505a55cef95c5cafa342f3668d",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "00cda11b4c9eb4a03c88dd3ae10bdb442e655e1e0b691d1ff021dc8e9ba981bd",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "a23d217c595d0605f43e7c84a3d8cd2638574d0daca96a2c16ef68b26fd4964d",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "4c4ad41e9fa092aabe2889a57950dcda5863ddf5a207800f54e91b83a8782fb4",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "907b5f991ef3a98b88f94ebbc2af46dabad55217cb55fb23ba8473f4c159e504",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_17": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "47d10aca32badeed8b3ba407ef859a63e2d1c7cd32ad4f7ae4c8063cab99f7f8",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "1cd32dc1f824e2a7b944858f1ec5d412e93dde84e9441858ace317a04ae4809b",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "48e2c7bd89a7596e6195d89c72f71b4418675577320a2305a55b39b4f75be725",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_18": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "dfd5ba16200a79622058edb7a0a6fa3587880b239f4aa53a98f2338d9d060056",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "77e91ed381a6e99f3caf0b010cdfeab900af21fbce16138e349ec8ce9019b684",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-12-31",
+          "text_sha256": "ae6ac686156cce9875357b31558d0d0b8fe8024559ef68dae2d51e37ccf34463",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "f8986dc98bac903bb2c4b4e314a1672ad13f6877cac49d6ad099304cd2d1794b",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "52b1cd829fbdd3f63f3a4afba94251b1560c6cf8c6f3851915985c54dbf518af",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_19": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "98f20194aa20b1f1ce03952f3728c8626f6482e967a17f255c296db265c97fa1",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "ec392bf63d776a2610e00d667f4931d745a7e32dfb8a11a3aa246864b7eb0e86",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "44d3ed756167c120b7a381578cdb0a0dfbe948f11a8dabe6f56df1ac7fdd0f94",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "00910e3e3d45db5c68bee8dc4d25d2ee91596dfefe1550bc3901f10a93ee1a37",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "bda15c774f06aa47c9da3919fcfe139512d20b405ba0f7821acf34755f9be851",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": null,
+          "text_sha256": "8a452dfcef6d7d2d48683c16f9ccfdbdf36e55a33673d55325fe6e1ccd312ecc",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        }
+      ],
+      "art_20": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "2c1e847d6b7931ca3b341787830acd80a825ab64c007ce1995f4995588af20ef",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "e5ea3ec46a503e148e86362475dfda064db49238245465f67f6f821d25c437a6",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-12-31",
+          "text_sha256": "d969f626b63e9524d3a040702f77d310845696ab9e8323d66e2ac7ddb59e3b14",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "5b3424ededa2a64fcfdbd7a2c6b16d75778e69ec6af2daab215e28390cc4d285",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "562abd24996eaecf186ee5f9d5ded90bd6eee7a585a57bd9adb621e10b7e75a0",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_21": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "6334d41d413eeb0328ce2c89406b83164ad621dc9401d1dbeab64acbc96a9875",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "e7855ec87eb59b9add61759384652e182ebd3daebd138d0eedfd56f6120e8dc8",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "art_22": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "f68f8fd30846c8f2c214f183ae252d4553fb64190fa25537ff068934b075f934",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "f454d1b76f0a4fb040dfaf2f64ef3960a16cc62addd606698e1928620562b65a",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "7ead6e813e519263aa431602181dd921e8710a248a71cae44479a63385b22d0e",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "174929c712aa121d51b91ed571025ce555d1aa958204b0d1ec5a9f92de6e66d2",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_23": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "ae859cead8a90c6c87f81d35676c3921affd1e4582a70c20897c65dc16d09bf2",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "43a48f49ff20a6cd5dc65b550c1c55da8a6af84d7425caa55912fe0048c74bca",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "e689b9428cec2e49eb8bddbdd99b1d67a8fbf6c7698fd22c8f9d1083dd213abf",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "9dc6eee66a1fd6b15f4b574da161455a66912cd3b9eb4bab36160619cd7ab8d6",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_24": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "7b73cf24f45c81604a54511de80e2f49867bf98c7e34bde483a40dd20c41f9e8",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "1f60313312d6c8b44fd92dd25cd61d1cf93a1c99c9bad5a1381af15176c1d15b",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "383ec697692097353b7bc8f447f687fc069dae4c8e98a506558bcd8e86d13c69",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "87594190612ebb46b95730ced09999092aaf4c8e79788b7743b61daf2108ae63",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": "2020-12-31",
+          "text_sha256": "2d7a0ef6dde54465bc8b3401c079b6b3a8290b21790509a324e5ba4bce0c0fd3",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "387ad96e9dd4de6d6b21a886f3ec7096dafc8d1a1369a7900269b26f5f80ac8d",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "art_25": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "5c9870a8cec986f90171b2d49a484b9a36aa0b2f9f6ae7b788bcaf63a97b50bb",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "e1445461d0fc8e079bb821b55d2a88c0808e5f00a0f75e6747a3296819940d62",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "art_26": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "298fdb0bba4209dd90fd4b6a36e944ce34d63d534878c8f11e81db361fd07daa",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "ccae9c176982bc1fe6280d81f3929a568811bf6e2360a91ca274e545fb05c6d4",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "3debf3fce95aa06e74293b003beb0f55da968ee628fc792c99d9f2dd7e8caa3a",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_27": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "b0b9e137143cbe089bc43e175a5937978e57381f8c44e71eaf4623cc8c1298fc",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "d6ef7e6493d670a5dee6b0b474c0f0c0b4e5e2b1ccdb9a76b2a4fe30b2ff4a29",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2019-12-31",
+          "text_sha256": "26a76cd4ea586ca66874454a27ad47de3c1c3ff8783863448aaec5f0fb41d8f7",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "97972d451f3421459a9efea45c456668b395b687d3009e468c58f9be172762db",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "e27dbec80546adfedfb8be369dd4c176619eafe9a173f0cd94eb8a6d0b3edb5e",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_28": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "fcdb95f2c559291e62ca7dde1178ced4cbf2464b9a865e47e7c3d4740b38a199",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "02c7e3ced398b415cd0fbc339700566fd8181ede8ccd5cdcdcdf19f7d2d608b4",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "3a3f1877598d0555480500862a75b4354e88cb64fdd10d12632e8d738d748339",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_29": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "ccca5ab9935bac85f5b11c905c6e3b651518f9873694a2b0d09e0e815809edac",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "1c2af73dbfcc7ea246028ca391a47177896e40ae1c897bfe0c7122790b3b709e",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "c279f44f897458b291b27f55996199f6d77613d9ee8f151eddcadb7fe87e6c82",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "35029c44ee6380542d16654c6e690c630c90114c0d219f294a21e520caf72b53",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2019-12-31",
+          "text_sha256": "f84953ae5fa6df6afdd7b34a450112f31b3ee95a6e31df79cc8bed2db82dac34",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-01-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "9fcc01cd87513cf93826a9f51316c0d27e079a2c09d4d99265144b9506a7ae63",
+          "in_version": "eu-eurlex:32012l0027:2020-01-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": "2020-12-31",
+          "text_sha256": "062d2412e7fe973cb7b172b5a14462918dc51d3c6ecaefc5d4a673bf5a826087",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "a05f8ef42cbd32ca4b7b3f3ac869af9096c9104c99b4051c3f2a82e22ea2c6e2",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "art_30": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "8b081551fff9809c5e44839c60699700ee1b36acb44881780d0620ffd8f85a14",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "06badebf5a7d32138e30c2d53c58ec82ec5f9984bd19198d66a8f281132e08d8",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "c7333edc2f193057fc12020a63393743d993153195813077d911b68b8c81d7df",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "e34b8d297f1efd837c280ca9b07222b4c89b6c6db485ac62be502a2025ef6247",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "28fd65e0f89b943047623e5f6298e2baab0b124152b72ba64dbad40a2fd2043f",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "54e42bbf0a022c705a7b1b6494bc38b39ba5741b098f4b32b635d61187f79e0a",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "73fd5f139123ec95e111e5e432698dfdc31eb2dafdae9691e46d5dc8cec67a91",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "71ad4eb438f8c38be3f7fbf98cd61d5a92f5ea1304e28bae33fafab97522839a",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-07-08",
+          "text_sha256": "22134eccc4c8d81dc4f2eb4869248f282ae4ec4e295840150b47af302431ae67",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-07-09",
+          "valid_to": "2018-12-23",
+          "text_sha256": "615bb83ac932511fa4dd9c71fe6fa12380e127b3f04e2c3aaf4654d026c74776",
+          "in_version": "eu-eurlex:32012l0027:2018-07-09"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "d3dd1697edbe2ae79bed1ce991861ab12b6bd04c0a4ca0e35a291a285c05ac98",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "6dce156393378a219a7e60b3b3fe66c8450bb05a32e4ff98469c8ed952c3ea66",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "13590e32cb54c9f069f8a0bacfaac97efeb473ac90ef64fbe3b6e8342c5e4220",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "9fc78acb80f2ab4d2d06c82e081809589a34d5f573f705088ee2e4f6edd85863",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "3d581d146643a18faaf07d24aca3fa4c9a1136341c5f1ec400d562ee5b6c2981",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "a59742418ab5d1b1745e37228a4359828390cff66f1f67b2a4436acc55aee6b1",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_7_bis": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "1f8db41d98d0315c4469a1a1d182148ba2e5f7a9be694c2d3274611841a2eb00",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "5b8cece8240c88af9c8d24e753f5adad6bda3e01ceb2e958e90cf35453eeab1d",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_7_ter": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "8df93ffbc1fc64c31632dd3cf71145449e141a12773b78d024a5231fc3e013a3",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "e722cc2513599e76e5cc5bec3abd3bdfc6f247edd3c9d79309b6db9b65e99fc2",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "57943b4a91d28ee6ae0406dfbd4f5f9a744c597c2b6629f15bbd8e97ac43e0c3",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2020-10-25",
+          "text_sha256": "3fd4e7c1b7086b2ff10ef5175d56e309c300897047268956ceb8c918000d3c60",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "4f794f62813d315d67ad11cab4042fd2857c0f24994dae6ae1b1be012b68417e",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2012-10-25",
+          "valid_to": "2013-06-30",
+          "text_sha256": "d1bef9cee1aecde6f9676a22e346f5d67a40a390602fced51dad4cb3176cf8a4",
+          "in_version": "eu-eurlex:32012l0027:2012-10-25"
+        },
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "de1abdc9d4df72b60de57c71c389007330b7c65adb9ce34c9ca4288ffa45c608",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "174378f7fc5445286e870f33c98bb4cb1998bfba1341db70799b7a0d12dc24fd",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": "2020-12-31",
+          "text_sha256": "ad75562da78d14537d45857dc048198ef8b034ce36a966ba5b4fce68a00349b9",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        },
+        {
+          "valid_from": "2021-01-01",
+          "valid_to": null,
+          "text_sha256": "df47c8953d1a67437f051eda5557e34c528fdf0dd8501624464adead26c52eed",
+          "in_version": "eu-eurlex:32012l0027:2021-01-01"
+        }
+      ],
+      "art_9_bis": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "fd00c2552025841a205d31f8e345b050aae8c8d6d0fe84e2077131791fd335b1",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "def7339c8a4538b4726eb394634c6f095e31ce7ba88b50db40a2d73a07d0d02b",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_9_quater": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "8eff5b65557221347769e655276578813502eac1a35205a5c87038b45f1a8ebf",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "f7ae21748fbd13e4d18a14456faaf719386d4153563b26b45a668aae873c6044",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_9_ter": [
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "af3d290153851852e32e07b650896fcf5c78f22287c085434f1b575bccb6b14b",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "a78b518e1287f2a8bc93b322f43701bb5e16701da5928ca330ab061ead5b0576",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ],
+      "art_premier": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "bf2e4c7d7c0c5408080a5c6cee66e62892a645c0dba23bbc29d9b0f7cdd427a7",
+          "in_version": "eu-eurlex:32012l0027:2013-07-01"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2020-10-25",
+          "text_sha256": "8b657056d4fce9d02d0ca97dbee2c133a9f6d58ce23e11fe5fe3d918c960f58c",
+          "in_version": "eu-eurlex:32012l0027:2018-12-24"
+        },
+        {
+          "valid_from": "2020-10-26",
+          "valid_to": null,
+          "text_sha256": "f3c5c64cecafa3a802b327edb6eb367a8e316ee32cc6e13b8ca5f5f18de7f95f",
+          "in_version": "eu-eurlex:32012l0027:2020-10-26"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [
+      {
+        "type": "inserted",
+        "anchor": "anx_i",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_ii",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_iii",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_iv",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_ix",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_v",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_vi",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_vii",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_viii",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_x",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_xi",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_xii",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_xiii",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_xiv",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_xv",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_4",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_viia",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_10a",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_11a",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7a",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7b",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_9a",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_9b",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_9c",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_xiv",
+        "at_version": "eu-eurlex:32012l0027:2021-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_i",
+        "at_version": "eu-eurlex:32012l0027:2023-05-04"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_ii",
+        "at_version": "eu-eurlex:32012l0027:2023-05-04"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_iii",
+        "at_version": "eu-eurlex:32012l0027:2023-05-04"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_iv",
+        "at_version": "eu-eurlex:32012l0027:2023-05-04"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_ix",
+        "at_version": "eu-eurlex:32012l0027:2023-05-04"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_v",
+        "at_version": "eu-eurlex:32012l0027:2023-05-04"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_vi",
+        "at_version": "eu-eurlex:32012l0027:2023-05-04"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_vii",
+        "at_version": "eu-eurlex:32012l0027:2023-05-04"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_viia",
+        "at_version": "eu-eurlex:32012l0027:2023-05-04"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_viii",
+        "at_version": "eu-eurlex:32012l0027:2023-05-04"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_x",
+        "at_version": "eu-eurlex:32012l0027:2023-05-04"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_xi",
+        "at_version": "eu-eurlex:32012l0027:2023-05-04"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_xii",
+        "at_version": "eu-eurlex:32012l0027:2023-05-04"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_xiii",
+        "at_version": "eu-eurlex:32012l0027:2023-05-04"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_xv",
+        "at_version": "eu-eurlex:32012l0027:2023-05-04"
+      }
+    ],
+    "fr": [
+      {
+        "type": "removed",
+        "anchor": "art_1",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_i",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_ii",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_iii",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_iv",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_ix",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_v",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_vi",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_vii",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_viii",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_x",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_xi",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_xii",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_xiii",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_xiv",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_xv",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_premier",
+        "at_version": "eu-eurlex:32012l0027:2013-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_4",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_vii_bis",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_10_bis",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_11_bis",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7_bis",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7_ter",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_9_bis",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_9_quater",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_9_ter",
+        "at_version": "eu-eurlex:32012l0027:2018-12-24"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_xiv",
+        "at_version": "eu-eurlex:32012l0027:2021-01-01"
+      }
+    ]
+  }
+}

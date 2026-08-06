@@ -1,0 +1,2348 @@
+{
+  "lex_work_id": "eu-eurlex:31998l0070",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "html-eu-tolerant/1",
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "anx_i": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2018-12-23",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      }
+    ],
+    "anx_ii": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2018-12-23",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      }
+    ],
+    "anx_iii": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2011-06-21",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2011-06-22",
+        "valid_to": "2018-12-23",
+        "text_sha256": "cf8d64faeae40af2c71631c0f9e80772810775914cf40cbd5d67474e15144878",
+        "in_version": "eu-eurlex:31998l0070:2011-06-22"
+      }
+    ],
+    "anx_iv": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2018-12-23",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      }
+    ],
+    "anx_v": [
+      {
+        "valid_from": "2015-10-05",
+        "valid_to": "2018-12-23",
+        "text_sha256": "191197cd6fd0801c18a62f5bc25e649bfe1e5ce3118937e78f46188661abad5c",
+        "in_version": "eu-eurlex:31998l0070:2015-10-05"
+      }
+    ],
+    "art_1": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2023-11-19",
+        "text_sha256": "1365cb6b2d3fabab29908b14463b4c55b2d623d3eaffce06d97b925ee7847405",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2023-11-20",
+        "valid_to": null,
+        "text_sha256": "83903acc6cc9949a42902c712e5cf3cec101e27bcb3b99d884a618ef56767ec9",
+        "in_version": "eu-eurlex:31998l0070:2023-11-20"
+      }
+    ],
+    "art_10": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2015-10-04",
+        "text_sha256": "e1e1f4371c0681dc8bec9b5d47cd91d4d8f1a1b26d01cd6859800f9d56bac72f",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2015-10-05",
+        "valid_to": "2018-12-23",
+        "text_sha256": "a1505e574d23c4c0eab2003014a0a7c0ee24ebe2505550817e6b14b18a4c645e",
+        "in_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": null,
+        "text_sha256": "92e90e4095a149869c71bfbb0a96840b9e5d6adbdb609b5d24387600b67a2b4e",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      }
+    ],
+    "art_10a": [
+      {
+        "valid_from": "2015-10-05",
+        "valid_to": "2018-12-23",
+        "text_sha256": "45d55586d27f07bfb1bdced8ed88a0f3101010c71dcc65eb1042e100cb35ae8b",
+        "in_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": null,
+        "text_sha256": "f918350a832c779b9d7b0de4bc6660b986fe91dd928b0a6343a9c8b4132058e8",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      }
+    ],
+    "art_11": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2015-10-04",
+        "text_sha256": "2b4d7b81e77fa48ba53736bfaa62c1bf6809132cc6b3a823680e260f0e80f14e",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2015-10-05",
+        "valid_to": "2018-12-23",
+        "text_sha256": "006deb8ad8498414e824cf8b12f51443df3615ef0723a40bbc66ffed6371c6b1",
+        "in_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2023-11-19",
+        "text_sha256": "33c3ae8649dff4ed22410444ef0842138848417d3b14bfe4f822dcc1728026ac",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      },
+      {
+        "valid_from": "2023-11-20",
+        "valid_to": null,
+        "text_sha256": "4b161f1c50ad1529af53fcd9c314c27425eaaf15260d1a0ea9a34e3bf8824a4e",
+        "in_version": "eu-eurlex:31998l0070:2023-11-20"
+      }
+    ],
+    "art_12": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2018-12-23",
+        "text_sha256": "e3c0b3ccd6485f4f6341cfdea94f7d811154664edc23caa234c28411a9755f77",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": null,
+        "text_sha256": "02e128bd9aa3a8916ec738cb78f227c67943cc34f3eb68486fbeb151055bc1e3",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      }
+    ],
+    "art_13": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2018-12-23",
+        "text_sha256": "53439d2adbb62ab65c5c251dd5bfadd1682efd4abef6d8775411986a8ffd4964",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": null,
+        "text_sha256": "12e338333e9445c97b973608c74875ffca7f3993dbce3c9e967d8714e9f7cf99",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      }
+    ],
+    "art_15": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": null,
+        "text_sha256": "e78f34282c3ea609ec7919de812a269f5e8e5091c2c91ebdc907e50edb0101d4",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      }
+    ],
+    "art_16": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": null,
+        "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2015-10-04",
+        "text_sha256": "c2ebee46166d2e26a7dfb24131c36a1139add365dfa579c034a1380b77bfa7a9",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2015-10-05",
+        "valid_to": "2018-12-23",
+        "text_sha256": "73d3e30e514bcf7d6079c83914ef7479639f00e87a538ce9b90eb9e77e1a2d5e",
+        "in_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2023-11-19",
+        "text_sha256": "a5e5bc02ea9fc1038f4ecf65be4d0cd8ff57733e7a76ffccdc36e413e26a3c7a",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      },
+      {
+        "valid_from": "2023-11-20",
+        "valid_to": null,
+        "text_sha256": "184d75a2cffb50daea4143e797e94b3070ff53f2626c32188614cdbad39820db",
+        "in_version": "eu-eurlex:31998l0070:2023-11-20"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2018-12-23",
+        "text_sha256": "25b0ddea193b7e63dc61093b3349a8ad4effa403674e956ef60c3560eadcaf97",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": null,
+        "text_sha256": "8da74d4494b515fba8b57e5b3668058dcf4a640d8f1dbbbddc1f049d52c06155",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2018-12-23",
+        "text_sha256": "74b616a6ea47fe3082d0846b11158f2cfadd37b0d3f16d9b564776b960a79d71",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2023-11-19",
+        "text_sha256": "0df3c11e0efce6b45e8a14fef283dff1cacf89fdeb37e5b9052a12121435bff8",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      },
+      {
+        "valid_from": "2023-11-20",
+        "valid_to": null,
+        "text_sha256": "2cab0058e022dae3ef99a0682a6a04a33ea063c885781ae34d724f685bae3f61",
+        "in_version": "eu-eurlex:31998l0070:2023-11-20"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": null,
+        "text_sha256": "59cd3ff6aae0e8b18aadf2a08d9cf77308c64f230cc43dace329f87ee5014724",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2018-12-23",
+        "text_sha256": "7725e671ff1eed3ccc8a60c37d35bc0129eaac72aaa4e59f1793a1ff8318f980",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": null,
+        "text_sha256": "1ff139fc69e103e4ae147a1a64097986a5bb0972fd6f2f27de67f2bb16733948",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": null,
+        "text_sha256": "cb854e05e0784dff152e65d6fcb155b958ef656faf6a91053abb2476eedf2c2a",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      }
+    ],
+    "art_7a": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2015-10-04",
+        "text_sha256": "b668f1e489665b1b01f2a5726f3eba0c9013970aff96515d438de000942f50b2",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2015-10-05",
+        "valid_to": "2018-12-23",
+        "text_sha256": "c473a8b1f4f1dbbead4ff3a747660dd2a0551ef02c032a4e12a00648a9af0a89",
+        "in_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2023-11-19",
+        "text_sha256": "ea1c6abebf7103bf32c912cc0f773886d6d828593b8aecfed628dbc526e7fc91",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      }
+    ],
+    "art_7b": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2015-10-04",
+        "text_sha256": "92c1adae2494168d4f8b02cb846c861df67a70ba121ba78521cf38eb95a20756",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2015-10-05",
+        "valid_to": "2018-12-23",
+        "text_sha256": "f441945bb239ad706c69768414885e9afb1ecd63e64bf6e6bfdd730f76bf44ae",
+        "in_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2023-11-19",
+        "text_sha256": "ef6087f55fb342f9b0ef8f09de637dc8145ab08307c68b7978d981759d5f6703",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      }
+    ],
+    "art_7c": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2015-10-04",
+        "text_sha256": "607f5cb6e300c36e0bdadcde8b38777afc61fb14de73af52abcf0b90c1efbd76",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2015-10-05",
+        "valid_to": "2018-12-23",
+        "text_sha256": "4407133e16766764e1bc8042162f6f184922b92d1eec70e7c6b03ad93278f55f",
+        "in_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2023-11-19",
+        "text_sha256": "8a6bab5e6a52c70ba79e8f740c8424169fcdc4532e731002fba6c682742a93df",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      }
+    ],
+    "art_7d": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2015-10-04",
+        "text_sha256": "9cdf096edaa2c6e0a228f79a58065b9ccf803a555b0824d5db48f984f96fff4c",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2015-10-05",
+        "valid_to": "2018-12-23",
+        "text_sha256": "58d78cb43686af7d11b760c067aa3930e714498f9875456f633ade2cd8b2cf64",
+        "in_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2023-11-19",
+        "text_sha256": "fce529da9a6feb1de1ef9b3665aed82498e3cbe3bb10a5d2f1b4b155cfa623ba",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      }
+    ],
+    "art_7e": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2015-10-04",
+        "text_sha256": "6b1294e490de619b833306b125fbaa581d06c9f35efb819921aaccd789492250",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2015-10-05",
+        "valid_to": "2018-12-23",
+        "text_sha256": "31271a275932315a63153498cd2235735f71720a08bdc32ed0940875bba63d22",
+        "in_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2023-11-19",
+        "text_sha256": "5e5c076e5b08db466e29a6eaae902d3bb8f7155b24e577d900eb15b7a1aeb895",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2015-10-04",
+        "text_sha256": "ff657fec21405f8610a3e80881cb305ce3f21adc8e46fb4d80633f8b454cbff5",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2015-10-05",
+        "valid_to": "2018-12-23",
+        "text_sha256": "5804bca1b01869dad637302cbbdc2f6e06a010846b36ef856c484db6ffb25de6",
+        "in_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": null,
+        "text_sha256": "0780402d9d0d964e9ddc48f4e0c4465ed78932ed27ded530077a4adeb6726f77",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      }
+    ],
+    "art_8a": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2015-10-04",
+        "text_sha256": "b1a3e0953d870679621e656780001db9dd70d668b44049084508087cb72704b1",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2015-10-05",
+        "valid_to": "2018-12-23",
+        "text_sha256": "d71076a0afe41d7b0c9e548202d107490a933e24c5d6ac0e97a4205449f1bfd5",
+        "in_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": null,
+        "text_sha256": "65026b091b24056207d4d743c44e0d128b6de28c906ce8df74fee50b0bd01123",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      }
+    ],
+    "art_9": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2015-10-04",
+        "text_sha256": "53f35876a2829e68228be2a98dbe0475799f7d8ed2bf283db48e36053bec112b",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2015-10-05",
+        "valid_to": "2018-12-23",
+        "text_sha256": "d4b56ea5d5266aa541dfb1745b64706f6688dc8174c3fd3d454547b0eb036405",
+        "in_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "valid_from": "2018-12-24",
+        "valid_to": "2023-11-19",
+        "text_sha256": "7b19fe368f852819b31ad2b3ce3b832ab422cb1a364b67c92b58f39e9291d672",
+        "in_version": "eu-eurlex:31998l0070:2018-12-24"
+      },
+      {
+        "valid_from": "2023-11-20",
+        "valid_to": null,
+        "text_sha256": "adb1e6af2b25a3b82ad52881dbd9bd0465d8bb6a37012a9c627afd7a5652c32e",
+        "in_version": "eu-eurlex:31998l0070:2023-11-20"
+      }
+    ],
+    "art_9a": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": null,
+        "text_sha256": "8cd635abf84fb6f14e286cf3882c64275efa0ff0344a6b235316927434a28a30",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      }
+    ],
+    "document": [
+      {
+        "valid_from": "1998-10-13",
+        "valid_to": "2000-12-03",
+        "text_sha256": "f4ed7401b5d129d82ff2a439e72a962d5b9c626ab09db2c8c4e202ddeb28b913",
+        "in_version": "eu-eurlex:31998l0070:1998-10-13"
+      }
+    ],
+    "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_compression_ignition_engines": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2011-06-21",
+        "text_sha256": "852a3cd91b0df992698ec78ef6918740f932ac2a71849cdc2af5f3f09668817f",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2011-06-22",
+        "valid_to": "2014-06-30",
+        "text_sha256": "5c4e7880f560e99442eeceeb01a32414af99df5c82c99626c4adb31d6c5b0121",
+        "in_version": "eu-eurlex:31998l0070:2011-06-22"
+      },
+      {
+        "valid_from": "2014-07-01",
+        "valid_to": "2018-12-23",
+        "text_sha256": "8b0b253f620ff3eb5e7b8bebf20912fa65871f99c052ac8a04d95a96c87ab806",
+        "in_version": "eu-eurlex:31998l0070:2014-07-01"
+      }
+    ],
+    "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_positive_ignition_engines": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2011-06-21",
+        "text_sha256": "7fe7695bda90f685fcfdb7de82134f6df649e27ce29f01bedb5f00b3cb4b07fd",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2011-06-22",
+        "valid_to": "2014-06-30",
+        "text_sha256": "d05856b281318b9c8329ca366929c0ed6bc228072507980586d4a5f691aacd67",
+        "in_version": "eu-eurlex:31998l0070:2011-06-22"
+      },
+      {
+        "valid_from": "2014-07-01",
+        "valid_to": "2018-12-23",
+        "text_sha256": "201a8a6bc9b5c196ff762fea74686119b0b6cb6d5ad03d698893f8ce735a9b09",
+        "in_version": "eu-eurlex:31998l0070:2014-07-01"
+      }
+    ],
+    "rules_for_calculating_life_cycle_greenhouse_emissions_from_biofuels": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2011-06-21",
+        "text_sha256": "2358c55ce3310e7d16b2477180eb1603748a381584f5868846efdbba17c88dc9",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "valid_from": "2011-06-22",
+        "valid_to": "2014-06-30",
+        "text_sha256": "abd652eca5e5fce6fb9368d182c4805a23607ef84bc79a7e1b8ad1946897d90b",
+        "in_version": "eu-eurlex:31998l0070:2011-06-22"
+      },
+      {
+        "valid_from": "2014-07-01",
+        "valid_to": "2015-10-04",
+        "text_sha256": "1e75d73ebc635e2a8d75db1a5b73b0ae59c5fc50b26104830e30d066dbb9b4e2",
+        "in_version": "eu-eurlex:31998l0070:2014-07-01"
+      },
+      {
+        "valid_from": "2015-10-05",
+        "valid_to": "2018-12-23",
+        "text_sha256": "b1607f505f3012bd689e514dee113e8415b7dc2e6a8e7f88e1bec776aa7ffa46",
+        "in_version": "eu-eurlex:31998l0070:2015-10-05"
+      }
+    ],
+    "vapour_pressure_waiver_permitted_for_petrol_containing_bioethanol": [
+      {
+        "valid_from": "2009-06-25",
+        "valid_to": "2011-06-21",
+        "text_sha256": "0c95944d10ba3b1216e45fd13dfcdb2cc7276bb5cb286f1a25ff322b502739d8",
+        "in_version": "eu-eurlex:31998l0070:2009-06-25"
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "removed",
+      "anchor": "document",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_i",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_ii",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_iii",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_iv",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_1",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_10",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_11",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_12",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_13",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_15",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_16",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_2",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_3",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_4",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_5",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_6",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_7",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_7a",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_7b",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_7c",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_7d",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_7e",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_8",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_8a",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_9",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_9a",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_compression_ignition_engines",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_positive_ignition_engines",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "rules_for_calculating_life_cycle_greenhouse_emissions_from_biofuels",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "inserted",
+      "anchor": "vapour_pressure_waiver_permitted_for_petrol_containing_bioethanol",
+      "at_version": "eu-eurlex:31998l0070:2009-06-25"
+    },
+    {
+      "type": "removed",
+      "anchor": "vapour_pressure_waiver_permitted_for_petrol_containing_bioethanol",
+      "at_version": "eu-eurlex:31998l0070:2011-06-22"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_v",
+      "at_version": "eu-eurlex:31998l0070:2015-10-05"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_10a",
+      "at_version": "eu-eurlex:31998l0070:2015-10-05"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_i",
+      "at_version": "eu-eurlex:31998l0070:2018-12-24"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_ii",
+      "at_version": "eu-eurlex:31998l0070:2018-12-24"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_iii",
+      "at_version": "eu-eurlex:31998l0070:2018-12-24"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_iv",
+      "at_version": "eu-eurlex:31998l0070:2018-12-24"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_v",
+      "at_version": "eu-eurlex:31998l0070:2018-12-24"
+    },
+    {
+      "type": "removed",
+      "anchor": "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_compression_ignition_engines",
+      "at_version": "eu-eurlex:31998l0070:2018-12-24"
+    },
+    {
+      "type": "removed",
+      "anchor": "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_positive_ignition_engines",
+      "at_version": "eu-eurlex:31998l0070:2018-12-24"
+    },
+    {
+      "type": "removed",
+      "anchor": "rules_for_calculating_life_cycle_greenhouse_emissions_from_biofuels",
+      "at_version": "eu-eurlex:31998l0070:2018-12-24"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_7a",
+      "at_version": "eu-eurlex:31998l0070:2023-11-20"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_7b",
+      "at_version": "eu-eurlex:31998l0070:2023-11-20"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_7c",
+      "at_version": "eu-eurlex:31998l0070:2023-11-20"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_7d",
+      "at_version": "eu-eurlex:31998l0070:2023-11-20"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_7e",
+      "at_version": "eu-eurlex:31998l0070:2023-11-20"
+    }
+  ],
+  "anchors_by_language": {
+    "en": {
+      "anx_i": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2018-12-23",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "anx_ii": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2018-12-23",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "anx_iii": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2011-06-21",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2011-06-22",
+          "valid_to": "2018-12-23",
+          "text_sha256": "cf8d64faeae40af2c71631c0f9e80772810775914cf40cbd5d67474e15144878",
+          "in_version": "eu-eurlex:31998l0070:2011-06-22"
+        }
+      ],
+      "anx_iv": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2018-12-23",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "anx_v": [
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "191197cd6fd0801c18a62f5bc25e649bfe1e5ce3118937e78f46188661abad5c",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        }
+      ],
+      "art_1": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2023-11-19",
+          "text_sha256": "1365cb6b2d3fabab29908b14463b4c55b2d623d3eaffce06d97b925ee7847405",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "83903acc6cc9949a42902c712e5cf3cec101e27bcb3b99d884a618ef56767ec9",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "e1e1f4371c0681dc8bec9b5d47cd91d4d8f1a1b26d01cd6859800f9d56bac72f",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "a1505e574d23c4c0eab2003014a0a7c0ee24ebe2505550817e6b14b18a4c645e",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": null,
+          "text_sha256": "92e90e4095a149869c71bfbb0a96840b9e5d6adbdb609b5d24387600b67a2b4e",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_10a": [
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "45d55586d27f07bfb1bdced8ed88a0f3101010c71dcc65eb1042e100cb35ae8b",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": null,
+          "text_sha256": "f918350a832c779b9d7b0de4bc6660b986fe91dd928b0a6343a9c8b4132058e8",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "2b4d7b81e77fa48ba53736bfaa62c1bf6809132cc6b3a823680e260f0e80f14e",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "006deb8ad8498414e824cf8b12f51443df3615ef0723a40bbc66ffed6371c6b1",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "33c3ae8649dff4ed22410444ef0842138848417d3b14bfe4f822dcc1728026ac",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        },
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "4b161f1c50ad1529af53fcd9c314c27425eaaf15260d1a0ea9a34e3bf8824a4e",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2018-12-23",
+          "text_sha256": "e3c0b3ccd6485f4f6341cfdea94f7d811154664edc23caa234c28411a9755f77",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": null,
+          "text_sha256": "02e128bd9aa3a8916ec738cb78f227c67943cc34f3eb68486fbeb151055bc1e3",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2018-12-23",
+          "text_sha256": "53439d2adbb62ab65c5c251dd5bfadd1682efd4abef6d8775411986a8ffd4964",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": null,
+          "text_sha256": "12e338333e9445c97b973608c74875ffca7f3993dbce3c9e967d8714e9f7cf99",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": null,
+          "text_sha256": "e78f34282c3ea609ec7919de812a269f5e8e5091c2c91ebdc907e50edb0101d4",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": null,
+          "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "c2ebee46166d2e26a7dfb24131c36a1139add365dfa579c034a1380b77bfa7a9",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "73d3e30e514bcf7d6079c83914ef7479639f00e87a538ce9b90eb9e77e1a2d5e",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "a5e5bc02ea9fc1038f4ecf65be4d0cd8ff57733e7a76ffccdc36e413e26a3c7a",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        },
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "184d75a2cffb50daea4143e797e94b3070ff53f2626c32188614cdbad39820db",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2018-12-23",
+          "text_sha256": "25b0ddea193b7e63dc61093b3349a8ad4effa403674e956ef60c3560eadcaf97",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": null,
+          "text_sha256": "8da74d4494b515fba8b57e5b3668058dcf4a640d8f1dbbbddc1f049d52c06155",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2018-12-23",
+          "text_sha256": "74b616a6ea47fe3082d0846b11158f2cfadd37b0d3f16d9b564776b960a79d71",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "0df3c11e0efce6b45e8a14fef283dff1cacf89fdeb37e5b9052a12121435bff8",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        },
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "2cab0058e022dae3ef99a0682a6a04a33ea063c885781ae34d724f685bae3f61",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": null,
+          "text_sha256": "59cd3ff6aae0e8b18aadf2a08d9cf77308c64f230cc43dace329f87ee5014724",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2018-12-23",
+          "text_sha256": "7725e671ff1eed3ccc8a60c37d35bc0129eaac72aaa4e59f1793a1ff8318f980",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": null,
+          "text_sha256": "1ff139fc69e103e4ae147a1a64097986a5bb0972fd6f2f27de67f2bb16733948",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": null,
+          "text_sha256": "cb854e05e0784dff152e65d6fcb155b958ef656faf6a91053abb2476eedf2c2a",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "art_7a": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "b668f1e489665b1b01f2a5726f3eba0c9013970aff96515d438de000942f50b2",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "c473a8b1f4f1dbbead4ff3a747660dd2a0551ef02c032a4e12a00648a9af0a89",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "ea1c6abebf7103bf32c912cc0f773886d6d828593b8aecfed628dbc526e7fc91",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_7b": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "92c1adae2494168d4f8b02cb846c861df67a70ba121ba78521cf38eb95a20756",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "f441945bb239ad706c69768414885e9afb1ecd63e64bf6e6bfdd730f76bf44ae",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "ef6087f55fb342f9b0ef8f09de637dc8145ab08307c68b7978d981759d5f6703",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_7c": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "607f5cb6e300c36e0bdadcde8b38777afc61fb14de73af52abcf0b90c1efbd76",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "4407133e16766764e1bc8042162f6f184922b92d1eec70e7c6b03ad93278f55f",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "8a6bab5e6a52c70ba79e8f740c8424169fcdc4532e731002fba6c682742a93df",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_7d": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "9cdf096edaa2c6e0a228f79a58065b9ccf803a555b0824d5db48f984f96fff4c",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "58d78cb43686af7d11b760c067aa3930e714498f9875456f633ade2cd8b2cf64",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "fce529da9a6feb1de1ef9b3665aed82498e3cbe3bb10a5d2f1b4b155cfa623ba",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_7e": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "6b1294e490de619b833306b125fbaa581d06c9f35efb819921aaccd789492250",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "31271a275932315a63153498cd2235735f71720a08bdc32ed0940875bba63d22",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "5e5c076e5b08db466e29a6eaae902d3bb8f7155b24e577d900eb15b7a1aeb895",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "ff657fec21405f8610a3e80881cb305ce3f21adc8e46fb4d80633f8b454cbff5",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "5804bca1b01869dad637302cbbdc2f6e06a010846b36ef856c484db6ffb25de6",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": null,
+          "text_sha256": "0780402d9d0d964e9ddc48f4e0c4465ed78932ed27ded530077a4adeb6726f77",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_8a": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "b1a3e0953d870679621e656780001db9dd70d668b44049084508087cb72704b1",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "d71076a0afe41d7b0c9e548202d107490a933e24c5d6ac0e97a4205449f1bfd5",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": null,
+          "text_sha256": "65026b091b24056207d4d743c44e0d128b6de28c906ce8df74fee50b0bd01123",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "53f35876a2829e68228be2a98dbe0475799f7d8ed2bf283db48e36053bec112b",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "d4b56ea5d5266aa541dfb1745b64706f6688dc8174c3fd3d454547b0eb036405",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "7b19fe368f852819b31ad2b3ce3b832ab422cb1a364b67c92b58f39e9291d672",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        },
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "adb1e6af2b25a3b82ad52881dbd9bd0465d8bb6a37012a9c627afd7a5652c32e",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_9a": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": null,
+          "text_sha256": "8cd635abf84fb6f14e286cf3882c64275efa0ff0344a6b235316927434a28a30",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "document": [
+        {
+          "valid_from": "1998-10-13",
+          "valid_to": "2000-12-03",
+          "text_sha256": "f4ed7401b5d129d82ff2a439e72a962d5b9c626ab09db2c8c4e202ddeb28b913",
+          "in_version": "eu-eurlex:31998l0070:1998-10-13"
+        }
+      ],
+      "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_compression_ignition_engines": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2011-06-21",
+          "text_sha256": "852a3cd91b0df992698ec78ef6918740f932ac2a71849cdc2af5f3f09668817f",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2011-06-22",
+          "valid_to": "2014-06-30",
+          "text_sha256": "5c4e7880f560e99442eeceeb01a32414af99df5c82c99626c4adb31d6c5b0121",
+          "in_version": "eu-eurlex:31998l0070:2011-06-22"
+        },
+        {
+          "valid_from": "2014-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "8b0b253f620ff3eb5e7b8bebf20912fa65871f99c052ac8a04d95a96c87ab806",
+          "in_version": "eu-eurlex:31998l0070:2014-07-01"
+        }
+      ],
+      "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_positive_ignition_engines": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2011-06-21",
+          "text_sha256": "7fe7695bda90f685fcfdb7de82134f6df649e27ce29f01bedb5f00b3cb4b07fd",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2011-06-22",
+          "valid_to": "2014-06-30",
+          "text_sha256": "d05856b281318b9c8329ca366929c0ed6bc228072507980586d4a5f691aacd67",
+          "in_version": "eu-eurlex:31998l0070:2011-06-22"
+        },
+        {
+          "valid_from": "2014-07-01",
+          "valid_to": "2018-12-23",
+          "text_sha256": "201a8a6bc9b5c196ff762fea74686119b0b6cb6d5ad03d698893f8ce735a9b09",
+          "in_version": "eu-eurlex:31998l0070:2014-07-01"
+        }
+      ],
+      "rules_for_calculating_life_cycle_greenhouse_emissions_from_biofuels": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2011-06-21",
+          "text_sha256": "2358c55ce3310e7d16b2477180eb1603748a381584f5868846efdbba17c88dc9",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2011-06-22",
+          "valid_to": "2014-06-30",
+          "text_sha256": "abd652eca5e5fce6fb9368d182c4805a23607ef84bc79a7e1b8ad1946897d90b",
+          "in_version": "eu-eurlex:31998l0070:2011-06-22"
+        },
+        {
+          "valid_from": "2014-07-01",
+          "valid_to": "2015-10-04",
+          "text_sha256": "1e75d73ebc635e2a8d75db1a5b73b0ae59c5fc50b26104830e30d066dbb9b4e2",
+          "in_version": "eu-eurlex:31998l0070:2014-07-01"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "b1607f505f3012bd689e514dee113e8415b7dc2e6a8e7f88e1bec776aa7ffa46",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        }
+      ],
+      "vapour_pressure_waiver_permitted_for_petrol_containing_bioethanol": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2011-06-21",
+          "text_sha256": "0c95944d10ba3b1216e45fd13dfcdb2cc7276bb5cb286f1a25ff322b502739d8",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ]
+    },
+    "fr": {
+      "annexe_i": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2023-11-19",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "annexe_ii": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2023-11-19",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "annexe_iii": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2011-06-21",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2011-06-22",
+          "valid_to": "2023-11-19",
+          "text_sha256": "56e5dbd5844f44abd2e02ebf5e9e89d46ac327e1cf08e720de37919bd909776c",
+          "in_version": "eu-eurlex:31998l0070:2011-06-22"
+        }
+      ],
+      "annexe_iv": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2023-11-19",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "annexe_v": [
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "ced7556cd5436c1b92a930b961d7739f2db548ea3e3f99897847f4661062c8f5",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "ad02bd93c10624c322188e004369b59034145120109408b3ba7195128ee3b47c",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_1": [
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "6867922299e71ce440256d62e8b9f4357d51ce6d0798b25e96337a90abaacf83",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "6640bae43a07e14e9f0e9970f0e39892aed6ef96e8b1fe1da29e53ea59cb738d",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2023-11-19",
+          "text_sha256": "07fd00b431b7ce44d28df5de706fd827636a61e56d700b7c7298a8d182df344a",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "47fa797054723d09a97ef039d18893bf827d86253fbc73b01573bd804178cd60",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_10_bis": [
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2023-11-19",
+          "text_sha256": "3a44570c5f24e9f40dcc479eba8b112ef40d2ac7a9db54c86f771a10470c12d3",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        }
+      ],
+      "art_10a": [
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "c474d37dcfc65fced055051c825e3d3d97357fa45d390866866e58f2dc19a59c",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "89f16db16807f2739f4835585e55d784c268cfbc74ae39f2894ca9cfacba7d97",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "ca9dd3ad6f0429f3d14e78c8d11c16453c1182fcaa15aa6408bcd596cb3aa3e4",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "cb559ee1a752cf13e2bb351da2d677c37647f002adebddb4ab6a0bed0f9ba014",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        },
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "a07de53514f15f02d26b8e134817ee49b50c91735ea71579f63df5095fc5bdb8",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2023-11-19",
+          "text_sha256": "527f2ca681970a515b7d4602914e51fc0bd6efb79667fcb2d42e49e6f6f10574",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "4089b413ac39fdb1773d1beae661889eb75a3be193f712cde399b9ffe9eeed92",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2023-11-19",
+          "text_sha256": "d11f689b06e6f922ed75093edb38e4d564a666363b8a68ae6f6814ea4ccf2eed",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "e8acc6a690a28cda30eb1203e558f6dfa27b48c805891ef9ac2b6d038277b5b1",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": null,
+          "text_sha256": "89ca26fd92a6a7273f9b41c22780bfd4a6b09273c9373b984276fc2d954a7ea0",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": null,
+          "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2014-06-30",
+          "text_sha256": "e6589970b8458fecb89d5c26d812ca24c0ddcf07814fc14c8afa89865bf289ec",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2014-07-01",
+          "valid_to": "2015-10-04",
+          "text_sha256": "859c025f5d4d6a2e7ccdf7ae4a761e4e18845fea9734919438589ea848b6d88c",
+          "in_version": "eu-eurlex:31998l0070:2014-07-01"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "d6408fc5d4409ee914d2a1d3b197c9945e1f3f55bdce8fa57bd2b62ead6533c3",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "807ea9398cd5644668b1ccbf5fd61cd2c7e0d34a6a8e1666015a10fb94e72505",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        },
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "ebcba2b8f45dea2bd77b072834598d836935f61e7133832292e9c95e171cdfe1",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2023-11-19",
+          "text_sha256": "b1a0190367d2926f82598eb6efc04a59bb0b1c94a30c069f25650838044d3df9",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "605853c5ce8e3597ed1ff5fcb0e1f647dd8520c6dc352c4478d973d4f59d226a",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2023-11-19",
+          "text_sha256": "2443fdbdd2fa962d6d47c3eba5c00240c1c14ab1dc999554ff658cb59edbe88c",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "f2d010005f0e2ddc9250d10e69945ce81e2af1a5b570a4c509be117a848de5ee",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": null,
+          "text_sha256": "c977196dc2f0c9ad2ad72d22fc0b2873b10e5034996d95261f73b754bba69fab",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2023-11-19",
+          "text_sha256": "ab80f5f4557e8453386e03c50e5960ec60e473acf8573ce6b6d5f2d854752829",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "7fd329ac84bc5f470401d055e24384f0a4a36cf60e2114ce08465ae53b91f1e9",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": null,
+          "text_sha256": "be8135dd07a2b67ee1030729544f47ce80756d47ce68425a4ba8599f7279cee8",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "art_7_bis": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2014-06-30",
+          "text_sha256": "9fbea963f3851460e85c80d18a3917cbd5fce81e340bbec0b43f3e467ee86653",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2014-07-01",
+          "valid_to": "2015-10-04",
+          "text_sha256": "d6937894cbc21d78ff867730b64877ba8a860475579ab1d857dffb0ffab91867",
+          "in_version": "eu-eurlex:31998l0070:2014-07-01"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "3cb7ac020c5ffd310f8f3369caa810ff2bc41ca671f845bbd2e0c29325c91319",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "045aaabd1ca9cda6122d3eda67939087cb347ab8ee483a732d52a3c20f0c5ced",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_7_quater": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "73b08a6de28d3eba149d402deab573e4efd3f2ccb78d09c25a74070e01a3fc5f",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2023-11-19",
+          "text_sha256": "bf9644affb5f67431700a3631c0239c363926a3f38873b92061eeb0df5a8c859",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        }
+      ],
+      "art_7_quinquies": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2014-06-30",
+          "text_sha256": "a454288d078dec556a021a02a950fe772b665441bb19b8a55a4955d9f714115a",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2014-07-01",
+          "valid_to": "2015-10-04",
+          "text_sha256": "507ad45b018f860d4aca832e990c558cbd65d9f174f29299b172aaa7cf5bb98d",
+          "in_version": "eu-eurlex:31998l0070:2014-07-01"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "fafbc446d7378e3591b54624e744706ecce6b2adc2df09d0e9321156fc028a5f",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "3fffe19b303b0532f06b1ee6af8b539b13478c75927196814bda018f59efe1cc",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_7_sexies": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "b320c47f1865269614d87d678949b75658ae13161d672ec28489ab173ab6a557",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2023-11-19",
+          "text_sha256": "003a9ec5efbf413868bf5cfffdfc9b88e5b3de137228f3a891ad4669134c695b",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        }
+      ],
+      "art_7_ter": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2014-06-30",
+          "text_sha256": "77cd9ff084632c4a43b33e4309eb9c84e47f200a5d099ab324ad796d11281a76",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2014-07-01",
+          "valid_to": "2015-10-04",
+          "text_sha256": "a8ec635be8287988698a4643750bd649095f86fbf40bc739d1c5681c7509d62c",
+          "in_version": "eu-eurlex:31998l0070:2014-07-01"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "caa7424c3c9a7bcba858229d3329e1982641c993593c7e22238b8647e45c5410",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "52d3f8c2d0bbcb2411030c4729c33fc631eae48323b92abb7dd7e5145595e919",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "3c916e0e829cfd79749a5a74c9fa72cdb6a0ee6fccae8042b5de66430da27cd0",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "a9486dbeebee75185d046720e6a5b818c596fed7ccf6af69dbc3c7411dcfd3ba",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "fc4a38d77861390ba408f5228bc069df505ed8502b63422728ec5d8e279c301a",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        },
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "9f512ad7b41f370cc9a63395bd33c4ac0711fc1262399b501ceb8b7e43f5bda4",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_8_bis": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2015-10-04",
+          "text_sha256": "2dfd0e81926fa8de14035ad93aa7626fd9399a8cce3fb0952887ca2d119640cf",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2023-11-19",
+          "text_sha256": "28fd351acd64dfa1f7f894459d1659ead9c05368d9a3d641d6d50f462c198906",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        }
+      ],
+      "art_8a": [
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "f676377cbf9d68387184ebff2f2d4ca99968363700944017dd956202b3819e85",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2014-06-30",
+          "text_sha256": "483004addcd211de3c180bec46ba2653dbba95b19a7fdb9726f614916e6aa499",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2014-07-01",
+          "valid_to": "2015-10-04",
+          "text_sha256": "273f66e17de764fec04e87779b322b96a86ced8e7d5ef2941e20c1028180c56d",
+          "in_version": "eu-eurlex:31998l0070:2014-07-01"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "62d634583ffc8a3bb594a4dcf68b90dcbd4b615a48f03a40ca0a2cf381d83beb",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "53a03c4cdcbc7b713a85ad9803c9aef3a05fcafdce91aaf3cb3f761c524a4c56",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        },
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "112fe4943a47feb81ef27f3a9cb7a1d7909a7c88b113d2384785631de494bd25",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_9_bis": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2023-11-19",
+          "text_sha256": "c64c1f8145a1eed4dbcd3d472c3f4f49711e4de808a49bceb6e96b2027605836",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "art_9a": [
+        {
+          "valid_from": "2023-11-20",
+          "valid_to": null,
+          "text_sha256": "c64c1f8145a1eed4dbcd3d472c3f4f49711e4de808a49bceb6e96b2027605836",
+          "in_version": "eu-eurlex:31998l0070:2023-11-20"
+        }
+      ],
+      "art_premier": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2014-06-30",
+          "text_sha256": "c63c8a1f39495d9c8e6c4bce3c58666643710dd4ec855ad60712898e49970bdd",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2014-07-01",
+          "valid_to": "2023-11-19",
+          "text_sha256": "5ff168af01d7689142a794a00f2f3381ccdc72fadeef9098a34668d7dec1b48b",
+          "in_version": "eu-eurlex:31998l0070:2014-07-01"
+        }
+      ],
+      "derogation_concernant_la_pression_de_vapeur_autorisee_pour_l_essence_contenant_du_bioethanol": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2011-06-21",
+          "text_sha256": "57352e779d7ff6a27bbf7c31279ab22ce9930a98ff351128ed88f693cc98a5d8",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        }
+      ],
+      "document": [
+        {
+          "valid_from": "1998-10-13",
+          "valid_to": "2000-12-03",
+          "text_sha256": "e710ccb6d47dfcba0ef91fe7693d51b8f11792e5f386fb3f1afc32ff5ac76d20",
+          "in_version": "eu-eurlex:31998l0070:1998-10-13"
+        }
+      ],
+      "regles_de_calcul_des_emissions_de_gaz_a_effet_de_serre_produites_par_les_biocarburants_sur_l_ensemble_du_cycle_de_vie": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2011-06-21",
+          "text_sha256": "9ee06182a3c41a7e0746f6e3962366761b3376548ca708c21bba5a70aa1b1c84",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2011-06-22",
+          "valid_to": "2014-06-30",
+          "text_sha256": "4b9fbbe10d4ff51a3b32d978d9b68df5f88d7cb5d70cfe1542a38b69471a5403",
+          "in_version": "eu-eurlex:31998l0070:2011-06-22"
+        },
+        {
+          "valid_from": "2014-07-01",
+          "valid_to": "2015-10-04",
+          "text_sha256": "7c404de74d2093039b0f13452b97ce3d1f8d9fb9b440012adf8439b9caf1199e",
+          "in_version": "eu-eurlex:31998l0070:2014-07-01"
+        },
+        {
+          "valid_from": "2015-10-05",
+          "valid_to": "2018-12-23",
+          "text_sha256": "a32c440e4b8d5ee10e7fa82402f89c5cb341aba5f67c59fd45278b6cb931f2b4",
+          "in_version": "eu-eurlex:31998l0070:2015-10-05"
+        },
+        {
+          "valid_from": "2018-12-24",
+          "valid_to": "2023-11-19",
+          "text_sha256": "3508dc29f77ea73346582c2a74950c30439279bb1e5ac8db7e9617385fda40c4",
+          "in_version": "eu-eurlex:31998l0070:2018-12-24"
+        }
+      ],
+      "specifications_environnementales_applicables_aux_carburants_sur_le_marche_destines_aux_vehicules_equipes_de_moteur_a_allumage_commande": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2011-06-21",
+          "text_sha256": "42c7c76d3cf70606ef098ebd9c368fccf50637239aab5fb633b49b6a39b222f2",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2011-06-22",
+          "valid_to": "2014-06-30",
+          "text_sha256": "3a00f0ffc78c6aa3df4e828711306fd3f03f1ae17e8c505aca9251b26ef30e05",
+          "in_version": "eu-eurlex:31998l0070:2011-06-22"
+        },
+        {
+          "valid_from": "2014-07-01",
+          "valid_to": "2023-11-19",
+          "text_sha256": "923832fb5babfe487bb7f986cbb29b8f2e721c263d64e576683faad953f20373",
+          "in_version": "eu-eurlex:31998l0070:2014-07-01"
+        }
+      ],
+      "specifications_environnementales_applicables_aux_carburants_sur_le_marche_destines_aux_vehicules_equipes_de_moteur_a_allumage_par_compression": [
+        {
+          "valid_from": "2009-06-25",
+          "valid_to": "2011-06-21",
+          "text_sha256": "265b1bbfcce69dcbff757673973b9cdf2a2b0812bcceb59e0f2a9bd22af0526c",
+          "in_version": "eu-eurlex:31998l0070:2009-06-25"
+        },
+        {
+          "valid_from": "2011-06-22",
+          "valid_to": "2014-06-30",
+          "text_sha256": "b42343f11bfb2045370460289e1c809da4df7280320f004fec8f855802552814",
+          "in_version": "eu-eurlex:31998l0070:2011-06-22"
+        },
+        {
+          "valid_from": "2014-07-01",
+          "valid_to": "2023-11-19",
+          "text_sha256": "95777462a71fcca6c04744f83b85e475db6a0c01d4db8ca9fa33ed556abcc843",
+          "in_version": "eu-eurlex:31998l0070:2014-07-01"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [
+      {
+        "type": "removed",
+        "anchor": "document",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_i",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_ii",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_iii",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_iv",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_1",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_10",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_11",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_12",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_13",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_15",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_16",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_2",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_3",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_4",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_5",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_6",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7a",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7b",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7c",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7d",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7e",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_8",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_8a",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_9",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_9a",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_compression_ignition_engines",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_positive_ignition_engines",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "rules_for_calculating_life_cycle_greenhouse_emissions_from_biofuels",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "vapour_pressure_waiver_permitted_for_petrol_containing_bioethanol",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "removed",
+        "anchor": "vapour_pressure_waiver_permitted_for_petrol_containing_bioethanol",
+        "at_version": "eu-eurlex:31998l0070:2011-06-22"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_v",
+        "at_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_10a",
+        "at_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_i",
+        "at_version": "eu-eurlex:31998l0070:2018-12-24"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_ii",
+        "at_version": "eu-eurlex:31998l0070:2018-12-24"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_iii",
+        "at_version": "eu-eurlex:31998l0070:2018-12-24"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_iv",
+        "at_version": "eu-eurlex:31998l0070:2018-12-24"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_v",
+        "at_version": "eu-eurlex:31998l0070:2018-12-24"
+      },
+      {
+        "type": "removed",
+        "anchor": "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_compression_ignition_engines",
+        "at_version": "eu-eurlex:31998l0070:2018-12-24"
+      },
+      {
+        "type": "removed",
+        "anchor": "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_positive_ignition_engines",
+        "at_version": "eu-eurlex:31998l0070:2018-12-24"
+      },
+      {
+        "type": "removed",
+        "anchor": "rules_for_calculating_life_cycle_greenhouse_emissions_from_biofuels",
+        "at_version": "eu-eurlex:31998l0070:2018-12-24"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_7a",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_7b",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_7c",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_7d",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_7e",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      }
+    ],
+    "fr": [
+      {
+        "type": "removed",
+        "anchor": "document",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_i",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_ii",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_iii",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_iv",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_10",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_11",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_12",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_13",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_15",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_16",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_2",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_3",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_4",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_5",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_6",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7_bis",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7_quater",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7_quinquies",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7_sexies",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7_ter",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_8",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_8_bis",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_9",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_9_bis",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_premier",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "derogation_concernant_la_pression_de_vapeur_autorisee_pour_l_essence_contenant_du_bioethanol",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "regles_de_calcul_des_emissions_de_gaz_a_effet_de_serre_produites_par_les_biocarburants_sur_l_ensemble_du_cycle_de_vie",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "specifications_environnementales_applicables_aux_carburants_sur_le_marche_destines_aux_vehicules_equipes_de_moteur_a_allumage_commande",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "inserted",
+        "anchor": "specifications_environnementales_applicables_aux_carburants_sur_le_marche_destines_aux_vehicules_equipes_de_moteur_a_allumage_par_compression",
+        "at_version": "eu-eurlex:31998l0070:2009-06-25"
+      },
+      {
+        "type": "removed",
+        "anchor": "derogation_concernant_la_pression_de_vapeur_autorisee_pour_l_essence_contenant_du_bioethanol",
+        "at_version": "eu-eurlex:31998l0070:2011-06-22"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_v",
+        "at_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_10_bis",
+        "at_version": "eu-eurlex:31998l0070:2015-10-05"
+      },
+      {
+        "type": "renumbered",
+        "from": "art_9_bis",
+        "to": "art_9a",
+        "text_sha256": "c64c1f8145a1eed4dbcd3d472c3f4f49711e4de808a49bceb6e96b2027605836",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20",
+        "basis": "identical_text"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_i",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_ii",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_iii",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_iv",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_v",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_10_bis",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_7_bis",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_7_quater",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_7_quinquies",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_7_sexies",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_7_ter",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_8_bis",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_premier",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "regles_de_calcul_des_emissions_de_gaz_a_effet_de_serre_produites_par_les_biocarburants_sur_l_ensemble_du_cycle_de_vie",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "specifications_environnementales_applicables_aux_carburants_sur_le_marche_destines_aux_vehicules_equipes_de_moteur_a_allumage_commande",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "removed",
+        "anchor": "specifications_environnementales_applicables_aux_carburants_sur_le_marche_destines_aux_vehicules_equipes_de_moteur_a_allumage_par_compression",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_1",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_10a",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_8a",
+        "at_version": "eu-eurlex:31998l0070:2023-11-20"
+      }
+    ]
+  }
+}

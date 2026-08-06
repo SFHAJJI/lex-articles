@@ -1,0 +1,274 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r1501:2015-09-08",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2015/1501 of 8 September 2015 on the interoperability framework pursuant to Article 12(8) of Regulation (EU) No 910/2014",
+  "valid_from": "2015-09-08",
+  "valid_to": "2015-09-08",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r1501/versions/2015-09-08/fr.xml",
+    "sha256": "327c8462396a75612d66b005884f3262935e2a8600a8a062eadb018d6b7f165a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R1501"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r1501:2015-09-08#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe présent règlement établit les exigences techniques et opérationnelles relatives au cadre d'interopérabilité afin d'assurer l'interopérabilité des schémas d'identification électronique notifiés par les États membres à la Commission.\n\nCes exigences incluent notamment:\n\n| a) | les exigences techniques minimales relatives aux niveaux de garantie et la table de correspondance des niveaux de garantie nationaux des moyens d'identification électronique notifiés délivrés en vertu de schémas d'identification électronique notifiés au titre de l'article 8 du règlement (UE) no 910/2014, telles que décrites aux articles 3 et 4; |\n| --- | --- |\n\n| b) | les exigences techniques minimales en matière d'interopérabilité, telles que décrites aux articles 5 et 8; |\n| --- | --- |\n\n| c) | l'ensemble minimal de données d'identification personnelle représentant de façon univoque une personne physique ou morale, tel que décrit à l'article 11 et à l'annexe; |\n| --- | --- |\n\n| d) | les normes de sécurité opérationnelle communes, telles que décrites aux articles 6, 7, 9 et 10; |\n| --- | --- |\n\n| e) | les modalités de règlement des litiges, telles que décrites à l'article 13. |\n| --- | --- |",
+      "text_sha256": "0fc737119aa93c338d7179ab33a5426c45bdfebeb68782f29838639a44f4902d",
+      "md_span": {
+        "start": 711,
+        "end": 1911
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r1501:2015-09-08#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins du présent règlement, on entend par:\n\n| 1) | «nœud», un point de connexion qui fait partie de l'architecture de l'interopérabilité d'identification électronique et participe au processus d'authentification transfrontalière des personnes et qui a la capacité de reconnaître et de traiter ou d'envoyer des transmissions à d'autres nœuds en permettant à l'infrastructure d'identification électronique nationale d'un État membre de fonctionner en interface avec les infrastructures d'identification électronique nationales d'autres États membres |\n| --- | --- |\n\n| 2) | «opérateur de nœud», l'entité chargée de faire en sorte que les fonctions du nœud en tant que point de connexion soient assurées de manière correcte et fiable. |\n| --- | --- |",
+      "text_sha256": "50beacabcfd171d5a918693723ca8cd4d18b70cd36e42793fdabfe5ee65a4cb2",
+      "md_span": {
+        "start": 1944,
+        "end": 2705
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32015r1501:2015-09-08#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLes exigences techniques minimales relatives aux niveaux de garantie sont fixées dans le règlement d'exécution (UE) 2015/1502 de la Commission (4).",
+      "text_sha256": "79e062b63844a09b9bf39f1c7a3fc441204ce9e672435028508d16fbe9e21278",
+      "md_span": {
+        "start": 2738,
+        "end": 2896
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2015235FR.01000101-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32015r1501:2015-09-08#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nL'établissement de la table de correspondance des niveaux de garantie nationaux des schémas d'identification électronique notifiés respecte les exigences du règlement d'exécution (UE) 2015/1502. Les résultats sont notifiés à la Commission au moyen du modèle de notification établi dans la décision d'exécution (UE) 2015/1505 de la Commission (5).",
+      "text_sha256": "c13581e666b895b49479863799e8d8951bc62636037262741360ae99c0409c43",
+      "md_span": {
+        "start": 2929,
+        "end": 3286
+      },
+      "citations": [
+        {
+          "href": "#ntr5-L_2015235FR.01000101-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32015r1501:2015-09-08#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Un nœud situé dans un État membre doit être en mesure de communiquer avec les nœuds d'autres États membres.\n\n2. Les nœuds doivent être en mesure de faire la distinction entre les organismes du secteur public et les autres parties utilisatrices par le biais de moyens techniques.\n\n3. La mise en œuvre par un État membre des exigences techniques énoncées dans le présent règlement ne doit pas avoir pour effet d'imposer aux autres États membres qui souhaitent interopérer avec cette mise en œuvre des exigences techniques et des coûts disproportionnés.",
+      "text_sha256": "37f4460ffb601ccd4967d387847364c1be23996e98f5cf91ce5ae490454f4842",
+      "md_span": {
+        "start": 3319,
+        "end": 3883
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32015r1501:2015-09-08#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Le respect de la vie privée, la confidentialité des données échangées et le maintien de l'intégrité des données entre les nœuds sont assurés au moyen des meilleures solutions techniques et pratiques de protection disponibles.\n\n2. Les nœuds ne peuvent stocker aucune donnée personnelle, excepté aux fins de l'article 9, paragraphe 3.",
+      "text_sha256": "90dcac6100178aaf8878cec834222d8e69cc38a28774f8654fb0bdc43c453bf8",
+      "md_span": {
+        "start": 3916,
+        "end": 4262
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32015r1501:2015-09-08#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nLa communication entre les nœuds assure l'intégrité et l'authenticité des données de manière à garantir que toutes les demandes et réponses sont authentiques et n'ont pas fait l'objet de manipulations non autorisées. À cette fin, les nœuds ont recours à des solutions qui ont été utilisées avec succès dans le cadre d'une utilisation opérationnelle transfrontalière.",
+      "text_sha256": "3cb9923c559829039edcc578653879ab680d0043c4a741948c0d9b516bbebd85",
+      "md_span": {
+        "start": 4295,
+        "end": 4672
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32015r1501:2015-09-08#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nLa syntaxe utilisée par les nœuds est celle de formats de message communs fondés sur des normes dont on recense plusieurs exemples de déploiement entre les États membres et dont la capacité de fonctionnement dans un environnement opérationnel est prouvée. La syntaxe permet:\n\n| a) | de traiter convenablement l'ensemble minimal de données d'identification personnelle représentant de façon univoque une personne physique ou morale; |\n| --- | --- |\n\n| b) | de traiter convenablement le niveau de garantie du moyen d'identification électronique; |\n| --- | --- |\n\n| c) | d'établir la distinction entre les organismes du secteur public et les autres parties utilisatrices; |\n| --- | --- |\n\n| d) | de disposer de la flexibilité nécessaire pour répondre aux besoins d'attributs supplémentaires relatifs à l'identification. |\n| --- | --- |",
+      "text_sha256": "a035f7cdbe8bad9764ac52cc0df07dffac3a230756d4945f2f8623c8653b83b2",
+      "md_span": {
+        "start": 4705,
+        "end": 5548
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32015r1501:2015-09-08#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. L'opérateur de nœud communique les métadonnées relatives à la gestion de nœud sous un format normalisé traitable par machine et d'une façon sûre et digne de confiance.\n\n2. Les paramètres relatifs à la sécurité, au moins, doivent pouvoir être récupérés automatiquement.\n\n3. L'opérateur de nœud stocke des données qui, en cas d'incident, permettent de reconstruire la séquence de l'échange de messages pour déterminer le lieu et la nature de l'incident. Les données sont stockées pendant une durée conforme aux exigences nationales et comportent, au minimum, les éléments suivants:\n\n| a) | identification du nœud; |\n| --- | --- |\n\n| b) | identification du message; |\n| --- | --- |\n\n| c) | date et heure du message. |\n| --- | --- |",
+      "text_sha256": "af15011cb804c4ceac107902014574a43e99684800f04b4e362942fad0226c75",
+      "md_span": {
+        "start": 5581,
+        "end": 6323
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32015r1501:2015-09-08#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Les opérateurs de nœuds assurant une authentification apportent la preuve que, eu égard aux nœuds participant au cadre d'interopérabilité, le nœud respecte les exigences de la norme ISO/CEI 27001 par certification, par des méthodes d'évaluation équivalentes ou par conformité à la législation nationale.\n\n2. Les opérateurs de nœud déploient les mises à jour de sécurité critiques sans retard injustifié.",
+      "text_sha256": "2f468b1808080ea97ea4c9a401aec88568a6ea9ee489b93d2a36e96e7929837b",
+      "md_span": {
+        "start": 6358,
+        "end": 6776
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32015r1501:2015-09-08#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Lorsqu'un ensemble minimal de données d'identification personnelle représentant de façon univoque une personne physique ou morale est utilisé dans un contexte transfrontalier, il respecte les exigences visées à l'annexe.\n\n2. Lorsqu'un ensemble minimal de données pour une personne physique représentant une personne morale est utilisé dans un contexte transfrontalier, il contient la combinaison des attributs énumérés à l'annexe pour les personnes physiques et les personnes morales.\n\n3. Les données sont transmises sur la base des caractères d'origine et, le cas échéant, également transcrites en caractères latins.",
+      "text_sha256": "289eb67064c715314a261303966552c6b9e5bf0c9be16806ea7e8485f241d7d2",
+      "md_span": {
+        "start": 6811,
+        "end": 7443
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32015r1501:2015-09-08#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Lorsque cela est justifié par le processus de mise en œuvre du cadre d'interopérabilité, le réseau de coopération établi par la décision d'exécution (UE) 2015/296 peut adopter des avis en vertu de son article 14, point d), sur la nécessité d'élaborer des spécifications techniques. Ces spécifications techniques doivent apporter des précisions sur les exigences techniques visées dans le présent règlement.\n\n2. Conformément à l'avis visé au paragraphe 1, la Commission doit élaborer, en coopération avec les États membres, les spécifications techniques au titre des infrastructures de service numérique du règlement (UE) no 1316/2013.\n\n3. Le réseau de coopération doit adopter un avis en vertu de l'article 14, point d), de la décision d'exécution (UE) 2015/296, dans lequel il évalue si et dans quelle mesure les spécifications techniques élaborées en vertu du paragraphe 2 correspondent au besoin identifié dans l'avis visé au paragraphe 1 ou aux exigences fixées dans le présent règlement. Il peut recommander que les États membres tiennent compte des spécifications techniques lors de la mise en œuvre du cadre d'interopérabilité.\n\n4. La Commission fournit une mise en œuvre de référence comme exemple d'interprétation des spécifications techniques. Les États membres peuvent appliquer cette mise en œuvre de référence ou l'utiliser comme exemple lors de l'essai d'autres mises en œuvre des spécifications techniques.",
+      "text_sha256": "d9987e269bb8d11bc76249e0ecd806b8689aa24eda51e8a0d1238ae2cc1a487b",
+      "md_span": {
+        "start": 7478,
+        "end": 8914
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32015r1501:2015-09-08#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Tout litige concernant le cadre de l'interopérabilité est, dans la mesure du possible, résolu par les États membres concernés par la négociation.\n\n2. Si aucune solution n'est trouvée conformément au paragraphe 1, le réseau de coopération établi en vertu de l'article 12 de la décision d'exécution (UE) 2015/296 est compétent conformément à son règlement intérieur.",
+      "text_sha256": "74b6574f0631cf1fd1d6138635120aa2b5ad29e9a8c2dca74766e22a8c29abbd",
+      "md_span": {
+        "start": 8949,
+        "end": 9328
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32015r1501:2015-09-08#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "1ca7ae13fb89b14fcb8bfcacea26bff36abaac5069b0b8e707367cb2559a19a4",
+      "md_span": {
+        "start": 9363,
+        "end": 9505
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

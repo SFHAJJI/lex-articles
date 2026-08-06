@@ -1,0 +1,252 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31993l0013:2022-05-28",
+  "language": "en",
+  "title": "Council Directive 93/13/EEC of 5 April 1993 on unfair terms in consumer contracts",
+  "valid_from": "2022-05-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31993l0013/versions/2022-05-28/en.html",
+    "sha256": "83c977be6e9519f56ede6ee2a21d2ad01b30eb067977b139132a84ace4f3fb58",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01993L0013-20220528"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:31993l0013:2022-05-28#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** The purpose of this Directive is to approximate the laws, regulations and administrative provisions of the Member States relating to unfair terms in contracts concluded between a seller or supplier and a consumer.\n\n**2.** The contractual terms which reflect mandatory statutory or regulatory provisions and the provisions or principles of international conventions to which the Member States or the Community are party, particularly in the transport area, shall not be subject to the provisions of this Directive.",
+      "text_sha256": "750c0263f794b49947a21534f62f75272f7000eb75c2585aaba779b117c7a8ce",
+      "md_span": {
+        "start": 639,
+        "end": 1159
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:31993l0013:2022-05-28#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the purposes of this Directive:\n\n(a) ‘unfair terms’ means the contractual terms defined in Article 3;\n\n(b) ‘consumer’ means any natural person who, in contracts covered by this Directive, is acting for purposes which are outside his trade, business or profession;\n\n(c) ‘seller or supplier’ means any natural or legal person who, in contracts covered by this Directive, is acting for purposes relating to his trade, business or profession, whether publicly owned or privately owned.",
+      "text_sha256": "4ddd5101dcb73afd038e1da6ac37eaa5056e31586d32e3195413f9f06fac9ea0",
+      "md_span": {
+        "start": 1196,
+        "end": 1681
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:31993l0013:2022-05-28#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** A contractual term which has not been individually negotiated shall be regarded as unfair if, contrary to the requirement of good faith, it causes a significant imbalance in the parties’ rights and obligations arising under the contract, to the detriment of the consumer.\n\n**2.** A term shall always be regarded as not individually negotiated where it has been drafted in advance and the consumer has therefore not been able to influence the substance of the term, particularly in the context of a pre-formulated standard contract.\n\nThe fact that certain aspects of a term or one specific term have been individually negotiated shall not exclude the application of this Article to the rest of a contract if an overall assessment of the contract indicates that it is nevertheless a pre-formulated standard contract.\n\nWhere any seller or supplier claims that a standard term has been individually negotiated, the burden of proof in this respect shall be incumbent on him.\n\n**3.** The Annex shall contain an indicative and non-exhaustive list of the terms which may be regarded as unfair.",
+      "text_sha256": "c1880f7825fa405ff44cce823a02023f0aa38285f0d2e59fa59463aa46b30d14",
+      "md_span": {
+        "start": 1718,
+        "end": 2810
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:31993l0013:2022-05-28#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Without prejudice to Article 7, the unfairness of a contractual term shall be assessed, taking into account the nature of the goods or services for which the contract was concluded and by referring, at the time of conclusion of the contract, to all the circumstances attending the conclusion of the contract and to all the other terms of the contract or of another contract on which it is dependent.\n\n**2.** Assessment of the unfair nature of the terms shall relate neither to the definition of the main subject matter of the contract nor to the adequacy of the price and remuneration, on the one hand, as against the services or goods supplies in exchange, on the other, in so far as these terms are in plain intelligible language.",
+      "text_sha256": "65e7df26f92d0c6be430675587b31e6cde5d36617a03a2359637ef932979a4cc",
+      "md_span": {
+        "start": 2847,
+        "end": 3586
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:31993l0013:2022-05-28#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "In the case of contracts where all or certain terms offered to the consumer are in writing, these terms must always be drafted in plain, intelligible language. Where there is doubt about the meaning of a term, the interpretation most favourable to the consumer shall prevail. This rule on interpretation shall not apply in the context of the procedures laid down in Article 7 (2).",
+      "text_sha256": "2705db37c6f38b6bdb80939a987a4b5a11ca3f1afa576ff26cff14ff212fd0be",
+      "md_span": {
+        "start": 3623,
+        "end": 4003
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:31993l0013:2022-05-28#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall lay down that unfair terms used in a contract concluded with a consumer by a seller or supplier shall, as provided for under their national law, not be binding on the consumer and that the contract shall continue to bind the parties upon those terms if it is capable of continuing in existence without the unfair terms.\n\n**2.** Member States shall take the necessary measures to ensure that the consumer does not lose the protection granted by this Directive by virtue of the choice of the law of a non-Member country as the law applicable to the contract if the latter has a close connection with the territory of the Member States.",
+      "text_sha256": "8264a2541a978d853ed0ff03007aeae8dd41d290a0fa74d6b0182e51378ecb2a",
+      "md_span": {
+        "start": 4040,
+        "end": 4700
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:31993l0013:2022-05-28#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall ensure that, in the interests of consumers and of competitors, adequate and effective means exist to prevent the continued use of unfair terms in contracts concluded with consumers by sellers or suppliers.\n\n**2.** The means referred to in paragraph 1 shall include provisions whereby persons or organizations, having a legitimate interest under national law in protecting consumers, may take action according to the national law concerned before the courts or before competent administrative bodies for a decision as to whether contractual terms drawn up for general use are unfair, so that they can apply appropriate and effective means to prevent the continued use of such terms.\n\n**3.** With due regard for national laws, the legal remedies referred to in paragraph 2 may be directed separately or jointly against a number of sellers or suppliers from the same economic sector or their associations which use or recommend the use of the same general contractual terms or similar terms.",
+      "text_sha256": "adcc8a3794aef1d012e6df4ba3fe0f994a448980bb5e7037f53e6b7312b776a4",
+      "md_span": {
+        "start": 4737,
+        "end": 5752
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:31993l0013:2022-05-28#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Member States may adopt or retain the most stringent provisions compatible with the Treaty in the area covered by this Directive, to ensure a maximum degree of protection for the consumer.",
+      "text_sha256": "24db2445764b8361ea17547f2360114d7c71095d1fd0414e61558564a688c8ed",
+      "md_span": {
+        "start": 5789,
+        "end": 5977
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8a",
+      "provision_id": "eu-eurlex:31993l0013:2022-05-28#art_8a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8a",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Where a Member State adopts provisions in accordance with Article 8, it shall inform the Commission thereof, as well as of any subsequent changes, in particular where those provisions:— extend the unfairness assessment to individually negotiated contractual terms or to the adequacy of the price or remuneration; or,— contain lists of contractual terms which shall be considered as unfair,\n\n**2.** The Commission shall ensure that the information referred to in paragraph 1 is easily accessible to consumers and traders, inter alia, on a dedicated website.\n\n**3.** The Commission shall forward the information referred to in paragraph 1 to the other Member States and the European Parliament. The Commission shall consult stakeholders on that information.",
+      "text_sha256": "51b5c7cf046a01bde387ab9ff1add885557eaf3d3997eb4be8ab6acb131d6c3b",
+      "md_span": {
+        "start": 6016,
+        "end": 6778
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8b",
+      "provision_id": "eu-eurlex:31993l0013:2022-05-28#art_8b",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8b",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.\n\n**2.** Member States may restrict such penalties to situations where the contractual terms are expressly defined as unfair in all circumstances in national law or where a seller or supplier continues to use contractual terms that have been found to be unfair in a final decision taken in accordance with Article 7(2).\n\n**3.** Member States shall ensure that the following non-exhaustive and indicative criteria are taken into account for the imposition of penalties, where appropriate:(a) the nature, gravity, scale and duration of the infringement;(b) any action taken by the seller or supplier to mitigate or remedy the damage suffered by consumers;(c) any previous infringements by the seller or supplier;(d) the financial benefits gained or losses avoided by the seller or supplier due to the infringement, if the relevant data are available;(e) penalties imposed on the seller or supplier for the same infringement in other Member States in cross-border cases where information about such penalties is available through the mechanism established by Regulation (EU) 2017/2394 of the European Parliament and of the Council (1);(f) any other aggravating or mitigating factors applicable to the circumstances of the case.\n\n**4.** Without prejudice to paragraph 2 of this Article, Member States shall ensure that, when penalties are to be imposed in accordance with Article 21 of Regulation (EU) 2017/2394, they include the possibility either to impose fines through administrative procedures or to initiate legal proceedings for the imposition of fines, or both, the maximum amount of such fines being at least 4 % of the seller’s or supplier’s annual turnover in the Member State or Member States concerned.\n\n**5.** For cases where a fine is to be imposed in accordance with paragraph 4, but information on the seller’s or supplier’s annual turnover is not available, Member States shall introduce the possibility to impose fines, the maximum amount of which shall be at least EUR 2 million.\n\n**6.** Member States shall, by 28 November 2021, notify the Commission of the rules and measures referred to in paragraph 1 and shall notify it, without delay, of any subsequent amendment affecting them.",
+      "text_sha256": "a63e8f037f277c77ee7c8e62d7ffced913899717ffe0ea64eb08ccfa20cc6541",
+      "md_span": {
+        "start": 6817,
+        "end": 9313
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:31993l0013:2022-05-28#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The Commission shall present a report to the European Parliament and to the Council concerning the application of this Directive five years at the latest after the date in Article 10 (1).",
+      "text_sha256": "9adb9717652dd6a5807fec5de7a2150f40902bda3b22ba12d5aa176b99cb1dd5",
+      "md_span": {
+        "start": 9350,
+        "end": 9537
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:31993l0013:2022-05-28#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive no later than 31 December 1994. They shall forthwith inform the Commission thereof.\n\nThese provisions shall be applicable to all contracts concluded after 31 December 1994.\n\n**2.** When Member States adopt these measures, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such a reference shall be laid down by the Member States.\n\n**3.** Member States shall communicate the main provisions of national law which they adopt in the field covered by this Directive to the Commission.",
+      "text_sha256": "940574b9df2854c17eb88a87ce2e02edef6ca9c500f127ecfc13affa283ff9fa",
+      "md_span": {
+        "start": 9576,
+        "end": 10302
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:31993l0013:2022-05-28#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive is addressed to the Member States.",
+      "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+      "md_span": {
+        "start": 10341,
+        "end": 10390
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

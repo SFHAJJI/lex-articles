@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0462:2019-01-30",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2019/462 of 30 January 2019 amending Delegated Regulation (EU) 2017/1799 as regards the exemption of the Bank of England from the pre- and post-trade transparency requirements in Regulation (EU) No 600/2014",
+  "valid_from": "2019-01-30",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0462/versions/2019-01-30/en.xml",
+    "sha256": "0c1755f07c2a77ef29dd2b52cb32cfb02c71c9b6ab02c039257c0548cb3296b6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R0462"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0462:2019-01-30#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nAnnex I to Delegated Regulation (EU) 2017/1799 is replaced by the text in the Annex to this Regulation.",
+      "text_sha256": "4bcbb0b05555061b5197952c0ae844630f3f1f102181716153f4927b828f3d67",
+      "md_span": {
+        "start": 788,
+        "end": 902
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0462:2019-01-30#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from the day following that on which on which Regulation (EU) No 600/2014 ceases to apply to and in the United Kingdom.",
+      "text_sha256": "bd95eaf5210cbf0baa0b82add62cddff81ec4320cca77d9be38d046363c4a18b",
+      "md_span": {
+        "start": 935,
+        "end": 1212
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

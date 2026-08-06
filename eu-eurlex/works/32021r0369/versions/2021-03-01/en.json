@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r0369:2021-03-01",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2021/369 of 1\u00A0March 2021 establishing the technical specifications and procedures required for the system of interconnection of central registers referred to in Directive (EU) 2015/849",
+  "valid_from": "2021-03-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r0369/versions/2021-03-01/en.xml",
+    "sha256": "05dededb6f621740524b260506a0ba9740a034368e6b7448a68ef02a9ca1a3ec",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0369"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r0369:2021-03-01#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe technical specifications and procedures for the system of interconnection of registers referred to in Article 30 and 31 of Directive (EU) 2015/849 shall be as set out in the Annex.",
+      "text_sha256": "3451f36899bfbdd5beb775c0ebcd4ed8faed42199a213399a38129b6f313f91f",
+      "md_span": {
+        "start": 769,
+        "end": 964
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r0369:2021-03-01#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 997,
+        "end": 1148
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

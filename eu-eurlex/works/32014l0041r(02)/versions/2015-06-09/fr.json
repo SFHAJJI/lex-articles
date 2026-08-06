@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014l0041r(02):2015-06-09",
+  "language": "fr",
+  "title": "Corrigendum to Directive 2014/41/EU",
+  "valid_from": "2015-06-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014l0041r(02)/versions/2015-06-09/fr.xml",
+    "sha256": "b1f3d9e21eee677b49e7eba6dcf8ba43a802f9383283df1d28ef866fa7c72de7",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014L0041R%2802%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32014l0041r(02):2015-06-09#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "9.6.2015 FR Journal officiel de l'Union européenne L 143/16 Rectificatif à la directive 2014/41/UE du Parlement européen et du Conseil du 3 avril 2014 concernant la décision d'enquête européenne en matière pénale ( «Journal officiel de l'Union européenne» L 130 du 1er mai 2014 ) Page 24, annexe A, section C, deuxième ligne, le chiffre «1.» est supprimé.",
+      "text_sha256": "07f95872ac6708e8149a6b5efb18629454f02e5df260540eac729c76d7388b04",
+      "md_span": {
+        "start": 607,
+        "end": 962
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

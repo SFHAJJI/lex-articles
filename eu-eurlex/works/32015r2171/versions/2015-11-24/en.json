@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r2171:2015-11-24",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2015/2171 of 24 November 2015 amending Directive 2014/25/EU",
+  "valid_from": "2015-11-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r2171/versions/2015-11-24/en.xml",
+    "sha256": "08b9cdf0ff5e7a996ffb8e9911036058f303b8eb33bf7b07d3df4cbe505e8471",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2171"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r2171:2015-11-24#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nArticle 15 of Directive 2014/25/EU is amended as follows:\n\n| (a) | in point (a), the amount ‘EUR 414 000’ is replaced by ‘EUR 418 000’, |\n| --- | --- |\n\n| (b) | in point (b), the amount ‘EUR 5 186 000’ is replaced by ‘EUR 5 225 000’. |\n| --- | --- |",
+      "text_sha256": "08caf804894e0831711aff85c4f250df5b8ff17ff99e9612f09e44124b9d0430",
+      "md_span": {
+        "start": 641,
+        "end": 901
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r2171:2015-11-24#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on 1 January 2016.",
+      "text_sha256": "450f8a74ebf9608d8fbb3248c0f45ec25907782deca1968b4432428bc1889427",
+      "md_span": {
+        "start": 934,
+        "end": 1002
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

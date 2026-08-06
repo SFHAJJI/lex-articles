@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1566:2025-07-29",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2025/1566 of 29\u00A0July 2025 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2025-07-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1566/versions/2025-07-29/en.xml",
+    "sha256": "e5f933072b3c76a9e88d9f222a15eb66f380e7aa481d9d4955956bb9ff5f943e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1566"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1566:2025-07-29#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe reference standards and specifications referred to in Article 24(1c) of Regulation (EU) No 910/2014 are set out in the Annex to this Regulation.",
+      "text_sha256": "e71e15ac9d2a9746d1bbcc8d2d18299b4443ad943d4c0a264366356ba58fb11f",
+      "md_span": {
+        "start": 679,
+        "end": 838
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1566:2025-07-29#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nThis Regulation shall apply from 19 August 2027.",
+      "text_sha256": "d7c759ee5e0baad5906b362b4f9a8683e66bc648158dd9b5827d44af0cda89ed",
+      "md_span": {
+        "start": 871,
+        "end": 1072
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

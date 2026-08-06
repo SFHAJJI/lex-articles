@@ -1,0 +1,16 @@
+---
+lex_id: 'eu-eurlex:12016e108:2016-06-07'
+title: 'Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…'
+valid_from: '2016-06-07'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12016E108'
+source_sha256: 'c0bf32286ee7cee11ec3675c2a89c7756bb69fed77e7b41c7bebf710bd2edb81'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'html-eu-tolerant/1 · lex derive'
+---
+<a id="document"></a>
+
+### Document
+
+7.6.2016 EN Official Journal of the European Union C 202/92 Article 108 (ex Article 88 TEC) 1. The Commission shall, in cooperation with Member States, keep under constant review all systems of aid existing in those States. It shall propose to the latter any appropriate measures required by the progressive development or by the functioning of the internal market. 2. If, after giving notice to the parties concerned to submit their comments, the Commission finds that aid granted by a State or through State resources is not compatible with the internal market having regard to Article 107, or that such aid is being misused, it shall decide that the State concerned shall abolish or alter such aid within a period of time to be determined by the Commission. If the State concerned does not comply with this decision within the prescribed time, the Commission or any other interested State may, in derogation from the provisions of Articles 258 and 259, refer the matter to the Court of Justice of the European Union direct. On application by a Member State, the Council may, acting unanimously, decide that aid which that State is granting or intends to grant shall be considered to be compatible with the internal market, in derogation from the provisions of Article 107 or from the regulations provided for in Article 109, if such a decision is justified by exceptional circumstances. If, as regards the aid in question, the Commission has already initiated the procedure provided for in the first subparagraph of this paragraph, the fact that the State concerned has made its application to the Council shall have the effect of suspending that procedure until the Council has made its attitude known. If, however, the Council has not made its attitude known within three months of the said application being made, the Commission shall give its decision on the case. 3. The Commission shall be informed, in sufficient time to enable it to submit its comments, of any plans to grant or alter aid. If it considers that any such plan is not compatible with the internal market having regard to Article 107, it shall without delay initiate the procedure provided for in paragraph 2. The Member State concerned shall not put its proposed measures into effect until this procedure has resulted in a final decision. 4. The Commission may adopt regulations relating to the categories of State aid that the Council has, pursuant to Article 109, determined may be exempted from the procedure provided for by paragraph 3 of this Article.

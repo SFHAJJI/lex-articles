@@ -1,0 +1,112 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31994l0004:2007-01-01",
+  "language": "fr",
+  "title": "Council Directive 94/4/EC of 14 February 1994 amending Directives 69/169/EEC and 77/388/EE…",
+  "valid_from": "2007-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31994l0004/versions/2007-01-01/fr.html",
+    "sha256": "5e8d3aa95808a131733c6af407227b333a96ed4d6fb7b99decdd6fa8cc155ecb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01994L0004-20070101"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:31994l0004:2007-01-01#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La directive 69/169/CEE est modifiée comme suit.\n\n1) À l'article 1er paragraphe 1, l'expression «45 écus» est remplacée par «175 écus».\n\n2) À l'article 1er paragraphe 2, l'expression «23 écus» est remplacée par «90 écus».\n\n3) L'article 7\n\n*ter*\n\nest remplacé par le texte suivant:\n\n«Article 7 *ter*\n\n1. Par dérogation à l'article 1er paragraphe 1, l'Espagne est autorisée à appliquer, jusqu'au 31 décembre 2000, une franchise de 600 écus lors de l'importation des marchandises en question par des voyageurs en provenance des îles Canaries et de Ceuta et Melilla, qui entrent à l'intérieur de ce pays, tel qu'il est défini à l'article 3 paragraphes 2 et 3 de la directive 77/388/CEE.\n\n2. Par dérogation à l'article 1er paragraphe 2, l'Espagne a la faculté, pour les voyageurs âgés de moins de 15 ans, de réduire cette franchise jusqu'à 150 écus.»",
+      "text_sha256": "95b4afba4a9bdb39b18d8dc48ad203ed7af31f943e64d0613d47b830245a6ca1",
+      "md_span": {
+        "start": 661,
+        "end": 1506
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32006L0112",
+          "text": "32006L0112: DELETED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31994L0004",
+          "text": "31994L0004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:31994l0004:2007-01-01#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres mettent en vigueur les dispositions nécessaires pour se conformer à la présente directive au plus tard le 1er avril 1994. Ils en informent immédiatement la Commission.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Par dérogation au paragraphe 1, la République fédérale d'Allemagne et la République d'Autriche sont autorisées à mettre en vigueur les dispositions nécessaires pour se conformer à la présente directive, au plus tard le 1er janvier 2003, pour les marchandises importées par les voyageurs entrant sur le territoire allemand ou autrichien par une frontière terrestre reliant ces deux États membres aux pays autres que les États membres et les membres de l'AELE ou, le cas échéant, par voie de navigation côtière en provenance desdits pays.\n\nToutefois, ces États membres accordent une franchise d'au moins 100 écus, à partir du 1er janvier 1999 aux importations effectuées par les voyageurs mentionnés au premier alinéa. Ils procèdent conjointement au relèvement graduel de ce montant en vue d'appliquer auxdites importations, au plus tard le 1er janvier 2003, le seuil en vigueur dans la Communauté.\n\n3. Les États membres communiquent à la Commission le texte des dispositions de droit interne qu'ils adoptent dans le domaine régi par la présente directive.",
+      "text_sha256": "b006a77bf0577b00ade78088deb0ce94f5e80cf0736263059d6b6db34a0f7345",
+      "md_span": {
+        "start": 1543,
+        "end": 3054
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/31998L0094",
+          "text": "31998L0094: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31994L0004",
+          "text": "31994L0004"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:31994l0004:2007-01-01#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La présente directive entre en vigueur le jour de sa publication au *Journal officiel des Communautés européennes*.",
+      "text_sha256": "89ca26fd92a6a7273f9b41c22780bfd4a6b09273c9373b984276fc2d954a7ea0",
+      "md_span": {
+        "start": 3091,
+        "end": 3206
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:31994l0004:2007-01-01#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres sont destinataires de la présente directive.",
+      "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+      "md_span": {
+        "start": 3243,
+        "end": 3305
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

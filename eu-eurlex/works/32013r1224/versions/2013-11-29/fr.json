@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32013r1224:2013-11-29",
+  "language": "fr",
+  "title": "Commission Regulation (EU) No\u00A01224/2013 of 29\u00A0November 2013 amending Regulation (EC) No\u00A080…",
+  "valid_from": "2013-11-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32013r1224/versions/2013-11-29/fr.xml",
+    "sha256": "44e2b7ed9832625ca0cacd892cd9c70cd7fae3cc176fbbc4c25520c68d010a7c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013R1224"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32013r1224:2013-11-29#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l'article 45 du règlement (CE) no 800/2008, le deuxième alinéa est remplacé par le texte suivant:\n\n«Il s'applique jusqu'au 30 juin 2014.»",
+      "text_sha256": "8612eaa5bbdedc16acd8b20a3555450227013def439dd8c3ef599918ca6cdb5c",
+      "md_span": {
+        "start": 636,
+        "end": 792
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32013r1224:2013-11-29#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLorsqu’un État membre souhaite prolonger, à la suite de la modification du règlement (CE) no 800/2008, des mesures pour lesquelles des informations récapitulatives ont été transmises à la Commission conformément à l’article 9 du règlement (CE) no 800/2008, les informations récapitulatives concernant la prolongation de ces mesures sont considérées comme ayant été communiquées à la Commission, pour autant qu’aucune modification substantielle n'ait été apportée aux mesures concernées.",
+      "text_sha256": "48b564b46b91cc7f75a2f8adb80db4955c621c28ce0b6f3e6e1d580ef073d358",
+      "md_span": {
+        "start": 825,
+        "end": 1322
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32013r1224:2013-11-29#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "66cc6d1b5e6217352ac87f36161410296b27ead803636374e94f941f2626b963",
+      "md_span": {
+        "start": 1355,
+        "end": 1486
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

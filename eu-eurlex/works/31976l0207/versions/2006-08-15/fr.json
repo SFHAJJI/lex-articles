@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31976l0207:2006-08-15",
+  "language": "fr",
+  "title": "Council Directive 76/207/EEC of 9 February 1976 on the implementation of the principle of …",
+  "valid_from": "2006-08-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31976l0207/versions/2006-08-15/fr.html",
+    "sha256": "b8c6418246fc0b02e2c936b47114108006faf802cd72ff7b0043b95463958545",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01976L0207-20060815"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31976l0207:2006-08-15#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1976L0207 — FR — 15.08.2006 — 002.001 Ce document constitue un outil de documentation et n’engage pas la responsabilité des institutions ►B DIRECTIVE DU CONSEIL du 9 février 1976 relative à la mise en œuvre du principe de l'égalité de traitement entre hommes et femmes en ce qui concerne l'accès à l'emploi, à la formation et à la promotion professionnelles, et les conditions de travail (76/207/CEE) (JO L 039, 14.2.1976, p.40) abrogé par: Journal officiel n° page date Directive 2006/54/CE du Parlement européen et du Conseil du 5 juillet 2006 L 204 23 26.7.2006",
+      "text_sha256": "ec1ed445aad2201bb4e3101dc0f805e18e7c9f848a7f11f4e8557f4df4691b94",
+      "md_span": {
+        "start": 658,
+        "end": 1222
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

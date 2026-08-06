@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32010l0088:2010-12-07",
+  "language": "fr",
+  "title": "Council Directive 2010/88/EU of 7\u00A0December 2010 amending Directive 2006/112/EC on the comm…",
+  "valid_from": "2010-12-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32010l0088/versions/2010-12-07/fr.xml",
+    "sha256": "b8ed4807f9ea2d5fd6abdcb97722eb58130a9aa30456582cdd0a9fa05025120a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32010L0088"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32010l0088:2010-12-07#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’article 97 de la directive 2006/112/CE est remplacé par le texte suivant:\n\n«Article 97\n\nÀ partir du 1er janvier 2011 et jusqu’au 31 décembre 2015, le taux normal ne peut être inférieur à 15 %.»",
+      "text_sha256": "0e5e7a34077058c21aa73c59547b679add22e22e5895accb4f8ecb059070c01a",
+      "md_span": {
+        "start": 636,
+        "end": 848
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32010l0088:2010-12-07#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le 1er janvier 2011. Ils communiquent immédiatement à la Commission le texte de ces dispositions.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine régi par la présente directive.",
+      "text_sha256": "1952f360dbe302db8c679f21dd5f063a2dcb42c2a5291914920c991e7f49715b",
+      "md_span": {
+        "start": 881,
+        "end": 1596
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32010l0088:2010-12-07#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLa présente directive entre en vigueur le jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "e13bba014934ec9c44212d773605832f81cdf9c74d77e6067d3518ab0019dd4a",
+      "md_span": {
+        "start": 1629,
+        "end": 1761
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32010l0088:2010-12-07#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "0fc712c9ed5879dbad5bea3e7474f713eea34cda4ea895cc231207fc9b7290bb",
+      "md_span": {
+        "start": 1794,
+        "end": 1867
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

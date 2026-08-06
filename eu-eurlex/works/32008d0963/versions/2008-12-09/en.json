@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32008d0963:2008-12-09",
+  "language": "en",
+  "title": "2008/963/EC: Commission Decision of 9 December 2008 amending the Annexes to Directives 2004/17/EC and 2004/18/EC",
+  "valid_from": "2008-12-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32008d0963/versions/2008-12-09/en.xml",
+    "sha256": "600286bf84a0dac07d0934bbe28cab58cf3944d7492fa8f19f13c616438fcf1f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008D0963"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32008d0963:2008-12-09#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nAnnexes I to X to Directive 2004/17/EC are amended as follows:\n\n| (1) | Annex I is replaced by the text set out in Annex I to this Decision. |\n| --- | --- |\n\n| (2) | Annex II is replaced by the text set out in Annex II to this Decision. |\n| --- | --- |\n\n| (3) | Annex III is replaced by the text set out in Annex III to this Decision. |\n| --- | --- |\n\n| (4) | Annex IV is replaced by the text set out in Annex IV to this Decision. |\n| --- | --- |\n\n| (5) | Annex V is replaced by the text set out in Annex V to this Decision. |\n| --- | --- |\n\n| (6) | Annex VI is replaced by the text set out in Annex VI to this Decision. |\n| --- | --- |\n\n| (7) | Annex VII is replaced by the text set out in Annex VII to this Decision. |\n| --- | --- |\n\n| (8) | Annex VIII is replaced by the text set out in Annex VIII to this Decision. |\n| --- | --- |\n\n| (9) | Annex IX is replaced by the text set out in Annex IX to this Decision. |\n| --- | --- |\n\n| (10) | Annex X is replaced by the text set out in Annex X to this Decision. |\n| --- | --- |",
+      "text_sha256": "423f1d6df5c825407387e9885cb0b7fdd26c8f4381e3e7d4bf5b2f182506a603",
+      "md_span": {
+        "start": 657,
+        "end": 1693
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32008d0963:2008-12-09#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAnnexes III and IV to Directive 2004/18/EC are amended as follows:\n\n| (1) | Annex III is replaced by the text set out in Annex XI to this Decision. |\n| --- | --- |\n\n| (2) | Annex IV is replaced by the text set out in Annex XII to this Decision. |\n| --- | --- |",
+      "text_sha256": "42eea19d3a30a9c1e1762d202d8750312c50a5918d354536daf1e9c03a20dccf",
+      "md_span": {
+        "start": 1726,
+        "end": 1997
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32008d0963:2008-12-09#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Decision shall apply as from 1 January 2009",
+      "text_sha256": "9ae8b7c70963f3ffb7084fd47cd77292e4165b1fe0c68c16124b2590400aadaf",
+      "md_span": {
+        "start": 2030,
+        "end": 2089
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32008d0963:2008-12-09#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Decision is addressed to the Member States.",
+      "text_sha256": "2f433b3036cd7642f1681af856eccedaa6e36f5381306a75ee8c2f937c38ae81",
+      "md_span": {
+        "start": 2122,
+        "end": 2181
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

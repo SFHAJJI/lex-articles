@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32012r0601:2021-01-01",
+  "language": "en",
+  "title": "Commission Regulation (EU) No\u00A0601/2012 of 21\u00A0June 2012 on the monitoring and reporting of greenhouse gas emissions pursuant to Directive 2003/87/EC",
+  "valid_from": "2021-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32012r0601/versions/2021-01-01/en.html",
+    "sha256": "7ab77681cd1865cce1e6cf6e0175d9eae859ce94eee82dcfebfea223ec4c8003",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0601-20210101"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32012r0601:2021-01-01#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "02012R0601 — EN — 01.01.2021 — 004.001 This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document ►B COMMISSION REGULATION (EU) No 601/2012 of 21 June 2012 on the monitoring and reporting of greenhouse gas emissions pursuant to Directive 2003/87/EC of the European Parliament and of the Council (Text with EEA relevance) (OJ L 181, 12.7.2012, p.30) Repealed by: Official Journal No page date Commission Implementing Regulation (EU) 2018/2066 of 19 December 2018 L 334 1 31.12.2018 The final consolidated version before repeal is available at: http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0601-20190101",
+      "text_sha256": "8d9d32021eb0604a60ecac52dcfe8b6a42de5b5806a28362e63c7ba5153e60f3",
+      "md_span": {
+        "start": 714,
+        "end": 1673
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

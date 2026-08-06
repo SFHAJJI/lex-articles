@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32002l0038:2007-01-01",
+  "language": "en",
+  "title": "Council Directive 2002/38/EC of 7 May 2002 amending and amending temporarily Directive 77/…",
+  "valid_from": "2007-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32002l0038/versions/2007-01-01/en.html",
+    "sha256": "7b2e5500dd1c96f74c8cb30ba14af0a7e1e3d41a77c56332430f8451c94d5c97",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02002L0038-20070101"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32002l0038:2007-01-01#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "2002L0038 — EN — 01.01.2007 — 002.001 This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents ►B COUNCIL DIRECTIVE 2002/38/EC of 7 May 2002 amending and amending temporarily Directive 77/388/EEC as regards the value added tax arrangements applicable to radio and television broadcasting services and certain electronically supplied services (OJ L 128, 15.5.2002, p.41) repealed by: Official Journal No page date Council Directive 2006/112/EC of 28 November 2006 L 347 1 11.12.2006",
+      "text_sha256": "800af6d91a930cffe892f1d4d2e8c995b0a4e8d58d5aba04ad0d4011eb0d389e",
+      "md_span": {
+        "start": 658,
+        "end": 1202
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

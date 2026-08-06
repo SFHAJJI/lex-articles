@@ -1,0 +1,849 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31998l0070:2009-06-25",
+  "language": "fr",
+  "title": "Directive 98/70/EC",
+  "valid_from": "2009-06-25",
+  "valid_to": "2011-06-21",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31998l0070/versions/2009-06-25/fr.xml",
+    "sha256": "dc7ffad48708369a7638925419d4c7b689d816f1d0809148f5ee78937d10321c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01998L0070-20090625"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Champ d’application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La présente directive fixe, pour les véhicules routiers et les engins mobiles non routiers (y compris les bateaux de navigation intérieure lorsqu’ils ne sont pas en mer), les tracteurs agricoles et forestiers et les bateaux de plaisance lorsqu’ils ne sont pas en mer:\n\na) aux fins de la protection de la santé et de l’environnement, les spécifications techniques applicables aux carburants destinés à être utilisés par les véhicules équipés de moteur à allumage commandé, et de moteur à allumage par compression, compte tenu des spécifications techniques desdits moteurs; et\n\nb) un objectif pour la réduction des gaz à effet de serre émis sur l’ensemble du cycle de vie.",
+      "text_sha256": "c63c8a1f39495d9c8e6c4bce3c58666643710dd4ec855ad60712898e49970bdd",
+      "md_span": {
+        "start": 616,
+        "end": 1286
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0017",
+          "text": "32003L0017: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aux fins de la présente directive, on entend par:\n\n1) «essence»: les huiles minérales volatiles convenant au fonctionnement des moteurs à combustion interne et à allumage commandé, utilisés pour la propulsion des véhicules et relevant des codes NC 2710 11 41, 2710 11 45, 2710 11 49, 2710 11 51 et 2710 11 59 (13);\n\n2) «carburants diesel»: les gazoles relevant du code NC 2710 19 41 (14) et utilisés pour la propulsion des véhicules visés dans les directives 70/220/CEE et 88/77/CEE;\n\n3. «gazoles destinés à être utilisés pour les engins mobiles non routiers (y compris les bateaux de navigation intérieure) et les tracteurs agricoles et forestiers, ainsi que pour les bateaux de plaisance»: tout liquide dérivé du pétrole et relevant des codes NC 2710 19 41 à 2710 19 45 (15), destiné à être utilisé dans les moteurs visés dans les directives du Parlement européen et du Conseil 94/25/CE (16), 97/68/CE (17) et 2000/25/CE (18);\n\n4) «régions ultrapériphériques»: la France pour ce qui est des départements français d'outre-mer, le Portugal pour ce qui est des Açores et de Madère et l'Espagne pour ce qui est des îles Canaries;\n\n5. «États membres connaissant de faibles températures ambiantes estivales»: le Danemark, l’Estonie, la Finlande, l’Irlande, la Lettonie, la Lituanie, la Suède et le Royaume-Uni;\n\n6. «émissions de gaz à effet de serre sur l’ensemble du cycle de vie»: l’ensemble des émissions nettes de CO2, de CH4 et de N2O qui peuvent être imputées au carburant (y compris les composants qui y sont mélangés) ou à l’énergie fournis. Cette notion recouvre toutes les étapes pertinentes, depuis l’extraction ou la culture, y compris le changement d’affectation des terres, le transport et la distribution, la transformation et la combustion, quel que soit le lieu où ces émissions sont produites;\n\n7. «émissions de gaz à effet de serre par unité d'énergie»: la masse totale des émissions de gaz à effet de serre mesurées en équivalents au CO2 associées au carburant ou à l’énergie fournis, divisée par la teneur énergétique totale du carburant ou de l’énergie fournis (exprimée, pour le carburant, sous la forme de son pouvoir calorifique inférieur);\n\n8. «fournisseur»: l’entité responsable du passage du carburant ou de l’énergie par un point de contrôle des produits soumis à accises ou, si aucune accise n’est due, toute autre entité compétente désignée par un État membre;\n\n9. «biocarburant»: s’entend au sens de la directive 2009/28/CE du Parlement européen et du Conseil du 23 avril 2009 relative à la promotion de l’utilisation de l’énergie produite à partir de sources renouvelables (19).",
+      "text_sha256": "e6589970b8458fecb89d5c26d812ca24c0ddcf07814fc14c8afa89865bf289ec",
+      "md_span": {
+        "start": 1337,
+        "end": 3944
+      },
+      "citations": [
+        {
+          "href": "#E0013",
+          "text": "13"
+        },
+        {
+          "href": "#E0014",
+          "text": "14"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: REPLACED"
+        },
+        {
+          "href": "#E0015",
+          "text": "15"
+        },
+        {
+          "href": "#E0016",
+          "text": "16"
+        },
+        {
+          "href": "#E0017",
+          "text": "17"
+        },
+        {
+          "href": "#E0018",
+          "text": "18"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0017",
+          "text": "32003L0017: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: INSERTED"
+        },
+        {
+          "href": "#E0019",
+          "text": "19"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: DELETED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31998L0070",
+          "text": "31998L0070"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Essence",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Au plus tard le 1er janvier 2000, les États membres interdisent la commercialisation sur leur territoire de l'essence plombée.\n\n2. Les États membres veillent à ce que l’essence ne puisse être mise sur le marché sur leur territoire que si elle est conforme aux spécifications environnementales fixées à l’annexe I.\n\nToutefois, les États membres peuvent prévoir, pour les régions ultrapériphériques, des dispositions spécifiques pour l’introduction d’essence d’une teneur en soufre maximale de 10 mg/kg. Les États membres qui ont recours à la présente disposition en informent la Commission.\n\n3. Les États membres exigent des fournisseurs qu’ils garantissent la mise sur le marché d’une essence ayant une teneur maximale en oxygène de 2,7 % et une teneur maximale en éthanol de 5 % jusqu’en 2013 et ils peuvent exiger la mise sur le marché de cette essence pour une période plus longue s’ils l’estiment nécessaire. Ils garantissent que des informations pertinentes sont fournies aux consommateurs en ce qui concerne la teneur en biocarburant de l’essence et, en particulier, l’utilisation appropriée des différents mélanges d’essence.\n\n4. Sous réserve des dispositions du paragraphe 5, les États membres qui connaissent des conditions de basses températures ambiantes estivales peuvent autoriser, au cours de la période d’été, la mise sur le marché d’essence dont le niveau maximal de pression de vapeur est de 70 kPa.\n\nLes États membres dans lesquels la dérogation prévue au premier alinéa n’est pas appliquée peuvent, sous réserve des dispositions du paragraphe 5, autoriser au cours de la période d’été la mise sur le marché d’essence contenant de l’éthanol et dont le niveau maximal de pression de vapeur est de 60 kPa, et ils peuvent permettre, en outre, le dépassement autorisé de la pression de vapeur indiqué à l’annexe III, à condition que l’éthanol utilisé soit un biocarburant.\n\n5. Lorsqu’un État membre souhaite appliquer l’une des dérogations prévues au paragraphe 4, il le notifie à la Commission et lui fournit toutes les informations pertinentes. La Commission évalue le bien-fondé et la durée de la dérogation, en tenant compte:\n\na) des problèmes socio-économiques évités grâce à l’augmentation de la pression de vapeur, y compris les besoins d’adaptation technique à court terme; et\n\nb) des répercussions sur l’environnement ou la santé d’une augmentation de la pression de vapeur et, en particulier, des incidences sur le respect de la législation communautaire relative à la qualité de l’air, tant dans l’État membre concerné que dans d’autres États membres.\n\nSi l’évaluation de la Commission fait apparaître que la dérogation aboutira à un non-respect de la législation communautaire relative à la qualité de l’air ou à la pollution atmosphérique, y compris les valeurs limites et les plafonds d’émissions applicables, la demande est rejetée. La Commission devrait également tenir compte des valeurs limites applicables.\n\nSi la Commission n’a émis aucune objection dans les six mois qui suivent la réception de toutes les informations pertinentes, l’État membre concerné peut appliquer la dérogation demandée.\n\n6. Nonobstant les dispositions du paragraphe 1, les États membres peuvent continuer à autoriser la commercialisation de petites quantités d’essence plombée dont la teneur en plomb ne dépasse pas 0,15 g/l, à concurrence de 0,03 % de la quantité totale commercialisée, qui sont destinées à être utilisées pour des véhicules de collection d’un type caractéristique et à être distribuées par des groupes d’intérêt commun.",
+      "text_sha256": "b1a0190367d2926f82598eb6efc04a59bb0b1c94a30c069f25650838044d3df9",
+      "md_span": {
+        "start": 3991,
+        "end": 7541
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: DELETED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Carburants diesel",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que les carburants diesel ne puissent être mis sur le marché sur leur territoire que s’ils sont conformes aux spécifications fixées à l’annexe II.\n\nNonobstant les prescriptions de l’annexe II, les États membres peuvent autoriser la mise sur le marché de carburants diesel dont la teneur en esters méthyliques d’acides gras (EMAG) est supérieure à 7 %.\n\nLes États membres garantissent que des informations pertinentes sont fournies aux consommateurs en ce qui concerne la teneur du diesel en biocarburant, notamment en EMAG.\n\n2. Les États membres veillent à ce que, le 1er janvier 2008 au plus tard, les gazoles destinés à être utilisés pour les engins mobiles non routiers (y compris les bateaux de navigation intérieure), les tracteurs agricoles et forestiers et les bateaux de plaisance puissent être mis sur le marché sur leur territoire, à condition que leur teneur en soufre ne dépasse pas 1 000 mg/kg. À partir du 1er janvier 2011, la teneur maximale en soufre admissible pour ces gazoles est de 10 mg/kg. Les États membres garantissent que les combustibles liquides autres que ces gazoles ne peuvent être utilisés pour les bateaux de navigation intérieure et les bateaux de plaisance que si leur teneur en soufre ne dépasse pas la teneur maximale admissible pour lesdits gazoles.\n\nCependant, afin de s’adapter à une contamination moindre dans la chaîne logistique, les États membres peuvent, à compter du 1er janvier 2011, permettre que les gazoles destinés à être utilisés pour les engins mobiles non routiers (y compris les bateaux de navigation intérieure), les tracteurs agricoles et forestiers et les bateaux de plaisance contiennent jusqu’à 20 mg/kg de soufre au moment de leur distribution finale aux utilisateurs finaux. Les États membres peuvent également autoriser la mise sur le marché permanente, jusqu’au 31 décembre 2011, de gazole contenant jusqu’à 1 000 mg/kg de soufre, destiné aux véhicules ferroviaires et aux tracteurs agricoles et forestiers, à condition qu’ils soient en mesure de garantir que le fonctionnement correct des systèmes de contrôle des émissions ne sera pas compromis.\n\n3. Les États membres peuvent prévoir, pour les régions ultrapériphériques, des dispositions spécifiques pour l’introduction de carburants diesel et de gazole d’une teneur en soufre maximale de 10 mg/kg. Les États membres qui ont recours à la présente disposition en informent la Commission.\n\n4. Pour les États membres connaissant un hiver rigoureux, le point de distillation maximal de 65 % à 250 °C pour les carburants diesel et les gazoles peut être remplacé par un point de distillation maximal de 10 % (vol/vol) à 180 °C.",
+      "text_sha256": "2443fdbdd2fa962d6d47c3eba5c00240c1c14ab1dc999554ff658cb59edbe88c",
+      "md_span": {
+        "start": 7598,
+        "end": 10270
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/31998L0070",
+          "text": "31998L0070"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Libre circulation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aucun État membre ne peut interdire, limiter ou empêcher la mise sur le marché de carburants conformes aux exigences de la présente directive.",
+      "text_sha256": "c977196dc2f0c9ad2ad72d22fc0b2873b10e5034996d95261f73b754bba69fab",
+      "md_span": {
+        "start": 10327,
+        "end": 10469
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Commercialisation de carburants ayant des spécifications environnementales plus strictes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Par dérogation aux articles 3, 4 et 5 et conformément à l'article 95, paragraphe 10, du traité, un État membre peut prendre des mesures pour exiger que, dans des zones spécifiques situées sur son territoire, les carburants ne puissent être commercialisés que s'ils sont conformes à des spécifications environnementales plus strictes que celles prévues par la présente directive pour l'ensemble ou une partie du parc de véhicules en vue de protéger, dans cet État membre, la santé de la population dans une agglomération déterminée ou l'environnement dans une zone déterminée sensible du point de vue écologique ou environnemental, si la pollution atmosphérique ou des eaux souterraines constitue un problème grave et récurrent pour la santé humaine ou l'environnement ou que l'on peut légitimement s'attendre à ce qu'elle constitue un tel problème.\n\n2. Un État membre qui souhaite faire usage de la dérogation prévue au paragraphe 1 soumet à l'avance une demande motivée en ce sens à la Commission. La motivation comprend des preuves que la dérogation respecte le principe de proportionnalité et qu'elle ne constituera pas une entrave à la libre circulation des personnes et des biens.\n\n3. L'État membre concerné fournit à la Commission des données pertinentes sur l'environnement pour l'agglomération ou la zone en question ainsi que sur les effets que les mesures préconisées devraient avoir sur l'environnement.\n\n4. La Commission communique sans délai ces informations aux autres États membres.\n\n5. Les États membres peuvent faire valoir leurs observations sur la demande et sa motivation dans un délai de deux mois à compter de la date de la communication des informations par la Commission.\n\n6. La Commission statue sur la demande des États membres, dans un délai de trois mois à compter de la date à laquelle les États membres ont présenté leurs observations. La Commission tient compte des observations des États membres; elle leur notifie sa décision et en informe simultanément le Parlement européen et le Conseil.",
+      "text_sha256": "ab80f5f4557e8453386e03c50e5960ec60e473acf8573ce6b6d5f2d854752829",
+      "md_span": {
+        "start": 10597,
+        "end": 12623
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0017",
+          "text": "32003L0017: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31998L0070",
+          "text": "31998L0070"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0017",
+          "text": "32003L0017: DELETED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Modification de l'approvisionnement en pétrole brut",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Si, à la suite d'événements exceptionnels, un changement soudain dans l'approvisionnement en pétrole brut ou en produits pétroliers rend difficile le respect des exigences de qualité du carburant énoncées aux articles 3 et 4 par les raffineries d'un État membre, ce dernier en informe la Commission. La Commission, après avoir informé les autres États membres, peut autoriser des valeurs limites plus élevées dans cet État membre, pour un ou plusieurs paramètres de ce carburant, pour une période n'excédant pas six mois.\n\nLa Commission notifie sa décision aux États membres et en informe le Parlement européen et le Conseil.\n\nLes États membres peuvent saisir le Conseil de la décision de la Commission dans le mois qui suit sa notification.\n\nLe Conseil, statuant à la majorité qualifiée, peut prendre une décision différente dans un délai d'un mois à compter de sa saisine.",
+      "text_sha256": "be8135dd07a2b67ee1030729544f47ce80756d47ce68425a4ba8599f7279cee8",
+      "md_span": {
+        "start": 12714,
+        "end": 13588
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7_bis",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_7_bis",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7 bis",
+      "heading": "Réduction des émissions de gaz à effet de serre",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres désignent le ou les fournisseurs chargés de contrôler et de déclarer les émissions de gaz à effet de serre des carburants et de l’énergie fournis, produites sur l’ensemble du cycle de vie par unité d’énergie. Dans le cas des fournisseurs d’électricité destinée au fonctionnement de véhicules routiers, les États membres veillent à ce que ces fournisseurs puissent décider de contribuer à l’obligation en matière de réduction, prévue au paragraphe 2, s’ils peuvent démontrer leur capacité à mesurer et à contrôler efficacement l’électricité fournie pour le fonctionnement de ces véhicules.\n\nÀ partir du 1er janvier 2011, les fournisseurs présentent à l’autorité désignée par l’État membre un rapport annuel sur l’intensité des émissions de gaz à effet de serre des carburants et de l’énergie fournis dans chaque État membre, en apportant au minimum les informations suivantes:\n\na) le volume total de chaque type de carburant ou d’énergie fournis, en indiquant le lieu d’achat et l’origine de ces produits; et\n\nb) les émissions de gaz à effet de serre produites sur l’ensemble du cycle de vie par unité d’énergie.\n\nLes États membres garantissent que les rapports sont soumis à une vérification.\n\nLa Commission fixe, le cas échéant, des orientations pour la mise en œuvre des dispositions du présent paragraphe.\n\n2. Les États membres demandent aux fournisseurs de réduire, aussi progressivement que possible, les émissions de gaz à effet de serre, produites sur l’ensemble du cycle de vie du carburant ou de l’énergie fournis, par unité d’énergie, à hauteur de 10 %, le 31 décembre 2020 au plus tard, en comparaison avec les normes de base pour les carburants visées au paragraphe 5, point b). Cette réduction se compose des éléments suivants:\n\na) 6 %, le 31 décembre 2020 au plus tard. Les États membres peuvent exiger des fournisseurs, à cette fin, qu’ils se conforment aux objectifs intermédiaires suivants: 2 %, le 31 décembre 2014 au plus tard et 4 %, le 31 décembre 2017 au plus tard;\n\nb) un objectif indicatif de 2 % supplémentaires, le 31 décembre 2020 au plus tard, dans les termes de l’article 9, paragraphe 1, point h), réalisé grâce à au moins l’une des deux méthodes suivantes:\n\ni) la fourniture d’énergie destinée aux transports, fournie pour le fonctionnement de tout type de véhicule routier ou d’engin mobile non routier (y compris les bateaux de navigation intérieure), les tracteurs agricoles et forestiers et les bateaux de plaisance;\n\nii) l’utilisation de toute technologie (y compris le piégeage et le stockage du dioxyde de carbone) susceptible de réduire les émissions de gaz à effet de serre produites sur l’ensemble du cycle de vie par unité d’énergie du carburant ou de l’énergie fournis;\n\nc) un objectif indicatif supplémentaire de 2 %, le 31 décembre 2020 au plus tard, dans les termes de l’article 9, paragraphe 1, point i), réalisé grâce à l’utilisation de crédits acquis via le mécanisme pour un développement propre du protocole de Kyoto, dans les conditions prévues par la directive 2003/87/CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d’échange de quotas d’émission de gaz à effet de serre dans la Communauté (20), dans un objectif de réduction des émissions dans le secteur de l’approvisionnement en carburants.\n\n3. Les émissions de gaz à effet de serre des biocarburants, produites sur l’ensemble du cycle de vie, sont calculées conformément à l’article 7 *quinquies*. Les émissions de gaz à effet de serre produites sur l’ensemble du cycle de vie qui sont issues d’autres carburants et d’autres sources d’énergie sont calculées sur la base d’une méthode définie conformément au paragraphe 5 du présent article.\n\n4. Les États membres garantissent qu’un groupe de fournisseurs peut décider de se conformer conjointement aux obligations de réduction prévues par le paragraphe 2. Dans ce cas, ceux-ci sont considérés comme un fournisseur unique aux fins du paragraphe 2.\n\n5. Les mesures nécessaires à la mise en œuvre du présent article et qui visent à modifier des éléments non essentiels de la présente directive en la complétant sont arrêtées en conformité avec la procédure de réglementation avec contrôle visée à l’article 11, paragraphe 4. Ces mesures comprennent notamment:\n\na) la méthode de calcul des émissions de gaz à effet de serre produites sur l’ensemble du cycle de vie, qui sont issues de carburants autres que les biocarburants et des sources d’énergie;\n\nb) la méthode spécifiant, avant le 1er janvier 2011, les normes de base concernant les carburants, compte tenu des émissions de gaz à effet de serre sur l’ensemble du cycle de vie, par unité d’énergie, imputées aux carburants fossiles en 2010, aux fins du paragraphe 2;\n\nc) toute disposition nécessaire à la mise en œuvre du paragraphe 4;\n\nd) la méthode permettant de calculer la contribution des véhicules routiers électriques, qui est compatible avec l’article 3, paragraphe 4, de la directive 2009/28/CE.",
+      "text_sha256": "9fbea963f3851460e85c80d18a3917cbd5fce81e340bbec0b43f3e467ee86653",
+      "md_span": {
+        "start": 13683,
+        "end": 18650
+      },
+      "citations": [
+        {
+          "href": "#E0020",
+          "text": "20"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7_ter",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_7_ter",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7 ter",
+      "heading": "Critères de durabilité pour les biocarburants",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Indépendamment du fait que les matières premières ont été cultivées sur le territoire de la Communauté ou en dehors de celui-ci, l’énergie produite à partir des biocarburants est prise en considération aux fins de l’article 7 *bis* uniquement si ceux-ci répondent aux critères de durabilité définis aux paragraphes 2 à 6 du présent article.\n\nToutefois, les biocarburants produits à partir de déchets et de résidus, autres que les résidus provenant de l’agriculture, de l’aquaculture, de la pêche et de la sylviculture, doivent seulement remplir les critères de durabilité énoncés au paragraphe 2 du présent article pour être pris en considération aux fins visées à l’article 7 *bis*.\n\n2. La réduction des émissions de gaz à effet de serre résultant de l’utilisation de biocarburants pris en considération aux fins visées au paragraphe 1 est d’au moins 35 %.\n\nAvec effet à partir du 1er janvier 2017, la réduction des émissions de gaz à effet de serre résultant de l’utilisation de biocarburants pris en considération aux fins visées au paragraphe 1 est d’au moins 50 %. À partir du 1er janvier 2018, cette réduction des émissions de gaz à effet de serre est d’au moins 60 % pour les biocarburants produits dans des installations dans lesquelles la production aura démarré le 1er janvier 2017 ou postérieurement.\n\nLa réduction des émissions de gaz à effet de serre résultant de l’utilisation de biocarburants est calculée conformément à l’article 7 *quinquies*, paragraphe 1.\n\nDans le cas de biocarburants produits par des installations qui étaient en service le 23 janvier 2008, le premier alinéa s’applique à compter du 1er avril 2013.\n\n3. Les biocarburants pris en considération aux fins visées au paragraphe 1 ne sont pas produits à partir de matières premières provenant de terres de grande valeur en termes de diversité biologique, c’est-à-dire de terres qui possédaient l’un des statuts suivants, en janvier 2008 ou postérieurement, qu’elles aient ou non conservé ce statut à ce jour:\n\na) forêts primaires et autres surfaces boisées primaires, c’est-à-dire les forêts et autres surfaces boisées d’essences indigènes, lorsqu’il n’y a pas d’indication clairement visible d’activité humaine et que les processus écologiques ne sont pas perturbés de manière importante;\n\nb) zones affectées:\n\ni) par la loi ou par l’autorité compétente concernée à la protection de la nature; ou\n\nii) à la protection d’écosystèmes ou d’espèces rares, menacés ou en voie de disparition, reconnues par des accords internationaux ou figurant sur les listes établies par des organisations intergouvernementales ou par l’Union internationale pour la conservation de la nature, sous réserve de leur reconnaissance conformément à l’article 7 *quater*, paragraphe 4, deuxième alinéa;\n\nsauf à produire des éléments attestant que la production de ces matières premières n’a pas compromis ces objectifs de protection de la nature;\n\nc) prairies présentant une grande valeur sur le plan de la biodiversité, c’est-à-dire:\n\ni) prairies naturelles, à savoir celles qui, en l’absence d’intervention humaine, resteraient des prairies et qui préservent la composition des espèces naturelles ainsi que les caractéristiques et processus écologiques; ou\n\nii) prairies non naturelles, à savoir celles qui, en l’absence d’intervention humaine, cesseraient d’être des prairies, et qui sont riches en espèces et non dégradées, sauf à produire des éléments attestant que la récolte des matières premières est nécessaire à la préservation du statut de prairie.\n\nLa Commission définit les critères et les zones géographiques servant à désigner les prairies concernées par le premier alinéa, point c). Ces mesures, qui visent à modifier des éléments non essentiels de la présente directive en la complétant, sont arrêtées en conformité avec la procédure de réglementation avec contrôle visée à l’article 11, paragraphe 4.\n\n4. Les biocarburants pris en considération aux fins visées au paragraphe 1 ne sont pas produits à partir de matières premières provenant de terres présentant un important stock de carbone, c’est-à-dire de terres qui possédaient l’un des statuts suivants, en janvier 2008, et qui ne possèdent plus ce statut:\n\na) zones humides, c’est-à-dire des terres couvertes ou saturées d’eau en permanence ou pendant une partie importante de l’année;\n\nb) zones forestières continues, c’est-à-dire une étendue de plus d’un hectare caractérisée par un peuplement d’arbres d’une hauteur supérieure à cinq mètres et des frondaisons couvrant plus de 30 % de sa surface, ou par un peuplement d’arbres pouvant atteindre ces seuils in situ;\n\nc) étendue de plus d’un hectare caractérisée par un peuplement d’arbres d’une hauteur supérieure à cinq mètres et des frondaisons couvrant entre 10 et 30 % de sa surface, ou par un peuplement d’arbres pouvant atteindre ces seuils in situ, à moins qu’il n’ait été prouvé que le stock de carbone de la zone, avant et après sa conversion, est tel que, quand la méthodologie établie à l’annexe IV, partie C, est appliquée, les conditions prévues au paragraphe 2 du présent article, seront remplies.\n\nLe présent paragraphe ne s’applique pas si, au moment de l’obtention des matières premières, les terres avaient le même statut qu’en janvier 2008.\n\n5. Les biocarburants pris en considération aux fins visées au paragraphe 1 ne sont pas fabriqués à partir de matières premières obtenues à partir de terres qui étaient des tourbières, en janvier 2008, à moins qu’il n’ait été prouvé que la culture et la récolte de ces matières premières n’impliquent pas le drainage des sols auparavant non drainés.\n\n6. Les matières premières agricoles cultivées dans la Communauté et utilisées pour la production de biocarburants pris en considération aux fins visées à l’article 7 *bis* sont obtenues conformément aux exigences et aux normes prévues par les dispositions visées sous le titre «Environnement» de l’annexe II, partie A et point 9, du règlement (CE) no 73/2009 du Conseil du 19 janvier 2009 établissant des règles communes pour les régimes de soutien direct en faveur des agriculteurs dans le cadre de la politique agricole commune et établissant certains régimes de soutien en faveur des agriculteurs (21), et conformément aux exigences minimales pour le maintien de bonnes conditions agricoles et environnementales au sens de l’article 6, paragraphe 1, dudit règlement.\n\n7. La Commission présente tous les deux ans au Parlement européen et au Conseil, en ce qui concerne à la fois les pays tiers et les États membres qui sont une source importante de biocarburants ou de matières premières pour les biocarburants consommés au sein de la Communauté, un rapport sur les mesures nationales prises en vue de respecter les critères de durabilité visés aux paragraphes 2 à 5 et pour la protection des sols, de l’eau et de l’air. Le premier rapport est présenté en 2012.\n\nLa Commission présente tous les deux ans au Parlement européen et au Conseil un rapport relatif à l’incidence de l’augmentation de la demande de biocarburants sur la viabilité sociale dans la Communauté et les pays tiers et à l’incidence de la politique communautaire en matière de biocarburants sur la disponibilité des denrées alimentaires à un prix abordable, en particulier pour les personnes vivant dans les pays en développement, et à d’autres questions générales liées au développement. Les rapports traitent du respect des droits d’usage des sols. Ils indiquent, tant pour les pays tiers que pour les États membres qui sont une source importante de matières premières pour les biocarburants consommés au sein de la Communauté, si le pays a ratifié et mis en œuvre chacune des conventions suivantes de l’Organisation internationale du travail:\n\n— convention concernant le travail forcé ou obligatoire (no 29),\n\n— convention concernant la liberté syndicale et la protection du droit syndical (no 87),\n\n— convention concernant l’application des principes du droit d’organisation et de négociation collective (no 98),\n\n— convention concernant l’égalité de rémunération entre la main-d’œuvre masculine et la main-d’œuvre féminine pour un travail de valeur égale (no 100),\n\n— convention concernant l’abolition du travail forcé (no 105),\n\n— convention concernant la discrimination en matière d’emploi et de profession (no 111),\n\n— convention concernant l’âge minimal d’admission à l’emploi (no 138),\n\n— convention concernant l’interdiction des pires formes de travail des enfants et l’action immédiate en vue de leur élimination (no 182).\n\nCes rapports indiquent, tant pour les pays tiers que pour les États membres qui sont une source importante de matières premières pour les biocarburants consommés au sein de la Communauté, si le pays a ratifié et mis en œuvre:\n\n— le protocole de Carthagène sur la prévention des risques biotechnologiques,\n\n— la convention sur le commerce international des espèces de faune et de flore sauvages menacées d’extinction.\n\nLe premier rapport est présenté en 2012. La Commission propose, s’il y a lieu, des mesures correctives, en particulier s’il y a des éléments attestant que la production des biocarburants a un impact considérable sur le prix des denrées alimentaires.\n\n8. Aux fins visées au paragraphe 1, les États membres ne refusent pas de prendre en considération, pour d’autres motifs de durabilité, les biocarburants obtenus conformément au présent article.",
+      "text_sha256": "77cd9ff084632c4a43b33e4309eb9c84e47f200a5d099ab324ad796d11281a76",
+      "md_span": {
+        "start": 18743,
+        "end": 28106
+      },
+      "citations": [
+        {
+          "href": "#E0021",
+          "text": "21"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7_quater",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_7_quater",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7 quater",
+      "heading": "Vérification du respect des critères de durabilité pour les biocarburants",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Lorsque les biocarburants doivent être pris en considération aux fins visées à l’article 7 *bis*, les États membres font obligation aux opérateurs économiques de montrer que les critères de durabilité de l’article 7 *ter*, paragraphes 2 à 5, ont été respectés. À cet effet, ils exigent des opérateurs économiques qu’ils utilisent un système de bilan massique qui:\n\na) permet à des lots de matières premières ou de biocarburant présentant des caractéristiques de durabilité différentes d’être mélangés;\n\nb) requiert que des informations relatives aux caractéristiques de durabilité et au volume des lots visés au point a) restent associées au mélange; et\n\nc) prévoit que la somme de tous les lots prélevés sur le mélange soit décrite comme ayant les mêmes caractéristiques de durabilité, dans les mêmes quantités, que la somme de tous les lots ajoutés au mélange.\n\n2. La Commission fait rapport au Parlement européen et au Conseil, en 2010 et en 2012, sur le fonctionnement de la méthode de vérification par bilan massique décrite au paragraphe 1 et sur les possibilités de prendre en compte d’autres méthodes de vérification pour une partie ou la totalité des types de matières premières ou de biocarburants. L’analyse de la Commission porte sur les méthodes de vérification dans lesquelles les informations relatives aux caractéristiques de durabilité ne doivent pas rester physiquement associées à des lots ou à des mélanges déterminés. L’analyse prend également en compte la nécessité de maintenir l’intégrité et l’efficacité du système de vérification sans imposer une charge déraisonnable aux entreprises. Le rapport est accompagné, le cas échéant, de propositions adressées au Parlement européen et au Conseil concernant l’utilisation d’autres méthodes de vérification.\n\n3. Les États membres prennent des mesures afin de veiller à ce que les opérateurs économiques soumettent des informations fiables et mettent à la disposition de l’État membre, à sa demande, les données utilisées pour établir les informations. Les États membres exigent des opérateurs économiques qu’ils veillent à assurer un niveau suffisant de contrôle indépendant des informations qu’ils soumettent et qu’ils apportent la preuve que ce contrôle a été effectué. Le contrôle consiste à vérifier si les systèmes utilisés par les opérateurs économiques sont précis, fiables et à l’épreuve de la fraude. Il évalue la fréquence et la méthode d’échantillonnage ainsi que la validité des données.\n\nLes informations visées au premier alinéa comportent notamment des informations sur le respect des critères de durabilité énoncés à l’article 7 *ter*, paragraphes 2 à 5, des informations appropriées et pertinentes sur les mesures prises pour la protection des sols, de l’eau et de l’air, la restauration des terres dégradées, sur les mesures visant à éviter une consommation d’eau excessive dans les zones où l’eau est rare, et sur les mesures prises pour tenir compte des éléments visés à l’article 7 *ter*, paragraphe 7, deuxième alinéa.\n\nLa Commission établit, conformément à la procédure consultative visée à l’article 11, paragraphe 3, la liste des informations appropriées et pertinentes visées aux premier et deuxième alinéas. Elle veille, en particulier, à ce que la communication de ces informations ne constitue pas une charge administrative excessive pour les opérateurs en général ou, plus particulièrement, pour les petits exploitants agricoles, les organisations de producteurs et les coopératives.\n\nLes obligations prévues au présent paragraphe s’appliquent indépendamment du fait que les biocarburants sont produits à l’intérieur de la Communauté ou importés.\n\nLes États membres transmettent, sous forme agrégée, les informations visées au premier alinéa, à la Commission qui en publie un résumé sur la plate-forme de transparence visée à l’article 24 de la directive 2009/28/CE, en préservant la confidentialité des informations commercialement sensibles.\n\n4. La Communauté s’efforce de conclure des accords bilatéraux ou multilatéraux avec des pays tiers contenant des dispositions relatives aux critères de durabilité qui correspondent à celles de la présente directive. Lorsque la Communauté a conclu des accords contenant des dispositions qui portent sur les sujets couverts par les critères de durabilité énoncés à l’article 7 *ter*, paragraphes 2 à 5, la Commission peut décider que ces accords servent à établir que les biocarburants produits à partir de matières premières cultivées dans ces pays sont conformes aux critères de durabilité en question. Lors de la conclusion de ces accords, une attention particulière est portée aux mesures prises pour la conservation des zones qui fournissent des services écosystémiques de base dans les situations critiques (par exemple, protection de bassins versants, contrôle de l’érosion), pour la protection des sols, de l’eau et de l’air, pour les changements indirects d’affectation des sols et la restauration des terres dégradées, aux mesures visant à éviter une consommation d’eau excessive dans les zones où l’eau est rare, ainsi qu’aux éléments visés à l’article 7 *ter*, paragraphe 7, deuxième alinéa.\n\nLa Commission peut décider que les systèmes nationaux ou internationaux volontaires établissant des normes pour la production de produits de la biomasse contiennent des données précises aux fins de l’article 7 *ter*, paragraphe 2, ou servent à prouver que les lots de biocarburants sont conformes aux critères de durabilité définis à l’article 7 *ter*, paragraphes 3, 4 et 5. La Commission peut décider que ces systèmes contiennent des données précises aux fins de l’information sur les mesures prises pour la conservation des zones qui fournissent des services écosystémiques de base dans les situations critiques (par exemple, protection de bassins versants, contrôle de l’érosion), pour la protection des sols, de l’eau et de l’air, pour la restauration des terres dégradées, sur les mesures visant à éviter la consommation excessive d’eau dans les zones où l’eau est rare, ainsi qu’aux fins de l’information sur les éléments visés à l’article 7 *ter*, paragraphe 7, deuxième alinéa. Elle peut aussi reconnaître les zones affectées à la protection d’écosystèmes ou d’espèces rares, menacés ou en voie de disparition, reconnues par des accords internationaux ou figurant sur les listes établies par des organisations intergouvernementales ou par l’Union internationale pour la conservation de la nature aux fins de l’article 7 *ter*, paragraphe 3, point b) ii).\n\nLa Commission peut décider que les systèmes nationaux ou internationaux volontaires destinés à mesurer les réductions de gaz à effet de serre contiennent des données précises aux fins de l’article 7 *ter*, paragraphe 2.\n\nLa Commission peut décider que des terres incluses dans un programme national ou régional pour la reconversion des terres sévèrement dégradées ou fortement contaminées sont conformes aux critères visés à l’annexe IV, partie C, point 9.\n\n5. La Commission ne prend les décisions visées au paragraphe 4 que si l’accord ou le système en question répond à des critères satisfaisants de fiabilité, de transparence et de contrôle indépendant. Dans le cas de systèmes destinés à mesurer les réductions des émissions de gaz à effet de serre, ces systèmes satisfont également aux exigences méthodologiques de l’annexe IV. Les listes des zones de grande valeur en termes de diversité biologique visées à l’article 7 *ter*, paragraphe 3, point b) ii), satisfont à des normes adéquates d’objectivité et de cohérence avec les normes internationalement reconnues et prévoient des procédures de recours appropriées.\n\n6. Les décisions visées au paragraphe 4 sont arrêtées en conformité avec la procédure consultative visée à l’article 11, paragraphe 3. La durée de validité de ces décisions n’excède pas cinq ans.\n\n7. Lorsqu’un opérateur économique apporte une preuve ou des données obtenues dans le cadre d’un accord ou d’un système qui a fait l’objet d’une décision conformément au paragraphe 4, dans la mesure prévue par ladite décision, les États membres n’exigent pas du fournisseur qu’il apporte d’autres preuves de conformité aux critères de durabilité fixés à l’article 7 *ter*, paragraphes 2 à 5, ni d’informations sur les mesures visées au paragraphe 3, deuxième alinéa, du présent article.\n\n8. À la demande d’un État membre ou de sa propre initiative, la Commission examine l’application de l’article 7 *ter* pour une source de biocarburant et, dans un délai de six mois suivant la réception d’une demande et en conformité avec la procédure consultative visée à l’article 11, paragraphe 3, décide si l’État membre concerné peut prendre en considération le biocarburant provenant de cette source aux fins visées à de l’article 7 *bis*.\n\n9. Le 31 décembre 2012 au plus tard, la Commission présente un rapport au Parlement européen et au Conseil concernant:\n\na) l’efficacité du système mis en place pour la fourniture d’informations sur les critères de durabilité; et\n\nb) la faisabilité et l’opportunité d’introduire des dispositions obligatoires en matière de protection de l’air, des sols et de l’eau, compte tenu des données scientifiques les plus récentes et des obligations internationales de la Communauté.\n\nLa Commission propose, s’il y a lieu, des mesures correctives.",
+      "text_sha256": "73b08a6de28d3eba149d402deab573e4efd3f2ccb78d09c25a74070e01a3fc5f",
+      "md_span": {
+        "start": 28233,
+        "end": 37535
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7_quinquies",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_7_quinquies",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7 quinquies",
+      "heading": "Calcul des émissions de gaz à effet de serre produites par les biocarburants sur l’ensemble du cycle de vie",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Aux fins de l’article 7 *bis* et de l’article 7 *ter*, paragraphe 2, les émissions de gaz à effet de serre d’un biocarburant, produites sur l’ensemble du cycle de vie, sont calculées comme suit:\n\na) lorsque l’annexe IV, partie A ou B, fixe une valeur par défaut pour les réductions des émissions de gaz à effet de serre associées à la filière de production des biocarburants et lorsque la valeur el pour ces biocarburants, calculée conformément à l’annexe IV, partie C, paragraphe 7, est égale ou inférieure à zéro, en utilisant cette valeur par défaut;\n\nb) en utilisant la valeur réelle calculée selon la méthode définie à l’annexe IV, partie C; ou\n\nc) en utilisant une valeur calculée correspondant à la somme des facteurs de la formule visée à l’annexe IV, partie C, point 1, où les valeurs par défaut détaillées de l’annexe IV, partie D ou E, peuvent être utilisées pour certains facteurs, et les valeurs réelles calculées conformément à la méthodologie définie à l’annexe IV, partie C, pour tous les autres facteurs.\n\n2. Le 31 mars 2010 au plus tard, les États membres soumettent à la Commission un rapport comprenant une liste des zones de leur territoire classées au niveau 2 de la nomenclature des unités territoriales statistiques (NUTS) ou correspondant à un niveau plus fin de la NUTS conformément au règlement (CE) no 1059/2003 du Parlement européen et du Conseil du 26 mai 2003 relatif à l’établissement d’une nomenclature commune des unités territoriales statistiques (NUTS) (22) dans lesquelles les émissions types prévues de gaz à effet de serre résultant de la culture de matières premières agricoles sont inférieures ou égales aux émissions déclarées sous le titre «Valeurs par défaut détaillées pour les biocarburants» de l’annexe IV, partie D, de la présente directive, accompagnée d’une description de la méthode et des données utilisées pour établir cette liste. Cette méthode prend en considération les caractéristiques de sol, le climat et les rendements de matières premières prévus.\n\n3. Les valeurs par défaut de l’annexe IV, partie A, et les valeurs par défaut détaillées pour la culture de l’annexe IV, partie D, peuvent être utilisées seulement dans la mesure où leurs matières premières sont:\n\na) cultivées à l’extérieur de la Communauté;\n\nb) cultivées à l’intérieur de la Communauté dans des zones figurant sur les listes visées au paragraphe 2; ou\n\nc) des déchets ou des résidus autres que des résidus de l’agriculture, de l’aquaculture et de la pêche.\n\nPour les biocarburants ne relevant pas des points a), b) ou c), les valeurs réelles pour la culture sont utilisées.\n\n4. Le 31 mars 2010 au plus tard, la Commission présente au Parlement européen et au Conseil un rapport sur la faisabilité de l’établissement de listes des zones des pays tiers dans lesquelles les émissions types prévues de gaz à effet de serre résultant de la culture de matières premières agricoles sont inférieures ou égales aux émissions déclarées sous le titre «Culture» de l’annexe IV, partie D, de la présente directive, accompagnée, si possible, d’une description de la méthode et des données utilisées pour les établir. Le rapport est accompagné, le cas échéant, des propositions appropriées.\n\n5. Le 31 décembre 2012 au plus tard, puis tous les deux ans, la Commission fait rapport sur les estimations des valeurs par défaut et des valeurs types visées à l’annexe IV, parties B et E, en prêtant une attention particulière aux émissions résultant des transports et de la transformation, et elle peut, le cas échéant, décider de corriger ces valeurs. Ces mesures, qui visent à modifier des éléments non essentiels de la présente directive, sont arrêtées en conformité avec la procédure de réglementation avec contrôle visée à l’article 11, paragraphe 4.\n\n6. La Commission présente, le 31 décembre 2010 au plus tard, au Parlement européen et au Conseil, un rapport sur l’impact du changement indirect d’affectation des sols sur les émissions de gaz à effet de serre et sur les moyens de réduire cet impact au minimum. Ce rapport s’accompagne, le cas échéant, d’une proposition s’appuyant sur les meilleures preuves scientifiques disponibles, contenant une méthodologie concrète à appliquer aux émissions découlant des changements survenus dans les stocks de carbone en raison de changements indirects d’affectation des sols, afin d’assurer le respect de la présente directive, et notamment de son article 7 *ter*, paragraphe 2.\n\nCette proposition contient les garanties nécessaires pour sécuriser les investissements effectués avant que cette méthodologie ne soit appliquée. S’agissant des installations qui auront produit des biocarburants avant la fin 2013, l’application des mesures visées au premier alinéa ne permet pas de considérer, avant le 31 décembre 2017, les biocarburants produits par ces installations comme ne remplissant pas les critères de durabilité contenus dans la présente directive comme cela aurait été le cas autrement, à la condition toutefois que ces biocarburants permettent d’obtenir des économies de gaz à effet de serre d’au moins 45 %. Cette disposition s’applique aux capacités des installations de biocarburants à la fin de 2012.\n\nLe Parlement européen et le Conseil s’efforcent d’arrêter une décision, le 31 décembre 2012 au plus tard, sur toutes propositions de ce type présentées par la Commission.\n\n7. L’annexe IV peut être adaptée au progrès technique et scientifique, y compris par l’ajout de valeurs pour d’autres filières de production de biocarburants, pour les mêmes matières premières ou pour d’autres, et en modifiant la méthode visée à la partie C. Ces mesures, qui visent à modifier des éléments non essentiels de la présente directive, y compris en la complétant, sont arrêtées en conformité avec la procédure de réglementation avec contrôle visée à l’article 11, paragraphe 4.\n\nEn ce qui concerne les valeurs par défaut et la méthode énoncée à l’annexe IV, une attention particulière est accordée:\n\n— à la méthode de prise en compte des déchets et des résidus,\n\n— à la méthode de prise en compte des coproduits,\n\n— à la méthode de prise en compte de la cogénération, et\n\n— au statut accordé aux résidus de cultures en tant que co-produits.\n\nLes valeurs par défaut concernant le biogazole produit à partir d’huiles végétales usagées ou d’huiles animales seront examinées dans les plus brefs délais.\n\nToute adaptation de la liste des valeurs par défaut de l’annexe IV ou tout ajout à ladite liste respecte ce qui suit:\n\na) lorsque la contribution d’un facteur aux émissions globales est petite, ou lorsque la variation est limitée, ou lorsque le coût ou la difficulté d’établir des valeurs réelles sont élevés, les valeurs par défaut doivent être les valeurs types des procédés de production normaux;\n\nb) dans tous les autres cas, les valeurs par défaut doivent être fondées sur un scénario prudent par rapport aux procédés de production normaux.\n\n8. Des définitions détaillées, y compris les spécifications techniques requises pour les catégories visées à l’annexe IV, partie C, point 9, sont établies. Ces mesures, qui visent à modifier des éléments non essentiels de la présente directive en la complétant, sont arrêtées en conformité avec la procédure de réglementation avec contrôle visée à l’article 11, paragraphe 4.",
+      "text_sha256": "a454288d078dec556a021a02a950fe772b665441bb19b8a55a4955d9f714115a",
+      "md_span": {
+        "start": 37702,
+        "end": 44983
+      },
+      "citations": [
+        {
+          "href": "#E0022",
+          "text": "22"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7_sexies",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_7_sexies",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7 sexies",
+      "heading": "Mesures d’exécution et rapports concernant la durabilité des biocarburants",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les mesures d’exécution visées à l’article 7 *ter*, paragraphe 3, second alinéa, à l’article 7 *quater*, paragraphe 3, troisième alinéa, à l’article 7 *quater*, paragraphe 6, à l’article 7 *quater*, paragraphe 8, à l’article 7 *quinquies*, paragraphe 5, à l’article 7 *quinquies*, paragraphe 7, premier alinéa, et à l’article 7 *quinquies*, paragraphe 8, tiennent également pleinement compte des objectifs de la directive 2009/28/CE.\n\n2. Les rapports transmis par la Commission au Parlement européen et au Conseil, visés à l’article 7 *ter*, paragraphe 7, à l’article 7 *quater*, paragraphe 2, à l’article 7 *quater*, paragraphe 9, à l’article 7 *quinquies*, paragraphes 4 et 5, et paragraphe 6, premier alinéa, ainsi que les rapports et informations soumis conformément à l’article 7 *quater*, paragraphe 3, premier et cinquième alinéas, et à l’article 7 *quinquies*, paragraphe 2, sont élaborés et transmis aux fins de la directive 2009/28/CE et de la présente directive.",
+      "text_sha256": "b320c47f1865269614d87d678949b75658ae13161d672ec28489ab173ab6a557",
+      "md_span": {
+        "start": 45111,
+        "end": 46087
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0017",
+          "text": "32003L0017: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Contrôle du respect des prescriptions et rapport",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres contrôlent le respect des prescriptions mentionnées aux articles 3 et 4, pour l’essence et les carburants diesel, sur la base des méthodes analytiques visées dans les normes européennes EN 228:2004 et EN 590:2004 respectivement.\n\n2. Les États membres mettent en place un système de surveillance de la qualité des carburants conformément aux prescriptions des normes européennes pertinentes. L'utilisation d'un autre système de surveillance de la qualité des carburants peut être autorisée, pour autant que ce système garantisse des résultats présentant une fiabilité équivalente.\n\n3. Le 30 juin de chaque année au plus tard, les États membres présentent un rapport sur leurs données nationales relatives à la qualité des carburants pour l'année civile précédente. Le premier rapport est présenté le 30 juin 2002 au plus tard. À partir du 1er janvier 2004, le format de ce rapport est compatible avec les normes européennes pertinentes. En outre, les États membres communiquent les volumes totaux d'essence et de carburants diesel commercialisés sur leur territoire ainsi que les volumes d'essence sans plomb et de carburants diesel commercialisés ayant une teneur maximale en soufre de 10 mg/kg. De plus, les États membres font rapport chaque année sur la disponibilité, sur une base géographique judicieusement équilibrée, de l'essence et des carburants diesel ayant une teneur maximale en soufre de 10 mg/kg qui sont commercialisés sur leur territoire.\n\n4. La Commission veille à ce que les informations communiquées conformément au paragraphe 3 soient rapidement diffusées par des moyens appropriés. La Commission publie chaque année, et pour la première fois le 31 décembre 2003 au plus tard, un rapport sur la qualité existante des carburants dans les différents États membres et sur la couverture géographique des carburants ayant une teneur maximale en soufre de 10 mg/kg, afin de donner une vue globale des données relatives à la qualité des carburants dans les différents États membres.",
+      "text_sha256": "3c916e0e829cfd79749a5a74c9fa72cdb6a0ee6fccae8042b5de66430da27cd0",
+      "md_span": {
+        "start": 46175,
+        "end": 48191
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0017",
+          "text": "32003L0017: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8_bis",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_8_bis",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8 bis",
+      "heading": "Additifs métalliques",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. La Commission réalise une évaluation des risques pour la santé et l’environnement causés par l’utilisation d’additifs métalliques dans les carburants et élabore, dans ce but, des méthodes d’essai. Elle rend compte de ses conclusions au Parlement européen et au Conseil, le 31 décembre 2012 au plus tard.\n\n2. En attendant le développement des méthodes d’essai mentionnées au paragraphe 1, la présence de l’additif métallique méthylcyclopentadiényl manganèse tricarbonyle (MMT) dans les carburants est limitée à 6 mg de manganèse par litre, à compter du 1er janvier 2011. Cette limite est de 2 mg de manganèse par litre à partir du 1er janvier 2014.\n\n3. La teneur limite de MMT dans les carburants, précisée au paragraphe 2, est révisée sur la base des résultats de l’évaluation réalisée au moyen des méthodes d’essais visées au paragraphe 1. Elle peut être réduite à zéro lorsque l’évaluation des risques le justifie. Elle ne peut être augmentée que si l’évaluation des risques le justifie. Cette mesure, qui vise à modifier des éléments non essentiels de la présente directive, est arrêtée en conformité avec la procédure de réglementation avec contrôle visée à l’article 11, paragraphe 4.\n\n4. Les États membres garantissent qu’une étiquette relative à l’additif métallique présent dans le carburant est apposée partout où un carburant contenant des additifs métalliques est mis à la disposition des consommateurs.\n\n5. Cette étiquette comporte le texte suivant: «Contient des additifs métalliques.»\n\n6. L’étiquette est apposée, de façon bien visible, à l’endroit où sont affichées les informations relatives au type de carburant. La taille de l’étiquette et le format des caractères sont choisis de sorte à rendre l’information clairement visible et facilement lisible.",
+      "text_sha256": "2dfd0e81926fa8de14035ad93aa7626fd9399a8cce3fb0952887ca2d119640cf",
+      "md_span": {
+        "start": 48259,
+        "end": 50031
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Rapport",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Le 31 décembre 2012 au plus tard et tous les trois ans par la suite, la Commission présente au Parlement européen et au Conseil un rapport accompagné, le cas échéant, d’une proposition de modification de la présente directive. Ce rapport porte en particulier sur les points suivants:\n\na) l’utilisation et l’évolution de la technologie automobile et, en particulier, la faisabilité d’une augmentation de la teneur maximale autorisée de biocarburant dans l’essence et le diesel, et la nécessité de réviser la date prévue à l’article 3, paragraphe 3;\n\nb) la politique de la Communauté en matière d’émissions de CO2 des véhicules routiers;\n\nc) la possibilité d’appliquer les exigences visées à l’annexe II, et en particulier la teneur maximale en hydrocarbures aromatiques polycycliques, aux engins mobiles non routiers (y compris les bateaux de navigation intérieure), aux tracteurs agricoles et forestiers et aux bateaux de plaisance;\n\nd) l’augmentation de l’utilisation des détergents dans les carburants;\n\ne) l’utilisation d’additifs métalliques autres que le MMT dans les carburants;\n\nf) le volume total des composants utilisés dans l’essence et dans le diesel, eu égard à la législation communautaire en matière d’environnement, y compris les objectifs de la directive 2000/60/CE du Parlement européen et du Conseil du 23 octobre 2000 établissant un cadre pour une politique communautaire dans le domaine de l’eau (23) et de ses directives filles;\n\ng) les conséquences de l’objectif de réduction des émissions de gaz à effet de serre, visé à l’article 7 *bis*, paragraphe 2, pour le système d’échange de quotas d’émission;\n\nh) la nécessité éventuelle d’adapter l’article 2, paragraphes 6 et 7, et l’article 7 *bis*, paragraphe 2, point b), afin d’évaluer les efforts envisageables pour atteindre un objectif de réduction des gaz à effet de serre de 10 % d’ici à 2020. Ces considérations se fondent sur le potentiel de réduction des émissions de gaz à effet de serre produites sur l’ensemble du cycle de vie des carburants et de l’énergie dans la Communauté, en tenant particulièrement compte de toute évolution dans le domaine des technologies respectueuses de l’environnement en matière de piégeage et de stockage du dioxyde de carbone et dans le domaine des véhicules routiers, ainsi que de la rentabilité des moyens de réduction de ces émissions, dans les termes de l’article 7 *bis*, paragraphe 2, point b);\n\ni) la possibilité d’introduire des mesures supplémentaires afin que les fournisseurs réduisent de 2 % les émissions de gaz à effet de serre produites sur l’ensemble du cycle de vie par unité d’énergie, en comparaison avec les normes de base pour les carburants visées à l’article 7 *bis*, paragraphe 5, point b), grâce à l’utilisation de crédits acquis via le mécanisme pour un développement propre du protocole de Kyoto, dans les conditions prévues par la directive 2003/87/CE, afin d’examiner d’autres contributions éventuelles pour atteindre un objectif de réduction des émissions de gaz à effet de serre de 10 % d’ici à 2020, comme le prévoit l’article 7 *bis*, paragraphe 2, point c), de la présente directive;\n\nj) une évaluation actualisée du rapport coûts-avantages et de l’impact d’une réduction de la pression de vapeur maximale autorisée pour l’essence au cours de la période estivale, en deçà de 60 kPa.\n\n2. Au plus tard en 2014, la Commission soumet un rapport au Parlement européen et au Conseil relatif à la réalisation de l’objectif de réduction des émissions de gaz à effet de serre pour 2020, tel que mentionné à l’article 7 *bis*, en tenant compte de la nécessité de cohérence entre cet objectif et l’objectif visé à l’article 3, paragraphe 3, de la directive 2009/28/CE, en ce qui concerne la part de l’énergie renouvelable dans les transports, à la lumière des rapports mentionnés à l’article 23, paragraphes 8 et 9, de ladite directive.\n\nLa Commission joint à son rapport, le cas échéant, une proposition de modification de l’objectif.",
+      "text_sha256": "483004addcd211de3c180bec46ba2653dbba95b19a7fdb9726f614916e6aa499",
+      "md_span": {
+        "start": 50078,
+        "end": 54052
+      },
+      "citations": [
+        {
+          "href": "#E0023",
+          "text": "23"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0017",
+          "text": "32003L0017: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9_bis",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_9_bis",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9 *bis*",
+      "heading": "Pénalités",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres déterminent les pénalités applicables en cas d'infraction aux dispositions nationales de transposition de la présente directive. Ces pénalités doivent être efficaces, proportionnées et dissuasives.",
+      "text_sha256": "c64c1f8145a1eed4dbcd3d472c3f4f49711e4de808a49bceb6e96b2027605836",
+      "md_span": {
+        "start": 54111,
+        "end": 54326
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/31998L0070",
+          "text": "31998L0070"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Procédure d'adaptation au progrès technique",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Si une adaptation au progrès technique des méthodes d’analyse autorisées, prévues à l’annexe I ou à l’annexe II, est nécessaire, des modifications destinées à modifier des éléments non essentiels de la présente directive sont arrêtées en conformité avec la procédure de réglementation avec contrôle visée à l’article 11, paragraphe 4. L’annexe III peut également être modifiée pour être adaptée au progrès technique et scientifique. Cette mesure, qui vise à modifier des éléments non essentiels de la présente directive, est arrêtée en conformité avec la procédure de réglementation avec contrôle visée à l’article 11, paragraphe 4.\n\n2. Une telle adaptation ne peut entraîner aucune modification directe ou indirecte des valeurs limites fixées dans la présente directive ou aucune modification des dates de leur mise en application.",
+      "text_sha256": "6640bae43a07e14e9f0e9970f0e39892aed6ef96e8b1fe1da29e53ea59cb738d",
+      "md_span": {
+        "start": 54411,
+        "end": 55246
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31998L0070",
+          "text": "31998L0070"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Procédure de comité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. À l’exception des cas visés au paragraphe 2, la Commission est assistée par le comité de la qualité des carburants.\n\n2. Pour les questions relatives à la durabilité des biocarburants en vertu des articles 7 *bis*, 7 *ter* et 7 *quater*, la Commission est assistée par le comité sur la durabilité des biocarburants et des bioliquides visé à l’article 25, paragraphe 2, de la directive 2009/28/CE.\n\n3. Dans le cas où il est fait référence au présent paragraphe, les articles 3 et 7 de la décision 1999/468/CE s’appliquent, dans le respect des dispositions de l’article 8 de celle-ci.\n\n4. Dans le cas où il est fait référence au présent paragraphe, l’article 5 *bis*, paragraphes 1 à 4, et l’article 7 de la décision 1999/468/CE s'appliquent, dans le respect des dispositions de l’article 8 de celle-ci.",
+      "text_sha256": "89f16db16807f2739f4835585e55d784c268cfbc74ae39f2894ca9cfacba7d97",
+      "md_span": {
+        "start": 55307,
+        "end": 56110
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/31998L0070",
+          "text": "31998L0070"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Abrogation et modification des directives concernant la qualité de l'essence et des carburants diesel",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les directives 85/210/CEE, 85/536/CEE et 87/441/CEE sont abrogées avec effet au 1er janvier 2000.\n\n2. La directive 93/12/CEE est modifiée par la suppression de l'article 1er, paragraphe 1, point b), et de l'article 2, paragraphe 1, à partir du 1er janvier 2000.",
+      "text_sha256": "527f2ca681970a515b7d4602914e51fc0bd6efb79667fcb2d42e49e6f6f10574",
+      "md_span": {
+        "start": 56253,
+        "end": 56517
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Transposition dans la législation nationale",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres adoptent et publient les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le 1er juillet 1999. Ils en informent immédiatement la Commission.\n\nIls appliquent ces dispositions à partir du 1er janvier 2000.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu'ils adoptent dans le domaine régi par la présente directive.",
+      "text_sha256": "d11f689b06e6f922ed75093edb38e4d564a666363b8a68ae6f6814ea4ccf2eed",
+      "md_span": {
+        "start": 56602,
+        "end": 57340
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: DELETED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31998L0070",
+          "text": "31998L0070"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Entrée en vigueur de la directive",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La présente directive entre en vigueur le jour de sa publication au *Journal officiel des Communautés européennes*.",
+      "text_sha256": "89ca26fd92a6a7273f9b41c22780bfd4a6b09273c9373b984276fc2d954a7ea0",
+      "md_span": {
+        "start": 57415,
+        "end": 57530
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Destinataires",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres sont destinataires de la présente directive.",
+      "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+      "md_span": {
+        "start": 57585,
+        "end": 57647
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0030",
+          "text": "32009L0030: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_i",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#annexe_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 57686,
+        "end": 57686
+      },
+      "citations": []
+    },
+    {
+      "anchor": "specifications_environnementales_applicables_aux_carburants_sur_le_marche_destines_aux_vehicules_equipes_de_moteur_a_allumage_commande",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#specifications_environnementales_applicables_aux_carburants_sur_le_marche_destines_aux_vehicules_equipes_de_moteur_a_allumage_commande",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "SPÉCIFICATIONS ENVIRONNEMENTALES APPLICABLES AUX CARBURANTS SUR LE MARCHÉ DESTINÉS AUX VÉHICULES ÉQUIPÉS DE MOTEUR À ALLUMAGE COMMANDÉ",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*Type*: **essence**\n\n| Paramètre (1) | Unité | Valeurs limites (2) |  |\n| --- | --- | --- | --- |\n| Minimum | Maximum |  |  |\n| Indice d’octane recherche |  | 95 (3) | — |\n| Indice d’octane moteur |  | 85 | — |\n| Pression de vapeur, période estivale (4) | kPa | — | 60,0 (5) |\n| Distillation: |  |  |  |\n| — pourcentage évaporé à 100 °C | % v/v | 46,0 | — |\n| — pourcentage évaporé à 150 °C | % v/v | 75,0 | — |\n| Composition en hydrocarbures: |  |  |  |\n| — oléfines | % v/v | — | 18,0 |\n| — aromatiques | % v/v | — | 35,0 |\n| — benzène | % v/v | — | 1,0 |\n| Teneur en oxygène | % m/m |  | 3,7 |\n| Composés oxygénés |  |  |  |\n| — Méthanol | % v/v |  | 3,0 |\n| — Éthanol (des agents stabilisants peuvent être nécessaires) | % v/v |  | 10,0 |\n| — Alcool isopropylique | % v/v | — | 12,0 |\n| — Alcool butylique tertiaire | % v/v | — | 15,0 |\n| — Alcool isobutylique | % v/v | — | 15,0 |\n| — Éthers contenant 5 atomes de carbone ou plus par molécule | % v/v | — | 22,0 |\n| — Autres composés oxygénés (6) | % v/v | — | 15,0 |\n| Teneur en soufre | mg/kg | — | 10,0 |\n| Teneur en plomb | g/l | — | 0,005 |\n| (1)Les méthodes d’essai sont celles mentionnées dans la norme EN 228:2004. Les États membres peuvent adopter, le cas échéant, la méthode d’analyse fixée dans la norme de remplacement EN 228:2004, à condition qu’il puisse être établi que cette méthode assure au moins la même exactitude et le même niveau de précision que la méthode d’analyse qu’elle remplace.(2)Les valeurs indiquées dans la spécification sont des «valeurs vraies». Pour établir leurs valeurs limites, les conditions de la norme EN ISO 4259:2006, «Produits pétroliers — détermination et application des valeurs de fidélité relatives aux méthodes d'essai» ont été appliquées. Pour fixer une valeur minimale, une différence minimale de 2R au-dessus de zéro a été prise en compte (R = reproductibilité). Les résultats des mesures individuelles sont interprétés sur la base des critères définis dans la norme EN ISO 4259:2006.(3)Les États membres peuvent décider de continuer à autoriser la mise sur le marché d’essence ordinaire sans plomb avec un indice d’octane moteur (IOM) minimal de 81 et un indice d’octane recherche (IOR) minimal de 91.(4)La période estivale débute au plus tard le 1er mai et ne se termine pas avant le 30 septembre. Dans les États membres qui connaissent des conditions de basses températures ambiantes estivales, la période estivale débute au plus tard le 1er juin et ne se termine pas avant le 31 août.(5)Dans le cas des États membres qui connaissent des conditions de basses températures ambiantes estivales et auxquels une dérogation s’applique conformément à l’article 3, paragraphes 4 et 5, la pression de vapeur maximale est de 70 kPa. Dans le cas des États membres auxquels une dérogation s’applique conformément aux dispositions de l’article 3, paragraphes 4 et 5, relatives à l’essence contenant de l’éthanol, la pression de vapeur maximale est de 60 kPa, à laquelle s’ajoute le dépassement de la pression de vapeur précisé à l’annexe III.(6)Autres mono-alcools et éthers dont le point d’ébullition final n’est pas supérieur à celui mentionné dans la norme EN 228:2004. |  |  |  |",
+      "text_sha256": "42c7c76d3cf70606ef098ebd9c368fccf50637239aab5fb633b49b6a39b222f2",
+      "md_span": {
+        "start": 57977,
+        "end": 61159
+      },
+      "citations": [
+        {
+          "href": "#E0024",
+          "text": "(1)"
+        },
+        {
+          "href": "#E0025",
+          "text": "(2)"
+        },
+        {
+          "href": "#E0026",
+          "text": "(3)"
+        },
+        {
+          "href": "#E0027",
+          "text": "(4)"
+        },
+        {
+          "href": "#E0028",
+          "text": "(5)"
+        },
+        {
+          "href": "#E0029",
+          "text": "(6)"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_ii",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#annexe_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 61200,
+        "end": 61200
+      },
+      "citations": []
+    },
+    {
+      "anchor": "specifications_environnementales_applicables_aux_carburants_sur_le_marche_destines_aux_vehicules_equipes_de_moteur_a_allumage_par_compression",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#specifications_environnementales_applicables_aux_carburants_sur_le_marche_destines_aux_vehicules_equipes_de_moteur_a_allumage_par_compression",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "SPÉCIFICATIONS ENVIRONNEMENTALES APPLICABLES AUX CARBURANTS SUR LE MARCHÉ DESTINÉS AUX VÉHICULES ÉQUIPÉS DE MOTEUR À ALLUMAGE PAR COMPRESSION",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*Type*: **gazole**\n\n| Paramètre (1) | Unité | Valeurs limites (2) |  |\n| --- | --- | --- | --- |\n| Minimum | Maximum |  |  |\n| Valeur du cétane |  | 51,0 | — |\n| Densité à 15 °C | kg/m (3) | — | 845,0 |\n| Distillation: |  |  |  |\n| — 95 % v/v récupéré à: | °C | — | 360,0 |\n| Hydrocarbures aromatiques polycycliques | % m/m | — | 8,0 |\n| Teneur en soufre | mg/kg | — | 10,0 |\n| Teneur en EMAG — EN 14078 | % v/v | — | 7,0 (3) |\n| (1)Les méthodes d’essai sont celles mentionnées dans la norme EN 590:2004. Les États membres peuvent adopter, le cas échéant, la méthode d’analyse fixée dans la norme de remplacement EN 590:2004, à condition qu’il puisse être établi que cette méthode assure au moins la même exactitude et le même niveau de précision que la méthode d’analyse qu’elle remplace.(2)Les valeurs indiquées dans la spécification sont des «valeurs vraies». Pour établir leurs valeurs limites, les conditions de l’EN ISO 4259:2006, «Produits pétroliers — détermination et application des valeurs de fidélité relatives aux méthodes d'essai» ont été appliquées. Pour fixer une valeur minimale, une différence minimale de 2R au-dessus de zéro a été prise en compte (R = reproductibilité). Les résultats des mesures individuelles seront interprétés selon les critères décrits dans EN ISO 4259:2006.(3)La norme EN 14214 s’applique aux EMAG. |  |  |  |",
+      "text_sha256": "265b1bbfcce69dcbff757673973b9cdf2a2b0812bcceb59e0f2a9bd22af0526c",
+      "md_span": {
+        "start": 61505,
+        "end": 62856
+      },
+      "citations": [
+        {
+          "href": "#E0030",
+          "text": "(1)"
+        },
+        {
+          "href": "#E0031",
+          "text": "(2)"
+        },
+        {
+          "href": "#E0032",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_iii",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#annexe_iii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 62899,
+        "end": 62899
+      },
+      "citations": []
+    },
+    {
+      "anchor": "derogation_concernant_la_pression_de_vapeur_autorisee_pour_l_essence_contenant_du_bioethanol",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#derogation_concernant_la_pression_de_vapeur_autorisee_pour_l_essence_contenant_du_bioethanol",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "DÉROGATION CONCERNANT LA PRESSION DE VAPEUR AUTORISÉE POUR L’ESSENCE CONTENANT DU BIOÉTHANOL",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| Teneur en bioéthanol (% v/v) | Dépassement autorisé de la pression de vapeur prescrite (kPa) |\n| --- | --- |\n| 0 | 0 |\n| 1 | 3,65 |\n| 2 | 5,95 |\n| 3 | 7,20 |\n| 4 | 7,80 |\n| 5 | 8,0 |\n| 6 | 8,0 |\n| 7 | 7,94 |\n| 8 | 7,88 |\n| 9 | 7,82 |\n| 10 | 7,76 |\n\nLorsque la teneur en bioéthanol est comprise entre deux valeurs indiquées dans le tableau, le dépassement autorisé de la pression de vapeur prescrite est déterminé par interpolation linéaire à partir des dépassements indiqués pour la teneur en bioéthanol immédiatement supérieure et pour la teneur immédiatement inférieure.",
+      "text_sha256": "57352e779d7ff6a27bbf7c31279ab22ce9930a98ff351128ed88f693cc98a5d8",
+      "md_span": {
+        "start": 63106,
+        "end": 63680
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_iv",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#annexe_iv",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IV",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 63721,
+        "end": 63721
+      },
+      "citations": []
+    },
+    {
+      "anchor": "regles_de_calcul_des_emissions_de_gaz_a_effet_de_serre_produites_par_les_biocarburants_sur_l_ensemble_du_cycle_de_vie",
+      "provision_id": "eu-eurlex:31998l0070:2009-06-25#regles_de_calcul_des_emissions_de_gaz_a_effet_de_serre_produites_par_les_biocarburants_sur_l_ensemble_du_cycle_de_vie",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "RÈGLES DE CALCUL DES ÉMISSIONS DE GAZ À EFFET DE SERRE PRODUITES PAR LES BIOCARBURANTS SUR L’ENSEMBLE DU CYCLE DE VIE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "A. **Valeurs types et valeurs par défaut pour les biocarburants produits sans émissions nettes de carbone dues à des changements dans l’affectation des sols**\n\n| Filière de production | Réduction des émissions de gaz à effet de serre, valeurs types | Réduction des émissions de gaz à effet de serre, valeurs par défaut |\n| --- | --- | --- |\n| Éthanol de betterave | 61 % | 52 % |\n| Éthanol de blé (combustible de transformation non précisé) | 32 % | 16 % |\n| Éthanol de blé (lignite utilisé comme combustible de transformation dans les centrales de cogénération) | 32 % | 16 % |\n| Éthanol de blé (gaz naturel utilisé comme combustible de transformation dans les chaudières classiques) | 45 % | 34 % |\n| Éthanol de blé (gaz naturel utilisé comme combustible de transformation dans les centrales de cogénération) | 53 % | 47 % |\n| Éthanol de blé (paille utilisée comme combustible de transformation dans les centrales de cogénération) | 69 % | 69 % |\n| Éthanol de maïs, produit dans l’Union européenne (gaz naturel utilisé comme combustible de transformation dans les centrales de cogénération) | 56 % | 49 % |\n| Éthanol de canne à sucre | 71 % | 71 % |\n| Fraction de l’éthyl-tertio-butyl-éther (ETBE) issue de sources renouvelables | Mêmes valeurs que pour la filière de production de l’éthanol choisie |  |\n| Fraction du tertioamyléthyléther (TAEE) issue de sources renouvelables | Mêmes valeurs que pour la filière de production de l’éthanol choisie |  |\n| Biogazole de colza | 45 % | 38 % |\n| Biogazole de tournesol | 58 % | 51 % |\n| Biogazole de soja | 40 % | 31 % |\n| Biogazole d’huile de palme (procédé non précisé) | 36 % | 19 % |\n| Biogazole d’huile de palme (piégeage du méthane provenant de l’huilerie) | 62 % | 56 % |\n| Biogazole d’huile végétale usagée ou d’huile animale (1) | 88 % | 83 % |\n| Huile végétale hydrotraitée, colza | 51 % | 47 % |\n| Huile végétale hydrotraitée, tournesol | 65 % | 62 % |\n| Huile végétale hydrotraitée, huile de palme (procédé non précisé) | 40 % | 26 % |\n| Huile végétale hydrotraitée, huile de palme (piégeage du méthane provenant de l’huilerie) | 68 % | 65 % |\n| Huile végétale pure, colza | 58 % | 57 % |\n| Biogaz produit à partir de déchets organiques ménagers, utilisé comme gaz naturel comprimé | 80 % | 73 % |\n| Biogaz produit à partir de fumier humide, utilisé comme gaz naturel comprimé | 84 % | 81 % |\n| Biogaz produit à partir de fumier sec, utilisé comme gaz naturel comprimé | 86 % | 82 % |\n| (1)Ne comprenant pas l’huile animale produite à partir de sous-produits animaux classés comme matières de catégorie 3 conformément au règlement (CE) no 1774/2002 du Parlement européen et du Conseil du 3 octobre 2002 établissant des règles sanitaires applicables aux sous-produits animaux non destinés à la consommation humaine(1)JO L 273 du 10.10.2002, p. 1.. |  |  |\n\nB. **Estimations de valeurs types et de valeurs par défaut pour des biocarburants du futur, inexistants ou présents seulement en quantités négligeables sur le marché, en janvier 2008, produits sans émissions nettes de carbone dues à des changements dans l’affectation des sols**\n\n| Filière de production | Réduction des émissions de gaz à effet de serre, valeurs types | Réduction des émissions de gaz à effet de serre, valeurs par défaut |\n| --- | --- | --- |\n| Éthanol de paille de blé | 87 % | 85 % |\n| Éthanol de déchets de bois | 80 % | 74 % |\n| Éthanol de bois cultivé | 76 % | 70 % |\n| Gazole filière Fischer-Tropsch produit à partir de déchets de bois | 95 % | 95 % |\n| Gazole filière Fischer-Tropsch produit à partir de bois cultivé | 93 % | 93 % |\n| Diméthyléther (DME) de déchets de bois | 95 % | 95 % |\n| DME de bois cultivé | 92 % | 92 % |\n| Méthanol de déchets de bois | 94 % | 94 % |\n| Méthanol de bois cultivé | 91 % | 91 % |\n| Fraction du méthyl-tertio-butyl-éther (MTBE) issue de sources renouvelables | Mêmes valeurs que pour la filière de production du méthanol choisie |  |\n\nC. **Méthodologie**\n\n| 1. | Les émissions de gaz à effet de serre résultant de la production et de l’utilisation de biocarburants sont calculées selon la formule suivante:*E* = *eec* + *el* + *ep* + *etd* + *eu* – *esca* – *eccs* – *eccr* – *eee*sachant que:*E*=total des émissions résultant de l’utilisation du carburant,*eec*=émissions résultant de l’extraction ou de la culture des matières premières,*el*=émissions annualisées résultant de modifications des stocks de carbone dues à des changements dans l’affectation des sols,*ep*=émissions résultant de la transformation,*etd*=émissions résultant du transport et de la distribution,*eu*=émissions résultant du carburant à l’usage,*esca*=réductions d’émissions dues à l’accumulation du carbone dans les sols grâce à une meilleure gestion agricole,*eccs*=réductions d’émissions dues au piégeage et au stockage géologique du carbone,*eccr*=réductions d’émissions dues au piégeage et à la substitution du carbone, et*eee*=réductions d’émissions dues à la production excédentaire d’électricité dans le cadre de la cogénération.Les émissions résultant de la fabrication des machines et des équipements ne sont pas prises en compte. |  |\n| --- | --- | --- |\n| *E* | = | total des émissions résultant de l’utilisation du carburant, |\n| *eec* | = | émissions résultant de l’extraction ou de la culture des matières premières, |\n| *el* | = | émissions annualisées résultant de modifications des stocks de carbone dues à des changements dans l’affectation des sols, |\n| *ep* | = | émissions résultant de la transformation, |\n| *etd* | = | émissions résultant du transport et de la distribution, |\n| *eu* | = | émissions résultant du carburant à l’usage, |\n| *esca* | = | réductions d’émissions dues à l’accumulation du carbone dans les sols grâce à une meilleure gestion agricole, |\n| *eccs* | = | réductions d’émissions dues au piégeage et au stockage géologique du carbone, |\n| *eccr* | = | réductions d’émissions dues au piégeage et à la substitution du carbone, et |\n| *eee* | = | réductions d’émissions dues à la production excédentaire d’électricité dans le cadre de la cogénération. |\n\n| 2. | Les émissions de gaz à effet de serre résultant de l’utilisation des carburants (E) sont exprimées en grammes d’équivalent CO2 par MJ de carburant (gCO2eq/MJ). |\n| --- | --- |\n\n| 3. | Par dérogation au point 2, les valeurs exprimées en gCO2eq/MJ peuvent être ajustées pour tenir compte des différences entre les carburants en termes de travail utile fourni, exprimé en km/MJ. De tels ajustements ne sont possibles que lorsque la preuve de ces différences a été faite. |\n| --- | --- |\n\n| 4. | Les réductions d’émissions de gaz à effet de serre provenant des biocarburants sont calculées selon la formule suivante:*RÉDUCTION = (EF – EB)/EF*sachant que:*EB*=total des émissions provenant du biocarburant, et*EF*=total des émissions provenant du carburant fossile de référence. |  |\n| --- | --- | --- |\n| *EB* | = | total des émissions provenant du biocarburant, et |\n| *EF* | = | total des émissions provenant du carburant fossile de référence. |\n\n| 5. | Les gaz à effet de serre pris en compte aux fins du paragraphe 1 sont: CO2, N2O et CH4. Aux fins du calcul de l’équivalence en CO2, ces gaz sont associés aux valeurs suivantes:CO2:1N2O:296CH4:23 |  |\n| --- | --- | --- |\n| CO2 | : | 1 |\n| N2O | : | 296 |\n| CH4 | : | 23 |\n\n| 6. | Les émissions résultant de l’extraction ou de la culture des matières premières (eec) comprennent le procédé d’extraction ou de culture lui-même, la collecte des matières premières, les déchets et les pertes, et la production de substances chimiques ou de produits nécessaires à la réalisation de ces activités. Le piégeage du CO2 lors de la culture des matières premières n’est pas pris en compte. Il convient de déduire les réductions certifiées des émissions de gaz à effet de serre résultant du brûlage à la torche sur des sites de production pétrolière dans le monde. Des estimations des émissions résultant des cultures peuvent être établies à partir de moyennes calculées pour des zones géographiques de superficie plus réduite que celles qui sont prises en compte pour le calcul des valeurs par défaut, si des valeurs réelles ne peuvent être utilisées. |\n| --- | --- |\n\n| 7. | Les émissions annualisées résultant de modifications des stocks de carbone dues à des changements dans l’affectation des sols (el) sont calculées en divisant le total des émissions de façon à les distribuer en quantités égales sur vingt ans. Pour le calcul de ces émissions, la formule suivante est appliquée:*el = (CSR – CSA) × 3,664 × 1/20 × 1/P-eB* (24)sachant que:*el*=les émissions annualisées de gaz à effet de serre résultant de modifications des stocks de carbone dues à des changements dans l’affectation des sols (exprimées en masse d’équivalent CO2 par unité d’énergie produite par un biocarburant),*CSR*=le stock de carbone par unité de surface associé à l’affectation des sols de référence (exprimé en masse de carbone par unité de surface, y compris le sol et la végétation). L’affectation des sols de référence est l’affectation des sols en janvier 2008 ou vingt ans avant l’obtention des matières premières, si cette date est postérieure,*CSA*=le stock de carbone par unité de surface associé à l’affectation réelle des sols (exprimé en masse de carbone par unité de surface, y compris le sol et la végétation). Dans les cas où le carbone s’accumule pendant plus d’un an, la valeur attribuée à *CSA* est le stock estimé par unité de surface au bout de vingt ans ou lorsque les cultures arrivent à maturité, si cette date est antérieure,*P*=la productivité des cultures (mesurée en quantité d’énergie produite par un biocarburant par unité de surface par an), et*eB*=bonus de 29 gCO2eq/MJ de biocarburants dont la biomasse est obtenue à partir de terres dégradées restaurées dans les conditions prévues au point 8. |  |\n| --- | --- | --- |\n| *el* | = | les émissions annualisées de gaz à effet de serre résultant de modifications des stocks de carbone dues à des changements dans l’affectation des sols (exprimées en masse d’équivalent CO2 par unité d’énergie produite par un biocarburant), |\n| *CSR* | = | le stock de carbone par unité de surface associé à l’affectation des sols de référence (exprimé en masse de carbone par unité de surface, y compris le sol et la végétation). L’affectation des sols de référence est l’affectation des sols en janvier 2008 ou vingt ans avant l’obtention des matières premières, si cette date est postérieure, |\n| *CSA* | = | le stock de carbone par unité de surface associé à l’affectation réelle des sols (exprimé en masse de carbone par unité de surface, y compris le sol et la végétation). Dans les cas où le carbone s’accumule pendant plus d’un an, la valeur attribuée à *CSA* est le stock estimé par unité de surface au bout de vingt ans ou lorsque les cultures arrivent à maturité, si cette date est antérieure, |\n| *P* | = | la productivité des cultures (mesurée en quantité d’énergie produite par un biocarburant par unité de surface par an), et |\n| *eB* | = | bonus de 29 gCO2eq/MJ de biocarburants dont la biomasse est obtenue à partir de terres dégradées restaurées dans les conditions prévues au point 8. |\n\n| 8. | Le bonus de 29 gCO2eq/MJ est accordé s’il y a des éléments attestant que la terre en question:a) n’était pas exploitée pour des activités agricoles ou toute autre activité en janvier 2008; etb) entrait dans une des catégories suivantes:i) la terre était sévèrement dégradée, y compris les terres anciennement exploitées à des fins agricoles;ii) la terre était fortement contaminée.Le bonus de 29 gCO2eq/MJ s’applique pour une période maximale de dix ans à partir de la date de la conversion de la terre à une exploitation agricole, pour autant qu’une croissance régulière du stock de carbone ainsi qu’une réduction de l’érosion pour les terres relevant du point i) soient assurées et que la contamination soit réduite pour les terres relevant du point ii). |\n| --- | --- |\n\n| 9. | Les catégories visées au point 8 b) sont définies comme suit:a) «terres sévèrement dégradées» signifie des terres qui ont été salinées de façon importante pendant un laps de temps important ou dont la teneur en matières organiques est particulièrement basse et qui sont sévèrement érodées;b) «terres fortement contaminées» signifie des terres qui ne conviennent pas à la production de denrées alimentaires ou d’aliments pour animaux à cause de la contamination du sol.Ces terres englobent les terres qui ont fait l’objet d’une décision de la Commission conformément à l’article 7 *quater*, paragraphe 3, quatrième alinéa. |\n| --- | --- |\n\n| 10. | Le guide adopté conformément à l’annexe V, partie C, point 10, de la directive 2009/28/CE sert de base au calcul des stocks de carbone dans les sols, aux fins de la présente directive. |\n| --- | --- |\n\n| 11. | Les émissions résultant de la transformation (*ep*) comprennent la transformation elle-même, les déchets et les pertes, et la production de substances chimiques ou de produits utiles à la transformation.Pour la comptabilisation de la consommation d’électricité produite hors de l’unité de production du carburant, l’intensité des émissions de gaz à effet de serre imputables à la production et à la distribution de cette électricité est présumée égale à l’intensité moyenne des émissions imputables à la production et à la distribution d’électricité dans une région donnée. Par dérogation à cette règle, les producteurs peuvent utiliser une valeur moyenne pour l’électricité produite dans une unité de production électrique donnée, si cette unité n’est pas connectée au réseau électrique. |\n| --- | --- |\n\n| 12. | Les émissions résultant du transport et de la distribution (*etd*) comprennent le transport et le stockage des matières premières et des matériaux semi-finis, ainsi que le stockage et la distribution des matériaux finis. Les émissions résultant du transport et de la distribution à prendre en considération dans le cadre du point 6 sont exclues du présent point. |\n| --- | --- |\n\n| 13. | Les émissions résultant du carburant à l’usage (*eu*) sont considérées comme nulles pour les biocarburants. |\n| --- | --- |\n\n| 14. | Les réductions d’émissions dues au piégeage et au stockage géologique du carbone (*eccs*), qui n’ont pas été précédemment prises en compte dans *ep*, se limitent aux émissions évitées grâce au piégeage et à la séquestration du CO2 émis en lien direct avec l’extraction, le transport, la transformation et la distribution du carburant. |\n| --- | --- |\n\n| 15. | Les réductions d’émissions dues au piégeage et à la substitution du carbone (*eccr*) se limitent aux émissions évitées grâce au piégeage du CO2 dont le carbone provient de la biomasse et qui intervient en remplacement du CO2 dérivé d’une énergie fossile utilisé dans des produits et services commerciaux. |\n| --- | --- |\n\n| 16. | Les réductions d’émissions dues à la production excédentaire d’électricité dans le cadre de la cogénération (*eee*) sont prises en compte si elles concernent le surplus d’électricité généré par des systèmes de production de carburant ayant recours à la cogénération, sauf dans les cas où le combustible utilisé pour la cogénération est un coproduit autre qu’un résidu de cultures. Pour la comptabilisation de ce surplus d’électricité, la taille de l’unité de cogénération est réduite au minimum nécessaire pour permettre à l’unité de cogénération de fournir la chaleur requise pour la production du carburant. Les réductions d’émissions de gaz à effet de serre associées à cette production excédentaire d’électricité sont présumées égales à la quantité de gaz à effet de serre qui serait émise si une quantité égale d’électricité était produite par une centrale alimentée avec le même combustible que l’unité de cogénération. |\n| --- | --- |\n\n| 17. | Lorsqu’un procédé de production de carburant permet d’obtenir, en combinaison, le carburant sur les émissions duquel porte le calcul et un ou plusieurs autres produits (appelés «coproduits»), les émissions de gaz à effet de serre sont réparties entre le carburant ou son produit intermédiaire et les coproduits, au prorata de leur contenu énergétique (déterminé par le pouvoir calorifique inférieur dans le cas de coproduits autres que l’électricité). |\n| --- | --- |\n\n| 18. | Aux fins du calcul mentionné au point 17, les émissions à répartir sont: *eec* *+ el*, + les fractions de *ep*, *etd* et *eee* qui interviennent jusques et y compris à l’étape du procédé de production permettant d’obtenir un coproduit. Si des émissions ont été attribuées à des coproduits à des étapes du processus antérieures dans le cycle de vie, seule la fraction de ces émissions attribuée au produit combustible intermédiaire à la dernière de ces étapes est prise en compte, et non le total des émissions.Tous les coproduits, y compris l’électricité ne relevant pas du point 16, sont pris en compte aux fins du calcul, à l’exception des résidus de cultures, tels la paille, la bagasse, les enveloppes, les râpes et les coques. Les coproduits dont le contenu énergétique est négatif sont considérés comme ayant un contenu énergétique nul aux fins du calcul.Les déchets, les résidus de cultures, y compris la paille, la bagasse, les enveloppes, les râpes et les coques, et les résidus de transformation, y compris la glycérine brute (glycérine qui n’est pas raffinée), sont considérés comme des matériaux ne dégageant aucune émission de gaz à effet de serre au cours du cycle de vie jusqu’à leur collecte.Dans le cas de carburants produits dans des raffineries, l’unité d’analyse aux fins du calcul mentionné au paragraphe 17 est la raffinerie. |\n| --- | --- |\n\n| 19. | Aux fins du calcul mentionné au point 4, la valeur pour le carburant fossile de référence (EF) est la dernière valeur disponible pour les émissions moyennes réelles dues à la partie fossile de l’essence et du gazole consommés dans la Communauté, consignées en application de la présente directive. Si de telles données ne sont pas disponibles, la valeur utilisée est 83,8 gCO2eq/MJ. |\n| --- | --- |\n\nD. **Valeurs par défaut détaillées pour les biocarburants:**\n\nValeurs par défaut détaillées pour la culture: «eec» tel que défini dans la partie C de la présente annexe\n\n| Filière de production | Émissions de gaz à effet de serre, valeurs types(gCO2eq/MJ) | Émissions de gaz à effet de serre, valeurs par défaut(gCO2eq/MJ) |\n| --- | --- | --- |\n| Éthanol de betterave | 12 | 12 |\n| Éthanol de blé | 23 | 23 |\n| Éthanol de maïs, produit dans la Communauté | 20 | 20 |\n| Éthanol de canne à sucre | 14 | 14 |\n| Fraction de l’ETBE issue de sources renouvelables | Mêmes valeurs que pour la filière de production de l’éthanol choisie |  |\n| Fraction du TAEE issue de sources renouvelables | Mêmes valeurs que pour la filière de production de l’éthanol choisie |  |\n| Biogazole de colza | 29 | 29 |\n| Biogazole de tournesol | 18 | 18 |\n| Biogazole de soja | 19 | 19 |\n| Biogazole d’huile de palme | 14 | 14 |\n| Biogazole d’huile végétale usagée ou d’huile animale (1) | 0 | 0 |\n| Huile végétale hydrotraitée, colza | 30 | 30 |\n| Huile végétale hydrotraitée, tournesol | 18 | 18 |\n| Huile végétale hydrotraitée, huile de palme | 15 | 15 |\n| Huile végétale pure, colza | 30 | 30 |\n| Biogaz produit à partir de déchets organiques ménagers, utilisé comme gaz naturel comprimé | 0 | 0 |\n| Biogaz produit à partir de fumier humide, utilisé comme gaz naturel comprimé | 0 | 0 |\n| Biogaz produit à partir de fumier sec, utilisé comme gaz naturel comprimé | 0 | 0 |\n| (1)Ne comprenant pas l’huile animale produite à partir de sous-produits animaux classés comme matières de catégorie 3 conformément au règlement (CE) no 1774/2002. |  |  |\n\nValeurs par défaut détaillées pour la transformation (dont surplus d'électricité): «ep — eee» tel que défini dans la partie C de la présente annexe\n\n| Filière de production | Émissions de gaz à effet de serre, valeurs types(gCO2eq/MJ) | Émissions de gaz à effet de serre, valeurs par défaut(gCO2eq/MJ) |\n| --- | --- | --- |\n| Éthanol de betterave | 19 | 26 |\n| Éthanol de blé (combustible de transformation non précisé) | 32 | 45 |\n| Éthanol de blé (lignite utilisé comme combustible de transformation dans les centrales de cogénération) | 32 | 45 |\n| Éthanol de blé (gaz naturel utilisé comme combustible de transformation dans les chaudières classiques) | 21 | 30 |\n| Éthanol de blé (gaz naturel utilisé comme combustible de transformation dans les centrales de cogénération) | 14 | 19 |\n| Éthanol de blé (paille utilisée comme combustible de transformation dans les centrales de cogénération) | 1 | 1 |\n| Éthanol de maïs, produit dans l’Union européenne (gaz naturel utilisé comme combustible de transformation dans les centrales de cogénération) | 15 | 21 |\n| Éthanol de canne à sucre | 1 | 1 |\n| Fraction de l’ETBE issue de sources renouvelables | Mêmes valeurs que pour la filière de production de l’éthanol choisie |  |\n| Fraction du TAEE issue de sources renouvelables | Mêmes valeurs que pour la filière de production de l’éthanol choisie |  |\n| Biogazole de colza | 16 | 22 |\n| Biogazole de tournesol | 16 | 22 |\n| Biogazole de soja | 18 | 26 |\n| Biogazole d’huile de palme (procédé non précisé) | 35 | 49 |\n| Biogazole d’huile de palme (piégeage du méthane provenant de l’huilerie) | 13 | 18 |\n| Biogazole d’huile végétale usagée ou d’huile animale | 9 | 13 |\n| Huile végétale hydrotraitée, colza | 10 | 13 |\n| Huile végétale hydrotraitée, tournesol | 10 | 13 |\n| Huile végétale hydrotraitée, huile de palme (procédé non précisé) | 30 | 42 |\n| Huile végétale hydrotraitée, huile de palme (piégeage du méthane provenant de l’huilerie) | 7 | 9 |\n| Huile végétale pure, colza | 4 | 5 |\n| Biogaz produit à partir de déchets organiques ménagers, utilisé comme gaz naturel comprimé | 14 | 20 |\n| Biogaz produit à partir de fumier humide, utilisé comme gaz naturel comprimé | 8 | 11 |\n| Biogaz produit à partir de fumier sec, utilisé comme gaz naturel comprimé | 8 | 11 |\n\nValeurs par défaut détaillées pour le transport et la distribution: «etd» tel que défini dans la partie C de la présente annexe\n\n| Filière de production | Émissions de gaz à effet de serre, valeurs types(gCO2eq/MJ) | Émissions de gaz à effet de serre, valeurs par défaut(gCO2eq/MJ) |\n| --- | --- | --- |\n| Éthanol de betterave | 2 | 2 |\n| Éthanol de blé | 2 | 2 |\n| Éthanol de maïs, produit dans la Communauté | 2 | 2 |\n| Éthanol de canne à sucre | 9 | 9 |\n| Fraction de l’ETBE issue de sources renouvelables | Mêmes valeurs que pour la filière de production de l’éthanol choisie |  |\n| Fraction du TAEE issue de sources renouvelables | Mêmes valeurs que pour la filière de production de l’éthanol choisie |  |\n| Biogazole de colza | 1 | 1 |\n| Biogazole de tournesol | 1 | 1 |\n| Biogazole de soja | 13 | 13 |\n| Biogazole d’huile de palme | 5 | 5 |\n| Biogazole d’huile végétale ou d’huile animale usagée | 1 | 1 |\n| Huile végétale hydrotraitée, colza | 1 | 1 |\n| Huile végétale hydrotraitée, tournesol | 1 | 1 |\n| Huile végétale hydrotraitée, huile de palme | 5 | 5 |\n| Huile végétale pure, colza | 1 | 1 |\n| Biogaz produit à partir de déchets organiques ménagers, utilisé comme gaz naturel comprimé | 3 | 3 |\n| Biogaz produit à partir de fumier humide, utilisé comme gaz naturel comprimé | 5 | 5 |\n| Biogaz produit à partir de fumier sec, utilisé comme gaz naturel comprimé | 4 | 4 |\n\nTotal pour la culture, la transformation, le transport et la distribution\n\n| Filière de production | Émissions de gaz à effet de serre, valeurs types(gCO2eq/MJ) | Émissions de gaz à effet de serre, valeurs par défaut(gCO2eq/MJ) |\n| --- | --- | --- |\n| Éthanol de betterave | 33 | 40 |\n| Éthanol de blé (combustible de transformation non précisé) | 57 | 70 |\n| Éthanol de blé (lignite utilisé comme combustible de transformation dans les centrales de cogénération) | 57 | 70 |\n| Éthanol de blé (gaz naturel utilisé comme combustible de transformation dans les chaudières classiques) | 46 | 55 |\n| Éthanol de blé (gaz naturel utilisé comme combustible de transformation dans les centrales de cogénération) | 39 | 44 |\n| Éthanol de blé (paille utilisée comme combustible de transformation dans les centrales de cogénération) | 26 | 26 |\n| Éthanol de maïs, produit dans l’Union européenne (gaz naturel utilisé comme combustible de transformation dans les centrales de cogénération) | 37 | 43 |\n| Éthanol de canne à sucre | 24 | 24 |\n| Fraction de l’ETBE issue de sources renouvelables | Mêmes valeurs que pour la filière de production de l’éthanol choisie |  |\n| Fraction du TAEE issue de sources renouvelables | Mêmes valeurs que pour la filière de production de l’éthanol choisie |  |\n| Biogazole de colza | 46 | 52 |\n| Biogazole de tournesol | 35 | 41 |\n| Biogazole de soja | 50 | 58 |\n| Biogazole d’huile de palme (procédé non précisé) | 54 | 68 |\n| Biogazole d’huile de palme (piégeage du méthane provenant de l’huilerie) | 32 | 37 |\n| Biogazole d’huile végétale usagée ou d’huile animale | 10 | 14 |\n| Huile végétale hydrotraitée, colza | 41 | 44 |\n| Huile végétale hydrotraitée, tournesol | 29 | 32 |\n| Huile végétale hydrotraitée, huile de palme (procédé non précisé) | 50 | 62 |\n| Huile végétale hydrotraitée, huile de palme (piégeage du méthane provenant de l’huilerie) | 27 | 29 |\n| Huile végétale pure, colza | 35 | 36 |\n| Biogaz produit à partir de déchets organiques ménagers, utilisé comme gaz naturel comprimé | 17 | 23 |\n| Biogaz produit à partir de fumier humide, utilisé comme gaz naturel comprimé | 13 | 16 |\n| Biogaz produit à partir de fumier sec, utilisé comme gaz naturel comprimé | 12 | 15 |\n\nE. **Estimations des valeurs par défaut détaillées pour des biocarburants du futur, inexistants ou présents seulement en quantités négligeables sur le marché, en janvier 2008**\n\nValeurs détaillées pour la culture: «eec» tel que défini dans la partie C de la présente annexe\n\n| Filière de production | Émissions de gaz à effet de serre, valeurs types(gCO2eq/MJ) | Émissions de gaz à effet de serre, valeurs par défaut(gCO2eq/MJ) |\n| --- | --- | --- |\n| Éthanol de paille de blé | 3 | 3 |\n| Éthanol de déchets de bois | 1 | 1 |\n| Éthanol de bois cultivé | 6 | 6 |\n| Gazole filière Fischer-Tropsch produit à partir de déchets de bois | 1 | 1 |\n| Gazole filière Fischer-Tropsch produit à partir de bois cultivé | 4 | 4 |\n| DME de déchets de bois | 1 | 1 |\n| DME de bois cultivé | 5 | 5 |\n| Méthanol de déchets de bois | 1 | 1 |\n| Méthanol de bois cultivé | 5 | 5 |\n| Fraction du MTBE issue de sources renouvelables | Mêmes valeurs que pour la filière de production du méthanol choisie\" |  |\n\nValeurs détaillées pour la transformation (dont surplus d'électricité): «ep – eee» tel que défini dans la partie C de la présente annexe\n\n| Filière de production | Émissions de gaz à effet de serre, valeurs types(gCO2eq/MJ) | Émissions de gaz à effet de serre, valeurs par défaut(gCO2eq/MJ) |\n| --- | --- | --- |\n| Éthanol de paille de blé | 5 | 7 |\n| Éthanol de bois | 12 | 17 |\n| Gazole filière Fischer-Tropsch produit à partir de bois | 0 | 0 |\n| DME de bois | 0 | 0 |\n| Méthanol de bois | 0 | 0 |\n| Fraction du MTBE issue de sources renouvelables | Mêmes valeurs que pour la filière de production du méthanol choisie |  |\n\nValeurs détaillées pour le transport et la distribution: «etd» tel que défini dans la partie C de la présente annexe\n\n| Filière de production | Émissions de gaz à effet de serre, valeurs types(gCO2eq/MJ) | Émissions de gaz à effet de serre, valeurs par défaut(gCO2eq/MJ) |\n| --- | --- | --- |\n| Éthanol de paille de blé | 2 | 2 |\n| Éthanol de déchets de bois | 4 | 4 |\n| Éthanol de bois cultivé | 2 | 2 |\n| Gazole filière Fischer-Tropsch produit à partir de déchets de bois | 3 | 3 |\n| Gazole filière Fischer-Tropsch produit à partir de bois cultivé | 2 | 2 |\n| DME de déchets de bois | 4 | 4 |\n| DME de bois cultivé | 2 | 2 |\n| Méthanol de déchets de bois | 4 | 4 |\n| Méthanol de bois cultivé | 2 | 2 |\n| Fraction du MTBE issue de sources renouvelables | Mêmes valeurs que pour la filière de production du méthanol choisie |  |\n\nTotal pour la culture, la transformation, le transport et la distribution\n\n| Filière de production | Émissions de gaz à effet de serre, valeurs types(gCO2eq/MJ) | Émissions de gaz à effet de serre, valeurs par défaut(gCO2eq/MJ) |\n| --- | --- | --- |\n| Éthanol de paille de blé | 11 | 13 |\n| Éthanol de déchets de bois | 17 | 22 |\n| Éthanol de bois cultivé | 20 | 25 |\n| Gazole filière Fischer-Tropsch produit à partir de déchets de bois | 4 | 4 |\n| Gazole filière Fischer-Tropsch produit à partir de bois cultivé | 6 | 6 |\n| DME de déchets de bois | 5 | 5 |\n| DME de bois cultivé | 7 | 7 |\n| Méthanol de déchets de bois | 5 | 5 |\n| Méthanol de bois cultivé | 7 | 7 |\n| Fraction du MTBE issue de sources renouvelables | Mêmes valeurs que pour la filière de production du méthanol choisie |  |\n\n(1) JO C 77 du 11.3.1997, p. 1 et JO C 209 du 10.7.1997, p. 25.\n\n(2) JO C 206 du 7.7.1997, p. 113.\n\n(3) Avis du Parlement européen du 10 avril 1997 (JO C 132 du 28.4.1997, p. 170), position commune du Conseil du 7 octobre 1997 (JO C 351 du 19.11.1997, p. 1) et décision du Parlement européen du 18 février 1998 (JO C 80 du 16.3.1998, p. 92). Décision du Parlement européen du 15 septembre 1998 (JO C 313 du 12.10.1998). Décision du Conseil du 17 septembre 1998.\n\n(4) JO L 76 du 6.4.1970, p. 1. Directive modifiée en dernier lieu par la directive 98/69/CE du Parlement européen et du Conseil (voir page 1 du présent Journal officiel).\n\n(5) JO L 36 du 9.2.1988, p. 33. Directive modifiée en dernier lieu par la directive 96/1/CE du Parlement européen et du Conseil (JO L 40 du 17.2.1996, p. 1).\n\n(6) JO L 100 du 19.4.1994, p. 42.\n\n(7) JO L 316 du 31.10.1992, p. 12. Directive modifiée en dernier lieu par la directive 94/74/CE (JO L 365 du 31.12.1994, p. 46).\n\n(8) JO L 204 du 21.7.1998, p. 37. Directive modifiée par la directive 98/48/CE (JO L 217 du 5.8.1998, p. 18).\n\n(9) JO L 96 du 3.4.1985, p. 25. Directive modifiée en dernier lieu par l'acte d'adhésion de 1994.\n\n(10) JO L 334 du 12.12.1985, p. 20. Directive modifiée par la directive 87/441/CEE de la Commission (JO L 238 du 21.8.1987, p. 40).\n\n(11) JO L 74 du 27.3.1993, p. 81.\n\n(12) JO C 102 du 4.4.1996, p. 1.\n\n(13) La numérotation de ces codes NC est celle spécifiée dans le TDC tel que modifié par le règlement (CE) no 2031/2001 de la Commission (JO L 279 du 23.10.2001, p. 1).\n\n(14) La numérotation de ces codes NC est celle spécifiée dans le TDC tel que modifié par le règlement (CE) no 2031/2001 de la Commission (JO L 279 du 23.10.2001, p. 1).\n\n(15) La numérotation de ces codes NC est celle précisée dans le tarif douanier commun (JO L 256 du 7.6.1987, p. 1).\n\n(16) JO L 164 du 30.6.1994, p. 15.\n\n(17) JO L 59 du 27.2.1998, p. 1.\n\n(18) JO L 173 du 12.7.2000, p. 1.\n\n(19) JO L 140 du 5.6.2009, p. 16.\n\n(20) JO L 275 du 25.10.2003, p. 32.\n\n(21) JO L 30 du 31.1.2009, p. 16.\n\n(22) JO L 154 du 21.6.2003, p. 1.\n\n(23) JO L 327 du 22.12.2000, p. 1.\n\n(24) Le quotient obtenu en divisant le poids moléculaire du CO2 (44,010 g/mol) par le poids moléculaire du carbone (12,011 g/mol) est égal à 3,664.",
+      "text_sha256": "9ee06182a3c41a7e0746f6e3962366761b3376548ca708c21bba5a70aa1b1c84",
+      "md_span": {
+        "start": 63978,
+        "end": 94992
+      },
+      "citations": [
+        {
+          "href": "#E0033",
+          "text": "(1)"
+        },
+        {
+          "href": "#E0035",
+          "text": "24"
+        },
+        {
+          "href": "#E0036",
+          "text": "(1)"
+        },
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        },
+        {
+          "href": "#src.E0008",
+          "text": "8"
+        },
+        {
+          "href": "#src.E0009",
+          "text": "9"
+        },
+        {
+          "href": "#src.E0010",
+          "text": "10"
+        },
+        {
+          "href": "#src.E0011",
+          "text": "11"
+        },
+        {
+          "href": "#src.E0012",
+          "text": "12"
+        },
+        {
+          "href": "#src.E0013",
+          "text": "13"
+        },
+        {
+          "href": "#src.E0014",
+          "text": "14"
+        },
+        {
+          "href": "#src.E0015",
+          "text": "15"
+        },
+        {
+          "href": "#src.E0016",
+          "text": "16"
+        },
+        {
+          "href": "#src.E0017",
+          "text": "17"
+        },
+        {
+          "href": "#src.E0018",
+          "text": "18"
+        },
+        {
+          "href": "#src.E0019",
+          "text": "19"
+        },
+        {
+          "href": "#src.E0020",
+          "text": "20"
+        },
+        {
+          "href": "#src.E0021",
+          "text": "21"
+        },
+        {
+          "href": "#src.E0022",
+          "text": "22"
+        },
+        {
+          "href": "#src.E0023",
+          "text": "23"
+        },
+        {
+          "href": "#src.E0035",
+          "text": "24"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

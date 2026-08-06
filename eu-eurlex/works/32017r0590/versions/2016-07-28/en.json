@@ -1,0 +1,325 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0590:2016-07-28",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/590 of 28 July 2016 supplementing Regulation (EU) No 600/2014",
+  "valid_from": "2016-07-28",
+  "valid_to": "2017-03-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0590/versions/2016-07-28/en.xml",
+    "sha256": "bbd0d763a1f54b8f9bdcf31e10d8219b0e4803d8b64a1f60b0a930b18a57be1f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0590"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nA transaction report shall include all details referred to in Table 2 of Annex I that pertain to the financial instruments concerned. All details to be included in transaction reports shall be submitted in accordance with the standards and formats specified in Table 2 of Annex I, in an electronic and machine-readable form and in a common XML template in accordance with the ISO 20022 methodology.",
+      "text_sha256": "2970573a72173e419e912699f80053ebc65f87f3319e7140c8e06f74b78d8c5f",
+      "md_span": {
+        "start": 654,
+        "end": 1063
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. For the purposes of Article 26 of Regulation (EU) No 600/2014, the conclusion of an acquisition or disposal of a financial instrument referred to in Article 26(2) of Regulation (EU) No 600/2014 shall constitute a transaction.\n\n2. An acquisition referred to in paragraph 1 shall include the following:\n\n| (a) | a purchase of a financial instrument; |\n| --- | --- |\n\n| (b) | entering into a derivative contract; |\n| --- | --- |\n\n| (c) | an increase in the notional amount of a derivative contract. |\n| --- | --- |\n\n3. A disposal referred to in paragraph 1 shall include the following:\n\n| (a) | sale of a financial instrument; |\n| --- | --- |\n\n| (b) | closing out of a derivative contract; |\n| --- | --- |\n\n| (c) | a decrease in the notional amount of a derivative contract. |\n| --- | --- |\n\n4. For the purposes of Article 26 of Regulation (EU) No 600/2014, transaction shall also include a simultaneous acquisition and disposal of a financial instrument where there is no change in the ownership of that financial instrument but post-trade publication is required under Articles 6, 10, 20 or 21 of Regulation (EU) No 600/2014.\n\n5. A transaction for the purposes of Article 26 of Regulation (EU) No 600/2014 shall not include the following:\n\n| (a) | securities financing transactions as defined in Article 3(11) of Regulation (EU) 2015/2365 of the European Parliament and of the Council (7); |\n| --- | --- |\n\n| (b) | a contract arising exclusively for clearing or settlement purposes; |\n| --- | --- |\n\n| (c) | a settlement of mutual obligations between parties where the net obligation is carried forward; |\n| --- | --- |\n\n| (d) | an acquisition or disposal that is solely a result of custodial activity; |\n| --- | --- |\n\n| (e) | a post-trade assignment or novation of a derivative contract where one of the parties to the derivative contract is replaced by a third party; |\n| --- | --- |\n\n| (f) | a portfolio compression; |\n| --- | --- |\n\n| (g) | the creation or redemption of units of a collective investment undertaking by the administrator of the collective investment undertaking; |\n| --- | --- |\n\n| (h) | the exercise of a right embedded in a financial instrument, or the conversion of a convertible bond and the resultant transaction in the underlying financial instrument; |\n| --- | --- |\n\n| (i) | the creation, expiration or redemption of a financial instrument as a result of pre-determined contractual terms, or as a result of mandatory events which are beyond the control of the investor where no investment decision by the investor takes place at the point in time of the creation, expiration or redemption of the financial instrument; |\n| --- | --- |\n\n| (j) | a decrease or increase in the notional amount of a derivative contract as a result of pre-determined contractual terms or mandatory events where no investment decision by the investor takes place at the point in time of the change in the notional amount; |\n| --- | --- |\n\n| (k) | a change in the composition of an index or a basket that occurs after the execution of a transaction; |\n| --- | --- |\n\n| (l) | an acquisition under a dividend re-investment plan; |\n| --- | --- |\n\n| (m) | an acquisition or disposal under an employee share incentive plan, or arising from the administration of an unclaimed asset trust, or of residual fractional share entitlements following corporate events or as part of shareholder reduction programmes where all the following criteria are met:(i)the dates of acquisition or disposal are pre-determined and published in advance;(ii)the investment decision concerning the acquisition or disposal that is taken by the investor amounts to a choice by the investor to enter into the transaction with no ability to unilaterally vary the terms of the transaction;(iii)there is a delay of at least ten business days between the investment decision and the moment of execution;(iv)the value of the transaction is capped at the equivalent of EUR 1 000 for a one-off transaction for the particular investor in the particular instrument or, where the arrangement results in transactions, the cumulative value of the transaction shall be capped at the equivalent of EUR 500 for the particular investor in the particular instrument per calendar month; |\n| --- | --- |\n| (i) | the dates of acquisition or disposal are pre-determined and published in advance; |\n| (ii) | the investment decision concerning the acquisition or disposal that is taken by the investor amounts to a choice by the investor to enter into the transaction with no ability to unilaterally vary the terms of the transaction; |\n| (iii) | there is a delay of at least ten business days between the investment decision and the moment of execution; |\n| (iv) | the value of the transaction is capped at the equivalent of EUR 1 000 for a one-off transaction for the particular investor in the particular instrument or, where the arrangement results in transactions, the cumulative value of the transaction shall be capped at the equivalent of EUR 500 for the particular investor in the particular instrument per calendar month; |\n\n| (n) | an exchange and tender offer on a bond or other form of securitised debt where the terms and conditions of the offer are pre-determined and published in advance and the investment decision amounts to a choice by the investor to enter into the transaction with no ability to unilaterally vary its terms; |\n| --- | --- |\n\n| (o) | an acquisition or disposal that is solely a result of a transfer of collateral. |\n| --- | --- |\n\nThe exclusion provided for in point (a) of the first subparagraph shall not apply to the securities financing transactions to which a member of the European System of Central Banks is a counterparty.\n\nThe exclusion provided for in point (i) of the first subparagraph shall not apply to initial public offerings or secondary public offerings or placings, or debt issuance.",
+      "text_sha256": "ec7519fa9e6245920de4e93793ab42c21077d75c6694bc14ac7072bfdc0a8617",
+      "md_span": {
+        "start": 1096,
+        "end": 6998
+      },
+      "citations": [
+        {
+          "href": "#ntr7-L_2017087EN.01044901-E0007",
+          "text": "(7)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. An investment firm shall be deemed to have executed a transaction within the meaning of Article 2, where it provides any of the following services or performs any of the following activities that result in a transaction:\n\n| (a) | reception and transmission of orders in relation to one or more financial instruments; |\n| --- | --- |\n\n| (b) | execution of orders on behalf of clients; |\n| --- | --- |\n\n| (c) | dealing on own account; |\n| --- | --- |\n\n| (d) | making an investment decision in accordance with a discretionary mandate given by a client; |\n| --- | --- |\n\n| (e) | transfer of financial instruments to or from accounts. |\n| --- | --- |\n\n2. An investment firm shall not be deemed to have executed a transaction where it has transmitted an order in accordance with Article 4.",
+      "text_sha256": "3dd7bd256e5ed3ff0d3abddb5738e5e76b5ef189f6ade4208cf3da81dcd490a9",
+      "md_span": {
+        "start": 7031,
+        "end": 7828
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. An investment firm transmitting an order pursuant to Article 26(4) of Regulation (EU) No 600/2014 (transmitting firm) shall be deemed to have transmitted that order only if the following conditions are met:\n\n| (a) | the order was received from its client or results from its decision to acquire or dispose of a specific financial instrument in accordance with a discretionary mandate provided to it by one or more clients; |\n| --- | --- |\n\n| (b) | the transmitting firm has transmitted the order details referred to in paragraph 2 to another investment firm (receiving firm); |\n| --- | --- |\n\n| (c) | the receiving firm is subject to Article 26(1) of Regulation (EU) No 600/2014 and agrees either to report the transaction resulting from the order concerned or to transmit the order details in accordance with this Article to another investment firm. |\n| --- | --- |\n\nFor the purposes of point (c) of the first subparagraph the agreement shall specify the time limit for the provision of the order details by the transmitting firm to the receiving firm and provide that the receiving firm shall verify whether the order details received contain obvious errors or omissions before submitting a transaction report or transmitting the order in accordance with this Article.\n\n2. The following order details shall be transmitted in accordance with paragraph 1, insofar as pertinent to a given order:\n\n| (a) | the identification code of the financial instrument; |\n| --- | --- |\n\n| (b) | whether the order is for the acquisition or disposal of the financial instrument; |\n| --- | --- |\n\n| (c) | the price and quantity indicated in the order; |\n| --- | --- |\n\n| (d) | the designation and details of the client of the transmitting firm for the purposes of the order; |\n| --- | --- |\n\n| (e) | the designation and details of the decision maker for the client where the investment decision is made under a power of representation; |\n| --- | --- |\n\n| (f) | a designation to identify a short sale; |\n| --- | --- |\n\n| (g) | a designation to identify a person or algorithm responsible for the investment decision within the transmitting firm; |\n| --- | --- |\n\n| (h) | country of the branch of the investment firm supervising the person responsible for the investment decision and country of the investment firm's branch that received the order from the client or made an investment decision for a client in accordance with a discretionary mandate given to it by the client; |\n| --- | --- |\n\n| (i) | for an order in commodity derivatives, an indication whether the transaction is to reduce risk in an objectively measurable way in accordance with Article 57 of Directive 2014/65/EU; |\n| --- | --- |\n\n| (j) | the code identifying the transmitting firm. |\n| --- | --- |\n\nFor the purposes of point (d) of the first subparagraph, where the client is a natural person, the client shall be designated in accordance with Article 6.\n\nFor the purposes of point (j) of the first subparagraph, where the order transmitted was received from a prior firm that did not transmit the order in accordance with the conditions set out in this Article, the code shall be the code identifying the transmitting firm. Where the order transmitted was received from a prior transmitting firm in accordance with the conditions set out in this Article, the code provided pursuant to point (j) referred to in the first subparagraph shall be the code identifying the prior transmitting firm.\n\n3. Where there is more than one transmitting firm in relation to a given order, the order details referred to in points (d) to (i) of the first subparagraph of paragraph 2 shall be transmitted in respect of the client of the first transmitting firm.\n\n4. Where the order is aggregated for several clients, information referred to in paragraph 2 shall be transmitted for each client.",
+      "text_sha256": "3d5916c1a58425064583b9339556262da1e58ab4e41bfb143fd8e1a0b29fcc66",
+      "md_span": {
+        "start": 7861,
+        "end": 11704
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. An investment firm which executes a transaction shall ensure that it is identified with a validated, issued and duly renewed ISO 17442 legal entity identifier code in the transaction report submitted pursuant to Article 26(1) of Regulation (EU) No 600/2014.\n\n2. An investment firm which executes a transaction shall ensure that the reference data related to its legal entity identifier is renewed in accordance with the terms of any of the accredited Local Operating Units of the Global Legal Entity Identifier System.",
+      "text_sha256": "16e29d77838ec49c7772aebf7b415b502a1d3aa3e3efdb42150a6b273e592a07",
+      "md_span": {
+        "start": 11737,
+        "end": 12269
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. A natural person shall be identified in a transaction report using the designation resulting from the concatenation of the ISO 3166-1 alpha-2 (2 letter country code) of the nationality of the person, followed by the national client identifier listed in Annex II based on the nationality of the person.\n\n2. The national client identifier referred to in paragraph 1 shall be assigned in accordance with the priority levels provided in Annex II using the highest priority identifier that a person has regardless of whether that identifier is already known to the investment firm.\n\n3. Where a natural person is a national of more than one European Economic Area (EEA) country, the country code of the first nationality when sorted alphabetically by its ISO 3166-1 alpha-2 code and the identifier of that nationality assigned in accordance with paragraph 2 shall be used. Where a natural person has a non-EEA nationality, the highest priority identifier in accordance with the field referring to ‘all other countries’ provided in Annex II shall be used. Where a natural person has EEA and non-EEA nationality, the country code of the EEA nationality and the highest priority identifier of that nationality assigned in accordance with paragraph 2 shall be used.\n\n4. Where the identifier assigned in accordance with paragraph 2 refers to CONCAT, the natural person shall be identified by the investment firm using the concatenation of the following elements in the following order:\n\n| (a) | the date of birth of the person in the format YYYYMMDD; |\n| --- | --- |\n\n| (b) | the five first characters of the first name; |\n| --- | --- |\n\n| (c) | the five first characters of the surname. |\n| --- | --- |\n\n5. For the purposes of paragraph 4, prefixes to names shall be excluded and first names and surnames shorter than five characters shall be appended by ‘#’ so as to ensure that references to names and surnames in accordance with paragraph 4 contain five characters. All characters shall be in upper case. No apostrophes, accents, hyphens, punctuation marks or spaces shall be used.",
+      "text_sha256": "e0f6d9d28f2905adf48b2d6d52ea3166211898d982b124bf313cb7fd6b55e15b",
+      "md_span": {
+        "start": 12302,
+        "end": 14390
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. A transaction report relating to a transaction executed on behalf of a client who is a natural person shall include the full name and date of birth of the client as specified in Fields 9, 10, 11, 18, 19 and 20 of Table 2 of Annex I.\n\n2. Where the client is not the person taking the investment decision in relation to that transaction, the transaction report shall identify the person taking such decision on behalf of the client as specified in fields 12 to 15 for the buyer and in fields 21 to 24 for the seller in Table 2 of Annex I.",
+      "text_sha256": "643e41a520e3bd94fa4de24690173fb3d1259b5c694934a0fe7aa4a5f8f3ed75",
+      "md_span": {
+        "start": 14423,
+        "end": 14973
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Where a person or computer algorithm within an investment firm makes the investment decision to acquire or dispose of a specific financial instrument, that person or computer algorithm shall be identified as specified in field 57 of Table 2 of Annex I. The investment firm shall only identify such a person or computer algorithm where that investment decision is made either on behalf of the investment firm itself, or on behalf of a client in accordance with a discretionary mandate given to it by the client.\n\n2. Where more than one person within the investment firm takes the investment decision, the investment firm shall determine the person taking the primary responsibility for that decision. The person taking primary responsibility for the investment decision shall be determined in accordance with pre-determined criteria established by the investment firm.\n\n3. Where a computer algorithm within the investment firm is responsible for the investment decision in accordance with paragraph 1, the investment firm shall assign a designation for identifying the computer algorithm in a transaction report. That designation shall comply with the following conditions:\n\n| (a) | it is unique for each set of code or trading strategy that constitutes the algorithm, regardless of the financial instruments or markets that the algorithm applies to; |\n| --- | --- |\n\n| (b) | it is used consistently when referring to the algorithm or version of the algorithm once assigned to it; |\n| --- | --- |\n\n| (c) | it is unique over time. |\n| --- | --- |",
+      "text_sha256": "63b27dc1f9bcefe4515b414af2bd49b5f2fd0ae0701955409e89053206436b9c",
+      "md_span": {
+        "start": 15006,
+        "end": 16564
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Where a person or computer algorithm within the investment firm which executes a transaction determines which trading venue, systematic internaliser or organised trading platform located outside the Union to access, which firms to transmit orders to or any conditions related to the execution of an order, that person or computer algorithm shall be identified in field 59 of Table 2 of Annex I.\n\n2. Where a person within the investment firm is responsible for the execution of the transaction, the investment firm shall assign a designation for identifying that person in a transaction report in accordance with Article 6.\n\n3. Where a computer algorithm within the investment firm is responsible for the execution of the transaction, the investment firm shall assign a designation for identifying the computer algorithm in accordance with Article 8(3).\n\n4. Where a person and computer algorithm are both involved in execution of the transaction, or more than one person or algorithm are involved, the investment firm shall determine which person or computer algorithm is primarily responsible for the execution of the transaction. The person or computer algorithm taking primary responsibility for the execution shall be determined in accordance with pre-determined criteria established by the investment firm.",
+      "text_sha256": "8a83821bfcd9b9b60183b79690efbebb1cf0900b7ec60c017e34966f80f7ec63",
+      "md_span": {
+        "start": 16597,
+        "end": 17921
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nTransaction reports shall identify the applicable waiver pursuant to Article 4 or Article 9 of Regulation (EU) No 600/2014 under which the executed transaction has taken place in accordance with field 61 of Table 2 of Annex I to this Regulation.",
+      "text_sha256": "6a74a578586b6f6c263d4c48445ac724c0bec72219a39072f083ace9d4f2cfd0",
+      "md_span": {
+        "start": 17956,
+        "end": 18213
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Transaction reports shall identify transactions which, at the time of their execution, are short sale transactions, or are in part a short sale transaction, in accordance with field 62 of Table 2 of Annex I.\n\n2. An investment firm shall determine on a best effort basis the short sales transactions in which its client is the seller, including when an investment firm aggregates orders from several clients. The investment firm shall identify those short sale transactions in its transaction report in accordance with field 62 of Table 2 of Annex I.\n\n3. Where an investment firm executes a short sale transaction on its own behalf, it shall indicate in the transaction report whether the short sale transaction was undertaken in a market making or primary dealer capacity under an exemption provided by Article 17 of Regulation (EU) No 236/2012.",
+      "text_sha256": "1e42afff7bb7bc673a7349e86f4230bda025e04c4f06c185617e00b04a18f44a",
+      "md_span": {
+        "start": 18248,
+        "end": 19108
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nWhere an investment firm executes a transaction involving two or more financial instruments, the investment firm shall report the transaction for each financial instrument separately and shall link those reports by an identifier that is unique at the level of the firm to the group of transaction reports related to that execution as specified in field 40 of Table 2 of Annex I.",
+      "text_sha256": "c018791e99c5fd7035a75e4a1361f0761b91f84a5ab3d5592e96950223493c52",
+      "md_span": {
+        "start": 19143,
+        "end": 19533
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Member States shall ensure that legal entity identifiers are developed, attributed and maintained in accordance with the following principles:\n\n| (a) | uniqueness; |\n| --- | --- |\n\n| (b) | accuracy; |\n| --- | --- |\n\n| (c) | consistency; |\n| --- | --- |\n\n| (d) | neutrality; |\n| --- | --- |\n\n| (e) | reliability; |\n| --- | --- |\n\n| (f) | open source; |\n| --- | --- |\n\n| (g) | flexibility; |\n| --- | --- |\n\n| (h) | scalability; |\n| --- | --- |\n\n| (i) | accessibility. |\n| --- | --- |\n\nMember States shall also ensure that legal entity identifiers are developed, attributed and maintained using uniform global operational standards, are subject to the governance framework of the Legal Entity Identifier Regulatory Oversight Committee and are available at a reasonable cost.\n\n2. An investment firm shall not provide a service triggering the obligation to submit a transaction report for a transaction entered into on behalf of a client who is eligible for the legal entity identifier code, prior to obtaining the legal entity identifier code from that client.\n\n3. The investment firm shall ensure that the length and construction of the code are compliant with the ISO 17442 standard and that the code is included in the Global LEI database maintained by the Central Operating Unit appointed by the the Legal Entity Identifier Regulatory Oversight Committee and pertains to the client concerned.",
+      "text_sha256": "d28e6a86befd5fd7d9b458c173be8b935086cec9653c86365c42f9bdd26f14ce",
+      "md_span": {
+        "start": 19568,
+        "end": 20975
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. An investment firm shall report transactions executed wholly or partly through its branch to the competent authority of the home Member State of the investment firm unless otherwise agreed by the competent authorities of the home and host Member States.\n\n2. Where an investment firm executes a transaction wholly or partly through its branch, it shall report the transaction only once.\n\n3. Where country code details in respect of an investment firm's branch are required to be included in a transaction report in accordance with fields 8, 17, 37, 58 or 60 of Table 2 of Annex I due to the partial or full execution of a transaction through that branch, the investment firm shall provide in the transaction report the ISO 3166 country code for the relevant branch in all of the following cases:\n\n| (a) | where the branch received the order from a client or made an investment decision for a client in accordance with a discretionary mandate given to it by the client; |\n| --- | --- |\n\n| (b) | where the branch has supervisory responsibility for the person responsible for the investment decision concerned; |\n| --- | --- |\n\n| (c) | where the branch has supervisory responsibility for the person responsible for execution of the transaction; |\n| --- | --- |\n\n| (d) | where the transaction was executed on a trading venue or an organised trading platform located outside the Union using the branch's membership of that trading venue or an organised trading platform. |\n| --- | --- |\n\n4. Where one or more of the cases provided in paragraph 3 do not apply to a branch of the investment firm, the relevant fields in Table 2 of Annex I shall be populated with the ISO country code for the home Member State of the investment firm, or, in the case of a third country firm, the country code of the country where the firm has established its head office or registered office.\n\n5. The branch of a third country firm shall submit the transaction report to the competent authority which authorised the branch. The branch of a third country firm shall fill in the relevant fields in Table 2 of Annex I with the ISO country code for the Member State of the authorising competent authority.\n\nWhere a third country firm has set up branches in more than one Member State within the Union, those branches shall jointly choose one of the competent authorities from the Member States to whom transaction reports are to be sent pursuant to paragraphs 1 to 3.",
+      "text_sha256": "71133508cdbdb5eeb76457b016da6e77158ed13f5580ea4e12a58a05ec9e8dd2",
+      "md_span": {
+        "start": 21010,
+        "end": 23463
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. The methods and arrangements by which transaction reports are generated and submitted by trading venues and investment firms shall include:\n\n| (a) | systems to ensure the security and confidentiality of the data reported; |\n| --- | --- |\n\n| (b) | mechanisms for authenticating the source of the transaction report; |\n| --- | --- |\n\n| (c) | precautionary measures to enable the timely resumption of reporting in the case of a failure of the reporting system; |\n| --- | --- |\n\n| (d) | mechanisms for identifying errors and omissions within transaction reports; |\n| --- | --- |\n\n| (e) | mechanisms to avoid the reporting of duplicate transaction reports, including where an investment firm relies on a trading venue to report the details of transactions executed by the investment firm through the systems of the trading venue in accordance with Article 26(7) of Regulation (EU) No 600/2014; |\n| --- | --- |\n\n| (f) | mechanisms to ensure that the trading venue only submits reports on behalf of those investment firms that have chosen to rely on the trading venue to send reports on their behalf for transactions completed through systems of the trading venue; |\n| --- | --- |\n\n| (g) | mechanisms to avoid reporting of any transaction where there is no obligation to report under Article 26(1) of Regulation (EU) No 600/2014 either because there is no transaction within the meaning of Article 2 of this Regulation or because the instrument which is the subject of the transaction concerned does not fall within the scope of Article 26(2) of Regulation (EU) No 600/2014; |\n| --- | --- |\n\n| (h) | mechanisms for identifying unreported transactions for which there is an obligation to report under Article 26 of Regulation (EU) No 600/2014, including cases where transaction reports rejected by the competent authority concerned have not been successfully re-submitted. |\n| --- | --- |\n\n2. Where the trading venue or investment firm becomes aware of any error or omission within a transaction report submitted to a competent authority, any failure to submit a transaction report including any failure to resubmit a rejected transaction report for transactions that are reportable, or of the reporting of a transaction for which there is no obligation to report, it shall promptly notify the relevant competent authority of this fact.\n\n3. Investment firms shall have arrangements in place to ensure that their transaction reports are complete and accurate. Those arrangements shall include testing of their reporting process and regular reconciliation of their front-office trading records against data samples provided to them by their competent authorities to that effect.\n\n4. Where competent authorities do not provide data samples, investment firms shall reconcile their front-office trading records against the information contained in the transaction reports that they have submitted to the competent authorities, or in the transaction reports that ARMs or trading venues have submitted on their behalf. The reconciliation shall include checking the timeliness of the report, the accuracy and completeness of the individual data fields and their compliance with the standards and formats specified in Table 2 of Annex I.\n\n5. Investment firms shall have arrangements in place to ensure that their transaction reports, when viewed collectively, reflect all changes in their position and in the position of their clients in the financial instruments concerned at the time transactions in the financial instruments are executed.\n\n6. Where an ARM, in accordance with instructions from the investment firm, cancels or corrects a transaction report submitted on behalf of an investment firm, the investment firm shall retain the details of the corrections and cancellations provided to it by the ARM.\n\n7. The reports referred to in Article 26(5) of Regulation (EU) No 600/2014 shall be sent to the competent authority of the home Member State of the trading venue.\n\n8. Competent authorities shall use secure electronic communication channels when exchanging transaction reports with each other.",
+      "text_sha256": "7ed8feb54646f22c98d7781de3d8af511346e0c09ef2e1cdbdb22b353fa128b6",
+      "md_span": {
+        "start": 23498,
+        "end": 27600
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. In the case of a transferable security within the meaning of Article 4(1)(44)(a) of Directive 2014/65/EU, an emission allowance or a unit in a collective investment undertaking, the most relevant market in terms of liquidity for that financial instrument (the most relevant market) shall be determined once each calendar year on the basis of the data of the previous calendar year, provided that the financial instrument was admitted to trading or traded at the beginning of the previous calendar year, as follows:\n\n| (a) | for instruments admitted to trading on one or more regulated markets, the most relevant market shall be the regulated market where the turnover, as defined in Article 17(4) of Commission Delegated Regulation (EU) 2017/587 (8) for the previous calendar year for that instrument is the highest; |\n| --- | --- |\n\n| (b) | for instruments not admitted to trading on regulated markets, the most relevant market shall be the MTF where the turnover for the previous calendar year for that instrument is the highest; |\n| --- | --- |\n\n| (c) | for the purposes of points (a) and (b), the highest turnover shall be calculated by excluding all transactions that benefit from pre-trade transparency waivers pursuant to Article 4(1)(a), (b) or (c) of Regulation (EU) No 600/2014. |\n| --- | --- |\n\n2. By derogation from paragraph 1 of this Article, where a transferable security within the meaning of Article 4(1)(44)(a) of Directive 2014/65/EU, an emission allowance or a unit in a collective investment undertaking was not admitted to trading or traded at the beginning of the previous calendar year or where there is insufficient or non-existent data to calculate the turnover in accordance with point (c) of paragraph 1 of this Article for the purpose of determining the most relevant market for that financial instrument, the most relevant market for the financial instrument shall be the market of the Member State in which a request for admission to trading was first made or where the instrument was first traded.\n\n3. In the case of a transferable security within the meaning of Article 4(1)(44)(b) of Directive 2014/65/EU or a money market instrument whose issuer is established in the Union, the most relevant market shall be the market of the Member State where the registered office of the issuer is situated.\n\n4. In the case of a transferable security within the meaning of Article 4(1)(44)(b) of Directive 2014/65/EU or a money market instrument whose issuer is established outside the Union, the most relevant market shall be the market of the Member State where the request for admission to trading of that financial instrument was first made or where the financial instrument was first traded on a trading venue.\n\n5. In the case of a financial instrument which is a derivative contract or a contract for difference or a transferable security within the meaning of Article 4(1)(44)(c) of Directive 2014/65/EU, the most relevant market shall be determined as follows:\n\n| (a) | where the underlying in the financial instrument is a transferable security within the meaning of Article 4(1)(44)(a) of Directive 2014/65/EU or an emission allowance which is admitted to trading on a regulated market or is traded on an MTF, the most relevant market shall be the market deemed to be the most relevant market for the underlying security in accordance with paragraph 1 or 2 of this Article; |\n| --- | --- |\n\n| (b) | where the underlying in a financial instrument is a transferable security within the meaning of Article 4(1)(44)(b) of Directive 2014/65/EU or a money market instrument which is admitted to trading on a regulated market or traded on an MTF or an OTF the most relevant market shall be the market deemed to be the most relevant market for the underlying financial instrument in accordance with paragraph 3 or 4 of this Article; |\n| --- | --- |\n\n| (c) | where the underlying in a financial instrument is a basket which contains financial instruments, the most relevant market shall be the market of the Member State in which the financial instrument was first admitted to trading or traded on a trading venue; |\n| --- | --- |\n\n| (d) | where the underlying in a financial instrument is an index which contains financial instruments, the most relevant market shall be the market of the Member State in which the financial instrument was first admitted to trading or traded on a trading venue; |\n| --- | --- |\n\n| (e) | where the underlying of the financial instrument is a derivative admitted to trading or traded on a trading venue, the most relevant market shall be the market of the Member State in which that derivative is admitted to trading or traded on a trading venue. |\n| --- | --- |\n\n6. For financial instruments that are not covered by paragraphs 1 to 5, the most relevant market shall be the market of the Member State of the trading venue which first admitted the financial instrument to trading or on which the financial instrument was first traded.",
+      "text_sha256": "9e83c61f1ac66560028ad3384c1e6496c11d22a1b4511d8f68b9f21d55ecf518",
+      "md_span": {
+        "start": 27635,
+        "end": 32638
+      },
+      "citations": [
+        {
+          "href": "#ntr8-L_2017087EN.01044901-E0008",
+          "text": "(8)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32017r0590:2016-07-28#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 3 January 2018.\n\nHowever, the second subparagraph of Article 2(5) shall apply 12 months after the date of entry into force of the delegated act adopted by the Commission pursuant to Article 4(9) of Regulation (EU) 2015/2365.",
+      "text_sha256": "9e35eb660ac660ce7fb1f066132ed4e9e0d0c8012c61a1bc3973685bf368f268",
+      "md_span": {
+        "start": 32673,
+        "end": 33071
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

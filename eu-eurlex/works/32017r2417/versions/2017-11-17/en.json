@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r2417:2017-11-17",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/2417 of 17 November 2017 supplementing Regulation (EU) No 600/2014",
+  "valid_from": "2017-11-17",
+  "valid_to": "2022-05-17",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r2417/versions/2017-11-17/en.xml",
+    "sha256": "d43db0172830b0b31df8dfda78ca04d4189609838b1f40f8de40147d709ebb67",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R2417"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r2417:2017-11-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe derivatives set out in the Annex shall be subject to the trading obligation referred to in Article 28 of Regulation (EU) No 600/2014.\n\nA derivative referred to in Table 1, Table 2 and Table 3 of the Annex shall be deemed to have a tenor of 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15, 20 or 30 years where the period of time between the date at which the obligations under that contract come into effect and the termination date of that contract equals one of those periods of time, plus or minus 5 days.",
+      "text_sha256": "779431742e608ed9f9b3dc0f123229dd7c2cf98f5e6b6a378298cba16603fdb2",
+      "md_span": {
+        "start": 659,
+        "end": 1169
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r2417:2017-11-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThe trading obligation referred to in Article 28 of Regulation (EU) No 600/2014 shall, for each category of counterparties referred to in Article 3 of Delegated Regulation (EU) 2015/2205 and Article 3 of Delegated Regulation (EU) 2016/592, take effect from the later of the following dates:\n\n| (a) | 3 January 2018; |\n| --- | --- |\n\n| (b) | the date referred to in Article 3 of Delegated Regulation (EU) 2015/2205 or Article 3 of Delegated Regulation (EU) 2016/592 for that category of counterparties. |\n| --- | --- |",
+      "text_sha256": "fcdaa40b6325f6824cf8a3073fa9b28c35330ae11619bcdcb9c5dc509a1ad40f",
+      "md_span": {
+        "start": 1202,
+        "end": 1730
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r2417:2017-11-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c3e9b6d12a2ea50109c02055af27a7c83edabe1f993c70d120b196469959d6a5",
+      "md_span": {
+        "start": 1763,
+        "end": 1904
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

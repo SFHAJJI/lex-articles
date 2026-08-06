@@ -1,0 +1,512 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0571:2018-02-06",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/571 of 2 June 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2018-02-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0571/versions/2018-02-06/fr.html",
+    "sha256": "beeceec8d4579d5ef897704b965c8327c754eb4e9718c686bbb254b791180266",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02017R0571-20180206"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Communication d'informations aux autorités compétentes",
+      "path": [
+        "CHAPITRE I",
+        "(Article 61, paragraphe 2, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un demandeur sollicitant un agrément pour la prestation de services de communication de données communique à l'autorité compétente les informations visées aux articles 2, 3 et 4 ainsi que les informations concernant toutes les exigences organisationnelles définies aux chapitres II et III.\n\n2. Un prestataire de services de communication de données informe sans délai l'autorité compétente de son État membre d'origine de toute modification importante des informations fournies au moment de l'agrément et ultérieurement.",
+      "text_sha256": "78500101fbe3af2f6e4c1209663603981a698636a257010943c2e555c2ae8cfb",
+      "md_span": {
+        "start": 797,
+        "end": 1320
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Informations sur l'organisation",
+      "path": [
+        "CHAPITRE I",
+        "(Article 61, paragraphe 2, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un demandeur sollicitant un agrément pour la prestation de services de communication de données inclut dans sa demande d'agrément un programme d'activité tel que visé à l'article 61, paragraphe 2, de la directive 2014/65/UE. Le programme d'activité contient les informations suivantes:\n\na) des informations sur la structure organisationnelle du demandeur, y compris un organigramme et une description des ressources humaines, techniques et juridiques affectées à ses activités opérationnelles;\n\nb) des informations sur les politiques et procédures de conformité mises en place par le prestataire de services de communication de données, y compris:\n\ni) le nom de la personne ou des personnes chargées de l'approbation et de l'actualisation de ces politiques;\n\nii) les dispositifs visant à surveiller et faire appliquer les politiques et procédures en matière de conformité;\n\niii) les mesures à prendre en cas de faille susceptible d'aboutir à un non-respect des conditions de l'agrément initial;\n\niv) une description de la procédure de déclaration à l'autorité compétente de toute faille susceptible d'aboutir à un non-respect des conditions de l'agrément initial;\n\nc) une liste de toutes les fonctions externalisées et de toutes les ressources affectées à leur contrôle.\n\n2. Un prestataire de services de communication de données qui offre des services autres que des services de communication de données décrit ces services dans l'organigramme.",
+      "text_sha256": "e1c2461d3d5d64fbd96aa04697bef6794b834b5d4f315726706a2d0fa082821b",
+      "md_span": {
+        "start": 1391,
+        "end": 2839
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Gouvernance d'entreprise",
+      "path": [
+        "CHAPITRE I",
+        "(Article 61, paragraphe 2, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un demandeur sollicitant un agrément pour la prestation de services de communication de données inclut dans sa demande d'agrément des informations sur ses politiques internes de gouvernance d'entreprise et sur les procédures qui régissent son organe de direction, sa direction générale, et, s'il en a institué, ses comités.\n\n2. Les informations visées au paragraphe 1 comprennent:\n\na) une description des processus de sélection, de nomination, d'évaluation de la performance et de révocation de la direction générale et des membres de l'organe de direction;\n\nb) une description des lignes hiérarchiques et l'indication de la fréquence de communication de rapports à la direction générale et à l'organe de direction;\n\nc) une description des politiques et procédures d'accès des membres de l'organe de direction aux documents.",
+      "text_sha256": "ad217e6b324fadfcf48b30f89c59e86d7edef4829d4796b4a575d0d78e29cb86",
+      "md_span": {
+        "start": 2903,
+        "end": 3730
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Informations sur les membres de l'organe de direction",
+      "path": [
+        "CHAPITRE I",
+        "(Article 61, paragraphe 2, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un demandeur sollicitant un agrément pour la prestation de services de communication de données inclut dans sa demande d'agrément les informations suivantes concernant chacun des membres de l'organe de direction:\n\na) le nom, la date et le lieu de naissance, le numéro d'identification national ou un équivalent, l'adresse et les coordonnées;\n\nb) la fonction à laquelle le membre est ou sera nommé;\n\nc) un curriculum vitæ attestant qu'il possède une expérience et des connaissances suffisantes pour exercer correctement ses responsabilités;\n\nd) le casier judiciaire, présenté au moyen d'un certificat officiel, ou, lorsqu'un tel document n'est pas disponible dans l'État membre concerné, une déclaration solennelle d'honorabilité incluant l'autorisation, pour l'autorité compétente, de vérifier si le membre en question a déjà été reconnu coupable d'une infraction pénale en rapport avec la prestation de services financiers ou de services de données ou en rapport avec une fraude ou un détournement;\n\ne) dans tous les cas, une déclaration solennelle d'honorabilité incluant l'autorisation, pour l'autorité compétente, de vérifier si le membre en question:\n\ni) a déjà fait l'objet d'une décision lui faisant grief à la suite d'une procédure disciplinaire engagée par une autorité réglementaire ou une administration publique, ou si une telle procédure est actuellement en cours à son égard;\n\nii) a déjà fait l'objet d'une décision lui faisant grief dans une procédure civile devant un tribunal, portant sur la prestation de services financiers ou de services de données ou sur une faute ou une fraude commises dans la gestion d'une entreprise;\n\niii) a fait partie de l'organe de direction d'une entreprise qui a fait l'objet d'une décision lui faisant grief ou d'une sanction infligée par une autorité réglementaire ou dont l'enregistrement ou l'agrément a été retiré par une autorité réglementaire;\n\niv) s'est vu refuser le droit d'exercer des activités soumises à une obligation d'enregistrement ou d'agrément par une autorité réglementaire;\n\nv) a fait partie de l'organe de direction d'une entreprise qui a fait faillite ou a été placée en liquidation alors qu'il était en fonction ou dans un délai d'un an après qu'il a cessé d'être en fonction;\n\nvi) s'est vu infliger par un organisme professionnel une amende, une mesure de suspension ou de révocation ou toute autre sanction en rapport avec une fraude ou un détournement ou avec la prestation de services financiers ou de services de données;\n\nvii) a déjà été révoqué comme administrateur, déchu du droit d'exercer des fonctions de direction ou de gestion ou licencié d'un poste de salarié ou d'un autre poste occupé dans une entreprise pour inconduite ou abus;\n\nf) une indication du temps minimal qu'il doit consacrer à l'exercice de ses fonctions au sein du prestataire de services de communication de données;\n\ng) une déclaration des éventuels conflits d'intérêts pouvant exister ou naître du fait de l'exercice de ses fonctions, et de la manière dont ces conflits sont gérés.",
+      "text_sha256": "4129054976c915cc76fb3ffc7dffee7d735fd47b454f0cfcaa60b0b9b04813e7",
+      "md_span": {
+        "start": 3823,
+        "end": 6861
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Conflits d'intérêt",
+      "path": [
+        "CHAPITRE II",
+        "(Article 64, paragraphes 3, 4 et 5, article 65, paragraphes 4, 5 et 6, et article 66, paragraphes 2, 3 et 4, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un prestataire de services de communication de données met en œuvre et maintient des dispositifs administratifs efficaces destinés à prévenir les conflits d'intérêts avec les clients qui utilisent ses services pour satisfaire à leurs obligations réglementaires et d'autres entités qui achètent des données auprès de prestataires de services de communication de données. Ces dispositifs comprennent des politiques et procédures pour l'identification, la gestion et la divulgation des conflits d'intérêts existants et potentiels, et comportent:\n\na) un inventaire des conflits d'intérêts existants et potentiels, présentant leur description, identification, prévention, gestion et divulgation;\n\nb) la séparation des tâches et des fonctions opérationnelles au sein du prestataire de services de communication de données, y compris:\n\ni) les mesures destinées à empêcher ou contrôler l'échange d'informations lorsqu'un risque de conflits d'intérêts est susceptible d'apparaître;\n\nii) une surveillance distincte des personnes pertinentes dont les principales fonctions comportent des intérêts susceptibles d'être en conflit avec ceux d'un client;\n\nc) une description de la politique tarifaire appliquée pour déterminer les frais facturés par le prestataire de services de communication de données et les entreprises auxquelles il est étroitement lié;\n\nd) une description de la politique de rémunération applicable aux membres de l'organe de direction et de la direction générale;\n\ne) les règles concernant l'acceptation de sommes d'argent, de cadeaux ou de faveurs par le personnel du prestataire de services de communication de données et son organe de direction.\n\n2. L'inventaire des conflits d'intérêts visé au paragraphe 1, point a), inclut les conflits d'intérêts créés par les situations dans lesquelles le prestataire de services de communication de données:\n\na) peut, au détriment du client, réaliser un gain financier ou éviter une perte financière;\n\nb) peut avoir un intérêt dans le résultat d'un service fourni à un client qui ne coïncide pas avec l'intérêt de ce client dans ce résultat;\n\nc) peut être incité à privilégier ses propres intérêts, ou ceux d'un autre client ou groupe de clients, au détriment de ceux du client à qui le service est fourni;\n\nd) reçoit ou est susceptible de recevoir de la part d'une personne autre que le client, en rapport avec le service fourni à ce dernier, une incitation, sous forme d'argent, de biens ou de services, autre que la commission ou les frais perçus pour le service en question.",
+      "text_sha256": "bcd27feb8d92a1c1fabe85e7d63f05a1d954c844df61688c5d9a2fbb7b4b862c",
+      "md_span": {
+        "start": 7077,
+        "end": 9609
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Exigences organisationnelles en matière d'externalisation",
+      "path": [
+        "CHAPITRE II",
+        "(Article 64, paragraphes 3, 4 et 5, article 65, paragraphes 4, 5 et 6, et article 66, paragraphes 2, 3 et 4, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Lorsqu'un prestataire de services de communication de données confie des activités à des tiers pour qu'ils les exercent pour son compte, y compris des entreprises avec lesquelles il a des liens étroits, il veille à ce que le prestataire de service tiers ait l'aptitude et la capacité d'exercer ces activités de manière fiable et professionnelle.\n\n2. Un prestataire de services de communication de données précise quelles activités seront externalisées, ainsi que les ressources humaines et techniques nécessaires à l'exercice de chacune de ces activités.\n\n3. Un prestataire de services de communication de données qui externalise des activités veille à ce que cette externalisation ne diminue pas son aptitude à exercer ou son pouvoir d'exercer des fonctions de direction générale ou d'organe de direction.\n\n4. Un prestataire de services de communication de données conserve la responsabilité de toutes les activités externalisées et adopte des mesures organisationnelles garantissant:\n\na) qu'il évalue si le prestataire de services tiers exerce les activités externalisées de manière efficace et conforme aux dispositions législatives et aux exigences réglementaires applicables et remédie de manière adéquate aux défaillances constatées;\n\nb) l'identification des risques relatifs aux activités externalisées et un suivi périodique adéquat;\n\nc) des procédures de contrôle adéquates des activités externalisées, incluant une surveillance effective des activités et de leurs risques au sein du prestataire de services de communication de données;\n\nd) une continuité suffisante des activités externalisées.\n\nAux fins du point d), le prestataire de services de communication de données obtient des informations sur les mécanismes de continuité des activités du prestataire de services tiers, en évalue la qualité et, au besoin, en demande l'amélioration.\n\n5. Un prestataire de services de communication de données veille à ce que le prestataire de services tiers coopère avec l'autorité compétente du prestataire de services de communication de données en ce qui concerne les activités externalisées.\n\n6. Lorsqu'un prestataire de services de communication de données externalise des fonctions critiques, il communique à l'autorité compétente de son État membre d'origine:\n\na) l'identité du prestataire de services tiers;\n\nb) les mesures et politiques organisationnelles régissant l'externalisation et les risques qu'elle pose définies au paragraphe 4;\n\nc) des rapports internes ou externes sur les activités externalisées.\n\nAux fins du premier alinéa du paragraphe 6, une fonction est considérée comme critique lorsqu'une anomalie ou une défaillance dans son exercice est susceptible de nuire sérieusement à la capacité du prestataire de services de communication de données de se conformer en permanence aux conditions et aux obligations de son agrément ou à ses autres obligations au titre de la directive 2014/65/UE.",
+      "text_sha256": "4a31060b42da1f0e35b05cd86da93e3cb3a6ddee61d1e1eb174207466d1d9f10",
+      "md_span": {
+        "start": 9706,
+        "end": 12625
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Mécanismes de continuité des activités et de sauvegarde",
+      "path": [
+        "CHAPITRE II",
+        "(Article 64, paragraphes 3, 4 et 5, article 65, paragraphes 4, 5 et 6, et article 66, paragraphes 2, 3 et 4, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un prestataire de services de communication de données utilise des systèmes et des mécanismes appropriés et suffisamment solides pour garantir la continuité et la régularité des services visés dans la directive 2014/65/UE.\n\n2. Un prestataire de services de communication de données procède à des examens périodiques, au moins une fois par an, pour évaluer ses infrastructures techniques et ses politiques et procédures connexes, y compris ses mécanismes de continuité des activités. Il remédie à toute insuffisance constatée pendant l'examen.\n\n3. Un prestataire de services de communication de données a mis en place des mécanismes de continuité des activités efficaces pour faire face à des incidents perturbateurs, notamment:\n\na) les processus indispensables à la fourniture de ses services, y compris des procédures d'intervention par paliers, l'externalisation d'activités pertinentes ou le recours à des prestataires externes;\n\nb) des mécanismes de continuité spécifiques, couvrant un éventail adéquat de scénarios possibles, à court et moyen termes, y compris de défaillances des systèmes, de catastrophe naturelle, de rupture de communication, de perte de collaborateurs clés et d'impossibilité d'utiliser les locaux normalement utilisés;\n\nc) la duplication des composants du matériel informatique, pour permettre de basculer vers une infrastructure de sauvegarde, tout en maintenant la connectivité des réseaux et les canaux de communication;\n\nd) la sauvegarde des données cruciales pour l'entreprise et des informations actualisées sur les contacts nécessaires, de manière à assurer la communication au sein du prestataire de services de communication de données et avec les clients;\n\ne) les procédures relatives au passage à un site de sauvegarde et à l'exploitation des services de communication de données depuis un tel site;\n\nf) le délai cible maximal de rétablissement des fonctions critiques, qui doit être aussi court que possible et, en tout état de cause, ne pas dépasser six heures dans le cas de dispositifs de publication agréés (APA) et de fournisseurs de systèmes consolidés de publication (CTP), ni l'heure de clôture des activités le jour ouvrable suivant dans le cas de mécanismes de déclaration agréés (ARM);\n\ng) une formation du personnel sur le fonctionnement des mécanismes de continuité des activités, définissant le rôle de chacun, et notamment de membres du personnel spécifiquement chargés des opérations de sécurité et prêts à réagir immédiatement en cas de perturbation des services.\n\n4. Un prestataire de services de communication de données met en place un programme en vue de périodiquement tester, réexaminer et, au besoin, modifier les mécanismes de continuité des activités.\n\n5. Un prestataire de services de communication de données informe immédiatement l'autorité compétente de son État membre d'origine et ses clients de toute interruption des services ou de toute perturbation des connexions, ainsi que du délai estimé pour le rétablissement de services normaux, et publie ces informations sur son site web.\n\n6. Dans le cas d'un ARM, les notifications visées au paragraphe 5 sont également effectuées auprès de toute autorité compétente à laquelle l'ARM soumet des déclarations de transactions.",
+      "text_sha256": "1823901a82e0fc1fa31c7cbf37d187d713a86ca2b313917f6821e108c811ce00",
+      "md_span": {
+        "start": 12720,
+        "end": 15964
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Tests et capacités",
+      "path": [
+        "CHAPITRE II",
+        "(Article 64, paragraphes 3, 4 et 5, article 65, paragraphes 4, 5 et 6, et article 66, paragraphes 2, 3 et 4, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un prestataire de services de communication de données applique des méthodes de développement et de test clairement définies garantissant que:\n\na) l'exploitation des systèmes informatiques est conforme aux obligations réglementaires du prestataire de services de communication de données;\n\nb) les mécanismes de contrôle de conformité et de gestion des risques intégrés dans les systèmes informatiques fonctionnent comme prévu;\n\nc) les systèmes informatiques peuvent continuer à fonctionner efficacement en toutes circonstances.\n\n2. Un prestataire de services de communication de données applique également les méthodes visées au paragraphe 1 avant et après toute mise à jour des systèmes informatiques.\n\n3. Un prestataire de services de communication de données informe sans délai l'autorité compétente de son État membre d'origine de tout projet de modification importante du système informatique avant sa mise en œuvre.\n\n4. Dans le cas d'un ARM, les notifications visées au paragraphe 3 sont également effectuées auprès de toute autorité compétente à laquelle l'ARM soumet des déclarations de transactions.\n\n5. Un prestataire de services de communication de données met en place un programme permanent de réexamen périodique et, au besoin, de modification des méthodes de développement et de test.\n\n6. Un prestataire de services de communication de données effectue périodiquement des tests de résistance, au moins une fois par an. Il inclut parmi les scénarios défavorables du test de résistance un comportement inattendu des composants essentiels de ses systèmes et des lignes de communication. Les tests de résistance mettent en évidence la manière dont le matériel informatique, les logiciels et les communications réagissent aux menaces potentielles, en indiquant les systèmes qui sont incapables de faire face aux scénarios défavorables. Le prestataire de services de communication de données prend des mesures pour remédier aux lacunes constatées de ces systèmes.\n\n7. Un prestataire de services de communication de données dispose:\n\na) d'une capacité suffisante pour s'acquitter de ses fonctions sans interruption ou défaillance, liée notamment à des données manquantes ou incorrectes;\n\nb) d'une flexibilité suffisante pour s'adapter, sans délai excessif, à toute augmentation de la quantité d'informations à traiter et du nombre de demandes d'accès de ses clients.",
+      "text_sha256": "5cc5debb1ac5d5f5257111fd22fdfef2f53b24474e317bf68145f920bf8505e9",
+      "md_span": {
+        "start": 16022,
+        "end": 18399
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Sécurité",
+      "path": [
+        "CHAPITRE II",
+        "(Article 64, paragraphes 3, 4 et 5, article 65, paragraphes 4, 5 et 6, et article 66, paragraphes 2, 3 et 4, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un prestataire de services de communication de données met en place et maintient des procédures et dispositifs de sécurité physique et électronique conçus pour:\n\na) protéger ses systèmes informatiques contre toute utilisation abusive ou tout accès non autorisé;\n\nb) minimiser les risques d'attaques contre les systèmes d'information au sens de l'article 2, point a), de la directive 2013/40/UE du Parlement européen et du Conseil (1);\n\nc) empêcher la divulgation non autorisée d'informations confidentielles;\n\nd) garantir la sécurité et l'intégrité des données.\n\n2. Lorsqu'une entreprise d'investissement («entreprise déclarante») a recours à un tiers («entreprise déposante») pour soumettre en son nom des informations à un ARM, l'ARM dispose de procédures et de dispositifs pour garantir que l'entreprise déposante n'a accès à aucune autre information concernant l'entreprise déclarante ou soumise par cette dernière à l'ARM, qui a pu être envoyée par l'entreprise déclarante à l'ARM directement ou par l'intermédiaire d'une autre entreprise déposante.\n\n3. Un prestataire de services de communication de données met en place et maintient des mesures et des dispositifs permettant de repérer et gérer rapidement les risques visés au paragraphe 1.\n\n4. S'agissant des failles dans les mesures de sécurité physique ou électronique prévues aux paragraphes 1, 2 et 3, le prestataire de services de communication de données en informe dans les plus brefs délais:\n\na) l'autorité compétente de son État membre d'origine et lui fournit un rapport d'incident indiquant la nature de l'incident, les mesures adoptées pour y remédier et les initiatives prises pour empêcher de tels incidents de se reproduire;\n\nb) ceux de ses clients qui ont été touchés par la faille de sécurité.\n\n5. Dans le cas d'un ARM, la notification visée au paragraphe 4, point a), est également effectuée auprès de toute autorité compétente à laquelle l'ARM soumet des déclarations de transactions.",
+      "text_sha256": "bd89a0af20f6aeb44cf4ad3f86c184b95616e3751981a6a1a8b3322542ddba90",
+      "md_span": {
+        "start": 18447,
+        "end": 20411
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Gestion par les APA et les CTP des informations incomplètes ou susceptibles d'être erronées",
+      "path": [
+        "CHAPITRE II",
+        "(Article 64, paragraphes 3, 4 et 5, article 65, paragraphes 4, 5 et 6, et article 66, paragraphes 2, 3 et 4, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les APA et les CTP mettent en place et maintiennent les dispositifs nécessaires pour garantir qu'ils publient avec exactitude les rapports de négociation reçus de la part d'entreprises d'investissement et, dans le cas de CTP, de la part de plates-formes de négociation et d'APA, sans eux-mêmes introduire d'erreur ou omettre d'informations, et ils corrigent les informations lorsqu'ils sont eux-mêmes à l'origine de l'erreur ou de l'omission.\n\n2. Les APA et les CTP surveillent constamment en temps réel la performance de leurs systèmes informatiques en s'assurant que les rapports de négociation qu'ils ont reçus ont bien été publiés.\n\n3. Les APA et les CTP vérifient périodiquement la concordance entre les rapports de négociation qu'ils reçoivent et ceux qu'ils publient, en vérifiant la bonne publication des informations.\n\n4. Un APA qui reçoit un rapport de négociation en accuse réception auprès de l'entreprise d'investissement déclarante et lui confirme le code d'identification de transaction qu'il a attribué. Dans toute communication ultérieure avec l'entreprise déclarante au sujet d'un rapport de négociation spécifique, l'APA indique le code d'identification de transaction.\n\n5. Un APA établit et maintient les dispositifs nécessaires pour détecter dès leur réception les rapports de négociation qui sont incomplets ou qui contiennent des informations susceptibles d'être erronées. Ces dispositifs comprennent des mécanismes automatiques d'alerte de prix et de volume, tenant compte:\n\na) du secteur et du segment sur lequel l'instrument financier est négocié;\n\nb) des niveaux de liquidité, incluant les niveaux de négociation historiques;\n\nc) de prix et de volumes de référence appropriés;\n\nd) si nécessaire, d'autres paramètres qui dépendent des caractéristiques de l'instrument financier.\n\n6. Lorsqu'un APA constate qu'un rapport de négociation qu'il a reçu est incomplet ou contient des informations susceptibles d'être erronées, il ne le publie pas et avertit rapidement l'entreprise d'investissement qui soumet ce rapport.\n\n7. Dans des circonstances exceptionnelles, les APA et CTP suppriment ou modifient des informations dans un rapport de négociation à la demande de l'entité qui fournit ces informations lorsque pour des raisons techniques, cette dernière ne peut pas supprimer ou modifier ses propres informations.\n\n8. Les APA publient des politiques non discrétionnaires en matière de suppression et de modification des informations contenues dans les rapports de négociation, qui fixent les sanctions qu'ils peuvent imposer aux entreprises d'investissement ayant fourni des rapports de négociation dont les informations incomplètes ou erronées ont conduit à la suppression ou à la modification de ces rapports.",
+      "text_sha256": "c5c1e0756545a4cd6eaba4337f1196910672005366f86aee15c2b4f7ec45a580",
+      "md_span": {
+        "start": 20544,
+        "end": 23283
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Gestion par les ARM des informations incomplètes ou susceptibles d'être erronées",
+      "path": [
+        "CHAPITRE II",
+        "(Article 64, paragraphes 3, 4 et 5, article 65, paragraphes 4, 5 et 6, et article 66, paragraphes 2, 3 et 4, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un ARM établit et maintient les dispositifs nécessaires pour détecter les déclarations de transactions qui sont incomplètes ou qui contiennent des erreurs manifestes dont des clients sont à l'origine. Un ARM effectue la validation des déclarations de transactions au regard des obligations prévues par l'article 26 du règlement (UE) no 600/2014 en ce qui concerne les champs, le format et le contenu des champs conformément au tableau 1 de l'annexe I du règlement délégué (UE) 2017/590 de la Commission (2).\n\n2. Un ARM met en place et maintient les dispositifs nécessaires pour détecter les déclarations de transactions qui comportent des erreurs ou des omissions dont il est lui-même à l'origine et pour corriger, y compris par des suppressions ou des modifications, ces erreurs ou omissions. Un ARM effectue la validation pour les champs, le format et le contenu des champs conformément au tableau 1 de l'annexe I du règlement délégué (UE) 2017/590.\n\n3. Un ARM surveille constamment en temps réel la performance de ses systèmes en s'assurant que les déclarations de transactions qu'il reçoit sont bien transmises à l'autorité compétente, conformément à l'article 26 du règlement (UE) no 600/2014.\n\n4. Un ARM vérifie périodiquement, à la demande de l'autorité compétente de son État membre d'origine ou de l'autorité compétente à laquelle il transmet des déclarations de transactions, la concordance entre, d'une part, les informations qu'il reçoit de son client ou qu'il génère pour le compte de celui-ci aux fins de la déclaration de transactions, et d'autre part, des échantillons de données extraits des informations fournies par l'autorité compétente.\n\n5. Les corrections, y compris les suppressions ou modifications de déclarations de transactions, qui ne corrigent pas des erreurs ou omissions dont l'ARM est à l'origine, ne sont faites qu'à la demande d'un client et pour une déclaration de transaction donnée. Lorsqu'un ARM supprime ou modifie une déclaration de transaction à la demande d'un client, il fournit cette déclaration de transaction actualisée à ce client.\n\n6. Lorsqu'un ARM, avant de transmettre la déclaration de transaction, détecte une erreur ou une omission dont un client est à l'origine, il ne soumet pas cette déclaration de transaction et avertit sans délai l'entreprise d'investissement des détails de cette erreur ou omission pour permettre au client de soumettre des informations corrigées.\n\n7. Lorsqu'un ARM prend connaissance d'erreurs ou d'omissions dont il est lui-même à l'origine, il transmet sans délai une déclaration exacte et complète.\n\n8. L'ARM avertit sans délai le client des détails de l'erreur ou de l'omission et lui fournit une déclaration de transaction actualisée. L'ARM avertit également sans délai de cette erreur ou omission l'autorité compétente de son État membre d'origine et l'autorité compétente à laquelle il a transmis la déclaration de transaction.\n\n9. L'obligation de corriger ou supprimer les déclarations de transaction erronées ou de signaler les transactions omises ne concerne pas les erreurs ou omissions qui ont eu lieu plus de cinq ans avant la date à laquelle l'ARM en a pris connaissance.",
+      "text_sha256": "74d6ca450d110a903a935fd07c22c0caf1090f81d78c9094541f1fadc915e387",
+      "md_span": {
+        "start": 23405,
+        "end": 26571
+      },
+      "citations": [
+        {
+          "href": "#E0002",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Connectivité des ARM",
+      "path": [
+        "CHAPITRE II",
+        "(Article 64, paragraphes 3, 4 et 5, article 65, paragraphes 4, 5 et 6, et article 66, paragraphes 2, 3 et 4, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un ARM dispose des politiques, dispositifs et capacités techniques nécessaires pour se conformer aux spécifications techniques fixées par l'autorité compétente de son État membre d'origine et par les autres autorités compétentes auxquelles il adresse des déclarations de transactions pour la transmission de ces déclarations.\n\n2. Un ARM dispose des politiques, dispositifs et capacités techniques nécessaires pour recevoir les déclarations de transactions de clients et leur transmettre des informations en retour. L'ARM fournit au client une copie de la déclaration de transaction qu'il a transmise pour son compte à l'autorité compétente.",
+      "text_sha256": "6fa84c24bab0f3d90571fa4449a4011bdd9e4c62c923d3ad335e641d22a82ac4",
+      "md_span": {
+        "start": 26633,
+        "end": 27276
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Autres services fournis par les CTP",
+      "path": [
+        "CHAPITRE II",
+        "(Article 64, paragraphes 3, 4 et 5, article 65, paragraphes 4, 5 et 6, et article 66, paragraphes 2, 3 et 4, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un CTP peut fournir les services supplémentaires suivants:\n\na) fourniture de données pour la transparence pré-négociation;\n\nb) fourniture de données historiques;\n\nc) fourniture de données de référence;\n\nd) fourniture de services de recherche;\n\ne) traitement, distribution et commercialisation de données et de statistiques sur les instruments financiers et les plates-formes de négociation, ainsi que d'autres données relatives au marché;\n\nf) conception, gestion, maintenance et commercialisation de logiciels, de matériel informatique et de réseaux pour la transmission de données et d'informations.\n\n2. Un CTP peut fournir des services améliorant l'efficience du marché, autres que ceux indiqués au paragraphe 1, à condition que ces services ne génèrent pas un risque pour la qualité de la consolidation ou l'indépendance du CTP qui ne puisse pas être efficacement évité ou circonscrit.",
+      "text_sha256": "1bdf9a2991a6aae3daff5ef2bac67b7b950358cbbc98e3064094d8f8f63c43c2",
+      "md_span": {
+        "start": 27353,
+        "end": 28244
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Lisibilité par machine",
+      "path": [
+        "CHAPITRE III",
+        "(Article 64, paragraphes 1 et 2, et article 65, paragraphe 1, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les APA et les CTP publient sous une forme lisible par machine les informations qui doivent être rendues publiques conformément à l'article 64, paragraphe 1, et à l'article 65, paragraphe 1, de la directive 2014/65/UE.\n\n2. Les CTP publient sous une forme lisible par machine les informations qui doivent être rendues publiques conformément à l'article 65, paragraphe 2, de la directive 2014/65/UE.\n\n3. Les informations ne sont réputées publiées sous une forme lisible par machine que si toutes les conditions suivantes sont remplies:\n\na) elles se présentent sous un format électronique conçu pour être directement et automatiquement lu par un ordinateur;\n\nb) elles sont stockées dans une architecture informatique appropriée, conformément à l'article 8, paragraphe 7, laquelle permet un accès automatique;\n\nc) elles sont suffisamment solides pour garantir la continuité et la régularité des services fournis et sont accessibles suffisamment rapidement;\n\nd) elles sont accessibles, lisibles, utilisables et copiables par des logiciels informatiques publiquement disponibles et gratuits.\n\nAux fins du premier alinéa, point a), le format électronique est précisé par des normes libres, non propriétaires et ouvertes.\n\n4. Aux fins du paragraphe 3, point a), le format électronique comprend le type de fichiers ou messages, les règles pour les identifier, et le nom et le type de données des champs qu'ils contiennent.\n\n5. Les APA et les CTP:\n\na) mettent à la disposition du public des instructions expliquant où et comment obtenir et utiliser facilement les données, y compris l'indication du format électronique;\n\nb) rendent publiques toutes les modifications apportées aux instructions visées au point a) au moins trois mois avant qu'elles ne prennent effet, sauf en cas d'urgence dûment justifiée nécessitant qu'elles prennent effet plus rapidement;\n\nc) font figurer sur la page d'accueil de leur site web un lien vers les instructions visées au point a).",
+      "text_sha256": "85d22fd22a03333a9e0440e44c1feb41396b7f339752ec64acd39d8f70e107bd",
+      "md_span": {
+        "start": 28420,
+        "end": 30377
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Données à inclure dans le système consolidé de publication pour les actions, les certificats représentatifs, les fonds cotés, les certificats préférentiels et autres instruments financiers similaires",
+      "path": [
+        "CHAPITRE III",
+        "(Article 64, paragraphes 1 et 2, et article 65, paragraphe 1, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un CTP inclut dans ses flux électroniques de données les données rendues publiques conformément aux articles 6 et 20 du règlement (UE) no 600/2014 concernant tous les instruments financiers visés dans lesdits articles.\n\n2. Lorsqu'un nouvel APA ou une nouvelle plate-forme de négociation entre en activité, un CTP inclut les données rendues publiques par cet APA ou cette plate-forme de négociation dans le flux électronique de données de son système consolidé de publication le plus tôt possible, et en tout état de cause au plus tard six mois après l'entrée en activité de l'APA ou de la plate-forme de négociation.",
+      "text_sha256": "5d78789625e7997e6583f64985abf473fe6fedf1dbba749ce939c20bc22aa8ad",
+      "md_span": {
+        "start": 30618,
+        "end": 31237
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32018R0063",
+          "text": "32018R0063: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15_bis",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_15_bis",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15 bis",
+      "heading": "Données à inclure dans le système consolidé de publication pour les obligations, produits financiers structurés, quotas d'émission et dérivés",
+      "path": [
+        "CHAPITRE III",
+        "(Article 64, paragraphes 1 et 2, et article 65, paragraphe 1, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un CTP inclut dans ses flux électroniques de données les données d'une ou de plusieurs des catégories d'actifs suivantes:\n\na) les obligations autres que les *exchange traded commodities* (ETC) et les *exchange traded notes* (ETN);\n\nb) les obligations de type ETC et ETN;\n\nc) les produits financiers structurés;\n\nd) les dérivés titrisés;\n\ne) les dérivés de taux d'intérêt;\n\nf) les dérivés de change;\n\ng) les dérivés sur actions;\n\nh) les dérivés sur matières premières;\n\ni) les dérivés de crédit;\n\nj) les contrats financiers pour différences;\n\nk) les dérivés C10;\n\nl) les dérivés sur quotas d'émission;\n\nm) les quotas d'émission.\n\n2. Un CTP inclut dans ses flux électroniques de données les données rendues publiques conformément aux articles 10 et 21 du règlement (UE) no 600/2014 qui respectent les deux ratios de couverture suivants:\n\na) le nombre des transactions publiées par le CTP pour l'une des catégories d'actifs énumérées au paragraphe 1 représente au moins 80 % du nombre total de transactions dans cette catégorie d'actifs publiées dans l'Union par tous les APA et toutes les plates-formes de négociation au cours de la période d'évaluation visée au paragraphe 3;\n\nb) le volume des transactions publiées par le CTP pour l'une des catégories d'actifs énumérées au paragraphe 1 représente au moins 80 % du volume total de transactions dans cette catégorie d'actifs publiées dans l'Union par tous les APA et toutes les plates-formes de négociation au cours de la période d'évaluation visée au paragraphe 3.\n\nAux fins du point b), le volume de transactions est mesuré conformément au tableau 4 de l'annexe II du règlement délégué (UE) 2017/583 de la Commission (3).\n\n3. Un CTP évalue les ratios de couverture définis au paragraphe 2 tous les six mois, sur la base des données couvrant les six mois précédents. Les périodes d'évaluation débutent le 1er janvier et le 1er juillet de chaque année. La première période couvre les six premiers mois de l'année 2019.\n\n4. Un CTP veille à atteindre les ratios de couverture minimaux définis au paragraphe 2 dès que possible et, dans tous les cas, au plus tard:\n\na) le 31 janvier de l'année civile qui suit la période allant du 1er janvier au 30 juin;\n\nb) le 31 juillet de l'année civile qui suit la période allant du 1er juillet au 31 décembre.",
+      "text_sha256": "4245a0d249efa26e0198f4ed78d05bad3f5dd7b97d519f0ae612bff00d9694cc",
+      "md_span": {
+        "start": 31428,
+        "end": 33724
+      },
+      "citations": [
+        {
+          "href": "#E0003",
+          "text": "3"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32017R0571",
+          "text": "32017R0571"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Identification des rapports de négociation originaux et de leurs doubles pour les actions, les certificats représentatifs, les fonds cotés, les certificats préférentiels et autres instruments financiers similaires",
+      "path": [
+        "CHAPITRE III",
+        "(Article 64, paragraphes 1 et 2, et article 65, paragraphe 1, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Lorsqu'un APA publie un rapport de négociation qui constitue un double, il inscrit le code «DUPL» dans un champ de réédition afin de permettre aux destinataires des données de distinguer le rapport de négociation original de ses éventuels doubles.\n\n2. Aux fins du paragraphe 1, un APA exige de chaque entreprise d'investissement qu'elle se conforme à l'une des conditions suivantes:\n\na) certifier qu'elle ne passe que par cet APA pour déclarer les transactions portant sur un instrument financier donné;\n\nb) utiliser un mécanisme d'identification qui signale une déclaration comme étant l'originale («ORGN») et toutes les autres déclarations de la même transaction comme des doubles («DUPL»).",
+      "text_sha256": "8ab282cae214c31929141cb87b22488a1e1282bf309a4a00df0776577107a7f6",
+      "md_span": {
+        "start": 33979,
+        "end": 34674
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Publication des rapports originaux pour les actions, les certificats représentatifs, les fonds cotés, les certificats préférentiels et autres instruments financiers similaires",
+      "path": [
+        "CHAPITRE III",
+        "(Article 64, paragraphes 1 et 2, et article 65, paragraphe 1, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "Un CTP ne consolide pas les rapports de négociation pour lesquels le code «DUPL» figure dans le champ de réédition.",
+      "text_sha256": "949bc45990557f406089d499a1cbca140240940ddcf428e95cb0b6169e17f67c",
+      "md_span": {
+        "start": 34891,
+        "end": 35006
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Renseignements à publier par l'APA",
+      "path": [
+        "CHAPITRE III",
+        "(Article 64, paragraphes 1 et 2, et article 65, paragraphe 1, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un APA publie:\n\na) pour les transactions exécutées portant sur des actions, des certificats représentatifs, des fonds cotés, des certificats préférentiels ou d'autres instruments financiers similaires, les détails d'une transaction précisés dans le tableau 2 de l'annexe I du règlement délégué (UE) 2017/587 et utilise les codes signalétiques appropriés énumérés dans le tableau 3 de l'annexe I du règlement délégué (UE) 2017/587;\n\nb) pour les transactions exécutées portant sur des obligations, des produits financiers structurés, des quotas d'émission ou des instruments dérivés, les détails d'une transaction précisés dans le tableau 1 de l'annexe II du règlement délégué (UE) 2017/583 et utilise les codes signalétiques appropriés énumérés dans le tableau 2 de l'annexe II du règlement délégué (UE) 2017/583.\n\n2. Lorsqu'il publie des informations sur le moment où la transaction a été déclarée, l'APA indique la date et l'heure, à la seconde près, où il publie la transaction.\n\n3. Par dérogation au paragraphe 2, un APA qui publie des informations concernant une transaction exécutée sur un système électronique indique la date et l'heure, à la milliseconde près, de la publication de cette transaction dans son rapport de négociation.\n\n4. Aux fins du paragraphe 3, on entend par «système électronique» un système dans lequel les ordres peuvent être exécutés électroniquement ou dans lequel les ordres peuvent être exécutés en dehors du système pour autant qu'ils soient signalés au moyen du système en question.\n\n5. Les horodatages visés aux paragraphes 2 et 3 ne s'écartent pas, respectivement, de plus d'une seconde ou de plus d'une milliseconde du temps universel coordonné (TUC) émis et géré par l'un des centres horaires énumérés dans le dernier rapport annuel sur les activités relatives à la mesure du temps *(Annual Report on Time Activities)* du Bureau international des poids et mesures (BIPM).",
+      "text_sha256": "7875f9e293539dd764627eb466c67d4b89ca50da0ae5fe09eef07d52a194e16a",
+      "md_span": {
+        "start": 35082,
+        "end": 36994
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Non-discrimination",
+      "path": [
+        "CHAPITRE III",
+        "(Article 64, paragraphes 1 et 2, et article 65, paragraphe 1, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les APA et les CTP veillent à ce que les informations qui doivent être rendues publiques soient envoyées simultanément à travers tous les canaux de distribution, y compris lorsque ces informations sont rendues publiques dans un délai aussi proche du temps réel que le permettent les moyens techniques ou 15 minutes après la première publication.",
+      "text_sha256": "c7cc239a66eb6b48470206b364c8f564f52984f13abfbdecd9e291270ccd4079",
+      "md_span": {
+        "start": 37054,
+        "end": 37399
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Renseignements à publier par le CTP",
+      "path": [
+        "CHAPITRE III",
+        "(Article 64, paragraphes 1 et 2, et article 65, paragraphe 1, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "Un CTP publie:\n\na) pour les transactions exécutées portant sur des actions, des certificats représentatifs, des fonds cotés, des certificats préférentiels ou d'autres instruments financiers similaires, les détails d'une transaction précisés dans le tableau 2 de l'annexe I du règlement délégué (UE) 2017/587 et utilise les codes signalétiques appropriés énumérés dans le tableau 3 de l'annexe I du règlement délégué (UE) 2017/587;\n\nb) pour les transactions exécutées portant sur des obligations, des produits financiers structurés, des quotas d'émission ou des instruments dérivés, les détails d'une transaction précisés dans le tableau 1 de l'annexe II du règlement délégué (UE) 2017/583 et utilise les codes signalétiques appropriés énumérés dans le tableau 2 de l'annexe II du règlement délégué (UE) 2017/583.",
+      "text_sha256": "790229300250ee37dbc90851f0b51033420151ffca8bc4e9f46d135bc27049d6",
+      "md_span": {
+        "start": 37476,
+        "end": 38288
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32018R0063",
+          "text": "32018R0063: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32017r0571:2018-02-06#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Entrée en vigueur et application",
+      "path": [
+        "CHAPITRE III",
+        "(Article 64, paragraphes 1 et 2, et article 65, paragraphe 1, de la directive 2014/65/UE)"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.\n\nIl s'applique à partir du 3 janvier 2018.\n\nToutefois, l'article 15 *bis*, paragraphe 4, s'applique à partir du 1er janvier 2019 et l'article 14, paragraphe 2, l'article 15, paragraphes 1 à 3, et l'article 20, point b), s'appliquent à partir du 3 septembre 2019.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.\n\n(1) Directive 2013/40/UE du Parlement européen et du Conseil du 12 août 2013 relative aux attaques contre les systèmes d'information et remplaçant la décision-cadre 2005/222/JAI du Conseil (JO L 218 du 14.8.2013, p. 8).\n\n(2) Règlement délégué (UE) 2017/590 de la Commission du 28 juillet 2016 complétant le règlement (UE) no 600/2014 du Parlement européen et du Conseil par des normes techniques de réglementation pour la déclaration de transactions aux autorités compétentes (voir page 449 dur présent Journal officiel).\n\n(3) Règlement délégué (UE) 2017/583 de la Commission du 14 juillet 2016 complétant le règlement (UE) no 600/2014 du Parlement européen et du Conseil concernant les marchés d'instruments financiers par des normes techniques de réglementation relatives aux obligations de transparence applicables aux plates-formes de négociation et aux entreprises d'investissement pour les obligations, produits financiers structurés, quotas d'émission et instruments dérivés (JO L 87 du 31.3.2017, p. 229).",
+      "text_sha256": "5f2b15788ea8a645ae3b5a5c9787ddf100d99b02c7bae4ccbaf5e6e096054a70",
+      "md_span": {
+        "start": 38362,
+        "end": 39882
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32017R0571",
+          "text": "32017R0571"
+        },
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

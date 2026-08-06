@@ -1,0 +1,342 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0524:2014-03-12",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) No 524/2014 of 12 March 2014 supplementing Directive 2013/36/EU",
+  "valid_from": "2014-03-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0524/versions/2014-03-12/en.xml",
+    "sha256": "fdd0a5e1ff9640466a915646e6b1b621334643ef21cb65282b243a7f4fb3540d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0524"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. This Regulation specifies the information that the competent authorities of host and home Member States shall supply to one another in accordance with Article 50 of Directive 2013/36/EU.\n\n2. It lays down rules on the information to be exchanged in relation to an institution which operates, through a branch or in the exercise of the freedom to provide services, in one or more Member States other than that in which its head office is situated.",
+      "text_sha256": "46f9738be7484603b64156a1c493f7dc392f263ceff6d2555880e44b6006b9f2",
+      "md_span": {
+        "start": 645,
+        "end": 1104
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nWhere the ultimate parent undertaking of an institution is set up in the same Member State as that in which the institution has its head office, and the competent authority of the institution's home Member State is also the consolidating supervisor, that competent authority shall, where appropriate in accordance with the requirements laid down in Regulation (EU) No 575/2013 and Directive 2013/36/EU, provide information regarding this institution at the consolidated level and shall inform the competent authorities of host Member States that the information is provided at that level.",
+      "text_sha256": "ec5d2b7044e48e628cf44565c27f3f6e4b929801318c4732fd3f23269c590100",
+      "md_span": {
+        "start": 1137,
+        "end": 1736
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. The competent authorities of the home Member State shall provide to the competent authorities of a host Member State the organisational structure of an institution including its business lines and its relationships to entities within the group.\n\n2. In addition to information specified in paragraph 1, the competent authorities of the home Member State shall provide to the competent authorities of a host Member State which supervise a significant branch, as referred to in Article 51 of Directive 2013/36/EU, the following information in relation to an institution:\n\n| (a) | the structure of the management body and senior management, including the allocation of responsibility for the oversight of a branch; |\n| --- | --- |\n\n| (b) | the list of shareholders and members with qualifying holdings based on information provided by the credit institution in accordance with Article 26(1) of Directive 2013/36/EU. |\n| --- | --- |",
+      "text_sha256": "abad151d56eab0c36c6f9b222008167f78fbc197ac34bac2e755f9aa0bf0580e",
+      "md_span": {
+        "start": 1769,
+        "end": 2710
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. The competent authorities of the home Member State shall provide to the competent authorities of a host Member State the following information:\n\n| (a) | any material deficiencies in an institution's liquidity risk management which are known to the competent authorities and which may affect branches, any related supervisory measures which have been taken in relation to those deficiencies, and the extent of the institution's compliance with those supervisory measures; |\n| --- | --- |\n\n| (b) | the overall assessment carried out by the competent authorities of the home Member State of an institution's liquidity risk profile and risk management, in particular in relation to a branch; |\n| --- | --- |\n\n| (c) | an institution's ratios indicating its liquidity and stable funding position at the national or Union level in the domestic currency of the institution's home Member State and in all other currencies which are material for the institution; |\n| --- | --- |\n\n| (d) | the components of an institution's liquidity buffer; |\n| --- | --- |\n\n| (e) | the degree of asset encumbrance of an institution; |\n| --- | --- |\n\n| (f) | the ratio of an institution's loans to its deposits; |\n| --- | --- |\n\n| (g) | any domestic liquidity ratios that apply to an institution as a part of macro-prudential policy measures by the competent authorities or by the designated authority whether as binding requirements, guidelines, recommendations, warnings or otherwise, including the definitions of those ratios; |\n| --- | --- |\n\n| (h) | any specific liquidity requirements applied in accordance with Article 105 of Directive 2013/36/EU; |\n| --- | --- |\n\n| (i) | any obstacles to cash and collateral transfer to or from branches of an institution. |\n| --- | --- |\n\n2. Where the competent authorities have waived in full or in part the application of Part Six of Regulation (EU) No 575/2013 to an institution in accordance with Article 8 of that Regulation, the competent authorities of the home Member State shall provide the information referred to in paragraph 1 at the sub-consolidated level or, in accordance with Article 2 of this Regulation, at the consolidated level.\n\n3. In addition to the information specified in paragraph 1, the competent authorities of the home Member State shall provide to the competent authorities of a host Member State which supervise a significant branch the following information:\n\n| (a) | the liquidity and funding policy of the institution, including descriptions of the funding arrangements for its branches, any intra-group support arrangements, and procedures for centralised cash pooling; |\n| --- | --- |\n\n| (b) | the liquidity and funding contingency plans of the institution, including information on the assumed stress scenarios. |\n| --- | --- |",
+      "text_sha256": "75804f9f69cae7cbea05b8fcf148d7897ffb110ec7d0695fb5bf28c36bd3dcdd",
+      "md_span": {
+        "start": 2743,
+        "end": 5537
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. The competent authorities of the home Member State shall inform the competent authorities of a host Member State whether an institution is compliant with the following requirements:\n\n| (a) | the own fund requirements laid down in Article 92 of Regulation (EU) No 575/2013, taking into account any measures adopted or recognised in accordance with Article 458 of that Regulation and, where relevant, taking into account the transitional arrangements laid down in Part Ten of that Regulation; |\n| --- | --- |\n\n| (b) | any additional own fund requirements imposed in accordance with Article 104 of Directive 2013/36/EU; |\n| --- | --- |\n\n| (c) | the capital buffer requirements set out in Chapter 4 of Title VII of Directive 2013/36/EU. |\n| --- | --- |\n\n2. In addition to the information specified in paragraph 1, the competent authorities of the home Member State shall provide to the competent authorities of a host Member State which supervise a significant branch of an institution which is subject to own funds requirements the following information:\n\n| (a) | the institution's Common Equity Tier 1 capital ratio, within the meaning of Article 92(2)(a) of Regulation (EU) No 575/2013; |\n| --- | --- |\n\n| (b) | the institution's Tier 1 capital ratio, within the meaning of Article 92(2)(b) of Regulation (EU) No 575/2013; |\n| --- | --- |\n\n| (c) | the institution's total capital ratio, within the meaning of Article 92(2)(c) of Regulation (EU) No 575/2013; |\n| --- | --- |\n\n| (d) | the institution's total risk exposure amount, within the meaning of Article 92(3) of Regulation (EU) No 575/2013; |\n| --- | --- |\n\n| (e) | the own funds requirements applicable in the home Member State in accordance with Article 92 of Regulation (EU) No 575/2013, taking into account any measures adopted or recognised in accordance with Article 458 of that Regulation and, where relevant, taking into account the transitional arrangements laid down in Part Ten of that Regulation; |\n| --- | --- |\n\n| (f) | the level of the capital conservation buffer that the institution is required to maintain in accordance with Article 129 of Directive 2013/36/EU; |\n| --- | --- |\n\n| (g) | the level of any institution-specific countercyclical capital buffer that the institution is required to maintain in accordance with Article 130 of Directive 2013/36/EU; |\n| --- | --- |\n\n| (h) | the level of any systemic risk buffer that the institution is required to maintain in accordance with Article 133 of Directive 2013/36/EU; |\n| --- | --- |\n\n| (i) | the level of any G-SII buffer or O-SII buffer that the institution is required to maintain in accordance with Article 131(4) and (5) of Directive 2013/36/EU; |\n| --- | --- |\n\n| (j) | the level of any additional own funds requirements imposed in accordance with point (a) of Article 104(1) of Directive 2013/36/EU and of any other requirements imposed relating to the institution's solvency in accordance with that Article. |\n| --- | --- |\n\n3. Where the application of the relevant provisions of Regulation (EU) No 575/2013 has been waived in accordance with Articles 7, 10 or 15 of that Regulation, or the requirements set out in Articles 10 and 12 and Article 13(1) of Directive 2013/36/EU have been waived in accordance with Article 21 of that Directive 2013/36/EU, or an institution has received permission to apply the treatment referred to in Article 9(1) of Regulation (EU) No 575/2013, the competent authorities of the home Member State shall provide the information set out in paragraph 2 at the sub-consolidated level or, in accordance with Article 2 of this Regulation, at the consolidated level.",
+      "text_sha256": "4fdc4a5b3b408a44548f38af2e41b1d63349bf44af2a5418124cd5965d2cc8c9",
+      "md_span": {
+        "start": 5570,
+        "end": 9209
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. The competent authorities of the home Member State shall inform the competent authorities of a host Member State of the name of the deposit-guarantee scheme to which an institution belongs in accordance with Article 3(1) of Directive 94/19/EC of the European Parliament and of the Council (4).\n\n2. The competent authorities of the home Member State shall provide to the competent authorities of a host Member State the following information in relation to the deposit-guarantee scheme referred to in paragraph 1:\n\n| (a) | the maximum coverage of the deposit-guarantee scheme per eligible depositor; |\n| --- | --- |\n\n| (b) | the scope of coverage and the types of deposits covered; |\n| --- | --- |\n\n| (c) | any exclusion from the coverage, including products and types of depositors; |\n| --- | --- |\n\n| (d) | funding arrangements of the deposit guarantee scheme, in particular whether the scheme is funded ex-ante or ex-post, and the volume of the scheme; |\n| --- | --- |\n\n| (e) | contact details of the administrator of the scheme. |\n| --- | --- |\n\n3. The information set out in paragraph 2 shall only be provided to the competent authorities of a host Member State once in relation to each deposit-guarantee scheme concerned. Where there is a change in the information provided, the competent authorities of the home Member State shall provide updated information to competent authorities of a host Member State.",
+      "text_sha256": "f28240f43ee567a18a5e9a0ddaeb9e6acb04ffdc89613d263f85744aa2777259",
+      "md_span": {
+        "start": 9242,
+        "end": 10669
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2014148EN.01000601-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nThe competent authorities of the home Member State shall provide information to the competent authorities of a host Member State regarding any situation in respect of which the competent authorities of the home Member State have determined that an institution has not complied with applicable large exposures limits and requirements laid down in Part Four of Regulation (EU) No 575/2013. The information to be provided shall explain the situation and the supervisory measures taken or planned to be taken.",
+      "text_sha256": "05006e1eaaaae216cb7f9985fdaaec7780385ae4978c5b28a119920f4255ea0a",
+      "md_span": {
+        "start": 10702,
+        "end": 11218
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nThe competent authorities of the home Member State shall inform the competent authorities of a host Member State where an institution has been designated as a global systemically important institution (G-SII) or as another systemically important institution (O-SII) in accordance with Article 131(1) of Directive 2013/36/EU. Where the institution has been identified as a G-SII, the information provided shall include the sub-category to which it is allocated.",
+      "text_sha256": "ff8b35d542211cecc9a98e7608759baae7e1cc28e286aeaa42d3e248520dd57d",
+      "md_span": {
+        "start": 11251,
+        "end": 11722
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. The competent authorities of the home Member State shall provide information to the competent authorities of a host Member State regarding any situation where the competent authorities of the home Member State have determined that an institution has not complied with applicable accounting standards and procedures to which the institution is subject in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council (5). The information to be provided shall explain the situation and the supervisory measures taken or planned to be taken.\n\n2. Where the information specified in paragraph 1 is relevant to a particular branch only, the competent authorities of the home Member State shall only provide the information to the competent authorities of the host Member State in which that branch is established.",
+      "text_sha256": "3528e91262900482121f427e873f77cb3a9800616777ac45e8e82063e6bd3c1b",
+      "md_span": {
+        "start": 11755,
+        "end": 12605
+      },
+      "citations": [
+        {
+          "href": "#ntr5-L_2014148EN.01000601-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. The competent authorities of the home Member State shall provide information to the competent authorities of a host Member State regarding any situation in respect of which the competent authorities of the home Member States have determined that an institution has not complied with requirements concerning internal control mechanisms, including risk management, risk control and internal audit arrangements pursuant to Regulation (EU) No 575/2013 and Directive 2013/36/EU. The information to be provided shall explain the situation and the supervisory measures taken or planned to be taken.\n\n2. Where the information specified in paragraph 1 is relevant to a particular branch only, the competent authorities of the home Member State shall only provide the information to the competent authorities of the host Member State in which that branch is established.",
+      "text_sha256": "0e0bb798e15c289372879359cd630de032bdb91255477f3a961b8a19e35507aa",
+      "md_span": {
+        "start": 12640,
+        "end": 13515
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. The competent authorities of the home Member State shall provide information to the competent authorities of a host Member State regarding any situation in respect of which the competent authorities of the home Member States have determined that an institution has not complied with requirements concerning leverage ratios pursuant to Part Seven of Regulation (EU) No 575/2013 and, where relevant, taking into account the transitional provisions in Article 499 of that Regulation. The information to be provided shall explain the situation and the supervisory measures taken or planned to be taken.\n\n2. The competent authorities of the home Member State shall provide the competent authorities of a host Member State with all information disclosed by an institution in accordance with Article 451 of Regulation (EU) No 575/2013 regarding its leverage ratio and its management of the risk of excessive leverage.",
+      "text_sha256": "ec394b510c2e7214fc782b9377cba450658acf559f3c36a378f7487f1f2bd865",
+      "md_span": {
+        "start": 13550,
+        "end": 14475
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. The competent authorities of the home Member State shall provide information to competent authorities of a host Member State regarding any situations in respect of which the competent authorities of the home Member State have determined that an institution has not complied with national or Union law or with requirements, in relation to the prudential supervision or market conduct supervision of institutions, including the requirements laid down in Regulation (EU) No 575/2013 and Directive 2013/36/EU, other than the requirements referred to in Articles 3 to 11 of this Regulation. The information to be provided shall explain the situation and the supervisory measures taken or planned to be taken.\n\n2. Where the information specified in paragraph 1 is relevant to a particular branch only, the competent authorities of the home Member State shall only provide the information to the competent authorities of the host Member State in which that branch is established.",
+      "text_sha256": "d9bf3eebc7495c212063ec8b5431689fee2ceb7e1779f663fa67b0409ae13760",
+      "md_span": {
+        "start": 14510,
+        "end": 15497
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. The competent authorities of the home Member State shall inform the competent authorities of a host Member State of any of the following penalties or measures which have been imposed on or applied to an institution and which affect the operations of a branch:\n\n| (a) | administrative penalties imposed or other administrative measures applied pursuant to Articles 64 to 67 of Directive 2013/36/EU; |\n| --- | --- |\n\n| (b) | supervisory measures imposed pursuant to Articles 104 or 105 of Directive 2013/36/EU; |\n| --- | --- |\n\n| (c) | criminal penalties imposed which relate to breaches of Regulation (EU) No 575/2013 or of the national provisions transposing Directive 2013/36/EU. |\n| --- | --- |\n\n2. Where the information specified in paragraph 1 is relevant to a particular branch only, the competent authorities of the home Member State is only required to provide the information to the competent authorities of the host Member State in which that branch is established.",
+      "text_sha256": "09e174d2b8dd602d2af13b74e28fec25ab3264cdcb2024ddf409045a62ac1bbd",
+      "md_span": {
+        "start": 15532,
+        "end": 16521
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nThe competent authorities of the home Member State and the competent authorities of a host Member State shall exchange information regarding preparations for emergency situations. In particular they shall keep one another informed of the following:\n\n| (a) | the emergency contact details of persons within the competent authorities who are responsible for handling emergency situations; |\n| --- | --- |\n\n| (b) | the communication procedures that shall apply in emergency situations. |\n| --- | --- |",
+      "text_sha256": "e30fd68c9e6164eb1a637b21f0fbcea746db9145b010bb6d4b714666d588725f",
+      "md_span": {
+        "start": 16556,
+        "end": 17066
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nWithout prejudice to the information exchange requirements following inspections of branches pursuant to Article 52(3) of Directive 2013/36/EU, the competent authorities of a host Member State shall provide the competent authorities of the home Member State with the following information:\n\n| (a) | a description of any situation in respect of which the competent authorities have determined that an institution has not complied with national or Union law or with requirements, in relation to the prudential supervision or market conduct supervision of institutions, including the requirements of Regulation (EU) No 575/2013 and of the national provisions transposing Directive 2013/36/EU, together with an explanation of the supervisory measures taken or planned to be taken to address the non-compliance; |\n| --- | --- |\n\n| (b) | a description of any non-compliance with the conditions under which, in the interest of the general good, the activities of the branch shall be carried out in the host Member State; |\n| --- | --- |\n\n| (c) | any identification of systemic risk posed by the branch or its activities in the host Member State, including any assessment of the likely impact of a suspension or closure of the operations of the branch on the following:(i)systemic liquidity;(ii)payment systems;(iii)clearing and settlement systems; |\n| --- | --- |\n| (i) | systemic liquidity; |\n| (ii) | payment systems; |\n| (iii) | clearing and settlement systems; |\n\n| (d) | the market share of the branch where it exceeds 2 % of the total market in the host Member State in either of the following categories:(i)deposits;(ii)loans; |\n| --- | --- |\n| (i) | deposits; |\n| (ii) | loans; |\n\n| (e) | any obstacles to cash and collateral transfer to or from the branch. |\n| --- | --- |",
+      "text_sha256": "f99aee1ef0fc1820659e515d9f0039c5ffe71c8bd07bf955fd6b0deccba8304c",
+      "md_span": {
+        "start": 17101,
+        "end": 18887
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\nUpon receiving a request for information from the competent authorities of a host Member State in relation to an institution carrying out its activities by way of the provision of services in that host Member State, the competent authorities of the home Member State shall provide the following information:\n\n| (a) | any situation in respect of which the competent authorities of the home Member State have determined that the institution has not complied with any national or Union law or with requirements, in relation to the prudential supervision or market conduct supervision of institutions, including the requirements of Regulation (EU) No 575/2013 and of the national provisions transposing Directive 2013/36/EU, together with an explanation of the supervisory measures taken or planned to be taken to address the non-compliance; |\n| --- | --- |\n\n| (b) | the volume of deposits taken from residents of the host Member State; |\n| --- | --- |\n\n| (c) | the volume of loans provided to the residents of the host Member State; |\n| --- | --- |\n\n| (d) | in relation to the activities listed in Annex I to Directive 2013/36/EU which the institution has notified its wish to carry out in the host Member State by way of provision of services:(i)the form in which the institution carries out the activities;(ii)the activities which are the most significant in terms of the institution's activities in the host Member State;(iii)the confirmation whether the activities identified as core business activities in the notification provided by the institution pursuant to Article 39 of Directive 2013/36/EU are being performed by an institution. |\n| --- | --- |\n| (i) | the form in which the institution carries out the activities; |\n| (ii) | the activities which are the most significant in terms of the institution's activities in the host Member State; |\n| (iii) | the confirmation whether the activities identified as core business activities in the notification provided by the institution pursuant to Article 39 of Directive 2013/36/EU are being performed by an institution. |",
+      "text_sha256": "caa7628f0c602b6f23269e017e4a22ad3bf42bd4c2de5ab0547a9d2e22449ba4",
+      "md_span": {
+        "start": 18922,
+        "end": 21009
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. If the competent authorities of the home Member State consider that a liquidity stress has occurred, or is reasonably expected to occur, with respect to an institution they shall immediately notify the competent authorities of a host Member State and provide the information set out in paragraph 3.\n\n2. If the competent authorities of a host Member State consider that a liquidity stress has occurred, or is reasonably expected to occur, with respect to a branch established in that Member State, they shall immediately notify the competent authorities of the home Member State and provide the information set out in paragraph 3.\n\n3. The competent authorities shall provide the following information:\n\n| (a) | a description of the situation that has occurred, including the underlying cause of the stress situation, the expected impact of the liquidity stress on the institution, and developments concerning intra-group transactions; |\n| --- | --- |\n\n| (b) | an explanation of the measures that have been taken or are planned to be taken, whether by the competent authorities or by the institution, including any requirements imposed upon the institution by the competent authorities to mitigate the liquidity stress; |\n| --- | --- |\n\n| (c) | the results of assessments of the systemic consequences of the liquidity stress; |\n| --- | --- |\n\n| (d) | the latest available quantitative information regarding liquidity specified in points (c) to (h) of Article 4(1). |\n| --- | --- |",
+      "text_sha256": "34e8da426f6dc5f343f9906191e8c1e3d1dde102062722d31a944bd57d469dbe",
+      "md_span": {
+        "start": 21044,
+        "end": 22537
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32014r0524:2014-03-12#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "ffdf9470d37fa5e79986147f905b96cde8308307cb2f0c045bb49f3126e18c90",
+      "md_span": {
+        "start": 22572,
+        "end": 22724
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

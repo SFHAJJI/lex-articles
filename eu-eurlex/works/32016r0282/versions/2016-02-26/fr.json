@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r0282:2016-02-26",
+  "language": "fr",
+  "title": "Commission Regulation (EU) 2016/282 of 26 February 2016 amending Regulation (EC) No 748/20…",
+  "valid_from": "2016-02-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r0282/versions/2016-02-26/fr.xml",
+    "sha256": "d43e3f426afd2dcf994735a3c298382568d6792d14ca287a6d937bbb4d728310",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R0282"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r0282:2016-02-26#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’annexe du règlement (CE) no 748/2009 est remplacée par le texte figurant à l’annexe du présent règlement.",
+      "text_sha256": "384639d1e3d46f0dadb8fa08be6bc83765588a5ba12a9c4e78bee4bf46cdb0e0",
+      "md_span": {
+        "start": 636,
+        "end": 760
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r0282:2016-02-26#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le troisième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "9953d19d4092415d044a0b65b30547c0f5b6928ab160e406544ae8dfd1d7c4e2",
+      "md_span": {
+        "start": 793,
+        "end": 934
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

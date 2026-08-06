@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -66,5 +67,72 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2002-01-01",
+          "valid_to": null,
+          "text_sha256": "cd8805ce33166df7ede522b21410637d8e26c3c543f20ed8e7c6732c60ef77f5",
+          "in_version": "lu-legilux:loi-1919-10-15-n1:2002-01-01",
+          "article_valid_from": "1919-11-04",
+          "validity_conflict": true
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2002-01-01",
+          "valid_to": null,
+          "text_sha256": "0731c6a5af4cbab60b5d6f055adb7795df2191aedc816ef831a1ca28ed2532d9",
+          "in_version": "lu-legilux:loi-1919-10-15-n1:2002-01-01",
+          "article_valid_from": "1919-11-04",
+          "validity_conflict": true
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2002-01-01",
+          "valid_to": null,
+          "text_sha256": "e8cc916f9d35e9100edf77cff19cdaf396f0fdf36115331513102a6414e159b3",
+          "in_version": "lu-legilux:loi-1919-10-15-n1:2002-01-01",
+          "article_valid_from": "1919-11-04",
+          "validity_conflict": true
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2002-01-01",
+          "valid_to": null,
+          "text_sha256": "ab62db1f8b0ed89da061347ee4266f6d9d424d7e2247c5e098d583723510381a",
+          "in_version": "lu-legilux:loi-1919-10-15-n1:2002-01-01",
+          "article_valid_from": "1919-11-04",
+          "validity_conflict": true
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2002-01-01",
+          "valid_to": null,
+          "text_sha256": "37cf8d7a8bbfe1c7835602d178117c123a631a794f02771edd14f7c023eeb291",
+          "in_version": "lu-legilux:loi-1919-10-15-n1:2002-01-01",
+          "article_valid_from": "1919-11-04",
+          "validity_conflict": true
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2002-01-01",
+          "valid_to": null,
+          "text_sha256": "221abca26010a43b2e3fcacf02e884a86908b90cfad9bc9239658f983f934be6",
+          "in_version": "lu-legilux:loi-1919-10-15-n1:2002-01-01",
+          "article_valid_from": "1919-11-04",
+          "validity_conflict": true
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

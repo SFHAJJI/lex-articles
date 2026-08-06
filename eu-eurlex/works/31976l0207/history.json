@@ -1,0 +1,63 @@
+{
+  "lex_work_id": "eu-eurlex:31976l0207",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "html-eu-tolerant/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "document": [
+      {
+        "valid_from": "1976-02-09",
+        "valid_to": "2002-10-04",
+        "text_sha256": "eb1f9a622f19edaa6f10324fad553d8c7b400131b1a3563d5cf4cc6be4b7bcd0",
+        "in_version": "eu-eurlex:31976l0207:1976-02-09"
+      },
+      {
+        "valid_from": "2006-08-15",
+        "valid_to": null,
+        "text_sha256": "8233506393477e2816902916bda51c5d8ef4c7bb18ff1fd20ff0782541a01e0e",
+        "in_version": "eu-eurlex:31976l0207:2006-08-15"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "en": {
+      "document": [
+        {
+          "valid_from": "1976-02-09",
+          "valid_to": "2002-10-04",
+          "text_sha256": "eb1f9a622f19edaa6f10324fad553d8c7b400131b1a3563d5cf4cc6be4b7bcd0",
+          "in_version": "eu-eurlex:31976l0207:1976-02-09"
+        },
+        {
+          "valid_from": "2006-08-15",
+          "valid_to": null,
+          "text_sha256": "8233506393477e2816902916bda51c5d8ef4c7bb18ff1fd20ff0782541a01e0e",
+          "in_version": "eu-eurlex:31976l0207:2006-08-15"
+        }
+      ]
+    },
+    "fr": {
+      "document": [
+        {
+          "valid_from": "1976-02-09",
+          "valid_to": "2002-10-04",
+          "text_sha256": "3c5254901663ee9bdc855c56641714c1f6bb32b52b3d87ab057a935bdf521089",
+          "in_version": "eu-eurlex:31976l0207:1976-02-09"
+        },
+        {
+          "valid_from": "2006-08-15",
+          "valid_to": null,
+          "text_sha256": "ec1ed445aad2201bb4e3101dc0f805e18e7c9f848a7f11f4e8557f4df4691b94",
+          "in_version": "eu-eurlex:31976l0207:2006-08-15"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": []
+  }
+}

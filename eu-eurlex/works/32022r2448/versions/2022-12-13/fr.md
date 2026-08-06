@@ -1,0 +1,229 @@
+---
+lex_id: 'eu-eurlex:32022r2448:2022-12-13'
+title: 'Commission Implementing Regulation (EU) 2022/2448 of 13 December 2022 on establishing operational guidance on the evidence for demonstrating compliance with the sustainability criteria for forest biomass laid down in Article 29 of Directive (EU) 2018/2001'
+valid_from: '2022-12-13'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2448'
+source_sha256: '4ddfd7b10c7a8cebcd6060df0ae12d98f9a44326a29e746f06218b5b9d273e1b'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article premier
+
+Le présent règlement établit les orientations opérationnelles que doivent respecter les États membres pour garantir une mise en œuvre rigoureuse et harmonisée des critères de durabilité fondés sur les risques applicables à la production de biocarburants, bioliquides et combustibles issus de la biomasse produits à partir de la biomasse forestière visés à l’article 29, paragraphes 6 et 7, de la directive (UE) 2018/2001.
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+Aux fins du présent règlement, on entend par:
+
+| — | «critères d’exploitation au niveau national ou infranational», les critères énoncés à l’article 29, paragraphe 6, point a), de la directive (UE) 2018/2001, |
+| --- | --- |
+
+| — | «critères d’exploitation au niveau de la zone d’approvisionnement», les critères énoncés à l’article 29, paragraphe 6, point b), de la directive (UE) 2018/2001, |
+| --- | --- |
+
+| — | «pays de récolte», le pays ou le territoire où la biomasse forestière a été récoltée à l’état de matière première, |
+| --- | --- |
+
+| — | «forêt plantée», une forêt à prédominance d’arbres établis par plantation et/ou par semis délibéré, les arbres plantés ou semés constituant plus de cinquante pour cent du matériel sur pied à maturité; elle comprend les taillis provenant d’arbres initialement plantés ou semés, |
+| --- | --- |
+
+| — | «forêt de plantation», une forêt plantée soumise à une gestion intensive et qui réunit tous les critères suivants au moment de la plantation et de la maturité du peuplement: une ou deux essences, structure équienne, intervalles réguliers. Sont incluses les plantations à courte rotation visant la production de bois, de fibres et d’énergie; sont exclues les forêts plantées à des fins de protection ou de restauration de l’écosystème, ainsi que les forêts établies par plantation ou semis qui, à la maturité du peuplement, ressemblent ou ressembleront à des forêts en cours de régénération naturelle, |
+| --- | --- |
+
+| — | «souches et racines», les parties du volume total de l’arbre, à l’exclusion du volume de la biomasse ligneuse au-dessus de la souche, en considérant que la hauteur de la souche est celle à laquelle l’arbre serait coupé dans le cadre des pratiques normales d’abattage dans le pays ou la région en cause, |
+| --- | --- |
+
+| — | «bois mort», toute la biomasse ligneuse non vivante non contenue dans la litière, soit sur pied, soit sur ou dans le sol, y compris le bois se trouvant à la surface, les débris grossiers, les racines mortes et les souches d’un diamètre supérieur ou égal à 10 cm ou tout autre diamètre utilisé par le pays concerné, |
+| --- | --- |
+
+| — | «capacité de production à long terme», la santé de la forêt et sa capacité à mettre à disposition, de façon continue et durable, des produits, tels que des bois de diverses qualités, et des produits et services écosystémiques non forestiers, tel que la purification de l’air et de l’eau, la maintenance de l’habitat sauvage, le patrimoine culturel ou récréatif, sur une longue période de temps, et le cas échéant, sur plusieurs rotations forestières successives, |
+| --- | --- |
+
+| — | «système de gestion», les informations recueillies concernant l’espace forestier au niveau de la zone d’approvisionnement, y compris sous la forme de textes, cartes, tableaux et graphiques, ainsi que les stratégies ou les activités de gestion planifiées et mises en œuvre pour atteindre les objectifs de gestion ou de développement des ressources forestières, |
+| --- | --- |
+
+| — | «perturbations naturelles», la définition donnée à l’article 3, point 9), du règlement (UE) 2018/841 du Parlement européen et du Conseil (4), |
+| --- | --- |
+
+| — | «accroissement net annuel», la croissance annuelle en volume du stock d’arbres vivants disponible moins la mortalité moyenne naturelle de ce stock, |
+| --- | --- |
+
+| — | «critères UTCATF au niveau national», les critères énoncés à l’article 29, paragraphe 7, point a), de la directive (UE) 2018/2001, |
+| --- | --- |
+
+| — | «critères UTCATF au niveau de la zone d’approvisionnement», les critères énoncés à l’article 29, paragraphe 7, point b), de la directive (UE) 2018/2001, |
+| --- | --- |
+
+| — | «stock de carbone», la signification qui a été attribuée à ce terme par l’article 3, point 4), du règlement (UE) 2018/841, |
+| --- | --- |
+
+| — | «puits de carbone», la définition donnée à l’article 3, point 1), du règlement (UE) 2018/841, |
+| --- | --- |
+
+| — | «premier point de collecte», la signification qui a été attribuée à ce terme par l’article 2, point 12), du règlement d’exécution (UE) 2022/996 de la Commission (5), |
+| --- | --- |
+
+| — | «audit de première partie», une autodéclaration par un opérateur économique fournissant le premier point de collecte, |
+| --- | --- |
+
+| — | «audit de deuxième partie», l’audit d’un fournisseur par l’opérateur économique gérant le premier point de collecte, |
+| --- | --- |
+
+| — | «audit de troisième partie», l’audit d’un opérateur économique effectué par un tiers indépendant de l’organisation soumise à l’audit, |
+| --- | --- |
+
+| — | «opérateur économique», la signification qui a été attribuée à ce terme par l’article 2, point 11), du règlement d’exécution (UE) 2022/996. |
+| --- | --- |
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+1. Les États membres exigent des opérateurs économiques qu’ils fournissent des informations vérifiées établissant la conformité avec les critères d’exploitation au niveau national ou infranational. À cet effet, les opérateurs économiques effectuent une évaluation fondée sur les risques qui fournit des preuves exactes, actualisées et vérifiables de tous les éléments suivants:
+
+| a) | le pays de récolte et, le cas échéant, la région infranationale dans laquelle la biomasse forestière a été récoltée; et |
+| --- | --- |
+
+| b) | le fait que les dispositions législatives nationales ou infranationales applicables à la zone de récolte garantissent:i)la légalité des opérations de récolte, qui est attestée en apportant la preuve de la conformité de la récolte avec la législation applicable dans le pays de récolte, comme énoncé à l’article 2, point h), du règlement (UE) no 995/2010 du Parlement européen et du Conseil (6);ii)la régénération des forêts, qui peut être attestée en apportant la preuve que les lois applicables exigent une régénération naturelle ou artificielle, ou une combinaison des deux, en vue de l’établissement d’une nouvelle forêt dans la même zone et dans un délai approprié conformément à la législation nationale applicable;iii)la protection effective des zones désignées par le droit international ou national, ou par l’autorité compétente concernée, aux fins de la protection de la nature, y compris dans des zones humides et des tourbières;iv)que l’exploitation forestière est effectuée de manière à réduire au minimum les incidences négatives sur la qualité des sols et la biodiversité, ce qui peut être attesté en apportant la preuve que la législation applicable ou les règles pertinentes en matière de gestion forestière:1)exigent que les forêts primaires et les zones protégées au titre du paragraphe 1, point b) iii), ne soient pas dégradées ou remplacées par des forêts de plantation, ce qui peut inclure, sans s’y limiter, la garantie que la zone forestière régénérée fournisse une quantité appropriée et adéquate de plantes et d’essences forestières;2)prévoient la protection des sols et des espèces et habitats, y compris ceux protégés par le droit international ou national. Afin de faciliter le travail des opérateurs économiques, les États membres s’efforcent de fournir des données sur les caractéristiques environnementales propres au site;3)réduisent au minimum, le cas échéant, l’enlèvement des souches, des racines et du bois mort;v)que la capacité de production à long terme de la forêt est maintenue ou augmentée, ce qui peut être attesté en apportant la preuve que la législation applicable au niveau national ou infranational garantit que, sur la base de données annuelles moyennes, les coupes ne dépassent pas l’accroissement net sur une période appropriée conformément à la législation nationale applicable, sauf dans les cas où cela est temporairement justifié en raison de parasites forestiers, de tempêtes ou d’autres perturbations naturelles attestés. Les éléments de preuve peuvent être:1)les rapports nationaux d’inventaire forestier;2)les preuves visées à l’article 5, point ii)); ou3)des rapports d’inventaire similaires au niveau infranational; |
+| --- | --- |
+| i) | la légalité des opérations de récolte, qui est attestée en apportant la preuve de la conformité de la récolte avec la législation applicable dans le pays de récolte, comme énoncé à l’article 2, point h), du règlement (UE) no 995/2010 du Parlement européen et du Conseil (6); |
+| ii) | la régénération des forêts, qui peut être attestée en apportant la preuve que les lois applicables exigent une régénération naturelle ou artificielle, ou une combinaison des deux, en vue de l’établissement d’une nouvelle forêt dans la même zone et dans un délai approprié conformément à la législation nationale applicable; |
+| iii) | la protection effective des zones désignées par le droit international ou national, ou par l’autorité compétente concernée, aux fins de la protection de la nature, y compris dans des zones humides et des tourbières; |
+| iv) | que l’exploitation forestière est effectuée de manière à réduire au minimum les incidences négatives sur la qualité des sols et la biodiversité, ce qui peut être attesté en apportant la preuve que la législation applicable ou les règles pertinentes en matière de gestion forestière:1)exigent que les forêts primaires et les zones protégées au titre du paragraphe 1, point b) iii), ne soient pas dégradées ou remplacées par des forêts de plantation, ce qui peut inclure, sans s’y limiter, la garantie que la zone forestière régénérée fournisse une quantité appropriée et adéquate de plantes et d’essences forestières;2)prévoient la protection des sols et des espèces et habitats, y compris ceux protégés par le droit international ou national. Afin de faciliter le travail des opérateurs économiques, les États membres s’efforcent de fournir des données sur les caractéristiques environnementales propres au site;3)réduisent au minimum, le cas échéant, l’enlèvement des souches, des racines et du bois mort; |
+| 1) | exigent que les forêts primaires et les zones protégées au titre du paragraphe 1, point b) iii), ne soient pas dégradées ou remplacées par des forêts de plantation, ce qui peut inclure, sans s’y limiter, la garantie que la zone forestière régénérée fournisse une quantité appropriée et adéquate de plantes et d’essences forestières; |
+| 2) | prévoient la protection des sols et des espèces et habitats, y compris ceux protégés par le droit international ou national. Afin de faciliter le travail des opérateurs économiques, les États membres s’efforcent de fournir des données sur les caractéristiques environnementales propres au site; |
+| 3) | réduisent au minimum, le cas échéant, l’enlèvement des souches, des racines et du bois mort; |
+| v) | que la capacité de production à long terme de la forêt est maintenue ou augmentée, ce qui peut être attesté en apportant la preuve que la législation applicable au niveau national ou infranational garantit que, sur la base de données annuelles moyennes, les coupes ne dépassent pas l’accroissement net sur une période appropriée conformément à la législation nationale applicable, sauf dans les cas où cela est temporairement justifié en raison de parasites forestiers, de tempêtes ou d’autres perturbations naturelles attestés. Les éléments de preuve peuvent être:1)les rapports nationaux d’inventaire forestier;2)les preuves visées à l’article 5, point ii)); ou3)des rapports d’inventaire similaires au niveau infranational; |
+| 1) | les rapports nationaux d’inventaire forestier; |
+| 2) | les preuves visées à l’article 5, point ii)); ou |
+| 3) | des rapports d’inventaire similaires au niveau infranational; |
+
+| c) | l’existence de systèmes assurant le suivi de la mise en œuvre et de l’application des législations nationales et infranationales visées au point b), y compris des informations sur les éléments suivants: les autorités compétentes pour assurer le suivi, la mise en œuvre et l’exécution, les sanctions en cas de non-respect, les systèmes de recours contre les décisions et l’accès du public à l’information; |
+| --- | --- |
+
+| d) | l’absence d’insuffisance significative de l’application de la législation et de la réglementation nationales et/ou infranationales visées au point b). |
+| --- | --- |
+
+2. En ce qui concerne les éléments de preuve requis au paragraphe 1, point d), les opérateurs économiques tiennent compte des éventuels évaluations et rapports obligatoires établis par les organisations gouvernementales nationales ou internationales qui décrivent en détail une application insuffisante de la législation nationale ou infranationale visée au paragraphe 1, point b). Il y a également lieu de prendre en compte toute procédure d’infraction pertinente en cours engagée par la Commission contre un État membre sur la base de la législation pertinente de l’Union. L’existence d’un arrêt de la Cour de justice à l’encontre d’un État membre pour violation de la législation pertinente de l’Union, par exemple le règlement (UE) no 995/2010, doit être considérée comme la preuve d’une application insuffisante.
+
+3. Afin de réduire au minimum la charge administrative pesant sur les opérateurs économiques, les États membres peuvent créer des bases de données publiques contenant des informations actualisées sur les éléments visés au présent article, et facilitent l’accès des opérateurs aux informations, y compris aux données géographiques publiques et aux inventaires publics. Les États membres peuvent dispenser une formation appropriée à cet effet.
+
+4. Les opérateurs économiques peuvent décider de démontrer directement le respect des critères d’exploitation au niveau de la zone d’approvisionnement conformément à l’article 4.
+
+<a id="art_4"></a>
+
+### art_4
+
+Article 4
+
+En l’absence de preuve du respect d’un ou de plusieurs critères d’exploitation au niveau national ou infranational, les États membres exigent des opérateurs économiques qu’ils fournissent des informations vérifiées attestant que ces critères ont été respectés au moyen de systèmes de gestion qui sont en place et mis en œuvre au niveau de la zone d’approvisionnement. À cet effet, les opérateurs économiques fournissent des preuves exactes, actualisées et vérifiables des éléments suivants:
+
+| a) | les limites spatiales de la zone d’approvisionnement pour laquelle la conformité doit être démontrée, et à laquelle les systèmes de gestion visés au point b) s’appliquent, notamment au moyen de coordonnées géographiques ou de parcelles; |
+| --- | --- |
+
+| b) | les systèmes de gestion applicables à la zone d’approvisionnement garantissant:i)la légalité des opérations de récolte, qui est démontrée en apportant la preuve de la conformité de la récolte avec le système de diligence raisonnée défini à l’article 6 du règlement (UE) no 995/2010;ii)que la régénération forestière est effectuée de manière à maintenir au moins la qualité et la quantité des zones forestières exploitées, ce qui peut être attesté en apportant la preuve de l’établissement d’une nouvelle forêt dans la même zone dans un délai maximal de dix ans à compter de la récolte. Cela peut être attesté par des plans de gestion forestière, des protocoles opérationnels, des évaluations des incidences sur l’environnement ainsi que les résultats d’audits et d’inspections de conformité pertinents;iii)que la biomasse forestière ne provient pas de zones désignées pour la protection de la nature par des dispositions législatives internationales ou nationales ou par l’autorité compétente, y compris dans des zones humides et des tourbières, à moins que des éléments attestent que les activités de récolte de la biomasse forestière n’entrent pas en conflit avec les objectifs de protection des zones désignées. Cela peut être attesté par des bases de données internationales et nationales, des cartes officielles, des plans de gestion forestière, des protocoles opérationnels, des protocoles d’exploitation, des images par satellite, des évaluations des incidences sur l’environnement et des permis d’exploitation forestière officiels comprenant des conditions ou des restrictions qui garantissent l’absence de conflit avec les objectifs pertinents de protection de la nature, ainsi que par les résultats des audits et inspections de conformité pertinents;iv)que l’exploitation forestière est effectuée d’une manière qui vise au moins à prévenir les incidences négatives sur la qualité des sols et la biodiversité. Cela peut être attesté en apportant la preuve que les risques pertinents associés à l’exploitation de la biomasse forestière à des fins de production d’énergie ont été identifiés à l’avance, et que des mesures d’atténuation appropriées ont été mises en œuvre, telles que les mesures suivantes:1)les forêts primaires et les zones protégées au point b) iii) ne sont pas dégradées ou remplacées par des forêts de plantation;2)la récolte des souches et des racines est réduite au minimum;3)aucune récolte n’est effectuée sur des sols vulnérables;4)la récolte est effectuée au moyen de systèmes d’abattage qui réduisent au minimum les incidences sur la qualité des sols, notamment en évitant le tassement des sols;5)la récolte est effectuée d’une manière qui réduit au minimum les incidences sur les caractéristiques de biodiversité et les habitats, notamment la flore et la faune protégées par la législation internationale ou nationale;6)une quantité et un assortiment de bois mort appropriés au niveau local sont maintenus dans la forêt; et7)les coupes à blanc importantes sont réduites au minimum, sauf dans les cas où cela est temporairement justifié en raison de parasites forestiers, de tempêtes ou d’autres perturbations naturelles attestés.Ces actions d’atténuation peuvent être prouvées en utilisant des bases de données internationales et nationales, des cartes officielles et de l’imagerie par satellite, des plans de gestion forestière, des protocoles opérationnels et des protocoles d’exploitation ainsi que les résultats d’audits et d’inspections de conformité pertinents;v)que la récolte maintienne ou améliore la capacité de production de la forêt à long terme. Cela peut être attesté en apportant la preuve que les coupes annuelles ne dépassent pas l’accroissement annuel net dans la zone d’approvisionnement concernée en moyenne sur une période de dix ans précédant l’opération de récolte, à moins que des quantités différentes soient dûment justifiées afin d’améliorer la capacité de production future de la forêt. Cela peut être attesté par des données d’inventaire des forêts publiques ou privées. |
+| --- | --- |
+| i) | la légalité des opérations de récolte, qui est démontrée en apportant la preuve de la conformité de la récolte avec le système de diligence raisonnée défini à l’article 6 du règlement (UE) no 995/2010; |
+| ii) | que la régénération forestière est effectuée de manière à maintenir au moins la qualité et la quantité des zones forestières exploitées, ce qui peut être attesté en apportant la preuve de l’établissement d’une nouvelle forêt dans la même zone dans un délai maximal de dix ans à compter de la récolte. Cela peut être attesté par des plans de gestion forestière, des protocoles opérationnels, des évaluations des incidences sur l’environnement ainsi que les résultats d’audits et d’inspections de conformité pertinents; |
+| iii) | que la biomasse forestière ne provient pas de zones désignées pour la protection de la nature par des dispositions législatives internationales ou nationales ou par l’autorité compétente, y compris dans des zones humides et des tourbières, à moins que des éléments attestent que les activités de récolte de la biomasse forestière n’entrent pas en conflit avec les objectifs de protection des zones désignées. Cela peut être attesté par des bases de données internationales et nationales, des cartes officielles, des plans de gestion forestière, des protocoles opérationnels, des protocoles d’exploitation, des images par satellite, des évaluations des incidences sur l’environnement et des permis d’exploitation forestière officiels comprenant des conditions ou des restrictions qui garantissent l’absence de conflit avec les objectifs pertinents de protection de la nature, ainsi que par les résultats des audits et inspections de conformité pertinents; |
+| iv) | que l’exploitation forestière est effectuée d’une manière qui vise au moins à prévenir les incidences négatives sur la qualité des sols et la biodiversité. Cela peut être attesté en apportant la preuve que les risques pertinents associés à l’exploitation de la biomasse forestière à des fins de production d’énergie ont été identifiés à l’avance, et que des mesures d’atténuation appropriées ont été mises en œuvre, telles que les mesures suivantes:1)les forêts primaires et les zones protégées au point b) iii) ne sont pas dégradées ou remplacées par des forêts de plantation;2)la récolte des souches et des racines est réduite au minimum;3)aucune récolte n’est effectuée sur des sols vulnérables;4)la récolte est effectuée au moyen de systèmes d’abattage qui réduisent au minimum les incidences sur la qualité des sols, notamment en évitant le tassement des sols;5)la récolte est effectuée d’une manière qui réduit au minimum les incidences sur les caractéristiques de biodiversité et les habitats, notamment la flore et la faune protégées par la législation internationale ou nationale;6)une quantité et un assortiment de bois mort appropriés au niveau local sont maintenus dans la forêt; et7)les coupes à blanc importantes sont réduites au minimum, sauf dans les cas où cela est temporairement justifié en raison de parasites forestiers, de tempêtes ou d’autres perturbations naturelles attestés.Ces actions d’atténuation peuvent être prouvées en utilisant des bases de données internationales et nationales, des cartes officielles et de l’imagerie par satellite, des plans de gestion forestière, des protocoles opérationnels et des protocoles d’exploitation ainsi que les résultats d’audits et d’inspections de conformité pertinents; |
+| 1) | les forêts primaires et les zones protégées au point b) iii) ne sont pas dégradées ou remplacées par des forêts de plantation; |
+| 2) | la récolte des souches et des racines est réduite au minimum; |
+| 3) | aucune récolte n’est effectuée sur des sols vulnérables; |
+| 4) | la récolte est effectuée au moyen de systèmes d’abattage qui réduisent au minimum les incidences sur la qualité des sols, notamment en évitant le tassement des sols; |
+| 5) | la récolte est effectuée d’une manière qui réduit au minimum les incidences sur les caractéristiques de biodiversité et les habitats, notamment la flore et la faune protégées par la législation internationale ou nationale; |
+| 6) | une quantité et un assortiment de bois mort appropriés au niveau local sont maintenus dans la forêt; et |
+| 7) | les coupes à blanc importantes sont réduites au minimum, sauf dans les cas où cela est temporairement justifié en raison de parasites forestiers, de tempêtes ou d’autres perturbations naturelles attestés. |
+| v) | que la récolte maintienne ou améliore la capacité de production de la forêt à long terme. Cela peut être attesté en apportant la preuve que les coupes annuelles ne dépassent pas l’accroissement annuel net dans la zone d’approvisionnement concernée en moyenne sur une période de dix ans précédant l’opération de récolte, à moins que des quantités différentes soient dûment justifiées afin d’améliorer la capacité de production future de la forêt. Cela peut être attesté par des données d’inventaire des forêts publiques ou privées. |
+
+<a id="art_5"></a>
+
+### art_5
+
+Article 5
+
+Les États membres exigent des opérateurs économiques qu’ils fournissent des informations vérifiées qui confirment le respect des critères relatifs à l’utilisation des terres, au changement d’affectation des terres et à la foresterie (UTCATF) au niveau national. À cet effet, les opérateurs économiques fournissent des éléments exacts, actualisés et vérifiables attestant que le pays ou l’organisation d’intégration économique régionale d’où provient la biomasse forestière est partie à l’accord de Paris et remplit l’une des deux séries de conditions suivantes:
+
+| i) | il ou elle a soumis, dans le cadre de l’accord de Paris de 2015 sur le changement climatique signé à l’issue de la 21e conférence des parties à la convention-cadre des Nations unies sur les changements climatiques, une contribution déterminée au niveau national (CDN) qui satisfait aux exigences suivantes:a)elle intègre les secteurs de l’agriculture, de la foresterie et de l’utilisation des terres, soit combinés comme un seul secteur «Agriculture, foresterie et autre utilisation des terres» (AFOLU), soit séparés en secteurs de l’agriculture et de l’UTCATF;b)elle explique comment y sont considérés les secteurs de l’agriculture, de la foresterie et de l’utilisation des terres;c)elle comptabilise les émissions et les absorptions des secteurs de l’agriculture, de la foresterie et de l’utilisation des terres par rapport à l’objectif global national de réduction des émissions, en incluant les émissions associées à la récolte de la biomasse forestière; ou |
+| --- | --- |
+| a) | elle intègre les secteurs de l’agriculture, de la foresterie et de l’utilisation des terres, soit combinés comme un seul secteur «Agriculture, foresterie et autre utilisation des terres» (AFOLU), soit séparés en secteurs de l’agriculture et de l’UTCATF; |
+| b) | elle explique comment y sont considérés les secteurs de l’agriculture, de la foresterie et de l’utilisation des terres; |
+| c) | elle comptabilise les émissions et les absorptions des secteurs de l’agriculture, de la foresterie et de l’utilisation des terres par rapport à l’objectif global national de réduction des émissions, en incluant les émissions associées à la récolte de la biomasse forestière; ou |
+
+| ii) | il existe une législation nationale ou infranationale applicable à la zone de récolte, visant à conserver et renforcer les stocks et puits de carbone dans les forêts. En outre, des éléments sont fournis qui attestent que les émissions déclarées pour le secteur UTCATF ne dépassent pas les absorptions, ce qui peut être démontré en apportant la preuve que ces émissions n’excèdent pas les absorptions en moyenne sur les dix ans précédant la récolte de la biomasse forestière et que les stocks et puits de carbone sont conservés ou renforcés entre les deux dernières périodes décennales successives précédant la récolte de la biomasse forestière. |
+| --- | --- |
+
+Afin de réduire au minimum la charge administrative pour les opérateurs économiques, les États membres peuvent leur fournir des informations actualisées sur les éléments visés dans le présent article.
+
+<a id="art_6"></a>
+
+### art_6
+
+Article 6
+
+En l’absence de preuve du respect des critères UTCATF au niveau national, les États membres exigent des opérateurs économiques qu’ils fournissent des informations vérifiées confirmant l’existence et la mise en œuvre de systèmes de gestion au niveau de la zone d’approvisionnement forestière, afin de garantir que les niveaux des stocks et des puits de carbone dans la forêt sont maintenus ou renforcés sur le long terme. À cet effet, les opérateurs économiques fournissent des preuves exactes, actualisées et vérifiables conformes aux exigences suivantes:
+
+| a) | déterminer les limites spatiales de la zone d’approvisionnement pour laquelle la conformité doit être démontrée, par exemple au moyen de coordonnées géographiques, de terrains ou de parcelles, y compris les peuplements et les surfaces, et recenser les réservoirs de carbone forestiers pertinents, y compris la biomasse aérienne, la biomasse souterraine, la litière, le bois mort et le carbone organique du sol; |
+| --- | --- |
+
+| b) | calculer la moyenne des stocks et puits de carbone forestiers sur une période de référence historique afin d’établir une référence pour la comparaison du maintien ou du renforcement des stocks et puits de carbone forestiers d’une zone d’approvisionnement. Les opérateurs économiques utilisent la période de référence 2000-2009 ou une autre période de durée similaire et aussi proche que possible de 2000-2009 afin de faciliter l’utilisation des données d’inventaires forestiers ou pour atténuer les incidences des perturbations naturelles ou d’autres événements extrêmes. Les opérateurs économiques justifient dûment le choix de leur période de référence. L’opérateur économique estime les valeurs de référence pour tous les réservoirs de carbone pertinents identifiés individuellement conformément au point a); |
+| --- | --- |
+
+| c) | décrire le scénario des pratiques de gestion forestière attendues dans une zone d’approvisionnement pour une période de long terme prévue couvrant au moins 30 ans après l’événement de récolte dont est issue la biomasse. Ce scénario est construit sur la base des pratiques de gestion forestière dans une zone d’approvisionnement documentées pour la période de référence historique, ou sur la base de plans de gestion forestière existants ou d’autres éléments probants vérifiables; |
+| --- | --- |
+
+| d) | estimer les stocks et puits de carbone moyens de la zone d’approvisionnement sur la période de long terme prévue couvrant au moins 30 ans, en fonction du rythme de croissance des forêts, après la récolte de la biomasse forestière. Afin d’assurer la comparabilité avec la période de référence historique, ces estimations utilisent les mêmes réservoirs de carbone ainsi que les mêmes données et méthodes que ceux visés aux points a) et b). Lorsque les opérateurs économiques ne sont pas en mesure de quantifier un ou plusieurs des réservoirs identifiés en application du point a), ils le justifient dûment; |
+| --- | --- |
+
+| e) | comparer le stock et les puits de carbone moyens dans la zone d’approvisionnement forestière concernée pour la période de long terme prévue avec les stocks et puits de carbone forestier pour la période de référence historique. Si les stocks et puits de carbone forestier moyens pour la période de long terme prévue sont égaux ou supérieurs aux stocks et puits de carbone forestier moyens pour la période de référence historique, la biomasse forestière est conforme aux critères UTCATF au niveau de la zone d’approvisionnement forestière. Les opérateurs économiques mettent en place des systèmes adéquats de contrôle et de vérification de l’évolution réelle des stocks et des puits de carbone dont la conformité avec les exigences énoncées dans le présent article a été démontrée. |
+| --- | --- |
+
+<a id="art_7"></a>
+
+### art_7
+
+Article 7
+
+1. Les États membres prennent des mesures pour garantir que les opérateurs économiques:
+
+| a) | fournissent des informations fiables à l’appui de leurs allégations de durabilité, démontrant que les exigences énoncées aux articles 3 à 6 ont été dûment remplies, et mettent à disposition, sur demande, les données détaillées qui ont été utilisées pour compiler ces informations. Si d’autres éléments de preuve sont fournis pour démontrer le respect des critères d’exploitation et UTCATF, ces preuves sont d’un niveau élevé de fiabilité et de vérifiabilité; |
+| --- | --- |
+
+| b) | utilisent le système de bilan massique visé à l’article 30, paragraphe 1, de la directive (UE) 2018/2001; |
+| --- | --- |
+
+| c) | organisent un audit de niveau adéquat par des tiers indépendants des informations fournis, sauf dans le cas de la conformité au niveau national et infranational avec les critères de récolte et UTCATF, pour laquelle un audit de première partie ou de deuxième partie peut être prévu jusqu’au premier point de collecte de la biomasse forestière; |
+| --- | --- |
+
+| d) | assurent un niveau adéquat de transparence compte tenu de la nécessité d’un examen public de l’approche d’audit; |
+| --- | --- |
+
+| e) | fournissent des preuves que des audits pertinents sont régulièrement effectués, y compris dans le cadre d’inspections périodiques le cas échéant. |
+| --- | --- |
+
+2. Les États membres prennent des mesures pour veiller à ce que l’audit visé au paragraphe 1, point c), évalue la fréquence et la méthode d’échantillonnage ainsi que la robustesse des données, et vérifie que les informations fournies par les opérateurs économiques sont exactes, fiables et protégées contre la fraude.
+
+3. Les opérateurs économiques peuvent recourir à des systèmes nationaux ou à des systèmes volontaires internationaux reconnus par la Commission conformément à l’article 30, paragraphe 4, de la directive (UE) 2018/2001 afin de démontrer le respect des critères énoncés aux articles 3 à 6 du présent règlement.
+
+4. Des audits de groupe peuvent être effectués dans les conditions prévues à l’article 12 du règlement d’exécution (UE) 2022/996 afin de contribuer à l’allègement de la charge administrative, en particulier sur les petits opérateurs économiques.
+
+<a id="art_8"></a>
+
+### art_8
+
+Article 8
+
+Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.

@@ -1,0 +1,65 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32010r0606:2010-07-09",
+  "language": "fr",
+  "title": "Commission Regulation (EU) No 606/2010 of 9 July 2010 on the approval of a simplified tool…",
+  "valid_from": "2010-07-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32010r0606/versions/2010-07-09/fr.xml",
+    "sha256": "2cc1953d2afe3a8bfa824f5adf2010be5bc106e327ebbb23c99afbeee249b452",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32010R0606"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32010r0606:2010-07-09#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’instrument d’estimation de la consommation de carburant mis au point et proposé par l’Organisation européenne pour la sécurité de la navigation aérienne (Eurocontrol) (3) est approuvé en vue de son utilisation par:\n\n| 1. | les petits émetteurs, aux fins de respecter les obligations en matière de surveillance et de déclaration qui leur incombent en application de l’article 14, paragraphe 3, de la directive 2003/87/CE et du point 4 de l’annexe XIV de la décision 2007/589/CE; |\n| --- | --- |\n\n| 2. | tous les exploitants d’aéronefs, conformément au point 5 de l’annexe XIV de la décision 2007/589/CE, aux fins d’estimer la consommation de carburant de certains vols relevant de l’annexe I de la directive 2003/87/CE lorsque les données nécessaires pour surveiller les émissions de dioxyde de carbone font défaut pour des raisons indépendantes de la volonté de l’exploitant d’aéronefs et qu’elles ne peuvent pas être établies par une autre méthode définie dans le plan de surveillance de l’exploitant. |\n| --- | --- |",
+      "text_sha256": "448a72882754a0920324936956a7120dc1bd5eba092b1bd2e08287ff7a900237",
+      "md_span": {
+        "start": 636,
+        "end": 1673
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2010175FR.01002501-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32010r0606:2010-07-09#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 1706,
+        "end": 1847
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

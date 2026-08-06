@@ -1,0 +1,1181 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32002l0087:2011-01-04",
+  "language": "fr",
+  "title": "Directive 2002/87/EC",
+  "valid_from": "2011-01-04",
+  "valid_to": "2011-12-08",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32002l0087/versions/2011-01-04/fr.html",
+    "sha256": "9dba86a8a2a4aa055b0aac2a5e69d54378a37b75c10aecdc3b31cfb2dde1b21f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02002L0087-20110104"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objectif",
+      "path": [
+        "CHAPITRE I",
+        "OBJECTIF ET DÉFINITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "La présente directive énonce desrègles organisant la surveillance complémentaire des entités réglementées qui ont obtenu un agrément conformément à l'article 6 de la directive 73/239/CEE, à l'article 6 de la directive 79/267/CEE, à l'article 3, paragraphe 1, de la directive 93/22/CEE, ou à l'article 4 de la directive 2000/12/CE, et qui appartiennent à un conglomérat financier. Elle modifie également les règles sectorielles correspondantes applicables aux entités réglementées par les directives susvisées.",
+      "text_sha256": "84344ece610ea8df31e052557ec23e233533c3ff5cbd5931e64d765cc87cec46",
+      "md_span": {
+        "start": 651,
+        "end": 1160
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [
+        "CHAPITRE I",
+        "OBJECTIF ET DÉFINITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Aux fins de la présente directive, on entend par:\n\n1) «établissement de crédit»: un établissement de crédit au sens de l'article 1er, paragraphe 1, deuxième alinéa, de la directive 2000/12/CE;\n\n2) «entreprise d'assurance»: une entreprise d'assurance au sens de l'article 6 de la directive 73/239/CEE, de l'article 6 de la directive 79/267/CEE ou de l'article 1er, point b), de la directive 98/78/CE;\n\n3) «entreprise d'investissement»: une entreprise d'investissement au sens de l'article 1er, paragraphe 2, de la directive 93/22/CEE; la présente définition englobe les entreprises visées à l'article 2, paragraphe 4, de la directive 93/6/CEE;\n\n4) «entité réglementée»: un établissement de crédit, une entreprise d'assurance ou une entreprise d'investissement;\n\n5) «société de gestion de portefeuille»: une société de gestion au sens de l'article 1er*bis*, paragraphe 2, de la directive 85/611/CEE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) (14) ainsi qu'une entreprise dont le siège social est implanté hors de la Communauté et qui aurait besoin d'un agrément conformément à l'article 5, paragraphe 1, de ladite directive si son siège social était situé dans la Communauté;\n\n6) «entreprise de réassurance»: une entreprise de réassurance au sens de l'article 1er, point c), de la directive 98/78/CE;\n\n7) «règles sectorielles»: la législation communautaire concernant la surveillance prudentielle des entités réglementées, telle qu'énoncée notamment dans les directives 73/239/CEE, 79/267/CEE, 98/78/CE, 93/6/CEE, 93/22/CEE et 2000/12/CE;\n\n8) «secteur financier»: un secteur composé de l'une ou plusieurs des entités suivantes:\n\na) un établissement de crédit, un établissement financier ou une entreprise de services bancaires auxiliaires au sens de l'article 1er, points 5) et 23), de la directive 2000/12/CE (secteur bancaire);\n\nb) une entreprise d'assurance, une entreprise de réassurance ou une société *holding* d'assurance au sens de l'article 1er, point i), de la directive 98/78/CE (secteur de l'assurance);\n\nc) une entreprise d'investissement ou un établissement financier au sens de l'article 2, point 7), de la directive 93/6/CEE (secteur des services d'investissement);\n\nd) une compagnie financière *holding* mixte;\n\n9) «entreprise mère»: une entreprise mère au sens de l'article 1er de la septième directive 83/349/CEE du Conseil du 13 juin 1983 concernant les comptes consolidés (15) ou toute entreprise qui, de l'avis des autorités compétentes, exerce effectivement une influence dominante sur une autre entreprise;\n\n10) «filiale»: une filiale au sens de l'article 1er de la directive 83/349/CEE ou toute entreprise sur laquelle, de l'avis des autorités compétentes, une entreprise mère exerce effectivement une influence dominante; toutes les filiales d'une filiale sont également considérées comme filiales de l'entreprise mère;\n\n11) «participation»: une participation au sens de l'article 17, première phrase, de la quatrième directive 78/660/CEE du Conseil du 25 juillet 1978 concernant les comptes annuels de certaines formes de sociétés (16) ou le fait de détenir, directement ou indirectement, au moins 20 % des droits de vote ou du capital d'une entreprise;\n\n12) «groupe»: un groupe d'entreprises composé d'une entreprise mère, de ses filiales et des entités dans lesquelles l'entreprise mère ou ses filiales détiennent une participation, ainsi que des entreprises liées l'une à l'autre par une relation au sens de l'article 12, paragraphe 1, de la directive 83/349/CEE;\n\n13) «liens étroits»: une situation dans laquelle deux personnes physiques ou morales ou plus sont liées par:\n\na) une «participation», à savoir la propriété, directe ou par voie d'un contrôle, de 20 % ou plus des droits de vote ou du capital d'une entreprise, ou\n\nb) un «contrôle», à savoir la relation entre une entreprise mère et une filiale, dans tous les cas visés à l'article 1er, paragraphes 1 et 2, de la directive 83/349/CEE, ou une relation similaire entre toute personne physique ou morale et une entreprise; toute filiale d'une filiale est également considérée comme une filiale de l'entreprise mère qui est à la tête de ces entreprises.\n\nUne situation dans laquelle deux personnes physiques ou morales ou plus sont liées de façon permanente à une et même personne par une relation de contrôle est également considérée comme constitutive d'un lien étroit entre ces personnes;\n\n14) «conglomérat financier»: un groupe qui, sous réserve de l'article 3, satisfait aux conditions suivantes:\n\na) une entité réglementée au sens de l'article 1er est à la tête du groupe ou l'une des filiales du groupe au moins est une entité réglementée au sens de l'article 1er;\n\nb) lorsqu'une entité réglementée au sens de l'article 1er est à la tête du groupe, il s'agit soit de l'entreprise mère d'une entité du secteur financier, soit d'une entité qui détient une participation dans une entité du secteur financier, soit d'une entité liée à une entité du secteur financier par une relation au sens de l'article 12, paragraphe 1, de la directive 83/349/CEE;\n\nc) lorsqu'il n'y a pas d'entité réglementée au sens de l'article 1er à la tête du groupe, les activités de ce dernier s'exercent principalement dans le secteur financier au sens de l'article 3, paragraphe 1;\n\nd) l'une au moins des entités du groupe appartient au secteur de l'assurance et l'une au moins appartient au secteur bancaire ou à celui des services d'investissement;\n\ne) les activités consolidées et/ou agrégées des entités du groupe dans le secteur de l'assurance et les activités consolidées et/ou agrégées des entités dans le secteur bancaire et dans celui des services d'investissement sont importantes au sens de l'article 3, paragraphe 2 ou paragraphe 3.\n\nTout sous-groupe d'un groupe au sens du point 12) qui remplit les critères figurant dans le présent point est considéré comme un conglomérat financier;\n\n15) «compagnie financière *holding* mixte»: une entreprise mère autre qu'une entité réglementée, qui, avec ses filiales, dont l'une au moins est une entité réglementée ayant son siège social dans la Communauté européenne, et d'autres entités, constitue un conglomérat financier;\n\n16) «autorités compétentes»: les autorités nationales des États membres dotées du pouvoir légal ou réglementaire de surveiller les établissements de crédit et/ou les entreprises d'assurance et/ou les entreprises d'investissement, individuellement ou à l'échelle du groupe;\n\n17) «autorités compétentes concernées»:\n\na) les autorités compétentes des États membres responsables de la surveillance sectorielle consolidée des entités réglementées appartenant à un conglomérat financier;\n\nb) le coordinateur désigné conformément à l'article 10, s'il est différent des autorités visées au point a);\n\nc) les autres autorités compétentes concernées lorsque les autorités visées aux points a) et b) le jugent opportun; ce jugement tient spécialement compte de la part de marché détenue par les entités réglementées du conglomérat dans les autres États membres, en particulier si elle dépasse 5 %, ainsi que de l'importance au sein du conglomérat de toute entité réglementée établie dans un autre État membre;\n\n18) «transactions intragroupe»: toutes les transactions dans lesquelles une entité réglementée appartenant à un conglomérat financier recourt directement ou indirectement à d'autres entreprises du même groupe, ou à toute personne physique ou morale liée aux entreprises de ce groupe par des liens étroits pour l'exécution d'une obligation, contractuelle ou non, et à titre onéreux ou non;\n\n19) «concentration de risques»: toute exposition comportant un potentiel de perte assumée par des entités appartenant à un conglomérat financier, dès lors que cette exposition est suffisamment importante pour compromettre la solvabilité ou la situation financière générale des entités réglementées appartenant audit conglomérat; cette exposition peut résulter de risques de contrepartie/de crédit, d'investissement, d'assurance ou de marché ou d'autres risques, ou d'une combinaison ou d'une interaction de ces risques.",
+      "text_sha256": "a1a70a12f280a68f9a60709d227aeabbf0f90309a208bf0f3e88c09817abb941",
+      "md_span": {
+        "start": 1211,
+        "end": 9425
+      },
+      "citations": [
+        {
+          "href": "#E0014",
+          "text": "14"
+        },
+        {
+          "href": "#E0015",
+          "text": "15"
+        },
+        {
+          "href": "#E0016",
+          "text": "16"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Seuils déterminant la notion de conglomérat financier",
+      "path": [
+        "CHAPITRE I",
+        "OBJECTIF ET DÉFINITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Il est considéré que les activités d'un groupe s'exercent principalement dans le secteur financier au sens de l'article 2, point 14 c), lorsque le rapport entre le total du bilan des entités du secteur financier réglementées et non réglementées du groupe dans son ensemble et le total du bilan du groupe dépasse 40 %.\n\n2. Les activités de différents secteurs financiers sont considérées comme importantes au sens de l'article 2, point 14 e), pour chaque secteur financier, lorsque la valeur moyenne du rapport entre le total du bilan dudit secteur financier et le total du bilan des entités du secteur financier du groupe et du rapport entre les exigences de solvabilité du même secteur financier et l'exigence de solvabilité totale des entités du secteur financier du groupe dépasse 10 %.\n\nAux fins de la présente directive, le secteur financier le moins important au sein d'un conglomérat financier est celui qui présente la moyenne la plus basse et le secteur financier le plus important au sein d'un conglomérat financier est celui qui présente la moyenne la plus élevée. Aux fins du calcul de la moyenne et pour déterminer quel est le secteur financier le moins important et quel est celui qui est le plus important, le secteur bancaire et celui des services d'investissement sont agrégés.\n\n3. Les activités transsectorielles sont également réputées importantes au sens de l'article 2, point 14 e), lorsque le total du bilan du secteur financier le moins important au sein du groupe dépasse 6 milliards d'euros. Si le groupe n'atteint pas le seuil visé au paragraphe 2, les autorités compétentes concernées peuvent décider d'un commun accord de ne pas considérer le groupe comme un conglomérat financier, ou de ne pas appliquer les dispositions des articles 7, 8 ou 9, si elles estiment que l'inclusion du groupe dans le champ d'application de la présente directive ou l'application desdites dispositions ne sont pas nécessaires ou seraient inopportunes ou source de confusion eu égard aux objectifs de la surveillance complémentaire, compte tenu, par exemple, des éléments suivants:\n\na) la taille relative de son secteur financier le moins important, calculée soit en termes de moyenne comme indiqué au paragraphe 2, soit en termes de total du bilan ou d'exigence de solvabilité dans ce secteur financier, ne dépasse pas 5 %, ou\n\nb) la part de marché, calculée en termes de total du bilan dans le secteur bancaire ou dans celui des services d'investissement et en termes de primes brutes émises dans le secteur de l'assurance, ne dépasse 5 % dans aucun État membre.\n\nLes décisions prises conformément au présent paragraphe sont notifiées aux autres autorités compétentes concernées.\n\n4. Aux fins de l'application des paragraphes 1, 2 et 3, les autorités compétentes concernées peuvent, d'un commun accord:\n\na) exclure une entité du calcul des ratios, dans les cas visés à l'article 6, paragraphe 5;\n\nb) prendre en compte le respect des seuils prévus aux paragraphes 1 et 2 pendant trois années consécutives de manière à éviter de brusques changements de régime et ne pas tenir compte de ce respect en cas de modification importante de la structure du groupe.\n\nLorsqu'un conglomérat financier a été identifié conformément aux paragraphes 1, 2 et 3, les décisions visées au premier alinéa du présent paragraphe sont prises sur la base d'une proposition faite par le coordinateur dudit conglomérat financier.\n\n5. Aux fins de l'application des paragraphes 1 et 2, les autorités compétentes concernées peuvent, dans des cas exceptionnels et d'un commun accord, remplacer le critère fondé sur le total du bilan par l'une des variables suivantes ou les deux, ou intégrer l'une de ces variables ou les deux, si elles estiment que celles-ci présentent un intérêt particulier aux fins de la surveillance complémentaire au titre de la présente directive: la structure des revenus, les activités hors bilan.\n\n6. Aux fins de l'application des paragraphes 1 et 2, si les ratios qui y sont visés chutent respectivement au-dessous de 40 et de 10 % pour les conglomérats déjà soumis à la surveillance complémentaire, un ratio inférieur fixé respectivement à 35 et 8 % s'applique pendant les trois années qui suivent afin d'éviter de brusques changements de régime.\n\nDe même, aux fins de l'application du paragraphe 3, si le total du bilan du secteur financier le moins important au sein du groupe chute en dessous de 6 milliards d'euros pour les conglomérats déjà soumis à la surveillance complémentaire, un seuil inférieur fixé à 5 milliards d'euros s'applique pendant les trois années qui suivent afin d'éviter de brusques changements de régime.\n\nPendant la période visée au présent paragraphe, le coordinateur peut, avec l'accord des autres autorités compétentes concernées, décider que les ratios ou montants inférieurs visés au présent paragraphe cessent d'être applicables.\n\n7. Les calculs relatifs au bilan visés dans le présent article sont effectués sur la base du total du bilan agrégé des entités du groupe, conformément à leurs comptes annuels. Aux fins de ce calcul, les entreprises dans lesquelles une participation est détenue sont prises en compte à concurrence du montant du total de leur bilan correspondant à la part proportionnelle agrégée détenue par le groupe. Toutefois, lorsque des comptes consolidés sont disponibles, ils sont utilisés à la place des comptes agrégés.\n\nLes exigences de solvabilité visées auxparagraphes 2 et 3 sont calculées conformément aux dispositions des règles sectorielles pertinentes.",
+      "text_sha256": "936ffaf380b97f93862d9806cd454269303de4981602960807550b904ce4c153",
+      "md_span": {
+        "start": 9518,
+        "end": 15043
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Identification d'un conglomérat financier",
+      "path": [
+        "CHAPITRE I",
+        "OBJECTIF ET DÉFINITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les autorités compétentes qui ont agréé des entités réglementées identifient, sur la base des articles 2, 3 et 5, tout groupe relevant du champ d'application de la présente directive.\n\nÀ cette fin:\n\n— les autorités compétentes qui ont agréé des entités réglementées appartenant au groupe coopèrent étroitement, le cas échéant,\n\n— si une autorité compétente estime qu'une entité réglementée agréée par ladite autorité compétente appartient à un groupe qui peut être un conglomérat financier, mais qui n'a pas encore été identifié conformément à la présente directive, elle fait part de son opinion aux autres autorités compétentes concernées.\n\n2. Le coordinateur désigné conformément à l’article 10 informe l’entreprise mère qui est à la tête d’un groupe ou, en l’absence d’entreprise mère, l’entité réglementée qui affiche le total du bilan le plus élevé dans le secteur financier le plus important d’un groupe, que le groupe a été identifié comme étant un conglomérat financier et que le coordinateur a été désigné.\n\nLe coordinateur en informe également les autorités compétentes qui ont agréé les entités réglementées du groupe et les autorités compétentes de l’État membre dans lequel la compagnie financière holding mixte a son siège social, ainsi que le comité mixte des autorités européennes de surveillance (AES) institué respectivement par l’article 54 du règlement (UE) no 1093/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité bancaire européenne) (17), du règlement (UE) no 1094/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des assurances et des pensions professionnelles) (18) et du règlement (UE) no 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers) (19) (ci-après dénommé «comité mixte»).\n\n3. Le comité mixte publie sur son site internet et tient à jour la liste des conglomérats financiers identifiés. Ces informations sont disponibles via un lien hypertexte sur le site internet de chacune des autorités européennes de surveillance.",
+      "text_sha256": "139ff8374a405e222b548eae6322133a85a98f58bdc8d7a4065a520e7267ffd4",
+      "md_span": {
+        "start": 15124,
+        "end": 17347
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32010L0078",
+          "text": "32010L0078: REPLACED"
+        },
+        {
+          "href": "#E0017",
+          "text": "17"
+        },
+        {
+          "href": "#E0018",
+          "text": "18"
+        },
+        {
+          "href": "#E0019",
+          "text": "19"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32010L0078",
+          "text": "32010L0078: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0087",
+          "text": "32002L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Champ d'application de la surveillance complémentaire des entités réglementées visées à l'article 1er",
+      "path": [
+        "SECTION I",
+        "CHAMP D'APPLICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Sans préjudice des dispositions en matière de surveillance prévues par les règles sectorielles, les États membres font en sorte que les entités réglementées visées à l'article 1er soient soumises à une surveillance complémentaire, dans la mesure et selon les modalités fixées par la présente directive.\n\n2. Les entités réglementées ci-après sont soumises à une surveillance complémentaire au niveau du conglomérat financier, conformément aux articles 6 à 17:\n\na) toute entité réglementée qui se trouve à la tête d'un conglomérat financier;\n\nb) toute entreprise réglementée qui a pour entreprise mère une compagnie financière *holding* mixte ayant son siège social dans la Communauté;\n\nc) toute entité réglementée liée à une autre entité du secteur financier par des relations au sens de l'article 12, paragraphe 1, de la directive 83/349/CEE.\n\nLorsqu'un conglomérat financier est un sous-groupe d'un autre conglomérat financier répondant aux critères énoncés au premier alinéa, les États membres peuvent appliquer les articles 6 à 17 uniquement aux entités réglementées du second conglomérat et toute référence faite dans la présente directive aux termes «groupe» et «conglomérat financier» est alors interprétée comme désignant le second conglomérat.\n\n3. Toute entité réglementée non soumise à de la surveillance complémentaire sur la base du paragraphe 2, qui a pour entreprise mère une entité réglementée ou une compagnie financière *holding* mixte et dont le siège social est situé en dehors de la Communauté, est soumise à une surveillance complémentaire au niveau du conglomérat financier dans la mesure et selon les modalités fixées à l'article 18.\n\n4. Lorsque des personnes détiennent une participation dans une ou plusieurs entités réglementées ou ont un lien de participation avec ces entités, ou bien exercent sur elles une influence notable sans y détenir de participation ni avoir de lien de participation avec elles, autrement que dans les cas répertoriés aux paragraphes 2 et 3, les autorités compétentes concernées déterminent, d'un commun accord et en conformité avec la législation nationale, si, et dans quelle mesure, une surveillance complémentaire des entités réglementées doit être effectuée comme si elles constituaient un conglomérat financier.\n\nPour appliquer cette surveillance complémentaire, l'une au moins des entités doit être une entité réglementée visée à l'article 1er et les conditions énoncées à l'article 2, points 14 d) et e) doivent être remplies. Les autorités compétentes concernées prennent leur décision en tenant compte des objectifs de la surveillance complémentaire, tels qu'ils sont définis par la présente directive.\n\nAux fins de l'application du premier alinéa aux «groupes coopératifs», les autorités compétentes doivent tenir compte de l'engagement financier public contracté par ces groupes à l'égard d'autres entités financières.\n\n5. Sans préjudice de l'article 13, l'exercice de la surveillance complémentaire au niveau du conglomérat financier n'implique nullement, pour les autorités compétentes, d'exercer une surveillance individuelle sur les compagnies financières *holdings* mixtes, les entités réglementées de pays tiers appartenant à un conglomérat financier, ou sur les entités non réglementées appartenant à un conglomérat financier.",
+      "text_sha256": "e00a360c59626c9407ba032ef8be2c1b97cbdb6efe934aadeee8724fdc3c5aca",
+      "md_span": {
+        "start": 17527,
+        "end": 20827
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Adéquation des fonds propres",
+      "path": [
+        "SECTION 2",
+        "SITUATION FINANCIÈRE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Sans préjudice des règles sectorielles, une surveillance complémentaire portant sur l'adéquation des fonds propres des entités réglementées appartenant à un conglomérat financier est exercée conformément aux règles énoncées aux paragraphes 2 à 5, à l'article 9, à la section 3 du présent chapitre et à l'annexe I.\n\n2. Les États membres exigent des entités réglementées appartenant à un conglomérat financier qu'elles veillent à ce que soient disponibles, au niveau de celui-ci, des fonds propres qui sont toujours au moins équivalents aux exigences en matière d'adéquation des fonds propres calculées conformément à l'annexe I.\n\nLes États membres exigent également que les entités réglementées mettent en place une politique appropriée d'adéquation des fonds propres au niveau du conglomérat financier.\n\nLes exigences visées au premier et au deuxième alinéas font l'objet d'un contrôle prudentiel exercé par le coordinateur conformément à la section 3 du présent chapitre.\n\nLe coordinateur veille à ce que le calcul visé au premier alinéa soit effectué au moins une fois par an, soit par les entités réglementées, soit par la compagnie financière *holding* mixte.\n\nLes résultats du calcul et les données pertinentes sur lesquelles il est fondé sont soumis au coordinateur par l'entité réglementée au sens de l'article 1er qui coiffe le conglomérat financier ou, lorsque celui-ci n'est pas coiffé par une entité réglementée au sens de l'article 1er, par la compagnie financière *holding* mixte ou par l'entité réglementée du conglomérat financier identifiée par le coordinateur après consultation des autres autorités compétentes concernées et du conglomérat financier.\n\n3. Aux fins du calcul des exigences en matière d'adéquation des fonds propres visé au paragraphe 2, premier alinéa, les entités visées ci-après sont incluses dans le champ d'application de la surveillance complémentaire de la manière et dans la mesure définies à l'annexe I:\n\na) un établissement de crédit, un établissement financier ou une entreprise de services bancaires auxiliaires au sens de l'article 1er, points 5 et 23, de la directive 2000/12/CE;\n\nb) une entreprise d'assurance, une entreprise de réassurance ou une société *holding* d'assurance au sens de l'article 1er, point i), de la directive 98/78/CE;\n\nc) une entreprise d'investissement ou un établissement financier au sens de l'article 2, point 7), de la directive 93/6/CEE;\n\nd) une compagnie financière *holding* mixte.\n\n4. Lorsque l'on calcule, conformément à la méthode no 1 (consolidation comptable) visée à l'annexe I, les exigences complémentaires en matière d'adéquation des fonds propres d'un conglomérat financier, les fonds propres et l'exigence de solvabilité des entités du groupe sont calculés en appliquant les règles sectorielles correspondantes relatives à la forme et à l'étendue de la consolidation,telles qu'elles sont fixées, en particulier, à l'article 54 de la directive 2000/12/CE et à l'annexe I, point 1, partie B, de la directive 98/78/CE.\n\nLorsque l'on applique la méthode no 2 (déduction et agrégation) ou la méthode no 3 (valeur comptable/déduction d'une exigence) visées à l'annexe I, le calcul tient compte de la part proportionnelle détenue par l'entreprise mère ou par l'entreprise qui détient une participation dans une autre entité du groupe. Par «part proportionnelle», on entend la part de capital souscrit qui est détenue, directement ou indirectement, par l'entreprise.\n\n5. Le coordinateur peut décider de ne pas inclure une entité particulière dans le périmètre de calcul des exigences complémentaires en matière d'adéquation des fonds propres dans les cas suivants:\n\na) si l'entité est située dans un pays tiers où des obstacles juridiques empêchent le transfert des informations nécessaires, sans préjudice des règles sectorielles faisant obligation aux autorités compétentes de refuser l'agrément lorsque l'exercice effectif de leur fonction de surveillance est empêché;\n\nb) si l'entité présente un intérêt négligeable au regard des objectifs que poursuit la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier;\n\nc) si son inclusion est inopportune ou risque d'induire une confusion, au regard des objectifs de la surveillance complémentaire.\n\nCependant, si plusieurs entités sont à exclure sur la base du premier alinéa, point b), il y a lieu toutefois de les inclure dès lors que, collectivement, elles présentent un intérêt non négligeable.\n\nDans le cas visé au premier alinéa, point c), le coordinateur consulte, sauf en cas d'urgence, les autres autorités compétentes concernées avant d'arrêter une décision.\n\nLorsque le coordinateur n'inclut pas une entité réglementée dans le périmètre de calcul dans l'un des cas visés au premier alinéa, points b) et c), les autorités compétentes de l'État membre où elle est située peuvent requérir de l'entité qui se trouve à la tête du conglomérat financier des informations de nature à faciliter la surveillance de l'entité réglementée.",
+      "text_sha256": "a8323c8901c14e1e40f414efbb9425a7258de436a59e5491c016d8b33a4579ac",
+      "md_span": {
+        "start": 20935,
+        "end": 25941
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Concentration des risques",
+      "path": [
+        "SECTION 2",
+        "SITUATION FINANCIÈRE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Sans préjudice des règles sectorielles, une surveillance complémentaire portant sur la concentration de risques des entités réglementées appartenant à un conglomérat financier est exercée conformément aux règles énoncées aux paragraphes 2 à 4, à l'article 9, à la section 3 du présent chapitre et à l'annexe II.\n\n2. Les États membres exigent des entités réglementées ou des compagnies financières *holding*s mixtes qu'elles notifient périodiquement et au moins une fois par an au coordinateur toute concentration de risques importante au niveau du conglomérat financier, conformément aux règles énoncées dans le présent article et à l'annexe II. Les informations nécessaires sont soumises au coordinateur par l'entité réglementée au sens de l'article 1er qui est à la tête du conglomérat financier ou, lorsque celui-ci n'est pas coiffé par une entité réglementée au sens de l'article 1er, par la compagnie financière *holding* mixte ou par l'entité réglementée du conglomérat financier identifiée par le coordinateur après consultation des autres autorités compétentes concernées et du conglomérat financier.\n\nCes concentrations de risques font l'objet d'un contrôle prudentiel exercé par le coordinateur.\n\n3. Dans l'attente d'une coordination ultérieure de la législation communautaire, les États membres peuvent fixer des limites quantitatives à toute concentration de risques au niveau du conglomérat financier ou habiliter leurs autorités compétentes à fixer des limites quantitatives, ou prendre d'autres mesures prudentielles permettant d'atteindre les objectifs de la surveillance complémentaire.\n\n4. Lorsqu'un conglomérat financier est coiffé par une compagnie financière *holding* mixte, les règles sectorielles concernant la concentration de risques applicables au secteur financier le plus important dans le conglomérat financier, pour autant qu'elles existent, s'appliquent à l'intégralité du secteur considéré, y compris la compagnie financière *holding* mixte.",
+      "text_sha256": "644b2f063442075862726498f775bcaf09fc832c496331dc4772f5ea8b8d5aec",
+      "md_span": {
+        "start": 26006,
+        "end": 27983
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Transactions intragroupe",
+      "path": [
+        "SECTION 2",
+        "SITUATION FINANCIÈRE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Sans préjudice des règles sectorielles, une surveillance complémentaire portant sur les transactions intragroupe des entités réglementées appartenant à un conglomérat financier est exercée conformément aux règles énoncées aux paragraphes 2 à 4, à l'article 9, à la section 3 du présent chapitre et à l'annexe II.\n\n2. Les États membres exigent des entités réglementées ou des compagnies financières *holding*s mixtes qu'elles notifient périodiquement et au moins une fois par an au coordinateur toute transaction intragroupe importante d'entités réglementées au sein d'un conglomérat financier, conformément aux règles énoncées dans le présent article et à l'annexe II. Dans la mesure où les seuils visés à la dernière phrase du premier alinéa de l'annexe II n'ont pas été définis, une transaction intragroupe est réputée importante si son montant dépasse au moins 5 % du montant total des exigences en matière d'adéquation des fonds propres au niveau d'un conglomérat financier.\n\nLes informations nécessaires sont soumises au coordinateur par l'entité réglementée au sens de l'article 1er, qui est à la tête du conglomérat financier ou, lorsque celui-ci n'est pas coiffé par une entité réglementée au sens de l'article 1er, par la compagnie financière *holding* mixte ou par l'entité réglementée du conglomérat financier identifiée par le coordinateur après consultation des autres autorités compétentes concernées et du conglomérat financier.\n\nCes transactions intragroupe font l'objet d'un contrôle prudentiel exercé par le coordinateur chargé de la surveillance complémentaire, conformément à la section 3 du présent chapitre.\n\n3. Dans l'attente d'une coordination ultérieure de la législation communautaire, les États membres peuvent fixer des limites quantitatives ainsi que des exigences qualitatives concernant les transactions intragroupe d'entités réglementées au sein d'un conglomérat financier ou habiliter leurs autorités compétentes à fixer des limites quantitatives ou des exigences qualitatives, ou prendre d'autres mesures prudentielles permettant d'atteindre les objectifs de la surveillance complémentaire.\n\n4. Lorsqu'un conglomérat financier est coiffé par une compagnie financière *holding* mixte, les règles sectorielles concernant les transactions intragroupe applicables au secteur financier le plus important dans le conglomérat financier s'appliquent à l'intégralité du secteur considéré, y compris la compagnie financière *holding* mixte.",
+      "text_sha256": "bfa2c48a90ff8950c5b8065fae1f088d8761f5114be105bfbb49cd9a58c07c8e",
+      "md_span": {
+        "start": 28047,
+        "end": 30514
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Dispositifs de contrôle interne et procédures de gestion des risques",
+      "path": [
+        "SECTION 2",
+        "SITUATION FINANCIÈRE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres exigent des entités réglementées qu'elles se dotent, au niveau du conglomérat financier, de procédures de gestion des risques ainsi que de dispositifs de contrôle interne appropriés, comprenant des procédures administratives et comptables saines.\n\n2. Les procédures de gestion des risques comprennent:\n\na) une saine gestion et une bonne direction des affaires incluant l'approbation et l'examen périodique des stratégies et politiques, pour l'ensemble des risques encourus, par les organes dirigeants appropriés au niveau du conglomérat financier;\n\nb) des politiques appropriées en matière d'adéquation des fonds propres afin d'anticiper l'impact des stratégies de développement sur le profil de risques et les exigences en matière de fonds propres déterminées conformément à l'article 6 et à l'annexe I;\n\nc) des procédures appropriées permettant de garantir que les dispositifs de surveillance des risques sont adaptés à l'organisation et que toutes mesures sont prises pour que les systèmes mis en place au sein de chacune des entreprises relevant de la surveillance complémentaire soient cohérents, afin que les risques puissent être mesurés, surveillés et maîtrisés au niveau du conglomérat financier;\n\nd) des dispositifs mis en place pour participer à la réalisation et, le cas échéant, au développement de mécanismes et de plans de sauvetage et de résolution des défaillances appropriés. Ces dispositifs sont régulièrement mis à jour.\n\n3. Les dispositifs de contrôle interne comprennent:\n\na) des dispositifs adéquats en ce qui concerne l'adéquation des fonds propres permettant d'identifier et de mesurer tous les risques importants encourus et de déterminer un niveau de fonds propres adapté aux risques;\n\nb) desprocédures saines d'information et de comptabilité permettant d'identifier, de mesurer, d'encadrer et de contrôler les transactions intragroupe ainsi que la concentration de risques.\n\n4. Les États membres veillent à ce que toutes les entreprises relevant de la surveillance complémentaire en vertu de l'article 5 possèdent des dispositifs de contrôle interne propres à permettre la production de toute donnée ou de toute information pouvant être pertinente aux fins de la surveillance complémentaire.\n\n5. Les procédures et dispositifs visés aux paragraphes 1 à 4 font l'objet d'un contrôle prudentiel exercé par le coordinateur.",
+      "text_sha256": "024300c0ebc6327cf87db59bc83141cd4e33d480e93c3b65320efd6990450915",
+      "md_span": {
+        "start": 30622,
+        "end": 32990
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32010L0078",
+          "text": "32010L0078: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0087",
+          "text": "32002L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9_bis",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_9_bis",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9 bis",
+      "heading": "Rôle du comité mixte",
+      "path": [
+        "SECTION 3",
+        "MESURES VISANT À FACILITER LA SURVEILLANCE COMPLÉMENTAIRE ET LES COMPÉTENCES DU COMITÉ MIXTE"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le comité mixte assure, conformément à l’article 56 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement, la cohérence transsectorielle et transfrontalière de la surveillance et la conformité avec la législation de l'Union.",
+      "text_sha256": "b7be2b929cb3174e5ad8a801b2ae5a76f65c02ee0852377e4d12e6c6b8087421",
+      "md_span": {
+        "start": 33170,
+        "end": 33452
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0087",
+          "text": "32002L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Autorité compétente chargée de la surveillance complémentaire (coordinateur)",
+      "path": [
+        "SECTION 3",
+        "MESURES VISANT À FACILITER LA SURVEILLANCE COMPLÉMENTAIRE ET LES COMPÉTENCES DU COMITÉ MIXTE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Pour assurer une surveillance complémentaire adéquate des entités réglementées appartenant à un conglomérat financier, un coordinateur unique, responsable de la coordination et de l’exercice de la surveillance complémentaire, est désigné parmi les autorités compétentes des États membres concernés, y compris celles de l’État membre dans lequel la compagnie financière holding mixte a son siège social. Le nom du coordinateur est publié sur le site internet du comité mixte.\n\n2. La désignation est fondée sur les critères suivants:\n\na) lorsqu'un conglomérat financier est coiffé par une entité réglementée, le rôle de coordinateur est assumé par l'autorité compétente qui a agréé ladite entité réglementée conformément aux règles sectorielles applicables;\n\nb) lorsqu'un conglomérat financier n'est pas coiffé par une entité réglementée, le rôle de coordinateur est assumé par l'autorité compétente sélectionnée en application des principes suivants:\n\ni) lorsque l'entreprise mère d'une entité réglementée est une compagnie financière *holding* mixte, le rôle de coordinateur est assumé par l'autorité compétente qui a agréé ladite entité réglementée conformément aux règles sectorielles applicables;\n\nii) lorsque plusieurs entités réglementées ayant leur siège social dans la Communauté ont pour entreprise mère la même compagnie financière *holding* mixte, et que l'une de ces entités a été agréée dans l'État membre où la compagnie financière *holding* mixte a son siège social, le rôle de coordinateur est assumé par l'autorité compétente de l'État membre ayant agréé ladite entité réglementée;\n\nlorsque plusieurs entités réglementées exerçant leurs activités dans différents secteurs financiers ont été agréées dans l'État membre où la compagnie financière *holding* mixte a son siège social, le rôle de coordinateur est assumé par l'autorité compétente de l'entité réglementée exerçant ses activités dans le secteur financier le plus important;\n\nlorsque le conglomérat financier est coiffé par plusieurs compagnies financières *holdings* mixtes ayant un siège social dans des États membres différents et que chacun de ces États membres compte une entité réglementée, le rôle de coordinateur est assumé par l'autorité compétente de l'entité réglementée affichant le total du bilan le plus élevé, si ces entités exercent leurs activités dans le même secteur financier, ou par l'autorité compétente de l'entité réglementée exerçant ses activités dans le secteur financier le plus important;\n\niii) lorsque plusieurs entités réglementées ayant leur siège social dans la Communauté ont pour entreprise mère la même compagnie financière *holding* mixte, mais qu'aucune de ces entités n'a été agréée dans l'État membre où cette compagnie financière *holding* mixte a son siège social, le rôle de coordinateur est assumé par l'autorité compétente ayant agréé l'entité réglementée qui affiche le total du bilan le plus élevé dans le secteur financier le plus important;\n\niv) lorsque le conglomérat financier est un groupe qui n'est pas coiffé par une entreprise mère, ou dans tout autre cas, le rôle de coordinateur est assumé par l'autorité compétente ayant agréé l'entité réglementée qui affiche le total du bilan le plus élevé dans le secteur financier le plus important.\n\n3. Dans certains cas particuliers, les autorités compétentes concernées peuvent, d'un commun accord, déroger aux critères mentionnés au paragraphe 2 s'il apparaît inapproprié de les appliquer, compte tenu de la structure du conglomérat et de l'importance relative de ses activités dans différents pays, et désigner une autre autorité compétente comme coordinateur. En pareil cas, avant de prendre leur décision, les autorités compétentes donnent au conglomérat la possibilité d'exprimer son avis sur celle-ci.",
+      "text_sha256": "c922f459edd3917d6dad8b4b6edcaa6e5e195e122c55f1bc8b4f584a3059475a",
+      "md_span": {
+        "start": 33570,
+        "end": 37353
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32010L0078",
+          "text": "32010L0078: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0087",
+          "text": "32002L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Missions du coordinateur",
+      "path": [
+        "SECTION 3",
+        "MESURES VISANT À FACILITER LA SURVEILLANCE COMPLÉMENTAIRE ET LES COMPÉTENCES DU COMITÉ MIXTE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les missions assignées au coordinateur en ce qui concerne la surveillance complémentaire sont les suivantes:\n\na) coordonner la collecte et la diffusion des informations utiles ou essentielles, dans la marche normale des affaires comme dans les situations d'urgence, y compris la diffusion des informations importantes pour la surveillance prudentielle exercée par une autorité compétente en vertu des règles sectorielles;\n\nb) assurer le contrôle prudentiel et l'évaluation de la situation financière d'un conglomérat financier;\n\nc) évaluer l'application des règles relatives à l'adéquation des fonds propres, à la concentration de risques et aux transactions intragroupe qui figurent aux articles 6, 7 et 8;\n\nd) évaluer la structure, l'organisation et les dispositifs de contrôle interne du conglomérat financier visés à l'article 9;\n\ne) planifier et coordonner les activités prudentielles, dans la marche normale des affaires comme dans les situations d'urgence, en coopération avec les autorités compétentes concernées;\n\nf) accomplir les autres missions et prendre les autres mesures et décisions assignées au coordinateur par la présente directive ou dans le cadre de l'application de ses dispositions.\n\nPour faciliter la surveillance complémentaire et la fonder sur une base juridique large, le coordinateur et les autres autorités compétentes concernées et, le cas échéant, d’autres autorités compétentes concernées, mettent en place des accords de coordination. Ces accords peuvent confier des tâches supplémentaires au coordinateur et préciser les procédures que doivent suivre les autorités compétentes concernées pour prendre les décisions visées aux articles 3 et 4, à l’article 5, paragraphe 4, à l’article 6, à l’article 12, paragraphe 2, et aux articles 16 et 18, ainsi que pour coopérer avec d’autres autorités compétentes.\n\nConformément, respectivement, à l’article 8 et à la procédure visée à l’article 56 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010, les AES élaborent, par l’intermédiaire du comité mixte, des orientations en vue de la convergence des pratiques de surveillance en ce qui concerne la cohérence des accords de coordination de la surveillance conformément à l’article 131 *bis* de la directive 2006/48/CE et à l’article 248, paragraphe 4, de la directive 2009/138/CE.\n\n2. Lorsqu'il a besoin d'informations qui ont déjà été fournies à une autre autorité compétente conformément aux règles sectorielles, le coordinateur, dans la mesure du possible, s'adresse à ladite autorité afin d'éviter les doubles emplois dans les informations communiquées aux diverses autorités participant à la surveillance.\n\n3. Sans préjudice de la possibilité, prévue par la législation communautaire, de déléguer certaines compétences et responsabilités prudentielles, la présence d'un coordinateur chargé de tâches spécifiques à la surveillance complémentaire des entreprises réglementées appartenant à un conglomérat financier ne modifie en rien la mission et les responsabilités incombant aux autorités compétentes en vertu des règles sectorielles.",
+      "text_sha256": "4fae0d6248ccbc50526beb5b00555461b0478bacd87d99e9f194360f7e8c9f7d",
+      "md_span": {
+        "start": 37419,
+        "end": 40533
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32010L0078",
+          "text": "32010L0078: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0087",
+          "text": "32002L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Coopération et échange d'informations entre les autorités compétentes",
+      "path": [
+        "SECTION 3",
+        "MESURES VISANT À FACILITER LA SURVEILLANCE COMPLÉMENTAIRE ET LES COMPÉTENCES DU COMITÉ MIXTE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les autorités compétentes chargées de la surveillance des entités réglementées appartenant à un conglomérat financier et l'autorité compétente désignée comme coordinateur pour ce conglomérat financier coopèrent étroitement entre elles. Sans préjudice de leurs responsabilités respectives telles qu'elles sont définies par les règles sectorielles, ces autorités, qu'elles soient ou non établies dans le même État membre, échangent toute information essentielle ou utile à l'accomplissement de leurs missions prudentielles respectives au titre des règles sectorielles et de la présente directive. À cette fin, les autorités compétentes et le coordinateur communiquent sur demande toute information utile et de leur propre initiative toute information essentielle.\n\nCette coopération recouvre au moins la collecte et l'échange d'informations sur les éléments suivants:\n\na) la structure du groupe, toutes les grandes entités qui font partie du conglomérat financier et les autorités compétentes pour les entités réglementées dudit groupe;\n\nb) les stratégies du conglomérat financier;\n\nc) la situation financière duconglomérat financier, notamment en ce qui concerne l'adéquation des fonds propres, les transactions intragroupe, la concentration des risques et la rentabilité;\n\nd) les principaux actionnaires du conglomérat financier et ses dirigeants;\n\ne) l'organisation, la gestion des risques et les systèmes de contrôle interne à l'échelle du conglomérat financier;\n\nf) les procédures de collecte d'informations auprès des entités du conglomérat financier et de vérification desdites informations;\n\ng) les difficultés rencontrées par des entités réglementées ou d'autres entités du conglomérat financier pouvant gravement affecter lesdites entités réglementées;\n\nh) les principales sanctions et mesures exceptionnelles prises par les autorités compétentes conformément aux règles sectorielles ou à la présente directive.\n\nPour les besoins de l’exercice de leurs fonctions respectives, les autorités compétentes peuvent aussi échanger avec les autorités énumérées ci-après des informations sur les entités réglementées appartenant à un conglomérat financier, conformément aux règles sectorielles: les banques centrales, le système européen de banques centrales, la Banque centrale européenne et le Comité européen du risque systémique, conformément à l’article 15 du règlement (UE) no 1092/2010 du Parlement européen et du Conseil du 24 novembre 2010 relatif à la surveillance macroprudentielle du système financier dans l’Union européenne et instituant un Comité européen du risque systémique (20).\n\n2. Sans préjudice de leurs responsabilités respectives telles qu'elles sont définies par les règles sectorielles, les autorités compétentes concernées se consultent mutuellement sur les points figurant ci-après, avant de prendre une décision intéressant les fonctions prudentielles exercées par les autres autorités compétentes:\n\na) une modification structurelle de l'actionnariat, de l'organisation ou de la direction des entités réglementées d'un conglomérat financier requérant l'approbation ou l'autorisation des autorités compétentes;\n\nb) les principales sanctions et mesures exceptionnelles prises par les autorités compétentes.\n\nUne autorité compétente peut décider de ne pas consulter ses homologues en cas d'urgence ou lorsque cette consultation risque de compromettre l'efficacité des décisions. En pareil cas, l'autorité compétente informe sans délai les autres autorités compétentes.\n\n3. Le coordinateur peut inviter les autorités compétentes de l'État membre où une entreprise mère a son siège social et qui n'exercent pas elles-mêmes la surveillance complémentaire conformément à l'article 10 à demander à l'entreprise mère de leur fournir toutes informations utiles à l'accomplissement de sa mission de coordination, telle qu'elle est définie à l'article 11, et à lui communiquer lesdites informations.\n\nLorsque les informations visées à l'article 14, paragraphe 2, ont déjà été communiquées à une autorité compétente en application des règles sectorielles, les autorités compétentes chargées de la surveillance complémentaire peuvent s'adresser à elle pour obtenir lesdites informations.\n\n4. Les États membres autorisent leurs autorités compétentes à échanger les informations visées aux paragraphes 1, 2 et 3, tant entre elles qu'avec d'autres autorités. La collecte ou la possession d'informations relatives à une entité appartenant à un conglomérat financier, laquelle n'est pas une entité réglementée, n'implique nulle obligation, pour les autorités compétentes, de jouer un rôle prudentiel à l'égard de ladite entité sur un plan individuel.\n\nLes informations reçues dans le cadre de la surveillance complémentaire et, en particulier, toute information échangée entre des autorités compétentes ou entre celles-ci et d'autres autorités conformément à la présente directive sont couvertes par les dispositions des règles sectorielles relatives au secret professionnel et à la communication d'informations confidentielles.",
+      "text_sha256": "890c1d17997ffa568c1189571b4d8314c8899c753d46d15b39d1910a29c3e244",
+      "md_span": {
+        "start": 40644,
+        "end": 45685
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32010L0078",
+          "text": "32010L0078: REPLACED"
+        },
+        {
+          "href": "#E0020",
+          "text": "20"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0087",
+          "text": "32002L0087"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32010L0078",
+          "text": "32010L0078: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12_bis",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_12_bis",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12 bis",
+      "heading": "Coopération et échange d’informations avec le comité mixte",
+      "path": [
+        "SECTION 3",
+        "MESURES VISANT À FACILITER LA SURVEILLANCE COMPLÉMENTAIRE ET LES COMPÉTENCES DU COMITÉ MIXTE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les autorités compétentes coopèrent avec le comité mixte aux fins de la présente directive, conformément au règlement (UE) no 1093/2010, au règlement (UE) no 1094/2010 et au règlement (UE) no 1095/2010.\n\n2. Les autorités compétentes fournissent dans les plus brefs délais au comité mixte toutes les informations nécessaires pour l’exercice de ses fonctions, conformément à l’article 35 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement.",
+      "text_sha256": "9f5c78f66069c09e2d2659328733aa09566b00e778b9b8d60c38d2b32d85f3e3",
+      "md_span": {
+        "start": 45793,
+        "end": 46294
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0087",
+          "text": "32002L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Responsables de la direction des compagnies financières *holdings* mixtes",
+      "path": [
+        "SECTION 3",
+        "MESURES VISANT À FACILITER LA SURVEILLANCE COMPLÉMENTAIRE ET LES COMPÉTENCES DU COMITÉ MIXTE"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres exigent que les personnes qui dirigent effectivement les affaires d'une compagnie financière *holding* mixte possèdent l'honorabilité nécessaire et l'expérience suffisante adéquate pour exercer ces fonctions.",
+      "text_sha256": "f23e574da1087aa8fc32ee46bc5402ee4291a00396fd5b2d84661403ccd68c88",
+      "md_span": {
+        "start": 46409,
+        "end": 46635
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Accès à l'information",
+      "path": [
+        "SECTION 3",
+        "MESURES VISANT À FACILITER LA SURVEILLANCE COMPLÉMENTAIRE ET LES COMPÉTENCES DU COMITÉ MIXTE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce qu’aucun obstacle juridique n'empêche, sur leur territoire, les personnes physiques et morales relevant de la surveillance complémentaire, qu’elles soient des entités réglementées ou non, de s’échanger toute information pouvant intéresser ladite surveillance complémentaire et d’échanger des informations en vertu de la présente directive avec les AES conformément à l’article 35 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement, le cas échéant par l’intermédiaire du comité mixte.\n\n2. Les États membres veillent à ce que leurs autorités compétentes chargées d'exercer la surveillance complémentaire aient accès, dans leurs contacts directs ou indirects avec les entités, réglementées ou non, appartenant à un conglomérat financier, à toute information pouvant intéresser ladite surveillance complémentaire.",
+      "text_sha256": "3531312997e3639f1e8d858abc60bee37338fee815a985609134651cf0d21f7b",
+      "md_span": {
+        "start": 46698,
+        "end": 47603
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32010L0078",
+          "text": "32010L0078: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0087",
+          "text": "32002L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Vérification",
+      "path": [
+        "SECTION 3",
+        "MESURES VISANT À FACILITER LA SURVEILLANCE COMPLÉMENTAIRE ET LES COMPÉTENCES DU COMITÉ MIXTE"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsque, dans le cadre de l'application de la présente directive, les autorités compétentes souhaitent, dans des cas déterminés, vérifier les informations relatives à une entité, réglementée ou non, qui appartient à un conglomérat financier et a son siège dans un autre État membre, elles demandent aux autorités compétentes de l'autre État membre de faire procéder à cette vérification.\n\nLes autorités qui reçoivent une telle demande y donnent suite, dans le cadre de leurs compétences, soit en procédant elles-mêmes à cette vérification, soit en permettant qu'un réviseur ou un expert y procède, soit en permettant à l'autorité qui a présenté la demande d'y procéder elle-même.\n\nLorsqu'elle ne procède pas elle-même à la vérification, l'autorité compétente qui a présenté la demande peut, si elle le souhaite, y être associée.",
+      "text_sha256": "155373a88dc2cdd49b5e9b7595a7fa5ba2b789453bd17ce8049dc63fb8556b3f",
+      "md_span": {
+        "start": 47657,
+        "end": 48485
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Mesures d'exécution",
+      "path": [
+        "SECTION 3",
+        "MESURES VISANT À FACILITER LA SURVEILLANCE COMPLÉMENTAIRE ET LES COMPÉTENCES DU COMITÉ MIXTE"
+      ],
+      "article_valid_from": null,
+      "text_md": "Si les entités réglementées d'un conglomérat financier ne se conforment pas aux exigences visées aux articles 6 à 9 ou lorsque ces exigences sont respectées mais que la solvabilité risque malgré tout d'être compromise, ou lorsque les transactions intragroupe ou les concentrations de risques menacent la situation financière desdites entités réglementées, les mesures nécessaires doivent être prises pour remédier dès que possible à cette situation:\n\n— par le coordinateur en ce qui concerne les compagnies financières *holdings* mixtes;\n\n— par les autorités compétentes en ce qui concerne les entités réglementées; à cette fin, le coordinateur informe lesdites autorités compétentes de ses constatations.\n\nSans préjudice de l’article 17, paragraphe 2, les États membres peuvent déterminer quelles mesures les autorités compétentes peuvent prendre à l’égard des compagnies financières holdings mixtes. Conformément aux articles 16 et 56 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement, les AES peuvent établir, par l’intermédiaire du comité mixte, des orientations concernant les mesures relatives aux compagnies financières holdings mixtes.\n\nLes autorités compétentes concernées, y compris le coordinateur, coordonnent, si nécessaire, leur action de surveillance.",
+      "text_sha256": "161e5db2d9f139bcd26433d25cbab0a459b4a5efe71da25abfd2f9a42773be4f",
+      "md_span": {
+        "start": 48546,
+        "end": 49874
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32010L0078",
+          "text": "32010L0078: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0087",
+          "text": "32002L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Pouvoirs complémentaires des autorités compétentes",
+      "path": [
+        "SECTION 3",
+        "MESURES VISANT À FACILITER LA SURVEILLANCE COMPLÉMENTAIRE ET LES COMPÉTENCES DU COMITÉ MIXTE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Dans l'attente d'une harmonisation plus poussée des règles sectorielles, les États membres habilitent leurs autorités compétentes à prendre toute mesure prudentielle jugée nécessaire pour prévenir tout contournement des règles sectorielles par les entités réglementées appartenant à un conglomérat financier ou pour y remédier.\n\n2. Sans préjudice de leurs dispositions pénales, les États membres font en sorte que des sanctions ou mesures propres à mettre fin aux infractions observées ou à supprimer les causes de ces infractions puissent être imposées aux compagnies financières *holdings* mixtes, ou à leurs dirigeants effectifs, qui enfreignent les dispositions législatives, réglementaires ou administratives adoptées en vue de mettre en œuvre la présente directive. Dans certains cas, ces mesures peuvent requérir l'intervention des tribunaux. Les autorités compétentes coopèrent étroitement pour veiller à ce que ces sanctions ou mesures produisent les effets recherchés.",
+      "text_sha256": "c70bd9ad9e3a7fab388ca73aeca0d107ee3fb5ff528676a9b1435b3bd0218623",
+      "md_span": {
+        "start": 49966,
+        "end": 50947
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Entreprises mères ayant leur siège en dehors de la Communauté",
+      "path": [
+        "SECTION 4",
+        "PAYS TIERS"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Sans préjudice des règles sectorielles, quand l’article 5, paragraphe 3 s’applique, les autorités compétentes vérifient que les entités réglementées dont l’entreprise mère a son siège social dans un pays tiers sont soumises à la surveillance de l’autorité compétente de ce pays tiers, qui est équivalente à celle prévue par la présente directive pour la surveillance complémentaire des entités réglementées visées à l’article 5, paragraphe 2. La vérification est effectuée par l’autorité compétente qui jouerait le rôle de coordinateur si les critères énoncés à l’article 10, paragraphe 2, devaient s’appliquer, à la demande de l’entreprise mère ou de l’une quelconque des entités réglementées agréées dans l’Union, ou de sa propre initiative.\n\nCette autorité compétente consulte les autres autorités compétentes concernées et met tout en œuvre pour respecter toute orientation applicable élaborée par l’intermédiaire du comité mixte conformément aux articles 16 et 56 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement.\n\n1 bis. Si une autorité compétente n’est pas d’accord avec la décision prise par une autre autorité compétente en vertu du paragraphe 1, l’article 19 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement s'applique.\n\n2. En l'absence d'une surveillance équivalente visée au paragraphe 1, les États membres appliquent par analogie aux entités réglementées les dispositions relatives à la surveillance complémentaire des entités réglementées visées à l'article 5, paragraphe 2. Les autorités compétentes peuvent aussi recourir à l'une des méthodes exposées au paragraphe 3.\n\n3. Les États membres habilitent leurs autorités compétentes à appliquer d'autres méthodes garantissant une surveillance complémentaire appropriée des entités réglementées appartenant à un conglomérat financier. Ces méthodes doivent être approuvées par le coordinateur, après consultation des autres autorités compétentes concernées. Les autorités compétentes peuvent, en particulier, exiger la constitution d'une compagnie financière *holding* mixte ayant son siège social dans la Communauté et appliquer la présente directive aux entités réglementées du conglomérat financier coiffé par ladite compagnie *holding*. Les méthodes doivent permettre d'atteindre les objectifs de la surveillance complémentaire, tels que définis par la présente directive, et être notifiées aux autres autorités compétentes concernées et à la Commission.",
+      "text_sha256": "f6e47f9ad890ea9c86fcc6e63226904917246f39e3adb1f1fb0692ff69b216b1",
+      "md_span": {
+        "start": 51080,
+        "end": 53628
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32010L0078",
+          "text": "32010L0078: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32010L0078",
+          "text": "32010L0078: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0087",
+          "text": "32002L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Coopération avec les autorités compétentes de pays tiers",
+      "path": [
+        "SECTION 4",
+        "PAYS TIERS"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. L'article 25, paragraphes 1 et 2, de la directive 2000/12/CE et l'article 10 *bis* de la directive 98/78/CE s'appliquent *mutatis mutandis* à la négociation d'accords avec un ou plusieurs pays tiers en ce qui concerne les modalités d'exercice de la surveillance complémentaire des entités réglementées appartenant à un conglomérat financier.\n\n2. Sans préjudice de l’article 218, paragraphes 1 et 2, du traité sur le fonctionnement de l’Union européenne, la Commission, assistée du comité mixte, du comité bancaire européen, du comité européen des assurances et des pensions professionnelles et du comité des conglomérats financiers, examine l’issue des négociations visées au paragraphe 1 et la situation qui en résulte.",
+      "text_sha256": "314a0a407f9d44d015890ef706d422b17853322f8b4a360e8383f9a48c15d0cb",
+      "md_span": {
+        "start": 53726,
+        "end": 54449
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32010L0078",
+          "text": "32010L0078: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0087",
+          "text": "32002L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Pouvoirs conférés à la Commission",
+      "path": [
+        "CHAPITRE III",
+        "POUVOIRS CONFÉRÉS À LA COMMISSION ET PROCÉDURE DE COMITOLOGIE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La Commission adopte►M2 —————** ◄ ** les adaptations techniques qu'il y a lieu d'apporter à la présente directive, dans les domaines suivants:\n\na) formulation plus précise des définitions visées à l'article 2, en vue de tenir compte, dans l'application de la présente directive, de l'évolution des marchés financiers;\n\nb) formulation plus précise des définitions visées à l'article 2, en vue d'assurer une application uniforme de la présente directive dans la Communauté;\n\nc) alignement de la terminologie et de la formulation des définitions de la présente directive sur celles des actes communautaires ultérieurs concernant les entités réglementées et autres matières connexes;\n\nd) définition plus précise des méthodes de calcul énoncées à l'annexe I, en vue de tenir compte de l'évolution des marchés financiers et des techniques prudentielles;\n\ne) coordination des dispositions adoptées en vertu des articles 7 et 8 et de l'annexe II en vue d'encourager une application uniforme dans la Communauté.\n\nCes mesures, qui visent à modifier des éléments non essentiels de la présente directive, y compris en la complétant, sont arrêtées en conformité avec la procédure de réglementation avec contrôle visée à l’article 21, paragraphe 2.\n\nCes mesures ne couvrent pas l’objet du pouvoir délégué et conféré à la Commission en ce qui concerne les éléments énumérés à l’article 21 *bis*.\n\n2. La Commission informe le public de toute proposition présentée conformément au présent article et consulte les parties intéressées avant de soumettre le projet de mesures à prendre au comité des conglomérats financiers visé à l'article 21.",
+      "text_sha256": "8ef992224d1fd4ea2241434682fa17fb49773aa18205e7863883c5ab8dd0c1b4",
+      "md_span": {
+        "start": 54608,
+        "end": 56235
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32008L0025",
+          "text": "►M2"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32008L0025",
+          "text": "32008L0025: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32010L0078",
+          "text": "32010L0078: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0087",
+          "text": "32002L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Comité",
+      "path": [
+        "CHAPITRE III",
+        "POUVOIRS CONFÉRÉS À LA COMMISSION ET PROCÉDURE DE COMITOLOGIE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La Commission est assistée par un comité des conglomérats financiers, ci-après dénommé «comité».\n\n2. Dans le cas où il est fait référence au présent paragraphe, l’article 5 *bis*, paragraphes 1 à 4, et l’article 7 de la décision 1999/468/CE s’appliquent, dans le respect des dispositions de l’article 8 de celle-ci.\n\n3. Pour le 31 décembre 2010, puis au moins tous les trois ans, la Commission réexamine les dispositions concernant ses compétences d’exécution et présente au Parlement européen et au Conseil un rapport sur le fonctionnement de ces compétences. Le rapport examine en particulier s’il est nécessaire que la Commission propose des amendements à la présente directive pour garantir une délimitation appropriée des compétences d’exécution qui lui sont conférées. La conclusion quant au point de savoir si une modification s’impose ou non s’accompagne d’un exposé détaillé des motifs. Le cas échéant, le rapport est assorti d’une proposition législative visant à modifier les dispositions qui confèrent à la Commission ses compétences d’exécution.\n\n4. Les AES peuvent donner, par l’intermédiaire du comité mixte, des orientations générales sur la question de savoir si les régimes de surveillance complémentaire des autorités compétentes de pays tiers sont susceptibles d’atteindre les objectifs de la surveillance complémentaire définis dans la présente directive en ce qui concerne les entités réglementées d’un conglomérat financier dont l’entreprise mère a son siège dans un pays tiers. Le comité mixte réexamine régulièrement toute orientation de cette nature et tient compte de toute modification intervenant dans la surveillance complémentaire exercée par lesdites autorités compétentes.\n\n5. Au plus tard le 1er décembre 2011, la Commission révise l’article 20 et présente toute proposition législative appropriée permettant la mise en place effective des actes délégués prévus à l’article 290 du traité sur le fonctionnement de l’Union européenne et des actes d’exécution prévus à l’article 291 dudit traité en ce qui concerne la présente directive. Sans préjudice des mesures d’exécution déjà adoptées, les compétences conférées à la Commission à l’article 21 pour adopter des mesures d'exécution, qui subsistent encore après l’entrée en vigueur du traité de Lisbonne, deviennent inopérantes à compter du 1er décembre 2012.",
+      "text_sha256": "6fad46d0f35fc6a861d9b0215dd266eff8cc9e56fef1b683263f490cb24b0e97",
+      "md_span": {
+        "start": 56283,
+        "end": 58629
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32008L0025",
+          "text": "32008L0025: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32010L0078",
+          "text": "32010L0078: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32010L0078",
+          "text": "32010L0078: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21_bis",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_21_bis",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21 bis",
+      "heading": "Normes techniques",
+      "path": [
+        "CHAPITRE III",
+        "POUVOIRS CONFÉRÉS À LA COMMISSION ET PROCÉDURE DE COMITOLOGIE"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Afin d’assurer une harmonisation cohérente de la présente directive, les AES peuvent élaborer, conformément à l’article 56 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement, des projets de normes techniques de réglementation concernant:\n\na) l’article 2, point 11), afin de préciser l’application de l’article 17 de la directive 78/660/CEE du Conseil dans le contexte de la présente directive;\n\nb) l’article 2, point 17), afin d’établir des procédures ou de préciser les critères de détermination des «autorités compétentes concernées»;\n\nc) l’article 3, paragraphe 5, afin de préciser les variables de substitution pour l’identification des conglomérats financiers.\n\nEst délégué à la Commission le pouvoir d’adopter les normes techniques de réglementation visées au premier alinéa, conformément à la procédure énoncée aux articles 10 à 14 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010, respectivement.\n\n2. Afin d’assurer des conditions uniformes d’application de la présente directive, les AES élaborent, conformément à l’article 56 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement, des projets de normes techniques d’exécution concernant:\n\na) l’article 6, paragraphe 2, afin d’assurer des conditions uniformes d’application des méthodes de calcul énumérées à l’annexe I de la partie II, mais sans préjudice de l’article 6, paragraphe 4;\n\nb) l’article 7, paragraphe 2, afin d’assurer des conditions uniformes d’application des procédures de prise en compte des éléments entrant dans le champ d’application de la définition de «concentration de risques» aux fins du contrôle prudentiel visé à l’article 7, paragraphe 2, deuxième alinéa;\n\nc) l’article 8, paragraphe 2, afin d’assurer des conditions uniformes d’application des procédures de prise en compte des éléments entrant dans le champ d’application de la définition des «transactions intragroupe» aux fins du contrôle prudentiel visé à l’article 8, paragraphe 2, troisième alinéa.\n\nLa Commission a compétence pour adopter les normes techniques d’exécution visées au premier alinéa, conformément à l’article 15 du règlement (UE) no 1093/2010, du règlement (UE) no 1094/2010 et du règlement (UE) no 1095/2010 respectivement.",
+      "text_sha256": "67f35bdf69f0a55c56a49df0af053f817f94de848467213db14ba9f90b041417",
+      "md_span": {
+        "start": 58696,
+        "end": 61051
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002L0087",
+          "text": "32002L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Modifications à la directive 73/239/CEE",
+      "path": [
+        "CHAPITRE IV",
+        "MODIFICATIONS AUX DIRECTIVES EN VIGUEUR"
+      ],
+      "article_valid_from": null,
+      "text_md": "La directive 73/239/CEE est modifiée comme suit.\n\n1. L'article suivant est inséré:\n\n«Article 12 bis\n\n1. Les autorités compétentes de l'autre État membre concerné sont consultées avant l'octroi d'un agrément à une entreprise d'assurance qui est:\n\na) une filiale d'une entreprise d'assurance agréée dans un autre État membre ou\n\nb) une filiale de l'entreprise mère d'une entreprise d'assurance agréée dans un autre État membre ou\n\nc) contrôlée par une personne, physique ou morale, qui contrôle également une entreprise d'assurance agréée dans un autre État membre.\n\n2. L'autorité compétente d'un État membre concerné chargée de la surveillance des établissements de crédit ou des entreprises d'investissement est consultée avant l'octroi d'un agrément à une entreprise d'assurance qui est:\n\na) une filiale d'un établissement de crédit agréé ou d'une entreprise d'investissement agréée dans la Communauté ou\n\nb) une filiale de l'entreprise mère d'une entreprise d'investissement agréée ou d'un établissement de crédit agréé dans la Communauté ou\n\nc) contrôlée par une personne, physique ou morale, qui contrôle également une entreprise d'investissement agréée ou un établissement de crédit agréé dans la Communauté.\n\n3. Les autorités compétentes concernées aux paragraphes 1 et 2 se consultent en particulier aux fins d'évaluer la qualité des actionnaires ainsi que l'honorabilité et la compétence des dirigeants associés à la gestion d'une autre entité du même groupe. Elles se communiquent mutuellement toute information concernant ces questions, dès lors que cette information intéresse les autres autorités compétentes concernées, tant pour l'octroi d'un agrément que pour le contrôle continu du respect des conditions d'exercice.»\n\n2. À l'article 16, paragraphe 2, les alinéas suivants sont ajoutés:\n\n«La marge de solvabilité disponible est également diminuée des éléments suivants:\n\na) les participations que l'entreprise d'assurance détient dans:\n\n— des entreprises d'assurance au sens de l'article 6 de la présente directive, de l'article 6 de la première directive 79/267/CEE du Conseil du 5 mars 1979 portant coordination des dispositions législatives, réglementaires et administratives concernant l'accès à l'activité de l'assurance directe sur la vie, et son exercice (21) ou de l'article 1er, point b), de la directive 98/78/CE du Parlement européen et du Conseil (22),\n\n— des entreprises de réassurance au sens de l'article 1er, point c), de la directive 98/78/CE,\n\n— des sociétés *holdings* d'assurance au sens de l'article 1er, point i), de la directive 98/78/CE,\n\n— des établissements de crédit et des établissements financiers au sens de l'article 1er, points 1 et 5, de la directive 2000/12/CE du Parlement européen et du Conseil (23),\n\n— des entreprises d'investissement et des établissements financiers au sens de l'article 1er, paragraphe 2, de la directive 93/22/CEE (24) et de l'article 2, paragraphes 4 et 7, de la directive 93/6/CEE (25),\n\nb) chacun des éléments ci-après que l'entreprise d'assurance détient sur les entités définies au point a) dans lesquelles elle détient une participation:\n\n— les instruments visés au paragraphe 3,\n\n— les instruments visés à l'article 18, paragraphe 3, de la directive 79/267/CEE,\n\n— les créances subordonnées et les instruments visés à l'article 35 et à l'article 36, paragraphe 3, de la directive 2000/12/CE.\n\nLorsqu'une participation est détenue temporairement dans un autre établissement de crédit, une autre entreprise d'investissement, un autre établissement financier, une autre entreprise d'assurance, une autre entreprise de réassurance ou une autre société *holding* d'assurance aux fins d'une opération d'assistance financière visant à assainir et à sauver cette entité, l'autorité compétente peut déroger aux dispositions relatives à la déduction visées au quatrième alinéa, points a) et b).\n\nEn guise d'alternative à la déduction des éléments visés au quatrième alinéa, points a) et b), détenus par l'entreprise d'assurance dans des établissements de crédit, des entreprises d'investissement et des établissements financiers, les États membres peuvent permettre à leurs entreprises d'assurance d'appliquer *mutatis mutandis* les méthodes 1, 2 ou 3 de l'annexe I de la directive 2002/87/CE du Parlement européen et du Conseil du 16 décembre 2002 relative à la surveillance complémentaire des établissements de crédit, des entreprises d'assurance et des entreprises d'investissement appartenant à un conglomérat financier (26). La méthode no 1 (consolidation comptable) n'est appliquée que si l'autorité compétente est sûre du niveau de gestion intégrée et de contrôle interne des entreprises qui relèveraient de la consolidation. La méthode choisie est appliquée de manière cohérente sur le long terme.\n\nLes États membres peuvent prévoir que, pour le calcul de la marge de solvabilité prévu par la présente directive, les entreprises d'assurance soumises à la surveillance complémentaire en application de la directive 98/78/CE ou de la directive 2002/87/CE peuvent ne pas déduire les éléments visés au quatrième alinéa, points a) et b), qui sont détenus dans des établissements de crédit, des entreprises d'investissement, des établissements financiers, des entreprises d'assurance ou de réassurance ou des sociétés *holdings* d'assurance relevant de la surveillance complémentaire.\n\nAux fins de la déduction de participations visée au présent paragraphe, on entend par “participation” une participation au sens de l'article 1er, point f), de la directive 98/78/CE.",
+      "text_sha256": "18b44dbb12c8e1c8a60b29baebdd883ae132cec3cc9ff38def2d080ada8f818a",
+      "md_span": {
+        "start": 61193,
+        "end": 66733
+      },
+      "citations": [
+        {
+          "href": "#E0021",
+          "text": "21"
+        },
+        {
+          "href": "#E0022",
+          "text": "22"
+        },
+        {
+          "href": "#E0023",
+          "text": "23"
+        },
+        {
+          "href": "#E0024",
+          "text": "24"
+        },
+        {
+          "href": "#E0025",
+          "text": "25"
+        },
+        {
+          "href": "#E0026",
+          "text": "26"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Modifications à la directive 79/267/CEE",
+      "path": [
+        "CHAPITRE IV",
+        "MODIFICATIONS AUX DIRECTIVES EN VIGUEUR"
+      ],
+      "article_valid_from": null,
+      "text_md": "La directive 79/267/CEE est modifiée comme suit.\n\n1 L'article suivant est inséré:\n\n«Article 12 bis\n\n1. Les autorités compétentes de l'autre État membre concerné sont consultées avant l'octroi d'un agrément à une entreprise d'assurance vie qui est:\n\na) une filiale d'une entreprise d'assurance agréée dans un autre État membre ou\n\nb) une filiale de l'entreprise mère d'une entreprise d'assurance agréée dans un autre État membre ou\n\nc) contrôlée par une personne, physique ou morale, qui contrôle également une entreprise d'assurance agréée dans un autre État membre.\n\n2. L'autorité compétente d'un État membre concerné responsable de la surveillance des établissements de crédit ou des entreprises d'investissement est consultée avant l'octroi d'un agrément à une entreprise d'assurance vie qui est:\n\na) une filiale d'un établissement de crédit agréé ou d'une entreprise d'investissement agréée dans la Communauté ou\n\nb) une filiale de l'entreprise mère d'une entreprise d'investissement agréée ou d'un établissement de crédit agréé dans la Communauté ou\n\nc) contrôlée par une personne, physique ou morale, qui contrôle également une entreprise d'investissement agréée ou un établissement de crédit agréé dans la Communauté.\n\n3. Les autorités compétentes concernées visées aux paragraphes 1 et 2 se consultent en particulier aux fins d'évaluer la qualité des actionnaires ainsi que l'honorabilité et la compétence des dirigeants associés à la gestion d'une autre entité du même groupe. Elles se communiquent mutuellement toute information concernant ces questions, dès lors que cette information intéresse les autres autorités compétentes concernées, tant par l'octroi d'un agrément que par le contrôle continu du respect des conditions d'exercice.»\n\n2 À l'article 18, paragraphe 2, les alinéas suivants sont ajoutés:\n\n«La marge de solvabilité disponible est également diminuée des éléments suivants:\n\na) les participations que l'entreprise d'assurance détient dans:\n\n— des entreprises d'assurance au sens de l'article 6 de la présente directive, de l'article 6 de la directive 73/239/CEE (27) ou de l'article 1er, point b), de la directive 98/78/CE du Parlement européen et du Conseil (28),\n\n— des entreprises de réassurance au sens de l'article 1er, point c), de la directive 98/78/CE,\n\n— des sociétés *holdings* d'assurance au sens de l'article 1er, point i), de la directive 98/78/CE,\n\n— des établissements de crédit et des établissements financiers au sens de l'article 1er, points 1) et 5), de la directive 2000/12/CE (29),\n\n— des entreprises d'investissement et des établissements financiers au sens de l'article 1er, paragraphe 2, de la directive 93/22/CEE (30) et de l'article 2, paragraphes 4 et 7, de la directive 93/6/CEE (31);\n\nb) chacun des éléments ci-après que l'entreprise d'assurance détient sur les entités définies au point a) dans lesquelles elle détient une participation:\n\n— les instruments visés au paragraphe 3,\n\n— les instruments visés à l'article 16, paragraphe 3, de la directive 73/239/CEE;\n\n— les créances subordonnées et les instruments visés à article 35 et à l'article 36, paragraphe 3, de la directive 2000/12/CE.\n\nLorsqu'une participation est détenue temporairement dans un autre établissement de crédit, une autre entreprise d'investissement, un autre établissement financier, une autre entreprise d'assurance, une autre entreprise de réassurance ou une autre société *holding* d'assurance aux fins d'une opération d'assistance financière visant à assainir et à sauver cette entité, l'autorité compétente peut déroger aux dispositions relatives à la déduction visées au troisième alinéa, points a) et b).\n\nEn guise d'alternative à la déduction des éléments visés au troisième alinéa, points a) et b), détenus par l'entreprise d'assurance dans des établissements de crédit, des entreprises d'investissement et des établissements financiers, les États membres peuvent permettre à leurs entreprises d'assurance d'appliquer, mutatis mutandis, les méthodes 1, 2 ou 3 de l'annexe I de la directive 2002/87/CE du Parlement européen et du Conseil du 16 décembre 2002 relative à la surveillance complémentaire des établissements de crédit, des entreprises d'assurance et des entreprises d'investissement appartenant à un conglomérat financier (32). La méthode no 1 (“consolidation comptable”) n'est appliquée que si l'autorité compétente est sûre du niveau de gestion intégrée et de contrôle interne des entités qui relèveraient de la consolidation. La méthode choisie est appliquée de manière cohérente sur le long terme.\n\nLes États membres peuvent prévoir que, pour le calcul de la marge de solvabilité prévu par la présente directive, les entreprises d'assurance soumises à la surveillance complémentaire en application de la directive 98/78/CE ou de la directive 2002/87/CE peuvent ne pas déduire les éléments visés au troisième alinéa, points a) et b), qui sont détenus dans des établissements de crédit, des entreprises d'investissement, des établissements financiers, des entreprises d'assurance ou de réassurance ou des sociétés *holdings* d'assurance relevant de la surveillance complémentaire.\n\nAux fins de la déduction de participations visée au présent paragraphe, on entend par participation une participation au sens de l'article 1er, point f), de la directive 98/78/CE.",
+      "text_sha256": "43596cc88b27538e9f6dee070140dad23642d78d74eb6ade54b1c5669e212dd6",
+      "md_span": {
+        "start": 66814,
+        "end": 72125
+      },
+      "citations": [
+        {
+          "href": "#E0027",
+          "text": "27"
+        },
+        {
+          "href": "#E0028",
+          "text": "28"
+        },
+        {
+          "href": "#E0029",
+          "text": "29"
+        },
+        {
+          "href": "#E0030",
+          "text": "30"
+        },
+        {
+          "href": "#E0031",
+          "text": "31"
+        },
+        {
+          "href": "#E0032",
+          "text": "32"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Modifications à la directive 92/49/CEE",
+      "path": [
+        "CHAPITRE IV",
+        "MODIFICATIONS AUX DIRECTIVES EN VIGUEUR"
+      ],
+      "article_valid_from": null,
+      "text_md": "La directive 92/49/CEE est modifiée comme suit.\n\n1 À l'article 15, le paragraphe suivant est inséré:\n\n«1 *bis*. Si l'acquéreur d'une participation visée au paragraphe 1 est une entreprise d'assurance agréée, un établissement de crédit agréé ou une entreprise d'investissement agréée dans un autre État membre, ou l'entreprise mère d'une telle entité, ou une personne physique ou morale contrôlant une telle entité, et si, en conséquence de cette acquisition, l'entreprise dans laquelle l'acquéreur se propose de détenir une participation deviendrait une filiale dudit acquéreur ou serait contrôlée par lui, l'évaluation de son acquisition doit être soumise à la procédure de consultation préalable visÈe à l'article 12 *bis* de la directive 73/239/CEE.»\n\n2 À l'article 16, le paragraphe 5*quater*est remplacé par le texte suivant:\n\n«5 *quater*. Le présent article ne fait pas obstacle à ce qu'une autoritÈ compÈtente transmette:\n\n— aux banques centrales et aux autres organismes à vocation similaire en tant qu'autorités monétaires,\n\n— le cas échéant, à d'autres autorités publiques chargéesde la surveillance des systËmes de paiement,\n\ndes informations destinÈes à l'accomplissement de leur mission ni à ce que ces autorités ou organismes communiquent aux autorités compétentes les informations qui leur sont nécessaires aux fins du paragraphe 4. Les informations reÁues dans ce cadre sont soumises au secret professionnel imposé par le prÈsent article.»",
+      "text_sha256": "cf6086d1e1a15b2e0a3b1f681c6da1256378f8429162b8399868ca3385efd021",
+      "md_span": {
+        "start": 72205,
+        "end": 73660
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": "Modifications à la directive 92/96/CEE",
+      "path": [
+        "CHAPITRE IV",
+        "MODIFICATIONS AUX DIRECTIVES EN VIGUEUR"
+      ],
+      "article_valid_from": null,
+      "text_md": "La directive 92/96/CEE est modifiée comme suit.\n\n1 À l'article 14, le paragraphe suivant est inséré:\n\n«1 *bis*. Si l'acquéreur d'une participation visèe au paragraphe 1 est une entreprise d'assurance agréée, un établissement de crédit agréé ou une entreprise d'investissement agréée dans un autre État membre, ou l'entreprise mère d'une telle entité, ou une personne physique ou morale contrôlant une telle entité, et si, en conséquence de cette acquisition, l'entreprise dans laquelle l'acquéreur se propose de détenir une participation deviendrait une filiale dudit acquéreur ou serait contrÙlÈe par lui, l'évaluation de son acquisition doit Ítre soumise à la procédure de consultation préalable visée à l'article 12 *bis* de la directive 79/267/CEE.»\n\n2. À l'article 15, le paragraphe 5*quater*est remplacé par le texte suivant:\n\n«5*quater*. Le présent article ne fait pas obstacle à ce qu'une autorité compétente transmette:\n\n— aux banques centrales et aux autres organismes à vocation similaire en tant qu'autorités monétaires,\n\n— le cas échéant, à d'autres autorités publiques chargées de la surveillance des systèmes de paiement,\n\ndes informations destinées à l'accomplissement de leur mission ni à ce que ces autoritÈs ou organismes communiquent aux autorités compétentes les informations qui leur sont nécessaires aux fins du paragraphe 4. Les informations reçues dans ce cadre sont soumises au secret professionnel imposé par le prÈsent article.",
+      "text_sha256": "2fa4551b933dcfe2d1473d878aab14fded99ad25558df7ef04468cde33588b2a",
+      "md_span": {
+        "start": 73740,
+        "end": 75195
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": "Modifications à la directive 93/6/CEE",
+      "path": [
+        "CHAPITRE IV",
+        "MODIFICATIONS AUX DIRECTIVES EN VIGUEUR"
+      ],
+      "article_valid_from": null,
+      "text_md": "À l'article 7, paragraphe3, de la directive 93/6/CEE, le premier et le deuxième tirets sont remplacés par le texte suivant.\n\n«— une compagnie financière *holding* est un établissement financier dont les filiales sont soit exclusivement ou principalement des entreprises d'investissement, soit d'autres établissements financiers, l'une au moins de ces filiales étant une entreprise d'investissement, et qui n'est pas une compagnie financière *holding* mixte au sens de la directive 2002/87/CE du Parlement européen et du Conseil du 16 décembre 2002 relative à la surveillance complémentaire des établissements de crédit, des entreprises d'assurance et des entreprises d'investissement appartenant à un conglomérat financier (33),\n\n— une compagnie *holding* mixte est une entreprise mère autre qu'une compagnie financière *holding* ou une entreprise d'investissement ou une compagnie financière *holding* mixte au sens de la directive 2002/87/CE, qui compte parmi ses filiales au moins une entreprise d'investissement,",
+      "text_sha256": "e4c7fcc1845f443003e6c5481d666bb0ebf2d66967235887f1ee36580c74150f",
+      "md_span": {
+        "start": 75274,
+        "end": 76290
+      },
+      "citations": [
+        {
+          "href": "#E0033",
+          "text": "33"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27",
+      "heading": "Modifications à la directive 93/22/CEE",
+      "path": [
+        "CHAPITRE IV",
+        "MODIFICATIONS AUX DIRECTIVES EN VIGUEUR"
+      ],
+      "article_valid_from": null,
+      "text_md": "La directive 93/22/CEE est modifiée comme suit.\n\n1) À l'article 6, les alinéas suivants sont ajoutés:\n\n«L'autorité compétente d'un État membre concerné chargée de la surveillance des établissements de crédit ou des entreprises d'assurance est consultée avant l'octroi d'un agrément à une entreprise d'investissement qui est:\n\na) une filiale d'un établissement de crédit agréé ou d'une entreprise d'assurance agréée dans la Communauté, ou\n\nb) une filiale de l'entreprise mère d'un établissement de crédit agréé ou d'une entreprise d'assurance agréée dans la Communauté, ou\n\nc) contrôlée par une personne, physique ou morale, qui contrôle également un établissement de crédit agréé ou une entreprise d'assurance agréée dans la Communauté.\n\nLes autorités compétentes concernées visées aux paragraphes 1 et 2 se consultent en particulier aux fins d'évaluer la qualité des actionnaires ainsi que l'honorabilité et la compétence des dirigeants associés à la gestion d'une autre entité du même groupe. Elles se communiquent mutuellement toute information concernant ces questions, dès lors que cette information intéresse les autres autorités compétentes concernées tant par l'octroi d'un agrément que par le contrôle continu du respect des conditions d'exercice.»;\n\n2) à l'article 9, le paragraphe 2 est remplacé par le texte suivant:\n\n«L'autorité compétente d'un État membre concerné chargée de la surveillance des entreprises d'assurance ou des entreprises d'investissement est consultée avant l'octroi d'un agrément ‡ un établissement de crédit qui est:\n\na) une filiale d'une entreprise d'assurance ou d'une entreprise d'investissement agréée dans la Communauté, ou\n\nb) une filiale de l'entreprise mère d'une entreprise d'assurance ou d'une entreprise d'investissement agréée dans la Communauté, ou\n\nc) contrôlée par une personne, physique ou morale, qui contrôle également une entreprise d'assurance ou une entreprise d'investissement agréée dans la Communauté.\n\nLes autorités compétentes concernées visées aux paragraphes 1 et 2 se consultent en particulier aux fins d'évaluer la qualité des actionnaires ainsi que l'honorabilité et la compétence des dirigeants associés à la gestion d'une autre entité du même groupe. Elles se communiquent mutuellement toute information concernant ces questions, dès lors que cette information intéresse les autres autorités compétentes concernées tant par l'octroi d'un agrément que par le contrôle continu du respect des conditions d'exercice.»;",
+      "text_sha256": "9b96eaf20b3df2cd92d88aac4d939562383f72f845433aa7e91382f30979b492",
+      "md_span": {
+        "start": 76370,
+        "end": 78851
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Article 28",
+      "heading": "Modifications à la directive 98/78/CE",
+      "path": [
+        "CHAPITRE IV",
+        "MODIFICATIONS AUX DIRECTIVES EN VIGUEUR"
+      ],
+      "article_valid_from": null,
+      "text_md": "La directive 98/78/CE est modifiée comme suit:\n\n1) à l'article 1er, les points g), h), i) et j) sont remplacés par les points suivants:\n\n«g) “entreprise participante”: une entreprise qui est soit une entreprise mère, soit une autre entreprise qui détient une participation, ou une entreprise liée à une autre entreprise par une relation au sens de l'article 12, paragraphe 1, de la directive 83/349/CEE;\n\nh) “entreprise liée”: une entreprise qui est soit une filiale, soit une autre entreprise dans laquelle une participation est détenue, ou une entreprise liée à une autre entreprise par une relation au sens de l'article 12, paragraphe 1, de la directive 83/349/CEE;\n\ni) “société *holding* d'assurance”: une entreprise mère dont l'activité principale consiste à acquérir et à détenir des participations dans des entreprises filiales lorsque ces entreprises filiales sont exclusivement ou principalement des entreprises d'assurance, des entreprises de réassurance ou des entreprises d'assurance de pays tiers, l'une au moins de ces entreprises filiales étant une entreprise d'assurance, et qui n'est pas une compagnie financière *holding* mixte au sens de la directive 2002/487/CE du Parlement européen et du Conseil du 16 décembre 2002 relative à la surveillance complémentaire des établissements de crédit, des entreprises d'assurance et des entreprises d'investissement appartenant à un conglomérat financier (34);\n\nj) “société *holding* mixte d'assurance”: une entreprise mère, autre qu'une entreprise d'assurance, qu'une entreprise d'assurance d'un pays tiers, qu'une entreprise de réassurance, qu'une société *holding* d'assurance ou qu'une compagnie financière *holding* mixte au sens de la directive 2002/87/CE, qui compte parmi ses entreprises filiales au moins une entreprise d'assurance;\n\n2) à l'article 6, paragraphe 3, la phrase suivante est ajoutée:\n\n«Lorsqu'elle ne procède pas elle-même à la vérification, l'autorité compétente qui a présenté la demande peut, si elle le souhaite, y être associée.»;\n\n3) à l'article 8, paragraphe 2, le premier alinéa est remplacé par le texte suivant:\n\n«Les États membres exigent des entreprises d'assurance qu'elles mettent en place des procédures adéquates de gestion des risques ainsi que des dispositifs de contrôle interne appropriés, comprenant des procédures saines d'information et de comptabilité, afin de détecter, de mesurer, d'encadrer et de contrôler, de manière appropriée, les transactions comme prévu au paragraphe 1. Les États membres exigent en outre des entreprises d'assurance qu'elles communiquent, au moins une fois par an, les transactions importantes aux autorités compétentes. Ces procédures et dispositifs font l'objet d'un contrôle de la part des autorités compétentes.»;\n\n4) les articles suivants sont insérés:\n\n«Article 10 bis\n\nCoopération avec les autorités compétentes de pays tiers\n\n1. La Commission peut soumettre des propositions au Conseil, soit à la demande d'un État membre, soit de sa propre initiative, en vue de négocier des accords avec un ou plusieurs pays tiers, relativement aux modalités d'exercice de la surveillance complémentaire sur:\n\na) des entreprises d'assurance ayant pour entreprises participantes des entreprises au sens de l'article 2, dont le siège social se situe dans un pays tiers, et\n\nb) des entreprises d'assurance de pays tiers ayant pour entreprisesparticipantes des entreprises au sens de l'article 2, dont le siège social est situé dans la Communauté.\n\n2. Les accords visés au paragraphe 1 visent en particulier à garantir à la fois:\n\na) que les autorités compétentes des États membres peuvent obtenir les informations nécessaires à la surveillance complémentaire des entreprises d'assurance dont le siège social est situé dans la Communauté et qui ont des filiales ou détiennent des participations dans des entreprises hors de la Communauté, et\n\nb) que les autorités compétentes de pays tiers peuvent obtenir les informations nécessaires à la surveillance complémentaire des entreprises d'assurance dont le siège social est situé sur leur territoire et qui ont des filiales ou détiennent des participations dans des entreprises établies dans un ou plusieurs États membres.\n\n3. La Commission et le comité des assurances évaluent l'issue des négociations visées au paragraphe 1 et la situation qui en résulte.\n\nArticle 10 ter\n\nResponsables de la direction des sociétés holding d'assurance\n\nLes États membres exigent que les personnes qui dirigent effectivement les affaires d'une société *holding* d'assurance possèdent l'honorabilité nécessaire et l'expérience suffisante pour exercer ces fonctions.»;\n\n5) à l'annexe I, point 1 B, l'alinéa suivant est ajouté:\n\n«Lorsqu'il n'y a pas de lien en capital entre certaines des entreprises appartenant au groupe d'assurance, l'autorité compétente détermine quelle part proportionnelle doit être prise en considération.»\n\n6) à l'annexe I, point 2, le point suivant est ajouté:\n\n«2.4 *bis*. **Établissements de crédit, entreprises d'investissements et établissements financiers liés**\n\nLors du calcul de la solvabilité ajustée d'une entreprise d'assurance participante d'un établissement de crédit, d'une entreprise d'investissement ou d'un établissement financier, les règles énoncées à l'article 16, paragraphe 1, de la directive 73/239/CEE et à l'article 18 de la directive 79/267/CEE relatives à la déduction de ces participations s'appliquent *mutatis mutandis,* de même que les dispositions permettant aux États membres d'autoriser, dans certaines circonstances, le recours à d'autres méthodes et de permettre que ces participations ne soient pas déduites.»",
+      "text_sha256": "d679f910dbc9aff4b5fd40e0fc01a4596405e1bd98839a063653b9148e275ef3",
+      "md_span": {
+        "start": 78930,
+        "end": 84551
+      },
+      "citations": [
+        {
+          "href": "#E0034",
+          "text": "34"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Article 29",
+      "heading": "Modifications à la directive 2000/12/CE",
+      "path": [
+        "CHAPITRE IV",
+        "MODIFICATIONS AUX DIRECTIVES EN VIGUEUR"
+      ],
+      "article_valid_from": null,
+      "text_md": "La directive 2000/12/CE est modifiée comme suit:\n\n1) l'article 1er est modifié comme suit:\n\na) le point 9 est remplacé par le texte suivant:\n\n«9. “participation aux fins de l'application de la surveillance sur une base consolidée ainsi qu'aux fins de l'application de l'article 34, paragraphe 2, points 15) et 16)”: une participation au sens de l'article 17, première phrase, de la directive 78/660/CEE, ou le fait de détenir, directement ou indirectement, au moins 20 % des droits de vote ou du capital d'une entreprise;»;\n\nb) les points 21 et 22 sont remplacés par le texte suivant:\n\n«21 “compagnie financière *holding*”: un établissement financier dont les entreprises filiales sont exclusivement ou principalement des établissements de crédit ou des établissements financiers, l'une au moins de ces filiales étant un établissement de crédit, et qui n'est pas une compagnie financière *holding* mixte au sens de la directive 2002/87/CE du Parlement européen et du Conseil du 16 décembre 2002 relative à la surveillance complémentaire des établissements de crédit, des entreprises d'assurance et des entreprises d'investissement appartenant à un conglomérat financier (35);\n\n22. “compagnie *holding* mixte”: une entreprise mère autre qu'une compagnie financière *holding* ou un établissement de crédit ou une compagnie financière *holding* mixte au sens de la directive 2002/87/CE, qui compte parmi ses filiales au moins un établissement de crédit;;\n\n2) à l'article 12, les alinéas suivants sont ajoutés:\n\n«L'autorité compétente d'un État membre concerné chargée de la surveillance des entreprises d'assurance ou des entreprises d'investissement est consultée avant l'octroi d'un agrément à un établissement de crédit qui est:\n\na) une filiale d'une entreprise d'assurance ou d'une entreprise d'investissement agréée dans la Communauté, ou\n\nb) une filiale de l'entreprise mère d'une entreprise d'assurance ou d'une entreprise d'investissement agréée dans la Communauté, ou\n\nc) contrôlée par une personne, physique ou morale, qui contrôle également une entreprise d'assurance ou une entreprise d'investissement agréée dans la Communauté.\n\nLes autorités compétentes concernées visées aux paragraphes 1 et 2 se consultent en particulier aux fins d'évaluer la qualité des actionnaires ainsi que l'honorabilité et la compétence des dirigeants associés à la gestion d'une autre entité du même groupe. Elles se communiquent mutuellement toute information concernant ces questions, dès lors que cette information intéresse les autres autorités compétentes concernées tant par l'octroi d'un agrément que par le contrôle continu du respect des conditions d'exercice.»;\n\n3) à l'article 16, le paragraphe 2 est remplacé par le texte suivant:\n\n«2. Si l'acquéreur d'une participation visée au paragraphe 1 est un établissement de crédit agréé, une entreprise d'assurance agréée ou une entreprise d'investissement agréée dans un autre État membre, ou l'entreprise mère d'une telle entité, ou une personne physique ou morale contrôlant une telle entité, et si, en conséquence de cette acquisition, l'entreprise dans laquelle l'acquéreur se propose de détenir une participation deviendrait une filiale dudit acquÈreur ou serait contrôlée par lui, l'évaluation de son acquisition doit être soumise à la procédure de consultation préalable visée à l'article 12.»;\n\n4) à l'article 34, le paragraphe 2 est modifié comme suit:\n\na) au premier alinéa, les points 12 et 13 sont remplacés par le texte suivant:\n\n«12) les participations dans d'autres établissements de crédit et établissements financiers supérieures à 10 % du capital de ces derniers;\n\n13) les créances subordonnées et les instruments visés à l'article 35 et à l'article 36, paragraphe 3, que l'établissement de crédit détient sur des établissements de crédit et des établissements financiers dans lesquels il a une participation supérieure à 10 % de leur capital;\n\n14) les participations dans d'autres établissements de crédit et établissements financiers inférieures ou égales à 10 % du capital de ces derniers, ainsi que les créances subordonnées et les instruments visés à l'article 35 et à l'article 36, paragraphe 3, que l'établissement de crédit détient sur des établissements de crédit ou des établissements financiers autres que ceux visés aux points 12 et 13 du présent alinéa pour le montant du total de ces participations, créances subordonnées et instruments qui dépassent 10 % des fonds propres de l'établissement de crédit calculés avant la déduction des éléments visés aux points 12 à 16 du présent alinéa;\n\n15) les participations au sens de l'article 1er, point 9, qu'un établissement de crédit détient dans:\n\n— des entreprises d'assurance au sens de l'article 6 de la directive 73/239/CEE, de l'article 6 de la directive 79/267/CEE ou de l'article 1 er, point b), de la directive 98/78/CE du Parlement européen et du Conseil (36),\n\n— des entreprises de réassurance au sens de l'article 1er, point c), de la directive 98/78/CE,\n\n— des sociétés *holding* d'assurance au sens de l'article 1er, point i), de la directive 98/78/CE;\n\n16) chacun des éléments suivants que l'établissement de crédit détient sur les entités définies au point 15 dans lesquelles il détient une participation:\n\n— les instruments visés à l'article 16, paragraphe 3, de la directive 73/239/CEE,\n\n— les instruments visés à l'article 18, paragraphe 3, de la directive 79/267/CEE\n\nb) le deuxième alinéa est remplacé par le texte suivant:\n\n«Lorsqu'une participation est détenue temporairement dans un autre établissement de crédit, un autre établissement financier, une autre entreprise d'assurance ou de réassurance ou une autre société *holding* d'assurance aux fins d'une opération d'assistance financière visant à assainir et à sauver cette entité, l'autorité compétente peut déroger aux dispositions relatives à la déduction visées aux points 12 à 16.\n\nEn guise d'alternative à la déduction des éléments visés aux points 15 et 16, les États membres peuvent permettre à leurs établissements de crédit d'appliquer *mutatis mutandis* les méthodes 1, 2 ou 3 de l'annexe I de la directive 2002/87/CE. La méthode no 1 (“consolidation comptable”) n'est appliquée que si l'autorité compétente est sûre du niveau de gestion intégrée et de contrôle interne des entités qui relèveraient de la consolidation. La méthode choisie est appliquée de manière cohérente sur le long terme.\n\nLes États membres peuvent prévoir que, pour le calcul des fonds propres sur une base individuelle, les établissements de crédit soumis à une surveillance consolidée en application du chapitre 3 ou à une surveillance complémentaire en application de la directive 2002/87/CE peuvent ne pas déduire les éléments visés aux points 12 à 16 qui sont détenus dans des établissements de crédit, des établissements financiers, des entreprises d'assurance ou de réassurance ou des compagnies *holdings* d'assurance, relevant du champ d'application de la surveillance consolidée ou complémentaire.\n\nCette disposition vaut pour l'ensemble des règles prudentielles harmonisées par des actes communautaires.»;\n\n5) à l'article 51, le paragraphe 3 est remplacé par le texte suivant:\n\n«3. Les États membres peuvent ne pas appliquer les limitations énoncées aux paragraphes 1 et 2 aux participations détenues dans des entreprises d'assurance au sens de la directive 73/239/CEE et de la directive 79/267/CEE, ou dans des entreprises de réassurance au sens de la directive 98/78/CE.»;\n\n6) à l'article 52, paragraphe 2, la dernière phrase est remplacée par le texte suivant:\n\n«Sans préjudice de l'article 54 *bis*, la consolidation de la situation financière de la compagnie financière *holding* n'implique en aucune manière que les autorités compétentes soient tenues d'exercer une fonction de surveillance sur la compagnie financière *holding* sur un plan individuel.»,\n\n7) l'article 54 est modifié comme suit:\n\na) au paragraphe 1, l'alinéa suivant est ajouté:\n\n«Dans le cas d'entreprises liées par une relation au sens de l'article 12, paragraphe 1, de la directive 83/349/CEE, les autorités compétentes déterminent les modalités de la consolidation.»;\n\nb) au paragraphe 4, premier alinéa, le troisième tiret est supprimé;\n\n8) l'article suivant est inséré:\n\n«Article 54 bis\n\nResponsables de la direction des compagnies financières\n\nLes États membres exigent que les personnes qui dirigent effectivement les affaires d'une compagnie financière *holding* possèdent l'honorabilité nécessaire et l'expérience suffisante pour exercer ces fonctions.»;\n\n9) l'article suivant est inséré:\n\n«Article 55 bis\n\nTransactions intragroupe avec des compagnies holdings mixtes\n\nSans préjudice des dispositions du titre V, chapitre II, section 3, de la présente directive, les États membres prévoient que, lorsque l'entreprise mère d'un ou plusieurs établissements de crédit est une compagnie *holding* mixte, les autorités compétentes chargées de la surveillance desdits établissements de crédit exercent une surveillance générale sur les transactions qu'ils effectuent avec la compagnie *holding* mixte et ses filiales.\n\nLes autorités compétentes exigent des établissements de crédit qu'ils mettent en place des procédures adéquates de gestion des risques ainsi que des dispositifs de contrôle interne appropriés, comprenant des procédures saines d'information et de comptabilité, afin de détecter, de mesurer, d'encadrer et de contrôler, de manière appropriée, les transactions effectuées avec la compagnie *holding* mixte qu'ils ont pour entreprise mère et ses filiales. Les autorités compétentes exigent des établissements de crédit qu'ils leur communiquent toute transaction importante effectuée avec ces entités, autrement que dans les cas visés à l'article 48. Ces procédures et transactions importantes font l'objet d'un contrôle de la part des autorités compétentes.\n\nLorsque ces transactions intragroupe compromettent la situation financière d'un établissement de crédit, l'autorité compétente chargée de la surveillance de cet établissement prend des mesures appropriées.»;\n\n10) à l'article 56, paragraphe 7, la phrase suivante est ajoutée:\n\n«Lorsqu'elle ne procède pas elle-même à la vérification, l'autorité compétente qui a présenté la demande peut, si elle le souhaite, y être associée.»;\n\n11) l'article suivant est inséré:\n\n«Article 56 bis\n\nEntreprise mère établie dans un pays tiers\n\nLorsqu'un établissement de crédit, dont l'entreprise mère est un établissement de crédit ou une compagnie financière *holding* qui a son siège social en dehors de la Communauté, n'est pas soumis à une surveillance consolidée en vertu de l'article 52, les autorités compétentes vérifient que ledit établissement de crédit fait l'objet, de la part d'une autorité compétente d'un pays tiers, d'une surveillance consolidée équivalente à celle gouvernée par les principes énoncés à l'article 52. La vérification est effectuée par l'autorité compétente qui exercerait la surveillance consolidée si le quatrième alinéa s'appliquait, à la demande de l'entreprise mère ou de l'une quelconque des entités réglementées agréées dans la Communauté, ou de sa propre initiative. Ladite autorité compétente consulte les autres autorités compétentes concernées.\n\nLe comité consultatif bancaire peut donner des orientations générales sur la question de savoir si les régimes de surveillance consolidée des autorités compétentes de pays tiers sont susceptibles de permettre d'atteindre les objectifs de la surveillance consolidée définis dans le présent chapitre en ce qui concerne les établissements de crédit dont l'entreprise mère a son siège social en dehors de la Communauté. Le comité réexamine régulièrement toute orientation de cette nature et tient compte de toute modification apportée aux régimes de surveillance consolidée appliqués par lesdites autorités compétentes.\n\nL'autorité compétente qui effectue la vérificationspécifiée au deuxième alinéa tient compte de toute orientation de cette nature. À cette fin, l'autorité compétente peut également consulter le comité avant de prendre une décision.\n\nÀ défaut d'une surveillance équivalente, les États membres appliquent par analogie les dispositions de l'article 52 à l'établissement de crédit.\n\nEn guise d'alternative, les États membres habilitent leurs autorités compétentes à appliquer d'autres techniques prudentielles appropriées permettant d'atteindre les objectifs de la surveillance consolidée des établissements de crédit. Ces méthodes doivent être approuvées par l'autorité compétente qui serait chargée de la surveillance consolidée, après consultation des autres autorités compétentes concernées. Les autorités compétentes peuvent en particulier exiger la constitution d'une compagnie financière *holding* ayant son siège social dans la Communauté et appliquer les dispositions relatives à la surveillance consolidée à la situation consolidée de ladite compagnie. Les méthodes doivent permettre d'atteindre les objectifs de la surveillance consolidée définis dans le présent chapitre et être notifiées aux autres autorités compétentes concernées et à la Commission.».",
+      "text_sha256": "bb5fee94598443499875d66d9217f7b05be26e70c192038769bc4a05d156dc17",
+      "md_span": {
+        "start": 84632,
+        "end": 97721
+      },
+      "citations": [
+        {
+          "href": "#E0035",
+          "text": "35"
+        },
+        {
+          "href": "#E0036",
+          "text": "36"
+        }
+      ]
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Article 30",
+      "heading": "Sociétés de gestion de portefeuille",
+      "path": [
+        "CHAPITRE V",
+        "SOCIÉTÉS DE GESTION DE PORTEFEUILLE"
+      ],
+      "article_valid_from": null,
+      "text_md": "Dans l'attente d'une coordination ultérieure des règles sectorielles, les États membres veillent à ce que les sociétés de gestion de portefeuille relèvent:\n\na) du champ d'application de la surveillance consolidée des établissements de crédit et des entreprises d'investissement et/ou du champ d'application de la surveillance complémentaire des entreprises d'assurance appartenant à un groupe d'assurance, et\n\nb) lorsque le groupe est un conglomérat financier, du champ d'application de la surveillance complémentaire au sens de la présente directive.\n\nAux fins de l'application du premier alinéa, les États membres permettent à leurs autorités compétentes ou les chargent de décider selon quelles règles sectorielles (secteur bancaire, secteur de l'assurance ou secteur des services d'investissement) les sociétés de gestion de portefeuille sont couvertes par la surveillance consolidée et/ou complémentaire visée au premier alinéa, point a). Aux fins de la présente disposition, les règles sectorielles pertinentes prévoyant sous quelle forme et dans quelle mesure sont couverts les établissements financiers (lorsque les sociétés de gestion de portefeuille relèvent du champ d'application de la surveillance consolidée des établissements de crédit et des entreprises d'investissement) et les entreprises de réassurance (lorsque les sociétés de gestion de portefeuille relèvent du champ d'application de la surveillance complémentaire des entreprises d'assurance), s'appliquent *mutatis mutandis* aux sociétés de gestion de portefeuille. Aux fins de la surveillance complémentaire visée au premier alinéa, point b), la société de gestion de portefeuille est traitée comme appartenant au secteur dont elle relève en vertu du premier alinéa, point a).\n\nAux fins de la présente directive, lorsqu'une société de gestion de portefeuille fait partie d'un conglomérat financier, toute référence à la notion d'entité réglementée et toute référence à la notion d'autorités compétentes et d'autorités compétentes concernées est alors entendue comme une référence aux sociétés de gestion de portefeuille ou aux autorités responsables de la surveillance des sociétés de gestion de portefeuille respectivement. La présente disposition s'applique *mutatis mutandis* aux groupes visés au premier alinéa, point a).",
+      "text_sha256": "caa71e3a74405a2fe4b4c5b031658d687b36a632b2f07e18cb9ef44e449da613",
+      "md_span": {
+        "start": 97854,
+        "end": 100154
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Article 31",
+      "heading": "Rapport de la Commission",
+      "path": [
+        "CHAPITRE VI",
+        "DISPOSITIONS TRANSITOIRES ET FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Au plus tard le 11 août 2007, la Commission soumet au comité des conglomérats financiers visé à l'article 21 un rapport sur les pratiques des États membres et, si nécessaire, sur la nécessité d'une harmonisation plus poussée, en ce qui concerne:\n\n— l'inclusion des sociétés de gestion de portefeuille dans le champ d'application de la surveillance consolidée au niveau du groupe,\n\n— le choix et l'application des méthodes relatives à l'adéquation des fonds propres énoncées à l'annexe I,\n\n— la définition des transactions intragroupe importantes, de la concentration de risques importante, de la surveillance des transactions intragroupe et de la concentration de risques visées à l'annexe II, en particulier en ce qui concerne l'introduction de limites quantitatives et d'exigences qualitatives à cette fin,\n\n— les intervalles auxquels les conglomérats financiers procèdent au calcul des exigences en matière d'adéquation des fonds propres conformément à l'article 6, paragraphe 2, et notifient au coordinateur les concentrations de risques importantes conformément à l'article 7, paragraphe 2.\n\nLa Commission consulte le comité avant de soumettre ses propositions.\n\n2. Dans un délai d'un an à compter de la conclusion d'un accord international sur les dispositions relatives à la suppression du double emploi des fonds propres dans les groupes financiers, la Commission examine les moyens permettant d'aligner les dispositions de la présente directive sur ces accords internationaux concernés et, le cas échéant, fait des propositions appropriées.",
+      "text_sha256": "5b7f92ac5ed3cf48f76301ea33f748afbb2a2778ad1e456107d7baf19c6f6002",
+      "md_span": {
+        "start": 100278,
+        "end": 101830
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Article 32",
+      "heading": "Transposition",
+      "path": [
+        "CHAPITRE VI",
+        "DISPOSITIONS TRANSITOIRES ET FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive avant le 11 août 2004. Ils en informent immédiatement la Commission.\n\nLes États membres veillent à ce que les dispositions visées au premier alinéa s'appliquent, pour la première fois, à la surveillance des comptes de l'exercice social commençant le 1er janvier 2005 ou durant cette année.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.",
+      "text_sha256": "a7b18c5cc215cee5389ece307975c122828b1acb9034c05c696a8a3853219788",
+      "md_span": {
+        "start": 101885,
+        "end": 102594
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Article 33",
+      "heading": "Entrée en vigueur",
+      "path": [
+        "CHAPITRE VI",
+        "DISPOSITIONS TRANSITOIRES ET FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "La présente directive entre en vigueur le jour de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "d451f76ecff8c82ae666d44632ca01f15b9fed67e3b1db9bcc8f06a7d8dbf02c",
+      "md_span": {
+        "start": 102653,
+        "end": 102760
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Article 34",
+      "heading": "Destinataires",
+      "path": [
+        "CHAPITRE VI",
+        "DISPOSITIONS TRANSITOIRES ET FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres sont destinataires de la présente directive.",
+      "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+      "md_span": {
+        "start": 102815,
+        "end": 102877
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_i",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#annexe_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "ADÉQUATION DES FONDS PROPRES\n\nLe calcul des exigences complémentaires en matière d'adéquation des fonds propres pour les entités réglementées appartenant à un conglomérat financier, visées à l'article 6, paragraphe 1, est effectué conformément aux principes techniques et à l'une des méthodes exposés dans la présente annexe.\n\nSans préjudice des dispositions de l'alinéa suivant, les États membres permettent à leurs autorités compétentes, lorsqu'elles jouent le rôle de coordinateur à l'égard d'un conglomérat financier particulier, de décider, après consultation des autorités compétentes concernées et du conglomérat lui-même, quelle méthode est appliquée par ledit conglomérat financier.\n\nLes États membres peuvent exiger que le calcul soit effectué selon une méthode particulière parmi celles qui sont décrites dans la présente annexe si un conglomérat financier est coiffé par une entité réglementée qui a été agréée dans ledit État membre. Lorsqu'un conglomérat financier n'est pas coiffé par une entité réglementée au sens de l'article 1er, les États membres autorisent l'application de l'une ou l'autre des méthodes décrites dans la présente annexe, sauf lorsque les autorités compétentes concernées sont situées dans le même État membre, auquel cas, ledit État membre peut exiger l'application de l'une des méthodes.\n\nI. **Principes techniques**\n\n1. **Champ d'application et forme du calcul des exigences complémentaires en matière d'adéquation des fonds propres**\n\nQuelle que soit la méthode utilisée, lorsque l'entité est une filiale accusant un déficit de solvabilité ou, dans le cas d'une entité non réglementée du secteur financier, un déficit de solvabilité notionnel, on prend en considération le déficit de solvabilité total de la filiale. Lorsque dans ce cas, de l'avis du coordinateur, la responsabilité de l'entreprise mère détenant une part de capital est limitée, strictement et sans ambiguïté, à cette part de capital, ce dernier peut permettre qu'il soit tenu compte du déficit de solvabilité de la filiale sur une base proportionnelle.\n\nLorsqu'il n'y a pas de lien en capital entre des entreprises d'un même conglomérat financier, le coordinateur, après consultation des autres autorités compétentes concernées, détermine quelle part proportionnelle doit être considérée, en tenant compte de la responsabilité née de la relation existante.\n\n2. **Autres principes techniques**\n\nIndépendamment de la méthode utilisée pour calculer les exigences complémentaires en matière d'adéquation des fonds propres des entités réglementées appartenant à un conglomérat financier, telle qu'exposée à la section II de la présente annexe, le coordinateur et, le cas échéant, les autres autorités compétentes concernées veillent à ce que soient appliqués les principes suivants:\n\ni) l'usage multiple d'éléments pouvant entrer dans le calcul des fonds propres au niveau du conglomérat financier («double emploi des fonds propres»), ainsi que la création inadéquate de fonds propres intragroupe, doivent être exclus; pour garantir que soient exclus le double emploi des fonds propres et la création intragroupe de fonds propres, les autorités compétentes appliquent, par analogie, les principes pertinents énoncés dans les règles sectorielles correspondantes;\n\nii) dans l'attente d'une harmonisation plus poussée des règles sectorielles, les exigences de solvabilité applicables aux différents secteurs financiers représentés dans un conglomérat financier sont couvertes par des éléments de fonds propres conformément aux règles sectorielles correspondantes. En cas de déficit de fonds propres au niveau du conglomérat financier, seuls les éléments de fonds propres admis par l'ensemble de ces règles sectorielles («capitaux transsectoriels») entrent en ligne de compte pour la vérification du respect des exigences complémentaires de solvabilité.\n\nLorsque les règles sectorielles prévoient des limites à l'admissibilité de certains instruments de fonds propres qui pourraient être considérés comme des capitaux transsectoriels, ces limites s'appliquent *mutatis mutandis* au calcul des fonds propres au niveau du conglomérat financier.\n\nLors du calcul des fonds propres au niveau du conglomérat financier, les autorités compétentes tiennent compte également de la disponibilité et de la transférabilité effectives des fonds propres entre les différentes entités juridiques du groupe, compte tenu des objectifs fixés par les règles relatives à l'adéquation des fonds propres.\n\nLorsque, dans le cas d'une entité non réglementée du secteur financier, une exigence de solvabilité notionnelle est calculée comme indiqué à la section II de la présente annexe, on entend par «exigence de solvabilité notionnelle» l'exigence de fonds propres que l'entité en question aurait à respecter en vertu des règles sectorielles qui s'appliqueraient si elle était une entité réglementée du secteur financier considéré; dans le cas des sociétés de gestion de portefeuille, on entend par exigence de solvabilité l'exigence de capital visée à l'article 5 *bis*, paragraphe 1, point a), de la directive 85/611/CEE; l'exigence de solvabilité notionnelle d'une compagnie financière *holding* mixte est calculée conformément aux règles sectorielles du secteur financier le plus important dans le conglomérat financier.\n\nII. **Méthodes techniques de calcul**\n\nMéthode no 1: **consolidation comptable**\n\nLe calcul des exigences complémentaires en matière d'adéquation des fonds propres des entités réglementées appartenant à un conglomérat financier est effectué sur la base des comptes consolidés.\n\nLes exigences complémentaires en matière d'adéquation des fonds propres résultent de la différence entre:\n\ni) les fonds propres du conglomérat financier, calculés sur la base de sa situation financière consolidée; les éléments entrant dans ce calcul sont ceux admis par les règles sectorielles applicables,\n\net\n\nii) la somme des exigences de solvabilité applicables aux différents secteurs financiers représentés dans le groupe; pour chacun de ces secteurs, les exigences de solvabilité sont calculées en fonction des règles sectorielles correspondantes.\n\nLes règles sectorielles visées sont notamment: le titre V, chapitre 3, de la directive 2000/12/CE, pour les établissements de crédit; la directive 98/78/CE, pour les entreprises d'assurance et la directive 93/6/CEE, pour les établissements de crédit et les entreprises d'investissement.\n\nDans le cas des entités non réglementées du secteur financier, qui n'entrent pas dans le calcul des exigences sectorielles de solvabilité susmentionnées, on calcule une exigence de solvabilité notionnelle.\n\nLe résultat ne doit pas être négatif.\n\nMéthode no 2: **déduction et agrégation**\n\nLe calcul des exigences complémentaires en matière d'adéquation des fonds propres des entités réglementées appartenant à un conglomérat financier est effectué sur la base des comptes de chacune des entités du groupe.\n\nLes exigences complémentaires en matière d'adéquation des fonds propres résultent de la différence entre:\n\ni) la somme des fonds propres de toutes les entités du secteur financier réglementées et non réglementées appartenant au conglomérat financier; les éléments entrant dans ce calcul sont ceux admis par les règles sectorielles pertinentes,\n\net\n\nii) la somme\n\n— des exigences de solvabilité de toutes les entités du secteur financier réglementées et non réglementées du groupe; ces exigences de solvabilité sont calculées conformément aux règles sectorielles pertinentes, et\n\n— de la valeur comptable des participations dans d'autres entités du groupe.\n\nDans le cas des entités non réglementées du secteur financier, une exigence de solvabilité notionnelle est calculée. Les fonds propres et les exigences de solvabilité sont pris en considération pour leur part proportionnelle comme prévu à l'article 6, paragraphe 4, et conformément à la section I de la présente annexe.\n\nLe résultat ne doit pas être négatif.\n\nMéthode no 3: **valeur comptable/déduction d'une exigence**\n\nLe calcul des exigences complémentaires en matières d'adéquation des fonds propres des entités réglementées appartenant à un conglomérat financier est effectué sur la base des comptes de chacune des entités du groupe.\n\nLes exigences complémentaires en matière d'adéquation des fonds propres résultent de la différence entre:\n\ni) les fonds propres de l'entreprise mère ou de l'entité qui se trouve à la tête du conglomérat financier; les éléments entrant dans ce calcul sont ceux admis par les règles sectorielles applicables,\n\net\n\nii) la somme\n\n— de l'exigence de solvabilité de l'entreprise mère ou de l'entreprise faîtière visée au point i), et\n\n— de la valeur comptable des participations de celle-ci dans d'autres entités du groupe ou des exigences de solvabilité de ces entités, le montant le plus élevé des deux étant retenu; ces exigences de solvabilité sont prises en considération pour leur part proportionnelle, comme prévu à l'article 6, paragraphe 4, et conformément à la section I de la présente annexe.\n\n— Dans le cas des entités non réglementées du secteur financier, une exigence de solvabilité notionnelle est calculée. Lors de l'évaluation des éléments pouvant entrer dans le calcul des exigences complémentaires en matière d'adéquation des fonds propres, les participations peuvent être évaluées selon la méthode de la mise en équivalence, conformément à l'option prévue à l'article 59, paragraphe 2, point b), de la directive 78/660/CEE.\n\n— Le résultat ne doit pas être négatif.\n\nMéthode no 4: **combinaison des trois méthodes proposées ci-dessus**\n\nLes autorités compétentes peuvent permettre de combiner les méthodes 1, 2 et 3 ou seulement deux d'entre elles.",
+      "text_sha256": "523ba3a1abe7dcfc2954e93d9849aaf014c89f81e39ce2358f894b8a6e30e43a",
+      "md_span": {
+        "start": 102916,
+        "end": 112606
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_ii",
+      "provision_id": "eu-eurlex:32002l0087:2011-01-04#annexe_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "MISE EN ŒUVRE TECHNIQUE DES DISPOSITIONS RELATIVES AUX TRANSACTIONS INTRAGROUPE ET À LA CONCENTRATION DES RISQUES\n\nLe coordinateur, après consultation des autres autorités compétentes concernées détermine les catégories de transactions et de risques que les entités réglementées appartenant à un conglomérat financier donné déclarent conformément à l'article 7, paragraphe 2, et à l'article 8, paragraphe 2, relatifs à la notification des transactions intragroupe et des concentrations de risques. Lorsque le coordinateur et les autorités compétentes concernées déterminent les catégories de transactions et de risques ou émettent leur avis à ce sujet, ils tiennent compte de la structure spécifique du conglomérat financier et de sa gestion des risques. Pour pouvoir déterminer les transactions intragroupe et les concentrations de risques qui, en raison de leur importance, doivent être notifiées conformément aux articles 7 et 8, le coordinateur, après consultation des autres autorités compétentes concernées et du conglomérat lui-même, définit des seuils appropriés sur la base des fonds propres réglementaires et/ou des provisions techniques.\n\nDans lecontrôle qu'il exerce sur les transactions intragroupe et les concentrations de risques, le coordinateur porte une attention particulière au risque éventuel de contagion au sein du conglomérat financier, au risque de conflit d'intérêts, au risque de contournement des règles sectorielles et au niveau ou au volume des risques.\n\nLes États membres peuvent autoriser leurs autorités compétentes à appliquer au niveau du conglomérat financier les dispositions des règles sectorielles concernant les transactions intragroupe et la concentration des risques, en particulier afin d'éviter que les règles sectorielles ne soient contournées.\n\n(1) JO C 213 E du 31.7.2001, p. 227.\n\n(2) JO C 36 du 8.2.2002, p. 1.\n\n(3) JO C 271 du 26.9.2001, p. 10.\n\n(4) Avis du Parlement européen du 14 mars 2002 (non encore paru au Journal officiel), position commune du Conseil du 12 septembre 2002 (JO C 253 E du 22.10.2002, p. 1) et décision du Parlement européen du 20 novembre 2002 (non encore parue au Journal officiel).\n\n(5) JO L 184 du 17.7.1999, p. 23.\n\n(6) JO L 228 du 16.8.1973, p. 3. Directive modifiée en dernier lieu par la directive 2002/13/CE du Parlement européen et du Conseil (JO L 77 du 20.3.2002, p. 17).\n\n(7) JO L 63 du 13.3.1979, p. 1. Directive modifiée en dernier lieu par la directive 2002/12/CE du Parlement européen et du Conseil (JO L 77 du 20.3.2002, p. 11).\n\n(8) JO L 228 du 11.8.1992, p. 1. Directive modifiée en dernier lieu par la directive 2000/64/CE du Parlement européen et du Conseil (JO L 290 du 17.11.2000, p. 27).\n\n(9) JO L 360 du 9.12.1992, p. 1. Directive modifiée en dernier lieu par la directive 2000/64/CE.\n\n(10) JO L 141 du 11.6.1993, p. 1. Directive modifiée en dernier lieu par la directive 98/33/CE du Parlement européen et du Conseil (JO L 204 du 21.7.1998, p. 29).\n\n(11) JO L 141 du 11.6.1993, p. 27. Directive modifiée en dernier lieu par la directive 2000/64/CE.\n\n(12) JO L 330 du 5.12.1998, p. 1.\n\n(13) JO L 126 du 26.5.2000, p. 1. Directive modifiée par la directive 2000/28/CE (JO L 275 du 27.10.2000, p. 37).\n\n(14) JO L 375 du 31.12.1985, p. 3. Directive modifiée en dernier lieu par la directive 2001/108/CE du Parlement européen et du Conseil (JO L 41 du 13.2.2002, p. 35).\n\n(15) JO L 193 du 18.7.1983, p. 1. Directive modifiée en dernier lieu par la directive 2001/65/CE du Parlement européen et du Conseil (JO L 283 du 27.10.2001, p. 28).\n\n(16) JO L 222 du 14.8.1978, p. 11. Directive modifiée en dernier lieu par la directive 2001/65/CE.\n\n(17) JO L 331 du 15.12.2010, p. 12.\n\n(18) JO L 331 du 15.12.2010, p. 48.\n\n(19) JO L 331 du 15.12.2010, p. 84.\n\n(20) JO L 331 du 15.12.2010, p. 1.\n\n(21) JO L 63 du 13.3.1979, p. 1. Directive modifiée en dernier lieu par la directive 2002/12/CE du Parlement européen et du Conseil (JO L 77 du 20.3.2002, p. 11).\n\n(22) JO L 330 du 5.12.1998, p. 1.\n\n(23) JO L 126 du 26.5.2000, p. 1. Directive modifiée par la directive 2000/28/CE (JO L 275 du 27.10.2000, p. 37).\n\n(24) JO L 141 du 11.6.1993, p. 27. Directive modifiée en dernier lieu par la directive 2000/64/CE du Parlement européen et du Conseil (JO L 290 du 17.11.2000, p. 27).\n\n(25) JO L 141 du 11.6.1993, p. 27. Directive modifiée en dernier lieu par la directive 2000/64/CE du Parlement européen et du Conseil (JO L 290 du 17.11.2000, p. 27).\n\n(26) JO L 35 du 11.2.2003.»\n\n(27) JO L 228 du 16.8.1973, p. 3. Directive modifiée en dernier lieu par la directive 2002/13/CE du Parlement européen et du Conseil (JO L 77 du 20.3.2002, p.17).\n\n(28) JO L 330 du 5.12.1998, p. 1.\n\n(29) JO L 126 du 26.5.2000, p. 1. Directive modifiée par la directive 2000/28/CE (JO L 275 du 27.10.2000, p. 37).\n\n(30) JO L 141 du 11.6.1993, p. 27. Directive modifiée en dernier lieu par la directive 2000/64/CE du Parlement européen et du Conseil (JO L 290 du 17.11.2000, p. 27).\n\n(31) JO L 141 du 11.6.1993, p. 1. Directive modifiée en dernier lieu par la directive 98/33/CE du Parlement européen et du Conseil (JO L 204 du 21.7.1998, p. 29).\n\n(32) JO L 35 du 11.2.2003.»\n\n(33) JO L 35 du 11.2.2003.»\n\n(34) JO L 35 du 11.2.2003.»;\n\n(35) JO L 35 du 11.2.2003»\n\n(36) JO L 330 du 5.12.1998, S. 1.»;",
+      "text_sha256": "2fb887bf6bf082b4ad5bbc7c57a53844b1bb44dad4c0fa848c245c38e90981ef",
+      "md_span": {
+        "start": 112647,
+        "end": 117903
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        },
+        {
+          "href": "#src.E0008",
+          "text": "8"
+        },
+        {
+          "href": "#src.E0009",
+          "text": "9"
+        },
+        {
+          "href": "#src.E0010",
+          "text": "10"
+        },
+        {
+          "href": "#src.E0011",
+          "text": "11"
+        },
+        {
+          "href": "#src.E0012",
+          "text": "12"
+        },
+        {
+          "href": "#src.E0013",
+          "text": "13"
+        },
+        {
+          "href": "#src.E0014",
+          "text": "14"
+        },
+        {
+          "href": "#src.E0015",
+          "text": "15"
+        },
+        {
+          "href": "#src.E0016",
+          "text": "16"
+        },
+        {
+          "href": "#src.E0017",
+          "text": "17"
+        },
+        {
+          "href": "#src.E0018",
+          "text": "18"
+        },
+        {
+          "href": "#src.E0019",
+          "text": "19"
+        },
+        {
+          "href": "#src.E0020",
+          "text": "20"
+        },
+        {
+          "href": "#src.E0021",
+          "text": "21"
+        },
+        {
+          "href": "#src.E0022",
+          "text": "22"
+        },
+        {
+          "href": "#src.E0023",
+          "text": "23"
+        },
+        {
+          "href": "#src.E0024",
+          "text": "24"
+        },
+        {
+          "href": "#src.E0025",
+          "text": "25"
+        },
+        {
+          "href": "#src.E0026",
+          "text": "26"
+        },
+        {
+          "href": "#src.E0027",
+          "text": "27"
+        },
+        {
+          "href": "#src.E0028",
+          "text": "28"
+        },
+        {
+          "href": "#src.E0029",
+          "text": "29"
+        },
+        {
+          "href": "#src.E0030",
+          "text": "30"
+        },
+        {
+          "href": "#src.E0031",
+          "text": "31"
+        },
+        {
+          "href": "#src.E0032",
+          "text": "32"
+        },
+        {
+          "href": "#src.E0033",
+          "text": "33"
+        },
+        {
+          "href": "#src.E0034",
+          "text": "34"
+        },
+        {
+          "href": "#src.E0035",
+          "text": "35"
+        },
+        {
+          "href": "#src.E0036",
+          "text": "36"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

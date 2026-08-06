@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -25,5 +26,31 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2021-01-15",
+          "valid_to": null,
+          "text_sha256": "a228e88d3b7224462c546d28eea30d0238730bd40156b0778160547c5bccbdfb",
+          "in_version": "lu-legilux:rgd-2020-10-08-a819:2021-01-15",
+          "article_valid_from": "2021-01-15"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2021-01-15",
+          "valid_to": null,
+          "text_sha256": "0ac3bf3b69eab8aafc7dfc6ae0e82d1bc8ec8a5aeda33e0648a046bc0096d75b",
+          "in_version": "lu-legilux:rgd-2020-10-08-a819:2021-01-15",
+          "article_valid_from": "2020-10-16",
+          "validity_conflict": true
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

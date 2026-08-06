@@ -1,0 +1,99 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0945:2020-02-19",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) No 945/2014 of 4 September 2014 laying down implementing technical standards with regard to relevant appropriately diversified indices according to Regulation (EU) No 575/2013",
+  "valid_from": "2020-02-19",
+  "valid_to": "2023-10-16",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0945/versions/2020-02-19/fr.html",
+    "sha256": "2ab1d6e81409336c4c205cb455111ba51f773bd39bf2e964456d281d890eb90c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02014R0945-20200219"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32014r0945:2020-02-19#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Indices boursiers aux fins de l'application de l'article 344 du règlement (UE) no 575/2013",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La liste des indices boursiers auxquels peuvent s'appliquer les traitements prévus à l'article 344, paragraphe 4, deuxième phrase, du règlement (UE) no 575/2013 figure en annexe.",
+      "text_sha256": "500180193eb0018c9b32910592dd7cceb9a67ba6fbe4ac5a5e06b9117800d8c5",
+      "md_span": {
+        "start": 884,
+        "end": 1062
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0945:2020-02-19#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Entrée en vigueur",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.",
+      "text_sha256": "da0e4117686c9d6e3882a94f07eae340e5b82b475531e056ea9fbf83141c7fed",
+      "md_span": {
+        "start": 1119,
+        "end": 1361
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R0125",
+          "text": "32020R0125: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe",
+      "provision_id": "eu-eurlex:32014r0945:2020-02-19#annexe",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1396,
+        "end": 1396
+      },
+      "citations": []
+    },
+    {
+      "anchor": "indices_boursiers_conformes_aux_exigences_de_l_article_344_du_reglement_ue_no_575_2013",
+      "provision_id": "eu-eurlex:32014r0945:2020-02-19#indices_boursiers_conformes_aux_exigences_de_l_article_344_du_reglement_ue_no_575_2013",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "**Indices boursiers conformes aux exigences de l’article 344 du règlement (UE) no 575/2013**",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "| **Indice** | **Pays/Région** |\n| --- | --- |\n| 1. STOXX Asia/Pacific 600 | Asie/Pacifique |\n| 2. ASX100 | Australie |\n| 3. ASX200 | Australie |\n| 4. S&P All Ords | Australie |\n| 5. ATX | Autriche |\n| 6. ATX Prime | Autriche |\n| 7. BEL20 | Belgique |\n| 8. SaoPaulo — Bovespa | Brésil |\n| 9. TSX60 | Canada |\n| 10. CETOP20 Index | Europe centrale |\n| 11. CSI 100 Index | Chine |\n| 12. CSI 300 Index | Chine |\n| 13. FTSE China A50 Index | Chine |\n| 14. Hang Seng Mainland 100 China | Chine |\n| 15. PX Global Prague | République tchèque |\n| 16. OMX Copenhagen 20 CAP | Danemark |\n| 17. OMX Copenhagen 25 | Danemark |\n| 18. OMX Copenhagen Benchmark | Danemark |\n| 19. FTSE RAFI Developed 1000 | Marchés développés |\n| 20. CECE Composite Index EUR | Europe de l’Est |\n| 21. FTSE RAFI Emerging Markets | Marchés émergents |\n| 22. MSCI Emerging Markets 50 | Marchés émergents |\n| 23. Bloomberg European 500 | Europe |\n| 24. DJ Euro STOXX 50 | Europe |\n| 25. FTSE Euro 100 | Europe |\n| 26. FTSE Eurofirst 100 | Europe |\n| 27. FTSE Eurofirst 300 | Europe |\n| 28. FTSE Eurofirst 80 | Europe |\n| 29. FTSE EuroMid | Europe |\n| 30. FTSE Eurotop 100 | Europe |\n| 31. MSCI Euro | Europe |\n| 32. MSCI Europe | Europe |\n| 33. MSCI Pan-Euro | Europe |\n| 34. NTX New Europe Blue Chip | Europe |\n| 35. S&P Euro | Europe |\n| 36. S&P Europe 350 | Europe |\n| 37. STOXX All Europe 100 | Europe |\n| 38. STOXX All Europe 800 | Europe |\n| 39. STOXX Europe 50 | Europe |\n| 40. STOXX Europe 600 | Europe |\n| 41. STOXX Europe 600 Equal Weight | Europe |\n| 42. STOXX Europe Enlarged TMI | Europe |\n| 43. STOXX Europe Lrg 200 | Europe |\n| 44. STOXX Europe Mid 200 | Europe |\n| 45. STOXX Europe Small 200 | Europe |\n| 46. STOXX Select Dividend 30 | Europe |\n| 47. OMXH25 | Finlande |\n| 48. CAC40 | France |\n| 49. SBF 120 | France |\n| 50. DAX | Allemagne |\n| 51. HDAX | Allemagne |\n| 52. MDAX | Allemagne |\n| 53. SDAX | Allemagne |\n| 54. FTSE RAFI All World | Monde |\n| 55. MSCI World Index | Monde |\n| 56. Athens General | Grèce |\n| 57. FT ASE Large Cap | Grèce |\n| 58. Hang Seng | Hong Kong |\n| 59. Hang Seng China Enterprises | Hong Kong |\n| 60. NIFTY 50 | Inde |\n| 61. ISEQ 20 | Irlande |\n| 62. FTSE MIB | Italie |\n| 63. Nikkei225 | Japon |\n| 64. Nikkei300 | Japon |\n| 65. TOPIX 400 | Japon |\n| 66. TOPIX Core 30 | Japon |\n| 67. S&P Latin America 40 | Amérique latine |\n| 68. FTSE Bursa Malaysia KLCI | Malaisie |\n| 69. FTSE Bursa Malaysia Top100 | Malaisie |\n| 70. MSE Share Index | Malte |\n| 71. INMEX Index | Mexique |\n| 72. IPC Index | Mexique |\n| 73. AMX | Pays-Bas |\n| 74. AEX | Pays-Bas |\n| 75. NZSE50 | Nouvelle-Zélande |\n| 76. OBX | Norvège |\n| 77. OBXP | Norvège |\n| 78. mWIG40 | Pologne |\n| 79. WIG20 | Pologne |\n| 80. MOEX | Russie |\n| 81. MSCI Russia Index | Russie |\n| 82. MSCI Singapore Free Index | Singapour |\n| 83. Straits Times Index | Singapour |\n| 84. FTSE JSE Top 40 | Afrique du Sud |\n| 85. IBEX35 | Espagne |\n| 86. OMX Stockholm 30 | Suède |\n| 87. SMI | Suisse |\n| 88. SMI MID | Suisse |\n| 89. FTSE NASDAQ Dubai 20 | Émirats arabes unis |\n| 90. FTSE 100 | Royaume-Uni |\n| 91. FTSE AIM 100 | Royaume-Uni |\n| 92. FTSE AIM UK 50 | Royaume-Uni |\n| 93. FTSE Fledgling | Royaume-Uni |\n| 94. FTSE mid-250 | Royaume-Uni |\n| 95. FTSE Small Cap | Royaume-Uni |\n| 96. Dow Jones Ind. Av. | États-Unis |\n| 97. NASDAQ 100 | États-Unis |\n| 98. S&P 500 | États-Unis |",
+      "text_sha256": "591aed33f55942fbb9b96c6944accf3c63e29bb3b794958adfe551c480d15f74",
+      "md_span": {
+        "start": 1597,
+        "end": 4943
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

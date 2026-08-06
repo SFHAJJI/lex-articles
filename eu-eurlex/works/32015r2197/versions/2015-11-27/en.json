@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r2197:2015-11-27",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2015/2197 of 27 November 2015 laying down implementing technical standards with regard to closely correlated currencies in accordance with Regulation (EU) No 575/2013",
+  "valid_from": "2015-11-27",
+  "valid_to": "2018-11-10",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r2197/versions/2015-11-27/en.xml",
+    "sha256": "a9ee5e3ebbfe4272f6a03e9934a8c623b4f6893ce391ee797182dd460820f6d2",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2197"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r2197:2015-11-27#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe pairs of currencies that meet the requirements of Article 354(1) of Regulation (EU) No 575/2013 are set out in the Annex to this Regulation.",
+      "text_sha256": "066a57955281efc0ca738282ebc499fed952030e3636c66ed30917a6df9425c4",
+      "md_span": {
+        "start": 757,
+        "end": 912
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r2197:2015-11-27#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 945,
+        "end": 1096
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

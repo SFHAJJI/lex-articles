@@ -1,0 +1,184 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0577:2016-06-13",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/577 of 13 June 2016 supplementing Regulation (EU) No 600/2014",
+  "valid_from": "2016-06-13",
+  "valid_to": "2026-06-20",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0577/versions/2016-06-13/fr.xml",
+    "sha256": "1a3f7dabe20197416e10af0019d58c817ae42f8e638b04e0400cbac00b2fc0a5",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R0577"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0577:2016-06-13#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Le présent règlement précise quelles données sont demandées par les autorités compétentes et lesquelles sont communiquées en retour par les plates-formes de négociation, les dispositifs de publication agréés (ci-après les «APA») et les fournisseurs de systèmes consolidés de publication (ci-après les «CTP») en vue de calculer et d'ajuster les obligations de transparence pré- et post-négociation ainsi que les régimes d'obligation de négociation, et en particulier pour déterminer les facteurs suivants:\n\n| a) | s'il existe un marché liquide pour les actions, les instruments financiers assimilés et les instruments financiers autres que des actions; |\n| --- | --- |\n\n| b) | les seuils pour les dérogations aux règles de transparence pré-négociation en ce qui concerne les actions, les instruments financiers assimilés et les instruments financiers autres que des actions; |\n| --- | --- |\n\n| c) | les seuils pour le report de la transparence post-négociation en ce qui concerne les actions, les instruments financiers assimilés et les instruments financiers autres que des actions; |\n| --- | --- |\n\n| d) | le moment où une catégorie d'instruments financiers passe en dessous d'un seuil déterminé; |\n| --- | --- |\n\n| e) | le fait qu'une entreprise d'investissement est ou non un internalisateur systématique; |\n| --- | --- |\n\n| f) | la taille normale de marché applicable aux internalisateurs systématiques effectuant des transactions portant sur des actions et des instruments financiers assimilés, et la taille d'instrument applicable aux internalisateurs systématiques qui négocient des instruments financiers autres que des actions; |\n| --- | --- |\n\n| g) | pour les actions et les instruments financiers assimilés, le volume total des négociations au cours des douze mois précédents et les pourcentages des négociations effectuées bénéficiant des dérogations, d'une part au titre des transactions négociées, d'autre part au titre des prix de référence dans l'ensemble de l'Union et sur chaque plate-forme de négociation au cours des douze mois précédents; |\n| --- | --- |\n\n| h) | le fait que des dérivés sont suffisamment liquides aux fins de l'obligation de négociation applicable aux dérivés. |\n| --- | --- |",
+      "text_sha256": "d4f374d18327421631b9e59d719e0959636020e37bbccd9573e062eff44ced66",
+      "md_span": {
+        "start": 654,
+        "end": 2888
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0577:2016-06-13#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Aux fins des calculs qui sont réalisés à des dates ou des fréquences prédéfinies, les plates-formes de négociation, les APA et les CTP fournissent à leur autorité compétente toutes les données nécessaires pour effectuer les calculs prévus par les règlements suivants:\n\n| a) | Règlement délégué (UE) 2017/587; |\n| --- | --- |\n\n| b) | règlement délégué (UE) 2017/583; |\n| --- | --- |\n\n| c) | règlement délégué (UE) 2017/567; |\n| --- | --- |\n\n| d) | règlement délégué (UE) 2017/565. |\n| --- | --- |\n\n2. Les autorités compétentes peuvent demander aux plates-formes de négociation, aux APA et aux CTP, s'il y a lieu, des informations supplémentaires afin de suivre et d'ajuster les seuils et les paramètres visés à l'article 1er, points a) à f) et h).\n\n3. Les autorités compétentes peuvent demander toutes les données dont l'AEMF doit tenir compte en vertu du règlement délégué (UE) 2016/2020 pour les instruments financiers autres que les actions, y compris des données sur:\n\n| a) | la fréquence moyenne des transactions; |\n| --- | --- |\n\n| b) | la taille moyenne et la distribution des transactions; |\n| --- | --- |\n\n| c) | le nombre et le type de participants aux marchés; |\n| --- | --- |\n\n| d) | la taille moyenne des écarts. |\n| --- | --- |",
+      "text_sha256": "0d2b2b788af837f401b5affba5cb8657d1d620da16bac89e351786d27314fb5e",
+      "md_span": {
+        "start": 2921,
+        "end": 4175
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0577:2016-06-13#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les plates-formes de négociation, les APA et les CTP transmettent chaque jour les données visées à l'article 2, paragraphe 1.\n\n2. Les plates-formes de négociation, les APA et les CTP transmettent les données en réponse à une demande ad hoc telle que visée à l'article 2, paragraphe 2, dans un délai de quatre semaines suivant la réception de cette demande, à moins que des circonstances exceptionnelles n'appellent une réponse dans un délai plus court, comme indiqué dans la demande.\n\n3. Par dérogation aux paragraphes 1 et 2, les plates-formes de négociation et les CTP transmettent les données utilisées aux fins du mécanisme de plafonnement des volumes comme décrit à l'article 6, paragraphes 6 à 9.",
+      "text_sha256": "eb1361a3a59d6a9e272d6dfbd3229fb4bf80bc3ab3a077ec070592b5708475c9",
+      "md_span": {
+        "start": 4208,
+        "end": 4924
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0577:2016-06-13#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes plates-formes de négociation, les APA et les CTP soumettent les données visées à l'article 2 dans un format XML commun en se conformant à toutes les autres spécifications définies et disponibles en termes de contenu et de format en vue de faciliter la fourniture efficace et automatisée des données ainsi que leur consolidation avec des données analogues provenant d'autres sources.",
+      "text_sha256": "5712f2a0f6af8a57549c8f7382d3537a9df72f4c6cbb44887f57ddd56646b20c",
+      "md_span": {
+        "start": 4957,
+        "end": 5354
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0577:2016-06-13#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Les plates-formes de négociation, les APA et les CTP conservent toutes les données nécessaires au calcul, au suivi et à l'ajustement des seuils et paramètres visés à l'article 2, que ces informations aient été rendues publiques ou non.\n\n2. Les plates-formes de négociation, les APA et les CTP conservent les données visées au paragraphe 1 pendant au moins trois ans.",
+      "text_sha256": "2d118175b0325612b8aaed23fa2050d4e79619dfddd7dcdb597a9627a87fb24b",
+      "md_span": {
+        "start": 5387,
+        "end": 5767
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0577:2016-06-13#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Pour chaque instrument financier soumis aux obligations de transparence visées à l'article 3 du règlement (UE) no 600/2014, les plates-formes de négociation transmettent les données suivantes à l'autorité compétente:\n\n| a) | le volume total des transactions portant sur cet instrument financier exécutées sur la plate-forme de négociation; |\n| --- | --- |\n\n| b) | le volume total des transactions portant sur cet instrument financier exécutées sur la plate-forme de négociation bénéficiant respectivement de la dérogation prévue à l'article 4, paragraphe 1, point a), ou à l'article 4, paragraphe 1, point b) i), du règlement (UE) no 600/2014, les volumes totaux étant déclarés séparément pour chaque dérogation. |\n| --- | --- |\n\n2. Pour chaque instrument financier soumis aux obligations de transparence visées à l'article 3 du règlement (UE) no 600/2014 et sur demande de l'autorité compétente, les CTP transmettent les données suivantes à l'autorité compétente:\n\n| a) | le volume total des transactions portant sur cet instrument financier exécutées sur l'ensemble des plates-formes de négociation de l'Union, les volumes totaux étant déclarés séparément pour chaque plate-forme de négociation; |\n| --- | --- |\n\n| b) | le volume total des transactions exécutées sur toutes les plates-formes de négociation de l'Union bénéficiant respectivement de la dérogation prévue à l'article 4, paragraphe 1, point a), ou à l'article 4, paragraphe 1, point b) i), du règlement (UE) no 600/2014, les volumes totaux étant déclarés séparément pour chaque dérogation et chaque plate-forme de négociation. |\n| --- | --- |\n\n3. Les plates-formes de négociation et les CTP transmettent à l'autorité compétente les données visées aux paragraphes 1 et 2 en respectant les formats définis en annexe. Ils veillent en particulier à ce que les identifiants de plate-forme de négociation permettent à l'autorité compétente et à l'AEMF de déterminer sans équivoque, pour chaque plate-forme de négociation, les volumes de transactions bénéficiant de la dérogation au titre des prix de référence et, en ce qui concerne les instruments financiers liquides, de la dérogation au titre des transactions négociées et de calculer le ratio fixé à l'article 5, paragraphe 1, point a), du règlement (UE) no 600/2014.\n\n4. Aux fins du calcul des volumes visés aux paragraphes 1 et 2,\n\n| a) | le volume d'une transaction donnée est déterminé en multipliant le prix de l'instrument financier négocié par le nombre d'unités négociées; |\n| --- | --- |\n\n| b) | le volume total des transactions portant sur chaque instrument financier visé au paragraphe 1, point a), et au paragraphe 2, point a), est déterminé en additionnant les volumes de toutes les transactions individuelles, comptées une seule fois, pour cet instrument financier; |\n| --- | --- |\n\n| c) | le volume des transactions visées au paragraphe 1, point b), et au paragraphe 2, point b), est déterminé en additionnant les volumes de toutes les transactions individuelles, comptées une seule fois, pour cet instrument financier, qui sont déclarées en tant que «prix de référence» ou «transactions négociées dans des instruments financiers liquides» en vertu de l'annexe I, tableau 4, du règlement délégué (UE) 2017/587. |\n| --- | --- |\n\n5. Les plates-formes de négociation et les CTP n'additionnent que les transactions exécutées dans la même monnaie et déclarent séparément chaque volume agrégé dans la monnaie utilisée pour les transactions.\n\n6. Les plates-formes de négociation communiquent les données visées aux paragraphes 1 à 5 à l'autorité compétente le premier et le seizième jour de chaque mois civil au plus tard à 13 h 00 HEC. Lorsque le premier ou le seizième jour du mois civil n'est pas ouvrable pour la plate-forme de négociation, celle-ci transmet les données à l'autorité compétente au plus tard à 13 h 00 HEC le jour ouvrable suivant.\n\n7. Les plates-formes de négociation transmettent à l'autorité compétente le volume total des transactions conformément aux paragraphes 1 à 5 pour les périodes suivantes:\n\n| a) | pour les déclarations devant être transmises le seizième jour de chaque mois civil, la période d'exécution va du premier au quinzième jour du même mois civil; |\n| --- | --- |\n\n| b) | pour les déclarations devant être transmises le premier jour de chaque mois civil, la période d'exécution va du seizième au dernier jour du mois civil précédent. |\n| --- | --- |\n\n8. Par dérogation aux paragraphes 6 et 7, les plates-formes de négociation transmettent la première déclaration par instrument financier à la date d'entrée en application de la directive 2014/65/UE et du règlement (UE) no 600/2014 au plus tard à 13 h 00 HEC, en incluant les volumes de transactions visés au paragraphe 1 pour l'année civile précédente. À cet effet, les plates-formes de négociation déclarent séparément, pour chaque mois civil:\n\n| a) | les volumes de transactions au cours de la période allant du premier au quinzième jour de chaque mois civil; |\n| --- | --- |\n\n| b) | les volumes de transactions au cours de la période allant du seizième au dernier jour de chaque mois civil. |\n| --- | --- |\n\n9. Les plates-formes de négociation et les CTP répondent à toute demande ad hoc provenant des autorités compétentes et portant sur le volume de transaction en rapport avec les calculs effectués pour suivre le recours aux dérogations au titre des prix de référence ou des transactions négociées, au plus tard à la clôture des activités le jour ouvrable qui suit la demande.",
+      "text_sha256": "d9d5ece559076854765ce3bfcf1b0f00d3a5e66b873b338afecb588eb80f30db",
+      "md_span": {
+        "start": 5800,
+        "end": 11311
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r0577:2016-06-13#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Les autorités compétentes fournissent à l'AEMF les données reçues d'une plate-forme de négociation ou d'un CTP conformément à l'article 6 au plus tard à 13 h 00 HEC le jour ouvrable suivant leur réception.\n\n2. Les autorités compétentes fournissent à l'AEMF les données reçues d'une plate-forme de négociation, d'un APA ou d'un CTP afin de déterminer si des dérivés sont suffisamment liquides, comme visé à l'article 1er, point h), sans retard et au plus tard trois jours ouvrables après la réception des données pertinentes.",
+      "text_sha256": "0581f88245a589556517d4a0277e2e46b73e8586d0ad18e9fe926c423b2b6e22",
+      "md_span": {
+        "start": 11344,
+        "end": 11882
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r0577:2016-06-13#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. L'AEMF publie la quantification du volume total des négociations pour chaque instrument financier au cours des douze mois précédents et les pourcentages des négociations bénéficiant des dérogations au titre des transactions négociées et des prix de référence dans l'ensemble de l'Union et sur chaque plate-forme de négociation au cours des douze mois précédents, conformément à l'article 5, paragraphes 4, 5 et 6, du règlement (UE) no 600/2014, au plus tard à 22 h 00 HEC le cinquième jour ouvrable suivant la fin de la période de déclaration énoncée à l'article 6, paragraphe 6, du présent règlement.\n\n2. La publication visée au paragraphe 1 est fournie gratuitement et dans un format lisible par l'homme et par machine, au sens de l'article 14 du règlement délégué (UE) 2017/571 de la Commission (11) et de l'article 13, paragraphes 4 et 5, du règlement délégué (UE) 2017/567.\n\n3. Lorsqu'un instrument financier est négocié dans plusieurs monnaies dans l'Union, l'AEMF convertit tous les volumes en euros en utilisant les taux de change moyens calculés sur la base des taux de change de référence journaliers de l'euro publiés par la Banque centrale européenne sur son site web au cours des douze mois précédents. Ces volumes convertis sont utilisés pour calculer et publier le volume total des transactions et les pourcentages des négociations bénéficiant des dérogations au titre des transactions négociées et des prix de référence dans l'ensemble de l'Union, ainsi que sur chaque plate-forme de négociation visée au paragraphe 1.",
+      "text_sha256": "b417f0e4e466a4167cd60d285a0bfafd5b9fd54b6b4f78d30d05f909b8e798eb",
+      "md_span": {
+        "start": 11915,
+        "end": 13463
+      },
+      "citations": [
+        {
+          "href": "#ntr11-L_2017087FR.01017401-E0011",
+          "text": "(11)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32017r0577:2016-06-13#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à partir du 3 janvier 2018.",
+      "text_sha256": "6b71abf12c4eeecdc49280c5aaee850fca7226ae2bd248e9b6b60b46161a98ff",
+      "md_span": {
+        "start": 13496,
+        "end": 13680
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

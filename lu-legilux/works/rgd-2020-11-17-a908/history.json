@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -106,5 +107,112 @@
       "anchor": "attachment_5",
       "at_version": "lu-legilux:rgd-2020-11-17-a908:2021-09-20"
     }
-  ]
+  ],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2021-05-02",
+          "valid_to": null,
+          "text_sha256": "5d0f4c36402dd87a6f3dcea0deb3bff0def615423d0e67c23e251f947afb2071",
+          "in_version": "lu-legilux:rgd-2020-11-17-a908:2021-05-02",
+          "article_valid_from": "2020-11-21",
+          "validity_conflict": true
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2021-05-02",
+          "valid_to": "2021-09-19",
+          "text_sha256": "ce9c62aa4ff3fd55374abdeb64e5819e5ef0f7260b4d92b51c4e565a411a2e0c",
+          "in_version": "lu-legilux:rgd-2020-11-17-a908:2021-05-02",
+          "article_valid_from": "2021-05-02"
+        },
+        {
+          "valid_from": "2021-09-20",
+          "valid_to": null,
+          "text_sha256": "4c6bbc199ffa559baf86c29a1b502caad403a47e6c5e6b9e20befec1d9b481ba",
+          "in_version": "lu-legilux:rgd-2020-11-17-a908:2021-09-20",
+          "article_valid_from": "2021-09-20"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2021-05-02",
+          "valid_to": null,
+          "text_sha256": "79301abb85a6e2fdc05dac86ecf2e6a215d508cec5ce6b4bda138c8f3547eb27",
+          "in_version": "lu-legilux:rgd-2020-11-17-a908:2021-05-02",
+          "article_valid_from": "2020-11-21",
+          "validity_conflict": true
+        }
+      ],
+      "attachment_1": [
+        {
+          "valid_from": "2021-05-02",
+          "valid_to": "2021-09-19",
+          "text_sha256": "b5b92a58184a86ee2c07c2fe900a33a06e2646b33ad679f370e81fb0f6eefd63",
+          "in_version": "lu-legilux:rgd-2020-11-17-a908:2021-05-02"
+        },
+        {
+          "valid_from": "2021-09-20",
+          "valid_to": null,
+          "text_sha256": "5cb0db166729d26fdce72052583860d959a30320439594f6f25b89052fd44f82",
+          "in_version": "lu-legilux:rgd-2020-11-17-a908:2021-09-20"
+        }
+      ],
+      "attachment_2": [
+        {
+          "valid_from": "2021-05-02",
+          "valid_to": "2021-09-19",
+          "text_sha256": "501b799f416f9d3d91d27fb21eaf42539d365662482f8a85a7ee5e4505bfcf38",
+          "in_version": "lu-legilux:rgd-2020-11-17-a908:2021-05-02"
+        },
+        {
+          "valid_from": "2021-09-20",
+          "valid_to": null,
+          "text_sha256": "c448c0be7543e9b0d09a1a88391c3f78698a1c90bd0b4b53c59de23a77056f86",
+          "in_version": "lu-legilux:rgd-2020-11-17-a908:2021-09-20"
+        }
+      ],
+      "attachment_3": [
+        {
+          "valid_from": "2021-05-02",
+          "valid_to": null,
+          "text_sha256": "1d6989d23e40dea561182c9fb1acbb2a82981df462b42873cbbdcb94c9692f9a",
+          "in_version": "lu-legilux:rgd-2020-11-17-a908:2021-05-02"
+        }
+      ],
+      "attachment_4": [
+        {
+          "valid_from": "2021-05-02",
+          "valid_to": null,
+          "text_sha256": "9b9728f2959941c2aae77e047b6b39ff94eb24b7805e9cb1dee61aae758bc12d",
+          "in_version": "lu-legilux:rgd-2020-11-17-a908:2021-05-02"
+        }
+      ],
+      "attachment_5": [
+        {
+          "valid_from": "2021-09-20",
+          "valid_to": "2022-06-11",
+          "text_sha256": "40366f7437444a5691c0297464f0fe11855d51217ca3a0caeda5e16d9cfb70bd",
+          "in_version": "lu-legilux:rgd-2020-11-17-a908:2021-09-20"
+        },
+        {
+          "valid_from": "2022-06-12",
+          "valid_to": null,
+          "text_sha256": "e001ca603127d6e4ebc5abe9d8e335cb2a3e2757b94c58c0e5b8194379402a05",
+          "in_version": "lu-legilux:rgd-2020-11-17-a908:2022-06-12"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": [
+      {
+        "type": "inserted",
+        "anchor": "attachment_5",
+        "at_version": "lu-legilux:rgd-2020-11-17-a908:2021-09-20"
+      }
+    ]
+  }
 }

@@ -1,0 +1,507 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0331:2018-12-19",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2019/331 of 19 December 2018 determining transitional Union-wide rules for harmonised free allocation of emission allowances pursuant to Article 10a of Directive 2003/87/EC",
+  "valid_from": "2018-12-19",
+  "valid_to": "2023-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0331/versions/2018-12-19/fr.xml",
+    "sha256": "c1da906bc2fb1da148553b98d046e6c682d4b7de38caceb8d7b62a49bbe9ef36",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R0331"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe présent règlement s'applique à l'allocation gratuite de quotas d'émission relevant du chapitre III (installations fixes) de la directive 2003/87/CE pour les périodes d'allocation à partir de 2021, à l'exception de l'allocation transitoire de quotas d'émission à titre gratuit pour la modernisation de la production d'électricité en vertu de l'article 10 quater de la directive 2003/87/CE.",
+      "text_sha256": "48e000d2882fb4c8d1a9649172e374319820de2bee3a16192c26d60417b14ad7",
+      "md_span": {
+        "start": 760,
+        "end": 1168
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins du présent règlement, on entend par:\n\n(1) «installation en place»: toute installation menant une ou plusieurs des activités énumérées à l'annexe I de la directive 2003/87/CE ou une activité incluse pour la première fois dans le système d'échange de quotas d'émission (SEQE) de l'Union conformément à l'article 24 de ladite directive, qui a obtenu une autorisation d'émettre des gaz à effet de serre avant ou:\n\n| a) | le 30 juin 2019 pour la période 2021-2025, |\n| --- | --- |\n\n| b) | le 30 juin 2024 pour la période 2026-2030; |\n| --- | --- |\n\n(2) «sous-installation avec référentiel de produit»: les intrants, les extrants et les émissions correspondantes liés à la fabrication d'un produit pour lequel un référentiel a été défini à l'annexe I;\n\n(3) «sous-installation avec référentiel de chaleur»: les intrants, les extrants et les émissions correspondantes qui ne relèvent pas d'une sous-installation avec référentiel de produit et qui sont liés à la production de chaleur mesurable autrement qu'à partir d'électricité, à l'importation de chaleur mesurable en provenance d'une installation relevant du SEQE de l'Union européenne, ou aux deux à la fois, cette chaleur étant:\n\n| a) | consommée dans les limites de l'installation pour la fabrication de produits, pour la production d'énergie mécanique autre que celle utilisée aux fins de la production d'électricité, pour le chauffage ou le refroidissement, à l'exclusion de la consommation aux fins de la production d'électricité, ou |\n| --- | --- |\n\n| b) | exportée vers une installation ou une autre entité non couverte par le SEQE de l'Union européenne à d'autres fins que le chauffage urbain, à l'exclusion de l'exportation aux fins de la production d'électricité; |\n| --- | --- |\n\n(4) «chauffage urbain»: la distribution de chaleur mesurable aux fins du chauffage ou du refroidissement de locaux ou de la production d'eau chaude sanitaire, par l'intermédiaire d'un réseau, à des bâtiments ou des sites non couverts par le SEQE de l'Union européenne, à l'exclusion de la chaleur mesurable utilisée aux fins de la fabrication de produits et d'activités connexes ou pour la production d'électricité;\n\n(5) «sous-installation de chauffage urbain»: les intrants, les extrants et les émissions correspondantes qui ne relèvent pas d'une sous-installation avec référentiel de produit et qui sont liés à la production de chaleur mesurable ou à l'importation de chaleur mesurable en provenance d'une installation couverte par le SEQE de l'Union européenne, ou aux deux à la fois, cette chaleur étant exportée à des fins de chauffage urbain;\n\n(6) «sous-installation avec référentiel de combustibles»: les intrants, les extrants et les émissions correspondantes qui ne relèvent pas d'une sous-installation avec référentiel de produit et qui sont liés à la production, par la combustion de combustibles, de chaleur non mesurable consommée pour la fabrication de produits, pour la production d'énergie mécanique autre que celle utilisée aux fins de la production d'électricité, ou pour le chauffage ou le refroidissement, à l'exclusion de la consommation aux fins de la production d'électricité, y compris la mise en torchère pour des raisons de sécurité;\n\n(7) «chaleur mesurable»: un flux thermique net transporté dans des canalisations ou des conduits identifiables au moyen d'un milieu caloporteur tel que, notamment, la vapeur, l'air chaud, l'eau, l'huile, les métaux et les sels liquides, pour lequel un compteur d'énergie thermique est installé ou pourrait l'être;\n\n(8) «compteur d'énergie thermique»: un compteur d'énergie thermique (MI-004) au sens de l'annexe VI de la directive 2014/32/UE du Parlement européen et du Conseil (5), ou tout autre dispositif conçu pour mesurer et enregistrer la quantité d'énergie thermique produite sur la base des volumes et des températures des flux;\n\n(9) «chaleur non mesurable»: toute chaleur autre que la chaleur mesurable;\n\n(10) «sous-installation avec émissions de procédé»: les émissions des gaz à effet de serre énumérés à l'annexe I de la directive 2003/87/CE autres que le dioxyde de carbone, qui sont produites hors des limites du système d'un référentiel de produit figurant à l'annexe I du présent règlement, ou les émissions de dioxyde de carbone qui sont produites hors des limites du système d'un référentiel de produit figurant à l'annexe I du présent règlement, et qui résultent directement et immédiatement d'un des procédés ci-après, ainsi que les émissions dues à la combustion de gaz résiduaires aux fins de la production de chaleur mesurable, de chaleur non mesurable ou d'électricité, pour autant que soient déduites les émissions qu'aurait dégagées la combustion d'une quantité de gaz naturel équivalente au contenu énergétique techniquement utilisable du carbone incomplètement oxydé qui fait l'objet d'une combustion:\n\n| a) | la réduction chimique, électrolytique ou pyrométallurgique de composés métalliques présents dans des minerais, des concentrés et des matières secondaires, lorsque l'objectif principal est autre que la production de chaleur; |\n| --- | --- |\n\n| b) | l'élimination d'impuretés présentes dans les métaux et composés métalliques lorsque l'objectif principal est autre que la production de chaleur; |\n| --- | --- |\n\n| c) | la décomposition des carbonates, à l'exclusion de ceux utilisés pour le lavage des gaz résiduaires, lorsque l'objectif principal est autre que la production de chaleur; |\n| --- | --- |\n\n| d) | les synthèses chimiques de produits et d'intermédiaires dans lesquelles la matière carbonée participe à la réaction, lorsque l'objectif principal est autre que la production de chaleur; |\n| --- | --- |\n\n| e) | l'utilisation d'additifs ou de matières premières contenant du carbone, lorsque l'objectif principal est autre que la production de chaleur; |\n| --- | --- |\n\n| f) | la réduction chimique ou électrolytique d'oxydes métalloïdes ou d'oxydes non métalliques tels que les oxydes et les phosphates de silicium, lorsque l'objectif principal est autre que la production de chaleur; |\n| --- | --- |\n\n(11) «gaz résiduaire»: un gaz contenant du carbone incomplètement oxydé à l'état gazeux dans les conditions standard, qui résulte d'un des procédés énumérés au point 10, les conditions standard étant une température de 273,15 K et des conditions de pression de 101 325 Pa définissant des normomètres cubes (Nm3) conformément à l'article 3, point 50, du règlement (UE) no 601/2012;\n\n(12) «début de l'exploitation normale»: le premier jour d'exploitation;\n\n(13) «mise en torchère pour des raisons de sécurité»: la combustion de combustibles pilotes et de quantités très variables de gaz de procédé ou de gaz résiduaires dans une unité exposée aux perturbations atmosphériques, cette combustion étant expressément requise pour des raisons de sécurité par les autorisations pertinentes de l'installation;\n\n(14) «période de référence»: les cinq années civiles précédant la date limite de transmission des données à la Commission en vertu de l'article 11, paragraphe 1, de la directive 2003/87/CE;\n\n(15) «période d'allocation»: la période de cinq ans débutant le 1er janvier 2021 et chaque période de cinq ans suivante;\n\n(16) «incertitude»: un paramètre associé au résultat de la détermination d'une grandeur et exprimé en pourcentage, qui caractérise la dispersion des valeurs qui pourraient raisonnablement être attribuées à la grandeur en question, compte tenu des effets de facteurs aussi bien systématiques qu'aléatoires, et qui décrit un intervalle de confiance autour de la valeur moyenne dans lequel sont comprises 95 % des valeurs estimées, compte tenu d'une éventuelle asymétrie de la distribution des valeurs;\n\n(17) «fusion»: la fusion de deux ou plusieurs installations détenant déjà des autorisations d'émettre des gaz à effet de serre, pour autant que ces installations soient techniquement liées, qu'elles soient exploitées sur le même site et que l'installation résultante soit couverte par une autorisation d'émettre des gaz à effet de serre;\n\n(18) «scission»: la division d'une installation en deux ou plusieurs installations couvertes par des autorisations distinctes d'émettre des gaz à effet de serre et exploitées par des exploitants différents.",
+      "text_sha256": "1e84701c398e931f5248c8a9d9b579d29cc393a1654e2b0b27f3092a596e33d7",
+      "md_span": {
+        "start": 1201,
+        "end": 9430
+      },
+      "citations": [
+        {
+          "href": "#ntr5-L_2019059FR.01000801-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nEn plus de désigner une ou des autorités compétentes conformément à l'article 18 de la directive 2003/87/CE, les États membres prennent les dispositions administratives nécessaires à la mise en œuvre des règles prévues par le présent règlement.",
+      "text_sha256": "d7bd0da25302e3233bfb9290e2dbf99d4c374f4f05d257dd77cfed023ed845e1",
+      "md_span": {
+        "start": 9463,
+        "end": 9718
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. L'exploitant d'une installation remplissant les conditions d'allocation de quotas d'émission à titre gratuit en vertu de l'article 10 bis de la directive 2003/87/CE peut soumettre à l'autorité compétente une demande d'allocation à titre gratuit pour une période d'allocation. Cette demande est présentée avant le 30 mai 2019 pour la première période d'allocation, et tous les cinq ans par la suite.\n\nLes États membres peuvent fixer une autre date limite qui ne peut cependant précéder ou dépasser de plus d'un mois la date limite prévue au premier alinéa.\n\n2. Une demande d'allocation à titre gratuit présentée conformément au paragraphe 1 est accompagnée des éléments suivants:\n\n| a) | une déclaration relative aux données de référence, vérifiée et reconnue satisfaisante conformément aux mesures adoptées en vertu de l'article 15 de la directive 2003/87/CE, contenant les données relatives à l'installation et à ses sous-installations telles que spécifiées à l'article 10 et aux annexes I et II du présent règlement et tenant compte, aux fins du calcul des niveaux d'activité historiques pour des référentiels de produits spécifiques, de l'annexe III du présent règlement, contenant chaque paramètre énuméré à l'annexe IV du présent règlement et couvrant la période de référence relative à la période d'allocation à laquelle se rapporte la demande; |\n| --- | --- |\n\n| b) | le plan méthodologique de surveillance qui a servi de base à la déclaration relative aux données de référence et au rapport de vérification, conformément à l'annexe VI; |\n| --- | --- |\n\n| c) | un rapport de vérification publié conformément aux mesures adoptées en vertu de l'article 15 de la directive 2003/87/CE, portant sur la déclaration relative aux données de référence et, à moins qu'il n'ait déjà été approuvé par l'autorité compétente, sur le plan méthodologique de surveillance. |\n| --- | --- |",
+      "text_sha256": "df44e005cf3a7d6030f486b6806002ca71e3bb8bff70872e6660f05fea7c40eb",
+      "md_span": {
+        "start": 9751,
+        "end": 11643
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. À la demande d'un nouvel entrant, l'État membre concerné détermine, sur la base du présent règlement, la quantité de quotas d'émission à allouer à titre gratuit à l'installation de cet exploitant après le début de son exploitation normale.\n\n2. L'exploitant divise l'installation concernée en sous-installations conformément à l'article 10. À l'appui de la demande visée au paragraphe 1, l'exploitant soumet toute information utile à l'autorité compétente ainsi qu'une déclaration des données de nouvel entrant contenant chaque paramètre énuméré aux sections 1 et 2 de l'annexe IV, pour chaque sous-installation séparément, pour la première année civile suivant le début de l'exploitation normale, en même temps que le plan méthodologique de surveillance visé à l'article 8 et le rapport de vérification publié conformément aux mesures adoptées en vertu de l'article 15 de la directive 2003/87/CE, et il précise à l'autorité compétente la date de début de l'exploitation normale.\n\n3. Si la demande présentée par un nouvel entrant remplit toutes les conditions énoncées au paragraphe 2 et respecte les règles d'allocation prévues aux articles 17 à 22, l'autorité compétente l'approuve, ainsi que la date spécifiée du début de l'exploitation normale.\n\n4. Les autorités compétentes n'acceptent que les données soumises en vertu du présent article qui ont été reconnues satisfaisantes par un vérificateur, conformément aux exigences définies par les mesures adoptées en vertu de l'article 15 de la directive 2003/87/CE.",
+      "text_sha256": "a0f2e89b10c004f9a141083604ab7c052281cd094f0272535e2518d68bb104a1",
+      "md_span": {
+        "start": 11676,
+        "end": 13204
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nL'exploitant d'une installation qui demande à bénéficier d'une allocation à titre gratuit ou qui obtient cette allocation en vertu de l'article 10 bis de la directive 2003/87/CE surveille les données à fournir énumérées à l'annexe IV du présent règlement, sur la base d'un plan méthodologique de surveillance approuvé par l'autorité compétente au plus tard le 31 décembre 2020.",
+      "text_sha256": "e90a35f05471e864aebf1acb857c7d818ca1baad9d11ffb0a691de35b8750b1e",
+      "md_span": {
+        "start": 13237,
+        "end": 13625
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Les exploitants obtiennent des données exhaustives et cohérentes et veillent à l'absence de double comptage et de chevauchement entre les sous-installations. Les exploitants appliquent les méthodes de détermination énoncées à l'annexe VII, font preuve de la diligence appropriée et utilisent des sources de données représentant le plus haut degré d'exactitude possible conformément à la section 4 de l'annexe VII.\n\n2. Par dérogation au paragraphe 1, l'exploitant peut utiliser d'autres sources de données conformément aux sections 4.4 à 4.6 de l'annexe VII, pour autant qu'une des conditions suivantes soit remplie:\n\n| a) | l'utilisation des sources de données les plus exactes conformément à la section 4 de l'annexe VII n'est pas techniquement possible; |\n| --- | --- |\n\n| b) | l'utilisation des sources de données les plus exactes conformément à la section 4 de l'annexe VII entraînerait des coûts excessifs; |\n| --- | --- |\n\n| c) | sur la base d'une évaluation simplifiée de l'incertitude mettant en évidence les principales sources d'incertitude et donnant une estimation du degré d'incertitude associé, l'exploitant démontre de manière concluante à l'autorité compétente que le degré d'exactitude de la source de données qu'il propose est équivalent ou supérieur à celui des sources de données les plus exactes en vertu de la section 4 de l'annexe VII. |\n| --- | --- |\n\n3. Les exploitants archivent de manière exhaustive et transparente toutes les données énumérées à l'annexe IV ainsi que les pièces justificatives pendant au moins 10 ans à compter de la date de soumission de la demande d'allocation à titre gratuit. Sur demande, ils mettent ces données et ces documents à la disposition de l'autorité compétente et du vérificateur.",
+      "text_sha256": "640b1a9ec2e8699765ef219bedf1d8c2623a8ca4f0d3656da445cf18fefbe789",
+      "md_span": {
+        "start": 13658,
+        "end": 15412
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. L'exploitant d'une installation qui demande à bénéficier d'une allocation de quotas à titre gratuit en vertu de l'article 4, paragraphe 2, point b), et de l'article 5, paragraphe 2, établit un plan méthodologique de surveillance qui contient, en particulier, une description de l'installation et de ses sous-installations ainsi que de ses procédés de production et une description détaillée des méthodes de surveillance et des sources de données. Le plan méthodologique de surveillance comprend une documentation détaillée, complète et transparente de toutes les étapes de collecte des données, et contient au moins les éléments mentionnés à l'annexe VI.\n\n2. Pour chaque paramètre énuméré à l'annexe IV, l'exploitant choisit une méthode de surveillance fondée sur les principes énoncés à l'article 7 et sur les exigences méthodologiques établies à l'annexe VII. Sur la base de l'évaluation des risques effectuée conformément à l'article 11, paragraphe 1, et des procédures de contrôle visées à l'article 11, paragraphe 2, l'exploitant privilégie, lors du choix des méthodes de surveillance, les méthodes qui donnent les résultats les plus fiables, qui limitent le plus possible le risque de lacunes dans les données et qui comportent le moins de risques intrinsèques, y compris les risques de carence de contrôle. La méthode retenue est consignée dans le plan méthodologique de surveillance.\n\n3. Lorsque l'annexe VI fait référence à une procédure, et aux fins de l'article 12, paragraphe 3, du règlement (UE) no 601/2012, l'exploitant établit, consigne, met en œuvre et tient à jour cette procédure séparément du plan méthodologique de surveillance. Sur demande, l'exploitant met à la disposition de l'autorité compétente tous les documents relatifs aux procédures.\n\n4. L'exploitant soumet le plan méthodologique de surveillance à l'autorité compétente pour approbation au plus tard à la date fixée à l'article 4, paragraphe 1. Les États membres peuvent fixer une date limite plus précoce pour la soumission du plan méthodologique de surveillance et peuvent exiger que ce plan soit approuvé par l'autorité compétente avant la soumission d'une demande d'allocation à titre gratuit.\n\n5. Lorsqu'un exploitant soumet une demande d'allocation à titre gratuit alors qu'il a renoncé à une telle allocation pour une période d'allocation précédente, il soumet le plan méthodologique de surveillance pour approbation au plus tard six mois avant la date limite de soumission de la demande fixée à l'article 4, paragraphe 1.",
+      "text_sha256": "4b844b398a62fa68bdd28b176f2043f4279d41c3b86575ae8c5a0b333c38650f",
+      "md_span": {
+        "start": 15445,
+        "end": 17971
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. L'exploitant vérifie régulièrement que le plan méthodologique de surveillance est adapté à la nature et au fonctionnement de l'installation et qu'il ne nécessite pas d'améliorations. À cet effet, l'exploitant tient compte de toute recommandation d'amélioration figurant dans un rapport de vérification.\n\n2. L'exploitant modifie le plan méthodologique de surveillance dans les cas suivants:\n\n| a) | en cas de nouvelles émissions ou de nouveaux niveaux d'activité dus à la réalisation de nouvelles activités ou à l'utilisation de nouveaux combustibles ou de nouvelles matières qui ne figurent pas encore dans le plan méthodologique de surveillance; |\n| --- | --- |\n\n| b) | lorsque l'utilisation de nouveaux types d'instruments de mesure, de nouvelles méthodes d'échantillonnage ou d'analyse ou de nouvelles sources de données, ou d'autres facteurs, se traduisent par un plus grand degré d'exactitude dans la détermination des données déclarées; |\n| --- | --- |\n\n| c) | lorsque les données obtenues par la méthode de surveillance précédemment appliquée se sont révélées incorrectes; |\n| --- | --- |\n\n| d) | lorsque le plan méthodologique de surveillance n'est pas, ou n'est plus, conforme aux exigences du présent règlement; |\n| --- | --- |\n\n| e) | lorsqu'il est nécessaire de mettre en œuvre des recommandations d'amélioration du plan méthodologique de surveillance contenues dans un rapport de vérification. |\n| --- | --- |\n\n3. L'exploitant notifie toute modification prévue du plan méthodologique de surveillance à l'autorité compétente dans les meilleurs délais. Cependant, un État membre peut autoriser un exploitant à lui notifier, au plus tard le 31 décembre de la même année ou à une autre date fixée par lui, les modifications du plan méthodologique de surveillance qui ne sont pas importantes au sens du paragraphe 5.\n\n4. Toute modification importante, au sens du paragraphe 5, du plan méthodologique de surveillance est soumise à l'approbation de l'autorité compétente. Si l'autorité compétente estime qu'une modification que l'exploitant lui a notifiée comme étant importante ne l'est pas, il en informe l'exploitant.\n\n5. Les modifications suivantes du plan méthodologique de surveillance d'une installation sont considérées comme importantes:\n\n| a) | les modifications résultant de changements dans l'installation, en particulier de nouvelles sous-installations, les modifications des limites de sous-installations existantes ou les fermetures de sous-installations; |\n| --- | --- |\n\n| b) | le passage d'une méthode de surveillance mentionnée aux sections 4.4 à 4.6 de l'annexe VII à une autre méthode énumérée dans ces sections; |\n| --- | --- |\n\n| c) | le changement d'une valeur par défaut ou d'une méthode d'estimation indiquée dans le plan méthodologique de surveillance; |\n| --- | --- |\n\n| d) | les changements exigés par l'autorité compétente pour garantir la conformité du plan méthodologique de surveillance aux exigences du présent règlement. |\n| --- | --- |\n\n6. L'exploitant garde trace de toutes les modifications du plan méthodologique de surveillance. Chaque enregistrement contient:\n\n| a) | une description transparente de la modification; |\n| --- | --- |\n\n| b) | la justification de la modification; |\n| --- | --- |\n\n| c) | la date de notification de la modification prévue à l'autorité compétente; |\n| --- | --- |\n\n| d) | la date d'accusé de réception, par l'autorité compétente, de la notification visée au paragraphe 3, le cas échéant, et la date de l'approbation ou de la transmission de l'information visée au paragraphe 4; |\n| --- | --- |\n\n| e) | la date du début de mise en œuvre du plan méthodologique de surveillance modifié. |\n| --- | --- |",
+      "text_sha256": "69acde2975884a8b8e9ee3dba0de55d1c0880bc71bab765d7323b3a5731bdcd5",
+      "md_span": {
+        "start": 18004,
+        "end": 21693
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Aux fins de la communication des données et de la surveillance, l'exploitant divise chaque installation remplissant les conditions d'allocation de quotas d'émission à titre gratuit en vertu de l'article 10 bis de la directive 2003/87/CE en sous-installations. À cet effet, les intrants, les extrants et les émissions de l'installation sont attribués à une ou plusieurs sous-installations à l'aide d'une méthode permettant de quantifier les fractions précises des intrants, des extrants ou des émissions concernés à attribuer à chaque sous-installation.\n\n2. Afin d'attribuer les intrants, les extrants et les émissions d'une installation aux sous-installations, l'exploitant exécute les étapes suivantes, classées par ordre de priorité décroissant:\n\n| a) | si un des produits faisant l'objet des référentiels énumérés à l'annexe I est produit dans l'installation, l'opérateur attribue les intrants, les extrants et les émissions s'y rapportant aux sous-installations avec référentiel de produit, selon qu'il convient, en appliquant les règles énoncées à l'annexe VII; |\n| --- | --- |\n\n| b) | si des intrants, des extrants et des émissions susceptibles de relever de sous-installations avec référentiel de chaleur ou de sous-installations de chauffage urbain sont à prendre en considération au niveau de l'installation, et qu'ils ne relèvent d'aucune des sous-installations visées au point a), l'exploitant les attribue à des sous-installations avec référentiel de chaleur ou à des sous-installations de chauffage urbain, selon le cas, en appliquant les règles énoncées à l'annexe VII; |\n| --- | --- |\n\n| c) | si des intrants, des extrants et des émissions susceptibles de relever de sous-installations avec référentiel de combustibles sont à prendre en considération au niveau de l'installation, et qu'ils ne relèvent d'aucune des sous-installations visées au point a) ou b), l'exploitant les attribue à des sous-installations avec référentiel de combustibles, selon qu'il convient, en appliquant les règles énoncées à l'annexe VII; |\n| --- | --- |\n\n| d) | si des intrants, des extrants et des émissions susceptibles de relever de sous-installations avec émissions de procédé sont à prendre en considération au niveau de l'installation, et qu'ils ne relèvent d'aucune des sous-installations visées au point a), b) ou c), l'exploitant les attribue à des sous-installations avec émissions de procédé, selon qu'il convient, en appliquant les règles énoncées à l'annexe VII. |\n| --- | --- |\n\n3. Pour les sous-installations avec référentiel de chaleur, les sous-installations avec référentiel de combustibles et les sous-installations avec émissions de procédé, l'exploitant détermine clairement, sur la base des codes NACE et Prodcom, si le procédé concerné est utilisé ou non pour un secteur ou sous-secteur considéré comme exposé à un risque important de fuite de carbone, tel que déterminé conformément à l'article 10 ter, paragraphe 5, de la directive 2003/87/CE. En outre, l'exploitant distingue clairement la quantité de chaleur mesurable qui est exportée aux fins du chauffage urbain de la quantité de chaleur mesurable qui n'est pas utilisée pour un secteur ou sous-secteur considéré comme exposé à un risque important de fuite de carbone, tel que déterminé conformément à l'article 10 ter, paragraphe 5, de la directive 2003/87/CE.\n\nLorsqu'au moins 95 % du niveau d'activité des sous-installations avec référentiel de chaleur, des sous-installations avec référentiel de combustibles ou des sous-installations avec émissions de procédé sont utilisés pour des secteurs ou sous-secteurs considérés comme exposés à un risque important de fuite de carbone, tels que déterminés conformément à l'article 10 ter, paragraphe 5, de la directive 2003/87/CE, ou lorsqu'au moins 95 % du niveau d'activité des sous-installations avec référentiel de chaleur, des sous-installations avec référentiel de combustibles ou des sous-installations avec émissions de procédé sont utilisés pour des secteurs ou sous-secteurs qui ne sont pas considérés comme étant exposés à un risque important de fuite de carbone, l'exploitant est dispensé de l'obligation de fournir des données permettant d'établir une distinction au regard de l'exposition au risque de fuite de carbone.\n\nLorsqu'au moins 95 % du niveau d'activité des sous-installations de chauffage urbain ou des sous-installations avec référentiel de chaleur sont imputables à l'une de ces sous-installations, l'exploitant peut attribuer le niveau d'activité global de ces sous-installations à celle qui a le niveau d'activité le plus élevé.\n\n4. Lorsqu'une installation incluse dans le SEQE de l'Union européenne a produit et exporté de la chaleur mesurable vers une installation ou une autre entité non incluse dans le SEQE, l'exploitant considère que, pour cette chaleur, le procédé correspondant de la sous-installation avec référentiel de chaleur n'est pas utilisé pour un secteur ou sous-secteur considéré comme exposé à un risque important de fuite de carbone, tel que déterminé conformément à l'article 10 ter, paragraphe 5, de la directive 2003/87/CE, à moins qu'il démontre de façon concluante à l'autorité compétente que le consommateur de la chaleur mesurable fait partie d'un secteur ou sous-secteur considéré comme exposé à un risque important de fuite de carbone, tel que déterminé conformément à l'article 10 ter, paragraphe 5, de la directive 2003/87/CE.\n\nPour distinguer la chaleur mesurable imputable à la sous-installation de chauffage urbain, l'exploitant démontre de façon concluante à l'autorité compétente que la chaleur mesurable est exportée vers un réseau de chauffage urbain.\n\n5. Lorsqu'il procède à la répartition conformément aux paragraphes 1 et 2, l'exploitant veille à ce que:\n\n| a) | chacun des produits physiques de l'installation soit attribué à une sous-installation, sans omission ni double comptage; |\n| --- | --- |\n\n| b) | 100 % de la quantité de flux et d'émissions de l'installation énumérés dans le plan de surveillance de l'installation approuvé conformément au règlement (UE) no 601/2012 soient attribués aux sous-installations, sans omission ni double comptage, à moins qu'ils ne se rapportent à un procédé n'ouvrant pas droit à l'allocation à titre gratuit, comme la production d'électricité dans l'installation, la mise en torchère pour des raisons autres que la sécurité, qui ne relève pas d'une sous-installation avec référentiel de produit, ou la production de chaleur mesurable exportée vers d'autres installations couvertes par le SEQE de l'Union européenne; |\n| --- | --- |\n\n| c) | 100 % de la quantité nette de chaleur mesurable donnant doit à l'allocation à titre gratuit produite dans l'installation, ou importée ou exportée par l'installation, ainsi que des quantités transférées entre sous-installations, soient attribués à des sous-installations, sans omission ni double comptage; |\n| --- | --- |\n\n| d) | pour toute la chaleur mesurable produite, importée ou exportée par des sous-installations, il soit précisé si la chaleur mesurable a été produite par un procédé de combustion au sein d'une installation relevant du SEQE de l'Union européenne, importée à partir d'autres procédés produisant de la chaleur ou importée d'autres entités ne relevant pas du SEQE de l'Union européenne; |\n| --- | --- |\n\n| e) | si de l'électricité est produite dans l'installation, les quantités produites au sein des sous-installations avec référentiel de produit soient attribuées à ces sous-installations, sans omission ni double-comptage; |\n| --- | --- |\n\n| f) | pour chaque sous-installation avec référentiel de produit pour laquelle l'interchangeabilité combustibles/électricité est à prendre en considération conformément à la section 2 de l'annexe I, la quantité concernée d'électricité consommée soit déterminée et attribuée séparément; |\n| --- | --- |\n\n| g) | lorsqu'une sous-installation a des extrants de matières carbonées sous la forme de combustibles, de produits, de sous-produits ou de matières premières exportés vers d'autres sous-installations ou installations, ou de gaz résiduaires, ces extrants soient attribués aux sous-installations, sans omission ni double comptage, s'ils ne sont pas couverts par le point b); |\n| --- | --- |\n\n| h) | les émissions de CO2 à l'extérieur des limites du système d'une sous-installation avec référentiel de produit qui résultent des procédés énumérés à l'article 2, paragraphe 10, points a) à f), soient attribuées à une sous-installation avec émissions de procédé s'il peut être démontré de manière concluante à l'autorité compétente que ces émissions résultent directement et immédiatement d'un des procédés énumérés à l'article 2, paragraphe 10, et qu'elles ne sont pas dues à l'oxydation ultérieure de carbone incomplètement oxydé à l'état gazeux dans des conditions standard; |\n| --- | --- |\n\n| i) | lorsque des émissions de CO2 dues à la combustion de gaz résiduaire non destinée à la production de chaleur mesurable, de chaleur non mesurable ou d'électricité se produisent en dehors des limites du système d'une sous-installation avec référentiel de produit du fait des procédés énumérés à l'article 2, paragraphe 10, points a) à f), 75 % de la quantité de carbone contenue dans le gaz résiduaire soient considérés comme étant convertis en CO2 et soient attribués à une sous-installation avec émissions de procédé; |\n| --- | --- |\n\n| j) | afin d'éviter tout double comptage, les produits d'un procédé de production réintroduits dans le même procédé de production soient déduits des niveaux d'activité annuels selon qu'il convient, conformément aux définitions des produits figurant à l'annexe I; |\n| --- | --- |\n\n| k) | lorsque de la chaleur mesurable est récupérée par des procédés relevant d'une sous-installation avec référentiel de combustibles, afin d'éviter le double comptage, la quantité nette concernée de chaleur mesurable divisée par un rendement de référence de 90 % soit déduite de l'apport de combustible. Le même traitement est appliqué pour la chaleur récupérée à partir de procédés relevant d'une sous-installation avec émissions de procédé. |\n| --- | --- |",
+      "text_sha256": "76331a4684f5c48da129043ac3e94ae58e5f749efa80874fe3cc547f1b6deb42",
+      "md_span": {
+        "start": 21728,
+        "end": 31854
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. L'exploitant recense les sources des risques d'erreur dans le flux de données, depuis les données primaires jusqu'aux données finales de la déclaration relative aux données de référence, et établit, consigne, met en œuvre et tient à jour un système de contrôle efficace pour faire en sorte que les rapports résultant des activités de gestion du flux de données ne contiennent pas d'inexactitudes et soient conformes au plan méthodologique de surveillance et au présent règlement.\n\nSur demande, l'exploitant met à la disposition de l'autorité compétente l'évaluation des risques effectuée conformément au premier alinéa. Il met aussi à disposition l'évaluation des risques aux fins de sa vérification.\n\n2. Aux fins du paragraphe 1, premier alinéa, l'exploitant établit, consigne, met en œuvre et tient à jour des procédures écrites concernant les activités de gestion du flux de données et les activités de contrôle, et fait référence à ces procédures dans le plan méthodologique de surveillance conformément à l'article 8, paragraphe 3.\n\n3. Les activités de contrôle visées au paragraphe 2 incluent, selon le cas:\n\n| a) | l'assurance de la qualité de l'équipement de mesure concerné; |\n| --- | --- |\n\n| b) | l'assurance de la qualité des systèmes informatiques garantissant que les systèmes concernés sont conçus, décrits, testés, mis en œuvre, contrôlés et entretenus de manière à garantir un traitement fiable, précis et en temps utile des données en fonction des risques recensés conformément au paragraphe 1; |\n| --- | --- |\n\n| c) | la séparation des fonctions parmi les activités de gestion du flux de données et les activités de contrôle, ainsi que la gestion des compétences nécessaires; |\n| --- | --- |\n\n| d) | les analyses internes et la validation des données; |\n| --- | --- |\n\n| e) | les corrections et mesures correctives; |\n| --- | --- |\n\n| f) | le contrôle des activités externalisées; |\n| --- | --- |\n\n| g) | l'archivage et la documentation, y compris la gestion des différentes versions des documents. |\n| --- | --- |\n\n4. Aux fins du paragraphe 3, point a), l'exploitant s'assure que tout l'équipement de mesure nécessaire est étalonné, réglé et vérifié à intervalles réguliers, y compris avant l'utilisation, et contrôlé par rapport à des normes de mesure correspondant aux normes internationales, lorsqu'elles existent, et qu'il est adapté aux risques mis en évidence.\n\nLorsque des composants des systèmes de mesure ne peuvent pas être étalonnés, l'exploitant désigne ces composants dans le plan méthodologique de surveillance et propose des activités de contrôle de remplacement.\n\nSi l'équipement n'est pas jugé conforme aux exigences requises, l'exploitant prend rapidement les mesures correctives qui s'imposent.\n\n5. Aux fins du paragraphe 3, point d), l'exploitant réexamine et valide les données résultant des activités de gestions des données visées au paragraphe 2.\n\nLe réexamen et la validation de ces données comprennent au minimum:\n\n| a) | la vérification de l'exhaustivité des données; |\n| --- | --- |\n\n| b) | une comparaison des données que l'exploitant a déterminées au cours de la période de référence précédente et, en particulier, des contrôles de cohérence basés sur des séries chronologiques de l'efficacité de chaque sous-installation sur le plan des émissions de gaz à effet de serre; |\n| --- | --- |\n\n| c) | une comparaison des données et valeurs résultant de différents systèmes de collecte des données d'exploitation, en particulier en ce qui concerne les protocoles de production, les ventes et les stocks des produits auxquels se rapportent les référentiels de produits; |\n| --- | --- |\n\n| d) | des comparaisons et des contrôles d'exhaustivité des données aux niveaux des installations et des sous-installations, afin de s'assurer du respect des exigences énoncées à l'article 10, paragraphe 5. |\n| --- | --- |\n\n6. Aux fins du paragraphe 3, point e), l'exploitant veille à ce que, lorsque des activités de gestion du flux de données ou des activités de contrôle se révèlent inefficaces ou ne respectent pas les règles fixées dans les documents décrivant les procédures applicables à ces activités, des mesures correctives soient prises et les données concernées corrigées dans les meilleurs délais.\n\n7. Aux fins du paragraphe 3, point f), lorsque l'exploitant externalise une ou plusieurs activités de gestion du flux de données ou de contrôle visées au paragraphe 1, il procède à la totalité des actions suivantes:\n\n| a) | contrôler la qualité des activités de gestion du flux de données et des activités de contrôle externalisées conformément au présent règlement; |\n| --- | --- |\n\n| b) | définir les exigences appropriées applicables aux résultats des activités externalisées ainsi qu'aux méthodes utilisées dans le cadre de ces activités; |\n| --- | --- |\n\n| c) | contrôler la qualité des résultats et méthodes visés au point b) du présent paragraphe; |\n| --- | --- |\n\n| d) | veiller à ce que les activités externalisées soient menées de manière à prévenir les risques intrinsèques et les risques de carence de contrôle mis en évidence lors de l'évaluation des risques visée au paragraphe 1. |\n| --- | --- |\n\n8. L'exploitant surveille l'efficacité du système de contrôle, notamment en procédant à des analyses internes et en tenant compte des constatations du vérificateur lors de la vérification des rapports effectuée aux fins de l'article 4, paragraphe 2.\n\nSi l'exploitant constate que le système de contrôle est inefficace ou inadapté aux risques mis en évidence, il s'efforce d'améliorer ce système et de mettre à jour le plan méthodologique de surveillance ou les procédures écrites sur lesquelles celui-ci repose pour ce qui concerne les activités de gestion du flux de données, les évaluations des risques et les activités de contrôle, selon qu'il convient.",
+      "text_sha256": "9a236d184f702ba1802e3a0625786f3a36ccd5ca0f275a57f7ed089962592e38",
+      "md_span": {
+        "start": 31889,
+        "end": 37715
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Lorsqu'il n'est temporairement pas possible, pour des raisons techniques, d'appliquer le plan méthodologique de surveillance approuvé par l'autorité compétente, l'exploitant applique une méthode basée sur d'autres sources de données énumérées dans le plan méthodologique de surveillance pour effectuer les contrôles de corroboration conformément à l'article 10, paragraphe 5, ou, si le plan méthodologique ne contient pas de tels éléments, une autre méthode fournissant le degré d'exactitude le plus élevé conformément aux sources de données génériques et à leur hiérarchie indiquées à la section 4 de l'annexe VII, ou une méthode d'estimation prudente, jusqu'à ce que les conditions permettant l'application du plan méthodologique de surveillance approuvé soient rétablies.\n\nL'exploitant prend toutes les mesures nécessaires pour que le plan méthodologique de surveillance puisse être rapidement approuvé.\n\n2. En l'absence de données importantes pour la déclaration relative aux données de référence, pour lesquelles le plan méthodologique de surveillance n'énumère pas d'autres méthodes de surveillance ou d'autres sources de données pour corroborer les données ou pour combler les lacunes dans les données, l'exploitant utilise une méthode d'estimation appropriée pour déterminer des données de remplacement modérées pour la période correspondante et pour le paramètre manquant, en s'appuyant notamment sur les meilleures pratiques dans le secteur et sur les connaissances techniques et scientifiques récentes, et il justifie dûment les lacunes dans les données ainsi que l'utilisation de ces méthodes dans une annexe à la déclaration relative aux données de référence.\n\n3. S'il s'écarte temporairement du plan méthodologique de surveillance approuvé conformément au paragraphe 1, ou s'il constate l'absence de données qui sont importantes pour la déclaration visée à l'article 4, paragraphe 2, point a), ou pour le rapport visé à l'article 5, paragraphe 2, l'exploitant établit dans les meilleurs délais une procédure écrite pour éviter ce type de lacunes à l'avenir et modifie le plan méthodologique de surveillance conformément à l'article 9, paragraphe 3. En outre, l'exploitant évalue la nécessité de mettre à jour les activités de contrôle visées à l'article 11, paragraphe 3, et, le cas échéant, modifie ces activités et les procédures écrites correspondantes.",
+      "text_sha256": "f0db0013c00e7fc835f3a7e1e006f8e3b5221d58485a4852ec18129ce8231071",
+      "md_span": {
+        "start": 37750,
+        "end": 40135
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nLes États membres peuvent exiger que les exploitants et les vérificateurs utilisent des modèles électroniques ou des formats de fichiers spécifiques pour soumettre les déclarations relatives aux données de référence, les plans méthodologiques de surveillance et les rapports de vérification visés à l'article 4, paragraphe 2, ainsi que les déclarations des données de nouveaux entrants, les plans méthodologiques de surveillance et les rapports de vérification visés à l'article 5, paragraphe 2.",
+      "text_sha256": "ef1e55bb6a388dbcb5dfcefb66dd57926fd3b909969ee90787446ce8a69e77c1",
+      "md_span": {
+        "start": 40170,
+        "end": 40677
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. La liste établie conformément à l'article 11, paragraphe 1, de la directive 2003/87/CE est soumise à la Commission au moyen d'un modèle électronique fourni par la Commission. Elle recense la totalité des producteurs d'électricité, des petites installations qui peuvent être exclues du SEQE de l'Union européenne en vertu des articles 27 et 27 bis de la directive 2003/87/CE et des installations qui seront incluses dans le SEQE de l'Union européenne en vertu de l'article 24 de cette directive.\n\n2. La liste visée au paragraphe 1 contient, pour chaque installation en place demandant l'allocation de quotas à titre gratuit, les informations suivantes:\n\n| a) | l'identification de l'installation et de ses limites, au moyen du code d'identification d'installation du journal des transactions de l'Union européenne (EUTL); |\n| --- | --- |\n\n| b) | des informations relatives à l'activité de l'installation et à son admissibilité au bénéfice de l'allocation à titre gratuit; |\n| --- | --- |\n\n| c) | la description de chacune des sous-installations de l'installation; |\n| --- | --- |\n\n| d) | le niveau d'activité annuel et les émissions annuelles de chacune des sous-installations pour chaque année de la période de référence considérée; |\n| --- | --- |\n\n| e) | des informations indiquant, pour chacune des sous-installations, si elle relève ou non d'un secteur ou sous-secteur considéré comme étant exposé à un risque important de fuite de carbone, tel que déterminé conformément à l'article 10 ter, paragraphe 5, de la directive 2003/87/CE, y compris, le cas échéant, les codes Prodcom des produits fabriqués; |\n| --- | --- |\n\n| f) | les données déclarées pour chacune des sous-installations, conformément à l'annexe IV. |\n| --- | --- |\n\n3. Dès réception de la liste visée au paragraphe 1, la Commission examine l'inscription de chaque installation sur la liste ainsi que les données associées fournies conformément au paragraphe 2.\n\n4. Si la Commission ne rejette pas l'inscription d'une installation sur cette liste, les données sont utilisées pour le calcul des valeurs révisées des référentiels visés à l'article 10 bis, paragraphe 2, de la directive 2003/87/CE.\n\n5. Les États membres déterminent et notifient les quantités annuelles provisoires de quotas alloués gratuitement à chaque installation en utilisant les valeurs révisées des référentiels pour la période d'allocation concernée, conformément à l'article 16, paragraphes 2 à 7, et aux articles 19 à 22.\n\n6. Après avoir notifié les quantités annuelles provisoires de quotas alloués à titre gratuit pour la période d'allocation concernée, la Commission détermine tout facteur établi en vertu de l'article 10 bis, paragraphe 5, de la directive 2003/87/CE en comparant la somme des quantités annuelles provisoires de quotas alloués gratuitement aux installations chaque année de la période d'allocation concernée moyennant application des facteurs déterminés à l'annexe V du présent règlement à la quantité annuelle de quotas qui est calculée conformément à l'article 10 bis, paragraphes 5 et 5 bis de la directive 2003/87/CE compte tenu de la part correspondante de la quantité annuelle totale pour l'ensemble de l'Union, déterminée conformément à l'article 10, paragraphe 1, et à l'article 10 bis, paragraphe 5, de la directive 2003/87/CE. La détermination tient compte des installations incluses en vertu de l'article 24 et des installations exclues en vertu des articles 27 et 27 bis de la directive 2003/87/CE, selon le cas.\n\n7. Après que le facteur établi en vertu de l'article 10 bis, paragraphe 5, de la directive 2003/87/CE a été déterminé, les États membres déterminent et communiquent à la Commission la quantité annuelle finale de quotas d'émission alloués à titre gratuit pour chaque année de la période d'allocation concernée, conformément à l'article 16, paragraphe 8.\n\n8. Si demande lui en est faite, chaque État membre met les déclarations et rapports reçus conformément à l'article 4, paragraphe 2, à la disposition de la Commission.",
+      "text_sha256": "22452cb4cecec00a1b78070cd9f7871e6e34d0092309be4bd0be08ce3e3620b5",
+      "md_span": {
+        "start": 40712,
+        "end": 44735
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Les États membres analysent les déclarations relatives aux données de référence et les rapports de vérification transmis en vertu de l'article 4, paragraphe 2, afin de s'assurer que les exigences du présent règlement sont satisfaites. S'il y a lieu, l'autorité compétente demande aux exploitants de rectifier les éventuelles inexactitudes ou erreurs ayant une incidence sur la détermination des niveaux d'activité historique. L'autorité compétente peut demander aux opérateurs de présenter d'autres données, en plus des informations et des documents requis en vertu de l'article 4, paragraphe 2.\n\n2. Sur la base des déclarations relatives aux données de référence et des rapports de vérification qu'ils ont analysés, les États membres déterminent le niveau d'activité historique de chaque sous-installation et de chaque installation pour la période de référence concernée. Les États membres ne peuvent décider de déterminer les niveaux d'activité historiques que lorsque les données relatives à une installation ont été vérifiées et reconnues satisfaisantes ou lorsqu'ils ont pu établir que les lacunes à l'origine des conclusions du vérificateur sont dues à des circonstances exceptionnelles et imprévisibles que même le déploiement de toute la diligence requise n'aurait pas permis d'éviter.\n\n3. Pour chaque produit pour lequel il a été défini un référentiel de produit figurant à l'annexe I, le niveau d'activité historique relatif au produit correspond à la moyenne arithmétique de la production annuelle historique de ce produit dans l'installation concernée durant la période de référence.\n\n4. Le niveau d'activité historique relatif à la chaleur correspond à la moyenne arithmétique de l'importation annuelle historique de chaleur mesurable nette en provenance d'une installation couverte par le SEQE de l'Union européenne ou de la production de chaleur mesurable nette, ou des deux à la fois, durant la période de référence, cette chaleur étant consommée dans les limites de l'installation pour la fabrication de produits, pour la production d'énergie mécanique autre que celle utilisée aux fins de la production d'électricité, pour le chauffage ou le refroidissement, à l'exclusion de la consommation aux fins de la production d'électricité, ou exportée vers une installation ou une autre entité non couverte par le SEQE, à l'exclusion de l'exportation aux fins de la production d'électricité, exprimée en térajoules par an.\n\nLe niveau d'activité historique relatif au chauffage urbain correspond à la moyenne arithmétique de l'importation annuelle historique de chaleur mesurable en provenance d'une installation couverte par le SEQE de l'Union européenne ou de la production de chaleur mesurable, ou des deux à la fois, cette chaleur étant exportée à des fins de chauffage urbain, exprimée en térajoules par an.\n\n5. Le niveau d'activité historique relatif aux combustibles correspond à la moyenne arithmétique de la consommation annuelle historique de combustibles utilisés pour la production de chaleur non mesurable consommée pour la fabrication de produits, pour la production d'énergie mécanique autre que celle utilisée aux fins de la production d'électricité, pour le chauffage ou le refroidissement, à l'exclusion de la consommation aux fins de la production d'électricité, y compris la mise en torchère pour des raisons de sécurité, durant la période de référence, exprimée en térajoules par an.\n\n6. Pour les émissions de procédé liées à la fabrication de produits dans l'installation concernée durant la période de référence, le niveau d'activité historique relatif au procédé correspond à la moyenne arithmétique des émissions de procédé annuelles historiques, exprimée en tonnes équivalent dioxyde de carbone.\n\n7. Seules les années civiles durant lesquelles l'installation a été en activité pendant une journée au moins sont prises en compte aux fins de la détermination des valeurs de la moyenne arithmétique visées aux paragraphes 3 à 6.\n\nSi une sous-installation a été en activité moins de deux années civiles durant la période de référence concernée, les niveaux d'activité historiques sont les niveaux d'activité de la première année civile d'exploitation suivant le début de l'exploitation normale de cette sous-installation.\n\nSi, durant la période de référence, une sous-installation n'a pas été en activité pendant une année civile après le début de l'exploitation normale, le niveau d'activité historique est déterminé lorsque la déclaration du niveau d'activité après la première année civile d'exploitation est transmise.\n\n8. Par dérogation au paragraphe 3, dans le cas des produits auxquels se rapportent les référentiels de produits figurant à l'annexe III, les États membres déterminent le niveau d'activité historique relatif au produit sur la base de la moyenne arithmétique de la production annuelle historique, suivant les formules indiquées à ladite annexe.",
+      "text_sha256": "065c6f6d321f4ceda140a885dd0a481b2429c884e9e9bdafad92491be8e98aee",
+      "md_span": {
+        "start": 44770,
+        "end": 49683
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Lorsque l'exploitant d'une installation en place a présenté une demande en bonne et due forme en vue de l'allocation de quotas d'émission à titre gratuit conformément à l'article 4, l'État membre concerné calcule, sur la base des données recueillies conformément à l'article 14, pour chaque année, le nombre de quotas d'émission à allouer à titre gratuit à cette installation à partir de 2021.\n\n2. Aux fins du calcul visé au paragraphe 1, les États membres commencent par déterminer, séparément pour chaque sous-installation, le nombre annuel provisoire de quotas d'émission alloués à titre gratuit, de la manière suivante:\n\n| a) | pour les sous-installations avec référentiel de produit, le nombre annuel provisoire de quotas d'émission alloués à titre gratuit pour une année donnée correspond à la valeur de ce référentiel de produit pour la période d'allocation concernée, adoptée conformément à l'article 10 bis, paragraphe 2, de la directive 2003/87/CE, multipliée par le niveau d'activité historique relatif au produit correspondant; |\n| --- | --- |\n\n| b) | pour les sous-installations avec référentiel de chaleur, le nombre annuel provisoire de quotas d'émission alloués à titre gratuit pour une année donnée correspond à la valeur du référentiel de chaleur pour la chaleur mesurable pour la période d'allocation concernée, adoptée conformément à l'article 10 bis, paragraphe 2, de la directive 2003/87/CE, multipliée par le niveau d'activité historique relatif à la chaleur pour la consommation de chaleur mesurable ou son exportation vers des installations ou d'autres entités non couvertes par le SEQE à d'autres fins que le chauffage urbain; |\n| --- | --- |\n\n| c) | pour les sous-installations de chauffage urbain, le nombre annuel provisoire de quotas d'émission alloués à titre gratuit pour une année donnée correspond à la valeur du référentiel de chaleur pour la chaleur mesurable pour la période d'allocation concernée, adoptée conformément à l'article 10 bis, paragraphe 2, de la directive 2003/87/CE, multipliée par le niveau d'activité historique relatif au chauffage urbain; |\n| --- | --- |\n\n| d) | pour les sous-installations avec référentiel de combustibles, le nombre annuel provisoire de quotas d'émission alloués à titre gratuit pour une année donnée correspond à la valeur du référentiel de combustibles pour la période de cinq ans concernée, adoptée conformément à l'article 10 bis, paragraphe 2, de la directive 2003/87/CE, multipliée par le niveau d'activité historique relatif aux combustibles du combustible consommé; |\n| --- | --- |\n\n| e) | pour les sous-installations avec émissions de procédé, le nombre annuel provisoire de quotas d'émission alloués à titre gratuit pour une année donnée correspond au niveau d'activité historique relatif au procédé, multiplié par 0,97. |\n| --- | --- |\n\nSi, durant la période de référence, une sous-installation a été en activité moins d'une année civile après le début de l'exploitation normale, l'allocation provisoire pour la période d'allocation concernée est déterminée après que le niveau d'activité historique a été déclaré.\n\n3. Aux fins de l'article 10 ter, paragraphe 4, de la directive 2003/87/CE, les facteurs déterminés à l'annexe V du présent règlement sont appliqués au nombre annuel provisoire de quotas d'émission alloués à titre gratuit qui est déterminé pour chaque sous-installation pour l'année concernée conformément au paragraphe 2 du présent article, lorsque les procédés mis en œuvre dans ces sous-installations sont utilisés pour des secteurs ou sous-secteurs considérés comme non exposés à un risque important de fuite de carbone, tels que déterminés conformément à l'article 10 ter, paragraphe 5, de la directive 2003/87/CE.\n\nPar dérogation au premier alinéa, pour les sous-installations de chauffage urbain, le facteur à appliquer est 0,3.\n\n4. Lorsque les procédés mis en œuvre dans les sous-installations visées au paragraphe 2 sont utilisés pour des secteurs ou sous-secteurs considérés comme exposés à un risque important de fuite de carbone, tels que déterminés conformément à l'article 10 ter, paragraphe 5, de la directive 2003/87/CE, le facteur à appliquer est 1.\n\n5. Dans le cas des sous-installations ayant reçu de la chaleur mesurable de sous-installations fabriquant des produits qui relèvent du référentiel d'acide nitrique, le nombre annuel provisoire de quotas d'émission alloués à titre gratuit est diminué de la consommation annuelle historique de cette chaleur durant les périodes de référence concernées, multipliée par la valeur du référentiel de chaleur pour cette chaleur mesurable pour la période d'allocation concernée, adoptée conformément à l'article 10 bis, paragraphe 2, de la directive 2003/87/CE.\n\nÀ partir de 2026, le nombre annuel provisoire de quotas d'émission alloués à titre gratuit aux sous-installations avec référentiel de produit pour la période d'allocation concernée est réduit en fonction des émissions annuelles historiques provenant des gaz résiduaires mis en torchère, à l'exclusion de la mise en torchère pour raisons de sécurité, et non utilisés aux fins de la production de chaleur mesurable, de chaleur non mesurable ou d'électricité.\n\n6. La quantité annuelle provisoire de quotas d'émission alloués à titre gratuit à chaque installation correspond à la somme des nombres annuels provisoires de quotas d'émission alloués à titre gratuit à toutes les sous-installations, calculés conformément aux paragraphes 2 à 5.\n\nLorsqu'une installation comprend des sous-installations produisant de la pâte à papier (pâte kraft fibres courtes, pâte kraft fibres longues, pâte thermomécanique et pâte mécanique, pâte au bisulfite ou autre pâte à papier non visée par un référentiel de produit) qui exportent de la chaleur mesurable vers d'autres sous-installations techniquement liées, la quantité provisoire de quotas d'émission alloués à titre gratuit, sans préjudice des nombres annuels provisoires de quotas d'émission alloués à titre gratuit aux autres sous-installations de l'installation concernée, ne tient compte du nombre annuel provisoire de quotas d'émission alloués à titre gratuit que si les produits à base de pâte à papier fabriqués par cette sous-installation sont mis sur le marché et ne sont pas transformés en papier dans la même installation ou dans des installations techniquement liées.\n\n7. Lorsqu'ils déterminent la quantité annuelle provisoire de quotas d'émission alloués à titre gratuit à chaque installation, les États membres et les exploitants veillent à ce que les émissions ou les niveaux d'activité ne fassent pas l'objet d'un double comptage et à ce que l'allocation ne soit pas négative. En particulier, en cas d'importation, par une installation, d'un produit intermédiaire visé par un référentiel de produit conformément à la définition des limites du système concernées figurant à l'annexe I, les émissions ne font pas l'objet d'un double comptage lors de la détermination de la quantité annuelle provisoire de quotas d'émission alloués à titre gratuit aux deux installations concernées.\n\n8. La quantité annuelle finale de quotas d'émission alloués à titre gratuit à chaque installation en place, à l'exception des installations relevant de l'article 10 bis, paragraphe 3, de la directive 2003/87/CE, correspond à la quantité annuelle provisoire de quotas d'émission alloués à titre gratuit à chaque installation, déterminée conformément au paragraphe 6 du présent article, multipliée par le facteur déterminé conformément à l'article 14, paragraphe 6, du présent règlement.\n\nPour les installations relevant de l'article 10 bis, paragraphe 3, de la directive 2003/87/CE qui remplissent les conditions d'allocation de quotas d'émission à titre gratuit, la quantité annuelle finale de quotas d'émission alloués à titre gratuit correspond à la quantité annuelle provisoire de quotas d'émission alloués à titre gratuit à chaque installation, déterminée conformément au paragraphe 6 du présent article et adaptée chaque année au moyen du facteur linéaire défini à l'article 9 de la directive 2003/87/CE (la quantité annuelle provisoire de quotas d'émission alloués à titre gratuit à l'installation concernée pour l'année 2013 servant de référence), sauf les années pour lesquelles ces allocations sont adaptées de manière uniforme conformément à l'article 10 bis, paragraphe 5, de la directive 2003/87/CE.\n\nPar dérogation au deuxième alinéa, les années où le facteur déterminé conformément à l'article 14, paragraphe 6, est inférieur à 100 %, en ce qui concerne les installations relevant de l'article 10 bis, paragraphe 3, de la directive 2003/87/CE qui remplissent les conditions d'allocation à titre gratuit, la quantité annuelle finale de quotas d'émission alloués à titre gratuit correspond à la quantité annuelle provisoire de quotas d'émission alloués à titre gratuit à chaque installation, déterminée conformément au paragraphe 6 du présent article et adaptée chaque année au moyen du facteur déterminé conformément à l'article 14, paragraphe 6, du présent règlement.\n\n9. Aux fins des calculs visés aux paragraphes 1 à 8, le nombre de quotas alloués aux sous-installations et aux installations est arrondi à l'entier le plus proche.",
+      "text_sha256": "ae567ce4e63b88f97d8464167b13eca60cde6df7daa8b784e063b7a5bff0b122",
+      "md_span": {
+        "start": 49718,
+        "end": 58938
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nLes États membres déterminent les niveaux d'activité historiques de chaque nouvel entrant et de ses sous-installations, comme suit:\n\n| a) | le niveau d'activité historique relatif au produit correspond, pour chaque produit pour lequel il a été défini un référentiel de produit figurant à l'annexe I du présent règlement ou conformément à l'article 24 de la directive 2003/87/CE, au niveau d'activité de la première année civile suivant le début de l'exploitation normale pour la fabrication de ce produit dans la sous-installation concernée; |\n| --- | --- |\n\n| b) | Le niveau d'activité historique relatif à la chaleur correspond au niveau d'activité de la première année civile suivant le début de l'exploitation normale pour l'importation de chaleur mesurable en provenance d'une installation couverte par le SEQE de l'Union européenne ou pour la production de chaleur, ou pour les deux à la fois, cette chaleur étant consommée dans les limites de l'installation pour la fabrication de produits, pour la production d'énergie mécanique autre que celle utilisée aux fins de la production d'électricité, pour le chauffage ou le refroidissement, à l'exclusion de la consommation aux fins de la production d'électricité, ou exportée vers une installation ou une autre entité non couverte par le SEQE, à l'exclusion de l'exportation aux fins de la production d'électricité; |\n| --- | --- |\n\n| c) | le niveau d'activité historique relatif au chauffage urbain correspond au niveau d'activité de la première année civile suivant le début de l'exploitation normale pour l'importation de chaleur mesurable en provenance d'une installation couverte par le SEQE de l'Union européenne ou pour la production de chaleur mesurable, ou pour les deux à la fois, cette chaleur étant exportée à des fins de chauffage urbain; |\n| --- | --- |\n\n| d) | le niveau d'activité historique relatif aux combustibles correspond au niveau d'activité de la première année civile suivant le début de l'exploitation normale pour la consommation de combustibles utilisés pour la production de chaleur non mesurable consommée pour la fabrication de produits, pour la production d'énergie mécanique autre que celle utilisée aux fins de la production d'électricité, pour le chauffage ou pour le refroidissement de l'installation concernée, à l'exclusion de la consommation aux fins de la production d'électricité, y compris la mise en torchère pour des raisons de sécurité; |\n| --- | --- |\n\n| e) | le niveau d'activité relatif aux émissions de procédé correspond au niveau d'activité de la première année civile suivant le début de l'exploitation normale pour la production d'émissions de procédé de l'unité de procédé; |\n| --- | --- |\n\n| f) | par dérogation au point a), dans le cas des produits auxquels se rapportent les référentiels de produits figurant à l'annexe III, le niveau d'activité historique relatif au produit correspond au niveau d'activité de la première année civile suivant le début de l'exploitation normale pour fabrication de ce produit dans la sous-installation concernée, déterminé suivant les formules indiquées à ladite annexe. |\n| --- | --- |",
+      "text_sha256": "560aa0235378baec498d42f825a7bfc17efa36d642646089ef18f27fb427222c",
+      "md_span": {
+        "start": 58973,
+        "end": 62116
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Aux fins de l'allocation de quotas d'émission à titre gratuit aux nouveaux entrants, les États membres calculent séparément, pour chaque sous-installation, le nombre annuel provisoire de quotas d'émission alloués à titre gratuit à compter du début de l'exploitation normale de l'installation, de la manière suivante:\n\n| a) | pour chaque sous-installation avec référentiel de produit, chaque sous-installation avec référentiel de chaleur et chaque sous-installation avec référentiel de combustibles, le nombre annuel provisoire de quotas d'émission alloués à titre gratuit pour une année donnée correspond à la valeur du référentiel pour la période concernée, multipliée par le niveau d'activité historique correspondant; |\n| --- | --- |\n\n| b) | pour chaque sous-installation avec émissions de procédé, le nombre annuel provisoire de quotas d'émission alloués à titre gratuit pour une année donnée correspond au niveau d'activité historique relatif au procédé, multiplié par 0,97. |\n| --- | --- |\n\nL'article 16, paragraphes 3, 4, 5, et 7, s'applique mutatis mutandis aux fins du calcul du nombre annuel provisoire de quotas d'émission alloués à titre gratuit aux nouveaux entrants.\n\n2. Le nombre annuel provisoire de quotas d'émission alloués à titre gratuit pour l'année civile durant laquelle débute l'exploitation normale correspond à la valeur du référentiel applicable pour chaque sous- installation, multipliée par le niveau d'activité cette année-là.\n\n3. La quantité annuelle provisoire de quotas d'émission alloués à titre gratuit à chaque installation correspond à la somme des nombres annuels provisoires de quotas d'émission alloués à titre gratuit à toutes les sous-installations, calculés conformément aux paragraphes 1 et 2. L'article 16, paragraphe 6, deuxième alinéa, s'applique.\n\n4. Les États membres notifient sans délai à la Commission la quantité annuelle de quotas d'émission alloués à titre gratuit par installation aux nouveaux entrants.\n\nLes quotas d'émission contenus dans la réserve pour les nouveaux entrants créée en vertu de l'article 10 bis, paragraphe 7, de la directive 2003/87/CE sont alloués par la Commission sur la base du principe «premier arrivé, premier servi», dès réception de cette notification.\n\nLa Commission peut rejeter la quantité annuelle provisoire de quotas d'émission alloués à titre gratuit à une installation donnée.\n\n5. La quantité annuelle finale de quotas d'émission alloués à titre gratuit correspond à la quantité annuelle provisoire de quotas d'émission alloués à titre gratuit à chaque installation, déterminée conformément aux paragraphes 1 à 4 et adaptée chaque année au moyen du facteur de réduction linéaire défini à l'article 9 de la directive 2003/87/CE, en utilisant comme référence la quantité annuelle provisoire de quotas d'émission alloués à titre gratuit à l'installation concernée pour la première année de la période d'allocation concernée.\n\n6. Aux fins des calculs visés aux paragraphes 1 à 5, le nombre de quotas alloués aux sous-installations et aux installations est arrondi à l'entier le plus proche.",
+      "text_sha256": "8d2a1971239e0a3bb3aa0d1f626a606c55ddc70aa72b39a5b408ecf69b0b7d71",
+      "md_span": {
+        "start": 62151,
+        "end": 65244
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\nPar dérogation à l'article 16, paragraphe 2, point a), et à l'article 18, paragraphe 1, point a), le nombre annuel provisoire de quotas d'émission alloués à titre gratuit à une sous-installation avec référentiel de produit pour la production de produits chimiques à haute valeur ajoutée (ci-après dénommés «HVC» — high value chemicals) correspond à la valeur du référentiel de produit relatif au vapocraquage pour la période d'allocation concernée, multipliée par le niveau d'activité historique déterminé conformément à l'annexe III et par le quotient des émissions directes totales, y compris les émissions liées à la chaleur importée nette, durant la période référence visée à l'article 15, paragraphe 2, ou la première année civile suivant le début de l'exploitation normale visée à l'article 17, point a), selon le cas, calculées conformément à l'article 22, paragraphe 2, et exprimées en tonnes équivalent dioxyde de carbone, et de la somme de ces émissions directes totales et des émissions indirectes pertinentes durant la période de référence visée à l'article 15, paragraphe 2, ou la première année civile suivant le début de l'exploitation normale visée à l'article 17, point a), selon le cas, calculées conformément à l'article 22, paragraphe 3. Au résultat de ce calcul sont ajoutées 1,78 tonne de dioxyde de carbone par tonne d'hydrogène fois la production historique moyenne d'hydrogène à partir de la charge d'appoint, exprimée en tonnes d'hydrogène, 0,24 tonne de dioxyde de carbone par tonne d'éthylène fois la production historique moyenne d'éthylène à partir de la charge d'appoint, exprimée en tonnes d'éthylène, et 0,16 tonne de dioxyde de carbone par tonne de HVC fois la production historique moyenne de produits chimiques à haute valeur ajoutée autres que l'hydrogène et l'éthylène à partir de la charge d'appoint, exprimée en tonnes de HVC.",
+      "text_sha256": "38351010c07b78246629645db1afe0f68903c93707149e61bdec24cc1219ee70",
+      "md_span": {
+        "start": 65279,
+        "end": 67157
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\nPar dérogation à l'article 16, paragraphe 2, point a), et à l'article 18, paragraphe 1, point a), le nombre annuel provisoire de quotas d'émission alloués à titre gratuit à une sous-installation en rapport avec la production de chlorure de vinyle monomère (ci-après «CVM») correspond à la valeur du référentiel relatif au CVM pour la période d'allocation concernée, multipliée par le niveau d'activité historique de la production de CVM, exprimé en tonnes, et par le quotient des émissions directes liées à la production de CVM, y compris les émissions liées à la chaleur importée nette durant la période de référence visée à l'article 15, paragraphe 2, ou la première année suivant le début de l'exploitation normale visée à l'article 17, point a), selon le cas, calculées conformément à l'article 22, paragraphe 2, exprimées en tonnes équivalent dioxyde de carbone, et de la somme de ces émissions directes et des émissions liées à l'hydrogène résultant de la production de CVM durant la période de référence visée à l'article 15, paragraphe 2, ou la première année civile suivant le début de l'exploitation normale visée à l'article 17, point a), selon le cas, exprimées en tonnes équivalent dioxyde de carbone et calculées sur la base de la consommation de chaleur historique liée à la combustion d'hydrogène, exprimée en térajoules, fois la valeur du référentiel de chaleur pour la période d'allocation concernée.",
+      "text_sha256": "36878ff355db973d5b53c0f95df8cd91c8629ecf7de6397210b5f2319026bc89",
+      "md_span": {
+        "start": 67192,
+        "end": 68622
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\nLorsqu'une sous-installation avec référentiel de produit comprend de la chaleur mesurable importée en provenance d'une installation ou d'une autre entité non incluse dans le SEQE de l'Union européenne, le nombre annuel provisoire de quotas d'émission alloués à titre gratuit à la sous-installation avec référentiel de produit concernée, déterminé conformément à l'article 16, paragraphe 2, point a), ou à l'article 18, paragraphe 1, point a), selon le cas, est diminué de la quantité de chaleur historiquement importée en provenance d'une installation ou d'une autre entité non incluse dans le SEQE durant l'année concernée, multipliée par la valeur du référentiel de chaleur relatif à la chaleur mesurable pour la période d'allocation concernée.",
+      "text_sha256": "bd85b06a35c18d95e6c40c6eb0921843ee8152f3780062815b48501a308dd955",
+      "md_span": {
+        "start": 68657,
+        "end": 69415
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. Pour chaque sous-installation avec référentiel de produit correspondant à un référentiel de produit défini à l'annexe I, section 2, pour lequel il est tenu compte de l'interchangeabilité combustibles/électricité, le nombre annuel provisoire de quotas d'émission alloués à titre gratuit correspond à la valeur de ce référentiel de produit pour la période d'allocation concernée, multipliée par le niveau d'activité historique relatif au produit et par le quotient des émissions directes totales, y compris les émissions liées à la chaleur importée nette durant la période de référence visée à l'article 15, paragraphe 2, ou la première année civile suivant le début de l'exploitation normale visée à l'article 17, point a), selon le cas, calculées conformément au paragraphe 2 et exprimées en tonnes équivalent dioxyde de carbone, et de la somme de ces émissions directes totales et des émissions indirectes concernées durant la période de référence visée à l'article 15, paragraphe 2, ou la première année civile suivant le début de l'exploitation normale visée à l'article 17, point a), suivant le cas, calculées conformément au paragraphe 3.\n\n2. Aux fins du calcul des émissions liées à la chaleur importée nette, la quantité de chaleur mesurable nécessaire à la fabrication du produit concerné qui est importée d'installations relevant du SEQE de l'Union européenne au cours de la période de référence visée à l'article 15, paragraphe 2, ou la première année civile suivant le début de l'exploitation normale visée à l'article 17, point a), selon le cas, est multipliée par la valeur du référentiel de chaleur pour la période d'allocation concernée.\n\n3. Aux fins du calcul des émissions indirectes, les émissions indirectes concernées, exprimées en tonnes de dioxyde de carbone, désignent la consommation d'électricité, telle que spécifiée dans la définition des procédés et des émissions couverts par l'annexe I, durant la période de référence visée à l'article 15, paragraphe 2, ou la première année civile suivant le début de l'exploitation normale visée à l'article 17, point a), selon le cas, exprimée en mégawatts-heure, liée à la fabrication du produit concerné, fois 0,376 tonne de dioxyde de carbone par mégawatt-heure.",
+      "text_sha256": "718283e2707cbf473f5fd2a98d581ccce7607f9cd6f86cdd2faf782c7f51bb68",
+      "md_span": {
+        "start": 69450,
+        "end": 71696
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\n1. Les exploitants informent l'autorité compétente de tout changement relatif à l'exploitation d'une installation ayant une incidence sur l'allocation de cette installation. Les États membres peuvent fixer une date limite pour cette notification et exiger l'utilisation de modèles électroniques ou de formats de fichiers spécifiques.\n\n2. L'autorité compétente, après avoir analysé les informations pertinentes, transmet à la Commission toutes les informations utiles, y compris la quantité annuelle finale révisée de quotas d'émission alloués à titre gratuit à l'installation concernée.\n\nL'autorité compétente transmet les informations utiles conformément au premier alinéa au moyen du système électronique géré par la Commission.\n\n3. La Commission peut rejeter la quantité annuelle finale révisée de quotas d'émission alloués à titre gratuit à l'installation concernée.\n\n4. La Commission adopte une décision sur la base de la notification reçue, en informe l'autorité compétente et apporte les modifications nécessaires dans le registre de l'Union créé en vertu de l'article 19 de la directive 2003/87/CE et dans l'EUTL mentionné à l'article 20 de ladite directive.",
+      "text_sha256": "67e4f5c3bf6dbc4649795036fd1767067542570602146a0d51e78f0347493015",
+      "md_span": {
+        "start": 71731,
+        "end": 72909
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\n1. Un exploitant qui s'est vu accorder une allocation de quotas à titre gratuit peut y renoncer pour la totalité des sous installations ou pour certaines d'entre elles, à tout moment pendant la période d'allocation concernée, en présentant une demande à cet effet à l'autorité compétente.\n\n2. Après avoir analysé les informations pertinentes, l'autorité compétente communique à la Commission la quantité annuelle finale révisée de quotas d'émission alloués à titre gratuit à l'installation concernée, comme indiqué à l'article 23, paragraphe 2.\n\nL'allocation révisée concerne les années civiles suivant l'année de la demande visée au paragraphe 1.\n\n3. La Commission adopte une décision concernant la renonciation et suit la procédure indiquée à l'article 23, paragraphe 4.\n\n4. L'exploitant n'a pas le droit de retirer sa demande visée au paragraphe 1 au cours de la même période d'allocation.",
+      "text_sha256": "661a179874b9aeb8289e74d939a43e5e7c72a1aaca2f3050fa788fd409d77b5c",
+      "md_span": {
+        "start": 72944,
+        "end": 73848
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\n1. Les exploitants de nouvelles installations qui résultent d'une fusion ou d'une scission fournissent les documents suivants à l'autorité compétente:\n\n| a) | les noms, adresses et coordonnées des exploitants des installations d'origine; |\n| --- | --- |\n\n| b) | les noms, adresses et coordonnées des exploitants des installations nouvellement constituées; |\n| --- | --- |\n\n| c) | la description détaillée des limites des parties concernées de l'installation, le cas échéant; |\n| --- | --- |\n\n| d) | le numéro d'autorisation et le code d'identification de la ou des installations nouvellement constituées dans le registre de l'Union. |\n| --- | --- |\n\n2. Les installations résultant de fusions ou de scissions présentent à l'autorité compétente les rapports et déclarations visés à l'article 4, paragraphe 2. Si les installations étaient de nouveaux entrants avant la fusion ou la scission, les exploitants communiquent les données à l'autorité compétente à partir du début de l'exploitation normale.\n\n3. Les fusions ou scissions d'installations, y compris les scissions au sein du même groupe d'entreprises, sont évaluées par l'autorité compétente. L'autorité compétente informe la Commission des changements d'exploitants.\n\nSur la base des données reçues conformément au paragraphe 2, l'autorité compétente détermine les niveaux d'activité historiques durant la période de référence pour chaque sous-installation de chaque installation nouvellement constituée après une fusion ou une scission. Dans les cas où une sous-installation est scindée en deux sous-installations ou davantage, le niveau d'activité historique et l'allocation des sous-installations après la scission sont basés sur les niveaux d'activité historiques durant la période de référence des différentes unités techniques de l'installation avant la scission.\n\n4. Sur la base des niveaux d'activité historiques après fusion ou scission, la quantité de quotas alloués à titre gratuit aux installations après fusion ou scission correspond à la quantité finale de quotas alloués à titre gratuit avant fusion ou scission.\n\n5. La Commission examine chaque allocation de quotas aux installations résultant de fusions ou de scissions et communique les résultats de cette évaluation à l'autorité compétente.",
+      "text_sha256": "7d9d911daa3b8cffa01f0be4ff4e82b80269d41393dd55152080da99cb944139",
+      "md_span": {
+        "start": 73883,
+        "end": 76160
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\n1. Une installation est réputée avoir cessé ses activités lorsque l'une quelconque des conditions suivantes est remplie:\n\n| a) | l'autorisation d'émettre des gaz à effet de serre correspondante a été retirée, y compris si l'installation n'atteint plus les seuils d'activité indiqués à l'annexe I de la directive 2003/87/CE; |\n| --- | --- |\n\n| b) | l'installation n'est plus en activité et la reprise des activités est techniquement impossible. |\n| --- | --- |\n\n2. Lorsqu'une installation a cessé ses activités, l'État membre concerné ne lui délivre plus de quotas d'émission à compter de l'année suivant la cessation des activités.\n\n3. Les États membres peuvent suspendre la délivrance de quotas d'émission aux installations qui ont interrompu leurs activités tant qu'il n'est pas établi qu'elles vont reprendre ces activités.",
+      "text_sha256": "a81b871a6587b8f3ac38df76f12679053cfdb369e4e1f3e194c17ef6039ef497",
+      "md_span": {
+        "start": 76195,
+        "end": 77033
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_27",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 27\n\nLa décision 2011/278/UE est abrogée avec effet au 1er janvier 2021. Elle continue cependant de s'appliquer aux allocations concernant la période antérieure au 1er janvier 2021.",
+      "text_sha256": "143d5cb0dccd1018ba62ea464577f16787c7dfd2d9242b100c8d6ea17fa2b3dc",
+      "md_span": {
+        "start": 77068,
+        "end": 77256
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32019r0331:2018-12-19#art_28",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 28\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "657946b403bb3ed2be74074c2eef26abde850438b746e147cedd44f5bc056275",
+      "md_span": {
+        "start": 77291,
+        "end": 77423
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

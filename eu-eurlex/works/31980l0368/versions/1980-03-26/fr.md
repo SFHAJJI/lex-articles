@@ -1,0 +1,16 @@
+---
+lex_id: 'eu-eurlex:31980l0368:1980-03-26'
+title: 'Eleventh Council Directive 80/368/EEC of 26 March 1980 on the harmonization of the laws of…'
+valid_from: '1980-03-26'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31980L0368'
+source_sha256: 'a25863591cb261aa84c27fdd5bf46f9c87d008f7387230a75dc801009c18a405'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'html-eu-tolerant/1 · lex derive'
+---
+<a id="document"></a>
+
+### Document
+
+Avis juridique important | 31980L0368 Onzième directive 80/368/CEE du Conseil, du 26 mars 1980, en matière d'harmonisation des législations des États membres relatives aux taxes sur le chiffre d'affaires - Exclusion des départements français d'outre-mer du champ d'application de la directive 77/388/CEE Journal officiel n° L 090 du 03/04/1980 p. 0041 - 0041 édition spéciale finnoise: chapitre 1 tome 2 p. 0003 édition spéciale grecque: chapitre 09 tome 1 p. 0120 édition spéciale suédoise: chapitre 1 tome 2 p. 0003 édition spéciale espagnole: chapitre 09 tome 1 p. 0125 édition spéciale portugaise: chapitre 09 tome 1 p. 0125 ONZIÈME DIRECTIVE DU CONSEIL du 26 mars 1980 en matière d'harmonisation des législations des États membres relatives aux taxes sur le chiffre d'affaires - Exclusion des départements français d'outre-mer du champ d'application de la directive 77/388/CEE (80/368/CEE) LE CONSEIL DES COMMUNAUTÉS EUROPÉENNES, vu le traité instituant la Communauté économique européenne, et notamment ses articles 99 et 100, vu la proposition de la Commission. considérant que, aux termes de l'article 227 paragraphe 2 troisième alinéa du traité, les institutions de la Communauté sont tenues de veiller, dans le cadre des procédures prévues par le traité, à permettre le développement économique et social des départements français d'outre-mer; considérant que, conformément à l'arrêt rendu par la Cour de justice le 10 octobre 1978 dans l'affaire nº 148-77, les dispositions du traité et du droit dérivé sont applicables aux départements français d'outremer sauf décision des institutions communautaires arrêtant des mesures spécifiques adaptées aux conditions économiques et sociales de ces départements; considérant que, pour des raisons tenant à leur situation géographique, économique et sociale, il convient d'exclure les départements français d'outre-mer du champ d'application du régime commun de taxe sur la valeur ajoutée, tel que fixé par la directive 77/388/CEE (1); considérant que l'exécution de la présente directive ne comporte aucune modification des dispositions législatives des États membres, A ARRÊTÉ LA PRÉSENTE DIRECTIVE: Article premier À l'article 3 paragraphe 2 de la directive 77/388/CEE, le tiret suivant est ajouté: «- République française: Départements d'outre-mer.» Article 2 La présente directive est applicable à partir du 1er janvier 1979. Article 3 Les États membres sont destinataires de la présente directive. Fait à Bruxelles, le 26 mars 1980. Par le Conseil Le président G. MARCORA (1)JO nº L 145 du 13.6.1977, p. 1.

@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0789:2026-04-08",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2026/789 of 8\u00A0April 2026 supplementing Regulation (EU)\u00A0No\u00A0596/2014",
+  "valid_from": "2026-04-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0789/versions/2026-04-08/en.xml",
+    "sha256": "13ed071ffb5093778397ba0532b565cabb20182b004f91a78bee4f9c66bb3c14",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0789"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0789:2026-04-08#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe non-exhaustive list of final events or final circumstances in protracted processes referred to in Article 17(12), point (a), of Regulation (EU) No 596/2014 is laid down in Annex I.",
+      "text_sha256": "e722a87358497f0cdb077a52e395009740760b9dd629c7fe93e89495dd063046",
+      "md_span": {
+        "start": 648,
+        "end": 843
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0789:2026-04-08#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. The non-exhaustive list of situations where the inside information is in contrast with the latest public announcement or other type of communication referred to in Article 17(12), point (b), of Regulation (EU) No 596/2014 is laid down in Annex II.\n\n2. For the purposes of paragraph 1, the other types of communication by an issuer or an emission allowance market participant on the same matter to which the inside information refers are laid down in Annex III.",
+      "text_sha256": "f4a4d80e034a973d38af52337a72ec561543c65f395f2a08df289481db3f0630",
+      "md_span": {
+        "start": 876,
+        "end": 1350
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32026r0789:2026-04-08#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "63ebde8987b07b59ea5d2387be48bf4df9158bde7943a54b7fd49b3b49c01c92",
+      "md_span": {
+        "start": 1383,
+        "end": 1530
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

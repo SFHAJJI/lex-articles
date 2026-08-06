@@ -1,0 +1,704 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32008r0593:2008-07-24",
+  "language": "fr",
+  "title": "Regulation (EC) No\u00A0593/2008",
+  "valid_from": "2008-07-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32008r0593/versions/2008-07-24/fr.html",
+    "sha256": "97ec6984fa6a203ddce5ae7801e5b5e8ee644a0a6c26093fb989dc0f623673b4",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02008R0593-20080724"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": null,
+      "path": [
+        "CHAPITRE I",
+        "CHAMP D'APPLICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "Champ d'application matériel\n\n1. Le présent règlement s'applique, dans des situations comportant un conflit de lois, aux obligations contractuelles relevant de la matière civile et commerciale.\n\nIl ne s'applique pas, notamment, aux matières fiscales, douanières et administratives.\n\n2. Sont exclus du champ d'application du présent règlement:\n\na) l'état et la capacité juridique des personnes physiques, sous réserve de l'article 13;\n\nb) les obligations découlant des relations de famille ou des relations réputées avoir, en vertu de la loi applicable, des effets comparables, y compris les obligations alimentaires;\n\nc) les obligations découlant des régimes matrimoniaux, des régimes patrimoniaux relatifs aux relations qui, selon la loi qui leur est applicable, ont des effets comparables au mariage et aux successions;\n\nd) les obligations nées des lettres de change, chèques, billets à ordre ainsi que d'autres instruments négociables, dans la mesure où les obligations nées de ces autres instruments négociables dérivent de leur caractère négociable;\n\ne) les conventions d'arbitrage et d'élection de for;\n\nf) les questions relevant du droit des sociétés, associations et personnes morales, telles que la constitution, par enregistrement ou autrement, la capacité juridique, le fonctionnement interne et la dissolution des sociétés, associations et personnes morales, ainsi que la responsabilité personnelle légale des associés et des agents pour les dettes de la société, association ou personne morale;\n\ng) la question de savoir si un représentant peut engager, envers les tiers, la personne pour le compte de laquelle il prétend agir ou si un organe d'une société, d'une association ou d'une personne morale peut engager, envers les tiers, cette société, association ou personne morale;\n\nh) la constitution des trusts et les relations qu'ils créent entre les constituants, les trustees et les bénéficiaires;\n\ni) les obligations découlant de tractations menées avant la conclusion d'un contrat;\n\nj) les contrats d'assurance découlant des activités menées par des organismes autres que les entreprises visées à l'article 2 de la directive 2002/83/CE du Parlement européen et du Conseil du 5 novembre 2002 concernant l'assurance directe sur la vie (14), ayant pour objet de verser des prestations à des personnes salariées ou à des personnes indépendantes faisant partie d'une entreprise ou d'un groupe d'entreprises, en cas de décès, en cas de vie, en cas de cessation ou de réduction d'activités, en cas de maladie professionnelle ou d'accident du travail.\n\n3. Le présent règlement ne s'applique pas à la preuve et à la procédure, sans préjudice de l'article 18.\n\n4. Dans le présent règlement, on entend par «État membre» tous les États membres auxquels le présent règlement s'applique. Toutefois, à l'article 3, paragraphe 4, ainsi qu'à l'article 7, ce terme désigne tous les États membres.",
+      "text_sha256": "0eab2e24b72e2080ee3e5e8d6a2bae31708f8bd0ba4f54a5476f52e326e3d9cb",
+      "md_span": {
+        "start": 637,
+        "end": 3533
+      },
+      "citations": [
+        {
+          "href": "#E0014",
+          "text": "14"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [
+        "CHAPITRE I",
+        "CHAMP D'APPLICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "Caractère universel\n\nLa loi désignée par le présent règlement s'applique même si cette loi n'est pas celle d'un État membre.",
+      "text_sha256": "f5911c411105755ce86691e2de962e0caf70d317aeedbfeca32f2b3254380046",
+      "md_span": {
+        "start": 3570,
+        "end": 3694
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Liberté de choix\n\n1. Le contrat est régi par la loi choisie par les parties. Le choix est exprès ou résulte de façon certaine des dispositions du contrat ou des circonstances de la cause. Par ce choix, les parties peuvent désigner la loi applicable à la totalité ou à une partie seulement de leur contrat.\n\n2. Les parties peuvent convenir, à tout moment, de faire régir le contrat par une loi autre que celle qui le régissait auparavant soit en vertu d'un choix antérieur selon le présent article, soit en vertu d'autres dispositions du présent règlement. Toute modification quant à la détermination de la loi applicable, intervenue postérieurement à la conclusion du contrat, n'affecte pas la validité formelle du contrat au sens de l'article 11 et ne porte pas atteinte aux droits des tiers.\n\n3. Lorsque tous les autres éléments de la situation sont localisés, au moment de ce choix, dans un pays autre que celui dont la loi est choisie, le choix des parties ne porte pas atteinte à l'application des dispositions auxquelles la loi de cet autre pays ne permet pas de déroger par accord.\n\n4. Lorsque tous les autres éléments de la situation sont localisés, au moment de ce choix, dans un ou plusieurs États membres, le choix par les parties d'une autre loi applicable que celle d'un État membre ne porte pas atteinte, le cas échéant, à l'application des dispositions du droit communautaire auxquelles il n'est pas permis de déroger par accord, et telles que mises en œuvre par l'État membre du for.\n\n5. L'existence et la validité du consentement des parties quant au choix de la loi applicable sont régies par les dispositions établies aux articles 10, 11 et 13.",
+      "text_sha256": "9cbb398f3f7cdca3354358755d7f04291ec2a7ed8561459b68d8b37645897ada",
+      "md_span": {
+        "start": 3769,
+        "end": 5432
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Loi applicable à défaut de choix\n\n1. À défaut de choix exercé conformément à l'article 3 et sans préjudice des articles 5 à 8, la loi applicable au contrat suivant est déterminée comme suit:\n\na) le contrat de vente de biens est régi par la loi du pays dans lequel le vendeur a sa résidence habituelle;\n\nb) le contrat de prestation de services est régi par la loi du pays dans lequel le prestataire de services a sa résidence habituelle;\n\nc) le contrat ayant pour objet un droit réel immobilier ou un bail d'immeuble est régi par la loi du pays dans lequel est situé l'immeuble;\n\nd) nonobstant le point c), le bail d'immeuble conclu en vue de l'usage personnel temporaire pour une période maximale de six mois consécutifs est régi par la loi du pays dans lequel le propriétaire a sa résidence habituelle, à condition que le locataire soit une personne physique et qu'il ait sa résidence habituelle dans ce même pays;\n\ne) le contrat de franchise est régi par la loi du pays dans lequel le franchisé a sa résidence habituelle;\n\nf) le contrat de distribution est régi par la loi du pays dans lequel le distributeur a sa résidence habituelle;\n\ng) le contrat de vente de biens aux enchères est régi par la loi du pays où la vente aux enchères a lieu, si ce lieu peut être déterminé;\n\nh) le contrat conclu au sein d'un système multilatéral qui assure ou facilite la rencontre de multiples intérêts acheteurs et vendeurs exprimés par des tiers pour des instruments financiers, au sens de l'article 4, paragraphe 1, point 17), de la directive 2004/39/CE, selon des règles non discrétionnaires et qui est régi par la loi d'un seul pays, est régi par cette loi.\n\n2. Lorsque le contrat n'est pas couvert par le paragraphe 1 ou que les éléments du contrat sont couverts par plusieurs des points a) à h) du paragraphe 1, le contrat est régi par la loi du pays dans lequel la partie qui doit fournir la prestation caractéristique a sa résidence habituelle.\n\n3. Lorsqu'il résulte de l'ensemble des circonstances de la cause que le contrat présente des liens manifestement plus étroits avec un pays autre que celui visé au paragraphe 1 ou 2, la loi de cet autre pays s'applique.\n\n4. Lorsque la loi applicable ne peut être déterminée sur la base du paragraphe 1 ou 2, le contrat est régi par la loi du pays avec lequel il présente les liens les plus étroits.",
+      "text_sha256": "f9c48698ddf025e545fbd5c144084d9698ec6d60a71fa4473f24e3c6cc3cef66",
+      "md_span": {
+        "start": 5469,
+        "end": 7809
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Contrats de transport\n\n1. À défaut de choix exercé conformément à l'article 3, la loi applicable au contrat de transport de marchandises est la loi du pays dans lequel le transporteur a sa résidence habituelle, pourvu que le lieu de chargement ou le lieu de livraison ou encore la résidence habituelle de l'expéditeur se situe aussi dans ce pays. Si ces conditions ne sont pas satisfaites, la loi du pays dans lequel se situe le lieu de livraison convenu par les parties s'applique.\n\n2. À défaut de choix exercé conformément au deuxième alinéa du présent paragraphe, la loi applicable au contrat de transport de passagers est la loi du pays dans lequel le passager a sa résidence habituelle, pourvu que le lieu de départ ou le lieu d'arrivée se situe dans ce pays. Si ces conditions ne sont pas satisfaites, la loi du pays dans lequel le transporteur a sa résidence habituelle s'applique.\n\nLes parties ne peuvent choisir comme loi applicable au contrat de transport de passagers, conformément à l'article 3, que la loi du pays dans lequel:\n\na) le passager a sa résidence habituelle, ou\n\nb) le transporteur a sa résidence habituelle, ou\n\nc) le transporteur a son lieu d'administration centrale, ou\n\nd) le lieu de départ est situé, ou\n\ne) le lieu de destination est situé.\n\n3. S'il résulte de l'ensemble des circonstances de la cause que le contrat présente des liens manifestement plus étroits avec un pays autre que celui visé au paragraphe 1 ou 2, la loi de cet autre pays s'applique.",
+      "text_sha256": "a60c2055dcec7178169111247dff1c4ac58c70bcca2f6eeee2941232d8c87da6",
+      "md_span": {
+        "start": 7846,
+        "end": 9331
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Contrats de consommation\n\n1. Sans préjudice des articles 5 et 7, un contrat conclu par une personne physique (ci-après «le consommateur»), pour un usage pouvant être considéré comme étranger à son activité professionnelle, avec une autre personne (ci-après «le professionnel»), agissant dans l'exercice de son activité professionnelle, est régi par la loi du pays où le consommateur a sa résidence habituelle, à condition que le professionnel:\n\na) exerce son activité professionnelle dans le pays dans lequel le consommateur a sa résidence habituelle, ou\n\nb) par tout moyen, dirige cette activité vers ce pays ou vers plusieurs pays, dont celui-ci,\n\net que le contrat rentre dans le cadre de cette activité.\n\n2. Nonobstant les dispositions du paragraphe 1, les parties peuvent choisir la loi applicable à un contrat satisfaisant aux conditions du paragraphe 1, conformément à l'article 3. Ce choix ne peut cependant avoir pour résultat de priver le consommateur de la protection que lui assurent les dispositions auxquelles il ne peut être dérogé par accord en vertu de la loi qui aurait été applicable, en l'absence de choix, sur la base du paragraphe 1.\n\n3. Si les conditions établies au paragraphe 1, point a) ou b), ne sont pas remplies, la loi applicable à un contrat entre un consommateur et un professionnel est déterminée conformément aux articles 3 et 4.\n\n4. Les paragraphes 1 et 2 ne s'appliquent pas:\n\na) au contrat de fourniture de services lorsque les services dus au consommateur doivent être fournis exclusivement dans un pays autre que celui dans lequel il a sa résidence habituelle;\n\nb) au contrat de transport autre qu'un contrat portant sur un voyage à forfait au sens de la directive 90/314/CEE du Conseil du 13 juin 1990 concernant les voyages, vacances et circuits à forfait (15);\n\nc) au contrat ayant pour objet un droit réel immobilier ou un bail d'immeuble autre qu'un contrat ayant pour objet un droit d'utilisation à temps partiel de biens immobiliers au sens de la directive 94/47/CE;\n\nd) aux droits et obligations qui constituent des instruments financiers, et aux droits et obligations qui constituent les modalités et conditions qui régissent l'émission ou l'offre au public et les offres publiques d'achat de valeurs mobilières, et la souscription et le remboursement de parts d'organismes de placement collectif, dans la mesure où ces activités ne constituent pas la fourniture d'un service financier;\n\ne) au contrat conclu dans le cadre du type de système relevant du champ d'application de l'article 4, paragraphe 1, point h).",
+      "text_sha256": "6c8c4d83fae8308ef8b6cc9c1ccec1f417e80ec88ef52e3324deabfaee62bcaa",
+      "md_span": {
+        "start": 9368,
+        "end": 11929
+      },
+      "citations": [
+        {
+          "href": "#E0015",
+          "text": "15"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Contrats d'assurance\n\n1. Le présent article s'applique aux contrats visés au paragraphe 2, que le risque couvert soit situé ou non dans un État membre, et à tous les autres contrats d'assurance couvrant des risques situés à l'intérieur du territoire des États membres. Il ne s'applique pas aux contrats de réassurance.\n\n2. Les contrats d'assurance couvrant des grands risques, tels que définis à l'article 5, point d), de la première directive 73/239/CEE du Conseil du 24 juillet 1973, portant coordination des dispositions législatives, réglementaires et administratives concernant l'accès à l'activité de l'assurance directe autre que l'assurance sur la vie, et son exercice (16) sont régis par la loi choisie par les parties conformément à l'article 3 du présent règlement.\n\nÀ défaut de choix par les parties de la loi applicable, le contrat d'assurance est régi par la loi du pays où l'assureur a sa résidence habituelle. S'il résulte de l'ensemble des circonstances que le contrat présente des liens manifestement plus étroits avec un autre pays, la loi de cet autre pays s'applique.\n\n3. Dans le cas d'un contrat d'assurance autre qu'un contrat relevant du paragraphe 2, les parties peuvent uniquement choisir comme loi applicable conformément à l'article 3:\n\na) la loi de tout État membre où le risque est situé au moment de la conclusion du contrat;\n\nb) la loi du pays dans lequel le preneur d'assurance a sa résidence habituelle;\n\nc) dans le cas d'un contrat d'assurance vie, la loi de l'État membre dont le preneur d'assurance est ressortissant;\n\nd) dans le cas d'un contrat d'assurance couvrant des risques limités à des sinistres survenant dans un État membre autre que celui où le risque est situé, la loi de l'État membre de survenance;\n\ne) lorsque le titulaire d'un contrat d'assurance relevant du présent paragraphe exerce une activité commerciale, industrielle ou libérale et que le contrat d'assurance couvre deux ou plusieurs risques relatifs à ces activités et situés dans différents États membres, la loi de l'un des États membres concernés ou la loi du pays de résidence habituelle du preneur d'assurance.\n\nLorsque, dans les cas visés aux points a), b) ou e), les États membres mentionnés accordent une plus large liberté de choix de la loi applicable au contrat d'assurance, les parties peuvent faire usage de cette liberté.\n\nÀ défaut de choix par les parties de la loi applicable conformément au présent paragraphe, le contrat est régi par la loi de l'État membre où le risque est situé au moment de la conclusion du contrat.\n\n4. Les règles supplémentaires suivantes s'appliquent aux contrats d'assurance couvrant des risques pour lesquels un État membre impose l'obligation de souscrire une assurance:\n\na) le contrat d'assurance ne satisfait à l'obligation de souscrire une assurance que s'il est conforme aux dispositions spécifiques relatives à cette assurance prévues par l'État membre qui impose l'obligation. Lorsqu'il y a contradiction entre la loi de l'État membre où le risque est situé et celle de l'État membre qui impose l'obligation de souscrire une assurance, cette dernière prévaut;\n\nb) par dérogation aux paragraphes 2 et 3, un État membre peut disposer que le contrat d'assurance est régi par la loi de l'État membre qui impose l'obligation de souscrire une assurance.\n\n5. Aux fins du paragraphe 3, troisième alinéa, et du paragraphe 4, lorsque le contrat couvre des risques situés dans plus d'un État membre, le contrat est considéré comme constituant plusieurs contrats dont chacun ne se rapporte qu'à un seul État membre.\n\n6. Aux fins du présent article, le pays où le risque est situé est déterminé conformément à l'article 2, point d), de la deuxième directive 88/357/CEE du Conseil du 22 juin 1988 portant coordination des dispositions législatives, réglementaires et administratives concernant l'assurance directe autre que l'assurance vie et fixant les dispositions destinées à faciliter l'exercice effectif de la libre prestation de services (17) et, dans le cas de l'assurance vie, le pays où le risque est situé est le pays de l'engagement, au sens de l'article 1er, paragraphe 1, point g), de la directive 2002/83/CE.",
+      "text_sha256": "6dcefe58af3c47a0ebef95a96a80c72624df8c161a2533d3e7de16337946ab5d",
+      "md_span": {
+        "start": 11966,
+        "end": 16135
+      },
+      "citations": [
+        {
+          "href": "#E0016",
+          "text": "16"
+        },
+        {
+          "href": "#E0017",
+          "text": "17"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Contrats individuels de travail\n\n1. Le contrat individuel de travail est régi par la loi choisie par les parties conformément à l'article 3. Ce choix ne peut toutefois avoir pour résultat de priver le travailleur de la protection que lui assurent les dispositions auxquelles il ne peut être dérogé par accord en vertu de la loi qui, à défaut de choix, aurait été applicable selon les paragraphes 2, 3 et 4 du présent article.\n\n2. À défaut de choix exercé par les parties, le contrat individuel de travail est régi par la loi du pays dans lequel ou, à défaut, à partir duquel le travailleur, en exécution du contrat, accomplit habituellement son travail. Le pays dans lequel le travail est habituellement accompli n'est pas réputé changer lorsque le travailleur accomplit son travail de façon temporaire dans un autre pays.\n\n3. Si la loi applicable ne peut être déterminée sur la base du paragraphe 2, le contrat est régi par la loi du pays dans lequel est situé l'établissement qui a embauché le travailleur.\n\n4. S'il résulte de l'ensemble des circonstances que le contrat présente des liens plus étroits avec un autre pays que celui visé au paragraphe 2 ou 3, la loi de cet autre pays s'applique.",
+      "text_sha256": "743b05dddcbbe90fee1b80d01c4e188ece80edad1a3c4416b596b19006f39b66",
+      "md_span": {
+        "start": 16172,
+        "end": 17369
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lois de police\n\n1. Une loi de police est une disposition impérative dont le respect est jugé crucial par un pays pour la sauvegarde de ses intérêts publics, tels que son organisation politique, sociale ou économique, au point d'en exiger l'application à toute situation entrant dans son champ d'application, quelle que soit par ailleurs la loi applicable au contrat d'après le présent règlement.\n\n2. Les dispositions du présent règlement ne pourront porter atteinte à l'application des lois de police du juge saisi.\n\n3. Il pourra également être donné effet aux lois de police du pays dans lequel les obligations découlant du contrat doivent être ou ont été exécutées, dans la mesure où lesdites lois de police rendent l'exécution du contrat illégale. Pour décider si effet doit être donné à ces lois de police, il est tenu compte de leur nature et de leur objet, ainsi que des conséquences de leur application ou de leur non-application.",
+      "text_sha256": "a7446628c0d66562be7f983f33f73a7901d8d321137ce6f74c364e91efbfa015",
+      "md_span": {
+        "start": 17406,
+        "end": 18343
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Consentement et validité au fond\n\n1. L'existence et la validité du contrat ou d'une disposition de celui-ci sont soumises à la loi qui serait applicable en vertu du présent règlement si le contrat ou la disposition étaient valables.\n\n2. Toutefois, pour établir qu'elle n'a pas consenti, une partie peut se référer à la loi du pays dans lequel elle a sa résidence habituelle s'il résulte des circonstances qu'il ne serait pas raisonnable de déterminer l'effet du comportement de cette partie d'après la loi prévue au paragraphe 1.",
+      "text_sha256": "cb7a44809ddf04ed19a72f7745269d1fae3756f5eaf64f6af3e1c61859fd26b1",
+      "md_span": {
+        "start": 18382,
+        "end": 18911
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Validité formelle\n\n1. Un contrat conclu entre des personnes ou leurs représentants, qui se trouvent dans le même pays au moment de sa conclusion, est valable quant à la forme s'il satisfait aux conditions de forme de la loi qui le régit au fond en vertu du présent règlement ou de la loi du pays dans lequel il a été conclu.\n\n2. Un contrat conclu entre des personnes ou leurs représentants, qui se trouvent dans des pays différents au moment de sa conclusion, est valable quant à la forme s'il satisfait aux conditions de forme de la loi qui le régit au fond en vertu du présent règlement ou de la loi d'un des pays dans lequel se trouve l'une ou l'autre des parties ou son représentant au moment de sa conclusion ou de la loi du pays dans lequel l'une ou l'autre des parties avait sa résidence habituelle à ce moment-là.\n\n3. Un acte juridique unilatéral relatif à un contrat conclu ou à conclure est valable quant à la forme s'il satisfait aux conditions de forme de la loi qui régit ou régirait au fond le contrat en vertu du présent règlement ou de la loi du pays dans lequel cet acte est intervenu ou de la loi du pays dans lequel la personne qui l'a accompli avait sa résidence habituelle à ce moment.\n\n4. Les dispositions des paragraphes 1, 2 et 3 du présent article ne s'appliquent pas aux contrats qui entrent dans le champ d'application de l'article 6. La forme de ces contrats est régie par la loi du pays dans lequel le consommateur a sa résidence habituelle.\n\n5. Nonobstant les dispositions des paragraphes 1 à 4, tout contrat ayant pour objet un droit réel immobilier ou un bail d'immeuble est soumis aux règles de forme de la loi du pays où l'immeuble est situé, pour autant que, selon cette loi:\n\na) ces règles s'appliquent quels que soient le lieu de conclusion du contrat et la loi le régissant au fond, et\n\nb) ne peut être dérogé à ces règles par accord.",
+      "text_sha256": "cd4ba54cbd6bad04d488ba274c2f894bc2e994a2e6f99701b1333c32dd42e989",
+      "md_span": {
+        "start": 18950,
+        "end": 20822
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Domaine de la loi du contrat\n\n1. La loi applicable au contrat en vertu du présent règlement régit notamment:\n\na) son interprétation;\n\nb) l'exécution des obligations qu'il engendre;\n\nc) dans les limites des pouvoirs attribués à la juridiction saisie par son droit procédural, les conséquences de l'inexécution totale ou partielle de ces obligations, y compris l'évaluation du dommage dans la mesure où des règles de droit la gouvernent;\n\nd) les divers modes d'extinction des obligations, ainsi que les prescriptions et déchéances fondées sur l'expiration d'un délai;\n\ne) les conséquences de la nullité du contrat.\n\n2. En ce qui concerne les modalités d'exécution et les mesures à prendre par le créancier en cas de défaut dans l'exécution, on aura égard à la loi du pays où l'exécution a lieu.",
+      "text_sha256": "567e5f04c70ca10d73a332d031fbd4136313334f234e5afa91d38904e3143121",
+      "md_span": {
+        "start": 20861,
+        "end": 21653
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Incapacité\n\nDans un contrat conclu entre personnes se trouvant dans un même pays, une personne physique qui serait capable selon la loi de ce pays ne peut invoquer son incapacité résultant de la loi d'un autre pays que si, au moment de la conclusion du contrat, le cocontractant a connu cette incapacité ou ne l'a ignorée qu'en raison d'une imprudence de sa part.",
+      "text_sha256": "93680718a083b4d622b2bfe2ac7c22eed16d3e900490854744dbc0eb28d80342",
+      "md_span": {
+        "start": 21692,
+        "end": 22055
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Cession de créances et subrogation conventionnelle\n\n1. Les relations entre le cédant et le cessionnaire ou entre le subrogeant et le subrogé se rapportant à une créance détenue envers un tiers («le débiteur») sont régies par la loi qui, en vertu du présent règlement, s'applique au contrat qui les lie.\n\n2. La loi qui régit la créance faisant l'objet de la cession ou de la subrogation détermine le caractère cessible de celle-ci, les rapports entre cessionnaire ou subrogé et débiteur, les conditions d'opposabilité de la cession ou subrogation au débiteur et le caractère libératoire de la prestation faite par le débiteur.\n\n3. La notion de cession au sens du présent article inclut les transferts de créances purs et simples ou à titre de garantie, ainsi que les nantissements ou autres sûretés sur les créances.",
+      "text_sha256": "02b2bc382d3b95311d332c687b8d51595dd7e4157faea3f3652e2f9fafe9eae8",
+      "md_span": {
+        "start": 22094,
+        "end": 22909
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Subrogation légale\n\nLorsqu'en vertu d'un contrat une personne («le créancier») a des droits à l'égard d'une autre personne («le débiteur») et qu'un tiers a l'obligation de désintéresser le créancier ou encore que le tiers a désintéressé le créancier en exécution de cette obligation, la loi applicable à cette obligation du tiers détermine si et dans quelle mesure celui-ci peut exercer les droits détenus par le créancier contre le débiteur selon la loi régissant leurs relations.",
+      "text_sha256": "b10a99f14b4512f5e4d4782e8e7e57160d719219420111a016e65a8cdad45ec6",
+      "md_span": {
+        "start": 22948,
+        "end": 23429
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Pluralité de débiteurs\n\nLorsqu'un créancier a des droits à l'égard de plusieurs débiteurs qui sont tenus à la même obligation et que l'un d'entre eux l'a déjà désintéressé en totalité ou en partie, la loi applicable à l'obligation de ce débiteur envers le créancier régit également le droit du débiteur d'exercer une action récursoire contre les autres débiteurs. Les autres débiteurs peuvent faire valoir les droits dont ils disposaient à l'égard du créancier dans la mesure prévue par la loi régissant leurs obligations envers le créancier.",
+      "text_sha256": "e5b1b3a95e7874b35596b139780148b18753490c0580c8c78bc97d42a9815c7c",
+      "md_span": {
+        "start": 23468,
+        "end": 24010
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Compensation légale\n\nÀ défaut d'accord entre les parties sur la possibilité de procéder à une compensation, la compensation est régie par la loi applicable à l'obligation contre laquelle elle est invoquée.",
+      "text_sha256": "afb0770a635405ffb453bb73998877bd5310395504767f10beee590fe4df22f8",
+      "md_span": {
+        "start": 24049,
+        "end": 24254
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": null,
+      "path": [
+        "CHAPITRE II",
+        "RÈGLES UNIFORMES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Charge de la preuve\n\n1. La loi régissant l'obligation contractuelle en vertu du présent règlement s'applique dans la mesure où, en matière d'obligations contractuelles, elle établit des présomptions légales ou répartit la charge de la preuve.\n\n2. Les actes juridiques peuvent être prouvés par tout mode de preuve admis soit par la loi du for, soit par l'une des lois visées à l'article 11, selon laquelle l'acte est valable quant à la forme, pour autant que la preuve puisse être administrée selon ce mode devant la juridiction saisie.",
+      "text_sha256": "6127aede31706a348e10183e5f836bb796d9323733f33b62582d93180cb6ffaf",
+      "md_span": {
+        "start": 24293,
+        "end": 24828
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": null,
+      "path": [
+        "CHAPITRE III",
+        "AUTRES DISPOSITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Résidence habituelle\n\n1. Aux fins du présent règlement, la résidence habituelle d'une société, association ou personne morale est le lieu où elle a établi son administration centrale.\n\nLa résidence habituelle d'une personne physique agissant dans l'exercice de son activité professionnelle est le lieu où cette personne a son établissement principal.\n\n2. Lorsque le contrat est conclu dans le cadre de l'exploitation d'une succursale, d'une agence ou de tout autre établissement, ou si, selon le contrat, la prestation doit être fournie par lesdits succursale, agence ou autre établissement, le lieu où est situé cette succursale, cette agence ou tout autre établissement est traité comme résidence habituelle.\n\n3. La résidence habituelle est déterminée au moment de la conclusion du contrat.",
+      "text_sha256": "616a768d4a2c4719b418feae8a52c1053c27f86467b978bba1e1c1dc22aeb11d",
+      "md_span": {
+        "start": 24909,
+        "end": 25701
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": null,
+      "path": [
+        "CHAPITRE III",
+        "AUTRES DISPOSITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Exclusion du renvoi\n\nLorsque le présent règlement prescrit l'application de la loi d'un pays, elle entend les règles de droit matériel en vigueur dans ce pays à l'exclusion des règles de droit international privé, sauf disposition contraire du présent règlement.",
+      "text_sha256": "319d9a0308347aae864e22c4a574b01cc716cf1c0ba369aef559b613ff88c2a5",
+      "md_span": {
+        "start": 25740,
+        "end": 26002
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": null,
+      "path": [
+        "CHAPITRE III",
+        "AUTRES DISPOSITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Ordre public du for\n\nL'application d'une disposition de la loi désignée par le présent règlement ne peut être écartée que si cette application est manifestement incompatible avec l'ordre public du for.",
+      "text_sha256": "68a9e8957ddab77b6fd6ca351662909809e8a903091a1ee6c10d6b3da5a6264d",
+      "md_span": {
+        "start": 26041,
+        "end": 26242
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": null,
+      "path": [
+        "CHAPITRE III",
+        "AUTRES DISPOSITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Systèmes non unifiés\n\n1. Lorsqu'un État comprend plusieurs unités territoriales dont chacune a ses propres règles en matière d'obligations contractuelles, chaque unité territoriale est considérée comme un pays aux fins de la détermination de la loi applicable selon le présent règlement.\n\n2. Un État membre dans lequel différentes unités territoriales ont leurs propres règles juridiques en matière d'obligations contractuelles n'est pas tenu d'appliquer le présent règlement aux conflits concernant uniquement les lois de ces unités.",
+      "text_sha256": "25e43c0b52996c246770f06ef8ee882c6aa5d3e5e9dbe7e829354beab1147a1e",
+      "md_span": {
+        "start": 26281,
+        "end": 26815
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": null,
+      "path": [
+        "CHAPITRE III",
+        "AUTRES DISPOSITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Relation avec d'autres dispositions du droit communautaire\n\nÀ l'exception de l'article 7, le présent règlement n'affecte pas l'application des dispositions de droit communautaire qui, dans des domaines particuliers, règlent les conflits de lois en matière d'obligations contractuelles.",
+      "text_sha256": "b6dab56df3d27b946676c70ae135fc9658af15ecccb79cd070ba11078e980c97",
+      "md_span": {
+        "start": 26854,
+        "end": 27139
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": null,
+      "path": [
+        "CHAPITRE III",
+        "AUTRES DISPOSITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Relation avec la convention de Rome\n\n1. Le présent règlement remplace, entre les États membres, la convention de Rome, sauf en ce qui concerne les territoires des États membres qui entrent dans le champ d'application territorial de cette convention et qui sont exclus du présent règlement en vertu de l'article 299 du traité.\n\n2. Dans la mesure où le présent règlement remplace entre les États membres les dispositions de la convention de Rome, toute référence faite à celle-ci s'entend comme faite au présent règlement.",
+      "text_sha256": "e6e70b001cd840ed373bb0a2aa83081190e3aa92109d3be0a2b3ad6766ec663f",
+      "md_span": {
+        "start": 27178,
+        "end": 27698
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": null,
+      "path": [
+        "CHAPITRE III",
+        "AUTRES DISPOSITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Relation avec des conventions internationales existantes\n\n1. Le présent règlement n'affecte pas l'application des conventions internationales auxquelles un ou plusieurs États membres sont parties lors de l'adoption du présent règlement et qui règlent les conflits de lois en matière d'obligations contractuelles.\n\n2. Toutefois, le présent règlement prévaut entre les États membres sur les conventions conclues exclusivement entre deux ou plusieurs d'entre eux dans la mesure où elles concernent des matières réglées par le présent règlement.",
+      "text_sha256": "99d5680df9eefdb5887f4fc2507690d9492f537e9b8bdf4e1b99180dfaeb8031",
+      "md_span": {
+        "start": 27737,
+        "end": 28278
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": null,
+      "path": [
+        "CHAPITRE III",
+        "AUTRES DISPOSITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Liste des conventions\n\n1. Au plus tard le 17 juin 2009, les États membres communiquent à la Commission les conventions visées à l'article 25, paragraphe 1. Après cette date, les États membres communiquent à la Commission toute dénonciation de ces conventions.\n\n2. Dans un délai de six mois après réception des communications visées au paragraphe 1, la Commission publie au *Journal officiel de l'Union européenne*:\n\na) la liste des conventions visées au paragraphe 1;\n\nb) les dénonciations visées au paragraphe 1.",
+      "text_sha256": "178a60a8a5af6b3064c042b311f193ae8b8e47be6f3590f70ecdf5876738db21",
+      "md_span": {
+        "start": 28317,
+        "end": 28830
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27",
+      "heading": null,
+      "path": [
+        "CHAPITRE III",
+        "AUTRES DISPOSITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Clause de réexamen\n\n1. Au plus tard le 17 juin 2013, la Commission présente au Parlement européen, au Conseil et au Comité économique et social européen un rapport relatif à l'application du présent règlement. Ce rapport est accompagné, le cas échéant, de propositions visant à modifier le présent règlement. Il comprend:\n\na) une étude sur la loi applicable aux contrats d'assurance et une évaluation de l'impact des dispositions à introduire, le cas échéant, et\n\nb) une évaluation de l'application de l'article 6, en particulier en ce qui concerne la cohérence du droit communautaire dans le domaine de la protection des consommateurs.\n\n2. Au plus tard le 17 juin 2010, la Commission présente au Parlement européen, au Conseil et au Comité économique et social européen un rapport relatif à la question de l'opposabilité d'une cession ou subrogation aux tiers, ainsi que du rang de la créance faisant l'objet de ladite cession ou subrogation par rapport aux droits détenus par d'autres personnes. Ce rapport est accompagné, le cas échéant, d'une proposition de modification du présent règlement et d'une évaluation de l'impact des dispositions à introduire.",
+      "text_sha256": "e85fb153d6fbfe14eddfa8bbaa24cf9f634b2377d42c5404f4f46c2dc530f9d1",
+      "md_span": {
+        "start": 28869,
+        "end": 30027
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32008R0593R%2802%29",
+          "text": "32008R0593R(02): REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Article 28",
+      "heading": "Application dans le temps",
+      "path": [
+        "CHAPITRE III",
+        "AUTRES DISPOSITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement s'applique aux contrats conclus à compter du 17 décembre 2009.",
+      "text_sha256": "cdda77082b416324b5f13bf5b0a7fc2824acd25f551b9e0cefc8322374b30287",
+      "md_span": {
+        "start": 30094,
+        "end": 30177
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32008R0593",
+          "text": "32008R0593"
+        }
+      ]
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32008r0593:2008-07-24#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Article 29",
+      "heading": null,
+      "path": [
+        "CHAPITRE IV",
+        "DISPOSITIONS FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Entrée en vigueur et application\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.\n\nIl est applicable à partir du 17 décembre 2009, à l'exception de l'article 26, qui s'applique à partir du 17 juin 2009.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre conformément au traité instituant la Communauté européenne.\n\n(1) JO C 318 du 23.12.2006, p. 56.\n\n(2) Avis du Parlement européen du 29 novembre 2007 (non encore paru au Journal officiel) et décision du Conseil du 5 juin 2008.\n\n(3) JO C 12 du 15.1.2001, p. 1.\n\n(4) JO C 53 du 3.3.2005, p. 1.\n\n(5) JO L 12 du 16.1.2001, p. 1. Règlement modifié en dernier lieu par le règlement (CE) no 1791/2006 (JO L 363 du 20.12.2006, p. 1).\n\n(6) JO L 199 du 31.7.2007, p. 40.\n\n(7) JO C 334 du 30.12.2005, p. 1.\n\n(8) JO L 145 du 30.4.2004, p. 1. Directive modifiée en dernier lieu par la directive 2008/10/CE (JO L 76 du 19.3.2008, p. 33).\n\n(9) JO L 375 du 31.12.1985, p. 3. Directive modifiée en dernier lieu par la directive 2008/18/CE du Parlement européen et du Conseil (JO L 76 du 19.3.2008, p. 42).\n\n(10) JO L 280 du 29.10.1994, p. 83.\n\n(11) JO L 166 du 11.6.1998, p. 45.\n\n(12) JO L 18 du 21.1.1997, p. 1.\n\n(13) JO L 178 du 17.7.2000, p. 1.\n\n(14) JO L 345 du 19.12.2002, p. 1. Directive modifiée en dernier lieu par la directive 2008/19/CE (JO L 76 du 19.3.2008, p. 44).\n\n(15) JO L 158 du 23.6.1990, p. 59.\n\n(16) JO L 228 du 16.8.1973, p. 3. Directive modifiée en dernier lieu par la directive 2005/68/CE du Parlement européen et du Conseil (JO L 323 du 9.12.2005, p. 1).\n\n(17) JO L 172 du 4.7.1988, p. 1. Directive modifiée en dernier lieu par la directive 2005/14/CE du Parlement européen et du Conseil (JO L 149 du 11.6.2005, p. 14).",
+      "text_sha256": "935ba38234dcd286646c0b7fe79ced02f73fbafcabb950ff050835a4f7240d66",
+      "md_span": {
+        "start": 30258,
+        "end": 32079
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        },
+        {
+          "href": "#src.E0008",
+          "text": "8"
+        },
+        {
+          "href": "#src.E0009",
+          "text": "9"
+        },
+        {
+          "href": "#src.E0010",
+          "text": "10"
+        },
+        {
+          "href": "#src.E0011",
+          "text": "11"
+        },
+        {
+          "href": "#src.E0012",
+          "text": "12"
+        },
+        {
+          "href": "#src.E0013",
+          "text": "13"
+        },
+        {
+          "href": "#src.E0014",
+          "text": "14"
+        },
+        {
+          "href": "#src.E0015",
+          "text": "15"
+        },
+        {
+          "href": "#src.E0016",
+          "text": "16"
+        },
+        {
+          "href": "#src.E0017",
+          "text": "17"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

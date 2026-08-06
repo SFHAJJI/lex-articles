@@ -1,0 +1,112 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31991l0680:2009-11-30",
+  "language": "fr",
+  "title": "Council Directive 91/680/EEC of 16 December 1991 supplementing the common system of value …",
+  "valid_from": "2009-11-30",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31991l0680/versions/2009-11-30/fr.html",
+    "sha256": "95c0ef2bbcb18c8274adb7836b3e817fb5a97ce8f48878ed8bf7340e224d57e4",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01991L0680-20091130"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:31991l0680:2009-11-30#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les directives suivantes cessent d'avoir effet le 31 décembre 1992 pour ce qui concerne les relations entre États membres:\n\n— directive 85/362/CEE.\n\n2. Les dispositions relatives à la taxe sur la valeur ajoutée prévues par les directives suivantes cessent d'avoir effet le 31 décembre 1992:\n\n— directive 74/651/CEE (1), modifiée en dernier lieu par la directive 88/663/CEE (2),\n\n— directive 83/182/CEE (3),\n\n— directive 83/183/CEE (4), modifiée par la directive 89/604/CEE (5).\n\n3. Les dispositions relatives à la taxe sur la valeur ajoutée prévues par la directive 69/169/CEE (6), modifiée en dernier lieu par la directive 91/191/CEE (7), cessent d'avoir effet le 31 décembre 1992 pour ce qui concerne les relations entre États membres.\n\n(1) JO no L 354 du 30.12.1974, p. 6.\n\n(2) JO no L 382 du 31.12.1988, p. 40.\n\n(3) JO no L 105 du 23.4.1983, p. 59.\n\n(4) JO no L 105 du 23.4.1983, p. 64.\n\n(5) JO no L 348 du 29.11.1989, p. 28.\n\n(6) JO no L 133 du 4.6.1969, p. 6.\n\n(7) JO no L 94 du 16.4.1991, p. 24.",
+      "text_sha256": "8ed7f27fee13851650339efbd6dd5dc7fabf174f87f5aac739b87c4e9f057ffd",
+      "md_span": {
+        "start": 649,
+        "end": 1654
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32009L0132",
+          "text": "32009L0132: DELETED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31991L0680",
+          "text": "31991L0680"
+        },
+        {
+          "href": "#E0010",
+          "text": "1"
+        },
+        {
+          "href": "#E0011",
+          "text": "2"
+        },
+        {
+          "href": "#E0012",
+          "text": "3"
+        },
+        {
+          "href": "#E0013",
+          "text": "4"
+        },
+        {
+          "href": "#E0014",
+          "text": "5"
+        },
+        {
+          "href": "#E0015",
+          "text": "6"
+        },
+        {
+          "href": "#E0016",
+          "text": "7"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32006L0112",
+          "text": "32006L0112: DELETED"
+        },
+        {
+          "href": "#src.E0010",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0011",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0012",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0013",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0014",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0015",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0016",
+          "text": "7"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32009r0596:2009-06-18",
+  "language": "fr",
+  "title": "Regulation (EC) No\u00A0596/2009",
+  "valid_from": "2009-06-18",
+  "valid_to": "2009-08-06",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32009r0596/versions/2009-06-18/fr.xml",
+    "sha256": "3f3ef2dfd665e7466f32768c972c1dcadcd57d0ba61b55ebf82218611242f816",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32009R0596"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32009r0596:2009-06-18#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes actes dont la liste figure en annexe sont adaptés, conformément à ladite annexe, à la décision 1999/468/CE telle que modifiée par la décision 2006/512/CE.",
+      "text_sha256": "b7ad9fb505233c992ab32f91bd4cb6fb8f07a7bdbeb8b7e01d1bdd3789862b71",
+      "md_span": {
+        "start": 578,
+        "end": 753
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32009r0596:2009-06-18#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes références faites aux dispositions des actes dont la liste figure en annexe s’entendent comme faites à ces dispositions telles qu’adaptées par le présent règlement.",
+      "text_sha256": "45ad99d6febf6e91047c295e22956d8c86d0b5b6bd6950607aefeb177264074a",
+      "md_span": {
+        "start": 786,
+        "end": 965
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32009r0596:2009-06-18#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "2be326f48a7bb411fa6711790e75e6a35be6d3cd69277fcbe048ba6ef8caa375",
+      "md_span": {
+        "start": 998,
+        "end": 1139
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

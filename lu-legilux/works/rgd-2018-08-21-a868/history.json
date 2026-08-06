@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -69,5 +70,75 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2018-10-16",
+          "valid_to": "2022-05-30",
+          "text_sha256": "acdfa9018f8b701f98348bf14de60af38c7d472489dcebd60536955b2d3a1fa0",
+          "in_version": "lu-legilux:rgd-2018-08-21-a868:2018-10-16",
+          "article_valid_from": "2018-09-28",
+          "validity_conflict": true
+        },
+        {
+          "valid_from": "2022-05-31",
+          "valid_to": null,
+          "text_sha256": "797efa01ed2e03cf32e4dcbc0f58693548e5f2d2589acc6c776119303a29e600",
+          "in_version": "lu-legilux:rgd-2018-08-21-a868:2022-05-31",
+          "article_valid_from": "2022-05-31"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2018-10-16",
+          "valid_to": null,
+          "text_sha256": "e787415c01bb7e7d0e032641eded1d728b7730726d349ed69708a40871f8bcbe",
+          "in_version": "lu-legilux:rgd-2018-08-21-a868:2018-10-16",
+          "article_valid_from": "2018-10-16"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2018-10-16",
+          "valid_to": null,
+          "text_sha256": "64bfcbb5138314fb5a3a720366e261c3f1014519561fee64f4136438055e6b65",
+          "in_version": "lu-legilux:rgd-2018-08-21-a868:2018-10-16",
+          "article_valid_from": "2018-09-28",
+          "validity_conflict": true
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2018-10-16",
+          "valid_to": null,
+          "text_sha256": "fa83fd5d3c70071015ba76a3e13843adf5c31acd461d7dadf31dfe7becb9463b",
+          "in_version": "lu-legilux:rgd-2018-08-21-a868:2018-10-16",
+          "article_valid_from": "2018-10-16"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2018-10-16",
+          "valid_to": null,
+          "text_sha256": "793bb2f8ffacda31d1b5656c078d7f42f4e4d00f61bcdb1975ca3ef05742dc1d",
+          "in_version": "lu-legilux:rgd-2018-08-21-a868:2018-10-16",
+          "article_valid_from": "2018-09-28",
+          "validity_conflict": true
+        }
+      ],
+      "attachment_1": [
+        {
+          "valid_from": "2018-10-16",
+          "valid_to": null,
+          "text_sha256": "222dc23a16bf0819166edecb47d5aca7c44be1c0309428c91002de69166f087d",
+          "in_version": "lu-legilux:rgd-2018-08-21-a868:2018-10-16"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

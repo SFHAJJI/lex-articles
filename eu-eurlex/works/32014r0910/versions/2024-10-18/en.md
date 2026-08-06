@@ -4,10 +4,10 @@ title: 'eIDAS — Regulation (EU) No 910/2014'
 valid_from: '2024-10-18'
 valid_to: 'open'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0910-20241018'
-source_sha256: 'fb842ef285b630e3f78ed153f00c0553f4dbc0fc2eacb9f5f44f207af7d38d35'
+source_sha256: 'b4ab7d733d234eef3a505330717d8a8d4d6388f2d9a0a4bfcde2d1b497ba72ce'
 license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
 attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
-generator: 'fmx4-eu/1 · lex derive'
+generator: 'xhtml-eu/1 · lex derive'
 ---
 
 ## CHAPTER I — GENERAL PROVISIONS
@@ -34,7 +34,7 @@ This Regulation aims to ensure the proper functioning of the internal market and
 
 **3.** This Regulation does not affect Union or national law related to the conclusion and validity of contracts, other legal or procedural obligations relating to form, or sector-specific requirements relating to form.
 
-**4.** This Regulation is without prejudice to Regulation (EU) 2016/679 of the European Parliament and of the Council.
+**4.** This Regulation is without prejudice to Regulation (EU) 2016/679 of the European Parliament and of the Council (1).
 
 <a id="art_3"></a>
 
@@ -58,7 +58,7 @@ For the purposes of this Regulation, the following definitions apply:
 
 (7) ‘public sector body’ means a state, regional or local authority, a body governed by public law or an association formed by one or several such authorities or one or several such bodies governed by public law, or a private entity mandated by at least one of those authorities, bodies or associations to provide public services, when acting under such a mandate;
 
-(8) ‘body governed by public law’ means a body defined in point (4) of Article 2(1) of Directive 2014/24/EU of the European Parliament and of the Council;
+(8) ‘body governed by public law’ means a body defined in point (4) of Article 2(1) of Directive 2014/24/EU of the European Parliament and of the Council (2);
 
 (9) ‘signatory’ means a natural person who creates an electronic signature;
 
@@ -186,47 +186,13 @@ Without prejudice to specific rules of Union or national law requiring users to 
 
 **1.** For the purpose of ensuring that all natural and legal persons in the Union have secure, trusted and seamless cross-border access to public and private services, while having full control over their data, each Member State shall provide at least one European Digital Identity Wallet within 24 months of the date of entry into force of the implementing acts referred to in paragraph 23 of this Article and in Article 5c(6).
 
-**2.** European Digital Identity Wallets shall be provided in one or more of the following ways:
-
-(a) directly by a Member State;
-
-(b) under a mandate from a Member State;
-
-(c) independently of a Member State but recognised by that Member State.
+**2.** European Digital Identity Wallets shall be provided in one or more of the following ways:(a) directly by a Member State;(b) under a mandate from a Member State;(c) independently of a Member State but recognised by that Member State.
 
 **3.** The source code of the application software components of European Digital Identity Wallets shall be open-source licensed. Member States may provide that, for duly justified reasons, the source code of specific components other than those installed on user devices shall not be disclosed.
 
-**4.** European Digital Identity Wallets shall enable the user, in a manner that is user-friendly, transparent, and traceable by the user, to:
+**4.** European Digital Identity Wallets shall enable the user, in a manner that is user-friendly, transparent, and traceable by the user, to:(a) securely request, obtain, select, combine, store, delete, share and present, under the sole control of the user, person identification data and, where applicable, in combination with electronic attestations of attributes, to authenticate to relying parties online and, where appropriate, in offline mode, in order to access public and private services, while ensuring that selective disclosure of data is possible;(b) generate pseudonyms and store them encrypted and locally within the European Digital Identity Wallet;(c) securely authenticate another person’s European Digital Identity Wallet, and receive and share person identification data and electronic attestations of attributes in a secured way between the two European Digital Identity Wallets;(d) access a log of all transactions carried out through the European Digital Identity Wallet via a common dashboard enabling the user to:(i) view an up-to-date list of relying parties with which the user has established a connection and, where applicable, all data exchanged;(ii) easily request the erasure by a relying party of personal data pursuant to Article 17 of the Regulation (EU) 2016/679;(iii) easily report a relying party to the competent national data protection authority, where an allegedly unlawful or suspicious request for data is received;(e) sign by means of qualified electronic signatures or seal by means of qualified electronic seals;(f) download, to the extent technically feasible, the user’s data, electronic attestation of attributes and configurations;(g) exercise the user’s rights to data portability.
 
-(a) securely request, obtain, select, combine, store, delete, share and present, under the sole control of the user, person identification data and, where applicable, in combination with electronic attestations of attributes, to authenticate to relying parties online and, where appropriate, in offline mode, in order to access public and private services, while ensuring that selective disclosure of data is possible;
-
-(b) generate pseudonyms and store them encrypted and locally within the European Digital Identity Wallet;
-
-(c) securely authenticate another person’s European Digital Identity Wallet, and receive and share person identification data and electronic attestations of attributes in a secured way between the two European Digital Identity Wallets;
-
-(d) access a log of all transactions carried out through the European Digital Identity Wallet via a common dashboard enabling the user to: (i) view an up-to-date list of relying parties with which the user has established a connection and, where applicable, all data exchanged; (ii) easily request the erasure by a relying party of personal data pursuant to Article 17 of the Regulation (EU) 2016/679; (iii) easily report a relying party to the competent national data protection authority, where an allegedly unlawful or suspicious request for data is received;
-
-(e) sign by means of qualified electronic signatures or seal by means of qualified electronic seals;
-
-(f) download, to the extent technically feasible, the user’s data, electronic attestation of attributes and configurations;
-
-(g) exercise the user’s rights to data portability.
-
-**5.** European Digital Identity Wallets shall, in particular:
-
-(a) support common protocols and interfaces: (i) for issuance of person identification data, qualified and non-qualified electronic attestations of attributes or qualified and non-qualified certificates to the European Digital Identity Wallet; (ii) for relying parties to request and validate person identification data and electronic attestations of attributes; (iii) for the sharing and presentation to relying parties of person identification data, electronic attestation of attributes or of selectively disclosed related data online and, where appropriate, in offline mode; (iv) for the user to allow interaction with the European Digital Identity Wallet and display an EU Digital Identity Wallet Trust Mark; (v) to securely onboard the user by using an electronic identification means in accordance with Article 5a(24); (vi) for interaction between two persons’ European Digital Identity Wallets for the purpose of receiving, validating and sharing person identification data and electronic attestations of attributes in a secure manner; (vii) for authenticating and identifying relying parties by implementing authentication mechanisms in accordance with Article 5b; (viii) for relying parties to verify the authenticity and validity of European Digital Identity Wallets; (ix) for requesting a relying party the erasure of personal data pursuant to Article 17 of Regulation (EU) 2016/679; (x) for reporting a relying party to the competent national data protection authority where an allegedly unlawful or suspicious request for data is received; (xi) for the creation of qualified electronic signatures or electronic seals by means of qualified electronic signature or electronic seal creation devices;
-
-(b) not provide any information to trust service providers of electronic attestations of attributes about the use of those electronic attestations;
-
-(c) ensure that the relying parties can be authenticated and identified by implementing authentication mechanisms in accordance with Article 5b;
-
-(d) meet the requirements set out in Article 8 with regard to assurance level high, in particular as applied to the requirements for identity proofing and verification, and electronic identification means management and authentication;
-
-(e) in the case of the electronic attestation of attributes with embedded disclosure policies, implement the appropriate mechanism to inform the user that the relying party or the user of the European Digital Identity Wallet requesting that electronic attestation of attributes has the permission to access such attestation;
-
-(f) ensure that the person identification data, which is available from the electronic identification scheme under which the European Digital Identity Wallet is provided, uniquely represents the natural person, legal person or the natural person representing the natural or legal person, and is associated with that European Digital Identity Wallet;
-
-(g) offer all natural persons the ability to sign by means of qualified electronic signatures by default and free of charge.
+**5.** European Digital Identity Wallets shall, in particular:(a) support common protocols and interfaces:(i) for issuance of person identification data, qualified and non-qualified electronic attestations of attributes or qualified and non-qualified certificates to the European Digital Identity Wallet;(ii) for relying parties to request and validate person identification data and electronic attestations of attributes;(iii) for the sharing and presentation to relying parties of person identification data, electronic attestation of attributes or of selectively disclosed related data online and, where appropriate, in offline mode;(iv) for the user to allow interaction with the European Digital Identity Wallet and display an EU Digital Identity Wallet Trust Mark;(v) to securely onboard the user by using an electronic identification means in accordance with Article 5a(24);(vi) for interaction between two persons’ European Digital Identity Wallets for the purpose of receiving, validating and sharing person identification data and electronic attestations of attributes in a secure manner;(vii) for authenticating and identifying relying parties by implementing authentication mechanisms in accordance with Article 5b;(viii) for relying parties to verify the authenticity and validity of European Digital Identity Wallets;(ix) for requesting a relying party the erasure of personal data pursuant to Article 17 of Regulation (EU) 2016/679;(x) for reporting a relying party to the competent national data protection authority where an allegedly unlawful or suspicious request for data is received;(xi) for the creation of qualified electronic signatures or electronic seals by means of qualified electronic signature or electronic seal creation devices;(b) not provide any information to trust service providers of electronic attestations of attributes about the use of those electronic attestations;(c) ensure that the relying parties can be authenticated and identified by implementing authentication mechanisms in accordance with Article 5b;(d) meet the requirements set out in Article 8 with regard to assurance level high, in particular as applied to the requirements for identity proofing and verification, and electronic identification means management and authentication;(e) in the case of the electronic attestation of attributes with embedded disclosure policies, implement the appropriate mechanism to inform the user that the relying party or the user of the European Digital Identity Wallet requesting that electronic attestation of attributes has the permission to access such attestation;(f) ensure that the person identification data, which is available from the electronic identification scheme under which the European Digital Identity Wallet is provided, uniquely represents the natural person, legal person or the natural person representing the natural or legal person, and is associated with that European Digital Identity Wallet;(g) offer all natural persons the ability to sign by means of qualified electronic signatures by default and free of charge.
 
 Notwithstanding point (g) of the first subparagraph, Member States may provide for proportionate measures to ensure that the use of qualified electronic signatures free-of-charge by natural persons is limited to non-professional purposes.
 
@@ -234,19 +200,9 @@ Notwithstanding point (g) of the first subparagraph, Member States may provide f
 
 **7.** Without prejudice to Article 5f, Member States may provide, in accordance with national law, for additional functionalities of European Digital Identity Wallets, including interoperability with existing national electronic identification means. Those additional functionalities shall comply with this Article.
 
-**8.** Member States shall provide validation mechanisms free-of-charge, in order to:
+**8.** Member States shall provide validation mechanisms free-of-charge, in order to:(a) ensure that the authenticity and validity of European Digital Identity Wallets can be verified;(b) allow users to verify the authenticity and validity of the identity of relying parties registered in accordance with Article 5b.
 
-(a) ensure that the authenticity and validity of European Digital Identity Wallets can be verified;
-
-(b) allow users to verify the authenticity and validity of the identity of relying parties registered in accordance with Article 5b.
-
-**9.** Member States shall ensure that the validity of the European Digital Identity Wallet can be revoked in the following circumstances:
-
-(a) upon the explicit request of the user;
-
-(b) where the security of the European Digital Identity Wallet has been compromised;
-
-(c) upon the death of the user or cease of activity of the legal person.
+**9.** Member States shall ensure that the validity of the European Digital Identity Wallet can be revoked in the following circumstances:(a) upon the explicit request of the user;(b) where the security of the European Digital Identity Wallet has been compromised;(c) upon the death of the user or cease of activity of the legal person.
 
 **10.** Providers of European Digital Identity Wallets shall ensure that users can easily request technical support and report technical problems or any other incidents having a negative impact on the use of European Digital Identity Wallets.
 
@@ -260,25 +216,11 @@ Notwithstanding point (g) of the first subparagraph, Member States may provide f
 
 **15.** The use of European Digital Identity Wallets shall be voluntary. Access to public and private services, access to the labour market and freedom to conduct business shall not in any way be restricted or made disadvantageous to natural or legal persons that do not use European Digital Identity Wallets. It shall remain possible to access public and private services by other existing identification and authentication means.
 
-**16.** The technical framework of the European Digital Identity Wallet shall:
-
-(a) not allow providers of electronic attestations of attributes or any other party, after the issuance of the attestation of attributes, to obtain data that allows transactions or user behaviour to be tracked, linked or correlated, or knowledge of transactions or user behaviour to be otherwise obtained, unless explicitly authorised by the user;
-
-(b) enable privacy preserving techniques which ensure unlinkability, where the attestation of attributes does not require the identification of the user.
+**16.** The technical framework of the European Digital Identity Wallet shall:(a) not allow providers of electronic attestations of attributes or any other party, after the issuance of the attestation of attributes, to obtain data that allows transactions or user behaviour to be tracked, linked or correlated, or knowledge of transactions or user behaviour to be otherwise obtained, unless explicitly authorised by the user;▼C1(b) enable privacy preserving techniques which ensure unlinkability, where the attestation of attributes does not require the identification of the user.▼M2
 
 **17.** Any processing of personal data carried out by the Member States or on their behalf by bodies or parties responsible for the provision of European Digital Identity Wallets as electronic identification means shall be carried out in accordance with appropriate and effective data protection measures. Compliance of such processing with Regulation (EU) 2016/679 shall be demonstrated. Member States may introduce national provisions to further specify the application of such measures.
 
-**18.** Member States shall, without undue delay, notify the Commission of information about:
-
-(a) the body responsible for establishing and maintaining the list of registered relying parties that rely on European Digital Identity Wallets in accordance with Article 5b(5) and the location of that list;
-
-(b) the bodies responsible for the provision of European Digital Identity Wallets in accordance with Article 5a(1);
-
-(c) the bodies responsible for ensuring that the person identification data is associated with the European Digital Identity Wallet in accordance with Article 5a(5), point (f);
-
-(d) the mechanism allowing for the validation of the person identification data referred to in Article 5a(5), point (f), and of the identity of the relying parties;
-
-(e) the mechanism by which to validate the authenticity and validity of European Digital Identity Wallets.
+**18.** Member States shall, without undue delay, notify the Commission of information about:(a) the body responsible for establishing and maintaining the list of registered relying parties that rely on European Digital Identity Wallets in accordance with Article 5b(5) and the location of that list;(b) the bodies responsible for the provision of European Digital Identity Wallets in accordance with Article 5a(1);(c) the bodies responsible for ensuring that the person identification data is associated with the European Digital Identity Wallet in accordance with Article 5a(5), point (f);(d) the mechanism allowing for the validation of the person identification data referred to in Article 5a(5), point (f), and of the identity of the relying parties;(e) the mechanism by which to validate the authenticity and validity of European Digital Identity Wallets.
 
 The Commission shall make available the information notified pursuant to the first subparagraph to the public through a secure channel, in electronically signed or sealed form suitable for automated processing.
 
@@ -286,7 +228,7 @@ The Commission shall make available the information notified pursuant to the fir
 
 **20.** Article 24(2), points (b), and (d) to (h), shall apply *mutatis mutandis* to providers of European Digital Identity Wallets.
 
-**21.** European Digital Identity Wallets shall be made accessible for use, by persons with disabilities, on an equal basis with other users, in accordance with Directive (EU) 2019/882 of the European Parliament and of the Council.
+**21.** European Digital Identity Wallets shall be made accessible for use, by persons with disabilities, on an equal basis with other users, in accordance with Directive (EU) 2019/882 of the European Parliament and of the Council (3).
 
 **22.** For the purposes of the provision of European Digital Identity Wallets, European Digital Identity Wallets and the electronic identification schemes under which they are provided shall not be subject to the requirements laid down in Articles 7, 9, 10, 12 and 12a.
 
@@ -300,13 +242,7 @@ The Commission shall make available the information notified pursuant to the fir
 
 **1.** Where a relying party intends to rely upon European Digital Identity Wallets for the provision of public or private services by means of digital interaction, the relying party shall register in the Member State where it is established.
 
-**2.** The registration process shall be cost-effective and proportionate-to-risk. The relying party shall provide at least:
-
-(a) the information necessary to authenticate to European Digital Identity Wallets, which as a minimum includes: (i) the Member State in which the relying party is established; and (ii) the name of the relying party and, where applicable, its registration number as stated in an official record together with identification data of that official record;
-
-(b) the contact details of the relying party;
-
-(c) the intended use of European Digital Identity Wallets, including an indication of the data to be requested by the relying party from users.
+**2.** The registration process shall be cost-effective and proportionate-to-risk. The relying party shall provide at least:(a) the information necessary to authenticate to European Digital Identity Wallets, which as a minimum includes:(i) the Member State in which the relying party is established; and(ii) the name of the relying party and, where applicable, its registration number as stated in an official record together with identification data of that official record;(b) the contact details of the relying party;(c) the intended use of European Digital Identity Wallets, including an indication of the data to be requested by the relying party from users.
 
 **3.** Relying parties shall not request users to provide any data other than that indicated pursuant to paragraph 2, point (c).
 
@@ -332,7 +268,7 @@ The Commission shall make available the information notified pursuant to the fir
 
 **1.** The conformity of European Digital Identity Wallets and the electronic identification scheme under which they are provided with the requirements laid down in Article 5a(4), (5), (8), the requirement for logical separation laid down in Article 5a(14) and, where applicable, with the standards and technical specifications referred to in Article 5a(24), shall be certified by conformity assessment bodies designated by Member States.
 
-**2.** Certification of the conformity of European Digital Identity Wallets with requirements referred to in paragraph 1 of this Article, or parts thereof, that are relevant for cybersecurity shall be carried out in accordance with European cybersecurity certification schemes adopted pursuant to Regulation (EU) 2019/881 of the European Parliament and of the Council and referred to in the implementing acts referred to in paragraph 6 of this Article.
+**2.** Certification of the conformity of European Digital Identity Wallets with requirements referred to in paragraph 1 of this Article, or parts thereof, that are relevant for cybersecurity shall be carried out in accordance with European cybersecurity certification schemes adopted pursuant to Regulation (EU) 2019/881 of the European Parliament and of the Council (4) and referred to in the implementing acts referred to in paragraph 6 of this Article.
 
 **3.** For requirements referred to in paragraph 1 of this Article that are not relevant for cybersecurity, and, for requirements referred to in paragraph 1 of this Article that are relevant for cybersecurity, to the extent that cybersecurity certification schemes as referred to in paragraph 2 of this Article do not, or only partially, cover those cybersecurity requirements, also for those requirements, Member States shall establish national certification schemes following the requirements set out in the implementing acts referred to in paragraph 6 of this Article. Member States shall transmit their draft national certification schemes to the European Digital Identity Cooperation Group established pursuant to Article 46e(1) (the ‘Cooperation Group’). The Cooperation Group may issue opinions and recommendations.
 
@@ -352,17 +288,7 @@ The Commission shall make available the information notified pursuant to the fir
 
 **1.** Member States shall inform the Commission and the Cooperation Group established pursuant to Article 46e(1) without undue delay of European Digital Identity Wallets that have been provided pursuant to Article 5a and certified by the conformity assessment bodies referred to in Article 5c(1). They shall inform the Commission and the Cooperation Group established pursuant to Article 46e(1), without undue delay if a certification is cancelled and shall state the reasons for the cancellation.
 
-**2.** Without prejudice to Article 5a(18), the information provided by Member States referred to in paragraph 1 of this Article shall include at least:
-
-(a) the certificate and certification assessment report of the certified European Digital Identity Wallet;
-
-(b) a description of the electronic identification scheme under which the European Digital Identity Wallet is provided;
-
-(c) the applicable supervisory regime and information on the liability regime with respect to the party providing the European Digital Identity Wallet;
-
-(d) the authority or authorities responsible for the electronic identification scheme;
-
-(e) arrangements for suspension or revocation of the electronic identification scheme or authentication or of the compromised parts concerned.
+**2.** Without prejudice to Article 5a(18), the information provided by Member States referred to in paragraph 1 of this Article shall include at least:(a) the certificate and certification assessment report of the certified European Digital Identity Wallet;(b) a description of the electronic identification scheme under which the European Digital Identity Wallet is provided;(c) the applicable supervisory regime and information on the liability regime with respect to the party providing the European Digital Identity Wallet;(d) the authority or authorities responsible for the electronic identification scheme;(e) arrangements for suspension or revocation of the electronic identification scheme or authentication or of the compromised parts concerned.
 
 **3.** On the basis of the information received pursuant to paragraph 1, the Commission shall establish, publish in the *Official Journal of the European Union* and maintain in a machine-readable form a list of certified European Digital Identity Wallets.
 
@@ -398,9 +324,9 @@ The Member State shall inform the users affected, the single points of contact d
 
 **1.** Where Member States require electronic identification and authentication to access an online service provided by a public sector body, they shall also accept European Digital Identity Wallets that are provided in accordance with this Regulation.
 
-**2.** Where private relying parties that provide services, with the exception of microenterprises and small enterprises as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC, are required by Union or national law to use strong user authentication for online identification or where strong user authentication for online identification is required by contractual obligation, including in the areas of transport, energy, banking, financial services, social security, health, drinking water, postal services, digital infrastructure, education or telecommunications, those private relying parties shall, no later than 36 months from the date of entry into force of the implementing acts referred to in Article 5a(23) and Article 5c(6) and only upon the voluntary request of the user, also accept European Digital Identity Wallets that are provided in accordance with this Regulation.
+**2.** Where private relying parties that provide services, with the exception of microenterprises and small enterprises as defined in Article 2 of the Annex to Commission Recommendation 2003/361/EC (5), are required by Union or national law to use strong user authentication for online identification or where strong user authentication for online identification is required by contractual obligation, including in the areas of transport, energy, banking, financial services, social security, health, drinking water, postal services, digital infrastructure, education or telecommunications, those private relying parties shall, no later than 36 months from the date of entry into force of the implementing acts referred to in Article 5a(23) and Article 5c(6) and only upon the voluntary request of the user, also accept European Digital Identity Wallets that are provided in accordance with this Regulation.
 
-**3.** Where providers of very large online platforms as referred to in Article 33 of Regulation (EU) 2022/2065 of the European Parliament and of the Council require user authentication for access to online services, they shall also accept and facilitate the use of European Digital Identity Wallets that are provided in accordance with this Regulation for user authentication only upon the voluntary request of the user and in respect of the minimum data necessary for the specific online service for which authentication is requested.
+**3.** Where providers of very large online platforms as referred to in Article 33 of Regulation (EU) 2022/2065 of the European Parliament and of the Council (6) require user authentication for access to online services, they shall also accept and facilitate the use of European Digital Identity Wallets that are provided in accordance with this Regulation for user authentication only upon the voluntary request of the user and in respect of the minimum data necessary for the specific online service for which authentication is requested.
 
 **4.** In cooperation with Member States, the Commission shall facilitate the development of codes of conduct in close collaboration with all relevant stakeholders, including civil society, in order to contribute to the wide availability and usability of European Digital Identity Wallets within the scope of this Regulation, and to encourage service providers to complete the development of codes of conduct.
 
@@ -412,13 +338,7 @@ The Member State shall inform the users affected, the single points of contact d
 
 ### Article 6 — Mutual recognition
 
-**1.** When an electronic identification using an electronic identification means and authentication is required under national law or by administrative practice to access a service provided by a public sector body online in one Member State, the electronic identification means issued in another Member State shall be recognised in the first Member State for the purposes of cross-border authentication for that service online, provided that the following conditions are met:
-
-(a) the electronic identification means is issued under an electronic identification scheme that is included in the list published by the Commission pursuant to Article 9;
-
-(b) the assurance level of the electronic identification means corresponds to an assurance level equal to or higher than the assurance level required by the relevant public sector body to access that service online in the first Member State, provided that the assurance level of that electronic identification means corresponds to the assurance level substantial or high;
-
-(c) the relevant public sector body uses the assurance level substantial or high in relation to accessing that service online.
+**1.** When an electronic identification using an electronic identification means and authentication is required under national law or by administrative practice to access a service provided by a public sector body online in one Member State, the electronic identification means issued in another Member State shall be recognised in the first Member State for the purposes of cross-border authentication for that service online, provided that the following conditions are met:(a) the electronic identification means is issued under an electronic identification scheme that is included in the list published by the Commission pursuant to Article 9;(b) the assurance level of the electronic identification means corresponds to an assurance level equal to or higher than the assurance level required by the relevant public sector body to access that service online in the first Member State, provided that the assurance level of that electronic identification means corresponds to the assurance level substantial or high;(c) the relevant public sector body uses the assurance level substantial or high in relation to accessing that service online.
 
 Such recognition shall take place no later than 12 months after the Commission publishes the list referred to in point (a) of the first subparagraph.
 
@@ -452,13 +372,7 @@ An electronic identification scheme shall be eligible for notification pursuant 
 
 **1.** An electronic identification scheme notified pursuant to Article 9(1) shall specify assurance levels low, substantial and/or high for electronic identification means issued under that scheme.
 
-**2.** The assurance levels low, substantial and high shall meet respectively the following criteria:
-
-(a) assurance level low shall refer to an electronic identification means in the context of an electronic identification scheme, which provides a limited degree of confidence in the claimed or asserted identity of a person, and is characterised with reference to technical specifications, standards and procedures related thereto, including technical controls, the purpose of which is to decrease the risk of misuse or alteration of the identity;
-
-(b) assurance level substantial shall refer to an electronic identification means in the context of an electronic identification scheme, which provides a substantial degree of confidence in the claimed or asserted identity of a person, and is characterised with reference to technical specifications, standards and procedures related thereto, including technical controls, the purpose of which is to decrease substantially the risk of misuse or alteration of the identity;
-
-(c) assurance level high shall refer to an electronic identification means in the context of an electronic identification scheme, which provides a higher degree of confidence in the claimed or asserted identity of a person than electronic identification means with the assurance level substantial, and is characterised with reference to technical specifications, standards and procedures related thereto, including technical controls, the purpose of which is to prevent misuse or alteration of the identity.
+**2.** The assurance levels low, substantial and high shall meet respectively the following criteria:(a) assurance level low shall refer to an electronic identification means in the context of an electronic identification scheme, which provides a limited degree of confidence in the claimed or asserted identity of a person, and is characterised with reference to technical specifications, standards and procedures related thereto, including technical controls, the purpose of which is to decrease the risk of misuse or alteration of the identity;(b) assurance level substantial shall refer to an electronic identification means in the context of an electronic identification scheme, which provides a substantial degree of confidence in the claimed or asserted identity of a person, and is characterised with reference to technical specifications, standards and procedures related thereto, including technical controls, the purpose of which is to decrease substantially the risk of misuse or alteration of the identity;(c) assurance level high shall refer to an electronic identification means in the context of an electronic identification scheme, which provides a higher degree of confidence in the claimed or asserted identity of a person than electronic identification means with the assurance level substantial, and is characterised with reference to technical specifications, standards and procedures related thereto, including technical controls, the purpose of which is to prevent misuse or alteration of the identity.
 
 **3.** By 18 September 2015, taking into account relevant international standards and subject to paragraph 2, the Commission shall, by means of implementing acts, set out minimum technical specifications, standards and procedures with reference to which assurance levels low, substantial and high are specified for electronic identification means.
 
@@ -482,21 +396,7 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 ### Article 9 — Notification
 
-**1.** The notifying Member State shall notify to the Commission the following information and, without undue delay, any subsequent changes thereto:
-
-(a) a description of the electronic identification scheme, including its assurance levels and the issuer or issuers of electronic identification means under the scheme;
-
-(b) the applicable supervisory regime and information on the liability regime with respect to the following: (i) the party issuing the electronic identification means; and (ii) the party operating the authentication procedure;
-
-(c) the authority or authorities responsible for the electronic identification scheme;
-
-(d) information on the entity or entities which manage the registration of the unique person identification data;
-
-(e) a description of how the requirements set out in the implementing acts referred to in Article 12(8) are met;
-
-(f) a description of the authentication referred to in point (f) of Article 7;
-
-(g) arrangements for suspension or revocation of either the notified electronic identification scheme or authentication or the compromised parts concerned.
+**1.** The notifying Member State shall notify to the Commission the following information and, without undue delay, any subsequent changes thereto:(a) a description of the electronic identification scheme, including its assurance levels and the issuer or issuers of electronic identification means under the scheme;(b) the applicable supervisory regime and information on the liability regime with respect to the following:(i) the party issuing the electronic identification means; and(ii) the party operating the authentication procedure;(c) the authority or authorities responsible for the electronic identification scheme;(d) information on the entity or entities which manage the registration of the unique person identification data;(e) a description of how the requirements set out in the implementing acts referred to in Article 12(8) are met;(f) a description of the authentication referred to in point (f) of Article 7;(g) arrangements for suspension or revocation of either the notified electronic identification scheme or authentication or the compromised parts concerned.
 
 **2.** The Commission shall, without undue delay, publish in the *Official Journal of the European Union* a list of the electronic identification schemes which were notified pursuant to paragraph 1 together with basic information about those schemes.
 
@@ -550,37 +450,13 @@ The Commission shall publish in the *Official Journal of the European Union* the
 
 **2.** For the purposes of paragraph 1, an interoperability framework shall be established.
 
-**3.** The interoperability framework shall meet the following criteria:
+**3.** The interoperability framework shall meet the following criteria:(a) it aims to be technology neutral and does not discriminate between any specific national technical solutions for electronic identification within a Member State;(b) it follows European and international standards, where possible;▼M2(c) it facilitates the implementation of privacy and security by design.▼M2 —————▼B
 
-(a) it aims to be technology neutral and does not discriminate between any specific national technical solutions for electronic identification within a Member State;
-
-(b) it follows European and international standards, where possible;
-
-(c) it facilitates the implementation of privacy and security by design.
-
-(d) it ensures that personal data is processed in accordance with Directive 95/46/EC.
-
-**4.** The interoperability framework shall consist of:
-
-(a) a reference to minimum technical requirements related to the assurance levels under Article 8;
-
-(b) a mapping of national assurance levels of notified electronic identification schemes to the assurance levels under Article 8;
-
-(c) a reference to minimum technical requirements for interoperability;
-
-(d) a reference to a minimum set of person identification data necessary to uniquely represent a natural or legal person, or a natural person representing another natural person or a legal person, which is available from electronic identification schemes;
-
-(e) rules of procedure;
-
-(f) arrangements for dispute resolution; and
-
-(g) common operational security standards.
+**4.** The interoperability framework shall consist of:(a) a reference to minimum technical requirements related to the assurance levels under Article 8;(b) a mapping of national assurance levels of notified electronic identification schemes to the assurance levels under Article 8;(c) a reference to minimum technical requirements for interoperability;▼M2(d) a reference to a minimum set of person identification data necessary to uniquely represent a natural or legal person, or a natural person representing another natural person or a legal person, which is available from electronic identification schemes;▼B(e) rules of procedure;(f) arrangements for dispute resolution; and(g) common operational security standards.
 
 **5.** Member States shall carry out peer reviews of the electronic identification schemes that fall within the scope of this Regulation and that are to be notified pursuant to Article 9(1), point (a).
 
 **6.** By 18 March 2025, the Commission shall, by means of implementing acts, establish the necessary procedural arrangements for the peer reviews referred to in paragraph 5 of this Article with a view to fostering a high level of trust and security appropriate to the degree of risk. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
-
-**7.** By 18 March 2015, the Commission shall, by means of implementing acts, establish the necessary procedural arrangements to facilitate the cooperation between the Member States referred to in paragraphs 5 and 6 with a view to fostering a high level of trust and security appropriate to the degree of risk.
 
 **8.** By 18 September 2025, for the purpose of setting uniform conditions for the implementation of the requirement under paragraph 1 of this Article, the Commission shall, subject to the criteria set out in paragraph 3 of this Article and taking into account the results of the cooperation between Member States, adopt implementing acts on the interoperability framework as set out in paragraph 4 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
 
@@ -606,7 +482,7 @@ The Commission shall publish in the *Official Journal of the European Union* the
 
 ### Article 12b — Access to hardware and software features
 
-Where providers of European Digital Identity Wallets and issuers of notified electronic identification means that act in a commercial or professional capacity and use core platform services as defined in Article 2, point (2), of Regulation (EU) 2022/1925 of the European Parliament and of the Council for the purpose or in the course of providing European Digital Identity Wallet services and electronic identification means to end-users are business users as defined in Article 2, point (21), of that Regulation, gatekeepers shall in particular allow them effective interoperability with, and, for the purposes of interoperability, access to, the same operating system, hardware or software features. Such effective interoperability and access shall be allowed free of charge and regardless of whether the hardware or software features are part of the operating system, are available to, or are used by, that gatekeeper when providing such services, within the meaning of Article 6(7) of Regulation (EU) 2022/1925. This Article is without prejudice to Article 5a(14) of this Regulation.
+Where providers of European Digital Identity Wallets and issuers of notified electronic identification means that act in a commercial or professional capacity and use core platform services as defined in Article 2, point (2), of Regulation (EU) 2022/1925 of the European Parliament and of the Council (7) for the purpose or in the course of providing European Digital Identity Wallet services and electronic identification means to end-users are business users as defined in Article 2, point (21), of that Regulation, gatekeepers shall in particular allow them effective interoperability with, and, for the purposes of interoperability, access to, the same operating system, hardware or software features. Such effective interoperability and access shall be allowed free of charge and regardless of whether the hardware or software features are part of the operating system, are available to, or are used by, that gatekeeper when providing such services, within the meaning of Article 6(7) of Regulation (EU) 2022/1925. This Article is without prejudice to Article 5a(14) of this Regulation.
 
 ## CHAPTER III — TRUST SERVICES
 
@@ -648,115 +524,19 @@ The provision of electronic identification means, trust services and end-user pr
 
 ### Article 16 — Penalties
 
-**1.** Without prejudice to Article 31 of Directive (EU) 2022/2555 of the European Parliament and of the Council, Member States shall lay down the rules on penalties applicable to infringements of this Regulation. Those penalties shall be effective, proportionate and dissuasive.
+**1.** Without prejudice to Article 31 of Directive (EU) 2022/2555 of the European Parliament and of the Council (8), Member States shall lay down the rules on penalties applicable to infringements of this Regulation. Those penalties shall be effective, proportionate and dissuasive.
 
-**2.** Member States shall ensure that infringements of this Regulation by qualified and non-qualified trust service providers be subject to administrative fines of a maximum of at least:
-
-(a) EUR 5000000 where the trust service provider is a natural person; or
-
-(b) where the trust service provider is a legal person, EUR 5000000 or 1 % of the total worldwide annual turnover of the undertaking to which the trust service provider belonged in the financial year preceding the year in which the infringement occurred, whichever is higher.
+**2.** Member States shall ensure that infringements of this Regulation by qualified and non-qualified trust service providers be subject to administrative fines of a maximum of at least:(a) EUR 5 000 000 where the trust service provider is a natural person; or(b) where the trust service provider is a legal person, EUR 5 000 000 or 1 % of the total worldwide annual turnover of the undertaking to which the trust service provider belonged in the financial year preceding the year in which the infringement occurred, whichever is higher.
 
 **3.** Depending on the legal system of the Member States, the rules on administrative fines may be applied in such a manner that the fine is initiated by the competent supervisory body and imposed by competent national courts. The application of such rules in those Member States shall ensure that those legal remedies are effective and have an equivalent effect to administrative fines imposed directly by supervisory authorities.
 
 ### SECTION 2 — Non-qualified trust services
 
-<a id="art_17"></a>
-
-### Article 17 — Supervisory body
-
-**1.** Member States shall designate a supervisory body established in their territory or, upon mutual agreement with another Member State, a supervisory body established in that other Member State. That body shall be responsible for supervisory tasks in the designating Member State.
-
-Supervisory bodies shall be given the necessary powers and adequate resources for the exercise of their tasks.
-
-**2.** Member States shall notify to the Commission the names and the addresses of their respective designated supervisory bodies.
-
-**3.** The role of the supervisory body shall be the following:
-
-(a) to supervise qualified trust service providers established in the territory of the designating Member State to ensure, through *ex ante* and *ex post* supervisory activities, that those qualified trust service providers and the qualified trust services that they provide meet the requirements laid down in this Regulation;
-
-(b) to take action if necessary, in relation to non-qualified trust service providers established in the territory of the designating Member State, through *ex post* supervisory activities, when informed that those non-qualified trust service providers or the trust services they provide allegedly do not meet the requirements laid down in this Regulation.
-
-**4.** For the purposes of paragraph 3 and subject to the limitations provided therein, the tasks of the supervisory body shall include in particular:
-
-(a) to cooperate with other supervisory bodies and provide them with assistance in accordance with Article 18;
-
-(b) to analyse the conformity assessment reports referred to in Articles 20(1) and 21(1);
-
-(c) to inform other supervisory bodies and the public about breaches of security or loss of integrity in accordance with Article 19(2);
-
-(d) to report to the Commission about its main activities in accordance with paragraph 6 of this Article;
-
-(e) to carry out audits or request a conformity assessment body to perform a conformity assessment of the qualified trust service providers in accordance with Article 20(2);
-
-(f) to cooperate with the data protection authorities, in particular, by informing them without undue delay, about the results of audits of qualified trust service providers, where personal data protection rules appear to have been breached;
-
-(g) to grant qualified status to trust service providers and to the services they provide and to withdraw this status in accordance with Articles 20 and 21;
-
-(h) to inform the body responsible for the national trusted list referred to in Article 22(3) about its decisions to grant or to withdraw qualified status, unless that body is also the supervisory body;
-
-(i) to verify the existence and correct application of provisions on termination plans in cases where the qualified trust service provider ceases its activities, including how information is kept accessible in accordance with point (h) of Article 24(2);
-
-(j) to require that trust service providers remedy any failure to fulfil the requirements laid down in this Regulation.
-
-**5.** Member States may require the supervisory body to establish, maintain and update a trust infrastructure in accordance with the conditions under national law.
-
-**6.** By 31 March each year, each supervisory body shall submit to the Commission a report on its previous calendar year’s main activities together with a summary of breach notifications received from trust service providers in accordance with Article 19(2).
-
-**7.** The Commission shall make the annual report referred to in paragraph 6 available to Member States.
-
-**8.** The Commission may, by means of implementing acts, define the formats and procedures for the report referred to in paragraph 6. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
-
-<a id="art_18"></a>
-
-### Article 18 — Mutual assistance
-
-**1.** Supervisory bodies shall cooperate with a view to exchanging good practice.
-
-A supervisory body shall, upon receipt of a justified request from another supervisory body, provide that body with assistance so that the activities of supervisory bodies can be carried out in a consistent manner. Mutual assistance may cover, in particular, information requests and supervisory measures, such as requests to carry out inspections related to the conformity assessment reports as referred to in Articles 20 and 21.
-
-**2.** A supervisory body to which a request for assistance is addressed may refuse that request on any of the following grounds:
-
-(a) the supervisory body is not competent to provide the requested assistance;
-
-(b) the requested assistance is not proportionate to supervisory activities of the supervisory body carried out in accordance with Article 17;
-
-(c) providing the requested assistance would be incompatible with this Regulation.
-
-**3.** Where appropriate, Member States may authorise their respective supervisory bodies to carry out joint investigations in which staff from other Member States’ supervisory bodies is involved. The arrangements and procedures for such joint actions shall be agreed upon and established by the Member States concerned in accordance with their national law.
-
-<a id="art_19"></a>
-
-### Article 19 — Security requirements applicable to trust service providers
-
-**1.** Qualified and non-qualified trust service providers shall take appropriate technical and organisational measures to manage the risks posed to the security of the trust services they provide. Having regard to the latest technological developments, those measures shall ensure that the level of security is commensurate to the degree of risk. In particular, measures shall be taken to prevent and minimise the impact of security incidents and inform stakeholders of the adverse effects of any such incidents.
-
-**2.** Qualified and non-qualified trust service providers shall, without undue delay but in any event within 24 hours after having become aware of it, notify the supervisory body and, where applicable, other relevant bodies, such as the competent national body for information security or the data protection authority, of any breach of security or loss of integrity that has a significant impact on the trust service provided or on the personal data maintained therein.
-
-Where the breach of security or loss of integrity is likely to adversely affect a natural or legal person to whom the trusted service has been provided, the trust service provider shall also notify the natural or legal person of the breach of security or loss of integrity without undue delay.
-
-Where appropriate, in particular if a breach of security or loss of integrity concerns two or more Member States, the notified supervisory body shall inform the supervisory bodies in other Member States concerned and ENISA.
-
-The notified supervisory body shall inform the public or require the trust service provider to do so, where it determines that disclosure of the breach of security or loss of integrity is in the public interest.
-
-**3.** The supervisory body shall provide ENISA once a year with a summary of notifications of breach of security and loss of integrity received from trust service providers.
-
-**4.** The Commission may, by means of implementing acts,:
-
-(a) further specify the measures referred to in paragraph 1; and
-
-(b) define the formats and procedures, including deadlines, applicable for the purpose of paragraph 2.
-
-Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
-
 <a id="art_19a"></a>
 
 ### Article 19a — Requirements for non-qualified trust service providers
 
-**1.** A non-qualified trust service provider providing non-qualified trust services shall:
-
-(a) have appropriate policies and take corresponding measures to manage legal, business, operational and other direct or indirect risks to the provision of the non-qualified trust service, which shall, notwithstanding Article 21 of Directive (EU) 2022/2555, include at least measures relating to: (i) registration and onboarding procedures for a trust service; (ii) procedural or administrative checks needed to provide trust services; (iii) the management and implementation of trust services;
-
-(b) notifying the supervisory body, the identifiable affected individuals, the public if it is of public interest and, where applicable, other relevant competent authorities, of any security breaches or disruptions in the provision of the service or the implementation of the measures referred to in point (a) (i), (ii) or (iii), that have a significant impact on the trust service provided or on the personal data maintained therein, without undue delay and in any case no later than 24 hours of having become aware of any security breaches or disruptions.
+**1.** A non-qualified trust service provider providing non-qualified trust services shall:(a) have appropriate policies and take corresponding measures to manage legal, business, operational and other direct or indirect risks to the provision of the non-qualified trust service, which shall, notwithstanding Article 21 of Directive (EU) 2022/2555, include at least measures relating to:(i) registration and onboarding procedures for a trust service;(ii) procedural or administrative checks needed to provide trust services;(iii) the management and implementation of trust services;(b) notifying the supervisory body, the identifiable affected individuals, the public if it is of public interest and, where applicable, other relevant competent authorities, of any security breaches or disruptions in the provision of the service or the implementation of the measures referred to in point (a) (i), (ii) or (iii), that have a significant impact on the trust service provided or on the personal data maintained therein, without undue delay and in any case no later than 24 hours of having become aware of any security breaches or disruptions.
 
 **2.** By 21 May 2025, the Commission shall, by means of implementing acts, establish a list of reference standards and, where necessary, establish specifications and procedures for paragraph 1, point (a), of this Article. Compliance with the requirements laid down in this Article shall be presumed where those standards, specifications and procedures are met. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
 
@@ -784,13 +564,7 @@ Where that provider does not provide a remedy and, where applicable within the t
 
 **3c.** The supervisory body shall inform the qualified trust service provider of the withdrawal of its qualified status or of the qualified status of the service concerned. The supervisory body shall inform the body notified pursuant to Article 22(3) of this Regulation for the purposes of updating the trusted lists referred to in paragraph 1 of that Article and the competent authority designated or established pursuant to Article 8(1) of Directive (EU) 2022/2555.
 
-**4.** By 21 May 2025, the Commission shall, by means of implementing acts, establish a list of reference standards and, where necessary, establish specifications and procedures for the following:
-
-(a) the accreditation of the conformity assessment bodies and for the conformity assessment report referred to in paragraph 1;
-
-(b) the auditing requirements for the conformity assessment bodies to carry out their conformity assessment, including composite assessment, of the qualified trust service providers as referred to in paragraph 1;
-
-(c) the conformity assessment schemes for carrying out the conformity assessment of the qualified trust service providers by the conformity assessment bodies and for the provision of the report referred to in paragraph 1.
+**4.** By 21 May 2025, the Commission shall, by means of implementing acts, establish a list of reference standards and, where necessary, establish specifications and procedures for the following:(a) the accreditation of the conformity assessment bodies and for the conformity assessment report referred to in paragraph 1;(b) the auditing requirements for the conformity assessment bodies to carry out their conformity assessment, including composite assessment, of the qualified trust service providers as referred to in paragraph 1;(c) the conformity assessment schemes for carrying out the conformity assessment of the qualified trust service providers by the conformity assessment bodies and for the provision of the report referred to in paragraph 1.
 
 Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
 
@@ -842,57 +616,13 @@ Where the verification is not concluded within three months of notification, the
 
 **1.** When issuing a qualified certificate or a qualified electronic attestation of attributes, a qualified trust service provider shall verify the identity and, if applicable, any specific attributes of the natural or legal person to whom the qualified certificate or the qualified electronic attestation of attributes is to be issued.
 
-**1a.** The verification of the identity referred to in paragraph 1 shall be performed, by appropriate means, by the qualified trust service provider, either directly or by means of a third party, on the basis of one of the following methods or, when needed, on a combination thereof in accordance with the implementing acts referred to in paragraph 1c:
+**1a.** The verification of the identity referred to in paragraph 1 shall be performed, by appropriate means, by the qualified trust service provider, either directly or by means of a third party, on the basis of one of the following methods or, when needed, on a combination thereof in accordance with the implementing acts referred to in paragraph 1c:(a) by means of the European Digital Identity Wallet or a notified electronic identification means which meets the requirements set out in Article 8 with regard to assurance level high;(b) by means of a certificate of a qualified electronic signature or of a qualified electronic seal, issued in compliance with point (a), (c) or (d);(c) by using other identification methods which ensure the identification of the person with a high level of confidence, the conformity of which shall be confirmed by a conformity assessment body;(d) through the physical presence of the natural person or of an authorised representative of the legal person, by means of appropriate evidence and procedures, in accordance with national law.
 
-(a) by means of the European Digital Identity Wallet or a notified electronic identification means which meets the requirements set out in Article 8 with regard to assurance level high;
-
-(b) by means of a certificate of a qualified electronic signature or of a qualified electronic seal, issued in compliance with point (a), (c) or (d);
-
-(c) by using other identification methods which ensure the identification of the person with a high level of confidence, the conformity of which shall be confirmed by a conformity assessment body;
-
-(d) through the physical presence of the natural person or of an authorised representative of the legal person, by means of appropriate evidence and procedures, in accordance with national law.
-
-**1b.** The verification of the attributes referred to in paragraph 1 shall be performed, by appropriate means, by the qualified trust service provider, either directly or by means of a third party, on the basis of one of the following methods or, where necessary, on a combination thereof, in accordance with the implementing acts referred to in paragraph 1c:
-
-(a) by means of the European Digital Identity Wallet or a notified electronic identification means which meets the requirements set out in Article 8 with regard to assurance level high;
-
-(b) by means of a certificate of a qualified electronic signature or of a qualified electronic seal, issued in accordance with paragraph 1a, point (a), (c) or (d);
-
-(c) by means of a qualified electronic attestation of attributes;
-
-(d) by using other methods, which ensure the verification of the attributes with a high level of confidence, the conformity of which shall be confirmed by a conformity assessment body;
-
-(e) by means of the physical presence of the natural person or of an authorised representative of the legal person, by means of appropriate evidence and procedures, in accordance with national law.
+**1b.** The verification of the attributes referred to in paragraph 1 shall be performed, by appropriate means, by the qualified trust service provider, either directly or by means of a third party, on the basis of one of the following methods or, where necessary, on a combination thereof, in accordance with the implementing acts referred to in paragraph 1c:(a) by means of the European Digital Identity Wallet or a notified electronic identification means which meets the requirements set out in Article 8 with regard to assurance level high;(b) by means of a certificate of a qualified electronic signature or of a qualified electronic seal, issued in accordance with paragraph 1a, point (a), (c) or (d);(c) by means of a qualified electronic attestation of attributes;(d) by using other methods, which ensure the verification of the attributes with a high level of confidence, the conformity of which shall be confirmed by a conformity assessment body;(e) by means of the physical presence of the natural person or of an authorised representative of the legal person, by means of appropriate evidence and procedures, in accordance with national law.
 
 **1c.** By 21 May 2025, the Commission shall, by means of implementing acts, establish a list of reference standards and, where necessary, establish specifications and procedures for the verification of identity and attributes in accordance with paragraphs 1, 1a and 1b of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
 
-**2.** A qualified trust service provider providing qualified trust services shall:
-
-(a) inform the supervisory body at least one month before implementing any change in the provision of its qualified trust services or at least three months in case of an intention to cease those activities;
-
-(b) employ staff and, if applicable, subcontractors who possess the necessary expertise, reliability, experience, and qualifications and who have received appropriate training regarding security and personal data protection rules and shall apply administrative and management procedures which correspond to European or international standards;
-
-(c) with regard to the risk of liability for damages in accordance with Article 13, maintain sufficient financial resources and/or obtain appropriate liability insurance, in accordance with national law;
-
-(d) before entering into a contractual relationship, inform, in a clear, comprehensive and easily accessible manner, in a publicly accessible space and individually any person seeking to use a qualified trust service of the precise terms and conditions regarding the use of that service, including any limitations on its use;
-
-(e) use trustworthy systems and products that are protected against modification and ensure the technical security and reliability of the processes supported by them, including using suitable cryptographic techniques;
-
-(f) use trustworthy systems to store data provided to it, in a verifiable form so that: (i) they are publicly available for retrieval only where the consent of the person to whom the data relates has been obtained, (ii) only authorised persons can make entries and changes to the stored data, (iii) the data can be checked for authenticity;
-
-(fa) notwithstanding Article 21 of Directive (EU) 2022/2555, have appropriate policies and take corresponding measures to manage legal, business, operational and other direct or indirect risks to the provision of the qualified trust service, including at least measures related to the following: (i) registration and onboarding procedures for a service; (ii) procedural or administrative checks; (iii) the management and implementation of services;
-
-(fb) notify the supervisory body, the identifiable affected individuals, other relevant competent bodies where applicable and, at the request of the supervisory body, the public if it is of public interest, of any security breaches or disruptions in the provision of the service or the implementation of the measures referred to in point (fa)(i), (ii) or (iii) that have a significant impact on the trust service provided or on the personal data maintained therein, without undue delay and in any event within 24 hours of the incident;
-
-(g) take appropriate measures against forgery, theft or misappropriation of data or, without right, deleting, altering or rendering data inaccessible;
-
-(h) record and keep accessible for as long as necessary after the activities of the qualified trust service provider have ceased, all relevant information concerning data issued and received by the qualified trust service provider, for the purpose of providing evidence in legal proceedings and for the purpose of ensuring continuity of the service. Such recording may be done electronically;
-
-(i) have an up-to-date termination plan to ensure the continuity of service in accordance with provisions that are verified by the supervisory body pursuant to Article 46b(4), point (i);
-
-(j) ensure lawful processing of personal data in accordance with Directive 95/46/EC;
-
-(k) in case of qualified trust service providers issuing qualified certificates, establish and keep updated a certificate database.
+**2.** A qualified trust service provider providing qualified trust services shall:▼M2(a) inform the supervisory body at least one month before implementing any change in the provision of its qualified trust services or at least three months in case of an intention to cease those activities;▼B(b) employ staff and, if applicable, subcontractors who possess the necessary expertise, reliability, experience, and qualifications and who have received appropriate training regarding security and personal data protection rules and shall apply administrative and management procedures which correspond to European or international standards;(c) with regard to the risk of liability for damages in accordance with Article 13, maintain sufficient financial resources and/or obtain appropriate liability insurance, in accordance with national law;▼M2(d) before entering into a contractual relationship, inform, in a clear, comprehensive and easily accessible manner, in a publicly accessible space and individually any person seeking to use a qualified trust service of the precise terms and conditions regarding the use of that service, including any limitations on its use;(e) use trustworthy systems and products that are protected against modification and ensure the technical security and reliability of the processes supported by them, including using suitable cryptographic techniques;▼B(f) use trustworthy systems to store data provided to it, in a verifiable form so that:(i) they are publicly available for retrieval only where the consent of the person to whom the data relates has been obtained,(ii) only authorised persons can make entries and changes to the stored data,(iii) the data can be checked for authenticity;▼M2(fa) notwithstanding Article 21 of Directive (EU) 2022/2555, have appropriate policies and take corresponding measures to manage legal, business, operational and other direct or indirect risks to the provision of the qualified trust service, including at least measures related to the following:(i) registration and onboarding procedures for a service;(ii) procedural or administrative checks;(iii) the management and implementation of services;(fb) notify the supervisory body, the identifiable affected individuals, other relevant competent bodies where applicable and, at the request of the supervisory body, the public if it is of public interest, of any security breaches or disruptions in the provision of the service or the implementation of the measures referred to in point (fa)(i), (ii) or (iii) that have a significant impact on the trust service provided or on the personal data maintained therein, without undue delay and in any event within 24 hours of the incident;▼M2(g) take appropriate measures against forgery, theft or misappropriation of data or, without right, deleting, altering or rendering data inaccessible;(h) record and keep accessible for as long as necessary after the activities of the qualified trust service provider have ceased, all relevant information concerning data issued and received by the qualified trust service provider, for the purpose of providing evidence in legal proceedings and for the purpose of ensuring continuity of the service. Such recording may be done electronically;(i) have an up-to-date termination plan to ensure the continuity of service in accordance with provisions that are verified by the supervisory body pursuant to Article 46b(4), point (i);▼M2 —————▼B(k) in case of qualified trust service providers issuing qualified certificates, establish and keep updated a certificate database.
 
 The supervisory body may request information in addition to the information notified pursuant to point (a) of the first subparagraph or the result of a conformity assessment and may condition the granting of the permission to implement the intended changes to the qualified trust services. If the verification is not concluded within three months of notification, the supervisory body shall inform the trust service provider, specifying the reasons for the delay and the period within which the verification is to be concluded.
 
@@ -942,13 +672,15 @@ The supervisory body may request information in addition to the information noti
 
 **2.** A qualified electronic signature shall have the equivalent legal effect of a handwritten signature.
 
-**3.** A qualified electronic signature based on a qualified certificate issued in one Member State shall be recognised as a qualified electronic signature in all other Member States.
-
 <a id="art_26"></a>
 
 ### Article 26 — Requirements for advanced electronic signatures
 
-**1.** An advanced electronic signature shall meet the following requirements:
+►M2
+
+◄
+
+An advanced electronic signature shall meet the following requirements:
 
 (a) it is uniquely linked to the signatory;
 
@@ -970,8 +702,6 @@ The supervisory body may request information in addition to the information noti
 
 **3.** Member States shall not request for cross-border use in an online service offered by a public sector body an electronic signature at a higher security level than the qualified electronic signature.
 
-**4.** The Commission may, by means of implementing acts, establish reference numbers of standards for advanced electronic signatures. Compliance with the requirements for advanced electronic signatures referred to in paragraphs 1 and 2 of this Article and in Article 26 shall be presumed when an advanced electronic signature meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
-
 **5.** By 18 September 2015, and taking into account existing practices, standards and Union legal acts, the Commission shall, by means of implementing acts, define reference formats of advanced electronic signatures or reference methods where alternative formats are used. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
 
 <a id="art_28"></a>
@@ -986,11 +716,7 @@ The supervisory body may request information in addition to the information noti
 
 **4.** If a qualified certificate for electronic signatures has been revoked after initial activation, it shall lose its validity from the moment of its revocation, and its status shall not in any circumstances be reverted.
 
-**5.** Subject to the following conditions, Member States may lay down national rules on temporary suspension of a qualified certificate for electronic signature:
-
-(a) if a qualified certificate for electronic signature has been temporarily suspended that certificate shall lose its validity for the period of suspension;
-
-(b) the period of suspension shall be clearly indicated in the certificate database and the suspension status shall be visible, during the period of suspension, from the service providing information on the status of the certificate.
+**5.** Subject to the following conditions, Member States may lay down national rules on temporary suspension of a qualified certificate for electronic signature:(a) if a qualified certificate for electronic signature has been temporarily suspended that certificate shall lose its validity for the period of suspension;(b) the period of suspension shall be clearly indicated in the certificate database and the suspension status shall be visible, during the period of suspension, from the service providing information on the status of the certificate.
 
 **6.** By 21 May 2025, the Commission shall, by means of implementing acts, establish a list of reference standards and, where necessary, establish specifications and procedures for qualified certificates for electronic signature. Compliance with the requirements laid down in Annex I shall be presumed where a qualified certificate for electronic signature complies with those standards, specifications and procedures. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
 
@@ -1008,13 +734,7 @@ The supervisory body may request information in addition to the information noti
 
 ### Article 29a — Requirements for a qualified service for the management of remote qualified electronic signature creation devices
 
-**1.** The management of remote qualified electronic signature creation devices as a qualified service shall be carried out only by a qualified trust service provider that:
-
-(a) generates or manages electronic signature creation data on behalf of the signatory;
-
-(b) notwithstanding point (1)(d) of Annex II, duplicates the electronic signature creation data for back-up purposes only, provided that the following requirements are met: (i) the security of the duplicated datasets must be at the same level as for the original datasets; (ii) the number of duplicated datasets must not exceed the minimum needed to ensure continuity of the service;
-
-(c) complies with any requirements identified in the certification report of the specific remote qualified electronic signature creation device issued pursuant to Article 30.
+**1.** The management of remote qualified electronic signature creation devices as a qualified service shall be carried out only by a qualified trust service provider that:(a) generates or manages electronic signature creation data on behalf of the signatory;(b) notwithstanding point (1)(d) of Annex II, duplicates the electronic signature creation data for back-up purposes only, provided that the following requirements are met:(i) the security of the duplicated datasets must be at the same level as for the original datasets;(ii) the number of duplicated datasets must not exceed the minimum needed to ensure continuity of the service;(c) complies with any requirements identified in the certification report of the specific remote qualified electronic signature creation device issued pursuant to Article 30.
 
 **2.** By 21 May 2025, the Commission shall, by means of implementing acts, establish a list of reference standards and, where necessary, specifications and procedures for the purposes of paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
 
@@ -1026,11 +746,7 @@ The supervisory body may request information in addition to the information noti
 
 **2.** Member States shall notify to the Commission the names and addresses of the public or private body referred to in paragraph 1. The Commission shall make that information available to Member States.
 
-**3.** The certification referred to in paragraph 1 shall be based on one of the following:
-
-(a) a security evaluation process carried out in accordance with one of the standards for the security assessment of information technology products included in the list established in accordance with the second subparagraph; or
-
-(b) a process other than the process referred to in point (a), provided that it uses comparable security levels and provided that the public or private body referred to in paragraph 1 notifies that process to the Commission. That process may be used only in the absence of standards referred to in point (a) or when a security evaluation process referred to in point (a) is ongoing.
+**3.** The certification referred to in paragraph 1 shall be based on one of the following:(a) a security evaluation process carried out in accordance with one of the standards for the security assessment of information technology products included in the list established in accordance with the second subparagraph; or(b) a process other than the process referred to in point (a), provided that it uses comparable security levels and provided that the public or private body referred to in paragraph 1 notifies that process to the Commission. That process may be used only in the absence of standards referred to in point (a) or when a security evaluation process referred to in point (a) is ongoing.
 
 The Commission shall, by means of implementing acts, establish a list of standards for the security assessment of information technology products referred to in point (a). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
 
@@ -1052,23 +768,7 @@ The Commission shall, by means of implementing acts, establish a list of standar
 
 ### Article 32 — Requirements for the validation of qualified electronic signatures
 
-**1.** The process for the validation of a qualified electronic signature shall confirm the validity of a qualified electronic signature provided that:
-
-(a) the certificate that supports the signature was, at the time of signing, a qualified certificate for electronic signature complying with Annex I;
-
-(b) the qualified certificate was issued by a qualified trust service provider and was valid at the time of signing;
-
-(c) the signature validation data corresponds to the data provided to the relying party;
-
-(d) the unique set of data representing the signatory in the certificate is correctly provided to the relying party;
-
-(e) the use of any pseudonym is clearly indicated to the relying party if a pseudonym was used at the time of signing;
-
-(f) the electronic signature was created by a qualified electronic signature creation device;
-
-(g) the integrity of the signed data has not been compromised;
-
-(h) the requirements provided for in Article 26 were met at the time of signing.
+**1.** The process for the validation of a qualified electronic signature shall confirm the validity of a qualified electronic signature provided that:(a) the certificate that supports the signature was, at the time of signing, a qualified certificate for electronic signature complying with Annex I;(b) the qualified certificate was issued by a qualified trust service provider and was valid at the time of signing;(c) the signature validation data corresponds to the data provided to the relying party;(d) the unique set of data representing the signatory in the certificate is correctly provided to the relying party;(e) the use of any pseudonym is clearly indicated to the relying party if a pseudonym was used at the time of signing;(f) the electronic signature was created by a qualified electronic signature creation device;(g) the integrity of the signed data has not been compromised;(h) the requirements provided for in Article 26 were met at the time of signing.
 
 Compliance with the requirements laid down in the first subparagraph of this paragraph shall be presumed where the validation of qualified electronic signatures complies with the standards, specifications and procedures referred to in paragraph 3.
 
@@ -1080,21 +780,7 @@ Compliance with the requirements laid down in the first subparagraph of this par
 
 ### Article 32a — Requirements for the validation of advanced electronic signatures based on qualified certificates
 
-**1.** The process for the validation of an advanced electronic signature based on a qualified certificate shall confirm the validity of an advanced electronic signature based on a qualified certificate, provided that:
-
-(a) the certificate that supports the signature was, at the time of signing, a qualified certificate for electronic signature complying with Annex I;
-
-(b) the qualified certificate was issued by a qualified trust service provider and was valid at the time of signing;
-
-(c) the signature validation data corresponds to the data provided to the relying party;
-
-(d) the unique set of data representing the signatory in the certificate is correctly provided to the relying party;
-
-(e) the use of any pseudonym is clearly indicated to the relying party if a pseudonym was used at the time of signing;
-
-(f) the integrity of the signed data has not been compromised;
-
-(g) the requirements provided for in Article 26 were met at the time of signing.
+**1.** The process for the validation of an advanced electronic signature based on a qualified certificate shall confirm the validity of an advanced electronic signature based on a qualified certificate, provided that:(a) the certificate that supports the signature was, at the time of signing, a qualified certificate for electronic signature complying with Annex I;(b) the qualified certificate was issued by a qualified trust service provider and was valid at the time of signing;(c) the signature validation data corresponds to the data provided to the relying party;(d) the unique set of data representing the signatory in the certificate is correctly provided to the relying party;(e) the use of any pseudonym is clearly indicated to the relying party if a pseudonym was used at the time of signing;(f) the integrity of the signed data has not been compromised;(g) the requirements provided for in Article 26 were met at the time of signing.
 
 **2.** The system used for validating the advanced electronic signature based on qualified certificate shall provide to the relying party the correct result of the validation process and shall allow the relying party to detect any security relevant issues.
 
@@ -1104,11 +790,7 @@ Compliance with the requirements laid down in the first subparagraph of this par
 
 ### Article 33 — Qualified validation service for qualified electronic signatures
 
-**1.** A qualified validation service for qualified electronic signatures may only be provided by a qualified trust service provider who:
-
-(a) provides validation in compliance with Article 32(1); and
-
-(b) allows relying parties to receive the result of the validation process in an automated manner, which is reliable, efficient and bears the advanced electronic signature or advanced electronic seal of the provider of the qualified validation service.
+**1.** A qualified validation service for qualified electronic signatures may only be provided by a qualified trust service provider who:(a) provides validation in compliance with Article 32(1); and(b) allows relying parties to receive the result of the validation process in an automated manner, which is reliable, efficient and bears the advanced electronic signature or advanced electronic seal of the provider of the qualified validation service.
 
 **2.** By 21 May 2025, the Commission shall, by means of implementing acts, establish a list of reference standards and, where necessary, establish specifications and procedures for qualified validation service referred to in paragraph 1 of this Article. Compliance with the requirements laid down in paragraph 1 of this Article shall be presumed where the qualified validation service for qualified electronic signatures complies with those standards, specifications and procedures. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
 
@@ -1132,13 +814,15 @@ Compliance with the requirements laid down in the first subparagraph of this par
 
 **2.** A qualified electronic seal shall enjoy the presumption of integrity of the data and of correctness of the origin of that data to which the qualified electronic seal is linked.
 
-**3.** A qualified electronic seal based on a qualified certificate issued in one Member State shall be recognised as a qualified electronic seal in all other Member States.
-
 <a id="art_36"></a>
 
 ### Article 36 — Requirements for advanced electronic seals
 
-**1.** An advanced electronic seal shall meet the following requirements:
+►M2
+
+◄
+
+An advanced electronic seal shall meet the following requirements:
 
 (a) it is uniquely linked to the creator of the seal;
 
@@ -1160,8 +844,6 @@ Compliance with the requirements laid down in the first subparagraph of this par
 
 **3.** Member States shall not request for the cross-border use in an online service offered by a public sector body an electronic seal at a higher security level than the qualified electronic seal.
 
-**4.** The Commission may, by means of implementing acts, establish reference numbers of standards for advanced electronic seals. Compliance with the requirements for advanced electronic seals referred to in paragraphs 1 and 2 of this Article and Article 36 shall be presumed when an advanced electronic seal meets those standards. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
-
 **5.** By 18 September 2015, and taking into account existing practices, standards and legal acts of the Union, the Commission shall, by means of implementing acts, define reference formats of advanced electronic seals or reference methods where alternative formats are used. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
 
 <a id="art_38"></a>
@@ -1176,11 +858,7 @@ Compliance with the requirements laid down in the first subparagraph of this par
 
 **4.** If a qualified certificate for an electronic seal has been revoked after initial activation, it shall lose its validity from the moment of its revocation, and its status shall not in any circumstances be reverted.
 
-**5.** Subject to the following conditions, Member States may lay down national rules on temporary suspension of qualified certificates for electronic seals:
-
-(a) if a qualified certificate for electronic seal has been temporarily suspended, that certificate shall lose its validity for the period of suspension;
-
-(b) the period of suspension shall be clearly indicated in the certificate database and the suspension status shall be visible, during the period of suspension, from the service providing information on the status of the certificate.
+**5.** Subject to the following conditions, Member States may lay down national rules on temporary suspension of qualified certificates for electronic seals:(a) if a qualified certificate for electronic seal has been temporarily suspended, that certificate shall lose its validity for the period of suspension;(b) the period of suspension shall be clearly indicated in the certificate database and the suspension status shall be visible, during the period of suspension, from the service providing information on the status of the certificate.
 
 **6.** By 21 May 2025, the Commission shall, by means of implementing acts, establish a list of reference standards and, where necessary, establish specifications and procedures for qualified certificates for electronic seals. Compliance with the requirements laid down in Annex III shall be presumed where a qualified certificate for electronic seal complies with those standards, specifications and procedures. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
 
@@ -1222,19 +900,11 @@ Article 32a shall apply *mutatis mutandis* to the validation of advanced electro
 
 **2.** A qualified electronic time stamp shall enjoy the presumption of the accuracy of the date and the time it indicates and the integrity of the data to which the date and time are bound.
 
-**3.** A qualified electronic time stamp issued in one Member State shall be recognised as a qualified electronic time stamp in all Member States.
-
 <a id="art_42"></a>
 
 ### Article 42 — Requirements for qualified electronic time stamps
 
-**1.** A qualified electronic time stamp shall meet the following requirements:
-
-(a) it binds the date and time to data in such a manner as to reasonably preclude the possibility of the data being changed undetectably;
-
-(b) it is based on an accurate time source linked to Coordinated Universal Time; and
-
-(c) it is signed using an advanced electronic signature or sealed with an advanced electronic seal of the qualified trust service provider, or by some equivalent method.
+**1.** A qualified electronic time stamp shall meet the following requirements:(a) it binds the date and time to data in such a manner as to reasonably preclude the possibility of the data being changed undetectably;(b) it is based on an accurate time source linked to Coordinated Universal Time; and(c) it is signed using an advanced electronic signature or sealed with an advanced electronic seal of the qualified trust service provider, or by some equivalent method.
 
 **1a.** Compliance with the requirements laid down in paragraph 1 shall be presumed where the binding of date and time to data and the accuracy of the time source comply with the standards, specifications and procedures referred to in paragraph 2.
 
@@ -1254,19 +924,7 @@ Article 32a shall apply *mutatis mutandis* to the validation of advanced electro
 
 ### Article 44 — Requirements for qualified electronic registered delivery services
 
-**1.** Qualified electronic registered delivery services shall meet the following requirements:
-
-(a) they are provided by one or more qualified trust service provider(s);
-
-(b) they ensure with a high level of confidence the identification of the sender;
-
-(c) they ensure the identification of the addressee before the delivery of the data;
-
-(d) the sending and receiving of data is secured by an advanced electronic signature or an advanced electronic seal of a qualified trust service provider in such a manner as to preclude the possibility of the data being changed undetectably;
-
-(e) any change of the data needed for the purpose of sending or receiving the data is clearly indicated to the sender and addressee of the data;
-
-(f) the date and time of sending, receiving and any change of data are indicated by a qualified electronic time stamp.
+**1.** Qualified electronic registered delivery services shall meet the following requirements:(a) they are provided by one or more qualified trust service provider(s);(b) they ensure with a high level of confidence the identification of the sender;(c) they ensure the identification of the addressee before the delivery of the data;(d) the sending and receiving of data is secured by an advanced electronic signature or an advanced electronic seal of a qualified trust service provider in such a manner as to preclude the possibility of the data being changed undetectably;(e) any change of the data needed for the purpose of sending or receiving the data is clearly indicated to the sender and addressee of the data;(f) the date and time of sending, receiving and any change of data are indicated by a qualified electronic time stamp.
 
 In the event of the data being transferred between two or more qualified trust service providers, the requirements in points (a) to (f) shall apply to all the qualified trust service providers.
 
@@ -1348,11 +1006,7 @@ Where an electronic identification using an electronic identification means and 
 
 ### Article 45f — Requirements for electronic attestation of attributes issued by or on behalf of a public sector body responsible for an authentic source
 
-**1.** An electronic attestation of attributes issued by or on behalf of a public sector body responsible for an authentic source shall meet the following requirements:
-
-(a) those set out in Annex VII;
-
-(b) the qualified certificate supporting the qualified electronic signature or qualified electronic seal of the public sector body referred to in Article 3, point (46), identified as the issuer referred to in point (b), of Annex VII, containing a specific set of certified attributes in a form suitable for automated processing and: (i) indicating that the issuing body is established in accordance with Union or national law as the responsible for the authentic source on the basis of which the electronic attestation of attributes is issued or as the body designated to act on its behalf; (ii) providing a set of data unambiguously representing the authentic source referred to in point (i); and (iii) identifying the Union or national law referred to in point (i).
+**1.** An electronic attestation of attributes issued by or on behalf of a public sector body responsible for an authentic source shall meet the following requirements:(a) those set out in Annex VII;(b) the qualified certificate supporting the qualified electronic signature or qualified electronic seal of the public sector body referred to in Article 3, point (46), identified as the issuer referred to in point (b), of Annex VII, containing a specific set of certified attributes in a form suitable for automated processing and:(i) indicating that the issuing body is established in accordance with Union or national law as the responsible for the authentic source on the basis of which the electronic attestation of attributes is issued or as the body designated to act on its behalf;(ii) providing a set of data unambiguously representing the authentic source referred to in point (i); and(iii) identifying the Union or national law referred to in point (i).
 
 **2.** The Member State where public sector bodies referred to in Article 3, point (46), are established shall ensure that the public sector bodies that issue electronic attestations of attributes meet a level of reliability and trustworthiness equivalent to qualified trust service providers in accordance with Article 24.
 
@@ -1400,15 +1054,7 @@ Where an electronic identification using an electronic identification means and 
 
 ### Article 45j — Requirements for qualified electronic archiving services
 
-**1.** Qualified electronic archive services shall meet the following requirements:
-
-(a) they are provided by qualified trust service providers;
-
-(b) they use procedures and technologies capable of ensuring the durability and legibility of electronic data and electronic documents beyond the technological validity period and at least throughout the legal or contractual preservation period, while maintaining their integrity and the accuracy of their origin;
-
-(c) they ensure that those electronic data and those electronic documents are preserved in such a way that they are safeguarded against loss and alteration, except for changes concerning their medium or electronic format;
-
-(d) they shall allow authorised relying parties to receive a report in an automated manner that confirms that electronic data and electronic documents retrieved from a qualified electronic archive enjoy the presumption of integrity of the data from the beginning of the preservation period to the moment of retrieval. The report referred to in point (d) of the first subparagraph shall be provided in a reliable and efficient way and shall bear the qualified electronic signature or qualified electronic seal of the provider of the qualified electronic archiving service.
+**1.** Qualified electronic archive services shall meet the following requirements:(a) they are provided by qualified trust service providers;(b) they use procedures and technologies capable of ensuring the durability and legibility of electronic data and electronic documents beyond the technological validity period and at least throughout the legal or contractual preservation period, while maintaining their integrity and the accuracy of their origin;(c) they ensure that those electronic data and those electronic documents are preserved in such a way that they are safeguarded against loss and alteration, except for changes concerning their medium or electronic format;(d) they shall allow authorised relying parties to receive a report in an automated manner that confirms that electronic data and electronic documents retrieved from a qualified electronic archive enjoy the presumption of integrity of the data from the beginning of the preservation period to the moment of retrieval.The report referred to in point (d) of the first subparagraph shall be provided in a reliable and efficient way and shall bear the qualified electronic signature or qualified electronic seal of the provider of the qualified electronic archiving service.
 
 **2.** By 21 May 2025, the Commission shall, by means of implementing acts, establish a list of reference standards and, where necessary, establish specifications and procedures for qualified electronic archiving services. Compliance with the requirements for qualified electronic archive services shall be presumed where a qualified electronic archive service complies with those standards, specifications and procedures. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 48(2).
 
@@ -1426,15 +1072,7 @@ Where an electronic identification using an electronic identification means and 
 
 ### Article 45l — Requirements for qualified electronic ledgers
 
-**1.** Qualified electronic ledgers shall meet the following requirements:
-
-(a) they are created and managed by one or more qualified trust service providers;
-
-(b) they establish the origin of data records in the ledger;
-
-(c) they ensure the unique sequential chronological ordering of data records in the ledger;
-
-(d) they record data in such a way that any subsequent change to the data is immediately detectable, ensuring their integrity over time.
+**1.** Qualified electronic ledgers shall meet the following requirements:(a) they are created and managed by one or more qualified trust service providers;(b) they establish the origin of data records in the ledger;(c) they ensure the unique sequential chronological ordering of data records in the ledger;(d) they record data in such a way that any subsequent change to the data is immediately detectable, ensuring their integrity over time.
 
 **2.** Compliance with the requirements laid down in paragraph 1 shall be presumed where an electronic ledger complies with the standards, specifications and procedures referred to in paragraph 3.
 
@@ -1460,27 +1098,9 @@ The supervisory bodies designated pursuant to the first subparagraph shall be gi
 
 **2.** Member States shall notify to the Commission the names and the addresses of their supervisory bodies designated pursuant to paragraph 1 and any subsequent changes thereto. The Commission shall publish a list of the notified supervisory bodies.
 
-**3.** The role of the supervisory bodies designated pursuant to paragraph 1 shall be:
+**3.** The role of the supervisory bodies designated pursuant to paragraph 1 shall be:(a) to supervise providers of European Digital Identity Wallets established in the designating Member State and to ensure, by means of *ex ante* and *ex post* supervisory activities, that those providers and European Digital Identity Wallets they provide meet the requirements laid down in this Regulation;(b) to take action, if necessary, in relation to providers of European Digital Identity Wallets established in the territory of the designating Member State, by means of *ex post* supervisory activities, when informed that providers or European Digital Identity Wallets that they provide infringe this Regulation.
 
-(a) to supervise providers of European Digital Identity Wallets established in the designating Member State and to ensure, by means of *ex ante* and *ex post* supervisory activities, that those providers and European Digital Identity Wallets they provide meet the requirements laid down in this Regulation;
-
-(b) to take action, if necessary, in relation to providers of European Digital Identity Wallets established in the territory of the designating Member State, by means of *ex post* supervisory activities, when informed that providers or European Digital Identity Wallets that they provide infringe this Regulation.
-
-**4.** The tasks of the supervisory bodies designated pursuant to paragraph 1 shall include, in particular, the following:
-
-(a) to cooperate with other supervisory bodies and to provide them with assistance in accordance with Articles 46c and 46e;
-
-(b) to request information necessary to monitor compliance with this Regulation;
-
-(c) to inform the relevant competent authorities designated or established pursuant to Article 8(1) of Directive (EU) 2022/2555 of the Member States concerned of any significant security breaches or loss of integrity of which they become aware in the performance of their tasks and, in the case of a significant security breach or loss of integrity which concerns other Member States, to inform the single point of contact designated or established pursuant to Article 8(3) of Directive (EU) 2022/2555 of the Member State concerned and the single points of contact designated pursuant to Article 46c(1) of this Regulation in the other Member States concerned, and to inform the public or require providers of European Digital Identity Wallet to do so where the supervisory body determines that disclosure of the security breach or of the loss of integrity would be in the public interest;
-
-(d) to carry out on-site inspections and off-site supervision;
-
-(e) to require that providers of European Digital Identity Wallets remedy any failure to fulfil the requirements laid down in this Regulation;
-
-(f) to suspend or cancel the registration and inclusion of relying parties in the mechanism referred to in Article 5b(7) in the case of illegal or fraudulent use of the European Digital Identity Wallet;
-
-(g) to cooperate with competent supervisory authorities established pursuant to Article 51 of Regulation (EU) 2016/679, in particular, by informing them without undue delay, where personal data protection rules appear to have been infringed and about security breaches which appear to constitute personal data breaches.
+**4.** The tasks of the supervisory bodies designated pursuant to paragraph 1 shall include, in particular, the following:(a) to cooperate with other supervisory bodies and to provide them with assistance in accordance with Articles 46c and 46e;(b) to request information necessary to monitor compliance with this Regulation;(c) to inform the relevant competent authorities designated or established pursuant to Article 8(1) of Directive (EU) 2022/2555 of the Member States concerned of any significant security breaches or loss of integrity of which they become aware in the performance of their tasks and, in the case of a significant security breach or loss of integrity which concerns other Member States, to inform the single point of contact designated or established pursuant to Article 8(3) of Directive (EU) 2022/2555 of the Member State concerned and the single points of contact designated pursuant to Article 46c(1) of this Regulation in the other Member States concerned, and to inform the public or require providers of European Digital Identity Wallet to do so where the supervisory body determines that disclosure of the security breach or of the loss of integrity would be in the public interest;(d) to carry out on-site inspections and off-site supervision;(e) to require that providers of European Digital Identity Wallets remedy any failure to fulfil the requirements laid down in this Regulation;(f) to suspend or cancel the registration and inclusion of relying parties in the mechanism referred to in Article 5b(7) in the case of illegal or fraudulent use of the European Digital Identity Wallet;(g) to cooperate with competent supervisory authorities established pursuant to Article 51 of Regulation (EU) 2016/679, in particular, by informing them without undue delay, where personal data protection rules appear to have been infringed and about security breaches which appear to constitute personal data breaches.
 
 **5.** Where the supervisory body designated pursuant to paragraph 1 requires the provider of a European Digital Identity Wallet to remedy any failure to fulfil requirements under this Regulation pursuant to paragraph 4, point (e), and that provider does not act accordingly and, if applicable, within a time limit set by that supervisory body, the supervisory body designated pursuant to paragraph 1 may, taking into account, in particular, the extent, duration and consequences of that failure, order the provider to suspend or to cease the provision of the European Digital Identity Wallet. The supervisory body shall inform the supervisory bodies of other Member States, the Commission, relying parties and users of the European Digital Identity Wallet without undue delay of the decision to require the suspension or cessation of the provision of the European Digital Identity Wallet.
 
@@ -1498,35 +1118,9 @@ The supervisory bodies designated pursuant to the first subparagraph shall be gi
 
 **2.** Member States shall notify to the Commission the names and addresses of their supervisory bodies designated pursuant to paragraph 1 and any subsequent changes thereto. The Commission shall publish a list of the notified supervisory bodies.
 
-**3.** The role of the supervisory bodies designated pursuant to paragraph 1 shall be:
+**3.** The role of the supervisory bodies designated pursuant to paragraph 1 shall be:(a) to supervise qualified trust service providers established in the territory of the designating Member State and to ensure, by means of *ex ante* and *ex post* supervisory activities, that those qualified trust service providers and the qualified trust services that they provide meet the requirements laid down in this Regulation;(b) to take action, if necessary, in relation to non-qualified trust service providers established in the territory of the designating Member State, by means of *ex post* supervisory activities, when informed that those non-qualified trust service providers or the trust services they provide allegedly do not meet the requirements laid down in this Regulation.
 
-(a) to supervise qualified trust service providers established in the territory of the designating Member State and to ensure, by means of *ex ante* and *ex post* supervisory activities, that those qualified trust service providers and the qualified trust services that they provide meet the requirements laid down in this Regulation;
-
-(b) to take action, if necessary, in relation to non-qualified trust service providers established in the territory of the designating Member State, by means of *ex post* supervisory activities, when informed that those non-qualified trust service providers or the trust services they provide allegedly do not meet the requirements laid down in this Regulation.
-
-**4.** The tasks of the supervisory body designated pursuant to paragraph 1 shall include in particular the following:
-
-(a) to inform the relevant competent authorities designated or established pursuant to Article 8(1) of Directive (EU) 2022/2555 of the Member States concerned of any significant security breach or loss of integrity of which it becomes aware in the performance of its tasks and, in the case of a significant security breach or loss of integrity which concerns other Member States, to inform the single point of contact designated or established pursuant to Article 8(3) Directive (EU) 2022/2555 of the Member State concerned and the single points of contact designated pursuant to Article 46c(1) of this Regulation in the other Member States concerned, and to inform the public or require the trust service provider to do so where the supervisory body determines that disclosure of the breach of security or loss of integrity would be in the public interest;
-
-(b) to cooperate with other supervisory bodies and to provide them with assistance in accordance with Articles 46c and 46e;
-
-(c) to analyse the conformity assessment reports referred to in Article 20(1) and Article 21(1);
-
-(d) to report to the Commission about its main activities in accordance with paragraph 6 of this Article;
-
-(e) to carry out audits or request a conformity assessment body to perform a conformity assessment of the qualified trust service providers in accordance with Article 20(2);
-
-(f) to cooperate with competent supervisory authorities established pursuant to Article 51 of Regulation (EU) 2016/679, in particular, by informing them, without undue delay, where personal data protection rules appear to have been breached and about security breaches which appear to constitute personal data breaches;
-
-(g) to grant qualified status to trust service providers and to the services they provide, and to withdraw that status in accordance with Articles 20 and 21;
-
-(h) to inform the body responsible for the national trusted list referred to in Article 22(3) of its decisions to grant or withdraw qualified status, unless that body is also the supervisory body designated pursuant to paragraph 1 of this Article;
-
-(i) to verify the existence and correct application of provisions on termination plans where the qualified trust service provider ceases its activities, including how information is kept accessible in accordance with Article 24(2), point (h);
-
-(j) to require that trust service providers remedy any failure to fulfil the requirements laid down in this Regulation;
-
-(k) to investigate claims made by providers of web-browsers pursuant to Article 45a and to take action if necessary.
+**4.** The tasks of the supervisory body designated pursuant to paragraph 1 shall include in particular the following:(a) to inform the relevant competent authorities designated or established pursuant to Article 8(1) of Directive (EU) 2022/2555 of the Member States concerned of any significant security breach or loss of integrity of which it becomes aware in the performance of its tasks and, in the case of a significant security breach or loss of integrity which concerns other Member States, to inform the single point of contact designated or established pursuant to Article 8(3) Directive (EU) 2022/2555 of the Member State concerned and the single points of contact designated pursuant to Article 46c(1) of this Regulation in the other Member States concerned, and to inform the public or require the trust service provider to do so where the supervisory body determines that disclosure of the breach of security or loss of integrity would be in the public interest;(b) to cooperate with other supervisory bodies and to provide them with assistance in accordance with Articles 46c and 46e;(c) to analyse the conformity assessment reports referred to in Article 20(1) and Article 21(1);(d) to report to the Commission about its main activities in accordance with paragraph 6 of this Article;(e) to carry out audits or request a conformity assessment body to perform a conformity assessment of the qualified trust service providers in accordance with Article 20(2);(f) to cooperate with competent supervisory authorities established pursuant to Article 51 of Regulation (EU) 2016/679, in particular, by informing them, without undue delay, where personal data protection rules appear to have been breached and about security breaches which appear to constitute personal data breaches;(g) to grant qualified status to trust service providers and to the services they provide, and to withdraw that status in accordance with Articles 20 and 21;(h) to inform the body responsible for the national trusted list referred to in Article 22(3) of its decisions to grant or withdraw qualified status, unless that body is also the supervisory body designated pursuant to paragraph 1 of this Article;(i) to verify the existence and correct application of provisions on termination plans where the qualified trust service provider ceases its activities, including how information is kept accessible in accordance with Article 24(2), point (h);(j) to require that trust service providers remedy any failure to fulfil the requirements laid down in this Regulation;(k) to investigate claims made by providers of web-browsers pursuant to Article 45a and to take action if necessary.
 
 **5.** Member States may require the supervisory body designated pursuant to paragraph 1 to establish, maintain and update a trust infrastructure in accordance with national law.
 
@@ -1552,23 +1146,11 @@ The supervisory bodies designated pursuant to the first subparagraph shall be gi
 
 **1.** In order to facilitate the supervision and enforcement of obligations under this Regulation, the supervisory bodies designated pursuant to Article 46a(1) and Article 46b(1) may seek, including through the Cooperation Group established pursuant to Article 46e(1), mutual assistance from the supervisory bodies of another Member State where the provider of the European Digital Identity Wallet or the trust service provider is established, or where its network and information systems are located or its services are provided.
 
-**2.** The mutual assistance shall at least entail that:
-
-(a) the supervisory body applying supervisory and enforcement measures in one Member State shall inform and consult the supervisory body from the other Member State concerned;
-
-(b) a supervisory body may request the supervisory body of another Member State concerned to take supervisory or enforcement measures, including, for instance, requests to carry out inspections related to the conformity assessment reports as referred to in Articles 20 and 21 regarding the provision of trust services;
-
-(c) where appropriate, supervisory bodies may carry out joint investigations with the supervisory bodies of other Member States.
+**2.** The mutual assistance shall at least entail that:(a) the supervisory body applying supervisory and enforcement measures in one Member State shall inform and consult the supervisory body from the other Member State concerned;(b) a supervisory body may request the supervisory body of another Member State concerned to take supervisory or enforcement measures, including, for instance, requests to carry out inspections related to the conformity assessment reports as referred to in Articles 20 and 21 regarding the provision of trust services;(c) where appropriate, supervisory bodies may carry out joint investigations with the supervisory bodies of other Member States.
 
 The arrangements and procedures for joint actions under the first subparagraph shall be agreed upon and established by the Member States concerned in accordance with their national law.
 
-**3.** A supervisory body to which a request for assistance is addressed may refuse that request on any of the following grounds:
-
-(a) the assistance requested is not proportionate to the supervisory activities of the supervisory body carried out in accordance with Articles 46a and 46b;
-
-(b) the supervisory body is not competent to provide the requested assistance;
-
-(c) providing the requested assistance would be incompatible with this Regulation.
+**3.** A supervisory body to which a request for assistance is addressed may refuse that request on any of the following grounds:(a) the assistance requested is not proportionate to the supervisory activities of the supervisory body carried out in accordance with Articles 46a and 46b;(b) the supervisory body is not competent to provide the requested assistance;(c) providing the requested assistance would be incompatible with this Regulation.
 
 **4.** By 21 May 2025 and every two years thereafter, the Cooperation Group established pursuant to Article 46e(1) shall issue guidance on the organisational aspects and procedures for the mutual assistance referred to in paragraphs 1 and 2 of this Article.
 
@@ -1584,15 +1166,7 @@ The arrangements and procedures for joint actions under the first subparagraph s
 
 **4.** ENISA shall be invited to participate as observer in the workings of the Cooperation Group when it exchanges views, best practices and information on relevant cybersecurity aspects such as notification of security breaches, and when the use of cybersecurity certificates or standards are addressed.
 
-**5.** The Cooperation Group shall have the following tasks:
-
-(a) exchange advice and cooperate with the Commission on emerging policy initiatives in the field of digital identity wallets, electronic identification means and trust services;
-
-(b) advise the Commission, as appropriate, in the early preparation of draft implementing and delegated acts to be adopted pursuant to this Regulation;
-
-(c) in order to support the supervisory bodies in the implementation of the provisions of this Regulation: (i) exchange best practices and information regarding the implementation of the provisions of this Regulation; (ii) assess the relevant developments in the digital identity wallet, electronic identification and trust services sectors; (iii) organise joint meetings with relevant interested parties from across the Union to discuss activities carried out by the cooperation group and gather input on emerging policy challenges; (iv) with the support of ENISA, exchange views, best practices and information on relevant cybersecurity aspects concerning European Digital Identity Wallets, electronic identification schemes and trust services; (v) exchange best practices in relation to the development and implementation of policies on the notification of security breaches, and common measures as referred to in Articles 5e and 10; (vi) organise joint meetings with the NIS Cooperation Group established pursuant to Article 14(1) of Directive (EU) 2022/2555 to exchange relevant information in relation to trust services and electronic identification related cyber threats, incidents, vulnerabilities, awareness raising initiatives, trainings, exercises and skills, capacity building, standards and technical specifications capacity as well as standards and technical specifications; (vii) discuss, upon a request of a supervisory body, specific requests for mutual assistance as referred to in Article 46d; (viii) facilitate the exchange of information between the supervisory bodies by providing guidance on the organisational aspects and procedures for the mutual assistance referred to in Article 46d;
-
-(d) organise peer reviews of electronic identification schemes to be notified under this Regulation.
+**5.** The Cooperation Group shall have the following tasks:(a) exchange advice and cooperate with the Commission on emerging policy initiatives in the field of digital identity wallets, electronic identification means and trust services;(b) advise the Commission, as appropriate, in the early preparation of draft implementing and delegated acts to be adopted pursuant to this Regulation;(c) in order to support the supervisory bodies in the implementation of the provisions of this Regulation:(i) exchange best practices and information regarding the implementation of the provisions of this Regulation;(ii) assess the relevant developments in the digital identity wallet, electronic identification and trust services sectors;(iii) organise joint meetings with relevant interested parties from across the Union to discuss activities carried out by the cooperation group and gather input on emerging policy challenges;(iv) with the support of ENISA, exchange views, best practices and information on relevant cybersecurity aspects concerning European Digital Identity Wallets, electronic identification schemes and trust services;(v) exchange best practices in relation to the development and implementation of policies on the notification of security breaches, and common measures as referred to in Articles 5e and 10;(vi) organise joint meetings with the NIS Cooperation Group established pursuant to Article 14(1) of Directive (EU) 2022/2555 to exchange relevant information in relation to trust services and electronic identification related cyber threats, incidents, vulnerabilities, awareness raising initiatives, trainings, exercises and skills, capacity building, standards and technical specifications capacity as well as standards and technical specifications;(vii) discuss, upon a request of a supervisory body, specific requests for mutual assistance as referred to in Article 46d;(viii) facilitate the exchange of information between the supervisory bodies by providing guidance on the organisational aspects and procedures for the mutual assistance referred to in Article 46d;(d) organise peer reviews of electronic identification schemes to be notified under this Regulation.
 
 **6.** Member States shall ensure effective and efficient cooperation of their designated representatives in the Cooperation Group.
 
@@ -1630,17 +1204,7 @@ The arrangements and procedures for joint actions under the first subparagraph s
 
 **1.** Member States shall ensure the collection of statistics in relation to the functioning of European Digital Identity Wallets and the qualified trust services provided on their territory.
 
-**2.** The statistics collected in accordance with paragraph 1 shall include the following:
-
-(a) the number of natural and legal persons having a valid European Digital Identity Wallet;
-
-(b) the type and number of services accepting the use of the European Digital Identity Wallet;
-
-(c) the number of user complaints and consumer protection or data protection incidents relating to relying parties and qualified trust services;
-
-(d) a summary report including data on incidents preventing the use of the European Digital Identity Wallet;
-
-(e) a summary of significant security incidents, data breaches and affected users of European Digital Identity Wallets or of qualified trust services.
+**2.** The statistics collected in accordance with paragraph 1 shall include the following:(a) the number of natural and legal persons having a valid European Digital Identity Wallet;(b) the type and number of services accepting the use of the European Digital Identity Wallet;(c) the number of user complaints and consumer protection or data protection incidents relating to relying parties and qualified trust services;(d) a summary report including data on incidents preventing the use of the European Digital Identity Wallet;(e) a summary of significant security incidents, data breaches and affected users of European Digital Identity Wallets or of qualified trust services.
 
 **3.** The statistics referred to in paragraph 2 shall be made available to the public in an open and commonly used, machine-readable format.
 
@@ -1682,190 +1246,8 @@ The arrangements and procedures for joint actions under the first subparagraph s
 
 **1.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-**2.** This Regulation shall apply from 1 July 2016, except for the following:
-
-(a) Articles 8(3), 9(5), 12(2) to (9), 17(8), 19(4), 20(4), 21(4), 22(5), 23(3), 24(5), 27(4) and (5), 28(6), 29(2), 30(3) and (4), 31(3), 32(3), 33(2), 34(2), 37(4) and (5), 38(6), 42(2), 44(2), 45(2), and Articles 47 and 48 shall apply from 17 September 2014;
-
-(b) Article 7, Article 8(1) and (2), Articles 9, 10, 11 and Article 12(1) shall apply from the date of application of the implementing acts referred to in Articles 8(3) and 12(8);
-
-(c) Article 6 shall apply from three years as from the date of application of the implementing acts referred to in Articles 8(3) and 12(8).
+**2.** This Regulation shall apply from 1 July 2016, except for the following:(a) Articles 8(3), 9(5), 12(2) to (9), 17(8), 19(4), 20(4), 21(4), 22(5), 23(3), 24(5), 27(4) and (5), 28(6), 29(2), 30(3) and (4), 31(3), 32(3), 33(2), 34(2), 37(4) and (5), 38(6), 42(2), 44(2), 45(2), and Articles 47 and 48 shall apply from 17 September 2014;(b) Article 7, Article 8(1) and (2), Articles 9, 10, 11 and Article 12(1) shall apply from the date of application of the implementing acts referred to in Articles 8(3) and 12(8);(c) Article 6 shall apply from three years as from the date of application of the implementing acts referred to in Articles 8(3) and 12(8).
 
 **3.** Where the notified electronic identification scheme is included in the list published by the Commission pursuant to Article 9 before the date referred to in point (c) of paragraph 2 of this Article, the recognition of the electronic identification means under that scheme pursuant to Article 6 shall take place no later than 12 months after the publication of that scheme but not before the date referred to in point (c) of paragraph 2 of this Article.
 
 **4.** Notwithstanding point (c) of paragraph 2 of this Article, a Member State may decide that electronic identification means under electronic identification scheme notified pursuant to Article 9(1) by another Member State are recognised in the first Member State as from the date of application of the implementing acts referred to in Articles 8(3) and 12(8). Member States concerned shall inform the Commission. The Commission shall make this information public.
-
-<a id="anx_i"></a>
-
-### ANNEX I
-
-Qualified certificates for electronic signatures shall contain:
-
-**REQUIREMENTS FOR QUALIFIED CERTIFICATES FOR ELECTRONIC SIGNATURES**
-
-(a) an indication, at least in a form suitable for automated processing, that the certificate has been issued as a qualified certificate for electronic signature;
-
-(b) a set of data unambiguously representing the qualified trust service provider issuing the qualified certificates including at least, the Member State in which that provider is established and: - for a legal person: the name and, where applicable, registration number as stated in the official records, for a legal person: the name and, where applicable, registration number as stated in the official records, - for a natural person: the person’s name; for a natural person: the person’s name;
-
-(c) at least the name of the signatory, or a pseudonym; if a pseudonym is used, it shall be clearly indicated;
-
-(d) electronic signature validation data that corresponds to the electronic signature creation data;
-
-(e) details of the beginning and end of the certificate’s period of validity;
-
-(f) the certificate identity code, which must be unique for the qualified trust service provider;
-
-(g) the advanced electronic signature or advanced electronic seal of the issuing qualified trust service provider;
-
-(h) the location where the certificate supporting the advanced electronic signature or advanced electronic seal referred to in point (g) is available free of charge;
-
-(i) the information or the location of the services that can be used to enquire about the validity status of the qualified certificate;
-
-(j) where the electronic signature creation data related to the electronic signature validation data is located in a qualified electronic signature creation device, an appropriate indication of this, at least in a form suitable for automated processing.
-
-<a id="anx_ii"></a>
-
-### ANNEX II
-
-**REQUIREMENTS FOR QUALIFIED ELECTRONIC SIGNATURE CREATION DEVICES**
-
-1. Qualified electronic signature creation devices shall ensure, by appropriate technical and procedural means, that at least: (a) the confidentiality of the electronic signature creation data used for electronic signature creation is reasonably assured; (b) the electronic signature creation data used for electronic signature creation can practically occur only once; (c) the electronic signature creation data used for electronic signature creation cannot, with reasonable assurance, be derived and the electronic signature is reliably protected against forgery using currently available technology; (d) the electronic signature creation data used for electronic signature creation can be reliably protected by the legitimate signatory against use by others.
-
-2. Qualified electronic signature creation devices shall not alter the data to be signed or prevent such data from being presented to the signatory prior to signing.
-
-3. Generating or managing electronic signature creation data on behalf of the signatory may only be done by a qualified trust service provider.
-
-4. Without prejudice to point (d) of point 1, qualified trust service providers managing electronic signature creation data on behalf of the signatory may duplicate the electronic signature creation data only for back-up purposes provided the following requirements are met: (a) the security of the duplicated datasets must be at the same level as for the original datasets; (b) the number of duplicated datasets shall not exceed the minimum needed to ensure continuity of the service.
-
-<a id="anx_iii"></a>
-
-### ANNEX III
-
-Qualified certificates for electronic seals shall contain:
-
-**REQUIREMENTS FOR QUALIFIED CERTIFICATES FOR ELECTRONIC SEALS**
-
-(a) an indication, at least in a form suitable for automated processing, that the certificate has been issued as a qualified certificate for electronic seal;
-
-(b) a set of data unambiguously representing the qualified trust service provider issuing the qualified certificates including at least the Member State in which that provider is established and: - for a legal person: the name and, where applicable, registration number as stated in the official records, for a legal person: the name and, where applicable, registration number as stated in the official records, - for a natural person: the person’s name; for a natural person: the person’s name;
-
-(c) at least the name of the creator of the seal and, where applicable, registration number as stated in the official records;
-
-(d) electronic seal validation data, which corresponds to the electronic seal creation data;
-
-(e) details of the beginning and end of the certificate’s period of validity;
-
-(f) the certificate identity code, which must be unique for the qualified trust service provider;
-
-(g) the advanced electronic signature or advanced electronic seal of the issuing qualified trust service provider;
-
-(h) the location where the certificate supporting the advanced electronic signature or advanced electronic seal referred to in point (g) is available free of charge;
-
-(i) the information or the location of the services that can be used to enquire about the validity status of the qualified certificate;
-
-(j) where the electronic seal creation data related to the electronic seal validation data is located in a qualified electronic seal creation device, an appropriate indication of this, at least in a form suitable for automated processing.
-
-<a id="anx_iv"></a>
-
-### ANNEX IV
-
-Qualified certificates for website authentication shall contain:
-
-**REQUIREMENTS FOR QUALIFIED CERTIFICATES FOR WEBSITE AUTHENTICATION**
-
-(a) an indication, at least in a form suitable for automated processing, that the certificate has been issued as a qualified certificate for website authentication;
-
-(b) a set of data unambiguously representing the qualified trust service provider issuing the qualified certificates including at least the Member State in which that provider is established and: - for a legal person: the name and, where applicable, registration number as stated in the official records, for a legal person: the name and, where applicable, registration number as stated in the official records, - for a natural person: the person’s name; for a natural person: the person’s name;
-
-(c) for natural persons: at least the name of the person to whom the certificate has been issued, or a pseudonym; if a pseudonym is used, it shall be clearly indicated;
-
-(ca) for legal persons: a unique set of data unambiguously representing the legal person to whom the certificate is issued, with at least the name of the legal person to whom the certificate is issued and, where applicable, the registration number as stated in the official records;
-
-(d) elements of the address, including at least city and State, of the natural or legal person to whom the certificate is issued and, where applicable, as stated in the official records;
-
-(e) the domain name(s) operated by the natural or legal person to whom the certificate is issued;
-
-(f) details of the beginning and end of the certificate’s period of validity;
-
-(g) the certificate identity code, which must be unique for the qualified trust service provider;
-
-(h) the advanced electronic signature or advanced electronic seal of the issuing qualified trust service provider;
-
-(i) the location where the certificate supporting the advanced electronic signature or advanced electronic seal referred to in point (h) is available free of charge;
-
-(j) the information or the location of the certificate validity status services that can be used to enquire about the validity status of the qualified certificate.
-
-<a id="anx_v"></a>
-
-### ANNEX V
-
-Qualified electronic attestation of attributes shall contain:
-
-(a) an indication, at least in a form suitable for automated processing, that the attestation has been issued as a qualified electronic attestation of attributes;
-
-(b) a set of data unambiguously representing the qualified trust service provider issuing the qualified electronic attestation of attributes including at least, the Member State in which that provider is established and: (i) for a legal person: the name and, where applicable, registration number as stated in the official records; (ii) for a natural person: the person’s name;
-
-(c) a set of data unambiguously representing the entity to which the attested attributes refer; if a pseudonym is used, it shall be clearly indicated;
-
-(d) the attested attribute or attributes, including, where applicable, the information necessary to identify the scope of those attributes;
-
-(e) details of the beginning and end of the attestation’s period of validity;
-
-(f) the attestation identity code, which must be unique for the qualified trust service provider and, if applicable, the indication of the scheme of attestations that the attestation of attributes is part of;
-
-(g) the qualified electronic signature or qualified electronic seal of the issuing qualified trust service provider;
-
-(h) the location where the certificate supporting the qualified electronic signature or qualified electronic seal referred to in point (g) is available free of charge;
-
-(i) the information or location of the services that can be used to enquire about the validity status of the qualified attestation..
-
-<a id="anx_vi"></a>
-
-### ANNEX VI
-
-Pursuant to Article 45e, Member States shall ensure that measures are taken to allow qualified trust service providers of electronic attestations of attributes to verify by electronic means at the request of the user, the authenticity of the following attributes against the relevant authentic source at national level or via designated intermediaries recognised at national level, in accordance with Union or national law and where these attributes rely on authentic sources within the public sector:
-
-1. Address;
-
-2. Age;
-
-3. Gender;
-
-4. Civil status;
-
-5. Family composition;
-
-6. Nationality or citizenship;
-
-7. Educational qualifications, titles and licences;
-
-8. Professional qualifications, titles and licences;
-
-9. Powers and mandates to represent natural or legal persons;
-
-10. Public permits and licences;
-
-11. For legal persons, financial and company data.
-
-<a id="anx_vii"></a>
-
-### ANNEX VII
-
-An electronic attestation of attributes issued by or on behalf of a public body responsible for an authentic source shall contain:
-
-(a) an indication, at least in a form suitable for automated processing, that the attestation has been issued as an electronic attestation of attributes issued by or on behalf of a public body responsible for an authentic source;
-
-(b) a set of data unambiguously representing the public body issuing the electronic attestation of attributes, including at least, the Member State in which that public body is established and its name and, where applicable, its registration number as stated in the official records;
-
-(c) a set of data unambiguously representing the entity to which the attested attributes refer; if a pseudonym is used, it shall be clearly indicated;
-
-(d) the attested attribute or attributes, including, where applicable, the information necessary to identify the scope of those attributes;
-
-(e) details of the beginning and end of the attestation’s period of validity;
-
-(f) the attestation identity code, which must be unique for the issuing public body and, if applicable, an indication of the scheme of attestations that the attestation of attributes is part of;
-
-(g) the qualified electronic signature or qualified electronic seal of the issuing body;
-
-(h) the location where the certificate supporting the qualified electronic signature or qualified electronic seal referred to in point (g) is available free of charge;
-
-(i) the information or location of the services that can be used to enquire about the validity status of the attestation.

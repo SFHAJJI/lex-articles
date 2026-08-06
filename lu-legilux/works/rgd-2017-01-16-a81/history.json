@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -54,5 +55,60 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2017-11-20",
+          "valid_to": null,
+          "text_sha256": "650887898625dd108499312c27835d948ae9911050226a74c4880b83e3ad4784",
+          "in_version": "lu-legilux:rgd-2017-01-16-a81:2017-11-20",
+          "article_valid_from": "2017-11-20"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2017-11-20",
+          "valid_to": null,
+          "text_sha256": "fa2a33bbb767182eda36c92a9936131cd7f52458f64166a87d6c6f3038ac3a22",
+          "in_version": "lu-legilux:rgd-2017-01-16-a81:2017-11-20",
+          "article_valid_from": "2017-11-20"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2017-11-20",
+          "valid_to": null,
+          "text_sha256": "2258965d3f5a9adbdbc48d124aa150794df45fd5c3a7c5f92dac97fd9e9ee81f",
+          "in_version": "lu-legilux:rgd-2017-01-16-a81:2017-11-20",
+          "article_valid_from": "2017-01-27",
+          "validity_conflict": true
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2017-11-20",
+          "valid_to": null,
+          "text_sha256": "6e12e61a6e8b7abeaa2b0929818b39adf95e5565df3984461f79e363a70be6ad",
+          "in_version": "lu-legilux:rgd-2017-01-16-a81:2017-11-20",
+          "article_valid_from": "2017-01-27",
+          "validity_conflict": true
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2017-11-20",
+          "valid_to": null,
+          "text_sha256": "67ac55cdcbe208407f93f6fec87daf79b70979a430c4748994645a7158a1fb65",
+          "in_version": "lu-legilux:rgd-2017-01-16-a81:2017-11-20",
+          "article_valid_from": "2017-01-27",
+          "validity_conflict": true
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

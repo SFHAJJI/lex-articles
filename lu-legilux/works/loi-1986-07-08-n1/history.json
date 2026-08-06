@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_10": [
       {
@@ -118,5 +119,124 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_10": [
+        {
+          "valid_from": "2010-08-15",
+          "valid_to": null,
+          "text_sha256": "a06bdb79e4e36ddee0509011e9f4c919371b8e7f84c311ddb5fc3592449a50e1",
+          "in_version": "lu-legilux:loi-1986-07-08-n1:2010-08-15"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2010-08-15",
+          "valid_to": null,
+          "text_sha256": "24b57a1bd27b1c30a8765c18badcdc9cf5ad0b4397f82593359f273bd65e40aa",
+          "in_version": "lu-legilux:loi-1986-07-08-n1:2010-08-15"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2010-08-15",
+          "valid_to": null,
+          "text_sha256": "317afe415f5f0cafe6aa44014bb5f07740bdc3ed3e3616ed10d3536868173101",
+          "in_version": "lu-legilux:loi-1986-07-08-n1:2010-08-15"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2010-08-15",
+          "valid_to": null,
+          "text_sha256": "713eae6cde10f462caa3774e3142cd471525ed1ddc22995e8a6e3a1abd701454",
+          "in_version": "lu-legilux:loi-1986-07-08-n1:2010-08-15"
+        }
+      ],
+      "art_1bis": [
+        {
+          "valid_from": "2010-08-15",
+          "valid_to": null,
+          "text_sha256": "4fd30a481338fa54e4853d7ad01c8084431ca9e23d424b8004f3c469586d0511",
+          "in_version": "lu-legilux:loi-1986-07-08-n1:2010-08-15"
+        }
+      ],
+      "art_1er": [
+        {
+          "valid_from": "2010-08-15",
+          "valid_to": null,
+          "text_sha256": "e347c965f04223eb781e9739d637bb39f284ed458600518c29fbefca5f90739a",
+          "in_version": "lu-legilux:loi-1986-07-08-n1:2010-08-15"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2010-08-15",
+          "valid_to": null,
+          "text_sha256": "2a9b995763ede2274d3d5a7efafb4e1d25dd43a901f79fa5dccba1ad439c5ea5",
+          "in_version": "lu-legilux:loi-1986-07-08-n1:2010-08-15"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2010-08-15",
+          "valid_to": null,
+          "text_sha256": "2a9b995763ede2274d3d5a7efafb4e1d25dd43a901f79fa5dccba1ad439c5ea5",
+          "in_version": "lu-legilux:loi-1986-07-08-n1:2010-08-15"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2010-08-15",
+          "valid_to": null,
+          "text_sha256": "2a9b995763ede2274d3d5a7efafb4e1d25dd43a901f79fa5dccba1ad439c5ea5",
+          "in_version": "lu-legilux:loi-1986-07-08-n1:2010-08-15"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2010-08-15",
+          "valid_to": null,
+          "text_sha256": "c14d6b0a31f425ab60da4570b2dc210e88d39b82c4b18e6f3501cfb66f1e8add",
+          "in_version": "lu-legilux:loi-1986-07-08-n1:2010-08-15"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2010-08-15",
+          "valid_to": null,
+          "text_sha256": "5bbe97bd7da4aafc85034c62c66de453c727d87dcebada30ab6a89e8a121478e",
+          "in_version": "lu-legilux:loi-1986-07-08-n1:2010-08-15"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2010-08-15",
+          "valid_to": null,
+          "text_sha256": "3a1db772a44fe18ee80033872fdbd183d6a1e3c223717bae4f2fd9bfec79afe1",
+          "in_version": "lu-legilux:loi-1986-07-08-n1:2010-08-15"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2010-08-15",
+          "valid_to": null,
+          "text_sha256": "2a9b995763ede2274d3d5a7efafb4e1d25dd43a901f79fa5dccba1ad439c5ea5",
+          "in_version": "lu-legilux:loi-1986-07-08-n1:2010-08-15"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2010-08-15",
+          "valid_to": null,
+          "text_sha256": "0df929b465b885c1d4c6f938254163f6f3c28fe0d47147f61aed333837b9a35f",
+          "in_version": "lu-legilux:loi-1986-07-08-n1:2010-08-15"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

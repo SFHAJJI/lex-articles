@@ -1,0 +1,558 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r3084:2026-07-17",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2024/3084 of 4\u00A0December 2024 on the functioning of the information system pursuant to Regulation (EU)\u00A02023/1115",
+  "valid_from": "2026-07-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r3084/versions/2026-07-17/fr.html",
+    "sha256": "4f455da5a55bd99a7d36ef6476e9df9fa9d7aaf9e21347f3c89ef131472e61f5",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02024R3084-20260717"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objet",
+      "path": [
+        "CHAPITRE I — DISPOSITIONS GÉNÉRALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement établit les règles de fonctionnement du système d’information, y compris les règles relatives à la protection des données à caractère personnel, à l’échange de données avec d’autres systèmes informatiques et aux dispositions d’urgence en cas d’indisponibilité des fonctionnalités du système d’information.",
+      "text_sha256": "96b8f74a0bd799514ebccd3342c447fe022a0292cd6d414fab3f7bc6e3cc6512",
+      "md_span": {
+        "start": 763,
+        "end": 1089
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Déploiement et utilisation du système d’information",
+      "path": [
+        "CHAPITRE I — DISPOSITIONS GÉNÉRALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** La Commission:▼M1a) développe le système d’information;▼Bb) assure le fonctionnement et la maintenance du système d’information, fournit une assistance et procède aux mises à jour ou développements requis.\n\n**2.** Le système d’information est utilisé par les opérateurs et, le cas échéant, leurs mandataires, pour la présentation et la gestion de déclarations de diligence raisonnée et de déclarations simplifiées; par les États membres pour mettre des informations à disposition conformément à l’article 4 *bis*, paragraphe 4, du règlement (UE) 2023/1115; et par les opérateurs en aval et les commerçants pour se conformer aux obligations qui leur incombent en vertu du règlement (UE) 2023/1115. Il est également utilisé par les autorités compétentes, les autorités douanières et la Commission en vue d’accéder aux déclarations de diligence raisonnée et aux déclarations simplifiées, de les traiter et d’agir à leur égard, y compris en ce qui concerne l’échange d’informations contenant des données à caractère personnel entre les autorités compétentes, les autorités douanières et la Commission en lien avec la mise en œuvre et le contrôle de l’application du règlement (UE) 2023/1115. Tout échange d’informations de ce type est conforme aux règles relatives à la protection des données à caractère personnel énoncées dans le règlement (UE) 2016/679 et le règlement (UE) 2018/1725.\n\n**3.** Les déclarations de diligence raisonnée sont attribuées dans le système d’information aux autorités compétentes dans l’ordre suivant:a) si l’utilisateur du système d’information fournit des informations indiquant l’État membre dans lequel le produit en cause entre sur le marché de l’Union ou à partir duquel il le quitte, ou, à défaut, lorsque le produit en cause est mis sur le marché ou mis à disposition sur le marché, les déclarations de diligence raisonnée sont attribuées aux autorités compétentes de cet État membre;b) en l’absence des informations requises au point a), les déclarations de diligence raisonnée sont attribuées aux autorités compétentes de l’État membre dans lequel l’utilisateur du système d’information est établi. Si l’utilisateur du système d’information est établi en dehors de l’Union, les déclarations de diligence raisonnée sont attribuées aux autorités compétentes de l’État membre auquel l’utilisateur du système d’information est associé en fonction de son identifiant fourni lors de l’enregistrement dans le système d’information.\n\n**4.** Les déclarations simplifiées sont attribuées dans le système d’information aux autorités compétentes de l’État membre dans lequel le micro ou petit opérateur primaire est établi. Si le micro ou petit opérateur primaire est établi en dehors de l’Union, la déclaration simplifiée est attribuée aux autorités compétentes de l’État membre auquel il est associé, en fonction de l’identifiant unique de ce micro ou petit opérateur primaire fourni dans le système d’information. Si les informations relatives à la déclaration simplifiée sont mises à disposition dans le système d’information par un État membre conformément à l’article 4 *bis*, paragraphe 4, du règlement (UE) 2023/1115, la déclaration simplifiée est attribuée aux autorités compétentes de cet État membre.",
+      "text_sha256": "c3099c2ade21818db5e70e5592a49b3ed8b0a47a57b9821250b9693d8992230a",
+      "md_span": {
+        "start": 1180,
+        "end": 4420
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "▼M1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R3084",
+          "text": "▼B"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "32026R1565: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R3084",
+          "text": "32024R3084"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "32026R1565: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Définitions",
+      "path": [
+        "CHAPITRE I — DISPOSITIONS GÉNÉRALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Aux fins du présent règlement, outre les définitions figurant à l’article 2 du règlement (UE) 2023/1115, à l’article 4 du règlement (UE) 2016/679 et à l’article 3 du règlement (UE) 2018/1725, on entend par:\n\na) «système d’information»: le système d’information mis en place par la Commission et dont la Commission assure la maintenance conformément à l’article 33 du règlement (UE) 2023/1115;\n\nb) «acteur du système d’information»: les autorités compétentes et les autorités douanières visées par le règlement (UE) 2023/1115, ainsi que la Commission, en ce qu’elles accomplissent les tâches qui leur sont confiées conformément au règlement (UE) 2023/1115;\n\nc) «utilisateur du système d’information»: les opérateurs, y compris les micro ou petits opérateurs primaires, et leurs mandataires, le cas échéant, les opérateurs en aval et les commerçants, conformément au règlement (UE) 2023/1115, ainsi que les États membres agissant conformément à l’article 4 *bis*, paragraphe 4, dudit règlement, et qui sont identifiés par un enregistrement individuel dans EU Login, le service d’authentification de la Commission, et par un identifiant unique;\n\nd) «déclaration de diligence raisonnée»: la déclaration de diligence raisonnée présentée par l’utilisateur du système d’information conformément au règlement (UE) 2023/1115;\n\nd *bis*) «déclaration simplifiée»: une déclaration simplifiée présentée par l’utilisateur du système d’information conformément à l’article 4 *bis*, paragraphe 2, du règlement (UE) 2023/1115;\n\ne) «numéro de référence»: le numéro de référence attribué par le système d’information à la déclaration de diligence raisonnée;\n\ne *bis*) «identifiant de déclaration»: l’identifiant attribué par le système d’information à la déclaration simplifiée;\n\nf) «numéro de vérification»: un numéro de sécurité attribué par le système d’information à la déclaration de diligence raisonnée ou à la déclaration simplifiée afin d’assurer une sécurité supplémentaire des données contenues dans cette déclaration;\n\ng) «profilage des risques»: l’identification des risques de non-conformité d’un produit en cause relevant du champ d’application du règlement (UE) 2023/1115 au sein du système d’information, sur la base de critères de risque, aux fins de l’attribution d’un statut de risque à chaque déclaration de diligence raisonnée ou déclaration simplifiée présentée dans le système d’information, y compris après une éventuelle modification ou mise à jour de celle-ci.",
+      "text_sha256": "7a9fc0a3e48c8350c18664c31c208c2f71e90f2093267408ea5a1b172d5e4b98",
+      "md_span": {
+        "start": 4471,
+        "end": 6938
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "32026R1565: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R3084",
+          "text": "32024R3084"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "32026R1565: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Présentation des déclarations de diligence raisonnée",
+      "path": [
+        "CHAPITRE II — FONCTIONNEMENT DU SYSTÈME D’INFORMATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Sauf lorsque la déclaration de diligence raisonnée est mise à disposition par l’intermédiaire de l’interface électronique visée à l’article 28, paragraphe 2, du règlement (UE) 2023/1115, les utilisateurs du système d’information présentent et gèrent les déclarations de diligence raisonnée des produits en cause dans le système d’information.\n\n**2.** Lorsqu’un produit en cause contient du bois ou a été fabriqué avec du bois, les utilisateurs du système d’information indiquent dans la déclaration de diligence raisonnée les noms scientifiques complets des essences de bois que les produits en cause contiennent ou avec lesquels ils ont été fabriqués.",
+      "text_sha256": "c0b1a1401f52cc20eeef1d442a2ac31f98284720c15129bcf573704356104b6d",
+      "md_span": {
+        "start": 7088,
+        "end": 7747
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "32026R1565: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4a",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_4a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4 bis",
+      "heading": "Présentation, mise à jour et retrait des déclarations simplifiées",
+      "path": [
+        "CHAPITRE II — FONCTIONNEMENT DU SYSTÈME D’INFORMATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** L’utilisateur du système d’information présente la déclaration simplifiée dans le système d’information, sauf lorsque les informations sont mises à disposition conformément au paragraphe 2.\n\n**2.** Lorsque toutes les informations énumérées à l’annexe III du règlement (UE) 2023/1115 sont disponibles dans un système ou une base de données existant en vertu du droit de l’Union ou du droit d’un État membre, le système d’information permet aux États membres de mettre ces informations et, le cas échéant, leurs mises à jour, à disposition dans le système d’information pour chaque micro ou petit opérateur primaire visé à l’article 4 *bis*, paragraphe 4, du règlement (UE) 2023/1115. Le système d’information attribue un identifiant de déclaration aux informations mises à disposition par un micro ou petit opérateur primaire. Cet identifiant de déclaration est communiqué par l’État membre concerné au micro ou petit opérateur primaire intéressé et utilisé par ce dernier aux fins du règlement (UE) 2023/1115 et du présent règlement.\n\n**3.** Une mise à jour de la déclaration simplifiée est présentée et mise à disposition dans le système d’information conformément aux paragraphes 1 et 2. L’identifiant de déclaration associé à la déclaration simplifiée est maintenu en cas de mise à jour.\n\n**4.** Le système d’information conserve une trace des déclarations simplifiées et de toute mise à jour de celles-ci.\n\n**5.** Une mise à jour de la déclaration simplifiée déclenche un nouveau profilage des risques de l’ensemble de la déclaration simplifiée mise à jour, conformément à l’article 6.\n\n**6.** Le système d’information permet à ses utilisateurs de retirer leurs déclarations simplifiées.\n\n**7.** Les déclarations simplifiées ne sont pas retirées après que la déclaration simplifiée a été utilisée comme référence par le même utilisateur du système d’information, conformément à l’article 8 *bis*.",
+      "text_sha256": "aed7e86817a6f4a0cab5e92b9e87054b67b86f17933faf892ef6294ece6262ef",
+      "md_span": {
+        "start": 7857,
+        "end": 9764
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Modification et retrait des déclarations de diligence raisonnée",
+      "path": [
+        "CHAPITRE II — FONCTIONNEMENT DU SYSTÈME D’INFORMATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Le système d’information permet à ses utilisateurs de modifier ou de retirer les déclarations de diligence raisonnée dans les 72 heures suivant la mise à disposition dans le système d’information du numéro de référence de la déclaration de diligence raisonnée.\n\n**2.** Les déclarations de diligence raisonnée ne sont ni modifiées ni retirées après que la déclaration de diligence raisonnée a été utilisée comme référence dans une déclaration de diligence raisonnée présentée par le même utilisateur du système d’information en vue d’un groupement conformément à l’article 8 *bis*.\n\n**3.** La déclaration de diligence raisonnée n’est ni modifiée ni retirée par un utilisateur du système d’information après que:a) l’utilisateur du système d’information a été informé de l’intention d’effectuer un contrôle concernant la déclaration de diligence raisonnée ou le produit en cause associé à la déclaration de diligence raisonnée, pendant la durée du contrôle;▼M1b) le produit en cause couvert par une déclaration de diligence raisonnée a été mis sur le marché de l’Union ou exporté conformément au règlement (UE) 2023/1115;▼Bc) le numéro de référence de la déclaration de diligence raisonnée a été fourni aux autorités douanières ou mis à la disposition de celles-ci avant la mise en libre pratique ou l’exportation d’un produit en cause entrant sur le marché ou quittant le marché dans le cadre des procédures établies au chapitre 4 du règlement (UE) 2023/1115.\n\n**4.** Sans préjudice des paragraphes 2 et 3, sur demande individuelle et motivée d’un utilisateur du système d’information, les autorités compétentes peuvent prolonger le délai visé au paragraphe 1, uniquement après que celui-ci a expiré. Cette prolongation n’excède pas huit jours civils. La demande est fondée sur des raisons indépendantes de la volonté de l’utilisateur du système d’information, qui, dans sa demande motivée, indique que le paragraphe 3 du présent article n’est pas applicable. Cette prolongation est également possible avec effet rétroactif après l’expiration du délai visé au paragraphe 1.\n\n**5.** Une déclaration de diligence raisonnée modifiée fait l’objet d’un profilage des risques conformément à l’article 6. Le profilage des risques s’applique à l’ensemble de la déclaration de diligence raisonnée modifiée.",
+      "text_sha256": "0b8bb70988ec69773d47a6260022287712f7f586b4f8b0fc16b04b3604f7a665",
+      "md_span": {
+        "start": 9867,
+        "end": 12170
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "32026R1565: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R3084",
+          "text": "32024R3084"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "▼M1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R3084",
+          "text": "▼B"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Profilage des risques",
+      "path": [
+        "CHAPITRE II — FONCTIONNEMENT DU SYSTÈME D’INFORMATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Le système d’information permet aux autorités compétentes de recenser, au sein du système d’information, les situations dans lesquelles des produits en cause présentent un risque si élevé de non-conformité qu’une action immédiate est nécessaire avant que ces produits soient mis sur le marché, mis à disposition sur le marché ou exportés, conformément à l’article 17 du règlement (UE) 2023/1115, et de s’informer afin de déterminer les contrôles à effectuer et d’accomplir les tâches qui leur sont confiées au titre du chapitre 3 du règlement (UE) 2023/1115.\n\n**2.** Aux fins du paragraphe 1, le système d’information permet aux autorités compétentes d’établir des profils de risque dans le système d’information afin de faciliter une prise de décision éclairée pour sélectionner les opérateurs, y compris les petits et micro opérateurs primaires, les opérateurs en aval, les commerçants ou les produits en cause associés aux déclarations de diligence raisonnée et aux déclarations simplifiées sur lesquels effectuer des contrôles. Ces profils de risque reposent, entre autres, sur les critères de risque définis dans le plan annuel de contrôles des autorités compétentes, conformément à l’article 16, paragraphe 5, du règlement (UE) 2023/1115.\n\n**3.** Lorsqu’elle est présentée dans le système d’information, chaque déclaration de diligence raisonnée ou déclaration simplifiée fait l’objet d’un profilage des risques électronique automatisé. Le système d’information attribue un statut de risque à chaque déclaration de diligence raisonnée ou déclaration simplifiée, qui n’est pas communiqué à l’utilisateur du système d’information.\n\n**4.** À tout moment après la présentation d’une déclaration de diligence raisonnée ou d’une déclaration simplifiée, y compris après un groupement conformément à l’article 8 *bis*, les autorités compétentes peuvent examiner une déclaration de diligence raisonnée ou une déclaration simplifiée afin de déterminer si un produit en cause est conforme à l’article 3 du règlement (UE) 2023/1115. Dans ce cas, les autorités compétentes peuvent attribuer, à l’issue de l’examen, un nouveau statut de risque à la déclaration de diligence raisonnée ou à la déclaration simplifiée, ou au groupement de telles déclarations. Si l’autorité compétente attribue un nouveau statut de risque à une déclaration de diligence raisonnée ou à une déclaration simplifiée, ou à un groupement de telles déclarations, ce nouveau statut prévaut sur un statut de risque attribué en vertu du paragraphe 3 du présent article. Le système d’information conserve une trace de toute modification apportée au statut de risque d’une déclaration simplifiée ou de groupements de déclarations simplifiées.\n\n**5.** Le statut de risque attribué à la déclaration de diligence raisonnée ou à la déclaration simplifiée n’est visible que par les acteurs du système d’information.",
+      "text_sha256": "64ab7198a994bc6529069df53e88cebeeebceb41569048921e9c2359250d8e2f",
+      "md_span": {
+        "start": 12231,
+        "end": 15108
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "32026R1565: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "32026R1565: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Attribution et mise à disposition de numéros de référence, d’identifiants de déclaration et de numéros de vérification",
+      "path": [
+        "CHAPITRE II — FONCTIONNEMENT DU SYSTÈME D’INFORMATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Le système d’information attribue, dans les meilleurs délais à l’issue du profilage des risques visé à l’article 6, un numéro de référence à la déclaration de diligence raisonnée et un identifiant de déclaration à la déclaration simplifiée présentée par l’utilisateur du système d’information. Dans le même temps, il attribue un numéro de vérification associé à la déclaration de diligence raisonnée ou à la déclaration simplifiée.\n\n**2.** Le numéro de référence ou identifiant de déclaration et le numéro de vérification associé sont mis à la disposition de l’utilisateur du système d’information à l’issue du profilage des risques visé à l’article 6.\n\n**3.** Le système d’information permet aux autorités compétentes de reporter la mise à disposition du numéro de référence ou de l’identifiant de déclaration ainsi que du numéro de vérification associé afin d’établir que les produits en cause sont conformes à l’article 3 du règlement (UE) 2023/1115 et, en particulier, de vérifier que la situation détectée visée à l’article 6, paragraphe 1, du présent règlement n’est pas applicable à ce produit en cause. Ce report est aussi court que possible et n’excède pas la période fixée à l’article 17, paragraphe 3, du règlement (UE) 2023/1115. Cette période peut être prolongée à la discrétion de l’autorité compétente aussi longtemps que nécessaire, par des périodes supplémentaires conformément à l’article 17, paragraphe 3, du règlement (UE) 2023/1115, pour qu’elle puisse effectuer ses contrôles et remplir les obligations qui lui incombent en vertu du règlement (UE) 2023/1115 et du présent règlement.",
+      "text_sha256": "0f49e64624ae09f1daca451668203017e483419454a4a74dd89ed7c7f198b6a8",
+      "md_span": {
+        "start": 15266,
+        "end": 16877
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Rejet des déclarations de diligence raisonnée et des déclarations simplifiées",
+      "path": [
+        "CHAPITRE II — FONCTIONNEMENT DU SYSTÈME D’INFORMATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les autorités compétentes peuvent rejeter une déclaration de diligence raisonnée ou une déclaration simplifiée pendant la période prévue à l’article 17, paragraphe 3, du règlement (UE) 2023/1115, qui débute au moment où un risque élevé de non-conformité est détecté dans le système d’information conformément à l’article 6. Le rejet d’une déclaration de diligence raisonnée n’est plus possible une fois que le numéro de référence d’une déclaration de diligence raisonnée est mis à la disposition de l’utilisateur du système d’information.\n\n**2.** Le produit en cause déclaré dans une déclaration de diligence raisonnée ou une déclaration simplifiée rejetée est réputé ne pas faire l’objet d’une déclaration de diligence raisonnée ou d’une déclaration simplifiée comme requis par l’article 3, point c), du règlement (UE) 2023/1115, à partir du moment où la déclaration est rejetée.\n\n**3.** Le rejet est pris en compte dans le système d’information par l’attribution d’un statut spécifique à la déclaration de diligence raisonnée ou déclaration simplifiée concernée.",
+      "text_sha256": "31eecf9daff7771412655016b2d6e1c4f784a00974020ca7d02cab1aaecc1c1e",
+      "md_span": {
+        "start": 16994,
+        "end": 18065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8a",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_8a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8 bis",
+      "heading": "Groupement des déclarations de diligence raisonnée et des déclarations simplifiées dans le système d’information",
+      "path": [
+        "CHAPITRE II — FONCTIONNEMENT DU SYSTÈME D’INFORMATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les utilisateurs du système d’information peuvent grouper des déclarations de diligence raisonnée ou des déclarations simplifiées individuelles en présentant une nouvelle déclaration de diligence raisonnée ou déclaration simplifiée faisant référence à des déclarations de diligence raisonnée ou à des déclarations simplifiées individuelles précédemment présentées par le même utilisateur du système d’information, ou, pour le même opérateur ou le même micro ou petit opérateur primaire, par un mandataire, le cas échéant, au moyen des numéros de référence ou identifiants de déclaration précédemment présentés («déclaration de diligence raisonnée ou déclaration simplifiée groupée»).\n\n**2.** Le système d’information attribue un statut spécifique aux déclarations de diligence raisonnée ou déclarations simplifiées individuelles une fois qu’elles sont référencées dans la déclaration de diligence raisonnée ou la déclaration simplifiée groupée afin d’indiquer qu’elles ont été groupées et remplacées par la déclaration de diligence raisonnée ou la déclaration simplifiée groupée.\n\n**3.** La déclaration de diligence raisonnée ou déclaration simplifiée groupée représente la déclaration de diligence raisonnée ou la déclaration simplifiée individuelle aux fins du respect du règlement (UE) 2023/1115. La déclaration de diligence raisonnée ou déclaration simplifiée groupée couvre donc la mise sur le marché ou l’exportation des produits en cause figurant dans les déclarations de diligence raisonnée ou déclarations simplifiées individuelles qui y sont référencées. Aux fins du respect de l’article 4, paragraphe 7, et de l’article 26, paragraphe 4, du règlement (UE) 2023/1115, au lieu des numéros de référence ou identifiants de déclaration individuels auxquels un statut spécifique a été attribué conformément au paragraphe 2, les utilisateurs du système d’information communiquent ou mettent à disposition le numéro de référence ou l’identifiant de déclaration de la déclaration de diligence raisonnée ou déclaration simplifiée groupée.",
+      "text_sha256": "e70e6a28aefe3de1cdd65070707b80ba0a976e75dd20f4f45d6df96b2a91e5fb",
+      "md_span": {
+        "start": 18222,
+        "end": 20268
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Fonctions et responsabilités de la Commission",
+      "path": [
+        "CHAPITRE III — FONCTIONS ET RESPONSABILITÉS RELATIVES AU SYSTÈME D’INFORMATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "Outre les tâches énumérées à l’article 2, paragraphe 1, la Commission est chargée d’exécuter les tâches suivantes relatives au système d’information:\n\na) fournir des connaissances, une formation et un soutien, y compris une assistance technique, aux utilisateurs et acteurs du système d’information en ce qui concerne l’utilisation de ce système et, lorsqu’une expertise nationale est requise, demander l’assistance des autorités compétentes;\n\nb) octroyer l’accès au système d’information aux acteurs désignés par chaque État membre;\n\nc) octroyer l’accès au système d’information à ses utilisateurs, sous la supervision des autorités compétentes, et coopérer avec ces dernières, le cas échéant, pour vérifier les informations d’identification fournies par les utilisateurs du système d’information et d’autres informations dont la validité ne peut être évaluée que par les États membres;\n\nc *bis*) développer une fonctionnalité dans le système d’information permettant aux autorités compétentes de gérer les utilisateurs de ce système, y compris les activités énumérées au point h), et extraire les données relatives aux utilisateurs du système;\n\nd) effectuer des opérations de traitement de données à caractère personnel dans le système d’information, lorsque le présent règlement l’exige, ou aux fins de la mise en œuvre et du contrôle de l’application au titre du règlement (UE) 2023/1115;\n\ne) fournir des services web, reposant sur des spécifications techniques communes, permettant aux utilisateurs du système d’information de présenter et de gérer de manière automatisée les déclarations de diligence raisonnée et les déclarations simplifiées, y compris le groupement de telles déclarations, dans le système d’information, et établir les conditions de connexion et d’utilisation de ces services en ligne, le cas échéant;\n\nf) fournir des services web, reposant sur des spécifications techniques communes, permettant aux autorités compétentes des États membres d’exécuter de manière automatisée, dans le système d’information, des tâches concernant les déclarations de diligence raisonnée ou déclarations simplifiées présentées, y compris les groupements de telles déclarations, et établir les conditions de connexion et d’utilisation de ces services en ligne, le cas échéant;\n\ng) fournir l’interface électronique prévue à l’article 28 du règlement (UE) 2023/1115;\n\nh) suspendre et révoquer l’accès d’un utilisateur du système d’information, y compris en cas de non-respect des obligations énoncées dans le règlement (UE) 2023/1115 ou dans le présent règlement, à la demande des autorités compétentes de l’État membre dans lequel il est établi ou, si l’utilisateur est établi en dehors de l’Union, des autorités compétentes de l’État membre auquel il est associé, en fonction de l’identifiant fourni lors de son enregistrement dans le système d’information.",
+      "text_sha256": "58bd0036edbdde6da36122232b2ebe2c2154fc401282a41fce0ebb73a37f8c9e",
+      "md_span": {
+        "start": 20436,
+        "end": 23297
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "32026R1565: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R3084",
+          "text": "32024R3084"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "32026R1565: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Droits d’accès des utilisateurs du système d’information",
+      "path": [
+        "CHAPITRE III — FONCTIONS ET RESPONSABILITÉS RELATIVES AU SYSTÈME D’INFORMATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Seuls les utilisateurs du système d’information enregistrés ont accès à ce système. Les utilisateurs du système d’information créent un compte unique dans le système. Le système d’information prévoit la possibilité pour ses utilisateurs de créer différents rôles au sein d’un même compte.\n\n**2.** L’authentification dans le système d’information se fait par l’intermédiaire d’EU Login, le service d’authentification de la Commission européenne.\n\n**3.** Les utilisateurs du système d’information ont accès aux informations contenues dans ce système qu’ils ont transmises ou auxquelles un autre utilisateur du système d’information leur a donné accès au moyen des numéros de référence et des numéros de vérification des déclarations de diligence raisonnée associées et des identifiants de déclaration et numéros de vérification des déclarations simplifiées associées, y compris des déclarations de diligence raisonnée ou déclarations simplifiées groupées.\n\n**4.** Le système d’information permet à ses utilisateurs de tenir à jour leurs informations d’enregistrement.",
+      "text_sha256": "8ae5230b72dfa888b58fc5b115941cf07011cd4c8601dc54a6e175091d0568bd",
+      "md_span": {
+        "start": 23395,
+        "end": 24467
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "32026R1565: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R3084",
+          "text": "32024R3084"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "32026R1565: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Droits d’accès des acteurs du système d’information",
+      "path": [
+        "CHAPITRE III — FONCTIONS ET RESPONSABILITÉS RELATIVES AU SYSTÈME D’INFORMATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** La Commission a accès à l’ensemble des données, informations et documents du système d’information à des fins de traitement conformément à l’article 21 et à l’article 27, paragraphe 1, du règlement (UE) 2023/1115, de production de rapports et de développement, de fonctionnement et de maintenance du système d’information.\n\n**2.** La Commission octroie des droits d’accès aux acteurs du système d’information et les révoque, le cas échéant, à la suite des modifications concernant les autorités compétentes visées à l’article 14, paragraphe 2, du règlement (UE) 2023/1115.\n\n**3.** L’authentification dans le système d’information se fait par l’intermédiaire d’EU Login, le service d’authentification de la Commission européenne.\n\n**4.** Les acteurs du système d’information mettent en place des moyens appropriés pour garantir que les utilisateurs individuels représentant les acteurs du système d’information dans ce système ne sont autorisés à accéder aux données à caractère personnel traitées dans le système d’information que lorsque cela est strictement nécessaire à la mise en œuvre et au contrôle de l’application au titre du règlement (UE) 2023/1115.\n\n**5.** Les acteurs du système d’information ont accès à toutes les informations pertinentes contenues dans le système d’information qui sont nécessaires aux fins de l’exécution des obligations et tâches qui leur incombent en vertu du règlement (UE) 2023/1115.",
+      "text_sha256": "1661e6e4c0239cbe23b8339165464579f0e23728dbe8152e8af000ef8f7096f0",
+      "md_span": {
+        "start": 24560,
+        "end": 25987
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "32026R1565: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R3084",
+          "text": "32024R3084"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Traitement des données à caractère personnel dans le système d’information",
+      "path": [
+        "CHAPITRE IV — TRAITEMENT DES DONNÉES À CARACTÈRE PERSONNEL ET SÉCURITÉ"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** La transmission, la conservation et tout autre traitement de données à caractère personnel dans le système d’information ne peuvent avoir lieu que dans la mesure où cela est nécessaire et proportionné, et uniquement aux fins suivantes:a) la facilitation des communications entre les acteurs du système d’information dans le cadre de la mise en œuvre et du contrôle de l’application au titre du règlement (UE) 2023/1115;b) le traitement de dossiers par les acteurs du système d’information dans l’exercice de leurs propres activités de mise en œuvre et de contrôle de l’application au titre du règlement (UE) 2023/1115;c) la conversion commerciale et technique des données énumérées dans le présent règlement, lorsque cela est nécessaire pour permettre l’échange et l’utilisation d’informations visés aux points a) et b).\n\n**2.** Le traitement de données à caractère personnel dans le système d’information ne peut avoir lieu que pour les catégories suivantes de données à caractère personnel:a) données d’identification: nom et prénom, identifiant unique comprenant le numéro d’enregistrement et d’identification des opérateurs économiques («EORI»), conformément à l’article 9 du règlement (UE) no 952/2013 du Parlement européen et du Conseil (1), le cas échéant;b) coordonnées professionnelles: adresse électronique et postale, pays de résidence ou pays du siège statutaire, numéro de téléphone et numéro de télécopieur, le cas échéant;c) rôle de l’utilisateur du système d’information;d) données relatives à la géolocalisation conformément à l’article 2, paragraphe 28, du règlement (UE) 2023/1115, lorsque des personnes physiques peuvent être identifiées;e) authentification de l’utilisateur et données d’accès au système d’information: adresse IP et nom d’utilisateur.\n\n**3.** Le système d’information conserve les catégories de données à caractère personnel énumérées au paragraphe 2 qui sont traitées aux fins de la mise en œuvre et du contrôle de l’application au titre du règlement (UE) 2023/1115.\n\n**4.** La conservation des données visée au paragraphe 2 s’effectue au moyen d’infrastructures informatiques situées dans l’Espace économique européen.\n\n**5.** ►M1 Le système d’information conserve les données à caractère personnel contenues dans les déclarations de diligence raisonnée pour une période maximale de cinq ans à compter de la date à laquelle une déclaration de diligence raisonnée est présentée dans le système d’information ou, en cas de groupement conformément à l’article 8 *bis*, à compter de la date de celui-ci. Le système d’information conserve les données à caractère personnel contenues dans les déclarations simplifiées pour une période maximale de cinq ans à compter de la date à laquelle une déclaration simplifiée est retirée du système d’information.** ◄ ** La période de conservation peut être prolongée par la Commission à la demande individuelle des utilisateurs ou des acteurs du système d’information lorsque cela est nécessaire pour qu’ils s’acquittent des responsabilités et obligations qui leur incombent en vertu du règlement (UE) 2023/1115.\n\n**6.** Sans préjudice des activités de traitement des données visées à l’article 14, chaque acteur du système d’information est un responsable du traitement distinct au sens des règlements (UE) 2016/679 et (UE) 2018/1725 en ce qui concerne les activités de traitement des données qu’il effectue.\n\n**7.** Les autorités de contrôle nationales et le Contrôleur européen de la protection des données, agissant chacun dans le cadre de leurs compétences respectives, assurent une surveillance coordonnée du système d’information et de son utilisation par les acteurs et les utilisateurs du système d’information conformément à l’article 62 du règlement (UE) 2018/1725.",
+      "text_sha256": "f01134ca196da0d52454171e60f72e6cb18b3b3ba5cce654feb7beec3d857d5a",
+      "md_span": {
+        "start": 26178,
+        "end": 29935
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "►M1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Traitement des données à caractère personnel par la Commission",
+      "path": [
+        "CHAPITRE IV — TRAITEMENT DES DONNÉES À CARACTÈRE PERSONNEL ET SÉCURITÉ"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** La Commission est un responsable du traitement au sens de l’article 3, point 8), du règlement (UE) 2018/1725 en ce qui concerne le traitement de données à caractère personnel des utilisateurs du système d’information, y compris lors de l’enregistrement d’utilisateurs du système d’information dans ce dernier.\n\n**2.** Lorsque la Commission traite des données à caractère personnel dans le cadre du fonctionnement du système d’information pour le compte d’autres acteurs du système d’information aux fins de l’échange d’informations au titre de l’article 27 du règlement (UE) 2023/1115, elle est considérée comme un sous-traitant au sens de l’article 3, point 12), du règlement (UE) 2018/1725.\n\n**3.** La Commission est un sous-traitant au sens de l’article 3, point 12), du règlement (UE) 2018/1725 pour le traitement des données à caractère personnel effectué pour les enquêtes conjointes conduites conformément à l’article 21 du règlement (UE) 2023/1115 dans le cadre de la mise en œuvre et du contrôle de l’application au titre du règlement (UE) 2023/1115.",
+      "text_sha256": "fafc81f44e87fc4e802646ff17a5178b1743567755d36d7ef804292cc4cb90f8",
+      "md_span": {
+        "start": 30039,
+        "end": 31105
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Responsabilité conjointe dans le système d’information",
+      "path": [
+        "CHAPITRE IV — TRAITEMENT DES DONNÉES À CARACTÈRE PERSONNEL ET SÉCURITÉ"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsque les autorités compétentes et les autorités douanières telles quelles sont définies dans le règlement (UE) 2023/1115 procèdent à la mise en œuvre et au contrôle de l’application en coopération les unes avec les autres conformément à l’article 21 du règlement (UE) 2023/1115, les autorités compétentes et les autorités douanières concernées sont responsables conjointes du traitement, au sens de l’article 26, paragraphe 1, du règlement (UE) 2016/679, pour la transmission, la conservation et tout autre traitement de données à caractère personnel dans le système d’information dans le cadre de cette coopération particulière. Lorsque l’article 26, paragraphe 1, du règlement (UE) 2016/679 l’exige, les responsables du traitement déterminent leurs responsabilités respectives en matière de respect des obligations au titre du règlement (UE) 2016/679 au moyen d’un accord entre eux.",
+      "text_sha256": "c686975f4d46f4457b9c5f5d3857a54152e1e07b60875c758e53de346b3926ee",
+      "md_span": {
+        "start": 31201,
+        "end": 32088
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Sécurité",
+      "path": [
+        "CHAPITRE IV — TRAITEMENT DES DONNÉES À CARACTÈRE PERSONNEL ET SÉCURITÉ"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** La Commission met en place les mesures de pointe nécessaires pour garantir la sécurité des données à caractère personnel traitées dans le système d’information, y compris des mesures appropriées de contrôle de l’accès aux données et un plan de sécurité, qui est tenu à jour.\n\n**2.** La Commission met en place les mesures de pointe nécessaires en cas d’incident de sécurité, prend des mesures correctives et veille à ce qu’il soit possible de vérifier quelles données à caractère personnel ont été traitées dans le système d’information, à quel moment, par qui et à quelles fins.\n\n**3.** La Commission informe les autorités compétentes des mesures visées aux paragraphes 1 et 2 du présent article.\n\n**4.** La Commission peut mettre en place les mesures suivantes:a) des mesures visant à garantir le maintien de la disponibilité du système d’information en précisant les conditions applicables aux interactions individuelles, y compris en précisant les limites techniques applicables à la taille des fichiers et en réglementant la fréquence des interactions;b) des mesures visant à empêcher la transmission de données incorrectes, superflues ou redondantes.\n\nLa Commission informe sans délai les autorités compétentes et les utilisateurs du système d’information des mesures prises en vertu du présent paragraphe.",
+      "text_sha256": "e22e369dd2c020baf0966cb6d1bccf1fb2a59edafbe52915f2528c758d7bd144",
+      "md_span": {
+        "start": 32138,
+        "end": 33457
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R1565",
+          "text": "32026R1565: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15a",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_15a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15 bis",
+      "heading": "Dispositions d’urgence",
+      "path": [
+        "CHAPITRE IV — TRAITEMENT DES DONNÉES À CARACTÈRE PERSONNEL ET SÉCURITÉ"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Au plus tard le 30 décembre 2026, la Commission publie les informations suivantes sur un site web accessible au public:a) des informations sur la disponibilité et le fonctionnement du système d’information;b) des informations sur les mesures d’urgence à prendre en cas d’indisponibilité imprévue des fonctionnalités du système d’information pendant plus de 60 minutes.\n\n**2.** Les mesures d’urgence visées au paragraphe 1, point b), comprennent au moins les éléments suivants:a) notification des acteurs du système d’information en cas d’indisponibilité imprévue du système d’information par des moyens numériques;b) fourniture d’un numéro de référence d’urgence et d’un identifiant de déclaration d’urgence couvrant les produits pour lesquels une déclaration de diligence raisonnée ou une déclaration simplifiée ne peut pas être présentée en vertu du règlement (UE) 2023/1115 et pour lesquels les numéros de référence ou les identifiants de déclaration ne peuvent pas être attribués en raison de l’indisponibilité du système d’information.",
+      "text_sha256": "b9e2865066726af09206769d3fa47bc0317beac4c1b1e7e0aa0192fde29d3d25",
+      "md_span": {
+        "start": 33526,
+        "end": 34573
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Confidentialité",
+      "path": [
+        "CHAPITRE IV — TRAITEMENT DES DONNÉES À CARACTÈRE PERSONNEL ET SÉCURITÉ"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les États membres et la Commission appliquent chacun leurs propres règles en matière de secret professionnel, ou autres obligations de confidentialité équivalentes en ce qui concerne le système d’information conformément à leur droit national ou au droit de l’Union.\n\n**2.** Les acteurs du système d’information veillent chacun à ce que les personnes travaillant sous leur autorité respectent les demandes présentées par d’autres acteurs du système d’information visant à obtenir le traitement confidentiel d’informations échangées dans le système d’information.",
+      "text_sha256": "58cab519a782ae11bc69109ec4e90a057e621cfa8c982d4d745de97b7310569a",
+      "md_span": {
+        "start": 34630,
+        "end": 35199
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Traduction",
+      "path": [
+        "CHAPITRE V — DISPOSITIONS FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** La Commission met le système d’information à disposition dans toutes les langues officielles de l’Union.\n\n**2.** Un acteur du système d’information peut produire et utiliser, en lien avec l’exécution de toute tâche qui lui a été confiée conformément au règlement (UE) 2023/1115, tous documents, informations, constatations, déclarations ou copies certifiées conformes qu’il a reçus dans le système d’information, sur la même base que des informations similaires obtenues dans son propre pays, à des fins compatibles avec celles pour lesquelles les données ont été initialement collectées et conformément au droit de l’Union et au droit national applicables.",
+      "text_sha256": "2dbbc3638fa8e519663ed18ff7f03fd2a413181413b7afd22727194c3a22220c",
+      "md_span": {
+        "start": 35289,
+        "end": 35953
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Coûts",
+      "path": [
+        "CHAPITRE V — DISPOSITIONS FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les coûts engagés pour la mise en place, la maintenance et le fonctionnement du système d’information sont à la charge de la Commission.\n\n**2.** Les coûts associés au système d’information au niveau national, y compris les ressources humaines nécessaires aux activités de formation, de promotion et d’assistance technique, ainsi qu’à l’utilisation du système d’information au niveau national et à toute adaptation à apporter aux réseaux et systèmes d’information nationaux, sont à la charge de l’État membre qui les engage.",
+      "text_sha256": "f531a4db04276fe96644cb0a71e06846d8243d38c8fde4d90cd7a02850b74e1d",
+      "md_span": {
+        "start": 36000,
+        "end": 36530
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32024r3084:2026-07-17#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Entrée en vigueur",
+      "path": [
+        "CHAPITRE V — DISPOSITIONS FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le troisième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.",
+      "text_sha256": "1c86675ed4deec2a3340a65b255bddde0a18a33993d57138195336b7ae399fcd",
+      "md_span": {
+        "start": 36589,
+        "end": 36721
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

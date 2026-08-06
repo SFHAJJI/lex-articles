@@ -1,0 +1,99 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r1299:2022-03-24",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2022/1299 of 24\u00A0March 2022 supplementing Directive 2014/65/EU",
+  "valid_from": "2022-03-24",
+  "valid_to": "2022-07-25",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r1299/versions/2022-03-24/fr.xml",
+    "sha256": "96a1ec236f6e5b6c08b1060b48699c9b568ac66720ee3c7e82b75eef17dfaebe",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R1299"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r1299:2022-03-24#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes plates-formes de négociation mettent en place des dispositifs permettant la surveillance continue des positions détenues par les détenteurs finaux de positions et les entreprises mères sur chaque instrument dérivé sur matières premières négocié sur leurs plates-formes de négociation.",
+      "text_sha256": "09a196a7554b34a753a10e0782bfa81765f2f16d2e48d2a23ca4362450d36c9a",
+      "md_span": {
+        "start": 649,
+        "end": 954
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r1299:2022-03-24#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Dans le cadre de leurs contrôles en matière de gestion des positions, les plates-formes de négociation proposant la négociation d’instruments dérivés sur matières premières fixent des seuils de vigilance pour le mois spot au sens de l’article 2, point 3), du règlement délégué 2022/1301 de la Commission (4) et pour les autres mois au sens de l’article 2, point 4), du règlement délégué 2022/1301 pour les dérivés sur matières premières négociables qui sont réglés par livraison physique ou peuvent l’être.\n\n2. Aux fins du paragraphe 1, un seuil de vigilance est le niveau de la position nette sur un instrument dérivé sur matières premières détenue par un détenteur final de position ou une entreprise mère qui, s’il est dépassé, peut déclencher une demande d’informations complémentaires de la part de la plate-forme de négociation conformément au paragraphe 3.\n\n3. Lorsqu’une position nette détenue par un détenteur final de position ou une entreprise mère sur un instrument dérivé sur matières premières visé au paragraphe 1 dépasse le seuil de vigilance fixé pour le mois spot ou pour les autres mois conformément au paragraphe 1 du présent article, la plate-forme de négociation obtient, lorsque cela est jugé opportun, des informations sur la nature et la finalité de la position détenue sur cet instrument dérivé sur matières premières.\n\nPour évaluer s’il est opportun d’obtenir des informations, la plate-forme de négociation tient compte de la fréquence à laquelle les seuils de vigilance sont dépassés par un même détenteur final de position ou une même entreprise mère, de l’ampleur du dépassement et des autres informations pertinentes déjà disponibles.",
+      "text_sha256": "165c8d83ba947f3068a982be5feb73e3721e19282620d46b98d21fc8d962b3b9",
+      "md_span": {
+        "start": 987,
+        "end": 2667
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2022197FR.01000101-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r1299:2022-03-24#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les plates-formes de négociation évaluent, une fois par an, l’adéquation et l’efficacité des seuils de vigilance établis en vertu de l’article 2, paragraphe 1.\n\n2. Les plates-formes de négociation communiquent à leur autorité compétente la méthode utilisée pour fixer les seuils de vigilance prévus à l’article 2, paragraphe 1.\n\n3. Les plates-formes de négociation informent une fois par an leur autorité compétente du nombre de cas où les seuils de vigilance ont été dépassés, de toute demande d’informations complémentaires présentée conformément à l’article 2, paragraphe 3, et de toute mesure prise conformément à l’article 2, paragraphe 4.",
+      "text_sha256": "afa4354f6c71fecaa07370a582cdee335475b61ad19180b7473dc7e14bbf65f2",
+      "md_span": {
+        "start": 2700,
+        "end": 3358
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r1299:2022-03-24#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "b8c1b172e87d9f3d25fa7408c473a0c09567665b259934334f0182acb0dfdc95",
+      "md_span": {
+        "start": 3391,
+        "end": 3532
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

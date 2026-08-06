@@ -1,0 +1,374 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32001l0029:2019-06-06",
+  "language": "fr",
+  "title": "Directive 2001/29/EC",
+  "valid_from": "2019-06-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32001l0029/versions/2019-06-06/fr.html",
+    "sha256": "30e244449eac9c1b0cefcb2845d31748e3ef55094db34ef04f012f0bfb13f23a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02001L0029-20190606"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32001l0029:2019-06-06#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Champ d'application",
+      "path": [
+        "CHAPITRE I",
+        "**OBJECTIF ET CHAMP D'APPLICATION**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La présente directive porte sur la protection juridique du droit d'auteur et des droits voisins dans le cadre du marché intérieur, avec une importance particulière accordée à la société de l'information.\n\n2. Sauf dans les cas visés à l'article 11, la présente directive laisse intactes et n'affecte en aucune façon les dispositions communautaires existantes concernant:\n\na) la protection juridique des programmes d'ordinateur;\n\nb) le droit de location, de prêt et certains droits voisins du droit d'auteur dans le domaine de la propriété intellectuelle;\n\nc) le droit d'auteur et les droits voisins applicables à la radiodiffusion de programmes par satellite et à la retransmission par câble;\n\nd) la durée de protection du droit d'auteur et de certains droits voisins;\n\ne) la protection juridique des bases de données.",
+      "text_sha256": "8cce6337269c1a1457e3d41a28eb959931e8e0f945d02b9b77bf04ebf72f3025",
+      "md_span": {
+        "start": 668,
+        "end": 1488
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32001l0029:2019-06-06#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Droit de reproduction",
+      "path": [
+        "CHAPITRE II",
+        "**DROITS ET EXCEPTIONS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres prévoient le droit exclusif d'autoriser ou d'interdire la reproduction directe ou indirecte, provisoire ou permanente, par quelque moyen et sous quelque forme que ce soit, en tout ou en partie:\n\na) pour les auteurs, de leurs œuvres;\n\nb) pour les artistes interprètes ou exécutants, des fixations de leurs exécutions;\n\nc) pour les producteurs de phonogrammes, de leurs phonogrammes;\n\nd) pour les producteurs des premières fixations de films, de l'original et de copies de leurs films;\n\ne) pour les organismes de radiodiffusion, des fixations de leurs émissions, qu'elles soient diffusées par fil ou sans fil, y compris par câble ou par satellite.",
+      "text_sha256": "7c23865e5d17f4b43d59aac0e7a639d18b42deee9fb69532ae8e0a3c4d369b83",
+      "md_span": {
+        "start": 1595,
+        "end": 2258
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32001l0029:2019-06-06#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Droit de communication d'œuvres au public et droit de mettre à la disposition du public d'autres objets protégés",
+      "path": [
+        "CHAPITRE II",
+        "**DROITS ET EXCEPTIONS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres prévoient pour les auteurs le droit exclusif d'autoriser ou d'interdire toute communication au public de leurs œuvres, par fil ou sans fil, y compris la mise à la disposition du public de leurs œuvres de manière que chacun puisse y avoir accès de l'endroit et au moment qu'il choisit individuellement.\n\n2. Les États membres prévoient le droit exclusif d'autoriser ou d'interdire la mise à la disposition du public, par fil ou sans fil, de manière que chacun puisse y avoir accès de l'endroit et au moment qu'il choisit individuellement:\n\na) pour les artistes interprètes ou exécutants, des fixations de leurs exécutions;\n\nb) pour les producteurs de phonogrammes, de leurs phonogrammes;\n\nc) pour les producteurs des premières fixations de films, de l'original et de copies de leurs films;\n\nd) pour les organismes de radiodiffusion, des fixations de leurs émissions, qu'elles soient diffusées par fil ou sans fil, y compris par câble ou par satellite.\n\n3. Les droits visés aux paragraphes 1 et 2 ne sont pas épuisés par un acte de communication au public, ou de mise à la disposition du public, au sens du présent article.",
+      "text_sha256": "15eb1abba77267d85dfb6372d6cf4a77b1ebb5c7998c6c920b9672c0018de70c",
+      "md_span": {
+        "start": 2410,
+        "end": 3551
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32001l0029:2019-06-06#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Droit de distribution",
+      "path": [
+        "CHAPITRE II",
+        "**DROITS ET EXCEPTIONS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres prévoient pour les auteurs le droit exclusif d'autoriser ou d'interdire toute forme de distribution au public, par la vente ou autrement, de l'original de leurs œuvres ou de copies de celles-ci.\n\n2. Le droit de distribution dans la Communauté relatif à l'original ou à des copies d'une œuvre n'est épuisé qu'en cas de première vente ou premier autre transfert de propriété dans la Communauté de cet objet par le titulaire du droit ou avec son consentement.",
+      "text_sha256": "97c82fb628dcdb2c34e58fe3a51279ae67b62eaaddb710d7dfd91b3b8b44140b",
+      "md_span": {
+        "start": 3612,
+        "end": 4089
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32001l0029:2019-06-06#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Exceptions et limitations",
+      "path": [
+        "CHAPITRE II",
+        "**DROITS ET EXCEPTIONS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les actes de reproduction provisoires visés à l'article 2, qui sont transitoires ou accessoires et constituent une partie intégrante et essentielle d'un procédé technique et dont l'unique finalité est de permettre:\n\na) une transmission dans un réseau entre tiers par un intermédiaire, ou\n\nb) une utilisation licite\n\nd'une œuvre ou d'un objet protégé, et qui n'ont pas de signification économique indépendante, sont exemptés du droit de reproduction prévu à l'article 2.\n\n2. Les États membres ont la faculté de prévoir des exceptions ou limitations au droit de reproduction prévu à l'article 2 dans les cas suivants:\n\na) lorsqu'il s'agit de reproductions effectuées sur papier ou sur support similaire au moyen de toute technique photographique ou de tout autre procédé ayant des effets similaires, à l'exception des partitions, à condition que les titulaires de droits reçoivent une compensation équitable;\n\nb) lorsqu'il s'agit de reproductions effectuées sur tout support par une personne physique pour un usage privé et à des fins non directement ou indirectement commerciales, à condition que les titulaires de droits reçoivent une compensation équitable qui prend en compte l'application ou la non application des mesures techniques visées à l'article 6 aux œuvres ou objets concernés;\n\nc) lorsqu'il s'agit d'actes de reproduction spécifiques effectués par des bibliothèques accessibles au public, des établissements d'enseignement ou des musées ou par des archives, qui ne recherchent aucun avantage commercial ou économique direct ou indirect, sans préjudice des exceptions et des limitations prévues par la directive (UE) 2019/790 du Parlement européen et du Conseil (1);\n\nd) lorsqu'il s'agit d'enregistrements éphémères d'œuvres effectués par des organismes de radiodiffusion par leurs propres moyens et pour leurs propres émissions; la conservation de ces enregistrements dans les archives officielles peut être autorisée en raison de leur valeur documentaire exceptionnelle;\n\ne) en ce qui concerne la reproduction d'émissions faites par des institutions sociales sans but lucratif, telles que les hôpitaux ou les prisons, à condition que les titulaires de droits reçoivent une compensation équitable.\n\n3. Les États membres ont la faculté de prévoir des exceptions ou limitations aux droits prévus aux articles 2 et 3 dans les cas suivants:\n\na) lorsqu'il s'agit d'une utilisation à des fins exclusives d'illustration dans le cadre de l'enseignement ou de recherche scientifique, sous réserve d'indiquer, à moins que cela ne s'avère impossible, la source, y compris le nom de l'auteur, dans la mesure justifiée par le but non commercial poursuivi, sans préjudice des exceptions et des limitations prévues dans la directive (UE) 2019/790;\n\nb) lorsqu'il s'agit d'utilisations au bénéfice de personnes affectées d'un handicap qui sont directement liées au handicap en question et sont de nature non commerciale, dans la mesure requise par ledit handicap, sans préjudice des obligations qui incombent aux États membres au titre de la directive (UE) 2017/1564 du Parlement européen et du Conseil (2);\n\nc) lorsqu'il s'agit de la reproduction par la presse, de la communication au public ou de la mise à disposition d'articles publiés sur des thèmes d'actualité à caractère économique, politique ou religieux ou d'œuvres radiodiffusées ou d'autres objets protégés présentant le même caractère, dans les cas où cette utilisation n'est pas expressément réservée et pour autant que la source, y compris le nom de l'auteur, soit indiquée, ou lorsqu'il s'agit de l'utilisation d'œuvres ou d'autres objets protégés afin de rendre compte d'événements d'actualité, dans la mesure justifiée par le but d'information poursuivi et sous réserve d'indiquer, à moins que cela ne s'avère impossible, la source, y compris le nom de l'auteur;\n\nd) lorsqu'il s'agit de citations faites, par exemple, à des fins de critique ou de revue, pour autant qu'elles concernent une œuvre ou un autre objet protégé ayant déjà été licitement mis à la disposition du public, que, à moins que cela ne s'avère impossible, la source, y compris le nom de l'auteur, soit indiquée et qu'elles soient faites conformément aux bons usages et dans la mesure justifiée par le but poursuivi;\n\ne) lorsqu'il s'agit d'une utilisation à des fins de sécurité publique ou pour assurer le bon déroulement de procédures administratives, parlementaires ou judiciaires, ou pour assurer une couverture adéquate desdites procédures;\n\nf) lorsqu'il s'agit de l'utilisation de discours politiques ainsi que d'extraits de conférences publiques ou d'œuvres ou d'objets protégés similaires, dans la mesure justifiée par le but d'information poursuivi et pour autant, à moins que cela ne s'avère impossible, que la source, y compris le nom de l'auteur, soit indiquée;\n\ng) lorsqu'il s'agit d'une utilisation au cours de cérémonies religieuses ou de cérémonies officielles organisées par une autorité publique;\n\nh) lorsqu'il s'agit de l'utilisation d'œuvres, telles que des réalisations architecturales ou des sculptures, réalisées pour être placées en permanence dans des lieux publics;\n\ni) lorsqu'il s'agit de l'inclusion fortuite d'une œuvre ou d'un autre objet protégé dans un autre produit;\n\nj) lorsqu'il s'agit d'une utilisation visant à annoncer des expositions publiques ou des ventes d'œuvres artistiques, dans la mesure nécessaire pour promouvoir l'événement en question, à l'exclusion de toute autre utilisation commerciale;\n\nk) lorsqu'il s'agit d'une utilisation à des fins de caricature, de parodie ou de pastiche;\n\nl) lorsqu'il s'agit d'une utilisation à des fins de démonstration ou de réparation de matériel;\n\nm) lorsqu'il s'agit d'une utilisation d'une œuvre artistique constituée par un immeuble ou un dessin ou un plan d'un immeuble aux fins de la reconstruction de cet immeuble;\n\nn) lorsqu'il s'agit de l'utilisation, par communication ou mise à disposition, à des fins de recherches ou d'études privées, au moyen de terminaux spécialisés, à des particuliers dans les locaux des établissements visés au paragraphe 2, point c), d'œuvres et autres objets protégés faisant partie de leur collection qui ne sont pas soumis à des conditions en matière d'achat ou de licence;\n\no) lorsqu'il s'agit d'une utilisation dans certains autres cas de moindre importance pour lesquels des exceptions ou limitations existent déjà dans la législation nationale, pour autant que cela ne concerne que des utilisations analogiques et n'affecte pas la libre circulation des marchandises et des services dans la Communauté, sans préjudice des autres exceptions et limitations prévues au présent article.\n\n4. Lorsque les États membres ont la faculté de prévoir une exception ou une limitation au droit de reproduction en vertu des paragraphes 2 et 3, ils peuvent également prévoir une exception ou limitation au droit de distribution visé à l'article 4, dans la mesure où celle-ci est justifiée par le but de la reproduction autorisée.\n\n5. Les exceptions et limitations prévues aux paragraphes 1, 2, 3 et 4 ne sont applicables que dans certains cas spéciaux qui ne portent pas atteinte à l'exploitation normale de l'œuvre ou autre objet protégé ni ne causent un préjudice injustifié aux intérêts légitimes du titulaire du droit.",
+      "text_sha256": "447818c252d5f8b655ecea1eeb3bd17ed45c5dbec2722cdf798e4cccf7273ee1",
+      "md_span": {
+        "start": 4154,
+        "end": 11418
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L0790",
+          "text": "32019L0790: REPLACED"
+        },
+        {
+          "href": "#E0001",
+          "text": "1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32001L0029",
+          "text": "32001L0029"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32017L1564",
+          "text": "32017L1564: REPLACED"
+        },
+        {
+          "href": "#E0002",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32001l0029:2019-06-06#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Obligations relatives aux mesures techniques",
+      "path": [
+        "CHAPITRE III",
+        "**PROTECTION DES MESURES TECHNIQUES ET INFORMATION SUR LE RÉGIME DES DROITS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres prévoient une protection juridique appropriée contre le contournement de toute mesure technique efficace, que la personne effectue en sachant, ou en ayant des raisons valables de penser, qu'elle poursuit cet objectif.\n\n2. Les États membres prévoient une protection juridique appropriée contre la fabrication, l'importation, la distribution, la vente, la location, la publicité en vue de la vente ou de la location, ou la possession à des fins commerciales de dispositifs, produits ou composants ou la prestation de services qui:\n\na) font l'objet d'une promotion, d'une publicité ou d'une commercialisation, dans le but de contourner la protection, ou\n\nb) n'ont qu'un but commercial limité ou une utilisation limitée autre que de contourner la protection, ou\n\nc) sont principalement conçus, produits, adaptés ou réalisés dans le but de permettre ou de faciliter le contournement de la protection\n\nde toute mesure technique efficace.\n\n3. Aux fins de la présente directive, on entend par «mesures techniques», toute technologie, dispositif ou composant qui, dans le cadre normal de son fonctionnement, est destiné à empêcher ou à limiter, en ce qui concerne les œuvres ou autres objets protégés, les actes non autorisés par le titulaire d'un droit d'auteur ou d'un droit voisin du droit d'auteur prévu par la loi, ou du droit sui generis prévu au chapitre III de la directive 96/9/CE. Les mesures techniques sont réputées efficaces lorsque l'utilisation d'une œuvre protégée, ou celle d'un autre objet protégé, est contrôlée par les titulaires du droit grâce à l'application d'un code d'accès ou d'un procédé de protection, tel que le cryptage, le brouillage ou toute autre transformation de l'œuvre ou de l'objet protégé ou d'un mécanisme de contrôle de copie qui atteint cet objectif de protection.\n\n4. Nonobstant la protection juridique prévue au paragraphe 1, en l'absence de mesures volontaires prises par les titulaires de droits, y compris les accords entre titulaires de droits et d'autres parties concernées, les États membres prennent des mesures appropriées pour assurer que les bénéficiaires des exceptions ou limitations prévues par le droit national conformément à l'article 5, paragraphe 2, points a), c), d) et e), et à l'article 5, paragraphe 3, points a), b) ou e), puissent bénéficier desdites exceptions ou limitations dans la mesure nécessaire pour en bénéficier lorsque le bénéficiaire a un accès licite à l'œuvre protégée ou à l'objet protégé en question.\n\nUn État membre peut aussi prendre de telles mesures à l'égard du bénéficiaire d'une exception ou limitation prévue conformément à l'article 5, paragraphe 2, point b), à moins que la reproduction à usage privé ait déjà été rendue possible par les titulaires de droits dans la mesure nécessaire pour bénéficier de l'exception ou de la limitation concernée et conformément aux dispositions de l'article 5, paragraphe 2, point b), et de l'article 5, paragraphe 5, sans empêcher les titulaires de droits d'adopter des mesures adéquates en ce qui concerne le nombre de reproductions conformément à ces dispositions.\n\nLes mesures techniques appliquées volontairement par les titulaires de droits, y compris celles mises en œuvre en application d'accords volontaires, et les mesures techniques mises en œuvre en application des mesures prises par les États membres, jouissent de la protection juridique prévue au paragraphe 1.\n\nLes dispositions des premier et deuxième alinéas ne s'appliquent pas aux œuvres ou autres objets protégés qui sont mis à la disposition du public à la demande selon les dispositions contractuelles convenues entre les parties de manière que chacun puisse y avoir accès de l'endroit et au moment qu'il choisit individuellement.\n\nLorsque le présent article est appliqué dans le cadre des directives 92/100/CEE et 96/9/CE, le présent paragraphe s'applique mutatis mutandis.",
+      "text_sha256": "f2e0871e09134c2d8cf8eda8982df8a7065aa7796ed064ff84b00f3c7c10194c",
+      "md_span": {
+        "start": 11602,
+        "end": 15489
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32001l0029:2019-06-06#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Obligations relatives à l'information sur le régime des droits",
+      "path": [
+        "CHAPITRE III",
+        "**PROTECTION DES MESURES TECHNIQUES ET INFORMATION SUR LE RÉGIME DES DROITS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres prévoient une protection juridique appropriée contre toute personne qui accomplit sciemment, sans autorisation, l'un des actes suivants:\n\na) supprimer ou modifier toute information relative au régime des droits se présentant sous forme électronique;\n\nb) distribuer, importer aux fins de distribution, radiodiffuser, communiquer au public ou mettre à a disposition des œuvres ou autres objets protégés en vertu de la présente directive ou du chapitre III de la directive 96/9/CE et dont les informations sur le régime des droits se présentant sous forme électronique ont été supprimées ou modifiées sans autorisation,\n\nen sachant ou en ayant des raisons valables de penser que, ce faisant, elle entraîne, permet, facilite ou dissimule une atteinte à un droit d'auteur ou droit voisin du droit d'auteur prévu par la loi, ou au droit sui generis prévu au chapitre III de la directive 96/9/CE.\n\n2. Aux fins de la présente directive, on entend par «information sur le régime des droits» toute information fournie par des titulaires de droits qui permet d'identifier l'œuvre ou autre objet protégé visé par la présente directive ou couvert par le droit sui generis prévu au chapitre III de la directive 96/9/CE, l'auteur ou tout autre titulaire de droits. Cette expression désigne aussi les informations sur les conditions et modalités d'utilisation de l'œuvre ou autre objet protégé ainsi que tout numéro ou code représentant ces informations.\n\nLe premier alinéa s'applique lorsque l'un quelconque de ces éléments d'information est joint à la copie ou apparaît en relation avec la communication au public d'une œuvre ou d'un objet protégé visé par la présente directive ou couvert par le droit sui generis prévu au chapitre III de la directive 96/9/CE.",
+      "text_sha256": "51e5396d87af8e493d214a02509359eebde8e41f3c5760a9b6b837308766c42e",
+      "md_span": {
+        "start": 15591,
+        "end": 17359
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32001l0029:2019-06-06#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Sanctions et voies de recours",
+      "path": [
+        "CHAPITRE IV",
+        "**DISPOSITIONS COMMUNES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres prévoient des sanctions et des voies de recours appropriées contre les atteintes aux droits et obligations prévus par la présente directive et prennent toutes les mesures nécessaires pour en garantir l'application. Ces sanctions sont efficaces, proportionnées et dissuasives.\n\n2. Chaque État membre prend les mesures nécessaires pour faire en sorte que les titulaires de droits dont les intérêts sont lésés par une infraction commise sur son territoire puissent intenter une action en dommages-intérêts et/ou demander qu'une ordonnance sur requête soit rendue ainsi que, le cas échéant, demander la saisie du matériel concerné par l'infraction ainsi que des dispositifs, produits ou composants visés à l'article 6, paragraphe 2.\n\n3. Les États membres veillent à ce que les titulaires de droits puissent demander qu'une ordonnance sur requête soit rendue à l'encontre des intermédiaires dont les services sont utilisés par un tiers pour porter atteinte à un droit d'auteur ou à un droit voisin.",
+      "text_sha256": "65072c12665562bd4df80d16f50b48aed34f02ccbe003a09fbe8e8023e1a12f2",
+      "md_span": {
+        "start": 17475,
+        "end": 18489
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32001l0029:2019-06-06#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Maintien d'autres dispositions",
+      "path": [
+        "CHAPITRE IV",
+        "**DISPOSITIONS COMMUNES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "La présente directive n'affecte pas les dispositions concernant notamment les brevets, les marques, les dessins et modèles, les modèles d'utilité, les topographies des semi-conducteurs, les caractères typographiques, l'accès conditionnel, l'accès au câble des services de radiodiffusion, la protection des trésors nationaux, les exigences juridiques en matière de dépôt légal, le droit des ententes et de la concurrence déloyale, le secret des affaires, la sécurité, la confidentialité, la protection des données personnelles et le respect de la vie privée, l'accès aux documents publics et le droit des contrats.",
+      "text_sha256": "e8468d0f4bae447cb8dbf0e647ffd848fdd843217fef8ef574e701c2bca878c2",
+      "md_span": {
+        "start": 18559,
+        "end": 19172
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32001l0029:2019-06-06#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Application dans le temps",
+      "path": [
+        "CHAPITRE IV",
+        "**DISPOSITIONS COMMUNES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les dispositions de la présente directive s'appliquent à toutes les œuvres et à tous les autres objets protégés visés par la présente directive qui, le 22 décembre 2002, sont protégés par la législation des États membres dans le domaine du droit d'auteur et des droits voisins, ou qui remplissent les critères de protection en application des dispositions de la présente directive ou des directives visées à l'article 1er, paragraphe 2.\n\n2. La présente directive s'applique sans préjudice des actes conclus et des droits acquis avant le 22 décembre 2002.",
+      "text_sha256": "07a66c48b59ac7d6c38f35493f2d38c2c6f207c5f5823deaaaaad8cf00d4e28e",
+      "md_span": {
+        "start": 19239,
+        "end": 19796
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32001l0029:2019-06-06#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Adaptations techniques",
+      "path": [
+        "CHAPITRE IV",
+        "**DISPOSITIONS COMMUNES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La directive 92/100/CEE est modifiée comme suit:\n\na) l'article 7 est supprimé;\n\nb) à l'article 10, le paragraphe 3 est remplacé par le texte suivant:\n\n«3. Les limitations ne sont applicables que dans certains cas spéciaux qui ne portent pas atteinte à l'exploitation normale de l'objet protégé ni ne causent un préjudice injustifié aux intérêts légitimes du titulaire du droit.»\n\n2. À l'article 3 de la directive 93/98/CEE, le paragraphe 2 est remplacé par le texte suivant:\n\n«2. Les droits des producteurs de phonogrammes expirent cinquante ans après la fixation. Toutefois, si le phonogramme a fait l'objet d'une publication licite pendant cette période, les droits expirent cinquante ans après la date de la première publication licite. En l'absence de publication licite au cours de la période visée à la première phrase, et si le phonogramme a fait l'objet d'une communication licite au public pendant cette période, les droits expirent cinquante ans après la date de la première communication licite au public.\n\nCependant, si les droits des producteurs de phonogrammes, par expiration de la durée de la protection qui leur était reconnue en vertu du présent paragraphe dans sa version antérieure à la modification par la directive 2001/29/CE du Parlement européen et du Conseil du 22 mai 2001 sur l'harmonisation de certains aspects du droit d'auteur et des droits voisins dans la société de l'information (*1) ne sont plus protégés le 22 décembre 2002, ce paragraphe ne peut avoir pour effet de protéger ces droits à nouveau.",
+      "text_sha256": "f1a9b7063ed2a0ad8d1af8d68e6f0c509ad507bb71690aee7fada237bc1aa00e",
+      "md_span": {
+        "start": 19860,
+        "end": 21395
+      },
+      "citations": [
+        {
+          "href": "#E0003",
+          "text": "*1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32001l0029:2019-06-06#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Dispositions finales",
+      "path": [
+        "CHAPITRE IV",
+        "**DISPOSITIONS COMMUNES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Au plus tard le 22 décembre 2004, et ultérieurement tous les trois ans, la Commission transmet au Parlement européen, au Conseil et au Comité économique et social un rapport sur l'application de la présente directive, dans lequel, entre autres, sur la base d'informations spécifiques fournies par les États membres, elle examine en particulier l'application de l'article 5, de l'article 6 et de l'article 8 à la lumière du développement du marché numérique. En ce qui concerne l'article 6, elle examine en particulier si cet article confère un niveau suffisant de protection et si des actes permis par la loi sont affectés par l'utilisation de mesures techniques efficaces. Elle présente, si cela est nécessaire en particulier pour assurer le fonctionnement du marché intérieur conformément à l'article 14 du traité, des propositions visant à modifier la présente directive.\n\n2. La protection des droits voisins prévue par la présente directive laisse intacte et n'affecte en aucune façon la protection du droit d'auteur.\n\n3. Un comité de contact est institué. Il est composé de représentants des autorités compétentes des États membres. Il est présidé par un représentant de la Commission et se réunit soit à l'initiative de celui-ci soit à la demande de la délégation d'un État membre.\n\n4. Le comité aura pour tâche:\n\na) d'examiner les effets de la présente directive sur le fonctionnement du marché intérieur et de signaler les problèmes éventuels;\n\nb) d'organiser des consultations sur toute question découlant de l'application de la présente directive;\n\nc) de faciliter l'échange d'informations sur les évolutions pertinentes de la réglementation et de la jurisprudence ainsi que dans le domaine économique, social, culturel et technologique;\n\nd) de fonctionner comme un forum d'évaluation du marché numérique des œuvres et des autres objets, y compris la copie privée et l'usage de mesures techniques;\n\ne) d'étudier l'incidence de la transposition de la directive (UE) 2019/790 sur le fonctionnement du marché intérieur et de mettre en lumière toute difficulté de transposition;\n\nf) de faciliter l'échange d'informations sur les évolutions législatives et jurisprudentielles pertinentes ainsi que sur l'application pratique des mesures prises par les États membres pour mettre en œuvre la directive (UE) 2019/790;\n\ng) d'examiner toutes les autres questions suscitées par l'application de la directive (UE) 2019/790.",
+      "text_sha256": "d80056d8348e78f452749547eb53ac8bf843516e083d9486c957c6d03411dd83",
+      "md_span": {
+        "start": 21457,
+        "end": 23881
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L0790",
+          "text": "32019L0790: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32001L0029",
+          "text": "32001L0029"
+        }
+      ]
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32001l0029:2019-06-06#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Mise en œuvre",
+      "path": [
+        "CHAPITRE IV",
+        "**DISPOSITIONS COMMUNES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le 22 décembre 2002. Ils en informent immédiatement la Commission.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les États membres communiquent le texte des dispositions de droit interne qu'ils adoptent dans le domaine régi par la présente directive.",
+      "text_sha256": "8f5adcdde9fe2a2a6b185f5de05cec0058143431f962c4f0b028ab473e1cd2e5",
+      "md_span": {
+        "start": 23936,
+        "end": 24580
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32001l0029:2019-06-06#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Entrée en vigueur",
+      "path": [
+        "CHAPITRE IV",
+        "**DISPOSITIONS COMMUNES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "La présente directive entre en vigueur le jour de sa publication au *Journal officiel des Communautés européennes*.",
+      "text_sha256": "89ca26fd92a6a7273f9b41c22780bfd4a6b09273c9373b984276fc2d954a7ea0",
+      "md_span": {
+        "start": 24639,
+        "end": 24754
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32001l0029:2019-06-06#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Destinataires",
+      "path": [
+        "CHAPITRE IV",
+        "**DISPOSITIONS COMMUNES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres sont destinataires de la présente directive.\n\n(1) Directive (UE) 2019/790 du Parlement européen et du Conseil du 17 avril 2019 sur le droit d'auteur et les droits voisins dans le marché unique numérique et modifiant les directives 96/9/CE et 2001/29/CE (JO L 130 du 17.5.2019, p. 92).\n\n(2) Directive (UE) 2017/1564 du Parlement européen et du Conseil du 13 septembre 2017 sur certaines utilisations autorisées de certaines œuvres et d'autres objets protégés par le droit d'auteur et les droits voisins en faveur des aveugles, des déficients visuels et des personnes ayant d'autres difficultés de lecture des textes imprimés et modifiant la directive 2001/29/CE sur l'harmonisation de certains aspects du droit d'auteur et des droits voisins dans la société de l'information (JO L 242 du 20.9.2017, p. 6).\n\n(*1) JO L 167 du 22.6.2001, p. 10.»",
+      "text_sha256": "74efe0c1924241139ee66c00b26e2d4ac99e1797a915f266619be09ed88310e5",
+      "md_span": {
+        "start": 24809,
+        "end": 25668
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "*1"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

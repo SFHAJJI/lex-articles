@@ -1,0 +1,185 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r0931:2025-05-25",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2021/931 of 1\u00A0March 2021 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2025-05-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r0931/versions/2025-05-25/en.html",
+    "sha256": "fd544ce1e4a32c2d6761abff2e7f3a6cc5adb1c7b33407cce88caa24642ace79",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021R0931-20250525"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r0931:2025-05-25#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Method for identifying the risk drivers of a derivative transaction",
+      "path": [
+        "CHAPTER 1 — Method for identifying transactions with only one material risk driver, transactions with more than one material risk driver and for identifying the most material of those risk drivers"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** For the purpose of identifying transactions with only one material risk driver and transactions with more than one material risk driver, institutions shall, at inception of each transaction, identify all the risk drivers of the transaction by determining the risk factors on which the cash flows of that transaction depend, having regard to at least the risk factors referred to in Articles 325l to 325q of Regulation (EU) No 575/2013. The risk factors identified by the institutions shall be the risk drivers of the transaction.\n\n**2.** Institutions shall not consider as risk drivers of a transaction the interest rate risk factors used to discount the cash flows of the transaction.",
+      "text_sha256": "a4c8bab95b9852418a58dea91570aa619e631bbe0fc9fa4a85c63d486c54fcc7",
+      "md_span": {
+        "start": 932,
+        "end": 1624
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r0931:2025-05-25#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Method for identifying transactions with only one material risk driver",
+      "path": [
+        "CHAPTER 1 — Method for identifying transactions with only one material risk driver, transactions with more than one material risk driver and for identifying the most material of those risk drivers"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** After the identification of all the risk drivers of a transaction in accordance with Article 1, institutions shall, at inception of each transaction, identify transactions with only one material risk driver by applying the following:(a) where the cash flows of the transaction depend exclusively on one risk driver that belongs to one of the risk categories referred to in Article 277(1) of Regulation (EU) No 575/2013, institutions shall identify that risk driver as the only material risk driver of that transaction;(b) where the cash flows of the transaction depend on more than one risk driver and where institutions have identified only one risk driver of that transaction as material in accordance with either the method laid down in Article 4(3) or the method laid down in Article 4(4), institutions shall identify that risk driver as the only material risk driver of that transaction.\n\n**2.** By way of derogation from paragraph 1, for cross-currency interest-rate swaps as referred to in point 2(a) of Annex II to Regulation (EU) No 575/2013, institutions may identify the foreign exchange risk driver as the only material risk driver of the transaction.",
+      "text_sha256": "5e9cf30dc1a9fd43bfbca00fea737ddc0e036abeca2e7bf70a50639b83d8cbd2",
+      "md_span": {
+        "start": 1734,
+        "end": 2904
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32021r0931:2025-05-25#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Method for identifying transactions with more than one material risk driver",
+      "path": [
+        "CHAPTER 1 — Method for identifying transactions with only one material risk driver, transactions with more than one material risk driver and for identifying the most material of those risk drivers"
+      ],
+      "article_valid_from": null,
+      "text_md": "For the purposes of Article 277(3) of Regulation (EU) No 575/2013, institutions shall identify all transactions other than those referred to in Article 2 as transactions with more than one material risk driver.",
+      "text_sha256": "dfabfa41bf49a1dce59b52c0b5c5834b3866b50ef6c3d764c58beb32f44dfe3f",
+      "md_span": {
+        "start": 3019,
+        "end": 3229
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32021r0931:2025-05-25#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Method for identifying the material risk drivers and the most material of those risk drivers",
+      "path": [
+        "CHAPTER 1 — Method for identifying transactions with only one material risk driver, transactions with more than one material risk driver and for identifying the most material of those risk drivers"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** After identification of all the risk drivers of a transaction in accordance with Article 1 and where the cash flows of the transaction depend on more than one risk driver, institutions shall identify the material risk drivers and the most material of those risk drivers by applying one of the methods laid down in paragraphs 2, 3 and 4, as appropriate.\n\n**2.** Institutions shall apply the following steps at inception of the transaction:(a) they shall consider all the risk drivers of the transaction identified in accordance with the procedure referred to in Article 1 to be material risk drivers;(b) for each risk category corresponding to those material risk drivers, they shall identify as the most material risk driver the risk driver corresponding to the highest risk category add-on from those referred to in Articles 280a to 280f of Regulation (EU) No 575/2013.\n\n**3.** Institutions shall apply the following steps at inception of the transaction, and then at least on a quarterly basis:(a) they shall calculate the delta risk sensitivities in accordance with Article 325r of Regulation (EU) No 575/2013 for each risk driver identified in accordance with Article 1 of this Regulation;(b) they shall calculate the weighted sensitivities in accordance with the formula laid down in Article 325f(6) of that Regulation based on the sensitivities calculated in accordance with point (a);(c) for each of the risk categories referred to in Article 277(1) of that Regulation, they shall calculate the risk class specific own funds requirement for market risk in accordance with the formula laid down in Article 325f(8) of that Regulation, based on all the weighted sensitivities referred to in point (b) of risk drivers that have been assigned to that risk category;(d) they shall rank all the risk class specific own funds requirements for market risk referred to in point (c) from the greatest to the smallest in absolute terms, in order to obtain a monotonically decreasing sequence of entries, where the entry *a1* is the greatest absolute term, *a2* is the second greatest term and so on;(e) they shall, for each entry *ai* calculated and ranked in accordance with point (d) and in the order resulting from their ranking, verify whether the following condition is met:where:*i =* the index that denotes the risk categories referred to in Article 277(1) of Regulation (EU) No 575/2013, ranked in accordance with point (d) and in the order resulting from that ranking;*Y*% = 60%;(f) they shall consider as material:(i) the risk drivers that correspond to the risk categories for which the condition laid down in point (e) of this paragraph is met;(ii) the risk drivers that correspond to the first risk category for which that condition is not met;(g) they shall, for each of the risk categories that correspond to risk drivers that are not material in accordance with point (f), verify whether the following condition is met by the corresponding entry *ai*:where:*i =* the index that denotes the risk categories referred to in Article 277(1) of Regulation (EU) No 575/2013, ranked in accordance with point (d) and in the order resulting from that ranking, and that correspond to risk drivers that are not material in accordance with point (f);*Z*% = 30 %;(h) in addition to the material risk drivers identified in accordance with point (f), they shall also consider as material risk drivers those risk drivers that correspond to the risk categories for which the condition laid down in point (g) is met;(i) for each of the risk categories referred to in points (f) and (h), they shall consider as the most material risk driver for that risk category the risk driver corresponding to the highest absolute value of the weighted sensitivities referred to in point (b).\n\n**4.** Institutions that either meet the conditions set out in Article 94(1) of Regulation (EU) No 575/2013, or meet the conditions set out in Article 325a(1) of that Regulation, may identify the most material risk driver by applying the following steps at inception of the transaction, and then at least on a quarterly basis:▼B(a) they shall calculate the risk category add-ons as referred to in Articles 280a to 280f of Regulation (EU) No 575/2013, as applicable, for each risk driver identified in accordance with Article 1. Where more than one risk driver identified in accordance with Article 1 have been assigned to the same risk category, institutions shall keep for the application of point (b) the risk driver in that risk category corresponding to the highest risk category add-on in that risk category;(b) they shall apply the steps laid down in paragraph 3, points (d) to (h), where the entries used in those steps shall be based on the risk category add-ons calculated in accordance with point (a) of this paragraph;(c) they shall identify as the most material risk drivers in the relevant risk categories the material risk drivers identified as a result of the method referred to in point (b).",
+      "text_sha256": "ac8faf1f8366391a76430b089fdd1898d18bd14bacbd1868fbb6c7624b2780a7",
+      "md_span": {
+        "start": 3361,
+        "end": 8347
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32025R0855",
+          "text": "32025R0855: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R0931",
+          "text": "▼B"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32021r0931:2025-05-25#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Formula to calculate the supervisory delta of call and put options mapped to the interest rate risk category and supervisory volatility suitable for such formula",
+      "path": [
+        "CHAPTER 2 — Formula to be used to calculate the supervisory delta of call and put options mapped to the interest rate risk category and supervisory volatility suitable for that formula and method for determining whether a transaction is a long or short position in the primary risk driver or in the most material risk driver in a given risk category"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Institutions shall calculate the supervisory delta (δ) of call and put options, when mapped to the interest rate risk or the commodity risk categories, that is compatible with market conditions in which interest rates or commodity prices may be negative, as follows:▼Bwhere:*N*(*x*) = the cumulative distribution function for a standard normal random variable which reflects the probability that a normal random variable with mean zero and variance of one is less than or equal to ‘x’;*P* = the spot or forward price of the underlying instrument of the option;*K* = the strike price of the option;*T* = the expiry date of the option, expressed in years using the relevant business day convention;*λ* = the shift adequate to move both *P* and *K* into positive territory, determined in accordance with paragraph 2;*σ* = the supervisory volatility of the option determined in accordance with paragraph 3.\n\n**2.** For the purposes of paragraph 1, institutions shall calculate the shift (λ) for any call and put options as follows:*λ**j*=max{*threshold**j* – min{*P**j*, *K**j*}, 0} if option *j* is mapped to the interest rate risk category;max{ – (1 + *threshold**j*)■min{*P**j*, *K**j*}, 0} if option *j* is mapped to the commodity risk category.\n\nwhere:\n\n| *P**j* | = | the spot or forward price of the underlying instrument of the option *j*; |\n| --- | --- | --- |\n\n| *K**j* | = | the strike price of the option *j*; |\n| --- | --- | --- |\n\n| *threshold**j*= | 0,10 *%*, if option *j* is mapped to the interest rate risk category; |\n| --- | --- |\n| *threshold**j*= |  |\n| 0,1, if option *j* is mapped to the commodity risk category. |  |\n\n**3.** For the purposes of paragraph 1, institutions shall determine the supervisory volatility of the option on the basis of the risk category of the transaction and the nature of the underlying instrument of the option in accordance with the following table:▼M1*Table*Risk categoryUnderlying instrumentSupervisory volatilityInterest rateAll50 %CommodityElectricity150 %Other commodities (excluding electricity)70 %▼B",
+      "text_sha256": "5d184f38be69847b2135de12914ab67e108880d3160f547557d54d7f8f61a161",
+      "md_span": {
+        "start": 8902,
+        "end": 10966
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32025R0855",
+          "text": "32025R0855: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R0931",
+          "text": "▼B"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R0931",
+          "text": "32021R0931"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32025R0855",
+          "text": "▼M1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32021r0931:2025-05-25#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Methods for determining whether a transaction is a long or short position in the primary risk driver or in the most material risk driver in a given risk category",
+      "path": [
+        "CHAPTER 2 — Formula to be used to calculate the supervisory delta of call and put options mapped to the interest rate risk category and supervisory volatility suitable for that formula and method for determining whether a transaction is a long or short position in the primary risk driver or in the most material risk driver in a given risk category"
+      ],
+      "article_valid_from": null,
+      "text_md": "Institutions shall determine whether a transaction is a long or short position in the primary risk driver or in the most material risk driver in a given risk category by applying either of the following methods:\n\n(a) they shall calculate the delta risk sensitivities of those risk drivers in accordance with Article 325r of Regulation (EU) No 575/2013 and identify the transaction as a long position in a risk driver where the corresponding delta risk sensitivity is positive or as a short position where the corresponding delta risk sensitivity is negative;\n\n(b) they shall assess the dependence of the structure of cash flows of the transactions on that risk driver or the hedging purpose of the transaction with respect to that risk driver and identify the transaction as either long or short position on the basis of that assessment.",
+      "text_sha256": "72e25091f9e2435e759631c3f6899d2c5e0e0b9f9c7550dbd541d81172026afb",
+      "md_span": {
+        "start": 11167,
+        "end": 12004
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32021r0931:2025-05-25#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Entry into force",
+      "path": [
+        "CHAPTER 2 — Formula to be used to calculate the supervisory delta of call and put options mapped to the interest rate risk category and supervisory volatility suitable for that formula and method for determining whether a transaction is a long or short position in the primary risk driver or in the most material risk driver in a given risk category"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+      "md_span": {
+        "start": 12060,
+        "end": 12202
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

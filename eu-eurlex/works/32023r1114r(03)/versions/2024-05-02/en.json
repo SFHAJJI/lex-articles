@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r1114r(03):2024-05-02",
+  "language": "en",
+  "title": "Corrigendum to Regulation (EU) 2023/1114",
+  "valid_from": "2024-05-02",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r1114r(03)/versions/2024-05-02/en.xml",
+    "sha256": "6b058e7b7e86924defd562a997fc1ac266bda4eb9f81ccee84740c259fcfde2d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1114R%2803%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32023r1114r(03):2024-05-02#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Official Journal of the European Union EN L series 2024/90275 2.5.2024 Corrigendum to Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 ( Official Journal of the European Union L 150 of 9 June 2023 ) 1. On page 104, Article 45(4), first subparagraph: for: ‘Issuers of significant asset-referenced tokens shall, on a regular basis, conduct liquidity stress testing. Depending on the outcome of such tests, EBA may decide to strengthen the liquidity requirements referred to in paragraph 7, first subparagraph, point (b), of this Article and in Article 36(6). ’, read: ‘Issuers of significant asset-referenced tokens shall, on a regular basis, conduct liquidity stress testing. Depending on the outcome of such tests, EBA may decide to strengthen the liquidity requirements referred to in paragraph 7, first subparagraph, point (b), of this Article and in Article 36(4).’. 2. On page 137, Article 81(15), point (a): for: ‘(a) the criteria for the assessment of client’s knowledge and competence in accordance with paragraph 2;’, read: ‘(a) the criteria for the assessment of knowledge and competence in accordance with paragraph 7;’. 3. On page 144, Article 92(2): for: ‘2. ESMA shall develop draft regulatory technical standards to further specify: (a) appropriate arrangements, systems and procedures for persons to comply with paragraph 1; (b) the template to be used by persons to comply with paragraph 1; (c) for cross-border market abuse situations, coordination procedures between the relevant competent authorities for the detection and sanctioning of market abuse. ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 December 2024. ’, read: ‘2. ESMA shall develop draft regulatory technical standards to further specify: (a) appropriate arrangements, systems and procedures for persons to comply with paragraph 1; (b) the template to be used by persons to comply with paragraph 1; (c) for cross-border market abuse situations, coordination procedures between the relevant competent authorities for the detection and sanctioning of market abuse. ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 December 2024. Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010. ’. 4. On page 158, Article 111(1), third subparagraph: for: ‘By 30 June 2024, Member States shall notify to the Commission, EBA and ESMA, in detail, the rules referred to in the first and second subparagraphs. They shall also notify the Commission, ESMA and EBA without delay of any subsequent amendment thereto. ’, read: ‘By 30 June 2025, Member States shall notify to the Commission, EBA and ESMA, in detail, the rules referred to in the first and second subparagraphs. They shall also notify the Commission, ESMA and EBA without delay of any subsequent amendment thereto. ’. ELI: http://data.europa.eu/eli/reg/2023/1114/corrigendum/2024-05-02/oj ISSN 1977-0677 (electronic edition)",
+      "text_sha256": "d732ad9cc321eef26e8c77452607b0b40ee9431eebce031ceabe68c26eea53ca",
+      "md_span": {
+        "start": 612,
+        "end": 3969
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

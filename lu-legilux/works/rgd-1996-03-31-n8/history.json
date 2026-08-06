@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -60,5 +61,66 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2016-12-25",
+          "valid_to": null,
+          "text_sha256": "50329049dd6f41077786c2acbc00b1659926eff8db75bb95a7676e1eacd6ab16",
+          "in_version": "lu-legilux:rgd-1996-03-31-n8:2016-12-25",
+          "article_valid_from": "2016-12-25"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2016-12-25",
+          "valid_to": null,
+          "text_sha256": "ba0271a0b785d61bd1559fa957953177fd4a24f3bdecc55b6cbbed379627e521",
+          "in_version": "lu-legilux:rgd-1996-03-31-n8:2016-12-25",
+          "article_valid_from": "2016-12-25"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2016-12-25",
+          "valid_to": null,
+          "text_sha256": "b39f1eb303c07c94e9c8f7b51df2ded25f0c776d301e1714426ac0480ce549ae",
+          "in_version": "lu-legilux:rgd-1996-03-31-n8:2016-12-25",
+          "article_valid_from": "2016-12-25"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2016-12-25",
+          "valid_to": null,
+          "text_sha256": "b54eacd3a27fae5378d719b30c1c7d5a360d3459895d7e0aa21871240a4b54b5",
+          "in_version": "lu-legilux:rgd-1996-03-31-n8:2016-12-25",
+          "article_valid_from": "2016-12-25"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2016-12-25",
+          "valid_to": null,
+          "text_sha256": "743ed8a6a2836d21b3743790b5ccd59daf24f00602567cbeac6c1be284627035",
+          "in_version": "lu-legilux:rgd-1996-03-31-n8:2016-12-25",
+          "article_valid_from": "2016-12-25"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2016-12-25",
+          "valid_to": null,
+          "text_sha256": "ff287d26ba93a801a208f25ce43fea91279e0e925464211a955558864052778e",
+          "in_version": "lu-legilux:rgd-1996-03-31-n8:2016-12-25",
+          "article_valid_from": "2016-12-25"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

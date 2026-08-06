@@ -1,0 +1,116 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r2441:2023-10-31",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2023/2441 of 31\u00A0October 2023 laying down rules for the application of Directive\u00A02003/87/EC",
+  "valid_from": "2023-10-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r2441/versions/2023-10-31/en.xml",
+    "sha256": "851b637fe04153e765b46e1a049a4ac1eff812e64d523429454c53ee64a45e83",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2441"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r2441:2023-10-31#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation lays down the content and format of climate-neutrality plans as referred to in Article 10a(1), fifth subparagraph, and in Article 10b(4) of Directive 2003/87/EC.",
+      "text_sha256": "8e522ed2e0d0b4976512e9f7dd28980aa6b3002ef985ed7b43afa07c3a9f0b99",
+      "md_span": {
+        "start": 675,
+        "end": 863
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r2441:2023-10-31#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nFor the purposes of this Regulation, the following definitions shall apply:\n\n| (1) | ‘district heating company’ means a company that operates installations the main economic activities of which are classified according to the NACE codes referred to in Regulation (EC) No 1893/2006 of the European Parliament and of the Council (9) as either steam and air conditioning supply, or production of electricity combined with the export of district heating. |\n| --- | --- |\n\n| (2) | ‘milestones’ means qualitative indicators of progress towards the achievement of a measure or investment to reach climate neutrality objective by 2050 as described in Article 2 of Regulation (EU) 2021/1119 at installation level or optionally at company level for operators of district heating, pursuant to Article 10a(1), fifth subparagraph and Article 10b(4), third subparagraph of Directive 2003/87/EC, excluding the use of carbon offset credits; |\n| --- | --- |\n\n| (3) | ‘targets’ means quantitative indicators of progress towards the achievement of a measure or investment to reach climate neutrality by 2050 as described in Article 2 of Regulation (EU) 2021/1119 at installation level or optionally at company level for operators of district heating, pursuant to Article 10a(1), fifth subparagraph and Article 10b(4), third subparagraph of Directive 2003/87/EC, excluding the use of carbon offset credits; |\n| --- | --- |\n\n| (4) | ‘intermediate targets and milestones’ means targets and milestones set for 31 December 2025 and for 31 December of each fifth year thereafter. |\n| --- | --- |",
+      "text_sha256": "2ba317ebeb5715a8630de42ec605532f614419bc7bfda8069f2ccddcb4ddefc3",
+      "md_span": {
+        "start": 896,
+        "end": 2477
+      },
+      "citations": [
+        {
+          "href": "#ntr9-L_202302441EN.000101-E0009",
+          "text": "(9)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32023r2441:2023-10-31#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. The climate-neutrality plans shall contain the elements listed in the Annex. Those plans shall be duly reasoned and substantiated.\n\n2. The measures, milestones and targets, including intermediate milestones and targets shall be specific, measurable, achievable, relevant and time-bound.",
+      "text_sha256": "4d9c8a8ffa611ca276eb0fa1226d743a0b12bab7b8677bd87b8db2a84bb8a494",
+      "md_span": {
+        "start": 2510,
+        "end": 2810
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32023r2441:2023-10-31#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. The Commission shall make available an electronic template or specific file format for providing the information as specified in the Annex.\n\n2. Operators shall use the electronic template or specific file format referred to in paragraph 1 to establish and submit the climate-neutrality plan.\n\n3. By way of derogation from paragraph 2, Member States may require operators to use electronic templates or specific file formats developed by those Member States for establishing and submitting climate-neutrality plans in accordance with delegated acts adopted pursuat to Article 10a(1), first subparagraph, of Directive 2003/87/EC.",
+      "text_sha256": "545a45af9f9a09210aaa2dfa79a368a232cacf1cddd0c5a888d5a6eb3cf8a03c",
+      "md_span": {
+        "start": 2843,
+        "end": 3484
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32023r2441:2023-10-31#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "80138b582df404d1030db3a74fc8e7cecf3799549ce0d411861a09d8ebdf3c93",
+      "md_span": {
+        "start": 3517,
+        "end": 3668
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

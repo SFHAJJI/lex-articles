@@ -1,0 +1,281 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015l2392:2015-12-17",
+  "language": "en",
+  "title": "Commission Implementing Directive (EU) 2015/2392 of 17 December 2015 on Regulation (EU) No 596/2014",
+  "valid_from": "2015-12-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015l2392/versions/2015-12-17/en.xml",
+    "sha256": "ff86e7efb1eb199b817278caa2b3eaf13551142b93dee30b6db41d4624bac898",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015L2392"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015l2392:2015-12-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Directive lays down rules specifying the procedures set out in Article 32(1) of Regulation (EU) No 596/2014, including the arrangements for reporting and for following-up reports, and measures for the protection of persons working under a contract of employment and measures for the protection of personal data.",
+      "text_sha256": "52f62f8e7adebf3e7392cd55e005996817500232ed3cc2b9592db382d9e8c83e",
+      "md_span": {
+        "start": 644,
+        "end": 971
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015l2392:2015-12-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nFor the purposes of this Directive, the following definitions shall apply:\n\n| (1) | ‘reporting person’ means a person reporting an actual or potential infringement of Regulation (EU) No 596/2014 to the competent authority; |\n| --- | --- |\n\n| (2) | ‘reported person’ means a person who is accused of having committed, or intending to commit, an infringement of Regulation (EU) No 596/2014 by the reporting person; |\n| --- | --- |\n\n| (3) | ‘report of infringement’ means a report submitted by the reporting person to the competent authority regarding an actual or potential infringement of Regulation (EU) No 596/2014. |\n| --- | --- |",
+      "text_sha256": "1209dac1501ce020aac5b3db242a639f25af43760e9c8be6bd8b751b6b0e3eaa",
+      "md_span": {
+        "start": 1004,
+        "end": 1647
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32015l2392:2015-12-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Member States shall ensure that competent authorities have staff members dedicated to handling reports of infringements (‘dedicated staff members’). Dedicated staff members shall be trained for the purposes of handling reports of infringements.\n\n2. Dedicated staff members shall exercise the following functions:\n\n| (a) | providing any interested person with information on the procedures for reporting infringements; |\n| --- | --- |\n\n| (b) | receiving and following-up reports of infringements; |\n| --- | --- |\n\n| (c) | maintaining contact with the reporting person where the latter has identified itself. |\n| --- | --- |",
+      "text_sha256": "435d5410e12b8248da1adafb845c17623da8dd16b8a17f7e662c41fcbd31a8c4",
+      "md_span": {
+        "start": 1680,
+        "end": 2316
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32015l2392:2015-12-17#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Member States shall ensure that competent authorities publish on their websites in a separate, easily identifiable and accessible section the information regarding the receipt of reports of infringements set out in paragraph 2.\n\n2. The information referred to in paragraph 1 shall include all of the following:\n\n| (a) | the communication channels for receiving and following-up the reporting of infringements and for contacting the dedicated staff members in accordance with Article 6(1), including:(1)the phone numbers, indicating whether conversations are recorded or unrecorded when using those phone lines;(2)dedicated electronic and postal addresses, which are secure and ensure confidentiality, to contact the dedicated staff members; |\n| --- | --- |\n| (1) | the phone numbers, indicating whether conversations are recorded or unrecorded when using those phone lines; |\n| (2) | dedicated electronic and postal addresses, which are secure and ensure confidentiality, to contact the dedicated staff members; |\n\n| (b) | the procedures applicable to reports of infringements referred to in Article 5; |\n| --- | --- |\n\n| (c) | the confidentiality regime applicable to reports of infringements in accordance with the procedures applicable to reports of infringements referred to in Article 5; |\n| --- | --- |\n\n| (d) | the procedures for the protection of persons working under a contract of employment; |\n| --- | --- |\n\n| (e) | a statement clearly explaining that persons making information available to the competent authority in accordance with Regulation (EU) No 596/2014 are not considered to be infringing any restriction on disclosure of information imposed by contract or by any legislative, regulatory or administrative provision, and are not to be involved in liability of any kind related to such disclosure. |\n| --- | --- |\n\n3. Competent authorities may publish on their websites more detailed information regarding the receipt and follow-up of infringements set out in paragraphs 2.",
+      "text_sha256": "44d083eed9b7e303516a8e9da3ca900229d4a61b7098f64076c98991e36170e8",
+      "md_span": {
+        "start": 2349,
+        "end": 4357
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32015l2392:2015-12-17#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. The procedures applicable to reports of infringements referred to in Article 4(2)(b) shall clearly indicate all of the following information:\n\n| (a) | that reports of infringements can also be submitted anonymously; |\n| --- | --- |\n\n| (b) | the manner in which the competent authority may require the reporting person to clarify the information reported or to provide additional information that is available to the reporting person; |\n| --- | --- |\n\n| (c) | the type, content and timeframe of the feed-back about the outcome of the report of infringement that the reporting person can expect after the reporting; |\n| --- | --- |\n\n| (d) | the confidentiality regime applicable to reports of infringements, including a detailed description of the circumstances under which the confidential data of a reporting person may be disclosed in accordance with Articles 27, 28 and 29 of Regulation (EU) No 596/2014. |\n| --- | --- |\n\n2. The detailed description referred to in point (d) of paragraph 1 shall ensure awareness of the reporting person concerning the exceptional cases in which confidentiality of data may not be ensured, including where the disclosure of data is a necessary and proportionate obligation required under Union or national law in the context of investigations or subsequent judicial proceedings or to safeguard the freedoms of others including the right of defence of the reported person, and in each case subject to appropriate safeguards under such laws.",
+      "text_sha256": "cc2163f64e7e2cec2b0e77ea0c6ba8cbd5e28d3d386d9acea177a55eaa42f190",
+      "md_span": {
+        "start": 4390,
+        "end": 5878
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32015l2392:2015-12-17#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Member States shall ensure that competent authorities establish independent and autonomous communication channels, which are both secure and ensure confidentiality, for receiving and following-up the reporting of infringements (‘dedicated communication channels’).\n\n2. Dedicated communication channels shall be considered independent and autonomous, provided that they meet all of the following criteria:\n\n| (a) | they are separated from general communication channels of the competent authority, including those through which the competent authority communicates internally and with third parties in its ordinary course of business; |\n| --- | --- |\n\n| (b) | they are designed, set up and operated in a manner that ensures the completeness, integrity and confidentiality of the information and prevents access to non-authorised staff members of the competent authority; |\n| --- | --- |\n\n| (c) | they enable the storage of durable information in accordance with Article 7 to allow for further investigations. |\n| --- | --- |\n\n3. The dedicated communication channels shall allow for reporting of actual or potential infringements in at least all of the following ways:\n\n| (a) | written report of infringements in electronic or paper format; |\n| --- | --- |\n\n| (b) | oral report of infringements through telephone lines, whether recorded or unrecorded; |\n| --- | --- |\n\n| (c) | physical meeting with dedicated staff members of the competent authority. |\n| --- | --- |\n\n4. The competent authority shall provide the information referred to in paragraph 2 of Article 4 to the reporting person before receiving the report of infringement, or at the moment of receiving it at the latest.\n\n5. Competent authorities shall ensure that a report of infringement received by means other than dedicated communication channels referred to in this Article is promptly forwarded without modification to the dedicated staff members of the competent authority by using dedicated communication channels.",
+      "text_sha256": "800ef57b6fc05aaee2b3a47427add081de200c5d3e47d15c736f86a8c7efbb04",
+      "md_span": {
+        "start": 5911,
+        "end": 7907
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32015l2392:2015-12-17#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Member States shall ensure that competent authorities keep records of every report of infringement received.\n\n2. Competent authorities shall promptly acknowledge the receipt of written reports of infringements to the postal or electronic address indicated by the reporting person, unless the reporting person explicitly requested otherwise or the competent authority reasonably believes that acknowledging receipt of a written report would jeopardise the protection of the reporting person's identity.\n\n3. Where a recorded telephone line is used for reporting of infringements, the competent authority shall have the right to document the oral reporting in the form of:\n\n| (a) | an audio recording of the conversation in a durable and retrievable form; or |\n| --- | --- |\n\n| (b) | a complete and accurate transcript of the conversation prepared by the dedicated staff members of the competent authority. In cases where the reporting person has disclosed its identity, the competent authority shall offer the possibility to the reporting person to check, rectify and agree with the transcript of the call by signing it. |\n| --- | --- |\n\n4. Where an unrecorded telephone line is used for reporting of infringements, the competent authority shall have the right to document the oral reporting in the form of accurate minutes of the conversation prepared by the dedicated staff members of the competent authority. In cases where the reporting person has disclosed its identity, the competent authority shall offer the possibility to the reporting person to check, rectify and agree with the minutes of the call by signing them.\n\n5. Where a person requests a physical meeting with the dedicated staff members of the competent authority for reporting an infringement according to Article 6(3)(c), competent authorities shall ensure that complete and accurate records of the meeting are kept in a durable and retrievable form. A competent authority shall have the right to document the records of the physical meeting in the form of:\n\n| (a) | an audio recording of the conversation in a durable and retrievable form; or |\n| --- | --- |\n\n| (b) | accurate minutes of the meeting prepared by the dedicated staff members of the competent authority. In cases where the reporting person has disclosed its identity, the competent authority shall offer the possibility to the reporting person to check, rectify and agree with the minutes of the meeting by signing them. |\n| --- | --- |",
+      "text_sha256": "dfe5a68f667e490f0790ab51494e1d2bb37b95ff2038e4c120ff7b3c48c8d509",
+      "md_span": {
+        "start": 7940,
+        "end": 10424
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32015l2392:2015-12-17#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Member States shall put in place procedures ensuring effective exchange of information and cooperation between competent authorities and any other relevant authority involved in the protection of persons working under a contract of employment who report infringements of Regulation (EU) No 596/2014 to the competent authority or are accused of such infringements, against retaliation, discrimination or other types of unfair treatment, arising due to or in connection with reporting of infringements of Regulation (EU) No 596/2014.\n\n2. The procedures set out in paragraph 1 shall ensure at least the following:\n\n| (a) | reporting persons have access to comprehensive information and advice on the remedies and procedures available under national law to protect them against unfair treatment, including on the procedures for claiming pecuniary compensation; |\n| --- | --- |\n\n| (b) | reporting persons have access to effective assistance from competent authorities before any relevant authority involved in their protection against unfair treatment, including by certifying the condition of whistle-blower of the reporting person in employment disputes. |\n| --- | --- |",
+      "text_sha256": "ace7cbc77c5b715c37c75293ffcb2e12ccef340994adf25131fb746dd3cb3fd9",
+      "md_span": {
+        "start": 10457,
+        "end": 11638
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32015l2392:2015-12-17#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Member States shall ensure that competent authorities store the records referred to in Article 7 in a confidential and secure system.\n\n2. Access to the system referred to in paragraph 1 shall be subject to restrictions ensuring that the data stored therein is only available to staff members of the competent authority for whom access to that data is necessary to perform their professional duties.",
+      "text_sha256": "10590cde04a206cae1ba884c60e13e41209662161debd5a28562e1ad2e1cf418",
+      "md_span": {
+        "start": 11671,
+        "end": 12083
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32015l2392:2015-12-17#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Member States shall ensure that competent authorities have in place adequate procedures for the transmission of personal data of the reporting person and reported person inside and outside of the competent authority.\n\n2. Member States shall ensure that the transmission of data related to a report of infringement within or outside the competent authority does not reveal, directly or indirectly, the identity of the reporting person or reported person or any other references to circumstances that would allow the identity of the reporting person or reported person to be deduced, unless such transmission is in accordance with the confidentiality regime referred to in Article 5(1)(d).",
+      "text_sha256": "25a4ffc59686a79d7aa62462289e6206db9eeed35574f44c3f949922a00573ab",
+      "md_span": {
+        "start": 12118,
+        "end": 12820
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32015l2392:2015-12-17#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Where the identity of reported persons is not known to the public, the Member State concerned shall ensure that their identity is protected at least in the same manner as for persons that are under investigation by the competent authority.\n\n2. The procedures set out Article 9 shall also apply for the protection of the identity of the reported persons.",
+      "text_sha256": "c6135cb31d63c2a76af7959e37cb1be1a7dbc706c79f21e9739ccbc9a69b32b8",
+      "md_span": {
+        "start": 12855,
+        "end": 13223
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32015l2392:2015-12-17#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nMember States shall ensure that their competent authorities review their procedures for receiving reports of infringements and their follow-up regularly, and at least once every two years. In reviewing such procedures competent authorities shall take account of their experience and that of other competent authorities and adapt their procedures accordingly and in line with market and technological developments.",
+      "text_sha256": "6f15ea44b024589c75d728d93ab8f7f46de10f5cb69ea2cc7499b008b7a6cb23",
+      "md_span": {
+        "start": 13258,
+        "end": 13683
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32015l2392:2015-12-17#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nMember States shall adopt and publish, by 3 July 2016 at the latest, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of those provisions.\n\nThey shall apply those provisions from 3 July 2016.\n\nWhen Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.",
+      "text_sha256": "b18c70a2a9b8353b1b39e2429115644880ca07ac1c1a4e22a82745b8e9c3bf15",
+      "md_span": {
+        "start": 13718,
+        "end": 14267
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32015l2392:2015-12-17#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nThis Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "e143dea2605e8ecc624f3b2ac7ac68830c4c3fc2d8fc6e1812af0baf0ec0c6c5",
+      "md_span": {
+        "start": 14302,
+        "end": 14453
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32015l2392:2015-12-17#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "c041dc3c60a4b1160ff8fe2ba2a5bfd3ff34a7baa9a673f9d994095932480e23",
+      "md_span": {
+        "start": 14488,
+        "end": 14549
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

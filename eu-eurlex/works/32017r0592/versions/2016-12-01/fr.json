@@ -1,0 +1,138 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0592:2016-12-01",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/592 of 1 December 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2016-12-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0592/versions/2016-12-01/fr.xml",
+    "sha256": "f8b7430bc7d3f93ba128a8ace5422a1aec6ecb3a1f22703b906d2155db4672fd",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R0592"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0592:2016-12-01#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes activités des personnes visées à l'article 2, paragraphe 1, points j) i) et ii), de la directive 2014/65/UE sont considérées comme accessoires par rapport à l'activité principale du groupe si ces activités remplissent les conditions énoncées à l'article 2 et représentent une part minoritaire des activités au niveau du groupe conformément à l'article 3.",
+      "text_sha256": "e44d1bcd6b6eead4382d5096105f0e46a1a5ef6d1faea0b9398a6c8bf9eb85f0",
+      "md_span": {
+        "start": 644,
+        "end": 1019
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0592:2016-12-01#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. La taille des activités visées à l'article 1er, calculée conformément au paragraphe 2 et divisée par l'activité de négociation totale sur le marché calculée conformément au paragraphe 3 est inférieure aux valeurs suivantes dans chacune des catégories d'actifs suivantes:\n\n| a) | 4 % dans la catégorie des dérivés sur métaux; |\n| --- | --- |\n\n| b) | 3 % dans la catégorie des dérivés sur le pétrole et les produits pétroliers; |\n| --- | --- |\n\n| c) | 10 % dans la catégorie des dérivés sur le charbon; |\n| --- | --- |\n\n| d) | 3 % dans la catégorie des dérivés sur le gaz; |\n| --- | --- |\n\n| e) | 6 % dans la catégorie des dérivés sur l'électricité; |\n| --- | --- |\n\n| f) | 4 % dans la catégorie des dérivés sur les produits agricoles; |\n| --- | --- |\n\n| g) | 15 % dans la catégorie des dérivés sur autres matières premières, notamment le fret et les matières premières visés à l'annexe I, section C, point 10, de la directive 2014/65/UE; |\n| --- | --- |\n\n| h) | 20 % dans la catégorie des quotas d'émission ou des dérivés sur quotas d'émission. |\n| --- | --- |\n\n2. La taille des activités visées à l'article 1er, exercées dans l'Union par une personne appartenant à un groupe dans chacune des catégories d'actifs visées au paragraphe 1, est calculée en agrégeant la valeur notionnelle brute de tous les contrats auxquels cette personne est partie dans la catégorie d'actifs considérée.\n\nL'agrégation prévue au premier alinéa n'inclut pas les contrats résultant de transactions visées à l'article 2, paragraphe 4, cinquième alinéa, points a), b) et c), de la directive 2014/65/UE ni les contrats pour lesquels la personne du groupe partie à ces contrats est agréée conformément à la directive 2014/65/UE ou à la directive 2013/36/UE du Parlement européen et du Conseil (6).\n\n3. L'activité de négociation totale sur le marché, dans chacune des catégories d'actifs visées au paragraphe 1, est calculée en agrégeant la valeur notionnelle brute de tous les contrats relevant de la catégorie d'actifs considérée auxquels toute personne située dans l'Union est partie et qui ne sont pas négociés sur une plateforme de négociation ainsi que la valeur notionnelle brute de tout autre contrat relevant de cette catégorie d'actifs qui est négocié sur une plateforme de négociation située dans l'Union au cours de l'exercice comptable annuel de référence visé à l'article 4, paragraphe 2.\n\n4. Les valeurs agrégées visées aux paragraphes 2 et 3 sont libellées en euros.",
+      "text_sha256": "d59fd3c38340578e12b4c23229ba207a6093d8323a1bbf12c9bd13ce85f5136b",
+      "md_span": {
+        "start": 1052,
+        "end": 3521
+      },
+      "citations": [
+        {
+          "href": "#ntr6-L_2017087FR.01049201-E0006",
+          "text": "(6)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0592:2016-12-01#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les activités visées à l'article 1er sont réputées représenter une part minoritaire des activités au niveau du groupe lorsqu'elles remplissent l'une des conditions suivantes:\n\n| a) | la taille de ces activités, calculée conformément au paragraphe 3, premier alinéa, ne représente pas plus de 10 % de la taille totale de l'activité de négociation du groupe, calculée conformément au paragraphe 3, second alinéa; |\n| --- | --- |\n\n| b) | le montant estimatif du capital utilisé pour l'exercice de ces activités, calculé conformément aux paragraphes 5 à 7, ne représente pas plus de 10 % du capital utilisé au niveau du groupe pour l'exercice de l'activité principale, calculé conformément au paragraphe 9. |\n| --- | --- |\n\n2. Le paragraphe 1, point a), fait l'objet des dérogations suivantes:\n\n| a) | lorsque la taille des activités visées à l'article 1er, calculée conformément au paragraphe 3, premier alinéa, représente plus de 10 % mais moins de 50 % de la taille totale de l'activité de négociation du groupe, calculée conformément au paragraphe 3, second alinéa, les activités accessoires sont réputées représenter une part minoritaire des activités au niveau du groupe si et seulement si la taille de l'activité de négociation dans chacune des catégories d'actifs visées à l'article 2, paragraphe 1, représente moins de 50 % du seuil prévu à l'article 2, paragraphe 1, pour chacune de ces catégories d'actifs; |\n| --- | --- |\n\n| b) | lorsque la taille des activités de négociation, calculée conformément au paragraphe 3, premier alinéa, représente 50 % ou plus de la taille totale de l'activité de négociation du groupe calculée conformément au paragraphe 3, second alinéa, les activités accessoires sont réputées représenter une part minoritaire des activités au niveau du groupe si et seulement si la taille de l'activité de négociation dans chacune des catégories d'actifs visées à l'article 2, paragraphe 1, représente moins de 20 % du seuil prévu à l'article 2, paragraphe 1, pour chacune de ces catégories d'actifs. |\n| --- | --- |\n\n3. La taille des activités visées à l'article 1er qu'exerce une personne appartenant à un groupe est calculée en agrégeant la taille des activités exercées par cette personne dans toutes les catégories d'actifs visées à l'article 2, paragraphe 1, selon les mêmes critères de calcul que ceux énoncés à l'article 2, paragraphe 2.\n\nLa taille totale de l'activité de négociation du groupe est calculée en agrégeant la valeur notionnelle brute de tous les contrats dérivés sur matières premières, contrats sur quotas d'émission et contrats dérivés sur quotas d'émission auxquels des personnes du groupe sont partie.\n\n4. L'agrégation visée au paragraphe 3, premier alinéa, n'inclut pas les contrats pour lesquels la personne du groupe qui est partie à ces contrats est agréée conformément à la directive 2014/65/UE ou à la directive 2013/36/UE.\n\n5. Le montant estimatif du capital utilisé pour exercer les activités visées à l'article 1er est égal à la somme des éléments suivants:\n\n| a) | 15 % de chaque position nette, longue ou courte, multipliés par le prix du contrat dérivé sur matières premières, du contrat sur quotas d'émission ou du contrat dérivé sur quotas d'émission; |\n| --- | --- |\n\n| b) | 3 % de la position brute, longue ou courte, multipliés par le prix du contrat dérivé sur matières premières, du contrat sur quotas d'émission ou du contrat dérivé sur quotas d'émission. |\n| --- | --- |\n\n6. Aux fins du paragraphe 5, point a), les positions nettes sur des contrats dérivés sur matières premières, des contrats sur quotas d'émission ou des contrats dérivés sur quotas d'émission sont établies par compensation des positions longues et courtes:\n\n| a) | sur chaque type de contrat dérivé sur matières premières ayant la même matière première comme sous-jacent, afin de calculer la position nette par type de contrat basé sur cette matière première; |\n| --- | --- |\n\n| b) | sur un contrat sur quotas d'émission, afin de calculer la position nette sur ce contrat; ou |\n| --- | --- |\n\n| c) | sur chaque type de contrat dérivé sur quotas d'émission, afin de calculer la position nette pour ce type de contrat dérivé sur quotas d'émission. |\n| --- | --- |\n\nAux fins du paragraphe 5, point a), les positions nettes sur différents types de contrats dérivés ayant la même matière première comme sous-jacent, ou sur différents types de contrats dérivés ayant le même quota d'émission comme sous-jacent, peuvent être mutuellement compensées.\n\n7. Aux fins du paragraphe 5, point b), la position brute sur un contrat dérivé sur matières premières, un contrat sur quotas d'émission ou un contrat dérivé sur quotas d'émission est établie en additionnant les valeurs absolues des positions nettes par type de contrat dérivé ayant la même matière première comme sous-jacent, par contrat sur quotas d'émission ou par type de contrat dérivé ayant le même quota d'émission comme sous-jacent.\n\nAux fins du paragraphe 5, point b), les positions nettes sur différents types de contrats dérivés ayant la même matière première comme sous-jacent, ou sur différents types de contrats dérivés ayant le même quota d'émission comme sous-jacent, ne peuvent pas être mutuellement compensées.\n\n8. Le calcul du montant estimatif du capital n'inclut pas les positions résultant des transactions visées à l'article 2, paragraphe 4, cinquième alinéa, points a), b) et c), de la directive 2014/65/UE.\n\n9. Le capital utilisé pour l'exercice de l'activité principale d'un groupe est égal au total des actifs du groupe, moins sa dette à court terme, tels qu'enregistrés dans ses états financiers consolidés à la fin de l'exercice annuel de référence. Aux fins de la première phrase, on entend par «dette à court terme» la dette ayant une échéance inférieure à douze mois.\n\n10. Les valeurs résultant des calculs prévus au présent article sont libellées en euros.",
+      "text_sha256": "b712353a86d9072d670814b96d9e170c6c600a9d38de7d8c1e3846302ff5cd19",
+      "md_span": {
+        "start": 3554,
+        "end": 9443
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0592:2016-12-01#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Le calcul de la taille des activités de négociation et du montant de capital visés aux articles 2 et 3 est basé sur une moyenne simple des activités de négociation quotidiennes ou du montant estimatif du capital alloué à celles-ci sur les trois périodes de calcul annuelles précédant la date de ce calcul. Les calculs sont effectués annuellement au premier trimestre de l'année calendaire qui suit une période de calcul annuelle.\n\n2. Aux fins du paragraphe 1, on entend par «période de calcul annuelle» une période qui commence le 1er janvier d'une année donnée et s'achève le 31 décembre de la même année.\n\n3. Aux fins du paragraphe 1, le calcul de la taille des activités de négociation ou du montant estimatif du capital alloué à celles-ci réalisé en 2018 porte sur les trois précédentes périodes de calcul annuelles, commençant respectivement le 1er janvier 2015, le 1er janvier 2016 et le 1er janvier 2017, et le calcul réalisé en 2019, sur les trois précédentes périodes de calcul annuelles, commençant respectivement le 1er janvier 2016, le 1er janvier 2017 et le 1er janvier 2018.\n\n4. Par dérogation au paragraphe 3, la période de référence pour le calcul des activités quotidiennes de négociation ou du montant estimatif du capital alloué à celles-ci ne couvre que la dernière période de calcul annuelle lorsque les conditions suivantes sont réunies:\n\n| a) | la taille des activités quotidiennes de négociation ou le montant estimatif du capital alloué à celles-ci est en baisse de plus de 10 % si l'on compare la plus ancienne et la plus récente des trois dernières périodes de calcul annuelles; et |\n| --- | --- |\n\n| b) | la taille des activités quotidiennes de négociation ou le montant estimatif du capital alloué à celles-ci au cours de la plus récente des trois dernières périodes de calcul annuelles est en baisse par rapport aux deux précédentes. |\n| --- | --- |",
+      "text_sha256": "d12101256d3816cae8f2fc16980f83fd702520f5d89fa11277cd89faa4997568",
+      "md_span": {
+        "start": 9476,
+        "end": 11369
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0592:2016-12-01#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Aux fins de l'article 2, paragraphe 4, cinquième alinéa, point b), de la directive 2014/65/UE, une transaction sur instruments dérivés est considérée comme réduisant les risques directement liés à l'activité commerciale ou à l'activité de financement de trésorerie de manière objectivement mesurable lorsque l'un ou plusieurs des critères suivants sont remplis:\n\n| a) | la transaction réduit les risques qui découlent de changements potentiels de la valeur des actifs, services, facteurs de production, produits, matières premières ou passifs que la personne ou son groupe possède, produit, fabrique, transforme, fournit, achète, commercialise, loue, vend ou encourt, ou prévoit raisonnablement de le faire, dans le cours normal de son activité; |\n| --- | --- |\n\n| b) | la transaction couvre les risques qui découlent de l'incidence indirecte potentielle des fluctuations des taux d'intérêt, des taux d'inflation, des taux de change ou du risque de crédit sur la valeur des actifs, services, facteurs de production, produits, matières premières ou passifs visés au point a); |\n| --- | --- |\n\n| c) | la transaction peut être qualifiée de contrat de couverture au sens des normes internationales d'information financière (IFRS) adoptées conformément à l'article 3 du règlement (CE) no 1606/2002 du Parlement européen et du Conseil (7). |\n| --- | --- |\n\n2. Aux fins du paragraphe 1, une transaction considérée comme réduisant les risques à elle seule ou en combinaison avec d'autres transactions sur instruments dérivés est une transaction pour laquelle l'entité non financière qui la conclut:\n\n| a) | décrit ce qui suit dans ses politiques internes:i)le type de contrat dérivé sur matières premières, de contrat dérivé sur quotas d'émission ou de contrat dérivé sur ceux-ci inclus dans le portefeuille utilisé pour réduire les risques directement liés à l'activité commerciale ou à l'activité de financement de trésorerie et leurs critères d'éligibilité;ii)le lien entre ce portefeuille et les risques qu'il atténue;iii)les mesures prises pour garantir que les transactions liées à ces contrats n'ont d'autre fin que de couvrir les risques directement liés à l'activité commerciale ou à l'activité de financement de trésorerie de l'entité non financière et que toute transaction ayant une autre finalité peut être clairement identifiée; |\n| --- | --- |\n| i) | le type de contrat dérivé sur matières premières, de contrat dérivé sur quotas d'émission ou de contrat dérivé sur ceux-ci inclus dans le portefeuille utilisé pour réduire les risques directement liés à l'activité commerciale ou à l'activité de financement de trésorerie et leurs critères d'éligibilité; |\n| ii) | le lien entre ce portefeuille et les risques qu'il atténue; |\n| iii) | les mesures prises pour garantir que les transactions liées à ces contrats n'ont d'autre fin que de couvrir les risques directement liés à l'activité commerciale ou à l'activité de financement de trésorerie de l'entité non financière et que toute transaction ayant une autre finalité peut être clairement identifiée; |\n\n| b) | est en mesure de fournir une vue suffisamment décomposée du portefeuille, indiquant les catégories d'instruments dérivés sur matières premières, quotas d'émission ou instruments dérivés sur ceux-ci, les matières premières sous-jacentes, les horizons temporels et tout autre facteur pertinent. |\n| --- | --- |",
+      "text_sha256": "9055d68af43d8e7b238b2a9c5f1ddfbc18652c854b3e33d608cbd94e4fbd89e3",
+      "md_span": {
+        "start": 11402,
+        "end": 14794
+      },
+      "citations": [
+        {
+          "href": "#ntr7-L_2017087FR.01049201-E0007",
+          "text": "(7)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0592:2016-12-01#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à partir du 3 janvier 2018.",
+      "text_sha256": "28996e9e5adacbc906f3fbee01e0d04fc40a951ac6f90204e5c4e282d657041f",
+      "md_span": {
+        "start": 14827,
+        "end": 15011
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

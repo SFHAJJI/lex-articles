@@ -1,0 +1,145 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r1265:2025-07-01",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2025/1265 of 1\u00A0July 2025 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2025-07-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r1265/versions/2025-07-01/en.xml",
+    "sha256": "781d321de56c25e6420a1ea1ea19dd638869624ef34811009354c61df6968588",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1265"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r1265:2025-07-01#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. When identifying the main risk driver of a non-derivative position that is assigned to the trading book, institutions shall first identify all risk factors of that position which are the principal determinants of its change in value. They shall do so by assessing at least the risk factors referred to in Articles 325l to 325q of Regulation (EU) No 575/2013. The risk factors identified by the institutions shall be the risk drivers of the position.\n\n2. Institutions that have identified, in accordance with paragraph 1, only one risk driver of a non-derivative position assigned to the trading book shall take that risk driver as the main risk driver of that position.\n\n3. Institutions that have identified, in accordance with paragraph 1, more than one risk driver of a non-derivative position assigned to the trading book shall identify the main risk driver of that position by applying the following steps in the following order:\n\n| (a) | institutions shall calculate the delta risk sensitivities in accordance with Articles 325r and 325t of Regulation (EU) No 575/2013 for each risk driver identified in accordance with paragraph 1 of this Article; |\n| --- | --- |\n\n| (b) | institutions shall calculate the weighted sensitivities in accordance with the formula laid down in Article 325f(6) of that Regulation, using the sensitivities calculated in accordance with point (a) of this paragraph; |\n| --- | --- |\n\n| (c) | institutions shall identify the main risk driver as the risk driver which corresponds to the highest absolute value of the weighted sensitivities calculated in accordance with point (b) of this paragraph. |\n| --- | --- |",
+      "text_sha256": "9a277eaf4fb0d5c55f5e9f799e7d4c599f3d80446c4c7572913b1358603a378c",
+      "md_span": {
+        "start": 648,
+        "end": 2305
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r1265:2025-07-01#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nWhen determining whether a non-derivative position represents a long or a short position in its main risk driver as referred to in Article 94(3) and Article 325a(2) of Regulation (EU) No 575/2013, institutions shall apply either of the following methods:\n\n| (a) | calculate the delta risk sensitivity of the main risk driver in accordance with Article 325r of Regulation (EU) No 575/2013 and identify the transaction as:(i)a long position in that risk driver where the corresponding delta risk sensitivity is positive; or(ii)a short position in that risk driver where the corresponding delta risk sensitivity is negative; |\n| --- | --- |\n| (i) | a long position in that risk driver where the corresponding delta risk sensitivity is positive; or |\n| (ii) | a short position in that risk driver where the corresponding delta risk sensitivity is negative; |\n\n| (b) | assess the dependence of the value of the position on the main risk driver by considering the trading or hedging purpose of the transaction with respect to that risk driver and identify the transaction as either a long or a short position in its main risk driver on the basis of that assessment. |\n| --- | --- |",
+      "text_sha256": "d194cc4089a65872a54564747921d5b72198a2d126c1c28dcadb556f11873d7c",
+      "md_span": {
+        "start": 2338,
+        "end": 3524
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r1265:2025-07-01#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. By way of derogation from Articles 1 and 2, institutions may identify the main risk driver of the non-derivative positions referred to in paragraphs 2 to 8 of this Article and determine whether such positions represent long or a short positions in the main risk driver by applying the approaches set out in those paragraphs.\n\n2. For bonds which consist in fixed-rate debt instruments without optionality features, institutions shall use the following approach:\n\n| (a) | institutions shall identify the main risk driver depending on the credit quality step and sector of the bond referred to in Article 325ah of Regulation (EU) No 575/2013 and the residual maturity of the bond, on the basis of either of the following:(i)Table 1 in the Annex to this Regulation, where the cash flows of the bond are not functionally dependent on inflation rates;(ii)Table 2 in the Annex to this Regulation, where the cash flows of the bond are functionally dependent on inflation rates; |\n| --- | --- |\n| (i) | Table 1 in the Annex to this Regulation, where the cash flows of the bond are not functionally dependent on inflation rates; |\n| (ii) | Table 2 in the Annex to this Regulation, where the cash flows of the bond are functionally dependent on inflation rates; |\n\n| (b) | where the main risk driver identified in accordance with point (a) of this paragraph is the risk-free rate, that main risk driver shall be in the currency in which the bond is denominated and with one of the maturities set out in Article 325l(1) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the bond; |\n| --- | --- |\n\n| (c) | where the main risk driver identified in accordance with point (a) of this paragraph is the issuer credit spread rate, that main risk driver shall be the credit spread of the issuer of the bond and with one of the maturities set out in Article 325m(1) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the bond; |\n| --- | --- |\n\n| (d) | institutions shall determine whether the position represents a long or a short position in its main risk driver on the basis of the following:(i)where the main risk driver identified under points (a), (b) and (c) of this paragraph is the risk-free rate or the issuer credit spread rate, the position shall be long in its main risk driver where the bond is sold, and short where the bond is bought;(ii)where the main risk driver identified under points (a), (b) and (c) of this paragraph is the inflation rate, the position shall be long in its main risk driver where the bond is bought, and short where the bond is sold. |\n| --- | --- |\n| (i) | where the main risk driver identified under points (a), (b) and (c) of this paragraph is the risk-free rate or the issuer credit spread rate, the position shall be long in its main risk driver where the bond is sold, and short where the bond is bought; |\n| (ii) | where the main risk driver identified under points (a), (b) and (c) of this paragraph is the inflation rate, the position shall be long in its main risk driver where the bond is bought, and short where the bond is sold. |\n\n3. For bonds which consist in floating-rate debt instruments without optionality features, institutions shall use the approach set out in paragraph 2. Where the main risk driver identified in accordance with paragraph 2, point (a), is the risk-free rate and the residual maturity of the bond is higher than one year, the main risk driver shall be the issuer credit spread rate instead, determined in accordance with paragraph 2, point (c).\n\n4. For a stock position, the main risk driver shall be the equity spot price.\n\nThe position shall be long in its main risk driver where the stock is bought, and short where the stock is sold.\n\n5. For a cash position in a currency different from the institution’s reporting currency, the main risk driver shall be the spot exchange rate between the currency of that cash position and the institution’s reporting currency.\n\nThe position shall be long in its main risk driver where the cash position is an asset item, and short where it is a liability item.\n\n6. For positions in a physical commodity, the main risk driver shall be the commodity spot price which corresponds to the commodity type of the position.\n\nThe position shall be long in its main risk driver where the physical commodity is an asset item, and short where it is a liability item.\n\n7. For a position in a collective investment undertaking (CIU), the main risk driver shall be the risk factor corresponding to that CIU in the bucket ‘other sector’ in Table 8 of Article 325ap(1) of Regulation (EU) No 575/2013.\n\nThe position shall be long in its main risk driver where the shares or units of the CIU are bought, and short where the shares or units of the CIU are sold.\n\n8. For a position in a repurchase transaction where the institution or its counterparty transfer securities as referred to in paragraphs 2, 3 and 4, the main risk driver shall be the corresponding general interest rate or equity repo rate.\n\nThe position shall be long in its main risk driver where the repurchase transaction is governed by a repurchase agreement, and short where it is governed by a reverse repurchase agreement.",
+      "text_sha256": "ef01fb5b878810667f5a003de7c30f19ec7ad143e4195d7913e61b61d93d9e34",
+      "md_span": {
+        "start": 3557,
+        "end": 8814
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r1265:2025-07-01#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. When identifying the main risk driver of a derivative position, institutions shall first identify:\n\n| (a) | all the risk drivers of the transaction, in accordance with Article 1 of Delegated Regulation (EU) 2021/931; |\n| --- | --- |\n\n| (b) | whether the transaction has one or more than one material risk driver, in accordance with Articles 2 and 3 of that Delegated Regulation; |\n| --- | --- |\n\n| (c) | the material risk drivers of the transaction and the most material of those risk drivers, in accordance with Article 4 of that Delegated Regulation. |\n| --- | --- |\n\n2. Institutions that have identified, in accordance with paragraph 1, a derivative transaction with only one material risk driver shall take that risk driver as the main risk driver.\n\n3. Institutions that have identified, in accordance with paragraph 1, a derivative transaction with more than one material risk driver that belong to only one risk category as referred to in Article 277(1) of Regulation (EU) No 575/2013 shall take the most material risk driver in that risk category as the main risk driver.\n\n4. Institutions that have identified, in accordance with paragraph 1, a derivative transaction with more than one material risk driver that belong to two or more risk categories as referred to in Article 277(1) of Regulation (EU) No 575/2013 shall identify the main risk driver by using one of the following methods:\n\n| (a) | where institutions have identified material risk drivers in accordance with Article 4(2) or Article 4(4) of Delegated Regulation (EU) 2021/931, the main risk driver shall be the most material risk driver corresponding to the highest risk category add-on from those referred to in Articles 280a to 280f of Regulation (EU) No 575/2013; |\n| --- | --- |\n\n| (b) | where institutions have identified material risk drivers in accordance with Article 4(3) of Delegated Regulation (EU) 2021/931, the main risk driver shall be the most material risk driver corresponding to the highest absolute value of the weighted sensitivities referred to in Article 4(3), point (b), of that Delegated Regulation. |\n| --- | --- |\n\n5. An institution that applies one of the methods set out in Article 4 of Delegated Regulation (EU) 2021/931 for the calculation of the exposure value of a given derivative transaction shall use the same method to identify the main risk driver of that transaction.",
+      "text_sha256": "507c9dd5e76e74c8a3f423a5fd8bba32234c9082c5025d8681bb65c840592753",
+      "md_span": {
+        "start": 8847,
+        "end": 11239
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r1265:2025-07-01#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nWhen determining whether a derivative position represents a long or a short position in its main risk driver as referred to in Article 94(3), Article 273a(3) and Article 325a(2) of Regulation (EU) No 575/2013, institutions shall apply either of the methods set out in Article 6 of Delegated Regulation (EU) 2021/931 to the main risk driver of the transaction.",
+      "text_sha256": "7d4312b0d7630a4e904e0365ef759bb6cbc985aef58edbd011109644c399c11a",
+      "md_span": {
+        "start": 11272,
+        "end": 11642
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r1265:2025-07-01#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. By way of derogation from Articles 4 and 5, institutions may identify the main risk driver of a derivative position as referred to in paragraphs 2 to 17 of this Article and determine whether such position represents a long or a short position in its main risk driver by applying the approaches set out in those paragraphs.\n\n2. For futures or forwards on stocks or on stock indices, institutions shall identify the main risk driver as the equity spot price or the index spot price, respectively.\n\nThe position shall be long in its main risk driver where the futures or forwards are bought, and short where they are sold.\n\n3. For forward-rate agreements (FRAs) where one counterparty receives floating-rate interest and pays fixed-rate interest, institutions shall identify the main risk driver as the risk-free rate which corresponds to the following:\n\n| (a) | the currency referenced in the FRA; |\n| --- | --- |\n\n| (b) | one of the maturities set out in Article 325l(1) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the FRA. |\n| --- | --- |\n\nThe position shall be long in its main risk driver where the institution pays fixed-rate interest, and short where the institution receives fixed-rate interest.\n\n4. For futures or forwards on bonds which consist in fixed-rate or floating-rate debt instruments without optionality features, institutions shall determine whether the bond is bought or sold under the futures or forward contract and, on that basis, identify the main risk driver and determine whether the position represents a long or a short position in its main risk driver by applying the methods set out in Article 3(2) or (3), respectively, to the underlying fixed-rate or floating-rate debt instrument.\n\n5. For futures or forwards on exchanges between a foreign currency and the institution’s reporting currency, institutions shall identify the main risk driver as the spot exchange rate between the foreign currency and the institution’s reporting currency.\n\nThe position shall be long in its main risk driver where the foreign currency is bought, and short where the foreign currency is sold.\n\n6. For futures or forwards on commodities, institutions shall identify the main risk driver as the commodity spot price which corresponds to the following:\n\n| (a) | the commodity type specified in the futures or forward contract; |\n| --- | --- |\n\n| (b) | one of the maturities set out in Article 325p(2) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the futures or forwards. |\n| --- | --- |\n\nThe position shall be long in its main risk driver where the commodities are bought, and short where they are sold.\n\n7. For plain-vanilla call or put options with a single underlying stock or stock index, institutions shall identify the main risk driver as the equity spot price or the index spot price, respectively.\n\nThe position shall be long in its main risk driver where the call option is bought, and short where the call option is sold. The position shall be long where the put option is sold, and short where the put option is bought.\n\n8. For plain-vanilla call or put options with a single underlying bond which consists in fixed-rate debt instrument, institutions shall identify the main risk driver by applying the method set out in Article 3(2) to the underlying bond.\n\nWhere the main risk driver determined in accordance with Article 3(2), points (a), (b) and (c), is the risk-free rate or the issuer credit spread rate, the position shall be short in its main risk driver where the call option is bought, and long where the call option is sold, and the position shall be short where the put option is sold, and long where the put option is bought.\n\nWhere the main risk driver determined in accordance with Article 3(2), points (a), (b) and (c), is the inflation rate, the position shall be long in its main risk driver where the call option is bought, and short where the call option is sold, and the position shall be long where the put option is sold and short where the put option is bought.\n\n9. For plain-vanilla swap options, institutions shall identify the main risk driver by applying the method set out in paragraph 15 to the underlying interest rate swap.\n\nWhere the swap option gives the right to enter into an interest rate swap in which the option holder receives floating-rate interest and pays fixed-rate interest, the position shall be long in its main risk driver where the institution has bought the swap option, and short where the institution has sold the swap option.\n\nWhere the swap option gives the right to enter into an interest rate swap in which the option holder pays floating-rate interest and receives fixed-rate interest, the position shall be long in its main risk driver where the institution has sold the swap option, and short where the institution has bought the swap option.\n\n10. For caps and floors, institutions shall identify the main risk driver as the risk-free rate which corresponds to the following:\n\n| (a) | the currency referenced in the cap or floor; |\n| --- | --- |\n\n| (b) | one of the maturities set out in Article 325l(1) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the cap or floor. |\n| --- | --- |\n\nThe position shall be long in its main risk driver where the cap is bought, and short where the cap is sold. The position shall be long in its main risk driver where the floor is sold, and short where the floor is bought.\n\n11. For plain-vanilla call or put options with a single underlying commodity, institutions shall identify the main risk driver as the commodity spot price which corresponds to the following:\n\n| (a) | the commodity type specified in the option contract; |\n| --- | --- |\n\n| (b) | one of the maturities set out in Article 325p(2) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the option. |\n| --- | --- |\n\nThe position shall be long in its main risk driver where the call option is bought, and short where the call option is sold. The position shall be long in its main risk driver where the put option is sold, and short where the put option is bought.\n\n12. For plain-vanilla currency options, institutions shall identify the main risk driver as the spot exchange rate between the foreign currency and the institution’s reporting currency.\n\nThe position shall be long in its main risk driver where the foreign currency is bought, and short where the foreign currency is sold.\n\n13. For single-name credit default swaps, institutions shall identify the main risk driver as the issuer credit spread rate which corresponds to the following:\n\n| (a) | the issuer referenced in the swap contract; |\n| --- | --- |\n\n| (b) | one of the maturities set out in Article 325m(1) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the swap. |\n| --- | --- |\n\nThe position shall be long in its main risk driver where the protection is bought, and short where the protection is sold.\n\n14. For index credit default swaps, institutions shall identify the main risk driver as the credit spread rate which corresponds to the following:\n\n| (a) | the credit index referenced in the swap contract; |\n| --- | --- |\n\n| (b) | one of the maturities set out in Article 325m(1) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the swap. |\n| --- | --- |\n\nThe position shall be long in its main risk driver where the protection is bought, and short where the protection is sold.\n\n15. For interest rate swaps where one counterparty receives floating-rate interest and pays fixed-rate interest, institutions shall identify the main risk driver as the risk-free rate which corresponds to the following:\n\n| (a) | the currency referenced in the swap contract; |\n| --- | --- |\n\n| (b) | one of the maturities set out in Article 325l(1) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the swap. |\n| --- | --- |\n\nThe position shall be long in its main risk driver where the institution pays fixed-rate interest, and short where the institution receives fixed-rate interest.\n\n16. For equity swaps where one counterparty receives the return on a stock or stock index and pays fixed-rate or floating-rate interest, institutions shall identify the main risk driver as the equity spot price or the index spot price, respectively.\n\nThe position shall be long in its main risk driver where the institution receives the return on the stock or stock index, and short where the institution pays the return on a stock or stock index.\n\n17. For commodity swaps where one counterparty receives cash flows based on the price of an underlying commodity and pays fixed-rate or floating-rate interest, institutions shall identify the main risk driver as the commodity spot price which corresponds to the following:\n\n| (a) | the commodity type specified in the swap contract; |\n| --- | --- |\n\n| (b) | one of the maturities set out in Article 325p(2) of Regulation (EU) No 575/2013, selected to match as close as possible the maturity of the swap. |\n| --- | --- |\n\nThe position shall be long in its main risk driver where the institution receives the cash flows based on the price of an underlying commodity, and short where the institution pays the cash flows based on the price of an underlying commodity.",
+      "text_sha256": "26cbf24b46e624028fc51f5a8065fe2a79b338d05c08940675c4049c78d494e0",
+      "md_span": {
+        "start": 11675,
+        "end": 21096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32025r1265:2025-07-01#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "6ab3b139c85b2b9348ed6d319c3fcf588fc1dc5cae540950f3d868f2a0736ee1",
+      "md_span": {
+        "start": 21129,
+        "end": 21280
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

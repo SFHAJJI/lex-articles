@@ -50,8 +50,8 @@ yields exactly this text", which is mechanically checkable offline.
 
 ## Extraction profiles are immutable and permanently retained
 
-`akn-lu/1`, `xhtml-eu/1` and `fmx4-eu/1` will remain runnable for the life of
-the project. A profile is never edited after publication; an improved extraction
+`akn-lu/1`, `xhtml-eu/1`, `html-eu-tolerant/1` and `fmx4-eu/1` will remain
+runnable for the life of the project. A profile is never edited after publication; an improved extraction
 is a **new** profile (`akn-lu/2`) beside the old one, and re-derivation under a
 new profile is a new, tagged generation. Citations pinned under a profile verify
 under that profile, forever. Every `*.json` records its profile in
@@ -71,6 +71,12 @@ under that profile, forever. Every `*.json` records its profile in
   the publisher's `eli-subdivision` fragment identifiers in Cellar's
   consolidated XHTML (or its older flat format). Still used for works where a
   Formex manifestation is missing upstream for at least one version.
+- **EU legacy fallback (`html-eu-tolerant/1`)**, publisher HTML: a pinned tolerant
+  parser repairs only the in-memory DOM when historical Cellar markup is not
+  well-formed XML. Publisher evidence bytes are never rewritten. Where the
+  publisher exposes no internal article boundary, the official fragment is
+  retained as one provision with `type=document`; it is never mislabeled as an
+  article.
 
 ## Spans
 

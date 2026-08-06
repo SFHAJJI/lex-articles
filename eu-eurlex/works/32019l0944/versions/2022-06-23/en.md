@@ -4,10 +4,10 @@ title: 'Electricity Market Directive — Directive (EU) 2019/944'
 valid_from: '2022-06-23'
 valid_to: '2024-07-15'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L0944-20220623'
-source_sha256: 'c229e483daef6de9eac6356ca2a4f32f66fc71e36ec926c8cdd9f46a286d1a0e'
+source_sha256: '9bcd71a79d118a3e8d7325226a1639ea4fc6bfa62d3e2c0bb037a45797d97aa2'
 license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
 attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
-generator: 'fmx4-eu/1 · lex derive'
+generator: 'xhtml-eu/1 · lex derive'
 ---
 
 ## CHAPTER I — SUBJECT MATTER AND DEFINITIONS
@@ -54,7 +54,7 @@ For the purposes of this Directive, the following definitions apply:
 
 (13) ‘electricity supply contract’ means a contract for the supply of electricity, but does not include electricity derivatives;
 
-(14) ‘electricity derivative’ means a financial instrument specified in point (5), (6) or (7) of Section C of Annex I to Directive 2014/65/EU of the European Parliament and of the Council, where that instrument relates to electricity;
+(14) ‘electricity derivative’ means a financial instrument specified in point (5), (6) or (7) of Section C of Annex I to Directive 2014/65/EU of the European Parliament and of the Council (1), where that instrument relates to electricity;
 
 (15) ‘dynamic electricity price contract’ means an electricity supply contract between a supplier and a final customer that reflects the price variation in the spot markets, including in the day-ahead and intraday markets, at intervals at least equal to the market settlement frequency;
 
@@ -66,7 +66,7 @@ For the purposes of this Directive, the following definitions apply:
 
 (19) ‘independent aggregator’ means a market participant engaged in aggregation who is not affiliated to the customer's supplier;
 
-(20) ‘demand response’ means the change of electricity load by final customers from their normal or current consumption patterns in response to market signals, including in response to time-variable electricity prices or incentive payments, or in response to the acceptance of the final customer's bid to sell demand reduction or increase at a price in an organised market as defined in point (4) of Article 2 of Commission Implementing Regulation (EU) No 1348/2014, whether alone or through aggregation;
+(20) ‘demand response’ means the change of electricity load by final customers from their normal or current consumption patterns in response to market signals, including in response to time-variable electricity prices or incentive payments, or in response to the acceptance of the final customer's bid to sell demand reduction or increase at a price in an organised market as defined in point (4) of Article 2 of Commission Implementing Regulation (EU) No 1348/2014 (2), whether alone or through aggregation;
 
 (21) ‘billing information’ means the information provided on a final customer's bill, apart from a request for payment;
 
@@ -110,9 +110,9 @@ For the purposes of this Directive, the following definitions apply:
 
 (41) ‘direct line’ means either an electricity line linking an isolated generation site with an isolated customer or an electricity line linking a producer and an electricity supply undertaking to supply directly their own premises, subsidiaries and customers;
 
-(42) ‘small isolated system’ means any system that had consumption of less than 3000 GWh in the year 1996, where less than 5 % of annual consumption is obtained through interconnection with other systems;
+(42) ‘small isolated system’ means any system that had consumption of less than 3 000 GWh in the year 1996, where less than 5 % of annual consumption is obtained through interconnection with other systems;
 
-(43) ‘small connected system’ means any system that had consumption of less than 3000 GWh in the year 1996, where more than 5 % of annual consumption is obtained through interconnection with other systems;
+(43) ‘small connected system’ means any system that had consumption of less than 3 000 GWh in the year 1996, where more than 5 % of annual consumption is obtained through interconnection with other systems;
 
 (44) ‘congestion’ means congestion as defined in point (4) of Article 2 of Regulation (EU) 2019/943;
 
@@ -136,7 +136,7 @@ For the purposes of this Directive, the following definitions apply:
 
 (54) ‘horizontally integrated undertaking’ means an electricity undertaking performing at least one of the functions of generation for sale, or transmission, or distribution, or supply, and another non-electricity activity;
 
-(55) ‘related undertaking’ means affiliated undertakings as defined in point (12) of Article 2 of Directive 2013/34/EU of the European Parliament and of the Council, and undertakings which belong to the same shareholders;
+(55) ‘related undertaking’ means affiliated undertakings as defined in point (12) of Article 2 of Directive 2013/34/EU of the European Parliament and of the Council (3), and undertakings which belong to the same shareholders;
 
 (56) ‘control’ means rights, contracts or other means which, either separately or in combination and having regard to the considerations of fact or law involved, confer the possibility of exercising decisive influence on an undertaking, in particular by: (a) ownership or the right to use all or part of the assets of an undertaking; (b) rights or contracts which confer decisive influence on the composition, voting or decisions of the organs of an undertaking;
 
@@ -180,37 +180,13 @@ Member States shall ensure that all customers are free to purchase electricity f
 
 **3.** By way of derogation from paragraphs 1 and 2, Member States may apply public interventions in the price setting for the supply of electricity to energy poor or vulnerable household customers. Such public interventions shall be subject to the conditions set out in paragraphs 4 and 5.
 
-**4.** Public interventions in the price setting for the supply of electricity shall:
-
-(a) pursue a general economic interest and not go beyond what is necessary to achieve that general economic interest;
-
-(b) be clearly defined, transparent, non-discriminatory and verifiable;
-
-(c) guarantee equal access for Union electricity undertakings to customers;
-
-(d) be limited in time and proportionate as regards their beneficiaries;
-
-(e) not result in additional costs for market participants in a discriminatory way.
+**4.** Public interventions in the price setting for the supply of electricity shall:(a) pursue a general economic interest and not go beyond what is necessary to achieve that general economic interest;(b) be clearly defined, transparent, non-discriminatory and verifiable;(c) guarantee equal access for Union electricity undertakings to customers;(d) be limited in time and proportionate as regards their beneficiaries;(e) not result in additional costs for market participants in a discriminatory way.
 
 **5.** Any Member State applying public interventions in the price setting for the supply of electricity in accordance with paragraph 3 of this Article shall also comply with point (d) of Article 3(3) and with Article 24 of Regulation (EU) 2018/1999, regardless of whether the Member State concerned has a significant number of households in energy poverty.
 
 **6.** For the purpose of a transition period to establish effective competition for electricity supply contracts between suppliers, and to achieve fully effective market-based retail pricing of electricity in accordance with paragraph 1, Member States may apply public interventions in the price setting for the supply of electricity to household customers and to microenterprises that do not benefit from public interventions pursuant to paragraph 3.
 
-**7.** Public interventions pursuant to paragraph 6 shall comply with the criteria set out in paragraph 4 and shall:
-
-(a) be accompanied by a set of measures to achieve effective competition and a methodology for assessing progress with regard to those measures;
-
-(b) be set using a methodology that ensures non-discriminatory treatment of suppliers;
-
-(c) be set at a price that is above cost, at a level where effective price competition can occur;
-
-(d) be designed to minimise any negative impact on the wholesale electricity market;
-
-(e) ensure that all beneficiaries of such public interventions have the possibility to choose competitive market offers and are directly informed at least every quarter of the availability of offers and savings in the competitive market, in particular of dynamic electricity price contracts, and shall ensure that they are provided with assistance to switch to a market-based offer;
-
-(f) ensure that, pursuant to Articles 19 and 21, all beneficiaries of such public interventions are entitled to, and are offered to, have smart meters installed at no extra upfront cost to the customer, are directly informed of the possibility of installing smart meters and are provided with necessary assistance;
-
-(g) not lead to direct cross-subsidisation between customers supplied at free market prices and those supplied at regulated supply prices.
+**7.** Public interventions pursuant to paragraph 6 shall comply with the criteria set out in paragraph 4 and shall:(a) be accompanied by a set of measures to achieve effective competition and a methodology for assessing progress with regard to those measures;(b) be set using a methodology that ensures non-discriminatory treatment of suppliers;(c) be set at a price that is above cost, at a level where effective price competition can occur;(d) be designed to minimise any negative impact on the wholesale electricity market;(e) ensure that all beneficiaries of such public interventions have the possibility to choose competitive market offers and are directly informed at least every quarter of the availability of offers and savings in the competitive market, in particular of dynamic electricity price contracts, and shall ensure that they are provided with assistance to switch to a market-based offer;(f) ensure that, pursuant to Articles 19 and 21, all beneficiaries of such public interventions are entitled to, and are offered to, have smart meters installed at no extra upfront cost to the customer, are directly informed of the possibility of installing smart meters and are provided with necessary assistance;(g) not lead to direct cross-subsidisation between customers supplied at free market prices and those supplied at regulated supply prices.
 
 **8.** Member States shall notify the measures taken in accordance with paragraphs 3 and 6 to the Commission within one month after their adoption and may apply them immediately. The notification shall be accompanied by an explanation of why other instruments were not sufficient to achieve the objective pursued, of how the requirements set out in paragraphs 4 and 7 are fulfilled and of the effects of the notified measures on competition. The notification shall describe the scope of the beneficiaries, the duration of the measures and the number of household customers affected by the measures, and shall explain how the regulated prices have been determined.
 
@@ -232,11 +208,7 @@ Member States shall ensure that all customers are free to purchase electricity f
 
 ### Article 7 — Direct lines
 
-**1.** Member States shall take the measures necessary to enable:
-
-(a) all producers and electricity supply undertakings established within their territory to supply their own premises, subsidiaries and customers through a direct line, without being subject to disproportionate administrative procedures or costs;
-
-(b) all customers within their territory, individually or jointly, to be supplied through a direct line by producers and electricity supply undertakings.
+**1.** Member States shall take the measures necessary to enable:(a) all producers and electricity supply undertakings established within their territory to supply their own premises, subsidiaries and customers through a direct line, without being subject to disproportionate administrative procedures or costs;(b) all customers within their territory, individually or jointly, to be supplied through a direct line by producers and electricity supply undertakings.
 
 **2.** Member States shall lay down the criteria for the grant of authorisations for the construction of direct lines in their territory. Those criteria shall be objective and non-discriminatory.
 
@@ -252,31 +224,7 @@ Member States shall ensure that all customers are free to purchase electricity f
 
 **1.** For the construction of new generating capacity, Member States shall adopt an authorisation procedure, which shall be conducted in accordance with objective, transparent and non-discriminatory criteria.
 
-**2.** Member States shall lay down the criteria for the grant of authorisations for the construction of generating capacity in their territory. In determining appropriate criteria, Member States shall consider:
-
-(a) the safety and security of the electricity system, installations and associated equipment;
-
-(b) the protection of public health and safety;
-
-(c) the protection of the environment;
-
-(d) land use and siting;
-
-(e) the use of public ground;
-
-(f) energy efficiency;
-
-(g) the nature of the primary sources;
-
-(h) the characteristics particular to the applicant, such as technical, economic and financial capabilities;
-
-(i) compliance with measures adopted pursuant to Article 9;
-
-(j) the contribution of generating capacity to meeting the overall Union target of at least a 32 % share of energy from renewable sources in the Union's gross final consumption of energy in 2030 referred to in Article 3(1) of Directive (EU) 2018/2001 of the European Parliament and of the Council;
-
-(k) the contribution of generating capacity to reducing emissions; and
-
-(l) the alternatives to the construction of new generating capacity, such as demand response solutions and energy storage.
+**2.** Member States shall lay down the criteria for the grant of authorisations for the construction of generating capacity in their territory. In determining appropriate criteria, Member States shall consider:(a) the safety and security of the electricity system, installations and associated equipment;(b) the protection of public health and safety;(c) the protection of the environment;(d) land use and siting;(e) the use of public ground;(f) energy efficiency;(g) the nature of the primary sources;(h) the characteristics particular to the applicant, such as technical, economic and financial capabilities;(i) compliance with measures adopted pursuant to Article 9;(j) the contribution of generating capacity to meeting the overall Union target of at least a 32 % share of energy from renewable sources in the Union's gross final consumption of energy in 2030 referred to in Article 3(1) of Directive (EU) 2018/2001 of the European Parliament and of the Council (4);(k) the contribution of generating capacity to reducing emissions; and(l) the alternatives to the construction of new generating capacity, such as demand response solutions and energy storage.
 
 **3.** Member States shall ensure that specific, simplified and streamlined authorisation procedures exist for small decentralised and/or distributed generation, which take into account their limited size and potential impact.
 
@@ -308,25 +256,9 @@ Where Member States have established particular land use permit procedures apply
 
 **1.** Member States shall ensure that all final customers are entitled to have their electricity provided by a supplier, subject to the supplier's agreement, regardless of the Member State in which the supplier is registered, provided that the supplier follows the applicable trading and balancing rules. In that regard, Member States shall take all measures necessary to ensure that administrative procedures do not discriminate against suppliers already registered in another Member State.
 
-**2.** Without prejudice to Union rules on consumer protection, in particular Directive 2011/83/EU of the European Parliament and of the Council and Council Directive 93/13/EEC, Member States shall ensure that final customers have the rights provided for in paragraphs 3 to 12 of this Article.
+**2.** Without prejudice to Union rules on consumer protection, in particular Directive 2011/83/EU of the European Parliament and of the Council (5) and Council Directive 93/13/EEC (6), Member States shall ensure that final customers have the rights provided for in paragraphs 3 to 12 of this Article.
 
-**3.** Final customers shall have the right to a contract with their supplier that specifies:
-
-(a) the identity and address of the supplier;
-
-(b) the services provided, the service quality levels offered, as well as the time for the initial connection;
-
-(c) the types of maintenance service offered;
-
-(d) the means by which up-to-date information on all applicable tariffs, maintenance charges and bundled products or services may be obtained;
-
-(e) the duration of the contract, the conditions for renewal and termination of the contract and services, including products or services that are bundled with those services, and whether terminating the contract without charge is permitted;
-
-(f) any compensation and the refund arrangements which apply if contracted service quality levels are not met, including inaccurate or delayed billing;
-
-(g) the method of initiating an out-of-court dispute settlement procedure in accordance with Article 26;
-
-(h) information relating to consumer rights, including information on complaint handling and all of the information referred to in this paragraph, that is clearly communicated on the bill or the electricity undertaking's web site.
+**3.** Final customers shall have the right to a contract with their supplier that specifies:(a) the identity and address of the supplier;(b) the services provided, the service quality levels offered, as well as the time for the initial connection;(c) the types of maintenance service offered;(d) the means by which up-to-date information on all applicable tariffs, maintenance charges and bundled products or services may be obtained;(e) the duration of the contract, the conditions for renewal and termination of the contract and services, including products or services that are bundled with those services, and whether terminating the contract without charge is permitted;(f) any compensation and the refund arrangements which apply if contracted service quality levels are not met, including inaccurate or delayed billing;(g) the method of initiating an out-of-court dispute settlement procedure in accordance with Article 26;(h) information relating to consumer rights, including information on complaint handling and all of the information referred to in this paragraph, that is clearly communicated on the bill or the electricity undertaking's web site.
 
 Conditions shall be fair and well known in advance. In any case, this information shall be provided prior to the conclusion or confirmation of the contract. Where contracts are concluded through intermediaries, the information relating to the matters set out in this paragraph shall also be provided prior to the conclusion of the contract.
 
@@ -336,7 +268,7 @@ Final customers shall be provided with a summary of the key contractual conditio
 
 **5.** Suppliers shall provide final customers with transparent information on applicable prices and tariffs and on standard terms and conditions, in respect of access to and use of electricity services.
 
-**6.** Suppliers shall offer final customers a wide choice of payment methods. Such payment methods shall not unduly discriminate between customers. Any difference in charges related to payment methods or prepayment systems shall be objective, non-discriminatory and proportionate and shall not exceed the direct costs borne by the payee for the use of a specific payment method or a prepayment system, in line with Article 62 of Directive (EU) 2015/2366 of the European Parliament and of the Council.
+**6.** Suppliers shall offer final customers a wide choice of payment methods. Such payment methods shall not unduly discriminate between customers. Any difference in charges related to payment methods or prepayment systems shall be objective, non-discriminatory and proportionate and shall not exceed the direct costs borne by the payee for the use of a specific payment method or a prepayment system, in line with Article 62 of Directive (EU) 2015/2366 of the European Parliament and of the Council (7).
 
 **7.** Pursuant to paragraph 6, household customers who have access to prepayment systems shall not be placed at a disadvantage by the prepayment systems.
 
@@ -354,7 +286,7 @@ Final customers shall be provided with a summary of the key contractual conditio
 
 ### Article 11 — Entitlement to a dynamic electricity price contract
 
-**1.** Member States shall ensure that the national regulatory framework enables suppliers to offer dynamic electricity price contracts. Member States shall ensure that final customers who have a smart meter installed can request to conclude a dynamic electricity price contract with at least one supplier and with every supplier that has more than 200000 final customers.
+**1.** Member States shall ensure that the national regulatory framework enables suppliers to offer dynamic electricity price contracts. Member States shall ensure that final customers who have a smart meter installed can request to conclude a dynamic electricity price contract with at least one supplier and with every supplier that has more than 200 000 final customers.
 
 **2.** Member States shall ensure that final customers are fully informed by the suppliers of the opportunities, costs and risks of such dynamic electricity price contracts, and shall ensure that suppliers are required to provide information to the final customers accordingly, including with regard to the need to have an adequate electricity meter installed. Regulatory authorities shall monitor the market developments and assess the risks that the new products and services may entail and deal with abusive practices.
 
@@ -394,23 +326,7 @@ Member States shall ensure that market participants engaged in aggregation fully
 
 ### Article 14 — Comparison tools
 
-**1.** Member States shall ensure that at least household customers, and microenterprises with an expected yearly consumption of below 100000 kWh, have access, free of charge, to at least one tool comparing the offers of suppliers, including offers for dynamic electricity price contracts. Customers shall be informed of the availability of such tools in or together with their bills or by other means. The tools shall meet at least the following requirements:
-
-(a) they shall be independent from market participants and ensure that electricity undertakings are given equal treatment in search results;
-
-(b) they shall clearly disclose their owners and the natural or legal person operating and controlling the tools, as well as information on how the tools are financed;
-
-(c) they shall set out clear and objective criteria on which the comparison is to be based, including services, and disclose them;
-
-(d) they shall use plain and unambiguous language;
-
-(e) they shall provide accurate and up-to-date information and state the time of the last update;
-
-(f) they shall be accessible to persons with disabilities, by being perceivable, operable, understandable and robust;
-
-(g) they shall provide an effective procedure for reporting incorrect information on published offers; and
-
-(h) they shall perform comparisons, while limiting the personal data requested to that strictly necessary for the comparison.
+**1.** Member States shall ensure that at least household customers, and microenterprises with an expected yearly consumption of below 100 000 kWh, have access, free of charge, to at least one tool comparing the offers of suppliers, including offers for dynamic electricity price contracts. Customers shall be informed of the availability of such tools in or together with their bills or by other means. The tools shall meet at least the following requirements:(a) they shall be independent from market participants and ensure that electricity undertakings are given equal treatment in search results;(b) they shall clearly disclose their owners and the natural or legal person operating and controlling the tools, as well as information on how the tools are financed;(c) they shall set out clear and objective criteria on which the comparison is to be based, including services, and disclose them;(d) they shall use plain and unambiguous language;(e) they shall provide accurate and up-to-date information and state the time of the last update;(f) they shall be accessible to persons with disabilities, by being perceivable, operable, understandable and robust;(g) they shall provide an effective procedure for reporting incorrect information on published offers; and(h) they shall perform comparisons, while limiting the personal data requested to that strictly necessary for the comparison.
 
 Member States shall ensure that at least one tool covers the entire market. Where multiple tools cover the market, those tools shall include, as complete as practicable, a range of electricity offers covering a significant part of the market and, where those tools do not completely cover the market, a clear statement to that effect, before displaying results.
 
@@ -430,79 +346,27 @@ Member States shall ensure that at least one tool covers the entire market. Wher
 
 **1.** Member States shall ensure that final customers are entitled to act as active customers without being subject to disproportionate or discriminatory technical requirements, administrative requirements, procedures and charges, and to network charges that are not cost-reflective.
 
-**2.** Member States shall ensure that active customers are:
-
-(a) entitled to operate either directly or through aggregation;
-
-(b) entitled to sell self-generated electricity, including through power purchase agreements;
-
-(c) entitled to participate in flexibility schemes and energy efficiency schemes;
-
-(d) entitled to delegate to a third party the management of the installations required for their activities, including installation, operation, data handling and maintenance, without that third party being considered to be an active customer;
-
-(e) subject to cost-reflective, transparent and non-discriminatory network charges that account separately for the electricity fed into the grid and the electricity consumed from the grid, in accordance with Article 59(9) of this Directive and Article 18 of Regulation (EU) 2019/943, ensuring that they contribute in an adequate and balanced way to the overall cost sharing of the system;
-
-(f) financially responsible for the imbalances they cause in the electricity system; to that extent they shall be balance responsible parties or shall delegate their balancing responsibility in accordance with Article 5 of Regulation (EU) 2019/943.
+**2.** Member States shall ensure that active customers are:(a) entitled to operate either directly or through aggregation;(b) entitled to sell self-generated electricity, including through power purchase agreements;(c) entitled to participate in flexibility schemes and energy efficiency schemes;(d) entitled to delegate to a third party the management of the installations required for their activities, including installation, operation, data handling and maintenance, without that third party being considered to be an active customer;(e) subject to cost-reflective, transparent and non-discriminatory network charges that account separately for the electricity fed into the grid and the electricity consumed from the grid, in accordance with Article 59(9) of this Directive and Article 18 of Regulation (EU) 2019/943, ensuring that they contribute in an adequate and balanced way to the overall cost sharing of the system;(f) financially responsible for the imbalances they cause in the electricity system; to that extent they shall be balance responsible parties or shall delegate their balancing responsibility in accordance with Article 5 of Regulation (EU) 2019/943.
 
 **3.** Member States may have different provisions applicable to individual and jointly-acting active customers in their national law, provided that all rights and obligations under this Article apply to all active customers. Any difference in the treatment of jointly-acting active customers shall be proportionate and duly justified.
 
 **4.** Member States that have existing schemes that do not account separately for the electricity fed into the grid and the electricity consumed from the grid, shall not grant new rights under such schemes after 31 December 2023. In any event, customers subject to existing schemes shall have the possibility at any time to opt for a new scheme that accounts separately for the electricity fed into the grid and the electricity consumed from the grid as the basis for calculating network charges.
 
-**5.** Member States shall ensure that active customers that own an energy storage facility:
-
-(a) have the right to a grid connection within a reasonable time after the request, provided that all necessary conditions, such as balancing responsibility and adequate metering, are fulfilled;
-
-(b) are not subject to any double charges, including network charges, for stored electricity remaining within their premises or when providing flexibility services to system operators;
-
-(c) are not subject to disproportionate licensing requirements or fees;
-
-(d) are allowed to provide several services simultaneously, if technically feasible.
+**5.** Member States shall ensure that active customers that own an energy storage facility:(a) have the right to a grid connection within a reasonable time after the request, provided that all necessary conditions, such as balancing responsibility and adequate metering, are fulfilled;(b) are not subject to any double charges, including network charges, for stored electricity remaining within their premises or when providing flexibility services to system operators;(c) are not subject to disproportionate licensing requirements or fees;(d) are allowed to provide several services simultaneously, if technically feasible.
 
 <a id="art_16"></a>
 
 ### Article 16 — Citizen energy communities
 
-**1.** Member States shall provide an enabling regulatory framework for citizen energy communities ensuring that:
+**1.** Member States shall provide an enabling regulatory framework for citizen energy communities ensuring that:(a) participation in a citizen energy community is open and voluntary;(b) members or shareholders of a citizen energy community are entitled to leave the community, in which case Article 12 applies;(c) members or shareholders of a citizen energy community do not lose their rights and obligations as household customers or active customers;(d) subject to fair compensation as assessed by the regulatory authority, relevant distribution system operators cooperate with citizen energy communities to facilitate electricity transfers within citizen energy communities;(e) citizen energy communities are subject to non-discriminatory, fair, proportionate and transparent procedures and charges, including with respect to registration and licensing, and to transparent, non-discriminatory and cost-reflective network charges in accordance with Article 18 of Regulation (EU) 2019/943, ensuring that they contribute in an adequate and balanced way to the overall cost sharing of the system.
 
-(a) participation in a citizen energy community is open and voluntary;
+**2.** Member States may provide in the enabling regulatory framework that citizen energy communities:(a) are open to cross-border participation;(b) are entitled to own, establish, purchase or lease distribution networks and to autonomously manage them subject to conditions set out in paragraph 4 of this Article;(c) are subject to the exemptions provided for in Article 38(2).
 
-(b) members or shareholders of a citizen energy community are entitled to leave the community, in which case Article 12 applies;
-
-(c) members or shareholders of a citizen energy community do not lose their rights and obligations as household customers or active customers;
-
-(d) subject to fair compensation as assessed by the regulatory authority, relevant distribution system operators cooperate with citizen energy communities to facilitate electricity transfers within citizen energy communities;
-
-(e) citizen energy communities are subject to non-discriminatory, fair, proportionate and transparent procedures and charges, including with respect to registration and licensing, and to transparent, non-discriminatory and cost-reflective network charges in accordance with Article 18 of Regulation (EU) 2019/943, ensuring that they contribute in an adequate and balanced way to the overall cost sharing of the system.
-
-**2.** Member States may provide in the enabling regulatory framework that citizen energy communities:
-
-(a) are open to cross-border participation;
-
-(b) are entitled to own, establish, purchase or lease distribution networks and to autonomously manage them subject to conditions set out in paragraph 4 of this Article;
-
-(c) are subject to the exemptions provided for in Article 38(2).
-
-**3.** Member States shall ensure that citizen energy communities:
-
-(a) are able to access all electricity markets, either directly or through aggregation, in a non-discriminatory manner;
-
-(b) are treated in a non-discriminatory and proportionate manner with regard to their activities, rights and obligations as final customers, producers, suppliers, distribution system operators or market participants engaged in aggregation;
-
-(c) are financially responsible for the imbalances they cause in the electricity system; to that extent they shall be balance responsible parties or shall delegate their balancing responsibility in accordance with Article 5 of Regulation (EU) 2019/943;
-
-(d) with regard to consumption of self-generated electricity, citizen energy communities are treated like active customers in accordance with point (e) of Article 15(2);
-
-(e) are entitled to arrange within the citizen energy community the sharing of electricity that is produced by the production units owned by the community, subject to other requirements laid down in this Article and subject to the community members retaining their rights and obligations as final customers.
+**3.** Member States shall ensure that citizen energy communities:(a) are able to access all electricity markets, either directly or through aggregation, in a non-discriminatory manner;(b) are treated in a non-discriminatory and proportionate manner with regard to their activities, rights and obligations as final customers, producers, suppliers, distribution system operators or market participants engaged in aggregation;(c) are financially responsible for the imbalances they cause in the electricity system; to that extent they shall be balance responsible parties or shall delegate their balancing responsibility in accordance with Article 5 of Regulation (EU) 2019/943;(d) with regard to consumption of self-generated electricity, citizen energy communities are treated like active customers in accordance with point (e) of Article 15(2);(e) are entitled to arrange within the citizen energy community the sharing of electricity that is produced by the production units owned by the community, subject to other requirements laid down in this Article and subject to the community members retaining their rights and obligations as final customers.
 
 For the purposes of point (e) of the first subparagraph, where electricity is shared, this shall be without prejudice to applicable network charges, tariffs and levies, in accordance with a transparent cost-benefit analysis of distributed energy resources developed by the competent national authority.
 
-**4.** Member States may decide to grant citizen energy communities the right to manage distribution networks in their area of operation and establish the relevant procedures, without prejudice to Chapter IV or to other rules and regulations applying to distribution system operators. If such a right is granted, Member States shall ensure that citizen energy communities:
-
-(a) are entitled to conclude an agreement on the operation of their network with the relevant distribution system operator or transmission system operator to which their network is connected;
-
-(b) are subject to appropriate network charges at the connection points between their network and the distribution network outside the citizen energy community and that such network charges account separately for the electricity fed into the distribution network and the electricity consumed from the distribution network outside the citizen energy community in accordance with Article 59(7);
-
-(c) do not discriminate or harm customers who remain connected to the distribution system.
+**4.** Member States may decide to grant citizen energy communities the right to manage distribution networks in their area of operation and establish the relevant procedures, without prejudice to Chapter IV or to other rules and regulations applying to distribution system operators. If such a right is granted, Member States shall ensure that citizen energy communities:(a) are entitled to conclude an agreement on the operation of their network with the relevant distribution system operator or transmission system operator to which their network is connected;(b) are subject to appropriate network charges at the connection points between their network and the distribution network outside the citizen energy community and that such network charges account separately for the electricity fed into the distribution network and the electricity consumed from the distribution network outside the citizen energy community in accordance with Article 59(7);(c) do not discriminate or harm customers who remain connected to the distribution system.
 
 <a id="art_17"></a>
 
@@ -512,19 +376,7 @@ For the purposes of point (e) of the first subparagraph, where electricity is sh
 
 **2.** Member States shall ensure that transmission system operators and distribution system operators, when procuring ancillary services, treat market participants engaged in the aggregation of demand response in a non-discriminatory manner alongside producers on the basis of their technical capabilities.
 
-**3.** Member States shall ensure that their relevant regulatory framework contains at least the following elements:
-
-(a) the right for each market participant engaged in aggregation, including independent aggregators, to enter electricity markets without the consent of other market participants;
-
-(b) non-discriminatory and transparent rules that clearly assign roles and responsibilities to all electricity undertakings and customers;
-
-(c) non-discriminatory and transparent rules and procedures for the exchange of data between market participants engaged in aggregation and other electricity undertakings that ensure easy access to data on equal and non-discriminatory terms while fully protecting commercially sensitive information and customers' personal data;
-
-(d) an obligation on market participants engaged in aggregation to be financially responsible for the imbalances that they cause in the electricity system; to that extent they shall be balance responsible parties or shall delegate their balancing responsibility in accordance with Article 5 of Regulation (EU) 2019/943;
-
-(e) provision for final customers who have a contract with independent aggregators not to be subject to undue payments, penalties or other undue contractual restrictions by their suppliers;
-
-(f) a conflict resolution mechanism between market participants engaged in aggregation and other market participants, including responsibility for imbalances.
+**3.** Member States shall ensure that their relevant regulatory framework contains at least the following elements:(a) the right for each market participant engaged in aggregation, including independent aggregators, to enter electricity markets without the consent of other market participants;(b) non-discriminatory and transparent rules that clearly assign roles and responsibilities to all electricity undertakings and customers;(c) non-discriminatory and transparent rules and procedures for the exchange of data between market participants engaged in aggregation and other electricity undertakings that ensure easy access to data on equal and non-discriminatory terms while fully protecting commercially sensitive information and customers' personal data;(d) an obligation on market participants engaged in aggregation to be financially responsible for the imbalances that they cause in the electricity system; to that extent they shall be balance responsible parties or shall delegate their balancing responsibility in accordance with Article 5 of Regulation (EU) 2019/943;(e) provision for final customers who have a contract with independent aggregators not to be subject to undue payments, penalties or other undue contractual restrictions by their suppliers;(f) a conflict resolution mechanism between market participants engaged in aggregation and other market participants, including responsibility for imbalances.
 
 **4.** Member States may require electricity undertakings or participating final customers to pay financial compensation to other market participants or to the market participants' balance responsible parties, if those market participants or balance responsible parties are directly affected by demand response activation. Such financial compensation shall not create a barrier to market entry for market participants engaged in aggregation or a barrier to flexibility. In such cases, the financial compensation shall be strictly limited to covering the resulting costs incurred by the suppliers of participating customers or the suppliers' balance responsible parties during the activation of demand response. The method for calculating compensation may take account of the benefits brought about by the independent aggregators to other market participants and, where it does so, the aggregators or participating customers may be required to contribute to such compensation but only where and to the extent that the benefits to all suppliers, customers and their balance responsible parties do not exceed the direct costs incurred. The calculation method shall be subject to approval by the regulatory authority or by another competent national authority.
 
@@ -590,19 +442,9 @@ For the purposes of point (e) of the first subparagraph, it shall be possible fo
 
 ### Article 21 — Entitlement to a smart meter
 
-**1.** Where the deployment of smart metering systems has been negatively assessed as a result of the cost-benefit assessment referred to in Article 19(2) and where smart metering systems are not systematically deployed, Member States shall ensure that every final customer is entitled on request, while bearing the associated costs, to have installed or, where applicable, to have upgraded, under fair, reasonable and cost-effective conditions, a smart meter that:
+**1.** Where the deployment of smart metering systems has been negatively assessed as a result of the cost-benefit assessment referred to in Article 19(2) and where smart metering systems are not systematically deployed, Member States shall ensure that every final customer is entitled on request, while bearing the associated costs, to have installed or, where applicable, to have upgraded, under fair, reasonable and cost-effective conditions, a smart meter that:(a) is equipped, where technically feasible, with the functionalities referred to in Article 20, or with a minimum set of functionalities to be defined and published by Member States at national level in accordance with Annex II;(b) is interoperable and able to deliver the desired connectivity of the metering infrastructure with consumer energy management systems in near real-time.
 
-(a) is equipped, where technically feasible, with the functionalities referred to in Article 20, or with a minimum set of functionalities to be defined and published by Member States at national level in accordance with Annex II;
-
-(b) is interoperable and able to deliver the desired connectivity of the metering infrastructure with consumer energy management systems in near real-time.
-
-**2.** In the context of a customer request for a smart meter pursuant to paragraph 1, Member States or, where a Member State has so provided, the designated competent authorities shall:
-
-(a) ensure that the offer to the final customer requesting the installation of a smart meter explicitly states and clearly describes: (i) the functions and interoperability that can be supported by the smart meter and the services that are feasible as well as the benefits that can be realistically attained by having that smart meter at that moment in time; (ii) any associated costs to be borne by the final customer;
-
-(b) ensure that it is installed within a reasonable time, no later than four months after the customer's request;
-
-(c) regularly, and at least every two years, review and make publicly available the associated costs, and trace the evolution of those costs as a result of technology developments and potential metering system upgrades.
+**2.** In the context of a customer request for a smart meter pursuant to paragraph 1, Member States or, where a Member State has so provided, the designated competent authorities shall:(a) ensure that the offer to the final customer requesting the installation of a smart meter explicitly states and clearly describes:(i) the functions and interoperability that can be supported by the smart meter and the services that are feasible as well as the benefits that can be realistically attained by having that smart meter at that moment in time;(ii) any associated costs to be borne by the final customer;(b) ensure that it is installed within a reasonable time, no later than four months after the customer's request;(c) regularly, and at least every two years, review and make publicly available the associated costs, and trace the evolution of those costs as a result of technology developments and potential metering system upgrades.
 
 <a id="art_22"></a>
 
@@ -658,7 +500,7 @@ Member States shall ensure the provision of single points of contact, to provide
 
 ### Article 26 — Right to out-of-court dispute settlement
 
-**1.** Member States shall ensure that final customers have access to simple, fair, transparent, independent, effective and efficient out-of-court mechanisms for the settlement of disputes concerning rights and obligations established under this Directive, through an independent mechanism such as an energy ombudsman or a consumer body, or through a regulatory authority. Where the final customer is a consumer within the meaning of Directive 2013/11/EU of the European Parliament and of the Council, such out-of-court dispute settlement mechanisms shall comply with the quality requirements of Directive 2013/11/EU and shall provide, where warranted, for systems of reimbursement and compensation.
+**1.** Member States shall ensure that final customers have access to simple, fair, transparent, independent, effective and efficient out-of-court mechanisms for the settlement of disputes concerning rights and obligations established under this Directive, through an independent mechanism such as an energy ombudsman or a consumer body, or through a regulatory authority. Where the final customer is a consumer within the meaning of Directive 2013/11/EU of the European Parliament and of the Council (8), such out-of-court dispute settlement mechanisms shall comply with the quality requirements of Directive 2013/11/EU and shall provide, where warranted, for systems of reimbursement and compensation.
 
 **2.** Where necessary, Member States shall ensure that alternative dispute resolution entities cooperate to provide simple, fair, transparent, independent, effective and efficient out-of-court dispute settlement mechanisms for any dispute that arises from products or services that are tied to, or bundled with, any product or service falling under the scope of this Directive.
 
@@ -716,7 +558,7 @@ Member States shall designate or shall require undertakings that own or are resp
 
 **8.** The procurement of the products and services referred to in paragraph 6 shall ensure the effective participation of all qualified market participants, including market participants offering energy from renewable sources, market participants engaged in demand response, operators of energy storage facilities and market participants engaged in aggregation, in particular by requiring regulatory authorities and distribution system operators in close cooperation with all market participants, as well as transmission system operators, to establish the technical requirements for participation in those markets on the basis of the technical characteristics of those markets and the capabilities of all market participants.
 
-**9.** Distribution system operators shall cooperate with transmission system operators for the effective participation of market participants connected to their grid in retail, wholesale and balancing markets. Delivery of balancing services stemming from resources located in the distribution system shall be agreed with the relevant transmission system operator in accordance with Article 57 of Regulation (EU) 2019/943 and Article 182 of Commission Regulation (EU) 2017/1485.
+**9.** Distribution system operators shall cooperate with transmission system operators for the effective participation of market participants connected to their grid in retail, wholesale and balancing markets. Delivery of balancing services stemming from resources located in the distribution system shall be agreed with the relevant transmission system operator in accordance with Article 57 of Regulation (EU) 2019/943 and Article 182 of Commission Regulation (EU) 2017/1485 (9).
 
 **10.** Member States or their designated competent authorities may allow distribution system operators to perform activities other than those provided for in this Directive and in Regulation (EU) 2019/943, where such activities are necessary for the distribution system operators to fulfil their obligations under this Directive or Regulation (EU) 2019/943, provided that the regulatory authority has assessed the necessity of such a derogation. This paragraph shall be without prejudice to the right of the distribution system operators to own, develop, manage or operate networks other than electricity networks where the Member State or the designated competent authority has granted such a right.
 
@@ -732,23 +574,17 @@ Member States shall designate or shall require undertakings that own or are resp
 
 **4.** The distribution system operator shall consult all relevant system users and the relevant transmission system operators on the network development plan. The distribution system operator shall publish the results of the consultation process along with the network development plan, and submit the results of the consultation and the network development plan to the regulatory authority. The regulatory authority may request amendments to the plan.
 
-**5.** Member States may decide not to apply the obligation set out in paragraph 3 to integrated electricity undertakings which serve less than 100000 connected customers or which serve small isolated systems.
+**5.** Member States may decide not to apply the obligation set out in paragraph 3 to integrated electricity undertakings which serve less than 100 000 connected customers or which serve small isolated systems.
 
 <a id="art_33"></a>
 
 ### Article 33 — Integration of electromobility into the electricity network
 
-**1.** Without prejudice to Directive 2014/94/EU of the European Parliament and of the Council, Member States shall provide the necessary regulatory framework to facilitate the connection of publicly accessible and private recharging points to the distribution networks. Member States shall ensure that distribution system operators cooperate on a non-discriminatory basis with any undertaking that owns, develops, operates or manages recharging points for electric vehicles, including with regard to connection to the grid.
+**1.** Without prejudice to Directive 2014/94/EU of the European Parliament and of the Council (10), Member States shall provide the necessary regulatory framework to facilitate the connection of publicly accessible and private recharging points to the distribution networks. Member States shall ensure that distribution system operators cooperate on a non-discriminatory basis with any undertaking that owns, develops, operates or manages recharging points for electric vehicles, including with regard to connection to the grid.
 
 **2.** Distribution system operators shall not own, develop, manage or operate recharging points for electric vehicles, except where distribution system operators own private recharging points solely for their own use.
 
-**3.** By way of derogation from paragraph 2, Member States may allow distribution system operators to own, develop, manage or operate recharging points for electric vehicles, provided that all of the following conditions are fulfilled:
-
-(a) other parties, following an open, transparent and non-discriminatory tendering procedure that is subject to review and approval by the regulatory authority, have not been awarded a right to own, develop, manage or operate recharging points for electric vehicles, or could not deliver those services at a reasonable cost and in a timely manner;
-
-(b) the regulatory authority has carried out an *ex ante* review of the conditions of the tendering procedure under point (a) and has granted its approval;
-
-(c) the distribution system operator operates the recharging points on the basis of third-party access in accordance with Article 6 and does not discriminate between system users or classes of system users, and in particular in favour of its related undertakings.
+**3.** By way of derogation from paragraph 2, Member States may allow distribution system operators to own, develop, manage or operate recharging points for electric vehicles, provided that all of the following conditions are fulfilled:(a) other parties, following an open, transparent and non-discriminatory tendering procedure that is subject to review and approval by the regulatory authority, have not been awarded a right to own, develop, manage or operate recharging points for electric vehicles, or could not deliver those services at a reasonable cost and in a timely manner;(b) the regulatory authority has carried out an *ex ante* review of the conditions of the tendering procedure under point (a) and has granted its approval;(c) the distribution system operator operates the recharging points on the basis of third-party access in accordance with Article 6 and does not discriminate between system users or classes of system users, and in particular in favour of its related undertakings.
 
 The regulatory authority may draw up guidelines or procurement clauses to help distribution system operators ensure a fair tendering procedure.
 
@@ -766,19 +602,11 @@ Member States shall ensure that all eligible parties have non-discriminatory acc
 
 **1.** Where the distribution system operator is part of a vertically integrated undertaking, it shall be independent at least in terms of its legal form, organisation and decision-making from other activities not relating to distribution. Those rules shall not create an obligation to separate the ownership of assets of the distribution system operator from the vertically integrated undertaking.
 
-**2.** In addition to the requirements under paragraph 1, where the distribution system operator is part of a vertically integrated undertaking, it shall be independent in terms of its organisation and decision-making from the other activities not related to distribution. In order to achieve this, the following minimum criteria shall apply:
-
-(a) the persons responsible for the management of the distribution system operator must not participate in company structures of the integrated electricity undertaking responsible, directly or indirectly, for the day-to-day operation of the generation, transmission or supply of electricity;
-
-(b) appropriate measures must be taken to ensure that the professional interests of the persons responsible for the management of the distribution system operator are taken into account in a manner that ensures that they are capable of acting independently;
-
-(c) the distribution system operator must have effective decision-making rights, independent from the integrated electricity undertaking, with respect to assets necessary to operate, maintain or develop the network. In order to fulfil those tasks, the distribution system operator shall have at its disposal the necessary resources including human, technical, physical and financial resources. This should not prevent the existence of appropriate coordination mechanisms to ensure that the economic and management supervision rights of the parent company in respect of return on assets, regulated indirectly in accordance with Article 59(7), in a subsidiary are protected. In particular, this shall enable the parent company to approve the annual financial plan, or any equivalent instrument, of the distribution system operator and to set global limits on the levels of indebtedness of its subsidiary. It shall not permit the parent company to give instructions regarding day-to-day operations, nor with respect to individual decisions concerning the construction or upgrading of distribution lines, that do not exceed the terms of the approved financial plan, or any equivalent instrument; and
-
-(d) the distribution system operator must establish a compliance programme, which sets out measures taken to ensure that discriminatory conduct is excluded, and ensure that observance of it is adequately monitored. The compliance programme shall set out the specific obligations of employees to meet that objective. An annual report, setting out the measures taken, shall be submitted by the person or body responsible for monitoring the compliance programme, the compliance officer of the distribution system operator, to the regulatory authority referred to in Article 57(1) and shall be published. The compliance officer of the distribution system operator shall be fully independent and shall have access to all the necessary information of the distribution system operator and any affiliated undertaking to fulfil its task.
+**2.** In addition to the requirements under paragraph 1, where the distribution system operator is part of a vertically integrated undertaking, it shall be independent in terms of its organisation and decision-making from the other activities not related to distribution. In order to achieve this, the following minimum criteria shall apply:(a) the persons responsible for the management of the distribution system operator must not participate in company structures of the integrated electricity undertaking responsible, directly or indirectly, for the day-to-day operation of the generation, transmission or supply of electricity;(b) appropriate measures must be taken to ensure that the professional interests of the persons responsible for the management of the distribution system operator are taken into account in a manner that ensures that they are capable of acting independently;(c) the distribution system operator must have effective decision-making rights, independent from the integrated electricity undertaking, with respect to assets necessary to operate, maintain or develop the network. In order to fulfil those tasks, the distribution system operator shall have at its disposal the necessary resources including human, technical, physical and financial resources. This should not prevent the existence of appropriate coordination mechanisms to ensure that the economic and management supervision rights of the parent company in respect of return on assets, regulated indirectly in accordance with Article 59(7), in a subsidiary are protected. In particular, this shall enable the parent company to approve the annual financial plan, or any equivalent instrument, of the distribution system operator and to set global limits on the levels of indebtedness of its subsidiary. It shall not permit the parent company to give instructions regarding day-to-day operations, nor with respect to individual decisions concerning the construction or upgrading of distribution lines, that do not exceed the terms of the approved financial plan, or any equivalent instrument; and(d) the distribution system operator must establish a compliance programme, which sets out measures taken to ensure that discriminatory conduct is excluded, and ensure that observance of it is adequately monitored. The compliance programme shall set out the specific obligations of employees to meet that objective. An annual report, setting out the measures taken, shall be submitted by the person or body responsible for monitoring the compliance programme, the compliance officer of the distribution system operator, to the regulatory authority referred to in Article 57(1) and shall be published. The compliance officer of the distribution system operator shall be fully independent and shall have access to all the necessary information of the distribution system operator and any affiliated undertaking to fulfil its task.
 
 **3.** Where the distribution system operator is part of a vertically integrated undertaking, the Member States shall ensure that the activities of the distribution system operator are monitored by regulatory authorities or other competent bodies so that it cannot take advantage of its vertical integration to distort competition. In particular, vertically integrated distribution system operators shall not, in their communication and branding, create confusion with respect to the separate identity of the supply branch of the vertically integrated undertaking.
 
-**4.** Member States may decide not to apply paragraphs 1, 2 and 3 to integrated electricity undertakings which serve less than 100000 connected customers, or serving small isolated systems.
+**4.** Member States may decide not to apply paragraphs 1, 2 and 3 to integrated electricity undertakings which serve less than 100 000 connected customers, or serving small isolated systems.
 
 <a id="art_36"></a>
 
@@ -786,27 +614,13 @@ Member States shall ensure that all eligible parties have non-discriminatory acc
 
 **1.** Distribution system operators shall not own, develop, manage or operate energy storage facilities.
 
-**2.** By way of derogation from paragraph 1, Member States may allow distribution system operators to own, develop, manage or operate energy storage facilities, where they are fully integrated network components and the regulatory authority has granted its approval, or where all of the following conditions are fulfilled:
-
-(a) other parties, following an open, transparent and non-discriminatory tendering procedure that is subject to review and approval by the regulatory authority, have not been awarded a right to own, develop, manage or operate such facilities, or could not deliver those services at a reasonable cost and in a timely manner;
-
-(b) such facilities are necessary for the distribution system operators to fulfil their obligations under this Directive for the efficient, reliable and secure operation of the distribution system and the facilities are not used to buy or sell electricity in the electricity markets; and
-
-(c) the regulatory authority has assessed the necessity of such a derogation and has carried out an assessment of the tendering procedure, including the conditions of the tendering procedure, and has granted its approval.
+**2.** By way of derogation from paragraph 1, Member States may allow distribution system operators to own, develop, manage or operate energy storage facilities, where they are fully integrated network components and the regulatory authority has granted its approval, or where all of the following conditions are fulfilled:(a) other parties, following an open, transparent and non-discriminatory tendering procedure that is subject to review and approval by the regulatory authority, have not been awarded a right to own, develop, manage or operate such facilities, or could not deliver those services at a reasonable cost and in a timely manner;(b) such facilities are necessary for the distribution system operators to fulfil their obligations under this Directive for the efficient, reliable and secure operation of the distribution system and the facilities are not used to buy or sell electricity in the electricity markets; and(c) the regulatory authority has assessed the necessity of such a derogation and has carried out an assessment of the tendering procedure, including the conditions of the tendering procedure, and has granted its approval.
 
 The regulatory authority may draw up guidelines or procurement clauses to help distribution system operators ensure a fair tendering procedure.
 
 **3.** The regulatory authorities shall perform, at regular intervals or at least every five years, a public consultation on the existing energy storage facilities in order to assess the potential availability and interest in investing in such facilities. Where the public consultation, as assessed by the regulatory authority, indicates that third parties are able to own, develop, operate or manage such facilities in a cost-effective manner, the regulatory authority shall ensure that the distribution system operators' activities in this regard are phased out within 18 months. As part of the conditions of that procedure, regulatory authorities may allow the distribution system operators to receive reasonable compensation, in particular to recover the residual value of their investment in the energy storage facilities.
 
-**4.** Paragraph 3 shall not apply to fully integrated network components or for the usual depreciation period of new battery storage facilities with a final investment decision until 4 July 2019, provided that such battery storage facilities are:
-
-(a) connected to the grid at the latest two years thereafter;
-
-(b) integrated into the distribution system;
-
-(c) used only for the reactive instantaneous restoration of network security in the case of network contingencies where such restoration measure starts immediately and ends when regular re-dispatch can solve the issue; and
-
-(d) not used to buy or sell electricity in the electricity markets, including balancing.
+**4.** Paragraph 3 shall not apply to fully integrated network components or for the usual depreciation period of new battery storage facilities with a final investment decision until 4 July 2019, provided that such battery storage facilities are:(a) connected to the grid at the latest two years thereafter;(b) integrated into the distribution system;(c) used only for the reactive instantaneous restoration of network security in the case of network contingencies where such restoration measure starts immediately and ends when regular re-dispatch can solve the issue; and(d) not used to buy or sell electricity in the electricity markets, including balancing.
 
 <a id="art_37"></a>
 
@@ -818,23 +632,9 @@ Without prejudice to Article 55 or another legal requirement to disclose informa
 
 ### Article 38 — Closed distribution systems
 
-**1.** Member States may provide for regulatory authorities or other competent authorities to classify a system which distributes electricity within a geographically confined industrial, commercial or shared services site and does not, without prejudice to paragraph 4, supply household customers, as a closed distribution system if:
+**1.** Member States may provide for regulatory authorities or other competent authorities to classify a system which distributes electricity within a geographically confined industrial, commercial or shared services site and does not, without prejudice to paragraph 4, supply household customers, as a closed distribution system if:(a) for specific technical or safety reasons, the operations or the production process of the users of that system are integrated; or(b) that system distributes electricity primarily to the owner or operator of the system or their related undertakings.
 
-(a) for specific technical or safety reasons, the operations or the production process of the users of that system are integrated; or
-
-(b) that system distributes electricity primarily to the owner or operator of the system or their related undertakings.
-
-**2.** Closed distribution systems shall be considered to be distribution systems for the purposes of this Directive. Member States may provide for regulatory authorities to exempt the operator of a closed distribution system from:
-
-(a) the requirement under Article 31(5) and (7) to procure the energy it uses to cover energy losses and the non-frequency ancillary services in its system in accordance with transparent, non-discriminatory and market-based procedures;
-
-(b) the requirement under Article 6(1) that tariffs, or the methodologies underlying their calculation, are approved in accordance with Article 59(1) prior to their entry into force;
-
-(c) the requirements under Article 32(1) to procure flexibility services and under Article 32(3) to develop the operator's system on the basis of network development plans;
-
-(d) the requirement under Article 33(2) not to own, develop, manage or operate recharging points for electric vehicles; and
-
-(e) the requirement under Article 36(1) not to own, develop, manage or operate energy storage facilities.
+**2.** Closed distribution systems shall be considered to be distribution systems for the purposes of this Directive. Member States may provide for regulatory authorities to exempt the operator of a closed distribution system from:(a) the requirement under Article 31(5) and (7) to procure the energy it uses to cover energy losses and the non-frequency ancillary services in its system in accordance with transparent, non-discriminatory and market-based procedures;(b) the requirement under Article 6(1) that tariffs, or the methodologies underlying their calculation, are approved in accordance with Article 59(1) prior to their entry into force;(c) the requirements under Article 32(1) to procure flexibility services and under Article 32(3) to develop the operator's system on the basis of network development plans;(d) the requirement under Article 33(2) not to own, develop, manage or operate recharging points for electric vehicles; and(e) the requirement under Article 36(1) not to own, develop, manage or operate energy storage facilities.
 
 **3.** Where an exemption is granted under paragraph 2, the applicable tariffs, or the methodologies underlying their calculation, shall be reviewed and approved in accordance with Article 59(1) upon request by a user of the closed distribution system.
 
@@ -852,33 +652,7 @@ Article 35(1) shall not prevent the operation of a combined transmission and dis
 
 ### Article 40 — Tasks of transmission system operators
 
-**1.** Each transmission system operator shall be responsible for:
-
-(a) ensuring the long-term ability of the system to meet reasonable demands for the transmission of electricity, operating, maintaining and developing under economic conditions secure, reliable and efficient transmission system with due regard to the environment, in close cooperation with neighbouring transmission system operators and distribution system operators;
-
-(b) ensuring adequate means to meet its obligations;
-
-(c) contributing to security of supply through adequate transmission capacity and system reliability;
-
-(d) managing electricity flows on the system, taking into account exchanges with other interconnected systems. To that end, the transmission system operator shall be responsible for ensuring a secure, reliable and efficient electricity system and, in that context, for ensuring the availability of all necessary ancillary services, including those provided by demand response and energy storage facilities, insofar as such availability is independent from any other transmission systems with which its system is interconnected;
-
-(e) providing to the operator of other systems with which its system is interconnected sufficient information to ensure the secure and efficient operation, coordinated development and interoperability of the interconnected system;
-
-(f) ensuring non-discrimination as between system users or classes of system users, particularly in favour of its related undertakings;
-
-(g) providing system users with the information they need for efficient access to the system;
-
-(h) collecting congestion rents and payments under the inter-transmission system operator compensation mechanism, in accordance with Article 49 of Regulation (EU) 2019/943, granting and managing third-party access and giving reasoned explanations when it denies such access, which shall be monitored by the regulatory authorities; in carrying out their tasks under this Article transmission system operators shall primarily facilitate market integration;
-
-(i) procuring ancillary services to ensure operational security;
-
-(j) adopting a framework for cooperation and coordination between the regional coordination centres;
-
-(k) participating in the establishment of the European and national resource adequacy assessments pursuant to Chapter IV of Regulation (EU) 2019/943;
-
-(l) the digitalisation of transmission systems;
-
-(m) data management, including the development of data management systems, cybersecurity and data protection, subject to the applicable rules, and without prejudice to the competence of other authorities.
+**1.** Each transmission system operator shall be responsible for:(a) ensuring the long-term ability of the system to meet reasonable demands for the transmission of electricity, operating, maintaining and developing under economic conditions secure, reliable and efficient transmission system with due regard to the environment, in close cooperation with neighbouring transmission system operators and distribution system operators;(b) ensuring adequate means to meet its obligations;(c) contributing to security of supply through adequate transmission capacity and system reliability;(d) managing electricity flows on the system, taking into account exchanges with other interconnected systems. To that end, the transmission system operator shall be responsible for ensuring a secure, reliable and efficient electricity system and, in that context, for ensuring the availability of all necessary ancillary services, including those provided by demand response and energy storage facilities, insofar as such availability is independent from any other transmission systems with which its system is interconnected;(e) providing to the operator of other systems with which its system is interconnected sufficient information to ensure the secure and efficient operation, coordinated development and interoperability of the interconnected system;(f) ensuring non-discrimination as between system users or classes of system users, particularly in favour of its related undertakings;(g) providing system users with the information they need for efficient access to the system;(h) collecting congestion rents and payments under the inter-transmission system operator compensation mechanism, in accordance with Article 49 of Regulation (EU) 2019/943, granting and managing third-party access and giving reasoned explanations when it denies such access, which shall be monitored by the regulatory authorities; in carrying out their tasks under this Article transmission system operators shall primarily facilitate market integration;(i) procuring ancillary services to ensure operational security;(j) adopting a framework for cooperation and coordination between the regional coordination centres;(k) participating in the establishment of the European and national resource adequacy assessments pursuant to Chapter IV of Regulation (EU) 2019/943;(l) the digitalisation of transmission systems;(m) data management, including the development of data management systems, cybersecurity and data protection, subject to the applicable rules, and without prejudice to the competence of other authorities.
 
 **2.** Member States may provide that one or several responsibilities listed in paragraph 1 of this Article be assigned to a transmission system operator other than the one which owns the transmission system to which the responsibilities concerned would otherwise be applicable. The transmission system operator to which the tasks are assigned shall be certified under the ownership unbundling, the independent system operator or the independent transmission system operator model, and fulfil the requirements provided for in Article 43, but shall not be required to own the transmission system it is responsible for.
 
@@ -886,11 +660,7 @@ The transmission system operator which owns the transmission system shall fulfil
 
 **3.** In performing the tasks referred to in paragraph 1, transmission system operators shall take into account the recommendations issued by the regional coordination centres.
 
-**4.** In performing the task referred to in point (i) of paragraph 1, transmission system operators shall procure balancing services subject to the following:
-
-(a) transparent, non-discriminatory and market-based procedures;
-
-(b) the participation of all qualified electricity undertakings and market participants, including market participants offering energy from renewable sources, market participants engaged in demand response, operators of energy storage facilities and market participants engaged in aggregation.
+**4.** In performing the task referred to in point (i) of paragraph 1, transmission system operators shall procure balancing services subject to the following:(a) transparent, non-discriminatory and market-based procedures;(b) the participation of all qualified electricity undertakings and market participants, including market participants offering energy from renewable sources, market participants engaged in demand response, operators of energy storage facilities and market participants engaged in aggregation.
 
 For the purpose of point (b) of the first subparagraph, regulatory authorities and transmission system operators shall, in close cooperation with all market participants, establish technical requirements for participation in those markets, on the basis of the technical characteristics of those markets.
 
@@ -932,23 +702,9 @@ The first subparagraph shall be without prejudice to the possibility for transmi
 
 ### Article 43 — Ownership unbundling of transmission systems and transmission system operators
 
-**1.** Member States shall ensure that:
+**1.** Member States shall ensure that:(a) each undertaking which owns a transmission system acts as a transmission system operator;(b) the same person or persons are not entitled either:(i) directly or indirectly to exercise control over an undertaking performing any of the functions of generation or supply, and directly or indirectly to exercise control or exercise any right over a transmission system operator or over a transmission system; or(ii) directly or indirectly to exercise control over a transmission system operator or over a transmission system, and directly or indirectly to exercise control or exercise any right over an undertaking performing any of the functions of generation or supply;(c) the same person or persons are not entitled to appoint members of the supervisory board, the administrative board or bodies legally representing the undertaking, of a transmission system operator or a transmission system, and directly or indirectly to exercise control or exercise any right over an undertaking performing any of the functions of generation or supply; and(d) the same person is not entitled to be a member of the supervisory board, the administrative board or bodies legally representing the undertaking, of both an undertaking performing any of the functions of generation or supply and a transmission system operator or a transmission system.
 
-(a) each undertaking which owns a transmission system acts as a transmission system operator;
-
-(b) the same person or persons are not entitled either: (i) directly or indirectly to exercise control over an undertaking performing any of the functions of generation or supply, and directly or indirectly to exercise control or exercise any right over a transmission system operator or over a transmission system; or (ii) directly or indirectly to exercise control over a transmission system operator or over a transmission system, and directly or indirectly to exercise control or exercise any right over an undertaking performing any of the functions of generation or supply;
-
-(c) the same person or persons are not entitled to appoint members of the supervisory board, the administrative board or bodies legally representing the undertaking, of a transmission system operator or a transmission system, and directly or indirectly to exercise control or exercise any right over an undertaking performing any of the functions of generation or supply; and
-
-(d) the same person is not entitled to be a member of the supervisory board, the administrative board or bodies legally representing the undertaking, of both an undertaking performing any of the functions of generation or supply and a transmission system operator or a transmission system.
-
-**2.** The rights referred to in points (b) and (c) of paragraph 1 shall include, in particular:
-
-(a) the power to exercise voting rights;
-
-(b) the power to appoint members of the supervisory board, the administrative board or bodies legally representing the undertaking; or
-
-(c) the holding of a majority share.
+**2.** The rights referred to in points (b) and (c) of paragraph 1 shall include, in particular:(a) the power to exercise voting rights;(b) the power to appoint members of the supervisory board, the administrative board or bodies legally representing the undertaking; or(c) the holding of a majority share.
 
 **3.** For the purpose of point (b) of paragraph 1, the notion ‘undertaking performing any of the functions of generation or supply’ shall include ‘undertaking performing any of the functions of production and supply’ within the meaning of Directive 2009/73/EC, and the terms ‘transmission system operator’ and ‘transmission system’ shall include ‘transmission system operator’ and ‘transmission system’ within the meaning of that Directive.
 
@@ -982,31 +738,13 @@ In such case, the Member State concerned shall either:
 
 **1.** Where the transmission system belongs to a vertically integrated undertaking on 3 September 2009, Member States may decide not to apply Article 43(1) and designate an independent system operator upon a proposal from the transmission system owner. Such designation shall be subject to approval by the Commission.
 
-**2.** The Member State may approve and designate an independent system operator provided that:
-
-(a) the candidate operator has demonstrated that it complies with the requirements laid down in points (b), (c) and (d) of Article 43(1);
-
-(b) the candidate operator has demonstrated that it has at its disposal the required financial, technical, physical and human resources to carry out its tasks under Article 40;
-
-(c) the candidate operator has undertaken to comply with a ten-year network development plan monitored by the regulatory authority;
-
-(d) the transmission system owner has demonstrated its ability to comply with its obligations under paragraph 5. To that end, it shall provide all the draft contractual arrangements with the candidate operator and any other relevant entity; and
-
-(e) the candidate operator has demonstrated its ability to comply with its obligations under Regulation (EU) 2019/943, including the cooperation of transmission system operators at European and regional level.
+**2.** The Member State may approve and designate an independent system operator provided that:(a) the candidate operator has demonstrated that it complies with the requirements laid down in points (b), (c) and (d) of Article 43(1);(b) the candidate operator has demonstrated that it has at its disposal the required financial, technical, physical and human resources to carry out its tasks under Article 40;(c) the candidate operator has undertaken to comply with a ten-year network development plan monitored by the regulatory authority;(d) the transmission system owner has demonstrated its ability to comply with its obligations under paragraph 5. To that end, it shall provide all the draft contractual arrangements with the candidate operator and any other relevant entity; and(e) the candidate operator has demonstrated its ability to comply with its obligations under Regulation (EU) 2019/943, including the cooperation of transmission system operators at European and regional level.
 
 **3.** Undertakings which have been certified by the regulatory authority as having complied with the requirements of Article 53 and paragraph 2 of this Article shall be approved and designated as independent system operators by Member States. The certification procedure in either Article 52 of this Directive and Article 51 of Regulation (EU) 2019/943 or in Article 53 of this Directive shall be applicable.
 
 **4.** Each independent system operator shall be responsible for granting and managing third-party access, including the collection of access charges, congestion charges, and payments under the inter-transmission system operator compensation mechanism in accordance with Article 49 of Regulation (EU) 2019/943, as well as for operating, maintaining and developing the transmission system, and for ensuring the long-term ability of the system to meet reasonable demand through investment planning. When developing the transmission system, the independent system operator shall be responsible for planning (including authorisation procedure), construction and commissioning of the new infrastructure. For this purpose, the independent system operator shall act as a transmission system operator in accordance with this Section. The transmission system owner shall not be responsible for granting and managing third-party access, nor for investment planning.
 
-**5.** Where an independent system operator has been designated, the transmission system owner shall:
-
-(a) provide all the relevant cooperation and support to the independent system operator for the fulfilment of its tasks, including in particular all relevant information;
-
-(b) finance the investments decided by the independent system operator and approved by the regulatory authority, or give its agreement to financing by any interested party including the independent system operator. The relevant financing arrangements shall be subject to approval by the regulatory authority. Prior to such approval, the regulatory authority shall consult the transmission system owner together with the other interested parties;
-
-(c) provide for the coverage of liability relating to the network assets, excluding the liability relating to the tasks of the independent system operator; and
-
-(d) provide guarantees to facilitate financing any network expansions with the exception of those investments where, pursuant to point (b), it has given its agreement to financing by any interested party including the independent system operator.
+**5.** Where an independent system operator has been designated, the transmission system owner shall:(a) provide all the relevant cooperation and support to the independent system operator for the fulfilment of its tasks, including in particular all relevant information;(b) finance the investments decided by the independent system operator and approved by the regulatory authority, or give its agreement to financing by any interested party including the independent system operator. The relevant financing arrangements shall be subject to approval by the regulatory authority. Prior to such approval, the regulatory authority shall consult the transmission system owner together with the other interested parties;(c) provide for the coverage of liability relating to the network assets, excluding the liability relating to the tasks of the independent system operator; and(d) provide guarantees to facilitate financing any network expansions with the exception of those investments where, pursuant to point (b), it has given its agreement to financing by any interested party including the independent system operator.
 
 **6.** In close cooperation with the regulatory authority, the relevant national competition authority shall be granted all relevant powers to effectively monitor compliance of the transmission system owner with its obligations under paragraph 5.
 
@@ -1016,13 +754,7 @@ In such case, the Member State concerned shall either:
 
 **1.** A transmission system owner, where an independent system operator has been appointed, which is part of a vertically integrated undertaking shall be independent at least in terms of its legal form, organisation and decision-making from other activities not relating to transmission.
 
-**2.** In order to ensure the independence of the transmission system owner referred to in paragraph 1, the following minimum criteria shall apply:
-
-(a) persons responsible for the management of the transmission system owner shall not participate in company structures of the integrated electricity undertaking responsible, directly or indirectly, for the day-to-day operation of the generation, distribution and supply of electricity;
-
-(b) appropriate measures shall be taken to ensure that the professional interests of persons responsible for the management of the transmission system owner are taken into account in a manner that ensures that they are capable of acting independently; and
-
-(c) the transmission system owner shall establish a compliance programme, which sets out measures taken to ensure that discriminatory conduct is excluded, and ensure that observance of it is adequately monitored. The compliance programme shall set out the specific obligations of employees to meet those objectives. An annual report, setting out the measures taken, shall be submitted by the person or body responsible for monitoring the compliance programme to the regulatory authority and shall be published.
+**2.** In order to ensure the independence of the transmission system owner referred to in paragraph 1, the following minimum criteria shall apply:(a) persons responsible for the management of the transmission system owner shall not participate in company structures of the integrated electricity undertaking responsible, directly or indirectly, for the day-to-day operation of the generation, distribution and supply of electricity;(b) appropriate measures shall be taken to ensure that the professional interests of persons responsible for the management of the transmission system owner are taken into account in a manner that ensures that they are capable of acting independently; and(c) the transmission system owner shall establish a compliance programme, which sets out measures taken to ensure that discriminatory conduct is excluded, and ensure that observance of it is adequately monitored. The compliance programme shall set out the specific obligations of employees to meet those objectives. An annual report, setting out the measures taken, shall be submitted by the person or body responsible for monitoring the compliance programme to the regulatory authority and shall be published.
 
 ### Section 3 — Independent transmission operators
 
@@ -1030,35 +762,11 @@ In such case, the Member State concerned shall either:
 
 ### Article 46 — Assets, equipment, staff and identity
 
-**1.** Transmission system operators shall be equipped with all human, technical, physical and financial resources necessary for fulfilling their obligations under this Directive and carrying out the activity of electricity transmission, in particular:
+**1.** Transmission system operators shall be equipped with all human, technical, physical and financial resources necessary for fulfilling their obligations under this Directive and carrying out the activity of electricity transmission, in particular:(a) assets that are necessary for the activity of electricity transmission, including the transmission system, shall be owned by the transmission system operator;(b) personnel, necessary for the activity of electricity transmission, including the performance of all corporate tasks, shall be employed by the transmission system operator;(c) leasing of personnel and rendering of services, to and from other parts of the vertically integrated undertaking shall be prohibited. A transmission system operator may, however, render services to the vertically integrated undertaking, provided that:(i) the provision of those services does not discriminate between system users, is available to all system users on the same terms and conditions and does not restrict, distort or prevent competition in generation or supply; and(ii) the terms and conditions of the provision of those services are approved by the regulatory authority;(d) without prejudice to the decisions of the Supervisory Body under Article 49, appropriate financial resources for future investment projects and/or for the replacement of existing assets shall be made available to the transmission system operator in due time by the vertically integrated undertaking after an appropriate request from the transmission system operator.
 
-(a) assets that are necessary for the activity of electricity transmission, including the transmission system, shall be owned by the transmission system operator;
+**2.** The activity of electricity transmission shall include at least the following tasks in addition to those listed in Article 40:(a) the representation of the transmission system operator and contacts to third parties and the regulatory authorities;(b) the representation of the transmission system operator within the ENTSO for Electricity;(c) granting and managing third-party access on a non-discriminatory basis between system users or classes of system users;(d) the collection of all the transmission system related charges including access charges, energy for losses and ancillary services charges;(e) the operation, maintenance and development of a secure, efficient and economic transmission system;(f) investment planning ensuring the long-term ability of the system to meet reasonable demand and guaranteeing security of supply;(g) the setting up of appropriate joint ventures, including with one or more transmission system operators, power exchanges, and the other relevant actors pursuing the objectives to develop the creation of regional markets or to facilitate the liberalisation process; and(h) all corporate services, including legal services, accountancy and IT services.
 
-(b) personnel, necessary for the activity of electricity transmission, including the performance of all corporate tasks, shall be employed by the transmission system operator;
-
-(c) leasing of personnel and rendering of services, to and from other parts of the vertically integrated undertaking shall be prohibited. A transmission system operator may, however, render services to the vertically integrated undertaking, provided that: (i) the provision of those services does not discriminate between system users, is available to all system users on the same terms and conditions and does not restrict, distort or prevent competition in generation or supply; and (ii) the terms and conditions of the provision of those services are approved by the regulatory authority;
-
-(d) without prejudice to the decisions of the Supervisory Body under Article 49, appropriate financial resources for future investment projects and/or for the replacement of existing assets shall be made available to the transmission system operator in due time by the vertically integrated undertaking after an appropriate request from the transmission system operator.
-
-**2.** The activity of electricity transmission shall include at least the following tasks in addition to those listed in Article 40:
-
-(a) the representation of the transmission system operator and contacts to third parties and the regulatory authorities;
-
-(b) the representation of the transmission system operator within the ENTSO for Electricity;
-
-(c) granting and managing third-party access on a non-discriminatory basis between system users or classes of system users;
-
-(d) the collection of all the transmission system related charges including access charges, energy for losses and ancillary services charges;
-
-(e) the operation, maintenance and development of a secure, efficient and economic transmission system;
-
-(f) investment planning ensuring the long-term ability of the system to meet reasonable demand and guaranteeing security of supply;
-
-(g) the setting up of appropriate joint ventures, including with one or more transmission system operators, power exchanges, and the other relevant actors pursuing the objectives to develop the creation of regional markets or to facilitate the liberalisation process; and
-
-(h) all corporate services, including legal services, accountancy and IT services.
-
-**3.** Transmission system operators shall be organised in a legal form as referred to in Annex I to Directive (EU) 2017/1132 of the European Parliament and of the Council.
+**3.** Transmission system operators shall be organised in a legal form as referred to in Annex I to Directive (EU) 2017/1132 of the European Parliament and of the Council (11).
 
 **4.** The transmission system operator shall not, in its corporate identity, communication, branding and premises, create confusion with respect to the separate identity of the vertically integrated undertaking or any part thereof.
 
@@ -1070,11 +778,7 @@ In such case, the Member State concerned shall either:
 
 ### Article 47 — Independence of the transmission system operator
 
-**1.** Without prejudice to the decisions of the Supervisory Body under Article 49, the transmission system operator shall have:
-
-(a) effective decision-making rights, independent from the vertically integrated undertaking, with respect to assets necessary to operate, maintain or develop the transmission system; and
-
-(b) the power to raise money on the capital market in particular through borrowing and capital increase.
+**1.** Without prejudice to the decisions of the Supervisory Body under Article 49, the transmission system operator shall have:(a) effective decision-making rights, independent from the vertically integrated undertaking, with respect to assets necessary to operate, maintain or develop the transmission system; and(b) the power to raise money on the capital market in particular through borrowing and capital increase.
 
 **2.** The transmission system operator shall at all times act so as to ensure it has the resources it needs in order to carry out the activity of transmission properly and efficiently and develop and maintain an efficient, secure and economic transmission system.
 
@@ -1144,17 +848,7 @@ Point (b) of the second subparagraph of Article 48(2) shall apply to all the mem
 
 **2.** The compliance officer shall be appointed by the Supervisory Body, subject to approval by the regulatory authority. The regulatory authority may refuse the approval of the compliance officer only for reasons of lack of independence or professional capacity. The compliance officer may be a natural or legal person. Article 48(2) to (8) shall apply to the compliance officer.
 
-**3.** The compliance officer shall be in charge of:
-
-(a) monitoring the implementation of the compliance programme;
-
-(b) elaborating an annual report, setting out the measures taken in order to implement the compliance programme and submitting it to the regulatory authority;
-
-(c) reporting to the Supervisory Body and issuing recommendations on the compliance programme and its implementation;
-
-(d) notifying the regulatory authority on any substantial breaches with regard to the implementation of the compliance programme; and
-
-(e) reporting to the regulatory authority on any commercial and financial relations between the vertically integrated undertaking and the transmission system operator.
+**3.** The compliance officer shall be in charge of:(a) monitoring the implementation of the compliance programme;(b) elaborating an annual report, setting out the measures taken in order to implement the compliance programme and submitting it to the regulatory authority;(c) reporting to the Supervisory Body and issuing recommendations on the compliance programme and its implementation;(d) notifying the regulatory authority on any substantial breaches with regard to the implementation of the compliance programme; and(e) reporting to the regulatory authority on any commercial and financial relations between the vertically integrated undertaking and the transmission system operator.
 
 **4.** The compliance officer shall submit the proposed decisions on the investment plan or on individual investments in the network to the regulatory authority. This shall occur at the latest when the management and/or the competent administrative body of the transmission system operator submits them to the Supervisory Body.
 
@@ -1164,13 +858,7 @@ Point (b) of the second subparagraph of Article 48(2) shall apply to all the mem
 
 **7.** The compliance officer shall report regularly, either orally or in writing, to the regulatory authority and shall have the right to report regularly, either orally or in writing, to the Supervisory Body of the transmission system operator.
 
-**8.** The compliance officer may attend all meetings of the management or administrative bodies of the transmission system operator, and those of the Supervisory Body and the general assembly. The compliance officer shall attend all meetings that address the following matters:
-
-(a) conditions for access to the network, as laid down in Regulation (EU) 2019/943, in particular regarding tariffs, third-party access services, capacity allocation and congestion management, transparency, ancillary services and secondary markets;
-
-(b) projects undertaken in order to operate, maintain and develop the transmission system, including interconnection and connection investments;
-
-(c) energy purchases or sales necessary for the operation of the transmission system.
+**8.** The compliance officer may attend all meetings of the management or administrative bodies of the transmission system operator, and those of the Supervisory Body and the general assembly. The compliance officer shall attend all meetings that address the following matters:(a) conditions for access to the network, as laid down in Regulation (EU) 2019/943, in particular regarding tariffs, third-party access services, capacity allocation and congestion management, transparency, ancillary services and secondary markets;(b) projects undertaken in order to operate, maintain and develop the transmission system, including interconnection and connection investments;(c) energy purchases or sales necessary for the operation of the transmission system.
 
 **9.** The compliance officer shall monitor the compliance of the transmission system operator with Article 41.
 
@@ -1186,13 +874,7 @@ Point (b) of the second subparagraph of Article 48(2) shall apply to all the mem
 
 **1.** At least every two years, transmission system operators shall submit to the regulatory authority a ten-year network development plan based on existing and forecast supply and demand after having consulted all the relevant stakeholders. That network development plan shall contain efficient measures in order to guarantee the adequacy of the system and the security of supply. The transmission system operator shall publish the ten-year network development plan on its website.
 
-**2.** The ten-year network development plan shall in particular:
-
-(a) indicate to market participants the main transmission infrastructure that needs to be built or upgraded over the next ten years;
-
-(b) contain all the investments already decided and identify new investments which have to be executed in the next three years; and
-
-(c) provide for a time frame for all investment projects.
+**2.** The ten-year network development plan shall in particular:(a) indicate to market participants the main transmission infrastructure that needs to be built or upgraded over the next ten years;(b) contain all the investments already decided and identify new investments which have to be executed in the next three years; and(c) provide for a time frame for all investment projects.
 
 **3.** When elaborating the ten-year network development plan, the transmission system operator shall fully take into account the potential for the use of demand response, energy storage facilities or other resources as alternatives to system expansion, as well as expected consumption, trade with other countries and investment plans for Union-wide and regional networks.
 
@@ -1204,23 +886,9 @@ The competent national authorities shall examine the consistency of the ten-year
 
 **6.** The regulatory authority shall monitor and evaluate the implementation of the ten-year network development plan.
 
-**7.** In circumstances where the transmission system operator, other than for overriding reasons beyond its control, does not execute an investment, which, under the ten-year network development plan, was to be executed in the following three years, Member States shall ensure that the regulatory authority is required to take at least one of the following measures to ensure that the investment in question is made if such investment is still relevant on the basis of the most recent ten-year network development plan:
+**7.** In circumstances where the transmission system operator, other than for overriding reasons beyond its control, does not execute an investment, which, under the ten-year network development plan, was to be executed in the following three years, Member States shall ensure that the regulatory authority is required to take at least one of the following measures to ensure that the investment in question is made if such investment is still relevant on the basis of the most recent ten-year network development plan:(a) to require the transmission system operator to execute the investments in question;(b) to organise a tender procedure open to any investors for the investment in question; or(c) to oblige the transmission system operator to accept a capital increase to finance the necessary investments and allow independent investors to participate in the capital.
 
-(a) to require the transmission system operator to execute the investments in question;
-
-(b) to organise a tender procedure open to any investors for the investment in question; or
-
-(c) to oblige the transmission system operator to accept a capital increase to finance the necessary investments and allow independent investors to participate in the capital.
-
-**8.** Where the regulatory authority has made use of its powers under point (b) of paragraph 7, it may oblige the transmission system operator to agree to one or more of the following:
-
-(a) financing by any third party;
-
-(b) construction by any third party;
-
-(c) building the new assets concerned itself;
-
-(d) operating the new asset concerned itself.
+**8.** Where the regulatory authority has made use of its powers under point (b) of paragraph 7, it may oblige the transmission system operator to agree to one or more of the following:(a) financing by any third party;(b) construction by any third party;(c) building the new assets concerned itself;(d) operating the new asset concerned itself.
 
 The transmission system operator shall provide the investors with all information needed to realise the investment, shall connect new assets to the transmission network and shall generally make its best efforts to facilitate the implementation of the investment project.
 
@@ -1240,13 +908,7 @@ The relevant financial arrangements shall be subject to approval by the regulato
 
 **3.** Transmission system operators shall notify to the regulatory authority any planned transaction which may require a reassessment of their compliance with the requirements of Article 43.
 
-**4.** Regulatory authorities shall monitor the continuing compliance of transmission system operators with the requirements of Article 43. They shall open a certification procedure to ensure such compliance:
-
-(a) upon notification by the transmission system operator pursuant to paragraph 3;
-
-(b) on their own initiative where they have knowledge that a planned change in rights or influence over transmission system owners or transmission system operators may lead to an infringement of Article 43, or where they have reason to believe that such an infringement may have occurred; or
-
-(c) upon a reasoned request from the Commission.
+**4.** Regulatory authorities shall monitor the continuing compliance of transmission system operators with the requirements of Article 43. They shall open a certification procedure to ensure such compliance:(a) upon notification by the transmission system operator pursuant to paragraph 3;(b) on their own initiative where they have knowledge that a planned change in rights or influence over transmission system owners or transmission system operators may lead to an infringement of Article 43, or where they have reason to believe that such an infringement may have occurred; or(c) upon a reasoned request from the Commission.
 
 **5.** The regulatory authorities shall adopt a decision on the certification of a transmission system operator within four months of the date of the notification by the transmission system operator or from the date of the Commission request. After expiry of that period, the certification shall be deemed to be granted. The explicit or tacit decision of the regulatory authority shall become effective only after conclusion of the procedure set out in paragraph 6.
 
@@ -1266,19 +928,11 @@ The regulatory authority shall also notify to the Commission without delay any c
 
 **2.** The transmission system operator shall notify to the regulatory authority any circumstances that would result in a person or persons from a third country or third countries acquiring control of the transmission system or the transmission system operator.
 
-**3.** The regulatory authority shall adopt a draft decision on the certification of a transmission system operator within four months of the date of notification by the transmission system operator. It shall refuse the certification if it has not been demonstrated:
-
-(a) that the entity concerned complies with the requirements of Article 43; and
-
-(b) to the regulatory authority or to another competent national authority designated by the Member State that granting certification will not put at risk the security of energy supply of the Member State and the Union. In considering that question the regulatory authority or other competent national authority shall take into account: (i) the rights and obligations of the Union with respect to that third country arising under international law, including any agreement concluded with one or more third countries to which the Union is a party and which addresses the issues of security of energy supply; (ii) the rights and obligations of the Member State with respect to that third country arising under agreements concluded with it, insofar as they comply with Union law; and (iii) other specific facts and circumstances of the case and the third country concerned.
+**3.** The regulatory authority shall adopt a draft decision on the certification of a transmission system operator within four months of the date of notification by the transmission system operator. It shall refuse the certification if it has not been demonstrated:(a) that the entity concerned complies with the requirements of Article 43; and(b) to the regulatory authority or to another competent national authority designated by the Member State that granting certification will not put at risk the security of energy supply of the Member State and the Union. In considering that question the regulatory authority or other competent national authority shall take into account:(i) the rights and obligations of the Union with respect to that third country arising under international law, including any agreement concluded with one or more third countries to which the Union is a party and which addresses the issues of security of energy supply;(ii) the rights and obligations of the Member State with respect to that third country arising under agreements concluded with it, insofar as they comply with Union law; and(iii) other specific facts and circumstances of the case and the third country concerned.
 
 **4.** The regulatory authority shall notify the decision to the Commission without delay, together with all the relevant information with respect to that decision.
 
-**5.** Member States shall provide for the regulatory authority or the designated competent authority referred to in point (b) of paragraph 3, before the regulatory authority adopts a decision on the certification, to request an opinion from the Commission on whether:
-
-(a) the entity concerned complies with the requirements of Article 43; and
-
-(b) granting certification will not put at risk the security of energy supply to the Union.
+**5.** Member States shall provide for the regulatory authority or the designated competent authority referred to in point (b) of paragraph 3, before the regulatory authority adopts a decision on the certification, to request an opinion from the Commission on whether:(a) the entity concerned complies with the requirements of Article 43; and(b) granting certification will not put at risk the security of energy supply to the Union.
 
 **6.** The Commission shall examine the request referred to in paragraph 5 as soon as it is received. Within two months of receiving the request, it shall deliver its opinion to the regulatory authority or, if the request was made by the designated competent authority, to that authority.
 
@@ -1286,11 +940,7 @@ In preparing the opinion, the Commission may request the views of ACER, the Memb
 
 In the absence of an opinion by the Commission within the period referred to in the first and second subparagraphs, the Commission shall be deemed not to raise objections to the decision of the regulatory authority.
 
-**7.** When assessing whether the control by a person or persons from a third country or third countries will put at risk the security of energy supply to the Union, the Commission shall take into account:
-
-(a) the specific facts of the case and the third country or third countries concerned; and
-
-(b) the rights and obligations of the Union with respect to that third country or third countries arising under international law, including an agreement concluded with one or more third countries to which the Union is a party and which addresses the issues of security of supply.
+**7.** When assessing whether the control by a person or persons from a third country or third countries will put at risk the security of energy supply to the Union, the Commission shall take into account:(a) the specific facts of the case and the third country or third countries concerned; and(b) the rights and obligations of the Union with respect to that third country or third countries arising under international law, including an agreement concluded with one or more third countries to which the Union is a party and which addresses the issues of security of supply.
 
 **8.** The regulatory authority shall, within two months of the expiry of the period referred to in paragraph 6, adopt its final decision on the certification. In adopting its final decision the regulatory authority shall take utmost account of the Commission's opinion. In any event Member States shall have the right to refuse certification where granting certification puts at risk the Member State's security of energy supply or the security of energy supply of another Member State. Where the Member State has designated another competent national authority to make the assessment referred to in point (b) of paragraph 3, it may require the regulatory authority to adopt its final decision in accordance with the assessment of that competent national authority. The regulatory authority's final decision and the Commission's opinion shall be published together. Where the final decision diverges from the Commission's opinion, the Member State concerned shall provide and publish, together with that decision, the reasoning underlying such decision.
 
@@ -1304,13 +954,7 @@ In the absence of an opinion by the Commission within the period referred to in 
 
 **1.** Transmission system operators shall not own, develop, manage or operate energy storage facilities.
 
-**2.** By way of derogation from paragraph 1, Member States may allow transmission system operators to own, develop, manage or operate energy storage facilities, where they are fully integrated network components and the regulatory authority has granted its approval, or where all of the following conditions are fulfilled:
-
-(a) other parties, following an open, transparent and non-discriminatory tendering procedure that is subject to review and approval by the regulatory authority, have not been awarded a right to own, develop, manage or operate such facilities, or could not deliver those services at a reasonable cost and in a timely manner;
-
-(b) such facilities or non-frequency ancillary services are necessary for the transmission system operators to fulfil their obligations under this Directive for the efficient, reliable and secure operation of the transmission system and they are not used to buy or sell electricity in the electricity markets; and
-
-(c) the regulatory authority has assessed the necessity of such a derogation, has carried out an *ex ante* review of the applicability of a tendering procedure, including the conditions of the tendering procedure, and has granted its approval.
+**2.** By way of derogation from paragraph 1, Member States may allow transmission system operators to own, develop, manage or operate energy storage facilities, where they are fully integrated network components and the regulatory authority has granted its approval, or where all of the following conditions are fulfilled:(a) other parties, following an open, transparent and non-discriminatory tendering procedure that is subject to review and approval by the regulatory authority, have not been awarded a right to own, develop, manage or operate such facilities, or could not deliver those services at a reasonable cost and in a timely manner;(b) such facilities or non-frequency ancillary services are necessary for the transmission system operators to fulfil their obligations under this Directive for the efficient, reliable and secure operation of the transmission system and they are not used to buy or sell electricity in the electricity markets; and(c) the regulatory authority has assessed the necessity of such a derogation, has carried out an *ex ante* review of the applicability of a tendering procedure, including the conditions of the tendering procedure, and has granted its approval.
 
 The regulatory authority may draw up guidelines or procurement clauses to help transmission system operators ensure a fair tendering procedure.
 
@@ -1318,15 +962,7 @@ The regulatory authority may draw up guidelines or procurement clauses to help t
 
 **4.** The regulatory authorities shall perform, at regular intervals or at least every five years, a public consultation on the existing energy storage facilities in order to assess the potential availability and interest of other parties in investing in such facilities. Where the public consultation, as assessed by the regulatory authority, indicates that other parties are able to own, develop, operate or manage such facilities in a cost-effective manner, the regulatory authority shall ensure that transmission system operators' activities in this regard are phased-out within 18 months. As part of the conditions of that procedure, regulatory authorities may allow the transmission system operators to receive reasonable compensation, in particular to recover the residual value of their investment in the energy storage facilities.
 
-**5.** Paragraph 4 shall not apply to fully integrated network components or for the usual depreciation period of new battery storage facilities with a final investment decision until 2024, provided that such battery storage facilities are:
-
-(a) connected to the grid at the latest two years thereafter;
-
-(b) integrated into the transmission system;
-
-(c) used only for the reactive instantaneous restoration of network security in the case of network contingencies where such restoration measure starts immediately and ends when regular re-dispatch can solve the issue; and
-
-(d) not used to buy or sell electricity in the electricity markets, including balancing.
+**5.** Paragraph 4 shall not apply to fully integrated network components or for the usual depreciation period of new battery storage facilities with a final investment decision until 2024, provided that such battery storage facilities are:(a) connected to the grid at the latest two years thereafter;(b) integrated into the transmission system;(c) used only for the reactive instantaneous restoration of network security in the case of network contingencies where such restoration measure starts immediately and ends when regular re-dispatch can solve the issue; and(d) not used to buy or sell electricity in the electricity markets, including balancing.
 
 ### Section 5 — Unbundling and transparency of accounts
 
@@ -1364,27 +1000,9 @@ Undertakings which are not legally obliged to publish their annual accounts shal
 
 **3.** By way of derogation from paragraph 1, a Member State may designate regulatory authorities for small systems in a geographically separate region whose consumption, in 2008, accounted for less than 3 % of the total consumption of the Member State of which it is part. That derogation shall be without prejudice to the appointment of one senior representative for representation and contact purposes at Union level within ACER's Board of Regulators in accordance with Article 21(1) of Regulation (EU) 2019/942.
 
-**4.** Member States shall guarantee the independence of the regulatory authority and shall ensure that it exercises its powers impartially and transparently. For that purpose, Member States shall ensure that, when carrying out the regulatory tasks conferred upon it by this Directive and related legislation, the regulatory authority:
+**4.** Member States shall guarantee the independence of the regulatory authority and shall ensure that it exercises its powers impartially and transparently. For that purpose, Member States shall ensure that, when carrying out the regulatory tasks conferred upon it by this Directive and related legislation, the regulatory authority:(a) is legally distinct and functionally independent from other public or private entities;(b) ensures that its staff and the persons responsible for its management:(i) act independently from any market interest; and(ii) do not seek or take direct instructions from any government or other public or private entity when carrying out the regulatory tasks. That requirement is without prejudice to close cooperation, as appropriate, with other relevant national authorities or to general policy guidelines issued by the government not related to the regulatory powers and duties under Article 59.
 
-(a) is legally distinct and functionally independent from other public or private entities;
-
-(b) ensures that its staff and the persons responsible for its management: (i) act independently from any market interest; and (ii) do not seek or take direct instructions from any government or other public or private entity when carrying out the regulatory tasks. That requirement is without prejudice to close cooperation, as appropriate, with other relevant national authorities or to general policy guidelines issued by the government not related to the regulatory powers and duties under Article 59.
-
-**5.** In order to protect the independence of the regulatory authority, Member States shall in particular ensure that:
-
-(a) the regulatory authority can take autonomous decisions, independently from any political body;
-
-(b) the regulatory authority has all the necessary human and financial resources it needs to carry out its duties and exercise its powers in an effective and efficient manner;
-
-(c) the regulatory authority has a separate annual budget allocation and autonomy in the implementation of the allocated budget;
-
-(d) the members of the board of the regulatory authority or, in the absence of a board, the regulatory authority's top management are appointed for a fixed term of five up to seven years, renewable once;
-
-(e) the members of the board of the regulatory authority or, in the absence of a board, the regulatory authority's top management are appointed based on objective, transparent and published criteria, in an independent and impartial procedure, which ensures that the candidates have the necessary skills and experience for the relevant position in the regulatory authority;
-
-(f) conflict of interest provisions are in place and confidentiality obligations extend beyond the end of the mandate of the members of the board of the regulatory authority or, in the absence of a board, the end of the mandate of the regulatory authority's top management;
-
-(g) the members of the board of the regulatory authority or, in the absence of a board, the regulatory authority's top management can be dismissed only based on transparent criteria in place.
+**5.** In order to protect the independence of the regulatory authority, Member States shall in particular ensure that:(a) the regulatory authority can take autonomous decisions, independently from any political body;(b) the regulatory authority has all the necessary human and financial resources it needs to carry out its duties and exercise its powers in an effective and efficient manner;(c) the regulatory authority has a separate annual budget allocation and autonomy in the implementation of the allocated budget;(d) the members of the board of the regulatory authority or, in the absence of a board, the regulatory authority's top management are appointed for a fixed term of five up to seven years, renewable once;(e) the members of the board of the regulatory authority or, in the absence of a board, the regulatory authority's top management are appointed based on objective, transparent and published criteria, in an independent and impartial procedure, which ensures that the candidates have the necessary skills and experience for the relevant position in the regulatory authority;(f) conflict of interest provisions are in place and confidentiality obligations extend beyond the end of the mandate of the members of the board of the regulatory authority or, in the absence of a board, the end of the mandate of the regulatory authority's top management;(g) the members of the board of the regulatory authority or, in the absence of a board, the regulatory authority's top management can be dismissed only based on transparent criteria in place.
 
 In regard to point (d) of the first subparagraph, Member States shall ensure an appropriate rotation scheme for the board or the top management. The members of the board or, in the absence of a board, members of the top management may be relieved from office during their term only if they no longer fulfil the conditions set out in this Article or have been guilty of misconduct under national law.
 
@@ -1418,61 +1036,7 @@ In carrying out the regulatory tasks specified in this Directive, the regulatory
 
 ### Article 59 — Duties and powers of the regulatory authorities
 
-**1.** The regulatory authority shall have the following duties:
-
-(a) fixing or approving, in accordance with transparent criteria, transmission or distribution tariffs or their methodologies, or both;
-
-(aa) carrying out the obligations laid out in Article 3, Article 5(7) and Articles 14 to 17 of Regulation (EU) 2022/869 of the European Parliament and the Council.
-
-(b) ensuring the compliance of transmission system operators and distribution system operators and, where relevant, system owners, as well as the compliance of any electricity undertakings and other market participants, with their obligations under this Directive, Regulation (EU) 2019/943, the network codes and the guidelines adopted pursuant to Articles 59, 60 and 61 of Regulation (EU) 2019/943, and other relevant Union law, including as regards cross-border issues, as well as with ACER's decisions;
-
-(c) in close coordination with the other regulatory authorities, ensuring the compliance of the ENTSO for Electricity and the EU DSO entity with their obligations under this Directive, Regulation (EU) 2019/943, the network codes and guidelines adopted pursuant to Articles 59, 60 and 61 of Regulation (EU) 2019/943, and other relevant Union law, including as regards cross-border issues, as well as with ACER's decisions, and jointly identifying non-compliance of the ENTSO for Electricity and the EU DSO entity with their respective obligations; where the regulatory authorities have not been able to reach an agreement within a period of four months after the start of consultations for the purpose of jointly identifying non-compliance, the matter shall be referred to the ACER for a decision, pursuant to Article 6(10) of Regulation (EU) 2019/942;
-
-(d) approving products and procurement process for non-frequency ancillary services;
-
-(e) implementing the network codes and guidelines adopted pursuant to Articles 59, 60 and 61 of Regulation (EU) 2019/943 through national measures or, where so required, coordinated regional or Union-wide measures;
-
-(f) cooperating in regard to cross-border issues with the regulatory authority or authorities of the Member States concerned and with ACER, in particular through participation in the work of ACER's Board of Regulators pursuant to Article 21 of Regulation (EU) 2019/942;
-
-(g) complying with, and implementing, any relevant legally binding decisions of the Commission and of ACER;
-
-(h) ensuring that transmission system operators make available interconnector capacities to the utmost extent pursuant to Article 16 of Regulation (EU) 2019/943;
-
-(i) reporting annually on its activity and the fulfilment of its duties to the relevant authorities of the Member States, the Commission and ACER, including on the steps taken and the results obtained as regards each of the tasks listed in this Article;
-
-(j) ensuring that there is no cross-subsidisation between transmission, distribution and supply activities or other electricity or non-electricity activities;
-
-(k) monitoring investment plans of the transmission system operators and providing in its annual report an assessment of the investment plans of the transmission system operators as regards their consistency with the Union-wide network development plan; such assessment may include recommendations to amend those investment plans;
-
-(l) monitoring and assessing the performance of transmission system operators and distribution system operators in relation to the development of a smart grid that promotes energy efficiency and the integration of energy from renewable sources, based on a limited set of indicators, and publish a national report every two years, including recommendations;
-
-(m) setting or approving standards and requirements for quality of service and quality of supply or contributing thereto together with other competent authorities and monitoring compliance with and reviewing the past performance of network security and reliability rules;
-
-(n) monitoring the level of transparency, including of wholesale prices, and ensuring compliance of electricity undertakings with transparency obligations;
-
-(o) monitoring the level and effectiveness of market opening and competition at wholesale and retail levels, including on electricity exchanges, prices for household customers including prepayment systems, the impact of dynamic electricity price contracts and of the use of smart metering systems, switching rates, disconnection rates, charges for maintenance services, the execution of maintenance services, the relationship between household and wholesale prices, the evolution of grid tariffs and levies, and complaints by household customers, as well as any distortion or restriction of competition, including by providing any relevant information, and bringing any relevant cases to the relevant competition authorities;
-
-(p) monitoring the occurrence of restrictive contractual practices, including exclusivity clauses which may prevent customers from contracting simultaneously with more than one supplier or restrict their choice to do so, and, where appropriate, informing the national competition authorities of such practices;
-
-(q) monitoring the time taken by transmission system operators and distribution system operators to make connections and repairs;
-
-(r) helping to ensure, together with other relevant authorities, that the consumer protection measures are effective and enforced;
-
-(s) publishing recommendations, at least annually, in relation to compliance of supply prices with Article 5, and providing those recommendations to the competition authorities, where appropriate;
-
-(t) ensuring non-discriminatory access to customer consumption data, the provision, for optional use, of an easily understandable harmonised format at national level for consumption data, and prompt access for all customers to such data pursuant to Articles 23 and 24;
-
-(u) monitoring the implementation of rules relating to the roles and responsibilities of transmission system operators, distribution system operators, suppliers, customers and other market participants pursuant to Regulation (EU) 2019/943;
-
-(v) monitoring investment in generation and storage capacities in relation to security of supply;
-
-(w) monitoring technical cooperation between Union and third-country transmission system operators;
-
-(x) contributing to the compatibility of data exchange processes for the most important market processes at regional level;
-
-(y) monitoring the availability of comparison tools that meet the requirements set out in Article 14;
-
-(z) monitoring the removal of unjustified obstacles to and restrictions on the development of consumption of self-generated electricity and citizen energy communities.
+**1.** The regulatory authority shall have the following duties:(a) fixing or approving, in accordance with transparent criteria, transmission or distribution tariffs or their methodologies, or both;▼M1(aa) carrying out the obligations laid out in Article 3, Article 5(7) and Articles 14 to 17 of Regulation (EU) 2022/869 of the European Parliament and the Council (12).▼B(b) ensuring the compliance of transmission system operators and distribution system operators and, where relevant, system owners, as well as the compliance of any electricity undertakings and other market participants, with their obligations under this Directive, Regulation (EU) 2019/943, the network codes and the guidelines adopted pursuant to Articles 59, 60 and 61 of Regulation (EU) 2019/943, and other relevant Union law, including as regards cross-border issues, as well as with ACER's decisions;(c) in close coordination with the other regulatory authorities, ensuring the compliance of the ENTSO for Electricity and the EU DSO entity with their obligations under this Directive, Regulation (EU) 2019/943, the network codes and guidelines adopted pursuant to Articles 59, 60 and 61 of Regulation (EU) 2019/943, and other relevant Union law, including as regards cross-border issues, as well as with ACER's decisions, and jointly identifying non-compliance of the ENTSO for Electricity and the EU DSO entity with their respective obligations; where the regulatory authorities have not been able to reach an agreement within a period of four months after the start of consultations for the purpose of jointly identifying non-compliance, the matter shall be referred to the ACER for a decision, pursuant to Article 6(10) of Regulation (EU) 2019/942;(d) approving products and procurement process for non-frequency ancillary services;(e) implementing the network codes and guidelines adopted pursuant to Articles 59, 60 and 61 of Regulation (EU) 2019/943 through national measures or, where so required, coordinated regional or Union-wide measures;(f) cooperating in regard to cross-border issues with the regulatory authority or authorities of the Member States concerned and with ACER, in particular through participation in the work of ACER's Board of Regulators pursuant to Article 21 of Regulation (EU) 2019/942;(g) complying with, and implementing, any relevant legally binding decisions of the Commission and of ACER;(h) ensuring that transmission system operators make available interconnector capacities to the utmost extent pursuant to Article 16 of Regulation (EU) 2019/943;(i) reporting annually on its activity and the fulfilment of its duties to the relevant authorities of the Member States, the Commission and ACER, including on the steps taken and the results obtained as regards each of the tasks listed in this Article;(j) ensuring that there is no cross-subsidisation between transmission, distribution and supply activities or other electricity or non-electricity activities;(k) monitoring investment plans of the transmission system operators and providing in its annual report an assessment of the investment plans of the transmission system operators as regards their consistency with the Union-wide network development plan; such assessment may include recommendations to amend those investment plans;(l) monitoring and assessing the performance of transmission system operators and distribution system operators in relation to the development of a smart grid that promotes energy efficiency and the integration of energy from renewable sources, based on a limited set of indicators, and publish a national report every two years, including recommendations;(m) setting or approving standards and requirements for quality of service and quality of supply or contributing thereto together with other competent authorities and monitoring compliance with and reviewing the past performance of network security and reliability rules;(n) monitoring the level of transparency, including of wholesale prices, and ensuring compliance of electricity undertakings with transparency obligations;(o) monitoring the level and effectiveness of market opening and competition at wholesale and retail levels, including on electricity exchanges, prices for household customers including prepayment systems, the impact of dynamic electricity price contracts and of the use of smart metering systems, switching rates, disconnection rates, charges for maintenance services, the execution of maintenance services, the relationship between household and wholesale prices, the evolution of grid tariffs and levies, and complaints by household customers, as well as any distortion or restriction of competition, including by providing any relevant information, and bringing any relevant cases to the relevant competition authorities;(p) monitoring the occurrence of restrictive contractual practices, including exclusivity clauses which may prevent customers from contracting simultaneously with more than one supplier or restrict their choice to do so, and, where appropriate, informing the national competition authorities of such practices;(q) monitoring the time taken by transmission system operators and distribution system operators to make connections and repairs;(r) helping to ensure, together with other relevant authorities, that the consumer protection measures are effective and enforced;(s) publishing recommendations, at least annually, in relation to compliance of supply prices with Article 5, and providing those recommendations to the competition authorities, where appropriate;(t) ensuring non-discriminatory access to customer consumption data, the provision, for optional use, of an easily understandable harmonised format at national level for consumption data, and prompt access for all customers to such data pursuant to Articles 23 and 24;(u) monitoring the implementation of rules relating to the roles and responsibilities of transmission system operators, distribution system operators, suppliers, customers and other market participants pursuant to Regulation (EU) 2019/943;(v) monitoring investment in generation and storage capacities in relation to security of supply;(w) monitoring technical cooperation between Union and third-country transmission system operators;(x) contributing to the compatibility of data exchange processes for the most important market processes at regional level;(y) monitoring the availability of comparison tools that meet the requirements set out in Article 14;(z) monitoring the removal of unjustified obstacles to and restrictions on the development of consumption of self-generated electricity and citizen energy communities.
 
 **2.** Where a Member State has so provided, the monitoring duties set out in paragraph 1 may be carried out by other authorities than the regulatory authority. In such a case, the information resulting from such monitoring shall be made available to the regulatory authority as soon as possible.
 
@@ -1480,59 +1044,15 @@ While preserving their independence, without prejudice to their own specific com
 
 Any approvals given by a regulatory authority or ACER under this Directive are without prejudice to any duly justified future use of its powers by the regulatory authority under this Article or to any penalties imposed by other relevant authorities or the Commission.
 
-**3.** Member States shall ensure that regulatory authorities are granted the powers enabling them to carry out the duties referred to in this Article in an efficient and expeditious manner. For this purpose, the regulatory authority shall have at least the following powers:
-
-(a) to issue binding decisions on electricity undertakings;
-
-(b) to carry out investigations into the functioning of the electricity markets, and to decide upon and impose any necessary and proportionate measures to promote effective competition and ensure the proper functioning of the market. Where appropriate, the regulatory authority shall also have the power to cooperate with the national competition authority and the financial market regulators or the Commission in conducting an investigation relating to competition law;
-
-(c) to require any information from electricity undertakings relevant for the fulfilment of its tasks, including the justification for any refusal to grant third-party access, and any information on measures necessary to reinforce the network;
-
-(d) to impose effective, proportionate and dissuasive penalties on electricity undertakings not complying with their obligations under this Directive, Regulation (EU) 2019/943 or any relevant legally binding decisions of the regulatory authority or of ACER, or to propose that a competent court impose such penalties, including the power to impose or propose the imposition of penalties of up to 10 % of the annual turnover of the transmission system operator on the transmission system operator or of up to 10 % of the annual turnover of the vertically integrated undertaking on the vertically integrated undertaking, as the case may be, for non-compliance with their respective obligations pursuant to this Directive; and
-
-(e) appropriate rights of investigation and relevant powers of instruction for dispute settlement under Article 60(2) and (3).
+**3.** Member States shall ensure that regulatory authorities are granted the powers enabling them to carry out the duties referred to in this Article in an efficient and expeditious manner. For this purpose, the regulatory authority shall have at least the following powers:(a) to issue binding decisions on electricity undertakings;(b) to carry out investigations into the functioning of the electricity markets, and to decide upon and impose any necessary and proportionate measures to promote effective competition and ensure the proper functioning of the market. Where appropriate, the regulatory authority shall also have the power to cooperate with the national competition authority and the financial market regulators or the Commission in conducting an investigation relating to competition law;(c) to require any information from electricity undertakings relevant for the fulfilment of its tasks, including the justification for any refusal to grant third-party access, and any information on measures necessary to reinforce the network;(d) to impose effective, proportionate and dissuasive penalties on electricity undertakings not complying with their obligations under this Directive, Regulation (EU) 2019/943 or any relevant legally binding decisions of the regulatory authority or of ACER, or to propose that a competent court impose such penalties, including the power to impose or propose the imposition of penalties of up to 10 % of the annual turnover of the transmission system operator on the transmission system operator or of up to 10 % of the annual turnover of the vertically integrated undertaking on the vertically integrated undertaking, as the case may be, for non-compliance with their respective obligations pursuant to this Directive; and(e) appropriate rights of investigation and relevant powers of instruction for dispute settlement under Article 60(2) and (3).
 
 **4.** The regulatory authority located in the Member State in which the ENTSO for Electricity or the EU DSO entity has its seat shall have the power to impose effective, proportionate and dissuasive penalties on those entities where they do not comply with their obligations under this Directive, Regulation (EU) 2019/943 or any relevant legally binding decisions of the regulatory authority or of ACER, or to propose that a competent court impose such penalties.
 
-**5.** In addition to the duties conferred upon it under paragraphs 1 and 3 of this Article, when an independent system operator has been designated under Article 44, the regulatory authority shall:
+**5.** In addition to the duties conferred upon it under paragraphs 1 and 3 of this Article, when an independent system operator has been designated under Article 44, the regulatory authority shall:(a) monitor the transmission system owner's and the independent system operator's compliance with their obligations under this Article, and issue penalties for non-compliance in accordance with point (d) of paragraph 3;(b) monitor the relations and communications between the independent system operator and the transmission system owner so as to ensure compliance of the independent system operator with its obligations, and in particular approve contracts and act as a dispute settlement authority between the independent system operator and the transmission system owner with respect to any complaint submitted by either party pursuant to Article 60(2);(c) without prejudice to the procedure under point (c) of Article 44(2), for the first ten-year network development plan, approve the investments planning and the multi-annual network development plan submitted at least every two years by the independent system operator;(d) ensure that network access tariffs collected by the independent system operator include remuneration for the network owner or network owners, which provides for adequate remuneration of the network assets and of any new investments made therein, provided they are economically and efficiently incurred;(e) have the powers to carry out inspections, including unannounced inspections, at the premises of transmission system owner and independent system operator; and(f) monitor the use of congestion charges collected by the independent system operator in accordance with Article 19(2) of Regulation (EU) 2019/943.
 
-(a) monitor the transmission system owner's and the independent system operator's compliance with their obligations under this Article, and issue penalties for non-compliance in accordance with point (d) of paragraph 3;
+**6.** In addition to the duties and powers conferred on it under paragraphs 1 and 3 of this Article, when a transmission system operator has been designated in accordance with Section 3 of Chapter VI, the regulatory authority shall be granted at least the following duties and powers:(a) to impose penalties in accordance with point (d) of paragraph 3 for discriminatory behaviour in favour of the vertically integrated undertaking;(b) to monitor communications between the transmission system operator and the vertically integrated undertaking so as to ensure compliance of the transmission system operator with its obligations;(c) to act as dispute settlement authority between the vertically integrated undertaking and the transmission system operator with respect to any complaint submitted pursuant to Article 60(2);(d) to monitor commercial and financial relations including loans between the vertically integrated undertaking and the transmission system operator;(e) to approve all commercial and financial agreements between the vertically integrated undertaking and the transmission system operator on the condition that they comply with market conditions;(f) to request a justification from the vertically integrated undertaking when notified by the compliance officer in accordance with Article 50(4), such justification including, in particular, evidence demonstrating that no discriminatory behaviour to the advantage of the vertically integrated undertaking has occurred;(g) to carry out inspections, including unannounced ones, on the premises of the vertically integrated undertaking and the transmission system operator; and(h) to assign all or specific tasks of the transmission system operator to an independent system operator appointed in accordance with Article 44 in the case of a persistent breach by the transmission system operator of its obligations under this Directive, in particular in the case of repeated discriminatory behaviour to the benefit of the vertically integrated undertaking.
 
-(b) monitor the relations and communications between the independent system operator and the transmission system owner so as to ensure compliance of the independent system operator with its obligations, and in particular approve contracts and act as a dispute settlement authority between the independent system operator and the transmission system owner with respect to any complaint submitted by either party pursuant to Article 60(2);
-
-(c) without prejudice to the procedure under point (c) of Article 44(2), for the first ten-year network development plan, approve the investments planning and the multi-annual network development plan submitted at least every two years by the independent system operator;
-
-(d) ensure that network access tariffs collected by the independent system operator include remuneration for the network owner or network owners, which provides for adequate remuneration of the network assets and of any new investments made therein, provided they are economically and efficiently incurred;
-
-(e) have the powers to carry out inspections, including unannounced inspections, at the premises of transmission system owner and independent system operator; and
-
-(f) monitor the use of congestion charges collected by the independent system operator in accordance with Article 19(2) of Regulation (EU) 2019/943.
-
-**6.** In addition to the duties and powers conferred on it under paragraphs 1 and 3 of this Article, when a transmission system operator has been designated in accordance with Section 3 of Chapter VI, the regulatory authority shall be granted at least the following duties and powers:
-
-(a) to impose penalties in accordance with point (d) of paragraph 3 for discriminatory behaviour in favour of the vertically integrated undertaking;
-
-(b) to monitor communications between the transmission system operator and the vertically integrated undertaking so as to ensure compliance of the transmission system operator with its obligations;
-
-(c) to act as dispute settlement authority between the vertically integrated undertaking and the transmission system operator with respect to any complaint submitted pursuant to Article 60(2);
-
-(d) to monitor commercial and financial relations including loans between the vertically integrated undertaking and the transmission system operator;
-
-(e) to approve all commercial and financial agreements between the vertically integrated undertaking and the transmission system operator on the condition that they comply with market conditions;
-
-(f) to request a justification from the vertically integrated undertaking when notified by the compliance officer in accordance with Article 50(4), such justification including, in particular, evidence demonstrating that no discriminatory behaviour to the advantage of the vertically integrated undertaking has occurred;
-
-(g) to carry out inspections, including unannounced ones, on the premises of the vertically integrated undertaking and the transmission system operator; and
-
-(h) to assign all or specific tasks of the transmission system operator to an independent system operator appointed in accordance with Article 44 in the case of a persistent breach by the transmission system operator of its obligations under this Directive, in particular in the case of repeated discriminatory behaviour to the benefit of the vertically integrated undertaking.
-
-**7.** The regulatory authorities, except where ACER is competent to fix and approve the terms and conditions or methodologies for the implementation of network codes and guidelines under Chapter VII of Regulation (EU) 2019/943 pursuant to Article 5(2) of Regulation (EU) 2019/942 because of their coordinated nature, shall be responsible for fixing or approving sufficiently in advance of their entry into force at least the national methodologies used to calculate or establish the terms and conditions for:
-
-(a) connection and access to national networks, including transmission and distribution tariffs or their methodologies, those tariffs or methodologies shall allow the necessary investments in the networks to be carried out in a manner allowing those investments to ensure the viability of the networks;
-
-(b) the provision of ancillary services which shall be performed in the most economic manner possible and provide appropriate incentives for network users to balance their input and off-takes, such ancillary services shall be provided in a fair and non-discriminatory manner and be based on objective criteria; and
-
-(c) access to cross-border infrastructures, including the procedures for the allocation of capacity and congestion management.
+**7.** The regulatory authorities, except where ACER is competent to fix and approve the terms and conditions or methodologies for the implementation of network codes and guidelines under Chapter VII of Regulation (EU) 2019/943 pursuant to Article 5(2) of Regulation (EU) 2019/942 because of their coordinated nature, shall be responsible for fixing or approving sufficiently in advance of their entry into force at least the national methodologies used to calculate or establish the terms and conditions for:(a) connection and access to national networks, including transmission and distribution tariffs or their methodologies, those tariffs or methodologies shall allow the necessary investments in the networks to be carried out in a manner allowing those investments to ensure the viability of the networks;(b) the provision of ancillary services which shall be performed in the most economic manner possible and provide appropriate incentives for network users to balance their input and off-takes, such ancillary services shall be provided in a fair and non-discriminatory manner and be based on objective criteria; and(c) access to cross-border infrastructures, including the procedures for the allocation of capacity and congestion management.
 
 **8.** The methodologies or the terms and conditions referred to in paragraph 7 shall be published.
 
@@ -1566,17 +1086,7 @@ Any approvals given by a regulatory authority or ACER under this Directive are w
 
 **1.** Regulatory authorities shall closely consult and cooperate with each other, in particular within ACER, and shall provide each other and ACER with any information necessary for the fulfilment of their tasks under this Directive. With respect to the information exchanged, the receiving authority shall ensure the same level of confidentiality as that required of the originating authority.
 
-**2.** Regulatory authorities shall cooperate at least at a regional level to:
-
-(a) foster the creation of operational arrangements in order to enable an optimal management of the network, promote joint electricity exchanges and the allocation of cross-border capacity, and to enable an adequate level of interconnection capacity, including through new interconnection, within the region and between regions to allow for development of effective competition and improvement of security of supply, without discriminating between suppliers in different Member States;
-
-(b) coordinate the joint oversight of entities performing functions at regional level;
-
-(c) coordinate, in cooperation with other involved authorities, the joint oversight of national, regional and European resource adequacy assessments;
-
-(d) coordinate the development of all network codes and guidelines for the relevant transmission system operators and other market actors; and
-
-(e) coordinate the development of the rules governing the management of congestion.
+**2.** Regulatory authorities shall cooperate at least at a regional level to:(a) foster the creation of operational arrangements in order to enable an optimal management of the network, promote joint electricity exchanges and the allocation of cross-border capacity, and to enable an adequate level of interconnection capacity, including through new interconnection, within the region and between regions to allow for development of effective competition and improvement of security of supply, without discriminating between suppliers in different Member States;(b) coordinate the joint oversight of entities performing functions at regional level;(c) coordinate, in cooperation with other involved authorities, the joint oversight of national, regional and European resource adequacy assessments;(d) coordinate the development of all network codes and guidelines for the relevant transmission system operators and other market actors; and(e) coordinate the development of the rules governing the management of congestion.
 
 **3.** Regulatory authorities shall have the right to enter into cooperative arrangements with each other to foster regulatory cooperation.
 
@@ -1588,29 +1098,9 @@ Any approvals given by a regulatory authority or ACER under this Directive are w
 
 ### Article 62 — Duties and powers of regulatory authorities with respect to regional coordination centres
 
-**1.** The regional regulatory authorities of the system operation region in which a regional coordination centre is established shall, in close coordination with each other:
+**1.** The regional regulatory authorities of the system operation region in which a regional coordination centre is established shall, in close coordination with each other:(a) approve the proposal for the establishment of regional coordination centres in accordance with Article 35(1) of Regulation (EU) 2019/943;(b) approve the costs related to the activities of the regional coordination centres, which are to be borne by the transmission system operators and to be taken into account in the calculation of tariffs, provided that they are reasonable and appropriate;(c) approve the cooperative decision-making process;(d) ensure that the regional coordination centres are equipped with all the necessary human, technical, physical and financial resources for fulfilling their obligations under this Directive and carrying out their tasks independently and impartially;(e) propose jointly with other regulatory authorities of a system operation region possible additional tasks and additional powers to be assigned to the regional coordination centres by the Member States of the system operation region;(f) ensure compliance with the obligations under this Directive and other relevant Union law, in particular as regards cross-border issues, and jointly identify non-compliance of the regional coordination centres with their respective obligations; where the regulatory authorities have not been able to reach an agreement within a period of four months after the start of consultations for the purpose of jointly identifying non-compliance, the matter shall be referred to ACER for a decision, pursuant to Article 6(10) of Regulation (EU) 2019/942;(g) monitor the performance of system coordination and report annually to ACER in this respect in accordance with Article 46 of Regulation (EU) 2019/943.
 
-(a) approve the proposal for the establishment of regional coordination centres in accordance with Article 35(1) of Regulation (EU) 2019/943;
-
-(b) approve the costs related to the activities of the regional coordination centres, which are to be borne by the transmission system operators and to be taken into account in the calculation of tariffs, provided that they are reasonable and appropriate;
-
-(c) approve the cooperative decision-making process;
-
-(d) ensure that the regional coordination centres are equipped with all the necessary human, technical, physical and financial resources for fulfilling their obligations under this Directive and carrying out their tasks independently and impartially;
-
-(e) propose jointly with other regulatory authorities of a system operation region possible additional tasks and additional powers to be assigned to the regional coordination centres by the Member States of the system operation region;
-
-(f) ensure compliance with the obligations under this Directive and other relevant Union law, in particular as regards cross-border issues, and jointly identify non-compliance of the regional coordination centres with their respective obligations; where the regulatory authorities have not been able to reach an agreement within a period of four months after the start of consultations for the purpose of jointly identifying non-compliance, the matter shall be referred to ACER for a decision, pursuant to Article 6(10) of Regulation (EU) 2019/942;
-
-(g) monitor the performance of system coordination and report annually to ACER in this respect in accordance with Article 46 of Regulation (EU) 2019/943.
-
-**2.** Member States shall ensure that regulatory authorities are granted the powers enabling them to carry out the duties referred to in paragraph 1 in an efficient and expeditious manner. For this purpose, the regulatory authorities shall have at least the following powers:
-
-(a) to request information from the regional coordination centres;
-
-(b) to carry out inspections, including unannounced inspections, at the premises of the regional coordination centres;
-
-(c) to issue joint binding decisions on the regional coordination centres.
+**2.** Member States shall ensure that regulatory authorities are granted the powers enabling them to carry out the duties referred to in paragraph 1 in an efficient and expeditious manner. For this purpose, the regulatory authorities shall have at least the following powers:(a) to request information from the regional coordination centres;(b) to carry out inspections, including unannounced inspections, at the premises of the regional coordination centres;(c) to issue joint binding decisions on the regional coordination centres.
 
 **3.** The regulatory authority located in the Member State in which a regional coordination centre has its seat shall have the power to impose effective, proportionate and dissuasive penalties on the regional coordination centre where it does not comply with its obligations under this Directive, Regulation (EU) 2019/943 or any relevant legally binding decisions of the regulatory authority or of ACER, or shall have the power to propose that a competent court impose such penalties.
 
@@ -1628,11 +1118,7 @@ Any approvals given by a regulatory authority or ACER under this Directive are w
 
 **5.** Where the Commission, within two months of having been informed by ACER in accordance with paragraph 3, or by a regulatory authority in accordance with paragraph 4, or, on its own initiative, within three months of the date of the decision, finds that the decision of a regulatory authority raises serious doubts as to its compatibility with the network codes and guidelines referred to in this Directive or in Chapter VII of Regulation (EU) 2019/943, the Commission may decide to examine the case further. In such a case, it shall invite the regulatory authority and the parties to the proceedings before the regulatory authority to submit observations.
 
-**6.** Where the Commission takes a decision to examine the case further, it shall, within four months of the date of such decision, issue a final decision:
-
-(a) not to raise objections against the decision of the regulatory authority; or
-
-(b) to require the regulatory authority concerned to withdraw its decision on the basis that network codes and guidelines have not been complied with.
+**6.** Where the Commission takes a decision to examine the case further, it shall, within four months of the date of such decision, issue a final decision:(a) not to raise objections against the decision of the regulatory authority; or(b) to require the regulatory authority concerned to withdraw its decision on the basis that network codes and guidelines have not been complied with.
 
 **7.** Where the Commission has not taken a decision to examine the case further or a final decision within the time-limits set in paragraphs 5 and 6 respectively, it shall be deemed not to have raised objections to the decision of the regulatory authority.
 
@@ -1730,9 +1216,9 @@ The Commission's review shall, in particular, assess whether customers, especial
 
 Directive 2012/27/EU is amended as follows:
 
-(1) Article 9 is amended as follows: (a) the title is replaced by the following: ‘Metering for natural gas’; (b) in paragraph 1, the first subparagraph is replaced by the following: ‘1.Member States shall ensure that, in so far as it is technically possible, financially reasonable, and proportionate to the potential energy savings, for natural gas final customers are provided with competitively priced individual meters that accurately reflect the final customer's actual energy consumption and that provide information on actual time of use.’; (c) paragraph 2 is amended as follows: (i) the introductory part is replaced by the following: ‘2.Where, and to the extent that, Member States implement intelligent metering systems and roll out smart meters for natural gas in accordance with Directive 2009/73/EC:’; (ii) points (c) and (d) are deleted;
+(1) Article 9 is amended as follows: (a) the title is replaced by the following: ‘Metering for natural gas’; (b) in paragraph 1, the first subparagraph is replaced by the following: **‘1.** Member States shall ensure that, in so far as it is technically possible, financially reasonable, and proportionate to the potential energy savings, for natural gas final customers are provided with competitively priced individual meters that accurately reflect the final customer's actual energy consumption and that provide information on actual time of use.’; (c) paragraph 2 is amended as follows: (i) the introductory part is replaced by the following: **‘2.** Where, and to the extent that, Member States implement intelligent metering systems and roll out smart meters for natural gas in accordance with Directive 2009/73/EC:’; (ii) points (c) and (d) are deleted;
 
-(2) Article 10 is amended as follows: (a) the title is replaced by the following: ‘Billing information for natural gas’; (b) in paragraph 1, the first subparagraph is replaced by the following: ‘1.Where final customers do not have smart meters as referred to in Directive 2009/73/EC, Member States shall ensure, by 31 December 2014, that billing information for natural gas is reliable, accurate and based on actual consumption, in accordance with point 1.1 of Annex VII, where that is technically possible and economically justified.’; (c) in paragraph 2, the first subparagraph is replaced by the following: ‘2.Meters installed in accordance with Directive 2009/73/EC shall enable the provision of accurate billing information based on actual consumption. Member States shall ensure that final customers have the possibility of easy access to complementary information on historical consumption allowing detailed self-checks.’;
+(2) Article 10 is amended as follows: (a) the title is replaced by the following: ‘Billing information for natural gas’; (b) in paragraph 1, the first subparagraph is replaced by the following: **‘1.** Where final customers do not have smart meters as referred to in Directive 2009/73/EC, Member States shall ensure, by 31 December 2014, that billing information for natural gas is reliable, accurate and based on actual consumption, in accordance with point 1.1 of Annex VII, where that is technically possible and economically justified.’; (c) in paragraph 2, the first subparagraph is replaced by the following: **‘2.** Meters installed in accordance with Directive 2009/73/EC shall enable the provision of accurate billing information based on actual consumption. Member States shall ensure that final customers have the possibility of easy access to complementary information on historical consumption allowing detailed self-checks.’;
 
 (3) in Article 11, the title is replaced by the following: ‘Cost of access to metering and billing information for natural gas’;
 
@@ -1785,198 +1271,3 @@ Point (4) of Article 70 shall apply from 26 October 2020.
 ### Article 74 — Addressees
 
 This Directive is addressed to the Member States.
-
-<a id="anx_i"></a>
-
-### ANNEX I
-
-**MINIMUM REQUIREMENTS FOR BILLING AND BILLING INFORMATION**
-
-**1.Minimum information to be contained on the bill and in the billing information**
-
-1.1. The following key information shall be prominently displayed to final customers in their bills, distinctly separate from other parts of the bill: (a) the price to be paid and a breakdown of the price where possible, together with a clear statement that all energy sources may also benefit from incentives that were not financed through the levies indicated in the breakdown of the price; (b) the date on which payment is due.
-
-1.2. The following key information shall be prominently displayed to final customers in their bills and billing information, distinctly separate from other parts of the bill and billing information: (a) electricity consumption for the billing period; (b) the name and contact details of the supplier, including a consumer support hotline and email address; (c) the tariff name; (d) the end date of the contract, if applicable; (e) the information on the availability and benefits of switching; (f) the final customer's switching code or unique identification code for the final customer's supply point; (g) information on final customers' rights as regards out-of-court dispute settlement, including the contact details of the entity responsible pursuant to Article 26; (h) the single point of contact referred to in Article 25; (i) a link or reference to where comparison tools referred to in Article 14 can be found.
-
-1.3. Where bills are based on actual consumption or remote reading by the operator, the following information shall be made available to final customers in, with or signposted to within their bills and periodic settlement bills: (a) comparisons of the final customer's current electricity consumption with the final customer's consumption for the same period in the previous year in graphic form; (b) contact information for consumer organisations, energy agencies or similar bodies, including website addresses, from which information may be obtained on available energy efficiency improvement measures for energy-using equipment; (c) comparisons with an average normalised or benchmarked final customer in the same user category.
-
-2.Frequency of billing and the provision of billing information:
-
-(a) billing on the basis of actual consumption shall take place at least once a year;
-
-(b) where the final customer does not have a meter that allows remote reading by the operator, or where the final customer has actively chosen to disable remote reading in accordance with national law, accurate billing information based on actual consumption shall be made available to the final customer at least every six months, or once every three months, if requested or where the final customer has opted to receive electronic billing;
-
-(c) where the final customer does not have a meter that allows remote reading by the operator, or where the final customer has actively chosen to disable remote reading in accordance with national law, the obligations in points (a) and (b) may be fulfilled by means of a system of regular self-reading by the final customer, whereby the final customer communicates readings from the meter to the operator; billing or billing information may be based on estimated consumption or a flat rate only where the final customer has not provided a meter reading for a given billing interval;
-
-(d) where the final customer has a meter that allows remote reading by the operator, accurate billing information based on actual consumption shall be provided at least every month; such information may also be made available via the internet, and shall be updated as frequently as allowed by the measurement devices and systems used.
-
-The customer's price is the sum of the following three components: the energy and supply component, the network component (transmission and distribution) and the component comprising taxes, levies, fees and charges.Where a breakdown of the final customer's price is presented in bills, the common definitions of the three components in that breakdown established under Regulation (EU) 2016/1952 of the European Parliament and of the Council shall be used throughout the Union.
-
-**3.Breakdown of the final customer's price**
-
-Member States shall require that, to the extent that complementary information on historical consumption is available, such information is made available, at the request of the final customer, to the supplier or service provider designated by the final customer.Where the final customer has a meter that allows remote reading by the operator installed, the final customer shall have easy access to complementary information on historical consumption allowing detailed self-checks.Complementary information on historical consumption shall include:
-
-**4.Access to complementary information on historical consumption**
-
-(a) cumulative data for at least the three previous years or the period since the start of the electricity supply contract, if that period is shorter. The data shall correspond to the intervals for which frequent billing information has been produced; and
-
-(b) detailed data according to the time of use for any day, week, month and year, which is made available to the final customer without undue delay via the internet or the meter interface, covering the period of at least the previous 24 months or the period since the start of the electricity supply contract, if that period is shorter.
-
-Suppliers shall specify in bills the contribution of each energy source to the electricity purchased by the final customer in accordance with the electricity supply contract (product level disclosure).The following information shall be made available to final customers in, with, or signposted to within their bills and billing information:As regards point (a) of the second subparagraph, with respect to electricity obtained via an electricity exchange or imported from an undertaking situated outside the Union, aggregate figures provided by the exchange or the undertaking in question over the preceding year may be used.For the disclosure of electricity from high efficiency cogeneration, guarantees of origin issued under Article 14(10) of Directive 2012/27/EU may be used. The disclosure of electricity from renewable sources shall be done by using guarantees of origin, except in the cases referred to in points (a) and (b) of Article 19(8) of Directive (EU) 2018/2001.The regulatory authority or another competent national authority shall take the necessary steps to ensure that the information provided by suppliers to final customers pursuant to this point is reliable and is provided at a national level in a clearly comparable manner.
-
-**5.Disclosure of energy sources**
-
-(a) the contribution of each energy source to the overall energy mix of the supplier (at national level, namely in the Member State in which the electricity supply contract has been concluded, as well as at the level of the supplier if the supplier is active in several Member States) over the preceding year in a comprehensible and clearly comparable manner;
-
-(b) information on the environmental impact, in at least terms of CO_2 emissions and the radioactive waste resulting from the electricity produced by the overall energy mix of the supplier over the preceding year.
-
-<a id="anx_ii"></a>
-
-### ANNEX II
-
-**SMART METERING SYSTEMS**
-
-1. Member States shall ensure the deployment of smart metering systems in their territories that may be subject to an economic assessment of all of the long-term costs and benefits to the market and the individual consumer or which form of smart metering is economically reasonable and cost-effective and which time frame is feasible for their distribution.
-
-2. Such assessment shall take into consideration the methodology for the cost-benefit analysis and the minimum functionalities for smart metering systems provided for in Commission Recommendation 2012/148/EU as well as the best available techniques for ensuring the highest level of cybersecurity and data protection.
-
-3. Subject to that assessment, Member States or, where a Member State has so provided, the designated competent authority, shall prepare a timetable with a target of up to ten years for the deployment of smart metering systems. Where the deployment of smart metering systems is assessed positively, at least 80 % of final customers shall be equipped with smart meters either within seven years of the date of the positive assessment or by 2024 for those Member States that have initiated the systematic deployment of smart metering systems before 4 July 2019.
-
-<a id="anx_iii"></a>
-
-### ANNEX III
-
-**TIME-LIMIT FOR TRANSPOSITION INTO NATIONAL LAW AND DATE OF APPLICATION(REFERRED TO IN ARTICLE 72)**
-
-| Directive | Time-limit for transposition | Date of application |
-| --- | --- | --- |
-| Directive 2009/72/EC of the European Parliament and of the Council(OJ L 211, 14.8.2009, p. 55) | 3 March 2011 | 3 September 2009 |
-
-<a id="anx_iv"></a>
-
-### ANNEX IV
-
-**CORRELATION TABLE**
-
-| Directive 2009/72/EC | This Directive |
-| --- | --- |
-| Article 1 | Article 1 |
-| Article 2 | Article 2 |
-| — | Article 3 |
-| Articles 33 and 41 | Article 4 |
-| — | Article 5 |
-| Article 32 | Article 6 |
-| Article 34 | Article 7 |
-| Article 7 | Article 8 |
-| Article 8 | — |
-| Article 3(1) | Article 9(1) |
-| Article 3(2) | Article 9(2) |
-| Article 3(6) | Article 9(3) |
-| Article 3(15) | Article 9(4) |
-| Article 3(14) | Article 9(5) |
-| Article 3(16) | — |
-| Article 3(4) | Article 10(1) |
-| Annex I. 1(a) | Article 10(2) and (3) |
-| Annex I. 1(b) | Article 10(4) |
-| Annex I. 1(c) | Article 10(5) |
-| Annex I. 1(d) | Article 10(6) and (8) |
-| — | Article 10(7) |
-| Annex I. 1(f) | Article 10(9) |
-| Annex I. 1(g) | Article 10(10) |
-| Article 3(7) | Article 10(11) |
-| Annex I. 1(j) | Article 10(12) |
-| Article 3(10) | — |
-| Article 4 | — |
-| Article 5 | — |
-| Article 6 | — |
-| — | Article 11 |
-| Article 3(5)(a) and Annex I. 1(e) | Article 12 |
-| — | Article 13 |
-| — | Article 14 |
-| — | Article 15 |
-| — | Article 16 |
-| — | Article 17 |
-| — | Article 18 |
-| Article 3(11) | Article 19(1) |
-| — | Article 19(2) to (6) |
-| — | Article 20 |
-| — | Article 21 |
-| — | Article 22 |
-| — | Article 23 |
-| — | Article 24 |
-| Article 3(12) | Article 25 |
-| Article 3(13) | Article 26 |
-| Article 3(3) | Article 27 |
-| Article 3(7) | Article 28(1) |
-| Article 3(8) | Article 28(2) |
-| — | Article 29 |
-| Article 24 | Article 30 |
-| Article 25 | Article 31 |
-| — | Article 32 |
-| — | Article 33 |
-| — | Article 34 |
-| Article 26 | Article 35 |
-| — | Article 36 |
-| Article 27 | Article 37 |
-| Article 28 | Article 38 |
-| Article 29 | Article 39 |
-| Article 12 | Article 40(1) |
-| — | Article 40(2) to (8) |
-| Article 16 | Article 41 |
-| Article 23 | Article 42 |
-| Article 9 | Article 43 |
-| Article 13 | Article 44 |
-| Article 14 | Article 45 |
-| Article 17 | Article 46 |
-| Article 18 | Article 47 |
-| Article 19 | Article 48 |
-| Article 20 | Article 49 |
-| Article 21 | Article 50 |
-| Article 22 | Article 51 |
-| Article 10 | Article 52 |
-| Article 11 | Article 53 |
-| — | Article 54 |
-| Article 30 | Article 55 |
-| Article 31 | Article 56 |
-| Article 35 | Article 57 |
-| Article 36 | Article 58 |
-| Article 37(1) | Article 59(1) |
-| Article 37(2) | Article 59(2) |
-| Article 37(4) | Article 59(3) |
-| — | Article 59(4) |
-| Article 37(3) | Article 59(5) |
-| Article 37(5) | Article 59(6) |
-| Article 37(6) | Article 59(7) |
-| Article 37(8) | — |
-| Article 37(7) | Article 59(8) |
-| — | Article 59(9) |
-| Article 37(9) | Article 59(10) |
-| Article 37(10) | Article 60(1) |
-| Article 37(11) | Article 60(2) |
-| Article 37(12) | Article 60(3) |
-| Article 37(13) | Article 60(4) |
-| Article 37(14) | Article 60(5) |
-| Article 37(15) | Article 60(6) |
-| Article 37(16) | Article 60(7) |
-| Article 37(17) | Article 60(8) |
-| Article 38 | Article 61 |
-| — | Article 62 |
-| Article 39 | Article 63 |
-| Article 40 | Article 64 |
-| Article 42 | — |
-| Article 43 | Article 65 |
-| Article 44 | Article 66 |
-| Article 45 | — |
-| — | Article 67 |
-| Article 46 | Article 68 |
-| Article 47 | Article 69 |
-| — | Article 70 |
-| Article 49 | Article 71 |
-| Article 48 | Article 72 |
-| Article 50 | Article 73 |
-| Article 51 | Article 74 |
-| — | Annex I, points 1 to 4 |
-| Article 3(9) | Annex I. 5 |
-| Annex I. 2 | Annex II |
-| — | Annex III |
-| — | Annex IV |

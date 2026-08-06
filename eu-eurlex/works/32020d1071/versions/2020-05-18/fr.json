@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32020d1071:2020-05-18",
+  "language": "fr",
+  "title": "Commission Delegated Decision (EU) 2020/1071 of 18 May 2020 amending Directive 2003/87/EC",
+  "valid_from": "2020-05-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32020d1071/versions/2020-05-18/fr.xml",
+    "sha256": "0b37df680ddc224892131ec1693185d6b88cd934b6ccb1db10fc7a70b1326d0a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020D1071"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32020d1071:2020-05-18#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l’annexe I de la directive 2003/87/CE, le deuxième alinéa de la rubrique «Aviation» de la colonne «Activités» du tableau est modifié comme suit:\n\n| 1) | au point j), le deuxième alinéa est remplacé par le texte suivant: «Les vols visés au point l) ou effectués exclusivement aux fins de transporter, en mission officielle, un monarque régnant et sa proche famille, des chefs d’État, des chefs de gouvernement et des ministres d’un État membre ne peuvent pas être exclus en vertu du présent point;»; |\n| --- | --- |\n\n| 2) | le point k) est remplacé par le texte suivant:«k)du 1er janvier 2013 au 31 décembre 2030, les vols qui, à l’exception de ce point, relèveraient de cette activité, réalisés par un exploitant d’aéronef non commercial effectuant des vols dont les émissions annuelles totales sont inférieures à 1 000 tonnes par an [y compris les émissions des vols visés au point l)];»; |\n| --- | --- |\n| «k) | du 1er janvier 2013 au 31 décembre 2030, les vols qui, à l’exception de ce point, relèveraient de cette activité, réalisés par un exploitant d’aéronef non commercial effectuant des vols dont les émissions annuelles totales sont inférieures à 1 000 tonnes par an [y compris les émissions des vols visés au point l)];»; |\n\n| 3) | le point l) suivant est ajouté:«l)les vols au départ d’aérodromes situés en Suisse à destination d’aérodromes situés dans l’EEE.» |\n| --- | --- |\n| «l) | les vols au départ d’aérodromes situés en Suisse à destination d’aérodromes situés dans l’EEE.» |",
+      "text_sha256": "2f6e7cad1197af08894e29a6975df7b2173e41d1bc1dc03f041c14d572c4aad6",
+      "md_span": {
+        "start": 634,
+        "end": 2146
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32020d1071:2020-05-18#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLa présente décision entre en vigueur le jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nElle est applicable à partir du 1er janvier 2020.",
+      "text_sha256": "d456d74fb1e7663b8d5c2e049a6d013fa856300097e7ccadcf55ca28fa249b8a",
+      "md_span": {
+        "start": 2179,
+        "end": 2361
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

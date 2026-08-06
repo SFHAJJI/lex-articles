@@ -1,0 +1,286 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2979:2024-11-28",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2024/2979 of 28\u00A0November 2024 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2024-11-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2979/versions/2024-11-28/en.xml",
+    "sha256": "ac7e5fff2a72a3bb4ad6fa442745e59ee59ad3e65dc578f6acdd6575040b8b5a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2979"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2979:2024-11-28#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation lays down rules for the integrity and core functionalities of the wallets, to be updated on a regular basis to keep in line with technology and standards developments and with the work carried out on the basis of Recommendation (EU) 2021/946, and in particular the Architecture and Reference Framework.",
+      "text_sha256": "3fea0a4fa1b2940222bea1c795d78a9bea55ca5b226f8ac43e27f3068eade38b",
+      "md_span": {
+        "start": 683,
+        "end": 1012
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2979:2024-11-28#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nFor the purpose of this Regulation, the following definitions apply:\n\n| (1) | ‘wallet secure cryptographic application’ means an application that manages critical assets by being linked to and using the cryptographic and non-cryptographic functions provided by the wallet secure cryptographic device; |\n| --- | --- |\n\n| (2) | ‘wallet unit’ means a unique configuration of a wallet solution that includes wallet instances, wallet secure cryptographic applications and wallet secure cryptographic devices provided by a wallet provider to an individual wallet user; |\n| --- | --- |\n\n| (3) | ‘critical assets’ means assets within or in relation to a wallet unit of such extraordinary importance that where their availability, confidentiality or integrity are compromised, this would have a very serious, debilitating effect on the ability to rely on the wallet unit; |\n| --- | --- |\n\n| (4) | ‘provider of person identification data’ means a natural or legal person responsible for issuing and revoking the person identification data and ensuring that the person identification data of a user is cryptographically bound to a wallet unit; |\n| --- | --- |\n\n| (5) | ‘wallet user’ means a user who is in control of the wallet unit; |\n| --- | --- |\n\n| (6) | ‘wallet-relying party’ means a relying party that intends to rely upon wallet units for the provision of public or private services by means of digital interaction; |\n| --- | --- |\n\n| (7) | ‘wallet provider’ means a natural or legal person who provides wallet solutions; |\n| --- | --- |\n\n| (8) | ‘wallet unit attestation’ means a data object that describes the components of the wallet unit or allows authentication and validation of those components; |\n| --- | --- |\n\n| (9) | ‘embedded disclosure policy’ means a set of rules, embedded in an electronic attestation of attributes by its provider, that indicates the conditions that a wallet-relying party has to meet to access the electronic attestation of attributes; |\n| --- | --- |\n\n| (10) | ‘wallet instance’ means the application installed and configured on a wallet user’s device or environment, which is part of a wallet unit, and that the wallet user uses to interact with the wallet unit; |\n| --- | --- |\n\n| (11) | ‘wallet solution’ means a combination of software, hardware, services, settings, and configurations, including wallet instances, one or more wallet secure cryptographic applications and one or more wallet secure cryptographic devices; |\n| --- | --- |\n\n| (12) | ‘wallet secure cryptographic device’ means a tamper-resistant device that provides an environment that is linked to and used by the wallet secure cryptographic application to protect critical assets and provide cryptographic functions for the secure execution of critical operations; |\n| --- | --- |\n\n| (13) | ‘wallet cryptographic operation’ means a cryptographic mechanism necessary in the context of authentication of the wallet user and the issuance or presentation of person identification data or electronic attestations of attributes; |\n| --- | --- |\n\n| (14) | ‘wallet-relying party access certificate’ means a certificate for electronic seals or signatures authenticating and validating the wallet-relying party issued by a provider of wallet-relying party access certificates; |\n| --- | --- |\n\n| (15) | ‘provider of wallet-relying party access certificates’ means a natural or legal person mandated by a Member State to issue relying party access certificates to wallet-relying parties registered in that Member State. |\n| --- | --- |",
+      "text_sha256": "8902ef41231c6ccf438c42b9e30b32c653d1016fe929b815b791fa393fc14f00",
+      "md_span": {
+        "start": 1045,
+        "end": 4582
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r2979:2024-11-28#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Wallet units shall not perform any functionality listed in Article 5a(4) of Regulation (EU) No 910/2014, except wallet user authentication to access the wallet unit, until the wallet unit has successfully authenticated the wallet user.\n\n2. Wallet providers shall, for each wallet unit, sign or seal, at least one wallet unit attestation compliant with the requirements laid down in Article 6. The certificate used to sign or seal the wallet unit attestation shall be issued under a certificate listed in the trusted list referred to in Implementing Regulation (EU) 2024/2980.",
+      "text_sha256": "b649012b9c11c06ff0254bb9b56d6c51181b46c363be608e3bdba07ccd796b8d",
+      "md_span": {
+        "start": 4615,
+        "end": 5204
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r2979:2024-11-28#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Wallet instances shall use at least one wallet secure cryptographic device to manage critical assets.\n\n2. Wallet providers shall ensure integrity, authenticity and confidentiality of the communication between wallet instances and wallet secure cryptographic applications.\n\n3. Where critical assets relate to performing electronic identification at assurance level high, the wallet cryptographic operations or other operations processing critical assets shall be performed in accordance with the requirements for the characteristics and design of electronic identification means at assurance level high, as set out in Commission Implementing Regulation (EU) 2015/1502 (11).",
+      "text_sha256": "4f7155c85481b1b5d618c19c0c6ba1767c5ccc373317ca1b24b156ec3f9af52f",
+      "md_span": {
+        "start": 5237,
+        "end": 5923
+      },
+      "citations": [
+        {
+          "href": "#ntr11-L_202402979EN.000101-E0011",
+          "text": "(11)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r2979:2024-11-28#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Wallet providers shall ensure that wallet secure cryptographic applications:\n\n| (a) | perform wallet cryptographic operations involving critical assets other than those needed for the wallet unit to authenticate the wallet user only in cases where those applications have successfully authenticated wallet users; |\n| --- | --- |\n\n| (b) | where they authenticate wallet users in the context of performing electronic identification at assurance level high; perform authentication of wallet users, in accordance with, the requirements for the characteristics and design of electronic identification means at assurance level high, as set out in Implementing Regulation (EU) 2015/1502; |\n| --- | --- |\n\n| (c) | are able to securely generate new cryptographic keys; |\n| --- | --- |\n\n| (d) | are able to perform secure erasure of critical assets; |\n| --- | --- |\n\n| (e) | are able to generate a proof of possession of private keys; |\n| --- | --- |\n\n| (f) | protect the private keys generated by those wallet secure cryptographic applications during the existence of the keys; |\n| --- | --- |\n\n| (g) | comply with the requirements for the characteristics and design of electronic identification means at assurance level high, as set out in Implementing Regulation (EU) 2015/1502; |\n| --- | --- |\n\n| (h) | are the only components able to execute wallet cryptographic operations and any other operation with critical assets in the context of performing electronic identification at assurance level high. |\n| --- | --- |\n\n2. Where wallet providers decide to provide a wallet secure cryptographic application to an embedded secure element these wallet providers shall base their technical solution on the technical specifications listed in Annex I or on other equivalent technical specifications.",
+      "text_sha256": "0607c9096e815ec70d4a8617c4a489d7a3eb97b0fba5816dc1e35a1cadf3f991",
+      "md_span": {
+        "start": 5956,
+        "end": 7754
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r2979:2024-11-28#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Wallet providers shall ensure that each wallet unit contains wallet unit attestations.\n\n2. Wallet providers shall ensure that the wallet unit attestations referred to in paragraph 1 contain public keys and that the corresponding private keys are protected by a wallet secure cryptographic device.\n\n3. Wallet providers shall:\n\n| (a) | inform wallet users of their rights and obligations in relation to their wallet unit; |\n| --- | --- |\n\n| (b) | provide mechanisms, independent of wallet units, for the secure identification and authentication of wallet users; |\n| --- | --- |\n\n| (c) | ensure wallet users have the right to request revocation of their wallet unit attestations, using the authentication mechanisms referred to in point (b). |\n| --- | --- |",
+      "text_sha256": "bdecd908bb63d0e2bacf1b62f9f8ae42119ab7e00af552b7cbd911eaf3a4f3fa",
+      "md_span": {
+        "start": 7787,
+        "end": 8555
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32024r2979:2024-11-28#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Wallet providers shall be the only entities capable of revoking wallet unit attestations for wallet units that they have provided.\n\n2. Wallet providers shall establish a publicly available policy specifying the conditions and the timeframe for the revocation of wallet unit attestations.\n\n3. Where wallet providers have revoked wallet unit attestations, they shall inform affected wallet users within 24 hours of the revocation of their wallet units, including the reason for the revocation and the consequences for the wallet user. This information shall be provided in a manner that is concise, easily accessible and using clear and plain language.\n\n4. Where wallet providers have revoked wallet unit attestations, they shall make publicly available the validity status of the wallet unit attestation in a privacy preserving manner and describe the location of that information in the wallet unit attestation.",
+      "text_sha256": "0928325cd5d5e3a9d37608feda763d57ae673c6232c1b12fae69fe757b629332",
+      "md_span": {
+        "start": 8588,
+        "end": 9513
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32024r2979:2024-11-28#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nWallet providers shall ensure that wallet solutions support the usage of person identification data and electronic attestations of attributes issued in compliance with the list of standards set out in Annex II.",
+      "text_sha256": "9a2c443767defbaf44ae37ce7c6519a97264ffc08ff4ca9e0f2fc1bf4a153ba6",
+      "md_span": {
+        "start": 9546,
+        "end": 9767
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32024r2979:2024-11-28#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Irrespective of whether or not a transaction is successfully completed, wallet instances shall log all transactions with wallet-relying parties and other wallet units, including electronic signing and sealing.\n\n2. The logged information shall at least contain:\n\n| (a) | the time and date of the transaction; |\n| --- | --- |\n\n| (b) | the name, contact details, and the unique identifier of the corresponding wallet-relying party and the Member State in which that wallet-relying party is established, or in case of other wallet units, relevant information from the wallet unit attestation; |\n| --- | --- |\n\n| (c) | the type or types of data requested and presented in the transaction; |\n| --- | --- |\n\n| (d) | in the case of non-completed transactions, the reason for such non-completion. |\n| --- | --- |\n\n3. Wallet providers shall ensure integrity, authenticity and confidentiality of the logged information.\n\n4. Wallet instances shall log reports sent by the wallet user to the data protection authorities via their wallet unit.\n\n5. The logs referred to in paragraphs 1 and 2 shall be accessible to the wallet provider, where it is necessary for the provision of wallet services, on the basis of explicit prior consent by the wallet user.\n\n6. The logs referred to in paragraphs 1 and 2 shall remain accessible for as long as they are required by Union law or national law.\n\n7. Wallet providers shall enable wallet users to export the logged information referred to in paragraph 2.",
+      "text_sha256": "5f0876786ad6fde2c1132a9701e3ca6a9837467c1ae8229f9236b46973e74086",
+      "md_span": {
+        "start": 9800,
+        "end": 11295
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32024r2979:2024-11-28#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Wallet providers shall ensure that electronic attestations of attributes with common embedded disclosure policies set out in Annex III can be processed by the wallet units that they provide.\n\n2. Wallet instances shall be able to process and present such embedded disclosure policies referred to in paragraph 1 in conjunction with data received from the requesting wallet-relying party.\n\n3. Wallet instances shall verify whether the wallet-relying party complies with the requirements of the embedded disclosure policy and inform the wallet user of the result.",
+      "text_sha256": "0eaa11cd33b1d458f8aa13dca0cab697a8290b09c7ec0d6f7bc077f2e99322e8",
+      "md_span": {
+        "start": 11330,
+        "end": 11904
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32024r2979:2024-11-28#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Wallet providers shall ensure that wallet users are able to receive, qualified certificates for qualified electronic signatures or seals which are linked to qualified signature or seal creation devices that are either local, external, or remote in relation to the wallet instances.\n\n2. Wallet providers shall ensure that wallet solutions are able to securely interface with one of the following types of qualified signature or seal creation devices: local, external, or remotely managed qualified signature or seal creation devices for the purposes of using the qualified certificates referred to in paragraph 1.\n\n3. Wallet providers shall ensure that wallet users who are natural persons have, at least for non-professional purposes, free-of-charge access to signature creation applications which allow the creation of free-of-charge qualified electronic signatures using the certificates referred to in paragraph 1.",
+      "text_sha256": "527651de1d1bb1fed627a4c089187f112ecf756319fb86f4ad136653e686b453",
+      "md_span": {
+        "start": 11939,
+        "end": 12871
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32024r2979:2024-11-28#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. The signature creation applications used by wallet units may be provided either by wallet providers, by providers of trust services or by wallet-relying parties.\n\n2. Signature creation applications shall have the following functions:\n\n| (a) | signing or sealing wallet user-provided data; |\n| --- | --- |\n\n| (b) | signing or sealing relying party-provided data; |\n| --- | --- |\n\n| (c) | creating signatures or seals in accordance with at least the mandatory formats referred to in Annex IV; |\n| --- | --- |\n\n| (d) | informing wallet users about the result of the signature or seal creation process. |\n| --- | --- |\n\n3. The signature creation applications may either be integrated into or be external to wallet instances. Where signature creation applications rely on remote qualified signature creation devices and where they are integrated into wallet instances, they shall support the application programming interface referred to in Annex IV.",
+      "text_sha256": "b2f32c2af8f027d58c3c0570cbbbac6b9fa2a8809c5ab05b79f067d6178ed545",
+      "md_span": {
+        "start": 12906,
+        "end": 13866
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32024r2979:2024-11-28#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nWallet units shall, where technically feasible and excepting cases of critical assets, support secure export and portability of personal data of the wallet user, to allow the wallet user to migrate to a wallet unit of a different wallet solution in a way that ensures level of assurance high as set out in Implementing Regulation (EU) 2015/1502.",
+      "text_sha256": "a31fd3f1b632b656272ac899d25566b3c6b07de3110f272bd9c166efbaafa749",
+      "md_span": {
+        "start": 13901,
+        "end": 14258
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32024r2979:2024-11-28#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Wallet units shall support the generation of pseudonyms for wallet users in compliance with the technical specifications set out in Annex V.\n\n2. Wallet units shall support the generation, upon the request of a wallet-relying party, of a pseudonym which is specific and unique to that wallet-relying party and provide this pseudonym to the wallet-relying party, either standalone or in combination with any person identification data or electronic attribute attestation requested by that wallet-relying party.",
+      "text_sha256": "b38ff865ffab06b9f4dfb2a59916da6d2c164501c559e35a1dcc21218a5726dd",
+      "md_span": {
+        "start": 14293,
+        "end": 14816
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32024r2979:2024-11-28#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "9b2fc24a7d5ed6df83b023aa8859c44619693e46af63130f27517d820dfa2c16",
+      "md_span": {
+        "start": 14851,
+        "end": 15003
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

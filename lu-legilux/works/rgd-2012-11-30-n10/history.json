@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -59,5 +60,65 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2025-06-23",
+          "valid_to": null,
+          "text_sha256": "2d57f9cadb85a7ab67f5344cff512a4d9346ebd3d077b405d9d003959aa76b84",
+          "in_version": "lu-legilux:rgd-2012-11-30-n10:2025-06-23",
+          "article_valid_from": "2025-06-23"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2025-06-23",
+          "valid_to": null,
+          "text_sha256": "7f71b59a7ea1818bc47d658844d94e3cd679fa3486238c7f6b41e39500cfb959",
+          "in_version": "lu-legilux:rgd-2012-11-30-n10:2025-06-23",
+          "article_valid_from": "2025-06-23"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2025-06-23",
+          "valid_to": null,
+          "text_sha256": "919b2d83b4ca75f71393a91cf10cf794822f1cd8c10d71af30803854d8c3420c",
+          "in_version": "lu-legilux:rgd-2012-11-30-n10:2025-06-23",
+          "article_valid_from": "2025-06-23"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2025-06-23",
+          "valid_to": null,
+          "text_sha256": "2fce273768712dfe760025d76959a34e7ee1f010fa6e82b3e0117ccf79c21298",
+          "in_version": "lu-legilux:rgd-2012-11-30-n10:2025-06-23",
+          "article_valid_from": "2025-06-23"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2025-06-23",
+          "valid_to": null,
+          "text_sha256": "a45223d0d44512385f0fce3ef9215863d7ae0e33d957016cca8a86592523af24",
+          "in_version": "lu-legilux:rgd-2012-11-30-n10:2025-06-23",
+          "article_valid_from": "2025-06-23"
+        }
+      ],
+      "attachment_1": [
+        {
+          "valid_from": "2025-06-23",
+          "valid_to": null,
+          "text_sha256": "a3a77064deed104ade3029a334e03217cdd4251e760010bd4eaffd9cb117d282",
+          "in_version": "lu-legilux:rgd-2012-11-30-n10:2025-06-23"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

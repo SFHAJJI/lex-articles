@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r1018:2021-06-22",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2021/1018 of 22\u00A0June 2021 amending the implementin…",
+  "valid_from": "2021-06-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r1018/versions/2021-06-22/fr.xml",
+    "sha256": "2d205cc65e74cac8a12b0b6537ec2ad1cad0360ffe21301f13a0c573888c7815",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R1018"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r1018:2021-06-22#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nDans le règlement d’exécution (UE) 2021/637, l’article 6 bis suivant est inséré:\n\n«Article 6 bis\n\nPublication d’informations sur les indicateurs d’importance systémique mondiale\n\n1. Les EISm publient les informations relatives aux valeurs des indicateurs utilisés pour déterminer leur note visés par l’article 441 du règlement (UE) no 575/2013 en respectant le format de publication uniforme, prévu par l’article 434 bis du règlement (UE) no 575/2013, qui est employé par les autorités compétentes pour collecter les valeurs d’indicateur conformément à l’article 3, paragraphe 2, du règlement délégué (UE) no 1222/2014 de la Commission, à l’exception des données auxiliaires et éléments pour mémoire collectés conformément audit article.\n\n2. Les EISm publient les informations visées au paragraphe 1 dans leur rapport de fin d’exercice au titre du troisième pilier. Les EISm republient les informations visées au paragraphe 1 dans leur premier rapport au titre du troisième pilier qui suit la communication finale des valeurs des indicateurs aux autorités compétentes, si les chiffres communiqués diffèrent des chiffres publiés dans le rapport de fin d’exercice au titre du troisième pilier.»",
+      "text_sha256": "c2e3dc4b67d40bfcea0f9c9ba9347a2e2087d628ff48ef4fd77733d4b80a5b0a",
+      "md_span": {
+        "start": 636,
+        "end": 1845
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r1018:2021-06-22#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe règlement d’exécution (UE) no 1030/2014 est abrogé.",
+      "text_sha256": "f1a40588182b303764a00e622efdacdda0af56042d7ed8aeab77da1033e82ce1",
+      "md_span": {
+        "start": 1878,
+        "end": 1943
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32021r1018:2021-06-22#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le jour de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 28 juin 2021.",
+      "text_sha256": "24a58ddaf07ad0cf11ca0a064d240c7afd17986467758889ad014230d8179875",
+      "md_span": {
+        "start": 1976,
+        "end": 2138
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

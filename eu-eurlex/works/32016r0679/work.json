@@ -2,13 +2,32 @@
   "lex_work_id": "eu-eurlex:32016r0679",
   "title": "GDPR — Regulation (EU) 2016/679",
   "languages": [
-    "en"
+    "en",
+    "fr"
   ],
   "versions": [
+    {
+      "valid_from": "2016-04-27",
+      "valid_to": "2016-05-03",
+      "language": "en",
+      "provisions": 99
+    },
+    {
+      "valid_from": "2016-04-27",
+      "valid_to": "2016-05-03",
+      "language": "fr",
+      "provisions": 99
+    },
     {
       "valid_from": "2016-05-04",
       "valid_to": null,
       "language": "en",
+      "provisions": 99
+    },
+    {
+      "valid_from": "2016-05-04",
+      "valid_to": null,
+      "language": "fr",
       "provisions": 99
     }
   ],

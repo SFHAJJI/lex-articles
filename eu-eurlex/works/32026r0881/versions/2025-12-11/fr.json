@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0881:2025-12-11",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2026/881 of 11\u00A0December 2025 supplementing Regulation (EU)\u00A02024/2847",
+  "valid_from": "2025-12-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0881/versions/2025-12-11/fr.xml",
+    "sha256": "a677aec295a8b8ac889dc6bc620894cf1d76da69e4ec2603c9d51da9ac96ccb0",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0881"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0881:2025-12-11#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe présent règlement précise les conditions d’application des motifs ayant trait à la cybersécurité visés à l’article 16, paragraphe 2, du règlement (UE) 2024/2847, qui permettent au CSIRT désigné comme coordinateur recevant initialement une notification conformément à l’article 14, paragraphes 1 et 3, et à l’article 15, paragraphes 1 et 2, dudit règlement de retarder la diffusion de la notification aux CSIRT désignés comme coordinateurs sur le territoire desquels le fabricant a indiqué que le produit comportant des éléments numériques a été mis à disposition.",
+      "text_sha256": "40ed4c3fdeaf5352b51bbe839d4c2671be85bfc682428713c665de8d8e913b0d",
+      "md_span": {
+        "start": 650,
+        "end": 1233
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0881:2025-12-11#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins du présent règlement, on entend par:\n\n| 1) | «CSIRT recevant initialement la notification»: le CSIRT désigné comme coordinateur qui reçoit initialement la notification conformément à l’article 14, paragraphes 1 et 3, et à l’article 15, paragraphes 1 et 2, du règlement (UE) 2024/2847; |\n| --- | --- |\n\n| 2) | «CSIRT concerné»: le CSIRT désigné comme coordinateur sur le territoire duquel le fabricant a indiqué que le produit comportant des éléments numériques a été mis à disposition. |\n| --- | --- |",
+      "text_sha256": "ce5061fb46557ce68c7d29f89faf7a1ffa35352f25a3e486534741c8fb959b78",
+      "md_span": {
+        "start": 1266,
+        "end": 1787
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32026r0881:2025-12-11#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe CSIRT recevant initialement la notification peut décider de retarder, pendant une période limitée à ce qui est strictement nécessaire, la diffusion des notifications ou de parties de celles-ci aux CSIRT concernés dans les cas où, compte tenu de la sensibilité des informations notifiées, les risques en matière de cybersécurité liés à la diffusion l’emportent sur les avantages en matière de sécurité qu’elle procure, et où il est impossible d’atténuer ces risques en imposant des restrictions au traitement ou à la diffusion plus large de la notification au moyen de protocoles appropriés, tels que les protocoles «Traffic Light Protocol» (TLP) ou «Permissible Actions Protocol» (PAP), et lorsqu’au moins une des conditions suivantes est remplie:\n\n| a) | le fabricant a informé le CSIRT recevant initialement la notification qu’une mesure efficace d’atténuation des risques, telle qu’une mise à jour de sécurité ou des orientations à l’intention des utilisateurs, devrait être mise à disposition dans un délai de 72 heures; si aucune mesure efficace d’atténuation des risques n’est mise à disposition dans ce délai, le CSIRT recevant initialement la notification diffuse la notification aux CSIRT concernés; |\n| --- | --- |\n\n| b) | les informations figurant dans la notification sont jugées suffisantes, compte tenu de la nature de la vulnérabilité activement exploitée notifiée, pour créer une technique d’exploitation, en particulier lorsque la vulnérabilité peut être facilement identifiée et exploitée par des acteurs disposant de compétences et de ressources limitées; dès lors qu’une mesure efficace d’atténuation des risques, telle qu’une mise à jour de sécurité ou des orientations à l’intention des utilisateurs, est mise à disposition, le CSIRT recevant initialement la notification diffuse la notification aux CSIRT concernés; |\n| --- | --- |\n\n| c) | le CSIRT recevant initialement la notification est en mesure de partager avec les CSIRT concernés des informations suffisantes pour faire en sorte que les CSIRT concernés puissent mettre en place des mesures adéquates d’atténuation des risques; dès lors qu’une mesure efficace d’atténuation des risques, telle qu’une mise à jour de sécurité ou des orientations à l’intention des utilisateurs, est mise à disposition, le CSIRT recevant initialement la notification diffuse la notification complète aux CSIRT concernés; |\n| --- | --- |\n\n| d) | le CSIRT recevant initialement la notification de la vulnérabilité activement exploitée en a été informé dans le cadre d’une divulgation coordonnée des vulnérabilités (DCV) pour laquelle il fait office d’intermédiaire de confiance conformément à l’article 12, paragraphe 1, de la directive (UE) 2022/2555; dans ce cas, et conformément à l’article 16, paragraphe 6, du règlement (UE) 2024/2847, le CSIRT recevant initialement la notification la diffuse aux CSIRT concernés lorsqu’il n’est plus strictement nécessaire d’en reporter la diffusion et que les parties concernées par la DCV ont donné leur consentement à la divulgation. |\n| --- | --- |",
+      "text_sha256": "f085abdd37ba70df76bc3d16dfc08448d08869c26b2f6d86aa11a15cca797ed4",
+      "md_span": {
+        "start": 1820,
+        "end": 4884
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32026r0881:2025-12-11#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe CSIRT recevant initialement la notification peut décider de retarder pour une période limitée à ce qui est strictement nécessaire la diffusion des notifications ou de parties de celles-ci à un CSIRT concerné particulier dans les cas où:\n\n| a) | le CSIRT concerné a été touché par un incident de cybersécurité remettant en cause sa capacité à garantir la confidentialité des informations notifiées; |\n| --- | --- |\n\n| b) | il a des raisons suffisantes de penser que les capacités du CSIRT concerné sont insuffisantes pour garantir la confidentialité des informations notifiées. |\n| --- | --- |\n\nDans les cas visés au premier alinéa, point a), le CSIRT recevant initialement la notification peut retarder la diffusion jusqu’à ce que le CSIRT concerné ait informé le réseau des CSIRT mentionné à l’article 15 de la directive (UE) 2022/2555 que sa capacité à garantir la confidentialité des notifications a été rétablie.\n\nDans les cas visés au premier alinéa, point b), le CSIRT recevant initialement la notification peut retarder la diffusion au CSIRT concerné jusqu’à ce que ce dernier ait fourni la preuve qu’il a remédié aux lacunes constatées.",
+      "text_sha256": "d940806eec19cba6bc35004e7996c933c385d18a5d26a91aec7c1df4eb426fe1",
+      "md_span": {
+        "start": 4917,
+        "end": 6075
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32026r0881:2025-12-11#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLe CSIRT recevant initialement la notification peut décider de retarder la diffusion des notifications via la plateforme unique de signalement établie par l’article 16 du règlement (UE) 2024/2847 lorsque l’ENISA a informé le réseau des CSIRT, conformément à l’article 16, paragraphe 4, dudit règlement, que la plateforme unique de signalement a été touchée par un incident de cybersécurité remettant en cause sa capacité à garantir la confidentialité des informations notifiées. Dans un tel cas, le CSIRT recevant initialement la notification peut retarder la diffusion via la plateforme unique de signalement jusqu’à ce que l’ENISA ait informé le réseau des CSIRT que la capacité de la plateforme à garantir la confidentialité des notifications a été rétablie.",
+      "text_sha256": "3679fea40db4617af155e691b4cf78ed999e76f41e7b6dba85ee8be2e735f3ac",
+      "md_span": {
+        "start": 6108,
+        "end": 6880
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32026r0881:2025-12-11#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "c09b73b69148bd7d9e0dbfde231d12a005b999b8a85ebf9860b2b8bebb65247a",
+      "md_span": {
+        "start": 6913,
+        "end": 7054
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

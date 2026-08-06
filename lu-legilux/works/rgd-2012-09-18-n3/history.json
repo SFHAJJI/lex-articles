@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -62,5 +63,68 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "878dbd2507102ebb861017dfbf4559f8ca0fa887d88a74797b18d32a059f2a7f",
+          "in_version": "lu-legilux:rgd-2012-09-18-n3:2013-07-01",
+          "article_valid_from": "2012-10-05",
+          "validity_conflict": true
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "b8217c3493cb042c65b0cb340b93419229c4b409bf36a9eb295282617cbf72a5",
+          "in_version": "lu-legilux:rgd-2012-09-18-n3:2013-07-01",
+          "article_valid_from": "2012-10-05",
+          "validity_conflict": true
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "2a9c26d15a5bbcaf189ad4576d8ba2249e1f6848247fbae4e2faa0166298bb7c",
+          "in_version": "lu-legilux:rgd-2012-09-18-n3:2013-07-01",
+          "article_valid_from": "2012-10-05",
+          "validity_conflict": true
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": "2023-12-31",
+          "text_sha256": "2a3da928c1e16f3e3c990ab421ad377529d912e0e83abfe63e7f337e8a7eba49",
+          "in_version": "lu-legilux:rgd-2012-09-18-n3:2013-07-01",
+          "article_valid_from": "2013-07-01"
+        },
+        {
+          "valid_from": "2024-01-01",
+          "valid_to": null,
+          "text_sha256": "71f45f8eaf3af3715e25149559f99a5ce085619c8e3d5c375d24561c0f6a59fc",
+          "in_version": "lu-legilux:rgd-2012-09-18-n3:2024-01-01",
+          "article_valid_from": "2024-01-01"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2013-07-01",
+          "valid_to": null,
+          "text_sha256": "c24d5b28a40ebc25b3d942a384cda86b823aa0b0034a5010d27cb3efebc327c6",
+          "in_version": "lu-legilux:rgd-2012-09-18-n3:2013-07-01",
+          "article_valid_from": "2012-10-05",
+          "validity_conflict": true
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

@@ -1,0 +1,263 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32012r1156:2015-01-01",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) No\u00A01156/2012 of 6\u00A0December 2012 laying down detail…",
+  "valid_from": "2015-01-01",
+  "valid_to": "2015-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32012r1156/versions/2015-01-01/fr.html",
+    "sha256": "656a6ca51ba4f95e7de21b8bb289fe2f6f221f66ad4f0d72b61f0f7a1c3e7bde",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02012R1156-20150101"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32012r1156:2015-01-01#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. En ce qui concerne les formulaires à utiliser, on entend par «champ» l’emplacement sur un formulaire dans lequel les informations à échanger au titre de la directive du Conseil peuvent être consignées.\n\n2. Le formulaire à utiliser pour les demandes d’informations et d’enquêtes administratives introduites en vertu de l’article 5 de la directive 2011/16/UE ainsi que pour les réponses correspondantes, les accusés de réception, les demandes d’autres renseignements de caractère général et les déclarations d’incapacité ou de refus au titre de l’article 7 de ladite directive doit être conforme à l’annexe I du présent règlement.\n\n3. Le formulaire à utiliser pour les informations échangées spontanément et l’accusé de réception les concernant au titre, respectivement, des articles 9 et 10 de la directive 2011/16/UE doit être conforme à l’annexe II du présent règlement.\n\n4. Le formulaire à utiliser pour les demandes de notification administrative au titre de l’article 13, paragraphes 1 et 2, de la directive 2011/16/UE et les réponses à ces demandes au titre de l’article 13, paragraphe 3, de ladite directive doit être conforme à l’annexe III du présent règlement.\n\n5. Le formulaire à utiliser pour les retours d’informations au titre de l’article 14, paragraphe 1, de la directive 2011/16/UE doit être conforme à l’annexe IV du présent règlement.",
+      "text_sha256": "dfc0ee618d5ae13b7fbbed86938256cfe57af4a553de459e400b32dfe36aba97",
+      "md_span": {
+        "start": 667,
+        "end": 2022
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32014R1353",
+          "text": "32014R1353: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_premier_bis",
+      "provision_id": "eu-eurlex:32012r1156:2015-01-01#art_premier_bis",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier bis",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le format informatique à utiliser pour l'échange automatique et obligatoire d'informations au titre de l'article 8, paragraphe 1, de la directive 2011/16/UE est conforme au format indiqué à l'annexe V du présent règlement.",
+      "text_sha256": "e1d1d327a83371935de1f5ecd91885d8c9a610b536d614fba493114eb38fb0df",
+      "md_span": {
+        "start": 2079,
+        "end": 2301
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32012R1156",
+          "text": "32012R1156"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32012r1156:2015-01-01#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les rapports, attestations et autres documents mentionnés dans les informations communiquées au titre de la directive 2011/16/UE peuvent être transmis par d’autres moyens de communication que le réseau CCN.\n\n2. Lorsque les informations visées dans la directive 2011/16/UE ne sont pas échangées par voie électronique au moyen du réseau CCN, et sauf disposition contraire convenue bilatéralement, les informations sont accompagnées d’une lettre de couverture précisant les informations communiquées et dûment signée par l’autorité compétente qui transmet les informations.",
+      "text_sha256": "8b88cccd9d976f06ebedc45a9608309ac10c8ff7f43ba0e6aa094b8a6b61ec5f",
+      "md_span": {
+        "start": 2338,
+        "end": 2911
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32012r1156:2015-01-01#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le troisième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.\n\nIl est applicable à partir du 1er janvier 2013.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.",
+      "text_sha256": "e808cc482b60bac5a57e694de12a8756cab58fc65bfd47cf5107e020820db184",
+      "md_span": {
+        "start": 2948,
+        "end": 3239
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_i",
+      "provision_id": "eu-eurlex:32012r1156:2015-01-01#annexe_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Formulaire visé à l’article 1er, paragraphe 2**\n\nLe formulaire à utiliser pour les demandes d’informations et d’enquêtes administratives introduites en vertu de l’article 5 de la directive 2011/16/UE, ainsi que pour les réponses correspondantes, les accusés de réception, les demandes de renseignements à caractère général et les déclarations d’incapacité ou de refus au titre de l’article 7 de ladite directive comporte les champs suivants (3):\n\n— base juridique,\n\n— numéro de référence,\n\n— date,\n\n— identité des autorités requérantes et requises,\n\n— identité de la personne faisant l’objet d’un contrôle ou d’une enquête,\n\n— description générale du cas et, le cas échéant, renseignements spécifiques qui pourraient permettre d’évaluer la pertinence vraisemblable des informations demandées à l’administration et l’application du droit national des États membres en ce qui concerne les taxes et impôts visés à l’article 2 de la directive 2011/16/UE,\n\n— finalité fiscale des informations demandées,\n\n— période faisant l’objet de l’enquête,\n\n— nom et adresse de toute personne dont il y a lieu de penser qu’elle est en possession des informations demandées,\n\n— respect des obligations juridiques imposées par l’article 16, paragraphe 1, de la directive 2011/16/UE,\n\n— respect des obligations juridiques imposées par l’article 17, paragraphe 1, de la directive 2011/16/UE,\n\n— demande motivée portant sur une enquête administrative précise et motifs du refus de mener l’enquête administrative précise demandée,\n\n— accusé de réception de la demande d’informations,\n\n— demande d’autres renseignements de caractère général,\n\n— motifs des déclarations d’incapacité ou de refus concernant la communication d’informations,\n\n— motifs du non-respect du délai de réponse imparti et date pour laquelle l’autorité requise estime pouvoir répondre.",
+      "text_sha256": "3cccf09cc55a4934d1490a600950dde8534565165ea475935faadcd9fc5c9a2f",
+      "md_span": {
+        "start": 3278,
+        "end": 5112
+      },
+      "citations": [
+        {
+          "href": "#E0003",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_ii",
+      "provision_id": "eu-eurlex:32012r1156:2015-01-01#annexe_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Formulaire visé à l’article 1er, paragraphe 3**\n\nLe formulaire à utiliser pour les informations échangées spontanément et l’accusé de réception les concernant au titre, respectivement, des articles 9 et 10 de la directive 2011/16/UE comporte les champs suivants (4):\n\n— base juridique,\n\n— numéro de référence,\n\n— date,\n\n— identité des autorités expéditrices et réceptrices,\n\n— identité de la personne faisant l’objet de l’échange spontané d’informations,\n\n— période couverte par l’échange spontané d’informations,\n\n— respect des obligations juridiques imposées par l’article 16, paragraphe 1, de la directive 2011/16/UE,\n\n— accusé de réception des informations échangées spontanément.",
+      "text_sha256": "759be4381e33fac6ace3b2688f6425a681a8ef5816a25c63555098da17b0c0db",
+      "md_span": {
+        "start": 5153,
+        "end": 5839
+      },
+      "citations": [
+        {
+          "href": "#E0004",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_iii",
+      "provision_id": "eu-eurlex:32012r1156:2015-01-01#annexe_iii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Formulaire visé à l’article 1er, paragraphe 4**\n\nLe formulaire à utiliser pour les demandes de notification administrative au titre de l’article 13, paragraphes 1 et 2, de la directive 2011/16/UE et les réponses à ces demandes au titre de l’article 13, paragraphe 3, de ladite directive comporte les champs suivants (5):\n\n— base juridique,\n\n— numéro de référence,\n\n— date,\n\n— identité des autorités requérantes et requises,\n\n— nom et adresse du destinataire de l’acte ou de la décision,\n\n— autres informations susceptibles de faciliter l’identification du destinataire,\n\n— objet de l’acte ou de la décision,\n\n— réponse de l’autorité requise, conformément à l’article 13, paragraphe 3, de la directive 2011/16/UE, y compris la date de notification de l’acte ou de la décision au destinataire.",
+      "text_sha256": "02c73ff67c877c15cb46db89734560b1808b4327cd4cadb9ad0c9beeb4ba1ea5",
+      "md_span": {
+        "start": 5882,
+        "end": 6675
+      },
+      "citations": [
+        {
+          "href": "#E0005",
+          "text": "5"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_iv",
+      "provision_id": "eu-eurlex:32012r1156:2015-01-01#annexe_iv",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IV",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Formulaire visé à l’article 1er, paragraphe 5**\n\nLe formulaire à utiliser pour les demandes de notification au titre de l’article 14, paragraphe 1, de la directive 2011/16/UE comporte les champs suivants (6):\n\n— numéro de référence,\n\n— date,\n\n— identité de l’autorité compétente qui émet le retour d’information,\n\n— retour d’informations général sur les informations communiquées,\n\n— résultats directement liés aux informations communiquées.",
+      "text_sha256": "a0528882959e1fe79a6288636950de68b2b29d5bfb48e9e16b0b77250a632185",
+      "md_span": {
+        "start": 6716,
+        "end": 7159
+      },
+      "citations": [
+        {
+          "href": "#E0006",
+          "text": "6"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32014R1353",
+          "text": "32014R1353: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_v",
+      "provision_id": "eu-eurlex:32012r1156:2015-01-01#annexe_v",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE V",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 7198,
+        "end": 7198
+      },
+      "citations": []
+    },
+    {
+      "anchor": "format_informatique_vise_a_l_article_1er_bis",
+      "provision_id": "eu-eurlex:32012r1156:2015-01-01#format_informatique_vise_a_l_article_1er_bis",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "Format informatique visé à l'article 1er*bis*",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le format informatique à utiliser pour l'échange automatique et obligatoire d'informations en vertu de l'article 8 de la directive 2011/16/UE est conforme à la structure arborescente ci-après et contient les catégories d'éléments suivantes (7):\n\na) en ce qui concerne le message général:\n\nb) en ce qui concerne le corps destiné à communiquer des informations sur des revenus professionnels ou des jetons de présence:\n\nc) en ce qui concerne le corps destiné à communiquer des informations sur des pensions:\n\nd) en ce qui concerne le corps destiné à communiquer des informations sur des produits d'assurance-vie:\n\ne) en ce qui concerne le corps destiné à communiquer des informations relatives à la propriété et aux revenus de biens immobiliers:\n\nf) en ce qui concerne le corps dans le cas où aucune information ne doit être communiquée concernant une catégorie spécifique:\n\ng) en ce qui concerne le corps d'un accusé de réception des informations relatives à une catégorie spécifique:\n\n(1) JO L 64 du 11.3.2011, p. 1.\n\n(2) JO L 336 du 27.12.1977, p. 15.\n\n(3) Cependant, seuls les champs effectivement complétés dans un cas précis doivent apparaître sur le formulaire utilisé pour ce cas.\n\n(4) Cependant, seuls les champs effectivement complétés dans un cas précis doivent apparaître sur le formulaire utilisé pour ce cas.\n\n(5) Cependant, seuls les champs effectivement complétés dans un cas précis doivent apparaître sur le formulaire utilisé pour ce cas.\n\n(6) Cependant, seuls les champs effectivement complétés dans un cas précis doivent apparaître sur le formulaire utilisé pour ce cas.\n\n(7) Cependant, seuls les champs effectivement disponibles et applicables dans un cas donné doivent figurer dans le format informatique utilisé pour ce cas.",
+      "text_sha256": "45abb44551cf713a636e3c989ca3f674ce1dbabd64fefbbe0ecb55a2ad923768",
+      "md_span": {
+        "start": 7310,
+        "end": 9055
+      },
+      "citations": [
+        {
+          "href": "#E0007",
+          "text": "7"
+        },
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

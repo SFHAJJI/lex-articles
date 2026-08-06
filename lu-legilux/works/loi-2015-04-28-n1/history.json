@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art6bis": [
       {
@@ -125,5 +126,131 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art6bis": [
+        {
+          "valid_from": "2019-12-27",
+          "valid_to": null,
+          "text_sha256": "871be0e760038ca3c2eb8b514745beb6111254e760d8219aec2ad915c8382d47",
+          "in_version": "lu-legilux:loi-2015-04-28-n1:2019-12-27",
+          "article_valid_from": "2015-05-11",
+          "validity_conflict": true
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2019-12-27",
+          "valid_to": null,
+          "text_sha256": "a0eb22fb3c8933937cd3a0c4475faae18ed7658f9908c1e28007e6b6ba1a546e",
+          "in_version": "lu-legilux:loi-2015-04-28-n1:2019-12-27"
+        }
+      ],
+      "art_1er": [
+        {
+          "valid_from": "2019-12-27",
+          "valid_to": null,
+          "text_sha256": "2838cdc9e04edc81e49a06de62bc9963a8770ddcd73dfaf37f332777ad4ce6ec",
+          "in_version": "lu-legilux:loi-2015-04-28-n1:2019-12-27",
+          "article_valid_from": "2019-12-27"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2019-12-27",
+          "valid_to": null,
+          "text_sha256": "250ca2cc283d56777ce6670e711c050bd5c2ee7a6892b95159a288e85a52d874",
+          "in_version": "lu-legilux:loi-2015-04-28-n1:2019-12-27",
+          "article_valid_from": "2019-12-27"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2019-12-27",
+          "valid_to": null,
+          "text_sha256": "8408eeae735b1a995935b4ffeb63972aafe47642bf6e538ea21a82bea9140759",
+          "in_version": "lu-legilux:loi-2015-04-28-n1:2019-12-27",
+          "article_valid_from": "2019-12-27"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2019-12-27",
+          "valid_to": null,
+          "text_sha256": "16cf9fbe942128375de22c4ea8946efae393e0b480b9a6630b401780c7aec61b",
+          "in_version": "lu-legilux:loi-2015-04-28-n1:2019-12-27",
+          "article_valid_from": "2019-12-27"
+        }
+      ],
+      "art_5_20191227": [
+        {
+          "valid_from": "2019-12-27",
+          "valid_to": null,
+          "text_sha256": "26b370623260dc8fb6092848f6cf4cae6bb8de482762e9d4fa7ddc29cc1f2901",
+          "in_version": "lu-legilux:loi-2015-04-28-n1:2019-12-27",
+          "article_valid_from": "2019-12-27"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2019-12-27",
+          "valid_to": null,
+          "text_sha256": "cc671ccb01254cd7bf3e1d4884a5696977982a3e202360ec73b02516af5d15fd",
+          "in_version": "lu-legilux:loi-2015-04-28-n1:2019-12-27",
+          "article_valid_from": "2019-12-27"
+        }
+      ],
+      "art_6quater": [
+        {
+          "valid_from": "2019-12-27",
+          "valid_to": null,
+          "text_sha256": "191cd1ef912075f1cb0dba911c8cfe48ebcac4db9c694756fd017ba7ddd44501",
+          "in_version": "lu-legilux:loi-2015-04-28-n1:2019-12-27",
+          "article_valid_from": "2015-05-11",
+          "validity_conflict": true
+        }
+      ],
+      "art_6ter": [
+        {
+          "valid_from": "2019-12-27",
+          "valid_to": null,
+          "text_sha256": "e8e925d591f68e2f5a04d52b4632405e4f1e6456eff1e98293470adde930e6fe",
+          "in_version": "lu-legilux:loi-2015-04-28-n1:2019-12-27",
+          "article_valid_from": "2015-05-11",
+          "validity_conflict": true
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2019-12-27",
+          "valid_to": null,
+          "text_sha256": "08021a35ae41b9e2c2e78d0e060e0a5654e374119edcea8fff5bd2247765200f",
+          "in_version": "lu-legilux:loi-2015-04-28-n1:2019-12-27",
+          "article_valid_from": "2019-12-27"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2019-12-27",
+          "valid_to": null,
+          "text_sha256": "452827e28224b6c34a9bb53b4b4de48fda57c35cbac6f988dedabd7562f85532",
+          "in_version": "lu-legilux:loi-2015-04-28-n1:2019-12-27",
+          "article_valid_from": "2015-05-11",
+          "validity_conflict": true
+        }
+      ],
+      "attachment_1": [
+        {
+          "valid_from": "2019-12-27",
+          "valid_to": null,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "lu-legilux:loi-2015-04-28-n1:2019-12-27"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -62,5 +63,68 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2010-05-04",
+          "valid_to": null,
+          "text_sha256": "f208ab82787929ce4e3a13634fc85a0254be412aa12967549cf4048ef843ac44",
+          "in_version": "lu-legilux:loi-1998-08-03-n13:2010-05-04"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2010-05-04",
+          "valid_to": null,
+          "text_sha256": "5ca031b0632e571075ed5c9bfd98ccdf62949773af6e23d1860e5e4ec73ad5c4",
+          "in_version": "lu-legilux:loi-1998-08-03-n13:2010-05-04"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2010-05-04",
+          "valid_to": null,
+          "text_sha256": "d48e19f9016690ac1fdb0277d63b1032921b0908507d5ec08b47f34b8ec5ab85",
+          "in_version": "lu-legilux:loi-1998-08-03-n13:2010-05-04"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2010-05-04",
+          "valid_to": null,
+          "text_sha256": "5769ffc7cf20b4db7a3374ce8dca64060454a0fd979c12b06b8f2fac80f4a2b4",
+          "in_version": "lu-legilux:loi-1998-08-03-n13:2010-05-04"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2010-05-04",
+          "valid_to": null,
+          "text_sha256": "f2da3950d4eb045c4f8cd7f9d888b7095968db644c17057a730193226ca326e2",
+          "in_version": "lu-legilux:loi-1998-08-03-n13:2010-05-04"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2010-05-04",
+          "valid_to": null,
+          "text_sha256": "75c6897fea1b7229d717759a11b98909facbf5b974cd5bfc5f2a8aef79ea6637",
+          "in_version": "lu-legilux:loi-1998-08-03-n13:2010-05-04"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2010-05-04",
+          "valid_to": null,
+          "text_sha256": "b73ba9d77d17595d536960910a45d0296c6b5d26ec9251773a8c4e09b37010fc",
+          "in_version": "lu-legilux:loi-1998-08-03-n13:2010-05-04"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

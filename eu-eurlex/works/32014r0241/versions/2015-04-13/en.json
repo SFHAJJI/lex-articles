@@ -1,0 +1,935 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0241:2015-04-13",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) No\u00A0241/2014 of 7\u00A0January 2014 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2015-04-13",
+  "valid_to": "2015-06-21",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0241/versions/2015-04-13/en.html",
+    "sha256": "b153f5815af0463fae6ac448f1261c36a19e266fc00f4c3b505e90a5b1c9ddba",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0241-20150413"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Subject matter",
+      "path": [
+        "CHAPTER I",
+        "**GENERAL**"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Regulation lays down rules concerning:\n\n(a) the meaning of ‘foreseeable’ when determining whether foreseeable charges or dividends have been deducted from own funds according to Article 26(4) of Regulation (EU) No 575/2013;\n\n(b) conditions according to which competent authorities may determine that a type of undertaking recognised under applicable national law qualifies as a mutual, cooperative society, savings institution or similar institution, according to Article 27(2) of Regulation (EU) No 575/2013;\n\n(c) the applicable forms and nature of indirect funding of capital instruments, according to Article 28(5) of Regulation (EU) No 575/2013;\n\n(d) the nature of limitations on redemption necessary where the refusal by the institution of the redemption of own funds instruments is prohibited under applicable national law, according to Article 29(6) of Regulation (EU) No 575/2013;\n\n(e) the further specification of the concept of gain on sale according to Article 32(2) of Regulation (EU) No 575/2013;\n\n(f) the application of the deductions from Common Equity Tier 1 items and other deductions for Common Equity Tier 1, Additional Tier 1 and Tier 2 items according to Article 36(2) of Regulation (EU) No 575/2013;\n\n(g) the criteria according to which competent authorities shall permit institutions to reduce the amount of assets in the defined benefit pension fund, according to Article 41(2) of Regulation (EU) No 575/2013;\n\n(h) the form and nature of incentives to redeem, the nature of a write-up of an Additional Tier 1 instrument following a write-down of the principal amount on a temporary basis and the procedures and timing surrounding trigger events, features of instruments that could hinder recapitalisation and use of special purpose entities, according to Article 52(2) of Regulation (EU) No 575/2013;\n\n(i) the extent of conservatism required in estimates used as an alternative to the calculation of underlying exposures for indirect holdings arising from index holdings, according to Article 76(4) of Regulation (EU) No 575/2013;\n\n(j) certain detailed conditions that need to be met before a supervisory permission for reducing own funds can be given, and the relevant process, according to Article 78(5) of Regulation (EU) No 575/2013;\n\n(k) the conditions for a temporary waiver for deduction from own funds to be provided, according to Article 79(2) of Regulation (EU) No 575/2013;\n\n(l) the types of assets that can relate to the operations of a special purpose entity and the concepts of minimal and insignificant for the purposes of determining Qualifying Additional Tier 1 and Tier 2 capital issued by a special purpose entity according to Article 83(2) of Regulation (EU) No 575/2013;\n\n(m) the detailed conditions for adjustments to own funds under the transitional provisions, according to Article 481(6) of Regulation (EU) No 575/2013;\n\n(n) the conditions for items excluded from grandfathering in Common Equity Tier 1 or Additional Tier 1 items in other elements of own funds, according to Article 487(3) of Regulation (EU) No 575/2013.",
+      "text_sha256": "a7d14e724662bf7ebf0c1a64caf92f5e2a71760064c9cf98eb3dc3687fd87d94",
+      "md_span": {
+        "start": 720,
+        "end": 3795
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Meaning of ‘foreseeable’ in foreseeable dividend for the purposes of Article 26(2)(b) of Regulation (EU) No 575/2013",
+      "path": [
+        "Subsection 1",
+        "**Foreseeable dividends and charges**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. The amount of foreseeable dividends to be deducted by institutions from the interim or year-end profits as provided in Article 26(2) of Regulation (EU) No 575/2013, shall be determined in accordance with paragraphs 2 to 4.\n\n2. Where an institution’s management body has formally taken a decision or proposed a decision to the institution’s relevant body regarding the amount of dividends to be distributed, this amount shall be deducted from the corresponding interim or year-end profits.\n\n3. Where interim dividends are paid, the residual amount of interim profit resulting from the calculation laid down in paragraph 2 which is to be added to Common Equity Tier 1 items shall be reduced, taking into account the rules laid down in paragraphs 2 and 4, by the amount of any foreseeable dividend which can be expected to be paid out from that residual interim profit with the final dividends for the full business year.\n\n4. Before the management body has formally taken a decision or proposed a decision to the relevant body on the distribution of dividends, the amount of foreseeable dividends to be deducted by institutions from the interim or year-end profits shall equal the amount of interim or year-end profits multiplied by the dividend payout ratio.\n\n5. The dividend pay-out ratio shall be determined on the basis of the dividend policy approved for the relevant period by the management body or other relevant body.\n\n6. Where the dividend policy contains a pay-out range instead of a fixed value, the upper end of the range is to be used for the purpose of paragraph 2.\n\n7. In the absence of an approved dividend policy, or when, in the opinion of the competent authority, it is likely that the institution will not apply its dividend policy or this policy is not a prudent basis upon which to determine the amount of deduction, the dividend pay-out ratio shall be based on the highest of the following:\n\n(a) the average dividend pay-out ratio over the three years prior to the year under consideration;\n\n(b) the dividend pay-out ratio of the year preceding the year under consideration.\n\n8. The competent authority may permit the institution to adjust the calculation of the dividend pay-out ratio as described in points (a) and (b) of paragraph 7 to exclude exceptional dividends paid during the period.\n\n9. The amount of foreseeable dividends to be deducted shall be determined taking into account any regulatory restrictions on distributions, in particular restrictions determined in accordance with Article 141 of Directive 2013/36/EU of the European Parliament and of the Council (6). The amount of profit after deduction of foreseeable charges subject to such restrictions may be included fully in Common Equity Tier 1 items where the condition of point (a) of paragraph 2 of Article 26 of Regulation (EU) No 575/2013 is met. When such restrictions are applicable, the foreseeable dividends to be deducted shall be based on the capital conservation plan agreed by the competent authority pursuant to Article 142 of Directive 2013/36/EU.\n\n10. The amount of foreseeable dividends to be paid in a form that does not reduce the amount of Common Equity Tier 1 items, such as dividends in the form of shares, known as scrip-dividends, shall not be deducted from interim or year-end profits to be included in Common Equity Tier 1 items.\n\n11. The competent authority shall be satisfied that all necessary deductions to the interim or year-end profits and all those related to foreseeable dividends have been made, either under applicable accounting framework or under any other adjustments, before permitting that the institution includes interim or year-end profits in Common Equity Tier 1 items.",
+      "text_sha256": "c497f672359fdd13ebd25caf112ed55a27ef6b5cc9011d161f202dfedcb9139d",
+      "md_span": {
+        "start": 4011,
+        "end": 7718
+      },
+      "citations": [
+        {
+          "href": "#E0006",
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Meaning of ‘foreseeable’ in foreseeable charge for the purposes of Article 26(2)(b) of Regulation (EU) No 575/2013",
+      "path": [
+        "Subsection 1",
+        "**Foreseeable dividends and charges**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. The amount of foreseeable charges to be taken into account shall comprise the following:\n\n(a) the amount of taxes;\n\n(b) the amount of any obligations or circumstances arising during the related reporting period which are likely to reduce the profits of the institution and for which the competent authority is not satisfied that all necessary value adjustments, such as additional value adjustments according to Article 34 of Regulation (EU) No 575/2013, or provisions have been made.\n\n2. Foreseeable charges that have not already been taken into account in the profit and loss account shall be assigned to the interim period during which they have incurred so that each interim period bears a reasonable amount of these charges. Material or non-recurrent events shall be considered in full and without delay in the interim period during which they arise.\n\n3. The competent authority shall be satisfied that all necessary deductions to the interim or year-end profits and all those related to foreseeable charges have been made, either under applicable accounting framework or under any other adjustments, before permitting that the institution includes interim or year-end profits in Common Equity Tier 1 items.",
+      "text_sha256": "d1aed4ad2e9dcbf9cc613bd267cdcd46532d6090e4e3f253a7a42c5bcc3d1d79",
+      "md_span": {
+        "start": 7872,
+        "end": 9087
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Type of undertaking recognised under applicable national law as a cooperative society for the purposes of Article 27(1)(a)(ii) of Regulation (EU) No 575/2013",
+      "path": [
+        "Subsection 2",
+        "**Cooperative societies, savings institutions, mutuals and similar institutions**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Competent authorities may determine that a type of undertaking recognised under applicable national law qualifies as a cooperative society for the purpose of Part Two of Regulation (EU) No 575/2013, where all of the conditions in paragraphs 2, 3 and 4 are met.\n\n2. To qualify as a cooperative society for the purposes of paragraph 1, an institution’s legal status shall fall within one of the following categories:\n\n(a) in Austria: institutions registered as ‘eingetragene Genossenschaft (e.Gen.)’ or ‘registrierte Genossenschaft’ under the ‘Gesetz über Erwerbs- und Wirtschaftsgenossenschaften (GenG)’;\n\n(b) in Belgium: institutions registered as ‘société coopérative/coöperatieve vennootschap’ and approved in application of the Royal Decree of 8 January 1962 fixing the conditions of approval of the national groupings of cooperative societies and cooperative societies;\n\n(c) in Cyprus: institutions registered as ‘Συνεργατικό Πιστωτικό Ίδρυμα ή ΣΠΙ’ established by virtue of the Cooperative Societies Laws of 1985;\n\n(d) in the Czech Republic: institutions authorised as ‘spořitelní a úvěrní družstvo’ under ‘zákon upravující činnost spořitelních a úvěrních družstev’;\n\n(e) in Denmark: institutions registered as ‘andelskasser’or ‘sammenslutninger af andelskasser’ under the Danish Financial Business Act;\n\n(f) in Finland: institutions registered as one of the following:\n\n(1) ‘Osuuspankki’ or ‘andelsbank’ under ‘laki osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista’ or ‘lag om andelsbanker och andra kreditinstitut i andelslagsform’;\n\n(2) ‘Muu osuuskuntamuotoinen luottolaitos’ or ‘annat kreditinstitut i andelslagsform’ under ‘laki osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista’ or ‘lag om andelsbanker och andra kreditinstitut i andelslagsform’;\n\n(3) ‘Keskusyhteisö’ or ‘centralinstitutet’ under ‘laki talletuspankkien yhteenliittymästä’ or ‘lag om en sammanslutning av inlåningsbanker’;\n\n(g) in France: institutions registered as ‘sociétés coopératives’ under the ‘Loi no47-1775 du 10 septembre 1947 portant statut de la coopération’ and authorised as ‘banques mutualistes ou coopératives’ under the ‘Code monétaire et financier, partie législative, Livre V, titre Ier, chapitre II’;\n\n(h) in Germany: institutions registered as ‘eingetragene Genossenschaft (eG)’ under the ‘Gesetz betreffend die Erwerbs- und Wirtschaftsgenossenschaften (Genossenschaftsgesetz –GenG)’;\n\n(i) in Greece: institutions registered as ‘Πιστωτικοί Συνεταιρισμοί’ under the Cooperative Law 1667/1986 that operate as credit institutions and may be labeled as ‘Συνεταιριστική Τράπεζα’ according to the Banking Law 3601/2007;\n\n(j) in Hungary: institutions registered as ‘Szövetkezeti hitelintézet’ under Act CXII of 1996 on Credit Institutions and Financial Enterprises;\n\n(k) in Italy: institutions registered as on of the following:\n\n(1) ‘Banche popolari’ referred to in Legislative Decree 1 September 1993, no. 385;\n\n(2) ‘Banche di credito cooperativo’ referred to in Legislative Decree 1 September 1993, no. 385;\n\n(3) ‘Banche di garanzia collettiva dei fidi’ referred to in art. 13 of Decree Law 30 September 2003, no. 269, converted into Law 24 November 2003, no. 326;\n\n(l) in Luxembourg: institutions registered as ‘sociétés coopératives’ as defined in Section VI of the law of 10 August 1915 on commercial companies;\n\n(m) in the Netherlands: institutions registered as ‘coöperaties’ or ‘onderlinge waarborgmaatschappijen’ under ‘Title 3 of Book 2 Rechtspersonen of the Burgerlijk wetboek’;\n\n(n) in Poland: institutions registered as ‘bank spółdzielczy’ under the provisions of ‘Prawo bankowe’;\n\n(o) in Portugal: institutions registered as ‘Caixa de Crédito Agrícola Mútuo’ or as ‘Caixa Central de Crédito Agrícola Mútuo’ under the ‘Regime Jurídico do Crédito Agrícola Mútuo e das Cooperativas de Crédito Agrícola’ approved by Decreto-Lei n.o 24/91, de 11 de Janeiro;\n\n(p) in Romania: institutions registered as ‘Organizații cooperatiste de credit’ under the provisions of Government Emergency Ordinance no. 99/2006 on credit institutions and capital adequacy, approved with amendments and supplements by Law no. 227/2007;\n\n(q) in Spain: Institutions registered as ‘Cooperativas de Crédito’ under the ‘Ley 13/1989, de 26 de mayo, de Cooperativas de Crédito’;\n\n(r) in Sweden: institutions registered as ‘Medlemsbank’ under ‘Lag (1995:1570) om medlemsbanker‘ or as ‘Kreditmarknadsförening’ under Lag (2004:297) om bank- och finansieringsrörelse;\n\n(s) in the United Kingdom: institutions registered as ‘cooperative societies’ under the Industrial and Provident Societies Act 1965 and under the Industrial and Provident Societies Act (Northern Ireland) 1969.\n\n3. With respect to Common Equity Tier 1 capital, to qualify as a cooperative society for the purposes of paragraph 1, the institution shall be able to issue, according to the national applicable law or company statutes, at the level of the legal entity, only capital instruments referred to in Article 29 of Regulation (EU) No 575/2013.\n\n4. To qualify as a cooperative society for the purposes of paragraph 1, when the holders, which may be members or non-members of the institution, of the Common Equity Tier 1 instruments referred to in paragraph (3) have the ability to resign, under the applicable national law, they may also have the right to put the capital instrument back to the institution, but only subject to the restrictions of the applicable national law, company statutes, of Regulation (EU) No 575/2013 and of this Regulation. This does not prevent the institution from issuing, under applicable national law, Common Equity Tier 1 instruments complying with Article 29 of Regulation (EU) No 575/2013 to members and non-members that do not grant a right to put the capital instrument back to the institution.",
+      "text_sha256": "7d262e165201222ed5acab1d0d1d3c5d34ad3a9c40972961790ce867a2943607",
+      "md_span": {
+        "start": 9388,
+        "end": 15190
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Type of undertaking recognised under applicable national law as a savings institution for the purposes of Article 27(1)(a)(iii) of Regulation (EU) No 575/2013",
+      "path": [
+        "Subsection 2",
+        "**Cooperative societies, savings institutions, mutuals and similar institutions**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Competent authorities may determine that a type of undertaking recognised under applicable national law qualifies as a savings institution for the purpose of Part Two of Regulation (EU) No 575/2013, where all the conditions in paragraphs 2, 3 and 4 are met.\n\n2. To qualify as a savings institution for the purposes of paragraph 1, the institution’s legal status shall fall within one of the following categories:\n\n(a) in Austria: institutions registered as ‘Sparkasse’ under para. 1 (1) of the ‘Bundesgesetz über die Ordnung des Sparkassenwesens (Sparkassengesetz – SpG)’;\n\n(b) in Denmark: institutions registered as ‘Sparekasser’ under the Danish Financial Business Act;\n\n(c) in Finland: institutions registered as ‘Säästöpankki’ or ‘Sparbank’ under ‘Säästöpankkilaki ‘ or ‘Sparbankslag’;\n\n(d) in Germany: institutions registered as ‘Sparkasse’ as follows:\n\n(1) Sparkassengesetz für Baden-Württemberg (SpG)’;\n\n(2) ‘Gesetz über die öffentlichen Sparkassen (Sparkassengesetz – SpkG) in Bayern‘;\n\n(3) ‘Gesetz über die Berliner Sparkasse und die Umwandlung der Landesbank Berlin – Girozentrale – in eine Aktiengesellschaft (Berliner Sparkassengesetz – SpkG)’;\n\n(4) ‘Brandenburgisches Sparkassengesetz (BbgSpkG)’;\n\n(5) ‘Sparkassengesetz für öffentlich-rechtliche Sparkassen im Lande Bremen (Bremisches Sparkassengesetz)’;\n\n(6) ‘Hessisches Sparkassengesetz’;\n\n(7) ‘Sparkassengesetz des Landes Mecklenburg-Vorpommern (SpkG)’;\n\n(8) ‘Niedersächsisches Sparkassengesetz (NSpG)’;\n\n(9) ‘Sparkassengesetz Nordrhein-Westfalen (Sparkassengesetz – SpkG) ’;\n\n(10) Sparkassengesetz (SpkG) für Rheinland-Pfalz’;\n\n(11) ‘Saarländisches Sparkassengesetz (SSpG)’;\n\n(12) ‘Gesetz über die öffentlich-rechtlichen Kreditinstitute im Freistaat Sachsen und die Sachsen-Finanzgruppe’;\n\n(13) ‘Sparkassengesetz des Landes Sachsen-Anhalt (SpkG-LSA)’;\n\n(14) ‘Sparkassengesetz für das Land Schleswig-Holstein (Sparkassengesetz – SpkG)’;\n\n(15) ‘Thüringer Sparkassengesetz (ThürSpkG)’;\n\n(e) in Spain: institutions registered as ‘Cajas de Ahorros‘ under ‘Real Decreto-Ley 2532/1929, de 21 de noviembre, sobre Régimen del Ahorro Popular’;\n\n(f) in Sweden: institutions registered as ‘Sparbank’ under ‘Sparbankslag (1987:619)’.\n\n3. With respect to Common Equity Tier 1 capital, to qualify as a savings institution for the purposes of paragraph 1, the institution has to be able to issue, according to national applicable law or company statutes, at the level of the legal entity, only capital instruments referred to in Article 29 of Regulation (EU) No 575/2013.\n\n4. To qualify as a savings institution for the purposes of paragraph 1, the sum of capital, reserves and interim or year-end profits, shall not be allowed, according to national applicable law, to be distributed to holders of Common Equity Tier 1 instruments. Such condition is deemed to be fulfilled even where the institution issues Common Equity Tier 1 instruments that grant the holders, on a going concern basis, a right to a part of the profits and reserves, where allowed by the applicable national law, provided that this part is proportionate to their contribution to the capital and reserves or, where permitted by the applicable national law, in accordance with an alternative arrangement. The institution may issue Common Equity Tier 1 instruments that grant the holders, in the case of insolvency or liquidation of the institution, the right to reserves which do not need to be proportionate to the contribution to capital and reserves provided that the conditions of paragraphs 4 and 5 of Article 29 of Regulation (EU) No 575/2013 are met.",
+      "text_sha256": "69fd1769fd30126e6ea3cd8bc3f6ec1ea65f6e9ac2ade4287db56ae46e79e1eb",
+      "md_span": {
+        "start": 15388,
+        "end": 18968
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Type of undertaking recognised under applicable national law as a mutual for the purposes of Article 27(1)(a)(i) of Regulation (EU) No 575/2013",
+      "path": [
+        "Subsection 2",
+        "**Cooperative societies, savings institutions, mutuals and similar institutions**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Competent authorities may determine that a type of undertaking recognised under applicable national law qualifies as a mutual for the purpose of Part Two of Regulation (EU) No 575/2013, where all of the conditions in paragraphs 2, 3 and 4 are met.\n\n2. To qualify as a mutual for the purposes of paragraph 1, the institution’s legal status shall fall within one of the following categories:\n\n(a) in Denmark: Associations (‘Foreninger’) or funds (‘Fonde’) which originate from the conversion of insurance companies (‘Forsikringsselskaber’), mortgage credit institutions (‘Realkreditinstitutter’), savings banks (‘Sparekasser’), cooperative savings banks (‘Andelskasser’) and affiliations of cooperative savings banks (‘Sammenslutninger af andelskasser’) into limited companies as defined under the Danish Financial Business Act;\n\n(b) in Ireland: institutions registered as ‘building societies’ under the Building Societies Act 1989;\n\n(c) in the United Kingdom: institutions registered as ‘building societies’ under the Building Societies Act 1986; institutions registered as a ‘savings bank’ under the Savings Bank (Scotland) Act 1819.\n\n3. With respect to Common Equity Tier 1 capital, to qualify as a mutual for the purposes of paragraph 1, the institution is only allowed to issue, according to the national applicable law or company statutes, at the level of the legal entity, capital instruments referred to in Article 29 of Regulation (EU) No 575/2013.\n\n4. To qualify as a mutual for the purposes of paragraph 1, the total amount or a partial amount of the sum of capital and reserves shall be owned by members of the institution, who do not, in the ordinary course of business, benefit from direct distribution of the reserves, in particular through the payment of dividends. Such conditions are deemed to be fulfilled even where the institution issues Common Equity Tier 1 instruments that grant a right on the profits and reserves, where allowed by the applicable national law.",
+      "text_sha256": "4048c1a968b3951702bf97ca9b75698d1e546ae89759fe60afe002b502ef8e6c",
+      "md_span": {
+        "start": 19151,
+        "end": 21137
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Type of undertaking recognised under applicable national law as a similar institution for the purposes of Article 27(1)(a)(iv) of Regulation (EU) No 575/2013",
+      "path": [
+        "Subsection 2",
+        "**Cooperative societies, savings institutions, mutuals and similar institutions**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Competent authorities may determine that a type of undertaking recognised under applicable national law qualifies as a similar institution to cooperatives, mutuals and savings institutions for the purpose of Part Two of Regulation (EU) No 575/2013, where all of the conditions in paragraphs 2, 3 and 4 are met.\n\n2. To qualify as a similar institution to cooperatives, mutuals and savings institutions for the purposes of paragraph 1, the institution’s legal status falls under one of the following categories:\n\n(a) in Austria: the ‘Pfandbriefstelle der österreichischen Landes-Hypothekenbanken’ under the ‘Bundesgesetz über die Pfandbriefstelle der österreichischen Landes-Hypothekenbanken (Pfandbriefstelle-Gesetz – PfBrStG)’;\n\n(b) in Finland: institutions registered as ‘Hypoteekkiyhdistys’ or ‘Hypoteksförening’ under ‘Laki hypoteekkiyhdistyksistä’ or ‘Lag om hypoteksföreningar’.\n\n3. With respect to Common Equity Tier 1 capital, to qualify as a similar institution to cooperatives, mutuals and savings institutions for the purposes of paragraph 1, the institution shall be only able to issue, according to the national applicable law or company statutes, at the level of the legal entity, capital instruments referred to in Article 29 of Regulation (EU) No 575/2013.\n\n4. To qualify as a similar institution to cooperatives, mutuals and savings institutions for the purposes of paragraph 1, one or more of the following conditions shall also be met:\n\n(a) where the holders, which may be members or non-members of the institution, of the Common Equity Tier 1 instruments referred to in paragraph 3 have the ability to resign under the applicable national law, they may also have the right to put the capital instrument back to the institution, but only subject to the restrictions of the applicable national law, company statutes and of Regulation (EU) No 575/2013 and this Regulation. That does not prevent the institution from issuing, under applicable national law, Common Equity Tier 1 instruments complying with Article 29 of Regulation (EU) No 575/2013 to members and non-members that do not grant a right to put the capital instrument back to the institution;\n\n(b) the sum of capital, reserves and interim or year-end profits, is not allowed, according to national applicable law, to be distributed to holders of Common Equity Tier 1 instruments. That condition is deemed to be fulfilled even where the institution issues Common Equity Tier 1 instruments that grant the holders, on a going concern basis, a right to a part of the profits and reserves, where allowed by the applicable national law, provided that that part is proportionate to their contribution to the capital and reserves or, where permitted by the applicable national law, in accordance with an alternative arrangement. The institution may issue Common Equity Tier 1 instruments that grant the holders, in the case of insolvency or liquidation of the institution, the right to reserves which do not need to be proportionate to the contribution to capital and reserves provided that the conditions of Article 29(4) and (5) of Regulation (EU) No 575/2013 are met;\n\n(c) the total amount or a partial amount of the sum of capital and reserves is owned by members of the institution who do not, in the ordinary course of business, benefit from direct distribution of the reserves, in particular through the payment of dividends.",
+      "text_sha256": "b8876b2b524faa58ebedfcb9a4af0147c34e89d6a9fce73969b88181437223f0",
+      "md_span": {
+        "start": 21334,
+        "end": 24738
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Indirect funding of capital instruments for the purposes of Article 28(1)(b,) Article 52(1)(c) and Article 63(c) of Regulation (EU) No 575/2013",
+      "path": [
+        "Subsection 3",
+        "**Indirect funding**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Indirect funding of capital instruments under Article 28(1)(b), Article 52(1)(c) and Article 63(c) of Regulation (EU) No 575/2013 shall be deemed funding that is not direct.\n\n2. For the purposes of paragraph 1, direct funding shall refer to situations where an institution has granted a loan or other funding in any form to an investor that is used for the purchase of its capital instruments.\n\n3. Direct funding shall also include funding granted for other purposes than purchasing an institution’s capital instruments, to any natural or legal person who has a qualifying holding in the credit institution, as referred to in Article 4(36) of Regulation (EU) No 575/2013, or who is deemed to be a related party within the meaning of the definitions in paragraph 9 of International Accounting Standard 24 on Related Party Disclosures as applied in the Union according to Regulation (EC) No 1606/2002 of the European Parliament and of the Council (7), taking into account any additional guidance as defined by the competent authority, if the institution is not able to demonstrate all of the following:\n\n(a) the transaction is realised at similar conditions as other transactions with third parties;\n\n(b) the natural or legal person or the related party does not have to rely on the distributions or on the sale of the capital instruments held to support the payment of interest and the repayment of the funding.",
+      "text_sha256": "ef9425de52977c96b5d1d59739d9ddf6f3f9bb898793464ce7d3cd34b640136e",
+      "md_span": {
+        "start": 24964,
+        "end": 26377
+      },
+      "citations": [
+        {
+          "href": "#E0007",
+          "text": "7"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Applicable forms and nature of indirect funding of capital instruments for the purposes of Article 28(1)(b) and 52(1)(c) and 63(c) of Regulation (EU) No 575/2013",
+      "path": [
+        "Subsection 3",
+        "**Indirect funding**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. The applicable forms and nature of indirect funding of the purchase of an institution’s capital instruments shall include the following:\n\n(a) funding of an investor’s purchase, at issuance or thereafter, of an institution’s capital instruments by any entities on which the institution has a direct or indirect control or by entities included in any of the following:\n\n(1) the scope of accounting or prudential consolidation of the institution;\n\n(2) the scope of the consolidated balance sheet or extended aggregated calculation, where equivalent to consolidated accounts as referred to in Article 49(3)(a)(iv) of Regulation (EU) No 575/2013, that is drawn up by the institutional protection scheme or the network of institutions affiliated to a central body that are not organised as a group to which the institution belongs;\n\n(3) the scope of supplementary supervision of the institution in accordance with Directive 2002/87/EC of the European Parliament and of the Council (8) on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate;\n\n(b) funding of an investor’s purchase, at issuance or thereafter, of an institution’s capital instruments by external entities that are protected by a guarantee or by the use of a credit derivative or are secured in some other way so that the credit risk is transferred to the institution or to any entities on which the institution has a direct or indirect control or any entities included in any of the following:\n\n(1) the scope of accounting or prudential consolidation of the institution;\n\n(2) the scope of the consolidated balance sheet or extended aggregated calculation, where equivalent to consolidated accounts as referred to in Article 49(3)(a)(iv) of Regulation (EU) No 575/2013, that is drawn up by the institutional protection scheme or the network of institutions affiliated to a central body that are not organised as a group to which the institution belongs;\n\n(3) the scope of supplementary supervision of the institution in accordance with Directive 2002/87/EC.\n\n(c) funding of a borrower that passes the funding on to the ultimate investor for the purchase, at issuance or thereafter, of an institution’s capital instruments.\n\n2. In order to be considered as indirect funding for the purposes of paragraph 1, the following conditions shall also be met, where applicable:\n\n(a) the investor is not included in any of the following:\n\n(1) the scope of accounting or prudential consolidation of the institution;\n\n(2) the scope of the consolidated balance sheet or extended aggregated calculation, where equivalent to consolidated accounts as referred to in Article 49(3)(a)(iv) of Regulation (EU) No 575/2013, that is drawn up by the institutional protection scheme or the network of institutions affiliated to a central body that are not organised as a group to which the institution belongs. For this purpose an investor is deemed to be included in the scope of the extended aggregated calculation if the relevant capital instrument is subject to consolidation or extended aggregated calculation in accordance with Article 49(3)(a) (iv) of Regulation (EU) No 575/2013 in a way that the multiple use of own funds items and any creation of own funds between members of the institutional protection scheme is eliminated. Where the permission from competent authorities referred to in Article 49(3) of Regulation (EU) No 575/2013 has not been granted, this condition shall be deemed to be met where both the entities referred to in paragraph 1(a) and the institution are members of the same institutional protection scheme and the entities deduct the funding provided for the purchase of the institution’s capital instruments according to Articles 36(1)(f) to (i), Article 56(a) to (d) and Article 66(a) to (d) of Regulation (EU) No 575/2013, as applicable;\n\n(3) the scope of the supplementary supervision of the institution in accordance with Directive 2002/87/EC;\n\n(b) the external entity is not included in any of the following:\n\n(1) the scope of accounting or prudential consolidation of the institution;\n\n(2) the scope of the consolidated balance sheet or extended aggregated calculation, where equivalent to consolidated accounts as referred to in Article 49(3)(a)(iv) of Regulation (EU) No 575/2013, that is drawn up by the institutional protection scheme or the network of institutions affiliated to a central body that are not organised as a group to which the institution belongs;\n\n(3) the scope of the supplementary supervision of the institution in accordance with Directive 2002/87/EC.\n\n3. When establishing whether the purchase of a capital instrument involves direct or indirect funding in accordance with Article 8, the amount to be considered shall be net of any individually assessed impairment allowance made.\n\n4. In order to avoid a qualification of direct or indirect funding in accordance with Article 8 and where the loan or other form of funding or guarantees is granted to any natural or legal person who has a qualifying holding in the credit institution or who is deemed to be a related party as referred to in paragraph 3, the institution shall ensure on an on-going basis that it has not provided the loan or other form of funding or guarantees for the purpose of subscribing directly or indirectly capital instruments of the institution. Where the loan or other form of funding or guarantees is granted to other types of parties, the institution shall make this control on a best effort basis.\n\n5. With regard to mutuals, cooperative societies and similar institutions, where there is an obligation under national law or the statutes of the institution for a customer to subscribe capital instruments in order to receive a loan, that loan shall not be considered as a direct or indirect funding where all of the following conditions are met:\n\n(a) the amount of the subscription is considered immaterial by the competent authority;\n\n(b) the purpose of the loan is not the purchase of capital instruments of the institution providing the loan;\n\n(c) the subscription of one or more capital instruments of the institution is necessary in order for the beneficiary of the loan to become a member of the mutual, cooperative society or similar institution.",
+      "text_sha256": "03cafcc2eb91f0f01c7489b95c04d4ab555ba07f0e1938a470e6a57f5533786c",
+      "md_span": {
+        "start": 26578,
+        "end": 32881
+      },
+      "citations": [
+        {
+          "href": "#E0008",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Limitations on redemption of capital instruments issued by mutuals, savings institutions, cooperative societies and similar institutions for the purposes of Article 29(2)(b) of Regulation (EU) No 575/2013 and Article 78(3) of Regulation (EU) No 575/2013",
+      "path": [
+        "Subsection 4",
+        "**Limitations on redemption of capital instruments**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. An institution may issue Common Equity Tier 1 instruments with a possibility to redeem only where such possibility is foreseen by the applicable national law.\n\n2. The ability of the institution to limit the redemption under the provisions governing capital instruments as referred to in Article 29(2)(b) and 78(3) of Regulation (EU) No 575/2013, shall encompass both the right to defer the redemption and the right to limit the amount to be redeemed. The institution shall be able to defer the redemption or limit the amount to be redeemed for an unlimited period of time pursuant to paragraph 3.\n\n3. The extent of the limitations on redemption included in the provisions governing the instruments shall be determined by the institution on the basis of the prudential situation of the institution at any time, having regard to in particular, but not limited to:\n\n(a) the overall financial, liquidity and solvency situation of the institution;\n\n(b) the amount of Common Equity Tier 1 capital, Tier 1 and total capital compared to the total risk exposure amount calculated in accordance with the requirements laid down in point (a) of Article 92(1) of Regulation (EU) No 575/2013, the specific own funds requirements referred to in Article 104(1)(a) of Directive 2013/36/EU and the combined buffer requirement as defined in point (6) of Article 128 of that Directive.",
+      "text_sha256": "41ace3d9d7339d3a1c0abfbfce87d74e740dbdb57aaf51b4cb61d21bf7d11933",
+      "md_span": {
+        "start": 33251,
+        "end": 34619
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Limitations on redemption of capital instruments issued by mutuals, savings institutions, cooperative societies and similar institutions for the purposes of Article 29(2)(b) of Regulation (EU) No 575/2013 and Article 78(3) of Regulation (EU) No 575/2013",
+      "path": [
+        "Subsection 4",
+        "**Limitations on redemption of capital instruments**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. The limitations on redemption included in the contractual or legal provisions governing the instruments shall not prevent the competent authority from limiting further the redemption on the instruments on an appropriate basis as foreseen by Article 78 of Regulation (EU) No 575/2013.\n\n2. Competent authorities shall assess the bases of limitations on redemption included in the contractual and legal provisions governing the instrument. They shall require institutions to modify the corresponding contractual provisions where they are not satisfied that the bases of limitations are appropriate. Where the instruments are governed by the national law in the absence of contractual provisions, the legislation shall enable the institution to limit redemption as referred to in paragraphs 1 to 3 of Article 10 in order for the instruments to qualify as Common Equity Tier 1.\n\n3. Any decision to limit redemption shall be documented internally and reported in writing by the institution to the competent authority, including the reasons why, in view of the criteria set out in paragraph 3, a redemption has been partially or fully refused or deferred.\n\n4. Where several decisions to limit redemption are taking place in the same period of time, institutions may document these decisions in a single set of documents.",
+      "text_sha256": "fb9da84faa79aa06d8daa4f78fcd86c8d0824e75deeedaa33d93cbef093f3b55",
+      "md_span": {
+        "start": 34914,
+        "end": 36230
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "The concept of gain on sale for the purposes of Article 32(1)(a) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 2*",
+        "***Prudential Filters***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. The concept of gain on sale referred to in point (a) paragraph 1 of Article 32 of Regulation (EU) No 575/2013 shall mean any recognised gain on sale for the institution that is recorded as an increase in any element of own funds and is associated with future margin income arising from a sale of securitised assets when they are removed from the institution’s balance sheet in the context of a securitisation transaction.\n\n2. The recognised gain on sale shall be determined as the difference between the following points (a) and (b) as determined by applying the relevant accounting framework:\n\n(a) the net value of the assets received including any new asset obtained less any other asset given or any new liability assumed;\n\n(b) and the carrying amount of the securitised assets or of the part derecognised.\n\n3. The recognised gain on sale which is associated with the future margin income, shall refer, in this context, to the expected future ‘excess spread’ as defined in Article 242 of Regulation (EU) No 575/2013.",
+      "text_sha256": "d254cdd98cd87dd329a7a3fde73ce5605dcd2242e34b756df98812b0050ce527",
+      "md_span": {
+        "start": 36413,
+        "end": 37435
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Deduction of losses for the current financial year for the purposes of Article 36(1)(a) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 3*",
+        "***Deductions from Common Equity Tier 1 items***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. For the purpose of calculating its Common Equity Tier 1 capital during the year, and irrespective of whether the institution closes its financial accounts at the end of each interim period, the institution shall determine its profit and loss accounts and deduct any resulting losses from Common Equity Tier 1 items as they arise.\n\n2. For the purpose of determining an institution’s profit and loss accounts in accordance with paragraph 1, income and expenses shall be determined under the same process and on the basis of the same accounting standards as the one followed for the year-end financial report. Income and expenses shall be prudently estimated and shall be assigned to the interim period in which they incurred so that each interim period bears a reasonable amount of the anticipated annual income and expenses. Material or non-recurrent events shall be considered in full and without delay in the interim period during which they arise.\n\n3. Where losses for the current financial year have already reduced Common Equity Tier 1 items as a result of an interim or a year-end financial report, a deduction is not needed. For the purpose of this Article, the financial report means that the profit and losses have been determined after a closing of the interim or the annual accounts in accordance with the accounting framework to which the institution is subject under Regulation (EC) No 1606/2002 ón the application of international accounting standards and Council Directive 86/635/EEC (9) on the annual accounts and consolidated accounts of banks and other financial institutions.\n\n4. Paragraphs 1 to 3 shall apply in the same manner to gains and losses included in accumulated other comprehensive income.",
+      "text_sha256": "9b2920c50c59c647e0b6637c40479ca5a2e0a489b9f83e561a532e5a1edeb552",
+      "md_span": {
+        "start": 37665,
+        "end": 39386
+      },
+      "citations": [
+        {
+          "href": "#E0009",
+          "text": "9"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Deductions of deferred tax assets that rely on future profitability for the purposes of Article 36(1)(c) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 3*",
+        "***Deductions from Common Equity Tier 1 items***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. The deductions of deferred tax assets that rely on future profitability under Article 36(1)(c) of Regulation (EU) No 575/2013 shall be made according to paragraphs 2 and 3.\n\n2. The offsetting between deferred tax assets and associated deferred tax liabilities shall be done separately for each taxable entity. Associated deferred tax liabilities shall be limited to those that arise from the tax law of the same jurisdiction as the deferred tax assets. For the calculation of deferred tax assets and liabilities at consolidated level, a taxable entity includes any number of entities which are members of the same tax group, fiscal consolidation, fiscal unity or consolidated tax return under applicable national law.\n\n3. The amount of associated deferred tax liabilities which are eligible for offsetting deferred tax assets that rely on future profitability is equal to the difference between the amount in point (a) and the amount in point (b):\n\n(a) the amount of deferred tax liabilities as recognised under the applicable accounting framework;\n\n(b) the amount of associated deferred tax liabilities arising from intangible assets and from defined benefit pension fund assets.",
+      "text_sha256": "f961bf38c2a20fadba86ecd675000e7b09824da9f3ff58c176b4f573ff248e2b",
+      "md_span": {
+        "start": 39563,
+        "end": 40746
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Deduction of defined benefit pension fund assets for the purposes of Article 36(1)(e) of Regulation (EU) No 575/2013 and Article 41(1)(b) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 3*",
+        "***Deductions from Common Equity Tier 1 items***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. The competent authority shall only grant the prior permission mentioned in point (b) of Article 41(1) of Regulation (EU) No 575/2013 where the unrestricted ability to use the respective defined benefit pension fund assets entails immediate and unfettered access to the assets such as when the use of the assets is not barred by a restriction of any kind and there are no claims of any kind from third parties on these assets.\n\n2. Unfettered access to the assets is likely to exist when the institution is not required to request and receive specific approval from the manager of the pension funds or the pension beneficiaries each time it would access excess funds in the plan.",
+      "text_sha256": "4b10cd0dafaf2b1cdffaebe93622cd5b7bce81e79025c2b893932cd3f9b961e2",
+      "md_span": {
+        "start": 40956,
+        "end": 41636
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Deductions of foreseeable tax charges for the purposes of Article 36(1)(l) and Article 56(f) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 3*",
+        "***Deductions from Common Equity Tier 1 items***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. On the condition that the institution applies accounting framework and accounting policies that provide for the full recognition of current and deferred tax liabilities related to transactions and other events recognised in the balance sheet or the profit and loss account, the institution may consider that foreseeable tax charges have been already taken into account. The competent authority shall be satisfied that all necessary deductions have been made, either under applicable accounting standards or under any other adjustments.\n\n2. When the institution is calculating its Common Equity Tier 1 capital on the basis of financial statements prepared in accordance with Regulation (EC) No 1606/2002, the condition of paragraph 1 is deemed to be fulfilled.\n\n3. Where the condition of paragraph 1 is not fulfilled, the institution shall decrease its Common Equity Tier 1 items by the estimated amount of current and deferred tax charges not yet recognised in the balance sheet and profit and loss account related to transactions and other events recognised in the balance sheet or the profit and loss account. The estimated amount of current and deferred tax charges shall be determined using an approach equivalent to the one provided by Regulation (EC) No 1606/2002. The estimated amount of deferred tax charges may not be netted against deferred tax assets that are not recognised in the financial statements.",
+      "text_sha256": "df65c3781d57c2ac43e0f9fc83dd05b4292526563e1932aa001aa74891c6a1f8",
+      "md_span": {
+        "start": 41801,
+        "end": 43218
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Other deductions for capital instruments of financial institutions for the purposes of Article 36(3) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 4*",
+        "***Other deductions for Common Equity Tier 1, additional Tier 1 and Tier 2 items***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Holdings of capital instruments of financial institutions as defined in Article 4(26) of Regulation (EU) No 575/2013 shall be deducted according to the following calculations:\n\n(a) all instruments qualifying as capital under the company law applicable to the financial institution that issued them and, where the financial institution is subject to solvency requirements, which are included in the highest quality Tier of regulatory own funds without any limits shall be deducted from Common Equity Tier 1 items;\n\n(b) all instruments which qualify as capital under the company law applicable to the issuer and, where the financial institution is not subject to solvency requirements, which are perpetual, absorb the first and proportionately greatest share of losses as they occur, rank below all other claims in the event of insolvency and liquidation and have no preferential or predetermined distributions shall be deducted from Common Equity Tier 1 items;\n\n(c) any subordinated instruments absorbing losses on a going-concern basis, including the discretion to cancel coupon payments, shall be deducted from Additional Tier 1 items. Where the amount of these subordinated instruments exceeds the amount of Additional Tier 1 capital, the excess amount shall be deducted from Common Equity Tier 1 capital;\n\n(d) any other subordinated instruments shall be deducted from Tier 2 items. If the amount of these subordinated instruments exceeds the amount of Tier 2 capital, the excess amount shall be deducted from Additional Tier 1 items. Where the amount of Additional Tier 1 capital is insufficient, the remaining excess amount shall be deducted from Common Equity Tier 1 items;\n\n(e) any other instruments included in the financial institution’s own funds pursuant to the relevant applicable prudential framework or any other instruments for which the institution is not able to demonstrate that the conditions in points (a), (b), (c) or (d) apply shall be deducted from Common Equity Tier 1 items.\n\n2. In the cases foreseen in paragraph 3, institutions shall apply the deductions as foreseen by Regulation (EU) No 575/2013 for holdings of capital instruments based on a corresponding deduction approach. For the purposes of this paragraph, corresponding deduction approach shall mean an approach that applies the deduction to the same component of capital for which the capital would qualify if it was issued by the institution itself.\n\n3. The deductions referred to in paragraph 1 shall not apply in the following cases:\n\n(a) where the financial institution is authorised and supervised by a competent authority and subject to prudential requirements equivalent to those applied to institutions under Regulation (EU) No 575/2013. This approach shall be applied to third country financial institutions only where an equivalence assessment of the prudential regime of the third country concerned has been performed under that regulation and where it has been concluded that the prudential regime of the third country concerned is at least equivalent to that applied in the Union;\n\n(b) where the financial institution is an electronic money institution within the meaning of Article 2 of Directive 2009/110/EC of the European Parliament and of the Council (10) and does not benefit from optional exemptions as provided by Article 9 of that Directive;\n\n(c) where the financial institution is a payment institution within the meaning of Article 4 of Directive 2007/64/EC of the European Parliament and of the Council (11) and does not benefit from a waiver as provided by Article 26 of that Directive;\n\n(d) where the financial institution is an alternative investment fund manager within the meaning of Article 4 of Directive 2011/61/EU of the European Parliament and of the Council (12) or a management company within the meaning of Article 2(1) of Directive 2009/65/EC of the European Parliament and of the Council (13).",
+      "text_sha256": "2c92e403c36b51ea16732ea989f10d9255f70da2ccdcbc0c62a38fc21a387dae",
+      "md_span": {
+        "start": 43496,
+        "end": 47418
+      },
+      "citations": [
+        {
+          "href": "#E0010",
+          "text": "10"
+        },
+        {
+          "href": "#E0011",
+          "text": "11"
+        },
+        {
+          "href": "#E0012",
+          "text": "12"
+        },
+        {
+          "href": "#E0013",
+          "text": "13"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Capital instruments of third country insurance and reinsurance undertakings for the purposes of Article 36(3) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 4*",
+        "***Other deductions for Common Equity Tier 1, additional Tier 1 and Tier 2 items***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Holdings of capital instruments of third country insurance and reinsurance undertakings that are subject to a solvency regime that either has been assessed as non-equivalent to that laid down in Title I, Chapter VI of Directive 2009/138/EC according to the procedure set out in Article 227 of that Directive, or that has not been assessed, shall be deducted as follows:\n\n(a) all instruments which qualify as capital under the company law applicable to the third country insurance and reinsurance undertakings that issued them, and which are included in the highest quality Tier of regulatory own funds without any limits under the third-country regime shall be deducted from Common Equity Tier 1 items;\n\n(b) any subordinated instruments absorbing losses on a going-concern basis, including the discretion to cancel coupon payments, shall be deducted from Additional Tier 1 items. Where the amount of these subordinated instruments exceeds the amount of Additional Tier 1 capital, the excess amount shall be deducted from Common Equity Tier 1 items;\n\n(c) any other subordinated instruments shall be deducted from Tier 2 items. Where the amount of these subordinated instruments exceeds the amount of Tier 2 capital, the excess amount shall be deducted from Additional Tier 1 items. Where this excess amount exceeds the amount of Additional Tier 1 capital, the remaining excess amount shall be deducted from Common Equity Tier 1 items;\n\n(d) for third country insurance and reinsurance undertakings that are subject to prudential solvency requirements, any other instruments included in the third country insurance and reinsurance undertakings’ own funds pursuant to the relevant applicable solvency regime or any other instruments for which the institution is not able to demonstrate that conditions (a), (b) or (c) apply shall be deducted from Common Equity Tier 1 items.\n\n2. Where the solvency regime of the third country including rules on own funds, has been assessed as equivalent to that laid down in Title I, Chapter VI of Directive 2009/138/EC according to the procedure set out in Article 227 of that Directive, holdings of capital instrument of the third-country insurance or reinsurance undertakings shall be treated as holdings of capital instruments of insurance or reinsurance undertakings authorised in accordance with Article 14 of Directive 2009/138/EC.\n\n3. In the cases foreseen in paragraph 2 of this Article, institutions shall apply the deductions as foreseen by point (b) of Article 44, point (b) of Article 58 and point (b) of Article 68 of Regulation (EU) No 575/2013, as applicable, for holdings of own funds insurance items.",
+      "text_sha256": "937741e32d7c3ca9b29378e47bd30758ffa47c725dfbe606a95f8a43822cf567",
+      "md_span": {
+        "start": 47600,
+        "end": 50251
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Capital instruments of undertakings excluded from the scope of Directive 2009/138/EC for the purposes of Article 36(3) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 4*",
+        "***Other deductions for Common Equity Tier 1, additional Tier 1 and Tier 2 items***"
+      ],
+      "article_valid_from": null,
+      "text_md": "Holdings of capital instruments of undertakings excluded from the scope of Directive 2009/138/EC in accordance with Article 4 of that Directive shall be deducted as follows:\n\n(a) all instruments qualifying as capital under the company law applicable to the undertaking that issued them and that are included in the highest quality Tier of regulatory own funds without any limits shall be deducted from Common Equity Tier 1 capital;\n\n(b) any subordinated instruments absorbing losses on a going-concern basis, including the discretion to cancel coupon payments, shall be deducted from Additional Tier 1 items. Where the amount of these subordinated instruments exceeds the amount of Additional Tier 1 capital, the excess amount shall be deducted from Common Equity Tier 1 items;\n\n(c) any other subordinated instruments shall be deducted from Tier 2 items. If the amount of these subordinated instruments exceeds the amount of Tier 2 capital, the excess amount shall be deducted from Additional Tier 1 items. Where this amount exceeds the amount of Additional Tier 1 capital, the remaining excess amount shall be deducted from Common Equity Tier 1 items;\n\n(d) any other instruments included in the undertaking’s own funds pursuant to the relevant applicable solvency regime or any other instruments for which the institution is not able to demonstrate that conditions (a), (b) or (c) apply shall be deducted from Common Equity Tier 1 capital.",
+      "text_sha256": "7e6b1c4f3fbb4afec5ce242030fb4128a79ed5ef37dde959a6ea7e84ce4dedcb",
+      "md_span": {
+        "start": 50442,
+        "end": 51882
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Form and nature of incentives to redeem for the purposes of Article 52(1)(g) and 63(h)of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 1*",
+        "***Form and nature of incentives to redeem***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Incentives to redeem shall mean all features that provide, at the date of issuance, an expectation that the capital instrument is likely to be redeemed.\n\n2. The incentives referred to in paragraph 1 shall include the following forms:\n\n(a) a call option combined with an increase in the credit spread of the instrument if the call is not exercised;\n\n(b) a call option combined with a requirement or an investor option to convert the instrument into a Common Equity Tier 1 instrument where the call is not exercised;\n\n(c) a call option combined with a change in reference rate where the credit spread over the second reference rate is greater than the initial payment rate minus the swap rate;\n\n(d) a call option combined with an increase of the redemption amount in the future;\n\n(e) a remarketing option combined with an increase in the credit spread of the instrument or a change in reference rate where the credit spread over the second reference rate is greater than the initial payment rate minus the swap rate where the instrument is not remarketed;\n\n(f) a marketing of the instrument in a way which suggests to investors that the instrument will be called.",
+      "text_sha256": "4573091f46947aab6880039517e5c6a31f82e80a36693ef33e05ffad81f2f0b5",
+      "md_span": {
+        "start": 52107,
+        "end": 53271
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Nature of the write-up of the principal amount following a write-down for the purposes of Article 52(1)(n) and Article 52(2)(c)(ii) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 2*",
+        "***Conversion or write-down of the principal amount***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. The write-down of the principal amount shall apply on a pro rata basis to all holders of Additional Tier 1 instruments that include a similar write-down mechanism and an identical trigger level.\n\n2. For the write-down to be considered temporary, all of the following conditions shall be met:\n\n(a) any distributions payable after a write-down shall be based on the reduced amount of the principal;\n\n(b) write-ups shall be based on profits after the institution has taken a formal decision confirming the final profits;\n\n(c) any write-up of the instrument or payment of coupons on the reduced amount of the principal shall be operated at the full discretion of the institution subject to the constraints arising from points (d) to (f) and there shall be no obligation for the institution to operate or accelerate a write-up under specific circumstances;\n\n(d) a write-up shall be operated on a pro rata basis among similar Additional Tier 1 instruments that have been subject to a write-down;\n\n(e) the maximum amount to be attributed to the sum of the write-up of the instrument together with the payment of coupons on the reduced amount of the principal shall be equal to the profit of the institution multiplied by the amount obtained by dividing the amount determined in point (1) by the amount determined in point (2):\n\n(1) the sum of the nominal amount of all Additional Tier 1 instruments of the institution before write-down that have been subject to a write-down;\n\n(2) the total Tier 1 capital of the institution.\n\n(f) the sum of any write-up amounts and payments of coupons on the reduced amount of the principal shall be treated as a payment that results in a reduction of Common Equity Tier 1 and shall be subject, together with other distributions on Common Equity Tier 1 instruments, to the restrictions relating to the Maximum Distributable Amount as referred to in Article 141(2) of Directive 2013/36/EU, as transposed in national law or regulation.\n\n3. For the purposes of point (e) of paragraph 2, the calculation shall be made at the moment when the write-up is operated.",
+      "text_sha256": "661c92c5500c39d69630d11e2bd598a5230f2b323c9d5eae875aab797a7cc6ba",
+      "md_span": {
+        "start": 53551,
+        "end": 55640
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Procedures and timing for determining that a trigger event has occurred for the purposes of Article 52(1)(n) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 2*",
+        "***Conversion or write-down of the principal amount***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Where the institution has established that the Common Equity Tier 1 ratio has fallen below the level that activates conversion or write-down of the instrument at the level of application of the requirements provided in Title II of Part One of Regulation (EU) No 575/2013, the management body or any other relevant body of the institution shall without delay determine that a trigger event has occurred and there shall be an irrevocable obligation to write-down or convert the instrument.\n\n2. The amount to be written-down or converted shall be determined as soon as possible and within a maximum period of one month from the time it is determined that the trigger event has occurred pursuant to paragraph 1.\n\n3. The competent authority may require that the maximum period of one month referred to in paragraph 2 is reduced in cases where it assesses that sufficient certainty on the amount to be converted or written down is established or in cases where it assesses that an immediate conversion or write-down is needed.\n\n4. Where an independent review of the amount to be written down or converted is required according to the provisions governing the Additional Tier 1 instrument, or where the competent authority requires an independent review for the determination of the amount to be written down or converted, the management body or any other relevant body of the institution shall see that this is done immediately. That independent review shall be completed as soon as possible and shall not create impediments for the institution to write-down or convert the Additional Tier 1 instrument and to meet the requirements of paragraphs 2 and 3.",
+      "text_sha256": "7d443c69f202357b7204790d3232fdf830c4fa5fdc3fca07b46563f2eb23d94a",
+      "md_span": {
+        "start": 55821,
+        "end": 57472
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Features of instruments that could hinder recapitalisation for the purposes of Article 52(1)(o) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 3*",
+        "***Features of instruments that could hinder recapitalisation***"
+      ],
+      "article_valid_from": null,
+      "text_md": "Features that could hinder the recapitalisation of an institution shall include provisions that require the institution to compensate existing holders of capital instruments where a new capital instrument is issued.",
+      "text_sha256": "fcd658c82d9cb64c34f88f5d9dfec752fabf822321aa73268e5664b554f443cf",
+      "md_span": {
+        "start": 57726,
+        "end": 57941
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Use of special purposes entities for indirect issuance of own funds instruments for the purposes of Article 52(1)(p) and Article 63(n) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 4*",
+        "***Use of special purposes entities for indirect issuance of own funds instruments***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Where the institution or an entity within the consolidation pursuant to Chapter 2 of Title II of Part One of Regulation (EU) No 575/2013 issues a capital instrument that is subscribed by a special purpose entity, this capital instrument shall not, at the level of the institution or of the above-mentioned entity, receive recognition as capital of a higher quality than the lowest quality of the capital issued to the special purpose entity and the capital issued to third parties by the special purpose entity. That requirement shall apply at the consolidated, sub-consolidated and individual levels of application of prudential requirements.\n\n2. The rights of the holders of the instruments issued by a special purpose entity shall be no more favourable than if the instrument was issued directly by the institution or an entity within the consolidation pursuant to Chapter 2 of Title II of Part One of Regulation (EU) No 575/2013.",
+      "text_sha256": "b30db9a04c90bfab604fd1bceb88c7a6e5f9d5730cc93735c0c5cc9a90e596b0",
+      "md_span": {
+        "start": 58255,
+        "end": 59191
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": "Extent of conservatism required in estimates for calculating exposures used as an alternative to the underlying exposures for the purposes of Article 76(2) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 1*",
+        "***Indirect holdings arising from index holdings***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. An estimate is sufficiently conservative when either of the following conditions is met:\n\n(a) where the investment mandate of the index specifies that a capital instrument of a financial sector entity which is part of the index cannot exceed a maximum percentage of the index, the institution uses that percentage as an estimate for the value of the holdings that is deducted from its Common Equity Tier 1, Additional Tier 1 or Tier 2 items, as applicable in accordance with Paragraph 2 of Article 17 or from Common Equity Tier 1 capital in situations where the institution cannot determine the precise nature of the holding;\n\n(b) where the institution is unable to determine the maximum percentage referred to in point (a) and where the index, as evidenced by its investment mandate or other relevant information, includes capital instruments of financial sector entities, the institution deducts the full amount of the index holdings from its Common Equity Tier 1, Additional Tier 1 or Tier 2 items, as applicable in accordance with Paragraph 2 of Article 17 or from Common Equity Tier 1 capital in situations where the institution cannot determine the precise nature of the holding.\n\n2. For the purposes of paragraph 1, the following shall apply:\n\n(a) an indirect holding arising from an index holding comprises the proportion of the index invested in the Common Equity Tier 1, Additional Tier 1 and Tier 2 instruments of financial sector entities included in the index;\n\n(b) an index includes, but is not limited to, index funds, equity or bond indices or any other scheme where the underlying instrument is a capital instrument issued by a financial sector entity.",
+      "text_sha256": "2a8d6a64b184b76f16ca0a58ae8e74a20055785da5dbf56c98ef6c994eec3b3e",
+      "md_span": {
+        "start": 59492,
+        "end": 61164
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": "Meaning of operationally burdensome in Article 76(3) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 1*",
+        "***Indirect holdings arising from index holdings***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. For the purpose of Article 76(3) of Regulation (EU) No 575/2013, operationally burdensome shall mean situations under which look-through approaches to capital holdings in financial sector entities on an ongoing basis are unjustified, as assessed by the competent authorities. In their assessment of the nature of operationally burdensome situations, competent authorities shall take into account the low materiality and short holding period of such positions. A holding period of short duration shall require the strong liquidity of the index to be evidenced by the institution.\n\n2. For the purpose of paragraph 1, a position shall be deemed to be of low materiality where all of the following conditions are met:\n\n(a) the individual net exposure arising from index holdings measured before any look-through is performed does not exceed 2 % of Common Equity Tier 1 items as calculated in point (a) of Article 46(1) of Regulation (EU) No 575/2013;\n\n(b) the aggregated net exposure arising from index holdings measured before any look-through is performed does not exceed 5 % of Common Equity Tier 1 items as calculated in point (a) of Article 46(1) of Regulation (EU) No 575/2013;\n\n(c) the sum of the aggregated net exposure arising from index holdings measured before any look-through is performed and of any other holdings that shall be deducted pursuant to Article 36(1)(h) of Regulation (EU) No 575/2013 does not exceed 10 % of Common Equity Tier 1 items as calculated in point (a) of Article 46(1) of Regulation (EU) No 575/2013.",
+      "text_sha256": "14be439a26d77a42288cfb8d5387cc6967005537160a8d1f922ba08a4fda28f5",
+      "md_span": {
+        "start": 61289,
+        "end": 62825
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27",
+      "heading": "Meaning of sustainable for the income capacity of the institution for the purposes of Article 78(1)(a) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 2*",
+        "***Supervisory permission for reducing own funds***"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sustainable for the income capacity of the institution under point (a) of Article 78(1) of Regulation (EU) No 575/2013 shall mean that the profitability of the institution, as assessed by the competent authority, continues to be sound or does not see any negative change after the replacement of the instruments with own funds instruments of equal or higher quality, at that date and for the foreseeable future. The competent authority’s assessment shall take into account the institution’s profitability in stress situations.",
+      "text_sha256": "3a270a992a17eb18c9325f59b95f211a7d1b77b17387df4904973a9ce4352641",
+      "md_span": {
+        "start": 63073,
+        "end": 63599
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Article 28",
+      "heading": "Process and data requirements for an application by an institution to carry out redemptions, reductions and repurchases — for the purposes of Article 77 of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 2*",
+        "***Supervisory permission for reducing own funds***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Redemptions, reductions and repurchases of own funds instruments shall not be announced to holders of the instruments before the institution has obtained the prior approval of the competent authority.\n\n2. Where redemptions, reductions and repurchases are expected to take place with sufficient certainty, and once the prior permission of the competent authority has been obtained, the institution shall deduct the corresponding amounts to be redeemed, reduced or repurchased from corresponding elements of its own funds before the effective redemptions, reductions or repurchases occur. Sufficient certainty is deemed to exist in particular when the institution has publicly announced its intention to redeem, reduce or repurchase an own funds instrument.\n\n3. Paragraphs 1 and 2 shall apply at the consolidated, sub-consolidated and individual levels of application of prudential requirements, where applicable.",
+      "text_sha256": "644025926a557113e6747dc261331293d829585fa1d0ccb0b9f2ab4cbcd0ed27",
+      "md_span": {
+        "start": 63824,
+        "end": 64738
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Article 29",
+      "heading": "Submission of application by the institution to carry out redemptions, reductions and repurchases for the purposes of Article 77 and Article 78 of Regulation (EU) No 575/2013 and appropriate bases of limitation of redemption for the purposes of paragraph 3 of Article 78 of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 2*",
+        "***Supervisory permission for reducing own funds***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. An institution shall submit an application to the competent authority before reducing or repurchasing Common Equity Tier 1 instruments or calling, redeeming or repurchasing Additional Tier 1 or Tier 2 instruments.\n\n2. The application may include a plan to carry out, over a limited period of time, actions listed in Article 77 of Regulation (EU) No 575/2013 for several capital instruments.\n\n3. In the case of a repurchase of Common Equity Tier 1 instruments, Additional Tier 1 instruments or Tier 2 instruments for market making purposes, competent authorities may give their permission in accordance with the criteria set out in Article 78 of Regulation (EU) No 575/2013 in advance to actions listed in Article 77 of that Regulation for a certain predetermined amount.\n\n(a) For Common Equity Tier 1 instruments, that amount shall not exceed the lower of the following amounts:\n\n(1) 3 % of the amount of the relevant issuance;\n\n(2) 10 % of the amount by which Common Equity Tier 1 capital exceeds the sum of the Common Equity Tier 1 capital requirements pursuant to Article 92 of Regulation (EU) No 575/2013, the specific own funds requirements referred to in Article 104(1)(a) of Directive 2013/36/EU and the combined buffer requirement as defined in point (6) of Article 128 of that Directive.\n\n(b) For Additional Tier 1 instrument or Tier 2 instruments, that predetermined amount shall not exceed the lower of the following amounts:\n\n(1) 10 % of the amount of the relevant issuance;\n\n(2) or 3 % of the total amount of outstanding Additional Tier 1 instruments or Tier 2 instruments, as applicable.\n\n4. Competent authorities may also give in advance their permission to actions listed in Article 77 of Regulation (EU) No 575/2013 where the related own funds instruments are passed on to employees of the institution as part of their remuneration. Institutions shall inform competent authorities where own funds instruments are purchased for these purposes and deduct these instruments from own funds on a corresponding deduction approach for the time they are held by the institution. A deduction on a corresponding basis is no longer required, where the expenses related to any action according to this paragraph are already included in own funds as a result of an interim or a year-end financial report.\n\n5. A competent authority may give its permission in advance in accordance with the criteria set out in Article 78 of Regulation (EU) No 575/2013 to an action listed in Article 77 of that Regulation for a certain predetermined amount when the amount of own funds instruments to be called, redeemed or repurchased is immaterial in relation to the outstanding amount of the corresponding issuance after the call, redemption or repurchase has taken place.\n\n6. Paragraphs 1 to 5 shall apply at the consolidated, sub-consolidated and individual levels of application of prudential requirements, where applicable.",
+      "text_sha256": "65b40642d5878897ddfdd8678a20d09cc7774f0608454d137a2a19dcbc123e1f",
+      "md_span": {
+        "start": 65081,
+        "end": 68000
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Article 30",
+      "heading": "Content of the application to be submitted by the institution for the purposes of Article 77 of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 2*",
+        "***Supervisory permission for reducing own funds***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. The application referred to in Article 29 shall be accompanied by the following information:\n\n(a) a well-founded explanation of the rationale for performing one of the actions referred to in paragraph 1 of Article 29;\n\n(b) information on capital requirements and capital buffers, covering at least a three year period, including the level and composition of own funds before and after the performing of the action and the impact of the action on regulatory requirements;\n\n(c) the impact on the profitability of the institution of a replacement of a capital instrument as specified in point (a) of Article 78(1) of Regulation (EU) No 575/2013;\n\n(d) an evaluation of the risks to which the institution is or might be exposed and whether the level of own funds ensures an appropriate coverage of such risks, including stress tests on main risks evidencing potential losses under different scenarios;\n\n(e) any other information considered necessary by the competent authority for evaluating the appropriateness of granting a permission according to Article 78 of Regulation (EU) No 575/2013.\n\n2. The competent authority shall waive the submission of some of the information listed in paragraph 2 where it is satisfied that this information is already available to it.\n\n3. Paragraphs 1 and 2 shall apply at the individual, consolidated and sub-consolidated levels of application of prudential requirements, where applicable.",
+      "text_sha256": "7872f0f1e500fc9725d796a2080f3275d0642b769038a1e7fdedd518d2e5ac33",
+      "md_span": {
+        "start": 68165,
+        "end": 69587
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Article 31",
+      "heading": "Timing of the application to be submitted by the institution and processing of the application by the competent authority for the purposes of Article 77 of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 2*",
+        "***Supervisory permission for reducing own funds***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. The institution shall transmit a complete application and the information referred to in Articles 29 and 30 to the competent authority at least three months in advance of the date where one of the actions listed in Article 77 of Regulation (EU) No 575/2013 will be announced to the holders of the instruments.\n\n2. Competent authorities may allow institutions on a case-by-case basis and under exceptional circumstances to transmit the application referred to in paragraph 1 within a time frame shorter than the three months period.\n\n3. The competent authority shall process an application during either the period of time referred to in paragraph 1 or during the period of time referred to in paragraph 2. Competent authorities shall take into account new information, where any is available and where they consider this information to be material, received during this period. The competent authorities shall begin processing the application only when they are satisfied that the information required under Article 28 has been received from the institution.",
+      "text_sha256": "df785995d3044c47f0e915efc85538209e24998fd210b84c4c385a29f7c2a483",
+      "md_span": {
+        "start": 69812,
+        "end": 70873
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Article 32",
+      "heading": "Applications for redemptions, reductions and repurchases by mutuals, cooperative societies, savings institutions or similar institutions for the purposes of Article 77 of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 2*",
+        "***Supervisory permission for reducing own funds***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. With regard to the redemption of Common Equity Tier 1 instruments of mutuals, cooperative societies, savings institutions or similar institutions, the application referred to in Article 29(1), (2) and (6) and the information referred to in Article 30(1) shall be submitted to the competent authority with the same frequency as that used by the competent body of the institution to examine redemptions.\n\n2. Competent authorities may give their permission in advance to an action listed in Article 77 of Regulation (EU) No 575/2013 for a certain predetermined amount to be redeemed, net of the amount of the subscription of new paid in Common Equity Tier 1 instruments during a period up to one year. That predetermined amount may go up to 2 % of Common Equity Tier 1 capital, if they are satisfied that this action will not pose a danger to the current of future solvency situation of the institution.",
+      "text_sha256": "5d71ad0db542bd0a86f37c28bdb8a2f80c57d7ad7c9702513a23892bd32a9bde",
+      "md_span": {
+        "start": 71113,
+        "end": 72016
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Article 33",
+      "heading": "Temporary waiver from deduction from own funds for the purposes of Article 79(1) of Regulation (EU) No 575/2013",
+      "path": [
+        "*SECTION 3*",
+        "***Temporary waiver from deduction from own funds***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. A temporary waiver shall be of a duration that does not exceed the timeframe envisaged under the financial assistance operation plan. That waiver shall not be granted for a period longer than 5 years.\n\n2. The waiver shall apply only in relation to new holdings of instruments in the financial sector entity subject to the financial assistance operation.\n\n3. For the purposes of providing a temporary waiver for deduction from own funds, a competent authority may deem the temporary holdings referred to in Article 79(1) of Regulation (EU) No 575/2013 to be held for the purposes of a financial assistance operation designed to reorganise and save a financial sector entity where the operation is carried out under a plan and approved by the competent authority, and where the plan clearly states phases, timing and objectives and specifies the interaction between the temporary holdings and the financial assistance operation.",
+      "text_sha256": "d193ac833a157d964e9bc162518c60af5cf8ac3a7d2c856ff9622e013bd3186c",
+      "md_span": {
+        "start": 72243,
+        "end": 73172
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Article 34",
+      "heading": "The type of assets that can relate to the operation of special purpose entities and meaning of minimal and insignificant regarding qualifying Additional Tier 1 and Tier 2 capital issued by special purpose entities for the purposes of Article 83(1) of Regulation (EU) No 575/2013",
+      "path": [
+        "CHAPTER V",
+        "**MINORITY INTEREST AND ADDITIONAL TIER 1 AND TIER 2 INSTRUMENTS ISSUED BY SUBSIDIARIES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. The assets of a special purpose entity shall be considered to be minimal and insignificant where both the following conditions are met:\n\n(a) the assets of the special purpose entity which are not constituted by the investments in the own funds of the related subsidiary are limited to cash assets dedicated to payment of coupons and redemption of the own funds instruments that are due;\n\n(b) the amount of assets of the special purpose entity other than the ones mentioned in point (a) are not higher than 0,5 % of the average total assets of the special purpose entity over the last three years.\n\n2. For the purpose of point (b) of paragraph 1, the competent authority may permit an institution to use a higher percentage provided that both of the following conditions are met:\n\n(a) the higher percentage is necessary to enable exclusively the coverage of the running costs of the special purpose entity;\n\n(b) the corresponding nominal amount does not exceed EUR 500 000 .",
+      "text_sha256": "4859e3fb4802a05567cbe1e3dff2c6ac6e033c87890c518034cb09fd800ce824",
+      "md_span": {
+        "start": 73601,
+        "end": 74577
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32015R0488",
+          "text": "32015R0488: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_34b",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_34b",
+      "eli": null,
+      "type": "article",
+      "num": "Article 34b",
+      "heading": "Calculation of the eligible capital of at least one quarter of the fixed overheads of the preceding year for the purposes of Article 97(1) of Regulation (EU) No 575/2013",
+      "path": [
+        "CHAPTER Va",
+        "**OWN FUNDS BASED ON FIXED OVERHEADS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. For the purposes of this Chapter, ‘firm’ means an entity referred to in point (2)(c) of Article 4(1) of Regulation (EU) No 575/2013 that provides the investment services and activities listed in points (2) and (4) of Section A of Annex I to Directive 2004/39/EC of the European Parliament and of the Council (14) or an investment firm.\n\n2. For the purposes of Article 97(1) of Regulation (EU) No 575/2013, firms shall calculate their fixed overheads of the preceding year, using figures resulting from the applicable accounting framework, by subtracting the following items from the total expenses after distribution of profits to shareholders in their most recent audited annual financial statements, or, where audited statements are not available, in annual financial statements validated by national supervisors:\n\n(a) fully discretionary staff bonuses;\n\n(b) employees', directors' and partners' shares in profits, to the extent that they are fully discretionary;\n\n(c) other appropriations of profits and other variable remuneration, to the extent that they are fully discretionary;\n\n(d) shared commission and fees payable which are directly related to commission and fees receivable, which are included within total revenue, and where the payment of the commission and fees payable is contingent upon the actual receipt of the commission and fees receivable;\n\n(e) fees, brokerage and other charges paid to clearing houses, exchanges and intermediate brokers for the purposes of executing, registering or clearing transactions;\n\n(f) fees to tied agents as defined by point 25 of Article 4 of Directive 2004/39/EC, where applicable;\n\n(g) interest paid to customers on client money;\n\n(h) non-recurring expenses from non-ordinary activities.\n\n3. Where fixed expenses have been incurred on behalf of the firms by third parties other than tied agents, and these fixed expenses are not already included within the total expenses referred to in paragraph 2, firms shall take either of the following actions:\n\n(a) where a break-down of the expenses of those third parties is available, firms shall determine the amount of fixed expenses that those third parties have incurred on their behalf and shall add that amount to the figure resulting from paragraph 2;\n\n(b) where the break-down referred to in point (a) is not available, the firms shall determine the amount of expenses incurred on their behalf by those third parties according to the firms' business plans and shall add that amount to the figure resulting from paragraph 2.\n\n4. Where the firm makes use of tied agents, it shall add an amount equal to 35 % of all the fees related to the tied agents to the figure resulting from paragraph 2.\n\n5. Where the firm's most recent audited financial statements do not reflect a twelve month period, the firm shall divide the result of the calculation of paragraphs 2 to 4 by the number of months that are reflected in those financial statements and shall subsequently multiply the result by twelve, so as to produce an equivalent annual amount.",
+      "text_sha256": "68725d34961257f9810a0954507e8f76df2ec466af4e705623a33e748029f222",
+      "md_span": {
+        "start": 74849,
+        "end": 77891
+      },
+      "citations": [
+        {
+          "href": "#E0014",
+          "text": "14"
+        }
+      ]
+    },
+    {
+      "anchor": "art_34c",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_34c",
+      "eli": null,
+      "type": "article",
+      "num": "Article 34c",
+      "heading": "Conditions for the adjustment by the competent authority of the requirement to hold eligible capital of at least one quarter of the fixed overheads of the previous year according to Article 97(2) of Regulation (EU) No 575/2013",
+      "path": [
+        "CHAPTER Va",
+        "**OWN FUNDS BASED ON FIXED OVERHEADS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. For firms referred to in the second subparagraph, a change in the business of a firm shall be considered material where any of the following conditions is met:\n\n(a) the change in the business of the firm results in a change of 20 % or greater in the firm's projected fixed overheads;\n\n(b) the change in the business of the firm results in changes in the firm's own funds requirements based on projected fixed overheads equal to or greater than EUR 2 million.\n\nThe firms referred to in the first subparagraph shall be those that meet either of the following conditions:\n\n(a) their current own funds requirements based on fixed overheads are equal to or more than EUR 125 000 ;\n\n(b) their own funds requirements meet both of the following conditions:\n\n(i) based on current fixed overheads, they are less than EUR 125 000 ;\n\n(ii) based on projected fixed overheads, they are equal to or more than EUR 150 000 .\n\n2. For firms referred to in the second subparagraph, a change in the business of a firm shall be considered material where the change in the business of the firm results in a 100 % or greater change in the firm's projected fixed overheads.\n\nThe firms referred to in the first subparagraph shall be those that meet both of the following conditions:\n\n(a) their own funds requirements based on current fixed overheads are less than EUR 125 000 ;\n\n(b) their own funds requirements based on projected fixed overheads are less than EUR 150 000 .",
+      "text_sha256": "707629441cb6378e797cbb4df790059d665f7915ad606133d6edd8819a2f6928",
+      "md_span": {
+        "start": 78161,
+        "end": 79612
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34d",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_34d",
+      "eli": null,
+      "type": "article",
+      "num": "Article 34d",
+      "heading": "Calculation of projected fixed overheads in the case of a firm that has not completed business for one year according to Article 97(3) of Regulation (EU) No 575/2013",
+      "path": [
+        "CHAPTER Va",
+        "**OWN FUNDS BASED ON FIXED OVERHEADS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Where a firm has not completed business for one year from the day it starts trading, it shall use, for the calculation of items in points (a) to (h) of Article 34b(2), the projected fixed overheads included in its budget for the first twelve months' trading, as submitted with its application for authorisation.",
+      "text_sha256": "98b043a9e6be3253ec44d89a6dd1c23f8a06ab56270ed3eaf24aa0cd6453f529",
+      "md_span": {
+        "start": 79821,
+        "end": 80132
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32014R0241",
+          "text": "32014R0241"
+        }
+      ]
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Article 35",
+      "heading": "Additional filters and deductions for the purposes of Article 481(1) of Regulation (EU) No 575/2013",
+      "path": [
+        "CHAPTER VI",
+        "**SPECIFICATION OF THE TRANSITIONAL PROVISIONS OF REGULATION (EU) No 575/2013 IN RELATION TO OWN FUNDS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. The adjustments to Common Equity Tier 1 items, Additional Tier 1 items and Tier 2 items, according to Article 481 of Regulation (EU) No 575/2013, shall be applied according to paragraphs 2 to 7.\n\n2. Where, under the transposition measures of Directive 2006/48/EC and Directive 2006/49/EC, those deductions and filters result from own funds items as referred to in points (a), (b) and (c) of Article 57 of Directive 2006/48/EC, the adjustment shall be made to Common Equity Tier 1 items.\n\n3. In cases other than those covered by paragraph 1, and where, under the transposition measures of Directive 2006/48/EC and Directive 2006/49/EC, these deductions and filters have been applied to the total of the items as referred to in Article 57(a) to (ca) of the Directive 2006/48/EC, taking into account Article 154 of that Directive, the adjustment shall be made to Additional Tier 1 items.\n\n4. Where the amount of Additional Tier 1 items is lower than the related adjustment, the residual adjustment shall be made to Common Equity Tier 1 items.\n\n5. In cases other than those covered by paragraphs 1 and 2, and where under the transposition measures of the Directive 2006/48/EC and the Directive 2006/49/EC, these deductions and filters have been applied to own funds items as referred to in Article 57(d) to (h) or total own funds of Directive 2006/48/EC and Directive 2006/49/EC, the adjustment shall be made to Tier 2 items.\n\n6. Where the amount of Tier 2 items is lower than the related adjustment, the residual adjustment shall be made to Additional tier 1 items.\n\n7. Where the amount of Tier 2 and Additional Tier 1 items is lower than the related adjustment, the residual adjustment shall be made to Common equity Tier 1 items.",
+      "text_sha256": "57d896ce86f8f4d7bdcac32d3e72cb7d659845dbde952a27b6b40600009939db",
+      "md_span": {
+        "start": 80398,
+        "end": 82129
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_36",
+      "eli": null,
+      "type": "article",
+      "num": "Article 36",
+      "heading": "Items excluded from grandfathering of capital instruments not consituting state aid in Common Equity Tier 1 or Additional Tier 1 items in other elements of own funds for the purposes of Article 487(1) and (2) of Regulation (EU) No 575/2013",
+      "path": [
+        "CHAPTER VI",
+        "**SPECIFICATION OF THE TRANSITIONAL PROVISIONS OF REGULATION (EU) No 575/2013 IN RELATION TO OWN FUNDS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Where affording to own funds instruments the treatment set out in paragraphs 1 and 2 of Article 487 of Regulation (EU) No 575/2013 during the period from 1 January 2014 to 31 December 2021, instruments may be treated in such a way either in whole or in part. Any such treatment shall have no effect on the calculation of the limit as specified in Article 486(4) of Regulation (EU) No 575/2013.\n\n2. Own funds instruments referred to in paragraph 1 may again be treated as items referred to in Article 484(3) of Regulation (EU) No 575/2013, provided they are items referred to in Article 484(3) of that Regulation, and provided their amount no longer exceeds the applicable percentages referred to in Articles 486(2) of that Regulation.\n\n3. Own funds instruments referred to in paragraph 1 may again be treated as items referred to in Article 484(4), provided that they are items referred to in Article 484(3) or Article 484(4) of Regulation (EU) No 575/2013 and provided that their amount no longer exceeds the applicable percentages referred to in Articles 486(3) of that Regulation.",
+      "text_sha256": "4e985362fa22b5b9a02cc7dba47324a42591868e9ed84a8c55e18668b5f6e812",
+      "md_span": {
+        "start": 82410,
+        "end": 83496
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "eu-eurlex:32014r0241:2015-04-13#art_37",
+      "eli": null,
+      "type": "article",
+      "num": "Article 37",
+      "heading": null,
+      "path": [
+        "CHAPTER VI",
+        "**SPECIFICATION OF THE TRANSITIONAL PROVISIONS OF REGULATION (EU) No 575/2013 IN RELATION TO OWN FUNDS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union.*\n\nThis Regulation shall be binding in its entirety and directly applicable in all Member States.\n\n(1) OJ L 176, 27.6.2013, p. 1.\n\n(2) Directive 2006/48/EC of the European Parliament and of the Council of 14 June 2006 relating to the taking up and pursuit of the business of credit institutions (OJ L 177, 30.6.2006, p. 1).\n\n(3) Directive 2006/49/EC of the European Parliament and of the Council of 14 June 2006 on the capital adequacy of investment firms and credit institutions (OJ L 177, 30.6.2006, p. 201).\n\n(4) Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC (OJ L 331, 15.12.2010, p. 12).\n\n(5) Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p.1).\n\n(6) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).\n\n(7) Regulation (EC) No 1606/2002 of the European Parliament and of the Council of 19 July 2002 on the application of international accounting standards, (OJ L 243, 11.9.2002, p. 1).\n\n(8) Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate (OJ L 35, 11.2.2003, p.1).\n\n(9) Council Directive 86/635/EEC of 8 December 1986 on the annual accounts and consolidated accounts of banks and other financial institutions (OJ L 372, 31.12.1986, p. 1).\n\n(10) Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions (OJ L 267, 10.10.2009, p. 7).\n\n(11) Directive 2007/64/EC of the European Parliament and of the Council on payment services in the internal market (OJ L 319, 5.12.2007, p. 1).\n\n(12) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investments Fund Managers (OJ L 174, 1.7.2011, p. 1).\n\n(13) Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32).\n\n(14) Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, 30.4.2004, p. 1).",
+      "text_sha256": "30cd55deedc06931628bf4abf79e5b5ececcfe5cab9c113f6dc6040932d8fc62",
+      "md_span": {
+        "start": 83535,
+        "end": 86737
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        },
+        {
+          "href": "#src.E0008",
+          "text": "8"
+        },
+        {
+          "href": "#src.E0009",
+          "text": "9"
+        },
+        {
+          "href": "#src.E0010",
+          "text": "10"
+        },
+        {
+          "href": "#src.E0011",
+          "text": "11"
+        },
+        {
+          "href": "#src.E0012",
+          "text": "12"
+        },
+        {
+          "href": "#src.E0013",
+          "text": "13"
+        },
+        {
+          "href": "#src.E0014",
+          "text": "14"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

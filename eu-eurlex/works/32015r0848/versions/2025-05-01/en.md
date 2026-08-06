@@ -1,0 +1,935 @@
+---
+lex_id: 'eu-eurlex:32015r0848:2025-05-01'
+title: 'Regulation (EU) 2015/848'
+valid_from: '2025-05-01'
+valid_to: '2025-11-05'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015R0848-20250501'
+source_sha256: 'b7fee5f0836cf17ca701fa3a772c8ae6841d0eb9167d907e01f8a0d4fced8051'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPTER I — GENERAL PROVISIONS
+
+<a id="art_1"></a>
+
+### Article 1 — Scope
+
+**1.** This Regulation shall apply to public collective proceedings, including interim proceedings, which are based on laws relating to insolvency and in which, for the purpose of rescue, adjustment of debt, reorganisation or liquidation:(a) a debtor is totally or partially divested of its assets and an insolvency practitioner is appointed;(b) the assets and affairs of a debtor are subject to control or supervision by a court; or(c) a temporary stay of individual enforcement proceedings is granted by a court or by operation of law, in order to allow for negotiations between the debtor and its creditors, provided that the proceedings in which the stay is granted provide for suitable measures to protect the general body of creditors, and, where no agreement is reached, are preliminary to one of the proceedings referred to in point (a) or (b).
+
+Where the proceedings referred to in this paragraph may be commenced in situations where there is only a likelihood of insolvency, their purpose shall be to avoid the debtor's insolvency or the cessation of the debtor's business activities.
+
+The proceedings referred to in this paragraph are listed in Annex A.
+
+**2.** This Regulation shall not apply to proceedings referred to in paragraph 1 that concern:(a) insurance undertakings;(b) credit institutions;(c) investment firms and other firms, institutions and undertakings to the extent that they are covered by Directive 2001/24/EC; or(d) collective investment undertakings.
+
+<a id="art_2"></a>
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation:
+
+(1) ‘collective proceedings’ means proceedings which include all or a significant part of a debtor's creditors, provided that, in the latter case, the proceedings do not affect the claims of creditors which are not involved in them;
+
+(2) ‘collective investment undertakings’ means undertakings for collective investment in transferable securities (UCITS) as defined in Directive 2009/65/EC of the European Parliament and of the Council (1) and alternative investment funds (AIFs) as defined in Directive 2011/61/EU of the European Parliament and of the Council (2);
+
+(3) ‘debtor in possession’ means a debtor in respect of which insolvency proceedings have been opened which do not necessarily involve the appointment of an insolvency practitioner or the complete transfer of the rights and duties to administer the debtor's assets to an insolvency practitioner and where, therefore, the debtor remains totally or at least partially in control of its assets and affairs;
+
+(4) ‘insolvency proceedings’ means the proceedings listed in Annex A;
+
+(5) ‘insolvency practitioner’ means any person or body whose function, including on an interim basis, is to: (i) verify and admit claims submitted in insolvency proceedings; (ii) represent the collective interest of the creditors; (iii) administer, either in full or in part, assets of which the debtor has been divested; (iv) liquidate the assets referred to in point (iii); or (v) supervise the administration of the debtor's affairs. The persons and bodies referred to in the first subparagraph are listed in Annex B;
+
+(6) ‘court’ means: (i) in points (b) and (c) of Article 1(1), Article 4(2), Articles 5 and 6, Article 21(3), point (j) of Article 24(2), Articles 36 and 39, and Articles 61 to 77, the judicial body of a Member State; (ii) in all other articles, the judicial body or any other competent body of a Member State empowered to open insolvency proceedings, to confirm such opening or to take decisions in the course of such proceedings;
+
+(7) ‘judgment opening insolvency proceedings’ includes: (i) the decision of any court to open insolvency proceedings or to confirm the opening of such proceedings; and (ii) the decision of a court to appoint an insolvency practitioner;
+
+(8) ‘the time of the opening of proceedings’ means the time at which the judgment opening insolvency proceedings becomes effective, regardless of whether the judgment is final or not;
+
+(9) ‘the Member State in which assets are situated’ means, in the case of: (i) registered shares in companies other than those referred to in point (ii), the Member State within the territory of which the company having issued the shares has its registered office; (ii) financial instruments, the title to which is evidenced by entries in a register or account maintained by or on behalf of an intermediary (‘book entry securities’), the Member State in which the register or account in which the entries are made is maintained; (iii) cash held in accounts with a credit institution, the Member State indicated in the account's IBAN, or, for cash held in accounts with a credit institution which does not have an IBAN, the Member State in which the credit institution holding the account has its central administration or, where the account is held with a branch, agency or other establishment, the Member State in which the branch, agency or other establishment is located; (iv) property and rights, ownership of or entitlement to which is entered in a public register other than those referred to in point (i), the Member State under the authority of which the register is kept; (v) European patents, the Member State for which the European patent is granted; (vi) copyright and related rights, the Member State within the territory of which the owner of such rights has its habitual residence or registered office; (vii) tangible property, other than that referred to in points (i) to (iv), the Member State within the territory of which the property is situated; (viii) claims against third parties, other than those relating to assets referred to in point (iii), the Member State within the territory of which the third party required to meet the claims has the centre of its main interests, as determined in accordance with Article 3(1);
+
+(10) ‘establishment’ means any place of operations where a debtor carries out or has carried out in the 3-month period prior to the request to open main insolvency proceedings a non-transitory economic activity with human means and assets;
+
+(11) ‘local creditor’ means a creditor whose claims against a debtor arose from or in connection with the operation of an establishment situated in a Member State other than the Member State in which the centre of the debtor's main interests is located;
+
+(12) ‘foreign creditor’ means a creditor which has its habitual residence, domicile or registered office in a Member State other than the State of the opening of proceedings, including the tax authorities and social security authorities of Member States;
+
+(13) ‘group of companies’ means a parent undertaking and all its subsidiary undertakings;
+
+(14) ‘parent undertaking’ means an undertaking which controls, either directly or indirectly, one or more subsidiary undertakings. An undertaking which prepares consolidated financial statements in accordance with Directive 2013/34/EU of the European Parliament and of the Council (3) shall be deemed to be a parent undertaking.
+
+<a id="art_3"></a>
+
+### Article 3 — International jurisdiction
+
+**1.** The courts of the Member State within the territory of which the centre of the debtor's main interests is situated shall have jurisdiction to open insolvency proceedings (‘main insolvency proceedings’). The centre of main interests shall be the place where the debtor conducts the administration of its interests on a regular basis and which is ascertainable by third parties.
+
+In the case of a company or legal person, the place of the registered office shall be presumed to be the centre of its main interests in the absence of proof to the contrary. That presumption shall only apply if the registered office has not been moved to another Member State within the 3-month period prior to the request for the opening of insolvency proceedings.
+
+In the case of an individual exercising an independent business or professional activity, the centre of main interests shall be presumed to be that individual's principal place of business in the absence of proof to the contrary. That presumption shall only apply if the individual's principal place of business has not been moved to another Member State within the 3-month period prior to the request for the opening of insolvency proceedings.
+
+In the case of any other individual, the centre of main interests shall be presumed to be the place of the individual's habitual residence in the absence of proof to the contrary. This presumption shall only apply if the habitual residence has not been moved to another Member State within the 6-month period prior to the request for the opening of insolvency proceedings.
+
+**2.** Where the centre of the debtor's main interests is situated within the territory of a Member State, the courts of another Member State shall have jurisdiction to open insolvency proceedings against that debtor only if it possesses an establishment within the territory of that other Member State. The effects of those proceedings shall be restricted to the assets of the debtor situated in the territory of the latter Member State.
+
+**3.** Where insolvency proceedings have been opened in accordance with paragraph 1, any proceedings opened subsequently in accordance with paragraph 2 shall be secondary insolvency proceedings.
+
+**4.** The territorial insolvency proceedings referred to in paragraph 2 may only be opened prior to the opening of main insolvency proceedings in accordance with paragraph 1 where(a) insolvency proceedings under paragraph 1 cannot be opened because of the conditions laid down by the law of the Member State within the territory of which the centre of the debtor's main interests is situated; or(b) the opening of territorial insolvency proceedings is requested by:(i) a creditor whose claim arises from or is in connection with the operation of an establishment situated within the territory of the Member State where the opening of territorial proceedings is requested; or(ii) a public authority which, under the law of the Member State within the territory of which the establishment is situated, has the right to request the opening of insolvency proceedings.
+
+When main insolvency proceedings are opened, the territorial insolvency proceedings shall become secondary insolvency proceedings.
+
+<a id="art_4"></a>
+
+### Article 4 — Examination as to jurisdiction
+
+**1.** A court seised of a request to open insolvency proceedings shall of its own motion examine whether it has jurisdiction pursuant to Article 3. The judgment opening insolvency proceedings shall specify the grounds on which the jurisdiction of the court is based, and, in particular, whether jurisdiction is based on Article 3(1) or (2).
+
+**2.** Notwithstanding paragraph 1, where insolvency proceedings are opened in accordance with national law without a decision by a court, Member States may entrust the insolvency practitioner appointed in such proceedings to examine whether the Member State in which a request for the opening of proceedings is pending has jurisdiction pursuant to Article 3. Where this is the case, the insolvency practitioner shall specify in the decision opening the proceedings the grounds on which jurisdiction is based and, in particular, whether jurisdiction is based on Article 3(1) or (2).
+
+<a id="art_5"></a>
+
+### Article 5 — Judicial review of the decision to open main insolvency proceedings
+
+**1.** The debtor or any creditor may challenge before a court the decision opening main insolvency proceedings on grounds of international jurisdiction.
+
+**2.** The decision opening main insolvency proceedings may be challenged by parties other than those referred to in paragraph 1 or on grounds other than a lack of international jurisdiction where national law so provides.
+
+<a id="art_6"></a>
+
+### Article 6 — Jurisdiction for actions deriving directly from insolvency proceedings and closely linked with them
+
+**1.** The courts of the Member State within the territory of which insolvency proceedings have been opened in accordance with Article 3 shall have jurisdiction for any action which derives directly from the insolvency proceedings and is closely linked with them, such as avoidance actions.
+
+**2.** Where an action referred to in paragraph 1 is related to an action in civil and commercial matters against the same defendant, the insolvency practitioner may bring both actions before the courts of the Member State within the territory of which the defendant is domiciled, or, where the action is brought against several defendants, before the courts of the Member State within the territory of which any of them is domiciled, provided that those courts have jurisdiction pursuant to Regulation (EU) No 1215/2012.
+
+The first subparagraph shall apply to the debtor in possession, provided that national law allows the debtor in possession to bring actions on behalf of the insolvency estate.
+
+**3.** For the purpose of paragraph 2, actions are deemed to be related where they are so closely connected that it is expedient to hear and determine them together to avoid the risk of irreconcilable judgments resulting from separate proceedings.
+
+<a id="art_7"></a>
+
+### Article 7 — Applicable law
+
+**1.** Save as otherwise provided in this Regulation, the law applicable to insolvency proceedings and their effects shall be that of the Member State within the territory of which such proceedings are opened (the ‘State of the opening of proceedings’).
+
+**2.** The law of the State of the opening of proceedings shall determine the conditions for the opening of those proceedings, their conduct and their closure. In particular, it shall determine the following:(a) the debtors against which insolvency proceedings may be brought on account of their capacity;(b) the assets which form part of the insolvency estate and the treatment of assets acquired by or devolving on the debtor after the opening of the insolvency proceedings;(c) the respective powers of the debtor and the insolvency practitioner;(d) the conditions under which set-offs may be invoked;(e) the effects of insolvency proceedings on current contracts to which the debtor is party;(f) the effects of the insolvency proceedings on proceedings brought by individual creditors, with the exception of pending lawsuits;(g) the claims which are to be lodged against the debtor's insolvency estate and the treatment of claims arising after the opening of insolvency proceedings;(h) the rules governing the lodging, verification and admission of claims;(i) the rules governing the distribution of proceeds from the realisation of assets, the ranking of claims and the rights of creditors who have obtained partial satisfaction after the opening of insolvency proceedings by virtue of a right *in rem* or through a set-off;(j) the conditions for, and the effects of closure of, insolvency proceedings, in particular by composition;(k) creditors' rights after the closure of insolvency proceedings;(l) who is to bear the costs and expenses incurred in the insolvency proceedings;(m) the rules relating to the voidness, voidability or unenforceability of legal acts detrimental to the general body of creditors.
+
+<a id="art_8"></a>
+
+### Article 8 — Third parties' rights in rem
+
+**1.** The opening of insolvency proceedings shall not affect the rights *in rem* of creditors or third parties in respect of tangible or intangible, moveable or immoveable assets, both specific assets and collections of indefinite assets as a whole which change from time to time, belonging to the debtor which are situated within the territory of another Member State at the time of the opening of proceedings.
+
+**2.** The rights referred to in paragraph 1 shall, in particular, mean:(a) the right to dispose of assets or have them disposed of and to obtain satisfaction from the proceeds of or income from those assets, in particular by virtue of a lien or a mortgage;(b) the exclusive right to have a claim met, in particular a right guaranteed by a lien in respect of the claim or by assignment of the claim by way of a guarantee;(c) the right to demand assets from, and/or to require restitution by, anyone having possession or use of them contrary to the wishes of the party so entitled;(d) a right *in rem* to the beneficial use of assets.
+
+**3.** The right, recorded in a public register and enforceable against third parties, based on which a right *in rem* within the meaning of paragraph 1 may be obtained shall be considered to be a right *in rem*.
+
+**4.** Paragraph 1 shall not preclude actions for voidness, voidability or unenforceability as referred to in point (m) of Article 7(2).
+
+<a id="art_9"></a>
+
+### Article 9 — Set-off
+
+**1.** The opening of insolvency proceedings shall not affect the right of creditors to demand the set-off of their claims against the claims of a debtor, where such a set-off is permitted by the law applicable to the insolvent debtor's claim.
+
+**2.** Paragraph 1 shall not preclude actions for voidness, voidability or unenforceability as referred to in point (m) of Article 7(2).
+
+<a id="art_10"></a>
+
+### Article 10 — Reservation of title
+
+**1.** The opening of insolvency proceedings against the purchaser of an asset shall not affect sellers' rights that are based on a reservation of title where at the time of the opening of proceedings the asset is situated within the territory of a Member State other than the State of the opening of proceedings.
+
+**2.** The opening of insolvency proceedings against the seller of an asset, after delivery of the asset, shall not constitute grounds for rescinding or terminating the sale and shall not prevent the purchaser from acquiring title where at the time of the opening of proceedings the asset sold is situated within the territory of a Member State other than the State of the opening of proceedings.
+
+**3.** Paragraphs 1 and 2 shall not preclude actions for voidness, voidability or unenforceability as referred to in point (m) of Article 7(2).
+
+<a id="art_11"></a>
+
+### Article 11 — Contracts relating to immoveable property
+
+**1.** The effects of insolvency proceedings on a contract conferring the right to acquire or make use of immoveable property shall be governed solely by the law of the Member State within the territory of which the immoveable property is situated.
+
+**2.** The court which opened main insolvency proceedings shall have jurisdiction to approve the termination or modification of the contracts referred to in this Article where:(a) the law of the Member State applicable to those contracts requires that such a contract may only be terminated or modified with the approval of the court opening insolvency proceedings; and(b) no insolvency proceedings have been opened in that Member State.
+
+<a id="art_12"></a>
+
+### Article 12 — Payment systems and financial markets
+
+**1.** Without prejudice to Article 8, the effects of insolvency proceedings on the rights and obligations of the parties to a payment or settlement system or to a financial market shall be governed solely by the law of the Member State applicable to that system or market.
+
+**2.** Paragraph 1 shall not preclude any action for voidness, voidability or unenforceability which may be taken to set aside payments or transactions under the law applicable to the relevant payment system or financial market.
+
+<a id="art_13"></a>
+
+### Article 13 — Contracts of employment
+
+**1.** The effects of insolvency proceedings on employment contracts and relationships shall be governed solely by the law of the Member State applicable to the contract of employment.
+
+**2.** The courts of the Member State in which secondary insolvency proceedings may be opened shall retain jurisdiction to approve the termination or modification of the contracts referred to in this Article even if no insolvency proceedings have been opened in that Member State.
+
+The first subparagraph shall also apply to an authority competent under national law to approve the termination or modification of the contracts referred to in this Article.
+
+<a id="art_14"></a>
+
+### Article 14 — Effects on rights subject to registration
+
+The effects of insolvency proceedings on the rights of a debtor in immoveable property, a ship or an aircraft subject to registration in a public register shall be determined by the law of the Member State under the authority of which the register is kept.
+
+<a id="art_15"></a>
+
+### Article 15 — European patents with unitary effect and Community trade marks
+
+For the purposes of this Regulation, a European patent with unitary effect, a Community trade mark or any other similar right established by Union law may be included only in the proceedings referred to in Article 3(1).
+
+<a id="art_16"></a>
+
+### Article 16 — Detrimental acts
+
+Point (m) of Article 7(2) shall not apply where the person who benefited from an act detrimental to all the creditors provides proof that:
+
+(a) the act is subject to the law of a Member State other than that of the State of the opening of proceedings; and
+
+(b) the law of that Member State does not allow any means of challenging that act in the relevant case.
+
+<a id="art_17"></a>
+
+### Article 17 — Protection of third-party purchasers
+
+Where, by an act concluded after the opening of insolvency proceedings, a debtor disposes, for consideration, of:
+
+(a) an immoveable asset;
+
+(b) a ship or an aircraft subject to registration in a public register; or
+
+(c) securities the existence of which requires registration in a register laid down by law;
+
+the validity of that act shall be governed by the law of the State within the territory of which the immoveable asset is situated or under the authority of which the register is kept.
+
+<a id="art_18"></a>
+
+### Article 18 — Effects of insolvency proceedings on pending lawsuits or arbitral proceedings
+
+The effects of insolvency proceedings on a pending lawsuit or pending arbitral proceedings concerning an asset or a right which forms part of a debtor's insolvency estate shall be governed solely by the law of the Member State in which that lawsuit is pending or in which the arbitral tribunal has its seat.
+
+## CHAPTER II — RECOGNITION OF INSOLVENCY PROCEEDINGS
+
+<a id="art_19"></a>
+
+### Article 19 — Principle
+
+**1.** Any judgment opening insolvency proceedings handed down by a court of a Member State which has jurisdiction pursuant to Article 3 shall be recognised in all other Member States from the moment that it becomes effective in the State of the opening of proceedings.
+
+The rule laid down in the first subparagraph shall also apply where, on account of a debtor's capacity, insolvency proceedings cannot be brought against that debtor in other Member States.
+
+**2.** Recognition of the proceedings referred to in Article 3(1) shall not preclude the opening of the proceedings referred to in Article 3(2) by a court in another Member State. The latter proceedings shall be secondary insolvency proceedings within the meaning of Chapter III.
+
+<a id="art_20"></a>
+
+### Article 20 — Effects of recognition
+
+**1.** The judgment opening insolvency proceedings as referred to in Article 3(1) shall, with no further formalities, produce the same effects in any other Member State as under the law of the State of the opening of proceedings, unless this Regulation provides otherwise and as long as no proceedings referred to in Article 3(2) are opened in that other Member State.
+
+**2.** The effects of the proceedings referred to in Article 3(2) may not be challenged in other Member States. Any restriction of creditors' rights, in particular a stay or discharge, shall produce effects vis-à-vis assets situated within the territory of another Member State only in the case of those creditors who have given their consent.
+
+<a id="art_21"></a>
+
+### Article 21 — Powers of the insolvency practitioner
+
+**1.** The insolvency practitioner appointed by a court which has jurisdiction pursuant to Article 3(1) may exercise all the powers conferred on it, by the law of the State of the opening of proceedings, in another Member State, as long as no other insolvency proceedings have been opened there and no preservation measure to the contrary has been taken there further to a request for the opening of insolvency proceedings in that State. Subject to Articles 8 and 10, the insolvency practitioner may, in particular, remove the debtor's assets from the territory of the Member State in which they are situated.
+
+**2.** The insolvency practitioner appointed by a court which has jurisdiction pursuant to Article 3(2) may in any other Member State claim through the courts or out of court that moveable property was removed from the territory of the State of the opening of proceedings to the territory of that other Member State after the opening of the insolvency proceedings. The insolvency practitioner may also bring any action to set aside which is in the interests of the creditors.
+
+**3.** In exercising its powers, the insolvency practitioner shall comply with the law of the Member State within the territory of which it intends to take action, in particular with regard to procedures for the realisation of assets. Those powers may not include coercive measures, unless ordered by a court of that Member State, or the right to rule on legal proceedings or disputes.
+
+<a id="art_22"></a>
+
+### Article 22 — Proof of the insolvency practitioner's appointment
+
+The insolvency practitioner's appointment shall be evidenced by a certified copy of the original decision appointing it or by any other certificate issued by the court which has jurisdiction.
+
+A translation into the official language or one of the official languages of the Member State within the territory of which it intends to act may be required. No legalisation or other similar formality shall be required.
+
+<a id="art_23"></a>
+
+### Article 23 — Return and imputation
+
+**1.** A creditor which, after the opening of the proceedings referred to in Article 3(1), obtains by any means, in particular through enforcement, total or partial satisfaction of its claim on the assets belonging to a debtor situated within the territory of another Member State, shall return what it has obtained to the insolvency practitioner, subject to Articles 8 and 10.
+
+**2.** In order to ensure the equal treatment of creditors, a creditor which has, in the course of insolvency proceedings, obtained a dividend on its claim shall share in distributions made in other proceedings only where creditors of the same ranking or category have, in those other proceedings, obtained an equivalent dividend.
+
+<a id="art_24"></a>
+
+### Article 24 — Establishment of insolvency registers
+
+**1.** Member States shall establish and maintain in their territory one or several registers in which information concerning insolvency proceedings is published (‘insolvency registers’). That information shall be published as soon as possible after the opening of such proceedings.
+
+**2.** The information referred to in paragraph 1 shall be made publicly available, subject to the conditions laid down in Article 27, and shall include the following (‘mandatory information’):(a) the date of the opening of insolvency proceedings;(b) the court opening insolvency proceedings and the case reference number, if any;(c) the type of insolvency proceedings referred to in Annex A that were opened and, where applicable, any relevant subtype of such proceedings opened in accordance with national law;(d) whether jurisdiction for opening proceedings is based on Article 3(1), 3(2) or 3(4);(e) if the debtor is a company or a legal person, the debtor's name, registration number, registered office or, if different, postal address;(f) if the debtor is an individual whether or not exercising an independent business or professional activity, the debtor's name, registration number, if any, and postal address or, where the address is protected, the debtor's place and date of birth;(g) the name, postal address or e-mail address of the insolvency practitioner, if any, appointed in the proceedings;(h) the time limit for lodging claims, if any, or a reference to the criteria for calculating that time limit;(i) the date of closing main insolvency proceedings, if any;(j) the court before which and, where applicable, the time limit within which a challenge of the decision opening insolvency proceedings is to be lodged in accordance with Article 5, or a reference to the criteria for calculating that time limit.
+
+**3.** Paragraph 2 shall not preclude Member States from including documents or additional information in their national insolvency registers, such as directors' disqualifications related to insolvency.
+
+**4.** Member States shall not be obliged to include in the insolvency registers the information referred to in paragraph 1 of this Article in relation to individuals not exercising an independent business or professional activity, or to make such information publicly available through the system of interconnection of those registers, provided that known foreign creditors are informed, pursuant to Article 54, of the elements referred to under point (j) of paragraph 2 of this Article.
+
+Where a Member State makes use of the possibility referred to in the first subparagraph, the insolvency proceedings shall not affect the claims of foreign creditors who have not received the information referred to in the first subparagraph.
+
+**5.** The publication of information in the registers under this Regulation shall not have any legal effects other than those set out in national law and in Article 55(6).
+
+<a id="art_25"></a>
+
+### Article 25 — Interconnection of insolvency registers
+
+**1.** The Commission shall establish a decentralised system for the interconnection of insolvency registers by means of implementing acts. That system shall be composed of the insolvency registers and the European e-Justice Portal, which shall serve as a central public electronic access point to information in the system. The system shall provide a search service in all the official languages of the institutions of the Union in order to make available the mandatory information and any other documents or information included in the insolvency registers which the Member States choose to make available through the European e-Justice Portal.
+
+**2.** By means of implementing acts in accordance with the procedure referred to in Article 87, the Commission shall adopt the following by 26 June 2019:(a) the technical specification defining the methods of communication and information exchange by electronic means on the basis of the established interface specification for the system of interconnection of insolvency registers;(b) the technical measures ensuring the minimum information technology security standards for communication and distribution of information within the system of interconnection of insolvency registers;(c) minimum criteria for the search service provided by the European e-Justice Portal based on the information set out in Article 24;(d) minimum criteria for the presentation of the results of such searches based on the information set out in Article 24;(e) the means and the technical conditions of availability of services provided by the system of interconnection; and(f) a glossary containing a basic explanation of the national insolvency proceedings listed in Annex A.
+
+<a id="art_26"></a>
+
+### Article 26 — Costs of establishing and interconnecting insolvency registers
+
+**1.** The establishment, maintenance and future development of the system of interconnection of insolvency registers shall be financed from the general budget of the Union.
+
+**2.** Each Member State shall bear the costs of establishing and adjusting its national insolvency registers to make them interoperable with the European e-Justice Portal, as well as the costs of administering, operating and maintaining those registers. This shall be without prejudice to the possibility to apply for grants to support such activities under the Union's financial programmes.
+
+<a id="art_27"></a>
+
+### Article 27 — Conditions of access to information via the system of interconnection
+
+**1.** Member States shall ensure that the mandatory information referred to in points (a) to (j) of Article 24(2) is available free of charge via the system of interconnection of insolvency registers.
+
+**2.** This Regulation shall not preclude Member States from charging a reasonable fee for access to the documents or additional information referred to in Article 24(3) via the system of interconnection of insolvency registers.
+
+**3.** Member States may make access to mandatory information concerning individuals who are not exercising an independent business or professional activity, and concerning individuals exercising an independent business or professional activity when the insolvency proceedings are not related to that activity, subject to supplementary search criteria relating to the debtor in addition to the minimum criteria referred to in point (c) of Article 25(2).
+
+**4.** Member States may require that access to the information referred to in paragraph 3 be made conditional upon a request to the competent authority. Member States may make access conditional upon the verification of the existence of a legitimate interest for accessing such information. The requesting person shall be able to submit the request for information electronically by means of a standard form via the European e-Justice Portal. Where a legitimate interest is required, it shall be permissible for the requesting person to justify his request by electronic copies of relevant documents. The requesting person shall be provided with an answer by the competent authority within 3 working days.
+
+The requesting person shall not be obliged to provide translations of the documents justifying his request, or to bear any costs of translation which the competent authority may incur.
+
+<a id="art_28"></a>
+
+### Article 28 — Publication in another Member State
+
+**1.** The insolvency practitioner or the debtor in possession shall request that notice of the judgment opening insolvency proceedings and, where appropriate, the decision appointing the insolvency practitioner be published in any other Member State where an establishment of the debtor is located in accordance with the publication procedures provided for in that Member State. Such publication shall specify, where appropriate, the insolvency practitioner appointed and whether the jurisdiction rule applied is that pursuant to Article 3(1) or (2).
+
+**2.** The insolvency practitioner or the debtor in possession may request that the information referred to in paragraph 1 be published in any other Member State where the insolvency practitioner or the debtor in possession deems it necessary in accordance with the publication procedures provided for in that Member State.
+
+<a id="art_29"></a>
+
+### Article 29 — Registration in public registers of another Member State
+
+**1.** Where the law of a Member State in which an establishment of the debtor is located and this establishment has been entered into a public register of that Member State, or the law of a Member State in which immovable property belonging to the debtor is located, requires information on the opening of insolvency proceedings referred to in Article 28 to be published in the land register, company register or any other public register, the insolvency practitioner or the debtor in possession shall take all the necessary measures to ensure such a registration.
+
+**2.** The insolvency practitioner or the debtor in possession may request such registration in any other Member State, provided that the law of the Member State where the register is kept allows such registration.
+
+<a id="art_30"></a>
+
+### Article 30 — Costs
+
+The costs of the publication and registration provided for in Articles 28 and 29 shall be regarded as costs and expenses incurred in the proceedings.
+
+<a id="art_31"></a>
+
+### Article 31 — Honouring of an obligation to a debtor
+
+**1.** Where an obligation has been honoured in a Member State for the benefit of a debtor who is subject to insolvency proceedings opened in another Member State, when it should have been honoured for the benefit of the insolvency practitioner in those proceedings, the person honouring the obligation shall be deemed to have discharged it if he was unaware of the opening of the proceedings.
+
+**2.** Where such an obligation is honoured before the publication provided for in Article 28 has been effected, the person honouring the obligation shall be presumed, in the absence of proof to the contrary, to have been unaware of the opening of insolvency proceedings. Where the obligation is honoured after such publication has been effected, the person honouring the obligation shall be presumed, in the absence of proof to the contrary, to have been aware of the opening of proceedings.
+
+<a id="art_32"></a>
+
+### Article 32 — Recognition and enforceability of other judgments
+
+**1.** Judgments handed down by a court whose judgment concerning the opening of proceedings is recognised in accordance with Article 19 and which concern the course and closure of insolvency proceedings, and compositions approved by that court, shall also be recognised with no further formalities. Such judgments shall be enforced in accordance with Articles 39 to 44 and 47 to 57 of Regulation (EU) No 1215/2012.
+
+The first subparagraph shall also apply to judgments deriving directly from the insolvency proceedings and which are closely linked with them, even if they were handed down by another court.
+
+The first subparagraph shall also apply to judgments relating to preservation measures taken after the request for the opening of insolvency proceedings or in connection with it.
+
+**2.** The recognition and enforcement of judgments other than those referred to in paragraph 1 of this Article shall be governed by Regulation (EU) No 1215/2012 provided that that Regulation is applicable.
+
+<a id="art_33"></a>
+
+### Article 33 — Public policy
+
+Any Member State may refuse to recognise insolvency proceedings opened in another Member State or to enforce a judgment handed down in the context of such proceedings where the effects of such recognition or enforcement would be manifestly contrary to that State's public policy, in particular its fundamental principles or the constitutional rights and liberties of the individual.
+
+## CHAPTER III — SECONDARY INSOLVENCY PROCEEDINGS
+
+<a id="art_34"></a>
+
+### Article 34 — Opening of proceedings
+
+Where main insolvency proceedings have been opened by a court of a Member State and recognised in another Member State, a court of that other Member State which has jurisdiction pursuant to Article 3(2) may open secondary insolvency proceedings in accordance with the provisions set out in this Chapter. Where the main insolvency proceedings required that the debtor be insolvent, the debtor's insolvency shall not be re-examined in the Member State in which secondary insolvency proceedings may be opened. The effects of secondary insolvency proceedings shall be restricted to the assets of the debtor situated within the territory of the Member State in which those proceedings have been opened.
+
+<a id="art_35"></a>
+
+### Article 35 — Applicable law
+
+Save as otherwise provided for in this Regulation, the law applicable to secondary insolvency proceedings shall be that of the Member State within the territory of which the secondary insolvency proceedings are opened.
+
+<a id="art_36"></a>
+
+### Article 36 — Right to give an undertaking in order to avoid secondary insolvency proceedings
+
+**1.** In order to avoid the opening of secondary insolvency proceedings, the insolvency practitioner in the main insolvency proceedings may give a unilateral undertaking (the ‘undertaking’) in respect of the assets located in the Member State in which secondary insolvency proceedings could be opened, that when distributing those assets or the proceeds received as a result of their realisation, it will comply with the distribution and priority rights under national law that creditors would have if secondary insolvency proceedings were opened in that Member State. The undertaking shall specify the factual assumptions on which it is based, in particular in respect of the value of the assets located in the Member State concerned and the options available to realise such assets.
+
+**2.** Where an undertaking has been given in accordance with this Article, the law applicable to the distribution of proceeds from the realisation of assets referred to in paragraph 1, to the ranking of creditors' claims, and to the rights of creditors in relation to the assets referred to in paragraph 1 shall be the law of the Member State in which secondary insolvency proceedings could have been opened. The relevant point in time for determining the assets referred to in paragraph 1 shall be the moment at which the undertaking is given.
+
+**3.** The undertaking shall be made in the official language or one of the official languages of the Member State where secondary insolvency proceedings could have been opened, or, where there are several official languages in that Member State, the official language or one of the official languages of the place in which secondary insolvency proceedings could have been opened.
+
+**4.** The undertaking shall be made in writing. It shall be subject to any other requirements relating to form and approval requirements as to distributions, if any, of the State of the opening of the main insolvency proceedings.
+
+**5.** The undertaking shall be approved by the known local creditors. The rules on qualified majority and voting that apply to the adoption of restructuring plans under the law of the Member State where secondary insolvency proceedings could have been opened shall also apply to the approval of the undertaking. Creditors shall be able to participate in the vote by distance means of communication, where national law so permits. The insolvency practitioner shall inform the known local creditors of the undertaking, of the rules and procedures for its approval, and of the approval or rejection of the undertaking.
+
+**6.** An undertaking given and approved in accordance with this Article shall be binding on the estate. If secondary insolvency proceedings are opened in accordance with Articles 37 and 38, the insolvency practitioner in the main insolvency proceedings shall transfer any assets which it removed from the territory of that Member State after the undertaking was given or, where those assets have already been realised, their proceeds, to the insolvency practitioner in the secondary insolvency proceedings.
+
+**7.** Where the insolvency practitioner has given an undertaking, it shall inform local creditors about the intended distributions prior to distributing the assets and proceeds referred to in paragraph 1. If that information does not comply with the terms of the undertaking or the applicable law, any local creditor may challenge such distribution before the courts of the Member State in which main insolvency proceedings have been opened in order to obtain a distribution in accordance with the terms of the undertaking and the applicable law. In such cases, no distribution shall take place until the court has taken a decision on the challenge.
+
+**8.** Local creditors may apply to the courts of the Member State in which main insolvency proceedings have been opened, in order to require the insolvency practitioner in the main insolvency proceedings to take any suitable measures necessary to ensure compliance with the terms of the undertaking available under the law of the State of the opening of main insolvency proceedings.
+
+**9.** Local creditors may also apply to the courts of the Member State in which secondary insolvency proceedings could have been opened in order to require the court to take provisional or protective measures to ensure compliance by the insolvency practitioner with the terms of the undertaking.
+
+**10.** The insolvency practitioner shall be liable for any damage caused to local creditors as a result of its non-compliance with the obligations and requirements set out in this Article.
+
+**11.** For the purpose of this Article, an authority which is established in the Member State where secondary insolvency proceedings could have been opened and which is obliged under Directive 2008/94/EC of the European Parliament and of the Council (4) to guarantee the payment of employees' outstanding claims resulting from contracts of employment or employment relationships shall be considered to be a local creditor, where the national law so provides.
+
+<a id="art_37"></a>
+
+### Article 37 — Right to request the opening of secondary insolvency proceedings
+
+**1.** The opening of secondary insolvency proceedings may be requested by:(a) the insolvency practitioner in the main insolvency proceedings;(b) any other person or authority empowered to request the opening of insolvency proceedings under the law of the Member State within the territory of which the opening of secondary insolvency proceedings is requested.
+
+**2.** Where an undertaking has become binding in accordance with Article 36, the request for opening secondary insolvency proceedings shall be lodged within 30 days of having received notice of the approval of the undertaking.
+
+<a id="art_38"></a>
+
+### Article 38 — Decision to open secondary insolvency proceedings
+
+**1.** A court seised of a request to open secondary insolvency proceedings shall immediately give notice to the insolvency practitioner or the debtor in possession in the main insolvency proceedings and give it an opportunity to be heard on the request.
+
+**2.** Where the insolvency practitioner in the main insolvency proceedings has given an undertaking in accordance with Article 36, the court referred to in paragraph 1 of this Article shall, at the request of the insolvency practitioner, not open secondary insolvency proceedings if it is satisfied that the undertaking adequately protects the general interests of local creditors.
+
+**3.** Where a temporary stay of individual enforcement proceedings has been granted in order to allow for negotiations between the debtor and its creditors, the court, at the request of the insolvency practitioner or the debtor in possession, may stay the opening of secondary insolvency proceedings for a period not exceeding 3 months, provided that suitable measures are in place to protect the interests of local creditors.
+
+The court referred to in paragraph 1 may order protective measures to protect the interests of local creditors by requiring the insolvency practitioner or the debtor in possession not to remove or dispose of any assets which are located in the Member State where its establishment is located unless this is done in the ordinary course of business. The court may also order other measures to protect the interest of local creditors during a stay, unless this is incompatible with the national rules on civil procedure.
+
+The stay of the opening of secondary insolvency proceedings shall be lifted by the court of its own motion or at the request of any creditor if, during the stay, an agreement in the negotiations referred to in the first subparagraph has been concluded.
+
+The stay may be lifted by the court of its own motion or at the request of any creditor if the continuation of the stay is detrimental to the creditor's rights, in particular if the negotiations have been disrupted or it has become evident that they are unlikely to be concluded, or if the insolvency practitioner or the debtor in possession has infringed the prohibition on disposal of its assets or on removal of them from the territory of the Member State where the establishment is located.
+
+**4.** At the request of the insolvency practitioner in the main insolvency proceedings, the court referred to in paragraph 1 may open a type of insolvency proceedings as listed in Annex A other than the type initially requested, provided that the conditions for opening that type of proceedings under national law are fulfilled and that that type of proceedings is the most appropriate as regards the interests of the local creditors and coherence between the main and secondary insolvency proceedings. The second sentence of Article 34 shall apply.
+
+<a id="art_39"></a>
+
+### Article 39 — Judicial review of the decision to open secondary insolvency proceedings
+
+The insolvency practitioner in the main insolvency proceedings may challenge the decision to open secondary insolvency proceedings before the courts of the Member State in which secondary insolvency proceedings have been opened on the ground that the court did not comply with the conditions and requirements of Article 38.
+
+<a id="art_40"></a>
+
+### Article 40 — Advance payment of costs and expenses
+
+Where the law of the Member State in which the opening of secondary insolvency proceedings is requested requires that the debtor's assets be sufficient to cover in whole or in part the costs and expenses of the proceedings, the court may, when it receives such a request, require the applicant to make an advance payment of costs or to provide appropriate security.
+
+<a id="art_41"></a>
+
+### Article 41 — Cooperation and communication between insolvency practitioners
+
+**1.** The insolvency practitioner in the main insolvency proceedings and the insolvency practitioner or practitioners in secondary insolvency proceedings concerning the same debtor shall cooperate with each other to the extent such cooperation is not incompatible with the rules applicable to the respective proceedings. Such cooperation may take any form, including the conclusion of agreements or protocols.
+
+**2.** In implementing the cooperation set out in paragraph 1, the insolvency practitioners shall:(a) as soon as possible communicate to each other any information which may be relevant to the other proceedings, in particular any progress made in lodging and verifying claims and all measures aimed at rescuing or restructuring the debtor, or at terminating the proceedings, provided appropriate arrangements are made to protect confidential information;(b) explore the possibility of restructuring the debtor and, where such a possibility exists, coordinate the elaboration and implementation of a restructuring plan;(c) coordinate the administration of the realisation or use of the debtor's assets and affairs; the insolvency practitioner in the secondary insolvency proceedings shall give the insolvency practitioner in the main insolvency proceedings an early opportunity to submit proposals on the realisation or use of the assets in the secondary insolvency proceedings.
+
+**3.** Paragraphs 1 and 2 shall apply mutatis mutandis to situations where, in the main or in the secondary insolvency proceedings or in any territorial insolvency proceedings concerning the same debtor and open at the same time, the debtor remains in possession of its assets.
+
+<a id="art_42"></a>
+
+### Article 42 — Cooperation and communication between courts
+
+**1.** In order to facilitate the coordination of main, territorial and secondary insolvency proceedings concerning the same debtor, a court before which a request to open insolvency proceedings is pending, or which has opened such proceedings, shall cooperate with any other court before which a request to open insolvency proceedings is pending, or which has opened such proceedings, to the extent that such cooperation is not incompatible with the rules applicable to each of the proceedings. For that purpose, the courts may, where appropriate, appoint an independent person or body acting on its instructions, provided that it is not incompatible with the rules applicable to them.
+
+**2.** In implementing the cooperation set out in paragraph 1, the courts, or any appointed person or body acting on their behalf, as referred to in paragraph 1, may communicate directly with, or request information or assistance directly from, each other provided that such communication respects the procedural rights of the parties to the proceedings and the confidentiality of information.
+
+**3.** ►M4 The cooperation referred to in paragraph 1 of this Article shall be implemented in accordance with Article 3 of Regulation (EU) 2023/2844 of the European Parliament and of the Council (5):** ◄ ** It may, in particular, concern:(a) coordination in the appointment of the insolvency practitioners;(b) communication of information by any means considered appropriate by the court;(c) coordination of the administration and supervision of the debtor's assets and affairs;(d) coordination of the conduct of hearings;(e) coordination in the approval of protocols, where necessary.
+
+<a id="art_43"></a>
+
+### Article 43 — Cooperation and communication between insolvency practitioners and courts
+
+**1.** In order to facilitate the coordination of main, territorial and secondary insolvency proceedings opened in respect of the same debtor:(a) an insolvency practitioner in main insolvency proceedings shall cooperate and communicate with any court before which a request to open secondary insolvency proceedings is pending or which has opened such proceedings;(b) an insolvency practitioner in territorial or secondary insolvency proceedings shall cooperate and communicate with the court before which a request to open main insolvency proceedings is pending or which has opened such proceedings; and(c) an insolvency practitioner in territorial or secondary insolvency proceedings shall cooperate and communicate with the court before which a request to open other territorial or secondary insolvency proceedings is pending or which has opened such proceedings;to the extent that such cooperation and communication are not incompatible with the rules applicable to each of the proceedings and do not entail any conflict of interest.
+
+**2.** The cooperation referred to in paragraph 1 may be implemented by any appropriate means, such as those set out in Article 42(3).
+
+<a id="art_44"></a>
+
+### Article 44 — Costs of cooperation and communication
+
+The requirements laid down in Articles 42 and 43 shall not result in courts charging costs to each other for cooperation and communication.
+
+<a id="art_45"></a>
+
+### Article 45 — Exercise of creditors' rights
+
+**1.** Any creditor may lodge its claim in the main insolvency proceedings and in any secondary insolvency proceedings.
+
+**2.** The insolvency practitioners in the main and any secondary insolvency proceedings shall lodge in other proceedings claims which have already been lodged in the proceedings for which they were appointed, provided that the interests of creditors in the latter proceedings are served by doing so, subject to the right of creditors to oppose such lodgement or to withdraw the lodgement of their claims where the law applicable so provides.
+
+**3.** The insolvency practitioner in the main or secondary insolvency proceedings shall be entitled to participate in other proceedings on the same basis as a creditor, in particular by attending creditors' meetings.
+
+<a id="art_46"></a>
+
+### Article 46 — Stay of the process of realisation of assets
+
+**1.** The court which opened the secondary insolvency proceedings shall stay the process of realisation of assets in whole or in part on receipt of a request from the insolvency practitioner in the main insolvency proceedings. In such a case, it may require the insolvency practitioner in the main insolvency proceedings to take any suitable measure to guarantee the interests of the creditors in the secondary insolvency proceedings and of individual classes of creditors. Such a request from the insolvency practitioner may be rejected only if it is manifestly of no interest to the creditors in the main insolvency proceedings. Such a stay of the process of realisation of assets may be ordered for up to 3 months. It may be continued or renewed for similar periods.
+
+**2.** The court referred to in paragraph 1 shall terminate the stay of the process of realisation of assets:(a) at the request of the insolvency practitioner in the main insolvency proceedings;(b) of its own motion, at the request of a creditor or at the request of the insolvency practitioner in the secondary insolvency proceedings if that measure no longer appears justified, in particular, by the interests of creditors in the main insolvency proceedings or in the secondary insolvency proceedings.
+
+<a id="art_47"></a>
+
+### Article 47 — Power of the insolvency practitioner to propose restructuring plans
+
+**1.** Where the law of the Member State where secondary insolvency proceedings have been opened allows for such proceedings to be closed without liquidation by a restructuring plan, a composition or a comparable measure, the insolvency practitioner in the main insolvency proceedings shall be empowered to propose such a measure in accordance with the procedure of that Member State.
+
+**2.** Any restriction of creditors' rights arising from a measure referred to in paragraph 1 which is proposed in secondary insolvency proceedings, such as a stay of payment or discharge of debt, shall have no effect in respect of assets of a debtor that are not covered by those proceedings, without the consent of all the creditors having an interest.
+
+<a id="art_48"></a>
+
+### Article 48 — Impact of closure of insolvency proceedings
+
+**1.** Without prejudice to Article 49, the closure of insolvency proceedings shall not prevent the continuation of other insolvency proceedings concerning the same debtor which are still open at that point in time.
+
+**2.** Where insolvency proceedings concerning a legal person or a company in the Member State of that person's or company's registered office would entail the dissolution of the legal person or of the company, that legal person or company shall not cease to exist until any other insolvency proceedings concerning the same debtor have been closed, or the insolvency practitioner or practitioners in such proceedings have given consent to the dissolution.
+
+<a id="art_49"></a>
+
+### Article 49 — Assets remaining in the secondary insolvency proceedings
+
+If, by the liquidation of assets in the secondary insolvency proceedings, it is possible to meet all claims allowed under those proceedings, the insolvency practitioner appointed in those proceedings shall immediately transfer any assets remaining to the insolvency practitioner in the main insolvency proceedings.
+
+<a id="art_50"></a>
+
+### Article 50 — Subsequent opening of the main insolvency proceedings
+
+Where the proceedings referred to in Article 3(1) are opened following the opening of the proceedings referred to in Article 3(2) in another Member State, Articles 41, 45, 46, 47 and 49 shall apply to those opened first, in so far as the progress of those proceedings so permits.
+
+<a id="art_51"></a>
+
+### Article 51 — Conversion of secondary insolvency proceedings
+
+**1.** At the request of the insolvency practitioner in the main insolvency proceedings, the court of the Member State in which secondary insolvency proceedings have been opened may order the conversion of the secondary insolvency proceedings into another type of insolvency proceedings listed in Annex A, provided that the conditions for opening that type of proceedings under national law are fulfilled and that that type of proceedings is the most appropriate as regards the interests of the local creditors and coherence between the main and secondary insolvency proceedings.
+
+**2.** When considering the request referred to in paragraph 1, the court may seek information from the insolvency practitioners involved in both proceedings.
+
+<a id="art_52"></a>
+
+### Article 52 — Preservation measures
+
+Where the court of a Member State which has jurisdiction pursuant to Article 3(1) appoints a temporary administrator in order to ensure the preservation of a debtor's assets, that temporary administrator shall be empowered to request any measures to secure and preserve any of the debtor's assets situated in another Member State, provided for under the law of that Member State, for the period between the request for the opening of insolvency proceedings and the judgment opening the proceedings.
+
+## CHAPTER IV — PROVISION OF INFORMATION FOR CREDITORS AND LODGEMENT OF THEIR CLAIMS
+
+<a id="art_53"></a>
+
+### Article 53 — Right to lodge claims
+
+Any foreign creditor may lodge claims in insolvency proceedings by any means of communication which are accepted by the law of the State of the opening of proceedings or by the means of electronic communication provided for in Article 4 of Regulation (EU) 2023/2844.
+
+Representation by a lawyer or another legal professional shall not be mandatory for the sole purpose of lodging of claims.
+
+<a id="art_54"></a>
+
+### Article 54 — Duty to inform creditors
+
+**1.** As soon as insolvency proceedings are opened in a Member State, the court of that State having jurisdiction or the insolvency practitioner appointed by that court shall immediately inform the known foreign creditors.
+
+**2.** The information referred to in paragraph 1, provided by an individual notice, shall in particular include time limits, the penalties laid down with regard to those time limits, the body or authority empowered to accept the lodgement of claims and any other measures laid down. Such notice shall also indicate whether creditors whose claims are preferential or secured *in rem* need to lodge their claims. The notice shall also include a copy of the standard form for lodging of claims referred to in Article 55 or information on where that form is available.
+
+**3.** The information referred to in paragraphs 1 and 2 of this Article shall be provided using the standard notice form to be established in accordance with Article 88. The form shall be published in the European e-Justice Portal and shall bear the heading ‘Notice of insolvency proceedings’ in all the official languages of the institutions of the Union. It shall be transmitted in the official language of the State of the opening of proceedings or, if there are several official languages in that Member State, in the official language or one of the official languages of the place where insolvency proceedings have been opened, or in another language which that State has indicated it can accept, in accordance with Article 55(5), if it can be assumed that that language is easier to understand for the foreign creditors.
+
+**4.** In insolvency proceedings relating to an individual not exercising a business or professional activity, the use of the standard form referred to in this Article shall not be obligatory if creditors are not required to lodge their claims in order to have their claims taken into account in the proceedings.
+
+<a id="art_55"></a>
+
+### Article 55 — Procedure for lodging claims
+
+**1.** Any foreign creditor may lodge its claim using the standard claims form to be established in accordance with Article 88. The form shall bear the heading ‘Lodgement of claims’ in all the official languages of the institutions of the Union.
+
+**2.** The standard claims form referred to in paragraph 1 shall include the following information:(a) the name, postal address, e-mail address, if any, personal identification number, if any, and bank details of the foreign creditor referred to in paragraph 1;(b) the amount of the claim, specifying the principal and, where applicable, interest and the date on which it arose and the date on which it became due, if different;(c) if interest is claimed, the interest rate, whether the interest is of a legal or contractual nature, the period of time for which the interest is claimed and the capitalised amount of interest;(d) if costs incurred in asserting the claim prior to the opening of proceedings are claimed, the amount and the details of those costs;(e) the nature of the claim;(f) whether any preferential creditor status is claimed and the basis of such a claim;(g) whether security *in rem* or a reservation of title is alleged in respect of the claim and if so, what assets are covered by the security interest being invoked, the date on which the security was granted and, where the security has been registered, the registration number; and(h) whether any set-off is claimed and, if so, the amounts of the mutual claims existing on the date when insolvency proceedings were opened, the date on which they arose and the amount net of set-off claimed.
+
+The standard claims form shall be accompanied by copies of any supporting documents.
+
+**3.** The standard claims form shall indicate that the provision of information concerning the bank details and the personal identification number of the creditor referred to in point (a) of paragraph 2 is not compulsory.
+
+**4.** When a creditor lodges its claim by means other than the standard form referred to in paragraph 1, the claim shall contain the information referred to in paragraph 2.
+
+**5.** Claims may be lodged in any official language of the institutions of the Union. The court, the insolvency practitioner or the debtor in possession may require the creditor to provide a translation in the official language of the State of the opening of proceedings or, if there are several official languages in that Member State, in the official language or one of the official languages of the place where insolvency proceedings have been opened, or in another language which that Member State has indicated it can accept. Each Member State shall indicate whether it accepts any official language of the institutions of the Union other than its own for the purpose of the lodging of claims.
+
+**6.** Claims shall be lodged within the period stipulated by the law of the State of the opening of proceedings. In the case of a foreign creditor, that period shall not be less than 30 days following the publication of the opening of insolvency proceedings in the insolvency register of the State of the opening of proceedings. Where a Member State relies on Article 24(4), that period shall not be less than 30 days following a creditor having been informed pursuant to Article 54.
+
+**7.** Where the court, the insolvency practitioner or the debtor in possession has doubts in relation to a claim lodged in accordance with this Article, it shall give the creditor the opportunity to provide additional evidence on the existence and the amount of the claim.
+
+## CHAPTER V — INSOLVENCY PROCEEDINGS OF MEMBERS OF A GROUP OF COMPANIES
+
+### SECTION 1 — Cooperation and communication
+
+<a id="art_56"></a>
+
+### Article 56 — Cooperation and communication between insolvency practitioners
+
+**1.** Where insolvency proceedings relate to two or more members of a group of companies, an insolvency practitioner appointed in proceedings concerning a member of the group shall cooperate with any insolvency practitioner appointed in proceedings concerning another member of the same group to the extent that such cooperation is appropriate to facilitate the effective administration of those proceedings, is not incompatible with the rules applicable to such proceedings and does not entail any conflict of interest. That cooperation may take any form, including the conclusion of agreements or protocols.
+
+**2.** In implementing the cooperation set out in paragraph 1, insolvency practitioners shall:(a) as soon as possible communicate to each other any information which may be relevant to the other proceedings, provided appropriate arrangements are made to protect confidential information;(b) consider whether possibilities exist for coordinating the administration and supervision of the affairs of the group members which are subject to insolvency proceedings, and if so, coordinate such administration and supervision;(c) consider whether possibilities exist for restructuring group members which are subject to insolvency proceedings and, if so, coordinate with regard to the proposal and negotiation of a coordinated restructuring plan.
+
+For the purposes of points (b) and (c), all or some of the insolvency practitioners referred to in paragraph 1 may agree to grant additional powers to an insolvency practitioner appointed in one of the proceedings where such an agreement is permitted by the rules applicable to each of the proceedings. They may also agree on the allocation of certain tasks amongst them, where such allocation of tasks is permitted by the rules applicable to each of the proceedings.
+
+<a id="art_57"></a>
+
+### Article 57 — Cooperation and communication between courts
+
+**1.** Where insolvency proceedings relate to two or more members of a group of companies, a court which has opened such proceedings shall cooperate with any other court before which a request to open proceedings concerning another member of the same group is pending or which has opened such proceedings to the extent that such cooperation is appropriate to facilitate the effective administration of the proceedings, is not incompatible with the rules applicable to them and does not entail any conflict of interest. For that purpose, the courts may, where appropriate, appoint an independent person or body to act on its instructions, provided that this is not incompatible with the rules applicable to them.
+
+**2.** In implementing the cooperation set out in paragraph 1, courts, or any appointed person or body acting on their behalf, as referred to in paragraph 1, may communicate directly with each other, or request information or assistance directly from each other, provided that such communication respects the procedural rights of the parties to the proceedings and the confidentiality of information.
+
+**3.** ►M4 The cooperation referred to in paragraph 1 of this Article shall be implemented in accordance with Article 3 of Regulation (EU) 2023/2844:** ◄ ** It may, in particular, concern:(a) coordination in the appointment of insolvency practitioners;(b) communication of information by any means considered appropriate by the court;(c) coordination of the administration and supervision of the assets and affairs of the members of the group;(d) coordination of the conduct of hearings;(e) coordination in the approval of protocols where necessary.
+
+<a id="art_58"></a>
+
+### Article 58 — Cooperation and communication between insolvency practitioners and courts
+
+An insolvency practitioner appointed in insolvency proceedings concerning a member of a group of companies:
+
+(a) shall cooperate and communicate with any court before which a request for the opening of proceedings in respect of another member of the same group of companies is pending or which has opened such proceedings; and
+
+(b) may request information from that court concerning the proceedings regarding the other member of the group or request assistance concerning the proceedings in which he has been appointed;
+
+to the extent that such cooperation and communication are appropriate to facilitate the effective administration of the proceedings, do not entail any conflict of interest and are not incompatible with the rules applicable to them.
+
+<a id="art_59"></a>
+
+### Article 59 — Costs of cooperation and communication in proceedings concerning members of a group of companies
+
+The costs of the cooperation and communication provided for in Articles 56 to 60 incurred by an insolvency practitioner or a court shall be regarded as costs and expenses incurred in the respective proceedings.
+
+<a id="art_60"></a>
+
+### Article 60 — Powers of the insolvency practitioner in proceedings concerning members of a group of companies
+
+**1.** An insolvency practitioner appointed in insolvency proceedings opened in respect of a member of a group of companies may, to the extent appropriate to facilitate the effective administration of the proceedings:(a) be heard in any of the proceedings opened in respect of any other member of the same group;(b) request a stay of any measure related to the realisation of the assets in the proceedings opened with respect to any other member of the same group, provided that:(i) a restructuring plan for all or some members of the group for which insolvency proceedings have been opened has been proposed under point (c) of Article 56(2) and presents a reasonable chance of success;(ii) such a stay is necessary in order to ensure the proper implementation of the restructuring plan;(iii) the restructuring plan would be to the benefit of the creditors in the proceedings for which the stay is requested; and(iv) neither the insolvency proceedings in which the insolvency practitioner referred to in paragraph 1 of this Article has been appointed nor the proceedings in respect of which the stay is requested are subject to coordination under Section 2 of this Chapter;(c) apply for the opening of group coordination proceedings in accordance with Article 61.
+
+**2.** The court having opened proceedings referred to in point (b) of paragraph 1 shall stay any measure related to the realisation of the assets in the proceedings in whole or in part if it is satisfied that the conditions referred to in point (b) of paragraph 1 are fulfilled.
+
+Before ordering the stay, the court shall hear the insolvency practitioner appointed in the proceedings for which the stay is requested. Such a stay may be ordered for any period, not exceeding 3 months, which the court considers appropriate and which is compatible with the rules applicable to the proceedings.
+
+The court ordering the stay may require the insolvency practitioner referred to in paragraph 1 to take any suitable measure available under national law to guarantee the interests of the creditors in the proceedings.
+
+The court may extend the duration of the stay by such further period or periods as it considers appropriate and which are compatible with the rules applicable to the proceedings, provided that the conditions referred to in points (b)(ii) to (iv) of paragraph 1 continue to be fulfilled and that the total duration of the stay (the initial period together with any such extensions) does not exceed 6 months.
+
+### SECTION 2 — Coordination
+
+#### Subsection 1 — Procedure
+
+<a id="art_61"></a>
+
+### Article 61 — Request to open group coordination proceedings
+
+**1.** Group coordination proceedings may be requested before any court having jurisdiction over the insolvency proceedings of a member of the group, by an insolvency practitioner appointed in insolvency proceedings opened in relation to a member of the group.
+
+**2.** The request referred to in paragraph 1 shall be made in accordance with the conditions provided for by the law applicable to the proceedings in which the insolvency practitioner has been appointed.
+
+**3.** The request referred to in paragraph 1 shall be accompanied by:(a) a proposal as to the person to be nominated as the group coordinator (‘the coordinator’), details of his or her eligibility pursuant to Article 71, details of his or her qualifications and his or her written agreement to act as coordinator;(b) an outline of the proposed group coordination, and in particular the reasons why the conditions set out in Article 63(1) are fulfilled;(c) a list of the insolvency practitioners appointed in relation to the members of the group and, where relevant, the courts and competent authorities involved in the insolvency proceedings of the members of the group;(d) an outline of the estimated costs of the proposed group coordination and the estimation of the share of those costs to be paid by each member of the group.
+
+<a id="art_62"></a>
+
+### Article 62 — Priority rule
+
+Without prejudice to Article 66, where the opening of group coordination proceedings is requested before courts of different Member States, any court other than the court first seised shall decline jurisdiction in favour of that court.
+
+<a id="art_63"></a>
+
+### Article 63 — Notice by the court seised
+
+**1.** The court seised of a request to open group coordination proceedings shall give notice as soon as possible of the request for the opening of group coordination proceedings and of the proposed coordinator to the insolvency practitioners appointed in relation to the members of the group as indicated in the request referred to in point (c) of Article 61(3), if it is satisfied that:(a) the opening of such proceedings is appropriate to facilitate the effective administration of the insolvency proceedings relating to the different group members;(b) no creditor of any group member expected to participate in the proceedings is likely to be financially disadvantaged by the inclusion of that member in such proceedings; and(c) the proposed coordinator fulfils the requirements laid down in Article 71.
+
+**2.** The notice referred to in paragraph 1 of this Article shall list the elements referred to in points (a) to (d) of Article 61(3).
+
+**3.** The notice referred to in paragraph 1 shall be sent by registered letter, attested by an acknowledgment of receipt.
+
+**4.** The court seised shall give the insolvency practitioners involved the opportunity to be heard.
+
+<a id="art_64"></a>
+
+### Article 64 — Objections by insolvency practitioners
+
+**1.** An insolvency practitioner appointed in respect of any group member may object to:(a) the inclusion within group coordination proceedings of the insolvency proceedings in respect of which it has been appointed; or(b) the person proposed as a coordinator.
+
+**2.** Objections pursuant to paragraph 1 of this Article shall be lodged with the court referred to in Article 63 within 30 days of receipt of notice of the request for the opening of group coordination proceedings by the insolvency practitioner referred to in paragraph 1 of this Article.
+
+The objection may be made by means of the standard form established in accordance with Article 88.
+
+**3.** Prior to taking the decision to participate or not to participate in the coordination in accordance with point (a) of paragraph 1, an insolvency practitioner shall obtain any approval which may be required under the law of the State of the opening of proceedings for which it has been appointed.
+
+<a id="art_65"></a>
+
+### Article 65 — Consequences of objection to the inclusion in group coordination
+
+**1.** Where an insolvency practitioner has objected to the inclusion of the proceedings in respect of which it has been appointed in group coordination proceedings, those proceedings shall not be included in the group coordination proceedings.
+
+**2.** The powers of the court referred to in Article 68 or of the coordinator arising from those proceedings shall have no effect as regards that member, and shall entail no costs for that member.
+
+<a id="art_66"></a>
+
+### Article 66 — Choice of court for group coordination proceedings
+
+**1.** Where at least two-thirds of all insolvency practitioners appointed in insolvency proceedings of the members of the group have agreed that a court of another Member State having jurisdiction is the most appropriate court for the opening of group coordination proceedings, that court shall have exclusive jurisdiction.
+
+**2.** The choice of court shall be made by joint agreement in writing or evidenced in writing. It may be made until such time as group coordination proceedings have been opened in accordance with Article 68.
+
+**3.** Any court other than the court seised under paragraph 1 shall decline jurisdiction in favour of that court.
+
+**4.** The request for the opening of group coordination proceedings shall be submitted to the court agreed in accordance with Article 61.
+
+<a id="art_67"></a>
+
+### Article 67 — Consequences of objections to the proposed coordinator
+
+Where objections to the person proposed as coordinator have been received from an insolvency practitioner which does not also object to the inclusion in the group coordination proceedings of the member in respect of which it has been appointed, the court may refrain from appointing that person and invite the objecting insolvency practitioner to submit a new request in accordance with Article 61(3).
+
+<a id="art_68"></a>
+
+### Article 68 — Decision to open group coordination proceedings
+
+**1.** After the period referred to in Article 64(2) has elapsed, the court may open group coordination proceedings where it is satisfied that the conditions of Article 63(1) are met. In such a case, the court shall:(a) appoint a coordinator;(b) decide on the outline of the coordination; and(c) decide on the estimation of costs and the share to be paid by the group members.
+
+**2.** The decision opening group coordination proceedings shall be brought to the notice of the participating insolvency practitioners and of the coordinator.
+
+<a id="art_69"></a>
+
+### Article 69 — Subsequent opt-in by insolvency practitioners
+
+**1.** In accordance with its national law, any insolvency practitioner may request, after the court decision referred to in Article 68, the inclusion of the proceedings in respect of which it has been appointed, where:(a) there has been an objection to the inclusion of the insolvency proceedings within the group coordination proceedings; or(b) insolvency proceedings with respect to a member of the group have been opened after the court has opened group coordination proceedings.
+
+**2.** Without prejudice to paragraph 4, the coordinator may accede to such a request, after consulting the insolvency practitioners involved, where(a) he or she is satisfied that, taking into account the stage that the group coordination proceedings has reached at the time of the request, the criteria set out in points (a) and (b) of Article 63(1) are met; or(b) all insolvency practitioners involved agree, subject to the conditions in their national law.
+
+**3.** The coordinator shall inform the court and the participating insolvency practitioners of his or her decision pursuant to paragraph 2 and of the reasons on which it is based.
+
+**4.** Any participating insolvency practitioner or any insolvency practitioner whose request for inclusion in the group coordination proceedings has been rejected may challenge the decision referred to in paragraph 2 in accordance with the procedure set out under the law of the Member State in which the group coordination proceedings have been opened.
+
+<a id="art_70"></a>
+
+### Article 70 — Recommendations and group coordination plan
+
+**1.** When conducting their insolvency proceedings, insolvency practitioners shall consider the recommendations of the coordinator and the content of the group coordination plan referred to in Article 72(1).
+
+**2.** An insolvency practitioner shall not be obliged to follow in whole or in part the coordinator's recommendations or the group coordination plan.
+
+If it does not follow the coordinator's recommendations or the group coordination plan, it shall give reasons for not doing so to the persons or bodies that it is to report to under its national law, and to the coordinator.
+
+#### Subsection 2 — General provisions
+
+<a id="art_71"></a>
+
+### Article 71 — The coordinator
+
+**1.** The coordinator shall be a person eligible under the law of a Member State to act as an insolvency practitioner.
+
+**2.** The coordinator shall not be one of the insolvency practitioners appointed to act in respect of any of the group members, and shall have no conflict of interest in respect of the group members, their creditors and the insolvency practitioners appointed in respect of any of the group members.
+
+<a id="art_72"></a>
+
+### Article 72 — Tasks and rights of the coordinator
+
+**1.** The coordinator shall:(a) identify and outline recommendations for the coordinated conduct of the insolvency proceedings;(b) propose a group coordination plan that identifies, describes and recommends a comprehensive set of measures appropriate to an integrated approach to the resolution of the group members' insolvencies. In particular, the plan may contain proposals for:(i) the measures to be taken in order to re-establish the economic performance and the financial soundness of the group or any part of it;(ii) the settlement of intra-group disputes as regards intra-group transactions and avoidance actions;(iii) agreements between the insolvency practitioners of the insolvent group members.
+
+**2.** The coordinator may also:(a) be heard and participate, in particular by attending creditors' meetings, in any of the proceedings opened in respect of any member of the group;(b) mediate any dispute arising between two or more insolvency practitioners of group members;(c) present and explain his or her group coordination plan to the persons or bodies that he or she is to report to under his or her national law;(d) request information from any insolvency practitioner in respect of any member of the group where that information is or might be of use when identifying and outlining strategies and measures in order to coordinate the proceedings; and(e) request a stay for a period of up to 6 months of the proceedings opened in respect of any member of the group, provided that such a stay is necessary in order to ensure the proper implementation of the plan and would be to the benefit of the creditors in the proceedings for which the stay is requested; or request the lifting of any existing stay. Such a request shall be made to the court that opened the proceedings for which a stay is requested.
+
+**3.** The plan referred to in point (b) of paragraph 1 shall not include recommendations as to any consolidation of proceedings or insolvency estates.
+
+**4.** The coordinator's tasks and rights as defined under this Article shall not extend to any member of the group not participating in group coordination proceedings.
+
+**5.** The coordinator shall perform his or her duties impartially and with due care.
+
+**6.** Where the coordinator considers that the fulfilment of his or her tasks requires a significant increase in the costs compared to the cost estimate referred to in point (d) of Article 61(3), and in any case, where the costs exceed 10 % of the estimated costs, the coordinator shall:(a) inform without delay the participating insolvency practitioners; and(b) seek the prior approval of the court opening group coordination proceedings.
+
+<a id="art_73"></a>
+
+### Article 73 — Languages
+
+**1.** The coordinator shall communicate with the insolvency practitioner of a participating group member in the language agreed with the insolvency practitioner or, in the absence of an agreement, in the official language or one of the official languages of the institutions of the Union, and of the court which opened the proceedings in respect of that group member.
+
+**2.** The coordinator shall communicate with a court in the official language applicable to that court.
+
+<a id="art_74"></a>
+
+### Article 74 — Cooperation between insolvency practitioners and the coordinator
+
+**1.** Insolvency practitioners appointed in relation to members of a group and the coordinator shall cooperate with each other to the extent that such cooperation is not incompatible with the rules applicable to the respective proceedings.
+
+**2.** In particular, insolvency practitioners shall communicate any information that is relevant for the coordinator to perform his or her tasks.
+
+<a id="art_75"></a>
+
+### Article 75 — Revocation of the appointment of the coordinator
+
+The court shall revoke the appointment of the coordinator of its own motion or at the request of the insolvency practitioner of a participating group member where:
+
+(a) the coordinator acts to the detriment of the creditors of a participating group member; or
+
+(b) the coordinator fails to comply with his or her obligations under this Chapter.
+
+<a id="art_76"></a>
+
+### Article 76 — Debtor in possession
+
+The provisions applicable, under this Chapter, to the insolvency practitioner shall also apply, where appropriate, to the debtor in possession.
+
+<a id="art_77"></a>
+
+### Article 77 — Costs and distribution
+
+**1.** The remuneration for the coordinator shall be adequate, proportionate to the tasks fulfilled and reflect reasonable expenses.
+
+**2.** On having completed his or her tasks, the coordinator shall establish the final statement of costs and the share to be paid by each member, and submit this statement to each participating insolvency practitioner and to the court opening coordination proceedings.
+
+**3.** In the absence of objections by the insolvency practitioners within 30 days of receipt of the statement referred to in paragraph 2, the costs and the share to be paid by each member shall be deemed to be agreed. The statement shall be submitted to the court opening coordination proceedings for confirmation.
+
+**4.** In the event of an objection, the court that opened the group coordination proceedings shall, upon the application of the coordinator or any participating insolvency practitioner, decide on the costs and the share to be paid by each member in accordance with the criteria set out in paragraph 1 of this Article, and taking into account the estimation of costs referred to in Article 68(1) and, where applicable, Article 72(6).
+
+**5.** Any participating insolvency practitioner may challenge the decision referred to in paragraph 4 in accordance with the procedure set out under the law of the Member State where group coordination proceedings have been opened.
+
+## CHAPTER VI — DATA PROTECTION
+
+<a id="art_78"></a>
+
+### Article 78 — Data protection
+
+**1.** National rules implementing Directive 95/46/EC shall apply to the processing of personal data carried out in the Member States pursuant to this Regulation, provided that processing operations referred to in Article 3(2) of Directive 95/46/EC are not concerned.
+
+**2.** Regulation (EC) No 45/2001 shall apply to the processing of personal data carried out by the Commission pursuant to this Regulation.
+
+<a id="art_79"></a>
+
+### Article 79 — Responsibilities of Member States regarding the processing of personal data in national insolvency registers
+
+**1.** Each Member State shall communicate to the Commission the name of the natural or legal person, public authority, agency or any other body designated by national law to exercise the functions of controller in accordance with point (d) of Article 2 of Directive 95/46/EC, with a view to its publication on the European e-Justice Portal.
+
+**2.** Member States shall ensure that the technical measures for ensuring the security of personal data processed in their national insolvency registers referred to in Article 24 are implemented.
+
+**3.** Member States shall be responsible for verifying that the controller, designated by national law in accordance with point (d) of Article 2 of Directive 95/46/EC, ensures compliance with the principles of data quality, in particular the accuracy and the updating of data stored in national insolvency registers.
+
+**4.** Member States shall be responsible, in accordance with Directive 95/46/EC, for the collection and storage of data in national databases and for decisions taken to make such data available in the interconnected register that can be consulted via the European e-Justice Portal.
+
+**5.** As part of the information that should be provided to data subjects to enable them to exercise their rights, and in particular the right to the erasure of data, Member States shall inform data subjects of the accessibility period set for personal data stored in insolvency registers.
+
+<a id="art_80"></a>
+
+### Article 80 — Responsibilities of the Commission in connection with the processing of personal data
+
+**1.** The Commission shall exercise the responsibilities of controller pursuant to Article 2(d) of Regulation (EC) No 45/2001 in accordance with its respective responsibilities defined in this Article.
+
+**2.** The Commission shall define the necessary policies and apply the necessary technical solutions to fulfil its responsibilities within the scope of the function of controller.
+
+**3.** The Commission shall implement the technical measures required to ensure the security of personal data while in transit, in particular the confidentiality and integrity of any transmission to and from the European e-Justice Portal.
+
+**4.** The obligations of the Commission shall not affect the responsibilities of the Member States and other bodies for the content and operation of the interconnected national databases run by them.
+
+<a id="art_81"></a>
+
+### Article 81 — Information obligations
+
+Without prejudice to the information to be given to data subjects in accordance with Articles 11 and 12 of Regulation (EC) No 45/2001, the Commission shall inform data subjects, by means of publication through the European e-Justice Portal, about its role in the processing of data and the purposes for which those data will be processed.
+
+<a id="art_82"></a>
+
+### Article 82 — Storage of personal data
+
+As regards information from interconnected national databases, no personal data relating to data subjects shall be stored in the European e-Justice Portal. All such data shall be stored in the national databases operated by the Member States or other bodies.
+
+<a id="art_83"></a>
+
+### Article 83 — Access to personal data via the European e-Justice Portal
+
+Personal data stored in the national insolvency registers referred to in Article 24 shall be accessible via the European e-Justice Portal for as long as they remain accessible under national law.
+
+## CHAPTER VII — TRANSITIONAL AND FINAL PROVISIONS
+
+<a id="art_84"></a>
+
+### Article 84 — Applicability in time
+
+**1.** The provisions of this Regulation shall apply only to insolvency proceedings opened from 26 June 2017. Acts committed by a debtor before that date shall continue to be governed by the law which was applicable to them at the time they were committed.
+
+**2.** Notwithstanding Article 91 of this Regulation, Regulation (EC) No 1346/2000 shall continue to apply to insolvency proceedings which fall within the scope of that Regulation and which have been opened before 26 June 2017.
+
+<a id="art_85"></a>
+
+### Article 85 — Relationship to Conventions
+
+**1.** This Regulation replaces, in respect of the matters referred to therein, and as regards relations between Member States, the Conventions concluded between two or more Member States, in particular:(a) the Convention between Belgium and France on Jurisdiction and the Validity and Enforcement of Judgments, Arbitration Awards and Authentic Instruments, signed at Paris on 8 July 1899;(b) the Convention between Belgium and Austria on Bankruptcy, Winding-up, Arrangements, Compositions and Suspension of Payments (with Additional Protocol of 13 June 1973), signed at Brussels on 16 July 1969;(c) the Convention between Belgium and the Netherlands on Territorial Jurisdiction, Bankruptcy and the Validity and Enforcement of Judgments, Arbitration Awards and Authentic Instruments, signed at Brussels on 28 March 1925;(d) the Treaty between Germany and Austria on Bankruptcy, Winding-up, Arrangements and Compositions, signed at Vienna on 25 May 1979;(e) the Convention between France and Austria on Jurisdiction, Recognition and Enforcement of Judgments on Bankruptcy, signed at Vienna on 27 February 1979;(f) the Convention between France and Italy on the Enforcement of Judgments in Civil and Commercial Matters, signed at Rome on 3 June 1930;(g) the Convention between Italy and Austria on Bankruptcy, Winding-up, Arrangements and Compositions, signed at Rome on 12 July 1977;(h) the Convention between the Kingdom of the Netherlands and the Federal Republic of Germany on the Mutual Recognition and Enforcement of Judgments and other Enforceable Instruments in Civil and Commercial Matters, signed at The Hague on 30 August 1962;(i) the Convention between the United Kingdom and the Kingdom of Belgium providing for the Reciprocal Enforcement of Judgments in Civil and Commercial Matters, with Protocol, signed at Brussels on 2 May 1934;(j) the Convention between Denmark, Finland, Norway, Sweden and Iceland on Bankruptcy, signed at Copenhagen on 7 November 1933;(k) the European Convention on Certain International Aspects of Bankruptcy, signed at Istanbul on 5 June 1990;(l) the Convention between the Federative People's Republic of Yugoslavia and the Kingdom of Greece on the Mutual Recognition and Enforcement of Judgments, signed at Athens on 18 June 1959;(m) the Agreement between the Federative People's Republic of Yugoslavia and the Republic of Austria on the Mutual Recognition and Enforcement of Arbitral Awards and Arbitral Settlements in Commercial Matters, signed at Belgrade on 18 March 1960;(n) the Convention between the Federative People's Republic of Yugoslavia and the Italian Republic on Mutual Judicial Cooperation in Civil and Administrative Matters, signed at Rome on 3 December 1960;(o) the Agreement between the Socialist Federative Republic of Yugoslavia and the Kingdom of Belgium on Judicial Cooperation in Civil and Commercial Matters, signed at Belgrade on 24 September 1971;(p) the Convention between the Governments of Yugoslavia and France on the Recognition and Enforcement of Judgments in Civil and Commercial Matters, signed at Paris on 18 May 1971;(q) the Agreement between the Czechoslovak Socialist Republic and the Hellenic Republic on Legal Aid in Civil and Criminal Matters, signed at Athens on 22 October 1980, still in force between the Czech Republic and Greece;(r) the Agreement between the Czechoslovak Socialist Republic and the Republic of Cyprus on Legal Aid in Civil and Criminal Matters, signed at Nicosia on 23 April 1982, still in force between the Czech Republic and Cyprus;(s) the Treaty between the Government of the Czechoslovak Socialist Republic and the Government of the Republic of France on Legal Aid and the Recognition and Enforcement of Judgments in Civil, Family and Commercial Matters, signed at Paris on 10 May 1984, still in force between the Czech Republic and France;(t) the Treaty between the Czechoslovak Socialist Republic and the Italian Republic on Legal Aid in Civil and Criminal Matters, signed at Prague on 6 December 1985, still in force between the Czech Republic and Italy;(u) the Agreement between the Republic of Latvia, the Republic of Estonia and the Republic of Lithuania on Legal Assistance and Legal Relationships, signed at Tallinn on 11 November 1992;(v) the Agreement between Estonia and Poland on Granting Legal Aid and Legal Relations on Civil, Labour and Criminal Matters, signed at Tallinn on 27 November 1998;(w) the Agreement between the Republic of Lithuania and the Republic of Poland on Legal Assistance and Legal Relations in Civil, Family, Labour and Criminal Matters, signed at Warsaw on 26 January 1993;(x) the Convention between the Socialist Republic of Romania and the Hellenic Republic on legal assistance in civil and criminal matters and its Protocol, signed at Bucharest on 19 October 1972;(y) the Convention between the Socialist Republic of Romania and the French Republic on legal assistance in civil and commercial matters, signed at Paris on 5 November 1974;(z) the Agreement between the People's Republic of Bulgaria and the Hellenic Republic on Legal Assistance in Civil and Criminal Matters, signed at Athens on 10 April 1976;(aa) the Agreement between the People's Republic of Bulgaria and the Republic of Cyprus on Legal Assistance in Civil and Criminal Matters, signed at Nicosia on 29 April 1983;(ab) the Agreement between the Government of the People's Republic of Bulgaria and the Government of the French Republic on Mutual Legal Assistance in Civil Matters, signed at Sofia on 18 January 1989;(ac) the Treaty between Romania and the Czech Republic on judicial assistance in civil matters, signed at Bucharest on 11 July 1994;(ad) the Treaty between Romania and the Republic of Poland on legal assistance and legal relations in civil cases, signed at Bucharest on 15 May 1999.
+
+**2.** The Conventions referred to in paragraph 1 shall continue to have effect with regard to proceedings opened before the entry into force of Regulation (EC) No 1346/2000.
+
+**3.** This Regulation shall not apply:(a) in any Member State, to the extent that it is irreconcilable with the obligations arising in relation to bankruptcy from a convention concluded by that Member State with one or more third countries before the entry into force of Regulation (EC) No 1346/2000;(b) in the United Kingdom of Great Britain and Northern Ireland, to the extent that is irreconcilable with the obligations arising in relation to bankruptcy and the winding-up of insolvent companies from any arrangements with the Commonwealth existing at the time Regulation (EC) No 1346/2000 entered into force.
+
+<a id="art_86"></a>
+
+### Article 86 — Information on national and Union insolvency law
+
+**1.** The Member States shall provide, within the framework of the European Judicial Network in civil and commercial matters established by Council Decision 2001/470/EC (6), and with a view to making the information available to the public, a short description of their national legislation and procedures relating to insolvency, in particular relating to the matters listed in Article 7(2).
+
+**2.** The Member States shall update the information referred to in paragraph 1 regularly.
+
+**3.** The Commission shall make information concerning this Regulation available to the public.
+
+<a id="art_87"></a>
+
+### Article 87 — Establishment of the interconnection of registers
+
+The Commission shall adopt implementing acts establishing the interconnection of insolvency registers as referred to in Article 25. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 89(3).
+
+<a id="art_88"></a>
+
+### Article 88 — Establishment and subsequent amendment of standard forms
+
+The Commission shall adopt implementing acts establishing and, where necessary, amending the forms referred to in Article 27(4), Articles 54 and 55 and Article 64(2). Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 89(2).
+
+<a id="art_89"></a>
+
+### Article 89 — Committee procedure
+
+**1.** The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+**2.** Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+**3.** Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+<a id="art_90"></a>
+
+### Article 90 — Review clause
+
+**1.** No later than 27 June 2027, and every 5 years thereafter, the Commission shall present to the European Parliament, the Council and the European Economic and Social Committee a report on the application of this Regulation. The report shall be accompanied where necessary by a proposal for adaptation of this Regulation.
+
+**2.** No later than 27 June 2022, the Commission shall present to the European Parliament, the Council and the European Economic and Social Committee a report on the application of the group coordination proceedings. The report shall be accompanied where necessary by a proposal for adaptation of this Regulation.
+
+**3.** No later than 1 January 2016, the Commission shall submit to the European Parliament, the Council and the European Economic and Social Committee a study on the cross-border issues in the area of directors' liability and disqualifications.
+
+**4.** No later than 27 June 2020, the Commission shall submit to the European Parliament, the Council and the European Economic and Social Committee a study on the issue of abusive forum shopping.
+
+<a id="art_91"></a>
+
+### Article 91 — Repeal
+
+Regulation (EC) No 1346/2000 is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex D to this Regulation.
+
+<a id="art_92"></a>
+
+### Article 92 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+It shall apply from 26 June 2017, with the exception of:
+
+(a) Article 86, which shall apply from 26 June 2016;
+
+(b) Article 24(1), which shall apply from 26 June 2018; and
+
+(c) Article 25, which shall apply from 26 June 2019.

@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014l0065r(07):2016-10-08",
+  "language": "fr",
+  "title": "Corrigendum to Directive 2014/65/EU",
+  "valid_from": "2016-10-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014l0065r(07)/versions/2016-10-08/fr.xml",
+    "sha256": "2176b9f790bb5bca18db1d7fbc3f4f8560ad83232f7bca045eb320bf645972c0",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014L0065R%2807%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32014l0065r(07):2016-10-08#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "8.10.2016 FR Journal officiel de l'Union européenne L 273/35 Rectificatif à la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE ( «Journal officiel de l'Union européenne» L 173 du 12 juin 2014 ) Page 447, article 61, paragraphe 5: au lieu de: «5. L'AEMF élabore des projets de normes techniques d'exécution pour établir des formulaires, modèles et procédures normalisés concernant les notifications ou la fourniture d'informations prévues au paragraphe 2 du présent article et à l'article 63, paragraphe 4.» lire: «5. L'AEMF élabore des projets de normes techniques d'exécution pour établir des formulaires, modèles et procédures normalisés concernant les notifications ou la fourniture d'informations prévues au paragraphe 2 du présent article et à l'article 63, paragraphe 3.»",
+      "text_sha256": "aa41b2e84d57c4d2c15d3457c4e030fd08fa5a74cf5bf97d4429218cc01ec45a",
+      "md_span": {
+        "start": 607,
+        "end": 1520
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

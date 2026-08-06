@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32013r1224:2013-11-29",
+  "language": "en",
+  "title": "Commission Regulation (EU) No\u00A01224/2013 of 29\u00A0November 2013 amending Regulation (EC) No\u00A080…",
+  "valid_from": "2013-11-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32013r1224/versions/2013-11-29/en.xml",
+    "sha256": "1c206974cfffd4451ca64df253c717e6805f4cbbcad7472d8c1d809c68306be8",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R1224"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32013r1224:2013-11-29#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn Article 45 of Regulation (EC) No 800/2008, the second paragraph is replaced by the following:\n\n‘It shall apply until 30 June 2014’.",
+      "text_sha256": "e5989a01aadeefdb0ba4abdf9e7e772889a4afe36228392d772a480ba9645283",
+      "md_span": {
+        "start": 636,
+        "end": 781
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32013r1224:2013-11-29#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nWhere a Member State wishes to prolong, as a consequence of the amendment of Regulation (EC) No 800/2008, measures in respect of which summary information was submitted to the Commission in accordance with Article 9 of Regulation (EC) No 800/2008, summary information regarding the prolongation of those measures shall be deemed to have been communicated to the Commission, provided no substantive amendment is made to the measures concerned.",
+      "text_sha256": "b7c5b82fa7d5c49e0246cf9ff7e778e2816266e8d11546b1f4874efe6b798e7f",
+      "md_span": {
+        "start": 814,
+        "end": 1267
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32013r1224:2013-11-29#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c3e9b6d12a2ea50109c02055af27a7c83edabe1f993c70d120b196469959d6a5",
+      "md_span": {
+        "start": 1300,
+        "end": 1441
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

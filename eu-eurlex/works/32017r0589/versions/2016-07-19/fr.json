@@ -1,0 +1,524 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0589:2016-07-19",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/589 of 19 July 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2016-07-19",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0589/versions/2016-07-19/fr.xml",
+    "sha256": "1ca1ead6c1f13a9bafcc1ebf22773b12aa8fd95eb10178ca72013fdec94c7349",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R0589"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nPour mettre en place et contrôler leurs systèmes et algorithmes de négociation, les entreprises d'investissement appliquent un dispositif de gouvernance clair et formalisé, intégré à leur cadre global de gouvernance et de prise de décision, qui tient compte de la nature, de l'importance et de la complexité de leur activité et prévoit:\n\n| a) | des règles claires en matière de responsabilité, y compris les procédures selon lesquelles le développement, le déploiement et les mises à jour ultérieures des algorithmes de négociation doivent être approuvés, et les problèmes décelés lors du contrôle de ces algorithmes, résolus; |\n| --- | --- |\n\n| b) | des procédures efficaces de transmission de l'information au sein de l'entreprise, permettant d'obtenir et d'appliquer des instructions en temps utile et efficacement; |\n| --- | --- |\n\n| c) | une séparation des tâches et responsabilités incombant respectivement aux tables de négociation, d'une part, et aux fonctions de support, y compris les fonctions de contrôle des risques et de vérification de la conformité, d'autre part, afin qu'aucune activité de négociation non autorisée ne puisse être dissimulée. |\n| --- | --- |",
+      "text_sha256": "1bec4a9fd893517e8e4d8bdc43fd493a87f69429362d157084db6f02798756f5",
+      "md_span": {
+        "start": 641,
+        "end": 1833
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les entreprises d'investissement s'assurent que les membres de leur personnel chargés de la vérification de la conformité comprennent au moins de façon générale la manière dont leurs systèmes de trading algorithmique et leurs algorithmes de négociation fonctionnent. Les membres du personnel chargés de la vérification de la conformité sont en contact permanent avec les personnes au sein de l'entreprise qui possèdent une connaissance technique approfondie de ses systèmes de trading algorithmique et de ses algorithmes de négociation.\n\n2. Les entreprises d'investissement veillent également à ce que les membres de leur personnel chargés de la vérification de la conformité puissent à tout moment entrer en contact avec la ou les personnes au sein de l'entreprise qui ont accès à la fonctionnalité visée à l'article 12 («mécanisme de coupe-circuit»), ou qu'ils aient un accès direct à cette fonctionnalité ainsi qu'aux personnes responsables de chaque système ou algorithme de négociation.\n\n3. Lorsqu'une entreprise d'investissement externalise tout ou partie de sa fonction de vérification de la conformité à un tiers, elle donne à ce tiers le même accès à l'information que celui qu'elle donnerait à des membres de son personnel qu'elle aurait chargés de la vérification de la conformité. Elle s'assure que, dans le cadre de cette externalisation:\n\n| a) | la confidentialité des données est garantie; |\n| --- | --- |\n\n| b) | la fonction de vérification de la conformité peut être auditée par des auditeurs internes et externes ou par l'autorité compétente. |\n| --- | --- |",
+      "text_sha256": "43994d640c1af3ea929b2306a5af9f6b337e740cff81aadd3dfb43e1b25bee35",
+      "md_span": {
+        "start": 1866,
+        "end": 3456
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les entreprises d'investissement emploient un nombre suffisant de personnes possédant les compétences nécessaires pour gérer leurs systèmes de trading algorithmique et algorithmes de négociation, ainsi que de connaissances techniques suffisantes:\n\n| a) | des systèmes et algorithmes en question; |\n| --- | --- |\n\n| b) | du test et du suivi de ces systèmes et algorithmes; |\n| --- | --- |\n\n| c) | des stratégies de négociation que l'entreprise met en œuvre par l'intermédiaire de ces systèmes et algorithmes; |\n| --- | --- |\n\n| d) | des obligations légales de l'entreprise. |\n| --- | --- |\n\n2. Les entreprises d'investissement spécifient les compétences nécessaires visées au paragraphe 1. Les personnes visées au paragraphe 1 possèdent ces compétences nécessaires au moment de leur recrutement ou les acquièrent ensuite par la formation. Les entreprises d'investissement veillent à ce que les compétences de ces personnes soient maintenues à jour par la formation continue et les évaluent régulièrement.\n\n3. La formation professionnelle visée au paragraphe 2 est adaptée à l'expérience et aux responsabilités des personnes concernées, compte tenu de la nature, de l'importance et de la complexité des activités de l'entreprise. En particulier, les personnes intervenant dans la soumission des ordres reçoivent une formation sur les systèmes de soumission des ordres et les abus de marché.\n\n4. Les entreprises d'investissement s'assurent que les membres de leur personnel chargés des fonctions de contrôle du risque et de vérification de la conformité du trading algorithmique disposent:\n\n| a) | d'une connaissance suffisante du trading algorithmique et des stratégies en la matière; |\n| --- | --- |\n\n| b) | de compétences suffisantes pour donner suite aux informations fournies par les alertes automatiques; |\n| --- | --- |\n\n| c) | d'une autorité suffisante pour s'opposer aux membres du personnel responsables du trading algorithmique, lorsque cette activité crée des conditions de négociation de nature à perturber le bon fonctionnement du marché ou laisse soupçonner des pratiques d'abus de marché. |\n| --- | --- |",
+      "text_sha256": "4d24ef4c917379d910e68efd862b723759b2ade6b8043d4a0960749d5c968303",
+      "md_span": {
+        "start": 3489,
+        "end": 5620
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les entreprises d'investissement qui recourent à l'externalisation ou à la passation de marchés pour les logiciels ou le matériel informatique qu'elles utilisent dans le cadre de leur activité de trading algorithmique demeurent pleinement responsables du respect des obligations qui leur incombent en vertu du présent règlement.\n\n2. Les entreprises d'investissement possèdent des connaissances suffisantes et la documentation nécessaire pour garantir le respect effectif du paragraphe 1 pour tout logiciel ou matériel informatique utilisé dans le cadre de leur activité de trading algorithmique qu'elles se sont procuré par l'externalisation ou une passation de marché.",
+      "text_sha256": "f9510c06814b90dbc92573cf87396324440bc332880b83d8d0b34ac168dbef8b",
+      "md_span": {
+        "start": 5653,
+        "end": 6336
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Avant le déploiement ou une mise à jour importante d'un système de trading algorithmique, d'un algorithme de négociation ou d'une stratégie de trading algorithmique, les entreprises d'investissement mettent en place des méthodes clairement définies pour développer et tester ce système, cet algorithme ou cette stratégie.\n\n2. Le déploiement ou toute mise à jour importante d'un système de trading algorithmique, d'un algorithme de négociation ou d'une stratégie de trading algorithmique est approuvé(e) par une personne désignée par la direction générale de l'entreprise d'investissement.\n\n3. Les méthodes visées au paragraphe 1 couvrent la conception, l'approbation, les performances et l'enregistrement des performances du système de trading algorithmique, de l'algorithme de négociation ou de la stratégie de trading algorithmique: Elles prévoient en outre la répartition des responsabilités, l'allocation de ressources suffisantes et les procédures d'obtention d'instructions au sein de l'entreprise.\n\n4. Les méthodes visées au paragraphe 1 garantissent que le système de trading algorithmique, l'algorithme de négociation ou la stratégie de trading algorithmique:\n\n| a) | ne se comporte pas d'une manière non voulue; |\n| --- | --- |\n\n| b) | respecte les obligations qui incombent à l'entreprise d'investissement en vertu du présent règlement; |\n| --- | --- |\n\n| c) | respecte les règles et les systèmes des plateformes de négociation auxquelles l'entreprise d'investissement a accès; |\n| --- | --- |\n\n| d) | ne contribue pas à créer des conditions de négociation de nature à perturber le bon fonctionnement du marché, continue à fonctionner efficacement en situation de tensions sur le marché et, si nécessaire dans de telles circonstances, permet la désactivation du système de trading algorithmique ou de l'algorithme de négociation. |\n| --- | --- |\n\n5. Les entreprises d'investissement adaptent leurs méthodes de test aux plateformes de négociation et aux marchés où l'algorithme de négociation sera déployé. Les entreprises d'investissement procèdent à des tests supplémentaires si des modifications importantes sont apportées au système de trading algorithmique ou à l'accès aux plateformes de négociation sur lesquelles le système de trading algorithmique, l'algorithme de négociation ou la stratégie de trading algorithmique doivent être déployés.\n\n6. Les paragraphes 2 à 5 ne s'appliquent qu'aux algorithmes induisant une exécution des ordres.\n\n7. Les entreprises d'investissement conservent une trace de toute modification importante apportée aux logiciels utilisés pour le trading algorithmique, qui leur permette de déterminer:\n\n| a) | quand une telle modification a été effectuée; |\n| --- | --- |\n\n| b) | la personne qui l'a effectuée; |\n| --- | --- |\n\n| c) | la personne qui l'a approuvée; |\n| --- | --- |\n\n| d) | la nature de la modification en question. |\n| --- | --- |",
+      "text_sha256": "5ca738af4b38cb1ceba4022c658f118786b10ac03a440e3cac369582ad7d4321",
+      "md_span": {
+        "start": 6369,
+        "end": 9272
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Les entreprises d'investissement testent la conformité de leurs systèmes de trading algorithmique et algorithmes de négociation avec:\n\n| a) | les systèmes de la plateforme de négociation dans chacun des cas suivants:i)lorsqu'elles accèdent à cette plateforme de négociation en tant que membre;ii)lorsqu'elles se connectent pour la première fois à cette plateforme de négociation par un dispositif d'accès sponsorisé;iii)en cas de modification importante des systèmes de cette plateforme de négociation;iv)avant le déploiement ou une mise à jour importante du système de trading algorithmique, de l'algorithme de négociation ou de la stratégie de trading algorithmique utilisé(e) par l'entreprise d'investissement; |\n| --- | --- |\n| i) | lorsqu'elles accèdent à cette plateforme de négociation en tant que membre; |\n| ii) | lorsqu'elles se connectent pour la première fois à cette plateforme de négociation par un dispositif d'accès sponsorisé; |\n| iii) | en cas de modification importante des systèmes de cette plateforme de négociation; |\n| iv) | avant le déploiement ou une mise à jour importante du système de trading algorithmique, de l'algorithme de négociation ou de la stratégie de trading algorithmique utilisé(e) par l'entreprise d'investissement; |\n\n| b) | les systèmes du fournisseur d'accès direct au marché dans chacun des cas suivants:i)lorsqu'elles se connectent pour la première fois à cette plateforme de négociation par un dispositif d'accès sponsorisé;ii)en cas de modification importante touchant la fonctionnalité d'accès direct au marché offerte par le fournisseur en question;iii)avant le déploiement ou une mise à jour importante du système de trading algorithmique, de l'algorithme de négociation ou de la stratégie de trading algorithmique utilisé(e) par l'entreprise d'investissement. |\n| --- | --- |\n| i) | lorsqu'elles se connectent pour la première fois à cette plateforme de négociation par un dispositif d'accès sponsorisé; |\n| ii) | en cas de modification importante touchant la fonctionnalité d'accès direct au marché offerte par le fournisseur en question; |\n| iii) | avant le déploiement ou une mise à jour importante du système de trading algorithmique, de l'algorithme de négociation ou de la stratégie de trading algorithmique utilisé(e) par l'entreprise d'investissement. |\n\n2. Les tests de conformité permettent de vérifier si les éléments fondamentaux du système de trading algorithmique ou l'algorithme de négociation fonctionnent correctement et conformément aux exigences de la plateforme de négociation ou du fournisseur d'accès direct au marché. À cet effet, les tests permettent de vérifier que le système de trading algorithmique ou l'algorithme de négociation:\n\n| a) | interagit comme prévu avec la logique d'appariement de la plateforme de négociation; |\n| --- | --- |\n\n| b) | traite adéquatement les flux de données téléchargés de la plateforme de négociation. |\n| --- | --- |",
+      "text_sha256": "b67dd4acfeeaaef16054bd7944ee558f3c71a030e045224cec2b0c5702ac103a",
+      "md_span": {
+        "start": 9305,
+        "end": 12247
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Les entreprises d'investissement veillent à ce que les tests visant à vérifier la conformité avec les critères prévus à l'article 5, paragraphe 4, points a), b) et d), soient réalisés dans un environnement qui est distinct de leur environnement de production et qui sert spécifiquement au développement et au test des systèmes de trading algorithmique et des algorithmes de négociation.\n\nAux fins du premier alinéa, on entend par «environnement de production» l'environnement dans lequel les systèmes de trading algorithmique sont effectivement déployés, qui recouvre les logiciels et le matériel informatique utilisé par les traders, le routage des ordres vers les plateformes de négociation, les données de marché, les bases de données dépendantes, les systèmes de contrôle du risque, la saisie de données, les systèmes d'analyse et les systèmes de traitement post-négociation.\n\n2. Les entreprises d'investissement peuvent satisfaire aux exigences relatives aux tests visées au paragraphe 1 en utilisant leur propre environnement de test ou un environnement de test fourni par une plateforme de négociation, un fournisseur d'AED ou un vendeur.\n\n3. Les entreprises d'investissement restent pleinement responsables du test de leurs systèmes de trading algorithmique, de leurs algorithmes de négociation ou de leurs stratégies de trading algorithmique, ainsi que de toute modification à y apporter.",
+      "text_sha256": "c15d1fd47832a3d25b1b2981ad213098906c0ba584c9ee8c097d7eb124feb26e",
+      "md_span": {
+        "start": 12280,
+        "end": 13691
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nAvant le déploiement d'un algorithme de négociation, les entreprises d'investissement prédéfinissent des limites concernant:\n\n| a) | le nombre d'instruments financiers négociés; |\n| --- | --- |\n\n| b) | le prix, la valeur et le nombre des ordres; |\n| --- | --- |\n\n| c) | les positions de stratégie; et |\n| --- | --- |\n\n| d) | le nombre de plateformes de négociation auxquelles les ordres sont transmis. |\n| --- | --- |",
+      "text_sha256": "d4ccdf5b18d3d0b0b34c92b135ca7d36e1e29d7d36db0eaea78a0f27fcccec82",
+      "md_span": {
+        "start": 13724,
+        "end": 14152
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Les entreprises d'investissement effectuent chaque année un processus d'autoévaluation et de validation, sur la base duquel elles émettent un rapport de validation. Dans le cadre de ce processus, elles réexaminent, évaluent et valident:\n\n| a) | leurs systèmes de trading algorithmique, leurs algorithmes de négociation et leurs stratégies de trading algorithmique; |\n| --- | --- |\n\n| b) | leur cadre de gouvernance, de reddition de compte et d'approbation; |\n| --- | --- |\n\n| c) | leurs mécanismes de continuité des activités; |\n| --- | --- |\n\n| d) | leur respect global de l'article 17 de la directive 2014/65/UE, compte tenu de la nature, de l'importance et de la complexité de leurs activités. |\n| --- | --- |\n\nL'autoévaluation comprend au moins une analyse du respect des critères énoncés à l'annexe I du présent règlement.\n\n2. La fonction de gestion des risques de l'entreprise d'investissement visée à l'article 23, paragraphe 2, du règlement délégué (UE) 2017/565 de la Commission (5), établit le rapport de validation et associe à cette tâche des membres du personnel disposant des connaissances techniques requises. La fonction de gestion des risques informe la fonction de vérification de la conformité de toute défaillance constatée dans le rapport de validation.\n\n3. Le rapport de validation est vérifié par la fonction d'audit interne de l'entreprise d'investissement, lorsqu'une telle fonction existe, et il est soumis à l'approbation de sa direction générale.\n\n4. Les entreprises d'investissement remédient à toute défaillance constatée dans le rapport de validation.\n\n5. Lorsqu'une entreprise d'investissement n'a pas institué de fonction de gestion des risques telle que visée à l'article 23, paragraphe 2, du règlement délégué (UE) 2017/565, les exigences imposées par le présent règlement à la fonction de gestion des risques s'appliquent à toute autre fonction instituée par cette entreprise d'investissement conformément à l'article 23, paragraphe 2, du règlement délégué (UE) 2017/565.",
+      "text_sha256": "8fab5818f6364ddded2f3d13d9764d35b761b22150dc6d1dbc1a68ddd48e101c",
+      "md_span": {
+        "start": 14185,
+        "end": 16206
+      },
+      "citations": [
+        {
+          "href": "#ntr5-L_2017087FR.01041701-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nDans le cadre de l'autoévaluation annuelle prévue à l'article 9, les entreprises d'investissement soumettent leurs systèmes de trading algorithmique et leurs procédures et contrôles prévus aux articles 12 à 18 à des tests visant à vérifier que ceux-ci peuvent résister à un accroissement des flux d'ordres ou des tensions sur le marché. Elles conçoivent ces tests en tenant compte de la nature de leur activité de négociation et de leurs systèmes de négociation. Elles veillent aussi à ce qu'ils soient exécutés de manière à ne pas porter atteinte à l'environnement de production. Ces tests comprennent:\n\n| a) | des tests portant sur un haut volume de messages, qui se fondent sur le plus grand nombre de messages reçus et envoyés par l'entreprise d'investissement au cours des six derniers mois, multiplié par deux; |\n| --- | --- |\n\n| b) | des tests portant sur un haut volume de négociation, qui se fondent sur le plus haut volume de négociation atteint par l'entreprise d'investissement au cours des six derniers mois, multiplié par deux. |\n| --- | --- |",
+      "text_sha256": "67e872485f309c89ed93a1e79d7c52eb18eaf0f268789058102939672b0b36f4",
+      "md_span": {
+        "start": 16241,
+        "end": 17310
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Les entreprises d'investissement veillent à ce que tout changement important qu'il est proposé d'apporter à l'environnement de production lié au trading algorithmique soit précédé d'une analyse de ce changement effectuée par une personne désignée par leur direction générale. La profondeur de cette analyse est proportionnée à l'ampleur du changement envisagé.\n\n2. Les entreprises d'investissement mettent en place des procédures visant à garantir que tout changement apporté à la fonctionnalité de leurs systèmes est communiqué aux traders chargés de l'algorithme de négociation, ainsi qu'aux fonctions de vérification de la conformité et de gestion des risques.",
+      "text_sha256": "85387ee9c3728bfb70eeab8897b46ae00b4878c7a69544d2d34b3b7df4270cd9",
+      "md_span": {
+        "start": 17345,
+        "end": 18023
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Les entreprises d'investissement sont en mesure d'annuler immédiatement, à titre de mesure d'urgence, tout ordre ou l'ensemble des ordres non encore exécutés qu'elles ont soumis à toute plateforme de négociation à laquelle elles sont connectées, ou à l'ensemble des plateformes de négociation auxquelles elles sont connectées (mécanisme de coupe-circuit).\n\n2. Aux fins du paragraphe 1, les ordres non encore exécutés incluent les ordres provenant des traders, des tables de négociation ou, le cas échéant, des clients.\n\n3. Aux fins des paragraphes 1 et 2, les entreprises d'investissement sont en mesure de déterminer quel algorithme et quel trader, quelle table de négociation ou, le cas échéant, quel client est à l'origine de chaque ordre qui a été transmis à une plateforme de négociation.",
+      "text_sha256": "828d1db171436cbcdc2ff5e25745fc6d93cb938c43525e18768b301a8166216f",
+      "md_span": {
+        "start": 18058,
+        "end": 18866
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Les entreprises d'investissement assurent le suivi de toutes les activités de négociation menées par l'intermédiaire de leurs systèmes de négociation, y compris celles de leurs clients, pour détecter d'éventuels signes de manipulation de marché telle que définie à l'article 12 du règlement (UE) no 596/2014.\n\n2. Aux fins du paragraphe 1, les entreprises d'investissement établissent et maintiennent un système de surveillance automatique qui assure un suivi efficace des ordres et des transactions, génère des alertes et des rapports et, le cas échéant, emploie des outils de visualisation.\n\n3. Les systèmes de surveillance automatiques couvrent l'intégralité des activités de négociation menées par les entreprises d'investissement et tous les ordres qu'elles soumettent. Ils sont conçus en fonction de la nature, de l'étendue et de la complexité des activités de négociation des entreprises d'investissement, notamment en fonction du type et du volume d'instruments qu'elles négocient, de la taille et de la complexité de leur flux d'ordres et des marchés sur lesquels elles opèrent.\n\n4. Les entreprises d'investissement confrontent tout signalement d'activité de négociation suspecte généré par leur système de surveillance automatique pendant la phase d'enquête avec leurs autres activités de négociation connexes.\n\n5. Le système de surveillance automatique d'une entreprise d'investissement peut s'adapter à l'évolution des obligations réglementaires et des activités de négociation de celle-ci, y compris aux modifications de sa stratégie de négociation ou de celle de ses clients.\n\n6. Les entreprises d'investissement réexaminent au moins une fois par an leur système de surveillance automatique pour vérifier que ce dernier, ainsi que ses paramètres et filtres, sont toujours adaptés à leurs obligations réglementaires et à leurs activités de négociation, notamment en ce qui concerne l'aptitude du système à produire le moins possible d'alertes de surveillance faussement positives ou faussement négatives.\n\n7. En utilisant un niveau de granularité temporelle suffisamment précis, les systèmes de surveillance automatiques des entreprises d'investissement sont capables de lire, rejouer et analyser les données relatives aux ordres et aux transactions sur une base ex post, et sont dotés d'une capacité suffisante pour pouvoir opérer dans un environnement de négociation automatisé à faible latence, le cas échéant. Ils sont également capables de générer au début de la journée de négociation suivante ou, lorsque des processus manuels interviennent, à la fin de la journée de négociation suivante, des alertes utilisables. Les systèmes de surveillance des entreprises d'investissement s'accompagnent d'une documentation et de procédures adéquates permettant de donner suite efficacement aux alertes qu'ils génèrent.\n\n8. Le personnel d'une entreprise d'investissement chargé du suivi des activités de négociation de celle-ci aux fins des paragraphes 1 à 7 du présent article signale à la fonction de vérification de la conformité toute activité de négociation susceptible de ne pas être conforme aux politiques et aux procédures de l'entreprise d'investissement ou à ses obligations réglementaires. La fonction de vérification de la conformité analyse cette information et prend les mesures appropriées. Ces mesures comprennent l'information de la plate-forme de négociation ou le dépôt d'une déclaration d'ordres ou de transactions suspects conformément à l'article 16 du règlement (UE) no 596/2014.\n\n9. Les entreprises d'investissement veillent à ce que leurs enregistrements des transactions et informations sur les comptes soient exacts, complets et cohérents en vérifiant dès que possible la concordance entre leurs propres journaux de négociation électronique et les enregistrements fournis par leurs partenaires commerciaux (plates-formes de négociation, courtiers, membres compensateurs, contreparties centrales, fournisseurs de données ou autres), selon le cas et en fonction de la nature, de l'étendue et de la complexité de leur activité.",
+      "text_sha256": "4eae165ce2981b577373ebbeb23c310e100b664274d88b792801a900ed5587ac",
+      "md_span": {
+        "start": 18901,
+        "end": 22975
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Les entreprises d'investissement disposent, pour leurs systèmes de trading algorithmique, de plans de continuité des activités adaptés à la nature, à l'étendue et à la complexité de leur activité. Ces plans sont consignés sur un support durable.\n\n2. Les plans de continuité des activités d'une entreprise d'investissement remédient efficacement aux incidents perturbateurs et, le cas échéant, assurent une reprise rapide du trading algorithmique. Ces plans sont adaptés aux systèmes de négociation de chacune des plates-formes de négociation utilisées et comportent les éléments suivants:\n\n| a) | un cadre de gouvernance pour l'élaboration et le déploiement du plan de continuité des activités; |\n| --- | --- |\n\n| b) | un éventail de scénarios défavorables possibles concernant le fonctionnement des systèmes de trading algorithmique, parmi lesquels l'indisponibilité des systèmes, du personnel, du lieu de travail, des fournisseurs externes ou des centres de données ou la perte ou altération de données et documents critiques; |\n| --- | --- |\n\n| c) | les procédures régissant le transfert du système de négociation vers un site de sauvegarde et son exploitation depuis ce site, lorsque la nature, l'étendue et la complexité des activités de trading algorithmique de l'entreprise d'investissement font qu'il est approprié de disposer d'un tel site; |\n| --- | --- |\n\n| d) | la formation du personnel sur l'application des plans de continuité des activités; |\n| --- | --- |\n\n| e) | la politique d'utilisation de la fonctionnalité visée à l'article 12; |\n| --- | --- |\n\n| f) | les modalités de mise à l'arrêt de l'algorithme de négociation ou du système de négociation concerné, le cas échéant; |\n| --- | --- |\n\n| g) | les dispositifs de remplacement permettant à l'entreprise d'investissement de gérer l'encours d'ordres et les positions ouvertes. |\n| --- | --- |\n\n3. Les entreprises d'investissement veillent à ce que leur algorithme de négociation ou système de négociation puisse être mis à l'arrêt conformément à leur plan de continuité des activités sans que cela crée des conditions de négociation de nature à perturber le marché.\n\n4. Les entreprises d'investissement réexaminent et testent leurs plans de continuité des activités une fois par an et les modifient à la lumière de ce réexamen.",
+      "text_sha256": "5810b029abca465063859ba395f4a5e0409ee7921252447fb8fe1684119a4cf5",
+      "md_span": {
+        "start": 23010,
+        "end": 25322
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Les entreprises d'investissement appliquent, pour tous les instruments financiers, les dispositifs de contrôle pré-négociation suivants lors de l'entrée des ordres:\n\n| a) | des fourchettes de prix, qui bloquent ou annulent automatiquement les ordres ne respectant pas certains paramètres de prix, en opérant une distinction entre les différents instruments financiers, aussi bien ordre par ordre que sur une période de temps donnée; |\n| --- | --- |\n\n| b) | une valeur maximale des ordres, qui empêche les ordres d'une valeur inhabituellement élevée d'entrer dans le carnet d'ordres; |\n| --- | --- |\n\n| c) | un volume maximal d'ordres, qui empêche les ordres d'une taille particulièrement élevée d'entrer dans le carnet d'ordres; |\n| --- | --- |\n\n| d) | des limites maximales de messages, qui empêchent l'envoi aux carnets d'ordres d'un nombre excessif de messages concernant la soumission, la modification ou l'annulation d'un ordre. |\n| --- | --- |\n\n2. Les entreprises d'investissement intègrent immédiatement tous les ordres envoyés à une plate-forme de négociation dans le calcul des limites pré-négociation visées au paragraphe 1.\n\n3. Les entreprises d'investissement disposent de régulateurs d'exécutions automatiques répétées (repeated automated execution throttles) qui contrôlent le nombre de fois où une stratégie de trading algorithmique a été appliquée. Après un nombre prédéterminé d'exécutions répétées, le système de négociation est automatiquement désactivé jusqu'à ce qu'un membre désigné du personnel le réactive.\n\n4. Les entreprises d'investissement fixent des limites de risque de marché et de risque de crédit qui sont fondées sur leurs fonds propres, leurs accords de compensation, leur stratégie de négociation, leur tolérance au risque, leur expérience et certaines variables, telles que la longueur de leur pratique du trading algorithmique et leur recours à des prestataires tiers. Les entreprises d'investissement ajustent ces limites de risque de marché et de risque de crédit pour tenir compte du fait que l'effet des ordres sur le marché concerné peut varier selon les différents niveaux de prix et de liquidité.\n\n5. Les entreprises d'investissement bloquent ou annulent automatiquement les ordres d'un trader lorsqu'elles apprennent que ce dernier n'est pas autorisé à négocier un instrument financier particulier. Les entreprises d'investissement bloquent ou annulent automatiquement les ordres qui risquent d'entraîner un dépassement de leurs propres seuils de risque. Les dispositifs de contrôle sont appliqués, le cas échéant, aux expositions sur chaque client, instrument financier, trader et table de négociation ou à l'entreprise d'investissement dans son ensemble.\n\n6. Les entreprises d'investissement disposent de procédures et mécanismes pour gérer les ordres qui ont été bloqués par leurs dispositifs de contrôle pré-négociation mais qu'elles souhaitent néanmoins soumettre. Ces procédures et mécanismes s'appliquent à une transaction spécifique de façon temporaire et dans des circonstances exceptionnelles. Ils font l'objet d'une vérification par la fonction de gestion des risques et sont soumis à une autorisation par une personne désignée de l'entreprise d'investissement.",
+      "text_sha256": "557b2d48bb6f46990986aa257a500bd86690149db588cfb52b634c446ffa7e6b",
+      "md_span": {
+        "start": 25357,
+        "end": 28590
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Pendant les heures où elles envoient des ordres à des plates-formes de négociation, les entreprises d'investissement assurent le suivi en temps réel de toutes les activités de trading algorithmique menées avec leur code de négociation, y compris celles de leurs clients, pour détecter d'éventuels signes de perturbation du marché, y compris les activités de négociation couvrant plusieurs marchés, catégories d'actifs ou produits, lorsque les entreprises ou leurs clients exercent de telles activités.\n\n2. Le suivi en temps réel de l'activité de trading algorithmique est assuré par le trader responsable de l'algorithme de trading ou de la stratégie de trading algorithmique, et par la fonction de gestion des risques ou par une fonction indépendante de contrôle des risques mise en place aux fins de la présente disposition. Que le suivi en temps réel soit assuré par un membre du personnel de l'entreprise d'investissement ou par un tiers, cette fonction de contrôle des risques est considérée comme indépendante à condition de ne pas être hiérarchiquement dépendante du trader et de pouvoir s'opposer à ce dernier, si cela est approprié et nécessaire, au sein du cadre de gouvernance visé à l'article 1er.\n\n3. Les membres du personnel chargés du suivi en temps réel réagissent rapidement aux problèmes opérationnels et réglementaires et prennent au besoin des mesures correctrices.\n\n4. Les entreprises d'investissement veillent à ce que l'autorité compétente, les plates-formes de négociation concernées et, le cas échéant, les fournisseurs d'AED, les membres compensateurs et les contreparties centrales puissent à tout moment entrer en contact avec les membres du personnel chargés du suivi en temps réel. À cette fin, les entreprises d'investissement indiquent et testent périodiquement leurs canaux de communication, notamment leurs procédures de contact en dehors des heures de négociation, afin qu'en cas d'urgence, les membres du personnel possédant le niveau adéquat d'autorité puissent se joindre mutuellement à temps.\n\n5. Les systèmes de suivi en temps réel génèrent des alertes en temps réel pour aider les membres du personnel à identifier les activités de négociation imprévues réalisées au moyen d'un algorithme. Les entreprises d'investissement disposent d'un processus permettant de prendre des mesures correctrices le plus tôt possible après qu'une alerte a été générée, y compris, le cas échéant, de procéder à un retrait ordonné du marché. Ces systèmes émettent également des alertes concernant les algorithmes et les ordres par AED déclenchant les coupe-circuit d'une plate-forme de négociation. Les alertes en temps réel sont générées dans un délai de cinq secondes après l'événement concerné.",
+      "text_sha256": "6767403cf7b5da4fbe3f7cd69684c1cfb30e46bca84caa0a616e3cbd7373d731",
+      "md_span": {
+        "start": 28625,
+        "end": 31358
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. Les entreprises d'investissement appliquent en continu les contrôles post-négociation qu'elles ont mis en place. Lorsqu'un contrôle post-négociation est déclenché, les entreprises d'investissement prennent les mesures adéquates, lesquelles peuvent comprendre l'ajustement ou la mise à l'arrêt de l'algorithme de négociation ou du système de négociation ou un retrait ordonné du marché.\n\n2. Les contrôles post-négociation visés au paragraphe 1 comprennent l'évaluation et le suivi continus des risques de marché et de crédit de l'entreprise d'investissement en termes d'exposition effective.\n\n3. Les entreprises d'investissement conservent des enregistrements des transactions et des informations sur les comptes qui sont complets, exacts et cohérents. Les entreprises d'investissement vérifient la concordance entre leurs propres journaux de trading électronique et les informations relatives à leur encours d'ordres et à leur encours d'expositions au risque que leur ont fournies les plates-formes de négociation auxquelles elles envoient des ordres, leurs courtiers ou fournisseurs d'AED, leurs membres compensateurs ou contreparties centrales et leurs fournisseurs de données ou autres partenaires commerciaux. Cette vérification de concordance est effectuée en temps réel lorsque les participants au marché susmentionnés fournissent ces informations en temps réel. Les entreprises d'investissement sont en mesure de calculer en temps réel leur encours d'expositions et celui de leurs traders et clients.\n\n4. Pour les dérivés, les contrôles post-négociation visés au paragraphe 1 comprennent des dispositifs de contrôle du niveau maximum de positions de stratégie longues, courtes et globales, les limites de négociation devant être fixées dans les unités correspondant aux types d'instruments financiers concernés.\n\n5. Le suivi post-négociation est assuré par les traders responsables de l'algorithme et la fonction de contrôle des risques de l'entreprise d'investissement.",
+      "text_sha256": "2a0450f7bc8e48b3f86397629a084ba0893dadf68b3a85f48278bb6e414a321d",
+      "md_span": {
+        "start": 31393,
+        "end": 33385
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Les entreprises d'investissement mettent en œuvre une stratégie informatique comportant des objectifs et des mesures clairement définis:\n\n| a) | qui est conforme à leur stratégie économique et à leur stratégie en matière de risques et adaptée à leurs activités opérationnelles et aux risques auxquels elles sont exposées; |\n| --- | --- |\n\n| b) | qui se fonde sur une organisation informatique fiable, y compris en matière de service, de production et de développement; |\n| --- | --- |\n\n| c) | qui correspond à une gestion efficace de la sécurité informatique. |\n| --- | --- |\n\n2. Les entreprises d'investissement établissent et maintiennent des dispositifs appropriés de sécurité physique et électronique qui réduisent au minimum les risques d'attaques contre leurs systèmes informatiques et incluent une gestion efficace en termes d'identification et d'accès. Ces dispositifs garantissent la confidentialité, l'intégrité, l'authenticité et la disponibilité des données ainsi que la fiabilité et la robustesse des systèmes informatiques des entreprises d'investissement.\n\n3. Les entreprises d'investissement informent sans délai l'autorité compétente de toute atteinte importante à leurs mesures de sécurité physique et électronique. Elles fournissent à l'autorité compétente un compte rendu d'incident indiquant la nature de l'incident, les mesures adoptées après sa survenue et les initiatives prises pour éviter que des incidents similaires ne se produisent.\n\n4. Les entreprises d'investissement effectuent une fois par an des tests d'intrusion et des analyses de vulnérabilité pour simuler des cyberattaques.\n\n5. Les entreprises d'investissement veillent à être en mesure d'identifier toutes les personnes ayant des droits d'accès critiques à leurs systèmes informatiques. Les entreprises d'investissement restreignent le nombre de ces personnes et surveillent leur accès à leurs systèmes informatiques pour que la traçabilité soit assurée à tout moment.",
+      "text_sha256": "055c0029c29236918c572b53a2cf3ad3f56ff709b52984cae14c3fa74c771005",
+      "md_span": {
+        "start": 33420,
+        "end": 35393
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\nPour satisfaire aux exigences de l'article 17, paragraphe 5, de la directive 2014/65/UE, les fournisseurs d'AED établissent des politiques et procédures visant à garantir que l'activité de négociation de leurs clients AED respecte les règles de la plate-forme de négociation.",
+      "text_sha256": "a5174c187f5a5cf816e1f53abb2dc0ae93ebb563d93e6e3eb822f8942a31c865",
+      "md_span": {
+        "start": 35428,
+        "end": 35715
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. Les fournisseurs d'AED soumettent les flux d'ordres de chacun de leurs clients AED aux contrôles prévus aux articles 13, 15 et 17 et au suivi en temps réel prévu à l'article 16. Ces contrôles et ce suivi sont séparés et distincts de ceux effectués par les clients AED. En particulier, les ordres d'un client AED passent toujours par les dispositifs de contrôle pré-négociation qui sont établis et contrôlés par le fournisseur d'AED.\n\n2. Les fournisseurs d'AED peuvent employer leurs propres contrôles pré-négociation et post-négociation, des contrôles fournis par un tiers ou des contrôles proposés par la plate-forme de négociation et le suivi en temps réel. Les fournisseurs d'AED restent responsables en toutes circonstances de l'efficacité de ces contrôles. Les fournisseurs d'AED veillent également à être les seuls habilités à fixer ou modifier les paramètres ou limites de ces contrôles pré-négociation et post-négociation et du suivi en temps réel. Les fournisseurs d'AED surveillent en continu l'exécution des contrôles pré-négociation et post-négociation.\n\n3. Les limites des contrôles pré-négociation portant sur la soumission d'ordres sont basées sur les limites de crédit et de risque que les fournisseur d'AED appliquent à l'activité de négociation de leurs clients AED. Ces limites se fondent sur l'évaluation préalable initiale et le réexamen périodique du client AED effectués par les fournisseurs d'AED.\n\n4. Les paramètres et limites des contrôles appliqués aux clients AED utilisant l'accès sponsorisé sont aussi stricts que ceux imposés aux clients AED utilisant l'accès direct au marché.",
+      "text_sha256": "70c1bcc1b7f9a2967c19a3617400ac42f5f2e1a8fa02449fcf072a9689d29150",
+      "md_span": {
+        "start": 35750,
+        "end": 37373
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. Les fournisseurs d'AED veillent à ce que leurs systèmes de négociation leur permettent:\n\n| a) | d'assurer le suivi des ordres soumis par un client AED qui utilise leur code de négociation; |\n| --- | --- |\n\n| b) | de bloquer ou annuler automatiquement les ordres d'individus qui exploitent des systèmes de négociation soumettant des ordres liés au trading algorithmique et qui n'ont pas l'autorisation d'envoyer des ordres par AED; |\n| --- | --- |\n\n| c) | de bloquer ou annuler automatiquement les ordres d'un client AED portant sur des instruments financiers que ce dernier n'est pas autorisé à négocier, en utilisant un système interne de signalisation pour identifier et bloquer des clients AED, individuellement ou en groupe; |\n| --- | --- |\n\n| d) | de bloquer ou annuler automatiquement les ordres d'un client AED qui dépassent leurs seuils de gestion des risques, en appliquant des dispositifs de contrôle aux expositions des clients AED individuels, des instruments financiers ou des groupes de clients AED; |\n| --- | --- |\n\n| e) | de stopper les flux d'ordres transmis par leurs clients AED; |\n| --- | --- |\n\n| f) | de suspendre ou supprimer les services d'AED proposés à un client AED lorsqu'ils n'ont pas la certitude que le maintien de l'accès serait compatible avec leurs règles et procédures visant à la négociation équitable et ordonnée et à l'intégrité des marchés; |\n| --- | --- |\n\n| g) | de procéder, si nécessaire, au réexamen des systèmes internes de contrôle des risques mis en place par les clients AED. |\n| --- | --- |\n\n2. Les fournisseurs d'AED disposent de procédures pour évaluer, gérer et atténuer les perturbations du marché et les risques spécifiques à leur entreprise. Les fournisseurs d'AED sont en mesure d'identifier les personnes à avertir en cas d'erreur entraînant un non-respect du profil de risque ou des violations potentielles des règles de la plate-forme de négociation.\n\n3. Les fournisseurs d'AED sont à tout moment en mesure d'identifier leurs différents clients AED et les tables de négociation et traders de ces clients qui soumettent des ordres via leurs systèmes, en leur attribuant un code d'identification unique.\n\n4. Un fournisseur d'AED qui autorise un client AED à mettre son accès AED à la disposition de ses propres clients («sous-délégation») est en mesure d'identifier les différents flux d'ordres provenant des bénéficiaires de cette sous-délégation, mais n'est pas tenu de connaître l'identité de ces bénéficiaires.\n\n5. Les fournisseurs d'AED enregistrent les données relatives aux ordres soumis par leurs clients AED, y compris les modifications et les annulations, les alertes générées par leurs systèmes de suivi et les modifications apportées à leurs processus de filtrage.",
+      "text_sha256": "6f4426e4b69234d1594e28693caa36eb785642feebcc14856d08b22dfe94b26c",
+      "md_span": {
+        "start": 37408,
+        "end": 40156
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. Les fournisseurs d'AED effectuent une évaluation préalable de leurs clients AED potentiels pour s'assurer qu'ils satisfont aux exigences énoncées dans le présent règlement et aux règles de la plate-forme de négociation à laquelle ils donnent l'accès.\n\n2. L'évaluation préalable visée au paragraphe 1 couvre:\n\n| a) | la gouvernance et la structure de propriété du client AED potentiel; |\n| --- | --- |\n\n| b) | les types de stratégies qui seront suivies par le client AED potentiel; |\n| --- | --- |\n\n| c) | la structure opérationnelle, les systèmes, les contrôles pré-négociation et post-négociation et le suivi en temps réel du client AED potentiel. Les entreprises d'investissement qui proposent un AED permettant aux clients AED d'utiliser des logiciels de négociation de tiers pour accéder aux plates-formes de négociation veillent à ce que ces logiciels incluent des contrôles pré-négociation équivalents à ceux définis dans le présent règlement. |\n| --- | --- |\n\n| d) | les responsabilités au sein du client AED potentiel en matière de traitement des actions et des erreurs; |\n| --- | --- |\n\n| e) | l'historique des échanges et du comportement de négociation du client AED potentiel; |\n| --- | --- |\n\n| f) | le niveau escompté de volume de négociation et d'ordres du client AED potentiel; |\n| --- | --- |\n\n| g) | la capacité du client AED potentiel à honorer ses obligations financières à l'égard du fournisseur d'AED; |\n| --- | --- |\n\n| h) | les antécédents disciplinaires du client AED potentiel, s'ils sont disponibles. |\n| --- | --- |\n\n3. Les fournisseurs d'AED autorisant la sous-délégation veillent, avant d'accorder l'accès à un client AED potentiel, à ce que ce dernier dispose d'un cadre d'évaluation préalable au moins équivalent à celui décrit aux paragraphes 1 et 2.",
+      "text_sha256": "ce432dcb0c1c24203e0cbf71178f373e6c336dd1b3f2be96f3c9933b0dd99f78",
+      "md_span": {
+        "start": 40191,
+        "end": 41988
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\n1. Les fournisseurs d'AED réexaminent leurs processus d'évaluation préalable une fois par an.\n\n2. Les fournisseurs d'AED effectuent une réévaluation annuelle, fondée sur les risques, de l'adéquation des systèmes et contrôles de leurs clients AED, en tenant compte notamment des modifications de l'étendue, de la nature ou de la complexité des activités ou stratégies de négociation de ces derniers, des changements concernant leur personnel, leur structure de propriété, leur compte de négociation ou bancaire, leur statut réglementaire, leur situation financière et de l'intention éventuellement exprimée par ces clients AED de sous-déléguer l'accès donné par les fournisseurs d'AED.",
+      "text_sha256": "df3fe0eed7f78276efb37e1727b056aeed19b3790f575c483944a91c94db0b69",
+      "md_span": {
+        "start": 42023,
+        "end": 42719
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nTout système employé par une entreprise d'investissement agissant comme membre compensateur général («entreprise de compensation») pour l'aider à fournir ses services de compensation à ses clients est soumis à des vérifications préalables, des contrôles et un suivi appropriés.",
+      "text_sha256": "5c70d011d76928cca20e80df767c62325edc28d1e75af73742bafb3359ec9229",
+      "md_span": {
+        "start": 42754,
+        "end": 43043
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\n1. Les entreprises de compensation effectuent une évaluation préalable des clients «compensation» potentiels, en tenant compte de la nature, de l'étendue et de la complexité de l'activité de ces derniers. Chaque client «compensation» potentiel est évalué à l'aune des critères suivants:\n\n| a) | la qualité de crédit, y compris toutes les garanties fournies; |\n| --- | --- |\n\n| b) | les systèmes internes de contrôle des risques; |\n| --- | --- |\n\n| c) | la stratégie de négociation prévue; |\n| --- | --- |\n\n| d) | les systèmes et dispositifs de paiement permettant au client «compensation» potentiel de garantir un transfert rapide des actifs ou espèces exigés comme marge par l'entreprise de compensation pour les services de compensation qu'elle fournit; |\n| --- | --- |\n\n| e) | les paramètres de systèmes et l'accès aux informations permettant au client «compensation» potentiel de respecter les limites maximales de négociation convenues avec l'entreprise de compensation; |\n| --- | --- |\n\n| f) | toute garantie (collatéral) fournie à l'entreprise de compensation par le client «compensation» potentiel; |\n| --- | --- |\n\n| g) | les ressources opérationnelles, y compris les interfaces technologiques et la connectivité; |\n| --- | --- |\n\n| h) | toute implication du client «compensation» potentiel dans une violation des règles visant à garantir l'intégrité des marchés financiers, notamment son implication dans un abus de marché, un délit financier ou des activités de blanchiment d'argent. |\n| --- | --- |\n\n2. Les entreprises de compensation réexaminent une fois par an la situation de leurs clients «compensation» à l'aune des critères énoncés au paragraphe 1. L'accord écrit contraignant visé à l'article 17, paragraphe 6, de la directive 2014/65/UE contient ces critères et fixe la fréquence à laquelle l'entreprise de compensation réexamine la situation de ses clients «compensation» à l'aune de ces critères, lorsque ce réexamen est prévu plus d'une fois par an. Cet accord écrit contraignant précise les conséquences pour les clients «compensation» d'un non-respect de ces critères.",
+      "text_sha256": "4783e06e5d312cd1ed11f11845cec215d54305117b01e56299adb9959c6ae370",
+      "md_span": {
+        "start": 43078,
+        "end": 45183
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\n1. Les entreprises de compensation établissent et communiquent à leurs clients «compensation» des limites de négociation et de positions appropriées pour atténuer et gérer leurs propres risques de contrepartie, de liquidité, opérationnels et autres.\n\n2. Les entreprises de compensation surveillent, autant que possible en temps réel, les positions de leurs clients «compensation» par rapport aux limites visées au paragraphe 1 et disposent de procédures pré-négociation et post-négociation appropriées pour gérer le risque de dépassement des limites de position, grâce à des dispositifs de marge appropriés ou par d'autres moyens adéquats.\n\n3. Les entreprises de compensation consignent par écrit les procédures visées au paragraphe 2 et notent si les clients «compensation» se conforment à ces procédures.",
+      "text_sha256": "419de9cd9d0ee850d1d17a8295f81aa5891b42293a197dac50c5c2621166c49b",
+      "md_span": {
+        "start": 45218,
+        "end": 46036
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_27",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 27\n\n1. Les entreprises de compensation publient les termes de leur offre de services de compensation. Elles proposent ces services à des conditions commerciales raisonnables.\n\n2. Les entreprises de compensation informent leurs clients «compensation» actuels et potentiels des niveaux de protection et des coûts associés aux différents niveaux de ségrégation qu'elles fournissent. Les informations relatives aux différents niveaux de ségrégation proposés comprennent la description des principaux effets juridiques de chacun d'entre eux, notamment des informations sur le droit en matière d'insolvabilité applicable dans le pays ou territoire concerné.",
+      "text_sha256": "31be7c9cc46f4329c91b08bbf23892fb1955514be5782328db3b1ea681964ea5",
+      "md_span": {
+        "start": 46071,
+        "end": 46730
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_28",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 28\n\n1. Les entreprises d'investissement recourant à une technique de trading algorithmique à haute fréquence enregistrent, immédiatement après la soumission des ordres, des informations sur chaque ordre soumis, conformément au format indiqué dans les tableaux 2 et 3 de l'annexe II.\n\n2. Les entreprises d'investissement recourant à une technique de trading algorithmique à haute fréquence mettent à jour les informations visées au paragraphe 1 conformément aux normes et formats indiqués dans la quatrième colonne des tableaux 2 et 3 de l'annexe II.\n\n3. Les enregistrements visés aux paragraphes 1 et 2 sont conservés pendant une période de cinq ans à compter de la date de soumission d'un ordre à une plate-forme de négociation ou à une autre entreprise d'investissement en vue de son exécution.",
+      "text_sha256": "2426642181c3aa0a7f468776896c234f7b6dc8ae672eff7bff474ca58cb22102",
+      "md_span": {
+        "start": 46765,
+        "end": 47569
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32017r0589:2016-07-19#art_29",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 29\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à compter du 3 janvier 2018.",
+      "text_sha256": "8079f90650cb3b70c39c24363d127fc25d37c7d0ca15a39fdbbc3404a39d30fa",
+      "md_span": {
+        "start": 47604,
+        "end": 47790
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

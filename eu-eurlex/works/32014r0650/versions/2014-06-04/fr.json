@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0650:2014-06-04",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) No\u00A0650/2014 of 4\u00A0June 2014 laying down implementing technical standards with regard to the format, structure, contents list and annual publication date of the information to be disclosed by competent authorities in accordance with Directive 2013/36/EU",
+  "valid_from": "2014-06-04",
+  "valid_to": "2019-06-24",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0650/versions/2014-06-04/fr.xml",
+    "sha256": "6c8fd68b58dbe4647f9e5cf349d94d82da2ef1ebab3478f60e1add7df7c1230c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0650"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0650:2014-06-04#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes autorités compétentes publient, conformément à l’article 143, paragraphe 1, point a), de la directive 2013/36/UE, les informations sur le texte des dispositions législatives, réglementaires et administratives et les orientations générales adoptées dans leur État membre en matière de régulation prudentielle en utilisant les formulaires pertinents figurant à l’annexe I, parties 1 à 8.",
+      "text_sha256": "10bcd430961a114199d3c356e5f801f782579674d7cff410c924de2389008ad7",
+      "md_span": {
+        "start": 842,
+        "end": 1248
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0650:2014-06-04#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes autorités compétentes publient, conformément à l’article 143, paragraphe 1, point b), de la directive 2013/36/UE, les informations sur les modalités d’exercice des options et facultés prévues par le droit de l’Union en utilisant les formulaires pertinents figurant à l’annexe II, parties 1 à 12.",
+      "text_sha256": "a6a5db0de7e712d4d7440e42cf80090806f4e2bdf0872c0249156be8553fb9a8",
+      "md_span": {
+        "start": 1281,
+        "end": 1591
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0650:2014-06-04#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLes autorités compétentes publient, conformément à l’article 143, paragraphe 1, point c), de la directive 2013/36/UE, des informations sur les critères généraux et les méthodes qu’elles appliquent aux fins du contrôle et de l’évaluation prudentiels visés à l’article 97 de ladite directive en utilisant le formulaire figurant à l’annexe III.",
+      "text_sha256": "6c3f5f8c0d953bf3a4e721c8a0d51ab8f53ecff302341490f82e73778a290bdf",
+      "md_span": {
+        "start": 1624,
+        "end": 1976
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r0650:2014-06-04#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes autorités compétentes publient, conformément à l’article 143, paragraphe 1, point d), de la directive 2013/36/UE, les informations sur les données statistiques agrégées sur les principaux aspects de la mise en œuvre du cadre prudentiel en utilisant les formulaires figurant à l’annexe IV, parties 1 à 6.",
+      "text_sha256": "e4eddf9ee03318020ccc6c015caae4015eb5e57b3f7eb26aa54e117f1fc9f69b",
+      "md_span": {
+        "start": 2009,
+        "end": 2327
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32014r0650:2014-06-04#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLes autorités compétentes publient les informations visées à l’article 143, paragraphe 1, de la directive 2013/36/UE à la même adresse électronique pour la première fois le 31 juillet 2014 au plus tard.\n\nLes autorités compétentes mettent à jour les informations visées à l’article 143, paragraphe 1, point d), de ladite directive au plus tard le 31 juillet de chaque année, sur la base de la situation au 31 décembre de l’année précédente.\n\nLes autorités compétentes mettent à jour régulièrement, et au plus tard le 31 juillet de chaque année, les informations visées à l’article 143, paragraphe 1, points a) à c), de ladite directive, à moins que les informations publiées restent inchangées.",
+      "text_sha256": "d1c6c0f3e919d622e787504b519d392e1cd5d8fe05226433bd8cbe65353100ae",
+      "md_span": {
+        "start": 2360,
+        "end": 3064
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32014r0650:2014-06-04#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "c09b73b69148bd7d9e0dbfde231d12a005b999b8a85ebf9860b2b8bebb65247a",
+      "md_span": {
+        "start": 3097,
+        "end": 3238
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

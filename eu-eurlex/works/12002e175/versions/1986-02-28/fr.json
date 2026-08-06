@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12002e175:1986-02-28",
+  "language": "fr",
+  "title": "Treaty establishing the European Community (Nice consolidated version)#Part Three: Communi…",
+  "valid_from": "1986-02-28",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12002e175/versions/1986-02-28/fr.html",
+    "sha256": "bde9236fcf58de281bb152ca864a64ae6c3a60087efcf2b18fef34a5d8cffb55",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12002E175"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12002e175:1986-02-28#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Avis juridique important | 12002E175 Traité instituant la Communauté européenne (version consolidée Nice) - Troisième partie: Les politiques de la communauté - Titre XIX: Environnement - Article 175 - Article 130 S - Traité CE (version consolidée Maastricht) - Journal officiel n° C 325 du 24/12/2002 p. 0108 - 0109 Journal officiel n° C 340 du 10/11/1997 p. 0255 - version consolidée Journal officiel n° C 224 du 31/08/1992 p. 0052 - version consolidée Traité instituant la Communauté européenne (version consolidée Nice)Troisième partie: Les politiques de la communautéTitre XIX: EnvironnementArticle 175Article 130 S - Traité CE (version consolidée Maastricht)Article 175 1. Le Conseil, statuant conformément à la procédure visée à l'article 251 et après consultation du Comité économique et social et du Comité des régions, décide des actions à entreprendre par la Communauté en vue de réaliser les objectifs visés à l'article 174.2. Par dérogation à la procédure de décision prévue au paragraphe 1 et sans préjudice de l'article 95, le Conseil, statuant à l'unanimité sur proposition de la Commission, après consultation du Parlement européen, du Comité économique et social et du Comité des régions, arrête:a) des dispositions essentiellement de nature fiscale;b) les mesures affectant:- l'aménagement du territoire,- la gestion quantitative des ressources hydrauliques ou touchant directement ou indirectement la disponibilité desdites ressources,- l'affectation des sols, à l'exception de la gestion des déchets;c) les mesures affectant sensiblement le choix d'un État membre entre différentes sources d'énergie et la structure générale de son approvisionnement énergétique.Le Conseil, statuant selon les conditions prévues au premier alinéa, peut définir les questions visées au présent paragraphe au sujet desquelles des décisions doivent être prises à la majorité qualifiée.3. Dans d'autres domaines, des programmes d'action à caractère général fixant les objectifs prioritaires à atteindre sont arrêtés par le Conseil, statuant conformément à la procédure visée à l'article 251 et après consultation du Comité économique et social et du Comité des régions.Le Conseil, statuant selon les conditions prévues au paragraphe 1 ou au paragraphe 2, selon le cas, arrête les mesures nécessaires à la mise en oeuvre de ces programmes.4. Sans préjudice de certaines mesures ayant un caractère communautaire, les États membres assurent le financement et l'exécution de la politique en matière d'environnement.5. Sans préjudice du principe du pollueur-payeur, lorsqu'une mesure fondée sur le paragraphe 1 implique des coûts jugés disproportionnés pour les pouvoirs publics d'un État membre, le Conseil prévoit, dans l'acte portant adoption de cette mesure, les dispositions appropriées sous forme:- de dérogations temporaires, et/ou- d'un soutien financier du Fonds de cohésion créé conformément à l'article 161.",
+      "text_sha256": "7dcc967c36e542502e4fd8710e6c0e4dd5825cc440e19413ea9031b16e6bbfb1",
+      "md_span": {
+        "start": 647,
+        "end": 3559
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

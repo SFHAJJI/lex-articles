@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_10": [
       {
@@ -114,5 +115,120 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_10": [
+        {
+          "valid_from": "2018-10-01",
+          "valid_to": null,
+          "text_sha256": "17c79a091573e667129834a47fc17e6a0e22be40f4d4dfe61559b14da207cc48",
+          "in_version": "lu-legilux:rgd-2015-09-30-n10:2018-10-01",
+          "article_valid_from": "2018-10-01"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2018-10-01",
+          "valid_to": null,
+          "text_sha256": "3aeb10ed9213f56313fd1ac9e30f2c7a615414098ba0a6ada250eb726ab881a0",
+          "in_version": "lu-legilux:rgd-2015-09-30-n10:2018-10-01",
+          "article_valid_from": "2018-10-01"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2018-10-01",
+          "valid_to": null,
+          "text_sha256": "9fec2631b4ee724bd13dc3ab757d2e83aaf73f742f9fe5425836556651fc89d3",
+          "in_version": "lu-legilux:rgd-2015-09-30-n10:2018-10-01",
+          "article_valid_from": "2018-10-01"
+        }
+      ],
+      "art_1er": [
+        {
+          "valid_from": "2018-10-01",
+          "valid_to": null,
+          "text_sha256": "e1c496639e1c813a9a680583d883d0a4c7f25e35ec4ac6d77908e5aafa9ab2ea",
+          "in_version": "lu-legilux:rgd-2015-09-30-n10:2018-10-01",
+          "article_valid_from": "2018-10-01"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2018-10-01",
+          "valid_to": null,
+          "text_sha256": "450ba26430c22f0fb0cdb43a486e1d136ce74de25838e0f154a58887e4ea3bce",
+          "in_version": "lu-legilux:rgd-2015-09-30-n10:2018-10-01",
+          "article_valid_from": "2018-10-01"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2018-10-01",
+          "valid_to": null,
+          "text_sha256": "8914a72df0c73f125f1ad76d988fe65bf1fc2e4084a9e3a5b3e2d071f84c642d",
+          "in_version": "lu-legilux:rgd-2015-09-30-n10:2018-10-01",
+          "article_valid_from": "2018-10-01"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2018-10-01",
+          "valid_to": null,
+          "text_sha256": "a3eb8b782de054796c33107e2e8a7881fb496e7374d12a7f3eb0f0e7da8eb695",
+          "in_version": "lu-legilux:rgd-2015-09-30-n10:2018-10-01",
+          "article_valid_from": "2018-10-01"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2018-10-01",
+          "valid_to": null,
+          "text_sha256": "cd1cd736f3de7875d46d672bf55451bc35b76fd9e88935e72371761dda4eb16b",
+          "in_version": "lu-legilux:rgd-2015-09-30-n10:2018-10-01",
+          "article_valid_from": "2018-10-01"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2018-10-01",
+          "valid_to": null,
+          "text_sha256": "f6272d2f1688bb2c96ce3dac9b7889bac98f0d7b1819af77de93683e756169c5",
+          "in_version": "lu-legilux:rgd-2015-09-30-n10:2018-10-01",
+          "article_valid_from": "2018-10-01"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2018-10-01",
+          "valid_to": null,
+          "text_sha256": "dc68b587c88e894efb0126a52f7ab738e36aa3260918956822db5ab083a74b9b",
+          "in_version": "lu-legilux:rgd-2015-09-30-n10:2018-10-01",
+          "article_valid_from": "2018-10-01"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2018-10-01",
+          "valid_to": null,
+          "text_sha256": "50f22347732dc1c0a4b65c59704e9da0b6733d435841494e9df579376efff939",
+          "in_version": "lu-legilux:rgd-2015-09-30-n10:2018-10-01",
+          "article_valid_from": "2018-10-01"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2018-10-01",
+          "valid_to": null,
+          "text_sha256": "dc04b34fed0f3c439442e64dba2a82b94f8dad14a11c64697893b810384c9438",
+          "in_version": "lu-legilux:rgd-2015-09-30-n10:2018-10-01",
+          "article_valid_from": "2018-10-01"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

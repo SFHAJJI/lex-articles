@@ -1,0 +1,111 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0304:2024-10-31",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2025/304 of 31\u00A0October 2024 laying down implementing technical standards for the application of Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-10-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0304/versions/2024-10-31/fr.xml",
+    "sha256": "2506a8331b22ab06f0f9933a77e6674bf8ba801d5b75321932ed61882d130c79",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0304"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0304:2024-10-31#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes autorités compétentes désignent un point de contact pour la réception des notifications communiquées par les entités financières conformément à l’article 60 du règlement (UE) 2023/1114. Les autorités compétentes tiennent à jour les coordonnées du point de contact désigné et les publient sur leur site web.",
+      "text_sha256": "d184a28bbf82fb4d2aef351c1eb011128e5af957b28c0269d4677e1552f4a13d",
+      "md_span": {
+        "start": 706,
+        "end": 1033
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0304:2024-10-31#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. L’entité à l’origine d’une notification soumet celle-ci à l’autorité compétente au moyen du formulaire figurant à l’annexe du présent règlement.\n\n2. L’entité à l’origine d’une notification soumet celle-ci d’une manière qui permette de stocker les informations de telle sorte qu’elles puissent être consultées ultérieurement et reproduites à l’identique.",
+      "text_sha256": "442fbde499f751d83efdf35115cde160c2639abe28bcc6e28fcebcfa130833fc",
+      "md_span": {
+        "start": 1066,
+        "end": 1433
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0304:2024-10-31#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nDans un délai de cinq jours ouvrables à compter de la réception d’une notification, l’autorité compétente envoie un accusé de réception par voie électronique, sur support papier, ou sous les deux formes, à l’entité à l’origine de cette notification. Ledit accusé de réception contient les coordonnées du service, de la fonction ou du membre du personnel de l’autorité compétente qui traite la notification.",
+      "text_sha256": "918c1302af01814dc7ac97bde72a6ff2ea8ee0d25c0eafcc14c2d4a136839bdf",
+      "md_span": {
+        "start": 1466,
+        "end": 1883
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0304:2024-10-31#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nL’entité à l’origine d’une notification notifie sans retard injustifié à l’autorité compétente toute modification des informations fournies dans cette notification. L’entité à l’origine de la notification fournit les informations actualisées en utilisant le formulaire figurant en annexe.",
+      "text_sha256": "ba3d64b1365f66ea6417abbfb565160db7cfad64214446dde8dea9cfcb1db702",
+      "md_span": {
+        "start": 1916,
+        "end": 2215
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0304:2024-10-31#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "cd76bcb06b3749ee07344597c203b833ceef616295f0ff30b84c22a1ad223fec",
+      "md_span": {
+        "start": 2248,
+        "end": 2389
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

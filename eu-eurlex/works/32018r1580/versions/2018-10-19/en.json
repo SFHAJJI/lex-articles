@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r1580:2018-10-19",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2018/1580 of 19 October 2018 amending Implementing Regulation (EU) 2015/2197 laying down implementing technical standards with regard to closely correlated currencies in accordance with Regulation (EU) No 575/2013",
+  "valid_from": "2018-10-19",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r1580/versions/2018-10-19/en.xml",
+    "sha256": "5356d6d21f4cec4a7058d9e420dd7263e43efddd7a1df33333a06b8e8d29f77c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R1580"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r1580:2018-10-19#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe Annex to Implementing Regulation (EU) 2015/2197 is replaced by the text as set out in the Annex to this Regulation.",
+      "text_sha256": "5d8a60fb93799ea43dd50d058e80e4346ee489ad8052237e7a2192a65ae1f087",
+      "md_span": {
+        "start": 798,
+        "end": 928
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r1580:2018-10-19#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 961,
+        "end": 1112
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

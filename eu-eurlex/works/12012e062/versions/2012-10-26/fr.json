@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:12012e062:2012-10-26",
+  "language": "fr",
+  "title": "Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…",
+  "valid_from": "2012-10-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/12012e062/versions/2012-10-26/fr.xml",
+    "sha256": "07273da0a334eceb80b35aee2a4793c5ca8a860c94179a71ce912b16ed946617",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:12012E062"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:12012e062:2012-10-26#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "26.10.2012 FR Journal officiel de l'Union européenne C 326/1 TRAITÉ SUR LE FONCTIONNEMENT DE L'UNION EUROPÉENNE (VERSION CONSOLIDÉE) TROISIÈME PARTIE LES POLITIQUES ET ACTIONS INTERNES DE L'UNION TITRE IV LA LIBRE CIRCULATION DES PERSONNES, DES SERVICES ET DES CAPITAUX CHAPITRE 3 LES SERVICES Article 62 (ex-article 55 TCE) Les dispositions des articles 51 à 54 inclus sont applicables à la matière régie par le présent chapitre.",
+      "text_sha256": "b068feb90670f9324d3f0b60316109c72d5d9275f39d2c07500526cddfd4f9ff",
+      "md_span": {
+        "start": 647,
+        "end": 1077
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

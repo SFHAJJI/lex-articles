@@ -1,0 +1,1180 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32013l0030:2013-07-18",
+  "language": "fr",
+  "title": "Directive 2013/30/EU",
+  "valid_from": "2013-07-18",
+  "valid_to": "2020-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32013l0030/versions/2013-07-18/fr.html",
+    "sha256": "0a548d49e8b9395e2b7bceec7590ce67af4f6b7d8d41fca4ecd49011231e4eac",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02013L0030-20130718"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objet et champ d’application",
+      "path": [
+        "CHAPITRE I",
+        "**DISPOSITIONS INTRODUCTIVES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La présente directive établit les exigences minimales visant à prévenir les accidents majeurs lors d’opérations pétrolières et gazières en mer et à limiter les conséquences de tels accidents.\n\n2. La présente directive est sans préjudice du droit de l’Union concernant la sécurité et la santé des travailleurs au travail, notamment les directives 89/391/CEE et 92/91/CEE.\n\n3. La présente directive est sans préjudice des directives 94/22/CE, 2001/42/CE, 2003/4/CE (19), 2003/35/CE, 2010/75/UE (20) et 2011/92/UE.",
+      "text_sha256": "a44fa65be1dab80fb46111b21c1471e1f16426b0c60c7b965a9ea54b1a8d4057",
+      "md_span": {
+        "start": 678,
+        "end": 1192
+      },
+      "citations": [
+        {
+          "href": "#E0019",
+          "text": "19"
+        },
+        {
+          "href": "#E0020",
+          "text": "20"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [
+        "CHAPITRE I",
+        "**DISPOSITIONS INTRODUCTIVES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Aux fins de la présente directive, on entend par:\n\n1) «accident majeur», dans le cadre d’une installation ou d’infrastructures connectées:\n\na) un incident impliquant une explosion, un incendie, la perte de contrôle d’un puits, ou une fuite de pétrole ou de gaz ou le rejet de substances dangereuses causant ou risquant très probablement de causer des décès ou des dommages corporels graves;\n\nb) un incident entraînant des dommages graves pour l’installation ou les infrastructures connectées, causant ou risquant très probablement de causer des décès ou des dommages corporels graves;\n\n►C1 c) tout autre incident entraînant le décès ou des blessures graves à l'égard de cinq personnes ou plus,** ◄ ** qui sont présentes sur l’installation en mer où se situe la source du danger ou qui participent à une opération pétrolière ou gazière en mer en rapport avec l’installation ou les infrastructures connectées; ou\n\nd) tout incident environnemental majeur résultant d’incidents visés aux points a), b) et c).\n\nAux fins de déterminer si un incident constitue un accident majeur au sens des points a), b) ou d), une installation qui est, en règle générale, laissée sans surveillance est réputée faire l’objet d’une surveillance;\n\n2) «en mer/au large des côtes», situé dans la mer territoriale, dans la zone économique exclusive ou sur le plateau continental d’un État membre au sens de la convention des Nations unies sur le droit de la mer;\n\n3) «opérations pétrolières et gazières en mer», toutes les activités liées à une installation ou à des infrastructures connectées, y compris leur conception, planification, construction, exploitation et déclassement, relatives à l’exploration et la production de pétrole ou de gaz mais à l’exclusion du transport de pétrole et de gaz d’une côte à une autre;\n\n4) «risque», la combinaison de la probabilité d’un événement et des conséquences de cet événement;\n\n5) «exploitant», l’entité désignée par le titulaire d’une autorisation ou par l’autorité qui délivre les autorisations pour mener des opérations pétrolières et gazières en mer, y compris la planification et l’exécution d’une opération sur puits ou la gestion et le contrôle des fonctions d’une installation de production;\n\n6) «adéquat», approprié ou qui répond parfaitement, eu égard notamment à des efforts et des coûts proportionnés, à une exigence ou une situation donnée, fondé sur des éléments d’appréciation objectifs et dont le bien-fondé est démontré par une analyse, une comparaison avec des normes appropriées ou d’autres solutions auxquelles d’autres autorités ou secteurs ont recours dans des situations comparables;\n\n7) «entité», toute personne physique ou morale ou tout groupement de telles personnes;\n\n8) «acceptable», en ce qui concerne un risque, un niveau de risque pour lequel le temps, les coûts ou les efforts nécessaires pour réduire davantage ce risque seraient nettement disproportionnés par rapport aux avantages d’une telle réduction. Lorsqu’on évalue si le temps, les coûts ou les efforts nécessaires seraient nettement disproportionnés par rapport aux avantages escomptés d’une réduction supplémentaire du risque, il convient de tenir compte des meilleures pratiques en termes de niveaux de risque compatibles avec l’exploitation;\n\n9) «autorisation», une autorisation permettant de mener des opérations pétrolières et gazières en mer en vertu de la directive 94/22/CE;\n\n10) «zone faisant l’objet d’une autorisation», la zone géographique couverte par l’autorisation;\n\n11) «titulaire d’une autorisation», le détenteur ou les codétenteurs d’une autorisation;\n\n12) «contractant», toute entité à laquelle l’exploitant ou le propriétaire confie l’exécution, pour son compte, de tâches spécifiques;\n\n13) «autorité qui délivre les autorisations», les pouvoirs publics, responsables de l’octroi des autorisations ou du contrôle de l’utilisation des autorisations selon les dispositions prévues dans la directive 94/22/CE;\n\n14) «autorité compétente», les pouvoirs publics désignés en vertu de la présente directive et responsables des tâches qui lui sont assignées par la présente directive. L’autorité compétente peut se composer d’un ou de plusieurs organismes publics;\n\n15) «exploration», le forage d’un prospect et toutes les opérations pétrolières et gazières connexes en mer nécessaires avant le lancement des opérations liées à la production;\n\n16) «production», l’extraction en mer de pétrole ou de gaz se trouvant dans les couches souterraines de la zone faisant l’objet d’une autorisation, y compris le traitement en mer du pétrole ou du gaz et son transport au moyen d’infrastructures connectées;\n\n17) «installation non destinée à la production», une installation autre qu’une installation destinée à la production de pétrole ou de gaz;\n\n18) «le public», une ou plusieurs entités et, conformément à la législation ou à la pratique nationales, les associations, organisations ou groupes constitués par ces entités;\n\n19) «installation», un équipement fixe ou mobile, ou une combinaison d’équipements interconnectés en permanence par des passerelles ou par d’autres structures, utilisés pour des opérations pétrolières et gazières en mer ou en rapport avec ces opérations. Les installations comprennent les unités mobiles de forage au large lorsqu’elles sont positionnées dans les eaux situées au large des côtes aux fins du forage, de la production ou d’autres activités en rapport avec des opérations pétrolières et gazières en mer;\n\n20) «installation destinée à la production», une installation utilisée pour la production;\n\n21) «infrastructures connectées», dans la zone de sécurité ou dans une zone voisine située à une plus grande distance de l’installation laissée à la discrétion de l’État membre:\n\na) tout puits et toute structure, toute unité supplémentaire et tout dispositif associés connectés à l’installation;\n\nb) tout équipement ou mécanisme placé sur ou fixé à la structure principale de l’installation;\n\nc) tout équipement ou mécanisme de pipeline attaché;\n\n22) «acceptation», en ce qui concerne le rapport sur les dangers majeurs, la communication écrite faite par l’autorité compétente à l’exploitant ou au propriétaire lui signifiant que le rapport, s’il est mis en œuvre comme indiqué dans celui-ci, satisfait aux exigences de la présente directive. L’acceptation n’implique aucun transfert de responsabilité à l’autorité compétente en ce qui concerne la maîtrise des dangers majeurs;\n\n23) «danger majeur», une situation susceptible d’entraîner un accident majeur;\n\n24) «opération sur puits», toute opération portant sur un puits susceptible d’entraîner le rejet accidentel de substances pouvant provoquer un accident majeur, notamment le forage d’un puits, la réparation ou la modification d’un puits, la suspension des opérations sur puits et l’abandon définitif d’un puits;\n\n25) «opération combinée», une opération menée à partir d’une installation conjointement avec une ou plusieurs autres installations à des fins liées à ces autres installations et qui, de ce fait, modifie sensiblement les risques pour la sécurité des personnes ou la protection de l’environnement dans l’une ou dans l’ensemble de ces installations;\n\n26) «zone de sécurité», la zone, établie par l’État membre, située dans un rayon de 500 mètres à partir de toute partie de l’installation;\n\n27) «propriétaire», une entité juridiquement habilitée à contrôler l’exploitation d’une installation non destinée à la production;\n\n28) «plan d’intervention d’urgence interne», un plan, élaboré par les exploitants ou les propriétaires en vertu des exigences de la présente directive, concernant les mesures visant à prévenir l’aggravation ou à limiter les conséquences d’un accident majeur relatif à des opérations pétrolières et gazières en mer;\n\n29) «vérification indépendante», l’appréciation et la confirmation de la validité d’une déclaration écrite déterminée donnée par une entité ou une structure organisationnelle de l’exploitant ou du propriétaire qui n’est pas soumise au contrôle ou à l’influence de l’entité ou de la structure organisationnelle qui utilise ladite déclaration;\n\n30) «modification substantielle»:\n\na) dans le cas d’un rapport sur les dangers majeurs, une modification par rapport à la base sur laquelle le rapport initial a été accepté, notamment des modifications physiques, la disponibilité de nouvelles connaissances ou techniques et des modifications de la gestion opérationnelle;\n\nb) dans le cas d’une notification d’opérations sur puits ou d’opérations combinées, une modification par rapport à la base sur laquelle la notification initiale a été soumise, ce qui comprend notamment des modifications physiques, le remplacement d’une installation par une autre, la disponibilité de nouvelles connaissances ou techniques et des modifications de la gestion opérationnelle;\n\n31) «démarrage des opérations», le moment où l’installation ou les infrastructures connectées participent pour la première fois aux opérations pour lesquelles elles ont été conçues;\n\n32) «efficacité de l’intervention en cas de déversement de pétrole en mer», l’efficacité des systèmes d’intervention mis en œuvre pour lutter contre un déversement de pétrole en mer, sur la base d’une analyse de la fréquence, de la durée et du calendrier des conditions environnementales qui excluraient une intervention. L’évaluation de l’efficacité de l’intervention en cas de déversement de pétrole en mer doit être exprimée en pourcentage du temps pendant lequel lesdites conditions ne sont pas présentes et doit comporter une description des contraintes opérationnelles propres aux installations concernées à la suite de ladite évaluation;\n\n33) «éléments critiques pour la sécurité et l’environnement», les parties d’une installation, y compris les programmes informatiques, dont la finalité est de prévenir les accidents majeurs ou d’en limiter les conséquences, ou dont la défaillance risque d’entraîner un accident majeur ou d’y contribuer dans une large mesure;\n\n34) «consultation tripartite», un arrangement formel visant à permettre le dialogue et la coopération entre l’autorité compétente, les exploitants et les propriétaires, et les représentants des travailleurs;\n\n35) «secteur industriel», les entités qui participent directement aux opérations pétrolières et gazières en mer régies par la présente directive ou dont les activités ont un lien étroit avec ces opérations;\n\n36) «plan d’intervention d’urgence externe», une stratégie locale, nationale ou régionale mise en place pour prévenir l’aggravation ou limiter les conséquences d’un accident majeur relatif à des opérations pétrolières ou gazières en mer, et mobilisant toutes les ressources dont dispose l’exploitant, telles qu’elles sont décrites dans le plan d’intervention d’urgence interne pertinent, et les ressources supplémentaires éventuelles mises à disposition par les États membres;\n\n37) «incident environnemental majeur», un incident qui cause ou est susceptible de causer des dommages qui affectent gravement l’environnement conformément à la directive 2004/35/CE.",
+      "text_sha256": "652306f88a0eaa17f452f1e898143189e83745e3d97d817f126a76718d038d69",
+      "md_span": {
+        "start": 1243,
+        "end": 12290
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32013L0030R%2802%29",
+          "text": "►C1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Principes généraux de la gestion des risques dans les opérations pétrolières et gazières en mer",
+      "path": [
+        "CHAPITRE II",
+        "**PRÉVENTION DES ACCIDENTS MAJEURS RELATIFS À DES OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres imposent aux exploitants de veiller à ce que toutes les mesures adéquates soient prises pour prévenir les accidents majeurs lors des opérations pétrolières et gazières en mer.\n\n2. Les États membres veillent à ce que les exploitants ne soient pas dégagés de leurs obligations en vertu de la présente directive par le fait que des actions ou des omissions donnant lieu ou contribuant à des accidents majeurs aient été réalisées par des contractants.\n\n3. En cas d’accident majeur, les États membres s’assurent que les exploitants prennent toutes les mesures adéquates pour limiter ses conséquences pour la santé humaine et l’environnement.\n\n4. Les États membres exigent des exploitants qu’ils veillent à ce que les opérations pétrolières et gazières en mer soient effectuées sur la base d’une gestion systématique des risques afin que les risques résiduels d’accidents majeurs aux personnes, à l’environnement et aux installations en mer soient rendus acceptables.",
+      "text_sha256": "dd763fda22d2599106b800414065e1248648e4db34db755b6e28758d3b801c45",
+      "md_span": {
+        "start": 12540,
+        "end": 13522
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Aspects liés à la sécurité et à l’environnement relatifs aux autorisations",
+      "path": [
+        "CHAPITRE II",
+        "**PRÉVENTION DES ACCIDENTS MAJEURS RELATIFS À DES OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que les décisions relatives à l’octroi ou au transfert d’une autorisation d’effectuer des opérations pétrolières et gazières en mer tiennent compte de la capacité du demandeur sollicitant une telle autorisation à satisfaire aux exigences liées aux opérations prévues dans le cadre de l’autorisation précitée, conformément aux dispositions pertinentes du droit de l’Union, notamment la présente directive.\n\n2. En particulier, lors de l’évaluation de la capacité technique et financière du demandeur sollicitant une autorisation, il est dûment tenu compte des points suivants:\n\na) les risques, les dangers et toute autre information utile concernant la zone faisant l’objet d’une autorisation, y compris, le cas échéant, le coût de la dégradation du milieu marin visé à l’article 8, paragraphe 1, point c), de la directive 2008/56/CE;\n\nb) la phase particulière des opérations pétrolières et gazières en mer;\n\nc) la capacité financière du demandeur, y compris les éventuelles garanties financières, à assumer les responsabilités qui pourraient découler des opérations pétrolières et gazières en mer concernées, y compris une responsabilité en cas de préjudice économique éventuel lorsque cette responsabilité est prévue par le droit national;\n\nd) les informations disponibles concernant les performances du demandeur en matière de sécurité et d’environnement, y compris en ce qui concerne les accidents majeurs, lorsqu’elles sont nécessaires aux opérations pour lesquelles l’autorisation a été demandée.\n\nAvant d’octroyer ou de transférer une autorisation pour des opérations pétrolières et gazières en mer, l’autorité qui délivre les autorisations consulte, le cas échéant, l’autorité compétente.\n\n3. Les États membres veillent à ce que l’autorité qui délivre les autorisations n’octroie une autorisation que s’il est établi par le demandeur que des dispositions adéquates ont été ou seront prises par celui-ci, sur la base d’arrangements à définir par les États membres, afin de couvrir les responsabilités qui pourraient découler des opérations pétrolières et gazières en mer du demandeur. Ces dispositions sont valides et effectives dès le début des opérations pétrolières et gazières en mer. Les États membres exigent des demandeurs qu’ils fournissent, d’une manière appropriée, la preuve de leur capacité technique et financière ainsi que toute autre information pertinente relative à la zone couverte par l’autorisation et à la phase particulière des opérations.\n\nLes États membres évaluent l’adéquation des dispositions visées au premier alinéa, afin de déterminer si le demandeur dispose des ressources financières suffisantes pour lancer immédiatement et poursuivre de manière ininterrompue l’ensemble des mesures nécessaires en vue d’une intervention d’urgence efficace et d’une réparation ultérieure.\n\nLes États membres facilitent le déploiement d’instruments financiers durables ainsi que d’autres arrangements afin d’aider les demandeurs d’autorisation à apporter la preuve de leur capacité financière en vertu du premier alinéa.\n\nLes États membres établissent, au minimum, des procédures visant à permettre un traitement rapide et adéquat des demandes d’indemnisation, notamment en ce qui concerne le versement d’indemnités dans le cadre d’incidents transfrontières.\n\nLes États membres exigent du titulaire d’une autorisation qu’il conserve des capacités suffisantes pour respecter ses obligations financières découlant des responsabilités liées aux opérations pétrolières et gazières en mer.\n\n4. L’autorité qui délivre les autorisations ou le titulaire de l’autorisation désigne l’exploitant. Lorsque l’exploitant est désigné par le titulaire de l’autorisation, l’autorité qui délivre les autorisations en est informée au préalable. Dans ce cas, l’autorité qui délivre les autorisations peut, si nécessaire en consultation avec l’autorité compétente, formuler des objections à la désignation de l’exploitant. Lorsqu’une telle objection est formulée, les États membres imposent au titulaire de l’autorisation de désigner un autre exploitant adéquat ou d’assumer les responsabilités incombant à l’exploitant en vertu de la présente directive.\n\n5. Les procédures d’octroi d’autorisations pour des opérations pétrolières et gazières en mer concernant une zone donnée faisant l’objet d’une autorisation sont organisées de telle sorte que les informations collectées à l’issue de la phase d’exploration puissent être examinées par l’État membre avant le démarrage de la production.\n\n6. Lors de l’évaluation de la capacité technique et financière d’un demandeur sollicitant une autorisation, une attention particulière est accordée à tous les environnements marins et côtiers écologiquement sensibles, en particulier les écosystèmes qui jouent un rôle important dans l’atténuation du changement climatique et l’adaptation à ces derniers, tels que les marais salants et les prairies sous-marines, et les zones marines protégées, comme les zones spéciales de conservation au sens de la directive 92/43/CEE du Conseil du 21 mai 1992 concernant la conservation des habitats naturels ainsi que de la faune et de la flore sauvages (21), les zones spéciales de protection au sens de la directive 2009/147/CE du Parlement européen et du Conseil du 30 novembre 2009 concernant la conservation des oiseaux sauvages (22), et les zones marines protégées, convenues par l’Union ou les États membres concernés dans le cadre d’accords internationaux ou régionaux auxquels ils sont parties.",
+      "text_sha256": "230eca3f17795c865bf6c47b131d82cb3f3981a25054b6412b2a04e8c9b92d25",
+      "md_span": {
+        "start": 13636,
+        "end": 19151
+      },
+      "citations": [
+        {
+          "href": "#E0021",
+          "text": "21"
+        },
+        {
+          "href": "#E0022",
+          "text": "22"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Participation du public en ce qui concerne les effets sur l’environnement d’opérations planifiées d’exploration pétrolière et gazière en mer",
+      "path": [
+        "CHAPITRE II",
+        "**PRÉVENTION DES ACCIDENTS MAJEURS RELATIFS À DES OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Le forage d’un puits d’exploration à partir d’une installation non destinée à la production ne débute pas tant que les autorités compétentes de l’État membre concerné n’ont pas veillé à ce qu’ait lieu une participation du public effective et à un stade précoce en ce qui concerne les effets éventuels sur l’environnement d’opérations pétrolières et gazières planifiées en mer en vertu d’autres actes juridiques de l’Union, en particulier la directive 2001/42/CE ou la directive 2011/92/UE, selon le cas.\n\n2. Lorsque la participation du public visée au paragraphe 1 n’a pas eu lieu, les États membres veillent à ce que les dispositions suivantes s’appliquent:\n\na) le public est informé, soit par des avis publics, soit par d’autres moyens appropriés, notamment par des médias électroniques, de l’endroit où il est prévu d’autoriser des opérations d’exploration;\n\nb) le public concerné est identifié, notamment le public qui est touché ou qui risque d’être touché par la décision d’autoriser des opérations d’exploration, ou qui a un intérêt à faire valoir dans ce cadre, y compris les organisations non gouvernementales concernées, telles que celles qui œuvrent en faveur de la protection de l’environnement ainsi que d’autres organisations pertinentes;\n\nc) des informations pertinentes relatives à ces opérations planifiées sont mises à la disposition du public, notamment des informations concernant le droit de participer au processus décisionnel et les personnes auxquelles les observations ou questions peuvent être adressées;\n\nd) le public peut formuler des observations et des avis avant l’adoption de décisions visant à autoriser l’exploration, lorsque toutes les options sont encore envisageables;\n\ne) lorsque les décisions visées au point d) sont adoptées, il est tenu dûment compte des résultats de la participation du public; et\n\nf) l’État membre concerné informe rapidement le public, après avoir examiné les observations et les avis de celui-ci, des décisions prises et des raisons et considérations sur lesquelles elles sont fondées, y compris en communiquant des informations sur le processus de participation du public.\n\nDes délais raisonnables sont prévus de façon que chacune des étapes de la participation du public comporte une durée suffisante.\n\n3. Le présent article ne s’applique pas à l’égard des zones faisant l’objet d’une autorisation avant le 18 juillet 2013.",
+      "text_sha256": "ee4fbf863c742c0f3065d0eb23c0aab8d5ed1aa0cc3bba09f114e2b444762ef8",
+      "md_span": {
+        "start": 19331,
+        "end": 21721
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Opérations pétrolières et gazières en mer dans des zones faisant l’objet d’une autorisation",
+      "path": [
+        "CHAPITRE II",
+        "**PRÉVENTION DES ACCIDENTS MAJEURS RELATIFS À DES OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que les installations destinées à la production et les infrastructures connectées ne soient exploitées que dans des zones faisant l’objet d’une autorisation et que par les exploitants désignés à cette fin en vertu de l’article 4, paragraphe 4.\n\n2. Les États membres exigent du titulaire d’une autorisation qu’il veille à ce que l’exploitant soit en mesure de satisfaire aux exigences liées à des opérations spécifiques dans le cadre de l’autorisation.\n\n3. Tout au long de toutes les opérations pétrolières et gazières en mer, les États membres exigent du titulaire d’une autorisation qu’il prenne toutes les mesures raisonnables pour veiller à ce que l’exploitant respecte ces exigences, exerce ses fonctions et s’acquitte de sa mission conformément à la présente directive.\n\n4. Lorsque l’autorité compétente établit que l’exploitant n’est plus en mesure de satisfaire aux exigences prévues par la présente directive, l’autorité qui délivre les autorisations en est informée. Cette dernière communique ensuite cette information au titulaire de l’autorisation, qui assume alors la responsabilité de l’exécution des tâches concernées et propose sans retard un nouvel exploitant à l’autorité qui délivre les autorisations.\n\n5. Les États membres veillent à ce que des opérations relatives à des installations destinées ou non à la production ne commencent ou ne se poursuivent pas tant que le rapport sur les dangers majeurs n’a pas été accepté par l’autorité compétente conformément à la présente directive.\n\n6. Les États membres veillent à ce que des opérations sur puits ou des opérations combinées ne commencent ou ne se poursuivent pas tant que le rapport sur les dangers majeurs portant sur les installations concernées n’a pas été accepté conformément à la présente directive. En outre, de telles opérations ne sont pas commencées ni poursuivies si une notification relative à des opérations sur puits ou une notification relative à des opérations combinées n’a pas été adressée à l’autorité compétente en vertu de l’article 11, paragraphe 1, point h) ou i), respectivement, ou si l’autorité compétente soulève des objections quant au contenu d’une notification.\n\n7. Les États membres veillent à ce qu’une zone de sécurité soit mise en place autour d’une installation et à ce que les navires ne soient pas autorisés à entrer ou rester dans ladite zone de sécurité.\n\nCependant, cette interdiction ne s’applique pas à un navire qui entre ou reste dans la zone de sécurité:\n\na) aux fins de la pose, de l’inspection, de la vérification, de la réparation, de l’entretien, du changement, du renouvellement ou de l’enlèvement de tout câble ou pipeline sous-marin dans cette zone de sécurité ou à proximité;\n\nb) pour fournir des services à toute installation située dans ladite zone de sécurité ou pour transporter des personnes ou des marchandises à destination ou au départ de cette installation;\n\nc) pour inspecter toute installation ou infrastructure connectée située dans ladite zone de sécurité, sous l’autorité de l’État membre;\n\nd) dans le cadre d’un sauvetage ou d’une tentative de sauvetage de vies humaines ou de biens;\n\ne) en raison de contraintes météorologiques;\n\nf) en situation de détresse; ou\n\ng) avec l’accord de l’exploitant, du propriétaire ou de l’État membre dans lequel est située la zone de sécurité.\n\n8. Les États membres mettent en place un mécanisme de participation effective à une consultation tripartite entre l’autorité compétente, les exploitants et les propriétaires, et les représentants du personnel, en vue d’élaborer des normes et des politiques concernant la prévention des accidents majeurs.",
+      "text_sha256": "aebc5fc8a09dc902d4668b4e35e544fa99e245d883f6aa12af2e35487b6e0287",
+      "md_span": {
+        "start": 21852,
+        "end": 25512
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Responsabilité pour les dommages environnementaux",
+      "path": [
+        "CHAPITRE II",
+        "**PRÉVENTION DES ACCIDENTS MAJEURS RELATIFS À DES OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sans préjudice du champ d’application existant de la responsabilité en ce qui concerne la prévention et la réparation des dommages environnementaux en vertu de la directive 2004/35/CE, les États membres veillent à ce que le titulaire d’une autorisation soit financièrement responsable de la prévention et de la réparation de tout dommage environnemental défini dans ladite directive, occasionné par des opérations pétrolières et gazières en mer effectuées par lui-même ou par l’exploitant, ou pour leur compte.",
+      "text_sha256": "3f5629630f62f2604b3bb0b6d2c5452598acc5c55ee63772c31abce03585b2c5",
+      "md_span": {
+        "start": 25601,
+        "end": 26111
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Désignation de l’autorité compétente",
+      "path": [
+        "CHAPITRE II",
+        "**PRÉVENTION DES ACCIDENTS MAJEURS RELATIFS À DES OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres désignent une autorité compétente responsable des fonctions de régulation suivantes:\n\na) évaluer et accepter les rapports sur les dangers majeurs, évaluer les notifications de conception et les notifications d’opérations sur puits ou d’opérations combinées, et tout autre document de cette nature qui lui est soumis;\n\nb) contrôler le respect de la présente directive par les exploitants et les propriétaires, y compris au moyen d’inspections, d’enquêtes et de mesures d’exécution;\n\nc) conseiller d’autres autorités ou organismes, y compris l’autorité qui délivre les autorisations;\n\nd) élaborer des plans annuels en vertu de l’article 21;\n\ne) établir des rapports;\n\nf) coopérer avec les autorités compétentes ou les points de contact en vertu de l’article 27.\n\n2. Les États membres garantissent à tout moment l’indépendance et l’objectivité de l’autorité compétente dans l’exercice de ses fonctions de régulation, en particulier celles visées au paragraphe 1, points a), b) et c). En conséquence, les conflits d’intérêts sont évités entre, d’une part, les fonctions de régulation exercées par l’autorité compétente et, d’autre part, les fonctions de régulation liées au développement économique des ressources naturelles en mer et à l’octroi d’autorisations pour des opérations pétrolières et gazières en mer au sein de l’État membre, et à la collecte et à la gestion des recettes provenant de ces opérations.\n\n3. Pour atteindre les objectifs fixés au paragraphe 2, les États membres exigent que les fonctions de régulation de l’autorité compétente soient exercées au sein d’une autorité n’exerçant aucune des fonctions de l’État membre en matière de développement économique des ressources naturelles en mer et d’octroi d’autorisations pour des opérations pétrolières et gazières en mer au sein de l’État membre, et de collecte et de gestion des recettes provenant de ces opérations.\n\nToutefois, lorsque le nombre total d’installations faisant en règle générale l’objet d’une surveillance est inférieur à six, l’État membre concerné peut décider de ne pas appliquer le premier alinéa. Cette décision est sans préjudice de ses obligations au titre du paragraphe 2.\n\n4. Les États membres mettent à disposition du public une description de l’organisation de l’autorité compétente, indiquant notamment les raisons pour lesquelles ils ont établi l’autorité compétente de cette manière et comment ils ont assuré l’exécution des fonctions de régulation prévues au paragraphe 1 et le respect des obligations prévues au paragraphe 2.\n\n5. Les États membres veillent à ce que l’autorité compétente dispose de ressources humaines et financières suffisantes pour exécuter ses tâches au titre de la présente directive. Ces ressources sont proportionnelles à l’importance des opérations pétrolières et gazières en mer des États membres.\n\n6. Les États membres peuvent conclure des accords formels avec les agences appropriées de l’Union ou d’autres organismes adéquats, le cas échéant, aux fins de la mobilisation de compétences spécialisées destinées à soutenir l’autorité compétente dans l’exercice de ses fonctions de régulation. Aux fins du présent paragraphe, un organisme n’est pas réputé adéquat si son objectivité peut être compromise par des conflits d’intérêts.\n\n7. Les États membres peuvent mettre en place des mécanismes en vertu desquels les coûts financiers supportés par l’autorité compétente dans le cadre de l’exécution de ses tâches au titre de la présente directive peuvent être recouvrés auprès des titulaires d’une autorisation, des exploitants ou des propriétaires.\n\n8. Lorsque l’autorité compétente comprend plusieurs organes, les États membres prennent toutes les mesures nécessaires pour éviter des doublons dans les fonctions de régulation entre ces organes. Les États membres peuvent désigner l’un des organes constitutifs organe principal responsable de la coordination des fonctions de régulation au titre de la présente directive et responsable de la communication d’informations à la Commission.\n\n9. Les États membres contrôlent les activités de l’autorité compétente et prennent toutes les mesures nécessaires pour renforcer son efficacité dans l’exercice des fonctions de régulation énoncées au paragraphe 1.",
+      "text_sha256": "0abae535e55a70fb93da4651a78ffe14170dfea8a722491b2a5d1350db1a86d5",
+      "md_span": {
+        "start": 26187,
+        "end": 30434
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Fonctionnement de l’autorité compétente",
+      "path": [
+        "CHAPITRE II",
+        "**PRÉVENTION DES ACCIDENTS MAJEURS RELATIFS À DES OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres veillent à ce que l’autorité compétente:\n\na) agisse indépendamment des politiques, des décisions de régulation ou d’autres considérations n’ayant pas de lien avec les tâches découlant de la présente directive;\n\nb) délimite clairement l’étendue de ses responsabilités, ainsi que les responsabilités de l’exploitant et du propriétaire pour ce qui est de la maîtrise des risques d’accidents majeurs au titre de la présente directive;\n\nc) mette en place une stratégie, des méthodes et des procédures pour évaluer de manière approfondie les rapports sur les dangers majeurs et les notifications qui lui sont adressées en vertu de l’article 11, ainsi que pour surveiller le respect de la présente directive dans la juridiction de l’État membre, y compris au moyen d’inspections, d’enquêtes et de mesures d’exécution;\n\nd) permette l’accès des exploitants et des propriétaires à la stratégie, aux méthodes et aux procédures visées au point c) et en mette une synthèse à la disposition du public;\n\ne) élabore et applique, si nécessaire, des procédures coordonnées ou conjointes avec d’autres autorités dans l’État membre pour l’exécution des tâches découlant de la présente directive; et\n\nf) fonde sa stratégie, son organisation et ses procédures opérationnelles sur les principes énoncés à l’annexe III.",
+      "text_sha256": "137b38fe24592ca77f2a2c49625e6b9e84fab385f10edd01691a39b17c2c8a5a",
+      "md_span": {
+        "start": 30513,
+        "end": 31826
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Tâches de l’Agence européenne pour la sécurité maritime",
+      "path": [
+        "CHAPITRE II",
+        "**PRÉVENTION DES ACCIDENTS MAJEURS RELATIFS À DES OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. L’Agence européenne pour la sécurité maritime (AESM, ci-après dénommée «Agence») fournit aux États membres et à la Commission une assistance technique et scientifique conformément au mandat qui lui est assigné au titre du règlement (CE) no 1406/2002.\n\n2. Dans le cadre de son mandat, l’Agence:\n\na) aide la Commission et l’État membre touché, à la demande de ce dernier, à détecter et contrôler l’étendue d’un déversement de pétrole en mer ou d’une fuite de gaz;\n\nb) aide les États membres, à leur demande, dans l’élaboration et l’exécution des plans d’intervention d’urgence externes, en particulier en cas d’incidences transfrontières dans les eaux au large des côtes des États membres et au-delà;\n\nc) sur la base des plans d’intervention d’urgence externes et internes des États membres, élabore avec les États membres et les exploitants un catalogue des équipements et services d’urgence disponibles.\n\n3. L’Agence peut, sur demande:\n\na) aider la Commission à évaluer les plans d’intervention d’urgence externes des États membres afin de vérifier s’ils sont conformes à la présente directive;\n\nb) contrôler les exercices visant essentiellement à tester les mécanismes d’urgence transfrontières et ceux de l’Union.",
+      "text_sha256": "21dfe1627b8cebd8f99efc9366dd934f21626c4ed843f7b3e6f4b692cb574729",
+      "md_span": {
+        "start": 31923,
+        "end": 33141
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Documents à fournir pour la réalisation d’opérations pétrolières et gazières en mer",
+      "path": [
+        "CHAPITRE III",
+        "**PRÉPARATION ET RÉALISATION D’OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que l’exploitant ou le propriétaire soumette à l’autorité compétente les documents suivants:\n\na) la politique d’entreprise concernant la prévention des accidents majeurs ou une description adéquate de celle-ci conformément à l’article 19, paragraphes 1 et 5;\n\nb) le système de gestion de la sécurité et de l’environnement applicable à l’installation ou une description adéquate de celui-ci conformément à l’article 19, paragraphes 3 et 5;\n\nc) dans le cas d’une installation destinée à la production qui est planifiée, une notification de conception conformément aux exigences énoncées à l’annexe I, partie 1;\n\nd) une description du programme de vérification indépendante conformément à l’article 17;\n\ne) un rapport sur les dangers majeurs conformément aux articles 12 et 13;\n\nf) en cas de modification substantielle ou de démantèlement d’une installation, un rapport modifié sur les dangers majeurs conformément aux articles 12 et 13;\n\ng) le plan d’intervention d’urgence interne ou une description adéquate de celui-ci conformément aux articles 14 et 28;\n\nh) dans le cas d’une opération sur puits, une notification de cette opération sur puits et des informations sur ladite opération conformément à l’article 15;\n\ni) dans le cas d’une opération combinée, une notification des opérations combinées conformément à l’article 16;\n\nj) dans le cas d’une installation existante destinée à la production qui doit être déplacée vers un nouveau lieu de production où elle doit être exploitée, une notification de délocalisation conformément à l’annexe I, partie 1;\n\nk) tout autre document pertinent demandé par l’autorité compétente.\n\n2. Les documents à soumettre au titre du paragraphe 1, points a), b), d) et g), sont inclus dans le rapport sur les dangers majeurs requis au titre du paragraphe 1, point e). La politique d’entreprise concernant la prévention des accidents majeurs d’un exploitant de puits figure également, lorsqu’elle n’a pas été préalablement soumise, dans la notification d’opérations sur puits à soumettre au titre du paragraphe 1, point h).\n\n3. La notification de conception requise en vertu du paragraphe 1, point c), est soumise à l’autorité compétente dans les délais fixés par celle-ci, avant la date envisagée pour la soumission du rapport sur les dangers majeurs concernant l’opération planifiée. L’autorité compétente répond à la notification de conception au moyen d’observations à prendre en compte dans le rapport sur les dangers majeurs.\n\n4. Lorsqu’une installation existante destinée à la production doit être introduite dans les eaux au large des côtes d’un État membre ou en être retirée, l’exploitant en informe l’autorité compétente par écrit avant la date d’introduction ou de retrait de cette installation des eaux au large des côtes de l’État membre.\n\n5. La notification de délocalisation requise en vertu du paragraphe 1, point j), est soumise à l’autorité compétente à un stade suffisamment précoce du processus envisagé pour permettre à l’exploitant de tenir compte de toutes les questions soulevées par l’autorité compétente pendant l’élaboration du rapport sur les dangers majeurs.\n\n6. Lorsqu’une modification substantielle affecte la notification de conception ou la notification de délocalisation avant la soumission du rapport sur les dangers majeurs, l’autorité compétente en est informée dans les meilleurs délais.\n\n7. Le rapport sur les dangers majeurs requis en vertu du paragraphe 1, point e), est soumis à l’autorité compétente dans le délai fixé par cette dernière, soit avant le début envisagé des opérations.",
+      "text_sha256": "2ca7feab40ca7bca912de6d24d24b1e98dfbda7aedb836e455893b55a94f84df",
+      "md_span": {
+        "start": 33363,
+        "end": 36958
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Rapport sur les dangers majeurs pour une installation destinée à la production",
+      "path": [
+        "CHAPITRE III",
+        "**PRÉPARATION ET RÉALISATION D’OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que l’exploitant prépare un rapport sur les dangers majeurs pour une installation destinée à la production, à soumettre en vertu de l’article 11, paragraphe 1, point e). Ce rapport contient les informations indiquées à l’annexe I, parties 2 et 5, et fait l’objet d’une mise à jour s’il y a lieu ou lorsque l’autorité compétente l’exige.\n\n2. Les États membres veillent à ce que les représentants des travailleurs soient consultés aux stades pertinents de l’élaboration du rapport sur les dangers majeurs pour une installation destinée à la production et que les informations requises à cet effet soient fournies conformément à l’annexe I, partie 2, point 3).\n\n3. Le rapport sur les dangers majeurs pour une installation destinée à la production peut être élaboré pour un groupe d’installations, sous réserve de l’accord de l’autorité compétente.\n\n4. Si des informations complémentaires sont nécessaires pour que le rapport sur les dangers majeurs puisse être accepté, les États membres veillent à ce que l’exploitant fournisse, à la demande de l’autorité compétente, ces informations et apporte toutes les modifications nécessaires au rapport sur les dangers majeurs qui est soumis.\n\n5. Lorsque des modifications entraînant une modification substantielle doivent être apportées à une installation destinée à la production ou qu’il est prévu de démanteler une installation fixe destinée à la production, l’exploitant prépare un rapport modifié sur les dangers majeurs à soumettre en vertu de l’article 11, paragraphe 1, point f), dans le délai fixé par l’autorité compétente, conformément à l’annexe I, partie 6.\n\n6. Les États membres veillent à ce que les modifications envisagées ne soient pas mises en service et qu’aucun démantèlement ne débute avant que l’autorité compétente ait accepté le rapport modifié sur les dangers majeurs pour l’installation destinée à la production.\n\n7. Le rapport sur les dangers majeurs pour une installation destinée à la production fait l’objet d’un réexamen périodique approfondi par l’exploitant, au moins tous les cinq ans ou plus tôt lorsque l’autorité compétente l’exige. Les résultats de ce réexamen sont notifiés à l’autorité compétente.",
+      "text_sha256": "215ecc524e37fee6d88692482ddc1abf39822ed0825f27a65c9e4391f9afdda6",
+      "md_span": {
+        "start": 37078,
+        "end": 39291
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Rapport sur les dangers majeurs pour une installation non destinée à la production",
+      "path": [
+        "CHAPITRE III",
+        "**PRÉPARATION ET RÉALISATION D’OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que le propriétaire prépare un rapport sur les dangers majeurs pour une installation non destinée à la production, à soumettre en vertu de l’article 11, paragraphe 1, point e). Ce rapport contient les informations indiquées à l’annexe I, parties 3 et 5, et fait l’objet d’une mise à jour le cas échéant, ou lorsque l’autorité compétente l’exige.\n\n2. Les États membres veillent à ce que les représentants des travailleurs soient consultés aux stades pertinents de la préparation du rapport sur les dangers majeurs pour une installation non destinée à la production et que les éléments de preuve requis à cet effet soient fournis conformément à l’annexe I, partie 3, point 2).\n\n3. Si des informations complémentaires sont nécessaires pour que le rapport sur les dangers majeurs pour une installation non destinée à la production puisse être accepté, les États membres exigent du propriétaire qu’il fournisse ces informations, à la demande de l’autorité compétente, et qu’il apporte toutes les modifications nécessaires au rapport sur les dangers majeurs qui est soumis.\n\n4. Lorsque des modifications entraînant une modification substantielle doivent être apportées à une installation non destinée à la production ou qu’il est prévu de démanteler une installation fixe non destinée à la production, le propriétaire prépare un rapport modifié sur les dangers majeurs, à soumettre en vertu de l’article 11, paragraphe 1, point f), dans le délai fixé par l’autorité compétente, conformément à l’annexe I, partie 6, points 1), 2) et 3).\n\n5. Dans le cas d’une installation fixe non destinée à la production, les États membres veillent à ce que les modifications envisagées ne soient pas mises en service et qu’aucun démantèlement ne débute avant que l’autorité compétente ait accepté le rapport modifié sur les dangers majeurs pour l’installation fixe non destinée à la production.\n\n6. Dans le cas d’une installation mobile non destinée à la production, les États membres veillent à ce que les modifications envisagées ne soient pas mises en service avant que l’autorité compétente ait accepté le rapport modifié sur les dangers majeurs pour l’installation mobile non destinée à la production concernée.\n\n7. Le rapport sur les dangers majeurs pour une installation non destinée à la production fait l’objet d’un réexamen périodique approfondi par le propriétaire, au moins tous les cinq ans ou plus tôt lorsque l’autorité compétente l’exige. Les résultats de ce réexamen sont notifiés à l’autorité compétente.",
+      "text_sha256": "c066e04a3f61f588e46d40f7bebd112f65cb9c35b272469e003925c236a3b24f",
+      "md_span": {
+        "start": 39415,
+        "end": 41951
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Plans d’intervention d’urgence internes",
+      "path": [
+        "CHAPITRE III",
+        "**PRÉPARATION ET RÉALISATION D’OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que les exploitants ou, le cas échéant, les propriétaires préparent des plans d’intervention d’urgence internes, à soumettre en vertu de l’article 11, paragraphe 1, point g). Ces plans sont préparés conformément à l’article 28 en tenant compte de l’évaluation des risques d’accident majeur effectuée au cours de la préparation du rapport sur les dangers majeurs le plus récent. Le plan comprend une analyse de l’efficacité de l’intervention en cas de déversement de pétrole en mer.\n\n2. Lorsqu’une installation mobile non destinée à la production doit être utilisée pour effectuer des opérations sur puits, le plan d’intervention d’urgence interne relatif à cette installation tient compte de l’évaluation des risques effectuée durant la préparation de la notification d’opérations sur puits à soumettre en vertu de l’article 11, paragraphe 1, point h). Lorsque le plan d’intervention d’urgence interne doit être modifié en raison de la nature particulière du puits ou de son emplacement, les États membres veillent à ce que l’exploitant du puits soumette à l’autorité compétente le plan d’intervention d’urgence interne modifié ou une description adéquate de celui-ci pour compléter la notification d’opérations sur puits concernée.\n\n3. Lorsqu’une installation non destinée à la production doit être utilisée pour effectuer des opérations combinées, le plan d’intervention d’urgence interne est modifié afin d’y inclure lesdites opérations et est soumis à l’autorité compétente pour compléter la notification des opérations combinées concernées.",
+      "text_sha256": "b3a74163fe94ea06df7fb1b5517b39d6f326ff57e5688e24cc093adb66998f48",
+      "md_span": {
+        "start": 42032,
+        "end": 43612
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Notification d’opérations sur puits et informations concernant ces opérations",
+      "path": [
+        "CHAPITRE III",
+        "**PRÉPARATION ET RÉALISATION D’OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que l’exploitant d’un puits prépare la notification à soumettre, en vertu de l’article 11, paragraphe 1, point h), à l’autorité compétente. Elle est soumise, dans le délai fixé par l’autorité compétente qui se situe avant le début de l’opération sur puits. Cette notification d’opérations sur puits contient des informations détaillées relatives à la conception du puits et aux opérations sur puits proposées, conformément à l’annexe I, partie 4. Celle-ci comprend une analyse de l’efficacité de l’intervention en cas de déversement de pétrole en mer.\n\n2. L’autorité compétente examine la notification et, si elle le juge nécessaire, prend les mesures appropriées avant que les opérations sur puits ne commencent, lesquelles peuvent comprendre, le cas échéant, une interdiction du démarrage des opérations.\n\n3. Les États membres veillent à ce que l’exploitant du puits associe le vérificateur indépendant à la planification et à la préparation de toute modification substantielle de la notification d’opérations sur puits soumise en vertu de l’article 17, paragraphe 4, point b), et à ce qu’il informe immédiatement l’autorité compétente de toute modification substantielle de la notification d’opérations sur puits qui est soumise. L’autorité compétente examine ces modifications et, si elle le juge nécessaire, prend les mesures appropriées.\n\n4. Les États membres veillent à ce que l’exploitant du puits soumette à l’autorité compétente des rapports concernant les opérations sur puits conformément aux exigences énoncées à l’annexe II. Les rapports sont soumis chaque semaine, à partir du jour où débutent les opérations sur puits, ou à une fréquence spécifiée par l’autorité compétente.",
+      "text_sha256": "cdb0a1759105f47c488cc6ed3012fe15a3b9365f1f832737c98656e33da7c732",
+      "md_span": {
+        "start": 43731,
+        "end": 45456
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Notification d’opérations combinées",
+      "path": [
+        "CHAPITRE III",
+        "**PRÉPARATION ET RÉALISATION D’OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que les exploitants et les propriétaires qui participent à une opération combinée élaborent conjointement la notification à soumettre en vertu de l’article 11, paragraphe 1, point i). La notification contient les informations énoncées à l’annexe I, partie 7. Les États membres veillent à ce que l’un des exploitants concernés soumette la notification des opérations combinées à l’autorité compétente. La notification est soumise dans le délai fixé par l’autorité compétente avant que les opérations combinées ne commencent.\n\n2. L’autorité compétente examine la notification et, si elle le juge nécessaire, prend les mesures appropriées avant que les opérations combinées ne commencent, lesquelles peuvent comprendre, le cas échéant, une interdiction du démarrage des opérations.\n\n3. Les États membres veillent à ce que l’exploitant qui a soumis la notification informe, sans retard, l’autorité compétente de toute modification substantielle apportée à la notification soumise. L’autorité compétente examine ces modifications et, si elle le juge nécessaire, prend les mesures appropriées.",
+      "text_sha256": "c11cd0605f0e6c401b734a74b5a8af2e99eff9aa1316553d862a6bd985547f3d",
+      "md_span": {
+        "start": 45533,
+        "end": 46655
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Vérification indépendante",
+      "path": [
+        "CHAPITRE III",
+        "**PRÉPARATION ET RÉALISATION D’OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que les exploitants et les propriétaires établissent des programmes de vérification indépendante et qu’ils préparent une description de ceux-ci à soumettre en vertu de l’article 11, paragraphe 1, point d), et à inclure dans le système de gestion de la sécurité et de l’environnement soumis en vertu de l’article 11, paragraphe 1, point b). Cette description contient les informations énoncées à l’annexe I, partie 5.\n\n2. Les résultats de la vérification indépendante sont sans préjudice de la responsabilité de l’exploitant ou du propriétaire concernant le fonctionnement correct et sûr de l’équipement et des systèmes soumis à vérification.\n\n3. La sélection du vérificateur indépendant et la conception des programmes de vérification indépendante satisfont aux critères énumérés à l’annexe V.\n\n4. Les programmes de vérification indépendante sont établis:\n\na) en ce qui concerne les installations, pour garantir de façon indépendante que les éléments critiques pour la sécurité et l’environnement recensés dans l’évaluation des risques pour l’installation, tels qu’ils sont décrits dans le rapport sur les dangers majeurs, sont adéquats et que le calendrier prévu pour l’examen et les essais concernant les éléments critiques pour la sécurité et l’environnement est adéquat, actualisé et exécuté comme prévu;\n\nb) en ce qui concerne les notifications d’opérations sur puits, pour garantir de façon indépendante que la conception du puits et les mesures de contrôle du puits sont en tout temps adaptées aux conditions du puits escomptées.\n\n5. Les États membres veillent à ce que les exploitants et les propriétaires réagissent aux conseils émis par le vérificateur indépendant et prennent les mesures appropriées fondées sur ces conseils.\n\n6. Les États membres exigent des exploitants et des propriétaires qu’ils veillent à ce que les conseils reçus du vérificateur indépendant en vertu du paragraphe 4, point a), et les données relatives aux mesures prises sur la base de ces conseils soient mis à la disposition de l’autorité compétente et conservés par l’exploitant ou le propriétaire pendant une période de six mois après l’achèvement des opérations pétrolières et gazières en mer concernées.\n\n7. Les États membres exigent des exploitants de puits qu’ils veillent à ce que les conclusions et observations formulées par le vérificateur indépendant en vertu du paragraphe 4, point b), du présent article ainsi que les mesures qu’ils prennent pour donner suite à ces conclusions et observations figurent dans la notification d’opérations sur puits préparée conformément à l’article 15.\n\n8. En ce qui concerne les installations destinées à la production, le programme de vérification est mis en place avant l’achèvement de la conception. Pour les installations non destinées à la production, le programme de vérification est mis en place avant le démarrage des opérations dans les eaux au large des côtes des États membres.",
+      "text_sha256": "737bf48e47e618b7611d986d6243ee5347de8dbf16a839ab3cf7d91a7fc324fd",
+      "md_span": {
+        "start": 46722,
+        "end": 49678
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Pouvoir de l’autorité compétente concernant les opérations sur les installations",
+      "path": [
+        "CHAPITRE III",
+        "**PRÉPARATION ET RÉALISATION D’OPÉRATIONS PÉTROLIÈRES ET GAZIÈRES EN MER**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres veillent à ce que l’autorité compétente:\n\na) interdise l’exploitation ou le démarrage d’opérations sur toute installation ou toute infrastructure connectée si les mesures proposées dans le rapport sur les dangers majeurs pour la prévention ou la limitation des conséquences des accidents majeurs ou dans les notifications d’opérations sur puits ou d’opérations combinées soumises en vertu de l’article 11, paragraphe 1, points h) ou i) respectivement, sont jugées insuffisantes pour satisfaire aux exigences énoncées dans la présente directive;\n\nb) dans des circonstances exceptionnelles, et si elle estime que la sécurité et la protection de l’environnement ne sont pas mises en péril, raccourcisse l’intervalle de temps exigé entre la présentation du rapport sur les dangers majeurs ou d’autres documents à soumettre en vertu de l’article 11 et le début des opérations;\n\nc) impose à l’exploitant de prendre les mesures appropriées que l’autorité compétente juge nécessaires pour garantir le respect de article 3, paragraphe 1;\n\nd) lorsque l’article 6, paragraphe 4, s’applique, prenne les mesures adéquates pour garantir le maintien de la sécurité des opérations;\n\ne) soit habilitée à exiger des améliorations et, si nécessaire, à interdire la poursuite de l’exploitation de toute installation ou de toute partie d’installation ou de toute infrastructure connectée s’il ressort des résultats d’une inspection, d’une appréciation conformément à l’article 6, paragraphe 4, d’un réexamen périodique du rapport sur les dangers majeurs soumis en vertu de l’article 11, paragraphe 1, point e), ou des modifications apportées aux notifications soumises en vertu de l’article 11, que les exigences de la présente directive ne sont pas satisfaites ou que la sécurité des opérations pétrolières et gazières en mer ou des installations suscite des préoccupations raisonnables.",
+      "text_sha256": "f52c4cda0940f8b0f09ce2d0fbc20d071c9eff109f69014520213fa39c7a7465",
+      "md_span": {
+        "start": 49800,
+        "end": 51685
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Prévention des accidents majeurs par les exploitants et les propriétaires",
+      "path": [
+        "CHAPITRE IV",
+        "**POLITIQUE DE PRÉVENTION**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres exigent des exploitants et des propriétaires qu’ils préparent un document exposant leur politique d’entreprise concernant la prévention des accidents majeurs à soumettre en vertu de l’article 11, paragraphe 1, point a), et qu’ils veillent à ce que cette politique soit mise en œuvre tout au long de leurs opérations pétrolières et gazières en mer, y compris en mettant en place des mécanismes de suivi appropriés afin de garantir l’efficacité de ladite politique. Ce document contient les informations énoncées à l’annexe I, partie 8.\n\n2. La politique d’entreprise concernant la prévention des accidents majeurs tient compte de la responsabilité première des exploitants en ce qui concerne, entre autres, la maîtrise des risques d’accident majeur qui découlent de leurs opérations et l’amélioration permanente de la maîtrise desdits risques de manière à assurer un niveau de protection élevé en tout temps.\n\n3. Les États membres veillent à ce que les exploitants et les propriétaires préparent un document exposant leur système de gestion de la sécurité et de l’environnement qui doit être soumis en vertu de l’article 11, paragraphe 1, point b). Ce document comprend la description des:\n\na) modalités organisationnelles mises en place pour la maîtrise des dangers majeurs;\n\nb) dispositions prises pour la préparation et la soumission des rapports sur les dangers majeurs et, le cas échéant, d’autres documents en vertu de la présente directive; et\n\nc) programmes de vérification indépendante établis en vertu de l’article 17.\n\n4. Les États membres donnent la possibilité aux exploitants et aux propriétaires de contribuer aux mécanismes de consultation tripartite effective mis en place en application de l’article 6, paragraphe 8. Le cas échéant, la participation active d’un exploitant et d’un propriétaire à de tels mécanismes peut être décrite dans la politique d’entreprise concernant la prévention des accidents majeurs.\n\n5. La politique d’entreprise concernant la prévention des accidents majeurs et les systèmes de gestion de la sécurité et de l’environnement sont préparés conformément à l’annexe I, parties 8 et 9, et à l’annexe IV. Les conditions suivantes s’appliquent:\n\na) la politique d’entreprise concernant la prévention des accidents majeurs est formulée par écrit et fixe les objectifs généraux et les dispositions prises en vue de maîtriser le risque d’accident majeur, ainsi que la façon dont ces objectifs doivent être atteints et ces dispositions mises en œuvre au niveau de l’entreprise;\n\nb) le système de gestion de la sécurité et de l’environnement est intégré dans le système de gestion globale de l’exploitant ou du propriétaire et comprend notamment la structure organisationnelle, les responsabilités, les pratiques, les procédures, les méthodes et les ressources nécessaires pour définir et mettre en œuvre la politique d’entreprise concernant la prévention des accidents majeurs.\n\n6. Les États membres veillent à ce que les exploitants et les propriétaires préparent un inventaire complet des équipements d’intervention d’urgence pertinents pour leurs opérations pétrolières et gazières en mer et à ce qu’ils tiennent cet inventaire à jour.\n\n7. Les États membres veillent à ce que les exploitants et les propriétaires élaborent et réexaminent, en concertation avec l’autorité compétente et en tirant parti des échanges de connaissances, d’informations et d’expériences prévus à l’article 27, paragraphe 1, des normes et des lignes directrices relatives aux meilleures pratiques concernant la maîtrise des dangers majeurs tout au long du cycle de la conception et de la réalisation d’opérations pétrolières et gazières en mer, et qu’ils respectent au minimum le schéma figurant à l’annexe VI.\n\n8. Les États membres exigent des exploitants et des propriétaires qu’ils veillent à ce que le document relatif à leur politique d’entreprise concernant la prévention des accidents majeurs visé au paragraphe 1 couvre également leurs installations destinées ou non à la production situées en dehors de l’Union.\n\n9. Lorsqu’une activité exercée par un exploitant ou un propriétaire présente un danger immédiat pour la santé humaine ou augmente sensiblement le risque d’accident majeur, les États membres veillent à ce que l’exploitant ou le propriétaire prenne les mesures adéquates, lesquelles peuvent comprendre, si nécessaire, la suspension de l’activité en question jusqu’à ce que le danger ou le risque soit maîtrisé de façon appropriée. Lorsque ces mesures sont prises, les États membres veillent à ce que l’exploitant ou le propriétaire en informe l’autorité compétente sans retard, et au plus tard dans les vingt-quatre heures après avoir pris ces mesures.\n\n10. Les États membres veillent à ce que, le cas échéant, les exploitants et les propriétaires prennent des mesures appropriées pour recourir à des moyens techniques ou à des procédures appropriés afin d’accroître la fiabilité de la collecte et de l’enregistrement des données pertinentes et de prévenir toute manipulation éventuelle de ces données.",
+      "text_sha256": "769a96617bf0ad6cf652376ceaebfedcf8f579dcd27136e028388b448c18ee12",
+      "md_span": {
+        "start": 51849,
+        "end": 56905
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Opérations pétrolières et gazières en mer menées hors de l’Union",
+      "path": [
+        "CHAPITRE IV",
+        "**POLITIQUE DE PRÉVENTION**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres exigent des entreprises enregistrées sur leur territoire et qui mènent elles-mêmes ou par l’intermédiaire de filiales des opérations pétrolières et gazières en mer hors de l’Union, en tant que titulaires d’une autorisation ou en tant qu’exploitants, qu’ils fassent rapport, si elles y sont invitées, sur les circonstances de tout accident majeur dans lequel elles ont été impliquées.\n\n2. Dans sa demande de rapport soumise en vertu du paragraphe 1 du présent article, l’État membre concerné précise le détail des informations requises. Ces rapports sont échangés conformément à l’article 27, paragraphe 1. Les États membres qui ne disposent ni d’autorité compétente ni de point de contact soumettent les rapports reçus à la Commission.",
+      "text_sha256": "8114db8cbc6e367d2f3ffd5f97d61ea80a16c69a66409b2b894eec0de5663bc2",
+      "md_span": {
+        "start": 57011,
+        "end": 57767
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Respect du cadre réglementaire pour la prévention des accidents majeurs",
+      "path": [
+        "CHAPITRE IV",
+        "**POLITIQUE DE PRÉVENTION**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que les exploitants et les propriétaires respectent les mesures mises en place dans le rapport sur les dangers majeurs et dans les plans visés dans la notification d’opérations sur puits et dans la notification d’opérations combinées qui sont soumises en vertu de l’article 11, paragraphe 1, points e), h) et i), respectivement.\n\n2. Les États membres veillent à ce que les exploitants et les propriétaires assurent le transport de l’autorité compétente ou de toute autre personne agissant sous la direction de cette dernière vers et depuis une installation ou un navire associé aux opérations pétrolières et gazières, y compris le transport de leurs équipements, à tout moment raisonnable et leur fournissent un logement, des repas et tout autre moyen de subsistance dans le cadre des visites des installations, afin de faciliter la surveillance par l’autorité compétente, y compris les inspections, les enquêtes et le respect de la présente directive.\n\n3. Les États membres veillent à ce que l’autorité compétente élabore des plans annuels en vue d’une surveillance effective des dangers majeurs, y compris au moyen d’inspections, fondée sur la gestion des risques et en accordant une attention particulière au respect du rapport sur les dangers majeurs et d’autres documents, soumis en vertu de l’article 11. L’efficacité de ces plans fait l’objet d’un réexamen périodique et l’autorité compétente prend toute mesure nécessaire en vue de les améliorer.",
+      "text_sha256": "7e282ea2cb181e85faef57560284adf3d8ea1a5ec8f3ec0257ee39ea4354b079",
+      "md_span": {
+        "start": 57880,
+        "end": 59369
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Signalement confidentiel des problèmes de sécurité",
+      "path": [
+        "CHAPITRE IV",
+        "**POLITIQUE DE PRÉVENTION**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que l’autorité compétente mette en place des mécanismes permettant:\n\na) le signalement confidentiel de problèmes touchant à la sécurité et à l’environnement concernant des opérations pétrolières et gazières en mer, quelle qu’en soit l’origine; et\n\nb) d’enquêter sur ces signalements tout en préservant l’anonymat des personnes concernées.\n\n2. Les États membres exigent des exploitants et des propriétaires qu’ils communiquent à leurs employés, ainsi qu’aux contractants associés à l’exploitation et à leurs employés, des informations détaillées concernant les dispositions nationales relatives aux mécanismes visés au paragraphe 1 et qu’ils veillent à ce que le signalement confidentiel soit mentionné dans les formations et les avis qui leur sont adressés.",
+      "text_sha256": "7fcea0894c102ff0e7d462205787bc3c5347e71813bc9af0014ba66562e9a45a",
+      "md_span": {
+        "start": 59461,
+        "end": 60253
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Partage d’informations",
+      "path": [
+        "CHAPITRE V",
+        "**TRANSPARENCE ET PARTAGE D’INFORMATIONS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que les exploitants et les propriétaires fournissent à l’autorité compétente, au minimum, les informations figurant à l’annexe IX.\n\n2. La Commission définit au moyen d’un acte d’exécution, un format commun pour la communication des données et le détail des informations à partager. Cet acte d’exécution est adopté conformément à la procédure consultative visée à l’article 37, paragraphe 2.",
+      "text_sha256": "723f74b6ba3bdfe1c60c9d90cd25b4e4a8fd94d35e4c822f02291b664844f69c",
+      "md_span": {
+        "start": 60380,
+        "end": 60805
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Transparence",
+      "path": [
+        "CHAPITRE V",
+        "**TRANSPARENCE ET PARTAGE D’INFORMATIONS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres mettent les informations visées à l’annexe IX à la disposition du public.\n\n2. La Commission définit au moyen d’un acte d’exécution un format de publication commun qui permet une comparaison transfrontière aisée des données. Cet acte d’exécution est adopté conformément à la procédure consultative visée à l’article 37, paragraphe 2. Le format de publication commun permet une comparaison fiable des pratiques nationales au titre du présent article et de l’article 25.",
+      "text_sha256": "f345a2cf01744b05aa917a0e1e48ef1f44ddd6f07ee8000ff9986d6d91b3ef65",
+      "md_span": {
+        "start": 60859,
+        "end": 61347
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": "Établissement de rapports sur la sécurité et les incidences sur l’environnement",
+      "path": [
+        "CHAPITRE V",
+        "**TRANSPARENCE ET PARTAGE D’INFORMATIONS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres soumettent à la Commission un rapport annuel contenant les informations énoncées à l’annexe IX, point 3.\n\n2. Les États membres désignent une autorité responsable pour l’échange des informations en vertu de l’article 23 et la publication des informations en vertu de l’article 24.\n\n3. La Commission publie un rapport annuel fondé sur les informations que les États membres lui ont communiquées en vertu du paragraphe 1.",
+      "text_sha256": "cc26c50dea0dfc5df861c47fe83129e57717e45712635c088e3f608b107dd042",
+      "md_span": {
+        "start": 61468,
+        "end": 61907
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": "Enquête menée à la suite d’un accident majeur",
+      "path": [
+        "CHAPITRE V",
+        "**TRANSPARENCE ET PARTAGE D’INFORMATIONS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres déclenchent des enquêtes approfondies sur les accidents majeurs relevant de leur juridiction.\n\n2. Une synthèse des conclusions établies en vertu du paragraphe 1 est mise à la disposition de la Commission, soit au terme de l’enquête, soit au terme de la procédure judiciaire, selon le cas. Les États membres mettent à la disposition du public une version non confidentielle de ces conclusions.\n\n3. Les États membres veillent à ce que, à la suite de l’enquête menée conformément au paragraphe 1, l’autorité compétente mette en œuvre toute recommandation formulée dans le cadre de l’enquête et qui relève de son pouvoir d’action.",
+      "text_sha256": "721009a430bcb4377c41832100e491bf80403ba9936d736ce0111b011b576eec",
+      "md_span": {
+        "start": 61994,
+        "end": 62641
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27",
+      "heading": "Coopération entre États membres",
+      "path": [
+        "CHAPITRE VI",
+        "**COOPÉRATION**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Chaque État membre veille à ce que son autorité compétente échange régulièrement des connaissances, des informations et des expériences avec d’autres autorités compétentes, notamment dans le cadre du groupe des autorités du pétrole et du gaz en mer de l’Union européenne (EUOAG), et à ce qu’elle procède à des consultations avec le secteur industriel, d’autres parties prenantes et la Commission sur l’application du droit national pertinent et du droit de l’Union.\n\nPour les États membres sous la juridiction desquels ne sont pas menées d’opérations pétrolières et gazières en mer, les informations visées au premier alinéa sont reçues par le biais des points de contact désignés en vertu de l’article 32, paragraphe 1.\n\n2. Les connaissances, les informations et les expériences échangées en vertu du paragraphe 1 concernent, en particulier, le fonctionnement des mesures de gestion des risques, la prévention des accidents majeurs, la vérification de la conformité et les interventions d’urgence concernant des opérations pétrolières et gazières en mer menées dans l’Union et, le cas échéant, hors de l’Union.\n\n3. Chaque État membre veille à ce que ses autorités compétentes participent à la définition de priorités communes claires pour l’élaboration et la mise à jour de normes et de lignes directrices afin de recenser les meilleures pratiques en matière d’opérations pétrolières et gazières en mer et de faciliter leur mise en œuvre et leur application cohérente.\n\n4. Au plus tard le 19 juillet 2014, la Commission présente aux États membres un rapport sur l’adéquation des ressources en matière d’experts nationaux pour l’exercice des fonctions de régulation en vertu de la présente directive qui comporte, le cas échéant, des propositions visant à garantir que tous les États membres aient accès aux ressources adéquates en matière d’experts.\n\n5. Au plus tard le 19 juillet 2016, les États membres notifient à la Commission les mesures qu’ils ont mises en place au niveau national concernant l’accès aux ressources en matière de connaissances, de moyens et d’experts, y compris les accords formels en vertu de l’article 8, paragraphe 6.",
+      "text_sha256": "26e02ff0ecdc51e20f2ceb8cce7901910141df61a0b3e944d775b663c5d00138",
+      "md_span": {
+        "start": 62751,
+        "end": 64898
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Article 28",
+      "heading": "Exigences relatives aux plans d’intervention d’urgence internes",
+      "path": [
+        "CHAPITRE VII",
+        "**PRÉPARATION ET RÉACTION AUX SITUATIONS D’URGENCE**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que les plans d’intervention d’urgence internes devant être préparés par l’exploitant ou le propriétaire conformément à l’article 14 et soumis en vertu de l’article 11, paragraphe 1, point g), soient:\n\na) mis en œuvre sans retard afin de réagir à tout accident majeur ou à toute situation comportant un risque immédiat d’accident majeur; et\n\nb) cohérents avec le plan d’intervention d’urgence externe visé à l’article 29.\n\n2. Les États membres veillent à ce que l’exploitant et le propriétaire garantissent la disponibilité en tout temps des équipements et de l’expertise nécessaires au plan d’intervention d’urgence interne afin qu’ils soient mis, au besoin, à la disposition des autorités chargées de l’exécution du plan d’intervention d’urgence externe de l’État membre où s’applique le plan d’intervention d’urgence interne.\n\n3. Le plan d’intervention d’urgence interne est élaboré conformément à l’annexe I, partie 10, et mis à jour à la suite de toute modification substantielle apportée au rapport sur les dangers majeurs ou aux notifications soumises en vertu de l’article 11. Ces mises à jour sont soumises à l’autorité compétente en vertu de l’article 11, paragraphe 1, point g), et notifiées à l’autorité compétente ou aux autorités compétentes responsables de la préparation des plans d’intervention d’urgence externes pour la zone concernée.\n\n4. Le plan d’intervention d’urgence interne est harmonisé avec d’autres mesures relatives à la protection et au sauvetage des personnes travaillant sur l’installation touchée, de façon à leur garantir des conditions de sécurité personnelle satisfaisantes et de bonnes chances de survie.",
+      "text_sha256": "b248ab0f599ad3afa5c2f7eca6f22da5f2815b632046d4d2480f8defc66a6856",
+      "md_span": {
+        "start": 65078,
+        "end": 66755
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Article 29",
+      "heading": "Plans d’intervention d’urgence externes et préparation aux situations d’urgence",
+      "path": [
+        "CHAPITRE VII",
+        "**PRÉPARATION ET RÉACTION AUX SITUATIONS D’URGENCE**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres préparent des plans d’intervention d’urgence externes couvrant l’ensemble des installations pétrolières et gazières en mer ou des infrastructures connectées et des zones sous leur juridiction susceptibles d’être touchées. Ils précisent le rôle et les obligations financières des titulaires d’une autorisation et des exploitants dans les plans l’intervention d’urgence externes.\n\n2. Les plans d’intervention d’urgence externes sont préparés par les États membres, en coopération avec les exploitants et les propriétaires concernés et, le cas échéant, avec les titulaires d’une autorisation et l’autorité compétente, et tiennent compte de la dernière mise à jour des plans d’intervention d’urgence internes des installations ou des infrastructures connectées existantes ou prévues dans la zone couverte par le plan d’intervention d’urgence externe.\n\n3. Les plans d’intervention d’urgence externes sont préparés conformément à l’annexe VII et mis à la disposition de la Commission, d’autres États membres susceptibles d’être touchés et du public. Lorsqu’ils mettent à disposition leurs plans d’intervention d’urgence externes, les États membres veillent à ce que les informations divulguées n’occasionnent pas de risques pour la sécurité et la sûreté des installations pétrolières et gazières en mer et de leur exploitation et ne portent pas atteinte aux intérêts économiques des États membres ni à la sécurité des personnes et au bien-être du personnel des États membres.\n\n4. Les États membres prennent les mesures adéquates pour atteindre un niveau élevé de compatibilité et d’interopérabilité des équipements d’intervention et d’expertise entre tous les États membres d’une région géographique donnée et au-delà, si nécessaire. Les États membres encouragent le secteur industriel à mettre au point des équipements d’intervention et des services sous-traités qui soient compatibles et interopérables dans l’ensemble de la région géographique.\n\n5. Les États membres conservent les données relatives aux équipements et aux services d’intervention d’urgence conformément à l’annexe VIII, point 1. Ces données sont à la disposition des autres États membres susceptibles d’être touchés et de la Commission et, sur une base de réciprocité, des pays tiers voisins.\n\n6. Les États membres veillent à ce que les exploitants et les propriétaires testent périodiquement leur état de préparation en vue d’une intervention efficace en cas d’accident majeur, en étroite coopération avec les autorités concernées des États membres.\n\n7. Les États membres veillent à ce que les autorités compétentes ou, le cas échéant, les points de contact élaborent des scénarios de coopération en cas d’urgence. Ces scénarii font l’objet d’une évaluation périodique et d’une mise à jour, si nécessaire.",
+      "text_sha256": "ec222489fd90919e895b0ae394118ec0c39a0fd6ebd2e308dc3681cb577b2744",
+      "md_span": {
+        "start": 66876,
+        "end": 69667
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Article 30",
+      "heading": "Interventions d’urgence",
+      "path": [
+        "CHAPITRE VII",
+        "**PRÉPARATION ET RÉACTION AUX SITUATIONS D’URGENCE**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce que l’exploitant ou, le cas échéant, le propriétaire notifie sans retard aux autorités concernées tout accident majeur ou toute situation comportant un risque immédiat d’accident majeur. Cette notification décrit les circonstances, y compris, si possible, l’origine, les incidences éventuelles sur l’environnement et les conséquences majeures éventuelles.\n\n2. Les États membres veillent à ce que, en cas d’accident majeur, l’exploitant ou le propriétaire prennent toutes les mesures adéquates pour prévenir son aggravation et pour en limiter les conséquences. Les autorités concernées des États membres peuvent apporter leur aide à l’exploitant ou au propriétaire, notamment en fournissant des ressources supplémentaires.\n\n3. Au cours de l’intervention d’urgence, l’État membre collecte les informations nécessaires à la réalisation d’une enquête approfondie en vertu de l’article 26, paragraphe 1.",
+      "text_sha256": "cdff9b35072fff786f13394801a2f0622f1980cd20d4b8c0dfd55c040009214c",
+      "md_span": {
+        "start": 69732,
+        "end": 70665
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Article 31",
+      "heading": "Préparation et réaction des États membres sous la juridiction desquels sont menées des opérations pétrolières et gazières en mer aux situations d’urgence transfrontières",
+      "path": [
+        "CHAPITRE VIII",
+        "**EFFETS TRANSFRONTIÈRES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Lorsqu’il estime qu’un danger majeur relatif à des opérations pétrolières ou gazières en mer qui doivent avoir lieu sous sa juridiction est susceptible d’avoir des effets importants sur l’environnement d’un autre État membre, l’État membre transmet, avant le début des opérations, les informations pertinentes à l’État membre susceptible d’être touché et s’efforce, conjointement avec ledit État membre, d’adopter des mesures pour éviter tout dommage.\n\nLes États membres qui considèrent qu’ils sont susceptibles d’être eux-mêmes touchés peuvent demander à l’État membre sous la juridiction duquel l’opération pétrolière et gazière en mer doit être menée, de leur transmettre toutes les informations utiles. Ces États membres peuvent procéder à une évaluation conjointe de l’efficacité des mesures, sans préjudice des fonctions de régulation de l’autorité compétente sous la juridiction de laquelle relève l’opération concernée, au titre de l’article 8, paragraphe 1, points a), b) et c).\n\n2. Les dangers majeurs recensés en application du paragraphe 1 sont pris en compte dans les plans d’intervention d’urgence internes et externes afin de faciliter une intervention conjointe efficace en cas d’accident majeur.\n\n3. Lorsque les effets transfrontières prévisibles d’accidents majeurs risquent d’affecter des pays tiers, les États membres mettent, sur une base de réciprocité, des informations à la disposition des pays tiers concernés.\n\n4. Les États membres coordonnent entre eux les mesures relatives à des zones situées en dehors de l’Union afin d’y prévenir les effets négatifs potentiels d’opérations pétrolières et gazières en mer.\n\n5. Les États membres testent périodiquement leur état de préparation en vue d’une intervention efficace en cas d’accident, en coopération avec les États membres susceptibles d’être touchés, les agences compétentes de l’Union et, sur une base de réciprocité, les pays tiers susceptibles d’être touchés. La Commission peut participer à des exercices visant essentiellement à tester les mécanismes d’urgence transfrontières.\n\n6. En cas d’accident majeur ou de menace imminente d’accident majeur, qui a ou qui est susceptible d’avoir des effets transfrontières, l’État membre sous la juridiction duquel la situation survient avertit sans retard la Commission ainsi que les États membres ou les pays tiers susceptibles d’être touchés par la situation, et il fournit en permanence des informations utiles aux fins d’une intervention d’urgence efficace.",
+      "text_sha256": "8587c5b54925b8ef8c05ea22e8bfd35e9fd20fb33c95160600f4a6d248522f6d",
+      "md_span": {
+        "start": 70926,
+        "end": 73413
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Article 32",
+      "heading": "Préparation et réaction des États membres sous la juridiction desquels ne sont pas menées d’opérations pétrolières et gazières en mer aux situations d’urgence transfrontières",
+      "path": [
+        "CHAPITRE VIII",
+        "**EFFETS TRANSFRONTIÈRES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres sous la juridiction desquels ne sont pas menées d’opérations pétrolières ou gazières en mer désignent un point de contact pour l’échange d’informations avec les États membres limitrophes concernés.\n\n2. Les États membres sous la juridiction desquels ne sont pas menées d’opérations pétrolières ou gazières en mer appliquent l’article 29, paragraphes 4 et 7, de manière à ce qu’une capacité d’intervention adéquate soit en place dans le cas où ils seraient touchés par un accident majeur.\n\n3. Les États membres sous la juridiction desquels ne sont pas menées d’opérations pétrolières ou gazières en mer coordonnent leur planification d’urgence nationale concernant le milieu marin avec d’autres États membres concernés dans la mesure nécessaire pour assurer l’intervention la plus efficace possible en cas d’accident majeur.\n\n4. Un État membre sous la juridiction duquel ne sont pas menées des opérations pétrolières ou gazières en mer et qui est touché par un accident majeur:\n\na) prend toutes les mesures appropriées, conformément à la planification d’urgence nationale visée au paragraphe 3;\n\nb) veille à ce que toutes les informations sous son contrôle et disponibles dans sa juridiction et qui sont susceptibles de présenter un intérêt aux fins d’une enquête approfondie concernant l’accident majeur soient fournies à l’État membre qui mène l’enquête en vertu de l’article 26 ou mises à sa disposition, à sa demande.",
+      "text_sha256": "1bcf3808f51982200de0beeeae3546ea0a7b6f9ea15c57838dd4cb5f434617df",
+      "md_span": {
+        "start": 73629,
+        "end": 75069
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Article 33",
+      "heading": "Approche coordonnée en vue de la sécurité des opérations pétrolières et gazières en mer à l’échelle internationale",
+      "path": [
+        "CHAPITRE VIII",
+        "**EFFETS TRANSFRONTIÈRES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La Commission encourage, en coopération étroite avec les États membres et sans préjudice des accords internationaux pertinents, la coopération avec les pays tiers entreprenant des opérations pétrolières et gazières en mer dans les mêmes régions marines que les États membres.\n\n2. La Commission facilite l’échange d’informations entre les États membres sous la juridiction desquels sont menées des opérations pétrolières et gazières en mer et les pays tiers limitrophes où sont menées des opérations similaires afin de promouvoir des mesures préventives et des plans d’intervention d’urgence régionaux.\n\n3. La Commission œuvre en faveur de normes de sécurité élevées pour les opérations pétrolières et gazières en mer à l’échelle internationale au sein des instances mondiales et régionales compétentes, notamment celles dont les travaux portent sur les eaux de l’Arctique.",
+      "text_sha256": "7e65997655320681e55f40214c88d0a5208c2896f7de21dba9fa779f1de732eb",
+      "md_span": {
+        "start": 75225,
+        "end": 76100
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Article 34",
+      "heading": "Sanctions",
+      "path": [
+        "CHAPITRE IX",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres définissent le régime de sanctions applicables en cas d’infraction aux dispositions nationales adoptées au titre de la présente directive et prennent toutes les mesures nécessaires pour faire en sorte qu’elles soient appliquées. Les sanctions ainsi prévues sont effectives, proportionnées et dissuasives. Les États membres notifient ces dispositions à la Commission, au plus tard le 19 juillet 2015, et lui notifient, sans retard, toute modification apportée ultérieurement à ces dispositions.",
+      "text_sha256": "60bf6516c92a96e411c157100bc7a73fd94d22c2898966e7d3f8d571f9d7a022",
+      "md_span": {
+        "start": 76197,
+        "end": 76708
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Article 35",
+      "heading": "Délégation de pouvoir à la Commission",
+      "path": [
+        "CHAPITRE IX",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "La Commission est habilitée à adopter des actes délégués en conformité avec l’article 36 en vue d’adapter les annexes I, II, VI et VII afin d’y inclure des informations supplémentaires pouvant s’avérer nécessaires au vu des progrès techniques. Ces adaptations n’entraînent pas de modification substantielle des obligations prévues par la présente directive.",
+      "text_sha256": "befbc14fd4980a13820631b5dee562857b7fd438ea6a3b954153fee99631e636",
+      "md_span": {
+        "start": 76787,
+        "end": 77144
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_36",
+      "eli": null,
+      "type": "article",
+      "num": "Article 36",
+      "heading": "Exercice de la délégation",
+      "path": [
+        "CHAPITRE IX",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Le pouvoir d’adopter des actes délégués conféré à la Commission est soumis aux conditions fixées au présent article.\n\n2. Le pouvoir d’adopter les actes délégués visé à l’article 35 est conféré à la Commission pour une période de cinq ans à compter du 18 juillet 2013. La Commission élabore un rapport relatif à la délégation de pouvoir au plus tard neuf mois avant la fin de la période de cinq ans. La délégation de pouvoir est tacitement prorogée pour des périodes d’une durée identique, sauf si le Parlement européen ou le Conseil s’oppose à cette prorogation quatre mois au plus tard avant la fin de chaque période.\n\n3. La délégation de pouvoir visée à l’article 35 peut être révoquée à tout moment par le Parlement européen ou le Conseil. La décision de révocation met fin à la délégation de pouvoir qui y est précisée. La révocation prend effet le jour suivant celui de la publication de ladite décision au *Journal officiel de l’Union européenne* ou à une date ultérieure qui est précisée dans ladite décision. Elle ne porte pas atteinte à la validité des actes délégués déjà en vigueur.\n\n4. Aussitôt qu’elle adopte un acte délégué, la Commission le notifie au Parlement européen et au Conseil simultanément.\n\n5. Un acte délégué adopté en vertu de l’article 35 n’entre en vigueur que si le Parlement européen ou le Conseil n’a pas exprimé d’objections dans un délai de deux mois à compter de la notification de cet acte au Parlement européen et au Conseil ou si, avant l’expiration de ce délai, le Parlement européen et le Conseil ont tous deux informé la Commission de leur intention de ne pas exprimer d’objections. Ce délai est prolongé de deux mois à l’initiative du Parlement européen ou du Conseil.",
+      "text_sha256": "dbc0c881f0d193b6f24805f1178b32e0a793df2c4199f9e9b85ddc9982708fde",
+      "md_span": {
+        "start": 77211,
+        "end": 78924
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_37",
+      "eli": null,
+      "type": "article",
+      "num": "Article 37",
+      "heading": "Comité",
+      "path": [
+        "CHAPITRE IX",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La Commission est assistée par un comité. Ledit comité est un comité au sens du règlement (UE) no 182/2011.\n\n2. Lorsqu’il est fait référence au présent paragraphe, l’article 4 du règlement (UE) no 182/2011 s’applique.",
+      "text_sha256": "f4e1425003ad1e572bc8ecf3085232614d306cd30cc06dec2e60631b4e898b5c",
+      "md_span": {
+        "start": 78972,
+        "end": 79192
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_38",
+      "eli": null,
+      "type": "article",
+      "num": "Article 38",
+      "heading": "Modification de la directive 2004/35/CE",
+      "path": [
+        "CHAPITRE IX",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. À l’article 2, paragraphe 1, de la directive 2004/35/CE, le point b) est remplacé par le texte suivant:\n\n«b) les dommages affectant les eaux, à savoir tout dommage qui affecte gravement:\n\ni) l’état écologique, chimique ou quantitatif ou le potentiel écologique des eaux concernées, tels qu’ils sont définis dans la directive 2000/60/CE, à l’exception des incidences négatives auxquelles s’applique l’article 4, paragraphe 7, de ladite directive; ou\n\nii) l’état écologique des eaux marines concernées, tel qu’il est défini dans la directive 2008/56/CE, dans la mesure où les aspects particuliers liés à l’état écologique du milieu marin ne sont pas déjà couverts par la directive 2000/60/CE;»\n\n2. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer au paragraphe 1 au plus tard le 19 juillet 2015. Ils en informent immédiatement la Commission.",
+      "text_sha256": "d57e4baf1ef0cc3a89166dc5aa014e61ad9f57fff2cd6988a5bacdc2c22a2ea6",
+      "md_span": {
+        "start": 79273,
+        "end": 80198
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_39",
+      "eli": null,
+      "type": "article",
+      "num": "Article 39",
+      "heading": "Rapports au Parlement européen et au Conseil",
+      "path": [
+        "CHAPITRE IX",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La Commission soumet au Parlement européen et au Conseil, au plus tard le 31 décembre 2014, un rapport sur la disponibilité des instruments de garantie financière et sur le traitement des demandes d’indemnisation, assorti le cas échéant, de propositions.\n\n2. La Commission soumet au Parlement européen et au Conseil, au plus tard le 19 juillet 2015, un rapport concernant l’évaluation qu’elle a réalisée de l’efficacité des régimes de responsabilité au sein de l’Union en ce qui concerne les dommages causés par des opérations pétrolières et gazières en mer. Ce rapport évalue s’il est approprié d’étendre les dispositions en matière de responsabilité. Le rapport est accompagné, le cas échéant, de propositions.\n\n3. La Commission examine s’il est approprié d’inclure certaines pratiques conduisant à un accident majeur dans le champ d’application de la directive 2008/99/CE du Parlement européen et du Conseil du 19 novembre 2008 relative à la protection de l’environnement par le droit pénal (23). La Commission soumet, au plus tard le 31 décembre 2014, ses conclusions au Parlement européen et au Conseil, assorties, le cas échéant, de propositions législatives, pour autant que les États membres mettent à disposition des informations appropriées.",
+      "text_sha256": "2d0de798444ac4ea138c2eadec3aa684e10ba2e54ef3e818c78dac1102389113",
+      "md_span": {
+        "start": 80284,
+        "end": 81538
+      },
+      "citations": [
+        {
+          "href": "#E0023",
+          "text": "23"
+        }
+      ]
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_40",
+      "eli": null,
+      "type": "article",
+      "num": "Article 40",
+      "heading": "Rapport et réexamen",
+      "path": [
+        "CHAPITRE IX",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Au plus tard le 19 juillet 2019, la Commission évalue, en tenant dûment compte des efforts et des expériences des autorités compétentes, le résultat de la mise en œuvre de la présente directive.\n\n2. La Commission soumet au Parlement européen et au Conseil un rapport présentant les conclusions de cette évaluation. Ce rapport s’accompagne de propositions appropriées visant à modifier la présente directive.",
+      "text_sha256": "594f41386139612524d341c67ef7c5ef3b1b2f8f9e353d27f7bc8f1894a73129",
+      "md_span": {
+        "start": 81599,
+        "end": 82009
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_41",
+      "eli": null,
+      "type": "article",
+      "num": "Article 41",
+      "heading": "Transposition",
+      "path": [
+        "CHAPITRE IX",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le 19 juillet 2015.\n\nIls en informent immédiatement la Commission.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine régi par la présente directive.\n\n3. Par dérogation au premier alinéa du paragraphe 1 et sous réserve du paragraphe 5, les États membres côtiers sous la juridiction desquels ne sont pas menées d’opérations pétrolières ou gazières en mer et qui ne prévoient pas d’accorder d’autorisations pour ce type d’opérations en informent la Commission et sont tenus de mettre en vigueur au plus tard le 19 juillet 2015 uniquement les mesures nécessaires pour se conformer aux articles 20, 32 et 34. Ces États membres ne peuvent pas accorder d’autorisations pour ce type d’opérations avant d’avoir transposé et mis en œuvre les autres dispositions de la présente directive et d’en avoir informé la Commission.\n\n4. Par dérogation au premier alinéa du paragraphe 1 et sous réserve du paragraphe 5, les États membres dépourvus de littoral sont tenus de mettre en vigueur au plus tard le 19 juillet 2015 uniquement les mesures nécessaires pour se conformer à l’article 20.\n\n5. Lorsque, au 18 juillet 2013, aucune entreprise menant des opérations régies par l’article 20 n’est enregistrée dans un État membre relevant du paragraphe 3 ou 4, ledit État membre n’est tenu de mettre en vigueur les mesures qui sont nécessaires pour garantir le respect de l’article 20 que douze mois après l’enregistrement ultérieur d’une telle entreprise dans ledit État membre ou le 19 juillet 2015 au plus tard, si cette date est ultérieure.",
+      "text_sha256": "419d816a28fc5ff1425767dc64942817b6039c15960af98318ef8869e2893e96",
+      "md_span": {
+        "start": 82064,
+        "end": 84111
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_42",
+      "eli": null,
+      "type": "article",
+      "num": "Article 42",
+      "heading": "Dispositions transitoires",
+      "path": [
+        "CHAPITRE IX",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. En ce qui concerne les propriétaires, les exploitants d’installations de production planifiées et les exploitants planifiant et exécutant des opérations sur puits, les États membres appliquent les dispositions législatives, réglementaires et administratives adoptées en vertu de l’article 41 au plus tard le 19 juillet 2016.\n\n2. En ce qui concerne les installations existantes, les États membres appliquent les dispositions législatives, réglementaires et administratives adoptées en vertu de l’article 41 à compter de la date prévue pour le réexamen réglementaire de la documentation relative à l’évaluation des risques, et au plus tard le 19 juillet 2018.",
+      "text_sha256": "60773138f4735b9167759024260da43885fbdeedf3ef3959c7ad6c667ffa635b",
+      "md_span": {
+        "start": 84178,
+        "end": 84838
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_43",
+      "eli": null,
+      "type": "article",
+      "num": "Article 43",
+      "heading": "Entrée en vigueur",
+      "path": [
+        "CHAPITRE IX",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.",
+      "text_sha256": "b3c43ea1732d6689bbfe56147d2310bbc373910e098b8bc1a363e7b45e739b74",
+      "md_span": {
+        "start": 84897,
+        "end": 85030
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#art_44",
+      "eli": null,
+      "type": "article",
+      "num": "Article 44",
+      "heading": "Destinataires",
+      "path": [
+        "CHAPITRE IX",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les États membres sont destinataires de la présente directive.",
+      "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+      "md_span": {
+        "start": 85085,
+        "end": 85147
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_i",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#annexe_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Informations à inclure dans les documents soumis à l’autorité compétente en vertu de l’article 11**\n\n1. **INFORMATIONS À COMMUNIQUER DANS LA NOTIFICATION DE CONCEPTION OU DE DÉLOCALISATION D’UNE INSTALLATION DESTINÉE À LA PRODUCTION**\n\nLa notification de conception et la notification de délocalisation d’une installation destinée à la production, à soumettre en vertu de l’article 11, paragraphe 1, points c) et j), respectivement, contient au minimum les informations suivantes:\n\n1) le nom et l’adresse de l’exploitant de l’installation;\n\n2) une description du processus de conception pour les opérations et systèmes de production, du concept initial à la conception soumise ou à la sélection d’une installation existante, les normes pertinentes utilisées et les principes de conception inclus dans le processus;\n\n3) une description du principe de conception retenu en rapport avec les scénarios de danger majeur établis pour l’installation en question et son emplacement, et les critères de maîtrise des risques primaires;\n\n4) la preuve que le concept contribue à réduire les risques de dangers majeurs à un niveau acceptable;\n\n5) une description de l’installation et des conditions existantes à l’emplacement prévu pour elle;\n\n6) une description de toute contrainte due à l’environnement, aux conditions météorologiques et à la nature des fonds marins, affectant la sécurité des opérations, et des dispositions visant à recenser les risques de dangers dans les fonds et le milieu marins, tels que les pipelines et les amarrages d’installations adjacentes;\n\n7) une description des types d’opérations susceptibles de présenter des dangers majeurs qui doivent être réalisées;\n\n8) une description générale du système de gestion de la sécurité et de l’environnement qui doit permettre de maintenir l’efficacité des mesures prévues pour maîtriser les risques d’accident majeur;\n\n9) une description des systèmes de vérification indépendante et une liste initiale des éléments critiques pour la sécurité et l’environnement et de leurs performances requises;\n\n10) lorsqu’une installation existante destinée à la production doit être déplacée vers un nouveau lieu en vue d’être utilisée pour une opération de production différente, la démonstration que l’installation est adaptée à l’opération de production proposée;\n\n11) lorsqu’une installation non destinée à la production doit être transformée pour être utilisée en tant qu’installation de production, la démonstration que l’installation est adaptée pour une telle transformation.\n\n2. **INFORMATIONS À COMMUNIQUER DANS LE RAPPORT SUR LES DANGERS MAJEURS POUR L’EXPLOITATION D’UNE INSTALLATION DESTINÉE À LA PRODUCTION**\n\nLes rapports sur les dangers majeurs pour une installation destinée à la production, à préparer conformément à l’article 12 et à soumettre en vertu de l’article 11, paragraphe 1, point e), contiennent au minimum les informations suivantes:\n\n1) une indication du degré de prise en compte de la réponse de l’autorité compétente à la notification de conception;\n\n2) le nom et l’adresse de l’exploitant de l’installation;\n\n3) un résumé de toute contribution des travailleurs à l’élaboration du rapport sur les dangers majeurs;\n\n4) une description de l’installation et de toute association avec d’autres installations ou des infrastructures connectées, notamment les puits;\n\n5) la preuve que tous les dangers majeurs ont été recensés, que leur probabilité et leurs éventuelles conséquences ont été évaluées, y compris toute contrainte due à l’environnement, aux conditions météorologiques et à la nature des fonds marins affectant la sécurité des opérations, et que les mesures visant à les maîtriser, y compris les éléments critiques pour la sécurité et l’environnement, sont adéquates pour réduire à un niveau acceptable le risque d’accident majeur; cette preuve comporte une évaluation de l’efficacité de l’intervention en cas de déversement de pétrole en mer;\n\n6) une description des types d’opérations à réaliser qui pourraient présenter des dangers majeurs, et le nombre maximum de personnes qui peuvent se trouver sur l’installation à tout moment;\n\n7) une description des équipements et des dispositions visant à assurer le contrôle des puits, la sécurité des procédés, le confinement des substances dangereuses, la prévention des incendies et des explosions, la protection des travailleurs contre les substances dangereuses et la protection de l’environnement contre un accident majeur naissant;\n\n8) une description des dispositions visant à protéger les personnes présentes sur l’installation contre les dangers majeurs et pour assurer leur sortie, leur évacuation et leur sauvetage en toute sécurité ainsi que des dispositions visant à maintenir en service les systèmes de contrôle, afin d’empêcher que des dommages soient causés à l’installation et à l’environnement dans l’hypothèse où l’ensemble du personnel serait évacué;\n\n9) les codes, normes et lignes directrices pertinents utilisés dans la construction et la mise en service de l’installation;\n\n10) les informations relatives au système mis en place par l’exploitant pour la gestion de la sécurité et de l’environnement en rapport avec l’installation destinée à la production;\n\n11) un plan d’intervention d’urgence interne et une description adéquate de celui-ci;\n\n12) une description du programme de vérification indépendante;\n\n13) tout autre détail pertinent, par exemple lorsque deux installations ou plus fonctionnent en combinaison d’une manière qui modifie le potentiel de danger majeur de l’une ou de l’ensemble des installations;\n\n14) les informations pertinentes au regard des autres exigences de la présente directive obtenues en vertu des exigences relatives à la prévention des accidents majeurs énoncées dans la directive 92/91/CEE;\n\n15) en ce qui concerne les opérations devant être conduites à partir de l’installation, toute information obtenue en vertu de la directive 2011/92/UE, relative à la prévention des accidents majeurs pouvant occasionner des dommages importants ou graves pour l’environnement, pertinente au regard des autres exigences de la présente directive;\n\n16) une évaluation des éventuelles incidences environnementales recensées à la suite de la perte de confinement de polluants résultant d’un accident majeur et une description des mesures techniques et non techniques envisagées pour les prévenir, les réduire ou les compenser, notamment les mesures de surveillance.\n\n3. **INFORMATIONS À COMMUNIQUER DANS LE RAPPORT SUR LES DANGERS MAJEURS POUR UNE INSTALLATION NON DESTINÉE À LA PRODUCTION**\n\nLes rapports sur les dangers majeurs pour une installation non destinée à la production, à préparer conformément à l’article 13 et à soumettre en vertu de l’article 11, paragraphe 1, point e), contiennent au minimum les informations suivantes:\n\n1) le nom et l’adresse du propriétaire;\n\n2) un résumé de toute contribution des travailleurs à l’élaboration du rapport sur les dangers majeurs;\n\n3) une description de l’installation et, dans le cas d’une installation mobile, une description des moyens employés pour la déplacer d’un lieu à l’autre, et de son système de positionnement;\n\n4) une description des types d’opérations susceptibles de présenter des dangers majeurs que l’installation est apte à réaliser, et le nombre maximum de personnes qui peuvent se trouver sur l’installation à tout moment;\n\n5) la preuve que tous les dangers majeurs ont été recensés, que leur probabilité et leurs éventuelles conséquences ont été évaluées, y compris toute contrainte due à l’environnement, aux conditions météorologiques et à la nature des fonds marins affectant la sécurité des opérations, et que les mesures visant à les maîtriser, y compris les éléments critiques pour la sécurité et l’environnement, sont adéquates pour réduire à un niveau acceptable le risque d’accident majeur; cette preuve comporte une évaluation de l’efficacité de l’intervention en cas de déversement de pétrole en mer;\n\n6) une description des équipements et des dispositions visant à assurer le contrôle des puits, la sécurité des procédés, le confinement des substances dangereuses, la prévention des incendies et des explosions, la protection des travailleurs contre les substances dangereuses et la protection de l’environnement contre un accident majeur;\n\n7) une description des dispositions visant à protéger les personnes présentes sur l’installation contre les dangers majeurs et pour assurer leur sortie, leur évacuation et leur sauvetage en toute sécurité ainsi que des dispositions visant à maintenir en service les systèmes de contrôle, afin d’empêcher que des dommages soient causés à l’installation et à l’environnement dans l’hypothèse où l’ensemble du personnel serait évacué;\n\n8) les codes, normes et lignes directrices pertinents utilisés dans la construction et la mise en service de l’installation;\n\n9) la preuve que tous les dangers majeurs ont été recensés pour toutes les opérations que l’installation est apte à réaliser et que le risque d’accident majeur est réduit à un niveau acceptable;\n\n10) une description de toute contrainte due à l’environnement, aux conditions météorologiques et à la nature des fonds marins affectant la sécurité des opérations, et des dispositions visant à recenser les risques de dangers dans les fonds et le milieu marins, tels que les pipelines et les amarrages d’installations adjacentes;\n\n11) les informations relatives au système de gestion de la sécurité et de l’environnement en rapport avec l’installation non destinée à la production;\n\n12) un plan d’intervention d’urgence interne ou une description adéquate de celui-ci;\n\n13) une description du programme de vérification indépendante;\n\n14) tout autre détail pertinent, par exemple lorsque deux installations ou plus fonctionnent en combinaison d’une manière qui modifie le potentiel de danger majeur de l’une ou de l’ensemble des installations;\n\n15) en ce qui concerne les opérations devant être conduites à partir de l’installation, toute information obtenue en vertu de la directive 2011/92/UE, relative à la prévention des accidents majeurs pouvant occasionner des dommages importants ou graves pour l’environnement, pertinente au regard des autres exigences de la présente directive;\n\n16) une évaluation des éventuelles incidences environnementales recensées à la suite de la perte de confinement de polluants résultant d’un accident majeur et une description des mesures techniques et non techniques envisagées pour les prévenir, les réduire ou les compenser, notamment les mesures de surveillance.\n\n4. **INFORMATIONS À COMMUNIQUER DANS LA NOTIFICATION D’OPÉRATIONS SUR PUITS**\n\nLes notifications d’opérations sur puits, à préparer conformément à l’article 15 et à soumettre en vertu de l’article 11, paragraphe 1, point h), contient au minimum les informations suivantes:\n\n1) le nom et l’adresse de l’exploitant du puits;\n\n2) le nom de l’installation qui sera utilisée, ainsi que le nom et l’adresse du propriétaire et, en cas d’une installation de production, du contractant chargé des activités de forage;\n\n3) des informations détaillées qui permettent d’identifier le puits et toute association avec des installations et des infrastructures connectées;\n\n4) des informations sur le programme de travail relatif au puits, notamment la durée des opérations, le détail et la vérification des barrières contre toute perte de contrôle du puits (équipements, fluides de forage, ciment, etc.), le contrôle directionnel du trajet emprunté par le puits et les limitations à la sécurité des opérations compte tenu de la gestion des risques;\n\n5) dans le cas d’un puits existant, des informations sur son historique et sur son état;\n\n6) tout détail concernant les équipements de sécurité qu’il est prévu de déployer mais qui ne sont pas décrits dans le rapport existant sur les dangers majeurs pour l’installation;\n\n7) une évaluation des risques comportant une description des éléments suivants:\n\na) les dangers spécifiques associés à l’exploitation du puits, y compris toute contrainte due à l’environnement, aux conditions météorologiques et à la nature des fonds marins affectant la sécurité des opérations;\n\nb) les dangers inhérents au sous-sol;\n\nc) toute opération de surface ou sous-marine qui présente un potentiel simultané de danger majeur;\n\nd) les mesures de contrôle adéquates;\n\n8) une description de la configuration du puits au terme des opérations: puits temporairement ou définitivement abandonné; et l’indication des équipements de production éventuellement installés dans le puits en vue d’une utilisation future;\n\n9) dans le cas d’une modification d’une notification d’opérations sur puits soumise antérieurement, des détails suffisants pour permettre la mise à jour complète de la notification;\n\n10) lorsqu’il est prévu de construire, de modifier ou d’entretenir un puits au moyen d’une installation non destinée à la production, les éléments complémentaires suivants:\n\na) une description de toute contrainte due à l’environnement, aux conditions météorologiques et à la nature des fonds marins affectant la sécurité des opérations, et les dispositions visant à recenser les risques de dangers dans les fonds et le milieu marins, tels que les pipelines et les amarrages d’installations adjacentes;\n\nb) une description des conditions environnementales qui ont été prises en compte dans le plan d’intervention d’urgence interne relatif à l’installation;\n\nc) une description des mécanismes d’intervention d’urgence, notamment les mécanismes d’intervention en cas d’incidents environnementaux, qui ne sont pas décrits dans le rapport sur les dangers majeurs; et\n\nd) une description de la façon dont les systèmes de gestion de l’exploitant du puits et du propriétaire doivent être coordonnés afin d’assurer à tout moment une maîtrise effective des dangers majeurs;\n\n11) un rapport comprenant les constatations de l’examen indépendant du puits, incluant une déclaration de l’exploitant du puits selon laquelle, après étude du rapport et des constatations de l’examen indépendant du puits par le vérificateur indépendant, la gestion des risques relatifs à la conception du puits et aux barrières contre toute perte de contrôle est adaptée à toutes les situations et circonstances anticipées;\n\n12) les informations pertinentes pour la présente directive obtenues en vertu des exigences relatives à la prévention des accidents majeurs énoncées dans la directive 92/91/CEE;\n\n13) en ce qui concerne les opérations sur puits devant être conduites, toute information concernant la prévention des accidents majeurs pouvant occasionner des dommages importants ou graves pour l’environnement, pertinente au regard des autres exigences de la présente directive et obtenue en vertu de la directive 2011/92/UE.\n\n5. **INFORMATIONS À COMMUNIQUER CONCERNANT LE PROGRAMME DE VÉRIFICATION**\n\nLes descriptions à soumettre en vertu de l’article 11, paragraphe 1, point d), en ce qui concerne les programmes de vérification indépendante à établir en vertu de l’article 17, paragraphe 1, comprennent les éléments suivants:\n\na) une déclaration de l’exploitant ou du propriétaire, faite après étude du rapport du vérificateur indépendant, certifiant que l’état des lieux des éléments critiques pour la sécurité et leur programme de maintenance, tels qu’ils sont indiqués dans le rapport sur les dangers majeurs, sont ou seront adéquats;\n\nb) une description du programme de vérification y compris la procédure de sélection des vérificateurs indépendants et les moyens de vérifier le maintien en bon état des éléments critiques pour la sécurité et l’environnement et de toute unité spécifiée dans le programme;\n\nc) une description des moyens de vérification visés au point b), en particulier des informations détaillées sur les principes qui seront appliqués pour exercer les fonctions prévues dans le programme et examiner régulièrement celui-ci durant tout le cycle de vie de l’installation, dont:\n\ni) l’examen et les tests des éléments critiques pour la sécurité et l’environnement par des vérificateurs indépendants et compétents;\n\nii) la vérification de la conception, les normes, la certification ou un autre système visant à assurer la conformité des éléments critiques pour la sécurité et l’environnement;\n\niii) l’examen des travaux en cours;\n\niv) la communication des cas de non-respect;\n\nv) les actions correctrices prises par l’exploitant ou le propriétaire.\n\n6. **INFORMATIONS À COMMUNIQUER EN CE QUI CONCERNE UNE MODIFICATION SUBSTANTIELLE APPORTÉE À UNE INSTALLATION, Y COMPRIS LE RETRAIT D’UNE INSTALLATION FIXE**\n\nLorsqu’il est prévu d’apporter des modifications substantielles à l’installation visées à l’article 12, paragraphe 5, et à l’article 13, paragraphe 4, le rapport modifié sur les dangers majeurs intégrant les modifications substantielles, à soumettre en vertu de l’article 11, paragraphe 1, point f), contient au minimum les informations suivantes:\n\n1) le nom et l’adresse de l’exploitant ou du propriétaire;\n\n2) un résumé de toute contribution des travailleurs à l’élaboration du rapport révisé sur les dangers majeurs;\n\n3) des détails suffisants pour mettre à jour complètement le précédent rapport sur les dangers majeurs pour l’installation et le plan d’intervention d’urgence interne correspondant, et pour démontrer que les risques de dangers majeurs sont réduits à un niveau acceptable;\n\n4) dans le cas du retrait d’une installation fixe destinée à la production:\n\na) les moyens permettant d’isoler toutes les substances dangereuses et, si des puits sont connectés à l’installation, d’assurer le scellement permanent des puits afin de les isoler de l’installation et de l’environnement;\n\nb) une description des risques de dangers majeurs pour les travailleurs et l’environnement qui sont associés au démantèlement de l’installation, la population totale exposée et les mesures de maîtrise des risques;\n\nc) les mécanismes d’intervention d’urgence établis pour assurer l’évacuation et le sauvetage en toute sécurité du personnel et maintenir en service les systèmes de contrôle afin de prévenir tout accident majeur pour l’environnement.\n\n7. **INFORMATIONS À COMMUNIQUER DANS LA NOTIFICATION D’OPÉRATIONS COMBINÉES**\n\nLa notification d’opérations combinées, à préparer en vertu de l’article 16 et à soumettre en vertu de l’article 11, paragraphe 1, point i), contient au minimum les informations suivantes:\n\n1) le nom et l’adresse de l’exploitant qui soumet la notification;\n\n2) lorsque d’autres exploitants ou propriétaires participent aux opérations combinées, leur nom et adresse, accompagnés d’une confirmation indiquant qu’ils acceptent le contenu de la notification;\n\n3) une description, sous la forme d’un document de liaison autorisé par toutes les parties que le document engage, de la manière dont seront coordonnés les systèmes de gestion applicables aux installations utilisées dans l’opération combinée de façon à réduire les risques d’accident majeur à un niveau acceptable;\n\n4) une description de tous les équipements qu’il est prévu d’utiliser dans le cadre de l’opération combinée, mais qui ne sont pas décrits dans le rapport existant sur les dangers majeurs relatif à chacune des installations utilisées dans le cadre des opérations combinées;\n\n5) une synthèse de l’évaluation des risques réalisée par tous les exploitants et propriétaires prenant part aux opérations combinées, comportant:\n\na) une description de toute opération liée aux opérations combinées pouvant comporter des dangers susceptibles de provoquer un accident majeur sur une installation ou en rapport avec celle-ci;\n\nb) une description de toutes les mesures de maîtrise des risques introduites sur la base de l’évaluation des risques;\n\n6) une description des opérations combinées et du programme de travail.\n\n8. **INFORMATIONS À COMMUNIQUER EN RAPPORT AVEC LA POLITIQUE D’ENTREPRISE CONCERNANT LA PRÉVENTION DES ACCIDENTS MAJEURS**\n\nLa politique d’entreprise concernant la prévention des accidents majeurs à préparer conformément à l’article 19, paragraphe 1, et à soumettre en vertu de l’article 11, paragraphe 1, point a), comprend, entre autres, les éléments suivants:\n\n1) les personnes chargées au sein du conseil d’administration de veiller en permanence à ce que la politique d’entreprise concernant la prévention des accidents majeurs soit adaptée et appliquée et fonctionne comme prévu;\n\n2) les mesures visant à mettre en place et à entretenir une culture de la sécurité solide entraînant une probabilité élevée de poursuite de l’exploitation dans des conditions de sécurité;\n\n3) l’étendue et l’intensité de l’audit des processus;\n\n4) les mesures prévues pour la récompense et la reconnaissance des comportements souhaités;\n\n5) l’évaluation des compétences et des objectifs de l’entreprise;\n\n6) les mesures prises pour que les normes en matière de sécurité et de protection de l’environnement restent des valeurs fondamentales de l’entreprise;\n\n7) les systèmes formels de commandement et de contrôle qui incluent des membres du conseil d’administration et l’encadrement supérieur de l’entreprise;\n\n8) l’approche de la compétence à tous les échelons de l’entreprise;\n\n9) la mesure dans laquelle les informations visées aux points 1) à 8) s’appliquent aux opérations pétrolières et gazières en mer menées par l’entreprise en dehors de l’Union.\n\n9. **INFORMATIONS À COMMUNIQUER CONCERNANT LE SYSTÈME DE GESTION DE LA SÉCURITÉ ET DE L’ENVIRONNEMENT**\n\nLe système de gestion de la sécurité et de l’environnement à préparer conformément à l’article 19, paragraphe 3, et à soumettre en vertu de l’article 11, paragraphe 1, point b), comprend, entre autres, les éléments suivants:\n\n1) l’architecture organisationnelle, les rôles et responsabilités du personnel;\n\n2) le recensement et l’évaluation des dangers majeurs, ainsi que leur probabilité et leurs conséquences potentielles;\n\n3) l’intégration des incidences environnementales dans les évaluations des risques d’accidents majeurs incluses dans le rapport sur les dangers majeurs;\n\n4) la maîtrise des dangers majeurs durant les opérations normales;\n\n5) la gestion des modifications;\n\n6) la planification des situations d’urgence et les mécanismes d’intervention d’urgence correspondantes;\n\n7) la limitation des dommages causés à l’environnement;\n\n8) la surveillance des performances;\n\n9) les mécanismes d’audit et de révision; et\n\n10) les mesures en vigueur pour participer aux consultations tripartites et la façon dont les actions en découlant sont mises en pratique.\n\n10. **INFORMATIONS À COMMUNIQUER DANS UN PLAN D’INTERVENTION D’URGENCE INTERNE**\n\nLes plans d’intervention d’urgence internes, à préparer conformément à l’article 14 et à soumettre en vertu de l’article 11, paragraphe 1, point g), comprennent, entre autres, les éléments suivants:\n\n1) le nom et la fonction des personnes autorisées à déclencher les procédures d’intervention d’urgence et de la personne qui dirige l’intervention d’urgence interne;\n\n2) le nom et la fonction de la personne responsable des contacts avec l’autorité ou les autorités responsables du plan d’intervention d’urgence externe;\n\n3) une description de toutes les circonstances ou événements prévisibles qui pourraient provoquer un accident majeur, tels qu’ils sont décrits dans le rapport sur les dangers majeurs auquel est joint le plan;\n\n4) une description des mesures qui seront prises pour contrôler les circonstances ou événements susceptibles de causer un accident majeur et pour limiter leurs conséquences;\n\n5) une description des équipements et des ressources disponibles, notamment pour bloquer tous les déversements potentiels;\n\n6) les mécanismes de limitation des risques auxquels sont exposés les personnes présentes sur l’installation et l’environnement, y compris le système d’alerte et la conduite à tenir en cas d’alerte;\n\n7) dans le cas d’une opération combinée, les mécanismes de coordination de la sortie, de l’évacuation et du sauvetage entre les installations concernées, assurant de bonnes chances de survie aux personnes présentes sur les installations lors d’un accident majeur;\n\n8) une estimation de l’efficacité de l’intervention en cas de déversement de pétrole en mer. Les conditions environnementales à considérer pour cette analyse de l’intervention sont:\n\ni) les conditions météorologiques, y compris le vent, la visibilité, les précipitations et la température;\n\nii) l’état de la mer, les marées et les courants;\n\niii) la présence de glace et de débris;\n\niv) les heures de jour; et\n\nv) les autres conditions environnementales connues qui pourraient influer sur l’efficacité des équipements d’intervention ou sur l’efficacité globale de l’intervention;\n\n9) les mécanismes d’alerte précoce, en cas d’accident majeur, de l’autorité ou des autorités responsables du déclenchement du plan d’intervention d’urgence externe, le type d’informations à fournir dans la première alerte et les dispositions concernant la communication d’informations plus détaillées au fur et à mesure de leur disponibilité;\n\n10) les arrangements pris pour former le personnel aux tâches qui lui seront demandées et, le cas échéant, la coordination de ces tâches avec les services d’urgence externes;\n\n11) les arrangements pris pour coordonner les interventions d’urgence internes et externes;\n\n12) des preuves attestant des évaluations antérieures de toutes les substances chimiques utilisées en tant qu’agents de dispersion qui ont été conduites afin de réduire les effets sur la santé publique et tout dommage causé à l’environnement.",
+      "text_sha256": "7631120dfa68bffe85dce0fed2295aed7d21fe85ebb517e3482e14968c1ec64c",
+      "md_span": {
+        "start": 85186,
+        "end": 110681
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_ii",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#annexe_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Rapports concernant les opérations sur puits à soumettre en vertu de l’article 15, paragraphe 4**\n\nLes rapports à soumettre à l’autorité compétente en vertu de l’article 15, paragraphe 4, contiennent au minimum les éléments suivants:\n\n1) le nom et l’adresse de l’exploitant du puits;\n\n2) le nom de l’installation, ainsi que le nom et l’adresse de l’exploitant ou du propriétaire;\n\n3) des informations détaillées qui permettent d’identifier le puits et toute association avec des installations ou des infrastructures connectées;\n\n4) un résumé des opérations effectuées depuis le début des opérations ou depuis le rapport précédent;\n\n5) le diamètre ainsi que les profondeurs verticales mesurées réelles:\n\na) de tout forage réalisé; et\n\nb) de tout tubage installé;\n\n6) la densité du fluide de forage au jour de la rédaction du rapport; et\n\n7) dans le cas d’opérations sur un puits existant, son état de fonctionnement actuel.",
+      "text_sha256": "9afeca622591988ca67efd48f0d2348b9fd564ceeef7d9b19648fcaca645809b",
+      "md_span": {
+        "start": 110722,
+        "end": 111646
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_iii",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#annexe_iii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Dispositions relatives à la désignation et au fonctionnement de l’autorité compétente en application des articles 8 et 9**\n\n1. **DISPOSITIONS CONCERNANT LES ÉTATS MEMBRES**\n\n1. Aux fins de la désignation d’une autorité compétente responsable des tâches énoncées à l’article 8, les États membres s’emploient au moins à:\n\na) établir des mécanismes organisationnels qui permettent l’exécution efficace des tâches assignées à l’autorité compétente par la présente directive, notamment des mécanismes pour réguler de manière équitable la sécurité et la protection de l’environnement;\n\nb) établir une déclaration de principe décrivant les objectifs de surveillance et de mise à exécution et les obligations incombant à l’autorité compétente afin d’assurer la transparence, la cohérence, la proportionnalité et l’objectivité dans sa régulation des opérations pétrolières et gazières en mer.\n\n2. Les États membres prennent les dispositions nécessaires aux fins de la mise en œuvre du point 1, notamment:\n\na) le financement de compétences spécialisées suffisantes, disponibles en interne ou par des accords formels conclus avec des tiers, ou une combinaison des deux, afin que l’autorité compétente puisse contrôler les opérations et mener des investigations, prendre des mesures d’exécution et traiter les rapports sur les dangers majeurs et les notifications;\n\nb) pour les cas où il est fait appel à des compétences externes, le financement de l’élaboration de lignes directrices écrites appropriées et d’une surveillance suffisante pour préserver la cohérence de l’approche et faire en sorte que l’autorité compétente légalement désignée conserve l’entière responsabilité pour ce qui relève de la présente directive;\n\nc) le financement de la formation, de la communication, de l’accès aux technologies, des déplacements et des séjours essentiels dont a besoin le personnel de l’autorité compétente pour exécuter ses tâches, de façon à faciliter la coopération active entre les autorités compétentes, conformément à l’article 27;\n\nd) le cas échéant, le remboursement obligatoire, à l’autorité compétente, par les exploitants ou les propriétaires des dépenses relatives à l’exécution de ses tâches en vertu de la présente directive;\n\ne) le financement et la promotion de travaux de recherches conformément aux tâches de l’autorité compétente découlant de la présente directive;\n\nf) le financement de l’autorité compétente pour qu’elle puisse établir des rapports.\n\n2. **DISPOSITIONS RELATIVES AU FONCTIONNEMENT DE L’AUTORITÉ COMPÉTENTE**\n\n1. Aux fins d’exécuter de manière efficace les tâches qui lui sont assignées en vertu de l’article 9, l’autorité compétente prépare:\n\na) une stratégie écrite décrivant ses tâches, ses priorités d’action, en l’occurrence au niveau de la conception et de l’exploitation des installations, de la gestion de l’intégrité, de la préparation et de la réaction aux situations d’urgence, et son organisation;\n\nb) des procédures opérationnelles décrivant la façon dont elle surveillera et fera exécuter les missions confiées aux exploitants et aux propriétaires en vertu de la présente directive, notamment la façon dont elle traitera, évaluera et acceptera les rapports sur les dangers majeurs, traitera les notifications d’opérations sur puits et déterminera la fréquence des inspections des mesures de maîtrise des risques de dangers majeurs, notamment pour l’environnement, pour une installation ou une activité donnée;\n\nc) des procédures lui permettant d’exécuter ses tâches sans préjudice d’autres responsabilités, liées par exemple aux opérations pétrolières et gazières en mer, et des mécanismes établis conformément à la directive 92/91/CEE;\n\nd) lorsque l’autorité compétente est composée de plus d’un organisme, un accord formel établissant les mécanismes nécessaires pour une gestion conjointe de l’autorité compétente, incluant les mesures prises en matière de surveillance ainsi que de suivi et de réexamen par l’encadrement supérieur, la planification et l’inspection conjointes, la répartition des responsabilités pour la gestion des rapports sur les dangers majeurs, les investigations conjointes, les communications internes et l’établissement des rapports devant être publiés conjointement à l’extérieur.\n\n2. Les procédures détaillées applicables à l’évaluation des rapports sur les dangers majeurs exigent de l’exploitant ou du propriétaire qu’il fournisse toutes les informations factuelles et les autres renseignements requis au titre de la présente directive. Au minimum, l’autorité compétente veille à ce que les exigences relatives aux éléments suivants soient clairement précisées dans des lignes directrices destinées aux exploitants et aux propriétaires:\n\na) tous les dangers prévisibles susceptibles de causer un accident majeur, y compris pour l’environnement, ont été recensés, les risques correspondants ont été évalués et des mesures ont été prévues, y compris des interventions d’urgence, pour maîtriser ces risques;\n\nb) le système de gestion de la sécurité et de l’environnement est décrit de manière suffisamment détaillée afin de prouver que la présente directive est respectée;\n\nc) l’exploitant ou le propriétaire a décrit les mesures nécessaires pour assurer une vérification indépendante et la réalisation d’audits.\n\n3. Lorsqu’elle procède à une évaluation approfondie des rapports sur les dangers majeurs, l’autorité compétente vérifie:\n\na) que toutes les informations factuelles requises sont fournies;\n\nb) que l’exploitant ou le propriétaire a recensé tous les risques d’accident majeur raisonnablement prévisibles qui sont liés à l’installation et à son fonctionnement, ainsi que les événements précurseurs potentiels, et que les méthodes et les critères d’évaluation retenus pour la gestion des risques d’accident majeur sont expliqués clairement, notamment les facteurs d’incertitude dans l’analyse;\n\nc) que la gestion des risques tient compte de toutes les phases du cycle de vie de l’installation et anticipe toutes les situations prévisibles, en particulier:\n\ni) les modalités selon lesquelles les décisions relatives à la conception exposées dans la notification de conception tiennent compte de la gestion des risques de sorte que soient pris en compte les principes inhérents à la sécurité et à l’environnement;\n\nii) la manière dont les opérations sur puits doivent être conduites depuis l’installation durant l’exploitation;\n\niii) la manière dont les opérations sur puits doivent être effectuées et temporairement suspendues avant que la production ne commence sur une installation de production;\n\niv) la manière dont les opérations combinées doivent être effectuées avec d’autres installations;\n\nv) la manière dont se déroulera le démantèlement de l’installation;\n\nd) la manière dont les mesures de réduction des risques recensées dans le cadre de la gestion des risques sont censées être appliquées, au besoin, pour réduire les risques à un niveau acceptable;\n\ne) si, en définissant les mesures nécessaires pour assurer des niveaux de risque acceptables, l’exploitant ou le propriétaire a clairement montré les modalités selon lesquelles sont pris en compte les meilleures pratiques utiles et les appréciations fondées sur les règles de l’art, les pratiques de bonne gestion, ainsi que les principes afférents aux facteurs humains et organisationnels;\n\nf) si les mesures et les dispositions permettant la détection d’une situation d’urgence, et la réaction rapide et efficace à cette dernière, sont exposées et justifiées avec précision;\n\ng) la manière dont les mesures et les dispositions de sortie, d’évacuation et de sauvetage propres à limiter l’aggravation du cas d’urgence et à réduire ses répercussions sur l’environnement sont intégrées de façon logique et systématique, compte tenu des probables conditions d’urgence dans lesquelles elles seront mises en œuvre;\n\nh) la manière dont les exigences sont prises en compte dans les plans d’intervention d’urgence internes et si une copie ou une description adéquate du plan d’intervention d’urgence interne a été soumise à l’autorité compétente;\n\ni) si le système de gestion de la sécurité et de l’environnement décrit dans le rapport sur les dangers majeurs est adapté pour maîtriser les risques de dangers majeurs à chaque stade du cycle de vie de l’installation et garantit le respect de toutes les dispositions légales pertinentes et prévoit des audits et la mise en œuvre des recommandations en la matière;\n\nj) si le mécanisme de vérification indépendante est expliqué avec précision.",
+      "text_sha256": "76cc4c3fb5fc1f4510e5833f6f095d5bdfc677840925f3d74caae53d81f142f9",
+      "md_span": {
+        "start": 111689,
+        "end": 120209
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_iv",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#annexe_iv",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IV",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Dispositions à prendre par les exploitants et les propriétaires pour la prévention des accidents majeurs en vertu de l’article 19**\n\n1. Les États membres veillent à ce que les exploitants et les propriétaires:\n\na) portent une attention particulière à l’évaluation des exigences de fiabilité et d’intégrité de tous les systèmes critiques pour la sécurité et l’environnement et établissent leurs programmes d’inspection et de maintenance dans l’optique d’atteindre le niveau requis d’intégrité en matière de sécurité et d'environnement;\n\nb) prennent les mesures nécessaires pour éviter, dans la mesure du possible, toute fuite imprévue de substances dangereuses à partir des pipelines, des navires et des systèmes utilisés pour assurer leur confinement dans des conditions de sécurité. En outre, les exploitants et les propriétaires s’assurent qu’aucune défaillance d’une barrière de confinement ne puisse provoquer d’accident majeur;\n\nc) préparent un inventaire des équipements disponibles et de leurs propriétaires, de leur localisation, des moyens permettant de les transporter vers l’installation et des modes de déploiement sur site, ainsi que des entités chargées de la mise en œuvre du plan d’intervention d’urgence interne. L’inventaire recense les mesures prises pour garantir que les équipements et les procédures restent opérationnels;\n\nd) disposent d’un cadre adapté pour contrôler la conformité avec toutes les dispositions statutaires pertinentes, en intégrant les tâches que leur impose la loi en matière de maîtrise des dangers majeurs et de protection de l’environnement dans leurs procédures opérationnelles ordinaires; et\n\ne) portent une attention particulière à l’instauration et à la préservation d’une culture de la sécurité solide entraînant une probabilité élevée de poursuite de l’exploitation dans des conditions de sécurité, en garantissant notamment une coopération des travailleurs, entre autres:\n\ni) par un souci manifeste de consultations tripartites et d’actions en conséquence;\n\nii) en encourageant et en récompensant le fait de notifier des accidents et des accidents évités de justesse;\n\niii) par un travail efficace avec les représentants élus en matière de sécurité;\n\niv) par la protection des personnes qui signalent des problèmes.\n\n2. Les États membres veillent à ce que le secteur industriel coopère avec les autorités compétentes pour élaborer et exécuter un plan d’action prioritaire pour l’établissement de normes, de lignes directrices et de règles permettant de mettre en œuvre les bonnes pratiques en matière de prévention des accidents majeurs et de limitation des conséquences si un tel accident devait néanmoins survenir.",
+      "text_sha256": "22742037d3b886bf32dd9fcb518a8f8a5622cf1c12a6b7c5fb7168569eec757a",
+      "md_span": {
+        "start": 120250,
+        "end": 122920
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_v",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#annexe_v",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE V",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Sélection du vérificateur indépendant et conception des programmes de vérification indépendante en application de l’article 17, paragraphe 3**\n\n1. Les États membres exigent de l’exploitant ou du propriétaire qu’il veille à ce que les conditions suivantes soient remplies en ce qui concerne l’indépendance du vérificateur vis-à-vis de l’exploitant et du propriétaire:\n\na) la fonction n’impose pas au vérificateur indépendant d’examiner un quelconque aspect d’un élément critique pour la sécurité et l’environnement ou toute partie d’une installation ou d’un puits ou d’une conception de puits pour lesquels le vérificateur est déjà intervenu préalablement à l’activité de vérification ou lorsque son objectivité pourrait être remise en question;\n\nb) le vérificateur indépendant est suffisamment indépendant des responsables du système de gestion exerçant ou ayant exercé une responsabilité vis-à-vis d’un quelconque aspect d’un élément couvert par le programme de vérification indépendante ou d’examen indépendant du puits, de sorte que soit garantie son objectivité dans l’exercice de ses fonctions dans le cadre du programme.\n\n2. Les États membres exigent que l’exploitant ou le propriétaire s’assurent que, en ce qui concerne le programme de vérification indépendante relatif à une installation ou à un puits, les conditions suivantes sont remplies:\n\na) le vérificateur indépendant dispose de compétences techniques appropriées, notamment, le cas échéant, d’un personnel doté de qualifications et d’une expérience adéquates, en nombre suffisant qui satisfait aux exigences visées au point 1 de la présente annexe;\n\nb) les tâches relevant du programme de vérification indépendante sont attribuées de façon adéquate par le vérificateur indépendant au personnel qualifié pour les réaliser;\n\nc) les arrangements adéquats sont pris entre l’exploitant ou le propriétaire et le vérificateur indépendant pour assurer la transmission des informations;\n\nd) le vérificateur indépendant est doté des pouvoirs adéquats pour être en mesure d’exercer ses fonctions de façon efficace.\n\n3. Toute modification substantielle est communiquée au vérificateur indépendant pour qu’il effectue une nouvelle vérification, conformément au programme de vérification indépendante, et les résultats de ladite vérification sont communiqués à l’autorité compétente, si elle le demande.",
+      "text_sha256": "c5b692fd669f6b831060d7de2c4e39668a31017a564c8ff50be336d41ab9e244",
+      "md_span": {
+        "start": 122959,
+        "end": 125317
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_vi",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#annexe_vi",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VI",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Informations relatives aux priorités de la coopération instaurée entre les exploitants et les propriétaires et les autorités compétentes en application de l’article 19, paragraphe 7**\n\nLes éléments à prendre en compte pour l’établissement des priorités en vue de l’élaboration de normes et de lignes directrices donnent un effet pratique à la prévention des accidents majeurs et à la limitation de leurs conséquences. Ces éléments sont notamment les suivants:\n\na) améliorer l’intégrité du puits, les équipements et les barrières de contrôle des puits, et contrôler leur efficacité;\n\nb) améliorer les confinements primaires;\n\nc) améliorer les confinements secondaires destinés à empêcher l’aggravation d’un accident majeur naissant, notamment une éruption dans un puits;\n\nd) disposer d’un processus décisionnel fiable;\n\ne) gérer et superviser les opérations susceptibles de présenter des dangers majeurs;\n\nf) disposer de personnes compétentes aux postes clés;\n\ng) garantir une gestion effective des risques;\n\nh) évaluer la fiabilité des systèmes critiques pour la sécurité et l’environnement;\n\ni) disposer d’indicateurs de performance clés;\n\nj) intégrer de façon effective les systèmes de gestion de la sécurité et de l’environnement entre les exploitants et les propriétaires et les autres entités participant à des opérations pétrolières et gazières.",
+      "text_sha256": "47fd2d8cb7a4d781b4aeb67adb1cf905e79f6c7d05b9ebc8089c19148ee180bd",
+      "md_span": {
+        "start": 125358,
+        "end": 126711
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_vii",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#annexe_vii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Informations à fournir dans les plans d’intervention d’urgence externes visés à l’article 29**\n\nLes plans d’intervention d’urgence externes préparés conformément à l’article 29 comprennent, entre autres, les éléments suivants:\n\na) le nom et la fonction des personnes autorisées à déclencher les procédures d’urgence et des personnes autorisées à diriger l’intervention d’urgence externe;\n\nb) les arrangements pris pour la réception des appels d’alertes précoces en cas d’accident majeur, ainsi que les procédures correspondantes d’alerte et d’intervention d’urgence;\n\nc) les arrangements visant à coordonner les ressources nécessaires à la mise en œuvre du plan d’intervention d’urgence externe;\n\nd) les arrangements pris pour fournir un soutien au plan d’intervention d’urgence interne;\n\ne) une description détaillée des mécanismes d’intervention d’urgence externes;\n\nf) les arrangements pris pour fournir aux personnes et entités susceptibles d’être touchées par un accident majeur des informations et des conseils adaptés relatifs à cet accident;\n\ng) des arrangements visant à assurer la fourniture d’informations aux services d’urgence des autres États membres et à la Commission en cas d’accident majeur pouvant avoir des conséquences transfrontières;\n\nh) les arrangements pris pour atténuer les incidences négatives sur la flore et la faune sauvages terrestres et maritimes, y compris les situations dans lesquelles des animaux mazoutés atteignent les côtes avant la nappe de pétrole elle-même.",
+      "text_sha256": "7485ea5f517379125bffed103c94ebefe83578737ee91245617153742cd29689",
+      "md_span": {
+        "start": 126754,
+        "end": 128256
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_viii",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#annexe_viii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VIII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Informations à prendre en compte dans l’élaboration des plans d’intervention d’urgence externes visés à l’article 29**\n\n1. L’autorité ou les autorités responsables de la coordination de l’intervention d’urgence mettent les éléments suivants à disposition:\n\na) un inventaire des équipements disponibles et de leurs propriétaires, de leur localisation, des moyens permettant de les transporter vers l’installation et des modes de déploiement une fois sur le site de l’accident majeur;\n\nb) une description des mesures prises pour faire en sorte que les équipements et les procédures continuent de fonctionner correctement;\n\nc) un inventaire des équipements détenus par le secteur industriel et pouvant être mis à disposition en cas d’urgence;\n\nd) une description des dispositifs généraux de réaction aux accidents majeurs, notamment les compétences et les responsabilités de tous les intervenants et des organismes chargés de maintenir l’efficacité de ces dispositifs;\n\ne) les mesures visant à garantir que les équipements, le personnel et les procédures sont disponibles et à jour et que des membres du personnel formés et en nombre suffisant peuvent être mobilisés à tout moment;\n\nf) la preuve attestant d’évaluations antérieures des répercussions sur l’environnement et la santé de toutes les substances chimiques prévues pour être utilisées en tant qu’agents de dispersion.\n\n2. Les plans d’intervention d’urgence externes expliquent clairement le rôle des autorités, des services d’urgence, des coordinateurs et de toute autre personne prenant part à l’intervention d’urgence, de façon à garantir une coopération dans la réaction aux accidents majeurs.\n\n3. Les mécanismes incluent, pour les situations dans lesquelles un État membre ne parvient pas à réagir à un accident majeur ou si celui-ci dépasse ses frontières, des dispositions prévoyant:\n\na) la communication des plans d’intervention d’urgence externes aux États membres limitrophes et à la Commission;\n\nb) la compilation au niveau transfrontalier des inventaires des moyens d’intervention détenus soit par le secteur industriel soit par les autorités publiques, et de toutes les adaptations nécessaires pour assurer la compatibilité des équipements et des procédures entre les États membres et les pays limitrophes;\n\nc) les procédures de recours au mécanisme de protection civile de l’Union;\n\nd) les modalités d’exercices transnationaux d’intervention d’urgence externe.",
+      "text_sha256": "ea9b87c3a23df23743d7720df05b9f9e8bd75420c929be97b79d29799645fe8f",
+      "md_span": {
+        "start": 128301,
+        "end": 130733
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_ix",
+      "provision_id": "eu-eurlex:32013l0030:2013-07-18#annexe_ix",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IX",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**Partage d’informations et transparence**\n\n1. Le format commun pour la communication des données relatif aux indicateurs des dangers majeurs permet de comparer les informations émanant des autorités compétentes et les informations émanant des différents exploitants et propriétaires.\n\n2. Les informations devant être partagées par l’autorité compétente et les exploitants et propriétaires portent notamment sur les éléments suivants:\n\na) tout rejet involontaire de pétrole, de gaz ou d’autres substances dangereuses, enflammées ou non;\n\nb) toute perte de contrôle d’un puits nécessitant la mise en route des équipements de contrôle de puits, ou la défaillance d’une barrière de puits nécessitant son remplacement ou sa réparation;\n\nc) toute défaillance d’un élément critique pour la sécurité et l’environnement;\n\nd) toute perte d’intégrité structurelle significative de l’installation, toute dégradation de la protection contre les effets des incendies ou explosions, ou tout déplacement involontaire d’une installation mobile;\n\ne) les navires sur le point d’entrer en collision et les collisions survenues entre des navires et des installations en mer;\n\nf) les accidents d’hélicoptère survenus sur les installations en mer ou à proximité;\n\ng) tout accident mortel;\n\nh) toute blessure grave causée à cinq personnes ou plus au cours du même accident;\n\ni) toute évacuation du personnel;\n\nj) tout incident majeur pour l’environnement.\n\n3. Les rapports annuels devant être communiqués par les États membres conformément à l’article 25 contiennent au moins les informations suivantes:\n\na) le nombre, l’ancienneté et l’implantation des installations;\n\nb) le nombre et le type d’inspections et d’enquêtes réalisées, les mesures d’exécution éventuellement prises ou les condamnations éventuelles;\n\nc) les données relatives aux incidents en application du système commun de communication des données requis par l’article 23;\n\nd) toute modification importante du cadre réglementaire relatif aux activités en mer;\n\ne) les résultats obtenus dans le cadre des opérations pétrolières et gazières en mer pour la prévention des accidents majeurs et la limitation des conséquences des accidents majeurs qui surviennent.\n\n4. Les informations visées au point 2 comprennent des informations factuelles et des données analytiques concernant les opérations pétrolières et gazières et ne comportent aucune ambiguïté. Les informations et les données fournies sont telles que les performances des différents exploitants et propriétaires peuvent être comparées au sein d’un État membre et les performances du secteur industriel en général peuvent être comparées entre les États membres.\n\n5. Les informations collectées et rassemblées visées au point 2 permettent aux États membres de lancer une alerte anticipée en cas de détérioration potentielle des barrières critiques pour la sécurité et l’environnement et leur permettent de prendre des mesures préventives. Les informations démontrent en outre l’efficacité globale des mesures et des contrôles appliqués par les différents exploitants et propriétaires et le secteur industriel en général, dans le but notamment de prévenir les accidents majeurs et de réduire au minimum les risques pour l’environnement.\n\n6. Afin de satisfaire aux exigences de l’article 24, un format simplifié aisément accessible au public et facilitant la comparaison transfrontière des données est établi pour faciliter la publication des données pertinentes en vertu du point 2 de la présente annexe et l’élaboration des rapports en vertu de l’article 25.\n\n(1) JO C 143 du 22.5.2012, p. 125.\n\n(2) Position du Parlement européen du 21 mai 2013 (non encore parue au Journal officiel) et décision du Conseil du 10 juin 2013.\n\n(3) JO L 164 du 25.6.2008, p. 19.\n\n(4) JO L 164 du 30.6.1994, p. 3.\n\n(5) JO L 143 du 30.4.2004, p. 56.\n\n(6) JO L 124 du 17.5.2005, p. 4.\n\n(7) JO L 197 du 21.7.2001, p. 30.\n\n(8) JO L 156 du 25.6.2003, p. 17.\n\n(9) JO L 26 du 28.1.2012, p. 1.\n\n(10) JO L 197 du 24.7.2012, p. 1.\n\n(11) JO L 348 du 28.11.1992, p. 9.\n\n(12) JO L 183 du 29.6.1989, p. 1.\n\n(13) JO L 55 du 28.2.2011, p. 13.\n\n(14) Décision de la Commission du 19 janvier 2012 instituant le groupe des autorités du pétrole et du gaz en mer de l’Union européenne (JO C 18 du 21.1.2012, p. 8).\n\n(15) Règlement (CE) no 1406/2002 du Parlement européen et du Conseil du 27 juin 2002 instituant une Agence européenne pour la sécurité maritime (JO L 208 du 5.8.2002, p. 1).\n\n(16) JO L 314 du 1.12.2007, p. 9.\n\n(17) Décision du Conseil du 17 décembre 2012 relative à l’adhésion de l’Union européenne au protocole relatif à la protection de la mer Méditerranée contre la pollution résultant de l’exploration et de l’exploitation du plateau continental du fond de la mer et de son sous-sol (JO L 4 du 9.1.2013, p. 13).\n\n(18) JO L 240 du 19.9.1977, p. 1.\n\n(19) Directive 2003/4/CE du Parlement européen et du Conseil du 28 janvier 2003 concernant l’accès du public à l’information en matière d’environnement (JO L 41 du 14.2.2003, p. 26).\n\n(20) Directive 2010/75/UE du Parlement européen et du Conseil du 24 novembre 2010 relative aux émissions industrielles (prévention et réduction intégrées de la pollution) (JO L 334 du 17.12.2010, p. 17).\n\n(21) JO L 206 du 22.7.1992, p. 7.\n\n(22) JO L 20 du 26.1.2010, p. 7.\n\n(23) JO L 328 du 6.12.2008, p. 28.",
+      "text_sha256": "404518e022a3f6adfdd196e01cdc5d61a2f28e8c256ce31bb7c6a1254971cdae",
+      "md_span": {
+        "start": 130774,
+        "end": 136091
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        },
+        {
+          "href": "#src.E0008",
+          "text": "8"
+        },
+        {
+          "href": "#src.E0009",
+          "text": "9"
+        },
+        {
+          "href": "#src.E0010",
+          "text": "10"
+        },
+        {
+          "href": "#src.E0011",
+          "text": "11"
+        },
+        {
+          "href": "#src.E0012",
+          "text": "12"
+        },
+        {
+          "href": "#src.E0013",
+          "text": "13"
+        },
+        {
+          "href": "#src.E0014",
+          "text": "14"
+        },
+        {
+          "href": "#src.E0015",
+          "text": "15"
+        },
+        {
+          "href": "#src.E0016",
+          "text": "16"
+        },
+        {
+          "href": "#src.E0017",
+          "text": "17"
+        },
+        {
+          "href": "#src.E0018",
+          "text": "18"
+        },
+        {
+          "href": "#src.E0019",
+          "text": "19"
+        },
+        {
+          "href": "#src.E0020",
+          "text": "20"
+        },
+        {
+          "href": "#src.E0021",
+          "text": "21"
+        },
+        {
+          "href": "#src.E0022",
+          "text": "22"
+        },
+        {
+          "href": "#src.E0023",
+          "text": "23"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

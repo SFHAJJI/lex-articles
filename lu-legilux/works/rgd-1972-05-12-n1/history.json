@@ -4,6 +4,7 @@
   "profiles": [
     "pdf-memorial-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -62,5 +63,68 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2006-08-26",
+          "valid_to": null,
+          "text_sha256": "cf2a3d1f437ee0ee421c8b7cc8031fd399106cd0e1d16516c43b4b6ab3ace2a8",
+          "in_version": "lu-legilux:rgd-1972-05-12-n1:2006-08-26"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2006-08-26",
+          "valid_to": null,
+          "text_sha256": "f7d730bbdac51768e12840ac8a48bdbcd97255eaaaeec49f909bc68c326ba9fe",
+          "in_version": "lu-legilux:rgd-1972-05-12-n1:2006-08-26"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2006-08-26",
+          "valid_to": null,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "lu-legilux:rgd-1972-05-12-n1:2006-08-26"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2006-08-26",
+          "valid_to": null,
+          "text_sha256": "e9fba909115c608cea33b1313e754d62fa9dd04e4d1a06079135b8a072b41b55",
+          "in_version": "lu-legilux:rgd-1972-05-12-n1:2006-08-26"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2006-08-26",
+          "valid_to": null,
+          "text_sha256": "58e83e43c9d8717aa6869b29217a5a88f4c901d5a472f9f8cff1c24ad231dcbe",
+          "in_version": "lu-legilux:rgd-1972-05-12-n1:2006-08-26"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2006-08-26",
+          "valid_to": null,
+          "text_sha256": "1e1f2723e247f30a0d7487c4845c82b8b316138442803c2d7ef24b0a082b2e63",
+          "in_version": "lu-legilux:rgd-1972-05-12-n1:2006-08-26"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2006-08-26",
+          "valid_to": null,
+          "text_sha256": "f977d9948c0130f09246e29eb1fffc19c806bbf3b063475eb71f64cb9095725c",
+          "in_version": "lu-legilux:rgd-1972-05-12-n1:2006-08-26"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

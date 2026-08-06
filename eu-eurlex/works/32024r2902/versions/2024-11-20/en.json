@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2902:2024-11-20",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2024/2902 of 20\u00A0November 2024 laying down implementing technical standards for the application of Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-11-20",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2902/versions/2024-11-20/en.xml",
+    "sha256": "665e86ff8018358517b4ecb3ec46d7025f3f502a9e3549533b1cc465c9efddaa",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2902"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2902:2024-11-20#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. For the purposes of the reporting requirement referred to in Article 22(1) of Regulation (EU) 2023/1114, issuers shall use the templates set out in Annex I, in accordance with the instructions provided for in Annex II, to this Regulation.\n\n2. For the purposes of the reporting requirement referred to in Article 22(3) of Regulation (EU) 2023/1114, crypto-asset service providers shall submit to the issuers the templates set out in Annex III, in accordance with the instructions provided for in Annex IV, to this Regulation.\n\n3. For purposes of the reporting referred to in Article 22(1) of Regulation (EU) 2023/1114, issuers shall accompany the submitted data listed in Annex I to this Regulation with the following information:\n\n| (a) | the reporting reference date and reference period; |\n| --- | --- |\n\n| (b) | the reporting currency; |\n| --- | --- |\n\n| (c) | for legal entities, the legal entity identifier (LEI) of the issuer, and for natural persons the official national identification number applicable in the home Member State; |\n| --- | --- |\n\n| (d) | the type of the token, as defined in Article 3(1), point (6) or (7), of Regulation (EU) 2023/1114, and related identification code, reference or name of the token, where available, based on the published crypto-asset white paper for the token; |\n| --- | --- |\n\n| (e) | whether the token:(i)references only the official currency of the home Member State;(ii)references only currencies other than the official currency of the home Member State;(iii)references both the official currency of the home Member State and other currencies (a mix of the option referred to in point (i) and the option referred to in point (ii)); |\n| --- | --- |\n| (i) | references only the official currency of the home Member State; |\n| (ii) | references only currencies other than the official currency of the home Member State; |\n| (iii) | references both the official currency of the home Member State and other currencies (a mix of the option referred to in point (i) and the option referred to in point (ii)); |\n\n| (f) | whether the token has been classified as significant in accordance with Article 43 of Regulation (EU) 2023/1114; |\n| --- | --- |\n\n| (g) | where applicable, a statement that the issuer has not received the information referred to in Annexes III and IV to this Regulation from the crypto-asset service providers. |\n| --- | --- |\n\n4. In accordance with Article 58(3) of Regulation (EU) 2023/1114, this Regulation applies mutatis mutandis to e-money tokens denominated in a currency that is not an official currency of a Member State.",
+      "text_sha256": "0d7e5c9f572a600f5d0c7638b28697b9cfed338c865bf1cdd09140b826f7ad34",
+      "md_span": {
+        "start": 708,
+        "end": 3316
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2902:2024-11-20#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. For the purposes of the reporting requirement referred to in Article 22(1) of Regulation (EU) 2023/1114, issuers shall submit information to competent authorities on a quarterly reporting basis, with the following reporting reference dates: 31 March, 30 June, 30 September and 31 December.\n\n2. The first reference date shall be the one corresponding to the quarter in which the issue value of the asset-referenced token is higher than the threshold referred to in Article 22(1) of Regulation (EU) 2023/1114.\n\n3. The last reference date shall be the one corresponding to the third consecutive quarter in which the issue value of the asset-referenced token is lower than the threshold referred to in Article 22(1) of Regulation (EU) No 2023/1114.",
+      "text_sha256": "997ccc084cec7a005e561a2723abc11ba27c3e31322d45fc33d3a69a85dc0c6a",
+      "md_span": {
+        "start": 3349,
+        "end": 4107
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r2902:2024-11-20#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. For the purposes of the reporting requirement referred to in Article 22(1) of Regulation (EU) 2023/1114, issuers shall submit the information referred to in that Article to competent authorities on a quarterly reporting basis, by close of business on the following remittance dates: 12 May, 11 August, 11 November and 11 February.\n\n2. For the purposes of the reporting requirement referred to in Article 22(3) of Regulation (EU) 2023/1114, crypto-asset service providers shall submit the information referred to in that Article to the issuers on a quarterly reporting basis, by close of business on the following remittance dates: 21 April, 21 July, 21 October and 21 January.\n\nHowever, crypto-asset service providers shall submit ‘Template S 08.00 – Token held by CASP’, which is set out in Annexes III and IV, to the issuers by close of business on a daily basis.\n\n3. If the remittance day is a public holiday in the Member State of the competent authority to which the report is to be provided, or a Saturday or Sunday, data shall be submitted on the following working day.\n\n4. Issuers shall submit any corrections to the reports submitted to the competent authorities without undue delay.",
+      "text_sha256": "e081699aba841185b6fac65ba8e571b8d9f2ab1722fea41ee90a7c5bd4000185",
+      "md_span": {
+        "start": 4140,
+        "end": 5346
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r2902:2024-11-20#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. When submitting the information referred to in this Regulation, issuers shall submit it in the data exchange formats and representations as specified by the competent authorities and in accordance with the data point definition of the data point model and the validation formulae set out in Annex V and the following specifications:\n\n| (a) | information that is not required or not applicable shall not be included in a data submission; |\n| --- | --- |\n\n| (b) | numerical values shall be submitted as follows:(i)data points with the data type ‘Monetary’ shall be reported using a minimum precision equivalent to ten thousands of units;(ii)data points with the data type ‘Integer’ shall be reported using no decimals and a precision equivalent to units. |\n| --- | --- |\n| (i) | data points with the data type ‘Monetary’ shall be reported using a minimum precision equivalent to ten thousands of units; |\n| (ii) | data points with the data type ‘Integer’ shall be reported using no decimals and a precision equivalent to units. |\n\n2. Crypto-asset service providers shall submit the information referred to in Article 1(2) to the issuers in the data exchange formats and representations specified by the issuers.",
+      "text_sha256": "b913231c646a1e8c9900439d29a1c35331310af09d71567c269beb7863664b27",
+      "md_span": {
+        "start": 5379,
+        "end": 6602
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r2902:2024-11-20#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThe issuers shall not retain any personal data on holders submitted by the crypto-asset service providers in accordance with Articles 1(2) and 3(2) of this Regulation for longer than necessary to comply with the reporting obligations laid down in Article 22(1) of Regulation (EU) 2023/1114. Such retention period shall not exceed 5 years from the date of obtaining the personal data by the issuers.",
+      "text_sha256": "9082272b0704955161841aeedeabb8657cb48ff8d250e0dd5c8e0ec0d99a1547",
+      "md_span": {
+        "start": 6635,
+        "end": 7044
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r2902:2024-11-20#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2025.",
+      "text_sha256": "ee7f25d173645cb7acd2685b96d62eb2f050ede0e39312d3fae8bfbe51b421c7",
+      "md_span": {
+        "start": 7077,
+        "end": 7265
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

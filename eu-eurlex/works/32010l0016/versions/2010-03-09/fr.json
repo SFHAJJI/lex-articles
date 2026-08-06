@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32010l0016:2010-03-09",
+  "language": "fr",
+  "title": "Commission Directive 2010/16/EU of 9 March 2010 amending Directive 2006/48/EC",
+  "valid_from": "2010-03-09",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32010l0016/versions/2010-03-09/fr.xml",
+    "sha256": "734413fa820fe30cee467131153b0977f1f68222b5cadda214f1658f359cfef9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32010L0016"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32010l0016:2010-03-09#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l’article 2 de la directive 2006/48/CE, le tiret suivant est inséré après le dix-septième tiret:\n\n| «— | en Slovénie, la “SID-Slovenska izvozna in razvojna banka, d.d. Ljubljana”,» |\n| --- | --- |",
+      "text_sha256": "a6f4d5159ebb874a1b4f741a671e9306ceafedad28bed03d29ce2840e79f78b4",
+      "md_span": {
+        "start": 622,
+        "end": 837
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32010l0016:2010-03-09#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les États membres adoptent et publient, au plus tard le 30 juin 2010, les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive. Ils communiquent immédiatement à la Commission le texte de ces dispositions ainsi qu’un tableau de correspondance entre ces dispositions et la présente directive.\n\nIls appliquent ces dispositions à partir du 1er juillet 2010.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine couvert par la présente directive.",
+      "text_sha256": "94ecfb72743d9f4543fe14699ceff005302e42645ce72b8f2594d0a2f0fe2995",
+      "md_span": {
+        "start": 870,
+        "end": 1737
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32010l0016:2010-03-09#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLa présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "33d675349ea71b50fecd79643cf4d588edb987445b0a9353a37d98672f1c30b7",
+      "md_span": {
+        "start": 1770,
+        "end": 1912
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32010l0016:2010-03-09#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "0fc712c9ed5879dbad5bea3e7474f713eea34cda4ea895cc231207fc9b7290bb",
+      "md_span": {
+        "start": 1945,
+        "end": 2018
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

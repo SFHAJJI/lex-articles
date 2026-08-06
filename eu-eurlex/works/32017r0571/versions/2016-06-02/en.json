@@ -1,0 +1,393 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0571:2016-06-02",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/571 of 2 June 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2016-06-02",
+  "valid_to": "2018-02-05",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0571/versions/2016-06-02/en.xml",
+    "sha256": "e875d7a0bbd761bb4829a63e1a1bd953479b7fed52214e597c679a43f4370aa4",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0571"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. An applicant seeking authorisation to provide data reporting services shall submit to the competent authority the information set out in Articles 2, 3 and 4 and the information regarding all the organisational requirements set out in Chapters II and III.\n\n2. A data reporting services provider shall promptly inform the competent authority of its home Member State of any material change to the information provided at the time of the authorisation and thereafter.",
+      "text_sha256": "6083870ea521c06bf32103bd199c93276490c252d697717732b7bacf4909215f",
+      "md_span": {
+        "start": 646,
+        "end": 1124
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. An applicant seeking authorisation to provide data reporting services shall include in its application for authorisation a programme of operations referred to in Article 61(2) of Directive 2014/65/EU. The programme of operations shall include the following information:\n\n| (a) | information on the organisational structure of the applicant, including an organisational chart and a description of the human, technical and legal resources allocated to its business activities; |\n| --- | --- |\n\n| (b) | information on the compliance policies and procedures of the data reporting services provider, including:(i)the name of the person or persons responsible for the approval and maintenance of those policies;(ii)the arrangements to monitor and enforce the compliance policies and procedures;(iii)the measures to be undertaken in the event of a breach which may result in a failure to meet the conditions for initial authorisation;(iv)a description of the procedure for reporting to the competent authority any breach which may result in a failure to meet the conditions for initial authorisation; |\n| --- | --- |\n| (i) | the name of the person or persons responsible for the approval and maintenance of those policies; |\n| (ii) | the arrangements to monitor and enforce the compliance policies and procedures; |\n| (iii) | the measures to be undertaken in the event of a breach which may result in a failure to meet the conditions for initial authorisation; |\n| (iv) | a description of the procedure for reporting to the competent authority any breach which may result in a failure to meet the conditions for initial authorisation; |\n\n| (c) | a list of all outsourced functions and resources allocated to the control of the outsourced functions; |\n| --- | --- |\n\n2. A data reporting services provider offering services other than data reporting services shall describe those services in the organisational chart.",
+      "text_sha256": "186578d4ff852b0e6ca5fe6ff3a9b9677b99dcc0d4444edd43698d0a17d3428a",
+      "md_span": {
+        "start": 1157,
+        "end": 3079
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. An applicant seeking authorisation to provide data reporting services shall include in its application for authorisation information on the internal corporate governance policies and the procedures which govern its management body, senior management, and, where established, committees.\n\n2. The information set out in paragraph 1 shall include:\n\n| (a) | a description of the processes for selection, appointment, performance evaluation and removal of senior management and members of the management body; |\n| --- | --- |\n\n| (b) | a description of the reporting lines and the frequency of reporting to the senior management and the management body; |\n| --- | --- |\n\n| (c) | a description of the policies and procedures on access to documents by members of the management body. |\n| --- | --- |",
+      "text_sha256": "1b73cafc24db07e6949e3f4e0957e48abb8e160133199a7ff5c9ee9681894be5",
+      "md_span": {
+        "start": 3112,
+        "end": 3917
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. An applicant seeking authorisation to provide data reporting services shall include in its application for authorisation the following information in respect of each member of the management body:\n\n| (a) | name, date and place of birth, personal national identification number or an equivalent thereof, address and contact details; |\n| --- | --- |\n\n| (b) | the position for which the person is or will be appointed; |\n| --- | --- |\n\n| (c) | a curriculum vitae evidencing sufficient experience and knowledge to adequately perform the responsibilities; |\n| --- | --- |\n\n| (d) | criminal records, notably through an official certificate, or, where such a document is not available in the relevant Member State, a self-declaration of good repute and the authorisation to the competent authority to inquire whether the member has been convicted of any criminal offence in connection with the provision of financial or data services or in relation to acts of fraud or embezzlement; |\n| --- | --- |\n\n| (e) | a self-declaration of good repute and the authorisation to the competent authority to inquire whether the member:(i)has been subject to an adverse decision in any proceedings of a disciplinary nature brought by a regulatory authority or government body or is the subject of any such proceedings which are not concluded;(ii)has been subject to an adverse judicial finding in civil proceedings before a court in connection with the provision of financial or data services, or for misconduct or fraud in the management of a business;(iii)has been part of the management body of an undertaking which was subject to an adverse decision or penalty by a regulatory authority or whose registration or authorisation was withdrawn by a regulatory authority;(iv)has been refused the right to carry on activities which require registration or authorisation by a regulatory authority;(v)has been part of the management body of an undertaking which has gone into insolvency or liquidation while the person held such position or within a year after which the person ceased to hold such position;(vi)has been otherwise fined, suspended, disqualified, or been subject to any other sanction in relation to fraud, embezzlement or in connection with the provision of financial or data services, by a professional body;(vii)has been disqualified from acting as a director, disqualified from acting in any managerial capacity, dismissed from employment or other appointment in an undertaking as a consequence of misconduct or malpractice; |\n| --- | --- |\n| (i) | has been subject to an adverse decision in any proceedings of a disciplinary nature brought by a regulatory authority or government body or is the subject of any such proceedings which are not concluded; |\n| (ii) | has been subject to an adverse judicial finding in civil proceedings before a court in connection with the provision of financial or data services, or for misconduct or fraud in the management of a business; |\n| (iii) | has been part of the management body of an undertaking which was subject to an adverse decision or penalty by a regulatory authority or whose registration or authorisation was withdrawn by a regulatory authority; |\n| (iv) | has been refused the right to carry on activities which require registration or authorisation by a regulatory authority; |\n| (v) | has been part of the management body of an undertaking which has gone into insolvency or liquidation while the person held such position or within a year after which the person ceased to hold such position; |\n| (vi) | has been otherwise fined, suspended, disqualified, or been subject to any other sanction in relation to fraud, embezzlement or in connection with the provision of financial or data services, by a professional body; |\n| (vii) | has been disqualified from acting as a director, disqualified from acting in any managerial capacity, dismissed from employment or other appointment in an undertaking as a consequence of misconduct or malpractice; |\n\n| (f) | An indication of the minimum time that is to be devoted to the performance of the person's functions within the data reporting services provider; |\n| --- | --- |\n\n| (g) | a declaration of any potential conflicts of interest that may exist or arise in performing the duties and how those conflicts are managed. |\n| --- | --- |",
+      "text_sha256": "132a1d5b8bcdb17185174a66aded84eacc271089db00f67a87d2c0ce1fab29f1",
+      "md_span": {
+        "start": 3950,
+        "end": 8291
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. A data reporting services provider shall operate and maintain effective administrative arrangements, designed to prevent conflicts of interest with clients using its services to meet their regulatory obligations and other entities purchasing data from data reporting services providers. Such arrangements shall include policies and procedures for identifying, managing and disclosing existing and potential conflicts of interest and shall contain:\n\n| (a) | an inventory of existing and potential conflicts of interest, setting out their description, identification, prevention, management and disclosure; |\n| --- | --- |\n\n| (b) | the separation of duties and business functions within the data reporting services provider including:(i)measures to prevent or control the exchange of information where a risk of conflicts of interest may arise;(ii)the separate supervision of relevant persons whose main functions involve interests that are potentially in conflict with those of a client; |\n| --- | --- |\n| (i) | measures to prevent or control the exchange of information where a risk of conflicts of interest may arise; |\n| (ii) | the separate supervision of relevant persons whose main functions involve interests that are potentially in conflict with those of a client; |\n\n| (c) | a description of the fee policy for determining fees charged by the data reporting services provider and undertakings to which the data reporting services provider has close links; |\n| --- | --- |\n\n| (d) | a description of the remuneration policy for the members of the management body and senior management; |\n| --- | --- |\n\n| (e) | the rules regarding the acceptance of money, gifts or favours by staff of the data reporting services provider and its management body. |\n| --- | --- |\n\n2. The inventory of conflicts of interest as referred to in paragraph 1(a) shall include conflicts of interest arising from situations where the data reporting services provider:\n\n| (a) | may realise a financial gain or avoid a financial loss, to the detriment of a client; |\n| --- | --- |\n\n| (b) | may have an interest in the outcome of a service provided to a client, which is distinct from the client's interest in that outcome; |\n| --- | --- |\n\n| (c) | may have an incentive to prioritise its own interests or the interest of another client or group of clients rather than the interests of a client to whom the service is provided; |\n| --- | --- |\n\n| (d) | receive or may receive from any person other than a client, in relation to the service provided to a client, an incentive in the form of money, goods or services, other than commission or fees received for the service. |\n| --- | --- |",
+      "text_sha256": "d2b4adca52bd7ce8b13333e97340aea9643820653a9a6d17b213c0f0a9f61b69",
+      "md_span": {
+        "start": 8324,
+        "end": 11002
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Where a data reporting services provider arranges for activities to be performed on its behalf by third parties, including undertakings with which it has close links, it shall ensure that the third party service provider has the ability and the capacity, to perform the activities reliably and professionally.\n\n2. A data reporting services provider shall specify which of the activities are to be outsourced, including a specification of the level of human and technical resources needed to carry out each of those activities.\n\n3. A data reporting services provider that outsources activities shall ensure that the outsourcing does not reduce its ability or power to perform senior management or management body functions.\n\n4. A data reporting services provider shall remain responsible for any outsourced activity and shall adopt organisational measures to ensure:\n\n| (a) | that it assesses whether the third party service provider is carrying out outsourced activities effectively and in compliance with applicable laws and regulatory requirements and adequately addresses identified failures; |\n| --- | --- |\n\n| (b) | the identification of the risks in relation to outsourced activities and adequate periodic monitoring; |\n| --- | --- |\n\n| (c) | adequate control procedures with respect to outsourced activities, including effectively supervising the activities and their risks within the data reporting services provider; |\n| --- | --- |\n\n| (d) | adequate business continuity of outsourced activities; |\n| --- | --- |\n\nFor the purposes of point (d), the data reporting services provider shall obtain information on the business continuity arrangements of the third party service provider, assess its quality and, where needed, request improvements.\n\n5. A data reporting services provider shall ensure that the third party service provider cooperates with the competent authority of the data reporting services provider in connection with outsourced activities.\n\n6. Where a data reporting services provider outsources any critical function, it shall provide the competent authority of its home Member State with:\n\n| (a) | the identification of the third party service provider; |\n| --- | --- |\n\n| (b) | the organisational measures and policies with respect to outsourcing and the risks posed by it as specified in paragraph 4; |\n| --- | --- |\n\n| (c) | internal or external reports on the outsourced activities. |\n| --- | --- |\n\nFor the purpose of the first sub paragraph 6, a function shall be regarded as critical if a defect or failure in its performance would materially impair the continuing compliance of the data reporting services provider with the conditions and obligations of its authorisation or its other obligations under Directive 2014/65/EU.",
+      "text_sha256": "d8a4fada101afcb14088a2a8ff5f00636c531b233109e86605b069a35c692655",
+      "md_span": {
+        "start": 11035,
+        "end": 13808
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. A data reporting services provider shall use systems and facilities that are appropriate and robust enough to ensure continuity and regularity in the performance of the services provided referred to in Directive 2014/65/EU.\n\n2. A data reporting services provider shall conduct periodic reviews, at least annually, evaluating its technical infrastructures and associated policies and procedures, including business continuity arrangements. A data reporting services provider shall remedy any deficiencies identified during the review.\n\n3. A data reporting services provider shall have effective business continuity arrangements in place to address disruptive incidents, including:\n\n| (a) | the processes which are critical to ensuring the services of the data reporting services provider, including escalation procedures, relevant outsourced activities or dependencies on external providers; |\n| --- | --- |\n\n| (b) | specific continuity arrangements, covering an adequate range of possible scenarios, in the short and medium term, including system failures, natural disasters, communication disruptions, loss of key staff and inability to use the premises regularly used; |\n| --- | --- |\n\n| (c) | duplication of hardware components, allowing for failover to a back-up infrastructure, including network connectivity and communication channels; |\n| --- | --- |\n\n| (d) | back-up of business-critical data and up-to-date information of the necessary contacts, ensuring communication within the data reporting services provider and with clients; |\n| --- | --- |\n\n| (e) | the procedures for moving to and operating data reporting services from a back-up site; |\n| --- | --- |\n\n| (f) | the target maximum recovery time for critical functions, which shall be as short as possible and in any case no longer than six hours in the case of approved publication arrangements (APAs) and consolidated tape providers (CTPs) and until the close of business of the next working day in the case of approved reporting mechanisms (ARMs); |\n| --- | --- |\n\n| (g) | staff training on the operation of the business continuity arrangements, individuals' roles including specific security operations personnel ready to react immediately to a disruption of services; |\n| --- | --- |\n\n4. A data reporting services provider shall set up a programme for periodically testing, reviewing and, where needed, modifying the business continuity arrangements.\n\n5. A data reporting services provider shall publish on its website and promptly inform the competent authority of its home Member State and its clients of any service interruptions or connection disruptions as well as the time estimated to resume a regular service.\n\n6. In the case of ARMs, the notifications referred to in paragraph 5 shall also be made to any competent authority to whom the ARM submits transaction reports.",
+      "text_sha256": "5d3253ef7dc80d76889ef538e7a43e7d28d17290278969de4d1edea44faf427f",
+      "md_span": {
+        "start": 13841,
+        "end": 16703
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. A data reporting services provider shall implement clearly delineated development and testing methodologies, ensuring that:\n\n| (a) | the operation of the IT systems satisfies the data reporting services provider's regulatory obligations; |\n| --- | --- |\n\n| (b) | compliance and risk management controls embedded in IT systems work as intended; |\n| --- | --- |\n\n| (c) | the IT systems can continue to work effectively at all times. |\n| --- | --- |\n\n2. A data reporting services provider shall also use the methodologies referred to in paragraph 1 prior to and following the deployment of any updates of the IT systems.\n\n3. A data reporting services provider shall promptly notify the competent authority of its home Member State of any planned significant changes to the IT system prior to their implementation.\n\n4. In the case of ARMs, the notifications referred to in paragraph 3 shall also be made to any competent authority to whom the ARM submits transaction reports.\n\n5. A data reporting services provider shall set up an on-going programme for periodically reviewing and, where needed, modifying the development and testing methodologies.\n\n6. A data reporting services provider shall run stress tests periodically at least on an annual basis. A data reporting services provider shall include in the adverse scenarios of the stress test unexpected behaviour of critical constituent elements of its systems and communication lines. The stress testing shall identify how hardware, software and communications respond to potential threats, specifying systems unable to cope with the adverse scenarios. A data reporting services provider shall take measures to address identified shortcomings in those systems.\n\n7. A data reporting services provider shall:\n\n| (a) | have sufficient capacity to perform its functions without outages or failures, including missing or incorrect data; |\n| --- | --- |\n\n| (b) | have sufficient scalability to accommodate without undue delay any increase in the amount of information to be processed and in the number of access requests from its clients. |\n| --- | --- |",
+      "text_sha256": "21637206bb0b2a07b7620af14e00c7c869f66370e5347d51acd01e8a7123b307",
+      "md_span": {
+        "start": 16736,
+        "end": 18849
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. A data reporting services provider shall set up and maintain procedures and arrangements for physical and electronic security designed to:\n\n| (a) | protect its IT systems from misuse or unauthorised access; |\n| --- | --- |\n\n| (b) | minimise the risks of attacks against the information systems as defined in Article 2(a) of Directive 2013/40/EU of the European Parliament and of the Council (6); |\n| --- | --- |\n\n| (c) | prevent unauthorised disclosure of confidential information; |\n| --- | --- |\n\n| (d) | ensure the security and integrity of the data. |\n| --- | --- |\n\n2. Where an investment firm (‘reporting firm’) uses a third party (‘submitting firm’) to submit information to an ARM on its behalf, an ARM shall have procedures and arrangements in place to ensure that the submitting firm does not have access to any other information about or submitted by the reporting firm to the ARM which may have been sent by the reporting firm directly to the ARM or via another submitting firm.\n\n3. A data reporting services provider shall set up and maintain measures and arrangements to promptly identify and manage the risks identified in paragraph 1.\n\n4. In respect of breaches in the physical and electronic security measures referred to in paragraphs 1, 2 and 3, a data reporting services provider shall promptly notify:\n\n| (a) | the competent authority of its home Member State and provide an incident report, indicating the nature of the incident, the measures adopted to cope with the incident and the initiatives taken to prevent similar incidents; |\n| --- | --- |\n\n| (b) | its clients that have been affected by the security breach. |\n| --- | --- |\n\n5. In the case of ARMs, the notification referred to in paragraph 4(a) shall also be made to any other competent authorities to whom the ARM submits transaction reports.",
+      "text_sha256": "33a211270e334c01321f7e1a3941011ef3a9cdd8a3ee2b8997c6cf6b37281fcb",
+      "md_span": {
+        "start": 18882,
+        "end": 20722
+      },
+      "citations": [
+        {
+          "href": "#ntr6-L_2017087EN.01012601-E0006",
+          "text": "(6)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. APAs and CTPs shall set up and maintain appropriate arrangements to ensure that they accurately publish the trade reports received from investment firms and, in the case of CTPs, from trading venues and APAs, without themselves introducing any errors or omitting information and shall correct information where they have themselves caused the error or omission.\n\n2. APAs and CTPs shall continuously monitor in real-time the performance of their IT systems ensuring that the trade reports they have received have been successfully published.\n\n3. APAs and CTPs shall perform periodic reconciliations between the trade reports they receive and the trade reports that they publish, verifying the correct publication of the information.\n\n4. An APA shall confirm the receipt of a trade report to the reporting investment firm, including the transaction identification code assigned by the APA. An APA shall refer to the transaction identification code in any subsequent communication with the reporting firm in relation to a specific trade report.\n\n5. An APA shall set up and maintain appropriate arrangements to identify on receipt trade reports that are incomplete or contain information that is likely to be erroneous. These arrangements shall include automated price and volume alerts, taking into account:\n\n| (a) | the sector and the segment in which the financial instrument is traded; |\n| --- | --- |\n\n| (b) | liquidity levels, including historical trading levels; |\n| --- | --- |\n\n| (c) | appropriate price and volume benchmarks; |\n| --- | --- |\n\n| (d) | if needed, other parameters according to the characteristics of the financial instrument. |\n| --- | --- |\n\n6. Where an APA determines that a trade report it receives is incomplete or contains information that is likely to be erroneous, it shall not publish that trade report and shall promptly alert the investment firm submitting the trade report.\n\n7. In exceptional circumstances APAs and CTPs shall delete and amend information in a trade report upon request from the entity providing the information when that entity cannot delete or amend its own information for technical reasons.\n\n8. APAs shall publish non-discretionary policies on information cancellation and amendments in trade reports which set out the penalties that APAs may impose on investment firms providing trade reports where the incomplete or erroneous information has led to the cancellation or amendment of trade reports.",
+      "text_sha256": "683a6e3c355517ed46acce2365e840cc09cf2c587b1001e0f5a2fcf4d1955845",
+      "md_span": {
+        "start": 20757,
+        "end": 23223
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. An ARM shall set up and maintain appropriate arrangements to identify transaction reports that are incomplete or contain obvious errors caused by clients. An ARM shall perform validation of the transaction reports against the requirements established under Article 26 of Regulation (EU) No 600/2014 for field, format and content of fields in accordance with Table 1 of Annex I to Commission Delegated Regulation (EU) 2017/590 (7).\n\n2. An ARM shall set up and maintain appropriate arrangements to identify transaction reports which contain errors or omissions caused by that ARM itself and to correct, including deleting or amending, such errors or omissions. An ARM shall perform validation for field, format and content of fields in accordance with Table 1 of Annex I to Delegated Regulation (EU) 2017/590.\n\n3. An ARM shall continuously monitor in real-time the performance of its systems ensuring that a transaction report it has received has been successfully reported to the competent authority in accordance with Article 26 of Regulation (EU) No 600/2014.\n\n4. An ARM shall perform periodic reconciliations at the request of the competent authority of its home Member State or the competent authority to whom the ARM submits transaction reports between the information that the ARM receives from its client or generates on the client's behalf for transaction reporting purposes and data samples of the information provided by the competent authority.\n\n5. Any corrections, including cancellations or amendments of transaction reports, that are not correcting errors or omissions caused by an ARM, shall only be made at the request of a client and per transaction report. Where an ARM cancels or amends a transaction report at the request of a client, it shall provide this updated transaction report to the client.\n\n6. Where an ARM, before submitting the transaction report, identifies an error or omission caused by a client, it shall not submit that transaction report and shall promptly notify the investment firm of the details of the error or omission to enable the client to submit a corrected set of information.\n\n7. Where an ARM becomes aware of errors or omissions caused by the ARM itself, it shall promptly submit a correct and complete report.\n\n8. An ARM shall promptly notify the client of the details of the error or omission and provide an updated transaction report to the client. An ARM shall also promptly notify the competent authority of its home Member State and the competent authority to whom the ARM reported the transaction report about the error or omission.\n\n9. The requirement to correct or cancel erroneous transaction reports or report omitted transactions shall not extend to errors or omissions which occurred more than five years before the date that the ARM became aware of such errors or omissions.",
+      "text_sha256": "e2251e99d781830dfc2e6ae9f15448e866e1807063804fc74e8a949c550697ac",
+      "md_span": {
+        "start": 23258,
+        "end": 26109
+      },
+      "citations": [
+        {
+          "href": "#ntr7-L_2017087EN.01012601-E0007",
+          "text": "(7)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. An ARM shall have in place policies, arrangements and technical capabilities to comply with the technical specification for the submission of transaction reports required by the competent authority of its home Member State and by other competent authorities to whom the ARM sends transaction reports.\n\n2. An ARM shall have in place adequate policies, arrangements and technical capabilities to receive transaction reports from clients and to transmit information back to clients. The ARM shall provide the client with a copy of the transaction report which the ARM submitted to the competent authority on the client's behalf.",
+      "text_sha256": "2d2aa7f584af8ab0781679f1283fad6c32a004e8ce0c29fa20a09b1bffcd70c5",
+      "md_span": {
+        "start": 26144,
+        "end": 26784
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. A CTP may provide the following additional services:\n\n| (a) | provision of pre-trade transparency data; |\n| --- | --- |\n\n| (b) | provision of historical data; |\n| --- | --- |\n\n| (c) | provision of reference data; |\n| --- | --- |\n\n| (d) | provision of research; |\n| --- | --- |\n\n| (e) | processing, distribution and marketing of data and statistics on financial instruments, trading venues, and other market-related data; |\n| --- | --- |\n\n| (f) | design, management, maintenance and marketing of software, hardware and networks in relation to the transmission of data and information. |\n| --- | --- |\n\n2. A CTP may perform services other than those specified under paragraph 1 which increase the efficiency of the market, provided that such services do not create any risk affecting the quality of the consolidated tape or the independence of the CTP that cannot be adequately prevented or mitigated.",
+      "text_sha256": "a51112ee8b030e75ffad52e2f16f31b9ddb6ef16e8b85514be2ea8988ff9dc36",
+      "md_span": {
+        "start": 26819,
+        "end": 27733
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. APAs and CTPs shall publish the information which has to be made public in accordance with Articles 64(1) and 65(1) of Directive 2014/65/EU in a machine readable way.\n\n2. CTPs shall publish the information which has to be made in accordance with Article 65(2) of Directive 2014/65/EU in a machine readable way.\n\n3. Information shall only be considered published in a machine readable way where all of the following conditions are met:\n\n| (a) | it is in an electronic format designed to be directly and automatically read by a computer; |\n| --- | --- |\n\n| (b) | it is stored in an appropriate IT architecture in accordance with Article 8(7) that enables automatic access; |\n| --- | --- |\n\n| (c) | it is robust enough to ensure continuity and regularity in the performance of the services provided and ensures adequate access in terms of speed; |\n| --- | --- |\n\n| (d) | it can be accessed, read, used and copied by computer software that is free of charge and publicly available. |\n| --- | --- |\n\nFor the purposes of point (a) of the first subparagraph, the electronic format shall be specified by free, non-proprietary and open standards.\n\n4. For the purposes of paragraph 3(a), electronic format shall include the type of files or messages, the rules to identify them, and the name and data type of the fields they contain.\n\n5. APAs and CTPs shall:\n\n| (a) | make instructions available to the public, explaining how and where to easily access and use the data, including identification of the electronic format; |\n| --- | --- |\n\n| (b) | make public any changes to the instructions referred to in point (a) at least three months before they come into effect, unless there is an urgent and duly justified need for changes in instructions to take effect more quickly; |\n| --- | --- |\n\n| (c) | include a link to the instructions referred to in point (a) on the homepage of their website. |\n| --- | --- |",
+      "text_sha256": "41adadc5e168b909bbb3e0ef485180757e318b39cc2260e5ccfc858ecc0bc390",
+      "md_span": {
+        "start": 27768,
+        "end": 29682
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. A CTP shall include in its electronic data stream data made public pursuant to Articles 6 and 20 of Regulation (EU) No 600/2014 relating to all financial instruments referred to in those Articles.\n\n2. When a new APA or a new trading venue starts operating, a CTP shall include the data made public by that APA or trading venue in the electronic data stream of its consolidated tape as soon as possible, and in any case no later than six months after the start of the APA's or trading venue's operations.",
+      "text_sha256": "c99308079a80d942cc57b52361c2e36d63820ac73b47469aa95dbbd47f2936e2",
+      "md_span": {
+        "start": 29717,
+        "end": 30235
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Where an APA publishes a trade report which is a duplicate, it shall insert the code ‘DUPL’ in a reprint field to enable recipients of the data to differentiate between the original trade report and any duplicates of that report.\n\n2. For the purposes of paragraph 1, an APA shall require each investment firm to comply with one of the following conditions:\n\n| (a) | to certify that it only reports transactions in a particular financial instrument through that APA; |\n| --- | --- |\n\n| (b) | to use an identification mechanism which flags one report as the original one (‘ORGN’), and all other reports of the same transaction as duplicates (‘DUPL’). |\n| --- | --- |",
+      "text_sha256": "27deb51eca8d9501494b56b4ee80544e725c34731f6de2500893e6892002f432",
+      "md_span": {
+        "start": 30270,
+        "end": 30949
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nA CTP shall not consolidate trade reports with the code ‘DUPL’ in the reprint field.",
+      "text_sha256": "4af2694ccf01315fae701c2be16ec9b1c4e969330d328b50f878b85fbb46babf",
+      "md_span": {
+        "start": 30984,
+        "end": 31080
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. An APA shall make public:\n\n| (a) | for transactions executed in respect of shares, depositary receipts, exchange-traded funds (ETFs), certificates and other similar financial instruments, the details of a transaction specified in Table 2 of Annex I to Delegated Regulation (EU) 2017/587 and, use the appropriate flags listed in Table 3 of Annex I to Delegated Regulation (EU) 2017/587; |\n| --- | --- |\n\n| (b) | for transactions executed in respect of bonds, structured finance products, emission allowances and derivatives the details of a transaction specified in Table 1 of Annex II to Delegated Regulation (EU) 2017/583 and use the appropriate flags listed in Table 2 of Annex II to Delegated Regulation (EU) 2017/583. |\n| --- | --- |\n\n2. Where publishing information on when the transaction was reported, an APA shall include the date and time, up to the second, it publishes the transaction.\n\n3. By way of derogation from paragraph 2, an APA that publishes information regarding a transaction executed on an electronic system shall include the date and time, up to the millisecond, of the publication of that transaction in its trade report.\n\n4. For the purposes of paragraph 3, an ‘electronic system’ shall mean a system where orders are electronically tradable or where orders are tradable outside the system provided that they are advertised through the given system.\n\n5. Timestamps referred to in paragraphs 2 and 3 shall, respectively, not diverge by more than one second or millisecond from the Coordinated Universal Time (UTC) issued and maintained by one of the timing centres listed in the latest Bureau International des Poids et Mesures (BIPM) Annual Report on Time Activities.",
+      "text_sha256": "07bc208764f8ef5d3cae7a48c90afcc06c0e78601eff2d15d3f890602e7a52fb",
+      "md_span": {
+        "start": 31115,
+        "end": 32823
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\nAPA and CTPs shall ensure that the information which has to be made public is sent through all distribution channels at the same time, including when the information is made public as close to real time as technically possible or 15 minutes after the first publication.",
+      "text_sha256": "6a3611e35e18246afc47923767c0018fac33f59d1972a48c6e36ae9de5a828b1",
+      "md_span": {
+        "start": 32858,
+        "end": 33139
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\nA CTP shall make public:\n\n| (a) | for transactions executed in respect of shares, depositary receipts, ETFs, certificates and other similar financial instruments, the details of a transaction specified in Table 2 of Annex I to Delegated Regulation (EU) 2017/587 and use the appropriate flags listed in Table 3 of Annex I to Delegated Regulation (EU) 2017/587; |\n| --- | --- |\n\n| (b) | for transactions executed in respect of bonds, structured finance products, emission allowances and derivatives the details of a transaction specified in Table 1 of Annex II to Delegated Regulation (EU) 2017/583 and use the appropriate flags listed in Table 2 of Annex II to Delegated Regulation (EU) 2017/583. |\n| --- | --- |",
+      "text_sha256": "9f3ebe968e092859fd9c289447272239e9485cb111a63775640b3d17a069ffe4",
+      "md_span": {
+        "start": 33174,
+        "end": 33897
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32017r0571:2016-06-02#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from the date that appears first in the second subparagraph of Article 93(1) of Directive 2014/65/EU.\n\nHowever, Articles 14(2) and 20(b) shall apply from the first day of the ninth month following the date of application of Directive 2014/65/EU.",
+      "text_sha256": "71102625b839ef5704c0cd15eab504583808e99d83873c046418efa24df1ff62",
+      "md_span": {
+        "start": 33932,
+        "end": 34346
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

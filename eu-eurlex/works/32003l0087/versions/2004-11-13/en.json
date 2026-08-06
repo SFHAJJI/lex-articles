@@ -1,0 +1,957 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32003l0087:2004-11-13",
+  "language": "en",
+  "title": "Directive 2003/87/EC",
+  "valid_from": "2004-11-13",
+  "valid_to": "2009-02-01",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32003l0087/versions/2004-11-13/en.html",
+    "sha256": "128a33b48e88da081ed09aff79f1d7776f4398a041d21a96b6093f4d51310223",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003L0087-20041113"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Subject matter",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive establishes a scheme for greenhouse gas emission allowance trading within the Community (hereinafter referred to as the ‘Community scheme’) in order to promote reductions of greenhouse gas emissions in a cost-effective and economically efficient manner.",
+      "text_sha256": "008eb255212e3bd039f356e345867b955be8d4a21424ac416541f737ce34b7b4",
+      "md_span": {
+        "start": 601,
+        "end": 869
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Scope",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. This Directive shall apply to emissions from the activities listed in Annex I and greenhouse gases listed in Annex II.\n\n2. This Directive shall apply without prejudice to any requirements pursuant to Directive 96/61/EC.",
+      "text_sha256": "be2f971779638ca400aee76b8c0117eac650df1c3ecdbca50a18377f83e568c5",
+      "md_span": {
+        "start": 914,
+        "end": 1136
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Definitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the purposes of this Directive the following definitions shall apply:\n\n(a) ‘allowance’ means an allowance to emit one tonne of carbon dioxide equivalent during a specified period, which shall be valid only for the purposes of meeting the requirements of this Directive and shall be transferable in accordance with the provisions of this Directive;\n\n(b) ‘emissions’ means the release of greenhouse gases into the atmosphere from sources in an installation;\n\n(c) ‘greenhouse gases’ means the gases listed in Annex II;\n\n(d) ‘greenhouse gas emissions permit’ means the permit issued in accordance with Articles 5 and 6;\n\n(e) ‘installation’ means a stationary technical unit where one or more activities listed in Annex I are carried out and any other directly associated activities which have a technical connection with the activities carried out on that site and which could have an effect on emissions and pollution;\n\n(f) ‘operator’ means any person who operates or controls an installation or, where this is provided for in national legislation, to whom decisive economic power over the technical functioning of the installation has been delegated;\n\n(g) ‘person’ means any natural or legal person;\n\n(h) ‘new entrant’ means any installation carrying out one or more of the activities indicated in Annex I, which has obtained a greenhouse gas emissions permit or an update of its greenhouse gas emissions permit because of a change in the nature or functioning or an extension of the installation, subsequent to the notification to the Commission of the national allocation plan;\n\n(i) ‘the public’ means one or more persons and, in accordance with national legislation or practice, associations, organisations or groups of persons;\n\n(j) ‘tonne of carbon dioxide equivalent’ means one metric tonne of carbon dioxide (CO2) or an amount of any other greenhouse gas listed in Annex II with an equivalent global-warming potential;\n\n(k) ‘Annex I Party’ means a Party listed in Annex I to the United Nations Framework Convention on Climate Change (UNFCCC) that has ratified the Kyoto Protocol as specified in Article 1(7) of the Kyoto Protocol;\n\n(l) ‘project activity’ means a project activity approved by one or more Annex I Parties in accordance with Article 6 or Article 12 of the Kyoto Protocol and the decisions adopted pursuant to the UNFCCC or the Kyoto Protocol;\n\n(m) ‘emission reduction unit’ or ‘ERU’ means a unit issued pursuant to Article 6 of the Kyoto Protocol and the decisions adopted pursuant to the UNFCCC or the Kyoto Protocol;\n\n(n) ‘certified emission reduction’ or ‘CER’ means a unit issued pursuant to Article 12 of the Kyoto Protocol and the decisions adopted pursuant to the UNFCCC or the Kyoto Protocol.",
+      "text_sha256": "658810e4d74820fba48d3ed2cb08beeecc67923b47e0eb3e35b540f23fc7858b",
+      "md_span": {
+        "start": 1187,
+        "end": 3910
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0101",
+          "text": "32004L0101: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0087",
+          "text": "32003L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Greenhouse gas emissions permits",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Member States shall ensure that, from 1 January 2005, no installation undertakes any activity listed in Annex I resulting in emissions specified in relation to that activity unless its operator holds a permit issued by a competent authority in accordance with Articles 5 and 6, or the installation is temporarily excluded from the Community scheme pursuant to Article 27.",
+      "text_sha256": "4878154353adc5f660eaa4488cb5b86b14713c51303b5c88ebd8d5094200b8e7",
+      "md_span": {
+        "start": 3982,
+        "end": 4353
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Applications for greenhouse gas emissions permits",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "An application to the competent authority for a greenhouse gas emissions permit shall include a description of:\n\n(a) the installation and its activities including the technology used;\n\n(b) the raw and auxiliary materials, the use of which is likely to lead to emissions of gases listed in Annex I;\n\n(c) the sources of emissions of gases listed in Annex I from the installation; and\n\n(d) the measures planned to monitor and report emissions in accordance with the guidelines adopted pursuant to Article 14.\n\nThe application shall also include a non-technical summary of the details referred to in the first subparagraph.",
+      "text_sha256": "9eabce560b6f7214a091229afc211c1d135b8ca9561ed3cc25a1f94908e88d92",
+      "md_span": {
+        "start": 4442,
+        "end": 5061
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Conditions for and contents of the greenhouse gas emissions permit",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. The competent authority shall issue a greenhouse gas emissions permit granting authorisation to emit greenhouse gases from all or part of an installation if it is satisfied that the operator is capable of monitoring and reporting emissions.\n\nA greenhouse gas emissions permit may cover one or more installations on the same site operated by the same operator.\n\n2. Greenhouse gas emissions permits shall contain the following:\n\n(a) the name and address of the operator;\n\n(b) a description of the activities and emissions from the installation;\n\n(c) monitoring requirements, specifying monitoring methodology and frequency;\n\n(d) reporting requirements; and\n\n(e) an obligation to surrender allowances equal to the total emissions of the installation in each calendar year, as verified in accordance with Article 15, within four months following the end of that year.",
+      "text_sha256": "9cd74956729800c56940ddcbed088ef01198cc26e66baf72e9425f3d4fb2ea90",
+      "md_span": {
+        "start": 5167,
+        "end": 6033
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Changes relating to installations",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The operator shall inform the competent authority of any changes planned in the nature or functioning, or an extension, of the installation which may require updating of the greenhouse gas emissions permit. Where appropriate, the competent authority shall update the permit. Where there is a change in the identity of the installation's operator, the competent authority shall update the permit to include the name and address of the new operator.",
+      "text_sha256": "1a656f3f2b539db4c42c833d08360d1d649368f3229557bd6e616a5630a374e9",
+      "md_span": {
+        "start": 6106,
+        "end": 6553
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Coordination with Directive 96/61/EC",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Member States shall take the necessary measures to ensure that, where installations carry out activities that are included in Annex I to Directive 96/61/EC, the conditions of, and procedure for, the issue of a greenhouse gas emissions permit are coordinated with those for the permit provided for in that Directive. The requirements of Articles 5, 6 and 7 of this Directive may be integrated into the procedures provided for in Directive 96/61/EC.",
+      "text_sha256": "92abd8fb1666a0dd44e9f0051f6cccc9ef2db58a015b509cefe7aa834ca44c51",
+      "md_span": {
+        "start": 6629,
+        "end": 7076
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "National allocation plan",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. For each period referred to in Article 11(1) and (2), each Member State shall develop a national plan stating the total quantity of allowances that it intends to allocate for that period and how it proposes to allocate them. The plan shall be based on objective and transparent criteria, including those listed in Annex III, taking due account of comments from the public. The Commission shall, without prejudice to the Treaty, by 31 December 2003 at the latest develop guidance on the implementation of the criteria listed in Annex III.\n\nFor the period referred to in Article 11(1), the plan shall be published and notified to the Commission and to the other Member States by 31 March 2004 at the latest. For subsequent periods, the plan shall be published and notified to the Commission and to the other Member States at least 18 months before the beginning of the relevant period.\n\n2. National allocation plans shall be considered within the committee referred to in Article 23(1).\n\n3. Within three months of notification of a national allocation plan by a Member State under paragraph 1, the Commission may reject that plan, or any aspect thereof, on the basis that it is incompatible with the criteria listed in Annex III or with Article 10. The Member State shall only take a decision under Article 11(1) or (2) if proposed amendments are accepted by the Commission. Reasons shall be given for any rejection decision by the Commission.",
+      "text_sha256": "fd8d3f7152afb92533d928045a774ce10c7b26f89601cbeef216e242f60a9bf5",
+      "md_span": {
+        "start": 7140,
+        "end": 8584
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Method of allocation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the three-year period beginning 1 January 2005 Member States shall allocate at least 95 % of the allowances free of charge. For the five-year period beginning 1 January 2008, Member States shall allocate at least 90 % of the allowances free of charge.",
+      "text_sha256": "68b3d96b5149fc5e87897994ce512d23e83e182afb268fc91411cc24c397b61d",
+      "md_span": {
+        "start": 8646,
+        "end": 8901
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Allocation and issue of allowances",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. For the three-year period beginning 1 January 2005, each Member State shall decide upon the total quantity of allowances it will allocate for that period and the allocation of those allowances to the operator of each installation. This decision shall be taken at least three months before the beginning of the period and be based on its national allocation plan developed pursuant to Article 9 and in accordance with Article 10, taking due account of comments from the public.\n\n2. For the five-year period beginning 1 January 2008, and for each subsequent five-year period, each Member State shall decide upon the total quantity of allowances it will allocate for that period and initiate the process for the allocation of those allowances to the operator of each installation. This decision shall be taken at least 12 months before the beginning of the relevant period and be based on the Member State's national allocation plan developed pursuant to Article 9 and in accordance with Article 10, taking due account of comments from the public.\n\n3. Decisions taken pursuant to paragraph 1 or 2 shall be in accordance with the requirements of the Treaty, in particular Articles 87 and 88 thereof. When deciding upon allocation, Member States shall take into account the need to provide access to allowances for new entrants.\n\n4. The competent authority shall issue a proportion of the total quantity of allowances each year of the period referred to in paragraph 1 or 2, by 28 February of that year.",
+      "text_sha256": "a2b2705e0839b2cac3e576171831aa4fd3f131cc19edf83664a09e2b9bbb4280",
+      "md_span": {
+        "start": 8977,
+        "end": 10478
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0101",
+          "text": "32004L0101: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11a",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_11a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11a",
+      "heading": "Use of CERs and ERUs from project activities in the Community scheme",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Subject to paragraph 3, during each period referred to in Article 11(2), Member States may allow operators to use CERs and ERUs from project activities in the Community scheme up to a percentage of the allocation of allowances to each installation, to be specified by each Member State in its national allocation plan for that period. This shall take place through the issue and immediate surrender of one allowance by the Member State in exchange for one CER or ERU held by the operator in the national registry of its Member State.\n\n2. Subject to paragraph 3, during the period referred to in Article 11(1), Member States may allow operators to use CERs from project activities in the Community scheme. This shall take place through the issue and immediate surrender of one allowance by the Member State in exchange for one CER. Member States shall cancel CERs that have been used by operators during the period referred to in Article 11(1).\n\n3. All CERs and ERUs that are issued and may be used in accordance with the UNFCCC and the Kyoto Protocol and subsequent decisions adopted thereunder may be used in the Community scheme:\n\n(a) except that, in recognition of the fact that, in accordance with the UNFCCC and the Kyoto Protocol and subsequent decisions adopted thereunder, Member States are to refrain from using CERs and ERUs generated from nuclear facilities to meet their commitments pursuant to Article 3(1) of the Kyoto Protocol and in accordance with Decision 2002/358/EC, operators are to refrain from using CERs and ERUs generated from such facilities in the Community scheme during the period referred to in Article 11(1) and the first five-year period referred to in Article 11(2);\n\nand\n\n(b) except for CERs and ERUs from land use, land use change and forestry activities.",
+      "text_sha256": "c02e86829335063a6a2c689a0b12d268a3ade6d5fda6179699059b993f9f1bc3",
+      "md_span": {
+        "start": 10590,
+        "end": 12383
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11b",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_11b",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11b",
+      "heading": "Project activities",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall take all necessary measures to ensure that baselines for project activities, as defined by subsequent decisions adopted under the UNFCCC or the Kyoto Protocol, undertaken in countries having signed a Treaty of Accession with the Union fully comply with the *acquis communautaire*, including the temporary derogations set out in that Treaty of Accession.\n\n2. Except as provided for in paragraphs 3 and 4, Member States hosting project activities shall ensure that no ERUs or CERs are issued for reductions or limitations of greenhouse gas emissions from installations falling within the scope of this Directive.\n\n3. Until 31 December 2012, for JI and CDM project activities which reduce or limit directly the emissions of an installation falling within the scope of this Directive, ERUs and CERs may be issued only if an equal number of allowances is cancelled by the operator of that installation.\n\n4. Until 31 December 2012, for JI and CDM project activities which reduce or limit indirectly the emission level of installations falling within the scope of this Directive, ERUs and CERs may be issued only if an equal number of allowances is cancelled from the national registry of the Member State of the ERUs’ or CERs’ origin.\n\n5. A Member State that authorises private or public entities to participate in project activities shall remain responsible for the fulfilment of its obligations under the UNFCCC and the Kyoto Protocol and shall ensure that such participation is consistent with the relevant guidelines, modalities and procedures adopted pursuant to the UNFCCC or the Kyoto Protocol.\n\n6. In the case of hydroelectric power production project activities with a generating capacity exceeding 20 MW, Member States shall, when approving such project activities, ensure that relevant international criteria and guidelines, including those contained in the World Commission on Dams November 2000 Report ‘Dams and Development — A New Framework for Decision-Making’, will be respected during the development of such project activities.\n\n7. Provisions for the implementation of paragraphs 3 and 4, particularly in respect of the avoidance of double counting, and any provisions necessary for the implementation of paragraph 5 where the host party meets all eligibility requirements for JI project activities shall be adopted in accordance with Article 23(2).",
+      "text_sha256": "33b09d3a530273f45c82542a8e725d02144765a8360a12c2d6ed6346f2b98adb",
+      "md_span": {
+        "start": 12445,
+        "end": 14829
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0087",
+          "text": "32003L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Transfer, surrender and cancellation of allowances",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall ensure that allowances can be transferred between:\n\n(a) persons within the Community;\n\n(b) persons within the Community and persons in third countries, where such allowances are recognised in accordance with the procedure referred to in Article 25 without restrictions other than those contained in, or adopted pursuant to, this Directive.\n\n2. Member States shall ensure that allowances issued by a competent authority of another Member State are recognised for the purpose of meeting an operator's obligations under paragraph 3.\n\n3. Member States shall ensure that, by 30 April each year at the latest, the operator of each installation surrenders a number of allowances equal to the total emissions from that installation during the preceding calendar year as verified in accordance with Article 15, and that these are subsequently cancelled.\n\n4. Member States shall take the necessary steps to ensure that allowances will be cancelled at any time at the request of the person holding them.",
+      "text_sha256": "aec3f7a3d794477db5e4ac670f2ca8a2f7a0eafdeb268768456fef6fc5180501",
+      "md_span": {
+        "start": 14921,
+        "end": 15936
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Validity of allowances",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Allowances shall be valid for emissions during the period referred to in Article 11(1) or (2) for which they are issued.\n\n2. Four months after the beginning of the first five-year period referred to in Article 11(2), allowances which are no longer valid and have not been surrendered and cancelled in accordance with Article 12(3) shall be cancelled by the competent authority.\n\nMember States may issue allowances to persons for the current period to replace any allowances held by them which are cancelled in accordance with the first subparagraph.\n\n3. Four months after the beginning of each subsequent five-year period referred to in Article 11(2), allowances which are no longer valid and have not been surrendered and cancelled in accordance with Article 12(3) shall be cancelled by the competent authority.\n\nMember States shall issue allowances to persons for the current period to replace any allowances held by them which are cancelled in accordance with the first subparagraph.",
+      "text_sha256": "553d917d2bbe9e706751fa324b1907d18e8da45f7e2ea8e54b6a9896c340e940",
+      "md_span": {
+        "start": 16000,
+        "end": 16989
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Guidelines for monitoring and reporting of emissions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. The Commission shall adopt guidelines for monitoring and reporting of emissions resulting from the activities listed in Annex I of greenhouse gases specified in relation to those activities, in accordance with the procedure referred to in Article 23(2), by 30 September 2003. The guidelines shall be based on the principles for monitoring and reporting set out in Annex IV.\n\n2. Member States shall ensure that emissions are monitored in accordance with the guidelines.\n\n3. Member States shall ensure that each operator of an installation reports the emissions from that installation during each calendar year to the competent authority after the end of that year in accordance with the guidelines.",
+      "text_sha256": "99840a71eced75996f62d2f03b56a3a7d1e4f603254b5d073e3d38eda33609c1",
+      "md_span": {
+        "start": 17083,
+        "end": 17783
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Verification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Member States shall ensure that the reports submitted by operators pursuant to Article 14(3) are verified in accordance with the criteria set out in Annex V, and that the competent authority is informed thereof.\n\nMember States shall ensure that an operator whose report has not been verified as satisfactory in accordance with the criteria set out in Annex V by 31 March each year for emissions during the preceding year cannot make further transfers of allowances until a report from that operator has been verified as satisfactory.",
+      "text_sha256": "c7996b44ac4a3a15c9c9ff43704c507055683773f6dbb6eb7c6d29f118e685a6",
+      "md_span": {
+        "start": 17837,
+        "end": 18370
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Penalties",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall lay down the rules on penalties applicable to infringements of the national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that such rules are implemented. The penalties provided for must be effective, proportionate and dissuasive. Member States shall notify these provisions to the Commission by 31 December 2003 at the latest, and shall notify it without delay of any subsequent amendment affecting them.\n\n2. Member States shall ensure publication of the names of operators who are in breach of requirements to surrender sufficient allowances under Article 12(3).\n\n3. Member States shall ensure that any operator who does not surrender sufficient allowances by 30 April of each year to cover its emissions during the preceding year shall be held liable for the payment of an excess emissions penalty. The excess emissions penalty shall be EUR 100 for each tonne of carbon dioxide equivalent emitted by that installation for which the operator has not surrendered allowances. Payment of the excess emissions penalty shall not release the operator from the obligation to surrender an amount of allowances equal to those excess emissions when surrendering allowances in relation to the following calendar year.\n\n4. During the three-year period beginning 1 January 2005, Member States shall apply a lower excess emissions penalty of EUR 40 for each tonne of carbon dioxide equivalent emitted by that installation for which the operator has not surrendered allowances. Payment of the excess emissions penalty shall not release the operator from the obligation to surrender an amount of allowances equal to those excess emissions when surrendering allowances in relation to the following calendar year.",
+      "text_sha256": "b5370c4610f8036db26a897d61dc03691df5541d3911347d13c896fd219f13d3",
+      "md_span": {
+        "start": 18421,
+        "end": 20189
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0101",
+          "text": "32004L0101: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Access to information",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Decisions relating to the allocation of allowances, information on project activities in which a Member State participates or authorises private or public entities to participate, and the reports of emissions required under the greenhouse gas emissions permit and held by the competent authority, shall be made available to the public in accordance with Directive 2003/4/EC.",
+      "text_sha256": "00574d4844d252bd67b03dedc43766c295e498fae434c8ab12bd8fcb8544285a",
+      "md_span": {
+        "start": 20252,
+        "end": 20626
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0087",
+          "text": "32003L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Competent authority",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Member States shall make the appropriate administrative arrangements, including the designation of the appropriate competent authority or authorities, for the implementation of the rules of this Directive. Where more than one competent authority is designated, the work of these authorities undertaken pursuant to this Directive must be coordinated.\n\nMember States shall in particular ensure coordination between their designated focal point for approving project activities pursuant to Article 6 (1)(a) of the Kyoto Protocol and their designated national authority for the implementation of Article 12 of the Kyoto Protocol respectively designated in accordance with subsequent decisions adopted under the UNFCCC or the Kyoto Protocol.",
+      "text_sha256": "fd58c1f74fc9d93b0caf3c8345b5063868eb94174960bc1e01cd6d27c3e86ce7",
+      "md_span": {
+        "start": 20687,
+        "end": 21423
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0101",
+          "text": "32004L0101: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0087",
+          "text": "32003L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Registries",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall provide for the establishment and maintenance of a registry in order to ensure the accurate accounting of the issue, holding, transfer and cancellation of allowances. Member States may maintain their registries in a consolidated system, together with one or more other Member States.\n\n2. Any person may hold allowances. The registry shall be accessible to the public and shall contain separate accounts to record the allowances held by each person to whom and from whom allowances are issued or transferred.\n\n3. In order to implement this Directive, the Commission shall adopt a Regulation in accordance with the procedure referred to in Article 23(2) for a standardised and secured system of registries in the form of standardised electronic databases containing common data elements to track the issue, holding, transfer and cancellation of allowances, to provide for public access and confidentiality as appropriate and to ensure that there are no transfers incompatible with obligations resulting from the Kyoto Protocol.►M1 That Regulation shall also include provisions concerning the use and identification of CERs and ERUs in the Community scheme and the monitoring of the level of such use.** ◄ **",
+      "text_sha256": "bcbc2a02cdf05fd4989b4c54b1c2a693a5f0166c4388360636b2c3216a46b32c",
+      "md_span": {
+        "start": 21475,
+        "end": 22703
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0101",
+          "text": "►M1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Central Administrator",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. The Commission shall designate a Central Administrator to maintain an independent transaction log recording the issue, transfer and cancellation of allowances.\n\n2. The Central Administrator shall conduct an automated check on each transaction in registries through the independent transaction log to ensure there are no irregularities in the issue, transfer and cancellation of allowances.\n\n3. If irregularities are identified through the automated check, the Central Administrator shall inform the Member State or Member States concerned who shall not register the transactions in question or any further transactions relating to the allowances concerned until the irregularities have been resolved.",
+      "text_sha256": "de499b783356bcc4df5e56db9bf31f639506cb4b959820dfaee57fbd915b4e8f",
+      "md_span": {
+        "start": 22766,
+        "end": 23469
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Reporting by Member States",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Each year the Member States shall submit to the Commission a report on the application of this Directive.►M1 This report shall pay particular attention to the arrangements for the allocation of allowances, the use of ERUs and CERs in the Community scheme, the operation of registries, the application of the monitoring and reporting guidelines, verification and issues relating to compliance with the Directive and the fiscal treatment of allowances, if any.** ◄ ** The first report shall be sent to the Commission by 30 June 2005. The report shall be drawn up on the basis of a questionnaire or outline drafted by the Commission in accordance with the procedure laid down in Article 6 of Directive 91/692/EEC. The questionnaire or outline shall be sent to Member States at least six months before the deadline for the submission of the first report.\n\n2. On the basis of the reports referred to in paragraph 1, the Commission shall publish a report on the application of this Directive within three months of receiving the reports from the Member States.\n\n3. The Commission shall organise an exchange of information between the competent authorities of the Member States concerning developments relating to issues of allocation, the use of ERUs and CERs in the Community scheme, the operation of registries, monitoring, reporting, verification and compliance with this Directive.",
+      "text_sha256": "010963f386f52b1994b0a864ae914621e3a2d1c9ed06623b42332f0c51fc592c",
+      "md_span": {
+        "start": 23537,
+        "end": 24919
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0101",
+          "text": "►M1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0101",
+          "text": "32004L0101: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0101",
+          "text": "32004L0101: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21a",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_21a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21a",
+      "heading": "Support of capacity-building activities",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "In accordance with the UNFCCC, the Kyoto Protocol and any subsequent decision adopted for their implementation, the Commission and the Member States shall endeavour to support capacity-building activities in developing countries and countries with economies in transition in order to help them take full advantage of JI and the CDM in a manner that supports their sustainable development strategies and to facilitate the engagement of entities in JI and CDM project development and implementation.",
+      "text_sha256": "ffb0bdd9ea3cfe980a8b366f7819dfe5dc209fccb0b4d38cff16e85f855bb9d3",
+      "md_span": {
+        "start": 25002,
+        "end": 25499
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0087",
+          "text": "32003L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Amendments to Annex III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The Commission may amend Annex III, with the exception of criteria (1), (5) and (7), for the period from 2008 to 2012 in the light of the reports provided for in Article 21 and of the experience of the application of this Directive, in accordance with the procedure referred to in Article 23(2).",
+      "text_sha256": "846b7040b73652f6e4989761f8df78c62c0684e7d8f8e0ef9be622ce7f8205ee",
+      "md_span": {
+        "start": 25564,
+        "end": 25859
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Committee",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. The Commission shall be assisted by the committee instituted by Article 8 of Decision 93/389/EEC.\n\n2. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.\n\nThe period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.\n\n3. The Committee shall adopt its rules of procedure.",
+      "text_sha256": "f2597fecdf0498a1f0106f55f033ee168ff795e616f671c7c1663badc974b14a",
+      "md_span": {
+        "start": 25910,
+        "end": 26311
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Procedures for unilateral inclusion of additional activities and gases",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. From 2008, Member States may apply emission allowance trading in accordance with this Directive to activities, installations and greenhouse gases which are not listed in Annex I, provided that inclusion of such activities, installations and greenhouse gases is approved by the Commission in accordance with the procedure referred to in Article 23(2), taking into account all relevant criteria, in particular effects on the internal market, potential distortions of competition, the environmental integrity of the scheme and reliability of the planned monitoring and reporting system.\n\nFrom 2005 Member States may under the same conditions apply emissions allowance trading to installations carrying out activities listed in Annex I below the capacity limits referred to in that Annex.\n\n2. Allocations made to installations carrying out such activities shall be specified in the national allocation plan referred to in Article 9.\n\n3. The Commission may, on its own initiative, or shall, on request by a Member State, adopt monitoring and reporting guidelines for emissions from activities, installations and greenhouse gases which are not listed in Annex I in accordance with the procedure referred to in Article 23(2), if monitoring and reporting of these emissions can be carried out with sufficient accuracy.\n\n4. In the event that such measures are introduced, reviews carried out pursuant to Article 30 shall also consider whether Annex I should be amended to include emissions from these activities in a harmonised way throughout the Community.",
+      "text_sha256": "db58041cabde6ba73dd043ee5ca43995e59930d349d3b5271b70f0746b03d0d7",
+      "md_span": {
+        "start": 26423,
+        "end": 27974
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": "Links with other greenhouse gas emissions trading schemes",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Agreements should be concluded with third countries listed in Annex B to the Kyoto Protocol which have ratified the Protocol to provide for the mutual recognition of allowances between the Community scheme and other greenhouse gas emissions trading schemes in accordance with the rules set out in Article 300 of the Treaty.\n\n2. Where an agreement referred to in paragraph 1 has been concluded, the Commission shall draw up any necessary provisions relating to the mutual recognition of allowances under that agreement in accordance with the procedure referred to in Article 23(2).",
+      "text_sha256": "81acbd10599e633f37baa08105ff0b2c32f413d525893cc877a08d052e7d48f8",
+      "md_span": {
+        "start": 28073,
+        "end": 28656
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": "Amendment of Directive 96/61/EC",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "In Article 9(3) of Directive 96/61/EC the following subparagraphs shall be added:\n\n‘Where emissions of a greenhouse gas from an installation are specified in Annex I to Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC (13) in relation to an activity carried out in that installation, the permit shall not include an emission limit value for direct emissions of that gas unless it is necessary to ensure that no significant local pollution is caused.\n\nFor activities listed in Annex I to Directive 2003/87/EC, Member States may choose not to impose requirements relating to energy efficiency in respect of combustion units or other units emitting carbon dioxide on the site.\n\nWhere necessary, the competent authorities shall amend the permit as appropriate.\n\nThe three preceding subparagraphs shall not apply to installations temporarily excluded from the scheme for greenhouse gas emission allowance trading within the Community in accordance with Article 27 of Directive 2003/87/EC.",
+      "text_sha256": "f9fbbaab72dd14785a719200c18d8bbaf2337a6e80dc7819e24c3d4fe0cd39cf",
+      "md_span": {
+        "start": 28729,
+        "end": 29878
+      },
+      "citations": [
+        {
+          "href": "#E0013",
+          "text": "13"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27",
+      "heading": "Temporary exclusion of certain installations",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Member States may apply to the Commission for installations to be temporarily excluded until 31 December 2007 at the latest from the Community scheme. Any such application shall list each such installation and shall be published.\n\n2. If, having considered any comments made by the public on that application, the Commission decides, in accordance with the procedure referred to in Article 23(2), that the installations will:\n\n(a) as a result of national policies, limit their emissions as much as would be the case if they were subject to the provisions of this Directive;\n\n(b) be subject to monitoring, reporting and verification requirements which are equivalent to those provided for pursuant to Articles 14 and 15; and\n\n(c) be subject to penalties at least equivalent to those referred to in Article 16(1) and (4) in the case of non-fulfilment of national requirements;\n\nit shall provide for the temporary exclusion of those installations from the Community scheme.\n\nIt must be ensured that there will be no distortion of the internal market.",
+      "text_sha256": "9943ea70bdb41ba8904da8491ca4f8d893b583fe55bfeaa7bbeb0d58ad714147",
+      "md_span": {
+        "start": 29964,
+        "end": 31013
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Article 28",
+      "heading": "Pooling",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Member States may allow operators of installations carrying out one of the activities listed in Annex I to form a pool of installations from the same activity for the period referred to in Article 11(1) and/or the first five-year period referred to in Article 11(2) in accordance with paragraphs 2 to 6 of this Article.\n\n2. Operators carrying out an activity listed in Annex I who wish to form a pool shall apply to the competent authority, specifying the installations and the period for which they want the pool and supplying evidence that a trustee will be able to fulfil the obligations referred to in paragraphs 3 and 4.\n\n3. Operators wishing to form a pool shall nominate a trustee:\n\n(a) to be issued with the total quantity of allowances calculated by installation of the operators, by way of derogation from Article 11;\n\n(b) to be responsible for surrendering allowances equal to the total emissions from installations in the pool, by way of derogation from Articles 6(2)(e) and 12(3); and\n\n(c) to be restricted from making further transfers in the event that an operator's report has not been verified as satisfactory in accordance with the second paragraph of Article 15.\n\n4. The trustee shall be subject to the penalties applicable for breaches of requirements to surrender sufficient allowances to cover the total emissions from installations in the pool, by way of derogation from Article 16(2), (3) and (4).\n\n5. A Member State that wishes to allow one or more pools to be formed shall submit the application referred to in paragraph 2 to the Commission. Without prejudice to the Treaty, the Commission may within three months of receipt reject an application that does not fulfil the requirements of this Directive. Reasons shall be given for any such decision. In the case of rejection the Member State may only allow the pool to be formed if proposed amendments are accepted by the Commission.\n\n6. In the event that the trustee fails to comply with penalties referred to in paragraph 4, each operator of an installation in the pool shall be responsible under Articles 12(3) and 16 in respect of emissions from its own installation.",
+      "text_sha256": "810142d528d2db379ed07e0c57e66abfd78204537110cefb27e5a40dfa821a55",
+      "md_span": {
+        "start": 31062,
+        "end": 33212
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Article 29",
+      "heading": "*Force majeure*",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. During the period referred to in Article 11(1), Member States may apply to the Commission for certain installations to be issued with additional allowances in cases of *force majeure*. The Commission shall determine whether *force majeure* is demonstrated, in which case it shall authorise the issue of additional and non-transferable allowances by that Member State to the operators of those installations.\n\n2. The Commission shall, without prejudice to the Treaty, develop guidance to describe the circumstances under which *force majeure* is demonstrated, by 31 December 2003 at the latest.",
+      "text_sha256": "aed06d949e75b44861385d1884666fef4219fe9af5413289a95be755350cfc5b",
+      "md_span": {
+        "start": 33269,
+        "end": 33865
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Article 30",
+      "heading": "Review and further development",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. On the basis of progress achieved in the monitoring of emissions of greenhouse gases, the Commission may make a proposal to the European Parliament and the Council by 31 December 2004 to amend Annex I to include other activities and emissions of other greenhouse gases listed in Annex II.\n\n2. On the basis of experience of the application of this Directive and of progress achieved in the monitoring of emissions of greenhouse gases and in the light of developments in the international context, the Commission shall draw up a report on the application of this Directive, considering:\n\n(a) how and whether Annex I should be amended to include other relevant sectors, *inter alia* the chemicals, aluminium and transport sectors, activities and emissions of other greenhouse gases listed in Annex II, with a view to further improving the economic efficiency of the scheme;\n\n(b) the relationship of Community emission allowance trading with the international emissions trading that will start in 2008;\n\n(c) further harmonisation of the method of allocation (including auctioning for the time after 2012) and of the criteria for national allocation plans referred to in Annex III;\n\n(d) the use of credits from project activities, including the need for harmonisation of the allowed use of ERUs and CERs in the Community scheme;\n\n(e) the relationship of emissions trading with other policies and measures implemented at Member State and Community level, including taxation, that pursue the same objectives;\n\n(f) whether it is appropriate for there to be a single Community registry;\n\n(g) the level of excess emissions penalties, taking into account, *inter alia*, inflation;\n\n(h) the functioning of the allowance market, covering in particular any possible market disturbances;\n\n(i) how to adapt the Community scheme to an enlarged European Union;\n\n(j) pooling;\n\n(k) the practicality of developing Community-wide benchmarks as a basis for allocation, taking into account the best available techniques and cost-benefit analysis;\n\n(l) the impact of project mechanisms on host countries, particularly on their development objectives, whether JI and CDM hydroelectric power production project activities with a generating capacity exceeding 500 MW and having negative environmental or social impacts have been approved, and the future use of CERs or ERUs resulting from any such hydroelectric power production project activities in the Community scheme;\n\n(m) the support for capacity-building efforts in developing countries and countries with economies in transition;\n\n(n) the modalities and procedures for Member States' approval of domestic project activities and for the issuing of allowances in respect of emission reductions or limitations resulting from such activities from 2008;\n\n(o) technical provisions relating to the temporary nature of credits and the limit of 1 % for eligibility for land use, land-use change and forestry project activities as established in Decision 17/CP.7, and provisions relating to the outcome of the evaluation of potential risks associated with the use of genetically modified organisms and potentially invasive alien species by afforestation and reforestation project activities, to allow operators to use CERs and ERUs resulting from land use, land-use change and forestry project activities in the Community scheme from 2008, in accordance with the decisions adopted pursuant to the UNFCCC or the Kyoto Protocol.\n\nThe Commission shall submit this report to the European Parliament and the Council by 30 June 2006, accompanied by proposals as appropriate.\n\n3. In advance of each period referred to in Article 11(2), each Member State shall publish in its national allocation plan its intended use of ERUs and CERs and the percentage of the allocation to each installation up to which operators are allowed to use ERUs and CERs in the Community scheme for that period. The total use of ERUs and CERs shall be consistent with the relevant supplementarity obligations under the Kyoto Protocol and the UNFCCC and the decisions adopted thereunder.\n\nMember States shall, in accordance with Article 3 of Decision No 280/2004/EC of the European Parliament and of the Council of 11 February 2004 concerning a mechanism for monitoring Community greenhouse gas emissions and for implementing the Kyoto Protocol (14), report to the Commission every two years on the extent to which domestic action actually constitutes a significant element of the efforts undertaken at national level, as well as the extent to which use of the project mechanisms is actually supplemental to domestic action, and the ratio between them, in accordance with the relevant provisions of the Kyoto Protocol and the decisions adopted thereunder. The Commission shall report on this in accordance with Article 5 of the said Decision. In the light of this report, the Commission shall, if appropriate, make legislative or other proposals to complement provisions adopted by Member States to ensure that use of the mechanisms is supplemental to domestic action within the Community.",
+      "text_sha256": "e3b3748b739849c6bef64a0c8e51f11978e5c7fbd8dcbfc4090b30299d4778d0",
+      "md_span": {
+        "start": 33937,
+        "end": 39017
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0101",
+          "text": "32004L0101: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0087",
+          "text": "32003L0087"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0101",
+          "text": "32004L0101: INSERTED"
+        },
+        {
+          "href": "#E0014",
+          "text": "14"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Article 31",
+      "heading": "Implementation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 31 December 2003 at the latest. They shall forthwith inform the Commission thereof. The Commission shall notify the other Member States of these laws, regulations and administrative provisions.\n\nWhen Member States adopt these measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.\n\n2. Member States shall communicate to the Commission the text of the provisions of national law which they adopt in the field covered by this Directive. The Commission shall inform the other Member States thereof.",
+      "text_sha256": "60c05fd70a874b455fb0b6eccdda6f848701b048027aaee6fe1ddabf6f06cd4f",
+      "md_span": {
+        "start": 39073,
+        "end": 39866
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Article 32",
+      "heading": "Entry into force",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive shall enter into force on the day of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "0b17742c8af6a5d6b12ff7f39bb3aa24e41f1465083f102857a2178a48888b93",
+      "md_span": {
+        "start": 39924,
+        "end": 40040
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Article 33",
+      "heading": "Addressees",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive is addressed to the Member States.",
+      "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+      "md_span": {
+        "start": 40092,
+        "end": 40141
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_i",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#anx_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 40176,
+        "end": 40176
+      },
+      "citations": []
+    },
+    {
+      "anchor": "categories_of_activities_referred_to_in_articles_2_1_3_4_14_1_28_and_30",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#categories_of_activities_referred_to_in_articles_2_1_3_4_14_1_28_and_30",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "CATEGORIES OF ACTIVITIES REFERRED TO IN ARTICLES 2(1), 3, 4, 14(1), 28 AND 30",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Installations or parts of installations used for research, development and testing of new products and processes are not covered by this Directive.\n\n2. The threshold values given below generally refer to production capacities or outputs. Where one operator carries out several activities falling under the same subheading in the same installation or on the same site, the capacities of such activities are added together.\n\n| Activities | Greenhouse gases |\n| --- | --- |\n| Energy activities |  |\n| Combustion installations with a rated thermal input exceeding 20 MW (except hazardous or municipal waste installations) | Carbon dioxide |\n| Mineral oil refineries | Carbon dioxide |\n| Coke ovens | Carbon dioxide |\n| Production and processing of ferrous metals |  |\n| Metal ore (including sulphide ore) roasting or sintering installations | Carbon dioxide |\n| Installations for the production of pig iron or steel (primary or secondary fusion) including continuous casting, with a capacity exceeding 2,5 tonnes per hour | Carbon dioxide |\n| Mineral industry |  |\n| Installations for the production of cement clinker in rotary kilns with a production capacity exceeding 500 tonnes per day or lime in rotary kilns with a production capacity exceeding 50 tonnes per day or in other furnaces with a production capacity exceeding 50 tonnes per day | Carbon dioxide |\n| Installations for the manufacture of glass including glass fibre with a melting capacity exceeding 20 tonnes per day | Carbon dioxide |\n| Installations for the manufacture of ceramic products by firing, in particular roofing tiles, bricks, refractory bricks, tiles, stoneware or porcelain, with a production capacity exceeding 75 tonnes per day, and/or with a kiln capacity exceeding 4 m3 and with a setting density per kiln exceeding 300 kg/m3 | Carbon dioxide |\n| Other activities |  |\n| Industrial plants for the production of(a) pulp from timber or other fibrous materials | Carbon dioxide |\n| (b) paper and board with a production capacity exceeding 20 tonnes per day | Carbon dioxide |",
+      "text_sha256": "1586de3906abfed0f9839f0e22ac8bce85d9d94b4b912f09aac5f12c32a80d98",
+      "md_span": {
+        "start": 40347,
+        "end": 42403
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_ii",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#anx_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 42440,
+        "end": 42440
+      },
+      "citations": []
+    },
+    {
+      "anchor": "greenhouse_gases_referred_to_in_articles_3_and_30",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#greenhouse_gases_referred_to_in_articles_3_and_30",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "GREENHOUSE GASES REFERRED TO IN ARTICLES 3 AND 30",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Carbon dioxide (CO2)\n\nMethane (CH4)\n\nNitrous Oxide (N2O)\n\nHydrofluorocarbons (HFCs)\n\nPerfluorocarbons (PFCs)\n\nSulphur Hexafluoride (SF6)",
+      "text_sha256": "099e3548ac2de4e4761d0b0ec32889682ba97005fe6550b1fe9ae59f5c4bf734",
+      "md_span": {
+        "start": 42561,
+        "end": 42697
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_iii",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#anx_iii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 42736,
+        "end": 42736
+      },
+      "citations": []
+    },
+    {
+      "anchor": "criteria_for_national_allocation_plans_referred_to_in_articles_9_22_and_30",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#criteria_for_national_allocation_plans_referred_to_in_articles_9_22_and_30",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "CRITERIA FOR NATIONAL ALLOCATION PLANS REFERRED TO IN ARTICLES 9, 22 AND 30",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. The total quantity of allowances to be allocated for the relevant period shall be consistent with the Member State's obligation to limit its emissions pursuant to Decision 2002/358/EC and the Kyoto Protocol, taking into account, on the one hand, the proportion of overall emissions that these allowances represent in comparison with emissions from sources not covered by this Directive and, on the other hand, national energy policies, and should be consistent with the national climate change programme. The total quantity of allowances to be allocated shall not be more than is likely to be needed for the strict application of the criteria of this Annex. Prior to 2008, the quantity shall be consistent with a path towards achieving or over-achieving each Member State's target under Decision 2002/358/EC and the Kyoto Protocol.\n\n2. The total quantity of allowances to be allocated shall be consistent with assessments of actual and projected progress towards fulfilling the Member States' contributions to the Community's commitments made pursuant to Decision 93/389/EEC.\n\n3. Quantities of allowances to be allocated shall be consistent with the potential, including the technological potential, of activities covered by this scheme to reduce emissions. Member States may base their distribution of allowances on average emissions of greenhouse gases by product in each activity and achievable progress in each activity.\n\n4. The plan shall be consistent with other Community legislative and policy instruments. Account should be taken of unavoidable increases in emissions resulting from new legislative requirements.\n\n5. The plan shall not discriminate between companies or sectors in such a way as to unduly favour certain undertakings or activities in accordance with the requirements of the Treaty, in particular Articles 87 and 88 thereof.\n\n6. The plan shall contain information on the manner in which new entrants will be able to begin participating in the Community scheme in the Member State concerned.\n\n7. The plan may accommodate early action and shall contain information on the manner in which early action is taken into account. Benchmarks derived from reference documents concerning the best available technologies may be employed by Member States in developing their National Allocation Plans, and these benchmarks can incorporate an element of accommodating early action.\n\n8. The plan shall contain information on the manner in which clean technology, including energy efficient technologies, are taken into account.\n\n9. The plan shall include provisions for comments to be expressed by the public, and contain information on the arrangements by which due account will be taken of these comments before a decision on the allocation of allowances is taken.\n\n10. The plan shall contain a list of the installations covered by this Directive with the quantities of allowances intended to be allocated to each.\n\n11. The plan may contain information on the manner in which the existence of competition from countries or entities outside the Union will be taken into account.\n\n12. The plan shall specify the maximum amount of CERs and ERUs which may be used by operators in the Community scheme as a percentage of the allocation of the allowances to each installation. The percentage shall be consistent with the Member State’s supplementarity obligations under the Kyoto Protocol and decisions adopted pursuant to the UNFCCC or the Kyoto Protocol.",
+      "text_sha256": "ad8ec737be699f52dc17849a8056b4fea3379f585d9c7b0ddef78c2968da67ab",
+      "md_span": {
+        "start": 42908,
+        "end": 46372
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0101",
+          "text": "32004L0101: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0087",
+          "text": "32003L0087"
+        }
+      ]
+    },
+    {
+      "anchor": "anx_iv",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#anx_iv",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX IV",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 46409,
+        "end": 46409
+      },
+      "citations": []
+    },
+    {
+      "anchor": "principles_for_monitoring_and_reporting_referred_to_in_article_14_1",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#principles_for_monitoring_and_reporting_referred_to_in_article_14_1",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "PRINCIPLES FOR MONITORING AND REPORTING REFERRED TO IN ARTICLE 14(1)",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Monitoring of carbon dioxide emissions\n\nEmissions shall be monitored either by calculation or on the basis of measurement.\n\nCalculation\n\nCalculations of emissions shall be performed using the formula:\n\nActivity data × Emission factor × Oxidation factor\n\nActivity data (fuel used, production rate etc.) shall be monitored on the basis of supply data or measurement.\n\nAccepted emission factors shall be used. Activity-specific emission factors are acceptable for all fuels. Default factors are acceptable for all fuels except non-commercial ones (waste fuels such as tyres and industrial process gases). Seam-specific defaults for coal, and EU-specific or producer country-specific defaults for natural gas shall be further elaborated. IPCC default values are acceptable for refinery products. The emission factor for biomass shall be zero.\n\nIf the emission factor does not take account of the fact that some of the carbon is not oxidised, then an additional oxidation factor shall be used. If activity-specific emission factors have been calculated and already take oxidation into account, then an oxidation factor need not be applied.\n\nDefault oxidation factors developed pursuant to Directive 96/61/EC shall be used, unless the operator can demonstrate that activity-specific factors are more accurate.\n\nA separate calculation shall be made for each activity, installation and for each fuel.\n\nMeasurement\n\nMeasurement of emissions shall use standardised or accepted methods, and shall be corroborated by a supporting calculation of emissions.\n\nMonitoring of emissions of other greenhouse gases\n\nStandardised or accepted methods shall be used, developed by the Commission in collaboration with all relevant stakeholders and adopted in accordance with the procedure referred to in Article 23(2).\n\nReporting of emissions\n\nEach operator shall include the following information in the report for an installation:\n\nA. Data identifying the installation, including:\n\n— Name of the installation;\n\n— Its address, including postcode and country;\n\n— Type and number of Annex I activities carried out in the installation;\n\n— Address, telephone, fax and email details for a contact person; and\n\n— Name of the owner of the installation, and of any parent company.\n\nB. For each Annex I activity carried out on the site for which emissions are calculated:\n\n— Activity data;\n\n— Emission factors;\n\n— Oxidation factors;\n\n— Total emissions; and\n\n— Uncertainty.\n\nC. For each Annex I activity carried out on the site for which emissions are measured:\n\n— Total emissions;\n\n— Information on the reliability of measurement methods; and\n\n— Uncertainty.\n\nD. For emissions from combustion, the report shall also include the oxidation factor, unless oxidation has already been taken into account in the development of an activity-specific emission factor.\n\nMember States shall take measures to coordinate reporting requirements with any existing reporting requirements in order to minimise the reporting burden on businesses.",
+      "text_sha256": "1599cee56b00fb7f361aae59c0388d60019683238c5391fb2832e44c46324c48",
+      "md_span": {
+        "start": 46567,
+        "end": 49563
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_v",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#anx_v",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX V",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 49598,
+        "end": 49598
+      },
+      "citations": []
+    },
+    {
+      "anchor": "criteria_for_verification_referred_to_in_article_15",
+      "provision_id": "eu-eurlex:32003l0087:2004-11-13#criteria_for_verification_referred_to_in_article_15",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "CRITERIA FOR VERIFICATION REFERRED TO IN ARTICLE 15",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "General Principles\n\n1. Emissions from each activity listed in Annex I shall be subject to verification.\n\n2. The verification process shall include consideration of the report pursuant to Article 14(3) and of monitoring during the preceding year. It shall address the reliability, credibility and accuracy of monitoring systems and the reported data and information relating to emissions, in particular:\n\n(a) the reported activity data and related measurements and calculations;\n\n(b) the choice and the employment of emission factors;\n\n(c) the calculations leading to the determination of the overall emissions; and\n\n(d) if measurement is used, the appropriateness of the choice and the employment of measuring methods.\n\n3. Reported emissions may only be validated if reliable and credible data and information allow the emissions to be determined with a high degree of certainty. A high degree of certainty requires the operator to show that:\n\n(a) the reported data is free of inconsistencies;\n\n(b) the collection of the data has been carried out in accordance with the applicable scientific standards; and\n\n(c) the relevant records of the installation are complete and consistent.\n\n4. The verifier shall be given access to all sites and information in relation to the subject of the verification.\n\n5. The verifier shall take into account whether the installation is registered under the Community eco-management and audit scheme (EMAS).\n\nMethodology\n\nStrategic analysis\n\n6. The verification shall be based on a strategic analysis of all the activities carried out in the installation. This requires the verifier to have an overview of all the activities and their significance for emissions.\n\nProcess analysis\n\n7. The verification of the information submitted shall, where appropriate, be carried out on the site of the installation. The verifier shall use spot-checks to determine the reliability of the reported data and information.\n\nRisk analysis\n\n8. The verifier shall submit all the sources of emissions in the installation to an evaluation with regard to the reliability of the data of each source contributing to the overall emissions of the installation.\n\n9. On the basis of this analysis the verifier shall explicitly identify those sources with a high risk of error and other aspects of the monitoring and reporting procedure which are likely to contribute to errors in the determination of the overall emissions. This especially involves the choice of the emission factors and the calculations necessary to determine the level of the emissions from individual sources. Particular attention shall be given to those sources with a high risk of error and the abovementioned aspects of the monitoring procedure.\n\n10. The verifier shall take into consideration any effective risk control methods applied by the operator with a view to minimising the degree of uncertainty.\n\nReport\n\n11. The verifier shall prepare a report on the validation process stating whether the report pursuant to Article 14(3) is satisfactory. This report shall specify all issues relevant to the work carried out. A statement that the report pursuant to Article 14(3) is satisfactory may be made if, in the opinion of the verifier, the total emissions are not materially misstated.\n\nMinimum competency requirements for the verifier\n\n12. The verifier shall be independent of the operator, carry out his activities in a sound and objective professional manner, and understand:\n\n(a) the provisions of this Directive, as well as relevant standards and guidance adopted by the Commission pursuant to Article 14(1);\n\n(b) the legislative, regulatory, and administrative requirements relevant to the activities being verified; and\n\n(c) the generation of all information related to each source of emissions in the installation, in particular, relating to the collection, measurement, calculation and reporting of data.\n\n(1) OJ C 75 E, 26.3.2002, p. 33.\n\n(2) OJ C 221, 17.9.2002, p. 27.\n\n(3) OJ C 192, 12.8.2002, p. 59.\n\n(4) Opinion of the European Parliament of 10 October 2002 (not yet published in the Official Journal), Council Common Position of 18 March 2003 (OJ C 125 E, 27.5.2003, p. 72), Decision of the European Parliament of 2 July 2003 (not yet published in the Official Journal) and Council Decision of 22 July 2003.\n\n(5) OJ L 242, 10.9.2002, p. 1.\n\n(6) OJ L 33, 7.2.1994, p. 11.\n\n(7) OJ L 130, 15.5.2002, p. 1.\n\n(8) OJ L 167, 9.7.1993, p. 31. Decision as amended by Decision 1999/296/EC (OJ L 117, 5.5.1999, p. 35).\n\n(9) OJ L 41, 14.2.2003, p. 26.\n\n(10) OJ L 377, 31.12.1991, p. 48.\n\n(11) OJ L 257, 10.10.1996, p. 26.\n\n(12) OJ L 184, 17.7.1999, p. 23.\n\n(13) OJ L 275, 25.10.2003, p. 32.’\n\n(14) OJ L 49, 19.2.2004, p. 1.",
+      "text_sha256": "37f8f4c200eac758debab2c1ddf2516213a65ae9c9f350d5521fc39b6ed119c6",
+      "md_span": {
+        "start": 49723,
+        "end": 54429
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        },
+        {
+          "href": "#src.E0008",
+          "text": "8"
+        },
+        {
+          "href": "#src.E0009",
+          "text": "9"
+        },
+        {
+          "href": "#src.E0010",
+          "text": "10"
+        },
+        {
+          "href": "#src.E0011",
+          "text": "11"
+        },
+        {
+          "href": "#src.E0012",
+          "text": "12"
+        },
+        {
+          "href": "#src.E0013",
+          "text": "13"
+        },
+        {
+          "href": "#src.E0014",
+          "text": "14"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "lex_work_id": "eu-eurlex:32014l0107",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "xhtml-eu/1"
+  ],
+  "primary_language": "fr",
+  "anchors": {
+    "annexe": [
+      {
+        "valid_from": "2014-12-16",
+        "valid_to": null,
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "eu-eurlex:32014l0107:2014-12-16"
+      }
+    ],
+    "annexe_i": [
+      {
+        "valid_from": "2014-12-16",
+        "valid_to": null,
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "eu-eurlex:32014l0107:2014-12-16"
+      }
+    ],
+    "annexe_ii": [
+      {
+        "valid_from": "2014-12-16",
+        "valid_to": null,
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "eu-eurlex:32014l0107:2014-12-16"
+      }
+    ],
+    "art_1": [
+      {
+        "valid_from": "2014-12-09",
+        "valid_to": "2014-12-15",
+        "text_sha256": "e8b831f5273818724f74dea65d1d0b6bb05f3ac1fee0875c1fd7c8185bcea75e",
+        "in_version": "eu-eurlex:32014l0107:2014-12-09"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2014-12-09",
+        "valid_to": "2014-12-15",
+        "text_sha256": "a711d0770cba86068016ebdcd09d441b8f1d3562d7344293d24e02b5a9a02314",
+        "in_version": "eu-eurlex:32014l0107:2014-12-09"
+      },
+      {
+        "valid_from": "2014-12-16",
+        "valid_to": null,
+        "text_sha256": "20d26fc03ff9d6f21956e08f621609b8351560ab0e0cc3d14c7f60acbc65e9b7",
+        "in_version": "eu-eurlex:32014l0107:2014-12-16"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2014-12-09",
+        "valid_to": "2014-12-15",
+        "text_sha256": "7accfa9a5f3e32e2444468019af47d8c0d333fe299ae34f6bbd9ac1ef2ba5ff4",
+        "in_version": "eu-eurlex:32014l0107:2014-12-09"
+      },
+      {
+        "valid_from": "2014-12-16",
+        "valid_to": null,
+        "text_sha256": "1c2af73dbfcc7ea246028ca391a47177896e40ae1c897bfe0c7122790b3b709e",
+        "in_version": "eu-eurlex:32014l0107:2014-12-16"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2014-12-09",
+        "valid_to": "2014-12-15",
+        "text_sha256": "0fc712c9ed5879dbad5bea3e7474f713eea34cda4ea895cc231207fc9b7290bb",
+        "in_version": "eu-eurlex:32014l0107:2014-12-09"
+      },
+      {
+        "valid_from": "2014-12-16",
+        "valid_to": null,
+        "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+        "in_version": "eu-eurlex:32014l0107:2014-12-16"
+      }
+    ],
+    "art_premier": [
+      {
+        "valid_from": "2014-12-16",
+        "valid_to": null,
+        "text_sha256": "82669aabc8f3b75e01ec62c9e4559f002f0a9e0cec318b69cbf4214eccf91ae7",
+        "in_version": "eu-eurlex:32014l0107:2014-12-16"
+      }
+    ],
+    "regles_complementaires_en_matiere_de_declaration_et_de_diligence_raisonnable_concernant_les_informations_relatives_aux_comptes_financiers": [
+      {
+        "valid_from": "2014-12-16",
+        "valid_to": null,
+        "text_sha256": "95b52da7a3fbb26fa05f9f31279799d999657e9863f2874e51c1fea03880bf44",
+        "in_version": "eu-eurlex:32014l0107:2014-12-16"
+      }
+    ],
+    "regles_en_matiere_de_declaration_et_de_diligence_raisonnable_concernant_les_informations_relatives_aux_comptes_financiers": [
+      {
+        "valid_from": "2014-12-16",
+        "valid_to": null,
+        "text_sha256": "7fd46943008f7dd89469fb26a07a93df47353622be6e99d40b31a03ad68c1bfd",
+        "in_version": "eu-eurlex:32014l0107:2014-12-16"
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "removed",
+      "anchor": "art_1",
+      "at_version": "eu-eurlex:32014l0107:2014-12-16"
+    },
+    {
+      "type": "inserted",
+      "anchor": "annexe",
+      "at_version": "eu-eurlex:32014l0107:2014-12-16"
+    },
+    {
+      "type": "inserted",
+      "anchor": "annexe_i",
+      "at_version": "eu-eurlex:32014l0107:2014-12-16"
+    },
+    {
+      "type": "inserted",
+      "anchor": "annexe_ii",
+      "at_version": "eu-eurlex:32014l0107:2014-12-16"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_premier",
+      "at_version": "eu-eurlex:32014l0107:2014-12-16"
+    },
+    {
+      "type": "inserted",
+      "anchor": "regles_complementaires_en_matiere_de_declaration_et_de_diligence_raisonnable_concernant_les_informations_relatives_aux_comptes_financiers",
+      "at_version": "eu-eurlex:32014l0107:2014-12-16"
+    },
+    {
+      "type": "inserted",
+      "anchor": "regles_en_matiere_de_declaration_et_de_diligence_raisonnable_concernant_les_informations_relatives_aux_comptes_financiers",
+      "at_version": "eu-eurlex:32014l0107:2014-12-16"
+    }
+  ],
+  "anchors_by_language": {
+    "en": {
+      "art_1": [
+        {
+          "valid_from": "2014-12-09",
+          "valid_to": "2014-12-15",
+          "text_sha256": "c6faaf7a927e048de841377dce3f4b11aaf4490d2eebbaa4edd7aa0e328d3153",
+          "in_version": "eu-eurlex:32014l0107:2014-12-09"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2014-12-09",
+          "valid_to": "2014-12-15",
+          "text_sha256": "a161dfa01aacad9cf56b1e7c8fc2be38e228ded329121bfa9b6a52b185aefabd",
+          "in_version": "eu-eurlex:32014l0107:2014-12-09"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2014-12-09",
+          "valid_to": "2014-12-15",
+          "text_sha256": "1738b72395490bb5313013237ff74761d9b4ff368296c3ccf63f2003d992f67b",
+          "in_version": "eu-eurlex:32014l0107:2014-12-09"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2014-12-09",
+          "valid_to": "2014-12-15",
+          "text_sha256": "46febe2055ef1f915cbf717390fb7bb227daf6166e4052d12f7f39bbce864281",
+          "in_version": "eu-eurlex:32014l0107:2014-12-09"
+        }
+      ]
+    },
+    "fr": {
+      "annexe": [
+        {
+          "valid_from": "2014-12-16",
+          "valid_to": null,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:32014l0107:2014-12-16"
+        }
+      ],
+      "annexe_i": [
+        {
+          "valid_from": "2014-12-16",
+          "valid_to": null,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:32014l0107:2014-12-16"
+        }
+      ],
+      "annexe_ii": [
+        {
+          "valid_from": "2014-12-16",
+          "valid_to": null,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:32014l0107:2014-12-16"
+        }
+      ],
+      "art_1": [
+        {
+          "valid_from": "2014-12-09",
+          "valid_to": "2014-12-15",
+          "text_sha256": "e8b831f5273818724f74dea65d1d0b6bb05f3ac1fee0875c1fd7c8185bcea75e",
+          "in_version": "eu-eurlex:32014l0107:2014-12-09"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2014-12-09",
+          "valid_to": "2014-12-15",
+          "text_sha256": "a711d0770cba86068016ebdcd09d441b8f1d3562d7344293d24e02b5a9a02314",
+          "in_version": "eu-eurlex:32014l0107:2014-12-09"
+        },
+        {
+          "valid_from": "2014-12-16",
+          "valid_to": null,
+          "text_sha256": "20d26fc03ff9d6f21956e08f621609b8351560ab0e0cc3d14c7f60acbc65e9b7",
+          "in_version": "eu-eurlex:32014l0107:2014-12-16"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2014-12-09",
+          "valid_to": "2014-12-15",
+          "text_sha256": "7accfa9a5f3e32e2444468019af47d8c0d333fe299ae34f6bbd9ac1ef2ba5ff4",
+          "in_version": "eu-eurlex:32014l0107:2014-12-09"
+        },
+        {
+          "valid_from": "2014-12-16",
+          "valid_to": null,
+          "text_sha256": "1c2af73dbfcc7ea246028ca391a47177896e40ae1c897bfe0c7122790b3b709e",
+          "in_version": "eu-eurlex:32014l0107:2014-12-16"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2014-12-09",
+          "valid_to": "2014-12-15",
+          "text_sha256": "0fc712c9ed5879dbad5bea3e7474f713eea34cda4ea895cc231207fc9b7290bb",
+          "in_version": "eu-eurlex:32014l0107:2014-12-09"
+        },
+        {
+          "valid_from": "2014-12-16",
+          "valid_to": null,
+          "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+          "in_version": "eu-eurlex:32014l0107:2014-12-16"
+        }
+      ],
+      "art_premier": [
+        {
+          "valid_from": "2014-12-16",
+          "valid_to": null,
+          "text_sha256": "82669aabc8f3b75e01ec62c9e4559f002f0a9e0cec318b69cbf4214eccf91ae7",
+          "in_version": "eu-eurlex:32014l0107:2014-12-16"
+        }
+      ],
+      "regles_complementaires_en_matiere_de_declaration_et_de_diligence_raisonnable_concernant_les_informations_relatives_aux_comptes_financiers": [
+        {
+          "valid_from": "2014-12-16",
+          "valid_to": null,
+          "text_sha256": "95b52da7a3fbb26fa05f9f31279799d999657e9863f2874e51c1fea03880bf44",
+          "in_version": "eu-eurlex:32014l0107:2014-12-16"
+        }
+      ],
+      "regles_en_matiere_de_declaration_et_de_diligence_raisonnable_concernant_les_informations_relatives_aux_comptes_financiers": [
+        {
+          "valid_from": "2014-12-16",
+          "valid_to": null,
+          "text_sha256": "7fd46943008f7dd89469fb26a07a93df47353622be6e99d40b31a03ad68c1bfd",
+          "in_version": "eu-eurlex:32014l0107:2014-12-16"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": [
+      {
+        "type": "removed",
+        "anchor": "art_1",
+        "at_version": "eu-eurlex:32014l0107:2014-12-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe",
+        "at_version": "eu-eurlex:32014l0107:2014-12-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_i",
+        "at_version": "eu-eurlex:32014l0107:2014-12-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_ii",
+        "at_version": "eu-eurlex:32014l0107:2014-12-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_premier",
+        "at_version": "eu-eurlex:32014l0107:2014-12-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "regles_complementaires_en_matiere_de_declaration_et_de_diligence_raisonnable_concernant_les_informations_relatives_aux_comptes_financiers",
+        "at_version": "eu-eurlex:32014l0107:2014-12-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "regles_en_matiere_de_declaration_et_de_diligence_raisonnable_concernant_les_informations_relatives_aux_comptes_financiers",
+        "at_version": "eu-eurlex:32014l0107:2014-12-16"
+      }
+    ]
+  }
+}

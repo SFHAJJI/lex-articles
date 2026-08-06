@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r2188:2017-08-11",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/2188 of 11 August 2017 amending Regulation (EU) No 575/2013",
+  "valid_from": "2017-08-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r2188/versions/2017-08-11/fr.xml",
+    "sha256": "2f83ac5120168bb730ba521cabc986ed3dde3e932a4d09901d04002a90c17944",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R2188"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r2188:2017-08-11#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l'article 496, paragraphe 1, du règlement (UE) no 575/2013, la phrase d'introduction est remplacée par le texte suivant:\n\n«Les autorités compétentes peuvent renoncer à l'application totale ou partielle de la limite de 10 % concernant les parts privilégiées émises par des fonds communs de créances français ou par des organismes de titrisation équivalents aux fonds communs de titrisation français, comme précisé à l'article 129, paragraphe 1, points d) et f), à condition que les deux conditions suivantes soient remplies:».",
+      "text_sha256": "64312458508aab31082587e0a905634fd467d5d515fb7a0caac73d765728ecc8",
+      "md_span": {
+        "start": 646,
+        "end": 1190
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r2188:2017-08-11#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à partir du 1er janvier 2018.",
+      "text_sha256": "6a7d81255c572173b7cb1432e17177eeeabcc83cf0c6e710b21e67201de61cf5",
+      "md_span": {
+        "start": 1223,
+        "end": 1409
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

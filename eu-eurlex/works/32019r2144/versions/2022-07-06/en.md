@@ -1,0 +1,632 @@
+---
+lex_id: 'eu-eurlex:32019r2144:2022-07-06'
+title: 'Regulation (EU) 2019/2144'
+valid_from: '2022-07-06'
+valid_to: '2022-09-04'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R2144-20220706'
+source_sha256: 'b5604ea3388736c9b3ad107424a11eb86a538fee77f4fb647a8c3358e3d42260'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPTER I
+
+### **SUBJECT MATTER, SCOPE AND DEFINITIONS**
+
+<a id="art_1"></a>
+
+### Article 1 — Subject matter
+
+This Regulation establishes requirements:
+
+(a) for the type-approval of vehicles, and of systems, components and separate technical units designed and constructed for vehicles, with regard to their general characteristics and safety, and to the protection and safety of vehicle occupants and vulnerable road users;
+
+(b) for the type-approval of vehicles, in respect of tyre pressure monitoring systems, with regard to their safety, fuel efficiency and CO2 emissions; and
+
+(c) for the type-approval of newly-manufactured tyres with regard to their safety and environmental performance.
+
+<a id="art_2"></a>
+
+### Article 2 — Scope
+
+This Regulation applies to vehicles of categories M, N and O, as defined in Article 4 of Regulation (EU) 2018/858, and to systems, components and separate technical units designed and constructed for such vehicles.
+
+<a id="art_3"></a>
+
+### Article 3 — Definitions
+
+For the purposes of this Regulation, the definitions laid down in Article 3 of Regulation (EU) 2018/858 apply.
+
+In addition, the following definitions apply:
+
+(1) ‘vulnerable road user’ means non-motorised road users, including, in particular, cyclists and pedestrians, as well as users of powered two-wheelers;
+
+(2) ‘tyre pressure monitoring system’ means a system fitted on a vehicle which can evaluate the pressure of the tyres or the variation of pressure over time and transmit corresponding information to the user while the vehicle is running;
+
+(3) ‘intelligent speed assistance’ means a system to aid the driver in maintaining the appropriate speed for the road environment by providing dedicated and appropriate feedback;
+
+(4) ‘alcohol interlock installation facilitation’ means a standardised interface that facilitates the fitting of aftermarket alcohol interlock devices in motor vehicles;
+
+(5) ‘driver drowsiness and attention warning’ means a system that assesses the driver’s alertness through vehicle systems analysis and warns the driver if needed;
+
+(6) ‘advanced driver distraction warning’ means a system that helps the driver to continue to pay attention to the traffic situation and that warns the driver when he or she is distracted;
+
+(7) ‘emergency stop signal’ means a light-signalling function to indicate to other road users to the rear of the vehicle that a high retardation force is being applied to the vehicle relative to the prevailing road conditions;
+
+(8) ‘reversing detection’ means a system to make the driver aware of people and objects at the rear of the vehicle with the primary aim of avoiding collisions when reversing;
+
+(9) ‘lane departure warning system’ means a system to warn the driver that the vehicle is drifting out of its travel lane;
+
+(10) ‘advanced emergency braking system’ means a system which can automatically detect a potential collision and activate the vehicle braking system to decelerate the vehicle with the purpose of avoiding or mitigating a collision;
+
+(11) ‘emergency lane-keeping system’ means a system that assists the driver in keeping a safe position of the vehicle with respect to the lane or road boundary, at least when a lane departure occurs or is about to occur and a collision might be imminent;
+
+(12) ‘vehicle master control switch’ means the device by which the vehicle’s on-board electronics system is brought, from being switched off, as in the case where a vehicle is parked without the driver being present, to normal operation mode;
+
+(13) ‘event data recorder’ means a system with the only purpose of recording and storing critical crash-related parameters and information shortly before, during and immediately after a collision;
+
+(14) ‘frontal protection system’ means a separate structure or structures, such as a bull bar, or a supplementary bumper which, in addition to the original‐equipment bumper, is intended to protect the external surface of the vehicle from damage in the event of a collision with an object, with the exception of structures having a mass of less than 0,5 kg, intended to protect only the vehicle’s lights;
+
+(15) ‘bumper’ means any front, lower, outer structures of a vehicle, including attachments thereto, which are intended to give protection to a vehicle when involved in a low speed frontal collision with another vehicle; it does not include however any frontal protection system;
+
+(16) ‘hydrogen-powered vehicle’ means any motor vehicle that uses hydrogen as fuel to propel the vehicle;
+
+(17) ‘hydrogen system’ means an assembly of hydrogen components and connecting parts fitted on a hydrogen-powered vehicle, excluding the hydrogen-powered propulsion system or the auxiliary power unit;
+
+(18) ‘hydrogen-powered propulsion system’ means the energy converter used to propel the vehicle;
+
+(19) ‘hydrogen component’ means hydrogen containers and all other parts of hydrogen‐powered vehicles that are in direct contact with hydrogen or which form part of a hydrogen system;
+
+(20) ‘hydrogen container’ means the component within the hydrogen system that stores the primary volume of hydrogen fuel;
+
+(21) ‘automated vehicle’ means a motor vehicle designed and constructed to move autonomously for certain periods of time without continuous driver supervision but in respect of which driver intervention is still expected or required;
+
+(22) ‘fully automated vehicle’ means a motor vehicle that has been designed and constructed to move autonomously without any driver supervision;
+
+(23) ‘driver availability monitoring system’ means a system to assess whether the driver is in a position to take over the driving function from an automated vehicle in particular situations, where appropriate;
+
+(24) ‘vehicle platooning’ means the linking of two or more vehicles in a convoy using connectivity technology and automated driving support systems which allow the vehicles to maintain automatically a set, close distance between each other when connected for certain parts of a journey and to adapt to changes in the movement of the lead vehicle with little to no action from the drivers;
+
+(25) ‘maximum mass’ means the technically permissible maximum laden mass stated by the manufacturer;
+
+(26) ‘A-pillar’ means the foremost and outermost roof support extending from the chassis to the roof of the vehicle.
+
+## CHAPTER II
+
+### **OBLIGATIONS OF MANUFACTURERS**
+
+<a id="art_4"></a>
+
+### Article 4 — General obligations and technical requirements
+
+**1.** Manufacturers shall demonstrate that all new vehicles that are placed on the market, registered or entered into service, and all new systems, components and separate technical units that are placed on the market or entered into service, are type-approved in accordance with the requirements of this Regulation and of the delegated acts and implementing acts adopted pursuant to it.
+
+**2.** Type-approval in accordance with the UN Regulations listed in Annex I shall be considered as EU type-approval in accordance with the requirements of this Regulation and of the delegated acts and implementing acts adopted pursuant to it.
+
+**3.** The Commission is empowered to adopt delegated acts in accordance with Article 12 to amend Annex I in order to take account of technical progress and regulatory developments by introducing and updating references to the UN Regulations, and relevant series of amendments, that apply on a compulsory basis.
+
+**4.** Manufacturers shall ensure that vehicles are designed, constructed and assembled so as to minimise the risk of injury to vehicle occupants and vulnerable road users.
+
+**5.** Manufacturers shall also ensure that vehicles, systems, components and separate technical units comply with the applicable requirements listed in Annex II with effect from the dates specified in that Annex, with the detailed technical requirements and test procedures laid down in the delegated acts and with the uniform procedures and technical specifications laid down in the implementing acts adopted pursuant to this Regulation, including the requirements relating to:(a) restraint systems, crash testing, fuel system integrity and high voltage electrical safety;(b) vulnerable road users, vision and visibility;(c) vehicle chassis, braking, tyres and steering;(d) on-board instruments, electrical system, vehicle lighting and protection against unauthorised use including cyberattacks;(e) driver and system behaviour; and(f) general vehicle construction and features.
+
+**6.** The Commission is empowered to adopt delegated acts in accordance with Article 12 to amend Annex II in order to take account of technical progress and regulatory developments, in particular in relation to the matters listed in points (a) to (f) of paragraph 5 of this Article as well as those referred to in points (a) to (g) of Article 6(1), Article 7(2), (3), (4) and (5), Article 9(2), (3) and (5) and Article 11(1), and with a view to ensuring a high level of general safety of vehicles, systems, components and separate technical units and a high level of protection of vehicle occupants and vulnerable road users, by introducing and updating references to UN Regulations, as well as to delegated acts and implementing acts.
+
+**7.** The Commission shall by means of implementing acts adopt provisions concerning uniform procedures and technical specifications for the type-approval of vehicles, systems, components and separate technical units with regard to the requirements listed in Annex II.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 13(2). They shall be published at least 15 months before the applicable dates specified in Annex II.
+
+<a id="art_5"></a>
+
+### Article 5 — Specific provisions relating to tyre pressure monitoring systems and tyres
+
+**1.** Vehicles shall be equipped with an accurate tyre pressure monitoring system capable, over a wide range of road and environmental conditions, of giving an in-vehicle warning to the driver when a loss of pressure occurs in a tyre.
+
+**2.** Tyre pressure monitoring systems shall be designed to avoid resetting or recalibration at a low tyre pressure.
+
+**3.** All tyres placed on the market shall meet the safety and environmental performance requirements set out in the relevant regulatory acts listed in Annex II.
+
+**4.** The Commission shall by means of implementing acts adopt provisions concerning uniform procedures and technical specifications for:(a) the type-approval of vehicles with regard to their tyre pressure monitoring systems;(b) the type-approval of tyres, including technical specifications concerning their installation.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 13(2). They shall be published at least 15 months before the applicable dates specified in Annex II.
+
+<a id="art_6"></a>
+
+### Article 6 — Advanced vehicle systems for all motor vehicle categories
+
+**1.** Motor vehicles shall be equipped with the following advanced vehicle systems:(a) intelligent speed assistance;(b) alcohol interlock installation facilitation;(c) driver drowsiness and attention warning;(d) advanced driver distraction warning;(e) emergency stop signal;(f) reversing detection; and(g) event data recorder.
+
+**2.** Intelligent speed assistance shall meet the following minimum requirements:(a) it shall be possible for the driver to be made aware through the accelerator control, or through dedicated, appropriate and effective feedback, that the applicable speed limit is exceeded;(b) it shall be possible to switch off the system; information about the speed limit may still be provided, and intelligent speed assistance shall be in normal operation mode upon each activation of the vehicle master control switch;(c) the dedicated and appropriate feedback shall be based on speed limit information obtained through the observation of road signs and signals, based on infrastructure signals or electronic map data, or both, made available in-vehicle;(d) it shall not affect the possibility, for the drivers, of exceeding the system’s prompted vehicle speed;(e) its performance targets shall be set in order to avoid or minimise the error rate under real driving conditions.
+
+**3.** Driver drowsiness and attention warning and advanced driver distraction warning systems shall be designed in such a way that those systems do not continuously record nor retain any data other than what is necessary in relation to the purposes for which they were collected or otherwise processed within the closed-loop system. Furthermore, those data shall not be accessible or made available to third parties at any time and shall be immediately deleted after processing. Those systems shall also be designed to avoid overlap and shall not prompt the driver separately and concurrently or in a confusing manner where one action triggers both systems.
+
+**4.** Event data recorders shall meet the following requirements in particular:(a) the data that they are capable of recording and storing with respect of the period shortly before, during and immediately after a collision shall include the vehicle’s speed, braking, position and tilt of the vehicle on the road, the state and rate of activation of all its safety systems, 112-based eCall in-vehicle system, brake activation and relevant input parameters of the on-board active safety and accident avoidance systems, with high level of accuracy and ensured survivability of data;(b) they cannot be deactivated;(c) the way in which they are capable of recording and storing data shall be such that:(i) they operate on a closed-loop system;(ii) the data that they collect is anonymised and protected against manipulation and misuse; and(iii) the data that they collect enables precise vehicle type, variant and version, and in particular the active safety and accident avoidance systems fitted to the vehicle, to be identified; and(d) the data that they are capable of recording can be made available to national authorities, on the basis of Union or national law, only for the purpose of accident research and analysis, including for the purposes of type approval of systems and components and in compliance with Regulation (EU) 2016/679, over a standardised interface.
+
+**5.** An event data recorder shall not be capable of recording and storing the last four digits of the vehicle indicator section of the vehicle identification number or any other information which could allow the individual vehicle itself, its owner or holder, to be identified.
+
+**6.** The Commission shall adopt delegated acts in accordance with Article 12 supplementing this Regulation by laying down detailed rules concerning the specific test procedures and technical requirements for:(a) the type-approval of vehicles with regard to the advanced vehicle systems listed in paragraph 1;(b) the type-approval of the advanced vehicle systems listed in points (a), (f) and (g) of paragraph 1 as separate technical units.
+
+Those delegated acts shall be published at least 15 months before the applicable dates specified in Annex II.
+
+<a id="art_7"></a>
+
+### Article 7 — Specific requirements relating to passenger cars and light commercial vehicles
+
+**1.** In addition to the other requirements of this Regulation and of the delegated acts and implementing acts adopted pursuant to it that are also applicable to vehicles of categories M1 and N1, vehicles of those categories shall meet the requirements set out in paragraphs 2 to 5 and the technical specifications set out in the implementing acts referred to in paragraph 6.
+
+**2.** Vehicles of categories M1 and N1 shall be equipped with advanced emergency braking systems designed and fitted in two phases and providing for:(a) the detection of obstacles and moving vehicles ahead of the motor vehicle in the first phase;(b) extending the detection capability referred to in point (a) to also include pedestrians and cyclists ahead of the motor vehicle in the second phase.
+
+**3.** Vehicles of categories M1 and N1 shall also be equipped with an emergency lane-keeping system.
+
+**4.** Advanced emergency braking systems and emergency lane-keeping systems shall meet the following requirements in particular:(a) it shall only be possible to switch off such systems one at a time by a sequence of actions to be carried out by the driver;(b) the systems shall be in normal operation mode upon each activation of the vehicle master control switch;(c) it shall be possible to easily suppress audible warnings, but such action shall not at the same time suppress system functions other than audible warnings;(d) it shall be possible for the driver to override such systems.
+
+**5.** Vehicles of categories M1 and N1 shall be designed and constructed to provide for an enlarged head impact protection zone with the aim of enhancing the protection of vulnerable road users and mitigating their potential injuries in the event of a collision.
+
+**6.** The Commission shall by means of implementing acts adopt provisions concerning uniform procedures and technical specifications for the type-approval of vehicles with regard to the requirements laid down in paragraphs 2 to 5 of this Article.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 13(2). They shall be published at least 15 months before the applicable dates specified in Annex II.
+
+<a id="art_8"></a>
+
+### Article 8 — Frontal protection systems for passenger cars and light commercial vehicles
+
+**1.** Frontal protection systems, whether fitted as original equipment to vehicles of categories M1 and N1 or made available on the market as separate technical units for such vehicles, shall comply with the requirements laid down in paragraph 2 and with the technical specifications set out in the implementing acts referred to in paragraph 3.
+
+**2.** Frontal protection systems made available on the market as separate technical units shall be accompanied by a detailed list of the vehicle types, variants and versions for which the frontal protection system is type-approved, as well as by clear assembly instructions.
+
+**3.** The Commission shall by means of implementing acts adopt provisions concerning uniform procedures and technical specifications for the type-approval of frontal protection systems, including technical specifications concerning their construction and installation.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 13(2). They shall be published at least 15 months before the applicable dates specified in Annex II.
+
+<a id="art_9"></a>
+
+### Article 9 — Specific requirements relating to buses and trucks
+
+**1.** In addition to the other requirements of this Regulation and of the delegated acts and implementing acts adopted pursuant to it that are also applicable to vehicles of categories M2, M3, N2 and N3, vehicles of those categories shall meet the requirements laid down in paragraphs 2 to 5 and the technical specifications set out in the implementing acts referred to in paragraph 7. Vehicles of categories M2 and M3, shall also meet the requirement laid down in paragraph 6.
+
+**2.** ►C1 Vehicles of categories M2, M3, N2 and N3 shall be equipped with a lane departure warning system and an advanced emergency braking system, both of which shall comply with the technical specifications** ◄ ** set out in the implementing acts referred to in paragraph 7.
+
+**3.** Vehicles of categories M2, M3, N2 and N3 shall be equipped with advanced systems that are capable of detecting pedestrians and cyclists located in close proximity to the front or nearside of the vehicle and of providing a warning or avoiding collision with such vulnerable road users.
+
+**4.** With respect of systems referred to in paragraphs 2 and 3, they shall meet the following requirements in particular:(a) it shall only be possible to switch off such systems one at a time by a sequence of actions to be carried out by the driver;(b) the systems shall be in normal operation mode upon each activation of the vehicle master control switch;(c) it shall be possible to easily suppress audible warnings, but such action shall not at the same time suppress system functions other than audible warnings;(d) it shall be possible for the driver to override such systems.
+
+**5.** Vehicles of categories M2, M3, N2 and N3 shall be designed and constructed to enhance the direct visibility of vulnerable road users from the driver seat, by reducing to the greatest possible extent the blind spots in front of and to the side of the driver, while taking into account the specificities of different categories of vehicles.
+
+**6.** Vehicles of categories M2 and M3 with a capacity exceeding 22 passengers in addition to the driver and constructed with areas for standing passengers to allow frequent passenger movement shall be designed and constructed to be accessible by persons with reduced mobility, including wheelchair users.
+
+**7.** The Commission shall by means of implementing acts adopt provisions concerning uniform procedures and technical specifications for:(a) the type-approval of vehicles with regard to the requirements laid down in paragraphs 2 to 5 of this Article;(b) the type-approval of the systems referred to in paragraph 3 of this Article as separate technical units.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 13(2).
+
+Where those implementing acts concern the requirements laid down in paragraphs 2, 3 and 4 of this Article, they shall be published at least 15 months before the applicable dates specified in Annex II.
+
+Where those implementing acts concern the requirements laid down in paragraph 5 of this Article, they shall be published at least 36 months before the applicable dates specified in Annex II.
+
+<a id="art_10"></a>
+
+### Article 10 — Specific requirements relating to hydrogen-powered vehicles
+
+**1.** In addition to the other requirements of this Regulation and of the delegated acts and implementing acts adopted pursuant to it that are also applicable to vehicles of categories M and N, hydrogen-powered vehicles of those categories, their hydrogen systems and components of such systems shall comply with the technical specifications set out in the implementing acts referred to in paragraph 3.
+
+**2.** Manufacturers shall ensure that hydrogen systems and hydrogen components are installed in accordance with the technical specifications set out in the implementing acts referred to in paragraph 3. Manufacturers shall also make available, if necessary information for the purposes of inspection of hydrogen systems and components during the service life of hydrogen-powered vehicles.
+
+**3.** The Commission shall by means of implementing acts adopt provisions concerning uniform procedures and technical specifications for the type-approval of hydrogen‐powered vehicles with regard to their hydrogen systems, including those with regard to material compatibility and fuelling receptacles, and for the type-approval of hydrogen components, including technical specifications for their installation.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 13(2). They shall be published at least 15 months before the applicable dates specified in Annex II.
+
+<a id="art_11"></a>
+
+### Article 11 — Specific requirements relating to automated vehicles and fully automated vehicles
+
+**1.** In addition to the other requirements of this Regulation and of the delegated acts and implementing acts adopted pursuant to it that are applicable to vehicles of the respective categories, automated vehicles and fully automated vehicles shall comply with the technical specifications set out in the implementing acts referred to in paragraph 2 that relate to:(a) systems to replace the driver’s control of the vehicle, including signalling, steering, accelerating and braking;(b) systems to provide the vehicle with real-time information on the state of the vehicle and the surrounding area;(c) driver availability monitoring systems;(d) event data recorders for automated vehicles;(e) harmonised format for the exchange of data for instance for multi‐brand vehicle platooning;(f) systems to provide safety information to other road users.
+
+However, those technical specifications relating to driver availability monitoring systems, referred to in point (c) of the first subparagraph, shall not apply to fully automated vehicles.
+
+**2.** The Commission shall by means of implementing acts adopt provisions concerning uniform procedures and technical specifications for the systems and other items listed in points (a) to (f) of paragraph 1 of this Article, and for the type-approval of automated and fully automated vehicles with regard to those systems and other items in order to ensure the safe operation of automated and fully automated vehicles on public roads.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 13(2).
+
+## CHAPTER III
+
+### **FINAL PROVISIONS**
+
+<a id="art_12"></a>
+
+### Article 12 — Exercise of the delegation
+
+**1.** The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+**2.** The power to adopt delegated acts referred to in Article 4(3) and (6) and Article 6(6) shall be conferred on the Commission for a period of five years from 5 January 2020. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+**3.** The delegation of power referred to in Article 4(3) and (6) and Article 6(6) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the *Official Journal of the European Union* or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+**4.** Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+**5.** As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+**6.** A delegated act adopted under Article 4(3) and (6) and Article 6(6) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+<a id="art_13"></a>
+
+### Article 13 — Committee procedure
+
+**1.** The Commission shall be assisted by the Technical Committee — Motor Vehicles (TCMV). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+**2.** Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+<a id="art_14"></a>
+
+### Article 14 — Review and reporting
+
+**1.** By 7 July 2027 and every five years thereafter, the Commission shall submit an evaluation report to the European Parliament and to the Council on the achievements of the safety measures and systems, including their penetration rates and convenience for the user. The Commission shall investigate whether those safety measures and systems act as intended by this Regulation. Where appropriate, that report shall be accompanied by recommendations, including a legislative proposal to amend the requirements concerning general safety and the protection and safety of vehicle occupants and vulnerable road users, in order to further reduce or to eliminate accidents and injuries in road transport.
+
+In particular, the Commission shall evaluate the reliability and efficiency of new intelligent speed assistance systems and the accuracy and error rate of such systems under real driving conditions. Where appropriate, the Commission shall present a legislative proposal.
+
+**2.** By 31 January of each year, for the previous year, the Commission shall submit to the European Parliament and to the Council a report on the activities of the UNECE’s World Forum for Harmonization of Vehicle Regulations (WP.29) as regards the progress made in the implementation of vehicle safety standards with regard to the requirements set out in Articles 5 to 11 and as regards the position of the Union related to these matters.
+
+<a id="art_15"></a>
+
+### Article 15 — Transitional provisions
+
+**1.** This Regulation shall not invalidate any EU type-approvals granted to vehicles, systems, components or separate technical units which were granted in accordance with Regulation (EC) No 78/2009, Regulation (EC) No 79/2009 or Regulation (EC) No 661/2009 and their implementing measures, by 5 July 2022, unless the relevant requirements applying to such vehicles, systems, components or separate technical units have been modified, or new requirements have been added, by this Regulation and the delegated acts adopted pursuant to it, as further specified in the implementing acts adopted pursuant to this Regulation.
+
+**2.** Approval authorities shall continue to grant extensions of EU type-approvals referred to in paragraph 1.
+
+**3.** By way of derogation from this Regulation, Member States shall continue to permit until the date specified in Annex IV the registration of vehicles, as well as the sale or entry into service of components, which do not comply with the requirements of UN Regulation No 117.
+
+<a id="art_16"></a>
+
+### Article 16 — Implementation dates
+
+With respect to vehicles, systems, components and separate technical units, national authorities shall:
+
+(a) with effect from the dates specified in Annex II, with respect to a particular requirement listed in that Annex, refuse, on grounds relating to that requirement, to grant EU type‐approval or national type-approval to any new type of vehicle, system, component or separate technical unit that does not comply with the requirements of this Regulation and of the delegated acts and implementing acts adopted pursuant to it;
+
+(b) ►C1 with effect from the dates specified in Annex II, with respect to a particular requirement** ◄ ** listed in that Annex, consider, on grounds relating to that requirement, certificates of conformity in respect to new vehicles to be no longer valid for the purposes of Article 48 of Regulation (EU) 2018/858, and prohibit the registration of such vehicles, if those vehicles do not comply with the requirements of this Regulation and of the delegated acts and implementing acts adopted pursuant to it;
+
+(c) with effect from the dates specified in Annex II, with respect to a particular requirement listed in that Annex, prohibit, on grounds relating to that requirement, the placing on the market or entry into service of components and separate technical units, where they do not comply with the requirements of this Regulation and of the delegated acts and implementing acts adopted pursuant to it.
+
+<a id="art_17"></a>
+
+### Article 17 — Amendments to Regulation (EU) 2018/858
+
+Annex II to Regulation (EU) 2018/858 is amended in accordance with Annex III to this Regulation.
+
+<a id="art_18"></a>
+
+### Article 18 — Repeal
+
+**1.** Regulations (EC) No 78/2009, (EC) No 79/2009 and (EC) No 661/2009 and Regulations (EC) No 631/2009, (EU) No 406/2010, (EU) No 672/2010, (EU) No 1003/2010, (EU) No 1005/2010, (EU) No 1008/2010, (EU) No 1009/2010, (EU) No 19/2011, (EU) No 109/2011, (EU) No 458/2011, (EU) No 65/2012, (EU) No 130/2012, (EU) No 347/2012, (EU) No 351/2012, (EU) No 1230/2012 and (EU) 2015/166 are repealed with effect from the date of application of this Regulation.
+
+**2.** References to Regulations (EC) No 78/2009, (EC) No 79/2009 and (EC) No 661/2009 shall be construed as references to this Regulation.
+
+<a id="art_19"></a>
+
+### Article 19 — Entry into force and date of application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+It shall apply from 6 July 2022.
+
+However, Article 4(3), (6) and (7), Article 5(4), Article 6(6), Article 7(6), Article 8(3), Article 9(7), Article 10(3), Article 11(2) and Articles 12 and 13 shall apply from 5 January 2020.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+<a id="anx_i"></a>
+
+### ANNEX I
+
+
+
+<a id="list_of_un_regulations_referred_to_in_article_4_2"></a>
+
+### List of UN Regulations referred to in Article 4(2)
+
+| UN Regulation Number | Subject | Series of amendments published in the OJ | OJ Reference | Scope covered by the UN Regulation |
+| --- | --- | --- | --- | --- |
+| 1 | Headlamps emitting an asymmetrical passing beam and/or driving beam equipped with filament lamps R2 and/or HS1 | 02 series of amendments | OJ L 177, 10.7.2010, p. 1 | M, N () |
+| 3 | Retro-reflecting devices for power-driven vehicles and their trailers | 02 series of amendments | OJ L 323, 6.12.2011, p. 1 | M, N, O |
+| 4 | Illumination of rear-registration plates of power-driven vehicles and their trailers | Original version of the Regulation | OJ L 4, 7.1.2012, p. 17 | M, N, O |
+| 6 | Direction indicators for power-driven vehicles and their trailers | 01 series of amendments | OJ L 213, 18.7.2014, p. 1 | M, N, O |
+| 7 | Front and rear position (side) lamps, stop-lamps and end‐outline marker lamps for power-driven vehicles and their trailers | 02 series of amendments | OJ L 285, 30.9.2014, p. 1 | M, N, O |
+| 8 | Motor vehicles headlamps (H1, H2, H3, HB3, HB4, H7, H8, H9, HIR1, HIR2 and/or H11) | 05 series of amendments Corrigendum 1 to Revision 4 | OJ L 177, 10.7.2010, p. 71 | M, N () |
+| 10 | Electromagnetic compatibility | 05 series of amendments | OJ L 41, 17.2.2017, p. 1 | M, N, O |
+| 11 | Door latches and door retention components | 04 series of amendments | OJ L 218, 21.8.2019, p. 1 | M1, N1 |
+| 12 | Protection of the driver against the steering mechanism in the event of impact | 04 series of amendments | OJ L 89, 27.3.2013, p. 1 | M1, N1 |
+| 13 | Braking of vehicles and trailers | 11 series of amendments | OJ L 42, 18.2.2016, p. 1 | M2, M3, N, O () |
+| 13-H | Braking of passenger cars | Original version of the Regulation | OJ L 335, 22.12.2015, p. 1 | M1, N1 |
+| 14 | Safety-belt anchorages | 07 series of amendments | OJ L 218, 19.8.2015, p. 27 | M, N |
+| 16 | Safety-belts, restraint systems, child restraint systems and ISOFIX child restraint systems | 07 series of amendments | OJ L 109, 27.4.2018, p. 1 | M, N |
+| 17 | Seats, their anchorages and any head restraints | 08 series of amendments | OJ L 230, 31.8.2010, p. 81 | M, N |
+| 18 | Protection of motor vehicles against unauthorised use | 03 series of amendments | OJ L 120, 13.5.2010, p. 29 | M2, M3, N2, N3 |
+| 19 | Power-driven vehicle front fog lamps | 04 series of amendments | OJ L 250, 22.8.2014, p. 1 | M, N |
+| 20 | Headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with halogen filament lamps (H4 lamps) | 03 series of amendments | OJ L 177, 10.7.2010, p. 170 | M, N () |
+| 21 | Interior fittings | 01 series of amendments | OJ L 188, 16.7.2008, p. 32 | M1 |
+| 23 | Reversing and manoeuvring lamps for power-driven vehicles and their trailers | Original version of the Regulation | OJ L 237, 8.8.2014, p. 1 | M, N, O |
+| 25 | Head restraints (headrests), whether or not incorporated in vehicle seats | 04 series of amendments Corrigendum 2 to Revision 1 | OJ L 215, 14.8.2010, p. 1 | M1 |
+| 26 | External projections | 03 series of amendments | OJ L 215, 14.8.2010, p. 27 | M1 |
+| 28 | Audible warning devices and audible signals | Original version of the Regulation | OJ L 323, 6.12.2011, p. 33 | M, N |
+| 29 | Protection of the occupants of the cab of a commercial vehicle | 03 series of amendments | OJ L 304, 20.11.2010, p. 21 | N |
+| 30 | Pneumatic tyres for motor vehicles and their trailers (Class C1) | 02 series of amendments | OJ L 307, 23.11.2011, p. 1 | M, N, O |
+| 31 | Power-driven vehicle’s sealed-beam headlamps (SB) emitting a European asymmetrical passing beam or a driving beam or both | 02 series of amendments | OJ L 185, 17.7.2010, p. 15 | M, N |
+| 34 | Prevention of fire risks (liquid fuel tanks) | 03 series of amendments | OJ L 231, 26.8.2016, p. 41 | M, N, O |
+| 37 | Filament lamps for use in approved lamp units of power‐driven vehicles and their trailers | 03 series of amendments | OJ L 213, 18.7.2014, p. 36 | M, N, O |
+| 38 | Rear fog lamps for power-driven vehicles and their trailers | Original version of the Regulation | OJ L 4, 7.1.2012, p. 20 | M, N, O |
+| 39 | Speedometer and odometer equipment including its installation | 01 series of amendments | OJ L 302, 28.11.2018, p. 106 | M, N |
+| 43 | Safety glazing materials and their installation on vehicles | 01 series of amendments | OJ L 42, 12.2.2014, p. 1 | M, N, O |
+| 44 | Restraining devices for child occupants of power-driven vehicles (‘Child Restraint Systems’) | 04 series of amendments | OJ L 265, 30.9.2016, p. 1 | M, N |
+| 45 | Headlamps cleaners | 01 series of amendments |  | M, N |
+| 46 | Devices for indirect vision and their installation | 04 series of amendments | OJ L 237, 8.8.2014, p. 24 | M, N |
+| 48 | ►C1 Installation of lighting and light-signalling devices on vehicles** ◄ ** | 06 series of amendments | OJ L 14, 16.1.2019, p. 42 | M, N, O () |
+| 54 | Pneumatic tyres for commercial vehicles and their trailers (Classes C2 and C3) | Original version of the Regulation | OJ L 307, 23.11.2011, p. 2 | M, N, O |
+| 55 | Mechanical coupling components of combinations of vehicles | 01 series of amendments | OJ L 153, 15.6.2018, p. 179 | M, N, O () |
+| 58 | Rear underrun protective devices (RUPDs) and their installation; Rear underrun protection (RUP) | 03 series of amendments | OJ L 49, 20.2.2019, p. 1 | M, N, O |
+| 61 | Commercial vehicles with regard to their external projections forward of the cab’s rear panel | Original version of the Regulation | OJ L 164, 30.6.2010, p. 1 | N |
+| 64 | Temporary‐use spare unit, run-flat tyres/system (and tyre pressure monitoring system) | 02 series of amendments | OJ L 310, 26.11.2010, p. 18 | M1, N1 |
+| 66 | Strength of the superstructure of large passenger vehicles | 02 series of amendments | OJ L 84, 30.3.2011, p. 1 | M2, M3 |
+| 67 | Motor vehicles using LPG | 01 series of amendments | OJ L 285, 20.10.2016, p. 1 | M, N |
+| 73 | Lateral protection devices of goods vehicles | 01 series of amendments | OJ L 122, 8.5.2012, p. 1 | N2, N3, O3, O4 |
+| 77 | Parking lamps for power-driven vehicles | Original version of the Regulation | OJ L 4, 7.1.2012, p. 21 | M, N |
+| 79 | Steering equipment | 03 series of amendments | OJ L 318, 14.12.2018, p. 1 | M, N, O |
+| 80 | Seats of large passenger vehicles | 03 series of amendments | OJ L 226, 24.8.2013, p. 20 | M2, M3 |
+| 87 | Daytime running lamps for power-driven vehicles | Original version of the Regulation | OJ L 4, 7.1.2012, p. 24 | M, N |
+| 89 | Speed limitation devices and adjustable speed limitation devices | Original version of the Regulation | OJ L 4, 7.1.2012, p. 25 | M, N () |
+| 90 | Replacement brake lining assemblies, drum-brake linings and discs and drums for power-driven vehicles and their trailers | 02 series of amendments | OJ L 290, 16.11.2018, p. 54 | M, N, O |
+| 91 | Side-marker lamps for motor vehicles and their trailers | Original version of the Regulation | OJ L 4, 7.1.2012, p. 27 | M, N, O |
+| 93 | Front underrun protective devices (FUPDs) and their installation; front underrun protection (FUP) | Original version of the Regulation | OJ L 185, 17.7.2010, p. 56 | N2, N3 |
+| 94 | Protection of occupants in the event of a frontal collision | 03 series of amendments | OJ L 35, 8.2.2018, p. 1 | M1 |
+| 95 | Protection of occupants in the event of a lateral collision | 03 series of amendments | OJ L 183, 10.7.2015, p. 91 | M1, N1 |
+| 97 | Vehicle Alarm Systems (VAS) | 01 series of amendments | OJ L 122, 8.5.2012, p. 19 | M1, N1 () |
+| 98 | Motor vehicle headlamps equipped with gas-discharge light sources | 01 series of amendments | OJ 176, 14.6.2014, p. 64 | M, N |
+| 99 | Gas-discharge light sources for use in approved gas‐discharge lamp units of power-driven vehicles | Original version of the Regulation | OJ L 320, 17.12.2018, p. 45 | M, N |
+| 100 | Electric safety | 02 series of amendments | OJ L 302, 28.11.2018, p. 114 | M, N |
+| 102 | Close-coupling device (CCD); fitting of an approved type of CCD | Original version of the Regulation | OJ L 351, 30.12.2008, p. 44 | N2, N3, O3, O4 |
+| 104 | Retro-reflective markings (heavy and long vehicles) | Original version of the Regulation | OJ L 75, 14.3.2014, p. 29 | M2, M3, N, O2, O3, O4 |
+| 105 | Vehicles for the carriage of dangerous goods | 05 series of amendments | OJ L 4, 7.1.2012, p. 30 | N, O |
+| 107 | General construction of category M2 and M3 vehicles | 07 series of amendments | OJ L 52, 23.2.2018, p. 1 | M2, M3 |
+| 108 | Retreaded pneumatic tyres for passenger cars and their trailers | Original version of the Regulation | OJ L 181, 4.7.2006, p. 1 | M1, O1, O2 |
+| 109 | Retreaded pneumatic tyres for commercial vehicles and their trailers | Original version of the Regulation | OJ L 181, 4.7.2006, p. 1 | M2, M3, N, O3, O4 |
+| 110 | Specific components for CNG and LNG | 01 series of amendments | OJ L 166, 30.6.2015, p. 1 | M, N |
+| 112 | Motor vehicle headlamps emitting an asymmetrical passing beam or a driving beam or both and equipped with filament lamps and/or LED modules | 01 series of amendments | OJ L 250, 22.8.2014, p. 67 | M, N |
+| 114 | Replacement Airbag Systems | Original version of the Regulation | OJ L 373, 27.12.2006, p. 272 | M1, N1 |
+| 115 | LPG and CNG retrofit systems | Original version of the Regulation | OJ L 323, 7.11.2014, p. 91 | M, N |
+| 116 | Protection of motor vehicles against unauthorised use | Original version of the Regulation | OJ L 45, 16.2.2012, p. 1 | M1, N1 () |
+| 117 | Tyres with regard to rolling sound emissions, adhesion on wet surfaces and rolling resistance (Classes C1, C2 and C3) | 02 series of amendments | OJ L 218, 12.8.2016, p. 1 | M, N, O |
+| 118 | Fire resistance of interior materials in buses | 02 series of amendments | OJ L 102, 21.4.2015, p. 67 | M3 |
+| 119 | Cornering lamps | 01 series of amendments | OJ L 89, 25.3.2014, p. 101 | M, N |
+| 121 | Location and identification of hand controls, tell-tales and indicators | 01 series of amendments | OJ L 5, 8.1.2016, p. 9 | M, N |
+| 122 | Heating systems of vehicles | Original version of the Regulation | OJ L 164, 30.6.2010, p. 231 | M, N, O |
+| 123 | Adaptive front-lighting systems (AFS) for motor vehicles | 01 series of amendments | OJ L 49, 20.2.2019, p. 24 | M, N |
+| 124 | Replacement wheels | Original version of the Regulation | OJ L 375, 27.12.2006, p. 568 | M1, N1, O1, O2 |
+| 125 | Forward field of vision | 01 series of amendments | OJ L 20, 25.1.2018, p. 16 | M1 |
+| 126 | Partitioning systems | Original version of the Regulation |  | M1 |
+| 127 | Pedestrian safety | 02 series of amendments |  | M1, N1 |
+| 128 | Light Emitting Diode (LED) light sources | Original version of the Regulation | OJ L 320, 17.12.2018, p. 63 | M, N, O |
+| 129 | Enhanced Child Restraint Systems | Original version of the Regulation | OJ L 97, 29.3.2014, p. 21 | M, N |
+| 130 | Lane Departure Warning Systems | Original version of the Regulation | OJ L 178, 18.6.2014, p. 29 | M2, M3, N2, N3 () |
+| 131 | Advanced Emergency Braking Systems | 01 series of amendments | OJ L 214, 19.7.2014, p. 47 | M2, M3, N2, N3 () |
+| 134 | Hydrogen safety | Original version of the Regulation | OJ L 129, 17.5.2019, p. 43 | M, N |
+| 135 | Pole side impact | 01 series of amendments |  | M1, N1 |
+| 137 | Frontal full-width impact | 01 series of amendments |  | ►C1 M1** ◄ ** |
+| 139 | Brake Assist Systems | Original version of the Regulation | OJ L 269, 26.10.2018, p. 1 | M1, N1 |
+| 140 | Electronic Stability Control Systems | Original version of the Regulation | OJ L 269, 26.10.2018, p. 17 | M1, N1 |
+| 141 | Tyre Pressure Monitoring Systems | Original version of the Regulation | OJ L 269, 26.10.2018, p. 36 | M1, N1 () |
+| 142 | Tyre installation | Original version of the Regulation |  | M1 |
+| 145 | Child restraint anchorages | Original version of the Regulation |  | M1 |
+| ▼M4 |  |  |  |  |
+| 160 | Event Data Recorder (EDR) | 01 series of amendments | OJ L 265, 26.7.2021, p. 3 | M1, N1 |
+| ▼B |  |  |  |  |
+| (1)UN Regulation Nos 1, 8 and 20 are not applicable for EU type-approval of vehicles.(2)The mandatory fitting of a stability control function is required in accordance with the UN Regulations. However, it is also mandatory for vehicles of category N1.(3)Where it is declared by the vehicle manufacturer that a vehicle is suitable for towing loads (point 2.11.5 of the information document referred to in Article 24(1) of Regulation (EU) 2018/858) and any part of a suitable mechanical coupling device, whether fitted or not to the type of motor-vehicle, could (partly) obscure any lighting component and/or the space for mounting and fixing the rear registration plate, the following shall apply:— the motor-vehicle’s user instructions (e.g. owner’s manual, vehicle handbook) shall clearly specify that installation of a mechanical coupling device that cannot be easily removed or repositioned is not permitted,— the instructions shall also clearly specify that, when fitted, a mechanical coupling device must always be removed or repositioned when it is not in use, and— in the case of vehicle system type-approval in accordance with UN Regulation No 55, it shall be ensured that the removal, repositioning and/or alternate location provisions are also fully complied with as regards lighting installation and space for mounting and fixing the rear registration plate.(4)Only Speed Limitation Devices (SLD) and the mandatory installation of SLD on vehicles of category M2, M3, N2 and N3 are concerned.(5)Devices to prevent unauthorised use shall be fitted on vehicles of categories M1 and N1 and immobiliser systems shall be fitted on vehicles of category M1.(6)See explanatory note 4 to the table in Annex II.(7)For vehicles of categories M1 with a maximum mass ≤ 3 500 kg and N1, that are not fitted with twin wheels on an axle.*Notes to the table*The series of amendments indicated in the table reflects the version that has been published in the Official Journal of the European Union and is without prejudice to the series of amendments that shall be complied with on the basis of the transitional provisions provided therein.Compliance with a series of amendments adopted after the particular series indicated in the table shall be accepted as an alternative.The dates specified in the relevant series of amendments of the UN Regulations listed in the table, as regards the obligations of Contracting Parties to the ‘Revised 1958 Agreement’, linked to first registration, entry into service, making available on the market, sale, the recognition of type‐approvals, and any similar provisions, apply on a compulsory basis for the purposes of Articles 48 and 50 of Regulation (EU) 2018/858 except where alternative dates are specified in Annex II to this Regulation in which case those alternative dates are to be followed instead.In certain instances, a UN Regulation listed in the table provides in its transitional provisions that as from a specified date, Contracting Parties to the ‘Revised 1958 Agreement’ applying a certain series of amendments to that UN Regulation shall not be obliged to accept or may refuse to accept, for the purpose of national or regional type-approval, a type approved in accordance with a preceding series of amendments, or wording with similar intention and meaning. This shall be construed as a binding provision for national authorities to consider the certificates of conformity to be no longer valid for the purposes of Article 48 of Regulation (EU) 2018/858, except where alternative dates are specified in Annex II to this Regulation in which case those alternative dates are to be followed instead. |  |  |  |  |
+
+<a id="anx_ii"></a>
+
+### ANNEX II
+
+
+
+<a id="list_of_the_requirements_referred_to_in_article_4_5_and_article_5_3_as_well_as_the_dates_referred_to_in_article_16"></a>
+
+### List of the requirements referred to in Article 4(5) and Article 5(3) as well as the dates referred to in Article 16
+
+| Subject | Regulatory acts | Additional specific technical provisions | M1 | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 | STU | Component |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Requirements concerningA RESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETY |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| A1 Interior fittings | UN Regulation No 21 |  | A |  |  |  |  |  |  |  |  |  |  |  |
+| A2 Seats and head restraints | UN Regulation No 17 |  | A | A | A | A | A | A |  |  |  |  |  |  |
+| A3 Bus seats | UN Regulation No 80 |  |  | A | A |  |  |  |  |  |  |  |  | A |
+| A4 Safety-belt anchorages | UN Regulation No 14 |  | A | A | A | A | A | A |  |  |  |  |  |  |
+| A5 Safety-belts and restraint systems | UN Regulation No 16 |  | A | A | A | A | A | A |  |  |  |  | A | A |
+| A6 Safety-belt reminders | UN Regulation No 16 |  | A | A | A | A | A | A |  |  |  |  |  |  |
+| A7 Partitioning systems | UN Regulation No 126 |  | X |  |  |  |  |  |  |  |  |  | B |  |
+| A8 Child restraint anchorages | UN Regulation No 145 |  | A |  |  |  |  |  |  |  |  |  |  |  |
+| A9 Child restraint systems | UN Regulation No 44 |  | A (1) | A (1) | A (1) | A (1) | A (1) | A (1) |  |  |  |  | A | A |
+| A10 Enhanced child restraint systems | UN Regulation No 129 |  | X | X | X | X | X | X |  |  |  |  | B | B |
+| A11 Front underrun protection | UN Regulation No 93 |  |  |  |  |  | A | A |  |  |  |  | A | A |
+| A12 Rear underrun protection | UN Regulation No 58 |  | A | A | A | A | A | A | A | A | A | A | A | A |
+| A13 Lateral protection | UN Regulation No 73 |  |  |  |  |  | A | A |  |  | A | A |  |  |
+| A14 Fuel tank safety | UN Regulation No 34 |  | A | A | A | A | A | A | A | A | A | A | A |  |
+| A15 Liquified petroleum gas safety | UN Regulation No 67 |  | A | A | A | A | A | A |  |  |  |  |  | A |
+| A16 Compressed and liquified natural gas safety | UN Regulation No 110 |  | A | A | A | A | A | A |  |  |  |  |  | A |
+| A17 Hydrogen safety | UN Regulation No 134 |  | A | A | A | A | A | A |  |  |  |  |  | A |
+| A18 Hydrogen system material qualification |  |  | A | A | A | A | A | A |  |  |  |  |  | A |
+| A19 In-use electric safety | UN Regulation No 100 |  | A | A | A | A | A | A |  |  |  |  |  |  |
+| A20 Frontal off-set impact | UN Regulation No 94 | ►C1 Applies to vehicle categories M1 with a maximum mass ≤ 3 500 kg and N1 with a maximum mass** ◄ ** ≤ 2 500 kg. For vehicles with a maximum mass > 2 500 kg, dates in note B apply. | A |  |  | A |  |  |  |  |  |  |  |  |
+| A21 Frontal full-width impact | UN Regulation No 137 | Use of the anthropomorphic test device ‘Hybrid III’ crash dummy is permitted until the test device for human occupant restraint ‘THOR’ is available in the UN Regulation. | B |  |  | B |  |  |  |  |  |  |  |  |
+| A22 Protective steering | UN Regulation No 12 |  | A |  |  | A |  |  |  |  |  |  | A |  |
+| A23 Replacement airbag | UN Regulation No 114 |  | X |  |  | X |  |  |  |  |  |  | B |  |
+| A24 Cab impact | UN Regulation No 29 |  |  |  |  | A | A | A |  |  |  |  |  |  |
+| A25 Side impact | UN Regulation No 95 | ►C1 Applies to all vehicles of categories M1 and N1 including** ◄ ** those with R point of the lowest seat > 700 mm from ground level. For vehicles having R point of the lowest seat > 700 mm from ground level, dates in Note B apply. | A |  |  | A |  |  |  |  |  |  |  |  |
+| A26 Pole side impact | UN Regulation No 135 |  | B |  |  | B |  |  |  |  |  |  |  |  |
+| A27 Rear impact | UN Regulation No 34 | ►C1 Applies to vehicle categories M1 with a maximum mass ≤ 3 500 kg and N1. Post-crash** ◄ ** electrical safety requirements shall be ensured. | B |  |  | B |  |  |  |  |  |  |  |  |
+| Requirements concerningB VULNERABLE ROAD USERS, VISION AND VISIBILITY |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| B1 Pedestrian leg and head protection | UN Regulation No 127 |  | A |  |  | A |  |  |  |  |  |  |  |  |
+| B2 Enlarged head impact zone | UN Regulation No 127 | Child and adult headform test area are bounded by the ‘adult wrap-around-distance’ of 2 500 mm or ‘windscreen rear reference line’ whichever is more forward. Headform contact with A-pillars, windscreen header and cowl is excluded, but shall be monitored. | C |  |  | C |  |  |  |  |  |  |  |  |
+| B3 Frontal protection system |  |  | X |  |  | X |  |  |  |  |  |  | A |  |
+| B4 Advanced emergency braking for pedestrian and cyclist |  |  | C |  |  | C |  |  |  |  |  |  |  |  |
+| B5 Pedestrian and cyclist collision warning |  |  |  | B | B |  | B | B |  |  |  |  | B |  |
+| B6 Blind spot information system |  |  |  | B | B |  | B | B |  |  |  |  | B |  |
+| B7 Reversing detection |  |  | B | B | B | B | B | B |  |  |  |  | B |  |
+| B8 Forward vision | UN Regulation No 125 | ►C1 Applies to vehicle categories M1 and N1** ◄ ** | A |  |  | C |  |  |  |  |  |  |  |  |
+| B9 Heavy-duty vehicles direct vision |  |  |  | D | D |  | D | D |  |  |  |  |  |  |
+| B10 Safety glazing | UN Regulation No 43 |  | A | A | A | A | A | A | A | A | A | A |  | A |
+| B11 Defrost/demist |  |  | A | A (2) | A (2) | A (2) | A (2) | A (2) |  |  |  |  |  |  |
+| B12 Wash/wipe |  |  | A | A (3) | A (3) | A (3) | A (3) | A (3) |  |  |  |  | A |  |
+| B13 Indirect vision devices | UN Regulation No 46 |  | A | A | A | A | A | A |  |  |  |  |  | A |
+| Requirements concerningC VEHICLE CHASSIS, BRAKING, TYRES AND STEERING |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| C1 Steering equipment | UN Regulation No 79 |  | A | A | A | A | A | A | A | A | A | A |  |  |
+| C2 Lane departure warning system | UN Regulation No 130 |  |  | A (4) | A (4) |  | A (4) | A (4) |  |  |  |  |  |  |
+| C3 Emergency lane keeping system |  |  | B (6) |  |  | B (6) |  |  |  |  |  |  |  |  |
+| C4 Braking | UN Regulation No 13UN Regulation No 13-H |  | A | A | A | A | A | A | A | A | A | A |  |  |
+| C5 Replacement braking parts | UN Regulation No 90 |  | X | X | X | X | X | X | X | X | X | X | A |  |
+| C6 Brake assist | UN Regulation No 139 |  | A |  |  | A |  |  |  |  |  |  |  |  |
+| C7 Stability control | UN Regulation No 13UN Regulation No 140 |  | A | A | A | A | A | A | A | A | A | A |  |  |
+| C8 Advanced emergency braking on heavy-duty vehicles | UN Regulation No 131 |  |  | A (4) | A (4) |  | A (4) | A (4) |  |  |  |  |  |  |
+| C9 Advanced emergency braking on light-duty vehicles |  |  | B |  |  | B |  |  |  |  |  |  |  |  |
+| C10 Tyre safety and environmental performance | UN Regulation No 30UN Regulation No 54UN Regulation No 117 | A test procedure for worn tyres shall also be ensured; the dates in note C apply. | X | X | X | X | X | X | X | X | X | X |  | A |
+| C11 Spare wheels and run‐flat systems | UN Regulation No 64 |  | A (1) |  |  | A (1) |  |  |  |  |  |  |  |  |
+| C12 Retreaded tyres | UN Regulation No 108UN Regulation No 109 |  | X | X | X | X | X | X | X | X | X | X |  | A |
+| C13 Tyre pressure monitoring for light-duty vehicles | UN Regulation No 141 | ►C1 Applies to vehicle categories M1 with a maximum mass ≤ 3 500 kg and N1.** ◄ ** | A |  |  | B |  |  |  |  |  |  |  |  |
+| C14 Tyre pressure monitoring for heavy‐duty vehicles |  |  |  | B | B |  | B | B |  |  | B | B |  |  |
+| C15 Tyre installation | UN Regulation No 142 | Applies to all vehicle categories. | A | A | A | A | A | A | A | A | A | A |  |  |
+| C16 Replacement wheels | UN Regulation No 124 |  | X |  |  | X |  |  | X | X |  |  |  | B |
+| Requirements concerningD ON-BOARD INSTRUMENTS, ELECTRICAL SYSTEM, VEHICLE LIGHTING AND PROTECTION AGAINST UNAUTHORISED USE, INCLUDING CYBERATTACKS |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| D1 Audible warning | UN Regulation No 28 |  | A | A | A | A | A | A |  |  |  |  |  | A |
+| D2 Radio interference (electromagnetic compatibility) | UN Regulation No 10 |  | A | A | A | A | A | A | A | A | A | A | A | A |
+| D3 Protection against unauthorised use, immobiliser and alarm systems | UN Regulation No 18UN Regulation No 97UN Regulation No 116 |  | A | A (1) | A (1) | A | A (1) | A (1) |  |  |  |  | A | A |
+| D4 Protection of vehicle against cyberattacks |  |  | B | B | B | B | B | B |  |  |  |  | B | B |
+| D5 Speedometer | UN Regulation No 39 |  | A | A | A | A | A | A |  |  |  |  |  |  |
+| D6 Odometer | UN Regulation No 39 |  | A | A | A | A | A | A |  |  |  |  |  |  |
+| D7 Speed limitation devices | UN Regulation No 89 |  |  | A | A |  | A | A |  |  |  |  |  | A |
+| ▼M3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| D8 Intelligent speed assistance | Commission Delegated Regulation (EU) 2021/1958 (9) |  | B | B | B | B | B | B |  |  |  |  | B |  |
+| ▼B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| D9 Identification of controls, tell-tales and indicators | UN Regulation No 121 |  | A | A | A | A | A | A |  |  |  |  |  |  |
+| D10 Heating systems | UN Regulation No 122 |  | A | A | A | A | A | A | A | A | A | A |  | A |
+| D11 Light signalling devices | UN Regulation No 4UN Regulation No 6UN Regulation No 7UN Regulation No 19UN Regulation No 23UN Regulation No 38UN Regulation No 77UN Regulation No 87UN Regulation No 91 |  | X | X | X | X | X | X | X | X | X | X |  | A |
+| D12 Road illumination devices | UN Regulation No 31UN Regulation No 98UN Regulation No 112UN Regulation No 119UN Regulation No 123 |  | X | X | X | X | X | X |  |  |  |  |  | A |
+| D13 Retro-reflective devices | UN Regulation No 3UN Regulation No 104 |  | X | X | X | X | X | X | X | X | X | X |  | A |
+| D14 Light sources | UN Regulation No 37UN Regulation No 99UN Regulation No 128 |  | X | X | X | X | X | X | X | X | X | X |  | A |
+| D15 Installation of light signalling, road illumination and retro‐reflective devices | UN Regulation No 48 |  | A | A | A | A | A | A | A | A | A | A |  |  |
+| D16 Emergency Stop Signal |  |  | B | B | B | B | B | B |  |  |  |  |  |  |
+| D17 Headlamp cleaners | UN Regulation No 45 |  | A (1) | A (1) | A (1) | A (1) | A (1) | A (1) |  |  |  |  |  | A |
+| D18 Gear shift indicator |  |  | A |  |  |  |  |  |  |  |  |  |  |  |
+| Requirements concerningE DRIVER AND SYSTEM BEHAVIOUR |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ▼M1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| E1 Alcohol interlock installation facilitation | Commission Delegated Regulation (EU) 2021/1243 (7) |  | B | B | B | B | B | B |  |  |  |  |  |  |
+| ▼M2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| E2 Driver drowsiness and attention warning | Commission Delegated Regulation (EU) 2021/1341 (8) |  | B | B | B | B | B | B |  |  |  |  |  |  |
+| ▼B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| E3 Advanced driver distraction warning |  | Distraction avoidance by technical means may also be taken into consideration | C | C | C | C | C | C |  |  |  |  |  |  |
+| E4 Driver availability monitoring system |  |  | B (5) | B (5) | B (5) | B (5) | B (5) | B (5) |  |  |  |  |  |  |
+| ▼M4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| E5 Event Data Recorder | Commission Delegated Regulation (EU) 2022/545 (10)UN Regulation No 160 |  | B | D | D | B | D | D |  |  |  |  | B |  |
+| ▼B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| E6 Systems to replace driver’s control |  |  | B (5) | B (5) | B (5) | B (5) | B (5) | B (5) |  |  |  |  |  |  |
+| E7 Systems to provide the vehicle with information on state of vehicle and surrounding area |  |  | B (5) | B (5) | B (5) | B (5) | B (5) | B (5) |  |  |  |  |  |  |
+| E8 Platooning |  |  |  | B (1) | B (1) |  | B (1) | B (1) |  |  |  |  |  |  |
+| E9 Systems to provide safety information to other road users |  |  | B (5) | B (5) | B (5) | B (5) | B (5) | B (5) |  |  |  |  |  |  |
+| Requirements concerningF GENERAL VEHICLE CONSTRUCTION AND FEATURES |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| F1 Registration plate space |  |  | A | A | A | A | A | A | A | A | A | A |  |  |
+| F2 Reversing motion |  |  | A | A | A | A | A | A |  |  |  |  |  |  |
+| F3 Door latches and hinges | UN Regulation No 11 |  | A |  |  | A |  |  |  |  |  |  |  |  |
+| F4 Door entry steps, handholds and running boards |  |  | A |  |  | A | A | A |  |  |  |  |  |  |
+| F5 External projections | UN Regulation No 26 |  | A |  |  |  |  |  |  |  |  |  |  |  |
+| F6 External projections of commercial vehicle cabs | UN Regulation No 61 |  |  |  |  | A | A | A |  |  |  |  |  |  |
+| F7 Statutory plate and vehicle identification number |  |  | A | A | A | A | A | A | A | A | A | A |  |  |
+| F8 Towing devices |  |  | A | A | A | A | A | A |  |  |  |  |  |  |
+| F9 Wheel guards |  |  | A |  |  |  |  |  |  |  |  |  |  |  |
+| F10 Spray suppression systems |  |  |  |  |  | A | A | A | A | A | A | A |  |  |
+| F11 Masses and dimensions |  |  | A | A | A | A | A | A | A | A | A | A |  |  |
+| F12 Mechanical couplings | UN Regulation No 55UN Regulation No 102 |  | A (1) | A (1) | A (1) | A (1) | A (1) | A (1) | A | A | A | A | A | A |
+| F13 Vehicles intended for the transportation of dangerous goods | UN Regulation No 105 |  |  |  |  | A | A | A | A | A | A | A |  |  |
+| F14 General bus construction | UN Regulation No 107 |  |  | A | A |  |  |  |  |  |  |  |  |  |
+| F15 Bus strength of superstructure | UN Regulation No 66 |  |  | A | A |  |  |  |  |  |  |  |  |  |
+| F16 Flammability in buses | UN Regulation No 118 |  |  |  | A |  |  |  |  |  |  |  |  | A |
+| (1)Compliance is required if fitted.(2)Vehicles of this category shall be fitted with an adequate windscreen defrosting and demisting device.(3)Vehicles of this category shall be fitted with adequate windscreen washing and wiping devices.►C1 (4)The following vehicles are exempted:— semi-trailer towing vehicles of category N2 with a maximum mass exceeding 3,5 tonnes but not exceeding 8 tonnes,— vehicles of categories M2 and M3 of Class A, Class I and Class II as defined in paragraph 2.1 of UN Regulation No 107,— articulated buses of category M3 of Class A, Class I and Class II as defined in paragraph 2.1 of UN Regulation No 107,— off-road vehicles of categories M2, M3, N2 and N3,— special purpose vehicles of categories M2, M3, N2 and N3, and— vehicles of categories M2, M3, N2 and N3 with more than three axles.** ◄ **(5)Compliance is required in case of automated vehicles.(6)For motor vehicles with hydraulic power assisted steering systems dates in Note C apply. Those vehicles, however, shall be equipped with a lane departure warning system instead.(7)Commission Delegated Regulation (EU) 2021/1243 of 19 April 2021 supplementing Regulation (EU) 2019/2144 of the European Parliament and of the Council by laying down detailed rules concerning the alcohol interlock installation facilitation in motor vehicles and amending Annex II to that Regulation (OJ L 272, p. 11).(8)Commission Delegated Regulation (EU) 2021/1341 of 23 April 2021 supplementing Regulation (EU) 2019/2144 of the European Parliament and of the Council by laying down detailed rules concerning the specific test procedures and technical requirements for the type-approval of motor vehicles with regard to their driver drowsiness and attention warning and amending Annex II to that Regulation (OJ L 292, 16.8.2021, p. 4).(9)Commission Delegated Regulation (EU) 2021/1958 of 23 June 2021 supplementing Regulation (EU) 2019/2144 of the European Parliament and of the Council by laying down detailed rules concerning the specific test procedures and technical requirements for the type-approval of motor vehicles with regard to their intelligent speed assistance systems and for the type-approval of those systems as separate technical units and amending Annex II to that Regulation (OJ L 409, 17.11.2021, p. 1).(10)Commission Delegated Regulation (EU) 2022/545 of 26 January 2022 supplementing Regulation (EU) 2019/2144 of the European Parliament and of the Council by laying down detailed rules concerning the specific test procedures and technical requirements for the type-approval of motor vehicles with regard to their event data recorder and for the type-approval of those systems as separate technical units and amending Annex II to that Regulation (OJ L 107, 5.4.2022, p. 18). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+<a id="anx_iii"></a>
+
+### ANNEX III
+
+
+
+<a id="amendments_to_annex_ii_to_regulation_eu_2018_858"></a>
+
+### Amendments to Annex II to Regulation (EU) 2018/858
+
+Annex II to Regulation (EU) 2018/858 is amended as follows:
+
+(1) references to ‘Regulation (EC) No 661/2009’ are amended as follows: (a) in the table in Part I, in the entry for item 3A, the reference in the third column to ‘Regulation (EC) No 661/2009’ is replaced by the following: ‘Regulation (EU) 2019/2144 of the European Parliament and of the Council (*1) (b) each subsequent reference to ‘Regulation (EC) No 661/2009’ throughout Annex II is replaced by a reference to ‘Regulation (EU) 2019/2144’;
+
+(2) Part I is amended as follows: (a) the table is amended as follows: (i) the following entry is inserted after the entry for item 54A: | ‘55A | Pole side impact | Regulation (EU) 2019/2144UN Regulation No 135 | X |  |  | X’; |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | (ii) the entry for item 58 is replaced by the following: | ‘58 | Pedestrian protection | Regulation (EU) 2019/2144UN Regulation No 127 | X |  |  | X |  |  |  |  |  |  | X’; |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | (iii) the entries for items 62 and 63 are replaced by the following: | ‘62 | Hydrogen system | Regulation (EU) 2019/2144UN Regulation No 134 | X | X | X | X | X | X |  |  |  |  | X |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 63 | General safety | Regulation (EU) 2019/2144 | X(15) | X(15) | X(15) | X(15) | X(15) | X(15) | X(15) | X(15) | X(15) | X(15) | X(15)’; | (iv) the entries for items 65 and 66 are replaced by the following: | ‘65 | Advanced emergency braking system | Regulation (EU) 2019/2144UN Regulation No 131 |  | X | X |  | X | X |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 66 | Lane departure warning system | Regulation (EU) 2019/2144UN Regulation No 130 |  | X | X |  | X | X’; |  |  |  |  |  | (b) the explanatory notes are amended as follows: (i) explanatory notes 3 and 4 are replaced by the following: ‘(3) The fitting of vehicle stability function is required in accordance with Article 4(5) of Regulation (EU) 2019/2144. (4) The fitting of an electronic stability control system is required in accordance with Article 4(5) of Regulation (EU) 2019/2144.’; (ii) explanatory note 9A is replaced by the following: ‘(9A) The fitting of a tyre pressure monitoring system is required in accordance with Article 5(1) of Regulation (EU) 2019/2144.’; (iii) explanatory note 15 is replaced by the following: ‘(15) Compliance with Regulation (EU) 2019/2144 is mandatory. However, type-approval under this specific item is not envisaged as it merely represents the collection of individual items listed elsewhere in the table that make reference to Regulation (EU) 2019/2144.’; (c) in Appendix 1, Table 1 is amended as follows: (i) the entry for item 46A is replaced by the following: | ‘46A | Installation of tyres | Regulation (EU) 2019/2144UN Regulation No 142 |  | B’; |
+| --- | --- | --- | --- | --- | (ii) the entry for item 58 is replaced by the following: | ‘58 | Pedestrian protection | Regulation (EU) 2019/2144UN Regulation No 127 |  | CDate for refusal to grant EU type‐approval:7 January 2026Date for the prohibition of the registration of vehicles:7 July 2034’; |
+| --- | --- | --- | --- | --- | (iii) the entries for items 62 and 63 are replaced by the following: | ‘62 | Hydrogen system | Regulation (EU) 2019/2144UN Regulation No 134 |  | X |
+| --- | --- | --- | --- | --- |
+| 63 | General safety | Regulation (EU) 2019/2144 |  | Compliance with Regulation (EU) 2019/2144 is mandatory. However, type-approval under this specific item is not envisaged as it merely represents the collection of individual items listed elsewhere in the table that make reference to Regulation (EU) 2019/2144.’; | (d) the explanatory note NA to Table 1 of Appendix 1 is replaced by the following: ‘N/A The regulatory act shall not apply. Compliance with one or more specific aspects included in the regulatory act may however be imposed.’; (e) in Appendix 1, Table 2 is amended as follows: (i) the entry for item 46A is replaced by the following: | ‘46A | Installation of tyres | Regulation (EU) 2019/2144UN Regulation No 142 |  | B’; |
+| --- | --- | --- | --- | --- | (ii) the entry for item 58 is replaced by the following: | ‘58 | Pedestrian protection | Regulation (EU) 2019/2144UN Regulation No 127 |  | CDate for refusal to grant EU type‐approval:7 January 2026Date for the prohibition of the registration of vehicles:7 July 2034’; |
+| --- | --- | --- | --- | --- | (iii) the entries for items 62 and 63 are replaced by the following: | ‘62 | Hydrogen system | Regulation (EU) 2019/2144UN Regulation No 134 |  | X |
+| --- | --- | --- | --- | --- |
+| 63 | General safety | Regulation (EU) 2019/2144 |  | Compliance with Regulation (EU) 2019/2144 is mandatory. However, type-approval under this specific item is not envisaged as it merely represents the collection of individual items listed elsewhere in the table that make reference to Regulation (EU) 2019/2144.’; | (f) in Appendix 2, point 4 is amended as follows: (i) the table ‘Part I: Vehicles belonging to category M1’ is amended as follows: — the entry for item 58 is replaced by the following: | ‘58 | UN Regulation No 127Regulation (EU) 2019/2144(Pedestrian protection) | Vehicles shall be fitted with an electronic antilock braking system acting on all wheels.The requirements of UN Regulation No 127 shall apply.Any frontal protection system shall either be an integral part of the vehicle and thus compliant with the requirements of UN Regulation No 127 or be type‐approved as separate technical unit.’; |
+| --- | --- | --- | — the following entry is inserted after the entry for item 61: | ‘62 | UN Regulation No 134Regulation (EU) 2019/2144(Hydrogen system) | The requirements of UN Regulation No 134 shall apply.Alternatively, it shall be demonstrated that the vehicle complies with:— Substantive requirements of Regulation (EC) No 79/2009 in its version applicable on 5 July 2022;— Attachment 100 – Technical Standard For Fuel Systems Of Motor Vehicle Fueled By Compressed Hydrogen Gas (Japan);— GB/T 24549-2009 Fuel cell electric vehicles – safety requirements (China);— International standard ISO 23273:2013 Part 1: Vehicle functional safety and Part 2: Protection against hydrogen hazards for vehicles fuelled with compressed hydrogen; or— SAE J2578 – General Fuel Cell Vehicle Safety’; |
+| --- | --- | --- | (ii) the table ‘Part II Vehicles belonging to category N1’ is amended as follows: — the entry for item 58 is replaced by the following: | ‘58 | UN Regulation No 127Regulation (EU) 2019/2144(Pedestrian protection) | Vehicles shall be fitted with an electronic antilock braking system acting on all wheels.The requirements of UN Regulation No 127 shall apply.Any frontal protection system shall either be an integral part of the vehicle and thus compliant with the requirements of UN Regulation No 127 or be type‐approved as separate technical unit’; |
+| --- | --- | --- | — the following entry is inserted after the entry for item 61: | ‘62 | UN Regulation No 134Regulation (EU) 2019/2144(Hydrogen system) | The requirements of UN Regulation No 134 shall apply.Alternatively, it shall be demonstrated that the vehicle complies with:— Substantive requirements of Regulation (EC) No 79/2009 in its version applicable on 5 July 2022;— Attachment 100 – Technical Standard For Fuel Systems Of Motor Vehicle Fueled By Compressed Hydrogen Gas (Japan);— GB/T 24549-2009 Fuel cell electric vehicles – safety requirements (China);— International standard ISO 23273:2013 Part 1: Vehicle functional safety and Part 2: Protection against hydrogen hazards for vehicles fuelled with compressed hydrogen; or— SAE J2578 – General Fuel Cell Vehicle Safety’; |
+| --- | --- | --- |
+
+(3) in Part II, in the table, the entries for items 58, 65 and 66 are deleted;
+
+(4) Part III is amended as follows: (a) in Appendix 1, the table is amended as follows: (i) the entry for item 58 is replaced by the following: | ‘58 | Pedestrian protection | Regulation (EU) 2019/2144UN Regulation No 127 | X | X’; |  |  |
+| --- | --- | --- | --- | --- | --- | --- | (ii) the entries for items 62 and 63 are replaced by the following: | ‘62 | Hydrogen system | Regulation (EU) 2019/2144UN Regulation No 134 | X | X | X | X |
+| --- | --- | --- | --- | --- | --- | --- |
+| 63 | General safety | Regulation (EU) 2019/2144 | X(15) | X(15) | X(15) | X(15)’; | (iii) the entries for items 65 and 66 are replaced by the following: | ‘65 | Advanced emergency braking system | Regulation (EU) 2019/2144UN Regulation No 131 |  |  | N/A | N/A |
+| --- | --- | --- | --- | --- | --- | --- |
+| 66 | Lane departure warning system | Regulation (EU) 2019/2144UN Regulation No 130 |  |  | N/A | N/A’; | (b) in Appendix 2, the table is amended as follows: (i) the following entry is inserted after the entry for item 54A: | ‘55A | Pole side impact | Regulation (EU) 2019/2144UN Regulation No 135 | N/A |  |  | N/A’; |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | (ii) the entry for item 58 is replaced by the following: | ‘58 | Pedestrian protection | Regulation (EU) 2019/2144UN Regulation No 127 | N/A |  |  | N/A’; |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | (iii) the entries for items 62 and 63 are replaced by the following: | ‘62 | Hydrogen system | Regulation (EU) 2019/2144UN Regulation No 134 | X | X | X | X | X | X |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 63 | General safety | Regulation (EU) 2019/2144 | X(15) | X(15) | X(15) | X(15) | X(15) | X(15) | X(15) | X(15) | X(15) | X(15)’; | (iv) the entries for items 65 and 66 are replaced by the following: | ‘65 | Advanced emergency braking system | Regulation (EU) 2019/2144UN Regulation No 131 |  | N/A | N/A |  | N/A | N/A |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 66 | Lane departure warning system | Regulation (EU) 2019/2144UN Regulation No 130 |  | N/A | N/A |  | N/A | N/A’; |  |  |  |  | (c) Appendix 3 is amended as follows: (i) in the table, the following entry is inserted after the entry for item 54A: | ‘55A | Pole side impact | Regulation (EU) 2019/2144UN Regulation No 135 | N/A’; |
+| --- | --- | --- | --- | (ii) in the table, the entry for item 58 is replaced by the following: | ‘58 | Pedestrian protection | Regulation (EU) 2019/2144UN Regulation No 127 | G’; |
+| --- | --- | --- | --- | (iii) in the table, the entries for items 62 and 63 are replaced by the following: | ‘62 | Hydrogen system | Regulation (EU) 2019/2144UN Regulation No 134 | X |
+| --- | --- | --- | --- |
+| 63 | General safety | Regulation (EU) 2019/2144 | X(15)’; | (iv) the following point is added: ‘5. Points 1 to 4 also apply to vehicles of category M1 that are not categorised as special purpose vehicles but are wheelchair accessible vehicles.’; (d) in Appendix 4, the table is amended as follows: (i) the following entry is inserted after the entry for item 54A: | ‘55A | Pole side impact | Regulation (EU) 2019/2144UN Regulation No 135 |  |  | A’; |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | (ii) the entry for item 58 is replaced by the following: | ‘58 | Pedestrian protection | Regulation (EU) 2019/2144UN Regulation No 127 |  |  | A’; |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | (iii) the entries for items 62, 63, 65 and 66 are replaced by the following: | ‘62 | Hydrogen system | Regulation (EU) 2019/2144UN Regulation No 134 | X | X | X | X | X |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 63 | General safety | Regulation (EU) 2019/2144 | X(15) | X(15) | X(15) | X(15) | X(15) | X(15) | X(15) | X(15) | X(15) |
+| 65 | Advanced emergency braking system | Regulation (EU) 2019/2144UN Regulation No 131 | N/A | N/A |  | N/A | N/A |  |  |  |  |
+| 66 | Lane departure warning system | Regulation (EU) 2019/2144UN Regulation No 130 | N/A | N/A |  | N/A | N/A’; |  |  |  |  | (e) in Appendix 5, in the table, the entries for items 62, 63, 65 and 66 are replaced by the following: | ‘62 | Hydrogen system | Regulation (EU) 2019/2144UN Regulation No 134 | X |
+| --- | --- | --- | --- |
+| 63 | General safety | Regulation (EU) 2019/2144 | X(15) |
+| 65 | Advanced emergency braking system | Regulation (EU) 2019/2144UN Regulation No 131 | N/A |
+| 66 | Lane departure warning system | Regulation (EU) 2019/2144UN Regulation No 130 | N/A’; | (f) in Appendix 6, in the table, the entries for items 62, 63, 65 and 66 are replaced by the following: | ‘62 | Hydrogen system | Regulation (EU) 2019/2144UN Regulation No 134 | X |  |
+| --- | --- | --- | --- | --- |
+| 63 | General safety | Regulation (EU) 2019/2144 | X(15) | X(15) |
+| 65 | Advanced emergency braking system | Regulation (EU) 2019/2144UN Regulation No 131 | N/A |  |
+| 66 | Lane departure warning system | Regulation (EU) 2019/2144UN Regulation No 130 | N/A’; |  | (g) the Explanatory Notes are amended as follows: (i) the explanatory note for X is replaced by the following: ‘X The requirements set out in the relevant regulatory act are applicable.’; (ii) explanatory notes 3 and 4 are replaced by the following: ‘(3) The fitting of vehicle stability function is required in accordance with Article 4(5) of Regulation (EU) 2019/2144. (4) The fitting of an electronic stability control system is required in accordance with Article 4(5) of Regulation (EU) 2019/2144’; (iii) explanatory note 9A is replaced by the following: ‘(9A) Applies only if vehicles are fitted with equipment covered by UN Regulation No 64. However, tyre pressure monitoring system is compulsory in accordance with Article 5(1) of Regulation (EU) 2019/2144’; (iv) explanatory note 15 is replaced by the following: ‘(15) Compliance with Regulation (EU) 2019/2144 is mandatory. However, type-approval under this specific item is not envisaged as it merely represents the collection of individual items listed elsewhere in the relevant table.’; (v) explanatory notes 16 and 17 are deleted.
+
+<a id="anx_iv"></a>
+
+### ANNEX IV
+
+
+
+<a id="transitional_provisions_referred_to_in_article_15_3"></a>
+
+### Transitional provisions referred to in Article 15(3)
+
+| UN Regulation Number | Specific requirements | Final date for registration of non-compliant vehicles as well as sale or entry into service of non-compliant components (1) |
+| --- | --- | --- |
+| 117 | Tyres with regard to rolling sound emissions, adhesion on wet surfaces and rolling resistance | 30 April 2023 |
+| Tyres of class C3 shall comply with Stage 2 rolling resistance requirements |  |  |
+|  |  |  |
+
+(*1) Regulation (EU) 2019/2144 of the European Parliament and of the Council of 27 November 2019 on type-approval requirements for motor vehicles and their trailers, and systems, components and separate technical units intended for such vehicles, as regards their general safety and the protection of vehicle occupants and vulnerable road users, amending Regulation (EU) 2018/858 of the European Parliament and of the Council and repealing Regulations (EC) No 78/2009, (EC) No 79/2009 and (EC) No 661/2009 of the European Parliament and of the Council and Commission Regulations (EC) No 631/2009, (EU) No 406/2010, (EU) No 672/2010, (EU) No 1003/2010, (EU) No 1005/2010, (EU) No 1008/2010, (EU) No 1009/2010, (EU) No 19/2011, (EU) No 109/2011, (EU) No 458/2011, (EU) No 65/2012, (EU) No 130/2012, (EU) No 347/2012, (EU) No 351/2012, (EU) No 1230/2012 and (EU) 2015/166 (OJ L 325, 16.12.2019, p. 1)’;

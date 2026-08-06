@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0294:2017-02-20",
+  "language": "fr",
+  "title": "Commission Regulation (EU) 2017/294 of 20 February 2017 amending Regulation (EC) No 748/2009 on the list of aircraft operators which performed an aviation activity listed in Annex I to Directive 2003/87/EC",
+  "valid_from": "2017-02-20",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0294/versions/2017-02-20/fr.xml",
+    "sha256": "f756c25a3f4709633bf90aed3ad891a8c2051be258abe470e1a58dfeff9417f5",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R0294"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0294:2017-02-20#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL'annexe du règlement (CE) no 748/2009 est remplacée par le texte figurant à l'annexe du présent règlement.",
+      "text_sha256": "d66c43d71773488d0a03853d53d4894faad4e75fcd73e6f6c42046bc707d358c",
+      "md_span": {
+        "start": 750,
+        "end": 874
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0294:2017-02-20#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le troisième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "8268800cea4f256373429e9bd1de08d049f6b567f5fcc49f7c4acf9fbf0e5724",
+      "md_span": {
+        "start": 907,
+        "end": 1048
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

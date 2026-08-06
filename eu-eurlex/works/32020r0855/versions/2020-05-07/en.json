@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32020r0855:2020-05-07",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2020/855 of 7 May 2020 amending Delegated Regulation (EU) 2016/1675 supplementing Directive (EU) 2015/849",
+  "valid_from": "2020-05-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32020r0855/versions/2020-05-07/en.xml",
+    "sha256": "ee9cd773da3418f8d55fb692efe3fb9c2ff4ca77f5d56179b6adc61143e8f883",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0855"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32020r0855:2020-05-07#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn the Annex to Delegated Regulation (EU) 2016/1675, in the table under point ‘I. High-risk third countries which have provided a written high-level political commitment to address the identified deficiencies and have developed an action plan with FATF’, the following lines are deleted:\n\n| 2 | Bosnia-Herzegovina |\n| --- | --- |\n| 3 | Guyana |\n| 5 | Lao PDR |\n| 10 | Ethiopia |\n| 11 | Sri Lanka |\n| 13 | Tunisia |",
+      "text_sha256": "ffb00bce0ff13fd608639440bdb4638e84ac545d962309625fd3cec5859bf4d7",
+      "md_span": {
+        "start": 687,
+        "end": 1112
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32020r0855:2020-05-07#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nIn the Annex to Delegated Regulation (EU) 2016/1675, the table under point ‘I. High-risk third countries which have provided a written high-level political commitment to address the identified deficiencies and have developed an action plan with FATF’ is replaced by the following:\n\n| ‘No | High-risk third country |\n| --- | --- |\n| 1 | Afghanistan |\n| 2 | The Bahamas |\n| 3 | Barbados |\n| 4 | Botswana |\n| 5 | Cambodia |\n| 6 | Ghana |\n| 7 | Iraq |\n| 8 | Jamaica |\n| 9 | Mauritius |\n| 10 | Mongolia |\n| 11 | Myanmar/Burma |\n| 12 | Nicaragua |\n| 13 | Pakistan |\n| 14 | Panama |\n| 15 | Syria |\n| 16 | Trinidad and Tobago |\n| 17 | Uganda |\n| 18 | Vanuatu |\n| 19 | Yemen |\n| 20 | Zimbabwe’ |",
+      "text_sha256": "e28504d7f91ed872f214cc19669e8c62501d1a22cb6574fde34f4add23c326ef",
+      "md_span": {
+        "start": 1145,
+        "end": 1842
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32020r0855:2020-05-07#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nHowever Article 2 shall apply from 1 October 2020.",
+      "text_sha256": "b8c6bfd7650c077c4d710c4b7eed5f41c41d5b2105ba9a29403c7613801f4f9b",
+      "md_span": {
+        "start": 1875,
+        "end": 2078
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

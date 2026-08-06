@@ -1,0 +1,69 @@
+{
+  "lex_work_id": "eu-eurlex:32012r1042",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "art_1": [
+      {
+        "valid_from": "2012-11-07",
+        "valid_to": null,
+        "text_sha256": "d3a957854137965524d92d8c8801ace46c33144182ae62ae71e79ec10e3dadc3",
+        "in_version": "eu-eurlex:32012r1042:2012-11-07"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2012-11-07",
+        "valid_to": null,
+        "text_sha256": "c591411a5b8e3a1d6257d1507abd8c89f638ae50f7e43c6135c180d5a145cd97",
+        "in_version": "eu-eurlex:32012r1042:2012-11-07"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "en": {
+      "art_1": [
+        {
+          "valid_from": "2012-11-07",
+          "valid_to": null,
+          "text_sha256": "d3a957854137965524d92d8c8801ace46c33144182ae62ae71e79ec10e3dadc3",
+          "in_version": "eu-eurlex:32012r1042:2012-11-07"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2012-11-07",
+          "valid_to": null,
+          "text_sha256": "c591411a5b8e3a1d6257d1507abd8c89f638ae50f7e43c6135c180d5a145cd97",
+          "in_version": "eu-eurlex:32012r1042:2012-11-07"
+        }
+      ]
+    },
+    "fr": {
+      "art_1": [
+        {
+          "valid_from": "2012-11-07",
+          "valid_to": null,
+          "text_sha256": "e9d6f14c65b0a736d25590e30146fa5913d77a265f39326163b854eb9830375f",
+          "in_version": "eu-eurlex:32012r1042:2012-11-07"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2012-11-07",
+          "valid_to": null,
+          "text_sha256": "12cf78a3c921d990d5ec149b06cbfa703916567f0fda2e6dc3c14301fbc536be",
+          "in_version": "eu-eurlex:32012r1042:2012-11-07"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r2170:2015-11-24",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2015/2170 of 24 November 2015 amending Directive 2014/24/EU",
+  "valid_from": "2015-11-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r2170/versions/2015-11-24/en.xml",
+    "sha256": "cc59651addc6fc1b010e8a272dac12377b3dd1c3fae651bb42dcce03a25f9e29",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2170"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r2170:2015-11-24#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nDirective 2014/24/EU is amended as follows:\n\n| (1) | Article 4 is amended as follows:(a)in point (a), the amount ‘EUR 5 186 000’ is replaced by ‘EUR 5 225 000’;(b)in point (b), the amount ‘EUR 134 000’ is replaced by ‘EUR 135 000’;(c)in point (c), the amount ‘EUR 207 000’ is replaced by ‘EUR 209 000’; |\n| --- | --- |\n| (a) | in point (a), the amount ‘EUR 5 186 000’ is replaced by ‘EUR 5 225 000’; |\n| (b) | in point (b), the amount ‘EUR 134 000’ is replaced by ‘EUR 135 000’; |\n| (c) | in point (c), the amount ‘EUR 207 000’ is replaced by ‘EUR 209 000’; |\n\n| (2) | the first paragraph of Article 13 is amended as follows:(a)in point (a), the amount ‘EUR 5 186 000’ is replaced by ‘EUR 5 225 000’;(b)in point (b), the amount ‘EUR 207 000’ is replaced by ‘EUR 209 000’. |\n| --- | --- |\n| (a) | in point (a), the amount ‘EUR 5 186 000’ is replaced by ‘EUR 5 225 000’; |\n| (b) | in point (b), the amount ‘EUR 207 000’ is replaced by ‘EUR 209 000’. |",
+      "text_sha256": "821f9cc30d31e46abf58e5460dc5275f4b56f59f698b282d0a3cffc250cca926",
+      "md_span": {
+        "start": 641,
+        "end": 1601
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r2170:2015-11-24#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on 1 January 2016.",
+      "text_sha256": "450f8a74ebf9608d8fbb3248c0f45ec25907782deca1968b4432428bc1889427",
+      "md_span": {
+        "start": 1634,
+        "end": 1702
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

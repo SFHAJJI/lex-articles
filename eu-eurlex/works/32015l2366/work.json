@@ -2,31 +2,62 @@
   "lex_work_id": "eu-eurlex:32015l2366",
   "title": "PSD2 — Directive (EU) 2015/2366",
   "languages": [
-    "en"
+    "en",
+    "fr"
   ],
   "versions": [
+    {
+      "valid_from": "2015-11-25",
+      "valid_to": "2015-12-22",
+      "language": "en",
+      "provisions": 117
+    },
+    {
+      "valid_from": "2015-11-25",
+      "valid_to": "2015-12-22",
+      "language": "fr",
+      "provisions": 117
+    },
     {
       "valid_from": "2015-12-23",
       "valid_to": "2024-04-07",
       "language": "en",
+      "provisions": 117
+    },
+    {
+      "valid_from": "2015-12-23",
+      "valid_to": "2024-04-07",
+      "language": "fr",
       "provisions": 119
     },
     {
       "valid_from": "2024-04-08",
       "valid_to": "2025-01-16",
       "language": "en",
-      "provisions": 120
+      "provisions": 118
+    },
+    {
+      "valid_from": "2024-04-08",
+      "valid_to": "2025-01-16",
+      "language": "fr",
+      "provisions": 118
     },
     {
       "valid_from": "2025-01-17",
       "valid_to": null,
       "language": "en",
-      "provisions": 120
+      "provisions": 118
+    },
+    {
+      "valid_from": "2025-01-17",
+      "valid_to": null,
+      "language": "fr",
+      "provisions": 118
     }
   ],
   "anchors": [
-    "anx_i",
-    "anx_ii",
+    "annexe_i",
+    "annexe_ii",
     "art_1",
     "art_10",
     "art_100",
@@ -144,7 +175,8 @@
     "art_96",
     "art_97",
     "art_98",
-    "art_99"
+    "art_99",
+    "art_premier"
   ],
   "relations": {
     "amends": [],

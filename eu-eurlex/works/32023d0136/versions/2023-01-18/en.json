@@ -1,0 +1,65 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023d0136:2023-01-18",
+  "language": "en",
+  "title": "Decision (EU) 2023/136",
+  "valid_from": "2023-01-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023d0136/versions/2023-01-18/en.xml",
+    "sha256": "4a4d5ad5cb2f9e01e59b7f19820ec46ba49c9598c092d7d43daf623e112e6645",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023D0136"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023d0136:2023-01-18#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn Article 12 of Directive 2003/87/EC, the following paragraphs are added:\n\n‘6. By 30 November 2022, Member States shall notify aircraft operators that, in respect of the year 2021, their offsetting requirements within the meaning of paragraph 3.2.1 of ICAO’s International Standards and Recommended Practices on Environmental Protection for Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA SARPs) amount to zero. Member States shall notify aircraft operators that fulfil the following conditions:\n\n| (a) | the aircraft operators hold an air operator certificate issued by a Member State or are registered in a Member State, including in the outermost regions, dependencies and territories of that Member State; and |\n| --- | --- |\n\n| (b) | they produce annual CO2 emissions greater than 10 000 tonnes from the use of aeroplanes with a maximum certified take-off mass greater than 5 700 kg conducting flights covered by Annex I to this Directive and by Article 2(3) of Commission Delegated Regulation (EU) 2019/1603(*1), other than those departing and arriving in the same Member State, including the outermost regions of that Member State, from 1 January 2021. |\n| --- | --- |\n\nFor the purposes of the first subparagraph, point (b), CO2 emissions from the following types of flights shall not be taken into account:\n\n| (i) | state flights; |\n| --- | --- |\n\n| (ii) | humanitarian flights; |\n| --- | --- |\n\n| (iii) | medical flights; |\n| --- | --- |\n\n| (iv) | military flights; |\n| --- | --- |\n\n| (v) | firefighting flights; |\n| --- | --- |\n\n| (vi) | flights preceding or following a humanitarian, medical or firefighting flight, provided that such flights were conducted with the same aircraft and were required to accomplish the related humanitarian, medical or firefighting activities or to reposition the aircraft after those activities for its next activity. |\n| --- | --- |\n\n7. Pending a legislative act amending this Directive as regards the contribution of aviation to the Union’s economy-wide emission reduction target and appropriately implementing a global market-based measure, and in the event that the period for the transposition of such a legislative act has not expired by 30 November 2023, and the Sector Growth Factor (SGF) for 2022 emissions, to be published by ICAO, equals zero, Member States shall, by 30 November 2023, notify aircraft operators that, in respect of the year 2022, their offsetting requirements within the meaning of paragraph 3.2.1 of ICAO’s CORSIA SARPs amount to zero.",
+      "text_sha256": "5bd4c674febb10cfba92fe2701ccc85b5b9c5202efd3ad50002e378a584ec1ee",
+      "md_span": {
+        "start": 567,
+        "end": 3112
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2023019EN.01000101-E0008",
+          "text": "(*1)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023d0136:2023-01-18#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "0e30e53c56fb5768bd96aa43b71240e343d95f443a0509c4f7b0ae877d5d1b76",
+      "md_span": {
+        "start": 3145,
+        "end": 3284
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

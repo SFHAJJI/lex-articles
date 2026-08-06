@@ -1,0 +1,155 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1646:2022-10-17",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2016/1646 of 13 September 2016 laying down implementing technical standards with regard to main indices and recognised exchanges in accordance with Regulation (EU) No 575/2013",
+  "valid_from": "2022-10-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1646/versions/2022-10-17/fr.html",
+    "sha256": "0ffbc9c95926e157a490e930f7e871ea433cd3f0553949f68e46688b58851f89",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02016R1646-20221017"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32016r1646:2022-10-17#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Indices importants",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les indices importants aux fins de l'article 197, paragraphe 8, point a), du règlement (UE) no 575/2013 sont énumérés à l'annexe I du présent règlement.",
+      "text_sha256": "f1e03702e6755314c5fc06f967f702ebc87a156fd814ac922dcfba5b5966a017",
+      "md_span": {
+        "start": 806,
+        "end": 958
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1646:2022-10-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Marchés reconnus",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les marchés reconnus aux fins de l'article 197, paragraphe 8, point b), du règlement (UE) no 575/2013 sont énumérés à l'annexe II du présent règlement.",
+      "text_sha256": "f9c775454c08e578c98a3daf41c782c75bad3a664542a057e2ca56b642804901",
+      "md_span": {
+        "start": 1014,
+        "end": 1165
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r1646:2022-10-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Entrée en vigueur",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.",
+      "text_sha256": "da0e4117686c9d6e3882a94f07eae340e5b82b475531e056ea9fbf83141c7fed",
+      "md_span": {
+        "start": 1222,
+        "end": 1464
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32022R1650",
+          "text": "32022R1650: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_i",
+      "provision_id": "eu-eurlex:32016r1646:2022-10-17#annexe_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 1503,
+        "end": 1503
+      },
+      "citations": []
+    },
+    {
+      "anchor": "indices_importants_precises_en_vertu_de_l_article_197_du_reglement_ue_no_575_2013",
+      "provision_id": "eu-eurlex:32016r1646:2022-10-17#indices_importants_precises_en_vertu_de_l_article_197_du_reglement_ue_no_575_2013",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "INDICES IMPORTANTS PRÉCISÉS EN VERTU DE L’ARTICLE 197 DU RÈGLEMENT (UE) no 575/2013",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*Tableau 1*\n\n**Indices d’actions**\n\n| Indice | Pays/Région |\n| --- | --- |\n| Austrian Traded Index | Autriche |\n| BEL 20 | Belgique |\n| CETOP20 | Europe centrale |\n| CNX 100 | Inde |\n| CSI 300 Index | Chine |\n| EGX 30 | Égypte |\n| FTSE 350 | Royaume-Uni |\n| FTSE All World Europe | Europe |\n| FTSE All-World Index | Monde |\n| FTSE MIB | Italie |\n| FTSE Nasdaq Dubai UAE 20 Index | Émirats arabes unis |\n| FTSE RAFI Emerging Index | Marchés émergents |\n| FTSE Straits Times Index | Singapour |\n| FTSE/JSE Capped Top 40 | Afrique du Sud |\n| FTSE/JSE Industrial 25 | Afrique du Sud |\n| Hang Seng Mainland 100 Index | Hong Kong |\n| HDAX | Allemagne |\n| IBEX 35 | Espagne |\n| IBOVESPA | Brésil |\n| ISEQ 20 | Irlande |\n| KOSPI 100 | Corée du Sud |\n| MSCI ACWI Index | Monde |\n| MSCI EM 50 | Marchés émergents |\n| NASDAQ-100 | États-Unis |\n| Nikkei 300 | Japon |\n| NYSE ARCA China Index | Chine |\n| OBX | Norvège |\n| OMX Copenhagen 25 | Danemark |\n| OMX Helsinki 25 | Finlande |\n| OMXS60 | Suède |\n| Qatar Exchange General Index | Qatar |\n| S&P 500 | États-Unis |\n| S&P BSE 100 | Inde |\n| S&P Latin America 40 | Amérique latine |\n| S&P/ASX 100 | Australie |\n| S&P/BMV IPC | Mexique |\n| S&P/NZX 10 | Nouvelle-Zélande |\n| S&P/TSX 60 | Canada |\n| SBF 120 | France |\n| SET 50 | Thaïlande |\n| SMI Expanded | Suisse |\n| STOXX Asia/Pacific 600 | Asie/Pacifique |\n| STOXX Europe 600 | Europe |\n| TOPIX Mid 400 | Japon |\n| TSEC Taiwan 50 | Taïwan |\n| WIG20 | Pologne |",
+      "text_sha256": "8f0d0011559ecd0d0207a31a5abd26ec73afa37778f030eedfa1db1629bdfdb0",
+      "md_span": {
+        "start": 1690,
+        "end": 3142
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_ii",
+      "provision_id": "eu-eurlex:32016r1646:2022-10-17#annexe_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 3183,
+        "end": 3183
+      },
+      "citations": []
+    },
+    {
+      "anchor": "marches_reconnus_precises_en_vertu_de_l_article_197_du_reglement_ue_no_575_2013",
+      "provision_id": "eu-eurlex:32016r1646:2022-10-17#marches_reconnus_precises_en_vertu_de_l_article_197_du_reglement_ue_no_575_2013",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "MARCHÉS RECONNUS PRÉCISÉS EN VERTU DE L’ARTICLE 197 DU RÈGLEMENT (UE) no 575/2013",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "*Tableau 1*\n\n**Marchés reconnus sur lesquels les contrats figurant à l’annexe II du règlement (UE) no 575/2013 ne sont pas négociés**\n\n| Marché réglementé | MIC |\n| --- | --- |\n| AIAF — MERCADO DE RENTA FIJA | XDRF, SEND |\n| ATHENS EXCHANGE SECURITIES MARKET | XATH |\n| BADEN-WUERTTEMBERGISCHE WERTPAPIERBOERSE | STUC, STUA |\n| BOERSE BERLIN | BERC, BERA, EQTB, EQTA |\n| BOERSE DUESSELDORF | DUSC, DUSA |\n| BOERSE MUENCHEN | MUNC, MUNA |\n| BOLSA DE BARCELONA | XBAR, SBAR |\n| BOLSA DE BILBAO | XBIL, SBIL |\n| BOLSA DE MADRID | XMAD, MERF |\n| BOLSA DE VALENCIA | XVAL |\n| BONDSPOT SECURITIES MARKET | RPWC |\n| BOURSE DE LUXEMBOURG | XLUX |\n| BRATISLAVA STOCK EXCHANGE | XBRA |\n| BUCHAREST STOCK EXCHANGE | XBSE |\n| BUDAPEST STOCK EXCHANGE | XBUD |\n| BULGARIAN STOCK EXCHANGE — SOFIA JSC | XBUL |\n| CBOE EUROPE | CCXE |\n| CME AMSTERDAM | BTAM |\n| CYPRUS STOCK EXCHANGE | XCYS |\n| ELECTRONIC BOND MARKET | MOTX |\n| ELECTRONIC ETF AND ETC/ETN MARKET – ETFplus | ETFP |\n| ELECTRONIC SECONDARY SECURITIES MARKET | HDAT |\n| ELECTRONIC SHARE MARKET | MTAA |\n| EURONEXT AMSTERDAM | XAMS |\n| EURONEXT BRUSSELS | XBRU |\n| EURONEXT DUBLIN | XMSM |\n| EURONEXT EXPAND | XOAS |\n| EURONEXT LISBON | XLIS |\n| EURONEXT OSLO | XOSL |\n| EURONEXT PARIS | XPAR |\n| FRANKFURTER WERTPAPIERBOERSE (REGULIERTER MARKT) | FRAA, XETA |\n| HANSEATISCHE WERTPAPIERBOERSE HAMBURG (REGULIERTER MARKT) | HAMA, HAMM |\n| LJUBLJANA STOCK EXCHANGE OFFICIAL MARKET | XLJU |\n| MALTA STOCK EXCHANGE | XMAL, IFSM |\n| MARKET FOR INVESTMENT VEHICLES (MIV) | MIVX |\n| MTS GOVERNMENT MARKET | MTSC |\n| NASDAQ COPENHAGEN | XCSE |\n| NASDAQ HELSINKI | XHEL |\n| NASDAQ ICELAND | XICE |\n| NASDAQ RIGA | XRIS |\n| NASDAQ STOCKHOLM | XSTO |\n| NASDAQ TALLINN | XTAL |\n| NASDAQ VILNIUS | XLIT |\n| NIEDERSAECHSISCHE BOERSE ZU HANNOVER (REGULIERTER MARKT) | HANA |\n| NORDIC GROWTH MARKET NGM | XNGM |\n| NXCHANGE | XNXC |\n| PRAGUE STOCK EXCHANGE | XPRA |\n| RM-SYSTEM CZECH STOCK EXCHANGE | XRMZ |\n| TRADEGATE EXCHANGE (REGULIERTER MARKT) | XGRM |\n| VIENNA STOCKEXCHANGE OFFICIAL MARKET (AMTLICHER HANDEL) | WBAH |\n| WARSAW STOCK EXCHANGE | XWAR, WBON, WETP |\n| ZAGREB STOCK EXCHANGE | XZAG |\n| ASX LIMITED | XASX |\n| CHI-X AUSTRALIA PTY LTD | CHIA |\n| THE STOCK EXCHANGE OF HONG KONG LIMITED (SEHK) | SHKG |\n| BOX OPTIONS EXCHANGE LLC | XBOX |\n| CBOE BYX EXCHANGE, INC. (FORMERLY BATS BYX EXCHANGE, INC.; BATS Y-EXCHANGE, INC.) | BATY |\n| CBOE BZX EXCHANGE, INC. (FORMERLY BATS BZX EXCHANGE, INC.; BATS EXCHANGE, INC.) | BATS |\n| CBOE C2 EXCHANGE, INC. | C2OX |\n| CBOE EDGA EXCHANGE, INC. (FORMERLY BATS EDGA EXCHANGE, INC.; EDGA EXCHANGE, INC.) | EDGA |\n| CBOE EDGX EXCHANGE, INC. (FORMERLY BATS EDGX EXCHANGE, INC.; EDGX EXCHANGE, INC.) | EDGX |\n| CBOE EXCHANGE, INC. | CBSX |\n| CHICAGO STOCK EXCHANGE, INC. | XCHI |\n| THE INVESTORS EXCHANGE LLC | IEXG |\n| MIAMI INTERNATIONAL SECURITIES EXCHANGE | XMIO |\n| MIAX PEARL, LLC | MPRL |\n| NASDAQ BX, INC. (FORMERLY NASDAQ OMX BX, INC.; BOSTON STOCK EXCHANGE) | BOSD |\n| NASDAQ GEMX, LLC (FORMERLY ISE GEMINI) | GMNI |\n| NASDAQ ISE, LLC (FORMERLY INTERNATIONAL SECURITIES EXCHANGE, LLC) | XISX |\n| NASDAQ MRX, LLC (FORMERLY ISE MERCURY) | MCRY |\n| NASDAQ PHLX LLC (FORMERLY NASDAQ OMX PHLX, LLC; PHILADELPHIA STOCK EXCHANGE) | XPHL |\n| THE NASDAQ STOCK MARKET | XNAS |\n| NEW YORK STOCK EXCHANGE LLC | XNYS |\n| NYSE ARCA, INC. | ARCX |\n| AQUA SECURITIES L.P. | AQUA |\n| ATS-1 | MSTX |\n| ATS-4 | MSPL |\n| ATS-6 | MSRP |\n| BARCLAYS ATS | BARX |\n| BARCLAYS DIRECTEX | BCDX |\n| BIDS TRADING, L.P. | BIDS |\n| CIOI | CIOI |\n| CITIBLOC | CBLC |\n| CITICROSS | CICX |\n| CODA MARKETS, INC | CODA |\n| CREDIT SUISSE SECURITIES (USA) LLC | CAES |\n| DEUTSCHE BANK SECURITIES, INC | DBSX |\n| EBX LLC | LEVL |\n| INSTINCT X | BAML |\n| INSTINET CONTINUOUS BLOCK CROSSING SYSTEM (CBX) | ICBX |\n| INSTINET, LLC (INSTINET CROSSING, INSTINET BLX) | XINS |\n| INSTINET, LLC (BLOCKCROSS) | BLKX |\n| JPB-X | JPBX |\n| J.P. MORGAN ATS (“JPM-X”) | JPMX |\n| JSVC LLC | () |\n| LIQUIDNET H2O ATS | LIUH |\n| LIQUIDNET NEGOTIATION ATS | LIUS |\n| LUMINEX TRADING & ANALYTICS LLC | LMNX |\n| NATIONAL FINANCIAL SERVICES, LLC | NFSC |\n| POSIT | ITGI |\n| SIGMA X2 | SGMT |\n| SPOT QUOTE LLC | () |\n| SPREAD ZERO LLC | () |\n| UBS ATS | UBSS |\n| USTOCKTRADE | () |\n| VIRTU MATCHIT | VFMI |\n| XE | PJCX |\n| (1)Codes MIC non disponibles dans la norme ISO 10383 «Codes de bourses et marchés réglementés -- Codes d’identification des marchés (MIC)». |  |\n\n*Tableau 2*\n\n**Marchés reconnus sur lesquels les contrats figurant à l’annexe II du règlement (UE) no 575/2013 sont négociés**\n\n| Marché réglementé | MIC |\n| --- | --- |\n| ATHENS EXCHANGE DERIVATIVES MARKET | XADE |\n| BUDAPEST STOCK EXCHANGE | XBUD |\n| CBOE DERIVATIVES | CDEX |\n| EUREX DEUTSCHLAND | XEUR |\n| EURONEXT BRUSSELS DERIVATIVES | XBRD |\n| EURONEXT COM\\, COMMODITIES FUTURES AND OPTIONS | XEUC |\n| EURONEXT EQF\\, EQUITIES AND INDICES DERIVATIVES | XEUE |\n| EUROPEAN ENERGY EXCHANGE | XEEE, XEER |\n| FISH POOL | FISH |\n| HENEX FINANCIAL ENERGY MARKET - DERIVATIVES MARKET | HEDE |\n| HUDEX ENERGY EXCHANGE | HUDX |\n| ICE ENDEX MARKETS | NDEX |\n| ITALIAN DERIVATIVES MARKET | XDMI |\n| MATIF | XMAT |\n| MEFF EXCHANGE | XMRV, XMPW, XMFX |\n| MERCADO DE FUTUROS E OPCOES | MFOX |\n| MONEP | XMON |\n| NASDAQ OSLO | NORX |\n| NASDAQ STOCKHOLM | XSTO |\n| NOREXECO | NEXO |\n| OMIP – POLO PORTUGUES | OMIP |\n| OSLO BØRS | XOSL |\n| WARSAW STOCK EXCHANGE/COMMODITIES/POLISH POWER EXCHANGE/COMMODITY DERIVATIVES | PLPD |\n| WARSAW STOCK EXCHANGE/FINANCIAL DERIVATIVES | WDER |",
+      "text_sha256": "719a808efdfeac86276a689e3d10292f121c189d11a31938bc8c092a3ac7f243",
+      "md_span": {
+        "start": 3366,
+        "end": 8831
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "()"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

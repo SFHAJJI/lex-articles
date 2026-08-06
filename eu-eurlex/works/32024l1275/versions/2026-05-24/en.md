@@ -1,0 +1,903 @@
+---
+lex_id: 'eu-eurlex:32024l1275:2026-05-24'
+title: 'Directive (EU) 2024/1275'
+valid_from: '2026-05-24'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024L1275-20260524'
+source_sha256: '7c354bc20feee1e76a0ed7cac9b68f473daad60c21e5256fb5d13b88acfd168b'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### Article 1 — Subject matter
+
+**1.** This Directive promotes the improvement of the energy performance of buildings and the reduction of greenhouse gas emissions from buildings within the Union, with a view to achieving a zero-emission building stock by 2050, taking into account the outdoor climatic conditions, the local conditions, the requirements for indoor environmental quality, and cost-effectiveness.
+
+**2.** This Directive lays down requirements as regards:(a) the common general framework for a methodology for calculating the integrated energy performance of buildings and building units;(b) the application of minimum energy performance requirements to new buildings and new building units;(c) the application of minimum energy performance requirements to:(i) existing buildings and existing building units that are undergoing major renovation;(ii) building elements that form part of the building envelope and that have a significant impact on the energy performance of the building envelope when they are retrofitted or replaced;(iii) technical building systems where they are installed, replaced or upgraded;(d) the application of minimum energy performance standards to existing buildings and existing building units, in accordance with Articles 3 and 9;(e) the calculation and disclosure of the life-cycle global warming potential of buildings;(f) solar energy in buildings;(g) renovation passports;(h) national building renovation plans;(i) sustainable mobility infrastructure in and adjacent to buildings;(j) smart buildings;(k) energy performance certification of buildings or building units;(l) regular inspection of heating systems, ventilation systems and air-conditioning systems in buildings;(m) independent control systems for energy performance certificates, renovation passports, smart readiness indicators and inspection reports;(n) the indoor environmental quality performance of buildings.
+
+**3.** The requirements laid down in this Directive are minimum requirements and shall not prevent any Member State from maintaining or introducing more stringent measures, provided that such measures are compatible with Union law. Those measures shall be notified to the Commission.
+
+<a id="art_2"></a>
+
+### Article 2 — Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+(1) ‘building’ means a roofed construction having walls, for which energy is used to condition the indoor environment;
+
+(2) ‘zero-emission building’ means a building with a very high energy performance, as determined in accordance with Annex I, requiring zero or a very low amount of energy, producing zero on-site carbon emissions from fossil fuels and producing zero or a very low amount of operational greenhouse gas emissions, in accordance with Article 11;
+
+(3) ‘nearly zero-energy building’ means a building with a very high energy performance, as determined in accordance with Annex I, which is no worse than the 2023 cost-optimal level reported by Member States pursuant to Article 6(2) and where the nearly zero or very low amount of energy required is covered to a very significant extent by energy from renewable sources, including energy from renewable sources produced on-site or energy from renewable sources produced nearby;
+
+(4) ‘minimum energy performance standards’ means rules that require existing buildings to meet an energy performance requirement as part of a wide renovation plan for a building stock or at a trigger point on the market such as sale, rent, donation or change of purpose within the cadastre or land registry, in a period of time or by a specific date, thereby triggering the renovation of existing buildings;
+
+(5) ‘public bodies’ means public bodies as defined in Article 2, point (12), of Directive (EU) 2023/1791;
+
+(6) ‘technical building system’ means technical equipment of a building or building unit for space heating, space cooling, ventilation, domestic hot water, built-in lighting, building automation and control, on-site renewable energy generation and energy storage, or a combination thereof, including those systems using energy from renewable sources;
+
+(7) ‘building automation and control system’ means a system comprising all products, software and engineering services that can support energy-efficient, economical and safe operation of technical building systems through automatic controls and by facilitating the manual management of those technical building systems;
+
+(8) ‘energy performance of a building’ means the calculated or metered amount of energy needed to meet the energy demand associated with a typical use of the building, which includes energy used for heating, cooling, ventilation, domestic hot water and lighting;
+
+(9) ‘primary energy’ means energy from renewable and non-renewable sources which has not undergone any conversion or transformation process;
+
+(10) ‘metered’ means measured by a relevant device, such as an energy meter, a power meter, a power metering and monitoring device, or an electricity meter;
+
+(11) ‘non-renewable primary energy factor’ means an indicator that is calculated by dividing the primary energy from non-renewable sources for a given energy carrier, including the delivered energy and the calculated energy overheads of delivery to the points of use, by the delivered energy;
+
+(12) ‘renewable primary energy factor’ means an indicator that is calculated by dividing the primary energy from renewable sources from an on-site, nearby or distant energy source that is delivered via a given energy carrier, including the delivered energy and the calculated energy overheads of delivery to the points of use, by the delivered energy;
+
+(13) ‘total primary energy factor’ means the sum of renewable and non-renewable primary energy factors for a given energy carrier;
+
+(14) ‘energy from renewable sources’ means energy from renewable non-fossil sources, namely wind, solar (solar thermal and solar photovoltaic) and geothermal energy, osmotic energy, ambient energy, tide, wave and other ocean energy, hydropower, biomass, landfill gas, sewage treatment plant gas, and biogas;
+
+(15) ‘building envelope’ means the integrated elements of a building which separate its interior from the outdoor environment;
+
+(16) ‘building unit’ means a section, floor or apartment within a building which is designed or altered to be used separately;
+
+(17) ‘building element’ means a technical building system or an element of the building envelope;
+
+(18) ‘residential building or building unit’ means a room or suite of rooms in a permanent building or a structurally separated part of a building which is designed for all-year habitation by one private household;
+
+(19) ‘renovation passport’ means a tailored roadmap for the deep renovation of a specific building in a maximum number of steps that will significantly improve its energy performance;
+
+(20) ‘deep renovation’ means a renovation which is in line with the ‘energy efficiency first’ principle, which focuses on essential building elements and which transforms a building or building unit: (a) before 1 January 2030, into a nearly zero-energy building; (b) from 1 January 2030, into a zero-emission building;
+
+(21) ‘staged deep renovation’ means a deep renovation carried out in a maximum number of steps, asset out in a renovation passport;
+
+(22) ‘major renovation’ means the renovation of a building where: (a) the total cost of the renovation relating to the building envelope or the technical building systems is higher than 25 % of the value of the building, excluding the value of the land upon which the building is situated; or (b) more than 25 % of the surface of the building envelope undergoes renovation. Member States may choose to apply point (a) or (b);
+
+(23) ‘operational greenhouse gas emissions’ means greenhouse gas emissions associated with the energy consumption of the technical building systems during the use and operation of the building;
+
+(24) ‘whole-life-cycle greenhouse gas emissions’ means greenhouse gas emissions that occur over the whole life cycle of a building, including the production and transport of construction products, construction-site activities, the use of energy in the building and replacement of construction products, as well as demolition, transport and management of waste materials and their reuse, recycling and final disposal;
+
+(25) ‘life-cycle global warming potential’ or ‘life-cycle GWP’ means an indicator which quantifies the global warming potential contributions of a building along its full life cycle;
+
+(26) ‘split incentives’ means split incentives as defined in Article 2, point (54), of Directive (EU) 2023/1791;
+
+(27) ‘energy poverty’ means energy poverty as defined in Article 2, point (52), of Directive (EU) 2023/1791;
+
+(28) ‘vulnerable households’ means households in energy poverty or households, including lower middle-income households, that are particularly exposed to high energy costs and that lack the means to renovate the building that they occupy;
+
+(29) ‘European standard’ means a standard adopted by the European Committee for Standardization, the European Committee for Electrotechnical Standardization or the European Telecommunications Standards Institute and made available for public use;
+
+(30) ‘energy performance certificate’ means a certificate, recognised by a Member State or by a legal person designated by it, which indicates the energy performance of a building or building unit, calculated in accordance with a methodology adopted pursuant to Article 4;
+
+(31) ‘cogeneration’ means the simultaneous generation in one process of thermal energy and electrical or mechanical energy;
+
+(32) ‘cost-optimal level’ means the energy performance level which leads to the lowest cost during the estimated economic life cycle, where: (a) the lowest cost is determined taking into account: (i) the category and use of the building concerned; (ii) energy-related investment costs on the basis of official forecasts; (iii) maintenance and operating costs, including energy costs taking into account the cost of greenhouse gas allowances; (iv) environmental and health externalities of energy use; (v) earnings from energy produced on-site, where applicable; (vi) waste management costs, where applicable; and (b) the estimated economic life cycle is determined by each Member State and refers to the remaining estimated economic life cycle of a building where energy performance requirements are set for the building as a whole, or to the estimated economic life cycle of a building element where energy performance requirements are set for building elements. The cost-optimal level shall lie within the range of performance levels where the cost-benefit analysis calculated over the estimated economic life cycle is positive;
+
+(33) ‘recharging point’ means a recharging point as defined in Article 2, point (48), of Regulation (EU) 2023/1804 of the European Parliament and of the Council (1);
+
+(34) ‘pre-cabling’ means all measures that are necessary to enable the installation of recharging points, including data transmission, cables, cable routes and, where necessary, electricity meters;
+
+(35) ‘roofed car park’ means a roofed construction, with at least three car parking spaces, that does not use energy to condition the indoor environment;
+
+(36) ‘micro-isolated system’ means any system with consumption less than 500 GWh in the year 2022, where there is no connection with other systems;
+
+(37) ‘smart recharging’ means smart recharging as defined in Article 2, second paragraph, point (14m), of Directive (EU) 2018/2001 of the European Parliament and of the Council (2);
+
+(38) ‘bi-directional recharging’ means bi-directional recharging as defined in Article 2, point (11), of Regulation (EU) 2023/1804;
+
+(39) ‘mortgage portfolio standards’ means mechanisms incentivising mortgage lenders to establish a path to increase the median energy performance of the portfolio of buildings covered by their mortgages towards 2030 and 2050, and to encourage potential clients to improve the energy performance of their property in line with the Union’s decarbonisation ambition and relevant energy targets in the area of energy consumption in buildings, relying on the criteria for determining environmentally sustainable economic activities set out in Article 3 of Regulation (EU) 2020/852;
+
+(40) ‘pay-as-you-save financial scheme’ means a loan scheme dedicated exclusively to energy performance improvements where a correlation is established in the designing of the scheme between the repayments on the loan and the achieved energy savings, also taking into account other economic factors such as the indexation of the energy cost, interest rates, increased asset value and loan re-financing;
+
+(41) ‘digital building logbook’ means a common repository for all relevant building data, including data related to energy performance such as energy performance certificates, renovation passports and smart readiness indicators, as well as data related to the life-cycle GWP, which facilitates informed decision making and information sharing within the construction sector, and among building owners and occupants, financial institutions and public bodies;
+
+(42) ‘air-conditioning system’ means a combination of the components required to provide a form of indoor air treatment, by which temperature is controlled or can be lowered;
+
+(43) ‘heating system’ means a combination of the components required to provide a form of indoor air treatment, by which the temperature is increased;
+
+(44) ‘ventilation system’ means the technical building system which provides outdoor air to a space by natural or mechanical means;
+
+(45) ‘heat generator’ means the part of a heating system that generates useful heat for uses identified in Annex I, using one or more of the following processes: (a) the combustion of fuels in, for example, a boiler; (b) the Joule effect, taking place in the heating elements of an electric resistance heating system; (c) capturing heat from ambient air, ventilation exhaust air, or a water or ground heat source using a heat pump;
+
+(46) ‘cooling generator’ means the part of an air-conditioning system that generates useful cooling for uses identified in Annex I;
+
+(47) ‘energy performance contracting’ means energy performance contracting as defined in Article 2, point (33), of Directive (EU) 2023/1791;
+
+(48) ‘boiler’ means the combined boiler body-burner unit, designed to transmit to fluids the heat released from burning;
+
+(49) ‘effective rated output’ means the maximum calorific output, expressed in kW, specified and guaranteed by the manufacturer as being deliverable during continuous operation while complying with the useful efficiency indicated by the manufacturer;
+
+(50) ‘district heating’ or ‘district cooling’ means the distribution of thermal energy in the form of steam, hot water or chilled liquids, from a central or decentralised source of production through a network to multiple buildings or sites, for the use of space or process heating or cooling;
+
+(51) ‘useful floor area’ means the area of the floor of a building needed as parameter to quantify specific conditions of use that are expressed per unit of floor area and for the application of the simplifications and the zoning and allocation or re-allocation rules;
+
+(52) ‘reference floor area’ means the floor area used as reference size for the assessment of the energy performance of a building, calculated as the sum of the useful floor areas of the spaces within the building envelope specified for the energy performance assessment;
+
+(53) ‘assessment boundary’ means the boundary where the delivered energy and exported energy are measured or calculated;
+
+(54) ‘on-site’ means in or on a particular building or on the land on which that building is located;
+
+(55) ‘energy from renewable sources produced nearby’ means energy from renewable sources, produced within a local or district-level perimeter of a particular building, which fulfils all of the following conditions: (a) it can be distributed and used only within that local and district-level perimeter through a dedicated distribution network; (b) it allows for the calculation of a specific primary energy factor valid only for the energy from renewable sources produced within that local or district-level perimeter; and (c) it can be used on-site through a dedicated connection to the energy production source, where that dedicated connection requires specific equipment for the safe supply and metering of energy for self-use of the building;
+
+(56) ‘services related to the energy performance of buildings’ or ‘EPB services’ means the services, such as heating, cooling, ventilation, domestic hot water and lighting and others for which the energy use is taken into account in the calculation of the energy performance of buildings;
+
+(57) ‘energy needs’ means the energy to be delivered to, or extracted from, a conditioned space to maintain the intended space conditions during a given period of time, disregarding any technical building system inefficiencies;
+
+(58) ‘energy use’ or ‘energy consumption’ means energy input to a technical building system providing an EPB service intended to satisfy an energy need;
+
+(59) ‘self-use’ means the use of energy from renewable sources produced on-site or energy from renewable sources produced nearby by on-site technical systems for EPB services;
+
+(60) ‘other on-site uses’ means on-site uses other than EPB services, including appliances, miscellaneous and ancillary loads, or electro-mobility recharging points;
+
+(61) ‘calculation interval’ means the discrete time interval used for the calculation of the energy performance;
+
+(62) ‘delivered energy’ means energy, expressed per energy carrier, supplied to the technical building systems through the assessment boundary, to satisfy the uses taken into account or to produce the exported energy;
+
+(63) ‘exported energy’ means the proportion of the renewable energy, expressed per energy carrier and per primary energy factor, that is exported to the energy grid instead of being used on-site for self-use or for other on-site uses;
+
+(64) ‘bicycle parking space’ means a designated space for parking at least one bicycle;
+
+(65) ‘car park physically adjacent to a building’ means a car park which is intended for the use of residents, visitors or workers of a building and which is located within the property area of the building or is in the direct vicinity of the building;
+
+(66) ‘indoor environmental quality’ means the result of an assessment of the conditions inside a building that influence the health and wellbeing of its occupants, based upon parameters such as those relating to the temperature, humidity, ventilation rate and presence of contaminants.
+
+<a id="art_3"></a>
+
+### Article 3 — National building renovation plan
+
+**1.** Each Member State shall establish a national building renovation plan to ensure the renovation of the national stock of residential and non-residential buildings, both public and private, into a highly energy-efficient and decarbonised building stock by 2050, with the objective to transform existing buildings into zero-emission buildings.
+
+**2.** Each national building renovation plan shall include:(a) an overview of the national building stock for different building types, including their share in the national building stock, construction periods and climatic zones, based, as appropriate, on statistical sampling and the national database for energy performance certificates pursuant to Article 22, an overview of market barriers and market failures and an overview of the capacities in the construction, energy efficiency and renewable energy sectors, and of the share of vulnerable households based, as appropriate, on statistical sampling;(b) a roadmap with nationally established targets and measurable progress indicators, including the reduction of the number of people affected by energy poverty, with a view to achieving the 2050 climate neutrality goal, in order to ensure a highly energy-efficient and decarbonised national building stock and the transformation of existing buildings into zero-emission buildings by 2050;(c) an overview of implemented and planned policies and measures, supporting the implementation of the roadmap pursuant to point (b);(d) an outline of the investment needs for the implementation of the national building renovation plan, the financing sources and measures, and the administrative resources for building renovation;(e) the thresholds for the operational greenhouse gas emissions and annual primary energy demand of a new or renovated zero-emission building pursuant to Article 11;(f) minimum energy performance standards for non-residential buildings on the basis of maximum energy performance thresholds pursuant to Article 9(1);(g) national trajectory for the renovation of the residential building stock, including the 2030 and 2035 milestones for average primary energy use in kWh/(m2.y) pursuant to Article 9(2); and(h) an evidence-based estimate of expected energy savings and wider benefits, including those related to indoor environmental quality.
+
+The roadmap referred to in point (b) of this paragraph shall include national targets for 2030, 2040 and 2050 as regards the annual energy renovation rate, the primary and final energy consumption of the national building stock and its operational greenhouse gas emission reductions; specific timelines for non-residential buildings to comply with lower maximum energy performance thresholds pursuant to Article 9(1), by 2040 and 2050, in line with the pathway for transforming the national building stock into zero-emission buildings; and an evidence-based estimate of expected energy savings and wider benefits, including those related to indoor environmental quality.
+
+Where an overview of specific policies and measures as referred to in point (c) or an outline of specific investment needs as referred to in point (d) is already included in the national energy and climate plans, a clear reference to the relevant parts of the national energy and climate plans may be included in the building renovation plan in place of a fully developed overview.
+
+**3.** Every five years, each Member State shall prepare and submit to the Commission its draft national building renovation plan, using the template set out in Annex II to this Directive. Each Member State shall submit its draft national building renovation plan as part of its draft integrated national energy and climate plan referred to in Article 9 of Regulation (EU) 2018/1999 and, where the Member States submits a draft update, as part of the draft update referred to in Article 14 of that Regulation.
+
+Notwithstanding the first subparagraph, Member States shall submit the first draft building renovation plan to the Commission by 31 December 2025.
+
+**4.** To support the development of its national building renovation plan, each Member State shall carry out a public consultation on its draft national building renovation plan prior to submitting it to the Commission. The public consultation shall involve in particular local and regional authorities and other socioeconomic partners, including civil society and bodies working with vulnerable households. Each Member State shall annex a summary of the results of its public consultation to its draft national building renovation plan. The public consultation may be integrated as part of the public consultation undertaken pursuant to Article 10 of Regulation (EU) 2018/1999.
+
+**5.** The Commission shall assess the draft national building renovation plans submitted pursuant to paragraph 3, in particular with regard to whether:(a) the level of ambition of the nationally established targets is sufficient and in line with the national commitments on climate and energy laid down in the national integrated energy and climate plans;(b) the policies and measures are sufficient to achieve the nationally established targets;(c) the allocation of budgetary and administrative resources is sufficient for the implementation of the plan;(d) the financing sources and measures referred to in paragraph 2, first subparagraph, point (d), of this Article are in line with the planned reduction of energy poverty referred to in paragraph 2, first subparagraph, point (b), of this Article;(e) the plans prioritise the renovation of worst-performing buildings in accordance with Article 9;(f) the public consultation pursuant to paragraph 4 has been sufficiently inclusive; and(g) the plans comply with the requirements of paragraph 1 and the template in Annex II.
+
+After consulting the Committee established by Article 33 of this Directive, the Commission may issue country-specific recommendations to Member States in accordance with Article 9(2) and Article 34 of Regulation (EU) 2018/1999.
+
+With regard to the first draft national building renovation plan, the Commission may issue country-specific recommendations to Member States no later than six months after the Member State has submitted that plan.
+
+**6.** In its national building renovation plan, each Member State shall take due account of any recommendations issued by the Commission on the draft national building renovation plan. If the Member State concerned does not address a recommendation or a substantial part thereof, it shall provide reasons to the Commission and shall make those reasons public.
+
+**7.** Every five years, each Member State shall submit its national building renovation plan to the Commission, using the template set out in Annex II to this Directive. Each Member State shall submit its national building renovation plan as part of its integrated national energy and climate plan referred to in Article 3 of Regulation (EU) 2018/1999 and, where a Member State submits an update, as part of the update referred to in Article 14 of that Regulation.
+
+Notwithstanding the first subparagraph, Member States shall submit the first national building renovation plan to the Commission by 31 December 2026.
+
+**8.** Each Member State shall annex the details of the implementation of its most recent long-term renovation strategy or national building renovation plan to its next national building renovation plan, indicating whether its national targets have been achieved.
+
+**9.** Each Member State shall include in its integrated national energy and climate progress reports, in accordance with Articles 17 and 21 of Regulation (EU) 2018/1999, information on the implementation of the national targets referred to in paragraph 2, point (b), of this Article. Every two years, the Commission shall include in its annual State of the Energy Union report submitted pursuant to Article 35 of Regulation (EU) 2018/1999, an overall progress report on the renovation of the national stock of residential and non-residential buildings, both public and private, in line with the roadmaps set out in the building renovation plans, based upon the information submitted by the Member States in their integrated national energy and climate progress reports. The Commission shall monitor annually the evolution of the energy performance of the Union building stock, on the basis of best available information from Eurostat and other sources, and publish the information through the EU Building Stock Observatory.
+
+<a id="art_4"></a>
+
+### Article 4 — Adoption of a methodology for calculating the energy performance of buildings
+
+Member States shall apply a methodology for calculating the energy performance of buildings in accordance with the common general framework set out in Annex I. That methodology shall be adopted at national or regional level.
+
+The Commission shall issue guidance for the calculation of the energy performance of transparent building elements that form part of the building envelope and the consideration of ambient energy.
+
+<a id="art_5"></a>
+
+### Article 5 — Setting of minimum energy performance requirements
+
+**1.** Member States shall take the necessary measures to ensure that minimum energy performance requirements for buildings or building units are set with a view to at least achieving cost-optimal levels and, where relevant, more stringent reference values such as nearly zero-energy building requirements and zero-emission buildings requirements. The energy performance shall be calculated in accordance with the methodology referred to in Article 4. Cost-optimal levels shall be calculated in accordance with the comparative methodology framework referred to in Article 6.
+
+Member States shall take the necessary measures to ensure that minimum energy performance requirements are set for building elements that form part of the building envelope and that have a significant impact on the energy performance of the building envelope when they are replaced or retrofitted, with a view to achieving at least cost-optimal levels. Member States may set the requirements for building elements at a level that would facilitate the effective installation of low temperature heating systems in renovated buildings.
+
+When setting requirements, Member States may differentiate between new and existing buildings and between different categories of building.
+
+Those requirements shall take account of optimal indoor environmental quality, in order to avoid possible negative effects such as inadequate ventilation, as well as local conditions and the designated function and the age of the building.
+
+Member States shall review their minimum energy performance requirements at regular intervals which shall not be longer than five years and shall, if necessary, update them in order to reflect technical progress in the building sector, the results of the cost-optimal calculation set out in Article 6, and updated national energy and climate targets and policies.
+
+**2.** Member States may adapt the requirements referred to in paragraph 1 to buildings officially protected at national, regional or local level, as part of a designated environment or because of their special architectural or historical merit, in so far as compliance with certain requirements would unacceptably alter their character or appearance.
+
+**3.** Member States may decide not to set or apply the requirements referred to in paragraph 1 to the following categories of building:(a) buildings owned by the armed forces or central government and serving national defence purposes, apart from single living quarters or office buildings for the armed forces and other staff employed by national defence authorities;(b) buildings used as places of worship and for religious activities;(c) temporary buildings with a time of use of two years or less, industrial sites, workshops and non-residential agricultural buildings with low energy demand and non-residential agricultural buildings which are used by a sector covered by a national sectoral agreement on energy performance;(d) residential buildings which are used or intended to be used for either less than four months of the year or, alternatively, for a limited annual time of use and with an expected energy consumption of less than 25 % of what would be the result of all-year use;(e) stand-alone buildings with a total useful floor area of less than 50 m2.
+
+<a id="art_6"></a>
+
+### Article 6 — Calculation of cost-optimal levels of minimum energy performance requirements
+
+**1.** The Commission is empowered to adopt delegated acts in accordance with Article 32 to supplement this Directive concerning the establishment and revision of a comparative methodology framework for calculating cost-optimal levels of minimum energy performance requirements for buildings and building elements.
+
+By 30 June 2025, the Commission shall revise the comparative methodology framework for calculating cost-optimal levels of minimum energy performance requirements in new buildings and existing buildings undergoing major renovation and for individual building elements. Those levels shall be in line with the national pathways set out in the national energy and climate plans submitted to the Commission pursuant to Article 14 of Regulation (EU) 2018/1999.
+
+The comparative methodology framework shall be laid down in accordance with Annex VII and shall differentiate between new and existing buildings and between different categories of building.
+
+**2.** Member States shall calculate cost-optimal levels of minimum energy performance requirements using the comparative methodology framework established in accordance with paragraph 1 and relevant parameters, such as climatic conditions and the practical accessibility of energy infrastructure, and compare the results of that calculation with the minimum energy performance requirements in force. When calculating the cost-optimal levels of minimum energy performance requirements, Member States may take into account the life-cycle GWP.
+
+Member States shall report to the Commission all input data and assumptions used for the calculations of cost-optimal levels of minimum energy performance requirements and the results of those calculations. To that end Member States shall use the template provided in Annex III to the Commission Delegated Regulation (EU) No 244/2012 (3). Member States shall update and submit those reports to the Commission at regular intervals, which shall not be longer than five years. The first report on the calculations on the basis of the revised methodology framework pursuant to paragraph 1 of this Article shall be submitted by 30 June 2028.
+
+**3.** If the result of the comparison performed in accordance with paragraph 2 shows that the minimum energy performance requirements in force in a Member State are less energy-efficient than cost-optimal levels of minimum energy performance requirements by more than 15 %, the Member State concerned shall adjust the minimum energy performance requirements in place within 24 months of the availability of the results of that comparison.
+
+**4.** The Commission shall publish a report on the progress of the Member States in reaching cost-optimal levels of minimum energy performance requirements.
+
+<a id="art_7"></a>
+
+### Article 7 — New buildings
+
+**1.** Member States shall ensure that new buildings are zero-emission buildings in accordance with Article 11:(a) from 1 January 2028, new buildings owned by public bodies; and(b) from 1 January 2030, all new buildings;
+
+Until the application of the requirements under the first subparagraph, Member States shall ensure that all new buildings are at least nearly zero-energy buildings and meet the minimum energy performance requirements laid down in accordance with Article 5. Where public bodies intend to occupy a new building that they do not own, they shall aim for that building to be a zero-emission building.
+
+**2.** Member States shall ensure that the life-cycle GWP is calculated in accordance with Annex III and disclosed in the energy performance certificate of the building:(a) from 1 January 2028, for all new buildings with a useful floor area larger than 1 000 m2;(b) from 1 January 2030, for all new buildings.
+
+**3.** The Commission is empowered to adopt delegated acts in accordance with Article 32 to amend Annex III to set out a Union framework for the national calculation of life-cycle GWP with a view to achieving climate neutrality. The first such delegated act shall be adopted by 31 December 2025.
+
+**4.** Member States may decide not to apply paragraphs 1 and 2 to buildings for which building permit applications or equivalent applications, including for change of use, have already been submitted by the dates pursuant to paragraphs 1 and 2.
+
+**5.** By 1 January 2027, Member States shall publish and notify to the Commission a roadmap detailing the introduction of limit values on the total cumulative life-cycle GWP of all new buildings and set targets for new buildings from 2030, considering a progressive downward trend, as well as maximum limit values, detailed for different climatic zones and building typologies.
+
+Those maximum limit values shall be in line with the Union’s objective of achieving climate neutrality.
+
+The Commission shall issue guidance, share evidence on existing national policies and offer technical support to Member States, at their request.
+
+**6.** Member States shall address, in relation to new buildings, the issues of optimal indoor environmental quality, adaptation to climate change, fire safety, risks related to intense seismic activity and accessibility for persons with disabilities. Member States shall also address carbon removals associated to carbon storage in or on buildings.
+
+<a id="art_8"></a>
+
+### Article 8 — Existing buildings
+
+**1.** Member States shall take the necessary measures to ensure that, when buildings undergo major renovation, the energy performance of the building or the renovated part thereof is upgraded in order to meet minimum energy performance requirements set in accordance with Article 5 in so far as technically, functionally and economically feasible.
+
+Those requirements shall be applied to the renovated building or building unit as a whole. Additionally or alternatively, requirements may be applied to the renovated building elements.
+
+**2.** Member States shall in addition take the necessary measures to ensure that, when a building element that forms part of the building envelope and has a significant impact on the energy performance of the building envelope is retrofitted or replaced, the energy performance of the building element meets minimum energy performance requirements in so far as technically, functionally and economically feasible.
+
+**3.** Member States shall, in relation to buildings undergoing major renovation, encourage high-efficiency alternative systems, in so far as technically, functionally and economically feasible. Member States shall address, in relation to buildings undergoing major renovation, the issues of indoor environmental quality, adaptation to climate change, fire safety, risks related to intense seismic activity, the removal of hazardous substances including asbestos and accessibility for persons with disabilities.
+
+<a id="art_9"></a>
+
+### Article 9 — Minimum energy performance standards for non-residential buildings and trajectories for progressive renovation of the residential building stock
+
+**1.** Member States shall establish minimum energy performance standards for non-residential buildings which ensure that those buildings do not exceed the specified maximum energy performance threshold, as referred to in the third subparagraph, expressed by a numeric indicator of primary or final energy use in kWh/(m2.y), by the dates specified in the fifth subparagraph.
+
+The maximum energy performance thresholds shall be established on the basis of the non-residential building stock on 1 January 2020, based on available information and, where appropriate, on statistical sampling. Member States shall exclude from the baseline non-residential buildings that they exempt pursuant to paragraph 6.
+
+Each Member State shall set a maximum energy performance threshold to the effect that 16 % of its national non-residential building stock is above that threshold (the ‘16 % threshold’). Each Member State shall also set a maximum energy performance threshold to the effect that 26 % of its national non-residential building stock is above that threshold (the ‘26 % threshold’). Member States may set the maximum energy performance thresholds with reference to the national non-residential building stock as a whole or per building type or category of building.
+
+Member States may set the thresholds at a level corresponding to a specific energy performance class, provided that they comply with the third subparagraph.
+
+The minimum energy performance standards shall ensure, at least, that all non-residential buildings are below:
+
+(a) the 16 % threshold from 2030; and
+
+(b) the 26 % threshold from 2033.
+
+Compliance of individual non-residential buildings with the thresholds shall be checked on the basis of energy performance certificates or, where appropriate, other available means.
+
+In their roadmaps as referred to in Article 3(1), point (b), Member States shall establish specific timelines for non-residential buildings to comply with lower maximum energy performance thresholds by 2040 and 2050, in line with the pathway for transforming the national building stock into zero-emission buildings.
+
+Member States may establish and publish criteria to exempt individual non-residential buildings, in light of the expected future use of those buildings, in light of serious hardship or in the case of an unfavourable cost-benefit assessment, from requirements in this paragraph. Any such criteria shall be clear, precise and stringent and shall ensure equal treatment between non-residential buildings. When establishing those criteria Member States shall enable the *ex ante* assessment of the potential share of non-residential buildings covered and shall avoid a disproportionate number of non-residential buildings from being exempted. Member States shall also report on the criteria as part of their national building renovation plans submitted to the Commission pursuant to Article 3.
+
+Where Member States establish criteria for exemptions pursuant to the eighth subparagraph, they shall achieve equivalent energy performance improvements in other parts of the non-residential building stock.
+
+Where the overall renovation necessary to achieve the energy performance thresholds specified in this paragraph has an unfavourable cost-benefit assessment for a given non-residential building, Member States shall require that, for that given non-residential building, at least those individual renovation measures with a favourable cost-benefit assessment are implemented.
+
+To the extent that the national non-residential building stock, or part of it, is seriously damaged by a natural disaster, a Member State may temporarily adjust the maximum energy performance threshold so that the energy renovation of damaged non-residential buildings replaces the energy renovation of other worst-performing non-residential buildings, whilst ensuring that a similar percentage of the non-residential building stock undergoes energy renovation. In that case, the Member State shall report the adjustment and its projected length in its national building renovation plan.
+
+**2.** By 29 May 2026, each Member State shall establish a national trajectory for the progressive renovation of the residential building stock in line with the national roadmap and the 2030, 2040 and 2050 targets contained in the Member State’s national building renovation plan and with the aim of transforming the national building stock into a zero-emission building stock by 2050. The national trajectory for the progressive renovation of the residential building stock shall be expressed as a decrease in the average primary energy use in kWh/(m2.y) of the entire residential building stock over the period from 2020 to 2050, and shall identify the number of residential buildings and residential building units or floor area to be renovated annually, including the number or floor area of the 43 % worst-performing residential buildings and residential building units.
+
+Member States shall ensure that the average primary energy use in kWh/(m2.y) of the entire residential building stock:
+
+(a) decreases by at least 16 % compared to 2020 by 2030;
+
+(b) decreases by at least 20-22 % compared to 2020 by 2035;
+
+(c) by 2040, and every 5 years thereafter, is equivalent to, or lower than the nationally determined value derived from a progressive decrease in the average primary energy use from 2030 to 2050, in line with the transformation of the residential building stock into a zero-emission building stock.
+
+Member States shall ensure that at least 55 % of the decrease in the average primary energy use referred to in the third subparagraph is achieved through the renovation of the 43 % worst-performing residential buildings. Member States may count the decrease in the average primary energy use achieved by the renovation of residential buildings affected by natural disasters such as earthquakes and floods towards the share achieved by means of the renovation of the 43 % worst-performing residential buildings.
+
+In their renovation efforts to achieve the required decrease in the average primary energy use of the entire residential building stock, Member States shall put in place measures such as minimum energy performance standards, technical assistance and financial support measures.
+
+In their renovation efforts, Member States shall not disproportionately exempt rental residential buildings or building units.
+
+Member States shall report in the national building renovation plans the methodology used and data gathered for estimating the values referred to in the second and third subparagraphs. As part of the assessment of national building renovation plans, the Commission shall monitor the achievement of the values referred to in the second and third subparagraphs, including the number of buildings and building units or floor area of the 43 % worst-performing residential buildings, and make recommendations where necessary. Those recommendations may include a more extensive use of minimum energy performance standards.
+
+The national trajectory for the progressive renovation of the residential building stock shall refer to data on the national residential building stock, based, as appropriate, on statistical sampling and energy performance certificates.
+
+If the average fossil share of energy use in residential buildings is lower than 15 %, Member States may adjust the levels laid down in the points (a) and (b) of the third subparagraph, to ensure that the average primary energy use in kWh/(m2.y) of the entire residential building stock by 2030, and every five years thereafter, is equivalent to, or lower than a nationally determined value derived from a linear decrease in the average primary energy use from 2020 to 2050, in line with the transformation of the residential building stock into a zero-emission building stock.
+
+**3.** In addition to primary energy use referred to in paragraphs 1 and 2 of this Article, Member States may establish additional indicators of non-renewable and renewable primary energy use, and of operational greenhouse gas emissions produced in kgCO2eq/(m2.y). In order to ensure reduction of operational greenhouse gas emissions, minimum energy performance standards shall take into account Article 15a(1) of Directive (EU) 2018/2001.
+
+**4.** In accordance with Article 17, Member States shall support compliance with minimum energy performance standards by all of the following measures:(a) providing appropriate financial measures, in particular those targeting vulnerable households, people affected by energy poverty or, where applicable, living in social housing, in accordance with Article 24 of Directive (EU) 2023/1791;(b) providing technical assistance, including through one-stop shops with a particular focus on vulnerable households and, where applicable, people living in social housing, in accordance with Article 24 of Directive (EU) 2023/1791;(c) designing integrated financing schemes which provide incentives for deep renovations and staged deep renovations, pursuant to Article 17;(d) removing non-economic barriers, including split incentives; and(e) monitoring social impacts, in particular on the most vulnerable households.
+
+**5.** Where a building is renovated in order to comply with a minimum energy performance standard, Member States shall ensure compliance with the minimum energy performance requirements for building elements pursuant to Article 5 and, in the case of major renovation, with the minimum energy performance requirements for existing buildings pursuant to Article 8.
+
+**6.** Member States may decide not to apply the minimum energy performance standards referred to in paragraphs 1 and 2 to the following categories of building:(a) buildings officially protected as part of a designated environment or because of their special architectural or historical merit, or other heritage buildings, in so far as compliance with the standards would unacceptably alter their character or appearance, or if their renovation is not technically or economically feasible;(b) buildings used as places of worship and for religious activities;(c) temporary buildings with a time of use of two years or less, industrial sites, workshops and non-residential agricultural buildings with low energy demand and non-residential agricultural buildings which are used by a sector covered by a national sectoral agreement on energy performance;(d) residential buildings which are used or intended to be used for either less than four months of the year or, alternatively, for a limited annual time of use and with an expected energy consumption of less than 25 % of what would be the result of all-year use;(e) stand-alone buildings with a total useful floor area of less than 50 m2;(f) buildings owned by the armed forces or central government and serving national defence purposes, apart from single living quarters or office buildings for the armed forces and other staff employed by national defence authorities.
+
+**7.** Member States shall take the measures necessary to ensure the implementation of minimum energy performance standards referred to in paragraphs 1 and 2 of this Article, including appropriate monitoring mechanisms and penalties in accordance with Article 34.
+
+When laying down the rules on penalties, Member States shall take into account the financial situation and access to adequate financial support of homeowners, in particular for vulnerable households.
+
+**8.** By 31 March 2025, the Commission shall, in support of the implementation of this Directive and taking due account of the principle of subsidiarity, present an analysis with particular regard to:(a) the effectiveness of, the appropriateness of the level of, the actual amount used from, and the types of instrument used with regard to structural funds and Union framework programmes, including funding from the European Investment Bank, for improving the energy performance of buildings, especially in housing;(b) the effectiveness of, the appropriateness of the level of, and the types of instrument and types of measure used with regard to funds from public finance institutions;(c) the coordination of Union and national funding and other types of measure that can act as leverage for stimulating investments in the energy performance of buildings, and the adequacy of such funding for achieving Union objectives.
+
+On the basis of that analysis, the Commission shall submit a report to the European Parliament and to the Council on the effectiveness and appropriateness of financing instruments towards the improvement of the energy performance of buildings, in particular the worst-performing ones.
+
+<a id="art_10"></a>
+
+### Article 10 — Solar energy in buildings
+
+**1.** Member States shall ensure that all new buildings are designed to optimise their solar energy generation potential on the basis of the solar irradiance of the site, enabling the subsequent cost-effective installation of solar technologies.
+
+**2.** The permit-granting procedure for the installation of solar energy equipment set out in Article 16d of Directive (EU) 2018/2001, and simple-notification procedure for grid connections set out in Article 17 of that Directive shall apply to the installation of solar energy equipment on buildings.
+
+**3.** Member States shall ensure the deployment of suitable solar energy installations, if technically suitable and economically and functionally feasible, as follows:(a) by 31 December 2026, on all new public and non-residential buildings with useful floor area larger than 250 m2;(b) on all existing public buildings with useful floor area larger than:(i) 2 000 m2, by 31 December 2027;(ii) 750 m2, by 31 December 2028;(iii) 250 m2, by 31 December 2030;(c) by 31 December 2027, on existing non-residential buildings with useful floor area larger than 500 m2, where the building undergoes a major renovation or an action that requires an administrative permit for building renovations, works on the roof or the installation of a technical building system;(d) by 31 December 2029, on all new residential buildings; and(e) by 31 December 2029, on all new roofed car parks physically adjacent to buildings.
+
+In their national building renovation plans referred to in Article 3, Member States shall include policies and measures with regard to the deployment of suitable solar energy installations on all buildings.
+
+**4.** Member States shall establish, and make publicly available, criteria at national level for the practical implementation of the obligations set out in this Article, and for possible exemptions from those obligations for specific types of building, taking into account the principle of technological neutrality with regard to technologies not producing any on-site emissions and in accordance with the assessed technical and economic potential of the solar energy installations and the characteristics of the buildings covered by this obligation. Member States shall also take into account structural integrity, green roofs, and attic and roof insulation, where appropriate.
+
+In order to achieve the objectives of this Article and to take into account the issues linked to the stability of the electricity network, Member States shall include relevant stakeholders in the establishment of the criteria referred to in the first subparagraph of this paragraph.
+
+In the transposition of the obligations set out in the first subparagraph of paragraph 3, a Member State may use the measurement of buildings’ ground floor area instead of buildings’ useful floor area, provided that the Member State shows that this results in an equivalent amount of installed capacity of suitable solar energy installations on buildings.
+
+**5.** Member States shall put in place a framework providing the necessary administrative, technical and financial measures to support the deployment of solar energy in buildings, including in combination with technical building systems or efficient district heating systems.
+
+<a id="art_11"></a>
+
+### Article 11 — Zero-emission buildings
+
+**1.** A zero-emission building shall not cause any on-site carbon emissions from fossil fuels. A zero-emission building shall, where economically and technically feasible, offer the capacity to react to external signals and adapt its energy use, generation or storage.
+
+**2.** Member States shall take the necessary measures to ensure that the energy demand of a zero-emission building complies with a maximum threshold.
+
+Member States shall set that maximum threshold for the energy demand of a zero-emission building with a view to achieving at least the cost-optimal levels established in the most recent national cost-optimal report pursuant to Article 6. Member States shall revise the maximum threshold every time that the cost-optimal levels are revised.
+
+**3.** The maximum threshold for the energy demand of a zero-emission building shall be at least 10 % lower than the threshold for total primary energy use established at Member State level for nearly zero-energy buildings on 28 May 2024.
+
+**4.** Member States may adjust the maximum threshold for the energy demand of a zero-emission building for renovated buildings, while complying with the respective provisions on cost optimality, and, where thresholds for renovated nearly zero-energy buildings have been established, the requirements of paragraph 3.
+
+**5.** Member States shall take the necessary measures to ensure that the operational greenhouse gas emissions of a zero-emission building comply with a maximum threshold established at the Member State level in their national building renovation plans. That maximum threshold may be set at different levels for new and renovated buildings.
+
+**6.** Member States shall notify the Commission about their maximum thresholds, including a description of the calculation methodology per building type and relevant outdoor climate designation, in accordance with Annex I. The Commission shall review the maximum thresholds and recommend their adaptation where appropriate.
+
+**7.** Member States shall ensure that the total annual primary energy use of a new or renovated zero-emission building is covered by:(a) energy from renewable sources generated on-site or nearby, fulfilling the criteria laid down in Article 7 of Directive (EU) 2018/2001;(b) energy from renewable sources provided from a renewable energy community within the meaning of Article 22 of Directive (EU) 2018/2001;(c) energy from an efficient district heating and cooling system in accordance with Article 26(1) of Directive (EU) 2023/1791; or(d) energy from carbon-free sources.
+
+Where it is not technically or economically feasible to fulfil the requirements laid down in this paragraph, the total annual primary energy use may also be covered by other energy from the grid complying with criteria established at national level.
+
+<a id="art_12"></a>
+
+### Article 12 — Renovation passport
+
+**1.** By 29 May 2026, Member States shall introduce a scheme for renovation passports based on the common framework set out in Annex VIII.
+
+**2.** The scheme referred to in paragraph 1 shall be of voluntary use by owners of buildings and building units, unless the Member State decides to make it mandatory.
+
+Member States shall take measures to ensure that renovation passports are affordable and shall consider whether to provide financial support to vulnerable households wishing to renovate their buildings.
+
+**3.** Member States may allow for the renovation passport to be drawn up and issued jointly with the energy performance certificate.
+
+**4.** The renovation passport shall be issued in a digital format suitable for printing, by a qualified or certified expert, following an on-site visit.
+
+**5.** When the renovation passport is issued, a discussion with the expert referred to in paragraph 4 shall be suggested to the building owner to allow the expert to explain the best steps by which to transform the building into a zero-emission building well before 2050.
+
+**6.** Member States shall strive to provide a dedicated digital tool by means of which to prepare and, where appropriate, update the renovation passport. Member States may develop a complementary tool allowing building owners and building managers to simulate a draft simplified renovation passport and for them to update it once a renovation takes place or a building element is replaced.
+
+**7.** Member States shall ensure that the renovation passport can be uploaded to the national database for the energy performance of buildings set up pursuant to Article 22.
+
+**8.** Member States shall ensure that the renovation passport is stored in, or can be accessed via, where available, the digital building logbook.
+
+<a id="art_13"></a>
+
+### Article 13 — Technical building systems
+
+**1.** Member States shall, for the purpose of optimising the energy use of technical building systems, set system requirements, using energy-saving technologies, in respect of the overall energy performance, the proper installation, the appropriate dimensioning, adjustment and control and, where appropriate, the hydronic balancing of the technical building systems which are installed in new or existing buildings. When setting up the requirements, Member States shall take account of design conditions and typical or average operating conditions.
+
+System requirements shall be set for new and for the replacement and upgrading of existing technical building systems and shall be applied in so far as technically, economically and functionally feasible.
+
+Member States may set requirements related to the greenhouse gas emissions of, or to the type of fuel used by heat generators or to the minimum part of renewable energy used for heating at building’s level, provided that such requirements do not constitute an unjustified market barrier.
+
+Member States shall ensure that the requirements they set for technical building systems reach at least the latest cost-optimal levels.
+
+**2.** Member States may set specific system requirements for technical building systems in order to facilitate the effective installation and operation of low temperature heating systems in new or renovated buildings.
+
+**3.** Member States shall require new buildings, where technically and economically feasible, to be equipped with self-regulating devices for the separate regulation of the temperature in each room or, where justified, in a designated heated or cooled zone of the building unit and, where appropriate, with hydronic balancing. The installation of such self-regulating devices and, where appropriate, hydronic balancing in existing buildings shall be required when heat generators or cooling generators are replaced, where technically and economically feasible.
+
+**4.** Member States shall set requirements for the implementation of adequate indoor environmental quality standards in buildings in order to maintain a healthy indoor climate.
+
+**5.** Member States shall require non-residential zero-emission buildings to be equipped with measuring and control devices for the monitoring and regulation of indoor air quality. In existing non-residential buildings, the installation of such devices shall be required, where technically and economically feasible, when a building undergoes a major renovation. Member States may require the installation of such devices in residential buildings.
+
+**6.** Member States shall ensure that, when a technical building system is installed, the overall energy performance of the altered part and, where relevant, of the complete altered system is assessed. The results shall be documented and passed on to the building owner, so that they remain available and can be used for the verification of compliance with the minimum requirements laid down pursuant to paragraph 1 and the issue of energy performance certificates.
+
+Member States shall take the necessary measures to ensure that the energy performance of technical building systems is optimised where they are retrofitted or replaced.
+
+Member States shall promote energy storage for renewable energy in buildings.
+
+Member States may provide for new incentives and funding to encourage the switch from fossil-fuel-based heating and cooling systems to non-fossil-fuel-based heating and cooling systems.
+
+**7.** Member States shall strive to replace stand-alone boilers powered by fossil fuels in existing buildings, in line with the national phase-out plans for fossil fuel boilers.
+
+**8.** The Commission shall issue guidance on what qualifies as a fossil fuel boiler.
+
+**9.** Member States shall lay down requirements to ensure that, where technically and economically feasible, non-residential buildings are equipped with building automation and control systems, as follows:(a) by 31 December 2024, non-residential buildings with an effective rated output for heating systems, air-conditioning systems, systems for combined space heating and ventilation, or systems for combined air conditioning and ventilation of over 290 kW;(b) by 31 December 2029, non-residential buildings with an effective rated output for heating systems, air-conditioning systems, systems for combined space heating and ventilation, or systems for combined air conditioning and ventilation of over 70 kW.
+
+**10.** The building automation and control systems shall be capable of:(a) continuously monitoring, logging, analysing and allowing for adjusting energy use;(b) benchmarking the building’s energy efficiency, detecting losses in efficiency of technical building systems, and informing the person responsible for the facilities or technical building management about opportunities for energy efficiency improvement;(c) allowing communication with connected technical building systems and other appliances inside the building, and being interoperable with technical building systems across different types of proprietary technologies, devices and manufacturers;(d) by 29 May 2026 monitoring of indoor environmental quality.
+
+**11.** Member States shall lay down requirements to ensure that, where technically, economically and functionally feasible, from 29 May 2026, new residential buildings and residential buildings undergoing major renovations are equipped with the following:(a) the functionality of continuous electronic monitoring that measures systems’ efficiency and informs building owners or managers in the case of a significant variation and when system servicing is necessary;(b) effective control functionalities to ensure optimum generation, distribution, storage, use of energy and, where applicable, hydronic balance;(c) a capacity to react to external signals and adjust the energy consumption.
+
+Member States may exclude single-family houses undergoing major renovations from the requirements laid down in this paragraph where the costs of installation exceed the benefits.
+
+**12.** Member States shall lay down requirements to ensure that, where technically and economically feasible, non-residential buildings with an effective rated output for heating systems, air-conditioning systems, systems for combined space heating and ventilation, or systems for combined air conditioning and ventilation of:(a) over 290 kW are equipped with automatic lighting controls by 31 December 2027;(b) over 70 kW are equipped with automatic lighting controls by 31 December 2029.
+
+The automatic lighting controls shall be suitably zoned and capable of occupancy detection.
+
+<a id="art_14"></a>
+
+### Article 14 — Infrastructure for sustainable mobility
+
+**1.** With regard to new non-residential buildings with more than five car parking spaces and non-residential buildings undergoing major renovation, with more than five car parking spaces, Member States shall ensure:(a) the installation of at least one recharging point for every five car parking spaces;(b) the installation of pre-cabling for at least 50 % of car parking spaces and ducting, namely conduits for electric cables, for the remaining car parking spaces, to enable the installation at a later stage of recharging points for electric vehicles, electrically power-assisted cycles and other L-category vehicle types; and(c) the provision of bicycle parking spaces representing at least 15 % of average or 10 % of total user capacity of non-residential buildings, taking into account the space required also for bicycles with larger dimensions than standard bicycles.
+
+The first subparagraph shall apply where:
+
+(a) the car park is located inside the building, and, for major renovations, renovation measures include the car park or the electrical infrastructure of the building; or
+
+(b) the car park is physically adjacent to the building, and, for major renovations, renovation measures include the car park or the electrical infrastructure of the car park.
+
+Member States shall ensure that the pre-cabling and ducting referred to in point (b) of the first subparagraph are dimensioned so as to enable the simultaneous and efficient use of the required number of recharging points and support, where appropriate, the installation of a load or recharging management system, to the extent that this is technically and economically feasible and justifiable.
+
+By way of derogation from point (a) of the first subparagraph, for new office buildings and office buildings undergoing major renovation, with more than five parking spaces, Member States shall ensure the installation of at least one recharging point for every two parking spaces.
+
+**2.** With regard to all non-residential buildings with more than 20 car parking spaces, Member States shall, by 1 January 2027, ensure:(a) the installation of at least one recharging point for every 10 car parking spaces, or of ducting, namely conduits for electric cables, for at least 50 % of the car parking spaces to enable the installation at a later stage of recharging points for electric vehicles; and(b) the provision of bicycle parking spaces representing at least 15 % of average or 10 % of total user capacity of the building and with space required also for bicycles with larger dimensions than standard bicycles.
+
+For buildings owned or occupied by public bodies, Member States shall ensure the installation of pre-cabling for at least 50 % of car parking spaces by 1 January 2033.
+
+Member States may postpone the implementation of this requirement until 1 January 2029 for all non-residential buildings that have been renovated in the two years prior to 28 May 2024 in order to comply with the national requirements established in accordance with Article 8(3) of Directive 2010/31/EU.
+
+**3.** Member States may adjust requirements for the number of bicycle parking spaces in accordance with paragraphs 1 and 2 for specific categories of non-residential buildings that are not typically accessed by bicycles.
+
+**4.** With regard to new residential buildings with more than three car parking spaces and residential buildings undergoing major renovation, with more than three car parking spaces, Member States shall ensure:(a) the installation of pre-cabling for at least 50 % of car parking spaces and ducting, namely conduits for electric cables, for the remaining car parking spaces to enable the installation, at a later stage, of recharging points for electric vehicles, electrically power-assisted cycles and other L-category vehicle types; and(b) the provision of at least two bicycle parking spaces for every residential building unit.
+
+With regard to new residential buildings with more than three car parking spaces, Member States shall also ensure the installation of at least one recharging point.
+
+The first and second subparagraphs shall apply where:
+
+(a) the car park is located inside the building, and, for major renovations, renovation measures include the car park or the electric infrastructure of the building; or
+
+(b) the car park is physically adjacent to the building, and, for major renovations, renovation measures include the car park or the electrical infrastructure of the car park.
+
+By way of derogation from the first subparagraph, Member States may, subject to an assessment by local authorities and taking into account local characteristics, including demographical, geographical and climate conditions, adjust requirements for the number of bicycle parking spaces.
+
+Member States shall ensure that the pre-cabling referred to in point (a) of the first subparagraph is dimensioned to enable the simultaneous use of recharging points on all parking spaces. Where, in the case of major renovation, ensuring two bicycle parking spaces for every residential building unit is not feasible, Member States shall ensure as many bicycle parking spaces as appropriate.
+
+**5.** Member States may decide not to apply paragraphs 1, 2 and 4 of this Article to specific categories of building where:(a) the recharging infrastructure required would rely on micro-isolated systems or the buildings are situated in the outermost regions within the meaning of Article 349 TFEU where this would lead to substantial problems for the operation of the local energy system and would endanger the stability of the local grid; or(b) the cost of the recharging and ducting installations exceeds at least 10 % of the total cost of the major renovation of the building.
+
+**6.** Member States shall ensure that the recharging points referred to in paragraphs 1, 2 and 4 of this Article are capable of smart recharging and, where appropriate, bi-directional recharging and that they are operated on the basis of non-proprietary and non-discriminatory communication protocols and standards, in an interoperable manner, and in compliance with any European standards and delegated acts adopted pursuant to Article 21(2) and (3) of Regulation (EU) 2023/1804.
+
+**7.** Member States shall encourage that operators of non-publicly accessible recharging points operate them in accordance with Article 5(4) of Regulation (EU) 2023/1804, where applicable.
+
+**8.** Member States shall provide for measures in order to simplify, streamline and accelerate the procedure for the installation of recharging points in new and existing, residential and non-residential buildings, especially of co-owners’ associations, and remove regulatory barriers, including permitting and approval procedures from public authorities without prejudice to the property and tenancy law of the Member States. Member States shall remove barriers to the installation of recharging points in residential buildings with parking spaces, in particular the need to obtain consent from the landlord or co-owners for a private recharging point for own use. A request by tenants or co-owners to be allowed to install recharging infrastructure in a parking space may be refused only if there are serious and legitimate grounds for doing so.
+
+Without prejudice to their property and tenancy law, Member States shall assess administrative barriers regarding the application for the installation of a recharging point in a building with multiple residential building units at a tenants’ or a co-owners’ association.
+
+Member States shall ensure the availability of technical assistance for building owners and tenants wishing to install recharging points and bicycle parking spaces.
+
+With regard to residential buildings, Member States shall consider whether to introduce support schemes for the installation of recharging points, pre-cabling or ducting of parking spaces in line with the number of battery electric light-duty vehicles registered in their territory.
+
+**9.** Member States shall ensure the coherence of policies for buildings, active and green mobility, climate, energy, biodiversity and urban planning.
+
+**10.** By 31 December 2025, the Commission shall publish guidance for fire safety in car parks.
+
+<a id="art_15"></a>
+
+### Article 15 — Smart readiness of buildings
+
+**1.** The Commission shall adopt delegated acts in accordance with Article 32 to supplement this Directive concerning an optional common Union scheme for rating the smart readiness of buildings. The rating shall be based on an assessment of the capabilities of a building or building unit to adapt its operation to the needs of the occupant, in particular concerning indoor environmental quality and the grid and to improve its energy efficiency and overall performance.
+
+In accordance with Annex IV, the optional common Union scheme for rating the smart readiness of buildings shall lay down:
+
+(a) the definition of the smart readiness indicator;
+
+(b) a methodology by which it is to be calculated.
+
+**2.** By 30 June 2026, the Commission shall submit a report to the European Parliament and the Council on the testing and implementation of the smart readiness indicator on the basis of the available results of the national test phases and other relevant projects.
+
+Taking into account the outcome of that report, the Commission shall, by 30 June 2027, adopt a delegated act in accordance with Article 32, supplementing this Directive by requiring the application of the common Union scheme for rating the smart readiness of buildings, in accordance with Annex IV, to non-residential buildings with an effective rated output for heating systems, air-conditioning systems, systems for combined space heating and ventilation, or systems for combined air-conditioning and ventilation of over 290 kW.
+
+**3.** The Commission shall, after having consulted the relevant stakeholders, adopt an implementing act detailing the technical arrangements for the effective implementation of the scheme referred to in paragraph 1 of this Article, including a timeline for a non-committal test phase at national level, and clarifying the complementary relation of the scheme to the energy performance certificates referred to in Article 19.
+
+That implementing act shall be adopted in accordance with the examination procedure referred to in Article 33(3).
+
+**4.** Provided that the Commission has adopted the delegated act referred to in paragraph 2, it shall, by 30 June 2027, adopt an implementing act detailing the technical arrangements for the effective implementation of the application of the scheme referred to in paragraph 2 to non-residential buildings with an effective rated output for heating systems, air-conditioning systems, systems for combined space heating and ventilation, or systems for combined air-conditioning and ventilation of over 290 kW.
+
+That implementing act shall be adopted in accordance with the examination procedure referred to in Article 33(3).
+
+<a id="art_16"></a>
+
+### Article 16 — Data exchange
+
+**1.** Member States shall ensure that the building owners, tenants and managers can have direct access to their building systems’ data. Upon their consent, the access or data shall be made available to a third party, subject to the existing applicable rules and agreements. Member States shall facilitate the full interoperability of services and of data exchange within the Union in accordance with paragraph 5.
+
+For the purposes of this Directive, building systems’ data shall include at least all readily available data related to the energy performance of building elements, the energy performance of building services, the projected lifespan of the heating systems, where available, building automation and control systems, meters, measuring and control devices and recharging points for e-mobility and be linked, where available, to the digital building logbook.
+
+**2.** When laying down the rules regarding the management and exchange of data, taking into account the international standards and management format to data exchange, Member States or, where a Member State has so provided, the designated competent authorities, shall comply with the applicable Union law. The rules on the access and any charges shall not constitute a barrier or create discrimination for third parties to access building systems’ data.
+
+**3.** No additional costs shall be charged to the building owner, tenant or manager for access to their data or for a request to make their data available to a third party subject to the existing applicable rules and agreements. Member States shall be responsible for setting the relevant charges for access to data by other eligible parties such as financial institutions, aggregators, energy suppliers, energy services providers and national statistical institutes or other national authorities responsible for the development, production and dissemination of European statistics. Member States or, where applicable, the designated competent authorities, shall ensure that any charges imposed by regulated entities that provide data services are reasonable and duly justified. Member States shall incentivise the sharing of the relevant building systems’ data.
+
+**4.** The rules on access to data and data storage for the purposes of this Directive shall comply with the relevant Union law. The processing of personal data within the framework of this Directive shall be carried out in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council (4).
+
+**5.** By 31 December 2025, the Commission shall adopt implementing acts detailing interoperability requirements and non-discriminatory and transparent procedures for access to the data.
+
+Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 33(2).
+
+The Commission shall issue a consultation strategy, setting out consultation objectives, targeted stakeholders and the consultation activities for the development of the implementing acts.
+
+<a id="art_17"></a>
+
+### Article 17 — Financial incentives, skills and market barriers
+
+**1.** Member States shall provide appropriate financing, support measures and other instruments able to address market barriers in order to deliver the necessary investments identified in their national building renovation plan to transform their building stock into zero-emission buildings by 2050.
+
+**2.** Member States shall ensure that applications and procedures for public financing are simple and streamlined in order to facilitate access to financing, especially for households.
+
+**3.** Member States shall assess and, where appropriate, address barriers related to up-front costs of renovations.
+
+**4.** When designing financial support schemes for building renovation, Member States shall consider whether to use revenue-based parameters.
+
+Member States may use the national energy efficiency funds, where such funds are set up pursuant to Article 30 of Directive (EU) 2023/1791, to finance dedicated schemes and programmes for energy performance renovations.
+
+**5.** Member States shall take appropriate regulatory measures to remove non-economic barriers to building renovation. With regard to buildings with more than one building unit, such measures may include removing unanimity requirements in co-ownership structures, or allowing co-ownership structures to be direct recipients of financial support.
+
+**6.** Member States shall make best cost-effective use of national financing and financing available established at Union level, in particular the Recovery and Resilience Facility, the Social Climate Fund, the Cohesion fund, InvestEU, auctioning revenues from emission trading pursuant to Directive 2003/87/EC of the European Parliament and of the Council (5) and other public funding sources. Those funding sources shall be deployed consistently with a path to achieving a zero-emission building stock by 2050.
+
+**7.** To support the mobilisation of investments, Member States shall promote the effective development and use of enabling funding and financial tools, such as energy efficiency loans and mortgages for building renovation, energy performance contracting, pay-as-you-save financial schemes, fiscal incentives, for example reduced tax rates on renovation works and materials, on-tax schemes, on-bill schemes, guarantee funds, funds targeting deep renovations, funds targeting renovations with a significant minimum threshold of targeted energy savings and mortgage portfolio standards. They shall guide investments into an energy-efficient public building stock, in line with Eurostat guidance on the recording of energy performance contracts in government accounts.
+
+Member States may also promote and simplify the use of public-private partnerships.
+
+**8.** Member States shall ensure that information about available funding and financial tools is made available to the public in an easily accessible and transparent manner, including by digital means.
+
+**9.** The enabling funding and financial tools may include renovation loans or guarantee funds for energy performance renovations, including in combination with relevant Union programmes, where applicable.
+
+**10.** By 29 May 2025, the Commission shall adopt a delegated act in accordance with Article 32 supplementing this Directive by establishing a comprehensive portfolio framework for voluntary use by financial institutions that supports lenders in targeting and increasing lending volumes provided in accordance with the Union’s decarbonisation ambition and relevant energy targets, in order to effectively encourage financial institutions to increase lending volumes provided for energy performance renovations. The actions set out in the comprehensive portfolio framework shall cover increasing lending volumes for energy renovations and shall include suggested safeguards to protect vulnerable households through blended funding solutions. The framework shall describe best practices to encourage lenders to identify and act upon the worst-performing buildings within their portfolios.
+
+**11.** Member States shall facilitate the aggregation of projects to enable investor access as well as packaged solutions for potential clients.
+
+Member States shall adopt measures that promote energy efficiency lending products for building renovations, such as green mortgages and green loans, secured and unsecured, and ensure that they are offered widely and in a non-discriminatory manner by financial institutions and, are visible and accessible to consumers. Member States shall ensure that banks and other financial institutions and investors receive information on opportunities to participate in the financing of the improvement of the energy performance of buildings.
+
+**12.** Member States shall put in place measures and financing to promote education and training with a view to ensuring that there is a sufficient workforce with the appropriate level of skills corresponding to the needs in the building sector, especially targeting SMEs, including microenterprises, as appropriate. One-stop shops established pursuant to Article 18 may facilitate access to such measures and financing.
+
+**13.** The Commission shall, where appropriate and upon request, assist Member States in setting up national or regional financial support programmes with the aim of increasing the energy performance of buildings, especially of existing buildings, including by supporting the exchange of best practice between the responsible national or regional authorities or bodies. Member States shall ensure that such programmes are developed in a way that they are accessible to organisations with lower administrative, financial, and organisational capacities.
+
+**14.** With due regard to vulnerable households, Member States shall link their financial measures for energy performance improvements and reduced greenhouse gas emissions in the renovation of buildings to the targeted or achieved energy savings and improvements, as determined by one or more of the following criteria:(a) the energy performance of the equipment or material used for the renovation and the related greenhouse gas emission reduction; in which case, the equipment or material used for the renovation is to be installed by an installer with the relevant level of certification or qualification and shall comply with at least minimum energy performance requirements for building elements or higher reference values for an improved energy performance of buildings;(b) standard values for the calculation of energy savings and greenhouse gas emission reduction in buildings;(c) the improvement achieved due to such renovation by comparing energy performance certificates issued before and after renovation;(d) the results of an energy audit;(e) the results of another relevant, transparent and proportionate method that shows the improvement in energy performance, for example by comparing the energy consumption before and after renovation with metering systems, provided it complies with the requirements set out in Annex I.
+
+**15.** From 1 January 2025, Member States shall not provide any financial incentives for the installation of stand-alone boilers powered by fossil fuels, with the exception of those selected for investment, before 2025, in accordance with Regulation (EU) 2021/241, Article 7(1), point (h)(i), third indent, of Regulation (EU) 2021/1058 and with Article 73 of Regulation (EU) 2021/2115 of the European Parliament and of the Council (6).
+
+**16.** Member States shall incentivise deep renovation and staged deep renovation with higher financial, fiscal, administrative and technical support. Where it is not technically or economically feasible to transform a building into a zero-emission building, a renovation resulting in at least a 60 % reduction of primary energy use shall be considered to be a deep renovation for the purposes of this paragraph. Member States shall incentivise sizeable programmes that address a high number of buildings, in particular the worst-performing buildings, such as through integrated district renovation programmes, and that result in an overall reduction of at least 30 % of primary energy use, with higher financial, fiscal, administrative and technical support, according to the level of performance achieved.
+
+**17.** Without prejudice to their national economic and social policies and to their systems of property law, Member States shall address the eviction of vulnerable households caused by disproportionate rent increases following energy renovation of their residential building or building unit.
+
+**18.** Financial incentives shall target, as a priority, vulnerable households, people affected by energy poverty and people living in social housing, in accordance with Article 24 of Directive (EU) 2023/1791.
+
+**19.** When providing financial incentives to owners of buildings or building units for the renovation of rented buildings or building units, Member States shall aim at financial incentives benefiting both the owners and the tenants. Member States shall introduce effective safeguards, to protect in particular vulnerable households, including by providing rent support or by imposing caps on rent increases, and may incentivise financial schemes that tackle the upfront costs of renovations, such as on-bill schemes, pay-as-you-save schemes or energy performance contracting, as referred to in point (33) of Article 2 and Article 29 of Directive (EU) 2023/1791.
+
+<a id="art_18"></a>
+
+### Article 18 — One-stop shops for the energy performance of buildings
+
+**1.** Member States shall, in cooperation with competent authorities, and, where appropriate, private stakeholders, ensure the establishment and the operation of technical assistance facilities, including through inclusive one-stop shops for the energy performance of buildings, targeting all actors involved in building renovations, inter alia, home owners and administrative, financial and economic actors, such as SMEs, including microenterprises.
+
+Member States shall ensure that technical assistance facilities are available across their territory by establishing at least one one-stop shop:
+
+(a) per 80 000 inhabitants;
+
+(b) per region;
+
+(c) in areas where the average age of the building stock is above the national average;
+
+(d) in areas where Member States intend to implement integrated district renovation programmes; or
+
+(e) in a location that can be reached within less than 90 minutes of average travel time, on the basis of the means of transport that is locally available.
+
+Member States may designate the one-stop shops established pursuant to Article 22(3), point (a), of Directive (EU) 2023/1791 as one-stop shops for the purposes of this Article.
+
+The Commission shall provide guidelines to establish those one-stop shops in accordance with Article 22(6) of Directive (EU) 2023/1791.
+
+**2.** The technical assistance facilities established pursuant to paragraph 1, shall:(a) provide streamlined information on technical and financial possibilities and solutions to households, SMEs including microenterprises, and public bodies;(b) provide holistic support to all households, with a particular focus on households affected by energy poverty and on worst-performing buildings, as well as to accredited companies and installers providing retrofit services, adapted to different housing typologies and geographical scope, and provide support covering the different stages of the retrofit project.
+
+**3.** One-stop shops established pursuant to paragraph 1 shall:(a) provide independent advice on the energy performance of buildings and may accompany integrated district renovation programmes;(b) offer dedicated services for vulnerable households, people affected by energy poverty and people in low-income households.
+
+<a id="art_19"></a>
+
+### Article 19 — Energy performance certificates
+
+**1.** Member States shall lay down the necessary measures to establish a system of certification of the energy performance of buildings.
+
+The energy performance certificate shall include the energy performance of a building expressed by a numeric indicator of primary energy use in kWh/(m2.y), and reference values such as minimum energy performance requirements, minimum energy performance standards, nearly zero-energy building requirements and zero-emission building requirements, in order to make it possible for owners or tenants of the building or building unit to compare and assess its energy performance.
+
+**2.** By 29 May 2026, the energy performance certificate shall comply with the template in Annex V. It shall specify the energy performance class of the building, on a closed scale using only letters from A to G. The letter A shall correspond to zero-emission buildings, and the letter G shall correspond to the very worst-performing buildings in the national building stock at the time of the introduction of the scale. Member States that, on 29 May 2026, already designate zero-emission buildings as ‘A0’ may continue to use that designation instead of class A. Member States shall ensure that the remaining classes (B to F or, where A0 is used, A to F) have an appropriate distribution of energy performance indicators among the energy performance classes.
+
+Member States may define an A+ energy performance class corresponding to buildings with a maximum threshold for energy demand which is at least 20 % lower than the maximum threshold for zero-emission buildings, and which generates more renewable energy on-site annually than its total annual primary energy demand. For existing buildings renovated to A+ class, Member States shall ensure that the life-cycle GWP is estimated and disclosed in the energy performance certificate of the building.
+
+Member States which have rescaled their energy performance classes on or after 1 January 2019 and before 28 May 2024, may postpone the rescaling of their energy performance classes until 31 December 2029.
+
+**3.** Member States shall ensure a common visual identity for energy performance certificates on their territory.
+
+**4.** Member States shall ensure the quality, reliability and affordability of energy performance certificates.
+
+Member States shall take measures to ensure that energy performance certificates are affordable and shall consider whether to provide financial support for vulnerable households.
+
+Member States shall ensure that energy performance certificates are issued in accordance with Article 20(1) and by independent experts on the basis of an on-site visit, which may be carried out, where appropriate, by virtual means with visual checks. The energy performance certificates shall be clear and easily legible, available in a machine-readable format and in accordance with the template in Annex V.
+
+**5.** The energy performance certificate shall include recommendations for the cost-effective improvement of the energy performance and the reduction of operational greenhouse gases emissions and the improvement of indoor environmental quality of a building or building unit, unless the building or building unit already achieves at least energy performance class A.
+
+The recommendations included in the energy performance certificate shall cover:
+
+(a) measures carried out in connection with a major renovation of the building envelope or technical building system or systems; and
+
+(b) measures for individual building elements independent of a major renovation of the building envelope or technical building system or systems.
+
+**6.** Where Member States provide for a renovation passport to be drawn up and issued jointly with the energy performance certificate pursuant to Article 12(3), the renovation passport shall substitute the recommendations pursuant to paragraph 5 of this Article.
+
+**7.** The recommendations included in the energy performance certificate shall be technically feasible for the specific building and shall provide an estimate for the energy savings and the reduction of operational greenhouse gas emissions. They may provide an estimate for the range of payback periods or costs and benefits over its economic life cycle and information on available financial incentives, administrative and technical assistance, as well as financial benefits which are broadly associated with the achievement of the reference values.
+
+**8.** The recommendations shall include an assessment of whether the heating systems, ventilation systems, air-conditioning systems and domestic hot-water systems can be adapted to operate at more efficient temperature settings, such as low temperature emitters for water based heating systems, including the required design of thermal power output and temperature and flow requirements.
+
+**9.** The recommendations shall include an assessment of the remaining lifespan of the heating system or air-conditioning system. Where relevant, the recommendations shall indicate possible alternatives for the replacement of the heating system or air-conditioning system, in line with the 2030 and 2050 climate targets, taking into account local and system-related circumstances.
+
+**10.** The energy performance certificate shall provide an indication as to where the owner or tenant of the building or building unit can receive more detailed information, including as regards the cost-effectiveness of the recommendations made in the energy performance certificate. The evaluation of cost-effectiveness shall be based on a set of standard conditions, such as the assessment of energy savings and underlying energy prices and a preliminary cost forecast. In addition, it shall contain information on the steps to be taken to implement the recommendations, the contact information of relevant one-stop shops and, where relevant, on financial support options. Other information on related topics, such as energy audits or incentives of a financial or other nature and financing possibilities, or advice on how to increase the climate resilience of the building, may also be provided to the owner or tenant of the building or building unit.
+
+**11.** Certification for building units may be based:(a) on a common certification of the whole building; or(b) on the assessment of another representative building unit with the same energy-relevant characteristics in the same building.
+
+**12.** Certification for single-family houses may be based on the assessment of another representative building of similar design and size with a similar actual energy performance quality if such correspondence can be guaranteed by the expert issuing the energy performance certificate.
+
+**13.** The validity of the energy performance certificate shall not exceed 10 years. Member States shall ensure that, where a building was issued a energy performance certificate below level C, building owners are invited to a one-stop shop to receive renovation advice on whichever of the following is the earlier:(a) immediately after the energy performance certificate of the building expires; or(b) five years after the issuance of the energy performance certificate.
+
+**14.** Member States shall make simplified procedures for updating an energy performance certificate available where only individual elements are upgraded, by means of single or standalone measures.
+
+Member States shall make simplified procedures for updating an energy performance certificate available where measures identified in a renovation passport are put in place or where a building digital twin, other certified methods, or data from certified tools determining the energy performance of a building are used.
+
+<a id="art_20"></a>
+
+### Article 20 — Issue of energy performance certificates
+
+**1.** Member States shall ensure that a digital energy performance certificate is issued for:(a) buildings or building units when they are constructed, when they have undergone a major renovation, when they are sold, when they are rented out to a new tenant, or for which a rental contract is renewed;(b) existing buildings owned or occupied by public bodies.
+
+The requirement to issue an energy performance certificate shall not apply where a certificate, issued in accordance with either Directive 2010/31/EU or this Directive, for the building or building unit concerned is available and valid.
+
+Member States shall ensure that a paper version of the energy performance certificate is issued on request.
+
+**2.** Member States shall require that, when buildings or building units are constructed, have undergone a major renovation, or are sold or rented out, or when rental contracts for buildings or building units are renewed, the energy performance certificate is shown to the prospective tenant or buyer and handed over to the buyer or tenant.
+
+**3.** Where a building is sold or rented out in advance of construction or major renovation, Member States may require the seller to provide an assessment of its future energy performance, as a derogation from paragraphs 1 and 2; in that case, the energy performance certificate shall be issued at the latest once the building has been constructed or renovated and shall reflect the as-built state.
+
+**4.** Member States shall require that buildings or buildings units which are offered for sale or for rent have an energy performance certificate, and that the energy performance indicator and class of the energy performance certificate of the building or the building unit, as applicable, is stated in online and offline advertisements, including in property search portal websites.
+
+Member States shall carry out sample checks or other controls to ensure compliance with these requirements.
+
+**5.** The provisions of this Article shall be implemented in accordance with applicable national rules on joint ownership or common property.
+
+**6.** Member States may exclude the categories of building referred to in Article 5(3), points (b), (c) and (e), from the application of paragraphs 1, 2, 4 and 5 of this Article. Member States which chose to exclude from the obligations of this Article by 28 May 2024, residential buildings which are used or intended to be used for either less than four months of the year or, alternatively, for a limited annual time of use and with an expected energy consumption of less than 25 % of what would be the result of all-year use, may continue to do so.
+
+**7.** The possible effects of energy performance certificates in terms of legal proceedings, if any, shall be decided in accordance with national rules.
+
+**8.** Member States shall ensure that all energy performance certificates issued are uploaded to the database for the energy performance of buildings referred to in Article 22. The upload shall contain the full energy performance certificate, including all necessary data required for the calculation of the energy performance of the building.
+
+<a id="art_21"></a>
+
+### Article 21 — Display of energy performance certificates
+
+**1.** Member States shall take measures to ensure that, where a building for which an energy performance certificate has been issued in accordance with Article 20(1) is occupied by public bodies and frequently visited by the public, the energy performance certificate is displayed in a prominent place clearly visible to the public.
+
+**2.** Member States shall require that in a non-residential building for which an energy performance certificate has been issued in accordance with Article 20(1), the energy performance certificate is displayed in a prominent and clearly visible place.
+
+**3.** The provisions of paragraphs 1 and 2 do not include an obligation to display the recommendations included in the energy performance certificate.
+
+<a id="art_22"></a>
+
+### Article 22 — Databases for the energy performance of buildings
+
+**1.** Each Member State shall set up a national database for the energy performance of buildings which allows data to be gathered on the energy performance of individual buildings and on the overall energy performance of the national building stock. Such databases may consist of a set of interconnected databases.
+
+The database shall allow data to be gathered from all relevant sources related to energy performance certificates, inspections, the renovation passport, the smart readiness indicator and the calculated or metered energy consumption of the buildings covered. In order to populate the database, building typologies may also be gathered. Data may also be gathered and stored on both operational and embodied emissions and life-cycle GWP.
+
+**2.** The aggregated and anonymised data of building stock shall be made publicly available, in compliance with Union and national data protection rules. The data stored shall be machine-readable and accessible via an appropriate digital interface. Member States shall ensure easy and free-of-charge access to the full energy performance certificate for building owners, tenants and managers and to financial institutions as regards the buildings in their investment and lending portfolios, and, upon permission from the owner, also to independent experts. For buildings offered for rent or sale, Member States shall ensure access to the full energy performance certificate for prospective tenants or buyers that have been authorised by the owner of the building.
+
+**3.** Member States shall ensure that local authorities have access to relevant data on the energy performance of buildings on their territory as required to facilitate drafting of heating and cooling plans and include operational geographic information systems and the related databases, in accordance with Regulation (EU) 2016/679. Member States shall support the local authorities in obtaining necessary resources for data and information management.
+
+**4.** Member States shall make publicly available information on the share of buildings in the national building stock covered by energy performance certificates and aggregated or anonymised data on the energy performance, including the energy consumption, and, where available, the life-cycle GWP of the buildings covered. The public information shall be updated at least twice per year. Member States shall make anonymised or aggregated information available to public and research institutions such as national statistical institutes, upon request.
+
+**5.** At least once per year, Member States shall ensure the transfer of the information in the national database to the EU Building Stock Observatory. Member States may transfer the information more frequently.
+
+**6.** The Commission shall adopt implementing acts to establish common templates for the transfer of the information to the EU Building Stock Observatory. The first such implementing act shall be adopted by 30 June 2025.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 33(3).
+
+**7.** For the purpose of ensuring coherence and consistency of information, Member States shall ensure that the national database for the energy performance of buildings is interoperable and integrated with other administrative databases containing information on buildings, such as the national building cadastre or land registry and digital building logbooks.
+
+<a id="art_23"></a>
+
+### Article 23 — Inspections
+
+**1.** Member States shall lay down the necessary measures to establish regular inspections of the accessible parts of heating systems, ventilation systems and air-conditioning systems, including any combination thereof, with an effective rated output of over 70 kW. The effective rating of the system shall be based on the sum of the rated output of the heat generators and cooling generators.
+
+**2.** Member States may establish separate inspection schemes for the inspections of residential and non-residential systems.
+
+**3.** Member States may set different inspection frequencies depending on the type and effective rated output of the system whilst taking into account the costs of the inspection of the system and the estimated energy cost savings that may result from the inspection. Systems shall be inspected at least every five years. Systems with generators of an effective rated output of more than 290 kW shall be inspected at least every three years.
+
+**4.** The inspection shall include the assessment of the generator or generators, circulation pumps and, where appropriate, components of ventilation systems, air and water distribution systems, hydronic balancing systems and control systems. Member States may include in the inspection schemes any additional building systems identified under Annex I.
+
+The inspection shall include an assessment of the efficiency and sizing of the heat and cooling generator or generators and of the main components thereof compared with the requirements of the building and shall consider the capabilities of the system to optimise its performance under typical or average operating conditions, using available energy-saving technologies, and under changing conditions due to use variation. Where relevant, the inspection shall assess the feasibility of the system to operate under different and more efficient temperature settings, such as at low temperature for water-based heating systems, including via the design of thermal power output and temperature and flow requirements, while ensuring the safe operation of the system. The inspection shall, where relevant, include a basic assessment of the feasibility to reduce on-site use of fossil fuels, for example by integrating renewable energy, changing energy source or replace or adjust the existing systems.
+
+Where a ventilation system is installed, its sizing and its capabilities to optimise its performance under typical or average operating conditions relevant for the specific and current use of the building shall also be assessed.
+
+Where no changes have been made to the system or to the requirements of the building following an inspection carried out pursuant to this Article, Member States may choose not to require the assessment of the main component sizing or the assessment of operation under different temperatures to be repeated.
+
+**5.** Technical building systems that are explicitly covered by an agreed energy performance criterion or a contractual arrangement specifying an agreed level of energy efficiency improvement, such as energy performance contracting, or that are operated by a utility or network operator and therefore subject to performance monitoring measures on the system side, shall be exempt from the requirements laid down in paragraph 1, provided that the overall impact of such an approach is equivalent to that resulting from paragraph 1.
+
+**6.** Where the overall impact is equivalent to that resulting from paragraph 1, Member States may opt to take alternative measures such as financial support or the provision of advice to users concerning the replacement of generators, other modifications to the system and alternative solutions to assess the performance, efficiency and appropriate size of those systems.
+
+Before applying the alternative measures referred to in the first subparagraph of this paragraph, each Member State shall, by means of submitting a report to the Commission, document the equivalence of the impact of those measures to the impact of the measures referred to in paragraph 1, including in terms of energy savings and greenhouse gas emissions.
+
+**7.** Buildings that comply with Article 13(10) or (11) shall be exempt from the requirements laid down in paragraph 1 of this Article.
+
+**8.** Member States shall put in place inspection schemes or alternative measures such as digital tools and checklists to certify that the delivered construction and renovation works meet the designed energy performance and are compliant with the minimum energy performance requirements laid down in the building codes or equivalent regulations.
+
+**9.** Member States shall include a summarised analysis of the inspection schemes and their results as an annex to the national building renovation plan referred to in Article 3. Member States that have chosen the alternative measures indicated in paragraph 6 of this Article shall include a summarised analysis and the results of the alternative measures.
+
+<a id="art_24"></a>
+
+### Article 24 — Reports on the inspection of heating systems, ventilation systems and air-conditioning systems
+
+**1.** An inspection report shall be issued after each inspection of a heating system, ventilation system or air-conditioning system. The inspection report shall contain the result of the inspection performed in accordance with Article 23 and include recommendations for the cost-effective improvement of the energy performance of the inspected system.
+
+Those recommendations may be based on a comparison of the energy performance of the system inspected with that of the best available feasible system, using energy-saving technologies, and a system of similar type for which all relevant components achieve the level of energy performance required by the applicable law. The recommendations shall, where relevant, include the results from the basic assessment of the feasibility to reduce on-site use of fossil fuels.
+
+The inspection report shall indicate any safety issue that was detected during inspection. However, the author of the report shall not be considered to be liable in relation to the detection or indication of any such safety issues.
+
+**2.** The inspection report shall be handed over to the owner or tenant of the building or building unit.
+
+**3.** The inspection report shall be uploaded into the national database for the energy performance of buildings pursuant to Article 22.
+
+<a id="art_25"></a>
+
+### Article 25 — Independent experts
+
+**1.** Member States shall ensure that the energy performance certification of buildings, the establishment of renovation passports, the smart readiness assessment and the inspection of heating systems, ventilation systems and air-conditioning systems are carried out in an independent manner by qualified or certified experts, whether operating in a self-employed capacity or employed by public bodies or private enterprises.
+
+Experts shall be certified in accordance with Article 28 of Directive (EU) 2023/1791 taking into account their competence.
+
+**2.** Member States shall make available to the public information on training and certifications. Member States shall ensure that either regularly updated lists of qualified or certified experts or regularly updated lists of certified companies which offer the services of such experts are made available to the public.
+
+<a id="art_26"></a>
+
+### Article 26 — Certification of building professionals
+
+**1.** Member States shall ensure the appropriate level of competence for building professionals carrying out integrated renovation works in accordance with Article 3 of, and Annex II to, this Directive and with Article 28 of Directive (EU) 2023/1791.
+
+**2.** Where appropriate and feasible, Member States shall ensure that certification or equivalent qualification schemes are available for providers of integrated renovation works where this is not covered by Article 18(3) of Directive (EU) 2018/2001 or Article 28 of Directive (EU) 2023/1791.
+
+<a id="art_27"></a>
+
+### Article 27 — Independent control system
+
+**1.** Member States shall ensure that independent control systems for energy performance certificates are established in accordance with Annex VI, and that independent control systems for renovation passports, smart readiness indicators and reports on the inspection of heating systems, ventilation systems and air-conditioning systems are established. Member States may establish separate systems for the control of energy performance certificates, renovation passports, smart readiness indicators and reports on the inspection of heating systems, ventilation systems and air-conditioning systems.
+
+**2.** The Member States may delegate the responsibilities for implementing the independent control systems.
+
+Where the Member States decide to do so, they shall ensure that the independent control systems are implemented in compliance with Annex VI.
+
+**3.** Member States shall require the energy performance certificates, the renovation passports, the smart readiness indicators and the inspection reports referred to in paragraph 1 to be made available to the competent authorities or bodies on request.
+
+<a id="art_28"></a>
+
+### Article 28 — Review
+
+The Commission, assisted by the Committee referred to in Article 33, shall review this Directive by 31 December 2028, in light of the experience gained and progress made during its application, and, if necessary, make proposals.
+
+As part of that review, the Commission shall assess whether the application of this Directive in combination with other legislative instruments addressing energy performance and greenhouse gas emissions from buildings, in particular through carbon pricing, deliver sufficient progress towards achieving a fully decarbonised, zero-emission building stock by 2050, or whether further binding measures at Union level, in particular mandatory minimum energy performance standards across the whole building stock, need to be introduced, including in order to ensure that the values for 2030 and 2035 set out in Article 9(2) can be achieved. The Commission shall also assess the national roadmaps and in particular the planned limit values for the life-cycle GWP of new buildings pursuant to Article 7(4) and shall consider whether additional measures promoting a sustainable built environment are needed. The Commission shall also examine in what manner Member States could apply integrated district or neighbourhood approaches in Union building and energy efficiency policy, while ensuring that each building meets the minimum energy performance requirements, for example by means of integrated renovation programmes and overall renovation schemes applying to a number of buildings in a spatial context instead of a single building. The Commission shall also assess whether alternative indicators, such as final energy use and energy needs would be better suited for the purposes of Annex I.
+
+<a id="art_29"></a>
+
+### Article 29 — Information
+
+**1.** Member States shall prepare and carry out information and awareness-raising campaigns. They shall take the necessary measures to inform the owners and tenants of buildings or building units and all relevant market actors, such as local and regional authorities and energy communities, of the different methods and practices that serve to enhance energy performance. In particular, Member States shall take the necessary measures to provide tailor-made information to vulnerable households. That information shall also be made available to local authorities and civil society organisations.
+
+**2.** Member States shall in particular provide information to the owners or tenants of buildings on energy performance certificates, including their purpose and objectives, on cost-effective measures and, where appropriate, financial instruments, to improve the energy performance of the building, and on replacing fossil fuel boilers with more sustainable alternatives. Member States shall provide the information through accessible and transparent advisory tools such as renovation advice and the one-stop shops established pursuant to Article 18, paying particular attention to vulnerable households.
+
+At the request of the Member States, the Commission shall assist Member States in staging information campaigns for the purposes of paragraph 1 and the first subparagraph of this paragraph, which may be dealt with in Union programmes.
+
+**3.** Member States shall ensure that guidance and training, including for under-represented groups, are made available, for those responsible for implementing this Directive. Such guidance and training shall address the importance of improving energy performance, and shall enable consideration of the optimal combination of improvements in energy efficiency, reduction of greenhouse gas emissions, use of energy from renewable sources and use of district heating and cooling when planning, designing, building and renovating industrial or residential areas. Such guidance and training may also address structural improvements, adaptation to climate change, fire safety, risks related to intense seismic activity, the removal of hazardous substances including asbestos, air pollutant emissions (including fine particulate matter), indoor environmental quality and accessibility for persons with disabilities. Member States shall endeavour to put in place measures to support training for local and regional authorities, renewable energy communities and other relevant actors, such as citizen-led renovation initiatives, to promote the objectives of this Directive.
+
+**4.** The Commission shall continuously improve its information services, in particular the website that has been set up as a European portal for energy efficiency in buildings directed towards citizens, professionals and authorities, in order to assist Member States in their information and awareness-raising efforts. Information displayed on that website might include links to relevant Union law and national, regional and local rules, links to Europa websites that display the National Energy Efficiency Action Plans, links to available financial instruments, as well as best practice examples at national, regional and local level, including with regard to the one-stop shops established pursuant to Article 18 of this Directive. In the context of the European Regional Development Fund, the Cohesion Fund and the Just Transition Fund established by Regulation (EU) 2021/1056 of the European Parliament and of the Council (7), the Social Climate Fund, and the Recovery and Resilience Facility, the Commission shall continue and further intensify its information services with the aim of facilitating the use of available funds by providing assistance and information, including, in cooperation with the European Investment Bank, through the European Local Energy Assistance facility, to interested stakeholders, including national, regional and local authorities, on funding possibilities, taking into account the latest changes in the regulatory framework.
+
+<a id="art_30"></a>
+
+### Article 30 — Consultation
+
+In order to facilitate the effective implementation of this Directive, Member States shall consult the stakeholders involved, including local and regional authorities, in accordance with the national law applicable and as relevant. Such consultation is of particular importance for the application of Article 29.
+
+<a id="art_31"></a>
+
+### Article 31 — Adaptation of Annex I to technical progress
+
+The Commission shall adopt delegated acts in accordance with Article 32 to amend this Directive concerning the adaptation of points 4 and 5 of Annex I to technical progress.
+
+<a id="art_32"></a>
+
+### Article 32 — Exercise of the delegation
+
+**1.** The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+**2.** The power to adopt delegated acts referred to in Articles 6, 7, 15, 17 and 31 shall be conferred on the Commission for an indeterminate period of time from 28 May 2024.
+
+**3.** The delegation of power referred to in Articles 6, 7, 15, 17 and 31 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the *Official Journal of the European Union* or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+**4.** Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+**5.** As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+**6.** A delegated act adopted pursuant to Article 6, 7, 15, 17 or 31 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+<a id="art_33"></a>
+
+### Article 33 — Committee procedure
+
+**1.** The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council (8).
+
+**2.** Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+**3.** Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+<a id="art_34"></a>
+
+### Article 34 — Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive. Member States shall, without delay, notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendment affecting them.
+
+<a id="art_35"></a>
+
+### Article 35 — Transposition
+
+**1.** Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Articles 1, 2 and 3, 5 to 29 and 32 and Annexes I, II and III and V to X by 29 May 2026. They shall immediately communicate the text of those measures and a correlation table to the Commission.
+
+Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with Article 17(15) by 1 January 2025.
+
+When Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the Directive repealed by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+**2.** Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+<a id="art_36"></a>
+
+### Article 36 — Repeal
+
+Directive 2010/31/EU, as amended by the acts listed in Part A of Annex IX, is repealed with effect from 30 May 2026, without prejudice to the obligations of the Member States relating to the time-limits for the transposition into national law and the dates of application of the Directives set out in Part B of Annex IX.
+
+References to the repealed Directive shall be construed as references to this Directive and shall be read in accordance with the correlation table in Annex X.
+
+<a id="art_37"></a>
+
+### Article 37 — Entry into force and application
+
+This Directive shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+Articles 30, 31, 33 and 34 shall apply from 30 May 2026.
+
+<a id="art_38"></a>
+
+### Article 38 — Addressees
+
+This Directive is addressed to the Member States.

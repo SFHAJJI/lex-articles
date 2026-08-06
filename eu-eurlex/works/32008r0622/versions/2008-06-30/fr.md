@@ -1,0 +1,57 @@
+---
+lex_id: 'eu-eurlex:32008r0622:2008-06-30'
+title: 'Commission Regulation (EC) No 622/2008 of 30 June 2008 amending Regulation (EC) No 773/200…'
+valid_from: '2008-06-30'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32008R0622'
+source_sha256: '1fffc56480d94096bf994757add91d45c34ad857549aacdbdd0f1f6d2267bddc'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article premier
+
+Le règlement (CE) no 773/2004 est modifié comme suit:
+
+| 1) | L’article 2, paragraphe 1, est remplacé par le texte suivant:«1. La Commission peut décider d’ouvrir la procédure en vue d’adopter une décision en application du chapitre III du règlement (CE) no 1/2003 à tout moment, mais au plus tard à la date à laquelle elle rend une évaluation préliminaire au sens de l’article 9, paragraphe 1, dudit règlement, émet une communication des griefs ou adresse aux parties une demande de manifestation d’intérêt à prendre part à des discussions en vue de parvenir à une transaction, ou bien à la date de publication d’une communication en application de l’article 27, paragraphe 4, dudit règlement, selon celle de ces dates qui vient en premier.» |
+| --- | --- |
+
+| 2) | À l’article 6, le paragraphe 1 est remplacé par le texte suivant:«1. Lorsque la Commission émet une communication des griefs relative à une affaire au sujet de laquelle elle a été saisie d’une plainte, elle fournit au plaignant une copie de la version non confidentielle de la communication des griefs, excepté dans les affaires auxquelles s’applique la procédure de transaction, auquel cas elle informe le plaignant, par écrit, de la nature et de l’objet de la procédure. La Commission lui impartit également un délai pour présenter ses observations par écrit.» |
+| --- | --- |
+
+| 3) | À l’article 10, le paragraphe 1 est remplacé par le texte suivant:«1. La Commission informe les parties en cause des griefs soulevés à leur encontre. La communication des griefs est notifiée par écrit à chacune des parties contre lesquelles des griefs sont soulevés.» |
+| --- | --- |
+
+| 4) | L’article 10 bis suivant est inséré:«Article 10 bisProcédure de transaction dans les affaires d’entente1. Après l’ouverture de la procédure prévue à l’article 11, paragraphe 6, du règlement (CE) no 1/2003, la Commission peut impartir aux parties un délai pour lui faire savoir par écrit si elles sont disposées à prendre part à des discussions en vue de parvenir à une transaction, afin de présenter, le cas échéant, des propositions de transaction. La Commission n’est pas tenue de prendre en considération les réponses reçues après l’expiration de ce délai.Si deux parties au moins appartenant à la même entreprise font savoir qu’elles sont disposées à prendre part à des discussions en vue de parvenir à une transaction conformément au premier alinéa, elles doivent désigner une représentation commune habilitée à prendre part, en leur nom, à des discussions avec la Commission. Lorsqu’elle fixe le délai visé au premier alinéa, la Commission indique aux parties concernées qu’elles ont été identifiées comme appartenant à la même entreprise, à la seule fin de leur permettre de respecter cette disposition.2. La Commission peut informer les parties prenant part aux discussions en vue d’une transaction:a)des griefs qu’elle envisage de soulever à leur encontre;b)des preuves utilisées pour formuler les griefs envisagés;c)des versions non confidentielles de tout document accessible figurant dans le dossier de l’affaire à ce moment-là, pour autant que la demande de la partie en cause se justifie pour lui permettre de préciser sa position concernant une période donnée ou tout autre aspect de l’entente;d)et de la fourchette des amendes probables.Chaque partie est tenue de respecter la confidentialité des informations qui lui sont transmises par la Commission vis-à-vis des tiers, à moins que celle-ci ne leur ait, au préalable, explicitement donné l’autorisation de les communiquer.Si les discussions en vue d’une transaction progressent, la Commission peut impartir à ces dernières un délai pour s’engager éventuellement à suivre la procédure de transaction en présentant des propositions de transaction reflétant les résultats des discussions menées à cet effet et reconnaissant leur participation à une infraction à l’article 81 du traité, ainsi que leur responsabilité. Avant que la Commission ne fixe un délai pour l’introduction des propositions de transaction, les parties en cause ont le droit, si elles en font la demande, d’obtenir la communication rapide des informations mentionnées à l’article 10 bis, paragraphe 2, premier alinéa. La Commission n’est pas tenue de prendre en considération les propositions de transaction reçues après l’expiration de ce délai.3. Lorsque la communication des griefs notifiée aux parties reprend la teneur de leurs propositions de transaction, les parties en cause doivent, dans le délai fixé par la Commission, confirmer, dans leur réponse écrite à cette communication des griefs, que cette dernière reflète la teneur de leurs propositions de transaction. La Commission peut alors adopter une décision en vertu des articles 7 et 23 du règlement (CE) no 1/2003, après consultation du comité consultatif en matière d’ententes et de positions dominantes conformément à l’article 14 du règlement (CE) no 1/2003.4. La Commission peut décider, à toute étape de la procédure, de mettre fin aux discussions menées en vue d’une transaction, pour l’ensemble d’un dossier spécifique ou à l’égard d’une ou plusieurs parties concernées, si elle considère qu’il est probable que l’efficacité de la procédure est menacée.» |
+| --- | --- |
+| a) | des griefs qu’elle envisage de soulever à leur encontre; |
+| b) | des preuves utilisées pour formuler les griefs envisagés; |
+| c) | des versions non confidentielles de tout document accessible figurant dans le dossier de l’affaire à ce moment-là, pour autant que la demande de la partie en cause se justifie pour lui permettre de préciser sa position concernant une période donnée ou tout autre aspect de l’entente; |
+| d) | et de la fourchette des amendes probables. |
+
+| 5) | L’article 11, paragraphe 1, est remplacé par le texte suivant:«1. La Commission donne aux parties auxquelles elle adresse une communication des griefs la possibilité d’être entendues avant de consulter le comité consultatif visé à l’article 14, paragraphe 1, du règlement (CE) no 1/2003.» |
+| --- | --- |
+
+| 6) | L’article 12 est remplacé par le texte suivant:«Article 121. La Commission donne aux parties auxquelles elle adresse une communication des griefs la possibilité de développer leurs arguments lors d’une audition, si elles en font la demande dans leurs observations écrites.2. Toutefois, lorsqu’elles présentent des propositions de transaction, les parties confirment à la Commission qu’elles ne demanderont à développer leurs arguments lors d’une audition que si la communication des griefs ne reflète pas la teneur de leurs propositions de transaction.» |
+| --- | --- |
+
+| 7) | À l’article 15, le paragraphe 1 bis suivant est inséré:«1 bis. Après l’ouverture de la procédure en vertu de l’article 11, paragraphe 6, du règlement (CE) no 1/2003 et afin de permettre aux parties désireuses de présenter des propositions de transaction de le faire, la Commission communique, sur demande et sous réserve du respect des conditions fixées dans les alinéas applicables, les éléments de preuve et les documents visés à l’article 10 bis, paragraphe 2. À cet effet, lorsqu’elles présentent ces propositions, les parties confirment à la Commission qu’elles ne demanderont l’accès au dossier, après réception de la communication des griefs, que si celle-ci ne reflète pas la teneur de leurs propositions de transaction.» |
+| --- | --- |
+
+| 8) | L’article 17 est modifié comme suit:a)le paragraphe 1 est remplacé par les texte suivant:«1. Pour fixer les délais prévus à l’article 3, paragraphe 3, à l’article 4, paragraphe 3, à l’article 6, paragraphe 1, à l’article 7, paragraphe 1, à l’article 10, paragraphe 2, à l’article 10 bis, paragraphe 1, à l’article 10 bis, paragraphe 2, à l’article 10 bis, paragraphe 3, et à l’article 16, paragraphe 3, la Commission tient compte à la fois du temps nécessaire à l’élaboration des observations et de l’urgence de l’affaire.»b)le paragraphe 3 est remplacé par les texte suivant:«3. Les délais visés à l’article 4, paragraphe 3, à l’article 10 bis, paragraphe 1, à l’article 10 bis, paragraphe 2, et à l’article 16, paragraphe 3, sont d’au moins deux semaines. Le délai visé à l’article 3, paragraphe 3, est d’au moins deux semaines, excepté en ce qui concerne les propositions de transaction, pour lesquelles les corrections doivent être faites dans un délai d’une semaine. Le délai visé à l’article 1 bis, paragraphe 3, est d’au moins deux semaines.» |
+| --- | --- |
+| a) | le paragraphe 1 est remplacé par les texte suivant:«1. Pour fixer les délais prévus à l’article 3, paragraphe 3, à l’article 4, paragraphe 3, à l’article 6, paragraphe 1, à l’article 7, paragraphe 1, à l’article 10, paragraphe 2, à l’article 10 bis, paragraphe 1, à l’article 10 bis, paragraphe 2, à l’article 10 bis, paragraphe 3, et à l’article 16, paragraphe 3, la Commission tient compte à la fois du temps nécessaire à l’élaboration des observations et de l’urgence de l’affaire.» |
+| b) | le paragraphe 3 est remplacé par les texte suivant:«3. Les délais visés à l’article 4, paragraphe 3, à l’article 10 bis, paragraphe 1, à l’article 10 bis, paragraphe 2, et à l’article 16, paragraphe 3, sont d’au moins deux semaines. Le délai visé à l’article 3, paragraphe 3, est d’au moins deux semaines, excepté en ce qui concerne les propositions de transaction, pour lesquelles les corrections doivent être faites dans un délai d’une semaine. Le délai visé à l’article 1 bis, paragraphe 3, est d’au moins deux semaines.» |
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+Le présent règlement entre en vigueur le 1er juillet 2008.

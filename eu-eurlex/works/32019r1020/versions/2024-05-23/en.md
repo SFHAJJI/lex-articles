@@ -1,0 +1,693 @@
+---
+lex_id: 'eu-eurlex:32019r1020:2024-05-23'
+title: 'Regulation (EU) 2019/1020'
+valid_from: '2024-05-23'
+valid_to: '2026-08-11'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R1020-20240523'
+source_sha256: '52279edfffafc4bcefaa18dc1ceb47879e627516eaf93739c2d987da18a6b856'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPTER I — GENERAL PROVISIONS
+
+<a id="art_1"></a>
+
+### Article 1 — Subject matter
+
+**1.** The objective of this Regulation is to improve the functioning of the internal market by strengthening the market surveillance of products covered by the Union harmonisation legislation referred to in Article 2, with a view to ensuring that only compliant products that fulfil requirements providing a high level of protection of public interests, such as health and safety in general, health and safety in the workplace, the protection of consumers, the protection of the environment and public security and any other public interests protected by that legislation, are made available on the Union market.
+
+**2.** This Regulation lays down rules and procedures for economic operators regarding products subject to certain Union harmonisation legislation and establishes a framework for cooperation with economic operators.
+
+**3.** This Regulation also provides a framework for controls on products entering the Union market.
+
+<a id="art_2"></a>
+
+### Article 2 — Scope
+
+**1.** This Regulation shall apply to products that are subject to the Union harmonisation legislation listed in Annex I (‘Union harmonisation legislation’), in so far as there are no specific provisions with the same objective in the Union harmonisation legislation, which regulate in a more specific manner particular aspects of market surveillance and enforcement.
+
+**2.** Articles 25 to 28 shall apply to products covered by Union law in so far as there are no specific provisions relating to the organisation of controls on products entering the Union market in Union law.
+
+**3.** The application of this Regulation shall not prevent market surveillance authorities from taking more specific measures as provided for in Directive 2001/95/EC.
+
+**4.** This Regulation is without prejudice to Articles 12 to 15 of Directive 2000/31/EC.
+
+<a id="art_3"></a>
+
+### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) ‘making available on the market’ means any supply of a product for distribution, consumption or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+
+(2) ‘placing on the market’ means the first making available of a product on the Union market;
+
+(3) ‘market surveillance’ means the activities carried out and measures taken by market surveillance authorities to ensure that products comply with the requirements set out in the applicable Union harmonisation legislation and to ensure protection of the public interest covered by that legislation;
+
+(4) ‘market surveillance authority’ means an authority designated by a Member State under Article 10 as responsible for carrying out market surveillance in the territory of that Member State;
+
+(5) ‘applicant authority’ means the market surveillance authority that makes a request for mutual assistance;
+
+(6) ‘requested authority’ means the market surveillance authority that receives a request for mutual assistance;
+
+(7) ‘non-compliance’ means any failure to comply with any requirement under the Union harmonisation legislation or under this Regulation;
+
+(8) ‘manufacturer’ means any natural or legal person who manufactures a product or has a product designed or manufactured, and markets that product under its name or trademark;
+
+(9) ‘importer’ means any natural or legal person established within the Union who places a product from a third country on the Union market;
+
+(10) ‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a product available on the market;
+
+(11) ‘fulfilment service provider’ means any natural or legal person offering, in the course of commercial activity, at least two of the following services: warehousing, packaging, addressing and dispatching, without having ownership of the products involved, excluding postal services as defined in point 1 of Article 2 of Directive 97/67/EC of the European Parliament and of the Council (1), parcel delivery services as defined in point 2 of Article 2 of Regulation (EU) 2018/644 of the European Parliament and of the Council (2), and any other postal services or freight transport services;
+
+(12) ‘authorised representative’ means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on its behalf in relation to specified tasks with regard to the manufacturer's obligations under the relevant Union harmonisation legislation or under the requirements of this Regulation;
+
+(13) ‘economic operator’ means the manufacturer, the authorised representative, the importer, the distributor, the fulfilment service provider or any other natural or legal person who is subject to obligations in relation to the manufacture of products, making them available on the market or putting them into service in accordance with the relevant Union harmonisation legislation;
+
+(14) ‘information society service provider’ means a provider of a service as defined in point (b) of Article 1(1) of Directive (EU) 2015/1535 of the European Parliament and of the Council (3);
+
+(15) ‘online interface’ means any software, including a website, part of a website or an application, that is operated by or on behalf of an economic operator, and which serves to give end users access to the economic operator's products;
+
+(16) ‘corrective action’ means any action taken by an economic operator to bring any non-compliance to an end where required by a market surveillance authority or on the economic operator's own initiative;
+
+(17) ‘voluntary measure’ means a corrective action where not required by a market surveillance authority;
+
+(18) ‘risk’ means the combination of the probability of an occurrence of a hazard causing harm and the degree of severity of that harm;
+
+(19) ‘product presenting a risk’ means a product having the potential to affect adversely health and safety of persons in general, health and safety in the workplace, protection of consumers, the environment, public security and other public interests, protected by the applicable Union harmonisation legislation, to a degree which goes beyond that considered reasonable and acceptable in relation to its intended purpose or under the normal or reasonably foreseeable conditions of use of the product concerned, including the duration of use and, where applicable, its putting into service, installation and maintenance requirements;
+
+(20) ‘product presenting a serious risk’ means a product presenting a risk, for which, based on a risk assessment and taking into account the normal and foreseeable use of the product, the combination of the probability of occurrence of a hazard causing harm and the degree of severity of the harm is considered to require rapid intervention by the market surveillance authorities, including cases where the effects of the risk are not immediate;
+
+(21) ‘end user’ means any natural or legal person residing or established in the Union, to whom a product has been made available either as a consumer outside of any trade, business, craft or profession or as a professional end user in the course of its industrial or professional activities;
+
+(22) ‘recall’ means any measure aimed at achieving the return of a product that has already been made available to the end user;
+
+(23) ‘withdrawal’ means any measure aimed at preventing a product in the supply chain from being made available on the market;
+
+(24) ‘customs authorities’ means customs authorities as defined in point 1 of Article 5 of Regulation (EU) No 952/2013;
+
+(25) ‘release for free circulation’ means the procedure laid down in Article 201 of Regulation (EU) No 952/2013;
+
+(26) ‘products entering the Union market’ means products from third countries intended to be placed on the Union market or intended for private use or consumption within the customs territory of the Union and placed under the customs procedure ‘release for free circulation’.
+
+## CHAPTER II — TASKS OF ECONOMIC OPERATORS
+
+<a id="art_4"></a>
+
+### Article 4 — Tasks of economic operators regarding products subject to certain Union harmonisation legislation
+
+**1.** Notwithstanding any obligations set out in applicable Union harmonisation legislation, a product subject to legislation referred to in paragraph 5 may be placed on the market only if there is an economic operator established in the Union who is responsible for the tasks set out in paragraph 3 in respect of that product.
+
+**2.** For the purposes of this Article, the economic operator referred to in paragraph 1 means any of the following:(a) a manufacturer established in the Union;(b) an importer, where the manufacturer is not established in the Union;(c) an authorised representative who has a written mandate from the manufacturer designating the authorised representative to perform the tasks set out in paragraph 3 on the manufacturer's behalf;(d) a fulfilment service provider established in the Union with respect to the products it handles, where no other economic operator as mentioned in points (a), (b) and (c) is established in the Union.
+
+**3.** Without prejudice to any obligations of economic operators under the applicable Union harmonisation legislation, the economic operator referred to in paragraph 1 shall perform the following tasks:(a) if the Union harmonisation legislation applicable to the product provides for an EU declaration of conformity or declaration of performance and technical documentation, verifying that the EU declaration of conformity or declaration of performance and technical documentation have been drawn up, keeping the declaration of conformity or declaration of performance at the disposal of market surveillance authorities for the period required by that legislation and ensuring that the technical documentation can be made available to those authorities upon request;(b) further to a reasoned request from a market surveillance authority, providing that authority with all information and documentation necessary to demonstrate the conformity of the product in a language which can be easily understood by that authority;(c) when having reason to believe that a product in question presents a risk, informing the market surveillance authorities thereof;(d) cooperating with the market surveillance authorities, including following a reasoned request making sure that the immediate, necessary, corrective action is taken to remedy any case of non-compliance with the requirements set out in Union harmonisation legislation applicable to the product in question, or, if that is not possible, to mitigate the risks presented by that product, when required to do so by the market surveillance authorities or on its own initiative, where the economic operator referred to in paragraph 1 considers or has reason to believe that the product in question presents a risk.
+
+**4.** Without prejudice to the respective obligations of economic operators under the applicable Union harmonisation legislation, the name, registered trade name or registered trade mark, and contact details, including the postal address, of the economic operator referred to in paragraph 1 shall be indicated on the product or on its packaging, the parcel or an accompanying document.
+
+**5.** This Article applies only in relation to products that are subject to Regulations (EU) No 305/2011 (4), (EU) 2016/425 (5), (EU) 2016/426 (6), (EU) 2023/1542 (7) and (EU) 2024/1252 (8) and Directives 2000/14/EC (9), 2006/42/EC (10), 2009/48/EC (11), 2009/125/EC (12), 2011/65/EU (13), 2013/29/EU (14), 2013/53/EU (15), 2014/29/EU (16), 2014/30/EU (17), 2014/31/EU (18), 2014/32/EU (19), 2014/34/EU (20), 2014/35/EU (21), 2014/53/EU (22) and 2014/68/EU (23) of the European Parliament and of the Council.
+
+<a id="art_5"></a>
+
+### Article 5 — Authorised representative
+
+**1.** For the purposes of point (c) of Article 4(2), the authorised representative shall be mandated by the manufacturer to perform the tasks listed in Article 4(3), notwithstanding any other tasks mandated under the relevant Union harmonisation legislation.
+
+**2.** The authorised representative shall perform the tasks specified in the mandate. It shall provide a copy of the mandate to the market surveillance authorities upon request, in a Union language determined by the market surveillance authority.
+
+**3.** Authorised representatives shall have the appropriate means to be able to fulfil their tasks.
+
+<a id="art_6"></a>
+
+### Article 6 — Distance sales
+
+Products offered for sale online or through other means of distance sales shall be deemed to be made available on the market if the offer is targeted at end users in the Union. An offer for sale shall be considered to be targeted at end users in the Union if the relevant economic operator directs, by any means, its activities to a Member State.
+
+<a id="art_7"></a>
+
+### Article 7 — Obligation of cooperation
+
+**1.** Economic operators shall cooperate with market surveillance authorities regarding actions which could eliminate or mitigate risks that are presented by products made available on the market by those operators.
+
+**2.** Information society service providers shall cooperate with the market surveillance authorities, at the request of the market surveillance authorities and in specific cases, to facilitate any action taken to eliminate or, if that is not possible, to mitigate the risks presented by a product that is or was offered for sale online through their services.
+
+## CHAPTER III — ASSISTANCE TO AND COOPERATION WITH ECONOMIC OPERATORS
+
+<a id="art_8"></a>
+
+### Article 8 — Information to economic operators
+
+**1.** The Commission, in accordance with Regulation (EU) 2018/1724, shall ensure that the Your Europe portal provides users with easy online access to information about the product requirements and rights, obligations and rules derived from the Union harmonisation legislation.
+
+**2.** Member States shall put in place procedures for providing economic operators, at their request and free of charge, with information with respect to the national transposition and implementation of Union harmonisation legislation applicable to products. For this purpose, Article 9(1), (4) and (5) of Regulation (EU) 2019/515 shall apply.
+
+<a id="art_9"></a>
+
+### Article 9 — Joint activities to promote compliance
+
+**1.** Market surveillance authorities may agree with other relevant authorities or with organisations representing economic operators or end users on the carrying out of joint activities that have the aim of promoting compliance, identifying non-compliance, raising awareness and providing guidance in relation to the Union harmonisation legislation with respect to specific categories of products, in particular categories of products that are often found to present a serious risk, including products offered for sale online.
+
+**2.** The market surveillance authority in question and the parties referred to in paragraph 1 shall ensure that the agreement on joint activities does not lead to unfair competition between economic operators and does not affect the objectivity, independence and impartiality of the parties.
+
+**3.** A market surveillance authority may use any information resulting from joint activities carried out as part of any investigation regarding non-compliance that it undertakes.
+
+**4.** The market surveillance authority in question shall make the agreement on joint activities, including the names of the parties involved, available to the public and shall enter that agreement in the information and communication system referred to in Article 34. At the request of a Member State, the Network established under Article 29 shall assist in the drawing up of the agreement on joint activities.
+
+## CHAPTER IV — ORGANISATION, ACTIVITIES AND OBLIGATIONS OF MARKET SURVEILLANCE AUTHORITIES AND THE SINGLE LIAISON OFFICE
+
+<a id="art_10"></a>
+
+### Article 10 — Designation of market surveillance authorities and the single liaison office
+
+**1.** Member States shall organise and carry out market surveillance as provided for in this Regulation.
+
+**2.** For the purposes of paragraph 1 of this Article, each Member State shall designate one or more market surveillance authorities in its territory. Each Member State shall inform the Commission and the other Member States of its market surveillance authorities and the areas of competence of each of those authorities, using the information and communication system referred to in Article 34.
+
+**3.** Each Member State shall appoint a single liaison office.
+
+**4.** The single liaison office shall at least be responsible for representing the coordinated position of the market surveillance authorities and the authorities designated under Article 25(1) and for communicating the national strategies as set out in Article 13. The single liaison office shall also assist in the cooperation between market surveillance authorities in different Member States, as set out in Chapter VI.
+
+**5.** In order to carry out market surveillance of products made available online and offline with the same effectiveness for all distribution channels, Member States shall ensure that their market surveillance authorities and single liaison office have the necessary resources, including sufficient budgetary and other resources, such as a sufficient number of competent personnel, expertise, procedures and other arrangements for the proper performance of their duties.
+
+**6.** Where there is more than one market surveillance authority in their territory, Member States shall ensure that the respective duties of those authorities are clearly defined and that appropriate communication and coordination mechanisms are established to enable those authorities to collaborate closely and exercise their duties effectively.
+
+<a id="art_11"></a>
+
+### Article 11 — Activities of market surveillance authorities
+
+**1.** Market surveillance authorities shall conduct their activities in order to ensure the following:(a) effective market surveillance within their territory of products made available online and offline with respect to products that are subject to Union harmonisation legislation;(b) the taking by economic operators of appropriate and proportionate corrective action in relation to compliance with that legislation and this Regulation;(c) the taking of appropriate and proportionate measures where the economic operator fails to take corrective action.
+
+**2.** Market surveillance authorities shall exercise their powers and carry out their duties independently, impartially and without bias.
+
+**3.** Market surveillance authorities, as part of their activities set out in paragraph 1 of this Article, shall perform appropriate checks on the characteristics of products on an adequate scale, by means of documentary checks and, where appropriate, physical and laboratory checks based on adequate samples, prioritising their resources and actions to ensure effective market surveillance and taking into account the national market surveillance strategy referred to in Article 13.
+
+In deciding on which checks to perform, on which types of products and on what scale, market surveillance authorities shall follow a risk-based approach taking into account the following factors:
+
+(a) possible hazards and non-compliance associated with the products and, where available, their occurrence on the market;
+
+(b) activities and operations under the control of the economic operator;
+
+(c) the economic operator's past record of non-compliance;
+
+(d) if relevant, the risk profiling performed by the authorities designated under Article 25(1);
+
+(e) consumer complaints and other information received from other authorities, economic operators, media and other sources that might indicate non-compliance.
+
+**4.** The Commission, after consulting the Network, may adopt implementing acts determining the uniform conditions of checks, criteria for determination of the frequency of checks and amount of samples to be checked in relation to certain products or categories of products, where specific risks or serious breaches of applicable Union harmonisation legislation have been continuously identified, in order to ensure high level of protection of health and safety or other public interests protected by that legislation. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 43(2).
+
+**5.** Where economic operators present test reports or certificates attesting the conformity of their products with Union harmonisation legislation issued by a conformity assessment body accredited in accordance with Regulation (EC) No 765/2008, market surveillance authorities shall take due account of those reports or certificates.
+
+**6.** Evidence that is used by a market surveillance authority in one Member State may be used as part of investigations to verify product compliance carried out by market surveillance authorities in another Member State, without any further formal requirements.
+
+**7.** Market surveillance authorities shall establish the following procedures in connection with products subject to the Union harmonisation legislation:(a) procedures for following up on complaints or reports on issues relating to risks or non-compliance;(b) procedures for verifying that the corrective action that was to be taken by economic operators has been taken.
+
+**8.** With a view to ensuring communication and coordination with their counterparts in other Member States, market surveillance authorities shall actively participate in administrative cooperation groups (ADCOs) as referred to in Article 30(2).
+
+**9.** Without prejudice to any Union safeguard procedure pursuant to the applicable Union harmonisation legislation, products that have been deemed to be non-compliant on the basis of a decision of a market surveillance authority in one Member State shall be presumed to be non-compliant by market surveillance authorities in other Member States, unless a relevant market surveillance authority in another Member State concluded the contrary on the basis of its own investigation, taking into account the input, if any, provided by an economic operator.
+
+<a id="art_12"></a>
+
+### Article 12 — Peer reviews
+
+**1.** Peer reviews shall be organised for market surveillance authorities wishing to participate in such reviews, in order to strengthen consistency in market surveillance activities in relation to the application of this Regulation.
+
+**2.** The Network shall develop the methodology and the rolling plan for peer reviews among participating market surveillance authorities. When establishing the methodology and the rolling plan, the Network shall take into consideration, at least, the number and the size of market surveillance authorities in the Member States, the number of personnel available and other resources for performing the peer review, and other relevant criteria.
+
+**3.** Peer reviews shall cover best practices developed by some market surveillance authorities which may be of benefit for other market surveillance authorities, and other relevant aspects related to the effectiveness of market surveillance activities.
+
+**4.** The outcome of the peer reviews shall be reported to the Network.
+
+<a id="art_13"></a>
+
+### Article 13 — National market surveillance strategies
+
+**1.** Each Member State shall draw up an overarching national market surveillance strategy, at least every four years. Each Member State shall draw up the first such strategy by 16 July 2022. The national strategy shall promote a consistent, comprehensive and integrated approach to market surveillance and to the enforcement of Union harmonisation legislation within the territory of the Member State. When drawing up the national market surveillance strategy, all sectors covered by the Union harmonisation legislation and all stages of the product supply chain, including imports and digital supply chains, shall be considered. The priorities set out within the work programme of the Network may also be considered.
+
+**2.** The national market surveillance strategy shall include at least the following elements, when this does not compromise market surveillance activities:(a) the available information on the occurrence of non-compliant products, in particular taking into account the checks and controls referred to in Articles 11(3) and 25(3), respectively, and, where applicable, market trends that may affect non-compliance rates for the categories of products, and possible threats and risks related to emerging technologies;(b) the areas identified by the Member States as priorities for the enforcement of Union harmonisation legislation;(c) the enforcement activities planned in order to reduce non-compliance in those areas identified as priorities, including, where relevant, the minimum control levels envisaged for categories of products which have significant levels of non-compliance;(d) an assessment of the cooperation with market surveillance authorities in other Member States, as referred to in Article 11(8) and Chapter VI.
+
+**3.** Member States shall communicate their national market surveillance strategy to the Commission and other Member States through the information and communication system referred to in Article 34. Each Member State shall publish a summary of its strategy.
+
+## CHAPTER V — MARKET SURVEILLANCE POWERS AND MEASURES
+
+<a id="art_14"></a>
+
+### Article 14 — Powers of market surveillance authorities
+
+**1.** Member States shall confer on their market surveillance authorities the powers of market surveillance, investigation and enforcement necessary for the application of this Regulation and for the application of Union harmonisation legislation.
+
+**2.** Market surveillance authorities shall exercise the powers set out in this Article efficiently and effectively, in accordance with the principle of proportionality, to the extent that such exercise relates to the subject matter and the purpose of the measures and the nature and the overall actual or potential harm resulting from the instance of non-compliance. Powers shall be conferred and exercised in accordance with Union and national law, including the principles of the Charter of Fundamental Rights of the European Union, as well as with principles of national law relating to freedom of expression and the freedom and pluralism of the media, with applicable procedural safeguards and with the Union rules on data protection, in particular Regulation (EU) 2016/679.
+
+**3.** When conferring powers under paragraph 1, Member States may provide for the power to be exercisable in one of the following ways, as appropriate:(a) directly by the market surveillance authorities under their own authority;(b) by recourse to other public authorities in accordance with the division of powers and the institutional and administrative organisation of the Member State in question;(c) upon application to courts competent to grant the necessary decision to approve the exercise of that power, including, where appropriate, on appeal, if the application to grant the necessary decision was not successful.
+
+**4.** The powers conferred on market surveillance authorities under paragraph 1 shall include at least the following:(a) the power to require economic operators to provide relevant documents, technical specifications, data or information on compliance and technical aspects of the product, including access to embedded software in so far as such access is necessary for the purpose of assessing the product's compliance with applicable Union harmonisation legislation, in any form or format and irrespective of the medium of storage or the place where such documents, technical specifications, data or information are stored, and to take or obtain copies thereof;(b) the power to require economic operators to provide relevant information on the supply chain, on the details of the distribution network, on quantities of products on the market and on other product models that have the same technical characteristics as the product in question, where relevant for compliance with the applicable requirements under Union harmonisation legislation;(c) the power to require economic operators to provide relevant information required for the purpose of ascertaining the ownership of websites, where the information in question is related to the subject matter of the investigation;(d) the power to carry out unannounced on-site inspections and physical checks of products;(e) the power to enter any premises, land or means of transport that the economic operator in question uses for purposes related to the economic operator's trade, business, craft or profession, in order to identify non-compliance and to obtain evidence;(f) the power to start investigations on market surveillance authorities' own initiative in order to identify non-compliances and bring them to an end;(g) the power to require economic operators to take appropriate action to bring an instance of non-compliance to an end or to eliminate the risk;(h) the power to take appropriate measures where an economic operator fails to take appropriate corrective action or where the non-compliance or the risk persists, including the power to prohibit or restrict the making available of a product on the market or to order that the product is withdrawn or recalled;(i) the power to impose penalties in accordance with Article 41;(j) the power to acquire product samples, including under a cover identity, to inspect those samples and to reverse-engineer them in order to identify non-compliance and to obtain evidence;(k) the power, where no other effective means are available to eliminate a serious risk:(i) to require the removal of content referring to the related products from an online interface or to require the explicit display of a warning to end users when they access an online interface; or(ii) where a request according to point (i) has not been complied with, to require information society service providers to restrict access to the online interface, including by requesting a relevant third party to implement such measures.
+
+**5.** Market surveillance authorities may use any information, document, finding, statement, or any intelligence as evidence for the purpose of their investigations, irrespective of the format in which and medium on which they are stored.
+
+<a id="art_15"></a>
+
+### Article 15 — Recovery of costs by market surveillance authorities
+
+**1.** Member States may authorise their market surveillance authorities to reclaim from the relevant economic operator the totality of the costs of their activities with respect to instances of non-compliance.
+
+**2.** The costs referred to in paragraph 1 of this Article may include the costs of carrying out testing, the costs of taking measures in accordance with Article 28(1) and (2), the costs of storage and the costs of activities relating to products that are found to be non-compliant and are subject to corrective action prior to their release for free circulation or their placing on the market.
+
+<a id="art_16"></a>
+
+### Article 16 — Market surveillance measures
+
+**1.** Market surveillance authorities shall take appropriate measures if a product subject to Union harmonisation legislation, when used in accordance with its intended purpose or under conditions which can be reasonably foreseen and when properly installed and maintained:(a) is liable to compromise the health or safety of users; or(b) does not conform to applicable Union harmonisation legislation.
+
+**2.** Where market surveillance authorities make findings referred to in point (a) or (b) of paragraph 1, they shall without delay require the relevant economic operator to take appropriate and proportionate corrective action to bring the non-compliance to an end or to eliminate the risk within a period they specify.
+
+**3.** For the purposes of paragraph 2, the corrective action required to be taken by the economic operator may include, inter alia:(a) bringing the product into compliance, including by rectifying formal non-compliance as defined by the applicable Union harmonisation legislation, or by ensuring that the product no longer presents a risk;(b) preventing the product from being made available on the market;(c) withdrawing or recalling the product immediately and alerting the public to the risk presented;(d) destroying the product or otherwise rendering it inoperable;(e) affixing to the product suitable, clearly worded, easily comprehensible warnings of the risks that it might present, in the language or languages determined by the Member State in which the product is made available on the market;(f) setting prior conditions for making the product concerned available on the market;(g) alerting the end users at risk immediately and in an appropriate form, including by publication of special warnings in the language or languages determined by the Member State in which the product is made available on the market.
+
+**4.** Corrective actions referred to in points (e), (f) and (g) of paragraph 3 may only be required in cases where the product is liable to present a risk only in certain conditions or only to certain end users.
+
+**5.** If the economic operator fails to take corrective action referred to in paragraph 3 or where the non-compliance or the risk referred to in paragraph 1 persists, market surveillance authorities shall ensure that the product is withdrawn or recalled, or that its being made available on the market is prohibited or restricted, and that the public, the Commission and the other Member States are informed accordingly.
+
+**6.** The information to the Commission and the other Member States pursuant to paragraph 5 of this Article shall be communicated through the information and communication system referred to in Article 34. That communication of information shall also be deemed to fulfil notification requirements for the applicable safeguard procedures of Union harmonisation legislation.
+
+**7.** Where a national measure is considered to be justified in accordance with the applicable safeguard procedure, or where no market surveillance authority of another Member State concluded the contrary as referred to in Article 11(9), the competent market surveillance authorities in the other Member States shall take the necessary measures in respect of the non-compliant product and shall enter the relevant information in the information and communication system referred to in Article 34.
+
+<a id="art_17"></a>
+
+### Article 17 — Use of information, professional and commercial secrecy
+
+Market surveillance authorities shall perform their activities with a high level of transparency and shall make available to the public any information that they consider to be relevant in order to protect the interests of end users. Market surveillance authorities shall respect the principles of confidentiality and of professional and commercial secrecy and shall protect personal data in accordance with Union and national law.
+
+<a id="art_18"></a>
+
+### Article 18 — Procedural rights of economic operators
+
+**1.** Any measure, decision or order taken or made by market surveillance authorities pursuant to Union harmonisation legislation or this Regulation shall state the exact grounds on which it is based.
+
+**2.** Any such measure, decision or order shall be communicated without delay to the relevant economic operator, who shall at the same time be informed of the remedies available to it under the law of the Member State concerned and of the time limits to which those remedies are subject.
+
+**3.** Before a measure, decision or order referred to in paragraph 1 is taken or made, the economic operator concerned shall be given the opportunity to be heard within an appropriate period of not less than 10 working days, unless it is not possible to give the economic operator that opportunity because of the urgency of the measure, decision or order, based on health or safety requirements or other grounds relating to the public interests covered by the relevant Union harmonisation legislation.
+
+If the measure, decision or order is taken or made without the economic operator being given the opportunity to be heard, the economic operator shall be given that opportunity as soon as possible thereafter and that measure, decision or order shall be reviewed promptly by the market surveillance authority.
+
+<a id="art_19"></a>
+
+### Article 19 — Products presenting a serious risk
+
+**1.** Market surveillance authorities shall ensure that products presenting a serious risk are withdrawn or recalled, where there is no other effective means available to eliminate the serious risk, or that their being made available on the market is prohibited. Market surveillance authorities shall notify the Commission thereof immediately, in accordance with Article 20.
+
+**2.** A decision whether or not a product presents a serious risk shall be based on an appropriate risk assessment that takes account of the nature of the hazard and the likelihood of its occurrence. The feasibility of obtaining higher levels of safety and the availability of other products presenting a lesser degree of risk shall not constitute grounds for considering that a product presents a serious risk.
+
+<a id="art_20"></a>
+
+### Article 20 — Rapid Information Exchange System
+
+**1.** Where a market surveillance authority takes or intends to take a measure pursuant to Article 19 and considers that the reasons which prompted the measure or the effects of the measure go beyond the territory of its Member State, it shall immediately notify the Commission of that measure in accordance with paragraph 4 of this Article. The market surveillance authority shall also inform the Commission without delay of the modification or withdrawal of any such measure.
+
+**2.** If a product presenting a serious risk has been made available on the market, market surveillance authorities shall immediately notify the Commission of any voluntary measures taken and communicated to the market surveillance authority by an economic operator.
+
+**3.** The information provided in accordance with paragraphs 1 and 2 shall include all available details, in particular the data necessary for the identification of the product, the origin and the supply chain of the product, the risk related to the product, the nature and the duration of the national measure taken and any voluntary measures taken by economic operators.
+
+**4.** For the purposes of paragraphs 1, 2 and 3 of this Article, the Rapid Information Exchange System (RAPEX) provided for in Article 12 of Directive 2001/95/EC shall be used. Paragraphs 2, 3 and 4 of Article 12 of that Directive shall apply *mutatis mutandis*.
+
+**5.** The Commission shall provide and maintain a data interface between RAPEX and the information and communication system referred to in Article 34 so as to avoid double data entry.
+
+<a id="art_21"></a>
+
+### Article 21 — Union testing facilities
+
+**1.** The objective of the Union testing facilities is to contribute to enhancing laboratory capacity, as well as to ensuring the reliability and consistency of testing, for the purposes of market surveillance within the Union.
+
+**2.** For the purposes of paragraph 1, the Commission may designate a public testing facility of a Member State as a Union testing facility for specific categories of products or for specific risks related to a category of products.
+
+The Commission may also designate one of its own testing facilities as a Union testing facility for specific categories of products or for specific risks related to a category of products, or for products for which testing capacity is missing or is not sufficient.
+
+**3.** Union testing facilities shall be accredited in accordance with Regulation (EC) No 765/2008.
+
+**4.** The designation of Union testing facilities shall not affect the freedom of market surveillance authorities, the Network and the Commission to choose testing facilities for the purpose of their activities.
+
+**5.** Designated Union testing facilities shall provide their services solely to market surveillance authorities, the Network, the Commission and other government or intergovernmental entities.
+
+**6.** Union testing facilities shall, within the area of their competence, perform the following activities:(a) carry out testing of products at the request of market surveillance authorities, the Network or the Commission;(b) provide independent technical or scientific advice at the request of the Network;(c) develop new techniques and methods of analysis.
+
+**7.** The activities referred to in paragraph 6 of this Article shall be remunerated and may be financed by the Union in accordance with Article 36(2).
+
+**8.** Union testing facilities may receive financing by the Union in accordance with Article 36(2) in order to increase their testing capacity or to create new testing capacity for specific categories of products or for specific risks related to a category of products for which the testing capacity is missing or is insufficient.
+
+**9.** The Commission shall adopt implementing acts specifying the procedures for the designation of Union testing facilities. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 43(2).
+
+## CHAPTER VI — CROSS-BORDER MUTUAL ASSISTANCE
+
+<a id="art_22"></a>
+
+### Article 22 — Mutual Assistance
+
+**1.** There shall be efficient cooperation and exchange of information among the market surveillance authorities of the Member States, and between market surveillance authorities and the Commission and the relevant Union agencies.
+
+**2.** When a market surveillance authority is unable to conclude its investigation because of its inability to access certain information, despite having made all appropriate efforts to obtain that information, it may submit a reasoned request to the market surveillance authority of another Member State where access to this information can be enforced. In this case the requested authority shall supply to the applicant authority without delay, and in any event within 30 days, any information that the requested authority considers to be relevant in order to establish whether a product is non-compliant.
+
+**3.** The requested authority shall undertake appropriate investigations or take any other measures that are appropriate in order to gather the requested information. Where necessary, those investigations shall be carried out with the assistance of other market surveillance authorities.
+
+**4.** The applicant authority shall remain responsible for any investigation that it has initiated, unless the requested authority agrees to take over responsibility.
+
+**5.** In duly justified cases, a requested authority may refuse to comply with a request for information under paragraph 2 where:(a) the applicant authority has not sufficiently substantiated that the requested information is necessary in order to establish non-compliance;(b) the requested authority demonstrates reasonable grounds showing that complying with the request would substantially impair the execution of its own activities.
+
+<a id="art_23"></a>
+
+### Article 23 — Requests for enforcement measures
+
+**1.** Where bringing non-compliance with regard to a product to an end requires measures within the jurisdiction of another Member State and where such measures do not result from the requirements of Article 16(7), an applicant authority may submit a duly reasoned request for enforcement measures to a requested authority in that other Member State.
+
+**2.** The requested authority shall without delay take all appropriate and necessary enforcement measures using the powers conferred on it under this Regulation in order to bring the instance of non-compliance to an end by exercising the powers laid down in Article 14 and any additional powers granted to it under national law.
+
+**3.** The requested authority shall inform the applicant authority about the measures referred to in paragraph 2 that have been taken or which are intended to be taken.
+
+A requested authority may refuse to comply with a request for enforcement measures in any of the following situations:
+
+(a) the requested authority concludes that the applicant authority has not provided sufficient information;
+
+(b) the requested authority considers that the request is contrary to Union harmonisation legislation;
+
+(c) the requested authority demonstrates reasonable grounds showing that complying with the request would substantially impair the execution of its own activities.
+
+<a id="art_24"></a>
+
+### Article 24 — Procedure for mutual assistance requests
+
+**1.** Before submitting a request under Article 22 or 23, the applicant authority shall endeavour to carry out all reasonable possible investigations.
+
+**2.** When submitting a request under Article 22 or 23, the applicant authority shall provide all available information in order to enable the requested authority to fulfil the request, including any necessary evidence obtainable only in the Member State of the applicant authority.
+
+**3.** Requests under Articles 22 and 23 and all communication related to them shall be made using electronic standard forms by means of the information and communication system referred to in Article 34.
+
+**4.** Communication shall take place directly between the involved market surveillance authorities or through the single liaison offices of the Member States concerned.
+
+**5.** The languages to be used for requests under Articles 22 and 23 and for all communication linked to them shall be agreed upon by the market surveillance authorities concerned.
+
+**6.** Where no agreement about the languages to be used can be reached between the market surveillance authorities concerned, the requests under Articles 22 and 23 shall be sent in the official language of the Member State of the applicant authority, and the replies to such requests shall be sent in the official language of the Member State of the requested authority. In such case, the applicant authority and the requested authority shall arrange for the translation of the requests, replies or other documents that it receives from the other authority.
+
+**7.** The information and communication system referred to in Article 34 shall provide structured information on mutual assistance cases to the single liaison offices involved. Using this information, single liaison offices shall provide any support that is necessary to facilitate assistance.
+
+## CHAPTER VII — PRODUCTS ENTERING THE UNION MARKET
+
+<a id="art_25"></a>
+
+### Article 25 — Controls on products entering the Union market
+
+**1.** Member States shall designate customs authorities, one or more market surveillance authorities or any other authority in their territory as the authorities in charge of the control on products entering the Union market.
+
+Each Member State shall inform the Commission and the other Member States of the authorities designated under the first subparagraph and of their areas of competence through the information and communication system referred to in Article 34.
+
+**2.** The authorities designated under paragraph 1 shall have the necessary powers and resources for the proper performance of their tasks as referred to in that paragraph.
+
+**3.** Products subject to Union law that are to be placed under the customs procedure ‘release for free circulation’ shall be subject to controls performed by the authorities designated under paragraph 1 of this Article. They shall perform those controls on the basis of risk analysis in accordance with Articles 46 and 47 of Regulation (EU) No 952/2013 and, where relevant, on the basis of risk-based approach as referred to in the second subparagraph of Article 11(3) of this Regulation.
+
+**4.** Risk-related information shall be exchanged between:(a) the authorities designated under paragraph 1 of this Article in accordance with Article 47(2) of Regulation (EU) No 952/2013; and(b) customs authorities in accordance with Article 46(5) of Regulation (EU) No 952/2013.
+
+Where, in relation to products subject to Union law that are either in temporary storage or placed under a customs procedure other than ‘release for free circulation’, customs authorities at the first point of entry have reason to believe that those products are not compliant with applicable Union law or present a risk, they shall transmit all relevant information to the competent customs office of destination.
+
+**5.** Market surveillance authorities shall provide authorities designated under paragraph 1 with information on categories of products or the identity of economic operators where a higher risk of non-compliance has been identified.
+
+**6.** By 31 March of each year, Member States shall submit to the Commission detailed statistical data covering controls performed by the authorities designated under paragraph 1 with respect to products subject to Union law during the previous calendar year. The statistical data shall cover the number of interventions in the field of controls on such products with regard to product safety and compliance.
+
+The Commission shall draw up a report by 30 June of each year, containing the information provided by the Member States for the previous calendar year and an analysis of the data submitted. The report shall be published in the information and communication system referred to in Article 34.
+
+**7.** Where the Commission becomes aware of a serious risk presented by products subject to Union law that are imported from a third country, it shall recommend to the Member State concerned to take appropriate market surveillance measures.
+
+**8.** The Commission, after consulting the Network, may adopt implementing acts laying down benchmarks and techniques for checks on the basis of common risk analysis on the Union level, in order to ensure a consistent enforcement of Union law, to strengthen the controls on products entering the Union market and to ensure an effective and uniform level of such controls. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 43(2).
+
+**9.** The Commission shall adopt implementing acts further specifying the details of the data to be submitted under paragraph 6 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 43(2).
+
+<a id="art_26"></a>
+
+### Article 26 — Suspension of release for free circulation
+
+**1.** Authorities designated under Article 25(1) shall suspend the release of a product for free circulation if in the course of controls pursuant to Article 25(3), it is established that:(a) the product is not accompanied by the documentation required by the Union law applicable to it or there is a reasonable doubt as to the authenticity, accuracy or completeness of such documentation;(b) the product is not marked or labelled in accordance with the Union law applicable to it;(c) the product bears a CE marking or other marking required by the Union law applicable to it which has been affixed in a false or misleading manner;(d) the name, registered trade name or registered trade mark and the contact details, including the postal address, of an economic operator with tasks regarding the product subject to certain Union harmonisation legislation is not indicated or identifiable in accordance with Article 4(4); or(e) for any other reason, when there is cause to believe that the product does not comply with the Union law applicable to it or that it presents a serious risk to health, safety, the environment or any other public interest referred to in Article 1.
+
+**2.** Authorities designated under Article 25(1) shall immediately notify the market surveillance authorities of any suspension of release referred to in paragraph 1 of this Article.
+
+**3.** Where the market surveillance authorities have reasonable grounds to believe that a product does not comply with the Union law applicable to it or presents a serious risk, they shall request the authorities designated under Article 25(1) to suspend the process for its release for free circulation.
+
+**4.** Notifications under paragraph 2 and requests under paragraph 3 of this Article may take place by means of the information and communication system referred to in Article 34, including through the use of electronic interfaces between this system and systems used by customs authorities, when they are available.
+
+<a id="art_27"></a>
+
+### Article 27 — Release for free circulation
+
+Where the release of a product for free circulation has been suspended in accordance with Article 26, that product shall be released for free circulation where all the other requirements and formalities relating to such a release have been fulfilled and where either of the following conditions is satisfied:
+
+(a) within four working days of the suspension, the authorities designated under Article 25(1) have not been requested by the market surveillance authorities to maintain the suspension;
+
+(b) the authorities designated under Article 25(1) have been informed by the market surveillance authorities of its approval for release for free circulation.
+
+The release for free circulation shall not be deemed to be proof of conformity with Union law.
+
+<a id="art_28"></a>
+
+### Article 28 — Refusal to release for free circulation
+
+**1.** Where the market surveillance authorities conclude that a product presents a serious risk, they shall take measures to prohibit the placing of the product on the market and shall require the authorities designated under Article 25(1) not to release it for free circulation. They shall also require these authorities to include the following notice in the customs data-processing system, and, where appropriate, on the commercial invoice accompanying the product and on any other relevant accompanying document: ‘Dangerous product — release for free circulation not authorised — Regulation (EU) 2019/1020’.
+
+Market surveillance authorities shall immediately enter that information in the information and communication system referred to in Article 34.
+
+**2.** Where market surveillance authorities conclude that a product may not be placed on the market since it does not comply with the Union law applicable to it, they shall take measures to prohibit the placing of the product on the market and shall require the authorities designated under Article 25(1) not to release it for free circulation. They shall also require those authorities to include the following notice in the customs data-processing system, and, where appropriate, on the commercial invoice accompanying the product and on any other relevant accompanying document: ‘Product not in conformity — release for free circulation not authorised — Regulation (EU) 2019/1020’.
+
+Market surveillance authorities shall immediately enter that information in the information and communication system referred to in Article 34.
+
+**3.** Where the product referred to in paragraph 1 or 2 is subsequently declared for a customs procedure other than release for free circulation and provided that the market surveillance authorities do not object, the notice required by paragraph 1 or 2 shall also be included, under the same conditions as required by paragraph 1 or 2, in the documents used in connection with that procedure.
+
+**4.** Authorities designated under Article 25(1) may destroy or otherwise render inoperable a product which presents a risk to the health and safety of end users where the authority in question considers that it is necessary and proportionate to do so. The cost of such measure shall be borne by the natural or legal person declaring the product for free circulation.
+
+Articles 197 and 198 of Regulation (EU) No 952/2013 shall apply accordingly.
+
+## CHAPTER VIII — COORDINATED ENFORCEMENT AND INTERNATIONAL COOPERATION
+
+<a id="art_29"></a>
+
+### Article 29 — Union Product Compliance Network
+
+**1.** A Union Product Compliance Network (‘the Network’) is hereby established.
+
+**2.** The purpose of the Network is to serve as a platform for structured coordination and cooperation between enforcement authorities of the Member States and the Commission, and to streamline the practices of market surveillance within the Union, thereby making market surveillance more effective.
+
+<a id="art_30"></a>
+
+### Article 30 — Composition and functioning of the Network
+
+**1.** The Network shall be composed of representatives from each Member State, including a representative of each single liaison office referred to in Article 10 and an optional national expert, the chairs of ADCOs, and representatives from the Commission.
+
+**2.** Separate or joint ADCOs shall be established for the uniform application of Union harmonisation legislation. ADCOs shall be composed of representatives of the national market surveillance authorities and, if appropriate, representatives of the single liaison offices.
+
+ADCOs meetings are intended only for representatives of market surveillance authorities and the Commission.
+
+Relevant stakeholders, such as organisations representing the interests of industry, small and medium-sized enterprises (SMEs), consumers, testing laboratories, standardisation and conformity assessment bodies at Union level, may be invited to attend the ADCOs meetings depending on the subject matter of discussion.
+
+**3.** The Commission shall support and encourage cooperation between market surveillance authorities through the Network and participate in the meetings of the Network, its sub-groups and the ADCOs.
+
+**4.** The Network shall meet at regular intervals and, where necessary, at the reasoned request of the Commission or a Member State.
+
+**5.** The Network may establish standing or temporary sub-groups dealing with specific questions and tasks.
+
+**6.** The Network may invite experts and other third parties, including the organisations representing the interests of industry, SMEs, consumers, testing laboratories, standardisation and conformity assessment bodies at Union level, to attend meetings as observers or to provide written contributions.
+
+**7.** The Network shall use its best endeavours to reach consensus. Decisions taken by the Network shall be legally non-binding recommendations.
+
+**8.** The Network shall establish its own rules of procedure.
+
+<a id="art_31"></a>
+
+### Article 31 — Role and tasks of the Network
+
+**1.** In carrying out the tasks set out in paragraph 2, the Network shall address general, horizontal issues of market surveillance with a view to facilitating the cooperation among single liaison offices, as well as the Commission.
+
+**2.** The Network shall have the following tasks:(a) to prepare, adopt and monitor the implementation of its work programme;(b) to facilitate the identification of common priorities for market surveillance activities and the exchange of information across sectors on evaluations of products, including risk assessment, test methods and results, recent scientific developments and new technologies, emerging risks and other aspects relevant to control activities and on the implementation of national market surveillance strategies and activities;(c) to coordinate ADCOs and their activities;(d) to organise cross-sector joint market surveillance and testing projects and define their priorities;(e) to exchange expertise and best practices, in particular regarding the implementation of national market surveillance strategies;(f) to facilitate the organisation of training programmes and exchanges of personnel;(g) in collaboration with the Commission, to organise information campaigns and voluntary mutual visit programmes between market surveillance authorities;(h) to discuss questions arising from cross-border mutual assistance mechanisms;(i) to contribute to the development of guidance to ensure the effective and uniform application of this Regulation;(j) to propose the financing of activities referred to in Article 36;(k) to contribute to uniform administrative practices with regard to market surveillance in the Member States;(l) to provide advice and assist the Commission with issues related to the further development of RAPEX and the information and communication system referred to in Article 34;(m) to promote the cooperation and exchange of expertise and best practices between market surveillance authorities and authorities in charge of controls at the Union's external borders;(n) to promote and facilitate collaboration with other relevant networks and groups, with a view to explore possibilities for using new technologies for the purposes of market surveillance and traceability of products;(o) to evaluate regularly the national market surveillance strategies, the first such evaluation taking place by 16 July 2024;(p) to take up any other issues in activities within the remit of the Network, with the aim of contributing to the effective functioning of market surveillance within the Union.
+
+<a id="art_32"></a>
+
+### Article 32 — Role and tasks of administrative cooperation groups
+
+**1.** In carrying out the tasks set out in paragraph 2, ADCOs shall address specific matters related to market surveillance and sector specific issues.
+
+**2.** ADCOs shall have the following tasks:(a) to facilitate the uniform application of Union harmonisation legislation within their area of competence with a view to increasing the efficiency of market surveillance throughout the internal market;(b) to promote communication between market surveillance authorities and the Network and develop mutual confidence between market surveillance authorities;(c) to establish and coordinate common projects, such as cross-border joint market surveillance activities;(d) to develop common practices and methodologies for effective market surveillance;(e) to inform each other of national market surveillance methods and activities and to develop and promote best practices;(f) to identify issues of shared interest relating to market surveillance and suggest common approaches to be adopted;(g) to facilitate sector-specific evaluations of products, including risk assessments, test methods and results, recent scientific developments and other aspects relevant to control activities.
+
+<a id="art_33"></a>
+
+### Article 33 — Role and tasks of the Commission
+
+The Commission shall have the following tasks:
+
+(a) to assist the Network, its sub-groups, and the ADCOs by means of an executive secretariat that provides technical and logistic support;
+
+(b) to keep and make available to the single liaison offices and ADCO chairs an updated list of ADCO chairs, including their contact information;
+
+(c) to assist the Network in preparing and monitoring its work programme;
+
+(d) to support the functioning of the Product Contact Points having duties assigned by Member States in relation to Union harmonisation legislation;
+
+(e) to determine, in consultation with the Network, the need for additional testing capacity and to propose solutions for that purpose, in accordance with Article 21;
+
+(f) to apply the instruments of international cooperation referred to in Article 35;
+
+(g) to provide support for the establishment of separate or joint ADCOs;
+
+(h) to develop and maintain the information and communication system referred to in Article 34, including the interface referred to in Article 34(7), as well as the interface with national market surveillance databases, and provide information to the public by means of that system;
+
+(i) to assist the Network to perform preliminary or ancillary work in connection with the implementation of market surveillance activities linked to the application of Union harmonisation legislation, such as studies, programmes, evaluations, comparative analyses, mutual joint visits and visit programmes, exchange of personnel, research work, laboratory work, proficiency testing, inter-laboratory tests and conformity assessment work;
+
+(j) to prepare and assist in the implementation of Union market surveillance campaigns and similar activities;
+
+(k) to organise joint market surveillance and testing projects, and common training programmes, to facilitate exchanges of personnel between market surveillance authorities and, where appropriate, with the market surveillance authorities of third countries or with international organisations, and to organise information campaigns and voluntary mutual visit programmes between market surveillance authorities;
+
+(l) to carry out activities under programmes of technical assistance, cooperation with third countries and the promotion and enhancement of Union market surveillance policies and systems among interested parties at Union and international level;
+
+(m) to facilitate technical or scientific expertise for the purpose of implementing market surveillance administrative cooperation;
+
+(n) to examine, at the request of the Network or on its own initiative, any question covering the application of this Regulation and issue guidelines, recommendations and best practices in order to encourage consistent application of this Regulation.
+
+<a id="art_34"></a>
+
+### Article 34 — Information and communication system
+
+**1.** The Commission shall further develop and maintain an information and communication system for the collection, processing and storage of information, in a structured form, on issues relating to the enforcement of Union harmonisation legislation, with the aim of improving the sharing of data among Member States, including for the purpose of requests for information, providing a comprehensive overview of market surveillance activities, results and trends. The Commission, market surveillance authorities, single liaison offices, and authorities designated under Article 25(1) shall have access to that system. The Commission shall develop and maintain the public user interface of this system, where key information for end-users about market surveillance activities shall be provided.
+
+**2.** The Commission shall further develop and maintain electronic interfaces between the system referred to in paragraph 1 and national market surveillance systems.
+
+**3.** Single liaison offices shall enter the following information in the information and communication system:(a) the identity of the market surveillance authorities in their Member State and areas of competence of those authorities pursuant to Article 10(2);(b) the identity of the authorities designated under Article 25(1);(c) the national market surveillance strategy drawn up by their Member State under Article 13 and the results from the review and assessment of the market surveillance strategy.
+
+**4.** Market surveillance authorities shall enter into the information and communication system in relation to products made available on the market for which an in-depth check of compliance has been carried out, without prejudice to Article 12 of Directive 2001/95/EC and Article 20 of this Regulation, and where applicable, in relation to products entering the Union market for which the process for the release for free circulation has been suspended in accordance with Article 26 of this Regulation, in their territory, the following information concerning:(a) measures according to Article 16(5) taken by that market surveillance authority;(b) reports of testing carried out by them;(c) corrective action taken by economic operators concerned;(d) readily available reports on injuries caused by the product in question;(e) any objection raised by a Member State in accordance with the applicable safeguard procedure in the Union harmonisation legislation applicable to the product and any subsequent follow-up;(f) where available, failures by authorised representatives to comply with Article 5(2);(g) where available, failures by manufacturers to comply with Article 5(1).
+
+**5.** Where market surveillance authorities consider it useful, they may enter into the information and communication system any additional information related to the checks they perform and results of testing carried out by them or at their request.
+
+**6.** Where relevant for the enforcement of Union harmonisation legislation and for the purpose of minimising risk, customs authorities shall extract from national customs systems information on products placed under the customs procedure ‘release for free circulation’ related to the enforcement of Union harmonisation legislation and transmit it to the information and communication system.
+
+**7.** The Commission shall develop an electronic interface to enable the transmission of data between national customs systems and the information and communication system. This interface shall be in place within four years from the date of adoption of the relevant implementing act referred to in paragraph 8.
+
+**8.** The Commission shall adopt implementing acts specifying the details of implementation arrangements for paragraphs 1 to 7 of this Article, and in particular the data processing to be applied on data collected in accordance with paragraph 1 of this Article, and defining the data to be transmitted in accordance with paragraphs 6 and 7 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 43(2).
+
+<a id="art_35"></a>
+
+### Article 35 — International cooperation
+
+**1.** In order to improve the efficiency of market surveillance in the Union, the Commission may cooperate with and exchange market surveillance related information with regulatory authorities of third countries or international organisations within the framework of agreements concluded between the Union and third countries or international organisations. Any such agreements shall be based on reciprocity, include provisions on confidentiality corresponding to those applicable in the Union, and ensure that any exchange of information is in accordance with applicable Union law.
+
+**2.** The cooperation or exchange of information may relate, inter alia, to the following:(a) risk assessment methods used and the results of product-testing;(b) coordinated product recalls or other similar actions;(c) the measures taken by market surveillance authorities under Article 16.
+
+**3.** The Commission may approve a specific system of product-related pre-export control carried out by a third country on products immediately prior to their export into the Union in order to verify that those products satisfy the requirements of the Union harmonisation legislation applicable to them. The approval may be granted in respect of one or more products, in respect of one or more categories of products or in respect of products or categories of products manufactured by certain manufacturers.
+
+**4.** The Commission shall produce and maintain a list of those products or categories of products with regard to which approval has been granted as referred to in paragraph 3 and shall make this list available to the public.
+
+**5.** Approval may only be granted to a third country under paragraph 3 if following conditions are satisfied:(a) the third country possesses an efficient verification system of the compliance of products exported to the Union, and the controls carried out in that third country are sufficiently effective and efficient to replace or reduce import controls;(b) audits within the Union and, if relevant, in the third country demonstrate that products exported from that third country to the Union satisfy the requirements set out in Union harmonisation legislation.
+
+**6.** Where such an approval has been granted, the risk assessment applied to import controls for those products or categories of products entering the Union market, referred to in paragraph 3, shall include the granted approvals.
+
+Authorities designated under Article 25(1) may however carry out controls on those products or categories of products entering the Union market, including in order to ensure that the pre-export controls carried out by the third country are effective to determine compliance with Union harmonisation legislation.
+
+**7.** The approval referred to in paragraph 3 shall specify the competent authority of the third country under whose responsibility the pre-export controls are to be performed and that competent authority shall be the counterpart for all contacts with the Union.
+
+**8.** The competent authority, referred to in paragraph 7, shall ensure the official verification of the products prior to their entry into the Union.
+
+**9.** Where controls on products entering the Union market referred to in paragraph 3 of this Article reveal significant non-compliance, the market surveillance authorities shall notify immediately the Commission through the information and communication system referred to in Article 34 and adapt the level of controls on such products.
+
+**10.** The Commission shall adopt implementing acts approving each specific system of product-related pre-export controls, referred to in paragraph 3 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 43(2).
+
+**11.** The Commission shall regularly monitor the correct functioning of the approval granted under paragraph 3 of this Article. The Commission shall adopt implementing acts withdrawing that approval where it is revealed that the products entering the Union market do not comply with Union harmonisation legislation in a significant number of instances. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 43(2). The Commission shall immediately inform the third country concerned thereof.
+
+**12.** The system of product-related pre-export control shall be evaluated in accordance with Article 42(4).
+
+## CHAPTER IX — FINANCIAL PROVISIONS
+
+<a id="art_36"></a>
+
+### Article 36 — Financing activities
+
+**1.** The Union shall finance performance of the tasks of the Network referred to in Article 31 and the peer reviews referred to in Article 12.
+
+**2.** The Union may finance the following activities in relation to the application of this Regulation:(a) the functioning of the Product Contact Points;(b) the establishment and functioning of Union testing facilities referred to in Article 21;(c) the development of instruments of international cooperation referred to in Article 35;(d) the drawing up and updating of contributions to guidelines on market surveillance;(e) the making available to the Commission of technical or scientific expertise for the purpose of assisting the Commission in its implementation of market surveillance administrative cooperation;(f) the implementation of national market surveillance strategies referred to in Article 13;(g) Member States' and Union market surveillance campaigns and associated activities, including resources and equipment, IT tools and training;(h) the performance of preliminary or ancillary work in connection with market surveillance activities related to the application of Union harmonisation legislation, such as studies, programmes, evaluations, guidelines, comparative analyses, mutual joint visits and visit programmes, exchange of personnel, research work, training activities, laboratory work, proficiency testing, inter-laboratory tests and conformity assessment work;(i) activities carried out under programmes providing technical assistance, cooperation with third countries and the promotion and enhancement of Union market surveillance policies and systems amongst interested parties at Union and international level.
+
+**3.** The Union shall finance the electronic interface referred to in Article 34(7), including the development of the information and communication system referred to in Article 34 to enable it to receive automatic flows of electronic data from the national customs systems.
+
+**4.** The Union shall finance the electronic interfaces referred to in Article 34(2) enabling the exchange of data between the information and communication system referred to in Article 34 and the national market surveillance systems.
+
+**5.** The Union's financial assistance with respect to the activities in support of this Regulation shall be implemented in accordance with Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (24), either directly, or by entrusting budget implementation tasks to the entities listed in point (c) of Article 62(1) of that Regulation.
+
+**6.** The appropriations allocated to activities referred to in this Regulation shall be determined each year by the budgetary authority within the limits of the financial framework in force.
+
+**7.** The appropriations determined by the budgetary authority for the financing of market surveillance activities may also cover expenses relating to preparatory work, monitoring, control, audit and evaluation activities which are required for the management of the activities set out in this Regulation and for the achievement of their objectives. These expenses shall include the costs of conducting studies, arranging meetings of experts, information and communication activities, including corporate communication of the political priorities of the Union in so far as they are related to the general objectives of market surveillance activities, expenses linked to information technology networks focusing on information processing and exchange together with all other related technical and administrative assistance expenses incurred by the Commission.
+
+<a id="art_37"></a>
+
+### Article 37 — Protection of the financial interests of the Union
+
+**1.** The Commission shall take appropriate measures to ensure that, when activities financed under this Regulation are implemented, the financial interests of the Union are protected by the application of preventive measures against fraud, corruption and any other illegal activities, by effective controls and, if irregularities are detected, by the recovery of the amounts wrongly paid and, where appropriate, by effective, proportionate and dissuasive administrative and financial penalties.
+
+**2.** The Commission or its representatives and the Court of Auditors shall have the power of audit, on the basis of documents and of on-the-spot inspections, over all grant beneficiaries, contractors and subcontractors who have received Union funds under this Regulation.
+
+**3.** The European Anti-Fraud Office (OLAF) may carry out investigations, including on-the-spot controls and inspections, in accordance with the provisions and procedures laid down in Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council (25) and Council Regulation (Euratom, EC) No 2185/96 (26) with a view to establishing whether there has been fraud, corruption or any other illegal activity affecting the financial interests of the Union in connection with a grant agreement or grant decision or a contract funded under this Regulation.
+
+**4.** Without prejudice to paragraphs 1, 2 and 3, cooperation agreements with third countries and with international organisations, contracts, grant agreements and grant decisions resulting from the implementation of this Regulation shall contain provisions expressly empowering the Commission, the Court of Auditors and OLAF to conduct such audits and investigations, in accordance with their respective competences.
+
+## CHAPTER X — AMENDMENTS
+
+<a id="art_38"></a>
+
+### Article 38 — Amendments to Directive 2004/42/EC
+
+Articles 6 and 7 of Directive 2004/42/EC of the European Parliament and of the Council (27) are deleted.
+
+<a id="art_39"></a>
+
+### Article 39 — Amendments to Regulation (EC) No 765/2008
+
+**1.** Regulation (EC) No 765/2008 is amended as follows:(1) the title is replaced by the following: ‘Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and repealing Regulation (EEC) No 339/93’;(2) in Article 1, paragraphs 2 and 3 are deleted;(3) in Article 2, points 1, 2, 14, 15, 17, 18 and 19 are deleted;(4) Chapter III, containing Articles 15 to 29, is deleted;(5) paragraph 1 of Article 32 is amended as follows:(a) point (c) is replaced by the following:‘(c) the drawing up and updating of contributions to guidelines in the fields of accreditation, notification to the Commission of conformity assessment bodies and conformity assessment;’;(b) points (d) and (e) are deleted;(c) points (f) and (g) are replaced by the following:‘(f) the performance of preliminary or ancillary work in connection with the implementation of the conformity assessment, metrology and accreditation activities linked to the implementation of Community legislation, such as studies, programmes, evaluations, guidelines, comparative analyses, mutual joint visits, research work, the development and maintenance of databases, training activities, laboratory work, proficiency testing, inter-laboratory tests and conformity assessment work;(g) activities carried out under programmes of technical assistance, cooperation with third countries and the promotion and enhancement of European conformity assessment and accreditation policies and systems among interested parties in the Community and at international level.’
+
+**2.** References to the deleted provisions of Regulation (EC) No 765/2008 shall be construed as references to the provisions of this Regulation and shall be read in accordance with the correlation table in Annex III to this Regulation.
+
+<a id="art_40"></a>
+
+### Article 40 — Amendments to Regulation (EU) No 305/2011
+
+In Article 56(1) of Regulation (EU) No 305/2011, the first subparagraph is replaced by the following:
+
+**‘1.** Where the market surveillance authorities of one Member State have sufficient reason to believe that a construction product covered by a harmonised standard or for which a European Technical Assessment has been issued does not achieve the declared performance and presents a risk for the fulfilment of the basic requirements for construction works covered by this Regulation, they shall carry out an evaluation in relation to the product concerned covering the respective requirements laid down by this Regulation. The relevant economic operators shall cooperate as necessary with the market surveillance authorities.’
+
+## CHAPTER XI — FINAL PROVISIONS
+
+<a id="art_41"></a>
+
+### Article 41 — Penalties
+
+**1.** The Member States shall lay down the rules on penalties applicable to infringements of this Regulation and of Union harmonisation legislation listed in Annex II that impose obligations on economic operators and shall take all measures necessary to ensure that they are implemented in accordance with national law.
+
+**2.** The penalties provided for shall be effective, proportionate and dissuasive.
+
+**3.** The Member States shall, by 16 October 2021, notify those provisions to the Commission, where they have not previously been notified, and shall notify it, without delay, of any subsequent amendment affecting them.
+
+<a id="art_42"></a>
+
+### Article 42 — Evaluation, review and guidelines
+
+**1.** By 31 December 2026 and every five years thereafter, the Commission shall carry out an evaluation of this Regulation in light of the objectives that it pursues and shall present a report thereon to the European Parliament, to the Council and to the European Economic and Social Committee.
+
+**2.** The report shall assess whether this Regulation achieved its objective, in particular with regard to reducing the number of non-compliant products on the Union market, ensuring effective and efficient enforcement of Union harmonisation legislation within the Union, improving cooperation between competent authorities and strengthening the controls on products entering the Union market, while taking into account the impact on business and in particular on SMEs. In addition, the evaluation shall also assess the scope of this Regulation, the effectiveness of the peer review system and of the market surveillance activities that receive Union financing in the light of the requirements of Union policies and law and the possibilities to further improve the cooperation between the market surveillance authorities and customs authorities.
+
+**3.** By 16 July 2023, the Commission shall prepare an evaluation report on the implementation of Article 4. The report shall in particular evaluate the scope of that Article, its effects and its costs and benefits. The report shall be accompanied, where appropriate, by a legislative proposal.
+
+**4.** Within four years after the first approval of a specific system of product-related pre-export control referred to in Article 35(3), the Commission shall carry out an evaluation of its effects and cost efficiency.
+
+**5.** In order to facilitate the implementation of this Regulation, the Commission shall draw up guidelines for the practical implementation of Article 4 for the purposes of market surveillance authorities and economic operators.
+
+<a id="art_43"></a>
+
+### Article 43 — Committee procedure
+
+**1.** The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+**2.** Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act in respect of the implementing powers referred to in Article 11(4), Article 21(9), Article 25(8), Article 35(10) and Article 35(11) of this Regulation, and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+<a id="art_44"></a>
+
+### Article 44 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+It shall apply from 16 July 2021. However, Articles 29, 30, 31, 32, 33 and 36 shall apply from 1 January 2021.

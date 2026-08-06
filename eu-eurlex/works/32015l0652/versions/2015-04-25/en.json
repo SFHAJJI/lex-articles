@@ -1,0 +1,395 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015l0652:2015-04-25",
+  "language": "en",
+  "title": "Council Directive (EU) 2015/652 of 20 April 2015 laying down calculation methods and reporting requirements pursuant to Directive 98/70/EC",
+  "valid_from": "2015-04-25",
+  "valid_to": "2018-12-23",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015l0652/versions/2015-04-25/en.html",
+    "sha256": "fca2a0eab85f4eac1fb1e9cc91911c43fdb0ef13d1686472be26ea7a5e5c5828",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015L0652-20150425"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015l0652:2015-04-25#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Subject matter — Scope",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. This Directive lays down rules on calculation methods and reporting requirements in accordance with Directive 98/70/EC.\n\n2. This Directive applies to fuels used to propel road vehicles, non-road mobile machinery (including inland waterway vessels when not at sea), agricultural and forestry tractors, recreational craft when not at sea and electricity for use in road vehicles.",
+      "text_sha256": "f9cd465649507c5a8081606f73a0f5929acafd4e9b5063694847d87766688dc7",
+      "md_span": {
+        "start": 727,
+        "end": 1107
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015l0652:2015-04-25#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Definitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the purposes of this Directive, and in addition to the definitions already contained in Directive 98/70/EC, the following definitions apply:\n\n(1) ‘upstream emissions’ means all greenhouse gas emissions occurring prior to the raw material entering a refinery or a processing plant where the fuel, as referred to in Annex I, was produced;\n\n(2) ‘natural bitumen’ means any source of refinery raw material that:\n\n(a) has an American Petroleum Institute (API) gravity of 10 degrees or less when situated in a reservoir formation at the place of extraction as defined pursuant to the testing method of the American Society for Testing and Materials (ASTM) (7) D287;\n\n(b) has an annual average viscosity at reservoir temperature greater than that calculated by the equation: Viscosity (Centipoise) = 518,98e-0,038T, where T is the temperature in Celsius;\n\n(c) falls within the definition for tar sands under combined nomenclature (CN) code 2714 as outlined in Council Regulation (EEC) No 2658/87 (8); and\n\n(d) where the mobilisation of the source of the raw material is achieved by mining extraction or thermally enhanced gravity drainage where the thermal energy is mainly derived from sources other than the feedstock source itself;\n\n(3) ‘oil shale’ means any source of refinery raw material as situated in a rock formation containing solid kerogen and falling within the definition for oil shale under CN code 2714 as outlined in Regulation (EEC) No 2658/87. Mobilisation of the source of the raw material is achieved by mining extraction or thermally enhanced gravity drainage;\n\n(4) ‘fuel baseline standard’ means a fuel baseline standard based on the life cycle greenhouse gas emissions per unit of energy from fossil fuels in 2010;\n\n(5) ‘conventional crude’ means any refinery raw material exhibiting an API gravity that is higher than 10 degrees when situated in a reservoir formation at its place of origin as measured per testing method ASTM D287, and not falling within the definition for CN code 2714 as set out in Regulation (EEC) No 2658/87.",
+      "text_sha256": "512d96bd690549dd0a72a1fb24ffd39dad4b69149949cdeaaf6d97243db74d4c",
+      "md_span": {
+        "start": 1158,
+        "end": 3209
+      },
+      "citations": [
+        {
+          "href": "#E0007",
+          "text": "7"
+        },
+        {
+          "href": "#E0008",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32015l0652:2015-04-25#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Method for calculating the greenhouse gas intensity of fuels and energy supplied other than biofuels and reporting by suppliers",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. For the purposes of Article 7a(2) of Directive 98/70/EC, Member States shall ensure that suppliers use the calculation method set out in Annex I to this Directive to determine the greenhouse gas intensity of the fuels they supply.\n\n2. For the purposes of the second subparagraph of Article 7a(1) and of Article 7a(2) of Directive 98/70/EC, Member States shall require suppliers to report data using the definitions and the calculation method set out in Annex I to this Directive. The data shall be reported annually using the template set out in Annex IV to this Directive.\n\n3. For the purposes of Article 7a(4) of Directive 98/70/EC, any Member State shall ensure that a group of suppliers choosing to be considered as a single supplier meets its obligation under Article 7a(2) within that Member State.\n\n4. For suppliers that are SMEs, Member States shall apply the simplified method set out in Annex I to this Directive.",
+      "text_sha256": "c31ae8219c46d3aa3152bd803159bae058690e4fcb81f3728d11b183781c518b",
+      "md_span": {
+        "start": 3376,
+        "end": 4302
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32015l0652:2015-04-25#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Calculation of fuel baseline standard and greenhouse gas intensity reduction",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the purposes of verifying compliance by suppliers with their obligation under Article 7a(2) of Directive 98/70/EC, Member States shall require suppliers to compare their achieved reductions of life cycle greenhouse gas emissions from fuels and from electricity to the fuel baseline standard set out in Annex II to this Directive.",
+      "text_sha256": "169fe530d491907438d56e7e46e417c029044b4064ea10d80507d9cafe359158",
+      "md_span": {
+        "start": 4418,
+        "end": 4751
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32015l0652:2015-04-25#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Reporting by Member States",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. When submitting reports to the Commission under Article 8(3) of Directive 98/70/EC, Member States shall provide the Commission with data related to compliance with Article 7a of that Directive, as defined in Annex III to this Directive.\n\n2. Member States shall use the ReportNet tools of the European Environment Agency provided pursuant to Regulation (EC) No 401/2009 of the European Parliament and of the Council (9) for the submission of the data set out in Annex III to this Directive. The data shall be transmitted by the Member States by means of electronic data transfer to the Central Data Repository managed by the European Environment Agency.\n\n3. The data shall be provided annually using the template set out in Annex IV. Member States shall notify the Commission of the date of transmission and the contact name of the competent authority responsible for verifying and reporting the data to the Commission.",
+      "text_sha256": "1c7ee56638af3bf025682a128389eded6a96176e6cd8d521583eb98feb8a6261",
+      "md_span": {
+        "start": 4817,
+        "end": 5738
+      },
+      "citations": [
+        {
+          "href": "#E0009",
+          "text": "9"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32015l0652:2015-04-25#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Penalties",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Member States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive. Member States shall notify those provisions to the Commission by 21 April 2017 and shall notify it without delay of any subsequent amendment affecting them.",
+      "text_sha256": "5b8d915956b63b61521d086c00817506778d3864499cc17f99c9083926364276",
+      "md_span": {
+        "start": 5787,
+        "end": 6232
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32015l0652:2015-04-25#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Transposition",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 21 April 2017 at the latest. They shall immediately inform the Commission thereof.\n\n2. When Member States adopt those measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.\n\n3. Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.",
+      "text_sha256": "2cecedfc7db5fb07be4f5f9ece3409a06bbc2b4d01c897ddfd8b45730a73e2c5",
+      "md_span": {
+        "start": 6285,
+        "end": 6918
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32015l0652:2015-04-25#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Entry into force",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "3bc31fb8ae89e657fb7aef23104946d3c243101380316bd81ec120a825b01fcd",
+      "md_span": {
+        "start": 6974,
+        "end": 7115
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32015l0652:2015-04-25#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Addressees",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive is addressed to the Member States.",
+      "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+      "md_span": {
+        "start": 7165,
+        "end": 7214
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_i",
+      "provision_id": "eu-eurlex:32015l0652:2015-04-25#anx_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**METHOD FOR THE CALCULATION AND REPORTING OF THE LIFE CYCLE GREENHOUSE GAS INTENSITY OF FUELS AND ENERGY BY SUPPLIERS**\n\nPart 1\n\n**Calculation of a supplier's greenhouse gas intensity of fuels and energy**\n\nThe greenhouse gas intensity for fuels and energy is expressed in terms of grams of carbon dioxide equivalent per mega joule of fuel (gCO2eq/MJ).\n\n1. The greenhouse gases taken into account for the purposes of calculating the greenhouse gas intensity of fuel is carbon dioxide (CO2), nitrous oxide (N2O) and methane (CH4). For the purpose of calculating CO2 equivalence, emissions of those gases are valued in terms of CO2 equivalent emissions, as follows:\n\n| CO2: 1; | CH4: 25; | N2O: 298 |\n| --- | --- | --- |\n\n2. Emissions from the manufacture of machinery and equipment utilised in extraction, production, refining and consumption of fossil fuels are not taken into account in the greenhouse gas calculation.\n\n3. A supplier's greenhouse gas intensity from the life cycle greenhouse gas emissions of all fuels and energy supplied shall be calculated in accordance with the formula below:\n\nwhere:\n\n(a) ‘#’ means the supplier's identification (i.e. the identification of the entity liable to pay excise duty) defined in Commission Regulation (EC) No 684/2009 (10) as the Trader Excise Number (System for Exchange of Excise Data (SEED) registration number or value added tax (VAT) identification number in point 5(a) of Table 1 of Annex I to that Regulation for Destination Type codes 1 to 5 and 8), which is also the entity liable to pay the excise duty in accordance with Article 8 of Council Directive 2008/118/EC (11) at the time that excise duty became chargeable in accordance with Article 7(2) of Directive 2008/118/EC. If this identification is not available, Member States shall ensure that an equivalent means of identification is established in accordance with a national excise duty reporting scheme;\n\n(b) ‘x’ means the fuel and energy types falling within the scope of this Directive as expressed in point17(c) of Table 1 of Annex I to Regulation (EC) No 684/2009. If these data are not available, Member States shall collect equivalent data in accordance with a nationally established excise duty reporting scheme;\n\n(c) ‘MJx’ means the total energy supplied and converted from reported volumes of fuel ‘x’ expressed in mega joules. This is calculated as follows:\n\n(i) The quantity of each fuel per fuel type\n\nIt is derived from data reported pursuant to points 17(d), (f) and (o) of Table 1 of Annex I to Regulation (EC) No 684/2009. Biofuel quantities are converted to their lower-heat-value energy content pursuant to the energy densities set out in Annex III to Directive 2009/28/EC. Quantities of fuels from non-biological origin are converted to their lower-heat-value energy content pursuant to energy densities set out in Appendix 1 to the Joint Research Centre-EUCAR-CONCAWE (JEC) (12) Well-to-Tank report (version 4) of July 2013 (13);\n\n(ii) Simultaneous co-processing of fossil fuels and biofuels\n\nProcessing includes any modification during the life cycle of a fuel or energy supplied causing a change to the molecular structure of the product. The addition of denaturant does not fall under this processing. The quantity of biofuels co-processed with fuels from non-biological origin reflects the post-processing state of the biofuel. The quantity of the co-processed biofuel is determined according to the energy balance and efficiency of the co-processing process as set out in point 17 of Part C of Annex IV to Directive 98/70/EC.\n\nWhere multiple biofuels are blended with fossil fuels, the quantity and type of each biofuel is taken into account in the calculation and reported by suppliers to the Member States.\n\nThe quantity of biofuel supplied that does not meet the sustainability criteria referred to in Article 7b(1) of Directive 98/70/EC is counted as fossil fuel.\n\nE85 petrol-ethanol blend shall be calculated as a separate fuel for the purpose of Article 6 of Regulation (EC) No 443/2009 of the European Parliament and of the Council (14).\n\nIf quantities are not collected pursuant to Regulation (EC) No 684/2009, Member States shall collect equivalent data in accordance with a nationally established excise duty reporting scheme;\n\n(iii) Quantity of electricity consumed\n\nThis is the amount of electricity consumed in road vehicles or motorcycles where a supplier reports this amount of energy to the relevant authority in each Member State in accordance with the following formula:\n\nElectricity consumed = distance travelled (km) × electricity consumption efficiency (MJ/km);\n\n(d) Upstream emission reduction (UER)\n\n‘UER’ is the upstream emission reduction of greenhouse gases claimed by a supplier, measured in gCO2eq if quantified and reported in accordance with the following requirements:\n\n(i) Eligibility\n\nUERs shall only be applied to the upstream emission's part of the average default values for petrol, diesel, CNG or LPG.\n\nUERs originating from any country may be counted as a reduction in greenhouse gas emissions against fuels from any feedstock source supplied by any supplier.\n\nUERs shall only be counted if they are associated with projects that have started after 1 January 2011.\n\nIt is not necessary to prove that UERs would not have taken place without the reporting requirement set out in Article 7a of Directive 98/70/EC;\n\n(ii) Calculation\n\nUERs shall be estimated and validated in accordance with principles and standards identified in International Standards, and in particular ISO 14064, ISO 14065 and ISO 14066.\n\nThe UERs and baseline emissions are to be monitored, reported and verified in accordance with ISO 14064 and providing results of equivalent confidence of Commission Regulation (EU) No 600/2012 (15) and Commission Regulation (EU) No 601/2012 (16). The verification of methods for estimating UERs must be done in accordance with ISO 14064-3 and the organisation verifying this must be accredited in accordance with ISO 14065;\n\n(e) ‘GHGix’ is the greenhouse gas intensity of fuel or energy ‘x’ expressed in gCO2eq/MJ. Suppliers shall calculate the greenhouse gas intensity of each fuel or energy as follows:\n\n(i) Greenhouse gas intensity of fuels from a non-biological origin is the ‘weighted life cycle greenhouse gas intensity’ per fuel type listed in the last column of the table under point 5 of Part 2 of this Annex;\n\n(ii) Electricity is calculated as described in point 6 of Part 2;\n\n(iii) Greenhouse gas intensity of biofuels\n\nThe greenhouse gas intensity of biofuels meeting the sustainability criteria referred to in Article 7b(1) of Directive 98/70/EC is calculated in accordance with Article 7d of that Directive. In case data on the life cycle greenhouse gas emissions of biofuels was obtained in accordance with an agreement or scheme that has been the subject of a decision pursuant to Article 7c(4) of Directive 98/70/EC covering Article 7b(2) of that Directive, this data is also to be used to establish the greenhouse gas intensity of biofuels under Article 7b(1) of that Directive. The greenhouse gas intensity for biofuels not meeting the sustainability criteria referred to in Article 7b(1) of Directive 98/70/EC is equal to the greenhouse intensity of the respective fossil fuel derived from conventional crude oil or gas;\n\n(iv) Simultaneous co-processing of fuels from non-biological origin and biofuels\n\nThe greenhouse gas intensity of biofuels co-processed with fossil fuels shall reflect the post-processing state of the biofuel;\n\n(f) ‘AF’ represents the adjustment factors for powertrain efficiencies:\n\n| Predominant conversion technology | Efficiency factor |\n| --- | --- |\n| Internal combustion engine | 1 |\n| Battery electric powertrain | 0,4 |\n| Hydrogen fuel cell electric powertrain | 0,4 |\n\nPart 2\n\n**Reporting by suppliers for fuels other than biofuels**\n\n1. **UERs of fossil fuels**\n\nIn order for UERs to be eligible for the purposes of the reporting and calculation method, suppliers shall report the following to the authority designated by the Member States:\n\n(a) the starting date of the project, which must be after 1 January 2011;\n\n(b) the annual emission reductions in gCO2eq;\n\n(c) the duration for which the claimed reductions occurred;\n\n(d) the project location closest to the source of the emissions in latitude and longitude coordinates in degrees to the fourth decimal place;\n\n(e) the baseline annual emissions prior to installation of reduction measures and annual emissions after the reduction measures have been implemented in gCO2eq/MJ of feedstock produced;\n\n(f) the non-reusable certificate number uniquely identifying the scheme and the claimed greenhouse gas reductions;\n\n(g) the non-reusable number uniquely identifying the calculation method and the associated scheme;\n\n(h) where the project relates to oil extraction, the average annual historical and reporting year gas-to-oil ratio (GOR) in solution, reservoir pressure, depth and well production rate of the crude oil.\n\n2. **Origin**\n\n‘Origin’ means the feedstock trade name listed in point 7 of Part 2 of this Annex, but only where suppliers hold the necessary information by virtue of:\n\n(a) being a person or undertaking importing crude oil from third countries or receiving a crude oil delivery from another Member State pursuant to Article 1 of Council Regulation (EC) No 2964/95 (17); or\n\n(b) arrangements to share information agreed with other suppliers.\n\nIn all other cases, origin shall refer to whether the fuel is of EU or non-EU origin.\n\nThe information collected and reported by suppliers to the Member States concerning the origin of fuels shall be confidential, but this shall not prevent the publication by the Commission of general information or information in summary form which does not contain details relating to individual undertakings;\n\nFor biofuels, origin means the biofuel production pathway set out in Annex IV to Directive 98/70/EC.\n\nWhere multiple feedstocks are used, suppliers shall report on the quantity in metric tonnes of finished product of each feedstock produced in the respective processing facility during the reporting year.\n\n3. **Place of purchase**\n\n‘Place of purchase’ means the country and name of the processing facility where the fuel or energy underwent the last substantial transformation used to confer the origin of the fuel or energy in accordance with Commission Regulation (EEC) No 2454/93 (18).\n\n4. **SMEs**\n\nBy way of derogation for suppliers that are SMEs, ‘origin’ and ‘place of purchase’ is either EU or non-EU, as appropriate, irrespective of whether they import crude oil or they supply petroleum oils and oils obtained from bituminous materials.\n\n5. **Average life cycle greenhouse gas intensity default values for fuels other than biofuels and electricity**\n\n| Raw material source and process | Fuel placed on the market | Life cycle GHG intensity (gCO2eq/MJ) | Weighted life cycle GHG intensity (gCO2eq/MJ) |\n| --- | --- | --- | --- |\n| Conventional crude | Petrol | 93,2 | 93,3 |\n| Natural Gas-to-Liquid | 94,3 |  |  |\n| Coal-to-Liquid | 172 |  |  |\n| Natural bitumen | 107 |  |  |\n| Oil shale | 131,3 |  |  |\n| Conventional crude | Diesel or gasoil | 95 | 95,1 |\n| Natural Gas-to-Liquid | 94,3 |  |  |\n| Coal-to-Liquid | 172 |  |  |\n| Natural bitumen | 108,5 |  |  |\n| Oil shale | 133,7 |  |  |\n| Any fossil sources | Liquefied Petroleum Gas in a spark ignition engine | 73,6 | 73,6 |\n| Natural Gas, EU mix | Compressed Natural Gas in a spark ignition engine | 69,3 | 69,3 |\n| Natural Gas, EU mix | Liquefied Natural Gas in a spark ignition engine | 74,5 | 74,5 |\n| Sabatier reaction of hydrogen from non-biological renewable energy electrolysis | Compressed synthetic methane in a spark ignition engine | 3,3 | 3,3 |\n| Natural gas using steam reforming | Compressed Hydrogen in a fuel cell | 104,3 | 104,3 |\n| Electrolysis fully powered by non-biological renewable energy | Compressed Hydrogen in a fuel cell | 9,1 | 9,1 |\n| Coal | Compressed Hydrogen in a fuel cell | 234,4 | 234,4 |\n| Coal with Carbon Capture and Storage of process emissions | Compressed Hydrogen in a fuel cell | 52,7 | 52,7 |\n| Waste plastic derived from fossil feedstocks | Petrol, diesel or gasoil | 86 | 86 |\n\n6. **Electricity**\n\nFor the reporting by energy suppliers of electricity consumed by electric vehicles and motorcycles, Member States should calculate national average life cycle default values in accordance with appropriate International Standards.\n\nAlternatively, Member States may permit their suppliers to establish greenhouse gas intensity values (gCO2eq/MJ) for electricity from data reported by Member States on the basis of:\n\n(a) Regulation (EC) No 1099/2008 of the European Parliament and of the Council (19);\n\n(b) Regulation (EU) No 525/2013 of the European Parliament and of the Council (20); or\n\n(c) Commission Delegated Regulation (EU) No 666/2014 (21).\n\n7. **Feedstock trade name**\n\n| Country | Feedstock trade name | API | Sulphur (wt %) |\n| --- | --- | --- | --- |\n| Abu Dhabi | Al Bunduq | 38,5 | 1,1 |\n| Abu Dhabi | Mubarraz | 38,1 | 0,9 |\n| Abu Dhabi | Murban | 40,5 | 0,8 |\n| Abu Dhabi | Zakum (Lower Zakum/Abu Dhabi Marine) | 40,6 | 1 |\n| Abu Dhabi | Umm Shaif (Abu Dhabi Marine) | 37,4 | 1,5 |\n| Abu Dhabi | Arzanah | 44 | 0 |\n| Abu Dhabi | Abu Al Bu Khoosh | 31,6 | 2 |\n| Abu Dhabi | Murban Bottoms | 21,4 | Not available (NA) |\n| Abu Dhabi | Top Murban | 21 | NA |\n| Abu Dhabi | Upper Zakum | 34,4 | 1,7 |\n| Algeria | Arzew | 44,3 | 0,1 |\n| Algeria | Hassi Messaoud | 42,8 | 0,2 |\n| Algeria | Zarzaitine | 43 | 0,1 |\n| Algeria | Algerian | 44 | 0,1 |\n| Algeria | Skikda | 44,3 | 0,1 |\n| Algeria | Saharan Blend | 45,5 | 0,1 |\n| Algeria | Hassi Ramal | 60 | 0,1 |\n| Algeria | Algerian Condensate | 64,5 | NA |\n| Algeria | Algerian Mix | 45,6 | 0,2 |\n| Algeria | Algerian Condensate (Arzew) | 65,8 | 0 |\n| Algeria | Algerian Condensate (Bejaia) | 65,0 | 0 |\n| Algeria | Top Algerian | 24,6 | NA |\n| Angola | Cabinda | 31,7 | 0,2 |\n| Angola | Takula | 33,7 | 0,1 |\n| Angola | Soyo Blend | 33,7 | 0,2 |\n| Angola | Mandji | 29,5 | 1,3 |\n| Angola | Malongo (West) | 26 | NA |\n| Angola | Cavala-1 | 42,3 | NA |\n| Angola | Sulele (South-1) | 38,7 | NA |\n| Angola | Palanca | 40 | 0,14 |\n| Angola | Malongo (North) | 30 | NA |\n| Angola | Malongo (South) | 25 | NA |\n| Angola | Nemba | 38,5 | 0 |\n| Angola | Girassol | 31,3 | NA |\n| Angola | Kuito | 20 | NA |\n| Angola | Hungo | 28,8 | NA |\n| Angola | Kissinje | 30,5 | 0,37 |\n| Angola | Dalia | 23,6 | 1,48 |\n| Angola | Gimboa | 23,7 | 0,65 |\n| Angola | Mondo | 28,8 | 0,44 |\n| Angola | Plutonio | 33,2 | 0,036 |\n| Angola | Saxi Batuque Blend | 33,2 | 0,36 |\n| Angola | Xikomba | 34,4 | 0,41 |\n| Argentina | Tierra del Fuego | 42,4 | NA |\n| Argentina | Santa Cruz | 26,9 | NA |\n| Argentina | Escalante | 24 | 0,2 |\n| Argentina | Canadon Seco | 27 | 0,2 |\n| Argentina | Hidra | 51,7 | 0,05 |\n| Argentina | Medanito | 34,93 | 0,48 |\n| Armenia | Armenian Miscellaneous | NA | NA |\n| Australia | Jabiru | 42,3 | 0,03 |\n| Australia | Kooroopa (Jurassic) | 42 | NA |\n| Australia | Talgeberry (Jurassic) | 43 | NA |\n| Australia | Talgeberry (Up Cretaceous) | 51 | NA |\n| Australia | Woodside Condensate | 51,8 | NA |\n| Australia | Saladin-3 (Top Barrow) | 49 | NA |\n| Australia | Harriet | 38 | NA |\n| Australia | Skua-3 (Challis Field) | 43 | NA |\n| Australia | Barrow Island | 36,8 | 0,1 |\n| Australia | Northwest Shelf Condensate | 53,1 | 0 |\n| Australia | Jackson Blend | 41,9 | 0 |\n| Australia | Cooper Basin | 45,2 | 0,02 |\n| Australia | Griffin | 55 | 0,03 |\n| Australia | Buffalo Crude | 53 | NA |\n| Australia | Cossack | 48,2 | 0,04 |\n| Australia | Elang | 56,2 | NA |\n| Australia | Enfield | 21,7 | 0,13 |\n| Australia | Gippsland (Bass Strait) | 45,4 | 0,1 |\n| Azerbaijan | Azeri Light | 34,8 | 0,15 |\n| Bahrain | Bahrain Miscellaneous | NA | NA |\n| Belarus | Belarus Miscellaneous | NA | NA |\n| Benin | Seme | 22,6 | 0,5 |\n| Benin | Benin Miscellaneous | NA | NA |\n| Belize | Belize Light Crude | 40 | NA |\n| Belize | Belize Miscellaneous | NA | NA |\n| Bolivia | Bolivian Condensate | 58,8 | 0,1 |\n| Brazil | Garoupa | 30,5 | 0,1 |\n| Brazil | Sergipano | 25,1 | 0,4 |\n| Brazil | Campos Basin | 20 | NA |\n| Brazil | Urucu (Upper Amazon) | 42 | NA |\n| Brazil | Marlim | 20 | NA |\n| Brazil | Brazil Polvo | 19,6 | 1,14 |\n| Brazil | Roncador | 28,3 | 0,58 |\n| Brazil | Roncador Heavy | 18 | NA |\n| Brazil | Albacora East | 19,8 | 0,52 |\n| Brunei | Seria Light | 36,2 | 0,1 |\n| Brunei | Champion | 24,4 | 0,1 |\n| Brunei | Champion Condensate | 65 | 0,1 |\n| Brunei | Brunei LS Blend | 32 | 0,1 |\n| Brunei | Brunei Condensate | 65 | NA |\n| Brunei | Champion Export | 23,9 | 0,12 |\n| Cameroon | Kole Marine Blend | 34,9 | 0,3 |\n| Cameroon | Lokele | 21,5 | 0,5 |\n| Cameroon | Moudi Light | 40 | NA |\n| Cameroon | Moudi Heavy | 21,3 | NA |\n| Cameroon | Ebome | 32,1 | 0,35 |\n| Cameroon | Cameroon Miscellaneous | NA | NA |\n| Canada | Peace River Light | 41 | NA |\n| Canada | Peace River Medium | 33 | NA |\n| Canada | Peace River Heavy | 23 | NA |\n| Canada | Manyberries | 36,5 | NA |\n| Canada | Rainbow Light and Medium | 40,7 | NA |\n| Canada | Pembina | 33 | NA |\n| Canada | Bells Hill Lake | 32 | NA |\n| Canada | Fosterton Condensate | 63 | NA |\n| Canada | Rangeland Condensate | 67,3 | NA |\n| Canada | Redwater | 35 | NA |\n| Canada | Lloydminster | 20,7 | 2,8 |\n| Canada | Wainwright-Kinsella | 23,1 | 2,3 |\n| Canada | Bow River Heavy | 26,7 | 2,4 |\n| Canada | Fosterton | 21,4 | 3 |\n| Canada | Smiley-Coleville | 22,5 | 2,2 |\n| Canada | Midale | 29 | 2,4 |\n| Canada | Milk River Pipeline | 36 | 1,4 |\n| Canada | Ipl-Mix Sweet | 40 | 0,2 |\n| Canada | Ipl-Mix Sour | 38 | 0,5 |\n| Canada | Ipl Condensate | 55 | 0,3 |\n| Canada | Aurora Light | 39,5 | 0,4 |\n| Canada | Aurora Condensate | 65 | 0,3 |\n| Canada | Reagan Field | 35 | 0,2 |\n| Canada | Synthetic Canada | 30,3 | 1,7 |\n| Canada | Cold Lake | 13,2 | 4,1 |\n| Canada | Cold Lake Blend | 26,9 | 3 |\n| Canada | Canadian Federated | 39,4 | 0,3 |\n| Canada | Chauvin | 22 | 2,7 |\n| Canada | Gcos | 23 | NA |\n| Canada | Gulf Alberta L & M | 35,1 | 1 |\n| Canada | Light Sour Blend | 35 | 1,2 |\n| Canada | Lloyd Blend | 22 | 2,8 |\n| Canada | Peace River Condensate | 54,9 | NA |\n| Canada | Sarnium Condensate | 57,7 | NA |\n| Canada | Saskatchewan Light | 32,9 | NA |\n| Canada | Sweet Mixed Blend | 38 | 0,5 |\n| Canada | Syncrude | 32 | 0,1 |\n| Canada | Rangeland — South L & M | 39,5 | 0,5 |\n| Canada | Northblend Nevis | 34 | NA |\n| Canada | Canadian Common Condensate | 55 | NA |\n| Canada | Canadian Common | 39 | 0,3 |\n| Canada | Waterton Condensate | 65,1 | NA |\n| Canada | Panuke Condensate | 56 | NA |\n| Canada | Federated Light and Medium | 39,7 | 2 |\n| Canada | Wabasca | 23 | NA |\n| Canada | Hibernia | 37,3 | 0,37 |\n| Canada | BC Light | 40 | NA |\n| Canada | Boundary | 39 | NA |\n| Canada | Albian Heavy | 21 | NA |\n| Canada | Koch Alberta | 34 | NA |\n| Canada | Terra Nova | 32,3 | NA |\n| Canada | Echo Blend | 20,6 | 3,15 |\n| Canada | Western Canadian Blend | 19,8 | 3 |\n| Canada | Western Canadian Select | 20,5 | 3,33 |\n| Canada | White Rose | 31,0 | 0,31 |\n| Canada | Access | 22 | NA |\n| Canada | Premium Albian Synthetic Heavy | 20,9 | NA |\n| Canada | Albian Residuum Blend (ARB) | 20,03 | 2,62 |\n| Canada | Christina Lake | 20,5 | 3 |\n| Canada | CNRL | 34 | NA |\n| Canada | Husky Synthetic Blend | 31,91 | 0,11 |\n| Canada | Premium Albian Synthetic (PAS) | 35,5 | 0,04 |\n| Canada | Seal Heavy (SH) | 19,89 | 4,54 |\n| Canada | Suncor Synthetic A (OSA) | 33,61 | 0,178 |\n| Canada | Suncor Synthetic H (OSH) | 19,53 | 3,079 |\n| Canada | Peace Sour | 33 | NA |\n| Canada | Western Canadian Resid | 20,7 | NA |\n| Canada | Christina Dilbit Blend | 21,0 | NA |\n| Canada | Christina Lake Dilbit | 38,08 | 3,80 |\n| Chad | Doba Blend (Early Production) | 24,8 | 0,14 |\n| Chad | Doba Blend (Later Production) | 20,8 | 0,17 |\n| Chile | Chile Miscellaneous | NA | NA |\n| China | Taching (Daqing) | 33 | 0,1 |\n| China | Shengli | 24,2 | 1 |\n| China | Beibu | NA | NA |\n| China | Chengbei | 17 | NA |\n| China | Lufeng | 34,4 | NA |\n| China | Xijiang | 28 | NA |\n| China | Wei Zhou | 39,9 | NA |\n| China | Liu Hua | 21 | NA |\n| China | Boz Hong | 17 | 0,282 |\n| China | Peng Lai | 21,8 | 0,29 |\n| China | Xi Xiang | 32,18 | 0,09 |\n| Colombia | Onto | 35,3 | 0,5 |\n| Colombia | Putamayo | 35 | 0,5 |\n| Colombia | Rio Zulia | 40,4 | 0,3 |\n| Colombia | Orito | 34,9 | 0,5 |\n| Colombia | Cano-Limon | 30,8 | 0,5 |\n| Colombia | Lasmo | 30 | NA |\n| Colombia | Cano Duya-1 | 28 | NA |\n| Colombia | Corocora-1 | 31,6 | NA |\n| Colombia | Suria Sur-1 | 32 | NA |\n| Colombia | Tunane-1 | 29 | NA |\n| Colombia | Casanare | 23 | NA |\n| Colombia | Cusiana | 44,4 | 0,2 |\n| Colombia | Vasconia | 27,3 | 0,6 |\n| Colombia | Castilla Blend | 20,8 | 1,72 |\n| Colombia | Cupiaga | 43,11 | 0,082 |\n| Colombia | South Blend | 28,6 | 0,72 |\n| Congo (Brazzaville) | Emeraude | 23,6 | 0,5 |\n| Congo (Brazzaville) | Djeno Blend | 26,9 | 0,3 |\n| Congo (Brazzaville) | Viodo Marina-1 | 26,5 | NA |\n| Congo (Brazzaville) | Nkossa | 47 | 0,03 |\n| Congo (Kinshasa) | Muanda | 34 | 0,1 |\n| Congo (Kinshasa) | Congo/Zaire | 31,7 | 0,1 |\n| Congo (Kinshasa) | Coco | 30,4 | 0,15 |\n| Côte d'Ivoire | Espoir | 31,4 | 0,3 |\n| Côte d'Ivoire | Lion Cote | 41,1 | 0,101 |\n| Denmark | Dan | 30,4 | 0,3 |\n| Denmark | Gorm | 33,9 | 0,2 |\n| Denmark | Danish North Sea | 34,5 | 0,26 |\n| Dubai | Dubai (Fateh) | 31,1 | 2 |\n| Dubai | Margham Light | 50,3 | 0 |\n| Ecuador | Oriente | 29,2 | 1 |\n| Ecuador | Quito | 29,5 | 0,7 |\n| Ecuador | Santa Elena | 35 | 0,1 |\n| Ecuador | Limoncoha-1 | 28 | NA |\n| Ecuador | Frontera-1 | 30,7 | NA |\n| Ecuador | Bogi-1 | 21,2 | NA |\n| Ecuador | Napo | 19 | 2 |\n| Ecuador | Napo Light | 19,3 | NA |\n| Egypt | Belayim | 27,5 | 2,2 |\n| Egypt | El Morgan | 29,4 | 1,7 |\n| Egypt | Rhas Gharib | 24,3 | 3,3 |\n| Egypt | Gulf of Suez Mix | 31,9 | 1,5 |\n| Egypt | Geysum | 19,5 | NA |\n| Egypt | East Gharib (J-1) | 37,9 | NA |\n| Egypt | Mango-1 | 35,1 | NA |\n| Egypt | Rhas Budran | 25 | NA |\n| Egypt | Zeit Bay | 34,1 | 0,1 |\n| Egypt | East Zeit Mix | 39 | 0,87 |\n| Equatorial Guinea | Zafiro | 30,3 | NA |\n| Equatorial Guinea | Alba Condensate | 55 | NA |\n| Equatorial Guinea | Ceiba | 30,1 | 0,42 |\n| Gabon | Gamba | 31,8 | 0,1 |\n| Gabon | Mandji | 30,5 | 1,1 |\n| Gabon | Lucina Marine | 39,5 | 0,1 |\n| Gabon | Oguendjo | 35 | NA |\n| Gabon | Rabi-Kouanga | 34 | 0,6 |\n| Gabon | T'Catamba | 44,3 | 0,21 |\n| Gabon | Rabi | 33,4 | 0,06 |\n| Gabon | Rabi Blend | 34 | NA |\n| Gabon | Rabi Light | 37,7 | 0,15 |\n| Gabon | Etame Marin | 36 | NA |\n| Gabon | Olende | 17,6 | 1,54 |\n| Gabon | Gabonian Miscellaneous | NA | NA |\n| Georgia | Georgian Miscellaneous | NA | NA |\n| Ghana | Bonsu | 32 | 0,1 |\n| Ghana | Salt Pond | 37,4 | 0,1 |\n| Guatemala | Coban | 27,7 | NA |\n| Guatemala | Rubelsanto | 27 | NA |\n| India | Bombay High | 39,4 | 0,2 |\n| Indonesia | Minas (Sumatron Light) | 34,5 | 0,1 |\n| Indonesia | Ardjuna | 35,2 | 0,1 |\n| Indonesia | Attaka | 42,3 | 0,1 |\n| Indonesia | Suri | 18,4 | 0,2 |\n| Indonesia | Sanga Sanga | 25,7 | 0,2 |\n| Indonesia | Sepinggan | 37,9 | 0,9 |\n| Indonesia | Walio | 34,1 | 0,7 |\n| Indonesia | Arimbi | 31,8 | 0,2 |\n| Indonesia | Poleng | 43,2 | 0,2 |\n| Indonesia | Handil | 32,8 | 0,1 |\n| Indonesia | Jatibarang | 29 | 0,1 |\n| Indonesia | Cinta | 33,4 | 0,1 |\n| Indonesia | Bekapai | 40 | 0,1 |\n| Indonesia | Katapa | 52 | 0,1 |\n| Indonesia | Salawati | 38 | 0,5 |\n| Indonesia | Duri (Sumatran Heavy) | 21,1 | 0,2 |\n| Indonesia | Sembakung | 37,5 | 0,1 |\n| Indonesia | Badak | 41,3 | 0,1 |\n| Indonesia | Arun Condensate | 54,5 | NA |\n| Indonesia | Udang | 38 | 0,1 |\n| Indonesia | Klamono | 18,7 | 1 |\n| Indonesia | Bunya | 31,7 | 0,1 |\n| Indonesia | Pamusian | 18,1 | 0,2 |\n| Indonesia | Kerindigan | 21,6 | 0,3 |\n| Indonesia | Melahin | 24,7 | 0,3 |\n| Indonesia | Bunyu | 31,7 | 0,1 |\n| Indonesia | Camar | 36,3 | NA |\n| Indonesia | Cinta Heavy | 27 | NA |\n| Indonesia | Lalang | 40,4 | NA |\n| Indonesia | Kakap | 46,6 | NA |\n| Indonesia | Sisi-1 | 40 | NA |\n| Indonesia | Giti-1 | 33,6 | NA |\n| Indonesia | Ayu-1 | 34,3 | NA |\n| Indonesia | Bima | 22,5 | NA |\n| Indonesia | Padang Isle | 34,7 | NA |\n| Indonesia | Intan | 32,8 | NA |\n| Indonesia | Sepinggan — Yakin Mixed | 31,7 | 0,1 |\n| Indonesia | Widuri | 32 | 0,1 |\n| Indonesia | Belida | 45,9 | 0 |\n| Indonesia | Senipah | 51,9 | 0,03 |\n| Iran | Iranian Light | 33,8 | 1,4 |\n| Iran | Iranian Heavy | 31 | 1,7 |\n| Iran | Soroosh (Cyrus) | 18,1 | 3,3 |\n| Iran | Dorrood (Darius) | 33,6 | 2,4 |\n| Iran | Rostam | 35,9 | 1,55 |\n| Iran | Salmon (Sassan) | 33,9 | 1,9 |\n| Iran | Foroozan (Fereidoon) | 31,3 | 2,5 |\n| Iran | Aboozar (Ardeshir) | 26,9 | 2,5 |\n| Iran | Sirri | 30,9 | 2,3 |\n| Iran | Bahrgansar/Nowruz (SIRIP Blend) | 27,1 | 2,5 |\n| Iran | Bahr/Nowruz | 25,0 | 2,5 |\n| Iran | Iranian Miscellaneous | NA | NA |\n| Iraq | Basrah Light (Pers. Gulf) | 33,7 | 2 |\n| Iraq | Kirkuk (Pers. Gulf) | 35,1 | 1,9 |\n| Iraq | Mishrif (Pers. Gulf) | 28 | NA |\n| Iraq | Bai Hasson (Pers. Gulf) | 34,1 | 2,4 |\n| Iraq | Basrah Medium (Pers. Gulf) | 31,1 | 2,6 |\n| Iraq | Basrah Heavy (Pers. Gulf) | 24,7 | 3,5 |\n| Iraq | Kirkuk Blend (Pers. Gulf) | 35,1 | 2 |\n| Iraq | N. Rumalia (Pers. Gulf) | 34,3 | 2 |\n| Iraq | Ras el Behar | 33 | NA |\n| Iraq | Basrah Light (Red Sea) | 33,7 | 2 |\n| Iraq | Kirkuk (Red Sea) | 36,1 | 1,9 |\n| Iraq | Mishrif (Red Sea) | 28 | NA |\n| Iraq | Bai Hasson (Red Sea) | 34,1 | 2,4 |\n| Iraq | Basrah Medium (Red Sea) | 31,1 | 2,6 |\n| Iraq | Basrah Heavy (Red Sea) | 24,7 | 3,5 |\n| Iraq | Kirkuk Blend (Red Sea) | 34 | 1,9 |\n| Iraq | N. Rumalia (Red Sea) | 34,3 | 2 |\n| Iraq | Ratawi | 23,5 | 4,1 |\n| Iraq | Basrah Light (Turkey) | 33,7 | 2 |\n| Iraq | Kirkuk (Turkey) | 36,1 | 1,9 |\n| Iraq | Mishrif (Turkey) | 28 | NA |\n| Iraq | Bai Hasson (Turkey) | 34,1 | 2,4 |\n| Iraq | Basrah Medium (Turkey) | 31,1 | 2,6 |\n| Iraq | Basrah Heavy (Turkey) | 24,7 | 3,5 |\n| Iraq | Kirkuk Blend (Turkey) | 34 | 1,9 |\n| Iraq | N. Rumalia (Turkey) | 34,3 | 2 |\n| Iraq | FAO Blend | 27,7 | 3,6 |\n| Kazakhstan | Kumkol | 42,5 | 0,07 |\n| Kazakhstan | CPC Blend | 44,2 | 0,54 |\n| Kuwait | Mina al Ahmadi (Kuwait Export) | 31,4 | 2,5 |\n| Kuwait | Magwa (Lower Jurassic) | 38 | NA |\n| Kuwait | Burgan (Wafra) | 23,3 | 3,4 |\n| Libya | Bu Attifel | 43,6 | 0 |\n| Libya | Amna (high pour) | 36,1 | 0,2 |\n| Libya | Brega | 40,4 | 0,2 |\n| Libya | Sirtica | 43,3 | 0,43 |\n| Libya | Zueitina | 41,3 | 0,3 |\n| Libya | Bunker Hunt | 37,6 | 0,2 |\n| Libya | El Hofra | 42,3 | 0,3 |\n| Libya | Dahra | 41 | 0,4 |\n| Libya | Sarir | 38,3 | 0,2 |\n| Libya | Zueitina Condensate | 65 | 0,1 |\n| Libya | El Sharara | 42,1 | 0,07 |\n| Malaysia | Miri Light | 36,3 | 0,1 |\n| Malaysia | Tembungo | 37,5 | NA |\n| Malaysia | Labuan Blend | 33,2 | 0,1 |\n| Malaysia | Tapis | 44,3 | 0,1 |\n| Malaysia | Tembungo | 37,4 | 0 |\n| Malaysia | Bintulu | 26,5 | 0,1 |\n| Malaysia | Bekok | 49 | NA |\n| Malaysia | Pulai | 42,6 | NA |\n| Malaysia | Dulang | 39 | 0,037 |\n| Mauritania | Chinguetti | 28,2 | 0,51 |\n| Mexico | Isthmus | 32,8 | 1,5 |\n| Mexico | Maya | 22 | 3,3 |\n| Mexico | Olmeca | 39 | NA |\n| Mexico | Altamira | 16 | NA |\n| Mexico | Topped Isthmus | 26,1 | 1,72 |\n| Netherlands | Alba | 19,59 | NA |\n| Neutral Zone | Eocene (Wafra) | 18,6 | 4,6 |\n| Neutral Zone | Hout | 32,8 | 1,9 |\n| Neutral Zone | Khafji | 28,5 | 2,9 |\n| Neutral Zone | Burgan (Wafra) | 23,3 | 3,4 |\n| Neutral Zone | Ratawi | 23,5 | 4,1 |\n| Neutral Zone | Neutral Zone Mix | 23,1 | NA |\n| Neutral Zone | Khafji Blend | 23,4 | 3,8 |\n| Nigeria | Forcados Blend | 29,7 | 0,3 |\n| Nigeria | Escravos | 36,2 | 0,1 |\n| Nigeria | Brass River | 40,9 | 0,1 |\n| Nigeria | Qua Iboe | 35,8 | 0,1 |\n| Nigeria | Bonny Medium | 25,2 | 0,2 |\n| Nigeria | Pennington | 36,6 | 0,1 |\n| Nigeria | Bomu | 33 | 0,2 |\n| Nigeria | Bonny Light | 36,7 | 0,1 |\n| Nigeria | Brass Blend | 40,9 | 0,1 |\n| Nigeria | Gilli Gilli | 47,3 | NA |\n| Nigeria | Adanga | 35,1 | NA |\n| Nigeria | Iyak-3 | 36 | NA |\n| Nigeria | Antan | 35,2 | NA |\n| Nigeria | OSO | 47 | 0,06 |\n| Nigeria | Ukpokiti | 42,3 | 0,01 |\n| Nigeria | Yoho | 39,6 | NA |\n| Nigeria | Okwori | 36,9 | NA |\n| Nigeria | Bonga | 28,1 | NA |\n| Nigeria | ERHA | 31,7 | 0,21 |\n| Nigeria | Amenam Blend | 39 | 0,09 |\n| Nigeria | Akpo | 45,17 | 0,06 |\n| Nigeria | EA | 38 | NA |\n| Nigeria | Agbami | 47,2 | 0,044 |\n| Norway | Ekofisk | 43,4 | 0,2 |\n| Norway | Tor | 42 | 0,1 |\n| Norway | Statfjord | 38,4 | 0,3 |\n| Norway | Heidrun | 29 | NA |\n| Norway | Norwegian Forties | 37,1 | NA |\n| Norway | Gullfaks | 28,6 | 0,4 |\n| Norway | Oseberg | 32,5 | 0,2 |\n| Norway | Norne | 33,1 | 0,19 |\n| Norway | Troll | 28,3 | 0,31 |\n| Norway | Draugen | 39,6 | NA |\n| Norway | Sleipner Condensate | 62 | 0,02 |\n| Oman | Oman Export | 36,3 | 0,8 |\n| Papua New Guinea | Kutubu | 44 | 0,04 |\n| Peru | Loreto | 34 | 0,3 |\n| Peru | Talara | 32,7 | 0,1 |\n| Peru | High Cold Test | 37,5 | NA |\n| Peru | Bayovar | 22,6 | NA |\n| Peru | Low Cold Test | 34,3 | NA |\n| Peru | Carmen Central-5 | 20,7 | NA |\n| Peru | Shiviyacu-23 | 20,8 | NA |\n| Peru | Mayna | 25,7 | NA |\n| Philippines | Nido | 26,5 | NA |\n| Philippines | Philippines Miscellaneous | NA | NA |\n| Qatar | Dukhan | 41,7 | 1,3 |\n| Qatar | Qatar Marine | 35,3 | 1,6 |\n| Qatar | Qatar Land | 41,4 | NA |\n| Ras Al Khaimah | Rak Condensate | 54,1 | NA |\n| Ras Al Khaimah | Ras Al Khaimah Miscellaneous | NA | NA |\n| Russia | Urals | 31 | 2 |\n| Russia | Russian Export Blend | 32,5 | 1,4 |\n| Russia | M100 | 17,6 | 2,02 |\n| Russia | M100 Heavy | 16,67 | 2,09 |\n| Russia | Siberian Light | 37,8 | 0,4 |\n| Russia | E4 (Gravenshon) | 19,84 | 1,95 |\n| Russia | E4 Heavy | 18 | 2,35 |\n| Russia | Purovsky Condensate | 64,1 | 0,01 |\n| Russia | Sokol | 39,7 | 0,18 |\n| Saudi Arabia | Light (Pers. Gulf) | 33,4 | 1,8 |\n| Saudi Arabia | Heavy (Pers. Gulf) (Safaniya) | 27,9 | 2,8 |\n| Saudi Arabia | Medium (Pers. Gulf) (Khursaniyah) | 30,8 | 2,4 |\n| Saudi Arabia | Extra Light (Pers. Gulf) (Berri) | 37,8 | 1,1 |\n| Saudi Arabia | Light (Yanbu) | 33,4 | 1,2 |\n| Saudi Arabia | Heavy (Yanbu) | 27,9 | 2,8 |\n| Saudi Arabia | Medium (Yanbu) | 30,8 | 2,4 |\n| Saudi Arabia | Berri (Yanbu) | 37,8 | 1,1 |\n| Saudi Arabia | Medium (Zuluf/Marjan) | 31,1 | 2,5 |\n| Sharjah | Mubarek Sharjah | 37 | 0,6 |\n| Sharjah | Sharjah Condensate | 49,7 | 0,1 |\n| Singapore | Rantau | 50,5 | 0,1 |\n| Spain | Amposta Marina North | 37 | NA |\n| Spain | Casablanca | 34 | NA |\n| Spain | El Dorado | 26,6 | NA |\n| Syria | Syrian Straight | 15 | NA |\n| Syria | Thayyem | 35 | NA |\n| Syria | Omar Blend | 38 | NA |\n| Syria | Omar | 36,5 | 0,1 |\n| Syria | Syrian Light | 36 | 0,6 |\n| Syria | Souedie | 24,9 | 3,8 |\n| Thailand | Erawan Condensate | 54,1 | NA |\n| Thailand | Sirikit | 41 | NA |\n| Thailand | Nang Nuan | 30 | NA |\n| Thailand | Bualuang | 27 | NA |\n| Thailand | Benchamas | 42,4 | 0,12 |\n| Trinidad and Tobago | Galeota Mix | 32,8 | 0,3 |\n| Trinidad and Tobago | Trintopec | 24,8 | NA |\n| Trinidad and Tobago | Land/Trinmar | 23,4 | 1,2 |\n| Trinidad and Tobago | Calypso Miscellaneous | 30,84 | 0,59 |\n| Tunisia | Zarzaitine | 41,9 | 0,1 |\n| Tunisia | Ashtart | 29 | 1 |\n| Tunisia | El Borma | 43,3 | 0,1 |\n| Tunisia | Ezzaouia-2 | 41,5 | NA |\n| Turkey | Turkish Miscellaneous | NA | NA |\n| Ukraine | Ukraine Miscellaneous | NA | NA |\n| United Kingdom | Auk | 37,2 | 0,5 |\n| United Kingdom | Beatrice | 38,7 | 0,05 |\n| United Kingdom | Brae | 33,6 | 0,7 |\n| United Kingdom | Buchan | 33,7 | 0,8 |\n| United Kingdom | Claymore | 30,5 | 1,6 |\n| United Kingdom | S.V. (Brent) | 36,7 | 0,3 |\n| United Kingdom | Tartan | 41,7 | 0,6 |\n| United Kingdom | Tern | 35 | 0,7 |\n| United Kingdom | Magnus | 39,3 | 0,3 |\n| United Kingdom | Dunlin | 34,9 | 0,4 |\n| United Kingdom | Fulmar | 40 | 0,3 |\n| United Kingdom | Hutton | 30,5 | 0,7 |\n| United Kingdom | N.W. Hutton | 36,2 | 0,3 |\n| United Kingdom | Maureen | 35,5 | 0,6 |\n| United Kingdom | Murchison | 38,8 | 0,3 |\n| United Kingdom | Ninian Blend | 35,6 | 0,4 |\n| United Kingdom | Montrose | 40,1 | 0,2 |\n| United Kingdom | Beryl | 36,5 | 0,4 |\n| United Kingdom | Piper | 35,6 | 0,9 |\n| United Kingdom | Forties | 36,6 | 0,3 |\n| United Kingdom | Brent Blend | 38 | 0,4 |\n| United Kingdom | Flotta | 35,7 | 1,1 |\n| United Kingdom | Thistle | 37 | 0,3 |\n| United Kingdom | S.V. (Ninian) | 38 | 0,3 |\n| United Kingdom | Argyle | 38,6 | 0,2 |\n| United Kingdom | Heather | 33,8 | 0,7 |\n| United Kingdom | South Birch | 38,6 | NA |\n| United Kingdom | Wytch Farm | 41,5 | NA |\n| United Kingdom | Cormorant North | 34,9 | 0,7 |\n| United Kingdom | Cormorant South (Cormorant ‘A’) | 35,7 | 0,6 |\n| United Kingdom | Alba | 19,2 | NA |\n| United Kingdom | Foinhaven | 26,3 | 0,38 |\n| United Kingdom | Schiehallion | 25,8 | NA |\n| United Kingdom | Captain | 19,1 | 0,7 |\n| United Kingdom | Harding | 20,7 | 0,59 |\n| US Alaska | ANS | NA | NA |\n| US Colorado | Niobrara | NA | NA |\n| US New Mexico | Four Corners | NA | NA |\n| US North Dakota | Bakken | NA | NA |\n| US North Dakota | North Dakota Sweet | NA | NA |\n| US Texas | WTI | NA | NA |\n| US Texas | Eagle Ford | NA | NA |\n| US Utah | Covenant | NA | NA |\n| US Federal OCS | Beta | NA | NA |\n| US Federal OCS | Carpinteria | NA | NA |\n| US Federal OCS | Dos Cuadras | NA | NA |\n| US Federal OCS | Hondo | NA | NA |\n| US Federal OCS | Hueneme | NA | NA |\n| US Federal OCS | Pescado | NA | NA |\n| US Federal OCS | Point Arguello | NA | NA |\n| US Federal OCS | Point Pedernales | NA | NA |\n| US Federal OCS | Sacate | NA | NA |\n| US Federal OCS | Santa Clara | NA | NA |\n| US Federal OCS | Sockeye | NA | NA |\n| Uzbekistan | Uzbekistan Miscellaneous | NA | NA |\n| Venezuela | Jobo (Monagas) | 12,6 | 2 |\n| Venezuela | Lama Lamar | 36,7 | 1 |\n| Venezuela | Mariago | 27 | 1,5 |\n| Venezuela | Ruiz | 32,4 | 1,3 |\n| Venezuela | Tucipido | 36 | 0,3 |\n| Venezuela | Venez Lot 17 | 36,3 | 0,9 |\n| Venezuela | Mara 16/18 | 16,5 | 3,5 |\n| Venezuela | Tia Juana Light | 32,1 | 1,1 |\n| Venezuela | Tia Juana Med 26 | 24,8 | 1,6 |\n| Venezuela | Officina | 35,1 | 0,7 |\n| Venezuela | Bachaquero | 16,8 | 2,4 |\n| Venezuela | Cento Lago | 36,9 | 1,1 |\n| Venezuela | Lagunillas | 17,8 | 2,2 |\n| Venezuela | La Rosa Medium | 25,3 | 1,7 |\n| Venezuela | San Joaquin | 42 | 0,2 |\n| Venezuela | Lagotreco | 29,5 | 1,3 |\n| Venezuela | Lagocinco | 36 | 1,1 |\n| Venezuela | Boscan | 10,1 | 5,5 |\n| Venezuela | Leona | 24,1 | 1,5 |\n| Venezuela | Barinas | 26,2 | 1,8 |\n| Venezuela | Sylvestre | 28,4 | 1 |\n| Venezuela | Mesa | 29,2 | 1,2 |\n| Venezuela | Ceuta | 31,8 | 1,2 |\n| Venezuela | Lago Medio | 31,5 | 1,2 |\n| Venezuela | Tigre | 24,5 | NA |\n| Venezuela | Anaco Wax | 41,5 | 0,2 |\n| Venezuela | Santa Rosa | 49 | 0,1 |\n| Venezuela | Bombai | 19,6 | 1,6 |\n| Venezuela | Aguasay | 41,1 | 0,3 |\n| Venezuela | Anaco | 43,4 | 0,1 |\n| Venezuela | BCF-Bach/Lag17 | 16,8 | 2,4 |\n| Venezuela | BCF-Bach/Lag21 | 20,4 | 2,1 |\n| Venezuela | BCF-21,9 | 21,9 | NA |\n| Venezuela | BCF-24 | 23,5 | 1,9 |\n| Venezuela | BCF-31 | 31 | 1,2 |\n| Venezuela | BCF Blend | 34 | 1 |\n| Venezuela | Bolival Coast | 23,5 | 1,8 |\n| Venezuela | Ceuta/Bach 18 | 18,5 | 2,3 |\n| Venezuela | Corridor Block | 26,9 | 1,6 |\n| Venezuela | Cretaceous | 42 | 0,4 |\n| Venezuela | Guanipa | 30 | 0,7 |\n| Venezuela | Lago Mix Med. | 23,4 | 1,9 |\n| Venezuela | Larosa/Lagun | 23,8 | 1,8 |\n| Venezuela | Menemoto | 19,3 | 2,2 |\n| Venezuela | Cabimas | 20,8 | 1,8 |\n| Venezuela | BCF-23 | 23 | 1,9 |\n| Venezuela | Oficina/Mesa | 32,2 | 0,9 |\n| Venezuela | Pilon | 13,8 | 2 |\n| Venezuela | Recon (Venez) | 34 | NA |\n| Venezuela | 102 Tj (25) | 25 | 1,6 |\n| Venezuela | Tjl Cretaceous | 39 | 0,6 |\n| Venezuela | Tia Juana Pesado (Heavy) | 12,1 | 2,7 |\n| Venezuela | Mesa-Recon | 28,4 | 1,3 |\n| Venezuela | Oritupano | 19 | 2 |\n| Venezuela | Hombre Pintado | 29,7 | 0,3 |\n| Venezuela | Merey | 17,4 | 2,2 |\n| Venezuela | Lago Light | 41,2 | 0,4 |\n| Venezuela | Laguna | 11,2 | 0,3 |\n| Venezuela | Bach/Cueta Mix | 24 | 1,2 |\n| Venezuela | Bachaquero 13 | 13 | 2,7 |\n| Venezuela | Ceuta — 28 | 28 | 1,6 |\n| Venezuela | Temblador | 23,1 | 0,8 |\n| Venezuela | Lagomar | 32 | 1,2 |\n| Venezuela | Taparito | 17 | NA |\n| Venezuela | BCF-Heavy | 16,7 | NA |\n| Venezuela | BCF-Medium | 22 | NA |\n| Venezuela | Caripito Blend | 17,8 | NA |\n| Venezuela | Laguna/Ceuta Mix | 18,1 | NA |\n| Venezuela | Morichal | 10,6 | NA |\n| Venezuela | Pedenales | 20,1 | NA |\n| Venezuela | Quiriquire | 16,3 | NA |\n| Venezuela | Tucupita | 17 | NA |\n| Venezuela | Furrial-2 (E. Venezuela) | 27 | NA |\n| Venezuela | Curazao Blend | 18 | NA |\n| Venezuela | Santa Barbara | 36,5 | NA |\n| Venezuela | Cerro Negro | 15 | NA |\n| Venezuela | BCF22 | 21,1 | 2,11 |\n| Venezuela | Hamaca | 26 | 1,55 |\n| Venezuela | Zuata 10 | 15 | NA |\n| Venezuela | Zuata 20 | 25 | NA |\n| Venezuela | Zuata 30 | 35 | NA |\n| Venezuela | Monogas | 15,9 | 3,3 |\n| Venezuela | Corocoro | 24 | NA |\n| Venezuela | Petrozuata | 19,5 | 2,69 |\n| Venezuela | Morichal 16 | 16 | NA |\n| Venezuela | Guafita | 28,6 | 0,73 |\n| Vietnam | Bach Ho (White Tiger) | 38,6 | 0 |\n| Vietnam | Dai Hung (Big Bear) | 36,9 | 0,1 |\n| Vietnam | Rang Dong | 37,7 | 0,5 |\n| Vietnam | Ruby | 35,6 | 0,08 |\n| Vietnam | Su Tu Den (Black Lion) | 36,8 | 0,05 |\n| Yemen | North Yemeni Blend | 40,5 | NA |\n| Yemen | Alif | 40,4 | 0,1 |\n| Yemen | Maarib Lt. | 49 | 0,2 |\n| Yemen | Masila Blend | 30-31 | 0,6 |\n| Yemen | Shabwa Blend | 34,6 | 0,6 |\n| Any | Oil shale | NA | NA |\n| Any | Shale oil | NA | NA |\n| Any | Natural Gas: piped from source | NA | NA |\n| Any | Natural Gas: from LNG | NA | NA |\n| Any | Shale gas: piped from source | NA | NA |\n| Any | Coal | NA | NA |",
+      "text_sha256": "82a313b5836f6499da4db8ee7d295876f4d4f82fd08390d6b00d61966625f0f8",
+      "md_span": {
+        "start": 7249,
+        "end": 44749
+      },
+      "citations": [
+        {
+          "href": "#E0010",
+          "text": "10"
+        },
+        {
+          "href": "#E0011",
+          "text": "11"
+        },
+        {
+          "href": "#E0012",
+          "text": "12"
+        },
+        {
+          "href": "#E0013",
+          "text": "13"
+        },
+        {
+          "href": "#E0014",
+          "text": "14"
+        },
+        {
+          "href": "#E0015",
+          "text": "15"
+        },
+        {
+          "href": "#E0016",
+          "text": "16"
+        },
+        {
+          "href": "#E0017",
+          "text": "17"
+        },
+        {
+          "href": "#E0018",
+          "text": "18"
+        },
+        {
+          "href": "#E0019",
+          "text": "19"
+        },
+        {
+          "href": "#E0020",
+          "text": "20"
+        },
+        {
+          "href": "#E0021",
+          "text": "21"
+        }
+      ]
+    },
+    {
+      "anchor": "anx_ii",
+      "provision_id": "eu-eurlex:32015l0652:2015-04-25#anx_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**CALCULATION OF THE FUEL BASELINE STANDARD OF FOSSIL FUELS**\n\nCalculation method\n\n(a) The fuel baseline standard is calculated based on Union average fossil fuel consumption of petrol, diesel, gasoil, LPG and CNG, as follows:\n\nwhere:\n\n‘x’ represents the different fuels and energy falling within the scope of this Directive and as defined in the table below;\n\n‘GHGix’ is the greenhouse gas intensity of the annual supply sold on the market of fuel ‘x’ or energy falling within the scope of this Directive expressed in gCO2eq/MJ. The values for fossil fuels presented in point 5 of Part 2 of Annex I are used;\n\n‘MJx’ is the total energy supplied and converted from reported volumes of fuel ‘x’ expressed in mega joules.\n\n(b) Consumption data\n\nThe consumption data used for calculation of the value is as follows:\n\n| Fuel | Energy Consumption (MJ) | Source |\n| --- | --- | --- |\n| diesel | 7 894 969 × 106 | 2010 Member States reporting to the UNFCCC |\n| non-road gasoil | 240 763 × 106 |  |\n| petrol | 3 844 356 × 106 |  |\n| LPG | 217 563 × 106 |  |\n| CNG | 51 037 × 106 |  |\n\nGreenhouse gas intensity\n\nThe fuel baseline standard for 2010 shall be: 94,1 gCO2eq/MJ",
+      "text_sha256": "905a39f8fb7ce934a1b767c53006ac1084b6a55ad48ed11f630757d8cf22e716",
+      "md_span": {
+        "start": 44786,
+        "end": 45949
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_iii",
+      "provision_id": "eu-eurlex:32015l0652:2015-04-25#anx_iii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**MEMBER STATE REPORTING TO THE COMMISSION**\n\n1. By 31 December each year, Member States are to report the data listed in point 3. These data must be reported for all fuel and energy placed on the market in each Member State. Where multiple biofuels are blended with fossil fuels, the data for each biofuel must be provided.\n\n2. The data listed in point 3 are to be reported separately for fuel or energy placed on the market by suppliers within a given Member State (including joint suppliers operating in a single Member State).\n\n3. For each fuel and energy, Member States are to report the following data to the Commission, as aggregated according to point 2 and as defined in Annex I:\n\n(a) fuel or energy type;\n\n(b) volume or quantity of fuel or electricity;\n\n(c) greenhouse gas intensity;\n\n(d) UERs;\n\n(e) origin;\n\n(f) place of purchase.",
+      "text_sha256": "289263fac44217fdb9ff2a2743e538f4310fd8b60a7faafb572598fcbe9f4a44",
+      "md_span": {
+        "start": 45988,
+        "end": 46829
+      },
+      "citations": []
+    },
+    {
+      "anchor": "anx_iv",
+      "provision_id": "eu-eurlex:32015l0652:2015-04-25#anx_iv",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX IV",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**TEMPLATE FOR REPORTING INFORMATION FOR CONSISTENCY OF THE REPORTED DATA**\n\n**Fuel — Single Suppliers**\n\n| Entry | Joint Reporting (YES/NO) | Country | Supplier1 | Fuel type7 | Fuel CN code7 | Quantity2 | Average GHG intensity | Upstream Emission Reduction5 | Reduction on 2010 average |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| by litres | by energy |  |  |  |  |  |  |  |  |  |\n| 1 |  |  |  |  |  |  |  |  |  |  |\n|  | CN code | GHG intensity4 | Feedstock | CN code | GHG intensity4 | sustainable (YES/NO) |  |  |  |  |\n| Component F.1 (Fossil Fuel Component) | Component B.1 (Biofuel Component) |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n| Component F.n (Fossil Fuel Component) | Component B.m (Biofuel Component) |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n| k |  |  |  |  |  |  |  |  |  |  |\n|  | CN code2 | GHG intensity4 | Feedstock | CN code2 | GHG intensity4 | sustainable (YES/NO) |  |  |  |  |\n| Component F.1 (Fossil Fuel Component) | Component B.1 (Biofuel Component) |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n| Component F.n (Fossil Fuel Component) | Component B.m (Biofuel Component) |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n\n**Fuel — Joint Suppliers**\n\n| Entry | Joint Reporting (YES/NO) | Country | Supplier1 | Fuel type7 | Fuel CN code7 | Quantity2 | Average GHG intensity | Upstream Emission Reduction5 | Reduction on 2010 average |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| by litres | by energy |  |  |  |  |  |  |  |  |  |\n| I | YES |  |  |  |  |  |  |  |  |  |\n| YES |  |  |  |  |  |  |  |  |  |  |\n| Subtotal |  |  |  |  |  |  |  |  |  |  |\n|  | CN code | GHG intensity4 | Feedstock | CN code | GHG intensity4 | sustainable (YES/NO) |  |  |  |  |\n| Component F.1 (Fossil Fuel Component) | Component B.1 (Biofuel Component) |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n| Component F.n (Fossil Fuel Component) | Component B.m (Biofuel Component) |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n| x | YES |  |  |  |  |  |  |  |  |  |\n| YES |  |  |  |  |  |  |  |  |  |  |\n| Subtotal |  |  |  |  |  |  |  |  |  |  |\n|  | CN code2 | GHG intensity4 | Feedstock | CN code2 | GHG intensity4 | sustainable (YES/NO) |  |  |  |  |\n| Component F.1 (Fossil Fuel Component) | Component B.1 (Biofuel Component) |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n| Component F.n (Fossil Fuel Component) | Component B.m (Biofuel Component) |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |\n\n**Electricity**\n\n| Joint Reporting | Country | Supplier1 | Energy type7 | Quantity6 | GHG intensity | Reduction on 2010 average |\n| --- | --- | --- | --- | --- | --- | --- |\n| by energy |  |  |  |  |  |  |\n| NO |  |  |  |  |  |  |\n\n| Joint Supplier Information |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n|  | Country | Supplier1 | Energy type7 | Quantity6 | GHG intensity | Reduction on 2010 average |\n| by energy |  |  |  |  |  |  |\n| YES |  |  |  |  |  |  |\n| YES |  |  |  |  |  |  |\n|  | Subtotal |  |  |  |  |  |\n\n**Origin — Single Suppliers8**\n\n| Entry 1 | component F.1 | Entry 1 | component F.n | Entry k | component F.1 | Entry k | component F.n |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Feedstock Trade Name | API gravity3 | Tonnes | Feedstock Trade Name | API gravity3 | Tonnes | Feedstock Trade Name | API gravity3 | Tonnes | Feedstock Trade Name | API gravity3 | Tonnes |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n\n| Entry 1 | component B.1 | Entry 1 | component B.m | Entry k | component B.1 | Entry k | component B.m |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Bio Pathway | API gravity3 | Tonnes | Bio Pathway | API gravity3 | Tonnes | Bio Pathway | API gravity3 | Tonnes | Bio Pathway | API gravity3 | Tonnes |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n\n**Origin — Joint Suppliers8**\n\n| Entry l | component F.1 | Entry l | component F.n | Entry X | component F.1 | Entry X | component F.n |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Feedstock Trade Name | API gravity3 | Tonnes | Feedstock Trade Name | API gravity3 | Tonnes | Feedstock Trade Name | API gravity3 | Tonnes | Feedstock Trade Name | API gravity3 | Tonnes |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n\n| Entry l | component B.1 | Entry l | component B.m | Entry X | component B.1 | Entry X | component B.m |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Bio Pathway | API gravity3 | Tonnes | Bio Pathway | API gravity3 | Tonnes | Bio Pathway | API gravity3 | Tonnes | Bio Pathway | API gravity3 | Tonnes |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |  |  |\n\n**Place of Purchase9**\n\n| Entry | Component | Refinery/ Processing Facility Names | Country | Refinery/ Processing Facility Names | Country | Refinery/ Processing Facility Names | Country | Refinery/ Processing Facility Names | Country | Refinery/ Processing Facility Names | Country | Refinery/ Processing Facility Names | Country |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1 | F.1 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1 | F.n |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1 | B.1 |  |  |  |  |  |  |  |  |  |  |  |  |\n| 1 | B.m |  |  |  |  |  |  |  |  |  |  |  |  |\n| k | F.1 |  |  |  |  |  |  |  |  |  |  |  |  |\n| k | F.n |  |  |  |  |  |  |  |  |  |  |  |  |\n| k | B.1 |  |  |  |  |  |  |  |  |  |  |  |  |\n| k | B.m |  |  |  |  |  |  |  |  |  |  |  |  |\n| l | F.1 |  |  |  |  |  |  |  |  |  |  |  |  |\n| l | F.n |  |  |  |  |  |  |  |  |  |  |  |  |\n| l | B.1 |  |  |  |  |  |  |  |  |  |  |  |  |\n| l | B.m |  |  |  |  |  |  |  |  |  |  |  |  |\n| X | F.1 |  |  |  |  |  |  |  |  |  |  |  |  |\n| X | F.n |  |  |  |  |  |  |  |  |  |  |  |  |\n| X | B.1 |  |  |  |  |  |  |  |  |  |  |  |  |\n| X | B.m |  |  |  |  |  |  |  |  |  |  |  |  |\n\n**Total energy reported and reduction achieved per Member State**\n\n| Volume (by energy)10 | GHG intensity | Reduction on 2010 average |\n| --- | --- | --- |\n|  |  |  |\n\n**Format Notes**\n\nThe template for supplier reporting is identical to the template for Member State reporting.\n\nShaded cells do not have to be filled in.\n\n1. Supplier identification is defined in point 3(a) of Part 1 of Annex I;\n\n2. Quantity of fuel is defined in point 3(c) of Part 1 of Annex I;\n\n3. American Petroleum Institute (API) gravity is defined pursuant to testing method ASTM D287;\n\n4. Greenhouse gas intensity is defined in point 3(e) of Part 1 of Annex I;\n\n5. UER is defined in point 3(d) of Part 1 of Annex I; reporting specifications are defined in point 1 of Part 2 of Annex I;\n\n6. Quantity of electricity is defined in point 6 of Part 2 of Annex I;\n\n7. Fuel types and corresponding CN codes are defined in point 3(b) of Part 1 of Annex I;\n\n8. Origin is defined in points 2 and 4 of Part 2 of Annex I;\n\n9. Place of Purchase is defined in points 3 and 4 of Part 2 of Annex I;\n\n10. Total quantity of energy (fuel and electricity) consumed.\n\n(1) OJ L 350, 28.12.1998, p. 58.\n\n(2) Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).\n\n(3) Directive 2009/28/EC of the European Parliament and of the Council of 23 April 2009 on the promotion of the use of energy from renewable sources and amending and subsequently repealing Directives 2001/77/EC and 2003/30/EC (OJ L 140, 5.6.2009, p. 16).\n\n(4) Commission Decision 2002/159/EC of 18 February 2002 on a common format for the submission of summaries of national fuel quality data (OJ L 53, 23.2.2002, p. 30).\n\n(5) Directive 2009/30/EC of the European Parliament and of the Council of 23 April 2009 amending Directive 98/70/EC as regards the specification of petrol, diesel and gas-oil and introducing a mechanism to monitor and reduce greenhouse gas emissions and amending Council Directive 1999/32/EC as regards the specification of fuel used by inland waterway vessels and repealing Directive 93/12/EEC (OJ L 140, 5.6.2009, p. 88).\n\n(6) Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission (OJ L 184, 17.7.1999, p. 23).\n\n(7) American Society for Testing and Materials: http://www.astm.org/index.shtml\n\n(8) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).\n\n(9) Regulation (EC) No 401/2009 of the European Parliament and of the Council of 23 April 2009 on the European Environment Agency and the European Environment Information and Observation Network (OJ L 126, 21.5.2009, p. 13).\n\n(10) Commission Regulation (EC) No 684/2009 of 24 July 2009 implementing Council Directive 2008/118/EC as regards the computerised procedures for the movement of excise goods under suspension of excise duty (OJ L 197, 29.7.2009, p. 24).\n\n(11) Council Directive 2008/118/EC of 16 December 2008 concerning the general arrangements for excise duty and repealing Directive 92/12/EEC (OJ L 9, 14.1.2009, p. 12).\n\n(12) The JEC consortium brings together the European Commission Joint Research Centre (JRC), EUCAR (European Council for Automotive R&D) and CONCAWE (the oil companies' European association for environment, health and safety in refining and distribution).\n\n(13) http://iet.jrc.ec.europa.eu/about-jec/sites/about-jec/files/documents/report_2013/wtt_report_v4_july_2013_final.pdf\n\n(14) Regulation (EC) No 443/2009 of the European Parliament and of the Council of 23 April 2009 setting emission performance standards for new passenger cars as part of the Community's integrated approach to reduce CO2 emissions from light-duty vehicles (OJ L 140, 5.6.2009, p. 1).\n\n(15) Commission Regulation (EU) No 600/2012 of 21 June 2012 on the verification of greenhouse gas emission reports and tonne-kilometre reports and the accreditation of verifiers pursuant to Directive 2003/87/EC of the European Parliament and of the Council (OJ L 181, 12.7.2012, p. 1).\n\n(16) Commission Regulation (EU) No 601/2012 of 21 June 2012 on the monitoring and reporting of greenhouse gas emissions pursuant to Directive 2003/87/EC of the European Parliament and of the Council (OJ L 181, 12.7.2012, p. 30).\n\n(17) Council Regulation (EC) No 2964/95 of 20 December 1995 introducing registration for crude oil imports and deliveries in the Community (OJ L 310, 22.12.1995, p. 5).\n\n(18) Commission Regulation (EEC) No 2454/93 of 2 July 1993 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code (OJ L 253, 11.10.1993, p. 1).\n\n(19) Regulation (EC) No 1099/2008 of the European Parliament and of the Council of 22 October 2008 on energy statistics (OJ L 304, 14.11.2008, p. 1).\n\n(20) Regulation (EU) No 525/2013 of the European Parliament and of the Council of 21 May 2013 on a mechanism for monitoring and reporting greenhouse gas emissions and for reporting other information at national and Union level relevant to climate change and repealing Decision No 280/2004/EC (OJ L 165, 18.6.2013, p. 13).\n\n(21) Commission Delegated Regulation (EU) No 666/2014 of 12 March 2014 establishing substantive requirements for a Union inventory system and taking into account changes in the global warming potentials and internationally agreed inventory guidelines pursuant to Regulation (EU) No 525/2013 of the European Parliament and of the Council (OJ L 179, 19.6.2014, p. 26).",
+      "text_sha256": "bbd3d1c04ce5d90e2d21c017903c774fd1777a807d6e9e1db6040c8bb12f88a2",
+      "md_span": {
+        "start": 46866,
+        "end": 62133
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        },
+        {
+          "href": "#src.E0008",
+          "text": "8"
+        },
+        {
+          "href": "#src.E0009",
+          "text": "9"
+        },
+        {
+          "href": "#src.E0010",
+          "text": "10"
+        },
+        {
+          "href": "#src.E0011",
+          "text": "11"
+        },
+        {
+          "href": "#src.E0012",
+          "text": "12"
+        },
+        {
+          "href": "#src.E0013",
+          "text": "13"
+        },
+        {
+          "href": "#src.E0014",
+          "text": "14"
+        },
+        {
+          "href": "#src.E0015",
+          "text": "15"
+        },
+        {
+          "href": "#src.E0016",
+          "text": "16"
+        },
+        {
+          "href": "#src.E0017",
+          "text": "17"
+        },
+        {
+          "href": "#src.E0018",
+          "text": "18"
+        },
+        {
+          "href": "#src.E0019",
+          "text": "19"
+        },
+        {
+          "href": "#src.E0020",
+          "text": "20"
+        },
+        {
+          "href": "#src.E0021",
+          "text": "21"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

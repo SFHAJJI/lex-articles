@@ -2,42 +2,17 @@
   "lex_work_id": "eu-eurlex:32019l0944",
   "schema": "lex-articles/1",
   "profiles": [
-    "fmx4-eu/1"
+    "xhtml-eu/1"
   ],
+  "primary_language": "en",
   "anchors": {
-    "anx_i": [
-      {
-        "valid_from": "2022-06-23",
-        "valid_to": null,
-        "text_sha256": "21af1c0e7f5982526773eee443200dc2d5f8ddb04ed32f56515f0cf70d453de5",
-        "in_version": "eu-eurlex:32019l0944:2022-06-23"
-      }
-    ],
-    "anx_ii": [
-      {
-        "valid_from": "2022-06-23",
-        "valid_to": null,
-        "text_sha256": "3e726b96d80b262900bd5b489d875c445d06233fecdb5f4de760a5ce71ba75c8",
-        "in_version": "eu-eurlex:32019l0944:2022-06-23"
-      }
-    ],
-    "anx_iii": [
-      {
-        "valid_from": "2022-06-23",
-        "valid_to": null,
-        "text_sha256": "5e5b80ce37f830b90dd035ef93c882b37a665f620e05c38b0f07cdf82bd2f6a4",
-        "in_version": "eu-eurlex:32019l0944:2022-06-23"
-      }
-    ],
-    "anx_iv": [
-      {
-        "valid_from": "2022-06-23",
-        "valid_to": null,
-        "text_sha256": "ecb9074ddaac1e5943b76dd87aa4cf1b953ad99d5ac1f56e68ff8c181b0bb4f9",
-        "in_version": "eu-eurlex:32019l0944:2022-06-23"
-      }
-    ],
     "art_1": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "bc7ea6c2a9e2df843ab856cbf5c8e1a6f98f8ed521f1093150ba07cd987641ae",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -47,27 +22,51 @@
     ],
     "art_10": [
       {
-        "valid_from": "2022-06-23",
-        "valid_to": null,
-        "text_sha256": "2f952e23ce6a74a0a5f26b944bc573ef85df5060e01128b079176d5ce5b534a5",
-        "in_version": "eu-eurlex:32019l0944:2022-06-23"
-      }
-    ],
-    "art_11": [
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "0fcce84347967148c41067ead72b9f4852e4cf664bbfa8252a6f4c1333781ac0",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": "2024-07-15",
-        "text_sha256": "83c06ecaff8c13050cd904670f862936c1afe5ff9f0527c2f4a387156e4727b2",
+        "text_sha256": "35d2a6f4704bbd333385e6888a1ad25a611c075acf6097d62d49103f56b6e051",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       },
       {
         "valid_from": "2024-07-16",
         "valid_to": null,
-        "text_sha256": "130839ba9e21dc4e66173e1e9a88558dff767955aebb2640b787e98df1f6403f",
+        "text_sha256": "39701b23e12e3ab1b8e707ed444f2132a1e11845432c02a69e481ac780e03947",
+        "in_version": "eu-eurlex:32019l0944:2024-07-16"
+      }
+    ],
+    "art_11": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "cc38cde59478ef1eaaa2c98e13247d42ec57695d6af2855dabd1b7276c78eb38",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
+        "valid_from": "2022-06-23",
+        "valid_to": "2024-07-15",
+        "text_sha256": "70948ba4289c6c206cf103d953738086deee5b1b50fbba097b2f3a688a920e7f",
+        "in_version": "eu-eurlex:32019l0944:2022-06-23"
+      },
+      {
+        "valid_from": "2024-07-16",
+        "valid_to": null,
+        "text_sha256": "1e3b274ffd3856295012dde3b9ed70dc598248bb0e7ff428f72d987d52332fb3",
         "in_version": "eu-eurlex:32019l0944:2024-07-16"
       }
     ],
     "art_12": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "46f97af4e0457d1884e3a794434c0115aad531a4ab82dc61d0feba19fe71329a",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -77,6 +76,12 @@
     ],
     "art_13": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "a5ac160ff8a8305577d75169994e905aa356afb6a291cf84e836e62f881ebfad",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "087a2ae9f50b966564e743a93e77c1c4a5772daff41f4f93b3c1063618e8d02f",
@@ -85,17 +90,29 @@
     ],
     "art_14": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "5c7584fc5d02337023cd9f66f1489c5cff1ffb009732a80e84a8e1b139735d80",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "1e782b0fafd6ad2af49660e3868fada696114d6eaaebcbe7d9ce96298f4b1b1c",
+        "text_sha256": "38872251c7508d2154ae6a5549b4660f9293e6f3495c6340894876628f083900",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_15": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "8c29a3aa06a6f74b82c770f952ec8c22dafcc78fb81e91c8fc68d7fb7cb5f8b0",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "6b445943d0a9c19a796e7f366f7da5531c4d2f5fe3439cadf7889455da3c46d1",
+        "text_sha256": "fc537a79b4043f79886726dfea5f8b2752e3bffd7ec9e1dec405bdc4831adb2e",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
@@ -109,21 +126,39 @@
     ],
     "art_16": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "7949d58968057374fa5764d97e6d5958926dcf837877ccac16fc25b5127828a5",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "240e63847d7f56bf07fe68a85a415407cfc5a1e5c64c5887fd0c8c29fdb9523a",
+        "text_sha256": "3838acde04fcc6d4b50f1529b2d9f4403affb846e0bf02bddee5689c2982d71d",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_17": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "4a2025268f3f9e7a089031340fd585721e8d0c06e405f630de94a90cd6c8fbef",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "a3e63c62ef4a809ebf1d76fa4d579fe8bdae22f637f84d79d3175e7f21e55e9c",
+        "text_sha256": "56a36860d4ad227522ba4380808450e589a146761c9cdc13e28a4f5ac8aa82f1",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_18": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "7a4fbea182142d668185199267766ca75215a5be31e7e54a230861dbbc52807f",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -141,6 +176,12 @@
     ],
     "art_19": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "943708f0bb453e70fa5a6ad04026888727460175c9af9a4c14272aea14926b2a",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "f04153aab792091e742f436b441d6e990d6ecefeb48b12106e5a0fc73413ab47",
@@ -149,19 +190,31 @@
     ],
     "art_2": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "f22c241c719d0e9ce2ca4dd38f040d5a6e47be03c2d694338ea5b1a164e0f36a",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": "2024-07-15",
-        "text_sha256": "06f967b2f24fd611289fe1d23d182569dbb0fe2ca2fc4cb82dd3b189538100a2",
+        "text_sha256": "35fffc92338c1c88f8c3b2ff81d38519a0577374c9779fd918b1ca2be3db36bc",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       },
       {
         "valid_from": "2024-07-16",
         "valid_to": null,
-        "text_sha256": "0ecdb4eec0252268b071784a648394aac0f33e6ea481795efb2003af6db4450e",
+        "text_sha256": "1fb8db62182610e4b84a26b44e38a607165087370c6aa2123eca8c01c46110f1",
         "in_version": "eu-eurlex:32019l0944:2024-07-16"
       }
     ],
     "art_20": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "dc92d3619b029bb8fb801a49333ba90984a1087a10dbe9704572f867a8d6a8ac",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -171,13 +224,25 @@
     ],
     "art_21": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "e9eb1523ec86b531fe7e3eb0f7887603c7e8301f26c794be7419ec6080c716fa",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "7c9c94e6602e5a6e1f8cacc50783386664e0c1a3fabbdf0ad11a3679739f3a6e",
+        "text_sha256": "c0e2fb0d8d9b817445c8ca51e9e88f3ccd08e8d57fdda3739b0aafee4bee7fe8",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_22": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "325cedf62e555503cdab90ef2d2ac093a3834eaf356c05bfd89b6d06ceb73f3b",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -187,6 +252,12 @@
     ],
     "art_23": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "3b8c7c445c66538e1d86658b7ccbcf948ad23c20b6e1a30c94a2366af0f8b0d7",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "a9893877508a21fd07b54488399782464a9c5ab5abb72674cead2959b5787cfb",
@@ -194,6 +265,12 @@
       }
     ],
     "art_24": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "25df5ea6ae19c67d8871b66420c325f90ed88f0ffd69bb4ace8a765ad4bd62f7",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -203,6 +280,12 @@
     ],
     "art_25": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "953347836072a4673cc42536bc8714506488eefd1e2782f538f4a1ebf1aaebdd",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "eb010c56818795ba692cde969324196ce4b7bcdfecc377e8aef26a42b71063e2",
@@ -211,13 +294,31 @@
     ],
     "art_26": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "e36fd998b4e2f5735d53d64c0763cfc0638546130cfe12f2a79e0ad42535cd89",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
-        "valid_to": null,
-        "text_sha256": "a6f1a540fe14d84cd3e82a9fa564014028af4b85e31e4a2f20d2b20f97c5ccec",
+        "valid_to": "2024-07-15",
+        "text_sha256": "2816c73caea6a28c6a545f1931a0ced6c1311a0d45c07e53e4a38a576f9e410a",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
+      },
+      {
+        "valid_from": "2024-07-16",
+        "valid_to": null,
+        "text_sha256": "2368ee30ff44e56094cb8fc47f318657c59a9664259a06531156f26e53e95e94",
+        "in_version": "eu-eurlex:32019l0944:2024-07-16"
       }
     ],
     "art_27": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "e49cedeaeda63c0c7c94f66f4895282ea3d5bfac8da02f366c74f4acbd50a8dc",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": "2024-07-15",
@@ -241,6 +342,12 @@
     ],
     "art_28": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "c90d92cfec7ce801680153bf3d2fbca63a68ccc21be6ab8ed321c2e3e0055e7a",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "12fdd0baeabdccd77703d7d65eece82f49ed3799f635b168e65ff3da5a58aacc",
@@ -257,6 +364,12 @@
     ],
     "art_29": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "c04019271c11b6c30519f25f4d1ad75d99671c8f40242c71f69f6d9b6d4264f6",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "c63d6aaf1af0da56f2c778ffe2b5bd36efd91e60c440aa49e4ec04f736fd2f6e",
@@ -264,6 +377,12 @@
       }
     ],
     "art_3": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "b2dedf8bc2e1c5ba0ff97d5ec95aeab5a81ce2038166ff9a3197be26585c0afc",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -273,6 +392,12 @@
     ],
     "art_30": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "d4015316f108ecc91c3b6f4cbe6bd4267b9db67699546927189bf579066efcaa",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "6ef0f4857fcad5abff98f2ccabc485e87acbfcbd333400924749814cb0be8b35",
@@ -281,41 +406,65 @@
     ],
     "art_31": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "1e0e856a2d1b2977cbb676a9cc1b84580db39613d3d8c40178cf2ef7c156e142",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": "2024-07-15",
-        "text_sha256": "507e90a75530a718dc36a9cdbda5556656a002aed3ecf8c22e23e50c3089357b",
+        "text_sha256": "91ba721e6f29e8a5e70231974e8633a259629035b13caa8ac73a8e042568339b",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       },
       {
         "valid_from": "2024-07-16",
         "valid_to": null,
-        "text_sha256": "730967da4128e975e9ec05374373740b7c640c9fb9748656e591ea84ae668f7c",
+        "text_sha256": "0279ec024f77b300c712ad054c679b2031ba7304ece971d059d853093563d7e7",
         "in_version": "eu-eurlex:32019l0944:2024-07-16"
       }
     ],
     "art_32": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "b7f348aa38e9f392133de4d6cf9acd3d023a3911dc03ef7ed3e0cb256c2c4384",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "9167d046694de0b0e3ecac215d68fe868f287f96e9e172207bc0b004c0e8c6cf",
+        "text_sha256": "c42e3e595342220ec6f29250b2ee51bbf7c4f3e30c1023afd56fafbed4cbb3fd",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_33": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "e9b88afb8a51e077ea9e755121954b040967df3381252380001c874093e814fd",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": "2024-07-15",
-        "text_sha256": "b172141b0d9019e29f7e6621724e32fdac779ddda55edef4c45713f5d8b1c341",
+        "text_sha256": "b9ee7b18c12e5e49ce00a889fb11e7154e817aec9d67690064c5953eaa7c48bd",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       },
       {
         "valid_from": "2024-07-16",
         "valid_to": null,
-        "text_sha256": "634bf0bf72a6b181e106524d047754500185e2c729fef4817312db76fa969b35",
+        "text_sha256": "d7c2f995c2e1b317895e10557a8b1cfbe58dded572ff912507b98446adf72110",
         "in_version": "eu-eurlex:32019l0944:2024-07-16"
       }
     ],
     "art_34": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "7e4bbfccac560a17350e7eaa71e036aaf12a5403dc5545b9d396194cbf13b50d",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -325,21 +474,39 @@
     ],
     "art_35": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "9adca5d17891805f6e275e3c8c748df8be61f76945ef93f3383dbb3f39263274",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "5ba08c405585bfeb9e1e73bd8c688ec7740d77ea96c8581b7a760ca5968fc3c1",
+        "text_sha256": "b62d0eca324846c3c10a8de91bbd890ab28ee6b6c4367af04e794fee4aa2d0c3",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_36": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "ceff40d8c3d00f851e0a590eb4a64f05c2e61594fa707eeb0e95b4632e8e38c7",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "13d6b0f1c9fad2d0ee3af216895865550896054e67b0ecc6162d96609f91fd84",
+        "text_sha256": "f1f66fcc452c244e4fa15a48fb0ae50fa47e3812aa77fbe295e21dc0f74504a7",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_37": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "60cc29b446425fdfbc22ec9508d8b07792c26989b8c2200f9e631c616f752910",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -349,13 +516,25 @@
     ],
     "art_38": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "b9dcf9db477a0da716f68c21ae6ffc9b9741d854f45dc446ec61198994edc843",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "a3f10a121f17e011e8208207b99c27c2f0d9a1a98dfdfc0b35699f100bf8e637",
+        "text_sha256": "a2e274fc7ac4f3b665e415630ea32c2d6324d692ebaa159afd31a0272f84353a",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_39": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "38e68ce879e990c9775f40e76fd86f54c975a241502b631bc7ff765a1aeec35f",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -364,6 +543,12 @@
       }
     ],
     "art_4": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "0ff25db301ed655998a8edb1ab04245440721b3a564a207fd4e2b62970721525",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": "2024-07-15",
@@ -379,13 +564,25 @@
     ],
     "art_40": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "e1053f5bc6f5a241d0acb5b08df27bc1a419ebcaa86877ed9fc9208426c1c699",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "73557b501fcda0bb43c0360156ecc941f739a8d3d3420a098d68f0f23ec2a27a",
+        "text_sha256": "aac8a78982fc83498e3f091be4b97a2acad384306da9d5b9521ce1e399764df6",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_41": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "bd78a2b29eef7474444b1cfb2d2ba74b1d8f6496254ac5df1c87f3a31e79c66b",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -395,6 +592,12 @@
     ],
     "art_42": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "442ca6035a13297139f9bf5126456e610c870f87aabad57695d132a01d421391",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "a7b5ad7f9496f3c19d6db05338c0c58a5e9df9494b07ae809c5fbae2082b1272",
@@ -403,45 +606,87 @@
     ],
     "art_43": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "4b28c0d8a2644ad49bd60632f12abcdca0f476de368cdc83a86081de9da93788",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "1a1bee005f09f0e7e201d0237895407b43b97c282e0b8637e042a1cb11335602",
+        "text_sha256": "aeb793bc32c6806297e3a9eb10b60e10b2cc2643b30386ba6434a3e0b55e59e7",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_44": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "09818a8944ef8a3be034b5b49158c1df9b37b57dcb50a07ac7e49a57752fa031",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "78ed0d470c3388e125ee798487c964eb9a38edc36d2a0ed872a3ddedb86bdfec",
+        "text_sha256": "cbb0f5a247330a3a9eaba6e0fd45d204ab2eb3897a1b57b65db783064e52f2ba",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_45": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "30bbaba1946b03e01f2c06f535aa7eff13d9e9569ba4905b06eb6d01725ab68c",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "5d76cbca1dbaac8c32e704be811ef004ddc8eebf3306a3497aa8ae0999fb6445",
+        "text_sha256": "14ae5eb8acb2cd4c5a14cb05b467c1af22746ac991c3d7d71dbcf6661e8375c0",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_46": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "2c4c8b8a64946241614ac9e420b6330f0798951752afcb6a67f4faed150b9492",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
-        "valid_to": null,
-        "text_sha256": "f28da7c144d84865f035b4935b2dbdf170b8ccdccbdd603a31ff2a26bee46455",
+        "valid_to": "2024-07-15",
+        "text_sha256": "1a63dc78d3efd74d9116aca9ca971b983c383468681f22620ea4ef9d1aea48cc",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
+      },
+      {
+        "valid_from": "2024-07-16",
+        "valid_to": null,
+        "text_sha256": "36d44b892210c29f06019ab8173117a19168ca88106d11d7fe65c847c650662c",
+        "in_version": "eu-eurlex:32019l0944:2024-07-16"
       }
     ],
     "art_47": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "ed0424ce6cb060e8e1aea088f075e3b7e2220d0f2a1eb22b5b401f834002c1f6",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "ce621d166ab730cc1d7bb8effb15340cddecb27eaad2fa75281d291be3aa7508",
+        "text_sha256": "6e4139067a9eb2659e3eddac13f7f4ce3af85534a931d8126a3478339154d345",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_48": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "5c1500790b189ea4758212489b4fa0d3c1af52c1224f04bc013e08b188ade648",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -451,6 +696,12 @@
     ],
     "art_49": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "6e6b686517e0641e665b305925eceb471a624f0f149b70c06bc26becf5e4d661",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "b0bcca20f85679f45f8668ff03fbe6aee2b789b39cd1c97e0559ac5180367fb2",
@@ -459,53 +710,95 @@
     ],
     "art_5": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "e334beeb05bf11a4843dffb96894a2971954ab4275df0c610f4024bb278e82bd",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "6240243bf5bd91255e82cfee56301e0d5a5626b698953a56ab192e4ecaada018",
+        "text_sha256": "2bd990e6f8be8d96380e67839969d8f4c6270f5c5179fb89c746490b18faf6a0",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_50": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "163aa7bd80a76a9ab705f62d7fa566f734495c31313fd9eeaa458388a80b8dba",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "6d5d2b51f3a2b3332734f8fc5a6f5b7593ef910b779128bdadfc35041b4662f6",
+        "text_sha256": "20b3defa875e6db1ffd140c410aaf1fa6382acce7ac9ab44b76d6028bbaad141",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_51": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "e15dad474f070351e747daa0683b5e2e09df88d4ba138949e51c225fbe79c777",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "86d575ec5c0ce448cc3e353c0f2e6a886246833bdb63a91730ef72ece98308d5",
+        "text_sha256": "dde996ad58cdad147334dfe26331ff583f522d34380d532c652ea66a071fdd74",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_52": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "b8bb306f7f728fcc8ffa681316e2457c2d2397bd8ba1c2fc1e49097e254ac331",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "6f8b218e011a8e2358e4e9d68e2dfdd7ec1db42ad3c6202a5fd45d0f6d7332fc",
+        "text_sha256": "5bf4147575c152b9fac490aa0cef487bcbdd0f45180147da85da1698f83533bf",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_53": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "3d525b6c7a84196bbbd792edd7fdf56e8781c29a923b60fc9c900689d1fb0de7",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "a9ac6227698da448f093dadd79b4294ab7c202e32ca751594f2a1c0dd9a8db1a",
+        "text_sha256": "a0dfbfa2d7ded4197c724ba9f096b83e0ca8dc419b24f7806b5a0cacd0e660fb",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_54": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "0363f8e6dc2f8a08b3cdbe6c868e897ccabc748e4df6713e014347005198d824",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "3ed44291a1f5db4fa5b7023afe78880be15daa7cbe509ba93448a5258fff7d09",
+        "text_sha256": "9a99aa1cb9b26560a233876ead97be2547e72ee618a93323abff298cfa6ae828",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_55": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "82861701a0a7df6257d6f561d100abaa7150da74095b559db78cda36ce3c461c",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -515,6 +808,12 @@
     ],
     "art_56": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "8f87fb741a5d6eda8a9c2439bb2a12703e865dd3dc5dd983f27a79cca1f11f30",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "247fb64d5c401bfaf97d129c3cdd5862e18158b0ac46b1e8d470f3c6e74c6d98",
@@ -523,13 +822,25 @@
     ],
     "art_57": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "7f2a2c1b99cd160016be634fc778a5dabc5ffb9b6166c67c3f3267941033f504",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "729d1f61cd0adc692ef242a155da24b0e93466f02bb3a050737378d25b24ac42",
+        "text_sha256": "4c308e97f83375fed9edf2061f8905d1edd8daf433ffdf5c05dc54b8fe632e7f",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_58": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "71dd191428928e65875e2a6019e6704a1e862429282ff94cabf423c1847e4d92",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -539,19 +850,37 @@
     ],
     "art_59": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "68e6384f71a49cffa225531ec53b04368328fdc2bad9626a998e4b1c3f00bb1e",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": "2024-07-15",
-        "text_sha256": "5562305d5f78f3b2a2417719b64ff781f6564320a85439ba852ff826e35f9c64",
+        "text_sha256": "bd546497a72344d4f9e62971527ef869580ce03029f2734d79bdec7e1ceed24c",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       },
       {
         "valid_from": "2024-07-16",
-        "valid_to": null,
-        "text_sha256": "1273c9ef73b78e64b0efca1f7f18f8b324114a93ad1902ca670956af64c3a28d",
+        "valid_to": "2025-10-11",
+        "text_sha256": "c520ef8b5a80c9e80af3235bf7cd4d1820899207b30a5c3db8e9f1fa1d9f87e2",
         "in_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "valid_from": "2025-10-12",
+        "valid_to": null,
+        "text_sha256": "1351765315df9ed59f6b872d531559b7d295aeeac923ab1007fd6daca7ff086d",
+        "in_version": "eu-eurlex:32019l0944:2025-10-12"
       }
     ],
     "art_6": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "6ab10904ba8357ed1281565f3238329d982371d44031782f164e0cb29b78247c",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -561,6 +890,12 @@
     ],
     "art_60": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "377daae4d761c60a94ced405b9a28182096db794f3b17cc497edd372d4735e35",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "681ce1034e4bad8ceb3259dc3a597eb386d0ab0817a0dfcfff5a525e3d998627",
@@ -569,29 +904,53 @@
     ],
     "art_61": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "9150fccc69c27c37ea1ac5b7bd26d22cedb6c57f34854b4d146835bc6a96949c",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "90d08ba64eab7f098eca2c0308d9a768911afd9fe14630a6f1a165a4da031176",
+        "text_sha256": "42b61bb70373caa5d09c30aa80444794ee9e18e4ce804d5c2acbbff809932da2",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_62": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "590f10e138098557cda9d4b31d5b50e9e82552031fb215a84a65130525cc5227",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "46bf269c3f4636c7a2a45157841dd978ffe048240b19670a3652ac56daed39b9",
+        "text_sha256": "a7181b6b3af1036802b7c202208f23efa634d7c732f913b38ba01a758743ab4f",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_63": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "bcde286a52bd22f7f6f636d81e0a2185fd2f851cee3baa4e447a8a07a044372c",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "81b7d6bd0081c857509c62e06ce1e30004e74bab87336595cac5158420020788",
+        "text_sha256": "06dc3309e2416bb94eea15b7f6f8a3cb2c0045dcbdafef81b1c986cd9a1a3810",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_64": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "274e8d7c2bf79652930965d72758a62512f71d6c1c628978ca4c6215f32dd7a2",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -601,6 +960,12 @@
     ],
     "art_65": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "99df7a5ac7bb947eeab93ce2fea02bc8d71738493242a85e71522f90a096a98e",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "7c87c0eeb7413d47b7f40ed3ba2257ec7f8eba16168be0c45f99a685a83a6a70",
@@ -608,6 +973,12 @@
       }
     ],
     "art_66": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "61a47a41eb530388de6e3388a725aecd4db6337120dd441c3d28619b69bbdf49",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": "2024-07-15",
@@ -631,6 +1002,12 @@
     ],
     "art_67": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "1c3844a2bbe55b111153aca12042e475b587d1c6cdf0e2af9eeb09844d84849c",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "7ee480db497644132069d406329bfdba591c317f2ae144866c3c3d87a07cef1d",
@@ -639,6 +1016,12 @@
     ],
     "art_68": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "a9cf613fc6dabb7004627c2ff518bd74f0f954fb4349b6b9839dda7ff827eae9",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "58f12943dcdff93d443fa27812f2e248082923a1d94cca71d95ddf7c4316ff47",
@@ -646,6 +1029,12 @@
       }
     ],
     "art_69": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "bebf3b10d7b4e65f041e01bd960a3cd83d604430901e213bdac67d919ea9f05a",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": "2024-07-15",
@@ -675,21 +1064,39 @@
     ],
     "art_7": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "a819fa350325a76456307290e9496d7737630ddbe214638e47282cbee4de6911",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
-        "text_sha256": "cd626b361c16595d6a81d28e4257d18d1b57fe656f4c65389f26adca32adcfbb",
+        "text_sha256": "2dd1270c1a997d8298d457d6609dc9941d4f323b4e372f46dc0750c8f40a38c6",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_70": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "030c33a37b54b000c6d29e4771eb38348f877290cec5b56eab443c7d4ca36b52",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
-        "valid_to": null,
-        "text_sha256": "a6443c4cebd6644d3c28c6d8a83c1bd48bf387f126eed861858b84916f3ef08d",
+        "valid_to": "2025-10-11",
+        "text_sha256": "a8446d20f7e3718a42a0b8de7c5023089a76fdaca900355e1514770f37d2a04a",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
       }
     ],
     "art_71": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "da6d77a606a69e2bafe6dca81fde3b8b0ec38e9c87a805bd4b20bf59a8b57753",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -699,6 +1106,12 @@
     ],
     "art_72": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "8947638584137d5033d5410664f19e14c0e0c77d7731e23e01dfd97311280bce",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "9fa75eb79f4827da15ad53d11fd1d92e410580fdc1d6638fe09d8a5680dde657",
@@ -706,6 +1119,12 @@
       }
     ],
     "art_73": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "36af13f8db0a60d3776ed7a9ba5543845fe344bdbd31087c74b0dc657b9ed656",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -715,6 +1134,12 @@
     ],
     "art_74": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "77b9986646d20cbfe745a424913619f7e39d66f64633aa63b2437b6da27b721f",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
         "valid_to": null,
         "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
@@ -723,13 +1148,31 @@
     ],
     "art_8": [
       {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "c6d4669b23bfd415b8329c2a1b1fbba17f10dd86fc040dc12c28d58d15055066",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
+      {
         "valid_from": "2022-06-23",
-        "valid_to": null,
-        "text_sha256": "3d50fc30628388259a7dfc84186aa30d65e6f24f362731da1d12f70af01465f2",
+        "valid_to": "2024-07-15",
+        "text_sha256": "33f0c0dc30ddd60099f0606f27215396be0cc3b39d33fccb506f38dd39670d33",
         "in_version": "eu-eurlex:32019l0944:2022-06-23"
+      },
+      {
+        "valid_from": "2024-07-16",
+        "valid_to": null,
+        "text_sha256": "3f4405eac9a6f3a021bec4ac229b0b0377917be3b99b7237c8e6864f1046ad25",
+        "in_version": "eu-eurlex:32019l0944:2024-07-16"
       }
     ],
     "art_9": [
+      {
+        "valid_from": "2019-06-05",
+        "valid_to": "2019-06-13",
+        "text_sha256": "73f757fa4306f9d07f872ac45afc15ec1e21200445573c7dd4ac37f8b6627875",
+        "in_version": "eu-eurlex:32019l0944:2019-06-05"
+      },
       {
         "valid_from": "2022-06-23",
         "valid_to": null,
@@ -768,6 +1211,2539 @@
       "type": "inserted",
       "anchor": "art_6a",
       "at_version": "eu-eurlex:32019l0944:2024-07-16"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_70",
+      "at_version": "eu-eurlex:32019l0944:2025-10-12"
     }
-  ]
+  ],
+  "anchors_by_language": {
+    "en": {
+      "art_1": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "bc7ea6c2a9e2df843ab856cbf5c8e1a6f98f8ed521f1093150ba07cd987641ae",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "41afca8049a6a6348b3c2b2766a4529872577bb65b5dffe12d28c23365ad63ff",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "0fcce84347967148c41067ead72b9f4852e4cf664bbfa8252a6f4c1333781ac0",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "35d2a6f4704bbd333385e6888a1ad25a611c075acf6097d62d49103f56b6e051",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "39701b23e12e3ab1b8e707ed444f2132a1e11845432c02a69e481ac780e03947",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "cc38cde59478ef1eaaa2c98e13247d42ec57695d6af2855dabd1b7276c78eb38",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "70948ba4289c6c206cf103d953738086deee5b1b50fbba097b2f3a688a920e7f",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "1e3b274ffd3856295012dde3b9ed70dc598248bb0e7ff428f72d987d52332fb3",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "46f97af4e0457d1884e3a794434c0115aad531a4ab82dc61d0feba19fe71329a",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "ca05d1fd5bd5d9df12646dcb710e330e265bf12299df865456307c4c1acb7acc",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "a5ac160ff8a8305577d75169994e905aa356afb6a291cf84e836e62f881ebfad",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "087a2ae9f50b966564e743a93e77c1c4a5772daff41f4f93b3c1063618e8d02f",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "5c7584fc5d02337023cd9f66f1489c5cff1ffb009732a80e84a8e1b139735d80",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "38872251c7508d2154ae6a5549b4660f9293e6f3495c6340894876628f083900",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "8c29a3aa06a6f74b82c770f952ec8c22dafcc78fb81e91c8fc68d7fb7cb5f8b0",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "fc537a79b4043f79886726dfea5f8b2752e3bffd7ec9e1dec405bdc4831adb2e",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_15a": [
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "4ee51d737643f0674a06bad510efacfb6f83bfb6cd09c0bfe2767df35b5e36c6",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "7949d58968057374fa5764d97e6d5958926dcf837877ccac16fc25b5127828a5",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "3838acde04fcc6d4b50f1529b2d9f4403affb846e0bf02bddee5689c2982d71d",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_17": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "4a2025268f3f9e7a089031340fd585721e8d0c06e405f630de94a90cd6c8fbef",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "56a36860d4ad227522ba4380808450e589a146761c9cdc13e28a4f5ac8aa82f1",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_18": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "7a4fbea182142d668185199267766ca75215a5be31e7e54a230861dbbc52807f",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "e38a84c6e0ac00e1f9f0646fa3eb3594ca4ae594dfd88e07ec33812463d42575",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_18a": [
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "9eaf5defbc305c66f763bdd074a6f0f016b191252b574243252b7b31a540806b",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_19": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "943708f0bb453e70fa5a6ad04026888727460175c9af9a4c14272aea14926b2a",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "f04153aab792091e742f436b441d6e990d6ecefeb48b12106e5a0fc73413ab47",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "f22c241c719d0e9ce2ca4dd38f040d5a6e47be03c2d694338ea5b1a164e0f36a",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "35fffc92338c1c88f8c3b2ff81d38519a0577374c9779fd918b1ca2be3db36bc",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "1fb8db62182610e4b84a26b44e38a607165087370c6aa2123eca8c01c46110f1",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_20": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "dc92d3619b029bb8fb801a49333ba90984a1087a10dbe9704572f867a8d6a8ac",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "d7bb35a0d40785d144a961f85b1fbdb157f9ef79b3913d520b6fb977c384b29f",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_21": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "e9eb1523ec86b531fe7e3eb0f7887603c7e8301f26c794be7419ec6080c716fa",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "c0e2fb0d8d9b817445c8ca51e9e88f3ccd08e8d57fdda3739b0aafee4bee7fe8",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_22": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "325cedf62e555503cdab90ef2d2ac093a3834eaf356c05bfd89b6d06ceb73f3b",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "a36cfe7ca25894a3444765e8142a669cb09f6cc1542b5c0e064634d8e3a08ff7",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_23": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "3b8c7c445c66538e1d86658b7ccbcf948ad23c20b6e1a30c94a2366af0f8b0d7",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "a9893877508a21fd07b54488399782464a9c5ab5abb72674cead2959b5787cfb",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_24": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "25df5ea6ae19c67d8871b66420c325f90ed88f0ffd69bb4ace8a765ad4bd62f7",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "bbd8e5ef21293fa1ea820b419943c804fbd1b59fda88e6ae83c3bcb4579297ce",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_25": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "953347836072a4673cc42536bc8714506488eefd1e2782f538f4a1ebf1aaebdd",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "eb010c56818795ba692cde969324196ce4b7bcdfecc377e8aef26a42b71063e2",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_26": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "e36fd998b4e2f5735d53d64c0763cfc0638546130cfe12f2a79e0ad42535cd89",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "2816c73caea6a28c6a545f1931a0ced6c1311a0d45c07e53e4a38a576f9e410a",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "2368ee30ff44e56094cb8fc47f318657c59a9664259a06531156f26e53e95e94",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_27": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "e49cedeaeda63c0c7c94f66f4895282ea3d5bfac8da02f366c74f4acbd50a8dc",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "cc09709c443f39f256e92e8a4c75f0d455ddb1a5b057633c9fbc974a7f54e8a2",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "43c68e256284421b7e1b765a3c88b47ae5dc8c2b00ef6f84857839906c885744",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_27a": [
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "23e96038fb510990177d290e008d6785f9a36a5c86b427e994d4de972e3ee741",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_28": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "c90d92cfec7ce801680153bf3d2fbca63a68ccc21be6ab8ed321c2e3e0055e7a",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "12fdd0baeabdccd77703d7d65eece82f49ed3799f635b168e65ff3da5a58aacc",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_28a": [
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "f9d0d490f34624ec80c3505a8a517b84a24e021a5dee90c7852457f7d8d4a4db",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_29": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "c04019271c11b6c30519f25f4d1ad75d99671c8f40242c71f69f6d9b6d4264f6",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "c63d6aaf1af0da56f2c778ffe2b5bd36efd91e60c440aa49e4ec04f736fd2f6e",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "b2dedf8bc2e1c5ba0ff97d5ec95aeab5a81ce2038166ff9a3197be26585c0afc",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "2fad76132d2c24b7be0ecf43c228cb2d0de0f01f8dacbd355ab7afeb0386cceb",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_30": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "d4015316f108ecc91c3b6f4cbe6bd4267b9db67699546927189bf579066efcaa",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "6ef0f4857fcad5abff98f2ccabc485e87acbfcbd333400924749814cb0be8b35",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_31": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "1e0e856a2d1b2977cbb676a9cc1b84580db39613d3d8c40178cf2ef7c156e142",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "91ba721e6f29e8a5e70231974e8633a259629035b13caa8ac73a8e042568339b",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "0279ec024f77b300c712ad054c679b2031ba7304ece971d059d853093563d7e7",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_32": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "b7f348aa38e9f392133de4d6cf9acd3d023a3911dc03ef7ed3e0cb256c2c4384",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "c42e3e595342220ec6f29250b2ee51bbf7c4f3e30c1023afd56fafbed4cbb3fd",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_33": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "e9b88afb8a51e077ea9e755121954b040967df3381252380001c874093e814fd",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "b9ee7b18c12e5e49ce00a889fb11e7154e817aec9d67690064c5953eaa7c48bd",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "d7c2f995c2e1b317895e10557a8b1cfbe58dded572ff912507b98446adf72110",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_34": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "7e4bbfccac560a17350e7eaa71e036aaf12a5403dc5545b9d396194cbf13b50d",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "6c2014973087e24ae35982e5376d12c2f6b89e09a5ff885807d6102b3318a8f3",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_35": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "9adca5d17891805f6e275e3c8c748df8be61f76945ef93f3383dbb3f39263274",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "b62d0eca324846c3c10a8de91bbd890ab28ee6b6c4367af04e794fee4aa2d0c3",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_36": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "ceff40d8c3d00f851e0a590eb4a64f05c2e61594fa707eeb0e95b4632e8e38c7",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "f1f66fcc452c244e4fa15a48fb0ae50fa47e3812aa77fbe295e21dc0f74504a7",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_37": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "60cc29b446425fdfbc22ec9508d8b07792c26989b8c2200f9e631c616f752910",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "7f7031f81bc549e79464aaafb52f193ba5d1f3294c6ecb618318b34d7de6fe19",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_38": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "b9dcf9db477a0da716f68c21ae6ffc9b9741d854f45dc446ec61198994edc843",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "a2e274fc7ac4f3b665e415630ea32c2d6324d692ebaa159afd31a0272f84353a",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_39": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "38e68ce879e990c9775f40e76fd86f54c975a241502b631bc7ff765a1aeec35f",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "55c66e6ccb3cdfdd84f94c61e232c6a5fa4d010438f1d2e3d10264044cd597cf",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "0ff25db301ed655998a8edb1ab04245440721b3a564a207fd4e2b62970721525",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "48bbfdcb079481df3dcc85197d8eaebe02bf52e0adbe77c2f31d4de5eb0add85",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "9f52f284690c69fff2def13eaf71a9609695ecd88f6146baaebb1c7ce48732da",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_40": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "e1053f5bc6f5a241d0acb5b08df27bc1a419ebcaa86877ed9fc9208426c1c699",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "aac8a78982fc83498e3f091be4b97a2acad384306da9d5b9521ce1e399764df6",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_41": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "bd78a2b29eef7474444b1cfb2d2ba74b1d8f6496254ac5df1c87f3a31e79c66b",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "9ae1d3ef9a8cb60dd0785510bd29ef0f7f8802ea0f6d748b992b20be71a96139",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_42": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "442ca6035a13297139f9bf5126456e610c870f87aabad57695d132a01d421391",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "a7b5ad7f9496f3c19d6db05338c0c58a5e9df9494b07ae809c5fbae2082b1272",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_43": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "4b28c0d8a2644ad49bd60632f12abcdca0f476de368cdc83a86081de9da93788",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "aeb793bc32c6806297e3a9eb10b60e10b2cc2643b30386ba6434a3e0b55e59e7",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_44": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "09818a8944ef8a3be034b5b49158c1df9b37b57dcb50a07ac7e49a57752fa031",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "cbb0f5a247330a3a9eaba6e0fd45d204ab2eb3897a1b57b65db783064e52f2ba",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_45": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "30bbaba1946b03e01f2c06f535aa7eff13d9e9569ba4905b06eb6d01725ab68c",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "14ae5eb8acb2cd4c5a14cb05b467c1af22746ac991c3d7d71dbcf6661e8375c0",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_46": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "2c4c8b8a64946241614ac9e420b6330f0798951752afcb6a67f4faed150b9492",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "1a63dc78d3efd74d9116aca9ca971b983c383468681f22620ea4ef9d1aea48cc",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "36d44b892210c29f06019ab8173117a19168ca88106d11d7fe65c847c650662c",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_47": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "ed0424ce6cb060e8e1aea088f075e3b7e2220d0f2a1eb22b5b401f834002c1f6",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "6e4139067a9eb2659e3eddac13f7f4ce3af85534a931d8126a3478339154d345",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_48": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "5c1500790b189ea4758212489b4fa0d3c1af52c1224f04bc013e08b188ade648",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "f9082ab621da8e4373323ed9cc5977c20107f9b36829ecdcda6a66c4ba7cbd6a",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_49": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "6e6b686517e0641e665b305925eceb471a624f0f149b70c06bc26becf5e4d661",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "b0bcca20f85679f45f8668ff03fbe6aee2b789b39cd1c97e0559ac5180367fb2",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "e334beeb05bf11a4843dffb96894a2971954ab4275df0c610f4024bb278e82bd",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "2bd990e6f8be8d96380e67839969d8f4c6270f5c5179fb89c746490b18faf6a0",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_50": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "163aa7bd80a76a9ab705f62d7fa566f734495c31313fd9eeaa458388a80b8dba",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "20b3defa875e6db1ffd140c410aaf1fa6382acce7ac9ab44b76d6028bbaad141",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_51": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "e15dad474f070351e747daa0683b5e2e09df88d4ba138949e51c225fbe79c777",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "dde996ad58cdad147334dfe26331ff583f522d34380d532c652ea66a071fdd74",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_52": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "b8bb306f7f728fcc8ffa681316e2457c2d2397bd8ba1c2fc1e49097e254ac331",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "5bf4147575c152b9fac490aa0cef487bcbdd0f45180147da85da1698f83533bf",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_53": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "3d525b6c7a84196bbbd792edd7fdf56e8781c29a923b60fc9c900689d1fb0de7",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "a0dfbfa2d7ded4197c724ba9f096b83e0ca8dc419b24f7806b5a0cacd0e660fb",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_54": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "0363f8e6dc2f8a08b3cdbe6c868e897ccabc748e4df6713e014347005198d824",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "9a99aa1cb9b26560a233876ead97be2547e72ee618a93323abff298cfa6ae828",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_55": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "82861701a0a7df6257d6f561d100abaa7150da74095b559db78cda36ce3c461c",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "959ce73494dd953e217f3fd66747ee4041428103b98490a70e652dcaeb6eb4b0",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_56": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "8f87fb741a5d6eda8a9c2439bb2a12703e865dd3dc5dd983f27a79cca1f11f30",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "247fb64d5c401bfaf97d129c3cdd5862e18158b0ac46b1e8d470f3c6e74c6d98",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_57": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "7f2a2c1b99cd160016be634fc778a5dabc5ffb9b6166c67c3f3267941033f504",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "4c308e97f83375fed9edf2061f8905d1edd8daf433ffdf5c05dc54b8fe632e7f",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_58": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "71dd191428928e65875e2a6019e6704a1e862429282ff94cabf423c1847e4d92",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "41aaa69b1a97f3e5b371772bbcd0d037026cb13860db707fed5aba63c0c81534",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_59": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "68e6384f71a49cffa225531ec53b04368328fdc2bad9626a998e4b1c3f00bb1e",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "bd546497a72344d4f9e62971527ef869580ce03029f2734d79bdec7e1ceed24c",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": "2025-10-11",
+          "text_sha256": "c520ef8b5a80c9e80af3235bf7cd4d1820899207b30a5c3db8e9f1fa1d9f87e2",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        },
+        {
+          "valid_from": "2025-10-12",
+          "valid_to": null,
+          "text_sha256": "1351765315df9ed59f6b872d531559b7d295aeeac923ab1007fd6daca7ff086d",
+          "in_version": "eu-eurlex:32019l0944:2025-10-12"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "6ab10904ba8357ed1281565f3238329d982371d44031782f164e0cb29b78247c",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "942ca35a8b24416b5ee4b5d6c25ae84a122f30ee924e0ae099550deca4ff13dc",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_60": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "377daae4d761c60a94ced405b9a28182096db794f3b17cc497edd372d4735e35",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "681ce1034e4bad8ceb3259dc3a597eb386d0ab0817a0dfcfff5a525e3d998627",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_61": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "9150fccc69c27c37ea1ac5b7bd26d22cedb6c57f34854b4d146835bc6a96949c",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "42b61bb70373caa5d09c30aa80444794ee9e18e4ce804d5c2acbbff809932da2",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_62": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "590f10e138098557cda9d4b31d5b50e9e82552031fb215a84a65130525cc5227",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "a7181b6b3af1036802b7c202208f23efa634d7c732f913b38ba01a758743ab4f",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_63": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "bcde286a52bd22f7f6f636d81e0a2185fd2f851cee3baa4e447a8a07a044372c",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "06dc3309e2416bb94eea15b7f6f8a3cb2c0045dcbdafef81b1c986cd9a1a3810",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_64": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "274e8d7c2bf79652930965d72758a62512f71d6c1c628978ca4c6215f32dd7a2",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "15c0b1066ab003bc1001e1340073f3439de9940e17d379037521389ce495ee28",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_65": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "99df7a5ac7bb947eeab93ce2fea02bc8d71738493242a85e71522f90a096a98e",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "7c87c0eeb7413d47b7f40ed3ba2257ec7f8eba16168be0c45f99a685a83a6a70",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_66": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "61a47a41eb530388de6e3388a725aecd4db6337120dd441c3d28619b69bbdf49",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "821aaa48ab92ea757dcfb10fd407d9f865fe7902e49c7ab9a92662e88a5b522d",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "4b47eca1c1b8279489501b927e2b3681e612e709281238ab9ad66ce1c5118511",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_66a": [
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "2f7836884b127f01ea2d6be221a40ccef9e8ddf1f8c7f9cd988d52bff2fe8cf8",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_67": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "1c3844a2bbe55b111153aca12042e475b587d1c6cdf0e2af9eeb09844d84849c",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "7ee480db497644132069d406329bfdba591c317f2ae144866c3c3d87a07cef1d",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_68": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "a9cf613fc6dabb7004627c2ff518bd74f0f954fb4349b6b9839dda7ff827eae9",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "58f12943dcdff93d443fa27812f2e248082923a1d94cca71d95ddf7c4316ff47",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_69": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "bebf3b10d7b4e65f041e01bd960a3cd83d604430901e213bdac67d919ea9f05a",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "21bc60878537cd6c62a3c613d680b53142b62019185a4c94557fa8824055760a",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "f06802506c22e0d4076f42b069737c10ef5d21a948a521302daffdf1c1958bbe",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_6a": [
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": "2025-10-11",
+          "text_sha256": "8dd81adc71df69dd0aa701adf2dfa8fe7a9405dfe9f22a732205b2330f2b14ac",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        },
+        {
+          "valid_from": "2025-10-12",
+          "valid_to": null,
+          "text_sha256": "c79860b06e88d8cb0bba92a34e4bc19664afa9e1116f2793ae5b87ed2bc2428e",
+          "in_version": "eu-eurlex:32019l0944:2025-10-12"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "a819fa350325a76456307290e9496d7737630ddbe214638e47282cbee4de6911",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "2dd1270c1a997d8298d457d6609dc9941d4f323b4e372f46dc0750c8f40a38c6",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_70": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "030c33a37b54b000c6d29e4771eb38348f877290cec5b56eab443c7d4ca36b52",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2025-10-11",
+          "text_sha256": "a8446d20f7e3718a42a0b8de7c5023089a76fdaca900355e1514770f37d2a04a",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_71": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "da6d77a606a69e2bafe6dca81fde3b8b0ec38e9c87a805bd4b20bf59a8b57753",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "60a40924a2a8ce45c60296ca967fd61622a52c028bfd1ea15d2d56dc18ba0ba6",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_72": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "8947638584137d5033d5410664f19e14c0e0c77d7731e23e01dfd97311280bce",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "9fa75eb79f4827da15ad53d11fd1d92e410580fdc1d6638fe09d8a5680dde657",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_73": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "36af13f8db0a60d3776ed7a9ba5543845fe344bdbd31087c74b0dc657b9ed656",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "a3a18ee1a033811f63835324d2c01bf68987476d314279916be81618b58ce8c0",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_74": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "77b9986646d20cbfe745a424913619f7e39d66f64633aa63b2437b6da27b721f",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "c6d4669b23bfd415b8329c2a1b1fbba17f10dd86fc040dc12c28d58d15055066",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "33f0c0dc30ddd60099f0606f27215396be0cc3b39d33fccb506f38dd39670d33",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "3f4405eac9a6f3a021bec4ac229b0b0377917be3b99b7237c8e6864f1046ad25",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "73f757fa4306f9d07f872ac45afc15ec1e21200445573c7dd4ac37f8b6627875",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "39e6b4155285177c4bd5825b9f2aa1bf30ed47e8cc71d62571f70f48380067a8",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ]
+    },
+    "fr": {
+      "annexe_i": [
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "e0902d68a98704a48d1f7fd3548a8ecaf7818502360758ecb913de04702ac548",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "annexe_ii": [
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "f9ba4808dedb74411a1a7ad7b3fc65304f58d51f436ae2e3778ebe8612ac6860",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "annexe_iii": [
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "8d2372353cac176d01303ff81adcbe2ac46a254c70587a195aeeffceae618c4b",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "annexe_iv": [
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "8d5aa80942f3de80c3ba07fe351c17b6d5e39bf7eece2b5db4ea68a1f5791d25",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_1": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "86e80d9d3873a45cb5dee72cf475e63e3637ff298a13fbb79921d1da3d7c3090",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "6166ce8896dc4a22ae65dc74a6b44d3b0b91d465bf1aa0c2f0401641bfced60d",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "abf28cf646506e8e7ca92bd6bde27fdbc0d882124e3690dc307842155cc967e3",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "ff8006392e5fefbad7b130366ab80b7aabbddddabf2f36b2de4cc0f80ae250d5",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "27ad9be28c9bd770997b7bca5bc031e117a3152d694c2b681e7ba08e2e004c94",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "5839e646ff4ec8d7234adedac29cc71901effc1f5222b5b1d89159c239deb623",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "aebf73a5d069b857c43f4594343c0da6d34b6647bc88c00d914ea06e2fc42f39",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "165afa122ec538045058ae45baee336b98623fcae713c09ba82bc17efd2e3835",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "9639cbd6334352e2bc14d9546e971db4ccc8161ceb8655356d93bb77e17e66ec",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "6dd8e361e39b757fa200144efd0b8330ca26ef0173990723cf9dfe7e0584d1ca",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "d7b80aad5205529e48365a64f8f02e7aa56ac5158ff6564e03dc0a3097099aab",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "47c303e6e4223b1b81dcc59a30cef7d2ec1ce12495e2fc1989cf59b54ae925fb",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "f112e4addebdcef11787b5c8b15048b454af32829a1cbdb1e1c539631dc6829b",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "f5f4c4e35f30fcfb232d5a7a6871585eb3270bdcf65990d1909d2d5aa903ef71",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "319c08ad19846642ebd219d3ca1acc0b8e45f67bf88667f38d74f739bdc7ead2",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "63788caee7c09f28ac97398571c432fe8b8967deb7f37fffb7cd9630ba48cae3",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_15a": [
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "990b32aa1af618bc780de19df249f9283089d91d3faac2d36c34292bcb1cde3a",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "84ce557b1ab5a07b848bbb1277c7c81a9c40ba5777212f7b1baaaece439867a6",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "8407dd870c72b8a1747161ed4e78e44718ef0d6d72927cd28063a716605c7682",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_17": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "f0f64fe88569b1758d29b49fe4b88acda22d7ac0738276144ec0861b08190b9e",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "f19f3e9946d19eb7d5859e98cfeac338c7a3dd98c2a9501d9e2afdc8fdf332ff",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_18": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "3218d029df1a2f1a674fc5c675a7d6968f56f689efc2660c99dcbd759cab021c",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "6ebf644fd4daadb03c43021e1aa0b20793a19e3dd3f64a9f56db5fe659ba661e",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_18a": [
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "937067b9c5b12d1d3962d45980e92054af968a58728aa3bc24830bb11fc7fbbb",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_19": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "e7232168e4f937699a8e0c84b048a14cadc478a7a587091383c8c940cdb2aab1",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "e1b7dfe18bb874ffeb75f1820626468973c67c5cd5d426b51a029be540cd07cc",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "e4b1cc366158a8d800b193760a47f532681197e44b5f617bd632c010d48921aa",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "164e704cb651c293e27792b73177267d36cb36c6d3a4b8455b56d910268738f9",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "7b2a46750d10c96f49da5f3c196e429e21d4a1bdf7af584c7b8ae287690228b3",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_20": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "9cd73ce459c08de0e787dcb18d0f8a85c7edbe71fade624806b9ddcf063318df",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "3ac223a7177b6efbf0526a302f600c11170cb074a949080ddc8e0af433a065c5",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_21": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "c9d32339249e2812f72bd49c4b15ca4a5e4e90b2e5e1a6e66b0aabeab14323c3",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "680039731d7ed7f8b21500becf21255585cbecb81b6d07b03e16280b83f83c9d",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_22": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "e2d9655bdfdebd99a79d7ec23a0c212f64e41520280b1fee3fe36082b54b67c6",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "a7ab059f8d158555f470082e8c47ee905c18d0b2e553fc489391c7543267c0d7",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_23": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "39aa3d62ea92d650d04e36031a184c1ce2fd5936417dd39fde0c6d994319f4a4",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "f8965066ed2cff56498dfe7cfbf50b6d9a196213051807939ec40087994f21c5",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_24": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "d85efa83762be386c6c796d7ef68cc815cd1ce4e0e66acb4095e34a744a507b4",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "517844829679b241cadd5dbe1aca3299f5cf1e42c349c6478b2521a92cbe2b5e",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_25": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "347e9dcaf8d9b096615df21b829671d518be60e995670c70db00fe3f40ab2f40",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "e5d312ce34dfff35af84ca131ecd3c54042c784bce7ced370049f88b5c7d0f84",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_26": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "063629f176316a266d494fc4d4fae3ecdf3d315d067654e08fb6da8701416011",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "dd2a63e320a018fcdf8c009ca9aa4a0ec447d6cd99ae1ba7f45aeaae34b08ab3",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "9e1b3d0e0aa785d21eefe71b4c9f6dd1b9419ec40255ef5b72f75351e0e6bf89",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_27": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "b2d3076a9a7647ab845807d21812ef7240ac097f2329d0e7fd42bcd2d0318cdf",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "7d5c189989f0531dba98af2bbca2982df768b159ec91a5531b4755b0d378296c",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "b3ce56d50eb3470235a247983864adf6660cf8b827a775ed5d24e5214b86e267",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_27a": [
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "a546f2a235d8c0e1477462daf5d709ca5261c51be57896cd8fe93ec35cc4bdb5",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_28": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "f1828199d9f69154b671b351abb57c3c84cd46b69d6e770c60341de93ee997cc",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "fd25f00e5defec07dea646225ee8f05022a0cf9b6bea216f362dd0ee279f623d",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_28a": [
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "c4f00c004bd709f4208f81d04bfd2edda01401d55fb270b1ce8d49a14ad52303",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_29": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "6972cdf5bdd4599100746d04c67827ca48eab3b4c92e98437920c419c8ee779f",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "f964d8cc038684beff4e56b3246d2b894d63d37c08e0deaf7ba46d8f791b46d4",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "6a8dce7b557c82db55daeaf8b44bf49f0911db075369b51760d97b2ff43e9896",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "5c2f743ebce1303d883335fa0e3921b8293e177a5c8f6979d0705620448093fe",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_30": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "f77b8302092b94510e8cc6b8ffa47b28f40819f4d08b812d453bdb0b7965a650",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "d3255d60bde19e58453366336396c42f467fda48e9b0a62b8b7dae74cb0a5785",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_31": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "7b58977ce791d5380e0da9c785e07067ee7e3904006e08618c7eb9cbc5a65380",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "25a995b4fc87af39d990bf781c098594ec37bcf55f2405c38477a911e7079967",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "b356e72afa47e108002582574fa89e1c58f316f6afc12a95571c382b0f27bb8d",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_32": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "1b9e29caad42a72b78100d778605624759f6e825cbf6293298beff04f9bf1885",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "ce8664940ee1eb4accd307568287fb1b61c66cf6675ee4b89814495565045907",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_33": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "a20ab2a1cec890c5a8f56352a1c24081ff71f3dc0b2e2f7f27df9e6a49bae966",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "1d20c97c2beaa8d45eca7737135ebec69541433c3eb3afd23ccad7e4c3ed8a5c",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "a35e9b946df5c61b95b85d4372fa621512fd77e6fc0bfb11f49a98ddf58fbf0d",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_34": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "4c905aef8dd686d5c0dd6105592ebc3293f52c89c7f4a603b2f116c638245f3c",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "a2a803db91d4c718b9ef5e2ef06d485ebfc16db7d504b0ba8286ca7b926429ef",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_35": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "2e9e134498bc9b2b5a46c95e601166aad26c4069380f9040163a517958a384f1",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "f6aa15ae0078a9548f46ea19e4889ab500797554caded6e171bdc256d44e0d8e",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_36": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "7cabeb22285dd13d5e78cc9ec132e8862efa97fb5ed2446c3c87e21d99f3a867",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "c3ae1fa8a29f0902f2c1b31c218a1c9cd97cf3218b86a3d131a15cb8e886820f",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_37": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "175d3c72f0d19cbcc7a47711695cc5c08fadd160aaf8b34e2bf6fcfd56d4f0ad",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "15bea79117ba00962ca808df0a705c2e50f767ca60fb1a097d63f5c783ca37ae",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_38": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "1ce2d4054583b4b7702b676496eec090f09ba5ce3e14917203d5a2185fa8041a",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "94a537deddf2b0f627869d40b99a771d673791ea0ad8d78be0eba4e9ba15fdbd",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_39": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "aba709528520f22477198de7f672a3494acd1707859d40da1d2698400012f564",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "af28156be1ec228d275b8ee3054a026551a3d1816d59502034fcd76cfbb543d9",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "bc49bed328e6b6e846f930c918875f6ac20de6555f64aa8c42232c2d24b4df7d",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "a98fdad6063c20b8c82fde88ba4ef2b196671a0ce425fb961eebaf2b7e2b6601",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "81869bda049b3eadc32989762c8ad4a8721cf77c7a6d92f56e5fceaea4ebcb8b",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_40": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "e20b4c8341237c88deeaa0013b7321588c48e53fce084af732a34026baa2c2a4",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "9bca073b050c165502ae924648a9e5ce2dbc97586d5e7a059c6674c28af6007d",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_41": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "e739414145eb60dc5628306ab7b63a37ef26a36e07113bf04c75e2cb024ab604",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "6706174a150f2b2a5785e2089f1bc4d94c5f0c3be1947e0187f8a157ed8902c9",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_42": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "62262efc9e37c4bb778dac4f7ab7f38edd67f7000baff1e6ece300353a453719",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "180db2ceadbc3744d3d6bb82b4fed2746bc7253481e50669e5c559970a7e5b8a",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_43": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "7dc3a73369cd093496ef7b581ef7843064fc6b6abb79d4a130ad5d59397bd99d",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "2643ed14eb4d29995b69b394abd6eb440a9731adcf348a2b1711711c6597f966",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_44": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "3c33f7f29fab7f66d98ff1d5180a394bc5fdc78708d94efdeba9703a0063abc4",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "9b4f94b3d59dfbef6fddd6f8db02bd8c53c64d81e1e3b3541df329fec2b63cdb",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_45": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "2c66d4f29bdc9d86801c8c8e928da3d36423635c983433271250e2ce8fd69068",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "2548f9289aba37bda6a64535947185ea1918a1acfd216c0ef84c142db8c8c602",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_46": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "66a8ed69a03c050fd589dde383c0a0544e28ff037754c95cb1843f79c5716617",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "6f662d5855ecf3050ab5a9ea6081844feb927fb0e4ebf9c4fec8ccff4dcb94c8",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "39ff84d2bbe3d596c5bc6f3ec9940f00f6b875c71cdfc5b02f406a4db380f91b",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_47": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "4ca8f15e82a1ff3cfec8835ce44dfce8ffbb24df6180548399a9dd6e9fd1c7aa",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "b30bfe7e8eef0690f2a5efdb6b1d28ad40f5185fdbedb7204b673c8cffd56e46",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_48": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "1d1391d1a4007959e2f8b7c0b6f12f3d7e8e48d145da830f841de8463c89de8d",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "430577fc75cce7e993d45ff4b036a0c3e2ef85050efc9fe523dd54b7df47de83",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_49": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "7b5e16b5d64349996894f7dc9b3c3a5eca65531397b043f32c01321d4335482e",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "72c9d3a578fb56273f31fc73aa55e9e06c556a01034dc7fbc4428f6d5e66c9f2",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "5dbe059da5cd1ce9a8b8bd51bbec15175d26100d94dc2912b2ef12f71b20db1d",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "687ca900836076912f9effb463cd63d4f663a48c112de1218bb6940d6152e1fd",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_50": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "04998294aa3c1738653c317ac6acb5fc7947f9353dc11c0866c4a0f139555d74",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "37418e9bfb41e7dac779580d19b8aeac012374d6990c480a859ef7f781bc7c7a",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_51": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "a487f4e9ea104392a2dcbfbd623a964f3df3c40857f57fd5bfe358626ee271c7",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "469cb3fe33a0bfdf7cedf853844c4433dd3414c94c662fb30b946db14fb4ec56",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_52": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "36e9a4abd83134ebc31cb6cee617deb0df9a524362ab164c5752ca752464ff8f",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "96ffeaf689985d8250d5daaee0d13e268b3fafb04010dd600cfa2993a88a4206",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_53": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "7954e607f5efcde9585becbebeb00c40e57a0e8bcbff5dbd33a61eb640f6b4e4",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "5585d6673e49e89ca226a0b8da4969d1e73defd99d2beae5dad5fec3cb9b7ba2",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_54": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "a2c59b8ffa0e39e8db6ad77c72773587b7c3ad0fb4f15f707b0bfb4c18694767",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "080966c51cecd01db99bf0d768856fe1464b587d284f5a6aec89bedefe742a07",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_55": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "4612d73290c7d8498fb59a4a548446fb56af868487b45d2b269af0f2b1601057",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "41c5b77b7d7903dfb6138ee717411c463b5ad8bbb9cea7d6ba0ba7779fd000f3",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_56": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "53ce47ee729f1b45f4f6f4a1424c0569d33cf78d88adac2901ba39e5467663d9",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "8baa2f298bc249a7591c8d8c8ae2cca3d089b479175eb7ce53a7cf629a6f778a",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_57": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "4d262739476bd5457cedb58128cdee14708585bb8aabaa87117e5b6e61e65f56",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "b908094f1f9ba9a5767d472678906c7dfef7c21ceac8306b9912bd530db46b88",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_58": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "938a2dab323998b90aecb2f7472ee039df85d3d748155d083f47da7d299d668f",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "7e3405a79c9ac4e739959d842e0d6b26bdaf2155135f8e96b06e72a3d9c1b8ac",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_59": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "95ef398e067511b434bc9063aaedfb0a8c81a94265e8f5050c8f878d4fc117f0",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "caa0c85440f13eeed121c0fbecf3a83e654809f242bfc44f7f14f1bdac6d71f7",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": "2025-10-11",
+          "text_sha256": "baf14753eb80b958407c6a0fa063517d1fc256fc1561d7c6bafb9797f0c10e94",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        },
+        {
+          "valid_from": "2025-10-12",
+          "valid_to": null,
+          "text_sha256": "c1e1930ef47c8efaf688f04dced97b557d756dcea314f93051b3055705db6ccf",
+          "in_version": "eu-eurlex:32019l0944:2025-10-12"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "5acf21cd218ae40cc1e9c3999938cef731fd2a52b5888696353f367b7f5ceeeb",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "59b84944714599f83d26717cf757f6b8ed73ca7a64380c102ae112c74b4551ed",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_60": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "8e2f16eac758282911f79b67b3eb94eece0158518d73d47089b5258ed11d930d",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "dc1543e793b10f1df1953738e6bfc575ae0b7af5c6fe18841590fdc366254f39",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_61": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "537983da983dcd3a0141723db57da68d3e7ff6610cdd453b7c588923d3058205",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "38a4900c88d520b6089e08f20416c6907cbfe8affd0f7a5867e11bc72a4b0653",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_62": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "f7929f53f7ed87eed21c2b9d2f9ff8933590fd49ae3c0ddb4df4b3179df928c3",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "c67c705a7022e575d4365f1d5229452f3cfa80168038cef09b1ad989e880fe71",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_63": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "710b7eb1a32fece6d637bd816462cdf846cad407ad94b03b476cf3115ab11c24",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "6e56e7ac8d948067efcf960457baa5afa1a97274a780fd1179536441fe982013",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_64": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "81faf0dee4fa705dd7e2f08ca9cf27557ff6ade2100873467d67b807ef7c7855",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "ea8644c09314a26237d1486a03a1d7d71ad3e6499cc9300a95b79409846dddee",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_65": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "80020128a296570aa35882674c21f956b929af9f00ba3bc0a4f87242dab2dc50",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "da6df4b96227319b6a16b790e64b821ba6db74ae9cee16eeb43988528d6fdc38",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_66": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "7c1780e8b344d3b9b3bde89e0587ea2d3947ad828bea479ff7f4713cb82a3c7a",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "4287267ebf95eb19138cc0008d41358c03228831bd4b8a1e070f21bea05a8050",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "18ba15ff3df1bf0490804d0e7b7da65ba66e9cfc11f8d65433ee907f722b64cb",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_66a": [
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "e99d59b9d06faf33943fbd3ba17846faa818fe8c12cb13ccd3f00601dd54f433",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_67": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "f97b588896d4f7e7ddd3729c717dad7c579c7bbffbcd1223f7fa66fb73153a7c",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "806df8231161d62da776727741c216edc74d1a62bba830229be87384a2f8204f",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_68": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "c0b4f63d8b234283df6364f58e7f92667d0086dcb0889c5e660800d0af291c15",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "3debf3fce95aa06e74293b003beb0f55da968ee628fc792c99d9f2dd7e8caa3a",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_69": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "e5682e4df16e24b28d457f2bacb026b36c1df91e29d8b99fdd5d1c21f70c64d3",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "b5311ce1ed3f4e9845c6b0763ecfe6ccffdf3c3e14f5a7334645b79ecdbab7ac",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "e61a1730e6e53cab2db87bd3052a9e4309f5a0b052fcc9b71f1da8e0da355b0a",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_6a": [
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": "2025-10-11",
+          "text_sha256": "d230b3e26c953ae7feaec1384c515b4f66ea04685d0a4a975c329a0306b97a47",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        },
+        {
+          "valid_from": "2025-10-12",
+          "valid_to": null,
+          "text_sha256": "78437f1ef47238c4ee8ed6aa11c126fe815fc90e2d5d02f23d585e076b2415de",
+          "in_version": "eu-eurlex:32019l0944:2025-10-12"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "85a97740a7ad55f69c43d2009dc0c0393128c48b22c48d70eb0064712f24aa9e",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "16654c5abc13f2d892dcbe49db51b25a0f39685a1386a9bfefd9ed0ade23c4dc",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_70": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "0ad71e137af405c57308fd6ed9bf50a40e3a419ab36aee4ce6d643b7d5b54864",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2025-10-11",
+          "text_sha256": "43ce2d5dc5226ac630bc563d59c57e5a4887b33a096c208d668cfbb3441ef0de",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_71": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "e0ff6d1cc4cb1d394a1c60b436e69fefa18cac6909413edd37fc3ce86dc4aa68",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "3f997570ce7aa6b44ee46a5154ce7a023e72eba4ad2fc2e7603625483a3201ef",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_72": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "a58e737dcda269f4c3ba056a23255469b79a75df78e53cf0b7da9d39d7df6fe0",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "4aafead4d154b2613c38927b049443e57d1d65598bb072379770b4000fd37fdd",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_73": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "0e5fa93772f8990b6847177adbd6bd66e28f486557899dd86a2abf52e8972c9e",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "6273a9ff7489fbba2f9cdbd48d0c707521a4a7b34e4306296b6f6b0df9b10e6d",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_74": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "80674165029f05dc52456601aab911c0644892d6bc965d72eac59a1109cdb975",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "0494ca841884261eae120e019d8c43801639f1893afb24ee9cb2108e39cbbe12",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "5162af7d938847781c45af91ab0d36273d6157c146d9bd317edd1fdc5ce8ceb4",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        },
+        {
+          "valid_from": "2024-07-16",
+          "valid_to": null,
+          "text_sha256": "973e74c64f4e0199f72f16bf97b816a64fd5da452e6475e6c1d901468b1655d6",
+          "in_version": "eu-eurlex:32019l0944:2024-07-16"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2019-06-05",
+          "valid_to": "2019-06-13",
+          "text_sha256": "48b070ac0aa2c35e36905c4b4e5aa4f36569df0c6bee9e0aeeb138073700d7c1",
+          "in_version": "eu-eurlex:32019l0944:2019-06-05"
+        },
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": null,
+          "text_sha256": "43cb749d5b631ed356d787fddd597776e26ffd86b7b5035912c431590e15022b",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ],
+      "art_premier": [
+        {
+          "valid_from": "2022-06-23",
+          "valid_to": "2024-07-15",
+          "text_sha256": "6166ce8896dc4a22ae65dc74a6b44d3b0b91d465bf1aa0c2f0401641bfced60d",
+          "in_version": "eu-eurlex:32019l0944:2022-06-23"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [
+      {
+        "type": "inserted",
+        "anchor": "art_15a",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_18a",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_27a",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_28a",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_66a",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_6a",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_70",
+        "at_version": "eu-eurlex:32019l0944:2025-10-12"
+      }
+    ],
+    "fr": [
+      {
+        "type": "removed",
+        "anchor": "art_1",
+        "at_version": "eu-eurlex:32019l0944:2022-06-23"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_i",
+        "at_version": "eu-eurlex:32019l0944:2022-06-23"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_ii",
+        "at_version": "eu-eurlex:32019l0944:2022-06-23"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_iii",
+        "at_version": "eu-eurlex:32019l0944:2022-06-23"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_iv",
+        "at_version": "eu-eurlex:32019l0944:2022-06-23"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_premier",
+        "at_version": "eu-eurlex:32019l0944:2022-06-23"
+      },
+      {
+        "type": "renumbered",
+        "from": "art_premier",
+        "to": "art_1",
+        "text_sha256": "6166ce8896dc4a22ae65dc74a6b44d3b0b91d465bf1aa0c2f0401641bfced60d",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16",
+        "basis": "identical_text"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_i",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_ii",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_iii",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_iv",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_15a",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_18a",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_27a",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_28a",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_66a",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_6a",
+        "at_version": "eu-eurlex:32019l0944:2024-07-16"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_70",
+        "at_version": "eu-eurlex:32019l0944:2025-10-12"
+      }
+    ]
+  }
 }

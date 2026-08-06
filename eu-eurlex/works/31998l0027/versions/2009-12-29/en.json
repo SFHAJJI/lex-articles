@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31998l0027:2009-12-29",
+  "language": "en",
+  "title": "Directive 98/27/EC",
+  "valid_from": "2009-12-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31998l0027/versions/2009-12-29/en.html",
+    "sha256": "5985ebdf4d13092e894368159ba59b3d0eb9709dea4a5d0d20bcb12cb54c1a5c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01998L0027-20091229"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31998l0027:2009-12-29#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1998L0027 — EN — 29.12.2009 — 006.001 This text is meant purely as a documentation tool and has no legal effect. The Union's institutions do not assume any liability for its contents. The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex. Those official texts are directly accessible through the links embedded in this document ►B DIRECTIVE 98/27/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 May 1998 on injunctions for the protection of consumers' interests (OJ L 166, 11.6.1998, p.51) repealed by: Official Journal No page date Directive 2009/22/EC of the European Parliament and of the Council of 23 April 2009 L 110 30 1.5.2009",
+      "text_sha256": "d564f3e5c259870fd7da16738fd50f158c095725c4a8773a529d44363429f0c1",
+      "md_span": {
+        "start": 585,
+        "end": 1335
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

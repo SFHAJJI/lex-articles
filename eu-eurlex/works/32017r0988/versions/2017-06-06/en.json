@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0988:2017-06-06",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2017/988 of 6 June 2017 laying down implementing t…",
+  "valid_from": "2017-06-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0988/versions/2017-06-06/en.xml",
+    "sha256": "d0397533dbba8bf64d0946ad640fa0ddbfc6538114f86e6eb5468d3c18251a67",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0988"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0988:2017-06-06#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. The home and host competent authorities of a trading venue whose operations have become of substantial importance within the meaning of Article 79(2) of Directive 2014/65/EU shall establish proportionate cooperation arrangements by a cooperation agreement as set out in Annex I.\n\n2. The home and host competent authorities may adapt or complement the standard cooperation agreement set out in Annex I to ensure that its provisions are proportionate to the particular circumstances giving rise to the need for cooperation.\n\n3. The home and host competent authorities shall send requests for cooperation by using the format provided for in Annex II and shall respond to those requests in the format provided for in Annex III.",
+      "text_sha256": "ca03666e283239ce449f60ccfe92ffdbc61f00a27c134e9216405881c4a61abf",
+      "md_span": {
+        "start": 636,
+        "end": 1373
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0988:2017-06-06#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 3 January 2018.",
+      "text_sha256": "6fadfb0857de69b702fc0ee1d637fd07586a3cd726ebfa8a353f3f9584dc0cf4",
+      "md_span": {
+        "start": 1406,
+        "end": 1594
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

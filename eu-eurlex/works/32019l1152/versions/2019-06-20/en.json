@@ -1,0 +1,478 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019l1152:2019-06-20",
+  "language": "en",
+  "title": "Directive (EU) 2019/1152",
+  "valid_from": "2019-06-20",
+  "valid_to": "2019-07-10",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019l1152/versions/2019-06-20/en.xml",
+    "sha256": "0171763090878960e374c720487c9d38a7480cbc255eeddfdc9e7cf5bb4fb67c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1152"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. The purpose of this Directive is to improve working conditions by promoting more transparent and predictable employment while ensuring labour market adaptability.\n\n2. This Directive lays down minimum rights that apply to every worker in the Union who has an employment contract or employment relationship as defined by the law, collective agreements or practice in force in each Member State with consideration to the case-law of the Court of Justice.\n\n3. Member States may decide not to apply the obligations in this Directive to workers who have an employment relationship in which their predetermined and actual working time is equal to or less than an average of three hours per week in a reference period of four consecutive weeks. Time worked with all employers forming or belonging to the same enterprise, group or entity shall count towards that three-hour average.\n\n4. Paragraph 3 shall not apply to an employment relationship where no guaranteed amount of paid work is predetermined before the employment starts.\n\n5. Member States may determine which persons are responsible for the execution of the obligations for employers laid down by this Directive as long as all those obligations are fulfilled. They may also decide that all or part of those obligations are to be assigned to a natural or legal person who is not party to the employment relationship.\n\nThis paragraph is without prejudice to Directive 2008/104/EC of the European Parliament and of the Council (14).\n\n6. Member States may provide, on objective grounds, that the provisions laid down in Chapter III are not to apply to civil servants, public emergency services, the armed forces, police authorities, judges, prosecutors, investigators or other law enforcement services.\n\n7. Member States may decide not to apply the obligations set out in Articles 12 and 13 and in point (a) of Article 15(1) to natural persons in households acting as employers where work is performed for those households.\n\n8. Chapter II of this Directive applies to seafarers and sea fishermen without prejudice to Directives 2009/13/EC and Directive (EU) 2017/159, respectively. The obligations set out in points (m) and (o) of Article 4(2), and Articles 7, 9, 10 and 12 shall not apply to seafarers or sea fishermen.",
+      "text_sha256": "e28c9468ea8a81eadaba6c7c3814d46cc9335f1ed2c15cd997c6dbb79bd4eb76",
+      "md_span": {
+        "start": 575,
+        "end": 2857
+      },
+      "citations": [
+        {
+          "href": "#ntr14-L_2019186EN.01010501-E0014",
+          "text": "(14)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nFor the purposes of this Directive, the following definitions apply:\n\n| (a) | ‘work schedule’ means the schedule determining the hours and days on which performance of work starts and ends; |\n| --- | --- |\n\n| (b) | ‘reference hours and days’ means time slots in specified days during which work can take place at the request of the employer; |\n| --- | --- |\n\n| (c) | ‘work pattern’ means the form of organisation of the working time and its distribution according to a certain pattern determined by the employer. |\n| --- | --- |",
+      "text_sha256": "e3c5d7593f10ad1febea66e0dd0c9e5789a78eeac62b1cc82094768eb4e41bfa",
+      "md_span": {
+        "start": 2890,
+        "end": 3429
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThe employer shall provide each worker with the information required pursuant to this Directive in writing. The information shall be provided and transmitted on paper or, provided that the information is accessible to the worker, that it can be stored and printed, and that the employer retains proof of transmission or receipt, in electronic form.",
+      "text_sha256": "57e3076643da51d63b4e36ce0e2d321acf9435107d6ecbde08f4da9f531d52d8",
+      "md_span": {
+        "start": 3462,
+        "end": 3821
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Member States shall ensure that employers are required to inform workers of the essential aspects of the employment relationship.\n\n2. The information referred to in paragraph 1 shall include at least the following:\n\n| (a) | the identities of the parties to the employment relationship; |\n| --- | --- |\n\n| (b) | the place of work; where there is no fixed or main place of work, the principle that the worker is employed at various places or is free to determine his or her place of work, and the registered place of business or, where appropriate, the domicile of the employer; |\n| --- | --- |\n\n| (c) | either:(i)the title, grade, nature or category of work for which the worker is employed or(ii)a brief specification or description of the work; |\n| --- | --- |\n| (i) | the title, grade, nature or category of work for which the worker is employed or |\n| (ii) | a brief specification or description of the work; |\n\n| (d) | the date of commencement of the employment relationship; |\n| --- | --- |\n\n| (e) | in the case of a fixed-term employment relationship, the end date or the expected duration thereof; |\n| --- | --- |\n\n| (f) | in the case of temporary agency workers, the identity of the user undertakings, when and as soon as known; |\n| --- | --- |\n\n| (g) | the duration and conditions of the probationary period, if any; |\n| --- | --- |\n\n| (h) | the training entitlement provided by the employer, if any; |\n| --- | --- |\n\n| (i) | the amount of paid leave to which the worker is entitled or, where this cannot be indicated when the information is given, the procedures for allocating and determining such leave; |\n| --- | --- |\n\n| (j) | the procedure to be observed by the employer and the worker, including the formal requirements and the notice periods, where their employment relationship is terminated or, where the length of the notice periods cannot be indicated when the information is given, the method for determining such notice periods; |\n| --- | --- |\n\n| (k) | the remuneration, including the initial basic amount, any other component elements, if applicable, indicated separately, and the frequency and method of payment of the remuneration to which the worker is entitled; |\n| --- | --- |\n\n| (l) | if the work pattern is entirely or mostly predictable, the length of the worker’s standard working day or week and any arrangements for overtime and its remuneration and, where applicable, any arrangements for shift changes; |\n| --- | --- |\n\n| (m) | if the work pattern is entirely or mostly unpredictable, the employer shall inform the worker of:(i)the principle that the work schedule is variable, the number of guaranteed paid hours and the remuneration for work performed in addition to those guaranteed hours;(ii)the reference hours and days within which the worker may be required to work;(iii)the minimum notice period to which the worker is entitled before the start of a work assignment and, where applicable, the deadline for cancellation referred to in Article 10(3); |\n| --- | --- |\n| (i) | the principle that the work schedule is variable, the number of guaranteed paid hours and the remuneration for work performed in addition to those guaranteed hours; |\n| (ii) | the reference hours and days within which the worker may be required to work; |\n| (iii) | the minimum notice period to which the worker is entitled before the start of a work assignment and, where applicable, the deadline for cancellation referred to in Article 10(3); |\n\n| (n) | any collective agreements governing the worker’s conditions of work or in the case of collective agreements concluded outside the business by special joint bodies or institutions, the name of such bodies or institutions within which the agreements were concluded; |\n| --- | --- |\n\n| (o) | where it is the responsibility of the employer, the identity of the social security institutions receiving the social contributions attached to the employment relationship and any protection relating to social security provided by the employer. |\n| --- | --- |\n\n3. The information referred to in paragraph 2(g) to (l) and (o) may, where appropriate, be given in the form of a reference to the laws, regulations and administrative or statutory provisions or collective agreements governing those points.",
+      "text_sha256": "c240518b04327169b163463e8ebd403d51e28bb89b9fa379f16d706df828e2d4",
+      "md_span": {
+        "start": 3854,
+        "end": 8134
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Where not previously provided, the information referred to in points (a) to (e), (g), (k), (l) and (m) of Article 4(2) shall be provided individually to the worker in the form of one or more documents during a period starting on the first working day and ending no later than the seventh calendar day. The other information referred to in Article 4(2) shall be provided individually to the worker in the form of a document within one month of the first working day.\n\n2. Member States may develop templates and models for the documents referred to in paragraph 1 and put them at the disposal of worker and employer including by making them available on a single official national website or by other suitable means.\n\n3. Member States shall ensure that the information on the laws, regulations and administrative or statutory provisions or universally applicable collective agreements governing the legal framework applicable which are to be communicated by employers is made generally available free of charge in a clear, transparent, comprehensive and easily accessible way at a distance and by electronic means, including through existing online portals.",
+      "text_sha256": "b983be25059bfb46c36cf9727c1cea77b9423d541b98b4fea33f4c572c5b8180",
+      "md_span": {
+        "start": 8167,
+        "end": 9336
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Member States shall ensure that any change in the aspects of the employment relationship referred to in Article 4(2) and any change to the additional information for workers sent to another Member State or to a third country referred to in Article 7 shall be provided in the form of a document by the employer to the worker at the earliest opportunity and at the latest on the day on which it takes effect.\n\n2. The document referred to in paragraph 1 shall not apply to changes that merely reflect a change in the laws, regulations and administrative or statutory provisions or collective agreements cited in the documents referred to in Article 5(1), and, where relevant, in Article 7.",
+      "text_sha256": "92118b6b618f3d8329f474d9711175187d6ff89d9d0eca6117314b21ed442559",
+      "md_span": {
+        "start": 9369,
+        "end": 10069
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Member States shall ensure that, where a worker is required to work in a Member State or third country other than the Member State in which he or she habitually works, the employer shall provide the documents referred to in Article 5(1) before the worker’s departure and the documents shall include at least the following additional information:\n\n| (a) | the country or countries in which the work abroad is to be performed and its anticipated duration; |\n| --- | --- |\n\n| (b) | the currency to be used for the payment of remuneration; |\n| --- | --- |\n\n| (c) | where applicable, the benefits in cash or kind relating to the work assignments; |\n| --- | --- |\n\n| (d) | information as to whether repatriation is provided for, and if so, the conditions governing the worker’s repatriation. |\n| --- | --- |\n\n2. Member States shall ensure that a posted worker covered by Directive 96/71/EC shall in addition be notified of:\n\n| (a) | the remuneration to which the worker is entitled in accordance with the applicable law of the host Member State; |\n| --- | --- |\n\n| (b) | where applicable, any allowances specific to posting and any arrangements for reimbursing expenditure on travel, board and lodging; |\n| --- | --- |\n\n| (c) | the link to the single official national website developed by the host Member State pursuant to Article 5(2) of Directive 2014/67/EU of the European Parliament and of the Council (15). |\n| --- | --- |\n\n3. The information referred to in point (b) of paragraph 1 and point (a) of paragraph 2 may, where appropriate, be given in the form of a reference to specific provisions of laws, regulations and administrative or statutory acts or collective agreements governing that information.\n\n4. Unless Member States provide otherwise, paragraphs 1 and 2 shall not apply if the duration of each work period outside the Member State in which the worker habitually works is four consecutive weeks or less.",
+      "text_sha256": "b71f822b6c4e17bac95b9c900b5e8e119650208e103a0f1a911168416f37835f",
+      "md_span": {
+        "start": 10102,
+        "end": 12033
+      },
+      "citations": [
+        {
+          "href": "#ntr15-L_2019186EN.01010501-E0015",
+          "text": "(15)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Member States shall ensure that, where an employment relationship is subject to a probationary period as defined in national law or practice, that period shall not exceed six months.\n\n2. In the case of fixed-term employment relationships, Member States shall ensure that the length of such a probationary period is proportionate to the expected duration of the contract and the nature of the work. In the case of the renewal of a contract for the same function and tasks, the employment relationship shall not be subject to a new probationary period.\n\n3. Member States may, on an exceptional basis, provide for longer probationary periods where justified by the nature of the employment or in the interest of the worker. Where the worker has been absent from work during the probationary period, Member States may provide that the probationary period can be extended correspondingly, in relation to the duration of the absence.",
+      "text_sha256": "513fa2a85265f6cc0681dfa18aba68d5e49c0d1acaee06aa6bac713551c160c8",
+      "md_span": {
+        "start": 12066,
+        "end": 13007
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Member States shall ensure that an employer neither prohibits a worker from taking up employment with other employers, outside the work schedule established with that employer, nor subjects a worker to adverse treatment for doing so.\n\n2. Member States may lay down conditions for the use of incompatibility restrictions by employers, on the basis of objective grounds, such as health and safety, the protection of business confidentiality, the integrity of the public service or the avoidance of conflicts of interests.",
+      "text_sha256": "dbc7c9c48b875f309f046e892388c8c9288f8b833565e38fce0f186746ad161d",
+      "md_span": {
+        "start": 13040,
+        "end": 13573
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Member States shall ensure that where a worker’s work pattern is entirely or mostly unpredictable the worker shall not be required to work by the employer unless both of the following conditions are fulfilled:\n\n| (a) | the work takes place within predetermined reference hours and days as referred to in point (m)(ii) of Article 4(2); and |\n| --- | --- |\n\n| (b) | the worker is informed by his or her employer of a work assignment within a reasonable notice period established in accordance with national law, collective agreements or practice as referred to in point (m)(iii) of Article 4(2). |\n| --- | --- |\n\n2. Where one or both of the requirements laid down in paragraph 1 is not fulfilled, a worker shall have the right to refuse a work assignment without adverse consequences.\n\n3. Where Member States allow an employer to cancel a work assignment without compensation, Member States shall take the measures necessary, in accordance with national law, collective agreements or practice, to ensure that the worker is entitled to compensation if the employer cancels, after a specified reasonable deadline, the work assignment previously agreed with the worker.\n\n4. Member States may lay down modalities for the application of this Article, in accordance with national law, collective agreements or practice.",
+      "text_sha256": "30b34f2a5be64f2bf02c8c53ae2c3869bbebe540c957b78230e0943ddf3b7cea",
+      "md_span": {
+        "start": 13608,
+        "end": 14934
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nWhere Member States allow for the use of on-demand or similar employment contracts, they shall take one or more of the following measures to prevent abusive practices:\n\n| (a) | limitations to the use and duration of on-demand or similar employment contracts; |\n| --- | --- |\n\n| (b) | a rebuttable presumption of the existence of an employment contract with a minimum amount of paid hours based on the average hours worked during a given period; |\n| --- | --- |\n\n| (c) | other equivalent measures that ensure effective prevention of abusive practices. |\n| --- | --- |\n\nMember States shall inform the Commission of such measures.",
+      "text_sha256": "4911645e699981d7681ebccc1f20f8fd4dd59c713c2533f743b1439874a28d34",
+      "md_span": {
+        "start": 14969,
+        "end": 15608
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Member States shall ensure that a worker with at least six months’ service with the same employer, who has completed his or her probationary period, if any, may request a form of employment with more predictable and secure working conditions where available and receive a reasoned written reply. Member States may limit the frequency of requests triggering the obligation under this Article.\n\n2. Member States shall ensure that the employer provides the reasoned written reply referred to in paragraph 1 within one month of the request. With respect to natural persons acting as employers and micro, small, or medium enterprises, Member States may provide for that deadline to be extended to no more than three months and allow for an oral reply to a subsequent similar request submitted by the same worker if the justification for the reply as regards the situation of the worker remains unchanged.",
+      "text_sha256": "e24da017cd891427b1e31b1776eef3e2fcdc8a92b912a3d458d80c8ef0ccdffb",
+      "md_span": {
+        "start": 15643,
+        "end": 16557
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nMember States shall ensure that where an employer is required by Union or national law or by collective agreements to provide training to a worker to carry out the work for which he or she is employed, such training shall be provided to the worker free of cost, shall count as working time and, where possible, shall take place during working hours.",
+      "text_sha256": "5bd82e06bc09fe569c122b9f3a68b82bbb856fc792626d5be0a6a82e9603fb68",
+      "md_span": {
+        "start": 16592,
+        "end": 16953
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nMember States may allow the social partners to maintain, negotiate, conclude and enforce collective agreements, in conformity with the national law or practice, which, while respecting the overall protection of workers, establish arrangements concerning the working conditions of workers which differ from those referred to in Articles 8 to 13.",
+      "text_sha256": "7aa5aa922f795dfc62027560950f60aadb2b67065f43f8d540c7a26b8072e5d1",
+      "md_span": {
+        "start": 16988,
+        "end": 17344
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Member States shall ensure that, where a worker has not received in due time all or part of the documents referred to in Article 5(1) or Article 6, one or both of the following shall apply:\n\n| (a) | the worker shall benefit from favourable presumptions defined by the Member State, which employers shall have the possibility to rebut; |\n| --- | --- |\n\n| (b) | the worker shall have the possibility to submit a complaint to a competent authority or body and to receive adequate redress in a timely and effective manner. |\n| --- | --- |\n\n2. Member States may provide that the application of the presumptions and mechanism referred to in paragraph 1 is subject to the notification of the employer and the failure of the employer to provide the missing information in a timely manner.",
+      "text_sha256": "9f1c9716decf5651ed8afa67529393c6a4745183180abc49fffa0bd1023ca712",
+      "md_span": {
+        "start": 17379,
+        "end": 18174
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\nMember States shall ensure that workers, including those whose employment relationship has ended, have access to effective and impartial dispute resolution and a right to redress in the case of infringements of their rights arising from this Directive.",
+      "text_sha256": "e22c19bd15af7664b18bf2c9ee2efae817434950d69094c1830acd87392362b0",
+      "md_span": {
+        "start": 18209,
+        "end": 18473
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nMember States shall introduce the measures necessary to protect workers, including those who are workers’ representatives, from any adverse treatment by the employer and from any adverse consequences resulting from a complaint lodged with the employer or resulting from any proceedings initiated with the aim of enforcing compliance with the rights provided for in this Directive.",
+      "text_sha256": "dea2ae577c30b2d8b82c85139dc6c451887adb4e5e972c2ee65abd75f208e6fa",
+      "md_span": {
+        "start": 18508,
+        "end": 18900
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Member States shall take the necessary measures to prohibit the dismissal or its equivalent and all preparations for dismissal of workers, on the grounds that they have exercised the rights provided for in this Directive.\n\n2. Workers who consider that they have been dismissed, or have been subject to measures with equivalent effect, on the grounds that they have exercised the rights provided for in this Directive, may request the employer to provide duly substantiated grounds for the dismissal or the equivalent measures. The employer shall provide those grounds in writing.\n\n3. Member States shall take the necessary measures to ensure that, when workers referred to in paragraph 2 establish, before a court or other competent authority or body, facts from which it may be presumed that there has been such a dismissal or equivalent measures, it shall be for the employer to prove that the dismissal was based on grounds other than those referred to in paragraph 1.\n\n4. Paragraph 3 shall not prevent Member States from introducing rules of evidence which are more favourable to workers.\n\n5. Member States shall not be required to apply paragraph 3 to proceedings in which it is for the court or other competent authority or body to investigate the facts of the case.\n\n6. Paragraph 3 shall not apply to criminal proceedings, unless otherwise provided by the Member State.",
+      "text_sha256": "a12bc0a1b8047cd52c527b801e44dbacfab449e4066bccbf35d37f213d17315d",
+      "md_span": {
+        "start": 18935,
+        "end": 20326
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\nMember States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to this Directive or the relevant provisions already in force concerning the rights which are within the scope of this Directive. The penalties provided for shall be effective, proportionate and dissuasive.",
+      "text_sha256": "3dad4c8e3bceee4318b7a58a93e2a665717f756755ad3239a72bf49de9f66982",
+      "md_span": {
+        "start": 20361,
+        "end": 20699
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. This Directive shall not constitute valid grounds for reducing the general level of protection already afforded to workers within Member States.\n\n2. This Directive shall not affect Member States’ prerogative to apply or to introduce laws, regulations or administrative provisions which are more favourable to workers or to encourage or permit the application of collective agreements which are more favourable to workers.\n\n3. This Directive is without prejudice to any other rights conferred on workers by other legal acts of the Union.",
+      "text_sha256": "02201aff0793052f0bf8a15d6afb487097c21379c8ddd6da26ae7c4682bae1c8",
+      "md_span": {
+        "start": 20734,
+        "end": 21285
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. Member States shall take the necessary measures to comply with this Directive by 1 August 2022. They shall immediately inform the Commission thereof.\n\n2. When Member States adopt the measures referred to in paragraph 1, they shall contain a reference to this Directive or shall be accompanied by such reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.\n\n3. Member States shall communicate to the Commission the text of the main measures of national law which they adopt in the field covered by this Directive.\n\n4. Member States shall, in accordance with their national law and practice, take adequate measures to ensure the effective involvement of the social partners and to promote and enhance social dialogue with a view to implementing this Directive.\n\n5. Member States may entrust the social partners with the implementation of this Directive, where the social partners jointly request to do so and provided that Member States take all necessary steps to ensure that they can at all times guarantee the results sought under this Directive.",
+      "text_sha256": "dd8eec75d71b51007018fb6943cbcff542ce474e9d706b53875d92c965739696",
+      "md_span": {
+        "start": 21320,
+        "end": 22458
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\nThe rights and obligations set out in this Directive shall apply to all employment relationships by 1 August 2022. However, an employer shall provide or complement the documents referred to in Article 5(1) and in Articles 6 and 7 only upon the request of a worker who is already employed on that date. The absence of such a request shall not have the effect of excluding a worker from the minimum rights established in Articles 8 to 13.",
+      "text_sha256": "1ec5350c8aef59f0404ffc9d9db1dbbc6395f583fde9656ef35002d011d5ca4c",
+      "md_span": {
+        "start": 22493,
+        "end": 22941
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\nBy 1 August 2027, the Commission shall, after consulting the Member States and the social partners at Union level and taking into account the impact on micro, small and medium-sized enterprises, review the implementation of this Directive and propose, where appropriate, legislative amendments.",
+      "text_sha256": "469b4ee8e4fb6e2097c8977d839c9509dd5d40ef1a8c0e37bd9a2566fe1b98d6",
+      "md_span": {
+        "start": 22976,
+        "end": 23282
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nDirective 91/533/EEC shall be repealed with effect from 1 August 2022. References to the repealed Directive shall be construed as references to this Directive.",
+      "text_sha256": "71b0ed96ffe9f66712fa2c5c70266b986dcb77c48ddae341f6c7afe8d8ffeaa2",
+      "md_span": {
+        "start": 23317,
+        "end": 23488
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\nThis Directive shall enter into force on the twentieth day following its publication in the Official Journal of the European Union.",
+      "text_sha256": "e9c50856d8794b3a888246aa3a3b2ca884004747a4c28fbbffa5b24bbf199a5c",
+      "md_span": {
+        "start": 23523,
+        "end": 23666
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "ae06e2b02679c61a95984ed88f438f76e20b5c2c4b97f5a6e4a2407ac25281fc",
+      "md_span": {
+        "start": 23701,
+        "end": 23762
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023l2843:2023-12-13",
+  "language": "en",
+  "title": "Directive (EU) 2023/2843",
+  "valid_from": "2023-12-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023l2843/versions/2023-12-13/en.xml",
+    "sha256": "96116aa4d15ce881f40ff1591efc6d4d1233d771d243c06418e9e449357853ae",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023L2843"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn Article 13(4)of Directive 2003/8/EC, the second subparagraph is replaced by the following:\n\n‘The competent transmitting authority shall transmit the application to the competent receiving authority in the other Member State in accordance with Article 3 of Regulation (EU) 2023/2844 of the European Parliament and of the Council(*1) within 15 days of the receipt of the application duly completed in one of the languages referred to in paragraph 2 of this Article, and the supporting documents, translated, where necessary, into one of those languages.",
+      "text_sha256": "faf5239174305d4625b55937b530bb55a436c2fd26d445ef6f5d0a3da00913de",
+      "md_span": {
+        "start": 569,
+        "end": 1134
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_202302843EN.000101-E0015",
+          "text": "(*1)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nFramework Decision 2002/584/JHA is amended as follows:\n\n| (1) | the following article is inserted:‘Article 8aMeans of communication1. Without prejudice to Article 9(2) and Article 10(2) and (3), official communication under this Framework Decision between the issuing judicial authority and the executing judicial authority shall be carried out in accordance with Article 3 of Regulation (EU) 2023/2844 of the European Parliament and of the Council(*2).Where a Member State has designated a central authority or authorities, the first subparagraph shall also apply to official communication with the central authority or authorities of another Member State.2. Communication between the competent authority in the issuing Member State and the competent authority in the executing Member State, for the purposes of providing information required to enable the requested person to appoint a lawyer in the issuing State in accordance with Article 10(5) of Directive 2013/48/EU of the European Parliament and of the Council(*3) and to apply for legal aid in the issuing State in accordance with Article 5(2) of Directive (EU) 2016/1919 of the European Parliament and of the Council(*4), shall be carried out in accordance with Article 3 of Regulation (EU) 2023/2844.3. By way of derogation from paragraph 1, transit requests made pursuant to Article 25(3) may also be sent through secure law enforcement communication channels.(*2) Regulation (EU) 2023/2844 of the European Parliament and of the Council of 13 December 2023 on the digitalisation of judicial cooperation and access to justice in cross-border civil, commercial and criminal matters, and amending certain acts in the field of judicial cooperation (OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj).\" (*3) Directive 2013/48/EU of the European Parliament and of the Council of 22 October 2013 on the right of access to a lawyer in criminal proceedings and in European arrest warrant proceedings, and on the right to have a third party informed upon deprivation of liberty and to communicate with third persons and with consular authorities while deprived of liberty (OJ L 294, 6.11.2013, p. 1).\" (*4) Directive (EU) 2016/1919 of the European Parliament and of the Council of 26 October 2016 on legal aid for suspects and accused persons in criminal proceedings and for requested persons in European arrest warrant proceedings (OJ L 297, 4.11.2016, p. 1).’;\" |\n| --- | --- |\n\n| (2) | in Article 10, paragraph 4 is deleted; |\n| --- | --- |\n\n| (3) | in Article 18(1), point (a) is replaced by the following:‘(a)either agree that the requested person should be heard in accordance with Article 19 of this Framework Decision or via videoconferencing in accordance with Article 6 of Regulation (EU) 2023/2844;’; |\n| --- | --- |\n| ‘(a) | either agree that the requested person should be heard in accordance with Article 19 of this Framework Decision or via videoconferencing in accordance with Article 6 of Regulation (EU) 2023/2844;’; |\n\n| (4) | in Article 25, paragraph 3 is replaced by the following:‘3. The transit request and the information set out in paragraph 1 shall be addressed to the authority designated pursuant to paragraph 2. The Member State of transit shall notify its decision on the transit request.’. |\n| --- | --- |",
+      "text_sha256": "140cf2177dc7a7f36b75254c1c1e864a4bd3369b4326cb13f310f863585884f7",
+      "md_span": {
+        "start": 1167,
+        "end": 4489
+      },
+      "citations": [
+        {
+          "href": "#ntr*2-L_202302843EN.000101-E0016",
+          "text": "(*2)"
+        },
+        {
+          "href": "#ntr*3-L_202302843EN.000101-E0017",
+          "text": "(*3)"
+        },
+        {
+          "href": "#ntr*4-L_202302843EN.000101-E0018",
+          "text": "(*4)"
+        },
+        {
+          "href": "#ntc*2-L_202302843EN.000101-E0016",
+          "text": "(*2)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/02844/oj",
+          "text": "OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj"
+        },
+        {
+          "href": "#ntc*3-L_202302843EN.000101-E0017",
+          "text": "(*3)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2013_294_R_TOC",
+          "text": "OJ L 294, 6.11.2013, p. 1"
+        },
+        {
+          "href": "#ntc*4-L_202302843EN.000101-E0018",
+          "text": "(*4)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2016_297_R_TOC",
+          "text": "OJ L 297, 4.11.2016, p. 1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nFramework Decision 2003/577/JHA is amended as follows:\n\n| (1) | in Article 4, paragraph 1 is replaced by the following:‘1. A freezing order within the meaning of this Framework Decision, together with the certificate provided for in Article 9, shall be transmitted by the judicial authority which issued it directly to the competent judicial authority for execution.’; |\n| --- | --- |\n\n| (2) | in Article 5(1), the third subparagraph is replaced by the following: ‘A report on the execution of the freezing order shall be made forthwith to the competent authority in the issuing State.’; |\n| --- | --- |\n\n| (3) | in Article 7, paragraph 3 is replaced by the following:‘3. Any decision to refuse recognition or execution shall be taken and notified forthwith to the competent judicial authorities of the issuing State.’; |\n| --- | --- |\n\n| (4) | Article 8 is amended as follows:(a)paragraph 2 is replaced by the following:‘2. A report on the postponement of the execution of the freezing order, including the grounds for the postponement and, if possible, the expected duration of the postponement, shall be made forthwith to the competent authority in the issuing State.’;(b)paragraph 3 is replaced by the following:‘3. As soon as the grounds for postponement have ceased to exist, the competent judicial authority of the executing State shall forthwith take the necessary measures for the execution of the freezing order and inform the competent authority in the issuing State thereof.’; |\n| --- | --- |\n| (a) | paragraph 2 is replaced by the following:‘2. A report on the postponement of the execution of the freezing order, including the grounds for the postponement and, if possible, the expected duration of the postponement, shall be made forthwith to the competent authority in the issuing State.’; |\n| (b) | paragraph 3 is replaced by the following:‘3. As soon as the grounds for postponement have ceased to exist, the competent judicial authority of the executing State shall forthwith take the necessary measures for the execution of the freezing order and inform the competent authority in the issuing State thereof.’; |\n\n| (5) | in Title II, the following article is added:‘Article 12aMeans of communicationOfficial communication under this Framework Decision between the competent judicial authority of the issuing State and the competent judicial authority of the executing State shall be carried out in accordance with Article 3 of Regulation (EU) 2023/2844 of the European Parliament and of the Council(*5).(*5) Regulation (EU) 2023/2844 of the European Parliament and of the Council of 13 December 2023 on the digitalisation of judicial cooperation and access to justice in cross-border civil, commercial and criminal matters, and amending certain acts in the field of judicial cooperation (OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj).’.\" |\n| --- | --- |",
+      "text_sha256": "b66bac6aed395239bf8b8047c29914bead0770107cf6e7ae5905c5942f444c0f",
+      "md_span": {
+        "start": 4522,
+        "end": 7434
+      },
+      "citations": [
+        {
+          "href": "#ntr*5-L_202302843EN.000101-E0019",
+          "text": "(*5)"
+        },
+        {
+          "href": "#ntc*5-L_202302843EN.000101-E0019",
+          "text": "(*5)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/02844/oj",
+          "text": "OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nFramework Decision 2005/214/JHA is amended as follows:\n\n| (1) | in Article 4, paragraph 3 is replaced by the following:‘3. The decision or a certified copy of it, together with the certificate, shall be transmitted by the competent authority in the issuing State directly to the competent authority in the executing State. The original of the decision, or a certified copy of it, and the original of the certificate shall be sent to the executing State if it so requires. The originals or certified copies of documents may be sent in electronic form in accordance with Article 8 of Regulation (EU) 2023/2844 of the European Parliament and of the Council(*6). All other official communications shall also be made directly between the said competent authorities.(*6) Regulation (EU) 2023/2844 of the European Parliament and of the Council of 13 December 2023 on the digitalisation of judicial cooperation and access to justice in cross-border civil, commercial and criminal matters, and amending certain acts in the field of judicial cooperation (OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj).’;\" |\n| --- | --- |\n\n| (2) | in Article 14, the introductory wording is replaced by the following: ‘The competent authority of the executing State shall without delay inform the competent authority of the issuing State:’; |\n| --- | --- |\n\n| (3) | the following article is inserted:‘Article 15aMeans of communication1. With the exception of communication under Article 7(3),official communication under this Framework Decision between the competent authority of the issuing State and the competent authority of the executing State shall be carried out in accordance with Article 3 of Regulation (EU) 2023/2844.2. Where a Member State has designated a central authority or authorities, paragraph 1 shall also apply to official communication with the central authority or authorities of another Member State.’. |\n| --- | --- |",
+      "text_sha256": "18f0877adad0eb66e7216688b046d61a00bbd39a16f47299ffa42be97ef230bf",
+      "md_span": {
+        "start": 7467,
+        "end": 9420
+      },
+      "citations": [
+        {
+          "href": "#ntr*6-L_202302843EN.000101-E0020",
+          "text": "(*6)"
+        },
+        {
+          "href": "#ntc*6-L_202302843EN.000101-E0020",
+          "text": "(*6)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/02844/oj",
+          "text": "OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nFramework Decision 2006/783/JHA is amended as follows:\n\n| (1) | in Article 4, paragraph 2 is replaced by the following:‘2. The confiscation order or a certified copy thereof, together with the certificate, shall be transmitted by the competent authority of the issuing State directly to the authority of the executing State which is competent to execute it. The original of the confiscation order, or a certified copy thereof, and the original of the certificate shall be transmitted to the executing State if it so requires. The originals or certified copies of documents may be sent in electronic form in accordance with Article 8 of Regulation (EU) 2023/2844 of the European Parliament and of the Council(*7). All other official communications shall also be made directly between the said competent authorities.(*7) Regulation (EU) 2023/2844 of the European Parliament and of the Council of 13 December 2023 on the digitalisation of judicial cooperation and access to justice in cross-border civil, commercial and criminal matters, and amending certain acts in the field of judicial cooperation (OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj).’;\" |\n| --- | --- |\n\n| (2) | Article 10 is amended as follows:(a)paragraph 3 is replaced by the following:‘3. In the case of postponement pursuant to paragraph 1, point (a), the competent authority of the executing State shall inform the competent authority of the issuing State thereof immediately, and the competent authority of the issuing State shall comply with the obligations referred to in Article 14(3).’;(b)paragraph 4 is replaced by the following:‘4. In the cases referred to in paragraph 1, points (b) to (e), a report on the postponement, including the grounds for the postponement and, if possible, the expected duration of the postponement, shall be made forthwith by the competent authority of the executing State to the competent authority of the issuing State.As soon as the grounds for postponement have ceased to exist, the competent authority of the executing State shall forthwith take the necessary measures for the execution of the confiscation order and inform the competent authority of the issuing State thereof.’; |\n| --- | --- |\n| (a) | paragraph 3 is replaced by the following:‘3. In the case of postponement pursuant to paragraph 1, point (a), the competent authority of the executing State shall inform the competent authority of the issuing State thereof immediately, and the competent authority of the issuing State shall comply with the obligations referred to in Article 14(3).’; |\n| (b) | paragraph 4 is replaced by the following:‘4. In the cases referred to in paragraph 1, points (b) to (e), a report on the postponement, including the grounds for the postponement and, if possible, the expected duration of the postponement, shall be made forthwith by the competent authority of the executing State to the competent authority of the issuing State.As soon as the grounds for postponement have ceased to exist, the competent authority of the executing State shall forthwith take the necessary measures for the execution of the confiscation order and inform the competent authority of the issuing State thereof.’; |\n\n| (3) | in Article 14(3), the introductory wording is replaced by the following: ‘The competent authority of the issuing State shall immediately inform the competent authority of any executing State concerned:’; |\n| --- | --- |\n\n| (4) | Article 15 is replaced by the following:‘Article 15Termination of executionThe competent authority of the issuing State shall forthwith inform the competent authority of the executing State of any decision or measure as a result of which the order ceases to be enforceable or shall be withdrawn from the executing State for any other reason. The executing State shall terminate execution of the order as soon as it is informed by the competent authority of the issuing State of that decision or measure.’; |\n| --- | --- |\n\n| (5) | in Article 17, the introductory wording is replaced by the following: ‘The competent authority of the executing State shall without delay inform the competent authority of the issuing State:’; |\n| --- | --- |\n\n| (6) | the following article is inserted:‘Article 18aMeans of communication1. With the exception of communication under Article 8(4) and Article 12(2), official communication under this Framework Decision between the competent authority of the issuing State and the competent authority of the executing State shall be carried out in accordance with Article 3 of Regulation (EU) 2023/2844.2. Where a Member State has designated a central authority or authorities, paragraph 1 shall also apply to official communication with the central authority or authorities of another Member State.’. |\n| --- | --- |",
+      "text_sha256": "1dbb579c4b51fcfcf293476251ecfb8803b64ab25e7cd355e68c1baf086c8b13",
+      "md_span": {
+        "start": 9453,
+        "end": 14272
+      },
+      "citations": [
+        {
+          "href": "#ntr*7-L_202302843EN.000101-E0021",
+          "text": "(*7)"
+        },
+        {
+          "href": "#ntc*7-L_202302843EN.000101-E0021",
+          "text": "(*7)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/02844/oj",
+          "text": "OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nFramework Decision 2008/909/JHA is amended as follows:\n\n| (1) | in Article 5, paragraph 1 is replaced by the following:‘1. The judgment or a certified copy of it, together with the certificate, shall be forwarded, by the competent authority of the issuing State directly to the competent authority of the executing State. The original of the judgment, or a certified copy of it, and the original of the certificate, shall be sent to the executing State if it so requires. The originals or certified copies of documents may be sent in electronic form in accordance with Article 8 of Regulation (EU) 2023/2844 of the European Parliament and of the Council(*8). All other official written communications shall also be made directly between the said competent authorities.(*8) Regulation (EU) 2023/2844 of the European Parliament and of the Council of 13 December 2023 on the digitalisation of judicial cooperation and access to justice in cross-border civil, commercial and criminal matters, and amending certain acts in the field of judicial cooperation (OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj).’;\" |\n| --- | --- |\n\n| (2) | in Article 16, paragraph 1 is replaced by the following:‘1. Each Member State shall, in accordance with its law, permit the transit through its territory of a sentenced person who is being transferred to the executing State, provided that a copy of the certificate referred to in Article 4 has been forwarded to it by the issuing State together with the transit request. The transit request and the certificate shall be transmitted in accordance with Article 22a. Upon request of the Member State to permit transit, the issuing State shall provide a translation of the certificate into one of the languages, to be indicated in the request, which the Member State requested to permit transit accepts.’; |\n| --- | --- |\n\n| (3) | in Article 21, the introductory wording is replaced by the following: ‘The competent authority of the executing State shall without delay inform the competent authority of the issuing State:’; |\n| --- | --- |\n\n| (4) | the following article is inserted:‘Article 22aMeans of communication1. With the exception of communication under Article 4(3), Article 9(3) and Article 12(3), official communication under this Framework Decision between the competent authority of the issuing State and the competent authority of the executing State shall be carried out in accordance with Article 3 of Regulation (EU) 2023/2844.2. By way of derogation from paragraph 1, transit requests made pursuant to Article 16(1) may also be sent through secure law enforcement communication channels.’. |\n| --- | --- |",
+      "text_sha256": "3444090beb3ac02724b3f2130c9cde2e786bfca021396cc93d18ae9b274bc423",
+      "md_span": {
+        "start": 14305,
+        "end": 16991
+      },
+      "citations": [
+        {
+          "href": "#ntr*8-L_202302843EN.000101-E0022",
+          "text": "(*8)"
+        },
+        {
+          "href": "#ntc*8-L_202302843EN.000101-E0022",
+          "text": "(*8)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/02844/oj",
+          "text": "OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nFramework Decision 2008/947/JHA is amended as follows:\n\n| (1) | Article 6 is amended as follows:(a)paragraph 2 is replaced by the following:‘2. The judgment and, where applicable, the probation decision, together with the certificate referred to in paragraph 1, shall be forwarded by the competent authority of the issuing State directly to the competent authority of the executing State. The original of the judgment and, where applicable, the probation decision, or certified copies thereof, as well as the original of the certificate, shall be sent to the competent authority of the executing State if it so requires. The originals or certified copies of documents may be sent in electronic form in accordance with Article 8 of Regulation (EU) 2023/2844 of the European Parliament and of the Council(*9). All other official communications shall also be made directly between the said competent authorities.(*9) Regulation (EU) 2023/2844 of the European Parliament and of the Council of 13 December 2023 on the digitalisation of judicial cooperation and access to justice in cross-border civil, commercial and criminal matters, and amending certain acts in the field of judicial cooperation (OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj).’;\" (b)paragraph 7 is replaced by the following:‘7. When an authority of the executing State which receives a judgment and, where applicable, a probation decision, together with the certificate referred to in paragraph 1, has no competence to recognise it and take the ensuing necessary measures for the supervision of the probation measure or alternative sanction, it shall, ex officio, forward it to the competent authority and shall without delay inform the competent authority of the issuing State accordingly.’; |\n| --- | --- |\n| (a) | paragraph 2 is replaced by the following:‘2. The judgment and, where applicable, the probation decision, together with the certificate referred to in paragraph 1, shall be forwarded by the competent authority of the issuing State directly to the competent authority of the executing State. The original of the judgment and, where applicable, the probation decision, or certified copies thereof, as well as the original of the certificate, shall be sent to the competent authority of the executing State if it so requires. The originals or certified copies of documents may be sent in electronic form in accordance with Article 8 of Regulation (EU) 2023/2844 of the European Parliament and of the Council(*9). All other official communications shall also be made directly between the said competent authorities.(*9) Regulation (EU) 2023/2844 of the European Parliament and of the Council of 13 December 2023 on the digitalisation of judicial cooperation and access to justice in cross-border civil, commercial and criminal matters, and amending certain acts in the field of judicial cooperation (OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj).’;\" |\n| (b) | paragraph 7 is replaced by the following:‘7. When an authority of the executing State which receives a judgment and, where applicable, a probation decision, together with the certificate referred to in paragraph 1, has no competence to recognise it and take the ensuing necessary measures for the supervision of the probation measure or alternative sanction, it shall, ex officio, forward it to the competent authority and shall without delay inform the competent authority of the issuing State accordingly.’; |\n\n| (2) | in Article 12, paragraph 1 is replaced by the following:‘1. The competent authority of the executing State shall decide as soon as possible, and within 60 days of receipt of the judgment and, where applicable, the probation decision, together with the certificate referred to in Article 6(1), whether or not to recognise the judgment and, where applicable, the probation decision, and assume responsibility for supervising the probation measures or alternative sanctions. It shall immediately inform the competent authority of the issuing State of its decision.’; |\n| --- | --- |\n\n| (3) | Article 16 is amended as follows:(a)paragraph 1 is replaced by the following:‘1. The competent authority of the executing State shall without delay inform the competent authority of the issuing State of all decisions on the:(a)modification of the probation measure or alternative sanction;(b)revocation of the suspension of the execution of the judgment or revocation of the decision on conditional release;(c)enforcement of a custodial sentence or measure involving deprivation of liberty because of non-compliance with a probation measure or alternative sanction;(d)lapsing of the probation measure or alternative sanction.’;(b)paragraph 3 is replaced by the following:‘3. The competent authority of the issuing State shall immediately inform the competent authority of the executing State of any circumstances or findings which, in its opinion, could entail one or more of the decisions referred to in paragraph 1, points (a), (b) or (c) being taken.’; |\n| --- | --- |\n| (a) | paragraph 1 is replaced by the following:‘1. The competent authority of the executing State shall without delay inform the competent authority of the issuing State of all decisions on the:(a)modification of the probation measure or alternative sanction;(b)revocation of the suspension of the execution of the judgment or revocation of the decision on conditional release;(c)enforcement of a custodial sentence or measure involving deprivation of liberty because of non-compliance with a probation measure or alternative sanction;(d)lapsing of the probation measure or alternative sanction.’; |\n| (a) | modification of the probation measure or alternative sanction; |\n| (b) | revocation of the suspension of the execution of the judgment or revocation of the decision on conditional release; |\n| (c) | enforcement of a custodial sentence or measure involving deprivation of liberty because of non-compliance with a probation measure or alternative sanction; |\n| (d) | lapsing of the probation measure or alternative sanction.’ |\n| (b) | paragraph 3 is replaced by the following:‘3. The competent authority of the issuing State shall immediately inform the competent authority of the executing State of any circumstances or findings which, in its opinion, could entail one or more of the decisions referred to in paragraph 1, points (a), (b) or (c) being taken.’; |\n\n| (4) | in Article 17, paragraph 3 is replaced by the following:‘3. Notice of the findings referred to in paragraph 1, points (a) and (b), and in paragraph 2 shall be given using the standard form set out in Annex II. Notice of the facts and circumstances referred to in paragraph 1, point (c), shall be given, where possible, through the form set out in Annex II.’; |\n| --- | --- |\n\n| (5) | in Article 18, the introductory wording is replaced by the following: ‘The competent authority of the executing State shall without delay inform the competent authority of the issuing State of:’; |\n| --- | --- |\n\n| (6) | the following article is inserted:‘Article 20aMeans of communicationWith the exception of communication under Article 11(3) and Article 12(2), official communication under this Framework Decision between the competent authority of the issuing State and the competent authority of the executing State shall be carried out in accordance with Article 3 of Regulation (EU) 2023/2844.’. |\n| --- | --- |",
+      "text_sha256": "277d18b4ce50a9d0901b70af6138956d224cfa6cad6d6a9021877e1729cbf986",
+      "md_span": {
+        "start": 17024,
+        "end": 24492
+      },
+      "citations": [
+        {
+          "href": "#ntr*9-L_202302843EN.000101-E0023",
+          "text": "(*9)"
+        },
+        {
+          "href": "#ntc*9-L_202302843EN.000101-E0023",
+          "text": "(*9)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/02844/oj",
+          "text": "OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nFramework Decision 2009/829/JHA is amended as follows:\n\n| (1) | in Article 10, paragraph 2 is replaced by the following:‘2. The decision on supervision measures or a certified copy of it, together with the certificate, shall be forwarded by the competent authority in the issuing State directly to the competent authority in the executing State. The original of the decision on supervision measures, or a certified copy of it, and the original of the certificate, shall be sent to the executing State if it so requires. The originals or certified copies of documents may be sent in electronic form in accordance with Article 8 of Regulation (EU) 2023/2844 of the European Parliament and of the Council(*10). All other official communications shall also be made directly between the said competent authorities.(*10) Regulation (EU) 2023/2844 of the European Parliament and of the Council of 13 December 2023 on the digitalisation of judicial cooperation and access to justice in cross-border civil, commercial and criminal matters, and amending certain acts in the field of judicial cooperation (OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj).’;\" |\n| --- | --- |\n\n| (2) | in Article 20(2), the introductory wording is replaced by the following: ‘The competent authority in the executing State shall, without delay, inform the competent authority in the issuing State:’; |\n| --- | --- |\n\n| (3) | the following article is inserted:‘Article 23aMeans of communication1. With the exception of communication under Article 12(3) and Article 15(2), official communication under this Framework Decision between the competent authority of the issuing State and the competent authority of the executing State shall be carried out in accordance with Article 3 of Regulation (EU) 2023/2844.2. Where a Member State has designated a central authority or authorities, paragraph 1 shall also apply to official communication with the central authority or authorities of another Member State.’. |\n| --- | --- |",
+      "text_sha256": "05c057d8f54e7a8035071fa98a5daeccb3b79947f510458b8caddefcb67fcb4e",
+      "md_span": {
+        "start": 24525,
+        "end": 26553
+      },
+      "citations": [
+        {
+          "href": "#ntr*10-L_202302843EN.000101-E0024",
+          "text": "(*10)"
+        },
+        {
+          "href": "#ntc*10-L_202302843EN.000101-E0024",
+          "text": "(*10)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/02844/oj",
+          "text": "OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nArticle 7 of Framework Decision 2009/948/JHA is replaced by the following:\n\n‘Article 7\n\nMeans of communication\n\n1. The contacting and contacted authorities shall communicate in accordance with Article 3 of Regulation (EU) 2023/2844 of the European Parliament and of the Council(*11).\n\n2. Where a Member State has designated a central authority or authorities, paragraph 1 shall also apply to official communication with the central authority or authorities of another Member State.",
+      "text_sha256": "dff0187bf27b5ad62978f410988689eefe9ed573c8187c73e7b0fc9a12ecec5d",
+      "md_span": {
+        "start": 26586,
+        "end": 27078
+      },
+      "citations": [
+        {
+          "href": "#ntr*11-L_202302843EN.000101-E0025",
+          "text": "(*11)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nDirective 2011/99/EU is amended as follows:\n\n| (1) | Article 8 is amended as follows:(a)paragraph 1 is replaced by the following:‘1. Where the competent authority of the issuing State transmits the European protection order to the competent authority of the executing State, it shall do so in accordance with Article 16a.All other official communication shall also be made directly between those competent authorities.’;(b)paragraph 3 is replaced by the following:‘3. When an authority of the executing State which receives a European protection order has no competence to recognise it, that authority shall, ex officio, forward the European protection order to the competent authority and shall, without delay, inform the competent authority of the issuing State accordingly.’; |\n| --- | --- |\n| (a) | paragraph 1 is replaced by the following:‘1. Where the competent authority of the issuing State transmits the European protection order to the competent authority of the executing State, it shall do so in accordance with Article 16a.All other official communication shall also be made directly between those competent authorities.’; |\n| (b) | paragraph 3 is replaced by the following:‘3. When an authority of the executing State which receives a European protection order has no competence to recognise it, that authority shall, ex officio, forward the European protection order to the competent authority and shall, without delay, inform the competent authority of the issuing State accordingly.’; |\n\n| (2) | in Article 9, paragraph 4 is replaced by the following:‘4. If the competent authority in the executing State considers that the information transmitted with the European protection order in accordance with Article 7 is incomplete, it shall without delay inform the competent authority of the issuing State, assigning a reasonable period for it to provide the missing information.’; |\n| --- | --- |\n\n| (3) | the following article is inserted:‘Article 16aMeans of communication1. Official communication under this Directive between the competent authority of the issuing State and the competent authority of the executing State shall be carried out in accordance with Article 3 of Regulation (EU) 2023/2844 of the European Parliament and of the Council(*12).2. Where a Member State has designated a central authority or authorities, paragraph 1 shall also apply to official communication with the central authority or authorities of another Member State.(*12) Regulation (EU) 2023/2844 of the European Parliament and of the Council of 13 December 2023 on the digitalisation of judicial cooperation and access to justice in cross-border civil, commercial and criminal matters, and amending certain acts in the field of judicial cooperation (OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj).’.\" |\n| --- | --- |",
+      "text_sha256": "656acdd20cd78511641093424bef2af93c49110669f6441784cffb8dcac2fe49",
+      "md_span": {
+        "start": 27113,
+        "end": 29969
+      },
+      "citations": [
+        {
+          "href": "#ntr*12-L_202302843EN.000101-E0026",
+          "text": "(*12)"
+        },
+        {
+          "href": "#ntc*12-L_202302843EN.000101-E0026",
+          "text": "(*12)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/02844/oj",
+          "text": "OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nDirective 2014/41/EU is amended as follows:\n\n| (1) | the following article is inserted:‘Article 5aMeans of communication1. With the exception of communication under Article 9(6), Article 11(4), Article 12(5) and (6) and Article 16(2), first subparagraph, official communication under this Directive between the issuing authority and the executing authority shall be carried out in accordance with Article 3 of Regulation (EU) 2023/2844 of the European Parliament and of the Council(*13).2. Where a Member State has designated a central authority or authorities, paragraph 1 shall also apply to official communication with the central authority or authorities of another Member State.(*13) Regulation (EU) 2023/2844 of the European Parliament and of the Council of 13 December 2023 on the digitalisation of judicial cooperation and access to justice in cross-border civil, commercial and criminal matters, and amending certain acts in the field of judicial cooperation (OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj).’;\" |\n| --- | --- |\n\n| (2) | in Article 7, paragraph 1 is replaced by the following:‘1. The EIO completed in accordance with Article 5 shall be transmitted by the issuing authority to the executing authority.’ |\n| --- | --- |\n\n| (3) | in Article 15, paragraph 2 is replaced by the following:‘2. As soon as the grounds for postponement have ceased to exist, the executing authority shall forthwith take the necessary measures for the execution of the EIO and inform the issuing authority thereof.’; |\n| --- | --- |\n\n| (4) | Article 16 is amended as follows:(a)paragraph 2 is replaced by the following:‘2. Without prejudice to Article 10(4) and (5), the executing authority shall inform the issuing authority immediately by any means:(a)if it is impossible for the executing authority to take a decision on the recognition or execution due to the fact that the form provided for in Annex A is incomplete or manifestly incorrect;(b)if the executing authority, in the course of the execution of the EIO, considers without further enquiries that it may be appropriate to carry out investigative measures not initially foreseen, or which could not be specified when the EIO was issued, in order to enable the issuing authority to take further action in the specific case; or(c)if the executing authority establishes that, in a specific case, it cannot comply with formalities and procedures expressly indicated by the issuing authority in accordance with Article 9.Upon request by the issuing authority, the information shall be confirmed without delay in accordance with Article 5a.’;(b)in paragraph 3, the introductory wording is replaced by the following: ‘Without prejudice to Article 10(4) and (5), the executing authority shall inform the issuing authority without delay:’. |\n| --- | --- |\n| (a) | paragraph 2 is replaced by the following:‘2. Without prejudice to Article 10(4) and (5), the executing authority shall inform the issuing authority immediately by any means:(a)if it is impossible for the executing authority to take a decision on the recognition or execution due to the fact that the form provided for in Annex A is incomplete or manifestly incorrect;(b)if the executing authority, in the course of the execution of the EIO, considers without further enquiries that it may be appropriate to carry out investigative measures not initially foreseen, or which could not be specified when the EIO was issued, in order to enable the issuing authority to take further action in the specific case; or(c)if the executing authority establishes that, in a specific case, it cannot comply with formalities and procedures expressly indicated by the issuing authority in accordance with Article 9.Upon request by the issuing authority, the information shall be confirmed without delay in accordance with Article 5a.’; |\n| (a) | if it is impossible for the executing authority to take a decision on the recognition or execution due to the fact that the form provided for in Annex A is incomplete or manifestly incorrect; |\n| (b) | if the executing authority, in the course of the execution of the EIO, considers without further enquiries that it may be appropriate to carry out investigative measures not initially foreseen, or which could not be specified when the EIO was issued, in order to enable the issuing authority to take further action in the specific case; or |\n| (c) | if the executing authority establishes that, in a specific case, it cannot comply with formalities and procedures expressly indicated by the issuing authority in accordance with Article 9. |\n| (b) | in paragraph 3, the introductory wording is replaced by the following: ‘Without prejudice to Article 10(4) and (5), the executing authority shall inform the issuing authority without delay:’. |",
+      "text_sha256": "e3adc99f8f40b8652a1843b074a31f3fa6c87ff51b6822efd83dc88648c7c0d1",
+      "md_span": {
+        "start": 30004,
+        "end": 34832
+      },
+      "citations": [
+        {
+          "href": "#ntr*13-L_202302843EN.000101-E0027",
+          "text": "(*13)"
+        },
+        {
+          "href": "#ntc*13-L_202302843EN.000101-E0027",
+          "text": "(*13)"
+        },
+        {
+          "href": "https://data.europa.eu/eli/reg/2023/02844/oj",
+          "text": "OJ L, 2023/2844, 27.12.2023, ELI: http://data.europa.eu/reg/2023/2844/oj"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nMember States shall adopt and publish, within two years of the entry into force of the corresponding implementing act referred to in Article 10(3)(a) of Regulation (EU) 2023/2844 the laws, regulations and administrative provisions necessary to comply with Articles 2 and 11 of this Directive. They shall immediately inform the Commission thereof.\n\nThey shall apply those provisions from the first day of the month following the period of two years after the entry into force of the corresponding implementing act referred to in Article 10(3)(a) of Regulation (EU) 2023/2844.\n\nWhen Member States adopt those provisions, they shall contain a reference to Articles 2 and 11 of this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.",
+      "text_sha256": "4cc982326578cd70cf3a4285aee6ff8bf34ea62e5bd3ad3590374e7cf0e12d49",
+      "md_span": {
+        "start": 34867,
+        "end": 35726
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nMember States shall adopt and publish, within two years of the entry into force of the corresponding implementing act referred to in Article 10(3)(b) of Regulation (EU) 2023/2844, the laws, regulations and administrative provisions necessary to comply with Articles 1, 6 and 10 of this Directive. They shall immediately inform the Commission thereof.\n\nThey shall apply those provisions from the first day of the month following the period of two years after the entry into force of the corresponding implementing act referred to in Article 10(3)(b) of Regulation (EU) 2023/2844.\n\nWhen Member States adopt those provisions, they shall contain a reference to Articles 1, 6 and 10 of this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.",
+      "text_sha256": "30383a02e324edb93d633e87355d6771383db191f860fb05e25b0c8176e86fa8",
+      "md_span": {
+        "start": 35761,
+        "end": 36627
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nMember States shall adopt and publish, within two years of the entry into force of the corresponding Implementing act referred to in Article 10(3)(c) of Regulation (EU) 2023/2844, the laws, regulations and administrative provisions necessary to comply with Articles 3, 4, 5 and 9 of this Directive. They shall immediately inform the Commission thereof.\n\nThey shall apply those provisions from the first day of the month following the period of two years after the entry into force of the corresponding implementing act referred to in Article 10(3)(c) of Regulation (EU) 2023/2844.\n\nWhen Member States adopt those provisions, they shall contain a reference to Articles 3, 4, 5and 9 of this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.",
+      "text_sha256": "fc5c381d675bb62076001098b5398a068a8a5f4331a9cd06c2974916d2a4a300",
+      "md_span": {
+        "start": 36662,
+        "end": 37531
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nMember States shall adopt and publish, within two years of the entry into force of the corresponding implementing act referred to in Article 10(3)(d) of Regulation (EU) 2023/2844, the laws, regulations and administrative provisions necessary to comply with Articles 7 and 8 of this Directive. They shall immediately inform the Commission thereof.\n\nThey shall apply those provisions from the first day of the month following the period of two years after the entry into force of the corresponding implementing act referred to in Article 10(3)(d) of Regulation (EU) 2023/2844.\n\nWhen Member States adopt those provisions, they shall contain a reference to Articles 7 and 8 of this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.",
+      "text_sha256": "44824602ff97d8fdfbb855bcdf2068906eb03b4040857bf96d6f90b43dffdff6",
+      "md_span": {
+        "start": 37566,
+        "end": 38424
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\nThis Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "bcd54e10dcc7710246dee0ec2e95dbe92da5ba587e6e89782325382088321dcc",
+      "md_span": {
+        "start": 38459,
+        "end": 38610
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32023l2843:2023-12-13#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nThis Directive is addressed to the Member States in accordance with the Treaties.",
+      "text_sha256": "2500a30ef8da947a8abf87bb9540e8d4ea5fdf45019361004ace2abe6ce02f19",
+      "md_span": {
+        "start": 38645,
+        "end": 38738
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,929 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0856:2023-11-21",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2019/856 of 26 February 2019 supplementing Directive 2003/87/EC",
+  "valid_from": "2023-11-21",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0856/versions/2023-11-21/fr.html",
+    "sha256": "8a66c204726cb610fc6e3782e59dd0ef8fc5d98447bbf1bb2e442ef396330879",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019R0856-20231121"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objet",
+      "path": [
+        "CHAPITRE I — Dispositions générales"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement établit des règles détaillées complétant la directive 2003/87/CE en ce qui concerne:\n\na) les objectifs opérationnels du Fonds pour l'innovation institué par l'article 10 *bis*, paragraphe 8, de la directive 2003/87/CE;\n\nb) les formes d'aide fournies au titre du Fonds pour l'innovation;\n\nc) la procédure à suivre pour demander une aide au titre du Fonds pour l'innovation;\n\nd) la procédure et les critères de sélection des projets dans le cadre du Fonds pour l'innovation;\n\ne) le versement des aides au titre du Fonds pour l'innovation;\n\nf) la gouvernance du Fonds pour l'innovation;\n\ng) la notification d'informations, le suivi, l'évaluation, le contrôle et la publicité ayant trait au fonctionnement du Fonds pour l'innovation.",
+      "text_sha256": "bbd6b568953eeb11c07d17e9d10f1c62b7abe56e3b3da121d39444f29a118005",
+      "md_span": {
+        "start": 712,
+        "end": 1462
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [
+        "CHAPITRE I — Dispositions générales"
+      ],
+      "article_valid_from": null,
+      "text_md": "Aux fins du présent règlement, on entend par:\n\n| 1) | «bouclage du montage financier» : le moment où, dans le cycle de développement du projet, tous les accords afférents au projet et conventions de financement ont été signés et toutes les conditions requises y figurant ont été remplies; |\n| --- | --- |\n\n| 2) | «mise en exploitation» : le moment où, dans le cycle de développement du projet, tous les éléments et systèmes requis pour l'exploitation du projet ont été testés et où les activités permettant d'éviter de manière effective des émissions de gaz à effet de serre ont débuté; |\n| --- | --- |\n\n| 3) | «projet à petite échelle» : un projet dont le total des dépenses en capital ne dépasse pas 20 000 000 EUR; |\n| --- | --- |\n\n| 4) | «projet à moyenne échelle» : un projet dont le total des dépenses en capital est supérieur à 20 000 000 EUR sans dépasser 100 000 000 EUR; |\n| --- | --- |\n\n| 5) | «décision de lancement d’un appel à propositions» : une décision de financement par laquelle la Commission permet le financement d’un appel à propositions conformément à l’article 110 du règlement (UE, Euratom) 2018/1046 du Parlement européen et du Conseil (1) (ci-après le «règlement financier»); |\n| --- | --- |\n\n| 6) | «procédure de mise en concurrence» : une procédure par laquelle les producteurs de produits à émissions de carbone faibles ou nulles qui ont introduit une demande d’aide au titre du Fonds pour l’innovation sont sélectionnés sur la base de l’offre la plus compétitive, conformément à l’article 13 *quinquies* du présent règlement; |\n| --- | --- |\n\n| 7) | «exigence de qualification» : une condition que doit remplir un soumissionnaire dans le cadre d’une procédure de mise en concurrence pour que son offre soit classée; |\n| --- | --- |\n\n| 8) | «critère de classement» : le critère utilisé dans les procédures de mise en concurrence pour classer les propositions qui satisfont aux exigences de qualification. Le critère de classement est toujours l’offre de prix, mise en relation directe avec le produit ou l’objectif faisant l’objet de la procédure de mise en concurrence, mais peut exceptionnellement être complété par d’autres critères de classement; |\n| --- | --- |\n\n| 9) | «conception de la procédure de mise en concurrence» : la description des principaux paramètres économiques d’une procédure de mise en concurrence qui influent directement sur la structure incitative et sur la stratégie d’offre des auteurs de projets; |\n| --- | --- |\n\n| 10) | «prix de clôture» : le prix de l’offre marginale qui satisfait aux exigences de qualification applicables dans le cadre d’une procédure de mise en concurrence. |\n| --- | --- |",
+      "text_sha256": "942c6039b5475f074c2ff1d69044e5268a2a70c164f9e14f230ac0ef23b6adb3",
+      "md_span": {
+        "start": 1513,
+        "end": 4169
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: INSERTED"
+        },
+        {
+          "href": "#E0001",
+          "text": "1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Objectifs opérationnels",
+      "path": [
+        "CHAPITRE I — Dispositions générales"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le Fonds pour l'innovation poursuit les objectifs opérationnels suivants:\n\na) soutenir des projets de démonstration portant sur des technologies, procédés ou produits hautement innovants qui sont suffisamment aboutis et offrent un potentiel important de réduction des émissions de gaz à effet de serre;\n\na bis) soutenir des projets qui sont suffisamment aboutis, offrent un potentiel important de réduction des émissions de gaz à effet de serre et visent à déployer à grande échelle des technologies, procédés ou produits innovants de manière à assurer leur large déploiement commercial sur l’ensemble du territoire de l’Union;\n\nb) proposer un soutien financier qui soit adapté aux besoins du marché et aux profils de risque des projets éligibles, tout en mobilisant des ressources publiques et privées supplémentaires;\n\nc) faire en sorte que les recettes qui lui sont affectées soient gérées conformément aux objectifs de la directive 2003/87/CE.",
+      "text_sha256": "98e6d33aca0248a1e577c5066a87c7157577352ac9dea98d19308650415a72b3",
+      "md_span": {
+        "start": 4232,
+        "end": 5179
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Formes sous lesquelles se présente l'aide au titre du Fonds pour l'innovation",
+      "path": [
+        "CHAPITRE I — Dispositions générales"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’aide accordée au titre du Fonds pour l’innovation peut se présenter sous les formes suivantes:\n\na) subventions;\n\nb) contributions à des opérations de financement mixte dans le cadre de l'instrument de soutien des investissements de l'Union;\n\nc) lorsque la réalisation des objectifs de la directive 2003/87/CE l’exige, toute autre forme de financement prévue par le règlement financier, notamment les prix et les marchés.",
+      "text_sha256": "e58a380d11d7ac9e61acf7c42cd90a6c64580160e54dbea64d7e4fe3a5b63a84",
+      "md_span": {
+        "start": 5296,
+        "end": 5718
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Coûts pertinents",
+      "path": [
+        "CHAPITRE II — Dispositions spécifiques applicables aux subventions qui ne sont pas attribuées en vertu des chapitres II bis, II ter ou II quater"
+      ],
+      "article_valid_from": null,
+      "text_md": "Aux fins de la cinquième phrase de l’article 10 *bis*, paragraphe 8, seizième alinéa, de la directive 2003/87/CE, les coûts pertinents s’entendent comme les surcoûts nets qui sont supportés par l’auteur du projet du fait de l’application de la technologie innovante permettant d’éviter ou de réduire les émissions de gaz à effet de serre.\n\nLes surcoûts nets sont calculés comme la différence entre i) la meilleure estimation des coûts économiques (couvrant l’investissement et l’exploitation) et des revenus économiques et avantages opérationnels et ii) la meilleure estimation des coûts et revenus économiques et des avantages opérationnels d’un projet utilisant une technologie conventionnelle ayant la même capacité en termes de production effective du produit final analogue.\n\nLa Commission peut également décider que les coûts pertinents sont les surcoûts nets calculés comme la différence entre la meilleure estimation i) des coûts économiques (couvrant l’investissement et l’exploitation) et ii) des revenus économiques et avantages opérationnels.",
+      "text_sha256": "87e9a6fcc3f12c791ed42c6a7ff70895038e85165620d7d2a08a428a553fb050",
+      "md_span": {
+        "start": 5923,
+        "end": 6977
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Versement des subventions",
+      "path": [
+        "CHAPITRE II — Dispositions spécifiques applicables aux subventions qui ne sont pas attribuées en vertu des chapitres II bis, II ter ou II quater"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les subventions sont versées lors du franchissement des étapes prédéterminées.\n\n**2.** Pour tous les projets, les étapes visées au paragraphe 1 sont fondées sur le cycle de développement du projet et comprennent au minimum:a) le bouclage du montage financier;b) la mise en exploitation.\n\n**3.** Compte tenu de la technologie déployée et des particularités du ou des secteurs concernés, des étapes spécifiques supplémentaires peuvent être définies dans les documents contractuels.\n\n**4.** Jusqu’à 40 % du montant total de la subvention accordée à un projet spécifique sont versés au moment du bouclage du montage financier ou lors du franchissement d’une étape spécifique précédant celui-ci, lorsqu’une telle étape a été définie conformément au paragraphe 3.\n\n**5.** Le solde du montant total de la subvention est versé après le bouclage du montage financier. Il peut être versé en partie avant la mise en exploitation, puis en tranches annuelles après la mise en exploitation.",
+      "text_sha256": "c6376e8eeb10d7308d83b8d450967d9e37fea0a9ef3efbc78af148cd5bad3fcf",
+      "md_span": {
+        "start": 7042,
+        "end": 8025
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: DELETED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Règles générales en matière de recouvrement",
+      "path": [
+        "CHAPITRE II — Dispositions spécifiques applicables aux subventions qui ne sont pas attribuées en vertu des chapitres II bis, II ter ou II quater"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** La Commission prend les mesures appropriées pour garantir la protection des intérêts financiers du Fonds pour l'innovation lors de la mise en œuvre d'actions financées au titre du présent règlement, par l'application de mesures préventives contre la fraude, la corruption et toute autre activité illégale, par des contrôles efficaces et, si des irrégularités sont décelées, par le recouvrement des montants indûment versés et, s'il y a lieu, par des sanctions administratives et financières effectives, proportionnées et dissuasives.\n\n**2.** Les recouvrements sont effectués conformément au règlement financier.\n\n**3.** Les motifs et les procédures de recouvrement sont précisés dans les documents contractuels.",
+      "text_sha256": "6a841898b74b5ea693d947d8859965837ee776405a72ee6c40ff3b441d0f9b10",
+      "md_span": {
+        "start": 8108,
+        "end": 8826
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Règles particulières en matière de recouvrement",
+      "path": [
+        "CHAPITRE II — Dispositions spécifiques applicables aux subventions qui ne sont pas attribuées en vertu des chapitres II bis, II ter ou II quater"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Le montant de l'aide au titre du Fonds pour l'innovation versé après le bouclage du montage financier conformément à l'article 6, paragraphe 5, dépend des émissions de gaz à effet de serre effectivement évitées, vérifiées sur la base des rapports annuels soumis par l'auteur du projet pour une période de trois à dix ans suivant la mise en exploitation. Le rapport annuel final soumis par l'auteur du projet inclut la quantité totale d'émissions de gaz à effet de serre évitées durant l'ensemble de la période de référence.\n\n**2.** Si la quantité totale d'émissions de gaz à effet de serre évitées durant l'ensemble de la période de référence est inférieure à 75 % de la quantité totale d'émissions de gaz à effet de serre qu'il était prévu d'éviter, le montant versé ou à verser à l'auteur du projet conformément à l'article 6, paragraphe 5, est recouvré ou réduit en proportion.\n\n**3.** Si le projet n'est pas mis en exploitation à l'échéance prédéterminée ou si l'auteur du projet ne démontre pas que des émissions de gaz à effet de serre sont effectivement évitées, le montant versé après le bouclage du montage financier conformément à l'article 6, paragraphe 5, est intégralement recouvré.\n\n**4.** Si les situations visées aux paragraphes 2 et 3 sont imputables à des circonstances exceptionnelles échappant au contrôle de l'auteur du projet et que ce dernier démontre la capacité du projet à éviter une quantité d'émissions de gaz à effet de serre supérieure à la quantité notifiée, ou si l'auteur du projet démontre que le projet peut apporter des avantages importants sur le plan de l'innovation à faible intensité de carbone, la Commission peut décider de ne pas appliquer les mécanismes de recouvrement prévus aux paragraphes 2 et 3.\n\n**5.** Les motifs et les procédures de recouvrement sont précisés dans les documents contractuels.\n\n**6.** Les règles énoncées aux paragraphes 3 et 4 du présent article sont sans préjudice des règles générales en matière de recouvrement prévues à l'article 7.",
+      "text_sha256": "c901060fc2fc51cbe2582d922cc6f0f2723d0c253f6596ac61be14c8197437da",
+      "md_span": {
+        "start": 8913,
+        "end": 10925
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Appels à propositions",
+      "path": [
+        "CHAPITRE II — Dispositions spécifiques applicables aux subventions qui ne sont pas attribuées en vertu des chapitres II bis, II ter ou II quater"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les auteurs de projets sont invités à présenter leur demande de subvention au moyen des appels à propositions ouverts lancés par la Commission. Avant d’adopter une décision de lancement d’un appel de propositions, la Commission consulte les États membres sur le projet de décision.\n\n**2.** La décision de la Commission relative au lancement des appels à propositions comprend au moins les éléments suivants:a) le montant global de l'aide au titre du Fonds pour l'innovation disponible pour l'appel en question;▼M2 —————▼Bc) les types de projets ou secteurs sollicités;▼M2d) une description de la procédure de demande, précisant si une procédure en une ou deux étapes s’applique et quels informations et documents sont à joindre à la demande;▼Be) des informations détaillées concernant la procédure de sélection, et notamment la méthode d'évaluation et de classement;▼M1f) lorsque des projets à petite échelle font l’objet d’une procédure de demande simplifiée conformément à l’article 10, paragraphe 4, et d’une procédure de sélection spécifique conformément à l’article 12 *ter*, les règles régissant ces procédures spécifiques;▼M2g) si la Commission réserve pour des projets à petite ou moyenne échelle une partie du montant total de l’aide au titre du Fonds pour l’innovation disponible pour l’appel à propositions concerné, le montant que représente cette partie de l’aide;h) l’application éventuelle de critères d’attribution complémentaires conformément à l’article 11, paragraphes 2 et 3.▼B",
+      "text_sha256": "df60ae2232311c2c6fc89b8458fe80cb4ec84c0b8151a68a2c0d55aba437dc5f",
+      "md_span": {
+        "start": 10986,
+        "end": 12490
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "▼M2"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "▼B"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R1204",
+          "text": "▼M1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Procédure de demande",
+      "path": [
+        "CHAPITRE II — Dispositions spécifiques applicables aux subventions qui ne sont pas attribuées en vertu des chapitres II bis, II ter ou II quater"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** L’organe d’exécution réceptionne les demandes et organise la procédure de demande telle que déterminée conformément à l’article 9, paragraphe 2, point d).\n\n**2.** Si la procédure de demande en deux étapes est utilisée, celle-ci comprend les étapes consécutives suivantes:a) la manifestation d’intérêt;b) la demande complète.À l’étape de la manifestation d’intérêt, l’auteur du projet soumet une description des principales caractéristiques du projet conformément aux exigences énoncées dans l’appel à propositions concerné. Cette description comprend une description de l’efficacité, du degré d’innovation et du degré de maturité du projet tels que spécifiés à l’article 11, paragraphe 1, points a), b) et c).À l’étape de la demande complète, l’auteur du projet soumet une description détaillée du projet, accompagnée de toutes les pièces justificatives, y compris les plans de partage des connaissances, de communication et de diffusion.\n\n**3.** Lorsque la procédure de demande en une étape s’applique, l’auteur du projet soumet une demande complète comme décrit au paragraphe 2, troisième alinéa.\n\n**4.** Une procédure de demande simplifiée peut être appliquée pour les projets à petite échelle.",
+      "text_sha256": "04b73a954c93452e0a92b675876db946edaba0e0b3880c24f3d048e6eaf0f0c2",
+      "md_span": {
+        "start": 12552,
+        "end": 13756
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R1204",
+          "text": "32021R1204: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Critères d’attribution",
+      "path": [
+        "CHAPITRE II — Dispositions spécifiques applicables aux subventions qui ne sont pas attribuées en vertu des chapitres II bis, II ter ou II quater"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les subventions sont attribuées selon les critères suivants:a) l’efficacité des projets proposés en termes de potentiel de prévention des émissions de gaz à effet de serre et de réduction de l’incidence globale sur le climat au regard, le cas échéant, des référentiels visés à l’article 10 *bis*, paragraphe 2, de la directive 2003/87/CE;b) le degré d’innovation des projets proposés par rapport à l’état de la technique;c) le degré de maturité des projets en termes de planification, de modèle commercial, de structure financière et juridique et de probabilité que le montage financier soit bouclé dans un délai prédéterminé ne dépassant pas quatre ans à compter de la décision d’attribution;d) le potentiel technique et commercial des projets proposés en termes d’application généralisée ou de reproduction, ou de réductions futures des coûts, et leur potentiel en termes de réponse à de multiples incidences environnementales et de contribution aux objectifs de l’Union en matière de pollution zéro et de circularité;e) l’efficacité en termes de montant de la subvention demandée au titre du Fonds pour l’innovation cumulé avec toute autre aide publique faisant partie du modèle financier du projet, divisé par la quantité totale d’émissions de gaz à effet de serre qu’il est prévu d’éviter au cours des 10 premières années d’exploitation.\n\n**2.** Des critères d’attribution complémentaires visant à garantir une répartition géographiquement équilibrée de l’aide du Fonds pour l’innovation peuvent également être inclus dans l’appel à propositions aux fins de l’attribution des subventions aux projets sélectionnés.\n\n**3.** Lorsque la Commission lance un appel à propositions sectoriel ou prévoit un thème sectoriel dans le cadre d’un appel à propositions, des critères ou exigences d’attribution complémentaires peuvent être inclus dans les documents de l’appel à propositions afin d’évaluer la contribution potentielle des projets proposés aux objectifs et aux priorités du pacte vert pour l’Europe. Ces critères ou exigences d’attribution complémentaires peuvent inclure la contribution potentielle des projets proposés à l’accès de l’Union à un approvisionnement sûr et durable en technologies «zéro net» nécessaires pour préserver la résilience du système énergétique de l’Union et contribuer à la création d’emplois de qualité.",
+      "text_sha256": "0d40e07139d1725a867925a270047e4ef8ec27f98324f6a54a3cb0143ad81c66",
+      "md_span": {
+        "start": 13820,
+        "end": 16163
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Procédure de sélection relative à la procédure de demande en deux étapes",
+      "path": [
+        "CHAPITRE II — Dispositions spécifiques applicables aux subventions qui ne sont pas attribuées en vertu des chapitres II bis, II ter ou II quater"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Sur la base des demandes reçues à l’étape de la manifestation d’intérêt, l’organe d’exécution évalue l’éligibilité de chaque projet proposé conformément à l’article 10 *bis*, paragraphe 8, de la directive 2003/87/CE. L’organe d’exécution sélectionne ensuite les projets éligibles conformément à la procédure énoncée aux paragraphes 2 et 3 du présent article.\n\n**2.** Sur la base des demandes reçues à l’étape de la manifestation d’intérêt, l’organe d’exécution dresse la liste des projets qui remplissent les critères d’attribution établis à l’article 11, paragraphe 1, points a), b) et c), et invite les auteurs de ces projets à soumettre une demande complète.\n\n**3.** Sur la base de la demande complète reçue conformément au paragraphe 2, l’organe d’exécution procède à l’évaluation et au classement des projets au regard de l’ensemble des critères d’attribution établis à l’article 11. Les demandes sont examinées par un comité d’évaluation, qui peut être composé entièrement ou partiellement d’experts externes indépendants. À l’issue de l’évaluation, l’organe d’exécution dresse une liste des projets présélectionnés.\n\n**4.** La liste des projets présélectionnés visée au paragraphe 3 est communiquée à la Commission et comprend au moins les éléments suivants:a) une confirmation de la conformité aux critères d’éligibilité et d’attribution;b) des informations détaillées concernant l’évaluation et le classement des projets;c) le coût total des projets et les coûts pertinents visés à l’article 5, en euros;d) le montant de la subvention demandée, en euros;e) la quantité d’émissions de gaz à effet de serre qu’il est prévu d’éviter.\n\n**5.** Sur la base des informations communiquées en application du paragraphe 4, la Commission, après avoir consulté les États membres conformément à l’article 21, paragraphe 2, adopte la décision d’attribution précisant l’aide à attribuer aux projets sélectionnés et, le cas échéant, établit une liste de réserve.\n\n**6.** L’organe d’exécution transmet à la Commission les demandes qui satisfont aux critères énoncés à l’article 11, paragraphe 1, points a) et b), mais qui n’ont pas été présélectionnées. Si les demandeurs y consentent, la Commission peut transférer ces demandes à l’entité chargée d’octroyer l’assistance au développement de projets conformément à l’article 13.",
+      "text_sha256": "6f32c0d9c5b37a0a73da54f9b8a78504d611748dc41141a2c9378f1a8910a1a9",
+      "md_span": {
+        "start": 16277,
+        "end": 18604
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R1204",
+          "text": "32021R1204: DELETED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12a",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_12a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12 bis",
+      "heading": "Procédure de sélection relative à la procédure de demande en une étape",
+      "path": [
+        "CHAPITRE II — Dispositions spécifiques applicables aux subventions qui ne sont pas attribuées en vertu des chapitres II bis, II ter ou II quater"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Sur la base des demandes reçues, l’organe d’exécution évalue l’éligibilité de chaque projet conformément à l’article 10 *bis*, paragraphe 8, de la directive 2003/87/CE. L’organe d’exécution procède ensuite à la sélection des projets éligibles conformément aux paragraphes 2 et 3 du présent article.\n\n**2.** Sur la base des demandes reçues, l’organe d’exécution établit une liste des projets qui satisfont aux critères d’attribution établis à l’article 11 et procède à l’évaluation et au classement des projets sur la base des critères d’attribution établis audit article. Les demandes sont examinées par un comité d’évaluation, qui peut être composé entièrement ou partiellement d’experts externes indépendants. À l’issue de l’évaluation, l’organe d’exécution dresse une liste des projets présélectionnés.\n\n**3.** L’organe d’exécution transmet à la Commission les demandes qui satisfont aux critères énoncés à l’article 11, paragraphe 1, points a) et b), mais qui n’ont pas été présélectionnées. Si les demandeurs y consentent, la Commission peut transférer ces demandes à l’entité chargée d’octroyer l’assistance au développement de projets conformément à l’article 13.\n\n**4.** La liste des projets présélectionnés visée au paragraphe 2 est communiquée à la Commission et comprend au moins les éléments suivants:a) une confirmation de la conformité aux critères d’éligibilité et d’attribution;b) des informations détaillées concernant l’évaluation et le classement des projets;c) le coût total des projets et les coûts pertinents visés à l’article 5, en euros;d) le montant de la subvention demandée, en euros;e) la quantité d’émissions de gaz à effet de serre qu’il est prévu d’éviter.\n\n**5.** Sur la base des informations communiquées en application du paragraphe 4 du présent article, la Commission, après avoir consulté les États membres conformément à l’article 21, paragraphe 2, adopte la décision d’attribution précisant l’aide octroyée aux projets sélectionnés et, le cas échéant, établit une liste de réserve.",
+      "text_sha256": "bf908e7a8db4bf85a57c0e72a4407a090628ed1b9e6c6d7860a2d3a61fe654cb",
+      "md_span": {
+        "start": 18721,
+        "end": 20747
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R1204",
+          "text": "32021R1204: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_12b",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_12b",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12 ter",
+      "heading": "Procédure de sélection pour les projets à petite échelle",
+      "path": [
+        "CHAPITRE II — Dispositions spécifiques applicables aux subventions qui ne sont pas attribuées en vertu des chapitres II bis, II ter ou II quater"
+      ],
+      "article_valid_from": null,
+      "text_md": "Par dérogation aux articles 12 et 12 *bis*, une procédure de sélection spécifique peut être appliquée aux projets à petite échelle.",
+      "text_sha256": "bc627f99e537266c6e49ec18b076ab7494a3631fb03ab959714a63cd03db97cb",
+      "md_span": {
+        "start": 20850,
+        "end": 20981
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Assistance au développement de projets",
+      "path": [
+        "CHAPITRE II bis — Assistance au développement de projets"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** La Commission, après avoir consulté les États membres conformément à l’article 21, paragraphe 2, point c), détermine le montant maximal de l’aide au titre du Fonds pour l’innovation disponible aux fins de l’assistance au développement de projets.\n\n**2.** La Commission peut octroyer une assistance au développement de projets sous la forme d’une assistance technique à tout projet relevant du champ d’application du Fonds pour l’innovation, comme précisé à l’article 10 *bis*, paragraphe 8, premier et sixième alinéas, de la directive 2003/87/CE.\n\n**3.** Les activités pouvant bénéficier d’un financement au titre de l’assistance au développement de projets sont les suivantes:a) l’amélioration et l’élaboration de documents relatifs à un projet ou d’éléments de la conception d’un projet, en vue de permettre à celui-ci de parvenir à un degré de maturité suffisant;b) l’évaluation de la faisabilité du projet, y compris les études techniques et économiques;c) la fourniture de conseils relatifs à la structure financière et juridique du projet;d) le renforcement des capacités de l’auteur du projet.\n\n**4.** Si l’assistance au développement de projets est mise en œuvre en gestion indirecte, l’entité chargée de l’exécution mène la procédure de sélection et prend la décision d’octroyer l’assistance au développement de projets après consultation de la Commission. Les critères d’attribution tiennent compte du degré d’innovation par rapport à l’état de la technique, du potentiel de réduction significative des incidences sur le climat et de soutien à une application généralisée, du degré de maturité ainsi que de l’équilibre géographique et sectoriel par rapport au portefeuille de projets financés.",
+      "text_sha256": "2fa8d9398bc769d74dc91b8980a1e0c8ac811b3d09362276fc88c38dea90b47b",
+      "md_span": {
+        "start": 21122,
+        "end": 22832
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13a",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_13a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13 bis",
+      "heading": "Conception et principes de la procédure de mise en concurrence",
+      "path": [
+        "CHAPITRE II ter — Dispositions spécifiques applicables aux procédures de mise en concurrence"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** La Commission élabore la conception de la procédure de mise en concurrence conformément aux principes d’ouverture, de clarté, de transparence et de non-discrimination.\n\n**2.** Les procédures de mise en concurrence sont conçues de manière à réduire au minimum le risque d’offres spéculatives.\n\n**3.** Toutes les procédures de mise en concurrence sont dotées d’un budget ou d’un volume maximal qui est contraignant. Les procédures de mise en concurrence qui ont fait l’objet d’une souscription insuffisante sont adaptées pour rétablir une concurrence effective lors des procédures de mise en concurrence ultérieures.\n\n**4.** La conception de la procédure de mise en concurrence est publiée suffisamment longtemps avant l’appel à propositions pour permettre une concurrence effective.",
+      "text_sha256": "d468d0522105ce48728fd357434dacf3bfece20cd5260c6b129e4324a3c983c7",
+      "md_span": {
+        "start": 23038,
+        "end": 23826
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13b",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_13b",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13 ter",
+      "heading": "Appels à propositions",
+      "path": [
+        "CHAPITRE II ter — Dispositions spécifiques applicables aux procédures de mise en concurrence"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les auteurs de projets sont invités à présenter leur demande de participation à une procédure de mise en concurrence au moyen des appels à propositions ouverts lancés par la Commission.\n\n**2.** Avant d’adopter une décision de lancement d’un appel de propositions, la Commission consulte les États membres sur le projet de décision.\n\n**3.** La décision de lancement de l’appel à propositions adoptée par la Commission expose clairement les éléments suivants:a) les objectifs d’action poursuivis par l’appel à propositions;b) la définition et les exigences précises relatives au produit à émissions de carbone faibles ou nulles pour lequel une aide peut être attribuée;c) le budget fourni par le Fonds pour l’innovation;d) l’application éventuelle d’un prix ou d’un volume maximal par offre;e) l’application éventuelle de restrictions en matière de cumul ou de combinaison de l’aide attribuée dans le cadre d’une procédure de mise en concurrence avec des mesures d’aide de l’Union ou des mesures d’aide nationales;f) l’application éventuelle de critères autres que le prix pour classer les propositions;g) la durée maximale de l’aide attribuée dans le cadre de la procédure de mise en concurrence;h) une description des procédures de demande et de sélection.",
+      "text_sha256": "7889c6e98b1d5e2e2d3623773e8f0280cbdff90e1ed9e70948e476d4af97f403",
+      "md_span": {
+        "start": 23894,
+        "end": 25157
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13c",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_13c",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13 quater",
+      "heading": "Exigences de qualification",
+      "path": [
+        "CHAPITRE II ter — Dispositions spécifiques applicables aux procédures de mise en concurrence"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Seules les propositions qui satisfont aux exigences de qualification sont prises en considération aux fins de la procédure de classement établie à l’article 13 *quinquies*.\n\n**2.** Les exigences de qualification visent à garantir que les auteurs de projets participant à la procédure de mise en concurrence sont en mesure de mener à bien le projet proposé conformément à la conception de la procédure de mise en concurrence, aux conditions de l’appel à propositions et aux objectifs énoncés à l’article 3, et dans le respect du droit de l’Union.\n\n**3.** Les exigences de qualification sont limitées à ce qui est nécessaire pour atteindre les objectifs de la procédure de mise en concurrence et pour garantir le plus haut degré de concurrence et de qualité des propositions soumises.\n\n**4.** Les exigences de qualification peuvent être des critères d’éligibilité, de sélection et d’attribution au sens du règlement financier.",
+      "text_sha256": "89f24eaf7c9435511cb476932e2cde1001a9025860ccf86a72217090a7d83ed1",
+      "md_span": {
+        "start": 25233,
+        "end": 26164
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13d",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_13d",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13 quinquies",
+      "heading": "Procédure de classement",
+      "path": [
+        "CHAPITRE II ter — Dispositions spécifiques applicables aux procédures de mise en concurrence"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les propositions qui satisfont aux exigences de qualification sont classées de l’offre de prix la plus basse à l’offre de prix la plus élevée, sauf si des critères complémentaires sont appliqués en vertu du paragraphe 2.\n\n**2.** La Commission peut décider, à titre exceptionnel, d’utiliser des critères complémentaires pour classer les propositions, à condition que l’offre de prix, mise en relation directe avec le produit ou l’objectif faisant l’objet de la procédure de mise en concurrence, représente au moins 70 % de la pondération des critères de classement. L’utilisation de critères complémentaires est clairement précisée dans l’appel à propositions et est justifiée par la nature du produit mis aux enchères et les objectifs de l’appel à propositions.\n\n**3.** L’organe d’exécution établit la liste des propositions présélectionnées et la communique à la Commission. La liste contient:a) une confirmation du respect des exigences de qualification;b) des précisions sur le classement;c) le montant de l’aide demandée;d) le volume prévu du produit mis aux enchères.\n\n**4.** À la demande de la Commission, l’organe d’exécution communique également le classement des propositions qui répondent aux exigences de qualification mais dont le prix est supérieur au prix de clôture.\n\n**5.** Sur la base des informations communiquées en application du paragraphe 3, la Commission, après avoir consulté les États membres conformément à l’article 21, paragraphe 2, adopte la décision d’attribution précisant l’aide à accorder aux propositions sélectionnées et, le cas échéant, établit une liste de réserve.",
+      "text_sha256": "b888bd17fe09bfe03a5bc659a78ea78c2861be73fc7735df41acb87a2e567271",
+      "md_span": {
+        "start": 26240,
+        "end": 27849
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13e",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_13e",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13 sexies",
+      "heading": "Cumul",
+      "path": [
+        "CHAPITRE II ter — Dispositions spécifiques applicables aux procédures de mise en concurrence"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Pour chaque procédure de mise en concurrence, la Commission peut décider de limiter la possibilité pour un auteur de projet de cumuler l’aide attribuée dans le cadre d’une procédure de mise en concurrence avec un financement de l’Union ou une aide publique nationale.\n\n**2.** Toute restriction adoptée en vertu du paragraphe 1 est limitée à ce qui est nécessaire pour garantir l’égalité des conditions de concurrence et atteindre les objectifs de la procédure de mise en concurrence.\n\n**3.** La portée et la justification des restrictions visées au paragraphe 1 sont clairement exposées dans le projet de décision soumis aux États membres conformément à l’article 13 *ter*, paragraphe 2, ainsi que dans la publication des éléments de conception de la procédure de mise en concurrence visés à l’article 13 *bis*, paragraphe 4.",
+      "text_sha256": "7a0884323af88f49be203a2e17b9f5dd48d8e21eac9af4decdb20d2a1080710e",
+      "md_span": {
+        "start": 27904,
+        "end": 28736
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13f",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_13f",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13 septies",
+      "heading": "Dépôts",
+      "path": [
+        "CHAPITRE II ter — Dispositions spécifiques applicables aux procédures de mise en concurrence"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** La Commission peut demander la constitution de dépôts, conformément à l’article 10 *bis*, paragraphe 8 *bis*, de la directive 2003/87/CE, sous la forme d’une garantie financière, afin d’atténuer le risque d’offres spéculatives ou d’inciter les auteurs de projets à réaliser le projet proposé à temps et conformément à leur proposition.\n\n**2.** Les dépôts conservés reviennent au Fonds pour l’innovation à titre de recettes affectées externes conformément à l’article 21, paragraphe 5, du règlement financier.",
+      "text_sha256": "1f3def6858c837395ef2b7aaa648d432fce2c85d93d3552bed972f54214349cc",
+      "md_span": {
+        "start": 28793,
+        "end": 29308
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13g",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_13g",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13 octies",
+      "heading": "Assistance technique fournie aux États membres enregistrant un faible niveau de participation effective",
+      "path": [
+        "CHAPITRE II quater — Dispositions spécifiques applicables à l’assistance technique fournie aux États membres enregistrant un faible niveau de participation effective"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les États membres affichant le ratio le plus faible sur la base de l’aide reçue au titre du Fonds pour l’innovation par des projets menés sur leur territoire par rapport à leur part des émissions vérifiées du SEQE de l’UE pour la période 2013-2020 peuvent bénéficier d’une assistance technique fournie par la Commission conformément à l’article 10 *bis*, paragraphe 8, quatorzième alinéa, de la directive 2003/87/CE.\n\n**2.** Le montant maximal de l’aide du Fonds pour l’innovation disponible aux fins de l’assistance technique ainsi que la liste des États membres pouvant bénéficier d’une assistance technique sont déterminés par la Commission après consultation des États membres conformément à l’article 21, paragraphe 2, point d). La liste des États membres éligibles est ensuite mise à jour au moins une fois tous les deux ans.",
+      "text_sha256": "b1941a0dd24b160eb1adde3492bfd27068a8dbb1d9d85a2c9a18e9b1608bc471",
+      "md_span": {
+        "start": 29631,
+        "end": 30469
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Aides au titre du Fonds pour l'innovation octroyées sous la forme de contributions à des opérations de financement mixte dans le cadre de l'instrument de soutien des investissements de l'Union",
+      "path": [
+        "CHAPITRE III — Dispositions spécifiques applicables aux autres formes d’aide du Fonds pour l’innovation"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Lorsque la Commission décide de verser l'aide au titre du Fonds pour l'innovation sous la forme de contributions à des opérations de financement mixte dans le cadre de l'instrument de soutien des investissements de l'Union, cette aide est mise en œuvre conformément aux règles applicables audit instrument. Toutefois, l'éligibilité des projets est évaluée conformément à l'article 10 *bis*, paragraphe 8, de la directive 2003/87/CE.\n\n**2.** Après avoir consulté les États membres, la Commission adopte une décision spécifiant si la contribution à des opérations de financement mixte se présente sous la forme d'une aide non remboursable, d'une aide remboursable ou des deux, et indiquant le montant de l'aide au titre du Fonds pour l'innovation pouvant être versée par l'intermédiaire de l'instrument de soutien des investissements de l'Union.",
+      "text_sha256": "b849dac7b82a7ecbc7acc6a8eda00fa0b4f12b93bf338deb303fb79f5c69e112",
+      "md_span": {
+        "start": 30811,
+        "end": 31661
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Aide au titre du Fonds pour l'innovation octroyée sous toute autre forme prévue dans le règlement financier",
+      "path": [
+        "CHAPITRE III — Dispositions spécifiques applicables aux autres formes d’aide du Fonds pour l’innovation"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Lorsque la Commission décide de verser l'aide au titre du Fonds pour l'innovation sous une des formes prévues dans le règlement financier, autres que les subventions, la Commission, après avoir consulté les États membres, adopte une décision indiquant le montant de l'aide au titre du Fonds pour l'innovation pouvant être versée sous cette forme, ainsi que les règles régissant les demandes concernant ce type d'aide, la sélection des projets et le versement de l'aide.\n\n**2.** Les projets bénéficiant d'une aide au titre du Fonds pour l'innovation en vertu du présent article respectent les règles de l'Union en matière d'aides d'État.",
+      "text_sha256": "fbaac5b25d1a6e42c0d59b9f4f48a7db1b933c104d33a546a9b5fab24773af4f",
+      "md_span": {
+        "start": 31810,
+        "end": 32453
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Mise en œuvre du Fonds pour l'innovation",
+      "path": [
+        "CHAPITRE IV — Gouvernance"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Le Fonds pour l'innovation est mis en œuvre dans le cadre d'une gestion directe par la Commission, conformément aux articles 125 à 153 du règlement financier, ou dans le cadre d'une gestion indirecte par les organismes visés à l'article 62, paragraphe 1, point c), du règlement financier.\n\n**2.** Les coûts liés aux activités de mise en œuvre du Fonds pour l'innovation, y compris les frais administratifs et de gestion, sont financés par le Fonds lui-même.",
+      "text_sha256": "04a30ba2d45a77209cfe10a570d413ed943f23a669e6920c05c976fd05c2a1b9",
+      "md_span": {
+        "start": 32565,
+        "end": 33029
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Désignation des organes d'exécution",
+      "path": [
+        "CHAPITRE IV — Gouvernance"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Si la Commission décide de déléguer certaines tâches liées à la mise en œuvre du Fonds pour l'innovation à un organe d'exécution, elle adopte une décision portant désignation de cet organe.\n\nLa Commission et l'organe d'exécution désigné concluent un accord précisant les modalités selon lesquelles l'organe d'exécution accomplit ses tâches.\n\n**2.** Si la Commission met en œuvre le Fonds pour l'innovation dans le cadre d'une gestion directe et décide de déléguer certaines tâches liées à sa mise en œuvre à un organe d'exécution, elle désigne une agence exécutive en tant qu'organe d'exécution.\n\n**3.** Si la Commission met en œuvre le Fonds pour l'innovation dans le cadre d'une gestion indirecte, elle désigne en tant qu'organe d'exécution un organisme visé à l'article 62, paragraphe 1, point c), du règlement financier.\n\n**4.** Les tâches liées à la mise en œuvre du Fonds pour l'innovation qui ne sont pas déléguées à un organe d'exécution sont accomplies par la Commission.",
+      "text_sha256": "7d03aea1bd8028f410e397d1a095f94de6415aa9c6fdf2c498aebd4e6f3e8901",
+      "md_span": {
+        "start": 33106,
+        "end": 34093
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Tâches de l'organe d'exécution",
+      "path": [
+        "CHAPITRE IV — Gouvernance"
+      ],
+      "article_valid_from": null,
+      "text_md": "►M2 L’organe d’exécution désigné conformément à l’article 17, paragraphe 1, du présent règlement aux fins de la mise en œuvre du Fonds pour l’innovation conformément à l’article 17, paragraphe 2, peut être chargé d’assurer la gestion globale des appels à propositions, le versement de l’aide du Fonds pour l’innovation, ainsi que le suivi de la mise en œuvre des projets sélectionnés.** ◄ ** À cette fin, l'organe d'exécution peut se voir confier les tâches suivantes:\n\na) organiser l'appel à propositions;\n\nb) organiser la procédure de demande, et notamment réceptionner les demandes et analyser tous les documents justificatifs;\n\nc) organiser la procédure de sélection, y compris l’évaluation et le classement des propositions;\n\nd) conseiller la Commission en ce qui concerne les projets auxquels il convient d'octroyer une aide au titre du Fonds pour l'innovation et ceux qu'il convient d'inscrire sur la liste de réserve;\n\ne) attribuer ou fournir une assistance au développement des projets;\n\nf) signer les conventions de subvention et les autres contrats, suivant la forme sous laquelle l'aide au titre du Fonds pour l'innovation est octroyée;\n\ng) préparer et gérer les documents contractuels relatifs aux projets retenus;\n\nh) vérifier si les conditions de financement sont remplies et verser les recettes du Fonds pour l'innovation aux auteurs de projets;\n\ni) assurer le suivi de la mise en œuvre des projets;\n\nj) communiquer avec les auteurs de projets;\n\nk) rendre compte à la Commission, notamment en ce qui concerne les orientations générales pour le développement futur du Fonds pour l'innovation;\n\nl) établir les rapports financiers;\n\nm) mener des activités d’information, de communication et de promotion, notamment la production du matériel promotionnel;\n\nn) gérer le partage des connaissances;\n\no) aider les États membres à promouvoir le Fonds pour l'innovation et à communiquer avec les auteurs de projets;\n\no bis) favoriser les synergies entre le Fonds pour l’innovation et d’autres programmes de financement de l’Union (y compris Horizon Europe);\n\np) accomplir toute autre tâche liée à la mise en œuvre du Fonds pour l'innovation.\n\nAprès la clôture de chaque appel à propositions organisé conformément aux articles 9 et 10, l’organe d’exécution communique aux États membres les informations relatives aux demandeurs et à leurs projets, leurs coordonnées, le montant de la subvention demandée, le potentiel de prévention des émissions de gaz à effet de serre et les dates envisagées pour le bouclage du montage financier et la mise en exploitation.\n\nAprès la clôture de chaque appel à propositions organisé conformément à l’article 13 *ter*, l’organe d’exécution communique aux États membres les informations relatives aux auteurs de projets et à leurs projets, leurs coordonnées, le montant de l’aide demandée au titre du Fonds pour l’innovation et, le cas échéant, les dates envisagées pour le bouclage du montage financier et la mise en exploitation.\n\nLa communication des informations visées aux deuxième et troisième alinéas s’effectue sous réserve du consentement des auteurs de projets et du respect de la législation de l’Union.",
+      "text_sha256": "fe25a6488b64a420ec1834d00a0839236f62c5e88c45f9ab56c87ac746ce10b3",
+      "md_span": {
+        "start": 34165,
+        "end": 37317
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "►M2"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Dispositions particulières applicables à la mise en œuvre du Fonds pour l'innovation en gestion directe",
+      "path": [
+        "CHAPITRE IV — Gouvernance"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Si la Commission désigne une agence exécutive en tant qu'organe d'exécution, conformément à l'article 17, paragraphe 1, du présent règlement, cette décision de la Commission est subordonnée au résultat de l'analyse coûts/avantages visée à l'article 3 du règlement (CE) no 58/2003 du Conseil (2), et l'accord visé à l'article 17, paragraphe 1, second alinéa, du présent règlement prend la forme d'un acte de délégation au sens du règlement précité.\n\n**2.** Lorsque les montants versés sont recouvrés en vertu des articles 7 et 8 du présent règlement, les montants ainsi recouvrés constituent des recettes affectées externes au sens de l’article 21 du règlement financier et sont utilisés pour financer le fonctionnement du Fonds pour l’innovation.\n\n**3.** Pour toutes les tâches de mise en œuvre menées par la Commission, y compris par l’intermédiaire d’une agence exécutive, les recettes du Fonds pour l’innovation constituent des recettes affectées externes au sens de l’article 21, paragraphes 1 et 5, du règlement financier. Les recettes du Fonds pour l’innovation couvrent tous les coûts administratifs et coûts de gestion liés à sa mise en œuvre. La Commission peut utiliser jusqu’à 5 % de l’enveloppe du Fonds pour l’innovation pour couvrir ses frais de gestion.\n\n**4.** Un projet ayant bénéficié d’une aide au titre du Fonds pour l’innovation peut aussi recevoir une contribution de tout autre programme de l’Union, y compris des fonds en gestion partagée, pour autant que ces contributions ne couvrent pas les mêmes coûts et qu’aucune restriction n’ait été établie conformément à l’article 13 *sexies*, paragraphe 1. Le financement cumulé ne dépasse pas le total des coûts éligibles du projet et le soutien au titre des différents programmes de l’Union peut être calculé au prorata.",
+      "text_sha256": "505abdc77944bba4700c6ff75529fabdccb76b71b83cf4cc3ad3fa1c669752c6",
+      "md_span": {
+        "start": 37462,
+        "end": 39259
+      },
+      "citations": [
+        {
+          "href": "#E0002",
+          "text": "2"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Gestion des recettes du Fonds pour l'innovation",
+      "path": [
+        "CHAPITRE IV — Gouvernance"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** La Commission veille à ce que les quotas destinés au Fonds pour l'innovation soient mis aux enchères conformément aux principes et aux modalités énoncés à l'article 10, paragraphe 4, de la directive 2003/87/CE et gère les recettes du Fonds pour l'innovation conformément aux objectifs de cette directive.\n\n**2.** La Commission veille à ce que les recettes visées au paragraphe 1 soient reversées à l'organe d'exécution en temps utile afin de permettre le financement des coûts liés aux activités de mise en œuvre et le versement des fonds aux projets retenus.\n\n**3.** La Commission peut déléguer la monétisation des quotas et la gestion des recettes du Fonds pour l'innovation à la Banque européenne d'investissement (BEI). En pareil cas, la Commission et la BEI concluent un accord précisant les modalités selon lesquelles la BEI accomplit ses tâches liées à la gestion des recettes du Fonds pour l'innovation.\n\n**4.** Sous réserve des dispositions de la directive 2003/87/CE, les recettes du Fonds pour l’innovation qui, à la fin de la période d’éligibilité, n’ont pas été utilisées pour les projets financés sont utilisées pour soutenir de nouveaux projets répondant aux critères d’éligibilité énoncés à l’article 10 *bis*, paragraphe 8, de ladite directive, jusqu’à ce que l’ensemble des recettes aient été redistribuées aux fins de la poursuite des objectifs du Fonds pour l’innovation.",
+      "text_sha256": "e5434ba40077ce31df3dc38803d1383d569f246137b949822c4106934312885b",
+      "md_span": {
+        "start": 39348,
+        "end": 40746
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Rôle des États membres",
+      "path": [
+        "CHAPITRE IV — Gouvernance"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Lors de la mise en œuvre du Fonds pour l'innovation, la Commission consulte et est assistée par les États membres.\n\n**2.** Les États membres sont consultés sur:▼M2a) la liste des propositions présélectionnées, y compris la liste de réserve, établie conformément aux articles 12, 12 *bis* et 13 *quinquies*;b) les projets des décisions de la Commission visées à l’article 9, paragraphe 1, à l’article 13 *ter*, à l’article 14, paragraphe 2, et à l’article 15, paragraphe 1;c) le montant maximal de l’aide du Fonds pour l’innovation qu’il est prévu de consacrer à l’assistance au développement de projets conformément à l’article 13;▼M2d) le montant maximal de l’aide du Fonds pour l’innovation qu’il est prévu de consacrer à l’assistance technique et la liste des États membres enregistrant un faible niveau de participation effective, conformément à l’article 13 *octies*.▼B\n\n**3.** Si la Commission leur en fait la demande, les États membres la conseillent et l'aident dans l'accomplissement des tâches suivantes:a) définir des orientations générales pour le Fonds pour l'innovation;b) faire face aux problèmes qui existent ou qui apparaissent en ce qui concerne la mise en œuvre des projets;c) traiter toute autre question liée à la mise en œuvre des projets.\n\n**4.** La Commission rend compte aux États membres des progrès réalisés dans la mise en œuvre du présent règlement, et notamment de la mise en œuvre des décisions d’attribution visées à l’article 12, paragraphe 5, ou à l’article 12 *bis*, paragraphe 5.",
+      "text_sha256": "36b86c4e8de2ecd16911f67042f19186cce519891eba3ecc544953de21ba62f4",
+      "md_span": {
+        "start": 40810,
+        "end": 42332
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "▼M2"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "▼B"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32021R1204",
+          "text": "32021R1204: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Rôle des parties prenantes",
+      "path": [
+        "CHAPITRE IV — Gouvernance"
+      ],
+      "article_valid_from": null,
+      "text_md": "La Commission peut associer les parties prenantes aux discussions relatives à la mise en œuvre du Fonds pour l'innovation, y compris en ce qui concerne les questions énumérées à l'article 21, paragraphe 3.",
+      "text_sha256": "086737236db5e1190fbe6724183b89ba9b2af4d724f61d5821b55a225a48aa98",
+      "md_span": {
+        "start": 42400,
+        "end": 42605
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Suivi et présentation de rapports",
+      "path": [
+        "CHAPITRE V — Suivi, présentation de rapports et évaluation"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** L'organe d'exécution assure le suivi du fonctionnement du Fonds pour l'innovation, y compris des montants de l'aide versée au titre de ce Fonds.\n\n**2.** Afin de faire en sorte que les données de surveillance visées au paragraphe 1 et les résultats soient recueillis en temps utile et de manière efficace et effective, des obligations proportionnées en matière de présentation de rapports peuvent être imposées aux auteurs de projets. Les rapports soumis par les auteurs de projets comprennent les informations concernant les actions de partage des connaissances entreprises conformément à l'article 27.\n\n**3.** L'organe d'exécution rend régulièrement compte à la Commission de l'accomplissement des tâches qui lui sont imparties.\n\n**4.** L'organe d'exécution rend compte à la Commission de l'ensemble du cycle de versement de l'aide, et en particulier de l'organisation des appels à propositions et de la signature des contrats avec les auteurs de projets.\n\n**7.** Les organes d'exécution autres que les agences exécutives, ainsi que les entités auxquelles la gestion des recettes du Fonds pour l'innovation a été déléguée conformément à l'article 20, paragraphe 3, soumettent à la Commission les documents suivants:a) au plus tard le 15 février, les états financiers non audités couvrant l'exercice précédent, qui commence le 1er janvier et s'achève le 31 décembre, concernant les activités déléguées aux organes d'exécution et aux entités précités;b) au plus tard le 15 mars de l'année de transmission des états financiers non audités, les états financiers audités couvrant l'exercice précédent, qui commence le 1er janvier et s'achève le 31 décembre, concernant les activités déléguées aux organes d'exécution et aux entités précités.\n\nLa Commission établit les comptes annuels du Fonds pour l'innovation pour chaque exercice, qui commence le 1er janvier et s'achève le 31 décembre, sur la base des états financiers communiqués conformément au premier alinéa. Ces comptes font l'objet d'un audit externe indépendant.\n\nTous les états financiers et comptes prévus au présent paragraphe sont établis conformément aux règles comptables visées à l'article 80 du règlement financier.",
+      "text_sha256": "32623dfa21d790943f2ac8ea8704d74da8157847177d605f9244df3b123a5957",
+      "md_span": {
+        "start": 42743,
+        "end": 44930
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: DELETED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Évaluation",
+      "path": [
+        "CHAPITRE V — Suivi, présentation de rapports et évaluation"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** En 2025 et tous les 5 ans par la suite, la Commission procède à une évaluation du fonctionnement du Fonds pour l’innovation. L’évaluation porte notamment, mais pas uniquement, sur l’examen des synergies entre le Fonds pour l’innovation et les autres programmes pertinents de l’Union, notamment le programme-cadre de l’Union pour la recherche et l’innovation (y compris Horizon Europe et Horizon 2020), ainsi que sur la procédure de versement des aides du Fonds pour l’innovation.\n\n**2.** Sur la base des résultats des évaluations visées au paragraphe 1 du présent article, la Commission présente, le cas échéant, des propositions visant à faire en sorte que le Fonds pour l'innovation se rapproche des objectifs qui lui ont été fixés dans la directive 2003/87/CE et à l'article 3 du présent règlement.\n\n**3.** À la fin de la mise en œuvre du Fonds pour l'innovation, et au plus tard en 2035, la Commission procède à une évaluation finale de son fonctionnement.\n\n**4.** La Commission publie les résultats des évaluations réalisées conformément aux paragraphes 1, 2 et 3.",
+      "text_sha256": "9998f2e14c9e8c726ca8f24ec6dc4d10bdd2636c4ee6274f3c113700893f9504",
+      "md_span": {
+        "start": 44982,
+        "end": 46058
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": "Audits",
+      "path": [
+        "CHAPITRE VI — Audits, publicité et partage des connaissances"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les audits sur l'utilisation de l'aide au titre du Fonds pour l'innovation exécutés par des auditeurs externes indépendants, y compris par d'autres que ceux mandatés par les institutions ou organismes de l'Union, constituent la base de l'assurance globale prévue à l'article 26.\n\n**2.** Toute personne ou entité qui reçoit une aide au titre du Fonds pour l'innovation s'engage par écrit à accorder les droits et accès nécessaires visés à l'article 129 du règlement financier.",
+      "text_sha256": "69edcc2fc85323c36e17ad294742114b0d6872a34ed02eb0076d3d53e8b2790b",
+      "md_span": {
+        "start": 46171,
+        "end": 46653
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": "Recours commun à des audits",
+      "path": [
+        "CHAPITRE VI — Audits, publicité et partage des connaissances"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sans préjudice des possibilités qui existent de mener d'autres audits, dans le cas où un audit fondé sur des normes internationalement admises en matière d'audit, ayant porté sur les états financiers et les rapports qui rendent compte de l'utilisation d'une contribution de l'Union et procurant une assurance raisonnable, a été effectué par un auditeur indépendant, cet audit doit constituer la base de l'assurance globale, comme précisé, le cas échéant, par la réglementation sectorielle, pour autant qu'il existe des éléments suffisants attestant de l'indépendance et de la compétence de l'auditeur. Le rapport de l'auditeur indépendant et les documents d'audit connexes sont mis à la disposition du Parlement européen, de la Commission, de la Cour des comptes ou des autorités d'audit des États membres à leur demande.",
+      "text_sha256": "48a161d215e1a5f8c40a3b835c6fd43f5636815f79aae94a8cae4a2a5e7d8c52",
+      "md_span": {
+        "start": 46722,
+        "end": 47543
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27",
+      "heading": "Communication, partage de connaissances et publicité",
+      "path": [
+        "CHAPITRE VI — Audits, publicité et partage des connaissances"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Les auteurs de projets promeuvent de manière proactive et systématique les projets soutenus au titre du présent règlement ainsi que les résultats et l’impact de ceux-ci en mettant les informations pertinentes à la disposition du public au moyen de tous les canaux de communication disponibles, y compris leurs sites web et comptes de médias sociaux. Ces informations mentionnent expressément le soutien dont le projet a bénéficié au titre du Fonds pour l’innovation. Les auteurs de projets désignent un point de contact pour la communication relative aux projets et en informent l’organe d’exécution bien à l’avance avant de s’engager dans des activités spécifiques de communication ou de diffusion relatives aux projets qui sont susceptibles d’avoir un impact médiatique important.\n\n**2.** Les auteurs de projets fournissent à divers groupes, notamment aux médias et au grand public, des informations cohérentes, efficaces et ciblées concernant le soutien dont le projet a bénéficié au titre du Fonds pour l'innovation.\n\n**3.** La mention «(co)financé par le système d’échange de quotas d’émission de l’Union européenne (Fonds pour l’innovation)», l’emblème de l’Union et les autres éléments promotionnels requis sont utilisés pour toutes les activités de communication et de partage des connaissances et apparaissent sur des panneaux d’affichage à des endroits stratégiques visibles pour le public, conformément aux exigences contractuelles relatives aux aides attribuées par le Fonds pour l’innovation.\n\n**4.** Les auteurs de projets fournissent des informations détaillées sur les actions prévues conformément aux paragraphes 1 et 2 dans leurs plans de partage des connaissances, de communication et de diffusion. Ils contrôlent régulièrement et, le cas échéant, revoient leur mise en œuvre.\n\n**5.** L'organe d'exécution mène des actions d'information, de communication et de promotion relatives au soutien accordé au titre du Fonds sur l'innovation et aux résultats obtenus. L'organe d'exécution organise des séminaires et ateliers spécifiques ou, le cas échéant, d'autres types d'activités visant à faciliter les échanges d'expérience, de connaissances et de bonnes pratiques concernant la conception, la préparation et la mise en œuvre des projets, ainsi que l'efficacité du financement octroyé par l'intermédiaire de l'assistance au développement de projets.",
+      "text_sha256": "935c76c0586865903f35812a828b50e7c2aed1ee9edca0ea7b2c2d3b8bfcadf4",
+      "md_span": {
+        "start": 47637,
+        "end": 50010
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023R2537",
+          "text": "32023R2537: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0856",
+          "text": "32019R0856"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32019r0856:2023-11-21#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Article 28",
+      "heading": "Entrée en vigueur",
+      "path": [
+        "CHAPITRE VII — Dispositions finales"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.",
+      "text_sha256": "272d7d1c39327603d469e4a8c3f0e02f346a84edfb12c54db68a230fe3f483e9",
+      "md_span": {
+        "start": 50109,
+        "end": 50241
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

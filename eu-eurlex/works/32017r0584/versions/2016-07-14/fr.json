@@ -1,0 +1,453 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0584:2016-07-14",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/584 of 14 July 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2016-07-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0584/versions/2016-07-14/fr.xml",
+    "sha256": "6aff26c31aeb0410746ee862bf33c6486f90c94bb369c92a2b5d2a5609769c2b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R0584"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Le présent règlement établit des règles détaillées concernant les exigences organisationnelles applicables aux systèmes des plates-formes de négociation permettant ou autorisant le recours au trading algorithmique, pour ce qui est de leur résilience et de leur capacité, les exigences applicables aux plates-formes de négociation pour garantir les tests appropriés des algorithmes et les exigences concernant les contrôles relatifs à l'accès électronique direct conformément à l'article 48, paragraphe 12, points a), b) et g), de la directive 2014/65/UE.\n\n2. Aux fins du présent règlement, une plate-forme de négociation est considérée comme permettant ou autorisant le trading algorithmique lorsque la soumission et l'appariement des ordres sont facilités par des moyens électroniques.\n\n3. Aux fins du présent règlement, tout dispositif ou système qui permet ou autorise le trading algorithmique est considéré comme un «système de trading algorithmique».",
+      "text_sha256": "38a64825b510d0bf8c7cf54095f31ab8f8cd0f71069def64e781026835b2dce1",
+      "md_span": {
+        "start": 641,
+        "end": 1616
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Avant le déploiement d'un système de négociation et au moins une fois par an, les plates-formes de négociation procèdent à une autoévaluation de leur conformité à l'article 48 de la directive 2014/65/UE, compte tenu de la nature, de l'échelle et de la complexité de leurs activités. L'autoévaluation comprend une analyse de tous les paramètres figurant à l'annexe du présent règlement.\n\n2. Les plates-formes de négociation conservent un enregistrement de leur autoévaluation pendant au moins cinq ans.",
+      "text_sha256": "feb22db959271952eb27b1a31b98200d304ade81a7bc6a36154b8fda57b44445",
+      "md_span": {
+        "start": 1649,
+        "end": 2164
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Dans le cadre de leur cadre global de gouvernance et de décision, les plates-formes de négociation établissent et contrôlent leurs systèmes de négociation au moyen d'un dispositif clair et formalisé de gouvernance incluant:\n\n| a) | leur analyse des questions en matière technique, de risque et de conformité lors de la prise de décisions critiques; |\n| --- | --- |\n\n| b) | des lignes de responsabilité claires, y compris des procédures d'approbation de la mise au point, du déploiement et des mises à jour ultérieures des systèmes de négociation, ainsi que de résolution des problèmes recensés lors du contrôle des systèmes de négociation; |\n| --- | --- |\n\n| c) | des procédures efficaces de communication d'informations permettant d'obtenir et de mettre en œuvre des instructions de manière rapide et efficace; |\n| --- | --- |\n\n| d) | une séparation des tâches et des responsabilités, afin de garantir une surveillance efficace de la conformité par les plates-formes de négociation. |\n| --- | --- |\n\n2. L'organe de direction ou la direction générale des plates-formes de négociation approuve:\n\n| a) | l'autoévaluation de la conformité effectuée conformément à l'article 2; |\n| --- | --- |\n\n| b) | les mesures visant à étendre la capacité de la plate-forme de négociation, si nécessaire, pour respecter l'article 11; |\n| --- | --- |\n\n| c) | les mesures destinées à remédier à toute lacune importante détectée au cours du contrôle effectué conformément aux articles 12 et 13 et à l'issue du réexamen périodique du fonctionnement et de la capacité des systèmes de négociation effectué conformément à l'article 14. |\n| --- | --- |",
+      "text_sha256": "3030d400dcc6bacc3d34f997418c7af2f502d548c1e08612b51db1c939d6388a",
+      "md_span": {
+        "start": 2197,
+        "end": 3838
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les plates-formes de négociation veillent à ce que leur fonction de vérification de la conformité soit responsable:\n\n| a) | de fournir à tout le personnel concerné par le trading algorithmique des informations claires sur les obligations juridiques des plates-formes de négociation à l'égard de ce mode de négociation; |\n| --- | --- |\n\n| b) | de développer et de maintenir les politiques et procédures nécessaires pour que les systèmes de trading algorithmique respectent ces obligations. |\n| --- | --- |\n\n2. Les plates-formes de négociation veillent à ce que leur personnel chargé de la vérification de la conformité comprenne au moins dans les grandes lignes la manière dont fonctionnent les systèmes de trading algorithmique et les algorithmes.\n\nLe personnel chargé de la vérification de la conformité est en contact permanent avec des personnes, au sein de la plate-forme de négociation, qui ont une connaissance technique détaillée des systèmes de trading algorithmique ou des algorithmes de cette dernière.\n\nLes plates-formes de négociation veillent également à ce que le personnel chargé de la vérification de la conformité puisse à tout moment contacter directement des personnes qui ont accès au mécanisme visé à l'article 18, paragraphe 2, point c), (mécanisme de coupe-circuit ou kill functionality) ou accéder lui-même à ce mécanisme et aux personnes responsables du système de trading algorithmique.\n\n3. Lorsque la fonction de vérification de la conformité ou certains éléments de celle-ci sont externalisés à un tiers, la plate-forme de négociation fournit à ce tiers un accès aux informations identique à celui qu'elles fourniraient à leur propre personnel chargé de la vérification de la conformité. Les plates-formes de négociation concluent avec de tels consultants un accord en matière de conformité, garantissant que:\n\n| a) | la confidentialité des données est préservée; |\n| --- | --- |\n\n| b) | l'audit de la fonction de vérification de la conformité par des auditeurs internes ou externes ou par l'autorité compétente n'est pas entravé. |\n| --- | --- |",
+      "text_sha256": "c991b787bcef1221f29870fff1869603e1fbce59abf8484cfaabf09ec75eba09",
+      "md_span": {
+        "start": 3871,
+        "end": 5959
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Les plates-formes de négociation emploient un nombre suffisant de personnes dotées des compétences nécessaires pour gérer leurs systèmes de trading algorithmique et leurs algorithmes de négociation et ayant une connaissance suffisante:\n\n| a) | des systèmes et des algorithmes de négociation pertinents; |\n| --- | --- |\n\n| b) | du contrôle et des tests de ces systèmes et algorithmes; |\n| --- | --- |\n\n| c) | des types de négociations auxquelles se livrent les membres, les participants ou les clients de la plate-forme de négociation (les «membres»); |\n| --- | --- |\n\n| d) | des obligations légales de la plate-forme de négociation. |\n| --- | --- |\n\n2. Les plates-formes de négociation définissent les compétences nécessaires visées au paragraphe 1. Le personnel visé au paragraphe 1 possède ces compétences au moment du recrutement ou les acquiert par formation après le recrutement. Les plates-formes de négociation veillent à ce que les compétences de ce personnel restent à jour et les évaluent sur une base régulière.\n\n3. Les formations visées au paragraphe 2 sont adaptées à l'expérience et aux responsabilités des membres du personnel et tiennent compte de la nature, de l'échelle et de la complexité de leurs activités.\n\n4. Le personnel visé au paragraphe 1 comprend des membres ayant une ancienneté suffisante pour pouvoir exercer leurs fonctions de manière efficace au sein de la plate-forme de négociation.",
+      "text_sha256": "ab1226561ec9c4f2babeb9e594adebc7c205cdb93b334028c2de513db54d3f6e",
+      "md_span": {
+        "start": 5992,
+        "end": 7423
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Les plates-formes de négociation qui externalisent l'ensemble ou une partie de leurs fonctions opérationnelles en ce qui concerne les systèmes permettant ou autorisant le trading algorithmique veillent à ce que:\n\n| a) | l'accord d'externalisation porte exclusivement sur les fonctions opérationnelles et ne modifie en rien les responsabilités de la direction générale et de l'organe de direction; |\n| --- | --- |\n\n| b) | les relations entre la plate-forme de négociation et ses membres, les autorités compétentes et les tiers, tels que les clients de services de flux de données, ainsi que les obligations de la plate-forme envers ceux-ci, ne soient pas modifiées; |\n| --- | --- |\n\n| c) | elles remplissent les exigences nécessaires pour être agréées conformément au titre III de la directive 2014/65/UE. |\n| --- | --- |\n\n2. Aux fins du présent article, les fonctions opérationnelles englobent toutes les activités directement liées au fonctionnement et à la surveillance des systèmes de négociation exercées à l'appui des éléments suivants:\n\n| a) | la connectivité en amont, la capacité de soumission d'ordres, les capacités de régulation des exécutions d'ordres (throttling) et la capacité d'équilibrer les entrées d'ordres des clients entre différentes passerelles; |\n| --- | --- |\n\n| b) | le moteur d'appariement des ordres; |\n| --- | --- |\n\n| c) | la connectivité en aval, l'édition des ordres et des transactions et tout autre type de flux de données de marché; |\n| --- | --- |\n\n| d) | les infrastructures de contrôle du fonctionnement des éléments visés aux points a), b) et c). |\n| --- | --- |\n\n3. Les plates-formes de négociation décrivent, documents à l'appui, le processus de sélection du prestataire de services auquel les fonctions opérationnelles seront externalisées (le «prestataire de services»). Elles prennent les mesures qui s'imposent pour faire en sorte, avant de conclure l'accord d'externalisation et tout au long de sa durée de validité, que les conditions suivantes soient remplies:\n\n| a) | le prestataire de services a la capacité d'exercer les fonctions externalisées de manière fiable et professionnelle, il dispose en outre de toutes les autorisations légalement requises à cet effet; |\n| --- | --- |\n\n| b) | le prestataire de services surveille de manière appropriée l'exécution des fonctions externalisées et gère de manière adéquate les risques associés à l'accord d'externalisation; |\n| --- | --- |\n\n| c) | les services externalisés sont fournis conformément aux spécifications de l'accord d'externalisation, qui se basent sur des méthodes prédéfinies d'évaluation de la norme de performance du prestataire de services, incluant des instruments de mesure du service fourni et des spécifications concernant les exigences à remplir; |\n| --- | --- |\n\n| d) | la plate-forme de négociation dispose de l'expertise nécessaire pour superviser les fonctions externalisées de manière efficace et gérer les risques associés à l'accord d'externalisation; |\n| --- | --- |\n\n| e) | la plate-forme de négociation a la capacité de prendre rapidement des mesures s'il apparaît que le prestataire de services ne s'acquitte pas de ses tâches de manière efficace ou conforme à la législation et aux exigences réglementaires en vigueur; |\n| --- | --- |\n\n| f) | le prestataire de services informe la plate-forme de négociation de tout fait susceptible d'avoir une incidence significative sur sa capacité à exercer les fonctions externalisées de manière efficace et conforme à ses obligations juridiques; |\n| --- | --- |\n\n| g) | la plate-forme de négociation peut si nécessaire mettre fin à l'accord d'externalisation sans compromettre la continuité et la qualité des services fournis à ses clients; |\n| --- | --- |\n\n| h) | le prestataire de services coopère avec les autorités compétentes de la plate-forme de négociation en ce qui concerne les activités externalisées; |\n| --- | --- |\n\n| i) | la plate-forme de négociation a un accès effectif aux données relatives aux activités externalisées et aux locaux d'activité du prestataire de services, et les auditeurs de la plate-forme de négociation et les autorités compétentes ont un accès effectif aux données relatives aux activités externalisées; |\n| --- | --- |\n\n| j) | la plate-forme de négociation établit des exigences que doivent respecter les prestataires de services pour protéger les informations confidentielles relatives à la plate-forme de négociation et à ses membres, ainsi que les informations confidentielles et les logiciels détenus par la plate-forme; |\n| --- | --- |\n\n| k) | le prestataire de services satisfait aux exigences visées au point j); |\n| --- | --- |\n\n| l) | la plate-forme de négociation et le prestataire de services conçoivent, mettent en place et gardent opérationnel un plan d'urgence en vue d'un rétablissement de l'activité après sinistre, prévoyant un contrôle régulier des capacités de sauvegarde, dans tous les cas où cela apparaît nécessaire eu égard à la fonction opérationnelle qui a été externalisée; |\n| --- | --- |\n\n| m) | l'accord d'externalisation prévoit les obligations du prestataire de services au cas où celui-ci serait dans l'incapacité de fournir ses services, y compris la fourniture du service par une entreprise de substitution; |\n| --- | --- |\n\n| n) | la plate-forme de négociation a accès aux informations relatives aux mécanismes de continuité des activités du prestataire de services visés à l'article 16. |\n| --- | --- |\n\n4. Les accords d'externalisation sont conclus par écrit et comprennent:\n\n| a) | la répartition des droits et obligations entre le prestataire de services et la plate-forme de négociation; |\n| --- | --- |\n\n| b) | une description claire:i)des fonctions opérationnelles externalisées;ii)de l'accès de la plate-forme de négociation aux livres et registres du prestataire de services;iii)de la procédure de détermination et de règlement d'éventuels conflits d'intérêt;iv)de la responsabilité assumée par chaque partie;v)de la procédure de modification et de résiliation de l'accord; |\n| --- | --- |\n| i) | des fonctions opérationnelles externalisées; |\n| ii) | de l'accès de la plate-forme de négociation aux livres et registres du prestataire de services; |\n| iii) | de la procédure de détermination et de règlement d'éventuels conflits d'intérêt; |\n| iv) | de la responsabilité assumée par chaque partie; |\n| v) | de la procédure de modification et de résiliation de l'accord; |\n\n| c) | les moyens de garantir que tant la plate-forme de négociation que le prestataire de services facilitent, dans la mesure du nécessaire, l'exercice par l'autorité compétente de ses pouvoirs de surveillance. |\n| --- | --- |\n\n5. Les plates-formes de négociation font part aux autorités compétentes de leur intention d'externaliser des fonctions opérationnelles dans les cas suivants:\n\n| a) | lorsque le prestataire de services fournit le même service à d'autres plates-formes de négociation; |\n| --- | --- |\n\n| b) | lorsque l'externalisation porterait sur des fonctions opérationnelles critiques nécessaires à la continuité des activités, auquel cas les plates-formes de négociation demandent une autorisation préalable à l'autorité compétente. |\n| --- | --- |\n\n6. Aux fins du paragraphe 5, point b), les fonctions opérationnelles critiques incluent les fonctions nécessaires pour se conformer aux obligations visées à l'article 47, paragraphe 1, points b), c) et e), de la directive 2014/65/UE.\n\n7. Les plates-formes de négociation informent les autorités compétentes de tout accord d'externalisation non soumis à l'obligation d'autorisation préalable immédiatement après la signature de ce dernier.",
+      "text_sha256": "8f37a585d6c04c51c990c4cde7e5426dc2535d3495eb896fe76427a2eaaad315",
+      "md_span": {
+        "start": 7456,
+        "end": 15097
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Les plates-formes de négociation précisent les conditions d'utilisation de leurs systèmes électroniques de soumission d'ordres par leurs membres. Ces conditions sont établies compte tenu du modèle de négociation de la plate-forme de négociation et couvrent au moins les éléments suivants:\n\n| a) | les contrôles pré-négociation des prix, du volume et de la valeur des ordres et de l'utilisation du système, ainsi que les contrôles post-négociation des activités de négociation des membres; |\n| --- | --- |\n\n| b) | les qualifications requises des membres du personnel occupant des postes clés; |\n| --- | --- |\n\n| c) | les tests de conformité technique et fonctionnelle; |\n| --- | --- |\n\n| d) | la politique d'utilisation du mécanisme de coupe-circuit; |\n| --- | --- |\n\n| e) | les dispositions relatives à la possibilité pour les membres de donner à leurs propres clients un accès électronique direct au système et, le cas échéant, les conditions applicables à ces clients. |\n| --- | --- |\n\n2. Les plates-formes de négociation effectuent une évaluation préalable du respect, par leurs membres potentiels, des conditions visées au paragraphe 1 et précisent les procédures suivies pour ces évaluations.\n\n3. Une fois par an, les plates-formes de négociation procèdent à une évaluation fondée sur les risques de la conformité de leurs membres aux conditions visées au paragraphe 1 et vérifient si leurs membres sont encore enregistrés comme entreprises d'investissement. L'évaluation fondée sur les risques tient compte de l'échelle et de l'incidence potentielle des activités de négociation de chaque membre, ainsi que du temps passé depuis sa dernière évaluation fondée sur les risques.\n\n4. Les plates-formes de négociation procèdent, si nécessaire, à des évaluations supplémentaires du respect, par leurs membres, des conditions visées au paragraphe 1 à la suite de l'évaluation annuelle fondée sur les risques décrite au paragraphe 3.\n\n5. Les plates-formes de négociation précisent les critères et procédures d'imposition de sanctions aux membres qui ne respectent pas ces conditions. Ces sanctions englobent la suspension de l'accès à la plate-forme de négociation et la perte de la qualité de membre.\n\n6. Les plates-formes de négociation conservent pendant au moins cinq ans un enregistrement des éléments suivants:\n\n| a) | les conditions et procédures applicables au contrôle préalable; |\n| --- | --- |\n\n| b) | les critères et procédures d'imposition des sanctions; |\n| --- | --- |\n\n| c) | l'évaluation préalable initiale de leurs membres; |\n| --- | --- |\n\n| d) | l'évaluation initiale fondée sur les risques de leurs membres; |\n| --- | --- |\n\n| e) | les membres qui n'ont pas passé avec succès l'évaluation annuelle fondée sur les risques et toute sanction imposée à ces membres. |\n| --- | --- |",
+      "text_sha256": "a04603adcba61b9ad7234b0bad77a8bea60303b8512316bfeea8ca772410fa4a",
+      "md_span": {
+        "start": 15130,
+        "end": 17940
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Les plates-formes de négociation ont recours, avant de déployer ou d'actualiser un système de négociation, à des méthodes de mise au point et de test clairement définies, qui garantissent au moins que:\n\n| a) | le système de négociation ne se comporte pas de manière non voulue; |\n| --- | --- |\n\n| b) | les contrôles de conformité et de gestion des risques intégrés au système fonctionnent comme prévu, notamment en ce qui concerne la production automatique de rapports d'erreur; |\n| --- | --- |\n\n| c) | le système de négociation peut continuer à fonctionner efficacement en cas de hausse significative du nombre de messages traités par le système. |\n| --- | --- |\n\n2. Les plates-formes de négociation sont en mesure de démontrer, à tout moment, qu'elles prennent toutes les mesures raisonnables pour éviter que leurs systèmes de négociation contribuent à créer des conditions de nature à perturber le bon ordre du marché.",
+      "text_sha256": "e547cd5655d501192bfebafa9455a093a636df10d6a0cb579bdc046c1f065273",
+      "md_span": {
+        "start": 17973,
+        "end": 18908
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Les plates-formes de négociation requièrent de leurs membres qu'ils procèdent à des tests de conformité avant la mise en œuvre ou une actualisation substantielle:\n\n| a) | de leur accès au système de la plate-forme de négociation; |\n| --- | --- |\n\n| b) | de leur système de négociation, de leur algorithme de négociation ou de leur stratégie de négociation. |\n| --- | --- |\n\n2. Le test de conformité garantit que le fonctionnement de base du système, de l'algorithme et de la stratégie de négociation du membre est conforme aux conditions de la plate-forme de négociation.\n\n3. Le test de conformité vérifie le fonctionnement des éléments suivants:\n\n| a) | la capacité du système ou de l'algorithme à interagir comme prévu avec la logique d'appariement de la plate-forme de négociation, et le traitement adéquat des flux de données en provenance et à destination de la plate-forme de négociation; |\n| --- | --- |\n\n| b) | les fonctionnalités de base comme la soumission, la modification ou l'annulation d'un ordre ou d'une indication d'intérêt, le téléchargement de données statiques et de marché et l'ensemble des flux de données «métier»; |\n| --- | --- |\n\n| c) | la connectivité, y compris la commande d'annulation en cas de déconnexion, la perte et la régulation des entrées de données de marché et la reprise de l'activité, y compris la reprise intrajournalière de la négociation et le traitement des instruments suspendus ou des données de marché non actualisées. |\n| --- | --- |\n\n4. Les plates-formes de négociation fournissent à leurs membres existants et potentiels un environnement de test de conformité qui:\n\n| a) | est accessible à des conditions équivalentes à celles applicables aux autres services de test de la plate-forme de négociation; |\n| --- | --- |\n\n| b) | fournit une liste d'instruments financiers pouvant être testés, qui soient représentatifs de chaque classe d'instruments disponible dans l'environnement de production; |\n| --- | --- |\n\n| c) | est disponible pendant les heures habituelles d'ouverture des marchés ou, à défaut, sur une base périodique prédéfinie; |\n| --- | --- |\n\n| d) | repose sur un personnel doté de connaissances suffisantes. |\n| --- | --- |\n\n5. Les plates-formes de négociation ne communiquent les résultats des tests de conformité qu'au membre existant ou potentiel concerné.\n\n6. Les plates-formes de négociation exigent de chaque membre existant ou potentiel qu'il utilise son propre système de test de conformité.\n\n7. Les plates-formes de négociation assurent une séparation effective entre l'environnement de test et l'environnement de production aux fins du test de conformité visé aux paragraphes 1 à 3.",
+      "text_sha256": "7476979d36b37441d18830f9dbaa516c1006f9435895fc881e43cb7e8545d667",
+      "md_span": {
+        "start": 18941,
+        "end": 21609
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Les plates-formes de négociation exigent de leurs membres qu'ils certifient que les algorithmes qu'ils mettent en place ont été testés afin d'éviter de créer ou de contribuer à créer des conditions de nature à perturber le bon ordre du marché avant le déploiement ou l'actualisation substantielle d'un algorithme ou d'une stratégie de négociation; elles expliquent les moyens utilisés pour ce test.\n\n2. Les plates-formes de négociation fournissent à leurs membres un accès à un environnement de test constitué par:\n\n| a) | des simulateurs qui reproduisent l'environnement de production le plus fidèlement possible, notamment les conditions de nature à perturber le bon ordre du marché, et qui fournissent des fonctionnalités, des protocoles et des structures qui permettent aux membres de tester une série de scénarios qu'elles considèrent comme pertinents pour leur activité; |\n| --- | --- |\n\n| b) | des symboles de test définis et gérés par la plate-forme de négociation. |\n| --- | --- |\n\n3. Les plates-formes de négociation garantissent une séparation effective entre l'environnement de test et l'environnement de production pour les tests visés au paragraphe 1.",
+      "text_sha256": "e8098888efe176a45f0c37cf59e65b53764902e45b1cf337f183b78a98679304",
+      "md_span": {
+        "start": 21644,
+        "end": 22824
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Les plates-formes de négociation veillent à ce que leurs systèmes de négociation aient une capacité suffisante pour exercer leurs fonctions sans défaillance, interruption ou erreur de système dans l'appariement des transactions, pour au moins deux fois le nombre le plus élevé de messages par seconde enregistré sur ce système au cours des cinq années précédentes.\n\nAux fins de l'établissement du nombre le plus élevé de messages, les messages suivants sont pris en compte:\n\n| a) | tout message entrant, y compris les ordres et les modifications ou annulations d'ordres; |\n| --- | --- |\n\n| b) | tout message sortant, y compris la réponse du système à un message entrant, l'affichage de données de carnets d'ordres et la diffusion de flux post-négociations impliquant une utilisation indépendante de la capacité du système de négociation. |\n| --- | --- |\n\n2. Les éléments d'un système de négociation à prendre en compte aux fins du paragraphe 1 sont ceux sur lesquels reposent les activités suivantes:\n\n| a) | la connectivité en amont, la capacité de soumission d'ordres, les capacités de régulation des exécutions d'ordres (throttling) et la capacité d'équilibrer les entrées d'ordres des clients entre différentes passerelles; |\n| --- | --- |\n\n| b) | un moteur de négociation permettant à la plate-forme de négociation d'apparier les ordres avec une latence appropriée; |\n| --- | --- |\n\n| c) | la connectivité en aval, la modification des ordres et des transactions et tout autre type de flux de données de marché; |\n| --- | --- |\n\n| d) | des infrastructures de contrôle du fonctionnement des éléments susmentionnés. |\n| --- | --- |\n\n3. Les plates-formes de négociation évaluent si la capacité de leurs systèmes de négociation reste suffisante lorsque le nombre de messages dépasse le nombre le plus élevé de messages par seconde enregistré sur ce système au cours des cinq années précédentes. À l'issue de l'évaluation, les plates-formes de négociation informent l'autorité compétente des mesures éventuellement prévues pour étendre leur capacité et de la durée de mise en œuvre de ces mesures.\n\n4. Les plates-formes de négociation veillent à ce que leurs systèmes soient en mesure de répondre à une hausse du flux de messages sans dégradation importante de leur fonctionnement. En particulier, la conception du système de négociation permet d'étendre sa capacité dans un délai raisonnable si nécessaire.\n\n5. Les plates-formes de négociation rendent publique et signalent immédiatement à l'autorité compétente et à leurs membres toute interruption grave de la négociation non provoquée par la volatilité du marché et toute autre perturbation de connectivité importante.",
+      "text_sha256": "4467891a640ae6e79e7c5aa83c1bf6b6c3f33cadea418e66ff2ebd1a436bc3a7",
+      "md_span": {
+        "start": 22859,
+        "end": 25545
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Les plates-formes de négociation veillent à ce que leurs systèmes de trading algorithmique soient à tout moment adaptés aux activités qui ont lieu par leur intermédiaire et soient suffisamment solides pour garantir la continuité et la régularité du fonctionnement des marchés sur lesquels elles opèrent, quel que soit le modèle de négociation utilisé.\n\n2. Les plates-formes de négociation procèdent à un contrôle en temps réel de leurs systèmes de trading algorithmique en ce qui concerne:\n\n| a) | leur fonctionnement et leur capacité, tels que visés à l'article 11, paragraphe 4; |\n| --- | --- |\n\n| b) | les ordres envoyés par leurs membres sur une base individuelle et agrégée. |\n| --- | --- |\n\nEn particulier, les plates-formes de négociation appliquent des limites de régulation et contrôlent la concentration des flux d'ordres afin de détecter les menaces potentielles au bon fonctionnement du marché.\n\n3. Des alertes en temps réel sont émises dans les cinq secondes suivant l'événement concerné.",
+      "text_sha256": "d18e9f50468dcfde34577d580d19b2435bbe61befb80d4fd207fcc218f2bc509",
+      "md_span": {
+        "start": 25580,
+        "end": 26596
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Les plates-formes de négociation sont en mesure de démontrer, à tout moment, à leur autorité compétente qu'elles contrôlent en temps réel le fonctionnement et l'utilisation des éléments de leurs systèmes de négociation visés à l'article 11, paragraphe 2, en ce qui concerne les paramètres suivants:\n\n| a) | le pourcentage de la capacité maximale de messages utilisé par seconde; |\n| --- | --- |\n\n| b) | le nombre total de messages traités par le système de négociation, ventilé par élément du système de négociation, notamment:i)le nombre de messages reçus par seconde;ii)le nombre de messages envoyés par seconde;iii)le nombre de messages rejetés par le système par seconde; |\n| --- | --- |\n| i) | le nombre de messages reçus par seconde; |\n| ii) | le nombre de messages envoyés par seconde; |\n| iii) | le nombre de messages rejetés par le système par seconde; |\n\n| c) | le délai entre la réception d'un message sur une passerelle externe du système de négociation et l'envoi d'un message connexe à partir de la même passerelle après que le moteur d'appariement a traité le message original; |\n| --- | --- |\n\n| d) | le fonctionnement du moteur d'appariement. |\n| --- | --- |\n\n2. Les plates-formes de négociation prennent toutes les mesures qui s'imposent concernant les problèmes détectés dans le système de négociation au cours du contrôle continu dès que cela est raisonnablement possible, par ordre de priorité, et sont en mesure d'ajuster, de restreindre ou de fermer le système de négociation, si nécessaire.",
+      "text_sha256": "0b516df08c6cd23418c3c61d4a245b6c4e15230f6b1da7b6b05a32a0b9929c95",
+      "md_span": {
+        "start": 26631,
+        "end": 28160
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Les plates-formes de négociation évaluent, dans le cadre de l'autoévaluation prévue à l'article 2, le fonctionnement et la capacité de leurs systèmes de trading algorithmique et des processus connexes en ce qui concerne la gouvernance, la responsabilité, l'agrément et les mécanismes de continuité des activités.\n\n2. Dans le cadre de l'évaluation visée au paragraphe 1, les plates-formes de négociation effectuent des tests de résistance dans lesquels elles simulent des scénarios défavorables afin de vérifier le fonctionnement du matériel, des logiciels et des communications et de déterminer les scénarios dans lesquels le système de négociation ou certaines parties de ce dernier exercent leurs fonctions avec des défaillances, des interruptions ou des erreurs dans l'appariement des transactions.\n\n3. Les tests de résistance couvrent toutes les phases de négociation, tous les segments de négociation et tous les types d'instruments négociés par la plate-forme de négociation et simulent les activités des membres dans la configuration de connectivité existante.\n\n4. Les scénarios défavorables visés au paragraphe 2 se basent sur les éléments suivants:\n\n| a) | un nombre accru de messages reçus commençant au nombre le plus élevé de messages traités par le système de la plate-forme de négociation au cours des cinq années précédentes; |\n| --- | --- |\n\n| b) | un comportement inattendu des fonctions opérationnelles de la plate-forme de négociation; |\n| --- | --- |\n\n| c) | une combinaison aléatoire de tensions et de conditions normales sur le marché et d'un comportement inattendu des fonctions opérationnelles de la plate-forme de négociation. |\n| --- | --- |\n\n5. L'évaluation du fonctionnement et de la capacité de la plate-forme de négociation décrite aux paragraphes 1 à 4 est effectuée par un évaluateur indépendant ou par un département au sein de la plate-forme de négociation autre que celui qui est responsable de la fonction faisant l'objet du réexamen.\n\n6. Les plates-formes de négociation prennent des mesures pour remédier rapidement et efficacement à toute lacune détectée dans l'évaluation du fonctionnement et de la capacité de la plate-forme de négociation visée aux paragraphes 1 à 4 et conservent pendant au moins cinq ans un enregistrement des données relatives au réexamen et à toute action corrective prise à cet égard.",
+      "text_sha256": "22f5f88c6f47862684032ff7860bcc8fccd5792b7aeaf914d8823eb3ed263db4",
+      "md_span": {
+        "start": 28195,
+        "end": 30558
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Les plates-formes de négociation sont en mesure de démontrer à tout moment que leurs systèmes sont suffisamment stables grâce à l'efficacité de mécanismes de continuité des activités destinés à faire face à des incidents perturbateurs.\n\n2. Les mécanismes de continuité des activités garantissent qu'après un incident perturbateur, la négociation peut reprendre dans les deux heures, ou dans un délai proche de deux heures, et que la quantité maximale de données susceptibles d'être perdues par un service informatique de la plate-forme de négociation est proche de zéro.",
+      "text_sha256": "634276030933eaf5089e7dba5706f04b5bd5deceb7cb1bb33c89f7f3674000ad",
+      "md_span": {
+        "start": 30593,
+        "end": 31178
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Les plates-formes de négociation établissent, dans le contexte de leur cadre de gouvernance et de décision, conformément à l'article 3, un plan de continuité des activités destiné à mettre en œuvre les mécanismes efficaces de continuité des activités prévus à l'article 15. Le plan de continuité des activités précise les procédures et mécanismes de gestion des incidents perturbateurs.\n\n2. Le plan de continuité des activités contient au minimum les éléments suivants:\n\n| a) | une série de possibles scénarios défavorables relatifs au fonctionnement des systèmes de trading algorithmique, y compris l'indisponibilité des systèmes, du personnel, de l'espace de travail, des fournisseurs externes ou des centres de données ou la perte ou l'altération de données et documents critiques; |\n| --- | --- |\n\n| b) | les procédures à suivre en cas d'événement perturbateur; |\n| --- | --- |\n\n| c) | le délai maximal de reprise de l'activité de négociation et le volume de données susceptibles d'être perdues par le système informatique; |\n| --- | --- |\n\n| d) | les procédures de relocalisation du système de négociation sur un site de sauvegarde et l'exploitation du système de négociation à partir de ce site; |\n| --- | --- |\n\n| e) | la sauvegarde des données de métier critiques, y compris les informations à jour des contacts nécessaires pour assurer la communication au sein de la plate-forme de négociation, entre cette dernière et ses membres et entre la plate-forme de négociation et les infrastructures de compensation et de règlement; |\n| --- | --- |\n\n| f) | la formation du personnel au fonctionnement des mécanismes de continuité des activités; |\n| --- | --- |\n\n| g) | l'attribution des tâches et l'établissement d'une équipe spécifique chargée des activités de sécurité prête à réagir immédiatement après un incident perturbateur; |\n| --- | --- |\n\n| h) | un programme continu de test, d'évaluation et de réexamen des mécanismes, y compris des procédures de modification des mécanismes à la lumière des résultats de ce programme. |\n| --- | --- |\n\n3. La synchronisation des horloges après un incident perturbateur fait partie du plan de continuité des activités.\n\n4. Les plates-formes de négociation veillent à ce qu'une analyse d'impact recensant les risques et conséquences de la perturbation soit effectuée et réexaminée périodiquement. À cette fin, toute décision de la plate-forme de négociation de ne pas tenir compte, dans le plan de continuité des activités, d'un risque identifié d'indisponibilité du système de négociation est justifiée par les documents adéquats et approuvée explicitement par l'organe de direction de la plate-forme de négociation.\n\n5. Les plates-formes de négociation veillent à ce que leur direction générale:\n\n| a) | fixe des objectifs et stratégies clairs en termes de continuité des activités; |\n| --- | --- |\n\n| b) | consacre les ressources humaines, technologiques et financières adéquates à la poursuite des objectifs et stratégies visés au point a); |\n| --- | --- |\n\n| c) | approuve le plan de continuité des activités et toute modification de celui-ci rendue nécessaire par des changements organisationnels, technologiques ou juridiques; |\n| --- | --- |\n\n| d) | soit informée, au moins une fois par an, du résultat de l'analyse d'impact ou de tout réexamen de celle-ci et de toute constatation concernant l'adéquation du plan de continuité des activités; |\n| --- | --- |\n\n| e) | instaure une fonction de continuité des activités au sein de l'organisation. |\n| --- | --- |\n\n6. Le plan de continuité des activités établit des procédures pour remédier à toute perturbation des fonctions opérationnelles critiques externalisées, notamment lorsque ces fonctions opérationnelles critiques deviennent indisponibles.",
+      "text_sha256": "d52ad31943ff07edeaaefceccc645f10800574187855cd556eff2dc3dea35773",
+      "md_span": {
+        "start": 31213,
+        "end": 34976
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. Les plates-formes de négociation testent, dans le cadre de leur autoévaluation effectuée conformément à l'article 2, sur la base de scénarios réalistes, le fonctionnement du plan de continuité des activités et vérifient leur capacité à se rétablir après des incidents perturbateurs et à reprendre la négociation comme indiqué à l'article 15, paragraphe 2.\n\n2. Les plates-formes de négociation veillent, lorsque cela est jugé nécessaire compte tenu des résultats du réexamen périodique effectué conformément au paragraphe 1, à ce que leur plan et leurs mécanismes de continuité des activités soient réexaminés soit par un évaluateur indépendant, soit par un département au sein de la plate-forme de négociation autre que celui responsable de la fonction faisant l'objet du réexamen. Les résultats du test sont consignés par écrit, stockés et soumis à la direction générale de la plate-forme de négociation, ainsi qu'aux unités opérationnelles participant au plan de continuité des activités.\n\n3. Les plates-formes de négociation garantissent que le test du plan de continuité des activités n'entrave pas l'activité de négociation normale.",
+      "text_sha256": "0f826ebc574d84096867d7aa2d16979fa6a33c6e76c87acda3874032ff80a070",
+      "md_span": {
+        "start": 35011,
+        "end": 36163
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Les plates-formes de négociation disposent au moins des mécanismes suivants pour empêcher les négociations de nature à perturber le bon ordre du marché et le dépassement des limites de capacité:\n\n| a) | la limitation par membre du nombre d'ordres passés par seconde; |\n| --- | --- |\n\n| b) | des mécanismes de gestion de la volatilité; |\n| --- | --- |\n\n| c) | des contrôles pré-négociation. |\n| --- | --- |\n\n2. Aux fins du paragraphe 1, les plates-formes de négociation sont en mesure:\n\n| a) | de demander des informations à tout membre ou tout utilisateur d'accès sponsorisé sur leurs exigences organisationnelles et leurs contrôles des négociations; |\n| --- | --- |\n\n| b) | de suspendre l'accès d'un membre ou d'un négociateur au système de négociation à l'initiative de la plate-forme de négociation ou à la demande de ce membre, d'un membre compensateur, de la contrepartie centrale si son règlement le prévoit, ou de l'autorité compétente; |\n| --- | --- |\n\n| c) | d'utiliser un mécanisme de coupe-circuit afin d'annuler les ordres non exécutés soumis par un membre ou par un client bénéficiant d'un accès sponsorisé dans les circonstances suivantes:i)à la demande du membre ou du client bénéficiant d'un accès sponsorisé lorsque le membre ou le client est techniquement incapable de supprimer ses propres ordres;ii)lorsque le carnet d'ordres contient des ordres dupliqués erronés;iii)à la suite d'une suspension instaurée soit par l'opérateur de marché soit par l'autorité compétente; |\n| --- | --- |\n| i) | à la demande du membre ou du client bénéficiant d'un accès sponsorisé lorsque le membre ou le client est techniquement incapable de supprimer ses propres ordres; |\n| ii) | lorsque le carnet d'ordres contient des ordres dupliqués erronés; |\n| iii) | à la suite d'une suspension instaurée soit par l'opérateur de marché soit par l'autorité compétente; |\n\n| d) | d'annuler ou de révoquer des transactions en cas de dysfonctionnement des mécanismes de gestion de la volatilité de la plate-forme de négociation ou des fonctions opérationnelles du système de négociation; |\n| --- | --- |\n\n| e) | d'équilibrer l'entrée des ordres entre leurs différentes passerelles, lorsque la plate-forme de négociation utilise plus d'une passerelle pour éviter les effondrements. |\n| --- | --- |\n\n3. Les plates-formes de négociation établissent des politiques et mécanismes en ce qui concerne:\n\n| a) | les mécanismes de gestion de la volatilité conformément à l'article 19; |\n| --- | --- |\n\n| b) | les modalités de contrôle pré- et post-négociation utilisées par la plate-forme et les contrôles pré- et post-négociation nécessaires pour que leurs membres puissent accéder au marché; |\n| --- | --- |\n\n| c) | l'obligation des membres d'avoir leur propre mécanisme de coupe-circuit; |\n| --- | --- |\n\n| d) | les exigences d'information applicables aux membres; |\n| --- | --- |\n\n| e) | la suspension de l'accès; |\n| --- | --- |\n\n| f) | la politique d'annulation relative aux ordres et aux transactions, notamment:i)le délai;ii)les procédures;iii)les obligations en matière d'information et de transparence;iv)les procédures de règlement des litiges;v)les mesures visant à réduire au minimum les échanges erronés; |\n| --- | --- |\n| i) | le délai; |\n| ii) | les procédures; |\n| iii) | les obligations en matière d'information et de transparence; |\n| iv) | les procédures de règlement des litiges; |\n| v) | les mesures visant à réduire au minimum les échanges erronés; |\n\n| g) | les mécanismes de régulation des ordres, notamment:i)le nombre d'ordres par seconde sur des intervalles de temps prédéfinis;ii)la politique d'égalité de traitement entre les membres, sauf si le mécanisme de régulation des ordres vise des membres particuliers;iii)les mesures à adopter à la suite d'un événement nécessitant une régulation des ordres. |\n| --- | --- |\n| i) | le nombre d'ordres par seconde sur des intervalles de temps prédéfinis; |\n| ii) | la politique d'égalité de traitement entre les membres, sauf si le mécanisme de régulation des ordres vise des membres particuliers; |\n| iii) | les mesures à adopter à la suite d'un événement nécessitant une régulation des ordres. |\n\n4. Les plates-formes de négociation publient leurs politiques et mécanismes visés aux paragraphes 2 et 3. Cette obligation ne s'applique pas à l'égard du nombre spécifique d'ordres par seconde sur des intervalles de temps prédéfinis ni aux paramètres spécifiques de leurs mécanismes de gestion de la volatilité.\n\n5. Les plates-formes de négociation conservent pendant cinq ans minimum un enregistrement de l'ensemble de leurs politiques et de leurs mécanismes visés au paragraphe 3.",
+      "text_sha256": "2dc926cd87874a3f318b9db5c000cc587bfebc43f5e04da49263f3202f01123d",
+      "md_span": {
+        "start": 36198,
+        "end": 40846
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Les plates-formes de négociation veillent à ce que des mécanismes appropriés permettant de suspendre ou de restreindre automatiquement les échanges soient opérationnels à tout moment pendant les heures de négociation.\n\n2. Les plates-formes de négociation garantissent que:\n\n| a) | les mécanismes permettant de suspendre ou de restreindre les échanges sont testés avant leur mise en œuvre et périodiquement par la suite, lors du réexamen du fonctionnement et de la capacité des systèmes de négociation; |\n| --- | --- |\n\n| b) | des ressources informatiques et humaines sont allouées à la conception, à la maintenance et au contrôle des mécanismes mis en œuvre pour suspendre ou restreindre les échanges; |\n| --- | --- |\n\n| c) | les mécanismes de gestion de la volatilité du marché font l'objet d'un contrôle continu. |\n| --- | --- |\n\n3. Les plates-formes de négociation conservent un enregistrement des règles et paramètres des mécanismes de gestion de la volatilité et de toute modification apportée à ceux-ci, ainsi que des mesures d'utilisation, de gestion et d'actualisation de ces mécanismes.\n\n4. Les plates-formes de négociation veillent à ce que leurs règles applicables aux mécanismes de gestion de la volatilité comprennent des procédures de gestion des situations dans lesquelles il est nécessaire de passer manuellement outre les paramètres pour garantir le bon déroulement des négociations.",
+      "text_sha256": "56768e36faa3379ae443563b1ffab4caac0dc660795515416567260596c0d77f",
+      "md_span": {
+        "start": 40881,
+        "end": 42296
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. Les plates-formes de négociation utilisent les dispositifs de limitation pré-négociation suivants, adaptés à chaque instrument financier échangé en leur sein:\n\n| a) | des fourchettes de prix qui bloquent automatiquement, sur une base individuelle, les ordres ne respectant pas des paramètres de prix prédéfinis; |\n| --- | --- |\n\n| b) | une valeur maximale des ordres, qui empêche automatiquement les ordres d'une valeur inhabituellement élevée, par rapport à des valeurs notionnelles par instrument financier, d'entrer dans le carnet d'ordres; |\n| --- | --- |\n\n| c) | un volume maximal d'ordres, qui empêche automatiquement les ordres d'une taille inhabituellement élevée d'entrer dans le carnet d'ordres. |\n| --- | --- |\n\n2. Les dispositifs de limitation pré-négociation prévus au paragraphe 1 sont conçus de manière à garantir:\n\n| a) | que leur application automatisée permet de réajuster une limite au cours de la séance de négociation et au cours de toutes les phases de cette dernière; |\n| --- | --- |\n\n| b) | que la limitation intervient dans les cinq secondes maximum; |\n| --- | --- |\n\n| c) | qu'un ordre est rejeté dès qu'une limite est franchie; |\n| --- | --- |\n\n| d) | que des procédures et mécanismes sont en place pour autoriser des ordres supérieurs aux limites à la demande du membre concerné. Ces procédures et mécanismes s'appliquent à un ordre donné, ou à une série d'ordres, sur une base temporaire et dans des circonstances exceptionnelles. |\n| --- | --- |\n\n3. Les plates-formes de négociation peuvent établir les dispositifs de limitation post-négociation qu'ils jugent appropriés sur la base d'une évaluation des risques de l'activité de leurs membres.",
+      "text_sha256": "0d0c390c9c81f43be6a0da3bebfae1fb00d0c7e4b6c82ec7baeea6898849d7ec",
+      "md_span": {
+        "start": 42331,
+        "end": 44019
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\nLes plates-formes de négociation permettant un accès électronique direct via leurs systèmes établissent et publient les règles et conditions régissant la fourniture, par leurs membres, d'un accès électronique direct à leurs propres clients. Ces règles et conditions couvrent au moins les exigences spécifiques établies à l'article 22 du règlement délégué (UE) 2017/589 de la Commission (3).",
+      "text_sha256": "9a28aefcaa6dfa48a75939d329fc5b9dc9a7bad5292202e7dc35bfbafb38a884",
+      "md_span": {
+        "start": 44054,
+        "end": 44456
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2017087FR.01035001-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. Les plates-formes de négociation subordonnent l'octroi de l'accès sponsorisé à leur autorisation et exigent que les entreprises bénéficiant d'un accès sponsorisé soient soumises au moins aux mêmes contrôles que ceux visés à l'article 18, paragraphe 3, point b).\n\n2. Les plates-formes de négociation veillent à ce que les fournisseurs d'accès sponsorisé soient à tout moment les seuls autorisés à fixer ou à modifier les paramètres qui s'appliquent aux contrôles visés au paragraphe 1 pour l'ensemble du flux d'ordres de leurs clients bénéficiant d'un accès sponsorisé.\n\n3. Les plates-formes de négociation sont en mesure de suspendre ou retirer l'accès sponsorisé aux clients ayant enfreint la directive 2014/65/UE, les règlements du Parlement européen et du Conseil (UE) no 600/2014 (4) et (UE) no 596/2014 (5) ou les règles internes applicables aux plates-formes de négociation.",
+      "text_sha256": "efc392a3c37d8a64d3431ba6c6d495f25d12ce838465f99c3101b4bdca05c4d9",
+      "md_span": {
+        "start": 44491,
+        "end": 45386
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2017087FR.01035001-E0004",
+          "text": "(4)"
+        },
+        {
+          "href": "#ntr5-L_2017087FR.01035001-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\n1. Les plates-formes de négociation disposent de procédures et de mécanismes de sécurité physique et électronique conçus pour protéger leurs systèmes de toute utilisation abusive ou de tout accès non autorisé et pour garantir l'intégrité des données qui font partie de leurs systèmes ou transitent par leurs systèmes, notamment de mécanismes permettant de prévenir ou de minimiser les risques d'attaques contre les systèmes d'information tels que définis à l'article 2, point a), de la directive 2013/40/UE du Parlement européen et du Conseil (6).\n\n2. En particulier, les plates-formes de négociation établissent et maintiennent des mesures et mécanismes de sécurité physique et électronique afin d'identifier et de prévenir ou minimiser rapidement les risques:\n\n| a) | d'accès non autorisé à leur système de négociation ou à une partie de celui-ci, notamment l'accès non autorisé à l'espace de travail et aux centres de données; |\n| --- | --- |\n\n| b) | d'interférences avec le système ayant pour effet d'entraver gravement ou d'interrompre le fonctionnement d'un système d'information en introduisant, en transmettant, en endommageant, en effaçant, en détériorant, en altérant ou en supprimant des données ou en les rendant inaccessibles; |\n| --- | --- |\n\n| c) | d'interférences avec les données ayant pour effet d'effacer, d'endommager, de détériorer, d'altérer ou de supprimer des données dans le système d'information, ou de les rendre inaccessibles; |\n| --- | --- |\n\n| d) | d'interception, par des moyens techniques, de transmissions privées de données à destination, à partir ou au sein d'un système d'information, y compris d'émissions électromagnétiques d'un système d'information transportant de telles données. |\n| --- | --- |\n\n3. Les plates-formes de négociation informent rapidement l'autorité compétente de tout incident provoqué par une utilisation abusive ou un accès non autorisé, en lui remettant rapidement un rapport d'incident, indiquant la nature de l'incident, les mesures adoptées en réponse à l'incident et les initiatives prises pour éviter que de tels incidents se reproduisent à l'avenir.",
+      "text_sha256": "49588fd8b9ca98882407586aa53e1fdf117d27a8ff54d42a8d11735c80ffc92d",
+      "md_span": {
+        "start": 45421,
+        "end": 47548
+      },
+      "citations": [
+        {
+          "href": "#ntr6-L_2017087FR.01035001-E0006",
+          "text": "(6)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à compter de la première date visée à l'article 93, paragraphe 1, deuxième alinéa, de la directive 2014/65/UE.",
+      "text_sha256": "0be22452ba6639677a6d32663778b57a87af53a2f2894ec82037292ec7d4bd37",
+      "md_span": {
+        "start": 47583,
+        "end": 47851
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

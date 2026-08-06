@@ -1,0 +1,145 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r1005:2017-06-15",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2017/1005 of 15 June 2017 laying down implementing technical standards with regard to the format and timing of the communications and the publication of the suspension and removal of financial instruments pursuant to Directive 2014/65/EU",
+  "valid_from": "2017-06-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r1005/versions/2017-06-15/fr.xml",
+    "sha256": "3749c6239134056905f874ba6fe37f6d901cd47debb98d335f29c4557f356fef",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R1005"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r1005:2017-06-15#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe présent règlement définit le format et le calendrier des communications et des publications suivantes:\n\n| a) | publication par un opérateur de marché exploitant un marché réglementé ou par une entreprise d'investissement ou un opérateur de marché exploitant un MTF ou un OTF de sa décision de suspendre ou de retirer de la négociation un instrument financier et, le cas échéant, des instruments dérivés qui sont liés, ou de lever une suspension; |\n| --- | --- |\n\n| b) | communication des décisions visées au point a) à l'autorité compétente concernée; |\n| --- | --- |\n\n| c) | publication par une autorité compétente de sa décision de suspendre ou de retirer de la négociation un instrument financier et, le cas échéant, des instruments dérivés qui sont liés, ou de lever une suspension; |\n| --- | --- |\n\n| d) | communication par une autorité compétente à l'AEMF et aux autres autorités compétentes de sa décision de suspendre ou de retirer de la négociation un instrument financier et, le cas échéant, des instruments dérivés qui sont liés, ou de lever une suspension; |\n| --- | --- |\n\n| e) | communication à l'AEMF et aux autres autorités compétentes, par une autorité compétente qui s'est vu notifier une décision visée au point d), de sa décision quant aux suites à lui donner. |\n| --- | --- |",
+      "text_sha256": "d79e95bdfca9ab358c02f6a9815a8adf644ae3f97eb227e1a37a3909ffd107b0",
+      "md_span": {
+        "start": 822,
+        "end": 2138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r1005:2017-06-15#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins du présent règlement, on entend par «opérateur de plate-forme de négociation»:\n\n| a) | un opérateur de marché exploitant un marché réglementé, un MTF ou un OTF; |\n| --- | --- |\n\n| b) | une entreprise d'investissement exploitant un MTF ou un OTF. |\n| --- | --- |",
+      "text_sha256": "6addc9f0eb79b916f754a8e1b71307b57f008870331d88bfd5d5fbff97a78418",
+      "md_span": {
+        "start": 2171,
+        "end": 2452
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r1005:2017-06-15#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les opérateurs de plates-formes de négociation publient les décisions visées à l'article 1er, point a); sur leur site web, en respectant le format indiqué au tableau 2 de l'annexe.\n\n2. Les opérateurs de plates-formes de négociation communiquent les décisions visées à l'article 1er, point a), à l'autorité compétente concernée dans un format standard lisible par machine approuvé par l'autorité compétente et respectant le format indiqué au tableau 2 de l'annexe.",
+      "text_sha256": "b0fd8553b1dd362d431b1755128acc08f3199b7bd7826a9b01dabdea3ff8c4eb",
+      "md_span": {
+        "start": 2485,
+        "end": 2962
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r1005:2017-06-15#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les opérateurs de plates-formes de négociation publient immédiatement les décisions visées à l'article 1er, point a).\n\n2. Les opérateurs de plates-formes de négociation ne publient pas par d'autres moyens les décisions visées à l'article 1er, point a), avant de les publier conformément à l'article 3, paragraphe 1.\n\n3. Les opérateurs de plates-formes de négociation communiquent à l'autorité compétente concernée les décisions visées à l'article 1er, point a), en même temps qu'ils les publient, ou immédiatement après.",
+      "text_sha256": "4d03c14b1176d4b24d36b00a8de630e748f4f5b5a7827752a289e08861995e1f",
+      "md_span": {
+        "start": 2995,
+        "end": 3529
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r1005:2017-06-15#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Les autorités compétentes publient les décisions visées à l'article 1er, point c), sur un site web, en respectant le format indiqué au tableau 3 de l'annexe.\n\n2. Les autorités compétentes publient les décisions visées à l'article 1er, points d) et e) dans un format standard lisible par machine, et en respectant les formats respectivement indiqués aux tableaux 3 et 4 de l'annexe.",
+      "text_sha256": "0abb68213c1210865d971d4fa003ff7e4d81f0f3a008138251cc1154bbadf48d",
+      "md_span": {
+        "start": 3562,
+        "end": 3957
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r1005:2017-06-15#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Les autorités compétentes publient immédiatement les décisions visées à l'article 1er, point c).\n\n2. Les autorités compétentes communiquent les décisions visées à l'article 1er, point d), en même temps qu'elles les publient, ou immédiatement après.\n\n3. Dès réception d'une communication visée à l'article 1er, point d), l'autorité compétente à qui elle est notifiée communique sans délai la décision visée à l'article 1er, point e).",
+      "text_sha256": "851e321154e6ad07bab0fc968c13e9e0baaef86f58a1945f309adffcf4b5a368",
+      "md_span": {
+        "start": 3990,
+        "end": 4436
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r1005:2017-06-15#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à partir du 3 janvier 2018.",
+      "text_sha256": "f85deab4b76421cc6d6a44b63e514ff5d8e253e0d2a2ee9f86ec1644fee27ee7",
+      "md_span": {
+        "start": 4469,
+        "end": 4653
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

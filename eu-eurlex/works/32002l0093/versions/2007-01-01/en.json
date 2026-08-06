@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32002l0093:2007-01-01",
+  "language": "en",
+  "title": "Council Directive 2002/93/EC of 3 December 2002 amending Directive 77/388/EEC to extend th…",
+  "valid_from": "2007-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32002l0093/versions/2007-01-01/en.html",
+    "sha256": "709b062dd47147ea13e74ab73c50fbe08c6c0d84fc7ae247abfb4b68d8782a22",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02002L0093-20070101"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32002l0093:2007-01-01#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "2002L0093 — EN — 01.01.2007 — 001.001 This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents ►B COUNCIL DIRECTIVE 2002/93/EC of 3 December 2002 amending Directive 77/388/EEC to extend the facility allowing Member States to apply reduced rates of VAT to certain labour-intensive services (OJ L 331, 7.12.2002, p.27) repealed by: Official Journal No page date Council Directive 2006/112/EC of 28 November 2006 L 347 1 11.12.2006",
+      "text_sha256": "d71b8d25080f8212e7e810d242245d1b49a927d337b8c5788a328e9945dcc9f4",
+      "md_span": {
+        "start": 658,
+        "end": 1149
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r1106:2018-08-08",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2018/1106 of 8 August 2018 laying down implementing technical standards with regard to templates for the compliance statement to be published and maintained by administrators of significant and non-significant benchmarks pursuant to Regulation (EU) 2016/1011",
+  "valid_from": "2018-08-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r1106/versions/2018-08-08/fr.xml",
+    "sha256": "365a01d4a8bcd45ce7976fd92cf92d4aa4e94857bcf8e7004f12e218a2805a70",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32018R1106"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r1106:2018-08-08#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Le modèle à utiliser pour la déclaration de conformité prévue par l'article 25, paragraphe 7, du règlement (UE) 2016/1011 figure à l'annexe I du présent règlement.\n\n2. Le modèle à utiliser pour la déclaration de conformité prévue par l'article 26, paragraphe 3, du règlement (UE) 2016/1011 figure à l'annexe II du présent règlement.",
+      "text_sha256": "c9ea3a03c329cb516ac4e74d7e84153191d15eb995b407a243dca6a6378bd5b7",
+      "md_span": {
+        "start": 843,
+        "end": 1195
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r1106:2018-08-08#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant la date de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à partir du 29 octobre 2018.",
+      "text_sha256": "3520a91b9c418d7f7e3afca70b8740a033df2bdbb7725a3836ba21a3cf9e264f",
+      "md_span": {
+        "start": 1228,
+        "end": 1415
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

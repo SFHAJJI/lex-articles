@@ -1,0 +1,218 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32006l0069:2007-01-01",
+  "language": "fr",
+  "title": "Council Directive 2006/69/EC of 24 July 2006 amending Directive 77/388/EEC as regards cert…",
+  "valid_from": "2007-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32006l0069/versions/2007-01-01/fr.html",
+    "sha256": "46f2604d8963b2b4dbf2aee37730fc28f4b6c0b5d5dfa0efd8cacec346f8399a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02006L0069-20070101"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32006l0069:2007-01-01#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les décisions énumérées à l’annexe II de la présente directive sont abrogées avec effet au 1er janvier 2008.",
+      "text_sha256": "dceb3cf1a0134c35b4a26fc6900f7b448c7bf18afca97a7d1f7ed4bdd87f20ba",
+      "md_span": {
+        "start": 649,
+        "end": 757
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32006l0069:2007-01-01#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive.\n\nIls appliquent, au plus tard à partir du 1er janvier 2008, les dispositions nécessaires pour se conformer à l’article 1er, point 3), en ce qui concerne le nouvel article 11, titre A, paragraphe 7, de la directive 77/388/CEE, et pour se conformer à l’article 1er, point 4), en ce qui concerne le renvoi fait dans l’article 17, paragraphe 4, points a) et b), de la directive 77/388/CEE — dans la version fixée à l’article 28 *septies*, paragraphe 1 — à l’article 21, paragraphe 1, point f), de ladite directive.\n\nLorsque les États membres adoptent des dispositions au titre de la présente directive, ils en communiquent immédiatement le texte à la Commission. Ces dispositions contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.",
+      "text_sha256": "6ee6188e1a50663070b1b1d0853276422fe865d4b804bd85c5c68a8b21846782",
+      "md_span": {
+        "start": 794,
+        "end": 1826
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32006l0069:2007-01-01#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La présente directive entre en vigueur le jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.",
+      "text_sha256": "500e8b07104912c58569022d06bd3934068d124fad6a959041c1d816dc15826d",
+      "md_span": {
+        "start": 1863,
+        "end": 1986
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32006l0069:2007-01-01#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres sont destinataires de la présente directive.",
+      "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+      "md_span": {
+        "start": 2023,
+        "end": 2085
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_i",
+      "provision_id": "eu-eurlex:32006l0069:2007-01-01#annexe_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 2124,
+        "end": 2124
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_m",
+      "provision_id": "eu-eurlex:32006l0069:2007-01-01#annexe_m",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "«ANNEXE M",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Liste des livraisons de biens et services visée à l’article 21, paragraphe 2, point c) iv)\n\na) livraisons de déchets, débris et matériaux usagés ferreux ou non ferreux, notamment ceux de produits semi-finis résultant de la transformation, de l’élaboration ou de la fonte de métaux ferreux ou non ferreux ou de leurs alliages;\n\nb) livraisons de produits semi-finis ferreux ou non ferreux et prestations de certains services de transformation associés;\n\nc) livraisons de résidus et autres matériaux de récupération constitués de métaux ferreux ou non ferreux ou de leurs alliages, de scories, laitiers, cendres, écailles et résidus industriels contenant des métaux ou des alliages de métaux, et prestations de services consistant en la sélection, la coupe, la fragmentation ou le pressage de ces produits;\n\nd) livraisons, et certains services de transformation associés, de déchets ferreux et de ferrailles, ainsi que de rognures, débris et déchets, et de matériaux usagés et de récupération en calcin, verre, papier, papier cartonné et carton, chiffons, os, cuir naturel, cuir artificiel, parchemin, cuirs et peaux bruts, tendons et nerfs, ficelles, cordes et cordages, caoutchouc et plastique;\n\ne) livraisons de matériaux visés à la présente annexe après transformation sous la forme d’une opération de nettoyage, polissage, sélection, coupe, fragmentation, compression ou fonte en lingots;\n\nf) livraisons de débris et déchets provenant de la transformation de matériaux de base.»",
+      "text_sha256": "dee29682601edab098ddcc1b1758d8064234a664960733ea62487bd3d160a3df",
+      "md_span": {
+        "start": 2164,
+        "end": 3644
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_ii",
+      "provision_id": "eu-eurlex:32006l0069:2007-01-01#annexe_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Liste des décisions au titre de l’article 27 de la directive 77/388/CEE, abrogées par la présente directive\n\nDécision du Conseil réputée avoir été adoptée le 15 avril 1984 autorisant le Royaume-Uni à introduire une mesure dérogatoire à la sixième directive visant à éviter, par la mise en place d’un régime particulier de perception de la taxe, certaines fraudes ou évasions fiscales concernant des livraisons entre assujettis, d’or, de monnaie en or et de déchets d’or (1).\n\nDécision du Conseil réputée avoir été adoptée le 11 avril 1987 autorisant le Royaume-Uni à appliquer une mesure dérogatoire à l’article 11 de la directive 77/388/CEE (2).\n\nDécision 88/498/CEE du Conseil (3) autorisant le Royaume des Pays-Bas à appliquer une mesure dérogatoire à l’article 21, paragraphe 1, point a), de la directive 77/388/CEE.\n\nDécision du Conseil réputée avoir été adoptée le 18 février 1997 en vertu de la procédure prévue à l’article 27, paragraphe 4, de la directive 77/388/CEE dans sa version du 17 mai 1977 autorisant la République française à appliquer une mesure dérogatoire aux articles 2 et 10 de la directive 77/388/CEE. La demande a été notifiée aux États membres le 18 décembre 1996.\n\nDécision 98/23/CE du Conseil (4) autorisant le Royaume-Uni à proroger l’application d’une mesure dérogatoire à l’article 28 *sexies*, paragraphe 1, de la directive 77/388/CEE.\n\nDécision 2002/439/CE du Conseil (5) autorisant l’Allemagne à appliquer une mesure dérogatoire à l’article 21 de la directive 77/388/CEE.\n\nDécision 2002/880/CE du Conseil (6) autorisant l’Autriche à appliquer une mesure dérogatoire à l’article 21 de la directive 77/388/CEE.\n\nDécision 2004/290/CE du Conseil (7) autorisant l’Allemagne à appliquer une mesure dérogatoire à l’article 21 de la directive 77/388/CEE.\n\nDécision 2004/736/CE du Conseil (8) autorisant le Royaume-Uni à introduire une mesure particulière dérogatoire à l’article 11 de la directive 77/388/CEE.\n\nDécision 2004/758/CE du Conseil (9) autorisant l’Autriche à appliquer une mesure dérogatoire à l’article 21 de la directive 77/388/CEE.\n\n(1) JO L 264 du 5.10.1984, p. 27.\n\n(2) JO L 132 du 21.5.1987, p. 22.\n\n(3) JO L 269 du 29.9.1988, p. 54.\n\n(4) JO L 8 du 14.1.1998, p. 24. Décision modifiée en dernier lieu par la décision 2003/909/CE (JO L 342 du 30.12.2003, p. 49).\n\n(5) JO L 151 du 11.6.2002, p. 12.\n\n(6) JO L 306 du 8.11.2002, p. 24.\n\n(7) JO L 94 du 31.3.2004, p. 59.\n\n(8) JO L 325 du 28.10.2004, p. 58.\n\n(9) JO L 336 du 12.11.2004, p. 38.",
+      "text_sha256": "7ffbaeda8f439a4baa16215b8d86b71379f1c43d792202ed5ce71cdaf70c4238",
+      "md_span": {
+        "start": 3685,
+        "end": 6166
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        },
+        {
+          "href": "#E0002",
+          "text": "2"
+        },
+        {
+          "href": "#E0003",
+          "text": "3"
+        },
+        {
+          "href": "#E0004",
+          "text": "4"
+        },
+        {
+          "href": "#E0005",
+          "text": "5"
+        },
+        {
+          "href": "#E0006",
+          "text": "6"
+        },
+        {
+          "href": "#E0007",
+          "text": "7"
+        },
+        {
+          "href": "#E0008",
+          "text": "8"
+        },
+        {
+          "href": "#E0009",
+          "text": "9"
+        },
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        },
+        {
+          "href": "#src.E0008",
+          "text": "8"
+        },
+        {
+          "href": "#src.E0009",
+          "text": "9"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

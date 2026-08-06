@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31979l1070:1979-12-06",
+  "language": "en",
+  "title": "Council Directive 79/1070/EEC of 6 December 1979 amending Directive 77/799/EEC concerning …",
+  "valid_from": "1979-12-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31979l1070/versions/1979-12-06/en.html",
+    "sha256": "af49c200be10b2788e9b8a8ee6166705b154209a57420ec24f1720532c919028",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31979L1070"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31979l1070:1979-12-06#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Avis juridique important | 31979L1070 Council Directive 79/1070/EEC of 6 December 1979 amending Directive 77/799/EEC concerning mutual assistance by the competent authorities of the Member States in the field of direct taxation Official Journal L 331 , 27/12/1979 P. 0008 - 0009 Finnish special edition: Chapter 9 Volume 1 P. 0082 Greek special edition: Chapter 09 Volume 1 P. 0109 Swedish special edition: Chapter 9 Volume 1 P. 0082 Spanish special edition: Chapter 09 Volume 1 P. 0114 Portuguese special edition Chapter 09 Volume 1 P. 0114 COUNCIL DIRECTIVE of 6 December 1979 amending Directive 77/799/EEC concerning mutual assistance by the competent authorities of the Member States in the field of direct taxation (79/1070/EEC) THE COUNCIL OF THE EUROPEAN COMMUNITIES, Having regard to the Treaty establishing the European Economic Community, and in particular Articles 99 and 100 thereof, Having regard to the proposal from the Commission, Having regard to the opinion of the European Parliament (1), Having regard to the opinion of the Economic and Social Committee (2), Whereas the practice of tax evasion and tax avoidance leads to budget losses and to violations of the principle of fair taxation and jeopardizes healthy competition ; whereas this therefore affects adversely the smooth running of the common market; Whereas, in order to combat this practice more effectively, cooperation between tax administrations within the Community should be strengthened in accordance with common principles and rules; Whereas, on 19 December 1977, the Council adopted Directive 77/799/EEC concerning mutual assistance by the competent authorities of the Member States in the field of direct taxation (3) ; whereas such mutual assistance should be extended to cover indirect taxes in order to ensure that these are correctly assessed and collected; Whereas, as a matter of particular urgency, mutual assistance must be extended to cover value added tax, both because it is a general tax on consumption and because it plays an important part in the Community's own resources system; Whereas the provisions of Directive 77/799/EEC are also suitable for value added tax, subject to certain amendments and additions ; whereas it is therefore sufficient to extend the scope of the said Directive, HAS ADOPTED THIS DIRECTIVE: Article 1 Directive 77/799/EEC is hereby amended as follows: 1. The title shall be replaced by the following: \"Council Directive of 19 December 1977 concerning mutual assistance by the competent authorities of the Member States in the fields of direct taxation and value added tax.\" 2. In Article 1: (a) Paragraph 1 shall be amended as follows: \"1. In accordance with the provisions of this Directive the competent authorities of the Member States shall exchange any information that may enable them to effect a correct assessment of taxes on income and capital and also of value added tax.\" (1)OJ No C 182, 31.7.1978, p. 46. (2)OJ No C 283, 27.11.1978, p. 28. (3)OJ No L 336, 27.12.1977, p. 15. (b) Paragraph 5, as regards the United Kingdom, shall be replaced by the following: \"in the United Kingdom: - The Commissioners of Customs and Excise or an authorized representative for information required solely for the purposes of value added tax, - The Commissioners of Inland Revenue or an authorized representative for all other information.\" Article 2 Member States shall bring into force the laws, regulations or administrative provisions necessary to comply with this Directive by 1 January 1981. Article 3 This Directive is addressed to the Member States. Done at Brussels, 6 December 1979. For the Council The President L. PRETI",
+      "text_sha256": "65c9d65886b9921c521bc45db91ee0d9ccf124ee32efc2b5b5049b9386a197bd",
+      "md_span": {
+        "start": 649,
+        "end": 4305
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

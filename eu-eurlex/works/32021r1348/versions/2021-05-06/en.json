@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r1348:2021-05-06",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2021/1348 of 6\u00A0May 2021 supplementing Regulation (EU) 2016/1011",
+  "valid_from": "2021-05-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r1348/versions/2021-05-06/en.xml",
+    "sha256": "52fb780c016cb7c13958731321663161e40cab136973dc3fcb6cddc8e4e93ec1",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1348"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r1348:2021-05-06#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nCompetent authorities may require changes to the compliance statement referred to in Article 26(3) of Regulation (EU) 2016/1011 where they consider that such statement is not clear about why the administrator concerned should be allowed not to comply with one or more of the requirements referred to in Article 26(1) of Regulation (EU) 2016/1011, and more particularly where there is a lack of clarity about:\n\n| (a) | the organisational structure of the administrator concerned and the conflicts of interest that may arise as a result of its structure; |\n| --- | --- |\n\n| (b) | the identification and management of conflicts of interest related to the employees of the administrator concerned, the persons whose services are placed at its disposal or under its control and the persons directly involved in the provision of the non-significant benchmark; |\n| --- | --- |\n\n| (c) | the process of oversight of the provision of the non-significant benchmark, taking into account the vulnerability of the benchmark concerned and the scale of the administrator’s organisation; |\n| --- | --- |\n\n| (d) | the control framework for the provision or publication of the non-significant benchmark or for making it available, including the administrator’s exposure to operational risk, business continuity risk or to the risk of disruption of the benchmark provision process. |\n| --- | --- |",
+      "text_sha256": "7c64775b8e2d07ee91977299a64688d526ce1aa7f99a6924d6cfcb5b3f73cc40",
+      "md_span": {
+        "start": 645,
+        "end": 2033
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r1348:2021-05-06#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nCompetent authorities may require changes to the compliance statement referred to in Article 26(3) of Regulation (EU) 2016/1011 where they consider that such statement is not clear about why the concerned administrator should not to comply with one or more of the requirements referred to in Article 26(1) of Regulation (EU) 2016/1011, and more particularly where there is a lack of clarity about:\n\n| (a) | the level of control over the provision of the input data and whether, taking into account the nature of the input data, that level of control is sufficient to ensure the accuracy, integrity and reliability of the input data; |\n| --- | --- |\n\n| (b) | the transparency of the procedures for consulting on any material change to the non-significant benchmark’s methodology, taking into account the complexity of that methodology and the nature of the input data used; |\n| --- | --- |\n\n| (c) | the process of reporting instances of manipulation or attempted manipulation of the non-significant benchmark, particularly in relation to the monitoring of input data and contributors; |\n| --- | --- |\n\n| (d) | where the non-significant benchmark is based on input data from contributors, the code of conduct and whether, taking into account the nature of the input data, it includes safeguards for the integrity of the input data used; |\n| --- | --- |\n\n| (e) | the capacity of the administrator to review and report on its compliance with the non-significant benchmark’s methodology and with Regulation (EU) 2016/1011; |\n| --- | --- |\n\n| (f) | where input data is contributed by a supervised contributor, whether that is done with appropriate controls to ensure the accuracy, integrity and reliability of the input data. |\n| --- | --- |",
+      "text_sha256": "44ddd2310f53c7fe090f2026275025bf8b8b0de98b66700d044da739132668af",
+      "md_span": {
+        "start": 2066,
+        "end": 3812
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32021r1348:2021-05-06#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2022.",
+      "text_sha256": "7bc379e4ce712a388229ed33b25c590054e28e02d6e50153bbe87b030bc6a61b",
+      "md_span": {
+        "start": 3845,
+        "end": 4033
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

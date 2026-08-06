@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r0432:2022-03-15",
+  "language": "en",
+  "title": "Council Implementing Regulation (EU) 2022/432 of 15\u00A0March 2022 amending Implementing Regul…",
+  "valid_from": "2022-03-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r0432/versions/2022-03-15/en.xml",
+    "sha256": "ce2d0c55c2b8e5969a558e7b4f5ae01487766a382156e16a02e010b49f99f4aa",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0432"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r0432:2022-03-15#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nImplementing Regulation (EU) No 282/2011 is amended as follows:\n\n| (1) | Annex II is replaced by the text appearing in Annex I to this Regulation; |\n| --- | --- |\n\n| (2) | Annex II is replaced by the text appearing in Annex II to this Regulation. |\n| --- | --- |",
+      "text_sha256": "1846784ae627542c7b5916b07d9d6e45d8d2bdbe60298d23ba30c4d2e23070cb",
+      "md_span": {
+        "start": 636,
+        "end": 909
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r0432:2022-03-15#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.\n\nArticle 1, point (1), shall apply until 30 June 2022.\n\nArticle 1, point (2), shall apply from 1 July 2022.",
+      "text_sha256": "698a1f645b69515cd977578bf67c96326fcdd414b28e741802fc05af3cd8ee52",
+      "md_span": {
+        "start": 942,
+        "end": 1176
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

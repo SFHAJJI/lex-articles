@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-2014-07-24-n1:2022-08-01'
-title: 'Version consolidée applicable au 01/08/2026 : Loi du 24 juillet 2014 concernant l''aide financière de l''Etat pour études supérieures.'
+title: 'Version consolidée applicable au 01/08/2022 : Loi du 24 juillet 2014 concernant l''aide financière de l''Etat pour études supérieures.'
 valid_from: '2022-08-01'
 valid_to: '2026-07-31'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/2014/07/24/n1/consolide/20220801/fr'

@@ -1,0 +1,82 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r0945:2023-01-17",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2023/945 of 17 January 2023 amending the regulatory t…",
+  "valid_from": "2023-01-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r0945/versions/2023-01-17/en.xml",
+    "sha256": "20493044c24c0b6faa5c042584b4085b31e0eae737ca3fac8aa0a0a6457becea",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0945"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r0945:2023-01-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nDelegated Regulation (EU) 2017/583 is amended as follows:\n\n| (1) | in Article 4, the following paragraph 4 is added:‘4. For the purposes of paragraph 2, point (a), the size of orders held in an order management facility shall be measured by the notional amount of the traded contracts as referred to in Annex II, table 2, field 10.’; |\n| --- | --- |\n\n| (2) | Article 12 is replaced by the following:‘Article 12Application of post-trade transparency to certain transactions executed outside a trading venue(Article 21(1) of Regulation (EU) No 600/2014)The obligations set out in Article 21(1) of Regulation (EU) No 600/2014 shall not apply to transactions listed in Article 2(5) of Commission Delegated Regulation (EU) 2017/590 (*1). |\n| --- | --- |\n\n| (3) | Article 13 is amended as follows:(a)in paragraph 5, the following subparagraph is added:‘The data referred to in the first subparagraph shall be collected in accordance with Annex V.’;(b)paragraphs 17 and 18 are replaced by the following:‘17. Competent authorities shall ensure the publication of the results of the calculations referred to under paragraph 5 for each financial instrument and class of financial instrument by 30 April of the year following the date of application of Regulation (EU) No 600/2014 and by 30 April of each year thereafter. The results of the calculations shall apply from the first Monday of June each year following publication until the day before the first Monday of June of the subsequent year.18. For the purposes of the calculations referred to in paragraph 1, point (b)(i) and by way of derogation from paragraphs 7, 15 and 17, competent authorities shall, in respect of bonds except ETCs and ETNs, ensure the publication of the calculations referred to under paragraph 5, point (a) on a quarterly basis, on the first Monday of February, May, August and November following the date of application of Regulation (EU) No 600/2014 and on the first Monday of February, May, August and November each year thereafter. The calculations shall include transactions executed in the Union during the preceding calendar quarter and shall apply from the third Monday of February, May, August and November each year until the calculations of the subsequent quarterly period apply.’; |\n| --- | --- |\n| (a) | in paragraph 5, the following subparagraph is added:‘The data referred to in the first subparagraph shall be collected in accordance with Annex V.’; |\n| (b) | paragraphs 17 and 18 are replaced by the following:‘17. Competent authorities shall ensure the publication of the results of the calculations referred to under paragraph 5 for each financial instrument and class of financial instrument by 30 April of the year following the date of application of Regulation (EU) No 600/2014 and by 30 April of each year thereafter. The results of the calculations shall apply from the first Monday of June each year following publication until the day before the first Monday of June of the subsequent year.18. For the purposes of the calculations referred to in paragraph 1, point (b)(i) and by way of derogation from paragraphs 7, 15 and 17, competent authorities shall, in respect of bonds except ETCs and ETNs, ensure the publication of the calculations referred to under paragraph 5, point (a) on a quarterly basis, on the first Monday of February, May, August and November following the date of application of Regulation (EU) No 600/2014 and on the first Monday of February, May, August and November each year thereafter. The calculations shall include transactions executed in the Union during the preceding calendar quarter and shall apply from the third Monday of February, May, August and November each year until the calculations of the subsequent quarterly period apply.’; |\n\n| (4) | Annex I is replaced by the text in Annex I to this Regulation; |\n| --- | --- |\n\n| (5) | Annex II is amended in accordance with Annex II to this Regulation; |\n| --- | --- |\n\n| (6) | Annex III is amended in accordance with Annex III to this Regulation; |\n| --- | --- |\n\n| (7) | Annex IV is amended in accordance with Annex IV to this Regulation; |\n| --- | --- |\n\n| (8) | The text set out in Annex V to this Regulation is added as Annex V. |\n| --- | --- |",
+      "text_sha256": "1b55621b04fe35e38197afe215baeb35d18c1734fc9cd33f868129d50ee9446e",
+      "md_span": {
+        "start": 636,
+        "end": 4876
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2023131EN.01001701-E0007",
+          "text": "(*1)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r0945:2023-01-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nArticle 12 of and Annex I, II and IV to Delegated Regulation (EU) 2017/583 as applicable on 31 December 2023 shall continue to apply to transactions executed before 1 January 2024.",
+      "text_sha256": "442fcda6de27f712bfe15f3078a92b7f72cd50b2d5f23e9896533b52444c2569",
+      "md_span": {
+        "start": 4909,
+        "end": 5100
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32023r0945:2023-01-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nArticle 1, points (2), (4), (5), and (7) shall apply from 1 January 2024.",
+      "text_sha256": "ecb893806dacfe528039336969df103c999af6f8e1265c1cd6fe83779bb54505",
+      "md_span": {
+        "start": 5133,
+        "end": 5359
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

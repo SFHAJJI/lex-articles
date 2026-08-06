@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_10": [
       {
@@ -115,5 +116,121 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_10": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "3bf012f06379b3b7038fbbf9c1ddcf019208c23414f19734b3e6646410c3fa9f",
+          "in_version": "lu-legilux:loi-1981-12-30-n1:2023-08-22",
+          "article_valid_from": "1982-01-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "8656ee663f14092b7b93311418ab5befa4c49699a5ae5ec26e53dd7ab9ed4ad0",
+          "in_version": "lu-legilux:loi-1981-12-30-n1:2023-08-22",
+          "article_valid_from": "1982-01-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_1er": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "c79a4886eeaf51c24b7a125693add39e69722fb3ed7c0dfe307cc0f760f99540",
+          "in_version": "lu-legilux:loi-1981-12-30-n1:2023-08-22",
+          "article_valid_from": "1982-01-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "438175ffa13675f350a769c0e5092f255343c115d8f8917d169435756eeecd41",
+          "in_version": "lu-legilux:loi-1981-12-30-n1:2023-08-22",
+          "article_valid_from": "2023-08-22"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "a8d9b1027ffac7bc09185354f924cde5d2f9a280d5deb2cad1c9d410ade43a4d",
+          "in_version": "lu-legilux:loi-1981-12-30-n1:2023-08-22",
+          "article_valid_from": "1982-01-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "877631d2775b325fbf8681231acb919f78b8c14e7a5b380b20651beeac530b11",
+          "in_version": "lu-legilux:loi-1981-12-30-n1:2023-08-22",
+          "article_valid_from": "1982-01-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "046ef85dd226120a190b1472c4e2f18eb4ee1c863cc28a3a3cff32e11ab54952",
+          "in_version": "lu-legilux:loi-1981-12-30-n1:2023-08-22",
+          "article_valid_from": "1982-01-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "0c6b261b255b0fd47fb7c33d2f66f3c2cd12ddc6d6e96a12bc306b9cd417bde5",
+          "in_version": "lu-legilux:loi-1981-12-30-n1:2023-08-22",
+          "article_valid_from": "1982-01-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "a080790de5f657116de32e1cd8c424322cb2faf5c3862640c214cd5da07e2ab7",
+          "in_version": "lu-legilux:loi-1981-12-30-n1:2023-08-22",
+          "article_valid_from": "1982-01-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "ad57395e57f83aff464f91606fc5cc54c21ba367385930b882ecd279a4a815b6",
+          "in_version": "lu-legilux:loi-1981-12-30-n1:2023-08-22",
+          "article_valid_from": "1982-01-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "1b242c7c983ca03adbec9f2bbfa7bd86d9f278040be57e11169aa90b1d939f68",
+          "in_version": "lu-legilux:loi-1981-12-30-n1:2023-08-22",
+          "article_valid_from": "1982-01-03",
+          "validity_conflict": true
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

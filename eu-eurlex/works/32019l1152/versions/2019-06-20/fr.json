@@ -1,0 +1,478 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019l1152:2019-06-20",
+  "language": "fr",
+  "title": "Directive (EU) 2019/1152",
+  "valid_from": "2019-06-20",
+  "valid_to": "2019-07-10",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019l1152/versions/2019-06-20/fr.xml",
+    "sha256": "1ebdc72d4e0f66ab5a3cd36d15966c03dcf73d2d2269fced4150d1c74b354389",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L1152"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. La présente directive a pour objectif d’améliorer les conditions de travail en favorisant un emploi plus transparent et plus prévisible tout en assurant la capacité d’adaptation du marché du travail.\n\n2. La présente directive établit des droits minimaux qui s’appliquent à tous les travailleurs dans l’Union qui sont liés par un contrat de travail ou une relation de travail au sens du droit, des conventions collectives ou de la pratique en vigueur dans chaque État membre, en tenant compte de la jurisprudence de la Cour de justice.\n\n3. Les États membres peuvent décider de ne pas appliquer les obligations prévues par la présente directive aux travailleurs ayant une relation de travail dans laquelle leur temps de travail prédéterminé et réel est inférieur ou égal à une moyenne de trois heures par semaine au cours d’une période de référence de quatre semaines consécutives. Le temps de travail effectué pour tous les employeurs formant la même entreprise, le même groupe ou la même entité ou appartenant à la même entreprise, au même groupe ou à la même entité est comptabilisé pour cette moyenne de trois heures.\n\n4. Le paragraphe 3 ne s’applique pas à une relation de travail dans laquelle aucun volume garanti de travail rémunéré n’est prédéterminé avant le début de l’activité.\n\n5. Les États membres peuvent déterminer quelles personnes sont responsables de l’exécution des obligations imposées aux employeurs par la présente directive, pour autant que toutes ces obligations soient remplies. Ils peuvent également décider que tout ou partie de ces obligations doivent être confiées à une personne physique ou morale qui n’est pas partie à la relation de travail.\n\nLe présent paragraphe s’entend sans préjudice de la directive 2008/104/CE du Parlement européen et du Conseil (14).\n\n6. Les États membres peuvent prévoir, en s’appuyant sur des motifs objectifs, que les dispositions du chapitre III ne doivent pas s’appliquer aux fonctionnaires, aux services d’urgence publics, aux forces armées, aux services de police, aux juges, aux procureurs, aux enquêteurs ou aux autres services chargés de l’application de la loi.\n\n7. Les États membres peuvent décider de ne pas appliquer les obligations prévues aux articles 12 et 13 et à l’article 15, paragraphe 1, point a), aux personnes physiques appartenant à des ménages qui agissent en qualité d’employeurs lorsque le travail est effectué pour ces ménages.\n\n8. Le chapitre II de la présente directive s’applique aux gens de mer et aux pêcheurs sans préjudice, respectivement, des directives 2009/13/CE et (UE) 2017/159. Les obligations prévues à l’article 4, paragraphe 2, points m) et o), et aux articles 7, 9, 10 et 12 ne s’appliquent pas aux gens de mer ou aux pêcheurs.",
+      "text_sha256": "0ac6a1c9083b98ae47585eef1751b9a89d6b264fd58201376669f725471e8d90",
+      "md_span": {
+        "start": 575,
+        "end": 3325
+      },
+      "citations": [
+        {
+          "href": "#ntr14-L_2019186FR.01010501-E0014",
+          "text": "(14)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins de la présente directive, on entend par:\n\na) «horaire de travail»: l’horaire déterminant les heures et les jours auxquels débute et se termine l’exécution du travail;\n\nb) «heures et jours de référence»: les plages horaires de jours déterminés durant lesquelles le travail peut être effectué à la demande de l’employeur;\n\nc) «rythme de travail»: la forme d’organisation du temps de travail et sa répartition selon un certain rythme déterminé par l’employeur.",
+      "text_sha256": "c908487e0cfb87ae92daf590f9b96490a46049794bf43c5a38389d9cca23211c",
+      "md_span": {
+        "start": 3358,
+        "end": 3835
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nL’employeur communique par écrit à chaque travailleur les informations requises en vertu de la présente directive. Ces informations sont communiquées et transmises sur papier ou, à condition que le travailleur y ait accès, qu’elles puissent être enregistrées et imprimées, et que l’employeur conserve un justificatif de la transmission et de la réception, sous format électronique.",
+      "text_sha256": "6cd26c72a63f80234ab1788be0492020712d328a611098571f279659296424f8",
+      "md_span": {
+        "start": 3868,
+        "end": 4260
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les États membres veillent à ce que les employeurs soient tenus d’informer les travailleurs des éléments essentiels de la relation de travail.\n\n2. Les informations visées au paragraphe 1 comprennent au moins les éléments suivants:\n\n| a) | l’identité des parties à la relation de travail; |\n| --- | --- |\n\n| b) | le lieu de travail; à défaut de lieu de travail fixe ou prédominant, le principe selon lequel le travailleur est employé à divers endroits ou est libre de déterminer son lieu de travail, ainsi que le siège de l’entreprise ou, le cas échéant, le domicile de l’employeur; |\n| --- | --- |\n\n| c) | soit:i)le titre, le grade, la qualité ou la catégorie d’emploi pour lesquels le travailleur est employé; soitii)la caractérisation ou la description sommaires du travail; |\n| --- | --- |\n| i) | le titre, le grade, la qualité ou la catégorie d’emploi pour lesquels le travailleur est employé; soit |\n| ii) | la caractérisation ou la description sommaires du travail; |\n\n| d) | la date de début de la relation de travail; |\n| --- | --- |\n\n| e) | dans le cas d’une relation de travail à durée déterminée, la date de fin ou la durée prévue de celle-ci; |\n| --- | --- |\n\n| f) | dans le cas des travailleurs intérimaires, l’identité des entreprises utilisatrices, lorsqu’elle est connue et aussitôt qu’elle l’est; |\n| --- | --- |\n\n| g) | la durée et les conditions de la période d’essai, le cas échéant; |\n| --- | --- |\n\n| h) | le droit à la formation octroyé par l’employeur, le cas échéant; |\n| --- | --- |\n\n| i) | la durée du congé payé auquel le travailleur a droit ou, si cette indication est impossible au moment de la délivrance de l’information, les modalités d’attribution et de détermination de ce congé; |\n| --- | --- |\n\n| j) | en cas de cessation de leur relation de travail, la procédure à observer par l’employeur et le travailleur, y compris les conditions de forme et les délais de préavis, ou, si la durée des délais de préavis ne peut être indiquée au moment de la délivrance de l’information, les modalités de détermination de ces délais de préavis; |\n| --- | --- |\n\n| k) | la rémunération, y compris le montant de base initial, tous les autres éléments constitutifs, le cas échéant, indiqués séparément, ainsi que la périodicité et la méthode de versement de la rémunération à laquelle le travailleur a droit; |\n| --- | --- |\n\n| l) | si le rythme de travail est entièrement ou majoritairement prévisible, la durée de la journée ou semaine de travail normale du travailleur et toute modalité concernant les heures supplémentaires et leur rémunération ainsi que, le cas échéant, toute modalité concernant les changements d’équipe; |\n| --- | --- |\n\n| m) | si le rythme de travail est entièrement ou majoritairement imprévisible, l’employeur informe le travailleur de ce qui suit:i)le principe selon lequel l’horaire de travail est variable, le nombre d’heures rémunérées garanties et la rémunération du travail effectué au-delà de ces heures garanties;ii)les heures et jours de référence durant lesquels le travailleur peut être appelé à travailler;iii)le délai de prévenance minimal auquel le travailleur a droit avant le début d’une tâche et, le cas échéant, le délai d’annulation de cette tâche, visé à l’article 10, paragraphe 3; |\n| --- | --- |\n| i) | le principe selon lequel l’horaire de travail est variable, le nombre d’heures rémunérées garanties et la rémunération du travail effectué au-delà de ces heures garanties; |\n| ii) | les heures et jours de référence durant lesquels le travailleur peut être appelé à travailler; |\n| iii) | le délai de prévenance minimal auquel le travailleur a droit avant le début d’une tâche et, le cas échéant, le délai d’annulation de cette tâche, visé à l’article 10, paragraphe 3; |\n\n| n) | toutes les conventions collectives régissant les conditions de travail du travailleur ou, s’il s’agit de conventions collectives conclues en dehors de l’entreprise par des organes ou institutions paritaires particuliers, le nom de ces organes ou institutions au sein desquels elles ont été conclues; |\n| --- | --- |\n\n| o) | lorsque cela incombe à l’employeur, l’identité du ou des organismes de sécurité sociale percevant les cotisations sociales liées à la relation de travail et toute protection en matière de sécurité sociale fournie par l’employeur. |\n| --- | --- |\n\n3. Les informations visées au paragraphe 2, points g) à l) et point o), peuvent, le cas échéant, résulter d’une référence aux dispositions législatives, réglementaires, administratives ou statutaires ou aux conventions collectives régissant ces points.",
+      "text_sha256": "1ad5c75c6ac31e2e2869d87f120b1b747d77f8882ac7789eb93a708fe7eb3c0a",
+      "md_span": {
+        "start": 4293,
+        "end": 8883
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Lorsqu’elles n’ont pas été communiquées préalablement, les informations visées à l’article 4, paragraphe 2, points a) à e), g), k), l) et m), sont fournies individuellement au travailleur sous la forme d’un ou de plusieurs documents au cours d’une période débutant le premier jour de travail et se terminant le septième jour calendaire au plus tard. Les autres informations visées à l’article 4, paragraphe 2, sont fournies individuellement au travailleur sous la forme d’un document dans un délai d’un mois à compter du premier jour de travail.\n\n2. Les États membres peuvent élaborer des documents types et des modèles pour les documents visés au paragraphe 1 et les mettre à la disposition du travailleur et de l’employeur, notamment sur un site internet national officiel unique ou par d’autres moyens appropriés.\n\n3. Les États membres veillent à ce que les informations relatives aux dispositions législatives, réglementaires, administratives ou statutaires ou aux conventions collectives d’application générale régissant le cadre juridique applicable qui doivent être communiquées par les employeurs soient mises gratuitement à la disposition de tous, d’une manière claire, transparente, complète et facilement accessible, à distance et par voie électronique, y compris par l’intermédiaire des portails en ligne.",
+      "text_sha256": "a00464c84eec5cd02ec93a398e258de22865e3fce72d866a95ccf90ea8065a59",
+      "md_span": {
+        "start": 8916,
+        "end": 10247
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Les États membres veillent à ce que toute modification apportée aux éléments de la relation de travail visés à l’article 4, paragraphe 2, ainsi qu’aux informations complémentaires pour les travailleurs envoyés dans un autre État membre ou dans un pays tiers visées à l’article 7 soit communiquée par l’employeur au travailleur sous la forme d’un document dans les plus brefs délais et au plus tard à la date à laquelle elle prend effet.\n\n2. Le document visé au paragraphe 1 ne s’applique pas aux modifications qui traduisent simplement une modification des dispositions législatives, réglementaires, administratives ou statutaires ou des conventions collectives auxquelles font référence les documents visés à l’article 5, paragraphe 1, et, le cas échéant, à l’article 7.",
+      "text_sha256": "be9b26b5e5633712f3d1797fb0fea27a85975ac35ea3d36e796dac692ca0b2c2",
+      "md_span": {
+        "start": 10280,
+        "end": 11065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Lorsqu’un travailleur est appelé à travailler dans un État membre ou un pays tiers autre que l’État membre dans lequel il travaille habituellement, les États membres veillent à ce que l’employeur lui communique avant qu’il ne parte les documents visés à l’article 5, paragraphe 1, lesquels doivent comporter au moins les informations supplémentaires suivantes:\n\n| a) | le ou les pays dans lesquels le travail à l’étranger doit être effectué et sa durée prévue; |\n| --- | --- |\n\n| b) | la devise servant au paiement de la rémunération; |\n| --- | --- |\n\n| c) | le cas échéant, les avantages en espèces ou en nature liés à la ou aux tâches; |\n| --- | --- |\n\n| d) | des renseignements indiquant si le rapatriement est organisé et, s’il l’est, les conditions de rapatriement du travailleur. |\n| --- | --- |\n\n2. Les États membres veillent à ce qu’un travailleur détaché relevant de la directive 96/71/CE soit en outre informé:\n\n| a) | de la rémunération à laquelle il a droit en vertu du droit applicable de l’État membre d’accueil; |\n| --- | --- |\n\n| b) | le cas échéant, des allocations propres au détachement et des modalités de remboursement des dépenses de voyage, de logement et de nourriture; |\n| --- | --- |\n\n| c) | du lien vers le site internet national officiel unique mis en place par l’État membre d’accueil conformément à l’article 5, paragraphe 2, de la directive 2014/67/UE du Parlement européen et du Conseil (15). |\n| --- | --- |\n\n3. Les informations visées au paragraphe 1, point b), et au paragraphe 2, point a), peuvent, le cas échéant, résulter d’une référence aux dispositions spécifiques des actes législatifs, réglementaires, administratifs ou statutaires ou aux conventions collectives régissant ces informations.\n\n4. À moins que les États membres n’en disposent autrement, les paragraphes 1 et 2 ne s’appliquent pas si la durée de chaque période de travail en dehors de l’État membre dans lequel le travailleur travaille habituellement est de quatre semaines consécutives ou moins.",
+      "text_sha256": "6c77b6aed4b74eda316db056a494e8a6f16797244fb65301f27fa122e5c56501",
+      "md_span": {
+        "start": 11098,
+        "end": 13113
+      },
+      "citations": [
+        {
+          "href": "#ntr15-L_2019186FR.01010501-E0015",
+          "text": "(15)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Les États membres veillent à ce que, lorsque la relation de travail fait l’objet d’une période d’essai telle qu’elle est définie dans le droit national ou la pratique nationale, cette période n’excède pas six mois.\n\n2. En cas de relation de travail à durée déterminée, les États membres veillent à ce que la durée de la période d’essai soit proportionnée à la durée prévue du contrat et à la nature du travail. En cas de reconduction d’un contrat pour les mêmes fonctions et tâches, la relation de travail n’est pas soumise à une nouvelle période d’essai.\n\n3. Les États membres peuvent, à titre exceptionnel, prévoir des périodes d’essai plus longues lorsque la nature de l’emploi le justifie ou lorsque cela est dans l’intérêt du travailleur. Lorsque le travailleur a été absent durant la période d’essai, les États membres peuvent prévoir la possibilité de prolonger cette période d’essai pour une période correspondant à la durée de l’absence.",
+      "text_sha256": "e58dec899f6fbedcbbf919111054e166a0d3ea8da5c984b355389070f3c2b143",
+      "md_span": {
+        "start": 13146,
+        "end": 14106
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Les États membres veillent à ce qu’un employeur n’interdise pas à un travailleur d’exercer un emploi auprès d’autres employeurs, en dehors de l’horaire de travail établi avec cet employeur, et qu’il ne le soumette pas à un traitement défavorable pour cette raison.\n\n2. Les États membres peuvent fixer des conditions relatives aux recours par les employeurs à des restrictions pour incompatibilité pour des motifs objectifs, tels que la santé et la sécurité, la protection de la confidentialité des affaires, l’intégrité de la fonction publique ou la prévention de conflits d’intérêts.",
+      "text_sha256": "b5531c23017376b2215e02894972096b21dad3dde8996a875b3257ce168aaf63",
+      "md_span": {
+        "start": 14139,
+        "end": 14737
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Les États membres veillent à ce que, lorsque le rythme de travail d’un travailleur est entièrement ou majoritairement imprévisible, celui-ci ne puisse être obligé de travailler par l’employeur que si les deux conditions suivantes sont remplies:\n\n| a) | le travail s’effectue durant des heures et jours de référence prédéterminés tels qu’ils sont visés à l’article 4, paragraphe 2, point m) ii); et |\n| --- | --- |\n\n| b) | le travailleur est prévenu par son employeur d’une tâche avec un délai de prévenance raisonnable, établi conformément au droit national, aux conventions collectives ou à la pratique nationales, et visé à l’article 4, paragraphe 2, point m) iii). |\n| --- | --- |\n\n2. Dès lors que l’une des deux exigences fixées au paragraphe 1 n’est pas remplie, le travailleur a le droit de refuser une tâche sans s’exposer à des conséquences défavorables.\n\n3. Lorsqu’ils autorisent un employeur à annuler une tâche sans compensation, les États membres prennent les mesures nécessaires, conformément au droit national, aux conventions collectives ou à la pratique nationales, pour garantir que, si l’employeur annule, après l’expiration d’un délai raisonnable donné, la tâche déjà convenue avec le travailleur, celui-ci ait droit à une compensation.\n\n4. Les États membres peuvent fixer les modalités d’application du présent article, conformément au droit national, aux conventions collectives ou à la pratique nationales.",
+      "text_sha256": "f318e57c2d68d7d788734f4908c3b74545eddf417ae19592e6a7b2ea5f17df00",
+      "md_span": {
+        "start": 14772,
+        "end": 16215
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nLorsque les États membres autorisent le recours à des contrats à la demande ou à des contrats de travail similaires, ils prennent une ou plusieurs des mesures suivantes pour éviter les pratiques abusives:\n\n| a) | limitation du recours et de la durée des contrats de travail à la demande ou similaires; |\n| --- | --- |\n\n| b) | présomption réfragable de l’existence d’un contrat de travail comprenant un nombre minimum d’heures payées sur la base de la moyenne d’heures travaillées pendant une période donnée; |\n| --- | --- |\n\n| c) | autres mesures équivalentes permettant d’éviter efficacement les pratiques abusives. |\n| --- | --- |\n\nLes États membres informent la Commission de ces mesures.",
+      "text_sha256": "832588a1849a820c1494fd51820959886bcedae37ff3925cc6508730a9e9e40f",
+      "md_span": {
+        "start": 16250,
+        "end": 16953
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Les États membres veillent à ce qu’un travailleur travaillant depuis au moins six mois au service du même employeur, ayant accompli sa période d’essai, le cas échéant, puisse demander une forme d’emploi comportant des conditions de travail plus prévisibles et plus sûres, lorsqu’elle existe, et recevoir une réponse motivée par écrit. Les États membres peuvent limiter la fréquence des demandes qui déclenchent l’obligation au titre du présent article.\n\n2. Les États membres veillent à ce que l’employeur fournisse la réponse motivée par écrit visée au paragraphe 1 dans un délai d’un mois à compter de la demande. En ce qui concerne les personnes physiques agissant en qualité d’employeurs et les micro, petites ou moyennes entreprises, les États membres peuvent prévoir que ce délai soit porté à trois mois au maximum et permettre qu’une réponse orale soit donnée à une demande ultérieure similaire présentée par le même travailleur si la justification de la réponse en ce qui concerne la situation du travailleur demeure inchangée.",
+      "text_sha256": "073b8af8c2b82ee0ebea62f9ddbecdb472e5404dba8964c76ed19111d414de08",
+      "md_span": {
+        "start": 16988,
+        "end": 18037
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nLes États membres veillent à ce que, lorsqu’un employeur est tenu, par le droit national ou de l’Union ou les conventions collectives, de fournir une formation à un travailleur pour l’exécution du travail pour lequel il est engagé, cette formation soit fournie gratuitement au travailleur, soit considérée comme du temps de travail et soit organisée, dans la mesure du possible, pendant les heures de travail.",
+      "text_sha256": "79f483eab85bd350b1e30b27d6cf2d2b89983ffb0ef9921944676571b0e84499",
+      "md_span": {
+        "start": 18072,
+        "end": 18493
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nLes États membres peuvent autoriser les partenaires sociaux à conserver, négocier, conclure et appliquer des conventions collectives, conformément au droit national ou à la pratique nationale, qui, tout en respectant la protection globale des travailleurs, établissent des modalités concernant les conditions de travail des travailleurs qui diffèrent de celles visées aux articles 8 à 13.",
+      "text_sha256": "bad1394c3ad0f5a4fbbb8700e0717f580d4e447ed3ef529271f97d785d40e015",
+      "md_span": {
+        "start": 18528,
+        "end": 18928
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Les États membres veillent à ce que, lorsqu’un travailleur n’a pas reçu dans le délai prescrit tout ou partie des documents visés à l’article 5, paragraphe 1, ou à l’article 6, au moins l’un des mécanismes suivants s’applique:\n\n| a) | le travailleur bénéficie de présomptions favorables définies par l’État membre, que les employeurs ont la possibilité de réfuter; |\n| --- | --- |\n\n| b) | le travailleur a la possibilité d’introduire une plainte auprès d’une autorité ou d’un organisme compétent et de disposer d’une voie de recours adéquate en temps utile et de manière efficace. |\n| --- | --- |\n\n2. Les États membres peuvent prévoir que l’application des présomptions et des mécanismes visés au paragraphe 1 est subordonnée à la notification à l’employeur et à sa défaillance à fournir les informations manquantes en temps utile.",
+      "text_sha256": "d11eebd9f91af33ef1c0ac03210885e5988535813c5bcaf8947b4eb04a337ac1",
+      "md_span": {
+        "start": 18963,
+        "end": 19809
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\nLes États membres veillent à ce que les travailleurs, y compris ceux dont la relation de travail a pris fin, aient accès à un système de règlement des litiges efficace et impartial et bénéficient d’un droit de recours en cas de violation de leurs droits découlant de la présente directive.",
+      "text_sha256": "409ae32c3add94a4e79e9872ee9ddbb8d087853f3e14f567054a0f8c7907cb06",
+      "md_span": {
+        "start": 19844,
+        "end": 20145
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nLes États membres mettent en œuvre les mesures nécessaires pour protéger les travailleurs, y compris ceux qui sont des représentants des travailleurs, de tout traitement défavorable par l’employeur ou de toutes conséquences défavorables résultant d’une réclamation déposée auprès de l’employeur ou découlant de toute procédure engagée dans le but de faire respecter les droits prévus par la présente directive.",
+      "text_sha256": "f89665d0b48105fb839559041add8793114f2b10e99c54c6eb3b5de6ec0b29d2",
+      "md_span": {
+        "start": 20180,
+        "end": 20602
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Les États membres prennent les mesures nécessaires pour interdire le licenciement de travailleurs ou son équivalent, ainsi que tous préparatifs en vue du licenciement, au motif que ces travailleurs ont exercé les droits prévus par la présente directive.\n\n2. Les travailleurs qui considèrent qu’ils ont été licenciés ou ont fait l’objet de mesures d’effet équivalent au motif qu’ils ont exercé les droits prévus par la présente directive peuvent demander à leur employeur de dûment justifier le licenciement ou les mesures équivalentes. L’employeur fournit ces motifs par écrit.\n\n3. Les États membres prennent les mesures nécessaires pour que, lorsque les travailleurs visés au paragraphe 2 établissent, devant une juridiction ou un autre organisme ou autorité compétent, des faits laissant présumer qu’un tel licenciement ou des mesures équivalentes a eu lieu, il appartienne à l’employeur de prouver que le licenciement était fondé sur d’autres motifs que ceux visés au paragraphe 1.\n\n4. Le paragraphe 3 n’empêche pas les États membres d’adopter des règles de la preuve plus favorables aux travailleurs.\n\n5. Les États membres ne sont pas tenus d’appliquer le paragraphe 3 aux procédures dans lesquelles l’instruction des faits incombe à la juridiction ou à l’autre autorité ou organisme compétent.\n\n6. Le paragraphe 3 ne s’applique pas aux procédures pénales, sauf si l’État membre en dispose autrement.",
+      "text_sha256": "824fb64620f4bebeaa585fa810726efe711988295d591851e8d29b8150c6ff41",
+      "md_span": {
+        "start": 20637,
+        "end": 22056
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\nLes États membres établissent les règles en matière de sanctions applicables en cas d’infraction aux dispositions nationales découlant de la présente directive ou aux dispositions pertinentes déjà en vigueur concernant les droits qui relèvent de la présente directive. Les sanctions prévues sont effectives, proportionnées et dissuasives.",
+      "text_sha256": "a434ed68daf79772feb25f6e9118d89331e1595722f5240088434ef21fdd03f2",
+      "md_span": {
+        "start": 22091,
+        "end": 22441
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. La présente directive ne constitue pas une justification valable pour la régression du niveau général de protection déjà accordé aux travailleurs dans les États membres.\n\n2. La présente directive ne porte pas atteinte à la faculté des États membres d’appliquer ou d’introduire des dispositions législatives, réglementaires ou administratives plus favorables aux travailleurs, ou de favoriser ou de permettre l’application de conventions collectives qui sont plus favorables aux travailleurs.\n\n3. La présente directive s’applique sans préjudice de tous les autres droits accordés aux travailleurs par d’autres actes juridiques de l’Union.",
+      "text_sha256": "af3a568e7333c9ccf3177d7391404c007dd8293030c275823b25c3aa30a8e36f",
+      "md_span": {
+        "start": 22476,
+        "end": 23128
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. Les États membres prennent les mesures nécessaires pour se conformer à la présente directive au plus tard le 1er août 2022. Ils en informent immédiatement la Commission.\n\n2. Lorsque les États membres adoptent les mesures visées au paragraphe 1, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n3. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine régi par la présente directive.\n\n4. Les États membres, conformément à leur droit national et à leur pratique nationale, prennent les mesures appropriées pour garantir la participation effective des partenaires sociaux et favoriser et améliorer le dialogue social en vue de la mise en œuvre de la présente directive.\n\n5. Les États membres peuvent charger les partenaires sociaux de la mise en œuvre de la présente directive, si ceux-ci le demandent conjointement, sous réserve de prendre toutes les mesures nécessaires leur permettant de garantir à tout moment la réalisation des résultats escomptés dans le cadre de la présente directive.",
+      "text_sha256": "7bcbc2058eaf53f84fd572887ed77df6363443a1984889f20f326133d8b32a58",
+      "md_span": {
+        "start": 23163,
+        "end": 24410
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\nLes droits et obligations prévus par la présente directive s’appliquent à toutes les relations de travail au plus tard le 1er août 2022. Toutefois, un employeur fournit ou complète les documents visés à l’article 5, paragraphe 1, et aux articles 6 et 7 uniquement à la demande d’un travailleur déjà employé à cette date. L’absence d’une telle demande n’a pas pour effet de priver un travailleur des droits minimaux établis aux articles 8 à 13.",
+      "text_sha256": "746612424d950a8979abcc34f63b3d1008f95903e723a369fefa534f4ae965c6",
+      "md_span": {
+        "start": 24445,
+        "end": 24900
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\nAu plus tard le 1er août 2027, la Commission examine, après consultation des États membres et des partenaires sociaux au niveau de l’Union et en tenant compte de l’incidence sur les micro, petites et moyennes entreprises, la mise en œuvre de la présente directive et propose, le cas échéant, des modifications législatives.",
+      "text_sha256": "04e7efbf8a66ac7f769c9531d70b97b4872661d65adfd30eb86ec46d3eeb1c96",
+      "md_span": {
+        "start": 24935,
+        "end": 25270
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nLa directive 91/533/CEE est abrogée avec effet au 1er août 2022. Les références faites à la directive abrogée s’entendent comme faites à la présente directive.",
+      "text_sha256": "1375e67b9c9b612fb924ab71f0c5e8badf503e162a10050d52c5ed0dfafceff0",
+      "md_span": {
+        "start": 25305,
+        "end": 25476
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\nLa présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "d16d6bbdff8ede2e57ad7559ff980512dac622c7675e0e448d4dee1a8fc29426",
+      "md_span": {
+        "start": 25511,
+        "end": 25654
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32019l1152:2019-06-20#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "344af92f28cbb17417b950f3470fbcc18573b3907178a8db135702d2cf73bd4d",
+      "md_span": {
+        "start": 25689,
+        "end": 25763
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

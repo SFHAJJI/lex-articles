@@ -1,0 +1,213 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0847:2025-05-06",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2025/847 of 6\u00A0May 2025 laying down rules for the application of Regulation (EU) No\u00A0910/2014",
+  "valid_from": "2025-05-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0847/versions/2025-05-06/fr.xml",
+    "sha256": "bf721275d44379be4ec87de262b81c4bacfc823226abb0634068b400767f00ec",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0847"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0847:2025-05-06#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe présent règlement établit les règles applicables en ce qui concerne les réactions aux atteintes à la sécurité des portefeuilles, des mécanismes de validation visés à l’article 5 bis, paragraphe 8, du règlement (UE) no 910/2014 et du schéma d’identification électronique dans le cadre duquel les portefeuilles sont fournis.",
+      "text_sha256": "10fc710955c6780378f2cd031c1ebb298a5ece85fd487d86736e4acc3018a5a2",
+      "md_span": {
+        "start": 676,
+        "end": 1018
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0847:2025-05-06#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins du présent règlement, on entend par:\n\n| 1) | «solution de portefeuille»: une combinaison de logiciels, de matériel, de services, de paramètres et de configurations, y compris des instances de portefeuille, une ou plusieurs applications cryptographiques sécurisées de portefeuille et un ou plusieurs dispositifs cryptographiques sécurisés de portefeuille; |\n| --- | --- |\n\n| 2) | «utilisateur de portefeuille»: un utilisateur qui contrôle l’unité de portefeuille; |\n| --- | --- |\n\n| 3) | «partie utilisatrice de portefeuille»: une partie utilisatrice qui a l’intention de se fier à des unités de portefeuille pour fournir des services publics ou privés au moyen d’une interaction numérique; |\n| --- | --- |\n\n| 4) | «instance de portefeuille»: l’application installée et configurée sur l’appareil ou dans l’environnement d’un utilisateur de portefeuille, qui fait partie d’une unité de portefeuille et dont l’utilisateur de portefeuille se sert pour interagir avec l’unité de portefeuille; |\n| --- | --- |\n\n| 5) | «application cryptographique sécurisée de portefeuille»: une application qui gère des actifs critiques en étant liée aux fonctions cryptographiques et non cryptographiques fournies par le dispositif cryptographique sécurisé de portefeuille et en utilisant ces fonctions; |\n| --- | --- |\n\n| 6) | «dispositif cryptographique sécurisé de portefeuille»: un dispositif inviolable qui fournit un environnement lié à l’application cryptographique sécurisée de portefeuille et utilisé par celle-ci pour protéger les actifs critiques et fournir des fonctions cryptographiques pour l’exécution sécurisée d’opérations critiques; |\n| --- | --- |\n\n| 7) | «fournisseur de portefeuille»: une personne physique ou morale qui fournit des solutions de portefeuille; |\n| --- | --- |\n\n| 8) | «unité de portefeuille»: une configuration unique d’une solution de portefeuille comprenant des instances de portefeuille, des applications cryptographiques sécurisées de portefeuille et des dispositifs cryptographiques sécurisés de portefeuille, fournie par un fournisseur de portefeuille à un utilisateur de portefeuille donné; |\n| --- | --- |\n\n| 9) | «actifs critiques»: les actifs se trouvant à l’intérieur d’une unité de portefeuille ou en rapport avec celle-ci et dont l’importance est tellement exceptionnelle que la capacité de se fier à l’unité de portefeuille serait très sérieusement affaiblie si leur disponibilité, leur confidentialité ou leur intégrité étaient compromises; |\n| --- | --- |\n\n| 10) | «attestation d’unité de portefeuille»: un objet de données qui décrit les composants de l’unité de portefeuille ou permet l’authentification et la validation de ces composants. |\n| --- | --- |",
+      "text_sha256": "0f3c169e500bcd918e0a10908db22ecc67bc54295d58e12f0ea47f102bfb9716",
+      "md_span": {
+        "start": 1051,
+        "end": 3760
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0847:2025-05-06#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Sans préjudice de la directive (UE) 2022/2555 et des règlements (UE) 2019/881 et (UE) 2024/2847, les États membres tiennent dûment compte des critères énoncés à l’annexe I afin d’évaluer si une atteinte à la sécurité ou une compromission d’une solution de portefeuille, des mécanismes de validation visés à l’article 5 bis, paragraphe 8, du règlement (UE) no 910/2014 ou du schéma d’identification électronique dans le cadre duquel la solution de portefeuille est fournie affecte la fiabilité de cette solution, de ces mécanismes ou de ce schéma, ou la fiabilité d’autres solutions de portefeuille.\n\n2. Lorsqu’un État membre constate, sur la base de l’évaluation prévue au paragraphe 1, qu’une atteinte à la sécurité ou une compromission affecte la fiabilité d’une solution de portefeuille et qu’il suspend la fourniture et l’utilisation de cette solution, il prend les mesures énoncées aux articles 4 et 5. Lorsqu’un État membre retire la solution de portefeuille, il prend les mesures énoncées aux articles 8 et 9.\n\n3. Lorsqu’un État membre a connaissance d’informations relatives à une éventuelle atteinte à la sécurité ou à une éventuelle compromission susceptible d’affecter la fiabilité d’une ou de plusieurs solutions de portefeuille fournies par un autre État membre, il en informe sans retard injustifié la Commission et les points de contact uniques des États membres affectés, désignés conformément à l’article 46 quater, paragraphe 1, du règlement (UE) no 910/2014. Pour ce faire, il communique les informations mentionnées à l’article 5, paragraphe 2.\n\n4. L’État membre qui reçoit des informations fournies conformément au paragraphe 3 prend les mesures énoncées aux paragraphes 1 et 2 sans retard injustifié.",
+      "text_sha256": "1e67748a1e38e4b8b1132c5d9269d66ff719e1c7a4e5c692b759be14f59f3fb5",
+      "md_span": {
+        "start": 3793,
+        "end": 5529
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0847:2025-05-06#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les États membres veillent à ce qu’aucune unité de portefeuille ne soit fournie, utilisée ou activée dans le cadre de la solution de portefeuille suspendue.\n\n2. Les États membres évaluent la nécessité de révoquer des attestations d’unité de portefeuille des unités de portefeuille concernées par la suspension d’une solution de portefeuille, ou de prendre toute autre mesure correctrice supplémentaire, pour réagir de manière adéquate à l’atteinte à la sécurité ou à la compromission.\n\n3. Les mesures énoncées aux paragraphes 1 et 2 sont prises sans retard injustifié et, en tout état de cause, au plus tard 24 heures après la suspension de la fourniture et de l’utilisation de la solution de portefeuille ayant subi une atteinte à la sécurité ou une compromission.\n\n4. Les mesures énoncées aux paragraphes 1 et 2 n’empêchent pas les utilisateurs de portefeuille affectés d’exercer leur droit à la portabilité des données établi à l’article 5 bis, paragraphe 4, point g), du règlement (UE) no 910/2014, à condition que ce droit puisse être exercé par les utilisateurs de portefeuille sans compromettre la sécurité des actifs critiques des unités de portefeuille affectées, compte tenu notamment des raisons de la suspension et de la nécessité d’assurer une protection efficace de ces actifs contre toute utilisation abusive.",
+      "text_sha256": "0bea403c454df7264593a0e78dfccb7c30e218dec40cef23ff5ed0defa9cdc92",
+      "md_span": {
+        "start": 5562,
+        "end": 6900
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0847:2025-05-06#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Des informations concernant la suspension de la fourniture et de l’utilisation d’une solution de portefeuille sont fournies d’une manière claire, complète et facilement accessible, sans retard injustifié et au plus tard 24 heures après cette suspension:\n\n| a) | aux points de contact uniques désignés conformément à l’article 46 quater, paragraphe 1, du règlement (UE) no 910/2014; |\n| --- | --- |\n\n| b) | à la Commission; |\n| --- | --- |\n\n| c) | aux utilisateurs de portefeuille affectés; |\n| --- | --- |\n\n| d) | aux parties utilisatrices de portefeuille enregistrées conformément à l’article 5 ter du règlement (UE) no 910/2014. |\n| --- | --- |\n\n2. Les informations fournies conformément au paragraphe 1 incluent au moins les éléments suivants:\n\n| a) | le nom du fournisseur de la solution de portefeuille dont la fourniture et l’utilisation ont été suspendues; |\n| --- | --- |\n\n| b) | le nom et l’identifiant de référence de cette solution de portefeuille, tels qu’ils figurent sur la liste des portefeuilles certifiés établie conformément à l’article 5 quinquies du règlement (UE) no 910/2014 et, le cas échéant, les versions concernées; |\n| --- | --- |\n\n| c) | la date et l’heure auxquelles l’atteinte à la sécurité ou la compromission a été détectée; |\n| --- | --- |\n\n| d) | si elles sont connues, la date et l’heure auxquelles l’atteinte à la sécurité ou la compromission est devenue effective, sur la base des journaux du réseau ou du système ou d’autres sources de données; |\n| --- | --- |\n\n| e) | la date et l’heure de la suspension de la solution de portefeuille; |\n| --- | --- |\n\n| f) | les coordonnées, y compris au moins une adresse électronique et un numéro de téléphone, de l’État membre notifiant et, si elles sont différentes, du fournisseur de portefeuille visé au point a); |\n| --- | --- |\n\n| g) | une description de l’atteinte à la sécurité ou de la compromission; |\n| --- | --- |\n\n| h) | une description des données compromises, y compris, le cas échéant, les catégories de données à caractère personnel définies à l’article 9, paragraphe 1, et à l’article 10 du règlement (UE) 2016/679; |\n| --- | --- |\n\n| i) | dans la mesure du possible, une estimation du nombre approximatif d’utilisateurs de portefeuille et d’autres personnes physiques affectés; |\n| --- | --- |\n\n| j) | une description des incidences potentielles sur les parties utilisatrices de portefeuille ou sur les utilisateurs de portefeuille et, dans ce dernier cas, si nécessaire, une indication des mesures que les utilisateurs de portefeuille peuvent prendre pour atténuer ces incidences potentielles; |\n| --- | --- |\n\n| k) | une description des mesures prises ou prévues pour remédier à l’atteinte à la sécurité ou à la compromission, ainsi qu’un calendrier et un délai pour cette remédiation; |\n| --- | --- |\n\n| l) | le cas échéant et s’il y a lieu, une description des mesures prises ou prévues pour faire migrer les utilisateurs de portefeuille affectés vers d’autres solutions de portefeuille ou services. |\n| --- | --- |",
+      "text_sha256": "f11400a4fbe45787860afa15cbe367f05d4afb615845313dead91ec85c7d4c1e",
+      "md_span": {
+        "start": 6933,
+        "end": 9961
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r0847:2025-05-06#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLorsque cela est nécessaire pour rétablir la fourniture, l’activation et l’utilisation d’une solution de portefeuille, les États membres procèdent, sans retard injustifié;\n\n| 1) | au rétablissement de la fourniture et de l’utilisation des unités de portefeuille fournies dans le cadre de cette solution de portefeuille en délivrant à tous les utilisateurs affectés une unité de portefeuille fournie dans le cadre d’une nouvelle version de cette solution de portefeuille; |\n| --- | --- |\n\n| 2) | à la délivrance de nouvelles attestations d’unité de portefeuille à de nouvelles unités de portefeuille ou, le cas échéant, à des unités de portefeuille précédemment délivrées, à condition que ces unités de portefeuille satisfassent aux exigences de sécurité en vigueur après qu’il a été remédié à l’atteinte à la sécurité ou à la compromission; |\n| --- | --- |\n\n| 3) | à l’abrogation de toute mesure mise en œuvre conformément à l’article 4 et empêchant la fourniture de nouvelles unités de portefeuille dans le cadre de la solution de portefeuille affectée, lorsque cette mesure était uniquement liée à l’atteinte à la sécurité ou à la compromission ayant fait l’objet d’une remédiation. |\n| --- | --- |",
+      "text_sha256": "3e5594787430789db4ece2544b2827fe2fe252eaa2e7fb61f6495b271f24a9bd",
+      "md_span": {
+        "start": 9994,
+        "end": 11205
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32025r0847:2025-05-06#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nLorsqu’un État membre rétablit une solution de portefeuille, il veille à ce que:\n\n| 1) | toutes les parties ayant reçu des informations sur la suspension de la fourniture et de l’utilisation de cette solution de portefeuille conformément à l’article 5, paragraphe 1, en soient informées sans retard injustifié; |\n| --- | --- |\n\n| 2) | les informations fournies conformément au point 1) comprennent au moins les éléments énumérés à l’article 5, paragraphe 2, points a), b) et f) à h), ainsi que les éléments suivants:a)la date et l’heure auxquelles il a été remédié à l’atteinte à la sécurité ou à la compromission;b)la date et l’heure du rétablissement de la solution de portefeuille affectée et, le cas échéant, des unités de portefeuille affectées fournies dans le cadre de cette solution de portefeuille;c)une description des mesures prises pour remédier à l’atteinte à la sécurité ou à la compromission;d)une description des incidences résiduelles potentielles sur les parties utilisatrices de portefeuille ou sur les utilisateurs de portefeuille et, dans ce dernier cas, si nécessaire, une indication des mesures que les utilisateurs de portefeuille peuvent prendre pour atténuer ces incidences résiduelles potentielles. |\n| --- | --- |\n| a) | la date et l’heure auxquelles il a été remédié à l’atteinte à la sécurité ou à la compromission; |\n| b) | la date et l’heure du rétablissement de la solution de portefeuille affectée et, le cas échéant, des unités de portefeuille affectées fournies dans le cadre de cette solution de portefeuille; |\n| c) | une description des mesures prises pour remédier à l’atteinte à la sécurité ou à la compromission; |\n| d) | une description des incidences résiduelles potentielles sur les parties utilisatrices de portefeuille ou sur les utilisateurs de portefeuille et, dans ce dernier cas, si nécessaire, une indication des mesures que les utilisateurs de portefeuille peuvent prendre pour atténuer ces incidences résiduelles potentielles. |",
+      "text_sha256": "8d272e9532baa6dc861822b3b80be1438c8ddeb1f86c8c3daad1d98c69a45ac7",
+      "md_span": {
+        "start": 11238,
+        "end": 13231
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32025r0847:2025-05-06#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. S’il n’est pas remédié à une atteinte à la sécurité ou à une compromission ayant conduit à la suspension de la fourniture et de l’utilisation d’une solution de portefeuille dans un délai de trois mois à compter de la date de cette suspension, l’État membre qui fournit la solution affectée veille à ce qu’elle soit retirée et à ce que sa validité soit révoquée, sans retard injustifié et, en tout état de cause, dans les 72 heures suivant l’expiration du délai de trois mois.\n\n2. Lorsqu’un État membre retire une solution de portefeuille, il veille à ce que:\n\n| a) | les attestations d’unité de portefeuille de l’unité de portefeuille de la solution de portefeuille affectée soient révoquées; |\n| --- | --- |\n\n| b) | la validité des attestations d’unité de portefeuille ne puisse pas être restaurée; |\n| --- | --- |\n\n| c) | aucune nouvelle attestation d’unité de portefeuille ne puisse être délivrée aux unités de portefeuille existantes fournies dans le cadre de la solution de portefeuille affectée; |\n| --- | --- |\n\n| d) | aucune nouvelle unité de portefeuille ne puisse être fournie dans le cadre de la solution de portefeuille affectée. |\n| --- | --- |\n\n3. Les mesures énoncées aux paragraphes 1 et 2 n’empêchent pas les utilisateurs de portefeuille affectés d’exercer leur droit à la portabilité des données établi à l’article 5 bis, paragraphe 4, point g), du règlement (UE) no 910/2014, à condition que ce droit puisse être exercé par les utilisateurs de portefeuille sans compromettre la sécurité des actifs critiques des unités de portefeuille affectées, compte tenu notamment des raisons du retrait et de la nécessité d’assurer une protection efficace de ces actifs contre toute utilisation abusive.",
+      "text_sha256": "bbf750c5c29b1b4ae557ac6d720b11790ddb33051d09ed3bd58a3c18c2aa5837",
+      "md_span": {
+        "start": 13264,
+        "end": 14988
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32025r0847:2025-05-06#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Des informations concernant le retrait d’une solution de portefeuille sont fournies d’une manière claire, complète et facilement accessible, sans retard injustifié et au plus tard 24 heures après ce retrait:\n\n| a) | aux points de contact uniques désignés conformément à l’article 46 quater, paragraphe 1, du règlement (UE) no 910/2014; |\n| --- | --- |\n\n| b) | à la Commission; |\n| --- | --- |\n\n| c) | aux utilisateurs de portefeuille affectés; |\n| --- | --- |\n\n| d) | aux parties utilisatrices de portefeuille enregistrées conformément à l’article 5 ter du règlement (UE) no 910/2014. |\n| --- | --- |\n\n2. Les informations fournies conformément au paragraphe 1 incluent au moins les éléments suivants:\n\n| a) | le nom du fournisseur de la solution de portefeuille qui a été retirée; |\n| --- | --- |\n\n| b) | le nom et l’identifiant de référence de cette solution de portefeuille, tels qu’ils figurent sur la liste des portefeuilles certifiés établie conformément à l’article 5 quinquies du règlement (UE) no 910/2014 et, le cas échéant, les versions concernées; |\n| --- | --- |\n\n| c) | la date et l’heure de la détection de l’atteinte à la sécurité ou de la compromission qui a conduit au retrait de la solution de portefeuille affectée en raison de la gravité de ces incidents ou parce qu’ils n’ont pas fait l’objet d’une remédiation dans un délai de trois mois; |\n| --- | --- |\n\n| d) | si elles sont connues, la date et l’heure auxquelles l’atteinte à la sécurité ou la compromission est devenue effective, sur la base des journaux du réseau ou du système ou d’autres sources de données; |\n| --- | --- |\n\n| e) | la date et l’heure du retrait de la solution de portefeuille et de la révocation effective des attestations d’unité de portefeuille des unités de portefeuille fournies dans le cadre de la solution de portefeuille; |\n| --- | --- |\n\n| f) | une mention indiquant si le retrait résulte de la gravité de l’atteinte à la sécurité ou de la compromission ou du fait que celles-ci n’ont pas fait l’objet d’une remédiation; |\n| --- | --- |\n\n| g) | les coordonnées, y compris au moins une adresse électronique et un numéro de téléphone, de l’État membre notifiant et, si elles sont différentes, du fournisseur de portefeuille visé au point a); |\n| --- | --- |\n\n| h) | une description de l’atteinte à la sécurité ou de la compromission; |\n| --- | --- |\n\n| i) | une description des données compromises, y compris, le cas échéant, les catégories de données à caractère personnel précisées à l’article 9, paragraphe 1, et à l’article 10 du règlement (UE) 2016/679; |\n| --- | --- |\n\n| j) | dans la mesure du possible, une estimation du nombre approximatif d’utilisateurs de portefeuille et d’autres personnes physiques affectés; |\n| --- | --- |\n\n| k) | une description des incidences potentielles sur les parties utilisatrices de portefeuille ou sur les utilisateurs de portefeuille et, dans ce dernier cas, si nécessaire, une indication des mesures que les utilisateurs de portefeuille peuvent prendre pour atténuer ces incidences potentielles; |\n| --- | --- |\n\n| l) | une description des mesures prises ou prévues pour faire migrer les utilisateurs de portefeuille affectés vers d’autres solutions de portefeuille, ou le cas échéant et s’il y a lieu, vers d’autres services. |\n| --- | --- |",
+      "text_sha256": "677a58b53c496518613960f6f63262eb603087a5327c4067f66531b4fb8451e0",
+      "md_span": {
+        "start": 15021,
+        "end": 18322
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32025r0847:2025-05-06#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nLes États membres transmettent les informations prévues aux articles 3, 5, 7 et 9 à la Commission et aux points de contact uniques des États membres désignés en vertu de l’article 46 quater, paragraphe 1, du règlement (UE) no 910/2014, par l’intermédiaire du CIRAS géré par l’ENISA, ou d’un système équivalent approuvé par les États membres et la Commission.",
+      "text_sha256": "a61ecaa711c595e5a523edb4ce8ccaab2c862da2797fb85d05f9568f01b8cfec",
+      "md_span": {
+        "start": 18357,
+        "end": 18727
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32025r0847:2025-05-06#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "124bed83e604a31961dd9cd03c8dcd889729ae694f29b2d38e3c6211cec72329",
+      "md_span": {
+        "start": 18762,
+        "end": 18904
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

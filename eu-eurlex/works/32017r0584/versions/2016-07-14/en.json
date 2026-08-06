@@ -1,0 +1,453 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0584:2016-07-14",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/584 of 14 July 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2016-07-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0584/versions/2016-07-14/en.xml",
+    "sha256": "b8ed0d0ccf16dd56f8e0b1151748660ebaa883e8daa6764d57d76b5ee17d19c3",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0584"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. This Regulation lays down detailed rules for the organisational requirements of the systems of the trading venues allowing or enabling algorithmic trading, in relation to their resilience and capacity, requirements on trading venues to ensure appropriate testing of algorithms and requirements in relation to the controls concerning DEA pursuant to Article 48(12)(a),(b) and (g) of Directive 2014/65/EU.\n\n2. For the purposes of this Regulation, it is considered that a trading venue allows or enables algorithmic trading where order submission and order matching is facilitated by electronic means.\n\n3. For the purposes of this Regulation, any arrangements or systems that allow or enable algorithmic trading shall be considered ‘algorithmic trading systems’.",
+      "text_sha256": "e97e153eae3b35346ace24574fec4997c7c25440cab493ddcc2289aa0dc8ea5e",
+      "md_span": {
+        "start": 641,
+        "end": 1414
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Before the deployment of a trading system and at least once a year, trading venues shall carry out a self-assessment of their compliance with Article 48 of Directive 2014/65/EU, taking into account the nature, scale and complexity of their business. The self-assessment shall include an analysis of all parameters set out in the Annex to this Regulation.\n\n2. Trading venues shall keep a record of their self-assessment for at least five years.",
+      "text_sha256": "272ecbc27ff3691fa2b9567b644f91c72015d3ead1f09ab4aa33195b1ec07008",
+      "md_span": {
+        "start": 1447,
+        "end": 1904
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. As part of their overall governance and decision making framework, trading venues shall establish and monitor their trading systems through a clear and formalised governance arrangement setting out:\n\n| (a) | their analysis of technical, risk and compliance issues when taking critical decisions. |\n| --- | --- |\n\n| (b) | clear lines of accountability, including procedures to approve the development, deployment and subsequent updates of trading systems and to resolve problems identified when monitoring the trading systems; |\n| --- | --- |\n\n| (c) | effective procedures for the communication of information such that instructions can be sought and implemented in an efficient and timely manner; |\n| --- | --- |\n\n| (d) | separation of tasks and responsibilities, to ensure effective supervision of compliance by the trading venues. |\n| --- | --- |\n\n2. The management body or the senior management of trading venues shall approve:\n\n| (a) | the self-assessment of compliance in accordance with Article 2; |\n| --- | --- |\n\n| (b) | measures to expand the capacity of the trading venue where necessary in order to comply with Article 11; |\n| --- | --- |\n\n| (c) | actions to remedy any material shortcomings detected in the course of their monitoring in accordance with Articles 12 and 13 and after the periodic review of the performance and capacity of the trading systems in accordance with Article 14. |\n| --- | --- |",
+      "text_sha256": "12c196ee84d40b9eaa9095ada0f97708e3a7531b2e618df61d209acff3b0e08f",
+      "md_span": {
+        "start": 1937,
+        "end": 3366
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Trading venues shall ensure that their compliance function is responsible for:\n\n| (a) | providing clarity to all staff involved in algorithmic trading about the trading venues' legal obligations with respect to such trading; |\n| --- | --- |\n\n| (b) | developing and maintaining the policies and procedures to ensure that the algorithmic trading systems comply with those obligations. |\n| --- | --- |\n\n2. Trading venues shall ensure that their compliance staff has at least a general understanding of the way in which algorithmic trading systems and algorithms operate.\n\nThe compliance staff shall be in continuous contact with persons within the trading venue who have detailed technical knowledge of the venue's algorithmic trading systems or algorithms.\n\nTrading venues shall also ensure that compliance staff have, at all times, direct contact with persons who have access to the functionality referred to in Article 18(2)(c) (‘kill functionality’) or access to that kill functionality and to those who are responsible for the algorithmic trading system.\n\n3. Where the compliance function, or elements thereof, is outsourced to a third party, trading venues shall provide the third party with the same access to information as they would to their own compliance staff. Trading venues shall enter into an agreement with such compliance consultants, ensuring that:\n\n| (a) | data privacy is guaranteed; |\n| --- | --- |\n\n| (b) | auditing of the compliance function by internal and external auditors or by the competent authority is not hindered. |\n| --- | --- |",
+      "text_sha256": "faedfb35c7c9177fd027431e1ae7d63c9c1fdf955bccd81d1f6014ecf1456438",
+      "md_span": {
+        "start": 3399,
+        "end": 4972
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Trading venues shall employ a sufficient number of staff with the necessary skills to manage their algorithmic trading systems and trading algorithms and with sufficient knowledge of:\n\n| (a) | the relevant trading systems and algorithms; |\n| --- | --- |\n\n| (b) | the monitoring and testing of such systems and algorithms; |\n| --- | --- |\n\n| (c) | the types of trading undertaken by the members, participants or clients of the trading venue (‘members’); |\n| --- | --- |\n\n| (d) | the trading venue's legal obligations. |\n| --- | --- |\n\n2. Trading venues shall define the necessary skills referred to in paragraph 1. The staff referred to in paragraph 1 shall have those necessary skills at the time of recruitment or shall acquire them through training after recruitment. The trading venues shall ensure that those staff's skills remain up-to-date and shall evaluate their skills on a regular basis.\n\n3. The staff training referred to in paragraph 2 shall be tailored to the experience and responsibilities of the staff, taking into account the nature, scale and complexity of their activities.\n\n4. The staff referred to in in paragraph 1 shall include staff with sufficient seniority to perform their functions effectively within the trading venue.",
+      "text_sha256": "880fc5cbae2cf70c600f4e73ff3b24f9e5a333852ec7ccf8d7cb6fdda100eb6a",
+      "md_span": {
+        "start": 5005,
+        "end": 6266
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Trading venues outsourcing all or part of their operational functions in relation to the systems allowing or enabling algorithmic trading shall ensure that:\n\n| (a) | the outsourcing agreement exclusively relates to operational functions and does not alter the responsibilities of the senior management and the management body; |\n| --- | --- |\n\n| (b) | the relationship and obligations of the trading venue towards its members, competent authorities, or any third parties, such as clients of data feed services are not altered; |\n| --- | --- |\n\n| (c) | they meet the requirements that they must comply with in order to be authorised in accordance with Title III of Directive 2014/65/EU. |\n| --- | --- |\n\n2. For the purposes of this article, operational functions shall include all direct activities related to the performance and surveillance of the trading systems supporting the following elements:\n\n| (a) | upstream connectivity, order submission capacity, throttling capacities and ability to balance customer order entrance through different gateways; |\n| --- | --- |\n\n| (b) | trading engine to match orders; |\n| --- | --- |\n\n| (c) | downstream connectivity, order and transaction edit and any other type of market data feed; |\n| --- | --- |\n\n| (d) | infrastructure to monitor the performance of the elements referred to in points (a), (b) and (c). |\n| --- | --- |\n\n3. Trading venues shall document the process of selecting the service provider to whom the operational functions are to be outsourced (‘the service provider’). They shall take the necessary steps to ensure, before concluding the outsourcing agreement and throughout its duration, that the following conditions are satisfied:\n\n| (a) | the service provider has the ability to perform the outsourced functions reliably and professionally and is the holder of any authorisations required by law for those purposes; |\n| --- | --- |\n\n| (b) | the service provider properly supervises the carrying out of the outsourced functions and adequately manages risks associated with the outsourcing agreement; |\n| --- | --- |\n\n| (c) | the outsourced services are provided in accordance with the specifications of the outsourcing agreement, which are based on pre-determined methods for assessing the standard of performance of the service provider, including metrics to measure the service provided and specifications of the requirements that shall be met; |\n| --- | --- |\n\n| (d) | the trading venue has the necessary expertise to supervise the outsourced functions effectively and manage risks associated with the outsourcing agreement; |\n| --- | --- |\n\n| (e) | the trading venue has the ability to take swift action if the service provider does not carry out the functions effectively and in compliance with applicable laws and regulatory requirements; |\n| --- | --- |\n\n| (f) | the service provider discloses to the trading venue any fact that may have a material impact on its ability to carry out the outsourced functions effectively and in compliance with its legal obligations; |\n| --- | --- |\n\n| (g) | the trading venue is able to terminate the outsourcing agreement where necessary without detriment to the continuity and quality of its services to clients; |\n| --- | --- |\n\n| (h) | the service provider cooperates with the competent authorities of the trading venue in connection with the outsourced activities; |\n| --- | --- |\n\n| (i) | the trading venue has effective access to data related to the outsourced activities and to the business premises of the service provider, and auditors of the trading venue and competent authorities have effective access to data related to the outsourced activities; |\n| --- | --- |\n\n| (j) | the trading venue sets out requirements to be met by the service providers to protect confidential information relating to the trading venue and its members, and to the venue's proprietary information and software; |\n| --- | --- |\n\n| (k) | the service provider meets the requirements referred to in point (j); |\n| --- | --- |\n\n| (l) | the trading venue and the service provider establish, implement and maintain a contingency plan for disaster recovery and periodic testing of backup facilities, where that is necessary having regard to the operational function that has been outsourced; |\n| --- | --- |\n\n| (m) | the outsourcing agreement specifies the obligations of the service provider in case it cannot provide its services, including the provision of the service by a substituting firm; |\n| --- | --- |\n\n| (n) | the trading venue has access to information in relation to the business continuity arrangements referred to in Article 16 of the service provider. |\n| --- | --- |\n\n4. Outsourcing agreements shall be concluded in writing and shall set out:\n\n| (a) | the assignment of rights and obligations between service provider and trading venue; |\n| --- | --- |\n\n| (b) | a clear description of:(i)the operational functions that are outsourced;(ii)the access of the trading venue to the books and records of the service provider;(iii)the procedure to identify and address potential conflicts of interest;(iv)the responsibility assumed by each party;(v)the procedure for the amendment and termination of the agreement. |\n| --- | --- |\n| (i) | the operational functions that are outsourced; |\n| (ii) | the access of the trading venue to the books and records of the service provider; |\n| (iii) | the procedure to identify and address potential conflicts of interest; |\n| (iv) | the responsibility assumed by each party; |\n| (v) | the procedure for the amendment and termination of the agreement. |\n\n| (c) | the means to ensure that both the trading venue and the service provider facilitate in any way necessary the exercise by the competent authority of its supervisory powers. |\n| --- | --- |\n\n5. Trading venues shall report to the competent authorities their intention to outsource operational functions in the following cases:\n\n| (a) | where the service provider provides the same service to other trading venues; |\n| --- | --- |\n\n| (b) | where critical operational functions necessary for business continuation would be outsourced, in which case the trading venues shall request a prior authorisation from the competent authority. |\n| --- | --- |\n\n6. For the purposes of point (b) in paragraph 5, critical operational functions shall include those functions necessary to comply with the obligations referred to in Article 47(1)(b), (c) and (e) of Directive 2014/65/EU.\n\n7. Trading venues shall inform the competent authorities of any outsourcing agreements not subject to prior authorisation requirement immediately after the signature of the agreement.",
+      "text_sha256": "1fe5a37f8f9f52c1d7aa74be18554485989babc5720341205518c1277d678099",
+      "md_span": {
+        "start": 6299,
+        "end": 12963
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Trading venues shall set out the conditions for using its electronic order submission systems by its members. Those conditions shall be set having regard to the trading model of the trading venue and shall cover at least the following:\n\n| (a) | pre-trade controls on price, volume and value of orders and usage of the system and post-trade controls on the trading activities of the members; |\n| --- | --- |\n\n| (b) | qualifications required of staff in key positions within the members; |\n| --- | --- |\n\n| (c) | technical and functional conformance testing; |\n| --- | --- |\n\n| (d) | policy of use of the kill functionality; |\n| --- | --- |\n\n| (e) | provisions on whether the member may give its own clients direct electronic access to the system and if so, the conditions applicable to those clients. |\n| --- | --- |\n\n2. Trading venues shall undertake a due diligence assessment of their prospective members against the conditions referred to in paragraph 1 and shall set out the procedures for such assessment.\n\n3. Trading venues shall, once a year, conduct a risk-based assessment of the compliance of their members with the conditions referred to in paragraph 1 and check whether their members are still registered as investment firms. The risk-based assessment shall take into account the scale and potential impact of trading undertaken by each member as well as the time elapsed since the member's last risk based assessment.\n\n4. Trading venues shall, where necessary, undertake additional assessments of their members' compliance with the conditions referred to in paragraph 1 following the annual risk-based assessment laid down in paragraph 3.\n\n5. Trading venues shall set out criteria and procedures for imposing sanctions on a non-compliant member. Those sanctions shall include suspension of access to the trading venue and loss of membership.\n\n6. Trading venues shall for at least five years maintain records of:\n\n| (a) | the conditions and procedures for the due diligence assessment; |\n| --- | --- |\n\n| (b) | the criteria and procedures for imposing sanctions; |\n| --- | --- |\n\n| (c) | the initial due diligence assessment of their members; |\n| --- | --- |\n\n| (d) | the annual risk-based assessment of their members; |\n| --- | --- |\n\n| (e) | the members that failed the annual risk-based assessment and any sanctions imposed on such members. |\n| --- | --- |",
+      "text_sha256": "0c9a37beb7867725fa8a8eb1ed196443bcc25652243e1dc65e80aee5818ed8c4",
+      "md_span": {
+        "start": 12996,
+        "end": 15381
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Trading venues shall, prior to deploying or updating a trading system, make use of clearly defined development and testing methodologies which ensure at least that:\n\n| (a) | the trading system does not behave in an unintended manner; |\n| --- | --- |\n\n| (b) | the compliance and risk management controls embedded in the systems work as intended, including the automatic generation of error reports; |\n| --- | --- |\n\n| (c) | the trading system can continue to work effectively in case of a significant increase of the number of messages managed by the system. |\n| --- | --- |\n\n2. Trading venues shall be able to demonstrate at all times that they have taken all reasonable steps to avoid that their trading systems contribute to disorderly trading conditions.",
+      "text_sha256": "979be702a930d8f1a69cf00db39033c6f116bd0577531f57ec5e7d9c90648a90",
+      "md_span": {
+        "start": 15414,
+        "end": 16185
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Trading venues shall require their members to undertake conformance testing prior to the deployment or a substantial update of:\n\n| (a) | the access to the trading venue's system; |\n| --- | --- |\n\n| (b) | the member's trading system, trading algorithm or trading strategy. |\n| --- | --- |\n\n2. The conformance testing shall ensure that the basic functioning of the member's trading system, algorithm and strategy complies with the trading venue's conditions.\n\n3. The conformance testing shall verify the functioning of the following:\n\n| (a) | the ability of the system or algorithm to interact as expected with the trading venue's matching logic and the adequate processing of the data flows from and to the trading venue; |\n| --- | --- |\n\n| (b) | the basic functionalities such as submission, modification or cancellation of an order or an indication of interest, static and market data downloads and all business data flows; |\n| --- | --- |\n\n| (c) | the connectivity, including the cancel on disconnect command, market data feed loss and throttles, and the recovery, including the intra-day resumption of trading and the handling of suspended instruments or non-updated market data. |\n| --- | --- |\n\n4. Trading venues shall provide a conformance testing environment to their actual and prospective members which:\n\n| (a) | is accessible on conditions equivalent to those applicable to the trading venue's other testing services; |\n| --- | --- |\n\n| (b) | provides a list of financial instruments which can be tested and which are representative of every class of instruments available in the production environment; |\n| --- | --- |\n\n| (c) | is available during general market hours or, if available only outside market hours, on a pre-scheduled periodic basis; |\n| --- | --- |\n\n| (d) | is supported by staff with sufficient knowledge. |\n| --- | --- |\n\n5. Trading venues shall deliver a report of the results of the conformance testing to the actual or prospective member only.\n\n6. Trading venues shall require their actual and prospective members to use their conformance testing facilities.\n\n7. Trading venues shall ensure an effective separation of the testing environment from the production environment for the conformance testing referred to in paragraphs 1 to 3.",
+      "text_sha256": "b83f7058f55e95ecc54052d9f1551b5db92c9b4c62f01c27076f9f96053550a9",
+      "md_span": {
+        "start": 16218,
+        "end": 18498
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Trading venues shall require their members to certify that the algorithms they deploy have been tested to avoid contributing to or creating disorderly trading conditions prior to the deployment or substantial update of a trading algorithm or trading strategy and explain the means used for that testing.\n\n2. Trading venues shall provide their members with access to a testing environment which shall consist of any of the following:\n\n| (a) | simulation facilities which reproduce as realistically as possible the production environment, including disorderly trading conditions, and which provide the functionalities, protocols and structure that allow members to test a range of scenarios that they consider relevant to their activity; |\n| --- | --- |\n\n| (b) | testing symbols as defined and maintained by the trading venue. |\n| --- | --- |\n\n3. Trading venues shall ensure an effective separation of the testing environment from the production environment for the tests referred to in paragraph 1.",
+      "text_sha256": "4ab094ffee8bea32b121df2c204228ae92e489f29227a00e0970e22c1ff5596f",
+      "md_span": {
+        "start": 18533,
+        "end": 19545
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Trading venues shall ensure that their trading systems have sufficient capacity to perform their functions without systems failures, outages or errors in matching transactions at least at the highest number of messages per second recorded on that system during the previous five years multiplied by two.\n\nFor the purposes of establishing the highest number of messages, the following messages shall be taken into account:\n\n| (a) | any input, including orders and modifications or cancellations of orders; |\n| --- | --- |\n\n| (b) | any output, including the system's response to an input, display of order book data and dissemination of post-trade flow that implies independent use of the trading system's capacity. |\n| --- | --- |\n\n2. The elements of a trading system to be considered for the purposes of paragraph 1 shall be those supporting the following activities:\n\n| (a) | upstream connectivity, order submission capacity, throttling capacities and ability to balance customer order entrance through different gateways; |\n| --- | --- |\n\n| (b) | trading engine which enables the trading venue to match orders at an adequate latency; |\n| --- | --- |\n\n| (c) | downstream connectivity, order and transaction edit and any other type of market data feed; |\n| --- | --- |\n\n| (d) | infrastructure to monitor the performance of the abovementioned elements. |\n| --- | --- |\n\n3. Trading venues shall assess whether the capacity of their trading systems remains adequate when the number of messages has exceeded the highest number of messages per second recorded on that system during the previous five years. After the assessment, the trading venues shall inform the competent authority about any measures planned to expand their capacity and the time of the implementation of such measures.\n\n4. Trading venues shall ensure that their systems are able to cope with rising message flows without material degradation of their systems performance. In particular, the design of the trading system shall enable its capacity to be expanded within reasonable time whenever necessary.\n\n5. Trading venues shall immediately make public and report to the competent authority and members any severe trading interruption not due to market volatility and any other material connectivity disruptions.",
+      "text_sha256": "696974680b59101daeb922fac8dc7acdc30bc65c4a7a59b5b7e3d038dc622b86",
+      "md_span": {
+        "start": 19580,
+        "end": 21873
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Trading venues shall ensure that their algorithmic trading systems are at all times adapted to the business which takes place through them and are robust enough to ensure continuity and regularity in the performance of the markets on which they operate, regardless of the trading model used.\n\n2. Trading venues shall conduct real time monitoring of their algorithmic trading systems in relation to the following:\n\n| (a) | their performance and their capacity referred to in Article 11(4); |\n| --- | --- |\n\n| (b) | orders sent by their members on an individual and an aggregated basis. |\n| --- | --- |\n\nIn particular, trading venues shall operate throttling limits and monitor the concentration flow of orders to detect potential threats to the orderly functioning of the market.\n\n3. Real-time alerts shall be generated within five seconds of the relevant event.",
+      "text_sha256": "a2591e91ab47281986920a427b16e4d9358ddc39701ae02f3e046bab60d19401",
+      "md_span": {
+        "start": 21908,
+        "end": 22784
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Trading venues shall be able to demonstrate at all times to their competent authority that they monitor in real time the performance and usage of the elements of their trading systems referred to in Article 11(2) in relation to the following parameters:\n\n| (a) | percentage of the maximum message capacity utilised per second; |\n| --- | --- |\n\n| (b) | total number of messages managed by the trading system broken down per element of the trading system, including:(i)number of messages received per second;(ii)number of messages sent per second;(iii)number of messages rejected by the system per second; |\n| --- | --- |\n| (i) | number of messages received per second; |\n| (ii) | number of messages sent per second; |\n| (iii) | number of messages rejected by the system per second; |\n\n| (c) | period of time between receiving a message in any outer gateway of the trading system and sending a related message from the same gateway after the matching engine has processed the original message; |\n| --- | --- |\n\n| (d) | performance of the matching engine. |\n| --- | --- |\n\n2. Trading venues shall take all appropriate action in relation to any issues identified in the trading system during the ongoing monitoring as soon as reasonably possible, in order of priority, and shall be able to adjust, wind down, or shut down the trading system, if necessary.",
+      "text_sha256": "507148a32dfdbb58b2aea0488865e26d1941b0b972ad7a01a6d8931e90b353f4",
+      "md_span": {
+        "start": 22819,
+        "end": 24185
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Trading venues shall, in the context of the self-assessment to be performed in accordance with Article 2, evaluate the performance and capacity of their algorithmic trading systems and associated processes for governance, accountability, approval and business continuity arrangements.\n\n2. As part of the evaluation referred to in paragraph 1, trading venues shall perform stress tests where they simulate adverse scenarios to verify the performance of the hardware, software and communications and identify the scenarios under which the trading system or parts of the trading system perform their functions with systems failures, outages or errors in matching transactions.\n\n3. Stress tests shall cover all trading phases, trading segments and types of instruments traded by the trading venue and shall simulate members' activities with the existing connectivity set-up.\n\n4. The adverse scenarios referred to in paragraph 2 shall be based on the following:\n\n| (a) | an increased number of messages received, starting at the highest number of messages managed by the trading venue's system during the previous five years; |\n| --- | --- |\n\n| (b) | unexpected behaviour of the trading venue's operational functions; |\n| --- | --- |\n\n| (c) | random combination of stressed and normal market conditions and unexpected behaviour of the trading venue's operational functions. |\n| --- | --- |\n\n5. The evaluation of the performance and capacity of the trading venue described in paragraphs 1 to 4 shall be conducted by an independent assessor or by a department within the trading venue other than the one that holds the responsibility for the function that is being reviewed.\n\n6. Trading venues shall take action to promptly and effectively remedy any deficiencies identified in the evaluation of the performance and capacity of the trading venue referred to in paragraphs 1 to 4 and shall keep record of the review and any remedy action taken in this respect for at least five years.",
+      "text_sha256": "4c0e4ac7668699e1e35054330fdd4159b6d262b314e590b3eeff0a5c05a0238c",
+      "md_span": {
+        "start": 24220,
+        "end": 26211
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Trading venues shall be able to demonstrate at all times that their systems have sufficient stability by having effective business continuity arrangements to address disruptive incidents.\n\n2. The business continuity arrangements shall ensure that trading can be resumed within or close to two hours of a disruptive incident and that the maximum amount of data that may be lost from any IT service of the trading venue after a disruptive incident is close to zero.",
+      "text_sha256": "71613647691de1fc4a3e4ddda65899198ee3326a42307e99c2eef70dd8103a52",
+      "md_span": {
+        "start": 26246,
+        "end": 26724
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Trading venues shall, in the context of their governance and decision making framework in accordance with Article 3, establish a business continuity plan to implement effective business continuity arrangements provided for in Article 15. The business continuity plan shall set out the procedures and arrangements for managing disruptive incidents.\n\n2. The business continuity plan shall provide for the following minimum content:\n\n| (a) | a range of possible adverse scenarios relating to the operation of the algorithmic trading systems, including the unavailability of systems, staff, work space, external suppliers or data centres or loss or alteration of critical data and documents; |\n| --- | --- |\n\n| (b) | the procedures to be followed in case of a disruptive event; |\n| --- | --- |\n\n| (c) | the maximum time to resume the trading activity and the amount of data that may be lost in the IT system; |\n| --- | --- |\n\n| (d) | procedures for relocating the trading system to a back-up site and operating the trading system from that site. |\n| --- | --- |\n\n| (e) | back-up of critical business data including up-to-date information of the necessary contacts to ensure communication inside the trading venue, between the trading venue and its members and between the trading venue and clearing and settlement infrastructures; |\n| --- | --- |\n\n| (f) | staff training on the operation of the business continuity arrangements; |\n| --- | --- |\n\n| (g) | assignment of tasks and establishment of a specific security operations team ready to react immediately after a disruptive incident; |\n| --- | --- |\n\n| (h) | an ongoing programme for testing, evaluation and review of the arrangements including procedures for modification of the arrangements in light of the results of that programme. |\n| --- | --- |\n\n3. Clock synchronisation after a disruptive incident shall be included in the business continuity plan.\n\n4. Trading venues shall ensure that an impact assessment identifying the risks and consequences of disruption is carried out and periodically reviewed. For this purpose, any decision by the trading venue not to take into account an identified risk of unavailability of the trading system in the business continuity plan shall be adequately documented and explicitly approved by the management body of the trading venue.\n\n5. Trading venues shall ensure that their senior management:\n\n| (a) | establishes clear objectives and strategies in terms of business continuity; |\n| --- | --- |\n\n| (b) | allocates adequate human, technological and financial resources to pursue the objectives and strategies under point (a); |\n| --- | --- |\n\n| (c) | approves the business continuity plan and any amendments thereof necessary as a consequence of organisational, technological and legal changes; |\n| --- | --- |\n\n| (d) | is informed, at least on a yearly basis, of the outcome of the impact assessment or any review thereof and of any findings concerning the adequacy of the business continuity plan; |\n| --- | --- |\n\n| (e) | establishes a business continuity function within the organisation. |\n| --- | --- |\n\n6. The business continuity plan shall set out procedures to address any disruptions of outsourced critical operational functions, including where those critical operational functions become unavailable.",
+      "text_sha256": "78c36559db22b7ce165ea4f32b824a332a580ee7234e7116cb49d15c24ddf64c",
+      "md_span": {
+        "start": 26759,
+        "end": 30081
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. Trading venues shall, in the context of their self-assessment in accordance with Article 2, test on the basis of realistic scenarios the operation of the business continuity plan and verify the capability of the trading venue to recover from disruptive incidents and to resume trading as set out in Article 15(2).\n\n2. Trading venues shall, where considered necessary, having regard to the results of the periodic review in accordance with paragraph 1, ensure that a review of their business continuity plan and arrangements is carried out by either an independent assessor or a department within the trading venue other than the one responsible for the function under review. The results of the testing activity shall be documented in writing, stored and submitted to the trading venue's senior management as well as to the operating units involved in the business continuity plan.\n\n3. Trading venues shall ensure that testing of the business continuity plan does not interfere with normal trading activity.",
+      "text_sha256": "cdfafa9af4fe239a011118aab89aa0bd3d233378f6d6fe5fa6faffa32e5b7a64",
+      "md_span": {
+        "start": 30116,
+        "end": 31138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Trading venues shall have at least the following arrangements in place to prevent disorderly trading and breaches of capacity limits:\n\n| (a) | limits per member of the number of orders sent per second; |\n| --- | --- |\n\n| (b) | mechanisms to manage volatility; |\n| --- | --- |\n\n| (c) | pre-trade controls. |\n| --- | --- |\n\n2. For the purposes of paragraph 1, trading venues shall be able to:\n\n| (a) | request information from any member or user of sponsored access on their organisational requirements and trading controls; |\n| --- | --- |\n\n| (b) | suspend a member's or a trader's access to the trading system at the initiative of the trading venue or at the request of that member, a clearing member, the CCP, where provided for in the CCP's governing rules, or the competent authority; |\n| --- | --- |\n\n| (c) | operate a kill functionality to cancel unexecuted orders submitted by a member, or by a sponsored access client under the following circumstances:(i)upon request of the member, or of the sponsored access client where the member, or client is technically unable to delete its own orders;(ii)where the order book contains erroneous duplicated orders;(iii)following a suspension initiated either by the market operator or the competent authority; |\n| --- | --- |\n| (i) | upon request of the member, or of the sponsored access client where the member, or client is technically unable to delete its own orders; |\n| (ii) | where the order book contains erroneous duplicated orders; |\n| (iii) | following a suspension initiated either by the market operator or the competent authority; |\n\n| (d) | cancel or revoke transactions in case of malfunction of the trading venue's mechanisms to manage volatility or of the operational functions of the trading system; |\n| --- | --- |\n\n| (e) | balance entrance of orders among their different gateways, where the trading venue uses more than one gateway in order to avoid collapses. |\n| --- | --- |\n\n3. Trading venues shall set out policies and arrangements in respect of:\n\n| (a) | mechanisms to manage volatility in accordance with Article 19; |\n| --- | --- |\n\n| (b) | pre-trade and post-trade controls used by the venue and pre-trade and post-trade controls necessary for their members to access the market; |\n| --- | --- |\n\n| (c) | members' obligation to operate their own kill functionality; |\n| --- | --- |\n\n| (d) | information requirements for members; |\n| --- | --- |\n\n| (e) | suspension of access; |\n| --- | --- |\n\n| (f) | cancellation policy in relation to orders and transactions including:(i)timing;(ii)procedures;(iii)reporting and transparency obligations;(iv)dispute resolution procedures;(v)measures to minimise erroneous trades; |\n| --- | --- |\n| (i) | timing; |\n| (ii) | procedures; |\n| (iii) | reporting and transparency obligations; |\n| (iv) | dispute resolution procedures; |\n| (v) | measures to minimise erroneous trades; |\n\n| (g) | order throttling arrangements including:(i)number of orders per second on pre-defined time intervals;(ii)equal-treatment policy among members unless the throttle is directed to individual members;(iii)measures to be adopted following a throttling event. |\n| --- | --- |\n| (i) | number of orders per second on pre-defined time intervals; |\n| (ii) | equal-treatment policy among members unless the throttle is directed to individual members; |\n| (iii) | measures to be adopted following a throttling event. |\n\n4. Trading venues shall make public their policies and arrangements set out in paragraphs 2 and 3. That obligation shall not apply with regard to the specific number of orders per second on pre-defined time intervals and the specific parameters of their mechanisms to manage volatility.\n\n5. Trading venues shall maintain full records of their policies and arrangements under paragraph 3 for a minimum period of five years.",
+      "text_sha256": "554bb788830db07251b118e0acd7cfa5f4a9710e23d6a1d264a5c78e3a25368f",
+      "md_span": {
+        "start": 31173,
+        "end": 35019
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Trading venues shall ensure that appropriate mechanisms to automatically halt or constrain trading are operational at all times during trading hours.\n\n2. Trading venues shall ensure that:\n\n| (a) | mechanisms to halt or constrain trading are tested before implementation and periodically thereafter when the capacity and performance of trading systems is reviewed; |\n| --- | --- |\n\n| (b) | IT and human resources are allocated to deal with the design, maintenance and monitoring of the mechanisms implemented to halt or constrain trading; |\n| --- | --- |\n\n| (c) | mechanisms to manage market volatility are continuously monitored. |\n| --- | --- |\n\n3. Trading venues shall maintain records of the rules and parameters of the mechanisms to manage volatility and any changes thereof, as well as records of the operation, management and upgrading of those mechanisms.\n\n4. Trading venues shall ensure that their rules of the mechanisms to manage volatility include procedures to manage situations where the parameters have to be manually overridden to ensure orderly trading.",
+      "text_sha256": "df666c08b23f9d05c9206c23902b49f02bb5041741059301198c78900cf4b314",
+      "md_span": {
+        "start": 35054,
+        "end": 36138
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. Trading venues shall carry out the following pre-trade controls adapted for each financial instruments traded on them:\n\n| (a) | price collars, which automatically block orders that do not meet pre-set price parameters on an order-by-order basis; |\n| --- | --- |\n\n| (b) | maximum order value, which automatically prevents orders with uncommonly large order values from entering the order book by reference to notional values per financial instrument; |\n| --- | --- |\n\n| (c) | maximum order volume, which automatically prevents orders with an uncommonly large order size from entering the order book. |\n| --- | --- |\n\n2. The pre-trade controls laid down in paragraph 1 shall be designed so as to ensure that:\n\n| (a) | their automated application has the ability to readjust a limit during the trading session and in all its phases; |\n| --- | --- |\n\n| (b) | their monitoring has a delay of no more than five seconds; |\n| --- | --- |\n\n| (c) | an order is rejected once a limit is breached; |\n| --- | --- |\n\n| (d) | procedures and arrangements are in place to authorise orders above the limits upon request from the member concerned. Such procedures and arrangements shall apply in relation to a specific order or set of orders on a temporary basis in exceptional circumstances. |\n| --- | --- |\n\n3. Trading venues may establish the post-trade controls that they deem appropriate on the basis of a risk assessment of their members' activity.",
+      "text_sha256": "a762446fe818f7f10ab5e42b524249f815aedf4d5e8d422d34297e955328722e",
+      "md_span": {
+        "start": 36173,
+        "end": 37623
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\nTrading venues permitting DEA through their systems shall set out and publish the rules and conditions pursuant to which their members may provide DEA to their own clients. Those rules and conditions shall at least cover the specific requirements set out in Article 22 of Commission Delegated Regulation (EU) 2017/589 (3).",
+      "text_sha256": "9e1e9f526c2b73c059cf87d64dca19ee2e91b2e6c78139d1ed4c0e1412db5ad6",
+      "md_span": {
+        "start": 37658,
+        "end": 37992
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2017087EN.01035001-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. Trading venues shall make the provision of sponsored access subject to their authorisation and shall require that firms having sponsored access are subject to at least the same controls as those referred to in Article 18(3)(b).\n\n2. Trading venues shall ensure that sponsored access providers are at all times exclusively entitled to set or modify the parameters that apply to the controls referred to in paragraph 1 over the order flow of their sponsored access clients.\n\n3. Trading venues shall be able to suspend or withdraw the provision of sponsored access to clients having infringed Directive 2014/65/EU, Regulations of the European Parliament and of the Council (EU) No 600/2014 (4) and (EU) No 596/2014 (5) or the trading venue's internal rules.",
+      "text_sha256": "e95ba760fc6b8c5cdbce7afbe8593c4d2eae804fda975871e9332789f2626621",
+      "md_span": {
+        "start": 38027,
+        "end": 38795
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2017087EN.01035001-E0004",
+          "text": "(4)"
+        },
+        {
+          "href": "#ntr5-L_2017087EN.01035001-E0005",
+          "text": "(5)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\n1. Trading venues shall have in place procedures and arrangements for physical and electronic security designed to protect their systems from misuse or unauthorised access and to ensure the integrity of the data that is part of or passes through their systems, including arrangements that allow the prevention or minimisation of the risks of attacks against the information systems as defined in Article 2(a) of Directive 2013/40/EU of the European Parliament and of the Council (6).\n\n2. In particular, trading venues shall set up and maintain measures and arrangements for physical and electronic security to promptly identify and prevent or minimise the risks related to:\n\n| (a) | unauthorised access to their trading system or to a part thereof, including unauthorised access to the work space and data centres; |\n| --- | --- |\n\n| (b) | system interferences that seriously hinder or interrupt the functioning of an information system by inputting data, by transmitting, damaging, deleting, deteriorating, altering or suppressing such data, or by rendering such data inaccessible; |\n| --- | --- |\n\n| (c) | data interferences that delete, damage, deteriorate, alter or suppress data on the information system, or render such data inaccessible; |\n| --- | --- |\n\n| (d) | interceptions, by technical means, of non-public transmissions of data to, from or within an information system, including electromagnetic emissions from an information system carrying such data. |\n| --- | --- |\n\n3. Trading venues shall promptly inform the competent authority of incidents of misuse or unauthorised access by promptly providing an incident report indicating the nature of the incident, the measures adopted in response to the incident and the initiatives taken to avoid similar incidents from occurring in the future.",
+      "text_sha256": "0c83429f03aff47d97863e787ad062caa09bf47a5c1a37b0a345aa1a71c6cf86",
+      "md_span": {
+        "start": 38830,
+        "end": 40646
+      },
+      "citations": [
+        {
+          "href": "#ntr6-L_2017087EN.01035001-E0006",
+          "text": "(6)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32017r0584:2016-07-14#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from the date that appears first in the second subparagraph of Article 93(1) of Directive 2014/65/EU.",
+      "text_sha256": "5505d18116a60a3a61f171afe9a60a8d1ed4584d130323d4f3c93f2a8ddd219a",
+      "md_span": {
+        "start": 40681,
+        "end": 40951
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

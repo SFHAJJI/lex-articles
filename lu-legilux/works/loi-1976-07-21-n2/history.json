@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "article_unique": [
       {
@@ -15,5 +16,21 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "article_unique": [
+        {
+          "valid_from": "2000-10-01",
+          "valid_to": null,
+          "text_sha256": "c3b4704d0311850e01cfc7f5573f5e9f0e1204acabb62f57b3327477a464a31e",
+          "in_version": "lu-legilux:loi-1976-07-21-n2:2000-10-01",
+          "article_valid_from": "2000-10-01"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

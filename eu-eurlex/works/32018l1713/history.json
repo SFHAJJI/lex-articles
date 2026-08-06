@@ -1,0 +1,93 @@
+{
+  "lex_work_id": "eu-eurlex:32018l1713",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "art_1": [
+      {
+        "valid_from": "2018-11-06",
+        "valid_to": null,
+        "text_sha256": "ab3702017bff296871256f647ac6de310731d32371e9970ff167fb028cd04736",
+        "in_version": "eu-eurlex:32018l1713:2018-11-06"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2018-11-06",
+        "valid_to": null,
+        "text_sha256": "55edeb9f6fcd3a49ec14fb64d2817afb78094c6c4ee69fba5377e4be22983e8c",
+        "in_version": "eu-eurlex:32018l1713:2018-11-06"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2018-11-06",
+        "valid_to": null,
+        "text_sha256": "a648e391cf45d83a390256e7887418fe953be787a39b45794ff48844dbb61ca6",
+        "in_version": "eu-eurlex:32018l1713:2018-11-06"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "en": {
+      "art_1": [
+        {
+          "valid_from": "2018-11-06",
+          "valid_to": null,
+          "text_sha256": "ab3702017bff296871256f647ac6de310731d32371e9970ff167fb028cd04736",
+          "in_version": "eu-eurlex:32018l1713:2018-11-06"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2018-11-06",
+          "valid_to": null,
+          "text_sha256": "55edeb9f6fcd3a49ec14fb64d2817afb78094c6c4ee69fba5377e4be22983e8c",
+          "in_version": "eu-eurlex:32018l1713:2018-11-06"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2018-11-06",
+          "valid_to": null,
+          "text_sha256": "a648e391cf45d83a390256e7887418fe953be787a39b45794ff48844dbb61ca6",
+          "in_version": "eu-eurlex:32018l1713:2018-11-06"
+        }
+      ]
+    },
+    "fr": {
+      "art_1": [
+        {
+          "valid_from": "2018-11-06",
+          "valid_to": null,
+          "text_sha256": "2ed2562954ba7e39078089dad7c47e51112804ed42cefdb9276ddadca52d804b",
+          "in_version": "eu-eurlex:32018l1713:2018-11-06"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2018-11-06",
+          "valid_to": null,
+          "text_sha256": "4b4f7e0b3fe98ae2ff62b13042805a7a26756d53df3b42dd48758c33398cc2a0",
+          "in_version": "eu-eurlex:32018l1713:2018-11-06"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2018-11-06",
+          "valid_to": null,
+          "text_sha256": "833ef98fd4609c381caf373799d137893cdd0c15b1e98bdbe87eebad7a8f7e8b",
+          "in_version": "eu-eurlex:32018l1713:2018-11-06"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": []
+  }
+}

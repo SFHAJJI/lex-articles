@@ -1,0 +1,520 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019l0770:2019-05-22",
+  "language": "fr",
+  "title": "Directive (EU) 2019/770",
+  "valid_from": "2019-05-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019l0770/versions/2019-05-22/fr.html",
+    "sha256": "3bf1824f6dcc588464db5d19940d8a14b399384aaf228abeea0716996511cf5b",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019L0770-20190522"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Objet et finalité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La présente directive vise à contribuer au bon fonctionnement du marché intérieur tout en garantissant un niveau élevé de protection du consommateur, en établissant des règles communes relatives à certaines exigences concernant les contrats conclus entre professionnels et consommateurs pour la fourniture de contenus numériques ou de services numériques, notamment des règles relatives à:\n\n— la conformité d’un contenu numérique ou d’un service numérique au contrat,\n\n— les recours en cas de défaut de conformité ou de défaut de fourniture et les modalités d’exercice de ces recours, et\n\n— la modification d’un contenu numérique ou d’un service numérique.",
+      "text_sha256": "d865c6fc944eb87cba855711ba86e2414b27d4a9376079b4466cf039f4509785",
+      "md_span": {
+        "start": 613,
+        "end": 1269
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Définitions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Aux fins de la présente directive, on entend par:\n\n1) «contenu numérique»: des données produites et fournies sous forme numérique;\n\n2) «service numérique»: a) un service permettant au consommateur de créer, de traiter ou de stocker des données sous forme numérique, ou d’y accéder; ou b) un service permettant le partage ou toute autre interaction avec des données sous forme numérique qui sont téléversées ou créées par le consommateur ou d’autres utilisateurs de ce service;\n\n3) «bien comportant des éléments numériques»: tout objet mobilier corporel qui intègre un contenu numérique ou un service numérique ou est interconnecté avec un tel contenu ou un tel service d’une manière telle que l’absence de ce contenu numérique ou de ce service numérique empêcherait le bien de remplir ses fonctions;\n\n4) «intégration»: le fait de relier et d’intégrer un contenu numérique ou un service numérique aux composantes de l’environnement numérique du consommateur afin de permettre que le contenu numérique ou le service numérique soit utilisé conformément aux critères de conformité prévus par la présente directive;\n\n5) «professionnel»: toute personne physique ou morale, qu’elle soit publique ou privée, qui agit, y compris par l’intermédiaire d’une autre personne agissant en son nom ou pour son compte, à des fins qui entrent dans le cadre de son activité commerciale, industrielle, artisanale ou libérale en ce qui concerne des contrats relevant de la présente directive;\n\n6) «consommateur»: toute personne physique qui, en ce qui concerne les contrats relevant de la présente directive, agit à des fins qui n’entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou libérale;\n\n7) «prix»: une somme d’argent ou une représentation numérique de valeur due en échange de la fourniture d’un contenu numérique ou d’un service numérique;\n\n8) «données à caractère personnel»: les données à caractère personnel au sens de l’article 4, point 1), du règlement (UE) 2016/679;\n\n9) «environnement numérique»: tout matériel informatique, logiciel et connexion réseau utilisés par le consommateur pour accéder à un contenu numérique ou à un service numérique ou en faire usage;\n\n10) «compatibilité»: la capacité du contenu numérique ou du service numérique à fonctionner avec du matériel informatique ou des logiciels avec lesquels des contenus numériques ou des services numériques de même type sont normalement utilisés, sans qu’il soit nécessaire de convertir le contenu numérique ou le service numérique;\n\n11) «fonctionnalité»: la capacité du contenu numérique ou du service numérique à remplir ses fonctions eu égard à sa finalité;\n\n12) «interopérabilité»: la capacité du contenu numérique ou du service numérique à fonctionner avec du matériel informatique ou des logiciels différents de ceux avec lesquels des contenus numériques ou des services numériques de même type sont normalement utilisés;\n\n13) «support durable»: tout instrument permettant au consommateur ou au professionnel de stocker des informations qui lui sont adressées personnellement d’une manière permettant de s’y reporter ultérieurement, pendant un laps de temps adapté aux fins auxquelles les informations sont destinées et qui permet la reproduction à l’identique des informations stockées.",
+      "text_sha256": "93b350183ba62a61d9d8a33bc28e2dfe6ee0bd756c18db9d4743528298ff62f9",
+      "md_span": {
+        "start": 1320,
+        "end": 4599
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Champ d’application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. La présente directive s’applique à tout contrat par lequel le professionnel fournit ou s’engage à fournir un contenu numérique ou un service numérique au consommateur et le consommateur s’acquitte ou s’engage à s’acquitter d’un prix.\n\nLa présente directive s’applique également lorsque le professionnel fournit ou s’engage à fournir un contenu numérique ou un service numérique au consommateur, et le consommateur fournit ou s’engage à fournir des données à caractère personnel au professionnel, sauf lorsque les données à caractère personnel fournies par le consommateur sont exclusivement traitées par le professionnel pour fournir le contenu numérique ou le service numérique conformément à la présente directive ou encore pour permettre au professionnel de remplir les obligations légales qui lui incombent, pour autant que le professionnel ne traite pas ces données à une autre fin.\n\n2. La présente directive s’applique également lorsque le contenu numérique ou le service numérique est élaboré conformément aux spécifications du consommateur.\n\n3. À l’exception des articles 5 et 13, la présente directive s’applique également à tout support matériel qui sert exclusivement à transporter le contenu numérique.\n\n4. La présente directive ne s’applique pas aux contenus numériques ou aux services numériques qui sont intégrés dans les biens au sens de l’article 2, point 3), ou qui sont interconnectés à de tels biens, et qui sont fournis avec ces biens dans le cadre d’un contrat de vente concernant ces biens, que ces contenus numériques ou services numériques soient fournis par le vendeur ou par un tiers. En cas de doute sur la question de savoir si la fourniture d’un contenu numérique ou d’un service numérique intégré ou interconnecté fait partie du contrat de vente, le contenu numérique ou le service numérique est présumé relever du contrat de vente.\n\n5. La présente directive ne s’applique pas aux contrats portant sur:\n\na) la fourniture de services autres que les services numériques, que le professionnel utilise ou non des formats ou des moyens numériques pour créer le produit du service ou pour le fournir ou le transmettre au consommateur;\n\nb) les services de communications électroniques au sens de l’article 2, point 4), de la directive (UE) 2018/1972, à l’exception des services de communications interpersonnelles non fondés sur la numérotation au sens de l’article 2, point 7), de ladite directive;\n\nc) les soins de santé au sens de l’article 3, point a), de la directive 2011/24/UE;\n\nd) les services de jeux d’argent et de hasard, à savoir les services impliquant une mise ayant une valeur pécuniaire dans des jeux de hasard, y compris les jeux impliquant un élément de compétence, tels que les loteries, les jeux de casino, les jeux de poker et les transactions portant sur des paris, qui sont fournis par voie électronique ou par toute autre technologie permettant de faciliter la communication et à la demande individuelle d’un destinataire de tels services;\n\ne) les services financiers au sens de l’article 2, point b), de la directive 2002/65/CE;\n\nf) les logiciels proposés par le professionnel sous licence libre et ouverte, lorsque le consommateur ne s’acquitte pas d’un prix et que les données à caractère personnel fournies par le consommateur sont exclusivement traitées par le professionnel pour améliorer la sécurité, la compatibilité ou l’interopérabilité de ces logiciels spécifiques;\n\ng) la fourniture de contenu numérique lorsque le contenu numérique est mis à la disposition du grand public autrement que par la transmission de signaux, dans le cadre de spectacles ou d’évènements, tels que des projections cinématographiques numériques;\n\nh) le contenu numérique fourni conformément à la directive 2003/98/CE du Parlement européen et du Conseil (1) par des organismes du secteur public des États membres.\n\n6. Sans préjudice du paragraphe 4 du présent article, lorsqu’un contrat unique entre le même professionnel et le même consommateur rassemble dans une offre groupée des éléments constituant la fourniture d’un contenu numérique ou d’un service numérique et des éléments constituant la fourniture d’autres biens ou services, la présente directive ne s’applique qu’aux éléments du contrat concernant le contenu numérique ou le service numérique.\n\nL’article 19 de la présente directive ne s’applique pas lorsqu’une offre groupée au sens de la directive (UE) 2018/1972 comprend des éléments d’un service d’accès à l’internet au sens de l’article 2, point 2), du règlement (UE) 2015/2120 du Parlement européen et du Conseil (2) ou un service de communications interpersonnelles fondé sur la numérotation au sens de l’article 2, point 6), de la directive (UE) 2018/1972.\n\nSans préjudice de l’article 107, paragraphe 2, de la directive (UE) 2018/1972, les effets que la résolution d’un élément d’un contrat groupé peut produire sur les autres éléments dudit contrat sont régis par le droit national.\n\n7. En cas de conflit entre une disposition de la présente directive et une disposition d’un autre acte de l’Union régissant un secteur particulier ou une matière spécifique, la disposition de cet autre acte de l’Union prévaut sur la disposition de la présente directive.\n\n8. Le droit de l’Union en matière de protection des données à caractère personnel s’applique à toutes les données à caractère personnel traitées en lien avec les contrats visés au paragraphe 1.\n\nEn particulier, la présente directive est sans préjudice du règlement (UE) 2016/679 et de la directive 2002/58/CE. En cas de conflit entre les dispositions de la présente directive et celles du droit de l’Union en matière de protection des données à caractère personnel, ces dernières prévalent.\n\n9. La présente directive est sans préjudice du droit de l’Union et du droit national en matière de droit d’auteur et de droits voisins, y compris de la directive 2001/29/CE du Parlement européen et du Conseil (3).\n\n10. La présente directive ne porte pas atteinte à la liberté qu’ont les États membres de réglementer des aspects du droit général des contrats, telles que les règles relatives à la formation, à la validité, à la nullité ou aux effets des contrats, y compris les conséquences de la résolution d’un contrat, dans la mesure où ces éléments ne sont pas réglementés par la présente directive, ou le droit à des dommages et intérêts.",
+      "text_sha256": "71b2641640555dd961c62fb00eafba4f9cab592a76d2aa978faf2b0515bc5a55",
+      "md_span": {
+        "start": 4658,
+        "end": 11008
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        },
+        {
+          "href": "#E0002",
+          "text": "2"
+        },
+        {
+          "href": "#E0003",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Niveau d’harmonisation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres ne maintiennent ni n’introduisent dans leur droit national des dispositions divergeant de celles établies dans la présente directive, y compris des dispositions plus strictes ou plus souples visant à assurer un niveau différent de protection du consommateur, sauf disposition contraire prévue dans la présente directive.",
+      "text_sha256": "a0c7b0e1e199b80daf2394ac7016e109f631494fb63080b390268b1c5bdf730e",
+      "md_span": {
+        "start": 11070,
+        "end": 11408
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Fourniture du contenu numérique ou du service numérique",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Le professionnel fournit au consommateur le contenu numérique ou le service numérique. Sauf convention contraire des parties, le professionnel fournit le contenu numérique ou le service numérique sans retard injustifié après la conclusion du contrat.\n\n2. Le professionnel s’est acquitté de l’obligation de fourniture lorsque:\n\na) le contenu numérique, ou tout moyen approprié pour accéder au contenu numérique ou le télécharger, est rendu disponible ou accessible pour le consommateur ou en un lieu physique ou virtuel choisi par le consommateur à cet effet;\n\nb) le service numérique est rendu accessible au consommateur ou en un lieu physique ou virtuel choisi par le consommateur à cet effet.",
+      "text_sha256": "3a5dc9ba6bdbaf3cb045575aa348bc7c0ca5738ab1a0dd2ab4348c7c2687d7c2",
+      "md_span": {
+        "start": 11503,
+        "end": 12200
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Conformité du contenu numérique ou du service numérique",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le professionnel fournit au consommateur un contenu numérique ou un service numérique qui satisfait aux exigences énoncées aux articles 7, 8 et 9, le cas échéant, sans préjudice de l’article 10.",
+      "text_sha256": "21ba07c12e6bf768b62f767bec351a4e982ef9b51a73d1b96abfe290d7f8c9f1",
+      "md_span": {
+        "start": 12295,
+        "end": 12489
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Critères subjectifs de conformité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Afin d’être conforme au contrat, le contenu numérique ou le service numérique doit notamment, le cas échéant:\n\na) correspondre à la description, la quantité et la qualité et présenter la fonctionnalité, la compatibilité, l’interopérabilité et d’autres caractéristiques, comme prévu dans le contrat;\n\nb) être adapté à la finalité spécifique recherchée par le consommateur, que celui-ci a portée à la connaissance du professionnel au plus tard au moment de la conclusion du contrat et que le professionnel a acceptée;\n\nc) être fourni avec tous les accessoires, toutes les instructions, notamment d’installation, et l’assistance à la clientèle, comme prévu dans le contrat; et\n\nd) être mis à jour comme prévu dans le contrat.",
+      "text_sha256": "fe1cd1eb6894cdd2fd4c76570dfb73c49652121cc38641fbdde1e4daacff50b4",
+      "md_span": {
+        "start": 12562,
+        "end": 13284
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Critères objectifs de conformité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. En plus de remplir tout critère subjectif de conformité, le contenu numérique ou le service numérique doit:\n\na) être adapté aux finalités auxquelles serviraient normalement des contenus numériques ou des services numériques de même type, compte tenu, s’il y a lieu, de toute disposition du droit de l’Union et du droit national en vigueur ainsi que de toutes les normes techniques existantes ou, en l’absence de telles normes techniques, des codes de conduite spécifiques applicables au secteur concerné;\n\nb) être en quantité et présenter les qualités et les caractéristiques de performance, notamment en ce qui concerne la fonctionnalité, la compatibilité, l’accessibilité, la continuité et la sécurité, normales pour des contenus numériques ou des services numériques de même type et auxquelles le consommateur peut raisonnablement s’attendre, eu égard à la nature du contenu numérique ou du service numérique et compte tenu de toute déclaration publique faite par le professionnel ou d’autres personnes situées en amont dans la chaîne de transactions ou pour le compte du professionnel ou de telles personnes, en particulier dans les publicités ou sur l’étiquette, sauf si le professionnel démontre: i) que le professionnel n’avait pas, et ne pouvait raisonnablement pas avoir, connaissance de la déclaration publique concernée; ii) que, au moment de la conclusion du contrat, la déclaration publique avait été rectifiée de la même façon que celle selon laquelle ladite déclaration avait été faite ou d’une façon comparable; ou iii) que la décision d’acquérir le contenu numérique ou le service numérique ne pouvait pas avoir été influencée par la déclaration publique;\n\nc) le cas échéant, être fourni avec tous les accessoires et toutes les instructions que le consommateur peut raisonnablement s’attendre à recevoir; et\n\nd) être conforme à la version d’essai ou à l’aperçu du contenu numérique ou du service numérique éventuellement mis à disposition par le professionnel avant la conclusion du contrat.\n\n2. Le professionnel veille à ce que le consommateur soit informé des mises à jour, y compris des mises à jour de sécurité, qui sont nécessaires au maintien de la conformité du contenu numérique ou du service numérique, et les reçoive au cours de la période:\n\na) durant laquelle le contenu numérique ou le service numérique doit être fourni au titre du contrat, lorsque le contrat prévoit la fourniture continue pendant une certaine période; ou\n\nb) à laquelle le consommateur peut raisonnablement s’attendre, eu égard au type et à la finalité du contenu numérique ou du service numérique et compte tenu des circonstances et de la nature du contrat, lorsque le contrat prévoit une opération de fourniture unique ou une série d’opérations de fourniture distinctes.\n\n3. Lorsque le consommateur n’installe pas, dans un délai raisonnable, les mises à jour fournies par le professionnel conformément au paragraphe 2, le professionnel n’est pas responsable d’un éventuel défaut de conformité résultant uniquement de la non-installation de la mise à jour concernée, à condition que:\n\na) le professionnel ait informé le consommateur de la disponibilité de la mise à jour et des conséquences de sa non-installation par le consommateur; et\n\nb) la non-installation ou l’installation incorrecte par le consommateur de la mise à jour ne soit pas due à des lacunes dans les instructions d’installation fournies par le professionnel.\n\n4. Lorsque le contrat prévoit une fourniture continue du contenu numérique ou du service numérique pendant une certaine période, le contenu numérique ou le service numérique est conforme tout au long de cette période.\n\n5. Il n’y a pas de défaut de conformité au sens du paragraphe 1 ou 2 si, au moment de la conclusion du contrat, le consommateur a été spécifiquement informé qu’une caractéristique particulière du contenu numérique ou du service numérique s’écartait des critères objectifs de conformité prévus au paragraphe 1 ou 2 et que le consommateur a expressément et séparément accepté cet écart lorsqu’il a conclu le contrat.\n\n6. Sauf convention contraire entre les parties, la version du contenu numérique ou du service numérique fournie est la version la plus récente qui est disponible au moment de la conclusion du contrat.",
+      "text_sha256": "713f5c71d99bd1bfc876567e13dec4ee19711bd1f3c2278ca26df033f6deaba1",
+      "md_span": {
+        "start": 13356,
+        "end": 17622
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L0770R%2801%29",
+          "text": "32019L0770R(01): REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L0770",
+          "text": "32019L0770"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Intégration incorrecte du contenu numérique ou du service numérique",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Tout défaut de conformité résultant de l’intégration incorrecte du contenu numérique ou du service numérique dans l’environnement numérique du consommateur est réputé être un défaut de conformité du contenu numérique ou du service numérique si:\n\na) le contenu numérique ou le service numérique a été intégré par le professionnel ou sous la responsabilité du professionnel; ou\n\nb) le contenu numérique ou le service numérique était destiné à être intégré par le consommateur et que l’intégration incorrecte est due à des lacunes dans les instructions d’intégration fournies par le professionnel.",
+      "text_sha256": "29582b4af141b8e68159c5bb57cb54608d08f2990ef366df6a2ab5d0aca39b81",
+      "md_span": {
+        "start": 17729,
+        "end": 18323
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Droits des tiers",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Lorsqu’une restriction découlant de la violation de tout droit de tiers, en particulier de droits de propriété intellectuelle, empêche ou limite l’utilisation du contenu numérique ou du service numérique conformément aux articles 7 et 8, les États membres veillent à ce que le consommateur dispose des recours pour défaut de conformité prévus à l’article 14, à moins que le droit national ne prévoie la nullité ou la rescision du contrat de fourniture du contenu numérique ou du service numérique en pareils cas.",
+      "text_sha256": "e70da7923849312af9c8e03a6b3a2c5f549033653ef67d5457fd0e2eacad24e7",
+      "md_span": {
+        "start": 18381,
+        "end": 18893
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Responsabilité du professionnel",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Le professionnel répond de tout défaut de fourniture du contenu numérique ou du service numérique conformément à l’article 5.\n\n2. Lorsqu’un contrat prévoit une opération de fourniture unique ou une série d’opérations de fourniture distinctes, le professionnel répond de tout défaut de conformité au titre des articles 7, 8 et 9 qui existe au moment de la fourniture, sans préjudice de l’article 8, paragraphe 2, point b).\n\nSi, en vertu du droit national, le professionnel ne répond que d’un défaut de conformité qui apparaît au cours d’une période donnée après la fourniture, cette période ne peut être inférieure à deux ans à compter du moment de la fourniture, sans préjudice de l’article 8, paragraphe 2, point b).\n\nSi, en vertu du droit national, les droits prévus à l’article 14 sont également ou uniquement soumis à un délai de prescription, les États membres veillent à ce que ce délai de prescription permette au consommateur d’exercer les recours prévus à l’article 14 pour tout défaut de conformité qui existe au moment indiqué au premier alinéa et qui apparaît au cours de la période indiquée au deuxième alinéa.\n\n3. Lorsque le contrat prévoit une fourniture continue pendant une certaine période, le professionnel répond de tout défaut de conformité au titre des articles 7, 8 et 9 qui survient ou apparaît au cours de la période durant laquelle le contenu numérique ou le service numérique est fourni en vertu du contrat.\n\nSi, en vertu du droit national, les droits prévus à l’article 14 sont également ou uniquement soumis à un délai de prescription, les États membres veillent à ce que ce délai de prescription permette au consommateur d’exercer les recours prévus à l’article 14 pour tout défaut de conformité qui survient ou apparaît durant la période visée au premier alinéa.",
+      "text_sha256": "2d37bef0a627c77b5cc5d97b164c53db2c80c92079b26e0bad33cc20977303a1",
+      "md_span": {
+        "start": 18966,
+        "end": 20762
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Charge de la preuve",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. La charge de la preuve quant à la question de savoir si le contenu numérique ou le service numérique a été fourni conformément à l’article 5 incombe au professionnel.\n\n2. Dans les cas visés à l’article 11, paragraphe 2, la charge de la preuve quant à la question de savoir si le contenu numérique ou le service numérique fourni était conforme au moment de la fourniture incombe au professionnel dans le cas d’un défaut de conformité qui apparaît au cours d’une période d’un an à partir de la date de fourniture du contenu numérique ou du service numérique.\n\n3. Dans les cas visés à l’article 11, paragraphe 3, la charge de la preuve quant à la question de savoir si le contenu numérique ou le service numérique était conforme au cours de la période durant laquelle le contenu numérique ou le service numérique doit être fourni en vertu du contrat incombe au professionnel dans le cas d’un défaut de conformité qui apparaît au cours de cette période.\n\n4. Les paragraphes 2 et 3 ne s’appliquent pas lorsque le professionnel démontre que l’environnement numérique du consommateur n’est pas compatible avec les exigences techniques du contenu numérique ou du service numérique et que le professionnel a informé le consommateur de ces exigences de façon claire et compréhensible avant la conclusion du contrat.\n\n5. Le consommateur coopère avec le professionnel dans la mesure où cela est raisonnablement possible et nécessaire pour déterminer si c’est l’environnement numérique du consommateur qui est la cause du défaut de conformité du contenu numérique ou du service numérique aux moments précisés à l’article 11, paragraphe 2 ou 3, selon le cas. L’obligation de coopérer est limitée aux moyens techniquement disponibles qui sont le moins intrusifs pour le consommateur. Si le consommateur ne coopère pas et que le professionnel a informé le consommateur de cette exigence de façon claire et compréhensible avant la conclusion du contrat, c’est au consommateur qu’incombe la charge de la preuve quant à la question de savoir si le défaut de conformité existait ou non au moment précisé à l’article 11, paragraphe 2 ou 3, selon le cas.",
+      "text_sha256": "1cec2fab6328bf51c11f3b5d0de43163bf6d11b7a29082941e327350a04970c7",
+      "md_span": {
+        "start": 20823,
+        "end": 22958
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Recours pour défaut de fourniture",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Lorsque le professionnel n’a pas fourni le contenu numérique ou le service numérique conformément à l’article 5, le consommateur enjoint au professionnel de fournir le contenu numérique ou le service numérique. Si le professionnel ne fournit pas le contenu numérique ou le service numérique sans retard injustifié, ou dans un délai supplémentaire ayant fait l’objet d’un accord exprès entre les parties, le consommateur a droit à la résolution du contrat.\n\n2. Le paragraphe 1 ne s’applique pas, et le consommateur a droit à la résolution immédiate du contrat, lorsque:\n\na) le professionnel a déclaré, ou il résulte clairement des circonstances, que le professionnel ne fournira pas le contenu numérique ou le service numérique;\n\nb) le consommateur et le professionnel sont convenus, ou il résulte clairement des circonstances entourant la conclusion du contrat, qu’il est indispensable pour le consommateur que le contenu numérique ou le service numérique soit fourni à un moment spécifique et que le professionnel n’a pas fourni ce contenu numérique ou ce service numérique avant ou à ce moment.\n\n3. Lorsque le consommateur exerce son droit à la résolution du contrat au titre du paragraphe 1 ou 2 du présent article, les articles 15 à 18 s’appliquent en conséquence.",
+      "text_sha256": "c44376b2a8e243f90b024984dbd4d3d1a3cbf9f6438dbbb6b8749fb5b43c077d",
+      "md_span": {
+        "start": 23033,
+        "end": 24304
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Recours pour défaut de conformité",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. En cas de défaut de conformité, le consommateur a droit à la mise en conformité du contenu numérique ou du service numérique, à une réduction proportionnelle du prix, ou à la résolution du contrat aux conditions énoncées au présent article.\n\n2. Le consommateur est en droit d’obtenir la mise en conformité du contenu numérique ou du service numérique, sauf si cela s’avère impossible ou si cela risque d’imposer au professionnel des frais disproportionnés, compte tenu de toutes les circonstances de l’espèce, y compris:\n\na) la valeur qu’aurait le contenu numérique ou le service numérique s’il n’existait pas de défaut de conformité; et\n\nb) l’importance du défaut de conformité\n\n3. Le professionnel procède à la mise en conformité du contenu numérique ou du service numérique, conformément au paragraphe 2, dans un délai raisonnable à compter du moment où il a été informé par le consommateur du défaut de conformité, sans frais et sans inconvénient majeur pour le consommateur, compte tenu de la nature du contenu numérique ou du service numérique et de la finalité recherchée par le consommateur.\n\n4. Le consommateur a droit soit à une réduction proportionnelle du prix conformément au paragraphe 5 si le contenu numérique ou le service numérique est fourni en échange du paiement d’un prix, soit à la résolution du contrat conformément au paragraphe 6, dans chacun des cas suivants:\n\na) le recours consistant dans la mise en conformité du contenu numérique ou du service numérique s’avère impossible ou disproportionné conformément au paragraphe 2;\n\nb) le professionnel n’a pas mis en conformité le contenu numérique ou le service numérique conformément au paragraphe 3;\n\nc) un défaut de conformité apparaît malgré la tentative du professionnel de mettre le contenu numérique ou le service numérique en conformité;\n\nd) le défaut de conformité est si grave qu’il justifie une réduction immédiate du prix ou la résolution immédiate du contrat; ou\n\ne) le professionnel a déclaré, ou il résulte clairement des circonstances, que le professionnel ne procédera pas à la mise en conformité du contenu numérique ou du service numérique dans un délai raisonnable ou sans inconvénient majeur pour le consommateur.\n\n5. La réduction du prix est proportionnelle à la différence entre la valeur du contenu numérique ou du service numérique fourni au consommateur et la valeur qu’aurait le contenu numérique ou le service numérique s’il était conforme.\n\nLorsque le contrat prévoit que le contenu numérique ou le service numérique est fourni pendant une certaine période en échange du paiement d’un prix, la réduction du prix s’applique à la période pendant laquelle le contenu numérique ou le service numérique n’était pas conforme.\n\n6. Lorsque le contenu numérique ou le service numérique a été fourni en échange du paiement d’un prix, le consommateur n’a droit à la résolution du contrat que si le défaut de conformité n’est pas mineur. La charge de la preuve quant à la question de savoir si le défaut de conformité est mineur incombe au professionnel.",
+      "text_sha256": "2c83f7630dfd63c17a1bc52860cff13b0493acbb2ca5cdd1127139fcc034ac74",
+      "md_span": {
+        "start": 24379,
+        "end": 27426
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Exercice du droit de résolution",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le consommateur exerce son droit à la résolution du contrat en adressant au professionnel une déclaration qui fait état de sa décision d’exercer son droit à la résolution du contrat.",
+      "text_sha256": "97e4434bf85f848c11f42ca32abacabf2a9ae79d09890acd3f410772af52e905",
+      "md_span": {
+        "start": 27499,
+        "end": 27681
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Obligations du professionnel en cas de résolution",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. En cas de résolution du contrat, le professionnel rembourse au consommateur toutes les sommes reçues au titre du contrat.\n\nToutefois, lorsque le contrat prévoit la fourniture du contenu numérique ou du service numérique en échange du paiement d’un prix et pendant une certaine période et que le contenu numérique ou le service numérique a été conforme pendant une certaine période avant la résolution du contrat, le professionnel ne rembourse au consommateur que la portion proportionnelle du prix payé qui correspond à la période pendant laquelle le contenu numérique ou le service numérique n’était pas conforme, ainsi que toute partie du prix éventuellement payée à l’avance par le consommateur pour toute période du contrat qui serait restée en l’absence de résolution du contrat.\n\n2. En ce qui concerne les données à caractère personnel du consommateur, le professionnel respecte les obligations applicables en vertu du règlement (UE) 2016/679.\n\n3. Le professionnel s’abstient d’utiliser tout contenu autre que les données à caractère personnel, qui a été fourni ou créé par le consommateur lors de l’utilisation du contenu numérique ou du service numérique fourni par le professionnel, sauf lorsque ce contenu:\n\na) n’est d’aucune utilité en dehors du contexte du contenu numérique ou du service numérique fourni par le professionnel;\n\nb) n’a trait qu’à l’activité du consommateur lorsqu’il utilise le contenu numérique ou le service numérique fourni par le professionnel;\n\nc) a été agrégé avec d’autres données par le professionnel et ne peut être désagrégé, ou ne peut l’être que moyennant des efforts disproportionnés; ou\n\nd) a été généré conjointement par le consommateur et d’autres personnes et d’autres consommateurs peuvent continuer à en faire usage.\n\n4. Sauf dans les situations visées au paragraphe 3, point a), b) ou c), le professionnel met à la disposition du consommateur, à la demande de ce dernier, tout contenu autre que des données à caractère personnel, qui a été fourni ou créé par le consommateur lors de l’utilisation du contenu numérique ou du service numérique fourni par le professionnel.\n\nLe consommateur a le droit de récupérer ce contenu numérique sans frais, sans que le professionnel y fasse obstacle, dans un délai raisonnable et dans un format couramment utilisé et lisible par machine.\n\n5. Le professionnel peut empêcher toute utilisation ultérieure du contenu numérique ou du service numérique par le consommateur, notamment en faisant en sorte que le contenu numérique ou le service numérique soit inaccessible au consommateur ou en désactivant le compte d’utilisateur du consommateur, sans préjudice du paragraphe 4.",
+      "text_sha256": "207eedd383bd6728fcb9c87c062a0d859f9f9205ab38a4d0ac0f3c4016345b27",
+      "md_span": {
+        "start": 27772,
+        "end": 30433
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Obligations du consommateur en cas de résolution",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Après la résolution du contrat, le consommateur s’abstient d’utiliser le contenu numérique ou le service numérique et de le rendre accessible à des tiers.\n\n2. Si le contenu numérique a été fourni sur un support matériel, le consommateur restitue le support matériel au professionnel, à la demande et aux frais du professionnel, sans retard injustifié. Si le professionnel décide de demander la restitution du support matériel, cette demande est adressée dans les quatorze jours à compter de la date à laquelle le professionnel est informé de la décision du consommateur d’exercer son droit à la résolution du contrat.\n\n3. Le consommateur n’est pas tenu de payer pour l’utilisation qu’il a faite du contenu numérique ou du service numérique pendant la période, antérieure à la résolution du contrat, au cours de laquelle le contenu numérique ou le service numérique n’était pas conforme.",
+      "text_sha256": "70bbe86141432305c578186238a3282745691d99c272de5450bcec0944e7475d",
+      "md_span": {
+        "start": 30523,
+        "end": 31412
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Délais et modalités de remboursement par le professionnel",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Tout remboursement dont le professionnel est redevable au consommateur en vertu de l’article 14, paragraphes 4 et 5, ou de l’article 16, paragraphe 1, du fait d’une réduction du prix ou d’une résolution du contrat est effectué sans retard injustifié et, en tout état de cause, dans un délai de quatorze jours à compter du jour auquel le professionnel est informé de la décision du consommateur de faire valoir son droit à une réduction du prix ou à la résolution du contrat.\n\n2. Le professionnel effectue le remboursement en recourant au même moyen de paiement que celui utilisé par le consommateur pour payer le contenu numérique ou le service numérique, sauf accord exprès contraire du consommateur et pour autant que le remboursement n’occasionne pas de frais pour le consommateur.\n\n3. Le professionnel n’impose aucun frais au consommateur pour le remboursement.",
+      "text_sha256": "f9119733b8957330c27ee02eb7637086c74a4b9aa93330a076c4814d8b3c3855",
+      "md_span": {
+        "start": 31511,
+        "end": 32379
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Modification du contenu numérique ou du service numérique",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Lorsque le contrat prévoit que le contenu numérique ou le service numérique est fourni ou est rendu accessible au consommateur pendant une certaine période, le professionnel ne peut modifier le contenu numérique ou le service numérique au-delà de ce qui est nécessaire pour maintenir la conformité du contenu numérique ou du service numérique conformément aux articles 7 et 8 que si les conditions suivantes sont remplies:\n\na) le contrat autorise une telle modification et en fournit une raison valable;\n\nb) une telle modification est effectuée sans coût supplémentaire pour le consommateur;\n\nc) le consommateur est informé de la modification de façon claire et compréhensible; et\n\nd) dans les cas visés au paragraphe 2, le consommateur est informé, raisonnablement à l’avance et sur un support durable, des caractéristiques et du calendrier de la modification ainsi que de son droit à la résolution du contrat conformément au paragraphe 2, ou de la possibilité dont il dispose de conserver le contenu numérique ou le service numérique sans cette modification, conformément au paragraphe 4.\n\n2. Le consommateur a droit à la résolution du contrat si la modification a une incidence négative sur l’accès du consommateur au contenu numérique ou au service numérique ou sur l’utilisation par le consommateur du contenu numérique ou du service numérique, sauf si cette incidence négative n’a qu’un caractère mineur. Dans ce cas, le consommateur a droit à la résolution du contrat sans frais dans un délai de trente jours à compter de la date de réception de l’information ou à compter du moment où le contenu numérique ou le service numérique a été modifié par le professionnel, la date la plus éloignée étant retenue.\n\n3. Lorsque le consommateur exerce son droit à la résolution du contrat conformément au paragraphe 2 du présent article, les articles 15 à 18 s’appliquent en conséquence.\n\n4. Les paragraphes 2 et 3 du présent article ne s’appliquent pas si le professionnel a permis au consommateur de conserver, sans coût supplémentaire, le contenu numérique ou le service numérique sans la modification et si le contenu numérique ou le service numérique demeure conforme.",
+      "text_sha256": "790f45a0963caba9b2d4ad96cd8c76d4573a88ae0710a6231787fde70e9db304",
+      "md_span": {
+        "start": 32478,
+        "end": 34651
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Action récursoire",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Lorsque la responsabilité du professionnel est engagée à l’égard du consommateur du fait d’un défaut de fourniture du contenu numérique ou du service numérique ou d’un défaut de conformité résultant d’un acte ou d’une omission imputable à une personne située en amont dans la chaîne de transactions, le professionnel a le droit d’exercer un recours contre la ou les personnes responsables intervenant dans la chaîne de transactions commerciales. Le droit national détermine la ou les personnes contre laquelle ou lesquelles le professionnel peut exercer un recours, ainsi que les recours et les conditions d’exercice applicables.",
+      "text_sha256": "8fc19f78cbdaa2e845ecb13470e3a9a61589e2afd1dce1888bc8e79bfc23bf2e",
+      "md_span": {
+        "start": 34710,
+        "end": 35339
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Exécution",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres veillent à ce qu’il existe des moyens adéquats et efficaces permettant d’assurer le respect de la présente directive.\n\n2. Les moyens visés au paragraphe 1 comprennent des dispositions permettant à un ou plusieurs des organismes ci-après, tels qu’ils sont déterminés par le droit national, de saisir en vertu du droit national les juridictions ou les organismes administratifs compétents pour faire appliquer les dispositions nationales transposant la présente directive:\n\na) les organismes publics ou leurs représentants;\n\nb) les organisations de consommateurs ayant un intérêt légitime à protéger les consommateurs;\n\nc) les organisations professionnelles ayant un intérêt légitime à agir;\n\nd) les organismes, organisations ou associations à but non lucratif actifs dans le domaine de la protection des droits et libertés des personnes concernées au sens de l’article 80 du règlement (UE) 2016/679.",
+      "text_sha256": "c51b48a66a2dd40f8a28db0ddc87115e945894387ceef8fb3869c336900431e9",
+      "md_span": {
+        "start": 35390,
+        "end": 36309
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Caractère impératif",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Sauf disposition contraire prévue dans la présente directive, toute clause contractuelle qui, au détriment du consommateur, exclut l’application de mesures nationales transposant la présente directive, déroge à celles-ci ou en modifie leurs effets avant que le défaut de fourniture ou le défaut de conformité ne soit porté à l’attention du professionnel par le consommateur ou avant que la modification du contenu numérique ou du service numérique conformément à l’article 19 ne soit portée à l’attention du consommateur par le professionnel, ne lie pas le consommateur.\n\n2. La présente directive n’empêche pas le professionnel de proposer au consommateur des modalités contractuelles allant au-delà de la protection qu’elle prévoit.",
+      "text_sha256": "1b369f3550c2644008cc04e635a7a00e64b89c46e0d668103ae372e8e91822cd",
+      "md_span": {
+        "start": 36370,
+        "end": 37106
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Modifications du règlement (UE) 2017/2394 et de la directive 2009/22/CE",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. À l’annexe du règlement (UE) 2017/2394, le point suivant est ajouté:\n\n«28. Directive (UE) 2019/770 du Parlement européen et du Conseil du 20 mai 2019 relative à certains aspects concernant les contrats de fourniture de contenus numériques et de services numériques (JO L 136, 22.5.2019, p. 1).».\n\n2. À l’annexe I de la directive 2009/22/CE, le point suivant est ajouté:\n\n«17. Directive (UE) 2019/770 du Parlement européen et du Conseil du 20 mai 2019 relative à certains aspects concernant les contrats de fourniture de contenus numériques et de services numériques (JO L 136, 22.5.2019, p. 1).».",
+      "text_sha256": "142715074c405a021398d2854caf77e78b2eeb05000102429b95eb3057b3f47c",
+      "md_span": {
+        "start": 37219,
+        "end": 37818
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Transposition",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Au plus tard le 1er juillet 2021, les États membres adoptent et publient les dispositions nécessaires pour se conformer à la présente directive. Ils en informent immédiatement la Commission.\n\nIls appliquent ces dispositions à partir du 1er janvier 2022.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\nLes États membres communiquent à la Commission le texte des dispositions de droit interne qu’ils adoptent dans le domaine régi par la présente directive.\n\n2. Les dispositions de la présente directive s’appliquent à la fourniture de contenus numériques ou de services numériques qui a lieu à partir du 1er janvier 2022, à l’exception des articles 19 et 20 de la présente directive qui ne s’appliquent qu’aux contrats conclus à partir de cette date.",
+      "text_sha256": "252ed377b1ef9150a51f818349f1dc606fdf51188a5a50b1f1a3ee6ad4d5c9aa",
+      "md_span": {
+        "start": 37873,
+        "end": 38842
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": "Réexamen",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La Commission, au plus tard le 12 juin 2024, examine l’application de la présente directive et présente un rapport au Parlement européen, au Conseil et au Comité économique et social européen. Le rapport évalue, entre autres, la nécessité d’harmoniser les règles applicables aux contrats portant sur la fourniture de contenus numériques ou de services numériques autre que celle relevant de la présente directive, notamment la fourniture en échange de publicités.",
+      "text_sha256": "aa76eea7e803d5d30bcd05af2152e94469ef8482acee47fe4af8e967b59682ec",
+      "md_span": {
+        "start": 38892,
+        "end": 39355
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": "Entrée en vigueur",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.",
+      "text_sha256": "b3c43ea1732d6689bbfe56147d2310bbc373910e098b8bc1a363e7b45e739b74",
+      "md_span": {
+        "start": 39414,
+        "end": 39547
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32019l0770:2019-05-22#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27",
+      "heading": "Destinataires",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les États membres sont destinataires de la présente directive.\n\n(1) Directive 2003/98/CE du Parlement européen et du Conseil du 17 novembre 2003 concernant la réutilisation des informations du secteur public (JO L 345 du 31.12.2003, p. 90).\n\n(2) Règlement (UE) 2015/2120 du Parlement européen et du Conseil du 25 novembre 2015 établissant des mesures relatives à l’accès à un internet ouvert et aux prix de détail pour les communications à l’intérieur de l’Union européenne réglementées et modifiant la directive 2002/22/CE et le règlement (UE) no 531/2012 (JO L 310 du 26.11.2015, p. 1).\n\n(3) Directive 2001/29/CE du Parlement européen et du Conseil du 22 mai 2001 sur l’harmonisation de certains aspects du droit d’auteur et des droits voisins dans la société de l’information (JO L 167 du 22.6.2001, p. 10).",
+      "text_sha256": "246cb16ec0840e6ab4e2847375a2ac49e06f5712a8a9cdcfa6042ba50a944222",
+      "md_span": {
+        "start": 39602,
+        "end": 40412
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

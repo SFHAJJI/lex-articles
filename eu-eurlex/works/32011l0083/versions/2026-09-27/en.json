@@ -1,0 +1,1109 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32011l0083:2026-09-27",
+  "language": "en",
+  "title": "Directive 2011/83/EU",
+  "valid_from": "2026-09-27",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32011l0083/versions/2026-09-27/en.xml",
+    "sha256": "442fb8e2f0e8e5e1f81e84e25969eff1c49e1613986140064f3b3f7f988d19ab",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011L0083-20260927"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Subject matter",
+      "path": [
+        "CHAPTER I — SUBJECT MATTER, DEFINITIONS AND SCOPE"
+      ],
+      "article_valid_from": null,
+      "text_md": "The purpose of this Directive is, through the achievement of a high level of consumer protection, to contribute to the proper functioning of the internal market by approximating certain aspects of the laws, regulations and administrative provisions of the Member States concerning contracts concluded between consumers and traders.",
+      "text_sha256": "e2e0952ca939ee5767edc15646e5f2aaa13fd70102d9dfd4150c2ab43d21bbe1",
+      "md_span": {
+        "start": 649,
+        "end": 980
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Definitions",
+      "path": [
+        "CHAPTER I — SUBJECT MATTER, DEFINITIONS AND SCOPE"
+      ],
+      "article_valid_from": null,
+      "text_md": "For the purpose of this Directive, the following definitions shall apply:\n\n(1) ‘consumer’ means any natural person who, in contracts covered by this Directive, is acting for purposes which are outside his trade, business, craft or profession;\n\n(2) ‘trader’ means any natural person or any legal person, irrespective of whether privately or publicly owned, who is acting, including through any other person acting in his name or on his behalf, for purposes relating to his trade, business, craft or profession in relation to contracts covered by this Directive;\n\n(3) ‘goods’ means goods as defined in point (5) of Article 2 of Directive (EU) 2019/771 of the European Parliament and of the Council (1);\n\n(4) ‘goods made to the consumer’s specifications’ means non-prefabricated goods made on the basis of an individual choice of or decision by the consumer;\n\n(4a) ‘personal data’ means personal data as defined in point (1) of Article 4 of Regulation (EU) 2016/679 of the European Parliament and of the Council (2);\n\n(5) ‘sales contract’ means any contract under which the trader transfers or undertakes to transfer ownership of goods to the consumer, including any contract having as its object both goods and services;\n\n(6) ‘service contract’ means any contract other than a sales contract under which the trader supplies or undertakes to supply a service, including a digital service, to the consumer;\n\n(7) ‘distance contract’ means any contract concluded between the trader and the consumer under an organised distance sales or service-provision scheme without the simultaneous physical presence of the trader and the consumer, with the exclusive use of one or more means of distance communication up to and including the time at which the contract is concluded;\n\n(8) ‘off-premises contract’ means any contract between the trader and the consumer: (a) concluded in the simultaneous physical presence of the trader and the consumer, in a place which is not the business premises of the trader; (b) for which an offer was made by the consumer in the same circumstances as referred to in point (a); (c) concluded on the business premises of the trader or through any means of distance communication immediately after the consumer was personally and individually addressed in a place which is not the business premises of the trader in the simultaneous physical presence of the trader and the consumer; or (d) concluded during an excursion organised by the trader with the aim or effect of promoting and selling goods or services to the consumer;\n\n(9) ‘business premises’ means: (a) any immovable retail premises where the trader carries out his activity on a permanent basis; or (b) any movable retail premises where the trader carries out his activity on a usual basis;\n\n(10) ‘durable medium’ means any instrument which enables the consumer or the trader to store information addressed personally to him in a way accessible for future reference for a period of time adequate for the purposes of the information and which allows the unchanged reproduction of the information stored;\n\n(11) ‘digital content’ means digital content as defined in point (1) of Article 2 of Directive (EU) 2019/770 of the European Parliament and of the Council (3);\n\n(12) ‘financial service’ means any service of a banking, credit, insurance, personal pension, investment or payment nature;\n\n(13) ‘public auction’ means a method of sale where goods or services are offered by the trader to consumers, who attend or are given the possibility to attend the auction in person, through a transparent, competitive bidding procedure run by an auctioneer and where the successful bidder is bound to purchase the goods or services;\n\n(14) ‘commercial guarantee’ means any undertaking by the trader or a producer (the guarantor) to the consumer, in addition to his legal obligation relating to the guarantee of conformity, to reimburse the price paid or to replace, repair or service goods in any way if they do not meet the specifications or any other requirements not related to conformity set out in the guarantee statement or in the relevant advertising available at the time of, or before the conclusion of the contract;\n\n(14a) ‘commercial guarantee of durability’ means a producer’s commercial guarantee of durability as referred to in Article 17 of Directive (EU) 2019/771, under which the producer is directly liable to the consumer during the entire period of the commercial guarantee of durability for repair or replacement of the goods in accordance with Article 14 of Directive (EU) 2019/771, whenever the goods do not maintain their durability;\n\n(14b) ‘durability’ means durability as defined in Article 2, point (13), of Directive (EU) 2019/771;\n\n(14c) ‘producer’ means producer as defined in Article 2, point (4), of Directive (EU) 2019/771;\n\n(14d) ‘reparability score’ means a score expressing the capacity of a good to be repaired, based on harmonised requirements established at Union level;\n\n(14e) ‘software update’ means a free update, including a security update, that is necessary to keep goods with digital elements, digital content and digital services in conformity in accordance with Directives (EU) 2019/770 and (EU) 2019/771;\n\n(15) ‘ancillary contract’ means a contract by which the consumer acquires goods or services related to a distance contract or an off-premises contract and where those goods are supplied or those services are provided by the trader or by a third party on the basis of an arrangement between that third party and the trader;\n\n(16) ‘digital service’ means a digital service as defined in point (2) of Article 2 of Directive (EU) 2019/770;\n\n(17) ‘online marketplace’ means a service using software, including a website, part of a website or an application, operated by or on behalf of a trader which allows consumers to conclude distance contracts with other traders or consumers;\n\n(18) ‘provider of an online marketplace’ means any trader which provides an online marketplace to consumers;\n\n(19) ‘compatibility’ means compatibility as defined in point (10) of Article 2 of Directive (EU) 2019/770;\n\n(20) ‘functionality’ means functionality as defined in point (11) of Article 2 of Directive (EU) 2019/770;\n\n(21) ‘interoperability’ means interoperability as defined in point (12) of Article 2 of Directive (EU) 2019/770.",
+      "text_sha256": "5275cc0af1bedf55ec475888dae959aa306b28f34df9bc2b55fd8f28ce4d9b00",
+      "md_span": {
+        "start": 1031,
+        "end": 7369
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "32019L2161: REPLACED"
+        },
+        {
+          "href": "#E0001",
+          "text": "1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "32011L0083"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "32019L2161: INSERTED"
+        },
+        {
+          "href": "#E0002",
+          "text": "2"
+        },
+        {
+          "href": "#E0003",
+          "text": "3"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024L0825",
+          "text": "32024L0825: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Scope",
+      "path": [
+        "CHAPTER I — SUBJECT MATTER, DEFINITIONS AND SCOPE"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** This Directive shall apply, under the conditions and to the extent set out in its provisions, to any contract concluded between a trader and a consumer where the consumer pays or undertakes to pay the price. It shall apply to contracts for the supply of water, gas, electricity or district heating, including by public providers, to the extent that these commodities are provided on a contractual basis.\n\n**1a.** This Directive shall also apply where the trader supplies or undertakes to supply digital content which is not supplied on a tangible medium or a digital service to the consumer and the consumer provides or undertakes to provide personal data to the trader, except where the personal data provided by the consumer are exclusively processed by the trader for the purpose of supplying the digital content which is not supplied on a tangible medium or digital service in accordance with this Directive or for allowing the trader to comply with legal requirements to which the trader is subject, and the trader does not process those data for any other purpose.\n\n**1b.** In the case of distance contracts concluded between a trader and a consumer for the supply of financial services, only Articles 1 and 2, Article 3(2), (5) and (6), Article 4, Article 6a, Article 8(6), Article 11a, Articles 16a to 16e, Article 19, Articles 21 to 23, Article 24(1) and (6), Articles 25 to 27 and Article 29 shall apply.\n\nWith the exception of Article 21, where contracts referred to in the first subparagraph comprise an initial service agreement followed by successive operations, or a series of separate operations, of the same nature, performed over time, the provisions referred to in the first subparagraph shall apply only to the initial agreement.\n\nIn the event that there is no initial service agreement but the successive operations, or separate operations, of the same nature performed over time are performed between the same contractual parties, Articles 16a and 16d shall apply only to the first operation.\n\nWhere, however, no operation of the same nature is performed for more than one year, the next operation will be deemed to be the first in a new series of operations and, accordingly, Articles 16a and 16d shall apply.\n\n**2.** If any provision of this Directive conflicts with a provision of another Union act governing specific sectors, the provision of that other Union act shall prevail and shall apply to those specific sectors.\n\n**3.** This Directive shall not apply to contracts:(a) for social services, including social housing, childcare and support of families and persons permanently or temporarily in need, including long-term care;(b) for healthcare as defined in point (a) of Article 3 of Directive 2011/24/EU, whether or not they are provided via healthcare facilities;(c) for gambling, which involves wagering a stake with pecuniary value in games of chance, including lotteries, casino games and betting transactions;▼M3(d) for financial services not covered by Article 3(1b);▼B(e) for the creation, acquisition or transfer of immovable property or of rights in immovable property;(f) for the construction of new buildings, the substantial conversion of existing buildings and for rental of accommodation for residential purposes;▼M1(g) on packages as defined in point 2 of Article 3 of Directive (EU) 2015/2302 of the European Parliament and of the Council (4).Article 6(7), Article 8(2) and (6) and Articles 19, 21 and 22 of this Directive shall apply *mutatis mutandis* to packages as defined in point 2 of Article 3 of Directive (EU) 2015/2302 in relation to travellers as defined in point 6 of Article 3 of that Directive;▼B(h) which fall within the scope of Directive 2008/122/EC of the European Parliament and of the Council of 14 January 2009 on the protection of consumers in respect of certain aspects of timeshare, long-term holiday product, resale and exchange contracts (5);(i) which, in accordance with the laws of Member States, are established by a public office-holder who has a statutory obligation to be independent and impartial and who must ensure, by providing comprehensive legal information, that the consumer only concludes the contract on the basis of careful legal consideration and with knowledge of its legal scope;(j) for the supply of foodstuffs, beverages or other goods intended for current consumption in the household, and which are physically supplied by a trader on frequent and regular rounds to the consumer’s home, residence or workplace;▼M2(k) for passenger transport services, with the exception of Article 8(2) and Articles 19, 21 and 22;▼B(l) concluded by means of automatic vending machines or automated commercial premises;(m) concluded with telecommunications operators through public payphones for their use or concluded for the use of one single connection by telephone, Internet or fax established by a consumer;▼M2(n) for any goods sold by way of execution or otherwise by authority of law.▼B\n\n**4.** Member States may decide not to apply this Directive or not to maintain or introduce corresponding national provisions to off-premises contracts for which the payment to be made by the consumer does not exceed EUR 50. Member States may define a lower value in their national legislation.\n\n**5.** This Directive shall not affect national general contract law such as the rules on the validity, formation or effect of a contract, in so far as general contract law aspects are not regulated in this Directive.\n\n**6.** This Directive shall not prevent traders from offering consumers contractual arrangements which go beyond the protection provided for in this Directive.",
+      "text_sha256": "3ac00dc2a9d686e479caf73a7fe69fc6c5c1a52433de5c443cbe19a5edb552f2",
+      "md_span": {
+        "start": 7414,
+        "end": 13070
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "32019L2161: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "32019L2161: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023L2673",
+          "text": "32023L2673: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "32011L0083"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023L2673",
+          "text": "▼M3"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "▼B"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32015L2302",
+          "text": "▼M1"
+        },
+        {
+          "href": "#E0004",
+          "text": "4"
+        },
+        {
+          "href": "#E0005",
+          "text": "5"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "▼M2"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Level of harmonisation",
+      "path": [
+        "CHAPTER I — SUBJECT MATTER, DEFINITIONS AND SCOPE"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall not maintain or introduce, in their national law, provisions diverging from those laid down in this Directive, including more or less stringent provisions to ensure a different level of consumer protection, unless otherwise provided for in this Directive.",
+      "text_sha256": "db469bb6b7ea8064f9b2b34af996aa67cdbdf603401ace78228fe6c840276b73",
+      "md_span": {
+        "start": 13132,
+        "end": 13407
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Information requirements for contracts other than distance or off-premises contracts",
+      "path": [
+        "CHAPTER II — CONSUMER INFORMATION FOR CONTRACTS OTHER THAN DISTANCE OR OFF-PREMISES CONTRACTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Before the consumer is bound by a contract other than a distance or an off-premises contract, or any corresponding offer, the trader shall provide the consumer with the following information in a clear and comprehensible manner, if that information is not already apparent from the context:(a) the main characteristics of the goods or services, to the extent appropriate to the medium and to the goods or services;(b) the identity of the trader, such as his trading name, the geographical address at which he is established and his telephone number;(c) the total price of the goods or services inclusive of taxes, or where the nature of the goods or services is such that the price cannot reasonably be calculated in advance, the manner in which the price is to be calculated, as well as, where applicable, all additional freight, delivery or postal charges or, where those charges cannot reasonably be calculated in advance, the fact that such additional charges may be payable;(d) where applicable, the arrangements for payment, delivery, performance, the time by which the trader undertakes to deliver the goods or to perform the service, and the trader’s complaint handling policy;▼M4(e) a reminder of the existence of the legal guarantee of conformity for goods and its main elements, including its minimum duration of two years as provided in Directive (EU) 2019/771, in a prominent manner, using the harmonised notice referred to in Article 22a of this Directive;▼M4(ea) where the producer offers the consumer a commercial guarantee of durability at no additional cost, covering the entire good and with a duration of more than two years and makes that information available to the trader, the information that that good benefits from such a guarantee, its duration and a reminder of the existence of the legal guarantee of conformity, in a prominent manner, using the harmonised label referred to in Article 22a;(eb) a reminder of the existence of the legal guarantee of conformity for digital content and digital services;(ec) where applicable, the existence and the conditions of after-sales services and commercial guarantees;(ed) for goods with digital elements, for digital content and for digital services, where the producer or provider makes the information available to the trader, the minimum period, whether expressed as a period of time or by reference to a date, during which the producer or the provider provides software updates;▼B(f) the duration of the contract, where applicable, or, if the contract is of indeterminate duration or is to be extended automatically, the conditions for terminating the contract;▼M2(g) where applicable, the functionality, including applicable technical protection measures, of goods with digital elements, digital content and digital services;(h) where applicable, any relevant compatibility and interoperability of goods with digital elements, digital content and digital services that the trader is aware of or can reasonably be expected to have been aware of;▼M4(i) where applicable, the reparability score for the goods;(j) where point (i) is not applicable and provided that the producer makes the information available to the trader, information about the availability and estimated cost of, and procedure for ordering, spare parts that are necessary to keep the goods in conformity, about the availability of repair and maintenance instructions and about repair restrictions.▼B\n\n**2.** Paragraph 1 shall also apply to contracts for the supply of water, gas or electricity, where they are not put up for sale in a limited volume or set quantity, of district heating or of digital content which is not supplied on a tangible medium.\n\n**3.** Member States shall not be required to apply paragraph 1 to contracts which involve day-to-day transactions and which are performed immediately at the time of their conclusion.\n\n**4.** Member States may adopt or maintain additional pre-contractual information requirements for contracts to which this Article applies.",
+      "text_sha256": "8053da9163f959cb2a0579b9ff94d77ae426503e4f19bcc3ccd4c8ffbf1802cc",
+      "md_span": {
+        "start": 13629,
+        "end": 17656
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024L0825",
+          "text": "▼M4"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "▼B"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "▼M2"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Information requirements for distance and off-premises contracts",
+      "path": [
+        "CHAPTER III — CONSUMER INFORMATION AND RIGHT OF WITHDRAWAL FOR DISTANCE AND OFF-PREMISES CONTRACTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Before the consumer is bound by a distance or off-premises contract, or any corresponding offer, the trader shall provide the consumer with the following information in a clear and comprehensible manner:(a) the main characteristics of the goods or services, to the extent appropriate to the medium and to the goods or services;(b) the identity of the trader, such as his trading name;▼M2(c) the geographical address at which the trader is established as well as the trader’s telephone number and email address; in addition, where the trader provides other means of online communication which guarantee that the consumer can keep any written correspondence, including the date and time of such correspondence, with the trader on a durable medium, the information shall also include details of those other means; all those means of communication provided by the trader shall enable the consumer to contact the trader quickly and communicate with him efficiently; where applicable, the trader shall also provide the geographical address and identity of the trader on whose behalf he is acting;▼B(d) if different from the address provided in accordance with point (c), the geographical address of the place of business of the trader, and, where applicable, that of the trader on whose behalf he is acting, where the consumer can address any complaints;(e) the total price of the goods or services inclusive of taxes, or where the nature of the goods or services is such that the price cannot reasonably be calculated in advance, the manner in which the price is to be calculated, as well as, where applicable, all additional freight, delivery or postal charges and any other costs or, where those charges cannot reasonably be calculated in advance, the fact that such additional charges may be payable. In the case of a contract of indeterminate duration or a contract containing a subscription, the total price shall include the total costs per billing period. Where such contracts are charged at a fixed rate, the total price shall also mean the total monthly costs. Where the total costs cannot be reasonably calculated in advance, the manner in which the price is to be calculated shall be provided;▼M2(ea) where applicable, that the price was personalised on the basis of automated decision-making;▼B(f) the cost of using the means of distance communication for the conclusion of the contract where that cost is calculated other than at the basic rate;▼M4(g) the arrangements for payment, delivery, including environmentally friendly delivery options where available, performance, the time by which the trader undertakes to deliver the goods or to perform the services and, where applicable, the trader’s complaint handling policy;▼M3(h) where a right of withdrawal exists, the conditions, time limit and procedures for exercising that right in accordance with Article 11(1), as well as the model withdrawal form set out in Annex I(B), and, where applicable, information about the existence and placement of the withdrawal function referred to in Article 11a;▼B(i) where applicable, that the consumer will have to bear the cost of returning the goods in case of withdrawal and, for distance contracts, if the goods, by their nature, cannot normally be returned by post, the cost of returning the goods;(j) that, if the consumer exercises the right of withdrawal after having made a request in accordance with Article 7(3) or Article 8(8), the consumer shall be liable to pay the trader reasonable costs in accordance with Article 14(3);(k) where a right of withdrawal is not provided for in accordance with Article 16, the information that the consumer will not benefit from a right of withdrawal or, where applicable, the circumstances under which the consumer loses his right of withdrawal;▼M4(l) a reminder of the existence of the legal guarantee of conformity for goods and its main elements, including its minimum duration of two years as provided in Directive (EU) 2019/771, in a prominent manner, using the harmonised notice referred to in Article 22a of this Directive;▼M4(la) where the producer offers the consumer a commercial guarantee of durability at no additional cost, covering the entire good and with a duration of more than two years, and makes that information available to the trader, the information that that good benefits from such a guarantee, its duration and a reminder of the existence of the legal guarantee of conformity, in a prominent manner, using the harmonised label referred to in Article 22a;(lb) a reminder of the existence of the legal guarantee of conformity for digital content and digital services;(lc) for goods with digital elements, for digital content and for digital services, where the producer or the provider makes the information available to the trader, the minimum period, whether expressed as a period of time or by reference to a date, during which the producer or the provider provides software updates;▼B(m) where applicable, the existence and the conditions of after sale customer assistance, after-sales services and commercial guarantees;(n) the existence of relevant codes of conduct, as defined in point (f) of Article 2 of Directive 2005/29/EC, and how copies of them can be obtained, where applicable;(o) the duration of the contract, where applicable, or, if the contract is of indeterminate duration or is to be extended automatically, the conditions for terminating the contract;(p) where applicable, the minimum duration of the consumer’s obligations under the contract;(q) where applicable, the existence and the conditions of deposits or other financial guarantees to be paid or provided by the consumer at the request of the trader;▼M2(r) where applicable, the functionality, including applicable technical protection measures, of goods with digital elements, digital content and digital services;(s) where applicable, any relevant compatibility and interoperability of goods with digital elements, digital content and digital services that the trader is aware of or can reasonably be expected to have been aware of;▼B(t) where applicable, the possibility of having recourse to an out-of-court complaint and redress mechanism, to which the trader is subject, and the methods for having access to it;▼M4(u) where applicable, the reparability score for the goods;(v) where point (u) is not applicable and provided that the producer makes the information available to the trader, information about the availability and estimated cost of, and procedure for ordering, spare parts that are necessary to keep the goods in conformity, about the availability of repair and maintenance instructions and about repair restrictions.▼B\n\n**2.** Paragraph 1 shall also apply to contracts for the supply of water, gas or electricity, where they are not put up for sale in a limited volume or set quantity, of district heating or of digital content which is not supplied on a tangible medium.\n\n**3.** In the case of a public auction, the information referred to in points (b), (c) and (d) of paragraph 1 may be replaced by the equivalent details for the auctioneer.\n\n**4.** The information referred to in points (h), (i) and (j) of paragraph 1 of this Article may be provided by means of the model instructions on withdrawal set out in Annex I(A). The trader shall have fulfilled the information requirements laid down in points (h), (i) and (j) of paragraph 1 of this Article if the trader has supplied these instructions to the consumer, correctly filled in. The references to the withdrawal period of 14 days in the model instructions on withdrawal set out in Annex I(A) shall be replaced by references to a withdrawal period of 30 days in cases where Member States have adopted rules in accordance with Article 9(1a).\n\n**5.** The information referred to in paragraph 1 shall form an integral part of the distance or off-premises contract and shall not be altered unless the contracting parties expressly agree otherwise.\n\n**6.** If the trader has not complied with the information requirements on additional charges or other costs as referred to in point (e) of paragraph 1, or on the costs of returning the goods as referred to in point (i) of paragraph 1, the consumer shall not bear those charges or costs.\n\n**7.** Member States may maintain or introduce in their national law language requirements regarding the contractual information, so as to ensure that such information is easily understood by the consumer.\n\n**8.** The information requirements laid down in this Directive are in addition to information requirements contained in Directive 2006/123/EC and Directive 2000/31/EC and do not prevent Member States from imposing additional information requirements in accordance with those Directives.\n\nWithout prejudice to the first subparagraph, if a provision of Directive 2006/123/EC or Directive 2000/31/EC on the content and the manner in which the information is to be provided conflicts with a provision of this Directive, the provision of this Directive shall prevail.\n\n**9.** As regards compliance with the information requirements laid down in this Chapter, the burden of proof shall be on the trader.",
+      "text_sha256": "347c5b55127615f541681af32affcd497039c1f7f235b8df60107d426638dcfb",
+      "md_span": {
+        "start": 17863,
+        "end": 27043
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "▼M2"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "▼B"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024L0825",
+          "text": "▼M4"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023L2673",
+          "text": "▼M3"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "32019L2161: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "32011L0083"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6a",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_6a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6a",
+      "heading": "Additional specific information requirements for contracts concluded on online marketplaces",
+      "path": [
+        "CHAPTER III — CONSUMER INFORMATION AND RIGHT OF WITHDRAWAL FOR DISTANCE AND OFF-PREMISES CONTRACTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Before a consumer is bound by a distance contract, or any corresponding offer, on an online marketplace, the provider of the online marketplace shall, without prejudice to Directive 2005/29/EC, provide the consumer with the following information in a clear and comprehensible manner and in a way appropriate to the means of distance communication:(a) general information, made available in a specific section of the online interface that is directly and easily accessible from the page where the offers are presented, on the main parameters determining ranking, as defined in point (m) of Article 2(1) of Directive 2005/29/EC, of offers presented to the consumer as a result of the search query and the relative importance of those parameters as opposed to other parameters;(b) whether the third party offering the goods, services or digital content is a trader or not, on the basis of the declaration of that third party to the provider of the online marketplace;(c) where the third party offering the goods, services or digital content is not a trader, that the consumer rights stemming from Union consumer protection law do not apply to the contract;(d) where applicable, how the obligations related to the contract are shared between the third party offering the goods, services or digital content and the provider of the online marketplace, such information being without prejudice to any responsibility that the provider of the online marketplace or the third-party trader has in relation to the contract under other Union or national law.\n\n**2.** Without prejudice to Directive 2000/31/EC, this Article does not prevent Member States from imposing additional information requirements for providers of online marketplaces. Such provisions shall be proportionate, non-discriminatory and justified on grounds of consumer protection.",
+      "text_sha256": "38f27668aacbc8ecace89ea19dad4a201a084f178f20dd3691603d9afaa19441",
+      "md_span": {
+        "start": 27176,
+        "end": 29019
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Formal requirements for off-premises contracts",
+      "path": [
+        "CHAPTER III — CONSUMER INFORMATION AND RIGHT OF WITHDRAWAL FOR DISTANCE AND OFF-PREMISES CONTRACTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** With respect to off-premises contracts, the trader shall give the information provided for in Article 6(1) to the consumer on paper or, if the consumer agrees, on another durable medium. That information shall be legible and in plain, intelligible language.\n\n**2.** The trader shall provide the consumer with a copy of the signed contract or the confirmation of the contract on paper or, if the consumer agrees, on another durable medium, including, where applicable, the confirmation of the consumer’s prior express consent and acknowledgement in accordance with point (m) of Article 16.\n\n**3.** Where a consumer wants the performance of services, or the supply of water, gas or electricity, where they are not put up for sale in a limited volume or set quantity, or of district heating to begin during the withdrawal period provided for in Article 9(2), and the contract places the consumer under an obligation to pay, the trader shall require that the consumer make such an express request on a durable medium and request the consumer to acknowledge that, once the contract has been fully performed by the trader, the consumer will no longer have the right of withdrawal.\n\n**4.** With respect to off-premises contracts where the consumer has explicitly requested the services of the trader for the purpose of carrying out repairs or maintenance for which the trader and the consumer immediately perform their contractual obligations and where the payment to be made by the consumer does not exceed EUR 200:(a) the trader shall provide the consumer with the information referred to in points (b) and (c) of Article 6(1) and information about the price or the manner in which the price is to be calculated together with an estimate of the total price, on paper or, if the consumer agrees, on another durable medium. The trader shall provide the information referred to in points (a), (h) and (k) of Article 6(1), but may choose not to provide it on paper or another durable medium if the consumer expressly agrees;(b) the confirmation of the contract provided in accordance with paragraph 2 of this Article shall contain the information provided for in Article 6(1).\n\nMember States may decide not to apply this paragraph.\n\n**5.** Member States shall not impose any further formal pre-contractual information requirements for the fulfilment of the information obligations laid down in this Directive.",
+      "text_sha256": "dc176f76fbbeaae4589afecbcb25814e5a4d1c209f90fdc9f612c04dfd4de32e",
+      "md_span": {
+        "start": 29105,
+        "end": 31512
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "32019L2161: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "32011L0083"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Formal requirements for distance contracts",
+      "path": [
+        "CHAPTER III — CONSUMER INFORMATION AND RIGHT OF WITHDRAWAL FOR DISTANCE AND OFF-PREMISES CONTRACTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** With respect to distance contracts, the trader shall give the information provided for in Article 6(1) or make that information available to the consumer in a way appropriate to the means of distance communication used in plain and intelligible language. In so far as that information is provided on a durable medium, it shall be legible.\n\n**2.** ►M4 If a distance contract to be concluded by electronic means places the consumer under an obligation to pay, the trader shall make the consumer aware in a clear and prominent manner, and directly before the consumer places his order, of the information provided for in Article 6(1), points (a), (e), (la), (o) and (p).** ◄ **\n\nThe trader shall ensure that the consumer, when placing his order, explicitly acknowledges that the order implies an obligation to pay. If placing an order entails activating a button or a similar function, the button or similar function shall be labelled in an easily legible manner only with the words ‘order with obligation to pay’ or a corresponding unambiguous formulation indicating that placing the order entails an obligation to pay the trader. If the trader has not complied with this subparagraph, the consumer shall not be bound by the contract or order.\n\n**3.** Trading websites shall indicate clearly and legibly at the latest at the beginning of the ordering process whether any delivery restrictions apply and which means of payment are accepted.\n\n**4.** If the contract is concluded through a means of distance communication which allows limited space or time to display the information, the trader shall provide, on or through that particular means prior to the conclusion of such a contract, at least the pre-contractual information regarding the main characteristics of the goods or services, the identity of the trader, the total price, the right of withdrawal, the duration of the contract and, if the contract is of indeterminate duration, the conditions for terminating the contract, as referred to, respectively, in points (a), (b), (e), (h) and (o) of Article 6(1) except the model withdrawal form set out in Annex I(B) referred to in point (h). The other information referred to in Article 6(1), including the model withdrawal form, shall be provided by the trader to the consumer in an appropriate way in accordance with paragraph 1 of this Article.\n\n**5.** Without prejudice to paragraph 4, if the trader makes a telephone call to the consumer with a view to concluding a distance contract, he shall, at the beginning of the conversation with the consumer, disclose his identity and, where applicable, the identity of the person on whose behalf he makes that call, and the commercial purpose of the call.\n\n**6.** Where a distance contract is to be concluded by telephone, Member States may provide that the trader has to confirm the offer to the consumer who is bound only once he has signed the offer or has sent his written consent. Member States may also provide that such confirmations have to be made on a durable medium.\n\n**7.** The trader shall provide the consumer with the confirmation of the contract concluded, on a durable medium within a reasonable time after the conclusion of the distance contract, and at the latest at the time of the delivery of the goods or before the performance of the service begins. That confirmation shall include:(a) all the information referred to in Article 6(1) unless the trader has already provided that information to the consumer on a durable medium prior to the conclusion of the distance contract; and(b) where applicable, the confirmation of the consumer’s prior express consent and acknowledgment in accordance with point (m) of Article 16.\n\n**8.** Where a consumer wants the performance of services, or the supply of water, gas or electricity, where they are not put up for sale in a limited volume or set quantity, or of district heating, to begin during the withdrawal period provided for in Article 9(2), and the contract places the consumer under an obligation to pay, the trader shall require that the consumer make an express request and request the consumer to acknowledge that, once the contract has been fully performed by the trader, the consumer will no longer have the right of withdrawal.\n\n**9.** This Article shall be without prejudice to the provisions on the conclusion of e-contracts and the placing of e-orders set out in Articles 9 and 11 of Directive 2000/31/EC.\n\n**10.** Member States shall not impose any further formal pre-contractual information requirements for the fulfilment of the information obligations laid down in this Directive.",
+      "text_sha256": "ba2f3f7c383a38367651e3515718de851aad14048c672b0fb099449d3a9f4fcf",
+      "md_span": {
+        "start": 31594,
+        "end": 36219
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024L0825",
+          "text": "►M4"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "32019L2161: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "32011L0083"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Right of withdrawal",
+      "path": [
+        "CHAPTER III — CONSUMER INFORMATION AND RIGHT OF WITHDRAWAL FOR DISTANCE AND OFF-PREMISES CONTRACTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Save where the exceptions provided for in Article 16 apply, the consumer shall have a period of 14 days to withdraw from a distance or off-premises contract, without giving any reason, and without incurring any costs other than those provided for in Article 13(2) and Article 14.\n\n**1a.** Member States may adopt rules in accordance with which the withdrawal period of 14 days referred to in paragraph 1 is extended to 30 days for contracts concluded in the context of unsolicited visits by a trader to a consumer’s home or excursions organised by a trader with the aim or effect of promoting or selling products to consumers for the purpose of protecting legitimate interests of consumers with regard to aggressive or misleading marketing or selling practices. Such rules shall be proportionate, non-discriminatory and justified on grounds of consumer protection.\n\n**2.** Without prejudice to Article 10, the withdrawal period referred to in paragraph 1 of this Article shall expire after 14 days or, in cases where Member States have adopted rules in accordance with paragraph 1a of this Article, 30 days from:▼B(a) in the case of service contracts, the day of the conclusion of the contract;(b) in the case of sales contracts, the day on which the consumer or a third party other than the carrier and indicated by the consumer acquires physical possession of the goods or:(i) in the case of multiple goods ordered by the consumer in one order and delivered separately, the day on which the consumer or a third party other than the carrier and indicated by the consumer acquires physical possession of the last good;(ii) in the case of delivery of a good consisting of multiple lots or pieces, the day on which the consumer or a third party other than the carrier and indicated by the consumer acquires physical possession of the last lot or piece;(iii) in the case of contracts for regular delivery of goods during defined period of time, the day on which the consumer or a third party other than the carrier and indicated by the consumer acquires physical possession of the first good;(c) in the case of contracts for the supply of water, gas or electricity, where they are not put up for sale in a limited volume or set quantity, of district heating or of digital content which is not supplied on a tangible medium, the day of the conclusion of the contract.\n\n**3.** The Member States shall not prohibit the contracting parties from performing their contractual obligations during the withdrawal period. Nevertheless, in the case of off-premises contracts, Member States may maintain existing national legislation prohibiting the trader from collecting the payment from the consumer during the given period after the conclusion of the contract.",
+      "text_sha256": "5703654409b8b2e7b90b62c821fd6439f7311ccac8d09ee6712bff36457fbc6f",
+      "md_span": {
+        "start": 36278,
+        "end": 39034
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "32019L2161: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "32019L2161: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "▼B"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Omission of information on the right of withdrawal",
+      "path": [
+        "CHAPTER III — CONSUMER INFORMATION AND RIGHT OF WITHDRAWAL FOR DISTANCE AND OFF-PREMISES CONTRACTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** If the trader has not provided the consumer with the information on the right of withdrawal as required by point (h) of Article 6(1), the withdrawal period shall expire 12 months from the end of the initial withdrawal period, as determined in accordance with Article 9(2).\n\n**2.** If the trader has provided the consumer with the information provided for in paragraph 1 of this Article within 12 months from the day referred to in Article 9(2), the withdrawal period shall expire 14 days or, in cases where Member States have adopted rules in accordance with Article 9(1a), 30 days after the day upon which the consumer receives that information.",
+      "text_sha256": "9050c9c97e3f4b1e91396af178a2286598e5270022ed5b05af8a36fcb8953dc8",
+      "md_span": {
+        "start": 39126,
+        "end": 39779
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "32019L2161: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "32011L0083"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Exercise of the right of withdrawal",
+      "path": [
+        "CHAPTER III — CONSUMER INFORMATION AND RIGHT OF WITHDRAWAL FOR DISTANCE AND OFF-PREMISES CONTRACTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Before the expiry of the withdrawal period, the consumer shall inform the trader of his decision to withdraw from the contract. For this purpose, the consumer may either:(a) use the model withdrawal form as set out in Annex I(B); or(b) make any other unequivocal statement setting out his decision to withdraw from the contract.\n\nMember States shall not provide for any formal requirements applicable to the model withdrawal form other than those set out in Annex I(B).\n\n**2.** The consumer shall have exercised his right of withdrawal within the withdrawal period referred to in Article 9(2) and Article 10 if the communication concerning the exercise of the right of withdrawal is sent by the consumer before that period has expired.\n\n**3.** The trader may, in addition to the possibilities referred to in paragraph 1, give the option to the consumer to electronically fill in and submit either the model withdrawal form set out in Annex I(B) or any other unequivocal statement on the trader’s website. In those cases the trader shall communicate to the consumer an acknowledgement of receipt of such a withdrawal on a durable medium without delay.\n\n**4.** The burden of proof of exercising the right of withdrawal in accordance with this Article shall be on the consumer.",
+      "text_sha256": "d1d0d44df51144d5ec73a7908aa684049e78557b8b6f203ce4ebe67fa331fb35",
+      "md_span": {
+        "start": 39856,
+        "end": 41137
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11a",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_11a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11a",
+      "heading": "Exercise of the right of withdrawal from distance contracts concluded by the means of an online interface",
+      "path": [
+        "CHAPTER III — CONSUMER INFORMATION AND RIGHT OF WITHDRAWAL FOR DISTANCE AND OFF-PREMISES CONTRACTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** For distance contracts concluded by the means of an online interface, the trader shall ensure that the consumer can also withdraw from the contract by using a withdrawal function.\n\nThe withdrawal function shall be labelled with the words ‘withdraw from contract here’ or an unambiguous corresponding formulation in an easily legible way. The withdrawal function shall be continuously available throughout the withdrawal period. It shall be prominently displayed on the online interface and easily accessible to the consumer.\n\n**2.** The withdrawal function shall enable the consumer to send an online withdrawal statement informing the trader of his or her decision to withdraw from the contract. That online withdrawal statement shall enable the consumer to easily provide or confirm the following information:(a) his or her name;(b) details identifying the contract from which he or she wishes to withdraw;(c) details of the electronic means by which the confirmation of the withdrawal will be sent to the consumer.\n\n**3.** Once the consumer has completed the online withdrawal statement in accordance with paragraph 2, the trader shall enable the consumer to submit it to him by means of a confirmation function.\n\nThat confirmation function shall be labelled in an easily legible manner, and only with the words ‘confirm withdrawal’ or with an unambiguous corresponding formulation.\n\n**4.** Once the consumer activates the confirmation function, the trader shall send to the consumer an acknowledgement of receipt of the withdrawal on a durable medium, including its content and the date and time of its submission, without undue delay.\n\n**5.** The consumer shall be considered to have exercised his or her right of withdrawal within the relevant withdrawal period if he or she submitted the online withdrawal statement referred to in this Article before that period expired.",
+      "text_sha256": "ee1c04d4671039f6fa631376e30c992c753ec33fe841417e79042a9abbf04537",
+      "md_span": {
+        "start": 41286,
+        "end": 43171
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Effects of withdrawal",
+      "path": [
+        "CHAPTER III — CONSUMER INFORMATION AND RIGHT OF WITHDRAWAL FOR DISTANCE AND OFF-PREMISES CONTRACTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "The exercise of the right of withdrawal shall terminate the obligations of the parties:\n\n(a) to perform the distance or off-premises contract; or\n\n(b) to conclude the distance or off-premises contract, in cases where an offer was made by the consumer.",
+      "text_sha256": "7f5fb9cf55890aa5a6dc226a95d161a2b6d4dd5a0ccc982d345b0a3c72486b25",
+      "md_span": {
+        "start": 43234,
+        "end": 43485
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Obligations of the trader in the event of withdrawal",
+      "path": [
+        "CHAPTER III — CONSUMER INFORMATION AND RIGHT OF WITHDRAWAL FOR DISTANCE AND OFF-PREMISES CONTRACTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The trader shall reimburse all payments received from the consumer, including, if applicable, the costs of delivery without undue delay and in any event not later than 14 days from the day on which he is informed of the consumer’s decision to withdraw from the contract in accordance with Article 11.\n\nThe trader shall carry out the reimbursement referred to in the first subparagraph using the same means of payment as the consumer used for the initial transaction, unless the consumer has expressly agreed otherwise and provided that the consumer does not incur any fees as a result of such reimbursement.\n\n**2.** Notwithstanding paragraph 1, the trader shall not be required to reimburse the supplementary costs, if the consumer has expressly opted for a type of delivery other than the least expensive type of standard delivery offered by the trader.\n\n**3.** Unless the trader has offered to collect the goods himself, with regard to sales contracts, the trader may withhold the reimbursement until he has received the goods back, or until the consumer has supplied evidence of having sent back the goods, whichever is the earliest.\n\n**4.** In respect of personal data of the consumer, the trader shall comply with the obligations applicable under Regulation (EU) 2016/679.\n\n**5.** The trader shall refrain from using any content, other than personal data, which was provided or created by the consumer when using the digital content or digital service supplied by the trader, except where such content:(a) has no utility outside the context of the digital content or digital service supplied by the trader;(b) only relates to the consumer’s activity when using the digital content or digital service supplied by the trader;(c) has been aggregated with other data by the trader and cannot be disaggregated or only with disproportionate efforts; or(d) has been generated jointly by the consumer and others, and other consumers are able to continue to make use of the content.\n\n**6.** Except in the situations referred to in point (a), (b) or (c) of paragraph 5, the trader shall, at the request of the consumer, make available to the consumer any content, other than personal data, which was provided or created by the consumer when using the digital content or digital service supplied by the trader.\n\n**7.** The consumer shall be entitled to retrieve that digital content free of charge, without hindrance from the trader, within a reasonable time and in a commonly used and machine-readable format.\n\n**8.** In the event of withdrawal from the contract, the trader may prevent any further use of the digital content or digital service by the consumer, in particular by making the digital content or digital service inaccessible to the consumer or disabling the user account of the consumer, without prejudice to paragraph 6.",
+      "text_sha256": "ae02c81bb2f5531557b309bd15bc009ec5e7b76bb20f58fa9b8e256eea218731",
+      "md_span": {
+        "start": 43579,
+        "end": 46415
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "32019L2161: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "32011L0083"
+        }
+      ]
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Obligations of the consumer in the event of withdrawal",
+      "path": [
+        "CHAPTER III — CONSUMER INFORMATION AND RIGHT OF WITHDRAWAL FOR DISTANCE AND OFF-PREMISES CONTRACTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Unless the trader has offered to collect the goods himself, the consumer shall send back the goods or hand them over to the trader or to a person authorised by the trader to receive the goods, without undue delay and in any event not later than 14 days from the day on which he has communicated his decision to withdraw from the contract to the trader in accordance with Article 11. The deadline shall be met if the consumer sends back the goods before the period of 14 days has expired.\n\nThe consumer shall only bear the direct cost of returning the goods unless the trader has agreed to bear them or the trader failed to inform the consumer that the consumer has to bear them.\n\nIn the case of off-premises contracts where the goods have been delivered to the consumer’s home at the time of the conclusion of the contract, the trader shall at his own expense collect the goods if, by their nature, those goods cannot normally be returned by post.\n\n**2.** The consumer shall only be liable for any diminished value of the goods resulting from the handling of the goods other than what is necessary to establish the nature, characteristics and functioning of the goods. The consumer shall in any event not be liable for diminished value of the goods where the trader has failed to provide notice of the right of withdrawal in accordance with point (h) of Article 6(1).\n\n**2a.** In the event of withdrawal from the contract, the consumer shall refrain from using the digital content or digital service and from making it available to third parties.\n\n**3.** Where a consumer exercises the right of withdrawal after having made a request in accordance with Article 7(3) or Article 8(8), the consumer shall pay to the trader an amount which is in proportion to what has been provided until the time the consumer has informed the trader of the exercise of the right of withdrawal, in comparison with the full coverage of the contract. The proportionate amount to be paid by the consumer to the trader shall be calculated on the basis of the total price agreed in the contract. If the total price is excessive, the proportionate amount shall be calculated on the basis of the market value of what has been provided.\n\n**4.** The consumer shall bear no cost for:(a) the performance of services or the supply of water, gas or electricity, where they are not put up for sale in a limited volume or set quantity, or of district heating, in full or in part, during the withdrawal period, where:(i) the trader has failed to provide information in accordance with points (h) or (j) of Article 6(1); or(ii) the consumer has not expressly requested performance to begin during the withdrawal period in accordance with Article 7(3) and Article 8(8); or(b) the supply, in full or in part, of digital content which is not supplied on a tangible medium where:▼M2(i) the consumer has not given prior express consent to the beginning of the performance before the end of the 14-day or 30-day period referred to in Article 9;▼B(ii) the consumer has not acknowledged that he loses his right of withdrawal when giving his consent; or(iii) the trader has failed to provide confirmation in accordance with Article 7(2) or Article 8(7).\n\n**5.** Except as provided for in Article 13(2) and in this Article, the consumer shall not incur any liability as a consequence of the exercise of the right of withdrawal.",
+      "text_sha256": "897926208d2b70ee644a3896486407fb4ae7f32c1c8d1d0f6b99c543316df1b3",
+      "md_span": {
+        "start": 46511,
+        "end": 49898
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "32019L2161: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "32011L0083"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "▼M2"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "▼B"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Effects of the exercise of the right of withdrawal on ancillary contracts",
+      "path": [
+        "CHAPTER III — CONSUMER INFORMATION AND RIGHT OF WITHDRAWAL FOR DISTANCE AND OFF-PREMISES CONTRACTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Without prejudice to Article 15 of Directive 2008/48/EC of the European Parliament and of the Council of 23 April 2008 on credit agreements for consumers (6), if the consumer exercises his right of withdrawal from a distance or an off-premises contract in accordance with Articles 9 to 14 of this Directive, any ancillary contracts shall be automatically terminated, without any costs for the consumer, except as provided for in Article 13(2) and in Article 14 of this Directive.\n\n**2.** The Member States shall lay down detailed rules on the termination of such contracts.",
+      "text_sha256": "4086bd3846934c0659e54c5581fb6b393c0e7fb770638d3d8b5857d7332b1188",
+      "md_span": {
+        "start": 50013,
+        "end": 50593
+      },
+      "citations": [
+        {
+          "href": "#E0006",
+          "text": "6"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Exceptions from the right of withdrawal",
+      "path": [
+        "CHAPTER III — CONSUMER INFORMATION AND RIGHT OF WITHDRAWAL FOR DISTANCE AND OFF-PREMISES CONTRACTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall not provide for the right of withdrawal set out in Articles 9 to 15 in respect of distance and off-premises contracts as regards the following:\n\n(a) service contracts after the service has been fully performed but, if the contract places the consumer under an obligation to pay, only if the performance has begun with the consumer’s prior express consent and acknowledgement that he will lose his right of withdrawal once the contract has been fully performed by the trader;\n\n(b) the supply of goods or services for which the price is dependent on fluctuations in the financial market which cannot be controlled by the trader and which may occur within the withdrawal period;\n\n(c) the supply of goods made to the consumer’s specifications or clearly personalised;\n\n(d) the supply of goods which are liable to deteriorate or expire rapidly;\n\n(e) the supply of sealed goods which are not suitable for return due to health protection or hygiene reasons and were unsealed after delivery;\n\n(f) the supply of goods which are, after delivery, according to their nature, inseparably mixed with other items;\n\n(g) the supply of alcoholic beverages, the price of which has been agreed upon at the time of the conclusion of the sales contract, the delivery of which can only take place after 30 days and the actual value of which is dependent on fluctuations in the market which cannot be controlled by the trader;\n\n(h) contracts where the consumer has specifically requested a visit from the trader for the purpose of carrying out urgent repairs or maintenance. If, on the occasion of such visit, the trader provides services in addition to those specifically requested by the consumer or goods other than replacement parts necessarily used in carrying out the maintenance or in making the repairs, the right of withdrawal shall apply to those additional services or goods;\n\n(i) the supply of sealed audio or sealed video recordings or sealed computer software which were unsealed after delivery;\n\n(j) the supply of a newspaper, periodical or magazine with the exception of subscription contracts for the supply of such publications;\n\n(k) contracts concluded at a public auction;\n\n(l) the provision of accommodation other than for residential purpose, transport of goods, car rental services, catering or services related to leisure activities if the contract provides for a specific date or period of performance;\n\n(m) contracts for the supply of digital content which is not supplied on a tangible medium if the performance has begun and, if the contract places the consumer under an obligation to pay, where: (i) the consumer has provided prior express consent to begin the performance during the right of withdrawal period; (ii) the consumer has provided acknowledgement that he thereby loses his right of withdrawal; and (iii) the trader has provided confirmation in accordance with Article 7(2) or Article 8(7).\n\nMember States may derogate from the exceptions from the right of withdrawal set out in points (a), (b), (c) and (e) of the first paragraph for contracts concluded in the context of unsolicited visits by a trader to a consumer’s home or excursions organised by a trader with the aim or effect of promoting or selling products to consumers for the purpose of protecting the legitimate interests of consumers with regard to aggressive or misleading marketing or selling practices. Such provisions shall be proportionate, non-discriminatory and justified on grounds of consumer protection.\n\nIn the case of service contracts which place the consumer under an obligation to pay where the consumer has specifically requested a visit from the trader for the purpose of carrying out repairs, Member States may provide that the consumer loses the right of withdrawal after the service has been fully performed provided that the performance has begun with the consumer’s prior express consent.",
+      "text_sha256": "29df74cc03a91f57ca7ea96a3575bc3a93bb6fe0b1a9be61190f22151fcd0856",
+      "md_span": {
+        "start": 50674,
+        "end": 54584
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "32019L2161: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "32011L0083"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019L2161",
+          "text": "32019L2161: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16a",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_16a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16a",
+      "heading": "Information requirements for distance contracts for consumer financial services",
+      "path": [
+        "CHAPTER IIIa — Rules concerning financial services contracts concluded at a distance"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** In good time before the consumer is bound by a distance contract, or any corresponding offer, the trader shall provide the consumer, in a clear and comprehensible manner, with the following information:(a) the identity and the main business of the trader and, where applicable, the identity and the main business of the trader on whose behalf he is acting;(b) the geographical address at which the trader is established as well as the trader’s telephone number and email address, or details of any other means of communication offered by the trader and, where applicable, those of the trader on whose behalf he is acting; all those means of communication offered by the trader shall enable the consumer to contact the trader quickly and to communicate with him efficiently and guarantee that the consumer can keep any written correspondence with the trader on a durable medium;(c) relevant contact details enabling the consumer to address any complaints to the trader, and, where applicable, to the trader on whose behalf he or she is acting;(d) where the trader is registered in a trade or similar public register, the register in which the trader is entered and the registration number or an equivalent means of identification in that register;(e) where the trader’s activity is subject to an authorisation scheme, the name, address, website and any other contact information of the relevant supervisory authority;(f) a description of the main characteristics of the financial service;(g) the total price to be paid by the consumer to the trader for the financial service, including all related fees, charges and expenses, and all taxes paid via the trader or, when an exact price cannot be indicated, the basis for the calculation of the price enabling the consumer to verify it;(h) where applicable, information on the consequences of late or missed payments;(i) where applicable, that the price was personalised on the basis of automated decision-making;(j) where applicable, a notice indicating that the financial service is related to instruments involving special risks related to their specific features or the operations to be executed or whose price depends on fluctuations in the financial markets outside the trader’s control and a notice indicating that historical performances are not indicators for future performances;(k) notice of the possibility that other taxes and/or costs that are not paid via the trader or imposed by him might exist;(l) any limitations of the period for which the information provided in accordance with this paragraph is valid;(m) the arrangements for payment and for performance;(n) any specific additional cost for the consumer of using the means of distance communication, if such additional cost is charged;(o) where environmental or social factors are integrated into the investment strategy of the financial service, information on any environmental or social objectives targeted by the financial service;(p) the existence or absence of a right of withdrawal and, where the right of withdrawal exists, information on the withdrawal period and the conditions for exercising that right including information on the amount which the consumer may be required to pay, as well as the consequences of non-exercise of that right;(q) the minimum duration of the distance contract in the case of financial services to be performed permanently or recurrently;(r) information on any rights the parties might have to terminate the contract early or unilaterally by virtue of the terms of the distance contract, including any penalties imposed under the contract in such cases;(s) practical instructions and procedures for exercising the right of withdrawal in accordance with Article 16b(1), indicating, inter alia, the trader’s telephone number and email address or details of other means of communication relevant to the sending of the withdrawal statement and, for financial services contracts concluded by means of an online interface, information about the existence and placement of the withdrawal function referred to in Article 11a;(t) any contractual clause on the law applicable to the distance contract and/or on the competent court;(u) in which language, or languages, the contractual terms and conditions, and the prior information referred to in this Article, are supplied, and furthermore in which language, or languages, the trader, with the agreement of the consumer, undertakes to communicate during the duration of the distance contract;(v) where applicable, the possibility of having recourse to an out-of-court complaint and redress mechanism, to which the trader is subject, and the methods for having access to it;(w) the existence of guarantee funds or other compensation arrangements, not covered by Directives 2014/49/EU (7) and 97/9/EC of the European Parliament and of the Council (8).\n\n**2.** Member States may maintain or introduce in their national law language requirements regarding the information referred to in paragraph 1, so as to ensure that such information is easily understood by the consumer.\n\n**3.** In the case of voice telephony communications, the identity of the trader and the commercial purpose of the call initiated by the trader shall be made explicitly clear at the beginning of any call with the consumer. When a call is being recorded, or might be recorded, the trader shall also notify the consumer that this is the case.\n\n**4.** By way of derogation from paragraph 1, in the case of voice telephony communications as referred to in paragraph 3, if the consumer explicitly agrees, the trader may provide only the information referred to in points (a), (f), (g), (k) and (p) of paragraph 1 before the consumer is bound by the distance contract. In such case, the trader shall inform the consumer of the nature and the availability of the other information referred to in paragraph 1. The trader shall provide that other information required by paragraph 1 on a durable medium immediately after the conclusion of the distance contract.\n\n**5.** In the event that the information referred to in paragraph 1 is provided less than one day before the consumer is bound by the distance contract, Member States shall require that the trader sends a reminder to the consumer of the possibility to withdraw from the distance contract and of the procedure to follow for withdrawing, in accordance with Article 16b. That reminder shall be provided to the consumer, on a durable medium, between one and seven days after the conclusion of the distance contract.\n\n**6.** The information referred to in paragraph 1 shall be provided to the consumer on a durable medium and be easy to read.\n\nThe information referred to in paragraph 1 shall be provided upon request in an appropriate and accessible format to consumers with disabilities, including those with a visual impairment.\n\n**7.** Except for the information referred to in paragraph 1, points (a), (f), (g), (k), and (p), the trader shall be permitted to layer the information where it is provided by electronic means.\n\nWhere information is layered, it shall be possible to view, save and print the information referred to in paragraph 1 as one single document.\n\nIn such cases, the trader shall ensure that the consumer is presented with all the pre-contractual information referred to in paragraph 1 before the conclusion of the distance contract.\n\n**8.** As regards compliance with the information requirements laid down in this Article, the burden of proof shall be on the trader.\n\n**9.** Member States may adopt or maintain more stringent provisions on pre-contractual information requirements than those referred to in this Article, when the provisions are in conformity with Union law.\n\n**10.** Where another Union act governing specific financial services contains rules on the information to be provided to the consumer prior to the conclusion of the contract, only the rules of that Union act shall apply to those specific financial services, irrespective of the level of detail of those rules, unless otherwise provided in that Union act.\n\nWhere that other Union act does not contain rules on information about the right of withdrawal, the trader shall inform the consumer about the existence or absence of such a right in accordance with paragraph 1, point (p).",
+      "text_sha256": "17b7649458218f23569b3178babab3957c875268e741c253ecbfe63e3f18b075",
+      "md_span": {
+        "start": 54796,
+        "end": 63106
+      },
+      "citations": [
+        {
+          "href": "#E0007",
+          "text": "7"
+        },
+        {
+          "href": "#E0008",
+          "text": "8"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16b",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_16b",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16b",
+      "heading": "Right of withdrawal from distance contracts for financial services",
+      "path": [
+        "CHAPTER IIIa — Rules concerning financial services contracts concluded at a distance"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall ensure that the consumer has a period of 14 calendar days to withdraw from a contract without penalty and without giving any reason. That period shall be extended to 30 calendar days in distance contracts relating to personal pension operations.\n\nThe withdrawal period referred to in the first subparagraph shall begin either:\n\n(a) from the day of the conclusion of the distance contract; or\n\n(b) from the day on which the consumer receives the contractual terms and conditions and the information in accordance with Article 16a, if that is later than the date in point (a) of this subparagraph. If the consumer has not received the contractual terms and conditions and the information in accordance with Article 16a, the withdrawal period shall in any event expire 12 months and 14 days after the conclusion of the distance contract. This shall not apply if the consumer has not been informed about his or her right of withdrawal in accordance with Article 16a(1), point (p).\n\n**2.** The right of withdrawal shall not apply to the following:(a) consumer financial services whose price depends on fluctuations in the financial market outside the trader’s control, which might occur during the withdrawal period, such as services related to:— foreign exchange,— money market instruments,— transferable securities,— units in collective investment undertakings,— financial-futures contracts, including equivalent cash-settled instruments,— forward interest-rate agreements (FRAs),— interest-rate, currency and equity swaps,— options to acquire or dispose of any instruments referred to in this point, including equivalent cash-settled instruments. This category includes in particular options on currency and on interest rates;(b) travel and baggage insurance policies or similar short-term insurance policies of less than one month’s duration;(c) contracts the performance of which has been fully completed by both parties at the consumer’s express request before the consumer exercises his or her right of withdrawal.\n\n**3.** The consumer shall be considered to have exercised his or her right of withdrawal within the withdrawal period referred to in paragraph 1 if he or she has sent the communication concerning the exercise of the right of withdrawal before that period expired.\n\n**4.** Where an ancillary service relating to the distance contract for financial service is provided by the trader or by a third party on the basis of an agreement between that third party and the trader, the consumer shall not be bound by the ancillary contract if the consumer exercises his or her right of withdrawal in accordance with this Article. Where the consumer chooses to terminate the ancillary contract, it shall be without any costs for the consumer.\n\n**5.** This Article shall be without prejudice to any rule of national law establishing a period of time during which the performance of the contract may not begin.\n\n**6.** Where another Union act governing specific financial services contains rules on the right of withdrawal, only rules of that Union act on the right of withdrawal shall apply to those specific financial services, unless otherwise provided in that other Union act. Where that other Union act gives Member States the right to choose between the right of withdrawal and an alternative, such as a reflection period, only the corresponding rules of that Union act shall apply to those specific financial services, unless otherwise provided in that other Union act.\n\n**7.** By way of derogation from this Article, Member States may choose to instead apply the following provisions to the following financial services with regard to the right of withdrawal or a reflection period:(a) Article 14(6) of Directive 2014/17/EU of the European Parliament and of the Council (9) to credit agreements exempted from the scope of that Directive by Article 3(2) thereof; and(b) Articles 26 and 27 of Directive (EU) 2023/2225 of the European Parliament and of the Council (10) to credit agreements exempted from the scope of that Directive by Article 2(2) thereof.",
+      "text_sha256": "9312496e257ac9849751569129bc2c7fe83b74ebd0d6d2f264ed3a49411c0b09",
+      "md_span": {
+        "start": 63216,
+        "end": 67309
+      },
+      "citations": [
+        {
+          "href": "#E0009",
+          "text": "9"
+        },
+        {
+          "href": "#E0010",
+          "text": "10"
+        }
+      ]
+    },
+    {
+      "anchor": "art_16c",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_16c",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16c",
+      "heading": "Payment of the service provided before withdrawal",
+      "path": [
+        "CHAPTER IIIa — Rules concerning financial services contracts concluded at a distance"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Where the consumer exercises the right of withdrawal under Article 16b, the consumer may only be required to pay for the service actually provided by the trader in accordance with the distance contract. The consumer shall pay for that service without undue delay. The amount payable shall not:(a) exceed an amount which is in proportion to the extent of the service already provided in comparison with the full coverage of the distance contract;(b) in any case be such that it could be construed as a penalty.\n\n**2.** Member States may provide that consumers cannot be required to pay any amount for withdrawing from an insurance contract.\n\n**3.** The trader may not require the consumer to pay any amount on the basis of paragraph 1 of this Article unless the trader can prove that the consumer was duly informed about the amount payable, in accordance with Article 16a(1), point (p). However, the trader may not require such payment if the trader commenced the performance of the contract before the expiry of the withdrawal period provided for in Article 16b(1) without the consumer’s prior request.\n\n**4.** The trader shall, without any undue delay and no later than within 30 calendar days of the date on which the trader receives the notification of withdrawal, return to the consumer any sums the trader has received from him or her in accordance with the distance contract, except for the amount referred to in paragraph 1.\n\n**5.** The consumer shall return to the trader any sums he or she has received from the trader without any undue delay and no later than within 30 calendar days of the date on which the consumer withdraws from the contract.",
+      "text_sha256": "7c2d05e909a37ecbfff1915910691be21f32257b93bb0d80613a9e28f8b793d1",
+      "md_span": {
+        "start": 67402,
+        "end": 69065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16d",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_16d",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16d",
+      "heading": "Adequate explanations",
+      "path": [
+        "CHAPTER IIIa — Rules concerning financial services contracts concluded at a distance"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall ensure that traders are required to provide adequate explanations to the consumer concerning the proposed financial services contracts that make it possible for the consumer to assess whether the proposed contract and ancillary services are adapted to his or her needs and financial situation. Such explanations shall be provided to the consumer free of charge and prior to the conclusion of the contract. The explanations shall include the following elements:(a) the required pre-contractual information;(b) the essential characteristics of the proposed contract, including possible ancillary services;(c) the specific effects that the proposed contract may have on the consumer, including, where applicable, the consequences of payment default or late payment by the consumer.\n\n**2.** Member States may specify the manner in which, as well as the extent to which, the explanations referred to in paragraph 1 are given. Member States may adapt the manner and the extent to the circumstances of the situation in which the financial service is offered, the person to whom it is offered and the nature of the financial service offered.\n\n**3.** Member States shall ensure that, in the event that the trader uses online tools, the consumer shall have a right to request and to obtain human intervention at the pre-contractual stage, and in justified cases after the distance contract has been concluded, in the same language as that used for the pre-contractual information provided in accordance with Article 16a(1).\n\n**4.** As regards compliance with the adequate explanation requirements laid down in this Article, the burden of proof shall be on the trader.\n\n**5.** Where another Union act governing specific financial services contains rules on the adequate explanations to be provided to the consumer, only rules on the adequate explanations of that Union act shall apply to those specific financial services, unless otherwise provided in that Union act.",
+      "text_sha256": "2a404cb3278f1f7ea12420201c9d3146c0d1e6404e8e8ad52fe802a1048a1149",
+      "md_span": {
+        "start": 69130,
+        "end": 71113
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16e",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_16e",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16e",
+      "heading": "Additional protection regarding online interfaces",
+      "path": [
+        "CHAPTER IIIa — Rules concerning financial services contracts concluded at a distance"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Without prejudice to Directive 2005/29/EC and Regulation (EU) 2016/679, Member States shall ensure that traders, when concluding financial services contracts at a distance, do not design, organise or operate their online interfaces, as defined in Article 3(m) of Regulation (EU) 2022/2065 of the European Parliament and of the Council (11), in a way that deceives or manipulates consumers who are recipients of their service or otherwise materially distorts or impairs their ability to make free and informed decisions. In particular, Member States shall adopt measures that, in accordance with Union law, address at least one of the following practices by traders:(a) giving more prominence to certain choices when asking the consumers who are recipients of their service for a decision;(b) repeatedly requesting that consumers who are recipients of the service make a choice where that choice has already been made, especially by presenting pop-ups that interfere with the user experience; or(c) making the procedure for terminating a service more difficult than subscribing to it.\n\n**2.** Member States may adopt or maintain more stringent provisions regarding the requirements for traders set out in paragraph 1, when the provisions are in conformity with Union law.",
+      "text_sha256": "9754e316f810482dc3d17a7c263b1b79f3850d231296250119498723b315285e",
+      "md_span": {
+        "start": 71206,
+        "end": 72483
+      },
+      "citations": [
+        {
+          "href": "#E0011",
+          "text": "11"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Scope",
+      "path": [
+        "CHAPTER IV — OTHER CONSUMER RIGHTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Articles 18 and 20 shall apply to sales contracts. Those Articles shall not apply to contracts for the supply of water, gas or electricity, where they are not put up for sale in a limited volume or set quantity, of district heating or the supply of digital content which is not supplied on a tangible medium.\n\n**2.** Articles 19, 21 and 22 shall apply to sales and service contracts and to contracts for the supply of water, gas, electricity, district heating or digital content.",
+      "text_sha256": "f9039e32c6ec94e58e9a5039280575f97896128c491f3ba819c32aa9417f78b8",
+      "md_span": {
+        "start": 72569,
+        "end": 73055
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Delivery",
+      "path": [
+        "CHAPTER IV — OTHER CONSUMER RIGHTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Unless the parties have agreed otherwise on the time of delivery, the trader shall deliver the goods by transferring the physical possession or control of the goods to the consumer without undue delay, but not later than 30 days from the conclusion of the contract.\n\n**2.** Where the trader has failed to fulfil his obligation to deliver the goods at the time agreed upon with the consumer or within the time limit set out in paragraph 1, the consumer shall call upon him to make the delivery within an additional period of time appropriate to the circumstances. If the trader fails to deliver the goods within that additional period of time, the consumer shall be entitled to terminate the contract.\n\nThe first subparagraph shall not be applicable to sales contracts where the trader has refused to deliver the goods or where delivery within the agreed delivery period is essential taking into account all the circumstances attending the conclusion of the contract or where the consumer informs the trader, prior to the conclusion of the contract, that delivery by or on a specified date is essential. In those cases, if the trader fails to deliver the goods at the time agreed upon with the consumer or within the time limit set out in paragraph 1, the consumer shall be entitled to terminate the contract immediately.\n\n**3.** Upon termination of the contract, the trader shall, without undue delay, reimburse all sums paid under the contract.\n\n**4.** In addition to the termination of the contract in accordance with paragraph 2, the consumer may have recourse to other remedies provided for by national law.",
+      "text_sha256": "99e22571410ddd397881733823340b780d2f97a22596ce069fbbdecdbddedd35",
+      "md_span": {
+        "start": 73105,
+        "end": 74723
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Fees for the use of means of payment",
+      "path": [
+        "CHAPTER IV — OTHER CONSUMER RIGHTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall prohibit traders from charging consumers, in respect of the use of a given means of payment, fees that exceed the cost borne by the trader for the use of such means.",
+      "text_sha256": "cc9591068350d558a2ef02c2034e3a064ec46b1b10b8974d29ecf5d48cea367c",
+      "md_span": {
+        "start": 74801,
+        "end": 74986
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Passing of risk",
+      "path": [
+        "CHAPTER IV — OTHER CONSUMER RIGHTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "In contracts where the trader dispatches the goods to the consumer, the risk of loss of or damage to the goods shall pass to the consumer when he or a third party indicated by the consumer and other than the carrier has acquired the physical possession of the goods. However, the risk shall pass to the consumer upon delivery to the carrier if the carrier was commissioned by the consumer to carry the goods and that choice was not offered by the trader, without prejudice to the rights of the consumer against the carrier.",
+      "text_sha256": "fc255ad7c32262b27ca2d96aa5a51370928aaa251f86233b4f7d32193dae0874",
+      "md_span": {
+        "start": 75043,
+        "end": 75566
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Communication by telephone",
+      "path": [
+        "CHAPTER IV — OTHER CONSUMER RIGHTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall ensure that where the trader operates a telephone line for the purpose of contacting him by telephone in relation to the contract concluded, the consumer, when contacting the trader is not bound to pay more than the basic rate.\n\nThe first subparagraph shall be without prejudice to the right of telecommunication services providers to charge for such calls.",
+      "text_sha256": "3732e68f3dc0ae91e83f3a37806f4fd9e11fa4570b6b30371fc197aed884bfab",
+      "md_span": {
+        "start": 75634,
+        "end": 76011
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Additional payments",
+      "path": [
+        "CHAPTER IV — OTHER CONSUMER RIGHTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Before the consumer is bound by the contract or offer, the trader shall seek the express consent of the consumer to any extra payment in addition to the remuneration agreed upon for the trader’s main contractual obligation. If the trader has not obtained the consumer’s express consent but has inferred it by using default options which the consumer is required to reject in order to avoid the additional payment, the consumer shall be entitled to reimbursement of this payment.",
+      "text_sha256": "0e3527bab514333a5657946656966d6ebbfd4e02bcca6affe89ee412ea0fafe4",
+      "md_span": {
+        "start": 76072,
+        "end": 76550
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22a",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_22a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22a",
+      "heading": "Harmonised notice and harmonised label",
+      "path": [
+        "CHAPTER V — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** In order to ensure that consumers are well informed and can easily understand their rights throughout the Union, a harmonised notice shall be used for the provision of information pursuant to Article 5(1), point (e), and Article 6(1), point (l), and a harmonised label shall be used for the provision of information pursuant to Article 5(1), point (ea), and Article 6(1), point (la).\n\n**2.** By 27 September 2025 the Commission shall, by means of implementing acts, specify the design and content of the harmonised notice referred to in paragraph 1.\n\n**3.** The harmonised notice shall contain the main elements of the legal guarantee of conformity, including its minimum duration of two years as provided in Directive (EU) 2019/771 and a general reference to the possibility that the duration of the legal guarantee of conformity is longer under national law.\n\n**4.** By 27 September 2025 the Commission shall, by means of implementing acts, specify the design and content of the harmonised label referred to in paragraph 1.\n\n**5.** The harmonised notice and the harmonised label shall be easily recognisable and understandable for consumers and easy to use and reproduce for traders.\n\n**6.** Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 27a.",
+      "text_sha256": "6ac8e3cbe28e9fe3c7b271044a276df5a49cb8b8d8f4efd673adb3086fa14368",
+      "md_span": {
+        "start": 76667,
+        "end": 77981
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Enforcement",
+      "path": [
+        "CHAPTER V — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall ensure that adequate and effective means exist to ensure compliance with this Directive.\n\n**2.** The means referred to in paragraph 1 shall include provisions whereby one or more of the following bodies, as determined by national law, may take action under national law before the courts or before the competent administrative bodies to ensure that the national provisions transposing this Directive are applied:(a) public bodies or their representatives;(b) consumer organisations having a legitimate interest in protecting consumers;(c) professional organisations having a legitimate interest in acting.",
+      "text_sha256": "d6f62a22027b3dd52ab03e9bd471f5d7e22d5b8cae16e08e75056c7c8173226f",
+      "md_span": {
+        "start": 78034,
+        "end": 78666
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Penalties",
+      "path": [
+        "CHAPTER V — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall lay down the rules on penalties applicable to infringements of national provisions adopted pursuant to this Directive and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.\n\n**2.** Member States shall ensure that the following non-exhaustive and indicative criteria are taken into account for the imposition of penalties, where appropriate:(a) the nature, gravity, scale and duration of the infringement;(b) any action taken by the trader to mitigate or remedy the damage suffered by consumers;(c) any previous infringements by the trader;(d) the financial benefits gained or losses avoided by the trader due to the infringement, if the relevant data are available;(e) penalties imposed on the trader for the same infringement in other Member States in cross-border cases where information about such penalties is available through the mechanism established by Regulation (EU) 2017/2394 of the European Parliament and of the Council (12);(f) any other aggravating or mitigating factors applicable to the circumstances of the case.\n\n**3.** Member States shall ensure that when penalties are to be imposed in accordance with Article 21 of Regulation (EU) 2017/2394, they include the possibility either to impose fines through administrative procedures or to initiate legal proceedings for the imposition of fines, or both, the maximum amount of such fines being at least 4 % of the trader’s annual turnover in the Member State or Member States concerned.\n\n**4.** For cases where a fine is to be imposed in accordance with paragraph 3, but information on the trader’s annual turnover is not available, Member States shall introduce the possibility to impose fines, the maximum amount of which shall be at least EUR 2 million.\n\n**5.** Member States shall, by 28 November 2021, notify the Commission of the rules and measures referred to in paragraph 1 and shall notify it, without delay, of any subsequent amendment affecting them.\n\n**6.** With regard to infringements of the measures adopted pursuant to the provisions referred to in Article 3(1b) applicable to distance contracts for consumer financial services, Member States shall ensure that, when penalties are to be imposed in accordance with Article 21 of Regulation (EU) 2017/2394, they include the possibility either to impose fines through administrative procedures or to initiate legal proceedings for the imposition of fines, or both.",
+      "text_sha256": "e067d6dce95318d3556901d0210868b1ee0f4d49f66d6e4cb243337a7de5878c",
+      "md_span": {
+        "start": 78717,
+        "end": 81234
+      },
+      "citations": [
+        {
+          "href": "#E0012",
+          "text": "12"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023L2673",
+          "text": "32023L2673: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": "Imperative nature of the Directive",
+      "path": [
+        "CHAPTER V — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "If the law applicable to the contract is the law of a Member State, consumers may not waive the rights conferred on them by the national measures transposing this Directive.\n\nAny contractual terms which directly or indirectly waive or restrict the rights resulting from this Directive shall not be binding on the consumer.",
+      "text_sha256": "2b34d81e812be9a2e7dce5adf5bbc7eb5e8ffaad762bec41d9d4e47333f8cbda",
+      "md_span": {
+        "start": 81310,
+        "end": 81632
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": "Information",
+      "path": [
+        "CHAPTER V — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall take appropriate measures to inform consumers and traders of the national provisions transposing this Directive and shall, where appropriate, encourage traders and code owners as defined in point (g) of Article 2 of Directive 2005/29/EC, to inform consumers of their codes of conduct.",
+      "text_sha256": "21e3db7d5aba8b56e2eb40058b663568f6eb05e0dd5f31f507e8def7d0d73181",
+      "md_span": {
+        "start": 81685,
+        "end": 81989
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27",
+      "heading": "Inertia selling",
+      "path": [
+        "CHAPTER V — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "The consumer shall be exempted from the obligation to provide any consideration in cases of unsolicited supply of goods, water, gas, electricity, district heating or digital content or unsolicited provision of services, prohibited by Article 5(5) and point 29 of Annex I to Directive 2005/29/EC. In such cases, the absence of a response from the consumer following such an unsolicited supply or provision shall not constitute consent.",
+      "text_sha256": "cbfe5a7417fe9559fde71e31fa788dbe5c04cd99665a698cecdeff6c8baa7e4c",
+      "md_span": {
+        "start": 82046,
+        "end": 82480
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27a",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_27a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27a",
+      "heading": "Committee procedure",
+      "path": [
+        "CHAPTER V — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council (13).\n\n**2.** Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.",
+      "text_sha256": "1177132126848a844893cdc8e0ab3fc45920bcef2a7fd5f480ea8c011e9de12b",
+      "md_span": {
+        "start": 82543,
+        "end": 82841
+      },
+      "citations": [
+        {
+          "href": "#E0013",
+          "text": "13"
+        }
+      ]
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Article 28",
+      "heading": "Transposition",
+      "path": [
+        "CHAPTER V — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall adopt and publish, by 13 December 2013, the laws, regulations and administrative provisions necessary to comply with this Directive. They shall forthwith communicate to the Commission the text of these measures in the form of documents. The Commission shall make use of these documents for the purposes of the report referred to in Article 30.\n\nThey shall apply those measures from 13 June 2014.\n\nWhen Member States adopt those measures, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. Member States shall determine how such reference is to be made.\n\n**2.** The provisions of this Directive shall apply to contracts concluded after 13 June 2014.",
+      "text_sha256": "0af77f62fd3cbab5e22e0dcb55836f0e17f3f3e5f8a88c1cd16965f0767e3b4b",
+      "md_span": {
+        "start": 82896,
+        "end": 83654
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Article 29",
+      "heading": "Reporting requirements",
+      "path": [
+        "CHAPTER V — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Where a Member State makes use of any of the regulatory choices referred to in Article 3(4), Article 6(7), Article 6(8), Article 7(4), Article 8(6), Article 9(1a) and (3), Article 16, second and third paragraphs, Article 16a(2) and (9), Article 16b(7) and Article 16e, it shall inform the Commission thereof by 19 December 2025, as well as of any subsequent changes.\n\n**2.** The Commission shall ensure that the information referred to in paragraph 1 is easily accessible to consumers and traders, inter alia, on a dedicated website.\n\n**3.** The Commission shall forward the information referred to in paragraph 1 to the other Member States and the European Parliament. The Commission shall consult stakeholders on that information.",
+      "text_sha256": "b86f50d0da88fa60867334a323c76d77924031bab7e475b1a187eebfe7497dac",
+      "md_span": {
+        "start": 83718,
+        "end": 84457
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32023L2673",
+          "text": "32023L2673: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32011L0083",
+          "text": "32011L0083"
+        }
+      ]
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Article 30",
+      "heading": "Reporting by the Commission and review",
+      "path": [
+        "CHAPTER V — GENERAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "By 13 December 2016, the Commission shall submit a report on the application of this Directive to the European Parliament and the Council. That report shall include in particular an evaluation of the provisions of this Directive regarding digital content including the right of withdrawal. The report shall be accompanied, where necessary, by legislative proposals to adapt this Directive to developments in the field of consumer rights.",
+      "text_sha256": "0c90c20a768bb1c5a539ba571cfd0dc1b83908099c5fc3b8d0ba32398b45458a",
+      "md_span": {
+        "start": 84537,
+        "end": 84974
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Article 31",
+      "heading": "Repeals",
+      "path": [
+        "CHAPTER VI — FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Directive 85/577/EEC and Directive 97/7/EC, as amended by Directive 2002/65/EC of the European Parliament and of the Council of 23 September 2002 concerning the distance marketing of consumer financial services (14) and by Directives 2005/29/EC and 2007/64/EC, are repealed as of 13 June 2014.\n\nReferences to the repealed Directives shall be construed as references to this Directive and shall be read in accordance with the correlation table set out in Annex II.",
+      "text_sha256": "1a179ca5d8d9ec87ce286c797d4b4a61ee8ad62555a419171d6a53ddc4b71804",
+      "md_span": {
+        "start": 85057,
+        "end": 85520
+      },
+      "citations": [
+        {
+          "href": "#E0014",
+          "text": "14"
+        }
+      ]
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Article 32",
+      "heading": "Amendment to Directive 93/13/EEC",
+      "path": [
+        "CHAPTER VI — FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "In Directive 93/13/EEC, the following Article is inserted:\n\n‘Article 8a\n\n**1.** Where a Member State adopts provisions in accordance with Article 8, it shall inform the Commission thereof, as well as of any subsequent changes, in particular where those provisions:— extend the unfairness assessment to individually negotiated contractual terms or to the adequacy of the price or remuneration; or,— contain lists of contractual terms which shall be considered as unfair,\n\n**2.** The Commission shall ensure that the information referred to in paragraph 1 is easily accessible to consumers and traders, inter alia, on a dedicated website.\n\n**3.** The Commission shall forward the information referred to in paragraph 1 to the other Member States and the European Parliament. The Commission shall consult stakeholders on that information.’",
+      "text_sha256": "aad42149b90cbe0f2db9970e322e331adecba595e3f058e268ef397fcb32ddc7",
+      "md_span": {
+        "start": 85594,
+        "end": 86430
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Article 33",
+      "heading": "Amendment to Directive 1999/44/EC",
+      "path": [
+        "CHAPTER VI — FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "In Directive 1999/44/EC, the following Article is inserted:\n\n‘Article 8a\n\nReporting requirements\n\n**1.** Where, in accordance with Article 8(2), a Member State adopts more stringent consumer protection provisions than those provided for in Article 5(1) to (3) and in Article 7(1), it shall inform the Commission thereof, as well as of any subsequent changes.\n\n**2.** The Commission shall ensure that the information referred to in paragraph 1 is easily accessible to consumers and traders, inter alia, on a dedicated website.\n\n**3.** The Commission shall forward the information referred to in paragraph 1 to the other Member States and the European Parliament. The Commission shall consult stakeholders on that information.’",
+      "text_sha256": "eca4f6ab5b07faeb5d9c8f4d6b88c1e3b1c27141c6a6a06c1830c43bc6d179ec",
+      "md_span": {
+        "start": 86505,
+        "end": 87230
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Article 34",
+      "heading": "Entry into force",
+      "path": [
+        "CHAPTER VI — FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Directive shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "02dc6f0c0a100ccb8d05531fbcfdf9db82b41de9a255b0fa02c3a2a865b977e7",
+      "md_span": {
+        "start": 87288,
+        "end": 87416
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32011l0083:2026-09-27#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Article 35",
+      "heading": "Addressees",
+      "path": [
+        "CHAPTER VI — FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Directive is addressed to the Member States.",
+      "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+      "md_span": {
+        "start": 87468,
+        "end": 87517
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

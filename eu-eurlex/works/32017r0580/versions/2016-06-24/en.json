@@ -1,0 +1,274 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0580:2016-06-24",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/580 of 24 June 2016 supplementing Regulation (EU) No 600/2014",
+  "valid_from": "2016-06-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0580/versions/2016-06-24/en.xml",
+    "sha256": "9090cf76fe604deca2479c7dda8d76346a6c738338c9eecc6d27ff3732790ccf",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0580"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0580:2016-06-24#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Operators of trading venues shall keep at the disposal of their competent authority the details of each order advertised through their systems set out in Articles 2 to 13 as specified in the second and third columns of Table 2 of the Annex insofar as they pertain to the order concerned.\n\n2. Where competent authorities request any of the details referred to in paragraph 1 in accordance with Article 25(2) of Regulation (EU) No 600/2014, the operators of trading venues shall provide such details using the standards and formats prescribed in the fourth columns of Table 2 of the Annex to this Regulation.",
+      "text_sha256": "a433f2f21b9bb07db9eedb51e8ce4a5f9a601a8665eff16020015917e255a39f",
+      "md_span": {
+        "start": 648,
+        "end": 1268
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0580:2016-06-24#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. For all orders, operators of trading venues shall maintain the records on the following:\n\n| (a) | the member or participant of the trading venue who submitted the order to the trading venue, identified as specified in field 1 of Table 2 of the Annex; |\n| --- | --- |\n\n| (b) | the person or computer algorithm within the member or participant of the trading venue to which an order is submitted that is responsible for the investment decision in relation to the order, identified as specified in field 4 of the Table 2 of the Annex; |\n| --- | --- |\n\n| (c) | the person or computer algorithm within the member or participant of the trading venue that is responsible for the execution of the order, identified as specified in field 5 of Table 2 of the Annex; |\n| --- | --- |\n\n| (d) | the member or participant of the trading venue who routed the order on behalf of and in the name of another member or participant of the trading venue, identified as a non-executing broker as specified in field 6 of Table 2 of the Annex; |\n| --- | --- |\n\n| (e) | the client on whose behalf the member or participant of the trading venue submitted the order to the trading venue, identified as specified in field 3 of Table 2 of the Annex. |\n| --- | --- |\n\n2. Where a member or participant or client of the trading venue is authorised under the legislation of a Member State to allocate an order to its client following submission of the order to the trading venue and has not yet allocated the order to its client at the time of the submission of the order, that order shall be identified as specified in field 3 of Table 2 of the Annex.\n\n3. Where several orders are submitted to the trading venue together as an aggregated order, the aggregated order shall be identified as specified in field 3 of Table 2 of the Annex.",
+      "text_sha256": "a8e7ee40e9c6d48044c5966f6a2fa2d7113594b0452a0204c14a858714b294e3",
+      "md_span": {
+        "start": 1301,
+        "end": 3116
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0580:2016-06-24#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. The trading capacity in which the member or participant of the trading venue submits an order shall be described as specified in field 7 of Table 2 of the Annex.\n\n2. The following orders shall be identified as specified in field 8 of Table 2 of the Annex:\n\n| (a) | an order submitted to a trading venue by a member or participant as part of a market-making strategy pursuant to Articles 17 and 48 of Directive 2014/65/EU of the European Parliament and of the Council (3); |\n| --- | --- |\n\n| (b) | an order submitted to a trading venue by a member or participant as part of any other liquidity provision activity carried out on the basis of terms pre-determined either by the issuer of the instrument which is the subject of the order or by that trading venue. |\n| --- | --- |",
+      "text_sha256": "e92fec93f444d608976d2873c70da7a593dc22599561f88932cb4fc86e662f94",
+      "md_span": {
+        "start": 3149,
+        "end": 3938
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2017087EN.01019301-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0580:2016-06-24#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Operators of trading venues shall maintain a record of the date and time of the occurrence of each event listed in field 21 of Table 2 of the Annex to this Regulation with the level of accuracy specified by Article 2 of Commission Delegated Regulation (EU) 2017/574 (4) as specified in field 9 of Table 2 of the Annex to this Regulation. Except for the recording of the date and time of the rejection of orders by trading venue systems, all events referred to in field 21 of Table 2 of the Annex to this Regulation shall be recorded using the business clocks used by trading venue matching engines.\n\n2. Operators of trading venues shall maintain a record of the date and time for each data element listed in fields 49, 50 and 51 of Table 2 of the Annex to this Regulation, with the level of accuracy specified by Article 2 of Delegated Regulation (EU) 2017/574.",
+      "text_sha256": "4436779ef33512a570fe2f5338c98449463f0d3d5fb3c53566f704ab24db28b9",
+      "md_span": {
+        "start": 3971,
+        "end": 4846
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2017087EN.01019301-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0580:2016-06-24#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Operators of trading venues shall keep a record of the validity periods and order restrictions that are listed in fields 10 and 11 of Table 2 of the Annex.\n\n2. Records of the dates and times in respect of validity periods shall be maintained as specified in field 12 of Table 2 of the Annex for each validity period.",
+      "text_sha256": "37fa63fbf465e268a474bcbfbe24d59c0dbd543fb668a4ddf82c14b02500b079",
+      "md_span": {
+        "start": 4879,
+        "end": 5209
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0580:2016-06-24#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Operators of trading venues which operate trading systems on a price visibility-time priority shall maintain a record of the priority time stamp for all orders as specified in field 13 of Table 2 of the Annex. The priority time stamp shall be maintained with the same level of accuracy specified by Article 4(1).\n\n2. Operators of trading venues which operate trading systems on a size-time priority basis shall maintain a record of the quantities which determine the priority of orders as specified in field 14 of Table 2 of the Annex as well as the priority time stamp referred to in paragraph 1.\n\n3. Operators of trading venues which use a combination of price-visibility-time priority and size-time priority and display orders on their order book in time priority shall comply with paragraph 1.\n\n4. Operators of trading venues which use a combination of price-visibility-time priority and size-time priority and displays orders on its order book in size-time priority shall comply with paragraph 2.\n\n5. Operators of trading venues shall assign and maintain a sequence number for all events as specified in field 15 of Table 2 of the Annex.",
+      "text_sha256": "2e4dafcb9dd71416fbd97eb43dcfd486f72c2db727941485f20260eaef022713",
+      "md_span": {
+        "start": 5242,
+        "end": 6398
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r0580:2016-06-24#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Operators of trading venues shall maintain an individual identification code for each order as specified in field 20 of Table 2 of the Annex. The identification code shall be unique per order book, per trading day and per financial instrument. It shall apply from the receipt of the order by the operator of the trading venue until the removal of the order from the order book. The identification code shall also apply to rejected orders irrespective of the ground for their rejection.\n\n2. The operator of the trading venue shall maintain the relevant details of strategy orders with implied functionality (SOIF) that are disseminated to the public as specified in the Annex. Field 33 of Table 2 of the Annex shall include a statement that the order is an implicit order.\n\nUpon execution of a SOIF, its details shall be maintained by the operator of the trading venue as specified in the Annex.\n\nUpon execution of a SOIF, a strategy linked order identification code shall be indicated using the same identification code for all orders connected to the particular strategy. The strategy linked order identification code shall be as specified in field 46 of Table 2 of the Annex.\n\n3. Orders submitted to a trading venue allowing for a routing strategy shall be identified by that trading venue as ‘routed’ as specified in field 33 of Table 2 of the Annex when they are routed to another trading venue. Orders submitted to a trading venue allowing for a routing strategy shall retain the same identification code for their lifetime, regardless of whether any remaining quantity is re-posted on the order book of entry.",
+      "text_sha256": "0745b1dff1e518e4d3e004aa8d0eebe230cf6a86a9800011591d1c1dc9decd88",
+      "md_span": {
+        "start": 6431,
+        "end": 8060
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r0580:2016-06-24#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nOperators of trading venues shall maintain a record of the details referred to in field 21 of Table 2 of the Annex in relation to the new orders.",
+      "text_sha256": "712ba14738ea0c977d497c607dd604d36b37ade779998e8949021f60cc3f62d3",
+      "md_span": {
+        "start": 8093,
+        "end": 8249
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32017r0580:2016-06-24#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Operators of trading venues shall maintain a record of the order type for each order received using their own classification as specified in field 22 of Table 2 of the Annex.\n\n2. Operators of trading venues shall classify each received order either as a limit order or as a stop order as specified in field 23 of Table 2 of the Annex.",
+      "text_sha256": "466b1e9356a8d1473ca408f218a96eab1af91afe0756bbcbbe1a78cb6c0a1c69",
+      "md_span": {
+        "start": 8282,
+        "end": 8630
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32017r0580:2016-06-24#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nOperators of trading venues shall maintain a record of all price related details referred to in Section I of Table 2 of the Annex insofar as they pertain to the orders.",
+      "text_sha256": "4728490e131b9d648f35e9606afc333101f21bae595df6782d8eaf95ff1eab0d",
+      "md_span": {
+        "start": 8665,
+        "end": 8845
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32017r0580:2016-06-24#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nOperators of trading venues shall maintain records of all order instructions received for each order as specified in Section J of Table 2 of the Annex.",
+      "text_sha256": "45d607642c8e0c84ae748bfa2a37a49afb5f866f8c964ef1081b38a694f62e9a",
+      "md_span": {
+        "start": 8880,
+        "end": 9043
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32017r0580:2016-06-24#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nOperators of trading venues shall maintain an individual transaction identification code for each transaction resulting from the full or partial execution of an order as specified in field 48 of Table 2 of the Annex.",
+      "text_sha256": "cd60a1fe48d81f85afddad549bc2c6675ff7d4d7e253c110b56780b4cb24935e",
+      "md_span": {
+        "start": 9078,
+        "end": 9306
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32017r0580:2016-06-24#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Operators of trading venues shall maintain a record of the order details as specified in Section K of Table 2 of the Annex.\n\n2. Where competent authorities request details referred to in Section K pursuant to Article 1, the details referred to in fields 9 and 15 to 18 of Table 2 of the Annex shall also be considered as details pertaining to the order concerned by that request.",
+      "text_sha256": "6528f4f74909cb46d5beb9f70ea24c596ef2dcafd8fd4ccb83937c93c7316853",
+      "md_span": {
+        "start": 9341,
+        "end": 9735
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32017r0580:2016-06-24#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from the date referred to in the second paragraph of Article 55 of Regulation (EU) No 600/2014.",
+      "text_sha256": "5320f03dbf4391d3dc8621c7edd76130e53684123427a7128d13b0f3d08bcad8",
+      "md_span": {
+        "start": 9770,
+        "end": 10034
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

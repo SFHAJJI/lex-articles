@@ -1,0 +1,99 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32020l1504:2020-10-07",
+  "language": "fr",
+  "title": "Directive (EU) 2020/1504",
+  "valid_from": "2020-10-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32020l1504/versions/2020-10-07/fr.xml",
+    "sha256": "2e7aab043a21479606df80452601a27ae06ef9678a98a708a43c3c21a12c2046",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32020L1504"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32020l1504:2020-10-07#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l’article 2, paragraphe 1, de la directive 2014/65/UE, le point suivant est ajouté:\n\n| «p) | aux prestataires de services de financement participatif au sens de l’article 2, paragraphe 1, point e), du règlement (UE) 2020/1503 du Parlement européen et du Conseil(*1). |\n| --- | --- |",
+      "text_sha256": "1f3325e8407916cb2c80ae1689c58cbcf66cc3ff3519259ea319aa4bbc8b637d",
+      "md_span": {
+        "start": 569,
+        "end": 870
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2020347FR.01005001-E0005",
+          "text": "(*1)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32020l1504:2020-10-07#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les États membres adoptent et publient, au plus tard le 10 mai 2021, les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à l’article 1er de la présente directive.\n\nIls appliquent ces dispositions à partir du 10 novembre 2021.\n\n2. Les États membres communiquent à la Commission et à l’Autorité européenne des marchés financiers (AEMF) le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine régi par la présente directive.",
+      "text_sha256": "7578bddd9d23fbce7d58e1f2e03acdc696395873ddb690d05df8cf52a93df089",
+      "md_span": {
+        "start": 903,
+        "end": 1413
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32020l1504:2020-10-07#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLa présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "33d675349ea71b50fecd79643cf4d588edb987445b0a9353a37d98672f1c30b7",
+      "md_span": {
+        "start": 1446,
+        "end": 1588
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32020l1504:2020-10-07#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "0fc712c9ed5879dbad5bea3e7474f713eea34cda4ea895cc231207fc9b7290bb",
+      "md_span": {
+        "start": 1621,
+        "end": 1694
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

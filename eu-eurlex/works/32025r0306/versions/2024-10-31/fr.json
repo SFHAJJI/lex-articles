@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0306:2024-10-31",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2025/306 of 31\u00A0October 2024 laying down implementing technical standards for the application of Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-10-31",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0306/versions/2024-10-31/fr.xml",
+    "sha256": "748e423eda843341d391ba895bbee812f6abf5df8785e24ea030863dd1586f40",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0306"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0306:2024-10-31#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes autorités compétentes désignent un point de contact pour la réception des demandes d’agrément en tant que prestataire de services sur crypto-actifs déposées conformément à l’article 62 du règlement (UE) 2023/1114.\n\nLes autorités compétentes tiennent à jour les coordonnées du point de contact désigné et les publient sur leur site web.",
+      "text_sha256": "cf71d26b03b00d8bc1ec22ca3ab029820b49ffb5b36a7ae9a14837fddfd79363",
+      "md_span": {
+        "start": 706,
+        "end": 1062
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0306:2024-10-31#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Toute personne morale ou autre entreprise qui demande à être agréée en tant que prestataire de services sur crypto-actifs conformément à l’article 62 du règlement (UE) 2023/1114 (ci-après le «demandeur») soumet sa demande d’agrément à l’autorité compétente au moyen du formulaire figurant à l’annexe du présent règlement.\n\n2. La personne morale ou autre entreprise soumet sa demande d’une manière qui permette de stocker les informations de telle sorte qu’elles puissent être consultées ultérieurement et reproduites à l’identique.",
+      "text_sha256": "1b086ff7c8d89d8cec50c79640af77d9a47bc4dd72197cb540fb02136dc48187",
+      "md_span": {
+        "start": 1095,
+        "end": 1640
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0306:2024-10-31#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLes autorités compétentes envoient au demandeur un accusé de réception par voie électronique, sur support papier, ou sous les deux formes. Ledit accusé de réception contient les coordonnées du service, de la fonction ou du membre du personnel de l’autorité compétente qui traite la demande.",
+      "text_sha256": "195964b45ac49b58a818f156b5c2e98c8e430831daf31c77f8f301777e37db9d",
+      "md_span": {
+        "start": 1673,
+        "end": 1974
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0306:2024-10-31#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Le demandeur notifie sans retard injustifié à l’autorité compétente toute modification des informations fournies dans la demande d’agrément. Le demandeur fournit les informations actualisées en utilisant le formulaire figurant en annexe.\n\n2. Lorsque le demandeur fournit des informations actualisées conformément au paragraphe 1, le délai fixé à l’article 63, paragraphe 9, du règlement (UE) 2023/1114 commence à courir à compter de la date à laquelle l’autorité compétente reçoit ces informations actualisées.\n\n3. Les prestataires de services sur crypto-actifs notifient à l’autorité compétente toute modification des informations sur la base desquelles l’agrément a été accordé.",
+      "text_sha256": "faa250e6903a14bd113d64e47452486de5c44120abb85310aa2c640e4dfbf50c",
+      "md_span": {
+        "start": 2007,
+        "end": 2701
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0306:2024-10-31#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLes autorités compétentes notifient au demandeur leur décision de lui octroyer ou de lui refuser l’agrément, telle que visée à l’article 63, paragraphe 9, du règlement (UE) 2023/1114, sur support papier, par voie électronique, ou les deux.",
+      "text_sha256": "4fe0eabbeda4e771897ee6798d79fcbf06936abc7c969e8549aa2ad1485e7e29",
+      "md_span": {
+        "start": 2734,
+        "end": 2984
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r0306:2024-10-31#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "c09b73b69148bd7d9e0dbfde231d12a005b999b8a85ebf9860b2b8bebb65247a",
+      "md_span": {
+        "start": 3017,
+        "end": 3158
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

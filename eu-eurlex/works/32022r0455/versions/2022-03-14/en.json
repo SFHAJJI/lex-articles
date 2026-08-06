@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r0455:2022-03-14",
+  "language": "en",
+  "title": "Commission Regulation (EU) 2022/455 of 14\u00A0March 2022 amending Regulation (EC) No\u00A0748/2009 as regards the update of the list of aircraft operators which performed an aviation activity listed in Annex I to Directive 2003/87/EC",
+  "valid_from": "2022-03-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r0455/versions/2022-03-14/en.xml",
+    "sha256": "e62672dddf913830aa8e0c832dc13744edc9f8517a1ff0be7398fd5bab291713",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0455"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r0455:2022-03-14#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe Annex to Regulation (EC) No 748/2009 is replaced by the text set out in the Annex to this Regulation.",
+      "text_sha256": "a4de4d6bc6f0bcefa2dd670df3ec9be53053658794fd09fc4d1f47080eda78c5",
+      "md_span": {
+        "start": 769,
+        "end": 885
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r0455:2022-03-14#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fef49a0526c3bc8f72d910413581dafec620b7b36b35e6295f6df9ebe6febc15",
+      "md_span": {
+        "start": 918,
+        "end": 1065
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

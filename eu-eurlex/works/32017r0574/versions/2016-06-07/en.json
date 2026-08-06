@@ -1,0 +1,116 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0574:2016-06-07",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/574 of 7 June 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2016-06-07",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0574/versions/2016-06-07/en.xml",
+    "sha256": "49a60850f71e637b2f62daaf9378fb41005da12ebbcfa498ca789d615a010d25",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0574"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0574:2016-06-07#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nOperators of trading venues and their members or participants shall synchronise the business clocks they use to record the date and time of any reportable event with the Coordinated Universal Time (UTC) issued and maintained by the timing centres listed in the latest Bureau international des poids et mesures Annual Report on Time Activities. Operators of trading venues and their members or participants may also synchronise the business clocks they use to record the date and time of any reportable event with UTC disseminated by a satellite system, provided that any offset from UTC is accounted for and removed from the timestamp.",
+      "text_sha256": "b58b2f8cbf35724067d49a0b24f6eb88294b3af7057d8cea08712de019ad13b7",
+      "md_span": {
+        "start": 640,
+        "end": 1286
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0574:2016-06-07#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Operators of trading venues shall ensure that their business clocks adhere to the levels of accuracy specified in Table 1 of the Annex according to the gateway to gateway latency of each of their trading systems.\n\nGateway to gateway latency shall be the time measured from the moment a message is received by an outer gateway of the trading venue's system, sent through the order submission protocol, processed by the matching engine, and then sent back until an acknowledgement is sent from the gateway.\n\n2. By derogation from paragraph 1, operators of trading venues that operate a voice trading system, request for quote system where the response requires human intervention or does not allow algorithmic trading, or a system that formalises negotiated transactions in accordance with Article 4(1)(b) of Regulation (EU) No 600/2014 of the European Parliament and of the Council (3) shall ensure that their business clocks do not diverge by more than one second from UTC referred to in Article 1 of this Regulation. The operator of the trading venue shall ensure that times are recorded to at least a one second granularity.\n\n3. Operators of trading venues that operate multiple types of trading systems shall ensure that each system adheres to the level of accuracy applicable to that system in accordance with paragraphs 1 and 2.",
+      "text_sha256": "b82ece3530ce5c8d46ff385b327bc02b25c680b632b222b275821430045c08c5",
+      "md_span": {
+        "start": 1319,
+        "end": 2666
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2017087EN.01014801-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0574:2016-06-07#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Members or participants of trading venues shall ensure that their business clocks used to record the time of reportable events adhere to the level of accuracy specified in Table 2 of the Annex.\n\n2. Members or participants of trading venues that engage in multiple types of trading activities shall ensure that the systems that they use to record reportable events adhere to the level of accuracy applicable to each of these trading activities in accordance with the requirements set out in Table 2 of the Annex.",
+      "text_sha256": "b12aa865389467cddd32bf414a7bcf6a7b4f390614e209f561318ada7623efb6",
+      "md_span": {
+        "start": 2699,
+        "end": 3224
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0574:2016-06-07#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nOperators of trading venues and their members or participants shall establish a system of traceability to UTC. They shall be able to demonstrate traceability to UTC by documenting the system design, functioning and specifications. They shall be able to identify the exact point at which a timestamp is applied and demonstrate that the point within the system where the timestamp is applied remains consistent. They shall conduct a review of the compliance of the traceability system with this Regulation at least once a year.",
+      "text_sha256": "a421e93ba500263f236bcd0e6da9763330c04e2d0f66986537dc5dba57e5b513",
+      "md_span": {
+        "start": 3257,
+        "end": 3793
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0574:2016-06-07#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 3 January 2018.",
+      "text_sha256": "91d07d2eddcd23ceadffa6eac35aeb99abbeeca1bfe054359a909098571cc63e",
+      "md_span": {
+        "start": 3826,
+        "end": 4014
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

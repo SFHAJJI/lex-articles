@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32010r0920:2013-10-01",
+  "language": "en",
+  "title": "Commission Regulation (EU) No\u00A0920/2010 of 7\u00A0October 2010 for a standardised and secured system of registries pursuant to Directive 2003/87/EC",
+  "valid_from": "2013-10-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32010r0920/versions/2013-10-01/en.html",
+    "sha256": "7c0ea88106144af1c1e31f66f469e529db1f270409688964e6f2c7307716728e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02010R0920-20131001"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32010r0920:2013-10-01#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "2010R0920 — EN — 01.10.2013 — 003.001 This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents ►B COMMISSION REGULATION (EU) No 920/2010 of 7 October 2010 establishing a Union Registry for the periods ending 31 December 2012 of the Union emissions trading scheme pursuant to Directive 2003/87/EC of the European Parliament and of the Council and Decision No 280/2004/EC of the European Parliament and of the Council (Text with EEA relevance) (OJ L 270, 14.10.2010, p.1) repealed by: Official Journal No page date Commission Regulation (EU) No 389/2013 of 2 May 2013 L 122 1 3.5.2013",
+      "text_sha256": "7c0c42a8c8850267e77da7f2ebc5828d131b6561da0a0ed000ef16c497532c52",
+      "md_span": {
+        "start": 708,
+        "end": 1353
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

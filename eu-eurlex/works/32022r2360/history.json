@@ -1,0 +1,93 @@
+{
+  "lex_work_id": "eu-eurlex:32022r2360",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "art_1": [
+      {
+        "valid_from": "2022-08-03",
+        "valid_to": null,
+        "text_sha256": "039ecf1279b8f2603d8e3fe578bdf022026356b93f95359419b2019f2939e51e",
+        "in_version": "eu-eurlex:32022r2360:2022-08-03"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2022-08-03",
+        "valid_to": null,
+        "text_sha256": "1b2f059ad53674ec680bdb6327e3d297c3cab500c06b3c637f9c1e6e81a8b7cc",
+        "in_version": "eu-eurlex:32022r2360:2022-08-03"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2022-08-03",
+        "valid_to": null,
+        "text_sha256": "02809d4e9e10f6dffa814ba961762ea101024597f89b0c76de8aeddb95cb0cb1",
+        "in_version": "eu-eurlex:32022r2360:2022-08-03"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "en": {
+      "art_1": [
+        {
+          "valid_from": "2022-08-03",
+          "valid_to": null,
+          "text_sha256": "039ecf1279b8f2603d8e3fe578bdf022026356b93f95359419b2019f2939e51e",
+          "in_version": "eu-eurlex:32022r2360:2022-08-03"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2022-08-03",
+          "valid_to": null,
+          "text_sha256": "1b2f059ad53674ec680bdb6327e3d297c3cab500c06b3c637f9c1e6e81a8b7cc",
+          "in_version": "eu-eurlex:32022r2360:2022-08-03"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2022-08-03",
+          "valid_to": null,
+          "text_sha256": "02809d4e9e10f6dffa814ba961762ea101024597f89b0c76de8aeddb95cb0cb1",
+          "in_version": "eu-eurlex:32022r2360:2022-08-03"
+        }
+      ]
+    },
+    "fr": {
+      "art_1": [
+        {
+          "valid_from": "2022-08-03",
+          "valid_to": null,
+          "text_sha256": "bc7aa930963a523305434134b3fbc8e1bb9a07a8173bef27dbb447bef8ce9e0b",
+          "in_version": "eu-eurlex:32022r2360:2022-08-03"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2022-08-03",
+          "valid_to": null,
+          "text_sha256": "1ceeff6b22a02b2710318d72bd6b051ebd274c668666730c7fa2b52925c00fe5",
+          "in_version": "eu-eurlex:32022r2360:2022-08-03"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2022-08-03",
+          "valid_to": null,
+          "text_sha256": "897ede0a1abff44ced678cc411f47cac2365622024e4bfd6b2d9d3e49d66fcbb",
+          "in_version": "eu-eurlex:32022r2360:2022-08-03"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": []
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0301:2024-10-23",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2025/301 of 23\u00A0October 2024 supplementing Regulation (EU)\u00A02022/2554",
+  "valid_from": "2024-10-23",
+  "valid_to": "2025-02-19",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0301/versions/2024-10-23/fr.xml",
+    "sha256": "cad9d2bb15614daddb20ccd80f98eb7245fbe9477e7caf7a5be65d94d5a76390",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32025R0301"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0301:2024-10-23#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes entités financières incluent dans la notification initiale, le rapport intermédiaire et le rapport final, visés à l’article 19, paragraphe 4, du règlement (UE) 2022/2554, les informations générales suivantes:\n\n| a) | le type de soumission (notification initiale, rapport intermédiaire ou rapport final); |\n| --- | --- |\n\n| b) | le nom de l’entité financière, son code LEI et le type d’entité financière visé à l’article 2, paragraphe 1, du règlement (UE) 2022/2554; |\n| --- | --- |\n\n| c) | le nom et le code d’identification de l’entité qui soumet la notification initiale, ou le rapport intermédiaire ou final, pour l’entité financière; |\n| --- | --- |\n\n| d) | le cas échéant, les noms et codes LEI de toutes les entités financières couvertes par la notification initiale agrégée ou le rapport intermédiaire ou final; |\n| --- | --- |\n\n| e) | les coordonnées des personnes chargées de communiquer avec l’autorité compétente au sujet de l’incident majeur lié aux TIC; |\n| --- | --- |\n\n| f) | le cas échéant, l’identification de l’entreprise mère du groupe auquel l’entité financière appartient; |\n| --- | --- |\n\n| g) | en cas d’incidence sur la situation monétaire, la monnaie dans laquelle les montants sont calculés. |\n| --- | --- |",
+      "text_sha256": "ef20c35b1fcc0cde564bb83b38cb1f3fb239352c6ae8e8dd7d7d8281d1682471",
+      "md_span": {
+        "start": 655,
+        "end": 1909
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0301:2024-10-23#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes notifications initiales visées à l’article 19, paragraphe 4, point a), du règlement (UE) 2022/2554 contiennent au moins toutes les informations spécifiques suivantes:\n\n| a) | le code de référence de l’incident attribué par l’entité financière; |\n| --- | --- |\n\n| b) | la date et l’heure de détection de l’incident et sa classification conformément à l’article 8 du règlement délégué (UE) 2024/1772 de la Commission (7); |\n| --- | --- |\n\n| c) | une description de l’incident lié aux TIC; |\n| --- | --- |\n\n| d) | les critères énoncés aux articles 1er à 8 du règlement délégué (UE) 2024/1772, sur la base desquels l’entité financière a classé l’incident lié aux TIC comme majeur; |\n| --- | --- |\n\n| e) | les États membres touchés par l’incident lié aux TIC; |\n| --- | --- |\n\n| f) | des informations sur la manière dont l’incident lié aux TIC a été détecté; |\n| --- | --- |\n\n| g) | le cas échéant, des informations sur l’origine de l’incident lié aux TIC; |\n| --- | --- |\n\n| h) | des informations indiquant si l’entité financière a activé un plan de continuité des activités; |\n| --- | --- |\n\n| i) | le cas échéant, des informations sur le reclassement de l’incident lié aux TIC de majeur à non majeur; |\n| --- | --- |\n\n| j) | le cas échéant, toute autre information pertinente. |\n| --- | --- |",
+      "text_sha256": "9fb18b2e1f8b81a747b4c0ae139db353d2692964feb4d30cf6f64a8cbeebf5cc",
+      "md_span": {
+        "start": 1942,
+        "end": 3247
+      },
+      "citations": [
+        {
+          "href": "#ntr7-L_202500301FR.000101-E0007",
+          "text": "(7)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0301:2024-10-23#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLes rapports intermédiaires visés à l’article 19, paragraphe 4, point b), du règlement (UE) 2022/2554 contiennent au moins toutes les informations spécifiques suivantes:\n\n| a) | le cas échéant, le code de référence de l’incident attribué par l’autorité compétente; |\n| --- | --- |\n\n| b) | la date et l’heure auxquelles l’incident lié aux TIC est survenu; |\n| --- | --- |\n\n| c) | le cas échéant, la date et l’heure auxquelles l’entité financière a repris ses activités régulières; |\n| --- | --- |\n\n| d) | des informations sur la manière dont les critères énoncés aux articles 1er à 8 du règlement délégué (UE) 2024/1772 ont été remplis, sur la base desquels l’entité financière a classé l’incident lié aux TIC comme majeur; |\n| --- | --- |\n\n| e) | le type d’incident lié aux TIC; |\n| --- | --- |\n\n| f) | le cas échéant, les menaces et les techniques utilisées par l’acteur de la menace; |\n| --- | --- |\n\n| g) | les domaines fonctionnels et les processus opérationnels concernés; |\n| --- | --- |\n\n| h) | les composants d’infrastructure concernés soutenant les processus opérationnels; |\n| --- | --- |\n\n| i) | l’incidence sur les intérêts financiers des clients; |\n| --- | --- |\n\n| j) | des informations sur la notification de l’incident lié aux TIC à d’autres autorités; |\n| --- | --- |\n\n| k) | les actions ou mesures temporaires prises ou prévues par l’entité financière pour se rétablir à la suite de l’incident lié aux TIC; |\n| --- | --- |\n\n| l) | le cas échéant, des informations sur les indicateurs de compromis. |\n| --- | --- |",
+      "text_sha256": "a0c2501a54517bea5ea60e3af246aa531c25cfe54a9a471b0f7c4364591f5088",
+      "md_span": {
+        "start": 3280,
+        "end": 4822
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32025r0301:2024-10-23#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes rapports finaux visés à l’article 19, paragraphe 4, point c), du règlement (UE) 2022/2554 contiennent toutes les informations spécifiques suivantes:\n\n| a) | des informations sur les causes originelles de l’incident lié aux TIC; |\n| --- | --- |\n\n| b) | les dates et heures auxquelles l’incident lié aux TIC a été résolu et la ou les causes originelles ont été traitées; |\n| --- | --- |\n\n| c) | des informations sur la résolution de l’incident lié aux TIC; |\n| --- | --- |\n\n| d) | le cas échéant, les informations pertinentes pour les autorités de résolution; |\n| --- | --- |\n\n| e) | des informations sur les coûts et pertes directs et indirects découlant de l’incident lié aux TIC et des informations sur les recouvrements financiers; |\n| --- | --- |\n\n| f) | le cas échéant, des informations sur les incidents récurrents liés aux TIC. |\n| --- | --- |",
+      "text_sha256": "10a747d4a1f7a05187dd7ad2710ce476efc4073ffa6f5037c0040056181c769f",
+      "md_span": {
+        "start": 4855,
+        "end": 5719
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32025r0301:2024-10-23#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Les entités financières soumettent la notification initiale et les rapports intermédiaire et final visés à l’article 19, paragraphe 4, points a), b) et c), du règlement (UE) 2022/2554 dans les délais suivants:\n\n| a) | pour le rapport initial: le plus tôt possible, mais en tout état de cause, dans un délai de quatre heures à compter de la classification de l’incident lié aux TIC comme majeur et au plus tard 24 heures à compter du moment où l’entité financière en a eu connaissance; |\n| --- | --- |\n\n| b) | pour le rapport intermédiaire: au plus tard dans un délai de 72 heures à compter de la soumission de la notification initiale, même si la situation ou le traitement de l’incident n’ont pas changé conformément à l’article 19, paragraphe 4, point b), du règlement (UE) 2022/2554. Les entités financières soumettent sans retard injustifié un rapport intermédiaire actualisé et, en tout état de cause, lorsque les activités régulières ont repris; |\n| --- | --- |\n\n| c) | pour le rapport final: au plus tard un mois après la soumission du rapport intermédiaire ou, le cas échéant, après la dernière mise à jour du rapport intermédiaire. |\n| --- | --- |\n\n2. Lorsque l’entité financière n’a pas classé un incident lié aux TIC comme majeur dans un délai de 24 heures à compter du moment où elle en a eu connaissance, mais qu’elle classe cet incident comme majeur à un stade ultérieur, elle soumet la notification initiale dans un délai de quatre heures à compter de la classification de l’incident lié aux TIC comme majeur.\n\n3. Les entités financières qui ne sont pas en mesure de soumettre la notification initiale, le rapport intermédiaire ou le rapport final dans les délais fixés au paragraphe 1 en informent l’autorité compétente dans les meilleurs délais, mais au plus tard dans les délais respectifs pour la soumission de la notification ou du rapport, et en expliquent les raisons.\n\n4. Lorsque le délai de soumission d’une notification initiale, d’un rapport intermédiaire ou d’un rapport final expire un jour de week-end ou un jour férié dans l’État membre de l’entité financière déclarante, l’entité financière peut soumettre la notification initiale, le rapport intermédiaire ou le rapport final au plus tard à midi le jour ouvrable suivant.\n\n5. Le paragraphe 4 ne s’applique pas à la soumission d’une notification initiale ou d’un rapport intermédiaire par les établissements de crédit, les contreparties centrales, les opérateurs de plates-formes de négociation et d’autres entités financières considérées comme des entités essentielles ou importantes conformément à l’article 3 de la directive (UE) 2022/2555.\n\n6. Les autorités compétentes peuvent décider que le paragraphe 4 ne s’applique pas à la soumission d’une notification initiale ou d’un rapport intermédiaire par les entités financières, autres que celles visées au paragraphe 5, qui sont classées comme importantes ou présentent un caractère systémique pour le secteur financier au niveau national ou de l’Union. Les autorités compétentes notifient leur décision aux entités financières concernées. La décision de l’autorité compétente ne s’applique qu’en ce qui concerne les incidents déclarés après la date de la notification de la décision par l’autorité compétente aux entités financières concernées.",
+      "text_sha256": "93cb41ebb4fc2e4a549ec2c8b15ce5955e427fd7eaaddb6febb332adc7cdd782",
+      "md_span": {
+        "start": 5752,
+        "end": 9045
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32025r0301:2024-10-23#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLe contenu de la notification volontaire en ce qui concerne les cybermenaces importantes visée à l’article 19, paragraphe 2, du règlement (UE) 2022/2554 couvre l’ensemble des éléments suivants:\n\n| a) | des informations générales sur l’entité financière notifiante, conformément à l’article 1er; |\n| --- | --- |\n\n| b) | la date et l’heure de détection de la cybermenace importante et de tout autre horodatage pertinent lié à cette dernière; |\n| --- | --- |\n\n| c) | une description de la cybermenace importante; |\n| --- | --- |\n\n| d) | des informations sur l’incidence potentielle de la cybermenace importante sur l’entité financière, ses clients ou ses contreparties financières; |\n| --- | --- |\n\n| e) | les critères de classification susceptibles d’avoir été à l’origine d’un rapport d’incident majeur prévus aux articles 1er à 8 du règlement délégué (UE) 2024/1772 en cas de matérialisation de la cybermenace; |\n| --- | --- |\n\n| f) | des informations sur la situation de la cybermenace importante et sur tout changement dans l’activité de la menace; |\n| --- | --- |\n\n| g) | le cas échéant, une description des mesures prises par l’entité financière pour empêcher la matérialisation des cybermenaces importantes; |\n| --- | --- |\n\n| h) | des informations sur toute notification de la cybermenace importante à d’autres entités ou autorités financières; |\n| --- | --- |\n\n| i) | le cas échéant, des informations sur les indicateurs de compromis; |\n| --- | --- |\n\n| j) | le cas échéant, toute autre information pertinente. |\n| --- | --- |",
+      "text_sha256": "ede38b2a736a986090d96fe316f680d84b683528b2c99a03bd7a91dec2c1e11d",
+      "md_span": {
+        "start": 9078,
+        "end": 10622
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32025r0301:2024-10-23#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "92d429b34a3a9f93e1fbab0220e829f20f25ba205365dc831acd6004d986e6bc",
+      "md_span": {
+        "start": 10655,
+        "end": 10796
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

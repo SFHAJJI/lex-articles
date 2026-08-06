@@ -1,0 +1,710 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0979:2020-09-17",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2019/979 of 14 March 2019 supplementing Regulation (EU) 2017/1129",
+  "valid_from": "2020-09-17",
+  "valid_to": "2026-07-09",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0979/versions/2020-09-17/fr.html",
+    "sha256": "bd20e786c91a12644f78664ff0792179ef94cc89e9958b84f0b7e7e08ae012f9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02019R0979-20200917"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Contenu minimal des informations financières clés dans le résumé du prospectus",
+      "path": [
+        "*SECTION 1*",
+        "***Contenu des informations financières clés dans le résumé du prospectus***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les informations financières clés figurant dans le résumé d’un prospectus sont constituées des informations financières prévues dans les annexes du règlement délégué de la Commission 2019/980 (1).\n\n2. Lorsque des informations visées dans les tableaux pertinents figurant aux annexes I à VI du présent règlement ne sont pas incluses dans les états financiers de l’émetteur, l’émetteur communique à la place un élément correspondant de ses états financiers.\n\n3. L’émetteur peut inclure des postes supplémentaires ou des indicateurs alternatifs de performance dans le résumé d’un prospectus lorsqu’il s’agit d’informations financières clés sur l’émetteur ou sur les valeurs mobilières offertes ou admises à la négociation sur un marché réglementé. Aux fins de la première phrase, les indicateurs alternatifs de performance sont des indicateurs financiers, historiques ou prospectifs, de la performance financière, de la situation financière ou des flux de trésorerie, qui sont autres que les indicateurs financiers définis dans le cadre de présentation des informations financières applicable.\n\n4. Les émetteurs qui ne relèvent d’aucun des types d’émetteurs visés aux articles 2 à 8 présentent les informations financières clés indiquées dans les tableaux dont ils estiment qu’ils correspondent de la façon la plus proche au type de valeurs mobilières émises.\n\n5. Les informations financières clés sont présentées pour le nombre d’exercices requis par le règlement délégué 2019/980 pour le type d’émission et le type de valeurs mobilières émises.",
+      "text_sha256": "b4caadd9872f2b25a1e9b1113f707bc9bd8bb07932a349faaafc73bec0a1e6f3",
+      "md_span": {
+        "start": 857,
+        "end": 2403
+      },
+      "citations": [
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Informations financières clés pour les entités non financières émettant des titres de capital",
+      "path": [
+        "*SECTION 1*",
+        "***Contenu des informations financières clés dans le résumé du prospectus***"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsque l’émetteur est une entité non financière émettant des titres de capital, le résumé du prospectus contient les informations financières clés indiquées dans les tableaux figurant à l’annexe I.",
+      "text_sha256": "ff6fe153d7fefbf85d55c6acdf820666f584cbd58ec7c286074de9e364923bcb",
+      "md_span": {
+        "start": 2536,
+        "end": 2734
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Informations financières clés pour les entités non financières émettant des titres autres que de capital",
+      "path": [
+        "*SECTION 1*",
+        "***Contenu des informations financières clés dans le résumé du prospectus***"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsque l’émetteur est une entité non financière émettant des titres autres que de capital, le résumé du prospectus contient les informations financières clés indiquées dans les tableaux figurant à l’annexe II.",
+      "text_sha256": "2a3201df55e2f7329bc736ad7802f70b10777ecc48d77fe1f74da699ae4c49b5",
+      "md_span": {
+        "start": 2878,
+        "end": 3088
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Informations financières clés pour les établissements de crédit",
+      "path": [
+        "*SECTION 1*",
+        "***Contenu des informations financières clés dans le résumé du prospectus***"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsque l’émetteur est un établissement de crédit, le résumé du prospectus contient les informations financières clés indiquées dans les tableaux figurant à l’annexe III.",
+      "text_sha256": "7eb9dc5f1f64a1f099dbbf2ea746e8e8027fb367a31fa976df410ba261ca0020",
+      "md_span": {
+        "start": 3191,
+        "end": 3361
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Informations financières clés pour les entreprises d’assurance",
+      "path": [
+        "*SECTION 1*",
+        "***Contenu des informations financières clés dans le résumé du prospectus***"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsque l’émetteur est une entreprise d’assurance, le résumé du prospectus contient les informations financières clés indiquées dans les tableaux figurant à l’annexe IV.",
+      "text_sha256": "1005f0a8353f863aaf6785c2fa9d94c5043d3059d4183b4a573399701cec9773",
+      "md_span": {
+        "start": 3463,
+        "end": 3632
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Informations financières clés pour les entités ad hoc émettant des titres adossés à des actifs",
+      "path": [
+        "*SECTION 1*",
+        "***Contenu des informations financières clés dans le résumé du prospectus***"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsque l’émetteur est une entité ad hoc émettant des titres adossés à des actifs, le résumé du prospectus contient les informations financières clés indiquées dans les tableaux figurant à l’annexe V.",
+      "text_sha256": "fe9495dcf9d22a1190be6229ccd45cf48804c3aefaf87e6c95629018830e0807",
+      "md_span": {
+        "start": 3766,
+        "end": 3966
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Informations financières clés pour les fonds de type fermé",
+      "path": [
+        "*SECTION 1*",
+        "***Contenu des informations financières clés dans le résumé du prospectus***"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsque l’émetteur est un fonds de type fermé, le résumé du prospectus contient les informations financières clés indiquées dans les tableaux figurant à l’annexe VI.",
+      "text_sha256": "db05a99ad79a1f461b49cb05d5b6c257421cae1a754c810ca72d5fd15f65aacf",
+      "md_span": {
+        "start": 4064,
+        "end": 4229
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Informations financières clés pour les garants",
+      "path": [
+        "*SECTION 1*",
+        "***Contenu des informations financières clés dans le résumé du prospectus***"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsqu’une garantie est attachée aux valeurs mobilières, les informations financières clés relatives au garant sont présentées comme si le garant était l’émetteur de valeurs mobilières du même type que celles faisant l’objet de la garantie, en utilisant les tableaux figurant aux annexes I à VI. Lorsque la garantie est fournie pour des titres adossés à des actifs, les informations financières clés sur le garant sont présentées comme si le garant était l’émetteur des titres sous-jacents.",
+      "text_sha256": "b1678dc091cb457e56cea078be39b9a3d7af0765cc648ab32f798258f48a1127",
+      "md_span": {
+        "start": 4315,
+        "end": 4805
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Forme des informations financières clés dans le résumé du prospectus",
+      "path": [
+        "*SECTION 2*",
+        "***Forme des informations financières clés dans le résumé du prospectus***"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les informations financières clés sont présentées sous forme de tableau conformément aux tableaux des annexes I à VI du présent règlement.\n\n2. Toute information financière historique dans le résumé d’un prospectus qui n’est pas tirée des états financiers est identifiée comme telle.\n\n3. Lorsque des informations pro forma qui figureront dans le résumé d’un prospectus ont une incidence sur les informations financières clés indiquées dans le tableau pertinent des annexes I à VI du présent règlement, ces informations pro forma sont présentées dans des colonnes supplémentaires des tableaux figurant aux annexes I à VI du présent règlement ou sous la forme d’un tableau distinct. Lorsque cela est nécessaire à leur compréhension, les informations pro forma sont accompagnées d’une brève explication des chiffres présentés dans les colonnes supplémentaires ou dans le tableau distinct.\n\nLorsque, en cas de modification significative des valeurs brutes, seules des informations qualitatives sont incluses dans le prospectus, une déclaration à cet effet est incluse dans le résumé dudit prospectus.\n\n4. Lorsque l’émetteur a un historique financier complexe tel que visé à l’article 18 du règlement délégué 2019/980, les informations financières clés dans le résumé du prospectus sont présentées d’une manière qui concorde avec le prospectus et en utilisant les tableaux pertinents des annexes I à VI du présent règlement.",
+      "text_sha256": "2faeb5e4ba20fe4f5356956942f40e7454aff50aa540d3301f3fbffaaa2f3724",
+      "md_span": {
+        "start": 5009,
+        "end": 6430
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Publication du prospectus",
+      "path": [
+        "CHAPITRE II",
+        "**PUBLICATION DU PROSPECTUS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Lorsqu’un prospectus, qu’il soit constitué d’un document unique ou de plusieurs documents distincts, contient des liens hypertextes vers des sites web, il inclut une déclaration précisant que les informations figurant sur ces sites web ne font pas partie du prospectus et n’ont été ni examinées ni approuvées par l’autorité compétente. Cette exigence ne s’applique pas aux liens hypertextes vers des informations qui sont incorporées par référence.\n\n2. Lorsqu’un prospectus est publié conformément à l’article 21, paragraphe 2, du règlement (UE) 2017/1129, des mesures sont prises sur les sites web utilisés pour sa publication afin d’éviter de cibler les résidents d’États membres ou de pays tiers autres que ceux dans lesquels les valeurs mobilières sont offertes au public.",
+      "text_sha256": "c64f72e2b80542879bfc8e15667c9f07592cda60c933ae01f11ec8878a6ae114",
+      "md_span": {
+        "start": 6548,
+        "end": 7327
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Données pour le classement des prospectus",
+      "path": [
+        "CHAPITRE III",
+        "**DONNÉES LISIBLES PAR MACHINE POUR LE CLASSEMENT DES PROSPECTUS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsqu’elle fournit à l’AEMF une copie électronique d’un prospectus approuvé, y compris ses suppléments éventuels et, le cas échéant, les conditions définitives, l’autorité compétente fournit également à l’AEMF les données d’accompagnement pertinentes pour le classement des prospectus conformément aux tableaux figurant à l’annexe VII du présent règlement.",
+      "text_sha256": "a277d1baa0bf1743eaba9e611d0cb232983660b2c7c4cf613d98c91241b9f871",
+      "md_span": {
+        "start": 7499,
+        "end": 7856
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Modalités pratiques pour garantir la lisibilité par machine des données",
+      "path": [
+        "CHAPITRE III",
+        "**DONNÉES LISIBLES PAR MACHINE POUR LE CLASSEMENT DES PROSPECTUS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’autorité compétente fournit les données d’accompagnement visées à l’article 11 dans un format XML commun et conformément au format et aux normes indiqués dans les tableaux de l’annexe VII.",
+      "text_sha256": "d0f6fcb30e95240489a1c8da86d06830f0a005f589bf3fd0b3b91fba29e0916e",
+      "md_span": {
+        "start": 7969,
+        "end": 8159
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Identification du prospectus",
+      "path": [
+        "CHAPITRE IV",
+        "**COMMUNICATIONS À CARACTÈRE PROMOTIONNEL**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsque l’émetteur, l’offreur ou la personne qui sollicite l’admission à la négociation sur un marché réglementé est soumis à l’obligation d’établir un prospectus, les communications à caractère promotionnel identifient clairement ce prospectus:\n\na) en indiquant clairement le site web où le prospectus est publié ou sera publié, lorsque la communication à caractère promotionnel est diffusée sous forme écrite et par des moyens autres que par voie électronique;\n\nb) en incluant un lien hypertexte vers le prospectus et vers les conditions définitives pertinentes du prospectus de base, lorsque la communication à caractère promotionnel est diffusée sous forme écrite par voie électronique, ou en incluant un lien hypertexte vers la page du site web où le prospectus sera publié si ce dernier n’a pas encore été publié;\n\nc) en incluant des informations précises sur l’endroit où le prospectus peut être obtenu, ainsi que des informations précises sur l’offre de valeurs mobilières ou sur l’admission à la négociation sur un marché réglementé à laquelle il se rapporte, lorsque la communication à caractère promotionnel est diffusée sous une forme ou par des moyens ne relevant pas du champ d’application des points a) ou b).",
+      "text_sha256": "00231d6965eff5f8af2c3c7a2122ba124223e3ca289972f673f541a5a0c28777",
+      "md_span": {
+        "start": 8294,
+        "end": 9518
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Contenu exigé",
+      "path": [
+        "CHAPITRE IV",
+        "**COMMUNICATIONS À CARACTÈRE PROMOTIONNEL**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les communications à caractère promotionnel diffusées auprès des investisseurs de détail potentiels contiennent les éléments suivants:\n\na) la mention «communication à caractère promotionnel», de manière bien visible. Lorsqu’une communication à caractère promotionnel est diffusée oralement, sa finalité est clairement indiquée au début du message;\n\nb) une déclaration selon laquelle l’approbation du prospectus ne doit pas être considérée comme un avis favorable sur les valeurs mobilières offertes ou admises à la négociation sur un marché réglementé, lorsque la communication à caractère promotionnel contient une référence à un prospectus approuvé par une autorité compétente;\n\nc) une recommandation invitant les investisseurs potentiels à lire le prospectus avant de prendre une décision d’investissement afin de pleinement comprendre les risques et avantages potentiels associés à la décision d’investir dans les valeurs mobilières, lorsque la communication à caractère promotionnel contient une référence à un prospectus approuvé par une autorité compétente;\n\nd) l’avis signalant que le produit peut être difficile à comprendre requis en vertu de l’article 8, paragraphe 3, point b), du règlement (UE) no 1286/2014 du Parlement européen et du Conseil (2), lorsque: i) la communication à caractère promotionnel porte sur des valeurs mobilières complexes autres que les instruments financiers visés à l’article 25, paragraphe 4, points a) i), a) ii) et a) vi), de la directive 2014/65/UE du Parlement européen et du Conseil (3); et ii) l’avis signalant que le produit peut être difficile à comprendre figure, ou figurera, dans le résumé du prospectus.\n\n2. Les communications à caractère promotionnel sous forme écrite qui sont diffusées auprès des investisseurs de détail potentiels diffèrent suffisamment, par leur forme et par leur longueur, du prospectus pour qu’aucune confusion avec ce dernier ne soit possible.",
+      "text_sha256": "3dbc0e0d8d4363e70929c35466ca20aa79d4a13446d925aaa4e4e30227457479",
+      "md_span": {
+        "start": 9573,
+        "end": 11496
+      },
+      "citations": [
+        {
+          "href": "#E0002",
+          "text": "2"
+        },
+        {
+          "href": "#E0003",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Diffusion des communications à caractère promotionnel",
+      "path": [
+        "CHAPITRE IV",
+        "**COMMUNICATIONS À CARACTÈRE PROMOTIONNEL**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les communications à caractère promotionnel diffusées auprès des investisseurs potentiels sont modifiées lorsque:\n\na) un supplément au prospectus est ultérieurement publié conformément à l’article 23 du règlement (UE) 2017/1129;\n\nb) le fait nouveau significatif ou l’erreur ou inexactitude substantielle mentionnés dans le supplément rendent la communication à caractère promotionnel diffusée précédemment substantiellement inexacte ou trompeuse.\n\nLe premier alinéa ne s’applique pas après la clôture définitive de la période de l’offre au public, ou après le début de la négociation sur un marché réglementé si cet évènement intervient plus tard.\n\n2. Les communications à caractère promotionnel modifiées conformément au paragraphe 1 sont diffusées auprès des investisseurs potentiels dans les meilleurs délais après la publication du supplément au prospectus et contiennent l’ensemble des éléments suivants:\n\na) une référence claire à la version inexacte ou trompeuse de la communication à caractère promotionnel;\n\nb) une explication indiquant que la communication à caractère promotionnel a été modifiée parce qu’elle contenait des informations substantiellement inexactes ou trompeuses;\n\nc) une description claire des différences entre les deux versions de la communication à caractère promotionnel.\n\n3. Sauf dans le cas d’une communication à caractère promotionnel diffusée oralement, une communication à caractère promotionnel modifiée en vertu du paragraphe 1 est diffusée au moins par les mêmes voies que sa précédente version.",
+      "text_sha256": "96ab0677232bdbb70329c04c5529cac3a104f73660518f3e1cc0fe664e6233b7",
+      "md_span": {
+        "start": 11591,
+        "end": 13129
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Informations concernant les offres de valeurs mobilières",
+      "path": [
+        "CHAPITRE IV",
+        "**COMMUNICATIONS À CARACTÈRE PROMOTIONNEL**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les informations communiquées oralement ou par écrit concernant une offre au public de valeurs mobilières ou une admission à la négociation sur un marché réglementé, que ce soit en tant que communication à caractère promotionnel ou à d’autres fins:\n\na) ne contredisent pas les informations dans le prospectus;\n\nb) ne font pas référence à des informations qui contredisent les informations dans le prospectus;\n\nc) ne présentent pas les informations dans le prospectus de façon substantiellement biaisée, notamment à travers une présentation des aspects négatifs de ces informations de façon moins visible que les aspects positifs, une omission de certaines informations ou une présentation sélective de certaines informations;\n\nd) ne contiennent pas d’indicateurs alternatifs de performance sauf s’ils figurent dans le prospectus.\n\n2. Aux fins du paragraphe 1, les informations dans le prospectus sont constituées soit des informations qui figurent dans le prospectus, si celui-ci a déjà été publié, soit des informations qui figureront dans le prospectus, si celui-ci doit être publié à une date ultérieure.\n\n3. Aux fins du paragraphe 1, point d), les indicateurs alternatifs de performance sont constitués des indicateurs financiers, historiques ou prospectifs, de la performance financière, de la situation financière ou des flux de trésorerie, qui sont autres que les indicateurs financiers définis dans le cadre de présentation des informations financières applicable.",
+      "text_sha256": "806a8d8ccf09d41cf5e43630bdd6ec45da5bdb65ad24829a5ea4f2e814cd3095",
+      "md_span": {
+        "start": 13227,
+        "end": 14702
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Procédures pour la coopération entre autorités compétentes",
+      "path": [
+        "CHAPITRE IV",
+        "**COMMUNICATIONS À CARACTÈRE PROMOTIONNEL**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Lorsque l’autorité compétente d’un État membre dans lequel une communication à caractère promotionnel est diffusée estime que le contenu de cette communication à caractère promotionnel ne concorde pas avec les informations contenues dans le prospectus, elle peut demander l’assistance de l’autorité compétente de l’État membre d’origine. Sur demande, l’autorité compétente de l’État membre dans lequel la communication à caractère promotionnel est diffusée communique à l’autorité compétente de l’État membre d’origine les éléments suivants:\n\na) les raisons pour lesquelles elle estime que le contenu de la communication à caractère promotionnel ne concorde pas avec les informations contenues dans le prospectus;\n\nb) la communication à caractère promotionnel concernée et, si nécessaire, une traduction de celle-ci dans la langue du prospectus ou dans une langue usuelle dans la sphère financière internationale.\n\n2. L’autorité compétente de l’État membre d’origine transmet dès que possible à l’autorité compétente de l’État membre dans lequel la communication à caractère promotionnel est diffusée les résultats de son évaluation de la concordance entre la communication à caractère promotionnel et les informations contenues dans le prospectus.",
+      "text_sha256": "fa173fba97eec390ebc24b5c27c78bc20b17415623c3af15b1c234e7d2132c2e",
+      "md_span": {
+        "start": 14802,
+        "end": 16053
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Publication d’un supplément au prospectus",
+      "path": [
+        "CHAPITRE V",
+        "**SUPPLÉMENTS AU PROSPECTUS**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Un supplément au prospectus est publié lorsque:\n\na) de nouveaux états financiers annuels audités sont publiés par: i) l’émetteur, lorsque le prospectus se rapporte à des actions ou autres valeurs mobilières équivalentes à des actions; ii) l’émetteur des actions sous-jacentes ou autres valeurs mobilières sous-jacentes équivalentes à des actions, dans le cas de titres visés à l’article 19, paragraphe 2, ou à l’article 20, paragraphe 2, du règlement délégué (UE) 2019/980; iii) l’émetteur des actions sous-jacentes de certificats représentatifs d’actions visés aux articles 6 et 14 du règlement délégué 2019/980;\n\nb) l’émetteur a publié une prévision ou une estimation du bénéfice après l’approbation du prospectus, lorsque l’inclusion dans le prospectus d’une prévision ou d’une estimation du bénéfice est exigée en vertu du règlement délégué 2019/980;\n\nc) une modification d’une prévision ou d’une estimation du bénéfice, ou son retrait, figure dans le prospectus;\n\nd) un changement de contrôle intervient en ce qui concerne: i) l’émetteur, lorsque le prospectus se rapporte à des actions ou autres valeurs mobilières équivalentes à des actions; ii) l’émetteur des actions sous-jacentes ou autres valeurs mobilières sous-jacentes équivalentes à des actions, lorsque le prospectus se rapporte à des titres visés à l’article 19, paragraphe 2, ou à l’article 20, paragraphe 2, du règlement délégué (UE) 2019/980; iii) l’émetteur des actions sous-jacentes de certificats représentatifs d’actions visés aux articles 6 et 14 du règlement délégué 2019/980;\n\ne) des tiers font une nouvelle offre publique d’acquisition, au sens de l’article 2, paragraphe 1, point a), de la directive 2004/25/CE du Parlement européen et du Conseil (4), ou le résultat d’une offre publique d’acquisition devient disponible en ce qui concerne l’un des types de valeurs mobilières suivants: i) le capital de l’émetteur, lorsque le prospectus se rapporte à des actions ou autres valeurs mobilières équivalentes à des actions; ii) le capital de l’émetteur des actions sous-jacentes ou autres valeurs mobilières sous-jacentes équivalentes à des actions, lorsque le prospectus se rapporte aux titres visés à l’article 19, paragraphe 2, ou à l’article 20, paragraphe 2, du règlement délégué (UE) 2019/980; iii) le capital de l’émetteur des actions sous-jacentes de certificats représentatifs d’actions, lorsque le prospectus est établi conformément aux articles 6 et 14 du règlement délégué (UE) 2019/980;\n\nf) le fonds de roulement net déclaré dans le prospectus devient suffisant ou insuffisant pour les besoins actuels de l’émetteur, en ce qui concerne: i) des actions ou autres valeurs mobilières équivalentes à des actions; ii) des titres visés à l’article 19, paragraphe 2, du règlement délégué (UE) 2019/980; iii) des certificats représentatifs émis pour des actions tels que visés aux articles 6 et 14 du règlement délégué 2019/980;\n\ng) l’émetteur sollicite l’admission à la négociation sur au moins un marché réglementé supplémentaire dans au moins un État membre supplémentaire ou a l’intention de faire une offre au public de valeurs mobilières dans au moins un État membre supplémentaire qui n’est pas mentionné dans le prospectus;\n\nh) dans le cas d’un prospectus se rapportant à des actions ou autres valeurs mobilières équivalentes à des actions, ou se rapportant à des titres visés à l’article 19, paragraphe 2, ou à l’article 20, paragraphe 2, du règlement délégué (UE) 2019/980, un nouvel engagement financier important est susceptible de donner lieu à une modification significative des valeurs brutes au sens de l’article 1er, point e), dudit règlement délégué;\n\ni) le montant nominal total du programme d’offre est augmenté.",
+      "text_sha256": "ec3bc3cd73dda712211d9eb20660e0f9800c1ab52b36c8220b8b2f30a77bb830",
+      "md_span": {
+        "start": 16186,
+        "end": 19902
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R1272",
+          "text": "32020R1272: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0979",
+          "text": "32019R0979"
+        },
+        {
+          "href": "#E0004",
+          "text": "4"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Téléchargement de documents et de données d’accompagnement vers le portail de notification",
+      "path": [
+        "CHAPITRE VI",
+        "**MODALITÉS TECHNIQUES POUR LE FONCTIONNEMENT DU PORTAIL DE NOTIFICATION**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lors du téléchargement vers le portail de notification de documents visés à l’article 25, paragraphe 6, du règlement (UE) 2017/1129, l’autorité compétente veille à ce que ces documents soient sous une forme électronique permettant les recherches qui ne peut être modifiée et qu’ils soient accompagnés des données y relatives indiquées dans les tableaux de l’annexe VII du présent règlement, dans un format XML commun.",
+      "text_sha256": "1f7822b973fdc122000fbe0c706bec0cd01fa165785beb40229788214e1d9d9b",
+      "md_span": {
+        "start": 20130,
+        "end": 20547
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Traitement et notification des documents et des données d’accompagnement",
+      "path": [
+        "CHAPITRE VI",
+        "**MODALITÉS TECHNIQUES POUR LE FONCTIONNEMENT DU PORTAIL DE NOTIFICATION**"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. L’AEMF veille à ce que le portail de notification traite et vérifie automatiquement tous les documents et toutes les données d’accompagnement téléchargés et indique à l’autorité compétente qui les a téléchargés si le téléchargement a réussi et s’il contenait des erreurs.\n\n2. L’AEMF veille à ce que le portail de notification envoie aux autorités compétentes concernées des notifications des documents et des données d’accompagnement téléchargés.",
+      "text_sha256": "e218c45555073b7e04c653dd6bc746242612fe037de4910f5f51a5333f38ec00",
+      "md_span": {
+        "start": 20661,
+        "end": 21110
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Téléchargement de documents et de données d’accompagnement depuis le portail de notification",
+      "path": [
+        "CHAPITRE VI",
+        "**MODALITÉS TECHNIQUES POUR LE FONCTIONNEMENT DU PORTAIL DE NOTIFICATION**"
+      ],
+      "article_valid_from": null,
+      "text_md": "L’AEMF veille à ce que tous les documents et les données d’accompagnement qui ont été téléchargés vers le portail de notification soient à la disposition des autorités compétentes concernées.",
+      "text_sha256": "7e8367675a86be89ea1a97c4ae6affde3eb5d2c652a80183f9c69179639f3d56",
+      "md_span": {
+        "start": 21244,
+        "end": 21435
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Abrogation",
+      "path": [
+        "CHAPITRE VII",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le règlement délégué (UE) no 382/2014 est abrogé.\n\nLe règlement délégué (UE) 2016/301 est abrogé.",
+      "text_sha256": "d0efd1947d15254c9153ee10c6ed057a4260b285f8f3878e0f09ee66583b3fa8",
+      "md_span": {
+        "start": 21534,
+        "end": 21631
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R1272",
+          "text": "32020R1272: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_22_bis",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_22_bis",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22 bis",
+      "heading": "Résumés de prospectus approuvés entre le 21 juillet 2019 et le 16 septembre 2020 pour les entités non financières émettant des titres de capital",
+      "path": [
+        "CHAPITRE VII",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les résumés de prospectus qui contiennent des informations visées à l’annexe I, tableau 3, et qui ont été approuvés entre le 21 juillet 2019 et le 16 septembre 2020 restent valables jusqu’à la fin de la période de validité desdits prospectus.",
+      "text_sha256": "d1cb5f3413318569637b45f5a6933ca9314e733eb85fa80e5e86b8a2187b13d7",
+      "md_span": {
+        "start": 21825,
+        "end": 22067
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0979",
+          "text": "32019R0979"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Entrée en vigueur",
+      "path": [
+        "CHAPITRE VII",
+        "**DISPOSITIONS FINALES**"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l’Union européenne*.\n\nIl s’applique à partir du 21 juillet 2019.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.",
+      "text_sha256": "fd74af2d7e991bb4d04d7c3039c9273fea06d312bbfc35dc079dd2c5d6010670",
+      "md_span": {
+        "start": 22126,
+        "end": 22412
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_i",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#annexe_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**ENTITÉS NON FINANCIÈRES (TITRES DE CAPITAL)**\n\n— Le signe «*» renvoie à des informations obligatoires, ou aux informations correspondantes, si l’émetteur n’utilise pas les normes internationales d’information financière (IFRS). L’émetteur peut utiliser un intitulé différent pour présenter des informations substantiellement identiques à celles prévues dans le tableau, lorsque cet autre intitulé est utilisé dans les états financiers.\n\n— Le signe «#» indique que si cette information apparaît ailleurs dans le prospectus, elle est obligatoire.\n\n— Le signe «~» en rapport avec des fonds de type fermé indique des investissements évalués à la juste valeur par le biais du compte de résultat à la même date que celle de la valeur nette d’inventaire (VNI).\n\n*Tableau 1*\n\n**Compte de résultat pour les entités non financières (titres de capital)**\n\n|  | Année | Année -1 | Année -2 | Intermédiaire | Valeur intermédiaire pour la même période de l’année précédente, pour comparaison |\n| --- | --- | --- | --- | --- | --- |\n| *Total des recettes |  |  |  |  |  |\n| *Résultat d’exploitation ou autre indicateur similaire de la performance financière utilisé par l’émetteur dans les états financiers |  |  |  |  |  |\n| *Résultat net (pour les états financiers consolidés, résultat net attribuable aux détenteurs de capital de la société mère) |  |  |  |  |  |\n| #Croissance des recettes d’une année sur l’autre |  |  |  |  |  |\n| #Marge bénéficiaire d’exploitation |  |  |  |  |  |\n| #Marge bénéficiaire nette |  |  |  |  |  |\n| #Résultat par action |  |  |  |  |  |\n\n*Tableau 2*\n\n**Bilan pour les entités non financières (titres de capital)**\n\n|  | Année | Année -1 | Année -2 | Intermédiaire |\n| --- | --- | --- | --- | --- |\n| *Total de l’actif |  |  |  |  |\n| *Total des capitaux propres |  |  |  |  |\n| #Dette financière nette (dette à long terme plus dette à court terme moins trésorerie) |  |  |  |  |\n\n*Tableau 3*\n\n**État des flux de trésorerie pour les entités non financières (titres de capital)**\n\n|  | Année | Année -1 | Année -2 | Intermédiaire | Valeur intermédiaire pour la même période de l’année précédente, pour comparaison |\n| --- | --- | --- | --- | --- | --- |\n| *Flux de trésorerie nets pertinents attribuables aux activités d’exploitation et/ou flux de trésorerie provenant des activités d’investissement et/ou flux de trésorerie provenant des activités de financement |  |  |  |  |  |",
+      "text_sha256": "8f595633cc65908a302a0443ccbb5a0026fccd39dbcbb0e6de2194ea884fe1b9",
+      "md_span": {
+        "start": 22451,
+        "end": 24853
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R1272",
+          "text": "32020R1272: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32019R0979",
+          "text": "32019R0979"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_ii",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#annexe_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**ENTITÉS NON FINANCIÈRES (TITRES AUTRES QUE DE CAPITAL)**\n\n— Le signe «*» renvoie à des informations obligatoires, ou aux informations correspondantes, si l’émetteur n’utilise pas les normes internationales d’information financière (IFRS). L’émetteur peut utiliser un intitulé différent pour présenter des informations substantiellement identiques à celles prévues dans le tableau, lorsque cet autre intitulé est utilisé dans les états financiers.\n\n— Le signe «#» indique que si cette information apparaît ailleurs dans le prospectus, elle est obligatoire.\n\n— Le signe «~» en rapport avec des fonds de type fermé indique des investissements évalués à la juste valeur par le biais du compte de résultat à la même date que celle de la valeur nette d’inventaire (VNI).\n\n*Tableau 1*\n\n**Compte de résultat pour les titres autres que de capital**\n\n|  | Année | Année -1 | Intermédiaire | Valeur intermédiaire pour la même période de l’année précédente, pour comparaison |\n| --- | --- | --- | --- | --- |\n| *Résultat d’exploitation ou autre indicateur similaire de la performance financière utilisé par l’émetteur dans les états financiers |  |  |  |  |\n\n*Tableau 2*\n\n**Bilan pour les titres autres que de capital**\n\n|  | Année | Année -1 | Intermédiaire |\n| --- | --- | --- | --- |\n| *Dette financière nette (dette à long terme plus dette à court terme moins trésorerie) |  |  |  |\n| #Ratio de liquidité générale (actif circulant/passif circulant) |  |  |  |\n| #Ratio dette/fonds propres (total du passif/total des capitaux propres) |  |  |  |\n| #Ratio de couverture des intérêts (produits d’exploitation/charges d’intérêts). |  |  |  |\n\n*Tableau 3*\n\n**État des flux de trésorerie pour les titres autres que de capital**\n\n|  | Année | Année -1 | Intermédiaire | Valeur intermédiaire pour la même période de l’année précédente, pour comparaison |\n| --- | --- | --- | --- | --- |\n| *Flux de trésorerie nets provenant des activités d’exploitation |  |  |  |  |\n| *Flux de trésorerie nets provenant des activités de financement |  |  |  |  |\n| *Flux de trésorerie nets provenant des activités d’investissement |  |  |  |  |",
+      "text_sha256": "587f081b91ca1f9358853302a8fa65343c3441e2dc99a0a92c345dd3e2220412",
+      "md_span": {
+        "start": 24894,
+        "end": 27008
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_iii",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#annexe_iii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**ÉTABLISSEMENTS DE CRÉDIT (TITRES DE CAPITAL ET TITRES AUTRES QUE DE CAPITAL)**\n\n— Le signe «*» renvoie à des informations obligatoires, ou aux informations correspondantes, si l’émetteur n’utilise pas les normes internationales d’information financière (IFRS). L’émetteur peut utiliser un intitulé différent pour présenter des informations substantiellement identiques à celles prévues dans le tableau, lorsque cet autre intitulé est utilisé dans les états financiers.\n\n— Le signe «#» indique que si cette information apparaît ailleurs dans le prospectus, elle est obligatoire.\n\n— Le signe «~» en rapport avec des fonds de type fermé indique des investissements évalués à la juste valeur par le biais du compte de résultat à la même date que celle de la valeur nette d’inventaire (VNI).\n\n*Tableau 1*\n\n**Compte de résultat pour les établissements de crédit**\n\n|  | Année | Année -1 | Année -2 (1) | Intermédiaire | Valeur intermédiaire pour la même période de l’année précédente, pour comparaison |\n| --- | --- | --- | --- | --- | --- |\n| *Produits d’intérêts nets (ou équivalent) |  |  |  |  |  |\n| *Produits d’honoraires et de commissions nets |  |  |  |  |  |\n| *Dépréciation d’actifs financiers, nette |  |  |  |  |  |\n| *Revenu net des portefeuilles de transaction (net trading income) |  |  |  |  |  |\n| *Indicateur de la performance financière utilisé par l’émetteur dans les états financiers, par exemple la marge d’exploitation |  |  |  |  |  |\n| *Résultat net (pour les états financiers consolidés, résultat net attribuable aux détenteurs de capital de la société mère) |  |  |  |  |  |\n| #Résultat par action (uniquement pour les émetteurs de titres de capital) |  |  |  |  |  |\n| (1)Veuillez indiquer les informations financières clés pour le nombre d’années auquel s’applique l’exigence d’information concernée en vertu du règlement délégué 980/2019. |  |  |  |  |  |\n\n*Tableau 2*\n\n**Bilan pour les établissements de crédit**\n\n|  | Année | Année -1 | Année -2 (1) | Intermédiaire | #Valeur telle qu’elle ressort du dernier processus de contrôle et d’évaluation prudentiels (SREP) |\n| --- | --- | --- | --- | --- | --- |\n| *Total de l’actif |  |  |  |  |  |\n| *Créances de premier rang |  |  |  |  |  |\n| *Créances subordonnées |  |  |  |  |  |\n| *Prêts et créances à recevoir de clients (nets) |  |  |  |  |  |\n| *Dépôts de clients |  |  |  |  |  |\n| *Total des capitaux propres |  |  |  |  |  |\n| #Prêts non performants (sur la base de la valeur comptable nette)/Prêts et créances) |  |  |  |  |  |\n| #Ratio de fonds propres de base de catégorie 1 (CET1) ou autre ratio d’adéquation des fonds propres prudentiels pertinent selon l’émission |  |  |  |  |  |\n| #Ratio de fonds propres total |  |  |  |  |  |\n| #Ratio de levier calculé en vertu du cadre réglementaire applicable |  |  |  |  |  |\n| (1)Veuillez indiquer les informations financières clés pour le nombre d’années auquel s’applique l’exigence d’information concernée en vertu du règlement délégué 980/2019. |  |  |  |  |  |",
+      "text_sha256": "2c8838927671aa1db84ab0a32df8b15d632780e5b68524e0b1a2b10f84963539",
+      "md_span": {
+        "start": 27051,
+        "end": 30049
+      },
+      "citations": [
+        {
+          "href": "#E0005",
+          "text": "(1)"
+        },
+        {
+          "href": "#E0006",
+          "text": "(1)"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_iv",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#annexe_iv",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IV",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**ENTREPRISES D’ASSURANCE (TITRES DE CAPIAL ET TITRES AUTRES QUE DE CAPITAL)**\n\n— Le signe «*» renvoie à des informations obligatoires ou aux informations correspondantes si l’émetteur n’utilise pas les normes internationales d’information financière (IFRS). L’émetteur peut utiliser un intitulé différent pour présenter des informations substantiellement identiques à celles prévues dans le tableau, lorsque cet autre intitulé est utilisé dans les états financiers.\n\n— Le signe «#» indique que si cette information apparaît ailleurs dans le prospectus, elle est obligatoire.\n\n— Le signe «~» en rapport avec des fonds de type fermé indique des investissements évalués à la juste valeur par le biais du compte de résultat à la même date que celle de la valeur nette d’inventaire (VNI).\n\n*Tableau 1*\n\n**Compte de résultat pour les entreprises d’assurance**\n\n|  | Année | Année -1 | Année -2 (1) | Intermédiaire | Valeur intermédiaire pour la même période de l’année précédente, pour comparaison |\n| --- | --- | --- | --- | --- | --- |\n| *Primes nettes |  |  |  |  |  |\n| *Prestations et sinistres nets |  |  |  |  |  |\n| *Résultat avant impôts |  |  |  |  |  |\n| *Marge d’exploitation (en distinguant l’assurance vie et l’assurance non-vie) |  |  |  |  |  |\n| *Résultat net (pour les états financiers consolidés, résultat net attribuable aux détenteurs de capital de la société mère) |  |  |  |  |  |\n| #Croissance des recettes d’une année sur l’autre (primes nettes) |  |  |  |  |  |\n| #Résultat par action (uniquement pour les émetteurs de titres de capital) |  |  |  |  |  |\n| (1)Veuillez indiquer les informations financières clés pour le nombre d’années auquel s’applique l’exigence d’information concernée en vertu du règlement délégué 980/2019. |  |  |  |  |  |\n\n*Tableau 2*\n\n**Bilan pour les entreprises d’assurance**\n\n|  | Année | Année -1 | Année -2 (1) | Intermédiaire |\n| --- | --- | --- | --- | --- |\n| *Investissements, y compris les actifs financiers liés à des contrats en unités de compte |  |  |  |  |\n| *Total de l’actif |  |  |  |  |\n| *Passifs d’assurance |  |  |  |  |\n| *Passifs financiers |  |  |  |  |\n| *Total du passif |  |  |  |  |\n| *Total des capitaux propres |  |  |  |  |\n| #Ratio de couverture de solvabilité (ratio Solvabilité II - ratio SII) ou autre ratio d’exigences prudentielles de capital pertinent selon l’émission |  |  |  |  |\n| #Ratio sinistres/primes |  |  |  |  |\n| #Ratio combiné (sinistres + dépenses/primes pour la période) |  |  |  |  |\n| (1)Veuillez indiquer les informations financières clés pour le nombre d’années auquel s’applique l’exigence d’information concernée en vertu du règlement délégué 980/2019. |  |  |  |  |",
+      "text_sha256": "f0992d3473f63994624f51df621130f57737f5011f36a6ccdff19a472688f74f",
+      "md_span": {
+        "start": 30090,
+        "end": 32762
+      },
+      "citations": [
+        {
+          "href": "#E0007",
+          "text": "(1)"
+        },
+        {
+          "href": "#E0008",
+          "text": "(1)"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_v",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#annexe_v",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE V",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**ENTITÉS AD HOC ÉMETTANT DES TITRES ADOSSÉS À DES ACTIFS**\n\n— Le signe «*» renvoie à des informations obligatoires ou aux informations correspondantes si l’émetteur n’utilise pas les normes internationales d’information financière (IFRS). L’émetteur peut utiliser un intitulé différent pour présenter des informations substantiellement identiques à celles prévues dans le tableau, lorsque cet autre intitulé est utilisé dans les états financiers.\n\n— Le signe «#» indique que si cette information apparaît ailleurs dans le prospectus, elle est obligatoire.\n\n— Le signe «~» en rapport avec des fonds de type fermé indique des investissements évalués à la juste valeur par le biais du compte de résultat à la même date que celle de la valeur nette d’inventaire (VNI).\n\n*Tableau 1*\n\n**Compte de résultat pour les entités ad hoc en lien avec les titres adossés à des actifs**\n\n|  | Année | Année -1 |\n| --- | --- | --- |\n| *Résultat net |  |  |\n\n*Tableau 2*\n\n**Bilan pour les entités ad hoc en lien avec les titres adossés à des actifs**\n\n|  | Année | Année -1 |\n| --- | --- | --- |\n| *Total de l’actif |  |  |\n| *Total du passif |  |  |\n| *Actifs financiers désignés comme évalués à la juste valeur par le biais du compte de résultat |  |  |\n| *Actifs financiers dérivés |  |  |\n| *Actifs non financiers s’ils sont importants pour les activités de l’entité |  |  |\n| *Passifs financiers désignés à la juste valeur par le biais du compte de résultat |  |  |\n| *Passifs financiers dérivés |  |  |",
+      "text_sha256": "6af61d1640913978d1b17720b293241b040918f853924d537ee3b2713f65a989",
+      "md_span": {
+        "start": 32801,
+        "end": 34292
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_vi",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#annexe_vi",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VI",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**FONDS DE TYPE FERMÉ**\n\n— Le signe «*» renvoie à des informations obligatoires ou aux informations correspondantes si l’émetteur n’utilise pas les normes internationales d’information financière (IFRS). L’émetteur peut utiliser un intitulé différent pour présenter des informations substantiellement identiques à celles prévues dans le tableau, lorsque cet autre intitulé est utilisé dans les états financiers.\n\n— Le signe «#» indique que si cette information apparaît ailleurs dans le prospectus, elle est obligatoire.\n\n— Le signe «~» en rapport avec des fonds de type fermé indique des investissements évalués à la juste valeur par le biais du compte de résultat à la même date que celle de la valeur nette d’inventaire (VNI).\n\n*Tableau 1*\n\n**Informations supplémentaires concernant les fonds de type fermé**\n\n| Catégorie des actions | VNI totale | Nombre d’actions/parts | ~VNI/action ou prix de marché/action/part | #Performance historique du fonds |\n| --- | --- | --- | --- | --- |\n| A | XXX | XX | X |  |\n|  | Total général | Total général |  |  |\n\n*Tableau 2*\n\n**Compte de résultat pour les fonds de type fermé**\n\n|  | Année | Année -1 | Année -2 | Intermédiaire | Valeur intermédiaire pour la même période de l’année précédente, pour comparaison |\n| --- | --- | --- | --- | --- | --- |\n| *Total des produits nets/Produit net des placements ou produit total avant déduction des charges d’exploitation |  |  |  |  |  |\n| *Résultat net |  |  |  |  |  |\n| *Commissions de performance (à payer/payées) |  |  |  |  |  |\n| *Commissions de gestion des investissements (à payer/payées) |  |  |  |  |  |\n| *Autres rémunérations importantes (à payer/payées) de prestataires de services |  |  |  |  |  |\n| #Résultat par action |  |  |  |  |  |\n\n*Tableau 3*\n\n**Bilan pour les fonds de type fermé**\n\n|  | Année | Année -1 | Année -2 | Intermédiaire |\n| --- | --- | --- | --- | --- |\n| *Actif net total |  |  |  |  |\n| #Ratio de levier |  |  |  |  |",
+      "text_sha256": "3f0f3b7a58389ccf0021f7bd576eddb106fd349072feb2c28d67869f866ff000",
+      "md_span": {
+        "start": 34333,
+        "end": 36276
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_vii",
+      "provision_id": "eu-eurlex:32019r0979:2020-09-17#annexe_vii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**DONNÉES LISIBLES PAR MACHINE À FOURNIR À L’AEMF**\n\n*Tableau 1*\n\n| Numéro | Champ | Informations à fournir | Format et norme à respecter |\n| --- | --- | --- | --- |\n| 1. | Identifiant national | Identifiant unique du dossier téléchargé vers le portail, attribué par l’autorité nationale compétente expéditrice | {ALPHANUM-50} |\n| 2. | Identifiant national associé | Identifiant unique du dossier auquel le dossier téléchargé se rapporte, attribué par l’autorité nationale compétente expéditriceNon déclaré si l’identifiant national associé n’est pas applicable | {ALPHANUM-50} |\n| 3. | État membre expéditeur | Code pays de l’État membre qui a approuvé le fichier téléchargé ou auprès duquel le fichier téléchargé a été déposé | {COUNTRYCODE_2} |\n| 4. | État(s) membre(s) récepteur(s) | Code pays du ou des États membres auxquels le fichier téléchargé doit être notifié ou communiquéSi plusieurs États membres doivent être indiqués, utiliser le champ 4 autant de fois que nécessaire | {COUNTRYCODE_2} |\n| 5. | Type de document | Le type du (des) document(s) téléchargé(s) vers le portail | À choisir dans la liste de champs prédéfinis:— «BPFT» — Prospectus de base avec conditions définitives— «BPWO» — Prospectus de base sans conditions définitives— «STDA» — Prospectus unique— «REGN» — Document d’enregistrement— «URGN» — Document d’enregistrement universel— «SECN» — Note relative aux valeurs mobilières— «FTWS» — Conditions définitives, y compris le résumé de l’émission individuelle qui y est annexé— «SMRY» — Résumé— «SUPP» — Supplément— «SUMT» — Traduction de résumé— «COAP» — Certificat d’approbation— «AMND» — ModificationLorsque plusieurs documents doivent être communiqués, utiliser le champ [5] autant de fois que nécessaire pour décrire chaque document qui compose le fichier |\n| 6. | Type de structure | La forme choisie pour le prospectus | À choisir dans la liste de champs prédéfinis:— «SNGL» — Prospectus constitué d’un document unique— «SPWS» — Prospectus constitué de documents distincts avec un résumé— «SPWO» — Prospectus constitué de documents distincts sans résumé |\n| 7. | Date d’approbation ou de dépôt | La date à laquelle le fichier téléchargé a été approuvé ou déposé | {DATEFORMAT} |\n| 8. | Langue | La langue de l’Union européenne dans laquelle est rédigé le fichier téléchargé | {LANGUAGE} |\n| 9. | Nom standardisé de l’offreur | Nom et prénom de l’offreur dans le cas où il s’agit d’une personne physiqueSi plusieurs offreurs doivent être indiqués, utiliser le champ [9] autant de fois que nécessaire | {ALPHANUM-280} |\n| 10. | Nom standardisé du garant | Nom et prénom du garant dans le cas où il s’agit d’une personne physiqueSi plusieurs garants doivent être indiqués, utiliser le champ [10] autant de fois que nécessaire | {ALPHANUM-280} |\n| 11. | LEI de l’émetteur | Identifiant d’entité juridique (LEI) de l’émetteurSi plusieurs émetteurs doivent être indiqués, utiliser le champ [11] autant de fois que nécessaire | {LEI} |\n| 12. | LEI de l’offreur | Identifiant d’entité juridique (LEI) de l’offreurSi plusieurs offreurs doivent être indiqués, utiliser le champ [12] autant de fois que nécessaire | {LEI} |\n| 13. | LEI du garant | Identifiant d’entité juridique (LEI) du garantSi plusieurs garants doivent être indiqués, utiliser le champ [13] autant de fois que nécessaire | {LEI} |\n| 14. | Lieu de résidence de l’offreur | Lieu de résidence de l’offreur dans le cas où il s’agit d’une personne physiqueSi plusieurs offreurs doivent être indiqués, utiliser le champ [14] autant de fois que nécessaire | {COUNTRYCODE_2} |\n| 15. | Lieu de résidence du garant | Lieu de résidence du garant dans le cas où il s’agit d’une personne physiqueSi plusieurs garants doivent être indiqués, utiliser le champ [15] autant de fois que nécessaire | {COUNTRYCODE_2} |\n| 16. | FISN | Code FISN (nom abrégé de l’instrument financier) de la valeur mobilièreChamp à reproduire pour chaque ISIN | {FISN} |\n| 17. | ISIN | Code ISIN (numéro international d’identification des valeurs mobilières) | {ISIN} |\n| 18. | CFI | Code CFI (code de classification des instruments financiers)Champ à reproduire pour chaque ISIN | {CFI_CODE} |\n| 19. | Monnaie de l’émission | Code représentant la monnaie dans laquelle est libellée la valeur nominale ou notionnelleChamp à reproduire pour chaque ISIN | {CURRENCYCODE_3} |\n| 20. | Valeur unitaire | Valeur nominale ou valeur notionnelle par part, dans la monnaie de l’émissionChamp à reproduire pour chaque ISINChamp applicable aux valeurs mobilières ayant une valeur définie | {DECIMAL-18/5} |\n| 21. | Identifiant ou nom du sous-jacent | Code ISIN de la valeur mobilière ou de l’indice sous-jacent ou, à défaut, nom de la valeur mobilière ou de l’indice sous-jacentS’il s’agit d’un panier de titres, l’indiquerChamp applicable aux valeurs mobilières ayant un sous-jacent défini Champ à reproduire pour chaque ISIN de valeurs mobilières de ce type | En cas de sous-jacent unique:— En cas de valeur mobilière ou d’indice ayant un code ISIN: {ISIN}— Si l’indice n’a pas de code ISIN: {INDEX}— Dans les autres cas: {ALPHANUM-50}En cas de sous-jacents multiples (plus d’un): «BSKT» |\n| 22. | Date d’échéance ou d’extinction: | Date d’échéance ou date d’extinction de la valeur mobilière, le cas échéantChamp à reproduire pour chaque ISINChamp applicable aux valeurs mobilières ayant une échéance définie | {DATEFORMAT}Pour les titres de créance perpétuels, la valeur 9999-12-31 doit être inscrite dans le champ 22 |\n| 23. | Volume offert | Nombre de valeurs mobilières offertesChamp applicable seulement aux titres de capitalChamp à reproduire pour chaque ISIN concerné | {INTEGER-18}Soit valeur unique, soit fourchette de valeurs, soit maximum |\n| 24. | Prix offert | Prix par valeur mobilière offerte, en valeur monétaire. La monnaie du prix est la monnaie de l’émissionChamp applicable seulement aux titres de capitalChamp à reproduire pour chaque ISIN concerné | {DECIMAL-18/5}Soit valeur unique, soit fourchette de valeurs, soit maximum«PNDG» si le prix n’est pas encore disponible«NOAP» si le prix est sans objet |\n| 25. | Contrepartie offerte | Montant total offert, en valeur monétaire de la monnaie de l’émissionChamp à reproduire pour chaque ISIN | {DECIMAL-18/5}Soit valeur unique, soit fourchette de valeurs, soit maximum«PNDG» si la contrepartie n’est pas encore disponible«NOAP» si la contrepartie est sans objet |\n| 26. | Type de valeur mobilière | Classement en catégories des titres de capital et titres autres que de capitalChamp à reproduire pour chaque ISIN | À choisir dans la liste de champs prédéfinis:Capitaux propres— «SHRS»: Action— «UCEF»: Part ou action de fonds de type fermé— «CVTS»: Valeur mobilière convertible— «►M1 DPRS** ◄ **»: Certificat représentatif de titres— «OTHR»: Autres titres de capitalDette— «DWLD»: Titres de créance d’une valeur unitaire au moins égale à 100 000 EUR.— «DWHD»: Titres de créance d’une valeur unitaire de moins de 100 000 EUR.— «DLRM»: Titres de créance d’une valeur unitaire de moins de 100 000 EUR négociés sur un marché réglementé auquel seuls les investisseurs qualifiés ont accès«ABSE»: Titres adossés à des actifs«DERV»: Instrument dérivé |\n| 27. | Type d’offre/d’admission | Taxinomie selon le règlement Prospectus et MiFID/MIFIR | À choisir dans la liste de champs prédéfinis:— «IOWA»: Offre initiale sans admission à la négociation/cote— «SOWA»: Offre secondaire sans admission à la négociation/cote— «IRMT»: Admission initiale à la négociation sur un marché réglementé— «IPTM»: Admission initiale à la négociation sur un marché réglementé après une période de négociation sur un MTF— «IMTF»: Admission initiale à la négociation sur un MTF avec offre au public— «SIRM»: Émission secondaire sur un marché réglementé ou un MTF |\n| 28. | Caractéristiques de la plateforme de négociation sur laquelle la valeur mobilière est initialement admise à la négociation | Taxinomie selon le règlement Prospectus et MiFID/MIFIR | À choisir dans la liste de champs prédéfinis:— «RMKT»: marché réglementé ouvert à tous les investisseurs— «RMQI»: marché réglementé, ou segment d’un tel marché, limité aux investisseurs qualifiés— «MSGM»: MTF qui est un marché de croissance des PME— «MLTF»: MTF qui n’est pas un marché de croissance des PME |\n| 29. | Régime d’information | Numéro de l’annexe conformément à laquelle le prospectus est rédigé en vertu du règlement délégué (UE) [] de la CommissionSi plusieurs annexes doivent être communiquées, utiliser le champ [29] autant de fois que nécessaire | {INTEGER-2} From 1 to [29] |\n| 30. | Catégorie de prospectus de croissance de l’Union | Raison pour laquelle un prospectus de croissance de l’Union est utilisé | À choisir dans la liste de champs prédéfinis:— «S15 A»: PME en vertu de l’article 15, paragraphe 1, point a), du règlement Prospectus— «I15B»: Émetteur autre qu’une PME visé à l’article 15, paragraphe 1, point b), du règlement Prospectus— «I15C»: Émetteur autre qu’une PME visé à l’article 15, paragraphe 1, point c), du règlement Prospectus— «O15D»: Offreur de valeurs mobilières visé à l’article 15, paragraphe 1, point d), du règlement Prospectus |\n\n*Tableau 2*\n\n| Symbole | Type de données | Définition |\n| --- | --- | --- |\n| {ALPHANUM-n} | Jusqu’à n caractères alphanumériques | Texte libre |\n| {CFI_CODE} | 6 caractères | Code CFI suivant la norme ISO 10962 |\n| {COUNTRYCODE_2} | 2 caractères alphanumériques | Code pays à 2 lettres suivant la norme ISO 3166-1 alpha-2. |\n| {DATEFORMAT} | Dates au format suivant: AAAA-MM-JJDates à éclarer en TUC | Format de date ISO 8601 |\n| {LANGUAGE} | Code à 2 lettres | ISO 639-1 |\n| {LEI} | 20 caractères alphanumériques | Identifiant de l’entité juridique suivant la norme ISO 17442 |\n| {FISN} | 35 caractères alphanumériques structurés comme suit | Code FISN suivant la norme ISO 18774 |\n| {ISIN} | 12 caractères alphanumériques | Code ISIN suivant la norme ISO 6166 |\n| {CURRENCYCODE_3} | 3 caractères alphanumériques | Code monnaie à 3 lettres suivant la norme ISO 4217. |\n| {DECIMAL-n/m} | Nombre décimal de maximum n chiffres au total dont m chiffres tout au plus peuvent être des décimales | Champ numériqueLe séparateur décimal est «.» (point)Indiquer des valeurs arrondies et non tronquées. |\n| {INTEGER-n} | Nombre entier de n chiffres au maximum | Champ numérique |\n| {INDEX} | 4 caractères alphabétiques | «EONA» — EONIA«EONS» — EONIA SWAP«EURI» — EURIBOR«EUUS» — EURODOLLAR«EUCH» — EuroSwiss«GCFR» — GCF REPO«ISDA» — ISDAFIX«LIBI» — LIBID«LIBO» — LIBOR«MAAA» — Muni AAA«PFAN» — Pfandbriefe«TIBO» — TIBOR«STBO» — STIBOR«BBSW» — BBSW«JIBA» — JIBAR«BUBO» — BUBOR«CDOR» — CDOR«CIBO» — CIBOR«MOSP» — MOSPRIM«NIBO» — NIBOR«PRBO» — PRIBOR«TLBO» — TELBOR«WIBO» — WIBOR«TREA» — Trésor«SWAP» — Contrats d’échange«FUSW» — Contrats d’échange à terme (*future SWAP*) |\n\n(1) Règlement délégué 2019/980 de la Commission du 14 mars 2019 complétant le règlement (UE) 2017/1129 du Parlement européen et du Conseil en ce qui concerne la forme, le contenu, l’examen et l’approbation du prospectus à publier en cas d’offre au public de valeurs mobilières ou en vue de l’admission de valeurs mobilières à la négociation sur un marché réglementé, et abrogeant le règlement (CE) no 809/2004 de la Commission (voir page 26 du présent Journal officiel).\n\n(2) Règlement (UE) no 1286/2014 du Parlement européen et du Conseil du 26 novembre 2014 sur les documents d’informations clés relatifs aux produits d’investissement packagés de détail et fondés sur l’assurance (JO L 352 du 9.12.2014, p. 1).\n\n(3) Directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d’instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE (JO L 173 du 12.6.2014, p. 349).\n\n(4) Directive 2004/25/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les offres publiques d’acquisition (JO L 142 du 30.4.2004, p. 12).",
+      "text_sha256": "3013d3350d0a04ce78c97c4710cf284757d298f2edc9aaa1102f1399c463e6f4",
+      "md_span": {
+        "start": 36319,
+        "end": 48197
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R1272",
+          "text": "►M1"
+        },
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

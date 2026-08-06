@@ -1,0 +1,213 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r1773:2024-03-13",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2024/1773 of 13\u00A0March 2024 supplementing Regulation (EU)\u00A02022/2554",
+  "valid_from": "2024-03-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r1773/versions/2024-03-13/en.xml",
+    "sha256": "a0b6ea1a8b7ceedcd18a80524187b58ba2c1764be0ef4d20c48c5818b0ff7072",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1773"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r1773:2024-03-13#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe policy on the use of ICT services supporting critical or important functions provided by ICT third-party service providers (the ‘policy’) shall take into account the size and the overall risk profile of the financial entity, and the nature, scale and elements of increased or reduced complexity of its services, activities and operations, including elements relating to:\n\n| (a) | the type of ICT services included in the contractual arrangement on the use of ICT services supporting critical or important functions provided by ICT third-party service providers (the ‘contractual arrangement’) between the financial entity and the ICT third-party service provider; |\n| --- | --- |\n\n| (b) | the location of the ICT third-party service provider or the location of its parent company; |\n| --- | --- |\n\n| (c) | whether the ICT services supporting critical or important functions are provided by an ICT third-party service provider located within a Member State or in a third country, also considering the location from where the ICT services are provided and the location where the data is processed and stored; |\n| --- | --- |\n\n| (d) | the nature of the data shared with the ICT third-party service provider; |\n| --- | --- |\n\n| (e) | whether the ICT third-party service provider is part of the same group as the financial entity to which the services are provided; |\n| --- | --- |\n\n| (f) | the use of ICT third-party service providers that are authorised, registered or subject to supervision or oversight by a competent authority in a Member State or subject to the oversight framework under Chapter V, Section II, of Regulation (EU) 2022/2554, and the use of ICT third-party service providers that are not; |\n| --- | --- |\n\n| (g) | the use of ICT third-party service providers that are authorised, registered or subject to supervision or oversight by a supervisory authority in a third country, and the use of ICT third-party service providers that are not; |\n| --- | --- |\n\n| (h) | whether the provision of ICT services supporting critical or important functions are concentrated to a single ICT third-party service provider or a small number of such service providers; |\n| --- | --- |\n\n| (i) | the transferability of the ICT services supporting critical or important functions to another ICT third-party service provider, including as a result of technology specificities; |\n| --- | --- |\n\n| (j) | the potential impact of disruptions in the provision of the ICT services supporting critical or important functions on the continuity of the financial entity’s activities and on the availability of its services. |\n| --- | --- |",
+      "text_sha256": "75cd14c608abe8403c860496244a38507aa47a0bbe4e98dcbb0776d3cf7aabec",
+      "md_span": {
+        "start": 648,
+        "end": 3288
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r1773:2024-03-13#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nWhere this Regulation applies on a sub-consolidated or consolidated basis, the parent undertaking that is responsible for providing the consolidated or sub-consolidated financial statements for the group shall ensure that the policy is implemented consistently in all financial entities that are part of the group and is adequate for the effective application of this Regulation at all relevant levels of the group.",
+      "text_sha256": "6e0a1a1737c7fdd6b8bbe669987800a2518f4cd01547854211212ff8c4fe447a",
+      "md_span": {
+        "start": 3321,
+        "end": 3747
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r1773:2024-03-13#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. The management body shall review the policy at least once a year and update it where necessary. Changes made to the policy shall be implemented in a timely manner and as soon as it is possible within the relevant contractual arrangements. The financial entity shall document the planned timeline for the implementation.\n\n2. The policy shall establish or refer to a methodology for determining which ICT services support critical or important functions. The policy shall also specify when this assessment is to be conducted and reviewed.\n\n3. The policy shall clearly assign the internal responsibilities for the approval, management, control, and documentation of relevant contractual arrangements and shall ensure that appropriate skills, experience and knowledge are maintained within the financial entity to effectively oversee the relevant contractual arrangements, including the ICT services provided under those arrangements.\n\n4. Without prejudice to the final responsibility of the financial entity to effectively oversee relevant contractual arrangements, the policy shall require that the ICT third party service provider is assessed to have sufficient resources to ensure that the financial entity complies with all its legal and regulatory requirements regarding the ICT services supporting critical or important functions that are provided.\n\n5. The policy shall clearly identify the role or member of senior management responsible for monitoring the relevant contractual arrangements. The policy shall specify how that role or member of senior management shall cooperate with the control functions, unless it is part of it, and shall set out the reporting lines to the management body, including the nature of the information to report and the documents to provide. It shall also set out the frequency of such reporting.\n\n6. The policy shall ensure that the contractual arrangements are consistent with the following:\n\n| (a) | the ICT risk management framework referred to in Article 6 of Regulation (EU) 2022/2554; |\n| --- | --- |\n\n| (b) | the information security policy referred to in Article 9(4) of Regulation (EU) 2022/2554; |\n| --- | --- |\n\n| (c) | the ICT business continuity policy referred to in Article 11 of Regulation (EU) 2022/2554; |\n| --- | --- |\n\n| (d) | the requirements on incident reporting set out in Article 19 of Regulation (EU) 2022/2554. |\n| --- | --- |\n\n7. The policy shall require that ICT services supporting critical or important functions provided by ICT third party service providers are subject to independent review and are included in the audit plan.\n\n8. The policy shall explicitly specify that the contractual arrangements:\n\n| (a) | do not relieve the financial entity and its management body of its regulatory obligations and its responsibilities to its clients; |\n| --- | --- |\n\n| (b) | are not to prevent effective supervision of a financial entity and are not to contravene any supervisory restrictions on services and activities; |\n| --- | --- |\n\n| (c) | are to require that the ICT third party service providers cooperate with the competent authorities; |\n| --- | --- |\n\n| (d) | are to require that the financial entity, its auditors, and competent authorities have effective access to data and premises relating to the use of ICT services supporting critical or important functions. |\n| --- | --- |",
+      "text_sha256": "c953bd222981cbc4e003f6c3c6911cbea192ddf4ba607b073716e8ed36e610e0",
+      "md_span": {
+        "start": 3780,
+        "end": 7146
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r1773:2024-03-13#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThe policy shall specify the requirements, including the rules, the responsibilities and the processes, for each main phase of the lifecycle of the contractual arrangement, covering at least the following:\n\n| (a) | the responsibilities of the management body, including its involvement, as appropriate, in the decision-making process on the use of ICT services supporting critical or important functions provided by ICT third-party service providers; |\n| --- | --- |\n\n| (b) | the planning of contractual arrangements, including the risk assessment, the due diligence as set out in Articles 5 and 6 and the approval process regarding new or material changes to contractual arrangements as set out in Article 8(4); |\n| --- | --- |\n\n| (c) | the involvement of business units, internal controls and other relevant units in respect of contractual arrangements; |\n| --- | --- |\n\n| (d) | the implementation, monitoring and management of contractual arrangements as referred to in Articles 7, 8 and 9, including at consolidated and sub-consolidated level, where applicable; |\n| --- | --- |\n\n| (e) | the documentation and record-keeping, taking into account the requirements with regard to the register of information laid down in Article 28(3) of Regulation (EU) 2022/2554; |\n| --- | --- |\n\n| (f) | the exit strategies and termination processes as set out in Article 10. |\n| --- | --- |",
+      "text_sha256": "be435ac69407ffd41827deb0d3c2cb561750f7dcb9c53afe1ae4466c5f529259",
+      "md_span": {
+        "start": 7179,
+        "end": 8568
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r1773:2024-03-13#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. The policy shall require that the business needs of the financial entity are defined before a contractual arrangement is concluded.\n\n2. The policy shall require that a risk assessment is conducted at financial entity level and, where applicable, at consolidated and sub-consolidated level before a contractual arrangement is concluded.\n\nThe risk assessment shall take into account all the relevant requirements laid down in Regulation (EU) 2022/2554 and applicable sectoral Union legislation. It shall consider, in particular, the impact of the provision of ICT services supporting critical or important functions by ICT third-party service providers on the financial entity and all the risks posed by the provision of those ICT services supporting critical or important functions by ICT third-party service providers, including the following:\n\n| (a) | operational risks; |\n| --- | --- |\n\n| (b) | legal risks; |\n| --- | --- |\n\n| (c) | ICT risks; |\n| --- | --- |\n\n| (d) | reputational risks; |\n| --- | --- |\n\n| (e) | risks linked to the protection of confidential or personal data; |\n| --- | --- |\n\n| (f) | risks linked to the availability of data; |\n| --- | --- |\n\n| (g) | risks linked to the location where the data is processed and stored; |\n| --- | --- |\n\n| (h) | risks linked to the location of the ICT third-party service provider; |\n| --- | --- |\n\n| (i) | ICT concentration risks at entity level. |\n| --- | --- |",
+      "text_sha256": "1666f053ca5914c3e3fb6626c4dd506122d3a96a95457d500b049cd4a94214c1",
+      "md_span": {
+        "start": 8601,
+        "end": 10033
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r1773:2024-03-13#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. The policy shall set out an appropriate and proportionate process for selecting and assessing the prospective ICT third-party service providers taking into account whether or not the ICT third party service provider is an intragroup ICT service provider, and shall require that the financial entity assesses, before entering into a contractual arrangement, whether the ICT third-party service provider:\n\n| (a) | has the business reputation, sufficient abilities, expertise and adequate financial, human and technical resources, information security standards, appropriate organisational structure, risk management and internal controls and, if applicable, the required authorisations or registrations to provide the ICT services supporting the critical or important function in a reliable and professional manner; |\n| --- | --- |\n\n| (b) | has the ability to monitor relevant technological developments and identify ICT security leading practices and implement them where appropriate to have an effective and sound digital operational resilience framework; |\n| --- | --- |\n\n| (c) | uses or intends to use ICT sub-contractors to perform the ICT services supporting critical or important functions or material parts thereof; |\n| --- | --- |\n\n| (d) | is located, or processes or stores the data in a third country and, if this is the case, whether this practice affects the level of operational or reputational risks or the risk of being affected by restrictive measures, including embargos and sanctions, that may impact the ability of the ICT third-party service provider to provide the ICT services or the financial entity to receive those ICT services; |\n| --- | --- |\n\n| (e) | consents to contractual arrangements that ensure that it is effectively possible to conduct audits at the ICT third-party service provider, including onsite, by the financial entity itself, appointed third parties, and competent authorities; |\n| --- | --- |\n\n| (f) | acts in an ethical and socially responsible manner, respects human rights and children’s rights, including the prohibition of child labour, respects applicable principles on environmental protection, and ensures appropriate working conditions. |\n| --- | --- |\n\n2. The policy shall specify the required level of assurance concerning the effectiveness of ICT third-party service providers’ risk management framework for the ICT services supporting critical or important functions to be provided by an ICT third-party service provider. The policy shall require that the due diligence process includes an assessment of the existence of risk mitigation and business continuity measures and of how their functioning within the ICT third-party service provider is ensured.\n\n3. The policy shall determine the due diligence process for selecting and assessing the prospective ICT third-party service providers and shall indicate which of the following elements are to be used for the required level of assurance on the ICT third-party service provider’s performance:\n\n| (a) | audits or independent assessments performed by the financial entity itself or on its behalf; |\n| --- | --- |\n\n| (b) | the use of independent audit reports made on request by the ICT third-party service provider; |\n| --- | --- |\n\n| (c) | the use of audit reports made by the internal audit function of the ICT third-party service provider; |\n| --- | --- |\n\n| (d) | the use of appropriate third-party certifications; |\n| --- | --- |\n\n| (e) | the use of other relevant information available to the financial entity or other information provided by the ICT third-party service provider. |\n| --- | --- |\n\n4. Financial entities shall ensure an appropriate level of assurance on the ICT third-party service provider’s performance, taking into account the elements listed in paragraph 3, points (a) to (e). Where appropriate, more than one element listed in those points shall be used.",
+      "text_sha256": "e6cf31f2fd5e5c4c8c825c0ad37eae47634bbf623f5a79f97a9550732446ec76",
+      "md_span": {
+        "start": 10066,
+        "end": 13969
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32024r1773:2024-03-13#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. The policy shall specify the appropriate measures to identify, prevent and manage actual or potential conflicts of interest arising from the use of ICT third-party service providers that are to be taken before entering relevant contractual arrangements and shall provide for an ongoing monitoring of such conflicts of interest.\n\n2. Where ICT services supporting critical or important functions are provided by ICT intra-group service providers, the policy shall specify that decisions on the conditions, including the financial conditions, for the ICT services are to be taken objectively.",
+      "text_sha256": "e6f1de9ed2e770fcb329b274ce42bf36916e401d753fd5e5cb6e337a83cc5029",
+      "md_span": {
+        "start": 14002,
+        "end": 14605
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32024r1773:2024-03-13#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. The policy shall specify that the relevant contractual arrangement are to be in written form and are to include all the elements referred to in Article 30(2) and (3) of Regulation (EU) 2022/2554. The policy shall also include elements regarding requirements referred to in Article 1(1), point (a), of Regulation (EU) 2022/2554, as well as other relevant Union and national law as appropriate.\n\n2. The policy shall specify that the relevant contractual arrangements are to include the right for the financial entity to access information, to carry out inspections and audits, and to perform tests on ICT. For that purpose, the policy shall require that the financial entity uses the following methods, without prejudice to the ultimate responsibility of the financial entity:\n\n| (a) | its own internal audit or an audit by an appointed third party; |\n| --- | --- |\n\n| (b) | where appropriate, pooled audits and pooled ICT testing, including threat-led penetration testing, that are organised jointly with other contracting financial entities or firms that use ICT services of the same ICT third-party service provider and that are performed by those contracting financial entities or firms or by a third party appointed by them; |\n| --- | --- |\n\n| (c) | where appropriate, third-party certifications; |\n| --- | --- |\n\n| (d) | where appropriate, internal or third-party audit reports made available by the ICT third-party service provider. |\n| --- | --- |\n\n3. The financial entity shall not over time rely solely on certifications referred to in paragraph 2, point (c), or audit reports referred to in point (d) of that paragraph. The policy shall only permit the use of the methods referred to in paragraph 2, points (c) and (d), where the financial entity:\n\n| (a) | is satisfied with the audit plan of the ICT third-party service provider for the relevant contractual arrangements; |\n| --- | --- |\n\n| (b) | ensures that the scope of the certifications or audit reports cover the systems and key controls identified by it and ensures compliance with relevant regulatory requirements; |\n| --- | --- |\n\n| (c) | thoroughly assesses the content of the certifications or audit reports on an ongoing basis and verifies that the reports or certifications are not obsolete; |\n| --- | --- |\n\n| (d) | ensures that key systems and controls are covered in future versions of the certification or audit report; |\n| --- | --- |\n\n| (e) | is satisfied with the aptitude of the certifying or auditing party; |\n| --- | --- |\n\n| (f) | is satisfied that the certifications are issued, and the audits are performed against widely recognised relevant professional standards and include a test of the operational effectiveness of the key controls in place; |\n| --- | --- |\n\n| (g) | has the contractual right to request, with a frequency that is reasonable and legitimate from a risk management perspective, modifications of the scope of the certifications or audit reports to other relevant systems and controls; |\n| --- | --- |\n\n| (h) | has the contractual right to perform individual and pooled audits at its discretion with regard to the contractual arrangements and execute those rights in line with the agreed frequency. |\n| --- | --- |\n\n4. The policy shall ensure that material changes to the contractual agreement are to be formalised in a written document which is dated and signed by all parties and shall specify the renewal process for the contractual arrangements.",
+      "text_sha256": "4e66e0d865534014e6af77369ac08c7eb6ec46e578f7d9a85bfd5d78fc792bd5",
+      "md_span": {
+        "start": 14638,
+        "end": 18104
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32024r1773:2024-03-13#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. The policy shall require that the contractual arrangements specify the measures and key indicators to monitor, on an ongoing basis, the performance of ICT third party service providers, including measures to monitor compliance with requirements regarding the confidentiality, availability, integrity and authenticity of data and information, and the compliance of the ICT third-party service providers with the financial entity’s relevant policies and procedures. The policy shall also specify measures that apply when service level agreements are not met, including contractual penalties where appropriate.\n\n2. The policy shall specify how the financial entity is to assess whether the ICT third-party service providers used for the ICT services supporting critical or important functions meet appropriate performance and quality standards in line with the contractual arrangement and the financial entity’s own policies. The policy shall, in particular, ensure the following:\n\n| (a) | that the ICT third-party service providers provide appropriate reports on their activities and services to the financial entity, including periodic reports, incidents reports, service delivery reports, reports on ICT security and reports on business continuity measures and testing; |\n| --- | --- |\n\n| (b) | that the performance of ICT third-party service providers is assessed with key performance indicators, key control indicators, audits, self-certifications and independent reviews in line with the financial entity’s ICT risk management framework; |\n| --- | --- |\n\n| (c) | that the financial entity receives other relevant information from the ICT third-party service providers; |\n| --- | --- |\n\n| (d) | that the financial entity is notified, where appropriate, of ICT-related incidents and operational or security payment-related incidents; |\n| --- | --- |\n\n| (e) | that an independent review and audits verifying compliance with legal and regulatory requirements and policies are performed. |\n| --- | --- |\n\n3. The policy shall specify that the assessment referred to in paragraph 2 is to be documented and its results to be used to update the financial entity’s risk assessment referred to in Article 6.\n\n4. The policy shall establish the appropriate measures that the financial entity is to adopt if it identifies shortcomings of the ICT third-party service providers, including ICT-related incidents and operational or security payment related incidents, in the provision of the ICT services supporting critical or important functions or in the compliance with contractual arrangements or legal requirements. It shall also specify how the implementation of such measures is to be monitored in order to ensure that they are effectively complied with within a defined timeframe, taking into account the materiality of the shortcomings.",
+      "text_sha256": "68a47ad18f54f1902a3a1ab3d32543898d9320098b2feed4c30773a5cf9071a7",
+      "md_span": {
+        "start": 18137,
+        "end": 20982
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32024r1773:2024-03-13#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nThe policy shall contain requirements for a documented exit plan for each contractual arrangement and for the periodic review and testing of the documented exit plan. When establishing the exit plan, the following shall be taken into account:\n\n| (a) | unforeseen and persistent service interruptions; |\n| --- | --- |\n\n| (b) | inappropriate or failed service delivery; |\n| --- | --- |\n\n| (c) | the unexpected termination of the contractual arrangement. |\n| --- | --- |\n\nThe exit plan shall be realistic, feasible, based on plausible scenarios and reasonable assumptions and shall have a planned implementation schedule compatible with the exit and termination terms established in the contractual arrangements.",
+      "text_sha256": "abd3f8ae0edbeda37b7462b072ea182b01cf4e1b65c4e761f585020b49881e60",
+      "md_span": {
+        "start": 21017,
+        "end": 21738
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32024r1773:2024-03-13#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nThis Regulation shall enter into force on the twentieth day following its publication in the Official Journal of the European Union.",
+      "text_sha256": "c22d23a62779913948866ae32d31ac993367958e50cdf5e4af5b6da1fce9bfdc",
+      "md_span": {
+        "start": 21773,
+        "end": 21917
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

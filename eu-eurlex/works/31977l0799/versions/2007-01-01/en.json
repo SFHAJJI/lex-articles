@@ -1,0 +1,383 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31977l0799:2007-01-01",
+  "language": "en",
+  "title": "Council Directive 77/799/EEC of 19 December 1977 concerning mutual assistance by the compe…",
+  "valid_from": "2007-01-01",
+  "valid_to": "2012-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31977l0799/versions/2007-01-01/en.html",
+    "sha256": "acd8bad0cf02a0bde6fe98093dcb4b47d84797539eea54e5900e0362c60774fb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01977L0799-20070101"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:31977l0799:2007-01-01#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "General provisions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. In accordance with the provisions of this Directive the competent authorities of the Member States shall exchange any information that may enable them to effect a correct assessment of taxes on income and on capital, and any information relating to the establishment of taxes on insurance premiums referred to in the sixth indent of Article 3 of Council Directive 76/308/EEC of 15 March 1976 on mutual assistance for the recovery of claims relating to certain levies, duties, taxes and other measures (4).\n\n2. There shall be regarded as taxes on income and on capital, irrespective of the manner in which they are levied, all taxes imposed on total income, on total capital, or on elements of income or of capital, including taxes on gains from the disposal of movable or immovable property, taxes on the amounts of wages or salaries paid by enterprises, as well as taxes on capital appreciation.\n\n3. The taxes referred to in paragraph 2 are at present, in particular:\n\n*in Belgium:*\n\nImpôt des personnes physiques—Personenbelasting\n\nImpôt des sociétés—Vennootschapsbelasting\n\nImpôt des personnes morales—Rechtspersonenbelasting\n\nImpôt des non-résidents—Belasting der niet-verblijfhouders\n\n*in Denmark:*\n\nIndkomstskat til staten\n\nSelskabsskat\n\nDen kommunale indkomstskat\n\nDen amtskommunale indkomstskat\n\nFolkepensionsbidragene\n\nSømandsskat\n\nDen særlige indkomstskat\n\nKirkeskat\n\nFormueskat til staten\n\nBidrag til dagpengefonden\n\n*in Germany:*\n\nEinkommensteuer\n\nKörperschaftsteuer\n\nVermögensteuer\n\nGewerbesteuer\n\nGrundsteuer\n\n*in Greece:*\n\nΦόρος εισοδήματος φυσικών προσώπων\n\nΦόρος εισοδήματος νομικών προσώπων\n\nΦόρος ακινήτου περιουσίας\n\n*in Spain:*\n\nImpuesto sobre la Renta de las Personas Físicas\n\nImpuesto sobre Sociedades\n\nImpuesto Extraordinario sobre el Patrimonio de las Personas Físicas\n\n*in France:*\n\nImpôt sur le revenu\n\nImpôt sur les sociétés\n\nTaxe professionnelle\n\nTaxe foncière sur les propriétés bâties\n\nTaxe foncière sur les propriétés non bâties\n\n*in Ireland:*\n\nIncome tax\n\nCorporation tax\n\nCapital gains tax\n\nWealth tax\n\n*in Italy:*\n\nImposta sul reddito delle persone fisiche\n\nImposta sul reddito delle persone giuridiche\n\nImposta locale sui redditi\n\n*in Luxembourg:*\n\nImpôt sur le revenu des personnes physiques\n\nImpôt sur le revenu des collectivités\n\nImpôt commercial communal\n\nImpôt sur la fortune\n\nImpôt foncier\n\n*in the Netherlands:*\n\nInkomstenbelasting\n\nVennootschapsbelasting\n\nVermogensbelasting\n\n*in Austria:*\n\nEinkommensteuer\n\nKörperschaftsteuer\n\nGrundsteuer\n\nBodenwertabgabe\n\nAbgabe von land- und forstwirtschaftlichen Betrieben\n\n*in Portugal:*\n\nContribuição predial\n\nImposto sobre a indústria agrícola\n\nContribuição industrial\n\nImposto de capitais\n\nImposto profissional\n\nImposto complementar\n\nImposto de mais-valias\n\nImposto sobre o rendimento do petróleo\n\nOs adicionais devidos sobre os impostos precedentes\n\n*in Finland:*\n\nValtion tuloverot—de statliga inkomstskatterna\n\nYhteisöjen tulovero—inkomstskatten för samfund\n\nKunnallisvero—kommunalskatten\n\nKirkollisvero—kyrkoskatten\n\nKansaneläkevakuutusmaksu—folkpensionsförsäkringspremien\n\nSairausvakuutusmaksu—sjukförsäkringspremien\n\nKorkotulon lähdevero—källskatten på ränteinkomst\n\nRajoitetusti verovelvollisen lähdevero—källskatten för begränsat skattskyldig\n\nValtion varallisuusvero—den statliga förmögenhetsskatten\n\nKiinteistövero—fastighetsskatten\n\n*in Sweden:*\n\nDen statliga inkomstskatten\n\nSjömansskatten\n\nKupongskatten\n\nDen särskilda inkomstskatten för utomlands bosatta\n\nDen särskilda inkomstskatten för utomlands bosatta artister m.fl.\n\nDen statliga fastighetsskatten\n\nDen kommunala inkomstskatten\n\nFörmögenhetsskatten\n\n*in the United Kingdom:*\n\nIncome tax\n\nCorporation tax\n\nCapital gains tax\n\nPetroleum revenue tax\n\nDevelopment land tax\n\n*in the Czech Republic:*\n\nDaně z příjmů\n\nDaň z nemovitostí\n\nDaň dědická, daň darovací a daň z převodu nemovitostí\n\nDaň z přidané hodnoty\n\nSpotřební daně\n\n*in Estonia:*\n\nTulumaks\n\nSotsiaalmaks\n\nMaamaks\n\n*in Cyprus:*\n\nΦόρος Εισοδήματος\n\n'Εκτακτη Εισφορά για την Άμυνα της Δημοκρατίας\n\nΦόρος Κεφαλαιουχικών Κερδών\n\nΦόρος Ακίνητης Ιδιοκτησίας\n\n*in Latvia:*\n\niedzīvotāju ienākuma nodoklis\n\nnekustamā īpašuma nodoklis\n\nuzņēmumu ienākuma nodoklis\n\n*in Lithuania:*\n\nGyventojų pajamų mokestis\n\nPelno mokestis\n\nĮmonių ir organizacijų nekilnojamojo turto mokestis\n\nŽemės mokestis\n\nMokestis už valstybinius gamtos išteklius\n\nMokestis už aplinkos teršimą\n\nNaftos ir dujų išteklių mokestis\n\nPaveldimo turto mokestis\n\n*in Hungary:*\n\nszemélyi jövedelemadó\n\ntársasági adó\n\nosztalékadó\n\náltalános forgalmi adó\n\njövedéki adó\n\népítményadó\n\ntelekadó\n\n*in Malta:*\n\nTaxxa fuq l-income\n\n*in Poland:*\n\nPodatek dochodowy od osób prawnych\n\nPodatek dochodowy od osób fizycznych\n\nPodatek od czynności cywilnopranych\n\n*in Slovenia:*\n\nDohodnina\n\nDavki občanov\n\nDavek od dobička pravnih oseb\n\nPosebni davek na bilančno vsoto bank in hranilnic\n\n*in Slovakia:*\n\ndaň z príjmov fyzických osôb\n\ndaň z príjmov právnických osôb\n\ndaň z dedičstva\n\ndaň z darovania\n\ndaň z prevodu a prechodu nehnuteľností\n\ndaň z nehnuteľností\n\ndaň z pridanej hodnoty\n\nspotrebné dane.\n\n*in Bulgaria:*\n\nданък върху доходите на физическите лица\n\nкорпоративен данък\n\nданъци, удържани при източника\n\nалтернативни данъци на корпоративния данък\n\nокончателен годишен (патентен) данък\n\n*in Romania:*\n\nimpozitul pe venit\n\nimpozitul pe profit\n\nimpozitul pe veniturile obținute din România de nerezidenți\n\nimpozitul pe veniturile microîntreprinderilor\n\nimpozitul pe clădiri\n\nimpozitul pe teren.\n\n4. Paragraph 1 shall also apply to any identical or similar taxes imposed subsequently, whether in addition to or in place of the taxes listed in paragraph 3. The competent authorities of the Member States shall inform one another and the Commission of the date of entry into force of such taxes.\n\n5. The expression ‘competent authority’ means:\n\n*in Belgium:*\n\nDe Minister van financiën or an authorized representative\n\nLe Ministre des finances or an authorized representative\n\n*in Denmark:*\n\nSkatteministeren or an authorized representative\n\n*in Germany:*\n\nDer Bundesminister der Finanzen or an authorized representative\n\n*in Greece:*\n\nΤο Υπουργείο Οικονομικών or an authorized representative\n\n*in Spain:*\n\nEl Ministro de Economía y Hacienda or an authorized representative\n\n*in France:*\n\nLe ministre de l'économie or an authorized representative\n\n*in Ireland:*\n\nThe Revenue Commissioners or their authorized representative\n\n*in Italy:*\n\nIl Capo del Dipartimento per le Politiche Fiscali or his authorised representatives\n\n*in Luxembourg:*\n\nLe ministre de finance or an authorized representative\n\n*in the Netherlands:*\n\nDe minister van financiën or an authorized representative\n\n*in Austria:*\n\nDer Bundesminister für Finanzen or an authorized representative\n\n*in Portugal:*\n\nO Ministro das Finanças or an authorized representative\n\n*in Finland:*\n\nValtiovarainministeriö or an authorized representative\n\nFinansministeriet or an authorized representative\n\n*in Sweden:*\n\nChefen för Finansdepartementet or his authorised representative\n\n*in the United Kingdom:*\n\nThe Commissioners of Customs and Excise or an authorised representative for information required concerning taxes on insurance premiums and excise duty\n\nThe Commissioners of Inland Revenue or an authorised representative for all other information\n\n*in the Czech Republic:*\n\nMinistr financí or an authorised representative\n\n*in Estonia:*\n\nRahandusminister or an authorised representative\n\n*in Cyprus:*\n\nΥπουργός Οικονομικών or an authorised representative\n\n*in Latvia:*\n\nFinanšu ministrs or an authorised representative\n\n*in Lithuania:*\n\nFinansų ministras or an authorised representative\n\n*in Hungary:*\n\nA pénzügyminiszter or an authorised representative\n\n*in Malta:*\n\nIl-Ministru responsabbli għall-Finanzi or an authorised representative\n\n*in Poland:*\n\nMinister Finansów or an authorised representative\n\n*in Slovenia:*\n\nMinister za finance or an authorised representative\n\n*in Slovakia:*\n\nMinister financií or an authorised representative\n\n*in Bulgaria:*\n\nИзпълнителният директор на Националната агенция за приходите\n\n*in Romania:*\n\nMinisterul Finanțelor Publice or an authorised representative",
+      "text_sha256": "c15b0c7092d0812daa82b19928e59a6b5c889e57ac4d705e58046c3d5c606dd5",
+      "md_span": {
+        "start": 676,
+        "end": 8784
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0106",
+          "text": "32004L0106: REPLACED"
+        },
+        {
+          "href": "#E0004",
+          "text": "4"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31977L0799",
+          "text": "31977L0799"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31995D0001",
+          "text": "31995D0001: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/12003T",
+          "text": "12003T: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32006L0098",
+          "text": "32006L0098: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/11994N",
+          "text": "11994N: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0056",
+          "text": "32004L0056: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0056",
+          "text": "32004L0056: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32003L0093",
+          "text": "32003L0093: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:31977l0799:2007-01-01#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Exchange on request",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. The competent authority of a Member State may request the competent authority of another Member State to forward the information referred to in Article 1 (1) in a particular case. The competent authority of the requested State need not comply with the request if it appears that the competent authority of the State making the request has not exhausted its own usual sources of information, which it could have utilized, according to the circumstances, to obtain the information requested without running the risk of endangering the attainment of the sought after result.\n\n2. For the purpose of forwarding the information referred to in paragraph 1, the competent authority of the requested Member State shall arrange for the conduct of any enquiries necessary to obtain such information.\n\nIn order to obtain the information sought, the requested authority or the administrative authority to which it has recourse shall proceed as though acting on its own account or at the request of another authority in its own Member State.",
+      "text_sha256": "e2306ab2a45c623238f4fcb0a38d633c82bb458ac89ce0eb4b943fc2fa0af78d",
+      "md_span": {
+        "start": 8843,
+        "end": 9873
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0056",
+          "text": "32004L0056: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31977L0799",
+          "text": "31977L0799"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:31977l0799:2007-01-01#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Automatic exchange of information",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For categories of cases which they shall determine under the consultation procedure laid down in Article 9, the competent authorities of the Member States shall regularly exchange the information referred to in Article 1 (1) without prior request.",
+      "text_sha256": "ed74a08ec07d4de67e9c53c6e1052973e7b366d64821ee4435e19e9a7fc646ed",
+      "md_span": {
+        "start": 9946,
+        "end": 10193
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:31977l0799:2007-01-01#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Spontaneous exchange of information",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. The competent authority of a Member State shall without prior request forward the information referred to in Article 1 (1) of which it has knowledge, to the competent authority of any other Member State concerned, in the following circumstances:\n\n(a) the competent authority of the one Member State has grounds for supposing that there may be a loss of tax in the other Member State;\n\n(b) a person liable to tax obtains a reduction in or an exemption from tax in the one Member State which would: give rise to an increase in tax or to liability to tax in the other Member State;\n\n(c) business dealings between a person liable to tax in a Member State and a person liable to tax in another Member Staid are conducted through one or more countries in such a way that a saving in tax may result in one or the other Member State or in both:\n\n(d) the competent authority of a Member State has grounds for supposing that a saving of tax may result from artificial transfers of profits within groups of enterprises;\n\n(e) information forwarded to the one Member State by the competent authority of the other Member State has enabled information to be obtained which may be relevant in assessing liability to tax in the latter Member State.\n\n2. The competent authorities of the Member States may, under the consultation procedure laid down in Article 9, extend the exchange of information provided for in paragraph 1 to cases other than those specified therein.\n\n3. The competent authoriries of the Member States may forward to each other in any other case, without prior request, the information referred to in Article 1 (1) of which they have knowledge.",
+      "text_sha256": "f1c67f02d68e210e749f68b830912c753cc202abd327bb1e5f278b78b45ec19b",
+      "md_span": {
+        "start": 10268,
+        "end": 11917
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:31977l0799:2007-01-01#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Time limit for forw arding information",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The competent authority of a Member State which, under the preceding Articles, is called upon to furnish information, shall forward it as swiftly as possible. If it encounters obstacles in furnishing the information or if it refuses to furbish the information, it shall forthwith inform the requesting authority to this effect, indicating the nature of the obstacles or the reasons for its refusal.",
+      "text_sha256": "86a57ae66c69888aa91c7b24cba89037ea76505f4644cf496f9bd1dc1f7e890f",
+      "md_span": {
+        "start": 11995,
+        "end": 12393
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:31977l0799:2007-01-01#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Collaboration by officials of the State concerned",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "For the purpose of applying the preceding provisions, the competent authority of the Member State providing the information and the competent authority of the Member State for which the information is intended may agree, under the consultation procedure laid down in Article 9, to authorize the presence in the first Member State of officials of the tax administration of the other Member State. The details for applying this provision shall be determined under the same procedure.",
+      "text_sha256": "8282b97bfcfa5408f4cf15e1d7acd09103fa328cb7b0c90f61de751097820715",
+      "md_span": {
+        "start": 12482,
+        "end": 12963
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:31977l0799:2007-01-01#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Provisions relating to secrecy",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. All information made known to a Member State under this Directive shall be kept secret in that State in the same manner as information received under its national legislation. In any case, such information:\n\n— may be made available only to the persons directly involved in the assessment of the tax or in the administrative control of this assessment,\n\n— may be made known only in connection with judicial proceedings or administrative proceedings involving sanctions undertaken with a view to, or relating to, the making or reviewing the tax assessment and only to persons who are directly involved in such proceedings; such information may, however, be disclosed during public hearings or in judgements if the competent authority of the Member State supplying the information raises no objection at the time when it first supplies the information,\n\n— shall in no circumstances be used other than for taxation purposes or in connection with judicial proceedings or administrative proceedings involving sanctions undertaken with a view to, or in relation to, the making or reviewing of the tax assessment.\n\nIn addition, Member States may provide for the information referred to in the first subparagraph to be used for assessment of other levies, duties and taxes covered by Article 2 of Directive 76/308/EEC (5).\n\n2. Paragraph 1 shall not oblige a Member State whose legislation or administrative practice lays down, for domestic purposes, narrower limits than those contained in the provisions of that paragraph, to provide information if the State concerned does not undertake to respect those narrower limits.\n\n3. Notwithstanding paragraph 1, the competent authorities of the Member State providing the information may pemit it to be used for other purposes in the requesting State, if, under the legislation of the informing State, the information could, in similar circumstances, be used in the informing State for similar purposes.\n\n4. Where a competent authority of a Member State considers that information which it has received from the competent authority of another Member State is likely to be useful to the competent authority of a third Member State, it may transmit it to the latter competent authority with the agreement of the competent authority which supplied the information.",
+      "text_sha256": "6417a28a75fcc6387cd645f09ba4840599c2ba6f3a09aaa78f20e54a01811843",
+      "md_span": {
+        "start": 13033,
+        "end": 15332
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0056",
+          "text": "32004L0056: REPLACED"
+        },
+        {
+          "href": "#E0005",
+          "text": "5"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31977L0799",
+          "text": "31977L0799"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:31977l0799:2007-01-01#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "Limits to exchange of information",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. This Directive does not impose any obligation upon a Member State from which information is requested to carry out inquiries or to communicate information, if it would be contrary to its legislation or administrative practices for the competent authority of that State to conduct such inquiries or to collect the information sought.\n\n2. The provision of information may be refused where it would lead to the disclosure of a commercial, industrial or professional secret or of a commercial process, or of information whose disclosure would be contrary to public policy.\n\n3. The competent authority of a Member State may decline transmission of information when the Member State requesting it is unable, for reasons of fact or law, to provide the same type of information.",
+      "text_sha256": "6bc04c2ad0c93f82071c52e080685cf651f3d3e790cd3726360c8bedb431fc13",
+      "md_span": {
+        "start": 15405,
+        "end": 16178
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0056",
+          "text": "32004L0056: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/31977L0799",
+          "text": "31977L0799"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004L0056",
+          "text": "32004L0056: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8a",
+      "provision_id": "eu-eurlex:31977l0799:2007-01-01#art_8a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8a",
+      "heading": "Notification",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. At the request of the competent authority of a Member State, the competent authority of another Member State shall, in accordance with the rules governing the notification of similar instruments in the requested Member State, notify the addressee of all instruments and decisions which emanate from the administrative authorities of the requesting Member State and concern the application in its territory of legislation on taxes covered by this Directive.\n\n2. Requests for notification shall indicate the subject of the instrument or decision to be notified and shall specify the name and address of the addressee, together with any other information which may facilitate identification of the addressee.\n\n3. The requested authority shall inform the requesting authority immediately of its response to the request for notification and shall notify it, in particular, of the date of notification of the decision or instrument to the addressee.",
+      "text_sha256": "5dce243e36440d5f5228e307913c666da3f0025c6d1d61f6fbb4083c9e784981",
+      "md_span": {
+        "start": 16232,
+        "end": 17178
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8b",
+      "provision_id": "eu-eurlex:31977l0799:2007-01-01#art_8b",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8b",
+      "heading": "Simultaneous controls",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Where the tax situation of one or more persons liable to tax is of common or complementary interest to two or more Member States, those States may agree to conduct simultaneous controls, in their own territory, with a view to exchanging the information thus obtained, whenever they would appear to be more effective than controls conducted by one Member State alone.\n\n2. The competent authority in each Member State shall identify independently the persons liable to tax whom it intends to propose for simultaneous control. It shall notify the respective competent authorities in the other Member States concerned of the cases which, in its view, should be subject to simultaneous control. It shall give reasons for its choice, as far as possible, by providing the information which led to its decision. It shall specify the period of time during which such controls should be conducted.\n\n3. The competent authority of each Member State concerned shall decide whether it wishes to take part in the simultaneous control. On receipt of a proposal for a simultaneous control, the competent authority shall confirm its agreement or communicate its reasoned refusal to its counterpart authority.\n\n4. Each competent authority of the Member States concerned shall appoint a representative with responsibility for supervising and coordinating the control operation.",
+      "text_sha256": "f85b15ef2e84a327565926082d70d4c1428d932afed36925dd61178028be9b09",
+      "md_span": {
+        "start": 17241,
+        "end": 18601
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/31977L0799",
+          "text": "31977L0799"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:31977l0799:2007-01-01#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Consultations",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. For the purposes of the implementation of this Directive, consultations shall be held, if necessary in a Committee, between:\n\n— the competent authorities of the Member States concerned at the request of either, in respect of bilateral questions,\n\n— the competent authorities of all the Member States and the Commission, at the request of one of those authorities or the Commission, in so far as the matters involved are not solely of bilateral interest.\n\n2. The competent authorities of the Member States may communicate directly with each other. The compctent authorities of the Member States may by mutual agreement permit authorities designated by them: to communicate directly with each other in specified cases or in certain categories of cases.\n\n3. Where the competent authorities make arrangements on bilateral matters covered by this Directive other than as regards individual cases, they shall as soon as possible inform the Commission thereof. The Commission shall in turn notify the competent authorities of the other Member States.",
+      "text_sha256": "fdead746321a411c0e7202862488748bb4ad62410df9b1d1079a46732f0ddd9f",
+      "md_span": {
+        "start": 18654,
+        "end": 19700
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:31977l0799:2007-01-01#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Pooling of experience",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The Member States shall, together with the Commission, constantly monitor the cooperation procedure provided for in this Directive and shall pool their experience, especially in the field of transfer pricing within groups of enterprises, with a view to improving such cooperation and, where appropriate, drawing up a body of rules in the fields concerned.",
+      "text_sha256": "1e726a3983dbe825c7776171708bfbedb9ed3b63314b2fb05defc758613d5540",
+      "md_span": {
+        "start": 19763,
+        "end": 20118
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:31977l0799:2007-01-01#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Applicability of wider-ranging provisions of assistance",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The foregoing provisions shall not impede the fulfilment of any wider obligations to exchange information which might flow from other legal acts.",
+      "text_sha256": "a336b8e735a553b50f86e075d965c6e867685ce6bc9423d6181c8bb11a206272",
+      "md_span": {
+        "start": 20215,
+        "end": 20360
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:31977l0799:2007-01-01#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Final provisions",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Member States shall bring into force the necessary laws, regulations and administrative provisions in order to comply with this Directive not later than 1 January 1979 and shall forthwith communicate them to the Commission.\n\n2. Member States shall communicate to the Commission the texts of any important provisions of national law which they subsequently adopt in the field covered by this Directive.",
+      "text_sha256": "003d40dfe58358ea0d51eff2d57dd5e0da13461f5dc9b40f1dc93063aa13a45e",
+      "md_span": {
+        "start": 20418,
+        "end": 20822
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:31977l0799:2007-01-01#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Directive is addressed to the Member States.\n\n(1) OJ No C 293, 13. 12. 1976, p 34.\n\n(2) OJ No C 56, 7. 3. 1977, p. 66\n\n(3) OJ No C 35, 14. 2. 1975, p. 1.\n\n(4) OJ L 73, 19.3.1976, p. 18. Directive as last amended by the 2003 Act of Accession.\n\n(5) OJ L 73, 19.3.1976, p. 18.",
+      "text_sha256": "9444701e9cec853901727db120e44a54fd419caf507dd62accc52105796e51f4",
+      "md_span": {
+        "start": 20861,
+        "end": 21139
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

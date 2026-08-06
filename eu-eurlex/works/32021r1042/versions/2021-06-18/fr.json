@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r1042:2021-06-18",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2021/1042 of 18\u00A0June 2021 laying down rules for the application of Directive (EU) 2017/1132",
+  "valid_from": "2021-06-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r1042/versions/2021-06-18/fr.xml",
+    "sha256": "512697088132fd4b54ab4d618f100fb8257818ff61d95fd4403d12ffee6c5184",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R1042"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r1042:2021-06-18#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes spécifications techniques et les procédures nécessaires au système d’interconnexion des registres mentionné à l’article 22, paragraphe 2, de la directive (UE) 2017/1132 sont définies en annexe.",
+      "text_sha256": "292c0ef0bd6a1f15a36206dfd394fb9492a6b6ab29186bbf467c53d106b4e4a6",
+      "md_span": {
+        "start": 676,
+        "end": 890
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r1042:2021-06-18#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe règlement d’exécution (UE) 2020/2244 est abrogé.\n\nLes références au règlement d’exécution (UE) 2015/884 abrogé et au règlement d’exécution (UE) 2020/2244 s’entendent comme faites au présent règlement.",
+      "text_sha256": "3f866f70e6851f1d29c3b58a7dec1c222b520f8b7d6112cf9fc30ba385667780",
+      "md_span": {
+        "start": 923,
+        "end": 1137
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32021r1042:2021-06-18#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "2be326f48a7bb411fa6711790e75e6a35be6d3cd69277fcbe048ba6ef8caa375",
+      "md_span": {
+        "start": 1170,
+        "end": 1311
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

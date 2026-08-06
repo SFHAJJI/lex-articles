@@ -1,0 +1,3115 @@
+{
+  "lex_work_id": "eu-eurlex:32008r0800",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "html-eu-tolerant/1",
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "anx_i": [
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "61e58dad81e02c79bbc879f86e9d8e21b2db53a2393f9ec5024d825a4ad7f565",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "anx_ii": [
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "5bacc3b0e289ca2290ee5927fdd0d63918a6cb204c7f2b8aeca65f4d895147f9",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "anx_iii": [
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "23011b28e7e760445b07fd19181ce3649280c77c83b59b697918633fdc48dde2",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_1": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "1835ca4aaf776bc6192433a77d5caca6252956a6e2cb897b58d1eba6777e3987",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "93768c05686cc56b633fa3d928a5ba9efbc97b771f0509bce814fc752a073a17",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_10": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "f4e8927102ee99f0e006fb36f1725de869e1ab97f199bcff661c2d63847eb349",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "a0c93deec054711647207c12c6de9a4e8e6a85deb8ac5b29b03f4e5a753cc31d",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_11": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "6599c9365ad184e9f6f477cadb574fd06ec9d592565bf1d94a21b2ef1479dda3",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "09b5e20f654086ccc7c1982cfcc2da12742e48e186ec00840b143ee29b3e2c39",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_12": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "3b11528c3ccd0baebd2304018f0a195ba86c81fbe46295d6b5d28023af4b96c4",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "29da4d94c0c5fe472a036f774e9774853680076ae2ce8a1fcce393fb1f921981",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_13": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "8a75dddbf9a67bd92dbdf75122248d2751dd7eb40cfadbce90f2d9b46ee8eacd",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "2bccc6114586824f312c6aa79879482ae85aa4dd5fb491823f72b58495a90047",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_14": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "6e5e772a9be16f1f42cd96a1714f43a6f641a157fa176489a9022bc390030ce1",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "6369ffc9da2463932d8b0c6285e3e12590d16ba58685aa640f6fb8192e61e25b",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_15": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "d81feb4d31c60a0e42ee5901ea662bf8f9f14616bab083d4bb9195bfc95b28b6",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "ed2b42d02ecc1abc73b9af2e60350fa2eb64452be3858c8cd528efbfa7a5bdde",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_16": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "8c587e3232feb0e3ec4fea6afcf4560fe3d25e67115841b25c0c9dc0031ec4c5",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "3636cbe831bb0fa6c008e30a7e2feb6e1e42220b73672f5268f334ed56fcefea",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_17": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "16516cc44a706dfafa6fe4376712f294d4ffc379c70f2e9a69ed8b0a77cec756",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "874444d3c183c8d7567a6d1aa551c2901ff3dcc64476d9b3793f12d6397aad60",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_18": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "207c93aa21953e314f68bd9d59c27f3b94241be79f1d54904fb6d85a3b86cb83",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "75efbeff782765b0767cbd7aeb0c7120d594b44caaf7a8a31e4476001c8e5b73",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_19": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "e7ba584aedf3ab83cdfaf9d2f9903cba00f4bfcc6d2b142f7e79783a24ff37b6",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "3b0c6b9885947e5e87f071b9a58153759ca8c5c2184bf4d75dc2d41f2b9c6245",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_1__2": [
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "b19e6d24375da4b4d1c8ad6297d70800b6a3b8f509d733413eb849b66570cda4",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "a5ff43415540abc60fa1570a7ed05ce43fdc4042bac46b8e83365f04957cbb63",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "7b8fc12db40c83e0433a5260a7ed7d86d642eff912dc1ccf6c47f150faaaf15e",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_20": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "c10bbd154538191d729f83d30245114f73fed66ccc6649b3c66c5647a87d82e7",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "492a7e40e062f28d742ea6b8b40e97a8c36d4607d25fb11afd2e22154655a13b",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_21": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "a4ab73b9c1433199786a76f6f5a3e9d2c16170a63eea50867cc694df7d79cc3b",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "98333d32a5805e81d2bd34a0c071658f7ce45a4a873481a3ccaeeb3cc5b6c594",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_22": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "365816096715d3b51edfcd68fe5d7fe7e3264e2242fa0e061620f78a1ec29536",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "1371c11115808aa3a7a77f817044a3d66424b33ad6b80ca88466d178ef2ffa15",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_23": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "45cd4a363aff09cd0c697951dac2eed09ec909061355585d67c57511185abde0",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "3152245c5d60feead8a348268ea52a63c52b10dcd4b4ca82787cf0c5b0e50ec4",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_24": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "ac585c62584aefb285f650ee909757067fb732a14d5eedee02933fc64113472c",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "4648b766b5d61ffdc11306774b0c27c6881fc0c21174969392524608e075c504",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_25": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "876f5768d639de9ebe5486c2b668e98fc24f5e6ae62dd90bafde4d082b9bd2cf",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "aaa389a5d75a2901d0a3c560bab094a163d3b107dffd3ef7340abfecfacd6aa5",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_26": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "ce288268eb144afbb35aee27e53c7c7597c7eda2b34869b36baedfd812f157a7",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "6b41aab491bf871624c376f5e70d9825cce5521dba9fe050689413581506897a",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_27": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "c6f27daf4612566c4d1b425b340030c2f2597de2cd1605b5326b11d3a3ef9f6e",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "49314992226d8fb35b1d183e503666f3e3be241770064cb44540ada5ede16d14",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_28": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "b397d0ff16dbc09892e899c0ef9b0c1adeb35392d81dd1b964e1a7c2d8ae1648",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "1d0a376911886591a317a04993fd453af786068d0a50daa2b0ef3974307e02f3",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_29": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "22da2e922d6e5b0fc8ae2d8fecaaf2cd0837b1316509e6078c9dcadf6b6918ea",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "60a19631398044b25ee70553cbb49f6278767c1f4ff58675a904f8bd61f2e78c",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_2__2": [
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "2d88ac2a7e6d08ab6e808389cc757d1c255d56d36df932c45ce466acb739815c",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "35bf10e14b05e490a823e57cc6a3caea09589ab74c7ed4221880616cf4a97a76",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "be39108ba50ae0611a804f52ef17b3dde45ac520e51e818878640d52361c8a6a",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_30": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "8d2f926e70a2e3c216610098b6f09b83fed629bb4f640eab25c5bbe1ef93392e",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "423fc3b648b1a0d75fb98d606e6cb8bd5b8297d72516b570532c9fd7456fdc70",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_31": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "a842303f7662c7bc87f7731968fb2df21172d95881d3152bd1b3bca66d495989",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "5cf76cdb4fa46e791d68a0d7aa245e0f673a30cbf9ddbc56bbf7021af8a60a26",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_32": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "ae6fa10b21a53e46f7ebe5aa224d25d15c6b1bcb4893fb97437f9b6c7bc436f5",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "48d4ecc1be186f55094d7b95031d21924db8f4ad4dc1081dc514fe99eec6f76c",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_33": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "4034d2ca42d09d3d7d72289897e296ec93dd5ba3ee2cbb710709d8edb5287fcd",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "598979b0fc43f3541f327608bd34ff87e74858cba810b79de47417982078a978",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_34": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "e17503639caaec27db5b5dadbc7ef153f43fdc2782d68df409aa5e85bda0c36e",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "27f5e22caae52308a011b805342b9b3c84c3e4eba821af816b8ae0d5ecade159",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_35": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "f361ec8714a4c94e17fb1859167664011896ffc70ae8e0a07edaa98a61c38976",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "74519bd1528dd309526b8263908f487b18fd451ba4825db8a7526a61b846c7fe",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_36": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "d7dd51f56731a4697facc7bada2b4f3e92dbe80449ed785ed1dfaee8cfaff941",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "39a6b40f5fdfa99166802dad794a4c538e182cd21d5ae203e2a2eb6413c4b818",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_37": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "8b462219a10db681d95cad4e582ab6396201407bf7bc7a710996e23dc5291f9b",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "3be26ee8f7a679751908dbc251e719ebe91282be4958c2688c9a3c482ebe80a2",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_38": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "c9ed9eb711b7a79da14262031d81231cecf052e1ae796706a9af14acdc13225d",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "1bff2c1ee82738bbe680cca62a7bbb6dd9f8b4cd0bcd02a6f634e04998f65ff8",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_39": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "8a5824a185197188eaf279d5b2e41c5ff55bd8fa647d4fc87bcacf1ec9c86726",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "908dd478088603e26d2dac73887a70d76969142570c3d893d34de74a4b54b1a4",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_3__2": [
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "bcee923bf4f7133292cf5e1b771775e7c6bf1d75236e081d6a9e5e1eba7a06cc",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "def7bbfc8a8d3980797df0163dc00ffb987f89ab7a29a1ac40923b5f58e437f1",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "367b234bcfcc88d328538511de1b004745f1c1642cd0bc1c03748e337c143e54",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_40": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "d06dbe2a9e4139b6a52e17cbda17101f218fc91ea69a579e7230706c55b6ca7c",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "eb462d826be41133bb3eb25fae4fac2d4923ae927dc3a42d07712b27e4853270",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_41": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "e74b2bb7cd900cfbb2542561f77d261b22f6f3c1eb65a24e443400a94dd20508",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "a0bab50321c797433ed8ad400ede5dde8eb55d901e54f93c48a9a3514ef05451",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_42": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "6e370c5a724da87a5de55f92246ccb2a94b6fbc9b41435ed8fc3a63176a61d10",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "d8806ddff18436c6b640ef82f3d1aba0780a8d8e75b274a13f8c7fc26831411f",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_43": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "4f449fe1802c02db7e2337471a82663cd1d10475f8e3390747c82875952e0a33",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "4456eb72d59d568fa5a5d08ba44d2737d448430905c8216fb2359677bc3b5cf8",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_44": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "bbb6fc8ffffb3c44cabe84960e19df3f85dc629998c7f830dcf7326607977b7f",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "e2a72e3d3597a4907083897c6c7b7bd86de2c6efb9b646624d4e402122fa008b",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_45": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "b1190dbc1410b19b1e2a24ff548a9daf29aa9485af88256a9340143795bec6bc",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "9e78f9564471c4fd73cdd07a53a09d243e139545725ad5094056b948a5010ebe",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_4__2": [
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "a77e0fcc36dbd6dd01c8a6e3c637e58923b01c7085b1492695d138337058ceeb",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "95f1d2d8d61dfa3792ecd2414257f9e57b5ef89d7cd0262d32305403c9781c60",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "14c01db81b45e8a857dad02ed4a5d570bda4035d1ab2550804cb269a0c725b6d",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_5__2": [
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "f930eeb5b63e5ec2205c0db482e0092fd197a63cc5b2228c220735f0313b0fd3",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "f393f4bdaf91882a2be90dda5d684c6d253c770d762b5d440e713247451a51da",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "8c94e2a35ca3b090c248709bb2f3f484c8b72ffe4078bb2f48ee5ed111347b2f",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_6__2": [
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "9cef6b9f527755d29c3c6a13676cda4637257489d7991f872ca9d844519c9705",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "3ae1b413c8fcef927bf7dcae30249fe1f8c809e2f29df4b668d797fa73f20b80",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "3b36faed6d275dd33ae00a3e37187287f839b7ac7102830583fa5b0d4ee32faa",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "f8e35946e6bd38fd523d34ab441d1a76592cf613fc0907291d860894ddb960d9",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "387e0cc151c9614c019b9c1302773f9c222b68182a6674c0021491ee56ef1dfe",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "art_9": [
+      {
+        "valid_from": "2008-08-06",
+        "valid_to": "2013-11-30",
+        "text_sha256": "668da1249f3d3b8cbc9fc33f11e9af9ef7c093bd3d8e325f01f56c96281adfc8",
+        "in_version": "eu-eurlex:32008r0800:2008-08-06"
+      },
+      {
+        "valid_from": "2013-12-01",
+        "valid_to": "2014-06-30",
+        "text_sha256": "45afc0da1e5856694af2f78f10a281f98ac7e233b1a02bdddb7995d2f472bca8",
+        "in_version": "eu-eurlex:32008r0800:2013-12-01"
+      }
+    ],
+    "document": [
+      {
+        "valid_from": "2014-07-01",
+        "valid_to": null,
+        "text_sha256": "dcfbdea6a562f08a1dd12c50df25d1c6480b04701434246654512aecb8a6d0a3",
+        "in_version": "eu-eurlex:32008r0800:2014-07-01"
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "inserted",
+      "anchor": "anx_i",
+      "at_version": "eu-eurlex:32008r0800:2013-12-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_ii",
+      "at_version": "eu-eurlex:32008r0800:2013-12-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_iii",
+      "at_version": "eu-eurlex:32008r0800:2013-12-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_1__2",
+      "at_version": "eu-eurlex:32008r0800:2013-12-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_2__2",
+      "at_version": "eu-eurlex:32008r0800:2013-12-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_3__2",
+      "at_version": "eu-eurlex:32008r0800:2013-12-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_4__2",
+      "at_version": "eu-eurlex:32008r0800:2013-12-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_5__2",
+      "at_version": "eu-eurlex:32008r0800:2013-12-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_6__2",
+      "at_version": "eu-eurlex:32008r0800:2013-12-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_i",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_ii",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_iii",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_1",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_10",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_11",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_12",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_13",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_14",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_15",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_16",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_17",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_18",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_19",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_1__2",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_2",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_20",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_21",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_22",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_23",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_24",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_25",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_26",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_27",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_28",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_29",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_2__2",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_3",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_30",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_31",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_32",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_33",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_34",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_35",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_36",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_37",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_38",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_39",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_3__2",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_4",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_40",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_41",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_42",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_43",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_44",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_45",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_4__2",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_5",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_5__2",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_6",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_6__2",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_7",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_8",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_9",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "document",
+      "at_version": "eu-eurlex:32008r0800:2014-07-01"
+    }
+  ],
+  "anchors_by_language": {
+    "en": {
+      "anx_i": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "61e58dad81e02c79bbc879f86e9d8e21b2db53a2393f9ec5024d825a4ad7f565",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "anx_ii": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "5bacc3b0e289ca2290ee5927fdd0d63918a6cb204c7f2b8aeca65f4d895147f9",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "anx_iii": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "23011b28e7e760445b07fd19181ce3649280c77c83b59b697918633fdc48dde2",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_1": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "1835ca4aaf776bc6192433a77d5caca6252956a6e2cb897b58d1eba6777e3987",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "93768c05686cc56b633fa3d928a5ba9efbc97b771f0509bce814fc752a073a17",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "f4e8927102ee99f0e006fb36f1725de869e1ab97f199bcff661c2d63847eb349",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "a0c93deec054711647207c12c6de9a4e8e6a85deb8ac5b29b03f4e5a753cc31d",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "6599c9365ad184e9f6f477cadb574fd06ec9d592565bf1d94a21b2ef1479dda3",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "09b5e20f654086ccc7c1982cfcc2da12742e48e186ec00840b143ee29b3e2c39",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "3b11528c3ccd0baebd2304018f0a195ba86c81fbe46295d6b5d28023af4b96c4",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "29da4d94c0c5fe472a036f774e9774853680076ae2ce8a1fcce393fb1f921981",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "8a75dddbf9a67bd92dbdf75122248d2751dd7eb40cfadbce90f2d9b46ee8eacd",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "2bccc6114586824f312c6aa79879482ae85aa4dd5fb491823f72b58495a90047",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "6e5e772a9be16f1f42cd96a1714f43a6f641a157fa176489a9022bc390030ce1",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "6369ffc9da2463932d8b0c6285e3e12590d16ba58685aa640f6fb8192e61e25b",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "d81feb4d31c60a0e42ee5901ea662bf8f9f14616bab083d4bb9195bfc95b28b6",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "ed2b42d02ecc1abc73b9af2e60350fa2eb64452be3858c8cd528efbfa7a5bdde",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "8c587e3232feb0e3ec4fea6afcf4560fe3d25e67115841b25c0c9dc0031ec4c5",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "3636cbe831bb0fa6c008e30a7e2feb6e1e42220b73672f5268f334ed56fcefea",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_17": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "16516cc44a706dfafa6fe4376712f294d4ffc379c70f2e9a69ed8b0a77cec756",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "874444d3c183c8d7567a6d1aa551c2901ff3dcc64476d9b3793f12d6397aad60",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_18": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "207c93aa21953e314f68bd9d59c27f3b94241be79f1d54904fb6d85a3b86cb83",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "75efbeff782765b0767cbd7aeb0c7120d594b44caaf7a8a31e4476001c8e5b73",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_19": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "e7ba584aedf3ab83cdfaf9d2f9903cba00f4bfcc6d2b142f7e79783a24ff37b6",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "3b0c6b9885947e5e87f071b9a58153759ca8c5c2184bf4d75dc2d41f2b9c6245",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_1__2": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "b19e6d24375da4b4d1c8ad6297d70800b6a3b8f509d733413eb849b66570cda4",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "a5ff43415540abc60fa1570a7ed05ce43fdc4042bac46b8e83365f04957cbb63",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "7b8fc12db40c83e0433a5260a7ed7d86d642eff912dc1ccf6c47f150faaaf15e",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_20": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "c10bbd154538191d729f83d30245114f73fed66ccc6649b3c66c5647a87d82e7",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "492a7e40e062f28d742ea6b8b40e97a8c36d4607d25fb11afd2e22154655a13b",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_21": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "a4ab73b9c1433199786a76f6f5a3e9d2c16170a63eea50867cc694df7d79cc3b",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "98333d32a5805e81d2bd34a0c071658f7ce45a4a873481a3ccaeeb3cc5b6c594",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_22": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "365816096715d3b51edfcd68fe5d7fe7e3264e2242fa0e061620f78a1ec29536",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "1371c11115808aa3a7a77f817044a3d66424b33ad6b80ca88466d178ef2ffa15",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_23": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "45cd4a363aff09cd0c697951dac2eed09ec909061355585d67c57511185abde0",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "3152245c5d60feead8a348268ea52a63c52b10dcd4b4ca82787cf0c5b0e50ec4",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_24": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "ac585c62584aefb285f650ee909757067fb732a14d5eedee02933fc64113472c",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "4648b766b5d61ffdc11306774b0c27c6881fc0c21174969392524608e075c504",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_25": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "876f5768d639de9ebe5486c2b668e98fc24f5e6ae62dd90bafde4d082b9bd2cf",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "aaa389a5d75a2901d0a3c560bab094a163d3b107dffd3ef7340abfecfacd6aa5",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_26": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "ce288268eb144afbb35aee27e53c7c7597c7eda2b34869b36baedfd812f157a7",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "6b41aab491bf871624c376f5e70d9825cce5521dba9fe050689413581506897a",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_27": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "c6f27daf4612566c4d1b425b340030c2f2597de2cd1605b5326b11d3a3ef9f6e",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "49314992226d8fb35b1d183e503666f3e3be241770064cb44540ada5ede16d14",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_28": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "b397d0ff16dbc09892e899c0ef9b0c1adeb35392d81dd1b964e1a7c2d8ae1648",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "1d0a376911886591a317a04993fd453af786068d0a50daa2b0ef3974307e02f3",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_29": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "22da2e922d6e5b0fc8ae2d8fecaaf2cd0837b1316509e6078c9dcadf6b6918ea",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "60a19631398044b25ee70553cbb49f6278767c1f4ff58675a904f8bd61f2e78c",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_2__2": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "2d88ac2a7e6d08ab6e808389cc757d1c255d56d36df932c45ce466acb739815c",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "35bf10e14b05e490a823e57cc6a3caea09589ab74c7ed4221880616cf4a97a76",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "be39108ba50ae0611a804f52ef17b3dde45ac520e51e818878640d52361c8a6a",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_30": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "8d2f926e70a2e3c216610098b6f09b83fed629bb4f640eab25c5bbe1ef93392e",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "423fc3b648b1a0d75fb98d606e6cb8bd5b8297d72516b570532c9fd7456fdc70",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_31": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "a842303f7662c7bc87f7731968fb2df21172d95881d3152bd1b3bca66d495989",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "5cf76cdb4fa46e791d68a0d7aa245e0f673a30cbf9ddbc56bbf7021af8a60a26",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_32": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "ae6fa10b21a53e46f7ebe5aa224d25d15c6b1bcb4893fb97437f9b6c7bc436f5",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "48d4ecc1be186f55094d7b95031d21924db8f4ad4dc1081dc514fe99eec6f76c",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_33": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "4034d2ca42d09d3d7d72289897e296ec93dd5ba3ee2cbb710709d8edb5287fcd",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "598979b0fc43f3541f327608bd34ff87e74858cba810b79de47417982078a978",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_34": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "e17503639caaec27db5b5dadbc7ef153f43fdc2782d68df409aa5e85bda0c36e",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "27f5e22caae52308a011b805342b9b3c84c3e4eba821af816b8ae0d5ecade159",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_35": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "f361ec8714a4c94e17fb1859167664011896ffc70ae8e0a07edaa98a61c38976",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "74519bd1528dd309526b8263908f487b18fd451ba4825db8a7526a61b846c7fe",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_36": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "d7dd51f56731a4697facc7bada2b4f3e92dbe80449ed785ed1dfaee8cfaff941",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "39a6b40f5fdfa99166802dad794a4c538e182cd21d5ae203e2a2eb6413c4b818",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_37": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "8b462219a10db681d95cad4e582ab6396201407bf7bc7a710996e23dc5291f9b",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "3be26ee8f7a679751908dbc251e719ebe91282be4958c2688c9a3c482ebe80a2",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_38": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "c9ed9eb711b7a79da14262031d81231cecf052e1ae796706a9af14acdc13225d",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "1bff2c1ee82738bbe680cca62a7bbb6dd9f8b4cd0bcd02a6f634e04998f65ff8",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_39": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "8a5824a185197188eaf279d5b2e41c5ff55bd8fa647d4fc87bcacf1ec9c86726",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "908dd478088603e26d2dac73887a70d76969142570c3d893d34de74a4b54b1a4",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_3__2": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "bcee923bf4f7133292cf5e1b771775e7c6bf1d75236e081d6a9e5e1eba7a06cc",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "def7bbfc8a8d3980797df0163dc00ffb987f89ab7a29a1ac40923b5f58e437f1",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "367b234bcfcc88d328538511de1b004745f1c1642cd0bc1c03748e337c143e54",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_40": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "d06dbe2a9e4139b6a52e17cbda17101f218fc91ea69a579e7230706c55b6ca7c",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "eb462d826be41133bb3eb25fae4fac2d4923ae927dc3a42d07712b27e4853270",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_41": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "e74b2bb7cd900cfbb2542561f77d261b22f6f3c1eb65a24e443400a94dd20508",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "a0bab50321c797433ed8ad400ede5dde8eb55d901e54f93c48a9a3514ef05451",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_42": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "6e370c5a724da87a5de55f92246ccb2a94b6fbc9b41435ed8fc3a63176a61d10",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "d8806ddff18436c6b640ef82f3d1aba0780a8d8e75b274a13f8c7fc26831411f",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_43": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "4f449fe1802c02db7e2337471a82663cd1d10475f8e3390747c82875952e0a33",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "4456eb72d59d568fa5a5d08ba44d2737d448430905c8216fb2359677bc3b5cf8",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_44": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "bbb6fc8ffffb3c44cabe84960e19df3f85dc629998c7f830dcf7326607977b7f",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "e2a72e3d3597a4907083897c6c7b7bd86de2c6efb9b646624d4e402122fa008b",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_45": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "b1190dbc1410b19b1e2a24ff548a9daf29aa9485af88256a9340143795bec6bc",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "9e78f9564471c4fd73cdd07a53a09d243e139545725ad5094056b948a5010ebe",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_4__2": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "a77e0fcc36dbd6dd01c8a6e3c637e58923b01c7085b1492695d138337058ceeb",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "95f1d2d8d61dfa3792ecd2414257f9e57b5ef89d7cd0262d32305403c9781c60",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "14c01db81b45e8a857dad02ed4a5d570bda4035d1ab2550804cb269a0c725b6d",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_5__2": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "f930eeb5b63e5ec2205c0db482e0092fd197a63cc5b2228c220735f0313b0fd3",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "f393f4bdaf91882a2be90dda5d684c6d253c770d762b5d440e713247451a51da",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "8c94e2a35ca3b090c248709bb2f3f484c8b72ffe4078bb2f48ee5ed111347b2f",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_6__2": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "9cef6b9f527755d29c3c6a13676cda4637257489d7991f872ca9d844519c9705",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "3ae1b413c8fcef927bf7dcae30249fe1f8c809e2f29df4b668d797fa73f20b80",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "3b36faed6d275dd33ae00a3e37187287f839b7ac7102830583fa5b0d4ee32faa",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "f8e35946e6bd38fd523d34ab441d1a76592cf613fc0907291d860894ddb960d9",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "387e0cc151c9614c019b9c1302773f9c222b68182a6674c0021491ee56ef1dfe",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "668da1249f3d3b8cbc9fc33f11e9af9ef7c093bd3d8e325f01f56c96281adfc8",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "45afc0da1e5856694af2f78f10a281f98ac7e233b1a02bdddb7995d2f472bca8",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "document": [
+        {
+          "valid_from": "2014-07-01",
+          "valid_to": null,
+          "text_sha256": "dcfbdea6a562f08a1dd12c50df25d1c6480b04701434246654512aecb8a6d0a3",
+          "in_version": "eu-eurlex:32008r0800:2014-07-01"
+        }
+      ]
+    },
+    "fr": {
+      "annexe_i": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "fb6e0ca91d253be61de70312ea2f13b2ee54f20d99413b570ed20d064160d175",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "annexe_ii": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "e537c05c919e7efb26753bfa1ef4bb712327ab958d49fb2101e841f84a469817",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "annexe_iii": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "be8a31104144566ef6d1083a7404a3177fb429fbf6fd2c973b4747acb544b418",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_1": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "644d610de74bf14ed0e9cf5bf22d7225a39b603a363213b5254e4eabd2ac8069",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "f4f3b4cc2ccfafea9cfd482fe3227d61404ae4a396e3436a67190fed2b49dc50",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "2f9685a7ee7bbff7057bbcfd2dcac93ee48407763a9f07c66220807ddd756162",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "82d37e169f592cb4e86c316abb80e410b49446e6bfab239367b716856f13acf8",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "bac9655432b73ca9ab936349a27e08558213d4131d535952ab5492fd1b8c03dc",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "f3ef13f4a7f440bd806f53886a7a00f15deb6e72a866322e7dd823d085224b96",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "9ab4443aed203ed76f5741e8ab215a86db59d5f4556514dd2f58faf2ddd24cc1",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "02c6cc0019dccfcf546535ede3450ec307f92cd78966bb7b1dbc4e02a846ec67",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "876c38eaa8b1927efecf95095810b40e489861fdfd1e8ccccc96513213953c2f",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "ec6c2ef13f765919596ed278fe3c7e7f119050b50ea474aef52aff555ba4e511",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "88775edb4d9b6aa7981306089c699581ce47f385cc244d41be0d626f365a39d9",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "5cee64bd97e23eeb41bf7657ee8c8beeddf202f019b9b9cc36417e1f6619873c",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "5dd845bccb550a21939dc372601b7641d7a504195c145eceb41ef10379a1e210",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "c160670970d6eace32f832a411311755710ab3619f9d837e72de24309a6bc81f",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "a26f0498b401b2e6ca59a5759d2ca2a14eac29193c55817affd998c57f218a02",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "e635303a3e892ecdf9cc278345ff637663297a6e2e97711e2d65344a0b606fa2",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_17": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "b02b39f4ae89bf0bb35c252230625cb23f6eb1c1309ac7d5898b8ae65b0d1de3",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "1db3ffa945720e1304e22457aee603152f9f97d1444d8dc9bd01f7f3f0b8ace2",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_18": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "83354323380ce6551c6ece4a7f31398ab408c9dc04270bf1ede4354da666ec98",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "f5cd897150d5099eb00a3108ab6a62f3e69230408816f23f5a12a216fc02940a",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_19": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "356d3f77b9ace67c29c685451aceeffbfbb2e80efe3bd200718b2a7a9e597584",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "ecbb24eecc5a387fde6fb236c7973a14b0523aa665d354a5a5b5a79ffc3f0ffe",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_1__2": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "154dec4123f5d162f3eed03109e3795b11c4d54c0815dcbd487eabcc54e776fa",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "d7a3a9c5c759a0cac5337f2991fdd838ac30a1f5397124c58ed47a2aa237f825",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "762a874857f109cbefae969f60c71f935ebdc8d3991d929726d638371d8e238e",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_20": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "4244c67927294a2a21a45ab1d09b2236a81ce6323e1b01171f3f2f4a728df87e",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "870fc16c3e58ab4557fe707ce8d3bee4c267d7447eb9e495c4c288dcce438b33",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_21": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "576ee216211c46f287c92daedf74494957201125f04ae2d5b6dec8d21b333903",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "17ed4e1019616fd7f7f6dc39f3bf79d4370a8a3cd2d062107de2cbe3d14ff887",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_22": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "9305f885a965dcc7f19655a99aa3a9fd5fbdc3f39b04ecafffa14c2500192f10",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "952716a83006a9c04588701fc22c5957705dde84ffd0a5606dcdc0ed5c68bd3d",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_23": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "afb9b78d4daedd665b1ef6db840417cebf6ecde90f02e9c6b0f3c123af136e2d",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "b6723b27f94a04dda38a887beba4332bc5034fe7721c25e7de542591f9b687b8",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_24": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "a0be2d7e3ccc00a180c3b50f31764cfd11defaf561613066707d42d96ad109ad",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "0d29f3480fcaef1cfb685e57058b946953155bd9f391790b4b3de92f3a92bbf3",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_25": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "f36e606f06c65cf8bf1c0bbd7981d426baf845fabbb678fcc667b4cf5f1492c8",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "858db1ad4e3ea8a3764d7d6cd7fbfffee56d172905b9a1768aaee34d0afe6836",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_26": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "3a2050532aed25c82ce65a319e0d68c46bba39dce37ccfc9ee2a37cdbb6794cc",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "b8c692552cce584e58560b1ab7aa21abea2c054cde1bf6dc724ba2305fd41bc9",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_27": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "88cc4b01b34c7cbdaa9e0cce77cd4fc2fe03a8f68be84fd87575cb7ebf8c260a",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "76ac489b06923e0c60089b9217f690522490c1926b3ce0238c1b438d6263c0a7",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_28": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "ac453ac00f7537f42cd8f461db24e5f9050f160bc79f7623111413a43cefd54f",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "9e25ac1af169a8ca9ca040c4223f4b32e1eca5faf70715513b6e17662f9d382e",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_29": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "4744814d389a7b2b845a35c0851715e9c0a22930e501ffbc036d89db89e2823c",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "9924ef96c2db071cbb7ab801fcaaa1d9a949339205d6f509645e36165827f926",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_2__2": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "4d75ee5ed9f1e9ea5e87b9d7b949ba3eebad8af5162df9c6b260f87accaf6f71",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "b5aa36720bd833098070660e6fe543913ad067807092c4418898b2b6c4543bad",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "915602028f2e03bc2fe7ac0926fa577b262d3c557f310167ad8c43861750bcc2",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_30": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "5d053f1e0495a82c0eefc9a98f5959dda2548ba1ce7813bbe94620fbc7f749e1",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "d43e8d77f5dab58dbfdb257f973ca395a84d6528def7dc4c6c75cd7fb7d19a33",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_31": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "ad5cf27bb1c505fea378545930abeef504ba6c08dd0f38e49a1ba7aa02fd3a56",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "c4a7c85ca0dd4a9e4f7596ad639ea445c399904a15836d2fc3ae679537aa42c8",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_32": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "f16a0da5198fc2a30a4fe5923871049660877e613c8fde70dfe136b6b80088f7",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "1ff41360fa1577727cb8113912997658ae7d3da88f80f435757a8072272cc367",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_33": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "3687db21fe2423d0dcf08fa08f852cc92fdcb95344949ab2e77550314572781c",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "c735c701da0c53e2017ec78a8702ccdd05926c48f2e1a4f4b66975661b2e195f",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_34": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "82f0a1cffc97f3f3e1f09d4946e16ff9b00d62ec164294fb911e6af62f0c719b",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "3c391ce70e35992e3f607437255b0a949dc6c5b4eecdc20d3f7e945b7aa27584",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_35": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "8803532e98a757f96bbc7d2085ca902b5aa20393fdab1db9c5a56faff114de8c",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "91246f76b283839d22d5d4c37f308666c8a1b7e48936a35b20eb82a7e72ff32b",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_36": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "359136bd4117c0cb4dda3d437334f88104bcea69e6c85da1f0a86a0622326b7a",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "1469b42c7d6ccff27457456674ee851fb6e5ce472087c3edf909880b805a074e",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_37": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "de7c41efb1125df67e1bcd27ad9cbc473c5c17ea0e27550a8ce280826e5433c2",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "f4d014865f209bd43089ecb80ff5d7edefa0ca5c73a8cd810f859aed0e9002f5",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_38": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "aacbe9b4b2e9b19a6a772b2472661b8fa3491598d51ba3f4f68de698ace41a66",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "585fab6db9b82ec8cd7304e761b157f8aaaf1cb753df27be45ca9c0ae4d4f632",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_39": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "2125283f1e629f4eaa3ae763e113704084bbd4d0950dcc339cbcad0510b0edbd",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "052fdbdbe48894994ab0986a10eb2f8d9ae95db83fedde0b521aaf29b6da09ba",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_3__2": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "61b2a76aa9365a44d0457e30bc5890c90420727971579177b057f8023fe2d1df",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "be3d23d6701ba8f960b7da368d7a84aa8b8e777d4ab35b33bc4cb9f576e26b8c",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "8d4c7ec6b2e136a7741c788b96d5b15f9c369815b0bf0e320e86fc85eb04201b",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_40": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "15c850043d0445975af69c9a90b7006c7d1460b9a4c25aefc5dc4c8c0ae809d1",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "933a8a6b4e2249c3586d6423dbbbe8832810ef9cf2feab94deb119b6df259daa",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_41": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "2dcd1b285b5a3e1e03416c3f43ea711557d8ece1431b44538518db34338b2e83",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "51529e110c790f5fd5948bdb080113abb8f69ab2f324019f11783a916d307a9a",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_42": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "09ee367b34c8243bbe1f83b105fc19a2fa5da7b55e6ec755f7d524ba09324541",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "02dc2aa310dbf05657537b84e685c1bb0926bbcc4bfd1c5e7ffdca9d6264d9a8",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_43": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "926e33b9e27715f88602d5084546bcca3ed46244a90ef36468618015d673ef8d",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "81283d7b6d99c8bb0ac5c55fa16d2d2dd6575925f0dddee875d434a8ab4b2d7f",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_44": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "31704c8a98d5c81c074090b1e89069861e4b2cef8819877d788c64d3307d4eaf",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "0294839ca0bd53d2e39a8f12265b182c25dd6e3e429a2ff264f681824a25b256",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_45": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "61ee5c66e03470862ccf900445faf3acdef76fc316683e41054c06454b0ff073",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "9f0fe33da0f715a18168b572b504cbec197ee38fd387ac6f6a54dec1982705fb",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_4__2": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "386d039d30b0f667707bff3a847834f5bc0f6902727072388002c5580535f1b1",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "744f7510e130c91b120099c1f64ac4c9d1e81e7aa631d4fb07ab989959aaf62a",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "011e621a95e705b31d201886321155f4f1e6cf0ba57a543007413df2ada8130e",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_5__2": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "caa420656e4b611859af475a98c810f06d7106b3965dcdf0474e3be42e2818a3",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "43ef410027a50423b39872b0390a5cb24509a0a97df6b70b92a1d3b7fea0dc63",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "d9897120485f2a5306749bb5d73eb4532f020f2ebe879df53b8883e4156c1d2d",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_6__2": [
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "2d707ebac7e7462c788b30495afaa74d173a1e2ba22ecb6cf628e485c1765459",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "5674474e6d881bae1a1faae559d44506963edf7792cd013ddbc9ea2e044ed56b",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "0c1f1f9e0ccf1b91198285529f2853384917c435e8967bb62bd8ff0ba266ecb2",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "50bc41344cdf15fb2dbf50f167f195d9a453dc04c6ccb0d2f921a6f1f7e69ee5",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "7528f8fa841168eb44749a0ce73588b56a092d386295623cc4f8bafa51d0f643",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2008-08-06",
+          "valid_to": "2013-11-30",
+          "text_sha256": "b08035a8f632219ad7eee1699ad746070409592524941a1689414cf006afa2ce",
+          "in_version": "eu-eurlex:32008r0800:2008-08-06"
+        },
+        {
+          "valid_from": "2013-12-01",
+          "valid_to": "2014-06-30",
+          "text_sha256": "1df1aa5fe227bfce00ea11a453f3e976be2d91d8783bd40c92a8e0ceb15d41c4",
+          "in_version": "eu-eurlex:32008r0800:2013-12-01"
+        }
+      ],
+      "document": [
+        {
+          "valid_from": "2014-07-01",
+          "valid_to": null,
+          "text_sha256": "4b9bc2cd4e95e7ad2426b6326c32f40deb85d4b0851eec41cb7e6cb2c3671220",
+          "in_version": "eu-eurlex:32008r0800:2014-07-01"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [
+      {
+        "type": "inserted",
+        "anchor": "anx_i",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_ii",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_iii",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_1__2",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_2__2",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_3__2",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_4__2",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_5__2",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_6__2",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_i",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_ii",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_iii",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_1",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_10",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_11",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_12",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_13",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_14",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_15",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_16",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_17",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_18",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_19",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_1__2",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_2",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_20",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_21",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_22",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_23",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_24",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_25",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_26",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_27",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_28",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_29",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_2__2",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_3",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_30",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_31",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_32",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_33",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_34",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_35",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_36",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_37",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_38",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_39",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_3__2",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_4",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_40",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_41",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_42",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_43",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_44",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_45",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_4__2",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_5",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_5__2",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_6",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_6__2",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_7",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_8",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_9",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "document",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      }
+    ],
+    "fr": [
+      {
+        "type": "inserted",
+        "anchor": "annexe_i",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_ii",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_iii",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_1__2",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_2__2",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_3__2",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_4__2",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_5__2",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_6__2",
+        "at_version": "eu-eurlex:32008r0800:2013-12-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_i",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_ii",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_iii",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_1",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_10",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_11",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_12",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_13",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_14",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_15",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_16",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_17",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_18",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_19",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_1__2",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_2",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_20",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_21",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_22",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_23",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_24",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_25",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_26",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_27",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_28",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_29",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_2__2",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_3",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_30",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_31",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_32",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_33",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_34",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_35",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_36",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_37",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_38",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_39",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_3__2",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_4",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_40",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_41",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_42",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_43",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_44",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_45",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_4__2",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_5",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_5__2",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_6",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_6__2",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_7",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_8",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_9",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "document",
+        "at_version": "eu-eurlex:32008r0800:2014-07-01"
+      }
+    ]
+  }
+}

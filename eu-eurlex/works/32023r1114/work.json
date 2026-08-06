@@ -2,23 +2,36 @@
   "lex_work_id": "eu-eurlex:32023r1114",
   "title": "MiCA — Regulation (EU) 2023/1114",
   "languages": [
-    "en"
+    "en",
+    "fr"
   ],
   "versions": [
+    {
+      "valid_from": "2023-05-31",
+      "valid_to": "2023-06-08",
+      "language": "en",
+      "provisions": 149
+    },
+    {
+      "valid_from": "2023-05-31",
+      "valid_to": "2023-06-08",
+      "language": "fr",
+      "provisions": 149
+    },
     {
       "valid_from": "2024-01-09",
       "valid_to": null,
       "language": "en",
-      "provisions": 156
+      "provisions": 150
+    },
+    {
+      "valid_from": "2024-01-09",
+      "valid_to": null,
+      "language": "fr",
+      "provisions": 150
     }
   ],
   "anchors": [
-    "anx_i",
-    "anx_ii",
-    "anx_iii",
-    "anx_iv",
-    "anx_v",
-    "anx_vi",
     "art_1",
     "art_10",
     "art_100",

@@ -1,0 +1,16 @@
+---
+lex_id: 'eu-eurlex:32003r2201:2022-08-01'
+title: 'Council Regulation (EC) No 2201/2003 of 27 November 2003 concerning jurisdiction and the r…'
+valid_from: '2022-08-01'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02003R2201-20220801'
+source_sha256: 'da34702584565931fc2e6bf3984d33d45c2871b6da9da4944187c6fd61819155'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'html-eu-tolerant/1 · lex derive'
+---
+<a id="document"></a>
+
+### Document
+
+02003R2201 — FR — 01.08.2022 — 002.001 Ce texte constitue seulement un outil de documentation et n’a aucun effet juridique. Les institutions de l'Union déclinent toute responsabilité quant à son contenu. Les versions faisant foi des actes concernés, y compris leurs préambules, sont celles qui ont été publiées au Journal officiel de l’Union européenne et sont disponibles sur EUR-Lex. Ces textes officiels peuvent être consultés directement en cliquant sur les liens qui figurent dans ce document ►B RÈGLEMENT (CE) No 2201/2003 DU CONSEIL du 27 novembre 2003 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale abrogeant le règlement (CE) no 1347/2000 (JO L 338, 23.12.2003, p.1) Abrogé par: Journal officiel n° page date Règlement (UE) 2019/1111 du Conseil du 25 juin 2019 L 178 1 2.7.2019 La dernière version consolidée avant abrogation est disponible sous le lien suivant: http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02003R2201-20050301

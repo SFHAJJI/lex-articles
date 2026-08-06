@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31971r2822:1971-12-20",
+  "language": "en",
+  "title": "Regulation (EEC) No 2822/71 of the Council of 20 December 1971 supplementing the provision…",
+  "valid_from": "1971-12-20",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31971r2822/versions/1971-12-20/en.html",
+    "sha256": "c119c130fee4a18a6492609bcb185560abd9d55e8a870ceadf0e7deb9b385e96",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31971R2822"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31971r2822:1971-12-20#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Avis juridique important | 31971R2822 Regulation (EEC) No 2822/71 of the Council of 20 December 1971 supplementing the provisions of Regulation No 17 implementing Articles 85 and 86 of the Treaty Official Journal L 285 , 29/12/1971 P. 0049 - 0050 Finnish special edition: Chapter 8 Volume 1 P. 0045 Danish special edition: Series I Chapter 1971(III) P. 0899 Swedish special edition: Chapter 8 Volume 1 P. 0045 English special edition: Series I Chapter 1971(III) P. 1035 Greek special edition: Chapter 08 Volume 1 P. 0091 Spanish special edition: Chapter 08 Volume 2 P. 0016 Portuguese special edition Chapter 08 Volume 2 P. 0016 REGULATION (EEC) No 2822/71 OF THE COUNCIL of 20 December 1971 supplementing the provisions of Regulation No 17 implementing Articles 85 and 86 of the Treaty THE COUNCIL OF THE EUROPEAN COMMUNITIES, Having regard to the Treaty establishing the European Economic Community, and in particular Article 87 thereof; Having regard to the proposal from the Commission; Having regard to the Opinion of the European Parliament; Having regard to the Opinion of the Economic and Social Committee; Whereas Article 4 (2) of Regulation No 17 1 exempts a number of agreements, decisions and concerted practices from the requirement of notification under Article 4 (1); Whereas the creation of a common market requires that undertakings be adapted to the conditions of the enlarged market and whereas co-operation between undertakings can be a suitable means of achieving this ; whereas it is in particular advisable to encourage co-operation in the field of research and development and the conclusion of specialisation agreements which do not affect competition; Whereas such co-operation would be facilitated if notification of the agreements, decisions and concerted practices in question were no longer required; Whereas, in introducing exemption from notification, account must be taken on the one hand of the desire on the part of undertakings that co-operation between them be made easier and on the other of the need for effective supervision; Whereas agreements, decisions and concerted practices relating only to joint research and development, in so far as they restrict competition, do not as a rule present such dangers as to make notification necessary; Whereas specialisation agreements may make for improvement in the production and distribution of products ; whereas generally there is no reason to fear that competition will be affected provided the participating undertakings do not exceed a certain size and their share of the market in the specialised products does not exceed a given limit ; whereas as a general rule agreements of this kind may, pursuant to Article 85 (3) of the Treaty, be exempted from the prohibition imposed by Article 85 (1) thereof; Whereas, therefore, Article 4 (2) of Regulation No 17 should be supplemented and agreements, decisions and concerted practices for joint research and development, in so far as they restrict competition, and certain specialisation agreements, should be exempted from compulsory notification; HAS ADOPTED THIS REGULATION: Sole Article Article 4 (2) of Regulation No 17 shall be supplemented as follows: \"2 Paragraph 1 shall not apply to agreements, decisions and concerted practices where: (1) ... (unchanged) (2) ... (unchanged) (3) they have as their sole object: (a) ... (unchanged) (b) joint research and development; (c) specialisation in the manufacture of products, including agreements necessary for achieving this, 1OJ No 13, 21.2.1962, p. 204/62. - where the products which are the subject of specialisation do not, in a substantial part of the common market, represent more than 15 % of the volume of business done in identical products or those considered by consumers to be similar by reason of their characteristics, price and use, and - where the total annual turnover of the participating undertakings does not exceed 200 million units of account. These agreements, decisions and practices may be notified to the Commission.\" This Regulation shall be binding in its entirety and directly applicable in all Member States. Done at Brussels, 20 December 1971. For the Council The President M. PEDINI",
+      "text_sha256": "1f2d04621357d3ff20583e96340bec5617c1e2bde1eb715264d9f59fbdb89216",
+      "md_span": {
+        "start": 649,
+        "end": 4852
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

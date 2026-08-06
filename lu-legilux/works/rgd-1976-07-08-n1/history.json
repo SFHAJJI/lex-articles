@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -102,5 +103,108 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "1981-12-28",
+          "valid_to": null,
+          "text_sha256": "e878038065d480ee46b01086e454226364c705ad127119655e3df0b41daede50",
+          "in_version": "lu-legilux:rgd-1976-07-08-n1:1981-12-28",
+          "article_valid_from": "1976-07-19",
+          "validity_conflict": true
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "1981-12-28",
+          "valid_to": null,
+          "text_sha256": "a6c6bc84f4f090f2ca1418f0ece588ba86eb88458cae1518733ca78a8c825579",
+          "in_version": "lu-legilux:rgd-1976-07-08-n1:1981-12-28",
+          "article_valid_from": "1976-07-19",
+          "validity_conflict": true
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "1981-12-28",
+          "valid_to": null,
+          "text_sha256": "4169cff0c6b450d81de94213ab572d8317d24efd9fac5d84ab7b77503ae7ed03",
+          "in_version": "lu-legilux:rgd-1976-07-08-n1:1981-12-28",
+          "article_valid_from": "1976-07-19",
+          "validity_conflict": true
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "1981-12-28",
+          "valid_to": "1993-08-13",
+          "text_sha256": "7d16001a6a62c54125bcef54a39862b957dab1bd4682d420612cefbad88e546f",
+          "in_version": "lu-legilux:rgd-1976-07-08-n1:1981-12-28",
+          "article_valid_from": "1976-07-19",
+          "validity_conflict": true
+        },
+        {
+          "valid_from": "1993-08-14",
+          "valid_to": null,
+          "text_sha256": "95e7aea2b2f8ac0128d72207997cb4614e00b105853fa44751b4cfedd852c115",
+          "in_version": "lu-legilux:rgd-1976-07-08-n1:1993-08-14",
+          "article_valid_from": "1993-08-14"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "1981-12-28",
+          "valid_to": null,
+          "text_sha256": "f163c7ef1f2e8dd1d563fd2bc86875b6754113ad33fd27ff42f2296251d06c4b",
+          "in_version": "lu-legilux:rgd-1976-07-08-n1:1981-12-28",
+          "article_valid_from": "1976-07-19",
+          "validity_conflict": true
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "1981-12-28",
+          "valid_to": null,
+          "text_sha256": "77686cc288302cac68ea461630e67835d1cdc04813c5b0f67d3ceea16483b450",
+          "in_version": "lu-legilux:rgd-1976-07-08-n1:1981-12-28",
+          "article_valid_from": "1976-07-19",
+          "validity_conflict": true
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "1981-12-28",
+          "valid_to": null,
+          "text_sha256": "16e5ff351f28fe17ffad06cce798a7a597b85e13ecdbb2d630638a5885158688",
+          "in_version": "lu-legilux:rgd-1976-07-08-n1:1981-12-28",
+          "article_valid_from": "1981-12-28"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "1981-12-28",
+          "valid_to": null,
+          "text_sha256": "b0b97df5cdb6fbaab88ba3a9c8fe66f688edbf7d0bcae9c0aec6e1b38c08dd3c",
+          "in_version": "lu-legilux:rgd-1976-07-08-n1:1981-12-28",
+          "article_valid_from": "1976-07-19",
+          "validity_conflict": true
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "1981-12-28",
+          "valid_to": null,
+          "text_sha256": "3ef39b0232bea27f288774e9b5d6e83bb5169e6ba20766f5bee5da5f01a6e58a",
+          "in_version": "lu-legilux:rgd-1976-07-08-n1:1981-12-28",
+          "article_valid_from": "1976-07-19",
+          "validity_conflict": true
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

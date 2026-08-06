@@ -4,6 +4,7 @@
   "profiles": [
     "pdf-memorial-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1": [
       {
@@ -14,5 +15,20 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1": [
+        {
+          "valid_from": "1983-03-26",
+          "valid_to": null,
+          "text_sha256": "f3e9148e35d18e3d3b87fab4ed9e09418ed79a313a861663d56c5145f27afd0b",
+          "in_version": "lu-legilux:rgd-1977-10-11-n2:1983-03-26"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

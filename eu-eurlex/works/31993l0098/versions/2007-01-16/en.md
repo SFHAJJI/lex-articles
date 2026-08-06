@@ -1,0 +1,16 @@
+---
+lex_id: 'eu-eurlex:31993l0098:2007-01-16'
+title: 'Council Directive 93/98/EEC of 29 October 1993 harmonizing the term of protection of copyr…'
+valid_from: '2007-01-16'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01993L0098-20070116'
+source_sha256: 'd254cb5cbe3926b265b5646423b482096f0001aa4569ea3a16b9845103d06a3a'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'html-eu-tolerant/1 · lex derive'
+---
+<a id="document"></a>
+
+### Document
+
+1993L0098 — EN — 16.01.2007 — 002.001 This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents ►B COUNCIL DIRECTIVE 93/98/EEC of 29 October 1993 harmonizing the term of protection of copyright and certain related rights (OJ L 290, 24.11.1993, p.9) repealed by: Official Journal No page date Directive 2006/116/EC of the European Parliament and of the Council of 12 December 2006 L 372 12 27.12.2006

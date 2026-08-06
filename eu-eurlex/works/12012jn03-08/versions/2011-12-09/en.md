@@ -1,0 +1,16 @@
+---
+lex_id: 'eu-eurlex:12012jn03-08:2011-12-09'
+title: 'Act concerning the conditions of accession of the Republic of Croatia and the adjustments …'
+valid_from: '2011-12-09'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12012JN03%2F08'
+source_sha256: '4a86468892627c07708f6fdce8ea02756f07d5ac02763b070fc6bf0e6450335e'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'html-eu-tolerant/1 · lex derive'
+---
+<a id="document"></a>
+
+### Document
+
+24.4.2012 EN Official Journal of the European Union L 112/6 ANNEX III List referred to in Article 15 of the Act of Accession: adaptations to acts adopted by the institutions 8. ENVIRONMENT 1. 32003 L 0087: Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive 96/61/EC (OJ L 275, 25.10.2003, p. 32). (a) In Article 9, the following sentence is added to the first paragraph: ‘The Community-wide quantity of allowances will be increased as a result of Croatia's accession only by the quantity of allowances that Croatia shall auction pursuant to Article 10(1).’. (b) In Annex IIa, the following is inserted after the entry for Spain: ‘Croatia 26 %’. 2. 32009 D 0406: Decision No 406/2009/EC of the European Parliament and of the Council of 23 April 2009 on the effort of Member States to reduce their greenhouse gas emissions to meet the Community's greenhouse gas emission reduction commitments up to 2020 (OJ L 140, 5.6.2009, p. 136). In Annex II, the following is inserted after the entry for France: ‘Croatia 11 %’.

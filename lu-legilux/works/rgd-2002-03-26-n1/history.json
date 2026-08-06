@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -60,5 +61,66 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2022-06-07",
+          "valid_to": null,
+          "text_sha256": "e54caac32924a88551375466e1aa9331705ae49bdf485fc77fb7201f9f67faf0",
+          "in_version": "lu-legilux:rgd-2002-03-26-n1:2022-06-07",
+          "article_valid_from": "2022-06-07"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2022-06-07",
+          "valid_to": null,
+          "text_sha256": "e413115895820fe36bd7f00aafeb0d281e9e0d9d50f250d9690f93784619d3e0",
+          "in_version": "lu-legilux:rgd-2002-03-26-n1:2022-06-07",
+          "article_valid_from": "2022-06-07"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2022-06-07",
+          "valid_to": null,
+          "text_sha256": "421bc26c220e6b605ad6e58e75980d295e27760b35ea191e9fdb2761e669c672",
+          "in_version": "lu-legilux:rgd-2002-03-26-n1:2022-06-07",
+          "article_valid_from": "2022-06-07"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2022-06-07",
+          "valid_to": null,
+          "text_sha256": "740a222db5a505041f1cd058f543c266f9fca3ef48cb2b912d94905c25cedef3",
+          "in_version": "lu-legilux:rgd-2002-03-26-n1:2022-06-07",
+          "article_valid_from": "2022-06-07"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2022-06-07",
+          "valid_to": null,
+          "text_sha256": "d9718619f04fba82f4834a80b93dc7094225abe1cda9ee1483f3bdc277a925d7",
+          "in_version": "lu-legilux:rgd-2002-03-26-n1:2022-06-07",
+          "article_valid_from": "2002-05-25",
+          "validity_conflict": true
+        }
+      ],
+      "attachment_1": [
+        {
+          "valid_from": "2022-06-07",
+          "valid_to": null,
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "lu-legilux:rgd-2002-03-26-n1:2022-06-07"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31978l0583:1978-06-26",
+  "language": "fr",
+  "title": "Ninth Council Directive 78/583/EEC of 26 June 1978 on the harmonization of the laws of the…",
+  "valid_from": "1978-06-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31978l0583/versions/1978-06-26/fr.html",
+    "sha256": "497b33b6406909bb286fe2e50143a22fe5f8f0d2db0407972cb64b8b869579e6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31978L0583"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31978l0583:1978-06-26#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Avis juridique important | 31978L0583 Neuvième directive 78/583/CEE du Conseil, du 26 juin 1978, en matière d'harmonisation des législations des États membres relatives aux taxes sur le chiffre d'affaires Journal officiel n° L 194 du 19/07/1978 p. 0016 - 0016 édition spéciale finnoise: chapitre 9 tome 1 p. 0071 édition spéciale grecque: chapitre 09 tome 1 p. 0096 édition spéciale suédoise: chapitre 9 tome 1 p. 0071 édition spéciale espagnole: chapitre 09 tome 1 p. 0102 édition spéciale portugaise: chapitre 09 tome 1 p. 0102 NEUVIÈME DIRECTIVE DU CONSEIL du 26 juin 1978 en matière d'harmonisation des législations des États membres relatives aux taxes sur le chiffre d'affaires (78/583/CEE) LE CONSEIL DES COMMUNAUTÉS EUROPÉENNES, vu le traité instituant la Communauté économique européenne, et notamment ses articles 99 et 100, vu la proposition de la Commission, vu l'avis de l'Assemblée (1), vu l'avis du Comité économique et social (2), considérant que l'article 1er de la sixième directive 77/388/CEE du Conseil, du 17 mai 1977, en matière d'harmonisation des législations des États membres relatives aux taxes sur le chiffre d'affaires - système commun de taxe sur la valeur ajoutée : assiette uniforme (3) - fixe au 1er janvier 1978 la date ultime de son application effective dans les États membres; considérant que la directive 77/388/CEE prévoit des dispositions communes pour tous les domaines couverts par la taxe sur la valeur ajoutée ; que, dans de nombreux cas, il incombe aux États membres de déterminer les conditions d'application de ces dispositions ; que, en raison de la portée de la directive 77/388/CEE et donc du nombre très important des réglementations nationales concernées, plusieurs États membres n'ont pas été en mesure d'effectuer en temps utile les adaptations nécessaires pour se conformer à la directive 77/388/CEE ; que ces États membres n'ont pu ainsi mener à terme dans le délai prévu la procédure législative nécessaire pour adapter leur législation relative à la taxe sur la valeur ajoutée; considérant que les États membres concernés demandent un délai supplémentaire pour l'application de la directive 77/388/CEE ; qu'un délai maximal de douze mois devrait être suffisant à cet égard, A ARRÊTÉ LA PRÉSENTE DIRECTIVE: Article premier Par dérogation à l'article 1er de la directive 77/388/CEE, le Danemark, la république fédérale d'Allemagne, la France, l'Irlande, l'Italie, le Luxembourg et les Pays-Bas sont autorisés à mettre en application ladite directive au plus tard le 1er janvier 1979. Article 2 Le Danemark, la république fédérale d'Allemagne, la France, l'Irlande, l'Italie, le Luxembourg et les Pays-Bas sont destinataires de la présente directive. Fait à Luxembourg, le 26 juin 1978. Par le Conseil Le président K.B. ANDERSEN (1)JO nº C 163 du 10.7.1978, p. 68. (2)Avis rendu les 20/21 juin 1978 (non encore paru au Journal officiel). (3)JO nº L 145 du 13.6.1977, p. 1.",
+      "text_sha256": "0a0f6575359068b67da61a0fec3729d3fd5425097ff2e68dadfd88708a1c79a8",
+      "md_span": {
+        "start": 649,
+        "end": 3576
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

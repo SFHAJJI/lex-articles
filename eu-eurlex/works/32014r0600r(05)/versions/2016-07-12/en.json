@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0600r(05):2016-07-12",
+  "language": "en",
+  "title": "Corrigendum to Regulation (EU) No 600/2014",
+  "valid_from": "2016-07-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0600r(05)/versions/2016-07-12/en.xml",
+    "sha256": "d6e4bdf6884a5eceb7a345f8928d255e07fa3003938fee3659d5c665ca31ab81",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0600R%2805%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32014r0600r(05):2016-07-12#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "12.7.2016 EN Official Journal of the European Union L 187/30 Corrigendum to Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012 ( Official Journal of the European Union L 173, 12 June 2014 ) On page 98, Article 2(1)(18): for: ‘(18) “competent authority” means a competent authority as defined in Article 2(1)(26) of Directive 2014/65/EU;’, read: ‘(18) “competent authority” means a competent authority as defined in Article 4(1)(26) of Directive 2014/65/EU;’.",
+      "text_sha256": "fd74d5f11ffb8936d24447a59225c180d5939679485b685d4672035f49f6203b",
+      "md_span": {
+        "start": 614,
+        "end": 1187
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

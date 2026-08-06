@@ -1,0 +1,700 @@
+---
+lex_id: 'eu-eurlex:32009r0663:2010-12-30'
+title: 'Regulation (EC) No 663/2009'
+valid_from: '2010-12-30'
+valid_to: '2018-12-23'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R0663-20101230'
+source_sha256: 'b1e1f23ed26d79ffd16155d231bdf7d38e3b82e58d4b619d9db2bcaf3a86e9b1'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPTER I
+
+### **INTRODUCTORY PROVISIONS**
+
+<a id="art_1"></a>
+
+### Article 1 — Subject matter
+
+This Regulation establishes a financing instrument entitled the European Energy Programme for Recovery (the EEPR) for the development of projects in the field of energy in the Community which, by providing a financial stimulus, contribute to economic recovery, the security of energy supply and the reduction of greenhouse gas emissions.
+
+This Regulation establishes sub-programmes to advance those objectives in the fields of:
+
+(a) gas and electricity infrastructures;
+
+(b) offshore wind energy; and
+
+(c) carbon capture and storage.
+
+This Regulation identifies projects to be financed under each sub-programme and lays down criteria for identifying and implementing actions to realise these projects.
+
+This Regulation provides for the creation of a financial facility (the facility) to support energy efficiency and renewable energy initiatives.
+
+<a id="art_2"></a>
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(a) ‘carbon capture and storage’ means the capture of carbon dioxide (CO2) from industrial installations, its transport to a storage site and its injection into a suitable underground geological formation for the purposes of permanent storage;
+
+(b) ‘eligible costs’ has the same meaning as in Regulation (EC, Euratom) No 2342/2002;
+
+(c) ‘gas and electricity infrastructures’ means:
+
+(i) all high-voltage lines, excluding those of distribution networks, and submarine links, provided that this infrastructure is used for interregional or international transmission or connection;
+
+(ii) high-pressure gas pipelines, excluding those of distribution networks;
+
+(iii) underground storage facilities connected to the high-pressure gas pipelines referred to in point (ii);
+
+(iv) reception, storage and regasification facilities for liquefied natural gas (LNG); and
+
+(v) any equipment or installations essential for the infrastructure referred to in points (i), (ii), (iii) or (iv) to operate properly, including protection, monitoring and control systems;
+
+(d) ‘part of a project’ means any activity that is independent financially, technically or over time and which contributes to the completion of a project;
+
+(e) ‘investment phase’ means the phase of a project during which construction takes place and capital costs are incurred;
+
+(f) ‘offshore wind energy’ means the electric power generated from turbine engines powered by wind and situated in the sea, whether near or far from the shore;
+
+(g) ‘planning phase’ means the phase of a project that precedes the investment phase, during which project implementation is prepared, and includes, where appropriate, feasibility assessment, preparatory and technical studies, obtaining licences and authorisations and incurring capital costs.
+
+<a id="art_3"></a>
+
+### Article 3 — Budget
+
+1. The financial envelope for the implementation of the EEPR for 2009 and 2010 shall be EUR 3 980 000 000, allocated as follows:
+
+(a) gas and electricity infrastructure projects: EUR 2 365 000 000;
+
+(b) offshore wind energy projects: EUR 565 000 000;
+
+(c) carbon capture and storage projects: EUR 1 050 000 000.
+
+2. Individual legal commitments under Chapter II implementing the budgetary commitments made in 2009 and 2010 shall be made by 31 December 2010. Individual legal commitments under Chapter IIa shall be made by 31 March 2011.
+
+3. The financial intermediaries described in Annex II shall endeavour to allocate all the funding from the Union contribution available in the facility to investment projects and to technical assistance for energy efficiency and renewable energy projects by 31 March 2014. No funding from the Union contribution shall be allocated after that date. All funding from the Union contribution not allocated by the financial intermediaries by 31 March 2014 shall be returned to the general budget of the Union. The funding from the Union contribution allocated to investment projects shall remain invested for a specified length of time that may not extend beyond 31 March 2034. The Union shall be entitled to returns on its investment in the facility throughout the lifetime of the facility, in proportion to its contribution to the facility and in accordance with its shareholder rights.
+
+## *SECTION 1*
+
+### ***Gas and electricity infrastructure projects***
+
+<a id="art_4"></a>
+
+### Article 4 — Objectives
+
+The Community shall promote gas and electricity infrastructure projects having the highest Community added value and contributing to the following objectives:
+
+(a) security and diversification of sources of energy, routes and supplies;
+
+(b) the optimisation of the capacity of the energy network and the integration of the internal energy market, in particular concerning cross-border sections;
+
+(c) the development of the network to strengthen economic and social cohesion by reducing the isolation of the least favoured regions or islands of the Community;
+
+(d) the connection and integration of renewable energy resources; and
+
+(e) the safety, reliability and interoperability of interconnected energy networks, including the ability to use multidirectional gas flows where necessary.
+
+<a id="art_5"></a>
+
+### Article 5 — Priorities
+
+The EEPR shall serve urgently to adapt and develop energy networks of particular importance to the Community in support of the operation of the internal energy market and, in particular, to increase interconnection capacity, security and diversification of supply and to overcome environmental, technical and financial obstacles. Special Community support is necessary to develop energy networks more intensively and to accelerate their construction, notably where the diversity of routes and sources of supply is low.
+
+<a id="art_6"></a>
+
+### Article 6 — Granting of Community financial assistance
+
+1. Financial assistance under the EEPR (EEPR assistance) for gas and electricity infrastructure projects shall be awarded for actions that implement the projects listed in Part A of the Annex or parts of such projects, and which contribute to the objectives laid down in Article 4.
+
+2. The Commission shall call for proposals to identify the actions referred to in paragraph 1 and shall assess the compliance of those proposals with the eligibility criteria laid down in Article 7 and the selection and award criteria laid down in Article 8.
+
+3. The Commission shall inform the beneficiaries of any EEPR assistance to be granted.
+
+<a id="art_7"></a>
+
+### Article 7 — Eligibility
+
+1. Proposals shall be eligible for EEPR assistance only if they implement the projects listed in Part A of the Annex, do not exceed the maximum amount of EERP assistance laid down therein and fulfil the selection and award criteria under Article 8.
+
+2. Proposals may be submitted:
+
+(a) by one or several Member States, acting jointly;
+
+(b) with the agreement of all Member States directly concerned by the project in question:
+
+(i) by one or several public or private undertakings or bodies acting jointly;
+
+(ii) by one or several international organisations acting jointly; or
+
+(iii) by a joint undertaking.
+
+3. Proposals submitted by natural persons shall not be eligible.
+
+<a id="art_8"></a>
+
+### Article 8 — Selection and award criteria
+
+1. In assessing the proposals received under the call for proposals referred to in Article 6(2), the Commission shall apply the following selection criteria:
+
+(a) the soundness and technical adequacy of the approach;
+
+(b) the soundness of the financial package for the full investment phase of the action.
+
+2. In assessing the proposals received under the call for proposals referred to in Article 6(2), the Commission shall apply the following award criteria:
+
+(a) maturity, defined as reaching the investment stage, and incurring substantial capital expenditure by the end of 2010;
+
+(b) the extent to which lack of access to finance is delaying the implementation of the action;
+
+(c) the extent to which EEPR assistance will stimulate public and private finance;
+
+(d) socioeconomic impacts;
+
+(e) environmental impacts;
+
+(f) the contribution to the continuity and interoperability of the energy network, and to the optimisation of its capacity;
+
+(g) the contribution to the improvement of service quality, safety and security;
+
+(h) the contribution to the creation of a well-integrated energy market.
+
+<a id="art_9"></a>
+
+### Article 9 — Funding conditions
+
+1. EEPR assistance shall contribute to project-related expenditure for the implementation of the project, incurred by the beneficiaries or by third parties responsible for the implementation of a project.
+
+2. EEPR assistance shall not exceed 50 % of the eligible costs.
+
+<a id="art_10"></a>
+
+### Article 10 — Instruments
+
+1. Following the call for proposals referred to in Article 6(2), the Commission, acting in accordance with the management procedure referred to in Article 26(2), shall select the proposals to receive EEPR assistance and determine the amount of EEPR assistance to be granted. The Commission shall specify the conditions and methods for the implementation of the proposals.
+
+2. EEPR assistance shall be granted on the basis of Commission decisions.
+
+<a id="art_11"></a>
+
+### Article 11 — Member States’ financial responsibilities
+
+1. Member States shall undertake the technical monitoring and financial control of projects in close cooperation with the Commission and shall certify the amount and the conformity with this Regulation of the expenditure incurred in respect of projects or parts of projects. Member States may request the participation of the Commission during on-the-spot checks.
+
+2. Member States shall inform the Commission of the measures taken under paragraph 1 and, in particular, shall supply a description of the control, management and monitoring systems established to ensure that projects are successfully completed.
+
+## *SECTION 2*
+
+### ***Offshore wind projects***
+
+<a id="art_12"></a>
+
+### Article 12 — Granting of EEPR assistance
+
+1. EEPR assistance for offshore wind projects shall be awarded following a call for proposals limited to the actions that implement the projects listed in Part B of the Annex.
+
+2. The Commission shall call for proposals to identify the actions referred to in paragraph 1 and shall assess the compliance of these proposals with the eligibility criteria laid down in Article 13 and the selection and award criteria laid down in Article 14.
+
+3. The Commission shall inform the beneficiaries of any EEPR assistance to be granted.
+
+<a id="art_13"></a>
+
+### Article 13 — Eligibility
+
+1. Proposals shall be eligible for EEPR assistance only if they implement the projects listed in Part B of the Annex, do not exceed the maximum amount of EEPR assistance laid down therein and fulfil the selection and award criteria under Article 14. Those projects shall be led by a commercial undertaking.
+
+2. Proposals may be submitted by one or several undertakings, acting jointly.
+
+3. Proposals submitted by natural persons shall not be eligible.
+
+<a id="art_14"></a>
+
+### Article 14 — Selection and award criteria
+
+1. In assessing the proposals received under the call for proposals referred to in Article 12(1), the Commission shall apply the following selection criteria:
+
+(a) the soundness and technical adequacy of the approach;
+
+(b) the soundness of the financial package for the full investment phase of the project.
+
+2. In assessing the proposals received under the call for proposals referred to in Article 12(1), the Commission shall apply the following award criteria:
+
+(a) maturity, defined as reaching the investment stage, and incurring substantial capital expenditure by the end of 2010;
+
+(b) the extent to which lack of access to finance is delaying the implementation of the action;
+
+(c) the extent to which the project improves or increases the scale of installations and infrastructures that are already under construction, or are in the planning phase;
+
+(d) the extent to which the project includes the construction of full-size and industrial-scale installations and infrastructures, and addresses in particular the following matters:
+
+(i) the balancing of the variability of wind electricity through integrative systems;
+
+(ii) the existence of large-scale storage systems;
+
+(iii) the management of wind farms as virtual power plants (more than 1 GW);
+
+(iv) the existence of turbines placed further from the shore or in deeper waters (20 to 50 m) than is currently standard;
+
+(v) novel sub-structure designs; or
+
+(vi) processes for assembly, installation, operation and decommissioning and testing of these processes in life-size projects;
+
+(e) the innovative features of the project and the extent to which it will demonstrate the implementation of such features;
+
+(f) the impact of the project and its contribution to the Community’s offshore wind grid system, including its replication potential;
+
+(g) the commitment demonstrated by the beneficiaries to disseminate to other European operators the results of technological advances made by the project in a manner compatible with Community law and in particular with the objectives and structures outlined in the Strategic Energy Technology Plan for Europe.
+
+<a id="art_15"></a>
+
+### Article 15 — Funding conditions
+
+1. EEPR assistance shall contribute to project-related expenditure for the implementation of the project.
+
+2. EEPR assistance shall not exceed 50 % of the eligible costs.
+
+<a id="art_16"></a>
+
+### Article 16 — Instruments
+
+1. Following the call for proposals referred to in Article 12(1), the Commission, acting in accordance with the management procedure referred to in Article 26(2), shall select the proposals to receive EEPR assistance and determine the amount of funding to be granted. The Commission shall specify the conditions and methods for the implementation of the proposals.
+
+2. EEPR assistance shall be granted on the basis of grant agreements.
+
+## *SECTION 3*
+
+### ***Carbon capture and storage projects***
+
+<a id="art_17"></a>
+
+### Article 17 — Granting of EEPR assistance
+
+1. EEPR assistance for carbon capture and storage projects shall be awarded to actions that implement the projects listed in Part C of the Annex.
+
+2. The Commission shall call for proposals to identify the actions referred to in paragraph 1 of this Article and shall assess the compliance of the proposals with the eligibility criteria laid down in Article 18 and the selection and award criteria laid down in Article 19.
+
+3. If several proposals from projects located in the same Member State comply with the eligibility criteria laid down in Article 18 and the selection criteria laid down in Article 19(1), the Commission shall select for EEPR assistance, on the basis of the award criteria in Article 19(2), no more than one proposal per Member State among those proposals.
+
+4. The Commission shall inform the beneficiaries of any EEPR assistance to be granted.
+
+<a id="art_18"></a>
+
+### Article 18 — Eligibility
+
+1. Proposals shall be eligible for EEPR assistance only if they implement the projects listed in Part C of the Annex, fulfil the selection and award criteria under Article 19 and the following conditions:
+
+(a) the projects demonstrate that they have the ability to capture at least 80 % of CO2 in industrial installations and to transport and geologically store this CO2 safely underground;
+
+(b) in power installations, CO2 capture is demonstrated on an installation of at least 250 MW electrical output or equivalent;
+
+(c) project promoters make a binding declaration that the generic knowledge generated by the demonstration plant will be made available to the wider industry and to the Commission to contribute to the Strategic Energy Technology Plan for Europe.
+
+2. Proposals shall be submitted by one or several undertakings, acting jointly.
+
+3. Proposals submitted by natural persons shall not be eligible.
+
+<a id="art_19"></a>
+
+### Article 19 — Selection and award criteria
+
+1. In assessing the proposals received under the call for proposals referred to in Article 17(2), the Commission shall apply the following selection criteria:
+
+(a) the soundness and technical adequacy of the approach;
+
+(b) maturity, defined as reaching the investment stage, which includes exploration and development of storage options, and incurring substantial investment-related expenditure for the project by the end of 2010;
+
+(c) the soundness of the financial package for the full investment phase of the project;
+
+(d) identification of all necessary permits required for construction and operation of the project at the proposed site(s) and the existence of a strategy to secure those permits.
+
+2. In assessing the proposals received under the call for proposals referred to in Article 17(2), the Commission shall apply the following award criteria:
+
+(a) the extent to which lack of access to finance is delaying the implementation of the action;
+
+(b) requested funding per tonne of CO2 to be abated in the first five years of operation of the project;
+
+(c) the complexity of the project and level of innovation of the overall installation including other accompanying research activities and the commitment demonstrated by the beneficiaries to disseminate to other European operators the results of the technological advances made by the project in a manner compatible with Community law and in particular with the objectives and structures outlined in the Strategic Energy Technology Plan for Europe;
+
+(d) the soundness and adequacy of the management plan including, in relation to the scientific, engineering and technical information and data contained therein, demonstration of readiness of the proposed concept to achieve operation of the project by 31 December 2015.
+
+<a id="art_20"></a>
+
+### Article 20 — Funding conditions
+
+1. EEPR assistance shall contribute only to project-related expenditure for the implementation of the project which is attributable to carbon capture, transport and storage, taking account of possible operating benefits.
+
+2. EEPR assistance shall not exceed 80 % of total eligible investment costs.
+
+<a id="art_21"></a>
+
+### Article 21 — Instruments
+
+1. Following the call for proposals referred to in Article 17(2), the Commission, acting in accordance with the management procedure referred to in Article 26(2), shall select the proposals to receive EEPR assistance and determine the amount of EEPR assistance to be granted. The Commission shall specify the conditions and methods for the implementation of the proposals.
+
+2. EEPR assistance shall be granted on the basis of grant agreements.
+
+## CHAPTER IIa
+
+### **FINANCIAL FACILITY**
+
+<a id="art_21a"></a>
+
+### Article 21a — Funding that cannot be committed under Chapter II
+
+1. Funding which according to Article 3(2) cannot be subject to individual legal commitments under Chapter II for an amount of EUR 146 344 644,50 shall be for the facility referred to in the fourth paragraph of Article 1, for the purpose of developing suitable funding instruments in cooperation with financial institutions, so as to give a major stimulus to energy efficiency projects and projects for the exploitation of renewable energy sources.
+
+2. The facility shall be implemented in compliance with Annex II. Article 23(1) shall not apply to the facility.
+
+3. The Union’s exposure to the facility, including management fees and other eligible costs, shall be limited to the amount of the Union contribution to that facility specified in paragraph 1, and there shall be no further liability on the general budget of the Union.
+
+## CHAPTER III
+
+### **COMMON PROVISIONS**
+
+<a id="art_23"></a>
+
+### Article 23 — Programming and implementing arrangements
+
+1. Calls for proposals shall be directly launched by the Commission on the basis of budgetary availabilities referred to in Article 3(1) and the eligibility, selection and award criteria set out in Chapter II.
+
+2. EEPR assistance shall cover only project-related expenditure incurred by the beneficiaries and, as regards projects under Article 9, also by third parties responsible for the implementation of a project. Expenditure incurred under Chapter II may be eligible as from 13 July 2009.
+
+2a. Financial assistance given under Chapter IIa shall cover expenditure relating to investment projects and to technical assistance for energy efficiency and renewable energy projects incurred by the beneficiaries described in point 3 of Part A of Annex II. Such expenditure may be eligible as from 1 January 2011.
+
+3. VAT shall not be an eligible cost, except for non-refundable VAT.
+
+4. Projects and actions financed under this Regulation shall be carried out in accordance with Community law and shall take into account any relevant Community policies, in particular those relating to competition including the applicable State aid rules, protection of the environment, health, sustainable development and public procurement.
+
+<a id="art_24"></a>
+
+### Article 24 — Member States’ general responsibilities
+
+Within the sphere of their responsibility, Member States shall make every effort to implement the projects which receive EEPR assistance, notably through efficient administrative authorisation, licensing and certification procedures.
+
+<a id="art_25"></a>
+
+### Article 25 — Protection of the European Communities’ financial interests
+
+1. The Commission shall ensure that, when actions financed under this Regulation are implemented, the financial interests of the Community are protected by the application of preventive measures against fraud, corruption and any other illegal activities, by effective checks and by the recovery of amounts unduly paid and, if irregularities are detected, by effective, proportionate and dissuasive penalties, in accordance with Regulation (EC, Euratom) No 2988/95, Regulation (Euratom, EC) No 2185/96 and with Regulation (EC) No 1073/1999.
+
+2. For the Community actions financed under this Regulation, the notion of irregularity referred to in Article 1(2) of Regulation (EC, Euratom) No 2988/95 shall mean any infringement of a provision of Community law or any breach of a contractual obligation resulting from an act or omission by an economic operator, which has, or would have, the effect of prejudicing the general budget of the European Union or budgets managed by it, by an unjustified item of expenditure.
+
+3. All implementing measures resulting from this Regulation shall provide, in particular, for supervision and financial control by the Commission or any representative authorised by it, and by audits by the European Court of Auditors, including, if necessary, on-the-spot audits.
+
+## CHAPTER IV
+
+### **IMPLEMENTING AND FINAL PROVISIONS**
+
+<a id="art_26"></a>
+
+### Article 26 — Committees
+
+1. The Commission shall be assisted by the following committees:
+
+(a) for gas and electricity infrastructure projects, the committee established by Article 15 of Regulation (EC) No 680/2007 of the European Parliament and of the Council of 20 June 2007 laying down general rules for the granting of Community financial aid in the field of the trans-European transport and energy networks (9);
+
+(b) for offshore wind projects, the committee established by Article 8 of Council Decision 2006/971/EC of 19 December 2006 concerning the Specific Programme Cooperation implementing the Seventh Framework Programme of the European Community for research, technological development and demonstration activities (2007 to 2013) (10);
+
+(c) for carbon capture and storage projects, the committee established by Article 8 of Decision 2006/971/EC.
+
+2. Where reference is made to this paragraph, Articles 4 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 4(3) of Decision 1999/468/EC shall be set at one month.
+
+<a id="art_27"></a>
+
+### Article 27 — Evaluation
+
+1. The Commission shall carry out an evaluation of the EEPR by 31 December 2011 in order to assess its contribution to the effective use made of the appropriations.
+
+1a. By 30 June 2013 the Commission shall submit to the European Parliament and the Council a mid-term evaluation report on the measures taken under Chapter IIa focusing in particular on:
+
+(a) the cost-effectiveness, leverage effect and additionality demonstrated by the facility;
+
+(b) evidence of sound financial management;
+
+(c) the extent to which the facility has achieved the objectives set out in this Regulation;
+
+(d) the extent to which continued support under the facility for projects relating to energy efficiency and energy from renewable sources is required.
+
+The mid-term evaluation report shall, if appropriate, and in particular if the Commission’s assessment of the measures taken under Chapter IIa is positive, be accompanied by a legislative proposal for the continuation of the facility.
+
+2. The Commission may request a beneficiary Member State to provide a specific evaluation of projects financed under Section 1 of Chapter II of this Regulation or, where appropriate, to supply it with the information and assistance required to undertake an evaluation of such projects.
+
+3. The Commission shall present to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions an evaluation report on the results achieved by the EEPR and in accordance with Article 27(4) of the Financial Regulation.
+
+<a id="art_28"></a>
+
+### Article 28 — Information to the European Parliament and to the Council
+
+The Commission shall monitor the implementation of this Regulation. It shall, each year, on presentation of the preliminary draft budget, present a report to the European Parliament and to the Council on the implementation of the EEPR.
+
+If the report identifies serious risks in implementing the priority projects, the Commission shall recommend measures to offset those risks, and shall, where appropriate and consistent with the Recovery Plan, make additional proposals for such projects.
+
+The report shall include information about all overhead costs related to the establishment and implementation of the facility set up under Chapter IIa.
+
+<a id="art_29"></a>
+
+### Article 29 — Entry into force
+
+This Regulation shall enter into force on the day following its publication in the *Official Journal of the European Union*.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+<a id="m1_annex_i"></a>
+
+### ►M1 ANNEX I** ◄ **
+
+**ELIGIBLE PROJECTS**
+
+A. ****Gas and Electricity infrastructure projects****
+
+1. *Gas interconnectors*
+
+| Project | Location of projects supported | Envisaged Community contribution(EUR million) |
+| --- | --- | --- |
+| Southern Gas Corridor |  |  |
+| NABUCCO | Austria, Hungary, Bulgaria, Germany, Romania | 200 |
+| ITGI – Poseidon | Italy, Greece | 100 |
+| Baltic interconnection |  |  |
+| Skanled/Baltic pipe | Poland, Denmark, Sweden | 150 |
+| LNG network |  |  |
+| Liquefied Natural Gas terminal at Polish coast at port of Świnoujście | Poland | 80 |
+| Central and South East Europe |  |  |
+| Slovakia-Hungary Interconnector (Veľký Krtíš - Vecsés) | Slovakia, Hungary | 30 |
+| Gas transmission system in Slovenia between the Austrian Border to Ljubljana (excluding the section Rogatec-Kidričevo) | Slovenia | 40 |
+| Interconnection Bulgaria-Greece (Stara Zagora — Dimitrovgrad-Komotini) | Bulgaria, Greece | 45 |
+| Romania-Hungary gas interconnector | Romania, Hungary | 30 |
+| Expansion of Gas Storage Capacity in the Czech hub | Czech Republic | 35 |
+| Infrastructure and equipment to permit reverse gas flow in the event of short term supply disruption | Austria, Bulgaria, Czech Republic, Estonia, Greece, Hungary, Latvia, Lithuania, Poland, Portugal, Romania, Slovakia | 80 |
+| Slovakia-Poland interconnection | Slovakia, Poland | 20 |
+| Hungary-Croatia interconnection | Hungary | 20 |
+| Bulgaria-Romania interconnection | Bulgaria, Romania | 10 |
+| Mediterranean |  |  |
+| Reinforcement of FR gas network on the Africa-Spain-France axis | France | 200 |
+| GALSI (Gazoduc Algérie-Italie) | Italy | 120 |
+| Gas Interconnection Western Axis Larrau Branch | Spain | 45 |
+| North Sea area |  |  |
+| Germany-Belgium-United Kingdom pipeline | Belgium | 35 |
+| France-Belgium connection | France, Belgium | 200 |
+| TOTAL |  | 1 440 |
+
+2. *Electricity interconnectors*
+
+| Project | Location of projects supported | Envisaged Community contribution(EUR million) |
+| --- | --- | --- |
+| Baltic interconnection |  |  |
+| Estlink-2 | Estonia, Finland | 100 |
+| Interconnection Sweden-Baltic States, and strengthening of the grid in Baltic States | Sweden, Latvia, Lithuania | 175 |
+| Central and South East Europe |  |  |
+| Halle/Saale – Schweinfurt | Germany | 100 |
+| Wien-Győr | Austria, Hungary | 20 |
+| Mediterranean |  |  |
+| Portugal-Spain interconnection reinforcement | Portugal | 50 |
+| Interconnection France-Spain (Baixas - Sta Llogaia) | France, Spain | 225 |
+| New 380 kV AC submarine cable between Sicily – Continental Italy (Sorgente – Rizziconi) | Italy | 110 |
+| North Sea area |  |  |
+| 500 MW Ireland/Wales interconnector (Meath-Deeside) | Ireland, United Kingdom | 110 |
+| Electricity interconnection Malta-Italy | Malta/Italy | 20 |
+| TOTAL |  | 910 |
+
+3. *Small island projects*
+
+| Small isolated island initiatives | Cyprus | 10 |
+| --- | --- | --- |
+| Malta | 5 |  |
+| TOTAL |  | 15 |
+
+B. ****Offshore wind projects****
+
+| Project | Capacity | Location of projects supported | Envisaged Community contribution(EUR million) |
+| --- | --- | --- | --- |
+| 1. Grid integration of offshore wind energy |  |  |  |
+| 1.1. Baltic – Kriegers Flak I, II, IIIBuilding on projects under development. Financing aimed at ensuring extra cost for securing a joint interconnection solution. | 1,5 GW | Denmark, Sweden, Germany, Poland | 150 |
+| 1.2. North sea gridModular development of offshore grid, demonstration of virtual offshore power plant and integration in the existing onshore grid system. | 1 GW | United Kingdom, Netherlands, Germany, Ireland, Denmark, Belgium, France, Luxembourg | 165 |
+| 2. New turbines, structures and components, optimisation of manufacturing capacities |  |  |  |
+| 2.1. Borkum West II – Bard 1 – Nordsee Ost – Global Tech INew generation of multi-megawatt size turbines (5-7 MW) and innovative structures, situated far from shore (up to 100 km) in deeper waters (up to 40 m). | 1,6 GW | Germany | 200 |
+| 2.2. Aberdeen offshore wind farm (European testing centre)Building on project presently under development – testing of multi-MW turbines. Development of innovative structures and substructures including optimisation of manufacturing capacities of offshore wind energy production equipment. An increase in size of 100 MW can be envisaged. | 0,25 GW | United Kingdom | 40 |
+| 2.3. Thornton BankBuilding on project presently under development. Learning from the Downvind project (cofinanced through FP6). Upscaling the Downvind installations turbines (5 MW size) in deep waters (up to 30 m) with low visual impact (up to 30 km). | 90 MW | Belgium | 10 |
+| TOTAL |  |  | 565 |
+
+C. ****Carbon capture and storage projects****
+
+| Project Name/Location | Envisaged Community contribution(EUR million) | Fuel | Capacity | Capture Technique | Storage Concept |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Huerth | Germany | 180 | Coal | 450 MW | IGCC | Saline Aquifer |
+| Jaenschwalde |  |  | Coal | 500 MW | Oxyfuel | Oil/Gas fields |
+| Eemshaven | Netherlands | 180 | Coal | 1 200 MW | IGCC | Oil/Gas fields |
+| Rotterdam | Coal | 1 080 MW | PC | Oil/Gas fields |  |  |
+| Rotterdam | Coal | 800 MW | PC | Oil/Gas fields |  |  |
+| Bełchatów | Poland | 180 | Coal | 858 MW | PC | Saline Aquifer |
+| Compostilla(León) | Spain | 180 | Coal | 500 MW | Oxyfuel | Saline Aquifer |
+| Kingsnorth | United Kingdom | 180 | Coal | 800 MW | PC | Oil/Gas fields |
+| Longannet | Coal | 3 390 MW | PC | Saline Aquifer |  |  |
+| Tilbury | Coal | 1 600 MW | PC | Oil/Gas fields |  |  |
+| Hatfield(Yorkshire) | Coal | 900 MW | IGCC | Oil/Gas fields |  |  |
+| Porto Tolle | Italy | 100 | Coal | 660 MW | PC |  |
+| Industrial carbon capture project |  |  |  |  |  |  |
+| Florange | France | 50 | Transport of CO2 from industrial installation (steel plant) to underground storage (saline aquifer) |  |  |  |
+| TOTAL | 1 050 |  |  |  |  |  |
+
+<a id="anx_ii"></a>
+
+### ANNEX II
+
+
+
+<a id="financial_facility"></a>
+
+### **FINANCIAL FACILITY**
+
+A. ****Implementation of the financial facility for sustainable energy projects****
+
+1. ***Scope of the facility***
+
+The financial facility (the facility) shall be used for the development of energy saving, energy efficiency and renewable energy projects and shall facilitate the financing of investments in those areas by local, regional and, in duly justified cases, national public authorities. The facility shall be implemented in accordance with the provisions on the delegation of budgetary execution tasks laid down in the Financial Regulation and its implementing rules.
+
+The facility shall be used for sustainable energy projects, in particular in urban settings. This shall include, in particular, projects concerning:
+
+(a) public and private buildings incorporating energy efficiency and/or renewable energy solutions including those based on the usage of Information and Communication Technologies (ICT);
+
+(b) investments in high energy efficient combined heat and power (CHP), including micro-cogeneration, and district heating/cooling networks, in particular from renewable energy sources;
+
+(c) decentralised renewable energy sources embedded in local settings and their integration in electricity grids;
+
+(d) microgeneration from renewable energy sources;
+
+(e) clean urban transport to support increased energy efficiency and integration of renewable energy sources, with an emphasis on public transport, electric and hydrogen vehicles and reduced greenhouse gas emissions;
+
+(f) local infrastructure, including efficient lighting of outdoor public infrastructure such as street lighting, electricity storage solutions, smart metering, and smart grids, that make full usage of ICT;
+
+(g) energy efficiency and renewable energy technologies with innovation and economic potential using the best available procedures.
+
+The facility may be also used to provide incentives and technical assistance as well as to raise the awareness of local, regional and national authorities so as to ensure optimal use of the Structural and Cohesion Funds, in particular in the areas of energy efficiency and renewable energy improvements in housing and other types of buildings. The facility shall sustain investment projects demonstrating an economic and financial viability, in order to refund the investments allocated by the facility and to attract public and private investments. Thus, the facility may, inter alia, include provisioning and capital allocation for loans, guarantees, equity and other financial products. Furthermore, up to 15 % of the funding referred to in Article 21a may be used to provide technical assistance to local, regional or national, authorities on the setting up of, and on the initial deployment phase of technology related to, energy efficiency and renewable energy projects.
+
+2. ***Synergies***
+
+When granting financial or technical assistance, attention shall also be paid to synergies with other financial resources available in the Member States, such as the Structural and Cohesion Funds and the ELENA Facility, in order to avoid overlaps with other instruments.
+
+3. ***Beneficiaries***
+
+The beneficiaries of the facility shall be public authorities, preferably at local and regional level, and public or private entities acting on behalf of those public authorities.
+
+B. ****Cooperation with financial intermediaries****
+
+1. ***Selection and general requirements, including costs***
+
+The facility shall be set up in cooperation with one or more financial intermediaries, and shall be open to participation by appropriate investors. The selection of the financial intermediaries shall take place on the basis of their demonstrated ability to use the funding in the most efficient and effective way, in accordance with the rules and criteria set out in this Annex.
+
+The Commission shall ensure that the total amount of overhead costs related to the establishment and implementation of the facility, including management fees and other eligible costs invoiced by the financial intermediaries, remains as limited as possible, in line with best practice for similar instruments and whilst safeguarding the required quality of the facility.
+
+The Union contribution to the facility shall be implemented by the Commission in accordance with the provisions set out in Articles 53 and 54 of the Financial Regulation.
+
+The financial intermediaries shall comply with the relevant requirements on the delegation of budgetary execution tasks set out in the Financial Regulation and its implementing rules, in particular as regards procurement rules, internal control, accounting and external audit. No funding other than management fees or costs related to the establishment and implementation of the facility shall be made available to those financial intermediaries.
+
+The detailed terms and conditions of the establishment and the framework conditions of the facility, including monitoring and control, shall be laid down in one or more agreements between the Commission and the financial intermediaries.
+
+2. ***Availability of information***
+
+The facility shall make available online all information on programme management that is relevant for interested parties. This shall include, notably, application procedures, information on best practices and an overview of projects and reports.
+
+C. ****Funding conditions and eligibility and selection criteria****
+
+1. ***Scope of financing***
+
+In accordance with this Annex, the facility shall be limited to the financing of:
+
+(a) investment projects that have a rapid, measurable and substantial impact on economic recovery within the Union, increased energy security and the reduction in greenhouse gas emissions; and
+
+(b) technical assistance for energy efficiency and renewable energy projects.
+
+2. ***Factors to be taken into account***
+
+As regards the selection of projects, particular attention shall be paid to the geographical balance.
+
+As regards the financing of investment projects, due attention shall be paid to reaching a significant leverage factor between the total investment and the Union funding in order to raise significant investments in the Union. However, the leverage factor for individual investment projects may vary, depending on a number of factors such as the actual size and type of a project and on local conditions including the size and financial capabilities of the beneficiary.
+
+3. ***Conditions for public authorities’ access to financing under the facility***
+
+Public authorities requesting financing for investment projects or technical assistance for energy efficiency and renewable energy projects shall comply with the following conditions:
+
+(a) they have made, or are in the process of making, a political commitment to mitigate climate change, where appropriate including concrete objectives, for example relating to increasing energy efficiency and/or the use of energy from renewable sources;
+
+(b) they are either working towards developing multi-annual strategies to mitigate climate change and, where appropriate, to attain their objectives, or are participating in a multi-annual strategy at local, regional or national level to mitigate climate change;
+
+(c) they agree to be publicly accountable for the progress in their overall strategy.
+
+4. ***Eligibility and selection criteria for investment projects financed under the facility***
+
+Investment projects financed under the facility shall comply with the following eligibility and selection criteria:
+
+(a) the soundness and technical adequacy of the approach;
+
+(b) the soundness and cost effectiveness of the funding for the full investment phase of the action;
+
+(c) the geographical balance of all projects covered by this Regulation;
+
+(d) maturity, defined as reaching the investment stage, and incurring substantial capital expenditure as soon as possible;
+
+(e) the extent to which lack of access to finance is delaying the implementation of the action;
+
+(f) the extent to which funding from the facility will stimulate public and private finance;
+
+(g) quantified socioeconomic impacts;
+
+(h) quantified environmental impacts.
+
+5. ***Eligibility and selection criteria for technical assistance projects financed under the facility***
+
+Technical assistance projects financed under the facility shall comply with the eligibility and selection criteria referred to in point 4(a), (c), (e), (f) and (g).
+
+<a id="commission_declaration"></a>
+
+### COMMISSION DECLARATION
+
+The Commission underlines that energy efficiency and renewable energy sources are key priorities of EU energy policy, both for environmental and for security of supply reasons. In this respect, the Regulation will contribute to these priorities by giving substantial support to offshore wind projects.
+
+The Commission recalls in this context the various other new initiatives supporting energy efficiency and renewable energy sources, suggested by the Commission notably in its European Recovery Plan, which was endorsed by the European Council of December 2008. These include:
+
+A modification to the ERDF Regulation to allow investments up to EUR 8 billion in energy efficiency and renewable energies in housing in all the Member States.
+
+A public-private partnership on a ‘European energy-efficient buildings’ initiative to promote green technologies and the development of energy-efficient systems and materials in new and renovated buildings. The estimated envelope for this action is EUR 1 billion: EUR 500 million from existing EC FP7 budget over the years 2010 to 2013 and EUR 500 million from industry.
+
+The EC-EIB initiative ‘EU Sustainable Energy Financing Initiative’. It aims at enabling investments for energy efficiency and renewable energy projects in urban settings. The Commission finances a technical assistance facility from the Intelligent Energy Europe programme (annual allocation of 15 M EUR for 2009). This facility, managed by the EIB, will facilitate access to EIB loans with substantial leverage effects.
+
+The creation by EU institutional investors — led by the EIB — of a market oriented equity fund, called Marguerite: the 2020 European Fund for Energy, Climate Change and Infrastructure. This Fund would invest in the areas of energy and climate change (TEN-E, sustainable energy production, renewable energy, new technologies, energy efficiency investments, security of supply, as well as environmental infrastructure). The Commission supports this initiative.
+
+Furthermore, the Commission will present before the end of November 2009 the revision of the energy efficiency action plan as demanded by Council (Conclusions of the European Council of March 2009) and Parliament (EP Resolution P6_TA(2009)0064).
+
+There is agreement among experts that energy efficiency is the cheapest available option to reduce greenhouse gas emissions. The Commission will provide by November 2009 a detailed analysis of the obstacles for increased energy efficiency investments. It will in particular examine whether there is a need for increased financial incentives in the form of low-interest loans and/or grants, how the European budget could be used to this end, and, if appropriate, the Commission will include, inter alia, additional funds for financing of energy efficiency in the new EU Energy Security and Infrastructure Instrument, to be presented in 2010.
+
+When reviewing the energy efficiency action plan, the Commission will pay particular attention to the neighbourhood dimension of energy efficiency. It will analyze how it can give financial and regulatory incentives to neighbourhood countries to step up their investments in energy efficiency.
+
+Should the Commission, when reporting in 2010 on the implementation of the Regulation under its Article 28, find that it will not be possible to commit by the end of 2010 a part of the funds foreseen for the projects listed in the annex to the Regulation, the Commission will propose, if appropriate and in a geographically balanced way, an amendment to the Regulation allowing for the financing of projects in the area of energy efficiency and renewable energy sources, in addition to the above initiatives, including eligibility criteria similar to those applying to projects listed in the Annex to this Regulation.
+
+**Statement by Portugal**
+
+Portugal is voting in favour, although in its view, in a review of the programme under Article 28, consideration should be given to the inclusion of renewable-energy and energy-efficiency projects, particularly for microgeneration and for smart grids and meters, to help achieve the objectives in Article 4(a) and (b) of the Regulation.
+
+(1) Opinion of 13 May 2009 (not yet published in the Official Journal).
+
+(2) Opinion of the European Parliament of 6 May 2009 (not yet published in the Official Journal) and Council Decision of 7 July 2009.
+
+(3) OJ L 248, 16.9.2002, p. 1.
+
+(4) OJ L 357, 31.12.2002, p. 1.
+
+(5) OJ L 312, 23.12.1995, p. 1.
+
+(6) OJ L 292, 15.11.1996, p. 2.
+
+(7) OJ L 136, 31.5.1999, p. 1.
+
+(8) OJ L 184, 17.7.1999, p. 23.
+
+(9) OJ L 162, 22.6.2007, p. 1.
+
+(10) OJ L 400, 30.12.2006, p. 86.

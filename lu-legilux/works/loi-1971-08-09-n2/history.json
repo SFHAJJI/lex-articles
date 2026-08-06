@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -77,5 +78,83 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "1971-09-10",
+          "valid_to": "1975-12-06",
+          "text_sha256": "77e7652a204dad68f40730c97c2e239a6055963df63c134a9f37f8289d475e56",
+          "in_version": "lu-legilux:loi-1971-08-09-n2:1971-09-10",
+          "article_valid_from": "1971-09-10"
+        },
+        {
+          "valid_from": "1975-12-07",
+          "valid_to": "1980-12-22",
+          "text_sha256": "29dbac7589f78161bf252cf48afbdcf195cc7fc6faf4879d92fa3c94c2fa283a",
+          "in_version": "lu-legilux:loi-1971-08-09-n2:1975-12-07",
+          "article_valid_from": "1975-12-07"
+        },
+        {
+          "valid_from": "1980-12-23",
+          "valid_to": "2001-12-31",
+          "text_sha256": "eeefb8f0978388b3ccc2862b69fd32b73369992092be3f372ae63785750b7827",
+          "in_version": "lu-legilux:loi-1971-08-09-n2:1980-12-23",
+          "article_valid_from": "1980-12-23"
+        },
+        {
+          "valid_from": "2002-01-01",
+          "valid_to": null,
+          "text_sha256": "25f1bedffb9e690d71a4f02cccd1d72183620a2f7faf9434e9bd7e75bd7c72f1",
+          "in_version": "lu-legilux:loi-1971-08-09-n2:2002-01-01",
+          "article_valid_from": "2002-01-01"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "1971-09-10",
+          "valid_to": null,
+          "text_sha256": "25172d5d48bbed44e3aa3605852dc45a9b6e63b28f17337ca033212a94a3be30",
+          "in_version": "lu-legilux:loi-1971-08-09-n2:1971-09-10",
+          "article_valid_from": "1971-09-10"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "1971-09-10",
+          "valid_to": null,
+          "text_sha256": "fc122850defc6627a84649110727d7e2e8f9112faedf59e04bedefdd4628bec2",
+          "in_version": "lu-legilux:loi-1971-08-09-n2:1971-09-10",
+          "article_valid_from": "1971-09-10"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "1971-09-10",
+          "valid_to": "1975-12-06",
+          "text_sha256": "b1369aab658e1a5fc5506dcf0df71e89aa0cc2e9cbd4824cc67232d7e19fd0db",
+          "in_version": "lu-legilux:loi-1971-08-09-n2:1971-09-10",
+          "article_valid_from": "1971-09-10"
+        },
+        {
+          "valid_from": "1975-12-07",
+          "valid_to": "2001-12-31",
+          "text_sha256": "51e589560b96b7af3b5cb29c5a837aacc807188f3e266dc9dfc6345f85334ec5",
+          "in_version": "lu-legilux:loi-1971-08-09-n2:1975-12-07",
+          "article_valid_from": "1975-12-07"
+        },
+        {
+          "valid_from": "2002-01-01",
+          "valid_to": null,
+          "text_sha256": "2f0691ad82ecadeba34df07ed631940557d845c6c33de12440a3a8939e5ef688",
+          "in_version": "lu-legilux:loi-1971-08-09-n2:2002-01-01",
+          "article_valid_from": "2002-01-01"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

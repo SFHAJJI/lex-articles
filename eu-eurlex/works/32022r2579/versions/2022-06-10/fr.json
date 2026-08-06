@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r2579:2022-06-10",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2022/2579 of 10\u00A0June 2022 supplementing Directive 2013/36/EU",
+  "valid_from": "2022-06-10",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r2579/versions/2022-06-10/fr.xml",
+    "sha256": "5f1f9d0a9a69c9cc56a6e9ebf12375f3dbf0d686a30e81d957fc6f32af65304c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2579"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r2579:2022-06-10#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Toute demande d’agrément comme établissement de crédit au sens de l’article 4, paragraphe 1, point 1) b), du règlement (UE) no 575/2013 satisfait aux exigences relatives aux établissements de crédit énoncées aux articles 3 à 10 du règlement délégué (UE) 2022/2580.\n\n2. L’autorité compétente peut exiger des informations supplémentaires, à condition que celles-ci soient proportionnées et pertinentes aux fins de l’évaluation de la demande d’agrément.\n\n3. Sauf demande contraire de l’autorité compétente, l’entité demandeuse n’est pas tenue de fournir les informations visées au paragraphe 1 si l’autorité compétente détient déjà ces informations, y compris lorsque celles-ci ont été demandées et obtenues auprès d’une autre autorité compétente, dès lors que l’entité demandeuse certifie que ces informations sont exactes et complètes à la date de soumission de sa demande.\n\n4. L’entité demandeuse peut omettre de sa demande des informations qui concernent uniquement des activités non mentionnées dans le programme d’activités, conformément à l’article 5 du règlement délégué (UE) 2022/2580, à condition d’identifier dans sa demande les informations omises et d’invoquer cette disposition comme base de l’omission.\n\n5. À la suite de l’évaluation des informations présentées dans la demande, l’autorité compétente peut exiger de l’entité demandeuse qu’elle fournisse les informations ou explications supplémentaires que l’autorité compétente juge nécessaires aux fins de vérifier si toutes les exigences de l’agrément sont respectées.\n\n6. L’entité demandeuse veille à ce que les informations fournies dans sa demande soient à jour, de façon à garantir la complétude et l’exactitude des informations relatives à sa situation.",
+      "text_sha256": "d8e271760410ed217d81bc4743771488829a6e5ebc4aa2de60bf923936570f0d",
+      "md_span": {
+        "start": 642,
+        "end": 2385
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r2579:2022-06-10#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 2418,
+        "end": 2559
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

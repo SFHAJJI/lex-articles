@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32003l0006:2016-07-03",
+  "language": "fr",
+  "title": "Directive 2003/6/EC",
+  "valid_from": "2016-07-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32003l0006/versions/2016-07-03/fr.html",
+    "sha256": "aeae3f5a25878d4ec1ca21d29705b6508427a4a43a96b6340a40e65fbca31114",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02003L0006-20160703"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32003l0006:2016-07-03#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "02003L0006 — FR — 03.07.2016 — 003.001 Ce texte constitue seulement un outil de documentation et n’a aucun effet juridique. Les institutions de l'Union déclinent toute responsabilité quant à son contenu. Les versions faisant foi des actes concernés, y compris leurs préambules, sont celles qui ont été publiées au Journal officiel de l’Union européenne et sont disponibles sur EUR-Lex. Ces textes officiels peuvent être consultés directement en cliquant sur les liens qui figurent dans ce document ►B DIRECTIVE 2003/6/CE DU PARLEMENT EUROPÉEN ET DU CONSEIL du 28 janvier 2003 sur les opérations d'initiés et les manipulations de marché (abus de marché) (JO L 096, 12.4.2003, p.16) Abrogée par: Journal officiel n° page date Règlement (UE) no 596/2014 du Parlement européen et du Conseil du 16 avril 2014 L 173 1 12.6.2014 La dernière version consolidée avant abrogation est disponible sous le lien suivant: http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02003L0006-20110104",
+      "text_sha256": "6288e7cdbf643b5b55412960d28a67a4656467f12ff1eac8c7f1a8fd74550c0d",
+      "md_span": {
+        "start": 586,
+        "end": 1569
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

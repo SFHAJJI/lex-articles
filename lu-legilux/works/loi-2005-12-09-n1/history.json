@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -65,5 +66,71 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2018-09-01",
+          "valid_to": "2022-07-02",
+          "text_sha256": "ea92a4254da29b669fb5e64a72935b1ec989e1f3089c1487dedbf1ab4c42a1c6",
+          "in_version": "lu-legilux:loi-2005-12-09-n1:2018-09-01",
+          "article_valid_from": "2018-09-01"
+        },
+        {
+          "valid_from": "2022-07-03",
+          "valid_to": "2024-12-14",
+          "text_sha256": "7b1a2e59da466b163ba86a2e20c74cdc654862ae596177dba703485f52521ec0",
+          "in_version": "lu-legilux:loi-2005-12-09-n1:2022-07-03",
+          "article_valid_from": "2022-07-03"
+        },
+        {
+          "valid_from": "2024-12-15",
+          "valid_to": null,
+          "text_sha256": "7440ff3c86489e6b239d2d7796f39cf286cb8eeb1a1a02e3512bf83e0ad4f406",
+          "in_version": "lu-legilux:loi-2005-12-09-n1:2024-12-15",
+          "article_valid_from": "2024-12-15"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2018-09-01",
+          "valid_to": null,
+          "text_sha256": "51698521ec058afeb0d8c547082dfb74764675bbfe259f3897e1b58c736c1e09",
+          "in_version": "lu-legilux:loi-2005-12-09-n1:2018-09-01",
+          "article_valid_from": "2018-09-01"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2018-09-01",
+          "valid_to": null,
+          "text_sha256": "365bd9409d181874b47b9394e43babb4d361465ca436dee6be994c11efa5158a",
+          "in_version": "lu-legilux:loi-2005-12-09-n1:2018-09-01",
+          "article_valid_from": "2018-09-01"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2018-09-01",
+          "valid_to": null,
+          "text_sha256": "0840451ea93213410b9122813c2cb256a0c04fc133d5d8fe3d9075daba65eabe",
+          "in_version": "lu-legilux:loi-2005-12-09-n1:2018-09-01",
+          "article_valid_from": "2018-09-01"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2018-09-01",
+          "valid_to": null,
+          "text_sha256": "3b6d1f12bc96c5b43b6476b7dc532c7a8a4af724a3d384711b9b29d460b9759c",
+          "in_version": "lu-legilux:loi-2005-12-09-n1:2018-09-01",
+          "article_valid_from": "2018-09-01"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

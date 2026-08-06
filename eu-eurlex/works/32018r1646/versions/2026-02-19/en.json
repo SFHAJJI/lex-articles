@@ -1,0 +1,116 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r1646:2026-02-19",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2018/1646 of 13 July 2018 supplementing Regulation (EU) 2016/1011",
+  "valid_from": "2026-02-19",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r1646/versions/2026-02-19/en.html",
+    "sha256": "342044fef730678914c00eb8e1bfc4797101d181873607ccfd35198909c27fe3",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R1646-20260219"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r1646:2026-02-19#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "General requirements",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** An application pursuant to Article 34 of Regulation (EU) 2016/1011 shall contain, as appropriate, information that includes the following:(a) items listed in Annex I, when the applicant is a legal person applying for authorisation;(b) items listed in Annex II, when the applicant is a legal person applying for registration;(c) items listed in Annex I, when the applicant is a natural person applying for authorisation, with the exception of the information listed at points (c), (f), (h) and (i) of paragraph 1 of Annex I;(d) items listed in Annex II, when the applicant is a natural person applying for registration, with the exception of the information listed at points (c), (f), (h) and (i) of paragraph 1 of Annex II.\n\n**2.** The application may contain information at the level of a family of benchmarks only where none of the benchmarks within the family is included in the list of critical benchmarks established in accordance with Article 20(1) of Regulation (EU) 2016/1011.\n\n**3.** Where the applicant has omitted to provide any of the required information the application shall include an explanation as to why that information has not been provided.\n\n**4.** The applicant shall not be required to provide the information listed under points (f) to (j) of paragraph 1 of Annex I or Annex II, as applicable, to the extent that the applicant is already supervised in the Member State by the same competent authority for other activities than the provision of benchmarks.\n\n**5.** Personal data relating to the good repute of an applicant benchmark administrator’s management body and of employees responsible for the oversight function, or of members performing the oversight function where a separate committee carries out the oversight function shall be kept by applicant benchmark administrators and competent authorities as long as necessary to assess the initial application and the ongoing supervision, as applicable, and no longer than five years after that person has ceased to perform its function.",
+      "text_sha256": "8d7a27b11bf979eb2e5b2031e38ff5d3e4350200ce87625d9f4926a586fa65c6",
+      "md_span": {
+        "start": 683,
+        "end": 2706
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32026R0264",
+          "text": "32026R0264: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_1a",
+      "provision_id": "eu-eurlex:32018r1646:2026-02-19#art_1a",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1a",
+      "heading": "Format of the application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The application referred to in Article 1 shall be submitted by electronic means unless specified otherwise in the applicable national law. Those electronic means shall ensure the completeness, integrity and confidentiality of the information during its transmission. Each submitted document shall clearly identify to which specific requirement of this Regulation it refers.",
+      "text_sha256": "a651edb6fa8ad772698d39162ec371b3c24d133f70bef546a41a443fe103b4c2",
+      "md_span": {
+        "start": 2773,
+        "end": 3146
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r1646:2026-02-19#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Information to be provided for types of benchmarks",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** An applicant may submit for any non-significant benchmark that it provides the information required by paragraph 6 of Annex I or, where applicable, paragraph 6 of Annex II in the form of a summary.\n\n**2.** Non-supervised entities providing critical and significant benchmarks shall submit the information listed in Annex I.\n\n**3.** Supervised entities providing only non-critical benchmarks shall submit the information listed in the first column of Annex II.\n\n**4.** An applicant providing only non-significant benchmarks shall submit the information listed in the second column of Annex II.\n\n**5.** Without prejudice to paragraphs 1 to 4, an applicant providing only regulated-data benchmarks shall not submit the information listed in points 5(c), 6(a)(iii) and 6(a)(iv) of Annex I and Annex II.\n\n**6.** An applicant providing only interest rate benchmarks shall submit the information listed in the Annexes of this Regulation and shall specify how the specific requirements set out in Annex I of Regulation (EU) 2016/1011 are implemented where the provisions in Annex I of Regulation (EU) 2016/1011 apply in addition to, or as a substitute for, the requirements in Title II of Regulation (EU) 2016/1011, pursuant to Article 18 of that Regulation.\n\n**7.** An applicant providing only commodity benchmarks shall provide the information listed in Annex I of this Regulation if it is a non-supervised entity or if it provides a critical benchmark. If it is a supervised entity and none of the benchmarks it provides is a critical benchmark, it shall provide the information listed in the first column of Annex II. The applicant shall specify how the requirements set out in Annex II of Regulation (EU) 2016/1011 are implemented for any commodity benchmark subject to Annex II instead of Title II of Regulation (EU) 2016/1011 pursuant to Article 19 of Regulation (EU) 2016/1011.",
+      "text_sha256": "3d1523348e28d8002d39b2d509d45fe7ca9eae6da34fdabcbe3c68a841068b32",
+      "md_span": {
+        "start": 3236,
+        "end": 5120
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32018r1646:2026-02-19#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Specific information concerning policies and procedures",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Any policies and procedures provided in an application shall contain or be accompanied by:(a) an indication of the identity of the person or persons responsible for the approval and maintenance of the policies and procedures;(b) a description of how compliance with the policies and procedures is monitored and the identity of persons responsible for this monitoring;(c) a description of the measures to be taken in the event of a breach of the policies and procedures.\n\n**2.** An applicant that is part of a group may comply with paragraph 1 by submitting the policies and procedures of its group where they relate to the provision of benchmarks.",
+      "text_sha256": "ce8c4c4854b2537a8de934010fc2298fbfbcdb5989974983ec8648c8941b62df",
+      "md_span": {
+        "start": 5215,
+        "end": 5869
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32018r1646:2026-02-19#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Entry into force",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.\n\nIt shall apply from 25 January 2019.",
+      "text_sha256": "7ea00ef3e0c9c8a632d66647dc09c4fb476c058e9d03b5efb5299eba10f6380c",
+      "md_span": {
+        "start": 5925,
+        "end": 6105
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

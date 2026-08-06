@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32005r0603:2005-04-12",
+  "language": "en",
+  "title": "Council Regulation (EC) No\u00A0603/2005 of 12 April 2005 amending the lists of insolvency proc…",
+  "valid_from": "2005-04-12",
+  "valid_to": "2005-04-20",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32005r0603/versions/2005-04-12/en.xml",
+    "sha256": "c19e6fb7c615816f05fe6d4765b1fb85a70418d7a01bc901cf63d0f15193c2c2",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005R0603"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32005r0603:2005-04-12#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nRegulation (EC) No 1346/2000 is amended as follows:\n\n| 1. | Annex A is replaced by the text set out in Annex I to this Regulation; |\n| --- | --- |\n\n| 2. | Annex B is replaced by the text set out in Annex II to this Regulation; |\n| --- | --- |\n\n| 3. | Annex C is replaced by the text set out in Annex III to this Regulation. |\n| --- | --- |",
+      "text_sha256": "a744b3f666a69057a03cf9b37dff4b7c757d0b68eb5dfe3bc0790e0682271421",
+      "md_span": {
+        "start": 642,
+        "end": 992
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32005r0603:2005-04-12#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.",
+      "text_sha256": "d3c785c690b8bdf8d8c2902a03c64cf7a3eba91863fcdb12add1ee83ed37e9d5",
+      "md_span": {
+        "start": 1025,
+        "end": 1158
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

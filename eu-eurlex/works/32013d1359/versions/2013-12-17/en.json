@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32013d1359:2013-12-17",
+  "language": "en",
+  "title": "Decision No\u00A01359/2013/EU",
+  "valid_from": "2013-12-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32013d1359/versions/2013-12-17/en.xml",
+    "sha256": "c93227b9dbb889b80dbdc0d9fd082af9806ebf46aa561fab0ce29f1d5efe6f17",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013D1359"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32013d1359:2013-12-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn the first subparagraph of Article 10(4) of Directive 2003/87/EC the following sentences are added:\n\n‘Where an assessment shows for the individual industrial sectors that no significant impact on sectors or subsectors exposed to a significant risk of carbon leakage is to be expected, the Commission may, in exceptional circumstances, adapt the timetable for the period referred to in Article 13(1) beginning on 1 January 2013 so as to ensure the orderly functioning of the market. The Commission shall make no more than one such adaptation for a maximum number of 900 million allowances.’.",
+      "text_sha256": "7e3453c9af0a963f4333d135181fb0dc17e07425e62608d3d332645dddeda714",
+      "md_span": {
+        "start": 569,
+        "end": 1172
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32013d1359:2013-12-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Decision is addressed to the Member States.",
+      "text_sha256": "fe6440b8f943c10bd91e9278bd93e26a506d64e239712c35997ff8574673a831",
+      "md_span": {
+        "start": 1205,
+        "end": 1264
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

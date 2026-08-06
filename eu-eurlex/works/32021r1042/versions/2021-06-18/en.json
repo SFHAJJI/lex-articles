@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r1042:2021-06-18",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2021/1042 of 18\u00A0June 2021 laying down rules for the application of Directive (EU) 2017/1132",
+  "valid_from": "2021-06-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r1042/versions/2021-06-18/en.xml",
+    "sha256": "be1d70d2929e9a381c4d4f3cdfd5732d215f7aee531494d128b452aee7ba997a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1042"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r1042:2021-06-18#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe technical specifications and procedures for the system of interconnection of registers referred to in Article 22(2) of Directive (EU) 2017/1132 are set out in the Annex.",
+      "text_sha256": "831fcc6832eae1575a5d714ac002d6b02b0d9944680d44f599eac0ef3023d8e3",
+      "md_span": {
+        "start": 676,
+        "end": 860
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r1042:2021-06-18#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nImplementing Regulation (EU) 2020/2244 is repealed.\n\nReferences to the repealed Implementing Regulation (EU) 2015/884 and to Implementing Regulation (EU) 2020/2244 shall be construed as references to this Regulation.",
+      "text_sha256": "c66b6103040d9df2e4242deeeb02b71d437c3b4dd236596f09abef89dd09fb99",
+      "md_span": {
+        "start": 893,
+        "end": 1120
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32021r1042:2021-06-18#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c8a7c928af14f1daeeae6193ae2f7f93ab11f41fab4e56ce01abe347c5ac50ab",
+      "md_span": {
+        "start": 1153,
+        "end": 1304
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

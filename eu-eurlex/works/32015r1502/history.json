@@ -1,0 +1,131 @@
+{
+  "lex_work_id": "eu-eurlex:32015r1502",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "art_1": [
+      {
+        "valid_from": "2015-09-08",
+        "valid_to": "2022-07-10",
+        "text_sha256": "cbf276150138bc5def89d55f40d3e73efee11e231577b1203967fa0c0339c6ae",
+        "in_version": "eu-eurlex:32015r1502:2015-09-08"
+      },
+      {
+        "valid_from": "2022-07-11",
+        "valid_to": null,
+        "text_sha256": "ab5031885943a4d5862b19a4ea0e9055366e58712485d4e42e38665b25ef11a6",
+        "in_version": "eu-eurlex:32015r1502:2022-07-11"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2015-09-08",
+        "valid_to": "2022-07-10",
+        "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+        "in_version": "eu-eurlex:32015r1502:2015-09-08"
+      },
+      {
+        "valid_from": "2022-07-11",
+        "valid_to": null,
+        "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+        "in_version": "eu-eurlex:32015r1502:2022-07-11"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "en": {
+      "art_1": [
+        {
+          "valid_from": "2015-09-08",
+          "valid_to": "2022-07-10",
+          "text_sha256": "cbf276150138bc5def89d55f40d3e73efee11e231577b1203967fa0c0339c6ae",
+          "in_version": "eu-eurlex:32015r1502:2015-09-08"
+        },
+        {
+          "valid_from": "2022-07-11",
+          "valid_to": null,
+          "text_sha256": "ab5031885943a4d5862b19a4ea0e9055366e58712485d4e42e38665b25ef11a6",
+          "in_version": "eu-eurlex:32015r1502:2022-07-11"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2015-09-08",
+          "valid_to": "2022-07-10",
+          "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+          "in_version": "eu-eurlex:32015r1502:2015-09-08"
+        },
+        {
+          "valid_from": "2022-07-11",
+          "valid_to": null,
+          "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+          "in_version": "eu-eurlex:32015r1502:2022-07-11"
+        }
+      ]
+    },
+    "fr": {
+      "annexe": [
+        {
+          "valid_from": "2022-07-11",
+          "valid_to": null,
+          "text_sha256": "36619700c806499f3ac6e453ba65a2dc8a8d18d2776eeec9b993b9b24928677b",
+          "in_version": "eu-eurlex:32015r1502:2022-07-11"
+        }
+      ],
+      "art_1": [
+        {
+          "valid_from": "2015-09-08",
+          "valid_to": "2022-07-10",
+          "text_sha256": "3df09f86f173bdb56ba2403d4c422e96f6f3b279bf228e96209460ca8f516980",
+          "in_version": "eu-eurlex:32015r1502:2015-09-08"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2015-09-08",
+          "valid_to": "2022-07-10",
+          "text_sha256": "91deaebb4a04a055d8a9d5823aaced733082a23d8dadda698fa9f22d4847d8e8",
+          "in_version": "eu-eurlex:32015r1502:2015-09-08"
+        },
+        {
+          "valid_from": "2022-07-11",
+          "valid_to": null,
+          "text_sha256": "da0e4117686c9d6e3882a94f07eae340e5b82b475531e056ea9fbf83141c7fed",
+          "in_version": "eu-eurlex:32015r1502:2022-07-11"
+        }
+      ],
+      "art_premier": [
+        {
+          "valid_from": "2022-07-11",
+          "valid_to": null,
+          "text_sha256": "187bc436822381821d024c3e3af58ac66de3fa79efb39c5afe7747b80666248e",
+          "in_version": "eu-eurlex:32015r1502:2022-07-11"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": [
+      {
+        "type": "removed",
+        "anchor": "art_1",
+        "at_version": "eu-eurlex:32015r1502:2022-07-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe",
+        "at_version": "eu-eurlex:32015r1502:2022-07-11"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_premier",
+        "at_version": "eu-eurlex:32015r1502:2022-07-11"
+      }
+    ]
+  }
+}

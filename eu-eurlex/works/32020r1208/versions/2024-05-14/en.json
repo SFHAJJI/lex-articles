@@ -1,0 +1,846 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32020r1208:2024-05-14",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2020/1208 of 7 August 2020 on structure, format, submission processes and review of information reported by Member States pursuant to Regulation (EU) 2018/1999",
+  "valid_from": "2024-05-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32020r1208/versions/2024-05-14/en.html",
+    "sha256": "3dfee75cdda5fcab74dc1c58859780c7e4a65b1ca0a758fbcc7c7caa0e7052dd",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R1208-20240514"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Subject matter",
+      "path": [
+        "CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Regulation establishes rules implementing Regulation (EU) 2018/1999 as regards the following:\n\n(a) Member States’ reporting on national adaptation actions, the use of auctioning revenues and financial and technology support provided to developing countries pursuant to Article 19 of Regulation (EU) 2018/1999;\n\n(b) Member States’ reporting on approximated greenhouse gas (or GHG) inventories, greenhouse gas inventories and accounted greenhouse gas emissions and removals pursuant to Article 26 of Regulation (EU) 2018/1999;\n\n(c) requirements on the establishment, operation and functioning of national inventory systems pursuant to Article 37 of Regulation (EU) 2018/1999;\n\n(d) the timing and the procedure for carrying out the comprehensive review pursuant to Article 38 of Regulation (EU) 2018/1999;\n\n(e) Member States’ reporting on national system for policies and measures and projections pursuant to Article 39 of Regulation (EU) 2018/1999.",
+      "text_sha256": "bb5283bcc31044dd13279577945021f0bef7e484a8f7ab1d8e3d55a2fd38a33c",
+      "md_span": {
+        "start": 828,
+        "end": 1779
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Scope",
+      "path": [
+        "CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Regulation applies to the reports submitted by the Member States containing data required for the year 2021 onwards.",
+      "text_sha256": "e5daff2be1b07a50f31edf1389520ffbc5e8094c4f3f48de0eb26260cfc8bd09",
+      "md_span": {
+        "start": 1824,
+        "end": 1945
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Definitions",
+      "path": [
+        "CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "For the purposes of this Regulation, the following definitions shall apply:\n\n(1) ‘common reporting table’, or ‘CRT’, means a table for information on anthropogenic greenhouse gas emissions by sources and removals by sinks included in Annex I to Decision 5/CMA.3 of the Conference of the Parties serving as the meeting to the Parties to the Paris Agreement (Decision 5/CMA.3).\n\n(2) ‘reference approach’ means the reference approach by the Intergovernmental Panel on Climate Change (IPCC), as set out in the 2006 IPCC Guidelines for National Greenhouse Gas Inventories (‘2006 IPCC Guidelines’);\n\n(3) ‘approach 1’ means the basic method for the estimation of uncertainties included in the 2006 IPCC Guidelines;\n\n(4) ‘key category’ means a category which has a significant influence on a Member State’s or the Union’s total inventory of greenhouse gases in terms of the absolute level of emissions and removals, the trend in emissions and removals, or uncertainty in emissions and removals;\n\n(5) ‘sectoral approach’ means the IPCC sectoral approach as set out in the 2006 IPCC Guidelines;\n\n(6) ‘outline for greenhouse gas inventory documents’ means the outline included in Annex V to Decision 5/CMA.3 of the Conference of the Parties serving as the meeting to the Parties to the Paris Agreement pursuant to Decision 18/CMA.1;\n\n(7) ‘transparency MPGs’ means the modalities, procedures and guidelines for the transparency framework for action and support referred to in Article 13 of the Paris Agreement, as set out in in the Annex to Decision 18/CMA.1 of the Conference of the Parties to the UNFCCC serving as meeting of the Parties to the Paris Agreement;\n\n(8) ‘greenhouse gas inventory guidelines’ mean guidelines specified in Article 3 of the Commission Delegated Regulation (EU) 2020/1044 (1);\n\n(9) ‘recalculation’ is a procedure for re-estimating, in accordance with the greenhouse gas inventory guidelines anthropogenic GHG emissions by sources and removals by sinks of previously submitted GHG inventories as a consequence of changes in methodologies, changes in the manner in which emission factors and activity data are obtained and used, or the inclusion of new source and sink categories.",
+      "text_sha256": "2280b770ffba8655d5a66e1b2812c49f591101ef22eac10327ca9c1595b35a77",
+      "md_span": {
+        "start": 1996,
+        "end": 4190
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R1281",
+          "text": "32024R1281: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R1208",
+          "text": "32020R1208"
+        },
+        {
+          "href": "#E0001",
+          "text": "1"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Information on national adaptation actions",
+      "path": [
+        "CHAPTER II — REPORTING BY MEMBER STATES ON NATIONAL ADAPTATION ACTIONS, AUCTIONING REVENUES AND SUPPORT TO DEVELOPING COUNTRIES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall report the information on their national adaptation actions pursuant to Article 19(1) of Regulation (EU) 2018/1999 in accordance with the format set out in Annex I to this Regulation.",
+      "text_sha256": "c17cf861e06853214f62a4f76498a057ad4b3c0433bc96de7e25fc7aaeea213d",
+      "md_span": {
+        "start": 4404,
+        "end": 4607
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Information on the use of auctioning revenues",
+      "path": [
+        "CHAPTER II — REPORTING BY MEMBER STATES ON NATIONAL ADAPTATION ACTIONS, AUCTIONING REVENUES AND SUPPORT TO DEVELOPING COUNTRIES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall report the information on the use of revenues generated by auctioning allowances pursuant to Article 19(2) of Regulation (EU) 2018/1999 in accordance with the formats set out in Annex II to this Regulation.\n\nIf the Commission considers that the information referred to in the first subparagraph is not sufficiently detailed for an assessment of compliance with Article 10(3) of Directive 2003/87/EC, the Commission shall request that the relevant Member State resubmit the report with sufficiently detailed information Such resubmission shall be made within two months from the receipt of the request.",
+      "text_sha256": "c739a0b93ec66684d8b3a4613818b8dfb7a72ea495909e12f734052c0a44794e",
+      "md_span": {
+        "start": 4692,
+        "end": 5313
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R1281",
+          "text": "32024R1281: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R1208",
+          "text": "32020R1208"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": "Information on financial and technology support provided to developing countries",
+      "path": [
+        "CHAPTER II — REPORTING BY MEMBER STATES ON NATIONAL ADAPTATION ACTIONS, AUCTIONING REVENUES AND SUPPORT TO DEVELOPING COUNTRIES"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall report the quantitative information on public and mobilised financial resources referred to in point (a)(i) and available information on activities by the Member State related to public-funded technology transfer projects and capacity-building projects for developing countries under the UNFCCC referred to in point (a)(iii) of Part 2 of Annex VIII to Regulation (EU) 2018/1999, in accordance with the common tabular format introduced by the Organisation for Economic Cooperation and Development (OECD) Development Assistance Committee for reporting to the Creditor Reporting System (CRS) or the formats set out in Annex III to this Regulation.\n\n**2.** Member States shall report the qualitative methodological information explaining the method used to calculate the quantitative information referred to in point (a)(ii) of Part 2 of Annex VIII to Regulation (EU) 2018/1999 in accordance with the format set out in Annex IV to this Regulation.\n\n**3.** Member States shall report available information on the planned provision of support referred to in point (b) of Part 2 of Annex VIII to Regulation (EU) 2018/1999 in accordance with the format set out in Annex V to this Regulation.",
+      "text_sha256": "7b69ac3e780984f8943a70ba070a35edc21c1ddb6a3ea136436c11997ee02a33",
+      "md_span": {
+        "start": 5433,
+        "end": 6643
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": "Reporting on approximated greenhouse gas inventories",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall report their approximated greenhouse gas inventories pursuant to Article 26(2) of Regulation (EU) 2018/1999 in accordance with the format set out in Annex VI:(a) at a level of disaggregation of categories reflecting the activity data and methods available for the preparation of estimates for the year X-1;(b) in separate columns, the split between emissions covered by Directive 2003/87/EC and emissions covered by Regulation (EU) 2018/842 by source category, where available.\n\n**2.** Member States shall provide explanations including on the main drivers for the key changes in emissions and removals reported in accordance with the format set out in Annex VI compared to the most recent final greenhouse gas inventory reported.",
+      "text_sha256": "98c2481b4f00d64f9dfbbcc2aaf2eefc977514253eb5779f052015e37692ea8f",
+      "md_span": {
+        "start": 6903,
+        "end": 7660
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": "General rules for reporting on greenhouse gas inventories",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall report the information referred to in Article 26(3) of Regulation (EU) 2018/1999 by completing, in accordance with the greenhouse gas inventory guidelines and with the rules provided for in this Regulation:(a) the common reporting tables by providing a complete set of spread sheets or Extensible Markup Language (XML) files, depending on the availability of the appropriate software, and covering Member State’s geographical scope under Regulation (EU) 2018/1999;(b) the information as specified in Articles 9 to 23 of this Regulation.\n\n**2.** Member States shall draft the national inventory report referred to in Article 26(3) of Regulation (EU) 2018/1999 (‘national inventory report’, ‘NIR’) based on the outline for greenhouse gas inventory documents, and following the rules provided for in this Regulation. Member States shall include the information reported pursuant to Articles 9, 10, 12 and 14 to 18 of this Regulation in the national inventory report or in a separate Annex to the national inventory report and indicate clearly in accordance with Annex VII where the information is provided.",
+      "text_sha256": "e79f7a4a517774d075a066ac8758c67290a491e2aa8bb24ffb4a4d55a3272ab4",
+      "md_span": {
+        "start": 7757,
+        "end": 8887
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": "Reporting on recalculations",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall report the reasons for recalculations of greenhouse gas emissions and removals referred to in point (d) of Part 1 of Annex V to Regulation (EU) 2018/1999 in the years 1990, 2005 and X-3; how the time series consistency for all reported years is maintained in writing in the form of a draft of the dedicated summary chapter on recalculations of the national inventory report.",
+      "text_sha256": "2623cde303cdad5fc2e23ca49a012ac8e125e5a7327feeeff0ecd3f30f8dc69d",
+      "md_span": {
+        "start": 8954,
+        "end": 9348
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": "Reporting on implementation of recommendations",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall report the information on the steps taken to improve inventory estimates referred to in point (g) of Part 1 of Annex V to Regulation (EU) 2018/1999 in accordance with the formats set out in Annex VIII to this Regulation.\n\n**2.** In their reports referred to in paragraph 1, Member States shall cover both issues raised for the first time in the most recent respective review reports and issues repeated from previous review reports.",
+      "text_sha256": "0a2d0e2ea48f207e69500300549c612bfda61fcd657671db56141b35fba46db2",
+      "md_span": {
+        "start": 9436,
+        "end": 9895
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": "Reporting on inventory methods, emission factors and on related methodological descriptions for Union key categories",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall provide the following information for the preparation of the Union inventory report referred to in point (m) of Part 1 of Annex V of Regulation (EU) 2018/1999:(a) summary information on the methods and emission factors used for the Union’s key categories within the relevant XML files of the common reporting tables;(b) for those Union key categories, where information on methods and emission factors is not contained in the common reporting tables, information in accordance with Part 3 of Annex IX of this Regulation;(c) updated summary methodological descriptions for the Union’s key categories in accordance with the format set out in Part 4 of Annex IX.\n\n**2.** For the purpose of reporting under paragraph 1, the Commission shall provide the Member States with the following:(a) the list of the most recent Union’s key categories by 31 October in accordance with the format set out in Part 1 of Annex IX;(b) the updated list referred to in paragraph 2(a) with changes highlighted by 28 February;(c) where available, information on inventory methods, emission factors and on summary methodological descriptions by 31 October in accordance with the format set out in Part 2 of Annex IX;(d) the updated information referred to in paragraph 2(c) by 28 February.",
+      "text_sha256": "df363a8d9e7f8cf04a67b5c635dcd8b32cd100a79b3832bb84f4f9185887d11a",
+      "md_span": {
+        "start": 10053,
+        "end": 11344
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": "Reporting on uncertainty and completeness",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall report at least approach 1 uncertainty estimates referred to in point (m) of Part 1 of Annex V to Regulation (EU) 2018/1999 in accordance with the format set out in Annex X to this Regulation.\n\n**2.** Member States shall report the information on the general assessment of completeness referred to in point (m) of Part 1 of Annex V to Regulation (EU) 2018/1999 in the national inventory report, specifying:(a) the categories, which were reported as not estimated (NE), as defined in the transparency MPGs, and detailed explanations for the use of this notation key especially where the greenhouse gas inventory guidelines provide methods for estimation of greenhouse gases;(b) the geographical coverage of the greenhouse gas inventory, and any differences between the geographical coverage under the UNFCCC and the Paris Agreement and under Regulation (EU) 2018/1999.",
+      "text_sha256": "fcde1f8c4ccdbff75801d9d86ee3a11d7382529db59295f87349c75b219986a2",
+      "md_span": {
+        "start": 11427,
+        "end": 12321
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": "Reporting on indicators",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall report information on indicators referred to in point (e) of Part 1 of Annex V to Regulation (EU) 2018/1999 in accordance with the format set out in Annex XI.",
+      "text_sha256": "e217fd224ca53562e5d1eb0786ed46b3697f6b9c2c89d38836cc0f2d0a3ebd87",
+      "md_span": {
+        "start": 12386,
+        "end": 12564
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": "Reporting on consistency of reported emissions with data from the EU Emissions Trading System",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall report the information referred to in point (h) of Part 1 of Annex V to Regulation (EU) 2018/1999 in accordance with the format set out in Annex XII to this Regulation.\n\n**2.** Member States shall report the information on results of the checks referred to in point (i) of Part 1 of Annex V of Regulation (EU) 2018/1999 in a textual format.",
+      "text_sha256": "ed333792855f2b0850ed0541fd970282e35857be034bde433915b1e1343a67fd",
+      "md_span": {
+        "start": 12699,
+        "end": 13066
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": "Reporting on consistency of the reported data on air pollutants",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall report information on the results of the checks referred to in point (j)(i) of Part 1 of Annex V to Regulation (EU) 2018/1999 and on the consistency of the data pursuant to point (b) of Part 1 of Annex V to Regulation (EU) 2018/1999 in a textual format, specifying(a) whether the emissions estimates of carbon monoxide (CO), sulphur dioxide (SO2), nitrogen oxides (NOx) and volatile organic compounds, in inventories submitted by the Member State under Directive (EU) 2016/2284 are consistent with the corresponding emission estimates in greenhouse gas inventories under Regulation (EU) 2018/1999;(b) the submission dates of the reports under Directive (EU) 2016/2284 that were compared with the inventory submission under Regulation (EU) 2018/1999.\n\n**2.** Where the checks referred to in paragraph 1 result in differences of more than +/–5 % between the total emissions excluding the Land Use, Land Use Change and Forestry (LULUCF) for a particular air pollutant reported under Regulation (EU) 2018/1999 and under Directive (EU) 2016/2284, the Member State concerned shall, in addition to the textual information referred to in paragraph 1, report information for that air pollutant in accordance with the format set out in Annex XIII to this Regulation.\n\n**3.** Member States may report only the information referred to in paragraph 1 if the difference of more than +/– 5 % referred to in paragraph 2 derives from correction of data errors or from differences in geographical coverage or scope of application between the respective legal instruments.",
+      "text_sha256": "3c5f88e615d237cc170b664916e1e9db985ecca12ccd865388adbdeaf6fc26e9",
+      "md_span": {
+        "start": 13171,
+        "end": 14751
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": "Reporting on consistency of the data reported on fluorinated greenhouse gases",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall report the information on the results of the checks referred to in point (j)(ii) of Part 1 of Annex V to Regulation (EU) 2018/1999 in a textual format, specifying:\n\n(a) the checks performed by the Member State concerning the level of detail, the data sets and the submissions compared;\n\n(b) the main results of the checks and explanations for the main inconsistencies;\n\n(c) whether the data collected by operators under Article 6(1) of Regulation (EU) No 517/2014 of the European Parliament and of the Council (2) were made use of and how;\n\n(d) the reasons why the checks were not considered to be relevant, where those checks were not performed.",
+      "text_sha256": "cfca27cf2a8f11d7163b423c862e9fdbb5c89bb15beca43ba725a9abc417e674",
+      "md_span": {
+        "start": 14870,
+        "end": 15536
+      },
+      "citations": [
+        {
+          "href": "#E0002",
+          "text": "2"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": "Reporting on consistency with energy statistics",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall report information on the results of the checks referred to in point (j)(iii) of Part 1 of Annex V to Regulation (EU) 2018/1999 in a textual format, specifying the differences between the reference approach calculated on the basis of the data included in the greenhouse gas inventory and the reference approach calculated on the basis of the energy statistics reported pursuant to Article 4 and Annex B to Regulation (EC) No 1099/2008 of the European Parliament and of the Council (3).\n\n**2.** Member States shall report the quantitative information and explanations for differences of more than +/– 2 % in the total national apparent fossil fuel consumption at aggregate level for all fossil fuel categories for the year X-2 referred to in paragraph 1 in accordance with Annex XIV to this Regulation.",
+      "text_sha256": "c59892ebebc3173d8297b49113a46b6ea51eef11a75790dfc58d9bada995603d",
+      "md_span": {
+        "start": 15625,
+        "end": 16453
+      },
+      "citations": [
+        {
+          "href": "#E0003",
+          "text": "3"
+        }
+      ]
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": "Reporting on changes in descriptions of national inventory systems or registries",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall clearly state in the relevant chapters of the national inventory report if there were no changes in the description of their national inventory systems or, if applicable, of their national registries referred to in points (k) and (l) of Part 1 of Annex V to Regulation (EU) 2018/1999 since the previous submission of the national inventory report.",
+      "text_sha256": "4d67a8fce7c1f623bc60e9c70878a9239453fcfee691a1d96af2d3ac915f252b",
+      "md_span": {
+        "start": 16575,
+        "end": 16942
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": "Reporting on greenhouse gas emissions covered by Regulation (EU) 2018/842",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall report anthropogenic emissions of greenhouse gases listed in Part 2 of Annex V to Regulation 2018/1999 in the scope specified in Article 2(1) of Regulation (EU) 2018/842, as referred to in point (a) of Part 1 of Annex V to Regulation (EU) 2018/1999, and updates of such information referred to in point (d) of Part 1 of Annex V to Regulation (EU) 2018/1999 in accordance with the format set out in Annex XV to this Regulation.",
+      "text_sha256": "54d4f990ce0055af038594966a9711594ebe39116914b02948df133fdd066d9d",
+      "md_span": {
+        "start": 17057,
+        "end": 17503
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": "Reporting on summary information on concluded transfers in accordance with Regulation 2018/841",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall report the summary information on concluded transfers pursuant to Articles 12 and 13 of Regulation (EU) 2018/841, referred to in point (f) of Part 1 of Annex V to Regulation (EU) 2018/1999, in accordance with the format set out in Annex XVI to this Regulation. After compilation by the Commission, a summary of the information provided pursuant to this paragraph shall be made available within three months from receiving the reports by Member States, in electronic form. In this summary, the range of prices paid per land mitigation units transaction shall be provided.",
+      "text_sha256": "0e62936c5bd3d6ef9a5fbfffe6a2669079253e542108e17ec913678de17c7fe8",
+      "md_span": {
+        "start": 17639,
+        "end": 18229
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": "Reporting on summary information on concluded transfers in accordance with Regulation (EU) 2018/842",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall report the summary information on concluded transfers pursuant to Article 5 of Regulation (EU) 2018/842 as referred to in point (f) of Part 1 of Annex V to Regulation (EU) 2018/1999 in accordance with the format set out in Table 1 of Annex XVII to this Regulation. After compilation by the Commission, a summary of the information provided pursuant to this paragraph shall be made available within three months from receiving the reports by Member States, in electronic form. In this summary, the range of prices paid per annual emission allocations transaction shall be provided.\n\n**2.** Within the two periods between the publication of the implementing acts referred to in Article 38(4) and the start of the compliance check procedure set out in Article 38(6) of Regulation (EU) 2018/1999 pursuant to Article 9 of Regulation (EU) 2018/842, the Member States may report to the Commission on the 15th of each month on concluded transfers pursuant to Article 5 of Regulation (EU) 2018/842 in accordance with the format set out in Table 2 of Annex XVII to this Regulation. After compilation by the Commission, a summary of the information received pursuant to this paragraph shall be made available, in a timely manner and in electronic form.",
+      "text_sha256": "fb2f6f425151760cda2b0a404bd3c7424a568acb1122b61d4d27eb4e6ef7da5b",
+      "md_span": {
+        "start": 18370,
+        "end": 19638
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": "Reporting information on intended use of flexibilities in accordance with Regulation (EU) 2018/842",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall report the information on intended use of the flexibilities referred to in paragraphs 4 and 5 of Article 5 and Article 7(1) of Regulation (EU) 2018/842 as referred to in point (n) of Part 1 of Annex V to Regulation (EU) 2018/1999 in accordance with the format set out in Annex XVIII to this Regulation.\n\n**2.** Within the two periods between the publication of the implementing acts referred to in Article 38(4) and the start of the compliance check procedure set out in Article 38(6) of Regulation (EU) 2018/1999 pursuant to Article 9 of Regulation (EU) 2018/842, the Member States may report to the Commission on the 15th of each month on intended use of the flexibilities in paragraphs 4 and 5 of Article 5 of Regulation (EU) 2018/842 in accordance with the format set out in Table 1 of Annex XVIII to this Regulation. After compilation by the Commission, the information received pursuant to this paragraph shall be made available, in electronic form and no later than at the end of the month referred to above.\n\n**3.** The information reported pursuant to paragraphs 1 and 2 of this Article shall not include any concluded transfers reported pursuant to Article 21.",
+      "text_sha256": "d396f261f91ffb11ec3444d1bf0b8d9049bef421666f7cc80427b95a78a9c1ee",
+      "md_span": {
+        "start": 19778,
+        "end": 20975
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": "Reporting on the use of revenues from transfers in accordance with Regulation (EU) 2018/842",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall report the information on the use of revenues in accordance with Article 5(6) of Regulation (EU) 2018/842 referred to in point (n) of Part 1 of Annex V to Regulation (EU) 2018/1999 in accordance with the format set out in Annex XIX to this Regulation.",
+      "text_sha256": "8f11f249e71d6e0aed959fb4a8a1726a5067f800756fd17bec7951ceb79ef159",
+      "md_span": {
+        "start": 21108,
+        "end": 21379
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": "Reporting on accounted greenhouse gas emissions and removals",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall report accounted greenhouse gas emissions and removals pursuant to Article 26(5) of Regulation (EU) 2018/1999 in accordance with the format set out in Annex XX.",
+      "text_sha256": "b80a9ccd119011c451eb110e9481144a2f7e1f6abfa478235be34c9c236acdc7",
+      "md_span": {
+        "start": 21481,
+        "end": 21661
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": "Timescales for cooperation and coordination in preparing the Union greenhouse gas inventory and the UNFCCC review",
+      "path": [
+        "CHAPTER III — REPORTING BY MEMBER STATES ON APPROXIMATED GREENHOUSE GAS INVENTORIES, GREENHOUSE GAS INVENTORIES AND ACCOUNTED GREENHOUSE GAS EMISSIONS AND REMOVALS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States and the Commission shall cooperate and coordinate in preparing the Union greenhouse gas inventory and of the Union inventory report in accordance with the timescales set out in Annex XXI.\n\n**2.** When a Member State re-submits its inventory to the UNFCCC Secretariat that Member State shall provide the Commission with a summary of the changes made in the re-submitted inventory, no later than within one week of the re-submission.\n\n**3.** During the UNFCCC review of the Union inventory, at the request of the Commission, Member States shall, as soon as possible provide the Commission with the answers to the questions raised by the UNFCCC reviewers.",
+      "text_sha256": "276390db8b053c6eda3b68f18d1cd6750e17624be16b15c5c430da15ff3bd4ae",
+      "md_span": {
+        "start": 21816,
+        "end": 22489
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": "Functions of national inventory systems",
+      "path": [
+        "CHAPTER IV — REQUIREMENTS ON THE ESTABLISHMENT, OPERATION AND FUNCTIONING OF NATIONAL INVENTORY SYSTEMS"
+      ],
+      "article_valid_from": null,
+      "text_md": "In the implementation of the national inventory systems pursuant to Article 37 of Regulation (EU) 2018/1999, each Member State shall:\n\n(a) establish and maintain the institutional, legal and procedural arrangements necessary to perform the functions pursuant to Articles 27 to 29, between the government agencies and other entities responsible for the performance of all functions;\n\n(b) ensure sufficient capacity for timely performance of the functions pursuant to Articles 27 to 29, including data collection for estimating anthropogenic GHG emissions by sources and removals by sinks and arrangements for technical competence of the staff involved in the inventory development process.",
+      "text_sha256": "1c0f524852922cf104c6eaf28fd35caf35833eab483bcbc42b464894b16700e3",
+      "md_span": {
+        "start": 22678,
+        "end": 23366
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27",
+      "heading": "Inventory planning",
+      "path": [
+        "CHAPTER IV — REQUIREMENTS ON THE ESTABLISHMENT, OPERATION AND FUNCTIONING OF NATIONAL INVENTORY SYSTEMS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** As part of its inventory planning, each Member State shall:(a) designate a single national entity with overall responsibility for the national inventory and make available its postal and electronic addresses;(b) define and allocate specific responsibilities in the inventory development process, including those relating to choice of methods, data collection, particularly activity data and emission factors from statistical services and other entities, processing and archiving, and quality control and quality assurance;(c) elaborate an inventory quality assurance and quality control plan which describes specific quality control procedures to be implemented during the inventory development process, facilitate the overall quality assurance procedures to be conducted and establish quality objectives;(d) consider establishing processes for the official consideration and approval of the inventory, if relevant including any recalculations, prior to its submission and to respond to any issues raised by the inventory review processes.\n\n**2.** As part of its inventory planning, each Member State shall where relevant consider ways to improve the quality of activity data, emission factors, methods and other relevant technical elements of inventories. Information obtained from the implementation of the quality assurance and quality control plan, from reviews under Article 19 of Regulation (EU) No 525/2013, Article 38 of Regulation (EU) 2018/1999 and under the UNFCCC shall where appropriate be considered in the development and/or revision of the quality assurance and quality control plan and the quality objectives.",
+      "text_sha256": "a983128802c89a825540f2807c47461f902abdd29388aa9f88c562202c6d1724",
+      "md_span": {
+        "start": 23426,
+        "end": 25059
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Article 28",
+      "heading": "Inventory preparation",
+      "path": [
+        "CHAPTER IV — REQUIREMENTS ON THE ESTABLISHMENT, OPERATION AND FUNCTIONING OF NATIONAL INVENTORY SYSTEMS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** In accordance with the greenhouse gas inventory guidelines, each Member State shall:(a) identify key categories and prepare estimates applying appropriate methods to estimate emissions and removals from key categories;(b) collect sufficient activity data, process information and emission factors necessary to support the methods selected for estimating anthropogenic GHG emissions by sources and removals by sinks;(c) make a quantitative estimate of inventory uncertainty for each category and for the inventory in total and prepare recalculations of previously submitted estimates of anthropogenic GHG emissions by sources and removals by sinks;(d) compile the national inventory and implement general inventory quality control procedures in accordance with their quality assurance and quality control plan.\n\n**2.** As part of its inventory preparation, each Member State shall where appropriate:(a) apply category-specific quality control procedures for key categories and for individual categories where significant methodological and/or data revisions have occurred, in accordance with the greenhouse gas inventory guidelines;(b) provide for a basic review of the inventory by an independent third party or personnel not involved in the inventory development,, before the submission of the inventory, in accordance with the planned quality assurance procedures referred to in Article 27(1)(c);(c) provide for a more extensive review for key categories and categories where significant changes in methods occurred;(d) based on the reviews according to the transparency MPGs and in accordance with Article 38 of Regulation (EU) 2018/1999 and periodic internal evaluations of the inventory preparation process, re-evaluate the inventory planning process in order to meet the established quality objectives referred to in Article 27(1)(c) of this Regulation.",
+      "text_sha256": "0761934052ccea33ad2714190aedb3a65fb173d9bf093916a82018d76e14f6b4",
+      "md_span": {
+        "start": 25122,
+        "end": 26988
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Article 29",
+      "heading": "Inventory management",
+      "path": [
+        "CHAPTER IV — REQUIREMENTS ON THE ESTABLISHMENT, OPERATION AND FUNCTIONING OF NATIONAL INVENTORY SYSTEMS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** As part of their inventory management, each Member State shall:(a) each year for the reported time series, archive inventory information including: all disaggregated emission factors, activity data, and documentation about how these were generated and aggregated; internal documentation on quality assurance and quality control procedures, external and internal reviews, documentation on annual key sources and key source identification and planned inventory improvements.(b) provide review teams under the transparency MPGs and Article 38 of Regulation (EU) 2018/1999 with access to all archived information used by the Member State to prepare the inventory, taking into account country-specific confidentiality rules.(c) respond to requests for clarifying inventory information resulting from the different stages of the review processes of the inventory information, and information on the national system, in a timely manner.\n\n**2.** As part of their inventory management, each Member State shall where appropriate make the collection of archived information easily accessible",
+      "text_sha256": "0e98bc122b248e4333a892c0909409deae638a3399f4efc1f27340b1daa1da31",
+      "md_span": {
+        "start": 27050,
+        "end": 28137
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Article 30",
+      "heading": "Procedure for the comprehensive review",
+      "path": [
+        "CHAPTER V — PROCEDURE AND SCHEDULE FOR CARRYING OUT THE COMPREHENSIVE REVIEW"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** When conducting the comprehensive reviews referred to in Article 38(1) and (1a) of Regulation (EU) 2018/1999, the Commission and the European Environment Agency shall be assisted by a technical experts review team and follow the procedure set out in Annex XXII.\n\n**2.** The European Environment Agency shall perform the secretarial tasks for the comprehensive reviews as specified in Annex XXII.\n\n**3.** The Commission, assisted by the European Environment Agency, shall select a sufficient number of review experts to cover the appropriate inventory sectors. The review experts selected shall have experience in the area of greenhouse gas inventories compilation and, where possible, be active in greenhouse gas review processes. Technical experts who have contributed to the compilation of an individual Member State’s greenhouse gas inventory, or are national of that Member State, shall not take part in the review of that inventory.\n\n**4.** The comprehensive reviews shall be carried out as desk-based and centralized reviews, as specified in Annex XXII. In addition, in-country visits may be organised upon recommendation of the technical experts review team and in consultation with the Member State concerned.\n\n**5.** The checks pursuant to Article 38(2)(b) of Regulation (EU) 2018/1999 shall include, where appropriate, information specified in Annex XXII.\n\n**6.** The checks referred to in Article 38(2)(c) of Regulation (EU) 2018/1999 shall include, where appropriate, a detailed examination on consistency of the accounted emissions and removals with Union rules.\n\n**7.** The comprehensive reviews shall include, where appropriate, checks to identify whether areas of improvement identified for one Member State in the UNFCCC or Union reviews may also constitute an area of improvement for other Member States.\n\n**8.** The review of greenhouse gas inventories shall be performed consistently for all Member States concerned and in an objective manner.",
+      "text_sha256": "9d721930f61304681d9a244a06990fa3390132c48e07ef6ad98ab665a1ce172f",
+      "md_span": {
+        "start": 28298,
+        "end": 30268
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32024R1281",
+          "text": "32024R1281: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R1208",
+          "text": "32020R1208"
+        }
+      ]
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Article 31",
+      "heading": "Technical corrections",
+      "path": [
+        "CHAPTER V — PROCEDURE AND SCHEDULE FOR CARRYING OUT THE COMPREHENSIVE REVIEW"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** A technical correction of an emission estimate within the meaning of Article 38(2)(d) of Regulation (EU) 2018/1999 shall be deemed necessary if an underestimate or overestimate exceeds the threshold of significance established in paragraph 2 of this Article. Details of the technical corrections are specified in Annex XXII to this Regulation.\n\n**2.** The threshold of significance for a given source or sink amounts to 0,05 % of a Member State’s total national greenhouse gas emissions without LULUCF for the year of the inventory under review, or 500 kt CO2 equivalent, whichever is smaller.\n\n**3.** In response to a finding by the Commission communicated to a Member State during the review, the Member State may request a change of their estimates of emissions or accounted emissions and removals by providing revised estimates. If a revised estimate is deemed appropriate by the technical review team, it shall be included in the review report referred to in Article 32 and accompanied by a justification.",
+      "text_sha256": "393d61165c1bd68c25032d1513c20c5adda4f61cdab723b385a39cedb8497451",
+      "md_span": {
+        "start": 30331,
+        "end": 31348
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Article 32",
+      "heading": "Final review reports",
+      "path": [
+        "CHAPTER V — PROCEDURE AND SCHEDULE FOR CARRYING OUT THE COMPREHENSIVE REVIEW"
+      ],
+      "article_valid_from": null,
+      "text_md": "The Commission shall inform the Member State concerned of the end of the comprehensive review and provide the Member State with a final review report by 30 August 2025, 30 August 2027 and 30 August 2032 respectively.",
+      "text_sha256": "ae7350a2c35eb70c227f1b0cf6a12974889956be71787a1dea20601c92c48fb2",
+      "md_span": {
+        "start": 31410,
+        "end": 31626
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Article 33",
+      "heading": "Cooperation with Member States",
+      "path": [
+        "CHAPTER V — PROCEDURE AND SCHEDULE FOR CARRYING OUT THE COMPREHENSIVE REVIEW"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall:(a) participate in the review pursuant to the schedule set out in Annex XXII;(b) nominate a National contact point for the Union’s review;(c) participate in and facilitate the organisation of an in-country visit, if needed;(d) provide answers and additional information and comment on the review reports as relevant.\n\n**2.** Upon request by the Member States, the Commission shall include comments regarding the review findings in the final review report referred to in Article 32.\n\n**3.** The Commission shall inform the Member States of the composition of the technical experts review team selected pursuant to Article 30.",
+      "text_sha256": "8b0773704b29e7862d44ff9753281374f90cab69f2b5c1d6c221cb8f50c67fe4",
+      "md_span": {
+        "start": 31698,
+        "end": 32349
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Article 34",
+      "heading": "Schedule for the comprehensive reviews",
+      "path": [
+        "CHAPTER V — PROCEDURE AND SCHEDULE FOR CARRYING OUT THE COMPREHENSIVE REVIEW"
+      ],
+      "article_valid_from": null,
+      "text_md": "The comprehensive review shall be carried out pursuant to the time schedule set out in Annex XXII.",
+      "text_sha256": "a7fc6414bced6e7ccf4cce77f1911d013d0df00d2c7e90d187a9197d695db8c8",
+      "md_span": {
+        "start": 32429,
+        "end": 32527
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Article 35",
+      "heading": "Submission processes for reporting",
+      "path": [
+        "CHAPTER VI — POLICIES AND MEASURES AND PROJECTIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall use the e-platform referred to in Article 28 of Regulation (EU) 2018/1999 and linked tools and templates of the Commission, assisted by the European Environment Agency pursuant to Article 42 of Regulation (EU) 2018/1999, for the submission of the information pursuant to this Chapter.",
+      "text_sha256": "81e3947ee4037ee59ecac2eb84d8191e10bfe2751b396bb673d4520b29ff8cba",
+      "md_span": {
+        "start": 32658,
+        "end": 32962
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_36",
+      "eli": null,
+      "type": "article",
+      "num": "Article 36",
+      "heading": "Reporting on national systems for policies and measures and projections",
+      "path": [
+        "CHAPTER VI — POLICIES AND MEASURES AND PROJECTIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Member States shall provide the description of their national systems for reporting on policies and measures, or groups of measures, and projections referred to in point (a) of Annex VI to Regulation (EU) 2018/1999 in the format set out in Annex XXIII to this Regulation.",
+      "text_sha256": "5bbeee2c1ba27871b78c429bb992f76060301c9e3741c1e8625b299b04326a6d",
+      "md_span": {
+        "start": 33075,
+        "end": 33346
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_37",
+      "eli": null,
+      "type": "article",
+      "num": "Article 37",
+      "heading": "Reporting on national policies and measures",
+      "path": [
+        "CHAPTER VI — POLICIES AND MEASURES AND PROJECTIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall report the information on their national policies and measures, or groups of measures, referred to in point (c) of Annex VI to Regulation (EU) 2018/1999 in the formats set out in Annex XXIV to this Regulation.\n\n**2.** Member States shall report the following information in a textual format:(a) the updates relevant to their long-term strategies referred to in point (b) of Annex VI to Regulation (EU) 2018/1999;(b) planned additional policies and measures referred to in point (d) of Annex VI to Regulation (EU) 2018/1999;(c) links between different policies and measures and the contribution of those policies and measures to different projection scenarios, as referred to in point (e) of Annex VI to Regulation (EU) 2018/1999.",
+      "text_sha256": "d098a80850e853cd0260c6c9c699ebbf51f50f1c7e7c1bba982d627ad8130e09",
+      "md_span": {
+        "start": 33431,
+        "end": 34187
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_38",
+      "eli": null,
+      "type": "article",
+      "num": "Article 38",
+      "heading": "Reporting on national projections",
+      "path": [
+        "CHAPTER VI — POLICIES AND MEASURES AND PROJECTIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "**1.** Member States shall report the information on their national projections of anthropogenic greenhouse gas emissions by sources and removals by sinks, organised by gas or group of gases, referred to in Article 18(1)(b) and point (a) of Annex VII of Regulation (EU) 2018/1999 in the format set out in Annex XXV to this Regulation.\n\n**2.** Member States shall provide the additional information on their national projections of anthropogenic greenhouse gas emissions by sources and removals by sinks referred to in Annex VII to Regulation (EU) 2018/1999 in a textual format, specifying:(a) the projection results for total greenhouse gas emissions, emissions covered by Regulation (EU) 2018/842 and Directive 2003/87/EC respectively, and the projected emissions by sources and removals by sinks under Regulation (EU) 2018/841, pursuant to point (b) of Annex VII of Regulation (EU) 2018/1999;(b) the results of the sensitivity analysis performed pursuant to point (d) of Annex VII of Regulation (EU) 2018/1999;(1) for the total reported greenhouse gas emissions, together with a brief explanation of which parameters were varied and how;(2) split on total emissions covered by Directive 2003/87/EC and by Regulation (EU) 2018/842 respectively and the projected emissions by sources and removals by sinks under the Regulation (EU) 2018/841, where such information is available;(c) the year of the inventory data (base year) and the year of the inventory report used as a starting point for the projections;(d) the methodologies used for the projections, including a brief description of the models used and their sectoral, geographical and temporal coverage, references to further information on the models and information on data sources, key exogenous assumptions and on the parameters used; pursuant to point (e) of Annex VII of Regulation (EU) 2018/1999.\n\n**3.** In the reports on projections to be provided pursuant to Article 18(1) of Regulation (EU) 2018/1999, Member States shall take into account the harmonised values for key parameters for projections – at least for oil, gas, and coal import prices as well as for carbon prices under the European Emission Trading System pursuant to Directive 2003/87/EC – which the Commission has recommended, in consultation with the Member States, 12 months before the deadline for submission of the reports.",
+      "text_sha256": "f868fb02d431979c8bb869bec5ba804b1d185c9c9133789f5a204c4b54825094",
+      "md_span": {
+        "start": 34262,
+        "end": 36619
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_39",
+      "eli": null,
+      "type": "article",
+      "num": "Article 39",
+      "heading": "Repeal",
+      "path": [
+        "CHAPTER VII — TRANSITIONAL AND FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Implementing Regulation (EU) No 749/2014 is repealed with effect from 1 January 2021, subject to the transitional provisions laid down in Article 40 of this Regulation.",
+      "text_sha256": "fade4eaebe77593d7395eda2692c62785b83677c5765375115f30d947805a5ef",
+      "md_span": {
+        "start": 36719,
+        "end": 36887
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_40",
+      "eli": null,
+      "type": "article",
+      "num": "Article 40",
+      "heading": "Transitional provision",
+      "path": [
+        "CHAPTER VII — TRANSITIONAL AND FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "By way of derogation from Article 39 of this Regulation, Articles 3 to 18 and 27 to 43 of Implementing Regulation (EU) No 749/2014 shall continue to have effect for the reports containing the data required for the years 2019 and 2020.",
+      "text_sha256": "3c663ce84536d9765464ce77e47366cba13a3ee1ff07da370a8c0344cbfc0c33",
+      "md_span": {
+        "start": 36951,
+        "end": 37185
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "eu-eurlex:32020r1208:2024-05-14#art_41",
+      "eli": null,
+      "type": "article",
+      "num": "Article 41",
+      "heading": "Entry into force and application",
+      "path": [
+        "CHAPTER VII — TRANSITIONAL AND FINAL PROVISIONS"
+      ],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.\n\nIt shall apply from 1 January 2021.",
+      "text_sha256": "65db6d0b6eb1ef822ac8ea0513d669520dc8c25096a465ef282709d61183de36",
+      "md_span": {
+        "start": 37259,
+        "end": 37438
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r0193:2021-11-17",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2022/193 of 17\u00A0November 2021 amending the implemen…",
+  "valid_from": "2021-11-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r0193/versions/2021-11-17/fr.xml",
+    "sha256": "4838be16b2313f761ed4567733ca7c698b7fc8c4b02103ea7d37e79917071ea1",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R0193"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r0193:2021-11-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe règlement d’exécution (UE) no 926/2014 est modifié comme suit:\n\n| 1) | À l’article 6, le paragraphe 1 est remplacé par le texte suivant:«1. Les autorités compétentes de l’État membre d’origine utilisent le formulaire figurant à l’annexe II pour communiquer une notification relative à l’exercice du droit d’établissement d’une succursale aux autorités compétentes de l’État membre d’accueil, en l’accompagnant d’une copie de la notification relative à l’exercice du droit d’établissement d’une succursale et des dernières informations disponibles sur les fonds propres présentées au moyen du formulaire figurant à l’annexe III. Les dernières informations disponibles sur les fonds propres de l’établissement de crédit qui soumet la notification relative à l’exercice du droit d’établissement sont notifiées aussi bien au niveau individuel que, le cas échéant, au niveau consolidé, lorsqu’elles sont à la disposition de l’autorité compétente de l’État membre d’origine.». |\n| --- | --- |\n\n| 2) | À l’article 8, le paragraphe 2 est remplacé par le texte suivant:«2. Les établissements de crédit utilisent le formulaire figurant à l’annexe IV pour notifier une modification qui concerne la cessation prévue de l’exploitation d’une succursale. Lorsque la succursale d’un établissement de crédit reçoit ou a reçu des dépôts et d’autres fonds remboursables, l’établissement de crédit concerné soumet également une déclaration énonçant les mesures qui ont été prises ou qui sont en train de l’être pour garantir que l’établissement de crédit ne détiendra plus de dépôts ou d’autres fonds remboursables du public par l’intermédiaire de la succursale après la cessation de l’exploitation de celle-ci.». |\n| --- | --- |\n\n| 3) | Les annexes I à VI sont remplacées par le texte figurant à l’annexe du présent règlement. |\n| --- | --- |",
+      "text_sha256": "9897952a14ac68cede11019714e659e88fa91de65ad89d487c746202fe326307",
+      "md_span": {
+        "start": 636,
+        "end": 2479
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r0193:2021-11-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 2512,
+        "end": 2653
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

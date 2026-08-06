@@ -1,0 +1,1283 @@
+---
+lex_id: 'eu-eurlex:32010r1094:2025-07-01'
+title: 'Regulation (EU) No 1094/2010'
+valid_from: '2025-07-01'
+valid_to: '2025-11-09'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02010R1094-20250701'
+source_sha256: '9f739d3729aed782914eb65ea60f83166c585cd70a48fea544d2f0a5c085092b'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## CHAPTER I — ESTABLISHMENT AND LEGAL STATUS
+
+<a id="art_1"></a>
+
+### Article 1 — Establishment and scope of action
+
+**1.** This Regulation establishes a European Supervisory Authority (European Insurance and Occupational Pensions Authority) (hereinafter the Authority’).
+
+**2.** The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 2009/138/EC with the exception of Title IV thereof, of Directive 2002/87/EC, Directive (EU) 2016/97 (1) and Directive (EU) 2016/2341 (2) of the European Parliament and of the Council, and, to the extent that those acts apply to insurance undertakings, reinsurance undertakings, institutions for occupational retirement provision and insurance intermediaries, within the relevant parts of Directive 2002/65/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority.
+
+**3.** The Authority shall act in the field of activities of insurance undertakings, reinsurance undertakings, financial conglomerates, institutions for occupational retirement provision and insurance intermediaries, in relation to issues not directly covered by the legislative acts referred to in paragraph 2, including matters of corporate governance, auditing and financial reporting, taking into account sustainable business models and the integration of environmental, social and governance related factors, provided that such actions are necessary to ensure the effective and consistent application of those acts.
+
+**4.** With regard to institutions for occupational retirement provision, the Authority shall act without prejudice to national social and labour law.
+
+**5.** The provisions of this Regulation are without prejudice to the powers of the Commission, in particular under Article 258 TFEU, to ensure compliance with Union law.
+
+**6.** The objective of the Authority shall be to protect the public interest by contributing to the short-, medium- and long-term stability and effectiveness of the financial system, for the Union economy, its citizens and businesses. The Authority shall, within its respective competences, contribute to:▼B(a) improving the functioning of the internal market, including in particular a sound, effective and consistent level of regulation and supervision,(b) ensuring the integrity, transparency, efficiency and orderly functioning of financial markets,(c) strengthening international supervisory coordination,(d) preventing regulatory arbitrage and promoting equal conditions of competition,▼M2(e) ensuring that the taking of risks related to insurance, reinsurance and occupational pensions activities is appropriately regulated and supervised,(f) enhancing customer and consumer protection; and▼M2(g) enhancing supervisory convergence across the internal market.▼M2For those purposes, the Authority shall contribute to ensuring the consistent, efficient and effective application of the acts referred to in paragraph 2 of this Article, foster supervisory convergence, and provide opinions in accordance with Article 16a to the European Parliament, to the Council, and to the Commission.▼BIn the exercise of the tasks conferred upon it by this Regulation, the Authority shall pay particular attention to any potential systemic risk posed by financial institutions, the failure of which may impair the operation of the financial system or the real economy.▼M2When carrying out its tasks, the Authority shall act independently, objectively and in a non-discriminatory and transparent manner, in the interests of the Union as a whole and shall respect, wherever relevant, the principle of proportionality. The Authority shall be accountable and act with integrity and shall ensure that all stakeholders are treated fairly.▼M2The content and form of the Authority’s actions and measures, in particular guidelines, recommendations, opinions, questions and answers, draft regulatory standards and draft implementing standards, shall fully respect the applicable provisions of this Regulation and of the legislative acts referred to in paragraph 2. To the extent permitted and relevant under those provisions, the Authority’s actions and measures shall, in accordance with the principle of proportionality, take due account of the nature, scale and complexity of the risks inherent in the business of a financial institution, undertaking, other subject or financial activity, that is affected by the Authority’s actions and measures.
+
+**7.** The Authority shall establish, as an integral part thereof, a Committee advising it as to how, in full compliance with applicable rules, its actions and measures should take account of specific differences prevailing in the sector, pertaining to the nature, scale and complexity of risks, to business models and practice as well as to the size of financial institutions and of markets to the extent that such factors are relevant under the rules considered.
+
+<a id="art_2"></a>
+
+### Article 2 — European System of Financial Supervision
+
+**1.** The Authority shall form part of a European system of financial supervision (ESFS). The main objective of the ESFS shall be to ensure that the rules applicable to the financial sector are adequately implemented to preserve financial stability and to ensure confidence in the financial system as a whole and effective and sufficient protection for the customers and consumers of financial services.
+
+**2.** The ESFS shall comprise the following:(a) the European Systemic Risk Board (ESRB), for the purposes of the tasks as specified in Regulation (EU) No 1092/2010 and this Regulation;(b) the Authority;(c) the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council (3);(d) the European Supervisory Authority (European Securities and Markets Authority) established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council (4);(e) the Joint Committee of the European Supervisory Authorities (Joint Committee) for the purposes of carrying out the tasks as specified in Articles 54 to 57 of this Regulation, of Regulation (EU) No 1093/2010 and of Regulation (EU) No 1095/2010;(f) the competent or supervisory authorities in the Member States as specified in the Union acts referred to in Article 1(2) of this Regulation, of Regulation (EU) No 1093/2010 and of Regulation (EU) No 1095/2010;
+
+**3.** The Authority shall cooperate regularly and closely with the ESRB as well as with the European Supervisory Authority (European Banking Authority) and the European Supervisory Authority (European Securities and Markets Authority) through the Joint Committee, ensuring cross-sectoral consistency of work and reaching joint positions in the area of supervision of financial conglomerates and on other cross-sectoral issues.
+
+**4.** In accordance with the principle of sincere cooperation pursuant to Article 4(3) of the Treaty on European Union (TEU), the parties to the ESFS shall cooperate with trust and full mutual respect, in particular in ensuring the flow of appropriate and reliable information among them and from the Authority to the European Parliament, to the Council and to the Commission.
+
+**5.** Those supervisory authorities that are party to the ESFS shall be obliged to supervise financial institutions operating in the Union in accordance with the acts referred to in Article 1(2).
+
+Without prejudice to national competences, references in this Regulation to supervision shall include all relevant activities of all competent authorities to be carried out pursuant to the legislative acts referred to in Article 1(2).
+
+<a id="art_3"></a>
+
+### Article 3 — Accountability of the Authorities
+
+**1.** The Authorities referred to in points (a) to (d) of Article 2(2) shall be accountable to the European Parliament and to the Council.
+
+**2.** In accordance with Article 226 TFEU, the Authority shall fully cooperate with the European Parliament during any investigation carried out under that Article.
+
+**3.** The Board of Supervisors shall adopt an annual report on the activities of the Authority, including on the performance of the Chairperson’s duties, and shall, by 15 June each year, transmit that report to the European Parliament, to the Council, to the Commission, to the Court of Auditors and to the European Economic and Social Committee. The report shall be made public.
+
+**4.** At the request of the European Parliament, the Chairperson shall participate in a hearing before the European Parliament on the performance of the Authority. A hearing shall take place at least annually. The Chairperson shall make a statement before the European Parliament and answer any questions from its members, whenever so requested.
+
+**5.** The Chairperson shall report in writing on the activities of the Authority to the European Parliament when requested and at least 15 days before making the statement referred to in paragraph 4.
+
+**6.** In addition to the information referred to in Articles 11 to 18 and Articles 20 and 33, the report shall also include any relevant information requested by the European Parliament on an ad hoc basis.
+
+**7.** The Authority shall reply orally or in writing to any question addressed to it by the European Parliament or by the Council within five weeks of its receipt.
+
+**8.** Upon request, the Chairperson shall hold confidential oral discussions behind closed doors with the Chair, Vice-Chairs and Coordinators of the competent committee of the European Parliament. All participants shall respect the requirements of professional secrecy.
+
+**9.** Without prejudice to its confidentiality obligations stemming from participation in international fora, the Authority shall inform the European Parliament upon request about its contribution to a united, common, consistent and effective representation of the Union’s interests in such international fora.
+
+<a id="art_4"></a>
+
+### Article 4 — Definitions
+
+For the purposes of this Regulation the following definitions apply:
+
+(1) ‘financial institutions’ means undertakings, entities and natural and legal persons subject to any of the legislative acts referred to in Article 1(2). With regard to Directive 2005/60/EC, ‘financial institutions’ means only insurance undertakings and insurance intermediaries as defined in that Directive;
+
+(2) ‘competent authorities’ means: (i) supervisory authorities as defined in Directive 2009/138/EC, and competent authorities as defined in Directive 2003/41/EC and 2002/92/EC; (ii) with regard to Directive 2002/65/EC, the authorities and bodies competent for ensuring compliance with the requirements of that Directive by financial institutions.
+
+<a id="art_5"></a>
+
+### Article 5 — Legal status
+
+**1.** The Authority shall be a Union body with legal personality.
+
+**2.** In each Member State, the Authority shall enjoy the most extensive legal capacity accorded to legal persons under national law. It may, in particular, acquire or dispose of movable and immovable property and be a party to legal proceedings.
+
+**3.** The Authority shall be represented by its Chairperson.
+
+<a id="art_6"></a>
+
+### Article 6 — Composition
+
+The Authority shall comprise:
+
+(1) a Board of Supervisors, which shall exercise the tasks set out in Article 43;
+
+(2) a Management Board, which shall exercise the tasks set out in Article 47;
+
+(3) a Chairperson, who shall exercise the tasks set out in Article 48;
+
+(4) an Executive Director, who shall exercise the tasks set out in Article 53;
+
+(5) a Board of Appeal, which shall exercise the tasks set out in Article 60.
+
+<a id="art_7"></a>
+
+### Article 7 — Seat
+
+The Authority shall have its seat in Frankfurt am Main.
+
+The location of the seat of the Authority shall not affect the Authority’s execution of its tasks and powers, the organisation of its governance structure, the operation of its main organisation, or the main financing of its activities, while allowing, where applicable, for the sharing with Union agencies of administrative support services and facility management services which are not related to the core activities of the Authority.
+
+## CHAPTER II — TASKS AND POWERS OF THE AUTHORITY
+
+<a id="art_8"></a>
+
+### Article 8 — Tasks and powers of the Authority
+
+**1.** The Authority shall have the following tasks:▼M2(a) based on the legislative acts referred to in Article 1(2), to contribute to the establishment of high-quality common regulatory and supervisory standards and practices, in particular by developing draft regulatory and implementing technical standards, guidelines, recommendations, and other measures, including opinions;▼M2(aa) to develop and maintain an up-to-date Union supervisory handbook on the supervision of financial institutions in the Union which is to set out best practices and high-quality methodologies and processes, and takes into account, *inter alia*, changing business practices and business models and the size of financial institutions and of markets;▼M2(b) to contribute to the consistent application of legally binding Union acts, in particular by contributing to a common supervisory culture, ensuring consistent, efficient and effective application of the legislative acts referred to in Article 1(2), preventing regulatory arbitrage, fostering and monitoring supervisory independence, mediating and settling disagreements between competent authorities, ensuring effective and consistent supervision of financial institutions, ensuring a coherent functioning of colleges of supervisors, and taking actions, *inter alia*, in emergency situations;▼B(c) to stimulate and facilitate the delegation of tasks and responsibilities among competent authorities;(d) to cooperate closely with the ESRB, in particular by providing the ESRB with the necessary information for the achievement of its tasks and by ensuring a proper follow up to the warnings and recommendations of the ESRB;▼M2(e) to organise and conduct peer reviews of competent authorities, and, in that context, to issue guidelines and recommendations and to identify best practices, with a view to strengthening consistency in supervisory outcomes;(f) to monitor and assess market developments in the area of its competence including where relevant, developments relating to trends in insurance, reinsurance and occupational pensions, in particular, to households and SMEs and in innovative financial services duly considering developments relating to environmental, social and governance related factors;(g) to undertake market analyses to inform the discharge of the Authority’s functions;(h) to foster, where relevant, the protection of policyholders, pension scheme members and beneficiaries, consumers and investors, in particular with regards to shortcomings in a cross-border context and taking related risks into account;▼B(i) to contribute to the consistent and coherent functioning of colleges of supervisors, the monitoring, assessment and measurement of systemic risk, the development and coordination of recovery and resolution plans, providing a high level of protection to policy holders, to beneficiaries and throughout the Union, in accordance with Articles 21 to 26;▼M2(ia) to contribute to the establishment of a common Union financial data strategy;▼B(j) to fulfil any other specific tasks set out in this Regulation or in other legislative acts;(k) to publish on its website, and to update regularly, information relating to its field of activities, in particular, within the area of its competence, on registered financial institutions, in order to ensure information is easily accessible by the public;▼M2(ka) to publish on its website, and to update regularly, all regulatory technical standards, implementing technical standards, guidelines, recommendations and questions and answers for each legislative act referred to in Article 1(2), including overviews that concern the state of play of ongoing work and the planned timing of the adoption of draft regulatory technical standards and draft implementing technical standards.▼M2 —————
+
+**1a.** When carrying out its tasks in accordance with this Regulation, the Authority shall:(a) use the full powers available to it;(b) with due regard to the objective to ensure the safety and soundness of financial institutions, take fully into account the different types, business models and sizes of financial institutions; and(c) take account of technological innovation, innovative and sustainable business models such as cooperatives and mutuals, and the integration of environmental, social and governance related factors.
+
+**2.** To achieve the tasks set out in paragraph 1, the Authority shall have the powers set out in this Regulation, in particular to:(a) develop draft regulatory technical standards in the specific cases referred to in Article 10;(b) develop draft implementing technical standards in the specific cases referred to in Article 15;(c) issue guidelines and recommendations, as laid down in Article 16;▼M2(ca) issue recommendations, as laid down in Article 29a;▼B(d) issue recommendations in specific cases, as referred to in Article 17(3);▼M2(da) issue warnings in accordance with Article 9(3);▼B(e) take individual decisions addressed to competent authorities in the specific cases referred to in Articles 18(3) and 19(3);(f) in cases concerning directly applicable Union law, take individual decisions addressed to financial institutions, in the specific cases referred to in Article 17(6), in Article 18(4) and in Article 19(4);▼M2(g) issue opinions to the European Parliament, to the Council, or to the Commission as provided for in Article 16a;▼M2(ga) issue answers to questions, as laid down in Article 16b;(gb) take action in accordance with Article 9a;▼B(h) collect the necessary information concerning financial institutions as provided for in Article 35;(i) develop common methodologies for assessing the effect of product characteristics and distribution processes on the financial position of institutions and on consumer protection;(j) provide a centrally accessible database of registered financial institutions in the area of its competence where specified in the acts referred to in Article 1(2).
+
+**3.** When carrying out the tasks referred to in paragraph 1 and exercising the powers referred to in paragraph 2, the Authority shall act based on and within the limits of the legislative framework and shall have due regard to the principle of proportionality, where relevant, and better regulation, including the results of cost-benefit analyses in accordance with this Regulation.
+
+The open public consultations referred to in Articles 10, 15, 16 and 16a shall be conducted as widely as possible to ensure an inclusive approach towards all interested parties and shall allow reasonable time for stakeholders to respond. The Authority shall publish a summary of the input received from stakeholders and an overview of how information and views gathered from the consultation were used in a draft regulatory technical standard and a draft implementing technical standard.
+
+<a id="art_9"></a>
+
+### Article 9 — Tasks related to consumer protection and financial activities
+
+**1.** The Authority shall take a leading role in promoting transparency, simplicity and fairness in the market for consumer financial products or services across the internal market, including by:▼M2(a) collecting, analysing and reporting on consumer trends, such as the development of costs and charges of retail financial services and products in Member States;▼M2(aa) undertaking in-depth thematic reviews of market conduct, building a common understanding of markets practices in order to identify potential problems and analyse their impact;(ab) developing retail risk indicators for the timely identification of potential causes of consumer and investor harm;▼B(b) reviewing and coordinating financial literacy and education initiatives by the competent authorities;(c) developing training standards for the industry; and(d) contributing to the development of common disclosure rules;▼M2(e) contributing to a level playing field in the internal market where consumers and other users of financial services have fair access to financial services and products; and(f) coordinating mystery shopping activities of competent authorities, if applicable.
+
+**2.** The Authority shall monitor new and existing financial activities and may adopt guidelines and recommendations with a view to promoting the safety and soundness of markets, and convergence and effectiveness of regulatory and supervisory practices.
+
+**3.** The Authority may also issue warnings in the event that a financial activity poses a serious threat to the objectives laid down in Article 1(6).
+
+**4.** The Authority shall establish, as an integral part thereof, a Committee on consumer protection and financial innovation, which brings together all relevant competent authorities and authorities responsible for consumer protection with a view to enhancing consumer protection, achieving a coordinated approach to the regulatory and supervisory treatment of new or innovative financial activities, and providing advice for the Authority to present to the European Parliament, to the Council and to the Commission. The Authority shall closely cooperate with the European Data Protection Board established by Regulation (EU) 2016/679 of the European Parliament and of the Council (5) to avoid duplication, inconsistencies and legal uncertainty in the sphere of data protection. The Authority may also invite national data protection authorities as observers in the Committee.
+
+**5.** The Authority may temporarily prohibit or restrict the marketing, distribution or sale of certain financial products, instruments or activities that have the potential to cause significant financial damage to customers or consumers, or threaten the orderly functioning and integrity of financial markets or the stability of the whole or part of the financial system in the Union in the cases specified, and under the conditions laid down, in the legislative acts referred to in Article 1(2), or, if so required, in the case of an emergency situation in accordance with, and under the conditions laid down in, Article 18.
+
+The Authority shall review the decision referred to in the first subparagraph at appropriate intervals and at least every six months. Following at least two consecutive renewals, and based on proper analysis which aims to assess the impact on the customer or consumer, the Authority may decide on the annual renewal of the prohibition.
+
+A Member State may request the Authority to reconsider its decision. In that case, the Authority shall decide, in accordance with the procedure set out in the second subparagraph of Article 44(1), whether to maintain that decision.
+
+The Authority may also assess the need to prohibit or restrict certain types of financial activity or practice and, where there is such a need, inform the Commission and the competent authorities in order to facilitate the adoption of any such prohibition or restriction.
+
+<a id="art_9a"></a>
+
+### Article 9a — No action letters
+
+**1.** The Authority shall take the measures referred to in paragraph 2 of this Article only in exceptional circumstances when it considers that the application of one of the legislative acts referred to in Article 1(2), or of any delegated or implementing acts based on those legislative acts, is liable to raise significant issues, for one of the following reasons:(a) the Authority considers that provisions contained in such act may directly conflict with another relevant act;(b) where the act is one of the legislative acts referred to in Article 1(2), the absence of delegated or implementing acts that would complement or specify the act in question would raise legitimate doubts concerning the legal consequences flowing from the legislative act or its proper application,(c) the absence of guidelines and recommendations as referred to in Article 16 would raise practical difficulties concerning the application of the relevant legislative act.
+
+**2.** In the cases referred to in paragraph 1, the Authority shall send a detailed account in writing to the competent authorities and the Commission of the issues it considers to exist.
+
+In the cases referred to in points (a) and (b) of paragraph 1, the Authority shall provide the Commission with an opinion on any action it considers appropriate, in the form of a new legislative proposal or a proposal for a new delegated or implementing act, and on the urgency that, in the Authority’s judgment, is attached to the issue. The Authority shall make its opinion public.
+
+In the case referred to in point (c) of paragraph 1 of this Article, the Authority shall evaluate as soon as possible the need to adopt relevant guidelines or recommendations in accordance with Article 16.
+
+The Authority shall act expeditiously, in particular with a view to contributing to the prevention of the issues referred to in paragraph 1, whenever possible.
+
+**3.** Where necessary in the cases referred to in paragraph 1, and pending the adoption and application of new measures following the steps referred to in paragraph 2, the Authority shall issue opinions regarding specific provisions of the acts referred to in paragraph 1 with a view to furthering consistent, efficient and effective supervisory and enforcement practices, and the common, uniform and consistent application of Union law.
+
+**4.** Where, on the basis of information received, in particular from competent authorities, the Authority considers that any of the legislative acts referred to in Article 1(2), or any delegated or implementing act based on those legislative acts, raises significant exceptional issues pertaining to market confidence, consumer, customer or investor protection, the orderly functioning and integrity of financial markets or commodity markets, or the stability of the whole or part of the financial system in the Union, it shall without undue delay send a detailed account in writing to the competent authorities and the Commission of the issues it considers to exist. The Authority may provide the Commission with an opinion on any action it considers appropriate, in the form of a new legislative proposal or a proposal for a new delegated or implementing act, and on the urgency of the issue. The Authority shall make its opinion public.
+
+<a id="art_10"></a>
+
+### Article 10 — Regulatory technical standards
+
+**1.** Where the European Parliament and the Council delegate power to the Commission to adopt regulatory technical standards by means of delegated acts pursuant to Article 290 TFEU in order to ensure consistent harmonisation in the areas specifically set out in the legislative acts referred to in Article 1(2) of this Regulation, the Authority may develop draft regulatory technical standards. The Authority shall submit its draft regulatory technical standards to the Commission for adoption. At the same time, the Authority shall forward those draft regulatory technical standards for information to the European Parliament and to the Council.▼BRegulatory technical standards shall be technical, shall not imply strategic decisions or policy choices and their content shall be delimited by the legislative acts on which they are based.▼M2Before submitting them to the Commission, the Authority shall conduct open public consultations on draft regulatory technical standards and shall analyse the potential related costs and benefits, unless such consultations and analyses are highly disproportionate in relation to the scope and impact of the draft regulatory technical standards concerned or in relation to the particular urgency of the matter. The Authority shall also request the advice of the relevant Stakeholder Group referred to in Article 37.▼M2 —————▼M2Within three months of receipt of a draft regulatory technical standard, the Commission shall decide whether to adopt it. The Commission shall inform the European Parliament and the Council in due time where the adoption cannot take place within the three-month period. The Commission may adopt the draft regulatory technical standard in part only, or with amendments, where the Union’s interests so require.Where the Commission intends not to adopt a draft regulatory technical standard or to adopt it in part or with amendments, it shall send the draft regulatory technical standard back to the Authority, explaining why it does not adopt it, or explaining the reasons for its amendments. The Commission shall send a copy of its letter to the European Parliament and to the Council. Within a period of six weeks, the Authority may amend the draft regulatory technical standard on the basis of the Commission’s proposed amendments and resubmit it in the form of a formal opinion to the Commission. The Authority shall send a copy of its formal opinion to the European Parliament and to the Council.▼BIf, on the expiry of that six-week period, the Authority has not submitted an amended draft regulatory technical standard, or has submitted a draft regulatory technical standard that is not amended in a way consistent with the Commission’s proposed amendments, the Commission may adopt the regulatory technical standard with the amendments it considers relevant or reject it.The Commission may not change the content of a draft regulatory technical standard prepared by the Authority without prior coordination with the Authority, as set out in this Article.
+
+**2.** Where the Authority has not submitted a draft regulatory technical standard within the time limit set out in the legislative acts referred to in Article 1(2), the Commission may request such a draft within a new time limit. The Authority shall inform the European Parliament, the Council and the Commission, in due time, that it will not comply with the new time limit.
+
+**3.** Only where the Authority does not submit a draft regulatory technical standard to the Commission within the time limits in accordance with paragraph 2, may the Commission adopt a regulatory technical standard by means of a delegated act without a draft from the Authority.▼M2The Commission shall conduct open public consultations on draft regulatory technical standards and analyse the potential related costs and benefits, unless such consultations and analyses are disproportionate in relation to the scope and impact of the draft regulatory technical standards concerned or in relation to the particular urgency of the matter. The Commission shall also request the advice of the relevant Stakeholder Group referred to in Article 37.▼BThe Commission shall immediately forward the draft regulatory technical standard to the European Parliament and the Council.The Commission shall send its draft regulatory technical standard to the Authority. Within a period of 6 weeks, the Authority may amend the draft regulatory technical standard and submit it in the form of a formal opinion to the Commission. The Authority shall send a copy of its formal opinion to the European Parliament and to the Council.If, on the expiry of the six-week period referred to in the fourth subparagraph, the Authority has not submitted an amended draft regulatory technical standard, the Commission may adopt the regulatory technical standard.If the Authority has submitted an amended draft regulatory technical standard within the six-week period, the Commission may amend the draft regulatory technical standard on the basis of the Authority’s proposed amendments or adopt the regulatory technical standard with the amendments it considers relevant. The Commission shall not change the content of the draft regulatory technical standard prepared by the Authority without prior coordination with the Authority, as set out in this Article.
+
+**4.** The regulatory technical standards shall be adopted by means of regulations or decisions. The words ‘regulatory technical standard’ shall appear in the title of such regulations or decisions. Those standards shall be published in the *Official Journal of the European Union* and shall enter into force on the date stated therein.
+
+<a id="art_11"></a>
+
+### Article 11 — Exercise of the delegation
+
+**1.** The power to adopt regulatory technical standards referred to in Article 10 shall be conferred on the Commission for a period of four years from 16 December 2010. The Commission shall draw up a report in respect of the delegated power not later than 6 months before the end of the four-year period. The delegation of power shall be automatically extended for periods of an identical duration, unless the European Parliament or the Council revokes it in accordance with Article 14.
+
+**2.** As soon as it adopts a regulatory technical standard, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+**3.** The power to adopt regulatory technical standards is conferred on the Commission subject to the conditions laid down in Articles 12 to 14.
+
+<a id="art_12"></a>
+
+### Article 12 — Revocation of the delegation
+
+**1.** The delegation of power referred to in Article 10 may be revoked at any time by the European Parliament or by the Council.
+
+**2.** The institution which has commenced an internal procedure for deciding whether to revoke a delegation of power shall endeavour to inform the other institution and the Commission within a reasonable time before the final decision is taken, indicating the delegated power which could be subject to revocation.
+
+**3.** The decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect immediately or at a later date specified therein. It shall not affect the validity of the regulatory technical standards already in force. It shall be published in the *Official Journal of the European Union*.
+
+<a id="art_13"></a>
+
+### Article 13 — Objections to regulatory technical standards
+
+**1.** The European Parliament or the Council may object to a regulatory technical standard within a period of three months from the date of notification of the regulatory technical standard adopted by the Commission. At the initiative of the European Parliament or of the Council that period shall be extended by three months.
+
+**2.** If, on the expiry of the period referred to in paragraph 1, neither the European Parliament nor the Council has objected to the regulatory technical standard, it shall be published in the *Official Journal of the European Union* and shall enter into force on the date stated therein. The regulatory technical standard may be published in the *Official Journal of the European Union* and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.
+
+**3.** If either the European Parliament or the Council objects to a regulatory technical standard within the period referred to in paragraph 1, it shall not enter into force. In accordance with Article 296 TFEU, the institution which objects shall state the reasons for objecting to the regulatory technical standard.
+
+<a id="art_14"></a>
+
+### Article 14 — Non-endorsement or amendment of draft regulatory technical standards
+
+**1.** In the event that the Commission does not endorse a draft regulatory technical standard or amends it as provided for in Article 10, the Commission shall inform the Authority, the European Parliament and the Council, stating its reasons.
+
+**2.** Where appropriate, the European Parliament or the Council may invite the responsible Commissioner, together with the Chairperson of the Authority, within 1 month of the notice referred to in paragraph 1, for an ad hoc meeting of the competent committee of the European Parliament or the Council to present and explain their differences.
+
+<a id="art_15"></a>
+
+### Article 15 — Implementing technical standards
+
+**1.** Where the European Parliament and the Council confer implementing powers on the Commission to adopt implementing technical standards by means of implementing acts pursuant to Article 291 TFEU, in the areas specifically set out in the legislative acts referred to in Article 1(2) of this Regulation, the Authority may develop draft implementing technical standards. Implementing technical standards shall be technical, shall not imply strategic decisions or policy choices and their content shall be to determine the conditions of application of those acts. The Authority shall submit its draft implementing technical standards to the Commission for adoption. At the same time, the Authority shall forward those technical standards for information to the European Parliament and to the Council.
+
+Before submitting draft implementing technical standards to the Commission, the Authority shall conduct open public consultations and shall analyse the potential related costs and benefits, unless such consultations and analyses are highly disproportionate in relation to the scope and impact of the draft implementing technical standards concerned or in relation to the particular urgency of the matter. The Authority shall also request the advice of the relevant Stakeholder Group referred to in Article 37.
+
+Within three months of receipt of a draft implementing technical standard, the Commission shall decide whether to adopt it. The Commission may extend that period by one month. The Commission shall inform the European Parliament and the Council in due time where the adoption cannot take place within the three-month period. The Commission may adopt the draft implementing technical standard in part only, or with amendments, where the Union’s interests so require.
+
+Where the Commission intends not to adopt a draft implementing technical standard or intends to adopt it in part or with amendments, it shall send it back to the Authority explaining why it does not intend to adopt it, or explaining the reasons for its amendments. The Commission shall send a copy of its letter to the European Parliament and to the Council. Within a period of six weeks, the Authority may amend the draft implementing technical standard on the basis of the Commission’s proposed amendments and resubmit it in the form of a formal opinion to the Commission. The Authority shall send a copy of its formal opinion to the European Parliament and to the Council.
+
+If, on the expiry of the six-week period referred to in the fourth subparagraph, the Authority has not submitted an amended draft implementing technical standard, or has submitted a draft implementing technical standard that is not amended in a way consistent with the Commission’s proposed amendments, the Commission may adopt the implementing technical standard with the amendments it considers relevant or reject it.
+
+The Commission shall not change the content of a draft implementing technical standard prepared by the Authority without prior coordination with the Authority, as set out in this Article.
+
+**2.** Where the Authority has not submitted a draft implementing technical standard within the time limit set out in the legislative acts referred to in Article 1(2), the Commission may request such a draft within a new time limit. The Authority shall inform the European Parliament, the Council and the Commission, in due time, that it will not comply with the new time limit.
+
+**3.** Only where the Authority does not submit a draft implementing technical standard to the Commission within the time limits in accordance with paragraph 2, may the Commission adopt an implementing technical standard by means of an implementing act without a draft from the Authority.▼M2The Commission shall conduct open public consultations on draft implementing technical standards and analyse the potential related costs and benefits, unless such consultations and analyses are disproportionate in relation to the scope and impact of the draft implementing technical standards concerned or in relation to the particular urgency of the matter. The Commission shall also request the advice of the relevant Stakeholder Group referred to in Article 37.▼BThe Commission shall immediately forward the draft implementing technical standard to the European Parliament and the Council.The Commission shall send the draft implementing technical standard to the Authority. Within a period of 6 weeks, the Authority may amend the draft implementing technical standard and submit it in the form of a formal opinion to the Commission. The Authority shall send a copy of its formal opinion to the European Parliament and to the Council.If, on the expiry of the six-week period referred to in the fourth subparagraph, the Authority has not submitted an amended draft implementing technical standard, the Commission may adopt the implementing technical standard.If the Authority has submitted an amended draft implementing technical standard within that six-week period, the Commission may amend the draft implementing technical standard on the basis of the Authority’s proposed amendments or adopt the implementing technical standard with the amendments it considers relevant.The Commission shall not change the content of the draft implementing technical standards prepared by the Authority without prior coordination with the Authority, as set out in this Article.
+
+**4.** The implementing technical standards shall be adopted by means of regulations or decisions. The words ‘implementing technical standard’ shall appear in the title of such regulations or decisions. Those standards shall be published in the *Official Journal of the European Union* and shall enter into force on the date stated therein.
+
+<a id="art_16"></a>
+
+### Article 16 — Guidelines and recommendations
+
+**1.** The Authority shall, with a view to establishing consistent, efficient and effective supervisory practices within the ESFS, and to ensuring the common, uniform and consistent application of Union law, issue guidelines addressed to all competent authorities or all financial institutions and issue recommendations to one or more competent authorities or to one or more financial institutions.
+
+Guidelines and recommendations shall be in accordance with the empowerments conferred in the legislative acts referred to in Article 1(2) or in this Article.
+
+**2.** The Authority shall, where appropriate, conduct open public consultations regarding the guidelines and recommendations which it issues and analyse the related potential costs and benefits of issuing such guidelines and recommendations. Those consultations and analyses shall be proportionate in relation to the scope, nature and impact of the guidelines or recommendations. The Authority shall, where appropriate, also request advice from the Insurance and Reinsurance Stakeholder Group and of the Occupational Pensions Stakeholder Group referred to in Article 37. Where the Authority does not conduct open public consultations or does not request advice from the Insurance and Reinsurance Stakeholder Group and of the Occupational Pensions Stakeholder Group, the Authority shall provide reasons.
+
+**2a.** Guidelines and recommendations shall not merely refer to, or reproduce, elements of legislative acts. Before issuing a new guideline or recommendation, the Authority shall first review existing guidelines and recommendations, in order to avoid any duplication.
+
+**3.** The competent authorities and financial institutions shall make every effort to comply with those guidelines and recommendations.Within 2 months of the issuance of a guideline or recommendation, each competent authority shall confirm whether it complies or intends to comply with that guideline or recommendation. In the event that a competent authority does not comply or does not intend to comply, it shall inform the Authority, stating its reasons.The Authority shall publish the fact that a competent authority does not comply or does not intend to comply with that guideline or recommendation. The Authority may also decide, on a case-by-case basis, to publish the reasons provided by the competent authority for not complying with that guideline or recommendation. The competent authority shall receive advanced notice of such publication.If required by that guideline or recommendation, financial institutions shall report, in a clear and detailed way, whether they comply with that guideline or recommendation.
+
+**4.** In the report referred to in Article 43(5), the Authority shall inform the European Parliament, the Council and the Commission of the guidelines and recommendations that have been issued.
+
+<a id="art_16a"></a>
+
+### Article 16a — Opinions
+
+**1.** The Authority may, upon a request from the European Parliament, from the Council or from the Commission, or on its own initiative, provide opinions to the European Parliament, to the Council and to the Commission on all issues related to its area of competence.
+
+**2.** The request referred to in paragraph 1 may include a public consultation or a technical analysis.
+
+**3.** With regard to the prudential assessment of mergers and acquisitions falling within the scope of Directive 2009/138/EC and which, according to that Directive, require consultation between competent authorities from two or more Member States, the Authority may, at the request of one of the competent authorities concerned, issue and publish an opinion on a prudential assessment, except in relation to the criteria set out in point (e) of Article 59(1) of Directive 2009/138/EC. The opinion shall be issued promptly and, in any event, before the end of the assessment period in accordance with Directive 2009/138/EC.
+
+**4.** The Authority may, upon a request from the European Parliament, from the Council or from the Commission provide technical advice to the European Parliament, the Council and the Commission in the areas set out in the legislative acts referred to in Article 1(2).
+
+<a id="art_16b"></a>
+
+### Article 16b — Questions and answers
+
+**1.** Without prejudice to paragraph 5 of this Article, questions relating to the practical application or implementation of the provisions of legislative acts referred to in Article 1(2), associated delegated and implementing acts, and guidelines and recommendations, adopted pursuant to those legislative acts, may be submitted by any natural or legal person, including competent authorities and Union institutions and bodies, to the Authority in any official language of the Union.
+
+Before submitting a question to the Authority, financial institutions shall consider whether to address the question in the first place to their competent authority.
+
+Before publishing answers to admissible questions, the Authority may seek further clarification on questions asked by the natural or legal person referred to in this paragraph.
+
+**2.** Answers by the Authority to questions as referred to in paragraph 1 shall be non-binding. Answers shall be made available at least in the language in which the question was submitted.
+
+**3.** The Authority shall establish and maintain a web-based tool available on its website for the submission of questions and the timely publication of all questions received as well as all answers to all admissible questions pursuant to paragraph 1, unless such publication is in conflict with the legitimate interest of those persons or would involve risks to the stability of the financial system. The Authority may reject questions it does not intend to answer. Rejected questions shall be published by the Authority on its website for a period of two months.
+
+**4.** Three voting members of the Board of Supervisors may request the Board of Supervisors to decide pursuant to Article 44 whether to address the issue of the admissible question referred to in paragraph 1 of this Article in guidelines pursuant to Article 16, to request advice from the Stakeholder Group referred to in Article 37, to review questions and answers at appropriate intervals, to conduct open public consultations or to analyse potential related costs and benefits. Such consultations and analyses shall be proportionate in relation to the scope, nature and impact of the draft questions and answers concerned or in relation to the particular urgency of the matter. When involving the Stakeholder Group referred to in Article 37, a duty of confidentiality shall apply.
+
+**5.** The Authority shall forward questions that require the interpretation of Union law to the Commission. The Authority shall publish any answers provided by the Commission.
+
+<a id="art_17"></a>
+
+### Article 17 — Breach of Union law
+
+**1.** Where a competent authority has not applied the acts referred to in Article 1(2) or has applied them in a way which appears to be a breach of Union law, including the regulatory technical standards and implementing technical standards established in accordance with Articles 10 to 15, in particular by failing to ensure that a financial institution satisfies the requirements laid down in those acts, the Authority shall act in accordance with the powers set out in paragraphs 2, 3 and 6 of this Article.
+
+**2.** Upon request from one or more competent authorities, the European Parliament, the Council, the Commission, the relevant Stakeholder Group, or on its own initiative, including when this is based on well substantiated information from natural or legal persons, and after having informed the competent authority concerned, the Authority shall outline how it intends to proceed with the case and, where appropriate, investigate the alleged breach or non-application of Union law.▼M1Without prejudice to the powers laid down in Article 35, the competent authority shall, without delay, provide the Authority with all information which the Authority considers necessary for its investigation, including with regard to how the acts referred to in Article 1(2) are applied in accordance with Union law.▼M2Without prejudice to the powers laid down in Article 35, the Authority may, after having informed the competent authority concerned, address a duly justified and reasoned request for information directly to other competent authorities whenever requesting information from the competent authority concerned has proven, or is deemed to be, insufficient to obtain the information that is deemed necessary for the purpose of investigating an alleged breach or non-application of Union law.The addressee of such a request shall provide the Authority with clear, accurate and complete information without undue delay.
+
+**2a.** Without prejudice to powers under this Regulation, and before issuing a recommendation as set out in paragraph 3, the Authority shall engage with the competent authority concerned where it considers such engagement appropriate in order to resolve a breach of Union law, in an attempt to reach agreement on actions necessary for the competent authority to comply with Union law.
+
+**3.** The Authority may, not later than 2 months from initiating its investigation, address a recommendation to the competent authority concerned setting out the action necessary to comply with Union law.The competent authority shall, within ten working days of receipt of the recommendation, inform the Authority of the steps it has taken or intends to take to ensure compliance with Union law.
+
+**4.** Where the competent authority has not complied with Union law within 1 month from receipt of the Authority’s recommendation, the Commission may, after having been informed by the Authority, or on its own initiative, issue a formal opinion requiring the competent authority to take the action necessary to comply with Union law. The Commission’s formal opinion shall take into account the Authority’s recommendation.The Commission shall issue such a formal opinion no later than 3 months after the adoption of the recommendation. The Commission may extend this period by 1 month.The Authority and the competent authorities shall provide the Commission with all necessary information.
+
+**5.** The competent authority shall, within ten working days of receipt of the formal opinion referred to in paragraph 4, inform the Commission and the Authority of the steps it has taken or intends to take to comply with that formal opinion.
+
+**6.** Without prejudice to the powers of the Commission pursuant to Article 258 TFEU, where a competent authority does not comply with the formal opinion referred to in paragraph 4 of this Article within the period specified therein, and where it is necessary to remedy in a timely manner such non-compliance in order to maintain or restore neutral conditions of competition in the market or ensure the orderly functioning and integrity of the financial system, the Authority may, where the relevant requirements of the legislative acts referred to in Article 1(2) of this Regulation are directly applicable to financial institutions, adopt an individual decision addressed to a financial institution requiring it to take all necessary action to comply with its obligations under Union law, including the cessation of any practice.
+
+The decision of the Authority shall be in conformity with the formal opinion issued by the Commission pursuant to paragraph 4.
+
+**7.** Decisions adopted in accordance with paragraph 6 shall prevail over any previous decision adopted by the competent authorities on the same matter.
+
+When taking action in relation to issues which are subject to a formal opinion pursuant to paragraph 4 or to a decision pursuant to paragraph 6, competent authorities shall comply with the formal opinion or the decision, as the case may be.
+
+**8.** In the report referred to in Article 43(5), the Authority shall set out which competent authorities and financial institutions have not complied with the formal opinions or decisions referred to in paragraphs 4 and 6 of this Article.
+
+<a id="art_17a"></a>
+
+### Article 17a — Protection of reporting persons
+
+**1.** The Authority shall have in place dedicated reporting channels for receiving and handling information provided by a natural or legal person reporting on actual or potential breaches, abuse of law, or non-application of Union law.
+
+**2.** The natural or legal persons reporting through those channels shall be protected against retaliation in accordance with Directive (EU) 2019/1937 of the European Parliament and of the Council (6), where applicable.
+
+**3.** The Authority shall ensure that all information may be submitted anonymously or confidentially, and safely. Where the Authority deems that the submitted information contains evidence or significant indications of a material breach, it shall provide feedback to the reporting person.
+
+<a id="art_18"></a>
+
+### Article 18 — Action in emergency situations
+
+**1.** In the case of adverse developments which may seriously jeopardise the orderly functioning and integrity of financial markets or the stability of the whole or part of the financial system in the Union, the Authority shall actively facilitate and, where deemed necessary, coordinate any actions undertaken by the relevant national competent supervisory authorities.In order to be able to perform that facilitating and coordinating role, the Authority shall be fully informed of any relevant developments, and shall be invited to participate as an observer in any relevant gathering by the relevant national competent supervisory authorities.
+
+**2.** The Council, in consultation with the Commission and the ESRB and, where appropriate, the ESAs, may adopt a decision addressed to the Authority, determining the existence of an emergency situation for the purposes of this Regulation, following a request by the Authority, the Commission or the ESRB. The Council shall review that decision at appropriate intervals and at least once a month. If the decision is not renewed at the end of a one-month period, it shall automatically expire. The Council may declare the discontinuation of the emergency situation at any time.Where the ESRB or the Authority considers that an emergency situation may arise, it shall issue a confidential recommendation addressed to the Council and provide it with an assessment of the situation. The Council shall then assess the need for a meeting. In that process, due care of confidentiality shall be guaranteed.If the Council determines the existence of an emergency situation, it shall duly inform the European Parliament and the Commission without delay.
+
+**3.** Where the Council has adopted a decision pursuant to paragraph 2 of this Article and, in exceptional circumstances, where coordinated action by competent authorities is necessary to respond to adverse developments which may seriously jeopardise the orderly functioning and integrity of financial markets or the stability of the whole or part of the financial system in the Union, or customer and consumer protection, the Authority may adopt individual decisions requiring competent authorities to take the necessary action in accordance with the legislative acts referred to in Article 1(2) to address any such developments by ensuring that financial institutions and competent authorities satisfy the requirements laid down in those legislative acts.
+
+**4.** Without prejudice to the powers of the Commission under Article 258 TFEU, where a competent authority does not comply with the decision of the Authority referred to in paragraph 3 within the period laid down in that decision, the Authority may, where the relevant requirements laid down in the legislative acts referred to in Article 1(2) including in regulatory technical standards and implementing technical standards adopted in accordance with those acts are directly applicable to financial institutions, adopt an individual decision addressed to a financial institution requiring the necessary action to comply with its obligations under that legislation, including the cessation of any practice. This shall apply only in situations in which a competent authority does not apply the legislative acts referred to in Article 1(2), including regulatory technical standards and implementing technical standards adopted in accordance with those acts, or applies them in a way which appears to be a manifest breach of those acts, and where urgent remedying is necessary to restore the orderly functioning and integrity of financial markets or the stability of the whole or part of the financial system in the Union.
+
+**5.** Decisions adopted under paragraph 4 shall prevail over any previous decision adopted by the competent authorities on the same matter.Any action by the competent authorities in relation to issues which are subject to a decision pursuant to paragraph 3 or 4 shall be compatible with those decisions.
+
+<a id="art_19"></a>
+
+### Article 19 — Settlement of disagreements between competent authorities in cross-border situations
+
+**1.** In cases specified in the legislative acts referred to in Article 1(2) and without prejudice to the powers laid down in Article 17, the Authority may assist the competent authorities in reaching an agreement in accordance with the procedure set out in paragraphs 2 to 4 of this Article in either of the following circumstances:(a) at the request of one or more of the competent authorities concerned where a competent authority disagrees with the procedure or content of an action, proposed action, or inactivity of another competent authority;(b) in cases where the legislative acts referred to in Article 1(2) provide that the Authority may assist, on its own initiative, where on the basis of objective reasons, disagreement can be determined between competent authorities.
+
+In cases where the legislative acts referred to in Article 1(2) require a joint decision to be taken by competent authorities, and where in accordance with those acts the Authority may assist, on its own initiative in reaching an agreement in accordance with the procedure set out in paragraphs 2 to 4 of this Article, the competent authorities concerned, a disagreement shall be presumed in the absence of a joint decision being taken by those authorities within the time limits set out in those acts.
+
+**1a.** The competent authorities concerned shall, in the following cases, notify the Authority without undue delay that an agreement has not been reached:(a) where a time limit for reaching an agreement between competent authorities has been provided for in the legislative acts referred to in Article 1(2), and either of the following occurs:(i) the time limit has expired; or(ii) at least two competent authorities concerned conclude that a disagreement exists, on the basis of objective reasons;(b) where no time limit for reaching an agreement between competent authorities has been provided for in the legislative acts referred to in Article 1(2), and either of the following occurs:(i) at least two competent authorities concerned conclude that a disagreement exists on the basis of objective reasons; or(ii) two months have elapsed from the date of receipt by a competent authority of a request from another competent authority to take certain action in order to comply with those acts and the requested authority has not yet adopted a decision that satisfies the request.
+
+**1b.** The Chairperson shall assess whether the Authority should act in accordance with paragraph 1. Where the intervention is at the Authority’s own initiative, the Authority shall notify the competent authorities concerned of its decision regarding the intervention.
+
+Pending the Authority’s decision in accordance with the procedure set out in Article 44(4), in cases where the legislative acts referred to in Article 1(2) require a joint decision to be taken, all competent authorities involved in the joint decision shall defer their individual decisions. Where the Authority decides to act, all the competent authorities involved in the joint decision shall defer their decisions until the procedure set out in paragraphs 2 and 3 of this Article is concluded.
+
+**2.** The Authority shall set a time limit for conciliation between the competent authorities taking into account any relevant time periods specified in the acts referred to in Article 1(2) and the complexity and urgency of the matter. At that stage the Authority shall act as a mediator.
+
+**3.** Where the competent authorities concerned fail to reach an agreement within the conciliation phase referred to in paragraph 2, the Authority may take a decision requiring those authorities to take specific action, or to refrain from certain action, in order to settle the matter, and to ensure compliance with Union law. The decision of the Authority shall be binding on the competent authorities concerned. The Authority’s decision may require competent authorities to revoke or amend a decision that they have adopted or to make use of the powers which they have under the relevant Union law.
+
+**3a.** The Authority shall notify the competent authorities concerned of the conclusion of the procedures under paragraphs 2 and 3 together with, where applicable, its decision taken under paragraph 3.
+
+**4.** Without prejudice to the powers of the Commission pursuant to Article 258 TFEU, where a competent authority does not comply with the decision of the Authority, and thereby fails to ensure that a financial institution complies with requirements directly applicable to it by virtue of the legislative acts referred to in Article 1(2) of this Regulation, the Authority may adopt an individual decision addressed to that financial institution requiring it to take all necessary action to comply with its obligations under Union law, including the cessation of any practice.
+
+**5.** Decisions adopted under paragraph 4 shall prevail over any previous decision adopted by the competent authorities on the same matter. Any action by the competent authorities in relation to facts which are subject to a decision pursuant to paragraph 3 or 4 shall be compatible with those decisions.
+
+**6.** In the report referred to in Article 50(2), the Chairperson of the Authority shall set out the nature and type of disagreements between competent authorities, the agreements reached and the decisions taken to settle such disagreements.
+
+<a id="art_20"></a>
+
+### Article 20 — Settlement of disagreements between competent authorities across sectors
+
+The Joint Committee shall, in accordance with the procedure laid down in Article 19 and Article 56, settle cross-sectoral disagreements that may arise between competent authorities as defined in Article 4(2) of this Regulation, of Regulation (EU) No 1093/2010 and of Regulation (EU) No 1095/2010 respectively.
+
+<a id="art_21"></a>
+
+### Article 21 — Colleges of supervisors
+
+**1.** The Authority shall, promote and monitor within the scope of its powers, the efficient, effective and consistent functioning of the colleges of supervisors where established by legislative acts referred to in Article 1(2) and foster the consistency and coherence of the application of Union law among the colleges of supervisors. With the objective of converging supervisory best practices, the Authority shall promote joint supervisory plans and joint examinations, and staff from the Authority shall have full participation rights in the colleges of supervisors and, as such, shall be able to participate in the activities of the colleges of supervisors, including on-site inspections, carried out jointly by two or more competent authorities.
+
+**2.** The Authority shall lead in ensuring a consistent and coherent functioning of colleges of supervisors for cross-border institutions across the Union, taking account of the systemic risk posed by financial institutions referred to in Article 23, and shall, where appropriate, convene a meeting of a college of supervisors.▼BFor the purpose of this paragraph and of paragraph 1 of this Article, the Authority shall be considered a ‘competent authority’ within the meaning of the relevant legislation.The Authority may:(a) collect and share all relevant information in cooperation with the competent authorities in order to facilitate the work of the college and establish and manage a central system to make such information accessible to the competent authorities in the college;▼M2(b) initiate and coordinate Union-wide stress tests in accordance with Article 32 to assess the resilience of financial institutions, in particular the systemic risk posed by financial institutions as referred to in Article 23, to adverse market developments, and evaluate the potential for systemic risk to increase in situations of stress, ensuring that a consistent methodology is applied at national level to such tests and, where appropriate, address a recommendation to the competent authority to correct issues identified in the stress test, including a recommendation to conduct specific assessments; it may recommend competent authorities to carry out on-site inspections, and may participate in such on-site inspections, in order to ensure comparability and reliability of methods, practices and results of Union-wide assessments;▼B(c) promote effective and efficient supervisory activities, including evaluating the risks to which financial institutions are or might be exposed as determined under the supervisory review process or in stress situations;(d) oversee, in accordance with the tasks and powers specified in this Regulation, the tasks carried out by the competent authorities; and(e) request further deliberations of a college in any cases where it considers that the decision would result in an incorrect application of Union law or would not contribute to the objective of convergence of supervisory practices. It may also require the group supervisor to schedule a meeting of the college or add a point to the agenda of a meeting.
+
+**3.** The Authority may develop draft regulatory and implementing technical standards in accordance with the empowerments laid down in the legislative acts referred to in Article 1(2), and in accordance with Articles 10 to 15, to ensure uniform conditions of application with respect to the provisions regarding the operational functioning of colleges of supervisors. The Authority may issue guidelines and recommendations in accordance with Article 16 to promote convergence in supervisory functioning and best practices that have been adopted by the colleges of supervisors.
+
+**4.** The Authority shall have a legally binding mediation role to resolve disputes between competent authorities in accordance with the procedure set out in Article 19. The Authority may take supervisory decisions directly applicable to the institution concerned in accordance with Article 19.
+
+<a id="art_22"></a>
+
+### Article 22 — General provisions on systemic risk
+
+**1.** The Authority shall duly consider systemic risk as defined by Regulation (EU) No 1092/2010. It shall address any risk of disruption in financial services that:(a) is caused by an impairment of all or parts of the financial system; and(b) has the potential to have serious negative consequences for internal market and the real economy.The Authority shall consider, where appropriate, the monitoring and assessment of systemic risk as developed by the ESRB and the Authority and respond to warnings and recommendations by the ESRB in accordance with Article 17 of Regulation (EU) No 1092/2010.
+
+**2.** The Authority shall, in collaboration with the ESRB, and in accordance with Article 23, develop a common approach to the identification and measurement of systemic importance, including quantitative and qualitative indicators as appropriate.▼BThese indicators shall be a critical element in the determination of appropriate supervisory actions. The Authority shall monitor the degree of convergence in the determinations made, with a view to promoting a common approach.
+
+**3.** Without prejudice to the acts referred to in Article 1(2), the Authority shall draw up, as necessary, additional guidelines and recommendations for financial institutions, to take account of the systemic risk posed by them.The Authority shall ensure that the systemic risk posed by financial institutions is taken into account when developing draft regulatory and implementing technical standards in the areas laid down in the legislative acts referred to in Article 1(2).
+
+**4.** Upon request from one or more competent authorities, the European Parliament, the Council or the Commission, or on its own initiative, the Authority may conduct an inquiry into a particular type of financial institution or type of product or type of conduct in order to assess potential threats to the stability of the financial system or to the protection of customers or consumers.
+
+Following an inquiry conducted pursuant to the first subparagraph, the Board of Supervisors may make appropriate recommendations for action to the competent authorities concerned.
+
+For those purposes, the Authority may use the powers conferred on it under this Regulation, including Article 35.
+
+**5.** The Joint Committee shall ensure overall and cross-sectoral coordination of the activities carried out in accordance with this Article.
+
+<a id="art_23"></a>
+
+### Article 23 — Identification and measurement of systemic risk
+
+**1.** The Authority shall, in consultation with the ESRB, develop criteria for the identification and measurement of systemic risk and an adequate stress-testing regime which includes an evaluation of the potential for systemic risk posed by, or to, financial market participants to increase in situations of stress, including potential environmental-related systemic risk. The financial market participants that may pose a systemic risk shall be subject to strengthened supervision, and where necessary, the recovery and resolution procedures referred to in Article 25.
+
+**2.** The Authority shall take fully into account the relevant international approaches when developing the criteria for the identification and measurement of systemic risk that may be posed by insurance, re-insurance and occupational pensions institutions, including those established by the Financial Stability Board, the International Monetary Fund, the International Association of Insurance Supervisors and the Bank for International Settlements.
+
+<a id="art_24"></a>
+
+### Article 24 — Permanent capacity to respond to systemic risks
+
+**1.** The Authority shall ensure it has specialised and ongoing capacity to respond effectively to the materialisation of systemic risks as referred to in Articles 22 and 23, in particular with respect to institutions that pose a systemic risk.
+
+**2.** The Authority shall fulfil the tasks conferred upon it in this Regulation and in the legislation referred to in Article 1(2), and shall contribute to ensuring a coherent and coordinated crisis management and resolution regime in the Union.
+
+<a id="art_25"></a>
+
+### Article 25 — Recovery and resolution procedures
+
+**1.** The Authority shall contribute to and participate actively in the development and coordination of effective and consistent recovery and resolution plans, procedures in emergency situations and preventive measures to minimise the systemic impact of any failure.
+
+**2.** The Authority may identify best practices aimed at facilitating the resolution of failing institutions and, in particular, cross-border groups, in ways which avoid contagion, ensuring that appropriate tools, including sufficient resources, are available and allow the institution or the group to be resolved in an orderly, cost-efficient and timely manner.
+
+**3.** The Authority may develop regulatory and implementing technical standards as specified in the legislative acts referred to in Article 1(2) in accordance with the procedure laid down in Articles 10 to 15.
+
+<a id="art_26"></a>
+
+### Article 26 — Development of a European network of national insurance guarantee schemes
+
+The Authority may contribute to the assessment of the need for a European network of national insurance guarantee schemes which is adequately funded and sufficiently harmonised.
+
+<a id="art_27"></a>
+
+### Article 27 — Crisis prevention, management and resolution
+
+The Authority may be requested by the Commission to contribute to the assessment referred to in Article 242 of Directive 2009/138/EC, in particular as regards the cooperation of supervisory authorities within, and functionality of, colleges of supervisors; the supervisory practices concerning setting the capital add-ons; the assessment of the benefit of enhancing group supervision and capital management within a group of insurance or reinsurance undertakings, including possible measures to enhance a sound cross-border management of insurance groups, in particular in respect of risks and asset management; and may report on any new developments and progress concerning:
+
+(a) a harmonised framework for early intervention;
+
+(b) practices in centralised group risk management and functioning of group internal models including stress testing;
+
+(c) intra-group transactions and risk concentrations;
+
+(d) the behaviour of diversification and concentration effects over time;
+
+(e) a harmonised framework for asset transferability, insolvency and winding-up procedures which eliminates the relevant national company or corporate law barriers to asset transferability;
+
+(f) an equivalent level of protection of policy holders and beneficiaries of the undertakings of the same group, particularly in crisis situations;
+
+(g) a harmonised and adequately funded Union-wide solution for insurance guarantee schemes.
+
+Having regard to point (f), the Authority may also report on any new developments and progress concerning a set of coordinated national crisis management arrangements and including the necessity or otherwise of a system of coherent and credible funding mechanisms, with appropriate financing instruments.
+
+The review of this Regulation provided for in Article 81 shall, in particular, examine the possible enhancement of the role of the Authority in a framework of crisis prevention, management and resolution.
+
+<a id="art_28"></a>
+
+### Article 28 — Delegation of tasks and responsibilities
+
+**1.** Competent authorities may, with the consent of the delegate, delegate tasks and responsibilities to the Authority or other competent authorities subject to the conditions set out in this Article. Member States may set out specific arrangements regarding the delegation of responsibilities that have to be complied with before their competent authorities enter into such delegation agreements, and may limit the scope of delegation to what is necessary for the effective supervision of cross-border financial institutions or groups.
+
+**2.** The Authority shall stimulate and facilitate the delegation of tasks and responsibilities between competent authorities by identifying those tasks and responsibilities that can be delegated or jointly exercised and by promoting best practices.
+
+**3.** The delegation of responsibilities shall result in the reallocation of competences laid down in the acts referred to in Article 1(2). The law of the delegate authority shall govern the procedure, enforcement and administrative and judicial review relating to the delegated responsibilities.
+
+**4.** The competent authorities shall inform the Authority of delegation agreements into which they intend to enter. They shall put the agreements into effect at the earliest 1 month after informing the Authority.The Authority may give an opinion on the intended agreement within 1 month of being informed.The Authority shall publish, by appropriate means, any delegation agreement as concluded by the competent authorities, in order to ensure that all parties concerned are informed appropriately.
+
+<a id="art_29"></a>
+
+### Article 29 — Common supervisory culture
+
+**1.** The Authority shall play an active role in building a common Union supervisory culture and consistent supervisory practices, as well as in ensuring uniform procedures and consistent approaches throughout the Union. The Authority shall carry out, at a minimum, the following activities:(a) providing opinions to competent authorities;▼M2(aa) establishing Union strategic supervisory priorities in accordance with Article 29a;(ab) establishing coordination groups in accordance with Article 45b to promote supervisory convergence and identify best practices;▼M2(b) promoting an effective bilateral and multilateral exchange of information between competent authorities, pertaining to all relevant issues, including cyber security and cyber-attacks, with full respect for the applicable confidentiality and data protection provisions provided for in the relevant Union legislative acts;▼B(c) contributing to developing high quality and uniform supervisory standards, including reporting standards, and international accounting standards in accordance with Article 1(3);(d) reviewing the application of the relevant regulatory and implementing technical standards adopted by the Commission, and of the guidelines and recommendations issued by the Authority and proposing amendments where appropriate; and▼M2(e) establishing sectoral and cross-sectoral training programmes, including with respect to technological innovation, different forms of cooperatives and mutuals, facilitating personnel exchanges and encouraging competent authorities to intensify the use of secondment schemes and other tools; and▼M2(f) putting in place a monitoring system to assess material environmental, social and governance-related risks, taking into account the Paris Agreement to the United Nations Framework Convention on Climate Change.
+
+**2.** The Authority may, as appropriate, develop new practical instruments and convergence tools to promote common supervisory approaches and practices.
+
+For the purpose of establishing a common supervisory culture, the Authority shall develop and maintain an up-to-date Union supervisory handbook on the supervision of financial institutions in the Union, which duly takes into account the nature, scale and complexity of risks, business practices, business models and size of financial institutions and of markets. The Union supervisory handbook shall set out best practices and shall specify high- quality methodologies and processes.
+
+The Authority shall, where appropriate, conduct open public consultations regarding the opinions referred to in point (a) of paragraph 1, tools and instruments referred to in this paragraph. It shall also, where appropriate, analyse the related potential costs and benefits. Such consultations and analyses shall be proportionate in relation to the scope, nature and impact of the opinions or tools and instruments. The Authority shall, where appropriate, also request advice from the relevant Stakeholder Group referred to in Article 37.
+
+<a id="art_29a"></a>
+
+### Article 29a — Union strategic supervisory priorities
+
+Following a discussion in the Board of Supervisors and taking into account contributions received from competent authorities, existing work by the Union institutions, and analysis, warnings and recommendations published by the ESRB, the Authority shall, at least every three years, by 31 March, identify up to two priorities of Union-wide relevance which shall reflect future developments and trends. Competent authorities shall take those priorities into account when drawing up their work programmes and shall notify the Authority accordingly. The Authority shall discuss the relevant activities by the competent authorities in the following year and draw conclusions. The Authority shall discuss possible follow up which may include guidelines, recommendations to competent authorities, and peer reviews, in the respective area.
+
+The priorities of Union-wide relevance identified by the Authority shall not prevent competent authorities from applying their best practices, acting on their additional priorities and developments, and national specificities shall be considered.
+
+<a id="art_30"></a>
+
+### Article 30 — Peer reviews of competent authorities
+
+**1.** The Authority shall periodically conduct peer reviews of some or all of the activities of competent authorities, to further strengthen consistency and effectiveness in supervisory outcomes. To that end, the Authority shall develop methods to allow for an objective assessment and comparison between the competent authorities reviewed. When planning and conducting peer reviews, existing information and evaluations already made with regard to the competent authority concerned, including any relevant information provided to the Authority in accordance with Article 35, and any relevant information from stakeholders shall be taken into account.
+
+**2.** For the purposes of this Article, the Authority shall establish ad hoc peer review committees, which shall be composed of staff from the Authority and members of the competent authorities. The peer review committees shall be chaired by a member of the Authority’s staff. The Chairperson, after consulting the Management Board and following an open call for participation, shall propose the chair and the members of a peer review committee which shall be approved by the Board of Supervisors. The proposal shall be deemed to be approved unless, within 10 days of the Chairperson proposing it, the Board of Supervisors adopts a decision to reject it.
+
+**3.** The peer review shall include an assessment of, but shall not be limited to:(a) the adequacy of resources, the degree of independence, and governance arrangements of the competent authority, with particular regard to the effective application of the legislative acts referred to in Article 1(2) and the capacity to respond to market developments;(b) the effectiveness and the degree of convergence reached in the application of Union law and in supervisory practice, including regulatory technical standards and implementing technical standards, guidelines and recommendations adopted pursuant to Articles 10 to 16, and the extent to which the supervisory practice achieves the objectives set out in Union law;(c) the application of best practices developed by competent authorities whose adoption might be of benefit for other competent authorities;(d) the effectiveness and the degree of convergence reached with regard to the enforcement of the provisions adopted in the implementation of Union law, including the administrative sanctions and other administrative measures imposed against persons responsible where those provisions have not been complied with.
+
+**4.** The Authority shall produce a report setting out the results of the peer review. That peer review report shall be prepared by the peer review committee and adopted by the Board of Supervisors in accordance with Article 44(4). When drafting that report, the peer review committee shall consult the Management Board in order to maintain consistency with other peer review reports and to ensure a level playing field. The Management Board shall assess in particular whether the methodology has been applied in the same manner. The report shall explain and indicate the follow-up measures that are deemed appropriate, proportionate and necessary as a result of the peer review. Those follow-up measures may be adopted in the form of guidelines and recommendations pursuant to Article 16 and opinions pursuant to point (a) of Article 29(1).
+
+In accordance with Article 16(3), the competent authorities shall make every effort to comply with any guidelines and recommendations issued.
+
+When developing draft regulatory technical standards or draft implementing technical standards in accordance with Articles 10 to 15, or guidelines or recommendations in accordance with Article 16, the Authority shall take into account the outcome of the peer review, along with any other information acquired by the Authority in carrying out its tasks, in order to ensure convergence of the highest quality supervisory practices.
+
+**5.** The Authority shall submit an opinion to the Commission where, having regard to the outcome of the peer review or to any other information acquired by the Authority in carrying out its tasks, it considers that further harmonisation of Union rules applicable to financial institutions or competent authorities would be necessary from the Union’s perspective.
+
+**6.** The Authority shall undertake a follow-up report after two years of the publication of the peer review report. The follow-up report shall be prepared by the peer review committee and adopted by the Board of Supervisors in accordance with Article 44(4). When drafting that report, the peer review committee shall consult the Management Board in order to maintain consistency with other follow up reports. The follow-up report shall include an assessment of, but shall not be limited to, the adequacy and effectiveness of the actions undertaken by the competent authorities that are subject to the peer review in response to the follow up measures of the peer review report.
+
+**7.** The peer review committee shall, after consulting the competent authorities subject to the peer review, identify the reasoned main findings of the peer review. The Authority shall publish the reasoned main findings of the peer review and of the follow-up report referred to in paragraph 6. Where the reasoned main findings of the Authority differ from those identified by the peer review committee, the Authority shall transmit, on a confidential basis, the peer review committee’s findings to the European Parliament, to the Council and to the Commission. Where a competent authority that is subject to the peer review is concerned that the publication of the Authority’s reasoned main findings would pose a risk to the stability of the financial system, it shall have the possibility to refer the matter to the Board of Supervisors. The Board of Supervisors may decide not to publish those extracts.
+
+**8.** For the purposes of this Article, the Management Board shall make a proposal for a peer review work plan for the coming two years, which shall *inter alia* reflect the lessons learnt from the past peer review processes and discussions of coordination groups referred to in Article 45b. The peer review work plan shall constitute a separate part of the annual and multiannual working programme. It shall be made public. In case of urgency or unforeseen events, the Authority may decide to carry out additional peer reviews.
+
+<a id="art_31"></a>
+
+### Article 31 — Coordination function
+
+**1.** The Authority shall fulfil a general coordination role between competent authorities, in particular in situations where adverse developments could potentially jeopardise the orderly functioning and integrity of financial markets or the stability of the financial system or in situations of cross-border business potentially affecting the protection of policyholders, pension scheme members and beneficiaries in the Union.
+
+**2.** The Authority shall promote a coordinated Union response, *inter alia*, by:▼B(a) facilitating the exchange of information between the competent authorities;(b) determining the scope and, where possible and appropriate, verifying the reliability of information that should be made available to all the competent authorities concerned;(c) without prejudice to Article 19, carrying out non-binding mediation upon a request from the competent authorities or on its own initiative;(d) notifying the ESRB of any potential emergency situations without delay;▼M2(e) taking appropriate measures in the event of developments which may jeopardise the functioning of the financial markets with a view to the coordination of actions undertaken by relevant competent authorities;▼M2(ea) taking appropriate measures to coordinate actions undertaken by relevant competent authorities with a view to facilitating the entry into the market of actors or products relying on technological innovation;▼B(f) centralising information received from competent authorities in accordance with Articles 21 and 35 as the result of the regulatory reporting obligations for institutions active in more than one Member State. The Authority shall share that information with the other competent authorities concerned.
+
+**3.** In order to contribute to the establishment of a common European approach towards technological innovation, the Authority shall promote supervisory convergence, with the support, where relevant, of the Committee on consumer protection and financial innovation, facilitating entry into the market of actors or products relying on technological innovation, in particular through the exchange of information and best practices. Where appropriate, the Authority may adopt guidelines or recommendations in accordance with Article 16.
+
+<a id="art_31a"></a>
+
+### Article 31a — Information exchange on fitness and propriety
+
+The Authority shall, together with the European Supervisory Authority (European Banking Authority) and with the European Supervisory Authority (European Securities and Markets Authority), establish a system for the exchange of information relevant to the assessment of the fitness and propriety of holders of qualifying holdings, directors and key function holders of financial institutions by competent authorities in accordance with the legislative acts referred to in Article 1(2).
+
+<a id="art_32"></a>
+
+### Article 32 — Assessment of market developments, including stress tests
+
+**1.** The Authority shall monitor and assess market developments in the area of its competence and, where necessary, inform the European Supervisory Authority (European Banking Authority) and the European Supervisory Authority (European Securities and Markets Authority), the ESRB, and the European Parliament, the Council and the Commission about the relevant micro-prudential trends, potential risks and vulnerabilities. The Authority shall include, in its assessments, an analysis of the markets in which financial institutions operate and an assessment of the impact of potential market developments on such institutions.
+
+**2.** The Authority shall initiate and coordinate Union-wide assessments of the resilience of financial institutions to adverse market developments. To that end, it shall develop:(a) common methodologies for assessing the effect of economic scenarios on a financial institution’s financial position taking into account *inter alia* risks stemming from adverse environmental developments;▼M2(aa) common methodologies for identifying financial institutions to be included in Union-wide assessments;▼B(b) common approaches to communication on the outcomes of these assessments of the resilience of financial institutions;(c) common methodologies for assessing the effect of particular products or distribution processes on an institution’s financial position and on policyholders, pension scheme members, beneficiaries and customer information;▼M2(d) common methodologies for assessing the effect of environmental risks on the financial stability of financial institutions.For the purposes of this paragraph, the Authority shall cooperate with the ESRB.
+
+**3.** Without prejudice to the tasks of the ESRB set out in Regulation (EU) No 1092/2010, the Authority shall, once a year, and more frequently where necessary, provide assessments to the European Parliament, to the Council, to the Commission and to the ESRB of trends, potential risks and vulnerabilities in its area of competence, in combination with the indicators referred to in Article 22(2) of this Regulation.▼BThe Authority shall include a classification of the main risks and vulnerabilities in these assessments and, where necessary, recommend preventative or remedial actions.
+
+**4.** The Authority shall ensure an adequate coverage of cross-sectoral developments, risks and vulnerabilities by closely cooperating with the European Supervisory Authority (European Banking Authority) and the European Supervisory Authority (European Securities and Markets Authority) through the Joint Committee.
+
+<a id="art_33"></a>
+
+### Article 33 — International relations including equivalence
+
+**1.** Without prejudice to the respective competences of the Member States and the Union institutions, the Authority may develop contacts and enter into administrative arrangements with regulatory and supervisory authorities, international organisations and third-country administrations. Those arrangements shall not create legal obligations in respect of the Union and its Member States nor shall they prevent Member States and their competent authorities from concluding bilateral or multilateral arrangements with those third countries.
+
+Where a third country, in accordance with a delegated act, which is in force, adopted by the Commission pursuant to Article 9 of Directive (EU) 2015/849, is on the list of jurisdictions which have strategic deficiencies in their national anti-money laundering and in countering the financing of terrorism regimes that pose significant threats to the financial system of the Union, the Authority shall not conclude administrative arrangements with the regulatory and supervisory authorities of that third country. This shall not preclude other forms of cooperation between the Authority and the respective third-country authorities with a view to reducing threats to the financial system of the Union.
+
+**2.** The Authority shall assist the Commission in preparing equivalence decisions pertaining to regulatory and supervisory regimes in third countries following a specific request for advice from the Commission or where required to do so by the legislative acts referred to in Article 1(2).
+
+**3.** The Authority shall monitor, with a particular focus on their implications for financial stability, market integrity, policy holder protection and the functioning of the internal market, relevant regulatory and supervisory developments and enforcement practices and market developments in third countries, to the extent they are relevant to risk-based equivalence assessments, for which equivalence decisions have been adopted by the Commission pursuant to the legislative acts referred to in Article 1(2).
+
+Furthermore, it shall verify whether the criteria on the basis of which those equivalence decisions have been taken, and any conditions set out therein are still fulfilled.
+
+The Authority may liaise with relevant authorities in third countries. The Authority shall submit a confidential report to the European Parliament, to the Council, to the Commission and to the European Supervisory Authority (European Banking Authority) and to the European Supervisory Authority (European Securities and Markets Authority) summarising the findings of its monitoring of all equivalent third countries. The report shall focus in particular on implications for financial stability, market integrity, policy holder protection or the functioning of the internal market.
+
+Where the Authority identifies relevant developments in relation to the regulation and supervision or the enforcement practices in the third countries referred to in this paragraph that may affect the financial stability of the Union or of one or more of its Member States, market integrity, policy holder protection or the functioning of the internal market, it shall inform the European Parliament, the Council and the Commission on a confidential basis and without undue delay.
+
+**4.** Without prejudice to specific requirements set out in the legislative acts referred to in Article 1(2) and subject to the conditions set out in the second sentence of paragraph 1 of this Article, the Authority shall cooperate where possible with the relevant competent authorities of third countries whose regulatory and supervisory regimes have been recognised as equivalent. In principle, that cooperation shall be pursued on the basis of administrative arrangements concluded with the relevant authorities of those third countries. When negotiating such administrative arrangements, the Authority shall include provisions on the following:(a) the mechanisms which allow the Authority to obtain relevant information, including information on the regulatory regime, the supervisory approach, relevant market developments and any changes that may affect the equivalence decision;(b) to the extent necessary for the follow-up of such equivalence decisions, the procedures concerning the coordination of supervisory activities including, where necessary, on-site inspections
+
+The Authority shall inform the Commission, where a third-country competent authority refuses to conclude such administrative arrangements or when it refuses to effectively cooperate.
+
+**5.** The Authority may develop model administrative arrangements, with a view to establishing consistent, efficient and effective supervisory practices within the Union and to strengthening international supervisory coordination. The competent authorities shall make every effort to follow such model arrangements.
+
+In the report referred to in Article 43(5), the Authority shall include information on the administrative arrangements agreed upon with supervisory authorities, international organisations or administrations in third countries, the assistance provided by the Authority to the Commission in preparing equivalence decisions and the monitoring by the Authority in accordance with paragraph 3 of this Article.
+
+**6.** The Authority shall, within its powers pursuant to this Regulation and to the legislative acts referred to in Article 1(2), contribute to the united, common, consistent and effective representation of the Union’s interests in international fora.
+
+<a id="art_35"></a>
+
+### Article 35 — Collection of information
+
+**1.** At the request of the Authority, the competent authorities of the Member States shall provide the Authority with all the necessary information to carry out the duties assigned to it by this Regulation, provided that they have legal access to the relevant information and that the request for information is necessary in relation to the nature of the duty in question.
+
+**2.** The Authority may also request information to be provided at recurring intervals and in specified formats. Such requests shall, where possible, be made using common reporting formats.
+
+**3.** Upon a duly justified request from a competent authority of a Member State, the Authority may provide any information that is necessary to enable the competent authority to carry out its duties, in accordance with the professional secrecy obligations laid down in sectoral legislation and in Article 70.
+
+**4.** Before requesting information in accordance with this Article and in order to avoid the duplication of reporting obligations, the Authority shall take account of any relevant existing statistics produced and disseminated by the European Statistical System and the European System of Central Banks.
+
+**5.** Where information is not available or is not made available by the competent authorities in a timely fashion, the Authority may address a duly justified and reasoned request to other supervisory authorities, to the ministry responsible for finance where it has at its disposal prudential information, to the national central bank or to the statistical office of the Member State concerned.
+
+**6.** Where information is not available or is not made available under paragraph 1 or 5 in a timely fashion, the Authority may address a duly justified and reasoned request directly to the relevant financial institutions. The reasoned request shall explain why the information concerning the respective individual financial institutions is necessary.The Authority shall inform the relevant competent authorities of requests in accordance with this paragraph and with paragraph 5.At the request of the Authority, the competent authorities shall assist the Authority in collecting the information.
+
+**7.** The Authority may use confidential information received under this Article only for the purposes of carrying out the duties assigned to it by this Regulation.
+
+<a id="art_36"></a>
+
+### Article 36 — Relationship with the ESRB
+
+**1.** The Authority shall cooperate closely and on a regular basis with the ESRB.
+
+**2.** The Authority shall provide the ESRB with regular and timely information necessary for the achievement of its tasks. Any data necessary for the achievement of its tasks that are not in summary or aggregate form shall be provided, without delay, to the ESRB upon a reasoned request, as specified in Article 15 of Regulation (EU) No 1092/2010. The Authority, in cooperation with the ESRB, shall have in place adequate internal procedures for the transmission of confidential information, in particular information regarding individual financial institutions.
+
+**4.** On receipt of a warning or recommendation from the ESRB addressed to the Authority, the Authority shall discuss that warning or recommendation at the next meeting of the Board of Supervisors or, where appropriate, earlier, in order to assess the implications of, and possible follow-up to, such a warning or recommendation for the fulfilment of its tasks.
+
+It shall decide, by the relevant decision-making procedure, on any actions to be taken in accordance with the powers conferred upon it by this Regulation for addressing the issues identified in the warnings and recommendations.
+
+If the Authority does not act on a warning or recommendation, it shall explain to the ESRB its reasons for not doing so. The ESRB shall inform the European Parliament thereof in accordance with Article 19(5) of Regulation (EU) No 1092/2010. The ESRB shall also inform the Council thereof.
+
+**5.** On receipt of a warning or recommendation from the ESRB addressed to a competent authority, the Authority shall, where relevant, use the powers conferred upon it by this Regulation to ensure a timely follow-up.
+
+Where the addressee intends not to follow the recommendation of the ESRB, it shall inform and discuss with the Board of Supervisors its reasons for not acting.
+
+Where the competent authority, in accordance with Article 17(1) of Regulation (EU) No 1092/2010, informs the European Parliament, the Council, the Commission and the ESRB of the actions it has undertaken in response to a recommendation of the ESRB, it shall take due account of the views of the Board of Supervisors.
+
+<a id="art_37"></a>
+
+### Article 37 — Insurance and Reinsurance Stakeholder Group and Occupational Pensions Stakeholder Group
+
+**1.** To help facilitate consultation with stakeholders in areas relevant to the tasks of the Authority, an Insurance and Reinsurance Stakeholder Group and an Occupational Pensions Stakeholder Group shall be established (hereinafter collectively referred to as the ‘Stakeholder Groups’). The Stakeholder Groups shall be consulted on actions taken in accordance with Articles 10 to 15 concerning regulatory technical standards and implementing technical standards, and, to the extent that these do not concern individual financial institutions, Article 16 concerning guidelines and recommendations. If actions must be taken urgently and consultation becomes impossible, the Stakeholder Groups shall be informed as soon as possible.The Stakeholder Groups shall meet at least four times a year. They may, together, discuss areas of mutual interest and shall inform each other of the other issues being discussed.Members of one stakeholder group may be also members of the other stakeholder group.
+
+**2.** The Insurance and Reinsurance Stakeholder Group shall be composed of 30 members. Those members shall comprise of:(a) 13 members representing, in balanced proportions, insurance and reinsurance undertakings and insurance intermediaries operating in the Union, of whom three shall represent cooperative and mutual insurers or reinsurers;(b) 13 members representing employees’ representatives of insurance and reinsurance undertakings and insurance intermediaries operating in the Union, consumers, users of insurance and reinsurance services, representatives of SMEs and representatives of relevant professional associations; and(c) four members who are independent top-ranking academics.
+
+**3.** The Occupational Pensions Stakeholder Group shall be composed of 30 members. Those members shall comprise of:(a) 13 members representing in balanced proportions institutions for occupational retirement provision operating in the Union;(b) 13 members representing representatives of employees, representatives of beneficiaries, representatives of SMEs and representatives of relevant professional associations; and(c) four members who are independent top-ranking academics.
+
+**4.** The members of the Stakeholder Groups shall be appointed by the Board of Supervisors, following an open and transparent selection procedure. In making its decision, the Board of Supervisors shall, to the extent possible, ensure an appropriate reflection of diversity of the insurance, reinsurance and occupational pensions sectors, geographical and gender balance and representation of stakeholders across the Union. Members of the Stakeholder Groups shall be selected according to their qualifications, skills, relevant knowledge and proven expertise.
+
+**4a.** Members of the relevant Stakeholder Group shall elect a Chair from among its members. The position of the Chair shall be held for a period of two years.
+
+The European Parliament may invite the Chair of any Stakeholder Group to make a statement before it and answer any questions from its members whenever so requested.
+
+**5.** The Authority shall provide all necessary information subject to professional secrecy as set out in Article 70 of this Regulation and ensure adequate secretarial support for the Stakeholder Groups. Adequate compensation shall be provided to members of the Stakeholder Groups representing non-profit organisations, excluding industry representatives. This compensation shall take into account the members’ preparatory and follow-up work and shall be at least equivalent to the reimbursement rates of officials pursuant to Title V, Chapter 1, Section 2 of the Staff Regulations of Officials of the European Union and the Conditions of Employment of Other Servants of the European Union, laid down in Council Regulation (EEC, Euratom, ECSC) No 259/68 (7) (the Staff Regulations). The Stakeholder Groups may establish working groups on technical issues. Members of the Insurance and Reinsurance Stakeholder Group and of the Occupational Pensions Stakeholder Group shall serve for a period of four years, following which a new selection procedure shall take place.▼BThe members of the Stakeholder Groups may serve two successive terms.
+
+**6.** The Stakeholder Groups may submit advice to the Authority on any issue related to the tasks of the Authority with particular focus on the tasks set out in Articles 10 to 16, and 29, 30 and 32.
+
+Where members of the Stakeholder Groups cannot agree on advice, one third of their members or the members representing one group of stakeholders shall be permitted to issue separate advice.
+
+The Insurance and Reinsurance Stakeholder Group, the Occupational Pensions Stakeholder Group, the Banking Stakeholder Group, and the Securities and Markets Stakeholder Group may issue joint advice on issues related to the work of the ESAs under Article 56 on joint positions and common acts.
+
+**7.** The Stakeholder Groups shall adopt their rules of procedure on the basis of the agreement of a two-thirds majority of their respective members.
+
+**8.** The Authority shall make public the advice of the Stakeholder Groups, the separate advice of its members, and the results of its consultations as well as information on how advice and results of consultations have been taken into account.
+
+<a id="art_38"></a>
+
+### Article 38 — Safeguards
+
+**1.** The Authority shall ensure that no decision adopted under Articles 18 or 19 impinges in any way on the fiscal responsibilities of Member States.
+
+**2.** Where a Member State considers that a decision taken under Article 19(3) impinges on its fiscal responsibilities, it may notify the Authority and the Commission within 2 weeks after notification of the Authority’s decision to the competent authority that the decision will not be implemented by the competent authority.In its notification, the Member State shall clearly and specifically explain why and how the decision impinges on its fiscal responsibilities.In the case of such notification, the decision of the Authority shall be suspended.Within a period of 1 month from the notification by the Member State, the Authority shall inform the Member State as to whether it maintains its decision or whether it amends or revokes it. If the decision is maintained or amended, the Authority shall state that fiscal responsibilities are not affected.Where the Authority maintains its decision, the Council shall take a decision, by a majority of the votes cast, at one of its meetings not later than 2 months after the Authority has informed the Member State as set out in the fourth subparagraph, as to whether the Authority’s decision is maintained.Where the Council, after having considered the matter, does not take a decision to maintain the Authority’s decision in accordance with the fifth subparagraph, the Authority’s decision shall be terminated.
+
+**3.** Where a Member State considers that a decision taken under Article 18(3) impinges on its fiscal responsibilities, it may notify the Authority, the Commission and the Council, within three working days after notification of the Authority’s decision to the competent authority, that the decision will not be implemented by the competent authority.In its notification, the Member State shall clearly and specifically explain why and how the decision impinges on its fiscal responsibilities.In the case of such notification, the decision of the Authority shall be suspended.The Council shall, within ten working days, convene a meeting and take a decision, by a simple majority of its members, as to whether the Authority’s decision is revoked.Where the Council, after having considered the matter, does not take a decision to revoke the Authority’s decision in accordance with the fourth subparagraph, the suspension of the Authority’s decision shall be terminated.
+
+**4.** Where the Council has taken a decision in accordance with paragraph 3 not to revoke a decision of the Authority relating to Article 18(3), and the Member State concerned still considers that the decision of the Authority impinges upon its fiscal responsibilities, that Member State may notify the Commission and the Authority and request the Council to re-examine the matter. The Member State concerned shall clearly set out the reasons for its disagreement with the decision of the Council.Within a period of 4 weeks after the notification referred to in the first subparagraph, the Council shall confirm its original decision or take a new decision in accordance with paragraph 3.The period of 4 weeks may be extended by four additional weeks by the Council, if the particular circumstances of the case so require.
+
+**5.** Any abuse of this Article, in particular in relation to a decision by the Authority which does not have a significant or material fiscal impact, shall be prohibited as incompatible with the internal market.
+
+<a id="art_39"></a>
+
+### Article 39 — Decision-making procedures
+
+**1.** The Authority shall act in accordance with paragraphs 2 to 6 of this Article when adopting decisions pursuant to Articles 17, 18 and 19.
+
+**2.** The Authority shall inform any addressee of a decision of its intention to adopt the decision, in the official language of the addressee, setting a time limit within which the addressee may express its views on the subject-matter of the decision, taking full account of the urgency, complexity and potential consequences of the matter. The addressee may express its views in its official language. The provision laid down in the first sentence shall apply *mutatis mutandis* to recommendations as referred to in Article 17(3).
+
+**3.** The decisions of the Authority shall state the reasons on which they are based.
+
+**4.** The addressees of decisions of the Authority shall be informed of the legal remedies available under this Regulation.
+
+**5.** Where the Authority has taken a decision pursuant to Article 18(3) or 18(4), it shall review that decision at appropriate intervals.
+
+**6.** The decisions which the Authority takes pursuant to Article 17, 18 or 19 shall be made public. The publication shall disclose the identity of the competent authority or financial institution concerned and the main content of the decision, unless such publication is in conflict with the legitimate interest of those financial institutions, or with the protection of their business secrets, or could seriously jeopardise the orderly functioning and integrity of financial markets or the stability of the whole or part of the financial system of the Union.
+
+## CHAPTER III — ORGANISATION
+
+### SECTION 1 — Board of Supervisors
+
+<a id="art_40"></a>
+
+### Article 40 — Composition
+
+**1.** The Board of Supervisors shall be composed of:▼M2(a) the Chairperson;▼B(b) the head of the national public authority competent for the supervision of financial institutions in each Member State, who shall meet in person at least twice a year;(c) one representative of the Commission, who shall be non-voting;(d) one representative of the ESRB, who shall be non-voting;(e) one representative of each of the other two European Supervisory Authorities, who shall be non-voting;
+
+**2.** The Board of Supervisors shall convene meetings with the Stakeholder Groups regularly, at least twice a year.
+
+**3.** Each competent authority shall be responsible for nominating a high-level alternate from its authority, who may replace the member of the Board of Supervisors referred to in paragraph 1(b), where that person is prevented from attending.
+
+**4.** In Member States where more than one authority is responsible for the supervision according to this Regulation, those authorities shall agree on a common representative. Nevertheless, when an item to be discussed by the Board of Supervisors does not fall within the competence of the national authority being represented by the member referred to in paragraph 1(b), that member may bring a representative from the relevant national authority, who shall be non-voting.
+
+**5.** ►M3 The Board of Supervisors may decide to admit observers. In particular, the Board of Supervisors shall admit a representative of the Authority for Anti-Money Laundering and Countering the Financing of Terrorism established by Regulation (EU) 2024/1620 of the European Parliament and of the Council (8) where matters that fall under its mandate are discussed or decided upon.** ◄ **The Executive Director may participate in meetings of the Board of Supervisors, without the right to vote.
+
+**6.** Where the national public authority referred to in point (b) of paragraph 1 is not responsible for the enforcement of consumer protection rules, the member of the Board of Supervisors referred to in that point may decide to invite a representative from the Member State’s consumer protection authority, who shall be non-voting. In the case where the responsibility for consumer protection is shared by several authorities in a Member State, those authorities shall agree on a common representative.
+
+<a id="art_41"></a>
+
+### Article 41 — Internal committees
+
+**1.** The Board of Supervisors, on its own initiative or at the request of the Chairperson, may establish internal committees for specific tasks attributed to it. Upon request from the Management Board or from the Chairperson, the Board of Supervisors may establish internal committees for specific tasks attributed to the Management Board. The Board of Supervisors may provide for the delegation of certain clearly defined tasks and decisions to internal committees, to the Management Board or to the Chairperson.
+
+**2.** For the purposes of Article 17, the Chairperson shall propose a decision to convene an independent panel, to be adopted by the Board of Supervisors. The independent panel shall consist of the Chairperson and six other members, to be proposed by the Chairperson after consulting the Management Board and following an open call for participation. The six other members shall not be representatives of the competent authority alleged to have breached Union law and shall not have any interest in the matter or direct links to the competent authority concerned.
+
+Each member of the panel shall have one vote.
+
+Decisions of the panel shall be taken where at least four members vote in favour.
+
+**3.** For the purposes of Article 19, the Chairperson shall propose a decision to convene an independent panel, to be adopted by the Board of Supervisors. The independent panel shall consist of the Chairperson and six other members, to be proposed by the Chairperson after consulting the Management Board and following an open call for participation. The six other members shall not be representatives of the competent authorities party to the disagreement and shall not have any interest in the conflict or direct links to the competent authorities concerned.
+
+Each member of the panel shall have one vote.
+
+Decisions of the panel shall be taken where at least four members vote in favour.
+
+**4.** For the purposes of conducting the inquiry provided for in the first subparagraph of Article 22(4), the Chairperson may propose a decision to launch the inquiry and a decision to convene an independent panel, to be adopted by the Board of Supervisors. The independent panel shall consist of the Chairperson and six other members, to be proposed by the Chairperson after consulting the Management Board and following an open call for participation.
+
+Each member of the panel shall have one vote.
+
+Decisions of the panel shall be taken where at least four members vote in favour.
+
+**5.** The panels referred to in paragraphs 2 and 3 of this Article or the Chairperson shall propose decisions under Article 17, or Article 19, for final adoption by the Board of Supervisors. A panel referred to in paragraph 4 of this Article shall present the outcome of the inquiry conducted pursuant to the first subparagraph of Article 22(4) to the Board of Supervisors.
+
+**6.** The Board of Supervisors shall adopt rules of procedure for the panels referred to in this Article.
+
+<a id="art_42"></a>
+
+### Article 42 — Independence of the Board of Supervisors
+
+**1.** When carrying out the tasks conferred upon them by this Regulation, the members of the Board of Supervisors shall act independently and objectively in the sole interest of the Union as a whole and shall neither seek nor take instructions from Union institutions or bodies, from any government or from any other public or private body.
+
+**2.** Member States, Union institutions or bodies, and any other public or private body, shall not seek to influence the members of the Board of Supervisors in the performance of their tasks.
+
+**3.** Members of the Board of Supervisors, the Chairperson as well as non-voting representatives and observers participating in the meetings of the Board of Supervisors shall, before such meetings, accurately and completely declare the absence or existence of any interest which might be considered prejudicial to their independence in relation to any items on the agenda, and shall abstain from participating in the discussion of, and voting upon, such points.
+
+**4.** The Board of Supervisors shall lay down, in its rules of procedure, the practical arrangements for the rule on declaration of interest referred to in paragraph 3 and for the prevention and the management of conflict of interest.
+
+<a id="art_43"></a>
+
+### Article 43 — Tasks
+
+**1.** The Board of Supervisors shall give guidance to the work of the Authority and shall be in charge of taking the decisions referred to in Chapter II. The Board of Supervisors shall adopt the opinions, recommendations, guidelines and decisions of the Authority, and issue the advice referred to in Chapter II, based on a proposal of the relevant internal committee or panel, the Chairperson, or of the Management Board, as applicable.
+
+**4.** The Board of Supervisors shall adopt, before 30 September of each year, on the basis of a proposal by the Management Board, the work programme of the Authority for the coming year, and shall transmit it for information to the European Parliament, the Council and the Commission.The work programme shall be adopted without prejudice to the annual budgetary procedure and shall be made public.
+
+**5.** The Board of Supervisors shall adopt, on the basis of a proposal by the Management Board, the annual report on the activities of the Authority, including on the performance of the Chairperson’s duties, and shall transmit that report to the European Parliament, to the Council, to the Commission, to the Court of Auditors and to the European Economic and Social Committee by 15 June each year. The report shall be made public.
+
+**6.** The Board of Supervisors shall adopt the multi-annual work programme of the Authority, and shall transmit it for information to the European Parliament, the Council and the Commission.The multi-annual work programme shall be adopted without prejudice to the annual budgetary procedure and shall be made public.
+
+**7.** The Board of Supervisors shall adopt the budget in accordance with Article 63.
+
+**8.** The Board of Supervisors shall exercise disciplinary authority over the Chairperson and the Executive Director. It may remove the Executive Director from office in accordance with Article 51(5).
+
+<a id="art_43a"></a>
+
+### Article 43a — Transparency of decisions adopted by the Board of Supervisors
+
+Notwithstanding Article 70, within six weeks of each meeting of the Board of Supervisors, the Authority shall, at least, provide the European Parliament with a comprehensive and meaningful record of the proceedings of that meeting that enables a full understanding of the discussions, including an annotated list of decisions. Such record shall not reflect discussions within the Board of Supervisors relating to individual financial institutions, unless otherwise provided for in Article 75(3) or in the legislative acts referred to in Article 1(2).
+
+<a id="art_44"></a>
+
+### Article 44 — Decision making
+
+**1.** Decisions of the Board of Supervisors shall be taken by a simple majority of its members. Each voting member shall have one vote.
+
+With regard to the acts specified in Articles 10 to 16 of this Regulation and measures and decisions adopted under the third subparagraph of Article 9(5) of this Regulation and Chapter VI of this Regulation and, by way of derogation from the first subparagraph of this paragraph, the Board of Supervisors shall take decisions on the basis of a qualified majority of its members, as defined in Article 16(4) of the Treaty on European Union and in Article 3 of the Protocol No 36 on transitional provisions.
+
+The Chairperson shall not vote on the decisions referred to in the second subparagraph.
+
+With regard to the composition of the panels in accordance with Article 41(2), (3) and (4), and the members of the peer review committee referred to in Article 30(2), the Board of Supervisors, when considering the proposals by the Chairperson, shall strive for consensus. In the absence of consensus, decisions of the Board of Supervisors shall be taken by a majority of three quarters of its voting members. Each voting member shall have one vote.
+
+With regard to decisions adopted under Article 18(3) and (4), and by way of derogation from the first subparagraph of this paragraph, the Board of Supervisors shall take decisions on the basis of a simple majority of its voting members.
+
+**2.** Meetings of the Board of Supervisors shall be convened by the Chairperson at his own initiative or at the request of one third of its members, and shall be chaired by the Chairperson.
+
+**3.** The Board of Supervisors shall adopt and make public its rules of procedure.
+
+**4.** With regard to the decisions in accordance with Articles 17, 19 and 30 the Board of Supervisors shall vote on the proposed decisions using a written procedure. The voting members of the Board of Supervisors shall have eight working days to vote. Each voting member shall have one vote. The proposed decision shall be considered adopted unless a simple majority of voting members of the Board of Supervisors objects. Abstentions shall not be counted as approvals or as objections, and shall not be considered when calculating the number of votes cast. If three voting members of the Board of Supervisors object to the written procedure, the draft decision shall be discussed and decided on by the Board of Supervisors in accordance with the procedure set out in paragraph 1 of this Article.
+
+The non-voting members and the observers, with the exception of the Executive Director, shall not attend any discussions within the Board of Supervisors relating to individual financial institutions, unless otherwise provided for in Article 75(3) or in the legislative acts referred to in Article 1(2).
+
+**5.** The Authority’s Chairperson shall have the prerogative to call a vote at any time. Without prejudice to that power and to the effectiveness of the Authority’s decision-making procedures, the Board of Supervisors of the Authority shall strive for consensus when taking its decisions.
+
+### SECTION 2 — Management Board
+
+<a id="art_45"></a>
+
+### Article 45 — Composition
+
+**1.** The Management Board shall be composed of the Chairperson and six members of the Board of Supervisors, elected by and from the voting members of the Board of Supervisors.
+
+Other than the Chairperson, each member of the Management Board shall have an alternate who may replace him if he is prevented from attending.
+
+**2.** The term of office of the members elected by the Board of Supervisors shall be two-and-a-half years. That term may be extended once. The composition of the Management Board shall be gender balanced and proportionate and shall reflect the Union as a whole. Mandates shall be overlapping and an appropriate rotating arrangement shall apply.
+
+**3.** Meetings of the Management Board shall be convened by the Chairperson at his or her own initiative or at the request of at least a third of its members, and shall be chaired by the Chairperson. The Management Board shall meet prior to every meeting of the Board of Supervisors and as often as the Management Board deems necessary. It shall meet at least five times a year.
+
+**4.** The members of the Management Board may, subject to the rules of procedure, be assisted by advisers or experts. The non-voting members, with the exception of the Executive Director, shall not attend any discussions within the Management Board relating to individual financial institutions.
+
+<a id="art_45a"></a>
+
+### Article 45a — Decision-making
+
+**1.** Decisions by the Management Board shall be adopted by simple majority of its members whilst striving for consensus. Each member shall have one vote. The Chairperson shall be a voting member.
+
+**2.** The Executive Director and a representative of the Commission shall participate in meetings of the Management Board without the right to vote. The representative of the Commission shall have the right to vote on matters referred to in Article 63.
+
+**3.** The Management Board shall adopt and make public its rules of procedure.
+
+<a id="art_45b"></a>
+
+### Article 45b — Coordination Groups
+
+**1.** The Management Board may set up coordination groups on its own initiative or upon the request of a competent authority on defined topics for which there may be a need to coordinate having regard to specific market developments. The Management Board shall set up coordination groups on defined topics at the request of five members of the Board of Supervisors.
+
+**2.** All competent authorities shall participate in the coordination groups and shall provide, in accordance with Article 35, to the coordination groups the information necessary in order to allow the coordination groups to conduct their coordinating tasks in accordance with their mandate. The work of the coordination groups shall be based on information provided by the competent authorities and any findings identified by the Authority.
+
+**3.** The groups shall be chaired by a member of the Management Board. Each year, the respective member of the Management Board in charge of the coordination group shall report to the Board of Supervisors on the main elements of the discussions and findings and, where relevant, make a suggestion for a regulatory follow-up or a peer review in the respective area. Competent authorities shall notify the Authority as to how they have taken into account the work of coordination groups in their activities.
+
+**4.** When monitoring market developments that may be the focus of coordination groups, the Authority may request competent authorities in accordance with Article 35 to provide information necessary to allow the Authority to perform its monitoring role.
+
+<a id="art_46"></a>
+
+### Article 46 — Independence of the Management Board
+
+The members of the Management Board shall act independently and objectively in the sole interest of the Union as a whole and shall neither seek nor take instructions from the Union institutions or bodies, from any government or from any other public or private body.
+
+Member States, Union institutions or bodies and any other public or private body shall not seek to influence the members of the Management Board in the performance of their tasks.
+
+<a id="art_47"></a>
+
+### Article 47 — Tasks
+
+**1.** The Management Board shall ensure that the Authority carries out its mission and performs the tasks assigned to it in accordance with this Regulation.
+
+**2.** The Management Board shall propose, for adoption by the Board of Supervisors, an annual and multi-annual work programme.
+
+**3.** The Management Board shall exercise its budgetary powers in accordance with Articles 63 and 64.
+
+**3a.** The Management Board may examine, give an opinion on and make proposals on all matters except for tasks laid down in Article 30.
+
+**4.** The Management Board shall adopt the Authority’s staff policy plan and, pursuant to Article 68(2), the necessary implementing measures of the Staff Regulations of Officials of the European Communities (hereinafter the Staff Regulations’).
+
+**5.** The Management Board shall adopt the special provisions on right of access to the documents of the Authority, in accordance with Article 72.
+
+**6.** The Management Board shall propose an annual report on the activities of the Authority, including on the Chairperson’s duties, to the Board of Supervisors for approval.
+
+**7.** The Management Board shall adopt and make public its rules of procedure.
+
+**8.** The Management Board shall appoint and remove the members of the Board of Appeal in accordance with Article 58(3) and (5), taking duly into account a proposal by the Board of Supervisors.
+
+**9.** The members of the Management Board shall make public all meetings held and any hospitality received. Expenses shall be recorded publicly in accordance with the Staff Regulations.
+
+### SECTION 3 — Chairperson
+
+<a id="art_48"></a>
+
+### Article 48 — Appointment and tasks
+
+**1.** The Authority shall be represented by a Chairperson, who shall be a full-time independent professional.▼M2The Chairperson shall be responsible for preparing the work of the Board of Supervisors, including setting the agenda to be adopted by the Board of Supervisors, convening the meetings and tabling items for decision, and shall chair the meetings of the Board of Supervisors.The Chairperson shall be responsible for setting the agenda of the Management Board, to be adopted by the Management Board, and shall chair the meetings of the Management Board.The Chairperson may invite the Management Board to consider setting up a coordination group in accordance with Article 45b.
+
+**2.** The Chairperson shall be selected on the basis of merit, skills, knowledge of financial institutions and markets, and of experience relevant to financial supervision and regulation, following an open selection procedure which shall respect the principle of gender balance and shall be published in the *Official Journal of the European Union*. The Board of Supervisors shall draw up a shortlist of qualified candidates for the position of the Chairperson, with the assistance of the Commission. Based on the shortlist, the Council shall adopt a decision to appoint the Chairperson, after confirmation by the European Parliament.
+
+Where the Chairperson no longer fulfils the conditions referred to in Article 49 or has been found guilty of serious misconduct, the Council may, acting on a proposal from the Commission which has been approved by the European Parliament, adopt a decision to remove him or her from office.
+
+The Board of Supervisors shall also elect, from among its members, a Vice-Chairperson who shall carry out the functions of the Chairperson in the absence of the Chairperson. That Vice-Chairperson shall not be elected from among the members of the Management Board.
+
+**3.** The Chairperson’s term of office shall be 5 years and may be extended once.
+
+**4.** In the course of the 9 months preceding the end of the five-year term of office of the Chairperson, the Board of Supervisors shall evaluate:(a) the results achieved in the first term of office and the way they were achieved;(b) the Authority’s duties and requirements in the coming years.▼M2For the purpose of the evaluation referred to in the first subparagraph, the tasks of the Chairperson shall be carried out by the Vice-Chairperson.The Council, acting on a proposal from the Board of Supervisors and with the assistance of the Commission, and taking into account the evaluation referred to in the first subparagraph, may extend the term of office of the Chairperson once.
+
+**5.** The Chairperson may be removed from office only on serious grounds. He or she may only be removed by the European Parliament following a decision of the Council, adopted after consulting the Board of Supervisors.
+
+<a id="art_49"></a>
+
+### Article 49 — Independence of the Chairperson
+
+Without prejudice to the role of the Board of Supervisors in relation to the tasks of the Chairperson, the Chairperson shall neither seek nor take instructions from the Union institutions or bodies, from any government or from any other public or private body.
+
+Neither Member States, the Union institutions or bodies nor any other public or private body shall seek to influence the Chairperson in the performance of his tasks.
+
+In accordance with the Staff Regulations referred to in Article 68, the Chairperson shall, after leaving service, continue to be bound by the duty to behave with integrity and discretion as regards the acceptance of certain appointments or benefits.
+
+<a id="art_49a"></a>
+
+### Article 49a — Expenses
+
+The Chairperson shall make public all meetings held with external stakeholders within a period of two weeks following the meeting and any hospitality received. Expenses shall be recorded publicly in accordance with the Staff Regulations.
+
+### SECTION 4 — Executive Director
+
+<a id="art_51"></a>
+
+### Article 51 — Appointment
+
+**1.** The Authority shall be managed by an Executive Director, who shall be a full-time independent professional.
+
+**2.** The Executive Director shall be appointed by the Board of Supervisors, after confirmation by the European Parliament, on the basis of merit, skills, knowledge of financial institutions and markets, and experience relevant to financial supervision and regulation and managerial experience, following an open selection procedure.
+
+**3.** The Executive Director’s term of office shall be 5 years and may be extended once.
+
+**4.** In the course of the 9 months preceding the end of the Executive Director’s term of office, the Board of Supervisors shall evaluate in particular:(a) the results achieved in the first term of office and the way they were achieved;(b) the Authority’s duties and requirements in the coming years.The Board of Supervisors, taking into account the evaluation referred to in the first subparagraph, may extend the term of office of the Executive Director once.
+
+**5.** The Executive Director may be removed from office only upon a decision of the Board of Supervisors.
+
+<a id="art_52"></a>
+
+### Article 52 — Independence
+
+Without prejudice to the respective roles of the Management Board and the Board of Supervisors in relation to the tasks of the Executive Director, the Executive Director shall neither seek nor take instructions from the Union institutions or bodies, from any government of a Member State, or from any other public or private body.
+
+Neither Member States, the Union institutions or bodies, nor any other public or private body shall seek to influence the Executive Director in the performance of his tasks.
+
+In accordance with the Staff Regulations referred to in Article 68, the Executive Director shall, after leaving service, continue to be bound by the duty to behave with integrity and discretion as regards the acceptance of certain appointments or benefits.
+
+<a id="art_53"></a>
+
+### Article 53 — Tasks
+
+**1.** The Executive Director shall be in charge of the management of the Authority and shall prepare the work of the Management Board.
+
+**2.** The Executive Director shall be responsible for implementing the annual work programme of the Authority under the guidance of the Board of Supervisors and under the control of the Management Board.
+
+**3.** The Executive Director shall take the necessary measures, notably the adoption of internal administrative instructions and the publication of notices, to ensure the functioning of the Authority, in accordance with this Regulation.
+
+**4.** The Executive Director shall prepare a multi-annual work programme, as referred to in Article 47(2).
+
+**5.** Each year, by 30 June, the Executive Director shall prepare a work programme for the following year, as referred to in Article 47(2).
+
+**6.** The Executive Director shall draw up a preliminary draft budget of the Authority pursuant to Article 63 and shall implement the budget of the Authority pursuant to Article 64.
+
+**7.** Each year the Executive Director shall prepare a draft report with a section on the regulatory and supervisory activities of the Authority and a section on financial and administrative matters.
+
+**8.** The Executive Director shall exercise in respect to the Authority’s staff the powers laid down in Article 68 and manage staff matters.
+
+## CHAPTER IV — JOINT BODIES OF THE EUROPEAN SUPERVISORY AUTHORITIES
+
+### SECTION 1 — Joint Committee of European Supervisory Authorities
+
+<a id="art_54"></a>
+
+### Article 54 — Establishment
+
+**1.** The Joint Committee of the European Supervisory Authorities is hereby established.
+
+**2.** The Joint Committee shall serve as a forum in which the Authority shall cooperate regularly and closely to ensure cross-sectoral consistency, while considering sectoral specificities, with the European Supervisory Authority (European Banking Authority) and the European Supervisory Authority (European Securities and Markets Authority), in particular regarding:— financial conglomerates and, where required by Union law, prudential consolidation,▼B— accounting and auditing,— micro-prudential analyses of cross-sectoral developments, risks and vulnerabilities for financial stability,— retail investment products,▼M2— cybersecurity,— information and best practice exchange with the ESRB and the other ESAs,▼M2— retail financial services and consumer and investor protection issues,— advice by the Committee established in accordance with Article 1(7).
+
+**3.** The Joint Committee shall have a dedicated staff provided by the ESAs that shall act as a permanent secretariat. The Authority shall contribute adequate resources to administrative, infrastructure and operational expenses.
+
+**4.** In the event that a financial institution reaches across different sectors, the Joint Committee shall resolve disagreements in accordance with Article 56.
+
+<a id="art_55"></a>
+
+### Article 55 — Composition
+
+**1.** The Joint Committee shall be composed of the Chairpersons of the ESAs, and, where applicable, the Chairperson of any Sub-Committee established under Article 57.
+
+**2.** The Executive Director, a representative of the Commission and the ESRB shall be invited to the meetings of the Joint Committee, as well as of any Sub-Committees referred to in Article 57, as observers.
+
+**3.** The Chairperson of the Joint Committee shall be appointed on an annual rotational basis from among the Chairpersons of the ESAs. The Chairperson of the Joint Committee shall be the second Vice-Chair of the ESRB.
+
+**4.** The Joint Committee shall adopt and publish its own rules of procedure. The rules may specify further participants in the meetings of the Joint Committee.▼M2The Joint Committee shall meet at least once every three months.
+
+**5.** The Chairperson of the Authority shall regularly inform the Board of Supervisors on positions taken in the meetings of the Joint Committee.
+
+<a id="art_56"></a>
+
+### Article 56 — Joint positions and common acts
+
+Within the scope of its tasks set out in Chapter II of this Regulation, and in particular with respect to the implementation of Directive 2002/87/EC, where relevant, the Authority shall reach joint positions by consensus with, as appropriate, the European Supervisory Authority (European Banking Authority) and with the European Supervisory Authority (European Securities and Markets Authority).
+
+Where required by Union law, measures pursuant to Articles 10 to 16, and decisions pursuant to Articles 17, 18 and 19, of this Regulation in relation to the application of Directive 2002/87/EC and of any other legislative acts referred to in Article 1(2) of this Regulation that also fall within the area of competence of the European Supervisory Authority (European Banking Authority) or the European Supervisory Authority (European Securities and Markets Authority) shall be adopted, in parallel, by, as appropriate, the Authority, the European Supervisory Authority (European Banking Authority) and the European Supervisory Authority (European Securities and Markets Authority).
+
+<a id="art_57"></a>
+
+### Article 57 — Sub-Committees
+
+**1.** The Joint Committee may establish sub-committees for the purposes of preparing draft joint positions and common acts for the Joint Committee.
+
+**2.** Each sub-committee shall be composed of the individuals referred to in Article 55(1), and one high-level representative from the current staff of the relevant competent authority from each Member State.
+
+**3.** Each sub-Committee shall elect a chairperson from among the representatives of the relevant competent authorities, who shall also be an observer in the Joint Committee.
+
+**4.** For the purposes of Article 56, a sub-committee on financial conglomerates to the Joint Committee shall be established.
+
+**5.** The Joint Committee shall make public on its website all established Sub-Committees including their mandates and a list of their members with their respective functions in the sub-committee.
+
+### SECTION 2 — Board of Appeal
+
+<a id="art_58"></a>
+
+### Article 58 — Composition and operation
+
+**1.** The Board of Appeal of the European Supervisory Authorities is hereby established.
+
+**2.** The Board of Appeal shall be composed of six members and six alternates, who shall be individuals of high repute with a proven record of relevant knowledge of Union law and of having international professional experience, to a sufficiently high level in the fields of banking, insurance, occupational pensions, securities markets or other financial services, excluding current staff of the competent authorities or other national or Union institutions or bodies involved in the activities of the Authority and members of the Insurance and Reinsurance Stakeholder Group and members of the Occupational Pensions Stakeholder Group. Members and alternates shall be nationals of a Member State and shall have a thorough knowledge of at least two official languages of the Union. The Board of Appeal shall have sufficient legal expertise to provide expert legal advice on the legality, including proportionality, of the Authority’s exercise of its powers.▼BThe Board of Appeal shall designate its President.
+
+**3.** Two members of the Board of Appeal and two alternates shall be appointed by the Management Board of the Authority from a shortlist proposed by the Commission, following a public call for expressions of interest published in the *Official Journal of the European Union*, and after consultation of the Board of Supervisors.
+
+After having received the shortlist, the European Parliament may invite candidates for members and alternates to make a statement before it and answer any questions from its Members.
+
+The European Parliament may invite the members of the Board of Appeal to make a statement before it and answer any questions from its Members whenever so requested, to the exclusion of statements, questions or answers pertaining to individual cases decided by, or pending before, the Board of Appeal.
+
+**4.** The term of office of the members of the Board of Appeal shall be 5 years. That term may be extended once.
+
+**5.** A member of the Board of Appeal appointed by the Management Board of the Authority shall not be removed during his term of office unless he has been found guilty of serious misconduct and the Management Board takes a decision to that effect after consulting the Board of Supervisors.
+
+**6.** The decisions of the Board of Appeal shall be adopted on the basis of a majority of at least four of its six members. Where the appealed decision falls within the scope of this Regulation, the deciding majority shall include at least one of the two members of the Board of Appeal appointed by the Authority.
+
+**7.** The Board of Appeal shall be convened by its President when necessary.
+
+**8.** The ESAs shall ensure adequate operational and secretarial support for the Board of Appeal through the Joint Committee.
+
+<a id="art_59"></a>
+
+### Article 59 — Independence and impartiality
+
+**1.** The members of the Board of Appeal shall be independent in making their decisions. They shall not be bound by any instructions. They shall not perform any other duties in relation to the Authority, its Management Board or its Board of Supervisors.
+
+**2.** Members of the Board of Appeal, and staff of the Authority providing operational and secretariat support, shall not take part in any appeal proceedings in which they have any personal interest, if they have previously been involved as representatives of one of the parties to the proceedings, or if they have participated in the decision under appeal.
+
+**3.** If, for one of the reasons referred to in paragraphs 1 and 2 or for any other reason, a member of a Board of Appeal considers that another member should not take part in any appeal proceedings, he shall inform the Board of Appeal accordingly.
+
+**4.** Any party to the appeal proceedings may object to the participation of a member of the Board of Appeal on any of the grounds referred to in paragraphs 1 and 2, or if suspected of bias.No objection may be based on the nationality of members nor shall it be admissible if, while being aware of a reason for objecting, the party to the appeal proceedings has nonetheless taken a procedural step other than objecting to the composition of the Board of Appeal.
+
+**5.** The Board of Appeal shall decide on the action to be taken in the cases specified in paragraphs 1 and 2 without the participation of the member concerned.For the purpose of taking that decision, the member concerned shall be replaced on the Board of Appeal by his alternate. Where the alternate is in a similar situation, the Chairperson shall designate a replacement from among the available alternates.
+
+**6.** The members of the Board of Appeal shall undertake to act independently and in the public interest.For that purpose, they shall make a declaration of commitments and a declaration of interests indicating either the absence of any interest which may be considered prejudicial to their independence or any direct or indirect interest which might be considered prejudicial to their independence.Those declarations shall be made public, annually and in writing.
+
+## CHAPTER V — REMEDIES
+
+<a id="art_60"></a>
+
+### Article 60 — Appeals
+
+**1.** Any natural or legal person, including competent authorities, may appeal against a decision of the Authority referred to in Articles 17, 18 and 19and any other decision taken by the Authority in accordance with the Union acts referred to in Article 1(2) which is addressed to that person, or against a decision which, although in the form of a decision addressed to another person, is of direct and individual concern to that person.
+
+**2.** The appeal, together with a statement of grounds, shall be filed in writing at the Authority within three months of the date of notification of the decision to the person concerned, or, in the absence of a notification, of the day on which the Authority published its decision.
+
+The Board of Appeal shall decide upon the appeal within three months after the appeal has been lodged.
+
+**3.** An appeal lodged pursuant to paragraph 1 shall not have suspensive effect.However, the Board of Appeal may, if it considers that circumstances so require, suspend the application of the contested decision.
+
+**4.** If the appeal is admissible, the Board of Appeal shall examine whether it is well-founded. It shall invite the parties to the appeal proceedings to file observations on its own notifications or on communications from the other parties to the appeal proceedings, within specified time limits. Parties to the appeal proceedings shall be entitled to make oral representations.
+
+**5.** The Board of Appeal may confirm the decision taken by the competent body of the Authority, or remit the case to the competent body of the Authority. That body shall be bound by the decision of the Board of Appeal and that body shall adopt an amended decision regarding the case concerned.
+
+**6.** The Board of Appeal shall adopt and make public its rules of procedure.
+
+**7.** The decisions taken by the Board of Appeal shall be reasoned and shall be made public by the Authority.
+
+<a id="art_60a"></a>
+
+### Article 60a — Exceeding of competence by the Authority
+
+Any natural or legal person may send reasoned advice to the Commission if that person is of the opinion that the Authority has exceeded its competence, including by failing to respect the principle of proportionality referred to in Article 1(5), when acting under Articles 16 and 16b, and that is of direct and individual concern to that person.
+
+<a id="art_61"></a>
+
+### Article 61 — Actions before the Court of Justice of the European Union
+
+**1.** Proceedings may be brought before the Court of Justice of the European Union, in accordance with Article 263 TFEU, contesting a decision taken by the Board of Appeal or, in cases where there is no right of appeal before the Board of Appeal, by the Authority.
+
+**2.** Member States and the Union institutions, as well as any natural or legal person, may institute proceedings before the Court of Justice of the European Union against decisions of the Authority, in accordance with Article 263 TFEU.
+
+**3.** In the event that the Authority has an obligation to act and fails to take a decision, proceedings for failure to act may be brought before the Court of Justice of the European Union in accordance with Article 265 TFEU.
+
+**4.** The Authority shall be required to take the necessary measures to comply with the judgment of the Court of Justice of the European Union.
+
+## CHAPTER VI — FINANCIAL PROVISIONS
+
+<a id="art_62"></a>
+
+### Article 62 — Budget of the Authority
+
+**1.** The revenues of the Authority, a European body in accordance with Article 70 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (9) (‘the Financial Regulation’), shall consist, in particular, of any combination of the following:▼B(a) obligatory contributions from the national public authorities competent for the supervision of financial institutions, which shall be made in accordance with a formula based on the weighting of votes set out in Article 3(3) of Protocol (No 36) on transitional provisions. For the purposes of this Article, Article 3(3) of Protocol (No 36) on transitional provisions shall continue to apply beyond the deadline of 31 October 2014 therein established;(b) a subsidy from the Union, entered in the General Budget of the European Union (Commission Section);(c) any fees paid to the Authority in the cases specified in the relevant instruments of Union law;▼M2(d) any voluntary contribution from Member States or observers;(e) agreed charges for publications, training and for any other services provided by the Authority where they have been specifically requested by one or more competent authorities.Any voluntary contribution from Member States or observers referred to in point d of the first sub-paragraph shall not be accepted if such acceptance would cast doubt on the independence and impartiality of the Authority. Voluntary contributions that constitute compensation for the cost of tasks delegated by a competent authority to the Authority shall not be considered to cast doubt on the independence of the latter.▼B
+
+**2.** The expenditure of the Authority shall include, at least, staff, remuneration, administrative, infrastructure, professional training and operational expenses.
+
+**3.** Revenue and expenditure shall be in balance.
+
+**4.** Estimates of all Authority revenue and expenditure shall be prepared for each financial year, corresponding to the calendar year, and shall be presented in the budget of the Authority.
+
+<a id="art_63"></a>
+
+### Article 63 — Establishment of the budget
+
+**1.** Each year, the Executive Director shall draw up a provisional draft single programming document of the Authority for the three following financial years setting out the estimated revenue and expenditure, as well as information on staff, from its annual and multi-annual programming and shall forward it to the Management Board and the Board of Supervisors, together with the establishment plan.
+
+**2.** The Board of Supervisors shall, on the basis of the draft which has been approved by the Management Board, adopt the draft single programming document for the three following financial years.
+
+**3.** The single programming document shall be transmitted by the Management Board to the Commission, the European Parliament and the Council and to the European Court of Auditors by 31 January.
+
+**4.** Taking account of the single programming document, the Commission shall enter in the draft budget of the Union the estimates it deems necessary in respect of the establishment plan and the amount of the balancing contribution to be charged to the general budget of the Union in accordance with Articles 313 and 314 TFEU.
+
+**5.** The European Parliament and the Council shall adopt the establishment plan for the Authority. The European Parliament and the Council shall authorise the appropriations for the balancing contribution to the Authority.
+
+**6.** The budget of the Authority shall be adopted by the Board of Supervisors. It shall become final after the final adoption of the general budget of the Union. Where necessary, it shall be adjusted accordingly.
+
+**7.** The Management Board shall, without undue delay, notify the European Parliament and the Council of its intention to implement any project which may have significant financial implications for the funding of its budget, in particular any project relating to property, such as the rental or purchase of buildings.
+
+**8.** Without prejudice to Articles 266 and 267 of the Financial Regulation, authorisation from the European Parliament and the Council shall be required for any project which may have significant financial or long- term implications for the funding of the Authority’s budget, in particular any project relating to property, such as the rental or purchase of buildings, including break clauses.
+
+<a id="art_64"></a>
+
+### Article 64 — Implementation and control of the budget
+
+**1.** The Executive Director shall act as authorising officer and shall implement the Authority’s annual budget.
+
+**2.** The Authority’s accounting officer shall send the provisional accounts to the Commission’s accounting officer and to the Court of Auditors by 1 March of the following year. Article 70 shall not preclude the Authority from providing to the Court of Auditors any information requested by the Court of Auditors that is within its competence.
+
+**3.** The Authority’s accounting officer shall send, by 1 March of the following year, the required accounting information for consolidation purposes to the accounting officer of the Commission, in the manner and format laid down by that accounting officer.
+
+**4.** The Authority’s accounting officer shall also send, by 31 March of the following year, the report on budgetary and financial management to the members of the Board of Supervisors, to the European Parliament, to the Council and to the Court of Auditors.
+
+**5.** After receiving the observations of the Court of Auditors on the provisional accounts of the Authority in accordance with Article 246 of the Financial Regulation, the Authority’s accounting officer shall draw up the Authority’s final accounts. The Executive Director shall send them to the Board of Supervisors, which shall deliver an opinion on those accounts.
+
+**6.** The Authority’s accounting officer shall, by 1 July of the following year, send the final accounts, accompanied by the opinion of the Board of Supervisors, to the accounting officer of the Commission, the European Parliament, the Council and the Court of Auditors.
+
+The Authority’s accounting officer shall also send, by 15 June each year, a reporting package to the Commission’s accounting officer, in a standardised format as laid down by the Commission’s accounting officer for consolidation purposes.
+
+**7.** The final accounts shall be published in the *Official Journal of the European Union* by 15 November of the following year.
+
+**8.** The Executive Director shall send the Court of Auditors a reply to the latter’s observations by 30 September and shall also send a copy of that reply to the Management Board and to the Commission.
+
+**9.** The Executive Director shall submit to the European Parliament, at the latter’s request and as provided for in Article 261(3) of the Financial Regulation, any information necessary for the smooth application of the discharge procedure for the financial year in question.
+
+**10.** The European Parliament, following a recommendation from the Council acting by qualified majority, shall, before 15 May of the year N + 2, grant a discharge to the Authority for the implementation of the budget for the financial year N.
+
+**11.** The Authority shall provide a reasoned opinion on the position of the European Parliament and on any other observations made by the European Parliament provided in the discharge procedure.
+
+<a id="art_65"></a>
+
+### Article 65 — Financial rules
+
+The financial rules applicable to the Authority shall be adopted by the Management Board after consulting the Commission. Those rules may not depart from Commission Delegated Regulation (EU) 2019/715 (10) unless the specific operational needs for the functioning of the Authority so require and only with the prior agreement of the Commission.
+
+<a id="art_66"></a>
+
+### Article 66 — Anti-fraud measures
+
+**1.** For the purposes of combating fraud, corruption and any other illegal activity, Regulation (EU, Euratom) No 883/2013 of the European Parliament and of the Council (11) shall apply to the Authority without any restriction.
+
+**2.** The Authority shall accede to the Interinstitutional Agreement concerning internal investigations by OLAF and shall immediately adopt appropriate provisions for all staff of the Authority.
+
+**3.** The funding decisions and the agreements and the implementing instruments resulting from them shall explicitly stipulate that the Court of Auditors and OLAF may, if need be, carry out on-the-spot checks on the beneficiaries of monies disbursed by the Authority as well as on the staff responsible for allocating these monies.
+
+## CHAPTER VII — GENERAL PROVISIONS
+
+<a id="art_67"></a>
+
+### Article 67 — Privileges and immunities
+
+The Protocol (No 7) on the privileges and immunities of the European Union annexed to the Treaty on European Union and to the TFEU shall apply to the Authority and its staff.
+
+<a id="art_68"></a>
+
+### Article 68 — Staff
+
+**1.** The Staff Regulations, the Conditions of Employment of Other Servants and the rules adopted jointly by the Union institutions for the purpose of applying them shall apply to the staff of the Authority, including its Executive Director and its Chairperson.
+
+**2.** The Management Board, in agreement with the Commission, shall adopt the necessary implementing measures, in accordance with the arrangements provided for in Article 110 of the Staff Regulations.
+
+**3.** In respect of its staff, the Authority shall exercise the powers conferred on the appointing authority by the Staff Regulations and on the authority entitled to conclude contracts by the Conditions of Employment of Other Servants.
+
+**4.** The Management Board shall adopt provisions to allow national experts from Member States to be seconded to the Authority.
+
+<a id="art_69"></a>
+
+### Article 69 — Liability of the Authority
+
+**1.** In the case of non-contractual liability, the Authority shall, in accordance with the general principles common to the laws of the Member States, make good any damage caused by it or by its staff in the performance of their duties. The Court of Justice of the European Union shall have jurisdiction in any dispute over the remedying of such damage.
+
+**2.** The personal financial liability and disciplinary liability of Authority staff towards the Authority shall be governed by the relevant provisions applying to the staff of the Authority.
+
+<a id="art_70"></a>
+
+### Article 70 — Obligation of professional secrecy
+
+**1.** Members of the Board of Supervisors, and all members of the staff of the Authority, including officials seconded by Member States on a temporary basis, and all other persons carrying out tasks for the Authority on a contractual basis, shall be subject to the requirements of professional secrecy pursuant to Article 339 TFEU and the relevant provisions in Union legislation, even after their duties have ceased.
+
+**2.** Without prejudice to cases covered by criminal law, any confidential information received by persons referred to in paragraph 1 whilst performing their duties may not be divulged to any person or authority whatsoever, except in summary or aggregate form, such that individual financial institutions cannot be identified.▼M2The obligation under paragraph 1 of this Article and the first subparagraph of this paragraph shall not prevent the Authority and the competent authorities from using the information for the enforcement of the legislative acts referred to in Article 1(2), and in particular for legal procedures for the adoption of decisions.
+
+**2a.** The Management Board, and the Board of Supervisors shall ensure that individuals who provide any service, directly or indirectly, permanently or occasionally, relating to the tasks of the Authority, including officials and other persons authorised by the Management Board and the Board of Supervisors or appointed by the competent authorities for that purpose, are subject to the requirements of professional secrecy equivalent to those in paragraphs 1 and 2.
+
+The same requirements for professional secrecy shall also apply to observers who attend the meetings of the Management Board, and the Board of Supervisors and who take part in the activities of the Authority.
+
+**3.** Paragraphs 1 and 2 shall not prevent the Authority from exchanging information with competent authorities in accordance with this Regulation and with other Union legislation applicable to financial institutions.
+
+That information shall be subject to the conditions of professional secrecy referred to in paragraphs 1 and 2. The Authority shall lay down in its internal rules of procedure the practical arrangements for implementing the confidentiality rules referred to in paragraphs 1 and 2.
+
+**4.** The Authority shall apply Commission Decision (EU, Euratom) 2015/444 (12).
+
+<a id="art_71"></a>
+
+### Article 71 — Data protection
+
+This Regulation shall be without prejudice to the obligations of Member States relating to their processing of personal data under Regulation (EU) 2016/679 or the obligations of the Authority relating to its processing of personal data under Regulation (EU) 2018/1725 of the European Parliament and of the Council (13) when fulfilling its responsibilities.
+
+<a id="art_72"></a>
+
+### Article 72 — Access to documents
+
+**1.** Regulation (EC) No 1049/2001 shall apply to documents held by the Authority.
+
+**2.** The Management Board shall adopt practical measures for applying Regulation (EC) No 1049/2001.
+
+**3.** Decisions taken by the Authority pursuant to Article 8 of Regulation (EC) No 1049/2001 may be the subject of a complaint to the Ombudsman or of proceedings before the Court of Justice of the European Union, following an appeal to the Board of Appeal, as appropriate, in accordance with the conditions laid down in Articles 228 and 263 TFEU respectively.
+
+<a id="art_73"></a>
+
+### Article 73 — Language arrangements
+
+**1.** Council Regulation No 1 determining the languages to be used by the European Economic Community (14) shall apply to the Authority.
+
+**2.** The Management Board shall decide on the internal language arrangements for the Authority.
+
+**3.** The translation services required for the functioning of the Authority shall be provided by the Translation Centre for the Bodies of the European Union.
+
+<a id="art_74"></a>
+
+### Article 74 — Headquarters Agreement
+
+The necessary arrangements concerning the accommodation to be provided for the Authority in the Member State where its seat is located and the facilities to be made available by that Member State, as well as the specific rules applicable in that Member State to the staff of the Authority and members of their families, shall be laid down in a Headquarters Agreement between the Authority and that Member State which they concluded after obtaining the approval of the Management Board.
+
+That Member State shall provide the best possible conditions to ensure the proper functioning of the Authority, including multilingual, European-oriented schooling and appropriate transport connections.
+
+<a id="art_75"></a>
+
+### Article 75 — Participation of third countries
+
+**1.** Participation in the work of the Authority shall be open to third countries which have concluded agreements with the Union whereby they have adopted and are applying Union law in the areas of competence of the Authority as referred to in Article 1(2).
+
+**2.** The Authority may cooperate with the countries referred to in paragraph 1 applying legislation which has been recognised as equivalent in the areas of competence of the Authority referred to in Article 1(2), as provided for in international agreements concluded by the Union in accordance with Article 216 TFEU.
+
+**3.** Under the relevant provisions of the agreements referred to in paragraphs 1 and 2, arrangements shall be made specifying, in particular, the nature, scope and procedural aspects of the involvement of the countries referred to in paragraph 1 in the work of the Authority, including provisions relating to financial contributions and to staff. They may provide for representation, as an observer, on the Board of Supervisors, but shall ensure that those countries do not attend any discussions relating to individual financial institutions, except where there is a direct interest.
+
+## CHAPTER VIII — TRANSITIONAL AND FINAL PROVISIONS
+
+<a id="art_76"></a>
+
+### Article 76 — Relationship with the Committee of European Insurance and Occupational Pensions Supervisors
+
+The Authority shall be considered the legal successor of the Committee of European Insurance and Occupational Pensions Supervisors (CEIOPS). By the date of establishment of the Authority, all assets and liabilities and all pending operations of CEIOPS shall be automatically transferred to the Authority. CEIOPS shall establish a statement showing its closing asset and liability situation as of the date of that transfer. That statement shall be audited and approved by CEIOPS and by the Commission.
+
+<a id="art_77"></a>
+
+### Article 77 — Transitional staff provisions
+
+**1.** By way of derogation from Article 68, all employment contracts and secondment agreements concluded by CEIOPS or its Secretariat and in force on 1 January 2011 shall be honoured until their expiry date. They may not be extended.
+
+**2.** All members of staff under contracts referred to in paragraph 1 shall be offered the possibility of concluding temporary agent contracts under Article 2(a) of the Conditions of Employment of Other Servants at the various grades as set out in the Authority’s establishment plan.An internal selection limited to staff who have contracts with CEIOPS or its Secretariat shall be carried out after the entry into force of this Regulation by the authority authorised to conclude contracts in order to check the ability, efficiency and integrity of those to be engaged. The internal selection procedure shall take full account of the skills and experience demonstrated by the individuals’ performance prior to the engagement.
+
+**3.** Depending on the type and level of functions to be performed, successful applicants shall be offered temporary agents’ contracts of a duration corresponding at least to the time remaining under the prior contract.
+
+**4.** The relevant national law relating to labour contracts and other relevant instruments shall continue to apply to staff members with prior contracts who choose not to apply for temporary agent’s contracts or who are not offered temporary agents contracts in accordance with paragraph 2.
+
+<a id="art_78"></a>
+
+### Article 78 — National provisions
+
+The Member States shall make such provision as is appropriate to ensure the effective application of this Regulation.
+
+<a id="art_79"></a>
+
+### Article 79 — Amendments
+
+Decision No 716/2009/EC is hereby amended in so far as CEIOPS is removed from the list of beneficiaries set out in Section B of the Annex to that Decision.
+
+<a id="art_80"></a>
+
+### Article 80 — Repeal
+
+Commission Decision 2009/79/EC, establishing CEIOPS, is hereby repealed with effect from 1 January 2011.
+
+<a id="art_81"></a>
+
+### Article 81 — Review
+
+**1.** By 31 December 2021, and every three years thereafter, the Commission shall publish a general report on the experience acquired as a result of the operation of the Authority and the procedures laid down in this Regulation. That report shall evaluate, *inter alia*:(a) the effectiveness and convergence in supervisory practices reached by competent authorities:(i) the independence of the competent authorities and convergence in standards equivalent to corporate governance;▼B(ii) the impartiality, objectivity and autonomy of the Authority;(b) the functioning of the colleges of supervisors;(c) the progress achieved towards convergence in the fields of crisis prevention, management and resolution, including Union funding mechanisms;(d) the role of the Authority as regards systemic risk;(e) the application of the safeguard clause established in Article 38;(f) the application of the binding mediation role established in Article 19;▼M2(g) the functioning of the Joint Committee.▼B
+
+**2.** The report referred to in paragraph 1 shall also examine whether:(a) it is appropriate to continue separate supervision of banking, insurance, occupational pensions, securities and financial markets;(b) it is appropriate to undertake prudential supervision and supervise the conduct of business separately or by the same supervisor;(c) it is appropriate to simplify and reinforce the architecture of the ESFS in order to increase the coherence between the macro and the micro levels and between the ESAs;(d) the evolution of the ESFS is consistent with that of the global evolution;(e) there is sufficient diversity and excellence within the ESFS;(f) accountability and transparency in relation to publication requirements are adequate;(g) the resources of the Authority are adequate to carry out its responsibilities;(h) it is appropriate for the seat of the Authority to be maintained or to move the ESAs to a single seat to enhance better coordination between them.
+
+**2a.** As part of the general report referred to in paragraph 1 of this Article, the Commission shall, after consulting all relevant authorities and stakeholders, conduct a comprehensive assessment of the application of Article 9a.
+
+**3.** Concerning the issue of direct supervision of institutions or infrastructures of pan-European reach and taking account of market developments, the Commission shall draw up an annual report on the appropriateness of entrusting the Authority with further supervisory responsibilities in this area.
+
+**4.** The report and any accompanying proposals, as appropriate, shall be forwarded to the European Parliament and to the Council.
+
+<a id="art_82"></a>
+
+### Article 82 — Entry into force
+
+This Regulation shall enter into force on the day following its publication in the *Official Journal of the European Union*.
+
+It shall apply from 1 January 2011, with the exception of Article 76 and Article 77(1) and (2), which shall apply as from the date of its entry into force.
+
+The Authority shall be established on 1 January 2011.

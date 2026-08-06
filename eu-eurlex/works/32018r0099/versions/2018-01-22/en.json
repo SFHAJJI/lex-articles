@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32018r0099:2018-01-22",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2018/99 of 22 January 2018 amending Implementing R…",
+  "valid_from": "2018-01-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32018r0099/versions/2018-01-22/en.xml",
+    "sha256": "1e3698546dcfa79c7b56c7f46cfb0beb668f4342222e7d91fe28a770171107ce",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R0099"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32018r0099:2018-01-22#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nImplementing Regulation (EU) 2015/2378 is amended as follows:\n\n| (1) | the following Articles 2c and 2d are inserted:‘Article 2cForm and conditions for the communication of the yearly assessment1. The form for the communication of the yearly assessment of the effectiveness of the automatic exchange of information and the practical results achieved pursuant to Article 23(3) of Directive 2011/16/EU is set out in Annex VIII to this Regulation.2. Before 1 April each year, Member States shall communicate to the Commission by electronic means the yearly assessment using the form referred to in paragraph 1. The assessment shall cover the period of the previous calendar year.Article 2dList of statistical data1. The list of statistical data required for all forms of administrative cooperation, other than the mandatory automatic exchange of information, pursuant to Article 23(4) of Directive 2011/16/EU is set out in Annex IX to this Regulation.The list of statistical data required for the mandatory automatic exchange of information pursuant to Article 8(1) of Directive 2011/16/EU is set out in Annex X to this Regulation.The list of statistical data required for the mandatory automatic exchange of information pursuant to Article 8(3a) of Directive 2011/16/EU is set out in Annex XI to this Regulation.The list of statistical data required for the mandatory automatic exchange of information pursuant to Article 8aa of Directive 2011/16/EU is set out in Annex XII to this Regulation.2. Before 1 April each year, Member States shall communicate by electronic means, to the Commission the statistical data on all forms of administrative cooperation, other than the mandatory automatic exchange of information, in accordance with the list set out in Annex IX, in respect of the previous calendar year.3. Before 1 November each year Member States shall communicate by electronic means to the Commission the statistical data on mandatory automatic exchange of information in accordance with the list set out in Annex X, Annex XI and Annex XII.’ |\n| --- | --- |\n\n| (2) | Annexes VIII, IX, X, XI and XII are added as set out in the Annex to this Regulation. |\n| --- | --- |",
+      "text_sha256": "21070c17a0531a6f03608a8fb0baa74ae6bf0e8ffce8ec37015f0e8589ebb838",
+      "md_span": {
+        "start": 636,
+        "end": 2821
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32018r0099:2018-01-22#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 2854,
+        "end": 3005
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r0292:2024-09-26",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2025/292 of 26\u00A0September 2024 supplementing Regulation (EU)\u00A02023/1114",
+  "valid_from": "2024-09-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r0292/versions/2024-09-26/en.xml",
+    "sha256": "9f7d0b6b302c1e2846ab27b798f116c8be7ea003f282edba94750be04902f6aa",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0292"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r0292:2024-09-26#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe template document to be used by competent authorities of Member States, where possible for cooperation arrangements pursuant to Article 107(1) of Regulation (EU) 2023/1114 is set out in the Annex to this Regulation.",
+      "text_sha256": "cc76bf2b4b1b94697dc88f798e3fa664fd8354042ea2f10464e9860514aea8ae",
+      "md_span": {
+        "start": 651,
+        "end": 881
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r0292:2024-09-26#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nWhere competent authorities rely on an administrative arrangement pursuant to Article 46(3), point (b), of Regulation (EU) 2016/679 for the transfer of personal data to supervisory authorities of third countries, that arrangement shall be annexed to the cooperation arrangement entered into in accordance with Article 107(1) of Regulation (EU) 2023/1114.",
+      "text_sha256": "32bb0d39e2b04da3b58458dfcb03157b7750856cdd24f77ad9a830e3db5a3d53",
+      "md_span": {
+        "start": 914,
+        "end": 1279
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32025r0292:2024-09-26#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c8a7c928af14f1daeeae6193ae2f7f93ab11f41fab4e56ce01abe347c5ac50ab",
+      "md_span": {
+        "start": 1312,
+        "end": 1463
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

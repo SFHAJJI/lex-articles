@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0945:2023-10-17",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) No 945/2014 of 4 September 2014 laying down implementing technical standards with regard to relevant appropriately diversified indices according to Regulation (EU) No 575/2013",
+  "valid_from": "2023-10-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0945/versions/2023-10-17/fr.html",
+    "sha256": "929f9df4f1c1dc700716cca793ec08d753ba76c969b660a43965b8b895fc729a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02014R0945-20231017"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0945:2023-10-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Indices boursiers aux fins de l'application de l'article 344 du règlement (UE) no 575/2013",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "La liste des indices boursiers auxquels peuvent s'appliquer les traitements prévus à l'article 344, paragraphe 4, deuxième phrase, du règlement (UE) no 575/2013 figure en annexe.",
+      "text_sha256": "500180193eb0018c9b32910592dd7cceb9a67ba6fbe4ac5a5e06b9117800d8c5",
+      "md_span": {
+        "start": 872,
+        "end": 1050
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0945:2023-10-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Entrée en vigueur",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.",
+      "text_sha256": "272d7d1c39327603d469e4a8c3f0e02f346a84edfb12c54db68a230fe3f483e9",
+      "md_span": {
+        "start": 1107,
+        "end": 1239
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

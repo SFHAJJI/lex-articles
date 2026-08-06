@@ -1,0 +1,111 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019l0475:2019-02-18",
+  "language": "fr",
+  "title": "Council Directive (EU) 2019/475 of 18 February 2019 amending Directives 2006/112/EC and 20…",
+  "valid_from": "2019-02-18",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019l0475/versions/2019-02-18/fr.xml",
+    "sha256": "dc41a779e2e8207faecacb4e9eeacaedab6550e98492bfcddf21a447fb3bf2a4",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L0475"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019l0475:2019-02-18#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nDans la directive 2006/112/CE, l'article 6 est modifié comme suit:\n\n| 1) | Au paragraphe 1, les points suivants sont ajoutés:«f)Campione d'Italia;g)les eaux italiennes du lac de Lugano.» |\n| --- | --- |\n| «f) | Campione d'Italia; |\n| g) | les eaux italiennes du lac de Lugano.» |\n\n| 2) | Au paragraphe 2, les points f) et g) sont supprimés. |\n| --- | --- |",
+      "text_sha256": "984ec862075ea47c1ef80e42cb1e2df17f93d371829c23790fbde09f6ffeb317",
+      "md_span": {
+        "start": 636,
+        "end": 1009
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019l0475:2019-02-18#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nÀ l'article 5, paragraphe 3, de la directive 2008/118/CE, les points f) et g) sont supprimés.",
+      "text_sha256": "d83702adb0e51fa481f95c98388d952f910581542a89ab94036b02709a5db1ff",
+      "md_span": {
+        "start": 1042,
+        "end": 1146
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019l0475:2019-02-18#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les États membres adoptent et publient au plus tard le 31 décembre 2019 les mesures nécessaires pour se conformer à la présente directive. Ils en informent immédiatement la Commission.\n\nIls appliquent ces mesures à partir du 1er janvier 2020.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les États membres communiquent à la Commission le texte des mesures essentielles de droit interne qu'ils adoptent dans le domaine couvert par la présente directive.",
+      "text_sha256": "5a36065a5698fec0d03b649897d0a8f8a9ae02eeea75339362dc3c4faee3431f",
+      "md_span": {
+        "start": 1179,
+        "end": 1868
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019l0475:2019-02-18#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLa présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "0fab9c6e678cd77843bb065169a71701c8173c752d104c3296de4e76543f546f",
+      "md_span": {
+        "start": 1901,
+        "end": 2043
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019l0475:2019-02-18#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "d262bf068f985c2f9fbd6d3529e6c955709d83fa74b232a89d98dfc32026f00e",
+      "md_span": {
+        "start": 2076,
+        "end": 2149
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

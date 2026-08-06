@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32005l0092:2005-12-12",
+  "language": "en",
+  "title": "Council Directive 2005/92/EC of  12 December 2005  amending Directive 77/388/EEC with rega…",
+  "valid_from": "2005-12-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32005l0092/versions/2005-12-12/en.xml",
+    "sha256": "2c53fb1c1d762febabc787eb796703d429d1764dc27a0e874c3b782ee8fa4c72",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32005L0092"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32005l0092:2005-12-12#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe first and second subparagraphs of Article 12(3)(a) of Directive 77/388/EEC shall be replaced by the following:\n\n‘The standard rate of value added tax shall be fixed by each Member State as a percentage of the taxable amount and shall be the same for the supply of goods and for the supply of services. From 1 January 2006 until 31 December 2010, the standard rate may not be less than 15 %.\n\nThe Council shall decide, in accordance with Article 93 of the Treaty, on the level of the standard rate to be applied after 31 December 2010.’",
+      "text_sha256": "57376632b9dec3c3dceede48dcc07224c61210723dd6b6947a6f09e1730c8167",
+      "md_span": {
+        "start": 636,
+        "end": 1186
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32005l0092:2005-12-12#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive with effect from 1 January 2006. They shall forthwith inform the Commission thereof.\n\n2. When Member States adopt the measures, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.\n\n3. Member States shall communicate to the Commission the text of the provisions of national law which they adopt in the field covered by this Directive.",
+      "text_sha256": "33ae336c2f2a470dfe039a0182c15b0910735b5d7ce6ff196ce1cffd0fadcda8",
+      "md_span": {
+        "start": 1219,
+        "end": 1857
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32005l0092:2005-12-12#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Directive shall enter into force on the day of its publication in the Official Journal of the European Union.",
+      "text_sha256": "50e1fd49e146439eff57fd7bf8f328c786624a5a83906cb102ee7c13330c4db0",
+      "md_span": {
+        "start": 1890,
+        "end": 2015
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32005l0092:2005-12-12#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "46febe2055ef1f915cbf717390fb7bb227daf6166e4052d12f7f39bbce864281",
+      "md_span": {
+        "start": 2048,
+        "end": 2108
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

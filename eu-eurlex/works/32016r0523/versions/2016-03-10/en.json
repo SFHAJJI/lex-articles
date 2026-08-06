@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r0523:2016-03-10",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2016/523 of 10 March 2016 laying down implementing technical standards with regard to the format and template for notification and public disclosure of managers' transactions in accordance with Regulation (EU) No 596/2014",
+  "valid_from": "2016-03-10",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r0523/versions/2016-03-10/en.xml",
+    "sha256": "eb40569dc1359f9c39652bc38336c4d918c43adfa40a346242e281d81ad1010e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0523"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r0523:2016-03-10#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nFor the purposes of this Regulation, the following definition shall apply: ‘electronic means’ are means of electronic equipment for the processing (including digital compression), storage and transmission of data, employing wires, radio, optical technologies, or any other electromagnetic means.",
+      "text_sha256": "0d820ff2ae00fd22b00757692ac317c0b51bb1d2b4760d772f84ab4a93f2d37d",
+      "md_span": {
+        "start": 807,
+        "end": 1113
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r0523:2016-03-10#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Persons discharging managerial responsibilities and persons closely associated with them shall ensure that the template for notifications set out in the Annex is used for the submission of the notifications of the transactions referred to in Article 19(1) of Regulation (EU) No 596/2014.\n\n2. Persons discharging managerial responsibilities and persons closely associated with them shall ensure that electronic means are used for the transmission of the notifications referred to in paragraph 1. Those electronic means shall ensure that completeness, integrity and confidentiality of the information are maintained during the transmission and provide certainty as to the source of the information transmitted.\n\n3. Competent authorities shall specify and publish on their website the electronic means referred to in paragraph 2 with respect to the transmission to them.",
+      "text_sha256": "8716722812798bcaeb4aee290294b583002f71c199716bd115ce696e6a500a54",
+      "md_span": {
+        "start": 1146,
+        "end": 2027
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r0523:2016-03-10#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 3 July 2016.",
+      "text_sha256": "c578c8b8b314eae3584df482be0e0716e01b5ce4a4e3113f9ee0ae19718b2408",
+      "md_span": {
+        "start": 2060,
+        "end": 2235
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

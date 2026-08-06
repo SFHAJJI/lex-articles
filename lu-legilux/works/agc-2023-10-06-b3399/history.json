@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -33,5 +34,39 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2023-11-06",
+          "valid_to": null,
+          "text_sha256": "777368b876a05f88f15141f57d1260a6218d9292fe24a6dd9afa3376ed580e5e",
+          "in_version": "lu-legilux:agc-2023-10-06-b3399:2023-11-06",
+          "article_valid_from": "2023-11-06"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2023-11-06",
+          "valid_to": null,
+          "text_sha256": "d5d82fb8b4c853283dc48aa57a6020c19ec1e0e7bf749358f0f1d1df57eb2a87",
+          "in_version": "lu-legilux:agc-2023-10-06-b3399:2023-11-06",
+          "article_valid_from": "2023-11-06"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2023-11-06",
+          "valid_to": null,
+          "text_sha256": "5f5efd69c8504c5815ead87d1063d74459e3920077a1a4908cb0671334a4565b",
+          "in_version": "lu-legilux:agc-2023-10-06-b3399:2023-11-06",
+          "article_valid_from": "2023-11-06"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31962r0141:1962-11-26",
+  "language": "fr",
+  "title": "EEC: Regulation No 141 of the Council exempting transport from the application of Council …",
+  "valid_from": "1962-11-26",
+  "valid_to": "1967-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31962r0141/versions/1962-11-26/fr.html",
+    "sha256": "ddcfac934f0972e0108d40b2e28fcf35548c8657003a85509288704dbd15da86",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:31962R0141"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:31962r0141:1962-11-26#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Avis juridique important | 31962R0141 CEE: Règlement n° 141 du Conseil portant non-application du règlement n° 17 du Conseil au secteur des transports Journal officiel n° 124 du 28/11/1962 p. 2751 - 2751 édition spéciale finnoise: chapitre 7 tome 1 p. 0036 édition spéciale suédoise: chapitre 7 tome 1 p. 0036 édition spéciale danoise: série I chapitre 1959-1962 p. 0258 édition spéciale anglaise: série I chapitre 1959-1962 p. 0291 édition spéciale grecque: chapitre 07 tome 1 p. 0030 édition spéciale espagnole: chapitre 07 tome 1 p. 0057 édition spéciale portugaise: chapitre 07 tome 1 p. 0057 RÈGLEMENT nº 141 DU CONSEIL portant non-application du règlement nº 17 du Conseil au secteur des transportsLE CONSEIL DE LA COMMUNAUTÉ ÉCONOMIQUE EUROPÉENNE, vu le traité instituant la Communauté économique européenne et notamment son article 87; vu le premier règlement d'application des articles 85 et 86 du traité en date du 6 février 1962 (règlement nº 17), modifié par le règlement nº 59 en date du 3 juillet 1962; vu la proposition de la Commission; vu l'avis du Comité économique et social; vu l'avis de l'Assemblée; considérant que, dans le cadre de la politique commune des transports et compte tenu des aspects spéciaux de ce secteur, il peut se révéler nécessaire d'arrêter une réglementation de la concurrence différente de celle prise ou à prendre pour les autres secteurs économiques et, en conséquence, que le règlement nº 17 ne doit pas être appliqué au secteur des transports; considérant que dans le domaine des transports par chemin de fer, par route et par voie navigable on peut envisager, dans un délai prévisible, l'adoption d'une réglementation de la concurrence compte tenu des travaux entrepris pour l'élaboration d'une politique commune des transports ; qu'en revanche, dans le domaine de la navigation maritime et aérienne on ne peut prévoir si et à quelle date le Conseil arrêtera des dispositions appropriées et qu'en conséquence, la non-application du règlement nº 17 ne peut être assortie d'un délai que dans le domaine des transports par chemin de fer, par route et par voie navigable; considérant que les aspects spéciaux des transports ne justifient la non-application du règlement nº 17 qu'à l'égard des accords, décisions et pratiques concertées qui concernent directement la prestation du service des transports, A ARRÊTÉ LE PRÉSENT RÈGLEMENT:Article premierLe règlement nº 17 n'est pas appliqué aux accords, décisions et pratiques concertées dans le secteur des transports qui ont pour objet ou pour effet la fixation des prix et conditions de transport, la limitation ou le contrôle de l'offre de transport ou la répartition des marchés de transport, non plus qu'aux positions dominantes, au sens de l'article 86 du traité, sur le marché des transports. Article 2Le Conseil, compte tenu des mesures qui pourront être prises dans le cadre de la politique commune des transports, arrêtera des dispositions appropriées pour l'application de règles de concurrence dans le domaine des transports par chemin de fer, par route et par voie navigable. A cet effet, la Commission présentera des propositions au Conseil avant le 30 juin 1964. Article 3En ce qui concerne les transports par chemin de fer, par route et par voie navigable, la disposition prévue à l'article premier du présent règlement est valable jusqu'au 31 décembre 1965. Article 4Le présent règlement entre en vigueur à la date du 13 mars 1962. Cette disposition ne peut être opposée aux entreprises et associations d'entreprises qui, avant le jour suivant la publication du présent règlement au Journal officiel des Communautés européennes, auraient dénoncé des accords, décisions ou pratiques concertées visés à l'article premier.Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre. Fait à Paris, le 26 novembre 1962. Par le Conseil Le président B. MATTARELLA",
+      "text_sha256": "99ba60a615c2fce3fffb6daf1588e6e2f504b64efa5d525bb0aac3e03fecd043",
+      "md_span": {
+        "start": 655,
+        "end": 4567
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

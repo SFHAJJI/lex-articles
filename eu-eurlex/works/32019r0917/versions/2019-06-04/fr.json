@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r0917:2019-06-04",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2019/917 of 4 June 2019 establishing technical specifications, measures and other requirements required for the system of interconnection of insolvency registers in accordance with Article 25 of Regulation (EU) 2015/848",
+  "valid_from": "2019-06-04",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r0917/versions/2019-06-04/fr.xml",
+    "sha256": "c087c341612d5edecb1d5a059e6b28945d212fb5f890f6e0fadaf4db17713c03",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R0917"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r0917:2019-06-04#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe cahier des charges, les mesures techniques et les autres exigences assurant des conditions uniformes de mise en œuvre du système d'interconnexion des registres d'insolvabilité visés à l'article 25, paragraphe 2, point a) à f), du règlement (UE) 2015/848 figurent en annexe.\n\nLes registres d'insolvabilité sont interconnectés conformément à ce cahier des charges, à ces mesures techniques et à ces autres exigences au plus tard le 30 juin 2021.",
+      "text_sha256": "2b69bce9ace9850c1395cbd843bacc1fe9a923475d123d69c228ed477ff2f69e",
+      "md_span": {
+        "start": 804,
+        "end": 1267
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r0917:2019-06-04#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre conformément aux traités.",
+      "text_sha256": "85517e58a7fd12cf4120cc6a0b5df97b8bd98c1ed056954fa229178521a8a5d3",
+      "md_span": {
+        "start": 1300,
+        "end": 1576
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

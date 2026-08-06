@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_1er": [
       {
@@ -58,5 +59,64 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1er": [
+        {
+          "valid_from": "2021-03-14",
+          "valid_to": null,
+          "text_sha256": "9112eb46866c3b5df0c2d896c4e4ca3852005c8adb63475a1adc07e3947589d8",
+          "in_version": "lu-legilux:loi-2021-03-05-a185:2021-03-14",
+          "article_valid_from": "2021-03-14"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2021-03-14",
+          "valid_to": "2022-12-31",
+          "text_sha256": "6e4b764ab6bd664552ed82dcd4942fd75d1889cfb71502bc90fd4c9e2e9360a1",
+          "in_version": "lu-legilux:loi-2021-03-05-a185:2021-03-14",
+          "article_valid_from": "2021-03-14"
+        },
+        {
+          "valid_from": "2023-01-01",
+          "valid_to": null,
+          "text_sha256": "4c7ebb58802d3c5d8a0e3c6377155eb6305ec0a7e724c4defa1996db2b46a10a",
+          "in_version": "lu-legilux:loi-2021-03-05-a185:2023-01-01",
+          "article_valid_from": "2023-01-01"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2021-03-14",
+          "valid_to": null,
+          "text_sha256": "8edf8518b5a537ebbae61baf2e8c2faa572e1bd938cf018d0a0c68043fd2b85b",
+          "in_version": "lu-legilux:loi-2021-03-05-a185:2021-03-14",
+          "article_valid_from": "2021-03-14"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2021-03-14",
+          "valid_to": null,
+          "text_sha256": "5e614e881411a26fc18ea53890d4d4f383a26ad52871a5c69cb0b58884ac786e",
+          "in_version": "lu-legilux:loi-2021-03-05-a185:2021-03-14",
+          "article_valid_from": "2021-03-14"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2021-03-14",
+          "valid_to": null,
+          "text_sha256": "9222b22a566b6eaff06e756e243402b6c84da5261427f0d58f54cf33a90cec94",
+          "in_version": "lu-legilux:loi-2021-03-05-a185:2021-03-14",
+          "article_valid_from": "2021-03-14"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

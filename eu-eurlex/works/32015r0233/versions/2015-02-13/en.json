@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r0233:2015-02-13",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2015/233 of 13 February 2015 laying down implementing technical standards with regard to currencies in which there is an extremely narrow definition of central bank eligibility pursuant to Regulation (EU) No 575/2013",
+  "valid_from": "2015-02-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r0233/versions/2015-02-13/en.xml",
+    "sha256": "0c3505b09fb7547316128f8f52c712bb41063dc846941e419af92d2271fccbb9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R0233"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r0233:2015-02-13#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe currencies in which there is an extremely narrow definition of central bank eligibility which meet the conditions referred to in the third subparagraph of Article 416(3) of Regulation (EU) No 575/2013 are set out in the Annex to this Regulation.",
+      "text_sha256": "75ea85226488d13b8c8248fd7f41347590605aa8bfac5b868e6cc0b42f8c959d",
+      "md_span": {
+        "start": 801,
+        "end": 1061
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r0233:2015-02-13#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1094,
+        "end": 1245
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

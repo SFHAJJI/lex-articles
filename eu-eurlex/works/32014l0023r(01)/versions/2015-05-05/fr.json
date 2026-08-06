@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014l0023r(01):2015-05-05",
+  "language": "fr",
+  "title": "Corrigendum to Directive 2014/23/EU",
+  "valid_from": "2015-05-05",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014l0023r(01)/versions/2015-05-05/fr.xml",
+    "sha256": "519c6484f1c4231f8c2058e8fa5685c2209c665f3efec900b8b973ca0c276439",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014L0023R%2801%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32014l0023r(01):2015-05-05#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "5.5.2015 FR Journal officiel de l'Union européenne L 114/24 Rectificatif à la directive 2014/23/UE du Parlement européen et du Conseil du 26 février 2014 sur l'attribution de contrats de concession ( «Journal officiel de l'Union européenne» L 94 du 28 mars 2014 ) Page 33, article 31, paragraphe 5, troisième alinéa, point a): au lieu de: «a) le candidat concerné est ou peut être exclu en vertu de l'article 38, paragraphes 5 à 9, ou ne remplit pas les critères de sélection établis par le pouvoir adjudicateur ou l'entité adjudicatrice en vertu de l'article 38, paragraphe 1;» lire: «a) le candidat concerné est ou peut être exclu en vertu de l'article 38, paragraphes 4 à 9, ou ne remplit pas les critères de sélection établis par le pouvoir adjudicateur ou l'entité adjudicatrice en vertu de l'article 38, paragraphe 1;» Page 33, article 33, paragraphe 1, premier alinéa: au lieu de: «1. Les avis de concession, les avis d'attribution de concession et l'avis visé à l'article 43, paragraphe 1, second alinéa, incluent les informations mentionnées aux annexes V, VII et VIII selon le format des formulaires types, y compris des formulaires types pour rectificatifs.» lire: «1. Les avis de concession, les avis d'attribution de concession et l'avis visé à l'article 43, paragraphe 1, second alinéa, incluent les informations mentionnées aux annexes V, VI, VII, VIII et XI selon le format des formulaires types, y compris des formulaires types pour rectificatifs.» Page 53, annexe II, point 1), deuxième alinéa, phrase introductive: au lieu de: «L'alimentation par une entité adjudicatrice visée à l'article 7, paragraphe 1, points b) et c), en gaz ou en chaleur des réseaux qui fournissent un service au public n'est pas considérée comme une activité au sens du paragraphe 1 lorsque toutes les conditions suivantes sont remplies:» lire: «L'alimentation par une entité adjudicatrice visée à l'article 7, paragraphe 1, points b) et c), en gaz ou en chaleur des réseaux qui fournissent un service au public n'est pas considérée comme une activité au sens du premier alinéa du présent paragraphe lorsque toutes les conditions suivantes sont remplies:» Page 53, annexe II, point 2), troisième alinéa, phrase introductive: au lieu de: «L'alimentation en électricité des réseaux qui fournissent un service au public par une entité adjudicatrice visée à l'article 7, paragraphe 1, points b) et c), n'est pas considérée comme une activité au sens du paragraphe 1 lorsque toutes les conditions suivantes sont remplies:» lire: «L'alimentation en électricité des réseaux qui fournissent un service au public par une entité adjudicatrice visée à l'article 7, paragraphe 1, points b) et c), n'est pas considérée comme une activité au sens du premier alinéa du présent paragraphe lorsque toutes les conditions suivantes sont remplies:»",
+      "text_sha256": "23dd71838e3d5ace04007a8cfafd179373771656103645197ec7ad733f474400",
+      "md_span": {
+        "start": 607,
+        "end": 3429
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0722:2026-03-26",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2026/722 of 26\u00A0March 2026 amending the implementin…",
+  "valid_from": "2026-03-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0722/versions/2026-03-26/en.xml",
+    "sha256": "009952f24d26c75faab87166eb1054c9d37098595096feca04216f1685d2afb7",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R0722"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0722:2026-03-26#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nImplementing Regulation (EU) 2024/3172 is amended as follows:\n\n| (1) | in Article 16, paragraph 2 is replaced by the following:‘2. Until 31 December 2026, institutions shall make the disclosures in accordance with Article 15 of Commission Implementing Regulation (EU) 2021/637.’ |\n| --- | --- |\n\n| (2) | after Article 24, the following articles 24a, 24b, 24c and 24d are inserted:‘Article 24aData exchange formats and information accompanying submissions to the EBA single access point for institutions’ disclosures1. Institutions other than small and non-complex institutions shall submit to the EBA the information to be disclosed under Titles II and III of Part Eight of Regulation (EU) No 575/2013 both in PDF and XBRL-csv format.2. The institutions shall submit a single comprehensive PDF report that is human-readable and machine-readable and that shall contain the following information:(a)all the quantitative and qualitative information to be disclosed under Titles II and III of Part Eight of Regulation (EU) No 575/2013, except for the information referred to in Article 450;(b)any qualitative information to accompany the quantitative information, as required by the relevant disclosure templates;(c)any other supplementary information required to comply with the disclosure requirements referred to in Article 431(4) of Regulation (EU) No 575/2013;(d)the written attestation and the key elements of the institution’s formal policies required to comply with the disclosure requirements referred to in Article 431(3) of Regulation (EU) No 575/2013;(e)any relevant information regarding omitted data points, in accordance with the relevant EBA guidelines and instructions.3. The institutions referred to in paragraph 1 shall submit a separate single PDF report that is human-readable and machine-readable with the information referred to in Article 450 of Regulation (EU) No 575/2013.4. The institutions referred to in paragraph 1 shall submit separately in XBRL-csv format the quantitative information referred to in each quantitative module, as defined by the IT solutions published on the EBA website.5. The submission of the relevant PDF reports and XBRL-csv documents and any following resubmissions thereof shall be in accordance with the name convention and the practical instructions specified by EBA in the filing rules published on the EBA website.6. Where institutions need to resubmit any of the information referred to in paragraphs 1 to 5, they shall resubmit the full module including that information.Article 24bTechnical validations and rejections of information submitted to the EBA single access point for institutions’ disclosures1. At the moment of submission, the EBA’s single access point for institutions’ disclosures shall automatically verify whether information submitted by institutions other than small and non-complex ones, complies with Article 24a, and it shall reject any information that is not compliant.2. Where an automatic rejection as referred to in paragraph 1 takes place, the EBA’s single access point for institutions’ disclosures shall notify the institutions concerned, which shall resubmit the required information in the correct manner and form without undue delay.Article 24cPublication via the EBA single access point for institutions’ disclosures1. Following the submission of the required information by institutions other than small and non-complex institutions, the EBA shall publish on its website the files received in the EBA single access point for institutions’ disclosures without undue delay. In exceptional circumstances of delays due to major technical issues, the EBA shall publish the information as soon as the technical issues are solved with an explanation for such delayed publication.2. The EBA’s single access point for institutions’ disclosures shall send an automatic electronic notification to institutions other than small and non-complex informing those institutions that the information is public, after their information has been published on the EBA’s website.’Article 24dTransitional provisions regarding the use of the EBA single access point for institutions’ disclosuresFor the disclosures with reference dates 30 June 2025, 30 September 2025 and 31 December 2025, where it is not technically possible to submit the information to the EBA single access point for institutions’ disclosures without delay, institutions shall disclose the required information on their website or, in the absence of a website, in any other appropriate location with subsequent submission to the EBA, following the resolution of the technical difficulties.’ |\n| --- | --- |\n| (a) | all the quantitative and qualitative information to be disclosed under Titles II and III of Part Eight of Regulation (EU) No 575/2013, except for the information referred to in Article 450; |\n| (b) | any qualitative information to accompany the quantitative information, as required by the relevant disclosure templates; |\n| (c) | any other supplementary information required to comply with the disclosure requirements referred to in Article 431(4) of Regulation (EU) No 575/2013; |\n| (d) | the written attestation and the key elements of the institution’s formal policies required to comply with the disclosure requirements referred to in Article 431(3) of Regulation (EU) No 575/2013; |\n| (e) | any relevant information regarding omitted data points, in accordance with the relevant EBA guidelines and instructions. |\n\n| (3) | in Article 27, paragraphs 1 and 2 are replaced by the following:‘1. Implementing Regulation (EU) 2021/637 shall cease to apply from 1 January 2025, except for Article 15 and Annexes XXIX and XXX. Article 15 and Annexes XXIX and XXX of Implementing Regulation (EU) 2021/637 shall continue to apply until 31 December 2026 only for the purposes of Article 16 of this Regulation.2. Implementing Regulation (EU) 2021/637 is repealed with effect from 31 December 2026.’. |\n| --- | --- |",
+      "text_sha256": "e2547936c383dca44d508548e7604b4087e31402e949a772ff6e7bc6b485aa45",
+      "md_span": {
+        "start": 636,
+        "end": 6609
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0722:2026-03-26#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 6642,
+        "end": 6793
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

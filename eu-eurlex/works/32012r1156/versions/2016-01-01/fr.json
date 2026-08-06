@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32012r1156:2016-01-01",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) No\u00A01156/2012 of 6\u00A0December 2012 laying down detail…",
+  "valid_from": "2016-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32012r1156/versions/2016-01-01/fr.html",
+    "sha256": "1daf5c986a20e7d1684e2f378cf9a3021c305d4704638c796ea9c71183e88f63",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02012R1156-20160101"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32012r1156:2016-01-01#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "2012R1156 — FR — 01.01.2016 — 002.001 Ce document constitue un outil de documentation et n’engage pas la responsabilité des institutions ►B RÈGLEMENT D’EXÉCUTION (UE) No 1156/2012 DE LA COMMISSION du 6 décembre 2012 établissant les modalités d’application de certaines dispositions de la directive 2011/16/UE du Conseil relative à la coopération administrative dans le domaine fiscal (JO L 335, 7.12.2012, p.42) abrogé par: Journal officiel n° page date Règlement d'exécution (UE) 2015/2378 de la Commission du 15 décembre 2015 L 332 19 18.12.2015",
+      "text_sha256": "c2935c69394ae4524942c920a7ca6ae5b33ba1a7bf625ba1d0d552c4d8dd1e02",
+      "md_span": {
+        "start": 658,
+        "end": 1205
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

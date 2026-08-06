@@ -2,25 +2,36 @@
   "lex_work_id": "eu-eurlex:32024r2847",
   "title": "Cyber Resilience Act — Regulation (EU) 2024/2847",
   "languages": [
-    "en"
+    "en",
+    "fr"
   ],
   "versions": [
+    {
+      "valid_from": "2024-10-23",
+      "valid_to": "2024-11-19",
+      "language": "en",
+      "provisions": 71
+    },
+    {
+      "valid_from": "2024-10-23",
+      "valid_to": "2024-11-19",
+      "language": "fr",
+      "provisions": 71
+    },
     {
       "valid_from": "2024-11-20",
       "valid_to": null,
       "language": "en",
-      "provisions": 79
+      "provisions": 71
+    },
+    {
+      "valid_from": "2024-11-20",
+      "valid_to": null,
+      "language": "fr",
+      "provisions": 71
     }
   ],
   "anchors": [
-    "anx_i",
-    "anx_ii",
-    "anx_iii",
-    "anx_iv",
-    "anx_v",
-    "anx_vi",
-    "anx_vii",
-    "anx_viii",
     "art_1",
     "art_10",
     "art_11",

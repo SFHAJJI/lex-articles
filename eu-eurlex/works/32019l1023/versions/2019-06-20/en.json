@@ -1,0 +1,652 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019l1023:2019-06-20",
+  "language": "en",
+  "title": "Directive (EU) 2019/1023",
+  "valid_from": "2019-06-20",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019l1023/versions/2019-06-20/en.xml",
+    "sha256": "65a0cecc734262183bc7055c932a7e741523cd18752bd13ea4f7173824e331b1",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019L1023"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. This Directive lays down rules on:\n\n| (a) | preventive restructuring frameworks available for debtors in financial difficulties when there is a likelihood of insolvency, with a view to preventing the insolvency and ensuring the viability of the debtor; |\n| --- | --- |\n\n| (b) | procedures leading to a discharge of debt incurred by insolvent entrepreneurs; and |\n| --- | --- |\n\n| (c) | measures to increase the efficiency of procedures concerning restructuring, insolvency and discharge of debt. |\n| --- | --- |\n\n2. This Directive does not apply to procedures referred to in paragraph 1 of this Article that concern debtors that are:\n\n| (a) | insurance undertakings or reinsurance undertakings as defined in points (1) and (4) of Article 13 of Directive 2009/138/EC; |\n| --- | --- |\n\n| (b) | credit institutions as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013; |\n| --- | --- |\n\n| (c) | investment firms or collective investment undertakings as defined in points (2) and (7) of Article 4(1) of Regulation (EU) No 575/2013; |\n| --- | --- |\n\n| (d) | central counter parties as defined in point (1) of Article 2 of Regulation (EU) No 648/2012; |\n| --- | --- |\n\n| (e) | central securities depositories as defined in point (1) of Article 2(1) of Regulation (EU) No 909/2014; |\n| --- | --- |\n\n| (f) | other financial institutions and entities listed in the first subparagraph of Article 1(1) of Directive 2014/59/EU; |\n| --- | --- |\n\n| (g) | public bodies under national law; and |\n| --- | --- |\n\n| (h) | natural persons who are not entrepreneurs. |\n| --- | --- |\n\n3. Member States may exclude from the scope of this Directive procedures referred to in paragraph 1 that concern debtors which are financial entities, other than those referred to in paragraph 2, providing financial services which are subject to special arrangements under which the national supervisory or resolution authorities have wide-ranging powers of intervention comparable to those laid down in Union and national law in relation to the financial entities referred to in paragraph 2. Member States shall communicate those special arrangements to the Commission.\n\n4. Member States may extend the application of the procedures referred to in point (b) of paragraph 1 to insolvent natural persons who are not entrepreneurs.\n\nMember States may restrict the application of point (a) of paragraph 1 to legal persons.\n\n5. Member States may provide that the following claims are excluded from, or are not affected by, preventive restructuring frameworks referred to in point (a) of paragraph 1:\n\n| (a) | existing and future claims of existing or former workers; |\n| --- | --- |\n\n| (b) | maintenance claims arising from a family relationship, parentage, marriage or affinity; or |\n| --- | --- |\n\n| (c) | claims that arise from tortious liability of the debtor. |\n| --- | --- |\n\n6. Member States shall ensure that preventive restructuring frameworks have no impact on accrued occupational pension entitlements.",
+      "text_sha256": "b61aadb57a0555bf6e81259b7a3372cff67a6d4bd1dcbc4e73f90a8ca6a86561",
+      "md_span": {
+        "start": 569,
+        "end": 3573
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. For the purposes of this Directive, the following definitions apply:\n\n| (1) | ‘restructuring’ means measures aimed at restructuring the debtor's business that include changing the composition, conditions or structure of a debtor's assets and liabilities or any other part of the debtor's capital structure, such as sales of assets or parts of the business and, where so provided under national law, the sale of the business as a going concern, as well as any necessary operational changes, or a combination of those elements; |\n| --- | --- |\n\n| (2) | ‘affected parties’ means creditors, including, where applicable under national law, workers, or classes of creditors and, where applicable, under national law, equity holders, whose claims or interests, respectively, are directly affected by a restructuring plan; |\n| --- | --- |\n\n| (3) | ‘equity holder’ means a person that has an ownership interest in a debtor or a debtor's business, including a shareholder, in so far as that person is not a creditor; |\n| --- | --- |\n\n| (4) | ‘stay of individual enforcement actions’ means a temporary suspension, granted by a judicial or administrative authority or applied by operation of law, of the right of a creditor to enforce a claim against a debtor and, where so provided for by national law, against a third-party security provider, in the context of a judicial, administrative or other procedure, or of the right to seize or realise out of court the assets or business of the debtor; |\n| --- | --- |\n\n| (5) | ‘executory contract’ means a contract between a debtor and one or more creditors under which the parties still have obligations to perform at the time the stay of individual enforcement actions is granted or applied; |\n| --- | --- |\n\n| (6) | ‘best-interest-of-creditors test’ means a test that is satisfied if no dissenting creditor would be worse off under a restructuring plan than such a creditor would be if the normal ranking of liquidation priorities under national law were applied, either in the event of liquidation, whether piecemeal or by sale as a going concern, or in the event of the next-best-alternative scenario if the restructuring plan were not confirmed; |\n| --- | --- |\n\n| (7) | ‘new financing’ means any new financial assistance provided by an existing or a new creditor in order to implement a restructuring plan and that is included in that restructuring plan; |\n| --- | --- |\n\n| (8) | ‘interim financing’ means any new financial assistance, provided by an existing or a new creditor, that includes, as a minimum, financial assistance during the stay of individual enforcement actions, and that is reasonable and immediately necessary for the debtor's business to continue operating, or to preserve or enhance the value of that business; |\n| --- | --- |\n\n| (9) | ‘entrepreneur’ means a natural person exercising a trade, business, craft or profession; |\n| --- | --- |\n\n| (10) | ‘full discharge of debt’ means that enforcement against entrepreneurs of their outstanding dischargeable debts is precluded or that outstanding dischargeable debts as such are cancelled, as part of a procedure which could include a realisation of assets or a repayment plan or both; |\n| --- | --- |\n\n| (11) | ‘repayment plan’ means a programme of payments of specified amounts on specified dates by an insolvent entrepreneur to creditors, or a periodic transfer to creditors of a certain part of entrepreneur's disposable income during the discharge period; |\n| --- | --- |\n\n| (12) | ‘practitioner in the field of restructuring’ means any person or body appointed by a judicial or administrative authority to carry out, in particular, one or more of the following tasks:(a)assisting the debtor or the creditors in drafting or negotiating a restructuring plan;(b)supervising the activity of the debtor during the negotiations on a restructuring plan, and reporting to a judicial or administrative authority;(c)taking partial control over the assets or affairs of the debtor during negotiations. |\n| --- | --- |\n| (a) | assisting the debtor or the creditors in drafting or negotiating a restructuring plan; |\n| (b) | supervising the activity of the debtor during the negotiations on a restructuring plan, and reporting to a judicial or administrative authority; |\n| (c) | taking partial control over the assets or affairs of the debtor during negotiations. |\n\n2. For the purposes of this Directive, the following concepts are to be understood as defined by national law:\n\n| (a) | insolvency; |\n| --- | --- |\n\n| (b) | likelihood of insolvency; |\n| --- | --- |\n\n| (c) | micro, small and medium-sized enterprises (‘SMEs’). |\n| --- | --- |",
+      "text_sha256": "6dc16133be7426fcfe775eebdf7bf770b3f5af2398ec684a9b0b28f823867b10",
+      "md_span": {
+        "start": 3606,
+        "end": 8265
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Member States shall ensure that debtors have access to one or more clear and transparent early warning tools which can detect circumstances that could give rise to a likelihood of insolvency and can signal to them the need to act without delay.\n\nFor the purposes of the first subparagraph, Member States may make use of up-to-date IT technologies for notifications and for communication.\n\n2. Early warning tools may include the following:\n\n| (a) | alert mechanisms when the debtor has not made certain types of payments; |\n| --- | --- |\n\n| (b) | advisory services provided by public or private organisations. |\n| --- | --- |\n\n| (c) | incentives under national law for third parties with relevant information about the debtor, such as accountants, tax and social security authorities, to flag to the debtor a negative development. |\n| --- | --- |\n\n3. Member States shall ensure that debtors and employees' representatives have access to relevant and up-to-date information about the availability of early warning tools as well as of the procedures and measures concerning restructuring and discharge of debt.\n\n4. Member States shall ensure that information on access to early warning tools is publicly available online and that, in particular for SMEs, it is easily accessible and presented in a user-friendly manner.\n\n5. Member States may provide support to employees' representatives for the assessment of the economic situation of the debtor.",
+      "text_sha256": "819ec085645f0888a0f3db55d5238bf7dbc39cbf5ef29e7cca2fd12809fb256b",
+      "md_span": {
+        "start": 8298,
+        "end": 9756
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Member States shall ensure that, where there is a likelihood of insolvency, debtors have access to a preventive restructuring framework that enables them to restructure, with a view to preventing insolvency and ensuring their viability, without prejudice to other solutions for avoiding insolvency, thereby protecting jobs and maintaining business activity.\n\n2. Member States may provide that debtors that have been sentenced for serious breaches of accounting or bookkeeping obligations under national law are allowed to access a preventive restructuring framework only after those debtors have taken adequate measures to remedy the issues that gave rise to the sentence, with a view to providing creditors with the necessary information to enable them to take a decision during restructuring negotiations.\n\n3. Member States may maintain or introduce a viability test under national law, provided that such a test has the purpose of excluding debtors that do not have a prospect of viability, and that it can be carried out without detriment to the debtors' assets.\n\n4. Member States may limit the number of times within a certain period a debtor can access a preventive restructuring framework as provided for under this Directive.\n\n5. The preventive restructuring framework provided for under this Directive may consist of one or more procedures, measures or provisions, some of which may take place out of court, without prejudice to any other restructuring frameworks under national law.\n\nMember States shall ensure that such restructuring framework affords debtors and affected parties the rights and safeguards provided for in this Title in a coherent manner.\n\n6. Member States may put in place provisions limiting the involvement of a judicial or administrative authority in a preventive restructuring framework to where it is necessary and proportionate while ensuring that rights of any affected parties and relevant stakeholders are safeguarded.\n\n7. Preventive restructuring frameworks provided for under this Directive shall be available on application by debtors.\n\n8. Member States may also provide that preventive restructuring frameworks provided for under this Directive are available at the request of creditors and employees' representatives, subject to the agreement of the debtor. Member States may limit that requirement to obtain the debtor's agreement to cases where debtors are SMEs.",
+      "text_sha256": "1ae096f72543cf4499ffde94cb10366b712857314c9312f4ac5b53341bdcd253",
+      "md_span": {
+        "start": 9789,
+        "end": 12210
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Member States shall ensure that debtors accessing preventive restructuring procedures remain totally, or at least partially, in control of their assets and the day-to-day operation of their business.\n\n2. Where necessary, the appointment by a judicial or administrative authority of a practitioner in the field of restructuring shall be decided on a case-by-case basis, except in certain circumstances where Member States may require the mandatory appointment of such a practitioner in every case.\n\n3. Member States shall provide for the appointment of a practitioner in the field of restructuring, to assist the debtor and creditors in negotiating and drafting the plan, at least in the following cases:\n\n| (a) | where a general stay of individual enforcement actions, in accordance with Article 6(3), is granted by a judicial or administrative authority, and the judicial or administrative authority decides that such a practitioner is necessary to safeguard the interest of the parties; |\n| --- | --- |\n\n| (b) | where the restructuring plan needs to be confirmed by a judicial or administrative authority by means of a cross-class cram-down, in accordance with Article 11; or |\n| --- | --- |\n\n| (c) | where it is requested by the debtor or by a majority of the creditors, provided that, in the latter case, the cost of the practitioner is borne by the creditors. |\n| --- | --- |",
+      "text_sha256": "0d7ca00da062bc9bdbffa11d5689f0b5342e937e8a97cc230a8ce1d09264e865",
+      "md_span": {
+        "start": 12243,
+        "end": 13637
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Member States shall ensure that debtors can benefit from a stay of individual enforcement actions to support the negotiations of a restructuring plan in a preventive restructuring framework.\n\nMember States may provide that judicial or administrative authorities can refuse to grant a stay of individual enforcement actions where such a stay is not necessary or where it would not achieve the objective set out in the first subparagraph.\n\n2. Without prejudice to paragraphs 4 and 5, Member States shall ensure that a stay of individual enforcement actions can cover all types of claims, including secured claims and preferential claims.\n\n3. Member States may provide that a stay of individual enforcement actions can be general, covering all creditors, or can be limited, covering one or more individual creditors or categories of creditors.\n\nWhere a stay is limited, the stay shall only apply to creditors that have been informed, in accordance with national law, of negotiations as referred to in paragraph 1 on the restructuring plan or of the stay.\n\n4. Member States may exclude certain claims or categories of claims from the scope of the stay of individual enforcement actions, in well-defined circumstances, where such an exclusion is duly justified and where:\n\n| (a) | enforcement is not likely to jeopardise the restructuring of the business; or |\n| --- | --- |\n\n| (b) | the stay would unfairly prejudice the creditors of those claims. |\n| --- | --- |\n\n5. Paragraph 2 shall not apply to workers' claims.\n\nBy way of derogation from the first subparagraph, Member States may apply paragraph 2 to workers' claims if, and to the extent that, Member States ensure that the payment of such claims is guaranteed in preventive restructuring frameworks at a similar level of protection.\n\n6. The initial duration of a stay of individual enforcement actions shall be limited to a maximum period of no more than four months.\n\n7. Notwithstanding paragraph 6, Member States may enable judicial or administrative authorities to extend the duration of a stay of individual enforcement actions or to grant a new stay of individual enforcement actions, at the request of the debtor, a creditor or, where applicable, a practitioner in the field of restructuring. Such extension or new stay of individual enforcement actions shall be granted only if well-defined circumstances show that such extension or new stay is duly justified, such as:\n\n| (a) | relevant progress has been made in the negotiations on the restructuring plan; |\n| --- | --- |\n\n| (b) | the continuation of the stay of individual enforcement actions does not unfairly prejudice the rights or interests of any affected parties; or |\n| --- | --- |\n\n| (c) | insolvency proceedings which could end in the liquidation of the debtor under national law have not yet been opened in respect of the debtor. |\n| --- | --- |\n\n8. The total duration of the stay of individual enforcement actions, including extensions and renewals, shall not exceed 12 months.\n\nWhere Member States choose to implement this Directive by means of one or more procedures or measures which do not fulfil the conditions for notification under Annex A to Regulation (EU) 2015/848, the total duration of the stay under such procedures shall be limited to no more than four months if the centre of main interests of the debtor has been transferred from another Member State within a three-month period prior to the filing of a request for the opening of preventive restructuring proceedings.\n\n9. Member States shall ensure that judicial or administrative authorities can lift a stay of individual enforcement actions in the following cases:\n\n| (a) | the stay no longer fulfils the objective of supporting the negotiations on the restructuring plan, for example if it becomes apparent that a proportion of creditors which, under national law, could prevent the adoption of the restructuring plan do not support the continuation of the negotiations; |\n| --- | --- |\n\n| (b) | at the request of the debtor or the practitioner in the field of restructuring; |\n| --- | --- |\n\n| (c) | where so provided for in national law, if one or more creditors or one or more classes of creditors are, or would be, unfairly prejudiced by a stay of individual enforcement actions; or |\n| --- | --- |\n\n| (d) | where so provided for in national law, if the stay gives rise to the insolvency of a creditor. |\n| --- | --- |\n\nMember States may limit the power, under the first subparagraph, to lift the stay of individual enforcement actions to situations where creditors had not had the opportunity to be heard before the stay came into force or before an extension of the period was granted by a judicial or administrative authority.\n\nMember States may provide for a minimum period, which does not exceed the period referred to in paragraph 6, during which a stay of individual enforcement actions cannot be lifted.",
+      "text_sha256": "a5a87d5b4a986791be2346f1bceb4d9c24c93cc7b23687aec0de7e9ba95de977",
+      "md_span": {
+        "start": 13670,
+        "end": 18593
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Where an obligation on a debtor, provided for under national law, to file for the opening of insolvency proceedings which could end in the liquidation of the debtor, arises during a stay of individual enforcement actions, that obligation shall be suspended for the duration of that stay.\n\n2. A stay of individual enforcement actions in accordance with Article 6 shall suspend, for the duration of the stay, the opening, at the request of one or more creditors, of insolvency proceedings which could end in the liquidation of the debtor.\n\n3. Member States may derogate from paragraphs 1 and 2 in situations where a debtor is unable to pay its debts as they fall due. In such cases, Member States shall ensure that a judicial or administrative authority can decide to keep in place the benefit of the stay of individual enforcement actions, if, taking into account the circumstances of the case, the opening of insolvency proceedings which could end in the liquidation of the debtor would not be in the general interest of creditors.\n\n4. Member States shall provide for rules preventing creditors to which the stay applies from withholding performance or terminating, accelerating or, in any other way, modifying essential executory contracts to the detriment of the debtor, for debts that came into existence prior to the stay, solely by virtue of the fact that they were not paid by the debtor. ‘Essential executory contracts’ shall be understood to mean executory contracts which are necessary for the continuation of the day-to-day operations of the business, including contracts concerning supplies, the suspension of which would lead to the debtor's activities coming to a standstill.\n\nThe first subparagraph shall not preclude Member States from affording such creditors appropriate safeguards with a view to preventing unfair prejudice being caused to such creditors as a result of that subparagraph.\n\nMember States may provide that this paragraph also applies to non-essential executory contracts.\n\n5. Member States shall ensure that creditors are not allowed to withhold performance or terminate, accelerate or, in any other way, modify executory contracts to the detriment of the debtor by virtue of a contractual clause providing for such measures, solely by reason of:\n\n| (a) | a request for the opening of preventive restructuring proceedings; |\n| --- | --- |\n\n| (b) | a request for a stay of individual enforcement actions; |\n| --- | --- |\n\n| (c) | the opening of preventive restructuring proceedings; or |\n| --- | --- |\n\n| (d) | the granting of a stay of individual enforcement actions as such. |\n| --- | --- |\n\n6. Member States may provide that a stay of individual enforcement actions does not apply to netting arrangements, including close-out netting arrangements, on financial markets, energy markets and commodity markets, even in circumstances where Article 31(1) does not apply, if such arrangements are enforceable under national insolvency law. The stay shall, however, apply to the enforcement by a creditor of a claim against a debtor arising as a result of the operation of a netting arrangement.\n\nThe first subparagraph shall not apply to contracts for the supply of goods, services or energy necessary for the operation of the debtor's business, unless such contracts take the form of a position traded on an exchange or other market, such that it can be substituted at any time at current market value.\n\n7. Member States shall ensure that the expiry of a stay of individual enforcement actions without the adoption of a restructuring plan does not, of itself, give rise to the opening of an insolvency procedure which could end in the liquidation of the debtor, unless the other conditions for such opening laid down by national law are fulfilled.",
+      "text_sha256": "160029c3f89b941f44d15401e2343ab98956a281f5833fe4df9e4cfa68cdc344",
+      "md_span": {
+        "start": 18626,
+        "end": 22417
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Member States shall require that restructuring plans submitted for adoption in accordance with Article 9, or for confirmation by a judicial or administrative authority in accordance with Article 10, contain at least the following information:\n\n| (a) | the identity of the debtor; |\n| --- | --- |\n\n| (b) | the debtor's assets and liabilities at the time of submission of the restructuring plan, including a value for the assets, a description of the economic situation of the debtor and the position of workers, and a description of the causes and the extent of the difficulties of the debtor; |\n| --- | --- |\n\n| (c) | the affected parties, whether named individually or described by categories of debt in accordance with national law, as well as their claims or interests covered by the restructuring plan; |\n| --- | --- |\n\n| (d) | where applicable, the classes into which the affected parties have been grouped, for the purpose of adopting the restructuring plan, and the respective values of claims and interests in each class; |\n| --- | --- |\n\n| (e) | where applicable, the parties, whether named individually or described by categories of debt in accordance with national law, which are not affected by the restructuring plan, together with a description of the reasons why it is proposed not to affect them; |\n| --- | --- |\n\n| (f) | where applicable, the identity of the practitioner in the field of restructuring; |\n| --- | --- |\n\n| (g) | the terms of the restructuring plan, including, in particular:(i)any proposed restructuring measures as referred to in point (1) of Article 2(1);(ii)where applicable, the proposed duration of any proposed restructuring measures;(iii)the arrangements with regard to informing and consulting the employees' representatives in accordance with Union and national law;(iv)where applicable, overall consequences as regards employment such as dismissals, short-time working arrangements or similar;(v)the estimated financial flows of the debtor, if provided for by national law; and(vi)any new financing anticipated as part of the restructuring plan, and the reasons why the new financing is necessary to implement that plan; |\n| --- | --- |\n| (i) | any proposed restructuring measures as referred to in point (1) of Article 2(1); |\n| (ii) | where applicable, the proposed duration of any proposed restructuring measures; |\n| (iii) | the arrangements with regard to informing and consulting the employees' representatives in accordance with Union and national law; |\n| (iv) | where applicable, overall consequences as regards employment such as dismissals, short-time working arrangements or similar; |\n| (v) | the estimated financial flows of the debtor, if provided for by national law; and |\n| (vi) | any new financing anticipated as part of the restructuring plan, and the reasons why the new financing is necessary to implement that plan; |\n\n| (h) | a statement of reasons which explains why the restructuring plan has a reasonable prospect of preventing the insolvency of the debtor and ensuring the viability of the business, including the necessary pre-conditions for the success of the plan. Member States may require that that statement of reasons be made or validated either by an external expert or by the practitioner in the field of restructuring if such a practitioner is appointed. |\n| --- | --- |\n\n2. Member States shall make available online a comprehensive check-list for restructuring plans, adapted to the needs of SMEs. The check-list shall include practical guidelines on how the restructuring plan has to be drafted under national law.\n\nThe check-list shall be made available in the official language or languages of the Member State. Member States shall consider making the check-list available in at least one other language, in particular in a language used in international business.",
+      "text_sha256": "dbfc32f1928fcc4f5cd9f4eebef937b9b9c5e512d1d2f0cfccca56e308f454be",
+      "md_span": {
+        "start": 22450,
+        "end": 26313
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Member States shall ensure that, irrespective of who applies for a preventive restructuring procedure in accordance with Article 4, debtors have the right to submit restructuring plans for adoption by the affected parties.\n\nMember States may also provide that creditors and practitioners in the field of restructuring have the right to submit restructuring plans, and provide for conditions under which they may do so.\n\n2. Member States shall ensure that affected parties have a right to vote on the adoption of a restructuring plan.\n\nParties that are not affected by a restructuring plan shall not have voting rights in the adoption of that plan.\n\n3. Notwithstanding paragraph 2, Member States may exclude from the right to vote the following:\n\n| (a) | equity holders; |\n| --- | --- |\n\n| (b) | creditors whose claims rank below the claims of ordinary unsecured creditors in the normal ranking of liquidation priorities; or |\n| --- | --- |\n\n| (c) | any related party of the debtor or the debtor's business, with a conflict of interest under national law. |\n| --- | --- |\n\n4. Member States shall ensure that affected parties are treated in separate classes which reflect sufficient commonality of interest based on verifiable criteria, in accordance with national law. As a minimum, creditors of secured and unsecured claims shall be treated in separate classes for the purposes of adopting a restructuring plan.\n\nMember States may also provide that workers' claims are treated in a separate class of their own.\n\nMember States may provide that debtors that are SMEs can opt not to treat affected parties in separate classes.\n\nMember States shall put in place appropriate measures to ensure that class formation is done with a particular view to protecting vulnerable creditors such as small suppliers.\n\n5. Voting rights and the formation of classes shall be examined by a judicial or administrative authority when a request for confirmation of the restructuring plan is submitted.\n\nMember States may require a judicial or administrative authority to examine and confirm the voting rights and formation of classes at an earlier stage than that referred to in the first subparagraph.\n\n6. A restructuring plan shall be adopted by affected parties, provided that a majority in the amount of their claims or interests is obtained in each class. Member States may, in addition, require that a majority in the number of affected parties is obtained in each class.\n\nMember States shall lay down the majorities required for the adoption of a restructuring plan. Those majorities shall not be higher than 75 % of the amount of claims or interests in each class or, where applicable, of the number of affected parties in each class.\n\n7. Notwithstanding paragraphs 2 to 6, Member States may provide that a formal vote on the adoption of a restructuring plan can be replaced by an agreement with the requisite majority.",
+      "text_sha256": "d3c3234ef14e59b920a6f34f19582a6ea12c4683a353a0c1dad5e724ff55e528",
+      "md_span": {
+        "start": 26346,
+        "end": 29265
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Member States shall ensure that at least the following restructuring plans are binding on the parties only if they are confirmed by a judicial or administrative authority:\n\n| (a) | restructuring plans which affect the claims or interests of dissenting affected parties; |\n| --- | --- |\n\n| (b) | restructuring plans which provide for new financing; |\n| --- | --- |\n\n| (c) | restructuring plans which involve the loss of more than 25 % of the workforce, if such loss is permitted under national law. |\n| --- | --- |\n\n2. Member States shall ensure that the conditions under which a restructuring plan can be confirmed by a judicial or administrative authority are clearly specified and include at least the following:\n\n| (a) | the restructuring plan has been adopted in accordance with Article 9; |\n| --- | --- |\n\n| (b) | creditors with sufficient commonality of interest in the same class are treated equally, and in a manner proportionate to their claim; |\n| --- | --- |\n\n| (c) | notification of the restructuring plan has been given in accordance with national law to all affected parties; |\n| --- | --- |\n\n| (d) | where there are dissenting creditors, the restructuring plan satisfies the best-interest-of-creditors test; |\n| --- | --- |\n\n| (e) | where applicable, any new financing is necessary to implement the restructuring plan and does not unfairly prejudice the interests of creditors. |\n| --- | --- |\n\nCompliance with point (d) of the first subparagraph shall be examined by a judicial or administrative authority only if the restructuring plan is challenged on that ground.\n\n3. Member States shall ensure that judicial or administrative authorities are able to refuse to confirm a restructuring plan where that plan would not have a reasonable prospect of preventing the insolvency of the debtor or ensuring the viability of the business.\n\n4. Member States shall ensure that where a judicial or administrative authority is required to confirm a restructuring plan in order for it to become binding, the decision is taken in an efficient manner with a view to expeditious treatment of the matter.",
+      "text_sha256": "238bb9b7cd23ad02e3f0971856c339f782142f9ea89524f8c38b7c47051ac84b",
+      "md_span": {
+        "start": 29300,
+        "end": 31419
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Member States shall ensure that a restructuring plan which is not approved by affected parties, as provided for in Article 9(6), in every voting class, may be confirmed by a judicial or administrative authority upon the proposal of a debtor or with the debtor's agreement, and become binding upon dissenting voting classes where the restructuring plan fulfils at least the following conditions:\n\n| (a) | it complies with Article 10(2) and (3); |\n| --- | --- |\n\n| (b) | it has been approved by:(i)a majority of the voting classes of affected parties, provided that at least one of those classes is a secured creditors class or is senior to the ordinary unsecured creditors class; or, failing that,(ii)at least one of the voting classes of affected parties or where so provided under national law, impaired parties, other than an equity-holders class or any other class which, upon a valuation of the debtor as a going concern, would not receive any payment or keep any interest, or, where so provided under national law, which could be reasonably presumed not to receive any payment or keep any interest, if the normal ranking of liquidation priorities were applied under national law; |\n| --- | --- |\n| (i) | a majority of the voting classes of affected parties, provided that at least one of those classes is a secured creditors class or is senior to the ordinary unsecured creditors class; or, failing that, |\n| (ii) | at least one of the voting classes of affected parties or where so provided under national law, impaired parties, other than an equity-holders class or any other class which, upon a valuation of the debtor as a going concern, would not receive any payment or keep any interest, or, where so provided under national law, which could be reasonably presumed not to receive any payment or keep any interest, if the normal ranking of liquidation priorities were applied under national law; |\n\n| (c) | it ensures that dissenting voting classes of affected creditors are treated at least as favourably as any other class of the same rank and more favourably than any junior class; and |\n| --- | --- |\n\n| (d) | no class of affected parties can, under the restructuring plan, receive or keep more than the full amount of its claims or interests. |\n| --- | --- |\n\nBy way of derogation from the first subparagraph, Member States may limit the requirement to obtain the debtor's agreement to cases where debtors are SMEs.\n\nMember States may increase the minimum number of classes of affected parties or, where so provided under national law, impaired parties, required to approve the plan as laid down in point (b)(ii) of the first subparagraph.\n\n2. By way of derogation from point (c) of paragraph 1, Member States may provide that the claims of affected creditors in a dissenting voting class are satisfied in full by the same or equivalent means where a more junior class is to receive any payment or keep any interest under the restructuring plan.\n\nMember States may maintain or introduce provisions derogating from the first subparagraph where they are necessary in order to achieve the aims of the restructuring plan and where the restructuring plan does not unfairly prejudice the rights or interests of any affected parties.",
+      "text_sha256": "2a71ed7973c106967ec59023e0fa4bb1c24b9c84dbf09e8afc09a405ab454a08",
+      "md_span": {
+        "start": 31454,
+        "end": 34710
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Where Member States exclude equity holders from the application of Articles 9 to 11, they shall ensure by other means that those equity holders are not allowed to unreasonably prevent or create obstacles to the adoption and confirmation of a restructuring plan.\n\n2. Member States shall also ensure that equity holders are not allowed to unreasonably prevent or create obstacles to the implementation of a restructuring plan.\n\n3. Member States may adapt what it means to unreasonably prevent or create obstacles under this Article to take into account, inter alia: whether the debtor is an SME or a large enterprise; the proposed restructuring measures touching upon the rights of equity holders; the type of equity holder; whether the debtor is a legal or a natural person; or whether partners in a company have limited or unlimited liability.",
+      "text_sha256": "66d2e4e64095b1afe5a1e8a4e54f111df11131615f38ff28e530a7023b6691f3",
+      "md_span": {
+        "start": 34745,
+        "end": 35603
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Members States shall ensure that individual and collective workers' rights, under Union and national labour law, such as the following, are not affected by the preventive restructuring framework:\n\n| (a) | the right to collective bargaining and industrial action; and |\n| --- | --- |\n\n| (b) | the right to information and consultation in accordance with Directive 2002/14/EC and Directive 2009/38/EC, in particular:(i)information to employees' representatives about the recent and probable development of the undertaking's or the establishment's activities and economic situation, enabling them to communicate to the debtor concerns about the situation of the business and as regards the need to consider restructuring mechanisms;(ii)information to employees' representatives about any preventive restructuring procedure which could have an impact on employment, such as on the ability of workers to recover their wages and any future payments, including occupational pensions;(iii)information to and consultation of employees' representatives about restructuring plans before they are submitted for adoption in accordance with Article 9, or for confirmation by a judicial or administrative authority in accordance with Article 10; |\n| --- | --- |\n| (i) | information to employees' representatives about the recent and probable development of the undertaking's or the establishment's activities and economic situation, enabling them to communicate to the debtor concerns about the situation of the business and as regards the need to consider restructuring mechanisms; |\n| (ii) | information to employees' representatives about any preventive restructuring procedure which could have an impact on employment, such as on the ability of workers to recover their wages and any future payments, including occupational pensions; |\n| (iii) | information to and consultation of employees' representatives about restructuring plans before they are submitted for adoption in accordance with Article 9, or for confirmation by a judicial or administrative authority in accordance with Article 10; |\n\n| (c) | the rights guaranteed by Directives 98/59/EC, 2001/23/EC and 2008/94/EC. |\n| --- | --- |\n\n2. Where the restructuring plan includes measures leading to changes in the work organisation or in contractual relations with workers, those measures shall be approved by those workers, if national law or collective agreements provide for such approval in such cases.",
+      "text_sha256": "f2fc90a4121d08a40b1ac6b99d86a768fc802e37d243fb1ee8d3ce1b15579ade",
+      "md_span": {
+        "start": 35638,
+        "end": 38107
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. The judicial or administrative authority shall take a decision on the valuation of the debtor's business only where a restructuring plan is challenged by a dissenting affected party on the grounds of either:\n\n| (a) | an alleged failure to satisfy the best-interest-of-creditors test under point (6) of Article 2(1); or |\n| --- | --- |\n\n| (b) | an alleged breach of the conditions for a cross-class cram-down under point (ii) of Article 11(1)(b). |\n| --- | --- |\n\n2. Member States shall ensure that, for the purpose of taking a decision on a valuation in accordance with paragraph 1, judicial or administrative authorities may appoint or hear properly qualified experts.\n\n3. For the purposes of paragraph 1, Member States shall ensure that a dissenting affected party may lodge a challenge with the judicial or administrative authority called upon to confirm the restructuring plan.\n\nMember States may provide that such a challenge can be lodged in the context of an appeal against a decision on the confirmation of a restructuring plan.",
+      "text_sha256": "82b8bfc9de352e226f5a4fb27a21c7b449d86bb969e616e062f22d0bc724e27e",
+      "md_span": {
+        "start": 38142,
+        "end": 39193
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Member States shall ensure that restructuring plans that are confirmed by a judicial or administrative authority are binding upon all affected parties named or described in accordance with point (c) of Article 8(1).\n\n2. Member States shall ensure that creditors that are not involved in the adoption of a restructuring plan under national law are not affected by the plan.",
+      "text_sha256": "bbb96dc011f22fbc3e5aff365d5114038d0aa88a75ce7a86975b128cb025f24b",
+      "md_span": {
+        "start": 39228,
+        "end": 39615
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Member States shall ensure that any appeal provided for under national law against a decision to confirm or reject a restructuring plan taken by a judicial authority is brought before a higher judicial authority.\n\nMember States shall ensure that an appeal against a decision to confirm or reject a restructuring plan taken by an administrative authority is brought before a judicial authority.\n\n2. Appeals shall be resolved in an efficient manner with a view to expeditious treatment.\n\n3. An appeal against a decision confirming a restructuring plan shall have no suspensive effects on the execution of that plan.\n\nBy way of derogation from the first subparagraph, Member States may provide that judicial authorities can suspend the execution of the restructuring plan or parts thereof where necessary and appropriate to safeguard the interests of a party.\n\n4. Member States shall ensure that, where an appeal pursuant to paragraph 3 is upheld, the judicial authority may either:\n\n| (a) | set aside the restructuring plan; or |\n| --- | --- |\n\n| (b) | confirm the restructuring plan, either with amendments, where so provided under national law, or without amendments. |\n| --- | --- |\n\nMember States may provide that, where a plan is confirmed under point (b) of the first subparagraph, compensation is granted to any party that incurred monetary losses and whose appeal is upheld.",
+      "text_sha256": "d6d958a43eb5b3711a3f622dc322dde78f8a628e0d8af266d27712944ab10bef",
+      "md_span": {
+        "start": 39650,
+        "end": 41045
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. Member States shall ensure that new financing and interim financing are adequately protected. As a minimum, in the case of any subsequent insolvency of the debtor:\n\n| (a) | new financing and interim financing shall not be declared void, voidable or unenforceable; and |\n| --- | --- |\n\n| (b) | the grantors of such financing shall not incur civil, administrative or criminal liability, on the ground that such financing is detrimental to the general body of creditors, unless other additional grounds laid down by national law are present. |\n| --- | --- |\n\n2. Member States may provide that paragraph 1 shall only apply to new financing if the restructuring plan has been confirmed by a judicial or administrative authority, and to interim financing which has been subject to ex ante control.\n\n3. Member States may exclude from the application of paragraph 1 interim financing which is granted after the debtor has become unable to pay its debts as they fall due.\n\n4. Member States may provide that grantors of new or interim financing are entitled to receive payment with priority in the context of subsequent insolvency procedures in relation to other creditors that would otherwise have superior or equal claims.",
+      "text_sha256": "6d27ab9bd81d7fd19c447cc81a8191d1af3ba52db37b600bcb1c235f585d7252",
+      "md_span": {
+        "start": 41080,
+        "end": 42309
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Without prejudice to Article 17, Member States shall ensure that, in the event of any subsequent insolvency of a debtor, transactions that are reasonable and immediately necessary for the negotiation of a restructuring plan are not declared void, voidable or unenforceable on the ground that such transactions are detrimental to the general body of creditors, unless other additional grounds laid down by national law are present.\n\n2. Member States may provide that paragraph 1 only applies where the plan is confirmed by a judicial or administrative authority or where such transactions were subject to ex ante control.\n\n3. Member States may exclude from the application of paragraph 1 transactions that are carried out after the debtor has become unable to pay its debts as they fall due.\n\n4. Transactions referred to in paragraph 1 shall include, as a minimum:\n\n| (a) | the payment of fees for and costs of negotiating, adopting or confirming a restructuring plan; |\n| --- | --- |\n\n| (b) | the payment of fees for and costs of seeking professional advice closely connected with the restructuring; |\n| --- | --- |\n\n| (c) | the payment of workers' wages for work already carried out without prejudice to other protection provided in Union or national law; |\n| --- | --- |\n\n| (d) | any payments and disbursements made in the ordinary course of business other than those referred to in points (a) to (c). |\n| --- | --- |\n\n5. Without prejudice to Article 17, Member States shall ensure that, in the event of any subsequent insolvency of the debtor, transactions that are reasonable and immediately necessary for the implementation of a restructuring plan, and that are carried out in accordance with the restructuring plan confirmed by a judicial or administrative authority, are not declared void, voidable or unenforceable on the ground that such transactions are detrimental to the general body of creditors, unless other additional grounds laid down by national law are present.",
+      "text_sha256": "fc87881db93180b63b92691b0383b763fecfe6083f6a53f005a39686752078d6",
+      "md_span": {
+        "start": 42344,
+        "end": 44339
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\nMember States shall ensure that, where there is a likelihood of insolvency, directors, have due regard, as a minimum, to the following:\n\n| (a) | the interests of creditors, equity holders and other stakeholders; |\n| --- | --- |\n\n| (b) | the need to take steps to avoid insolvency; and |\n| --- | --- |\n\n| (c) | the need to avoid deliberate or grossly negligent conduct that threatens the viability of the business. |\n| --- | --- |",
+      "text_sha256": "c75e57f829acd6224ffc7ac3b3099b580b62bb8a28780ec32e0f14a7a6bcb36b",
+      "md_span": {
+        "start": 44374,
+        "end": 44815
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\n1. Member States shall ensure that insolvent entrepreneurs have access to at least one procedure that can lead to a full discharge of debt in accordance with this Directive.\n\nMember States may require that the trade, business, craft or profession to which an insolvent entrepreneur's debts are related has ceased.\n\n2. Member States in which a full discharge of debt is conditional on a partial repayment of debt by the entrepreneur shall ensure that the related repayment obligation is based on the individual situation of the entrepreneur and, in particular, is proportionate to the entrepreneur's seizable or disposable income and assets during the discharge period, and takes into account the equitable interest of creditors.\n\n3. Member States shall ensure that entrepreneurs who have been discharged from their debts may benefit from existing national frameworks providing for business support for entrepreneurs, including access to relevant and up-to-date information about these frameworks.",
+      "text_sha256": "6e3de5a369c852e2646f782e9a7b7c7ef8dc11ac629ae91287aecbc306d19066",
+      "md_span": {
+        "start": 44850,
+        "end": 45858
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. Member States shall ensure that the period after which insolvent entrepreneurs are able to be fully discharged from their debts is no longer than three years starting at the latest from the date of either:\n\n| (a) | in the case of a procedure which includes a repayment plan, the decision by a judicial or administrative authority to confirm the plan or the start of the implementation of the plan; or |\n| --- | --- |\n\n| (b) | in the case of any other procedure, the decision by the judicial or administrative authority to open the procedure, or the establishment of the entrepreneur's insolvency estate. |\n| --- | --- |\n\n2. Member States shall ensure that insolvent entrepreneurs who have complied with their obligations, where such obligations exist under national law, are discharged of their debt on expiry of the discharge period without the need to apply to a judicial or administrative authority to open a procedure additional to those referred to in paragraph 1.\n\nWithout prejudice to the first subparagraph, Member States may maintain or introduce provisions allowing the judicial or administrative authority to verify whether the entrepreneurs have fulfilled the obligations for obtaining a discharge of debt.\n\n3. Member States may provide that a full discharge of debt does not hinder the continuation of an insolvency procedure that entails the realisation and distribution of assets of an entrepreneur that formed part of the insolvency estate of that entrepreneur as at the date of expiry of the discharge period.",
+      "text_sha256": "70d11decb77e05fc742a2cf6783aa3c1140bbd552ba9b486083d623100e9ba6d",
+      "md_span": {
+        "start": 45893,
+        "end": 47434
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. Member States shall ensure that, where an insolvent entrepreneur obtains a discharge of debt in accordance with this Directive, any disqualifications from taking up or pursuing a trade, business, craft or profession on the sole ground that the entrepreneur is insolvent, shall cease to have effect, at the latest, at the end of the discharge period.\n\n2. Member States shall ensure that, on expiry of the discharge period, the disqualifications referred to in paragraph 1 of this Article cease to have effect without the need to apply to a judicial or administrative authority to open a procedure additional to those referred to in Article 21(1).",
+      "text_sha256": "89326d888432ff1a8bd9d9909144a095d1b7e8c4fb090f5b0e92d3b9e933040d",
+      "md_span": {
+        "start": 47469,
+        "end": 48129
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\n1. By way of derogation from Articles 20 to 22, Member States shall maintain or introduce provisions denying or restricting access to discharge of debt, revoking the benefit of such discharge or providing for longer periods for obtaining a full discharge of debt or longer disqualification periods, where the insolvent entrepreneur acted dishonestly or in bad faith under national law towards creditors or other stakeholders when becoming indebted, during the insolvency proceedings or during the payment of the debt, without prejudice to national rules on burden of proof.\n\n2. By way of derogation from Articles 20 to 22, Member States may maintain or introduce provisions denying or restricting access to discharge of debt, revoking the benefit of discharge or providing for longer periods for obtaining a full discharge of debt or longer disqualification periods in certain well-defined circumstances and where such derogations are duly justified, such as where:\n\n| (a) | the insolvent entrepreneur has substantially violated obligations under a repayment plan or any other legal obligation aimed at safeguarding the interests of creditors, including the obligation to maximise returns to creditors; |\n| --- | --- |\n\n| (b) | the insolvent entrepreneur has failed to comply with information or cooperation obligations under Union and national law; |\n| --- | --- |\n\n| (c) | there are abusive applications for a discharge of debt; |\n| --- | --- |\n\n| (d) | there is a further application for a discharge within a certain period after the insolvent entrepreneur was granted a full discharge of debt or was denied a full discharge of debt due to a serious violation of information or cooperation obligations; |\n| --- | --- |\n\n| (e) | the cost of the procedure leading to the discharge of debt is not covered; or |\n| --- | --- |\n\n| (f) | a derogation is necessary to guarantee the balance between the rights of the debtor and the rights of one or more creditors. |\n| --- | --- |\n\n3. By way of derogation from Article 21, Member States may provide for longer discharge periods in cases where:\n\n| (a) | protective measures are approved or ordered by a judicial or administrative authority in order to safeguard the main residence of the insolvent entrepreneur and, where applicable, of the entrepreneur's family, or the essential assets for the continuation of the entrepreneur's trade, business, craft or profession; or |\n| --- | --- |\n\n| (b) | the main residence of the insolvent entrepreneur and, where applicable, of the entrepreneur's family, is not realised. |\n| --- | --- |\n\n4. Member States may exclude specific categories of debt from discharge of debt, or restrict access to discharge of debt or lay down a longer discharge period where such exclusions, restrictions or longer periods are duly justified, such as in the case of:\n\n| (a) | secured debts; |\n| --- | --- |\n\n| (b) | debts arising from or in connection with criminal penalties; |\n| --- | --- |\n\n| (c) | debts arising from tortious liability; |\n| --- | --- |\n\n| (d) | debts regarding maintenance obligations arising from a family relationship, parentage, marriage or affinity; |\n| --- | --- |\n\n| (e) | debts incurred after the application for or opening of the procedure leading to a discharge of debt; and |\n| --- | --- |\n\n| (f) | debts arising from the obligation to pay the cost of the procedure leading to a discharge of debt. |\n| --- | --- |\n\n5. By way of derogation from Article 22, Member States may provide for longer or indefinite disqualification periods where the insolvent entrepreneur is a member of a profession:\n\n| (a) | to which specific ethical rules or specific rules on reputation or expertise apply, and the entrepreneur has infringed those rules; or |\n| --- | --- |\n\n| (b) | dealing with the management of the property of others. |\n| --- | --- |\n\nThe first subparagraph shall also apply where an insolvent entrepreneur requests access to a profession as referred to in point (a) or (b) of that subparagraph.\n\n6. This Directive is without prejudice to national rules regarding disqualifications ordered by a judicial or administrative authority other than those referred to in Article 22.",
+      "text_sha256": "5f6d38876ae3af30c75ae0d646b42803487ce2e8470d3453410e62f94bdd02e9",
+      "md_span": {
+        "start": 48164,
+        "end": 52348
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\n1. Member States shall ensure that, where insolvent entrepreneurs have professional debts incurred in the course of their trade, business, craft or profession as well as personal debts incurred outside those activities, which cannot be reasonably separated, such debts, if dischargeable, shall be treated in a single procedure for the purposes of obtaining a full discharge of debt.\n\n2. Member States may provide that, where professional debts and personal debts can be separated, those debts are to be treated, for the purposes of obtaining a full discharge of debt, either in separate but coordinated procedures or in the same procedure.",
+      "text_sha256": "d2a76ccfb43d5d140bf580b8b4d86ce674d9732c141e9983afcfd5c9bea066fe",
+      "md_span": {
+        "start": 52383,
+        "end": 53034
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\nWithout prejudice to judicial independence and to any differences in the organisation of the judiciary across the Union, Member States shall ensure that:\n\n| (a) | members of the judicial and administrative authorities dealing with procedures concerning restructuring, insolvency and discharge of debt receive suitable training and have the necessary expertise for their responsibilities; and |\n| --- | --- |\n\n| (b) | procedures concerning restructuring, insolvency and discharge of debt are dealt with in an efficient manner, with a view to the expeditious treatment of procedures. |\n| --- | --- |",
+      "text_sha256": "cefd730d2fc06d65658b93af45bb68631f53542523a2428d83f7781cf7b0545a",
+      "md_span": {
+        "start": 53069,
+        "end": 53678
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\n1. Member States shall ensure that:\n\n| (a) | practitioners appointed by a judicial or administrative authority in procedures concerning restructuring, insolvency and discharge of debt (‘practitioners’) receive suitable training and have the necessary expertise for their responsibilities; |\n| --- | --- |\n\n| (b) | the conditions for eligibility, as well as the process for the appointment, removal and resignation of practitioners are clear, transparent and fair; |\n| --- | --- |\n\n| (c) | in appointing a practitioner for a particular case, including cases with cross-border elements, due consideration is given to the practitioner's experience and expertise, and to the specific features of the case; and |\n| --- | --- |\n\n| (d) | in order to avoid any conflict of interest, debtors and creditors have the opportunity to either object to the selection or appointment of a practitioner or request the replacement of the practitioner. |\n| --- | --- |\n\n2. The Commission shall facilitate the sharing of best practices between Member States with a view to improving the quality of training across the Union, including by means of the exchange of experiences and capacity building tools.",
+      "text_sha256": "971597f88bd8ea2c8cd213f8fbc15d0e9847027ab149e50fd66fdf52b6b012cb",
+      "md_span": {
+        "start": 53713,
+        "end": 54907
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_27",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 27\n\n1. Member States shall put in place appropriate oversight and regulatory mechanisms to ensure that the work of practitioners is effectively supervised, with a view to ensuring that their services are provided in an effective and competent way, and, in relation to the parties involved, are provided impartially and independently. Those mechanisms shall also include measures for the accountability of practitioners who have failed in their duties.\n\n2. Member States shall ensure that information about the authorities or bodies exercising oversight over practitioners is publicly available.\n\n3. Member States may encourage the development of and adherence to codes of conduct by practitioners.\n\n4. Member States shall ensure that the remuneration of practitioners is governed by rules that are consistent with the objective of an efficient resolution of procedures.\n\nMember States shall ensure that appropriate procedures are in place to resolve any disputes over remuneration.",
+      "text_sha256": "5254491ef2db4aefb575d7ed7ff2f950a280018165d1398be38ef51ceba59473",
+      "md_span": {
+        "start": 54942,
+        "end": 55931
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_28",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 28\n\nMember States shall ensure that, in procedures concerning restructuring, insolvency and discharge of debt, the parties to the procedure, the practitioner and the judicial or administrative authority are able to perform by use of electronic means of communication, including in cross-border situations, at least the following actions:\n\n| (a) | filing of claims; |\n| --- | --- |\n\n| (b) | submission of restructuring or repayment plans; |\n| --- | --- |\n\n| (c) | notifications to creditors; |\n| --- | --- |\n\n| (d) | lodging of challenges and appeals. |\n| --- | --- |",
+      "text_sha256": "d16f93f309c8f39ebca6531e8ce1a4e822e15fbf769faace4dc4344527f76ca0",
+      "md_span": {
+        "start": 55966,
+        "end": 56540
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_29",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 29\n\n1. Member States shall collect and aggregate, on an annual basis, at national level, data on procedures concerning restructuring, insolvency and discharge of debt, broken down by each type of procedure, and covering at least the following elements:\n\n| (a) | the number of procedures that were applied for or opened, where such opening is provided for under national law, and of procedures that are pending or were closed; |\n| --- | --- |\n\n| (b) | the average length of procedures from the submission of the application, or from the opening thereof, where such opening is provided for under national law, to their closure; |\n| --- | --- |\n\n| (c) | the number of procedures other than those required under point (d), broken down by types of outcome; |\n| --- | --- |\n\n| (d) | the number of applications for restructuring procedures that were declared inadmissible, were rejected or were withdrawn before being opened. |\n| --- | --- |\n\n2. Member States shall collect and aggregate, on an annual basis, at national level, data on the number of debtors which were subject to restructuring procedures or insolvency procedures and which, within the three years prior to the submission of the application or the opening of such procedures, where such opening is provided for under national law, had a restructuring plan confirmed under a previous restructuring procedure implementing Title II.\n\n3. Member States may collect and aggregate, on an annual basis, at national level, data on:\n\n| (a) | the average cost of each type of procedure; |\n| --- | --- |\n\n| (b) | the average recovery rates for secured and unsecured creditors and, where applicable, other types of creditors, separately; |\n| --- | --- |\n\n| (c) | the number of entrepreneurs who, after having undergone a procedure under point (b) of Article 1(1), launch a new business; |\n| --- | --- |\n\n| (d) | the number of job losses linked to restructuring and insolvency procedures. |\n| --- | --- |\n\n4. Member States shall break down the data referred to in points (a) to (c) of paragraph 1 and, where applicable and available, the data referred to in paragraph 3 by:\n\n| (a) | the size of the debtors that are not natural persons; |\n| --- | --- |\n\n| (b) | whether debtors subject to procedures concerning restructuring or insolvency are natural or legal persons; and |\n| --- | --- |\n\n| (c) | whether the procedures leading to a discharge of debt concern only entrepreneurs or all natural persons. |\n| --- | --- |\n\n5. Member States may collect and aggregate the data referred to in paragraphs 1 to 4 through a sample technique that ensures that the samples are representative in terms of size and diversity.\n\n6. Member States shall collect and aggregate the data referred to in paragraphs 1, 2, 4 and, where applicable, paragraph 3, for full calendar years ending on 31 December of each year, starting with the first full calendar year following the date of application of implementing acts referred to in paragraph 7. The data shall be communicated annually to the Commission, on the basis of a standard data communication form, by 31 December of the calendar year following the year for which data are collected.\n\n7. The Commission shall establish the communication form referred to in paragraph 6 of this Article by way of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 30(2).\n\n8. The Commission shall publish on its website the data communicated in accordance with paragraph 6 in an accessible and user-friendly manner.",
+      "text_sha256": "6a99fd5af3fb23925ef26a453e2b15239807cac23eff7ea8d587fadb2cbf247d",
+      "md_span": {
+        "start": 56575,
+        "end": 60137
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_30",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 30\n\n1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.\n\n2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.\n\nWhere the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.",
+      "text_sha256": "97d33036fc5b53dc0e7f3392320afbf2e23b313157fa4ccc437ea0c8665a383c",
+      "md_span": {
+        "start": 60172,
+        "end": 60610
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_31",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 31\n\n1. The following acts shall apply notwithstanding this Directive:\n\n| (a) | Directive 98/26/EC; |\n| --- | --- |\n\n| (b) | Directive 2002/47/EC; and |\n| --- | --- |\n\n| (c) | Regulation (EU) No 648/2012. |\n| --- | --- |\n\n2. This Directive shall be without prejudice to the safeguarding requirements of funds for payment institutions laid down under Directive (EU) 2015/2366 of the European Parliament and of the Council (24) and for electronic money institutions laid down under Directive 2009/110/EC of the European Parliament and of the Council (25).\n\n3. This Directive shall be without prejudice to the application of the Convention on international interests in mobile equipment and its Protocol on matters specific to aircraft equipment, signed at Cape Town on 16 November 2001, to which some Member States are party at the time of the adoption of this Directive.",
+      "text_sha256": "894ce3ace54def827cad0e48611aec4080cf47c0aee31ba0b5b17f7da0f0daab",
+      "md_span": {
+        "start": 60645,
+        "end": 61521
+      },
+      "citations": [
+        {
+          "href": "#ntr24-L_2019172EN.01001801-E0024",
+          "text": "(24)"
+        },
+        {
+          "href": "#ntr25-L_2019172EN.01001801-E0025",
+          "text": "(25)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_32",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 32\n\nIn Article 84 of Directive (EU) 2017/1132, the following paragraph is added:\n\n‘4. Member States shall derogate from Article 58(1), Article 68, Articles 72, 73, and 74, point (b) of Article 79(1), Article 80(1) and Article 81 to the extent and for the period that such derogations are necessary for the establishment of the preventive restructuring frameworks provided for in Directive (EU) 2019/1023 of the European Parliament and of the Council(*1).\n\nThe first subparagraph shall be without prejudice to the principle of equal treatment of shareholders.",
+      "text_sha256": "47e50cdb02046285345cd7b063a485a5b30b7b704257025f9769c9aa2c504b2c",
+      "md_span": {
+        "start": 61556,
+        "end": 62122
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2019172EN.01001801-E0026",
+          "text": "(*1)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_33",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 33\n\nNo later than 17 July 2026 and every five years thereafter, the Commission shall present to the European Parliament, the Council and the European Economic and Social Committee a report on the application and impact of this Directive, including on the application of the class formation and voting rules in respect of vulnerable creditors, such as workers. On the basis of that assessment, the Commission shall submit, if appropriate, a legislative proposal, considering additional measures to consolidate and harmonise the legal framework on restructuring, insolvency and discharge of debt.",
+      "text_sha256": "20bbf9c4efa5d52085ca967437e24fdd4c2f8004882ebf3425b74ebcff3aa872",
+      "md_span": {
+        "start": 62157,
+        "end": 62759
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_34",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 34\n\n1. Member States shall adopt and publish, by 17 July 2021, the laws, regulations and administrative provisions necessary to comply with this Directive, with the exception of the provisions necessary to comply with points (a), (b) and (c) of Article 28 which shall be adopted and published by 17 July 2024 and the provisions necessary to comply with point (d) of Article 28 which shall be adopted and published by 17 July 2026. They shall immediately communicate the text of those provisions to the Commission.\n\nThey shall apply the laws, regulations and administrative provisions necessary to comply with this Directive from 17 July 2021, with the exception of the provisions necessary to comply with points (a), (b) and (c) of Article 28, which shall apply from 17 July 2024 and of the provisions necessary to comply with point (d) of Article 28, which shall apply from 17 July 2026.\n\n2. By way of derogation from paragraph 1, Member States that encounter particular difficulties in implementing this Directive shall be able to benefit from an extension of a maximum of one year of the implementation period provided for in paragraph 1. Member States shall notify to the Commission the need to make use of this option to extend the implementation period by 17 January 2021.\n\n3. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.",
+      "text_sha256": "770966726ba73da884a30eb911ac6bb905408c30cf663f0495b156bc234e2a13",
+      "md_span": {
+        "start": 62794,
+        "end": 64239
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_35",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 35\n\nThis Directive shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "db689562642d809098482951c2c26c3a0ad90f55a579833932a83b07bb590116",
+      "md_span": {
+        "start": 64274,
+        "end": 64425
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "eu-eurlex:32019l1023:2019-06-20#art_36",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 36\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "0db6bc2bbee21249000bf6a79569f39b89289dd6fa591647b380f2f6a4841127",
+      "md_span": {
+        "start": 64460,
+        "end": 64521
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

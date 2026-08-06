@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0789:2026-04-08",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2026/789 of 8\u00A0April 2026 supplementing Regulation (EU)\u00A0No\u00A0596/2014",
+  "valid_from": "2026-04-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0789/versions/2026-04-08/fr.xml",
+    "sha256": "86c399edafed7d9c1c867e0cdc9e3792c2e7c070949e0fd81086a5056d088f95",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0789"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0789:2026-04-08#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLa liste non exhaustive, visée à l’article 17, paragraphe 12, point a), du règlement (UE) no 596/2014, d’événements finaux et de circonstances finales de processus en plusieurs étapes figure à l’annexe I.",
+      "text_sha256": "7216b751e9473ed82ced6a8f531fb068548744a79c4e5492876864256346c9ce",
+      "md_span": {
+        "start": 648,
+        "end": 869
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0789:2026-04-08#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. La liste non exhaustive, visée à l’article 17, paragraphe 12, point b), du règlement (UE) no 596/2014, de situations dans lesquelles des informations privilégiées sont en contradiction avec la dernière annonce publique ou un autre type de communication figure à l’annexe II.\n\n2. Aux fins du paragraphe 1, les autres types de communication d’un émetteur ou d’un participant au marché des quotas d’émission pouvant porter sur la même matière que celle à laquelle se rapporte l’information privilégiée sont répertoriés à l’annexe III.",
+      "text_sha256": "e0c2ee6b960f2018f3c5e4c96d2010f2d36a7fc4e72b66d8fd577e07fc10c06f",
+      "md_span": {
+        "start": 902,
+        "end": 1447
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32026r0789:2026-04-08#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le troisième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "7f2175764e965b445513cd29262bc2c3e1395505db5a2285e20e5742eee5604f",
+      "md_span": {
+        "start": 1480,
+        "end": 1621
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

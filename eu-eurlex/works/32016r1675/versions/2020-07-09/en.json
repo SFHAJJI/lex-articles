@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1675:2020-07-09",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2016/1675 of 14 July 2016 supplementing Directive (EU) 2015/849",
+  "valid_from": "2020-07-09",
+  "valid_to": "2020-09-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1675/versions/2020-07-09/en.html",
+    "sha256": "bf63b1b54136c5562f8e87caa368323cfd0cf6c6df06c4e1b1c9b73e69276927",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1675-20200709"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r1675:2020-07-09#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The list of third-country jurisdictions which have strategic deficiencies in their anti-money laundering and countering the financing of terrorism regimes that pose significant threats to the financial system of the Union (‘high-risk third countries’) is laid down in the Annex.",
+      "text_sha256": "fdc52545de83d4b511eb67088297505be34faa112730daa2630255af0ab361a9",
+      "md_span": {
+        "start": 664,
+        "end": 942
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1675:2020-07-09#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the third day following that of its publication in the *Official Journal of the European Union*.\n\nThis Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.",
+      "text_sha256": "1af20e32ab340791ecb7a3e21f0472f12e9d89f1e2d40707a7c58daafda4913c",
+      "md_span": {
+        "start": 979,
+        "end": 1245
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annex",
+      "provision_id": "eu-eurlex:32016r1675:2020-07-09#annex",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEX",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**High-risk third countries**\n\nI. **High-risk third countries which have provided a written high-level political commitment to address the identified deficiencies and have developed an action plan with FATF.**\n\n| No | High-risk third country |\n| --- | --- |\n| 1 | Afghanistan |\n| ▼M4 ————— |  |\n| ▼B |  |\n| 4 | Iraq |\n| ▼M4 ————— |  |\n| ▼B |  |\n| 6 | Syria |\n| 7 | Uganda |\n| 8 | Vanuatu |\n| 9 | Yemen |\n| ▼M4 ————— |  |\n| ▼M2 |  |\n| 12 | Trinidad and Tobago |\n| ▼M4 ————— |  |\n| ▼M3 |  |\n| 14 | Pakistan |\n| ▼B |  |\n\nII. **High-risk third countries which have provided a high-level political commitment to address the identified deficiencies, and have decided to seek technical assistance in the implementation of the FATF Action Plan, which are identified by FATF Public Statement.**\n\n| No | High-risk third country |\n| --- | --- |\n| 1 | Iran |\n\nIII. **High-risk third countries which present ongoing and substantial money-laundering and terrorist-financing risks, having repeatedly failed to address the identified deficiencies and which are identified by FATF Public Statement.**\n\n| No | High-risk third country |\n| --- | --- |\n| 1 | Democratic People's Republic of Korea (DPRK) |",
+      "text_sha256": "4b5366f2442594f7378ed7b065bc474180646f2998d956d2e2ae3885bf78d20a",
+      "md_span": {
+        "start": 1278,
+        "end": 2462
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32020R0855",
+          "text": "▼M4"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32016R1675",
+          "text": "▼B"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32018R0212",
+          "text": "▼M2"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32018R1467",
+          "text": "▼M3"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r0637:2021-03-15",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2021/637 of 15 March 2021 laying down implementing technical standards with regard to public disclosures by institutions of the information referred to in Titles II and III of Part Eight of Regulation (EU) No 575/2013",
+  "valid_from": "2021-03-15",
+  "valid_to": "2021-06-27",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r0637/versions/2021-03-15/en.xml",
+    "sha256": "87b38a5afb73117165087bde73bda1f55f37628b59873c8db876f815c48f6efd",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0637"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Institutions shall disclose the information referred to in Article 447, points (a) to (g), and Article 438, point (b), of Regulation (EU) No 575/2013 by using template EU KM1 of Annex I to this Regulation and by following the instructions set out in Annex II to this Regulation.\n\n2. Institutions shall disclose the information referred to in Article 438, point (d), of Regulation (EU) No 575/2013 by using template EU OV1 of Annex I to this Regulation and by following the instructions set out in Annex II to this Regulation.\n\n3. Institutions shall disclose the information referred to in Article 438 points (a) and (c), of Regulation (EU) No 575/2013 by using table EU OVC set out in Annex I to this Regulation and by following the instructions set out in Annex II to this Regulation.\n\n4. Institutions shall disclose the information referred to in Article 438, points (f) and (g), of Regulation (EU) No 575/2013 by using templates EU INS1 and EU INS2 set out in Annex I to this Regulation and by following the instructions set out in Annex II to this Regulation.",
+      "text_sha256": "6f1e807cc32b58c8b4f6b7f9fd12786dddceac28eddbf763c976d3cf6785aded",
+      "md_span": {
+        "start": 808,
+        "end": 1885
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nInstitutions shall disclose the information referred to in Article 435 of Regulation (EU) No 575/2013 by using tables EU OVA and EU OVB set out in Annex III to this Regulation and by following the instructions set out in Annex IV to this Regulation.",
+      "text_sha256": "e882de758f192b857fa4595fb590db99a0d30a279718e4decba824bed4b05933",
+      "md_span": {
+        "start": 1918,
+        "end": 2178
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Institutions shall disclose the information referred to in Article 436, points (b) and (c), of Regulation (EU) No 575/2013 by using templates EU LI1 and EU LI3 of Annex V to this Regulation and by following the instructions set out in Annex VI to this Regulation.\n\n2. Institutions shall disclose the information referred to in Article 436, points (b) and (d), of Regulation (EU) No 575/2013 by using template EU LI2 and table EU LIA of Annex V to this Regulation and by following the instructions set out in Annex VI to this Regulation.\n\n3. Institutions shall disclose the information referred to in Article 436, point (e), of Regulation (EU) No 575/2013 by using template EU PV1 of Annex V to this Regulation and by following the instructions set out in Annex VI to this Regulation.\n\n4. Institutions shall disclose the information referred to in Article 436, points (f), (g) and (h), of Regulation (EU) No 575/2013, by using table EU LIB of Annex V to this Regulation and by following the instructions set out in Annex VI to this Regulation.",
+      "text_sha256": "6ff693dc43a3ffa76841b2bd72790a703d843cc5a8ea05200e52bc1bb8cd2423",
+      "md_span": {
+        "start": 2211,
+        "end": 3267
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nInstitutions shall disclose the information referred to in Article 437 of Regulation (EU) No 575/2013, as follows:\n\n| (a) | the information referred to in Article 437, points (a), (d), (e) and (f), of Regulation (EU) No 575/2013 by using templates EU CC1 and EU CC2 of Annex VII to this Regulation and by following the instructions set out in Annex VIII to this Regulation; |\n| --- | --- |\n\n| (b) | the information referred to in Article 437, points (b) and (c), of Regulation (EU) No 575/2013 by using table EU CCA of Annex VII to this Regulation and by following the instructions set out in Annex VIII to this Regulation. |\n| --- | --- |",
+      "text_sha256": "1da1fba5cfcc5cc8a33446a87ce16217a2f0e9ebb8c466b3f23e05f568e38193",
+      "md_span": {
+        "start": 3300,
+        "end": 3950
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nInstitutions shall disclose the information referred to in Article 440 of Regulation (EU) No 575/2013 as follows:\n\n| (a) | the information referred to in Article 440, point (a), of Regulation (EU) No 575/2013 by using template EU CCYB1 of Annex IX to this Regulation and by following the instructions set out in Annex X to this Regulation; |\n| --- | --- |\n\n| (b) | the information referred to in Article 440, point (b) of Regulation (EU) No 575/2013 by using template EU CCYB2 of Annex IX to this Regulation and by following the instructions set out in Annex X to this Regulation. |\n| --- | --- |",
+      "text_sha256": "e021e86870487b094d67eca32aad1ef0b8741bb1cab1796fbe14a7b71c536b59",
+      "md_span": {
+        "start": 3983,
+        "end": 4590
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nInstitutions shall disclose the information referred to in Article 451 of Regulation (EU) No 575/2013 as follows:\n\n| (a) | the information referred to in Article 451(1), points (a), (b), and (c), and in Article 451, paragraphs 2 and 3, of Regulation (EU) No 575/2013 by using templates EU LR1, EU LR2 and EU LR3 of Annex XI to this Regulation and by following the instructions set out in Annex XII to this Regulation; |\n| --- | --- |\n\n| (b) | the information referred to in Article 451(1), points (d) and (e), of Regulation (EU) No 575/2013 by using table EU LRA of Annex XI to this Regulation and by following the instructions set out in Annex XII to this Regulation. |\n| --- | --- |",
+      "text_sha256": "c44f03e4bb26c2798aad6cee05cf31d2cf213bd6229546a3da2b7d1147689c78",
+      "md_span": {
+        "start": 4623,
+        "end": 5318
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\nInstitutions shall disclose the information referred to in Article 435(1) and in Article 451a of Regulation (EU) No 575/2013 as follows:\n\n| (a) | the information referred to in Article 435(1) and in Article 451a(4) of Regulation (EU) No 575/2013 by using table EU LIQA of Annex XIII to this Regulation and by following the instructions set out in Annex XIV to this Regulation; |\n| --- | --- |\n\n| (b) | the information referred to in Article 451a(2) of Regulation (EU) No 575/2013 by using template EU LIQ1 and table EU LIQB of Annex XIII to this Regulation and by following the instructions set out in Annex XIV to this Regulation; |\n| --- | --- |\n\n| (c) | the information referred to in Article 451a(3) of Regulation (EU) No 575/2013 by using template EU LIQ2 of Annex XIII to this Regulation and by following the instructions set out in Annex XIV to this Regulation. |\n| --- | --- |",
+      "text_sha256": "41227cc89abf1a7b5163b87a7cc315f6e58d2234aef44c8503be425649faa7d4",
+      "md_span": {
+        "start": 5351,
+        "end": 6246
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Institutions shall disclose the information referred to in Articles 435 and 442 of Regulation (EU) No 575/2013 as follows:\n\n| (a) | the information referred to in Article 435(1), points (a), (b), (d) and (f), of Regulation (EU) No 575/2013 by using table EU CRA of Annex XV to this Regulation and by following the instructions set out in Annex XVI to this Regulation; |\n| --- | --- |\n\n| (b) | the information referred to in Article 442, points (a) and (b), of Regulation (EU) No 575/2013 by using table EU CRB of Annex XV to this Regulation and by following the instructions set out in Annex XVI to this Regulation; |\n| --- | --- |\n\n| (c) | the information referred to in Article 442, point (d), of Regulation (EU) No 575/2013 by using template EU CQ3 of Annex XV to this Regulation and by following the instructions set out in Annex XVI to this Regulation; |\n| --- | --- |\n\n| (d) | the information referred to in Article 442, point (g), of Regulation (EU) No 575/2013 by using template EU CR1-A of Annex XV to this Regulation and by following the instructions set out in Annex XVI to this Regulation; |\n| --- | --- |\n\n| (e) | the information referred to in Article 442, point (f), of Regulation (EU) No 575/2013 by using template EU CR2 of Annex XV to this Regulation and by following the instructions set out in Annex XVI to this Regulation. |\n| --- | --- |\n\n2. Institutions shall disclose the information referred to in Article 442, points (c), (e) and (f), of Regulation (EU) No 575/2013 by using templates EU CR1, EU CQ1, and EU CQ7, columns a, c, e, f and g of template EU CQ4, and columns a, c, e and f of template EU CQ5, set out in Annex XV to this Regulation and by following the instructions set out in Annex XVI to this Regulation.\n\n3. Large institutions that have a ratio between the gross carrying amount of loans and advances that fall under Article 47a(3) of Regulation (EU) No 575/2013 and the total gross carrying amount of loans and advances that fall under Article 47a(1) of Regulation (EU) No 575/2013 equal to or higher than 5 % shall, in addition to the templates and columns referred to in paragraph 2, disclose the information referred to in Article 442, points (c) and (f), of Regulation (EU) No 575/2013 by using templates EU CR2a, EU CQ2, EU CQ6 and EU CQ8, and columns b and d of templates EU CQ4 and EU CQ5 set out in Annex XV to this Regulation by following the instructions set out in Annex XVI. They shall disclose that information on an annual basis.\n\n4. For the purpose of paragraph 3, loans and advances classified as held for sale, cash balances at central banks and other demand deposits shall be excluded both from the denominator and the numerator of the ratio.\n\n5. Institutions shall commence disclosure in accordance with paragraph 3 where they have reached or exceeded the 5 % threshold referred to in that paragraph in two consecutive quarters during the four quarters prior to the reference date of the disclosure. For the reference date of the first disclosure, institutions shall disclose the information concerned by using the templates referred to in that paragraph where they exceed the 5 % threshold on that disclosure reference date.\n\n6. Institutions shall no longer be obliged to disclose in accordance with paragraph 3 where they have fallen below the 5 % threshold on three consecutive quarters during the four quarters prior to the disclosure reference date.",
+      "text_sha256": "5fb08f056a95cabc536d543dc5dc6b165cbc3b3d7a5418171bd708836575d764",
+      "md_span": {
+        "start": 6279,
+        "end": 9707
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nInstitutions shall disclose the information referred to in Article 453, points (a) to (f), of Regulation (EU) No 575/2013 as follows:\n\n| (a) | the information referred to in Article 453, points (a) to (e), of Regulation (EU) No 575/2013 by using table EU CRC of Annex XVII to this Regulation and by following the instructions set out in Annex XVIII to this Regulation; |\n| --- | --- |\n\n| (b) | the information referred to in Article 453, point (f), of Regulation (EU) No 575/2013 by using template EU CR3 of Annex XVII to this Regulation and by following the instructions set out in Annex XVIII to this Regulation. |\n| --- | --- |",
+      "text_sha256": "fa374d52ec4f14e4c93439d84b3c179d4ebc470fd01bd07321df05d1e41ca68e",
+      "md_span": {
+        "start": 9740,
+        "end": 10381
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nInstitutions calculating risk-weighted exposure amounts under the Standardised Approach shall disclose the information referred to in Article 444 and in Article 453, points (g), (h) and (i), of Regulation (EU) No 575/2013 as follows:\n\n| (a) | the information referred to in Article 444, points (a) to (d), of Regulation (EU) No 575/2013 by using table EU CRD of Annex XIX to this Regulation and by following the instructions set out in Annex XX to this Regulation; |\n| --- | --- |\n\n| (b) | the information referred to in Article 453, points (g), (h) and (i), of and Article 444, point (e), of Regulation (EU) No 575/2013 by using template EU CR4 of Annex XIX to this Regulation and by following the instructions set out in Annex XX to this Regulation; |\n| --- | --- |\n\n| (c) | the information referred to in Article 444, point (e), of Regulation (EU) No 575/2013 by using template EU CR5 of Annex XIX to this Regulation and by following the instructions set out in Annex XX to this Regulation and, for the information on the exposure values deducted from own funds referred to in that same Article, by using template EU CC1 of Annex VII to this Regulation and by following the instructions set out in Annex VIII to this Regulation. |\n| --- | --- |",
+      "text_sha256": "191b2dd4e760cd098064b56f7a72b5939f4498a4f68447f7157a6dd4e67f1051",
+      "md_span": {
+        "start": 10416,
+        "end": 11675
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nInstitutions calculating risk-weighted exposure amounts under the IRB Approach shall disclose the information referred to in Articles 438 and 452 and in Article 453, points (g) and (j), of Regulation (EU) No 575/2013 as follows:\n\n| (a) | the information referred to in Article 452, points (a) to (f), of Regulation (EU) No 575/2013 by using table EU CRE and template EU CR6-A of Annex XXI to this Regulation and by following the instructions set out in Annex XXII to this Regulation; |\n| --- | --- |\n\n| (b) | the information referred to in Article 452, point (g), of Regulation (EU) No 575/2013 by using template EU CR6 of Annex XXI to this Regulation and by following the instructions set out in Annex XXII to this Regulation; |\n| --- | --- |\n\n| (c) | the information referred to in Article 453, points (g) and (j), of Regulation (EU) No 575/2013 by using templates EU CR7-A and EU CR7 of Annex XXI to this Regulation and by following the instructions set out in Annex XXII to this Regulation; |\n| --- | --- |\n\n| (d) | the information referred to in Article 438, point (h), of Regulation (EU) No 575/2013 by using template EU CR8 of Annex XXI to this Regulation and by following the instructions set out in Annex XXII to this Regulation; |\n| --- | --- |\n\n| (e) | the information referred to in Article 452, point (h), of Regulation (EU) No 575/2013 by using templates EU CR9 and EU CR9.1 of Annex XXI to this Regulation and by following the instructions set out in Annex XXII to this Regulation. |\n| --- | --- |",
+      "text_sha256": "b08fe61789192d49df0bfbef64091a2ff27c439b3ff66b2e882975e94ab2d15d",
+      "md_span": {
+        "start": 11710,
+        "end": 13234
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nInstitutions shall disclose the information referred to in Article 438, point (e), of Regulation (EU) No 575/2013 by using template EU CR10 of Annex XXIII to this Regulation and by following the instructions set out in Annex XXIV to this Regulation.",
+      "text_sha256": "c748c23906a64dc4046ae39e8a6c23b23656cba716acd0302a5f4211c4078931",
+      "md_span": {
+        "start": 13269,
+        "end": 13530
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nInstitutions shall disclose the information referred to in Article 438, point (h), and Article 439 of Regulation (EU) No 575/2013 as follows:\n\n| (a) | the information referred to in Article 439, points (a), (b), (c) and (d), of Regulation (EU) No 575/2013 by using table EU CCRA of Annex XXV to this Regulation and by following the instructions set out in Annex XXVI to this Regulation; |\n| --- | --- |\n\n| (b) | the information referred to in Article 439, points (f), (g), (k) and (m), of Regulation (EU) No 575/2013 by using template EU CCR1 of Annex XXV to this Regulation and by following the instructions set out in Annex XXVI to this Regulation; |\n| --- | --- |\n\n| (c) | the information referred to in Article 439, point (h), of Regulation (EU) No 575/2013 by using template EU CCR2 of Annex XXV to this Regulation and by following the instructions set out in Annex XXVI to this Regulation; |\n| --- | --- |\n\n| (d) | the information referred to in Article 439, point (l) of Regulation (EU) No 575/2013 by using templates EU CCR3 and EU CCR4 of Annex XXV to this Regulation and by following the instructions set out in Annex XXVI to this Regulation; |\n| --- | --- |\n\n| (e) | the information referred to in Article 439, point (e), of Regulation (EU) No 575/2013 by using template EU CCR5 of Annex XXV to this Regulation and by following the instructions set out in Annex XXVI to this Regulation; |\n| --- | --- |\n\n| (f) | the information referred to in Article 439, point (j), of Regulation (EU) No 575/2013 by using, template EU CCR6 of Annex XXV to this Regulation and by following the instructions set out in Annex XXVI to this Regulation; |\n| --- | --- |\n\n| (g) | the information referred to in Article 438, point (h), of Regulation (EU) No 575/2013 by using template EU CCR7 of Annex XXV to this Regulation and by following the instructions set out in Annex XXVI to this Regulation; |\n| --- | --- |\n\n| (h) | the information referred to in Article 439, point (i) of Regulation (EU) No 575/2013 by using template EU CCR8 of Annex XXV to this Regulation and by following the instructions set out in Annex XXVI to this Regulation. |\n| --- | --- |",
+      "text_sha256": "09ed68166dc63d7d702239f31dadc0b013aad0ceb71057af727f7649851232b2",
+      "md_span": {
+        "start": 13565,
+        "end": 15725
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nInstitutions shall disclose the information referred to in Article 449 of Regulation (EU) No 575/2013 as follows:\n\n| (a) | the information referred to in Article 449, points (a) to (i), of Regulation (EU) No 575/2013 by using table EU SECA of Annex XXVII to this Regulation and by following the instructions set out in Annex XXVIII to this Regulation; |\n| --- | --- |\n\n| (b) | the information referred to in Article 449, point (j), of Regulation (EU) No 575/2013 by using templates EU SEC1 and EU SEC2 of Annex XXVII to this Regulation and by following the instructions set out in Annex XXVIII to this Regulation; |\n| --- | --- |\n\n| (c) | the information referred to in Article 449, point (k), of Regulation (EU) No 575/2013 by using templates EU SEC3 and EU SEC4 of Annex XXVII to this Regulation and by following the instructions set out in Annex XXVIII to this Regulation; |\n| --- | --- |\n\n| (d) | the information referred to in Article 449, point (l) of Regulation (EU) No 575/2013 by using template EU SEC5 of Annex XXVII to this Regulation and by following the instructions set out in Annex XXVIII to this Regulation. |\n| --- | --- |",
+      "text_sha256": "77930d1e8839c8a93e4b73a0c62637239b5bebb00e093f636536ddc3c0c65749",
+      "md_span": {
+        "start": 15760,
+        "end": 16911
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Institutions shall disclose the information referred to in Article 445 of Regulation (EU) No 575/2013 by using template EU MR1 of Annex XXIX to this Regulation and by following the instructions set out in Annex XXX to this Regulation.\n\n2. Institutions shall disclose the information referred to in Articles 435, 438 and 455 of Regulation (EU) No 575/2013 as follows:\n\n| (a) | the information regarding market risk referred to in Article 435(1), points (a) to (d), of Regulation (EU) No 575/2013 by using table EU MRA of Annex XXIX to this Regulation and by following the instructions set out in Annex XXX to this Regulation; |\n| --- | --- |\n\n| (b) | the information referred to in Article 455, points (a), (b), (c) and (f), of Regulation (EU) No 575/2013 by using table EU MRB of Annex XXIX to this Regulation and by following the instructions set out in Annex XXX to this Regulation; |\n| --- | --- |\n\n| (c) | the information referred to in Article 455, point (e), of Regulation (EU) No 575/2013 by using template EU MR2-A of Annex XXIX to this Regulation and by following the instructions set out in Annex XXX to this Regulation; |\n| --- | --- |\n\n| (d) | the information regarding internal market risk models referred to in Article 438, point (h), of Regulation (EU) No 575/2013 by using template EU MR2-B of Annex XXIX to this Regulation and by following the instructions set out in Annex XXX to this Regulation; |\n| --- | --- |\n\n| (e) | the information referred to in Article 455, point (d), of Regulation (EU) No 575/2013 by using template EU MR3 of Annex XXIX to this Regulation and by following the instructions set out in Annex XXX to this Regulation; |\n| --- | --- |\n\n| (f) | the information referred to in Article 455, point (g), of Regulation (EU) No 575/2013 by using template EU MR4 of Annex XXIX to this Regulation and by following the instructions set out in Annex XXX to this Regulation. |\n| --- | --- |",
+      "text_sha256": "4baea094dcc8955742f65183a4bdb38e3a62723c4cbaf21e08444127ee163679",
+      "md_span": {
+        "start": 16946,
+        "end": 18879
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\nInstitutions shall disclose the information referred to in Article 435, Article 438, point (d), and Articles 446 and 454 of Regulation (EU) No 575/2013 by using table EU ORA and template EU OR1 of Annex XXXI to this Regulation and by following the instructions set out in Annex XXXII to this Regulation.",
+      "text_sha256": "1ac60eb0e0371011bb5cb8edefa32d9492e638a37f06b0c516f024e939053316",
+      "md_span": {
+        "start": 18914,
+        "end": 19229
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nInstitutions shall disclose the information referred to in Article 450 of Regulation (EU) No 575/2013, as follows:\n\n| (a) | the information referred to in Article 450(1), points (a) to (f), and points (j) and (k), and the information referred to in Article 450(2) of that Regulation, by using table EU REMA of Annex XXXIII to this Regulation and by following the instructions set out in Annex XXXIV to this Regulation; |\n| --- | --- |\n\n| (b) | the information referred to in Article 450(1), points (h)(i) and (h)(ii), of Regulation (EU) No 575/2013 by using template EU REM1 of Annex XXXIII to this Regulation and by following the instructions set out in Annex XXXIV to this Regulation; |\n| --- | --- |\n\n| (c) | the information referred to in Article 450(1), points (h)(v), (h)(vi) and (h)(vii), of Regulation (EU) No 575/2013 by using template EU REM2 of Annex XXXIII to this Regulation and by following the instructions set out in Annex XXXIV to this Regulation; |\n| --- | --- |\n\n| (d) | the information referred to in Article 450(1), points (h)(iii) and (h)(iv), of Regulation (EU) No 575/2013 by using template EU REM3 of Annex XXXIII to this Regulation and by following the instructions set out in Annex XXXIV to this Regulation; |\n| --- | --- |\n\n| (e) | the information referred to in Article 450(1), points (g) and (i), of Regulation (EU) No 575/2013 by using templates EU REM4 and EU REM5 of Annex XXXIII to this Regulation and by following the instructions set out in Annex XXXIV to this Regulation. |\n| --- | --- |",
+      "text_sha256": "d0e2603ff13123c83708e7f6cf30fe073a8f2aba4e1570a66364504b1c600b6a",
+      "md_span": {
+        "start": 19264,
+        "end": 20800
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\nInstitutions shall disclose the information referred to in Article 443 of Regulation (EU) No 575/2013 by using templates EU AE1, EU AE2 and EU AE3 and table EU AE4 of Annex XXXV to this Regulation and by following the instructions set out in Annex XXXVI to this Regulation.",
+      "text_sha256": "6c9da69a579aeaff9d7e9618f8b153d6c96ac66205353e800d4b028c33d1e4bb",
+      "md_span": {
+        "start": 20835,
+        "end": 21120
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. The numbering of rows or columns shall not be altered where an institution omits one or more disclosures in accordance with Article 432 of Regulation (EU) No 575/2013.\n\n2. Institutions shall make a clear note in the narrative accompanying the template or table concerned indicating which rows or columns are not populated and stating the reason of the omission of the disclosure.\n\n3. The information required by Article 431 of Regulation (EU) No 575/2013 shall be clear and comprehensive, enabling users of that information to understand the quantitative disclosures, and shall be placed next to the templates to which that information relates.\n\n4. Numeric values shall be presented as follows:\n\n| (a) | quantitative monetary data shall be disclosed using a minimum precision equivalent to millions of units; |\n| --- | --- |\n\n| (b) | quantitative data disclosed as ‘Percentage’ shall be expressed as per unit with a minimum precision equivalent to four decimals. |\n| --- | --- |\n\n5. Institutions shall, in addition to the information disclosed in accordance with this Regulation, also provide the following information:\n\n| (a) | disclosure reference date and reference period; |\n| --- | --- |\n\n| (b) | reporting currency; |\n| --- | --- |\n\n| (c) | name and, where relevant, legal entity identifier (LEI) of the disclosing institution; |\n| --- | --- |\n\n| (d) | where relevant, the accounting standard used; |\n| --- | --- |\n\n| (e) | where relevant, the scope of consolidation. |\n| --- | --- |",
+      "text_sha256": "05c88e2aa829a566ed8800ee0d5e3dd87a7824d22eac1e0fdc33f205f9ff24cf",
+      "md_span": {
+        "start": 21155,
+        "end": 22659
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\nImplementing Regulation (EU) No 1423/2013, Delegated Regulation (EU) 2015/1555, Implementing Regulation (EU) 2016/200 and Delegated Regulation (EU) 2017/2295 are repealed.",
+      "text_sha256": "a6bb29292fbe3227578758b9a60e5d180cba173ab79052a899e157fec118cb5b",
+      "md_span": {
+        "start": 22694,
+        "end": 22877
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32021r0637:2021-03-15#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 28 June 2021.",
+      "text_sha256": "ff17bc06b85ac27c41febef76fa27c253fb8fa487b1d8a6e1bd96b7223a7dfba",
+      "md_span": {
+        "start": 22912,
+        "end": 23099
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

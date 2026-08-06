@@ -1,0 +1,8288 @@
+---
+lex_id: 'eu-eurlex:32006l0048:2011-01-04'
+title: 'Directive 2006/48/EC'
+valid_from: '2011-01-04'
+valid_to: '2011-12-08'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006L0048-20110104'
+source_sha256: '67c74372fa70f52d3fc905d5a2374e2215fc0de2afe0601e28a246845cab030d'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+## TITLE I
+
+### SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+<a id="art_1"></a>
+
+### Article 1
+
+1. This Directive lays down rules concerning the taking up and pursuit of the business of credit institutions, and their prudential supervision.
+
+2. Article 39 and Title V, Chapter 4, Section 1 shall apply to financial holding companies and mixed-activity holding companies which have their head offices in the Community.
+
+3. The institutions permanently excluded pursuant to Article 2, with the exception, however, of the central banks of the Member States, shall be treated as financial institutions for the purposes of Article 39 and Title V, Chapter 4, Section 1.
+
+<a id="art_2"></a>
+
+### Article 2
+
+This Directive shall not apply to the following:
+
+— the central banks of Member States,
+
+— post office giro institutions,
+
+— in Belgium, the ‘Institut de Réescompte et de Garantie/Herdiscontering- en Waarborginstituut’,
+
+— in Denmark, the ‘Dansk Eksportfinansieringsfond’, the ‘Danmarks Skibskredit A/S’ and the ‘KommuneKredit’,
+
+— in Germany, the ‘Kreditanstalt für Wiederaufbau’, undertakings which are recognised under the ‘Wohnungsgemeinnützigkeitsgesetz’ as bodies of State housing policy and are not mainly engaged in banking transactions, and undertakings recognised under that law as non-profit housing undertakings,
+
+— in Greece, the ‘Ταμείο Παρακαταθηκών και Δανείων’ (Tamio Parakatathikon kai Danion),
+
+— in Spain, the ‘Instituto de Crédito Oficial’,
+
+— in France, the ‘Caisse des dépôts et consignations’,
+
+— in Ireland, credit unions and the friendly societies,
+
+— in Italy, the ‘Cassa depositi e prestiti’,
+
+— in Latvia, the ‘krājaizdevu sabiedrības’, undertakings that are recognised under the ‘krājaizdevu sabiedrību likums’ as cooperative undertakings rendering financial services solely to their members,
+
+— in Lithuania, the ‘kredito unijos’ other than the ‘Centrinė kredito unija’,
+
+— in Hungary, the ‘Magyar Fejlesztési Bank Rt.’ and the ‘Magyar Export-Import Bank Rt.’,
+
+— in the Netherlands, the ‘Nederlandse Investeringsbank voor Ontwikkelingslanden NV’, the ‘NV Noordelijke Ontwikkelingsmaatschappij’, the ‘NV Industriebank Limburgs Instituut voor Ontwikkeling en Financiering’ and the ‘Overijsselse Ontwikkelingsmaatschappij NV’,
+
+— in Austria, undertakings recognised as housing associations in the public interest and the ‘Österreichische Kontrollbank AG’,
+
+— in Poland, the ‘Spółdzielcze Kasy Oszczędnościowo — Kreditowe’ and the ‘Bank Gospodarstwa Krajowego’,
+
+— in Portugal, ‘Caixas Económicas’ existing on 1 January 1986 with the exception of those incorporated as limited companies and of the ‘Caixa Económica Montepio Geral’,
+
+— in Slovenia, the ‘SID-Slovenska izvozna in razvojna banka, d.d. Ljubljana’,
+
+— in Finland, the ‘Teollisen yhteistyön rahasto Oy/Fonden för industriellt samarbete AB’, and the ‘Finnvera Oyj/Finnvera Abp’,
+
+— in Sweden, the ‘Svenska Skeppshypotekskassan’,
+
+— in the United Kingdom, the National Savings Bank, the Commonwealth Development Finance Company Ltd, the Agricultural Mortgage Corporation Ltd, the Scottish Agricultural Securities Corporation Ltd, the Crown Agents for overseas governments and administrations, credit unions and municipal banks.
+
+<a id="art_3"></a>
+
+### Article 3
+
+1. One or more credit institutions situated in the same Member State and which are permanently affiliated to a central body which supervises them and which is established in the same Member State, may be exempted from the requirements of Article 7 and Article 11(1) if national law provides that:
+
+(a) the commitments of the central body and affiliated institutions are joint and several liabilities or the commitments of its affiliated institutions are entirely guaranteed by the central body;
+
+(b) the solvency and liquidity of the central body and of all the affiliated institutions are monitored as a whole on the basis of consolidated accounts; and
+
+(c) the management of the central body is empowered to issue instructions to the management of the affiliated institutions.
+
+2. A credit institution referred to in the first subparagraph of paragraph 1, may also be exempted from the provisions of Articles 9 and 10, and also Title V, Chapter 2, Sections 2, 3, 4, 5 and 6 and Chapter 3 provided that, without prejudice to the application of those provisions to the central body, the whole as constituted by the central body together with its affiliated institutions is subject to those provisions on a consolidated basis.
+
+In case of exemption, Articles 16, 23, 24, 25, 26(1) to (3) and 28 to 37 shall apply to the whole as constituted by the central body together with its affiliated institutions.
+
+<a id="art_4"></a>
+
+### Article 4
+
+For the purposes of this Directive, the following definitions shall apply:
+
+(1) ‘credit institution’ means an undertaking the business of which is to receive deposits or other repayable funds from the public and to grant credits for its own account;
+
+(2) ‘authorisation’ means an instrument issued in any form by the authorities by which the right to carry on the business of a credit institution is granted;
+
+(3) ‘branch’ means a place of business which forms a legally dependent Part of a credit institution and which carries out directly all or some of the transactions inherent in the business of credit institutions;
+
+(4) ‘competent authorities’ means the national authorities which are empowered by law or regulation to supervise credit institutions;
+
+(5) ‘financial institution’ means an undertaking other than a credit institution, the principal activity of which is to acquire holdings or to pursue one or more of the activities listed in points 2 to 12 and 15 of Annex I;
+
+(6) ‘institutions’ for the purposes of Sections 2, 3 and 5 of Title V, Chapter 2, means institutions as defined in Article 3(1)(c) of Directive 2006/49/EC;
+
+(7) ‘home Member State’ means the Member State in which a credit institution has been authorised in accordance with Articles 6 to 9 and 11 to 14;
+
+(8) ‘host Member State’ means the Member State in which a credit institution has a branch or in which it provides services;
+
+(9) ‘control’ means the relationship between a parent undertaking and a subsidiary, as defined in Article 1 of Directive 83/349/EEC, or a similar relationship between any natural or legal person and an undertaking;
+
+(10) ‘participation’ for the purposes of points (o) and (p) of Article 57, Articles 71 to 73 and Title V, Chapter 4 means participation within the meaning of the first sentence of Article 17 of Fourth Council Directive 78/660/EEC of 25 July 1978 on the annual accounts of certain types of companies (13), or the ownership, direct or indirect, of 20 % or more of the voting rights or capital of an undertaking;
+
+(11) ‘qualifying holding’ means a direct or indirect holding in an undertaking which represents 10 % or more of the capital or of the voting rights or which makes it possible to exercise a significant influence over the management of that undertaking;
+
+(12) ‘parent undertaking’ means:
+
+(a) a parent undertaking as defined in Articles 1 and 2 of Directive 83/349/EEC; or
+
+(b) for the purposes of Articles 71 to 73, Title V, Chapter 2, Section 5 and Chapter 4, a parent undertaking within the meaning of Article 1(1) of Directive 83/349/EEC and any undertaking which, in the opinion of the competent authorities, effectively exercises a dominant influence over another undertaking;
+
+(13) ‘subsidiary’ means:
+
+(a) a subsidiary undertaking as defined in Articles 1 and 2 of Directive 83/349/EEC; or
+
+(b) for the purposes of Articles 71 to 73, Title V, Chapter 2, Section 5, and Chapter 4 a subsidiary undertaking within the meaning of Article 1(1) of Directive 83/349/EEC and any undertaking over which, in the opinion of the competent authorities, a parent undertaking effectively exercises a dominant influence.
+
+All subsidiaries of subsidiary undertakings shall also be considered subsidiaries of the undertaking that is their original parent;
+
+(14) ‘parent credit institution in a Member State’ means a credit institution which has a credit institution or a financial institution as a subsidiary or which holds a participation in such an institution, and which is not itself a subsidiary of another credit institution authorised in the same Member State, or of a financial holding company set up in the same Member State;
+
+(15) ‘parent financial holding company in a Member State’ means a financial holding company which is not itself a subsidiary of a credit institution authorised in the same Member State, or of a financial holding company set up in the same Member State;
+
+(16) ‘EU parent credit institution’ means a parent credit institution in a Member State which is not a subsidiary of another credit institution authorised in any Member State, or of a financial holding company set up in any Member State;
+
+(17) ‘EU parent financial holding company’ means a parent financial holding company in a Member State which is not a subsidiary of a credit institution authorised in any Member State or of another financial holding company set up in any Member State;
+
+(18) ‘public sector entities’ means non-commercial administrative bodies responsible to central governments, regional governments or local authorities, or authorities that in the view of the competent authorities exercise the same responsibilities as regional and local authorities, or non-commercial undertakings owned by central governments that have explicit guarantee arrangements, and may include self administered bodies governed by law that are under public supervision;
+
+(19) ‘financial holding company’ means a financial institution, the subsidiary undertakings of which are either exclusively or mainly credit institutions or financial institutions, at least one of such subsidiaries being a credit institution, and which is not a mixed financial holding company within the meaning of Article 2(15) of Directive 2002/87/EC (14);
+
+(20) ‘mixed-activity holding company’ means a parent undertaking, other than a financial holding company or a credit institution or a mixed financial holding company within the meaning of Article 2(15) of Directive 2002/87/EC, the subsidiaries of which include at least one credit institution;
+
+(21) ‘ancillary services undertaking’ means an undertaking the principal activity of which consists in owning or managing property, managing data-processing services, or any other similar activity which is ancillary to the principal activity of one or more credit institutions;
+
+(22) ‘operational risk’ means the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events, and includes legal risk;
+
+(23) ‘central banks’ include the European Central Bank unless otherwise indicated;
+
+(24) ‘dilution risk’ means the risk that an amount receivable is reduced through cash or non-cash credits to the obligor;
+
+(25) ‘probability of default’ means the probability of default of a counterparty over a one year period;
+
+(26) ‘loss’, for the purposes of Title V, Chapter 2, Section 3, means economic loss, including material discount effects, and material direct and indirect costs associated with collecting on the instrument;
+
+(27) ‘loss given default (LGD)’ means the ratio of the loss on an exposure due to the default of a counterparty to the amount outstanding at default;
+
+(28) ‘conversion factor’ means the ratio of the currently undrawn amount of a commitment that will be drawn and outstanding at default to the currently undrawn amount of the commitment, the extent of the commitment shall be determined by the advised limit, unless the unadvised limit is higher;
+
+(29) ‘expected loss (EL)’, for the purposes of Title V, Chapter 2, Section 3, shall mean the ratio of the amount expected to be lost on an exposure from a potential default of a counterparty or dilution over a one year period to the amount outstanding at default;
+
+(30) ‘credit risk mitigation’ means a technique used by a credit institution to reduce the credit risk associated with an exposure or exposures which the credit institution continues to hold;
+
+(31) ‘funded credit protection’ means a technique of credit risk mitigation where the reduction of the credit risk on the exposure of a credit institution derives from the right of the credit institution — in the event of the default of the counterparty or on the occurrence of other specified credit events relating to the counterparty — to liquidate, or to obtain transfer or appropriation of, or to retain certain assets or amounts, or to reduce the amount of the exposure to, or to replace it with, the amount of the difference between the amount of the exposure and the amount of a claim on the credit institution;
+
+(32) ‘unfunded credit protection’ means a technique of credit risk mitigation where the reduction of the credit risk on the exposure of a credit institution derives from the undertaking of a third party to pay an amount in the event of the default of the borrower or on the occurrence of other specified credit events;
+
+(33) ‘repurchase transaction’ means any transaction governed by an agreement falling within the definition of ‘repurchase agreement’ or ‘reverse repurchase agreement’ as defined in Article 3(1)(m) of Directive 2006/49/EC;
+
+(34) ‘securities or commodities lending or borrowing transaction’ means any transaction falling within the definition of ‘securities or commodities lending’ or ‘securities or commodities borrowing’ as defined in Article 3(1)(n) of Directive 2006/49/EC;
+
+(35) ‘cash assimilated instrument’ means a certificate of deposit or other similar instrument issued by the lending credit institution;
+
+(36) ‘securitisation’ means a transaction or scheme, whereby the credit risk associated with an exposure or pool of exposures is tranched, having the following characteristics:
+
+(a) payments in the transaction or scheme are dependent upon the performance of the exposure or pool of exposures; and
+
+(b) the subordination of tranches determines the distribution of losses during the ongoing life of the transaction or scheme;
+
+(37) ‘traditional securitisation’ means a securitisation involving the economic transfer of the exposures being securitised to a securitisation special purpose entity which issues securities. This shall be accomplished by the transfer of ownership of the securitised exposures from the originator credit institution or through sub-participation. The securities issued do not represent payment obligations of the originator credit institution;
+
+(38) ‘synthetic securitisation’ means a securitisation where the tranching is achieved by the use of credit derivatives or guarantees, and the pool of exposures is not removed from the balance sheet of the originator credit institution;
+
+(39) ‘tranche’ means a contractually established segment of the credit risk associated with an exposure or number of exposures, where a position in the segment entails a risk of credit loss greater than or less than a position of the same amount in each other such segment, without taking account of credit protection provided by third parties directly to the holders of positions in the segment or in other segments;
+
+(40) ‘securitisation position’ shall mean an exposure to a securitisation;
+
+(40a) ‘re-securitisation’ means a securitisation where the risk associated with an underlying pool of exposures is tranched and at least one of the underlying exposures is a securitisation position;
+
+(40b) ‘re-securitisation position’ means an exposure to a re-securitisation;
+
+(41) ‘originator’ means either of the following:
+
+(a) an entity which, either itself or through related entities, directly or indirectly, was involved in the original agreement which created the obligations or potential obligations of the debtor or potential debtor giving rise to the exposure being securitised; or
+
+(b) an entity which purchases a third party's exposures onto its balance sheet and then securitises them;
+
+(42) ‘sponsor’ means a credit institution other than an originator credit institution that establishes and manages an asset-backed commercial paper programme or other securitisation scheme that purchases exposures from third party entities;
+
+(43) ‘credit enhancement’ means a contractual arrangement whereby the credit quality of a position in a securitisation is improved in relation to what it would have been if the enhancement had not been provided, including the enhancement provided by more junior tranches in the securitisation and other types of credit protection;
+
+(44) ‘securitisation special purpose entity (SSPE)’ means a corporation trust or other entity, other than a credit institution, organised for carrying on a securitisation or securitisations, the activities of which are limited to those appropriate to accomplishing that objective, the structure of which is intended to isolate the obligations of the SSPE from those of the originator credit institution, and the holders of the beneficial interests in which have the right to pledge or exchange those interests without restriction;
+
+(45) ‘group of connected clients’ means:
+
+(a) two or more natural or legal persons who, unless it is shown otherwise, constitute a single risk because one of them, directly or indirectly, has control over the other or others; or
+
+(b) two or more natural or legal persons between whom there is no relationship of control as described in point (a) but who are to be regarded as constituting a single risk because they are so interconnected that, if one of them were to experience financial problems, in particular funding or repayment difficulties, the other or all of the others would also be likely to encounter funding or repayment difficulties;
+
+(46) ‘close links’ means a situation in which two or more natural or legal persons are linked in any of the following ways:
+
+(a) participation in the form of ownership, direct or by way of control, of 20 % or more of the voting rights or capital of an undertaking;
+
+(b) control; or
+
+(c) the fact that both or all are permanently linked to one and the same third person by a control relationship;
+
+(47) ‘recognised exchanges’ means exchanges which are recognised as such by the competent authorities and which meet the following conditions:
+
+(a) they function regularly;
+
+(b) they have rules, issued or approved by the appropriate authorities of the home country of the exchange, defining the conditions for the operation of the exchange, the conditions of access to the exchange as well as the conditions that shall be satisfied by a contract before it can effectively be dealt on the exchange; and
+
+(c) they have a clearing mechanism whereby contracts listed in Annex IV are subject to daily margin requirements which, in the opinion of the competent authorities, provide appropriate protection;
+
+(48) ‘consolidating supervisor’ means the competent authority responsible for the exercise of supervision on a consolidated basis of EU parent credit institutions and credit institutions controlled by EU parent financial holding companies;
+
+(49) ‘discretionary pension benefits’ means enhanced pension benefits granted on a discretionary basis by a credit institution to an employee as part of that employee’s variable remuneration package, which do not include accrued benefits granted to an employee under the terms of the company pension scheme.
+
+<a id="art_5"></a>
+
+### Article 5
+
+Member States shall prohibit persons or undertakings that are not credit institutions from carrying on the business of taking deposits or other repayable funds from the public.
+
+The first paragraph shall not apply to the taking of deposits or other funds repayable by a Member State or by a Member State's regional or local authorities or by public international bodies of which one or more Member States are members or to cases expressly covered by national or Community legislation, provided that those activities are subject to regulations and controls intended to protect depositors and investors and applicable to those cases.
+
+## TITLE II
+
+### REQUIREMENTS FOR ACCESS TO THE TAKING UP AND PURSUIT OF THE BUSINESS OF CREDIT INSTITUTIONS
+
+<a id="art_6"></a>
+
+### Article 6
+
+1. Member States shall require credit institutions to obtain authorisation before commencing their activities. Without prejudice to Articles 7 to 12, they shall lay down the requirements for such authorisation and notify the Commission and the European Supervisory Authority (European Banking Authority) established by Regulation (EU) No 1093/2010 of the European Parliament and of the Council (15) (hereinafter ‘EBA’) thereof.
+
+2. In order to ensure consistent harmonisation of this Article, EBA may develop draft regulatory technical standards:
+
+(a) on the information to be provided to the competent authorities in the application for the authorisation of credit institutions, including the programme of operations provided for in Article 7;
+
+(b) specifying the conditions to comply with the requirement set out in Article 8;
+
+(c) specifying the requirements applicable to shareholders and members with qualifying holdings, as well as to specify obstacles which may prevent effective exercise of the supervisory functions of the competent authority, as provided for in Article 12.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in points (a), (b) and (c) of the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+3. In order to ensure uniform conditions of application of this Article, EBA may develop draft implementing technical standards on standard forms, templates and procedures for such provision of information;
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+<a id="art_7"></a>
+
+### Article 7
+
+Member States shall require applications for authorisation to be accompanied by a programme of operations setting out, inter alia, the types of business envisaged and the structural organisation of the credit institution.
+
+<a id="art_8"></a>
+
+### Article 8
+
+Member States may not require the application for authorisation to be examined in terms of the economic needs of the market.
+
+<a id="art_9"></a>
+
+### Article 9
+
+1. Without prejudice to other general conditions laid down by national law, the competent authorities shall not grant authorisation when the credit institution does not possess separate own funds or in cases where initial capital is less than EUR 5 million.
+
+‘Initial capital’ shall comprise capital and reserves as referred to in Article 57(a) and (b).
+
+Member States may decide that credit institutions which do not fulfil the requirement of separate own funds and which were in existence on 15 December 1979 may continue to carry on their business. They may exempt such credit institutions from complying with the requirement contained in the first subparagraph of Article 11(1).
+
+2. Member States may, subject to the following conditions, grant authorisation to particular categories of credit institutions the initial capital of which is less than that specified in paragraph 1:
+
+(a) the initial capital shall be no less than EUR 1 million;
+
+(b) the Member States concerned shall notify the Commission and EBA of their reasons for exercising that option; and
+
+(c) the name of each credit institution that does not have the minimum capital specified in paragraph 1 shall be annotated to that effect in the list referred to in Article 14.
+
+<a id="art_10"></a>
+
+### Article 10
+
+1. A credit institution's own funds may not fall below the amount of initial capital required under Article 9 at the time of its authorisation.
+
+2. Member States may decide that credit institutions already in existence on 1 January 1993, the own funds of which do not attain the levels specified for initial capital in Article 9, may continue to carry on their activities. In that event, their own funds may not fall below the highest level reached with effect from 22 December 1989.
+
+3. If control of a credit institution falling within the category referred to in paragraph 2 is taken by a natural or legal person other than the person who controlled the institution previously, the own funds of that credit institution shall attain at least the level specified for initial capital in Article 9.
+
+4. In certain specific circumstances and with the consent of the competent authorities, where there is a merger of two or more credit institutions falling within the category referred to in paragraph 2, the own funds of the credit institution resulting from the merger may not fall below the total own funds of the merged credit institutions at the time of the merger, as long as the appropriate levels specified in Article 9 have not been attained.
+
+5. If, in the cases referred to in paragraphs 1, 2 and 4, the own funds should be reduced, the competent authorities may, where the circumstances justify it, allow a credit institution a limited period in which to rectify its situation or cease its activities.
+
+<a id="art_11"></a>
+
+### Article 11
+
+1. The competent authorities shall grant an authorisation to the credit institution only when there are at least two persons who effectively direct the business of the credit institution.
+
+They shall not grant authorisation if these persons are not of sufficiently good repute or lack sufficient experience to perform such duties.
+
+The Committee of European Banking Supervisors shall ensure the existence of guidelines for the assessment of the suitability of the persons who effectively direct the business of the credit institution.
+
+2. Each Member State shall require that:
+
+(a) any credit institution which is a legal person and which, under its national law, has a registered office shall have its head office in the same Member State as its registered office; and
+
+(b) any other credit institution shall have its head office in the Member State which granted its authorisation and in which it actually carries on its business.
+
+<a id="art_12"></a>
+
+### Article 12
+
+1. The competent authorities shall not grant authorisation for the taking-up of the business of credit institutions unless they have been informed of the identities of the shareholders or members, whether direct or indirect, natural or legal persons, that have qualifying holdings, and of the amounts of those holdings.
+
+In determining whether the criteria for a qualifying holding in the context of this Article are fulfilled, the voting rights referred to in Articles 9 and 10 of Directive 2004/109/EC (16), as well as the conditions regarding aggregation thereof laid down in Article 12(4) and (5) of that Directive shall be taken into account.
+
+Member States shall not take into account voting rights or shares which investment firms or credit institutions may hold as a result of providing the underwriting of financial instruments and/or placing of financial instruments on a firm commitment basis included under point 6 of Section A of Annex I to Directive 2004/39/EC (17), provided that those rights are, on the one hand, not exercised or otherwise used to intervene in the management of the issuer and, on the other, disposed of within one year of acquisition.
+
+2. The competent authorities shall not grant authorisation if, taking into account the need to ensure the sound and prudent management of a credit institution, they are not satisfied as to the suitability of the shareholders or members.
+
+3. Where close links exist between the credit institution and other natural or legal persons, the competent authorities shall grant authorisation only if those links do not prevent the effective exercise of their supervisory functions.
+
+The competent authorities shall also not grant authorisation if the laws, regulations or administrative provisions of a third country governing one or more natural or legal persons with which the credit institution has close links, or difficulties involved in the enforcement of those laws, regulations or administrative provisions, prevent the effective exercise of their supervisory functions.
+
+The competent authorities shall require credit institutions to provide them with the information they require to monitor compliance with the conditions referred to in this paragraph on a continuous basis.
+
+<a id="art_13"></a>
+
+### Article 13
+
+Reasons shall be given whenever a decision not to grant an authorisation is taken and the applicant shall be notified thereof within six months of receipt of the application or, should the latter be incomplete, within six months of the applicant's sending the information required for the decision. A decision shall, in any case, be taken within 12 months of the receipt of the application.
+
+<a id="art_14"></a>
+
+### Article 14 — Every authorisation shall be notified to EBA.
+
+The name of each credit institution to which authorisation has been granted shall be entered in a list. EBA shall publish and keep that list up-to-date on its website.
+
+<a id="art_15"></a>
+
+### Article 15
+
+1. The competent authority shall, before granting authorisation to a credit institution, consult the competent authorities of the other Member State involved in the following cases:
+
+(a) the credit institution concerned is a subsidiary of a credit institution authorised in another Member State;
+
+(b) the credit institution concerned is a subsidiary of the parent undertaking of a credit institution authorised in another Member State; or
+
+(c) the credit institution concerned is controlled by the same persons, whether natural or legal, as control a credit institution authorised in another Member State.
+
+2. The competent authority shall, before granting authorisation to a credit institution, consult the competent authority of a Member State involved, responsible for the supervision of insurance undertakings or investment firms in the following cases:
+
+(a) the credit institution concerned is a subsidiary of an insurance undertaking or investment firm authorised in the Community;
+
+(b) the credit institution concerned is a subsidiary of the parent undertaking of an insurance undertaking or investment firm authorised in the Community; or
+
+(c) the credit institution concerned is controlled by the same person, whether natural or legal, as controls an insurance undertaking or investment firm authorised in the Community.
+
+3. The relevant competent authorities referred to in paragraphs 1 and 2 shall in particular consult each other when assessing the suitability of the shareholders and the reputation and experience of directors involved in the management of another entity of the same group. They shall exchange any information regarding the suitability of shareholders and the reputation and experience of directors which is of relevance for the granting of an authorisation as well as for the ongoing assessment of compliance with operating conditions.
+
+<a id="art_16"></a>
+
+### Article 16
+
+Host Member States may not require authorisation or endowment capital for branches of credit institutions authorised in other Member States. The establishment and supervision of such branches shall be effected in accordance with Articles 22, 25, 26(1) to (3), 29 to 37 and 40.
+
+<a id="art_17"></a>
+
+### Article 17
+
+1. The competent authorities may withdraw the authorisation granted to a credit institution only where such an institution:
+
+(a) does not make use of the authorisation within 12 months, expressly renounces the authorisation or has ceased to engage in business for more than six months, if the Member State concerned has made no provision for the authorisation to lapse in such cases;
+
+(b) has obtained the authorisation through false statements or any other irregular means;
+
+(c) no longer fulfils the conditions under which authorisation was granted;
+
+(d) no longer possesses sufficient own funds or can no longer be relied on to fulfil its obligations towards its creditors, and in particular no longer provides security for the assets entrusted to it; or
+
+(e) falls within one of the other cases where national law provides for withdrawal of authorisation.
+
+2. Withdrawal of authorisation shall be notified to the Commission and EBA and shall be reasoned. The persons concerned shall be notified of those reasons.
+
+<a id="art_18"></a>
+
+### Article 18
+
+For the purposes of exercising their activities, credit institutions may, notwithstanding any provisions in the host Member State concerning the use of the words ‘bank’, ‘savings bank’ or other banking names, use throughout the territory of the Community the same name as they use in the Member State in which their head office is situated. In the event of there being any danger of confusion, the host Member State may, for the purposes of clarification, require that the name be accompanied by certain explanatory particulars.
+
+<a id="art_19"></a>
+
+### Article 19
+
+1. Member States shall require any natural or legal person or such persons acting in concert (hereinafter referred to as the proposed acquirer), who have taken a decision either to acquire, directly or indirectly, a qualifying holding in a credit institution or to further increase, directly or indirectly, such a qualifying holding in a credit institution as a result of which the proportion of the voting rights or of the capital held would reach or exceed 20 %, 30 % or 50 % or so that the credit institution would become its subsidiary (hereinafter referred to as the proposed acquisition), first to notify in writing the competent authorities of the credit institution in which they are seeking to acquire or increase a qualifying holding, indicating the size of the intended holding and relevant information, as referred to in Article 19a(4). Member States need not apply the 30 % threshold where, in accordance with Article 9(3)(a) of Directive 2004/109/EC, they apply a threshold of one-third.
+
+2. The competent authorities shall, promptly and in any event within two working days following receipt of the notification, as well as following the possible subsequent receipt of the information referred to in paragraph 3, acknowledge receipt thereof in writing to the proposed acquirer.
+
+The competent authorities shall have a maximum of sixty working days as from the date of the written acknowledgement of receipt of the notification and all documents required by the Member State to be attached to the notification on the basis of the list referred to in Article 19a(4) (hereinafter referred to as the assessment period), to carry out the assessment provided for in Article 19a(1) (hereinafter referred to as the assessment).
+
+The competent authorities shall inform the proposed acquirer of the date of the expiry of the assessment period at the time of acknowledging receipt.
+
+3. The competent authorities may, during the assessment period, if necessary, and no later than on the 50th working day of the assessment period, request any further information that is necessary to complete the assessment. Such request shall be made in writing and shall specify the additional information needed.
+
+For the period between the date of request for information by the competent authorities and the receipt of a response thereto by the proposed acquirer, the assessment period shall be interrupted. The interruption shall not exceed 20 working days. Any further requests by the competent authorities for completion or clarification of the information shall be at their discretion but may not result in an interruption of the assessment period.
+
+4. The competent authorities may extend the interruption referred to in the second subparagraph of paragraph 3 up to thirty working days if the proposed acquirer is:
+
+(a) situated or regulated outside the Community; or
+
+(b) a natural or legal person not subject to supervision under this Directive or Directives 85/611/EEC (18), 92/49/EEC (19), 2002/83/EC (20), 2004/39/EC or 2005/68/EC (21).
+
+5. If the competent authorities, upon completion of the assessment, decide to oppose the proposed acquisition, they shall, within two working days, and not exceeding the assessment period, inform the proposed acquirer in writing and provide the reasons for that decision. Subject to national law, an appropriate statement of the reasons for the decision may be made accessible to the public at the request of the proposed acquirer. This shall not prevent a Member State from allowing the competent authority to make such disclosure in the absence of a request by the proposed acquirer.
+
+6. If the competent authorities do not oppose the proposed acquisition within the assessment period in writing, it shall be deemed to be approved.
+
+7. The competent authorities may fix a maximum period for concluding the proposed acquisition and extend it where appropriate.
+
+8. Member States may not impose requirements for notification to and approval by the competent authorities of direct or indirect acquisitions of voting rights or capital that are more stringent than those set out in this Directive.
+
+9. In order to ensure consistent harmonisation of this Article, EBA may develop draft regulatory technical standards to establish an exhaustive list of information, referred to in Article 19a(4), to be included by proposed acquirers in their notification, without prejudice to paragraph 3 of this Article.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+In order to ensure uniform conditions of application of this Directive, EBA may develop draft implementing technical standards to establish common procedures, forms and templates for the consultation process between the relevant competent authorities as referred to in Article 19b.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the third subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+<a id="art_19a"></a>
+
+### Article 19a
+
+1. In assessing the notification provided for in Article 19(1) and the information referred to in Article 19(3), the competent authorities shall, in order to ensure the sound and prudent management of the credit institution in which an acquisition is proposed, and having regard to the likely influence of the proposed acquirer on the credit institution, appraise the suitability of the proposed acquirer and the financial soundness of the proposed acquisition against all of the following criteria:
+
+(a) the reputation of the proposed acquirer;
+
+(b) the reputation and experience of any person who will direct the business of the credit institution as a result of the proposed acquisition;
+
+(c) the financial soundness of the proposed acquirer, in particular in relation to the type of business pursued and envisaged in the credit institution in which the acquisition is proposed;
+
+(d) whether the credit institution will be able to comply and continue to comply with the prudential requirements based on this Directive and, where applicable, other Directives, notably, Directives 2000/46/EC, 2002/87/EC and 2006/49/EC, in particular, whether the group of which it will become a part has a structure that makes it possible to exercise effective supervision, effectively exchange information among the competent authorities and determine the allocation of responsibilities among the competent authorities;
+
+(e) whether there are reasonable grounds to suspect that, in connection with the proposed acquisition, money laundering or terrorist financing within the meaning of Article 1 of Directive 2005/60/EC (22) is being or has been committed or attempted, or that the proposed acquisition could increase the risk thereof.
+
+2. The competent authorities may oppose the proposed acquisition only if there are reasonable grounds for doing so on the basis of the criteria set out in paragraph 1 or if the information provided by the proposed acquirer is incomplete.
+
+3. Member States shall neither impose any prior conditions in respect of the level of holding that must be acquired nor allow their competent authorities to examine the proposed acquisition in terms of the economic needs of the market.
+
+4. Member States shall make publicly available a list specifying the information that is necessary to carry out the assessment and that must be provided to the competent authorities at the time of notification referred to in Article 19(1). The information required shall be proportionate and adapted to the nature of the proposed acquirer and the proposed acquisition. Member States shall not require information that is not relevant for a prudential assessment.
+
+5. Notwithstanding Article 19(2), (3) and (4), where two or more proposals to acquire or increase qualifying holdings in the same credit institution have been notified to the competent authority, the latter shall treat the proposed acquirers in a non-discriminatory manner.
+
+<a id="art_19b"></a>
+
+### Article 19b
+
+1. The relevant competent authorities shall work in full consultation with each other when carrying out the assessment if the proposed acquirer is one of the following:
+
+(a) a credit institution, assurance undertaking, insurance undertaking, reinsurance undertaking, investment firm or management company within the meaning of Article 1a, point 2 of Directive 85/611/EEC (hereinafter referred to as the UCITS management company) authorised in another Member State or in a sector other than that in which the acquisition is proposed;
+
+(b) the parent undertaking of a credit institution, assurance undertaking, insurance undertaking, reinsurance undertaking, investment firm or UCITS management company authorised in another Member State or in a sector other than that in which the acquisition is proposed; or
+
+(c) a natural or legal person controlling a credit institution, assurance undertaking, insurance undertaking, reinsurance undertaking, investment firm or UCITS management company authorised in another Member State or in a sector other than that in which the acquisition is proposed.
+
+2. The competent authorities shall, without undue delay, provide each other with any information which is essential or relevant for the assessment. In this regard, the competent authorities shall communicate to each other upon request all relevant information and shall communicate on their own initiative all essential information. A decision by the competent authority that has authorised the credit institution in which the acquisition is proposed shall indicate any views or reservations expressed by the competent authority responsible for the proposed acquirer.
+
+<a id="art_20"></a>
+
+### Article 20
+
+The Member States shall require any natural or legal person who has taken a decision to dispose, directly or indirectly, of a qualifying holding in a credit institution first to notify in writing the competent authorities, indicating the size of his intended holding. Such a person shall likewise notify the competent authorities if he has taken a decision to reduce his qualifying holding so that the proportion of the voting rights or of the capital held would fall below 20 %, 30 % or 50 % or so that the credit institution would cease to be his subsidiary. Member States need not apply the 30 % threshold where, in accordance with Article 9(3)(a) of Directive 2004/109/EC, they apply a threshold of one-third.
+
+<a id="art_21"></a>
+
+### Article 21
+
+1. Credit institutions shall, on becoming aware of any acquisitions or disposals of holdings in their capital that cause holdings to exceed or fall below one of the thresholds referred to in Article 19(1) and Article 20, inform the competent authorities of those acquisitions or disposals.
+
+They shall also, at least once a year, inform the competent authorities of the names of shareholders and members possessing qualifying holdings and the sizes of such holdings as shown, for example, by the information received at the annual general meetings of shareholders and members or as a result of compliance with the regulations relating to companies listed on stock exchanges.
+
+2. The Member States shall require that, where the influence exercised by the persons referred to in Article 19(1) is likely to operate to the detriment of the prudent and sound management of the institution, the competent authorities shall take appropriate measures to put an end to that situation. Such measures may consist in injunctions, sanctions against directors and managers, or the suspension of the exercise of the voting rights attaching to the shares held by the shareholders or members in question.
+
+Similar measures shall apply to natural or legal persons who fail to comply with the obligation to provide prior information, as laid down in Article 19(1).
+
+If a holding is acquired despite the opposition of the competent authorities, the Member States shall, regardless of any other sanctions to be adopted, provide either for exercise of the corresponding voting rights to be suspended, or for the nullity of votes cast or for the possibility of their annulment.
+
+3. In determining whether the criteria for a qualifying holding in the context of Articles 19 and 20 and this Article are fulfilled, the voting rights referred to in Articles 9 and 10 of Directive 2004/109/EC, as well as the conditions regarding aggregation thereof laid down in Article 12(4) and (5) of that Directive, shall be taken into account.
+
+In determining whether the criteria for a qualifying holding referred to in this Article are fulfilled, Member States shall not take into account voting rights or shares which investment firms or credit institutions may hold as a result of providing the underwriting of financial instruments and/or placing of financial instruments on a firm commitment basis included under point 6 of Section A of Annex I to Directive 2004/39/EC, provided that those rights are, on the one hand, not exercised or otherwise used to intervene in the management of the issuer and, on the other, disposed of within one year of acquisition.
+
+<a id="art_22"></a>
+
+### Article 22
+
+1. Home Member State competent authorities shall require that every credit institution have robust governance arrangements, which include a clear organisational structure with well-defined, transparent and consistent lines of responsibility, effective processes to identify, manage, monitor and report the risks it is or might be exposed to, adequate internal control mechanisms, including sound administration and accounting procedures, and remuneration policies and practices that are consistent with and promote sound and effective risk management.
+
+2. The arrangements, processes and mechanisms referred to in paragraph 1 shall be comprehensive and proportionate to the nature, scale and complexity of the credit institution's activities. The technical criteria laid down in Annex V shall be taken into account.
+
+3. Home Member State competent authorities shall use the information collected in accordance with the criteria for disclosure established in point 15(f) of part 2 of Annex XII to benchmark remuneration trends and practices. The competent authorities shall provide the Committee of European Banking Supervisors with that information.
+
+4. The Committee of European Banking Supervisors shall ensure the existence of guidelines on sound remuneration policies which comply with the principles set out in points 23 and 24 of Annex V. The guidelines shall take into account the principles on sound remuneration policies set out in the Commission Recommendation of 30 April 2009 on remuneration policies in the financial services sector (23).
+
+The Committee of European Banking Supervisors shall, inter alia, ensure the existence of guidelines to:
+
+(a) set specific criteria to determine the appropriate ratios between the fixed and the variable component of the total remuneration within the meaning of point 23(l) of Annex V;
+
+(b) specify instruments that can be eligible as instruments within the meaning of point 23(o)(ii) of Annex V that adequately reflect the credit quality of credit institutions within the meaning of point 23(o) of that Annex.
+
+The Committee of European Securities Regulators shall cooperate closely with the Committee of European Banking Supervisors in ensuring the existence of guidelines on remuneration policies for categories of staff involved in the provision of investment services and activities within the meaning of point 2 of Article 4(1) of Directive 2004/39/EC.
+
+The Committee of European Banking Supervisors shall use the information received from the competent authorities in accordance with paragraph 3 to benchmark remuneration trends and practices at the Union level.
+
+5. Home Member State competent authorities shall collect information on the number of individuals per credit institution in pay brackets of at least EUR 1 million including the business area involved and the main elements of salary, bonus, long-term award and pension contribution. That information shall be forwarded to the Committee of European Banking Supervisors, which shall disclose it on an aggregate home Member State basis in a common reporting format. The Committee of European Banking Supervisors may elaborate guidelines to facilitate the implementation of this paragraph and ensure the consistency of the information collected.
+
+6. In order to** ◄ ** specify the requirements laid down in this Article and to ensure the convergence of supervisory practices, EBA may develop draft regulatory technical standards to specify the arrangements, processes and mechanisms referred to in paragraph 1, in accordance with the principles of proportionality and comprehensiveness set out in paragraph 2.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+## Section 1
+
+### Credit institutions
+
+<a id="art_23"></a>
+
+### Article 23
+
+The Member States shall provide that the activities listed in Annex I may be carried on within their territories, in accordance with Articles 25, 26(1) to (3), 28(1) and (2) and 29 to 37 either by the establishment of a branch or by way of the provision of services, by any credit institution authorised and supervised by the competent authorities of another Member State, provided that such activities are covered by the authorisation.
+
+## Section 2
+
+### Financial institutions
+
+<a id="art_24"></a>
+
+### Article 24
+
+1. The Member States shall provide that the activities listed in Annex I may be carried on within their territories, in accordance with Articles 25, 26(1) to (3), 28(1) and (2) and 29 to 37, either by the establishment of a branch or by way of the provision of services, by any financial institution from another Member State, whether a subsidiary of a credit institution or the jointly-owned subsidiary of two or more credit institutions, the memorandum and Articles of association of which permit the carrying on of those activities and which fulfils each of the following conditions:
+
+(a) the parent undertaking or undertakings shall be authorised as credit institutions in the Member State by the law of which the financial institution is governed;
+
+(b) the activities in question shall actually be carried on within the territory of the same Member State;
+
+(c) the parent undertaking or undertakings shall hold 90 % or more of the voting rights attaching to shares in the capital of the financial institution;
+
+(d) the parent undertaking or undertakings shall satisfy the competent authorities regarding the prudent management of the financial institution and shall have declared, with the consent of the relevant home Member State competent authorities, that they jointly and severally guarantee the commitments entered into by the financial institution; and
+
+(e) the financial institution shall be effectively included, for the activities in question in particular, in the consolidated supervision of the parent undertaking, or of each of the parent undertakings, in accordance with Title V, Chapter 4, Section 1, in particular for the purposes of the minimum own funds requirements set out in Article 75 for the control of large exposures and for purposes of the limitation of holdings provided for in Articles 120 to 122.
+
+Compliance with these conditions shall be verified by the competent authorities of the home Member State and the latter shall supply the financial institution with a certificate of compliance which shall form Part of the notification referred to in Articles 25 and 28.
+
+The competent authorities of the home Member State shall ensure the supervision of the financial institution in accordance with Articles 10(1), 19 to 22, 40, 42 to 52 and 54.
+
+2. If a financial institution as referred to in the first subparagraph of paragraph 1 ceases to fulfil any of the conditions imposed, the home Member State shall notify the competent authorities of the host Member State and the activities carried on by that financial institution in the host Member State shall become subject to the legislation of the host Member State.
+
+3. Paragraphs 1 and 2 shall apply mutatis mutandis to subsidiaries of a financial institution as referred to in the first subparagraph of paragraph 1.
+
+## Section 3
+
+### Exercise of the right of establishment
+
+<a id="art_25"></a>
+
+### Article 25
+
+1. A credit institution wishing to establish a branch within the territory of another Member State shall notify the competent authorities of its home Member State.
+
+2. Member States shall require every credit institution wishing to establish a branch in another Member State to provide the following information when effecting the notification referred to in paragraph 1:
+
+(a) the Member State within the territory of which it plans to establish a branch;
+
+(b) a programme of operations setting out, inter alia, the types of business envisaged and the structural organisation of the branch;
+
+(c) the address in the host Member State from which documents may be obtained; and
+
+(d) the names of those to be responsible for the management of the branch.
+
+3. Unless the competent authorities of the home Member State have reason to doubt the adequacy of the administrative structure or the financial situation of the credit institution, taking into account the activities envisaged, they shall within three months of receipt of the information referred to in paragraph 2 communicate that information to the competent authorities of the host Member State and shall inform the credit institution accordingly.
+
+The home Member State's competent authorities shall also communicate the amount of own funds and the sum of the capital requirements under Article 75 of the credit institution.
+
+By way of derogation from the second subparagraph, in the case referred to in Article 24, the home Member State's competent authorities shall communicate the amount of own funds of the financial institution and the sum of the consolidated own funds and consolidated capital requirements under Article 75 of the credit institution which is its parent undertaking.
+
+4. Where the competent authorities of the home Member State refuse to communicate the information referred to in paragraph 2 to the competent authorities of the host Member State, they shall give reasons for their refusal to the credit institution concerned within three months of receipt of all the information.
+
+That refusal or a failure to reply, shall be subject to a right to apply to the courts in the home Member State.
+
+5. In order to ensure consistent harmonisation of this Article, EBA shall develop draft regulatory technical standards to specify the information to be notified in accordance with this Article.
+
+In order to ensure uniform conditions of application of this Article, EBA shall develop draft implementing technical standards to establish standard forms, templates and procedures for such notification.
+
+EBA shall submit those draft technical standards to the Commission by 1 January 2014.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+Power is also conferred on the Commission to adopt the implementing technical standards referred to in the second subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+<a id="art_26"></a>
+
+### Article 26
+
+1. Before the branch of a credit institution commences its activities the competent authorities of the host Member State shall, within two months of receiving the information referred to in Article 25, prepare for the supervision of the credit institution in accordance with Section 5 and if necessary indicate the conditions under which, in the interest of the general good, those activities shall be carried on in the host Member State.
+
+2. On receipt of a communication from the competent authorities of the host Member State, or in the event of the expiry of the period provided for in paragraph 1 without receipt of any communication from the latter, the branch may be established and may commence its activities.
+
+3. In the event of a change in any of the particulars communicated pursuant to points (b), (c) or (d) of Article 25(2), a credit institution shall give written notice of the change in question to the competent authorities of the home and host Member States at least one month before making the change so as to enable the competent authorities of the home Member State to take a decision pursuant to Article 25 and the competent authorities of the host Member State to take a decision on the change pursuant to paragraph 1 of this Article.
+
+4. Branches which have commenced their activities, in accordance with the provisions in force in their host Member States, before 1 January 1993, shall be presumed to have been subject to the procedure laid down in Article 25 and in paragraphs 1 and 2 of this Article. They shall be governed, from 1 January 1993, by paragraph 3 of this Article and by Articles 23 and 43 as well as Sections 2 and 5.
+
+5. In order to ensure consistent harmonisation of this Article, EBA shall develop draft regulatory technical standards to specify the information to be notified in accordance with this Article.
+
+In order to ensure uniform conditions of application of this Article, EBA shall develop draft implementing technical standards to establish standard forms, templates and procedures for such notification.
+
+EBA shall submit those draft technical standards to the Commission by 1 January 2014.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+Power is also conferred on the Commission to adopt the implementing technical standards referred to in the second subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+<a id="art_27"></a>
+
+### Article 27
+
+Any number of places of business set up in the same Member State by a credit institution with headquarters in another Member State shall be regarded as a single branch.
+
+## Section 4
+
+### Exercise of the freedom to provide services
+
+<a id="art_28"></a>
+
+### Article 28
+
+1. Any credit institution wishing to exercise the freedom to provide services by carrying on its activities within the territory of another Member State for the first time shall notify the competent authorities of the home Member State, of the activities on the list in Annex I which it intends to carry on.
+
+2. The competent authorities of the home Member State shall, within one month of receipt of the notification provided for in paragraph 1, send that notification to the competent authorities of the host Member State.
+
+3. This Article shall not affect rights acquired by credit institutions providing services before 1 January 1993.
+
+4. In order to ensure consistent harmonisation of this Article, EBA shall develop draft regulatory technical standards to specify the information to be notified in accordance with this Article.
+
+In order to ensure uniform conditions of application of this Article, EBA shall develop draft implementing technical standards to establish standard forms, templates and procedures for such notification.
+
+EBA shall submit those draft technical standards to the Commission by 1 January 2014.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+Power is also conferred on the Commission to adopt the implementing technical standards referred to in the second subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+## Section 5
+
+### Powers of the competent authorities of the host Member State
+
+<a id="art_29"></a>
+
+### Article 29
+
+Host Member States may, for statistical purposes, require that all credit institutions having branches within their territories shall report periodically on their activities in those host Member States to the competent authorities of those host Member States.
+
+In discharging the responsibilities imposed on them in Article 41, host Member States may require that branches of credit institutions from other Member States provide the same information as they require from national credit institutions for that purpose.
+
+<a id="art_30"></a>
+
+### Article 30
+
+1. Where the competent authorities of a host Member State ascertain that a credit institution having a branch or providing services within its territory is not complying with the legal provisions adopted in that State pursuant to the provisions of this Directive involving powers of the host Member State's competent authorities, those authorities shall require the credit institution concerned to put an end to that irregular situation.
+
+2. If the credit institution concerned fails to take the necessary steps, the competent authorities of the host Member State shall inform the competent authorities of the home Member State accordingly.
+
+The competent authorities of the home Member State shall, at the earliest opportunity, take all appropriate measures to ensure that the credit institution concerned puts an end to that irregular situation. The nature of those measures shall be communicated to the competent authorities of the host Member State.
+
+3. If, despite the measures taken by the home Member State or because such measures prove inadequate or are not available in the Member State in question, the credit institution persists in violating the legal rules referred to in paragraph 1 in force in the host Member State, the latter State may, after informing the competent authorities of the home Member State, take appropriate measures to prevent or to punish further irregularities and, in so far as is necessary, to prevent that credit institution from initiating further transactions within its territory. The Member States shall ensure that within their territories it is possible to serve the legal documents necessary for these measures on credit institutions.
+
+<a id="art_31"></a>
+
+### Article 31
+
+Articles 29 and 30 shall not affect the power of host Member States to take appropriate measures to prevent or to punish irregularities committed within their territories which are contrary to the legal rules they have adopted in the interests of the general good. This shall include the possibility of preventing offending credit institutions from initiating further transactions within their territories.
+
+<a id="art_32"></a>
+
+### Article 32
+
+Any measure taken pursuant to Article 30(2) and (3), or Article 31 involving penalties or restrictions on the exercise of the freedom to provide services shall be properly justified and communicated to the credit institution concerned. Every such measure shall be subject to a right of appeal to the courts in the Member State in which it was taken.
+
+<a id="art_33"></a>
+
+### Article 33
+
+Before following the procedure provided for in Article 30, the competent authorities of the host Member State may, in emergencies, take any precautionary measures necessary to protect the interests of depositors, investors and others to whom services are provided. The Commission, EBA and the competent authorities of the other Member States concerned shall be informed of such measures at the earliest opportunity.
+
+The Commission may, after consulting the competent authorities of the Member States concerned, decide that the Member State in question shall amend or abolish those measures.
+
+<a id="art_34"></a>
+
+### Article 34
+
+Host Member States may exercise the powers conferred on them under this Directive by taking appropriate measures to prevent or to punish irregularities committed within their territories. This shall include the possibility of preventing offending credit institutions from initiating further transactions within their territories.
+
+<a id="art_35"></a>
+
+### Article 35
+
+In the event of the withdrawal of authorisation, the competent authorities of the host Member State shall be informed and shall take appropriate measures to prevent the credit institution concerned from initiating further transactions within its territory and to safeguard the interests of depositors.
+
+<a id="art_36"></a>
+
+### Article 36
+
+The Member States shall inform the Commission and EBA of the number and type of cases in which there has been a refusal pursuant to Article 25 and Article 26(1), (2) and (3) or in which measures have been taken in accordance with Article 30(3).
+
+<a id="art_37"></a>
+
+### Article 37
+
+This Section shall not prevent credit institutions with head offices in other Member States from advertising their services through all available means of communication in the host Member State, subject to any rules governing the form and the content of such advertising adopted in the interests of the general good.
+
+## Section 1
+
+### Notification in relation to third countries' undertakings and conditions of access to the markets of these countries
+
+<a id="art_38"></a>
+
+### Article 38
+
+1. Member States shall not apply to branches of credit institutions having their head office outside the Community, when commencing or carrying on their business, provisions which result in more favourable treatment than that accorded to branches of credit institutions having their head office in the Community.
+
+2. The competent authorities shall notify the Commission, EBA and the European Banking Committee of all authorisations for branches granted to credit institutions having their head office in a third country.
+
+3. Without prejudice to paragraph 1, the Community may, through agreements concluded with one or more third countries, agree to apply provisions which accord to branches of a credit institution having its head office outside the Community identical treatment throughout the territory of the Community.
+
+## Section 2
+
+### Cooperation with third countries' competent authorities regarding supervision on a consolidated basis
+
+<a id="art_39"></a>
+
+### Article 39
+
+1. The Commission may submit proposals to the Council, either at the request of a Member State or on its own initiative, for the negotiation of agreements with one or more third countries regarding the means of exercising supervision on a consolidated basis over the following:
+
+(a) credit institutions the parent undertakings of which have their head offices in a third country; or
+
+(b) credit institutions situated in third countries the parent undertakings of which, whether credit institutions or financial holding companies, have their head offices in the Community.
+
+2. The agreements referred to in paragraph 1 shall, in particular, seek to ensure the following:
+
+(a) that the competent authorities of the Member States are able to obtain the information necessary for the supervision, on the basis of their consolidated financial situations, of credit institutions or financial holding companies situated in the Community and which have as subsidiaries credit institutions or financial institutions situated outside the Community, or holding participation in such institutions; and
+
+(b) that the competent authorities of third countries are able to obtain the information necessary for the supervision of parent undertakings the head offices of which are situated within their territories and which have as subsidiaries credit institutions or financial institutions situated in one or more Member States or holding participation in such institutions; and
+
+(c) that EBA is able to obtain the information from the competent authorities of the Member States received from national authorities of third countries in accordance with Article 35 of Regulation (EU) No 1093/2010.
+
+3. Without prejudice to Article 300(1) and (2) of the Treaty, the Commission shall, with the assistance of the European Banking Committee, examine the outcome of the negotiations referred to in paragraph 1 and the resulting situation.
+
+4. EBA shall assist the Commission for the purposes of this Article in accordance with Article 33 of Regulation (EU) No 1093/2010.
+
+## Section 1
+
+### Competence of home and host Member State
+
+<a id="art_40"></a>
+
+### Article 40
+
+1. The prudential supervision of a credit institution, including that of the activities it carries on accordance with Articles 23 and 24, shall be the responsibility of the competent authorities of the home Member State, without prejudice to those provisions of this Directive which give responsibility to the competent authorities of the host Member State.
+
+2. Paragraph 1 shall not prevent supervision on a consolidated basis pursuant to this Directive.
+
+3. The competent authorities in one Member State shall, in the exercise of their general duties, duly consider the potential impact of their decisions on the stability of the financial system in all other Member States concerned and, in particular, in emergency situations, based on the information available at the relevant time.
+
+<a id="art_41"></a>
+
+### Article 41
+
+Host Member States shall, pending further coordination, retain responsibility in cooperation with the competent authorities of the home Member State for the supervision of the liquidity of the branches of credit institutions.
+
+Without prejudice to the measures necessary for the reinforcement of the European Monetary System, host Member States shall retain complete responsibility for the measures resulting from the implementation of their monetary policies.
+
+Such measures may not provide for discriminatory or restrictive treatment based on the fact that a credit institution is authorised in another Member State.
+
+<a id="art_42"></a>
+
+### Article 42
+
+The competent authorities of the Member States concerned shall collaborate closely in order to supervise the activities of credit institutions operating, in particular through a branch, in one or more Member States other than that in which their head offices are situated. They shall supply one another with all information concerning the management and ownership of such credit institutions that is likely to facilitate their supervision and the examination of the conditions for their authorisation, and all information likely to facilitate the monitoring of such institutions, in particular with regard to liquidity, solvency, deposit guarantees, the limiting of large exposures, administrative and accounting procedures and internal control mechanisms.
+
+The competent authorities may refer to EBA situations where a request for collaboration, in particular to exchange information, has been rejected or has not been acted upon within a reasonable time. Without prejudice to Article 258 of the Treaty on the Functioning of the European Union (TFEU), EBA may, in situations referred to in the first sentence, act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1093/2010.
+
+In order to ensure consistent harmonisation of this Article, EBA shall develop draft regulatory technical standards to specify the information contained in this Article.
+
+In order to ensure uniform conditions of application of this Article, EBA shall develop draft implementing technical standards to establish standard forms, templates and procedures for the information sharing requirements which are likely to facilitate the monitoring of credit institutions.
+
+EBA shall submit those draft technical standards to the Commission by 1 January 2014.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the third paragraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+Power is also conferred on the Commission to adopt the implementing technical standards referred to in the fourth paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+<a id="art_42a"></a>
+
+### Article 42a
+
+1. The competent authorities of a host Member State may make a request to the consolidating supervisor where Article 129(1) applies or to the competent authorities of the home Member State, for a branch of a credit institution to be considered as significant.
+
+That request shall provide reasons for considering the branch to be significant with particular regard to the following:
+
+(a) whether the market share of the branch of a credit institution in terms of deposit exceeds 2 % in the host Member State;
+
+(b) the likely impact of a suspension or closure of the operations of the credit institution on market liquidity and the payment and clearing and settlement systems in the host Member State; and
+
+(c) the size and the importance of the branch in terms of number of clients within the context of the banking or financial system of the host Member State.
+
+The competent authorities of the home and host Member States, and the consolidating supervisor where Article 129(1) applies, shall do everything within their power to reach a joint decision on the designation of a branch as being significant.
+
+If no joint decision is reached within two months of receipt of a request under the first subparagraph, the competent authorities of the host Member State shall take their own decision within a further period of two months on whether the branch is significant. In taking their decision, the competent authorities of the host Member State shall take into account any views and reservations of the consolidating supervisor or the competent authorities of the home Member State.
+
+If, at the end of the initial two-month period any of the competent authorities concerned has referred the matter to EBA in accordance with Article 19 of Regulation (EU) No 1093/2010, the competent authorities of the host Member State shall defer their decision and await the decision that EBA may take in accordance with Article 19(3) of that Regulation. The competent authorities of the host Member State shall take their decision in conformity with that of EBA. The two-month period shall be deemed to be the ‘conciliation phase’ within the meaning of Article 19 of that Regulation. EBA shall take its decision within 1 month. The matter shall not be referred to EBA after the end of the initial two month period or after a joint decision has been reached.
+
+The decisions referred to in the third and fourth subparagraph shall be set out in a document containing the fully reasoned decision and transmitted to the competent authorities concerned, and shall be recognised as determinative and applied by the competent authorities in the Member States concerned.
+
+The designation of a branch as being significant shall not affect the rights and responsibilities of the competent authorities under this Directive.
+
+2. The competent authorities of the home Member State shall communicate to the competent authorities of a host Member State where a significant branch is established the information referred to in Article 132(1)(c) and (d) and carry out the tasks referred to in Article 129(1)(c) in cooperation with the competent authorities of the host Member State.
+
+If a competent authority of a home Member State becomes aware of an emergency situation within a credit institution as referred to in Article 130(1), it shall alert as soon as practicable the authorities referred to in the fourth paragraph of Article 49 and in Article 50.
+
+3. Where Article 131a does not apply, the competent authorities supervising a credit institution with significant branches in other Member States shall establish and chair a college of supervisors to facilitate the cooperation under paragraph 2 of this Article and Article 42. The establishment and functioning of the college shall be based on written arrangements determined, after consultation with competent authorities concerned, by the competent authority of the home Member State. The competent authority of the home Member State shall decide which competent authorities participate in a meeting or in an activity of the college.
+
+The decision of the competent authority of the home Member State shall take account of the relevance of the supervisory activity to be planned or coordinated for those authorities, in particular the potential impact on the stability of the financial system in the Member States concerned referred to in Article 40(3) and the obligations referred to in paragraph 2 of this Article.
+
+The competent authority of the home Member State shall keep all members of the college fully informed, in advance, of the organisation of such meetings, the main issues to be discussed and the activities to be considered. The competent authority of the home Member State shall also keep all the members of the college fully informed, in a timely manner, of the actions taken in those meetings or the measures carried out.
+
+In order to ensure consistent harmonisation of this Article, EBA may develop draft regulatory technical standards in order to specify general conditions for the functioning of colleges of supervisors.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the fourth subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+In order to ensure uniform conditions of application of this Article, EBA may develop draft implementing technical standards in order to determine the operational functioning of colleges of supervisors.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the sixth subparagraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+<a id="art_42b"></a>
+
+### Article 42b
+
+1. In the exercise of their duties, the competent authorities shall take into account the convergence in respect of supervisory tools and supervisory practices in the application of the laws, regulations and administrative requirements adopted pursuant to this Directive. For that purpose, Member States shall ensure that:
+
+(a) the competent authorities participate in the activities of EBA;
+
+(b) the competent authorities follow the guidelines and recommendations of EBA and state the reasons if they do not do so;
+
+(c) national mandates conferred on the competent authorities do not inhibit the performance of their duties as members of EBA or under this Directive.
+
+<a id="art_43"></a>
+
+### Article 43
+
+1. Host Member States shall provide that, where a credit institution authorised in another Member State carries on its activities through a branch, the competent authorities of the home Member State may, after having first informed the competent authorities of the host Member State, carry out themselves or through the intermediary of persons they appoint for that purpose on-the-spot verification of the information referred to in Article 42.
+
+2. The competent authorities of the home Member State may also, for purposes of the verification of branches, have recourse to one of the other procedures laid down in Article 141.
+
+3. Paragraphs 1 and 2 shall not affect the right of the competent authorities of the host Member State to carry out, in the discharge of their responsibilities under this Directive, on-the-spot verifications of branches established within their territory.
+
+## Section 2
+
+### Exchange of information and professional secrecy
+
+<a id="art_44"></a>
+
+### Article 44
+
+1. Member States shall provide that all persons working for or who have worked for the competent authorities, as well as auditors or experts acting on behalf of the competent authorities, shall be bound by the obligation of professional secrecy.
+
+No confidential information which they may receive in the course of their duties may be divulged to any person or authority whatsoever, except in summary or collective form, such that individual credit institutions cannot be identified, without prejudice to cases covered by criminal law.
+
+Nevertheless, where a credit institution has been declared bankrupt or is being compulsorily wound up, confidential information which does not concern third parties involved in attempts to rescue that credit institution may be divulged in civil or commercial proceedings.
+
+2. Paragraph 1 shall not prevent the competent authorities of the various Member States from exchanging information or transmitting information to EBA in accordance with this Directive, with other Directives applicable to credit institutions, and with Articles 31 and 35 of Regulation (EU) No 1093/2010. That information shall be subject to the conditions relating to professional secrecy set out in paragraph 1.
+
+<a id="art_45"></a>
+
+### Article 45
+
+Competent authorities receiving confidential information under Article 44 may use it only in the course of their duties and only for the following purposes:
+
+(a) to check that the conditions governing the taking-up of the business of credit institutions are met and to facilitate monitoring, on a non-consolidated or consolidated basis, of the conduct of such business, especially with regard to the monitoring of liquidity, solvency, large exposures, and administrative and accounting procedures and internal control mechanisms;
+
+(b) to impose penalties;
+
+(c) in an administrative appeal against a decision of the competent authority; or
+
+(d) in court proceedings initiated pursuant to Article 55 or to special provisions provided for in this in other Directives adopted in the field of credit institutions.
+
+<a id="art_46"></a>
+
+### Article 46
+
+In accordance with Article 33 of Regulation (EU) No 1093/2010, Member States and EBA may conclude cooperation agreements, providing for exchanges of information, with the competent authorities of third countries or with authorities or bodies of third countries as defined in Article 47 and Article 48(1) of this Directive only if the information disclosed is subject to guarantees of professional secrecy at least equivalent to those referred to in Article 44(1) of this Directive. Such exchange of information shall be for the purpose of performing the supervisory tasks of those authorities or bodies.
+
+Where the information originates in another Member State, it shall not be disclosed without the express agreement of the authorities which have disclosed it and, where appropriate, solely for the purposes for which those authorities gave their agreement.
+
+<a id="art_47"></a>
+
+### Article 47
+
+Articles 44(1) and 45 shall not preclude the exchange of information within a Member State, where there are two or more competent authorities in the same Member State, or between Member States, between competent authorities and the following:
+
+(a) authorities entrusted with the public duty of supervising other financial organisations and insurance companies and the authorities responsible for the supervision of financial markets;
+
+(b) bodies involved in the liquidation and bankruptcy of credit institutions and in other similar procedures; and
+
+(c) persons responsible for carrying out statutory audits of the accounts of credit institutions and other financial institutions;
+
+in the discharge of their supervisory functions.
+
+Articles 44(1) and 45 shall not preclude the disclosure to bodies which administer deposit-guarantee schemes of information necessary to the exercise of their functions.
+
+In both cases, the information received shall be subject to the conditions of professional secrecy specified in Article 44(1).
+
+<a id="art_48"></a>
+
+### Article 48
+
+1. Notwithstanding Articles 44 to 46, Member States may authorise exchange of information between the competent authorities and the following:
+
+(a) the authorities responsible for overseeing the bodies involved in the liquidation and bankruptcy of credit institutions and in other similar procedures; and
+
+(b) the authorities responsible for overseeing persons charged with carrying out statutory audits of the accounts of insurance undertakings, credit institutions, investment firms and other financial institutions.
+
+In such cases, Member States shall require fulfilment of at least the following conditions:
+
+(a) the information shall be for the purpose of performing the supervisory task referred to in the first subparagraph;
+
+(b) information received in this context shall be subject to the conditions of professional secrecy specified in Article 44(1); and
+
+(c) where the information originates in another Member State, it may not be disclosed without the express agreement of the competent authorities which have disclosed it and, where appropriate, solely for the purposes for which those authorities gave their agreement.
+
+Member States shall communicate to the Commission and to the other Member States the names of the authorities which may receive information pursuant to this paragraph.
+
+2. Notwithstanding Articles 44 to 46, Member States may, with the aim of strengthening the stability, including integrity, of the financial system, authorise the exchange of information between the competent authorities and the authorities or bodies responsible under law for the detection and investigation of breaches of company law.
+
+In such cases Member States shall require fulfilment of at least the following conditions:
+
+(a) the information is for the purpose of performing the task referred to in the first subparagraph;
+
+(b) information received in this context is subject to the conditions of professional secrecy specified in Article 44(1); and
+
+(c) where the information originates in another Member State, it may not be disclosed without the express agreement of the competent authorities which have disclosed it and, where appropriate, solely for the purposes for which those authorities gave their agreement.
+
+Where, in a Member State, the authorities or bodies referred to in the first subparagraph perform their task of detection or investigation with the aid, in view of their specific competence, of persons appointed for that purpose and not employed in the public sector, the possibility of exchanging information provided for in the first subparagraph may be extended to such persons under the conditions specified in the second subparagraph.
+
+In order to implement the third subparagraph, the authorities or bodies referred to in the first subparagraph shall communicate to the competent authorities which have disclosed the information, the names and precise responsibilities of the persons to whom it is to be sent.
+
+Member States shall communicate to the Commission and to the other Member States the names of the authorities or bodies which may receive information pursuant to this Article.
+
+The Commission shall draw up a report on the application of the provisions of this Article.
+
+<a id="art_49"></a>
+
+### Article 49
+
+This Section shall not prevent a competent authority from transmitting information to the following for the purposes of their tasks:
+
+(a) central banks of the European System of the Central Banks and other bodies with a similar function in their capacity as monetary authorities when the information is relevant for the exercise of their respective statutory tasks, including the conduct of monetary policy and related liquidity provision, oversight of payments, clearing and settlement systems, and the safeguarding of stability of the financial system;
+
+(b) where appropriate, other public authorities responsible for overseeing payment systems;
+
+(c) the European Systemic Risk Board (hereinafter the ‘ESRB’), where that information is relevant for the exercise of its statutory tasks under Regulation (EU) No 1092/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board (24).
+
+This Section shall not prevent the authorities or bodies referred to in the first subparagraph from communicating to the competent authorities such information as they may need for the purposes of Article 45.
+
+This Section shall not prevent such authorities or bodies from communicating to the competent authorities such information as they may need for the purposes of Article 45.
+
+Information received in this context shall be subject to the conditions of professional secrecy specified in Article 44(1).
+
+In an emergency situation as referred to in Article 130(1), Member States shall allow the competent authorities to communicate, without delay, information to the central banks in the European System of the Central Banks where that information is relevant for the exercise of their statutory tasks, including the conduct of monetary policy and related liquidity provision, the oversight of payments, clearing and securities settlement systems, and the safeguarding stability of the financial system, and to the ESRB under Regulation (EU) No 1092/2010, where such information is relevant for the exercise of its statutory tasks.
+
+<a id="art_50"></a>
+
+### Article 50
+
+Notwithstanding Articles 44(1) and 45, the Member States may, by virtue of provisions laid down by law, authorise the disclosure of certain information to other departments of their central government administrations responsible for legislation on the supervision of credit institutions, financial institutions, investment services and insurance companies and to inspectors acting on behalf of those departments.
+
+However, such disclosures may be made only where necessary for reasons of prudential control.
+
+In an emergency situation as referred to in Article 130(1), Member States shall allow competent authorities to disclose information which is relevant to the departments referred to in the first paragraph of this Article in all Member States concerned.
+
+<a id="art_51"></a>
+
+### Article 51
+
+The Member States shall provide that information received under Articles 44(2) and 47 and information obtained by means of the on-the-spot verification referred to in Article 43(1) and (2) may never be disclosed in the cases referred to in Article 50 except with the express consent of the competent authorities which disclosed the information or of the competent authorities of the Member State in which on-the-spot verification was carried out.
+
+<a id="art_52"></a>
+
+### Article 52
+
+This Section shall not prevent the competent authorities of a Member State from communicating the information referred to in Articles 44 to 46 to a clearing house or other similar body recognised under national law for the provision of clearing or settlement services for one of their national markets if they consider that it is necessary to communicate the information in order to ensure the proper functioning of those bodies in relation to defaults or potential defaults by market participants. The information received in this context shall be subject to the conditions of professional secrecy specified in Article 44(1).
+
+The Member States shall, however, ensure that information received under Article 44(2) may not be disclosed in the circumstances referred to in this Article without the express consent of the competent authorities which disclosed it.
+
+## Section 3
+
+### Duty of persons responsible for the legal control of annual and consolidated accounts
+
+<a id="art_53"></a>
+
+### Article 53
+
+1. Member States shall provide at least that any person authorised within the meaning of Directive 84/253/EEC (25) performing in a credit institution the task described in Article 51 of Directive 78/660/EEC, Article 37 of Directive 83/349/EEC or Article 31 of Directive 85/611/EEC (26), or any other statutory task, shall have a duty to report promptly to the competent authorities any fact or decision concerning that credit institution of which he has become aware while carrying out that task which is liable to:
+
+(a) constitute a material breach of the laws, regulations or administrative provisions which lay down the conditions governing authorisation or which specifically govern pursuit of the activities of credit institutions;
+
+(b) affect the continuous functioning of the credit institution; or
+
+(c) lead to refusal to certify the accounts or to the expression of reservations.
+
+Member States shall provide at least that that person shall likewise have a duty to report any fact or decision of which he becomes aware in the course of carrying out a task as described in the first sub-paragraph in an undertaking having close links resulting from a control relationship with the credit institution within which he is carrying out that task.
+
+2. The disclosure in good faith to the competent authorities, by persons authorised within the meaning of Directive 84/253/EEC, of any fact or decision referred to in paragraph 1 shall not constitute a breach of any restriction on disclosure of information imposed by contract or by any legislative, regulatory or administrative provision and shall not involve such persons in liability of any kind.
+
+## Section 4
+
+### Power of sanction and right to apply to the courts
+
+<a id="art_54"></a>
+
+### Article 54
+
+Without prejudice to the procedures for the withdrawal of authorisations and the provisions of criminal law, the Member States shall provide that their respective competent authorities may, as against credit institutions, or those who effectively control the business of credit institutions, which breach laws, regulations or administrative provisions concerning the supervision or pursuit of their activities, adopt or impose penalties or measures aimed specifically at ending the observed breaches or the causes of such breaches.
+
+Member States shall ensure that, for the purposes of the first paragraph, their respective competent authorities have the power to impose or apply financial and non-financial penalties or other measures. Those penalties or measures shall be effective, proportionate and dissuasive.
+
+<a id="art_55"></a>
+
+### Article 55
+
+Member States shall ensure that decisions taken in respect of a credit institution in pursuance of laws, regulations and administrative provisions adopted in accordance with this Directive may be subject to the right to apply to the courts. The same shall apply where no decision is taken, within six months of its submission, in respect of an application for authorisation which contains all the information required under the provisions in force.
+
+## Section 1
+
+### Own funds
+
+<a id="art_56"></a>
+
+### Article 56
+
+Wherever a Member State lays down by law, regulation or administrative action a provision in implementation of Community legislation concerning the prudential supervision of an operative credit institution which uses the term or refers to the concept of own funds, it shall bring this term or concept into line with the definition given in Articles 57 to 61 and Articles 63 to 66.
+
+<a id="art_57"></a>
+
+### Article 57
+
+Subject to the limits imposed in Article 66, the unconsolidated own funds of credit institutions shall consist of the following items:
+
+(a) capital within the meaning of Article 22 of Directive 86/635/EEC, in so far as it has been paid up, plus the related share premium accounts, it fully absorbs losses in going concern situations, and in the event of bankruptcy or liquidation ranks after all other claims;
+
+(b) reserves within the meaning of Article 23 of Directive 86/635/EEC and profits and losses brought forward as a result of the application of the final profit or loss;
+
+(c) funds for general banking risks within the meaning of Article 38 of Directive 86/635/EEC;
+
+(ca) instruments other than those referred to in point (a), which meet the requirements set out in points (a), (c), (d) and (e) of Article 63(2) and in Article 63a;
+
+(d) revaluation reserves within the meaning of Article 33 of Directive 78/660/EEC;
+
+(e) value adjustments within the meaning of Article 37(2) of Directive 86/635/EEC;
+
+(f) other items within the meaning of Article 63;
+
+(g) the commitments of the members of credit institutions set up as cooperative societies and the joint and several commitments of the borrowers of certain institutions organised as funds, as referred to in Article 64(1); and
+
+(h) fixed-term cumulative preferential shares and subordinated loan capital as referred to in Article 64(3).
+
+The following items shall be deducted in accordance with Article 66:
+
+(i) own shares at book value held by a credit institution;
+
+(j) intangible assets within the meaning of Article 4(9) (‘Assets’) of Directive 86/635/EEC;
+
+(k) material losses of the current financial year;
+
+(l) holdings in other credit and financial institutions amounting to more than 10 % of their capital;
+
+(m) subordinated claims and instruments referred to in Article 63 and Article 64(3) which a credit institution holds in respect of credit and financial institutions in which it has holdings exceeding 10 % of the capital in each case;
+
+(n) holdings in other credit and financial institutions of up to 10 % of their capital, the subordinated claims and the instruments referred to in Article 63 and Article 64(3) which a credit institution holds in respect of credit and financial institutions other than those referred to in points (l) and (m) in respect of the amount of the total of such holdings, subordinated claims and instruments which exceed 10 % of that credit institution's own funds calculated before the deduction of items in points (l) to (p);
+
+(o) participations within the meaning of Article 4(10) which a credit institution holds in:
+
+(i) insurance undertakings within the meaning of Article 6 of Directive 73/239/EEC (27), Article 4 of Directive 2002/83/EC (28) or Article 1(b) of Directive 98/78/EC (29),
+
+(ii) reinsurance undertakings within the meaning of Article 1(c) of Directive 98/78/EC, or
+
+(iii) insurance holding companies within the meaning of Article 1(i) of Directive 98/78/EC;
+
+(p) each of the following items which the credit institution holds in respect of the entities defined in point (o) in which it holds a participation:
+
+(i) instruments referred to in Article 16(3) of Directive 73/239/EEC, and
+
+(ii) instruments referred to in Article 27(3) of Directive 2002/83/EC;
+
+(q) for credit institutions calculating risk-weighted exposure amounts under Section 3, Subsection 2, negative amounts resulting from the calculation in Annex VII, Part 1, point 36 and expected loss amounts calculated in accordance with Annex VII, Part 1 points 32 and 33; and
+
+(r) the exposure amount of securitisation positions which receive a risk weight of 1 250 % under this Directive and the exposure amount of securitisation positions in the trading book that would receive a 1 250 % risk weight if they were in the same credit institutions non-trading book.
+
+For the purposes of point (b), the Member States shall permit inclusion of interim or year-end profits before a formal decision has been taken only if these profits have been verified by persons responsible for the auditing of the accounts and if it is proved to the satisfaction of the competent authorities that the amount thereof has been evaluated in accordance with the principles set out in Directive 86/635/EEC and is net of any foreseeable charge or dividend.
+
+In the case of a credit institution which is the originator of a securitisation, net gains arising from the capitalisation of future income from the securitised assets and providing credit enhancement to positions in the securitisation shall be excluded from the item specified in point (b).
+
+<a id="art_58"></a>
+
+### Article 58
+
+Where shares in another credit institution, financial institution, insurance or reinsurance undertaking or insurance holding company are held temporarily for the purposes of a financial assistance operation designed to reorganise and save that entity, the competent authority may waive the provisions on deduction referred to in points (l) to (p) of Article 57.
+
+<a id="art_59"></a>
+
+### Article 59
+
+As an alternative to the deduction of the items referred to in points (o) and (p) of Article 57, Member States may allow their credit institutions to apply mutatis mutandis methods 1, 2 or 3 of Annex I to Directive 2002/87/EC. Method 1 (accounting consolidation) may be applied only if the competent authority is confident about the level of integrated management and internal control regarding the entities which would be included in the scope of consolidation. The method chosen shall be applied in a consistent manner over time.
+
+<a id="art_60"></a>
+
+### Article 60
+
+Member States may provide that for the calculation of own funds on a stand-alone basis, credit institutions subject to supervision on a consolidated basis in accordance with Chapter 4, Section 1, or to supplementary supervision in accordance with Directive 2002/87/EC, need not deduct the items referred to in points (l) to (p) of Article 57 which are held in credit institutions, financial institutions, insurance or reinsurance undertakings or insurance holding companies, which are included in the scope of consolidated or supplementary supervision.
+
+This provision shall apply to all the prudential rules harmonised by Community acts.
+
+<a id="art_61"></a>
+
+### Article 61
+
+The concept of own funds as defined in Article 57(a) to (h) embodies a maximum number of items and amounts. Member States may decide on the use of those items and on the deduction of items other than those listed in Article 57(i) to (r).
+
+The items listed in points (a) to (e) of Article 57 shall be available to a credit institution for unrestricted and immediate use to cover risks or losses as soon as these occur. The amount shall be net of any foreseeable tax charge at the moment of its calculation or be suitably adjusted in so far as such tax charges reduce the amount up to which these items may be applied to cover risks or losses.
+
+<a id="art_62"></a>
+
+### Article 62
+
+Member States may report to the Commission on the progress achieved in convergence with a view to a common definition of own funds. On the basis of these reports the Commission shall, if appropriate, by 1 January 2009, submit a proposal to the European Parliament and to the Council for amendment of this Section.
+
+<a id="art_63"></a>
+
+### Article 63
+
+1. The concept of own funds used by a Member State may include other items provided that, whatever their legal or accounting designations might be, they have the following characteristics:
+
+(a) they are freely available to the credit institution to cover normal banking risks where revenue or capital losses have not yet been identified;
+
+(b) their existence is disclosed in internal accounting records; and
+
+(c) their amount is determined by the management of the credit institution, verified by independent auditors, made known to the competent authorities and placed under the supervision of the latter.
+
+2. Securities of indeterminate duration and other instruments that fulfil the following conditions may also be accepted as other items:
+
+(a) they may not be reimbursed on the bearer's initiative or without the prior agreement of the competent authority;
+
+(b) the debt agreement shall provide for the credit institution to have the option of deferring the payment of interest on the debt;
+
+(c) the lender's claims on the credit institution shall be wholly subordinated to those of all non-subordinated creditors;
+
+(d) the documents governing the issue of the securities shall provide for debt and unpaid interest to be such as to absorb losses, whilst leaving the credit institution in a position to continue trading; and
+
+(e) only fully paid-up amounts shall be taken into account.
+
+To these securities and other instruments may be added cumulative preferential shares other than those referred to in point (h) of Article 57.
+
+Instruments referred to in Article 57(ca) shall comply with the requirements set out in points (a), (c), (d) and (e) of this Article.
+
+3. For credit institutions calculating risk-weighted exposure amounts under Section 3, Subsection 2, positive amounts resulting from the calculation in Annex VII, Part 1, point 36, may, up to 0,6 % of risk weighted exposure amounts calculated under Subsection 2, be accepted as other items. For these credit institutions value adjustments and provisions included in the calculation referred to in Annex VII, Part 1, point 36 and value adjustments and provisions for exposures referred to in point (e) of Article 57 shall not be included in own funds other than in accordance with this paragraph. For these purposes, risk-weighted exposure amounts shall not include those calculated in respect of securitisation positions which have a risk weight of 1 250 %.
+
+<a id="art_63a"></a>
+
+### Article 63a
+
+1. Instruments referred to in Article 57(ca) shall comply with the requirements set out in paragraphs 2 to 5 of this Article.
+
+2. The instruments shall be undated or have an original maturity of at least 30 years. The instruments may include one or more call options at the sole discretion of the issuer, but they shall not be redeemed before five years after the date of issue. If the provisions governing undated instruments provide for a moderate incentive for the credit institution to redeem as determined by the competent authorities, such incentive shall not occur within 10 years of the date of issue. The provisions governing dated instruments shall not permit an incentive to redeem on a date other than the maturity date.
+
+Dated and undated instruments may be called or redeemed only with the prior consent of the competent authorities. The competent authorities may grant permission provided the request is made at the initiative of the credit institution and either financial or solvency conditions of the credit institution are not unduly affected. The competent authorities may require institutions to replace the instrument by items of the same or better quality referred to in point (a) or (ca) of Article 57.
+
+The competent authorities shall require the suspension of the redemption for dated instruments if the credit institution does not comply with the capital requirements set out in Article 75 and may require such suspension at other times based on the financial and solvency situation of credit institutions.
+
+The competent authority may at any time grant permission for early redemption of dated or undated instruments in the event that there is a change in the applicable tax treatment or regulatory classification of such instruments which was unforeseen at the date of issue.
+
+3. The provisions governing the instrument shall allow the credit institution to cancel, when necessary, the payment of interest or dividends for an unlimited period of time, on a non-cumulative basis.
+
+However, the credit institution shall cancel such payments if it does not comply with the capital requirements set out in Article 75.
+
+The competent authorities may require the cancellation of such payments based on the financial and solvency situation of the credit institution. Any such cancellation shall not prejudice the right of the credit institution to substitute the payment of interest or dividend by a payment in the form of an instrument referred to in Article 57(a), provided that any such mechanism allows the credit institution to preserve financial resources. Such substitution may be subject to specific conditions established by the competent authorities.
+
+4. The provisions governing the instrument shall provide for principal, unpaid interest or dividend to be such as to absorb losses and to not hinder the recapitalisation of the credit institution through appropriate mechanisms, as developed by EBA under paragraph 6.
+
+5. In the event of the bankruptcy or liquidation of the credit institution, the instruments shall rank after the items referred to in Article 63(2).
+
+6. In order to ensure consistent harmonisation and to ensure the convergence of supervisory practices, EBA shall develop draft regulatory technical standards to specify the requirements applicable to the instruments referred to in paragraph 1 of this Article EBA shall submit those draft regulatory technical standards to the Commission by 1 January 2014. Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+EBA shall also issue guidelines in relation to instruments referred to in point (a) of the first paragraph of Article 57.
+
+EBA shall monitor the application of those guidelines.
+
+<a id="art_64"></a>
+
+### Article 64
+
+1. The commitments of the members of credit institutions set up as cooperative societies referred to in point (g) of Article 57, shall comprise those societies' uncalled capital, together with the legal commitments of the members of those cooperative societies to make additional non-refundable payments should the credit institution incur a loss, in which case it shall be possible to demand those payments without delay.
+
+The joint and several commitments of borrowers in the case of credit institutions organised as funds shall be treated in the same way as the preceding items.
+
+All such items may be included in own funds in so far as they are counted as the own funds of institutions of this category under national law.
+
+2. Member States shall not include in the own funds of public credit institutions guarantees which they or their local authorities extend to such entities.
+
+3. Member States or the competent authorities may include fixed-term cumulative preferential shares referred to in point (h) of Article 57 and subordinated loan capital referred to in that provision in own funds, if binding agreements exist under which, in the event of the bankruptcy or liquidation of the credit institution, they rank after the claims of all other creditors and are not to be repaid until all other debts outstanding at the time have been settled.
+
+Subordinated loan capital shall fulfil the following additional criteria:
+
+(a) only fully paid-up funds may be taken into account;
+
+(b) the loans involved shall have an original maturity of at least five years, after which they may be repaid;
+
+(c) the extent to which they may rank as own funds shall be gradually reduced during at least the last five years before the repayment date; and
+
+(d) the loan agreement shall not include any clause providing that in specified circumstances, other than the winding-up of the credit institution, the debt shall become repayable before the agreed repayment date.
+
+For the purposes of point (b) of the second subparagraph, if the maturity of the debt is not fixed, the loans involved shall be repayable only subject to five years' notice unless the loans are no longer considered as own funds or unless the prior consent of the competent authorities is specifically required for early repayment. The competent authorities may grant permission for the early repayment of such loans provided the request is made at the initiative of the issuer and the solvency of the credit institution in question is not affected.
+
+4. Credit institutions shall not include in own funds either the fair value reserves related to gains or losses on cash flow hedges of financial instruments measured at amortised cost, or any gains or losses on their liabilities valued at fair value that are due to changes in the credit institutions' own credit standing.
+
+5. Credit institutions shall apply the requirements of Part B of Annex VII to Directive 2006/49/EC to all their assets measured at fair value when calculating the amount of own funds and shall deduct from the total of the items (a) to (ca) minus (i) to (k) in Article 57 the amount of any additional value adjustments necessary. The Committee of European Banking Supervisors shall establish guidelines regarding the details of the application of this provision.
+
+<a id="art_65"></a>
+
+### Article 65
+
+1. Where the calculation is to be made on a consolidated basis, the consolidated amounts relating to the items listed under Article 57 shall be used in accordance with the rules laid down in Chapter 4, Section 1. Moreover, the following may, when they are credit (‘negative’) items, be regarded as consolidated reserves for the calculation of own funds:
+
+(a) any minority interests within the meaning of Article 21 of Directive 83/349/EEC, where the global integration method is used. Any instruments referred to in Article 57(ca), which give rise to minority interests shall meet the requirements under points (a), (c), (d) and (e) of Article 63(2) and Articles 63a and 66;
+
+(b) the first consolidation difference within the meaning of Articles 19, 30 and 31 of Directive 83/349/EEC;
+
+(c) the translation differences included in consolidated reserves in accordance with Article 39(6) of Directive 86/635/EEC; and
+
+(d) any difference resulting from the inclusion of certain participating interests in accordance with the method prescribed in Article 33 of Directive 83/349/EEC.
+
+2. Where the items referred to in points (a) to (d) of paragraph 1 are debit (‘positive’) items, they shall be deducted in the calculation of consolidated own funds.
+
+<a id="art_66"></a>
+
+### Article 66
+
+1. The items referred to in Article 57(d) to (h) shall be subject to the following limits:
+
+(a) the total of the items referred to in Article 57(d) to (h) must not exceed a maximum of 100 % of the items in points (a) to (ca) minus (i), (j) and (k) of that Article; and
+
+(b) the total of the items referred to in Article 57(g) to (h) must not exceed a maximum of 50 % of the items in points (a) to (ca) minus (i), (j) and (k) of that Article.
+
+1a. Notwithstanding paragraph 1 of this Article, the total of the items in Article 57(ca) shall be subject to the following limits:
+
+(a) instruments that must be converted during emergency situations and may be converted at the initiative of the competent authority, at any time, based on the financial and solvency situation of the issuer into items referred to in Article 57(a) within a pre-determined range must in total not exceed a maximum of 50 % of the items in points (a) to (ca) minus (i), (j) and (k) of that article;
+
+(b) within the limit referred to in point (a) of this paragraph, all other instruments must not exceed a maximum of 35 % of the items in points (a) to (ca) minus (i), (j) and (k) of Article 57;
+
+(c) within the limits referred to in points (a) and (b) of this paragraph, dated instruments and instruments with provisions that provide for an incentive for the credit institution to redeem must not exceed a maximum of 15 % of the items in points (a) to (ca) minus (i), (j) and (k) of Article 57;
+
+(d) the amount of items exceeding the limits set out in points (a), (b) and (c) must be subject to the limit set out in paragraph 1 of this Article.
+
+2. Half of the total of the items in Article 57(l) to (r) shall be deducted from the total of the items in points (a) to (ca) minus (i) to (k) of that Article, and half from the total of the items in points (d) to (h) of that Article, after application of the limits laid down in paragraph 1 of this Article. To the extent that half of the total of the items in points (l) to (r) exceeds the total of the items in Article 57(d) to (h), the excess shall be deducted from the total of the items in points (a) to (ca) minus (i) to (k) of that Article.
+
+Items in Article 57(r) shall not be deducted if they have been included for the purposes of Article 75 in the calculation of risk-weighted exposure amounts as specified in this Directive or in the calculation of capital requirements as specified in Annex I or V to Directive 2006/49/EC.
+
+3. For the purposes of Sections 5 and 6, the provisions laid down in this Section shall be read without taking into account the items referred to in points (q) and (r) of Article 57 and Article 63(3).
+
+4. The competent authorities may authorise credit institutions to exceed the limits laid down in paragraphs 1 and 1a temporarily during emergency situations.
+
+<a id="art_67"></a>
+
+### Article 67
+
+Compliance with the conditions laid down in this Section shall be proved to the satisfaction of the competent authorities.
+
+## Subsection 1
+
+### Level of application
+
+<a id="art_68"></a>
+
+### Article 68
+
+1. Credit institutions shall comply with the obligations laid down in Articles 22 and 75 and Section 5 on an individual basis.
+
+2. Every credit institution which is neither a subsidiary in the Member State where it is authorised and supervised, nor a parent undertaking, and every credit institution not included in the consolidation pursuant to Article 73, shall comply with the obligations laid down in Articles 120 and 123 on an individual basis.
+
+3. Every credit institution which is neither a parent undertaking, nor a subsidiary, and every credit institution not included in the consolidation pursuant to Article 73, shall comply with the obligations laid down in Chapter 5 on an individual basis.
+
+<a id="art_69"></a>
+
+### Article 69
+
+1. The Member States may choose not to apply Article 68(1) to any subsidiary of a credit institution, where both the subsidiary and the credit institution are subject to authorisation and supervision by the Member State concerned, and the subsidiary is included in the supervision on a consolidated basis of the credit institution which is the parent undertaking, and all of the following conditions are satisfied, in order to ensure that own funds are distributed adequately among the parent undertaking and the subsidiaries:
+
+(a) there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities by its parent undertaking;
+
+(b) either the parent undertaking satisfies the competent authority regarding the prudent management of the subsidiary and has declared, with the consent of the competent authority, that it guarantees the commitments entered into by the subsidiary, or the risks in the subsidiary are of negligible interest;
+
+(c) the risk evaluation, measurement and control procedures of the parent undertaking cover the subsidiary; and
+
+(d) the parent undertaking holds more than 50 % of the voting rights attaching to shares in the capital of the subsidiary and/or has the right to appoint or remove a majority of the members of the management body of the subsidiary described in Article 11.
+
+2. The Member States may exercise the option provided for in paragraph 1 where the parent undertaking is a financial holding company set up in the same Member State as the credit institution, provided that it is subject to the same supervision as that exercised over credit institutions, and in particular to the standards laid down in Article 71(1).
+
+3. The Member States may choose not to apply Article 68(1) to a parent credit institution in a Member State where that credit institution is subject to authorisation and supervision by the Member State concerned, and it is included in the supervision on a consolidated basis, and all the following conditions are satisfied, in order to ensure that own funds are distributed adequately among the parent undertaking and the subsidiaries:
+
+(a) there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities to the parent credit institution in a Member State; and
+
+(b) the risk evaluation, measurement and control procedures relevant for consolidated supervision cover the parent credit institution in a Member State.
+
+The competent authority which makes use of this paragraph shall inform the competent authorities of all other Member States.
+
+4. Without prejudice to the generality of Article 144, the competent authority of the Member States exercising the discretion laid down in paragraph 3 shall publicly disclose, in the manner indicated in Article 144:
+
+(a) criteria it applies to determine that there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities;
+
+(b) the number of parent credit institutions which benefit from the exercise of the discretion laid down in paragraph 3 and the number of these which incorporate subsidiaries in a third country; and
+
+(c) on an aggregate basis for the Member State:
+
+(i) the total amount of own funds on the consolidated basis of the parent credit institution in a Member State, which benefits from the exercise of the discretion laid down in paragraph 3, which are held in subsidiaries in a third country;
+
+(ii) the percentage of total own funds on the consolidated basis of parent credit institutions in a Member State which benefits from the exercise of the discretion laid down in paragraph 3, represented by own funds which are held in subsidiaries in a third country; and
+
+(iii) the percentage of total minimum own funds required under Article 75 on the consolidated basis of parent credit institutions in a Member State, which benefits from the exercise of the discretion laid down in paragraph 3, represented by own funds which are held in subsidiaries in a third country.
+
+<a id="art_70"></a>
+
+### Article 70
+
+1. Subject to paragraphs 2 to 4 of this Article, the competent authorities may allow on a case by case basis parent credit institutions to incorporate in the calculation of their requirement under Article 68(1) subsidiaries which meet the conditions laid down in points (c) and (d) of Article 69(1), and whose material exposures or material liabilities are to that parent credit institution.
+
+2. The treatment in paragraph 1 shall be allowed only where the parent credit institution demonstrates fully to the competent authorities the circumstances and arrangements, including legal arrangements, by virtue of which there is no material practical or legal impediment, and none are foreseen, to the prompt transfer of own funds, or repayment of liabilities when due by the subsidiary to its parent undertaking.
+
+3. Where a competent authority exercises the discretion laid down in paragraph 1, it shall on a regular basis and not less than once a year inform the competent authorities of all the other Member States of the use made of paragraph 1 and of the circumstances and arrangements referred to in paragraph 2. Where the subsidiary is in a third country, the competent authorities shall provide the same information to the competent authorities of that third country as well.
+
+4. Without prejudice to the generality of Article 144, a competent authority which exercises the discretion laid down in paragraph 1 shall publicly disclose, in the manner indicated in Article 144:
+
+(a) the criteria it applies to determine that there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities;
+
+(b) the number of parent credit institutions which benefit from the exercise of the discretion laid down in paragraph 1 and the number of these which incorporate subsidiaries in a third country; and
+
+(c) on an aggregate basis for the Member State:
+
+(i) the total amount of own funds of parent credit institutions which benefit from the exercise of the discretion laid down in paragraph 1 which are held in subsidiaries in a third country;
+
+(ii) the percentage of total own funds of parent credit institutions which benefit from the exercise of the discretion laid down in paragraph 1 represented by own funds which are held in subsidiaries in a third country; and
+
+(iii) the percentage of total minimum own funds required under Article 75 of parent credit institutions which benefit from the exercise of the discretion laid down in paragraph 1 represented by own funds which are held in subsidiaries in a third country.
+
+<a id="art_71"></a>
+
+### Article 71
+
+1. Without prejudice to Articles 68 to 70, parent credit institutions in a Member State shall comply, to the extent and in the manner prescribed in Article 133, with the obligations laid down in Articles 75, 120, 123 and Section 5 on the basis of their consolidated financial situation.
+
+2. Without prejudice to Articles 68 to 70, credit institutions controlled by a parent financial holding company in a Member State shall comply, to the extent and in the manner prescribed in Article 133, with the obligations laid down in Articles 75, 120, 123 and Section 5 on the basis of the consolidated financial situation of that financial holding company.
+
+Where more than one credit institution is controlled by a parent financial holding company in a Member State, the first subparagraph shall apply only to the credit institution to which supervision on a consolidated basis applies in accordance with Articles 125 and 126.
+
+<a id="art_72"></a>
+
+### Article 72
+
+1. EU parent credit institutions shall comply with the obligations laid down in Chapter 5 on the basis of their consolidated financial situation.
+
+Significant subsidiaries of EU parent credit institutions shall disclose the information specified in Annex XII, Part 1, point 5, on an individual or sub-consolidated basis.
+
+2. Credit institutions controlled by an EU parent financial holding company shall comply with the obligations laid down in Chapter 5 on the basis of the consolidated financial situation of that financial holding company.
+
+Significant subsidiaries of EU parent financial holding companies shall disclose the information specified in Annex XII, Part 1, point 5, on an individual or sub-consolidated basis.
+
+3. The competent authorities responsible for exercising supervision on a consolidated basis pursuant to Articles 125 and 126 may decide not to apply in full or in part paragraphs 1 and 2 to the credit institutions which are included within comparable disclosures provided on a consolidated basis by a parent undertaking established in a third country.
+
+<a id="art_73"></a>
+
+### Article 73
+
+1. The Member States or the competent authorities responsible for exercising supervision on a consolidated basis pursuant to Articles 125 and 126 may decide in the following cases that a credit institution, financial institution or ancillary services undertaking which is a subsidiary or in which a participation is held need not be included in the consolidation:
+
+(a) where the undertaking concerned is situated in a third country where there are legal impediments to the transfer of the necessary information;
+
+(b) where, in the opinion of the competent authorities, the undertaking concerned is of negligible interest only with respect to the objectives of monitoring credit institutions and in any event where the balance-sheet total of the undertaking concerned is less than the smaller of the following two amounts:
+
+(i) EUR 10 million, or
+
+(ii) 1 % of the balance-sheet total of the parent undertaking or the undertaking that holds the participation,
+
+(c) where, in the opinion of the competent authorities responsible for exercising supervision on a consolidated basis, the consolidation of the financial situation of the undertaking concerned would be inappropriate or misleading as far as the objectives of the supervision of credit institutions are concerned.
+
+If, in the cases referred to in point (b) of the first subparagraph, several undertakings meet the above criteria set out therein, they shall nevertheless be included in the consolidation where collectively they are of non-negligible interest with respect to the specified objectives.
+
+2. Competent authorities shall require subsidiary credit institutions to apply the requirements laid down in Articles 75, 120 and 123 and Section 5 on a sub-consolidated basis if those credit institutions, or the parent undertaking where it is a financial holding company, have a credit institution or a financial institution or an asset management company as defined in Article 2(5) of Directive 2002/87/EC as a subsidiary in a third country, or hold a participation in such an undertaking.
+
+3. Competent authorities shall require the parent undertakings and subsidiaries subject to this Directive to meet the obligations laid down in Article 22 on a consolidated or sub-consolidated basis, to ensure that their arrangements, processes and mechanisms are consistent and well-integrated and that any data and information relevant to the purpose of supervision can be produced.
+
+## Subsection 2
+
+### Calculation and reporting requirements
+
+<a id="art_74"></a>
+
+### Article 74
+
+1. Save where otherwise provided, the valuation of assets and off-balance-sheet items shall be effected in accordance with the accounting framework to which the credit institution is subject under Regulation (EC) No 1606/2002 and Directive 86/635/EEC.
+
+2. Notwithstanding the requirements laid down in Articles 68 to 72, the calculations to verify the compliance of credit institutions with the obligations laid down in Article 75 shall be carried out not less than twice each year.
+
+In order to ensure uniform conditions of application of this Directive, for the communication of those calculations by credit institutions, the competent authorities shall apply, from 31 December 2012, uniform formats, frequencies and dates of reporting. In order to ensure uniform conditions of application of this Directive, EBA shall develop draft implementing technical standards to introduce, within the Union, uniform formats (with associated instructions), frequencies and dates of reporting before 1 January 2012. The reporting formats shall be proportionate to the nature, scale and complexity of the credit institutions’ activities.
+
+In order to ensure uniform conditions of application of this Directive, EBA shall also develop draft implementing technical standards regarding IT solutions to be applied for such reporting.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the second and third subparagraphs in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+The credit institutions shall communicate the results and any component data required to the competent authorities.
+
+## Subsection 3
+
+### Minimum level of own funds
+
+<a id="art_75"></a>
+
+### Article 75
+
+Without prejudice to Article 136, Member States shall require credit institutions to provide own funds which are at all times more than or equal to the sum of the following capital requirements:
+
+(a) for credit risk and dilution risk in respect of all of their business activities with the exception of their trading book business and illiquid assets if deducted from own funds under Article 13(2)(d) of Directive 2006/49/EC, 8 % of the total of their risk-weighted exposure amounts calculated in accordance with Section 3;
+
+(b) in respect of their trading-book business, for position risk and counter-party risk and, in so far as it is authorised that the limits laid down in Articles 111 to 117 are exceeded, for large exposures exceeding such limits, the capital requirements determined in accordance with Article 18 and Articles 28 to 32 of Directive 2006/49/EC;
+
+(c) in respect of all their business activities, for foreign exchange risk, for settlement risk and for commodities risk, the capital requirements determined in accordance with Article 18 of Directive 2006/49/EC;
+
+(d) in respect of all of their business activities, for operational risk, the capital requirements determined in accordance with Section 4.
+
+## Section 3
+
+### Minimum own funds requirements for credit risk
+
+<a id="art_76"></a>
+
+### Article 76
+
+Credit institutions shall apply either the Standardised Approach provided for in Articles 78 to 83 or, if permitted by the competent authorities in accordance with Article 84, the Internal Ratings Based Approach provided for in Articles 84 to 89 to calculate their risk-weighted exposure amounts for the purposes of Article 75(a).
+
+<a id="art_77"></a>
+
+### Article 77
+
+‘Exposure’ for the purposes of this Section means an asset or off-balance sheet item.
+
+## Subsection 1
+
+### Standardised approach
+
+<a id="art_78"></a>
+
+### Article 78
+
+1. Subject to paragraph 2, the exposure value of an asset item shall be its balance-sheet value and the exposure value of an off-balance sheet item listed in Annex II shall be the following percentage of its value: 100 % if it is a full-risk item, 50 % if it is a medium-risk item, 20 % if it is a medium/low-risk item, 0 % if it is a low-risk item. The off-balance sheet items referred to in the first sentence of this paragraph shall be assigned to risk categories as indicated in Annex II. In the case of a credit institution using the Financial Collateral Comprehensive Method under Annex VIII, Part 3, where an exposure takes the form of securities or commodities sold, posted or lent under a repurchase transaction or under a securities or commodities lending or borrowing transaction, and margin lending transactions the exposure value shall be increased by the volatility adjustment appropriate to such securities or commodities as prescribed in Annex VIII, Part 3, points 34 to 59.
+
+2. The exposure value of a derivative instrument listed in Annex IV shall be determined in accordance with Annex III with the effects of contracts of novation and other netting agreements taken into account for the purposes of those methods in accordance with Annex III. The exposure value of repurchase transactions, securities or commodities lending or borrowing transactions, long settlement transactions and margin lending transactions may be determined either in accordance with Annex III or Annex VIII.
+
+3. Where an exposure is subject to funded credit protection, the exposure value applicable to that item may be modified in accordance with Subsection 3.
+
+4. Notwithstanding paragraph 2, the exposure value of credit risk exposures outstanding, as determined by the competent authorities, with a central counterparty shall be determined in accordance with Annex III, Part 2, point 6, provided that the central counterparty's counterparty credit risk exposures with all participants in its arrangements are fully collateralised on a daily basis.
+
+<a id="art_79"></a>
+
+### Article 79
+
+1. Each exposure shall be assigned to one of the following exposure classes:
+
+(a) claims or contingent claims on central governments or central banks;
+
+(b) claims or contingent claims on regional governments or local authorities;
+
+(c) claims or contingent claims on administrative bodies and non-commercial undertakings;
+
+(d) claims or contingent claims on multilateral development banks;
+
+(e) claims or contingent claims on international organisations;
+
+(f) claims or contingent claims on institutions;
+
+(g) claims or contingent claims on corporates;
+
+(h) retail claims or contingent retail claims;
+
+(i) claims or contingent claims secured on real estate property;
+
+(j) past due items;
+
+(k) items belonging to regulatory high-risk categories;
+
+(l) claims in the form of covered bonds;
+
+(m) securitisation positions;
+
+(n) short-term claims on institutions and corporate;
+
+(o) claims in the form of collective investment undertakings (‘CIU’); or
+
+(p) other items.
+
+2. To be eligible for the retail exposure class referred to in point (h) of paragraph 1, an exposure shall meet the following conditions:
+
+(a) the exposure shall be either to an individual person or persons, or to a small or medium sized entity;
+
+(b) the exposure shall be one of a significant number of exposures with similar characteristics such that the risks associated with such lending are substantially reduced; and
+
+(c) the total amount owed to the credit institution and parent undertakings and its subsidiaries, including any past due exposure, by the obligor client or group of connected clients, but excluding claims or contingent claims secured on residential real estate collateral, shall not, to the knowledge of the credit institution, exceed EUR 1 million. The credit institution shall take reasonable steps to acquire this knowledge.
+
+Securities shall not be eligible for the retail exposure class.
+
+3. The present value of retail minimum lease payments is eligible for the retail exposure class.
+
+<a id="art_80"></a>
+
+### Article 80
+
+1. To calculate risk-weighted exposure amounts, risk weights shall be applied to all exposures, unless deducted from own funds, in accordance with the provisions of Annex VI, Part 1. The application of risk weights shall be based on the exposure class to which the exposure is assigned and, to the extent specified in Annex VI, Part 1, its credit quality. Credit quality may be determined by reference to the credit assessments of External Credit Assessment Institutions (‘ECAIs’) in accordance with the provisions of Articles 81 to 83 or the credit assessments of Export Credit Agencies as described in Annex VI, Part 1.
+
+2. For the purposes of applying a risk weight, as referred to in paragraph 1, the exposure value shall be multiplied by the risk weight specified or determined in accordance with this Subsection.
+
+3. For the purposes of calculating risk-weighted exposure amounts for exposures to institutions, Member States shall decide whether to adopt the method based on the credit quality of the central government of the jurisdiction in which the institution is incorporated or the method based on the credit quality of the counterparty institution in accordance with Annex VI.
+
+4. Notwithstanding paragraph 1, where an exposure is subject to credit protection the risk weight applicable to that item may be modified in accordance with Subsection 3.
+
+5. Risk-weighted exposure amounts for securitised exposures shall be calculated in accordance with Subsection 4.
+
+6. Exposures the calculation of risk-weighted exposure amounts for which is not otherwise provided for under this Subsection shall be assigned a risk-weight of 100 %.
+
+7. With the exception of exposures giving rise to liabilities in the form of the items referred to in paragraphs (a) to (h) of Article 57, competent authorities may exempt from the requirements of paragraph 1 of this Article the exposures of a credit institution to a counterparty which is its parent undertaking, its subsidiary, a subsidiary of its parent undertaking or an undertaking linked by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC, provided that the following conditions are met:
+
+(a) the counterparty is an institution or a financial holding company, financial institution, asset management company or ancillary services undertaking subject to appropriate prudential requirements;
+
+(b) the counterparty is included in the same consolidation as the credit institution on a full basis;
+
+(c) the counterparty is subject to the same risk evaluation, measurement and control procedures as the credit institution;
+
+(d) the counterparty is established in the same Member State as the credit institution; and
+
+(e) there is no current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities from the counterparty to the credit institution.
+
+In such a case, a risk weight of 0 % shall be assigned.
+
+8. With the exception of exposures giving rise to liabilities in the form of the items referred to in points (a) to (h) of Article 57, competent authorities may exempt from the requirements of paragraph 1 of this Article the exposures to counterparties which are members of the same institutional protection scheme as the lending credit institution, provided that the following conditions are met:
+
+(a) the requirements set out in points (a), (d) and (e) of paragraph 7;
+
+(b) the credit institution and the counterparty have entered into a contractual or statutory liability arrangement which protects those institutions and in particular ensures their liquidity and solvency to avoid bankruptcy in case it becomes necessary (referred to below as an institutional protection scheme);
+
+(c) the arrangements ensure that the institutional protection scheme will be able to grant support necessary under its commitment from funds readily available to it;
+
+(d) the institutional protection scheme disposes of suitable and uniformly stipulated systems for the monitoring and classification of risk (which gives a complete overview of the risk situations of all the individual members and the institutional protection scheme as a whole) with corresponding possibilities to take influence; those systems shall suitably monitor defaulted exposures in accordance with Annex VII, Part 4, point 44;
+
+(e) the institutional protection scheme conducts its own risk review which is communicated to the individual members;
+
+(f) the institutional protection scheme draws up and publishes once in a year either, a consolidated report comprising the balance sheet, the profit-and-loss account, the situation report and the risk report, concerning the institutional protection scheme as a whole, or a report comprising the aggregated balance sheet, the aggregated profit-and-loss account, the situation report and the risk report, concerning the institutional protection scheme as a whole;
+
+(g) members of the institutional protection scheme are obliged to give advance notice of at least 24 months if they wish to end the arrangements;
+
+(h) the multiple use of elements eligible for the calculation of own funds (‘multiple gearing’) as well as any inappropriate creation of own funds between the members of the institutional protection scheme shall be eliminated;
+
+(i) the institutional protection scheme shall be based on a broad membership of credit institutions of a predominantly homogeneous business profile; and
+
+(j) the adequacy of the systems referred to in point (d) is approved and monitored at regular intervals by the relevant competent authorities.
+
+In such a case, a risk weight of 0 % shall be assigned.
+
+<a id="art_81"></a>
+
+### Article 81
+
+1. An external credit assessment may be used to determine the risk weight of an exposure in accordance with Article 80 only if the ECAI which provides it has been recognised as eligible for those purposes by the competent authorities (‘an eligible ECAI’ for the purposes of this Subsection).
+
+2. The competent authorities shall recognise an ECAI as eligible for the purpose of Article 80 only if they are satisfied that its assessment methodology complies with the requirements of objectivity, independence, ongoing review and transparency, and that the resulting credit assessments meet the requirements of credibility and transparency. For those purposes, the competent authorities shall take into account the technical criteria set out in Annex VI, Part 2. Where an ECAI is registered as a credit rating agency in accordance with Regulation (EC) No 1060/2009 of 16 September 2009 of the European Parliament and of the Council on credit rating agencies (30), the competent authorities shall consider the requirements of objectivity, independence, ongoing review and transparency with respect to its assessment methodology to be satisfied.
+
+In order to ensure consistent harmonisation of this Article, EBA, in consultation with the European Supervisory Authority (European Securities and Markets Authority) (hereinafter ‘ESMA’), established by Regulation (EU) No 1095/2010 of the European Parliament and of the Council (31), shall develop draft regulatory technical standards to specify the assessment methodology relating to credit assessments. EBA shall submit those draft regulatory technical standards to the Commission by 1 January 2014.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the second subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+3. If an ECAI has been recognised as eligible by the competent authorities of a Member State, the competent authorities of other Member States may recognise that ECAI as eligible without carrying out their own evaluation process.
+
+4. Competent authorities shall make publicly available an explanation of the recognition process, and a list of eligible ECAIs.
+
+<a id="art_82"></a>
+
+### Article 82
+
+1. The competent authorities shall determine, taking into account the technical criteria set out in Annex VI, Part 2, with which of the credit quality steps set out in Part 1 of that Annex the relevant credit assessments of an eligible ECAI are to be associated. Those determinations shall be objective and consistent.
+
+2. When the competent authorities of a Member State have made a determination under paragraph 1, the competent authorities of other Member States may recognise that determination without carrying out their own determination process.
+
+<a id="art_83"></a>
+
+### Article 83
+
+1. The use of ECAI credit assessments for the calculation of a credit institution's risk-weighted exposure amounts shall be consistent and in accordance with Annex VI, Part 3. Credit assessments shall not be used selectively.
+
+2. Credit institutions shall use solicited credit assessments. However, with the permission of the relevant competent authority, they may use unsolicited assessments.
+
+## Subsection 2
+
+### Internal Ratings Based Approach
+
+<a id="art_84"></a>
+
+### Article 84
+
+1. In accordance with this Subsection, the competent authorities may permit credit institutions to calculate their risk-weighted exposure amounts using the Internal Ratings Based Approach (‘IRB Approach’). Explicit permission shall be required in the case of each credit institution.
+
+2. Permission shall be given only if the competent authority is satisfied that the credit institution's systems for the management and rating of credit risk exposures are sound and implemented with integrity and, in particular, that they meet the following standards in accordance with Annex VII, Part 4:
+
+(a) the credit institution's rating systems provide for a meaningful assessment of obligor and transaction characteristics, a meaningful differentiation of risk and accurate and consistent quantitative estimates of risk;
+
+(b) internal ratings and default and loss estimates used in the calculation of capital requirements and associated systems and processes play an essential role in the risk management and decision-making process, and in the credit approval, internal capital allocation and corporate governance functions of the credit institution;
+
+(c) the credit institution has a credit risk control unit responsible for its rating systems that is appropriately independent and free from undue influence;
+
+(d) the credit institution collects and stores all relevant data to provide effective support to its credit risk measurement and management process; and
+
+(e) the credit institution documents its rating systems and the rationale for their design and validates its rating systems.
+
+Where an EU parent credit institution and its subsidiaries or an EU parent financial holding company and its subsidiaries use the IRB Approach on a unified basis, the competent authorities may allow minimum requirements of Annex VII, Part 4 to be met by the parent and its subsidiaries considered together.
+
+In order to ensure consistent harmonisation of this Article, EBA may develop draft regulatory technical standards to specify the assessment methodology under which the competent authorities permit credit institutions to use the IRB approach.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in point (a) of the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+3. A credit institution applying for the use of the IRB Approach shall demonstrate that it has been using for the IRB exposure classes in question rating systems that were broadly in line with the minimum requirements set out in Annex VII, Part 4 for internal risk measurement and management purposes for at least three years prior to its qualification to use the IRB Approach.
+
+4. A credit institution applying for the use of own estimates of LGDs and/or conversion factors shall demonstrate that it has been estimating and employing own estimates of LGDs and/or conversion factors in a manner that was broadly consistent with the minimum requirements for use of own estimates of those parameters set out in Annex VII, Part 4 for at least three years prior to qualification to use own estimates of LGDs and/or conversion factors.
+
+5. If a credit institution ceases to comply with the requirements set out in this Subsection, it shall either present to the competent authority a plan for a timely return to compliance or demonstrate that the effect of non-compliance is immaterial.
+
+6. When the IRB Approach is intended to be used by the EU parent credit institution and its subsidiaries, or by the EU parent financial holding company and its subsidiaries, the competent authorities of the different legal entities shall cooperate closely as provided for in Articles 129 to 132.
+
+<a id="art_85"></a>
+
+### Article 85
+
+1. Without prejudice to Article 89, credit institutions and any parent undertaking and its subsidiaries shall implement the IRB Approach for all exposures.
+
+Subject to the approval of the competent authorities, implementation may be carried out sequentially across the different exposure classes, referred to in Article 86, within the same business unit, across different business units in the same group or for the use of own estimates of LGDs or conversion factors for the calculation of risk weights for exposures to corporates, institutions, and central governments and central banks.
+
+In the case of the retail exposure class referred to in Article 86, implementation may be carried out sequentially across the categories of exposures to which the different correlations in Annex VII, Part 1, points 10 to 13 correspond.
+
+2. Implementation as referred to in paragraph 1 shall be carried out within a reasonable period of time to be agreed with the competent authorities. The implementation shall be carried out subject to strict conditions determined by the competent authorities. Those conditions shall be designed to ensure that the flexibility under paragraph 1 is not used selectively with the purpose of achieving reduced minimum capital requirements in respect of those exposure classes or business units that are yet to be included in the IRB Approach or in the use of own estimates of LGDs and/or conversion factors.
+
+3. Credit institutions using the IRB Approach for any exposure class shall at the same time use the IRB Approach for the equity exposure class.
+
+4. Subject to paragraphs 1 to 3 of this Article and Article 89, credit institutions which have obtained permission under Article 84 to use the IRB Approach shall not revert to the use of Subsection 1 for the calculation of risk-weighted exposure amounts except for demonstrated good cause and subject to the approval of the competent authorities.
+
+5. Subject to paragraphs 1 and 2 of this Article and Article 89, credit institutions which have obtained permission under Article 87(9) to use own estimates of LGDs and conversion factors, shall not revert to the use of LGD values and conversion factors referred to in Article 87(8) except for demonstrated good cause and subject to the approval of the competent authorities.
+
+<a id="art_86"></a>
+
+### Article 86
+
+1. Each exposure shall be assigned to one of the following exposure classes:
+
+(a) claims or contingent claims on central governments and central banks;
+
+(b) claims or contingent claims on institutions;
+
+(c) claims or contingent claims on corporates;
+
+(d) retail claims or contingent retail claims;
+
+(e) equity claims;
+
+(f) securitisation positions; or
+
+(g) other non credit-obligation assets.
+
+2. The following exposures shall be treated as exposures to central governments and central banks:
+
+(a) exposures to regional governments, local authorities or public sector entities which are treated as exposures to central governments under Subsection 1; and
+
+(b) exposures to Multilateral Development Banks and International Organisations which attract a risk weight of 0 % under Subsection 1.
+
+3. The following exposures shall be treated as exposures to institutions:
+
+(a) exposures to regional governments and local authorities which are not treated as exposures to central governments under Subsection 1;
+
+(b) exposures to Public Sector Entities which are treated as exposures to institutions under the Subsection 1; and
+
+(c) exposures to Multilateral Development Banks which do not attract a 0 % risk weight under Subsection 1.
+
+4. To be eligible for the retail exposure class referred to in point (d) of paragraph 1, exposures shall meet the following criteria:
+
+(a) they shall be either to an individual person or persons, or to a small or medium sized entity, provided in the latter case that the total amount owed to the credit institution and parent undertakings and its subsidiaries, including any past due exposure, by the obligor client or group of connected clients, but excluding claims or contingent claims secured on residential real estate collateral, shall not, to the knowledge of the credit institution, which shall have taken reasonable steps to confirm the situation, exceed EUR 1 million;
+
+(b) they are treated by the credit institution in its risk management consistently over time and in a similar manner;
+
+(c) they are not managed just as individually as exposures in the corporate exposure class; and
+
+(d) they each represent one of a significant number of similarly managed exposures.
+
+The present value of retail minimum lease payments is eligible for the retail exposure class.
+
+5. The following exposures shall be classed as equity exposures:
+
+(a) non-debt exposures conveying a subordinated, residual claim on the assets or income of the issuer; and
+
+(b) debt exposures the economic substance of which is similar to the exposures specified in point (a).
+
+6. Within the corporate exposure class, credit institutions shall separately identify as specialised lending exposures, exposures which possess the following characteristics:
+
+(a) the exposure is to an entity which was created specifically to finance and/or operate physical assets;
+
+(b) the contractual arrangements give the lender a substantial degree of control over the assets and the income that they generate; and
+
+(c) the primary source of repayment of the obligation is the income generated by the assets being financed, rather than the independent capacity of a broader commercial enterprise.
+
+7. Any credit obligation not assigned to the exposure classes referred to in points (a), (b) and (d) to (f) of paragraph 1 shall be assigned to the exposure class referred to in point (c) of that paragraph.
+
+8. The exposure class referred to in point (g) of paragraph 1 shall include the residual value of leased properties if not included in the lease exposure as defined in Annex VII, Part 3, paragraph 4.
+
+9. The methodology used by the credit institution for assigning exposures to different exposure classes shall be appropriate and consistent over time.
+
+<a id="art_87"></a>
+
+### Article 87
+
+1. The risk-weighted exposure amounts for credit risk for exposures belonging to one of the exposure classes referred to in points (a) to (e) or (g) of Article 86(1) shall, unless deducted from own funds, be calculated in accordance with Annex VII, Part 1, points 1 to 27.
+
+2. The risk-weighted exposure amounts for dilution risk for purchased receivables shall be calculated according to Annex VII, Part 1, point 28. Where a credit institution has full recourse in respect of purchased receivables for default risk and for dilution risk, to the seller of the purchased receivables, the provisions of Articles 87 and 88 in relation to purchased receivables need not be applied. The exposure may instead be treated as a collateralised exposure.
+
+3. The calculation of risk-weighted exposure amounts for credit risk and dilution risk shall be based on the relevant parameters associated with the exposure in question. These shall include probability of default (PD), LGD, maturity (M) and exposure value of the exposure. PD and LGD may be considered separately or jointly, in accordance with Annex VII, Part 2.
+
+4. Notwithstanding paragraph 3, the calculation of risk-weighted exposure amounts for credit risk for all exposures belonging to the exposure class referred to in point (e) of Article 86(1) shall be calculated in accordance with Annex VII, Part 1, points 17 to 26 subject to approval of the competent authorities. Competent authorities shall only allow a credit institution to use the approach set out in Annex VII, Part 1, points 25 and 26 if the credit institution meets the minimum requirements set out in Annex VII, Part 4, points 115 to 123.
+
+5. Notwithstanding paragraph 3, the calculation of risk weighted exposure amounts for credit risk for specialised lending exposures may be calculated in accordance with Annex VII, Part 1, point 6. Competent authorities shall publish guidance on how credit institutions should assign risk weights to specialised lending exposures under Annex VII, Part 1, point 6 and shall approve credit institution assignment methodologies.
+
+6. For exposures belonging to the exposure classes referred to in points (a) to (d) of Article 86(1), credit institutions shall provide their own estimates of PDs in accordance with Article 84 and Annex VII, Part 4.
+
+7. For exposures belonging to the exposure class referred to in point (d) of Article 86(1), credit institutions shall provide own estimates of LGDs and conversion factors in accordance with Article 84 and Annex VII, Part 4.
+
+8. For exposures belonging to the exposure classes referred to in points (a) to (c) of Article 86(1), credit institutions shall apply the LGD values set out in Annex VII, Part 2, point 8, and the conversion factors set out in Annex VII, Part 3, point 9(a) to (d).
+
+9. Notwithstanding paragraph 8, for all exposures belonging to the exposure classes referred to in points (a) to (c) of Article 86(1), competent authorities may permit credit institutions to use own estimates of LGDs and conversion factors in accordance with Article 84 and Annex VII, Part 4.
+
+10. The risk-weighted exposure amounts for securitised exposures and for exposures belonging to the exposure class referred to in point (f) of Article 86(1) shall be calculated in accordance with Subsection 4.
+
+11. Where exposures in the form of a collective investment undertaking (CIU) meet the criteria set out in Annex VI, Part 1, points 77 and 78 and the credit institution is aware of all or parts of the underlying exposures of the CIU, the credit institution shall look through to those underlying exposures in order to calculate risk-weighted exposure amounts and expected loss amounts in accordance with the methods set out in this Subsection. Paragraph 12 shall apply to the part of the underlying exposures of the CIU the credit institution is not aware of or could not reasonably be aware of. In particular, paragraph 12 shall apply where it would be unduly burdensome for the credit institution to look through the underlying exposures in order to calculate risk-weighted exposure amounts and expected loss amounts in accordance with methods set out in this Subsection.
+
+Where the credit institution does not meet the conditions for using the methods set out in this Subsection for all or parts of the underlying exposures of the CIU, risk weighted exposure amounts and expected loss amounts shall be calculated in accordance with the following approaches:
+
+(a) for exposures belonging to the exposure class referred to in Article 86(1)(e), the approach set out in Annex VII, Part 1, points 19 to 21.
+
+(b) for all other underlying exposures, the approach set out in Articles 78 to 83, subject to the following modifications:
+
+(i) for exposures subject to a specific risk weight for unrated exposures or subject to the credit quality step yielding the highest risk weight for a given exposure class, the risk weight must be multiplied by a factor of two but must not be higher than 1 250 %;
+
+(ii) for all other exposures, the risk weight must be multiplied by a factor of 1,1 and must be subject to a minimum of 5 %.
+
+Where, for the purposes of point (a), the credit institution is unable to differentiate between private equity, exchange-traded and other equity exposures, it shall treat the exposures concerned as other equity exposures. Without prejudice to Article 154(6), where those exposures, taken together with the credit institution's direct exposures in that exposure class, are not material within the meaning of Article 89(2), Article 89(1) may be applied subject to the approval of the competent authorities.
+
+12. Where exposures in the form of a CIU do not meet the criteria set out in Annex VI, Part 1, points 77 and 78, or the credit institution is not aware of all of the underlying exposures of the CIU, the credit institution shall look through to the underlying exposures and calculate risk-weighted exposure amounts and expected loss amounts in accordance with the approach set out in Annex VII, Part 1, points 19 to 21. If, for those purposes, the credit institution is unable to differentiate between private equity, exchange-traded and other equity exposures, it shall treat the exposures concerned as other equity exposures. For these purposes, non equity exposures are assigned to one of the classes (private equity, exchange traded equity or other equity) set out in Annex VII, Part 1, point 19 and unknown exposures are assigned to other equity class.
+
+Alternatively to the method described in the first subparagraph, credit institutions may calculate themselves or may rely on a third party to calculate and report the average risk weighted exposure amounts based on the CIU's underlying exposures in accordance with the approaches referred to in points (a) and (b) of paragraph 11, provided that the correctness of the calculation and the report is adequately ensured.
+
+<a id="art_88"></a>
+
+### Article 88
+
+1. The expected loss amounts for exposures belonging to one of the exposure classes referred to in points (a) to (e) of Article 86(1) shall be calculated in accordance with the methods set out in Annex VII, Part 1, points 29 to 35.
+
+2. The calculation of expected loss amounts in accordance with Annex VII, Part 1, points 29 to 35 shall be based on the same input figures of PD, LGD and the exposure value for each exposure as being used for the calculation of risk-weighted exposure amounts in accordance with Article 87. For defaulted exposures, where credit institutions use own estimates of LGDs, expected loss (‘EL’) shall be the credit institution's best estimate of EL (‘ELBE,’) for the defaulted exposure, in accordance with Annex VII, Part 4, point 80.
+
+3. The expected loss amounts for securitised exposures shall be calculated in accordance with Subsection 4.
+
+4. The expected loss amount for exposures belonging to the exposure class referred to in point (g) of Article 86(1) shall be zero.
+
+5. The expected loss amounts for dilution risk of purchased receivables shall be calculated in accordance with the methods set out in Annex VII, Part 1, point 35.
+
+6. The expected loss amounts for exposures referred to in Article 87(11) and (12) shall be calculated in accordance with the methods set out in Annex VII, Part 1, points 29 to 35.
+
+<a id="art_89"></a>
+
+### Article 89
+
+1. Subject to the approval of the competent authorities, credit institutions permitted to use the IRB Approach in the calculation of risk-weighted exposure amounts and expected loss amounts for one or more exposure classes may apply Subsection 1 for the following:
+
+(a) the exposure class referred to in point (a) of Article 86(1), where the number of material counterparties is limited and it would be unduly burdensome for the credit institution to implement a rating system for these counterparties;
+
+(b) the exposure class referred to in point (b) of Article 86(1), where the number of material counterparties is limited and it would be unduly burdensome for the credit institution to implement a rating system for these counterparties;
+
+(c) exposures in non-significant business units as well as exposure classes that are immaterial in terms of size and perceived risk profile;
+
+(d) exposures to central governments of the Member States and their regional governments, local authorities and administrative bodies provided that:
+
+(i) there is no difference in risk between the exposures to that central government and those other exposures because of specific public arrangements, and
+
+(ii) exposures to the central government are assigned a 0 % risk weight under Subsection 1;
+
+(e) exposures of a credit institution to a counterparty which is its parent undertaking, its subsidiary or a subsidiary of its parent undertaking provided that the counterparty is an institution or a financial holding company, financial institution, asset management company or ancillary services undertaking subject to appropriate prudential requirements or an undertaking linked by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC and exposures between credit institutions which meet the requirements set out in Article 80(8);
+
+(f) equity exposures to entities whose credit obligations qualify for a 0 % risk weight under Subsection 1 (including those publicly sponsored entities where a zero risk weight can be applied);
+
+(g) equity exposures incurred under legislative programmes to promote specified sectors of the economy that provide significant subsidies for the investment to the credit institution and involve some form of government oversight and restrictions on the equity investments. This exclusion is limited to an aggregate of 10 % of original own funds plus additional own funds;
+
+(h) the exposures identified in Annex VI, Part 1, point 40 meeting the conditions specified therein; or
+
+(i) State and State-reinsured guarantees pursuant to Annex VIII, Part 2, point 19.
+
+This paragraph shall not prevent the competent authorities of other Member States to allow the application of the rules of Subsection 1 for equity exposures which have been allowed for this treatment in other Member States.
+
+2. For the purposes of paragraph 1, the equity exposure class of a credit institution shall be considered material if their aggregate value, excluding equity exposures incurred under legislative programmes as referred to in paragraph 1, point (g), exceeds, on average over the preceding year, 10 % of the credit institution's own funds. If the number of those equity exposures is less than 10 individual holdings, that threshold shall be 5 % of the credit institution's own funds.
+
+## Subsection 3
+
+### Credit risk mitigation
+
+<a id="art_90"></a>
+
+### Article 90
+
+For the purposes of this Subsection, ‘lending credit institution’ shall mean the credit institution which has the exposure in question, whether or not deriving from a loan.
+
+<a id="art_91"></a>
+
+### Article 91
+
+Credit institutions using the Standardised Approach under Articles 78 to 83 or using the IRB Approach under Articles 84 to 89, but not using their own estimates of LGD and conversion factors under Articles 87 and 88, may recognise credit risk mitigation in accordance with this Subsection in the calculation of risk-weighted exposure amounts for the purposes of Article 75 point (a) or as relevant expected loss amounts for the purposes of the calculation referred to in point (q) of Article 57, and Article 63(3).
+
+<a id="art_92"></a>
+
+### Article 92
+
+1. The technique used to provide the credit protection together with the actions and steps taken and procedures and policies implemented by the lending credit institution shall be such as to result in credit protection arrangements which are legally effective and enforceable in all relevant jurisdictions.
+
+2. The lending credit institution shall take all appropriate steps to ensure the effectiveness of the credit protection arrangement and to address related risks.
+
+3. In the case of funded credit protection, to be eligible for recognition the assets relied upon shall be sufficiently liquid and their value over time sufficiently stable to provide appropriate certainty as to the credit protection achieved having regard to the approach used to calculate risk-weighted exposure amounts and to the degree of recognition allowed. Eligibility shall be limited to the assets set out in Annex VIII, Part 1.
+
+4. In the case of funded credit protection, the lending credit institution shall have the right to liquidate or retain, in a timely manner, the assets from which the protection derives in the event of the default, insolvency or bankruptcy of the obligor — or other credit event set out in the transaction documentation — and, where applicable, of the custodian holding the collateral. The degree of correlation between the value of the assets relied upon for protection and the credit quality of the obligor shall not be undue.
+
+5. In the case of unfunded credit protection, to be eligible for recognition the party giving the undertaking shall be sufficiently reliable, and the protection agreement legally effective and enforceable in the relevant jurisdictions, to provide appropriate certainty as to the credit protection achieved having regard to the approach used to calculate risk-weighted exposure amounts and to the degree of recognition allowed. Eligibility shall be limited to the protection providers and types of protection agreement set out in Annex VIII, Part 1.
+
+6. The minimum requirements set out in Annex VIII, Part 2 shall be complied with.
+
+<a id="art_93"></a>
+
+### Article 93
+
+1. Where the requirements of Article 92 are met the calculation of risk-weighted exposure amounts, and, as relevant, expected loss amounts, may be modified in accordance with Annex VIII, Parts 3 to 6.
+
+2. No exposure in respect of which credit risk mitigation is obtained shall produce a higher risk-weighted exposure amount or expected loss amount than an otherwise identical exposure in respect of which there is no credit risk mitigation.
+
+3. Where the risk-weighted exposure amount already takes account of credit protection under Articles 78 to 83 or Articles 84 to 89, as relevant, the calculation of the credit protection shall not be further recognised under this Subsection.
+
+## Subsection 4
+
+### Securitisation
+
+<a id="art_94"></a>
+
+### Article 94
+
+Where a credit institution uses the Standardised Approach set out in Articles 78 to 83 for the calculation of risk-weighted exposure amounts for the exposure class to which the securitised exposures would be assigned under Article 79, it shall calculate the risk-weighted exposure amount for a securitisation position in accordance with Annex IX, Part 4, points 1 to 36.
+
+In all other cases, it shall calculate the risk-weighted exposure amount in accordance with Annex IX, Part 4, points 1 to 5 and 37 to 76.
+
+<a id="art_95"></a>
+
+### Article 95
+
+1. Where significant credit risk associated with securitised exposures has been transferred from the originator credit institution in accordance with the terms of Annex IX, Part 2, that credit institution may:
+
+(a) in the case of a traditional securitisation, exclude from its calculation of risk-weighted exposure amounts, and, as relevant, expected loss amounts, the exposures which it has securitised; and
+
+(b) in the case of a synthetic securitisation, calculate risk-weighted exposure amounts, and, as relevant, expected loss amounts, in respect of the securitised exposures in accordance with Annex IX, Part 2.
+
+2. Where paragraph 1 applies, the originator credit institution shall calculate the risk-weighted exposure amounts prescribed in Annex IX for the positions that it may hold in the securitisation.
+
+Where the originator credit institution fails to transfer significant credit risk in accordance with paragraph 1, it need not calculate risk-weighted exposure amounts for any positions it may have in the securitisation in question.
+
+<a id="art_96"></a>
+
+### Article 96
+
+1. To calculate the risk-weighted exposure amount of a securitisation position, risk weights shall be assigned to the exposure value of the position in accordance with Annex IX, based on the credit quality of the position, which may be determined by reference to an ECAI credit assessment or otherwise, as set out in Annex IX.
+
+2. Where there is an exposure to different tranches in a securitisation, the exposure to each tranche shall be considered a separate securitisation position. The providers of credit protection to securitisation positions shall be considered to hold positions in the securitisation. Securitisation positions shall include exposures to a securitisation arising from interest rate or currency derivative contracts.
+
+3. Where a securitisation position is subject to funded or unfunded credit protection the risk-weight to be applied to that position may be modified in accordance with Articles 90 to 93, read in conjunction with Annex IX.
+
+4. Subject to point (r) of Article 57 and Article 66(2), the risk-weighted exposure amount shall be included in the credit institution's total of risk-weighted exposure amounts for the purposes of Article 75(a).
+
+<a id="art_97"></a>
+
+### Article 97
+
+1. An ECAI credit assessment may be used to determine the risk weight of a securitisation position in accordance with Article 96 only if the ECAI has been recognised as eligible by the competent authorities for this purpose (hereinafter ‘an eligible ECAI’).
+
+2. The competent authorities shall recognise an ECAI as eligible for the purpose of paragraph 1 of this Article only if they are satisfied as to its compliance with the requirements laid down in Article 81, taking into account the technical criteria set out in Annex VI, Part 2, and that it has a demonstrated ability in the area of securitisation, which may be evidenced by a strong market acceptance. Where an ECAI is registered as a credit rating agency in accordance with Regulation (EC) No 1060/2009, the competent authorities shall consider the requirements of objectivity, independence, ongoing review and transparency with respect to its assessment methodology to be satisfied.
+
+In order to ensure consistent harmonisation of this Article, EBA, in consultation with ESMA, shall develop draft regulatory technical standards to specify the assessment methodology relating to credit assessments. EBA shall submit those draft regulatory technical standards to the Commission by 1 January 2014.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the second subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+3. If an ECAI has been recognised as eligible by the competent authorities of a Member State for the purposes of paragraph 1, the competent authorities of other Member States may recognise that ECAI as eligible for those purposes without carrying out their own evaluation process.
+
+4. The competent authorities shall make publicly available an explanation of the recognition process and a list of eligible ECAIs.
+
+5. To be used for the purposes of paragraph 1, a credit assessment of an eligible ECAI shall comply with the principles of credibility and transparency as elaborated in Annex IX, Part 3.
+
+<a id="art_98"></a>
+
+### Article 98
+
+1. For the purposes of applying risk weights to securitisation positions, the competent authorities shall determine with which of the credit quality steps set out in Annex IX the relevant credit assessments of an eligible ECAI are to be associated. Those determinations shall be objective and consistent.
+
+2. When the competent authorities of a Member State have made a determination under paragraph 1, the competent authorities of other Member States may recognise that determination without carrying out their own determination process.
+
+<a id="art_99"></a>
+
+### Article 99
+
+The use of ECAI credit assessments for the calculation of a credit institution's risk-weighted exposure amounts under Article 96 shall be consistent and in accordance with Annex IX, Part 3. Credit assessments shall not be used selectively.
+
+<a id="art_100"></a>
+
+### Article 100
+
+1. Where there is a securitisation of revolving exposures subject to an early amortisation provision, the originator credit institution shall calculate, in accordance with Annex IX, an additional risk-weighted exposure amount in respect of the risk that the levels of credit risk to which it is exposed may increase following the operation of the early amortisation provision.
+
+2. For those purposes, a ‘revolving exposure’ shall be an exposure whereby customers' outstanding balances are permitted to fluctuate based on their decisions to borrow and repay, up to an agreed limit, and an early amortisation provision shall be a contractual clause which requires, on the occurrence of defined events, investors' positions to be redeemed before the originally stated maturity of the securities issued.
+
+<a id="art_101"></a>
+
+### Article 101
+
+1. A sponsor credit institution, or an originator credit institution which in respect of a securitisation has made use of Article 95 in the calculation of risk-weighted exposure amounts or has sold instruments from its trading book to a securitisation special purpose entity to the effect that it is no longer required to hold own funds for the risks of those instruments shall not, with a view to reducing potential or actual losses to investors, provide support to the securitisation beyond its contractual obligations.
+
+2. If an originator credit institution or a sponsor credit institution fails to comply with paragraph 1 in respect of a securitisation, the competent authority shall require it at a minimum, to hold capital against all of the securitised exposures as if they had not been securitised. The credit institution shall disclose publicly that it has provided non-contractual support and the regulatory capital impact of having done so.
+
+## Section 4
+
+### Minimum own funds requirements for operational risk
+
+<a id="art_102"></a>
+
+### Article 102
+
+1. Competent authorities shall require credit institutions to hold own funds against operational risk in accordance with the approaches set out in Articles 103, 104 and 105.
+
+2. Without prejudice to paragraph 4, credit institutions that use the approach set out in Article 104 shall not revert to the use of the approach set out in Article 103, except for demonstrated good cause and subject to approval by the competent authorities.
+
+3. Without prejudice to paragraph 4, credit institutions that use the approach set out in Article 105 shall not revert to the use of the approaches set out in Articles 103 or 104 except for demonstrated good cause and subject to approval by the competent authorities.
+
+4. Competent authorities may allow credit institutions to use a combination of approaches in accordance with Annex X, Part 4.
+
+<a id="art_103"></a>
+
+### Article 103
+
+The capital requirement for operational risk under the Basic Indicator Approach shall be a certain percentage of a relevant indicator, in accordance with the parameters set out in Annex X, Part 1.
+
+<a id="art_104"></a>
+
+### Article 104
+
+1. Under the Standardised Approach, credit institutions shall divide their activities into a number of business lines as set out in Annex X, Part 2.
+
+2. For each business line, credit institutions shall calculate a capital requirement for operational risk as a certain percentage of a relevant indicator, in accordance with the parameters set out in Annex X, Part 2.
+
+3. For certain business lines, the competent authorities may under certain conditions authorise a credit institution to use an alternative relevant indicator for determining its capital requirement for operational risk as set out in Annex X, Part 2, points 5 to 11.
+
+4. The capital requirement for operational risk under the Standardised Approach shall be the sum of the capital requirements for operational risk across all individual business lines.
+
+5. The parameters for the Standardised Approach are set out in Annex X, Part 2.
+
+6. To qualify for use of the Standardised Approach, credit institutions shall meet the criteria set out in Annex X, Part 2.
+
+<a id="art_105"></a>
+
+### Article 105
+
+1. Credit institutions may use Advanced Measurement Approaches based on their own operational risk measurement systems, provided that the competent authority expressly approves the use of the models concerned for calculating the own funds requirement.
+
+In order to ensure consistent harmonisation of this Article, EBA may develop draft regulatory technical standards to specify the assessment methodology under which the competent authorities permit credit institutions to use Advanced Measurement Approaches.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the second subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+2. Credit institutions shall satisfy their competent authorities that they meet the qualifying criteria set out in Annex X, Part 3.
+
+3. When an Advanced Measurement Approach is intended to be used by an EU parent credit institution and its subsidiaries or by the subsidiaries of an EU parent financial holding company, the competent authorities of the different legal entities shall cooperate closely as provided for in Articles 129 to 132. The application shall include the elements listed in Annex X, Part 3.
+
+4. Where an EU parent credit institution and its subsidiaries or the subsidiaries of an EU parent financial holding company use an Advanced Measurement Approach on a unified basis, the competent authorities may allow the qualifying criteria set out in Annex X, Part 3 to be met by the parent and its subsidiaries considered together.
+
+## Section 5
+
+### Large exposures
+
+<a id="art_106"></a>
+
+### Article 106
+
+1. ‘Exposures’, for the purposes of this Section, shall mean any asset or off-balance-sheet item referred to in Section 3, Subsection 1, without application of the risk weights or degrees of risk there provided for.
+
+Exposures arising from the items referred to in Annex IV shall be calculated in accordance with one of the methods set out in Annex III. For the purposes of this Section, Annex III, Part 2, point 2 shall also apply.
+
+All elements entirely covered by own funds may, with the agreement of the competent authorities, be excluded from the determination of exposures, provided that such own funds are not included in the credit institution's own funds for the purposes of Article 75 or in the calculation of other monitoring ratios provided for in this Directive and in other Community acts.
+
+2. Exposures shall not include any of the following:
+
+(a) in the case of foreign exchange transactions, exposures incurred in the ordinary course of settlement during the two working days following payment;
+
+(b) in the case of transactions for the purchase or sale of securities, exposures incurred in the ordinary course of settlement during five working days following payment or delivery of the securities, whichever the earlier;
+
+(c) in the case of the provision of money transmission including the execution of payment services, clearing and settlement in any currency and correspondent banking or financial instruments clearing, settlement and custody services to clients, delayed receipts in funding and other exposures arising from client activity which do not last longer than the following business day; or
+
+(d) in the case of the provision of money transmission including the execution of payment services, clearing and settlement in any currency and correspondent banking, intra-day exposures to institutions providing those services.
+
+In order to ensure consistent harmonisation of this paragraph, EBA shall develop draft regulatory technical standards in order to specify the exemptions in points (c) and (d) as well as to specify the conditions used to determine the existence of a group of connected clients, as stated in paragraph 3. EBA shall submit those draft regulatory technical standards to the Commission by 1 January 2014.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to the second subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+3. In order to determine the existence of a group of connected clients, in respect of exposures referred to in points (m), (o) and (p) of Article 79(1), where there is an exposure to underlying assets, a credit institution shall assess the scheme, its underlying exposures, or both. For that purpose, a credit institution shall evaluate the economic substance and the risks inherent in the structure of the transaction.
+
+<a id="art_107"></a>
+
+### Article 107
+
+For the purposes of calculating the value of exposures in accordance with this Section, the term ‘credit institution’ also means any private or public undertaking, including its branches, which meets the definition of ‘credit institution’ and has been authorised in a third country.
+
+<a id="art_108"></a>
+
+### Article 108
+
+A credit institution's exposure to a client or group of connected clients shall be considered a large exposure where its value is equal to or exceeds 10 % of its own funds.
+
+<a id="art_109"></a>
+
+### Article 109
+
+The competent authorities shall require that every credit institution have sound administrative and accounting procedures and adequate internal control mechanisms for the purposes of identifying and recording all large exposures and subsequent changes to them, in accordance with this Directive, and for that of monitoring those exposures in the light of each credit institution's own exposure policies.
+
+<a id="art_110"></a>
+
+### Article 110
+
+1. A credit institution shall report the following information about every large exposure to the competent authorities, including large exposures exempted from the application of Article 111(1):
+
+(a) the identification of the client or the group of connected clients to which a credit institution has a large exposure;
+
+(b) the exposure value before taking into account the effect of the credit risk mitigation, when applicable;
+
+(c) where used, the type of funded or unfunded credit protection;
+
+(d) the exposure value after taking into account the effect of the credit risk mitigation calculated for the purpose of Article 111(1).
+
+If a credit institution is subject to Articles 84 to 89, its 20 largest exposures on a consolidated basis, excluding those exempted from the application of Article 111(1), shall be made available to the competent authorities.
+
+2. Member States shall provide that reporting shall be carried out at least twice a year. The competent authorities shall apply, from 31 December 2012, uniform formats, frequencies and dates of reporting. In order to ensure uniform conditions of application of this Directive, EBA shall develop draft implementing technical standards to introduce, within the Union, uniform formats (with associated instructions), frequencies and dates of reporting before 1 January 2012. The reporting formats shall be proportionate to the nature, scale and complexity of the credit institutions’ activities.
+
+In order to ensure uniform conditions of application of this Directive, EBA shall also develop draft implementing technical standards regarding IT solutions to be applied for such reporting.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first and second subparagraphs in accordance with the procedure laid down in Article 15 of Regulation (EU) No 1093/2010.
+
+3. Member States shall require credit institutions to analyse, to the extent possible, their exposures to collateral issuers, providers of unfunded credit protection and underlying assets pursuant to Article 106(3) for possible concentrations and where appropriate take action and report any significant findings to their competent authority.
+
+<a id="art_111"></a>
+
+### Article 111
+
+1. A credit institution shall not incur an exposure, after taking into account the effect of the credit risk mitigation in accordance with Articles 112 to 117, to a client or group of connected clients the value of which exceeds 25 % of its own funds.
+
+Where that client is an institution or where a group of connected clients includes one or more institutions, that value shall not exceed 25 % of the credit institution's own funds or EUR 150 million, whichever the higher, provided that the sum of exposure values, after taking into account the effect of the credit risk mitigation in accordance with Articles 112 to 117, to all connected clients that are not institutions does not exceed 25 % of the credit institution’s own funds.
+
+Where the amount of EUR 150 million is higher than 25 % of the credit institution’s own funds, the value of the exposure, after taking into account the effect of credit risk mitigation in accordance with Articles 112 to 117, shall not exceed a reasonable limit in terms of the credit institution’s own funds. That limit shall be determined by credit institutions, consistently with the policies and procedures referred to in Annex V, point 7, to address and control concentration risk, and shall not be higher than 100 % of the credit institution’s own funds.
+
+Member States may set a lower limit than EUR 150 million and shall inform EBA and the Commission thereof.
+
+4. A credit institution shall at all times comply with the relevant limit laid down in paragraph 1. If, in an exceptional case, exposures exceed this limit, the value of the exposure shall be reported without delay to the competent authorities which may, where the circumstances warrant it, allow the credit institution a limited period of time in which to comply with the limit.
+
+Where the amount of EUR 150 million referred to in paragraph 1 is applicable, the competent authorities may allow on a case-by-case basis the 100 % limit in terms of the credit institution's own funds to be exceeded.
+
+<a id="art_112"></a>
+
+### Article 112
+
+1. For the purposes of Articles 113 to 117, the term ‘guarantee’ shall include credit derivatives recognised under Articles 90 to 93 other than credit linked notes.
+
+2. Subject to paragraph 3 of this Article, where, under Articles 113 to 117, the recognition of funded or unfunded credit protection is permitted, this shall be subject to compliance with the eligibility requirements and other minimum requirements, set out in Articles 90 to 93.
+
+3. Where a credit institution relies upon Article 114(2), the recognition of funded credit protection shall be subject to the relevant requirements under Articles 84 to 89.
+
+4. For the purpose of this Section, a credit institution shall not take into account the collateral referred to in Annex VIII, Part 1, points 20 to 22, unless permitted under Article 115.
+
+<a id="art_113"></a>
+
+### Article 113
+
+3. The following exposures shall be exempted from the application of Article 111(1):
+
+(a) asset items constituting claims on central governments or central banks which, unsecured, would be assigned a 0 % risk weight under Articles 78 to 83;
+
+(b) asset items constituting claims on international organisations or multilateral development banks which, unsecured, would be assigned a 0 % risk weight under Articles 78 to 83;
+
+(c) asset items constituting claims carrying the explicit guarantees of central governments, central banks, international organisations, multilateral development banks or public sector entities, where unsecured claims on the entity providing the guarantee would be assigned a 0 % risk weight under Articles 78 to 83;
+
+(d) other exposures attributable to, or guaranteed by, central governments, central banks, international organisations, multilateral development banks or public sector entities, where unsecured claims on the entity to which the exposure is attributable or by which it is guaranteed would be assigned a 0 % risk weight under Articles 78 to 83;
+
+(e) asset items constituting claims on regional governments or local authorities of Member States where those claims would be assigned a 0 % risk weight under Articles 78 to 83 and other exposures to or guaranteed by those regional governments or local authorities, claims on which would be assigned a 0 % risk weight under Articles 78 to 83;
+
+(f) exposures to counterparties referred to in paragraph 7 or paragraph 8 of Article 80 if they would be assigned a 0 % risk weight under Articles 78 to 83; exposures that do not meet those criteria, whether or not exempted from Article 111(1), shall be treated as exposures to a third party;
+
+(g) asset items and other exposures secured, to the satisfaction of the competent authorities, by collateral in the form of cash deposits placed with the lending credit institution or with a credit institution which is the parent undertaking or a subsidiary of the lending institution;
+
+(h) asset items and other exposures secured, to the satisfaction of the competent authorities, by collateral in the form of certificates of deposit issued by the lending credit institution or by a credit institution which is the parent undertaking or a subsidiary of the lending credit institution and lodged with either of them;
+
+(i) exposures arising from undrawn credit facilities that are classified as low-risk off-balance sheet items in Annex II and provided that an agreement has been concluded with the client or group of connected clients under which the facility may be drawn only if it has been ascertained that it will not cause the limit applicable under Article 111(1) to be exceeded.
+
+Cash received under a credit linked note issued by the credit institution and loans and deposits of a counterparty to or with the credit institution which are subject to an on-balance sheet netting agreement recognised under Articles 90 to 93 shall be deemed to fall under point (g).
+
+4. Member States may fully or partially exempt the following exposures from the application of Article 111(1):
+
+(a) covered bonds falling within the terms of Annex VI, Part 1, points 68, 69 and 70;
+
+(b) asset items constituting claims on regional governments or local authorities of Member States where those claims would be assigned a 20 % risk weight under Articles 78 to 83 and other exposures to or guaranteed by those regional governments or local authorities, claims on which would be assigned a 20 % risk weight under Articles 78 to 83;
+
+(c) notwithstanding paragraph 3(f) of this Article, exposures, including participations or other kinds of holdings, incurred by a credit institution to its parent undertaking, to other subsidiaries of that parent undertaking or to its own subsidiaries, in so far as those undertakings are covered by the supervision on a consolidated basis to which the credit institution itself is subject, in accordance with this Directive or with equivalent standards in force in a third country; exposures that do not meet these criteria, whether or not exempted from Article 111(1), shall be treated as exposures to a third party;
+
+(d) asset items constituting claims on and other exposures, including participations or other kinds of holdings, to regional or central credit institutions with which the credit institution is associated in a network in accordance with legal or statutory provisions and which are responsible, under those provisions, for cash-clearing operations within the network;
+
+(e) asset items constituting claims on and other exposures to credit institutions incurred by credit institutions operating on a non-competitive basis, providing loans under legislative programmes or their statutes, to promote specified sectors of the economy under some form of government oversight and restrictions on the use of the loans, provided that the respective exposures arise from such loans that are passed on to the beneficiaries via other credit institutions;
+
+(f) asset items constituting claims on and other exposures to institutions, provided that those exposures do not constitute such institutions' own funds, do not last longer than the following business day and are not denominated in a major trading currency;
+
+(g) asset items constituting claims on central banks in the form of required minimum reserves held at those central banks which are denominated in their national currencies;
+
+(h) asset items constituting claims on central governments in the form of statutory liquidity requirements held in government securities which are denominated and funded in their national currencies provided that, at the discretion of the competent authority, the credit assessment of those central governments assigned by a nominated ECAI is investment grade;
+
+(i) 50 % of medium/low risk off-balance-sheet documentary credits and of medium/low risk off-balance sheet undrawn credit facilities referred to in Annex II, and subject to the competent authorities’ agreement, 80 % of guarantees other than loan guarantees which have a legal or regulatory basis and are given for their members by mutual guarantee schemes possessing the status of credit institutions;
+
+(j) legally required guarantees used when a mortgage loan financed by issuing mortgage bonds is paid to the mortgage borrower before the final registration of the mortgage in the land register, provided the guarantee is not used as reducing the risk in calculating the risk weighted assets.
+
+<a id="art_114"></a>
+
+### Article 114
+
+1. Subject to paragraph 3 of this Article, for the purposes of calculating the value of exposures for the purposes of Article 111(1) a credit institution may use the ‘fully adjusted exposure value’ as calculated under Articles 90 to 93, taking into account the credit risk mitigation, volatility adjustments, and any maturity mismatch (E*).
+
+Subject to paragraph 3 of this Article, a credit institution permitted to use own estimates of LGDs and conversion factors for an exposure class under Articles 84 to 89 shall be permitted, where it is able to the satisfaction of the competent authorities to estimate the effects of financial collateral on their exposures separately from other LGD-relevant aspects, to recognise such effects in calculating the value of exposures for the purposes of Article 111(1).
+
+** ◄ **
+
+Competent authorities shall be satisfied as to the suitability of the estimates produced by the credit institution for use for the reduction of the exposure value for the purposes of compliance with the provisions of Article 111.
+
+Where a credit institution is permitted to use its own estimates of the effects of financial collateral, it shall do so on a basis consistent with the approach adopted in the calculation of capital requirements.
+
+Credit institutions permitted to use own estimates of LGDs and conversion factors for an exposure class under Articles 84 to 89 which do not calculate the value of their exposures using the method referred to in the first subparagraph of this paragraph may use the Financial Collateral Comprehensive Method or the approach set out in Article 117(1)(b) for calculating the value of exposures.
+
+A credit institution that makes use of the Financial Collateral Comprehensive Method or is permitted to use the method described in paragraph 2 of this Article in calculating the value of exposures for the purposes of Article 111(1), shall conduct periodic stress tests of their credit-risk concentrations, including in relation to the realisable value of any collateral taken.
+
+** ◄ **
+
+These periodic stress tests shall address risks arising from potential changes in market conditions that could adversely impact the credit institutions' adequacy of own funds and risks arising from the realisation of collateral in stressed situations.
+
+The credit institution shall satisfy the competent authorities that the stress tests carried out are adequate and appropriate for the assessment of such risks.
+
+In the event that such a stress test indicates a lower realisable value of collateral taken than would be permitted to be taken into account while making use of the Financial Collateral Comprehensive Method or the method described in paragraph 2 of this Article as appropriate, the value of collateral permitted to be recognised in calculating the value of exposures for the purposes of Article 111(1) shall be reduced accordingly.
+
+Such credit institutions shall include the following in their strategies to address concentration risk:
+
+(a) policies and procedures to address risks arising from maturity mismatches between exposures and any credit protection on those exposures;
+
+(b) policies and procedures in the event that a stress test indicates a lower realisable value of collateral than taken into account while making use of the Financial Collateral Comprehensive Method or the method described in paragraph 2; and
+
+(c) policies and procedures relating to concentration risk arising from the application of credit risk mitigation techniques, and in particular large indirect credit exposures, for example to a single issuer of securities taken as collateral.
+
+<a id="art_115"></a>
+
+### Article 115
+
+1. For the purpose of this Section, a credit institution may reduce the exposure value by up to 50 % of the value of the residential property concerned, if either of the following conditions is met:
+
+(a) the exposure is secured, by mortgages on residential property or by shares in Finnish residential housing companies, operating in accordance with the Finnish Housing Company Act of 1991 or subsequent equivalent legislation;
+
+(b) the exposure relates to a leasing transaction under which the lessor retains full ownership of the residential property leased for as long as the lessee has not exercised his option to purchase.
+
+The value of the property shall be calculated, to the satisfaction of the competent authorities, on the basis of prudent valuation standards laid down by law, regulation or administrative provisions. Valuation shall be carried out at least once every three years for residential property.
+
+The requirements in Annex VIII, Part 2, point 8, and in Annex VIII Part 3, points 62 to 65 shall apply for the purpose of this paragraph.
+
+‘Residential property’ shall mean a residence to be occupied or let by the owner.
+
+2. For the purpose of this Section, a credit institution may reduce the exposure value by up to 50 % of the value of the commercial property concerned only if the competent authorities concerned in the Member State where the commercial property is situated allow the following exposures to receive a 50 % risk weight in accordance with Articles 78 to 83:
+
+(a) exposures secured by mortgages on offices or other commercial premises, or by shares in Finnish housing companies, operating in accordance with the Finnish Housing Company Act of 1991 or subsequent equivalent legislation, in respect of offices or other commercial premises; or
+
+(b) exposures related to property leasing transactions concerning offices or other commercial premises.
+
+The value of the property shall be calculated, to the satisfaction of the competent authorities, on the basis of prudent valuation standards laid down by law, regulation or administrative provisions.
+
+Commercial property shall be fully constructed, leased and produce appropriate rental income.
+
+<a id="art_117"></a>
+
+### Article 117
+
+1. Where an exposure to a client is guaranteed by a third party, or secured by collateral issued by a third party, a credit institution may:
+
+(a) treat the portion of the exposure which is guaranteed as having been incurred to the guarantor rather than to the client provided that the unsecured exposure to the guarantor would be assigned an equal or lower risk weight than a risk weight of the unsecured exposure to the client under Articles 78 to 83;
+
+(b) treat the portion of the exposure collateralised by the market value of recognised collateral as having been incurred to the third party rather than to the client, if the exposure is secured by collateral and provided that the collateralised portion of the exposure would be assigned an equal or lower risk weight than a risk weight of the unsecured exposure to the client under Articles 78 to 83.
+
+The approach referred to in point (b) of the first subparagraph shall not be used by a credit institution where there is a mismatch between the maturity of the exposure and the maturity of the protection.
+
+For the purpose of this Section, a credit institution may use both the Financial Collateral Comprehensive Method and the treatment provided for in point (b) of the first subparagraph only where it is permitted to use both the Financial Collateral Comprehensive Method and the Financial Collateral Simple Method for the purposes of Article 75(a).
+
+2. Where a credit institution applies paragraph 1(a):
+
+(a) where the guarantee is denominated in a currency different from that in which the exposure is denominated the amount of the exposure deemed to be covered will be calculated in accordance with the provisions on the treatment of currency mismatch for unfunded credit protection in Annex VIII;
+
+(b) a mismatch between the maturity of the exposure and the maturity of the protection will be treated in accordance with the provisions on the treatment of maturity mismatch in Annex VIII; and
+
+(c) partial coverage may be recognised in accordance with the treatment set out in Annex VIII.
+
+<a id="art_118"></a>
+
+### Article 118
+
+Where compliance by a credit institution on an individual or sub-consolidated basis with the obligations imposed in this Section is disapplied under Article 69(1), or the provisions of Article 70 are applied in the case of parent credit institutions in a Member State, measures must be taken to ensure the satisfactory allocation of risks within the group.
+
+## Section 6
+
+### Qualifying holdings outside the financial sector
+
+<a id="art_120"></a>
+
+### Article 120
+
+1. No credit institution may have a qualifying holding the amount of which exceeds 15 % of its own funds in an undertaking which is neither a credit institution, nor a financial institution, nor an undertaking carrying on activities which are a direct extension of banking or concern services ancillary to banking, such as leasing, factoring, the management of unit trusts, the management of data processing services or any other similar activity.
+
+2. The total amount of a credit institution's qualifying holdings in undertakings other than credit institutions, financial institutions or undertakings carrying on activities which are a direct extension of banking or concern services ancillary to banking, such as leasing, factoring, the management of unit trusts, the management of data processing services, or any other similar activity may not exceed 60 % of its own funds.
+
+3. The limits laid down in paragraphs 1 and 2 may be exceeded only in exceptional circumstances. In such cases, however, the competent authorities shall require a credit institution either to increase its own funds or to take other equivalent measures.
+
+<a id="art_121"></a>
+
+### Article 121
+
+Shares held temporarily during a financial reconstruction or rescue operation or during the normal course of underwriting or in an institution's own name on behalf of others shall not be counted as qualifying holdings for the purpose of calculating the limits laid down in Articles 120(1) and (2). Shares which are not financial fixed assets as defined in Article 35(2) of Directive 86/635/EEC shall not be included in the calculation.
+
+<a id="art_122"></a>
+
+### Article 122
+
+1. The Member States need not apply the limits laid down in Articles 120(1) and (2) to holdings in insurance companies as defined in Directives 73/239/EEC and 2002/83/EC, or in reinsurance companies as defined in Directive 98/78/EC.
+
+2. The Member States may provide that the competent authorities are not to apply the limits laid down in Article 120(1) and (2) if they provide that 100 % of the amounts by which a credit institution's qualifying holdings exceed those limits shall be covered by own funds and that the latter shall not be included in the calculation required under Article 75. If both the limits laid down in Article 120(1) and (2) are exceeded, the amount to be covered by own funds shall be the greater of the excess amounts.
+
+## Section 7
+
+### Exposures to transferred credit risk
+
+<a id="art_122a"></a>
+
+### Article 122a
+
+1. A credit institution, other than when acting as an originator, a sponsor or original lender, shall be exposed to the credit risk of a securitisation position in its trading book or non-trading book only if the originator, sponsor or original lender has explicitly disclosed to the credit institution that it will retain, on an ongoing basis, a material net economic interest which, in any event, shall not be less than 5 %.
+
+For the purpose of this Article, ‘retention of net economic interest’ means:
+
+(a) retention of no less than 5 % of the nominal value of each of the tranches sold or transferred to the investors;
+
+(b) in the case of securitisations of revolving exposures, retention of the originator’s interest of no less than 5 % of the nominal value of the securitised exposures;
+
+(c) retention of randomly selected exposures, equivalent to no less than 5 % of the nominal amount of the securitised exposures, where such exposures would otherwise have been securitised in the securitisation, provided that the number of potentially securitised exposures is no less than 100 at origination; or
+
+(d) retention of the first loss tranche and, if necessary, other tranches having the same or a more severe risk profile than those transferred or sold to investors and not maturing any earlier than those transferred or sold to investors, so that the retention equals in total no less than 5 % of the nominal value of the securitised exposures.
+
+Net economic interest is measured at the origination and shall be maintained on an ongoing basis. It shall not be subject to any credit risk mitigation or any short positions or any other hedge. The net economic interest shall be determined by the notional value for off-balance sheet items.
+
+For the purpose of this Article, ‘ongoing basis’ means that retained positions, interest or exposures are not hedged or sold.
+
+There shall be no multiple applications of the retention requirements for any given securitisation.
+
+2. Where an EU parent credit institution or an EU financial holding company, or one of its subsidiaries, as an originator or a sponsor, securitises exposures from several credit institutions, investment firms or other financial institutions which are included in the scope of supervision on a consolidated basis, the requirement referred to in paragraph 1 may be satisfied on the basis of the consolidated situation of the related EU parent credit institution or EU financial holding company. This paragraph shall apply only where credit institutions, investment firms or financial institutions which created the securitised exposures have committed themselves to adhere to the requirements set out in paragraph 6 and deliver, in a timely manner, to the originator or sponsor and to the EU parent credit institution or an EU financial holding company the information needed to satisfy the requirements referred to in paragraph 7.
+
+3. Paragraph 1 shall not apply where the securitised exposures are claims or contingent claims on or fully, unconditionally and irrevocably guaranteed by:
+
+(a) central governments or central banks;
+
+(b) regional governments, local authorities and public sector entities of Member States;
+
+(c) institutions to which a 50 % risk weight or less is assigned under Articles 78 to 83; or
+
+(d) multilateral development banks.
+
+Paragraph 1 shall not apply to:
+
+(a) transactions based on a clear, transparent and accessible index, where the underlying reference entities are identical to those that make up an index of entities that is widely traded, or are other tradable securities other than securitisation positions; or
+
+(b) syndicated loans, purchased receivables or credit default swaps where these instruments are not used to package and/or hedge a securitisation that is covered by paragraph 1.
+
+4. Before investing, and as appropriate thereafter, credit institutions, shall be able to demonstrate to the competent authorities for each of their individual securitisation positions, that they have a comprehensive and thorough understanding of and have implemented formal policies and procedures appropriate to their trading book and non-trading book and commensurate with the risk profile of their investments in securitised positions for analysing and recording:
+
+(a) information disclosed under paragraph 1, by originators or sponsors to specify the net economic interest that they maintain, on an ongoing basis, in the securitisation;
+
+(b) the risk characteristics of the individual securitisation position;
+
+(c) the risk characteristics of the exposures underlying the securitisation position;
+
+(d) the reputation and loss experience in earlier securitisations of the originators or sponsors in the relevant exposure classes underlying the securitisation position;
+
+(e) the statements and disclosures made by the originators or sponsors, or their agents or advisors, about their due diligence on the securitised exposures and, where applicable, on the quality of the collateral supporting the securitised exposures;
+
+(f) where applicable, the methodologies and concepts on which the valuation of collateral supporting the securitised exposures is based and the policies adopted by the originator or sponsor to ensure the independence of the valuer; and
+
+(g) all the structural features of the securitisation that can materially impact the performance of the credit institution’s securitisation position.
+
+Credit institutions shall regularly perform their own stress tests appropriate to their securitisation positions. To this end, credit institutions may rely on financial models developed by an ECAI provided that credit institutions can demonstrate, when requested, that they took due care prior to investing to validate the relevant assumptions in and structuring of the models and to understand methodology, assumptions and results.
+
+5. Credit institutions, other than when acting as originators or sponsors or original lenders, shall establish formal procedures appropriate to their trading book and non-trading book and commensurate with the risk profile of their investments in securitised positions to monitor on an ongoing basis and in a timely manner performance information on the exposures underlying their securitisation positions. Where relevant, this shall include the exposure type, the percentage of loans more than 30, 60 and 90 days past due, default rates, prepayment rates, loans in foreclosure, collateral type and occupancy, and frequency distribution of credit scores or other measures of credit worthiness across underlying exposures, industry and geographical diversification, frequency distribution of loan to value ratios with band widths that facilitate adequate sensitivity analysis. Where the underlying exposures are themselves securitisation positions, credit institutions shall have the information set out in this subparagraph not only on the underlying securitisation tranches, such as the issuer name and credit quality, but also on the characteristics and performance of the pools underlying those securitisation tranches.
+
+Credit institutions shall have a thorough understanding of all structural features of a securitisation transaction that would materially impact the performance of their exposures to the transaction such as the contractual waterfall and waterfall related triggers, credit enhancements, liquidity enhancements, market value triggers, and deal-specific definition of default.
+
+Where the requirements in paragraphs 4, 7 and in this paragraph are not met in any material respect by reason of the negligence or omission of the credit institution, Member States shall ensure that the competent authorities impose a proportionate additional risk weight of no less than 250 % of the risk weight (capped at 1 250 %) which would, but for this paragraph, apply to the relevant securitisation positions under Annex IX, Part 4, and shall progressively increase the risk weight with each subsequent infringement of the due diligence provisions. The competent authorities shall take into account the exemptions for certain securitisations provided in paragraph 3 by reducing the risk weight it would otherwise impose under this Article in respect of a securitisation to which paragraph 3 applies.
+
+6. Sponsor and originator credit institutions shall apply the same sound and well-defined criteria for credit-granting in accordance with the requirements of Annex V, point 3 to exposures to be securitised as they apply to exposures to be held on their book. To this end the same processes for approving and, where relevant, amending, renewing and re-financing credits shall be applied by the originator and sponsor credit institutions. Credit institutions shall also apply the same standards of analysis to participations or underwritings in securitisation issues purchased from third parties whether such participations or underwritings are to be held on their trading or non-trading book.
+
+Where the requirements referred to in the first subparagraph of this paragraph are not met, Article 95(1) shall not be applied by an originator credit institution and that originator credit institution shall not be allowed to exclude the securitised exposures from the calculation of its capital requirements under this Directive.
+
+7. Sponsor and originator credit institutions shall disclose to investors the level of their commitment under paragraph 1 to maintain a net economic interest in the securitisation. Sponsor and originator credit institutions shall ensure that prospective investors have readily available access to all materially relevant data on the credit quality and performance of the individual underlying exposures, cash flows and collateral supporting a securitisation exposure as well as such information that is necessary to conduct comprehensive and well informed stress tests on the cash flows and collateral values supporting the underlying exposures. For that purpose, materially relevant data shall be determined as at the date of the securitisation and where appropriate due to the nature of the securitisation thereafter.
+
+8. Paragraphs 1 to 7 shall apply to new securitisations issued on or after 1 January 2011. Paragraphs 1 to 7 shall, after 31 December 2014, apply to existing securitisations where new underlying exposures are added or substituted after that date. Competent authorities may decide to suspend temporarily the requirements referred to in paragraphs 1 and 2 during periods of general market liquidity stress.
+
+9. Competent authorities shall disclose the following information:
+
+(a) by 31 December 2010, the general criteria and methodologies adopted to review the compliance with paragraphs 1 to 7;
+
+(b) without prejudice to the provisions laid down in Chapter 1, Section 2, a summary description of the outcome of the supervisory review and description of the measures imposed in cases of non-compliance with paragraphs 1 to 7 identified on an annual basis from 31 December 2011.
+
+The requirement set out in this paragraph is subject to the second subparagraph of Article 144.
+
+10. EBA shall report to the Commission annually on the compliance with this Article by the competent authorities.
+
+In order to ensure consistent harmonisation of this Article, EBA shall develop draft regulatory technical standards for the convergence of supervisory practices with regard to this Article, including the measures taken in case of breach of the due diligence and risk management obligations. EBA shall submit those draft regulatory technical standards to the Commission by 1 January 2014.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the second subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+## CHAPTER 3
+
+### Credit institutions' assessment process
+
+<a id="art_123"></a>
+
+### Article 123
+
+Credit institutions shall have in place sound, effective and complete strategies and processes to assess and maintain on an ongoing basis the amounts, types and distribution of internal capital that they consider adequate to cover the nature and level of the risks to which they are or might be exposed.
+
+These strategies and processes shall be subject to regular internal review to ensure that they remain comprehensive and proportionate to the nature, scale and complexity of the activities of the credit institution concerned.
+
+## Section 1
+
+### Supervision
+
+<a id="art_124"></a>
+
+### Article 124
+
+1. Taking into account the technical criteria set out in Annex XI, the competent authorities shall review the arrangements, strategies, processes and mechanisms implemented by the credit institutions to comply with this Directive and evaluate the risks to which the credit institutions are or might be exposed.
+
+2. The scope of the review and evaluation referred to in paragraph 1 shall be that of the requirements of this Directive.
+
+3. On the basis of the review and evaluation referred to in paragraph 1, the competent authorities shall determine whether the arrangements, strategies, processes and mechanisms implemented by the credit institutions and the own funds held by these ensure a sound management and coverage of their risks.
+
+4. Competent authorities shall establish the frequency and intensity of the review and evaluation referred to in paragraph 1 having regard to the size, systemic importance, nature, scale and complexity of the activities of the credit institution concerned and taking into account the principle of proportionality. The review and evaluation shall be updated at least on an annual basis.
+
+5. The review and evaluation performed by competent authorities shall include the exposure of credit institutions to the interest rate risk arising from non-trading activities. Measures shall be required in the case of institutions whose economic value declines by more than 20 % of their own funds as a result of a sudden and unexpected change in interest rates the size of which shall be prescribed by the competent authorities and shall not differ between credit institutions.
+
+6. In order to ensure consistent harmonisation of this Article, EBA may develop draft regulatory technical standards to specify this Article and a common risk assessment procedure and methodology.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No 1093/2010.
+
+<a id="art_125"></a>
+
+### Article 125
+
+1. Where a parent undertaking is a parent credit institution in a Member State or an EU parent credit institution, supervision on a consolidated basis shall be exercised by the competent authorities that authorised it under Article 6.
+
+2. Where the parent of a credit institution is a parent financial holding company in a Member State or an EU parent financial holding company, supervision on a consolidated basis shall be exercised by the competent authorities that authorised that credit institution under Article 6.
+
+<a id="art_126"></a>
+
+### Article 126
+
+1. Where credit institutions authorised in two or more Member States have as their parent the same parent financial holding company in a Member State or the same EU parent financial holding company, supervision on a consolidated basis shall be exercised by the competent authorities of the credit institution authorised in the Member State in which the financial holding company was set up.
+
+Where the parents of credit institutions authorised in two or more Member States comprise more than one financial holding company with head offices in different Member States and there is a credit institution in each of these States, supervision on a consolidated basis shall be exercised by the competent authority of the credit institution with the largest balance sheet total.
+
+2. Where more than one credit institution authorised in the Community has as its parent the same financial holding company and none of these credit institutions has been authorised in the Member State in which the financial holding company was set up, supervision on a consolidated basis shall be exercised by the competent authority that authorised the credit institution with the largest balance sheet total, which shall be considered, for the purposes of this Directive, as the credit institution controlled by an EU parent financial holding company.
+
+3. In particular cases, the competent authorities may by common agreement waive the criteria referred to in paragraphs 1 and 2 if their application would be inappropriate, taking into account the credit institutions and the relative importance of their activities in different countries, and appoint a different competent authority to exercise supervision on a consolidated basis. In these cases, before taking their decision, the competent authorities shall give the EU parent credit institution, or EU parent financial holding company, or credit institution with the largest balance sheet total, as appropriate, an opportunity to state its opinion on that decision.
+
+4. The competent authorities shall notify the Commission and EBA of any agreement falling within paragraph 3.
+
+<a id="art_127"></a>
+
+### Article 127
+
+1. Member States shall adopt any measures necessary, where appropriate, to include financial holding companies in consolidated supervision. Without prejudice to Article 135, the consolidation of the financial situation of the financial holding company shall not in any way imply that the competent authorities are required to play a supervisory role in relation to the financial holding company on a stand-alone basis.
+
+2. When the competent authorities of a Member State do not include a credit institution subsidiary in supervision on a consolidated basis under one of the cases provided for in points (b) and (c) of Article 73(1), the competent authorities of the Member State in which that credit institution subsidiary is situated may ask the parent undertaking for information which may facilitate their supervision of that credit institution.
+
+3. Member States shall provide that their competent authorities responsible for exercising supervision on a consolidated basis may ask the subsidiaries of a credit institution or a financial holding company, which are not included within the scope of supervision on a consolidated basis for the information referred to in Article 137. In such a case, the procedures for transmitting and verifying the information laid down in that Article shall apply.
+
+<a id="art_128"></a>
+
+### Article 128
+
+Where Member States have more than one competent authority for the prudential supervision of credit institutions and financial institutions, Member States shall take the requisite measures to organise coordination between such authorities.
+
+<a id="art_129"></a>
+
+### Article 129
+
+1. In addition to the obligations imposed by the provisions of this Directive, the competent authority responsible for the exercise of supervision on a consolidated basis of EU parent credit institutions and credit institutions controlled by EU parent financial holding companies shall carry out the following tasks:
+
+(a) coordination of the gathering and dissemination of relevant or essential information in going concern and emergency situations; and
+
+(b) planning and coordination of supervisory activities in going-concern situations, including in relation to the activities referred to in Articles 123, 124, 136, in Chapter 5 and in Annex V, in cooperation with the competent authorities involved;
+
+(c) planning and coordination of supervisory activities in cooperation with the competent authorities involved, and if necessary with central banks, in preparation for and during emergency situations, including adverse developments in credit institutions or in financial markets using, where possible, existing defined channels of communication for facilitating crisis management.
+
+Where the consolidating supervisor fails to carry out the tasks referred to in the first subparagraph or where the competent authorities do not cooperate with the consolidating supervisor to the extent required in carrying out the tasks in the first subparagraph, any of the competent authorities concerned may refer the matter to EBA, which may act in accordance with Article 19 of Regulation (EU) No 1093/2010.
+
+The planning and coordination of supervisory activities referred to in point (c) includes exceptional measures referred to in Article 132(3)(b), the preparation of joint assessments, the implementation of contingency plans and communication to the public.
+
+2. In the case of applications for the permissions referred to in Articles 84(1), 87(9) and 105 and in Annex III, Part 6, respectively, submitted by an EU parent credit institution and its subsidiaries, or jointly by the subsidiaries of an EU parent financial holding company, the competent authorities shall work together, in full consultation, to decide whether or not to grant the permission sought and to determine the terms and conditions, if any, to which such permission should be subject.
+
+An application as referred to in the first subparagraph shall be submitted only to the competent authority referred to in paragraph 1.
+
+The competent authorities shall do everything within their power to reach a joint decision on the application within six months. This joint decision shall be set out in a document containing the fully reasoned decision which shall be provided to the applicant by the competent authority referred to in paragraph 1.
+
+The period referred to in subparagraph 3 shall begin on the date of receipt of the complete application by the competent authority referred to in paragraph 1. The competent authority referred to in paragraph 1 shall forward the complete application to the other competent authorities without delay.
+
+In the absence of a joint decision between the competent authorities within six months, the competent authority referred to in paragraph 1 shall make its own decision on the application. The decision shall be set out in a document containing the fully reasoned decision and shall take into account the views and reservations of the other competent authorities expressed during the six months period. The decision shall be provided to the applicant and the other competent authorities by the competent authority referred to in paragraph 1.►M10 If, at the end of the six month period, any of the competent authorities concerned has referred the matter to EBA in accordance with Article 19 of Regulation (EU) No 1093/2010, the consolidating supervisor shall defer its decision and await any decision that EBA may take in accordance with Article 19(3) of that Regulation on its decision, and shall take its decision in conformity with the decision of EBA. The six-month period shall be deemed the conciliation period within the meaning of that Regulation. EBA shall take its decision within 1 month. The matter shall not be referred to EBA after the end of the six month period or after a joint decision has been reached.** ◄ **
+
+The decisions referred to in the third and fifth subparagraphs shall be recognised as determinative and applied by the competent authorities in the Member States concerned.
+
+EBA may develop draft implementing technical standards to ensure uniform conditions of application of the joint decision process referred to in this paragraph, with regard to the applications for permissions referred to in Article 84(1), Article 87(9) and Article 105 and in Annex III part 6, with a view to facilitating joint decisions.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the sixth and the seventh subparagraphs in accordance with the procedure laid down in Article 15 of Regulation (EU) No 1093/2010.
+
+3. The consolidating supervisor and the competent authorities responsible for the supervision of subsidiaries of an EU parent credit institution or an EU parent financial holding company in a Member State shall do everything within their power to reach a joint decision on the application of Articles 123 and 124 to determine the adequacy of the consolidated level of own funds held by the group with respect to its financial situation and risk profile and the required level of own funds for the application of Article 136(2) to each entity within the banking group and on a consolidated basis.
+
+The joint decision shall be reached within four months after submission by the consolidating supervisor of a report containing the risk assessment of the group in accordance with Articles 123 and 124 to the other relevant competent authorities. The joint decision shall also duly consider the risk assessment of subsidiaries performed by relevant competent authorities in accordance with Articles 123 and 124.
+
+The joint decision shall be set out in a document containing the fully reasoned decision which shall be provided to the EU parent credit institution by the consolidating supervisor. In the event of disagreement, the consolidating supervisor shall at the request of any of the other competent authorities concerned consult the ►M10 EBA** ◄ **. The consolidating supervisor may consult the ►M10 EBA** ◄ ** on its own initiative.
+
+In the absence of such a joint decision between the competent authorities within 4 months, a decision on the application of Articles 123 and 124 and Article 136(2) shall be taken on a consolidated basis by the consolidating supervisor after duly considering the risk assessment of subsidiaries performed by relevant competent authorities. If, at the end of the four month period, any of the competent authorities concerned has referred the matter to EBA in accordance with Article 19 of Regulation (EU) No 1093/2010, the consolidating supervisor shall defer its decision and await any decision that EBA may take in accordance with Article 19(3) of that Regulation, and shall take its decision in conformity with the decision of EBA. The four month period shall be deemed the conciliation period within the meaning of the Regulation. EBA shall take its decision within 1 month. The matter shall not be referred to EBA after the end of the four month period or after a joint decision has been reached.
+
+The decision on the application of Articles 123 and 124 and Article 136(2) shall be taken by the respective competent authorities responsible for supervision of subsidiaries of a Union parent credit institution or a Union parent financial holding company on an individual or sub-consolidated basis after duly considering the views and reservations expressed by the consolidating supervisor. If, at the end of the four-month period, any of the competent authorities concerned has referred the matter to EBA in accordance with Article 19 of Regulation (EU) No 1093/2010, the competent authorities shall defer their decision and await any decision that EBA shall take in accordance with Article 19(3) of that Regulation, and shall take its decision in conformity with the decision of EBA. The four month period shall be deemed the conciliation period within the meaning of that Regulation. EBA shall take its decision within 1 month. The matter shall not be referred to EBA after the end of the four-month period or after a joint decision has been reached.
+
+The decisions shall be set out in a document containing the fully reasoned decisions and shall take into account the risk assessment, views and reservations of the other competent authorities expressed during the four-month period. The document shall be provided by the consolidating supervisor to all competent authorities concerned and to the EU parent credit institution.
+
+Where EBA has been consulted, all the competent authorities shall consider its advice, and explain any significant deviation therefrom.
+
+The joint decision referred to in the first subparagraph and the decisions taken by the competent authorities in the absence of a joint decision shall be recognised as determinative and shall be applied by the competent authorities in the Member State concerned.
+
+The joint decision referred to in the first subparagraph and any decision taken in the absence of a joint decision in accordance with the fourth and fifth subparagraphs, shall be updated on an annual basis or, in exceptional circumstances, where a competent authority responsible for the supervision of subsidiaries of an EU parent credit institution or, an EU parent financial holding company makes a written and fully reasoned request to the consolidating supervisor to update the decision on the application of Article 136(2). In the latter case, the update may be addressed on a bilateral basis between the consolidating supervisor and the competent authority making the request.
+
+EBA may develop draft implementing technical standards to ensure uniform conditions of application of the joint decision process referred to in this paragraph, with regard to the application of Articles 123 and 124 and Article 136(2) with a view to facilitating joint decisions.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the tenth subparagraph in accordance with the procedure laid down in Article 15 of Regulation (EU) No 1093/2010.
+
+<a id="art_130"></a>
+
+### Article 130
+
+1. Where an emergency situation, including a situation as defined in Article 18 of Regulation (EU) No 1093/2010 or a situation of adverse developments in markets, arises, which potentially jeopardises the market liquidity and the stability of the financial system in any of the Member State where entities of a group have been authorised or where significant branches referred to in Article 42a are established, the consolidating supervisor shall, subject to Chapter 1, Section 2, alert as soon as is practicable, EBA, ESRB and the authorities referred to in the fourth subparagraph of Article 49 and in Article 50 and shall communicate all information essential for the pursuance of their tasks. Those obligations shall apply to all competent authorities under Articles 125 and 126 and to the competent authority identified under Article 129(1).
+
+If the authority referred to in the fourth paragraph of Article 49 becomes aware of a situation described in the first subparagraph, it shall alert as soon as is practicable the competent authorities referred to in Articles 125 and 126, and EBA.
+
+Where possible, the competent authority and the authority referred to in the fourth paragraph of Article 49 shall use existing defined channels of communication.
+
+2. The competent authority responsible for supervision on a consolidated basis shall, when it needs information which has already been given to another competent authority, contact this authority whenever possible in order to prevent duplication of reporting to the various authorities involved in supervision.
+
+<a id="art_131"></a>
+
+### Article 131
+
+In order to facilitate and establish effective supervision, the competent authority responsible for supervision on a consolidated basis and the other competent authorities shall have written coordination and cooperation arrangements in place.
+
+Under these arrangements additional tasks may be entrusted to the competent authority responsible for supervision on a consolidated basis and procedures for the decision-making process and for cooperation with other competent authorities, may be specified.
+
+The competent authorities responsible for authorising the subsidiary of a parent undertaking which is a credit institution may, by bilateral agreement, in accordance with Article 28 of Regulation (EU) No 1093/2010, delegate their responsibility for supervision to the competent authorities which authorised and supervise the parent undertaking so that they assume responsibility for supervising the subsidiary in accordance with this Directive. EBA shall be kept informed of the existence and content of such agreements. It shall forward such information to the competent authorities of the other Member States and to the European Banking Committee.
+
+<a id="art_131a"></a>
+
+### Article 131a
+
+1. The consolidating supervisor shall establish colleges of supervisors to facilitate the exercise of the tasks referred to in Article 129 and Article 130(1) and subject to the confidentiality requirements of paragraph 2 of this Article and compatibility with Union law, ensure appropriate coordination and cooperation with relevant third-country competent authorities where appropriate.
+
+EBA shall contribute to promoting and monitoring the efficient, effective and consistent functioning of colleges of supervisors referred to in this Article in accordance with Article 21 of Regulation (EU) No 1093/2010. To that end, EBA shall participate as it deems appropriate and shall be considered as a competent authority for that purpose.
+
+Colleges of supervisors shall provide a framework for the consolidating Supervisor, EBA and the other competent authorities concerned to carry out the following tasks:
+
+(a) exchanging information among themselves and with EBA in accordance with Article 21 of Regulation (EU) No 1093/2010;
+
+(b) agreeing on voluntary entrustment of tasks and voluntary delegation of responsibilities where appropriate;
+
+(c) determining supervisory examination programmes based on a risk assessment of the group in accordance with Article 124;
+
+(d) increasing the efficiency of supervision by removing unnecessary duplication of supervisory requirements, including in relation to the information requests referred to in Article 130(2) and Article 132(2);
+
+(e) consistently applying the prudential requirements under this Directive across all entities within a banking group without prejudice to the options and discretions available in Union legislation;
+
+(f) applying Article 129(1)(c) taking into account the work of other forums that may be established in that area.
+
+The competent authorities participating in the colleges of supervisors and EBA shall cooperate closely. The confidentiality requirements under Chapter 1, Section 2 shall not prevent the competent authorities from exchanging confidential information within colleges of supervisors. The establishment and functioning of colleges of supervisors shall not affect the rights and responsibilities of the competent authorities under this Directive.
+
+2. The establishment and functioning of the colleges shall be based on written arrangements referred to in Article 131, determined after consultation with competent authorities concerned by the consolidating supervisor.
+
+In order to ensure consistent harmonisation of this Article, EBA may develop draft regulatory technical standards in order to specify general conditions of functioning of the colleges of supervisors.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the second subparagraph in accordance with the procedure laid down in Articles 10 to 14 of Regulation (EU) No1093/2010.
+
+In order to ensure uniform conditions of application of this Article, EBA may develop draft implementing technical standards in order to determine the operational functioning of the colleges of supervisors.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the fourth subparagraph in accordance with the procedure laid down in Article 15 of Regulation (EU) No 1093/2010.
+
+The competent authorities responsible for the supervision of subsidiaries of an EU parent credit institution or an EU parent financial holding company and the competent authorities of a host country where significant branches as referred to in Article 42a are established, central banks as appropriate, and third countries' competent authorities where appropriate and subject to confidentiality requirements that are equivalent, in the opinion of all competent authorities, to the requirements under Chapter 1 Section 2, may participate in colleges of supervisors.
+
+The consolidating supervisor shall chair the meetings of the college and shall decide which competent authorities participate in a meeting or in an activity of the college. The consolidating supervisor shall keep all members of the college fully informed, in advance, of the organisation of such meetings, the main issues to be discussed and the activities to be considered. The consolidating supervisor shall also keep all the members of the college fully informed, in a timely manner, of the actions taken in those meetings or the measures carried out.
+
+The decision of the consolidating supervisor shall take account of the relevance of the supervisory activity to be planned or coordinated for those authorities, in particular the potential impact on the stability of the financial system in the Member States concerned referred to in Article 40(3) and the obligations referred to in Article 42a(2).
+
+The consolidating supervisor, subject to the confidentiality requirements under Chapter 1, Section 2, shall inform EBA of the activities of the college of supervisors, including in emergency situations, and communicate to EBA all information that is of particular relevance for the purposes of supervisory convergence.
+
+<a id="art_132"></a>
+
+### Article 132
+
+1. The competent authorities shall cooperate closely with each other. They shall provide one another with any information which is essential or relevant for the exercise of the other authorities' supervisory tasks under this Directive. In this regard, the competent authorities shall communicate on request all relevant information and shall communicate on their own initiative all essential information.
+
+The competent authorities shall cooperate with EBA for the purposes of this Directive, in accordance with Regulation (EU) No 1093/2010.
+
+The competent authorities shall provide EBA with all information necessary to carry out its duties under this Directive and under Regulation (EU) No 1093/2010, in accordance with Article 35 of that Regulation.
+
+Information referred to in the first subparagraph shall be regarded as essential if it could materially influence the assessment of the financial soundness of a credit institution or financial institution in another Member State.
+
+In particular, competent authorities responsible for consolidated supervision of EU parent credit institutions and credit institutions controlled by EU parent financial holding companies shall provide the competent authorities in other Member States who supervise subsidiaries of these parents with all relevant information. In determining the extent of relevant information, the importance of these subsidiaries within the financial system in those Member States shall be taken into account.
+
+The essential information referred to in the first subparagraph shall include, in particular, the following items:
+
+(a) identification of the group structure of all major credit institutions in a group, as well as of the competent authorities of the credit institutions in the group;
+
+(b) procedures for the collection of information from the credit institutions in a group, and the verification of that information;
+
+(c) adverse developments in credit institutions or in other entities of a group, which could seriously affect the credit institutions; and
+
+(d) major sanctions and exceptional measures taken by competent authorities in accordance with this Directive, including the imposition of an additional capital charge under ►M7 Article 136(1)** ◄ ** and the imposition of any limitation on the use of the Advanced Measurement Approach for the calculation of the own funds requirements under Article 105.
+
+The competent authorities may refer to EBA situations where:
+
+(a) a competent authority has not communicated essential information, or
+
+(b) a request for cooperation, in particular to exchange relevant information, has been rejected or has not been acted upon within a reasonable time.
+
+Without prejudice to Article 258 TFEU, EBA may, in situations referred to in the seventh subparagraph, act in accordance with the powers conferred on it under Article 19 of Regulation (EU) No 1093/2010.
+
+2. The competent authorities responsible for the supervision of credit institutions controlled by an EU parent credit institution shall whenever possible contact the competent authority referred to in Article 129(1) when they need information regarding the implementation of approaches and methodologies set out in this Directive that may already be available to that competent authority.
+
+3. The competent authorities concerned shall, prior to their decision, consult each other with regard to the following items, where these decisions are of importance for other competent authorities' supervisory tasks:
+
+(a) changes in the shareholder, organisational or management structure of credit institutions in a group, which require the approval or authorisation of competent authorities; and
+
+(b) major sanctions or exceptional measures taken by competent authorities, including the imposition of an additional capital charge under ►M7 Article 136(1)** ◄ ** and the imposition of any limitation on the use of the Advances Measurement Approaches for the calculation of the own funds requirements under Article 105.
+
+For the purposes of point (b), the competent authority responsible for supervision on a consolidated basis shall always be consulted.
+
+However, a competent authority may decide not to consult in cases of urgency or where such consultation may jeopardise the effectiveness of the decisions. In this case, the competent authority shall, without delay, inform the other competent authorities.
+
+<a id="art_133"></a>
+
+### Article 133
+
+1. The competent authorities responsible for supervision on a consolidated basis shall, for the purposes of supervision, require full consolidation of all the credit institutions and financial institutions which are subsidiaries of a parent undertaking.
+
+However, the competent authorities may require only proportional consolidation where, in their opinion, the liability of a parent undertaking holding a share of the capital is limited to that share of the capital in view of the liability of the other shareholders or members whose solvency is satisfactory. The liability of the other shareholders and members shall be clearly established, if necessary by means of formal signed commitments.
+
+In the case where undertakings are linked by a relationship within the meaning of Article 12(1) of Directive 83/349/EEC, the competent authorities shall determine how consolidation is to be carried out.
+
+2. The competent authorities responsible for supervision on a consolidated basis shall require the proportional consolidation of participations in credit institutions and financial institutions managed by an undertaking included in the consolidation together with one or more undertakings not included in the consolidation, where those undertakings' liability is limited to the share of the capital they hold.
+
+3. In the case of participations or capital ties other than those referred to in paragraphs 1 and 2, the competent authorities shall determine whether and how consolidation is to be carried out. In particular, they may permit or require use of the equity method. That method shall not, however, constitute inclusion of the undertakings concerned in supervision on a consolidated basis.
+
+<a id="art_134"></a>
+
+### Article 134
+
+1. Without prejudice to Article 133, the competent authorities shall determine whether and how consolidation is to be carried out in the following cases:
+
+(a) where, in the opinion of the competent authorities, a credit institution exercises a significant influence over one or more credit institutions or financial institutions, but without holding a participation or other capital ties in these institutions; and
+
+(b) where two or more credit institutions or financial institutions are placed under single management other than pursuant to a contract or clauses of their memoranda or Articles of association.
+
+In particular, the competent authorities may permit, or require use of, the method provided for in Article 12 of Directive 83/349/EEC. That method shall not, however, constitute inclusion of the undertakings concerned in consolidated supervision.
+
+2. Where consolidated supervision is required pursuant to Articles 125 and 126, ancillary services undertakings and asset management companies as defined in Directive 2002/87/EC shall be included in consolidations in the cases, and in accordance with the methods, laid down in Article 133 and paragraph 1 of this Article.
+
+<a id="art_135"></a>
+
+### Article 135
+
+The Member States shall require that persons who effectively direct the business of a financial holding company be of sufficiently good repute and have sufficient experience to perform those duties.
+
+<a id="art_136"></a>
+
+### Article 136
+
+1. Competent authorities shall require any credit institution that does not meet the requirements of this Directive to take the necessary actions or steps at an early stage to address the situation.
+
+For those purposes, the measures available to the competent authorities shall include the following:
+
+(a) obliging credit institutions to hold own funds in excess of the minimum level laid down in Article 75;
+
+(b) requiring the reinforcement of the arrangements, processes, mechanisms and strategies implemented to comply with Articles 22 and 123;
+
+(c) requiring credit institutions to apply a specific provisioning policy or treatment of assets in terms of own funds requirements;
+
+(d) restricting or limiting the business, operations or network of credit institutions; and
+
+(e) requiring the reduction of the risk inherent in the activities, products and systems of credit institutions;
+
+(f) requiring credit institutions to limit variable remuneration as a percentage of total net revenues when it is inconsistent with the maintenance of a sound capital base;
+
+(g) requiring credit institutions to use net profits to strengthen the capital base.
+
+The adoption of these measures shall be subject to Chapter 1, Section 2.
+
+2. A specific own funds requirement in excess of the minimum level laid down in Article 75 shall be imposed by the competent authorities at least on the credit institutions which do not meet the requirements laid down in Articles 22, 109 and 123, or in respect of which a negative determination has been made on the issue described in Article 124, paragraph 3, if the sole application of other measures is unlikely to improve the arrangements, processes, mechanisms and strategies sufficiently within an appropriate timeframe.
+
+For the purposes of determining the appropriate level of own funds on the basis of the review and evaluation carried out in accordance with Article 124, the competent authorities shall assess whether any imposition of a specific own funds requirement in excess of the minimum level is required to capture risks to which a credit institution is or might be exposed, taking into account the following:
+
+(a) the quantitative and qualitative aspects of the credit institutions’ assessment process referred to in Article 123;
+
+(b) the credit institutions’ arrangements, processes and mechanisms referred to in Article 22;
+
+(c) the outcome of the review and evaluation carried out in accordance with Article 124.
+
+<a id="art_137"></a>
+
+### Article 137
+
+1. Pending further coordination of consolidation methods, Member States shall provide that, where the parent undertaking of one or more credit institutions is a mixed-activity holding company, the competent authorities responsible for the authorisation and supervision of those credit institutions shall, by approaching the mixed-activity holding company and its subsidiaries either directly or via credit institution subsidiaries, require them to supply any information which would be relevant for the purpose of supervising the credit institution subsidiaries.
+
+2. Member States shall provide that their competent authorities may carry out, or have carried out by external inspectors, on-the-spot inspections to verify information received from mixed-activity holding companies and their subsidiaries. If the mixed-activity holding company or one of its subsidiaries is an insurance undertaking, the procedure laid down in Article 140(1) may also be used. If a mixed-activity holding company or one of its subsidiaries is situated in a Member State other than that in which the credit institution subsidiary is situated, on-the-spot verification of information shall be carried out in accordance with the procedure laid down in Article 141.
+
+<a id="art_138"></a>
+
+### Article 138
+
+1. Without prejudice to Chapter 2, Section 5, Member States shall provide that, where the parent undertaking of one or more credit institutions is a mixed-activity holding company, the competent authorities responsible for the supervision of these credit institutions shall exercise general supervision over transactions between the credit institution and the mixed-activity holding company and its subsidiaries.
+
+2. Competent authorities shall require credit institutions to have in place adequate risk management processes and internal control mechanisms, including sound reporting and accounting procedures, in order to identify, measure, monitor and control transactions with their parent mixed-activity holding company and its subsidiaries appropriately. Competent authorities shall require the reporting by the credit institution of any significant transaction with these entities other than the one referred to in Article 110. These procedures and significant transactions shall be subject to overview by the competent authorities.
+
+Where these intra-group transactions are a threat to a credit institution's financial position, the competent authority responsible for the supervision of the institution shall take appropriate measures.
+
+<a id="art_139"></a>
+
+### Article 139
+
+1. Member States shall take the necessary steps to ensure that there are no legal impediments preventing the exchange, as between undertakings included within the scope of supervision on a consolidated basis, mixed-activity holding companies and their subsidiaries, or subsidiaries of the kind covered in Article 127(3), of any information which would be relevant for the purposes of supervision in accordance with Articles 124 to 138 and this Article.
+
+2. Where a parent undertaking and any of its subsidiaries that are credit institutions are situated in different Member States, the competent authorities of each Member State shall communicate to each other all relevant information which may allow or aid the exercise of supervision on a consolidated basis.
+
+Where the competent authorities of the Member State in which a parent undertaking is situated do not themselves exercise supervision on a consolidated basis pursuant to Articles 125 and 126, they may be invited by the competent authorities responsible for exercising such supervision to ask the parent undertaking for any information which would be relevant for the purposes of supervision on a consolidated basis and to transmit it to these authorities.
+
+3. Member States shall authorise the exchange between their competent authorities of the information referred to in paragraph 2, on the understanding that, in the case of financial holding companies, financial institutions or ancillary services undertakings, the collection or possession of information shall not in any way imply that the competent authorities are required to play a supervisory role in relation to those institutions or undertakings standing alone.
+
+Similarly, Member States shall authorise their competent authorities to exchange the information referred to in Article 137 on the understanding that the collection or possession of information does not in any way imply that the competent authorities play a supervisory role in relation to the mixed-activity holding company and those of its subsidiaries which are not credit institutions, or to subsidiaries of the kind covered in Article 127(3).
+
+<a id="art_140"></a>
+
+### Article 140
+
+1. Where a credit institution, financial holding company or a mixed-activity holding company controls one or more subsidiaries which are insurance companies or other undertakings providing investment services which are subject to authorisation, the competent authorities and the authorities entrusted with the public task of supervising insurance undertakings or those other undertakings providing investment services shall cooperate closely. Without prejudice to their respective responsibilities, those authorities shall provide one another with any information likely to simplify their task and to allow supervision of the activity and overall financial situation of the undertakings they supervise.
+
+2. Information received, in the framework of supervision on a consolidated basis, and in particular any exchange of information between competent authorities which is provided for in this Directive, shall be subject to the obligation of professional secrecy defined in Chapter 1, Section 2.
+
+3. The competent authorities responsible for supervision on a consolidated basis shall establish lists of the financial holding companies referred to in Article 71(2). Those lists shall be communicated to the competent authorities of the other Member States, to EBA and to the Commission.
+
+<a id="art_141"></a>
+
+### Article 141
+
+Where, in applying this Directive, the competent authorities of one Member State wish in specific cases to verify the information concerning a credit institution, a financial holding company, a financial institution, an ancillary services undertaking, a mixed-activity holding company, a subsidiary of the kind covered in Article 137 or a subsidiary of the kind covered in Article 127(3), situated in another Member State, they shall ask the competent authorities of that other Member State to have that verification carried out. The authorities which receive such a request shall, within the framework of their competence, act upon it either by carrying out the verification themselves, by allowing the authorities who made the request to carry it out, or by allowing an auditor or expert to carry it out.1 The competent authority which made the request may, if it so wishes, participate in the verification when it does not carry out the verification itself.
+
+<a id="art_142"></a>
+
+### Article 142
+
+Without prejudice to their criminal law provisions, Member States shall ensure that penalties or measures aimed at ending observed breaches or the causes of such breaches may be imposed on financial holding companies and mixed-activity holding companies, or their effective managers, that infringe laws, regulation or administrative provisions enacted to implement Articles 124 to 141 and this Article. The competent authorities shall cooperate closely to ensure that those penalties or measures produce the desired results, especially when the central administration or main establishment of a financial holding company or of a mixed-activity holding company is not located at its head office.
+
+<a id="art_143"></a>
+
+### Article 143
+
+1. Where a credit institution, the parent undertaking of which is a credit institution or a financial holding company, the head office of which is in a third country, is not subject to consolidated supervision under Articles 125 and 126, the competent authorities shall verify whether the credit institution is subject to consolidated supervision by a third-country competent authority which is equivalent to that governed by the principles laid down in this Directive.
+
+The verification shall be carried out by the competent authority which would be responsible for consolidated supervision if paragraph 3 were to apply, at the request of the parent undertaking or of any of the regulated entities authorised in the Community or on its own initiative. That competent authority shall consult the other competent authorities involved.
+
+2. The Commission may request the European Banking Committee to give general guidance as to whether the consolidated supervision arrangements of competent authorities in third countries are likely to achieve the objectives of consolidated supervision as defined in this Chapter, in relation to credit institutions, the parent undertaking of which has its head office in a third country . The Committee shall keep any such guidance under review and take into account any changes to the consolidated supervision arrangements applied by such competent authorities.►M10 EBA shall assist the Commission and the European Banking Committee in carrying out those tasks, including as to whether such guidance should be updated.** ◄ **
+
+The competent authority carrying out the verification referred to in the first subparagraph of paragraph 1 shall take into account any such guidance. For that purpose, the competent authority shall consult EBA before adopting a decision.
+
+3. In the absence of such equivalent supervision, Member States shall apply the provisions of this Directive to the credit institution by analogy or shall allow their competent authorities to apply other appropriate supervisory techniques which achieve the objectives of supervision on a consolidated basis of credit institutions.
+
+Those supervisory techniques shall, after consultation with the other competent authorities involved, be agreed upon by the competent authority which would be responsible for consolidated supervision.
+
+Competent authorities may in particular require the establishment of a financial holding company which has its head office in the Community, and apply the provisions on consolidated supervision to the consolidated position of that financial holding company.
+
+The supervisory techniques shall be designed to achieve the objectives of consolidated supervision as defined in this Chapter and shall be notified to the other competent authorities involved, EBA and the Commission.
+
+## Section 2
+
+### Disclosure by competent authorities
+
+<a id="art_144"></a>
+
+### Article 144
+
+Competent authorities shall disclose the following information:
+
+(a) the texts of laws, regulations, administrative rules and general guidance adopted in their Member State in the field of prudential regulation;
+
+(b) the manner of exercise of the options and discretions available in Community legislation;
+
+(c) the general criteria and methodologies they use in the review and evaluation referred to in Article 124; and
+
+(d) without prejudice to the provisions laid down in Chapter 1, Section 2, aggregate statistical data on key aspects of the implementation of the prudential framework in each Member State.
+
+The disclosures provided for in the first subparagraph shall be sufficient to enable a meaningful comparison of the approaches adopted by the competent authorities of the different Member States. The disclosures shall be published with a common format, and updated regularly. The disclosures shall be accessible at a single electronic location.
+
+In order to ensure uniform conditions of application of this Article, EBA shall develop draft implementing technical standards to determine the format, structure, contents list and annual publication date of the disclosures provided for in this Article. EBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the third paragraph in accordance with Article 15 of Regulation (EU) No 1093/2010.
+
+## CHAPTER 5
+
+### Disclosure by credit institutions
+
+<a id="art_145"></a>
+
+### Article 145
+
+1. For the purposes of this Directive, credit institutions shall publicly disclose the information laid down in Annex XII, Part 2, subject to the provisions laid down in Article 146.
+
+2. Recognition by the competent authorities under Chapter 2, Section 3, Subsections 2 and 3 and Article 105 of the instruments and methodologies referred to in Annex XII, Part 3 shall be subject to the public disclosure by credit institutions of the information laid down therein.
+
+3. Credit institutions shall adopt a formal policy to comply with the disclosure requirements laid down in paragraphs 1 and 2, and have policies for assessing the appropriateness of their disclosures, including their verification and frequency. Credit institutions shall also have policies for assessing whether their disclosures convey their risk profile comprehensively to market participants.
+
+Where those disclosures do not convey the risk profile comprehensively to market participants, credit institutions shall publicly disclose the information necessary in addition to that required in accordance with paragraph 1. However, they shall only be required to disclose information which is material and not proprietary or confidential in accordance with the technical criteria set out in Part 1 of Annex XII.
+
+4. Credit institutions should, if requested, explain their rating decisions to SMEs and other corporate applicants for loans, providing an explanation in writing when asked. Should a voluntary undertaking by the sector in this regard prove inadequate, national measures shall be adopted. The administrative costs of the explanation have to be at an appropriate rate to the size of the loan.
+
+<a id="art_146"></a>
+
+### Article 146
+
+1. Notwithstanding Article 145, credit institutions may omit one or more of the disclosures listed in Annex XII, Part 2 if the information provided by such disclosures is not, in the light of the criterion specified in Annex XII, Part 1, point 1, regarded as material.
+
+2. Notwithstanding Article 145, credit institutions may omit one or more items of information included in the disclosures listed in Annex XII, Parts 2 and 3 if those items include information which, in the light of the criteria specified in Annex XII, Part 1, points 2 and 3, is regarded as proprietary or confidential.
+
+3. In the exceptional cases referred to in paragraph 2, the credit institution concerned shall state in its disclosures the fact that the specific items of information are not disclosed, the reason for non-disclosure, and publish more general information about the subject matter of the disclosure requirement, except where these are to be classified as proprietary or confidential under the criteria set out in Annex XII, Part 1, points 2 and 3.
+
+<a id="art_147"></a>
+
+### Article 147
+
+1. Credit institutions shall publish the disclosures required under Article 145 on an annual basis at a minimum. Disclosures shall be published as soon as practicable.
+
+2. Credit institutions shall also determine whether more frequent publication than is provided for in paragraph 1 is necessary in the light of the criteria set out in Annex XII, Part 1, point 4.
+
+<a id="art_148"></a>
+
+### Article 148
+
+1. Credit institutions may determine the appropriate medium, location and means of verification to comply effectively with the disclosure requirements laid down in Article 145. To the degree feasible, all disclosures shall be provided in one medium or location.
+
+2. Equivalent disclosures made by credit institutions under accounting, listing or other requirements may be deemed to constitute compliance with Article 145. If disclosures are not included in the financial statements, credit institutions shall indicate where they can be found.
+
+<a id="art_149"></a>
+
+### Article 149
+
+Notwithstanding Articles 146 to 148, Member States shall empower the competent authorities to require credit institutions:
+
+(a) to make one or more of the disclosures referred to in Annex XII, Parts 2 and 3;
+
+(b) to publish one or more disclosures more frequently than annually, and to set deadlines for publication;
+
+(c) to use specific media and locations for disclosures other than the financial statements; and
+
+(d) to use specific means of verification for the disclosures not covered by statutory audit.
+
+## TITLE VI
+
+### **DELEGATED ACTS AND POWERS OF EXECUTION**
+
+<a id="art_150"></a>
+
+### Article 150
+
+1. Without prejudice, as regards own funds, to the proposal that the Commission is to submit pursuant to Article 62, the technical adjustments in the following areas shall be adopted by means of delegated acts in accordance with Article 151a, and subject to the conditions of Articles 151b and 151c:
+
+(a) clarification of the definitions to ensure uniform application of this Directive;
+
+(b) clarification of the definitions in order to take account, in the application of this Directive, of developments on financial markets;
+
+(c) the alignment of terminology on, and the framing of definitions in accordance with, subsequent acts on credit institutions and related matters;
+
+(d) expansion of the content of the list referred to in Articles 23 and 24 and set out in Annex I or adaptation of the terminology used in that list to take account of developments on financial markets;
+
+(e) the areas in which the competent authorities shall exchange information as listed in Article 42;
+
+(f) technical adjustments in Articles 56 to 67 and in Article 74 as a result of developments in accounting standards or requirements which take account of Union legislation or with regard to the convergence of supervisory practices;
+
+(g) amendment of the list of exposure classes in Articles 79 and 86 in order to take account of developments on financial markets;
+
+(h) the amount specified in Article 79(2)(c), Article 86(4)(a), Annex VII, Part 1, point 5 and Annex VII, Part 2, point 15, to take into account the effects of inflation;
+
+(i) the list and classification of off-balance sheet items in Annexes II and IV;
+
+(j) adjustment of the provisions in Annexes III and V to XII in order to take account of developments on financial markets (in particular new financial products) or in accounting standards or requirements which take account of Union legislation, or with regard to the convergence of supervisory practices.
+
+1a. The following measures shall be adopted in accordance with the regulatory procedure referred to in Article 151(2a):
+
+(a) technical adjustments to the list in Article 2;
+
+(b) alteration of the amount of initial capital prescribed in Article 9 to take account of developments in the economic and monetary field.
+
+The Commission may adopt the following measures:
+
+** ◄ **
+
+(a) specification of the size of sudden and unexpected changes in the interest rates referred to in Article 124(5);
+
+(b) a temporary reduction in the minimum level of own funds laid down in Article 75 and/or the risk weights laid down in Title V, Chapter 2, Section 3 in order to take account of specific circumstances;
+
+(c) clarification of exemptions provided for in Article 113;
+
+(d) specification of the key aspects on which aggregate statistical data are to be disclosed under Article 144(1)(d); or
+
+(e) specification of the format, structure, contents list and annual publication date of the disclosures provided for in Article 144;
+
+(f) adjustments of the criteria set out in Article 19a(1), in order to take account of future developments and to ensure the uniform application of this Directive.
+
+The measures referred to in points (a), (b), (c) and (f) of the first subparagraph shall be adopted by means of delegated acts in accordance with Article 151a, and subject to the conditions of Articles 151b and 151c. The measures referred to in points (d) and (e) of the first subparagraph shall be adopted in accordance with the regulatory procedure referred to in Article 151(2a).
+
+3. EBA shall develop draft implementing technical standards to ensure uniform conditions of application of this Directive with respect to the conditions of application of:
+
+(a) points 15 to 17 of Annex V;
+
+(b) point 23(l) of Annex V as regards the criteria to determine the appropriate ratios between fixed and the variable component of the total remuneration and of point 23(o)(ii) of Annex V as regards specifying the classes of instruments that satisfy the conditions laid down in that point.
+
+(c) Part 2 of Annex VI as regards the quantitative factors referred to in point 12, the qualitative factors referred to in point 13 and the benchmark referred to in point 14;
+
+EBA shall submit those draft implementing technical standards to the Commission by 1 January 2014.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with the procedure laid down in Article 15 of Regulation (EU) No 1093/2010.
+
+<a id="art_151"></a>
+
+### Article 151
+
+1. The Commission shall be assisted by the European Banking Committee established by Commission Decision 2004/10/EC (32).
+
+2a. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+<a id="art_151a"></a>
+
+### Article 151a — Exercise of the delegation
+
+1. The power to adopt delegated acts referred to in Article 150(1) and the first sentence of the second subparagraph of Article 150(2) shall be conferred on the Commission for a period of 4 years from 15 December 2010. The Commission shall draw up a report in respect of the delegated power at the latest 6 months before the end of the four-year period. The delegation of power shall be automatically extended for periods of an identical duration, unless the European Parliament or the Council revokes it in accordance with Article 151b.
+
+2. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+3. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in Articles 151b and 151c.
+
+<a id="art_151b"></a>
+
+### Article 151b — Revocation of the delegation
+
+1. The delegation of power referred to in Article 150(1) and the first sentence of the second subparagraph of Article 150(2) may be revoked at any time by the European Parliament or by the Council.
+
+2. The institution which has commenced an internal procedure for deciding whether to revoke a delegation of power shall endeavour to inform the other institution and the Commission within a reasonable time before the final decision is taken, indicating the delegated power which could be subject to revocation.
+
+3. The decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect immediately or at a later date specified therein. It shall not affect the validity of the delegated acts already in force. It shall be published in the *Official Journal of the European Union*.
+
+<a id="art_151c"></a>
+
+### Article 151c — Objections to delegated acts
+
+1. The European Parliament or the Council may object to a delegated act within a period of 3 months from the date of notification. At the initiative of the European Parliament or the Council that period shall be extended by 3 months.
+
+2. If, on the expiry of the period referred to in paragraph 1, neither the European Parliament nor the Council has objected to the delegated act, it shall be published in the *Official Journal of the European Union* and shall enter into force on the date stated therein. The delegated act may be published in the *Official Journal of the European Union* and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.
+
+3. If either the European Parliament or the Council objects to the delegated act within the period referred to in paragraph 1, it shall not enter into force. In accordance with Article 296 TFEU, the institution which objects shall state the reasons for objecting to the delegated act.
+
+## CHAPTER 1
+
+### Transitional provisions
+
+<a id="art_152"></a>
+
+### Article 152
+
+1. Credit institutions calculating risk-weighted exposure amounts in accordance with Articles 84 to 89 shall during the first, second and third twelve-month periods after 31 December 2006 provide own funds which are at all times more than or equal to the amounts indicated in paragraphs 3, 4 and 5.
+
+2. Credit institutions using the Advanced Measurement Approaches as specified in Article 105 for the calculation of their capital requirements for operational risk shall, during the second and third twelve-month periods after 31 December 2006, provide own funds which are at all times more than or equal to the amounts indicated in paragraphs 4 and 5.
+
+3. For the first twelve-month period referred to in paragraph 1, the amount of own funds shall be 95 % of the total minimum amount of own funds that would be required to be held during that period by the credit institution under Article 4 of Council Directive 93/6/EEC of 15 March 1993 on the capital adequacy of investment firms and credit institutions (33) as that Directive and Directive 2000/12/EC stood prior to 1 January 2007.
+
+4. For the second twelve-month period referred to in paragraph 1, the amount of own funds shall be 90 % of the total minimum amount of own funds that would be required to be held during that period by the credit institution under Article 4 of Directive 93/6/EEC as that Directive and Directive 2000/12/EC stood prior to 1 January 2007.
+
+5. For the third twelve-month period referred to in paragraph 1, the amount of own funds shall be 80 % of the total minimum amount of own funds that would be required to be held during that period by the credit institution under Article 4 of Directive 93/6/EEC as that Directive and Directive 2000/12/EC stood prior .to 1 January 2007.
+
+5a. Credit institutions calculating risk-weighted exposure amounts in accordance with Articles 84 to 89 shall until 31 December 2011 provide own funds which are at all times more than or equal to the amount indicated in paragraph 5c or paragraph 5d if applicable.
+
+5b. Credit institutions using the Advanced Measurement Approaches as specified in Article 105 for the calculation of their capital requirements for operational risk shall until 31 December 2011 provide own funds which are at all times more than or equal to the amount indicated in paragraph 5c or 5d if applicable.
+
+5c. The amount referred to in paragraphs 5a and 5b shall be 80 % of the total minimum amount of own funds that the credit institutions would be required to hold under Article 4 of Directive 93/6/EEC and Directive 2000/12/EC, as applicable prior to 1 January 2007.
+
+5d. Subject to the approval of the competent authorities, for credit institutions referred to in paragraph 5e, the amount referred to in paragraphs 5a and 5b may amount to up to 80 % of the total minimum amount of own funds that those credit institutions would be required to hold under any of Articles 78 to 83, 103 or 104 and Directive 2006/49/EC, as applicable prior to 1 January 2011.
+
+5e. A credit institution may apply paragraph 5d only if it started to use the IRB Approach or the Advanced Measurement Approaches for the calculation of its capital requirements on or after 1 January 2010.
+
+6. Compliance with the requirements of paragraphs 1 to 5 shall be on the basis of amounts of own funds fully adjusted to reflect differences in the calculation of own funds under Directive 2000/12/EC and Directive 93/6/EEC as those Directives stood prior to 1 January 2007 and the calculation of own funds under this Directive deriving from the separate treatments of expected loss and unexpected loss under Articles 84 to 89 of this Directive.
+
+7. For the purposes of paragraphs 1 to 6 of this Article, Articles 68 to 73 shall apply.
+
+8. Until 1 January 2008 credit institutions may treat the Articles constituting the Standardised Approach set out in Title V, Chapter 2, Section 3, Subsection 1 as being replaced by Articles 42 to 46 of Directive 2000/12/EC as those Articles stood prior to 1 January 2007.
+
+9. Where the discretion referred to in paragraph 8 is exercised, the following shall apply concerning the provisions of Directive 2000/12/EC:
+
+(a) the provisions of that Directive referred to in Articles 42 to 46 shall apply as they stood prior to 1 January 2007;
+
+(b) ‘risk-adjusted value’ as referred to in Article 42(1) of that Directive shall mean ‘risk-weighted exposure amount’;
+
+(c) the figures produced by Article 42(2) of that Directive shall be considered risk-weighted exposure amounts;
+
+(d) ‘credit derivatives’ shall be included in the list of ‘Full risk’ items in Annex II of that Directive; and
+
+(e) the treatment set out in Article 43(3) of that Directive shall apply to derivative instruments listed in Annex IV of that Directive whether on- or off-balance sheet and the figures produced by the treatment set out in Annex III shall be considered risk-weighted exposure amounts.
+
+10. Where the discretion referred to in paragraph 8 is exercised, the following shall apply in relation to the treatment of exposures for which the Standardised Approach is used:
+
+(a) Title V, Chapter 2, Section 3, Subsection 3 relating to the recognition of credit risk mitigation shall not apply;
+
+(b) Title V, Chapter 2, Section 3, Subsection 4 concerning the treatment of securitisation may be disapplied by competent authorities.
+
+11. Where the discretion referred to in paragraph 8 is exercised, the capital requirement for operational risk under Article 75(d) shall be reduced by the percentage representing the ratio of the value of the credit institution's exposures for which risk-weighted exposure amounts are calculated in accordance with the discretion referred to in paragraph 8 to the total value of its exposures.
+
+12. Where a credit institution calculates risk-weighted exposure amounts for all of its exposures in accordance with the discretion referred to in paragraph 8, Articles 48 to 50 of Directive 2000/12/EC relating to large exposures may apply as they stood prior to 1 January 2007.
+
+13. Where the discretion referred to in paragraph 8 is exercised, references to Articles 78 to 83 of this Directive shall be read as references to Articles 42 to 46 of Directive 2000/12/EC as those Articles stood prior to 1 January 2007.
+
+14. If the discretion referred to in paragraph 8 is exercised, Articles 123, 124, 145 and 149 shall not apply before the date referred to therein.
+
+<a id="art_153"></a>
+
+### Article 153
+
+In the calculation of risk-weighted exposure amounts for exposures arising from property leasing transactions concerning offices or other commercial premises situated in their territory and meeting the criteria set out in Annex VI, Part 1, point 54, the competent authorities may, until 31 December 2012 allow a 50 % risk weight to be assigned without the application of Annex VI, Part 1, points 55 and 56.
+
+Until 31 December 2010, competent authorities may, for the purpose of defining the secured portion of a past due loan for the purposes of Annex VI, recognise collateral other than eligible collateral as set out under Articles 90 to 93.
+
+In the calculation of risk weighted exposure amounts for the purposes of Annex VI, Part 1, point 4, until 31 December 2015 the same risk weight shall be assigned in relation to exposures to Member States' central governments or central banks denominated and funded in the domestic currency of any Member State as would be applied to such exposures denominated and funded in their domestic currency.
+
+<a id="art_154"></a>
+
+### Article 154
+
+1. Until 31 December 2011, the competent authorities of each Member State may, for the purposes of Annex VI, Part 1, point 61, set the number of days past due up to a figure of 180 for exposures indicated in Annex VI, Part 1, points 12 to 17 and 41 to 43, to counterparties situated in their territory, if local conditions make it appropriate. The specific number may differ across product lines.
+
+Competent authorities which do not exercise the discretion provided for in the first subparagraph in relation to exposures to counterparties situated in their territory may set a higher number of days for exposures to counterparties situated in the territories of other Member States, the competent authorities of which have exercised that discretion. The specific number shall fall within 90 days and such figures as the other competent authorities have set for exposures to such counterparties within their territory.
+
+2. For credit institutions applying for the use of the IRB Approach before 2010, subject to the approval of the competent authorities, the three-years' use requirement prescribed in Article 84(3) may be reduced to a period no shorter than one year until 31 December 2009.
+
+3. For credit institutions applying for the use of own estimates of LGDs and/or conversion factors, the three year use requirement prescribed in Article 84(4) may be reduced to two years until 31 December 2008.
+
+4. Until 31 December 2012, the competent authorities of each Member State may allow credit institutions to continue to apply to participations of the type set out in Article 57(o) acquired before 20 July 2006 the treatment set out in Article 38 of Directive 2000/12/EC as that article stood prior to 1 January 2007.
+
+5. Until 31 December 2012, the exposure weighted average LGD for all retail exposures secured by residential properties and not benefiting from guarantees from central governments shall not be lower than 10 %.
+
+6. Until 31 December 2017, the competent authorities of the Member States may exempt from the IRB treatment certain equity exposures held by credit institutions and EU subsidiaries of credit institutions in that Member State at 31 December 2007.
+
+The exempted position shall be measured as the number of shares as of 31 December 2007 and any additional share arising directly as a result of owning those holdings, as long as they do not increase the proportional share of ownership in a portfolio company.
+
+If an acquisition increases the proportional share of ownership in a specific holding the exceeding Part of the holding shall not be subject to the exemption. Nor shall the exemption apply to holdings that were originally subject to the exemption, but have been sold and then bought back.
+
+Equity exposures covered by this transitional provision shall be subject to the capital requirements calculated in accordance with Title V, Chapter 2, Section 3, Subsection 1.
+
+7. Until 31 December 2011, for corporate exposures, the competent authorities of each Member State may set the number of days past due that all credit institutions in its jurisdiction shall abide by under the definition of ‘default’ set out in Annex VII, Part 4, point 44 for exposures to such counterparts situated within this Member State. The specific number shall fall within 90- up to a figure of 180 days if local conditions make it appropriate. For exposures to such counterparts situated in the territories of other Member States, the competent authorities shall set a number of days past due which is not higher than the number set by the competent authority of the respective Member State.
+
+8. Credit institutions which do not comply by 31 December 2010 with the limits set out in Article 66(1a) shall develop strategies and processes on the necessary measures to resolve this situation before the dates set out in paragraph 9 of this Article.
+
+Those measures shall be reviewed under Article 124.
+
+9. Instruments that by 31 December 2010, according to national law were deemed equivalent to the items referred to in points (a), (b) and (c) of Article 57 but do not fall within Article 57(a) or do not comply with the criteria set out in Article 63a, shall be deemed to fall within Article 57(ca) until 31 December 2040, subject to the following limitations:
+
+(a) up to 20 % of the sum of Article 57(a) to (ca), less the sum of points (i), (j) and (k) of Article 57 between 10 and 20 years after 31 December 2010;
+
+(b) up to 10 % of the sum of Article 57(a) to (ca), less the sum of points (i), (j) and (k) of Article 57 between 20 and 30 years after 31 December 2010.
+
+The Committee of European Banking Supervisors shall monitor, until 31 December 2010, the issuance of those instruments.
+
+10. For the purpose of Section 5, assets items constituting claims on and other exposures to institutions incurred prior to 31 December 2009 shall continue to be subject to the same treatment as applied in accordance with Article 115(2) and Article 116 as they stood prior to 7 December 2009, however not longer than until 31 December 2012.
+
+11. Until 31 December 2012, the time period referred to in Article 129(3) shall be six months.
+
+<a id="art_155"></a>
+
+### Article 155
+
+Until 31 December 2012, for credit institutions the relevant indicator for the trading and sales business line of which represents at least 50 % of the total of the relevant indicators for all of its business lines accordance with Annex X, Part 2, points 1 to 4, Member States may apply a percentage of 15 % to the business line ‘trading and sales’.
+
+## CHAPTER 2
+
+### Final provisions
+
+<a id="art_156"></a>
+
+### Article 156
+
+The Commission, in cooperation with EBA and the Member States, and taking into account the contribution of the European Central Bank, shall periodically monitor whether this Directive, together with Directive 2006/49/EC, has significant effects on the economic cycle and, in the light of that examination, shall consider whether any remedial measures are justified.
+
+Based on that analysis and taking into account the contribution of the European Central Bank, the Commission shall draw up a biennial report and submit it to the European Parliament and to the Council, together with any appropriate proposals. Contributions from credit taking and credit lending parties shall be adequately acknowledged when the report is drawn up.
+
+By 31 December 2009, the Commission shall review this Directive as a whole to address the need for better analysis of and response to macro-prudential problems, including the examination of:
+
+(a) measures that mitigate the ups and downs of the business cycle, including the need for credit institutions to build counter-cyclical buffers in good times that can be used during a downturn;
+
+(b) the rationale underlying the calculation of capital requirements in this Directive; and
+
+(c) supplementary measures to risk-based requirements for credit institutions, to help constrain the build-up of leverage in the banking system.
+
+By 1 April 2013 the Commission shall review and report on the provisions on remuneration, including those set out in Annexes V and XII, with particular regard to their efficiency, implementation and enforcement, taking into account international developments. That review shall identify any lacunae arising from the application of the principle of proportionality to those provisions. The Commission shall submit its report to the European Parliament and the Council together with any appropriate proposals.
+
+In order to ensure consistency and a level playing field, the Commission shall review the implementation of Article 54 with regard to the consistency of the penalties and other measures imposed and applied across the Union and, if appropriate, shall put forward proposals.
+
+The Commission’s periodic review of the application of this Directive shall ensure that the way it is applied does not result in manifest discrimination between credit institutions on the basis of their legal structure or ownership model.
+
+In order to ensure consistency in the prudential approach to capital, the Commission shall review the relevance of the reference to instruments within the meaning of Article 66(1a)(a) in point 23(o)(ii) of Annex V as soon as it takes an initiative to review the definition of capital instruments as provided for in Articles 56 to 67.
+
+The Commission shall submit a report on the above issues to the European Parliament and to the Council with any appropriate proposals.
+
+The Commission shall, as soon as possible and in any event by 31 December 2009 present to the European Parliament and the Council a report on the need for further reform of the supervisory system, including relevant Articles of this Directive, and, in accordance with the applicable procedure under the Treaty, any appropriate legislative proposal.
+
+By 1 January 2011, the Commission shall review the progress made by the ►M10 EBA** ◄ ** towards uniform formats, frequencies and dates of reporting referred to in Article 74(2). In light of that review, the Commission shall report to the European Parliament and the Council.
+
+By 31 December 2011, the Commission shall review and report on the application of this Directive with particular attention to all aspects of Articles 68 to 73, 80(7), 80(8) and its application to microcredit finance and shall submit this report to the European Parliament and the Council together with any appropriate proposals.
+
+By 31 December 2011 the Commission shall review and report on the application of Article 113(4) including whether exemptions should be a matter of national discretion and shall submit this report to the European Parliament and the Council together with any appropriate proposals. With respect to the potential elimination of the national discretion under Article 113(4)(c) and its potential application at the EU level, the review shall in particular take into account the efficiency of group's risk management while ensuring that sufficient safeguards are in place to ensure financial stability in all Member States in which an entity of a group is incorporated.
+
+By 31 December 2009 the Commission shall review and report on measures to enhance transparency of OTC markets, including the credit default swap markets, such as by clearing through central counterparties, and shall submit this report to the European Parliament and the Council together with any appropriate proposals.
+
+By 31 December 2009 the Commission shall report on the expected impact of Article 122a, and shall submit that report to the European Parliament and the Council, together with any appropriate proposal. The Commission shall draw up its report after consulting the ►M10 EBA** ◄ **. The report shall consider, in particular, whether the minimum retention requirement under Article 122a(1) delivers the objective of better alignment between the interests of originators or sponsors and investors and strengthens financial stability, and whether an increase of the minimum level of retention would be appropriate taking into account international developments.
+
+By 1 January 2012, the Commission shall report to the European Parliament and the Council on the application and effectiveness of Article 122a in the light of international market developments.
+
+<a id="art_156a"></a>
+
+### Article 156a
+
+By 31 December 2011 the Commission shall review and report on the desirability of changes to align Annex IX of this Directive taking into consideration international agreements regarding the capital requirements of credit institutions for securitisation positions. The Commission shall submit that report to the European Parliament and the Council together with any appropriate legislative proposals.
+
+<a id="art_157"></a>
+
+### Article 157
+
+1. By 31 December 2006 Member States shall adopt and publish the laws, regulations and administrative provisions necessary to comply with Articles 4, 22, 57, 61 to 64, 66, 68 to 106, 108, 110 to 115, 117 to 119, 123 to 127, 129 to 132, 133, 136, 144 to 149 and 152 to 155, and Annexes II, III and V to XII. They shall forthwith communicate to the Commission the text of those provisions and a correlation table between those provisions and this Directive.
+
+Notwithstanding paragraph 3, Member States shall apply those provisions from 1 January 2007.
+
+When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. They shall also include a statement that references in existing laws, regulations and administrative provisions to the directives repealed by this Directive shall be construed as references to this Directive. Member States shall determine how such reference is to be made and how that statement is to be formulated.
+
+2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.
+
+3. Member States shall apply, from 1 January 2008, and no earlier, the laws regulations and administrative provisions necessary to comply with Articles 87(9) and 105.
+
+<a id="art_158"></a>
+
+### Article 158
+
+1. Directive 2000/12/EC as amended by the Directives set out in Annex XIII, Part A, is hereby repealed without prejudice to the obligations of the Member States concerning the deadlines for transposition of the said Directives listed in Annex XIII, Part B.
+
+2. References to the repealed Directives shall be construed as being made to this Directive and should be read in accordance with the correlation table in Annex XIV.
+
+<a id="art_159"></a>
+
+### Article 159
+
+This Directive shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.
+
+<a id="art_160"></a>
+
+### Article 160
+
+This Directive is addressed to the Member States.
+
+<a id="anx_i"></a>
+
+### ANNEX I
+
+
+
+<a id="list_of_activities_subject_to_mutual_recognition"></a>
+
+### LIST OF ACTIVITIES SUBJECT TO MUTUAL RECOGNITION
+
+1. Acceptance of deposits and other repayable funds
+
+2. Lending including, inter alia: consumer credit, mortgage credit, factoring, with or without recourse, financing of commercial transactions (including forfeiting)
+
+3. Financial leasing
+
+4. Payment services as defined in Article 4(3) of Directive 2007/64/EC of the European Parliament and of the Council of 13 November 2007 on payment services in the internal market (34)
+
+5. Issuing and administering other means of payment (e.g. travellers' cheques and bankers' drafts) insofar as this activity is not covered by point 4
+
+6. Guarantees and commitments
+
+7. Trading for own account or for account of customers in:
+
+(a) money market instruments (cheques, bills, certificates of deposit, etc.);
+
+(b) foreign exchange;
+
+(c) financial futures and options;
+
+(d) exchange and interest-rate instruments; or
+
+(e) transferable securities.
+
+8. Participation in securities issues and the provision of services related to such issues
+
+9. Advice to undertakings on capital structure, industrial strategy and related questions and advice as well as services relating to mergers and the purchase of undertakings
+
+10. Money broking
+
+11. Portfolio management and advice
+
+12. Safekeeping and administration of securities
+
+13. Credit reference services
+
+14. Safe custody services
+
+The services and activities provided for in Sections A and B of Annex I to Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments (35), when referring to the financial instruments provided for in Section C of Annex I of that Directive, are subject to mutual recognition according to this Directive.
+
+15. Issuing electronic money.
+
+<a id="anx_ii"></a>
+
+### ANNEX II
+
+
+
+<a id="classification_of_off_balance_sheet_items"></a>
+
+### CLASSIFICATION OF OFF-BALANCE-SHEET ITEMS
+
+Full risk:
+
+— Guarantees having the character of credit substitutes,
+
+— Credit derivatives,
+
+— Acceptances,
+
+— Endorsements on bills not bearing the name of another credit institution,
+
+— Transactions with recourse,
+
+— Irrevocable standby letters of credit having the character of credit substitutes,
+
+— Assets purchased under outright forward purchase agreements,
+
+— Forward forward deposits,
+
+— The unpaid portion of partly-paid shares and securities,
+
+— Asset sale and repurchase agreements as defined in Article 12(3) and (5) of Directive 86/635/EEC, and
+
+— Other items also carrying full risk.
+
+Medium risk:
+
+— Documentary credits issued and confirmed (see also ‘Medium/low risk’),
+
+— Warranties and indemnities (including tender, performance, customs and tax bonds) and guarantees not having the character of credit substitutes,
+
+— Irrevocable standby letters of credit not having the character of credit substitutes,
+
+— Undrawn credit facilities (agreements to lend, purchase securities, provide guarantees or acceptance facilities) with an original maturity of more than one year,
+
+— Note issuance facilities (NIFs) and revolving underwriting facilities (RUFs), and
+
+— Other items also carrying medium risk and as communicated to the Commission.
+
+Medium/low risk:
+
+— Documentary credits in which underlying shipment acts as collateral and other self-liquidating transactions,
+
+— Undrawn credit facilities (agreements to lend, purchase securities, provide guarantees or acceptance facilities) with an original maturity of up to and including one year which may not be cancelled unconditionally at any time without notice or that do not effectively provide for automatic cancellation due to deterioration in a borrower's creditworthiness, and
+
+— Other items also carrying medium/low risk and as communicated to the Commission.
+
+Low risk:
+
+— Undrawn credit facilities (agreements to lend, purchase securities, provide guarantees or acceptance facilities) which may be cancelled unconditionally at any time without notice, or that do effectively provide for automatic cancellation due to deterioration in a borrower's creditworthiness. Retail credit lines may be considered as unconditionally cancellable if the terms permit the credit institution to cancel them to the full extent allowable under consumer protection and related legislation, and
+
+— Other items also carrying low risk and as communicated to the Commission.
+
+<a id="anx_iii"></a>
+
+### ANNEX III
+
+
+
+<a id="the_treatment_of_counterparty_credit_risk_of_derivative_instruments_repurchase_transactions_securities_orcommodities_lending_or_borrowing_transactions_long_settlement_transactions_and_margin_lending_transactions"></a>
+
+### THE TREATMENT OF COUNTERPARTY CREDIT RISK OF DERIVATIVE INSTRUMENTS, REPURCHASE TRANSACTIONS, SECURITIES ORCOMMODITIES LENDING OR BORROWING TRANSACTIONS, LONG SETTLEMENT TRANSACTIONS AND MARGIN LENDING TRANSACTIONS
+
+PART 1
+
+Definitions
+
+For the purposes of this Annex the following definitions shall apply:
+
+General terms
+
+1. ‘Counterparty Credit Risk (CCR)’ means the risk that the counterparty to a transaction could default before the final settlement of the transaction's cash flows.
+
+2. ‘Central counterparty’ means an entity that legally interposes itself between counterparties to contracts traded within one or more financial markets, becoming the buyer to every seller and the seller to every buyer.
+
+Transaction types
+
+3. ‘Long Settlement Transactions’ mean transactions where a counterparty undertakes to deliver a security, a commodity, or a foreign exchange amount against cash, other financial instruments, or commodities, or vice versa, at a settlement or delivery date that is contractually specified as more than the lower of the market standard for this particular transaction and five business days after the date on which the credit institution enters into the transaction.
+
+4. ‘Margin Lending Transactions’ mean transactions in which a credit institution extends credit in connection with the purchase, sale, carrying or trading of securities. Margin lending transactions do not include other loans that happen to be secured by securities collateral.
+
+Netting sets, hedging sets, and related terms
+
+5. ‘Netting Set’ means a group of transactions with a single counterparty that are subject to a legally enforceable bilateral netting arrangement and for which netting is recognised under Part 7 of this Annex and Articles 90 to 93. Each transaction that is not subject to a legally enforceable bilateral netting arrangement, which is recognised under Part 7 of this Annex, should be interpreted as its own netting set for the purpose of this Annex.►M7 Under the method set out in Part 6 of this Annex (IMM), all netting sets with a single counterparty may be treated as single netting set if negative simulated market values of the individual netting sets are set to 0 in the estimation of expected exposure (EE).** ◄ **
+
+6. ‘Risk Position’ means a risk number that is assigned to a transaction under the Standardised Method set out in Part 5 following a predetermined algorithm.
+
+7. ‘Hedging Set’ means a group of risk positions from the transactions within a single netting set for which only their balance is relevant for determining the exposure value under the Standardised Method set out in Part 5.
+
+8. ‘Margin Agreement’ means a contractual agreement or provisions of an agreement under which one counterparty shall supply collateral to a second counterparty when an exposure of that second counterparty to the first counterparty exceeds a specified level.
+
+9. ‘Margin Threshold’ means the largest amount of an exposure that remains outstanding until one party has the right to call for collateral.
+
+10. ‘Margin Period of Risk’ means the time period from the last exchange of collateral covering a netting set of transactions with a defaulting counterpart until that counterpart is closed out and the resulting market risk is re-hedged.
+
+11. ‘Effective Maturity under the Internal Model Method, for a netting set with maturity greater than one year’ means the ratio of the sum of expected exposure over the life of the transactions in the netting set discounted at the risk-free rate of return divided by the sum of expected exposure over one year in a netting set discounted at the risk-free rate. This effective maturity may be adjusted to reflect rollover risk by replacing expected exposure with effective expected exposure for forecasting horizons under one year.
+
+12. ‘Cross-Product Netting’ means the inclusion of transactions of different product categories within the same netting set pursuant to the Cross-Product Netting rules set out in this Annex.
+
+13. For the purposes of Part 5,‘Current Market Value (CMV)’ refers to the net market value of the portfolio of transactions within the netting set with the counterparty. Both positive and negative market values are used in computing CMV.
+
+Distributions
+
+14. ‘Distribution of Market Values’ means the forecast of the probability distribution of net market values of transactions within a netting set for some future date (the forecasting horizon), given the realised market value of those transactions up to the present time.
+
+15. ‘Distribution of Exposures’ means the forecast of the probability distribution of market values that is generated by setting forecast instances of negative net market values equal to zero.
+
+16. ‘Risk-Neutral Distribution’ means a distribution of market values or exposures at a future time period where the distribution is calculated using market implied values such as implied volatilities.
+
+17. ‘Actual Distribution’ means a distribution of market values or exposures at a future time period where the distribution is calculated using historic or realised values such as volatilities calculated using past price or rate changes.
+
+Exposure measures and adjustments
+
+18. ‘Current Exposure’ means the larger of zero or the market value of a transaction or portfolio of transactions within a netting set with a counterparty that would be lost upon the default of the counterparty, assuming no recovery on the value of those transactions in bankruptcy.
+
+19. ‘Peak Exposure’ means a high percentile of the distribution of exposures at any particular future date before the maturity date of the longest transaction in the netting set.
+
+20. ‘Expected Exposure (EE)’ means the average of the distribution of exposures at any particular future date before the longest maturity transaction in the netting set matures.
+
+21. ‘Effective Expected Exposure (Effective EE) at a specific date’ means the maximum expected exposure that occurs at that date or any prior date. Alternatively, it may be defined for a specific date as the greater of the expected exposure at that date, or the effective exposure at the previous date.
+
+22. ‘Expected Positive Exposure (EPE)’ means the weighted average over time of expected exposures where the weights are the proportion that an individual expected exposure represents of the entire time interval. When calculating the minimum capital requirement, the average is taken over the first year or, if all the contracts within the netting set mature within less than one year, over the time period of the longest maturity contract in the netting set.
+
+23. ‘Effective Expected Positive Exposure (Effective EPE)’ means the weighted average over time of effective expected exposure over the first year, or, if all the contracts within the netting set mature within less than one year, over the time period of the longest maturity contract in the netting set, where the weights are the proportion that an individual expected exposure represents of the entire time interval.
+
+24. ‘Credit Valuation Adjustment’ means an adjustment to the mid-market valuation of the portfolio of transactions with a counterparty. This adjustment reflects the market value of the credit risk due to any failure to perform on contractual agreements with a counterparty. This adjustment may reflect the market value of the credit risk of the counterparty or the market value of the credit risk of both the credit institution and the counterparty.
+
+25. ‘One-Sided Credit Valuation Adjustment’ means a credit valuation adjustment that reflects the market value of the credit risk of the counterparty to the credit institution, but does not reflect the market value of the credit risk of the credit institution to the counterparty.
+
+CCR related risks
+
+26. ‘Rollover Risk’ means the amount by which expected positive exposure is understated when future transactions with a counterpart are expected to be conducted on an ongoing basis. The additional exposure generated by those future transactions is not included in calculation of EPE.
+
+27. ‘General Wrong-Way Risk’ arises when the PD of counterparties is positively correlated with general market risk factors.
+
+28. ‘Specific Wrong-Way Risk’ arises when the exposure to a particular counterparty is positively correlated with the PD of the counterparty due to the nature of the transactions with the counterparty. A credit institution shall be considered to be exposed to Specific Wrong-Way Risk if the future exposure to a specific counterparty is expected to be high when the counterparty's PD is also high.
+
+PART 2
+
+Choice of the method
+
+1. Subject to paragraphs 2 to 7, credit institutions shall determine the exposure value for the contracts listed in Annex IV with one of the methods set out in Parts 3 to 6. Credit institutions which are not eligible for the treatment set out in Article 18(2) of Directive 2006/49/EC are not permitted to use the method set out in Part 4. To determine the exposure value for the contracts listed in point 3 of Annex IV, credit institutions are not permitted to use the method set out in Part 4.
+
+The combined use of the methods set out in Parts 3 to 6 shall be permitted on a permanent basis within a group, but not within a single legal entity. Combined use of the methods set out in Parts 3 and 5 within a legal entity shall be permitted where one of the methods is used for the cases set out in Part 5, point 19.
+
+2. Subject to the approval of the competent authorities, credit institutions may determine the exposure value for:
+
+(i) the contracts listed in Annex IV,
+
+(ii) repurchase transactions,
+
+(iii) securities or commodities lending or borrowing transactions,
+
+(iv) margin lending transactions, and
+
+(v) long settlement transactions
+
+using the Internal Model Method as set out in Part 6.
+
+3. When a credit institution purchases credit derivative protection against a non-trading book exposure, or against a CCR exposure, it may compute its capital requirement for the hedged asset in accordance with Annex VIII, Part 3, points 83 to 92, or subject to the approval of the competent authorities, in accordance with Annex VII, Part 1, point 4 or Annex VII, Part 4, points 96 to 104.
+
+In those cases, and where the option in the second sentence of point 11 in Annex II of Directive 2006/49/EC is not applied, the exposure value for CCR for those credit derivatives is set to zero.
+
+However, an institution may choose consistently to include for the purposes of calculating capital requirements for counterparty credit risk all credit derivatives not included in the trading book and purchased as protection against a non-trading book exposure or against a CCR exposure where the credit protection is recognised under this Directive.
+
+4. The exposure value for CCR from sold credit default swaps in the non-trading book, where they are treated as credit protection provided by the credit institution and subject to a capital requirement for credit risk for the full notional amount, is set to zero.
+
+5. Under all methods set out in Parts 3 to 6, the exposure value for a given counterparty is equal to the sum of the exposure values calculated for each netting set with that counterparty.
+
+6. An exposure value of zero for CCR can be attributed to derivative contracts, or repurchase transactions, securities or commodities lending or borrowing transactions, long settlement transactions and margin lending transactions outstanding with a central counterparty and that have not been rejected by the central counterparty. Furthermore, an exposure value of zero can be attributed to credit risk exposures to central counterparties that result from the derivative contracts, repurchase transactions, securities or commodities lending or borrowing transactions, long settlement transactions and margin lending transactions or other exposures, as determined by the competent authorities, that the credit institution has outstanding with the central counterparty. The central counterparty CCR exposures with all participants in its arrangements shall be fully collateralised on a daily basis.
+
+7. Exposures arising from long settlement transactions can be determined using any of the methods set out in Parts 3 to 6, regardless of the methods chosen for treating OTC derivatives and repurchase transactions, securities or commodities lending or borrowing transactions, and margin lending transactions. In calculating capital requirements for long settlement transactions, credit institutions that use the approach set out in Articles 84 to 89 may assign the risk weights under the approach set out in Articles 78 to 83 on a permanent basis and irrespective of the materiality of such positions.
+
+8. For the methods set out in Parts 3 and 4 the competent authorities must ensure that the notional amount to be taken into account is an appropriate yardstick for the risk inherent in the contract. Where, for instance, the contract provides for a multiplication of cash flows, the notional amount must be adjusted in order to take into account the effects of the multiplication on the risk structure of that contract.
+
+PART 3
+
+Mark-to-Market Method
+
+Step (a): by attaching current market values to contracts (mark-to-market), the current replacement cost of all contracts with positive values is obtained.
+
+Step (b): to obtain a figure for potential future credit exposure, except in the case of single-currency ‘floating/floating’ interest rate swaps in which only the current replacement cost will be calculated, the notional principal amounts or underlying values are multiplied by the percentages in Table 1:
+
+Table 1 (1) (2)
+
+| Residual maturity (3) | Interest-rate contracts | Contracts concerning foreign-exchange rates and gold | Contracts concerning equities | Contracts concerning precious metals except gold | Contracts concerning commodities other than precious metals |
+| --- | --- | --- | --- | --- | --- |
+| One year or less | 0 % | 1 % | 6 % | 7 % | 10 % |
+| Over one year, not exceeding five years | 0,5 % | 5 % | 8 % | 7 % | 12 % |
+| Over five years | 1,5 % | 7,5 % | 10 % | 8 % | 15 % |
+| (1)Contracts which do not fall within one of the five categories indicated in this table shall be treated as contracts concerning commodities other than precious metals.(2)For contracts with multiple exchanges of principal, the percentages have to be multiplied by the number of remaining payments still to be made according to the contract.(3)For contracts that are structured to settle outstanding exposure following specified payment dates and where the terms are reset such that the market value of the contract is zero on these specified dates, the residual maturity would be equal to the time until the next reset date. In the case of interest-rate contracts that meet these criteria and have a remaining maturity of over one year, the percentage shall be no lower than 0,5 %. |  |  |  |  |  |
+
+For the purpose of calculating the potential future credit exposure in accordance with step (b) the competent authorities may allow credit institutions to apply the percentages in Table 2 instead of those prescribed in Table 1 provided that the institutions make use of the option set out in Annex IV, point 21 to Directive 2006/49/EC for contracts relating to commodities other than gold within the meaning of paragraph 3 of Annex IV, to this Directive:
+
+Table 2
+
+| Residual maturity | Precious metals (except gold) | Base metals | Agricultural products (softs) | Other, including energy products |
+| --- | --- | --- | --- | --- |
+| One year or less | 2 % | 2,5 % | 3 % | 4 % |
+| Over one year, not exceeding five years | 5 % | 4 % | 5 % | 6 % |
+| Over five years | 7,5 % | 8 % | 9 % | 10 % |
+
+Step (c): the sum of current replacement cost and potential future credit exposure is the exposure value.
+
+PART 4
+
+Original Exposure Method
+
+Step (a): the notional principal amount of each instrument is multiplied by the percentages given in Table 3.
+
+Table 3
+
+| Original maturity (1) | Interest-rate contracts | Contracts concerning foreign-exchange rates and gold |
+| --- | --- | --- |
+| One year or less | 0,5 % | 2 % |
+| Over one year, not exceeding two years | 1 % | 5 % |
+| Additional allowance for each additional year | 1 % | 3 % |
+| (1)In the case of interest-rate contracts, credit institutions may, subject to the consent of their competent authorities, choose either original or residual maturity. |  |  |
+
+Step (b): the original exposure thus obtained shall be the exposure value.
+
+PART 5
+
+Standardised Method
+
+1. The Standardised Method (SM) can be used only for OTC derivatives and long settlement transactions. The exposure value shall be calculated separately for each netting set. It shall be determined net of collateral, as follows:
+
+exposure value =
+
+where:
+
+CMV = current market value of the portfolio of transactions within the netting set with a counterparty gross of collateral, that is, where:
+
+where:
+
+CMVi = the current market value of transaction i;
+
+CMC = the current market value of the collateral assigned to the netting set, that is, where:
+
+where
+
+CMCl = the current market value of collateral l;
+
+i = index designating transaction;
+
+l = index designating collateral;
+
+j = index designating hedging set category. These hedging sets correspond to risk factors for which risk positions of opposite sign can be offset to yield a net risk position on which the exposure measure is then based;
+
+RPTij = risk position from transaction i with respect to hedging set j;
+
+RPClj = risk position from collateral l with respect to hedging set j;
+
+CCRMj = CCR Multiplier set out in Table 5 with respect to hedging set j;
+
+β = 1.4.
+
+Collateral received from a counterparty has a positive sign and collateral posted to a counterparty has a negative sign.
+
+Collateral that is recognised for this method is confined to the collateral that is eligible under point 11 of Part 1 of Annex VIII to this Directive and point 9 of Annex II to Directive 2006/49/EC.
+
+2. When an OTC derivative transaction with a linear risk profile stipulates the exchange of a financial instrument for a payment, the payment Part is referred to as the payment leg. Transactions that stipulate the exchange of payment against payment consist of two payment legs. The payment legs consist of the contractually agreed gross payments, including the notional amount of the transaction. Credit institutions may disregard the interest rate risk from payment legs with a remaining maturity of less than one year for the purposes of the following calculations. Credit institutions may treat transactions that consist of two payment legs that are denominated in the same currency, such as interest rate swaps, as a single aggregate transaction. The treatment for payment legs applies to the aggregate transaction.
+
+3. Transactions with a linear risk profile with equities (including equity indices), gold, other precious metals or other commodities as the underlying financial instruments are mapped to a risk position in the respective equity (or equity index) or commodity (including gold and other precious metals) and an interest rate risk position for the payment leg. If the payment leg is denominated in a foreign currency, it is additionally mapped to a risk position in the respective currency.
+
+4. Transactions with a linear risk profile with a debt instrument as the underlying instrument are mapped to an interest rate risk position for the debt instrument and another interest rate risk position for the payment leg. Transactions with a linear risk profile that stipulate the exchange of payment against payment, including foreign exchange forwards, are mapped to an interest rate risk position for each of the payment legs. If the underlying debt instrument is denominated in a foreign currency, the debt instrument is mapped to a risk position in this currency. If a payment leg is denominated in foreign currency, the payment leg is again mapped to a risk position in this currency. The exposure value assigned to a foreign exchange basis swap transaction is zero.
+
+5. The size of a risk position from a transaction with linear risk profile is the effective notional value (market price multiplied by quantity) of the underlying financial instruments (including commodities) converted to the credit institution's domestic currency, except for debt instruments.
+
+6. For debt instruments and for payment legs, the size of the risk position is the effective notional value of the outstanding gross payments (including the notional amount) converted to the credit institution's domestic currency, multiplied by the modified duration of the debt instrument, or payment leg, respectively.
+
+7. The size of a risk position from a credit default swap is the notional value of the reference debt instrument multiplied by the remaining maturity of the credit default swap.
+
+8. The size of a risk position from an OTC derivative with a non-linear risk profile, including options and swaptions, is equal to the delta equivalent effective notional value of the financial instrument that underlies the transaction, except in the case of an underlying debt instrument.
+
+9. The size of a risk position from an OTC derivative with a non-linear risk profile, including options and swaptions, of which the underlying is a debt instrument or a payment leg, is equal to the delta equivalent effective notional value of the financial instrument or payment leg multiplied by the modified duration of the debt instrument, or payment leg, respectively.
+
+10. For the determination of risk positions, collateral received from a counterparty is to be treated as a claim on the counterparty under a derivative contract (long position) that is due today, while collateral posted is to be treated like an obligation to the counterparty (short position) that is due today.
+
+11. Credit institutions may use the following formulae to determine the size and sign of a risk position:
+
+for all instruments other than debt instruments:
+
+effective notional value, or
+
+where:
+
+Pref = price of the underlying instrument, expressed in the reference currency;
+
+V = value of the financial instrument (in the case of an option this is the option price and in the case of a transaction with a linear risk profile this is the value of the underlying instrument itself);
+
+p = price of the underlying instrument, expressed in the same currency as V;
+
+for debt instruments and the payment legs of all transactions:
+
+effective notional value multiplied by the modified duration, or
+
+delta equivalent in notional value multiplied by the modified duration
+
+where:
+
+V = value of the financial instrument (in the case of an option this is the option price and in the case of a transaction with a linear risk profile this is the value of the underlying instrument itself or of the payment leg, respectively);
+
+r = interest rate level.
+
+If V is denominated in a currency other than the reference currency, the derivative must be converted into the reference currency by multiplication with the relevant exchange rate.
+
+12. The risk positions are to be grouped into hedging sets. For each hedging set, the absolute value amount of the sum of the resulting risk positions is computed. This sum is termed the ‘net risk position’ and is represented by:
+
+in the formulae set out in paragraph 1.
+
+13. For interest rate risk positions from money deposits received from the counterparty as collateral, from payment legs and from underlying debt instruments, to which according to Table 1 of Annex I to Directive 2006/49/EC a capital charge of 1,60 % or less applies, there are six hedging sets for each currency, as set out in Table 4 below. Hedging sets are defined by a combination of the criteria ‘maturity’ and ‘referenced interest rates’.
+
+Table 4
+
+|  | Government referenced interest rates | Non-government referenced interest rates |
+| --- | --- | --- |
+| MaturityMaturityMaturity | ← 1 year>1 — ← 5 years> 5 years | ← 1 year>1 — ← 5 years> 5 years |
+
+14. For interest rate risk positions from underlying debt instruments or payment legs for which the interest rate is linked to a reference interest rate that represents a general market interest level, the remaining maturity is the length of the time interval up to the next re-adjustment of the interest rate. In all other cases, it is the remaining life of the underlying debt instrument or in the case of a payment leg, the remaining life of the transaction.
+
+15. There is one hedging set for each issuer of a reference debt instrument that underlies a credit default swap. ‘Nth to default’ basket credit default swaps shall be treated as follows:
+
+(a) the size of a risk position in a reference debt instrument in a basket underlying an ‘nth to default’ credit default swap is the effective notional value of the reference debt instrument, multiplied by the modified duration of the ‘nth to default’ derivative with respect to a change in the credit spread of the reference debt instrument;
+
+(b) there is one hedging set for each reference debt instrument in a basket underlying a given ‘nth to default’ credit default swap; risk positions from different ‘nth to default’ credit default swaps shall not be included in the same hedging set;
+
+(c) the CCR multiplier applicable to each hedging set created for one of the reference debt instruments of an ‘nth to default’ derivative is 0,3 % for reference debt instruments that have a credit assessment from a recognised ECAI equivalent to credit quality step 1 to 3 and 0,6 % for other debt instruments.
+
+16. For interest rate risk positions from money deposits that are posted with a counterparty as collateral when that counterparty does not have debt obligations of low specific risk outstanding and from underlying debt instruments, to which according to Table 1 of Annex I to Directive 2006/49/EC a capital charge of more than 1,60 % applies, there is one hedging set for each issuer. When a payment leg emulates such a debt instrument, there is also one hedging set for each issuer of the reference debt instrument. Credit institutions may assign risk positions that arise from debt instruments of a certain issuer, or from reference debt instruments of the same issuer that are emulated by payment legs, or that underlie a credit default swap, to the same hedging set.
+
+17. Underlying financial instruments other than debt instruments shall be assigned to the same respective hedging sets only if they are identical or similar instruments. In all other cases they shall be assigned to separate hedging sets. The similarity of instruments is established as follows:
+
+— for equities, similar instruments are those of the same issuer. An equity index is treated as a separate issuer;
+
+— for precious metals, similar instruments are those of the same metal. A precious metal index is treated as a separate precious metal;
+
+— for electric power, similar instruments are those delivery rights and obligations that refer to the same peak or off-peak load time interval within any 24-hour interval; and
+
+— for commodities, similar instruments are those of the same commodity. A commodity index is treated as a separate commodity.
+
+18. The CCR multipliers (CCRM) for the different hedging set categories are set out in Table 5 below:
+
+Table 5
+
+|  | Hedging set categories | CCRM |
+| --- | --- | --- |
+| 1. | Interest Rates | 0,2 % |
+| 2. | Interest Rates for risk positions from a reference debt instrument that underlies a credit default swap and to which a capital charge of 1,60 %, or less, applies under Table 1 of Annex I to Directive 2006/49/EC | 0,3 % |
+| 3. | Interest Rates for risk positions from a debt instrument or reference debt instrument to which a capital charge of more than 1,60 % applies under Table 1 of Annex I to Directive 2006/49/EC | 0,6 % |
+| 4. | Exchange Rates | 2,5 % |
+| 5. | Electric Power | 4 % |
+| 6. | Gold | 5 % |
+| 7. | Equity | 7 % |
+| 8. | Precious Metals (except gold) | 8,5 % |
+| 9. | Other Commodities (excluding precious metals and electricity power) | 10 % |
+| 10. | Underlying instruments of OTC derivatives that are not in any of the above categories | 10 % |
+
+Underlying instruments of OTC derivatives, as referred to in point 10 of Table 5, shall be assigned to separate individual hedging sets for each category of underlying instrument.
+
+19. For transactions with a non-linear risk profile or for payment legs and transactions with debt instruments as underlying for which the credit institution cannot determine the delta or the modified duration, respectively, with an instrument model that the competent authority has approved for the purposes of determining the minimum capital requirements for market risk, the competent authority shall determine the size of the risk positions and the applicable CCRMjs conservatively. Alternatively, competent authorities may require the use of the method set out in Part 3. Netting shall not be recognised (that is, the exposure value shall be determined as if there were a netting set that comprises just the individual transaction).
+
+20. A credit institution shall have internal procedures to verify that, prior to including a transaction in a hedging set, the transaction is covered by a legally enforceable netting contract that meets the requirements set out in Part 7.
+
+21. A credit institution that makes use of collateral to mitigate its CCR shall have internal procedures to verify that, prior to recognising the effect of collateral in its calculations, the collateral meets the legal certainty standards set out in Annex VIII.
+
+PART 6
+
+Internal Model Method
+
+1. Subject to the approval of the competent authorities, a credit institution may use the Internal Model Method (IMM) to calculate the exposure value for the transactions in Part 2, paragraph 2(i), or for the transactions in Part 2, point 2(ii), (iii) and (iv), or for the transactions in Part 2, point 2(i) to (iv). In each of these cases the transactions in Part 2, point 2(v) may be included as well. Notwithstanding Part 2, point 1, second paragraph, credit institutions may choose not to apply this method to exposures that are immaterial in size and risk. To apply the IMM, a credit institution shall meet the requirements set out in this Part.
+
+2. Subject to the approval of the competent authorities, implementation of the IMM may be carried out sequentially across different transaction types, and during this period a credit institution may use the methods set out in Part 3 or Part 5. Notwithstanding the remainder of this Part, credit institutions shall not be required to use a specific type of model.
+
+3. For all OTC derivative transactions and for long settlement transactions for which a credit institution has not received approval to use the IMM, the credit institution shall use the methods set out in Part 3 or Part 5. Combined use of these two methods is permitted on a permanent basis within a group. Combined use of these two methods within a legal entity is only permitted where one of the methods is used for the cases set out in Part 5, point 19.
+
+4. Credit institutions which have obtained permission to use the IMM shall not revert to the use of the methods set out in Part 3 or Part 5 except for demonstrated good cause and subject to approval of the competent authorities. If a credit institution ceases to comply with the requirements set out in this Part, it shall either present to the competent authority a plan for a timely return to compliance or demonstrate that the effect of non-compliance is immaterial.
+
+Exposure value
+
+5. The exposure value shall be measured at the level of the netting set. The model shall specify the forecasting distribution for changes in the market value of the netting set attributable to changes in market variables, such as interest rates, foreign exchange rates. The model shall then compute the exposure value for the netting set at each future date given the changes in the market variables. For margined counterparties, the model may also capture future collateral movements.
+
+6. Credit institutions may include eligible financial collateral as defined in point 11 of Part 1 of Annex VIII to this Directive and point 9 of Annex II to Directive 2006/49/EC in their forecasting distributions for changes in the market value of the netting set, if the quantitative, qualitative and data requirements for the IMM are met for the collateral.
+
+7. The exposure value shall be calculated as the product of α times Effective EPE, as follows:
+
+Exposure value = α × Effective EPE
+
+where:
+
+alpha (α) shall be 1.4, but competent authorities may require a higher α, and Effective EPE shall be computed by estimating expected exposure (EEt) as the average exposure at future date t, where the average is taken across possible future values of relevant market risk factors. The model estimates EE at a series of future dates t1, t2, t3, etc.
+
+8. Effective EE shall be computed recursively as:
+
+Effective EEtk = max(Effective EEtk-1; EEtk)
+
+where:
+
+the current date is denoted as t0 and Effective EEt0 equals current exposure.
+
+9. In this regard, Effective EPE is the average Effective EE during the first year of future exposure. If all contracts in the netting set mature within less than one year, EPE is the average of EE until all contracts in the netting set mature. Effective EPE is computed as a weighted average of Effective EE:
+
+where:
+
+the weights Δtk = tk — tk-1 allow for the case when future exposure is calculated at dates that are not equally spaced over time.
+
+10. EE or peak exposure measures shall be calculated based on a distribution of exposures that accounts for the possible non-normality of the distribution of exposures.
+
+11. Credit institutions may use a measure that is more conservative than α multiplied by Effective EPE as calculated according to the equation above for every counterparty.
+
+12. Notwithstanding point 7, competent authorities may permit credit institutions to use their own estimates of α, subject to a floor of 1,2, where α shall equal the ratio of internal capital from a full simulation of CCR exposure across counterparties (numerator) and internal capital based on EPE (denominator). In the denominator, EPE shall be used as if it were a fixed outstanding amount. Credit institutions shall demonstrate that their internal estimates of α capture in the numerator material sources of stochastic dependency of distribution of market values of transactions or of portfolios of transactions across counterparties. Internal estimates of α shall take account of the granularity of portfolios.
+
+13. A credit institution shall ensure that the numerator and denominator of α are computed in a consistent fashion with respect to the modelling methodology, parameter specifications and portfolio composition. The approach used shall be based on the credit institution's internal capital approach, be well documented and be subject to independent validation. In addition, credit institutions shall review their estimates on at least a quarterly basis, and more frequently when the composition of the portfolio varies over time. Credit institutions shall also assess the model risk.
+
+14. Where appropriate, volatilities and correlations of market risk factors used in the joint simulation of market and credit risk should be conditioned on the credit risk factor to reflect potential increases in volatility or correlation in an economic downturn.
+
+15. If the netting set is subject to a margin agreement, credit institutions shall use one of the following EPE measures:
+
+(a) Effective EPE without taking into account the margin agreement;
+
+(b) the threshold, if positive, under the margin agreement plus an add-on that reflects the potential increase in exposure over the margin period of risk. The add-on is computed as the expected increase in the netting set's exposure beginning from a current exposure of zero over the margin period of risk. A floor of five business days for netting sets consisting only of repo-style transactions subject to daily remargining and daily mark-to-market, and ten business days for all other netting sets is imposed on the margin period of risk used for this purpose; or
+
+(c) if the model captures the effects of margining when estimating EE, the model's EE measure may be used directly in the equation in point 8 subject to the approval of the competent authorities.
+
+Minimum requirements for EPE models
+
+16. A credit institution's EPE model shall meet the operational requirements set out in points 17 to 41.
+
+CCR control
+
+17. The credit institution shall have a control unit that is responsible for the design and implementation of its CCR management system, including the initial and on-going validation of the model. This unit shall control input data integrity and produce and analyse reports on the output of the credit institution's risk measurement model, including an evaluation of the relationship between measures of risk exposure and credit and trading limits. This unit shall be independent from units responsible for originating, renewing or trading exposures and free from undue influence; it shall be adequately staffed; it shall report directly to the senior management of the credit institution. The work of this unit shall be closely integrated into the day-to-day credit risk management process of the credit institution. Its output shall, accordingly, be an integral Part of the process of planning, monitoring and controlling the credit institution's credit and overall risk profile.
+
+18. A credit institution shall have CCR management policies, processes and systems that are conceptually sound and implemented with integrity. A sound CCR management framework shall include the identification, measurement, management, approval and internal reporting of CCR.
+
+19. A credit institution's risk management policies shall take account of market, liquidity, and legal and operational risks that can be associated with CCR. The credit institution shall not undertake business with a counterparty without assessing its creditworthiness and shall take due account of settlement and pre-settlement credit risk. These risks shall be managed as comprehensively as practicable at the counterparty level (aggregating CCR exposures with other credit exposures) and at the firm-wide level.
+
+20. A credit institution's board of directors and senior management shall be actively involved in the CCR control process and shall regard this as an essential aspect of the business to which significant resources need to be devoted. Senior management shall be aware of the limitations and assumptions of the model used and the impact these can have on the reliability of the output. Senior management shall also consider the uncertainties of the market environment and operational issues and be aware of how these are reflected in the model.
+
+21. The daily reports prepared on a credit institution's exposures to CCR shall be reviewed by a level of management with sufficient seniority and authority to enforce both reductions of positions taken by individual credit managers or traders and reductions in the credit institution's overall CCR exposure.
+
+22. A credit institution's CCR management system shall be used in conjunction with internal credit and trading limits. Credit and trading limits shall be related to the credit institution's risk measurement model in a manner that is consistent over time and that is well understood by credit managers, traders and senior management.
+
+23. A credit institution's measurement of CCR shall include measuring daily and intra-day usage of credit lines. The credit institution shall measure current exposure gross and net of collateral. At portfolio and counterparty level, the credit institution shall calculate and monitor peak exposure or PFE at the confidence interval chosen by the credit institution. The credit institution shall take account of large or concentrated positions, including by groups of related counterparties, by industry, by market, etc.
+
+24. A credit institution shall have a routine and rigorous program of stress testing in place as a supplement to the CCR analysis based on the day-to-day output of the credit institution's risk measurement model. The results of this stress testing shall be reviewed periodically by senior management and shall be reflected in the CCR policies and limits set by management and the board of directors. Where stress tests reveal particular vulnerability to a given set of circumstances, prompt steps shall be taken to manage those risks appropriately.
+
+25. A credit institution shall have a routine in place for ensuring compliance with a documented set of internal policies, controls and procedures concerning the operation of the CCR management system. The credit institution's CCR management system shall be well documented and shall provide an explanation of the empirical techniques used to measure CCR.
+
+26. A credit institution shall conduct an independent review of its CCR management system regularly through its own internal auditing process. This review shall include both the activities of the business units referred to in point 17 and of the independent CCR control unit. A review of the overall CCR management process shall take place at regular intervals and shall specifically address, at a minimum:
+
+(a) the adequacy of the documentation of the CCR management system and process;
+
+(b) the organisation of the CCR control unit;
+
+(c) the integration of CCR measures into daily risk management;
+
+(d) the approval process for risk pricing models and valuation systems used by front and back-office personnel;
+
+(e) the validation of any significant change in the CCR measurement process;
+
+(f) the scope of CCR captured by the risk measurement model;
+
+(g) the integrity of the management information system;
+
+(h) the accuracy and completeness of CCR data;
+
+(i) the verification of the consistency, timeliness and reliability of data sources used to run models, including the independence of such data sources;
+
+(j) the accuracy and appropriateness of volatility and correlation assumptions;
+
+(k) the accuracy of valuation and risk transformation calculations; and
+
+(l) the verification of the model's accuracy through frequent back-testing.
+
+Use test
+
+27. The distribution of exposures generated by the model used to calculate effective EPE shall be closely integrated into the day-to-day CCR management process of the credit institution. The model's output shall accordingly play an essential role in the credit approval, CCR management, internal capital allocation and corporate governance of the credit institution.
+
+28. A credit institution shall have a track record in the use of models that generate a distribution of exposures to CCR. Thus, the credit institution shall demonstrate that it has been using a model to calculate the distributions of exposures upon which the EPE calculation is based that meets, broadly, the minimum requirements set out in this Part for at least one year prior to approval by the competent authorities.
+
+29. The model used to generate a distribution of exposures to CCR shall be Part of a CCR management framework that includes the identification, measurement, management, approval and internal reporting of CCR. This framework shall include the measurement of usage of credit lines (aggregating CCR exposures with other credit exposures) and internal capital allocation. In addition to EPE, a credit institution shall measure and manage current exposures. Where appropriate, the credit institution shall measure current exposure gross and net of collateral. The use test is satisfied if a credit institution uses other CCR measures, such as peak exposure or (PFE), based on the distribution of exposures generated by the same model to compute EPE.
+
+30. A credit institution shall have the systems capability to estimate EE daily if necessary, unless it demonstrates to its competent authorities that its exposures to CCR warrant less frequent calculation. The credit institution shall compute EE along a time profile of forecasting horizons that adequately reflects the time structure of future cash flows and maturity of the contracts and in a manner that is consistent with the materiality and composition of the exposures.
+
+31. Exposure shall be measured, monitored and controlled over the life of all contracts in the netting set (not just to the one year horizon). The credit institution shall have procedures in place to identify and control the risks for counterparties where the exposure rises beyond the one-year horizon. The forecast increase in exposure shall be an input into the credit institution's internal capital model.
+
+Stress testing
+
+32. A credit institution shall have in place sound stress testing processes for use in the assessment of capital adequacy for CCR. These stress measures shall be compared with the measure of EPE and considered by the credit institution as Part of the process set out in Article 123. Stress testing shall also involve identifying possible events or future changes in economic conditions that could have unfavourable effects on a credit institution's credit exposures and an assessment of the credit institution's ability to withstand such changes.
+
+33. The credit institution shall stress test its CCR exposures, including jointly stressing market and credit risk factors. Stress tests of CCR shall consider concentration risk (to a single counterparty or groups of counterparties), correlation risk across market and credit risk, and the risk that liquidating the counterparty's positions could move the market. Stress tests shall also consider the impact on the credit institution's own positions of such market moves and integrate that impact in its assessment of CCR.
+
+Wrong-Way Risk
+
+34. Credit institutions shall give due consideration to exposures that give rise to a significant degree of General Wrong-Way Risk.
+
+35. Credit institutions shall have procedures in place to identify, monitor and control cases of Specific Wrong-Way Risk, beginning at the inception of a transaction and continuing through the life of the transaction.
+
+Integrity of the modelling process
+
+36. The model shall reflect transaction terms and specifications in a timely, complete, and conservative fashion. Such terms shall include at least contract notional amounts, maturity, reference assets, margining arrangements, netting arrangements. The terms and specifications shall be maintained in a database that is subject to formal and periodic audit. The process for recognising netting arrangements shall require signoff by legal staff to verify the legal enforceability of netting and be input into the database by an independent unit. The transmission of transaction terms and specifications data to the model shall also be subject to internal audit and formal reconciliation processes shall be in place between the model and source data systems to verify on an ongoing basis that transaction terms and specifications are being reflected in EPE correctly or at least conservatively.
+
+37. The model shall employ current market data to compute current exposures. When using historical data to estimate volatility and correlations, at least three years of historical data shall be used and shall be updated quarterly or more frequently if market conditions warrant. The data shall cover a full range of economic conditions, such as a full business cycle. A unit independent from the business unit shall validate the price supplied by the business unit. The data shall be acquired independently of the lines of business, fed into the model in a timely and complete fashion, and maintained in a database subject to formal and periodic audit. A credit institution shall also have a well-developed data integrity process to clean the data of erroneous and/or anomalous observations. To the extent that the model relies on proxy market data, including, for new products, where three years of historical data may not be available, internal policies shall identify suitable proxies and the credit institution shall demonstrate empirically that the proxy provides a conservative representation of the underlying risk under adverse market conditions. If the model includes the effect of collateral on changes in the market value of the netting set, the credit institution shall have adequate historical data to model the volatility of the collateral.
+
+38. The model shall be subject to a validation process. The process shall be clearly articulated in credit institutions' policies and procedures. The validation process shall specify the kind of testing needed to ensure model integrity and identify conditions under which assumptions are violated and may result in an understatement of EPE. The validation process shall include a review of the comprehensiveness of the model.
+
+39. A credit institution shall monitor the appropriate risks and have processes in place to adjust its estimation of EPE when those risks become significant. This includes the following:
+
+(a) the credit institution shall identify and manage its exposures to specific wrong-way risk;
+
+(b) for exposures with a rising risk profile after one year, the credit institution shall compare on a regular basis the estimate of EPE over one year with EPE over the life of the exposure; and
+
+(c) for exposures with a residual maturity below one year, the credit institution shall compare on a regular basis the replacement cost (current exposure) and the realised exposure profile, and/or store data that would allow such a comparison.
+
+40. A credit institution shall have internal procedures to verify that, prior to including a transaction in a netting set, the transaction is covered by a legally enforceable netting contract that meets the requirements set out in Part 7.
+
+41. A credit institution that makes use of collateral to mitigate its CCR shall have internal procedures to verify that, prior to recognising the effect of collateral in its calculations, the collateral meets the legal certainty standards set out in Annex VIII.
+
+Validation requirements for EPE models
+
+42. A credit institution's EPE model shall meet the following validation requirements:
+
+(a) the qualitative validation requirements set out in Annex V to Directive 2006/49/EC;
+
+(b) interest rates, foreign exchange rates, equity prices, commodities, and other market risk factors shall be forecast over long time horizons for measuring CCR exposure. The performance of the forecasting model for market risk factors shall be validated over a long time horizon;
+
+(c) the pricing models used to calculate CCR exposure for a given scenario of future shocks to market risk factors shall be tested as Part of the model validation process. Pricing models for options shall account for the nonlinearity of option value with respect to market risk factors;
+
+(d) the EPE model shall capture transaction-specific information in order to aggregate exposures at the level of the netting set. A credit institution shall verify that transactions are assigned to the appropriate netting set within the model;
+
+(e) the EPE model shall also include transaction-specific information to capture the effects of margining. It shall take into account both the current amount of margin and margin that would be passed between counterparties in the future. Such a model shall account for the nature of margin agreements (unilateral or bilateral), the frequency of margin calls, the margin period of risk, the minimum threshold of unmargined exposure the credit institution is willing to accept, and the minimum transfer amount. Such a model shall either model the mark-to-market change in the value of collateral posted or apply the rules set out in Annex VIII; and
+
+(f) static, historical back-testing on representative counterparty portfolios shall be Part of the model validation process. At regular intervals, a credit institution shall conduct such back-testing on a number of representative counterparty portfolios (actual or hypothetical). These representative portfolios shall be chosen based on their sensitivity to the material risk factors and correlations to which the credit institution is exposed.
+
+If back-testing indicates that the model is not sufficiently accurate, the competent authorities shall revoke the model approval or impose appropriate measures to ensure that the model is improved promptly. They may also require additional own funds to be held by credit institutions pursuant to Article 136.
+
+PART 7
+
+Contractual netting (contracts for novation and other netting agreements)
+
+(a) Types of netting that competent authorities may recognise
+
+For the purpose of this Part, ‘counterparty’ means any entity (including natural persons) that has the power to conclude a contractual netting agreement and ‘contractual cross product netting agreement’ means a written bilateral agreement between a credit institution and a counterparty which creates a single legal obligation covering all included bilateral master agreements and transactions belonging to different product categories. Contractual cross product netting agreements do not cover netting other than on a bilateral basis.
+
+For the purposes of cross product netting, the following are considered different product categories:
+
+(i) repurchase transactions, reverse repurchase transactions, securities and commodities lending and borrowing transactions,
+
+(ii) margin lending transactions, and
+
+(iii) the contracts listed in Annex IV.
+
+The competent authorities may recognise as risk-reducing the following types of contractual netting:
+
+(i) bilateral contracts for novation between a credit institution and its counterparty under which mutual claims and obligations are automatically amalgamated in such a way that this novation fixes one single net amount each time novation applies and thus creates a legally binding, single new contract extinguishing former contracts,
+
+(ii) other bilateral agreements between a credit institution and its counterparty, and
+
+(iii) contractual cross product netting agreements for credit institutions that have received approval by their competent authorities to use the method set out in Part 6, for transactions falling under the scope of that method. Netting across transactions entered by members of a group is not recognised for the purposes of calculating capital requirements.
+
+(b) Conditions for recognition
+
+The competent authorities may recognise contractual netting as risk-reducing only under the following conditions:
+
+(i) a credit institution must have a contractual netting agreement with its counterparty which creates a single legal obligation, covering all included transactions, such that, in the event of a counterparty's failure to perform owing to default, bankruptcy, liquidation or any other similar circumstance, the credit institution would have a claim to receive or an obligation to pay only the net sum of the positive and negative mark-to-market values of included individual transactions,
+
+(ii) a credit institution must have made available to the competent authorities written and reasoned legal opinions to the effect that, in the event of a legal challenge, the relevant courts and administrative authorities would, in the cases described under (i), find that the credit institution's claims and obligations would be limited to the net sum, as described in (i), under:
+
+— the law of the jurisdiction in which the counterparty is incorporated and, if a foreign branch of an undertaking is involved, also under the law of the jurisdiction in which the branch is located,
+
+— the law that governs the individual transactions included, and
+
+— the law that governs any contract or agreement necessary to effect the contractual netting,
+
+(iii) a credit institution must have procedures in place to ensure that the legal validity of its contractual netting is kept under review in the light of possible changes in the relevant laws,
+
+(iv) the credit institution maintains all required documentation in its files,
+
+(v) the effects of netting shall be factored into the credit institution's measurement of each counterparty's aggregate credit risk exposure and the credit institution manages its CCR on such a basis, and
+
+(vi) credit risk to each counterparty is aggregated to arrive at a single legal exposure across transactions. This aggregation shall be factored into credit limit purposes and internal capital purposes.
+
+The competent authorities must be satisfied, if necessary after consulting the other competent authorities concerned, that the contractual netting is legally valid under the law of each of the relevant jurisdictions. If any of the competent authorities are not satisfied in that respect, the contractual netting agreement will not be recognised as risk-reducing for either of the counterparties.
+
+The competent authorities may accept reasoned legal opinions drawn up by types of contractual netting.
+
+No contract containing a provision which permits a non-defaulting counterparty to make limited payments only, or no payments at all, to the estate of the defaulter, even if the defaulter is a net creditor (a ‘walkaway’ clause), may be recognised as risk-reducing.
+
+In addition, for contractual cross-product netting agreements the following criteria shall be met:
+
+(a) the net sum referred to in subpoint (b)(i) of this Part shall be the net sum of the positive and negative close out values of any included individual bilateral master agreement and of the positive and negative mark-to-market value of the individual transactions (the ‘Cross-Product Net Amount’);
+
+(b) the written and reasoned legal opinions referred to in subpoint (b)(ii) of this Part shall address the validity and enforceability of the entire contractual cross-product netting agreement under its terms and the impact of the netting arrangement on the material provisions of any included individual bilateral master agreement. A legal opinion shall be generally recognised as such by the legal community in the Member State in which the credit institution is authorised or a memorandum of law that addresses all relevant issues in a reasoned manner;
+
+(c) the credit institution shall have procedures in place under subpoint (b)(iii) of this Part to verify that any transaction which is to be included in a netting set is covered by a legal opinion; and
+
+(d) taking into account the contractual cross product netting agreement, the credit institution shall continue to comply with the requirements for the recognition of bilateral netting and the requirements of Articles 90 to 93 for the recognition of credit risk mitigation, as applicable, with respect to each included individual bilateral master agreement and transaction.
+
+(c) Effects of recognition
+
+Netting for the purposes of Parts 5 and 6 shall be recognised as set out therein.
+
+(i) Contracts for novation
+
+The single net amounts fixed by contracts for novation, rather than the gross amounts involved, may be weighted. Thus, in the application of Part 3, in:
+
+— step (a): the current replacement cost, and in
+
+— step (b): the notional principal amounts or underlying values
+
+may be obtained taking account of the contract for novation. In the application of Part 4, in step (a) the notional principal amount may be calculated taking account of the contract for novation; the percentages of Table 3 must apply.
+
+(ii) Other netting agreements
+
+In application of Part 3:
+
+— in step (a) the current replacement cost for the contracts included in a netting agreement may be obtained by taking account of the actual hypothetical net replacement cost which results from the agreement; in the case where netting leads to a net obligation for the credit institution calculating the net replacement cost, the current replacement cost is calculated as ‘0’, and
+
+— in step (b) the figure for potential future credit exposure for all contracts included in a netting agreement may be reduced according to the following formula:
+
+— PCEred = 0,4 * PCEgross + 0,6 * NGR * PCEgross
+
+— where:
+
+—
+
+| PCEred= | the reduced figure for potential future credit exposure for all contracts with a given counterparty included in a legally valid bilateral netting agreement |
+| --- | --- |
+
+—
+
+| PCEgross = | the sum of the figures for potential future credit exposure for all contracts with a given counterparty which are included in a legally valid bilateral netting agreement and are calculated by multiplying their notional principal amounts by the percentages set out in Table 1 |
+| --- | --- |
+
+—
+
+| NGR = | ‘net-to-gross ratio’: at the discretion of the competent authorities either:(i) separate calculation: the quotient of the net replacement cost for all contracts included in a legally valid bilateral netting agreement with a given counterparty (numerator) and the gross replacement cost for all contracts included in a legally valid bilateral netting agreement with that counterparty (denominator), or(ii) aggregate calculation: the quotient of the sum of the net replacement cost calculated on a bilateral basis for all counterparties taking into account the contracts included in legally valid netting agreements (numerator) and the gross replacement cost for all contracts included in legally valid netting agreements (denominator). |
+| --- | --- |
+
+If Member States permit credit institutions a choice of methods, the method chosen is to be used consistently.
+
+For the calculation of the potential future credit exposure according to the above formula perfectly matching contracts included in the netting agreement may be taken into account as a single contract with a notional principal equivalent to the net receipts. Perfectly matching contracts are forward foreign-exchange contracts or similar contracts in which a notional principal is equivalent to cash flows if the cash flows fall due on the same value date and fully or partly in the same currency.
+
+In the application of Part 4, in step (a)
+
+— perfectly matching contracts included in the netting agreement may be taken into account as a single contract with a notional principal equivalent to the net receipts, the notional principal amounts are multiplied by the percentages given in Table 3, and
+
+— for all other contracts included in a netting agreement, the percentages applicable may be reduced as indicated in Table 6:
+
+Table 6
+
+| Original maturity (1) | Interest-rate contracts | Foreign-exchange contracts |
+| --- | --- | --- |
+| One year or less | 0,35 % | 1,50 % |
+| More than one year but not more than two years | 0,75 % | 3,75 % |
+| Additional allowance for each additional year | 0,75 % | 2,25 % |
+| (1)In the case of interest-rate contracts, credit institutions may, subject to the consent of their competent authorities, choose either original or residual maturity. |  |  |
+
+<a id="anx_iv"></a>
+
+### ANNEX IV
+
+
+
+<a id="types_of_derivatives"></a>
+
+### TYPES OF DERIVATIVES
+
+1. Interest-rate contracts:
+
+(a) single-currency interest rate swaps;
+
+(b) basis-swaps;
+
+(c) forward rate agreements;
+
+(d) interest-rate futures;
+
+(e) interest-rate options purchased; and
+
+(f) other contracts of similar nature.
+
+2. Foreign-exchange contracts and contracts concerning gold:
+
+(a) cross-currency interest-rate swaps;
+
+(b) forward foreign-exchange contracts;
+
+(c) currency futures;
+
+(d) currency options purchased;
+
+(e) other contracts of a similar nature; and
+
+(f) contracts concerning gold of a nature similar to (a) to (e).
+
+3. Contracts of a nature similar to those in points 1(a) to (e) and 2(a) to (d) concerning other reference items or indices. This includes as a minimum all instruments specified in points 4 to 7, 9 and 10 of Section C of Annex I to Directive 2004/39/EC not otherwise included in points 1 or 2.
+
+<a id="anx_v"></a>
+
+### ANNEX V
+
+
+
+<a id="technical_criteria_concerning_the_organisation_and_treatment_of_risks"></a>
+
+### TECHNICAL CRITERIA CONCERNING THE ORGANISATION AND TREATMENT OF RISKS
+
+1. **GOVERNANCE**
+
+1. Arrangements shall be defined by the management body described in Article 11 concerning the segregation of duties in the organisation and the prevention of conflicts of interest.
+
+2. **TREATMENT OF RISKS**
+
+2. The management body described in Article 11 shall approve and periodically review the strategies and policies for taking up, managing, monitoring and mitigating the risks the credit institution is or might be exposed to, including those posed by the macroeconomic environment in which it operates in relation to the status of the business cycle.
+
+3. **CREDIT AND COUNTERPARTY RISK**
+
+3. Credit-granting shall be based on sound and well-defined criteria. The process for approving, amending, renewing, and re-financing credits shall be clearly established.
+
+4. The ongoing administration and monitoring of their various credit risk-bearing portfolios and exposures, including for identifying and managing problem credits and for making adequate value adjustments and provisions, shall be operated through effective systems.
+
+5. Diversification of credit portfolios shall be adequate given the credit institution's target markets and overall credit strategy.
+
+4. **RESIDUAL RISK**
+
+6. The risk that recognised credit risk mitigation techniques used by the credit institution prove less effective than expected shall be addressed and controlled by means of written policies and procedures.
+
+5. **CONCENTRATION RISK**
+
+7. The concentration risk arising from exposures to counterparties, groups of connected counterparties, and counterparties in the same economic sector, geographic region or from the same activity or commodity, the application of credit risk mitigation techniques, and including in particular risks associated with large indirect credit exposures (e.g. to a single collateral issuer), shall be addressed and controlled by means of written policies and procedures.
+
+6. **SECURITISATION RISK**
+
+8. The risks arising from securitisation transactions in relation to which the credit institutions are investor, originator or sponsor, including reputational risks (such as arise in relation to complex structures or products) shall be evaluated and addressed through appropriate policies and procedures, to ensure in particular that the economic substance of the transaction is fully reflected in the risk assessment and management decisions.
+
+9. Liquidity plans to address the implications of both scheduled and early amortization shall exist at credit institutions which are originators of revolving securitisation transactions involving early amortisation provisions.
+
+7. **MARKET RISK**
+
+10. Policies and processes for the measurement and management of all material sources and effects of market risks shall be implemented.
+
+8. **INTEREST RATE RISK ARISING FROM NON-TRADING ACTIVITIES**
+
+11. Systems shall be implemented to evaluate and manage the risk arising from potential changes in interest rates as they affect a credit institution's non-trading activities.
+
+9. **OPERATIONAL RISK**
+
+12. Policies and processes to evaluate and manage the exposure to operational risk, including to low-frequency high-severity events, shall be implemented. Without prejudice to the definition laid down in Article 4(22), credit institutions shall articulate what constitutes operational risk for the purposes of those policies and procedures.
+
+13. Contingency and business continuity plans shall be in place to ensure a credit institution's ability to operate on an ongoing basis and limit losses in the event of severe business disruption.
+
+10. **LIQUIDITY RISK**
+
+14. Robust strategies, policies, processes and systems shall exist for the identification, measurement, management and monitoring of liquidity risk over an appropriate set of time horizons, including intra-day, so as to ensure that credit institutions maintain adequate levels of liquidity buffers. Those strategies, policies, processes and systems shall be tailored to business lines, currencies and entities and shall include adequate allocation mechanisms of liquidity costs, benefits and risks.
+
+14a. The strategies, policies, processes and systems referred to in point 14 shall be proportionate to the complexity, risk profile, scope of operation of the credit institution and risk tolerance set by the management body and reflect the credit institution's importance in each Member State, in which it carries on business. Credit institutions shall communicate risk tolerance to all relevant business lines.
+
+15. Credit institutions shall develop methodologies for the identification, measurement, management and monitoring of funding positions. Those methodologies shall include the current and projected material cash-flows in and arising from assets, liabilities, off-balance-sheet items, including contingent liabilities and the possible impact of reputational risk.
+
+16. Credit institutions shall distinguish between pledged and unencumbered assets that are available at all times, in particular during emergency situations. They shall also take into account the legal entity in which assets reside, the country where assets are legally recorded either in a register or in an account as well as their eligibility and shall monitor how assets can be mobilised in a timely manner.
+
+17. Credit institutions shall also have regard to existing legal, regulatory and operational limitations to potential transfers of liquidity and unencumbered assets amongst entities, both within and outside the EEA.
+
+18. A credit institution shall consider different liquidity risk mitigation tools, including a system of limits and liquidity buffers in order to be able to withstand a range of different stress events and an adequately diversified funding structure and access to funding sources. Those arrangements shall be reviewed regularly.
+
+19. Alternative scenarios on liquidity positions and on risk mitigants shall be considered and the assumptions underlying decisions concerning the funding position shall be reviewed regularly. For these purposes, alternative scenarios shall address, in particular, off-balance sheet items and other contingent liabilities, including those of SSPEs or other special purpose entities, in relation to which the credit institution acts as sponsor or provides material liquidity support.
+
+20. Credit institutions shall consider the potential impact of institution-specific, market-wide and combined alternative scenarios. Different time horizons and varying degrees of stressed conditions shall be considered.
+
+21. Credit institutions shall adjust their strategies, internal policies and limits on liquidity risk and develop effective contingency plans, taking into account the outcome of the alternative scenarios referred to in point 19.
+
+22. In order to deal with liquidity crises, credit institutions shall have in place contingency plans setting out adequate strategies and proper implementation measures in order to address possible liquidity shortfalls. Those plans shall be regularly tested, updated on the basis of the outcome of the alternative scenarios set out in point 19, be reported to and approved by senior management, so that internal policies and processes can be adjusted accordingly.
+
+11. **REMUNERATION POLICIES**
+
+23. When establishing and applying the total remuneration policies, inclusive of salaries and discretionary pension benefits, for categories of staff including senior management, risk takers, staff engaged in control functions and any employee receiving total remuneration that takes them into the same remuneration bracket as senior management and risk takers, whose professional activities have a material impact on their risk profile, credit institutions shall comply with the following principles in a way and to the extent that is appropriate to their size, internal organisation and the nature, the scope and the complexity of their activities:
+
+(a) the remuneration policy is consistent with and promotes sound and effective risk management and does not encourage risk-taking that exceeds the level of tolerated risk of the credit institution;
+
+(b) the remuneration policy is in line with the business strategy, objectives, values and long-term interests of the credit institution, and incorporates measures to avoid conflicts of interest;
+
+(c) the management body, in its supervisory function, of the credit institution adopts and periodically reviews the general principles of the remuneration policy and is responsible for its implementation;
+
+(d) the implementation of the remuneration policy is, at least annually, subject to central and independent internal review for compliance with policies and procedures for remuneration adopted by the management body in its supervisory function;
+
+(e) staff engaged in control functions are independent from the business units they oversee, have appropriate authority, and are remunerated in accordance with the achievement of the objectives linked to their functions, independent of the performance of the business areas they control;
+
+(f) the remuneration of the senior officers in the risk management and compliance functions is directly overseen by the remuneration committee referred to in point (24) or, if such a committee has not been established, by the management body in its supervisory function;
+
+(g) where remuneration is performance related, the total amount of remuneration is based on a combination of the assessment of the performance of the individual and of the business unit concerned and of the overall results of the credit institution and when assessing individual performance, financial and non-financial criteria are taken into account;
+
+(h) the assessment of the performance is set in a multi-year framework in order to ensure that the assessment process is based on longer-term performance and that the actual payment of performance-based components of remuneration is spread over a period which takes account of the underlying business cycle of the credit institution and its business risks;
+
+(i) the total variable remuneration does not limit the ability of the credit institution to strengthen its capital base;
+
+(j) guaranteed variable remuneration is exceptional and occurs only when hiring new staff and is limited to the first year of employment;
+
+(k) in the case of credit institutions that benefit from exceptional government intervention:
+
+(i) variable remuneration is strictly limited as a percentage of net revenue where it is inconsistent with the maintenance of a sound capital base and timely exit from government support;
+
+(ii) the relevant competent authorities require credit institutions to restructure remuneration in a manner aligned with sound risk management and long-term growth, including, where appropriate, establishing limits to the remuneration of the persons who effectively direct the business of the credit institution within the meaning of Article 11(1);
+
+(iii) no variable remuneration is paid to the persons who effectively direct the business of the credit institution within the meaning of Article 11(1) unless justified;
+
+(l) fixed and variable components of total remuneration are appropriately balanced and the fixed component represents a sufficiently high proportion of the total remuneration to allow the operation of a fully flexible policy, on variable remuneration components, including the possibility to pay no variable remuneration component.
+
+Credit institutions shall set the appropriate ratios between the fixed and the variable component of the total remuneration;
+
+(m) payments related to the early termination of a contract reflect performance achieved over time and are designed in a way that does not reward failure;
+
+(n) the measurement of performance used to calculate variable remuneration components or pools of variable remuneration components includes an adjustment for all types of current and future risks and takes into account the cost of the capital and the liquidity required.
+
+The allocation of the variable remuneration components within the credit institution shall also take into account all types of current and future risks;
+
+(o) a substantial portion, and in any event at least 50 %, of any variable remuneration shall consist of an appropriate balance of:
+
+(i) shares or equivalent ownership interests, subject to the legal structure of the credit institution concerned or share-linked instruments or equivalent non-cash instruments, in case of a non-listed credit institution, and
+
+(ii) where appropriate, other instruments within the meaning of Article 66(1a)(a), that adequately reflect the credit quality of the credit institution as a going concern.
+
+The instruments referred to in this point shall be subject to an appropriate retention policy designed to align incentives with the longer-term interests of the credit institution. Member States or their competent authorities may place restrictions on the types and designs of those instruments or prohibit certain instruments as appropriate. This point shall be applied to both the portion of the variable remuneration component deferred in accordance with point (p) and the portion of the variable remuneration component not deferred;
+
+(p) a substantial portion, and in any event at least 40 %, of the variable remuneration component is deferred over a period which is not less than three to 5 years and is correctly aligned with the nature of the business, its risks and the activities of the member of staff in question.
+
+Remuneration payable under deferral arrangements shall vest no faster than on a pro-rata basis. In the case of a variable remuneration component of a particularly high amount, at least 60 % of the amount shall be deferred. The length of the deferral period shall be established in accordance with the business cycle, the nature of the business, its risks and the activities of the member of staff in question;
+
+(q) the variable remuneration, including the deferred portion, is paid or vests only if it is sustainable according to the financial situation of the credit institution as a whole, and justified according to the performance of the credit institution, the business unit and the individual concerned.
+
+Without prejudice to the general principles of national contract and labour law, the total variable remuneration shall generally be considerably contracted where subdued or negative financial performance of the credit institution occurs, taking into account both current remuneration and reductions in payouts of amounts previously earned, including through *malus* or clawback arrangements;
+
+(r) the pension policy is in line with the business strategy, objectives, values and long-term interests of the credit institution.
+
+If the employee leaves the credit institution before retirement, discretionary pension benefits shall be held by the credit institution for a period of 5 years in the form of instruments referred to in point (o). In case of an employee reaching retirement, discretionary pension benefits shall be paid to the employee in the form of instruments referred to in point (o) subject to a five-year retention period;
+
+(s) staff members are required to undertake not to use personal hedging strategies or remuneration- and liability-related insurance to undermine the risk alignment effects embedded in their remuneration arrangements;
+
+(t) variable remuneration is not paid through vehicles or methods that facilitate the avoidance of the requirements of this Directive.
+
+The principles set out in this point shall be applied by credit institutions at group, parent company and subsidiary levels, including those established in offshore financial centres.
+
+24. Credit institutions that are significant in terms of their size, internal organisation and the nature, the scope and the complexity of their activities shall establish a remuneration committee. The remuneration committee shall be constituted in such a way as to enable it to exercise competent and independent judgment on remuneration policies and practices and the incentives created for managing risk, capital and liquidity.
+
+The remuneration committee shall be responsible for the preparation of decisions regarding remuneration, including those which have implications for the risk and risk management of the credit institution concerned and which are to be taken by the management body in its supervisory function. The Chair and the members of the remuneration committee shall be members of the management body who do not perform any executive functions in the credit institution concerned. When preparing such decisions, the remuneration committee shall take into account the long-term interests of shareholders, investors and other stakeholders in the credit institution.
+
+<a id="anx_vi"></a>
+
+### ANNEX VI
+
+
+
+<a id="standardised_approach"></a>
+
+### STANDARDISED APPROACH
+
+PART 1
+
+RISK WEIGHTS
+
+1. **EXPOSURES TO CENTRAL GOVERNMENTS OR CENTRAL BANKS**
+
+1.1. **Treatment**
+
+1. Without prejudice to points 2 to 7, exposures to central governments and central banks shall be assigned a 100 % risk weight.
+
+2. Subject to point 3, exposures to central governments and central banks for which a credit assessment by a nominated ECAI is available shall be assigned a risk weight according to Table 1 in accordance with the assignment by the competent authorities of the credit assessments of eligible ECAIs to six steps in a credit quality assessment scale.
+
+Table 1
+
+| Credit quality step | 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Risk weight | 0 % | 20 % | 50 % | 100 % | 100 % | 150 % |
+
+3. Exposures to the European Central Bank shall be assigned a 0 % risk weight.
+
+1.2. **Exposures in the national currency of the borrower**
+
+4. Exposures to Member States' central governments and central banks denominated and funded in the domestic currency of that central government and central bank shall be assigned a risk weight of 0 %.
+
+5. When the competent authorities of a third country which apply supervisory and regulatory arrangements at least equivalent to those applied in the Community assign a risk weight which is lower than that indicated in point 1 to 2 to exposures to their central government and central bank denominated and funded in the domestic currency, Member States may allow their credit institutions to risk weight such exposures in the same manner.
+
+1.3. **Use of credit assessments by Export Credit Agencies**
+
+6. Export Credit Agency credit assessments shall be recognised by the competent authorities if either of the following conditions is met:
+
+(a) it is a consensus risk score from Export Credit Agencies participating in the OECD ‘Arrangement on Guidelines for Officially Supported Export Credits’; or
+
+(b) the Export Credit Agency publishes its credit assessments, and the Export Credit Agency subscribes to the OECD agreed methodology, and the credit assessment is associated with one of the eight minimum export insurance premiums (MEIP) that the OECD agreed methodology establishes.
+
+7. Exposures for which a credit assessment by an Export Credit Agency is recognised for risk weighting purposes shall be assigned a risk weight according to Table 2.
+
+Table 2
+
+| MEIP | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Risk weight | 0 % | 0 % | 20 % | 50 % | 100 % | 100 % | 100 % | 150 % |
+
+2. **EXPOSURES TO REGIONAL GOVERNMENTS OR LOCAL AUTHORITIES**
+
+8. Without prejudice to points 9, 10 and 11, exposures to regional governments and local authorities shall be risk-weighted as exposures to institutions, subject to point 11a. Such treatment is independent of the exercise of discretion specified in Article 80(3). The preferential treatment for short-term exposures specified in points 31, 32 and 37 shall not be applied.
+
+9. Exposures to regional governments and local authorities shall be treated as exposures to the central government in whose jurisdiction they are established where there is no difference in risk between such exposures because of the specific revenue-raising powers of the former, and the existence of specific institutional arrangements the effect of which is to reduce their risk of default.
+
+Competent authorities shall draw up and make public the list of the regional governments and local authorities to be risk-weighted like central governments.
+
+10. Exposures to churches and religious communities constituted in the form of a legal person under public law shall, in so far as they raise taxes in accordance with legislation conferring on them the right to do so, be treated as exposures to regional governments and local authorities, except that point 9 shall not apply. In this case for the purposes of Article 89(1)(a), permission to apply Title V, Chapter 2, Section 3, subsection 1 shall not be excluded.
+
+11. When competent authorities of a third country jurisdiction which apply supervisory and regulatory arrangements at least equivalent to those applied in the Community treat exposures to regional governments and local authorities as exposures to their central government, Member States may allow their credit institutions to risk weight exposures to such regional governments and local authorities in the same manner.
+
+11a. Without prejudice to points 9, 10 and 11, exposures to regional governments and local authorities of the Member States denominated and funded in the domestic currency of that regional government and local authority shall be assigned a risk weight of 20 %.
+
+3. **EXPOSURES TO ADMINISTRATIVE BODIES AND NON-COMMERCIAL UNDERTAKINGS**
+
+3.1. **Treatment**
+
+12. Without prejudice to points 13 to 17, exposures to administrative bodies and non-commercial undertakings shall be assigned a 100 % risk weight.
+
+3.2. **Public Sector Entities**
+
+13. Without prejudice to points 14 to 17, exposures to public sector entities shall be assigned a 100 % risk weight.
+
+14. Subject to the discretion of competent authorities, exposures to public sector entities may be treated as exposures to institutions. Exercise of this discretion by competent authorities is independent of the exercise of discretion as specified in Article 80(3). The preferential treatment for short-term exposures specified in points 31, 32 and 37 shall not be applied.
+
+15. In exceptional circumstances, exposures to public-sector entities may be treated as exposures to the central government in whose jurisdiction they are established where in the opinion of the competent authorities there is no difference in risk between such exposures because of the existence of an appropriate guarantee by the central government.
+
+16. When the discretion to treat exposures to public-sector entities as exposures to institutions or as exposures to the central government in whose jurisdiction they are established is exercised by the competent authorities of one Member State, the competent authorities of another Member State shall allow their credit institutions to risk-weight exposures to such public-sector entities in the same manner.
+
+17. When competent authorities of a third country jurisdiction, which apply supervisory and regulatory arrangements at least equivalent to those applied in the Community, treat exposures to public sector entities as exposures to institutions, Member States may allow their credit institutions to risk weight exposures to such public sector entities in the same manner.
+
+4. **EXPOSURES TO MULTILATERAL DEVELOPMENT BANKS**
+
+4.1. **Scope**
+
+18. For the purposes of Articles 78 to 83, the Inter-American Investment Corporation, the Black Sea Trade and Development Bank and the Central American Bank for Economic Integration are considered to be Multilateral Development Banks (MDB).
+
+4.2. **Treatment**
+
+19. Without prejudice to points 20 and 21, exposures to multilateral development banks shall be treated in the same manner as exposures to institutions in accordance with points 29 to 32. The preferential treatment for short-term exposures as specified in points 31, 32 and 37 shall not apply.
+
+20. Exposures to the following multilateral development banks shall be assigned a 0 % risk weight:
+
+(a) the International Bank for Reconstruction and Development;
+
+(b) the International Finance Corporation;
+
+(c) the Inter-American Development Bank;
+
+(d) the Asian Development Bank;
+
+(e) the African Development Bank;
+
+(f) the Council of Europe Development Bank;
+
+(g) the Nordic Investment Bank;
+
+(h) the Caribbean Development Bank;
+
+(i) the European Bank for Reconstruction and Development;
+
+(j) the European Investment Bank;
+
+(k) the European Investment Fund;
+
+(l) the Multilateral Investment Guarantee Agency;
+
+(m) the International Finance Facility for Immunisation; and
+
+(n) the Islamic Development Bank.
+
+21. A risk weight of 20 % shall be assigned to the portion of unpaid capital subscribed to the European Investment Fund.
+
+5. **EXPOSURES TO INTERNATIONAL ORGANISATIONS**
+
+22. Exposures to the following international organisations shall be assigned a 0 % risk weight:
+
+(a) the European Community;
+
+(b) the International Monetary Fund;
+
+(c) the Bank for International Settlements.
+
+6. **EXPOSURES TO INSTITUTIONS**
+
+6.1. **Treatment**
+
+23. One of the two methods described in points 26 to 27 and 29 to 32 shall apply in determining the risk weights for exposures to institutions.
+
+24. Without prejudice to the other provisions of points 23 to 39, exposures to financial institutions authorised and supervised by the competent authorities responsible for the authorisation and supervision of credit institutions and subject to prudential requirements equivalent to those applied to credit institutions shall be risk-weighted as exposures to institutions.
+
+6.2. **Risk-weight floor on exposures to unrated institutions**
+
+25. Exposures to an unrated institution shall not be assigned a risk weight lower than that applied to exposures to its central government.
+
+6.3. **Central government risk weight based method**
+
+26. Exposures to institutions shall be assigned a risk weight according to the credit quality step to which exposures to the central government of the jurisdiction in which the institution is incorporated are assigned in accordance with Table 3.
+
+Table 3
+
+| Credit quality step to which central government is assigned | 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Risk weight of exposure | 20 % | 50 % | 100 % | 100 % | 100 % | 150 % |
+
+27. For exposures to institutions incorporated in countries where the central government is unrated, the risk weight shall be not more than 100 %.
+
+28. For exposures to institutions with an original effective maturity of three months or less, the risk weight shall be 20 %.
+
+6.4. **Credit assessment based method**
+
+29. Exposures to institutions with a residual maturity of more than three months for which a credit assessment by a nominated ECAI is available shall be assigned a risk weight according to Table 4 in accordance with the assignment by the competent authorities of the credit assessments of eligible ECAIs to six steps in a credit quality assessment scale.
+
+Table 4
+
+| Credit quality step | 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Risk weight | 20 % | 50 % | 50 % | 100 % | 100 % | 150 % |
+
+30. Exposures to unrated institutions shall be assigned a risk weight of 50 %.
+
+31. Exposures to an institution of up to three months residual maturity for which a credit assessment by a nominated ECAI is available shall be assigned a risk-weight according to Table 5 in accordance with the assignment by the competent authorities of the credit assessments of eligible ECAIs to six steps in a credit quality assessment scale:
+
+Table 5
+
+| Credit quality step | 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Risk weight | 20 % | 20 % | 20 % | 50 % | 50 % | 150 % |
+
+32. Exposures to unrated institutions having an original effective maturity of three months or less shall be assigned a 20 % risk weight.
+
+6.5. **Interaction with short-term credit assessments**
+
+33. If the method specified in points 29 to 32 is applied to exposures to institutions, then the interaction with specific short-term assessments shall be as follows.
+
+34. If there is no short-term exposure assessment, the general preferential treatment for short-term exposures as specified in point 31 shall apply to all exposures to institutions of up to three months residual maturity.
+
+35. If there is a short-term assessment and such an assessment determines the application of a more favourable or identical risk weight than the use of the general preferential treatment for short-term exposures, as specified in point 31, then the short-term assessment shall be used for that specific exposure only. Other short-term exposures shall follow the general preferential treatment for short-term exposures, as specified in point 31.
+
+36. If there is a short-term assessment and such an assessment determines a less favourable risk weight than the use of the general preferential treatment for short-term exposures, as specified in point 31, then the general preferential treatment for short-term exposures shall not be used and all unrated short-term claims shall be assigned the same risk weight as that applied by the specific short-term assessment.
+
+6.6. **Short-term exposures in the national currency of the borrower**
+
+37. Exposures to institutions of a residual maturity of 3 months or less denominated and funded in the national currency may, subject to the discretion of the competent authority, be assigned, under both methods described in points 26 to 27 and 29 to 32, a risk weight that is one category less favourable than the preferential risk weight, as described in points 4 and 5, assigned to exposures to its central government.
+
+38. No exposures of a residual maturity of 3 months or less denominated and funded in the national currency of the borrower shall be assigned a risk weight less than 20 %.
+
+6.7 **Investments in regulatory capital instruments**
+
+39. Investments in equity or regulatory capital instruments issued by institutions shall be risk weighted at 100 %, unless deducted from the own funds.
+
+6.8 **Minimum reserves required by the ECB**
+
+40. Where an exposure to an institution is in the form of minimum reserves required by the ECB or by the central bank of a Member State to be held by the credit institution, Member States may permit the assignment of the risk weight that would be assigned to exposures to the central bank of the Member State in question provided:
+
+(a) the reserves are held in accordance with Regulation (EC) No 1745/2003 of the European Central Bank of 12 September 2003 on the application of minimum reserves (36) or a subsequent replacement regulation or in accordance with national requirements in all material respects equivalent to that Regulation; and
+
+(b) in the event of the bankruptcy or insolvency of the institution where the reserves are held, the reserves are fully repaid to the credit institution in a timely manner and are not made available to meet other liabilities of the institution.
+
+7. **EXPOSURES TO CORPORATES**
+
+7.1. **Treatment**
+
+41. Exposures for which a credit assessment by a nominated ECAI is available shall be assigned a risk weight according to Table 6 in accordance with the assignment by the competent authorities of the credit assessments of eligible ECAIs to six steps in a credit quality assessment scale.
+
+Table 6
+
+| Credit quality step | 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Risk weight | 20 % | 50 % | 100 % | 100 % | 150 % | 150 % |
+
+42. Exposures for which such a credit assessment is not available shall be assigned a 100 % risk weight or the risk weight of its central government, whichever is the higher.
+
+8. **RETAIL EXPOSURES**
+
+43. Exposures that comply with the criteria listed in Article 79(2) shall be assigned a risk weight of 75 %.
+
+9. **EXPOSURES SECURED BY REAL ESTATE PROPERTY**
+
+44. Without prejudice to points 45 to 60, exposures fully secured by real estate property shall be assigned a risk weight of 100 %.
+
+9.1. **Exposures secured by mortgages on residential property**
+
+45. Exposures or any part of an exposure fully and completely secured, to the satisfaction of the competent authorities, by mortgages on residential property which is or shall be occupied or let by the owner, or the beneficial owner in the case of personal investment companies, shall be assigned a risk weight of 35 %.
+
+46. Exposures fully and completely secured, to the satisfaction of the competent authorities, by shares in Finnish residential housing companies, operating in accordance with the Finnish Housing Company Act of 1991 or subsequent equivalent legislation, in respect of residential property which is or shall be occupied or let by the owner shall be assigned a risk weight of 35 %.
+
+47. Exposures to a tenant under a property leasing transaction concerning residential property under which the credit institution is the lessor and the tenant has an option to purchase, shall be assigned a risk weight of 35 % provided that the competent authorities are satisfied that the exposure of the credit institution is fully and completely secured by its ownership of the property.
+
+48. In the exercise of their judgement for the purposes of points 45 to 47, competent authorities shall be satisfied only if the following conditions are met:
+
+(a) the value of the property does not materially depend upon the credit quality of the obligor. This requirement does not preclude situations where purely macro-economic factors affect both the value of the property and the performance of the borrower;
+
+(b) the risk of the borrower does not materially depend upon the performance of the underlying property or project, but rather on the underlying capacity of the borrower to repay the debt from other sources. As such, repayment of the facility does not materially depend on any cash flow generated by the underlying property serving as collateral;
+
+(c) the minimum requirements set out in Annex VIII, Part 2, point 8 and the valuation rules set out in Annex VIII, Part 3, points 62 to 65 are met; and
+
+(d) the value of the property exceeds the exposures by a substantial margin.
+
+49. Competent authorities may dispense with the condition contained in point 48(b) for exposures fully and completely secured by mortgages on residential property which is situated within their territory, if they have evidence that a well-developed and long-established residential real estate market is present in their territory with loss rates which are sufficiently low to justify such treatment.
+
+50. When the discretion contained in point 49 is exercised by the competent authorities of a Member State, the competent authorities of another Member State may allow their credit institutions to assign a risk weight of 35 % to such exposures fully and completely secured by mortgages on residential property.
+
+9.2. **Exposures secured by mortgages on commercial real estate**
+
+51. Subject to the discretion of the competent authorities, exposures or any part of an exposure fully and completely secured, to the satisfaction of the competent authorities, by mortgages on offices or other commercial premises situated within their territory may be assigned a risk weight of 50 %.
+
+52. Subject to the discretion of the competent authorities, exposures fully and completely secured, to the satisfaction of the competent authorities, by shares in Finnish housing companies, operating in accordance with the Finnish Housing Company Act of 1991 or subsequent equivalent legislation, in respect of offices or other commercial premises may be assigned a risk weight of 50 %.
+
+53. Subject to the discretion of the competent authorities, exposures related to property leasing transactions concerning offices or other commercial premises situated in their territories under which the credit institution is the lessor and the tenant has an option to purchase may be assigned a risk weight of 50 % provided that the exposure of the credit institution is fully and completely secured to the satisfaction of the competent authorities by its ownership of the property.
+
+54. The application of points 51 to 53 is subject to the following conditions:
+
+(a) the value of the property must not materially depend upon the credit quality of the obligor. This requirement does not preclude situations where purely macro-economic factors affect both the value of the property and the performance of the borrower;
+
+(b) the risk of the borrower must not materially depend upon the performance of the underlying property or project, but rather on the underlying capacity of the borrower to repay the debt from other sources. As such, repayment of the facility must not materially depend on any cash flow generated by the underlying property serving as collateral; and
+
+(c) the minimum requirements set out in Annex VIII, Part 2, point 8, and the valuation rules set out in Annex VIII, Part 3, points 62 to 65 are met.
+
+55. The 50 % risk weight shall be assigned to the Part of the loan that does not exceed a limit calculated according to either of the following conditions:
+
+(a) 50 % of the market value of the property in question;
+
+(b) 50 % of the market value of the property or 60 % of the mortgage lending value, whichever is lower, in those Member States that have laid down rigorous criteria for the assessment of the mortgage lending value in statutory or regulatory provisions.
+
+56. A 100 % risk weigh shall be assigned to the Part of the loan that exceeds the limits set out in point 55.
+
+57. When the discretion contained in points 51 to 53 is exercised by the competent authorities of one Member State, the competent authorities of another Member State may allow their credit institutions to risk weight at 50 % such exposures fully and completely secured by mortgages on commercial property.
+
+58. Competent authorities may dispense with the condition contained in point 54(b) for exposures fully and completely secured by mortgages on commercial property which is situated within their territory, if they have evidence that a well-developed and long-established commercial real estate market is present in their territory with loss-rates which do not exceed the following limits:
+
+(a) losses stemming from lending collateralised by commercial real estate property up to 50 % of the market value (or where applicable and if lower 60 % of the mortgage lending value (MLV)) do not exceed 0,3 % of the outstanding loans collateralised by commercial real estate property in any given year; and
+
+(b) overall losses stemming from lending collateralised by commercial real estate property must not exceed 0,5 % of the outstanding loans collateralised by commercial real estate property in any given year.
+
+59. If either of the limits referred to in point 58 is not satisfied in a given year, the eligibility to use point 58 shall cease and the condition contained in point 54(b) shall apply until the conditions in point 58 are satisfied in a subsequent year.
+
+60. When the discretion contained in point 58 is exercised by the competent authorities of a Member State, the competent authorities of another Member State may allow their credit institutions to assign a risk weight of 50 % to such exposures fully and completely secured by mortgages on commercial property.
+
+10. **PAST DUE ITEMS**
+
+61. Without prejudice to the provisions contained in points 62 to 65, the unsecured part of any item that is past due for more than 90 days and which is above a threshold defined by the competent authorities and which reflects a reasonable level of risk shall be assigned a risk weight of:
+
+(a) 150 %, if value adjustments are less than 20 % of the unsecured part of the exposure gross of value adjustments; and
+
+(b) 100 %, if value adjustments are no less than 20 % of the unsecured part of the exposure gross of value adjustments.
+
+62. For the purpose of defining the secured part of the past due item, eligible collateral and guarantees shall be those eligible for credit risk mitigation purposes.
+
+63. Nonetheless, where a past due item is fully secured by forms of collateral other then those eligible for credit risk mitigation purposes, a 100 % risk weight may be assigned subject to the discretion of competent authorities based upon strict operational criteria to ensure the good quality of the collateral when value adjustments reach 15 % of the exposure gross of value adjustments.
+
+64. Exposures indicated in points 45 to 50 shall be assigned a risk weight of 100 % net of value adjustments if they are past due for more than 90 days. If value adjustments are no less than 20 % of the exposure gross of value adjustments, the risk weight to be assigned to the remainder of the exposure may be reduced to 50 % at the discretion of competent authorities.
+
+65. Exposures indicated in points 51 to 60 shall be assigned a risk weight of 100 % if they are past due for more than 90 days.
+
+11. **ITEMS BELONGING TO REGULATORY HIGH-RISK CATEGORIES**
+
+66. Subject to the discretion of competent authorities, exposures associated with particularly high risks such as investments in venture capital firms and private equity investments shall be assigned a risk weight of 150 %.
+
+67. Competent authorities may permit non past due items to be assigned a 150 % risk weight according to the provisions of this Part and for which value adjustments have been established to be assigned a risk weight of:
+
+(a) 100 %, if value adjustments are no less than 20 % of the exposure value gross of value adjustments; and
+
+(b) 50 %, if value adjustments are no less than 50 % of the exposure value gross of value adjustments.
+
+12. **EXPOSURES IN THE FORM OF COVERED BONDS**
+
+68. ‘Covered bonds’, shall mean bonds as defined in Article 22(4) of Directive 85/611/EEC and collateralised by any of the following eligible assets:
+
+(a) exposures to or guaranteed by central governments, central banks, public sector entities, regional governments and local authorities in the EU;
+
+(b) exposures to or guaranteed by non-EU central governments, non-EU central banks, multilateral development banks, international organisations that qualify for the credit quality step 1 as set out in this Annex, and exposures to or guaranteed by non-EU public sector entities, non-EU regional governments and non-EU local authorities that are risk weighted as exposures to institutions or central governments and central banks according to points 8, 9, 14 or 15 respectively and that qualify for the credit quality step 1 as set out in this Annex, and exposures in the sense of this point that qualify as a minimum for the credit quality step 2 as set out in this Annex, provided that they do not exceed 20 % of the nominal amount of outstanding covered bonds of issuing institutions;
+
+(c) exposures to institutions that qualify for the credit quality step 1 as set out in this Annex. The total exposure of this kind shall not exceed 15 % of the nominal amount of outstanding covered bonds of the issuing credit institution. Exposures caused by transmission and management of payments of the obligors of, or liquidation proceeds in respect of, loans secured by real estate to the holders of covered bonds shall not be comprised by the 15 % limit. Exposures to institutions in the EU with a maturity not exceeding 100 days shall not be comprised by the step 1 requirement but those institutions must as a minimum qualify for credit quality step 2 as set out in this Annex;
+
+(d) loans secured by residential real estate or shares in Finnish residential housing companies as referred to in point 46 up to the lesser of the principal amount of the liens that are combined with any prior liens and 80 % of the value of the pledged properties or by senior units issued by French *Fonds Communs de Créances* or by equivalent securitisation entities governed by the laws of a Member State securitising residential real estate exposures. In the event of such senior units being used as collateral, the special public supervision to protect bond holders as provided for in Article 52(4) of Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (37) shall ensure that the assets underlying such units shall, at any time while they are included in the cover pool be at least 90 % composed of residential mortgages that are combined with any prior liens up to the lesser of the principal amounts due under the units, the principal amounts of the liens, and 80 % of the value of the pledged properties, that the units qualify for the credit quality step 1 as set out in this Annex and that such units do not exceed 10 % of the nominal amount of the outstanding issue.
+
+Exposures caused by transmission and management of payments of the obligors of, or liquidation proceeds in respect of, loans secured by pledged properties of the senior units or debt securities shall not be comprised in calculating the 90 % limit;
+
+(e) loans secured by commercial real estate or shares in Finnish housing companies as referred to in point 52 up to the lesser of the principal amount of the liens that are combined with any prior liens and 60 % of the value of the pledged properties or by senior units issued by French *Fonds Communs de Créances* or by equivalent securitisation entities governed by the laws of a Member State securitising commercial real estate exposures. In the event of such senior units being used as collateral, the special public supervision to protect bond holders as provided for in Article 52(4) of Directive 2009/65/EC shall ensure that the assets underlying such units shall, at any time while they are included in the cover pool be at least 90 % composed of commercial mortgages that are combined with any prior liens up to the lesser of the principal amounts due under the units, the principal amounts of the liens, and 60 % of the value of the pledged properties, that the units qualify for the credit quality step 1 as set out in this Annex and that such units do not exceed 10 % of the nominal amount of the outstanding issue.
+
+The competent authorities may recognise loans secured by commercial real estate as eligible where the Loan-to-value ratio of 60 % is exceeded up to a maximum level of 70 % if the value of the total assets pledged as collateral for the covered bonds exceed the nominal amount outstanding on the covered bond by at least 10 %, and the bondholders’ claim meets the legal certainty requirements set out in Annex VIII. The bondholders’ claim shall take priority over all other claims on the collateral. Exposures caused by transmission and management of payments of the obligors of, or liquidation proceeds in respect of, loans secured by pledged properties of the senior units or debt securities shall not be comprised in calculating the 90 % limit;
+
+(f) loans secured by ships where only liens that are combined with any prior liens within 60 % of the value of the pledged ship.
+
+For these purposes ‘collateralised’ includes situations where the assets as described in subpoints (a) to (f) are exclusively dedicated in law to the protection of the bond-holders against losses.
+
+Until 31 December 2013, the 10 % limit for senior units issued by French *Fonds Communs de Créances* or by equivalent securitisation entities as specified in points (d) and (e) shall not apply, provided that:
+
+(i) the securitised residential or commercial real estate exposures were originated by a member of the same consolidated group of which the issuer of the covered bonds is also a member or by an entity affiliated to the same central body to which the issuer of the covered bonds is also affiliated (that common group membership or affiliation to be determined at the time the senior units are made collateral for covered bonds; and
+
+(ii) a member of the same consolidated group of which the issuer of the covered bonds is also a member or an entity affiliated to the same central body to which the issuer of the covered bonds is also affiliated retains the whole first loss tranche supporting those senior units.
+
+By 31 December 2012, the Commission shall review the appropriateness of the derogation set out in the third paragraph and, if relevant, the appropriateness of extending similar treatment to any other form of covered bond. In the light of that review, the Commission may, if appropriate, adopt delegated acts in accordance with Article 151a, and subject to the conditions of Articles 151b and 151c, to prolong the derogation, make it permanent or extend it to other forms of covered bonds.
+
+Until 31 December 2010 the figure of 60 % indicated in subpoint (f) can be replaced with a figure of 70 %. Before the end of this period this derogation shall be reviewed and consequent to such review the Commission may as appropriate extend this period in accordance with the procedure referred to in Article 151(2) with or without a further review clause.
+
+69. Credit institutions shall for real estate collateralising covered bonds meet the minimum requirements set out in Annex VIII Part 2, point 8 and the valuation rules set out in Annex VIII, Part 3, points 62 to 65.
+
+70. Notwithstanding points 68 and 69, covered bonds meeting the definition of Article 22(4) of Directive 85/611/EEC and issued before 31 December 2007 are also eligible for the preferential treatment until their maturity.
+
+71. Covered bonds shall be assigned a risk weight on the basis of the risk weight assigned to senior unsecured exposures to the credit institution which issues them. The following correspondence between risk weights shall apply:
+
+(a) if the exposures to the institution are assigned a risk weight of 20 %, the covered bond shall be assigned a risk weight of 10 %;
+
+(b) if the exposures to the institution are assigned a risk weight of 50 %, the covered bond shall be assigned a risk weight of 20 %;
+
+(c) if the exposures to the institution are assigned a risk weight of 100 %, the covered bond shall be assigned a risk weight of 50 %; and
+
+(d) if the exposures to the institution are assigned a risk weight of 150 %, the covered bond shall be assigned a risk weight of 100 %.
+
+13. **ITEMS REPRESENTING SECURITISATION POSITIONS**
+
+72. Risk weight exposure amounts for securitisation positions shall be determined in accordance with Articles 94 to 101.
+
+14. **EXPOSURES TO INSTITUTIONS AND CORPORATES WITH A SHORT-TERM CREDIT ASSESSMENT**
+
+73. Exposures to institutions where points 29 to 32 apply, and exposures to corporates for which a short-term credit assessment by a nominated ECAI is available shall be assigned a risk weight according to Table 7, in accordance with the mapping by the competent authorities of the credit assessments of eligible ECAIs to six steps in a credit quality assessment scale:
+
+Table 7
+
+| Credit Quality Step | 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Risk weight | 20 % | 50 % | 100 % | 150 % | 150 % | 150 % |
+
+15. **EXPOSURES IN THE FORM OF COLLECTIVE INVESTMENT UNDERTAKINGS (CIUS)**
+
+74. Without prejudice to points 75 to 81, exposures in collective investment undertakings (CIUs) shall be assigned a risk weight of 100 %.
+
+75. Exposures in the form of CIUs for which a credit assessment by a nominated ECAI is available shall be assigned a risk weight according to Table 8, in accordance with the assignment by the competent authorities of the credit assessments of eligible ECAIs to six steps in a credit quality assessment scale.
+
+Table 8
+
+| Credit quality step | 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Risk weight | 20 % | 50 % | 100 % | 100 % | 150 % | 150 % |
+
+76. Where competent authorities consider that a position in a CIU is associated with particularly high risks they shall require that that position is assigned a risk weight of 150 %.
+
+77. Credit institutions may determine the risk weight for a CIU as set out in points 79 to 81, if the following eligibility criteria are met:
+
+(a) the CIU is managed by a company which is subject to supervision in a Member State or, subject to approval of the credit institution's competent authority, if:
+
+(i) the CIU is managed by a company which is subject to supervision that is considered equivalent to that laid down in Community law; and
+
+(ii) cooperation between competent authorities is sufficiently ensured;
+
+(b) the CIU's prospectus or equivalent document includes:
+
+(i) the categories of assets in which the CIU is authorised to invest; and
+
+(ii) if investment limits apply, the relative limits and the methodologies to calculate them; and
+
+(c) the business of the CIU is reported on at least an annual basis to enable an assessment to be made of the assets and liabilities, income and operations over the reporting period.
+
+78. If a competent authority approves a third country CIU as eligible, as set out in point 77(a), then a competent authority in another Member State may make use of this recognition without conducting its own assessment.
+
+79. Where the credit institution is aware of the underlying exposures of a CIU, it may look through to those underlying exposures in order to calculate an average risk weight for the CIU in accordance with the methods set out in Article 78 to 83.
+
+80. Where the credit institution is not aware of the underlying exposures of a CIU, it may calculate an average risk weight for the CIU in accordance with the methods set out in Articles 78 to 83 subject to the following rules: it will be assumed that the CIU first invests, to the maximum extent allowed under its mandate, in the exposure classes attracting the highest capital requirement, and then continues making investments in descending order until the maximum total investment limit is reached.
+
+81. Credit institutions may rely on a third party to calculate and report, in accordance with the methods set out in points 79 and 80, a risk weight for the CIU provided that the correctness of the calculation and report shall be adequately ensured.
+
+16. **OTHER ITEMS**
+
+16.1. **Treatment**
+
+82. Tangible assets within the meaning of Article 4(10) of Directive 86/635/EEC shall be assigned a risk weight of 100 %.
+
+83. Prepayments and accrued income for which an institution is unable to determine the counterparty in accordance with Directive 86/635/EEC, shall be assigned a risk weight of 100 %.
+
+84. Cash items in the process of collection shall be assigned a 20 % risk weight. Cash in hand and equivalent cash items shall be assigned a 0 % risk weight.
+
+85. Member States may allow a risk weight of 10 % for exposures to institutions specialising in the inter-bank and public-debt markets in their home Member States and subject to close supervision by the competent authorities where those asset items are fully and completely secured, to the satisfaction of the competent authorities of the home Member States, by a items assigned a 0 % or a 20 % risk weight and recognised by the latter as constituting adequate collateral.
+
+86. Holdings of equity and other participations, except where deducted from own funds, shall be assigned a risk weight of at least 100 %.
+
+87. Gold bullion held in own vaults or on an allocated basis to the extent backed by bullion liabilities shall be assigned a 0 % risk weight.
+
+88. In the case of asset sale and repurchase agreements and outright forward purchases, the risk weight shall be that assigned to the assets in question and not to the counterparties to the transactions.
+
+89. Where a credit institution provides credit protection for a number of exposures under terms that the nth default among the exposures shall trigger payment and that this credit event shall terminate the contract, and where the product has an external credit assessment from an eligible ECAI, the risk weights prescribed in Articles 94 to 101 shall be assigned. If the product is not rated by an eligible ECAI, the risk weights of the exposures included in the basket will be aggregated, excluding n-1 exposures, up to a maximum of 1 250 % and multiplied by the nominal amount of the protection provided by the credit derivative to obtain the risk weighted asset amount. The n-1 exposures to be excluded from the aggregation shall be determined on the basis that they shall include those exposures each of which produces a lower risk-weighted exposure amount than the risk-weighted exposure amount of any of the exposures included in the aggregation.
+
+90. The exposure value for leases shall be the discounted minimum lease payments. Minimum lease payments are the payments over the lease term that the lessee is or can be required to make and any bargain option (i.e. option the exercise of which is reasonably certain). Any guaranteed residual value fulfilling the set of conditions in Annex VIII, Part 1, points 26, 27 and 28 regarding the eligibility of protection providers as well as the minimum requirements for recognising other types of guarantees provided in Annex VIII, Part 2, points 14 to 19 shall also be included in the minimum lease payments. These exposures shall be assigned to the relevant exposure class in accordance with Article 79. When the exposure is a residual value of leased properties, the risk weighted exposure amounts shall be calculated as follows: 1/t * 100 % * exposure value, where t is the greater of 1 and the nearest number of whole years of the lease remaining.
+
+PART 2
+
+Recognition of ECAIs and mapping of their credit assessments
+
+1. **METHODOLOGY**
+
+1.1. **Objectivity**
+
+1. Competent authorities shall verify that the methodology for assigning credit assessments is rigorous, systematic, continuous and subject to validation based on historical experience.
+
+1.2. **Independence**
+
+2. Competent authorities shall verify that the methodology is free from external political influences or constraints, and from economic pressures that may influence the credit assessment.
+
+3. Independence of the ECAI's methodology shall be assessed by competent authorities according to factors such as the following:
+
+(a) ownership and organisation structure of the ECAI;
+
+(b) financial resources of the ECAI;
+
+(c) staffing and expertise of the ECAI; and
+
+(d) corporate governance of the ECAI.
+
+1.3. **Ongoing review**
+
+4. Competent authorities shall verify that ECAI's credit assessments are subject to ongoing review and shall be responsive to changes in the financial conditions. Such review shall take place after all significant events and at least annually.
+
+5. Before any recognition, competent authorities shall verify that the assessment methodology for each market segment is established according to standards such as the following:
+
+(a) the back-testing must be established for at least one year;
+
+(b) the regularity of the review process by the ECAI must be monitored by the competent authorities; and
+
+(c) the competent authorities must be able to receive from the ECAI the extent of its contacts with the senior management of the entities which it rates.
+
+6. Competent authorities shall take the necessary measures to be promptly informed by ECAIs of any material changes in the methodology they use for assigning credit assessments.
+
+1.4. **Transparency and disclosure**
+
+7. Competent authorities shall take the necessary measures to assure that the principles of the methodology employed by the ECAI for the formulation of its credit assessments are publicly available as to allow all potential users to decide whether they are derived in a reasonable way.
+
+2. **INDIVIDUAL CREDIT ASSESSMENTS**
+
+2.1. **Credibility and market acceptance**
+
+8. Competent authorities shall verify that ECAIs' individual credit assessments are recognised in the market as credible and reliable by the users of such credit assessments.
+
+9. Credibility shall be assessed by competent authorities according to factors such as the following:
+
+(a) market share of the ECAI;
+
+(b) revenues generated by the ECAI, and more in general financial resources of the ECAI;
+
+(c) whether there is any pricing on the basis of the rating; and
+
+(d) at least two credit institutions use the ECAI's individual credit assessment for bond issuing and/or assessing credit risks.
+
+2.2. **Transparency and Disclosure**
+
+10. Competent authorities shall verify that individual credit assessments are accessible at equivalent terms at least to all credit institutions having a legitimate interest in these individual credit assessments.
+
+11. In particular, competent authorities shall verify that individual credit assessments are available to non-domestic parties on equivalent terms as to domestic credit institutions having a legitimate interest in these individual credit assessments.
+
+3. **‘MAPPING’**
+
+12. In order to differentiate between the relative degrees of risk expressed by each credit assessment, competent authorities shall consider quantitative factors such as the long-term default rate associated with all items assigned the same credit assessment. For recently established ECAIs and for those that have compiled only a short record of default data, competent authorities shall ask the ECAI what it believes to be the long-term default rate associated with all items assigned the same credit assessment.
+
+13. In order to differentiate between the relative degrees of risk expressed by each credit assessment, competent authorities shall consider qualitative factors such as the pool of issuers that the ECAI covers, the range of credit assessments that the ECAI assigns, each credit assessment meaning and the ECAI's definition of default.
+
+14. Competent authorities shall compare default rates experienced for each credit assessment of a particular ECAI and compare them with a benchmark built on the basis of default rates experienced by other ECAIs on a population of issuers that the competent authorities believes to present an equivalent level of credit risk.
+
+15. When competent authorities believe that the default rates experienced for the credit assessment of a particular ECAI are materially and systematically higher then the benchmark, competent authorities shall assign a higher credit quality step in the credit quality assessment scale to the ECAI credit assessment.
+
+16. When competent authorities have increased the associated risk weight for a specific credit assessment of a particular ECAI, if the ECAI demonstrates that the default rates experienced for its credit assessment are no longer materially and systematically higher than the benchmark, competent authorities may decide to restore the original credit quality step in the credit quality assessment scale for the ECAI credit assessment.
+
+PART 3
+
+Use of ECAIs' credit assessments for the determination of risk weights
+
+1. **TREATMENT**
+
+1. A credit institution may nominate one or more eligible ECAIs to be used for the determination of risk weights to be assigned to asset and off-balance sheet items.
+
+2. A credit institution which decides to use the credit assessments produced by an eligible ECAI for a certain class of items must use those credit assessments consistently for all exposures belonging to that class.
+
+3. A credit institution which decides to use the credit assessments produced by an eligible ECAI must use them in a continuous and consistent way over time.
+
+4. A credit institution can only use ECAIs credit assessments that take into account all amounts both in principal and in interest owed to it.
+
+5. If only one credit assessment is available from a nominated ECAI for a rated item, that credit assessment shall be used to determine the risk weight for that item.
+
+6. If two credit assessments are available from nominated ECAIs and the two correspond to different risk weights for a rated item, the higher risk weight shall be assigned.
+
+7. If more than two credit assessments are available from nominated ECAIs for a rated item, the two assessments generating the two lowest risk weights shall be referred to. If the two lowest risk weights are different, the higher risk weight shall be assigned. If the two lowest risk weights are the same, that risk weight shall be assigned.
+
+2. **ISSUER AND ISSUE CREDIT ASSESSMENT**
+
+8. Where a credit assessment exists for a specific issuing program or facility to which the item constituting the exposure belongs, this credit assessment shall be used to determine the risk weight to be assigned to that item.
+
+9. Where no directly applicable credit assessment exists for a certain item, but a credit assessment exists for a specific issuing program or facility to which the item constituting the exposure does not belong or a general credit assessment exists for the issuer, then that credit assessment shall be used if it produces a higher risk weight than would other wise be the case or if it produces a lower risk weight and the exposure in question ranks pari passu or senior in all respects to the specific issuing program or facility or to senior unsecured exposures of that issuer, as relevant.
+
+10. Points 8 and 9 are not to prevent the application of points 68 to 71 of Part 1.
+
+11. Credit assessments for issuers within a corporate group cannot be used as credit assessment of another issuer within the same corporate group.
+
+3. **LONG-TERM AND SHORT-TERM CREDIT ASSESSMENTS**
+
+12. Short-term credit assessments may only be used for short-term asset and off-balance sheet items constituting exposures to institutions and corporates.
+
+13. Any short-term credit assessment shall only apply to the item the short-term credit assessment refers to, and it shall not be used to derive risk weights for any other item.
+
+14. Notwithstanding point 13, if a short-term rated facility is assigned a 150 % risk weight, then all unrated unsecured exposures on that obligor whether short-term or long-term shall also be assigned a 150 % risk weight.
+
+15. Notwithstanding point 13, if a short-term rated facility is assigned a 50 % risk-weight, no unrated short-term exposure shall be assigned a risk weight lower than 100 %.
+
+4. **DOMESTIC AND FOREIGN CURRENCY ITEMS**
+
+16. A credit assessment that refers to an item denominated in the obligor's domestic currency cannot be used to derive a risk weight for another exposure on that same obligor that is denominated in a foreign currency.
+
+17. Notwithstanding point 16, when an exposure arises through a credit institution's participation in a loan that has been extended by a Multilateral Development Bank whose preferred creditor status is recognised in the market, competent authorities may allow the credit assessment on the obligors' domestic currency item to be used for risk weighting purposes.
+
+<a id="anx_vii"></a>
+
+### ANNEX VII
+
+
+
+<a id="internal_ratings_based_approach"></a>
+
+### INTERNAL RATINGS BASED APPROACH
+
+PART 1
+
+Risk weighted exposure amounts and expected loss amounts
+
+1. **CALCULATION OF RISK WEIGHTED EXPOSURE AMOUNTS FOR CREDIT RISK**
+
+1. Unless noted otherwise, the input parameters PD, LGD, and maturity value (M) shall be determined as set out in Part 2 and the exposure value shall be determined as set out in Part 3.
+
+2. The risk weighted exposure amount for each exposure shall be calculated in accordance with the following formulae.
+
+1.1. **Risk weighted exposure amounts for exposures to corporates, institutions and central governments and central banks.**
+
+3. Subject to points 5 to 9, the risk weighted exposure amounts for exposures to corporates, institutions and central governments and central banks shall be calculated according to the following formulae:
+
+N(x) denotes the cumulative distribution function for a standard normal random variable (i.e. the probability that a normal random variable with mean zero and variance of one is less than or equal to x). G (Z) denotes the inverse cumulative distribution function for a standard normal random variable (i.e. the value x such that N(x) z)
+
+For PD = 0, RW shall be 0.
+
+For PD = 1:
+
+— for defaulted exposures where credit institutions apply the LGD values set out in Part 2, point 8, RW shall be 0; and
+
+— for defaulted exposures where credit institutions use own estimates of LGDs, RW shall be Max{0, 12.5 *(LGD-ELBE)};
+
+where ELBE shall be the credit institution's best estimate of expected loss for the defaulted exposure according to point 80 of Part 4.
+
+Risk—weighted exposure amount = RW * exposure value.
+
+4. The risk weighted exposure amount for each exposure which meets the requirements set out in Annex VIII, Part 1, point 29 and Annex VIII, Part 2, point 22 may be adjusted according to the following formula:
+
+Risk—weighted exposure amount = RW * exposure value * ((0,15 + 160*PDpp)]
+
+where:
+
+PDpp = PD of the protection provider.
+
+RW shall be calculated using the relevant risk weight formula set out in point 3 for the exposure, the PD of the obligor and the LGD of a comparable direct exposure to the protection provider. The maturity factor (b) shall be calculated using the lower of the PD of the protection provider and the PD of the obligor.
+
+5. For exposures to companies where the total annual sales for the consolidated group of which the firm is a Part is less than EUR 50 million, credit institutions may use the following correlation formula for the calculation of risk weights for corporate exposures. In this formula S is expressed as total annual sales in millions of Euros with EUR 5 million <= S <= EUR 50 million. Reported sales of less than EUR 5 million shall be treated as if they were equivalent to EUR 5 million. For purchased receivables the total annual sales shall be the weighted average by individual exposures of the pool.
+
+Credit institutions shall substitute total assets of the consolidated group for total annual sales when total annual sales are not a meaningful indicator of firm size and total assets are a more meaningful indicator than total annual sales.
+
+6. For specialised lending exposures in respect of which a credit institution cannot demonstrate that its PD estimates meet the minimum requirements set out in Part 4 it shall assign risk weights to these exposures according to Table 1, as follows:
+
+Table 1
+
+| Remaining Maturity | Category 1 | Category 2 | Category 3 | Category 4 | Category 5 |
+| --- | --- | --- | --- | --- | --- |
+| Less than 2,5 years | 50 % | 70 % | 115 % | 250 % | 0 % |
+| Equal or more than 2,5 years | 70 % | 90 % | 115 % | 250 % | 0 % |
+
+The competent authorities may authorise a credit institution generally to assign preferential risk weights of 50 % to exposures in category 1, and a 70 % risk weight to exposures in category 2, provided the credit institution's underwriting characteristics and other risk characteristics are substantially strong for the relevant category.
+
+In assigning risk weights to specialised lending exposures credit institutions shall take into account the following factors: financial strength, political and legal environment, transaction and/or asset characteristics, strength of the sponsor and developer, including any public private partnership income stream, and security package.
+
+7. For their purchased corporate receivables credit institutions shall comply with the minimum requirements set out in points 105 to 109 of Part 4. For purchased corporate receivables that comply in addition with the conditions set out in point 14, and where it would be unduly burdensome for a credit institution to use the risk quantification standards for corporate exposures as set out in Part 4 for these receivables, the risk quantification standards for retail exposures as set out in Part 4 may be used.
+
+8. For purchased corporate receivables, refundable purchase discounts, collateral or partial guarantees that provide first-loss protection for default losses, dilution losses, or both, may be treated as first-loss positions under the IRB securitisation framework.
+
+9. Where an institution provides credit protection for a number of exposures under terms that the nth default among the exposures shall trigger payment and that this credit event shall terminate the contract, if the product has an external credit assessment from an eligible ECAI the risk weights set out in Articles 94 to 101 will be applied. If the product is not rated by an eligible ECAI, the risk weights of the exposures included in the basket will be aggregated, excluding n-1 exposures where the sum of the expected loss amount multiplied by 12,5 and the risk weighted exposure amount shall not exceed the nominal amount of the protection provided by the credit derivative multiplied by 12,5. The n-1 exposures to be excluded from the aggregation shall be determined on the basis that they shall include those exposures each of which produces a lower risk-weighted exposure amount than the risk-weighted exposure amount of any of the exposures included in the aggregation.
+
+1.2. **Risk weighted exposure amounts for retail exposures**
+
+10. Subject to points 12 and 13, the risk weighted exposure amounts for retail exposures shall be calculated according to the following formulae:
+
+Risk weighted(RW)
+
+N(x) denotes the cumulative distribution function for a standard normal random variable (i.e. the probability that a normal random variable with mean zero and variance of one is less than or equal to x). G (Z) denotes the inverse cumulative distribution function for a standard normal random variable (i.e. the value x such that *N*(x)= z).
+
+For PD = 1 (defaulted exposure), RW shall be Max {0, 12.5 *(LGD-ELBE)},
+
+where ELBE shall be the credit institution's best estimate of expected loss for the defaulted exposure according to point 80 of Part 4.
+
+Risk—weighted exposure amount = RW * exposure value.
+
+11. The risk weighted exposure amount for each exposure to small and medium sized entities as defined in Article 86(4) which meets the requirements set out in Annex VIII, Part 1, point 29 and Annex VIII, Part 2, point 22 may be calculated according to point 4.
+
+12. For retail exposures secured by real estate collateral a correlation (R) of 0,15 shall replace the figure produced by the correlation formula in point 10.
+
+13. For qualifying revolving retail exposures as defined in points (a) to (e), a correlation (R) of 0,04 shall replace the figure produced by the correlation formula in point 10.
+
+Exposures shall qualify as qualifying revolving retail exposures if they meet the following conditions:
+
+(a) The exposures are to individuals;
+
+(b) The exposures are revolving, unsecured, and to the extent they are not drawn immediately and unconditionally, cancellable by the credit institution. (In this context revolving exposures are defined as those where customers' outstanding balances are permitted to fluctuate based on their decisions to borrow and repay, up to a limit established by the credit institution.). Undrawn commitments may be considered as unconditionally cancellable if the terms permit the credit institution to cancel them to the full extent allowable under consumer protection and related legislation;
+
+(c) The maximum exposure to a single individual in the sub-portfolio is EUR 100 000 or less;
+
+(d) The credit institution can demonstrate that the use of the correlation of this point is limited to portfolios that have exhibited low volatility of loss rates, relative to their average level of loss rates, especially within the low PD bands. Competent authorities shall review the relative volatility of loss rates across the qualifying revolving retail sub-portfolios, as well the aggregate qualifying revolving retail portfolio, and intend to share information on the typical characteristics of qualifying revolving retail loss rates across jurisdictions; and
+
+(e) The competent authority concurs that treatment as a qualifying revolving retail exposure is consistent with the underlying risk characteristics of the sub-portfolio.
+
+By way of derogation from point (b), competent authorities may waive the requirement that the exposure be unsecured in respect of collateralised credit facilities linked to a wage account. In this case amounts recovered from the collateral shall not be taken into account in the LGD estimate.
+
+14. To be eligible for the retail treatment, purchased receivables shall comply with the minimum requirements set out in Part 4, points 105 to 109 and the following conditions:
+
+(a) The credit institution has purchased the receivables from unrelated, third party sellers, and its exposure to the obligor of the receivable does not include any exposures that are directly or indirectly originated by the credit institution itself;
+
+(b) The purchased receivables shall be generated on an arm's-length basis between the seller and the obligor. As such, inter-company accounts receivables and receivables subject to contra-accounts between firms that buy and sell to each other are ineligible;
+
+(c) The purchasing credit institution has a claim on all proceeds from the purchased receivables or a pro-rata interest in the proceeds; and
+
+(d) The portfolio of purchased receivables is sufficiently diversified.
+
+15. For purchased receivables, refundable purchase discounts, collateral or partial guarantees that provide first-loss protection for default losses, dilution losses, or both, may be treated as first-loss positions under the IRB securitisation framework.
+
+16. For hybrid pools of purchased retail receivables where purchasing credit institutions cannot separate exposures secured by real estate collateral and qualifying revolving retail exposures from other retail exposures, the retail risk weight function producing the highest capital requirements for those exposures shall apply.
+
+1.3. **Risk weighted exposure amounts for equity exposures**
+
+17. A credit institution may employ different approaches to different portfolios where the credit institution itself uses different approaches internally. Where a credit institution uses different approaches, the credit institution shall demonstrate to the competent authorities that the choice is made consistently and is not determined by regulatory arbitrage considerations.
+
+18. Notwithstanding point 17, competent authorities may allow the attribution of risk weighted exposure amounts for equity exposures to ancillary services undertakings according to the treatment of other non credit-obligation assets.
+
+1.3.1. **Simple risk weight approach**
+
+19. The risk weighted exposure amount shall be calculated according to the following formula:
+
+Risk weight (RW) = 190 % for private equity exposures in sufficiently diversified portfolios.
+
+Risk weight (RW) = 290 % for exchange traded equity exposures.
+
+Risk weight (RW) = 370 % for all other equity exposures.
+
+Risk-weighted exposure amount = RW * exposure value.
+
+20. Short cash positions and derivative instruments held in the non-trading book are permitted to offset long positions in the same individual stocks provided that these instruments have been explicitly designated as hedges of specific equity exposures and that they provide a hedge for at least another year. Other short positions are to be treated as if they are long positions with the relevant risk weight assigned to the absolute value of each position. In the context of maturity mismatched positions, the method is that for corporate exposures as set out in point 16 of Annex VII, Part 2.
+
+21. Credit institutions may recognise unfunded credit protection obtained on an equity exposure in accordance with the methods set out in Articles 90 to 93.
+
+1.3.2. **PD/LGD approach**
+
+22. The risk weighted exposure amounts shall be calculated according to the formulas in point 3. If credit institutions do not have sufficient information to use the definition of default set out in points 44 to 48 of Part 4, a scaling factor of 1,5 shall be assigned to the risk weights.
+
+23. At the individual exposure level the sum of the expected loss amount multiplied by 12,5 and the risk weighted exposure amount shall not exceed the exposure value multiplied by 12,5.
+
+24. Credit institutions may recognise unfunded credit protection obtained on an equity exposure in accordance with the methods set out in Articles 90 to 93. This shall be subject to an LGD of 90 % on the exposure to the provider of the hedge. For private equity exposures in sufficiently diversified portfolios an LGD of 65 % may be used. For these purposes M shall be 5 years.
+
+1.3.3. **Internal models approach**
+
+25. The risk weighted exposure amount shall be the potential loss on the credit institution’s equity exposures as derived using internal value-at-risk models subject to the 99th percentile, one-tailed confidence interval of the difference between quarterly returns and an appropriate risk-free rate computed over a long-term sample period, multiplied by 12.5. The risk weighted exposure amounts at the equity portfolio level shall not be less than the total of the sums of minimum risk weighted exposure amounts required under the PD/LGD Approach and the corresponding expected loss amounts multiplied by 12.5 and calculated on the basis of the PD values set out in Part 2, point 24 and the corresponding LGD values set out in Part 2, points 25 and 26.
+
+26. Credit institutions may recognise unfunded credit protection obtained on an equity position.
+
+1.4. **Risk weighted exposure amounts for other non credit-obligation assets**
+
+27. The risk weighted exposure amounts shall be calculated according to the following formula:
+
+Risk-weighted exposure amount = 100 % * exposure value,
+
+except for when the exposure is a residual value of leased properties in which case it shall be calculated as follows:
+
+1/t * 100 % * exposure value,
+
+where t is the greater of 1 and the nearest number of whole years of the lease remaining.
+
+2. **CALCULATION OF RISK WEIGHTED EXPOSURE AMOUNTS FOR DILUTION RISK OF PURCHASED RECEIVABLES**
+
+28. Risk weights for dilution risk of purchased corporate and retail receivables:
+
+The risk weights shall be calculated according to the formula in point 3. The input parameters PD and LGD shall be determined as set out in Part 2, the exposure value shall be determined as set out in Part 3 and M shall be 1 year. If credit institutions can demonstrate to the competent authorities that dilution risk is immaterial, it need not be recognised.
+
+3. **CALCULATION OF EXPECTED LOSS AMOUNTS**
+
+29. Unless noted otherwise, the input parameters PD and LGD shall be determined as set out in Part 2 and the exposure value shall be determined as set out in Part 3.
+
+30. The expected loss amounts for exposures to corporates, institutions, central governments and central banks and retail exposures shall be calculated according to the following formulae:
+
+Expected loss (EL) = PD × LGD.
+
+Expected loss amount = EL × exposure value.
+
+For defaulted exposures (PD =1) where credit institutions use own estimates of LGDs, EL shall be ELBE, the credit institution's best estimate of expected loss for the defaulted exposure according to Part 4, point 80.
+
+For exposures subject to the treatment set out in Part 1, point 4, EL shall be 0.
+
+31. The EL values for specialised lending exposures where credit institutions use the methods set out in point 6 for assigning risk weights shall be assigned according to Table 2.
+
+Table 2
+
+| Remaining Maturity | Category 1 | Category 2 | Category 3 | Category 4 | Category 5 |
+| --- | --- | --- | --- | --- | --- |
+| Less than 2,5 years | 0 % | 0,4 % | 2,8 % | 8 % | 50 % |
+| Equal to or more than 2,5 years | 0,4 % | 0,8 % | 2,8 % | 8 % | 50 % |
+
+Where competent authorities have authorised a credit institution generally to assign preferential risk weights of 50 % to exposures in category 1, and 70 % to exposures in category 2, the EL value for exposures in category 1 shall be 0 %, and for exposures in category 2 shall be 0,4 %.
+
+32. The expected loss amounts for equity exposures where the risk weighted exposure amounts are calculated according to the methods set out in points 19 to 21, shall be calculated according to the following formula:
+
+Expected loss amount = EL × exposure value
+
+The EL values shall be the following:
+
+Expected loss (EL) = 0,8 % for private equity exposures in sufficiently diversified portfolios
+
+Expected loss (EL) = 0,8 % for exchange traded equity exposures
+
+Expected loss (EL) = 2,4 % for all other equity exposures.
+
+33. The expected loss amounts for equity exposures where the risk weighted exposure amounts are calculated according to the methods set out in points 22 to 24 shall be calculated according to the following formulae:
+
+Expected loss (EL) = PD × LGD and
+
+Expected loss amount = EL × exposure value
+
+34. The expected loss amounts for equity exposures where the risk weighted exposure amounts are calculated according to the methods set out in points 25 to 26 shall be 0 %.
+
+35. The expected loss amounts for dilution risk of purchased receivables shall be calculated according to the following formula:
+
+Expected loss (EL) = PD × LGD and
+
+Expected loss amount = EL × exposure value
+
+4. **TREATMENT OF EXPECTED LOSS AMOUNTS**
+
+36. The expected loss amounts calculated in accordance with points 30, 31 and 35 shall be subtracted from the sum of value adjustments and provisions related to these exposures. Discounts on balance sheet exposures purchased when in default according to Part 3, point 1 shall be treated in the same manner as value adjustments. Expected loss amounts for securitised exposures and value adjustments and provisions related to these exposures shall not be included in this calculation.
+
+PART 2
+
+PD, LGD and Maturity
+
+1. The input parameters PD, LGD and maturity value (M) into the calculation of risk weighted exposure amounts and expected loss amounts specified in Part 1 shall be those estimated by the credit institution in accordance with Part 4, subject to the following provisions.
+
+1. **EXPOSURES TO CORPORATES, INSTITUTIONS AND CENTRAL GOVERNMENTS AND CENTRAL BANKS**
+
+1.1. **PD**
+
+2. The PD of an exposure to a corporate or an institution shall be at least 0,03 %.
+
+3. For purchased corporate receivables in respect of which a credit institution cannot demonstrate that its PD estimates meet the minimum requirements set out in Part 4, the PDs for these exposures shall be determined according to the following methods: for senior claims on purchased corporate receivables PD shall be the credit institutions estimate of EL divided by LGD for these receivables. For subordinated claims on purchased corporate receivables PD shall be the credit institution's estimate of EL. If a credit institution is permitted to use own LGD estimates for corporate exposures and it can decompose its EL estimates for purchased corporate receivables into PDs and LGDs in a reliable manner, the PD estimate may be used
+
+4. The PD of obligors in default shall be 100 %.
+
+5. Credit institutions may recognise unfunded credit protection in the PD in accordance with the provisions of Articles 90 to 93. For dilution risk, however, competent authorities may recognise as eligible unfunded credit protection providers other than those indicated in Annex VIII, Part 1.
+
+6. Credit institutions using own LGD estimates may recognise unfunded credit protection by adjusting PDs subject to point 10.
+
+7. For dilution risk of purchased corporate receivables, PD shall be set equal to EL estimate for dilution risk. If a credit institution is permitted to use own LGD estimates for corporate exposures and it can decompose its EL estimates for dilution risk of purchased corporate receivables into PDs and LGDs in a reliable manner, the PD estimate may be used. Credit institutions may recognise unfunded credit protection in the PD in accordance with the provisions of Articles 90 to 93. Competent authorities may recognise as eligible unfunded credit protection providers other than those indicated in Annex VIII, Part 1. If a credit institution is permitted to use own LGD estimates for dilution risk of purchased corporate receivables, it may recognise unfunded credit protection by adjusting PDs subject of point 10.
+
+1.2. **LGD**
+
+8. Credit institutions shall use the following LGD values:
+
+(a) Senior exposures without eligible collateral: 45 %;
+
+(b) Subordinated exposures without eligible collateral: 75 %;
+
+(c) Credit institutions may recognise funded and unfunded credit protection in the LGD in accordance with Articles 90 to 93;
+
+(d) Covered bonds as defined in Annex VI, Part 1, points 68 to 70 may be assigned an LGD value of 11,25 %;
+
+(e) For senior purchased corporate receivables exposures where a credit institution cannot demonstrate that its PD estimates meet the minimum requirements set out in Part 4: 45 %;
+
+(f) For subordinated purchased corporate receivables exposures where a credit institution cannot demonstrate that its PD estimates meet the minimum requirements set out in Part 4: 100 %; and
+
+(g) For dilution risk of purchased corporate receivables: 75 %.
+
+Until 31 December 2010, covered bonds as defined in Annex VI, Part 1, points 68 to 70 may be assigned an LGD value of 11,25 % if:
+
+— assets as set out in Annex VI, Part 1, point 68(a) to (c) collateralising the bonds all qualify for credit quality step 1 as set out in that Annex;
+
+— where assets set out in Annex VI, Part 1, point 68(d) and (e) are used as collateral, the respective upper limits laid down in each of those points is 10 % of the nominal amount of the outstanding issue;
+
+— assets as set out in Annex VI, Part 1, point 68(f) are not used as collateral; or
+
+— the covered bonds are the subject of a credit assessment by a nominated ECAI, and the ECAI places them in the most favourable category of credit assessment that the ECAI could make in respect of covered bonds.
+
+— By 31 December 2010, this derogation shall be reviewed and consequent to such review the Commission may make proposals in accordance with the procedure referred to in Article 151(2).
+
+9. Notwithstanding point 8, for dilution and default risk if a credit institution is permitted to use own LGD estimates for corporate exposures and it can decompose its EL estimates for purchased corporate receivables into PDs and LGDs in a reliable manner, the LGD estimate for purchased corporate receivables may be used.
+
+10. Notwithstanding point 8, if a credit institution is permitted to use own LGD estimates for exposures to corporates, institutions, central governments and central banks, unfunded credit protection may be recognised by adjusting PD and/or LGD subject to minimum requirements as specified in Part 4 and approval of competent authorities. A credit institution shall not assign guaranteed exposures an adjusted PD or LGD such that the adjusted risk weight would be lower than that of a comparable, direct exposure to the guarantor.
+
+11. Notwithstanding points 8 and 10, for the purposes of Part 1, point 4, the LGD of a comparable direct exposure to the protection provider shall either be the LGD associated with an unhedged facility to the guarantor or the unhedged facility of the obligor, depending upon whether in the event both the guarantor and obligor default during the life of the hedged transaction, available evidence and the structure of the guarantee indicate that the amount recovered would depend on the financial condition of the guarantor or obligor, respectively.
+
+1.3. **Maturity**
+
+12. Subject to point 13, credit institutions shall assign to exposures arising from repurchase transactions or securities or commodities lending or borrowing transactions a maturity value (M) of 0,5 years and to all other exposures an M of 2,5 years. Competent authorities may require all credit institutions in their jurisdiction to use M for each exposure as set out under point 13.
+
+13. Credit institutions permitted to use own LGDs and/or own conversion factors for exposures to corporates, institutions or central governments and central banks shall calculate M for each of these exposures as set out in (a) to (e) and subject to points 14 to 16. In all cases, M shall be no greater than 5 years:
+
+(a) For an instrument subject to a cash flow schedule, M shall be calculated according to the following formula:
+
+where CFt denotes the cash flows (principal, interest payments and fees) contractually payable by the obligor in period t;
+
+(b) For derivatives subject to a master netting agreement, M shall be the weighted average remaining maturity of the exposure, where M shall be at least 1 year. The notional amount of each exposure shall be used for weighting the maturity;
+
+(c) For exposures arising from fully or nearly-fully collateralised derivative instruments (listed in Annex IV) transactions and fully or nearly-fully collateralised margin lending transactions which are subject to a master netting agreement, M shall be the weighted average remaining maturity of the transactions where M shall be at least 10 days. For repurchase transactions or securities or commodities lending or borrowing transactions which are subject to a master netting agreement, M shall be the weighted average remaining maturity of the transactions where M shall be at least 5 days. The notional amount of each transaction shall be used for weighting the maturity;
+
+(d) If a credit institution is permitted to use own PD estimates for purchased corporate receivables, for drawn amounts M shall equal the purchased receivables exposure weighted average maturity, where M shall be at least 90 days. This same value of M shall also be used for undrawn amounts under a committed purchase facility provided the facility contains effective covenants, early amortisation triggers, or other features that protect the purchasing credit institution against a significant deterioration in the quality of the future receivables it is required to purchase over the facility's term. Absent such effective protections, M for undrawn amounts shall be calculated as the sum of the longest-dated potential receivable under the purchase agreement and the remaining maturity of the purchase facility, where M shall be at least 90 days;
+
+(e) For any other instrument than those mentioned in this point or when a credit institution is not in a position to calculate M as set out in (a), M shall be the maximum remaining time (in years) that the obligor is permitted to take to fully discharge its contractual obligations, where M shall be at least 1 year;
+
+(f) for credit institutions using the Internal Model Method set out in Annex III, Part 6 to calculate the exposure values, M shall be calculated for exposures to which they apply this method and for which the maturity of the longest-dated contract contained in the netting set is greater than one year according to the following formula:
+
+where:
+
+df = the risk-free discount factor for future time period tk and the remaining symbols are defined in Annex III, Part 6.
+
+Notwithstanding the first paragraph of point 13(f), a credit institution that uses an internal model to calculate a one-sided credit valuation adjustment (CVA) may use, subject to the approval of the competent authorities, the effective credit duration estimated by the internal model as M.
+
+Subject to paragraph 14, for netting sets in which all contracts have an original maturity of less than one year the formula in point (a) shall apply; and
+
+(g) for the purposes of Part 1, point 4, M shall be the effective maturity of the credit protection but at least 1 year.
+
+14. Notwithstanding point 13(a), (b), (c), (d) and (e), M shall be at least one-day for:
+
+— fully or nearly-fully collateralised derivative instruments listed in Annex IV;
+
+— fully or nearly-fully collateralised margin lending transactions; and
+
+— repurchase transactions, securities or commodities lending or borrowing transactions
+
+provided the documentation requires daily re-margining and daily revaluation and includes provisions that allow for the prompt liquidation or setoff of collateral in the event of default or failure to re-margin.
+
+In addition, for other short-term exposures specified by the competent authorities which are not Part of the credit institution's ongoing financing of the obligor, M shall be at least one-day. A careful review of the particular circumstances shall be made in each case.
+
+15. The competent authorities may allow for exposures to corporates situated in the Community and having consolidated sales and consolidated assets of less than EUR 500 million the use of M as set out in point 12. Competent authorities may replace EUR 500 million total assets with EUR 1 000 million total assets for corporates which primarily invest in real estate.
+
+16. Maturity mismatches shall be treated as specified in Articles 90 to 93.
+
+2. **RETAIL EXPOSURES**
+
+2.1. **PD**
+
+17. The PD of an exposure shall be at least 0,03 %.
+
+18. The PD of obligors or, where an obligation approach is used, of exposures in default shall be 100 %.
+
+19. For dilution risk of purchased receivables PD shall be set equal to EL estimates for dilution risk. If a credit institution can decompose its EL estimates for dilution risk of purchased receivables into PDs and LGDs in a reliable manner, the PD estimate may be used.
+
+20. Unfunded credit protection may be recognised as eligible by adjusting PDs subject to point 22. For dilution risk, where credit institutions do not use own estimates of LGDs, this shall be subject to compliance with Articles 90 to 93; for this purpose competent authorities may recognise as eligible unfunded protection providers other than those indicated in Annex VIII, Part 1.
+
+2.2. **LGD**
+
+21. Credit institutions shall provide own estimates of LGDs subject to minimum requirements as specified in Part 4 and approval of competent authorities. For dilution risk of purchased receivables, an LGD value of 75 % shall be used. If a credit institution can decompose its EL estimates for dilution risk of purchased receivables into PDs and LGDs in a reliable manner, the LGD estimate may be used.
+
+22. Unfunded credit protection may be recognised as eligible by adjusting PD or LGD estimates subject to minimum requirements as specified in Part 4, points 99 to 104 and approval of competent authorities either in support of an individual exposure or a pool of exposures. A credit institution shall not assign guaranteed exposures an adjusted PD or LGD such that the adjusted risk weight would be lower than that of a comparable, direct exposure to the guarantor.
+
+23. Notwithstanding point 22, for the purposes of Part 1, point 11 the LGD of a comparable direct exposure to the protection provider shall either be the LGD associated with an unhedged facility to the guarantor or the unhedged facility of the obligor, depending upon whether, in the event both the guarantor and obligor default during the life of the hedged transaction, available evidence and the structure of the guarantee indicate that the amount recovered would depend on the financial condition of the guarantor or obligor, respectively.
+
+3. **EQUITY EXPOSURES SUBJECT TO PD/LGD METHOD**
+
+3.1. **PD**
+
+24. PDs shall be determined according to the methods for corporate exposures.
+
+The following minimum PDs shall apply:
+
+(a) 0,09 % for exchange traded equity exposures where the investment is part of a long-term customer relationship;
+
+(b) 0,09 % for non-exchange traded equity exposures where the returns on the investment are based on regular and periodic cash flows not derived from capital gains;
+
+(c) 0,40 % for exchange traded equity exposures including other short positions as set out in part 1, point 20; and
+
+(d) 1,25 % for all other equity exposures including other short positions as set out in Part 1, point 20.
+
+3.2. **LGD**
+
+25. Private equity exposures in sufficiently diversified portfolios may be assigned an LGD of 65 %.
+
+26. All other exposures shall be assigned an LGD of 90 %.
+
+3.3. **Maturity**
+
+27. M assigned to all exposures shall be 5 years.
+
+PART 3
+
+Exposure value
+
+1. **EXPOSURES TO CORPORATES, INSTITUTIONS, CENTRAL GOVERNMENTS AND CENTRAL BANKS AND RETAIL EXPOSURES.**
+
+1. Unless noted otherwise, the exposure value of on-balance sheet exposures shall be measured gross of value adjustments. This rule also applies to assets purchased at a price different than the amount owed. For purchased assets, the difference between the amount owed and the net value recorded on the balance-sheet of credit institutions is denoted discount if the amount owed is larger, and premium if it is smaller.
+
+2. Where credit institutions use Master netting agreements in relation to repurchase transactions or securities or commodities lending or borrowing transactions, the exposure value shall be calculated in accordance with Articles 90 to 93.
+
+3. For on-balance sheet netting of loans and deposits, credit institutions shall apply for the calculation of the exposure value the methods set out in Articles 90 to 93.
+
+4. The exposure value for leases shall be the discounted minimum lease payments.
+
+‘Minimum lease payments’ are the payments over the lease term that the lessee is or can be required to make and any bargain option (i.e. option the exercise of which is reasonably certain). Any guaranteed residual value fulfilling the set of conditions in Annex VIII, Part 1, points 26 to 28 regarding the eligibility of protection providers as well as the minimum requirements for recognising other types of guarantees provided in Annex VIII, Part 2, points 14 to 19 should also be included in the minimum lease payments.
+
+5. In the case of any item listed in Annex IV, the exposure value shall be determined by the methods set out in Annex III.
+
+6. The exposure value for the calculation of risk weighted exposure amounts of purchased receivables shall be the outstanding amount minus the capital requirements for dilution risk prior to credit risk mitigation.
+
+7. Where an exposure takes the form of securities or commodities sold, posted or lent under repurchase transactions or securities or commodities lending or borrowing transactions, long settlement transactions and margin lending transactions, the exposure value shall be the value of the securities or commodities determined in accordance with Article 74. Where the Financial Collateral Comprehensive Method as set out under Annex VIII, Part 3 is used, the exposure value shall be increased by the volatility adjustment appropriate to such securities or commodities, as set out therein. The exposure value of repurchase transactions, securities or commodities lending or borrowing transactions, long settlement transactions and margin lending transactions may be determined either in accordance with Annex III or Annex VIII, Part 3, points 12 to 21.
+
+8. Notwithstanding point 7, the exposure value of credit risk exposures outstanding, as determined by the competent authorities, with a central counterparty shall be determined in accordance with Annex III, Part 2, point 6, provided that the central counterparty's counterparty credit risk exposures with all participants in its arrangements are fully collateralised on a daily basis.
+
+9. The exposure value for the following items shall be calculated as the committed but undrawn amount multiplied by a conversion factor.
+
+Credit institutions shall use the following conversion factors:
+
+(a) for credit lines which are uncommitted, that are unconditionally cancellable at any time by the credit institution without prior notice, or that effectively provide for automatic cancellation due to deterioration in a borrower's credit worthiness, a conversion factor of 0 % shall apply. To apply a conversion factor of 0 %, credit institutions shall actively monitor the financial condition of the obligor, and their internal control systems shall enable them to immediately detect a deterioration in the credit quality of the obligor. Undrawn retail credit lines may be considered as unconditionally cancellable if the terms permit the credit institution to cancel them to the full extent allowable under consumer protection and related legislation;
+
+(b) for short-term letters of credit arising from the movement of goods, a conversion factor of 20 % shall apply for both the issuing and confirming institutions;
+
+(c) for undrawn purchase commitments for revolving purchased receivables that are unconditionally cancellable or that effectively provide for automatic cancellation at any time by the institution without prior notice, a conversion factor of 0 % shall apply. To apply a conversion factor of 0 %, credit institutions shall actively monitor the financial condition of the obligor, and their internal control systems shall enable them to immediately detect a deterioration in the credit quality of the obligor;
+
+(d) for other credit lines, note issuance facilities (NIFs), and revolving underwriting facilities (RUFs), a conversion factor of 75 % shall apply; and
+
+(e) credit institutions which meet the minimum requirements for the use of own estimates of conversion factors as specified in Part 4 may use their own estimates of conversion factors across different product types as mentioned in points (a) to (d), subject to approval of the competent authorities.
+
+10. Where a commitment refers to the extension of another commitment, the lower of the two conversion factors associated with the individual commitment shall be used.
+
+11. For all off-balance sheet items other than those mentioned in points 1 to 9, the exposure value shall be the following percentage of its value:
+
+— 100 % if it is a full risk item,
+
+— 50 % if it is a medium-risk item,
+
+— 20 % if it is a medium/low-risk item, and
+
+— 0 % if it is a low-risk item.
+
+For the purposes of this point the off-balance sheet items shall be assigned to risk categories as indicated in Annex II.
+
+2. **EQUITY EXPOSURES**
+
+12. The exposure value shall be the value presented in the financial statements. Admissible equity exposure measures are the following:
+
+(a) For investments held at fair value with changes in value flowing directly through income and into own funds, the exposure value is the fair value presented in the balance sheet;
+
+(b) For investments held at fair value with changes in value not flowing through income but into a tax-adjusted separate component of equity, the exposure value is the fair value presented in the balance sheet; and
+
+(c) For investments held at cost or at the lower of cost or market, the exposure value is the cost or market value presented in the balance sheet.
+
+3. **OTHER NON CREDIT-OBLIGATION ASSETS**
+
+13. The exposure value of other non credit-obligation assets shall be the value presented in the financial statements.
+
+PART 4
+
+Minimum requirements for IRB Approach
+
+1. **RATING SYSTEMS**
+
+1. A ‘rating system’ shall comprise all of the methods, processes, controls, data collection and IT systems that support the assessment of credit risk, the assignment of exposures to grades or pools (rating), and the quantification of default and loss estimates for a certain type of exposure.
+
+2. If a credit institution uses multiple rating systems, the rationale for assigning an obligor or a transaction to a rating system shall be documented and applied in a manner that appropriately reflects the level of risk.
+
+3. Assignment criteria and processes shall be periodically reviewed to determine whether they remain appropriate for the current portfolio and external conditions.
+
+1.1. **Structure of rating systems**
+
+4. Where a credit institution uses direct estimates of risk parameters these may be seen as the outputs of grades on a continuous rating scale.
+
+1.1.1. **Exposures to corporates, institutions and central governments and central banks**
+
+5. A rating system shall take into account obligor and transaction risk characteristics.
+
+6. A rating system shall have an obligor rating scale which reflects exclusively quantification of the risk of obligor default. The obligor rating scale shall have a minimum of 7 grades for non-defaulted obligors and one for defaulted obligors.
+
+7. An ‘obligor grade’ shall mean a risk category within a rating system's obligor rating scale, to which obligors are assigned on the basis of a specified and distinct set of rating criteria, from which estimates of PD are derived. A credit institution shall document the relationship between obligor grades in terms of the level of default risk each grade implies and the criteria used to distinguish that level of default risk.
+
+8. Credit institutions with portfolios concentrated in a particular market segment and range of default risk shall have enough obligor grades within that range to avoid undue concentrations of obligors in a particular grade. Significant concentrations within a single grade shall be supported by convincing empirical evidence that the obligor grade covers a reasonably narrow PD band and that the default risk posed by all obligors in the grade falls within that band.
+
+9. To qualify for recognition by the competent authorities of the use for capital requirement calculation of own estimates of LGDs, a rating system shall incorporate a distinct facility rating scale which exclusively reflects LGDrelated transaction characteristics.
+
+10. A ‘facility grade’ shall mean a risk category within a rating system's facility scale, to which exposures are assigned on the basis of a specified and distinct set of rating criteria from which own estimates of LGDs are derived. The grade definition shall include both a description of how exposures are assigned to the grade and of the criteria used to distinguish the level of risk across grades.
+
+11. Significant concentrations within a single facility grade shall be supported by convincing empirical evidence that the facility grade covers a reasonably narrow LGD band, respectively, and that the risk posed by all exposures in the grade falls within that band.
+
+12. Credit institutions using the methods set out in Part 1, point 6 for assigning risk weights for specialised lending exposures are exempt from the requirement to have an obligor rating scale which reflects exclusively quantification of the risk of obligor default for these exposures. Notwithstanding point 6, these institutions shall have for these exposures at least 4 grades for non-defaulted obligors and at least one grade for defaulted obligors.
+
+1.1.2. **Retail exposures**
+
+13. Rating systems shall reflect both obligor and transaction risk, and shall capture all relevant obligor and transaction characteristics.
+
+14. The level of risk differentiation shall ensure that the number of exposures in a given grade or pool is sufficient to allow for meaningful quantification and validation of the loss characteristics at the grade or pool level. The distribution of exposures and obligors across grades or pools shall be such as to avoid excessive concentrations.
+
+15. Credit institutions shall demonstrate that the process of assigning exposures to grades or pools provides for a meaningful differentiation of risk, provides for a grouping of sufficiently homogenous exposures, and allows for accurate and consistent estimation of loss characteristics at grade or pool level. For purchased receivables the grouping shall reflect the seller's underwriting practices and the heterogeneity of its customers.
+
+16. Credit institutions shall consider the following risk drivers when assigning exposures to grades or pools.
+
+(a) Obligor risk characteristics;
+
+(b) Transaction risk characteristics, including product or collateral types or both. Credit institutions shall explicitly address cases where several exposures benefit from the same collateral; and
+
+(c) Delinquency, unless the credit institution demonstrates to its competent authority that delinquency is not a material risk drivers for the exposure;
+
+1.2. **Assignment to grades or pools**
+
+17. A credit institution shall have specific definitions, processes and criteria for assigning exposures to grades or pools within a rating system.
+
+(a) The grade or pool definitions and criteria shall be sufficiently detailed to allow those charged with assigning ratings to consistently assign obligors or facilities posing similar risk to the same grade or pool. This consistency shall exist across lines of business, departments and geographic locations;
+
+(b) The documentation of the rating process shall allow third parties to understand the assignments of exposures to grades or pools, to replicate grade and pool assignments and to evaluate the appropriateness of the assignments to a grade or a pool; and
+
+(c) The criteria shall also be consistent with the credit institution's internal lending standards and its policies for handling troubled obligors and facilities.
+
+18. A credit institution shall take all relevant information into account in assigning obligors and facilities to grades or pools. Information shall be current and shall enable the credit institution to forecast the future performance of the exposure. The less information a credit institution has, the more conservative shall be its assignments of exposures to obligor and facility grades or pools. If a credit institution uses an external rating as a primary factor determining an internal rating assignment, the credit institution shall ensure that it considers other relevant information.
+
+1.3. **Assignment of exposures**
+
+1.3.1. **Exposures to corporates, institutions and central governments and central banks**
+
+19. Each obligor shall be assigned to an obligor grade as Part of the credit approval process.
+
+20. For those credit institutions permitted to use own estimates of LGDs and/or conversion factors, each exposure shall also be assigned to a facility grade as Part of the credit approval process.
+
+21. Credit institutions using the methods set out in Part 1, point 6 for assigning risk weights for specialised lending exposures shall assign each of these exposures to a grade in accordance with point 12.
+
+22. Each separate legal entity to which the credit institution is exposed shall be separately rated. A credit institution shall demonstrate to its competent authority that it has acceptable policies regarding the treatment of individual obligor clients and groups of connected clients.
+
+23. Separate exposures to the same obligor shall be assigned to the same obligor grade, irrespective of any differences in the nature of each specific transaction. Exceptions, where separate exposures are allowed to result in multiple grades for the same obligor are:
+
+(a) country transfer risk, this being dependent on whether the exposures are denominated in local or foreign currency;
+
+(b) where the treatment of associated guarantees to an exposure may be reflected in an adjusted assignment to an obligor grade; and
+
+(c) where consumer protection, bank secrecy or other legislation prohibit the exchange of client data.
+
+1.3.2. **Retail exposures**
+
+24. Each exposure shall be assigned to a grade or a pool as part of the credit approval process.
+
+1.3.3. **Overrides**
+
+25. For grade and pool assignments credit institutions shall document the situations in which human judgement may override the inputs or outputs of the assignment process and the personnel responsible for approving these overrides. Credit institutions shall document these overrides and the personnel responsible. Credit institutions shall analyse the performance of the exposures whose assignments have been overridden. This analysis shall include assessment of the performance of exposures whose rating has been overridden by a particular person, accounting for all the responsible personnel.
+
+1.4. **Integrity of assignment process**
+
+1.4.1. **Exposures to corporates, institutions and central governments and central banks**
+
+26. Assignments and periodic reviews of assignments shall be completed or approved by an independent party that does not directly benefit from decisions to extend the credit.
+
+27. Credit institutions shall update assignments at least annually. High risk obligors and problem exposures shall be subject to more frequent review. Credit institutions shall undertake a new assignment if material information on the obligor or exposure becomes available.
+
+28. A credit institution shall have an effective process to obtain and update relevant information on obligor characteristics that affect PDs, and on transaction characteristics that affect LGDs and/or conversion factors.
+
+1.4.2. **Retail exposures**
+
+29. A credit institution shall at least annually update obligor and facility assignments or review the loss characteristics and delinquency status of each identified risk pool, whichever applicable. A credit institution shall also at least annually review in a representative sample the status of individual exposures within each pool as a means of ensuring that exposures continue to be assigned to the correct pool.
+
+1.5. **Use of models**
+
+30. If a credit institution uses statistical models and other mechanical methods to assign exposures to obligors or facilities grades or pools, then:
+
+(a) the credit institution shall demonstrate to its competent authority that the model has good predictive power and that capital requirements are not distorted as a result of its use. The input variables shall form a reasonable and effective basis for the resulting predictions. The model shall not have material biases;
+
+(b) the credit institution shall have in place a process for vetting data inputs into the model, which includes an assessment of the accuracy, completeness and appropriateness of the data;
+
+(c) the credit institution shall demonstrate that the data used to build the model is representative of the population of the credit institution's actual obligors or exposures;
+
+(d) the credit institution shall have a regular cycle of model validation that includes monitoring of model performance and stability; review of model specification; and testing of model outputs against outcomes; and
+
+(e) the credit institution shall complement the statistical model by human judgement and human oversight to review model-based assignments and to ensure that the models are used appropriately. Review procedures shall aim at finding and limiting errors associated with model weaknesses. Human judgements shall take into account all relevant information not considered by the model. The credit institution shall document how human judgement and model results are to be combined.
+
+1.6. **Documentation of rating systems**
+
+31. The credit institutions shall document the design and operational details of its rating systems. The documentation shall evidence compliance with the minimum requirements in this part, and address topics including portfolio differentiation, rating criteria, responsibilities of parties that rate obligors and exposures, frequency of assignment reviews, and management oversight of the rating process.
+
+32. The credit institution shall document the rationale for and analysis supporting its choice of rating criteria. A credit institution shall document all major changes in the risk rating process, and such documentation shall support identification of changes made to the risk rating process subsequent to the last review by the competent authorities. The organisation of rating assignment including the rating assignment process and the internal control structure shall also be documented.
+
+33. The credit institutions shall document the specific definitions of default and loss used internally and demonstrate consistency with the definitions set out in this Directive.
+
+34. If the credit institution employs statistical models in the rating process, the credit institution shall document their methodologies. This material shall:
+
+(a) provide a detailed outline of the theory, assumptions and/or mathematical and empirical basis of the assignment of estimates to grades, individual obligors, exposures, or pools, and the data source(s) used to estimate the model;
+
+(b) establish a rigorous statistical process (including out-of-time and out-of-sample performance tests) for validating the model; and
+
+(c) indicate any circumstances under which the model does not work effectively.
+
+35. Use of a model obtained from a third-party vendor that claims proprietary technology is not a justification for exemption from documentation or any other of the requirements for rating systems. The burden is on the credit institution to satisfy competent authorities.
+
+1.7. **Data maintenance**
+
+36. Credit institutions shall collect and store data on aspects of their internal ratings as required under Articles 145 to 149.
+
+1.7.1. **Exposures to corporates, institutions and central governments and central banks**
+
+37. Credit institutions shall collect and store:
+
+(a) complete rating histories on obligors and recognised guarantors;
+
+(b) the dates the ratings were assigned;
+
+(c) the key data and methodology used to derive the rating;
+
+(d) the person responsible for the rating assignment;
+
+(e) the identity of obligors and exposures that defaulted;
+
+(f) the date and circumstances of such defaults; and
+
+(g) data on the PDs and realised default rates associated with rating grades and ratings migration;
+
+Credit institutions not using own estimates of LGDs and/or conversion factors shall collect and store data on comparisons of realised LGDs to the values as set out in Part 2, point 8 and realised conversion factors to the values as set out in Part 3, point 9.
+
+38. Credit institutions using own estimates of LGDs and/or conversion factors shall collect and store:
+
+(a) complete histories of data on the facility ratings and LGD and conversion factor estimates associated with each rating scale;
+
+(b) the dates the ratings were assigned and the estimates were done;
+
+(c) the key data and methodology used to derive the facility ratings and LGD and conversion factor estimates;
+
+(d) the person who assigned the facility rating and the person who provided LGD and conversion factor estimates;
+
+(e) data on the estimated and realised LGDs and conversion factors associated with each defaulted exposure;
+
+(f) data on the LGD of the exposure before and after evaluation of the effects of a guarantee/or credit derivative, for those credit institutions that reflect the credit risk mitigating effects of guarantees or credit derivatives through LGD; and
+
+(g) data on the components of loss for each defaulted exposure.
+
+1.7.2. **Retail exposures**
+
+39. Credit institutions shall collect and store:
+
+(a) data used in the process of allocating exposures to grades or pools;
+
+(b) data on the estimated PDs, LGDs and conversion factors associated with grades or pools of exposures;
+
+(c) the identity of obligors and exposures that defaulted;
+
+(d) for defaulted exposures, data on the grades or pools to which the exposure was assigned over the year prior to default and the realised outcomes on LGD and conversion factor; and
+
+(e) data on loss rates for qualifying revolving retail exposures.
+
+1.8. **Stress tests used in assessment of capital adequacy**
+
+40. A credit institution shall have in place sound stress testing processes for use in the assessment of its capital adequacy. Stress testing shall involve identifying possible events or future changes in economic conditions that could have unfavourable effects on a credit institution's credit exposures and assessment of the credit institution's ability to withstand such changes.
+
+41. A credit institution shall regularly perform a credit risk stress test to assess the effect of certain specific conditions on its total capital requirements for credit risk. The test shall be one chosen by the credit institution, subject to supervisory review. The test to be employed shall be meaningful and reasonably conservative, considering at least the effect of mild recession scenarios. A credit institution shall assess migration in its ratings under the stress test scenarios. Stressed portfolios shall contain the vast majority of a credit institution's total exposure.
+
+42. Credit institutions using the treatment set out in Part 1, point 4 shall consider as Part of their stress testing framework the impact of a deterioration in the credit quality of protection providers, in particular the impact of protection providers falling outside the eligibility criteria.
+
+2. **RISK QUANTIFICATION**
+
+43. In determining the risk parameters to be associated with rating grades or pools, credit institutions shall apply the following requirements.
+
+2.1. **Definition of default**
+
+44. A ‘default’ shall be considered to have occurred with regard to a particular obligor when either or both of the two following events has taken place:
+
+(a) the credit institution considers that the obligor is unlikely to pay its credit obligations to the credit institution, the parent undertaking or any of its subsidiaries in full, without recourse by the credit institution to actions such as realising security (if held);
+
+(b) the obligor is past due more than 90 days on any material credit obligation to the credit institution, the parent undertaking or any of its subsidiaries.
+
+For overdrafts, days past due commence once an obligor has breached an advised limit, has been advised a limit smaller than current outstandings, or has drawn credit without authorisation and the underlying amount is material.
+
+An ‘advised limit’ shall mean a limit which has been brought to the knowledge of the obligor.
+
+Days past due for credit cards commence on the minimum payment due date.
+
+In the case of retail exposures and exposures to public sector entities (PSE) the competent authorities shall set a number of days past due as specified in point 48.
+
+In the case of corporate exposures the competent authorities may set a number of days past due as specified in Article 154(7).
+
+In the case of retail exposures credit institutions may apply the definition of default at a facility level.
+
+In all cases, the exposure past due shall be above a threshold defined by the competent authorities and which reflects a reasonable level of risk.
+
+45. Elements to be taken as indications of unlikeliness to pay shall include:
+
+(a) The credit institution puts the credit obligation on non-accrued status,
+
+(b) The credit institution makes a value adjustment resulting from a significant perceived decline in credit quality subsequent to the credit institution taking on the exposure,
+
+(c) The credit institution sells the credit obligation at a material credit-related economic loss,
+
+(d) The credit institution consents to a distressed restructuring of the credit obligation where this is likely to result in a diminished financial obligation caused by the material forgiveness, or postponement, of principal, interest or (where relevant) fees. This includes, in the case of equity exposures assessed under a PD/LGD Approach, distressed restructuring of the equity itself,
+
+(e) The credit institution has filed for the obligor's bankruptcy or a similar order in respect of an obligor's credit obligation to the credit institution, the parent undertaking or any of its subsidiaries, and
+
+(f) The obligor has sought or has been placed in bankruptcy or similar protection where this would avoid or delay repayment of a credit obligation to the credit institution, the parent undertaking or any of its subsidiaries.
+
+46. Credit institutions that use external data that is not itself consistent with the definition of default, shall demonstrate to their competent authorities that appropriate adjustments have been made to achieve broad equivalence with the definition of default.
+
+47. If the credit institution considers that a previously defaulted exposure is such that no trigger of default continues to apply, the credit institution shall rate the obligor or facility as they would for a non-defaulted exposure. Should the definition of default subsequently be triggered, another default would be deemed to have occurred.
+
+48. For retail and PSE exposures, the competent authorities of each Member State shall set the exact number of days past due that all credit institutions in its jurisdiction shall abide by under the definition of default set out in point 44, for exposures to such counterparts situated within this Member State. The specific number shall fall within 90-180 days and may differ across product lines. For exposures to such counterparts situated in the territories of other Member States, the competent authorities shall set a number of days past due which is not higher than the number set by the competent authority of the respective Member State.
+
+2.2. **Overall requirements for estimation**
+
+49. A credit institution's own estimates of the risk parameters PD, LGD, conversion factor and EL shall incorporate all relevant data, information and methods. The estimates shall be derived using both historical experience and empirical evidence, and not based purely on judgemental considerations. The estimates shall be plausible and intuitive and shall be based on the material drivers of the respective risk parameters. The less data a credit institution has, the more conservative it shall be in its estimation.
+
+50. The credit institution shall be able to provide a breakdown of its loss experience in terms of default frequency, LGD, conversion factor, or loss where EL estimates are used, by the factors it sees as the drivers of the respective risk parameters. The credit institution shall demonstrate that its estimates are representative of long run experience.
+
+51. Any changes in lending practice or the process for pursuing recoveries over the observation periods referred to in points 66, 71, 82, 86, 93 and 95 shall be taken into account. A credit institution's estimates shall reflect the implications of technical advances and new data and other information, as it becomes available. Credit institutions shall review their estimates when new information comes to light but at least on an annual basis.
+
+52. The population of exposures represented in the data used for estimation, the lending standards used when the data was generated and other relevant characteristics shall be comparable with those of the credit institution's exposures and standards. The credit institution shall also demonstrate that the economic or market conditions that underlie the data are relevant to current and foreseeable conditions. The number of exposures in the sample and the data period used for quantification shall be sufficient to provide the credit institution with confidence in the accuracy and robustness of its estimates.
+
+53. For purchased receivables the estimates shall reflect all relevant information available to the purchasing credit institution regarding the quality of the underlying receivables, including data for similar pools provided by the seller, by the purchasing credit institution, or by external sources. The purchasing credit institution shall evaluate any data relied upon which is provided by the seller.
+
+54. A credit institution shall add to its estimates a margin of conservatism that is related to the expected range of estimation errors. Where methods and data are less satisfactory and the expected range of errors is larger, the margin of conservatism shall be larger.
+
+55. If credit institutions use different estimates for the calculation of risk weights and for internal purposes, it shall be documented and their reasonableness shall be demonstrated to the competent authority.
+
+56. If credit institutions can demonstrate to their competent authorities that for data that have been collected prior to the date of implementation of this Directive appropriate adjustments have been made to achieve broad equivalence with the definitions of default or loss, competent authorities may allow the credit institutions some flexibility in the application of the required standards for data.
+
+57. If a credit institution uses data that is pooled across credit institutions it shall demonstrate that:
+
+(a) the rating systems and criteria of other credit institutions in the pool are similar with its own;
+
+(b) the pool is representative of the portfolio for which the pooled data is used; and
+
+(c) the pooled data is used consistently over time by the credit institution for its estimates.
+
+58. If a credit institution uses data that is pooled across credit institutions, it shall remain responsible for the integrity of its rating systems. The credit institution shall demonstrate to the competent authority that it has sufficient in-house understanding of its rating systems, including effective ability to monitor and audit the rating process.
+
+2.2.1. **Requirements specific to PD estimation**
+
+59. Credit institutions shall estimate PDs by obligor grade from long run averages of one-year default rates.
+
+60. For purchased corporate receivables credit institutions may estimate ELs by obligor grade from long run averages of one-year realised default rates.
+
+61. If a credit institution derives long run average estimates of PDs and LGDs for purchased corporate receivables from an estimate of EL, and an appropriate estimate of PD or LGD, the process for estimating total losses shall meet the overall standards for estimation of PD and LGD set out in this part, and the outcome shall be consistent with the concept of LGD as set out in point 73.
+
+62. Credit institutions shall use PD estimation techniques only with supporting analysis. Credit institutions shall recognise the importance of judgmental considerations in combining results of techniques and in making adjustments for limitations of techniques and information.
+
+63. To the extent that a credit institution uses data on internal default experience for the estimation of PDs, it shall demonstrate in its analysis that the estimates are reflective of underwriting standards and of any differences in the rating system that generated the data and the current rating system. Where underwriting standards or rating systems have changed, the credit institution shall add a greater margin of conservatism in its estimate of PD.
+
+64. To the extent that a credit institution associates or maps its internal grades to the scale used by an ECAI or similar organisations and then attributes the default rate observed for the external organisation's grades to the credit institution's grades, mappings shall be based on a comparison of internal rating criteria to the criteria used by the external organisation and on a comparison of the internal and external ratings of any common obligors. Biases or inconsistencies in the mapping approach or underlying data shall be avoided. The external organisation's criteria underlying the data used for quantification shall be oriented to default risk only and not reflect transaction characteristics. The credit institution's analysis shall include a comparison of the default definitions used, subject to the requirements in points 44 to 48. The credit institution shall document the basis for the mapping.
+
+65. To the extent that a credit institution uses statistical default prediction models it is allowed to estimate PDs as the simple average of default-probability estimates for individual obligors in a given grade. The credit institution's use of default probability models for this purpose shall meet the standards specified in point 30.
+
+66. Irrespective of whether a credit institution is using external, internal, or pooled data sources, or a combination of the three, for its PD estimation, the length of the underlying historical observation period used shall be at least five years for at least one source. If the available observation period spans a longer period for any source, and this data is relevant, this longer period shall be used. This point also applies to the PD/LGD Approach to equity. Member States may allow credit institutions which are not permitted to use own estimates of LGDs or conversion factors to have, when they implement the IRB Approach, relevant data covering a period of two years. The period to be covered shall increase by one year each year until relevant data cover a period of five years.
+
+67. Credit institutions shall estimate PDs by obligor grade or pool from long run averages of one-year default rates.
+
+68. Notwithstanding point 67, PD estimates may also be derived from realised losses and appropriate estimates of LGDs.
+
+69. Credit institutions shall regard internal data for assigning exposures to grades or pools as the primary source of information for estimating loss characteristics. Credit institutions are permitted to use external data (including pooled data) or statistical models for quantification provided a strong link can be demonstrated between:
+
+(a) the credit institution's process of assigning exposures to grades or pools and the process used by the external data source; and
+
+(b) the credit institution's internal risk profile and the composition of the external data.
+
+For purchased retail receivables, credit institutions may use external and internal reference data. Credit institutions shall use all relevant data sources as points of comparison.
+
+70. If a credit institution derives long run average estimates of PD and LGD for retail from an estimate of total losses and an appropriate estimate of PD or LGD, the process for estimating total losses shall meet the overall standards for estimation of PD and LGD set out in this part, and the outcome shall be consistent with the concept of LGD as set out in point 73.
+
+71. Irrespective of whether a credit institution is using external, internal or pooled data sources or a combination of the three, for their estimation of loss characteristics, the length of the underlying historical observation period used shall be at least five years for at least one source. If the available observation spans a longer period for any source, and these data are relevant, this longer period shall be used. A credit institution need not give equal importance to historic data if it can convince its competent authority that more recent data is a better predictor of loss rates. Member States may allow credit institutions to have, when they implement the IRB Approach, relevant data covering a period of two years. The period to be covered shall increase by one year each year until relevant data cover a period of five years.
+
+72. Credit institutions shall identify and analyse expected changes of risk parameters over the life of credit exposures (seasoning effects).
+
+2.2.2. **Requirements specific to own-LGD estimates**
+
+73. Credit institutions shall estimate LGDs by facility grade or pool on the basis of the average realised LGDs by facility grade or pool using all observed defaults within the data sources (default weighted average).
+
+74. Credit institutions shall use LGD estimates that are appropriate for an economic downturn if those are more conservative than the long-run average. To the extent a rating system is expected to deliver realised LGDs at a constant level by grade or pool over time, credit institutions shall make adjustments to their estimates of risk parameters by grade or pool to limit the capital impact of an economic downturn.
+
+75. A credit institution shall consider the extent of any dependence between the risk of the obligor with that of the collateral or collateral provider. Cases where there is a significant degree of dependence shall be addressed in a conservative manner.
+
+76. Currency mismatches between the underlying obligation and the collateral shall be treated conservatively in the credit institution's assessment of LGD.
+
+77. To the extent that LGD estimates take into account the existence of collateral, these estimates shall not solely be based on the collateral's estimated market value. LGD estimates shall take into account the effect of the potential inability of credit institutions to expeditiously gain control of their collateral and liquidate it.
+
+78. To the extent that LGD estimates take into account the existence of collateral, credit institutions must establish internal requirements for collateral management, legal certainty and risk management that are generally consistent with those set out in Annex VIII, Part 2.
+
+79. To the extent that a credit institution recognises collateral for determining the exposure value for counterparty credit risk according to Annex III, Part 5 or 6, any amount expected to be recovered from the collateral shall not be taken into account in the LGD estimates.
+
+80. For the specific case of exposures already in default, the credit institution shall use the sum of its best estimate of expected loss for each exposure given current economic circumstances and exposure status and the possibility of additional unexpected losses during the recovery period.
+
+81. To the extent that unpaid late fees have been capitalised in the credit institution's income statement, they shall be added to the credit institution's measure of exposure and loss.
+
+82. Estimates of LGD shall be based on data over a minimum of five years, increasing by one year each year after implementation until a minimum of seven years is reached, for at least one data source. If the available observation period spans a longer period for any source, and the data is relevant, this longer period shall be used.
+
+83. Notwithstanding point 73, LGD estimates may be derived from realised losses and appropriate estimates of PDs.
+
+84. Notwithstanding point 89, credit institutions may reflect future drawings either in their conversion factors or in their LGD estimates.
+
+85. For purchased retail receivables credit institutions may use external and internal reference data to estimate LGDs.
+
+86. Estimates of LGD shall be based on data over a minimum of five years. Notwithstanding point 73, a credit institution needs not give equal importance to historic data if it can demonstrate to its competent authority that more recent data is a better predictor of loss rates. Member States may allow credit institutions to have, when they implement the IRB Approach, relevant data covering a period of two years. The period to be covered shall increase by one year each year until relevant data cover a period of five years.
+
+2.2.3. **Requirements specific to own-conversion factor estimates**
+
+87. Credit institutions shall estimate conversion factors by facility grade or pool on the basis of the average realised conversion factors by facility grade or pool using all observed defaults within the data sources (default weighted average).
+
+88. Credit institutions shall use conversion factor estimates that are appropriate for an economic downturn if those are more conservative than the long-run average. To the extent a rating system is expected to deliver realised conversion factors at a constant level by grade or pool over time, credit institutions shall make adjustments to their estimates of risk parameters by grade or pool to limit the capital impact of an economic downturn.
+
+89. Credit institutions' estimates of conversion factors shall reflect the possibility of additional drawings by the obligor up to and after the time a default event is triggered.
+
+The conversion factor estimate shall incorporate a larger margin of conservatism where a stronger positive correlation can reasonably be expected between the default frequency and the magnitude of conversion factor.
+
+90. In arriving at estimates of conversion factors credit institutions shall consider their specific policies and strategies adopted in respect of account monitoring and payment processing. Credit institutions shall also consider their ability and willingness to prevent further drawings in circumstances short of payment default, such as covenant violations or other technical default events.
+
+91. Credit institutions shall have adequate systems and procedures in place to monitor facility amounts, current outstandings against committed lines and changes in outstandings per obligor and per grade. The credit institution shall be able to monitor outstanding balances on a daily basis.
+
+92. If credit institutions use different estimates of conversion factors for the calculation of risk weighted exposure amounts and internal purposes it shall be documented and their reasonableness shall be demonstrated to the competent authority.
+
+93. Estimates of conversion factors shall be based on data over a minimum of five years, increasing by one year each year after implementation until a minimum of seven years is reached, for at least one data source. If the available observation period spans a longer period for any source, and the data is relevant, this longer period shall be used.
+
+94. Notwithstanding point 89, credit institutions may reflect future drawings either in their conversion factors or in their LGD estimates.
+
+95. Estimates of conversion factors shall be based on data over a minimum of five years. Notwithstanding point 87, a credit institution need not give equal importance to historic data if it can demonstrate to its competent authority that more recent data is a better predictor of draw downs. Member States may allow credit institutions to have, when they implement the IRB Approach, relevant data covering a period of two years. The period to be covered shall increase by one year each year until relevant data cover a period of five years.
+
+2.2.4. **Minimum requirements for assessing the effect of guarantees and credit derivatives**
+
+Exposures to corporates, institutions and central governments and central banks where own estimates of LGD are used and retail exposures
+
+96. The requirements in points 97 to 104 shall not apply for guarantees provided by institutions, central governments and central banks, and corporate entities which meet the requirements laid down in Annex VIII, Part 1, point 26(g) if the credit institution has received approval to apply the rules of Articles 78 to 83 for exposures to such entities. In this case the requirements of Articles 90 to 93 shall apply.
+
+97. For retail guarantees, these requirements also apply to the assignment of exposures to grades or pools, and the estimation of PD.
+
+98. Credit institutions shall have clearly specified criteria for the types of guarantors they recognise for the calculation of risk weighted exposure amounts.
+
+99. For recognised guarantors the same rules as for obligors as set out in points 17 to 29 shall apply.
+
+100. The guarantee shall be evidenced in writing, non-cancellable on the part of the guarantor, in force until the obligation is satisfied in full (to the extent of the amount and tenor of the guarantee) and legally enforceable against the guarantor in a jurisdiction where the guarantor has assets to attach and enforce a judgement. Guarantees prescribing conditions under which the guarantor may not be obliged to perform (conditional guarantees) may be recognised subject to approval of competent authorities. The credit institution shall demonstrate that the assignment criteria adequately address any potential reduction in the risk mitigation effect.
+
+101. A credit institution shall have clearly specified criteria for adjusting grades, pools or LGD estimates, and, in the case of retail and eligible purchased receivables, the process of allocating exposures to grades or pools, to reflect the impact of guarantees for the calculation of risk weighted exposure amounts. These criteria shall comply with the minimum requirements set out in points 17 to 29.
+
+102. The criteria shall be plausible and intuitive. They shall address the guarantor's ability and willingness to perform under the guarantee, the likely timing of any payments from the guarantor, the degree to which the guarantor's ability to perform under the guarantee is correlated with the obligor's ability to repay, and the extent to which residual risk to the obligor remains.
+
+103. The minimum requirements for guarantees in this part shall apply also for single-name credit derivatives. In relation to a mismatch between the underlying obligation and the reference obligation of the credit derivative or the obligation used for determining whether a credit event has occurred, the requirements set out under Annex VIII Part 2, point 21 shall apply. For retail exposures and eligible purchased receivables, this point applies to the process of allocating exposures to grades or pools.
+
+104. The criteria shall address the payout structure of the credit derivative and conservatively assess the impact this has on the level and timing of recoveries. The credit institution shall consider the extent to which other forms of residual risk remain.
+
+2.2.5. **Minimum requirements for purchased receivables**
+
+105. The structure of the facility shall ensure that under all foreseeable circumstances the credit institution has effective ownership and control of all cash remittances from the receivables. When the obligor makes payments directly to a seller or servicer, the credit institution shall verify regularly that payments are forwarded completely and within the contractually agreed terms. ‘Servicer’ shall mean an entity that manages a pool of purchased receivables or the underlying credit exposures on a day-to-day basis. Credit institutions shall have procedures to ensure that ownership over the receivables and cash receipts is protected against bankruptcy stays or legal challenges that could materially delay the lender's ability to liquidate or assign the receivables or retain control over cash receipts.
+
+106. The credit institution shall monitor both the quality of the purchased receivables and the financial condition of the seller and servicer. In particular:
+
+(a) the credit institution shall assess the correlation among the quality of the purchased receivables and the financial condition of both the seller and servicer, and have in place internal policies and procedures that provide adequate safeguards to protect against any contingencies, including the assignment of an internal risk rating for each seller and servicer;
+
+(b) the credit institution shall have clear and effective policies and procedures for determining seller and servicer eligibility. The credit institution or its agent shall conduct periodic reviews of sellers and servicers in order to verify the accuracy of reports from the seller or servicer, detect fraud or operational weaknesses, and verify the quality of the seller's credit policies and servicer's collection policies and procedures. The findings of these reviews shall be documented;
+
+(c) the credit institution shall assess the characteristics of the purchased receivables pools, including over-advances; history of the seller's arrears, bad debts, and bad debt allowances; payment terms, and potential contra accounts;
+
+(d) the credit institution shall have effective policies and procedures for monitoring on an aggregate basis single-obligor concentrations both within and across purchased receivables pools; and
+
+(e) the credit institution shall ensure that it receives from the servicer timely and sufficiently detailed reports of receivables ageings and dilutions to ensure compliance with the credit institution's eligibility criteria and advancing policies governing purchased receivables, and provide an effective means with which to monitor and confirm the seller's terms of sale and dilution.
+
+107. The credit institution shall have systems and procedures for detecting deteriorations in the seller's financial condition and purchased receivables quality at an early stage, and for addressing emerging problems pro-actively. In particular, the credit institution shall have clear and effective policies, procedures, and information systems to monitor covenant violations, and clear and effective policies and procedures for initiating legal actions and dealing with problem purchased receivables.
+
+108. The credit institution shall have clear and effective policies and procedures governing the control of purchased receivables, credit, and cash. In particular, written internal policies shall specify all material elements of the receivables purchase programme, including the advancing rates, eligible collateral, necessary documentation, concentration limits, and the way cash receipts are to be handled. These elements shall take appropriate account of all relevant and material factors, including the seller and servicer's financial condition, risk concentrations, and trends in the quality of the purchased receivables and the seller's customer base, and internal systems shall ensure that funds are advanced only against specified supporting collateral and documentation.
+
+109. The credit institution shall have an effective internal process for assessing compliance with all internal policies and procedures. The process shall include regular audits of all critical phases of the credit institution's receivables purchase programme, verification of the separation of duties between firstly the assessment of the seller and servicer and the assessment of the obligor and secondly between the assessment of the seller and servicer and the field audit of the seller and servicer, and evaluations of back office operations, with particular focus on qualifications, experience, staffing levels, and supporting automation systems.
+
+3. **VALIDATION OF INTERNAL ESTIMATES**
+
+110. Credit institutions shall have robust systems in place to validate the accuracy and consistency of rating systems, processes, and the estimation of all relevant risk parameters. A credit institution shall demonstrate to its competent authority that the internal validation process enables it to assess the performance of internal rating and risk estimation systems consistently and meaningfully.
+
+111. Credit institutions shall regularly compare realised default rates with estimated PDs for each grade and, where realised default rates are outside the expected range for that grade, credit institutions shall specifically analyse the reasons for the deviation. Credit institutions using own estimates of LGDs and/or conversion factors shall also perform analogous analysis for these estimates. Such comparisons shall make use of historical data that cover as long a period as possible. The credit institution shall document the methods and data used in such comparisons. This analysis and documentation shall be updated at least annually.
+
+112. Credit institutions shall also use other quantitative validation tools and comparisons with relevant external data sources. The analysis shall be based on data that are appropriate to the portfolio, are updated regularly, and cover a relevant observation period. Credit institutions' internal assessments of the performance of their rating systems shall be based on as long a period as possible.
+
+113. The methods and data used for quantitative validation shall be consistent through time. Changes in estimation and validation methods and data (both data sources and periods covered) shall be documented.
+
+114. Credit institutions shall have sound internal standards for situations where deviations in realised PDs, LGDs, conversion factors and total losses, where EL is used, from expectations, become significant enough to call the validity of the estimates into question. These standards shall take account of business cycles and similar systematic variability in default experience. Where realised values continue to be higher than expected values, credit institutions shall revise estimates upward to reflect their default and loss experience.
+
+4. **CALCULATION OF RISK WEIGHTED EXPOSURE AMOUNTS FOR EQUITY EXPOSURES UNDER THE INTERNAL MODELS APPROACH**
+
+4.1. **Capital requirement and risk quantification**
+
+115. For the purpose of calculating capital requirements credit institutions shall meet the following standards:
+
+(a) the estimate of potential loss shall be robust to adverse market movements relevant to the long-term risk profile of the credit institution's specific holdings. The data used to represent return distributions shall reflect the longest sample period for which data is available and meaningful in representing the risk profile of the credit institution's specific equity exposures. The data used shall be sufficient to provide conservative, statistically reliable and robust loss estimates that are not based purely on subjective or judgmental considerations. Credit institutions shall demonstrate to competent authorities that the shock employed provides a conservative estimate of potential losses over a relevant long-term market or business cycle. The credit institution shall combine empirical analysis of available data with adjustments based on a variety of factors in order to attain model outputs that achieve appropriate realism and conservatism. In constructing Value at Risk (VaR) models estimating potential quarterly losses, credit institutions may use quarterly data or convert shorter horizon period data to a quarterly equivalent using an analytically appropriate method supported by empirical evidence and through a well-developed and documented thought process and analysis. Such an approach shall be applied conservatively and consistently over time. Where only limited relevant data is available the credit institution shall add appropriate margins of conservatism;
+
+(b) the models used shall be able to capture adequately all of the material risks embodied in equity returns including both the general market risk and specific risk exposure of the credit institution's equity portfolio. The internal models shall adequately explain historical price variation, capture both the magnitude and changes in the composition of potential concentrations, and be robust to adverse market environments. The population of risk exposures represented in the data used for estimation shall be closely matched to or at least comparable with those of the credit institution's equity exposures;
+
+(c) the internal model shall be appropriate for the risk profile and complexity of a credit institution's equity portfolio. Where a credit institution has material holdings with values that are highly non-linear in nature the internal models shall be designed to capture appropriately the risks associated with such instruments;
+
+(d) mapping of individual positions to proxies, market indices, and risk factors shall be plausible, intuitive, and conceptually sound;
+
+(e) credit institutions shall demonstrate through empirical analyses the appropriateness of risk factors, including their ability to cover both general and specific risk;
+
+(f) the estimates of the return volatility of equity exposures shall incorporate relevant and available data, information, and methods. Independently reviewed internal data or data from external sources (including pooled data) shall be used; and
+
+(g) a rigorous and comprehensive stress-testing programme shall be in place;
+
+4.2. **Risk management process and controls**
+
+116. With regard to the development and use of internal models for capital requirement purposes, credit institutions shall establish policies, procedures, and controls to ensure the integrity of the model and modelling process. These policies, procedures, and controls shall include the following:
+
+(a) full integration of the internal model into the overall management information systems of the credit institution and in the management of the non-trading book equity portfolio. Internal models shall be fully integrated into the credit institution's risk management infrastructure if they are particularly used inmeasuring and assessing equity portfolio performance (including the risk-adjusted performance), allocating economic capital to equity exposures and evaluating overall capital adequacy and the investment management process;
+
+(b) established management systems, procedures, and control functions for ensuring the periodic and independent review of all elements of the internal modelling process, including approval of model revisions, vetting of model inputs, and review of model results, such as direct verification of risk computations. These reviews shall assess the accuracy, completeness, and appropriateness of model inputs and results and focus on both finding and limiting potential errors associated with known weaknesses and identifying unknown model weaknesses. Such reviews may be conducted by an internal independent unit, or by an independent external third party;
+
+(c) adequate systems and procedures for monitoring investment limits and the risk exposures of equity exposures;
+
+(d) the units responsible for the design and application of the model shall be functionally independent from the units responsible for managing individual investments; and
+
+(e) parties responsible for any aspect of the modelling process shall be adequately qualified. Management shall allocate sufficient skilled and competent resources to the modelling function.
+
+4.3. **Validation and documentation**
+
+117. Credit institutions shall have a robust system in place to validate the accuracy and consistency of their internal models and modelling processes. All material elements of the internal models and the modelling process and validation shall be documented.
+
+118. Credit institutions shall use the internal validation process to assess the performance of its internal models and processes in a consistent and meaningful way.
+
+119. The methods and data used for quantitative validation shall be consistent through time. Changes in estimation and validation methods and data (both data sources and periods covered) shall be documented.
+
+120. Credit institutions shall regularly compare actual equity returns (computed using realised and unrealised gains and losses) with modelled estimates. Such comparisons shall make use of historical data that cover as long a period as possible. The credit institution shall document the methods and data used in such comparisons. This analysis and documentation shall be updated at least annually.
+
+121. Credit institutions shall make use of other quantitative validation tools and comparisons with external data sources. The analysis shall be based on data that are appropriate to the portfolio, are updated regularly, and cover a relevant observation period. Credit institutions' internal assessments of the performance of their models shall be based on as long a period as possible.
+
+122. Credit institutions shall have sound internal standards for situations where comparison of actual equity returns with the models estimates calls the validity of the estimates or of the models as such into question. These standards shall take account of business cycles and similar systematic variability in equity returns. All adjustments made to internal models in response to model reviews shall be documented and consistent with the credit institution's model review standards.
+
+123. The internal model and the modelling process shall be documented, including the responsibilities of parties involved in the modelling, and the model approval and model review processes.
+
+5. **CORPORATE GOVERNANCE AND OVERSIGHT**
+
+5.1. **Corporate Governance**
+
+124. All material aspects of the rating and estimation processes shall be approved by the credit institution's management body described in Article 11 or a designated committee thereof and senior management. These parties shall possess a general understanding of the credit institution's rating systems and detailed comprehension of its associated management reports.
+
+125. Senior management shall provide notice to the management body described in Article 11 or a designated committee thereof of material changes or exceptions from established policies that will materially impact the operations of the credit institution's rating systems.
+
+126. Senior management shall have a good understanding of the rating systems designs and operations. Senior management shall ensure, on an ongoing basis that the rating systems are operating properly. Senior management shall be regularly informed by the credit risk control units about the performance of the rating process, areas needing improvement, and the status of efforts to improve previously identified deficiencies.
+
+127. Internal ratings-based analysis of the credit institution's credit risk profile shall be an essential part of the management reporting to these parties. Reporting shall include at least risk profile by grade, migration across grades, estimation of the relevant parameters per grade, and comparison of realised default rates, and to the extent that own estimates are used of realised LGDs and realised conversion factors against expectations and stress-test results. Reporting frequencies shall depend on the significance and type of information and the level of the recipient.
+
+5.2. **Credit risk control**
+
+128. The credit risk control unit shall be independent from the personnel and management functions responsible for originating or renewing exposures and report directly to senior management. The unit shall be responsible for the design or selection, implementation, oversight and performance of the rating systems. It shall regularly produce and analyse reports on the output of the rating systems.
+
+129. The areas of responsibility for the credit risk control unit(s) shall include:
+
+(a) testing and monitoring grades and pools;
+
+(b) production and analysis of summary reports from the credit institution's rating systems;
+
+(c) implementing procedures to verify that grade and pool definitions are consistently applied across departments and geographic areas;
+
+(d) reviewing and documenting any changes to the rating process, including the reasons for the changes;
+
+(e) reviewing the rating criteria to evaluate if they remain predictive of risk. Changes to the rating process, criteria or individual rating parameters shall be documented and retained;
+
+(f) active participation in the design or selection, implementation and validation of models used in the rating process;
+
+(g) oversight and supervision of models used in the rating process; and
+
+(h) ongoing review and alterations to models used in the rating process.
+
+130. Notwithstanding point 129, credit institutions using pooled data according to points 57 and 58 may outsource the following tasks:
+
+(a) production of information relevant to testing and monitoring grades and pools;
+
+(b) production of summary reports from the credit institution's rating systems;
+
+(c) production of information relevant to review of the rating criteria to evaluate if they remain predictive of risk;
+
+(d) documentation of changes to the rating process, criteria or individual rating parameters; and
+
+(e) production of information relevant to ongoing review and alterations to models used in the rating process.
+
+Credit institutions making use of this point shall ensure that the competent authorities have access to all relevant information from the third party that is necessary for examining compliance with the minimum requirements and that the competent authorities may perform on-site examinations to the same extent as within the credit institution.
+
+5.3. **Internal Audit**
+
+131. Internal audit or another comparable independent auditing unit shall review at least annually the credit institution's rating systems and its operations, including the operations of the credit function and the estimation of PDs, LGDs, ELs and conversion factors. Areas of review shall include adherence to all applicable minimum requirements.
+
+<a id="anx_viii"></a>
+
+### ANNEX VIII
+
+
+
+<a id="credit_risk_mitigation"></a>
+
+### CREDIT RISK MITIGATION
+
+PART 1
+
+Eligibility
+
+1. This part sets out eligible forms of credit risk mitigation for the purposes of Article 92.
+
+2. For the purposes of this Annex:
+
+‘Secured lending transaction’ shall mean any transaction giving rise to an exposure secured by collateral which does not include a provision conferring upon the credit institution the right to receive margin frequently.
+
+‘Capital market-driven transaction’ shall mean any transaction giving rise to an exposure secured by collateral which includes a provision conferring upon the credit institution the right to receive margin frequently.
+
+1. **FUNDED CREDIT PROTECTION**
+
+1.1. **On-balance sheet netting**
+
+3. The on-balance sheet netting of mutual claims between the credit institution and its counterparty may be recognised as eligible.
+
+4. Without prejudice to point 5, eligibility is limited to reciprocal cash balances between the credit institution and the counterparty. Only loans and deposits of the lending credit institution may be subject to a modification of risk-weighted exposure amounts and, as relevant, expected loss amounts as a result of an on-balance sheet netting agreement.
+
+1.2. **Master netting agreements covering repurchase transactions and/or securities or commodities lending or borrowing transactions and/or other capital market-driven transactions**
+
+5. For credit institutions adopting the Financial Collateral Comprehensive Method under Part 3 , the effects of bilateral netting contracts covering repurchase transactions, securities or commodities lending or borrowing transactions, and/or other capital market-driven transactions with a counterparty may be recognised. Without prejudice to Annex II to Directive 2006/49/EC to be recognised the collateral taken and securities or commodities borrowed within such agreements must comply with the eligibility requirements for collateral set out at points 7 to 11.
+
+1.3. **Collateral**
+
+6. Where the credit risk mitigation technique used relies on the right of the credit institution to liquidate or retain assets, eligibility depends upon whether risk-weighted exposure amounts, and, as relevant, expected loss amounts, are calculated under Articles 78 to 83 or Articles 84 to 89. Eligibility further depends upon whether the Financial Collateral Simple Method is used or the Financial Collateral Comprehensive Method under Part 3. In relation to repurchase transactions and securities or commodities lending or borrowing transactions, eligibility also depends upon whether the transaction is booked in the non-trading book or the trading book.
+
+1.3.1. **Eligibility under all approaches and methods**
+
+7. The following financial items may be recognised as eligible collateral under all approaches and methods:
+
+(a) cash on deposit with, or cash assimilated instruments held by, the lending credit institution;
+
+(b) debt securities issued by central governments or central banks, which securities have a credit assessment by an ECAI or export credit agency recognised as eligible for the purposes of Articles 78 to 83 which has been determined by the competent authority to be associated with credit quality step 4 or above under the rules for the risk weighting of exposures to central governments and central banks under Articles 78 to 83;
+
+(c) debt securities issued by institutions, which securities have a credit assessment by an eligible ECAI which has been determined by the competent authority to be associated with credit quality step 3 or above under the rules for the risk weighting of exposures to credit institutions under Articles 78 to 83;
+
+(d) debt securities issued by other entities, which securities have a credit assessment by an eligible ECAI which has been determined by the competent authority to be associated with credit quality step 3 or above under the rules for the risk weighting of exposures to corporates under Articles 78 to 83;
+
+(e) debt securities with a short-term credit assessment by an eligible ECAI which has been determined by the competent authority to be associated with credit quality step 3 or above under the rules for the risk weighting of short term exposures under Articles 78 to 83;
+
+(f) equities or convertible bonds that are included in a main index; and
+
+(g) gold.
+
+For the purposes of point (b), ‘debt securities issued by central governments or central banks’ shall include:
+
+(i) debt securities issued by regional governments or local authorities, exposures to which are treated as exposures to the central government in whose jurisdiction they are established under Articles 78 to 83;
+
+(ii) debt securities issued by public sector entities which are treated as exposures to central governments in accordance with point 15 of Part 1 of Annex VI;
+
+(iii) debt securities issued by multilateral development banks to which a 0 % risk weight is assigned under Articles 78 to 83; and
+
+(iv) debt securities issued by international organisations which are assigned a 0 % risk weight under Articles 78 to 83.
+
+For the purposes of point (c), ‘debt securities issued by institutions’ include:
+
+(i) debt securities issued by regional governments or local authorities other than those exposures to which are treated as exposures to the central government in whose jurisdiction they are established under Articles 78 to 83;
+
+(ii) debt securities issued by public sector entities, exposures to which are treated as exposures to credit institutions under Articles 78 to 83; and
+
+(iii) debt securities issued by multilateral development banks other than those to which a 0 % risk weight is assigned under Articles 78 to 83.
+
+8. Debt securities issued by institutions which securities do not have a credit assessment by an eligible ECAI may be recognised as eligible collateral if they fulfil the following criteria:
+
+(a) they are listed on a recognised exchange;
+
+(b) they qualify as senior debt;
+
+(c) all other rated issues by the issuing institution of the same seniority have a credit assessment by an eligible ECAI which has been determined by the competent authorities to be associated with credit quality step 3 or above under the rules for the risk weighting of exposures to institutions or short term exposures under Articles 78 to 83;
+
+(d) the lending credit institution has no information to suggest that the issue would justify a credit assessment below that indicated in (c); and
+
+(e) the credit institution can demonstrate to the competent authorities that the market liquidity of the instrument is sufficient for these purposes.
+
+9. Units in collective investment undertakings may be recognised as eligible collateral if the following conditions are satisfied:
+
+(a) they have a daily public price quote; and
+
+(b) the collective investment undertaking is limited to investing in instruments that are eligible for recognition under points 7 and 8.
+
+The use (or potential use) by a collective investment undertaking of derivative instruments to hedge permitted investments shall not prevent units in that undertaking from being eligible.
+
+If the collective investment undertaking is not limited to investing in instruments that are eligible for recognition under points 7 and 8, units may be recognised with the value of the eligible assets as collateral under the assumption that the CIU has invested to the maximum extent allowed under its mandate in non-eligible assets. In cases where non-eligible assets can have a negative value due to liabilities or contingent liabilities resulting from ownership, the credit institution shall calculate the total value of the non-eligible assets and shall reduce the value of the eligible assets by that of the non-eligible assets in case the latter is negative in total.
+
+10. In relation to points (b) to (e) of point 7, where a security has two credit assessments by eligible ECAIs, the less favourable assessment shall be deemed to apply. In cases where a security has more than two credit assessments by eligible ECAIs, the two most favourable assessments shall be deemed to apply. If the two most favourable credit assessments are different, the less favourable of the two shall be deemed to apply.
+
+1.3.2. **Additional eligibility under the Financial Collateral Comprehensive Method**
+
+11. In addition to the collateral set out in points 7 to 10, where a credit institution uses the Financial Collateral Comprehensive Method under Part 3, the following financial items may be recognised as eligible collateral:
+
+(a) equities or convertible bonds not included in a main index but traded on a recognised exchange; and
+
+(b) units in collective investment undertakings if the following conditions are met:
+
+(i) they have a daily public price quote; and
+
+(ii) the collective investment undertaking is limited to investing in instruments that are eligible for recognition under point 7 and 8 and the items mentioned in point (a) of this point.
+
+The use (or potential use) by a collective investment undertaking of derivative instruments to hedge permitted investments shall not prevent units in that undertaking from being eligible.
+
+If the collective investment undertaking is not limited to investing in instruments that are eligible for recognition under point 7 and 8 and the items mentioned in point (a) of this point, units may be recognised with the value of the eligible assets as collateral under the assumption that the CIU has invested to the maximum extent allowed under its mandate in non-eligible assets. In cases where non-eligible assets can have a negative value due to liabilities or contingent liabilities resulting from ownership, the credit institution shall calculate the total value of the non-eligible assets and shall reduce the value of the eligible assets by that of the non-eligible assets in case the latter is negative in total.
+
+1.3.3. **Additional eligibility for calculations under Articles 84 to 89**
+
+12. In addition to the collateral set out above the provisions of points 13 to 22 apply where a credit institution calculates risk-weighted exposure amounts and expected loss amounts under the approach set out in Articles 84 to 89:
+
+(a) **Real estate collateral**
+
+13. Residential real estate property which is or will be occupied or let by the owner, or the beneficial owner in the case of personal investment companies, and commercial real estate property, that is, offices and other commercial premises, may be recognised as eligible collateral where the following conditions are met:
+
+(a) the value of the property does not materially depend upon the credit quality of the obligor. This requirement does not preclude situations where purely macro-economic factors affect both the value of the property and the performance of the borrower; and
+
+(b) the risk of the borrower does not materially depend upon the performance of the underlying property or project, but rather on the underlying capacity of the borrower to repay the debt from other sources. As such, repayment of the facility does not materially depend on any cash flow generated by the underlying property serving as collateral.
+
+14. Credit institutions may also recognise as eligible collateral shares in Finnish residential housing companies operating in accordance with the Finnish Housing Company Act of 1991 or subsequent equivalent legislation in respect of residential property which is or will be occupied or let by the owner, as residential real estate collateral, provided that these conditions are met.
+
+15. The competent authorities may also authorise their credit institutions to recognise as eligible collateral shares in Finnish housing companies operating in accordance with the Finnish Housing Company Act of 1991 or subsequent equivalent legislation as commercial real estate collateral, provided that these conditions are met.
+
+16. The competent authorities may waive the requirement for their credit institutions to comply with condition (b) in point 13 for exposures secured by residential real estate property situated within the territory of that Member State, if the competent authorities have evidence that the relevant market is well-developed and long-established with loss-rates which are sufficiently low to justify such action. This shall not prevent the competent authorities of a Member State, which do not use this waiver from recognising as eligible residential real estate property recognised as eligible in another Member State by virtue of the waiver. Member States shall disclose publicly the use they make of this waiver.
+
+17. The competent authorities of the Member States may waive the requirement for their credit institutions to comply with the condition in point 13(b) for commercial real estate property situated within the territory of that Member State, if the competent authorities have evidence that the relevant market is well-developed and long-established and that loss-rates stemming from lending secured by commercial real estate property satisfy the following conditions:
+
+(a) losses stemming from loans collateralised by commercial real estate property up to 50 % of the market value (or where applicable and if lower 60 % of the mortgage-lending-value) do not exceed 0,3 % of the outstanding loans collateralised by commercial real estate property in any given year; and
+
+(b) overall losses stemming from loans collateralised by commercial real estate property do not exceed 0,5 % of the outstanding loans collateralised by commercial real estate property in any given year.
+
+18. If either of these conditions is not satisfied in a given year, the eligibility to use this treatment will cease until the conditions are satisfied in a subsequent year.
+
+19. The competent authorities of a Member State may recognise as eligible collateral commercial real estate property recognised as eligible collateral in another Member State by virtue of the waiver provided for in point 17.
+
+(b) **Receivables**
+
+20. The competent authorities may recognise as eligible collateral amounts receivable linked to a commercial transaction or transactions with an original maturity of less than or equal to one year. Eligible receivables do not include those associated with securitisations, sub-participations or credit derivatives or amounts owed by affiliated parties.
+
+(c) **Other physical collateral**
+
+21. The competent authorities may recognise as eligible collateral physical items of a type other than those types indicated in points 13 to 19 if satisfied as to the following:
+
+(a) the existence of liquid markets for disposal of the collateral in an expeditious and economically efficient manner; and
+
+(b) the existence of well-established publicly available market prices for the collateral. The credit institution must be able to demonstrate that there is no evidence that the net prices it receives when collateral is realised deviates significantly from these market prices.
+
+(d) **Leasing**
+
+22. Subject to the provisions of Part 3, point 72, where the requirements set out in Part 2, point 11 are met, exposures arising from transactions whereby a credit institution leases property to a third party will be treated the same as loans collateralised by the type of property leased.
+
+1.4. **Other funded credit protection**
+
+1.4.1. **Cash on deposit with, or cash assimilated instruments held by, a third party institution.**
+
+23. Cash on deposit with, or cash assimilated instruments held by, a third party institution in a non-custodial arrangement and pledged to the lending credit institution may be recognised as eligible credit protection.
+
+1.4.2. **Life insurance policies pledged to the lending credit institution**
+
+24. Life insurance policies pledged to the lending credit institution may be recognised as eligible credit protection.
+
+1.4.3. **Institution instruments repurchased on request**
+
+25. Instruments issued by third party institutions which will be repurchased by that institution on request may be recognised as eligible credit protection.
+
+2. **UNFUNDED CREDIT PROTECTION**
+
+2.1. **Eligibility of protection providers under all approaches**
+
+26. The following parties may be recognised as eligible providers of unfunded credit protection:
+
+(a) central governments and central banks;
+
+(b) regional governments or local authorities;
+
+(c) multilateral development banks;
+
+(d) international organisations exposures to which a 0 % risk weight under Articles 78 to 83 is assigned;
+
+(e) public sector entities, claims on which are treated by the competent authorities as claims on institutions or central governments under Articles 78 to 83;
+
+(f) institutions; and
+
+(g) other corporate entities, including parent, subsidiary and affiliate corporate entities of the credit institution, that:
+
+(i) have a credit assessment by a recognised ECAI which has been determined by the competent authorities to be associated with credit quality step 2 or above under the rules for the risk weighting of exposures to corporates under Articles 78 to 83; and
+
+(ii) in the case of credit institutions calculating risk-weighted exposure amounts and expected loss amounts under Articles 84 to 89, do not have a credit assessment by a recognised ECAI and are internally rated as having a PD equivalent to that associated with the credit assessments of ECAIs determined by the competent authorities to be associated with credit quality step 2 or above under the rules for the risk weighting of exposures to corporate under Articles 78 to 83.
+
+27. Where risk-weighted exposure amounts and expected loss amounts are calculated under Articles 84 to 89, to be eligible a guarantor must be internally rated by the credit institution in accordance with the provisions of Annex VII, Part 4.
+
+28. By way of derogation from point 26, the Member States may also recognise as eligible providers of unfunded credit protection, other financial institutions authorised and supervised by the competent authorities responsible for the authorisation and supervision of credit institutions and subject to prudential requirements equivalent to those applied to credit institutions.
+
+2.2 **Eligibility of protection providers under the IRB Approach which qualify for the treatment set out in Annex VII, Part 1, point 4.**
+
+29. Institutions, insurance and reinsurance undertakings and export credit agencies which fulfil the following conditions may be recognised as eligible providers of unfunded credit protection which qualify for the treatment set out in Annex VII, Part 1, point 4:
+
+— the protection provider has sufficient expertise in providing unfunded credit protection;
+
+— the protection provider is regulated in a manner equivalent to the rules laid down in this Directive, or had, at the time the credit protection was provided, a credit assessment by a recognised ECAI which had been determined by the competent authorities to be associated with credit quality step 3, or above, under the rules for the risk weighting of exposures to corporate under Articles 78 to 83;
+
+— the protection provider had, at the time the credit protection was provided, or for any period of time thereafter, an internal rating with a PD equivalent to or lower than that associated with credit quality step 2 or above under the rules for the risk weighting of exposures to corporates under Articles 78 to 83; and
+
+— the provider has an internal rating with a PD equivalent to or lower than that associated with credit quality step 3 or above under the rules for the risk weighting of exposures to corporates under Articles 78 to 83.
+
+For the purpose of this point, credit protection provided by export credit agencies shall not benefit from any explicit central government counter-guarantee.
+
+3. **TYPES OF CREDIT DERIVATIVES**
+
+30. The following types of credit derivatives, and instruments that may be composed of such credit derivatives or that are economically effectively similar, may be recognised as eligible:
+
+(a) credit default swaps;
+
+(b) total return swaps; and
+
+(c) credit linked notes to the extent of their cash funding.
+
+31. Where a credit institution buys credit protection through a total return swap and records the net payments received on the swap as net income, but does not record offsetting deterioration in the value of the asset that is protected (either through reductions in fair value or by an addition to reserves), the credit protection shall not be recognised as eligible.
+
+3.1. **Internal hedges**
+
+32. When a credit institution conducts an internal hedge using a credit derivative — i.e. hedges the credit risk of an exposure in the non-trading book with a credit derivative booked in the trading book — in order for the protection to be recognised as eligible for the purposes of this Annex the credit risk transferred to the trading book shall be transferred out to a third party or parties. In such circumstances, subject to the compliance of such transfer with the requirements for the recognition of credit risk mitigation set out in this Annex, the rules set out in Parts 3 to 6 for the calculation of risk-weighted exposure amounts and expected loss amounts where unfunded credit protection is acquired shall be applied.
+
+PART 2
+
+Minimum Requirements
+
+1. The credit institution must satisfy the competent authorities that it has adequate risk management processes to control those risks to which the credit institution may be exposed as a result of carrying out credit risk mitigation practices.
+
+2. Notwithstanding the presence of credit risk mitigation taken into account for the purposes of calculating risk-weighted exposure amounts and as relevant expected loss amounts, credit institutions shall continue to undertake full credit risk assessment of the underlying exposure and be in a position to demonstrate the fulfilment of this requirement to the competent authorities. In the case of repurchase transactions and/or securities or commodities lending or borrowing transactions the underlying exposure shall, for the purposes of this point only, be deemed to be the net amount of the exposure.
+
+1. **FUNDED CREDIT PROTECTION**
+
+1.1. **On-balance sheet netting agreements (other than master netting agreements covering repurchase transactions, securities or commodities lending or borrowing transactions and/or other capital market-driven transactions).**
+
+3. For on-balance sheet netting agreements — other than master netting agreements covering repurchase transactions, securities or commodities lending or borrowing transactions and/or other capital market-driven transactions — to be recognised for the purposes of Articles 90 to 93, the following conditions shall be satisfied:
+
+(a) they must be legally effective and enforceable in all relevant jurisdictions, including in the event of the insolvency or bankruptcy of a counterparty;
+
+(b) the credit institution must be able to determine at any time those assets and liabilities that are subject to the on-balance sheet netting agreement;
+
+(c) the credit institution must monitor and control the risks associated with the termination of the credit protection; and
+
+(d) the credit institution must monitor and control the relevant exposures on a net basis.
+
+1.2. **Master netting agreements covering repurchase transactions and/or securities or commodities lending or borrowing transactions and/or other capital market driven transactions**
+
+4. For master netting agreements covering repurchase transactions and/or securities or commodities lending or borrowing transactions and/or other capital market driven transactions to be recognised for the purposes of Articles 90 to 93, they shall:
+
+(a) be legally effective and enforceable in all relevant jurisdictions, including in the event of the bankruptcy or insolvency of the counterparty;
+
+(b) give the non-defaulting party the right to terminate and close-out in a timely manner all transactions under the agreement upon the event of default, including in the event of the bankruptcy or insolvency of the counterparty; and
+
+(c) provide for the netting of gains and losses on transactions closed out under a master agreement so that a single net amount is owed by one party to the other.
+
+5. In addition, the minimum requirements for the recognition of financial collateral under the Financial Collateral Comprehensive Method set out in point 6 shall be fulfilled.
+
+1.3. **Financial collateral**
+
+1.3.1. **Minimum requirements for the recognition of financial collateral under all Approaches and Methods**
+
+6. For the recognition of financial collateral and gold, the following conditions shall be met.
+
+(a) Low correlation
+
+The credit quality of the obligor and the value of the collateral must not have a material positive correlation.
+
+Securities issued by the obligor, or any related group entity, are not eligible. This notwithstanding, the obligor's own issues of covered bonds falling within the terms of Annex VI, Part 1, points 68 to 70 may be recognised as eligible when they are posted as collateral for repurchase transactions, provided that the first paragraph of this point is complied with.
+
+(b) Legal certainty
+
+Credit institutions shall fulfil any contractual and statutory requirements in respect of, and take all steps necessary to ensure, the enforceability of the collateral arrangements under the law applicable to their interest in the collateral.
+
+Credit institutions shall have conducted sufficient legal review confirming the enforceability of the collateral arrangements in all relevant jurisdictions. They shall re-conduct such review as necessary to ensure continuing enforceability.
+
+(c) Operational requirements
+
+The collateral arrangements shall be properly documented, with a clear and robust procedure for the timely liquidation of collateral.
+
+Credit institutions shall employ robust procedures and processes to control risks arising from the use of collateral — including risks of failed or reduced credit protection, valuation risks, risks associated with the termination of the credit protection, concentration risk arising from the use of collateral and the interaction with the credit institution's overall risk profile.
+
+The credit institution shall have documented policies and practices concerning the types and amounts of collateral accepted.
+
+Credit institutions shall calculate the market value of the collateral, and revalue it accordingly, with a minimum frequency of once every six months and whenever the credit institution has reason to believe that there has occurred a significant decrease in its market value.
+
+Where the collateral is held by a third party, credit institutions must take reasonable steps to ensure that the third party segregates the collateral from its own assets.
+
+1.3.2. **Additional minimum requirements for the recognition of financial collateral under the Financial Collateral Simple Method**
+
+7. In addition to the requirements set out in point 6, for the recognition of financial collateral under the Financial Collateral Simple Method the residual maturity of the protection must be at least as long as the residual maturity of the exposure.
+
+1.4. **Minimum requirements for the recognition of real estate collateral**
+
+8. For the recognition of real estate collateral the following conditions shall be met.
+
+(a) Legal certainty
+
+The mortgage or charge shall be enforceable in all jurisdictions which are relevant at the time of the conclusion of the credit agreement, and the mortgage or charge shall be properly filed on a timely basis. The arrangements shall reflect a perfected lien (i.e. all legal requirements for establishing the pledge shall been fulfilled). The protection agreement and the legal process underpinning it shall enable the credit institution to realise the value of the protection within a reasonable timeframe.
+
+(b) Monitoring of property values
+
+The value of the property shall be monitored on a frequent basis and at a minimum once every year for commercial real estate and once every three years for residential real estate. More frequent monitoring shall be carried out where the market is subject to significant changes in conditions. Statistical methods may be used to monitor the value of the property and to identify property that needs revaluation. The property valuation shall be reviewed by an independent valuer when information indicates that the value of the property may have declined materially relative to general market prices. For loans exceeding EUR 3 million or 5 % of the own funds of the credit institution, the property valuation shall be reviewed by an independent valuer at least every three years.
+
+‘Independent valuer’ shall mean a person who possesses the necessary qualifications, ability and experience to execute a valuation and who is independent from the credit decision process.
+
+(c) Documentation
+
+The types of residential and commercial real estate accepted by the credit institution and its lending policies in this regard shall be clearly documented.
+
+(d) Insurance
+
+The credit institution shall have procedures to monitor that the property taken as protection is adequately insured against damage.
+
+1.5. **Minimum requirements for the recognition of receivables as collateral**
+
+9. For the recognition of receivables as collateral the following conditions shall be met:
+
+(a) Legal certainty
+
+(i) The legal mechanism by which the collateral is provided shall be robust and effective and ensure that the lender has clear rights over the proceeds;
+
+(ii) Credit institutions must take all steps necessary to fulfil local requirements in respect of the enforceability of security interest. There shall be a framework which allows the lender to have a first priority claim over the collateral subject to national discretion to allow such claims to be subject to the claims of preferential creditors provided for in legislative or implementing provisions;
+
+(iii) Credit institutions shall have conducted sufficient legal review confirming the enforceability of the collateral arrangements in all relevant jurisdictions; and
+
+(iv) The collateral arrangements must be properly documented, with a clear and robust procedure for the timely collection of collateral. Credit institution's procedures shall ensure that any legal conditions required for declaring the default of the borrower and timely collection of collateral are observed. In the event of the borrower's financial distress or default, the credit institution shall have legal authority to sell or assign the receivables to other parties without consent of the receivables obligors.
+
+(b) Risk management
+
+(i) The credit institution must have a sound process for determining the credit risk associated with the receivables. Such a process shall include, among other things, analyses of the borrower's business and industry and the types of customers with whom the borrower does business. Where the credit institution relies on the borrower to ascertain the credit risk of the customers, the credit institution must review the borrower's credit practices to ascertain their soundness and credibility;
+
+(ii) The margin between the amount of the exposure and the value of the receivables must reflect all appropriate factors, including the cost of collection, concentration within the receivables pool pledged by an individual borrower, and potential concentration risk within the credit institution's total exposures beyond that controlled by the credit institution's general methodology. The credit institution must maintain a continuous monitoring process appropriate to the receivables. Additionally, compliance with loan covenants, environmental restrictions, and other legal requirements shall be reviewed on a regular basis;
+
+(iii) The receivables pledged by a borrower shall be diversified and not be unduly correlated with the borrower. Where there is material positive correlation, the attendant risks shall be taken into account in the setting of margins for the collateral pool as a whole;
+
+(iv) Receivables from affiliates of the borrower (including subsidiaries and employees) shall not be recognised as risk mitigants; and
+
+(v) The credit institution shall have a documented process for collecting receivable payments in distressed situations. The requisite facilities for collection shall be in place, even when the credit institution normally looks to the borrower for collections.
+
+1.6. **Minimum requirements for the recognition of other physical collateral**
+
+10. For the recognition of other physical collateral the following conditions shall be met:
+
+(a) the collateral arrangement shall be legally effective and enforceable in all relevant jurisdictions and shall enable the credit institution to realise the value of the property within a reasonable timeframe;
+
+(b) with the sole exception of permissible prior claims referred to in point 9(a)(ii), only first liens on, or charges over, collateral are permissible. As such, the credit institution shall have priority over all other lenders to the realised proceeds of the collateral;
+
+(c) the value of the property shall be monitored on a frequent basis and at a minimum once every year. More frequent monitoring shall be required where the market is subject to significant changes in conditions;
+
+(d) the loan agreement shall include detailed descriptions of the collateral plus detailed specifications of the manner and frequency of revaluation;
+
+(e) the types of physical collateral accepted by the credit institution and policies and practices in respect of the appropriate amount of each type of collateral relative to the exposure amount shall be clearly documented in internal credit policies and procedures available for examination;
+
+(f) the credit institution's credit policies with regard to the transaction structure shall address appropriate collateral requirements relative to the exposure amount, the ability to liquidate the collateral readily, the ability to establish objectively a price or market value, the frequency with which the value can readily be obtained (including a professional appraisal or valuation), and the volatility or a proxy of the volatility of the value of the collateral;
+
+(g) both initial valuation and revaluation shall take fully into account any deterioration or obsolescence of the collateral. Particular attention must be paid in valuation and revaluation to the effects of the passage of time on fashion- or date-sensitive collateral;
+
+(h) the credit institution must have the right to physically inspect the property. It shall have policies and procedures addressing its exercise of the right to physical inspection; and
+
+(i) the credit institution must have procedures to monitor that the property taken as protection is adequately insured against damage.
+
+1.7. **Minimum requirements for treating lease exposures as collateralised**
+
+11. For the exposures arising from leasing transactions to be treated as collateralised by the type of property leased, the following conditions shall be met:
+
+(a) the conditions set out in points 8 or 10 as appropriate for the recognition as collateral of the type of property leased shall be met;
+
+(b) there shall be robust risk management on the part of the lessor with respect to the use to which the leased asset is put, its age and the planned duration of its use, including appropriate monitoring of the value of the security;
+
+(c) there shall be in place a robust legal framework establishing the lessor's legal ownership of the asset and its ability to exercise its rights as owner in a timely fashion; and
+
+(d) where this has not already been ascertained in calculating the LGD level, the difference between the value of the unamortised amount and the market value of the security must not be so large as to overstate the credit risk mitigation attributed to the leased assets.
+
+1.8. **Minimum requirements for the recognition of other funded credit protection**
+
+1.8.1. **Cash on deposit with, or cash assimilated instruments held by, a third party institution**
+
+12. To be eligible for the treatment set out at Part 3, point 79, the protection referred to in Part 1, point 23 must satisfy the following conditions:
+
+(a) the borrower's claim against the third party institution is openly pledged or assigned to the lending credit institution and such pledge or assignment is legally effective and enforceable in all relevant jurisdictions;
+
+(b) the third party institution is notified of the pledge or assignment;
+
+(c) as a result of the notification, the third party institution is able to make payments solely to the lending credit institution or to other parties with the lending credit institution's consent; and
+
+(d) the pledge or assignment is unconditional and irrevocable.
+
+1.8.2. **Life insurance policies pledged to the lending credit institution.**
+
+13. For life insurance policies pledged to the lending credit institution to be recognised, all the following conditions shall be met:
+
+(a) the life insurance policy is openly pledged or assigned to the lending credit institution;
+
+(b) the company providing the life insurance is notified of the pledge or assignment and as a result may not pay amounts payable under the contract without the consent of the lending credit institution;
+
+(c) the lending credit institution has the right to cancel the policy and receive the surrender value in the event of the default of the borrower;
+
+(d) the lending credit institution is informed of any non-payments under the policy by the policy-holder;
+
+(e) the credit protection is provided for the maturity of the loan. Where this is not possible because the insurance relationship ends before the loan relationship expires, the credit institution must ensure that the amount deriving from the insurance contract serves the credit institution as security until the end of the duration of the credit agreement;
+
+(f) the pledge or assignment is legally effective and enforceable in all jurisdictions which are relevant at the time of the conclusion of the credit agreement;
+
+(g) the surrender value is declared by the company providing the life insurance and is non-reducible;
+
+(h) the surrender value is to be paid in a timely manner upon request;
+
+(i) the surrender value cannot be requested without the consent of the credit institution;
+
+(j) the company providing the life insurance is subject to Directive 2002/83/EC and Directive 2001/17/EC of the European Parliament and of the Council (38) or is subject to supervision by a competent authority of a third country which applies supervisory and regulatory arrangements at least equivalent to those applied in the Community.
+
+2. **UNFUNDED CREDIT PROTECTION AND CREDIT LINKED NOTES**
+
+2.1. **Requirements common to guarantees and credit derivatives**
+
+14. Subject to point 16, for the credit protection deriving from a guarantee or credit derivative to be recognised the following conditions shall be met:
+
+(a) the credit protection shall be direct;
+
+(b) the extent of the credit protection shall be clearly defined and incontrovertible;
+
+(c) the credit protection contract shall not contain any clause, the fulfilment of which is outside the direct control of the lender, that:
+
+(i) would allow the protection provider unilaterally to cancel the protection;
+
+(ii) would increase the effective cost of protection as a result of deteriorating credit quality of the protected exposure;
+
+(iii) could prevent the protection provider from being obliged to pay out in a timely manner in the event that the original obligor fails to make any payments due; or
+
+(iv) could allow the maturity of the credit protection to be reduced by the protection provider; and
+
+(d) it must be legally effective and enforceable in all jurisdictions which are relevant at the time of the conclusion of the credit agreement.
+
+2.1.1. **Operational requirements**
+
+15. The credit institution shall satisfy the competent authority that it has systems in place to manage potential concentration of risk arising from the credit institution's use of guarantees and credit derivatives. The credit institution must be able to demonstrate how its strategy in respect of its use of credit derivatives and guarantees interacts with its management of its overall risk profile.
+
+2.2. **Sovereign and other public sector counter-guarantees**
+
+16. Where an exposure is protected by a guarantee which is counter-guaranteed by a central government or central bank, a regional government or local authority, a public sector entity, claims on which are treated as claims on the central government in whose jurisdiction they are established under Articles 78 to 83, a multi-lateral development bank or an international organisation, to which a 0 % risk weight is assigned under or by virtue of Articles 78 to 83, or a public sector entity, claims on which are treated as claims on credit institutions under Articles 78 to 83, the exposure may be treated as protected by a guarantee provided by the entity in question, provided the following conditions are satisfied:
+
+(a) the counter-guarantee covers all credit risk elements of the claim;
+
+(b) both the original guarantee and the counter-guarantee meet the requirements for guarantees set out in points 14, 15 and 18, except that the counter-guarantee need not be direct; and
+
+(c) the competent authority is satisfied that the cover is robust and that nothing in the historical evidence suggests that the coverage of the counter-guarantee is less than effectively equivalent to that of a direct guarantee by the entity in question.
+
+17. The treatment set out in point 16 also applies to an exposure which is not counter-guaranteed by an entity listed in that point if that exposure's counter-guarantee is in turn directly guaranteed by one of the listed entities and the conditions listed in that point are satisfied.
+
+2.3. **Additional requirements for guarantees**
+
+18. For a guarantee to be recognised the following conditions shall also be met:
+
+(a) on the qualifying default of and/or non-payment by the counterparty, the lending credit institution shall have the right to pursue, in a timely manner, the guarantor for any monies due under the claim in respect of which the protection is provided. Payment by the guarantor shall not be subject to the lending credit institution first having to pursue the obligor.
+
+In the case of unfunded credit protection covering residential mortgage loans, the requirements in point 14(c)(iii) and in the first subparagraph of this point have only to be satisfied within 24 months;
+
+(b) the guarantee shall be an explicitly documented obligation assumed by the guarantor; and
+
+(c) subject to the following sentence, the guarantee shall cover all types of payments the obligor is expected to make in respect of the claim. Where certain types of payment are excluded from the guarantee, the recognised value of the guarantee shall be adjusted to reflect the limited coverage.
+
+19. In the case of guarantees provided in the context of mutual guarantee schemes recognised for these purposes by the competent authorities or provided by or counter-guaranteed by entities referred to in point 16, the requirements in point 18(a) shall be considered to be satisfied where either of the following conditions are met:
+
+(a) the lending credit institution has the right to obtain in a timely manner a provisional payment by the guarantor calculated to represent a robust estimate of the amount of the economic loss, including losses resulting from the non-payment of interest and other types of payment which the borrower is obliged to make, likely to be incurred by the lending credit institution proportional to the coverage of the guarantee; or
+
+(b) the lending credit institution can demonstrate that the loss-protecting effects of the guarantee, including losses resulting from the non-payment of interest and other types of payments which the borrower is obliged to make, justify such treatment.
+
+2.4. **Additional requirements for credit derivatives**
+
+20. For a credit derivative to be recognised the following conditions shall also be met:
+
+(a) subject to point (b), the credit events specified under the credit derivative shall at a minimum include:
+
+(i) the failure to pay the amounts due under the terms of the underlying obligation that are in effect at the time of such failure (with a grace period that is closely in line with or shorter than the grace period in the underlying obligation);
+
+(ii) the bankruptcy, insolvency or inability of the obligor to pay its debts, or its failure or admission in writing of its inability generally to pay its debts as they become due, and analogous events; and
+
+(iii) the restructuring of the underlying obligation involving forgiveness or postponement of principal, interest or fees that results in a credit loss event (i.e. value adjustment or other similar debit to the profit and loss account);
+
+(b) where the credit events specified under the credit derivative do not include restructuring of the underlying obligation as described in point (a)(iii), the credit protection may nonetheless be recognised subject to a reduction in the recognised value as specified in point 83 of Part 3;
+
+(c) in the case of credit derivatives allowing for cash settlement, a robust valuation process shall be in place in order to estimate loss reliably. There shall be a clearly specified period for obtaining post-credit-event valuations of the underlying obligation;
+
+(d) if the protection purchaser's right and ability to transfer the underlying obligation to the protection provider is required for settlement, the terms of the underlying obligation shall provide that any required consent to such transfer may not be unreasonably withheld; and
+
+(e) the identity of the parties responsible for determining whether a credit event has occurred shall be clearly defined. This determination shall not be the sole responsibility of the protection provider. The protection buyer shall have the right/ability to inform the protection provider of the occurrence of a credit event.
+
+21. A mismatch between the underlying obligation and the reference obligation under the credit derivative (i.e. the obligation used for the purposes of determining cash settlement value or the deliverable obligation) or between the underlying obligation and the obligation used for purposes of determining whether a credit event has occurred is permissible only if the following conditions are met:
+
+(a) the reference obligation or the obligation used for purposes of determining whether a credit event has occurred, as the case may be, ranks pari passu with or is junior to the underlying obligation; and
+
+(b) the underlying obligation and the reference obligation or the obligation used for purposes of determining whether a credit event has occurred, as the case may be, share the same obligor (i.e., the same legal entity) and there are in place legally enforceable cross-default or cross-acceleration clauses.
+
+2.5. **Requirements to qualify for the treatment set out in Annex VII, Part 1, point 4**
+
+22. To be eligible for the treatment set out in Annex VII, Part 1, point 4, credit protection deriving from a guarantee or credit derivative shall meet the following conditions:
+
+(a) the underlying obligation shall be to:
+
+— a corporate exposure as defined in Article 86, excluding insurance and reinsurance undertakings;
+
+— an exposure to a regional government, local authority or Public Sector Entity which is not treated as an exposure to a central government or a central bank according to Article 86; or
+
+— an exposure to a small or medium sized entity, classified as a retail exposure according to Article 86(4);
+
+(b) the underlying obligors shall not be members of the same group as the protection provider;
+
+(c) the exposure shall be hedged by one of the following instruments:
+
+— single-name unfunded credit derivatives or single-name guarantees,
+
+— first-to-default basket products — the treatment shall be applied to the asset within the basket with the lowest risk-weighted exposure amount, or
+
+— nth-to-default basket products — the protection obtained is only eligible for consideration under this framework if eligible (n-1)th default protection has also be obtained or where (n-1) of the assets within the basket has/have already defaulted. Where this is the case the treatment shall be applied to the asset within the basket with the lowest risk-weighted exposure amount;
+
+(d) the credit protection meets the requirements set out in points 14, 15, 18, 20 and 21;
+
+(e) the risk weight that is associated with the exposure prior to the application of the treatment in Annex VII, Part 1, point 4, does not already factor in any aspect of the credit protection;
+
+(f) a credit institution shall have the right and expectation to receive payment from the protection provider without having to take legal action in order to pursue the counterparty for payment. To the extent possible, a credit institution shall take steps to satisfy itself that the protection provider is willing to pay promptly should a credit event occur;
+
+(g) the purchased credit protection shall absorb all credit losses incurred on the hedged portion of an exposure that arise due to the occurrence of credit events outlined in the contract;
+
+(h) if the payout structure provides for physical settlement, then there shall be legal certainty with respect to the deliverability of a loan, bond, or contingent liability. If a credit institution intends to deliver an obligation other than the underlying exposure, it shall ensure that the deliverable obligation is sufficiently liquid so that the credit institution would have the ability to purchase it for delivery in accordance with the contract;
+
+(i) the terms and conditions of credit protection arrangements shall be legally confirmed in writing by both the protection provider and the credit institution;
+
+(j) credit institutions shall have a process in place to detect excessive correlation between the creditworthiness of a protection provider and the obligor of the underlying exposure due to their performance being dependent on common factors beyond the systematic risk factor; and
+
+(k) in the case of protection against dilution risk, the seller of purchased receivables shall not be a member of the same group as the protection provider.
+
+PART 3
+
+Calculating the effects of credit risk mitigation
+
+1. Subject to Parts 4 to 6, where the provisions in Parts 1 and 2 are satisfied, the calculation of risk-weighted exposure amounts under Articles 78 to 83 and the calculation of risk-weighted exposure amounts and expected loss amounts under Articles 84 to 89 may be modified in accordance with the provisions of this Part.
+
+2. Cash, securities or commodities purchased, borrowed or received under a repurchase transaction or securities or commodities lending or borrowing transaction shall be treated as collateral.
+
+1. **FUNDED CREDIT PROTECTION**
+
+1.1. **Credit linked notes**
+
+3. Investments in credit linked notes issued by the lending credit institution may be treated as cash collateral.
+
+1.2. **On-balance sheet netting**
+
+4. Loans and deposits with the lending credit institution subject to on-balance sheet netting are to be treated as cash collateral.
+
+1.3. **Master netting agreements covering repurchase transactions and/or securities or commodities lending or borrowing transactions and/or other capital market-driven transactions**
+
+1.3.1. **Calculation of the fully-adjusted exposure value**
+
+(a) **Using the ‘Supervisory’ volatility adjustments or the ‘Own Estimates’ volatility adjustments approaches**
+
+5. Subject to points 12 to 21, in calculating the ‘fully adjusted exposure value’ (E*) for the exposures subject to an eligible master netting agreement covering repurchase transactions and/or securities or commodities lending or borrowing transactions and/or other capital market-driven transactions, the volatility adjustments to be applied shall be calculated either using the Supervisory Volatility Adjustments Approach or the Own Estimates Volatility Adjustments Approach as set out in points 30 to 61 for the Financial Collateral Comprehensive Method. For the use of the Own estimates approach, the same conditions and requirements shall apply as apply under the Financial Collateral Comprehensive Method
+
+6. The net position in each ‘type of security’ or commodity shall be calculated by subtracting from the total value of the securities or commodities of that type lent, sold or provided under the master netting agreement, the total value of securities or commodities of that type borrowed, purchased or received under the agreement.
+
+7. For the purposes of point 6, ‘type of security’ means securities which are issued by the same entity, have the same issue date, the same maturity and are subject to the same terms and conditions and are subject to the same liquidation periods as indicated in points 34 to 59.
+
+8. The net position in each currency, other than the settlement currency of the master netting agreement, shall be calculated by subtracting from the total value of securities denominated in that currency lent, sold or provided under the master netting agreement added to the amount of cash in that currency lent or transferred under the agreement, the total value of securities denominated in that currency borrowed, purchased or received under the agreement added to the amount of cash in that currency borrowed or received under the agreement.
+
+9. The volatility adjustment appropriate to a given type of security or cash position shall be applied to the absolute value of the positive or negative net position in the securities of that type.
+
+10. The foreign exchange risk (fx) volatility adjustment shall be applied to the net positive or negative position in each currency other than the settlement currency of the master netting agreement.
+
+11. E* shall be calculated according to the following formula:
+
+Where risk-weighted exposure amounts are calculated under Articles 78 to 83, E is the exposure value for each separate exposure under the agreement that would apply in the absence of the credit protection.
+
+Where risk-weighted exposure amounts and expected loss amounts are calculated under Articles 84 to 89, E is the exposure value for each separate exposure under the agreement that would apply in the absence of the credit protection.
+
+C is the value of the securities or commodities borrowed, purchased or received or the cash borrowed or received in respect of each such exposure.
+
+S(E) is the sum of all Es under the agreement.
+
+S(C) is the sum of all Cs under the agreement.
+
+Efx is the net position (positive or negative) in a given currency other than the settlement currency of the agreement as calculated under point 8.
+
+Hsec is the volatility adjustment appropriate to a particular type of security.
+
+Hfx is the foreign exchange volatility adjustment.
+
+E* is the fully adjusted exposure value.
+
+(b) **Using the Internal Models approach**
+
+12. As an alternative to using the Supervisory volatility adjustments approach or the Own Estimates volatility adjustments approach in calculating the fully adjusted exposure value (E*) resulting from the application of an eligible master netting agreement covering repurchase transactions, securities or commodities lending or borrowing transactions, and/or other capital market driven transactions other than derivative transactions, credit institutions may be permitted to use an internal models approach which takes into account correlation effects between security positions subject to the master netting agreement as well as the liquidity of the instruments concerned. Internal models used in this approach shall provide estimates of the potential change in value of the unsecured exposure amount (ΣE — ΣC). Subject to the approval of the competent authorities, credit institutions may also use their internal models for margin lending transactions, if the transactions are covered under a bilateral master netting agreement that meets the requirements set out in Annex III, Part 7.
+
+13. A credit institution may choose to use an internal models approach independently of the choice it has made between Articles 78 to 83 and Articles 84 to 89 for the calculation of risk-weighted exposure amounts. However, if a credit institution seeks to use an internal models approach, it must do so for all counterparties and securities, excluding immaterial portfolios where it may use the Supervisory volatility adjustments approach or the Own estimates volatility adjustments approach as set out in points 5 to 11.
+
+14. The internal models approach is available to credit institutions that have received recognition for an internal risk-management model under Annex V to Directive 2006/49/EC.
+
+15. Credit institutions which have not received supervisory recognition for use of such a model under Directive 2006/49/EC, may apply to the competent authorities for recognition of an internal risk-measurement model for the purposes of points 12 to 21.
+
+16. Recognition shall only be given if the competent authority is satisfied that the credit institution's risk-management system for managing the risks arising on the transactions covered by the master netting agreement is conceptually sound and implemented with integrity and that, in particular, the following qualitative standards are met:
+
+(a) the internal risk-measurement model used for calculation of potential price volatility for the transactions is closely integrated into the daily risk-management process of the credit institution and serves as the basis for reporting risk exposures to senior management of the credit institution;
+
+(b) the credit institution has a risk control unit that is independent from business trading units and reports directly to senior management. The unit must be responsible for designing and implementing the credit institution's risk-management system. It shall produce and analyse daily reports on the output of the risk-measurement model and on the appropriate measures to be taken in terms of position limits;
+
+(c) the daily reports produced by the risk-control unit are reviewed by a level of management with sufficient authority to enforce reductions of positions taken and of overall risk exposure;
+
+(d) the credit institution has sufficient staff skilled in the use of sophisticated models in the risk control unit;
+
+(e) the credit institution has established procedures for monitoring and ensuring compliance with a documented set of internal policies and controls concerning the overall operation of the risk-measurement system;
+
+(f) the credit institution's models have a proven track record of reasonable accuracy in measuring risks demonstrated through the back-testing of its output using at least one year of data;
+
+(g) the credit institution frequently conducts a rigorous programme of stress testing and the results of these tests are reviewed by senior management and reflected in the policies and limits it sets;
+
+(h) the credit institution must conduct, as Part of its regular internal auditing process, an independent review of its risk-measurement system. This review must include both the activities of the business trading units and of the independent risk-control unit;
+
+(i) at least once a year, the credit institution must conduct a review of its risk-management system; and
+
+(j) the internal model shall meet the requirements set out in Annex III, Part 6, points 40 to 42.
+
+17. The calculation of the potential change in value shall be subject to the following minimum standards:
+
+(a) at least daily calculation of the potential change in value;
+
+(b) a 99th percentile, one-tailed confidence interval;
+
+(c) a 5-day equivalent liquidation period, except in the case of transactions other than securities repurchase transactions or securities lending or borrowing transactions where a 10-day equivalent liquidation period shall be used;
+
+(d) an effective historical observation period of at least one year except where a shorter observation period is justified by a significant upsurge in price volatility; and
+
+(e) three-monthly data set updates.
+
+18. The competent authorities shall require that the internal risk-measurement model captures a sufficient number of risk factors in order to capture all material price risks.
+
+19. The competent authorities may allow credit institutions to use empirical correlations within risk categories and across risk categories if they are satisfied that the credit institution's system for measuring correlations is sound and implemented with integrity.
+
+20. The fully adjusted exposure value (E*) for credit institutions using the Internal models approach shall be calculated according to the following formula:
+
+Where risk-weighted exposure amounts are calculated under Articles 78 to 83, E is the exposure value for each separate exposure under the agreement that would apply in the absence of the credit protection.
+
+Where risk-weighted exposure amounts and expected loss amounts are calculated under Articles 84 to 89, E is the exposure value for each separate exposure under the agreement that would apply in the absence of the credit protection.
+
+C is the value of the securities borrowed, purchased or received or the cash borrowed or received in respect of each such exposure.
+
+Σ(E) is the sum of all Es under the agreement.
+
+Σ(C) is the sum of all Cs under the agreement.
+
+21. In calculating risk-weighted exposure amounts using internal models, credit institutions shall use the previous business day's model output.
+
+1.3.2. **Calculating risk-weighted exposure amounts and expected loss amounts for repurchase transactions and/or securities or commodities lending or borrowing transactions and/or other capital market-driven transactions covered by master netting agreements**
+
+Standardised Approach
+
+22. E* as calculated under points 5 to 21 shall be taken as the exposure value of the exposure to the counterparty arising from the transactions subject to the master netting agreement for the purposes of Article 80.
+
+IRB Approach
+
+23. E* as calculated under points 5 to 21 shall be taken as the exposure value of the exposure to the counterparty arising from the transactions subject to the master netting agreement for the purposes of Annex VII.
+
+1.4. **Financial collateral**
+
+1.4.1. **Financial Collateral Simple Method**
+
+24. The Financial Collateral Simple Method shall be available only where risk-weighted exposure amounts are calculated under Articles 78 to 83. A credit institution shall not use both the Financial Collateral Simple Method and the Financial Collateral Comprehensive Method, unless for the purposes of Articles 85(1) and 89(1). Credit institutions shall demonstrate to the competent authorities that this exceptional application of both methods is not used selectively with the purpose of achieving reduced minimum capital requirements and does not lead to regulatory arbitrage.
+
+Valuation
+
+25. Under this method, recognised financial collateral is assigned a value equal to its market value as determined in accordance with Part 2, point 6.
+
+Calculating risk-weighted exposure amounts
+
+26. The risk weight that would be assigned under Articles 78 to 83 if the lender had a direct exposure to the collateral instrument shall be assigned to those portions of exposure values collateralised by the market value of recognised collateral. For this purpose, the exposure value of an off-balance sheet item listed in Annex II shall be 100 % of its value rather than the exposure value indicated in Article 78(1). The risk weight of the collateralised portion shall be a minimum of 20 % except as specified in points 27 to 29. The remainder of the exposure value shall receive the risk weight that would be assigned to an unsecured exposure to the counterparty under Articles 78 to 83.
+
+Repurchase transactions and securities lending or borrowing transactions
+
+27. A risk weight of 0 % shall be assigned to the collateralised portion of the exposure arising from transactions which fulfil the criteria enumerated in points 58 and 59. If the counterparty to the transaction is not a core market participant a risk weight of 10 % shall be assigned.
+
+OTC derivative transactions subject to daily mark-to-market
+
+28. A risk weight of 0 % shall, to the extent of the collateralisation, be assigned to the exposure values determined under Annex III for the derivative instruments listed in Annex IV and subject to daily marking-to-market, collateralised by cash or cash-assimilated instruments where there is no currency mismatch. A risk weight of 10 % shall be assigned to the extent of the collateralisation to the exposure values of such transactions collateralised by debt securities issued by central governments or central banks which are assigned a 0 % risk weight under Articles 78 to 83.
+
+For the purposes of this point debt securities issued by central governments or central banks shall include: –
+
+(a) debt securities issued by regional governments or local authorities exposures to which are treated as exposures to the central government in whose jurisdiction they are established under Articles 78 to 83;
+
+(b) debt securities issued by multilateral development banks to which a 0 % risk weight is assigned under or by virtue of Articles 78 to 83; and
+
+(c) debt securities issued by international organisations which are assigned a 0 % risk weight under Articles 78 to 83.
+
+Other transactions
+
+29. A 0 % risk weight may be assigned where the exposure and the collateral are denominated in the same currency, and either:
+
+(a) the collateral is cash on deposit or a cash assimilated instrument; or
+
+(b) the collateral is in the form of debt securities issued by central governments or central banks eligible for a 0 % risk weight under Articles 78 to 83, and its market value has been discounted by 20 %.
+
+For the purposes of this point ‘debt securities issued by central governments or central banks’ shall to include those indicated under point 28.
+
+1.4.2. **Financial Collateral Comprehensive Method**
+
+30. In valuing financial collateral for the purposes of the Financial Collateral Comprehensive Method, ‘volatility adjustments’ shall be applied to the market value of collateral, as set out in points 34 to 59 below, in order to take account of price volatility.
+
+31. Subject to the treatment for currency mismatches in the case of OTC derivatives transactions set out in point 32, where collateral is denominated in a currency that differs from that in which the underlying exposure is denominated, an adjustment reflecting currency volatility shall be added to the volatility adjustment appropriate to the collateral as set out in points 34 to 59.
+
+32. In the case of OTC derivatives transactions covered by netting agreements recognised by the competent authorities under Annex III, a volatility adjustment reflecting currency volatility shall be applied when there is a mismatch between the collateral currency and the settlement currency. Even in the case where multiple currencies are involved in the transactions covered by the netting agreement, only a single volatility adjustment shall be applied.
+
+(a) **Calculating adjusted values**
+
+33. The volatility-adjusted value of the collateral to be taken into account is calculated as follows in the case of all transactions except those transactions subject to recognised master netting agreements to which the provisions set out in points 5 to 23 are applied:
+
+CVA = C x (1-HC-HFX)
+
+The volatility-adjusted value of the exposure to be taken into account is calculated as follows:
+
+EVA = E x (1+HE), and, in the case of OTC derivative transactions, EVA = E.
+
+The fully adjusted value of the exposure, taking into account both volatility and the risk-mitigating effects of collateral is calculated as follows:
+
+E* = max {0, [EVA - CVAM]}
+
+Where:
+
+E is the exposure value as would be determined under Articles 78 to 83 or Articles 84 to 89 as appropriate if the exposure was not collateralised. For this purpose, for credit institutions calculating risk-weighted exposure amounts under Articles 78 to 83, the exposure value of an off-balance sheet item listed in Annex II shall be 100 % of its value rather than the exposure value indicated in Article 78(1), and for credit institutions calculating risk-weighted exposure amounts under Articles 84 to 89, the exposure value of the items listed in Annex VII, Part 3, points 9 to 11 shall be calculated using a conversion factor of 100 % rather than the conversion factors or percentages indicated in those points.
+
+EVA is the volatility-adjusted exposure amount.
+
+CVA is the volatility-adjusted value of the collateral.
+
+CVAM is CVA further adjusted for any maturity mismatch in accordance with the provisions of Part 4.
+
+HE is the volatility adjustment appropriate to the exposure (E), as calculated under points 34 to 59.
+
+HC is the volatility adjustment appropriate to the collateral, as calculated under points 34 to 59.
+
+HFX is the volatility adjustment appropriate to currency mismatch, as calculated under points 34 to 59.
+
+E* is the fully adjusted exposure value taking into account volatility and the risk-mitigating effects of the collateral.
+
+(b) **Calculation of volatility adjustments to be applied**
+
+34. Volatility adjustments may be calculated in two ways: the Supervisory volatility adjustments approach and the Own estimates of volatility adjustments approach (the ‘Own estimates’ approach).
+
+35. A credit institution may choose to use the Supervisory volatility adjustments approach or the Own estimates approach independently of the choice it has made between the Articles 78 to 83 and Articles 84 to 89 for the calculation of risk-weighted exposure amounts. However, if credit institutions seek to use the Own estimates approach, they must do so for the full range of instrument types, excluding immaterial portfolios where they may use the Supervisory volatility adjustments approach.
+
+Where the collateral consists of a number of recognised items, the volatility adjustment shall be , where ai is the proportion of an item to the collateral as a whole and Hi is the volatility adjustment applicable to that item.
+
+(i) **Supervisory volatility adjustments**
+
+36. The volatility adjustments to be applied under the Supervisory volatility adjustments approach (assuming daily revaluation) shall be those set out in Tables 1 to 4.
+
+Table 1
+
+| Credit quality step with which the credit assessment of the debt security is associated | Residual Maturity | Volatility adjustments for debt securities issued by entities described in Part 1, point 7(b) | Volatility adjustments for debt securities issued by entities described in Part 1, point 7(c) and (d) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | 20-day liquidation period (%) | 10-day liquidation period (%) | 5-day liquidation period (%) | 20-day liquidation period (%) | 10-day liquidation period (%) | 5-day liquidation period (%) |
+| 1 | ≤ 1 year | 0,707 | 0,5 | 0,354 | 1,414 | 1 | 0,707 |
+|  | >1 ≤ 5 years | 2,828 | 2 | 1,414 | 5,657 | 4 | 2,828 |
+|  | > 5 years | 5,657 | 4 | 2,828 | 11,314 | 8 | 5,657 |
+| 2-3 | ≤ 1 year | 1,414 | 1 | 0,707 | 2,828 | 2 | 1,414 |
+|  | >1 ≤ 5 years | 4,243 | 3 | 2,121 | 8,485 | 6 | 4,243 |
+|  | > 5 years | 8,485 | 6 | 4,243 | 16,971 | 12 | 8,485 |
+| 4 | ≤ 1 year | 21,213 | 15 | 10,607 | N/A | N/A | N/A |
+|  | >1 ≤ 5 years | 21,213 | 15 | 10,607 | N/A | N/A | N/A |
+|  | > 5 years | 21,213 | 15 | 10,607 | N/A | N/A | N/A |
+
+Table 2
+
+| Credit quality step with which the credit assessment of a short term debt security is associated | Volatility adjustments for debt securities issued by entities described in Part 1, point 7(b) with short-term credit assessments | Volatility adjustments for debt securities issued by entities described in Part 1, point 7(c) and (d) with short-term credit assessments |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | 20-day liquidation period (%) | 10-day liquidation period (%) | 5-day liquidation period (%) | 20-day liquidation period (%) | 10-day liquidation period (%) | 5-day liquidation period (%) |
+| 1 | 0,707 | 0,5 | 0,354 | 1,414 | 1 | 0,707 |
+| 2-3 | 1,414 | 1 | 0,707 | 2,828 | 2 | 1,414 |
+
+Table 3
+
+| Other collateral or exposure types |  |  |  |
+| --- | --- | --- | --- |
+|  | 20-day liquidation period (%) | 10-day liquidation period (%) | 5-day liquidation period (%) |
+| Main Index Equities, Main Index Convertible Bonds | 21,213 | 15 | 10,607 |
+| Other Equities or Convertible Bonds listed on a recognised exchange | 35,355 | 25 | 17,678 |
+| Cash | 0 | 0 | 0 |
+| Gold | 21,213 | 15 | 10,607 |
+
+Table 4
+
+| Volatility adjustment for currency mismatch |  |  |
+| --- | --- | --- |
+| 20-day liquidation period (%) | 10-day liquidation period (%) | 5-day liquidation period) |
+| 11,314 | 8 | 5,657 |
+
+37. For secured lending transactions the liquidation period shall be 20 business days. For repurchase transactions (except insofar as such transactions involve the transfer of commodities or guaranteed rights relating to title to commodities) and securities lending or borrowing transactions the liquidation period shall be 5 business days. For other capital market driven transactions, the liquidation period shall be 10 business days.
+
+38. In Tables 1 to 4 and in points 39 to 41, the credit quality step with which a credit assessment of the debt security is associated is the credit quality step with which the credit assessment is determined by the competent authorities to be associated under Articles 78 to 83. For the purpose of this point, Part 1, point 10 also applies.
+
+39. For non-eligible securities or for commodities lent or sold under repurchase transactions or securities or commodities lending or borrowing transactions, the volatility adjustment is the same as for non-main index equities listed on a recognised exchange.
+
+40. For eligible units in collective investment undertakings the volatility adjustment is the weighted average volatility adjustments that would apply, having regard to the liquidation period of the transaction as specified in point 37, to the assets in which the fund has invested. If the assets in which the fund has invested are not known to the credit institution, the volatility adjustment is the highest volatility adjustment that would apply to any of the assets in which the fund has the right to invest.
+
+41. For unrated debt securities issued by institutions and satisfying the eligibility criteria in Part 1, point 8 the volatility adjustments shall be the same as for securities issued by institutions or corporates with an external credit assessment associated with credit quality steps 2 or 3.
+
+(ii) **Own estimates of volatility adjustments**
+
+42. The competent authorities shall permit credit institutions complying with the requirements set out in points 47 to 56 to use their own volatility estimates for calculating the volatility adjustments to be applied to collateral and exposures.
+
+43. When debt securities have a credit assessment from a recognised ECAI equivalent to investment grade or better, the competent authorities may allow credit institutions to calculate a volatility estimate for each category of security.
+
+44. In determining relevant categories, credit institutions shall take into account the type of issuer of the security the external credit assessment of the securities, their residual maturity, and their modified duration. Volatility estimates must be representative of the securities included in the category by the credit institution.
+
+45. For debt securities having a credit assessment from a recognised ECAI equivalent to below investment grade, and for other eligible collateral, the volatility adjustments must be calculated for each individual item.
+
+46. Credit institutions using the Own estimates approach must estimate volatility of the collateral or foreign exchange mismatch without taking into account any correlations between the unsecured exposure, collateral and/or exchange rates.
+
+Quantitative Criteria
+
+47. In calculating the volatility adjustments, a 99th percentile one-tailed confidence interval shall be used.
+
+48. The liquidation period shall be 20 business days for secured lending transactions; 5 business days for repurchase transactions, except insofar as such transactions involve the transfer of commodities or guaranteed rights relating to title to commodities and securities lending or borrowing transactions, and 10 business days for other capital market driven transactions.
+
+49. Credit institutions may use volatility adjustment numbers calculated according to shorter or longer liquidation periods, scaled up or down to the liquidation period set out in point 48 for the type of transaction in question, using the square root of time formula:
+
+where TM is the relevant liquidation period;
+
+HM is the volatility adjustment under TM and
+
+HN is the volatility adjustment based on the liquidation period TN.
+
+50. Credit institutions shall take into account the illiquidity of lower-quality assets. The liquidation period shall be adjusted upwards in cases where there is doubt concerning the liquidity of the collateral. They shall also identify where historical data may understate potential volatility, e.g., a pegged currency. Such cases shall be dealt with by means of a stress scenario.
+
+51. The historical observation period (sample period) for calculating volatility adjustments shall be a minimum length of one year. For credit institutions that use a weighting scheme or other methods for the historical observation period, the effective observation period shall be at least one year (that is, the weighted average time lag of the individual observations shall not be less than 6 months). The competent authorities may also require a credit institution to calculate its volatility adjustments using a shorter observation period if, in the competent authorities' judgement, this is justified by a significant upsurge in price volatility.
+
+52. Credit institutions shall update their data sets at least once every three months and shall also reassess them whenever market prices are subject to material changes. This implies that volatility adjustments shall be computed at least every three months.
+
+Qualitative Criteria
+
+53. The volatility estimates shall be used in the day-to-day risk management process of the credit institution including in relation to its internal exposure limits.
+
+54. If the liquidation period used by the credit institution in its day-to-day risk management process is longer than that set out in this Part for the type of transaction in question, the credit institution's volatility adjustments shall be scaled up in accordance with the square root of time formula set out in point 49.
+
+55. The credit institution shall have established procedures for monitoring and ensuring compliance with a documented set of policies and controls for the operation of its system for the estimation of volatility adjustments and for the integration of such estimations into its risk management process.
+
+56. An independent review of the credit institution's system for the estimation of volatility adjustments shall be carried out regularly in the credit institution's own internal auditing process. A review of the overall system for the estimation of volatility adjustments and for integration of those adjustments into the credit institution's risk management process shall take place at least once a year and shall specifically address, at a minimum:
+
+(a) the integration of estimated volatility adjustments into daily risk management;
+
+(b) the validation of any significant change in the process for the estimation of volatility adjustments;
+
+(c) the verification of the consistency, timeliness and reliability of data sources used to run the system for the estimation of volatility adjustments, including the independence of such data sources; and
+
+(d) the accuracy and appropriateness of the volatility assumptions.
+
+(iii) **Scaling up of volatility adjustments**
+
+57. The volatility adjustments set out in points 36 to 41 are the volatility adjustments to be applied where there is daily revaluation. Similarly, where a credit institution uses its own estimates of the volatility adjustments in accordance with points 42 to 56, these must be calculated in the first instance on the basis of daily revaluation. If the frequency of revaluation is less than daily, larger volatility adjustments shall be applied. These shall be calculated by scaling up the daily revaluation volatility adjustments, using the following ‘square root of time’ formula:
+
+where:
+
+H is the volatility adjustment to be applied
+
+HM is the volatility adjustment where there is daily revaluation
+
+NR is the actual number of business days between revaluations
+
+TM is the liquidation period for the type of transaction in question.
+
+(iv) **Conditions for applying a 0 % volatility adjustment**
+
+58. In relation to repurchase transactions and securities lending or borrowing transactions, where a credit institution uses the Supervisory Volatility Adjustments Approach or the Own Estimates Approach and where the conditions set out in points (a) to (h) are satisfied, credit institutions may, instead of applying the volatility adjustments calculated under points 34 to 57, apply a 0 % volatility adjustment. This option is not available in respect of credit institutions using the internal models approach set out in points 12 to 21:
+
+(a) Both the exposure and the collateral are cash or debt securities issued by central governments or central banks within the meaning of Part 1, point 7(b) and eligible for a 0 % risk weight under Articles 78 to 83,
+
+(b) Both the exposure and the collateral are denominated in the same currency,
+
+(c) Either the maturity of the transaction is no more than one day or both the exposure and the collateral are subject to daily marking-to-market or daily remargining,
+
+(d) It is considered that the time between the last marking-to-market before a failure to remargin by the counterparty and the liquidation of the collateral shall be no more than four business days,
+
+(e) The transaction is settled across a settlement system proven for that type of transaction,
+
+(f) The documentation covering the agreement is standard market documentation for repurchase transactions or securities lending or borrowing transactions in the securities concerned,
+
+(g) The transaction is governed by documentation specifying that if the counterparty fails to satisfy an obligation to deliver cash or securities or to deliver margin or otherwise defaults, then the transaction is immediately terminable, and
+
+(h) The counterparty is considered a ‘core market participant’ by the competent authorities. Core market participants shall include the following entities:
+
+— the entities mentioned in point 7(b) of Part 1 exposures to which are assigned a 0 % risk weight under Articles 78 to 83;
+
+— institutions;
+
+— other financial companies (including insurance companies) exposures to which are assigned a 20 % risk weight under Articles 78 to 83 or which, in the case of credit institutions calculating risk-weighted exposure amounts and expected loss amounts under Articles 83 to 89, do not have a credit assessment by a recognised ECAI and are internally rated as having a PD equivalent to that associated with the credit assessments of ECAIs determined by the competent authorities to be associated with credit quality step 2 or above under the rules for the risk weighting of exposures to corporates under Articles 78 to 83
+
+— regulated collective investment undertakings that are subject to capital or leverage requirements;
+
+— regulated pension funds; and
+
+— recognised clearing organisations.
+
+59. Where a competent authority permits the treatment set out in point 58 to be applied in the case of repurchase transactions or securities lending or borrowing transactions in securities issued by its domestic government, then other competent authorities may choose to allow credit institutions incorporated in their jurisdiction to adopt the same approach to the same transactions.
+
+(c) **Calculating risk-weighted exposure amounts and expected loss amounts**
+
+Standardised Approach
+
+60. E* as calculated under point 33 shall be taken as the exposure value for the purposes of Article 80. In the case of off-balance sheet items listed in Annex II, E* shall be taken as the value at which the percentages indicated in Article 78(1) shall be applied to arrive at the exposure value.
+
+IRB Approach
+
+61. LGD* (the effective LGD)calculated as set out in this point shall be taken as the LGD for the purposes of Annex VII.
+
+LGD* = LGD x (E*/E)
+
+where:
+
+LGD is the LGD that would apply to the exposure under Articles 84 to 89 if the exposure was not collateralised;
+
+E is the exposure value as described under point 33;
+
+E* is as calculated under point 33.
+
+1.5. **Other eligible collateral for Articles 84 to 89**
+
+1.5.1. **Valuation**
+
+(a) **Real estate collateral**
+
+62. The property shall be valued by an independent valuer at or less than the market value. In those Member States that have laid down rigorous criteria for the assessment of the mortgage lending value in statutory or regulatory provisions the property may instead be valued by an independent valuer at or less than the mortgage lending value.
+
+63. ‘Market value’ means the estimated amount for which the property should exchange on the date of valuation between a willing buyer and a willing seller in an arm's-length transaction after proper marketing wherein the parties had each acted knowledgeably, prudently and without compulsion. The market value shall be documented in a transparent and clear manner.
+
+64. ‘Mortgage lending value’ means the value of the property as determined by a prudent assessment of the future marketability of the property taking into account long-term sustainable aspects of the property, the normal and local market conditions, the current use and alternative appropriate uses of the property. Speculative elements shall not be taken into account in the assessment of the mortgage lending value. The mortgage lending value shall be documented in a transparent and clear manner.
+
+65. The value of the collateral shall be the market value or mortgage lending value reduced as appropriate to reflect the results of the monitoring required under Part 2, point 8 and to take account of the any prior claims on the property.
+
+(b) **Receivables**
+
+66. The value of receivables shall be the amount receivable.
+
+(c) **Other physical collateral**
+
+67. The property shall be valued at its market value — that is the estimated amount for which the property would exchange on the date of valuation between a willing buyer and a willing seller in an arm's-length transaction.
+
+1.5.2. **Calculating risk-weighted exposure amounts and expected loss amounts**
+
+(a) **General treatment**
+
+68. LGD* calculated as set out in points 69 to 72 shall be taken as the LGD for the purposes of Annex VII.
+
+69. Where the ratio of the value of the collateral (C) to the exposure value (E) is below a threshold level of C* (the required minimum collateralisation level for the exposure) as laid down in Table 5, LGD* shall be the LGD laid down in Annex VII for uncollateralised exposures to the counterparty.►M5 For this purpose, the exposure value of the items listed in Annex VII, Part 3, points 9, 10 and 11 shall be calculated using a conversion factor or percentage of 100 % rather than the conversion factors or percentages indicated in those points.** ◄ **
+
+70. Where the ratio of the value of the collateral to the exposure value exceeds a second, higher threshold level of C** (i.e. the required level of collateralisation to receive full LGD recognition) as laid down in Table 5, LGD* shall be that prescribed in Table 5.
+
+71. Where the required level of collateralisation C** is not achieved in respect of the exposure as a whole, the exposure shall be considered to be two exposures — that part in respect of which the required level of collateralisation C** is achieved and the remainder.
+
+72. Table 5 sets out the applicable LGD* and required collateralisation levels for the secured parts of exposures.
+
+Table 5
+
+Minimum LGD for secured parts of exposures
+
+|  | LGD* for senior claims or contingent claims | LGD* for subordinated claims or contingent claims | Required minimum collateralisation level of the exposure (C*) | Required minimum collateralisation level of the exposure (C**) |
+| --- | --- | --- | --- | --- |
+| Receivables | 35 % | 65 % | 0 % | 125 % |
+| Residential real estate/commercial real estate | 35 % | 65 % | 30 % | 140 % |
+| Other collateral | 40 % | 70 % | 30 % | 140 % |
+
+By way of derogation, until 31 December 2012 the competent authorities may, subject to the levels of collateralisation indicated in Table 5:
+
+(a) allow credit institutions to assign a 30 % LGD for senior exposures in the form of Commercial Real Estate leasing;
+
+(b) allow credit institutions to assign a 35 % LGD for senior exposures in the form of equipment leasing; and
+
+(c) allow credit institutions to assign a 30 % LGD for senior exposures secured by residential or commercial real estate.
+
+At the end of this period, this derogation shall be reviewed.
+
+(b) **Alternative treatment for real estate collateral**
+
+73. Subject to the requirements of this point and point 74 and as an alternative to the treatment in points 68 to 72, the competent authorities of a Member State may authorise credit institutions to assign a 50 % risk weight to the Part of the exposure fully collateralised by residential real estate property or commercial real estate property situated within the territory of the Member State if they have evidence that the relevant markets are well-developed and long-established with loss-rates from lending collateralised by residential real estate property or commercial real estate property respectively that do not exceed the following limits:
+
+(a) losses stemming from lending collateralised by residential real estate property or commercial real estate property respectively up to 50 % of the market value (or where applicable and if lower 60 % of the mortgage-lending-value) do not exceed 0,3 % of the outstanding loans collateralised by that form of real estate property in any given year; and
+
+(b) overall losses stemming from lending collateralised by residential real estate property or commercial real estate property respectively do not exceed 0,5 % of the outstanding loans collateralised by that form of real estate property in any given year.
+
+74. If either of the conditions in point 73 is not satisfied in a given year, the eligibility to use this treatment shall cease until the conditions are satisfied in a subsequent year.
+
+75. Where the discretion provided for in point 73 is exercised by the competent authorities of a Member State, the competent authorities of another Member State may authorise their credit institutions to assign the risk weights permitted under the treatment of point 73 in respect of exposures collateralised by residential real estate property or commercial real estate property located in the territory of the former Member State subject to the same conditions as apply in the former Member State.
+
+1.6. **Calculating risk-weighted exposure amounts and expected loss amounts in the case of mixed pools of collateral**
+
+76. Where risk-weighted exposure amounts and expected loss amounts are calculated under Articles 84 to 89, and an exposure is collateralised by both financial collateral and other eligible collateral, LGD*, to be taken as the LGD for the purposes of Annex VII, shall be calculated as follows.
+
+77. The credit institution shall be required to subdivide the volatility-adjusted value of the exposure (i.e. the value after the application of the volatility adjustment as set out in point 33) into parts each covered by only one type of collateral. That is, the credit institution must divide the exposure into the part covered by eligible financial collateral, the portion covered by receivables, the portions covered by commercial real estate property collateral and/or residential real estate property collateral, the part covered by other eligible collateral, and the unsecured portion, as relevant.
+
+78. LGD* for each part of exposure shall be calculated separately in accordance with the relevant provisions of this Annex.
+
+1.7. **Other funded credit protection**
+
+1.7.1. **Deposits with third party institutions**
+
+79. Where the conditions set out in Part 2, point 12 are satisfied, credit protection falling within the terms of Part 1, point 23 may be treated as a guarantee by the third party institution.
+
+1.7.2. **Life insurance policies pledged to the lending credit institution**
+
+80. Where the conditions set out in Part 2, point 13 are satisfied, the portion of the exposure collateralised by the current surrender value of credit protection falling within the terms of Part 1, point 24 shall be either of the following:
+
+(a) subject to the risk weights specified in point 80a where the exposure is subject to Articles 78 to 83;
+
+(b) assigned an LGD of 40 % where the exposure is subject to Articles 84 to 89 but not subject to the credit institution’s own estimates of LGD.
+
+In case of a currency mismatch, the current surrender value shall be reduced according to point 84, the value of the credit protection being the current surrender value of the life insurance policy.
+
+80a. For purposes of point 80(a), the following risk weights shall be assigned on the basis of the risk weight assigned to a senior unsecured exposure to the company providing the life insurance:
+
+(a) a risk weight of 20 %, where the senior unsecured exposure to the company providing the life insurance is assigned a risk weight of 20 %;
+
+(b) a risk weight of 35 %, where the senior unsecured exposure to the company providing the life insurance is assigned a risk weight or 50 %;
+
+(c) a risk weight of 70 %, where the senior unsecured exposure to the company providing the life insurance is assigned a risk weight of 100 %;
+
+(d) a risk weight of 150 %, where the senior unsecured exposure to the company providing the life insurance is assigned a risk weight of 150 %.
+
+1.7.3. **Institution instruments repurchased on request**
+
+81. Instruments eligible under Part 1, point 25 may be treated as a guarantee by the issuing institution.
+
+82. The value of the credit protection recognised shall be the following:
+
+(a) where the instrument will be repurchased at its face value, the value of the protection shall be that amount;
+
+(b) where the instrument will be repurchased at market price, the value of the protection shall be the value of the instrument valued in the same way as the debt securities specified in Part 1, point 8.
+
+2. **UNFUNDED CREDIT PROTECTION**
+
+2.1. **Valuation**
+
+83. The value of unfunded credit protection (G) shall be the amount that the protection provider has undertaken to pay in the event of the default or non-payment of the borrower or on the occurrence of other specified credit events. In the case of credit derivatives which do not include as a credit event restructuring of the underlying obligation involving forgiveness or postponement of principal, interest or fees that result in a credit loss event (e.g. value adjustment, the making of a value adjustment or other similar debit to the profit and loss account),
+
+(a) where the amount that the protection provider has undertaken to pay is not higher than the exposure value, the value of the credit protection calculated under the first sentence of this point shall be reduced by 40 %; or
+
+(b) where the amount that the protection provider has undertaken to pay is higher than the exposure value, the value of the credit protection shall be no higher than 60 % of the exposure value.
+
+84. Where unfunded credit protection is denominated in a currency different from that in which the exposure is denominated (a currency mismatch) the value of the credit protection shall be reduced by the application of a volatility adjustment HFX as follows:
+
+G* = G x (1-HFX)
+
+where:
+
+G is the nominal amount of the credit protection,
+
+G* is G adjusted for any foreign exchange risk, and
+
+Hfx is the volatility adjustment for any currency mismatch between the credit protection and the underlying obligation.
+
+Where there is no currency mismatch
+
+G* = G
+
+85. The volatility adjustments for any currency mismatch may be calculated based on the Supervisory volatility adjustments approach or the Own estimates approach as set out in points 34 to 57.
+
+2.2. **Calculating risk-weighted exposure amounts and expected loss amounts**
+
+2.2.1. **Partial protection — tranching**
+
+86. Where the credit institution transfers a part of the risk of a loan in one or more tranches, the rules set out in Articles 94 to 101 shall apply. Materiality thresholds on payments below which no payment shall be made in the event of loss are considered to be equivalent to retained first loss positions and to give rise to a tranched transfer of risk.
+
+2.2.2. **Standardised Approach**
+
+(a) **Full protection**
+
+87. For the purposes of Article 80, g shall be the risk weight to be assigned to an exposure, the exposure value (E) of which is fully protected by unfunded protection (GA), where:
+
+E is the exposure value according to Article 78; for this purpose, the exposure value of an off-balance sheet item listed in Annex II shall be 100 % of its value rather than the exposure value indicated in Article 78(1);
+
+g is the risk weight of exposures to the protection provider as specified under Articles 78 to 83; and
+
+GA is the value of G* as calculated under point 84 further adjusted for any maturity mismatch as laid down in Part 4.
+
+(b) **Partial protection — equal seniority**
+
+88. Where the protected amount is less than the exposure value and the protected and unprotected parts are of equal seniority — i.e. the credit institution and the protection provider share losses on a pro-rata basis, proportional regulatory capital relief shall be afforded. For the purposes of Article 80, risk-weighted exposure amounts shall be calculated in accordance with the following formula:
+
+(E-GA) x r + GA x g
+
+where:
+
+E is the exposure value according to Article 78. For this purpose, the exposure value of an off-balance sheet item listed in Annex II shall be 100 % of its value rather than the exposure value indicated in Article 78(1);
+
+GA is the value of G* as calculated under point 84 further adjusted for any maturity mismatch as laid down in Part 4;
+
+r is the risk weight of exposures to the obligor as specified under Articles 78 to 83; and
+
+g is the risk weight of exposures to the protection provider as specified under Articles 78 to 83.
+
+(c) **Sovereign guarantees**
+
+89. The competent authorities may extend the treatment provided for in Annex VI, Part 1, points 4 and 5 to exposures or parts of exposures guaranteed by the central government or central bank, where the guarantee is denominated in the domestic currency of the borrower and the exposure is funded in that currency.
+
+2.2.3. **IRB Approach**
+
+Full protection/Partial protection — equal seniority
+
+90. For the covered portion of the exposure value (E) (based on the adjusted value of the credit protection GA), the PD for the purposes of Annex VII, Part 2 may be the PD of the protection provider, or a PD between that of the borrower and that of the guarantor if a full substitution is deemed not to be warranted. In the case of subordinated exposures and non-subordinated unfunded protection, the LGD to be applied for the purposes of Annex VII, Part 2 may be that associated with senior claims.
+
+91. For any uncovered portion of the exposure value (E) the PD shall be that of the borrower and the LGD shall be that of the underlying exposure.
+
+92. GA is the value of G* as calculated under point 84 further adjusted for any maturity mismatch as laid down in Part 4. E is the exposure value according to Annex VII, Part 3. For this purpose, the exposure value of the items listed in Annex VII, Part 3, points 9 to 11 shall be calculated using a conversion factor or percentage of 100 % rather than the conversion factors or percentages indicated in those points.
+
+PART 4
+
+Maturity Mismatches
+
+1. For the purposes of calculating risk-weighted exposure amounts, a maturity mismatch occurs when the residual maturity of the credit protection is less than that of the protected exposure. Protection of less than three months residual maturity, the maturity of which is less than the maturity of the underlying exposure, shall not be recognised.
+
+2. Where there is a maturity mismatch the credit protection shall not be recognised where:
+
+(a) the original maturity of the protection is less than 1 year; or
+
+(b) the exposure is a short term exposure specified by the competent authorities as being subject to a one–day floor rather than a one-year floor in respect of the maturity value (M) under Annex VII, Part 2, point 14.
+
+1. **DEFINITION OF MATURITY**
+
+3. Subject to a maximum of 5 years, the effective maturity of the underlying shall be the longest possible remaining time before the obligor is scheduled to fulfil its obligations. Subject to point 4, the maturity of the credit protection shall be the time to the earliest date at which the protection may terminate or be terminated.
+
+4. Where there is an option to terminate the protection which is at the discretion of the protection seller, the maturity of the protection shall be taken to be the time to the earliest date at which that option may be exercised. Where there is an option to terminate the protection which is at the discretion of the protection buyer and the terms of the arrangement at origination of the protection contain a positive incentive for the credit institution to call the transaction before contractual maturity, the maturity of the protection shall be taken to be the time to the earliest date at which that option may be exercised; otherwise such an option may be considered not to affect the maturity of the protection.
+
+5. Where a credit derivative is not prevented from terminating prior to expiration of any grace period required for a default on the underlying obligation to occur as a result of a failure to pay the maturity of the protection shall be reduced by the amount of the grace period.
+
+2. **VALUATION OF PROTECTION**
+
+2.1. **Transactions subject to funded credit protection — Financial Collateral Simple Method**
+
+6. Where there is a mismatch between the maturity of the exposure and the maturity of the protection, the collateral shall not be recognised.
+
+2.2. **Transactions subject to funded credit protection — Financial Collateral Comprehensive Method**
+
+7. The maturity of the credit protection and that of the exposure must be reflected in the adjusted value of the collateral according to the following formula:
+
+CVAM = CVA x (t-t*)/(T-t*)
+
+where:
+
+CVA is the volatility adjusted value of the collateral as specified in Part 3, point 33 or the amount of the exposure, whichever is the lowest;
+
+t is the number of years remaining to the maturity date of the credit protection calculated in accordance with points 3 to 5, or the value of T, whichever is the lower;
+
+T is the number of years remaining to the maturity date of the exposure calculated in accordance with points 3 to 5, or 5 years, whichever is the lower; and
+
+t* is 0,25.
+
+CVAM shall be taken as CVA further adjusted for maturity mismatch to be included in the formula for the calculation of the fully adjusted value of the exposure (E*) set out at Part 3, point 33.
+
+2.3. **Transactions subject to unfunded credit protection**
+
+8. The maturity of the credit protection and that of the exposure must be reflected in the adjusted value of the credit protection according to the following formula
+
+GA = G* x (t-t*)/(T-t*)
+
+where:
+
+G* is the amount of the protection adjusted for any currency mismatch
+
+GA is G* adjusted for any maturity mismatch
+
+t is the number of years remaining to the maturity date of the credit protection calculated in accordance with points 3 to 5, or the value of T, whichever is the lower;
+
+T is the number of years remaining to the maturity date of the exposure calculated in accordance with points 3 to 5, or 5 years, whichever is the lower; and
+
+t* is 0,25.
+
+GA is then taken as the value of the protection for the purposes of Part 3, points 83 to 92.
+
+PART 5
+
+Combinations of credit risk mitigation in the Standardised Approach
+
+1. In the case where a credit institution calculating risk-weighted exposure amounts under Articles 78 to 83 has more than one form of credit risk mitigation covering a single exposure (e.g. a credit institution has both collateral and a guarantee partially covering an exposure), the credit institution shall be required to subdivide the exposure into parts covered by each type of credit risk mitigation tool (e.g. a part covered by collateral and a portion covered by guarantee) and the risk-weighted exposure amount for each portion must be calculated separately in accordance with the provisions of Articles 78 to 83 and this Annex.
+
+2. When credit protection provided by a single protection provider has differing maturities, a similar approach to that described in point 1 shall be applied.
+
+PART 6
+
+Basket CRM techniques
+
+1. **FIRST-TO-DEFAULT CREDIT DERIVATIVES**
+
+1. Where a credit institution obtains credit protection for a number of exposures under terms that the first default among the exposures shall trigger payment and that this credit event shall terminate the contract, the credit institution may modify the calculation of the risk-weighted exposure amount and, as relevant, the expected loss amount of the exposure which would, in the absence of the credit protection, produce the lowest risk-weighted exposure amount under Articles 78 to 83 or Articles 84 to 89 as appropriate in accordance with this Annex, but only if the exposure value is less than or equal to the value of the credit protection.
+
+2. **N NTH-TO-DEFAULT CREDIT DERIVATIVES**
+
+2. Where the nth default among the exposures triggers payment under the credit protection, the credit institution purchasing the protection may only recognise the protection for the calculation of risk-weighted exposure amounts and, as relevant, expected loss amounts if protection has also been obtained for defaults 1 to n-1 or when n-1 defaults have already occurred. In such cases, the methodology shall follow that set out in point 1 for first-to-default derivatives appropriately modified for nth-to-default products.
+
+<a id="anx_ix"></a>
+
+### ANNEX IX
+
+
+
+<a id="securitisation"></a>
+
+### SECURITISATION
+
+PART 1
+
+Definitions for the purposes of Annex IX
+
+1. For the purposes of this Annex:
+
+— ‘Excess spread’ means finance charge collections and other fee income received in respect of the securitised exposures net of costs and expenses;
+
+— ‘Clean-up call option’ means a contractual option for the originator to repurchase or extinguish the securitisation positions before all of the underlying exposures have been repaid, when the amount of outstanding exposures falls below a specified level;
+
+— ‘Liquidity facility’ means the securitisation position arising from a contractual agreement to provide funding to ensure timeliness of cash flows to investors;
+
+— ‘Kirb’ means 8 % of the risk-weighted exposure amounts that would be calculated under Articles 84 to 89 in respect of the securitised exposures, had they not been securitised, plus the amount of expected losses associated with those exposures calculated under those Articles;
+
+— ‘Ratings based method’ means the method of calculating risk-weighted exposure amounts for securitisation positions in accordance with Part 4, points 46 to 51;
+
+— ‘Supervisory formula method’ means the method of calculating risk-weighted exposure amounts for securitisation positions in accordance with Part 4, points 52 to 54;
+
+— ‘Unrated position’ means a securitisation position which does not have an eligible credit assessment by an eligible ECAI as defined in Article 97;
+
+— ‘Rated position’ means a securitisation position which has an eligible credit assessment by an eligible ECAI as defined in Article 97; and
+
+— ‘Asset-backed commercial paper (ABCP) programme’ means a programme of securitisations the securities issued by which predominantly take the form of commercial paper with an original maturity of one year or less.
+
+PART 2
+
+Minimum requirements for recognition of significant credit risk transfer and calculation of risk-weighted exposure amounts and expected loss amounts for securitised exposures
+
+1. **MINIMUM REQUIREMENTS FOR RECOGNITION OF SIGNIFICANT CREDIT RISK TRANSFER IN A TRADITIONAL SECURITISATION**
+
+1. The originator credit institution of a traditional securitisation may exclude securitised exposures from the calculation of risk-weighted exposure amounts and expected loss amounts if either of the following conditions is fulfilled:
+
+(a) significant credit risk associated with the securitised exposures is considered to have been transferred to third parties;
+
+(b) the originator credit institution applies a 1 250 % risk weight to all securitisation positions it holds in this securitisation or deducts these securitisation positions from own funds according to Article 57 (r).
+
+1a. Unless the competent authority decides in a specific instance that the possible reduction in risk weighted exposure amounts which the originator credit institution would achieve by this securitisation is not justified by a commensurate transfer of credit risk to third parties, significant credit risk shall be considered to have been transferred in the following cases:
+
+(a) the risk-weighted exposure amounts of the mezzanine securitisation positions held by the originator credit institution in this securitisation do not exceed 50 % of the risk weighted exposure amounts of all mezzanine securitisation positions existing in this securitisation;
+
+(b) where there are no mezzanine securitisation positions in a given securitisation and the originator can demonstrate that the exposure value of the securitisation positions that would be subject to deduction from own funds or a 1 250 % risk weight exceeds a reasoned estimate of the expected loss on the securitised exposures by a substantial margin, the originator credit institution does not hold more than 20 % of the exposure values of the securitisation positions that would be subject to deduction from own funds or a 1 250 % risk weight.
+
+1b. For the purposes of point 1a, mezzanine securitisation positions mean securitisation positions to which a risk weight lower than 1 250 % applies and that are more junior than the most senior position in this securitisation and more junior than any securitisation position in this securitisation to which:
+
+(a) in the case of a securitisation position subject to points 6 to 36 of part 4 a credit quality step 1; or
+
+(b) in the case of a securitisation position subject to points 37 to 76 of part 4 a credit quality step 1 or 2 is assigned under Part 3.
+
+1c. As an alternative to points 1a and 1b significant credit risk may be considered to have been transferred if the competent authority is satisfied that a credit institution has policies and methodologies in place, ensuring that the possible reduction of capital requirements which the originator achieves by the securitisation is justified by a commensurate transfer of credit risk to third parties. The competent authorities shall only be satisfied if the originator credit institution can demonstrate that such transfer of credit risk to third parties is also recognised for purposes of the credit institution’s internal risk management and its internal capital allocation.
+
+1d. In addition to points 1 to 1c, all the following conditions shall be met:
+
+(a) The securitisation documentation reflects the economic substance of the transaction;
+
+(b) The securitised exposures are put beyond the reach of the originator credit institution and its creditors, including in bankruptcy and receivership. This shall be supported by the opinion of qualified legal counsel;
+
+(c) The securities issued do not represent payment obligations of the originator credit institution;
+
+(d) The transferee is a securitisation special-purpose entity (SSPE);
+
+(e) The originator credit institution does not maintain effective or indirect control over the transferred exposures. An originator shall be considered to have maintained effective control over the transferred exposures if it has the right to repurchase from the transferee the previously transferred exposures in order to realise their benefits or if it is obligated to re-assume transferred risk. The originator credit institution's retention of servicing rights or obligations in respect of the exposures shall not of itself constitute indirect control of the exposures;
+
+(f) Where there is a clean-up call option, the following conditions are satisfied:
+
+(i) The clean-up call option is exercisable at the discretion of the originator credit institution;
+
+(ii) The clean-up call option may only be exercised when 10 % or less of the original value of the exposures securitised remains unamortised; and
+
+(iii) The clean-up call option is not structured to avoid allocating losses to credit enhancement positions or other positions held by investors and is not otherwise structured to provide credit enhancement; and
+
+(g) The securitisation documentation does not contain clauses that
+
+(i) other than in the case of early amortisation provisions, require positions in the securitisation to be improved by the originator credit institution including but not limited to altering the underlying credit exposures or increasing the yield payable to investors in response to a deterioration in the credit quality of the securitised exposures; or
+
+(ii) increase the yield payable to holders of positions in the securitisation in response to a deterioration in the credit quality of the underlying pool.
+
+2. **MINIMUM REQUIREMENTS FOR RECOGNITION OF SIGNIFICANT CREDIT RISK TRANSFER IN A SYNTHETIC SECURITISATION**
+
+2. An originator credit institution of a synthetic securitisation may calculate risk-weighted exposure amounts, and, as relevant, expected loss amounts, for the securitised exposures in accordance with points 3 and 4, if either of the following is met:
+
+(a) significant credit risk is considered to have been transferred to third parties either through funded or unfunded credit protection;
+
+(b) the originator credit institution applies a 1 250 % risk weight to all securitisation positions he holds in this securitisation or deducts these securitisation positions from own funds according to Article 57 (r).
+
+2a. Unless the competent authority decides on a case- by-case basis that the possible reduction in risk weighted exposure amounts which the originator credit institution would achieve by this securitisation is not justified by a commensurate transfer of credit risk to third parties, significant credit risk shall be considered to have been transferred if either of the following conditions is met:
+
+(a) the risk-weighted exposure amounts of the mezzanine securitisation positions which are held by the originator credit institution in this securitisation do not exceed 50 % of the risk weighted exposure amounts of all mezzanine securitisation positions existing in this securitisation;
+
+(b) where there are no mezzanine securitisation positions in a given securitisation and the originator can demonstrate that the exposure value of the securitisation positions that would be subject to deduction from own funds or a 1 250 % risk weight exceeds a reasoned estimate of the expected loss on the securitised exposures by a substantial margin, the originator credit institution does not hold more than 20 % of the exposure values of the securitisation positions that would be subject to deduction from own funds or a 1 250 % risk weight.
+
+2b. For the purposes of point 2a, mezzanine securitisation positions means securitisation positions to which a risk weight lower than 1 250 % applies and that are more junior than the most senior position in this securitisation and more junior than any securitisation positions in this securitisation to which:
+
+(a) in the case of a securitisation position subject to points 6 to 36 of part 4 a credit quality step 1; or
+
+(b) in the case of a securitisation position subject to points 37 to 76 of part 4 a credit quality step 1 or 2 is assigned under Part 3.
+
+2c. As an alternative to points 2a and 2b, significant credit risk may be considered to have been transferred if the competent authority is satisfied that a credit institution has policies and methodologies in place to ensure that a possible reduction of capital requirements that the originator achieves by the securitisation is justified by a commensurate transfer of credit risk to third parties. The competent authorities shall only be satisfied if the originator credit institution can demonstrate that such transfer of credit risk to third parties is also recognised for purposes of the credit institutions internal risk management and its internal capital allocation.
+
+2d. In addition, the transfer shall comply with the following conditions:
+
+(a) The securitisation documentation reflects the economic substance of the transaction;
+
+(b) The credit protection by which the credit risk is transferred complies with the eligibility and other requirements under Articles 90 to 93 for the recognition of such credit protection. For the purposes of this point, special purpose entities shall not be recognised as eligible unfunded protection providers;
+
+(c) The instruments used to transfer credit risk do not contain terms or conditions that:
+
+(i) impose significant materiality thresholds below which credit protection is deemed not to be triggered if a credit event occurs;
+
+(ii) allow for the termination of the protection due to deterioration of the credit quality of the underlying exposures;
+
+(iii) other than in the case of early amortisation provisions, require positions in the securitisation to be improved by the originator credit institution;
+
+(iv) increase the credit institutions' cost of credit protection or the yield payable to holders of positions in the securitisation in response to a deterioration in the credit quality of the underlying pool; and
+
+(d) An opinion is obtained from qualified legal counsel confirming the enforceability of the credit protection in all relevant jurisdictions.
+
+3. **ORIGINATOR CREDIT INSTITUTIONS' CALCULATION OF RISK-WEIGHTED EXPOSURE AMOUNTS FOR EXPOSURES SECURITISED IN A SYNTHETIC SECURITISATION**
+
+3. In calculating risk-weighted exposure amounts for the securitised exposures, where the conditions in point 2 are met, the originator credit institution of a synthetic securitisation shall, subject to points 5 to 7, use the relevant calculation methodologies set out in Part 4 and not those set out in Articles 78 to 89. For credit institutions calculating risk-weighted exposure amounts and expected loss amounts under Articles 84 to 89, the expected loss amount in respect of such exposures shall be zero.
+
+4. For clarity, point 3 refers to the entire pool of exposures included in the securitisation. Subject to points 5 to 7, the originator credit institution is required to calculate risk-weighted exposure amounts in respect of all tranches in the securitisation in accordance with the provisions of Part 4 including those relating to the recognition of credit risk mitigation. For example, where a tranche is transferred by means of unfunded credit protection to a third party, the risk weight of that third party shall be applied to the tranche in the calculation of the originator credit institution's risk-weighted exposure amounts.
+
+3.1. **Treatment of maturity mismatches in synthetic securitisations**
+
+5. For the purposes of calculating risk-weighted exposure amounts in accordance with point 3, any maturity mismatch between the credit protection by which the tranching is achieved and the securitised exposures shall be taken into consideration in accordance with points 6 to 7.
+
+6. The maturity of the securitised exposures shall be taken to be the longest maturity of any of those exposures subject to a maximum of five years. The maturity of the credit protection shall be determined in accordance with Annex VIII .
+
+7. An originator credit institution shall ignore any maturity mismatch in calculating risk-weighted exposure amounts for tranches appearing pursuant to Part 4 with a risk weighting of 1 250 %. For all other tranches, the maturity mismatch treatment set out in Annex VIII shall be applied in accordance with the following formula:
+
+Where:
+
+RW* is Risk-weighted exposure amounts for the purposes of Article 75(a) ;
+
+RW(Ass) is Risk-weighted exposure amounts for exposures if they had not been securitised, calculated on a pro-rata basis;
+
+RW(SP) is Risk-weighted exposure amounts calculated under point 3 if there was no maturity mismatch;
+
+T is maturity of the underlying exposures expressed in years;
+
+t is maturity of credit protection. expressed in years; and
+
+t* is 0,25.
+
+PART 3
+
+External credit assessments
+
+1. **REQUIREMENTS TO BE MET BY THE CREDIT ASSESSMENTS OF ECAIS**
+
+1. To be used for the purposes of calculating risk-weighted exposure amounts under Part 4, a credit assessment of an eligible ECAI shall comply with the following conditions.
+
+(a) There shall be no mismatch between the types of payments reflected in the credit assessment and the types of payment to which the credit institution is entitled under the contract giving rise to the securitisation position in question; and
+
+(b) The credit assessments shall be available publicly to the market. Credit assessments are considered to be publicly available only if they have been published in a publicly accessible forum and they are included in the ECAI's transition matrix. Credit assessments that are made available only to a limited number of entities shall not be considered to be publicly available; and
+
+(c) The credit assessment shall not be based or partly based on unfunded support provided by the credit institution itself. In such case, the credit institution shall consider the relevant position as if it were not rated and shall apply the relevant treatment of unrated positions as set out in Part 4.
+
+2. **USE OF CREDIT ASSESSMENTS**
+
+2. A credit institution may nominate one or more eligible ECAIs the credit assessments of which shall be used in the calculation of its risk-weighted exposure amounts under Articles 94 to 101 (a ‘nominated ECAI’).
+
+3. Subject to points 5 to 7 below, a credit institution must use credit assessments from nominated ECAIs consistently in respect of its securitisation positions.
+
+4. Subject to points 5 and 6, a credit institution may not use an ECAI's credit assessments for its positions in some tranches and another ECAI's credit assessments for its positions in other tranches within the same structure that may or may not be rated by the first ECAI.
+
+5. Where a position has two credit assessments by nominated ECAIs, the credit institution shall use the less favourable credit assessment.
+
+6. Where a position has more than two credit assessments by nominated ECAIs, the two most favourable credit assessments shall be used. If the two most favourable assessments are different, the least favourable of the two shall be used.
+
+7. Where credit protection eligible under Articles 90 to 93 is provided directly to the SSPE, and that protection is reflected in the credit assessment of a position by a nominated ECAI, the risk weight associated with that credit assessment may be used. If the protection is not eligible under Articles 90 to 93, the credit assessment shall not be recognised. In the situation where the credit protection is not provided to the SSPE but rather directly to a securitisation position, the credit assessment shall not be recognised.
+
+7a. Competent authorities shall, furthermore, take the necessary measures to ensure that, with regard to credit assessments relating to structured finance instruments, the ECAI is committed to make available publicly the explanation how the performance of pool assets affects its credit assessments.
+
+3. **MAPPING**
+
+8. The competent authorities shall determine with which credit quality step in the tables set out in Part 4 each credit assessment of an eligible ECAI shall be associated. In doing so the competent authorities shall differentiate between the relative degrees of risk expressed by each assessment. They shall consider quantitative factors, such as default and/or loss rates, and qualitative factors such as the range of transactions assessed by the ECAI and the meaning of the credit assessment.
+
+9. The competent authorities shall seek to ensure that securitisation positions to which the same risk weight is applied on the basis of the credit assessments of eligible ECAIs are subject to equivalent degrees of credit risk. This shall include modifying their determination as to the credit quality step with which a particular credit assessment shall be associated, as appropriate.
+
+PART 4
+
+Calculation
+
+1. **CALCULATION OF RISK-WEIGHTED EXPOSURE AMOUNTS**
+
+1. For the purposes of Article 96, the risk-weighted exposure amount of a securitisation position shall be calculated by applying to the exposure value of the position the relevant risk weight as set out in this Part.
+
+2. Subject to point 3:
+
+(a) where a credit institution calculates risk-weighted exposure amounts under points 6 to 36, the exposure value of an on-balance sheet securitisation position shall be its balance sheet value;
+
+(b) where a credit institution calculates risk-weighted exposure amounts under points 37 to 76, the exposure value of an on-balance sheet securitisation position shall be measured gross of value adjustments; and
+
+(c) the exposure value of an off-balance sheet securitisation position shall be its nominal value multiplied by a conversion figure as prescribed in this Annex. This conversion figure shall be 100 % unless otherwise specified.
+
+3. The exposure value of a securitisation position arising from a derivative instrument listed in Annex IV, shall be determined in accordance with Annex III.
+
+4. Where a securitisation position is subject to funded credit protection, the exposure value of that position may be modified in accordance with and subject to the requirements in Annex VIII as further specified in this Annex.
+
+5. Where a credit institution has two or more overlapping positions in a securitisation, it will be required to the extent that they overlap to include in its calculation of risk-weighted exposure amounts only the position or portion of a position producing the higher risk-weighted exposure amounts. The credit institution may also recognise such overlap between specific risk capital charges for positions in the trading book and capital charges for positions in the banking book, provided that the credit institution is able to calculate and compare the capital charges for the relevant positions. For the purpose of this point ‘overlapping’ occurs when the positions, wholly or partially, represent an exposure to the same risk such that the extent of the overlap there is a single exposure.
+
+Where point 1(c) of Part 3 applies to positions in the ABCP, the credit institution may, subject to the approval of the competent authorities, use the risk-weight assigned to a liquidity facility in order to calculate the risk-weighted exposure amount for the ABCP if the liquidity facility ranks *pari passu* with the ABCP so that they form overlapping positions and 100 % of the ABCP issued by the programme is covered by liquidity facilities.
+
+2. **CALCULATION OF RISK-WEIGHTED EXPOSURE AMOUNTS UNDER THE STANDARDISED APPROACH**
+
+6. Subject to point 8, the risk-weighted exposure amount of a rated securitisation or re-securitisation position shall be calculated by applying to the exposure value the risk weight associated with the credit quality step with which the credit assessment has been determined to be associated by the competent authorities in accordance with Article 98 as laid down in Table 1.
+
+*Table 1*
+
+| Credit Quality Step | 1 | 2 | 3 | 4(only for credit assessments other than short-term credit assessments) | all other credit quality steps |
+| --- | --- | --- | --- | --- | --- |
+| Securitisation positions | 20 % | 50 % | 100 % | 350 % | 1 250 % |
+| Re-securitisation positions | 40 % | 100 % | 225 % | 650 % | 1 250 % |
+
+7. Subject to points 10 to 15, the risk-weighted exposure amount of an unrated securitisation position shall be calculated by applying a risk weight of 1 250 %.
+
+2.1. **Originator and sponsor credit institutions**
+
+8. For an originator credit institution or sponsor credit institution, the risk-weighted exposure amounts calculated in respect of its positions in a securitisation may be limited to the risk-weighted exposure amounts which would be calculated for the securitised exposures had they not been securitised subject to the presumed application of a 150 % risk weight to all past due items and items belonging to ‘regulatory high risk categories’ amongst the securitised exposures.
+
+2.2. **Treatment of unrated positions**
+
+9. Credit institutions having an unrated securitisation position may apply the treatment set out in point 10 for calculating the risk-weighted exposure amount for that position provided the composition of the pool of exposures securitised is known at all times.
+
+10. A credit institution may apply the weighted-average risk weight that would be applied to the securitised exposures under Articles 78 to 83 by a credit institution holding the exposures, multiplied by a concentration ratio. This concentration ratio is equal to the sum of the nominal amounts of all the tranches divided by the sum of the nominal amounts of the tranches junior to or pari passu with the tranche in which the position is held including that tranche itself. The resulting risk weight shall not be higher than 1 250 % or lower than any risk weight applicable to a rated more senior tranche. Where the credit institution is unable to determine the risk weights that would be applied to the securitised exposures under Articles 78 to 83, it shall apply a risk weight of 1 250 % to the position.
+
+2.3. **Treatment of securitisation positions in a second loss tranche or better in an ABCP programme**
+
+11. Subject to the availability of a more favourable treatment by virtue of the provisions concerning liquidity facilities in points 13 to 15, a credit institution may apply to securitisation positions meeting the conditions set out in point 12 a risk weight that is the greater of 100 % or the highest of the risk weights that would be applied to any of the securitised exposures under Articles 78 to 83 by a credit institution holding the exposures.
+
+12. For the treatment set out in point 11 to be available, the securitisation position shall be:
+
+(a) in a tranche which is economically in a second loss position or better in the securitisation and the first loss tranche must provide meaningful credit enhancement to the second loss tranche;
+
+(b) of a quality the equivalent of investment grade or better; and
+
+(c) held by a credit institution which does not hold a position in the first loss tranche.
+
+2.4. **Treatment of unrated liquidity facilities**
+
+2.4.1. **Eligible liquidity facilities**
+
+13. ►M5 When the following conditions are met, to determine its exposure value a conversion figure of 50 % may be applied to the nominal amount of a liquidity facility:** ◄ **
+
+(a) The liquidity facility documentation shall clearly identify and limit the circumstances under which the facility may be drawn;
+
+(b) It shall not be possible for the facility to be drawn so as to provide credit support by covering losses already incurred at the time of draw — for example, by providing liquidity in respect of exposures in default at the time of draw or by acquiring assets at more than fair value;
+
+(c) The facility shall not be used to provide permanent or regular funding for the securitisation;
+
+(d) Repayment of draws on the facility shall not be subordinated to the claims of investors other than to claims arising in respect of interest rate or currency derivative contracts, fees or other such payments, nor be subject to waiver or deferral;
+
+(e) It shall not be possible for the facility to be drawn after all applicable credit enhancements from which the liquidity facility would benefit are exhausted; and
+
+(f) The facility must include a provision that results in an automatic reduction in the amount that can be drawn by the amount of exposures that are in default, where ‘default’ has the meaning given to it under Articles 84 to 89, or where the pool of securitised exposures consists of rated instruments, that terminates the facility if the average quality of the pool falls below investment grade.
+
+The risk weight to be applied shall be the highest risk weight that would be applied to any of the securitised exposures under Articles 78 to 83 by a credit institution holding the exposures.
+
+2.4.3. **Cash advance facilities**
+
+15. To determine its exposure value, a conversion figure of 0 % may be applied to the nominal amount of a liquidity facility that is unconditionally cancellable provided that the conditions set out at point 13 are satisfied and that repayment of draws on the facility are senior to any other claims on the cash flows arising from the securitised exposures.
+
+2.5. **Additional capital requirements for securitisations of revolving exposures with early amortisation provisions**
+
+16. In addition to the risk-weighted exposure amounts calculated in respect of its securitisation positions, an originator credit institution shall calculate a risk-weighted exposure amount according to the method set out in points 17 to 33 when it sells revolving exposures into a securitisation that contains an early amortisation provision.
+
+17. The credit institution shall calculate a risk-weighted exposure amount in respect of the sum of the originator's interest and the investors' interest.
+
+18. For securitisation structures where the securitised exposures comprise revolving and non-revolving exposures, an originator credit institution shall apply the treatment set out in point 19 to 31 to that portion of the underlying pool containing revolving exposures.
+
+19. For the purposes of point 16 to 31, ‘originator's interest’ means the exposure value of that notional Part of a pool of drawn amounts sold into a securitisation, the proportion of which in relation to the amount of the total pool sold into the structure determines the proportion of the cash flows generated by principal and interest collections and other associated amounts which are not available to make payments to those having securitisation positions in the securitisation.
+
+To qualify as such, the originator's interest may not be subordinate to the investors' interest.
+
+‘Investors' interest’ means the exposure value of the remaining notional Part of the pool of drawn amounts.
+
+20. The exposure of the originator credit institution, associated with its rights in respect of the originator's interest, shall not be considered a securitisation position but as a pro rata exposure to the securitised exposures as if they had not been securitised.
+
+2.5.1. **Exemptions from early amortisation treatment**
+
+21. Originators of the following types of securitisation are exempt from the capital requirement in point 16:
+
+(a) securitisations of revolving exposures whereby investors remain fully exposed to all future draws by borrowers so that the risk on the underlying facilities does not return to the originator credit institution even after an early amortisation event has occurred, and
+
+(b) securitisations where any early amortisation provision is solely triggered by events not related to the performance of the securitised assets or the originator credit institution, such as material changes in tax laws or regulations.
+
+2.5.2. **Maximum capital requirement**
+
+22. For an originator credit institution subject to the capital requirement in point 16 the total of the risk-weighted exposure amounts in respect of its positions in the investors' interest and the risk-weighted exposure amounts calculated under point 16 shall be no greater than the greater of:
+
+(a) the risk-weighted exposure amounts calculated in respect of its positions in the investors' interest; and
+
+(b) the risk-weighted exposure amounts that would be calculated in respect of the securitised exposures by a credit institution holding the exposures as if they had not been securitised in an amount equal to the investors' interest.
+
+23. Deduction of net gains, if any, arising from the capitalisation of future income required under Article 57, shall be treated outside the maximum amount indicated in point 22.
+
+2.5.3. **Calculation of risk-weighted exposure amounts**
+
+24. The risk-weighted exposure amount to be calculated in accordance with point 16 shall be determined by multiplying the amount of the investors' interest by the product of the appropriate conversion figure as indicated in points 26 to 33 and the weighted average risk weight that would apply to the securitised exposures if the exposures had not been securitised.
+
+25. An early amortisation provision shall be considered to be ‘controlled’ where the following conditions are met:
+
+(a) the originator credit institution has an appropriate capital/liquidity plan in place to ensure that it has sufficient capital and liquidity available in the event of an early amortisation;
+
+(b) throughout the duration of the transaction there is pro-rata sharing between the originator's interest and the investor's interest of payments of interest and principal, expenses, losses and recoveries based on the balance of receivables outstanding at one or more reference points during each month;
+
+(c) the amortisation period is considered sufficient for 90 % of the total debt (originator's and investors' interest) outstanding at the beginning of the early amortisation period to have been repaid or recognised as in default; and
+
+(d) the speed of repayment is no more rapid than would be achieved by straight-line amortisation over the period set out in point (c).
+
+26. In the case of securitisations subject to an early amortisation provision of retail exposures which are uncommitted and unconditionally cancellable without prior notice, where the early amortisation is triggered by the excess spread level falling to a specified level, credit institutions shall compare the three-month average excess spread level with the excess spread levels at which excess spread is required to be trapped.
+
+27. Where the securitisation does not require excess spread to be trapped, the trapping point is deemed to be 4,5 percentage points greater than the excess spread level at which an early amortisation is triggered.
+
+28. The conversion figure to be applied shall be determined by the level of the actual three month average excess spread in accordance with Table 3.
+
+Table 3
+
+|  | Securitisations subject to a controlled early amortisation provision | Securitisations subject to a non-controlled early amortisation provision |
+| --- | --- | --- |
+| 3 months average excess spread | Conversion figure | Conversion figure |
+| Above level A | 0 % | 0 % |
+| Level A | 1 % | 5 % |
+| Level B | 2 % | 15 % |
+| Level C | 10 % | 50 % |
+| Level D | 20 % | 100 % |
+| Level E | 40 % | 100 % |
+
+29. In Table 3, ‘Level A’ means levels of excess spread less than 133,33 % of the trapping level of excess spread but not less than 100 % of that trapping level, ‘Level B’ means levels of excess spread less than 100 % of the trapping level of excess spread but not less than 75 % of that trapping level, ‘Level C’ means levels of excess spread less than 75 % of the trapping level of excess spread but not less than 50 % of that trapping level, ‘Level D’ means levels of excess spread less than 50 % of the trapping level of excess spread but not less than 25 % of that trapping level and ‘Level E’ means levels of excess spread less than 25 % of the trapping level of excess spread.
+
+30. In the case of securitisations subject to an early amortisation provision of retail exposures which are uncommitted and unconditionally cancellable without prior notice and where the early amortisation is triggered by a quantitative value in respect of something other than the three months average excess spread, the competent authorities may apply a treatment which approximates closely to that prescribed in points 26 to 29 for determining the conversion figure indicated.
+
+31. Where a competent authority intends to apply a treatment in accordance with point 30 in respect of a particular securitisation, it shall first inform the relevant competent authorities of all the other Member States. Before the application of such a treatment becomes Part of the general policy approach of the competent authority to securitisations containing early amortisation clauses of the type in question, the competent authority shall consult the relevant competent authorities of all the other Member States and take into consideration the views expressed. The views expressed in such consultation and the treatment applied shall be publicly disclosed by the competent authority in question.
+
+32. All other securitisations subject to a controlled early amortisation provision of revolving exposures shall be subject to a conversion figure of 90 %.
+
+33. All other securitisations subject to a non-controlled early amortisation provision of revolving exposures shall be subject to a conversion figure of 100 %.
+
+2.6. **Recognition of credit risk mitigation on securitisation positions**
+
+34. Where credit protection is obtained on a securitisation position, the calculation of risk-weighted exposure amounts may be modified in accordance with Annex VIII.
+
+2.7. **Reduction in risk-weighted exposure amounts**
+
+35. As provided in Article 66(2), in respect of a securitisation position in respect of which a 1 250 % risk weight is assigned, credit institutions may, as an alternative to including the position in their calculation of risk-weighted exposure amounts, deduct from own funds the exposure value of the position. For these purposes, the calculation of the exposure value may reflect eligible funded credit protection in a manner consistent with point 34.
+
+36. Where a credit institution makes use of the alternative indicated in point 35, 12,5 times the amount deducted in accordance with that point shall, for the purposes of point 8, be subtracted from the amount specified in point 8 as the maximum risk-weighted exposure amount to be calculated by the credit institutions there indicated.
+
+3. **CALCULATION OF RISK-WEIGHTED EXPOSURE AMOUNTS UNDER THE INTERNAL RATINGS BASED APPROACH**
+
+3.1. **Hierarchy of methods**
+
+37. For the purposes of Article 96, the risk-weighted exposure amount of a securitisation positions shall be calculated in accordance with points 38 to 76.
+
+38. For a rated position or a position in respect of which an inferred rating may be used, the Ratings Based Method set out in points 46 to 51 shall be used to calculate the risk-weighted exposure amount.
+
+39. For an unrated position the Supervisory Formula Method set out in points 52 to 54 shall be used except where the Internal Assessment Approach is permitted to be used as set out in points 43 and 44.
+
+40. A credit institution other than an originator credit institution or a sponsor credit institution may only use the Supervisory Formula Method with the approval of the competent authorities.
+
+41. In the case of an originator or sponsor credit institution unable to calculate Kirb and which has not obtained approval to use the Internal Assessment Approach for positions in ABCP programmes, and in the case of other credit institutions where they have not obtained approval to use the Supervisory Formula Method or, for positions in ABCP programmes, the Internal Assessment Approach, a risk weight of 1 250 % shall be assigned to securitisation positions which are unrated and in respect of which an inferred rating may not be used.
+
+3.1.1. **Use of inferred ratings**
+
+42. When the following minimum operational requirements are satisfied, an institution shall attribute to an unrated position an inferred credit assessment equivalent to the credit assessment of those rated positions (the ‘reference positions’) which are the most senior positions which are in all respects subordinate to the unrated securitisation position in question:
+
+(a) the reference positions must be subordinate in all respects to the unrated securitisationposition;
+
+(b) the maturity of the reference positions must be equal to or longer than that of the unrated position in question; and
+
+(c) on an ongoing basis, any inferred rating must be updated to reflect any changes in the credit assessment of the reference positions.
+
+3.1.2. **The ‘Internal Assessment Approach’ for positions in ABCP programmes**
+
+43. Subject to the approval of the competent authorities, when the following conditions are satisfied a credit institution may attribute to an unrated position in an ABCP programme a derived rating as laid down in point 44:
+
+(a) positions in the commercial paper issued from the ABCP programme shall be rated positions;
+
+(b) the credit institution shall satisfy the competent authorities that its internal assessment of the credit quality of the position reflects the publicly available assessment methodology of one or more eligible ECAIs, for the rating of securities backed by the exposures of the type securitised;
+
+(c) the ECAIs, the methodology of which shall be reflected as required by the point (b), shall include those ECAIs which have provided an external rating for the commercial paper issued from the ABCP programme. Quantitative elements, such as stress factors, used in assessing the position to a particular credit quality must be at least as conservative as those used in the relevant assessment methodology of the ECAIs in question;
+
+(d) in developing its internal assessment methodology the credit institution shall take into consideration relevant published ratings methodologies of the eligible ECAIs that rate the commercial paper of the ABCP programme. This consideration shall be documented by the credit institution and updated regularly, as outlined in point (g);
+
+(e) the credit institution's internal assessment methodology shall include rating grades. There shall be a correspondence between such rating grades and the credit assessments of eligible ECAIs. This correspondence shall be explicitly documented;
+
+(f) the internal assessment methodology shall be used in the credit institution's internal risk management processes, including its decision making, management information and capital allocation processes;
+
+(g) internal or external auditors, an ECAI, or the credit institution's internal credit review or risk management function shall perform regular reviews of the internal assessment process and the quality of the internal assessments of the credit quality of the credit institution's exposures to an ABCP programme. If the credit institution's internal audit, credit review, or risk management functions perform the review, then these functions shall be independent of the ABCP programme business line, as well as the customer relationship;
+
+(h) the credit institution shall track the performance of its internal ratings over time to evaluate the performance of its internal assessment methodology and shall make adjustments, as necessary, to that methodology when the performance of the exposures routinely diverges from that indicated by the internal ratings;
+
+(i) the ABCP programme shall incorporate underwriting standards in the form of credit and investment guidelines. In deciding on an asset purchase, the ABCP programme administrator shall consider the type of asset being purchased, the type and monetary value of the exposures arising from the provision of liquidity facilities and credit enhancements, the loss distribution, and the legal and economic isolation of the transferred assets from the entity selling the assets. A credit analysis of the asset seller's risk profile shall be performed and shall include analysis of past and expected future financial performance, current market position, expected future competitiveness, leverage, cash flow, interest coverage and debt rating. In addition, a review of the seller's underwriting standards, servicing capabilities, and collection processes shall be performed;
+
+(j) the ABCP programme's underwriting standards shall establish minimum asset eligibility criteria that, in particular:
+
+(i) exclude the purchase of assets that are significantly past due or defaulted;
+
+(ii) limit excess concentration to individual obligor or geographic area; and
+
+(iii) limits the tenor of the assets to be purchased;
+
+(k) the ABCP programme shall have collections policies and processes that take into account the operational capability and credit quality of the servicer. The ABCP programme shall mitigate seller/servicer risk through various methods, such as triggers based on current credit quality that would preclude commingling of funds;
+
+(l) the aggregated estimate of loss on an asset pool that the ABCP programme is considering purchasing must take into account all sources of potential risk, such as credit and dilution risk. If the seller-provided credit enhancement is sized based only on credit-related losses, then a separate reserve shall be established for dilution risk, if dilution risk is material for the particular exposure pool. In addition, in sizing the required enhancement level, the program shall review several years of historical information, including losses, delinquencies, dilutions, and the turnover rate of the receivables; and
+
+(m) the ABCP programme shall incorporate structural features — for example wind down triggers — into the purchase of exposures in order to mitigate potential credit deterioration of the underlying portfolio.
+
+The requirement for the assessment methodology of the ECAI to be publicly available may be waived by the competent authorities where they are satisfied that due to the specific features of the securitisation — for example its unique structure — there is as yet no publicly available ECAI assessment methodology.
+
+44. The unrated position shall be assigned by the credit institution to one of the rating grades described in point 43. The position shall be attributed a derived rating the same as the credit assessments corresponding to that rating grade as laid down in point 43. Where this derived rating is, at the inception of the securitisation, at the level of investment grade or better, it shall be considered the same as an eligible credit assessment by an eligible ECAI for the purposes of calculating risk-weighted exposure amounts.
+
+3.2. **Maximum risk-weighted exposure amounts**
+
+45. For an originator credit institution, a sponsor credit institution, or for other credit institutions which can calculate KIRB, the risk-weighted exposure amounts calculated in respect of its positions in a securitisation may be limited to that which would produce a capital requirement under Article 75(a) equal to the sum of 8 % of the risk-weighted exposure amounts which would be produced if the securitised assets had not been securitised and were on the balance sheet of the credit institution plus the expected loss amounts of those exposures.
+
+3.3. **Ratings Based Method**
+
+46. Under the Ratings Based Method, the risk-weighted exposure amount of a rated securitisation or re-securitisation position shall be calculated by applying to the exposure value the risk weight associated with the credit quality step with which the credit assessment has been determined to be associated by the competent authorities in accordance with Article 98, as set out in the Table 4, multiplied by 1,06.
+
+*Table 4*
+
+| Credit Quality Step | Securitisation Positions | Re-securitisation Positions |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Credit assessments other than short term | Short term credit assessments | A | B | C | D | E |
+| 1 | 1 | 7 % | 12 % | 20 % | 20 % | 30 % |
+| 2 |  | 8 % | 15 % | 25 % | 25 % | 40 % |
+| 3 |  | 10 % | 18 % | 35 % | 35 % | 50 % |
+| 4 | 2 | 12 % | 20 % | 40 % | 65 % |  |
+| 5 |  | 20 % | 35 % | 60 % | 100 % |  |
+| 6 |  | 35 % | 50 % | 100 % | 150 % |  |
+| 7 | 3 | 60 % | 75 % | 150 % | 225 % |  |
+| 8 |  | 100 % | 200 % | 350 % |  |  |
+| 9 |  | 250 % | 300 % | 500 % |  |  |
+| 10 |  | 425 % | 500 % | 650 % |  |  |
+| 11 |  | 650 % | 750 % | 850 % |  |  |
+| all other and unrated | 1 250 % |  |  |  |  |  |
+
+47. The weightings in column C of table 4 shall be applied where the securitisation position is not a re-securitisation position and where the effective number of exposures securitised is less than six. For the remainder of the securitisation positions that are not re-securitisation positions, the weightings in column B shall be applied unless the position is in the most senior tranche of a securitisation, in which case the weightings in column A shall be applied. For re-securitisation positions the weightings in column E shall be applied unless the re-securitisation position is in the most senior tranche of the re-securitisation and none of the underlying exposures were themselves re-securitisation exposures, in which case column D shall be applied. When determining whether a tranche is the most senior, it is not required to take into consideration amounts due under interest rate or currency derivative contracts, fees due, or other similar payments.
+
+49. In calculating the effective number of exposures securitised multiple exposures to one obligor shall be treated as one exposure. The effective number of exposures is calculated as:
+
+where EADi represents the sum of the exposure values of all exposures to the ith obligor. If the portfolio share associated with the largest exposure, C1, is available, the credit institution may compute N as 1/C1.
+
+51. Credit risk mitigation on securitisation positions may be recognised in accordance with points 60 to 62.
+
+3.4. **Supervisory Formula Method**
+
+52. Subject to points 58 and 59, under the Supervisory Formula Method, the risk weight for a securitisation position shall be the risk weight to be applied in accordance with point 53. However, the risk weight shall be no less than 20 % for re-securitisation positions and no less than 7 % for all other securitisation positions.
+
+53. Subject to points 58 and 59, the risk weight to be applied to the exposure amount shall be:
+
+where:
+
+where:
+
+τ = 1 000, and
+
+ω = 20.
+
+In these expressions, Beta [x; a, b] refers to the cumulative beta distribution with parameters a and b evaluated at x.
+
+T (the thickness of the tranche in which the position is held) is measured as the ratio of (a) the nominal amount of the tranche to (b) the sum of the exposure values of the exposures that have been securitised. For the purposes of calculating T the exposure value of a derivative instrument listed in Annex IV shall, where the current replacement cost is not a positive value, be the potential future credit exposure calculated in accordance with Annex III.
+
+Kirbr is the ratio of (a) Kirb to (b) the sum of the exposure values of the exposures that have been securitised. Kirbr is expressed in decimal form (e.g. Kirb equal to 15 % of the pool would be expressed as Kirbr of 0,15).
+
+L (the credit enhancement level) is measured as the ratio of the nominal amount of all tranches subordinate to the tranche in which the position is held to the sum of the exposure values of the exposures that have been securitised. Capitalised future income shall not be included in the measured L. Amounts due by counterparties to derivative instruments listed in Annex IV that represent tranches more junior than the tranche in question may be measured at their current replacement cost (without the potential future credit exposures) in calculating the enhancement level.
+
+N is the effective number of exposures calculated in accordance with point 49. In the case of re-securitisations, the credit institution shall look at the number of securitisation exposures in the pool and not the number of underlying exposures in the original pools from which the underlying securitisation exposures stem.
+
+ELGD, the exposure-weighted average loss-given-default, is calculated as follows:
+
+where LGDi represents the average LGD associated with all exposures to the ith obligor, where LGD is determined in accordance with Articles 84 to 89. In the case of resecuritisation, an LGD of 100 % shall be applied to the securitised positions. When default and dilution risk for purchased receivables are treated in an aggregate manner within a securitisation (e.g. a single reserve or over-collateralisation is available to cover losses from either source), the LGDi input shall be constructed as a weighted average of the LGD for credit risk and the 75 % LGD for dilution risk. The weights shall be the stand-alone capital charges for credit risk and dilution risk respectively.
+
+Simplified inputs
+
+If the exposure value of the largest securitised exposure, C1, is no more than 3 % of the sum of the exposure values of the securitised exposures, then, for the purposes of the Supervisory Formula Method, the credit institution may set LGD= 50 % and N equal to either:
+
+or
+
+N=1/C1.
+
+Cm is the ratio of the sum of the exposure values of the largest ‘m’ exposures to the sum of the exposure values of the exposures securitised . The level of ‘m’ may be set by the credit institution.
+
+For securitisations involving retail exposures, the competent authorities may permit the Supervisory Formula Method to be implemented using the simplifications: h = 0 and v = 0.
+
+54. Credit risk mitigation on securitisation positions may be recognised in accordance with points 60, 61 and 63 to 67.
+
+3.5. **Liquidity Facilities**
+
+55. The provisions in points 56 to 59 apply for the purposes of determining the exposure value of an unrated securitisation position in the form of certain types of liquidity facility.
+
+3.5.2. **Cash advance facilities**
+
+57. A conversion figure of 0 % may be applied to the nominal amount of a liquidity facility that meets the conditions set out in point 15.
+
+3.5.3. **Exceptional treatment where Kirb cannot be calculated.**
+
+58. When it is not practical for the credit institution to calculate the risk-weighted exposure amounts for the securitised exposures as if they had not been securitised, a credit institution may, on an exceptional basis and subject to the consent of the competent authorities, temporarily be allowed to apply the method set out in point 59 for the calculation of risk-weighted exposure amounts for an unrated securitisation position in the form of a liquidity facility that meets the conditions to be an ‘eligible liquidity facility’ set out in point 13 or that falls within the terms of point 56.
+
+59. The highest risk weight that would be applied under Articles 78 to 83 to any of the securitised exposures, had they not been securitised, may be applied to the securitisation position represented by the liquidity facility. To determine the exposure value of the position a conversion figure of 50 % may be applied to the nominal amount of the liquidity facility if the facility has an original maturity of one year or less. If the liquidity facility complies with the conditions in point 56 a conversion figure of 20 % may be applied. In other cases a conversion factor of 100 % shall be applied.
+
+3.6. **Recognition of credit risk mitigation in respect of securitisation positions**
+
+3.6.1. **Funded credit protection**
+
+60. Eligible funded protection is limited to that which is eligible for the calculation of risk-weighted exposure amounts under Articles 78 to 83 as laid down under Articles 90 to 93 and recognition is subject to compliance with the relevant minimum requirements as laid down under those Articles.
+
+3.6.2. **Unfunded credit protection**
+
+61. Eligible unfunded credit protection and unfunded protection providers are limited to those which are eligible under Articles 90 to 93 and recognition is subject to compliance with the relevant minimum requirements laid down under those Articles.
+
+3.6.3. **Calculation of capital requirements for securitisation positions with credit risk mitigation**
+
+62. Where risk-weighted exposure amounts are calculated using the Ratings Based Method, the exposure value and/or the risk-weighted exposure amount for a securitisation position in respect of which credit protection has been obtained may be modified in accordance with the provisions of Annex VIII as they apply for the calculation of risk-weighted exposure amounts under Articles 78 to 83.
+
+63. Where risk-weighted exposure amounts are calculated using the Supervisory Formula Method, the credit institution shall determine the ‘effective risk weight’ of the position. It shall do this by dividing the risk-weighted exposure amount of the position by the exposure value of the position and multiplying the result by 100.
+
+64. In the case of funded credit protection, the risk-weighted exposure amount of the securitisation position shall be calculated by multiplying the funded protection-adjusted exposure amount of the position (E*, as calculated under Articles 90 to 93 for the calculation of risk-weighted exposure amounts under Articles 78 to 83 taking the amount of the securitisation position to be E) by the effective risk weight.
+
+65. In the case of unfunded credit protection, the risk-weighted exposure amount of the securitisation position shall be calculated by multiplying GA (the amount of the protection adjusted for any currency mismatch and maturity mismatch in accordance with the provisions of Annex VIII) by the risk weight of the protection provider; and adding this to the amount arrived at by multiplying the amount of the securitisation position minus GA by the effective risk weight.
+
+66. If the credit risk mitigation covers the ‘first loss’ or losses on a proportional basis on the securitisation position, the credit institution may apply points 63 to 65.
+
+67. In other cases, the credit institution shall treat the securitisation position as two or more positions with the uncovered portion being considered the position with the lower credit quality. For the purposes of calculating the risk-weighted exposure amount for this position, the provisions in points 52 to 54 shall apply subject to the modifications that ‘T’ shall be adjusted to e* in the case of funded credit protection; and to T-g in the case of unfunded credit protection, where e* denotes the ratio of E* to the total notional amount of the underlying pool, where E* is the adjusted exposure amount of the securitisation position calculated in accordance with the provisions of Annex VIII as they apply for the calculation of risk-weighted exposure amounts under Articles 78 to 83 taking the amount of the securitisation position to be E; and g is the ratio of the nominal amount of credit protection (adjusted for any currency or maturity mismatch in accordance with the provisions of Annex VIII) to the sum of the exposure amounts of the securitised exposures. In the case of unfunded credit protection the risk weight of the protection provider shall be applied to that portion of the position not falling within the adjusted value of ‘T’.
+
+3.7. **Additional capital requirements for securitisations of revolving exposures with early amortisation provisions**
+
+68. In addition to the risk-weighted exposure amounts calculated in respect of its securitisation positions, an originator credit institution shall be required to calculate a risk-weighted exposure amount according to the methodology set out in points 16 to 33 when it sells revolving exposures into a securitisation that contains an early amortisation provision.
+
+69. For the purposes of point 68, points 70 and 71 shall replace points 19 and 20.
+
+70. For the purposes of these provisions, ‘originators interest’ shall be the sum of:
+
+(a) the exposure value of that notional Part of a pool of drawn amounts sold into a securitisation, the proportion of which in relation to the amount of the total pool sold into the structure determines the proportion of the cash flows generated by principal and interest collections and other associated amounts which are not available to make payments to those having securitisation positions in the securitisation; plus
+
+(b) the exposure value of that Part of the pool of undrawn amounts of the credit lines, the drawn amounts of which have been sold into the securitisation, the proportion of which to the total amount of such undrawn amounts is the same as the proportion of the exposure value described in point (a) to the exposure value of the pool of drawn amounts sold into the securitisation.
+
+To qualify as such, the originator's interest may not be subordinate to the investors' interest.
+
+‘Investors' interest’ means the exposure value of the notional part of the pool of drawn amounts not falling within point (a) plus the exposure value of that part of the pool of undrawn amounts of credit lines, the drawn amounts of which have been sold into the securitisation, not falling within point (b).
+
+71. The exposure of the originator credit institution associated with its rights in respect of that Part of the originator's interest described in point 70(a) shall not be considered a securitisation position but as a pro rata exposure to the securitised drawn amounts exposures as if they had not been securitised in an amount equal to that described in point 70(a). The originator credit institution shall also be considered to have a pro rata exposure to the undrawn amounts of the credit lines, the drawn amounts of which have been sold into the securitisation, in an amount equal to that described in point 70(b).
+
+3.8. **Reduction in risk-weighted exposure amounts**
+
+72. The risk-weighted exposure amount of a securitisation position to which a 1 250 % risk weight is assigned may be reduced by 12,5 times the amount of any value adjustments made by the credit institution in respect of the securitised exposures. To the extent that value adjustments are taken account of for this purpose they shall not be taken account of for the purposes of the calculation indicated in Annex VII, Part 1, point 36.
+
+73. The risk-weighted exposure amount of a securitisation position may be reduced by 12,5 times the amount of any value adjustments made by the credit institution in respect of the position.
+
+74. As provided in Article 66(2), in respect of a securitisation position in respect of which a 1 250 % risk weight applies, credit institutions may, as an alternative to including the position in their calculation of risk-weighted exposure amounts, deduct from own funds the exposure value of the position.
+
+75. For the purposes of point 74:
+
+(a) the exposure value of the position may be derived from the risk-weighted exposure amounts taking into account any reductions made in accordance with points 72 and 73;
+
+(b) the calculation of the exposure value may reflect eligible funded protection in a manner consistent with the methodology prescribed in points 60 to 67; and
+
+(c) where the Supervisory Formula Method is used to calculate risk-weighted exposure amounts and L < KIRBR and [L+T] > KIRBR the position may be treated as two positions with L equal to KIRBR for the more senior of the positions.
+
+76. Where a credit institution makes use of the alternative indicated in point 74, 12,5 times the amount deducted in accordance with that point shall, for the purposes of point 45, be subtracted from the amount specified in point 45 as the maximum risk-weighted exposure amount to be calculated by the credit institutions there indicated.
+
+<a id="anx_x"></a>
+
+### ANNEX X
+
+
+
+<a id="operational_risk"></a>
+
+### OPERATIONAL RISK
+
+PART 1
+
+Basic Indicator Approach
+
+1. **CAPITAL REQUIREMENT**
+
+1. Under the Basic Indicator Approach, the capital requirement for operational risk is equal to 15 % of the relevant indicator defined in points 2 to 9.
+
+2. **RELEVANT INDICATOR**
+
+2. The relevant indicator is the average over three years of the sum of net interest income and net non-interest income.
+
+3. The three-year average is calculated on the basis of the last three twelve-monthly observations at the end of the financial year. When audited figures are not available, business estimates may be used.
+
+4. If for any given observation, the sum of net interest income and net non-interest income is negative or equal to zero, this figure shall not be taken into account in the calculation of the three-year average. The relevant indicator shall be calculated as the sum of positive figures divided by the number of positive figures.
+
+2.1. **Credit institutions subject to Directive 86/635/EEC**
+
+5. Based on the accounting categories for the profit and loss account of credit institutions under Article 27 of Directive 86/635/EEC, the relevant indicator shall be expressed as the sum of the elements listed in Table 1. Each element shall be included in the sum with its positive or negative sign.
+
+6. These elements may need to be adjusted to reflect the qualifications in points 7 and 8.
+
+Table 1
+
+| 1 Interest receivable and similar income |
+| --- |
+| 2 Interest payable and similar charges |
+| 3 Income from shares and other variable/fixed-yield securities |
+| 4 Commissions/fees receivable |
+| 5 Commissions/fees payable |
+| 6 Net profit or net loss on financial operations |
+| 7 Other operating income |
+
+2.1.1. **Qualifications**
+
+7. The indicator shall be calculated before the deduction of any provisions and operating expenses. Operating expenses shall include fees paid for outsourcing services rendered by third parties which are not a parent or subsidiary of the credit institution or a subsidiary of a parent which is also the parent of the credit institution. Expenditure on the outsourcing of services rendered by third parties may reduce the relevant indicator if the expenditure is incurred from an undertaking subject to supervision under, or equivalent to, this Directive.
+
+8. The following elements shall not be used in the calculation of the relevant indicator:
+
+(a) Realised profits/losses from the sale of non-trading book items;
+
+(b) Income from extraordinary or irregular items;
+
+(c) Income derived from insurance.
+
+When revaluation of trading items is part of the profit and loss statement, revaluation could be included. When Article 36 (2) of Directive 86/635/EEC is applied, revaluation booked in the profit and loss account should be included.
+
+2.2. **Credit institutions subject to a different accounting framework**
+
+9. When credit institutions are subject to an accounting framework different from the one established by Directive 86/635/EEC, they should calculate the relevant indicator on the basis of data that best reflect the definition set out in points 2 to 8.
+
+PART 2
+
+Standardised Approach
+
+1. **CAPITAL REQUIREMENT**
+
+1. The capital requirement for operational risk shall be calculated as the three-year average of the yearly summations of the capital requirements across business lines referred to in Table 2. In any given year, negative capital requirements (resulting from negative gross income) in any business line may offset positive capital requirements in other business lines without limit. However, where the aggregate capital requirements across all business lines within a given year are negative, the input to the numerator for that year shall be zero.
+
+2. The three-year average is calculated on the basis of the last three twelve-monthly observations at the end of the financial year. When audited figures are not available, business estimates may be used.
+
+Table 2
+
+| Business line | List of activities | Percentage |
+| --- | --- | --- |
+| Corporate finance | Underwriting of financial instruments and/or placing of financial instruments on a firm commitment basisServices related to underwritingInvestment adviceAdvice to undertakings on capital structure, industrial strategy and related matters and advice and services relating to the mergers and the purchase of undertakingsInvestment research and financial analysis and other forms of general recommendation relating to transactions in financial instruments | 18 % |
+| Trading and sales | Dealing on own accountMoney brokingReception and transmission of orders in relation to one or more financial instrumentsExecution of orders on behalf of clientsPlacing of financial instruments without a firm commitment basisOperation of Multilateral Trading Facilities | 18 % |
+| Retail brokerage(Activities with a individual physical persons or with small and medium sized entities meeting the criteria set out in Article 79 for the retail exposure class) | Reception and transmission of orders in relation to one or more financial instrumentsExecution of orders on behalf of clientsPlacing of financial instruments without a firm commitment basis | 12 % |
+| Commercial banking | Acceptance of deposits and other repayable fundsLendingFinancial leasingGuarantees and commitments | 15 % |
+| Retail banking(Activities with a individual physical persons or with small and medium sized entities meeting the criteria set out in Article 79 for the retail exposure class) | Acceptance of deposits and other repayable fundsLendingFinancial leasingGuarantees and commitments | 12 % |
+| Payment and settlement | Money transmission services,Issuing and administering means of payment | 18 % |
+| Agency services | Safekeeping and administration of financial instruments for the account of clients, including custodianship and related services such as cash/collateral management | 15 % |
+| Asset management | Portfolio managementManaging of UCITSOther forms of asset management | 12 % |
+
+3. Competent authorities may authorise a credit institution to calculate its capital requirement for operational risk using an alternative standardised approach, as set out in points 5 to 11.
+
+2. **PRINCIPLES FOR BUSINESS LINE MAPPING**
+
+4. Credit institutions must develop and document specific policies and criteria for mapping the relevant indicator for current business lines and activities into the standardised framework. The criteria must be reviewed and adjusted as appropriate for new or changing business activities and risks. The principles for business line mapping are:
+
+(a) all activities must be mapped into the business lines in a mutually exclusive and jointly exhaustive manner;
+
+(b) any activity which cannot be readily mapped into the business line framework, but which represents an ancillary function to an activity included in the framework, must be allocated to the business line it supports. If more than one business line is supported through the ancillary activity, an objective-mapping criterion must be used;
+
+(c) if an activity cannot be mapped into a particular business line then the business line yielding the highest percentage must be used. The same business line equally applies to any associated ancillary activity;
+
+(d) credit institutions may use internal pricing methods to allocate the relevant indicator between business lines. Costs generated in one business line which are imputable to a different business line may be reallocated to the business line to which they pertain, for instance by using a treatment based on internal transfer costs between the two business lines;
+
+(e) the mapping of activities into business lines for operational risk capital purposes must be consistent with the categories used for credit and market risks;
+
+(f) senior management is responsible for the mapping policy under the control of the governing bodies of the credit institution; and
+
+(g) the mapping process to business lines must be subject to independent review.
+
+3. **ALTERNATIVE INDICATORS FOR CERTAIN BUSINESS LINES**
+
+3.1. **Modalities**
+
+5. The competent authorities may authorise the credit institution to use an alternative relevant indicator for the business lines: retail banking and commercial banking.
+
+6. For these business lines, the relevant indicator shall be a normalised income indicator equal to the three-year average of the total nominal amount of loans and advances multiplied by 0,035.
+
+7. For the retail and/or commercial banking business lines, the loans and advances shall consist of the total drawn amounts in the corresponding credit portfolios. For the commercial banking business line, securities held in the non trading book shall also be included.
+
+3.2. **Conditions**
+
+8. The authorisation to use alternative relevant indicators shall be subject to the conditions in points 9 to 11.
+
+3.2.1. **General condition**
+
+9. The credit institution meets the qualifying criteria set out in point 12.
+
+3.2.2. **Conditions specific to retail banking and commercial banking**
+
+10. The credit institution is overwhelmingly active in retail and/or commercial banking activities, which shall account for at least 90 % of its income.
+
+11. The credit institution is able to demonstrate to the competent authorities that a significant proportion of its retail and/or commercial banking activities comprise loans associated with a high PD, and that the alternative standardised approach provides an improved basis for assessing the operational risk.
+
+4. **QUALIFYING CRITERIA**
+
+12. Credit institutions must meet the qualifying criteria listed below, in addition to the general risk management standards set out in Article 22 and Annex V. Satisfaction of these criteria shall be determined having regard to the size and scale of activities of the credit institution and to the principle of proportionality.
+
+(a) Credit institutions shall have a well-documented assessment and management system for operational risk with clear responsibilities assigned for this system. They shall identify their exposures to operational risk and track relevant operational risk data, including material loss data. This system shall be subject to regular independent review.
+
+(b) The operational risk assessment system must be closely integrated into the risk management processes of the credit institution. Its output must be an integral Part of the process of monitoring and controlling the credit institution's operational risk profile.
+
+(c) Credit institutions shall implement a system of management reporting that provides operational risk reports to relevant functions within the credit institution. Credit institutions shall have procedures for taking appropriate action according to the information within the management reports.
+
+PART 3
+
+Advanced Measurement Approaches
+
+1. **QUALIFYING CRITERIA**
+
+1. To be eligible for an Advanced Measurement Approach, credit institutions must satisfy the competent authorities that they meet the qualifying criteria below, in addition to the general risk management standards in Article 22 and Annex V.
+
+1.1. **Qualitative Standards**
+
+2. The credit institution's internal operational risk measurement system shall be closely integrated into its day-to-day risk management processes.
+
+3. The credit institution must have an independent risk management function for operational risk.
+
+4. There must be regular reporting of operational risk exposures and loss experience. The credit institution shall have procedures for taking appropriate corrective action.
+
+5. The credit institution's risk management system must be well documented. The credit institution shall have routines in place for ensuring compliance and policies for the treatment of non-compliance.
+
+6. The operational risk management processes and measurement systems shall be subject to regular reviews performed by internal and/or external auditors.
+
+7. The validation of the operational risk measurement system by the competent authorities shall include the following elements:
+
+(a) verifying that the internal validation processes are operating in a satisfactory manner;
+
+(b) making sure that data flows and processes associated with the risk measurement system are transparent and accessible.
+
+1.2. **Quantitative Standards**
+
+1.2.1. **Process**
+
+8. Credit institutions shall calculate their capital requirement as comprising both expected loss and unexpected loss, unless they can demonstrate that expected loss is adequately captured in their internal business practices. The operational risk measure must capture potentially severe tail events, achieving a soundness standard comparable to a 99,9 % confidence interval over a one year period.
+
+9. The operational risk measurement system of a credit institution must have certain key elements to meet the soundness standard set out in point 8. These elements must include the use of internal data, external data, scenario analysis and factors reflecting the business environment and internal control systems as set out in points 13 to 24. A credit institution needs to have a well documented approach for weighting the use of these four elements in its overall operational risk measurement system.
+
+10. The risk measurement system shall capture the major drivers of risk affecting the shape of the tail of the loss estimates.
+
+11. Correlations in operational risk losses across individual operational risk estimates may be recognised only if credit institutions can demonstrate to the satisfaction of the competent authorities that their systems for measuring correlations are sound, implemented with integrity, and take into account the uncertainty surrounding any such correlation estimates, particularly in periods of stress. The credit institution must validate its correlation assumptions using appropriate quantitative and qualitative techniques.
+
+12. The risk measurement system shall be internally consistent and shall avoid the multiple counting of qualitative assessments or risk mitigation techniques recognised in other areas of the capital adequacy framework.
+
+1.2.2. **Internal data**
+
+13. Internally generated operational risk measures shall be based on a minimum historical observation period of five years. When a credit institution first moves to an Advanced Measurement Approach, a three-year historical observation period is acceptable.
+
+14. Credit institutions shall be able to map their historical internal loss data into the business lines defined in Part 2 and into the event types defined in Part 5, and to provide these data to competent authorities upon request. Loss events which affect the entire institution may be allocated to an additional business line ‘corporate items’ due to exceptional circumstances. There must be documented, objective criteria for allocating losses to the specified business lines and event types. The operational risk losses that are related to credit risk and have historically been included in the internal credit risk databases must be recorded in the operational risk databases and be separately identified. Such losses shall not be subject to the operational risk charge, as long as they continue to be treated as credit risk for the purposes of calculating minimum capital requirements. Operational risk losses that are related to market risks shall be included in the scope of the capital requirement for operational risk.
+
+15. The credit institution's internal loss data must be comprehensive in that it captures all material activities and exposures from all appropriate sub-systems and geographic locations. Credit institutions must be able to justify that any excluded activities or exposures, both individually and in combination, would not have a material impact on the overall risk estimates. Appropriate minimum loss thresholds for internal loss data collection must be defined.
+
+16. Aside from information on gross loss amounts, credit institutions shall collect information about the date of the event, any recoveries of gross loss amounts, as well as some descriptive information about the drivers or causes of the loss event.
+
+17. There shall be specific criteria for assigning loss data arising from an event in a centralised function or an activity that spans more than one business line, as well as from related events over time.
+
+18. Credit institutions must have documented procedures for assessing the on-going relevance of historical loss data, including those situations in which judgement overrides, scaling, or other adjustments may be used, to what extent they may be used and who is authorised to make such decisions.
+
+1.2.3. **External data**
+
+19. The credit institution's operational risk measurement system shall use relevant external data, especially when there is reason to believe that the credit institution is exposed to infrequent, yet potentially severe, losses. A credit institution must have a systematic process for determining the situations for which external data must be used and the methodologies used to incorporate the data in its measurement system. The conditions and practices for external data use must be regularly reviewed, documented and subject to periodic independent review.
+
+1.2.4. **Scenario analysis**
+
+20. The credit institution shall use scenario analysis of expert opinion in conjunction with external data to evaluate its exposure to high severity events. Over time, such assessments need to be validated and re-assessed through comparison to actual loss experience to ensure their reasonableness.
+
+1.2.5. **Business environment and internal control factors**
+
+21. The credit institution's firm-wide risk assessment methodology must capture key business environment and internal control factors that can change its operational risk profile.
+
+22. The choice of each factor needs to be justified as a meaningful driver of risk, based on experience and involving the expert judgment of the affected business areas.
+
+23. The sensitivity of risk estimates to changes in the factors and the relative weighting of the various factors need to be well reasoned. In addition to capturing changes in risk due to improvements in risk controls, the framework must also capture potential increases in risk due to greater complexity of activities or increased business volume.
+
+24. This framework must be documented and subject to independent review within the credit institution and by competent authorities. Over time, the process and the outcomes need to be validated and re-assessed through comparison to actual internal loss experience and relevant external data.
+
+2. **IMPACT OF INSURANCE AND OTHER RISK TRANSFER MECHANISMS**
+
+25. Credit institutions shall be able to recognise the impact of insurance subject to the conditions set out in points 26 to 29 and other risk transfer mechanisms where the credit institution can demonstrate to the satisfaction of the competent authorities that a noticeable risk mitigating effect is achieved.
+
+26. The provider is authorised to provide insurance or re-insurance and the provider has a minimum claims paying ability rating by an eligible ECAI which has been determined by the competent authority to be associated with credit quality step 3 or above under the rules for the risk weighting of exposures to credit institutions under Articles 78 to 83.
+
+27. The insurance and the credit institutions' insurance framework shall meet the following conditions:
+
+(a) the insurance policy must have an initial term of no less than one year. For policies with a residual term of less than one year, the credit institution must make appropriate haircuts reflecting the declining residual term of the policy, up to a full 100 % haircut for policies with a residual term of 90 days or less;
+
+(b) the insurance policy has a minimum notice period for cancellation of the contract of 90 days;
+
+(c) the insurance policy has no exclusions or limitations triggered by supervisory actions or, in the case of a failed credit institution, that preclude the credit institution receiver or liquidator, from recovering for damages suffered or expenses incurred by the credit institution, except in respect of events occurring after the initiation of receivership or liquidation proceedings in respect of the credit institution; provided that the insurance policy may exclude any fine, penalty, or punitive damages resulting from actions by the competent authorities;
+
+(d) the risk mitigation calculations must reflect the insurance coverage in a manner that is transparent in its relationship to, and consistent with, the actual likelihood and impact of loss used in the overall determination of operational risk capital;
+
+(e) the insurance is provided by a third party entity. In the case of insurance through captives and affiliates, the exposure has to be laid off to an independent third party entity, for example through re-insurance, that meets the eligibility criteria; and
+
+(f) the framework for recognising insurance is well reasoned and documented.
+
+28. The methodology for recognising insurance shall capture the following elements through discounts or haircuts in the amount of insurance recognition:
+
+(a) the residual term of an insurance policy, where less than one year, as noted above;
+
+(b) a policy's cancellation terms, where less than one year; and
+
+(c) the uncertainty of payment as well as mismatches in coverage of insurance policies.
+
+29. The capital alleviation from the recognition of insurances and other risk transfer mechanisms shall not exceed 20 % of the capital requirement for operational risk before the recognition of risk mitigation techniques.
+
+3. **APPLICATION TO USE AN ADVANCED MEASUREMENT APPROACH ON A GROUP-WIDE BASIS**
+
+30. When an Advanced Measurement Approach is intended to be used by the EU parent credit institution and its subsidiaries, or by the subsidiaries of an EU parent financial holding company, the application shall include a description of the methodology used for allocating operational risk capital between the different entities of the group.
+
+31. The application shall indicate whether and how diversification effects are intended to be factored in the risk measurement system.
+
+PART 4
+
+Combined use of different methodologies
+
+1. **USE OF AN ADVANCED MEASUREMENT APPROACH IN COMBINATION WITH OTHER APPROACHES**
+
+1. A credit institution may use an Advanced Measurement Approach in combination with either the Basic Indicator Approach or the Standardised Approach, subject to the following conditions:
+
+(a) all operational risks of the credit institution are captured. The competent authority shall be satisfied with the methodology used to cover different activities, geographical locations, legal structures or other relevant divisions determined on an internal basis; and
+
+(b) the qualifying criteria set out in Parts 2 and 3 are fulfilled for the Part of activities covered by the Standardised Approach and Advanced Measurement Approaches respectively.
+
+2. On a case-by case basis, the competent authority may impose the following additional conditions:
+
+(a) on the date of implementation of an Advanced Measurement Approach, a significant part of the credit institution's operational risks are captured by the Advanced Measurement Approach; and
+
+(b) the credit institution takes a commitment to roll out the Advanced Measurement Approach across a material Part of its operations within a time schedule agreed with its competent authorities.
+
+2. **COMBINED USE OF THE BASIC INDICATOR APPROACH AND OF THE STANDARDISED APPROACH**
+
+3. A credit institution may use a combination of the Basic Indicator Approach and the Standardised Approach only in exceptional circumstances such as the recent acquisition of new business which may require a transition period for the roll out of the Standardised Approach.
+
+4. The combined use of the Basic Indicator Approach and the Standardised Approach shall be conditional upon a commitment by the credit institution to roll out the Standardised Approach within a time schedule agreed with the competent authorities.
+
+PART 5
+
+Loss event type classification
+
+Table 3
+
+| Event-Type Category | Definition |
+| --- | --- |
+| Internal fraud | Losses due to acts of a type intended to defraud, misappropriate property or circumvent regulations, the law or company policy, excluding diversity/discrimination events, which involves at least one internal party |
+| External fraud | Losses due to acts of a type intended to defraud, misappropriate property or circumvent the law, by a third party |
+| Employment Practices and Workplace Safety | Losses arising from acts inconsistent with employment, health or safety laws or agreements, from payment of personal injury claims, or from diversity/discrimination events |
+| Clients, Products & Business Practices | Losses arising from an unintentional or negligent failure to meet a professional obligation to specific clients (including fiduciary and suitability requirements), or from the nature or design of a product |
+| Damage to Physical Assets | Losses arising from loss or damage to physical assets from natural disaster or other events |
+| Business disruption and system failures | Losses arising from disruption of business or system failures |
+| Execution, Delivery & Process Management | Losses from failed transaction processing or process management, from relations with trade counterparties and vendors |
+
+<a id="anx_xi"></a>
+
+### ANNEX XI
+
+TECHNICAL CRITERIA ON REVIEW AND EVALUATION BY THE COMPETENT AUTHORITIES
+
+1. In addition to credit, market and operational risks, the review and evaluation performed by competent authorities pursuant to Article 124 shall include the following:
+
+(a) the results of the stress test carried out by the credit institutions applying an IRB approach;
+
+(b) the exposure to and management of concentration risk by the credit institutions, including their compliance with the requirements laid down in Articles 108 to 118;
+
+(c) the robustness, suitability and manner of application of the policies and procedures implemented by credit institutions for the management of the residual risk associated with the use of recognized credit risk mitigation techniques;
+
+(d) the extent to which the own funds held by a credit institution in respect of assets which it has securitised are adequate having regard to the economic substance of the transaction, including the degree of risk transfer achieved;
+
+(e) the exposure to, measurement and management of liquidity risk by the credit institutions, including the development of alternative scenario analyses, the management of risk mitigants (in particular the level, composition and quality of liquidity buffers) and effective contingency plans;
+
+(f) the impact of diversification effects and how such effects are factored into the risk measurement system; and
+
+(g) the results of stress tests carried out by institutions using an internal model to calculate market risk capital requirements under Annex V to Directive 2006/49/EC.
+
+1a. For the purposes of point 1(e), the competent authorities shall regularly carry out a comprehensive assessment of the overall liquidity risk management by credit institutions and promote the development of sound internal methodologies. While conducting those reviews, the competent authorities shall have regard to the role played by credit institutions in the financial markets. The competent authorities in one Member State shall duly consider the potential impact of their decisions on the stability of the financial system in all other Member States concerned.
+
+2. Competent authorities shall monitor whether a credit institution has provided implicit support to a securitisation. If a credit institution is found to have provided implicit support on more than one occasion the competent authority shall take appropriate measures reflective of the increased expectation that it will provide future support to its securitisation thus failing to achieve a significant transfer of risk.
+
+3. For the purposes of the determination to be made under Article 124(3), competent authorities shall consider whether the value adjustments and provisions taken for positions/portfolios in the trading book, as set out in Part B of Annex VII to Directive 2006/49/EC, enable the credit institution to sell or hedge out its positions within a short period without incurring material losses under normal market conditions.
+
+<a id="anx_xii"></a>
+
+### ANNEX XII
+
+
+
+<a id="m9_technical_criteria_on_transparency_and_disclosure"></a>
+
+### ►M9 **TECHNICAL CRITERIA ON TRANSPARENCY AND DISCLOSURE**** ◄ **
+
+PART 1
+
+General criteria
+
+1. Information shall be regarded as material in disclosures if its omission or misstatement could change or influence the assessment or decision of a user relying on that information for the purpose of making economic decisions.
+
+2. Information shall be regarded as proprietary to a credit institution if sharing that information with the public would undermine its competitive position. It may include information on products or systems which, if shared with competitors, would render a credit institution's investments therein less valuable.
+
+3. Information shall be regarded as confidential if there are obligations to customers or other counterparty relationships binding a credit institution to confidentiality.
+
+4. Competent authorities shall require credit institution to assess the need to publish some or all disclosures more frequently than annually in the light of the relevant characteristics of their business such as scale of operations, range of activities, presence in different countries, involvement in different financial sectors, and participation in international financial markets and payment, settlement and clearing systems. That assessment shall pay particular attention to the possible need for more frequent disclosure of items of information laid down in Part 2, points 3(b) and 3(e) and 4(b) to 4(e), and information on risk exposure and other items prone to rapid change.
+
+5. The disclosure requirement in Part 2, points 3 and 4 shall be provided pursuant to Article 72(1) and (2).
+
+PART 2
+
+General requirements
+
+1. The risk management objectives and policies of the credit institution shall be disclosed for each separate category of risk, including the risks referred to under points 1 to 14. These disclosures shall include:
+
+(a) the strategies and processes to manage those risks;
+
+(b) the structure and organisation of the relevant risk management function or other appropriate arrangements;
+
+(c) the scope and nature of risk reporting and measurement systems; and
+
+(d) the policies for hedging and mitigating risk, and the strategies and processes for monitoring the continuing effectiveness of hedges and mitigants.
+
+2. The following information shall be disclosed regarding the scope of application of the requirements of this Directive:
+
+(a) the name of the credit institution to which the requirements of this Directive apply;
+
+(b) an outline of the differences in the basis of consolidation for accounting and prudential purposes, with a brief description of the entities that are:
+
+(i) fully consolidated;
+
+(ii) proportionally consolidated;
+
+(iii) deducted from own funds; or
+
+(iv) neither consolidated nor deducted;
+
+(c) any current or foreseen material practical or legal impediment to the prompt transfer of own funds or repayment of liabilities among the parent undertaking and its subsidiaries;
+
+(d) the aggregate amount by which the actual own funds are less than the required minimum in all subsidiaries not included in the consolidation, and the name or names of such subsidiaries; and
+
+(e) if applicable, the circumstance of making use of the provisions laid down in Articles 69 and 70.
+
+3. The following information shall be disclosed by the credit institutions regarding their own funds:
+
+(a) summary information on the terms and conditions of the main features of all own-funds items and components thereof, including instruments referred to in Article 57(ca), instruments the provisions of which provide an incentive for the credit institution to redeem them, and instruments subject to Article 154(8) and (9);
+
+(b) the amount of the original own funds, with separate disclosure of all positive items and deductions; the overall amount of instruments referred to in Article 57(ca) and instruments the provisions of which provide an incentive for the credit institution to redeem them, shall also be disclosed separately; those disclosures shall each specify instruments subject to Article 154(8) and (9);
+
+(c) the total amount of additional own funds, and own funds as defined in Chapter IV of Directive 2006/49/EC;
+
+(d) deductions from original and additional own funds pursuant to Article 66(2), with separate disclosure of items referred to in Article 57(q); and
+
+(e) total eligible own funds, net of deductions and limits laid down in Article 66.
+
+4. The following information shall be disclosed regarding the compliance by the credit institution with the requirements laid down in Articles 75 and 123:
+
+(a) a summary of the credit institution's approach to assessing the adequacy of its internal capital to support current and future activities;
+
+(b) for credit institutions calculating the risk-weighted exposure amounts in accordance with Articles 78 to 83, 8 per cent of the risk-weighted exposure amounts for each of the exposure classes specified in Article 79;
+
+(c) for credit institutions calculating risk-weighted exposure amounts in accordance with Articles 84 to 89, 8 per cent of the risk-weighted exposure amounts for each of the exposure classes specified in Article 86. For the retail exposure class, this requirement applies to each of the categories of exposures to which the different correlations in Annex VII, Part 1, points 10 to 13 correspond. For the equity exposure class, this requirement applies to:
+
+(i) each of the approaches provided in Annex VII, Part 1, points 17 to 26;
+
+(ii) exchange traded exposures, private equity exposures in sufficiently diversified portfolios, and other exposures;
+
+(iii) exposures subject to supervisory transition regarding capital requirements; and
+
+(iv) exposures subject to grandfathering provisions regarding capital requirements;
+
+(d) minimum capital requirements calculated in accordance with Article 75, points (b) and (c); and
+
+(e) minimum capital requirements calculated in accordance with Articles 103 to 105, and disclosed separately.
+
+5. The following information shall be disclosed regarding the credit institution's exposure to counterparty credit risk as defined in Annex III, Part 1:
+
+(a) a discussion of the methodology used to assign internal capital and credit limits for counterparty credit exposures;
+
+(b) a discussion of policies for securing collateral and establishing credit reserves;
+
+(c) a discussion of policies with respect to wrong-way risk exposures;
+
+(d) a discussion of the impact of the amount of collateral the credit institution would have to provide given a downgrade in its credit rating;
+
+(e) gross positive fair value of contracts, netting benefits, netted current credit exposure, collateral held and net derivatives credit exposure. Net derivatives credit exposure is the credit exposure on derivatives transactions after considering both the benefits from legally enforceable netting agreements and collateral arrangements;
+
+(f) measures for exposure value under the methods set out in Parts 3 to 6 of Annex III, whichever method is applicable;
+
+(g) the notional value of credit derivative hedges, and the distribution of current credit exposure by types of credit exposure;
+
+(h) credit derivative transactions (notional), segregated between use for the credit institution's own credit portfolio, as well as in its intermediation activities, including the distribution of the credit derivatives products used, broken down further by protection bought and sold within each product group; and
+
+(i) the estimate of α if the credit institution has received the approval of the competent authorities to estimate α.
+
+6. The following information shall be disclosed regarding the credit institution's exposure to credit risk and dilution risk:
+
+(a) the definitions for accounting purposes of ‘past due’ and ‘impaired’;
+
+(b) a description of the approaches and methods adopted for determining value adjustments and provisions;
+
+(c) the total amount of exposures after accounting offsets and without taking into account the effects of credit risk mitigation, and the average amount of the exposures over the period broken down by different types of exposure classes;
+
+(d) the geographic distribution of the exposures, broken down in significant areas by material exposure classes, and further detailed if appropriate;
+
+(e) the distribution of the exposures by industry or counterparty type, broken down by exposure classes, and further detailed if appropriate;
+
+(f) the residual maturity breakdown of all the exposures, broken down by exposure classes, and further detailed if appropriate;
+
+(g) by significant industry or counterparty type, the amount of:
+
+(i) impaired exposures and past due exposures, provided separately;
+
+(ii) value adjustments and provisions; and
+
+(iii) charges for value adjustments and provisions during the period;
+
+(h) the amount of the impaired exposures and past due exposures, provided separately, broken down by significant geographical areas including, if practical, the amounts of value adjustments and provisions related to each geographical area;
+
+(i) the reconciliation of changes in the value adjustments and provisions for impaired exposures, shown separately. The information shall comprise:
+
+(i) a description of the type of value adjustments and provisions;
+
+(ii) the opening balances;
+
+(iii) the amounts taken against the provisions during the period;
+
+(iv) the amounts set aside or reversed for estimated probable losses on exposures during the period, any other adjustments including those determined by exchange rate differences, business combinations, acquisitions and disposals of subsidiaries, and transfers between provisions; and
+
+(v) the closing balances.
+
+Value adjustments and recoveries recorded directly to the income statement shall be disclosed separately.
+
+7. For credit institutions calculating the risk-weighted exposure amounts in accordance with Articles 78 to 83, the following information shall be disclosed for each of the exposure classes specified in Article 79:
+
+(a) the names of the nominated ECAIs and ECAs and the reasons for any changes;
+
+(b) the exposure classes for which each ECAI or ECA is used;
+
+(c) a description of the process used to transfer the issuer and issue credit assessments onto items not included in the trading book;
+
+(d) the association of the external rating of each nominated ECAI or ECA with the credit quality steps prescribed in Annex VI, taking into account that this information needs not be disclosed if the credit institution complies with the standard association published by the competent authority; and
+
+(e) the exposure values and the exposure values after credit risk mitigation associated with each credit quality step prescribed in Annex VI, as well as those deducted from own funds.
+
+8. The credit institutions calculating the risk-weighted exposure amounts in accordance with Annex VII, Part 1, points 6 or 19 to 21 shall disclose the exposures assigned to each category in Table 1 in point 6 of Annex VII, Part 1, or to each risk weight mentioned in points 19 to 21 of Annex VII, Part 1.
+
+9. The credit institutions calculating their capital requirements in accordance with Article 75(b) and (c) shall disclose those requirements separately for each risk referred to in those provisions. In addition, the capital requirement for specific interest rate risk of securitisation positions shall be disclosed separately.
+
+10. The following information shall be disclosed by each credit institution which calculates its capital requirements in accordance with Annex V to Directive 2006/49/EC:
+
+(a) for each sub-portfolio covered:
+
+(i) the characteristics of the models used;
+
+(ii) for the capital charges in accordance with points 5a and 5l of Annex V to Directive 2006/49/EC separately, the methodologies used and the risks measured through the use of an internal model including a description of the approach used by the credit institution to determine liquidity horizons, the methodologies used to achieve a capital assessment that is consistent with the required soundness standard and the approaches used in the validation of the model;
+
+(iii) a description of stress testing applied to the sub-portfolio;
+
+(iv) a description of the approaches used for back-testing and validating the accuracy and consistency of the internal models and modelling processes;
+
+(b) the scope of acceptance by the competent authority;
+
+(c) a description of the extent and methodologies for compliance with the requirements set out in Part B of Annex VII to Directive 2006/49/EC;
+
+(d) the highest, the lowest and the mean of the following:
+
+(i) the daily value-at-risk measures over the reporting period and as per the period end;
+
+(ii) the stressed value-at-risk measures over the reporting period and as per the period end;
+
+(iii) the capital charges in accordance with points 5a and 5l of Annex V to Directive 2006/49/EC separately over the reporting period and as per the period-end;
+
+(e) the amount of capital in accordance with points 5a and 5l of Annex V to Directive 2006/49/EC separately, together with the weighted average liquidity horizon for each sub-portfolio covered;
+
+(f) a comparison of the daily end-of-day value-at-risk measures to the one-day changes of the portfolio’s value by the end of the subsequent business day together with an analysis of any important overshooting during the reporting period.
+
+11. The following information shall be disclosed by the credit institutions on operational risk:
+
+(a) the approaches for the assessment of own funds requirements for operational risk that the credit institution qualifies for; and
+
+(b) a description of the methodology set out in Article 105, if used by the credit institution, including a discussion of relevant internal and external factors considered in the credit institution's measurement approach. In the case of partial use, the scope and coverage of the different methodologies used.
+
+12. The following information shall be disclosed regarding the exposures in equities not included in the trading book:
+
+(a) the differentiation between exposures based on their objectives, including for capital gains relationship and strategic reasons, and an overview of the accounting techniques and valuation methodologies used, including key assumptions and practices affecting valuation and any significant changes in these practices;
+
+(b) the balance sheet value, the fair value and, for those exchange-traded, a comparison to the market price where it is materially different from the fair value;
+
+(c) the types, nature and amounts of exchange-traded exposures, private equity exposures in sufficiently diversified portfolios, and other exposures;
+
+(d) the cumulative realised gains or losses arising from sales and liquidations in the period; and
+
+(e) the total unrealised gains or losses, the total latent revaluation gains or losses, and any of these amounts included in the original or additional own funds.
+
+13. The following information shall be disclosed by credit institutions on their exposure to interest rate risk on positions not included in the trading book:
+
+(a) the nature of the interest rate risk and the key assumptions (including assumptions regarding loan prepayments and behaviour of non-maturity deposits), and frequency of measurement of the interest rate risk; and
+
+(b) the variation in earnings, economic value or other relevant measure used by the management for upward and downward rate shocks according to management's method for measuring the interest rate risk, broken down by currency.
+
+14. Credit institutions calculating risk weighted exposure amounts in accordance with Articles 94 to 101 or capital requirements in accordance with point 16a of Annex I to Directive 2006/49/EC shall disclose the following information, where relevant, separately for their trading and non-trading book:
+
+(a) a description of the credit institution’s objectives in relation to securitisation activity;
+
+(b) the nature of other risks including liquidity risk inherent in securitised assets;
+
+(c) the type of risks in terms of seniority of underlying securitisation positions and in terms of assets underlying those latter securitisation positions assumed and retained with re-securitisation activity;
+
+(d) the different roles played by the credit institution in the securitisation process;
+
+(e) an indication of the extent of the credit institution’s involvement in each of the roles referred to in point (d);
+
+(f) a description of the processes in place to monitor changes in the credit and market risk of securitisation exposures including, how the behaviour of the underlying assets impacts securitisation exposures and a description of how those processes differ for re-securitisation exposures;
+
+(g) a description of the credit institution’s policy governing the use of hedging and unfunded protection to mitigate the risks of retained securitisation and re-securitisation exposures, including identification of material hedge counterparties by relevant type of risk exposure;
+
+(h) the approaches to calculating risk weighted exposure amounts that the credit institution follows for its securitisation activities including the types of securitisation exposures to which each approach applies;
+
+(i) the types of SSPE that the credit institution, as sponsor, uses to securitise third-party exposures including whether and in what form and to what extent the credit institution has exposures to those SSPEs, separately for on- and off-balance sheet exposures, as well as a list of the entities that the credit institution manages or advises and that invest in either the securitisation positions that the credit institution has securitised or in SSPEs that the credit institution sponsors;
+
+(j) a summary of the credit institution’s accounting policies for securitisation activities, including:
+
+(i) whether the transactions are treated as sales or financings;
+
+(ii) the recognition of gains on sales;
+
+(iii) the methods, key assumptions, inputs and changes from the previous period for valuing securitisation positions;
+
+(iv) the treatment of synthetic securitisations if not covered by other accounting policies;
+
+(v) how assets awaiting securitisation are valued and whether they are recorded in the credit institution’s non-trading book or the trading book;
+
+(vi) policies for recognising liabilities on the balance sheet for arrangements that could require the credit institution to provide financial support for securitised assets;
+
+(k) the names of the ECAIs used for securitisations and the types of exposure for which each agency is used;
+
+(l) where applicable, a description of the Internal Assessment Approach as set out in Part 4 of Annex IX, including the structure of the internal assessment process and relation between internal assessment and external ratings, the use of internal assessment other than for IAA capital purposes, the control mechanisms for the internal assessment process including discussion of independence, accountability, and internal assessment process review, the exposure types to which the internal assessment process is applied and the stress factors used for determining credit enhancement levels, by exposure type;
+
+(m) an explanation of significant changes to any of the quantitative disclosures in points (n) to (q) since the last reporting period;
+
+(n) separately for the trading and the non-trading book, the following information broken down by exposure type:
+
+(i) the total amount of outstanding exposures securitised by the credit institution, separately for traditional and synthetic securitisations and securitisations for which the credit institution acts only as sponsor;
+
+(ii) the aggregate amount of on-balance sheet securitisation positions retained or purchased and off-balance sheet securitisation exposures;
+
+(iii) the aggregate amount of assets awaiting securitisation;
+
+(iv) for securitised facilities subject to the early amortisation treatment, the aggregate drawn exposures attributed to the originator’s and investors’ interests respectively, the aggregate capital requirements incurred by the credit institution against the originator’s interest and the aggregate capital requirements incurred by the credit institution against the investor’s shares of drawn balances and undrawn lines;
+
+(v) the amount of securitisation positions that are deducted from own funds or risk-weighted at 1 250 %;
+
+(vi) a summary of the securitisation activity of the current period, including the amount of exposures securitised and recognised gain or loss on sale;
+
+(o) separately for the trading and the non-trading book, the following information:
+
+(i) the aggregate amount of securitisation positions retained or purchased and the associated capital requirements, broken down between securitisation and re-securitisation exposures and further broken down into a meaningful number of risk-weight or capital requirement bands, for each capital requirements approach used;
+
+(ii) the aggregate amount of re-securitisation exposures retained or purchased broken down according to the exposure before and after hedging/insurance and the exposure to financial guarantors, broken down according to guarantor credit worthiness categories or guarantor name;
+
+(p) for the non-trading book and regarding exposures securitised by the credit institution, the amount of impaired/past due assets securitised and the losses recognised by the credit institution during the current period, both broken down by exposure type;
+
+(q) for the trading book, the total outstanding exposures securitised by the credit institution and subject to a capital requirement for market risk, broken down into traditional/synthetic and by exposure type.
+
+15. The following information, including regular, at least annual, updates, shall be disclosed to the public regarding the remuneration policy and practices of the credit institution for those categories of staff whose professional activities have a material impact on its risk profile:
+
+(a) information concerning the decision-making process used for determining the remuneration policy, including if applicable, information about the composition and the mandate of a remuneration committee, the external consultant whose services have been used for the determination of the remuneration policy and the role of the relevant stakeholders;
+
+(b) information on link between pay and performance;
+
+(c) the most important design characteristics of the remuneration system, including information on the criteria used for performance measurement and risk adjustment, deferral policy and vesting criteria;
+
+(d) information on the performance criteria on which the entitlement to shares, options or variable components of remuneration is based;
+
+(e) the main parameters and rationale for any variable component scheme and any other non-cash benefits;
+
+(f) aggregate quantitative information on remuneration, broken down by business area;
+
+(g) aggregate quantitative information on remuneration, broken down by senior management and members of staff whose actions have a material impact on the risk profile of the credit institution, indicating the following:
+
+(i) the amounts of remuneration for the financial year, split into fixed and variable remuneration, and the number of beneficiaries;
+
+(ii) the amounts and forms of variable remuneration, split into cash, shares, share-linked instruments and other types;
+
+(iii) the amounts of outstanding deferred remuneration, split into vested and unvested portions;
+
+(iv) the amounts of deferred remuneration awarded during the financial year, paid out and reduced through performance adjustments;
+
+(v) new sign-on and severance payments made during the financial year, and the number of beneficiaries of such payments; and
+
+(vi) the amounts of severance payments awarded during the financial year, number of beneficiaries and highest such award to a single person.
+
+For credit institutions that are significant in terms of their size, internal organisation and the nature, scope and the complexity of their activities, the quantitative information referred to in this point shall also be made available to the public at the level of persons who effectively direct the business of the credit institution within the meaning of Article 11(1).
+
+Credit institutions shall comply with the requirements set out in this point in a manner that is appropriate to their size, internal organisation and the nature, scope and complexity of their activities and without prejudice to Directive 95/46/EC.
+
+PART 3
+
+Qualifying requirements for the use of particular instruments or methodologies
+
+1. The credit institutions calculating the risk-weighted exposure amounts in accordance with Articles 84 to 89 shall disclose the following information:
+
+(a) the competent authority's acceptance of approach or approved transition;
+
+(b) an explanation and review of:
+
+(i) the structure of internal rating systems and relation between internal and external ratings;
+
+(ii) the use of internal estimates other than for calculating risk-weighted exposure amounts in accordance with Articles 84 to 89;
+
+(iii) the process for managing and recognising credit risk mitigation; and
+
+(iv) the control mechanisms for rating systems including a description of independence, accountability, and rating systems review;
+
+(c) a description of the internal ratings process, provided separately for the following exposure classes:
+
+(i) central governments and central banks;
+
+(ii) institutions;
+
+(iii) corporate, including SMEs, specialised lending and purchased corporate receivables;
+
+(iv) retail, for each of the categories of exposures to which the different correlations in Annex VII, Part 1, points 10 to 13 correspond; and
+
+(v) equities;
+
+(d) the exposure values for each of the exposure classes specified in Article 86. Exposures to central governments and central banks, institutions and corporates where credit institutions use own estimates of LGDs or conversion factors for the calculation of risk-weighted exposure amounts shall be disclosed separately from exposures for which the credit institutions do not use such estimates;
+
+(e) for each of the exposure classes central governments and central banks, institutions, corporate and equity, and across a sufficient number of obligor grades (including default) to allow for a meaningful differentiation of credit risk, credit institutions shall disclose:
+
+(i) the total exposures (for the exposure classes central governments and central banks, institutions and corporate, the sum of outstanding loans and exposure values for undrawn commitments; for equities, the outstanding amount);
+
+(ii) for the credit institutions using own LGD estimates for the calculation of risk-weighted exposure amounts, the exposure-weighted average LGD in percentage;
+
+(iii) the exposure-weighted average risk weight; and
+
+(iv) for the credit institutions using own estimates of conversion factors for the calculation of risk-weighted exposure amounts, the amount of undrawn commitments and exposure-weighted average exposure values for each exposure class;
+
+(f) for the retail exposure class and for each of the categories as defined under point (c)(iv), either the disclosures outlined under (e) above (if applicable, on a pooled basis), or an analysis of exposures (outstanding loans and exposure values for undrawn commitments) against a sufficient number of EL grades to allow for a meaningful differentiation of credit risk (if applicable, on a pooled basis);
+
+(g) the actual value adjustments in the preceding period for each exposure class (for retail, for each of the categories as defined under point (c)(iv) and how they differ from past experience;
+
+(h) a description of the factors that impacted on the loss experience in the preceding period (for example, has the credit institution experienced higher than average default rates, or higher than average LGDs and conversion factors); and
+
+(i) the credit institution's estimates against actual outcomes over a longer period. At a minimum, this shall include information on estimates of losses against actual losses in each exposure class (for retail, for each of the categories as defined under point (c)(iv) over a period sufficient to allow for a meaningful assessment of the performance of the internal rating processes for each exposure class (for retail for each of the categories as defined under point (c)(iv). Where appropriate, the credit institutions shall further decompose this to provide analysis of PD and, for the credit institutions using own estimates of LGDs and/or conversion factors, LGD and conversion factor outcomes against estimates provided in the quantitative risk assessment disclosures above.
+
+For the purposes of point (c), the description shall include the types of exposure included in the exposure class, the definitions, methods and data for estimation and validation of PD and, if applicable, LGD and conversion factors, including assumptions employed in the derivation of these variables, and the descriptions of material deviations from the definition of default as set out in Annex VII, Part 4, points 44 to 48, including the broad segments affected by such deviations.
+
+2. The credit institutions applying credit risk mitigation techniques shall disclose the following information:
+
+(a) the policies and processes for, and an indication of the extent to which the entity makes use of, on- and off-balance sheet netting;
+
+(b) the policies and processes for collateral valuation and management;
+
+(c) a description of the main types of collateral taken by the credit institution;
+
+(d) the main types of guarantor and credit derivative counterparty and their creditworthiness;
+
+(e) information about market or credit risk concentrations within the credit mitigation taken;
+
+(f) for credit institutions calculating risk-weighted exposure amounts in accordance with Articles 78 to 83 or 84 to 89, but not providing own estimates of LGDs or conversion factors in respect of the exposure class, separately for each exposure class, the total exposure value (after, where applicable, on- or off-balance sheet netting) that is covered — after the application of volatility adjustments — by eligible financial collateral, and other eligible collateral; and
+
+(g) for credit institutions calculating risk-weighted exposure amounts in accordance with Articles 78 to 83 or 84 to 89, separately for each exposure class, the total exposure (after, where applicable, on- or off-balance sheet netting) that is covered by guarantees or credit derivatives. For the equity exposure class, this requirement applies to each of the approaches provided in Annex VII, Part 1, points 17 to 26.
+
+3. The credit institutions using the approach set out in Article 105 for the calculation of their own funds requirements for operational risk shall disclose a description of the use of insurances and other risk transfer mechanisms for the purpose of mitigation of this risk.
+
+<a id="anx_xiii"></a>
+
+### ANNEX XIII
+
+PART A
+
+Repealed Directives Together With Their Successive Amendments (referred To In Article 158)
+
+Directive 2000/12/EC of the European Parliament and of the Council of 20 March 2000 relating to the taking up and pursuit of the business of credit institutions
+
+Directive 2000/28/EC of the European Parliament and of the Council of 18 September 2000 amending Directive 2000/12/EC relating to the taking up and pursuit of the business of credit institutions
+
+Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate and amending Council Directives 73/239/EEC, 79/267/EEC, 92/49/EEC, 92/96/EEC, 93/6/EEC and 93/22/EEC, and Directives 98/78/EC and 2000/12/EC of the European Parliament and of the Council
+
+Only Art. 29.1(a)(b), Art. 29.2, Art. 29.4(a)(b), Art. 29.5, Art. 29.6, Art. 29.7, Art. 29.8, Art. 29.9, Art. 29.10, Art. 29.11
+
+Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC
+
+Only Art. 68
+
+Commission Directive 2004/69/EC of 27 April 2004 amending Directive 2000/12/EC of the European Parliament and of the Council as regards the definition of ‘multilateral development banks’
+
+Directive 2005/1/EC of the European Parliament and of the Council of 9 March 2005 amending Council Directives 73/239/EEC, 85/611/EEC, 91/675/EEC, 92/49/EEC and 93/6/EEC and Directives 94/19/EC, 98/78/EC, 2000/12/EC, 2001/34/EC, 2002/83/EC and 2002/87/EC in order to establish a new organisational structure for financial services committees
+
+Only Article 3
+
+NON-REPEALED MODIFICATIONS
+
+Act of Accession 2003
+
+PART B
+
+deadlines for transposition (referred to in Article 158)
+
+| Directive |  | Deadline for transposition |
+| --- | --- | --- |
+| Directive 2000/12/EC |  | - - - - - |
+| Directive 2000/28/EC |  | 27.4.2002 |
+| Directive 2002/87/EC |  | 11.8.2004 |
+| Directive 2004/39/EC |  | 30.04.2006/31.1.2007 |
+| Directive 2004/69/EC |  | 30.6.2004 |
+| Directive 2005/1/EC |  | 13.5.2005 |
+
+<a id="an_xiv"></a>
+
+### ANΝΕΧ XIV
+
+
+
+<a id="correlation_table"></a>
+
+### CORRELATION TABLE
+
+| This Directive | Directive 2000/12/EC | Directive 2000/28/EC | Directive 2002/87/EC | Directive 2004/39/EC | Directive 2005/1/EC |
+| --- | --- | --- | --- | --- | --- |
+| Article 1 | Article 2(1) and (2) |  |  |  |  |
+| Article 2 | Article 2(3)Act of Accession |  |  |  |  |
+| Article 2 | Article 2(4) |  |  |  |  |
+| Article 3 | Article 2(5) and (6) |  |  |  |  |
+| Article 3(1), third subparagraph |  |  |  |  | Article 3(2) |
+| Article 4(1) | Article 1(1) |  |  |  |  |
+| Article 4(2) to (5) |  | Article 1(2) to (5) |  |  |  |
+| Article 4(7) to (9) |  | Article 1(6) to (8) |  |  |  |
+| Article 4(10) |  |  | Article 29(1)(a) |  |  |
+| Article 4(11) to (14) | Article 1(10), (12) and (13) |  |  |  |  |
+| Article 4(21) and 22) |  |  | Article 29(1)(b) |  |  |
+| Article 4(23) | Article 1(23) |  |  |  |  |
+| Article 4(45) to (47) | Article 1(25) to (27) |  |  |  |  |
+| Article 5 |  |  |  |  |  |
+| Article 6 | Article 4 |  |  |  |  |
+| Article 7 | Article 8 |  |  |  |  |
+| Article 8 | Article 9 |  |  |  |  |
+| Article 9(1) | Article 5(1) and 1(11) |  |  |  |  |
+| Article 9(2) | Article 5(2) |  |  |  |  |
+| Article 10 | Article 5(3) to (7) |  |  |  |  |
+| Article 11 | Article 6 |  |  |  |  |
+| Article 12 | Article 7 |  |  |  |  |
+| Article 13 | Article 10 |  |  |  |  |
+| Article 14 | Article 11 |  |  |  |  |
+| Article 15(1) | Article 12 |  |  |  |  |
+| Article 15(2) and (3) |  |  | Article 29(2) |  |  |
+| Article 16 | Article 13 |  |  |  |  |
+| Article 17 | Article 14 |  |  |  |  |
+| Article 18 | Article 15 |  |  |  |  |
+| Article 19(1) | Article 16(1) |  |  |  |  |
+| Article 19(2) |  |  | Article 29(3) |  |  |
+| Article 20 | Article 16(3) |  |  |  |  |
+| Article 21 | Article 16(4) to (6) |  |  |  |  |
+| Article 22 | Article 17 |  |  |  |  |
+| Article 23 | Article 18 |  |  |  |  |
+| Article 24(1) | Article 19(1) to (3) |  |  |  |  |
+| Article 24(2) | Article 19(6) |  |  |  |  |
+| Article 24(3) | Article 19(4) |  |  |  |  |
+| Article 25(1) to (3) | Article 20(1) to (3), first and second subparagraphs |  |  |  |  |
+| Article 25(3) | Article 19(5) |  |  |  |  |
+| Article 25(4) | Article 20(3) third subparagraph |  |  |  |  |
+| Article 26 | Article 20(4) to (7) |  |  |  |  |
+| Article 27 | Article 1(3), second sentence |  |  |  |  |
+| Article 28 | Article 21 |  |  |  |  |
+| Article 29 | Article 22 |  |  |  |  |
+| Article 30 | Article 22(2) to (4) |  |  |  |  |
+| Article 31 | Article 22(5) |  |  |  |  |
+| Article 32 | Article 22(6) |  |  |  |  |
+| Article 33 | Article 22(7) |  |  |  |  |
+| Article 34 | Article 22(8) |  |  |  |  |
+| Article 35 | Article 22(9) |  |  |  |  |
+| Article 36 | Article 22(10) |  |  |  |  |
+| Article 37 | Article 22(11) |  |  |  |  |
+| Article 38 | Article 24 |  |  |  |  |
+| Article 39(1) and (2) | Article 25 |  |  |  |  |
+| Article 39(3) |  |  |  |  | Article 3(8) |
+| Article 40 | Article 26 |  |  |  |  |
+| Article 41 | Article 27 |  |  |  |  |
+| Article 42 | Article 28 |  |  |  |  |
+| Article 43 | Article 29 |  |  |  |  |
+| Article 44 | Article 30(1) to (3) |  |  |  |  |
+| Article 45 | Article 30(4) |  |  |  |  |
+| Article 46 | Article 30(3) |  |  |  |  |
+| Article 47 | Article 30(5) |  |  |  |  |
+| Article 48 | Article 30(6) and (7) |  |  |  |  |
+| Article 49 | Article 30(8) |  |  |  |  |
+| Article 50 | Article 30(9), first and second subparagraphs |  |  |  |  |
+| Article 51 | Article 30(9), third subparagraph |  |  |  |  |
+| Article 52 | Article 30(10) |  |  |  |  |
+| Article 53 | Article 31 |  |  |  |  |
+| Article 54 | Article 32 |  |  |  |  |
+| Article 55 | Article 33 |  |  |  |  |
+| Article 56 | Article 34(1) |  |  |  |  |
+| Article 57 | Article 34(2), first subparagraph; andArticle 34(2), point 2, second sentence |  | Article 29(4)(a) |  |  |
+| Article 58 |  |  | Article 29(4)(b) |  |  |
+| Article 59 |  |  | Article 29(4)(b) |  |  |
+| Article 60 |  |  | Article 29(4)(b) |  |  |
+| Article 61 | Article 34(3) and (4) |  |  |  |  |
+| Article 63 | Article 35 |  |  |  |  |
+| Article 64 | Article 36 |  |  |  |  |
+| Article 65 | Article 37 |  |  |  |  |
+| Article 66(1) and (2) | Article 38(1) and (2) |  |  |  |  |
+| Article 67 | Article 39 |  |  |  |  |
+| Article 73 | Article 52(3) |  |  |  |  |
+| Article 106 | Article 1(24) |  |  |  |  |
+| Article 107 | Article 1(1), third subparagraph |  |  |  |  |
+| Article 108 | Article 48(1) |  |  |  |  |
+| Article 109 | Article 48(4), first subparagraph |  |  |  |  |
+| Article 110 | Article 48(2) to (4), second subparagraph |  |  |  |  |
+| Article 111 | Article 49(1) to (5) |  |  |  |  |
+| Article 113 | Article 49(4), (6) and (7) |  |  |  |  |
+| Article 115 | Article 49(8) and (9) |  |  |  |  |
+| Article 116 | Article 49(10) |  |  |  |  |
+| Article 117 | Article 49(11) |  |  |  |  |
+| Article 118 | Article 50 |  |  |  |  |
+| Article 120 | Article 51(1), (2) and (5) |  |  |  |  |
+| Article 121 | Article 51(4) |  |  |  |  |
+| Article 122(1) and (2) | Article 51(6) |  | Article 29(5) |  |  |
+| Article 125 | Article 53(1) and (2) |  |  |  |  |
+| Article 126 | Article 53(3) |  |  |  |  |
+| Article 128 | Article 53(5) |  |  |  |  |
+| Article 133(1) | Article 54(1) |  | Article 29(7)(a) |  |  |
+| Article 133(2) and (3) | Article 54(2) and (3) |  |  |  |  |
+| Article 134(1) | Article 54(4), first subparagraph |  |  |  |  |
+| Article 134(2) | Article 54(4), second subparagraph |  |  |  |  |
+| Article 135 |  |  | Article 29(8) |  |  |
+| Article 137 | Article 55 |  |  |  |  |
+| Article 138 |  |  | Article 29(9) |  |  |
+| Article 139 | Article 56(1) to (3) |  |  |  |  |
+| Article 140 | Article 56(4) to (6) |  |  |  |  |
+| Article 141 | Article 56(7) |  | Article 29(10) |  |  |
+| Article 142 | Article 56(8) |  |  |  |  |
+| Article 143 |  |  | Article 29(11) |  | Article 3(10) |
+| Article 150 | Article 60(1) |  |  |  |  |
+| Article 151 | Article 60(2) |  |  |  | Article 3(10) |
+| Article 158 | Article 67 |  |  |  |  |
+| Article 159 | Article 68 |  |  |  |  |
+| Article 160 | Article 69 |  |  |  |  |
+| Annex I, points 1 to 14, excluding the final paragraph | Annex I |  |  |  |  |
+| Annex I, final paragraph |  |  |  | Article 68 |  |
+| Annex II | Annex II |  |  |  |  |
+| Annex III | Annex III |  |  |  |  |
+| Annex IV | Annex IV |  |  |  |  |
+
+(1) OJ C 234, 22.9.2005, p. 8.
+
+(2) OJ C 52, 2.3.2005, p. 37.
+
+(3) Opinion of the European Parliament of 28 September 2005 (not yet published in the OJ) and Decision of the Council of 7 June 2006.
+
+(4) OJ L 126, 26.5.2000, p. 1. Directive as last amended by Directive 2006/29/EC (OJ L 70, 9.3.2006, p. 50).
+
+(5) OJ L 3, 7.1.2004, p. 28.
+
+(6) OJ L 372, 31.12.1986, p. 1. Directive as last amended by Directive 2003/51/EC of the European Parliament and of the Council (OJ L 178, 17.7.2003, p. 16).
+
+(7) OJ L 193, 18.7.1983, p. 1. Directive as last amended by Directive 2003/51/EC.
+
+(8) OJ L 243, 11.9.2002, p. 1.
+
+(9) See page 201 of this Official Journal
+
+(10) OJ L 281, 23.11.1995, p. 31. Directive as amended by Regulation (EC) No 1882/2003 (OJ L 284, 31.10.2003, p. 1).
+
+(11) OJ L 184, 17.7.1999, p. 23.
+
+(12) OJ C 284 E, 21.11.2002, p. 115.
+
+(13) OJ L 222, 14.8.1978, p. 11. Directive as last amended by Directive 2003/51/EC.
+
+(14) Directive 2002/87/EC of the European Parliament and of the Council of 16 December 2002 on the supplementary supervision of credit institutions, insurance undertakings and investment firms in a financial conglomerate (OJ L 35, 11.2.2003, p. 1). Directive as amended by Directive 2005/1/EC.
+
+(15) OJ L 331, 15.12.2010, p. 12.
+
+(16) Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market (OJ L 390, 31.12.2004, p. 38).
+
+(17) Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments (OJ L 145, 30.4.2004, p. 1). Directive as last amended by Directive 2007/44/EC (OJ L 247, 21.9.2007, p. 1)
+
+(18) Council Directive 85/611/EEC of 20 December 1985 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 375, 31.12.1985, p. 3). Directive as last amended by Directive 2005/1/EC.
+
+(19) Council Directive 92/49/EEC of 18 June 1992 on the coordination of laws, regulations and administrative provisions relating to direct insurance other than life assurance (third non-life insurance Directive) (OJ L 228, 11.8.1992, p. 1). Directive as last amended by Directive 2007/44/EC.
+
+(20) Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assurance (OJ L 345, 19.12.2002, p. 1). Directive as last amended by Directive 2007/44/EC.
+
+(21) Directive 2005/68/EC of the European Parliament and of the Council of 16 November 2005 on reinsurance (OJ L 323, 9.12.2005, p. 1). Directive as amended by Directive 2007/44/EC.
+
+(22) Directive 2005/60/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of financial system for the purpose of money laundering and terrorist financing (OJ L 309, 25.11.2005, p. 15).
+
+(23) OJ L 120, 15.5.2009, p. 22.
+
+(24) OJ L 331, 15.12.2010, p. 1.
+
+(25) Eighth Council Directive 84/253/EEC of 10 April 1984 on the approval of persons responsible for carrying out the statutory audits of accounting documents (OJ L 126, 12.5.1984, p. 20).
+
+(26) Council Directive 85/611/EEC of 20 December 1985 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 375, 31.12.1985, p. 3). Directive as last amended by Directive 2005/1/EC.
+
+(27) First Council Directive 73/239/EEC of 24 July 1973 on the coordination of laws, regulations and administrative provisions relating to the taking-up and pursuit of the business of direct insurance other than life assurance (OJ L 228, 16.8.1973, p. 3). Directive as last amended by Directive 2005/1/EC.
+
+(28) Directive 2002/83/EC of the European Parliament and of the Council of 5 November 2002 concerning life assurance (OJ L 345, 19.12.2002, p. 1). Directive as last amended by Directive 2005/1/EC.
+
+(29) Directive 98/78/EC of the European Parliament and of the Council of 27 October 1998 on the supplementary supervision of insurance undertakings in an insurance group (OJ L 330, 5.12.1998, p. 1). Directive as last amended by Directive 2005/1/EC.
+
+(30) OJ L 302, 17.11.2009, p. 1.
+
+(31) OJ L 331, 15.12.2010, p. 84.
+
+(32) OJ L 3, 7.1.2004, p. 36.
+
+(33) OJ L 141, 11.6.1993, p. 1. Directive as last amended by Directive 2005/1/EC.
+
+(34) OJ L 319, 5.12.2007, p. 1
+
+(35) OJ L 145, 30.4.2004, p. 1. Directive as amended by Directive 2006/31/EC (OJ L 114, 27.4.2006, p. 60).
+
+(36) OJ L 250, 2.10.2003, p. 10.
+
+(37) OJ L 302, 17.11.2009, p. 32.
+
+(38) OJ L 110, 20.4.2001, p. 28.

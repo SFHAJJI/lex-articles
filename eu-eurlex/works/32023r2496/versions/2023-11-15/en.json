@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r2496:2023-11-15",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2023/2496 of 15\u00A0November 2023 amending Directive\u00A02014/25/EU",
+  "valid_from": "2023-11-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r2496/versions/2023-11-15/en.xml",
+    "sha256": "a782369202e8f487d374737ca37e09ca12e4823fa3cfabdb73516e950ee6a5df",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2496"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r2496:2023-11-15#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nArticle 15 of Directive 2014/25/EU is amended as follows:\n\n| (1) | in point (a), ‘EUR 431 000’ is replaced by ‘EUR 443 000’; |\n| --- | --- |\n\n| (2) | in point (b), ‘EUR 5 382 000’ is replaced by ‘EUR 5 538 000’. |\n| --- | --- |",
+      "text_sha256": "eda9d6d59221af24e59b00dd54ac353321722302b4845149623749ffe5684f78",
+      "md_span": {
+        "start": 641,
+        "end": 879
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r2496:2023-11-15#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2024.",
+      "text_sha256": "6f7884950b51c8c6e5d0505b424d11cf1b1e1ec384835e1b90a033fba4c66587",
+      "md_span": {
+        "start": 912,
+        "end": 1100
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

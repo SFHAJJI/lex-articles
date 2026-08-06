@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32025r2151:2025-10-22",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2025/2151 of 22\u00A0October 2025 amending Directive\u00A02014/23/EU",
+  "valid_from": "2025-10-22",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32025r2151/versions/2025-10-22/en.xml",
+    "sha256": "c7573659c0376fb8b6a237bd77a2b081c3b6a4f67618c1aebc2f406ad6cd8bb9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R2151"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32025r2151:2025-10-22#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn Article 8(1) of Directive 2014/23/EU, ‘EUR 5 538 000’ is replaced by ‘EUR 5 404 000’.",
+      "text_sha256": "cea61d031bdf2b32e92f758c94bb0fe3855e544c0865d13ed6b48ddba3565cde",
+      "md_span": {
+        "start": 640,
+        "end": 739
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32025r2151:2025-10-22#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2026.",
+      "text_sha256": "df07d19db9bb64a2bb4ef03a4bf2d4cd738d35fe6895e1a17434aa0e52710f14",
+      "md_span": {
+        "start": 772,
+        "end": 960
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32010l0023:2010-03-16",
+  "language": "fr",
+  "title": "Council Directive 2010/23/EU of 16\u00A0March 2010 amending Directive 2006/112/EC on the common…",
+  "valid_from": "2010-03-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32010l0023/versions/2010-03-16/fr.xml",
+    "sha256": "51ca622a34a03b3a5bc04bcf8afbdce1c29d8067fd75b7ce955df2eeb23c095d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32010L0023"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32010l0023:2010-03-16#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’article suivant est inséré dans la directive 2006/112/CE:\n\n«Article 199 bis\n\n1. Jusqu’au 30 juin 2015 et pour une période minimale de deux ans, les États membres peuvent prévoir que le redevable de la TVA est l’assujetti destinataire des opérations suivantes:\n\n| a) | transfert de quotas autorisant à émettre des gaz à effet de serre au sens de l’article 3 de la directive 2003/87/CE du Parlement européen et du Conseil du 13 octobre 2003 établissant un système d’échange de quotas d’émission de gaz à effet de serre dans la Communauté(*1) transférables conformément à l’article 12 de ladite directive; |\n| --- | --- |\n\n| b) | transfert d’autres unités pouvant être utilisées par les opérateurs en vue de se conformer à ladite directive. |\n| --- | --- |\n\n2. Les États membres informent la Commission de l’application du mécanisme prévu au paragraphe 1 lors de l’introduction de celui-ci et lui communiquent les éléments d’information suivants:\n\n| a) | une déclaration relative au champ d’application de l’instrument mettant en œuvre le mécanisme, ainsi qu’une description détaillée des mesures d’accompagnement, y compris d’éventuelles obligations de notification concernant les assujettis et d’éventuelles mesures de contrôle; |\n| --- | --- |\n\n| b) | les critères d’évaluation permettant une comparaison, avant et après l’application du mécanisme, des activités frauduleuses portant sur les services énumérés au paragraphe 1, des activités frauduleuses concernant d’autres services ainsi que de l’augmentation d’autres types d’activités frauduleuses; |\n| --- | --- |\n\n| c) | la date à laquelle l’instrument mettant en œuvre le mécanisme devient opérationnel ainsi que la période couverte par cet instrument. |\n| --- | --- |\n\n3. Sur la base des critères d’évaluation visés au paragraphe 2, point b), les États membres appliquant le mécanisme prévu au paragraphe 1 transmettent un rapport à la Commission au plus tard le 30 juin 2014. Le rapport mentionne clairement les informations confidentielles et celles qui peuvent être publiées.\n\nLe rapport contient une évaluation détaillée de l’efficacité globale du mécanisme, notamment en ce qui concerne:\n\n| a) | l’incidence sur les activités frauduleuses liées aux prestations de services couvertes par le mécanisme; |\n| --- | --- |\n\n| b) | l’éventuel déplacement des activités frauduleuses vers des biens ou vers d’autres services; |\n| --- | --- |\n\n| c) | les coûts de conformité supportés par les assujettis du fait du mécanisme. |\n| --- | --- |\n\n4. Tout État membre qui, à partir de la date d’entrée en vigueur du présent article, décèle un déplacement d’activités frauduleuses sur son territoire en ce qui concerne les services énumérés au paragraphe 1 présente un rapport à la Commission sur ce sujet au plus tard le 30 juin 2014.\n\n(*1) JO L 275 du 25.10.2003, p. 32.» \"",
+      "text_sha256": "f80f101a84f21aa6d4966b920d9feb42e53a3a20806a6241e3cd2f898755dad7",
+      "md_span": {
+        "start": 636,
+        "end": 3476
+      },
+      "citations": [
+        {
+          "href": "#ntr*1-L_2010072FR.01000101-E0005",
+          "text": "(*1)"
+        },
+        {
+          "href": "#ntc*1-L_2010072FR.01000101-E0005",
+          "text": "(*1)"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/oj/JOL_2003_275_R_TOC",
+          "text": "JO L 275 du 25.10.2003, p. 32"
+        }
+      ]
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32010l0023:2010-03-16#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes États membres optant pour l’application du mécanisme prévu à l’article 199 bis, paragraphe 1, de la directive 2006/112/CE communiquent à la Commission les dispositions de l’instrument mettant en œuvre le mécanisme au moment où celui-ci devient opérationnel.",
+      "text_sha256": "4e624b24a4b9c86e67fe16e2105ac86cbfc410b1941998a26b7903d241ad7743",
+      "md_span": {
+        "start": 3509,
+        "end": 3781
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32010l0023:2010-03-16#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLa présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "33d675349ea71b50fecd79643cf4d588edb987445b0a9353a37d98672f1c30b7",
+      "md_span": {
+        "start": 3814,
+        "end": 3956
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32010l0023:2010-03-16#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLa présente directive s’applique jusqu’au 30 juin 2015.",
+      "text_sha256": "f99c3054e90bfef3bdef1712b9c7c42437049c4c8a69c70625e322ef16ed28d4",
+      "md_span": {
+        "start": 3989,
+        "end": 4055
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32010l0023:2010-03-16#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "d262bf068f985c2f9fbd6d3529e6c955709d83fa74b232a89d98dfc32026f00e",
+      "md_span": {
+        "start": 4088,
+        "end": 4161
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32010l0023:2010-03-16#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLa présente directive est publiée au Journal officiel de l’Union européenne.",
+      "text_sha256": "bcc978cd5c2436cf6764da634a1b75b0b4fdeea3a51aa175ddb8a1bec44f3593",
+      "md_span": {
+        "start": 4194,
+        "end": 4281
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

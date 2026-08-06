@@ -1,0 +1,3012 @@
+---
+lex_id: 'eu-eurlex:32006l0048:2006-06-14'
+title: 'Directive 2006/48/EC'
+valid_from: '2006-06-14'
+valid_to: '2007-04-16'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32006L0048'
+source_sha256: '3c48ae1bce8d76ceaf6a1e5a98d7e924a475e723bae2fe6bb8a411a18687d3e8'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article premier
+
+1. La présente directive fixe des règles concernant l'accès à l'activité des établissements de crédit et son exercice ainsi que la surveillance prudentielle de ces établissements de crédit.
+
+2. L'article 39 et le titre V, chapitre 4, section 1, sont applicables aux compagnies financières holdings et aux compagnies holdings mixtes qui ont leur siège dans la Communauté.
+
+3. Les établissements exclus à titre permanent conformément à l'article 2, à l'exception toutefois des banques centrales des États membres, sont traités comme des établissements financiers pour l'application de l'article 39 et du titre V, chapitre 4, section 1.
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+La présente directive ne s'applique pas aux entités suivantes:
+
+| — | les banques centrales des États membres, |
+| --- | --- |
+
+| — | les offices des chèques postaux, |
+| --- | --- |
+
+| — | en Belgique, l'«Institut de réescompte et de garantie/Herdiscontering- en Waarborginstituut», |
+| --- | --- |
+
+| — | au Danemark, le «Dansk Eksportfinansieringsfond», le «Danmarks Skibskreditfond», le «Dansk Landbrugs Realkreditfond» et le «Kommunekredit», |
+| --- | --- |
+
+| — | en Allemagne, la «Kreditanstalt für Wiederaufbau», les organismes qui, en vertu du «Wohnungsgemeinnützigkeitsgesetz», sont reconnus comme organes de la politique nationale en matière de logement et dont les opérations bancaires ne constituent pas l'activité prépondérante, ainsi que les organismes qui, en vertu de cette loi, sont reconnus comme organismes de logement d'intérêt public, |
+| --- | --- |
+
+| — | en Grèce, le «Ταμείο Παρακαταθηκών και Δανείων» (Tamio Parakatathikon kai Danion) , |
+| --- | --- |
+
+| — | en Espagne, l'«Instituto de Crédito Oficial», |
+| --- | --- |
+
+| — | en France, la «Caisse des dépôts et consignations», |
+| --- | --- |
+
+| — | en Irlande, les «credit unions» et les «friendly societies», |
+| --- | --- |
+
+| — | en Italie, la «Cassa depositi e prestiti», |
+| --- | --- |
+
+| — | en Lettonie, les «krājaizdevu sabiedrības», entreprises qui sont reconnues par le «Krājaizdevu sabiedrību likums» en tant que coopératives fournissant des services financiers uniquement à leurs membres, |
+| --- | --- |
+
+| — | en Lituanie, les «kredito unijos» autres que le «Centrinė kredito unija», |
+| --- | --- |
+
+| — | en Hongrie, la «Magyar Fejlesztési Bank Rt.» et la «Magyar Export-Import Bank Rt.», |
+| --- | --- |
+
+| — | aux Pays-Bas, la «Nederlandse Investeringsbank voor Ontwikkelingslanden NV», la «NV Noordelijke Ontwikkelingsmaatschappij», la «NV Industriebank Limburgs Instituut voor ontwikkeling en financiering» et la «Overijsselse Ontwikkelingsmaatschappij NV», |
+| --- | --- |
+
+| — | en Autriche, les entreprises reconnues comme associations de construction dans l'intérêt public et la «Österreichische Kontrollbank AG», |
+| --- | --- |
+
+| — | en Pologne, la «Spółdzielcze Kasy Oszczędnościowo — Kredytowe» et la «Bank Gospodarstwa Krajowego», |
+| --- | --- |
+
+| — | au Portugal, les «Caixas Económicas» existant au 1er janvier 1986, à l'exception, d'une part, de celles qui revêtent la forme de sociétés anonymes et, d'autre part, de la «Caixa Económica Montepio Geral», |
+| --- | --- |
+
+| — | en Finlande, la «Teollisen yhteistyön rahasto Oy/Fonden för industriellt samarbete AB» et la «Finnvera Oyj/Finnvera Abp», |
+| --- | --- |
+
+| — | en Suède, la «Svenska Skeppshypotekskassan», |
+| --- | --- |
+
+| — | au Royaume-Uni, la «National Savings Bank», la «Commonwealth Development Finance Company Ltd», l'«Agricultural Mortgage Corportation Ltd», la «Scottish Agricultural Securities Corporation Ltd», les «Crown Agents for overseas governments and administrations», les «credit unions» et les «municipal banks», |
+| --- | --- |
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+1. Un ou plusieurs établissements de crédit qui, au 15 décembre 1977, existaient dans un État membre donné et qui, à cette date, étaient affiliés de façon permanente à un organisme central qui les contrôle et qui est établi dans le même État membre peuvent être exemptés des conditions figurant à l'article 7, ainsi qu'à l'article 11, paragraphe 1, si, au plus tard le 15 décembre 1979, le droit national a prévu que:
+
+| a) | les engagements de l'organisme central et des établissements qui lui sont affiliés constituent des engagements solidaires, ou que les engagements des établissements qui lui sont affiliés sont entièrement garantis par l'organisme central, |
+| --- | --- |
+
+| b) | la solvabilité et la liquidité de l'organisme central et de tous les établissements affiliés sont surveillées dans leur ensemble sur la base de comptes consolidés, et |
+| --- | --- |
+
+| c) | la direction de l'organisme central est habilitée à donner des instructions à la direction des établissements affiliés. |
+| --- | --- |
+
+Des établissements de crédit à rayon d'action locale affiliés de façon permanente, postérieurement au 15 décembre 1977, à un organisme central au sens du premier alinéa peuvent bénéficier des conditions fixées audit alinéa s'ils constituent une extension normale du réseau dépendant de l'organisme central.
+
+Pour autant qu'il s'agisse d'établissements de crédit autres que ceux qui sont créés dans des régions nouvellement endiguées ou qui sont issus de la fusion ou de la scission d'établissements existants relevant de l'organisme central, la Commission, agissant conformément à la procédure visée à l'article 151, paragraphe 2, peut fixer des règles supplémentaires pour l'application du deuxième alinéa, en ce compris l'abrogation des exemptions prévues au premier alinéa, lorsqu'elle est d'avis que l'affiliation de nouveaux établissements bénéficiant du régime prévu au deuxième alinéa serait de nature à affecter de manière négative la concurrence.
+
+2. Les établissements de crédit visés au paragraphe 1, premier alinéa, peuvent aussi être exemptés de l'application des dispositions des articles 9 et 10 et du titre V, chapitre 2, sections 2 à 6, et chapitre 3, pour autant que, sans préjudice de l'application desdites dispositions à l'organisme central, l'ensemble constitué par l'organisme central et les établissements qui lui sont affiliés soit assujetti à ces dispositions sur une base consolidée.
+
+En cas d'exemption, les articles 16, 23, 24 et 25, l'article 26, paragraphes 1 à 3, et les articles 28 à 37 s'appliquent à l'ensemble constitué par l'organisme central et les établissements qui lui sont affiliés.
+
+<a id="art_4"></a>
+
+### art_4
+
+Article 4
+
+Au sens de la présente directive, on entend par:
+
+| 1) | «établissement de crédit»:a)une entreprise dont l'activité consiste à recevoir du public des dépôts ou d'autres fonds remboursables et à octroyer des crédits pour son propre compte, oub)un établissement de monnaie électronique au sens de la directive 2000/46/CE (13). |
+| --- | --- |
+| a) | une entreprise dont l'activité consiste à recevoir du public des dépôts ou d'autres fonds remboursables et à octroyer des crédits pour son propre compte, ou |
+| b) | un établissement de monnaie électronique au sens de la directive 2000/46/CE (13). |
+
+| 2) | «agrément»: un acte émanant des autorités, quelle qu'en soit la forme, d'où découle la faculté d'exercer l'activité d'établissement de crédit; |
+| --- | --- |
+
+| 3) | «succursale»: un siège d'exploitation qui constitue une partie dépourvue de personnalité juridique d'un établissement de crédit et qui effectue directement, en tout ou en partie, les opérations inhérentes à l'activité d'établissement de crédit; |
+| --- | --- |
+
+| 4) | «autorités compétentes»: les autorités nationales habilitées, en vertu d'une loi ou d'une réglementation, à contrôler les établissements de crédit; |
+| --- | --- |
+
+| 5) | «établissement financier»: une entreprise, autre qu'un établissement de crédit, dont l'activité principale consiste à prendre des participations ou à exercer une ou plusieurs activités visées aux points 2 à 12 de la liste figurant à l'annexe I; |
+| --- | --- |
+
+| 6) | «établissements» aux fins du titre V, chapitre 2, sections 2 et 3: les établissements au sens de l'article 3, paragraphe 1, point c), de la directive 2006/49/CE. |
+| --- | --- |
+
+| 7) | «État membre d'origine»: l'État membre dans lequel un établissement de crédit a été agréé conformément aux articles 6 à 9 et 11 à 14; |
+| --- | --- |
+
+| 8) | «État membre d'accueil»: l'État membre dans lequel un établissement de crédit a une succursale ou fournit des services; |
+| --- | --- |
+
+| 9) | «contrôle»: le lien qui existe entre une entreprise mère et une filiale, au sens de l'article 1er de la directive 83/349/CEE, ou une relation de même nature entre toute personne physique ou morale et une entreprise; |
+| --- | --- |
+
+| 10) | «participation» aux fins de l'application de l'article 57, points o) et p), des articles 71 à 73 et du titre V, chapitre 4: une participation au sens de l'article 17, première phrase, de la quatrième directive 78/660/CEE du Conseil du 25 juillet 1978 concernant les comptes annuels de certaines formes de sociétés (14), ou le fait de détenir, directement ou indirectement, au moins 20 % des droits de vote ou du capital d'une entreprise; |
+| --- | --- |
+
+| 11) | «participation qualifiée»: le fait de détenir dans une entreprise, directement ou indirectement, au moins 10 % du capital ou des droits de vote, ou toute autre possibilité d'exercer une influence notable sur la gestion de cette entreprise ; |
+| --- | --- |
+
+| 12) | «entreprise mère»:a)une entreprise mère au sens des articles 1er et 2 de la directive 83/349/CEE; oub)aux fins de l'application des articles 71 à 73 et du titre V, chapitre 2, section 5, et chapitre 4, une entreprise mère au sens de l'article 1er, paragraphe 1, de la directive 83/349/CEE ainsi que toute entreprise exerçant effectivement, de l'avis des autorités compétentes, une influence dominante sur une autre entreprise; |
+| --- | --- |
+| a) | une entreprise mère au sens des articles 1er et 2 de la directive 83/349/CEE; ou |
+| b) | aux fins de l'application des articles 71 à 73 et du titre V, chapitre 2, section 5, et chapitre 4, une entreprise mère au sens de l'article 1er, paragraphe 1, de la directive 83/349/CEE ainsi que toute entreprise exerçant effectivement, de l'avis des autorités compétentes, une influence dominante sur une autre entreprise; |
+
+| 13) | «filiale»:a)une entreprise filiale au sens des articles 1er et 2 de la directive 83/349/CEE; oub)aux fins de l'application des articles 71 à 73 et du titre V, chapitre 2, section 5, et chapitre 4, une entreprise filiale au sens de l'article 1er, paragraphe 1, de la directive 83/349/CEE ainsi que toute entreprise sur laquelle une entreprise mère exerce effectivement, de l'avis des autorités compétentes, une influence dominante.Toute entreprise filiale d'une entreprise filiale est aussi considérée comme celle de l'entreprise mère qui est à la tête de ces entreprises; |
+| --- | --- |
+| a) | une entreprise filiale au sens des articles 1er et 2 de la directive 83/349/CEE; ou |
+| b) | aux fins de l'application des articles 71 à 73 et du titre V, chapitre 2, section 5, et chapitre 4, une entreprise filiale au sens de l'article 1er, paragraphe 1, de la directive 83/349/CEE ainsi que toute entreprise sur laquelle une entreprise mère exerce effectivement, de l'avis des autorités compétentes, une influence dominante. |
+
+| 14) | «établissement de crédit mère dans un État membre»: un établissement de crédit qui a comme filiale un établissement de crédit ou un établissement financier, ou qui détient une participation dans un tel établissement, et qui n'est pas lui-même une filiale d'un autre établissement de crédit agréé dans le même État membre ou d'une compagnie financière holding constituée dans le même État membre; |
+| --- | --- |
+
+| 15) | «compagnie financière holding mère dans un État membre»: une compagnie financière holding qui n'est pas elle-même une filiale d'un établissement de crédit agréé dans le même État membre ou d'une autre compagnie financière holding constituée dans le même État membre; |
+| --- | --- |
+
+| 16) | «établissement de crédit mère dans l'Union»: un établissement de crédit mère dans un État membre, qui n'est pas une filiale d'un autre établissement de crédit agréé dans un État membre ou d'une compagnie financière holding constituée dans un État membre; |
+| --- | --- |
+
+| 17) | «compagnie financière holding mère dans l'Union»: une compagnie financière holding mère dans un État membre, qui n'est pas une filiale d'un établissement de crédit agréé dans un État membre ou d'une autre compagnie financière holding constituée dans un État membre; |
+| --- | --- |
+
+| 18) | «entités du secteur public»: les organismes administratifs non commerciaux qui rendent compte de leurs actes à l'administration centrale ou aux autorités régionales ou locales, ou aux autorités qui, de l'avis des autorités compétentes, exercent les mêmes responsabilités que des autorités régionales ou locales ou les entreprises non commerciales détenues par des administrations centrales, qui disposent de systèmes de garantie formels, y compris les organismes autonomes régis par la loi et soumis à un contrôle public; |
+| --- | --- |
+
+| 19) | «compagnie financière holding»: un établissement financier dont les entreprises filiales sont exclusivement ou principalement des établissements de crédit ou des établissements financiers, l'une au moins de ces filiales étant un établissement de crédit, et qui n'est pas une compagnie financière holding mixte au sens de l'article 2, paragraphe 15, de la directive 2002/87/CE (15); |
+| --- | --- |
+
+| 20) | «compagnie holding mixte»: une entreprise mère autre qu'une compagnie financière holding ou un établissement de crédit ou une compagnie financière holding mixte au sens de l'article 2, paragraphe 15, de la directive 2002/87/CE, qui compte parmi ses filiales au moins un établissement de crédit; |
+| --- | --- |
+
+| 21) | «entreprise de services auxiliaires»: une entreprise dont l'activité principale consiste en la détention ou la gestion d'immeubles, en la gestion de services informatiques, ou en toute autre activité similaire ayant un caractère auxiliaire par rapport à l'activité principale d'un ou de plusieurs établissements de crédit; |
+| --- | --- |
+
+| 22) | «risque opérationnel»: le risque de pertes découlant d'une inadéquation ou d'une défaillance des processus, du personnel et des systèmes internes ou d'événements extérieurs, y compris le risque juridique; |
+| --- | --- |
+
+| 23) | «banques centrales»: sauf mention contraire, inclut également la Banque centrale européenne; |
+| --- | --- |
+
+| 24) | «risque de dilution»: le risque que le montant d'une créance se trouve réduit par l'octroi de crédits, sous la forme de liquidités ou sous une autre forme, au débiteur; |
+| --- | --- |
+
+| 25) | «probabilité de défaut»: la probabilité de défaut d'une contrepartie sur une période d'un an; |
+| --- | --- |
+
+| 26) | «perte», aux fins du titre V, chapitre 2, section 3: une perte économique, y compris les effets d'actualisation importants et les coûts directs et indirects importants liés au recouvrement des montants à percevoir au titre d'un instrument; |
+| --- | --- |
+
+| 27) | «perte en cas de défaut»: le rapport entre la perte subie sur une exposition en raison du défaut d'une contrepartie et le montant exposé au moment du défaut; |
+| --- | --- |
+
+| 28) | «facteur de conversion»: le rapport entre la partie actuellement non prélevée d'une ligne de crédit qui sera prélevée et exposée en cas de défaut, et la partie actuellement non prélevée de cette ligne de crédit, l'importance de la ligne de crédit étant déterminée par la limite autorisée, à moins que la limite non autorisée soit supérieure; |
+| --- | --- |
+
+| 29) | «perte anticipée» (EL), aux fins du titre V, chapitre 2, section 3: le rapport entre la perte attendue sur une exposition en cas de défaut d'une contrepartie ou en cas de dilution sur une période d'un an et le montant exposé en cas de défaut; |
+| --- | --- |
+
+| 30) | «atténuation du risque de crédit»: une technique utilisée par un établissement de crédit pour réduire le risque de crédit associé à une ou plusieurs expositions qu'il conserve; |
+| --- | --- |
+
+| 31) | «protection financée du crédit»: une technique d'atténuation du risque de crédit selon laquelle le risque de crédit associé à l'exposition d'un établissement de crédit se trouve réduit par le droit qu'a celui-ci — en cas de défaut de la contrepartie ou en cas de survenue d'autres événements de crédit prédéterminés concernant la contrepartie — de liquider certains actifs ou montants, d'obtenir leur transfert, de se les approprier ou de les conserver, ou de réduire le montant de l'exposition au montant de la différence entre le montant de l'exposition et le montant d'une créance qui serait détenue sur l'établissement de crédit, ou de le remplacer par le montant de cette différence; |
+| --- | --- |
+
+| 32) | «protection non financée du crédit»: une technique d'atténuation du risque de crédit selon laquelle le risque de crédit associé à l'exposition d'un établissement de crédit se trouve réduit par l'engagement d'un tiers à payer un montant en cas de défaut de l'emprunteur ou en cas de survenue d'autres événements de crédit prédéterminés; |
+| --- | --- |
+
+| 33) | «opération de pension»: toute opération régie par un accord relevant de la définition de la «mise en pension» ou de la «prise en pension» figurant à l'article 3, paragraphe 1, point m), de la directive 2006/49/CE; |
+| --- | --- |
+
+| 34) | «opération de prêt ou d'emprunt de titres ou de produits de base»: toute opération relevant de la définition du «prêt de titres ou de produits de base» ou d'«emprunt de titres ou de produits de base» figurant à l'article 3, paragraphe 1, point n), de la directive 2006/49/CE; |
+| --- | --- |
+
+| 35) | «instrument financier assimilé à des liquidités»: un certificat de dépôt ou un autre instrument similaire émis par l'établissement de crédit prêteur; |
+| --- | --- |
+
+| 36) | «titrisation» : une opération par laquelle, ou un montage par lequel, le risque de crédit associé à une exposition ou à un ensemble d'expositions est subdivisé en tranches, et qui présente les caractéristiques suivantes:a)les paiements effectués dans le cadre de l'opération ou du montage dépendent de la performance de l'exposition ou de l'ensemble d'expositions; etb)la subordination des tranches détermine la répartition des pertes pendant la durée de l'opération ou du montage ; |
+| --- | --- |
+| a) | les paiements effectués dans le cadre de l'opération ou du montage dépendent de la performance de l'exposition ou de l'ensemble d'expositions; et |
+| b) | la subordination des tranches détermine la répartition des pertes pendant la durée de l'opération ou du montage ; |
+
+| 37) | «titrisation classique»: une titrisation impliquant le transfert économique des expositions titrisées à une entité de titrisation, qui émet des titres. Ceci suppose le transfert de la propriété des expositions titrisées par l'établissement de crédit initiateur ou une sous-participation. Les titres émis ne représentent pas d'obligations de paiement pour l'établissement de crédit initiateur; |
+| --- | --- |
+
+| 38) | «titrisation synthétique»: une titrisation où la subdivision en tranches est réalisée via l'utilisation de dérivés de crédit ou de garanties et où l'ensemble des expositions n'est pas sorti du bilan de l'établissement de crédit initiateur; |
+| --- | --- |
+
+| 39) | «tranche»: une fraction, établie contractuellement, du risque de crédit associé à une exposition ou à un certain nombre d'expositions, une position détenue dans cette fraction comportant un risque de perte de crédit supérieur ou inférieur à celui qu'implique une position de même montant détenue dans toute autre fraction, sans tenir compte de la protection de crédit directement offerte par des tiers aux détenteurs de positions dans la fraction considérée ou d'autres fractions; |
+| --- | --- |
+
+| 40) | «position de titrisation»: une exposition sur une opération de titrisation; |
+| --- | --- |
+
+| 41) | «initiateur»:a)soit une entité qui, par elle-même ou par l'intermédiaire d'entités liées, a pris part directement ou indirectement à l'accord d'origine ayant donné naissance aux obligations ou obligations potentielles du débiteur ou débiteur potentiel et donnant lieu à l'exposition titrisée; oub)soit une entité qui achète les expositions d'un tiers pour les inscrire à son bilan et qui les titrise; |
+| --- | --- |
+| a) | soit une entité qui, par elle-même ou par l'intermédiaire d'entités liées, a pris part directement ou indirectement à l'accord d'origine ayant donné naissance aux obligations ou obligations potentielles du débiteur ou débiteur potentiel et donnant lieu à l'exposition titrisée; ou |
+| b) | soit une entité qui achète les expositions d'un tiers pour les inscrire à son bilan et qui les titrise; |
+
+| 42) | «sponsor»: un établissement de crédit, autre qu'un établissement de crédit initiateur, qui établit et gère un programme de papier commercial adossé à des actifs ou un autre dispositif de titrisation qui rachète les expositions de tiers; |
+| --- | --- |
+
+| 43) | «rehaussement du crédit»: un contrat améliorant la qualité de crédit d'une position de titrisation par rapport à ce qu'elle aurait été sans rehaussement, y compris le rehaussement obtenu par la présence de tranches de rang inférieur dans la titrisation et d'autres types de protection du crédit; |
+| --- | --- |
+
+| 44) | «entité de titrisation»: une fiducie ou autre entité, autre qu'un établissement de crédit, qui est organisée de façon à réaliser une ou plusieurs titrisations, dont les activités sont limitées à la réalisation de cet objectif, dont la structure vise à isoler ses obligations de celles de l'établissement de crédit initiateur et pour laquelle ceux qui y détiennent des intérêts peuvent gager ou échanger lesdits intérêts sans restriction; |
+| --- | --- |
+
+| 45) | «groupe de clients liés»:a)soit deux personnes physiques ou morales, ou plus, qui constituent, sauf preuve contraire, un ensemble du point de vue du risque parce que l'une d'entre elles détient sur l'autre ou sur les autres, directement ou indirectement, un pouvoir de contrôle, oub)soit deux personnes physiques ou morales, ou plus, entre lesquelles il n'y a pas de lien de contrôle au sens du point a), mais qui doivent être considérées comme un ensemble du point de vue du risque parce qu'il existe entre elles des liens tels qu'il est probable que, si l'une d'entre elles rencontrait des problèmes financiers, l'autre ou toutes les autres connaîtraient des difficultés de remboursement; |
+| --- | --- |
+| a) | soit deux personnes physiques ou morales, ou plus, qui constituent, sauf preuve contraire, un ensemble du point de vue du risque parce que l'une d'entre elles détient sur l'autre ou sur les autres, directement ou indirectement, un pouvoir de contrôle, ou |
+| b) | soit deux personnes physiques ou morales, ou plus, entre lesquelles il n'y a pas de lien de contrôle au sens du point a), mais qui doivent être considérées comme un ensemble du point de vue du risque parce qu'il existe entre elles des liens tels qu'il est probable que, si l'une d'entre elles rencontrait des problèmes financiers, l'autre ou toutes les autres connaîtraient des difficultés de remboursement; |
+
+| 46) | «liens étroits»: une situation dans laquelle deux personnes physiques ou morales, ou plus, sont liées de l'une des façons suivantes:a)par une participation, c'est-à-dire le fait de détenir, directement ou par le biais d'un lien de contrôle, 20 % ou plus des droits de vote ou du capital d'une entreprise ;b)par un lien de contrôle; ouc)par le fait qu'elles sont toutes liées durablement à une autre et même personne par un lien de contrôle; |
+| --- | --- |
+| a) | par une participation, c'est-à-dire le fait de détenir, directement ou par le biais d'un lien de contrôle, 20 % ou plus des droits de vote ou du capital d'une entreprise ; |
+| b) | par un lien de contrôle; ou |
+| c) | par le fait qu'elles sont toutes liées durablement à une autre et même personne par un lien de contrôle; |
+
+| 47) | «marché reconnu»: un marché qui est reconnu comme tel par les autorités compétentes et qui remplit les conditions suivantes:a)il fonctionne régulièrement;b)des règles, établies ou approuvées par les autorités appropriées du pays d'origine du marché, définissent les conditions de fonctionnement du marché, les conditions d'accès au marché, ainsi que les conditions que doit remplir un contrat avant de pouvoir être effectivement négocié sur le marché; etc)il dispose d'un mécanisme de compensation selon lequel les contrats énumérés à l'annexe IV sont soumis à des exigences en matière de marges journalières qui offrent une protection jugée appropriée par les autorités compétentes. |
+| --- | --- |
+| a) | il fonctionne régulièrement; |
+| b) | des règles, établies ou approuvées par les autorités appropriées du pays d'origine du marché, définissent les conditions de fonctionnement du marché, les conditions d'accès au marché, ainsi que les conditions que doit remplir un contrat avant de pouvoir être effectivement négocié sur le marché; et |
+| c) | il dispose d'un mécanisme de compensation selon lequel les contrats énumérés à l'annexe IV sont soumis à des exigences en matière de marges journalières qui offrent une protection jugée appropriée par les autorités compétentes. |
+
+<a id="art_5"></a>
+
+### art_5
+
+Article 5
+
+Les États membres interdisent aux personnes qui ne sont pas des établissements de crédit d'exercer, à titre professionnel, l'activité de réception de dépôts ou d'autres fonds remboursables du public.
+
+Le premier alinéa ne s'applique pas à la réception de dépôts ou d'autres fonds remboursables par un État membre, par des autorités régionales ou locales d'un État membre ou par des organismes publics internationaux dont un ou plusieurs États membres sont membres, ni aux cas visés expressément par les législations nationales ou communautaire, à condition que ces activités soient soumises à des règlements et contrôles visant à la protection des déposants et des investisseurs et applicables à ces cas.
+
+<a id="art_6"></a>
+
+### art_6
+
+Article 6
+
+Les États membres prévoient que les établissements de crédit doivent avoir reçu un agrément avant de commencer leurs activités. Sans préjudice des articles 7 à 12, ils en fixent les conditions et les notifient à la Commission.
+
+<a id="art_7"></a>
+
+### art_7
+
+Article 7
+
+Les États membres prévoient que la demande d'agrément doit être accompagnée d'un programme d'activités dans lequel seront notamment indiqués le genre des opérations envisagées et la structure de l'organisation de l'établissement de crédit.
+
+<a id="art_8"></a>
+
+### art_8
+
+Article 8
+
+Les États membres ne peuvent prévoir que la demande d'agrément soit examinée en fonction des besoins économiques du marché.
+
+<a id="art_9"></a>
+
+### art_9
+
+Article 9
+
+1. Sans préjudice d'autres conditions générales requises par les réglementations nationales, les autorités compétentes n'accordent pas l'agrément lorsque l'établissement de crédit n'a pas de fonds propres distincts et lorsque le capital initial est inférieur à 5 000 000 EUR.
+
+Le «capital initial» englobe le capital et les réserves, tels que visés à l'article 57, points a) et b).
+
+Les États membres peuvent prévoir le maintien en activité des établissements de crédit qui ne remplissent pas la condition relative aux fonds propres distincts et qui existaient au 15 décembre 1979. Ils peuvent dispenser ces établissements de crédit du respect de la condition prévue à l'article 11, paragraphe 1, premier alinéa.
+
+2. Sous réserve des conditions suivantes, les États membres peuvent accorder l'agrément à des catégories particulières d'établissements de crédit dont le capital initial est inférieur à celui spécifié au paragraphe 1:
+
+| a) | le capital initial n'est pas inférieur à 1 000 000 EUR; |
+| --- | --- |
+
+| b) | les États membres intéressés notifient à la Commission les raisons pour lesquelles ils font usage de cette faculté; et |
+| --- | --- |
+
+| c) | dans la liste visée à l'article 14, le nom de l'établissement de crédit est accompagné d'une annotation indiquant que celui-ci n'atteint pas le capital minimal spécifié au paragraphe 1. |
+| --- | --- |
+
+<a id="art_10"></a>
+
+### art_10
+
+Article 10
+
+1. Les fonds propres d'un établissement de crédit ne peuvent devenir inférieurs au montant du capital initial exigé en vertu de l'article 9 lors de son agrément.
+
+2. Les États membres peuvent décider que les établissements de crédit qui existaient au 1er janvier 1993 et dont les fonds propres n'atteignaient pas les niveaux fixés pour le capital initial à l'article 9 peuvent poursuivre leurs activités. Dans ce cas, les fonds propres ne pourront pas devenir inférieurs au montant maximal qu'ils avaient atteint à compter du 22 décembre 1989.
+
+3. Si le contrôle d'un établissement de crédit tombant dans la catégorie visée au paragraphe 2 est pris par une personne physique ou morale différente de celle qui contrôlait précédemment l'établissement, les fonds propres de cet établissement de crédit atteignent au moins le niveau fixé pour le capital initial à l'article 9.
+
+4. Dans certaines circonstances spécifiques et avec le consentement des autorités compétentes, lorsqu'une fusion intervient entre deux ou plusieurs établissements de crédit tombant dans la catégorie visée au paragraphe 2, les fonds propres de l'établissement de crédit résultant de la fusion ne peuvent pas tomber en dessous du total, à la date de la fusion, des fonds propres des établissements de crédit fusionnés, tant que les niveaux appropriés spécifiés à l'article 9n'ont pas été atteints.
+
+5. Si, dans les cas visés aux paragraphes 1, 2 et 4, les fonds propres viennent à diminuer, les autorités compétentes peuvent, lorsque les circonstances le justifient, accorder un délai limité pour que l'établissement de crédit régularise sa situation ou cesse ses activités.
+
+<a id="art_11"></a>
+
+### art_11
+
+Article 11
+
+1. Les autorités compétentes n'accordent l'agrément à l'établissement de crédit qu'à la condition qu'au moins deux personnes déterminent effectivement l'orientation de l'activité de l'établissement de crédit.
+
+Elles n'accordent pas l'agrément lorsque ces personnes ne possèdent pas l'honorabilité nécessaire ou l'expérience adéquate pour exercer ces fonctions.
+
+2. Les États membres exigent:
+
+| a) | des établissements de crédit qui sont des personnes morales et qui ont, conformément à leur droit national, un siège statutaire, que leur administration centrale soit située dans le même État membre que leur siège statutaire, et |
+| --- | --- |
+
+| b) | des autres établissements de crédit, que leur administration centrale soit située dans l'État membre qui a accordé l'agrément et dans lequel ils opèrent de manière effective. |
+| --- | --- |
+
+<a id="art_12"></a>
+
+### art_12
+
+Article 12
+
+1. Les autorités compétentes n'accordent pas l'agrément permettant l'accès à l'activité d'un établissement de crédit à moins d'avoir obtenu communication de l'identité des actionnaires ou associés, directs ou indirects, personnes physiques ou morales, qui y détiennent une participation qualifiée, et du montant de cette participation.
+
+Pour établir l'existence d'une participation qualifiée dans le contexte du présent article, les droits de vote visés à l'article 92 de la directive 2001/34/CE du Parlement européen et du Conseil du 28 mai 2001 concernant l'admission de valeurs mobilières à la cote officielle et l'information à publier sur ces valeurs (16) sont pris en considération.
+
+2. Les autorités compétentes n'accordent pas l'agrément si, pour tenir compte du besoin de garantir une gestion saine et prudente de l'établissement de crédit, elles ne sont pas satisfaites de la qualité des actionnaires ou associés.
+
+3. Lorsque des liens étroits existent entre l'établissement de crédit et d'autres personnes physiques ou morales, les autorités compétentes n'accordent l'agrément que si ces liens n'entravent pas le bon exercice de leur mission de surveillance.
+
+Les autorités compétentes n'accordent pas non plus l'agrément si les dispositions législatives, réglementaires ou administratives d'un pays tiers dont relèvent une ou plusieurs personnes physiques ou morales avec lesquelles l'établissement de crédit a des liens étroits, ou des difficultés tenant à l'application de ces dispositions législatives, réglementaires ou administratives, entravent le bon exercice de leur mission de surveillance.
+
+Les autorités compétentes exigent que les établissements de crédit leur fournissent les informations qu'elles requièrent pour s'assurer du respect en permanence des conditions prévues au présent paragraphe.
+
+<a id="art_13"></a>
+
+### art_13
+
+Article 13
+
+La décision de ne pas accorder l'agrément est motivée et notifiée au demandeur dans les six mois à compter de la réception de la demande ou, si celle-ci est incomplète, dans les six mois à compter de la transmission par le demandeur des renseignements nécessaires à la décision. Il est en tout cas statué dans les douze mois à compter de la réception de la demande.
+
+<a id="art_14"></a>
+
+### art_14
+
+Article 14
+
+Tout agrément est notifié à la Commission.
+
+Le nom de tout établissement de crédit auquel l'agrément a été accordé est inscrit sur une liste. La Commission publie cette liste au Journal officiel de l'Union européenne et la tient à jour.
+
+<a id="art_15"></a>
+
+### art_15
+
+Article 15
+
+1. Avant d'accorder l'agrément à un établissement de crédit, les autorités compétentes consultent les autorités compétentes de l'autre État membre concerné dans les cas suivants:
+
+| a) | l'établissement de crédit concerné est une filiale d'un établissement de crédit agréé dans un autre État membre; |
+| --- | --- |
+
+| b) | l'établissement de crédit concerné est une filiale de l'entreprise mère d'un établissement de crédit agréé dans un autre État membre; ou |
+| --- | --- |
+
+| c) | l'établissement de crédit concerné est contrôlé par les mêmes personnes, physiques ou morales, qu'un établissement de crédit agréé dans un autre État membre. |
+| --- | --- |
+
+2. Avant d'accorder l'agrément à un établissement de crédit, les autorités compétentes consultent les autorités compétentes d'un État membre concerné chargées de la surveillance des entreprises d'assurance ou des entreprises d'investissement dans les cas suivants:
+
+| a) | l'établissement de crédit concerné est une filiale d'une entreprise d'assurance ou d'une entreprise d'investissement agréée dans la Communauté; |
+| --- | --- |
+
+| b) | l'établissement de crédit concerné est une filiale de l'entreprise mère d'une entreprise d'assurance ou d'une entreprise d'investissement agréée dans la Communauté; ou |
+| --- | --- |
+
+| c) | l'établissement de crédit concerné est contrôlé par la même personne, physique ou morale, qu'une entreprise d'assurance ou une entreprise d'investissement agréée dans la Communauté. |
+| --- | --- |
+
+3. Les autorités compétentes concernées visées aux paragraphes 1 et 2 se consultent en particulier aux fins d'évaluer la qualité des actionnaires ainsi que l'honorabilité et la compétence des dirigeants associés à la gestion d'une autre entité du même groupe. Elles se communiquent mutuellement toute information concernant ces questions, dès lors que cette information est pertinente pour l'octroi d'un agrément et pour le contrôle continu du respect des conditions d'exercice.
+
+<a id="art_16"></a>
+
+### art_16
+
+Article 16
+
+Un agrément ou un capital de dotation ne peuvent être exigés par les États membres d'accueil en ce qui concerne les succursales d'établissements de crédit agréés dans d'autres États membres. L'établissement et la surveillance de ces succursales sont régis par les articles 22 et 25, l'article 26, paragraphes 1 à 3, les articles 29 à 37 et l'article 40.
+
+<a id="art_17"></a>
+
+### art_17
+
+Article 17
+
+1. Les autorités compétentes ne peuvent retirer l'agrément accordé à un établissement de crédit que lorsque cet établissement:
+
+| a) | ne fait pas usage de l'agrément dans un délai de douze mois, y renonce expressément ou a cessé d'exercer son activité pendant une période supérieure à six mois, à moins que l'État membre concerné ne prévoie, dans ces cas, que l'agrément devient caduc; |
+| --- | --- |
+
+| b) | a obtenu l'agrément au moyen de fausses déclarations ou par tout autre moyen irrégulier; |
+| --- | --- |
+
+| c) | ne remplit plus les conditions auxquelles l'agrément est lié; |
+| --- | --- |
+
+| d) | ne possède plus de fonds propres suffisants ou n'offre plus la garantie de pouvoir remplir ses obligations vis-à-vis de ses créanciers et, en particulier, n'assure plus la sécurité des fonds qui lui ont été confiés; ou |
+| --- | --- |
+
+| e) | se trouve dans les autres cas de retrait prévus par la réglementation nationale. |
+| --- | --- |
+
+2. Tout retrait d'agrément est motivé et communiqué aux intéressés. Le retrait est notifié à la Commission.
+
+<a id="art_18"></a>
+
+### art_18
+
+Article 18
+
+Les établissements de crédit peuvent, pour l'exercice de leurs activités, utiliser sur tout le territoire de la Communauté la même dénomination que celle qu'ils utilisent dans l'État membre de leur siège, nonobstant les dispositions de l'État membre d'accueil relatives à l'usage des mots «banque», «caisse d'épargne» ou autres dénominations similaires. Au cas où il y aurait un danger de confusion, les États membres d'accueil peuvent exiger, dans un but de clarification, l'adjonction à la dénomination d'une mention explicative.
+
+<a id="art_19"></a>
+
+### art_19
+
+Article 19
+
+1. Les États membres prévoient que toute personne physique ou morale qui envisage de détenir, directement ou indirectement, une participation qualifiée dans un établissement de crédit en informe préalablement les autorités compétentes et communique le montant de cette participation envisagé. Toute personne physique ou morale informe de même les autorités compétentes si elle envisage d'accroître sa participation qualifiée de telle façon que la proportion de droits de vote ou de parts de capital détenue par elle atteigne ou dépasse les seuils de 20 %, 33 % ou 50 % ou que l'établissement de crédit devienne sa filiale.
+
+Sans préjudice du paragraphe 2, les autorités compétentes disposent d'un délai maximal de trois mois à compter de la date d'information prévue aux premier et deuxième alinéas pour s'opposer audit projet si, pour tenir compte du besoin de garantir une gestion saine et prudente de l'établissement de crédit, elles ne sont pas satisfaites de la qualité de la personne concernée. Lorsqu'il n'y a pas opposition au projet, les autorités peuvent fixer un délai maximal pour sa réalisation.
+
+2. Si la personne qui envisage d'acquérir une participation visée au paragraphe 1 est un établissement de crédit agréé, une entreprise d'assurance agréée ou une entreprise d'investissement agréée dans un autre État membre, ou l'entreprise mère d'une telle entité, ou une personne physique ou morale contrôlant une telle entité, et que, en conséquence de cette acquisition, l'établissement de crédit dans lequel l'acquéreur envisage de détenir une participation deviendrait une filiale dudit acquéreur ou serait contrôlée par lui, l'évaluation de son acquisition doit être soumise à la procédure de consultation préalable prévue à l'article 15.
+
+<a id="art_20"></a>
+
+### art_20
+
+Article 20
+
+Les États membres prévoient que toute personne physique ou morale qui envisage de cesser de détenir, directement ou indirectement, une participation qualifiée dans un établissement de crédit doit en informer préalablement les autorités compétentes et communiquer le montant de sa participation envisagé. Toute personne physique ou morale informe de même les autorités compétentes si elle envisage de diminuer sa participation qualifiée de telle façon que la proportion de droits de vote ou de parts de capital détenue par elle descende en dessous des seuils de 20 %, 33 % ou 50 % ou que l'établissement de crédit cesse d'être sa filiale.
+
+<a id="art_21"></a>
+
+### art_21
+
+Article 21
+
+1. Les établissements de crédit informent les autorités compétentes, dès qu'ils en ont connaissance, des acquisitions ou cessions de participations dans leur capital qui font franchir vers le haut ou vers le bas l'un des seuils visés à l'article 19, paragraphe 1, et à l'article 20.
+
+De même, ils communiquent aux autorités compétentes, au moins une fois par an, l'identité des actionnaires ou associés qui possèdent des participations qualifiées ainsi que le montant desdites participations, ainsi que cela résulte par exemple des données enregistrées à l'assemblée générale annuelle des actionnaires ou associés ou des informations reçues au titre des réglementations relatives aux sociétés cotées à une bourse de valeurs.
+
+2. Les États membres prévoient que, au cas où l'influence exercée par les personnes visées à l'article 19, paragraphe 1, est susceptible de se faire au détriment d'une gestion prudente et saine de l'établissement, les autorités compétentes prennent les mesures appropriées en vue de mettre fin à cette situation. Ces mesures peuvent comprendre des injonctions, des sanctions à l'égard des dirigeants ou la suspension de l'exercice des droits de vote attachés aux actions ou parts détenues par les actionnaires ou associés en question.
+
+Des mesures similaires s'appliquent aux personnes physiques ou morales qui ne respectent pas l'obligation de fournir préalablement des informations conformément à l'article 19, paragraphe 1.
+
+Lorsqu'une participation est acquise en dépit de l'opposition des autorités compétentes, les États membres, indépendamment d'autres sanctions à adopter, prévoient soit la suspension de l'exercice des droits de vote correspondants, soit la nullité des votes émis ou la possibilité de les annuler.
+
+3. Pour établir l'existence d'une participation qualifiée et des autres taux de participation visés au présent article, les droits de vote visés à l'article 92 de la directive 2001/34/CE sont pris en considération.
+
+<a id="art_22"></a>
+
+### art_22
+
+Article 22
+
+1. Les autorités compétentes de l'État membre d'origine exigent que tout établissement de crédit dispose d'un solide dispositif de gouvernement d'entreprise, comprenant notamment une structure organisationnelle claire avec un partage des responsabilités qui soit bien défini, transparent et cohérent, des procédures efficaces de détection, de gestion, de contrôle et de déclaration des risques auquel il est ou pourrait être exposé et des mécanismes adéquats de contrôle interne, y compris des procédures administratives et comptables saines.
+
+2. Le dispositif, les procédures et les mécanismes visés au paragraphe 1 sont exhaustifs et adaptés à la nature, à l'échelle et à la complexité des activités de l'établissement de crédit. Les critères techniques prévus à l'annexe V sont pris en considération.
+
+<a id="art_23"></a>
+
+### art_23
+
+Article 23
+
+Les États membres prévoient que les activités dont la liste figure à l'annexe I peuvent être exercées sur leur territoire, selon les dispositions de l'article 25, de l'article 26, paragraphes 1 à 3, de l'article 28, paragraphes 1 et 2, et des articles 29 à 37, tant au moyen de l'établissement d'une succursale que par voie de prestation de services par tout établissement de crédit agréé et contrôlé par les autorités compétentes d'un autre État membre, sous réserve que ces activités soient couvertes par l'agrément.
+
+<a id="art_24"></a>
+
+### art_24
+
+Article 24
+
+| a) | la ou les entreprises mères sont agréées comme établissements de crédit dans l'État membre du droit duquel relève l'établissement financier, |
+| --- | --- |
+
+| b) | les activités en question sont effectivement exercées sur le territoire du même État membre, |
+| --- | --- |
+
+| c) | la ou les entreprises mères détiennent 90 % ou plus des droits de vote attachés à la détention de parts ou d'actions de l'établissement financier, |
+| --- | --- |
+
+| d) | la ou les entreprises mères justifient, à la satisfaction des autorités compétentes, de la gestion prudente de l'établissement financier et se sont déclarées, avec l'accord des autorités compétentes de l'État membre d'origine, garantes solidairement des engagements pris par l'établissement financier, et |
+| --- | --- |
+
+| e) | l'établissement financier est inclus effectivement, en particulier pour les activités en question, dans la surveillance sur une base consolidée à laquelle est soumise son entreprise mère, ou chacune de ses entreprises mères, conformément au titre V, chapitre 4, section 1, notamment aux fins des exigences de fonds propres minimaux prévues à l'article 75 pour le contrôle des grands risques et aux fins de la limitation des participations prévue aux articles 120 à 122. |
+| --- | --- |
+
+Le respect de ces conditions est vérifié par les autorités compétentes de l'État membre d'origine, qui délivrent alors à l'établissement financier une attestation qui est jointe aux notifications visées aux articles 25 et 28.
+
+Les autorités compétentes de l'État membre d'origine assurent la surveillance de l'établissement financier suivant les dispositions de l'article 10, paragraphe 1 et des articles 19 à 22, 40, 42 à 52 et 54.
+
+2. Si un établissement financier visé au paragraphe 1, premier alinéa, cesse de remplir l'une des conditions fixées, l'État membre d'origine en avertit les autorités compétentes de l'État membre d'accueil et l'activité exercée par cet établissement financier dans l'État membre d'accueil tombe dans le champ d'application de la législation de l'État membre d'accueil.
+
+3. Les paragraphes 1 et 2 s'appliquent mutatis mutandis aux filiales de tout établissement financier visé au paragraphe 1, premier alinéa.
+
+<a id="art_25"></a>
+
+### art_25
+
+Article 25
+
+1. Tout établissement de crédit qui désire établir une succursale sur le territoire d'un autre État membre le notifie aux autorités compétentes de son État membre d'origine.
+
+2. Les États membres exigent que l'établissement de crédit qui désire établir une succursale dans un autre État membre accompagne la notification visée au paragraphe 1 des informations suivantes:
+
+| a) | l'État membre sur le territoire duquel il envisage d'établir une succursale; |
+| --- | --- |
+
+| b) | un programme d'activités dans lequel seront notamment indiqués le type d'opérations envisagées et la structure de l'organisation de la succursale; |
+| --- | --- |
+
+| c) | l'adresse à laquelle les documents peuvent lui être réclamés dans l'État membre d'accueil; et |
+| --- | --- |
+
+| d) | le nom des personnes qui assureront la direction de la succursale. |
+| --- | --- |
+
+3. À moins que les autorités compétentes de l'État membre d'origine n'aient des raisons de douter, compte tenu du projet en question, de l'adéquation des structures administratives ou de la situation financière de l'établissement de crédit, elles communiquent les informations visées au paragraphe 2, dans les trois mois à compter de la réception de ces informations, aux autorités compétentes de l'État membre d'accueil et en avisent l'établissement de crédit concerné.
+
+Les autorités compétentes de l'État membre d'origine communiquent également le montant des fonds propres et la somme des exigences de capital imposées en vertu de l'article 75 de l'établissement de crédit.
+
+Par dérogation au deuxième alinéa, dans le cas visé à l'article 24, les autorités compétentes de l'État membre d'origine communiquent le montant des fonds propres de l'établissement financier et la somme des exigences de fonds propres consolidés et de capital consolidé imposées en vertu de l'article 75 de l'établissement de crédit qui est son entreprise mère.
+
+4. Lorsque les autorités compétentes de l'État membre d'origine refusent de communiquer les informations visées au paragraphe 2 aux autorités compétentes de l'État membre d'accueil, elles font connaître les motifs de ce refus à l'établissement de crédit concerné dans les trois mois suivant la réception de toutes les informations.
+
+Ce refus, ou l'absence de réponse, peut faire l'objet d'un recours juridictionnel dans l'État membre d'origine.
+
+<a id="art_26"></a>
+
+### art_26
+
+Article 26
+
+1. Avant que la succursale d'un établissement de crédit ne commence à exercer ses activités, les autorités compétentes de l'État membre d'accueil disposent de deux mois à compter de la réception de la communication visée à l'article 25 pour préparer la surveillance de l'établissement de crédit conformément à la section 5 et pour indiquer, le cas échéant, les conditions dans lesquelles, pour des raisons d'intérêt général, ces activités sont exercées dans l'État membre d'accueil.
+
+2. Dès réception d'une communication des autorités compétentes de l'État membre d'accueil, ou, en l'absence de communication de la part de celles-ci, à l'échéance du délai prévu au paragraphe 1, la succursale peut être établie et commencer ses activités.
+
+3. En cas de modification du contenu de l'une des informations notifiées conformément à l'article 25, paragraphe 2, points b), c) ou d), l'établissement de crédit notifie par écrit cette modification aux autorités compétentes de l'État membre d'origine et de l'État membre d'accueil un mois au moins avant d'effectuer le changement, pour que les autorités compétentes de l'État membre d'origine puissent se prononcer sur cette modification aux termes de l'article 25 et les autorités compétentes de l'État membre d'accueil aux termes du paragraphe 1 du présent article.
+
+4. Les succursales qui ont commencé leurs activités, conformément aux dispositions de l'État membre d'accueil, avant le 1er janvier 1993, sont censées avoir fait l'objet de la procédure prévue à l'article 25 et aux paragraphes 1 et 2 du présent article. Elles sont régies, à compter du 1er janvier 1993, par les dispositions du paragraphe 3 du présent article et par celles des articles 23 et 43 ainsi que des sections 2 et 5.
+
+<a id="art_27"></a>
+
+### art_27
+
+Article 27
+
+Plusieurs sièges d'exploitation créés dans le même État membre par un établissement de crédit ayant son siège dans un autre État membre sont considérés comme une seule succursale.
+
+<a id="art_28"></a>
+
+### art_28
+
+Article 28
+
+1. Tout établissement de crédit qui désire exercer pour la première fois ses activités sur le territoire d'un autre État membre dans le cadre de la libre prestation de services notifie aux autorités compétentes de l'État membre d'origine celles des activités comprises dans la liste figurant à l'annexe I qu'il envisage d'exercer.
+
+2. Les autorités compétentes de l'État membre d'origine communiquent aux autorités compétentes de l'État membre d'accueil la notification prévue au paragraphe 1, dans un délai d'un mois à compter de la réception de celle-ci.
+
+3. Le présent article ne porte pas atteinte aux droits acquis par les établissements de crédit opérant par voie de prestation de services avant le 1er janvier 1993.
+
+<a id="art_29"></a>
+
+### art_29
+
+Article 29
+
+L'État membre d'accueil peut exiger, à des fins statistiques, que tout établissement de crédit ayant une succursale sur son territoire adresse aux autorités compétentes de cet État un rapport périodique sur les opérations effectuées sur son territoire.
+
+Pour l'exercice des responsabilités qui lui incombent au titre de l'article 41, l'État membre d'accueil peut exiger des succursales d'établissements de crédit originaires d'autres États membres les mêmes informations que celles qu'il exige à cette fin des établissements de crédit nationaux.
+
+<a id="art_30"></a>
+
+### art_30
+
+Article 30
+
+1. Lorsque les autorités compétentes de l'État membre d'accueil constatent qu'un établissement de crédit ayant une succursale ou opérant en prestation de services sur son territoire ne respecte pas les dispositions légales arrêtées par cet État en application des dispositions de la présente directive, qui comportent une compétence des autorités compétentes de l'État membre d'accueil, elles exigent que l'établissement de crédit concerné mette fin à cette situation irrégulière.
+
+2. Si l'établissement de crédit concerné ne fait pas le nécessaire, les autorités compétentes de l'État membre d'accueil en informent les autorités compétentes de l'État membre d'origine.
+
+Les autorités compétentes de l'État membre d'origine prennent, dans les plus brefs délais, toutes les mesures appropriées pour que l'établissement de crédit concerné mette fin à cette situation irrégulière. La nature de ces mesures est communiquée aux autorités compétentes de l'État membre d'accueil.
+
+3. Si, en dépit des mesures ainsi prises par l'État membre d'origine ou parce que ces mesures apparaissent inadéquates ou font défaut dans cet État, l'établissement de crédit persiste à enfreindre les dispositions légales visées au paragraphe 1 qui sont en vigueur dans l'État membre d'accueil, ce dernier peut, après en avoir informé les autorités compétentes de l'État membre d'origine, prendre les mesures appropriées pour prévenir ou réprimer de nouvelles irrégularités et, pour autant que cela soit nécessaire, empêcher cet établissement de crédit de commencer de nouvelles opérations sur son territoire. Les États membres veillent à ce que les pièces nécessaires pour l'adoption de telles mesures puissent être signifiées sur leur territoire aux établissements de crédit.
+
+<a id="art_31"></a>
+
+### art_31
+
+Article 31
+
+Les dispositions des articles 29 et 30 n'affectent pas le pouvoir de l'État membre d'accueil de prendre des mesures appropriées pour prévenir ou réprimer les actes sur son territoire qui sont contraires aux dispositions légales qu'il a arrêtées pour des raisons d'intérêt général. Ceci comporte la possibilité d'empêcher un établissement de crédit en infraction de commencer de nouvelles opérations sur son territoire.
+
+<a id="art_32"></a>
+
+### art_32
+
+Article 32
+
+Toute mesure prise en application des dispositions de l'article 30, paragraphes 2 et 3, ou de l'article 31, et qui comporte des sanctions et des restrictions à l'exercice de la liberté de prestation de services, est dûment motivée et communiquée à l'établissement de crédit concerné. Chacune de ces mesures peut faire l'objet d'un recours juridictionnel dans l'État membre où elle a été prise.
+
+<a id="art_33"></a>
+
+### art_33
+
+Article 33
+
+Avant de suivre la procédure prévue à l'article 30, les autorités compétentes de l'État membre d'accueil peuvent, en cas d'urgence, prendre les mesures conservatoires indispensables à la protection des intérêts des déposants, investisseurs ou autres personnes à qui des services sont fournis. La Commission et les autorités compétentes des autres États membres intéressés sont informées de ces mesures dans les plus brefs délais.
+
+La Commission, après consultation des autorités compétentes des États membres intéressés, peut décider que l'État membre concerné doit modifier ou supprimer ces mesures.
+
+<a id="art_34"></a>
+
+### art_34
+
+Article 34
+
+L'État membre d'accueil peut prendre les mesures appropriées pour prévenir ou réprimer les irrégularités sur son territoire en exerçant les compétences qui lui sont attribuées en vertu de la présente directive. Ceci comporte la possibilité d'empêcher un établissement de crédit en infraction de commencer de nouvelles opérations sur son territoire.
+
+<a id="art_35"></a>
+
+### art_35
+
+Article 35
+
+En cas de retrait de l'agrément, les autorités compétentes de l'État membre d'accueil en sont informées et prennent les mesures appropriées pour empêcher l'établissement de crédit concerné de commencer de nouvelles opérations sur son territoire et pour sauvegarder les intérêts des déposants.
+
+<a id="art_36"></a>
+
+### art_36
+
+Article 36
+
+Les États membres communiquent à la Commission le nombre et la nature des cas dans lesquels il y a eu refus, conformément à l'article 25 et à l'article 26, paragraphes 1 à 3, ou dans lesquels des mesures ont été prises, conformément à l'article 30, paragraphe 3.
+
+<a id="art_37"></a>
+
+### art_37
+
+Article 37
+
+La présente section n'empêche pas les établissements de crédit dont le siège est situé dans un autre État membre de faire de la publicité pour leurs services par tous les moyens de communication disponibles dans l'État membre d'accueil, pour autant qu'ils respectent les règles éventuelles régissant la forme et le contenu de cette publicité arrêtées pour des raisons d'intérêt général.
+
+<a id="art_38"></a>
+
+### art_38
+
+Article 38
+
+1. Pour l'accès à leur activité et pour son exercice, les États membres n'appliquent pas aux succursales d'établissements de crédit ayant leur siège hors de la Communauté des dispositions conduisant à un traitement plus favorable que celui auquel sont soumises les succursales d'établissements de crédit ayant leur siège dans la Communauté.
+
+2. Les autorités compétentes notifient à la Commission et au comité bancaire européen tous les agréments de succursales accordés aux établissements de crédit ayant leur siège hors de la Communauté.
+
+3. Sans préjudice du paragraphe 1, la Communauté peut, par des accords conclus avec un ou plusieurs pays tiers, convenir de l'application de dispositions qui accordent aux succursales d'un établissement de crédit ayant son siège hors de la Communauté le même traitement sur l'ensemble du territoire de la Communauté.
+
+<a id="art_39"></a>
+
+### art_39
+
+Article 39
+
+1. La Commission peut soumettre au Conseil, soit à la demande d'un État membre, soit de sa propre initiative, des propositions en vue de négocier des accords avec un ou plusieurs pays tiers dans le but de convenir des modalités d'application de la surveillance sur une base consolidée aux entités suivantes:
+
+| a) | les établissements de crédit dont l'entreprise mère a un siège dans un pays tiers; ou |
+| --- | --- |
+
+| b) | les établissements de crédit situés dans un pays tiers et dont l'établissement de crédit ou la compagnie financière holding qui en est l'entreprise mère a son siège dans la Communauté. |
+| --- | --- |
+
+2. Les accords visés au paragraphe 1 tendent en particulier à garantir la possibilité:
+
+| a) | pour les autorités compétentes des États membres, d'obtenir les informations nécessaires à la surveillance, sur la base de la situation financière consolidée, d'un établissement de crédit ou d'une compagnie financière holding situés dans la Communauté et ayant pour filiale un établissement de crédit ou un établissement financier situés en dehors de la Communauté, ou détenant une participation dans de tels établissements, et |
+| --- | --- |
+
+| b) | pour les autorités compétentes de pays tiers, d'obtenir les informations nécessaires à la surveillance des entreprises mères dont le siège est situé sur leur territoire et qui ont pour filiale un établissement de crédit ou un établissement financier situés dans un ou plusieurs États membres, ou qui détiennent des participations dans de tels établissements. |
+| --- | --- |
+
+3. Sans préjudice de l'article 300, paragraphes 1 et 2, du traité, la Commission, assistée du comité bancaire européen, évalue l'issue des négociations visées au paragraphe 1 et la situation qui en résulte.
+
+<a id="art_40"></a>
+
+### art_40
+
+Article 40
+
+1. La surveillance prudentielle d'un établissement de crédit, y compris celle des activités qu'il exerce conformément aux dispositions des articles 23 et 24, incombe aux autorités compétentes de l'État membre d'origine, sans préjudice des dispositions de la présente directive qui confèrent une responsabilité aux autorités compétentes de l'État membre d'accueil.
+
+2. Le paragraphe 1 ne fait pas obstacle à la surveillance sur une base consolidée en vertu de la présente directive.
+
+<a id="art_41"></a>
+
+### art_41
+
+Article 41
+
+Dans l'attente d'une coordination ultérieure, l'État membre d'accueil reste chargé, en collaboration avec les autorités compétentes de l'État membre d'origine, de la surveillance de la liquidité de la succursale d'un établissement de crédit.
+
+Sans préjudice des mesures nécessaires pour le renforcement du système monétaire européen, l'État membre d'accueil conserve l'entière responsabilité des mesures résultant de la mise en œuvre de sa politique monétaire.
+
+Ces mesures ne peuvent prévoir de traitement discriminatoire ou restrictif du fait que l'établissement de crédit est agréé dans un autre État membre.
+
+<a id="art_42"></a>
+
+### art_42
+
+Article 42
+
+En vue de surveiller l'activité des établissements de crédit opérant, notamment par le moyen d'une succursale, dans un ou plusieurs États membres, autre que celui de leur siège, les autorités compétentes des États membres concernés collaborent étroitement. Elles se communiquent toutes les informations relatives à la direction, à la gestion et à la propriété de ces établissements de crédit, susceptibles de faciliter leur surveillance et l'examen des conditions de leur agrément, ainsi que toutes les informations susceptibles de faciliter le contrôle de ces établissements en particulier en matière de liquidité, de solvabilité, de garantie des dépôts, de limitation des grands risques, d'organisation administrative et comptable et de mécanismes de contrôle interne.
+
+<a id="art_43"></a>
+
+### art_43
+
+Article 43
+
+1. Les États membres d'accueil prévoient que, lorsqu'un établissement de crédit agréé dans un autre État membre exerce son activité par le moyen d'une succursale, les autorités compétentes de l'État membre d'origine peuvent, après en avoir informé les autorités compétentes de l'État membre d'accueil, procéder elles-mêmes ou par l'intermédiaire de personnes qu'elles mandatent à cet effet à la vérification sur place des informations visées à l'article 42.
+
+2. Les autorités compétentes de l'État membre d'origine peuvent également recourir, pour la vérification des succursales, à l'une des autres procédures prévues à l'article 141.
+
+3. Les paragraphes 1 et 2 ne portent pas préjudice au droit des autorités compétentes de l'État membre d'accueil de procéder à la vérification sur place des succursales établies sur leur territoire pour l'exercice des responsabilités qui leur incombent au titre de la présente directive.
+
+<a id="art_44"></a>
+
+### art_44
+
+Article 44
+
+1. Les États membres prévoient que toutes les personnes exerçant ou ayant exercé une activité pour les autorités compétentes, ainsi que les réviseurs ou les experts mandatés par les autorités compétentes, sont tenus au secret professionnel.
+
+Les informations confidentielles qu'ils reçoivent à titre professionnel ne peuvent être divulguées à quelque personne ou autorité que ce soit, excepté sous une forme sommaire ou agrégée de façon à ce que les établissements de crédit ne puissent pas être identifiés, sans préjudice des cas relevant du droit pénal.
+
+Néanmoins, lorsqu'un établissement de crédit a été déclaré en faillite ou que sa liquidation forcée a été ordonnée par un tribunal, les informations confidentielles qui ne concernent pas les tiers impliqués dans les tentatives de sauvetage de cet établissement de crédit peuvent être divulguées dans le cadre de procédures civiles ou commerciales.
+
+2. Le paragraphe 1 ne fait pas obstacle à ce que les autorités compétentes des différents États membres procèdent aux échanges d'informations prévus par la présente directive ainsi que par d'autres directives applicables aux établissements de crédit. Ces informations tombent sous le coup du secret professionnel visé au paragraphe 1.
+
+<a id="art_45"></a>
+
+### art_45
+
+Article 45
+
+Les autorités compétentes qui, au titre de l'article 44, reçoivent des informations confidentielles ne peuvent les utiliser que dans l'exercice de leurs fonctions et uniquement aux fins suivantes:
+
+| a) | pour l'examen des conditions d'accès à l'activité des établissements de crédit et pour faciliter le contrôle, sur une base individuelle et sur une base consolidée, de l'exercice de cette activité, en particulier en matière de surveillance de la liquidité, de la solvabilité, des grands risques, de l'organisation administrative et comptable et des mécanismes de contrôle interne; |
+| --- | --- |
+
+| b) | pour l'application de sanctions; |
+| --- | --- |
+
+| c) | dans le cadre d'un recours administratif contre une décision des autorités compétentes; ou |
+| --- | --- |
+
+| d) | dans le cadre de procédures juridictionnelles engagées en vertu de l'article 55 ou de dispositions spéciales prévues par la présente directive ainsi que par d'autres directives prises dans le domaine des établissements de crédit. |
+| --- | --- |
+
+<a id="art_46"></a>
+
+### art_46
+
+Article 46
+
+Les États membres peuvent conclure avec les autorités compétentes de pays tiers ou avec les autorités ou organes de ces pays tels que définis à l'article 47 et à l'article 48, paragraphe 1, des accords de coopération qui prévoient des échanges d'informations, pour autant que les informations divulguées bénéficient de garanties de secret professionnel au moins équivalentes à celles qui sont visées à l'article 44, paragraphe 1. Cet échange d'informations est destiné à l'accomplissement de la mission de surveillance des autorités ou organes mentionnés.
+
+Lorsque les informations proviennent d'un autre État membre, elles ne peuvent être divulguées qu'avec l'accord exprès des autorités compétentes qui ont divulgué lesdites informations et, le cas échéant, exclusivement aux fins pour lesquelles ces dernières autorités ont marqué leur accord.
+
+<a id="art_47"></a>
+
+### art_47
+
+Article 47
+
+L'article 44, paragraphe 1, et l'article 45 ne font pas obstacle à l'échange d'informations, à l'intérieur d'un même État membre lorsqu'il y existe plusieurs autorités compétentes, ou entre États membres, entre les autorités compétentes et les autorités, organes et personnes suivants:
+
+| a) | les autorités investies de la mission publique de surveillance d'autres institutions financières et des compagnies d'assurance ainsi que les autorités chargées de la surveillance des marchés financiers, |
+| --- | --- |
+
+| b) | les organes impliqués dans la liquidation et la faillite des établissements de crédit et autres procédures similaires, et |
+| --- | --- |
+
+| c) | les personnes chargées du contrôle légal des comptes des établissements de crédit et d'autres établissements financiers, |
+| --- | --- |
+
+pour l'accomplissement de leur mission de surveillance.
+
+L'article 44, paragraphe 1, et l'article 45 n'empêchent pas la transmission, aux organismes chargés de la gestion des systèmes de garantie des dépôts, des informations nécessaires à l'accomplissement de leur fonction.
+
+Dans les deux cas, les informations reçues tombent sous le coup du secret professionnel prescrit à l'article 44, paragraphe 1.
+
+<a id="art_48"></a>
+
+### art_48
+
+Article 48
+
+1. Nonobstant les dispositions des articles 44 à 46, les États membres peuvent autoriser des échanges d'informations entre les autorités compétentes et les autorités suivantes:
+
+| a) | les autorités chargées de la surveillance des organes impliqués dans la liquidation et la faillite des établissements de crédit et dans d'autres procédures similaires; et |
+| --- | --- |
+
+| b) | les autorités chargées de la surveillance des personnes chargées du contrôle légal des comptes des entreprises d'assurance, des établissements de crédit, des entreprises d'investissement et d'autres établissements financiers. |
+| --- | --- |
+
+Dans ce cas, les États membres exigent que les conditions suivantes au moins soient remplies:
+
+| a) | les informations sont destinées à l'accomplissement de la mission de surveillance visée au premier alinéa; |
+| --- | --- |
+
+| b) | les informations reçues dans ce cadre sont soumises au secret professionnel prescrit à l'article 44, paragraphe 1; et |
+| --- | --- |
+
+| c) | lorsque les informations proviennent d'un autre État membre, elles ne peuvent être divulguées qu'avec l'accord explicite des autorités compétentes qui ont divulgué lesdites informations et, le cas échéant, exclusivement aux fins pour lesquelles ces dernières autorités ont marqué leur accord. |
+| --- | --- |
+
+Les États membres communiquent à la Commission et aux autres États membres l'identité des autorités qui peuvent recevoir des informations en vertu du présent paragraphe.
+
+2. Nonobstant les dispositions des articles 44 à 46, les États membres peuvent, dans le but de renforcer la stabilité du système financier, y compris son intégrité, autoriser l'échange d'informations entre les autorités compétentes et les autorités ou organes chargés par la loi de la détection des infractions au droit des sociétés et des enquêtes sur ces infractions.
+
+Dans ce cas, les États membres exigent que les conditions suivantes au moins soient remplies:
+
+| a) | les informations sont destinées à l'accomplissement de la mission visée au premier alinéa; |
+| --- | --- |
+
+| b) | les informations reçues dans ce cadre sont soumises au secret professionnel prescrit à l'article 44, paragraphe 1; et |
+| --- | --- |
+
+| c) | lorsque les informations proviennent d'un autre État membre, elles ne peuvent être divulguées qu'avec l'accord explicite des autorités compétentes qui ont divulgué lesdites informations et, le cas échéant, exclusivement aux fins pour lesquelles ces dernières autorités ont marqué leur accord. |
+| --- | --- |
+
+Si, dans un État membre, les autorités ou organes visés au premier alinéa accomplissent leur mission de détection ou d'enquête en faisant appel, au vu de leur compétence spécifique, à des personnes mandatées à cet effet et n'appartenant pas à la fonction publique, la possibilité d'échanges d'informations prévue au premier alinéa peut être étendue à ces personnes aux conditions prescrites au deuxième alinéa.
+
+Pour l'application du troisième alinéa, les autorités ou organes visés au premier alinéa communiquent aux autorités compétentes qui ont divulgué les informations l'identité et le mandat précis des personnes à qui seront transmises ces informations.
+
+Les États membres communiquent à la Commission et aux autres États membres l'identité des autorités ou organes qui peuvent recevoir des informations en vertu du présent article.
+
+La Commission établit un rapport sur l'application des dispositions du présent article.
+
+<a id="art_49"></a>
+
+### art_49
+
+Article 49
+
+La présente section ne fait pas obstacle à ce qu'une autorité compétente transmette aux entités suivantes des informations destinées à l'accomplissement de leur mission:
+
+| a) | les banques centrales et autres organismes à vocation similaire en tant qu'autorités monétaires; et |
+| --- | --- |
+
+| b) | le cas échéant, d'autres autorités publiques chargées de la surveillance des systèmes de paiement. |
+| --- | --- |
+
+La présente section ne fait pas obstacle à ce que ces autorités ou organismes communiquent aux autorités compétentes les informations qui leur sont nécessaires aux fins de l'article 45.
+
+Les informations reçues dans ce cadre sont soumises au secret professionnel prescrit à l'article 44, paragraphe 1.
+
+<a id="art_50"></a>
+
+### art_50
+
+Article 50
+
+Nonobstant l'article 44, paragraphe 1, et l'article 45, les États membres peuvent autoriser, en vertu de dispositions législatives, la communication de certaines informations à d'autres départements de leurs administrations centrales responsables pour la législation de surveillance des établissements de crédit, des établissements financiers, des services d'investissement et des compagnies d'assurance, ainsi qu'aux inspecteurs mandatés par ces départements.
+
+Ces communications ne peuvent toutefois être fournies que lorsque cela s'avère nécessaire pour des raisons de contrôle prudentiel.
+
+<a id="art_51"></a>
+
+### art_51
+
+Article 51
+
+Les États membres prévoient que les informations reçues au titre de l'article 44, paragraphe 2, et de l'article 47 et celles obtenues au moyen des vérifications sur place visées à l'article 43, paragraphes 1 et 2, ne peuvent jamais faire l'objet des communications visées à l'article 50, sauf accord explicite de l'autorité compétente ayant communiqué les informations ou de l'autorité compétente de l'État membre où la vérification sur place a été effectuée.
+
+<a id="art_52"></a>
+
+### art_52
+
+Article 52
+
+Les dispositions de la présente section ne font pas obstacle à ce que les autorités compétentes d'un État membre communiquent les informations visées aux articles 44 à 46 à une chambre de compensation ou un autre organisme similaire reconnu par la loi nationale pour assurer des services de compensation ou de règlement pour un de leurs marchés nationaux, si elles considèrent qu'une telle communication est nécessaire afin de garantir le fonctionnement régulier de ces organismes par rapport à des manquements, même potentiels, d'un intervenant sur ce marché. Les informations reçues dans ce cadre sont soumises au secret professionnel prescrit à l'article 44, paragraphe 1.
+
+Les États membres veillent toutefois, à ce que les informations reçues en vertu de l'article 44, paragraphe 2, ne puissent être divulguées, dans le cas visé au présent article, sans le consentement explicite des autorités compétentes qui ont divulgué les informations.
+
+<a id="art_53"></a>
+
+### art_53
+
+Article 53
+
+1. Les États membres prévoient au moins que toute personne agréée au sens de la directive 84/253/CEE (17), exerçant auprès d'un établissement de crédit la mission visée à l'article 51 de la directive 78/660/CEE, à l'article 37 de la directive 83/349/CEE ou à l'article 31 de la directive 85/611/CEE (18), ou toute autre mission légale, a l'obligation de signaler rapidement aux autorités compétentes tout fait ou décision concernant cet établissement de crédit dont elle a eu connaissance dans l'exercice de cette mission, de nature:
+
+| a) | à constituer une violation sur le fond des dispositions législatives, réglementaires ou administratives qui établissent les conditions d'agrément ou qui régissent de manière spécifique l'exercice de l'activité des établissements de crédit; |
+| --- | --- |
+
+| b) | à porter atteinte à la continuité de l'exploitation de l'établissement de crédit; ou |
+| --- | --- |
+
+| c) | à entraîner le refus de la certification des comptes ou l'émission de réserves. |
+| --- | --- |
+
+Les États membres prévoient au moins que la même obligation s'applique à cette personne en ce qui concerne les faits ou décisions dont elle a connaissance dans le cadre d'une mission telle que visée au premier alinéa, exercée auprès d'une entreprise ayant un lien étroit découlant d'un lien de contrôle avec l'établissement de crédit auprès duquel elle s'acquitte de cette mission.
+
+2. La divulgation de bonne foi aux autorités compétentes, par les personnes agréées au sens de la directive 84/253/CEE, de faits ou décisions visés au paragraphe 1 ne constitue pas une violation d'une quelconque restriction à la divulgation d'informations imposée par contrat ou par une disposition législative, réglementaire ou administrative et n'entraîne pour ces personnes aucune responsabilité d'aucune sorte.
+
+<a id="art_54"></a>
+
+### art_54
+
+Article 54
+
+Sans préjudice des procédures de retrait de l'agrément et des dispositions de droit pénal, les États membres prévoient que leurs autorités compétentes respectives peuvent prononcer des sanctions contre les établissements de crédit, ou leurs dirigeants responsables, qui enfreignent les dispositions législatives, réglementaires ou administratives en matière de contrôle ou d'exercice de leur activité, ou prendre des mesures dont l'application vise à mettre fin aux infractions constatées ou aux causes de celles-ci.
+
+<a id="art_55"></a>
+
+### art_55
+
+Article 55
+
+Les États membres veillent à ce que les décisions prises à l'égard d'un établissement de crédit en application des dispositions législatives, réglementaires et administratives arrêtées conformément à la présente directive puisse faire l'objet d'un recours juridictionnel. Il en est de même au cas où il n'aurait pas été statué, dans les six mois qui ont suivi son introduction, sur une demande d'agrément comportant tous les éléments requis par les dispositions en vigueur.
+
+<a id="art_56"></a>
+
+### art_56
+
+Article 56
+
+Chaque fois qu'un État membre, en application de la législation communautaire relative à la surveillance prudentielle à exercer sur un établissement de crédit en activité, arrête, par voie législative, réglementaire ou administrative, une disposition qui utilise le terme de fonds propres ou se réfère à cette notion, il veille à ce que ce terme ou cette notion concorde avec la définition donnée aux articles 57 à 61 et 63 à 66.
+
+<a id="art_57"></a>
+
+### art_57
+
+Article 57
+
+Sous réserve des limites fixées à l'article 66, les fonds propres non consolidés des établissements de crédit se composent des éléments suivants:
+
+| a) | le capital, au sens de l'article 22 de la directive 86/635/CEE, dans la mesure où il a été versé, auquel est ajouté le compte des primes d'émission, à l'exclusion toutefois des actions préférentielles cumulatives; |
+| --- | --- |
+
+| b) | les réserves au sens de l'article 23 de la directive 86/635/CEE, et les résultats reportés par affectation du résultat final; |
+| --- | --- |
+
+| c) | les fonds pour risques bancaires généraux au sens de l'article 38 de la directive 86/635/CEE; |
+| --- | --- |
+
+| d) | les réserves de réévaluation au sens de l'article 33 de la directive 78/660/CEE; |
+| --- | --- |
+
+| e) | les corrections de valeur au sens de l'article 37, paragraphe 2, de la directive 86/635/CEE, |
+| --- | --- |
+
+| f) | les autres éléments au sens de l'article 63; |
+| --- | --- |
+
+| g) | les engagements des membres des établissements de crédit constitués sous la forme de société coopérative et les engagements solidaires des emprunteurs de certains établissements organisés sous la forme de fonds, visés à l'article 64, paragraphe 1; et |
+| --- | --- |
+
+| h) | les actions préférentielles cumulatives à échéance fixe ainsi que les emprunts subordonnés, visés à l'article 64, paragraphe 3. |
+| --- | --- |
+
+Les éléments suivants sont portés en déduction conformément à l'article 66:
+
+| i) | les actions propres à la valeur comptable détenues par l'établissement de crédit; |
+| --- | --- |
+
+| j) | les actifs incorporels au sens de l'article 4 «Actif», point 9, de la directive 86/635/CEE; |
+| --- | --- |
+
+| k) | les résultats négatifs d'une certaine importance de l'exercice en cours; |
+| --- | --- |
+
+| l) | les participations dans d'autres établissements de crédit et établissements financiers supérieures à 10 % du capital de ces derniers; |
+| --- | --- |
+
+| m) | les créances subordonnées et les instruments visés à l'article 63 et à l'article 64, paragraphe 3, que l'établissement de crédit détient sur des établissements de crédit et des établissements financiers dans lesquels il a une participation supérieure à 10 % de leur capital; |
+| --- | --- |
+
+| n) | les participations dans d'autres établissements de crédit et établissements financiers inférieures ou égales à 10 % du capital de ces derniers, ainsi que les créances subordonnées et les instruments visés à l'article 63 et à l'article 64, paragraphe 3, que l'établissement de crédit détient sur des établissements de crédit ou des établissements financiers autres que ceux visés aux points l) et m) pour le montant du total de ces participations, créances subordonnées et instruments qui dépassent 10 % des fonds propres de cet établissement de crédit calculés avant la déduction des éléments visés aux points l) à p); |
+| --- | --- |
+
+| o) | les participations, au sens de l'article 4, point 10), qu'un établissement de crédit détient dans:i)des entreprises d'assurance au sens de l'article 6 de la directive 73/239/CEE (19), de l'article 4 de la directive 2002/83/CE (20) ou de l'article 1er, point b), de la directive 98/78/CE (21),ii)des entreprises de réassurance au sens de l'article 1er, point c), de la directive 98/78/CE, ouiii)des sociétés holding d'assurance au sens de l'article 1er, point i), de la directive 98/78/CE; |
+| --- | --- |
+| i) | des entreprises d'assurance au sens de l'article 6 de la directive 73/239/CEE (19), de l'article 4 de la directive 2002/83/CE (20) ou de l'article 1er, point b), de la directive 98/78/CE (21), |
+| ii) | des entreprises de réassurance au sens de l'article 1er, point c), de la directive 98/78/CE, ou |
+| iii) | des sociétés holding d'assurance au sens de l'article 1er, point i), de la directive 98/78/CE; |
+
+| p) | chacun des éléments suivants que l'établissement de crédit détient sur les entités définies au point o) dans lesquelles il détient une participation:i)les instruments visés à l'article 16, paragraphe 3, de la directive 73/239/CEE, etii)les instruments visés à l'article 27, paragraphe 3, de la directive 2002/83/CE;. |
+| --- | --- |
+| i) | les instruments visés à l'article 16, paragraphe 3, de la directive 73/239/CEE, et |
+| ii) | les instruments visés à l'article 27, paragraphe 3, de la directive 2002/83/CE;. |
+
+| q) | pour les établissements de crédit qui calculent les montants de leurs expositions pondérés conformément à la section 3, sous-section 2, les montants négatifs résultant du calcul visé à l'annexe VII, partie 1, point 36, et les montants des pertes anticipées calculés conformément à l'annexe VII, partie 1, points 32 et 33; et |
+| --- | --- |
+
+| r) | le montant exposé au risque des positions de titrisation recevant une pondération de risque de 1250 % en vertu de l'annexe IX, partie 4, calculé selon les modalités qui y sont prescrites. |
+| --- | --- |
+
+Aux fins du point b), les États membres ne peuvent autoriser la prise en compte des bénéfices intérimaires, avant qu'une décision formelle ait été prise, que si ces bénéfices ont été vérifiés par des personnes chargées du contrôle des comptes et que s'il est prouvé à la satisfaction des autorités compétentes que leur montant a été évalué conformément aux principes énoncés dans la directive 86/635/CEE et est net de toute charge prévisible et de prévision de dividendes.
+
+Dans le cas d'un établissement de crédit initiateur d'une titrisation, les gains nets qui découlent de la capitalisation du revenu futur des actifs titrisés et constituent le rehaussement de crédit de positions de titrisation sont exclus des éléments visés au point b).
+
+<a id="art_58"></a>
+
+### art_58
+
+Article 58
+
+Lorsqu'une participation est détenue temporairement dans un autre établissement de crédit, un autre établissement financier, une autre entreprise d'assurance ou de réassurance ou une autre société holding d'assurance aux fins d'une opération d'assistance financière visant à assainir et à sauver cette entité, l'autorité compétente peut déroger aux dispositions relatives à la déduction visées à l'article 57, points l) à p).
+
+<a id="art_59"></a>
+
+### art_59
+
+Article 59
+
+En guise d'alternative à la déduction des éléments visés à l'article 57, points o) et p), les États membres peuvent permettre à leurs établissements de crédit d'appliquer mutatis mutandis les méthodes nos 1, 2 ou 3 de l'annexe I de la directive 2002/87/CE. La méthode no 1 («consolidation comptable») ne peut être appliquée que si l'autorité compétente est sûre du niveau de gestion intégrée et de contrôle interne des entités qui relèveraient de la consolidation. La méthode choisie est appliquée de manière cohérente sur le long terme.
+
+<a id="art_60"></a>
+
+### art_60
+
+Article 60
+
+Les États membres peuvent prévoir que, pour le calcul des fonds propres sur une base individuelle, les établissements de crédit soumis à une surveillance consolidée en application du chapitre 4, section 1, ou à une surveillance complémentaire en application de la directive 2002/87/CE peuvent ne pas déduire les éléments visés à l'article 57, points l) à p), qui sont détenus dans des établissements de crédit, des établissements financiers, des entreprises d'assurance ou de réassurance ou des compagnies holdings d'assurance relevant du champ d'application de la surveillance consolidée ou complémentaire.
+
+Cette disposition vaut pour l'ensemble des règles prudentielles harmonisées par des actes communautaires.
+
+<a id="art_61"></a>
+
+### art_61
+
+Article 61
+
+La notion de fonds propres, telle qu'elle est définie à l'article 57, points a) à h), comprend un maximum d'éléments et de montants. L'utilisation de ces éléments et la fixation de plafonds inférieurs, ainsi que la déduction d'éléments autres que ceux énumérés à l'article 57, points i) à r), sont laissées à l'appréciation des États membres.
+
+Les éléments énumérés à l'article 57, points a) à e), sont utilisables immédiatement et sans restriction par l'établissement de crédit pour couvrir les risques ou pertes dès que ceux-ci se présentent. Leur montant doit être exempt de tout impôt prévisible au moment où il est calculé, ou être convenablement adapté dans la mesure où ces impôts réduisent le montant à concurrence duquel ces éléments peuvent être affectés à la couverture des risques ou pertes.
+
+<a id="art_62"></a>
+
+### art_62
+
+Article 62
+
+Les États membres peuvent faire rapport à la Commission des progrès de la convergence tendant à une définition commune des fonds propres. Sur la base de ces rapports, la Commission soumet, s'il y a lieu, au Parlement européen et au Conseil, d'ici au 1er janvier 2009 au plus tard, une proposition de modification de la présente section.
+
+<a id="art_63"></a>
+
+### art_63
+
+Article 63
+
+1. La notion de fonds propres utilisée par un État membre peut inclure d'autres éléments à condition qu'il s'agisse d'éléments qui, quelle que soit leur dénomination juridique ou comptable, présentent les caractéristiques suivantes:
+
+| a) | ils peuvent être librement utilisés par l'établissement de crédit pour couvrir des risques normalement liés à l'exercice de l'activité bancaire, lorsque les pertes ou moins-values n'ont pas encore été identifiées; |
+| --- | --- |
+
+| b) | leur existence apparaît dans la comptabilité interne; et |
+| --- | --- |
+
+| c) | leur montant est fixé par la direction de l'établissement de crédit, vérifié par des réviseurs indépendants, communiqué aux autorités compétentes et soumis à la surveillance de celles-ci. |
+| --- | --- |
+
+2. Peuvent également être admis comme autres éléments les titres à durée indéterminée et les autres instruments qui remplissent les conditions suivantes:
+
+| a) | ils ne peuvent être remboursés à l'initiative du porteur ou sans l'accord préalable de l'autorité compétente; |
+| --- | --- |
+
+| b) | le contrat d'émission donne à l'établissement de crédit la possibilité de différer le paiement des intérêts de l'emprunt; |
+| --- | --- |
+
+| c) | les créances du prêteur sur l'établissement de crédit sont entièrement subordonnées à celles de tous les créanciers non subordonnés; |
+| --- | --- |
+
+| d) | les documents régissant l'émission des titres prévoient la capacité de la dette et des intérêts non versés à absorber les pertes, tout en permettant à l'établissement de crédit de poursuivre ses activités; et |
+| --- | --- |
+
+| e) | il n'est tenu compte que des seuls montants effectivement versés. |
+| --- | --- |
+
+Des actions préférentielles cumulatives autres que celles visées à l'article 57, point h), peuvent venir en complément de ces titres et autres instruments.
+
+3. Pour les établissements de crédit qui calculent les montants de leurs expositions pondérés conformément à la section 3, sous-section 2, les montants positifs résultant du calcul visé à l'annexe VII, partie 1, point 36, peuvent, jusqu'à concurrence de 0,6 % des montants des expositions pondérés calculés conformément à la sous-section 2, être reconnus comme autres éléments. Pour ces établissements de crédit, les corrections de valeur et les provisions entrant dans le calcul visé à l'annexe VII, partie 1, point 36, ainsi que les corrections de valeur et les provisions pour les expositions visées à l'article 57, point e), ne peuvent être incluses dans les fonds propres que conformément au présent paragraphe. À cet effet, les montants des expositions pondérés n'incluent pas ceux calculés pour les positions de titrisation affectées d'une pondération de risque de 1 250 %.
+
+<a id="art_64"></a>
+
+### art_64
+
+Article 64
+
+1. Les engagements des membres des établissements de crédit constitués sous la forme de société coopérative, visés à l'article 57, point g), comprennent le capital non appelé de ces sociétés, ainsi que les engagements légaux des membres de ces sociétés coopératives à effectuer des paiements additionnels non remboursables au cas où l'établissement de crédit subirait une perte, auquel cas les paiements peuvent être exigibles sans délai.
+
+Sont assimilés aux éléments qui précèdent les engagements solidaires des emprunteurs dans le cas des établissements de crédit organisés en tant que fonds.
+
+L'ensemble de ces éléments peut être inclus dans les fonds propres dans la mesure où, conformément à la législation nationale, ils sont pris en considération dans les fonds propres des établissements de ce type.
+
+2. Les États membres n'incluent pas dans les fonds propres des établissements publics de crédit les garanties qu'eux-mêmes ou leurs autorités accordent à ces établissements.
+
+3. Les États membres ou les autorités compétentes peuvent inclure dans les fonds propres les actions préférentielles cumulatives à échéance fixe visées à l'article 57, point h), ainsi que les emprunts subordonnés visés dans cette disposition lorsque existent des accords contraignants aux termes desquels, en cas de faillite ou de liquidation de l'établissement de crédit, ces emprunts occupent un rang inférieur par rapport aux créances de tous les autres créanciers et ne seront remboursés qu'après règlement de toutes les autres dettes en cours à ce moment.
+
+Les emprunts subordonnés répondent également aux critères suivants:
+
+| a) | il n'est tenu compte que des seuls fonds effectivement versés; |
+| --- | --- |
+
+| b) | leur échéance initiale est fixée à au moins cinq ans; après cette période, ils peuvent faire l'objet d'un remboursement; |
+| --- | --- |
+
+| c) | le montant à concurrence duquel ils peuvent être inclus dans les fonds propres est progressivement réduit au cours des cinq dernières années au moins restant à courir avant l'échéance; et |
+| --- | --- |
+
+| d) | le contrat de prêt ne comporte pas de clause prévoyant que, dans des circonstances déterminées autres que la liquidation de l'établissement de crédit, la dette devra être remboursée avant l'échéance convenue. |
+| --- | --- |
+
+Aux fins du deuxième alinéa, point b), si l'échéance de la dette n'est pas fixée, les emprunts en question ne sont remboursables que moyennant un préavis de cinq ans, sauf s'ils ont cessé d'être considérés comme des fonds propres ou si l'accord préalable des autorités compétentes pour leur remboursement anticipé est formellement demandé. Les autorités compétentes peuvent autoriser le remboursement anticipé de ces emprunts à condition que la demande en ait été faite à l'initiative de l'émetteur et que la solvabilité de l'établissement de crédit n'en soit pas affectée.
+
+4. Les établissements de crédit n'incluent dans leurs fonds propres ni les réserves en juste valeur relatives aux pertes et aux gains générés par la couverture des flux de trésorerie des instruments financiers évalués à leur coût amorti, ni les pertes ou les gains qu'ils enregistrent sur leurs passifs évalués à la juste valeur et qui sont liés à l'évolution de la qualité de leur crédit.
+
+<a id="art_65"></a>
+
+### art_65
+
+Article 65
+
+1. Lorsque le calcul doit être effectué sur une base consolidée, les éléments énoncés à l'article 57 sont retenus pour leurs montants consolidés conformément aux règles fixées au chapitre 4, section 1. De plus, peuvent être assimilés aux réserves consolidées, pour le calcul des fonds propres, les éléments suivants lorsqu'ils sont créditeurs («négatifs»):
+
+| a) | les intérêts minoritaires au sens de l'article 21 de la directive 83/349/CEE, en cas d'utilisation de la méthode de l'intégration globale, |
+| --- | --- |
+
+| b) | la différence de première consolidation au sens des articles 19, 30 et 31 de la directive 83/349/CEE, |
+| --- | --- |
+
+| c) | les différences de conversion incluses dans les réserves consolidées conformément à l'article 39, paragraphe 6, de la directive 86/635/CEE, et |
+| --- | --- |
+
+| d) | la différence qui résulte de l'inscription de certaines participations selon la méthode prévue à l'article 33 de la directive 83/349/CEE. |
+| --- | --- |
+
+2. Lorsque les éléments visés au paragraphe 1, points a) à d), sont débiteurs («positifs»), ils doivent être déduits dans le calcul des fonds propres consolidés.
+
+<a id="art_66"></a>
+
+### art_66
+
+Article 66
+
+1. Les éléments visés à l'article 57, points d) à h), sont soumis aux limites suivantes:
+
+| a) | le total des éléments visés aux points d) à h) ne peut dépasser un maximum de 100 % des éléments visés aux points a) plus b) et c) moins i à k); et |
+| --- | --- |
+
+| b) | le total des éléments visés aux points g) à h) ne peut dépasser un maximum de 50 % des éléments visés aux points a) plus b) et c) moins i à k) ; |
+| --- | --- |
+
+2. Le total des éléments visés à l'article 57, points l) à r), est déduit pour moitié du total des éléments visés aux points a) à c) moins i) à k) et pour moitié du total des éléments visés aux points d) à h) dudit article, après application des limites prévues au paragraphe 1 du présent article. Dans la mesure où la moitié du total des éléments visés aux points l) à r) dépasse le total des éléments visés aux points d) à h) de l'article 57, l'excédent est déduit du total des éléments visés aux points a) à c) moins i) à k) de l'article 57. Les éléments visés à l'article 57, point r), ne sont pas déduits s'ils ont été inclus dans le calcul des montants des expositions pondérés aux fins de l'article 75, selon les modalités prescrites à l'annexe IX, partie 4.
+
+3. Aux fins des sections 5 et 6, les dispositions de la présente section s'entendent sans tenir compte des éléments visés à l'article 57, points q) et r), et à l'article 63, paragraphe 3.
+
+4. Les autorités compétentes peuvent autoriser les établissements de crédit à dépasser les limites prévues au paragraphe 1 dans des circonstances exceptionnelles et provisoires.
+
+<a id="art_67"></a>
+
+### art_67
+
+Article 67
+
+Le respect des conditions énoncées dans la présente section doit être prouvé à la satisfaction des autorités compétentes.
+
+<a id="art_68"></a>
+
+### art_68
+
+Article 68
+
+1. Les établissements de crédit se conforment aux obligations prévues aux articles 22 et 75 et à la section 5 sur une base individuelle.
+
+2. Tout établissement de crédit qui n'est ni une filiale dans l'État membre qui l'a agréé et où il est surveillé, ni une entreprise mère, et tout établissement de crédit qui n'est pas inclus dans le périmètre de consolidation en vertu de l'article 73 se conforment aux obligations prévues aux articles 120 et 123 sur une base individuelle.
+
+3. Tout établissement de crédit qui n'est ni une entreprise mère ni une filiale et tout établissement de crédit qui n'est pas inclus dans le périmètre de consolidation en vertu de l'article 73 se conforment aux obligations prévues au chapitre 5 sur une base individuelle.
+
+<a id="art_69"></a>
+
+### art_69
+
+Article 69
+
+1. Un État membre peut choisir de ne pas appliquer les dispositions de l'article 68, paragraphe 1, à une filiale d'un établissement de crédit, lorsque tant la filiale que l'établissement de crédit relèvent de son agrément et de sa surveillance, que la filiale est incluse dans la surveillance sur une base consolidée de l'établissement de crédit qu'elle a pour entreprise mère et que toutes les conditions suivantes sont remplies, de manière à garantir une répartition adéquate des fonds propres entre l'entreprise mère et les filiales:
+
+| a) | il n'existe, en droit ou en fait, aucun obstacle significatif, actuel ou prévu, au transfert rapide de fonds propres ou au remboursement rapide de passifs par son entreprise mère; |
+| --- | --- |
+
+| b) | soit l'entreprise mère donne toute garantie à l'autorité compétente en ce qui concerne la gestion prudente de la filiale et a déclaré, avec le consentement de l'autorité compétente, se porter garante des engagements contractés par la filiale, soit les risques de la filiale sont négligeables; |
+| --- | --- |
+
+| c) | les procédures d'évaluation, de mesure et de contrôle des risques de l'entreprise mère couvrent la filiale; et |
+| --- | --- |
+
+| d) | l'entreprise mère détient plus de 50 % des droits de vote attachés à la détention d'actions ou de parts dans le capital de la filiale et/ou a le droit de nommer ou de révoquer la majorité des membres de l'organe de direction de la filiale dont question à l'article 11. |
+| --- | --- |
+
+2. Les États membres peuvent exercer la faculté prévue au paragraphe 1 lorsque l'entreprise mère est une compagnie financière holding constituée dans le même État membre que l'établissement de crédit, à condition qu'elle soit soumise à la même surveillance que celle exercée sur les établissements de crédit, et en particulier aux règles énoncées à l'article 71, paragraphe 1.
+
+3. Un État membre peut choisir de ne pas appliquer les dispositions de l'article 68, paragraphe 1, à un établissement de crédit mère dans un État membre, lorsque cet établissement de crédit relève de son agrément et de sa surveillance, qu'il est inclus dans la surveillance sur une base consolidée et que toutes les conditions suivantes sont remplies, de manière à garantir une répartition adéquate des fonds propres entre l'entreprise mère et les filiales:
+
+| a) | il n'existe, en droit ou en fait, aucun obstacle significatif, actuel ou prévu, au transfert rapide de fonds propres ou au remboursement rapide de passifs à l'établissement de crédit mère dans un État membre; et |
+| --- | --- |
+
+| b) | les procédures d'évaluation, de mesure et de contrôle des risques utiles aux fins de la surveillance consolidée couvrent l'établissement de crédit mère dans un État membre. |
+| --- | --- |
+
+L'autorité compétente qui fait usage des dispositions du présent paragraphe en informe les autorités compétentes de tous les autres États membres.
+
+4. Sans préjudice du caractère général de l'article 144, les autorités compétentes des États membres qui exercent la faculté prévue au paragraphe 3 rendent publics, conformément aux modalités indiquées à l'article 144:
+
+| a) | les critères qu'elles appliquent pour déterminer qu'il n'existe, en droit ou en fait, aucun obstacle actuel ou prévu au transfert rapide de fonds propres ou au remboursement rapide de passifs; |
+| --- | --- |
+
+| b) | le nombre d'établissements de crédit mères qui bénéficient de l'exercice de la faculté prévue au paragraphe 3 et, parmi ceux-ci, le nombre d'établissements qui ont des filiales situées dans un pays tiers; et |
+| --- | --- |
+
+| c) | sur une base agrégée pour l'État membre:i)le montant total des fonds propres sur la base consolidée de l'établissement de crédit mère dans un État membre, qui bénéficie de l'exercice de la faculté prévue au paragraphe 3 qui sont détenus dans des filiales situées dans un pays tiers;ii)le pourcentage du total des fonds propres sur la base consolidée des établissements de crédit mères dans un État membre, qui bénéficient de l'exercice de la faculté prévue au paragraphe 3, représenté par les fonds propres qui sont détenus dans des filiales situées dans un pays tiers; etiii)le pourcentage du total de fonds propres minimaux exigés au titre de l'article 75 sur la base consolidée des établissements de crédit mères dans un État membre, qui bénéficient de l'exercice de la faculté prévue au du paragraphe 3, représenté par les fonds propres qui sont détenus dans des filiales situées dans un pays tiers. |
+| --- | --- |
+| i) | le montant total des fonds propres sur la base consolidée de l'établissement de crédit mère dans un État membre, qui bénéficie de l'exercice de la faculté prévue au paragraphe 3 qui sont détenus dans des filiales situées dans un pays tiers; |
+| ii) | le pourcentage du total des fonds propres sur la base consolidée des établissements de crédit mères dans un État membre, qui bénéficient de l'exercice de la faculté prévue au paragraphe 3, représenté par les fonds propres qui sont détenus dans des filiales situées dans un pays tiers; et |
+| iii) | le pourcentage du total de fonds propres minimaux exigés au titre de l'article 75 sur la base consolidée des établissements de crédit mères dans un État membre, qui bénéficient de l'exercice de la faculté prévue au du paragraphe 3, représenté par les fonds propres qui sont détenus dans des filiales situées dans un pays tiers. |
+
+<a id="art_70"></a>
+
+### art_70
+
+Article 70
+
+1. Sous réserve des dispositions des paragraphes 2 à 4 du présent article, les autorités compétentes peuvent autoriser au cas par cas les établissements de crédit mères à intégrer leurs filiales dans le calcul de leurs exigences de fonds propres en vertu de l'article 68, paragraphe 1, lorsque ces filiales remplissent les conditions énoncées à l'article 69, paragraphe 1, points c) et d), et que leurs risques ou passifs significatifs existent à l'égard desdits établissements de crédit mères.
+
+2. Le traitement prévu au paragraphe 1 n'est autorisé que lorsque l'établissement de crédit mère prouve de façon circonstanciée aux autorités compétentes l'existence des conditions et dispositions, y compris des dispositions juridiques, en vertu desquelles il n'existe, en droit ou en fait, aucun obstacle significatif, actuel ou prévu, au transfert rapide de fonds propres ou au remboursement, à l'échéance, de passifs par la filiale à son entreprise mère.
+
+3. Lorsqu'une autorité compétente exerce la faculté prévue au paragraphe 1, elle informe régulièrement et au moins une fois par an les autorités compétentes de tous les autres États membres de l'usage fait du paragraphe 1 ainsi que des conditions et dispositions visées au paragraphe 2. Lorsque la filiale est située dans un pays tiers, les autorités compétentes fournissent également les mêmes informations aux autorités compétentes de ce pays tiers.
+
+4. Sans préjudice du caractère général de l'article 144, les autorités compétentes qui exercent la faculté prévue au paragraphe 1 rendent publics, conformément aux modalités indiquées à l'article 144:
+
+| a) | les critères qu'elles appliquent pour déterminer qu'il n'existe, en droit ou en fait, aucun obstacle significatif, actuel ou prévu, au transfert rapide de fonds propres ou au remboursement rapide de passifs; |
+| --- | --- |
+
+| b) | le nombre d'établissements de crédit mères qui bénéficient de l'exercice de la faculté prévue au paragraphe 1 et, parmi ceux-ci, le nombre d'établissements qui ont des filiales situées dans un pays tiers; et |
+| --- | --- |
+
+| c) | sur une base agrégée pour l'État membre:i)le montant total des fonds propres des établissements de crédit mères qui bénéficient de l'exercice de la faculté prévue au paragraphe 1, qui sont détenus dans des filiales situées dans un pays tiers;ii)le pourcentage du total des fonds propres des établissements de crédit mères qui bénéficient de l'exercice de la faculté prévue au du paragraphe 1, représenté par les fonds propres qui sont détenus dans des filiales situées dans un pays tiers; etiii)le pourcentage du total de fonds propres minimaux exigés au titre de l'article 75 des établissements de crédit mères qui bénéficient de l'exercice de la faculté prévue au paragraphe 1, représentés par les fonds propres qui sont détenus dans des filiales situées dans un pays tiers. |
+| --- | --- |
+| i) | le montant total des fonds propres des établissements de crédit mères qui bénéficient de l'exercice de la faculté prévue au paragraphe 1, qui sont détenus dans des filiales situées dans un pays tiers; |
+| ii) | le pourcentage du total des fonds propres des établissements de crédit mères qui bénéficient de l'exercice de la faculté prévue au du paragraphe 1, représenté par les fonds propres qui sont détenus dans des filiales situées dans un pays tiers; et |
+| iii) | le pourcentage du total de fonds propres minimaux exigés au titre de l'article 75 des établissements de crédit mères qui bénéficient de l'exercice de la faculté prévue au paragraphe 1, représentés par les fonds propres qui sont détenus dans des filiales situées dans un pays tiers. |
+
+<a id="art_71"></a>
+
+### art_71
+
+Article 71
+
+1. Sans préjudice des articles 68 à 70, les établissements de crédit mères dans un État membre se conforment, dans la mesure et selon les modalités prescrites à l'article 133, aux obligations prévues aux articles 75, 120 et 123 et à la section 5 sur la base de leur situation financière consolidée.
+
+2. Sans préjudice des articles 68 à 70, les établissements de crédit contrôlés par une compagnie financière holding mère dans un État membre se conforment, dans la mesure et selon les modalités prescrites à l'article 133, aux obligations prévues aux articles 75, 120 et 123 et à la section 5 sur la base de la situation financière consolidée de cette compagnie financière holding mère.
+
+Lorsque plusieurs établissements de crédit sont contrôlés par une compagnie financière holding mère dans un État membre, le premier alinéa ne s'applique qu'à l'établissement de crédit soumis à la surveillance sur une base consolidée conformément aux articles 125 et 126.
+
+<a id="art_72"></a>
+
+### art_72
+
+Article 72
+
+1. Les établissements de crédit mères dans l'Union se conforment aux obligations prévues au chapitre 5 sur la base de leur situation financière consolidée.
+
+Les filiales importantes des établissements de crédit mères dans l'Union publient les informations visées à l'annexe XII, partie 1, point 5, sur une base individuelle ou sous‐consolidée.
+
+2. Les établissements de crédit contrôles par une compagnie financière holding mère dans l'Union se conforment aux obligations prévues au chapitre 5 sur la base de la situation financière consolidée de cette compagnie financière holding mère.
+
+Les filiales importantes des compagnies financières holding mères dans l'Union publient les informations visées à l'annexe XII, partie 1, point 5, sur une base individuelle ou sous‐consolidée.
+
+3. Les autorités compétentes chargées d'exercer la surveillance sur une base consolidée conformément aux articles 125 et 126 peuvent décider de ne pas appliquer tout ou partie des dispositions des paragraphes 1 et 2 aux établissements de crédit inclus dans la publication d'information comparables effectuée sur une base consolidée par une entreprise mère établie dans un pays tiers.
+
+<a id="art_73"></a>
+
+### art_73
+
+Article 73
+
+1. Les États membres ou les autorités compétentes chargées d'exercer la surveillance sur une base consolidée en application des articles 125 et 126 peuvent renoncer dans les cas suivants à l'inclusion dans la consolidation d'un établissement de crédit, d'un établissement financier ou d'une entreprise de services auxiliaires qui est une filiale ou dans lequel une participation est détenue:
+
+| a) | lorsque l'entreprise concernée est située dans un pays tiers où il existe des obstacles juridiques au transfert des informations nécessaires, |
+| --- | --- |
+
+| b) | lorsque l'entreprise concernée ne présente qu'un intérêt négligeable, de l'avis des autorités compétentes, au regard des objectifs de la surveillance des établissements de crédit et, dans tous les cas, lorsque le total du bilan de l'entreprise concernée est inférieur au plus faible des deux montants suivants:i)10 000 000 EUR; ouii)1 % du bilan de l'entreprise mère ou de l'entreprise qui détient la participation. |
+| --- | --- |
+| i) | 10 000 000 EUR; ou |
+| ii) | 1 % du bilan de l'entreprise mère ou de l'entreprise qui détient la participation. |
+
+| c) | lorsque, de l'avis des autorités compétentes chargées d'exercer la surveillance sur une base consolidée, la consolidation de la situation financière de l'entreprise concernée serait inappropriée ou de nature à induire en erreur du point de vue des objectifs de la surveillance des établissements de crédit.Si, dans les cas visés au premier alinéa, point b), plusieurs entreprises répondent aux critères qui y sont énoncés, elles sont néanmoins incluses dans la consolidation dans la mesure où l'ensemble de ces entreprises présente un intérêt non négligeable au regard des objectifs spécifiés. |
+| --- | --- |
+
+2. Les autorités compétentes exigent des établissements de crédit filiales qu'ils appliquent les obligations prévues aux articles 75, 120 et 123 et à la section 5 sur une base sous‐consolidée lorsque eux-mêmes, ou leur entreprise mère s'il s'agit d'une compagnie financière holding, comptent un établissement de crédit, un établissement financier ou une société de gestion de portefeuille au sens de l'article 2, point 5), de la directive 2002/87/CE comme filiale dans un pays tiers ou y détiennent une participation.
+
+3. Les autorités compétentes exigent des entreprises mères et des filiales relevant de la présente directive qu'elles remplissent les obligations prévues à l'article 22 sur une base consolidée ou sous-consolidée, de manière à assurer la cohérence et la bonne intégration de leurs dispositif, procédures et mécanismes et à pouvoir fournir toute donnée et toute information utiles à la surveillance.
+
+<a id="art_74"></a>
+
+### art_74
+
+Article 74
+
+1. Sauf disposition contraire, l'évaluation des actifs et des éléments de hors bilan est effectuée conformément au cadre comptable auquel l'établissement de crédit est soumis en vertu du règlement (CE) no 1606/2002 et de la directive 86/635/CEE.
+
+2. Nonobstant les obligations prévues aux articles 68 à 72, les calculs visant à vérifier que les établissements de crédit satisfont bien aux obligations prévues à l'article 75 sont effectués au moins deux fois par an.
+
+Les établissements de crédit communiquent le résultat ainsi que toute composante exigée aux autorités compétentes.
+
+<a id="art_75"></a>
+
+### art_75
+
+Article 75
+
+Sans préjudice de l'article 136, les États membres exigent des établissements de crédit qu'ils détiennent des fonds propres d'un montant en permanence supérieur ou égal à la somme des exigences de fonds propres suivantes:
+
+| a) | pour le risque de crédit et le risque de dilution inhérents à toutes leurs activités, à l'exception des opérations relevant du portefeuille de négociation et des actifs illiquides si ceux-ci sont déduits des fonds propres en vertu de l'article 13, paragraphe 2, point d), de la directive 2006/49/CE, 8 % du total des montants de leurs expositions pondérés, calculés conformément à la section 3; |
+| --- | --- |
+
+| b) | dans le cas de leur portefeuille de négociation, pour le risque de position, pour le risque de règlement et de contrepartie et, dans la mesure où le dépassement des limites prévues aux articles 111 à 117 est autorisé, pour les grands risques dépassant ces limites, les exigences de fonds propres calculées conformément à l'article 18 et au chapitre V, section 4, de la directive 2006/49/CE; |
+| --- | --- |
+
+| c) | pour le risque de change et le risque sur produits de base inhérents à toutes leurs activités, les exigences de fonds propres calculées conformément à l'article 18 de la directive 2006/49/CE; et |
+| --- | --- |
+
+| d) | pour le risque opérationnel inhérent à toutes leurs activités, les exigences de fonds propres calculées conformément à la section 4. |
+| --- | --- |
+
+<a id="art_76"></a>
+
+### art_76
+
+Article 76
+
+Pour calculer les montants de leurs expositions pondérés aux fins de l'article 75, point a), les établissements de crédit appliquent soit l'approche standard prévue aux articles 78 à 83, soit — si les autorités compétentes le permettent conformément à l'article 84 — l'approche fondée sur les notations internes prévue aux articles 84 à 89.
+
+<a id="art_77"></a>
+
+### art_77
+
+Article 77
+
+On entend par «exposition» aux fins de la présente section tout actif ou élément de hors bilan.
+
+<a id="art_78"></a>
+
+### art_78
+
+Article 78
+
+1. Sous réserve du paragraphe 2, la valeur exposée au risque d'un élément d'actif correspond à sa valeur de bilan et la valeur exposée au risque d'un élément de hors bilan répertorié à l'annexe II correspond au pourcentage suivant de sa valeur: 100 % pour un élément présentant un risque élevé, 50 % pour un risque moyen, 20 % pour un risque modéré et 0 % pour un risque faible. Les éléments de hors bilan visés à la première phrase du présent paragraphe sont répartis selon les catégories de risque indiquées à l'annexe II. Dans le cas d'un établissement de crédit utilisant la méthode générale fondée sur les sûretés financières («financial collateral comprehensive method») présentée à l'annexe VIII, partie 3, lorsque l'exposition prend la forme de titres ou de produits de base vendus, gagés ou prêtés dans le cadre d'une opération de pension, d'une opération de prêt ou d'emprunt de titres ou de produits de base ou d'une opération de prêt avec appel de marge, la valeur exposée au risque est augmentée de la correction pour volatilité qui convient pour ces titres ou produits de base conformément à l'annexe VIII, partie 3, points 34 à 59.
+
+2. La valeur exposée au risque d'un instrument dérivé répertorié à l'annexe IV est déterminée conformément à l'annexe III, les effets de contrats de novation et autres conventions de compensation étant pris en considération aux fins de ces méthodes, conformément à l'annexe III. La valeur exposée au risque des opérations de pension, des opérations de prêt ou de d'emprunt de titres ou de produits de base, des transactions à règlement différé et des opérations de prêt avec appel de marge peut être déterminée conformément à l'annexe III ou à l'annexe VIII.
+
+3. Lorsqu'une exposition fait l'objet d'une protection financée du crédit, la valeur exposée au risque qui lui est applicable peut être modifiée conformément à la sous‐section 3.
+
+4. Nonobstant le paragraphe 2, la valeur exposée au risque des expositions de crédit en cours, telle que déterminée par les autorités compétentes, avec une contrepartie centrale est calculée conformément à l'annexe III, partie 2, point 6, à condition que les expositions de crédit de contrepartie supportées par la contrepartie centrale vis-à-vis de tous les participants aux accords qu'elle a conclus soient pleinement couvertes par des sûretés sur une base quotidienne.
+
+<a id="art_79"></a>
+
+### art_79
+
+Article 79
+
+1. Chaque exposition est classée dans l'une des catégories d'exposition suivantes:
+
+| a) | créances ou créances éventuelles sur les administrations centrales ou les banques centrales; |
+| --- | --- |
+
+| b) | créances ou créances éventuelles sur les autorités régionales ou locales; |
+| --- | --- |
+
+| c) | créances ou créances éventuelles sur les organismes administratifs et les entreprises à but non lucratif; |
+| --- | --- |
+
+| d) | créances ou créances éventuelles sur les banques multilatérales de développement; |
+| --- | --- |
+
+| e) | créances ou créances éventuelles sur les organisations internationales; |
+| --- | --- |
+
+| f) | créances ou créances éventuelles sur les établissements; |
+| --- | --- |
+
+| g) | créances ou créances éventuelles sur les entreprises; |
+| --- | --- |
+
+| h) | créances ou créances éventuelles sur la clientèle de détail; |
+| --- | --- |
+
+| i) | créances ou créances éventuelles garanties par un bien immobilier; |
+| --- | --- |
+
+| j) | arriérés de paiement; |
+| --- | --- |
+
+| k) | éléments relevant des catégories réglementaires présentant un risque élevé; |
+| --- | --- |
+
+| l) | créances sous la forme d'obligations garanties; |
+| --- | --- |
+
+| m) | positions de titrisation; |
+| --- | --- |
+
+| n) | créances à court terme sur les établissements et les entreprises; |
+| --- | --- |
+
+| o) | créances sous la forme d'organismes de placement collectif (OPC); ou |
+| --- | --- |
+
+| p) | autres éléments. |
+| --- | --- |
+
+2. Pour pouvoir relever de la catégorie d'exposition sur la clientèle de détail visée au paragraphe 1, point h), une exposition remplit les conditions suivantes:
+
+| a) | elle existe à l'égard d'un ou de plusieurs particuliers ou d'une entité de taille petite ou moyenne; |
+| --- | --- |
+
+| b) | elle est incluse dans un grand nombre d'expositions présentant des caractéristiques similaires, de telle sorte que les risques qui sont liés à ce prêt soient fortement réduits; et |
+| --- | --- |
+
+| c) | le montant total dû à l'établissement de crédit ainsi qu'à ses entreprises mères et à ses filiales, y compris tout engagement échu, par le client débiteur ou le groupe de clients débiteurs liés, à l'exclusion toutefois des créances et des créances éventuelles garanties par des biens immobiliers résidentiels, n'excède pas, à la connaissance de l'établissement de crédit, 1 000 000 EUR. L'établissement de crédit prend toute mesure raisonnable pour s'en assurer. |
+| --- | --- |
+
+Les titres ne peuvent relever de la catégorie des expositions sur la clientèle de détail.
+
+3. La valeur actuelle des paiements minimaux au titre de contrats de location avec la clientèle de détail peut être classée dans la catégorie des expositions sur la clientèle de détail.
+
+<a id="art_80"></a>
+
+### art_80
+
+Article 80
+
+1. Pour calculer les montants des expositions pondérés, des pondérations de risque sont appliquées à toutes les expositions, à moins qu'elles ne soient déduites des fonds propres, conformément aux dispositions de l'annexe VI, partie 1. La pondération de risque appliquée dépend de la catégorie dans laquelle chaque exposition est classée et, dans la mesure prescrite à l'annexe VI, partie 1, de sa qualité de crédit. La qualité du crédit peut être déterminée par référence aux évaluations effectuées par les organismes externes d'évaluation du crédit (OEEC) conformément aux dispositions des articles 81 à 83 ou à celles réalisées par les organismes de crédit à l'exportation selon les modalités décrites à l'annexe VI, partie 1.
+
+2. Aux fins de l'application d'une pondération de risque au sens du paragraphe 1, la valeur exposée au risque est multipliée par la pondération de risque prescrite ou déterminée conformément à la présente sous-section.
+
+3. Aux fins du calcul des montants pondérés des expositions sur des établissements, il incombe aux États membres de décider s'il convient d'adopter la méthode fondée sur la qualité du crédit de l'administration centrale du pays où l'établissement est constitué ou la méthode fondée sur la qualité du crédit de l'établissement contrepartie conformément à l'annexe VI.
+
+4. Nonobstant le paragraphe 1, lorsqu'une exposition fait l'objet d'une protection du crédit, la pondération de risque qui lui est applicable peut être modifiée conformément à la sous‐section 3.
+
+5. Pour les risques titrisés, les montants pondérés des expositions sont calculés conformément à la sous‐section 4.
+
+6. Les expositions pour lesquelles les modalités de calcul d'un montant pondéré d'exposition ne sont pas prévues dans la présente sous-section sont affectées d'une pondération de 100 %.
+
+7. À l'exception des expositions donnant lieu à des passifs prenant la forme des éléments visés à l'article 57, points a) à h), les autorités compétentes peuvent exempter des obligations prévues au paragraphe 1 du présent article les expositions d'un établissement de crédit sur une contrepartie qui est son entreprise mère, sa filiale, une filiale de son entreprise mère ou une entreprise liée par une relation au sens de l'article 12, paragraphe 1, de la directive 83/349/CEE, sous réserve que les conditions suivantes soient remplies:
+
+| a) | la contrepartie est un établissement ou une compagnie financière holding, un établissement financier, une société de gestion de portefeuille ou une entreprise de services auxiliaires soumis à des exigences prudentielles appropriées; |
+| --- | --- |
+
+| b) | elle est intégralement incluse dans le même périmètre de consolidation que l'établissement de crédit; |
+| --- | --- |
+
+| c) | elle est soumise aux mêmes procédures d'évaluation, de mesure et de contrôle des risques que l'établissement de crédit; |
+| --- | --- |
+
+| d) | elle est établie dans le même État membre que l'établissement de crédit; et |
+| --- | --- |
+
+| e) | il n'existe, en droit ou en fait, aucun obstacle significatif, actuel ou prévu, au transfert rapide de fonds propres ou au remboursement rapide de passifs par la contrepartie à l'établissement de crédit. |
+| --- | --- |
+
+Dans ce cas, une pondération de risque de 0 % est appliquée.
+
+8. À l'exception des expositions donnant lieu à des passifs prenant la forme des éléments visés à l'article 57, points a) à h), les autorités compétentes peuvent exempter des obligations prévues au paragraphe 1 du présent article les expositions à l'égard de contreparties qui sont membres du même système de protection institutionnel que l'établissement de crédit prêteur, sous réserve que les conditions suivantes soient remplies:
+
+| a) | il est satisfait aux exigences exposées au paragraphe 7, points a), d) et e); |
+| --- | --- |
+
+| b) | l'établissement de crédit et la contrepartie font partie d'un arrangement de responsabilité contractuel ou prévu par la loi qui les protège et, en particulier, garantit leur liquidité et leur solvabilité pour éviter la faillite, si cela s'avère nécessaire (ci-après dénommé «système de protection institutionnel»); |
+| --- | --- |
+
+| c) | les arrangements pris garantissent que le système de protection institutionnel sera à même d'accorder le soutien nécessaire, conformément aux obligations lui incombant, à partir de fonds aisément accessibles; |
+| --- | --- |
+
+| d) | le système de protection institutionnel dispose d'instruments appropriés et uniformisés pour le contrôle et la classification des risques (donnant une vue complète des situations de risque de tous les membres pris individuellement et du système de protection institutionnel dans son ensemble), avec des possibilités correspondantes d'exercer une influence; ces dispositifs permettent de suivre de manière appropriée les expositions en situation de défaut conformément à l'annexe VII, partie 4, point 44; |
+| --- | --- |
+
+| e) | le système de protection institutionnel conduit sa propre analyse des risques, laquelle est communiquée aux différents membres; |
+| --- | --- |
+
+| f) | le système de protection institutionnel établit et publie une fois par an soit un rapport consolidé couvrant le bilan, le compte des pertes et profits, le rapport de situation et le rapport sur les risques concernant le système de protection institutionnel dans son ensemble, soit un rapport comprenant le bilan agrégé, le compte agrégé des pertes et profits, le rapport de situation et le rapport sur les risques concernant le système de protection institutionnel dans son ensemble; |
+| --- | --- |
+
+| g) | les membres du système de protection institutionnel sont tenus de donner un préavis de 24 mois au moins s'ils souhaitent mettre fin aux arrangements; |
+| --- | --- |
+
+| h) | l'utilisation multiple d'éléments éligibles aux fins du calcul des fonds propres (double emploi des fonds propres) ainsi que toute création inappropriée de fonds propres entre les membres du système de protection institutionnel sont exclues; |
+| --- | --- |
+
+| i) | le système de protection institutionnel se fonde sur une large participation d'établissements de crédits présentant un profil d'activités pour l'essentiel homogène; et |
+| --- | --- |
+
+| j) | l'adéquation des instruments visés au point d) est acceptée et contrôlée à intervalles réguliers par les autorités compétentes. |
+| --- | --- |
+
+En pareil cas, une pondération de risque de 0 % est appliquée.
+
+<a id="art_81"></a>
+
+### art_81
+
+Article 81
+
+1. Une évaluation externe du crédit ne peut être utilisée pour déterminer la pondération de risque applicable à une exposition conformément à l'article 80 que si l'OEEC qui la fournit a été reconnu comme éligible à cet effet par les autorités compétentes (entité dénommée «OEEC éligible» aux fins de la présente sous-section).
+
+2. Les autorités compétentes ne reconnaissent un OEEC comme éligible aux fins de l'article 80 que si elles ont l'assurance, d'une part, que sa méthode d'évaluation satisfait aux exigences d'objectivité, d'indépendance, de contrôle continu et de transparence et, d'autre part, que les évaluations du crédit qui en résultent satisfont à la double exigence de crédibilité et de transparence. À cet effet, les autorités compétentes tiennent compte des critères techniques exposés à l'annexe VI, partie 2.
+
+3. Lorsqu'un OEEC a été reconnu comme éligible par les autorités compétentes d'un État membre, les autorités compétentes d'autres États membres peuvent le reconnaître comme tel, sans procéder elles-mêmes à une évaluation.
+
+4. Les autorités compétentes publient un document expliquant la procédure de reconnaissance, ainsi qu'une liste des OEEC éligibles.
+
+<a id="art_82"></a>
+
+### art_82
+
+Article 82
+
+1. Les autorités compétentes décident, en tenant compte des critères techniques exposés à l'annexe VI, partie 2, à quels échelons de qualité du crédit, tels que présentés à la partie 1 de cette annexe, il convient d'associer les évaluations pertinentes du crédit établies par un OEEC éligible. Ces décisions doivent être objectives et cohérentes.
+
+2. Lorsque les autorités compétentes d'un État membre ont pris une décision en vertu du paragraphe 1, les autorités compétentes d'autres États membres peuvent reconnaître cette décision, sans procéder à leur propre évaluation.
+
+<a id="art_83"></a>
+
+### art_83
+
+Article 83
+
+1. L'utilisation des évaluations de crédit établies par un OEEC pour calculer les montants des expositions pondérés d'un établissement de crédit doit être cohérente et conforme à l'annexe VI, partie 3. Les évaluations de crédit ne peuvent être utilisées de manière sélective.
+
+2. Les établissements de crédit utilisent des évaluations de crédit sollicitées. Avec l'autorisation des autorités compétentes, ils peuvent toutefois utiliser des évaluations non sollicitées.
+
+<a id="art_84"></a>
+
+### art_84
+
+Article 84
+
+1. Conformément à la présente sous-section, les autorités compétentes peuvent autoriser les établissements de crédit à calculer les montants de leurs expositions pondérés en utilisant l'approche fondée sur les notations internes («approche NI»). Une autorisation explicite est requise pour chaque établissement de crédit.
+
+2. L'autorisation n'est donnée que si les autorités compétentes ont l'assurance que les systèmes de gestion et de notation des expositions de crédit dont dispose l'établissement de crédit sont sains, sont mis en œuvre avec intégrité et, en particulier, satisfont aux critères suivants conformément à l'annexe VII, partie 4:
+
+| a) | les systèmes de notation de l'établissement de crédit permettent une évaluation pertinente des caractéristiques du débiteur et de la transaction, ainsi qu'une différenciation pertinente et une quantification précise et cohérente du risque; |
+| --- | --- |
+
+| b) | les notations internes et les estimations de défauts et de pertes utilisées dans le calcul des exigences de fonds propres et les systèmes et processus liés jouent un rôle essentiel dans la gestion des risques et le processus décisionnel, ainsi que dans le mécanisme d'approbation du crédit, la répartition du capital interne et le gouvernement d'entreprise de l'établissement de crédit; |
+| --- | --- |
+
+| c) | l'établissement de crédit dispose d'une unité de contrôle du risque de crédit qui est responsable de ses systèmes de notation et qui est suffisamment indépendante et dégagée de toute influence inopportune; |
+| --- | --- |
+
+| d) | l'établissement de crédit collecte et enregistre toutes les données de nature à étayer efficacement ses procédures de mesure et de gestion du risque de crédit; et |
+| --- | --- |
+
+| e) | l'établissement de crédit constitue une documentation sur ses systèmes de notation ainsi que les motifs qui sous-tendent leur conception et il valide les systèmes en question. |
+| --- | --- |
+
+Lorsqu'un établissement de crédit mère dans l'Union et ses filiales ou une compagnie financière holding mère dans l'Union et ses filiales appliquent l'approche NI sur une base unifiée, les autorités compétentes peuvent permettre que les exigences minimales fixées à l'annexe VII, partie 4, soient remplies par l'entreprise mère et ses filiales considérées ensemble.
+
+3. Un établissement de crédit qui sollicite l'autorisation d'appliquer l'approche NI doit démontrer qu'il a utilisé, pour les catégories d'exposition qui en relèvent, aux fins de la mesure et de la gestion internes des risques, des systèmes de notation conformes dans les grandes lignes aux exigences minimales fixées à l'annexe VII, partie 4, durant au moins les trois années qui ont précédé le moment où il a obtenu cette autorisation.
+
+4. Un établissement de crédit qui sollicite l'autorisation d'utiliser ses propres estimations des pertes en cas de défaut et/ou facteurs de conversion doit démontrer qu'il a estimé et employé ses propres estimations des pertes en cas de défaut et/ou facteurs de conversion d'une manière conforme dans les grandes lignes aux exigences minimales fixées en la matière à l'annexe VII, partie 4, durant au moins les trois années qui ont précédé le moment où il a obtenu cette autorisation.
+
+5. Lorsqu'un établissement de crédit ne se conforme plus aux exigences fixées dans la présente sous-section, il présente aux autorités compétentes un plan de redressement rapide de la situation ou il démontre que les effets de cette non-conformité sont négligeables.
+
+6. Lorsque l'approche NI est utilisée par un établissement de crédit mère dans l'Union et ses filiales, ou par une compagnie financière holding mère dans l'Union et ses filiales, les autorités compétentes de ces différentes entités juridiques coopèrent étroitement entre elles, selon les modalités prévues aux articles 129 à 132.
+
+<a id="art_85"></a>
+
+### art_85
+
+Article 85
+
+1. Sans préjudice de l'article 89, les établissements de crédit ainsi que toute entreprise mère et ses filiales mettent en œuvre l'approche NI pour toutes leurs expositions.
+
+Sous réserve de l'approbation des autorités compétentes, cette mise en œuvre peut se faire progressivement pour chacune des catégories d'expositions visées à l'article 86, à l'intérieur d'une même unité d'exploitation, pour différentes unités d'exploitation d'un même groupe ou en cas d'utilisation d'estimations propres des pertes en cas de défaut ou facteurs de conversion aux fins du calcul des pondérations de risque pour les expositions sur les entreprises, les établissements, les administrations centrales et les banques centrales.
+
+Dans le cas de la catégorie des expositions sur la clientèle de détail visée à l'article 86, la mise en œuvre peut se faire progressivement selon les catégories d'expositions auxquelles correspondent les diverses corrélations prévues à l'annexe VII, partie 1, points 10 à 13.
+
+2. La mise en œuvre visée au paragraphe 1 est effectuée dans un délai raisonnable, à convenir avec les autorités compétentes. Elle a lieu à des conditions strictes, fixées par les autorités compétentes. Ces conditions sont fixées de manière à garantir que la souplesse accordée au paragraphe 1 n'est pas utilisée de façon sélective, dans le but de réduire les exigences minimales de fonds propres applicables aux catégories d'exposition ou aux unités d'exploitation qui doivent encore être inclus dans l'approche NI ou pour l'utilisation des estimations propres des pertes en cas de défaut et/ou facteurs de conversion.
+
+3. Les établissements de crédit qui appliquent l'approche NI à une catégorie d'exposition quelconque l'appliquent parallèlement à la catégorie des expositions sur actions.
+
+4. Sous réserve des paragraphes 1 à 3 du présent article et de l'article 89, les établissements de crédit qui ont obtenu l'autorisation, en vertu de l'article 84, d'utiliser l'approche NI ne reviennent pas aux dispositions de la sous-section 1 pour le calcul des montants de leurs expositions pondérés, sauf pour un motif dûment justifié et à condition que les autorités compétentes l'autorisent.
+
+5. Sous réserve des paragraphes 1 et 2 du présent article et de l'article 89, les établissements de crédit qui ont obtenu l'autorisation, en vertu de l'article 87, paragraphe 9, d'utiliser leurs propres estimations des pertes en cas de défaut et facteurs de conversion, ne reviennent pas à l'usage des valeurs des pertes en cas de défaut et facteurs de conversion visés à l'article 87, paragraphe 8, sauf pour un motif dûment justifié et à condition que les autorités compétentes l'autorisent.
+
+<a id="art_86"></a>
+
+### art_86
+
+Article 86
+
+1. Chaque exposition est classée dans l'une des catégories d'exposition suivantes:
+
+| a) | créances ou créances éventuelles sur les administrations centrales ou les banques centrales; |
+| --- | --- |
+
+| c) | créances ou créances éventuelles sur les entreprises; |
+| --- | --- |
+
+| b) | créances ou créances éventuelles sur les établissements; |
+| --- | --- |
+
+| d) | créances ou créances éventuelles sur la clientèle de détail; |
+| --- | --- |
+
+| e) | engagements sous forme d'actions |
+| --- | --- |
+
+| f) | positions de titrisation; ou |
+| --- | --- |
+
+| g) | actifs autres que des obligations de crédit. |
+| --- | --- |
+
+2. Les expositions suivantes sont traitées comme des risques sur les administrations centrales et les banques centrales:
+
+| a) | les expositions sur des autorités régionales et locales ou sur des entités du secteur public qui sont traitées comme des expositions sur les administrations centrales en vertu de la sous-section 1; et |
+| --- | --- |
+
+| b) | les expositions sur des banques multilatérales de développement et des organisations internationales qui entraînent une pondération de risque de 0 % en vertu de la sous‐section 1. |
+| --- | --- |
+
+3. Les expositions suivantes sont traitées comme des expositions sur des établissements:
+
+| a) | les expositions sur des autorités régionales et locales qui ne sont pas traitées comme des expositions sur les administrations centrales en vertu de la sous‐section 1; |
+| --- | --- |
+
+| b) | les expositions sur des entités du secteur public qui sont traitées comme des expositions sur des établissements en vertu de la sous-section 1; et |
+| --- | --- |
+
+| c) | les expositions sur des banques multilatérales de développement qui n'entraînent pas une pondération de risque de 0 % en vertu de la sous-section 1. |
+| --- | --- |
+
+4. Pour pouvoir relever de la catégorie des expositions sur la clientèle de détail visée au paragraphe 1, point d), les expositions doivent remplir les conditions suivantes:
+
+| a) | elles portent sur un ou plusieurs particuliers ou une entité de taille petite ou moyenne, sous réserve que, dans ce dernier cas, le montant total dû par le client débiteur ou le groupe de clients débiteurs liés à l'établissement de crédit ainsi qu'à ses entreprises mères et à ses filiales, y compris tout engagement échu, à l'exclusion toutefois des créances ou des créances éventuelles garanties par des biens immobiliers résidentiels, n'excède pas, à la connaissance de l'établissement de crédit qui doit prendre toute mesure raisonnable pour s'en assurer, 1 000 000 EUR; |
+| --- | --- |
+
+| b) | elles font l'objet, dans la gestion des risques par l'établissement de crédit, d'un traitement cohérent dans le temps et similaire; |
+| --- | --- |
+
+| c) | elles ne sont pas gérées de la même façon à titre individuel que les expositions relevant de la catégorie des expositions sur les entreprises; et |
+| --- | --- |
+
+| d) | elles font chacune partie d'un grand nombre d'expositions gérées de façon similaire. |
+| --- | --- |
+
+La valeur actuelle des paiements minimaux au titre de contrats de location avec la clientèle de détail peut être classée dans la catégorie d'exposition sur la clientèle de détail.
+
+5. Les expositions suivantes sont traitées comme des expositions sur actions:
+
+| a) | les expositions ne portant pas sur des créances et donnant droit à une créance subordonnée et résiduelle sur les actifs ou le revenu de l'émetteur; et |
+| --- | --- |
+
+| b) | les expositions portant sur des créances, mais dont la substance économique est similaire à celle des expositions visées au point a). |
+| --- | --- |
+
+6. Dans la catégorie des expositions sur les entreprises, les établissements de crédit distinguent comme expositions de financement spécialisé les expositions qui présentent les caractéristiques suivantes:
+
+| a) | elles existent envers une entité créée spécifiquement pour financer et/ou gérer des actifs corporels; |
+| --- | --- |
+
+| b) | les dispositions contractuelles donnent au prêteur un degré important de contrôle sur les actifs et le revenu qu'ils génèrent; et |
+| --- | --- |
+
+| c) | la première source de remboursement du prêt réside dans le revenu généré par les actifs financés, plutôt que dans la capacité indépendante de remboursement d'une entreprise commerciale considérée dans son ensemble. |
+| --- | --- |
+
+7. Toute obligation de crédit qui n'est pas classée dans l'une des catégories d'expositions visées au paragraphe 1, points a) et b) et d) à f), est classée dans la catégorie d'expositions visée au point c) dudit paragraphe.
+
+8. La catégorie d'expositions visée au paragraphe 1, point g), inclut la valeur résiduelle des biens immobiliers loués, si celle-ci n'est pas incluse dans l'exposition des crédits‐bails définie à l'annexe VII, partie 3, point 4.
+
+9. La méthode utilisée par l'établissement de crédit pour classer les expositions selon les différentes catégories d'expositions doit être appropriée et cohérente dans le temps.
+
+<a id="art_87"></a>
+
+### art_87
+
+Article 87
+
+1. Sauf déduction des fonds propres, les montants des expositions pondérés pour risque de crédit pour les expositions relevant de l'une des catégories d'expositions visées à l'article 86, paragraphe 1, points a) à e) ou g), sont calculés conformément à l'annexe VII, partie 1, points 1 à 27.
+
+2. Pour les créances achetées, les montants des expositions pondérés pour risque de dilution sont calculés conformément à l'annexe VII, partie 1, point 28. En ce qui concerne les créances achetées, lorsque, pour ce qui est du risque de défaut et du risque de dilution, un établissement de crédit dispose d'un droit recours complet à l'égard du vendeur des créances achetées, il n'est pas nécessaire d'appliquer les dispositions des articles 87 et 88 pour lesdites créances. L'exposition peut, en lieu et place, être traitée comme une exposition assortie d'une sûreté.
+
+3. Les montants des expositions pondérés pour risque de crédit et risque de dilution sont calculés sur la base des paramètres pertinents associés aux expositions concernées. Ces paramètres comprennent la probabilité de défaut (PD), les pertes en cas de défaut (en anglais «loss given default» ou LGD), l'échéance (en anglais «maturity» ou M) et la valeur exposée au risque. La probabilité de défaut et les pertes en cas de défaut peuvent être considérées de manière distincte ou conjointe, conformément à l'annexe VII, partie 2.
+
+4. Nonobstant le paragraphe 3, pour toutes les expositions relevant de la catégorie d'expositions visée à l'article 86, paragraphe 1, point e), les montants des expositions pondérés pour risque de crédit sont calculés conformément à l'annexe VII, partie 1, points 17 à 26, sous réserve de l'approbation des autorités compétentes. Les autorités compétentes n'autorisent un établissement de crédit à utiliser l'approche décrite à l'annexe VII, partie 1, points 25 et 26, qu'à la condition qu'il remplisse les exigences minimales fixées à l'annexe VII, partie 4, points 115 à 123.
+
+5. Nonobstant le paragraphe 3, pour les expositions de financement spécialisé, les montants des expositions pondérés pour risque de crédit peuvent être calculés conformément à l'annexe VII, partie 1, point 6. Les autorités compétentes publient des orientations sur la manière dont les établissements de crédit devraient attribuer des pondérations de risque à leurs expositions de financement spécialisé conformément à l'annexe VII, partie 1, point 6, et approuvent les méthodes que ceux-ci emploient à cet égard.
+
+6. Pour les expositions relevant des catégories d'expositions visées à l'article 86, paragraphe 1, points a) à d), les établissements de crédit fournissent leurs propres estimations de la probabilité de défaut conformément à l'article 84 et à l'annexe VII, partie 4.
+
+7. Pour les expositions relevant de la catégorie d'expositions visée à l'article 86, paragraphe 1, point d), les établissements de crédit fournissent leurs propres estimations des pertes en cas de défaut et facteurs de conversion conformément à l'article 84 et à l'annexe VII, partie 4.
+
+8. Pour les expositions relevant des catégories d'expositions visées à l'article 86, paragraphe 1, points a) à c), les établissements de crédit appliquent les valeurs des pertes en cas de défaut prévues à l'annexe VII, partie 2, point 8, et les facteurs de conversion prévus à l'annexe VII, partie 3, point 9, a) à d).
+
+9. Nonobstant le paragraphe 8, pour toutes les expositions relevant des catégories d'expositions visées à l'article 86, paragraphe 1, points a) à c), les autorités compétentes peuvent autoriser les établissements de crédit à utiliser leurs propres estimations des pertes en cas de défaut et facteurs de conversion, conformément à l'article 84 et à l'annexe VII, partie 4.
+
+10. Pour les expositions titrisées et les expositions relevant de la catégorie d'expositions visée à l'article 86, paragraphe 1, point f), les montants des expositions pondérés sont calculés conformément à la sous-section 4.
+
+11. Lorsque les expositions sous la forme d'investissements dans des parts d'organisme de placement collectif (OPC) satisfont aux critères fixés à l'annexe VI, partie 1, points 77 et 78, et que l'établissement de crédit a connaissance de toutes les expositions sous-jacentes de cet OPC, il tient directement compte de ces expositions sous-jacentes pour calculer les montants de ses expositions pondérés et les montants des pertes anticipées, conformément aux méthodes décrites dans la présente sous-section.
+
+Lorsque l'établissement de crédit ne remplit pas les conditions d'utilisation des méthodes décrites dans la présente sous-section, les montants de ses expositions pondérés et les montants des pertes anticipées sont calculés selon les approches suivantes:
+
+| a) | pour les expositions relevant de la catégorie d'expositions visée à l'article 86, paragraphe 1, point e), l'approche décrite à l'annexe VII, partie 1, points 19 à 21. Si, à cet effet, l'établissement de crédit n'est pas en mesure d'opérer une distinction entre les expositions sous la forme de capital-investissement, les expositions sur actions cotées et les expositions sur autres actions, il traite les expositions concernées comme des expositions sur autres actions. |
+| --- | --- |
+
+| b) | pour toutes les autres expositions sous-jacentes, l'approche décrite à la sous‐section 1, sous réserve des modifications suivantes:i)les expositions sont classées dans la catégorie d'expositions appropriée et sont affectées de la pondération de risque correspondant à l'échelon de qualité du crédit immédiatement supérieur à celui qui devrait normalement leur être attribué; etii)les expositions relevant des plus hauts échelons de qualité du crédit, auxquelles une pondération de risque de 150 % devrait normalement être appliquée, sont affectées d'une pondération de risque de 200 %. |
+| --- | --- |
+| i) | les expositions sont classées dans la catégorie d'expositions appropriée et sont affectées de la pondération de risque correspondant à l'échelon de qualité du crédit immédiatement supérieur à celui qui devrait normalement leur être attribué; et |
+| ii) | les expositions relevant des plus hauts échelons de qualité du crédit, auxquelles une pondération de risque de 150 % devrait normalement être appliquée, sont affectées d'une pondération de risque de 200 %. |
+
+12. Lorsque les expositions sous la forme d'un OPC ne satisfont pas aux critères fixés à l'annexe VI, partie 1, points 77 et 78, ou lorsque l'établissement de crédit n'a pas connaissance de tous les expositions sous-jacentes de cet OPC, il tient directement compte de ces expositions sous‐jacentes et calcule les montants de ses expositions pondérés et les montants des pertes anticipées conformément à l'approche décrite à l'annexe VII, partie 1, points 19 à 21. Si, à cet effet, l'établissement de crédit n'est pas en mesure d'opérer une distinction entre les expositions sur capital-investissement, les expositions sur actions cotées et les expositions sur autres actions, il traite les expositions concernées comme des expositions sur autres actions. À cette fin, les expositions ne portant pas sur des actions sont classées dans l'une des catégories visées à l'annexe VII, partie 1, point 19 (capital-investissement, actions cotées ou autres actions), et les risques non connus dans la catégorie des autres actions.
+
+En lieu et place de la méthode décrite ci-dessus, les établissements de crédit peuvent calculer eux-mêmes ou charger une tierce partie de calculer, sur la base des expositions sous-jacentes de l'OPC et conformément aux approches suivantes, les montants moyens pondérés des expositions et de les déclarer, à condition que l'exactitude de ce calcul et de cette déclaration soit assurée de manière adéquate:
+
+| a) | pour les expositions relevant de la catégorie d'expositions visée à l'article 86, paragraphe 1, point e), l'approche décrite à l'annexe VII, partie 1, points 19 à 21. Si, à cet effet, l'établissement de crédit n'est pas en mesure d'opérer une distinction entre les expositions sur capital-investissement, les expositions sur actions cotées et les expositions sur autres actions, il traite les expositions concernées comme des expositions sur autres actions; ou |
+| --- | --- |
+
+| b) | pour toutes les autres expositions sous-jacentes, l'approche décrite à la sous-section 1, sous réserve des modifications suivantes:i)les expositions sont classées dans la catégorie d'expositions appropriée et sont affectées de la pondération de risque correspondant à l'échelon de qualité du crédit immédiatement supérieur à celui qui devrait normalement leur être attribué; etii)les expositions relevant des plus hauts échelons de qualité du crédit, auxquelles une pondération de 150 % devrait normalement être appliquée, sont affectées d'une pondération de risque de 200 %. |
+| --- | --- |
+| i) | les expositions sont classées dans la catégorie d'expositions appropriée et sont affectées de la pondération de risque correspondant à l'échelon de qualité du crédit immédiatement supérieur à celui qui devrait normalement leur être attribué; et |
+| ii) | les expositions relevant des plus hauts échelons de qualité du crédit, auxquelles une pondération de 150 % devrait normalement être appliquée, sont affectées d'une pondération de risque de 200 %. |
+
+<a id="art_88"></a>
+
+### art_88
+
+Article 88
+
+1. Pour les expositions relevant de l'une des catégories d'expositions visées à l'article 86, paragraphe 1, points a) à e), les montants des pertes anticipées sont calculés conformément aux méthodes décrites à l'annexe VII, partie 1, points 29 à 35.
+
+2. Le calcul des montants des pertes anticipées effectué conformément à l'annexe VII, partie 1, points 29 à 35, utilise systématiquement, pour la probabilité de défaut, les pertes en cas de défaut et la valeur exposée au risque, les mêmes valeurs que celles utilisées aux fins du calcul des montants des expositions pondérés effectué conformément à l'article 87. Pour toutes les expositions sur lesquelles il y a eu défaut, lorsque les établissements de crédit utilisent leurs propres estimations des pertes en cas de défaut, la perte anticipée (EL) correspond à la meilleure estimation par l'établissement de crédit concernant les pertes anticipées (ELBE) pour les expositions sur lesquelles il y a eu défaut, conformément à l'annexe VII, partie 4, point 80.
+
+3. Pour les expositions titrisées, les montants des pertes anticipées sont calculés conformément à la sous-section 4.
+
+4. Pour les expositions relevant de la catégorie d'expositions visée à l'article 86, paragraphe 1, point g), le montant des pertes anticipées est égal à zéro.
+
+5. Pour le risque de dilution relatif à des créances achetées, les montants des pertes anticipées sont calculés conformément aux méthodes décrites à l'annexe VII, partie 1, point 35.
+
+6. Pour les expositions visées à l'article 87, paragraphes 11 et 12, les montants des pertes anticipées sont calculés conformément aux méthodes décrites à l'annexe VII, partie 1, points 29 à 35.
+
+<a id="art_89"></a>
+
+### art_89
+
+Article 89
+
+1. Sous réserve de l'approbation des autorités compétentes, les établissements de crédit autorisés à utiliser l'approche NI pour le calcul des montants des expositions pondérés et des montants des pertes anticipées afférents à une ou plusieurs catégories d'expositions peuvent appliquer la sous‐section 1:
+
+| a) | à la catégorie d'expositions visée à l'article 86, paragraphe 1, point a), lorsque le nombre de contreparties importantes est limité et que la mise en œuvre d'un système de notation pour ces contreparties représenterait une contrainte excessive pour l'établissement de crédit; |
+| --- | --- |
+
+| b) | à la catégorie d'expositions visée à l'article 86, paragraphe 1, point b), lorsque le nombre de contreparties importantes est limité et que la mise en œuvre d'un système de notation pour ces contreparties représenterait une contrainte excessive pour l'établissement de crédit; |
+| --- | --- |
+
+| c) | aux expositions pris dans des unités d'exploitation peu importantes, ainsi qu'aux catégories d'expositions peu importantes en termes de taille et de profil de risque ; |
+| --- | --- |
+
+| d) | aux expositions sur l'administration centrale de l'État membre d'origine et sur ses autorités régionales et locales et organismes administratifs, sous réserve que:i)il n'y ait pas de différence de risque entre les expositions sur cette administration centrale et les autres expositions précitées, en raison de dispositions publiques spécifiques; etii)les expositions sur l'administration centrale se voient attribuer une pondération de risque de 0 %, en vertu de la sous-section 1; |
+| --- | --- |
+| i) | il n'y ait pas de différence de risque entre les expositions sur cette administration centrale et les autres expositions précitées, en raison de dispositions publiques spécifiques; et |
+| ii) | les expositions sur l'administration centrale se voient attribuer une pondération de risque de 0 %, en vertu de la sous-section 1; |
+
+| e) | aux expositions d'un établissement de crédit sur une contrepartie qui est son entreprise mère, sa filiale ou une filiale de son entreprise mère, à condition qu'il s'agisse d'un établissement, d'une compagnie financière holding, d'un établissement financier, d'une société de gestion de portefeuille ou d'une entreprise de services auxiliaires soumis à des exigences prudentielles appropriées ou d'une entreprise liée par une relation au sens de l'article 12, paragraphe 1, de la directive 83/349/CEE, et aux expositions entre établissements de crédit qui remplissent les conditions énoncées à l'article 80, paragraphe 8; |
+| --- | --- |
+
+| f) | aux expositions sur des actions d'entités dont les obligations de crédit relèvent d'une pondération de risque de 0 % en vertu de la sous-section 1 (y compris les entités à caractère public auxquels une pondération de risque zéro peut être appliquée); |
+| --- | --- |
+
+| g) | aux expositions sur actions dans le cadre de programmes législatifs visant à promouvoir certains secteurs de l'économie, qui accordent à l'établissement de crédit des subventions importantes pour les investissements et impliquent aussi une certaine forme de contrôle public et imposent des restrictions auxdits investissements en actions. L'exclusion ici prévue est limitée à un total de 10 % des fonds propres de base et des fonds propres complémentaires; |
+| --- | --- |
+
+| h) | aux expositions définies à l'annexe VI, partie 1, point 40, remplissant les conditions qui y sont énoncées; ou |
+| --- | --- |
+
+| i) | aux garanties et contre garanties fournies par l'État conformément à l'annexe VIII, partie 2, point 19. |
+| --- | --- |
+
+Le présent paragraphe n'empêche pas les autorités compétentes des autres États membres d'autoriser l'application des dispositions de la sous-section 1 aux expositions sur actions pour lesquels ce traitement a été autorisé dans d'autres États membres.
+
+2. Aux fins du paragraphe 1, la catégorie des expositions sur actions d'un établissement de crédit est considérée comme importante si leur valeur agrégée, à l'exclusion des expositions sur actions dans le cadre des programmes législatifs visés au paragraphe 1, point g), dépasse en moyenne, sur l'année écoulée, 10 % des fonds propres de l'établissement de crédit. Si le nombre de ces expositions sur actions est inférieur à 10 participations distinctes, le seuil est ramené à 5 % des fonds propres de l'établissement de crédit.
+
+<a id="art_90"></a>
+
+### art_90
+
+Article 90
+
+Aux fins de la présente sous-section, on désigne par «établissement de crédit prêteur» l'établissement de crédit qui détient l'exposition considérée, que celle-ci découle ou non d'un prêt.
+
+<a id="art_91"></a>
+
+### art_91
+
+Article 91
+
+Les établissements de crédit qui appliquent l'approche standard en vertu des articles 78 à 83 ou l'approche NI en vertu des articles 84 à 89, mais qui n'utilisent pas leurs propres estimations des pertes en cas de défaut et facteurs de conversion en vertu des articles 87 et 88, peuvent tenir compte de l'atténuation du risque de crédit conformément à la présente sous‐section lorsqu'ils calculent les montants de leurs expositions pondérés aux fins de l'article 75, point a), ou, le cas échéant, les montants des pertes anticipées aux fins du calcul visé à l'article 57, point q), et à l'article 63, paragraphe 3.
+
+<a id="art_92"></a>
+
+### art_92
+
+Article 92
+
+1. La technique mise en œuvre par l'établissement de crédit prêteur pour fournir la protection du crédit de même que les actions et mesures qu'il adopte et les procédures et politiques qu'il met en œuvre doivent être propres à créer des mécanismes de protection du crédit qui soient juridiquement efficaces et exécutoires dans tous les pays concernés.
+
+2. L'établissement de crédit prêteur prend toute mesure appropriée pour assurer l'efficacité du mécanisme de protection du crédit et traiter les risques liés.
+
+3. Dans le cas d'une protection financée du crédit, les actifs servant de sûreté ne peuvent être pris en compte en tant qu'actifs éligibles que s'ils sont suffisamment liquides et que leur valeur reste suffisamment stable dans le temps pour donner un degré approprié de certitude quant au niveau de protection atteint, compte tenu de l'approche utilisée pour calculer les montants des expositions pondérés et du degré de prise en compte autorisé. L'éligibilité est limitée aux actifs répertoriés à l'annexe VIII, partie 1.
+
+4. Dans le cas d'une protection financée du crédit, l'établissement de crédit prêteur a le droit de liquider en temps opportun ou de conserver pour un temps opportun les actifs dont découle la protection en cas de défaut, d'insolvabilité ou de faillite du débiteur ou, le cas échéant, du dépositaire de la sûreté ainsi que lors de tout autre événement affectant le crédit qui est visé dans la documentation relative à la transaction. Le degré de corrélation entre la valeur des actifs dont découle la protection et la qualité du crédit du débiteur ne doit pas être excessif.
+
+5. Dans le cas d'une protection non financée du crédit, la partie prenant l'engagement ne peut être reconnue en tant que partie éligible que si elle est suffisamment fiable et que la convention de protection est juridiquement efficace et exécutoire dans les pays concernés, de façon à donner un degré approprié de certitude quant au niveau de protection atteint, compte tenu de l'approche utilisée pour calculer les montants des expositions pondérés et du degré de prise en compte autorisé. L'éligibilité est limitée aux fournisseurs de protection et types de conventions de protection répertoriés à l'annexe VIII, partie 1.
+
+6. Les exigences minimales fixées à l'annexe VIII, partie 2, doivent être respectées.
+
+<a id="art_93"></a>
+
+### art_93
+
+Article 93
+
+1. Lorsqu'il est satisfait aux exigences de l'article 92, le calcul des montants des expositions pondérés et, le cas échéant, des montants des pertes anticipées peut être modifié conformément à l'annexe VIII, parties 3 à 6.
+
+2. Aucune exposition pour laquelle une atténuation du risque de crédit est obtenue ne donne lieu à un montant d'exposition pondéré ou à un montant de perte anticipée supérieur à celui d'une exposition identique qui ne fait pas l'objet d'une atténuation du risque de crédit.
+
+3. Lorsque le montant de l'exposition pondéré tient déjà compte de la protection du crédit en vertu des articles 78 à 83 ou des articles 84 à 89, selon le cas, le calcul de la protection du crédit n'est pas pris en compte plus avant au titre de la présente sous-section.
+
+<a id="art_94"></a>
+
+### art_94
+
+Article 94
+
+Lorsqu'un établissement de crédit utilise l'approche standard décrite aux articles 78 à 83 pour calculer les montants des expositions pondérés dans la catégorie d'expositions où les risques titrisés seraient classés en vertu de l'article 79, il calcule le montant d'exposition pondéré d'une position de titrisation conformément à l'annexe IX, partie 4, points 1 à 36.
+
+Dans tous les autres cas, il calcule le montant d'exposition pondéré conformément à l'annexe IX, partie 4, points 1 à 5 et 37 à 76.
+
+<a id="art_95"></a>
+
+### art_95
+
+Article 95
+
+1. Lorsqu'un risque de crédit important associé à des expositions titrisées a été transféré par l'établissement de crédit initiateur conformément à l'annexe IX, partie 2, cet établissement de crédit peut:
+
+| a) | dans le cas d'une titrisation classique, exclure du calcul des montants de ses expositions pondérés et, le cas échéant, des montants des pertes anticipées les expositions qu'il a titrisées; et |
+| --- | --- |
+
+| b) | dans le cas d'une titrisation synthétique, calculer les montants des expositions pondérés et, le cas échéant, les montants des pertes anticipées en ce qui concerne les expositions titrisées, conformément à l'annexe IX, partie 2,. |
+| --- | --- |
+
+2. Lorsque le paragraphe 1 s'applique, l'établissement de crédit initiateur calcule les montants d'expositions pondérés prescrits à l'annexe IX pour les positions qu'il détient éventuellement dans la titrisation.
+
+Lorsque l'établissement de crédit initiateur ne transfère pas de risque de crédit important conformément au paragraphe 1, il n'a pas à calculer les montants des expositions pondérés pour les positions qu'il détient éventuellement dans la titrisation concernée.
+
+<a id="art_96"></a>
+
+### art_96
+
+Article 96
+
+1. Pour calculer le montant d'exposition pondéré d'une position de titrisation, une pondération de risque est appliquée à la valeur exposée au risque de cette position conformément à l'annexe IX, sur la base de la qualité du crédit de ladite position, qui peut être déterminée par référence à l'évaluation de crédit établie par un OEEC ou selon d'autres modalités comme prévu à l'annexe IX.
+
+2. En cas d exposition portant sur différentes tranches d'une titrisation, l'exposition sur chaque tranche est considérée comme une position de titrisation distincte. Les fournisseurs d'une protection du crédit couvrant des positions de titrisation sont réputés détenir des positions dans la titrisation. Celles-ci incluent les expositions sur titrisation découlant de contrats dérivés sur taux d'intérêt ou devises.
+
+3. Lorsqu'une position de titrisation fait l'objet d'une protection financée ou non financée du crédit, la pondération de risque qui lui est applicable peut être modifiée conformément aux articles 90 à 93, en liaison avec l'annexe IX.
+
+4. Sous réserve de l'article 57, point r), et de l'article 66, paragraphe 2, le montant de l'exposition pondéré est inclus dans le total des montants des expositions pondérés de l'établissement de crédit aux fins de l'article 75, point a).
+
+<a id="art_97"></a>
+
+### art_97
+
+Article 97
+
+1. Une évaluation du crédit établie par un OEEC ne peut être utilisée pour déterminer la pondération de risque applicable à une position de titrisation conformément à l'article 96 que si l'OEEC en question a été reconnu comme éligible à cet effet par les autorités compétentes (ci-après dénommé «OEEC éligible»).
+
+2. Les autorités compétentes ne reconnaissent un OEEC comme éligible aux fins du paragraphe 1 que si elles ont l'assurance que cet OEEC se conforme aux exigences de l'article 81, compte tenu des critères techniques fixés à l'annexe VI, partie 2, et qu'il jouit d'une compétence avérée en matière de titrisation, laquelle peut être démontrée par une forte acceptation du marché.
+
+3. Lorsqu'un OEEC a été reconnu comme éligible par les autorités compétentes d'un État membre aux fins du paragraphe 1, les autorités compétentes d'autres États membres peuvent le reconnaître comme tel aux mêmes fins sans procéder elles-mêmes à une évaluation.
+
+4. Les autorités compétentes publient un document expliquant la procédure de reconnaissance, ainsi qu'une liste des OEEC éligibles.
+
+5. Une évaluation de crédit établie par un OEEC éligible ne peut être utilisée aux fins du paragraphe 1 que si elle respecte les principes de crédibilité et de transparence exposés à l'annexe IX, partie 3.
+
+<a id="art_98"></a>
+
+### art_98
+
+Article 98
+
+1. Aux fins de l'application de pondérations de risque aux positions de titrisation, les autorités compétentes décident à quels échelons de qualité du crédit, tels qu'exposés à l'annexe IX, il convient d'associer les évaluations pertinentes du crédit établies par un OEEC éligible. Ces décisions doivent être objectives et cohérentes.
+
+2. Lorsque les autorités compétentes d'un État membre ont pris une décision en vertu du paragraphe 1, les autorités compétentes d'autres États membres peuvent reconnaître cette décision, sans procéder à leur propre évaluation.
+
+<a id="art_99"></a>
+
+### art_99
+
+Article 99
+
+L'utilisation des évaluations de crédit établies par un OEEC pour calculer les montants d'expositions pondérés d'un établissement de crédit en vertu de l'article 96 doit être cohérente et conforme à l'annexe IX, partie 3. Les évaluations de crédit ne peuvent être utilisées de manière sélective.
+
+<a id="art_100"></a>
+
+### art_100
+
+Article 100
+
+1. En cas de titrisation d'expositions renouvelables assorties d'une clause de remboursement anticipé, l'établissement de crédit initiateur calcule, conformément à l'annexe IX, un montant pondéré supplémentaire d'expositions, relatif au risque d'augmentation, suite à la mise en œuvre de la clause de remboursement anticipé, des niveaux de risque de crédit auxquels ledit établissement de crédit est exposé.
+
+2. À cet effet, on entend par exposition renouvelable une exposition en vertu de laquelle les encours des clients sont autorisés à fluctuer en fonction de leurs décisions d'emprunt et de remboursement dans une limite autorisée, et par clause de remboursement anticipé une clause contractuelle imposant, en cas de survenance d'événements prédéfinis, le remboursement des positions des investisseurs avant l'échéance initialement convenue des titres émis.
+
+<a id="art_101"></a>
+
+### art_101
+
+Article 101
+
+1. Un établissement de crédit initiateur qui, en ce qui concerne une titrisation, a eu recours à l'article 95 lors du calcul des montants des expositions pondéré, ou un établissement de crédit sponsor ne soutient pas une titrisation, en vue de réduire les pertes potentielles ou réelles des investisseurs, au-delà de ses obligations contractuelles.
+
+2. Si, pour une titrisation donnée, l'établissement de crédit initiateur ou sponsor ne se conforme pas au paragraphe 1, les autorités compétentes lui imposent, au minimum, de détenir des fonds propres pour toutes ces expositions titrisées comme si celles-ci ne l'avaient pas été. L'établissement de crédit rend public le fait qu'il a fourni un soutien non contractuel et l'impact que ce soutien a eu sur ses fonds propres réglementaires.
+
+<a id="art_102"></a>
+
+### art_102
+
+Article 102
+
+1. Les autorités compétentes imposent aux établissements de crédit de détenir des fonds propres en couverture du risque opérationnel conformément aux approches décrites aux articles 103, 104 et 105.
+
+2. Sans préjudice du paragraphe 4, les établissements de crédit qui utilisent l'approche décrite à l'article 104 ne reviennent pas à l'approche décrite à l'article 103, sauf pour un motif dûment justifié et à condition que les autorités compétentes l'autorisent.
+
+3. Sans préjudice du paragraphe 4, les établissements de crédit qui utilisent l'approche décrite à l'article 105 ne reviennent pas à une approche décrite aux articles 103 ou 104, sauf pour un motif dûment justifié et à condition que les autorités compétentes l'autorisent.
+
+4. Les autorités compétentes peuvent autoriser les établissements de crédit à combiner différentes approches conformément à l'annexe X, partie 4.
+
+<a id="art_103"></a>
+
+### art_103
+
+Article 103
+
+En vertu de l'approche par indicateur de base («basic indicator approach»), l'exigence de fonds propres pour risque opérationnel est égale à un certain pourcentage d'un indicateur pertinent, conformément aux paramètres exposés à l'annexe X, partie 1.
+
+<a id="art_104"></a>
+
+### art_104
+
+Article 104
+
+1. En vertu de l'approche standard, les établissements de crédit divisent leurs activités en un certain nombre de lignes d'activité, comme exposé à l'annexe X, partie 2.
+
+2. Pour chaque ligne d'activité, les établissements de crédit calculent une exigence de fonds propres pour risque opérationnel, qui correspond à un certain pourcentage d'un indicateur pertinent, conformément aux paramètres exposés à l'annexe X, partie 2.
+
+3. Pour certaines lignes d'activité, les autorités compétentes peuvent, à certaines conditions, autoriser un établissement de crédit à utiliser un autre indicateur pertinent aux fins du calcul de son exigence de fonds propres pour risque opérationnel, comme le prévoit l'annexe X, partie 2, points 5 à 11.
+
+4. En vertu de l'approche standard, l'exigence de fonds propres pour risque opérationnel est égale à la somme des exigences de fonds propres pour risque opérationnel relatives à toutes les différentes lignes d'activité.
+
+5. Les paramètres à utiliser dans le cadre de l'approche standard sont exposés à l'annexe X, partie 2.
+
+6. Pour pouvoir utiliser l'approche standard, les établissements de crédit doivent remplir les critères fixés à l'annexe X, partie 2.
+
+<a id="art_105"></a>
+
+### art_105
+
+Article 105
+
+1. Les établissements de crédit peuvent utiliser des approches par mesure avancée («advanced measurement approaches») fondées sur leurs propres systèmes de mesure du risque opérationnel, sous réserve que les autorités compétentes autorisent expressément l'emploi des modèles concernés pour le calcul de l'exigence de fonds propres.
+
+2. Les établissements de crédit donnent aux autorités compétentes l'assurance qu'ils remplissent les critères de qualification fixés à l'annexe X, partie 3.
+
+3. Lorsqu'une approche par mesure avancée doit être utilisée par un établissement de crédit mère dans l'Union et ses filiales, ou par les filiales d'une compagnie financière holding mère dans l'Union, les autorités compétentes de ces différentes entités juridiques coopèrent étroitement entre elles, selon les modalités prévues aux articles 129 à 132. La demande d'utilisation inclut les éléments répertoriés à l'annexe X, partie 3.
+
+4. Lorsqu'un établissement de crédit mère dans l'Union et ses filiales ou les filiales d'une compagnie financière holding mère dans l'Union appliquent une approche par mesure avancée sur une base unifiée, les autorités compétentes peuvent permettre que les critères de qualification fixés à l'annexe X, partie 3, soient remplis par l'entreprise mère et ses filiales considérées ensemble.
+
+<a id="art_106"></a>
+
+### art_106
+
+Article 106
+
+1. On entend par «exposition» aux fins de la présente section tout actif ou élément de hors bilan visé à la section 3, sous-section 1, sans application des pondérations ou degrés de risque qui y sont prévus.
+
+Les risques découlant des éléments visés à l'annexe IV sont calculés selon l'une des méthodes décrites à l'annexe III. Aux fins de la présente section, l'annexe III, partie 2, point 2, est d'application.
+
+Peuvent être exclus de la définition des expositions, avec l'accord des autorités compétentes, tous les éléments couverts à 100 % par des fonds propres, pour autant que ces derniers ne soient pas inclus dans les fonds propres de l'établissement de crédit aux fins de l'article 75 ni dans le calcul des autres ratios de surveillance prévus par la présente directive ainsi que par d'autres actes communautaires.
+
+2. Les expositions ne comprennent pas:
+
+| a) | dans le cas des opérations de change, les expositions encourues normalement lors du règlement pendant la période de quarante-huit heures suivant le paiement; ou |
+| --- | --- |
+
+| b) | dans le cas des opérations d'achat ou de vente de titres, les expositions encourues normalement lors du règlement pendant la période de cinq jours ouvrables suivant la date du paiement ou de la livraison des titres si celle-ci intervient plus tôt. |
+| --- | --- |
+
+<a id="art_107"></a>
+
+### art_107
+
+Article 107
+
+Aux fins de l'application de la présente section, on entend par«établissement de crédit»:
+
+| a) | un établissement de crédit, y compris ses succursales dans des pays tiers; et |
+| --- | --- |
+
+| b) | toute entreprise privée ou publique, y compris ses succursales, qui répond à la définition d'un «établissement de crédit» et qui a été agréée dans un pays tiers. |
+| --- | --- |
+
+<a id="art_108"></a>
+
+### art_108
+
+Article 108
+
+Une exposition assumée par un établissement de crédit à l'égard d'un client ou d'un groupe de clients liés est considérée comme un grand risque lorsque sa valeur atteint ou dépasse 10 % de ses fonds propres.
+
+<a id="art_109"></a>
+
+### art_109
+
+Article 109
+
+Les autorités compétentes exigent que chaque établissement de crédit ait des procédures administratives et comptables saines et des mécanismes appropriés de contrôle interne, aux fins de l'identification et de la comptabilisation de tous les grands risques et des changements qui y sont apportés par la suite, conformément à la présente directive, ainsi que pour la surveillance de ces risques eu égard à la politique de chaque établissement de crédit en matière d'expositions.
+
+<a id="art_110"></a>
+
+### art_110
+
+Article 110
+
+1. Chaque grand risque est notifié par l'établissement de crédit aux autorités compétentes.
+
+Les États membres prévoient que cette notification a lieu, à leur choix, selon l'une des deux formules qui suivent:
+
+| a) | notification de tous les grands risques au moins une fois par an, assortie de la communication, en cours d'année, de tout nouveau grand risque et de toute augmentation des grands risques existants d'au moins 20 % par rapport à la dernière communication, ou |
+| --- | --- |
+
+| b) | notification de tous les grands risques au moins quatre fois par an. |
+| --- | --- |
+
+2. Sauf dans le cas des établissements de crédit se fondant sur l'article 114 pour la prise en compte des sûretés dans le calcul de la valeur exposée au risque aux fins de l'article 111, paragraphes 1, 2 et 3, ne doivent pas être notifiées conformément au paragraphe 1 du présent article les expositions exemptées en vertu de l'article 113, paragraphe 3, points a) à d), f), g) et h), et la fréquence de notification prévue au paragraphe 1, point b), peut être ramenée à deux fois par an pour les expositions visées à l'article 113, paragraphe 3, points e) et i), ainsi qu'aux articles 115 et 116.
+
+Lorsqu'un établissement de crédit invoque le bénéfice du présent paragraphe, il conserve la trace des motifs invoqués pendant un an au moins à partir du fait générateur de la dispense, afin de permettre aux autorités compétentes d'en vérifier le bien-fondé.
+
+3. Les États membres peuvent exiger que les établissements de crédit analysent leurs expositions à l'égard des émetteurs de sûretés en ce qui concerne de possibles concentrations et, le cas échéant, prennent des mesures ou signalent toute donnée significative à leur autorité compétente.
+
+<a id="art_111"></a>
+
+### art_111
+
+Article 111
+
+1. Un établissement de crédit ne peut assumer, à l'égard d'un même client ou d'un même groupe de clients liés, des expositions dont le montant total dépasse 25 % de ses fonds propres.
+
+2. Lorsque ce client ou groupe de clients liés est l'entreprise mère ou la filiale de l'établissement de crédit et/ou une ou plusieurs filiales de cette entreprise mère, le pourcentage prévu au paragraphe 1 est ramené à 20 %. Toutefois, les États membres peuvent ne pas assujettir les expositions assumées sur ces clients à cette limite de 20 %, s'ils prévoient un contrôle particulier des expositions en question par d'autres mesures ou procédures. Ils informent la Commission et le comité bancaire européen de la teneur de ces mesures ou procédures.
+
+3. Un établissement de crédit ne peut assumer de grands risques dont le montant cumulé dépasse 800 % de ses fonds propres.
+
+4. Un établissement de crédit respecte en permanence, en ce qui concerne les expositions qu'il assume, les limites fixées aux paragraphes 1, 2 et 3. Si, dans un cas exceptionnel, les expositions dépassent néanmoins lesdites limites, ce fait est immédiatement notifié aux autorités compétentes qui peuvent, lorsque les circonstances le justifient, accorder un délai limité pour que l'établissement de crédit se conforme aux limites.
+
+<a id="art_112"></a>
+
+### art_112
+
+Article 112
+
+1. Aux fins des articles 113 à 117, le terme «garanties» englobe les dérivés de crédit pris en compte en vertu des articles 90 à 93, autres que les titres liés à un crédit («credit linked notes»).
+
+2. Sous réserve du paragraphe 3, lorsque la reconnaissance d'une protection financée ou non financée du crédit peut être autorisée en vertu des articles 113 à 117, cette autorisation est subordonnée au respect des critères d'éligibilité et autres exigences minimales fixés aux articles 90 à 93 aux fins du calcul des montants des expositions pondérés conformément aux articles 78 à 83.
+
+3. Lorsqu'un établissement de crédit se fonde sur l'article 114, paragraphe 2, la prise en compte de la protection financée du crédit est soumise aux exigences pertinentes prévues aux articles 84 à 89.
+
+<a id="art_113"></a>
+
+### art_113
+
+Article 113
+
+1. Les États membres peuvent imposer des limites plus strictes que celles prévues à l'article 111.
+
+2. Les États membres peuvent exempter, totalement ou partiellement, de l'application de l'article 111, paragraphes 1, 2 et 3, les expositions prises par un établissement de crédit à l'égard de son entreprise mère, d'autres filiales de cette entreprise mère ou de ses propres filiales, pour autant que ces entreprises soient incluses dans la surveillance sur une base consolidée à laquelle l'établissement de crédit est lui-même soumis, conformément à la présente directive ou à des normes équivalentes en vigueur dans un pays tiers.
+
+3. Les États membres peuvent exempter totalement ou partiellement de l'application de l'article 111 les expositions suivantes:
+
+| a) | actifs constituant des créances sur les administrations centrales ou les banques centrales qui, non garanties, recevraient une pondération de risque de 0 % en vertu des articles 78 à 83; |
+| --- | --- |
+
+| b) | actifs constituant des créances sur des organisations internationales ou des banques multilatérales de développement qui, non garanties, recevraient une pondération de risque de 0 % en vertu des articles 78 à 83; |
+| --- | --- |
+
+| c) | actifs constituant des créances expressément garanties par des administrations centrales, des banques centrales, des organisations internationales, des banques multilatérales de développement ou des entités du secteur public, dès lors qu'une créance non garantie sur l'entité qui fournit la garantie recevrait une pondération de risque de 0 % en vertu des articles 78 à 83; |
+| --- | --- |
+
+| d) | autres expositions sur, ou garanties par, des administrations centrales, des banques centrales, des organisations internationales, des banques multilatérales de développement ou des entités du secteur public, dès lors qu'une créance non garantie sur l'entité à laquelle l'exposition est imputable ou par laquelle elle est garantie recevrait une pondération de risque de 0 % en vertu des articles 78 à 83; |
+| --- | --- |
+
+| e) | actifs constituant des créances et autres expositions sur les administrations centrales ou les banques centrales non visées au point a), libellés et, le cas échéant, financés dans la devise nationale de l'emprunteur; |
+| --- | --- |
+
+| f) | actifs et autres expositions garantis, à la satisfaction des autorités compétentes, par une sûreté sous la forme de titres de créance émis par des administrations centrales, des banques centrales, des organisations internationales, des banques multilatérales de développement, les autorités régionales ou locales des États membres ou des entités du secteur public, dès lors que ces titres représentent une créance sur leur émetteur qui recevrait une pondération de risque de 0 % en vertu des articles 78 à 83; |
+| --- | --- |
+
+| g) | actifs et autres expositions garantis, à la satisfaction des autorités compétentes, par une sûreté sous la forme d'un dépôt de fonds constitué auprès de l'établissement de crédit prêteur, ou auprès d'un établissement de crédit qui est l'entreprise mère ou une filiale de l'établissement prêteur; |
+| --- | --- |
+
+| h) | actifs et autres expositions garantis, à la satisfaction des autorités compétentes, par une sûreté sous la forme de titres représentatifs de dépôts émis par l'établissement de crédit prêteur ou par un établissement de crédit qui est l'entreprise mère ou une filiale de l'établissement de crédit prêteur et déposés auprès de l'un quelconque d'entre eux; |
+| --- | --- |
+
+| i) | actifs constituant des créances et autres expositions sur des établissements, d'une durée égale ou inférieure à un an, et ne constituant pas des fonds propres de ces établissements; |
+| --- | --- |
+
+| j) | actifs constituant des créances et autres expositions, d'une durée égale ou inférieure à un an, garantis conformément à l'annexe VI, partie 1, point 85, sur des établissements qui, sans être des établissements de crédit, respectent les conditions visées audit point; |
+| --- | --- |
+
+| k) | effets de commerce et autres effets analogues, d'une durée égale ou inférieure à un an, portant les signatures d'autres établissements de crédit; |
+| --- | --- |
+
+| l) | obligations garanties répondant à la définition figurant à l'annexe VI, partie 1, points 68 à 70; |
+| --- | --- |
+
+| m) | jusqu'à coordination ultérieure, participations dans des compagnies d'assurances visées à l'article 122, paragraphe 1, jusqu'à un maximum de 40 % des fonds propres de l'établissement de crédit qui prend la participation; |
+| --- | --- |
+
+| n) | actifs constituant des créances sur des établissements de crédit régionaux ou centraux auxquels l'établissement de crédit prêteur est associé au sein d'un réseau en vertu de dispositions légales ou statutaires et qui sont chargés, en application de ces dispositions, d'opérer la compensation des liquidités au sein du réseau; |
+| --- | --- |
+
+| o) | expositions garanties, à la satisfaction des autorités compétentes, par une sûreté sous la forme de titres autres que ceux visés au point f); |
+| --- | --- |
+
+| p) | prêts garantis, à la satisfaction des autorités compétentes, par une hypothèque sur un logement ou par des participations dans des sociétés de logement finlandaises, fonctionnant conformément à la loi finlandaise sur les sociétés de logement de 1991 ou aux législations équivalentes ultérieures, et opérations de crédit-bail en vertu desquelles le bailleur conserve la pleine propriété du logement donné en location tant que le locataire n'a pas exercé son option d'achat et, dans tous les cas, jusqu'à concurrence de 50 % de la valeur du logement concerné; |
+| --- | --- |
+
+| q) | les éléments suivants, dès lors qu'ils recevraient une pondération de risque de 50 % en vertu des articles 78 à 83, et seulement jusqu'à concurrence de 50 % de la valeur du bien immobilier concerné:i)expositions garanties par des hypothèques sur des bureaux ou autres locaux commerciaux ou par des participations dans des sociétés de logement finlandaises, fonctionnant conformément à la loi finlandaise sur les sociétés de logement de 1991 ou aux législations équivalentes ultérieures, en ce qui concerne les bureaux ou autres locaux commerciaux; etii)expositions liées à des opérations de crédit-bail immobilier portant sur des bureaux ou d'autres locaux commerciaux.Aux fins du point ii), et jusqu'au 31 décembre 2011, les autorités compétentes de chaque État membre peuvent autoriser les établissements de crédit à tenir compte de 100 % de la valeur du bien immobilier concerné. À la fin de cette période, ce traitement sera revu. Les États membres informent la Commission de l'usage qu'ils font de cette faculté de traitement préférentiel. |
+| --- | --- |
+| i) | expositions garanties par des hypothèques sur des bureaux ou autres locaux commerciaux ou par des participations dans des sociétés de logement finlandaises, fonctionnant conformément à la loi finlandaise sur les sociétés de logement de 1991 ou aux législations équivalentes ultérieures, en ce qui concerne les bureaux ou autres locaux commerciaux; et |
+| ii) | expositions liées à des opérations de crédit-bail immobilier portant sur des bureaux ou d'autres locaux commerciaux. |
+
+| r) | 50 % des éléments de hors bilan à risque modéré visés à l'annexe II; |
+| --- | --- |
+
+| s) | moyennant accord des autorités compétentes, les garanties autres que celles sur crédit distribué, qui ont un fondement légal ou réglementaire et sont apportées à leurs affiliés par les sociétés de caution mutuelle possédant le statut d'établissement de crédit, sous réserve d'une pondération de 20 % de leur montant; et |
+| --- | --- |
+
+| t) | les éléments de hors bilan à risque faible visés à l'annexe II, pour autant qu'il ait été conclu avec le client ou le groupe de clients liés, un accord aux termes duquel l'exposition ne peut être encourue qu'à condition qu'il ait été vérifié qu'elle n'entraîne pas un dépassement des limites applicables au titre de l'article 111, paragraphes 1 à 3. |
+| --- | --- |
+
+Les fonds reçus en vertu d'un titre lié à un crédit émis par l'établissement de crédit, ainsi que les emprunts et dépôts qui sont effectués par une contrepartie auprès de l'établissement de crédit et qui font l'objet d'une convention de compensation portant sur des éléments du bilan pouvant être prise en compte en vertu des articles 90 à 93, sont réputés relever du point g).
+
+Aux fins du point o), les titres donnés en sûreté sont évalués au prix du marché et ont une survaleur par rapport aux expositions garanties et sont soit cotés à une bourse, soit effectivement négociables et régulièrement cotés sur un marché fonctionnant par l'intermédiaire d'opérateurs professionnels reconnus et assurant, à la satisfaction des autorités compétentes de l'État membre d'origine de l'établissement de crédit, la possibilité de déterminer un prix objectif qui permette de vérifier à tout moment la survaleur de ces titres. La survaleur requise est de 100 %. Toutefois, elle est de 150 % dans le cas d'actions et de 50 % dans le cas de titres de créance émis par des établissements ou par les autorités régionales ou locales des États membres autres que celles visées au point f) et dans le cas de titres de créance émis par des banques multilatérales de développement autres que celles recevant une pondération de risque de 0 % en vertu des articles 78 à 83. En cas de non-congruence entre l'échéance de l'exposition et celle de la protection du crédit, la sûreté n'est pas reconnue. Les titres donnés en sûreté ne peuvent constituer des fonds propres d'établissements de crédit.
+
+Aux fins du point p), la valeur du bien immobilier est calculée, à la satisfaction des autorités compétentes, sur la base de critères d'évaluation rigoureux définis par des dispositions législatives, réglementaires ou administratives. L'évaluation est effectuée au moins une fois par an. Aux fins du point p), on entend par «logement» le logement qui est ou sera occupé ou donné en location par l'emprunteur.
+
+Les États membres informent la Commission de toute exemption accordée au titre du point s) afin d'assurer qu'elle n'entraîne pas de distorsion de concurrence.
+
+<a id="art_114"></a>
+
+### art_114
+
+Article 114
+
+1. Sous réserve du paragraphe 3, pour le calcul de la valeur exposée au risque aux fins de l'article 111, paragraphes 1 à 3, les États membres peuvent, au lieu d'appliquer les exemptions partielles ou totales prévues à l'article 113, paragraphe 3, points f), g), h) et o), autoriser les établissements de crédit qui appliquent la méthode générale fondée sur les sûretés financières en vertu des articles 90 à 93 à utiliser une valeur inférieure à la valeur exposée au risque, mais pas inférieure au total des valeurs pleinement ajustées de leurs expositions sur le client ou groupe de clients liés concerné.
+
+À cet effet, on entend par «valeur pleinement ajustée d'une exposition» la valeur calculée en vertu des articles 90 à 93, compte tenu de l'atténuation du risque de crédit, des corrections pour volatilité et d'une éventuelle non-congruence des échéances (E*).
+
+Lorsque le présent paragraphe est appliqué à un établissement de crédit, l'article 113, paragraphe 3, points f), g), h) et o), ne s'applique pas à cet établissement de crédit.
+
+2. Sous réserve du paragraphe 3, un établissement de crédit qui a le droit d'utiliser ses propres estimations des pertes en cas de défaut et facteurs de conversion pour une catégorie d'expositions donnée en vertu des articles 84 à 89 peut être autorisé, lorsque les autorités compétentes jugent qu'il est en mesure d'estimer les effets de ses sûretés financières sur ses expositions distinctement des autres aspects afférents aux pertes en cas de défaut, à tenir compte desdits effets lorsqu'il calcule la valeur de ses expositions aux fins de l'article 111, paragraphes 1 à 3.
+
+Les autorités compétentes doivent être satisfaites de la qualité des estimations produites par l'établissement de crédit en vue de réduire la valeur exposée au risque aux fins des exigences de l'article 111.
+
+Lorsqu'un établissement de crédit est autorisé à utiliser ses propres estimations des effets de ses sûretés financières, il le fait d'une façon qui est cohérente avec l'approche adoptée pour le calcul des exigences de fonds propres.
+
+Un établissement de crédit qui a l'autorisation d'utiliser ses propres estimations des pertes en cas de défaut et facteurs de conversion pour une catégorie d'expositions donnée en vertu des articles 84 à 89 et qui ne calcule pas la valeur de ses expositions selon la méthode visée au premier alinéa peut être autorisé, aux fins de ce calcul, à appliquer l'approche prévue au paragraphe 1 ou l'exemption prévue à l'article 113, paragraphe 3, point o). Il ne peut utiliser que l'une de ces deux méthodes.
+
+3. Un établissement de crédit autorisé à appliquer les méthodes décrites aux paragraphes 1 et 2 lorsqu'il calcule la valeur de ses expositions aux fins de l'article 111, paragraphes 1 à 3, met périodiquement en œuvre des scénarios de crise portant sur ses concentrations du risque de crédit, y compris pour ce qui concerne la valeur réalisable de toute sûreté prise.
+
+Ces scénarios de crise périodiques tiennent compte des risques découlant de changements éventuels des conditions du marché qui pourrait avoir un impact négatif sur l'adéquation des fonds propres de l'établissement de crédit, ainsi que des risques découlant de la mise en œuvre des sûretés en situation de crise.
+
+L'établissement de crédit doit donner aux autorités compétentes l'assurance que les scénarios de crise qu'il met en œuvre sont adéquats pour l'évaluation de ces risques.
+
+Au cas où un scénario de crise mettrait en évidence, pour une sûreté prise, une valeur réalisable inférieure à celle qui pourrait être prise en compte en vertu du paragraphe 1 ou 2 selon le cas, la valeur de la sûreté dont il peut être tenu compte dans le calcul de la valeur des expositions aux fins de l'article 111, paragraphes 1 à 3, est réduite en conséquence.
+
+Les établissements de crédit intègrent les éléments suivants à leurs stratégies de gestion du risque de concentration:
+
+| a) | les politiques et procédures visant à tenir compte des risques découlant d'une non‐congruence entre les échéances de leurs expositions et de toute protection du crédit portant sur celles-ci; |
+| --- | --- |
+
+| b) | les politiques et procédures à appliquer si un scénario de crise met en évidence une valeur réalisable de la sûreté inférieure à celle prise en compte en vertu des paragraphes 1 et 2; et |
+| --- | --- |
+
+| c) | les politiques et procédures relatives au risque de concentration découlant de la mise en œuvre de techniques d'atténuation du risque de crédit, et notamment aux grands risques de crédit indirectement encourus, par exemple les risques sur un émetteur unique de titres pris comme sûreté. |
+| --- | --- |
+
+4. Lorsque les effets des sûretés sont pris en compte en vertu des paragraphes 1 ou 2, les États membres peuvent traiter toute fraction garantie d'une exposition comme une exposition sur l'émetteur de la sûreté et non sur le client.
+
+<a id="art_115"></a>
+
+### art_115
+
+Article 115
+
+1. Les États membres peuvent, aux fins de l'article 111, paragraphes 1 à 3, attribuer une pondération de risque de 20 % aux actifs constituant des créances sur des autorités régionales et locales des États membres, dès lors que ces créances recevraient une pondération de risque de 20 % en vertu des articles 78 à 83, ainsi qu'aux autres expositions envers ces autorités ou garanties par celles-ci, dès lors que les créances sur ces autorités reçoivent une pondération de risque de 20 % en vertu des articles 78 à 83. Toutefois, les États membres peuvent ramener cette pondération à 0 % pour les actifs constituant des créances sur des autorités régionales et locales des États membres, dès lors que ces créances recevraient une pondération de risque de 0 % en vertu des articles 78 à 83, ainsi qu'aux autres expositions envers ces autorités ou garanties par celles-ci, dès lors que les créances sur ces autorités reçoivent une pondération de risque de 0 % en vertu des articles 78 à 83.
+
+2. Les États membres peuvent, aux fins de l'article 111, paragraphes 1 à 3, attribuer une pondération de risque de 20 % aux éléments d'actif constituant des créances ainsi qu'à d'autres expositions sur des établissements d'une durée supérieure à un an mais inférieure ou égale à trois ans et une pondération de risque de 50 % aux éléments d'actif constituant des créances sur des établissements d'une durée supérieure à trois ans, pour autant que ces dernières soient représentées par des titres de créance émis par un établissement et que ces titres de créance soient, de l'avis des autorités compétentes, effectivement négociables sur un marché constitué d'opérateurs professionnels et soient cotés quotidiennement sur ce marché, ou dont l'émission a été autorisée par les autorités compétentes de l'État membre d'origine de l'établissement émetteur. Dans tous les cas, ces éléments ne peuvent pas constituer des fonds propres.
+
+<a id="art_116"></a>
+
+### art_116
+
+Article 116
+
+Par dérogation à l'article 113, paragraphe 3, point i), et à l'article 115, paragraphe 2, les États membres peuvent attribuer une pondération de risque de 20 % aux éléments d'actifs constituant des créances et autres expositions envers des établissements, indépendamment de leur durée.
+
+<a id="art_117"></a>
+
+### art_117
+
+Article 117
+
+1. Lorsqu'une exposition envers un client est garantie par une tierce partie, ou par une sûreté sous la forme de titres émis par une tierce partie dans les conditions définies à l'article 113, paragraphe 3, point o), les États membres peuvent:
+
+| a) | considérer que l'exposition est encourue sur le garant et non sur le client; ou |
+| --- | --- |
+
+| b) | considérer que l'exposition est encourue sur la tierce partie et non sur le client, si l'exposition définie à l'article 113, paragraphe 3, point o), est garantie par une sûreté dans les conditions fixées par cette disposition. |
+| --- | --- |
+
+2. Lorsque les États membres appliquent le traitement prévu au paragraphe 1, point a):
+
+| a) | lorsque la garantie est libellée dans une devise autre que celle dans laquelle l'exposition est libellée, le montant de l'exposition réputée garantie est calculé conformément aux dispositions de l'annexe VIII régissant le traitement de la non-congruence monétaire en cas de protection non financée du crédit; |
+| --- | --- |
+
+| b) | une non-congruence entre l'échéance de l'exposition et celle de la protection est traitée conformément aux dispositions de l'annexe VIII régissant le traitement de la non-congruence des échéances; et |
+| --- | --- |
+
+| c) | une protection partielle peut être prise en compte conformément au traitement prévu à l'annexe VIII. |
+| --- | --- |
+
+<a id="art_118"></a>
+
+### art_118
+
+Article 118
+
+Lorsque les exigences de la présente section ne s'appliquent pas, en vertu de l'article 69, paragraphe 1, à un établissement de crédit à titre individuel ou sur une base sous-consolidée ou lorsque les dispositions de l'article 70 sont appliquées à des établissements de crédit mères dans un État membre, des mesures doivent être prises pour garantir une répartition adéquate des risques à l'intérieur du groupe.
+
+<a id="art_119"></a>
+
+### art_119
+
+Article 119
+
+La Commission soumet au Parlement européen et au Conseil, pour le 31 décembre 2007 au plus tard, un rapport sur l'application de la présente section, accompagné de toute proposition appropriée.
+
+<a id="art_120"></a>
+
+### art_120
+
+Article 120
+
+1. Un établissement de crédit ne peut détenir une participation qualifiée dont le montant dépasse 15 % de ses fonds propres dans une entreprise qui n'est ni un établissement de crédit, ni un établissement financier, ni une entreprise dont l'activité se situe dans le prolongement direct de l'activité bancaire ou relève de services auxiliaires à celle‐ci, tels le crédit-bail (leasing), l'affacturage (factoring), la gestion de fonds communs de placement, la gestion de services informatiques ou toute autre activité similaire.
+
+2. Le montant total des participations qualifiées d'un établissement de crédit dans des entreprises autres que des établissements de crédit, des établissements financiers ou des entreprises dont l'activité se situe dans le prolongement direct de l'activité bancaire ou relève de services auxiliaires à celle‐ci, tels le crédit-bail (leasing), l'affacturage (factoring), la gestion de fonds communs de placement, la gestion de services informatiques ou toute autre activité similaire ne peut pas dépasser 60 % des fonds propres de l'établissement de crédit.
+
+3. Les limites fixées aux paragraphes 1 et 2 ne peuvent être dépassées que dans des circonstances exceptionnelles. Toutefois, dans ce cas, les autorités compétentes exigent que l'établissement de crédit augmente ses fonds propres ou prenne d'autres mesures d'effet équivalent.
+
+<a id="art_121"></a>
+
+### art_121
+
+Article 121
+
+Les actions ou parts détenues temporairement, en raison d'une opération d'assistance financière en vue de l'assainissement ou du sauvetage d'une entreprise, ou en raison de la prise ferme d'une émission de titres durant la durée normale de cette prise ferme, ou en nom propre mais pour le compte de tiers, ne sont pas incluses dans les participations qualifiées pour le calcul des limites fixées à l'article 120, paragraphes 1 et 2. Les actions ou parts qui n'ont pas le caractère d'immobilisations financières au sens de l'article 35, paragraphe 2, de la directive 86/635/CEE ne sont pas incluses dans le calcul.
+
+<a id="art_122"></a>
+
+### art_122
+
+Article 122
+
+1. Les États membres peuvent ne pas appliquer les limites énoncées à l'article 120, paragraphes 1 et 2, aux participations détenues dans des entreprises d'assurance au sens des directives 73/239/CEE et 2002/83/CE, ou dans des entreprises de réassurance au sens de la directive 98/78/CE.
+
+2. Les États membres peuvent prévoir que les autorités compétentes n'appliquent pas les limites fixées à l'article 120, paragraphes 1 et 2, s'ils prévoient que les excédents de participation qualifiée par rapport auxdites limites sont couverts à 100 % par des fonds propres et que ceux-ci ne rentrent pas dans le calcul prescrit par l'article 75. S'il existe des excédents par rapport aux deux limites fixées à l'article 120, paragraphes 1 et 2, le montant à couvrir par les fonds propres est le plus élevé des excédents.
+
+<a id="art_123"></a>
+
+### art_123
+
+Article 123
+
+Les établissements de crédit disposent de stratégies et procédures saines, efficaces et exhaustives pour évaluer et conserver en permanence le montant, le type et la répartition des fonds propres internes qu'ils jugent appropriés pour couvrir la nature et le niveau des risques auxquels ils sont ou pourraient être exposés.
+
+Ces stratégies et procédures font l'objet d'un contrôle interne régulier, visant à assurer qu'elles restent exhaustives et adaptées à la nature, à l'échelle et à la complexité des activités de l'établissement de crédit concerné.
+
+<a id="art_124"></a>
+
+### art_124
+
+Article 124
+
+1. Sur la base des critères techniques définis à l'annexe XI, les autorités compétentes contrôlent les dispositions, stratégies, procédures et mécanismes mis en œuvre par les établissements de crédit pour se conformer à la présente directive et évaluent les risques auxquels ceux-ci sont ou pourraient être exposés.
+
+2. Le champ d'application du contrôle et de l'évaluation visés au paragraphe 1 est celui des exigences de la présente directive.
+
+3. Sur la base du contrôle et de l'évaluation visés au paragraphe 1, les autorités compétentes déterminent si les dispositions, stratégies, procédures et mécanismes mis en œuvre par les établissements de crédit et les fonds propres qu'ils détiennent assurent une gestion et une couverture adéquates de leurs risques.
+
+4. Les autorités compétentes fixent, en tenant compte du principe de proportionnalité, la fréquence et l'intensité du contrôle et de l'évaluation visés au paragraphe 1, compte tenu de l'ampleur, de l'importance systémique, de la nature, de l'échelle et de la complexité des activités exercées par l'établissement de crédit concerné. Ce contrôle et cette évaluation ont lieu au moins une fois par an.
+
+5. Le contrôle et l'évaluation effectués par les autorités compétentes portent notamment sur l'exposition des établissements de crédit au risque de crédit inhérent à leurs activités autres que de négociation. Des mesures sont arrêtées dans le cas des établissements dont la valeur économique décline de plus de 20 % de leurs fonds propres à la suite d'une évolution brutale et inattendue des taux d'intérêt, dont la portée est prescrite par les autorités compétentes et ne diffère pas d'un établissement de crédit à l'autre.
+
+<a id="art_125"></a>
+
+### art_125
+
+Article 125
+
+1. Lorsque l'entreprise mère est un établissement de crédit mère dans un État membre ou dans l'Union, la surveillance sur une base consolidée est exercée par les autorités compétentes qui ont donné à cet établissement de crédit l'agrément visé à l'article 6.
+
+2. Lorsqu'un établissement de crédit a pour entreprise mère une compagnie financière holding mère dans un État membre ou dans l'Union, la surveillance sur une base consolidée est exercée par les autorités compétentes qui ont donné à cet établissement de crédit l'agrément visé à l'article 6.
+
+<a id="art_126"></a>
+
+### art_126
+
+Article 126
+
+1. Lorsque des établissements de crédit agréés dans plus d'un État membre ont pour entreprise mère la même compagnie financière holding mère dans un État membre ou dans l'Union, la surveillance sur une base consolidée est exercée par les autorités compétentes de l'établissement de crédit agréé dans l'État membre où la compagnie financière holding a été constituée.
+
+Lorsque les entreprises mères des établissements de crédit agréés dans plus d'un État membre comprennent plusieurs compagnies financières holding ayant leur administration centrale dans des États membres différents et qu'il y a un de ces établissements de crédit dans chacun desdits États, la surveillance sur une base consolidée est exercée par les autorités compétentes de l'établissement de crédit affichant le total du bilan le plus élevé.
+
+2. Lorsque plusieurs établissements de crédit agréés dans la Communauté ont comme entreprise mère la même compagnie financière holding et qu'aucun de ces établissements de crédit n'a été agréé dans l'État membre dans lequel la compagnie financière holding a été constituée, la surveillance sur une base consolidée est exercée par les autorités compétentes ayant agréé l'établissement de crédit qui affiche le total du bilan le plus élevé et qui est considéré, aux fins de la présente directive, comme l'établissement de crédit contrôlé par la compagnie financière holding mère dans l'UE.
+
+3. Dans des cas particuliers, les autorités compétentes peuvent, d'un commun accord, ne pas respecter les critères définis aux paragraphes 1 et 2, dès lors que leur application serait inappropriée eu égard aux établissements de crédit concernés et à l'importance relative de leurs activités dans différents pays, et charger une autre autorité compétente d'exercer la surveillance sur une base consolidée. En ce cas, avant de prendre leur décision, les autorités compétentes donnent, selon le cas, à l'établissement de crédit mère dans l'Union, à la compagnie financière holding mère dans l'Union ou à l'établissement de crédit affichant le total du bilan le plus élevé l'occasion de donner son avis sur cette décision.
+
+4. Les autorités compétentes notifient à la Commission tout accord relevant du paragraphe 3.
+
+<a id="art_127"></a>
+
+### art_127
+
+Article 127
+
+1. Les États membres arrêtent les mesures nécessaires, le cas échéant, pour l'inclusion des compagnies financières holding dans la surveillance sur une base consolidée. Sans préjudice de l'article 135, la consolidation de la situation financière de la compagnie financière holding n'implique en aucune manière que les autorités compétentes soient tenues d'exercer une fonction de surveillance sur la compagnie financière holding sur un plan individuel.
+
+2. Lorsque les autorités compétentes d'un État membre n'incluent pas un établissement de crédit filiale dans la surveillance sur une base consolidée par application d'un des cas prévus à l'article 73, paragraphe 1, points b) et c), les autorités compétentes de l'État membre où est situé cet établissement de crédit filiale peuvent demander à l'entreprise mère les informations de nature à leur faciliter l'exercice de la surveillance de cet établissement de crédit.
+
+3. Les États membres prévoient que leurs autorités compétentes chargées d'exercer la surveillance sur une base consolidée peuvent demander aux filiales d'un établissement de crédit ou d'une compagnie financière holding qui ne sont pas comprises dans le champ de la surveillance sur une base consolidée les informations visées à l'article 137. Dans ce cas, les procédures de transmission et de vérification des informations, prévues à cet article, sont applicables.
+
+<a id="art_128"></a>
+
+### art_128
+
+Article 128
+
+Lorsque, dans les États membres, il y a plus d'une autorité compétente pour la surveillance prudentielle des établissements de crédit et des établissements financiers, les États membres prennent les mesures nécessaires à l'effet d'organiser la coordination entre elles.
+
+<a id="art_129"></a>
+
+### art_129
+
+Article 129
+
+1. Outre les obligations qui lui incombent en vertu des dispositions de la présente directive, l'autorité compétente chargée de la surveillance sur une base consolidée des établissements de crédit mères dans l'Union et des établissements de crédit contrôlés par des compagnies financières holding mères dans l'Union exerce les fonctions suivantes:
+
+| a) | coordination de la collecte et de la diffusion des informations pertinentes ou essentielles dans la marche normale des affaires comme dans les situations d'urgence; et |
+| --- | --- |
+
+| b) | planification et coordination des activités prudentielles dans la marche normale des affaires comme dans les situations d'urgence, y compris des activités visées à l'article 124, en coopération avec les autorités compétentes concernées. |
+| --- | --- |
+
+2. Lorsqu'une autorisation visée à l'article 84, paragraphe 1, à l'article 87, paragraphe 9, à l'article 105 ou à l'annexe III, partie 6, est demandée par un établissement de crédit mère dans l'Union et ses filiales ou conjointement par les filiales d'une compagnie financière holding mère dans l'Union, les autorités compétentes travaillent ensemble en pleine concertation en vue de décider s'il convient ou non d'accorder l'autorisation demandée et, le cas échéant, les conditions auxquelles cette autorisation devrait être soumise.
+
+Toute demande relevant du premier alinéa n'est soumise qu'à l'autorité compétente visée au paragraphe 1.
+
+Les autorités compétentes font tout ce qui est en leur pouvoir pour parvenir dans un délai de six mois à une décision commune sur la demande. Cette décision commune est présentée dans un document contenant la décision rigoureusement motivée que l'autorité compétente visée au paragraphe 1 communique au demandeur.
+
+La période visée au troisième alinéa débute à la date de réception de la demande complète par l'autorité compétente visée au paragraphe 1. Celle-ci transmet sans tarder la demande complète aux autres autorités compétentes.
+
+En l'absence d'une décision commune des autorités compétentes dans un délai de six mois, l'autorité compétente visée au paragraphe 1 se prononce elle-même sur la demande. La décision est présentée dans un document contenant la décision rigoureusement motivée et elle tient compte des avis et réserves des autres autorités compétentes, exprimés pendant cette période de six mois. L'autorité compétente visée au paragraphe 1 communique la décision au demandeur et aux autres autorités compétentes.
+
+Les décisions visées aux troisième et cinquième alinéas sont reconnues comme étant déterminantes et sont appliquées par les autorités compétentes dans les États membres concernés.
+
+<a id="art_130"></a>
+
+### art_130
+
+Article 130
+
+1. Lorsque survient, au sein d'un groupe bancaire, une situation d'urgence susceptible de menacer la stabilité du système financier dans un des États membres où des entités d'un groupe ont été agréées, l'autorité compétente chargée d'exercer la surveillance sur une base consolidée alerte dès que possible, sous réserve du chapitre 1, section 2, les autorités visées à l'article 49, point a), et à l'article 50. Cette obligation s'applique à toutes les autorités compétentes déterminées conformément aux articles 125 et 126 pour un groupe donné, ainsi qu'à l'autorité compétente déterminée conformément à l'article 129, paragraphe 1. Si possible, l'autorité compétente utilise les voies de communication définies existantes.
+
+2. Lorsqu'elle a besoin d'informations déjà communiquées à une autre autorité compétente, l'autorité compétente chargée de la surveillance sur une base consolidée contacte, si possible, cette autre autorité compétente en vue d'éviter la duplication des communications aux diverses autorités prenant part à la surveillance.
+
+<a id="art_131"></a>
+
+### art_131
+
+Article 131
+
+En vue de promouvoir et d'instaurer une surveillance efficace, les autorités compétentes chargées de la surveillance sur une base consolidée et les autres autorités compétentes mettent en place des accords écrits de coordination et de coopération.
+
+Ces accords peuvent confier des tâches supplémentaires aux autorités compétentes chargées de la surveillance sur une base consolidée et prévoir des procédures en matière de processus décisionnel et de coopération avec les autres autorités compétentes.
+
+Les autorités compétentes responsables de l'agrément de la filiale d'une entreprise mère qui est un établissement de crédit peuvent déléguer leur responsabilité de surveillance, par voie d'accord bilatéral, aux autorités compétentes qui ont agréé et surveillent l'entreprise mère, afin que celles-ci se chargent de la surveillance de la filiale conformément aux dispositions de la présente directive. La Commission est tenue informée de l'existence et de la teneur de tels accords. Elle transmet cette information aux autorités compétentes des autres États membres et au comité bancaire européen.
+
+<a id="art_132"></a>
+
+### art_132
+
+Article 132
+
+1. Les autorités compétentes coopèrent étroitement entre elles. Elles se communiquent mutuellement toute information qui est essentielle ou pertinente pour l'exercice des missions de surveillance des autres autorités au titre de la présente directive. À cet égard, les autorités compétentes transmettent, sur demande, toute information pertinente et, de leur propre initiative, toute information essentielle.
+
+Les informations visées au premier alinéa sont considérées comme essentielles si elles peuvent avoir une incidence importante sur l'évaluation de la solidité financière d'un établissement de crédit ou d'un établissement financier dans un autre État membre.
+
+En particulier, les autorités compétentes chargées de la surveillance, sur une base consolidée, des établissements de crédit mères dans l'Union et des établissement de crédit contrôlés par des compagnies financières holding dans l'Union transmettent aux autorités compétentes des autres États membres chargées de surveiller les filiales de ces établissements mères toutes les informations pertinentes. La portée des informations pertinentes est déterminée compte tenu de l'importance de ces filiales dans le système financier de ces États membres.
+
+Les informations essentielles visées au premier alinéa recouvrent notamment les éléments suivants:
+
+| a) | identification de la structure de groupe de tous les établissements de crédit importants faisant partie d'un groupe, ainsi que de leurs autorités compétentes; |
+| --- | --- |
+
+| b) | procédures régissant la collecte d'informations auprès des établissements de crédit faisant partie d'un groupe et la vérification de ces informations; |
+| --- | --- |
+
+| c) | évolutions négatives que connaissent les établissements de crédit ou d'autres entités d'un groupe et qui pourraient sérieusement affecter les établissements de crédit; et |
+| --- | --- |
+
+| d) | sanctions importantes et mesures exceptionnelles décidées par les autorités compétentes conformément à la présente directive, y compris toute exigence supplémentaire de fonds propres imposée en vertu de l'article 136 et toute limite imposée à l'utilisation d'une approche par mesure avancée pour le calcul des exigences de fonds propres en vertu de l'article 105. |
+| --- | --- |
+
+2. Les autorités compétentes chargées de la surveillance d'établissements de crédit contrôlés par un établissement de crédit mère dans l'Union contactent si possible les autorités compétentes visées à l'article 129, paragraphe 1, lorsqu'elles ont besoin d'informations concernant la mise en œuvre d'approches et de méthodes prévues dans la présente directive dont ces dernières autorités compétentes peuvent déjà disposer.
+
+3. Avant de prendre une décision sur les points suivants, les autorités compétentes concernées consultent les autres autorités compétentes lorsque cette décision revêt de l'importance pour les missions de surveillance de ces dernières:
+
+| a) | changements affectant la structure d'actionnariat, d'organisation ou de direction d'établissements de crédit qui font partie d'un groupe et nécessitant l'approbation ou l'agrément des autorités compétentes; et |
+| --- | --- |
+
+| b) | sanctions importantes et mesures exceptionnelles décidées par les autorités compétentes, y compris toute exigence supplémentaire de fonds propres imposée en vertu de l'article 136 et toute limite imposée à l'utilisation d'une approche par mesure avancée pour le calcul des exigences de fonds propres en vertu de l'article 105. |
+| --- | --- |
+
+Aux fins du point b), les autorités compétentes chargées de la surveillance sur une base consolidée sont toujours consultées.
+
+Cependant, des autorités compétentes peuvent décider de ne procéder à aucune consultation en cas d'urgence ou lorsqu'une telle consultation pourrait compromettre l'efficacité de leurs décisions. En ce cas, elles informent sans délai les autres autorités compétentes.
+
+<a id="art_133"></a>
+
+### art_133
+
+Article 133
+
+1. Les autorités compétentes chargées de la surveillance sur une base consolidée exigent, aux fins de la surveillance, la consolidation intégrale des établissements de crédit et des établissements financiers qui sont les filiales de l'entreprise mère.
+
+Toutefois, les autorités compétentes peuvent n'exiger qu'une consolidation proportionnelle dans les cas où, à leur avis, la responsabilité de l'entreprise mère détenant une part du capital est limitée à cette part du capital, en raison de la responsabilité des autres actionnaires ou associés dont la solvabilité est satisfaisante. La responsabilité des autres actionnaires et associés doit être clairement établie, si besoin au moyen d'engagements explicitement souscrits.
+
+Dans le cas d'entreprises liées par une relation au sens de l'article 12, paragraphe 1, de la directive 83/349/CEE, les autorités compétentes déterminent les modalités de la consolidation.
+
+2. Les autorités compétentes chargées de la surveillance sur une base consolidée exigent la consolidation proportionnelle des participations détenues dans des établissements de crédit et des établissements financiers qui sont dirigés par une entreprise comprise dans la consolidation conjointement avec une ou plusieurs entreprises non comprises dans la consolidation, lorsque la responsabilité desdites entreprises est limitée à la partie de capital qu'elles détiennent.
+
+3. Dans les cas de participations ou d'autres liens en capital que ceux visés aux paragraphes 1 et 2, les autorités compétentes déterminent si la consolidation doit être effectuée et sous quelle forme. Elles peuvent en particulier permettre ou prescrire l'utilisation de la méthode de mise en équivalence. Cette méthode ne constitue toutefois pas une inclusion des entreprises en cause dans la surveillance sur une base consolidée.
+
+<a id="art_134"></a>
+
+### art_134
+
+Article 134
+
+1. Sans préjudice de l'article 133, les autorités compétentes déterminent si et sous quelle forme la consolidation doit être effectuée dans les cas suivants:
+
+| a) | lorsqu'un établissement de crédit exerce, de l'avis des autorités compétentes, une influence notable sur un ou plusieurs établissements de crédit ou établissements financiers, sans détenir toutefois une participation ou d'autres liens en capital dans ces établissements; et |
+| --- | --- |
+
+| b) | lorsque deux ou plusieurs établissements de crédit ou établissements financiers sont placés sous une direction unique, sans que celle-ci soit établie par un contrat ou des clauses statutaires. |
+| --- | --- |
+
+Les autorités compétentes peuvent en particulier permettre ou prescrire l'utilisation de la méthode prévue à l'article 12 de la directive 83/349/CEE. Cette méthode ne constitue toutefois pas une inclusion des entreprises en cause dans la surveillance sur une base consolidée.
+
+2. Lorsque la surveillance sur une base consolidée est prescrite en application des articles 125 et 126, les entreprises de services auxiliaires et les sociétés de gestion de portefeuille au sens de la directive 2002/87/CE sont incluses dans la consolidation dans les mêmes cas et selon les mêmes méthodes que celles prescrites à l'article 133 et au paragraphe 1 du présent article.
+
+<a id="art_135"></a>
+
+### art_135
+
+Article 135
+
+Les États membres exigent que les personnes qui dirigent effectivement les affaires d'une compagnie financière holding possèdent l'honorabilité nécessaire et l'expérience suffisante pour exercer ces fonctions.
+
+<a id="art_136"></a>
+
+### art_136
+
+Article 136
+
+1. Les autorités compétentes exigent de tout établissement de crédit qui ne satisfait pas aux exigences de la présente directive qu'il arrête rapidement les actions ou mesures nécessaires pour redresser la situation.
+
+À cet effet, les autorités compétentes doivent pouvoir prendre notamment les mesures suivantes:
+
+| a) | obliger l'établissement de crédit à détenir des fonds propres d'un montant supérieur au minimum prescrit à l'article 75; |
+| --- | --- |
+
+| b) | demander le renforcement des dispositifs, procédures, mécanismes et stratégies mis en œuvre pour se conformer aux articles 22 et 123; |
+| --- | --- |
+
+| c) | exiger de l'établissement de crédit qu'il applique à ses actifs une politique spéciale de provisionnement ou un traitement spécial en termes d'exigences de fonds propres; |
+| --- | --- |
+
+| d) | restreindre ou limiter les activités, les opérations ou le réseau de l'établissement de crédit; et |
+| --- | --- |
+
+| e) | demander la réduction du risque inhérent aux activités, aux produits et aux systèmes de l'établissement de crédit. |
+| --- | --- |
+
+L'adoption de ces mesures est soumise au chapitre 1, section 2.
+
+1. Les autorités compétentes imposent une exigence spécifique de fonds propres en sus du minimum prescrit à l'article 75 au moins aux établissements de crédit qui ne satisfont pas aux exigences fixées aux articles 22, 109 et 123, ou à l'égard desquels une décision négative a été rendue en ce qui concerne la question mentionnée à l'article 124, paragraphe 3, lorsque la seule application d'autres mesures n'est guère susceptible d'améliorer suffisamment les dispositifs, procédures, mécanismes et stratégies dans un délai approprié.
+
+<a id="art_137"></a>
+
+### art_137
+
+Article 137
+
+1. Jusqu'à coordination ultérieure des méthodes de consolidation, les États membres prévoient que, lorsque l'entreprise mère d'un ou de plusieurs établissements de crédit est une compagnie holding mixte, les autorités compétentes responsables de l'agrément et de la surveillance de ces établissements de crédit exigent de la compagnie holding mixte et de ses filiales, soit en s'adressant directement à elles, soit par le truchement des établissements de crédit filiales, la communication de toutes informations pertinentes pour l'exercice de la surveillance des établissements de crédit filiales.
+
+2. Les États membres prévoient que leurs autorités compétentes peuvent procéder, ou faire procéder par des vérifications externes, à la vérification sur place des informations reçues des compagnies mixtes et de leurs filiales. Si la compagnie holding mixte ou une de ses filiales est une entreprise d'assurance, il peut être recouru également à la procédure prévue à l'article 140, paragraphe 1. Si la compagnie holding mixte ou une de ses filiales est située dans un autre État membre que celui où est situé l'établissement de crédit filiale, la vérification sur place des informations se fait selon la procédure prévue à l'article 141.
+
+<a id="art_138"></a>
+
+### art_138
+
+Article 138
+
+1. Sans préjudice du chapitre 2, section 5, les États membres prévoient que, lorsque l'entreprise mère d'un ou de plusieurs établissements de crédit est une compagnie holding mixte, les autorités compétentes chargées de la surveillance desdits établissements de crédit exercent une surveillance générale sur les transactions qu'ils effectuent avec la compagnie holding mixte et ses filiales.
+
+2. Les autorités compétentes exigent des établissements de crédit qu'ils mettent en place des procédures adéquates de gestion des risques ainsi que des dispositifs de contrôle interne appropriés, comprenant des procédures saines d'information et de comptabilité, afin de détecter, de mesurer, d'encadrer et de contrôler, de manière appropriée, les transactions effectuées avec la compagnie holding mixte qu'ils ont pour entreprise mère et ses filiales. Les autorités compétentes exigent des établissements de crédit qu'ils leur communiquent toute transaction importante effectuée avec ces entités, autrement que dans les cas visés à l'article 110. Ces procédures et transactions importantes font l'objet d'un contrôle de la part des autorités compétentes.
+
+Lorsque ces transactions intragroupe compromettent la situation financière d'un établissement de crédit, l'autorité compétente chargée de la surveillance de cet établissement prend des mesures appropriées.
+
+<a id="art_139"></a>
+
+### art_139
+
+Article 139
+
+1. Les États membres prennent les mesures nécessaires pour qu'aucun obstacle de nature juridique n'empêche les entreprises comprises dans le champ de la surveillance sur une base consolidée, ni les compagnies holdings mixtes et leurs filiales, ni les filiales visées à l'article 127, paragraphe 3, d'échanger entre elles les informations pertinentes pour l'exercice de la surveillance, conformément aux articles 124 à 138 et au présent article.
+
+2. Lorsque l'entreprise mère et le ou les établissements de crédit qui sont ses filiales sont situés dans des États membres différents, les autorités compétentes de chaque État membre se communiquent toutes les informations pertinentes de nature à permettre ou à faciliter l'exercice de la surveillance sur une base consolidée.
+
+Lorsque les autorités compétentes de l'État membre où est située l'entreprise mère n'exercent pas elles-mêmes la surveillance sur une base consolidée en vertu des articles 125 et 126, elles peuvent être invitées par les autorités compétentes chargées d'exercer cette surveillance à demander à l'entreprise mère les informations pertinentes pour l'exercice de la surveillance sur une base consolidée et à les transmettre à ces autorités.
+
+3. Les États membres autorisent l'échange entre leurs autorités compétentes des informations visées au paragraphe 2 étant entendu que, dans le cas de compagnies financières holdings, d'établissements financiers ou d'entreprises de services auxiliaires, la collecte ou la détention d'informations n'implique en aucune manière que les autorités compétentes soient tenues d'exercer une fonction de surveillance sur ces établissements ou entreprises pris individuellement.
+
+De même, les États membres autorisent l'échange entre leurs autorités compétentes des informations visées à l'article 137 étant entendu que la collecte ou la détention d'informations n'implique en aucune manière que les autorités compétentes exercent une fonction de surveillance sur la compagnie holding mixte et ses filiales qui ne sont pas des établissements de crédit, ou sur les filiales visées à l'article 127, paragraphe 3.
+
+<a id="art_140"></a>
+
+### art_140
+
+Article 140
+
+1. Lorsqu'un établissement de crédit, une compagnie financière holding ou une compagnie holding mixte contrôle une ou plusieurs filiales qui sont des entreprises d'assurance ou d'autres entreprises offrant des services d'investissement soumises à un régime d'agrément, les autorités compétentes et les autorités investies de la mission publique de surveillance des entreprises d'assurance ou desdites autres entreprises offrant des services d'investissement collaborent étroitement. Sans préjudice de leurs compétences respectives, ces autorités se communiquent toutes les informations susceptibles de faciliter l'accomplissement de leur mission et de permettre un contrôle de l'activité et de la situation financière d'ensemble des entreprises soumises à leur surveillance.
+
+2. Les informations reçues dans le cadre de la surveillance sur une base consolidée et en particulier les échanges d'informations entre autorités compétentes prévus par la présente directive tombent sous le secret professionnel défini au chapitre 1, section 2.
+
+3. Les autorités compétentes chargées d'exercer la surveillance sur une base consolidée établissent une liste des compagnies financières holdings visées à l'article 71, paragraphe 2. Cette liste est communiquée aux autorités compétentes des autres États membres et à la Commission.
+
+<a id="art_141"></a>
+
+### art_141
+
+Article 141
+
+Lorsque, dans le cadre de l'application de la présente directive, les autorités compétentes d'un État membre souhaitent, dans des cas déterminés, vérifier des informations portant sur un établissement de crédit, une compagnie financière holding, un établissement financier, une entreprise de services auxiliaires, une compagnie holding mixte, une filiale visée à l'article 137, ou une filiale visée à l'article 127, paragraphe 3, situés dans un autre État membre, elles demandent aux autorités compétentes de l'autre État membre qu'il soit procédé à cette vérification. Les autorités qui ont reçu la demande y donnent suite, dans le cadre de leur compétence, soit en procédant elles-mêmes à cette vérification, soit en permettant aux autorités qui ont présenté la demande d'y procéder, soit en permettant qu'un réviseur ou un expert y procède. Lorsqu'elle ne procède pas elle-même à la vérification, l'autorité compétente qui a présenté la demande peut, si elle le souhaite, y être associée.
+
+<a id="art_142"></a>
+
+### art_142
+
+Article 142
+
+Les États membres prévoient que, sans préjudice de leurs dispositions de droit pénal, il peut être imposé, à l'égard des compagnies financières holdings et des compagnies holdings mixtes ou de leurs dirigeants responsables qui sont en infraction avec les dispositions législatives, réglementaires ou administratives prises en application des articles 124 à 141 et du présent article, des sanctions ou des mesures dont l'application vise à mettre fin aux infractions constatées ou à leurs causes. Les autorités compétentes coopèrent étroitement entre elles afin que ces sanctions ou mesures permettent d'obtenir les effets recherchés, en particulier lorsque le siège social d'une compagnie financière holding ou d'une compagnie holding mixte n'est pas le lieu où se trouve son administration centrale ou son principal établissement.
+
+<a id="art_143"></a>
+
+### art_143
+
+Article 143
+
+1. Lorsqu'un établissement de crédit, dont l'entreprise mère est un établissement de crédit ou une compagnie financière holding qui a son siège social dans un pays tiers, n'est pas soumis à une surveillance consolidée en vertu des articles 125 et 126, les autorités compétentes vérifient que ledit établissement de crédit fait l'objet, de la part d'une autorité compétente du pays tiers, d'une surveillance consolidée équivalente à celle gouvernée par les principes énoncés dans la présente directive.
+
+La vérification est effectuée par l'autorité compétente qui exercerait la surveillance consolidée si le paragraphe 3 s'appliquait, à la demande de l'entreprise mère ou de l'une quelconque des entités réglementées agréées dans la Communauté, ou de sa propre initiative. Ladite autorité compétente consulte les autres autorités compétentes concernées.
+
+2. La Commission peut demander au comité bancaire européen de donner des orientations générales sur la question de savoir si les régimes de surveillance consolidée des autorités compétentes de pays tiers sont susceptibles de permettre d'atteindre les objectifs de la surveillance consolidée définis dans le présent chapitre en ce qui concerne les établissements de crédit dont l'entreprise mère a son siège social dans un pays tiers. Le comité réexamine régulièrement toute orientation de cette nature et tient compte de toute modification apportée aux régimes de surveillance consolidée appliqués par lesdites autorités compétentes.
+
+L'autorité compétente qui effectue la vérification spécifiée au paragraphe 1, premier alinéa, tient compte de toute orientation de cette nature. À cette fin, l'autorité compétente consulte également le comité avant de prendre une décision.
+
+3. À défaut d'une telle surveillance équivalente, les États membres appliquent mutatis mutandis les dispositions de la présente directive à l'établissement de crédit ou habilitent leurs autorités compétentes à appliquer d'autres techniques de surveillance propres à atteindre les objectifs de la surveillance consolidée des établissements de crédit.
+
+Ces techniques de surveillance sont approuvées par l'autorité compétente qui serait chargée de la surveillance consolidée, après consultation des autres autorités compétentes concernées.
+
+Les autorités compétentes peuvent en particulier exiger la constitution d'une compagnie financière holding ayant son siège social dans la Communauté et appliquer les dispositions relatives à la surveillance consolidée à la situation consolidée de ladite compagnie.
+
+Les techniques prudentielles sont conçues pour atteindre les objectifs de la surveillance consolidée définis dans le présent chapitre et sont notifiées aux autres autorités compétentes concernées et à la Commission.
+
+<a id="art_144"></a>
+
+### art_144
+
+Article 144
+
+Les autorités compétentes publient les informations suivantes:
+
+| a) | le texte des dispositions législatives, réglementaires et administratives et les orientations générales adoptées dans leur État membre en matière de régulation prudentielle; |
+| --- | --- |
+
+| b) | les modalités d'exercice des options et facultés prévues par la législation communautaire; |
+| --- | --- |
+
+| c) | les critères généraux et méthodes qu'elles appliquent aux fins du contrôle et de l'évaluation visés à l'article 124; et |
+| --- | --- |
+
+| d) | sans préjudice des dispositions du chapitre 1, section 2, des données statistiques agrégées sur les principaux aspects de la mise en œuvre du cadre prudentiel dans chaque État membre. |
+| --- | --- |
+
+Les informations publiées conformément au premier alinéa sont suffisantes pour permettre une comparaison utile des approches adoptées par les autorités compétentes des différents États membres. Les informations en question sont publiées selon la même présentation et sont mises à jour régulièrement. Une adresse électronique unique permet de les consulter.
+
+<a id="art_145"></a>
+
+### art_145
+
+Article 145
+
+1. Aux fins de la présente directive, les établissements de crédit publient les informations répertoriées à l'annexe XII, partie 2, sous réserve des dispositions de l'article 146.
+
+2. La reconnaissance par les autorités compétentes, en vertu du chapitre 2, section 3, sous‐sections 2 et 3, et de l'article 105, des instruments et méthodes visés à l'annexe XII, partie 3, donnent lieu à la publication, par les établissements de crédit, des informations qui y sont répertoriées.
+
+3. Les établissements de crédit adoptent une politique formelle pour se conformer aux exigences de publicité prévues aux paragraphes 1 et 2 et disposent de politiques leur permettant d'évaluer l'adéquation de leurs mesures de publicité, y compris pour ce qui concerne leur vérification et leur fréquence.
+
+4. Les établissements de crédit devraient, sur demande, expliquer leurs décisions de notation aux petites et moyennes entreprises et autres entités qui sollicitent un crédit, en fournissant une explication par écrit, si la demande leur en est faite. Si un engagement volontaire du secteur s'avère insuffisant à cet égard, des mesures nationales sont prises. Les coûts administratifs liés à cette explication doivent être à la mesure de la taille du prêt.
+
+<a id="art_146"></a>
+
+### art_146
+
+Article 146
+
+1. Nonobstant l'article 145, un établissement de crédit peut ne pas présenter une ou plusieurs des communications prévues à l'annexe XII, partie 2, lorsque les informations à fournir dans ces communications ne sont pas, à la lumière des critères fixés à l'annexe XII, partie 1, point 1, considérées comme significatives.
+
+2. Nonobstant l'article 145, un établissement de crédit peut ne pas publier une ou plusieurs des rubriques d'information incluses dans les communications prévues à l'annexe XII, parties 2 et 3, lorsque ces rubriques contiennent des informations qui, à la lumière des critères fixés à l'annexe XII, partie 1, points 2 et 3, sont considérées comme sensibles ou confidentielles.
+
+3. Dans les cas exceptionnels visés au paragraphe 2, l'établissement de crédit concerné indique, dans ses communications, le fait qu'il n'a pas publié certaines rubriques d'information ainsi que les motifs de cette non-publication et fournit des informations plus générales sur la question visée par l'exigence de publicité, sauf si ces informations doivent être considérées comme sensibles ou confidentielles au vu des critères visés à l'annexe XII, partie 1, points 2 et 3.
+
+<a id="art_147"></a>
+
+### art_147
+
+Article 147
+
+1. Les établissements de crédit publient les communications exigées à l'article 145 au moins une fois par an. Ils effectuent cette publication le plus tôt possible.
+
+2. Les établissements de crédit déterminent aussi si une publication plus fréquente que celle prévue au paragraphe 1 est nécessaire, à la lumière des critères fixés à l'annexe XII, partie 1, point 4.
+
+<a id="art_148"></a>
+
+### art_148
+
+Article 148
+
+1. Les établissements de crédit peuvent déterminer le média, le lieu et les moyens de vérification appropriés pour se conformer dûment aux exigences de publicité prévues à l'article 145. Dans la mesure du possible, toutes les communications sont fournies via un média ou un lieu unique.
+
+2. Les communications équivalentes effectuées par les établissements de crédit en vertu d'exigences comptables, boursières ou autres peuvent être jugées conformes à l'article 145. Si ces communications ne sont pas incluses dans leurs états financiers, les établissements de crédit indiquent où elles peuvent être trouvées.
+
+<a id="art_149"></a>
+
+### art_149
+
+Article 149
+
+Nonobstant les articles 146 à 148, les États membres peuvent habiliter les autorités compétentes à exiger des établissements de crédit:
+
+| a) | qu'ils publient une ou plusieurs des communications visées à l'annexe XII, parties 2 et 3; |
+| --- | --- |
+
+| b) | qu'ils publient une ou plusieurs communications plus souvent qu'une fois par an et qu'ils se tiennent à des délais de publication; |
+| --- | --- |
+
+| c) | qu'ils utilisent des médias et lieux de publication spécifiques autres que leurs états financiers; et |
+| --- | --- |
+
+| d) | qu'ils recourent à des moyens spécifiques de vérification des communications ne relevant pas du contrôle légal des comptes. |
+| --- | --- |
+
+<a id="art_150"></a>
+
+### art_150
+
+Article 150
+
+1. Sans préjudice, en ce qui concerne les fonds propres, de la proposition que la Commission devrait présenter conformément à l'article 62, les adaptations techniques se rapportant aux points suivants sont arrêtées selon la procédure visée à l'article 151, paragraphe 2:
+
+| a) | la clarification des définitions en vue de tenir compte, dans l'application de la présente directive, de l'évolution des marchés financiers; |
+| --- | --- |
+
+| b) | la clarification des définitions en vue d'assurer une application uniforme de la présente directive; |
+| --- | --- |
+
+| c) | l'alignement de la terminologie et de la formulation des définitions sur celles des actes ultérieurs concernant les établissements de crédit et les matières connexes; |
+| --- | --- |
+
+| d) | les adaptations techniques de la liste figurant à l'article 2; |
+| --- | --- |
+
+| e) | la modification du montant du capital initial prévu à l'article 9 pour tenir compte des développements économiques et monétaires; |
+| --- | --- |
+
+| f) | l'élargissement du contenu de la liste visée aux articles 23 et 24 et figurant à l'annexe I, ou l'adaptation de la terminologie de la liste en vue de tenir compte de l'évolution des marchés financiers; |
+| --- | --- |
+
+| g) | les domaines dans lesquels les autorités compétentes échangent des informations, énumérées à l'article 42; |
+| --- | --- |
+
+| h) | l'adaptation technique des articles 56 à 67 et de l'article 74 à la suite de l'évolution des normes ou exigences comptables tenant compte de la législation communautaire ou eu égard à la convergence des pratiques prudentielles; |
+| --- | --- |
+
+| i) | la modification de la liste des catégories d'exposition répertoriées aux articles 79 et 86, en vue de tenir compte des développements sur les marchés financiers; |
+| --- | --- |
+
+| j) | la modification du montant indiqué, à l'article 79, paragraphe 2, point c), à l'article 86, paragraphe 4, point a), à l'annexe VII, partie 1, point 5, et à l'annexe VII, partie 2, point 15, en vue de tenir compte des effets de l'inflation; |
+| --- | --- |
+
+| k) | la liste et la classification des éléments de hors bilan figurant aux annexes II et IV et leur traitement dans le calcul des valeurs exposées au risque aux fins du titre V, chapitre 2, section 3; ou |
+| --- | --- |
+
+| l) | l'adaptation des dispositions des annexes V à XII en vue de tenir compte de l'évolution des marchés financiers (en particulier de l'apparition de nouveaux produits financiers) ou des normes ou exigences comptables tenant compte de la législation communautaire ou eu égard à la convergence des pratiques de surveillance. |
+| --- | --- |
+
+2. La Commission peut adopter les mesures d'exécution suivantes conformément à la procédure visée à l'article 151 paragraphe 2:
+
+| a) | la spécification de l'ampleur d'un changement brutal et inattendu des taux d'intérêt, visé à l'article 124, paragraphe 5; |
+| --- | --- |
+
+| b) | une réduction temporaire du niveau minimal des fonds propres prévu à l'article 75 et/ou des pondérations prévues au titre V, chapitre 2, section 3, en vue de tenir compte de circonstances spécifiques; |
+| --- | --- |
+
+| c) | sans préjudice du rapport visé à l'article 119, la clarification des exemptions prévues à l'article 111, paragraphe 4, et aux articles 113, 115 et 116; |
+| --- | --- |
+
+| d) | la spécification des principaux aspects à propos desquels des données statistiques agrégées doivent être publiées conformément à l'article 144, paragraphe 1, point d); ou |
+| --- | --- |
+
+| e) | la spécification du format, de la structure, du contenu et de la date de publication annuelle des communications prévues à l'article 144. |
+| --- | --- |
+
+3. Aucune des mesures d'exécution adoptées ne peut modifier les dispositions essentielles de la présente directive.
+
+4. Sans préjudice des mesures d'exécution déjà adoptées, à l'expiration d'une période de deux ans à compter de l'adoption de la présente directive et le 1er avril 2008 au plus tard, l'application des dispositions de la présente directive qui requièrent l'adoption de règles, de modifications et de décisions de caractère technique conformément au paragraphe 2 est suspendue. Sur proposition de la Commission, le Parlement européen et le Conseil peuvent proroger ces dispositions conformément à la procédure visée à l'article 251 du traité et, à cette fin, ils les examinent avant l'expiration de la période mentionnée au présent paragraphe ou au plus tard à la date mentionnée au présent paragraphe si cette date est antérieure à ladite expiration.
+
+<a id="art_151"></a>
+
+### art_151
+
+Article 151
+
+1. La Commission est assistée par le comité bancaire européen institué par la décision 2004/10/CE de la Commission (22).
+
+2. Dans le cas où il est fait référence au présent paragraphe, la procédure prévue à l'article 5 de la décision 1999/468/CE s'applique, dans le respect des dispositions de l'article 7, paragraphe 3, et de l'article 8 de celle-ci.
+
+La période prévue à l'article 5, paragraphe 6, de la décision 1999/468/CE est fixée à trois mois.
+
+3. Le comité adopte son règlement intérieur.
+
+<a id="art_152"></a>
+
+### art_152
+
+Article 152
+
+1. Les établissements de crédit qui calculent les montants de leurs expositions pondérés conformément aux articles 84 à 89 disposent, durant les première, deuxième et troisième périodes de douze mois suivant le 31 décembre 2006, de fonds propres d'un montant en permanence égal ou supérieur aux montants indiqués aux paragraphes 3, 4 et 5.
+
+2. Les établissements de crédit appliquant les approches par mesure avancée conformément à l'article 105 aux fins du calcul de leurs exigences de fonds propres pour risque opérationnel disposent, durant les deuxième et troisième périodes de douze mois suivant le 31 décembre 2006, de fonds propres d'un montant en permanence égal ou supérieur aux montants indiqués aux paragraphes 4 et 5.
+
+3. Durant la première période de douze mois visée au paragraphe 1, le montant des fonds propres est égal à 95 % du montant minimal total de fonds propres que l'établissement de crédit aurait dû détenir durant cette période en vertu de l'article 4 de la directive 93/6/CEE du Conseil du 15 mars 1993 sur l'adéquation des fonds propres des entreprises d'investissement et des établissements de crédit (23), conformément au dispositif de ladite directive et de la directive 2000/12/CE applicable avant le 1er janvier 2007.
+
+4. Durant la deuxième période de douze mois visée au paragraphe 1, le montant des fonds propres est égal à 90 % du montant minimal total de fonds propres que l'établissement de crédit aurait dû détenir durant cette période en vertu de l'article 4 de la directive 93/6/CEE, conformément au dispositif de ladite directive et de la directive 2000/12/CE applicable avant le 1er janvier 2007.
+
+5. Durant la troisième période de douze mois visée au paragraphe 1, le montant des fonds propres est égal à 80 % du montant minimal total de fonds propres que l'établissement de crédit aurait dû détenir durant cette période en vertu de l'article 4 de la directive 93/6/CEE, conformément au dispositif de ladite directive et de la directive 2000/12/CE applicable avant le 1er janvier 2007.
+
+6. Le respect des exigences fixées aux paragraphes 1 à 5 se fait sur la base de montants de fonds propres pleinement ajustés de manière à tenir compte des différences qui existent entre le calcul des fonds propres effectué conformément aux directives 2000/12/CE et 93/6/CEE, telles qu'applicables avant le 1er janvier 2007, et le calcul des fonds propres effectué conformément à la présente directive, ces différences découlant du traitement distinct réservé, en vertu des articles 84 à 89 de la présente directive, aux pertes anticipées et non anticipées.
+
+7. Aux fins des paragraphes 1 à 6 du présent article, les articles 68 à 73 s'appliquent.
+
+8. Jusqu'au 1er janvier 2008, les établissements de crédit peuvent considérer que les articles constitutifs de l'approche standard, décrite au titre V, chapitre 2, section 3, sous-section 1, sont remplacés par les articles 42 à 46 de la directive 2000/12/CE, tels qu'applicables avant le 1er janvier 2007.
+
+9. En cas d'exercice de la faculté prévue au paragraphe 8, les modalités suivantes s'appliquent aux dispositions de la directive 2000/12/CE:
+
+| a) | les dispositions de cette directive visées à ces articles 42 à 46 s'appliquent comme avant le 1er janvier 2007; |
+| --- | --- |
+
+| b) | la «valeur pondérée» visée à l'article 42, paragraphe 1, de cette directive correspond à la notion de «montant de l'exposition pondéré»; |
+| --- | --- |
+
+| c) | les résultats du calcul prévu à l'article 42, paragraphe 2, de cette directive sont considérés comme des montants d'exposition pondérés; |
+| --- | --- |
+
+| d) | les «dérivés de crédit» sont inclus dans la liste des éléments présentant un «risque élevé» figurant à l'annexe II de cette directive; et |
+| --- | --- |
+
+| e) | le traitement prévu à l'article 43, paragraphe 3, de cette directive s'applique aux instruments dérivés répertoriés à son annexe IV, qu'il s'agisse d'éléments du bilan ou de hors bilan, et les résultats du traitement prévu dans l'annexe III sont considérés comme des montants d'exposition pondérés. |
+| --- | --- |
+
+10. En cas d'exercice de la faculté prévue au paragraphe 8, les modalités suivantes s'appliquent concernant le traitement des expositions pour lesquelles l'approche standard est appliquée:
+
+| a) | le titre V, chapitre 2, section 3, sous-section 3, relatif à l'atténuation du risque de crédit ne s'applique pas; |
+| --- | --- |
+
+| b) | les autorités compétentes peuvent ne pas appliquer le titre V, chapitre 2, section 3, sous-section 4, relatif au traitement réservé à la titrisation. |
+| --- | --- |
+
+11. En cas d'exercice de la faculté prévue au paragraphe 8, l'exigence de fonds propres pour risque opérationnel prévue à l'article 75, point d), est réduite du pourcentage correspondant au rapport entre la valeur des expositions de l'établissement de crédit pour lesquelles des montants d'exposition pondérés sont calculés conformément à ladite faculté et la valeur totale de ses expositions.
+
+12. Lorsqu'un établissement de crédit calcule les montants d'exposition pondérés de toutes ses expositions conformément à la faculté prévue au paragraphe 8, les articles 48 à 50 de la directive 2000/12/CE relatifs aux grands risques peuvent lui être appliqués comme avant le 1er janvier 2007.
+
+13. En cas d'exercice de la faculté prévue au paragraphe 8, les références aux articles 78 à 83 de la présente directive s'entendent comme faites aux articles 42 à 46 de la directive 2000/12/CE comme avant le 1er janvier 2007.
+
+14. En cas d'exercice de la faculté prévue au paragraphe 8, les articles 123, 124, 145 et 149 ne sont pas applicables avant la date qui y est visée.
+
+<a id="art_153"></a>
+
+### art_153
+
+Article 153
+
+Aux fins du calcul des montants d'exposition pondérés des expositions relatives à des opérations de crédit-bail portant sur des bureaux ou d'autres locaux commerciaux situés sur leur territoire et remplissant les critères fixés à l'annexe VI, partie 1, point 54, les autorités compétentes peuvent autoriser, jusqu'au 31 décembre 2012, l'application d'une pondération de risque de 50 %, sans application de l'annexe VI, partie 1, points 55 et 56.
+
+Jusqu'au 31 décembre 2010, les autorités compétentes peuvent, pour déterminer la partie garantie d'un prêt échu aux fins de l'annexe VI, reconnaître d'autres sûretés que les sûretés éligibles visées aux articles 90 à 93.
+
+Jusqu'au 31 décembre 2012, pour le calcul des montants d'exposition pondérés aux fins de l'annexe VI, partie 1, point 4, les expositions sur les administrations centrales et les banques centrales des États membres, qui sont libellées et financées dans la monnaie nationale de tout État membre, reçoivent la même pondération que celle qui s'appliquerait à de pareilles expositions libellées et financées en leur monnaie nationale.
+
+<a id="art_154"></a>
+
+### art_154
+
+Article 154
+
+1. Jusqu'au 31 décembre 2011, les autorités compétentes de chaque État membre peuvent fixer, aux fins de l'annexe VI, partie 1, point 61, un nombre de jours d'arriéré allant jusqu'à 180 pour les expositions visées à l'annexe VI, partie 1, points 12 à 17 et 41 à 43 envers des contreparties établies sur leur territoire, si les conditions locales le justifient. Le nombre précis de jours peut varier selon les lignes de produits.
+
+Les autorités compétentes qui, pour lesdites expositions sur leur territoire, ne recourent pas à la faculté prévue au premier alinéa relatives à des contreparties établies sur leur territoire peuvent fixer un nombre de jours plus élevé lorsqu'il s'agit d'expositions envers des contreparties établies sur le territoire d'autres États membres dont les autorités compétentes ont eu recours à cette faculté. Ce nombre est compris dans une fourchette allant de 90 jours au nombre de jours fixé par les autres autorités compétentes pour les expositions envers ces contreparties établies sur leur territoire.
+
+2. Pour les établissements de crédit demandant à appliquer l'approche NI avant 2010, sous réserve de l'approbation des autorités compétentes, la période d'utilisation de trois ans exigée à l'article 84, paragraphe 3, peut être réduite à une période qui ne soit pas inférieure à un an jusqu'au 31 décembre 2009.
+
+3. Pour les établissements de crédit demandant à recourir à leurs propres estimations des pertes en cas de défaut et/ou facteurs de conversion, la période d'utilisation de trois ans exigée à l'article 84, paragraphe 4, peut être réduite à deux ans jusqu'au 31 décembre 2008.
+
+4. Jusqu'au 31 décembre 2012, les autorités compétentes de chaque État membre peuvent autoriser les établissements de crédit à continuer d'appliquer aux participations du type visé à l'article 57, point o), acquises avant le 20 juillet 2006, le traitement exposé à l'article 38 de la directive 2000/12/CE tel que cet article était applicable avant le 1er janvier 2007.
+
+5. Jusqu'au 31 décembre 2010, le montant pondéré moyen des pertes en cas de défaut applicable à tous les expositions sur la clientèle de détail garantis par un logement et ne bénéficiant pas de garanties des administrations centrales ne peut être inférieur à 10 %.
+
+6. Jusqu'au 31 décembre 2017, les autorités compétentes des États membres peuvent exempter du traitement NI certaines expositions sur actions détenues par des établissements de crédit et les filiales dans l'Union d'établissements de crédit dans cet État membre au 31 décembre 2007.
+
+La position bénéficiant de l'exemption est mesurée en nombre d'actions détenues au 31 décembre 2007, augmenté de toute action supplémentaire dont la propriété découle directement de la détention des participations considérées, pour autant que ces actions supplémentaires n'augmentent pas le pourcentage de propriété détenu dans une société de portefeuille.
+
+Si une acquisition augmente le pourcentage de propriété détenu au titre d'une participation donnée, cette augmentation ne bénéficie pas de l'exemption. Celle-ci ne s'applique pas plus aux participations qui en bénéficiaient initialement, mais qui ont été vendues, puis rachetées.
+
+Les expositions sur actions relevant de la présente disposition transitoire sont soumises aux exigences de fonds propres calculées conformément au titre V, chapitre 2, section 3, sous-section 1.
+
+7. Jusqu'au 31 décembre 2011, pour les expositions sur des entreprises, les autorités compétentes de chaque État membre peuvent fixer le nombre de jours d'arriéré que tous les établissements de crédit établis dans cet État membre doivent respecter au titre de la définition du défaut énoncée à l'annexe VII, partie 4, point 44, lorsque les contreparties sont également établies dans cet État membre. Ce nombre de jours est de 90 au minimum et peut aller jusqu'à 180 si les conditions locales le justifient. Pour les expositions sur de telles contreparties établies sur le territoire d'autres États membres, les autorités compétentes fixent un nombre de jours d'arriéré qui ne peut être supérieur à celui fixé par les autorités compétentes de l'autre État membre considéré.
+
+<a id="art_155"></a>
+
+### art_155
+
+Article 155
+
+Jusqu'au 31 décembre 2012, dans le cas des établissements de crédit dont l'indicateur pertinent pour la ligne d'activité «négociation et vente» représente au moins 50 % du total des indicateurs pertinents pour toutes les lignes d'activité, conformément à l'annexe X, partie 2, points 1 à 4, les États membres peuvent appliquer un pourcentage de 15 % à la ligne d'activité «négociation et vente».
+
+<a id="art_156"></a>
+
+### art_156
+
+Article 156
+
+En coopération avec les États membres, et tenant compte de la contribution de la Banque centrale européenne, la Commission contrôle régulièrement si la présente directive considérée dans son ensemble a, avec la directive 2006/49/CE, des effets importants sur le cycle économique et, à la lumière de ce contrôle, examine si d'éventuelles mesures correctives se justifient.
+
+Sur la base de cette analyse, et tenant compte de la contribution de la Banque centrale européenne, la Commission établit un rapport bisannuel et soumet celui-ci, assorti de toute proposition appropriée, au Parlement européen et au Conseil. Les contributions des emprunteurs et des prêteurs sont dûment prises en compte lors de l'établissement du rapport.
+
+Au plus tard, le 1er janvier 2012, la Commission examine la mise en oeuvre de la présente directive et établit un rapport à ce sujet en accordant une attention particulière à tous les aspects des articles 68 à 73, de l'article 80, paragraphes 7 et 8, et de l'article 129, et elle soumet ce rapport, assorti de toutes proposition appropriée, au Parlement européen et au Conseil.
+
+<a id="art_157"></a>
+
+### art_157
+
+Article 157
+
+1. Au plus tard le 31 décembre 2006, les États membres adoptent et publient les dispositions législatives, réglementaires et administratives nécessaires pour se conformer aux articles 4, 22, 57, 61 à 64, 66, 68 à 106, 108, 110 à 115, 117 à 119, 123 à 127, 129 à 133, 136, 144 à 149 et 152 à 155, ainsi qu'aux annexes II, III et V à XII. Ils communiquent immédiatement à la Commission le texte de ces dispositions, ainsi qu'un tableau de correspondance entre ces dispositions et la présente directive.
+
+Nonobstant le paragraphe 3, les États membres appliquent ces dispositions à compter du 1er janvier 2007.
+
+Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d'une telle référence lors de leur publication officielle. Elles contiennent également une mention précisant que les références faites, dans les dispositions législatives, réglementaires et administratives en vigueur, aux directives abrogées par la présente directive s'entendent comme faites à la présente directive. Les modalités de cette référence et la formulation de cette mention sont arrêtées par les États membres.
+
+2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu'ils adoptent dans le domaine régi par la présente directive.
+
+3. Les États membres appliquent, à partir du 1er janvier 2008, et pas avant, les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à l'article 87, paragraphe 9, et à l'article 105.
+
+<a id="art_158"></a>
+
+### art_158
+
+Article 158
+
+1. La directive 2000/12/CE telle que modifiée par les directives figurant à l'annexe XIII, partie A, est abrogée, sans préjudice des obligations des États membres concernant les délais de transposition desdites directives figurant à l'annexe XIII, partie B.
+
+2. Les références faites aux directives abrogées s'entendent comme faites à la présente directive et sont à lire selon le tableau de correspondance figurant à l'annexe XIV.
+
+<a id="art_159"></a>
+
+### art_159
+
+Article 159
+
+La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.
+
+<a id="art_160"></a>
+
+### art_160
+
+Article 160
+
+Les États membres sont destinataires de la présente directive.

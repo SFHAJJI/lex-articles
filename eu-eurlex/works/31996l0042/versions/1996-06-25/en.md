@@ -1,0 +1,16 @@
+---
+lex_id: 'eu-eurlex:31996l0042:1996-06-25'
+title: 'Council Directive 96/42/EC of 25 June 1996 amending Directive 77/388/EEC on the common sys…'
+valid_from: '1996-06-25'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31996L0042'
+source_sha256: 'e572957b8f3b773e6fd7dc690e4349bd15c7379c06b3955ccb8fac75ed6c1c8f'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'html-eu-tolerant/1 · lex derive'
+---
+<a id="document"></a>
+
+### Document
+
+Avis juridique important | 31996L0042 Council Directive 96/42/EC of 25 June 1996 amending Directive 77/388/EEC on the common system of value added tax Official Journal L 170 , 09/07/1996 P. 0034 - 0034 COUNCIL DIRECTIVE 96/42/EC of 25 June 1996 amending Directive 77/388/EEC on the common system of value added taxTHE COUNCIL OF THE EUROPEAN UNION,Having regard to the Treaty establishing the European Community, and in particular Article 99 thereof,Having regard to the proposal from the Commission,Having regard to the opinion of the European Parliament (1),Having regard to the opinion of the Economic and Social Committee (2),Whereas Article 12 (3) (d) of Directive 77/388/EEC (3) lays down that the rules concerning the taxation of agricultural outputs other than those falling within category 1 of Annex H are to be decided unanimously by the Council before 31 December 1994 on a proposal from the Commission; whereas, until that date, those Member States which had already been applying a reduced rate might continue to do so while those applying a standard rate could not apply a reduced rate; whereas that allowed a two-year postponement in the application of the standard rate;Whereas experience has shown that the structural imbalance in the VAT rates applicable by Member States to agricultural outputs of the floricultural and horticultural sectors has led to reported cases of fraudulent activities; whereas that structural imbalance is a direct result of the application of Article 12 (3) (d) and should be redressed accordingly;Whereas the most appropriate solution would be to extend to all Member States, on a transitional basis, the option of applying a reduced rate to supplies of agricultural outputs of the floricultural and horticultural sectors and of wood used as firewood,HAS ADOPTED THIS DIRECTIVE:Article 1 Directive 77/388/EEC is hereby amended as follows:1. Article 12 (3) (d) shall be deleted;2. the following shall be inserted in Article 28 (2):'(i) Member States may apply a reduced rate to supplies of live plants (including bulbs, roots and the like, cut flowers and ornamental foliage) and wood for use as firewood.`Article 2 Member States shall communicate to the Commission the text of the provisions of domestic law which they adopt in the field covered by this Directive.Article 3 This Directive shall apply from 1 January 1995.Article 4 This Directive is addressed to the Member States.Done at Luxembourg, 25 June 1996.For the CouncilThe PresidentM. PINTO(1) OJ No C 17, 22. 1. 1996, p. 26.(2) OJ No C 236, 11. 9. 1995, p. 10.(3) OJ No L 145, 13. 6. 1977, p. 1. Directive as last amended by Directive 95/7/EC (OJ No L 102, 5. 5. 1995, p. 18)

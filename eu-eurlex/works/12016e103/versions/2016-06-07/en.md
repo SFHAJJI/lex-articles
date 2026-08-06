@@ -1,0 +1,16 @@
+---
+lex_id: 'eu-eurlex:12016e103:2016-06-07'
+title: 'Consolidated version of the Treaty on the Functioning of the European Union#PART THREE - U…'
+valid_from: '2016-06-07'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:12016E103'
+source_sha256: 'fd277943e694e4e36c82f7b7ffa285aa25137dd4b819072ce4225f641d4d4265'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'html-eu-tolerant/1 · lex derive'
+---
+<a id="document"></a>
+
+### Document
+
+7.6.2016 EN Official Journal of the European Union C 202/89 Article 103 (ex Article 83 TEC) 1. The appropriate regulations or directives to give effect to the principles set out in Articles 101 and 102 shall be laid down by the Council, on a proposal from the Commission and after consulting the European Parliament. 2. The regulations or directives referred to in paragraph 1 shall be designed in particular: (a) to ensure compliance with the prohibitions laid down in Article 101(1) and in Article 102 by making provision for fines and periodic penalty payments; (b) to lay down detailed rules for the application of Article 101(3), taking into account the need to ensure effective supervision on the one hand, and to simplify administration to the greatest possible extent on the other; (c) to define, if need be, in the various branches of the economy, the scope of the provisions of Articles 101 and 102; (d) to define the respective functions of the Commission and of the Court of Justice of the European Union in applying the provisions laid down in this paragraph; (e) to determine the relationship between national laws and the provisions contained in this Section or adopted pursuant to this Article.

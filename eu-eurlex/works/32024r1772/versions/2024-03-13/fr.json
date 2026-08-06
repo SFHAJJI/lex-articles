@@ -1,0 +1,247 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r1772:2024-03-13",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2024/1772 of 13\u00A0March 2024 supplementing Regulation (EU)\u00A02022/2554",
+  "valid_from": "2024-03-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r1772/versions/2024-03-13/fr.xml",
+    "sha256": "eb298129a71d5452f0e4499b3bf1c1a6238be2dce852b81607a6d5f0ed0b0c76",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R1772"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r1772:2024-03-13#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Le nombre des clients touchés par l’incident, visé à l’article 18, paragraphe 1, point a), du règlement (UE) 2022/2554, comprend tous les clients touchés, qu’il s’agisse de personnes physiques ou morales, qui ne peuvent pas, ou n’ont pas pu, utiliser le service fourni par l’entité financière pendant la durée de l’incident, ou sur lesquels l’incident a eu une incidence préjudiciable. Ce nombre comprend également, en tant que bénéficiaires du service touché, les tiers explicitement couverts par l’accord contractuel conclu entre l’entité financière et le client.\n\n2. Le nombre des contreparties financières touchées par l’incident, visé à l’article 18, paragraphe 1, point a), du règlement (UE) 2022/2554, comprend toutes les contreparties financières touchées qui ont conclu un accord contractuel avec l’entité financière.\n\n3. En ce qui concerne l’importance des clients et des contreparties financières touchés par l’incident, visée à l’article 18, paragraphe 1, point a), du règlement (UE) 2022/2554, l’entité financière tient compte de la mesure dans laquelle l’incidence sur un client ou une contrepartie financière affectera la mise en œuvre de ses objectifs opérationnels, ainsi que de l’incidence potentielle de l’incident sur l’efficience du marché.\n\n4. En ce qui concerne le volume ou le nombre des transactions touchées par l’incident, visé à l’article 18, paragraphe 1, point a), du règlement (UE) 2022/2554, l’entité financière tient compte de toutes les transactions touchées impliquant un montant monétaire qui sont au moins en partie effectuées dans l’Union.\n\n5. Lorsque le nombre réel des clients ou des contreparties financières touchés, ou le nombre ou le volume réel des transactions touchées, ne peut pas être déterminé, l’entité financière estime ce nombre ou ce volume à partir des données disponibles portant sur des périodes de référence comparables.",
+      "text_sha256": "c11923597f1d91493a8ed3bb7bd9adffd0e6f546567d10a440a60f72116db954",
+      "md_span": {
+        "start": 648,
+        "end": 2546
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r1772:2024-03-13#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Afin de déterminer l’incidence de l’incident sur la réputation, visée à l’article 18, paragraphe 1, point a), du règlement (UE) 2022/2554, les entités financières considèrent qu’il y a eu atteinte à la réputation lorsqu’au moins l’un des critères suivants est rempli:\n\n| a) | l’incident a été relayé par les médias; |\n| --- | --- |\n\n| b) | l’incident a donné lieu à des plaintes répétées de la part de différents clients ou contreparties financières concernant des services en contact direct avec la clientèle ou des relations commerciales critiques; |\n| --- | --- |\n\n| c) | l’entité financière ne pourra pas satisfaire à certaines exigences réglementaires, ou il est probable qu’elle ne le pourra pas, en raison de l’incident; |\n| --- | --- |\n\n| d) | l’entité financière perdra, ou il est probable qu’elle perdra, des clients ou des contreparties financières en raison de l’incident, au grand détriment de son activité. |\n| --- | --- |\n\n2. Lorsqu’elles évaluent l’incidence de l’incident sur la réputation, les entités financières tiennent compte du niveau de visibilité que l’incident a atteint, ou est susceptible d’atteindre, en ce qui concerne chaque critère énuméré au paragraphe 1.",
+      "text_sha256": "081efa53838e8611ac76b66eaa45d69112365bb5d1b0269b91abdcc8388fcbf8",
+      "md_span": {
+        "start": 2579,
+        "end": 3781
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r1772:2024-03-13#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les entités financières mesurent la durée d’un incident, visée à l’article 18, paragraphe 1, point b), du règlement (UE) 2022/2554, à partir du moment où l’incident est survenu jusqu’au moment où il est résolu.\n\nLorsque les entités financières ne sont pas en mesure de déterminer le moment auquel l’incident est survenu, elles mesurent la durée de l’incident à partir du moment où il a été détecté. Lorsque les entités financières se rendent compte que la survenue de l’incident est antérieure à sa détection, elles mesurent la durée à partir du moment où l’incident est enregistré dans les journaux des réseaux ou des systèmes ou dans d’autres sources de données.\n\nLorsque les entités financières ne savent pas encore quand l’incident sera résolu ou ne sont pas en mesure de vérifier les enregistrements dans les journaux ou dans d’autres sources de données, elles appliquent des estimations.\n\n2. Les entités financières mesurent les interruptions de service, visées à l’article 18, paragraphe 1, point b), du règlement (UE) 2022/2554, à partir du moment où le service est totalement ou partiellement indisponible pour les clients, les contreparties financières ou d’autres utilisateurs internes ou externes jusqu’au moment où les activités ou opérations régulières ont repris au niveau de service qui était fourni avant l’incident. Lorsque l’interruption de service provoque un retard dans la fourniture d’un service après la reprise des activités ou opérations régulières, l’interruption est mesurée à partir du début de l’incident jusqu’au moment où le service ayant subi un retard est intégralement fourni.\n\nLorsque les entités financières ne sont pas en mesure de déterminer le moment auquel l’interruption de service a commencé, elles mesurent l’interruption de service à partir du moment où celle-ci a été détectée.",
+      "text_sha256": "dd61ca35d5267948395d406f38a1b104d5f98c538e18d490b6776a662cf0e8f7",
+      "md_span": {
+        "start": 3814,
+        "end": 5651
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r1772:2024-03-13#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nAfin de déterminer la répartition géographique en ce qui concerne les zones touchées par l’incident, visée à l’article 18, paragraphe 1, point c), du règlement (UE) 2022/2554, les entités financières évaluent si l’incident a ou a eu une incidence dans d’autres États membres, et évaluent notamment l’importance de cette incidence en ce qui concerne:\n\n| a) | les clients et les contreparties financières dans d’autres États membres; |\n| --- | --- |\n\n| b) | les succursales ou les autres entités financières du groupe qui exercent des activités dans d’autres États membres; ou |\n| --- | --- |\n\n| c) | les infrastructures des marchés financiers ou les prestataires tiers susceptibles d’affecter les entités financières établies dans d’autres États membres auxquelles ils fournissent des services, si ces informations sont disponibles. |\n| --- | --- |",
+      "text_sha256": "fe3dff4bb7ff449a4518269255c891a8a16f47bcf995b3a9005fe71d51d24754",
+      "md_span": {
+        "start": 5684,
+        "end": 6542
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r1772:2024-03-13#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nAfin de déterminer les pertes de données occasionnées par l’incident, visées à l’article 18, paragraphe 1, point d), du règlement (UE) 2022/2554, les entités financières cherchent à savoir:\n\n| a) | en ce qui concerne la disponibilité des données, si l’incident a rendu temporairement ou durablement inaccessibles ou inutilisables les données sollicitées par l’entité financière, ses clients ou ses contreparties; |\n| --- | --- |\n\n| b) | en ce qui concerne l’authenticité des données, si l’incident a compromis la fiabilité de la source des données; |\n| --- | --- |\n\n| c) | en ce qui concerne l’intégrité des données, si l’incident a entraîné une modification non autorisée des données qui les a rendues inexactes ou incomplètes; |\n| --- | --- |\n\n| d) | en ce qui concerne la confidentialité des données, si l’incident a eu pour conséquence qu’une partie ou un système non autorisé a eu accès à des données ou que celles-ci lui ont été divulguées. |\n| --- | --- |",
+      "text_sha256": "fc1b92e8abf929ba93668cde5807c1921407682b1d509781c1035fe549b2fc73",
+      "md_span": {
+        "start": 6575,
+        "end": 7548
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r1772:2024-03-13#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nAfin de déterminer la criticité des services touchés, visée à l’article 18, paragraphe 1, point e), du règlement (UE) 2022/2554, les entités financières évaluent si l’incident:\n\n| a) | touche ou a touché des services TIC ou des réseaux et des systèmes d’information qui soutiennent des fonctions critiques ou importantes de l’entité financière; |\n| --- | --- |\n\n| b) | touche ou a touché des services financiers fournis par l’entité financière qui nécessitent un agrément ou un enregistrement ou qui sont surveillés par les autorités compétentes; |\n| --- | --- |\n\n| c) | constitue ou a constitué un accès réussi, malveillant et non autorisé aux réseaux et aux systèmes d’information de l’entité financière. |\n| --- | --- |",
+      "text_sha256": "25df1d4e2cdaf93541122856e669d2025a690e320611cdf0810ddd4cdab85fe5",
+      "md_span": {
+        "start": 7581,
+        "end": 8314
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32024r1772:2024-03-13#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Afin de déterminer les conséquences économiques de l’incident, visées à l’article 18, paragraphe 1, point f), du règlement (UE) 2022/2554, les entités financières, sans comptabiliser les recouvrements financiers, tiennent compte des types suivants de coûts et de pertes directs et indirects qu’elles ont supportés en raison de l’incident:\n\n| a) | les fonds ou les actifs financiers expropriés dont elles sont responsables, y compris les actifs perdus à la suite d’un vol; |\n| --- | --- |\n\n| b) | les coûts du remplacement ou du déplacement de logiciels, de matériel ou d’infrastructures; |\n| --- | --- |\n\n| c) | les frais de personnel, y compris les coûts liés au remplacement ou au déménagement du personnel, au recrutement de personnel supplémentaire, à la rémunération des heures supplémentaires et à la récupération des compétences perdues ou altérées; |\n| --- | --- |\n\n| d) | les frais dus au non-respect d’obligations contractuelles; |\n| --- | --- |\n\n| e) | les coûts de dédommagement et d’indemnisation des clients; |\n| --- | --- |\n\n| f) | les pertes dues aux recettes non perçues; |\n| --- | --- |\n\n| g) | les coûts liés à la communication interne et externe; |\n| --- | --- |\n\n| h) | les frais de conseil, y compris les coûts liés au conseil juridique, aux services d’analyse forensique et aux services de remédiation. |\n| --- | --- |\n\n2. Les coûts et pertes visés au paragraphe 1 excluent les coûts nécessaires au fonctionnement quotidien de l’entreprise, en particulier:\n\n| a) | les coûts de maintenance générale des infrastructures, des équipements, du matériel et des logiciels, ainsi que les coûts d’actualisation des compétences du personnel; |\n| --- | --- |\n\n| b) | les coûts internes ou externes engagés pour renforcer l’activité après l’incident, notamment les mises à niveau, les améliorations et l’adoption de mesures d’évaluation des risques; |\n| --- | --- |\n\n| c) | les primes d’assurance. |\n| --- | --- |\n\n3. Les entités financières calculent les montants des coûts et des pertes sur la base des données disponibles au moment de la déclaration. Lorsque les montants réels des coûts et des pertes ne peuvent pas être déterminés, les entités financières les estiment.\n\n4. Lorsqu’elles évaluent les conséquences économiques de l’incident, les entités financières additionnent les coûts et les pertes visés au paragraphe 1.",
+      "text_sha256": "4fc5c74d0e900e825f31a15ba8be87fdba3f3a41584249fe285a09f71b7a45d1",
+      "md_span": {
+        "start": 8347,
+        "end": 10701
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32024r1772:2024-03-13#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Un incident est considéré comme un incident majeur aux fins de l’article 19, paragraphe 1, du règlement (UE) 2022/2554 lorsqu’il a touché des services critiques visés à l’article 6 et lorsque l’une des conditions suivantes est remplie:\n\n| a) | le seuil d’importance significative visé à l’article 9, paragraphe 5, point b), est atteint; |\n| --- | --- |\n\n| b) | au moins deux des autres seuils d’importance significative visés à l’article 9, paragraphes 1 à 6, sont atteints. |\n| --- | --- |\n\n2. Les incidents récurrents qui, pris isolément, ne sont pas considérés comme un incident majeur au sens du paragraphe 1 sont considérés comme un incident majeur lorsqu’ils remplissent toutes les conditions suivantes:\n\n| a) | ils se sont produits au moins deux fois en six mois; |\n| --- | --- |\n\n| b) | ils ont la même cause originelle apparente, telle que visée à l’article 20, premier alinéa, point b), du règlement (UE) 2022/2554; |\n| --- | --- |\n\n| c) | ils remplissent collectivement les critères pour être considérés comme un incident majeur énoncés au paragraphe 1. |\n| --- | --- |\n\nLes entités financières évaluent l’existence d’incidents récurrents chaque mois.\n\nLe présent paragraphe ne s’applique pas aux microentreprises ni aux entités financières énumérées à l’article 16, paragraphe 1, du règlement (UE) 2022/2554.",
+      "text_sha256": "6538e8841f523e15e990fdfc09e3023169b5f665c52b759786a0b8d2a8d67eb4",
+      "md_span": {
+        "start": 10734,
+        "end": 12068
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32024r1772:2024-03-13#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Le seuil d’importance significative pour le critère «clients, contreparties financières et transactions» est atteint lorsque l’une des conditions suivantes est remplie:\n\n| a) | le nombre des clients touchés dépasse 10 % de l’ensemble des clients qui utilisent le service touché; |\n| --- | --- |\n\n| b) | le nombre des clients touchés qui utilisent le service touché dépasse 100 000; |\n| --- | --- |\n\n| c) | le nombre des contreparties financières touchées dépasse 30 % de l’ensemble des contreparties financières qui exercent des activités liées à la fourniture du service touché; |\n| --- | --- |\n\n| d) | le nombre des transactions touchées dépasse 10 % du nombre moyen journalier des transactions effectuées par l’entité financière liées au service touché; |\n| --- | --- |\n\n| e) | le volume des transactions touchées dépasse 10 % de la valeur moyenne journalière des transactions effectuées par l’entité financière liées au service touché; |\n| --- | --- |\n\n| f) | des clients ou des contreparties financières considérés comme importants en vertu de l’article 1er, paragraphe 3, ont été touchés. |\n| --- | --- |\n\nLorsque le nombre réel des clients ou des contreparties financières touchés, ou le nombre ou le volume réel des transactions touchées, ne peut pas être déterminé, l’entité financière estime ce nombre ou ce volume à partir des données disponibles portant sur des périodes de référence comparables.\n\n2. Le seuil d’importance significative pour le critère «atteinte à la réputation» est atteint lorsque l’une des conditions énoncées à l’article 2, points a) à d), est remplie.\n\n3. Le seuil d’importance significative pour le critère «durée et interruptions de service» est atteint lorsque l’une des conditions suivantes est remplie:\n\n| a) | la durée de l’incident dépasse 24 heures; |\n| --- | --- |\n\n| b) | l’interruption de service dépasse 2 heures pour les services TIC qui soutiennent des fonctions critiques ou importantes. |\n| --- | --- |\n\n4. Le seuil d’importance significative pour le critère «répartition géographique» est atteint lorsque l’incident a une incidence dans deux États membres ou plus, conformément à l’article 4.\n\n5. Le seuil d’importance significative pour le critère «pertes de données» est atteint lorsque l’une des conditions suivantes est remplie:\n\n| a) | l’incidence sur la disponibilité, l’authenticité, l’intégrité ou la confidentialité des données, visée à l’article 5, nuit ou nuira à la mise en œuvre des objectifs opérationnels de l’entité financière ou à sa capacité de satisfaire aux exigences réglementaires; |\n| --- | --- |\n\n| b) | les réseaux et les systèmes d’information sont l’objet d’un accès réussi, malveillant et non autorisé non couvert par le point a) et susceptible d’entraîner des pertes de données. |\n| --- | --- |\n\n6. Le seuil d’importance significative pour le critère «conséquences économiques» est atteint lorsque les coûts et les pertes supportés par l’entité financière en raison de l’incident ont dépassé, ou sont susceptibles de dépasser, 100 000 EUR.",
+      "text_sha256": "8267105af389e53bc372586f8f61c9a77ca4038d44e3eeffffcaae755569652a",
+      "md_span": {
+        "start": 12101,
+        "end": 15134
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32024r1772:2024-03-13#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nAux fins de l’article 18, paragraphe 2, du règlement (UE) 2022/2554, une cybermenace est considérée comme importante lorsque toutes les conditions suivantes sont remplies:\n\n| a) | la cybermenace est ou était susceptible, en cas de matérialisation, de toucher des fonctions critiques ou importantes de l’entité financière, ou de toucher d’autres entités financières, prestataires tiers, clients ou contreparties financières, à en juger par les informations dont dispose l’entité financière; |\n| --- | --- |\n\n| b) | la probabilité que la cybermenace se matérialise au sein de l’entité financière ou d’autres entités financières est grande, compte tenu au moins des éléments suivants:i)les risques applicables liés à la cybermenace, visés au point a), y compris les vulnérabilités potentielles des systèmes de l’entité financière qui peuvent être exploitées;ii)les capacités et l’intention des acteurs de la menace, dans la mesure où l’entité financière en a connaissance;iii)la persistance de la menace et toute connaissance acquise sur les incidents qui ont eu une incidence sur l’entité financière ou son prestataire tiers, ses clients ou ses contreparties financières; |\n| --- | --- |\n| i) | les risques applicables liés à la cybermenace, visés au point a), y compris les vulnérabilités potentielles des systèmes de l’entité financière qui peuvent être exploitées; |\n| ii) | les capacités et l’intention des acteurs de la menace, dans la mesure où l’entité financière en a connaissance; |\n| iii) | la persistance de la menace et toute connaissance acquise sur les incidents qui ont eu une incidence sur l’entité financière ou son prestataire tiers, ses clients ou ses contreparties financières; |\n\n| c) | si elle se matérialisait, la cybermenace pourrait remplir ou atteindre l’un des critères ou seuils suivants:i)le critère de la criticité des services énoncé à l’article 18, paragraphe 1, point e), du règlement (UE) 2022/2554, tel qu’il est précisé à l’article 6 du présent règlement;ii)le seuil d’importance significative prévu à l’article 9, paragraphe 1;iii)le seuil d’importance significative prévu à l’article 9, paragraphe 4. |\n| --- | --- |\n| i) | le critère de la criticité des services énoncé à l’article 18, paragraphe 1, point e), du règlement (UE) 2022/2554, tel qu’il est précisé à l’article 6 du présent règlement; |\n| ii) | le seuil d’importance significative prévu à l’article 9, paragraphe 1; |\n| iii) | le seuil d’importance significative prévu à l’article 9, paragraphe 4. |\n\nLorsque, en fonction du type de cybermenace et des informations disponibles, l’entité financière conclut que les seuils d’importance significative prévus à l’article 9, paragraphes 2, 3, 5 et 6, pourraient être atteints, elle peut également prendre ces seuils en considération.",
+      "text_sha256": "70bb7e85f5c7d1a11f9c0795c9023bd07f40212ac61c82fe3a452a44709c024e",
+      "md_span": {
+        "start": 15169,
+        "end": 17958
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32024r1772:2024-03-13#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nL’évaluation visant à déterminer si un incident majeur est pertinent pour les autorités compétentes d’autres États membres, prévue par l’article 19, paragraphe 7, du règlement (UE) 2022/2554, est fondée sur le point de savoir si l’incident trouve son origine dans un autre État membre ou s’il a ou a eu une incidence importante dans un autre État membre en ce qui concerne:\n\n| a) | des clients ou des contreparties financières; |\n| --- | --- |\n\n| b) | une succursale de l’entité financière ou une autre entité financière du groupe; |\n| --- | --- |\n\n| c) | une infrastructure des marchés financiers ou un prestataire tiers susceptible d’affecter les entités financières auxquelles ils fournissent des services. |\n| --- | --- |",
+      "text_sha256": "ce6302ec5585781a4a5841e2ad3ec5693f0a9685438da2492a9ae7572259aa04",
+      "md_span": {
+        "start": 17993,
+        "end": 18730
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32024r1772:2024-03-13#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nLes détails des incidents majeurs que les autorités compétentes communiquent aux autres autorités compétentes conformément à l’article 19, paragraphe 6, du règlement (UE) 2022/2554 et les notifications que l’ABE, l’AEMF ou l’AEAPP et la BCE soumettent aux autorités compétentes concernées des autres États membres conformément à l’article 19, paragraphe 7, dudit règlement contiennent le même niveau d’information, sans anonymisation, que celui des notifications et rapports d’incidents majeurs soumis par les entités financières conformément à l’article 19, paragraphe 4, du règlement (UE) 2022/2554.",
+      "text_sha256": "17929cd669d3350d3462d507768d4d1944a0d89bff2fdd73064732fc25be9fd5",
+      "md_span": {
+        "start": 18765,
+        "end": 19378
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32024r1772:2024-03-13#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "7a8c4d6140eee2e41587077667ed1bb142014857680e4af805482aa9554706c9",
+      "md_span": {
+        "start": 19413,
+        "end": 19555
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

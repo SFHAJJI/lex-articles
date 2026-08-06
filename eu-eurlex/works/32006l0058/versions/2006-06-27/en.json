@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32006l0058:2006-06-27",
+  "language": "en",
+  "title": "Council Directive 2006/58/EC of  27 June 2006  amending Council Directive 2002/38/EC as re…",
+  "valid_from": "2006-06-27",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32006l0058/versions/2006-06-27/en.xml",
+    "sha256": "137f1a91c0a659edb88f3ced4e81c2cfc6267973b671c51f537296ebb670d81d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32006L0058"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32006l0058:2006-06-27#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nArticle 4 of Directive 2002/38/EC shall be replaced by the following:\n\n‘Article 4\n\nArticle 1 shall apply until 31 December 2006’.",
+      "text_sha256": "77aa9ba6414a97d9a399f3b71b883d4e0150063967b7771a0caab44a9eed657c",
+      "md_span": {
+        "start": 636,
+        "end": 776
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32006l0058:2006-06-27#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive with effect from 1 July 2006. They shall forthwith communicate to the Commission the text of those provisions.\n\nWhen Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. The methods of making such reference shall be laid down by Member States.\n\n2. Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.",
+      "text_sha256": "0a31877ba8d06a502c44f32dcf15179649042b7b2b1cdbee46ff383ecb78efab",
+      "md_span": {
+        "start": 809,
+        "end": 1473
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32006l0058:2006-06-27#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Directive shall enter into force on the day of its publication in the Official Journal of the European Union.",
+      "text_sha256": "50e1fd49e146439eff57fd7bf8f328c786624a5a83906cb102ee7c13330c4db0",
+      "md_span": {
+        "start": 1506,
+        "end": 1631
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32006l0058:2006-06-27#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Directive is addressed to the Member States.",
+      "text_sha256": "46febe2055ef1f915cbf717390fb7bb227daf6166e4052d12f7f39bbce864281",
+      "md_span": {
+        "start": 1664,
+        "end": 1724
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

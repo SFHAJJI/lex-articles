@@ -5,6 +5,7 @@
     "akn-lu/1",
     "pdf-memorial-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_10": [
       {
@@ -1157,5 +1158,1162 @@
       "anchor": "art_24bis",
       "at_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
     }
-  ]
+  ],
+  "anchors_by_language": {
+    "fr": {
+      "art_10": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "61ea207523af1d05a18ed2bb030dfb580c6416d477dd1e57b3cfc66f30a7b693",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": null,
+          "text_sha256": "9a33d7bfe7aeca6945d43a9a5b1c764b197ca9b73756ff3f9bee444238920662",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "5a29f625417ca7cf0ac296df3358f05f7782cc8fcb20c16ead8bf0fdbb1a03e2",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "9a1682e924ea23329e9ec1cf9f34593714919cdb0f6079156c099e6fa46f77e3",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "da8f511eddf91fce0b248e3d0aa8df46ece1732fe00194fe80d507b0f412db5b",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "9fc73290c6c28a56b65374b38577bea958b2216cadf42cfb7876bc3ba0fb916c",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "67c02b1f7d654e0a4783c3225c5aa6b9598e22e4340bec0ee6984845b1e73790",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "54f6b1d4398ca36391c290f63f8873faec98b4db649e1418241c16b3c8ffeeee",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "2a9b3f2d0d4ebfeb8a2953189d333a2acccc6c5456764e749ce00c4839ac5adb",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "2d0af09f4ecbf70b44f9a267f8561e79525b4f433b82280b74234bce51018bcc",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "fa591cd66191dc70d0c7cea9317e4c7d5b952ab67ecfe3d357b8c9d6a3a11340",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "d9fc1b487a684fddf5fbe56d487a2140a8ac62f7ca5978a8b118a6bb815f1ef1",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "2b9c22fc396337bdeecc6fe006f2a58768a57b1d69627a5aef4ab06c14f370ae",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "7fd41cfe54ac86c985d4493e4f6b417df7c3982a1a4909e403945b32088e0059",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "292053454319045cacfec22e9cbbd8678ce02a24a1b2e604bf18ce63e3c0c3ed",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "3abdd7b64cb11cc9dd6b94e2c4da0ed034c8c0341c0da2ddd0bc4bfec3b09286",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "5d0ca6d0fdab629a0196ad09651040f05045428242abdad65585ae9b666be61f",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "ec237f6933b5bc3d42588d9de2ec1d2e5f5cbba5a4cde91d6a0c1cbe834c7e0e",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "11728171f72e4c9e6f7d3f3820f32493b36b7ba86252d225a407ee4bf4aaa3a9",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "d6f3d7f6e84683b77366ca5bd98d0fcb3d666270c930f12567d31d08ccc30b7c",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_17": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "a5e61a0f4b8d1a8a98ebe02706e445e12b8531da4ec5e836d505174a83c33324",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "1735c672640dc2f09e645ff740e059a4ce6d48922a22ef2ea8e2b182066936f0",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "1d23f27cce6a27733b76bf63fea221aa1f632ad1f3ddf7d4da8a93b9a7b1ba8c",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_18": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "41a8a47a8bd4829ada1e322f545be4de0d8dbf4fb08c474b05accf4a2ec092e7",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "b68e1eea4672e169425a3b2a270c7494e8f9c7349add98a80a6f84022004670c",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "b598f2e2cf6424ddd7ba3ae145d3dcc71ca215f1587ae32affd45eba24baab2e",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_19": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "05798bd13cddc5f69b263e31dac52790454717d32f497c37f8f573c499e20748",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "3ebe1739befaf5053ff696092102d797f513f829024e6873d2e2e85e13473bfa",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "3feb733a27bd514747fb37c6916226bf8dcc8241b5d3896ac39fb01907ac002c",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_1er": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "b6e0094869a2b4fed9fd7c5c0d15b26960bfd4e9a420f70a139315bb88659fc5",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "e3dfdf1602a9c447b60711307fe6579f34c85659218ab565d9bf01617832de70",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "cdcc68ac7bdc5249881228196f815710b708a7198c86150a110003a14e1bb598",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "d621be245a469e5a439dd9b57c9cf29082e711198648c8a84f9aaa1fb8da2a9b",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "05c0f7b8147659bcaa7e2554a79de2b166f712978574065996ecad0932e09132",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "1d2acc40aee5ea3d7c176c296a4debb967ee53ec2c015e1ed571662dd67a5431",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_20": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "a44b56d0b2b64c228c6fa5275b9d24d3e5ccbaee336c98b4066d5769ec1a4042",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "aa556c254fde994ad6ae6a347a396fd1fc0041c56e931a1c8d260d04a6099cc8",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_20bis": [
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "5d03ce380a66af88b385aa6cbf5722dd23bed9da90a689ea93b564736c052119",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_21": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "41b85647e85f5f72a542dd49e0c14d819f1ecf232338db91311ccb9a065f6846",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "7a4dfe82fda0fab8db062b92e584b9e80cf07d6c61c2ad6194f99bd4bff18c04",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_22": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "2eb2505bf394d6ac17bffb510d3c8e33debba7cfae92ee2e3caaabf6920a7a2a",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "e0a9f200a0e6e93bf539615b47734b8143faa13710a6ab3938546ce17c28cd78",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "a3e9e4cd682fe43fb9b080ca77badce6e7dca5dcdfc0dfd972aba9c6bec491cb",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_23": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "f59f96b7e91937504d653e54a383f0425e26bc74bbc46d4a944e55bade1f7b38",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "ab2ba1d2265c9e654da6656c1f5151c97032b36423500ef217a2b68b4d841ecc",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "2dcedcd4ba2edfb9cf947d8e04d6e0f6c4a7ab29d11b4037d074c39cce272a0b",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_24": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "fa846eaa158b353d7631ca5938d4d819b978c8cc8ad71bc26373a61c80de2228",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "4758acc04ad4d51ab71e16516d061b44f714cbb75fcf540d31fcdfbe541837e1",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "19b2a1dde8551474c0b1061e39ccd031921a2ecb57ba7e8fde0a17b44acbda62",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_24bis": [
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "97121a6898f4aeb5b31dcaca358d9ddc58f48218c1b622e9e4e9a3548a52ebee",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_25": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "8829412d148201ef7e34ceaefe0849335ae30948fce50679bcd1457bf451d59b",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "bb58fa1b8241fbe326f4a0a3a5ff330ad09bf1f0d58c0fa6a724e72cc1c8b6c5",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "587261cb3f1de6dd338db0473ba0f444dec68d25850fdbabc8a0b6b03a615e09",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_26": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "455852992779ffcbc49474170916644c0af5b4ed22085c6ffd0e2ef12f8df0e1",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "cca17143761bc32943f692bea03eb6e19ee71b3a98c1971a6c37c49527f8c46f",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "e142b31c26292f686349d972a6beba5152759a1ec484932a5197a606178c673e",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_27": [
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "080bd19b21b9914c4302f3c8eb4836bb801140720084f96fda4571bc1094ef1d",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "f37d33e71e2806492d05f4eeaf5da1e4868c784a48482d6a7eaecef24d97e0ee",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_28": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "242682821d65e8fbafaf414a69b9e08cb9ab475d44177e9b9a2ff3a297ed0aaa",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "262887200fcd21dcd627edbfb04bef3cfe1c0993d8b2180fe5de8a71bb059b27",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "8f17912ac4933909c91580d006d5ee693f394cc03e67c7d45f4c0b45bec3b30e",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_29": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "e21b48338c70b484e6eb761fa6636940eb0653ecd3bcb7c31d32b5df6f8d2086",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "da1e399291a05cc38df2da0fd00a63a0cb909b83b257ed028e575546cc70da27",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "ba1caa0aaf7a0972e5f81253f26554c0deb288d4b86b34387b88ee5eb108bb00",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "d02a6b8a53ba03bbdfa3c87073d5db005538f84f7494bb40f601b7b2f5a7d33a",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "8071588d122a620b9efab7cfe1951eb5510d6228d2dd68052bf0bff7dbf3f213",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_30": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "86ad38d7e3f47855308e45c58488042b22108c3addfa8495963dd179a4706a89",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "fc786d59778d78c08818e44611b7a7734057914efc2fdc0b9b66261b71b6b41e",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "9334f69c340af8e85a58864b90ecdc670ec01edcde8f6e7690198b9174400557",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_31": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "effb01d06861951915882234b97820a86a10ca2a63c707d61e57562ab0c20fff",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "19a12445c55385c22f0d3ccdb24881cbe2bed223589c2b6963bdb4d47ff0acc9",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "5914d70ba42f5838d652bfd6e3628a4eb6a7bb5867ecec874f2e46244f012a67",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_32": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "6a43b65f10d08b35b4b8de8fd1de436d0c69038a55804873a7ec991f88107447",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "c91c4c9c505d44efc867a267cb1eb85a07b6d87975aed263713f32e0cbabaf23",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "f95aa737f153f6e30bfd2a4c4f6dddbe102ad8568b19485d2c1143cbd067035a",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_33": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "4a1eb5540450b11b87bbe8d5a328c5eeef025537f1edabd4762c93f73c939e6b",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "129b8a14cbd5ad5497250225963cf6449851d49c749f890cbe269d26e9738d32",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "a6ab41d2c515ee2c5915782df504e81b839945f161f8a7618065dffc7a5fe6e3",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_34": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "08e9020cae2748f8be50d22ca0d6b101c748827aa541fa76218e5f5f04565119",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "db034c728da4384735d1e3e17559ff8fbb339e2add23fbbf1a483321df684586",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "d5e92bd4f9d4dac90b378e8b7b38162945e701f0af44b01ab056ff99e7a1530d",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_35": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "a3955771d75908af84f1105b253043305e71b6b73f8cc5b2c93f40cd1ccc8f3c",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "508c0923299cc81944731c9306e8c2fce25da19d75068d18f6c1aeef1c8f62b1",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "edd4ae314a2e5a642010477b3b504aa2068e207bb48d8ba86def21c10f9a126a",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_36": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "aae18665eae067ebeed8490333c6fb4b0f5f4ed9c5caa02ff9bb55aed49d8acb",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "d5cdc2b57c398c0cebda3919a28f9a3dc38c89ab61b29fc4cdbb89c59ff48430",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "8cb03f67e8d2bc2f2d9e670b2071425bcb672fca1438c8317c84d1e96adcb1aa",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_37": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "9e07141b5c9f62c42de4229c7c2b59d8392dd3e37ff3fbadd92143fc8e6a77d7",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": null,
+          "text_sha256": "33cb5f7e55043b9ed857d746e558fc5580d9a9e5ce6b722548213ae2696a3411",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_38": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "7410f2221b8893a50d06c97f3901b7ad532392b636d31e3c0e0478a86bcfd2ac",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "5ec4401cd727baeb99d28dcd622d37add7d1f7ee250f193d87f1194d11ac8ac6",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "0a50e0527add159834bb907d62da2f2a27c1a27817428d09177eb4f4e0084110",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_39": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "7d62e1be1f310120e761a9e625247a670e7f44ca919068e04c089dcbc027e038",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": null,
+          "text_sha256": "3c2d2ce72894afc4be47fe3c8c4fa44d8853121699ec4feb02a80872db1b6962",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "ea15c7d8eb33ddfe5858f9c18872f413c5dd5f70d48fdc3589e13ef95c525e34",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "50d1ec338f0f9e2321e12c3e49278b7d41ff9520bec16f6ec61bf2ae15b29902",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "e40f25c2d38ede69ded66a36e9e4f66beb43413e3b93a74510002d9a56591cad",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_40": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "1c46316f348c45fc6fd0a9a7d86d1584a7b53faa6c5cbf78f1d7065e3416291e",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": null,
+          "text_sha256": "2022de6f25ae53587f3a11459869f27d0e16133067d994688f10dbd353e0f77c",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_41": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "50b8bca84efddd802370c5c0675376e00e6113fe8537b32c93bbb21f77909774",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "2e9c880a18a85f7b46cb57337e95e22b9e33c16bee03b2923b4b1d81b1d6e534",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "fbea198dffb40bffc3ad0476bbe73ab2f2952bdfc576a6bdd2fbd56388999f64",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_42": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "bbc86cbac67b6b81f38a15b948fdc515757d85f67dd8be27653499728d9ce840",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": null,
+          "text_sha256": "e93a57d983acb16ce96c4fdfc4bb253ce69c105b652dea2cd47bf7ef011b2843",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_43": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "6840f502f2c392f331882d916aa503c8f73d0f4e2d28cae9522e450d0b6f3a80",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": null,
+          "text_sha256": "ff6873e53d812bc6567e88882b9d127a2001be71fcc5a160888f36c8dcc3d4a7",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_44": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "1472fdad50233b0a0eaca16dee6167cea5e82bf3ab38a503e9f5d381cc4d88a5",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "9bcd60fdd3c95b7f4fa324f944fb4860d664e5f2dcf84c4e5c09c4b4b47f1377",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "2d80378f52f95c1e4755d8f4aca72f95442fdfc6f043d973b4b85441c69cb43e",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_45": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "b85e0761bc249fbcc10d6f2364737c3b0fcf13c8dfad09b4893a66e278c01544",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "29bb44d28ffd4814c01900be316f9c6ded40ec43686c8b4ff488019e468e044f",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "efa52fb9b19fe9d0a30e417903e32aa57962c052eaf91c6e3520006b3c2d01f6",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_46": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "2aa865ec218290a85cc9f7f71183f5c61b70a7a1b97ce048b7b568d6d371ed1b",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "447fd7945476c3047640d1571fd11671607ca1915503adc6092a98d40d222c30",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "2c6b1ec86e9605a7b7428a3756d92c53b85eb153660963cb9395fc5b24aa5824",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_47": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "cdcd620af2e79a059e5c77489c7b9f8549008e3a0f3e45348fc97ee3fc87966a",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "c0b0418fafe81e30c3ecc834663814f421b136d60c507204ff8089442453afc4",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "aea2ed72d6516b5fc4e5b2db92fc815bc8bd8d5175676a005fc7a33f17edb6c5",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_48": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "82aa177e729b638bc8fb9ec70e78f3529dfa2d6a6dd99058dbdd4aeeeb0dc4a9",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "6b9456298191377b300bf5e7be88a37361e7149c30a8585bb1fef0a608e3df82",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_49": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "170f48346baddcab1a1ffd202d6f4c73055723b042f9a14bda6d9325de0ed89d",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "7311af748c5e52dbce9f349c2023fa52ebafa51cdc2901dde10d12dee0d3eb69",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "d773b93c40f310c854e9ea450df1f1d4e722e61359712430dc7a6a9608456b0f",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "f7e7c00a4f2c1264263afd2f5fcbf785bffefe236afe93176cb97fec3bb530cb",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "90c8e30298ccce4b1999cc7be143e136481cd99202c417a132bae0e6c656ef86",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_50": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "6d1c3d88e99dfcd9c97ce8301e4d8ae158cfb1fbeed492ac106755e43dd147b1",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "57fc9bf42daf1670d0f1930069bb2f9ed919618efc4feccecd77832fb362c35d",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "4815820d9e928f02a5c3a3ea89d96924be46a775588ff762e6a5f447c46e9048",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_51": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "3d3008389ec218fd771c15e658ac9c45a8d6e9f24f39987302698159d67ed836",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "6ff231e8891b962e2e6d9f85b841c8dce923bae5ee2a8fd56b0bcc0ee6639575",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "41e52cd5fbce9c6ba792e38d138b01745c9f1f5417d9f32b8017a7c4dee2cfac",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_52": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "55c0379646dae86b84fc2c70924f81d386627219e7f74819371c6026646a67ea",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": null,
+          "text_sha256": "31af6c6eb44e07e68b426d9c4576289ef467048683096c9928c447924c17be4f",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_53": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "6f0fbb7cddc06e45f342c22d2ef4c965b3e1c5fb8c5ecbcaaa966213bb691397",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "3839b939a1af8a66dd43661a47fe5ae852d9c46bb92b70b91fb82e9b09dd6d1d",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_54": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "9fa2736f8859378ac679d7e76e8e55ee68f1c9f80d0070cab48fec5cbe12ca2e",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "d9d880346e94a521daa97536365fd5c066a86ac9f792ea100408f66efc2abd30",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_55": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "367ca15da87fc4aa5485ea90052a08c79010db3c546eaae1efdb8d9780bcb906",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "6c9904e7a0de3dd2c0c83239184668cc93522c5f65c7e3551c02c41c03b434dc",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_56": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "162b91c499185db49e0c3fbd1125b1de1bbd4c9ed46fccf92484c1420a29fb04",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "c53f67695140f1dbce7ab34bea870fecce130b1566146c0bcf9c6a311eed7b6f",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_57": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "62eedb9361e3b1aa190f002334a35896a323b095df5b9c58cfd9a6f832cecb14",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "864adb3f4b666d9484aba42874e711137b8afa4d6bef87b5fa03e0072ad253bf",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "197e6f26ef609d8b3000c6963d11c6135b2de44b02d1c18ad9c21c74a3b253e8",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "a10ff61d603844431b9c0cc80cf21cf4ffec416794451d43793e3af7cbd3c82c",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "5dcf6beed23dc14bc503ba8e9c95f9687717cc2d3280c11cb479d1a75da73e2d",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "5276d988d7c8c64fe35b739717caa1d9f57eaade3e704a8ae5406001f7799a5e",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "20257be03e5cf132bd74223908965f97885866ff8d4d09cdd5aabef885ee7fbd",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "4278820242aa62db261f409407b28e93c58035985cbb31ecb884f5a4accc3bfb",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_7-2": [
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "2f55dae0a06b596862b93f5216d851a3ad458c180a282f15cf52285d381c3863",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "b4671d30cb37c049b11834fc4c1ad5ab6ce53e555ce040e51a33803a93425b1b",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "c320f2ae28d07039482e268dc68fc586a3f28915eaee2b4758be502d499a0c2b",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "9a4bc1478f18c98d8edbdec65ed04ff0958f5a4c187c401b041af44ef9fbe766",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2005-05-08",
+          "valid_to": "2011-07-20",
+          "text_sha256": "59433815ca0a9fe2c8a37ebcd80d5e08fb6401789168b98ffd2d734acd858904",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2005-05-08"
+        },
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": "2025-11-28",
+          "text_sha256": "cf8f850e5898281ced582c1d3d7f3892dafddfc1f2d9d88e58e5793e3a15711c",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        },
+        {
+          "valid_from": "2025-11-29",
+          "valid_to": null,
+          "text_sha256": "e9019d5dc7ac8e92d5794e7de899360e9595fa38938dbf4bb9cb090d70f60413",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+        }
+      ],
+      "attachment_1": [
+        {
+          "valid_from": "2011-07-21",
+          "valid_to": null,
+          "text_sha256": "55449187aa23f554f9de99ab67af24b9a18ea039179bf8e6752137ae6a37d3ff",
+          "in_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": [
+      {
+        "type": "inserted",
+        "anchor": "art_20bis",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_27",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7-2",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+      },
+      {
+        "type": "inserted",
+        "anchor": "attachment_1",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2011-07-21"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_20",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_20bis",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_21",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_29",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_48",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_49",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_53",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_54",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_55",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_56",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_57",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_7-2",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_24bis",
+        "at_version": "lu-legilux:loi-1992-08-10-n1:2025-11-29"
+      }
+    ]
+  }
 }

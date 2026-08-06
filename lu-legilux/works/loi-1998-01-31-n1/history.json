@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_10": [
       {
@@ -115,5 +116,121 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_10": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "4560dfded74120133d97591c0424693260155965eec3629682ee465526d636ca",
+          "in_version": "lu-legilux:loi-1998-01-31-n1:2023-08-22",
+          "article_valid_from": "1998-02-21",
+          "validity_conflict": true
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "0960a9917eb909cf674ddedcc868f99fb24599578138266fb37a8ef6fc05e853",
+          "in_version": "lu-legilux:loi-1998-01-31-n1:2023-08-22",
+          "article_valid_from": "1998-02-21",
+          "validity_conflict": true
+        }
+      ],
+      "art_1er": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "9f0377030651c2d1163b93442f3cc39a5572b4fdb58d21f8dc6460590c9978a5",
+          "in_version": "lu-legilux:loi-1998-01-31-n1:2023-08-22",
+          "article_valid_from": "1998-02-21",
+          "validity_conflict": true
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "09da51d45ff57f378923f5b94f37f88aa4796005c75c33eb53aa8bf5dac866c0",
+          "in_version": "lu-legilux:loi-1998-01-31-n1:2023-08-22",
+          "article_valid_from": "1998-02-21",
+          "validity_conflict": true
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "3f24e23cc98dd7771cf77ee14dc943187cc814d53eaf1b81b9d8204857353a05",
+          "in_version": "lu-legilux:loi-1998-01-31-n1:2023-08-22",
+          "article_valid_from": "2023-08-22"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "7a65d8dcac620beac8fe70b9625098bb1a2206495123a7797cfb505f179d11c3",
+          "in_version": "lu-legilux:loi-1998-01-31-n1:2023-08-22",
+          "article_valid_from": "1998-02-21",
+          "validity_conflict": true
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "45af6f41c05b7ebd0daf33e2586aaa0769cff7b2c785abb5782fe23eae937aef",
+          "in_version": "lu-legilux:loi-1998-01-31-n1:2023-08-22",
+          "article_valid_from": "1998-02-21",
+          "validity_conflict": true
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "b7dd29278ded11f7e2270bba16602a1f9bb06bdc829806c7d0be6d927c0d25ce",
+          "in_version": "lu-legilux:loi-1998-01-31-n1:2023-08-22",
+          "article_valid_from": "1998-02-21",
+          "validity_conflict": true
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "6816776e897219f19583fa3488a906d29f26e1e842dcaa3fc3cdb3e15620b081",
+          "in_version": "lu-legilux:loi-1998-01-31-n1:2023-08-22",
+          "article_valid_from": "1998-02-21",
+          "validity_conflict": true
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "248c1d77a3712feb4477d28c43f26b3a3cb1888e98289920a5054e7a53cb0600",
+          "in_version": "lu-legilux:loi-1998-01-31-n1:2023-08-22",
+          "article_valid_from": "1998-02-21",
+          "validity_conflict": true
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2023-08-22",
+          "valid_to": null,
+          "text_sha256": "d83648f2cb9594147c34486b8ad9c7f6d1c4f709807047af57d968dfc022ddbe",
+          "in_version": "lu-legilux:loi-1998-01-31-n1:2023-08-22",
+          "article_valid_from": "1998-02-21",
+          "validity_conflict": true
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

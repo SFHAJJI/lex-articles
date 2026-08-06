@@ -1,0 +1,521 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r3172:2024-11-29",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2024/3172 of 29\u00A0November 2024 laying down implementing technical standards for the application of Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2024-11-29",
+  "valid_to": "2026-04-15",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r3172/versions/2024-11-29/fr.xml",
+    "sha256": "61156cb3cc1620b53a0252065750ba9a58edd175d1fda7562841092ec75b3678",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R3172"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes établissements publient les informations visées à l’article 438, points a) à d), f) et g), et à l’article 447, points a) à g), du règlement (UE) no 575/2013, comme indiqué à la section 1 — «Informations à fournir sur la gestion des risques, les indicateurs prudentiels clés et les actifs pondérés en fonction des risques» de l’annexe I.",
+      "text_sha256": "c38fb02e9d0ade402423bd4d3fa152a37d08189e4fbddd47982490dd8d1562d5",
+      "md_span": {
+        "start": 716,
+        "end": 1073
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes établissements publient les informations visées à l’article 435 du règlement (UE) no 575/2013 comme indiqué à la section 2 — «Publication des objectifs et des politiques en matière de gestion des risques» de l’annexe I.",
+      "text_sha256": "d9417cccaaddbcefcc69349a63fa3beb89a7d0efabf294b5f94ec73a1ca45a52",
+      "md_span": {
+        "start": 1106,
+        "end": 1340
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLes établissements publient les informations visées à l’article 436, points b) à h), du règlement (UE) no 575/2013 comme indiqué à la section 3 — «Publication du champ d’application» de l’annexe I.",
+      "text_sha256": "d511b3ccd497ba7b5071da65ed96eb663d76590e48607363432bce6326a5a322",
+      "md_span": {
+        "start": 1373,
+        "end": 1581
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes établissements publient les informations visées à l’article 437, points a) à f), du règlement (UE) no 575/2013 comme indiqué à la section 4 — «Publication d’informations sur les fonds propres» de l’annexe I.",
+      "text_sha256": "80cc7a5fff12562c2c7a5c44a74605cf57d1b4084e2438305dbe9b70d82c18dc",
+      "md_span": {
+        "start": 1614,
+        "end": 1836
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLes établissements publient les informations visées à l’article 440, points a) et b), du règlement (UE) no 575/2013 comme indiqué à la section 5 — «Publication d’informations sur le coussin de fonds propres contracyclique» de l’annexe I.",
+      "text_sha256": "b90a5c26fac90249d273f8deaa8a6a89b51b1f46082fd58882294afcc27bc30c",
+      "md_span": {
+        "start": 1869,
+        "end": 2117
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLes établissements publient les informations visées à l’article 451, paragraphe 1, points a) à e), et à l’article 451, paragraphes 2 et 3, du règlement (UE) no 575/2013 comme indiqué à la section 6 — «Publication d’informations sur le ratio de levier» de l’annexe I.",
+      "text_sha256": "56aedae6541fe9a5842b5a2223af109c24da59a89f6103bcb5699d1d1c129d66",
+      "md_span": {
+        "start": 2150,
+        "end": 2427
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Les établissements d’importance systémique mondiale (EISm) publient les informations relatives aux valeurs des indicateurs utilisés pour déterminer leur score visés par l’article 441 du règlement (UE) no 575/2013 en respectant le format de publication uniforme prévu par l’article 434 bis dudit règlement. Les EISm utilisent ce format de publication, que les autorités concernées utilisent pour collecter ces valeurs d’indicateurs conformément à l’article 3, paragraphe 2, du règlement délégué (UE) no 1222/2014 de la Commission (10), à l’exception des données auxiliaires et éléments pour mémoire collectés conformément à l’article 3, paragraphe 2, dudit règlement délégué.\n\n2. Les EISm publient les informations visées au paragraphe 1 dans leur rapport de fin d’exercice au titre du troisième pilier. Les EISm republient les informations visées au paragraphe 1 dans leur premier rapport au titre du troisième pilier qui suit la communication finale des valeurs des indicateurs aux autorités compétentes concernées, si les chiffres communiqués diffèrent des chiffres publiés dans le rapport de fin d’exercice au titre du troisième pilier.",
+      "text_sha256": "80ebc1ba6dd8bb37d8812d3ac70aa7ed4bd00d4ad0c75079f69ba6a03afe7c42",
+      "md_span": {
+        "start": 2460,
+        "end": 3613
+      },
+      "citations": [
+        {
+          "href": "#ntr10-L_202403172FR.000101-E0010",
+          "text": "(10)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nLes établissements publient les informations visées à l’article 435, paragraphe 1, et à l’article 451 bis, paragraphes 2, 3 et 4, du règlement (UE) no 575/2013 comme indiqué à la section 7 — «Publication d’informations sur les exigences de liquidité» de l’annexe I.",
+      "text_sha256": "dcaa0933199bf69534d43fc174bba93d096b60f31b31ee1cb98bf03137851f41",
+      "md_span": {
+        "start": 3646,
+        "end": 3922
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Les établissements publient les informations visées à l’article 435, paragraphe 1, points a), b), d) et f), et à l’article 442 du règlement (UE) no 575/2013 comme indiqué à la section 8 — «Publication d’informations sur la qualité de crédit» de l’annexe I.\n\n2. Les établissements de grande taille dont le ratio entre la valeur comptable brute des prêts et avances relevant de l’article 47 bis, paragraphe 3, du règlement (UE) no 575/2013 et la valeur comptable brute totale des prêts et avances relevant de l’article 47 bis, paragraphe 1, dudit règlement est égal ou supérieur à 5 % publient, outre les informations visées au paragraphe 1, les informations supplémentaires nécessaires pour se conformer à l’article 442, points c) et f), dudit règlement. Ils publient ces informations sur une base annuelle.\n\n3. Aux fins du paragraphe 2, les établissements excluent aussi bien du numérateur que du dénominateur du ratio les prêts et avances classés comme détenus en vue de la vente, les comptes à vue auprès de banques centrales et les autres dépôts à vue.\n\n4. Les établissements commencent à publier leurs informations conformément au paragraphe 2 lorsqu’ils ont atteint ou dépassé le seuil de 5 % visé audit paragraphe pendant deux trimestres consécutifs au cours des quatre trimestres précédant la date de référence de la publication. Pour la date de référence de la première publication, les établissements publient les informations concernées au moyen des modèles visés audit paragraphe lorsqu’ils dépassent le seuil de 5 % à cette date de référence de la publication.\n\n5. Les établissements ne sont plus tenus de publier des informations conformément au paragraphe 2 s’ils sont passés sous le seuil de 5 % pendant trois trimestres consécutifs au cours des quatre trimestres précédant la date de référence de la publication.",
+      "text_sha256": "b95de47b93f8a7e8202fc53bdb9fcc382cedfd146b4bfa4f8d79f17f9c62ec44",
+      "md_span": {
+        "start": 3955,
+        "end": 5797
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nLes établissements publient les informations visées à l’article 453, points a) à f), du règlement (UE) no 575/2013 comme indiqué à la section 9 — «Publication d’informations sur les techniques d’atténuation du risque de crédit» de l’annexe I.",
+      "text_sha256": "4ae127f1f00936928f3cc6b5c91de95ed0ce523862c3a2ec7a3f24022001a600",
+      "md_span": {
+        "start": 5832,
+        "end": 6086
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nLes établissements qui calculent leurs montants d’exposition pondérés selon l’approche standard publient les informations suivantes sur l’utilisation de l’approche standard:\n\n| a) | les informations visées à l’article 444, points a) à e), et à l’article 453, points g), h) et i), du règlement (UE) no 575/2013 comme indiqué à la section 10 — «Publication d’informations sur le risque de crédit selon l’approche standard» de l’annexe I; |\n| --- | --- |\n\n| b) | les informations visées à l’article 444, point e), du règlement (UE) no 575/2013 comme indiqué à la section 4 — «Publication d’informations sur les fonds propres» de l’annexe I. |\n| --- | --- |",
+      "text_sha256": "92889460e6e352d68a1267cbaeca1089207b156d609e60b2fca307dbba5574aa",
+      "md_span": {
+        "start": 6121,
+        "end": 6786
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nLes établissements qui calculent leurs montants d’exposition pondérés selon l’approche NI publient les informations visées à l’article 438, point h), à l’article 452, points a) à h), et à l’article 453, points g) et j), du règlement (UE) no 575/2013 comme indiqué à la section 11 — «Publication d’informations sur le risque de crédit selon l’approche NI» de l’annexe I.",
+      "text_sha256": "5787ebef8743aeb564a914453650e08f29af3d69ba97a390cf0c3b9bf5972910",
+      "md_span": {
+        "start": 6821,
+        "end": 7202
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nLes établissements publient les informations visées à l’article 438, point e), du règlement (UE) no 575/2013 comme indiqué à la section 12 — «Publication d’informations sur les expositions de financement spécialisé et les expositions sous forme d’actions» de l’annexe I.",
+      "text_sha256": "62fc8dce3a690e9de26a5813042e5f08956ccad5e515d21b6c77673073163c61",
+      "md_span": {
+        "start": 7237,
+        "end": 7519
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nLes établissements publient les informations visées à l’article 438, point h), et à l’article 439 du règlement (UE) no 575/2013 comme indiqué à la section 13 — «Publication d’informations sur les expositions au risque de crédit de contrepartie» de l’annexe I.",
+      "text_sha256": "86ff408d2a0fbe327a82c55c4d76dd9555c37eb22a938040e678709c5cc7d300",
+      "md_span": {
+        "start": 7554,
+        "end": 7825
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\nLes établissements publient les informations visées à l’article 449 du règlement (UE) no 575/2013 comme indiqué à la section 14 — «Publication d’informations sur les expositions à des positions de titrisation» de l’annexe I.",
+      "text_sha256": "387de837a6d8e8109e2229e347546c76c7097dfc3deb6cf4cfa525ad192d31ef",
+      "md_span": {
+        "start": 7860,
+        "end": 8096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Les établissements publient les informations visées à l’article 435, paragraphe 1, points a) à d), à l’article 438, à l’article 445, paragraphes 1 et 2, à l’article 455, paragraphe 1, points a) à f), et à l’article 455, paragraphes 2 et 3, du règlement (UE) no 575/2013 comme indiqué à la section 15 — «Publication d’informations sur le risque de marché» de l’annexe I.\n\n2. Jusqu’au 31 décembre 2025, les établissements publient ces informations conformément à l’article 15 du règlement d’exécution (UE) 2021/637 de la Commission (11).\n\n3. À la première date d’application de l’utilisation des autres approches visées à l’article 325 terquinquagies du règlement (UE) no 575/2013, les établissements qui utilisent l’approche alternative fondée sur les modèles internes pour risque de marché publient les informations qualitatives visées à l’article 455, paragraphe 1, points a) à f), du règlement (UE) no 575/2013, ainsi que les informations quantitatives visées à l’article 455, paragraphe 2, dudit règlement.",
+      "text_sha256": "7c91756a891503ff51494ec3bb24707e7e57f2bf4f6e49f6236c31b05609073b",
+      "md_span": {
+        "start": 8131,
+        "end": 9155
+      },
+      "citations": [
+        {
+          "href": "#ntr11-L_202403172FR.000101-E0011",
+          "text": "(11)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nLes établissements publient les informations visées à l’article 438, points d) et h), à l’article 439, point h), et à l’article 445 bis du règlement (UE) no 575/2013 comme indiqué à la section 16 — «Publication d’informations sur l’ajustement de l’évaluation de crédit» de l’annexe I.",
+      "text_sha256": "3bb3256fe046741ad56f08797d84b0265dafd43cbef6b22176107d906c0246e6",
+      "md_span": {
+        "start": 9190,
+        "end": 9486
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\nLes établissements publient les informations visées à l’article 435, à l’article 438, point d), et à l’article 446 du règlement (UE) no 575/2013 comme indiqué à la section 17 — «Publication d’informations sur le risque opérationnel» de l’annexe I.",
+      "text_sha256": "43455bf45e1b725b94bffe86d408735746eb3a84eff219b6dc9a6e40f4e59596",
+      "md_span": {
+        "start": 9521,
+        "end": 9780
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Les établissements publient les informations visées à l’article 448, paragraphe 1, points a) à g), du règlement (UE) no 575/2013 comme indiqué à la section 18 — «Publication d’informations sur le risque de taux d’intérêt des activités hors portefeuille de négociation» de l’annexe I.\n\n2. Les établissements qui publient des informations conformément au paragraphe 1 pour la première fois ne sont pas tenus de publier ces informations pour la date de référence précédente.",
+      "text_sha256": "81de2b7520735a04d11ecb56250cb86bc9448baf995a51c9d670bf0ed70b459c",
+      "md_span": {
+        "start": 9815,
+        "end": 10301
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\nLes établissements publient les informations visées à l’article 450 du règlement (UE) no 575/2013 comme indiqué à la section 19 — «Publication d’informations sur la politique de rémunération» de l’annexe I.",
+      "text_sha256": "0a3c111c9c959aa4ee85e35f25034fd10a39291ec9cf2a656793157eabdbfb90",
+      "md_span": {
+        "start": 10336,
+        "end": 10554
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\nLes établissements publient les informations visées à l’article 443 du règlement (UE) no 575/2013 comme indiqué à la section 20 — «Publication d’informations sur les actifs grevés et les actifs non grevés» de l’annexe I.",
+      "text_sha256": "1ac190eb3f845a1ff07e596696992a63a6d3dc0df1186e8273869b575f62c8e9",
+      "md_span": {
+        "start": 10589,
+        "end": 10821
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. Les établissements publient les informations visées à l’article 449 bis du règlement (UE) no 575/2013 comme indiqué à la section 21 — «Publication d’informations sur les risques ESG» de l’annexe I. Ces informations incluent au moins:\n\n| a) | des informations qualitatives sur les risques environnementaux, sociaux et de gouvernance; |\n| --- | --- |\n\n| b) | des informations quantitatives sur le risque de transition lié au changement climatique; |\n| --- | --- |\n\n| c) | des informations quantitatives sur les risques physiques liés au changement climatique; |\n| --- | --- |\n\n| d) | des informations quantitatives sur les mesures d’atténuation liées à des activités économiques pouvant être considérées comme durables sur le plan environnemental, au sens de l’article 3 du règlement (UE) 2020/852, qui sont prises à l’égard de contreparties relevant de l’article 19 bis ou de l’article 29 bis de la directive 2013/34/UE, à l’égard des ménages et à l’égard des administrations locales visées à l’annexe V, partie 1, point 42, b), du règlement d’exécution (UE) 2021/451 de la Commission (12); |\n| --- | --- |\n\n| e) | des informations quantitatives sur les autres mesures d’atténuation, et sur les expositions à des risques liés au changement climatique, associées à des activités économiques qui ne peuvent pas être considérées comme durables sur le plan environnemental au sens de l’article 3 du règlement (UE) 2020/852, mais qui soutiennent les contreparties dans leur processus de transition ou d’adaptation aux objectifs d’atténuation du changement climatique et d’adaptation à celui-ci. |\n| --- | --- |\n\n2. Les établissements peuvent choisir de publier des informations quantitatives sur des mesures d’atténuation, et sur des expositions à des risques liés au changement climatique, associées à des activités économiques qui peuvent être considérées comme durables sur le plan environnemental au sens de l’article 3 du règlement (UE) 2020/852, à l’égard de contreparties qui sont des sociétés non financières et qui ne pas sont soumises aux obligations de publication prévues à l’article 19 bis ou à l’article 29 bis de la directive 2013/34/UE ni aux obligations de publication prévues par le règlement d’exécution (UE) 2021/2178 de la Commission (13).\n\nPour le calcul du pourcentage d’expositions, à l’égard de telles contreparties, sur des activités satisfaisant aux exigences prévues à l’article 3 du règlement (UE) 2020/852 (expositions alignées sur la taxinomie), les établissements peuvent:\n\n| a) | lorsque ces informations sont disponibles, utiliser les informations fournies par leurs contreparties sur une base volontaire et bilatérale dans le cadre de l’octroi du prêt et des processus réguliers d’examen et de suivi du crédit; |\n| --- | --- |\n\n| b) | lorsque la contrepartie n’est pas en mesure de fournir les informations concernées sur une base bilatérale ou n’y est pas disposée, utiliser des estimations et des approximations internes et expliquer, dans les explications qu’ils joignent au modèle, dans quelle mesure ils ont recouru à des estimations et approximations internes, et quelles estimations et approximations internes ont été appliquées; |\n| --- | --- |\n\n| c) | lorsqu’ils ne sont pas en mesure de collecter les informations concernées sur une base bilatérale, ni d’utiliser des estimations et des approximations internes, ou lorsqu’ils ne sont pas en mesure de collecter ces informations ou d’utiliser de telles estimations et approximations d’une manière qui ne représenterait pas une charge excessive pour eux-mêmes ou leurs contreparties, expliquer cette incapacité dans les explications qu’ils joignent au modèle. |\n| --- | --- |\n\nAux fins du point a), les établissements informent leurs contreparties que la fourniture de ces informations s’effectue sur une base volontaire.",
+      "text_sha256": "cd124f7ca873e0e824a650a4973b44753c22acee30c0072a65c906f90af4ba25",
+      "md_span": {
+        "start": 10856,
+        "end": 14679
+      },
+      "citations": [
+        {
+          "href": "#ntr12-L_202403172FR.000101-E0012",
+          "text": "(12)"
+        },
+        {
+          "href": "#ntr13-L_202403172FR.000101-E0013",
+          "text": "(13)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\nLes établissements publient les informations nécessaires au calcul des exigences de fonds propres correspondant à leurs expositions sur des crypto-actifs conformément à l’article 501 quinquies, paragraphe 2, du règlement (UE) no 575/2013, comme indiqué à la section 22 — «Publication d’informations sur les expositions sur crypto-actifs» de l’annexe I.",
+      "text_sha256": "174c620adbfc132e7995f7014b12dd2ea2fe5638a03bed663ae6d0cc2a64fe2e",
+      "md_span": {
+        "start": 14714,
+        "end": 15078
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nL’ABE veille à ce que les solutions informatiques, instructions comprises, mises au point pour les publications d’informations requises par les titres II et III du règlement (UE) no 575/2013 respectent à tout moment les formats uniformes de publication prévus par le présent règlement et incluent tous les points de données et toutes les informations énumérés dans les modèles de publication d’informations.\n\nL’ABE met à disposition sur son site web les solutions informatiques visées au premier alinéa et toute instruction y afférente. L’ABE tient à jour ces solutions informatiques et ces instructions et les met à disposition dans toutes les langues officielles.",
+      "text_sha256": "9967d85bf4824c6b6a6a29f1cb3cd8b3add5af86dc1df551caf5b82b7ea196d2",
+      "md_span": {
+        "start": 15113,
+        "end": 15790
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\n1. La numérotation des lignes ou des colonnes, dans les formats de publication uniformes visés à l’annexe I qui sont inclus dans les solutions informatiques mises au point par l’ABE, n’est pas modifiée lorsqu’un établissement omet une ou plusieurs informations en vertu de l’article 432 du règlement (UE) no 575/2013.\n\n2. Les établissements indiquent clairement, dans les explications jointes au modèle ou au tableau fondé sur la solution informatique concerné, quelles lignes ou colonnes ils n’ont pas remplies, et indiquent la raison de cette omission.\n\n3. Les informations requises par l’article 431 du règlement (UE) no 575/2013 sont claires et complètes, de manière à permettre à leurs utilisateurs de comprendre les publications quantitatives, et sont placées à côté des modèles auxquels elles se rapportent.\n\n4. Les valeurs numériques sont présentées comme suit:\n\n| a) | les données monétaires quantitatives sont publiées avec une précision minimale correspondant au million d’unités; |\n| --- | --- |\n\n| b) | les données quantitatives publiées en «pourcentage» sont exprimées avec une précision minimale de quatre décimales. |\n| --- | --- |\n\n5. Les établissements fournissent aussi les informations suivantes:\n\n| a) | la date de référence et la période de référence de la publication; |\n| --- | --- |\n\n| b) | la monnaie de déclaration; |\n| --- | --- |\n\n| c) | le nom et, le cas échéant, l’identifiant d’entité juridique (LEI) de l’établissement qui publie les informations; |\n| --- | --- |\n\n| d) | le cas échéant, la norme comptable utilisée; |\n| --- | --- |\n\n| e) | le cas échéant, le périmètre de consolidation. |\n| --- | --- |",
+      "text_sha256": "4fcb2e73b89ea726ca7efa3a564d129da73fc871518882d0c5e570725ec589e1",
+      "md_span": {
+        "start": 15825,
+        "end": 17473
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\n1. Les périodes de publication sont définies comme les périodes trimestrielles T, T-1, T-2, T-3 et T-4.\n\n2. Les lignes ou les colonnes, dans les formats de publication uniformes visés à l’annexe I qui sont inclus dans les solutions informatiques mises au point par l’ABE, sont remplies selon la fréquence de publication prévue aux articles 433 bis, 433 ter et 433 quater du règlement (UE) no 575/2013.\n\n3. Les établissements soumis à l’obligation de publier des informations les publient à la fréquence suivante:\n\n| a) | les établissements publiant les informations visées à l’annexe I sur une base trimestrielle fournissent des données pour les périodes T, T-1, T-2, T-3 et T-4; |\n| --- | --- |\n\n| b) | les établissements publiant les informations visées à l’annexe I sur une base semestrielle fournissent des données pour les périodes T, T-2 et T-4; |\n| --- | --- |\n\n| c) | les établissements publiant les informations visées à l’annexe I sur une base annuelle fournissent des données pour les périodes T et T-4. |\n| --- | --- |\n\n4. Les établissements indiquent les dates correspondant aux périodes de publication.\n\n5. La publication de données relatives à des périodes antérieures n’est pas requise lorsque les données sont publiées pour la première fois.",
+      "text_sha256": "a02f7e58f83637a9a876487ec99660eead04cc69abe530dededed52c8ce2a0d3",
+      "md_span": {
+        "start": 17508,
+        "end": 18778
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_27",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 27\n\n1. Le règlement d’exécution (UE) 2021/637 cesse de s’appliquer à partir du 1er janvier 2025, à l’exception de l’article 15 et des annexes XXIX et XXX. L’article 15 et les annexes XXIX et XXX du règlement d’exécution (UE) 2021/637 continuent de s’appliquer jusqu’au 31 décembre 2025 aux seules fins de l’article 16 du présent règlement.\n\n2. Le règlement d’exécution (UE) 2021/637 est abrogé avec effet au 31 décembre 2025.\n\n3. Les références au règlement abrogé s’entendent comme des références au présent règlement et sont à lire selon le tableau de correspondance figurant à l’annexe II.",
+      "text_sha256": "7b3598a74b42c86ab34a6faa3392b63ffe663c7b549fd0380d58578f393d7465",
+      "md_span": {
+        "start": 18813,
+        "end": 19413
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32024r3172:2024-11-29#art_28",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 28\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 1er janvier 2025.",
+      "text_sha256": "469164bf77016f7ebdfee6262c643914436444b3c3f0a5df7d719bcd3969f244",
+      "md_span": {
+        "start": 19448,
+        "end": 19639
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

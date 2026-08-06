@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0526:2014-03-12",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) No 526/2014 of 12 March 2014 supplementing Regulation (EU) No 575/2013",
+  "valid_from": "2014-03-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0526/versions/2014-03-12/en.xml",
+    "sha256": "d11c4cdad936317d7d88b4005d1bf7d8340374cc4bd416c2230b70c84e1874d3",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014R0526"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0526:2014-03-12#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. The proxy spread for a given counterparty shall be deemed appropriate having regard to the rating, industry and region of the counterparty according to the fourth subparagraph of Article 383(1) of Regulation (EU) No 575/2013, where the following conditions are satisfied:\n\n| (a) | the proxy spread has been determined by considering all of the attributes of rating, industry and region of the counterparty as specified in points (b), (c) and (d); |\n| --- | --- |\n\n| (b) | the attribute of rating has been determined by considering the use of a predetermined hierarchy of sources of internal and external ratings. Ratings shall be mapped to credit quality steps, as referred to in Article 384(2) of Regulation (EU) No 575/2013. In cases where multiple external ratings are available their mapping to credit quality steps shall follow the approach for multiple credit assessments set out in Article 138 of that Regulation; |\n| --- | --- |\n\n| (c) | the attribute of industry has been determined by considering at least the following categories:(i)public sector;(ii)financial sector;(iii)others; |\n| --- | --- |\n| (i) | public sector; |\n| (ii) | financial sector; |\n| (iii) | others; |\n\n| (d) | the attribute of region has been determined by considering at least the following categories:(i)Europe;(ii)North America;(iii)Asia;(iv)rest of the world; |\n| --- | --- |\n| (i) | Europe; |\n| (ii) | North America; |\n| (iii) | Asia; |\n| (iv) | rest of the world; |\n\n| (e) | the proxy spread reflects in a representative way available credit default swap spreads and spreads of other liquid traded credit risk instruments, corresponding to the relevant combination of applicable categories and satisfying the data quality criteria referred to in paragraph 3; |\n| --- | --- |\n\n| (f) | the appropriateness of the proxy spread is determined with reference to the volatility rather than to the level of the spread. |\n| --- | --- |\n\n2. In the process of considering the attributes of rating, industry and region of the counterparty in accordance with paragraph 1, the estimation of the proxy spread shall be deemed appropriate for a regional government or local authority based on the credit spread of the relevant sovereign issuer where either of the following conditions are met:\n\n| (a) | the regional government or local authority and the sovereign have the same ratings; |\n| --- | --- |\n\n| (b) | there is no rating for the regional government or local authority. |\n| --- | --- |\n\n3. All inputs used in the determination of a proxy spread shall be based on reliable data observed on a liquid two-way market as defined in second subparagraph of Article 338(1) of Regulation (EU) No 575/2013. Sufficient data shall be available to generate proxy spreads for all relevant tenors and for the historical periods referred to in Article 383(5) of that Regulation.",
+      "text_sha256": "f2bb76cb0b581facc6c4c5020bdfdde23da3e6e17d4db7dcc971f066faf9afc8",
+      "md_span": {
+        "start": 652,
+        "end": 3507
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0526:2014-03-12#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nIn order to identify the loss given default of the counterparty (LGDMKT) for the purposes of calculating the own funds requirements for CVA risk according to the advanced method for a counterparty requiring the use of a proxy spread, institutions shall use a value for LGDMKT that is consistent with the fixed LGDs commonly used by market participants for determining implied PDs from those market spreads that have been used to determine the proxy spread for the counterparty in question in accordance with Article 1.",
+      "text_sha256": "ed89ab8d0234132fe6eb0543da41cf9a252a6cf8eb6a49fef09c7489e894e4e5",
+      "md_span": {
+        "start": 3540,
+        "end": 4069
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0526:2014-03-12#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. To fulfil the criterion of a limited number of smaller portfolios referred to in Article 383(4) of Regulation (EU) No 575/2013, all of the following conditions shall be satisfied:\n\n| (a) | the number of all non-IMM transactions subject to the CVA risk charge shall not exceed 15 % of the total number of transactions subject to the CVA risk charge; |\n| --- | --- |\n\n| (b) | the size of each individual non-IMM netting set subject to the CVA risk charge shall not exceed 1 % of the total size of all netting sets subject to the CVA risk charge; |\n| --- | --- |\n\n| (c) | the total size of all non-IMM netting sets subject to the CVA risk charge shall not exceed 10 % of the total size of all netting sets subject to the CVA risk charge. |\n| --- | --- |\n\n2. For the purpose of points (b) and (c) of paragraph 1, the size of a netting set shall be the exposure at default of the netting set calculated using the mark-to-market method referred to in Article 274 of Regulation (EU) No 575/2013 by taking account of the effects of netting, in accordance with Article 298 of that Regulation, but not the effects of collateral.\n\n3. For the purpose of paragraph 1, an institution shall calculate, for each quarter, the arithmetical average of at least monthly observations of the ratios of the following:\n\n| (a) | the number of non-IMM transactions to the total number of transactions; |\n| --- | --- |\n\n| (b) | the individual size of the largest non-IMM netting set to the total size of all netting sets; and |\n| --- | --- |\n\n| (c) | the total size of all non-IMM netting sets to the total size of all netting sets. |\n| --- | --- |\n\n4. Where the criterion specified in paragraph 1 is not fulfilled for two consecutive calculations referred to in paragraph 3, an institution shall use the standardised method set out in Article 384 of Regulation (EU) No 575/2013 to calculate the own funds requirements for CVA risk for all of the non-IMM netting sets and notify the competent authorities.\n\n5. The conditions set out in paragraph 1 shall be applied on an individual, a sub-consolidated or a consolidated basis, depending on the scope of the permission to use the internal model method referred to in Article 283 of Regulation (EU) No 575/2013.",
+      "text_sha256": "7600b74dffc8928abf32c934b7357963e416dc606884ff610ebb3a22694bacd7",
+      "md_span": {
+        "start": 4102,
+        "end": 6348
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r0526:2014-03-12#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "f1210d7228d77725f259aa651dc506006305a87339f5e2bf3beed00043435b8e",
+      "md_span": {
+        "start": 6381,
+        "end": 6532
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

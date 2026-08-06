@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r1556:2015-06-11",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2015/1556 of 11 June 2015 supplementing Regulation (EU) No 575/2013",
+  "valid_from": "2015-06-11",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r1556/versions/2015-06-11/fr.xml",
+    "sha256": "97c8b856ef8cd6f3908f3bd5cf4410110bb97ac9eab48aece93b3643db6ef95a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32015R1556"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r1556:2015-06-11#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes autorités compétentes peuvent accorder aux établissements et aux filiales d'établissements dans l'Union l'exemption du traitement NI prévue à l'article 495, paragraphe 1, du règlement (UE) no 575/2013, uniquement pour les catégories de leurs expositions sur actions qui bénéficiaient déjà d'une telle exemption au 31 décembre 2013.",
+      "text_sha256": "ace3a488e5ba4785fdf89116fcfd5c4ac8a5213d5028553ee88e5f9d1dccb548",
+      "md_span": {
+        "start": 649,
+        "end": 1001
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r1556:2015-06-11#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "91deaebb4a04a055d8a9d5823aaced733082a23d8dadda698fa9f22d4847d8e8",
+      "md_span": {
+        "start": 1034,
+        "end": 1175
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0576:2016-06-08",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/576 of 8 June 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2016-06-08",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0576/versions/2016-06-08/fr.xml",
+    "sha256": "f6d3269d4c3f969ff8616f0b423fc652da44fbb2927e626988429dc115e7f24d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R0576"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0576:2016-06-08#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe présent règlement établit des règles concernant le contenu et le format des informations que les entreprises d'investissement doivent publier une fois par an au sujet des ordres de clients exécutés sur des plates-formes de négociation ou auprès d'internalisateurs systématiques, de teneurs de marché ou d'autres fournisseurs de liquidités, ou d'entités remplissant des fonctions analogues dans un pays tiers.",
+      "text_sha256": "0f4bd86d04693e241b8bc8eded6720542ceef7cef494d63431d8b42affe56302",
+      "md_span": {
+        "start": 640,
+        "end": 1068
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0576:2016-06-08#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins du présent règlement, on entend par:\n\n| a) | «ordre passif», un ordre, inscrit dans le carnet d'ordres, qui a apporté de la liquidité; |\n| --- | --- |\n\n| b) | «ordre agressif», un ordre, inscrit dans le carnet d'ordres, qui a absorbé de la liquidité; |\n| --- | --- |\n\n| c) | «ordre dirigé» (directed order), un ordre pour lequel le client a spécifié par avance la plate-forme d'exécution. |\n| --- | --- |",
+      "text_sha256": "f99b8a9bdb40cf5e38c2711378204fbaddb5ccd100bc5389e6e49dbd656b9e2a",
+      "md_span": {
+        "start": 1101,
+        "end": 1525
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0576:2016-06-08#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Les entreprises d'investissement publient l'identité des cinq premières plates-formes d'exécution en termes de volumes de négociation sur lesquelles elles ont exécuté les ordres de leurs clients, et ce pour chaque catégorie d'instruments financiers visée à l'annexe I. Les informations relatives aux clients de détail sont publiées suivant le format décrit dans le tableau 1 de l'annexe II et celles concernant les clients professionnels, suivant le format décrit dans le tableau 2 de cette même annexe. Cette publication ignore les opérations de financement sur titres et contient les informations suivantes:\n\n| a) | catégorie d'instruments financiers; |\n| --- | --- |\n\n| b) | nom et identifiant de la plate-forme d'exécution; |\n| --- | --- |\n\n| c) | volume d'ordres de clients exécutés sur cette plate-forme, exprimé en pourcentage du volume total d'ordres exécutés; |\n| --- | --- |\n\n| d) | nombre d'ordres de clients exécutés sur cette plate-forme, exprimé en pourcentage du nombre total d'ordres exécutés; |\n| --- | --- |\n\n| e) | pourcentage des ordres passifs et pourcentage des ordres agressifs parmi les ordres exécutés visés au point d); |\n| --- | --- |\n\n| f) | pourcentage des ordres dirigés (directed orders) parmi les ordres exécutés visés au point d); |\n| --- | --- |\n\n| g) | indication du fait que l'entreprise d'investissement a, ou non, exécuté en moyenne moins d'un ordre par jour ouvrable de l'année précédente dans cette catégorie d'instruments financiers. |\n| --- | --- |\n\n2. Les entreprises d'investissement publient l'identité des cinq premières plates-formes d'exécution en termes de volumes de négociation sur lesquelles elles ont exécuté les ordres de leurs clients concernant des opérations de financement sur titres, et ce pour chaque catégorie d'instruments financiers visée à l'annexe I, suivant le format décrit dans le tableau 3 de l'annexe II. Cette publication contient les informations suivantes:\n\n| a) | volume d'ordres de clients exécutés sur cette plate-forme, exprimé en pourcentage du volume total d'ordres exécutés; |\n| --- | --- |\n\n| b) | nombre d'ordres de clients exécutés sur cette plate-forme, exprimé en pourcentage du nombre total d'ordres exécutés; |\n| --- | --- |\n\n| c) | indication du fait que l'entreprise d'investissement a, ou non, exécuté en moyenne moins d'un ordre par jour ouvrable de l'année précédente dans cette catégorie d'instruments financiers. |\n| --- | --- |\n\n3. Les entreprises d'investissement publient, pour chaque catégorie d'instruments financiers, un résumé de l'analyse qu'elles font et des conclusions qu'elles tirent du suivi détaillé de la qualité d'exécution obtenue sur les plates-formes sur lesquelles elles ont exécuté tous les ordres de leurs clients durant l'année précédente. Ces informations comprennent notamment:\n\n| a) | une explication de l'importance relative que l'entreprise a accordée au prix, aux coûts, à la rapidité et à la probabilité de l'exécution ou à tout autre facteur, y compris qualitatif, dans son évaluation de la qualité de l'exécution; |\n| --- | --- |\n\n| b) | une description des éventuels liens étroits, conflits d'intérêts et participations communes avec une ou plusieurs des plates-formes utilisées pour exécuter les ordres; |\n| --- | --- |\n\n| c) | une description de tout accord particulier conclu avec des plates-formes d'exécution concernant les paiements effectués ou reçus, les rabais, remises ou avantages non monétaires obtenus; |\n| --- | --- |\n\n| d) | une explication, le cas échéant, des facteurs ayant conduit à modifier la liste des plates-formes d'exécution mentionnée dans la politique d'exécution de l'entreprise; |\n| --- | --- |\n\n| e) | une explication de la manière dont l'exécution des ordres varie selon la catégorie de clients, dans le cas où l'entreprise traite différemment diverses catégories de clients et où cela peut avoir une incidence sur les modalités d'exécution des ordres; |\n| --- | --- |\n\n| f) | une indication du fait que d'autres critères ont été ou non privilégiés par rapport au prix et aux coûts immédiats lors de l'exécution des ordres des clients de détail, et une explication de la manière dont ces autres critères ont été déterminants pour atteindre le meilleur résultat possible en termes de coût total pour le client; |\n| --- | --- |\n\n| g) | une explication de la manière dont l'entreprise d'investissement a utilisé le cas échéant des données ou des outils en rapport avec la qualité d'exécution, notamment des données publiées en vertu du règlement délégué (UE) 2017/575; |\n| --- | --- |\n\n| h) | s'il y a lieu, une explication de la manière dont l'entreprise d'investissement a utilisé des éléments provenant d'un fournisseur de système consolidé de publication conformément à l'article 65 de la directive 2014/65/UE. |\n| --- | --- |",
+      "text_sha256": "14c5f1431bbe95265e80a3d446599265b0b70332e6cbfe0a6cba8c0a64c3ea9a",
+      "md_span": {
+        "start": 1558,
+        "end": 6357
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0576:2016-06-08#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes entreprises d'investissement publient sur leur site internet les informations requises en vertu de l'article 3, paragraphe 1 et paragraphe 2, en utilisant les modèles figurant à l'annexe II, dans un format électronique lisible par machine et téléchargeable par le public; les informations requises en vertu de l'article 3, paragraphe 3, sont également publiées sur leur site internet dans un format électronique téléchargeable par le public.",
+      "text_sha256": "aa10070bc3774d27f8029ae319b3c68b4c833c7f942ecaee42df53109041eab0",
+      "md_span": {
+        "start": 6390,
+        "end": 6846
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0576:2016-06-08#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.\n\nIl s'applique à compter 3 janvier 2018.",
+      "text_sha256": "9176f351d5cadef30346776d062fb1f4a1c9ced4cdc239eaf56ecb6ba1598c6a",
+      "md_span": {
+        "start": 6879,
+        "end": 7061
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

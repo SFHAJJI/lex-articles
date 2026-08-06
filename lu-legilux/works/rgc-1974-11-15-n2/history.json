@@ -4,6 +4,7 @@
   "profiles": [
     "akn-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_10": [
       {
@@ -112,5 +113,118 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_10": [
+        {
+          "valid_from": "1977-12-01",
+          "valid_to": null,
+          "text_sha256": "27ed9ab48502686411850e067d8b32c5f96801731fe0fa8baae960001e015e20",
+          "in_version": "lu-legilux:rgc-1974-11-15-n2:1977-12-01",
+          "article_valid_from": "1974-12-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_1er": [
+        {
+          "valid_from": "1977-12-01",
+          "valid_to": null,
+          "text_sha256": "5b14145b0c206870879f6d4b1bb6068f47a39cdf67d9eedba2a4b652c9b66a8e",
+          "in_version": "lu-legilux:rgc-1974-11-15-n2:1977-12-01",
+          "article_valid_from": "1974-12-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "1977-12-01",
+          "valid_to": null,
+          "text_sha256": "c18f97dd110d46e8466427f9114e9b220f14ac18002930414342da71852b0d5a",
+          "in_version": "lu-legilux:rgc-1974-11-15-n2:1977-12-01",
+          "article_valid_from": "1974-12-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "1977-12-01",
+          "valid_to": null,
+          "text_sha256": "ea8df6b2478642676af14a845191c8a67368f0044b85b397231e88123253d110",
+          "in_version": "lu-legilux:rgc-1974-11-15-n2:1977-12-01",
+          "article_valid_from": "1977-12-01"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "1977-12-01",
+          "valid_to": "1982-03-31",
+          "text_sha256": "33619020d8faca05318aa49f4de61c6e24d781c246168e2d655aecba0acb9906",
+          "in_version": "lu-legilux:rgc-1974-11-15-n2:1977-12-01",
+          "article_valid_from": "1974-12-03",
+          "validity_conflict": true
+        },
+        {
+          "valid_from": "1982-04-01",
+          "valid_to": null,
+          "text_sha256": "d7779788743c234e08283c81ca63b0dade5a3772972f1b9e28fedf505caef506",
+          "in_version": "lu-legilux:rgc-1974-11-15-n2:1982-04-01",
+          "article_valid_from": "1982-04-01"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "1977-12-01",
+          "valid_to": null,
+          "text_sha256": "3ba80c58b04873ef7a60e8267c30e89dd4499c3398874d07ca5fe2c2626df241",
+          "in_version": "lu-legilux:rgc-1974-11-15-n2:1977-12-01",
+          "article_valid_from": "1974-12-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "1977-12-01",
+          "valid_to": null,
+          "text_sha256": "c4dd4f347c2c30146c6bcdb049688222350e2fc08e3289ea99945e7b8442fe91",
+          "in_version": "lu-legilux:rgc-1974-11-15-n2:1977-12-01",
+          "article_valid_from": "1974-12-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "1977-12-01",
+          "valid_to": null,
+          "text_sha256": "f1a039b2c57f2c6a93895ed23ca6c09b103ca1634c9432671e540e724232f218",
+          "in_version": "lu-legilux:rgc-1974-11-15-n2:1977-12-01",
+          "article_valid_from": "1974-12-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "1977-12-01",
+          "valid_to": null,
+          "text_sha256": "f4094dba3434e4f1f4435a4998f906d84e3694e8c123033a41353dd74ae11faf",
+          "in_version": "lu-legilux:rgc-1974-11-15-n2:1977-12-01",
+          "article_valid_from": "1974-12-03",
+          "validity_conflict": true
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "1977-12-01",
+          "valid_to": null,
+          "text_sha256": "4341df37df0217062498b86684c7169a52de244cc77ba5321d3f6e1992ae0b7b",
+          "in_version": "lu-legilux:rgc-1974-11-15-n2:1977-12-01",
+          "article_valid_from": "1974-12-03",
+          "validity_conflict": true
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

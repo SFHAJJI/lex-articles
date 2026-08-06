@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r1650:2022-03-24",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2022/1650 of 24\u00A0March 2022 amending the implementing technical standards laid down in Implementing Regulation (EU) 2016/1646 as regards the main indices and recognised exchanges in accordance with Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2022-03-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r1650/versions/2022-03-24/en.xml",
+    "sha256": "9d3c0ae5a6cd27a01027efedff75cd962aeb1fbd27e8f04315bad55480d2a78e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R1650"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r1650:2022-03-24#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nImplementing Regulation (EU) 2016/1646 is amended as follows:\n\n| (1) | Annex I to Implementing Regulation (EU) 2016/1646 is replaced by the text set out in Annex I to this Regulation. |\n| --- | --- |\n\n| (2) | Annex II to Implementing Regulation (EU) 2016/1646 is replaced by the text set out in Annex II to this Regulation. |\n| --- | --- |",
+      "text_sha256": "77ac593524bb949189b3df27280c9e6ce1d02fcdb01c37a6eccdd3945ecb3ced",
+      "md_span": {
+        "start": 809,
+        "end": 1159
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r1650:2022-03-24#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "fba1700bf00eb5ee2f683756d6aea09cbcbb82501ba4ffdb401bee0ca9027e7e",
+      "md_span": {
+        "start": 1192,
+        "end": 1343
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

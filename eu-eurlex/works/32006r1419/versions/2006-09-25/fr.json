@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32006r1419:2006-09-25",
+  "language": "fr",
+  "title": "Council Regulation (EC) No 1419/2006 of 25 September 2006 repealing Regulation (EEC) No 40…",
+  "valid_from": "2006-09-25",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32006r1419/versions/2006-09-25/fr.xml",
+    "sha256": "917a68e0156deae9351024e43a39935caff2371eae3a105c642f7b004d242e7a",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32006R1419"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32006r1419:2006-09-25#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe règlement (CE) no 4056/86 est abrogé.\n\nToutefois, l'article 1er, paragraphe 3, points b) et c), les articles 3 à 7, l'article 8, paragraphe 2, et l'article 26 du règlement (CEE) no 4056/86 restent applicables aux conférences maritimes qui satisfont aux exigences prévues par ledit règlement au 18 octobre 2006 pendant une période transitoire de deux ans à compter de cette date.",
+      "text_sha256": "f0a77aa85cf0dbe5cd4af5d8281c97381f6c5e45c94e6c3789eec835b5d8a22d",
+      "md_span": {
+        "start": 636,
+        "end": 1034
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32006r1419:2006-09-25#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nL'article 32 du règlement (CE) no 1/2003 est supprimé.",
+      "text_sha256": "70c038f154f6b5e794fe858ec51d8da8d3b0b9f4f9d8ce3816a078d163626ae1",
+      "md_span": {
+        "start": 1067,
+        "end": 1132
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32006r1419:2006-09-25#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "7720039f9cc590ca2cf0e65e106be507dd1006b57b075fd095ec38f7220a4937",
+      "md_span": {
+        "start": 1165,
+        "end": 1306
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

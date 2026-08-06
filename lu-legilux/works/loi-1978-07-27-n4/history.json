@@ -4,6 +4,7 @@
   "profiles": [
     "pdf-memorial-lu/1"
   ],
+  "primary_language": "fr",
   "anchors": {
     "art_10": [
       {
@@ -174,5 +175,180 @@
       }
     ]
   },
-  "anchor_events": []
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_10": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "d1d5f530108ab85746eb4cba55cf5d75399b10752642043762e2cd7792dcf745",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "01a5ce4d1adff9d5286ee7e83dbf4890c2c66ace16978f5151d64f5169e9231b",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "0773b5487f9e5c9043f5d46fb53964205d80de3500432beff6160392ef1470c3",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "f1d30eb53e361bce0fbe8d7e77fbdc094732153a3035cb060ca7f48ba3fda3a1",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "137ebd3b8a682dee2b98619045e94eb44e734dd3eab707647ebb31311ed947f3",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "64c1a61c0c12317bc3e0410414e910034fb1d7dd7ddf57dda77e9b76cbbc05ae",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "a32cdc5e66b7e37d471373014f0b66659bfb5c9874f19d9abb48797d77486df4",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_17": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "8cb0aad21453ccfb98e6fa32bca3ed8e7ea688d6b2002d785d97b611dd30d86c",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_18": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "d80fc6b6f3faca61b38e9cdbc3280e7c86c19d99e9e5e223f4012bcbe416f2d4",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_19": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "035ed22f1eada1cc1b9df9cb40f2a0904ff6131631391956042439984ac3aab9",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_1er": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "89bc49ce622e7f473b2a311547a68e4a5a7ca8a8644a420ec904b96b73592a6c",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "94fb90c473837942c131ecf118734ee454917d5ecc723e5999d876ddc8ac849e",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_20": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "a3f0d3a3e40d3f2a264d22c0f36f4edad71f69177ce1f5a5db8096e4f515d513",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_21": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "325bcabcb1618fc25e3b357003d621fcce36f0f43ae2ab1a1a03e86d164f743c",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "0dbcdf81b82a4480c2982b8cc71655c17ff133555b3844151120d8af99bed250",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "f6ebc5ecc1838d398fcacf0603d328d37f8f11b5155df2e8654be4ba4f3d5180",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "9d9b426a4200d28dd6057339500c4445154a12ce79c26e5200fe1ef5d6baa337",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "8f0d904baee174ff8eed2aa051434814c011614f781d7cc84fea4ee0b98e2f5b",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "9de1e1873b5bac80a8d8ba37d021d5895e3cffd6ca2dd74de2bdea0d78485b11",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "e2bc2325ecf90fb1275ee4582e77a0719befecafec891eefc5b758adad94b706",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "1980-03-17",
+          "valid_to": "1983-12-26",
+          "text_sha256": "c455ea5feb30ca1a52811b3bc3a88cf48e2b5de3c3995a4c802ed463373ceac5",
+          "in_version": "lu-legilux:loi-1978-07-27-n4:1980-03-17"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
 }

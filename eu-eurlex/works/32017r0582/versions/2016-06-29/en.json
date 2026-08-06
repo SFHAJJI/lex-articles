@@ -1,0 +1,133 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0582:2016-06-29",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/582 of 29 June 2016 supplementing Regulation (EU) No 600/2014",
+  "valid_from": "2016-06-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0582/versions/2016-06-29/en.xml",
+    "sha256": "f63ab9af41a52a93e2d7543704104e90f0ee77afed160001891c3c949e6c140e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0582"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0582:2016-06-29#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. A trading venue shall detail in its rules the information it needs from counterparties to a cleared derivative transaction in order to submit that transaction to a CCP for clearing, and the format in which that information shall be provided.\n\n2. A CCP shall detail in its rules the information it needs from counterparties to a cleared derivative transaction and from trading venues in order to clear that transaction, and the format in which that information shall be provided.",
+      "text_sha256": "3db1957dee8321d173c0bc9b8233b1f0e6251d3ff529ac6e5b928a519f8ee7de",
+      "md_span": {
+        "start": 648,
+        "end": 1140
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0582:2016-06-29#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Trading venues and clearing members shall subject orders for the conclusion of cleared derivative transactions on a trading venue to the requirements set out in paragraphs 2, 3 and 4, except where all the conditions set out in points (a), (b) and (c) of this paragraph are satisfied:\n\n| (a) | the rules of the trading venue require that each member or participant of the trading venue, which is not a clearing member of a CCP through which the cleared derivative transaction is cleared, has a contractual arrangement with a clearing member of the CCP under which the clearing member automatically becomes counterparty to the cleared derivative transaction; |\n| --- | --- |\n\n| (b) | the rules of the CCP provide that the cleared derivative transaction concluded on a trading venue is cleared automatically and immediately, with the clearing member referred to in point (a) becoming the counterparty to the CCP; |\n| --- | --- |\n\n| (c) | the rules of the trading venue provide that the member or participant of the trading venue or its client becomes counterparty to the cleared derivative transaction, after the cleared derivative transaction is cleared, pursuant to direct or indirect clearing arrangements entered into with the clearing member. |\n| --- | --- |\n\n2. A trading venue shall provide tools to ensure pre-conclusion screening on an order-by-order basis by each clearing member of the limits set and maintained by that clearing member for its client pursuant to Commission Delegated Regulation (EU) 2017/589 (3).\n\n3. A trading venue shall ensure before the conclusion of the order that the order of the client is within the limits applicable to this client in accordance with paragraph 2:\n\n| (a) | within 60 seconds from the receipt of the order when the order is entered into electronically; |\n| --- | --- |\n\n| (b) | within 10 minutes from the receipt of the order when the order is not entered into electronically. |\n| --- | --- |\n\n4. When the order is not within the limits applicable to the client in accordance with paragraph 2, the trading venue shall inform the client and the clearing member that the order cannot be concluded in accordance with the following timelines:\n\n| (a) | where the order is entered into electronically, on a real-time basis; |\n| --- | --- |\n\n| (b) | where the order is not entered into electronically, within 5 minutes as from the moment when the order was checked against the applicable limits. |\n| --- | --- |",
+      "text_sha256": "2da185f7493583dc28d28764d45a55fbbc1e826889c621a4012efec680473c9a",
+      "md_span": {
+        "start": 1173,
+        "end": 3640
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2017087EN.01022401-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0582:2016-06-29#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. The trading venue, the CCP and the clearing member shall be subject to the requirements set out in paragraphs 2 to 5 of this Article except where all the conditions set out in points (a), (b) and (c) of Article 2(1) are met.\n\n2. For cleared derivative transactions that are concluded on a trading venue electronically, the trading venue shall send the information related to each transaction to the CCP within 10 seconds from the conclusion of the transaction.\n\n3. For cleared derivative transactions that are concluded on a trading venue non-electronically, the trading venue shall send the information related to each transaction to the CCP within 10 minutes from the conclusion of the transaction.\n\n4. A CCP shall accept or not accept for clearing a cleared derivative transaction concluded on a trading venue within 10 seconds from receiving the information from the trading venue and inform the clearing member and the trading venue of any non-acceptance on a real time basis.\n\n5. The clearing member and the trading venue shall inform the counterparty that concluded the cleared derivative transaction on the trading venue of the non-acceptance as soon as the CCP has informed them of a non-acceptance.",
+      "text_sha256": "ec6a4cc2083e176273e94d80c73adb6bf3a2d5e1a18b0a4102ce3900ec87a0c7",
+      "md_span": {
+        "start": 3673,
+        "end": 4895
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0582:2016-06-29#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. For cleared derivative transactions concluded by counterparties on a bilateral basis, the clearing member shall:\n\n| (a) | obtain evidence from its client of the conclusion time frame of the transaction submitted for clearing; |\n| --- | --- |\n\n| (b) | ensure that the counterparties send to the CCP the information referred to in Article 1(2) within 30 minutes from the conclusion of the transaction. |\n| --- | --- |\n\n2. The CCP shall send to its clearing member the information referred to in point (b) of paragraph 1 related to the transaction within 60 seconds from receiving this information from the counterparties. The clearing member shall accept or not accept the transaction within 60 seconds from receiving the information from the CCP.\n\n3. The CCP shall accept or not accept the clearing of a cleared derivative transaction concluded on a bilateral basis within 10 seconds from the receipt of the clearing member's acceptance or non-acceptance.\n\n4. However, paragraphs 2 and 3 of this Article shall not apply where all the following conditions are met:\n\n| (a) | the rules of the CCP ensure the setting and the maintenance on a regular basis of limits by a clearing member for its client pursuant to Delegated Regulation (EU) 2017/589; |\n| --- | --- |\n\n| (b) | the rules of the CCP provide that a cleared derivative transaction that is within the limits in accordance with point (a) of this paragraph is cleared automatically by the CCP within 60 seconds from receiving the information on the cleared derivative transaction from the counterparties. |\n| --- | --- |\n\n5. The CCP that does not accept for clearing a cleared derivative transaction concluded on a bilateral basis shall inform the clearing member of the non-acceptance on a real time basis. The clearing member shall inform of the non-acceptance the counterparty that concluded the transaction as soon as it is informed by the CCP.",
+      "text_sha256": "def52e36cc10ec46de85fd8da69c9c98d0971be8ee10ec6984ff9edf6b74edb3",
+      "md_span": {
+        "start": 4928,
+        "end": 6843
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0582:2016-06-29#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Where a cleared derivative transaction that is concluded on a trading venue electronically is not accepted by the CCP, the trading venue shall void such contract.\n\n2. Where a cleared derivative transaction, other than a cleared derivative transaction concluded on a trading venue electronically, is not accepted by the CCP, the treatment of the transaction shall be governed by:\n\n| (a) | the rules of the trading venue, where the contract is submitted for clearing in accordance with the rules of the trading venue; |\n| --- | --- |\n\n| (b) | the agreement between the counterparties in all other situations. |\n| --- | --- |\n\n3. Where the non-acceptance is due to a technical or clerical problem, the cleared derivative transaction can be submitted for clearing once more within one hour from the previous submission in the form of a new transaction but with the same economic terms, provided that both counterparties have agreed to the second submission. The trading venue on which the cleared derivative transaction was initially concluded shall not be subject to the requirements of Article 8 of Regulation (EU) No 600/2014 for the submission to clearing of the second cleared derivative transaction.",
+      "text_sha256": "d4ea167f18abb384f910ced705a1c9e2da11d972bc42257fdcf507a65fa43913",
+      "md_span": {
+        "start": 6876,
+        "end": 8091
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0582:2016-06-29#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nThis Regulation shall apply from the date referred to in the second paragraph of Article 55 of Regulation (EU) No 600/2014.",
+      "text_sha256": "8651d7af6b8859160df80bce9f914b0369e845f815bf37c126263b8fd6e5e0b9",
+      "md_span": {
+        "start": 8124,
+        "end": 8400
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

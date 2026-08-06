@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32009r0280:2009-04-06",
+  "language": "fr",
+  "title": "Commission Regulation (EC) No\u00A0280/2009 of 6\u00A0April 2009 amending Annexes I, II, III and IV …",
+  "valid_from": "2009-04-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32009r0280/versions/2009-04-06/fr.xml",
+    "sha256": "22f54e5000a6d6c8ee7d87a156ec0320f4a837fa9e8067d525e3050f720f1d28",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32009R0280"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32009r0280:2009-04-06#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes annexes I, II, III et IV du règlement (CE) no 44/2001 sont remplacées par les annexes correspondantes du présent règlement.",
+      "text_sha256": "61d7ec3dd5e208062ee4776bd0650028864c72015eedada9addaeb2a1cb86835",
+      "md_span": {
+        "start": 636,
+        "end": 780
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32009r0280:2009-04-06#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "12cf78a3c921d990d5ec149b06cbfa703916567f0fda2e6dc3c14301fbc536be",
+      "md_span": {
+        "start": 813,
+        "end": 944
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

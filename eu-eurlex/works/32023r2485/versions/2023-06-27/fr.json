@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r2485:2023-06-27",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2023/2485 of 27\u00A0June 2023 amending Delegated Regulati…",
+  "valid_from": "2023-06-27",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r2485/versions/2023-06-27/fr.xml",
+    "sha256": "a99c6dbc242500714ef81c3ce76bc5e2cf1e11ae06747e1f060af293beb49be8",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R2485"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r2485:2023-06-27#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe règlement délégué (UE) 2021/2139 est modifié comme suit:\n\n| 1) | L’annexe I est modifiée conformément à l’annexe I du présent règlement. |\n| --- | --- |\n\n| 2) | L’annexe II est modifiée conformément à l’annexe II du présent règlement. |\n| --- | --- |",
+      "text_sha256": "b183b12b0c6b8740698acb57ee88bdbc050ff9a086c680b270f671efbcae2bc3",
+      "md_span": {
+        "start": 636,
+        "end": 906
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r2485:2023-06-27#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 1er janvier 2024.\n\nToutefois, le point 28) de l’annexe I et le point 26) de l’annexe II s’appliquent à compter du 1er janvier 2025.",
+      "text_sha256": "8ed7ef3df169c2e4021a35810be5dc24f046b4c1adcc87a8df261103f6a2dc30",
+      "md_span": {
+        "start": 939,
+        "end": 1243
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

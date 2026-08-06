@@ -1,0 +1,228 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r0522:2015-12-17",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2016/522 of 17 December 2015 supplementing Regulation (EU) No 596/2014",
+  "valid_from": "2015-12-17",
+  "valid_to": "2016-04-04",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r0522/versions/2015-12-17/en.xml",
+    "sha256": "8e355d19fb06d143f3a5083374e1344521315fe908fcb77e996bedfdc38ded16",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0522"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r0522:2015-12-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThis Regulation lays down detailed rules with regard to:\n\n| (1) | the extension of the exemption to certain public bodies and central banks of third countries from the obligations and prohibitions set out in Regulation (EU) No 596/2014 in carrying out monetary, exchange-rate or public debt management policy; |\n| --- | --- |\n\n| (2) | the indicators of market manipulation laid down in Annex I to Regulation (EU) No 596/2014; |\n| --- | --- |\n\n| (3) | the thresholds for the disclosure by emission allowance market participants of inside information; |\n| --- | --- |\n\n| (4) | the competent authority for the notifications of delays of public disclosure of inside information; |\n| --- | --- |\n\n| (5) | the circumstances under which trading during a closed period may be permitted by the issuer; |\n| --- | --- |\n\n| (6) | types of transactions triggering the duty to notify managers' transactions. |\n| --- | --- |",
+      "text_sha256": "6a1aecb800e3ee11cd52901c35be3f87af19123fefc7d562979e4486543858c9",
+      "md_span": {
+        "start": 658,
+        "end": 1578
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r0522:2015-12-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nFor the purposes of this Regulation, ‘equity securities’ mean the class of transferable securities referred to in Article 4(1)(44)(a) of Directive 2014/65/EU of the European Parliament and of the Council (2).",
+      "text_sha256": "7993d55eadf64118fd5119c7a1bf9e39a81e22a26e7434cc6803b591659ced11",
+      "md_span": {
+        "start": 1611,
+        "end": 1830
+      },
+      "citations": [
+        {
+          "href": "#ntr2-L_2016088EN.01000101-E0002",
+          "text": "(2)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r0522:2015-12-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nRegulation (EU) No 596/2014 shall not apply to transactions, orders or behaviours, in pursuit of monetary, exchange rate or public debt management policy insofar as they are undertaken in the public interest and solely in pursuit of those policies by the public bodies and central banks of third countries set out in Annex I to this Regulation.",
+      "text_sha256": "49e6129912fc11697dbb29df22bcfdfdc1752331971f7673f274a5bab51db1f2",
+      "md_span": {
+        "start": 1863,
+        "end": 2218
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32016r0522:2015-12-17#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. In relation to indicators of manipulative behaviour relating to false or misleading signals and to price securing referred to in Section A of Annex I to Regulation (EU) No 596/2014, the practices set out in Indicators A(a) to A(g) of Annex I to Regulation (EU) No 596/2014 are laid down in Section 1 of Annex II to this Regulation.\n\n2. In relation to indicators of manipulative behaviour relating to the employment of a fictitious device or any other form of deception or contrivance referred to in Section B of Annex I to Regulation (EU) No 596/2014, the practices set out in Indicators B(a) and (b) of Annex I to Regulation (EU) No 596/2014 are laid down in Section 2 of Annex II to this Regulation.",
+      "text_sha256": "71e7ab947ab0474ea42deee4e65a1faab84ef0da9686786accbbc10f118544ec",
+      "md_span": {
+        "start": 2251,
+        "end": 2966
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32016r0522:2015-12-17#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. For the purposes of the second subparagraph of Article 17(2) of Regulation (EU) No 596/2014:\n\n| (a) | the minimum threshold of carbon dioxide (CO2) equivalent shall be 6 million tonnes a year; |\n| --- | --- |\n\n| (b) | the minimum threshold of rated thermal input shall be 2 430 MW. |\n| --- | --- |\n\n2. Thresholds set out in paragraph 1 shall apply at group level and relate to all business, including aviation activities or installations, which the participant in the emission allowance market concerned, or its parent undertaking or related undertaking owns or controls or for the operational matters of which the participant concerned, or its parent undertaking or related undertaking is responsible, in whole or in part.",
+      "text_sha256": "42ea6e27ae852f2e1154ebc52216aaad9132b5cb5421187106c6bb73ea61cb3d",
+      "md_span": {
+        "start": 2999,
+        "end": 3736
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32016r0522:2015-12-17#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. The competent authority to which an issuer of financial instruments must notify the delay in disclosing inside information according to Article 17(4) and (5) of Regulation (EU) No 596/2014 shall be the competent authority of the Member State where the issuer is registered in any of the following cases:\n\n| (a) | if and as long as the issuer has equity securities which are admitted to trading or traded with its consent, or for which the issuer has requested admission to trading, on a trading venue in the Member State where the issuer is registered; |\n| --- | --- |\n\n| (b) | if and as long as the issuer does not have equity securities which are admitted to trading or traded with its consent, or for which the issuer has requested admission to trading, on a trading venue in any Member State, provided that the issuer has any other financial instruments which are admitted to trading or traded with its consent, or for which the issuer has requested admission to trading, on a trading venue in the Member State where the issuer is registered. |\n| --- | --- |\n\n2. In all other cases, including in the case of issuers incorporated in a third country, the competent authority to which an issuer of financial instruments must notify the delay in disclosing inside information shall be the competent authority of the Member State where:\n\n| (a) | the issuer has equity securities which are admitted to trading or traded with its consent, or for which the issuer has requested admission to trading, on a trading venue for the first time; |\n| --- | --- |\n\n| (b) | the issuer has any other financial instruments which are admitted to trading or traded with its consent, or for which the issuer has requested admission to trading, on a trading venue for the first time, if and as long as the issuer does not have equity securities admitted to trading or traded with its consent, or for which it has requested admission to trading, on a trading venue in any Member State. |\n| --- | --- |\n\nWhere the issuer has the relevant financial instruments which are admitted to trading or traded with its consent, or for which the issuer has requested admission to trading, for the first time simultaneously on trading venues in more than one Member State, an issuer of financial instruments shall notify the delay to be the competent authority of the trading venue that is the most relevant market in terms of liquidity, as determined in the Commission Delegated Regulation to be adopted under Article 26(9)(b) of Regulation (EU) No 600/2014 of the European Parliament and of the Council (3).\n\n3. For the purpose of the notifications under Article 17(4) of Regulation (EU) No 596/2014, an emission allowance market participant shall notify the delay in disclosing inside information to the competent authority of the Member State where the emission allowance market participant is registered.",
+      "text_sha256": "6bf200340c4808ece5b57d4fd65c1386a7e4fdc8f5381c1b3fd083aa267add7f",
+      "md_span": {
+        "start": 3769,
+        "end": 6658
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2016088EN.01000101-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32016r0522:2015-12-17#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. A person discharging managerial responsibilities within an issuer shall have the right to conduct trading during a closed period as defined under Article 19(11) of Regulation (EU) No 596/2014 provided that the following conditions are met:\n\n| (a) | one of the circumstances referred to in Article 19(12) of Regulation (EU) No 596/2014 is met; |\n| --- | --- |\n\n| (b) | the person discharging managerial responsibilities is able to demonstrate that the particular transaction cannot be executed at another moment in time than during the closed period. |\n| --- | --- |\n\n2. In the circumstances set out in Article 19(12)(a) of Regulation (EU) No 596/2014, prior to any trading during the closed period, a person discharging managerial responsibilities shall provide a reasoned written request to the issuer for obtaining the issuer's permission to proceed with immediate sale of shares of that issuer during a closed period.\n\nThe written request shall describe the envisaged transaction and provide an explanation of why the sale of shares is the only reasonable alternative to obtain the necessary financing.",
+      "text_sha256": "2c0117f06a8dd04e3ee34cb0f586b38f8400d3036bf1b407574003f4718dafa0",
+      "md_span": {
+        "start": 6691,
+        "end": 7810
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32016r0522:2015-12-17#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. When deciding whether to grant permission to proceed with immediate sale of its shares during a closed period, an issuer shall make a case-by-case assessment of a written request referred to in Article 7(2) by the person discharging managerial responsibilities. The issuer shall have the right to permit the immediate sale of shares only when the circumstances for such transactions may be deemed exceptional.\n\n2. Circumstances referred to in paragraph 1 shall be considered to be exceptional when they are extremely urgent, unforeseen and compelling and where their cause is external to the person discharging managerial responsibilities and the person discharging managerial responsibilities has no control over them.\n\n3. When examining whether the circumstances described in the written request referred to in Article 7(2) are exceptional, the issuer shall take into account, among other indicators, whether and to the extent to which the person discharging managerial responsibilities:\n\n| (a) | is at the moment of submitting its request facing a legally enforceable financial commitment or claim; |\n| --- | --- |\n\n| (b) | has to fulfil or is in a situation entered into before the beginning of the closed period and requiring the payment of sum to a third party, including tax liability, and cannot reasonably satisfy a financial commitment or claim by means other than immediate sale of shares. |\n| --- | --- |",
+      "text_sha256": "02db87edf31dfa6a8dc31c1d1929e050393af9575ed64a0b0742cd168280ab93",
+      "md_span": {
+        "start": 7843,
+        "end": 9273
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32016r0522:2015-12-17#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\nThe issuer shall have the right to permit the person discharging managerial responsibilities within the issuer to trade on its own account or for the account of a third party during a closed period, including but not limited to circumstances where that person discharging managerial responsibilities:\n\n| (a) | had been awarded or granted financial instruments under an employee scheme, provided that the following conditions are met:(i)the employee scheme and its terms have been previously approved by the issuer in accordance with national law and the terms of the employee scheme specify the timing of the award or the grant and the amount of financial instruments awarded or granted, or the basis on which such an amount is calculated and given that no discretion can be exercised;(ii)the person discharging managerial responsibilities does not have any discretion as to the acceptance of the financial instruments awarded or granted; |\n| --- | --- |\n| (i) | the employee scheme and its terms have been previously approved by the issuer in accordance with national law and the terms of the employee scheme specify the timing of the award or the grant and the amount of financial instruments awarded or granted, or the basis on which such an amount is calculated and given that no discretion can be exercised; |\n| (ii) | the person discharging managerial responsibilities does not have any discretion as to the acceptance of the financial instruments awarded or granted; |\n\n| (b) | had been awarded or granted financial instruments under an employee scheme that takes place in the closed period provided that a pre-planned and organised approach is followed regarding the conditions, the periodicity, the time of the award, the group of entitled persons to whom the financial instruments are granted and the amount of financial instruments to be awarded, the award or grant of financial instruments takes place under a defined framework under which any inside information cannot influence the award or grant of financial instruments; |\n| --- | --- |\n\n| (c) | exercises options or warrants or conversion of convertible bonds assigned to him under an employee scheme when the expiration date of such options, warrants or convertible bonds falls within a closed period, as well as sales of the shares acquired pursuant to such exercise or conversion, provided that all of the following conditions are met:(i)the person discharging managerial responsibilities notifies the issuer of its choice to exercise or convert at least four months before the expiration date;(ii)the decision of the person discharging managerial responsibilities is irrevocable;(iii)the person discharging managerial responsibilities has received the authorisation from the issuer prior to proceed; |\n| --- | --- |\n| (i) | the person discharging managerial responsibilities notifies the issuer of its choice to exercise or convert at least four months before the expiration date; |\n| (ii) | the decision of the person discharging managerial responsibilities is irrevocable; |\n| (iii) | the person discharging managerial responsibilities has received the authorisation from the issuer prior to proceed; |\n\n| (d) | acquires the issuer's financial instruments under an employee saving scheme, provided that all of the following conditions are met:(i)the person discharging managerial responsibilities has entered into the scheme before the closed period, except when it cannot enter into the scheme at another time due to the date of commencement of employment;(ii)the person discharging managerial responsibilities does not alter the conditions of his participation into the scheme or cancel his participation into the scheme during the closed period;(iii)the purchase operations are clearly organised under the scheme terms and that the person discharging managerial responsibilities has no right or legal possibility to alter them during the closed period, or are planned under the scheme to intervene at a fixed date which falls in the closed period; |\n| --- | --- |\n| (i) | the person discharging managerial responsibilities has entered into the scheme before the closed period, except when it cannot enter into the scheme at another time due to the date of commencement of employment; |\n| (ii) | the person discharging managerial responsibilities does not alter the conditions of his participation into the scheme or cancel his participation into the scheme during the closed period; |\n| (iii) | the purchase operations are clearly organised under the scheme terms and that the person discharging managerial responsibilities has no right or legal possibility to alter them during the closed period, or are planned under the scheme to intervene at a fixed date which falls in the closed period; |\n\n| (e) | transfers or receives, directly or indirectly, financial instruments, provided that the financial instruments are transferred between two accounts of the person discharging managerial responsibilities and that such a transfer does not result in a change in price of financial instruments; |\n| --- | --- |\n\n| (f) | acquires qualification or entitlement of shares of the issuer and the final date for such an acquisition, under the issuer's statute or by-law falls during the closed period, provided that the person discharging managerial responsibilities submits evidence to the issuer of the reasons for the acquisition not taking place at another time, and the issuer is satisfied with the provided explanation. |\n| --- | --- |",
+      "text_sha256": "9320761ca4cb5072012cee6ffc9ddfb091a0aa3ba215604be9282a643db5d22c",
+      "md_span": {
+        "start": 9306,
+        "end": 14825
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32016r0522:2015-12-17#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Pursuant to Article 19 of Regulation (EU) No 596/2014 and in addition to transactions referred to in Article 19(7) of that Regulation, persons discharging managerial responsibilities within an issuer or an emission allowance market participant and persons closely associated with them shall notify the issuer or the emission allowance market participant and the competent authority of their transactions.\n\nThose notified transactions shall include all transactions conducted by persons discharging managerial responsibilities on their own account relating, in respect of the issuers, to the shares or debt instruments of the issuer or to derivatives or other financial instruments linked thereto, and in respect of emission allowance market participants, to emission allowances, to auction products based thereon or to derivatives relating thereto.\n\n2. Those notified transactions shall include the following:\n\n| (a) | acquisition, disposal, short sale, subscription or exchange; |\n| --- | --- |\n\n| (b) | acceptance or exercise of a stock option, including of a stock option granted to managers or employees as part of their remuneration package, and the disposal of shares stemming from the exercise of a stock option; |\n| --- | --- |\n\n| (c) | entering into or exercise of equity swaps; |\n| --- | --- |\n\n| (d) | transactions in or related to derivatives, including cash-settled transaction; |\n| --- | --- |\n\n| (e) | entering into a contract for difference on a financial instrument of the concerned issuer or on emission allowances or auction products based thereon; |\n| --- | --- |\n\n| (f) | acquisition, disposal or exercise of rights, including put and call options, and warrants; |\n| --- | --- |\n\n| (g) | subscription to a capital increase or debt instrument issuance; |\n| --- | --- |\n\n| (h) | transactions in derivatives and financial instruments linked to a debt instrument of the concerned issuer, including credit default swaps; |\n| --- | --- |\n\n| (i) | conditional transactions upon the occurrence of the conditions and actual execution of the transactions; |\n| --- | --- |\n\n| (j) | automatic or non-automatic conversion of a financial instrument into another financial instrument, including the exchange of convertible bonds to shares; |\n| --- | --- |\n\n| (k) | gifts and donations made or received, and inheritance received; |\n| --- | --- |\n\n| (l) | transactions executed in index-related products, baskets and derivatives, insofar as required by Article 19 of Regulation (EU) No 596/2014; |\n| --- | --- |\n\n| (m) | transactions executed in shares or units of investment funds, including alternative investment funds (AIFs) referred to in Article 1 of Directive 2011/61/EU of the European Parliament and of the Council (4), insofar as required by Article 19 of Regulation (EU) No 596/2014; |\n| --- | --- |\n\n| (n) | transactions executed by manager of an AIF in which the person discharging managerial responsibilities or a person closely associated with such a person has invested, insofar as required by Article 19 of Regulation (EU) No 596/2014; |\n| --- | --- |\n\n| (o) | transactions executed by a third party under an individual portfolio or asset management mandate on behalf or for the benefit of a person discharging managerial responsibilities or a person closely associated with such a person; |\n| --- | --- |\n\n| (p) | borrowing or lending of shares or debt instruments of the issuer or derivatives or other financial instruments linked thereto. |\n| --- | --- |",
+      "text_sha256": "d18c4b5833c80811b7951d8a8021f5637f8bf4f2733cc0bf2f5407c79c98ce80",
+      "md_span": {
+        "start": 14860,
+        "end": 18353
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2016088EN.01000101-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32016r0522:2015-12-17#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 3 July 2016.",
+      "text_sha256": "084d15b4d0b76c05b95041bab9369a0a2f7360fb6c221e0c6c58226fa9a4d364",
+      "md_span": {
+        "start": 18388,
+        "end": 18574
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

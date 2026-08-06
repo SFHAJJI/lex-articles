@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r2020:2016-05-26",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2016/2020 of 26 May 2016 supplementing Regulation (EU) No 600/2014",
+  "valid_from": "2016-05-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r2020/versions/2016-05-26/en.xml",
+    "sha256": "e71718d3dc5b412d6442b95df2deb1d47051bdd9dd4aa6d05a4da07ae6fc17eb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R2020"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r2020:2016-05-26#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nWhen establishing whether a class of derivatives or relevant subset thereof has sufficient third-party buying and selling interest to be considered sufficiently liquid for the trading obligation, ESMA shall apply the criteria in Article 32(3) of Regulation (EU) No 600/2014, as further specified in Articles 2 to 5 below.",
+      "text_sha256": "28d581a6b8aa79652dc0f862428b538e5e4bf555fa3da2775cf998d9cdd85619",
+      "md_span": {
+        "start": 648,
+        "end": 980
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r2020:2016-05-26#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. In relation to the average frequency of trades, ESMA shall take into consideration the following elements:\n\n| (a) | the number of days on which trading took place; |\n| --- | --- |\n\n| (b) | the number of trades. |\n| --- | --- |\n\n2. ESMA analysis of the criteria in paragraph 1 shall take into account the distribution of trading executed on trading venues and executed OTC. ESMA shall assess these criteria over a period of time of sufficient length to determine whether the liquidity of each class of derivatives or a relevant subset thereof is subject to seasonal or structural factors. ESMA shall also consider whether trades are concentrated at certain points in time and over certain sizes over the period assessed and determine to what extent such concentration constitutes predictable patterns.",
+      "text_sha256": "77612a576c9008c059a6b442c072ebda2aa4ec3c69beefd8c167960a612cc331",
+      "md_span": {
+        "start": 1013,
+        "end": 1827
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r2020:2016-05-26#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. In relation to the average size of trades, ESMA shall take into consideration the following elements:\n\n| (a) | the average daily turnover whereby the notional size of all trades combined shall be divided by the number of trading days; |\n| --- | --- |\n\n| (b) | the average value of trades whereby the notional size of all trades combined shall be divided by the number of trades. |\n| --- | --- |\n\n2. ESMA analysis of the criteria in paragraph 1 shall take into account the factors specified in Article 2(2).",
+      "text_sha256": "6e94bc92173de54a4595478734fbd6db4135974b9d5dabf09979705b92708189",
+      "md_span": {
+        "start": 1860,
+        "end": 2380
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32016r2020:2016-05-26#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. In relation to the number and type of active market participants, ESMA shall take into consideration the following elements:\n\n| (a) | the total number of market participants trading in that class of derivatives or relevant subset thereof is not lower than two; |\n| --- | --- |\n\n| (b) | the number of trading venues that have admitted to trading or are trading the class of derivatives or a relevant subset thereof; |\n| --- | --- |\n\n| (c) | the number of market makers and other market participants under a binding written agreement or an obligation to provide liquidity. |\n| --- | --- |\n\n2. ESMA analysis shall compare the ratio of market participants to the findings in the data obtained for the analyses of average size of trades and the average frequency of trades.",
+      "text_sha256": "35c95618cd1ca56ba0efd4384a99b5da1f50a7c0cf207ffed61b5aac11a2632c",
+      "md_span": {
+        "start": 2413,
+        "end": 3195
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32016r2020:2016-05-26#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. In relation to the average size of spreads, ESMA shall take into consideration the following elements:\n\n| (a) | the size of weighted spreads, including volume weighted spreads, over different periods of time; |\n| --- | --- |\n\n| (b) | spreads at different points in time of trading sessions. |\n| --- | --- |\n\n2. Where information on spreads is not available, ESMA shall take into consideration a proxy for the assessment of this criterion.",
+      "text_sha256": "f4e32a0f3487b7523a83a68f5b59553b6df4221e867f01989aa6c546bb0ad68a",
+      "md_span": {
+        "start": 3228,
+        "end": 3680
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32016r2020:2016-05-26#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from the date referred to in the second paragraph of Article 55 of Regulation (EU) No 600/2014.",
+      "text_sha256": "1f1f5b2ff4e751df0ad180fa3401c22bb05c7ffb1dee7bcb781bdf58e1bf8325",
+      "md_span": {
+        "start": 3713,
+        "end": 3976
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

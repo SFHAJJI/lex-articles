@@ -1,0 +1,298 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r1780:2024-03-13",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2024/1780 of 13\u00A0March 2024 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2024-03-13",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r1780/versions/2024-03-13/fr.xml",
+    "sha256": "53023def4f05f3f25fbebbc14b4f7d22ddf96d91e8299366c8745f1e2f1d5a6f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R1780"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe présent règlement précise les conditions dans lesquelles les établissements peuvent calculer KIRB pour les expositions sous-jacentes d’une titrisation en vertu de l’article 255, paragraphe 4, du règlement (UE) no 575/2013.",
+      "text_sha256": "4e578d1358c951ddd653a01ad6dbeabbac35387c0e9522d53c896b476ddb0d99",
+      "md_span": {
+        "start": 650,
+        "end": 892
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins du présent règlement, on entend par:\n\n| a) | «élaboration du modèle»: la partie du processus d’estimation des paramètres de risque qui conduit à une différenciation appropriée des risques par la définition des facteurs de risque pertinents, l’établissement de méthodes statistiques ou mécaniques pour attribuer les expositions à des échelons ou catégories de débiteurs ou de facilités de crédit, et l’estimation des paramètres intermédiaires du modèle, le cas échéant; |\n| --- | --- |\n\n| b) | «segment de calibrage»: un sous-ensemble, identifié de manière univoque, du champ d’application du modèle de probabilité de défaut (PD) ou de perte en cas de défaut (LGD), qui fait l’objet d’un calibrage conjoint; |\n| --- | --- |\n\n| c) | «expositions titrisées éligibles»: l’un des types suivants d’expositions titrisées:i)les expositions titrisées dont l’établissement qui calcule KIRB n’est pas l’organe de gestion;ii)les expositions titrisées dont l’établissement qui calcule KIRB est l’organe de gestion et remplit les deux conditions suivantes:1)l’établissement n’a pas pris part à, ni n’a conclu, l’accord d’origine ayant donné naissance aux obligations ou obligations potentielles du débiteur ou débiteur potentiel;2)l’établissement a un accès limité aux données et aux informations sur ces expositions titrisées; |\n| --- | --- |\n| i) | les expositions titrisées dont l’établissement qui calcule KIRB n’est pas l’organe de gestion; |\n| ii) | les expositions titrisées dont l’établissement qui calcule KIRB est l’organe de gestion et remplit les deux conditions suivantes:1)l’établissement n’a pas pris part à, ni n’a conclu, l’accord d’origine ayant donné naissance aux obligations ou obligations potentielles du débiteur ou débiteur potentiel;2)l’établissement a un accès limité aux données et aux informations sur ces expositions titrisées; |\n| 1) | l’établissement n’a pas pris part à, ni n’a conclu, l’accord d’origine ayant donné naissance aux obligations ou obligations potentielles du débiteur ou débiteur potentiel; |\n| 2) | l’établissement a un accès limité aux données et aux informations sur ces expositions titrisées; |\n\n| d) | «modèle interne pour le calcul de KIRB»: un système de notation pour le calcul de KIRB visé à l’article 255, paragraphe 4, du règlement (UE) no 575/2013. |\n| --- | --- |\n\nAux fins du premier alinéa, point b), les modèles de PD et de LGD comprennent toutes les données et méthodes utilisées dans le cadre d’un système de notation traitant respectivement:\n\n| a) | de la différenciation et de la quantification des propres estimations de PD, lorsque ces données et méthodes sont utilisées pour évaluer le risque de défaut pour chaque débiteur ou exposition couvert par le modèle de PD; |\n| --- | --- |\n\n| b) | de la différenciation et la de quantification des propres estimations de LGD, et de la meilleure estimation des pertes anticipées (ELBE), lorsque ces données et méthodes sont utilisées pour évaluer le niveau de perte en cas de défaut pour chaque facilité couverte par le modèle de LGD. |\n| --- | --- |",
+      "text_sha256": "14680bf545ddd4dd76c4a5a8bb87d352e472d6867f0c344d61137e92b8094c68",
+      "md_span": {
+        "start": 925,
+        "end": 3993
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Aux fins du présent règlement:\n\n| a) | les termes «vendeur de créances achetées» et «vendeur» dans les dispositions du règlement (UE) no 575/2013 relatives aux créances achetées s’entendent, pour autant qu’il y ait une SSPE, comme désignant l’«initiateur»; |\n| --- | --- |\n\n| b) | le terme «établissement acquéreur» à l’article 154, paragraphe 7, à l’article 162, paragraphe 2, point e), et à l’article 179, paragraphe 1, point e), du règlement (UE) no 575/2013 s’entend comme désignant l’«établissement qui calcule KIRB conformément à l’article 255, paragraphe 4, du présent règlement»; |\n| --- | --- |\n\n| c) | les termes «expositions et normes de l’établissement concerné» à l’article 179, paragraphe 1, point d), du règlement (UE) no 575/2013 s’entendent comme désignant des «expositions titrisées et normes appliquées à ces expositions»; |\n| --- | --- |\n\n| d) | le terme «type d’expositions» à l’article 142, paragraphe 1, point 2), du règlement (UE) no 575/2013 s’entend comme désignant les «groupes d’expositions titrisées qui auraient été gérés de manière homogène par l’établissement qui calcule KIRB si elles n’avaient pas été titrisées». |\n| --- | --- |\n\n2. Pour les paniers d’expositions titrisées non homogènes, les établissements qui calculent KIRB conformément au présent règlement peuvent être amenés à scinder ces paniers en sous-paniers d’expositions titrisées homogènes afin de déterminer le montant pondéré des expositions séparément pour chaque sous-panier en vue de calculer KIRB conformément à l’article 255, paragraphe 4, du règlement (UE) no 575/2013. Les références aux «paniers» dans le présent règlement s’entendent comme incluant, le cas échéant, les sous-paniers.",
+      "text_sha256": "aa7c9b1fe115945ecb21dc6d66617d8e4ee25eab2f5c66d982c932c0f81af4dd",
+      "md_span": {
+        "start": 4026,
+        "end": 5732
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nAux fins de l’article 143 et de l’article 255, paragraphe 4, du règlement (UE) no 575/2013, les autorités compétentes ne peuvent accorder à un établissement l’autorisation de calculer KIRB pour les expositions titrisées en utilisant des systèmes de notation spécifiques à KIRB dans le cadre de l’approche NI de l’établissement que si toutes les conditions suivantes sont remplies:\n\n| a) | le champ d’application du système de notation spécifique à KIRB ne comprend que les expositions titrisées éligibles; |\n| --- | --- |\n\n| b) | l’établissement a reçu l’autorisation d’utiliser l’approche NI pour au moins un système de notation dans la catégorie d’expositions à laquelle les expositions titrisées éligibles sont affectées; |\n| --- | --- |\n\n| c) | toutes les exigences de la troisième partie, titre II, chapitre 3, du règlement (UE) no 575/2013 relatives aux systèmes de notation sont remplies, sous réserve du point d) du présent article; |\n| --- | --- |\n\n| d) | l’établissement remplit les conditions énoncées aux articles 5 à 15 du présent règlement au lieu des conditions correspondantes prescrites dans le règlement (UE) no 575/2013, comme indiqué dans chacun desdits articles du présent règlement. |\n| --- | --- |",
+      "text_sha256": "726d9229b6e5b6f2e702f5d9c2d2428aded0e1e3efa28776f37d30584b950cc8",
+      "md_span": {
+        "start": 5765,
+        "end": 6996
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nUn établissement peut calculer KIRB conformément à l’article 255, paragraphe 4, du règlement (UE) no 575/2013 en utilisant un système de notation qui a été approuvé pour une utilisation pour les expositions dont il est lui-même à l’origine lorsque toutes les conditions suivantes sont remplies:\n\n| a) | le système de notation n’est utilisé que pour calculer la PD des expositions titrisées éligibles autres que sur la clientèle de détail; |\n| --- | --- |\n\n| b) | si elles n’étaient pas titrisées, les expositions titrisées éligibles autres que sur la clientèle de détail relèveraient du champ d’application du système de notation qui sera utilisé; |\n| --- | --- |\n\n| c) | l’établissement qui calcule KIRB utilise les valeurs de LGD prévues à l’article 8, paragraphe 3, du présent règlement; |\n| --- | --- |\n\n| d) | toutes les exigences de la troisième partie, titre II, chapitre 3, du règlement (UE) no 575/2013 relatives aux systèmes de notation sont remplies, sous réserve du point e) du présent article; |\n| --- | --- |\n\n| e) | les exigences énoncées à l’article 7 et à l’article 12, paragraphe 3, du présent règlement sont remplies en ce qui concerne l’application des exigences relatives aux créances achetées du règlement (UE) no 575/2013 dans le contexte particulier de la titrisation, au lieu des exigences correspondantes prescrites dans ledit règlement, comme indiqué dans chacun desdits articles du présent règlement; |\n| --- | --- |\n\n| f) | les exigences énoncées aux articles 14 et 15 du présent règlement sont remplies en ce qui concerne l’utilisation des données. |\n| --- | --- |",
+      "text_sha256": "5da66cb8eae8f870db592cadb2e091cf924f595c13699cb9f3d92909bb3a9aad",
+      "md_span": {
+        "start": 7029,
+        "end": 8634
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nAux fins du présent règlement, un établissement qui a reçu l’autorisation d’appliquer l’approche NI pour au moins un système de notation pour les expositions dont il est lui-même à l’origine au sein de la catégorie d’expositions à laquelle les expositions titrisées éligibles sont affectées est réputé avoir acquis l’expérience requise par l’article 145 du règlement (UE) no 575/2013.",
+      "text_sha256": "de67dee57c0f4ccc048c6b1da647d854171eccb40f425f5d2269e8f22c896ff8",
+      "md_span": {
+        "start": 8667,
+        "end": 9062
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Aux fins du présent règlement, lorsqu’ils quantifient les paramètres de risque à associer aux échelons ou catégories de notation pour les expositions titrisées éligibles, les établissements qui calculent KIRB sont réputés se conformer aux exigences énoncées à l’article 184 du règlement (UE) no 575/2013 lorsqu’ils se conforment aux exigences énoncées aux paragraphes 2 à 7 du présent article.\n\nLes établissements qui calculent KIRB peuvent se conformer aux paragraphes 2 à 7 par l’intermédiaire d’une partie à la titrisation agissant pour le compte et dans l’intérêt des investisseurs de la titrisation, conformément aux termes des documents de titrisation correspondants.\n\n2. Aux fins du présent règlement, lorsqu’ils quantifient les paramètres de risque à associer aux échelons ou catégories de notation pour les expositions titrisées éligibles, les établissements qui calculent KIRB veillent à ce que la structure de la titrisation remplisse toutes les exigences suivantes:\n\n| a) | la SSPE ou l’établissement qui calcule KIRB conserve la propriété et le contrôle effectifs de tout versement en espèces provenant des expositions titrisées; |\n| --- | --- |\n\n| b) | la propriété des expositions titrisées et des rentrées de trésorerie est protégée contre des mesures telles qu’un sursis concordataire ou un recours juridictionnel, susceptibles d’entraver sensiblement la capacité de la SSPE ou de l’établissement qui calcule KIRB à liquider ou à céder les expositions titrisées ou à conserver le contrôle des rentrées de trésorerie. |\n| --- | --- |\n\n3. En cas de paiements directs du débiteur à un initiateur ou à un organe de gestion, l’établissement qui calcule KIRB dispose de procédures pour vérifier régulièrement que ces paiements sont transmis intégralement et selon les conditions contractuelles.\n\n4. L’établissement qui calcule KIRB suit l’évolution tant de la qualité des expositions titrisées éligibles que de la situation financière de l’initiateur, du vendeur et de l’organe de gestion. À cette fin, l’établissement est en particulier tenu:\n\n| a) | d’évaluer la corrélation existant entre, d’une part, la qualité des expositions titrisées éligibles, ce qui inclut le potentiel de recouvrement en cas de défaut, et d’autre part, la situation financière de l’initiateur, du vendeur et de l’organe de gestion; |\n| --- | --- |\n\n| b) | de disposer de politiques et procédures internes offrant des garanties adéquates contre toute forme d’aléas, notamment via l’attribution à l’initiateur, au vendeur et à l’organe de gestion d’une notation interne du risque; |\n| --- | --- |\n\n| c) | de disposer de politiques et de procédures claires et efficaces pour déterminer l’éligibilité d’un initiateur, d’un vendeur et d’un organe de gestion; |\n| --- | --- |\n\n| d) | de passer régulièrement en revue les initiateurs, vendeurs et organes de gestion pour vérifier l’exactitude de leurs rapports, détecter d’éventuelles fraudes ou faiblesses opérationnelles et vérifier la qualité des politiques de crédit de l’initiateur ou du vendeur et des politiques et procédures de collecte de l’organe de gestion, et de consigner par écrit les conclusions de ces examens; |\n| --- | --- |\n\n| e) | d’évaluer:1)les caractéristiques des paniers d’expositions titrisées éligibles, y compris les excédents d’avances;2)l’historique des arriérés, créances douteuses et provisions pour créances douteuses de l’initiateur ou du vendeur;3)les conditions de paiement et les éventuels comptes de contrepartie des paniers d’expositions titrisées éligibles; |\n| --- | --- |\n| 1) | les caractéristiques des paniers d’expositions titrisées éligibles, y compris les excédents d’avances; |\n| 2) | l’historique des arriérés, créances douteuses et provisions pour créances douteuses de l’initiateur ou du vendeur; |\n| 3) | les conditions de paiement et les éventuels comptes de contrepartie des paniers d’expositions titrisées éligibles; |\n\n| f) | de disposer de politiques et procédures efficaces pour suivre, sur une base agrégée, l’évolution des concentrations de risques sur un seul débiteur, tant au sein d’un panier donné d’expositions titrisées éligibles qu’entre plusieurs paniers; |\n| --- | --- |\n\n| g) | de veiller à recevoir, en temps opportun, des rapports suffisamment détaillés de l’initiateur, du vendeur ou de l’organe de gestion concernant l’ancienneté et la dilution des expositions titrisées; |\n| --- | --- |\n\n| h) | de disposer de systèmes et de procédures pour détecter précocement toute détérioration de la situation financière de l’initiateur ou du vendeur et de la qualité des expositions titrisées éligibles et pour traiter les problèmes naissants de manière proactive. |\n| --- | --- |\n\nAux fins du premier alinéa, point g), les rapports fournissent, à propos des expositions titrisées éligibles, toutes les informations nécessaires pour:\n\n| a) | évaluer le respect, par les expositions, des critères d’éligibilité à cette titrisation et des politiques d’octroi d’avances régissant de telles expositions titrisées éligibles; |\n| --- | --- |\n\n| b) | suivre et confirmer les conditions de vente de l’initiateur ou du vendeur et la dilution. |\n| --- | --- |\n\n5. L’établissement qui calcule KIRB dispose de politiques, de procédures et de systèmes d’information clairs et efficaces pour suivre toute violation d’engagement contractuel, ester en justice et gérer adéquatement les expositions titrisées éligibles qui posent un problème.\n\n6. L’établissement qui calcule KIRB dispose de politiques et de procédures claires et efficaces pour le suivi ou, le cas échéant, le contrôle des expositions titrisées éligibles, du crédit et de la trésorerie, incluant l’ensemble des éléments suivants:\n\n| a) | des politiques internes écrites précisant tous les éléments significatifs de la titrisation, y compris les taux des avances, les sûretés éligibles, les documents requis, les limites de concentration et le traitement à réserver aux entrées de trésorerie; |\n| --- | --- |\n\n| b) | des politiques et procédures efficaces pour garantir que les éléments significatifs visés au point a) tiennent compte de tous les facteurs pertinents d’importance significative, dont la situation financière de l’initiateur, du vendeur et de l’organe de gestion, les concentrations de risque et l’évolution de la qualité des expositions titrisées éligibles comme de la clientèle de l’initiateur; |\n| --- | --- |\n\n| c) | des systèmes internes garantissant que des fonds ne sont avancés qu’à la fourniture des sûretés et documents correspondants spécifiés. |\n| --- | --- |\n\n7. L’établissement qui calcule KIRB dispose d’un processus interne de contrôle du respect des politiques et procédures internes visées aux paragraphes 3 à 6, comprenant tous les éléments suivants:\n\n| a) | des audits réguliers de toutes les phases critiques de la titrisation; |\n| --- | --- |\n\n| b) | une vérification de la séparation des tâches entre l’évaluation, visée au paragraphe 4, de l’initiateur, du vendeur et de l’organe de gestion, d’une part, et l’évaluation du débiteur, d’autre part; |\n| --- | --- |\n\n| c) | une vérification de la séparation des tâches respectives entre l’évaluation, visée au paragraphe 4, de l’initiateur, du vendeur et de l’organe de gestion et l’audit sur place de l’initiateur, du vendeur et de l’organe de gestion; |\n| --- | --- |\n\n| d) | un examen des opérations de post-marché de l’établissement, notamment du point de vue des qualifications et de l’expérience du personnel, du niveau des effectifs et des systèmes de support informatique. |\n| --- | --- |",
+      "text_sha256": "d16d69050f43b6112ee082be7cfaf055d27aa0659b3d27364cf432b5d0951d4c",
+      "md_span": {
+        "start": 9095,
+        "end": 16636
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Lorsqu’ils affectent des expositions à des échelons ou catégories, les établissements qui calculent KIRB considèrent comme des facteurs de risque potentiels les normes de souscription de l’initiateur ou, si ce dernier a acquis les expositions titrisées auprès du prêteur initial, les normes de souscription du prêteur initial, ainsi que les pratiques de recouvrement et de gestion de l’organe de gestion, à moins que ces établissements n’utilisent, pour quantifier les paramètres de risque associés à ces échelons ou catégories, des segments de calibrage différents pour les différents initiateurs, prêteurs initiaux et organes de gestion.\n\n2. Les établissements qui calculent KIRB peuvent fixer à 50 % la valeur des LGD pour les expositions titrisées éligibles sur la clientèle de détail.\n\n3. Au lieu des valeurs prévues à l’article 161, paragraphe 1, points e) et f), du règlement (UE) no 575/2013, les établissements qui calculent KIRB peuvent fixer les valeurs suivantes de LGD:\n\n| a) | 50 % pour les expositions titrisées éligibles de premier rang autres que sur la clientèle de détail; |\n| --- | --- |\n\n| b) | 100 % pour les expositions titrisées éligibles subordonnées autres que sur la clientèle de détail. |\n| --- | --- |",
+      "text_sha256": "3dc56e00d6f973b8198364aafb4b12469df88b851a5149fb2a4375b0cf017b01",
+      "md_span": {
+        "start": 16669,
+        "end": 17913
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Un établissement qui calcule KIRB peut, pour les expositions titrisées éligibles autres que sur la clientèle de détail, utiliser les normes de quantification des risques applicables aux expositions sur la clientèle de détail prévues dans la troisième partie, titre II, chapitre 3, section 6, du règlement (UE) no 575/2013, dès lors que toutes les conditions suivantes sont remplies:\n\n| a) | l’utilisation des normes de quantification des risques définies pour les expositions sur les entreprises dans la troisième partie, titre II, chapitre 3, section 6, du règlement (UE) no 575/2013 représenterait une contrainte excessive pour l’établissement; |\n| --- | --- |\n\n| b) | les exigences suivantes sont respectées, en lieu et place des exigences visées à l’article 154, paragraphe 5, points a) à d), du règlement (UE) no 575/2013:i)la SSPE ou l’établissement qui calcule KIRB a acheté les expositions titrisées éligibles autres que sur la clientèle de détail à des initiateurs ou vendeurs tiers sans lien avec l’établissement qui calcule KIRB, et l’exposition de la SSPE ou de l’établissement qui calcule KIRB aux débiteurs du panier d’expositions titrisées éligibles n’inclut aucune exposition dont cet établissement est lui-même directement ou indirectement à l’origine;ii)les expositions titrisées éligibles autres que sur la clientèle de détail ont été générées dans des conditions de pleine concurrence entre l’initiateur, ou le vendeur, et le débiteur et ne contiennent donc pas de créances interentreprises ni de créances faisant l’objet d’un compte de contrepartie entre entreprises qui achètent et vendent l’une à l’autre;iii)la SSPE ou l’établissement qui calcule KIRB détient une créance sur l’ensemble ou une partie des revenus générés par les expositions titrisées éligibles autres que sur la clientèle de détail, ou un droit proportionnel sur ces revenus;iv)le panier d’expositions titrisées éligibles est suffisamment diversifié. |\n| --- | --- |\n| i) | la SSPE ou l’établissement qui calcule KIRB a acheté les expositions titrisées éligibles autres que sur la clientèle de détail à des initiateurs ou vendeurs tiers sans lien avec l’établissement qui calcule KIRB, et l’exposition de la SSPE ou de l’établissement qui calcule KIRB aux débiteurs du panier d’expositions titrisées éligibles n’inclut aucune exposition dont cet établissement est lui-même directement ou indirectement à l’origine; |\n| ii) | les expositions titrisées éligibles autres que sur la clientèle de détail ont été générées dans des conditions de pleine concurrence entre l’initiateur, ou le vendeur, et le débiteur et ne contiennent donc pas de créances interentreprises ni de créances faisant l’objet d’un compte de contrepartie entre entreprises qui achètent et vendent l’une à l’autre; |\n| iii) | la SSPE ou l’établissement qui calcule KIRB détient une créance sur l’ensemble ou une partie des revenus générés par les expositions titrisées éligibles autres que sur la clientèle de détail, ou un droit proportionnel sur ces revenus; |\n| iv) | le panier d’expositions titrisées éligibles est suffisamment diversifié. |\n\n2. Aux fins du paragraphe 1, point a), lorsqu’ils évaluent si l’utilisation des normes de quantification des risques définies pour les expositions sur les entreprises dans la troisième partie, titre II, chapitre 3, section 6, du règlement (UE) no 575/2013 représente une contrainte excessive, les établissements prennent en compte tous les facteurs suivants:\n\n| a) | si le fait d’appliquer à des expositions titrisées éligibles autres que sur la clientèle de détail les normes de quantification des risques prévues pour les expositions sur des entreprises a un coût disproportionné; |\n| --- | --- |\n\n| b) | si l’établissement se heurte à des difficultés importantes d’accès aux données pertinentes sur les expositions titrisées et de contrôle de ces données, par rapport à la facilité d’accès aux données relatives aux expositions sur la clientèle de détail et de contrôle de ces données; |\n| --- | --- |\n\n| c) | si la capacité de l’établissement d’intégrer des données externes ou des données de substitution dans ses systèmes existants de gestion des risques et de déclaration est limitée; |\n| --- | --- |\n\n| d) | si le panier d’expositions titrisées auquel sont censées s’appliquer les normes de quantification des risques prévues pour les expositions sur la clientèle de détail présente une granularité suffisante pour justifier le constat de contrainte excessive au regard des facteurs visés aux points a), b) et c); |\n| --- | --- |\n\n| e) | si la taille et la fréquence des expositions de l’établissement sur des titrisations ne lui font pas courir de risque important. |\n| --- | --- |\n\nAux fins du premier alinéa, point a), un établissement peut tenir compte des coûts liés à l’élaboration, pour le calcul de KIRB, d’un modèle interne pour les expositions autres que sur la clientèle de détail, en intégrant un nouveau segment de calibrage dans un segment de calibrage existant, ou en intégrant les données dans ses systèmes existants de gestion des risques et de déclaration.\n\nAux fins du premier alinéa, point d), un panier d’expositions titrisées éligibles est réputé présenter une granularité suffisante lorsque le nombre d’expositions sous-jacentes de la titrisation auxquelles doit s’appliquer le traitement prévu pour les expositions sur la clientèle de détail est supérieur à 100 et que la valeur exposée au risque totale de toutes ces expositions sur un seul et même débiteur du panier ne dépasse pas 2 % de l’encours total des valeurs exposées au risque du panier. Aux fins de ce calcul, les prêts ou contrats de location à un groupe de clients liés qui ont été financés par la SSPE ou par l’établissement qui calcule KIRB sont considérés comme des expositions sur un seul et même débiteur.",
+      "text_sha256": "492c6fa8d72aa310a40d93b4ef5e84d5701e86f7bbec84a5599269e6d6a4ad11",
+      "md_span": {
+        "start": 17946,
+        "end": 23771
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\nAux fins du présent règlement, pour que des expositions titrisées éligibles sur la clientèle de détail puissent se voir appliquer les normes de quantification des risques applicables aux expositions sur la clientèle de détail définies dans la troisième partie, titre II, chapitre 3, section 6, du règlement (UE) no 575/2013, il convient que toutes les exigences suivantes soient respectées, en lieu et place des exigences visées à l’article 154, paragraphe 5, dudit règlement:\n\n| a) | ces expositions titrisées éligibles ont été générées dans des conditions de pleine concurrence entre l’initiateur et le débiteur et ne contiennent donc pas de créances interentreprises ni de créances faisant l’objet d’un compte de contrepartie entre entreprises qui achètent et vendent l’une à l’autre; |\n| --- | --- |\n\n| b) | la SSPE ou l’établissement qui calcule KIRB détient une créance sur l’ensemble des revenus générés par ces expositions titrisées éligibles, ou un droit proportionnel sur ces revenus; |\n| --- | --- |\n\n| c) | le panier d’expositions titrisées éligibles est suffisamment diversifié. |\n| --- | --- |",
+      "text_sha256": "2c20612635518e594afdc79dc3b5e6ed56a2f28b715c5c73dc58185725c55f46",
+      "md_span": {
+        "start": 23806,
+        "end": 24925
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nAux fins de l’article 9, paragraphe 1, points b) i) et b) ii), de l’article 9, paragraphe 2, point d), et de l’article 10, point a), les établissements qui calculent KIRB évaluent, à la lumière des connaissances dont ils disposent, les relations entre les parties, le respect de l’exigence de pleine concurrence ou les liens entre clients visés auxdits points, selon le cas, en se fondant sur l’un des types d’informations suivants:\n\n| a) | les informations sur les débiteurs obtenues de l’initiateur, du vendeur ou du prêteur initial au moment de l’initiation des expositions; |\n| --- | --- |\n\n| b) | les informations obtenues de l’organe de gestion dans le cadre de sa gestion des expositions ou de sa procédure de gestion des risques. |\n| --- | --- |",
+      "text_sha256": "87d41cd324769d31d83f2b0baccd92b5229f5488540b4bc0ebbf3cfc4ea64bb4",
+      "md_span": {
+        "start": 24960,
+        "end": 25725
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Pour les expositions titrisées éligibles sur la clientèle de détail qui satisfont aux exigences de l’article 10, les établissements qui calculent KIRB calculent les montants d’exposition pondérés pour risque de crédit conformément à l’article 154 et, le cas échéant, à l’article 156, point b), du règlement (UE) no 575/2013.\n\n2. Pour les expositions titrisées éligibles sur la clientèle de détail qui ne satisfont pas aux exigences de l’article 10, les établissements qui calculent KIRB calculent les montants d’exposition pondérés pour risque de crédit conformément à l’article 153 et, le cas échéant, à l’article 156, point b), du règlement (UE) no 575/2013.\n\n3. Pour calculer KIRB pour des expositions titrisées éligibles autres que sur la clientèle de détail, que soient remplies ou non les conditions, visées à l’article 9 du présent règlement, d’une application à ces expositions des normes de quantification du risque prévues pour les expositions sur la clientèle de détail, les établissements calculent les montants d’exposition pondérés pour risque de crédit conformément à l’article 153 et, le cas échéant, à l’article 156, point b), du règlement (UE) no 575/2013.",
+      "text_sha256": "68fd66a9dd48288d3fa1d77a196ec5cb31abe4af5c62bce20a5927e85251d102",
+      "md_span": {
+        "start": 25760,
+        "end": 26949
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. Si les expositions titrisées éligibles et les débiteurs de ces expositions n’étaient pas des expositions ou des débiteurs de l’établissement qui calcule KIRB avant le transfert de ces expositions à la SSPE ou à l’établissement qui calcule KIRB, en remplacement de l’exigence de représentativité des données utilisées pour construire des modèles définie à l’article 174, point c), du règlement (UE) no 575/2013, la représentativité des données est évaluée par rapport aux expositions titrisées éligibles.\n\n2. En remplacement de l’exigence définie à l’article 180, paragraphe 2, point c), première phrase, du règlement (UE) no 575/2013, les établissements considèrent les données relatives aux expositions titrisées éligibles, les données du portefeuille de l’initiateur ou du prêteur initial, fondé sur des normes de souscription similaires, dont elles ont été extraites et les données relatives aux politiques de collecte et de recouvrement adoptées par l’organe de gestion, comme la principale source d’information pour l’estimation des paramètres de risque nécessaires à l’élaboration du modèle, pour la quantification des paramètres de risque et pour l’application du modèle interne au calcul de KIRB.",
+      "text_sha256": "468963ef85c260d4164bd50c2f7dab55954635f15ce7617fdd2800a8437b52d2",
+      "md_span": {
+        "start": 26984,
+        "end": 28203
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. Aux fins de l’élaboration du modèle, de la quantification des paramètres de risque et de l’application du modèle interne pour le calcul de KIRB, les établissements qui calculent KIRB peuvent, pour compléter les données visées à l’article 13, paragraphe 2, utiliser comme donnée de substitution toute donnée pertinente autre que les données visées audit article.\n\n2. Les données de substitution visées au paragraphe 1 peuvent être des données internes, externes ou centralisées au sens de la troisième partie, titre II, chapitre 3, section 6, du règlement (UE) no 575/2013.\n\n3. Lorsque les établissements qui calculent KIRB ont recours à des données de substitution dans le cadre de l’estimation des paramètres de risque, les exigences de l’article 179, paragraphe 1, point f), du règlement (UE) no 575/2013 relatives à la prudence s’appliquent également lorsque ces établissements utilisent des données de substitution pour l’élaboration du modèle, la quantification des paramètres de risque et l’application du modèle interne pour le calcul de KIRB.\n\n4. Les établissements calculant KIRB qui utilisent des données de substitution évaluent la représentativité de ces données de substitution par rapport aux données visées à l’article 13, paragraphe 2, et apportent à ces données de substitution les ajustements nécessaires pour que leur qualité corresponde à celle des données visées à l’article 13, paragraphe 2.\n\n5. Lorsqu’il n’est pas possible de remédier à la différence de qualité en apportant des ajustements aux données de substitution, les établissements qui calculent KIRB adoptent une marge de prudence appropriée dans leur estimation des paramètres de risque conformément à l’article 179, paragraphe 1, point f), du règlement (UE) no 575/2013.\n\n6. Les établissements qui calculent KIRB peuvent, pour l’élaboration du modèle, la quantification des paramètres de risque et l’application du modèle interne pour le calcul de KIRB, utiliser les données statiques et dynamiques relatives aux performances passées en matière de défaut et de perte mises à disposition par les initiateurs et les sponsors conformément à l’article 22, à l’article 24, paragraphe 14, et à l’article 26 quinquies, paragraphe 1, du règlement (UE) 2017/2402, que ces données satisfassent ou non aux exigences relatives aux titrisations simples, transparentes et standardisées énoncées dans ledit règlement.",
+      "text_sha256": "b81074fc565ac41d3e174a931ec39b92222255d865d21862bad91a8581e67b15",
+      "md_span": {
+        "start": 28238,
+        "end": 30639
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Le calibrage des paramètres de risque est fondé sur la définition du défaut utilisée par l’établissement qui est applicable au modèle interne qu’il utilise pour calculer KIRB conformément à l’article 255, paragraphe 4, du règlement (UE) no 575/2013. Les établissements calculant KIRB qui utilisent des données externes ou des données de substitution pour le calibrage des paramètres de risque respectent toutes les exigences suivantes:\n\n| a) | ils veillent à ce que la définition du défaut utilisée dans ces données concorde avec l’article 178, paragraphe 1, du règlement (UE) no 575/2013; |\n| --- | --- |\n\n| b) | ils veillent à ce que la définition du défaut utilisée dans ces données concorde avec la définition du défaut appliquée par l’établissement qui calcule KIRB conformément à l’article 255, paragraphe 4, du règlement (UE) no 575/2013 pour le portefeuille pertinent d’expositions titrisées éligibles, y compris pour l’ensemble des éléments suivants:i)le comptage des jours d’arriérés et le nombre de jours d’arriéré qui déclenche le défaut;ii)la structure et le niveau du seuil d’importance significative de l’arriéré sur les obligations de crédit;iii)la définition de la restructuration en urgence qui déclenche le défaut;iv)le type et le niveau des ajustements pour risque de crédit spécifique déclenchant le défaut;v)les critères de retour au statut «non en défaut»; |\n| --- | --- |\n| i) | le comptage des jours d’arriérés et le nombre de jours d’arriéré qui déclenche le défaut; |\n| ii) | la structure et le niveau du seuil d’importance significative de l’arriéré sur les obligations de crédit; |\n| iii) | la définition de la restructuration en urgence qui déclenche le défaut; |\n| iv) | le type et le niveau des ajustements pour risque de crédit spécifique déclenchant le défaut; |\n| v) | les critères de retour au statut «non en défaut»; |\n\n| c) | ils documentent les sources des données, la définition du défaut utilisée dans ces données, l’analyse effectuée et toutes les différences identifiées. |\n| --- | --- |\n\n2. Pour chaque différence dans la définition du défaut qui a été identifiée à l’issue de l’évaluation de la concordance de la définition du défaut visée au paragraphe 1, les établissements qui calculent KIRB:\n\n| a) | évaluent si l’ajustement par rapport à la définition interne du défaut entraînerait une augmentation ou une diminution du taux de défaut, ou si cela est impossible à déterminer; |\n| --- | --- |\n\n| b) | en fonction du résultat de l’évaluation visée au point a), soit ajustent les données en conséquence, soit sont en mesure de démontrer que la différence est négligeable pour ce qui est de son incidence sur tous les paramètres de risque et exigences de fonds propres, selon le cas. |\n| --- | --- |\n\n3. En ce qui concerne la totalité des différences dans la définition du défaut qui ont été identifiées à l’issue de l’évaluation visée au paragraphe 1, les établissements qui calculent KIRB parviennent, en tenant compte des ajustements effectués conformément au paragraphe 2, point b), à un large degré d’équivalence avec la définition interne du défaut utilisée dans le modèle interne servant au calcul de KIRB, y compris, si possible, en comparant le taux de défaut dans les données internes sur un type pertinent d’expositions avec celui des données externes ou les données de substitution.\n\n4. Lorsque l’évaluation visée au paragraphe 1 identifie des différences dans la définition du défaut qui ne sont pas négligeables mais auxquelles il n’est pas possible de remédier en ajustant les données, les établissements qui calculent KIRB adoptent une marge de prudence appropriée dans leur estimation des paramètres de risque, conformément à l’article 179, paragraphe 1, point f), du règlement (UE) no 575/2013. Dans ce cas, les établissements qui calculent KIRB veillent à ce que cette marge de prudence supplémentaire reflète l’importance des différences restantes dans la définition du défaut ainsi que leur incidence possible sur tous les paramètres de risque.",
+      "text_sha256": "9a3fe31fff0c11f264639b88e28d89facc48b01a65e9a25795bbb2bb89e049a2",
+      "md_span": {
+        "start": 30674,
+        "end": 34701
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32024r1780:2024-03-13#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "0e109c8aa01017614981888320dd1fd9a00652f8252e9a6dd89464b3aa8835fa",
+      "md_span": {
+        "start": 34736,
+        "end": 34878
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

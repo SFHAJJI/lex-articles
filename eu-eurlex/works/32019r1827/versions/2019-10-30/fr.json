@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32019r1827:2019-10-30",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2019/1827 of 30 October 2019 amending Directive 2014/23/EU",
+  "valid_from": "2019-10-30",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32019r1827/versions/2019-10-30/fr.xml",
+    "sha256": "0055e38fe64799e4105da4a3ed40763c424cfb97f272e62c74d348cf6f314ae6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R1827"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32019r1827:2019-10-30#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nÀ l’article 8, paragraphe 1, de la directive 2014/23/UE, «5 548 000 EUR» est remplacé par «5 350 000 EUR».",
+      "text_sha256": "b9b646bb676b992bacc11a3f6cb3ddb07a85fc486802aa462c69c476eddca5ba",
+      "md_span": {
+        "start": 640,
+        "end": 763
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32019r1827:2019-10-30#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 1er janvier 2020.",
+      "text_sha256": "ad3a33eee28f141691d7b76cc71023fa16df3dbe4066fd35fcd12351ee9532a7",
+      "md_span": {
+        "start": 796,
+        "end": 986
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32020r2244:2020-12-17",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2020/2244 of 17 December 2020 laying down rules for the application of Directive (EU) 2017/1132",
+  "valid_from": "2020-12-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32020r2244/versions/2020-12-17/en.xml",
+    "sha256": "199617f382314605e0f47dcc8c62889a08dcb64bfc7ec8dfea3f0c22c30ef251",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R2244"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32020r2244:2020-12-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nThe technical specifications and procedures for the system of interconnection of registers referred to in Article 22(2) of Directive (EU) 2017/1132 are set out in the Annex.",
+      "text_sha256": "831fcc6832eae1575a5d714ac002d6b02b0d9944680d44f599eac0ef3023d8e3",
+      "md_span": {
+        "start": 680,
+        "end": 864
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32020r2244:2020-12-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nImplementing Regulation (EU) 2015/884 is repealed.\n\nReferences to the repealed Implementing Regulation shall be construed as references to this Regulation.",
+      "text_sha256": "5c1a6ccb88b72777d8073c652e2cff82f4a744395a2d9b8a63c1d3717096384d",
+      "md_span": {
+        "start": 897,
+        "end": 1063
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32020r2244:2020-12-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "c8a7c928af14f1daeeae6193ae2f7f93ab11f41fab4e56ce01abe347c5ac50ab",
+      "md_span": {
+        "start": 1096,
+        "end": 1247
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

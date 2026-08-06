@@ -2,30 +2,48 @@
   "lex_work_id": "eu-eurlex:32014r0910",
   "title": "eIDAS — Regulation (EU) No\u00A0910/2014",
   "languages": [
-    "en"
+    "en",
+    "fr"
   ],
   "versions": [
+    {
+      "valid_from": "2014-07-23",
+      "valid_to": "2014-09-16",
+      "language": "en",
+      "provisions": 52
+    },
+    {
+      "valid_from": "2014-07-23",
+      "valid_to": "2014-09-16",
+      "language": "fr",
+      "provisions": 52
+    },
     {
       "valid_from": "2024-05-20",
       "valid_to": "2024-10-17",
       "language": "en",
-      "provisions": 92
+      "provisions": 83
+    },
+    {
+      "valid_from": "2024-05-20",
+      "valid_to": "2024-10-17",
+      "language": "fr",
+      "provisions": 83
     },
     {
       "valid_from": "2024-10-18",
       "valid_to": null,
       "language": "en",
-      "provisions": 92
+      "provisions": 82
+    },
+    {
+      "valid_from": "2024-10-18",
+      "valid_to": null,
+      "language": "fr",
+      "provisions": 82
     }
   ],
   "anchors": [
-    "anx_i",
-    "anx_ii",
-    "anx_iii",
-    "anx_iv",
-    "anx_v",
-    "anx_vi",
-    "anx_vii",
     "art_1",
     "art_10",
     "art_11",

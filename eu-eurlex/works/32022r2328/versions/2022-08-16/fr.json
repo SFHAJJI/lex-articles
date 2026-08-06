@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32022r2328:2022-08-16",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2022/2328 of 16\u00A0August 2022 supplementing Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2022-08-16",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32022r2328/versions/2022-08-16/fr.xml",
+    "sha256": "6a8f76d4391ce0c198168ec373958e0d63437030d07ef62a7a39a0c4e1201da6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2328"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32022r2328:2022-08-16#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe risque de longévité, le risque météorologique, les catastrophes naturelles et la volatilité effective future sont considérés comme des sous-jacents exotiques aux fins de l’article 325 duovicies, paragraphe 2, point a), du règlement (UE) no 575/2013.",
+      "text_sha256": "75e176d080804652bf36639cf275e02b9753fc3950cc9d1683c02e8d9ac0dc6c",
+      "md_span": {
+        "start": 651,
+        "end": 920
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32022r2328:2022-08-16#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes instruments énumérés à l’annexe du présent règlement sont considérés comme des instruments remplissant les conditions énoncées à l’article 325 duovicies, paragraphe 2, du règlement (UE) no 575/2013 et constituant des instruments assortis de risques résiduels.",
+      "text_sha256": "5e4532e896e0e1be166a145600db4b57af9d0451724772187508544beb48ed1f",
+      "md_span": {
+        "start": 953,
+        "end": 1227
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32022r2328:2022-08-16#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nUn instrument n’est pas considéré comme satisfaisant aux conditions énoncées à l’article 325 duovicies, paragraphe 2, points b) i) et ii), du règlement (UE) no 575/2013 au seul motif qu’il est assorti d’un ou plusieurs des risques suivants:\n\n| a) | le risque découlant de transactions pour lesquelles l’obligation de livraison peut être remplie au sein d’une série d’instruments livrables et pour lesquelles la contrepartie a la possibilité de livrer les instruments les moins chers; |\n| --- | --- |\n\n| b) | le risque de variation de la volatilité implicite d’un instrument à caractère optionnel par rapport à la volatilité implicite d’autres instruments à caractère optionnel ayant le même sous-jacent et la même échéance, mais une liquidité différente; |\n| --- | --- |\n\n| c) | le risque de corrélation découlant d’une option sur indice, lorsque l’indice remplit les conditions énoncées à l’article 325 decies, paragraphe 3, du règlement (UE) no 575/2013; |\n| --- | --- |\n\n| d) | le risque de corrélation découlant d’une option dans un organisme de placement collectif suivant un indice de référence, lorsque le suivi remplit les conditions énoncées à l’article 325 undecies, paragraphe 2, du règlement (UE) no 575/2013 et que l’indice remplit les conditions énoncées à l’article 325 decies, paragraphe 3, dudit règlement; |\n| --- | --- |\n\n| e) | le risque de dividende découlant d’un instrument dérivé dont le sous-jacent ne consiste pas uniquement en des paiements de dividendes. |\n| --- | --- |",
+      "text_sha256": "898c624f7b4fe3cd601821bd7c67d19341d22c3f78dd336b186f074172a2eba9",
+      "md_span": {
+        "start": 1260,
+        "end": 2769
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32022r2328:2022-08-16#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "b8c1b172e87d9f3d25fa7408c473a0c09567665b259934334f0182acb0dfdc95",
+      "md_span": {
+        "start": 2802,
+        "end": 2943
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

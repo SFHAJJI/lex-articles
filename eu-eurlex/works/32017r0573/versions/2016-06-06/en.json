@@ -1,0 +1,128 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0573:2016-06-06",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2017/573 of 6 June 2016 supplementing Directive 2014/65/EU",
+  "valid_from": "2016-06-06",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0573/versions/2016-06-06/en.xml",
+    "sha256": "ff88018e88f0372af42538a21b1e0dda37ef141f42bd066fac8f723a86fd4fa9",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0573"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0573:2016-06-06#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. Trading venues providing co-location services shall, within the limits of the space, power, cooling and similar facilities available, ensure that such services are provided in a fair and non-discriminatory manner as laid down in paragraphs 2, 3 and 4 in relation to the following:\n\n| (a) | data centres they own and manage; |\n| --- | --- |\n\n| (b) | data centres they own which are managed by a third party selected by them; |\n| --- | --- |\n\n| (c) | data centres that are owned and managed by a third party with which the trading venue has an outsourcing arrangement for the organisation of the execution infrastructure of the trading venue as well as of the proximity access to it; |\n| --- | --- |\n\n| (d) | proximity hosting services owned and managed by a third party with a contractual arrangement with a trading venue. |\n| --- | --- |\n\n2. Trading venues shall provide all users which have subscribed to the same co-location services access to their network under the same conditions, including as regards space, power, cooling, cable length, access to data, market connectivity, technology, technical support and messaging types.\n\n3. Trading venues shall take all reasonable steps to monitor all connections and latency measurements to ensure the non-discriminatory treatment of all users of co-location services that have the same type of latency access.\n\n4. Trading venues shall make available individual co-location services, without any requirement to purchase bundled services.",
+      "text_sha256": "98621990d10723d51f6aab7692a59dd17633ff9ebd0419ade391014982bac5a4",
+      "md_span": {
+        "start": 640,
+        "end": 2139
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0573:2016-06-06#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nTrading venues shall publish the following information on their co-location services on their websites:\n\n| (a) | a list of services provided providing information about space, power, cooling, cable length, access to data, market connectivity, technology, technical support, message types, telecommunications and related products and services; |\n| --- | --- |\n\n| (b) | the fee structure for each service as set out in Article 3(2); |\n| --- | --- |\n\n| (c) | the conditions for accessing the service, including IT requirements and operational arrangements; |\n| --- | --- |\n\n| (d) | the different types of latency of access available; |\n| --- | --- |\n\n| (e) | the procedure to allocate co-location space; |\n| --- | --- |\n\n| (f) | the requirements on third party providers of co-location services, where applicable. |\n| --- | --- |",
+      "text_sha256": "6114f329f15e76cbf266c80e0434c4584dc770bedb2adbc6397758121bdf1207",
+      "md_span": {
+        "start": 2172,
+        "end": 3009
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0573:2016-06-06#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Trading venues shall charge the same fee and provide the same conditions to all users of the same type of services based on objective criteria. Trading venues shall only establish different fee structures for the same type of services where those fee structures are based on non-discriminatory, measurable and objective criteria relating to:\n\n| (a) | the total volume traded, the numbers of trades or cumulated trading fees; |\n| --- | --- |\n\n| (b) | the services or packages of services provided by the trading venue; |\n| --- | --- |\n\n| (c) | the scope or field of use demanded; |\n| --- | --- |\n\n| (d) | the provision of liquidity in accordance with Article 48(2) of Directive 2014/65/EU or in a capacity of being a market maker as defined in Article 4(1)(7) of Directive 2014/65/EU; |\n| --- | --- |\n\n2. Trading venues shall ensure that their fee structure is sufficiently granular to allow users to predict the payable fees on the basis of at least the following elements:\n\n| (a) | chargeable services, including the activity which will triggers the fee; |\n| --- | --- |\n\n| (b) | the fee for each service, stating whether the fee is fixed or variable; |\n| --- | --- |\n\n| (c) | rebates, incentives or disincentives. |\n| --- | --- |\n\n3. Trading venues shall make individual services available without being bundled with other services.",
+      "text_sha256": "6d91423d762088ad0411a99e133a687ccd86103d23c1a6bae80225d8f0857887",
+      "md_span": {
+        "start": 3042,
+        "end": 4390
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0573:2016-06-06#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nTrading venues shall publish the objective criteria for the establishment of their fees and fee structures and other conditions provided for in Article 3, together with execution fees, ancillary fees, rebates, incentives and disincentives in one comprehensive and publicly accessible document on their website.",
+      "text_sha256": "614ff9357e0597a3befb7b0248c399851ae39e46ce0dd890bd18dac7c604f368",
+      "md_span": {
+        "start": 4423,
+        "end": 4744
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0573:2016-06-06#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nTrading venues shall not offer their members, participants or clients a fee structure whereby, once their trades exceed a given threshold, all of their trades benefit from a lower fee for a set period, including those trades that were executed prior to reaching that threshold.",
+      "text_sha256": "26d7806420a4fbce1c8aa30cd2f71080c01b3ad795eb1f6baa454922fa1857a6",
+      "md_span": {
+        "start": 4777,
+        "end": 5065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0573:2016-06-06#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply fom 3 January 2018.",
+      "text_sha256": "03de3c34fcd8113c85fc0913c2b972320d77beeb7779f6db57598ba65311bbed",
+      "md_span": {
+        "start": 5098,
+        "end": 5285
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

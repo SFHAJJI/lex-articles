@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014l0023r(03):2018-03-26",
+  "language": "en",
+  "title": "Corrigendum to Directive 2014/23/EU",
+  "valid_from": "2018-03-26",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014l0023r(03)/versions/2018-03-26/en.xml",
+    "sha256": "42ff8d689e268b659dce011c5ab944ccedd76ce5b59451c9ff94a223cadc9f90",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32014L0023R%2803%29"
+  },
+  "generator": {
+    "profile": "html-eu-tolerant/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "eu-eurlex:32014l0023r(03):2018-03-26#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "26.3.2018 EN Official Journal of the European Union L 82/17 Corrigendum to Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contracts ( Official Journal of the European Union L 94 of 28 March 2014 ) On page 56 and on page 57, Annex IV, table, first row (heading): for: ‘Description CPV Code’, read: ‘CPV Code Description’.",
+      "text_sha256": "d2e34181c100efc53ae9c46ade1977281f4435081f046d51a20d1ca0d78f28a7",
+      "md_span": {
+        "start": 607,
+        "end": 994
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: document-level fallback; publisher markup exposes no provision boundary"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024l1405:2024-03-14",
+  "language": "fr",
+  "title": "Commission Delegated Directive (EU) 2024/1405 of 14\u00A0March 2024 amending Annex\u00A0IX to Directive (EU)\u00A02018/2001",
+  "valid_from": "2024-03-14",
+  "valid_to": "2024-05-16",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024l1405/versions/2024-03-14/fr.xml",
+    "sha256": "ad4919212de17320ae1b646dd658e953c29ceaf0e03b68326ebb92afb2d2a3d2",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024L1405"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024l1405:2024-03-14#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nL’annexe IX de la directive (UE) 2018/2001 est modifiée conformément à l’annexe de la présente directive.",
+      "text_sha256": "dda36eca9aa598868fed92015749a16d4d98bd99d2c6295d6a9d15db4f1c1fa1",
+      "md_span": {
+        "start": 659,
+        "end": 781
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024l1405:2024-03-14#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Les États membres mettent en vigueur les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive au plus tard le. Ils communiquent immédiatement à la Commission le texte de ces dispositions.\n\nLorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.\n\n2. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine couvert par la présente directive.",
+      "text_sha256": "206c460c20e02668789d552d25e84ec008bb8c1b90c06db2ad8bc2c728c84fff",
+      "md_span": {
+        "start": 814,
+        "end": 1515
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32024l1405:2024-03-14#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLa présente directive entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "7accfa9a5f3e32e2444468019af47d8c0d333fe299ae34f6bbd9ac1ef2ba5ff4",
+      "md_span": {
+        "start": 1548,
+        "end": 1690
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32024l1405:2024-03-14#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nLes États membres sont destinataires de la présente directive.",
+      "text_sha256": "0fc712c9ed5879dbad5bea3e7474f713eea34cda4ea895cc231207fc9b7290bb",
+      "md_span": {
+        "start": 1723,
+        "end": 1796
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

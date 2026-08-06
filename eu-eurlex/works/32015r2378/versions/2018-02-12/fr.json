@@ -1,0 +1,384 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r2378:2018-02-12",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2015/2378 of 15 December 2015 laying down detailed…",
+  "valid_from": "2018-02-12",
+  "valid_to": "2020-06-30",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r2378/versions/2018-02-12/fr.fmx4/CL2015R2378FR0030010.0001.xml",
+    "sha256": "61b0003522484b426d29b2667f7fdcee29ed0e538f4a2ceb2384455abef2f82d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02015R2378-20180212"
+  },
+  "generator": {
+    "profile": "fmx4-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": "Formulaires types pour l'échange sur demande, l'échange spontané, les notifications et les retours d'informations",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** En ce qui concerne les formulaires à utiliser, on entend par «champ», l'emplacement sur un formulaire dans lequel les informations à échanger au titre de la directive 2011/16/UE peuvent être consignées.\n\n**2.** Le formulaire à utiliser pour les demandes d'informations et d'enquêtes administratives introduites en vertu de l'article 5 de la directive 2011/16/UE ainsi que pour les réponses correspondantes, les accusés de réception, les demandes d'autres renseignements de caractère général et les déclarations d'incapacité ou de refus au titre de l'article 7 de ladite directive est conforme à l'annexe I du présent règlement.\n\n**3.** Le formulaire à utiliser pour les informations échangées spontanément et l'accusé de réception les concernant au titre des articles 9 et 10 de la directive 2011/16/UE est conforme à l'annexe II du présent règlement.\n\n**4.** Le formulaire à utiliser pour les demandes de notification administrative au titre de l'article 13, paragraphes 1 et 2, de la directive 2011/16/UE et les réponses à ces demandes au titre de l'article 13, paragraphe 3, de ladite directive est conforme à l'annexe III du présent règlement.\n\n**5.** Le formulaire à utiliser pour les retours d'informations au titre de l'article 14, paragraphe 1, de la directive 2011/16/UE est conforme à l'annexe IV du présent règlement.",
+      "text_sha256": "25a54df1e4eb3fcdee5a34a73b689cb2d3bd64b92afc52751a6c7df4d6d10328",
+      "md_span": {
+        "start": 782,
+        "end": 2117
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Formats informatiques pour l'échange automatique et obligatoire d'informations",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Le format informatique à utiliser pour l'échange automatique et obligatoire d'informations au titre de l'article 8, paragraphe 1, de la directive 2011/16/UE est conforme au format figurant à l'annexe V du présent règlement.\n\n**2.** Le format informatique à utiliser pour l'échange automatique et obligatoire d'informations au titre de l'article 8, paragraphe 3 *bis*, de la directive 2011/16/UE est conforme au format figurant à l'annexe VI du présent règlement.",
+      "text_sha256": "5ba282c1fae692b7b7daddbf4e0a1d1d251ae652f14281e0a4d6199f5f556ecf",
+      "md_span": {
+        "start": 2235,
+        "end": 2704
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2_bis",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#art_2_bis",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2 bis",
+      "heading": "Formulaires types, y compris régime linguistique applicable, pour l'échange automatique et obligatoire d'informations sur les décisions fiscales anticipées en matière transfrontière et les accords préalables en matière de prix de transfert",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** En ce qui concerne les formulaires à utiliser, on entend par «élément» et «champ», l'emplacement sur un formulaire où les informations à échanger au titre de la directive 2011/16/UE peuvent être consignées.\n\n**2.** Le formulaire à utiliser pour l'échange automatique et obligatoire d'informations sur les décisions fiscales anticipées en matière transfrontière et les accords préalables en matière de prix de transfert en application de l'article 8 *bis* de la directive 2011/16/UE est conforme à l'annexe VII du présent règlement.\n\n**3.** Les éléments essentiels visés à l'article 20, paragraphe 5, de la directive 2011/16/UE sont les éléments énumérés à l'article 8 *bis*, paragraphe 6, points b), h) et i), de ladite directive; ces éléments essentiels sont également transmis en langue anglaise.",
+      "text_sha256": "ea38a6eb6caec93f69add30b442cf75b5fe8b9098b562b2c2008b8241ce6b3a4",
+      "md_span": {
+        "start": 2991,
+        "end": 3796
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2_ter",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#art_2_ter",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2 ter",
+      "heading": "Régime linguistique applicable à l'échange automatique et obligatoire d'informations relatives à la déclaration pays par pays",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les éléments essentiels visés à l'article 20, paragraphe 6, de la directive 2011/16/UE sont les informations ou explications figurant dans le tableau 3 de l'annexe III, section III, de ladite directive; ces éléments essentiels sont également transmis en langue anglaise, sauf si l'utilisation d'une autre langue officielle de l'Union a fait l'objet d'un accord entre l'État membre qui transmet les informations et tous les autres États membres auxquels les informations sont transmises en application de l'article 8 *bis bis*, paragraphe 2, de la directive 2011/16/UE.",
+      "text_sha256": "ff19d788713bc9521ba7643c590e808417c084e125f50779882f8edc192d55f6",
+      "md_span": {
+        "start": 3969,
+        "end": 4537
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2_quater",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#art_2_quater",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2 quater",
+      "heading": "Formulaire à utiliser et modalités de communication de l'évaluation annuelle",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Le formulaire à utiliser pour la communication de l'évaluation annuelle de l'efficacité de l'échange automatique d'informations et des résultats pratiques obtenus, conformément à l'article 23, paragraphe 3, de la directive 2011/16/UE, figure à l'annexe VIII du présent règlement.\n\n**2.** Avant le 1^er avril de chaque année, les États membres transmettent par voie électronique à la Commission l'évaluation annuelle au moyen du formulaire visé au paragraphe 1. L'évaluation couvre l'année civile qui précède.",
+      "text_sha256": "3975bb5fb51ed7bcd432c8f5420b1be772b1243393ce920dddea034255e7d5d6",
+      "md_span": {
+        "start": 4667,
+        "end": 5182
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2_quinquies",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#art_2_quinquies",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2 quinquies",
+      "heading": "Liste des données statistiques",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** La liste des données statistiques requises, conformément à l'article 23, paragraphe 4, de la directive 2011/16/UE, pour toutes les formes de coopération administrative autres que l'échange automatique et obligatoire d'informations figure à l'annexe IX du présent règlement.\n\nLa liste des données statistiques requises pour l'échange automatique et obligatoire d'informations, au titre de l'article 8, paragraphe 1, de la directive 2011/16/UE, figure à l'annexe X du présent règlement.\n\nLa liste des données statistiques requises pour l'échange automatique et obligatoire d'informations, au titre de l'article 8, paragraphe 3 *bis*, de la directive 2011/16/UE, figure à l'annexe XI du présent règlement.\n\nLa liste des données statistiques requises pour l'échange automatique et obligatoire d'informations, au titre de l'article 8 *bis bis*, de la directive 2011/16/UE, figure à l'annexe XII du présent règlement.\n\n**2.** Avant le 1^er avril de chaque année, les États membres communiquent à la Commission par voie électronique les données statistiques relatives à toutes les formes de coopération administrative autres que l'échange automatique et obligatoire d'informations, conformément à la liste figurant à l'annexe IX, en ce qui concerne l'année civile qui précède.\n\n**3.** Avant le 1^er novembre de chaque année, les États membres communiquent à la Commission par voie électronique les données statistiques relatives à l'échange automatique et obligatoire d'informations conformément à la liste figurant à l'annexe X, à l'annexe XI et à l'annexe XII.",
+      "text_sha256": "dd304b31ab0e5bd0d13c363cc8768b89d92dd06a7072e7f1678517632f024ed2",
+      "md_span": {
+        "start": 5272,
+        "end": 6834
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Modalités pratiques concernant l'utilisation du réseau CCN",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "**1.** Les rapports, attestations et autres documents mentionnés dans les informations communiquées au titre de la directive 2011/16/UE peuvent être transmis par d'autres moyens de communication que le réseau CCN.\n\n**2.** Lorsque les informations visées dans la directive 2011/16/UE ne sont pas échangées par voie électronique au moyen du réseau CCN, et sauf disposition contraire convenue bilatéralement, les informations sont accompagnées d'une lettre de couverture précisant les informations communiquées et dûment signée par l'autorité compétente qui transmet les informations.",
+      "text_sha256": "af16c85db9e40f6f8ef1bfdad99d95c117f699cfdb909cbbd2229b3312d6cd42",
+      "md_span": {
+        "start": 6932,
+        "end": 7513
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": "Abrogation",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le règlement d'exécution (UE) n^o 1156/2012 est abrogé avec effet au 1^er janvier 2016.\n\nLes références au règlement d'exécution abrogé s'entendent comme faites au présent règlement.",
+      "text_sha256": "cfbc76431993c04bf0f4938b6e3806cac9fac9d47a4eb6169c5a076dbb1e7ded",
+      "md_span": {
+        "start": 7563,
+        "end": 7745
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": "Entrée en vigueur et application",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le troisième jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.\n\nIl est applicable à partir du 1^er janvier 2016.",
+      "text_sha256": "f8371b27142896160f3694c06f9b4689a578697da41680699d3224dca72bd9c0",
+      "md_span": {
+        "start": 7817,
+        "end": 7999
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_i",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#annexe_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le formulaire à utiliser pour les demandes d'informations et d'enquêtes administratives introduites en vertu de l'article 5 de la directive 2011/16/UE, ainsi que pour les réponses correspondantes, les accusés de réception, les demandes de renseignements à caractère général et les déclarations d'incapacité ou de refus au titre de l'article 7 de ladite directive comporte les champs suivants:\n\n**Formulaire visé à l'article 1er, paragraphe 2**\n\n- base juridique, base juridique,\n\n- numéro de référence, numéro de référence,\n\n- date, date,\n\n- identité des autorités requérantes et requises, identité des autorités requérantes et requises,\n\n- identité de la personne faisant l'objet d'un contrôle ou d'une enquête, identité de la personne faisant l'objet d'un contrôle ou d'une enquête,\n\n- description générale du cas et, le cas échéant, renseignements spécifiques qui pourraient permettre d'évaluer la pertinence vraisemblable des informations demandées à l'administration et l'application du droit national des États membres en ce qui concerne les taxes et impôts visés à l'article 2 de la directive 2011/16/UE, description générale du cas et, le cas échéant, renseignements spécifiques qui pourraient permettre d'évaluer la pertinence vraisemblable des informations demandées à l'administration et l'application du droit national des États membres en ce qui concerne les taxes et impôts visés à l'article 2 de la directive 2011/16/UE,\n\n- finalité fiscale des informations demandées, finalité fiscale des informations demandées,\n\n- période faisant l'objet de l'enquête, période faisant l'objet de l'enquête,\n\n- nom et adresse de toute personne dont il y a lieu de penser qu'elle est en possession des informations demandées, nom et adresse de toute personne dont il y a lieu de penser qu'elle est en possession des informations demandées,\n\n- respect des obligations juridiques imposées par l'article 16, paragraphe 1, de la directive 2011/16/UE, respect des obligations juridiques imposées par l'article 16, paragraphe 1, de la directive 2011/16/UE,\n\n- respect des obligations juridiques imposées par l'article 17, paragraphe 1, de la directive 2011/16/UE, respect des obligations juridiques imposées par l'article 17, paragraphe 1, de la directive 2011/16/UE,\n\n- demande motivée portant sur une enquête administrative précise et motifs du refus de mener l'enquête administrative précise demandée, demande motivée portant sur une enquête administrative précise et motifs du refus de mener l'enquête administrative précise demandée,\n\n- accusé de réception de la demande d'informations, accusé de réception de la demande d'informations,\n\n- demande d'autres renseignements de caractère général, demande d'autres renseignements de caractère général,\n\n- motifs des déclarations d'incapacité ou de refus concernant la communication d'informations, motifs des déclarations d'incapacité ou de refus concernant la communication d'informations,\n\n- motifs du non-respect du délai de réponse imparti et date pour laquelle l'autorité requise estime pouvoir répondre. motifs du non-respect du délai de réponse imparti et date pour laquelle l'autorité requise estime pouvoir répondre.",
+      "text_sha256": "fb91697bec24321d448309d0c46335b97b5f6969738c954a0008b768c6826347",
+      "md_span": {
+        "start": 8038,
+        "end": 11207
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_ii",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#annexe_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le formulaire à utiliser pour les informations échangées spontanément et l'accusé de réception les concernant au titre, respectivement, des articles 9 et 10 de la directive 2011/16/UE comporte les champs suivants:\n\n**Formulaire visé à l'article 1er, paragraphe 3**\n\n- base juridique, base juridique,\n\n- numéro de référence, numéro de référence,\n\n- date, date,\n\n- identité des autorités expéditrices et réceptrices, identité des autorités expéditrices et réceptrices,\n\n- identité de la personne faisant l'objet de l'échange spontané d'informations, identité de la personne faisant l'objet de l'échange spontané d'informations,\n\n- période couverte par l'échange spontané d'informations, période couverte par l'échange spontané d'informations,\n\n- respect des obligations juridiques imposées par l'article 16, paragraphe 1, de la directive 2011/16/UE, respect des obligations juridiques imposées par l'article 16, paragraphe 1, de la directive 2011/16/UE,\n\n- accusé de réception des informations échangées spontanément. accusé de réception des informations échangées spontanément.",
+      "text_sha256": "dc07f2850e7b7a922461f32f1798fa081bd6c3458cff1213b9d210efc9626c09",
+      "md_span": {
+        "start": 11248,
+        "end": 12324
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_iii",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#annexe_iii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le formulaire à utiliser pour les demandes de notification administrative au titre de l'article 13, paragraphes 1 et 2, de la directive 2011/16/UE et les réponses à ces demandes au titre de l'article 13, paragraphe 3, de ladite directive comporte les champs suivants:\n\n**Formulaire visé à l'article 1er, paragraphe 4**\n\n- base juridique, base juridique,\n\n- numéro de référence, numéro de référence,\n\n- date, date,\n\n- identité des autorités requérantes et requises, identité des autorités requérantes et requises,\n\n- nom et adresse du destinataire de l'acte ou de la décision, nom et adresse du destinataire de l'acte ou de la décision,\n\n- autres informations susceptibles de faciliter l'identification du destinataire, autres informations susceptibles de faciliter l'identification du destinataire,\n\n- objet de l'acte ou de la décision, objet de l'acte ou de la décision,\n\n- réponse de l'autorité requise, conformément à l'article 13, paragraphe 3, de la directive 2011/16/UE, y compris la date de notification de l'acte ou de la décision au destinataire. réponse de l'autorité requise, conformément à l'article 13, paragraphe 3, de la directive 2011/16/UE, y compris la date de notification de l'acte ou de la décision au destinataire.",
+      "text_sha256": "664a9fc3ce3a4c24ef4efe3572c9e753aa62c59d37d650442a6e5281d6d04cf0",
+      "md_span": {
+        "start": 12367,
+        "end": 13603
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_iv",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#annexe_iv",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IV",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le formulaire à utiliser pour les demandes de retour d'informations au titre de l'article 14, paragraphe 1, de la directive 2011/16/UE comporte les champs suivants:\n\n**Formulaire visé à l'article 1er, paragraphe 5**\n\n- numéro de référence, numéro de référence,\n\n- date, date,\n\n- identité de l'autorité compétente qui émet le retour d'informations, identité de l'autorité compétente qui émet le retour d'informations,\n\n- retour d'informations général sur les informations communiquées, retour d'informations général sur les informations communiquées,\n\n- résultats directement liés aux informations communiquées. résultats directement liés aux informations communiquées.",
+      "text_sha256": "61286da5ff220ba9abf7a582edcba49dac7407c43dbd99d512e301ec62707700",
+      "md_span": {
+        "start": 13644,
+        "end": 14312
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_v",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#annexe_v",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE V",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le format informatique à utiliser pour l'échange automatique et obligatoire d'informations en vertu de l'article 8, paragraphe 1, de la directive 2011/16/UE est conforme à la structure arborescente ci-après et contient les catégories d'éléments suivantes:\n\n**Format informatique visé à l'article 2, paragraphe 1**\n\na) en ce qui concerne le message général: [other image: L_2015332FR.01002602.tif]\n\nb) en ce qui concerne le corps destiné à communiquer des informations sur des revenus professionnels ou des jetons de présence: [other image: L_2015332FR.01002603.tif]\n\nc) en ce qui concerne le corps destiné à communiquer des informations sur des pensions: [other image: L_2015332FR.01002701.tif]\n\nd) en ce qui concerne le corps destiné à communiquer des informations sur des produits d'assurance vie: [other image: L_2015332FR.01002702.tif]\n\ne) en ce qui concerne le corps destiné à communiquer des informations relatives à la propriété et aux revenus de biens immobiliers: [other image: L_2015332FR.01002801.tif]\n\nf) en ce qui concerne le corps dans le cas où aucune information ne doit être communiquée concernant une catégorie spécifique: [other image: L_2015332FR.01002802.tif]\n\ng) en ce qui concerne le corps d'un accusé de réception des informations relatives à une catégorie spécifique: [other image: L_2015332FR.01002803.tif]",
+      "text_sha256": "bcfcdf037112d9fbc0eab12817faeeeebd5d0a661c37de58d2258d303eb81ff5",
+      "md_span": {
+        "start": 14351,
+        "end": 15683
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_vi",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#annexe_vi",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VI",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le format informatique à utiliser pour l'échange automatique et obligatoire d'informations en vertu de l'article 8, paragraphe 3 *bis*, de la directive 2011/16/UE est conforme à la structure arborescente ci-après et contient les éléments et attributs suivants:\n\n**Format informatique visé à l'article 2, paragraphe 2**\n\na) en ce qui concerne le message général: [other image: L_2015332FR.01002902.tif] [other image: L_2015332FR.01003001.tif] [other image: L_2015332FR.01003101.tif] [other image: L_2015332FR.01003201.tif] [other image: L_2015332FR.01003301.tif] [other image: L_2015332FR.01003401.tif] [other image: L_2015332FR.01003501.tif] [other image: L_2015332FR.01003601.tif] [other image: L_2015332FR.01003701.tif] [other image: L_2015332FR.01003801.tif] [other image: L_2015332FR.01003901.tif]\n\nb) en ce qui concerne les types communs pour la FATCA et la NCD utilisés dans le message visé au point a) ci-dessus: [other image: L_2015332FR.01004001.tif] [other image: L_2015332FR.01004101.tif] [other image: L_2015332FR.01004201.tif] [other image: L_2015332FR.01004301.tif]\n\nc) en ce qui concerne les types communs pour l'OCDE utilisés dans le message visé au point a) ci-dessus: [other image: L_2015332FR.01004302.tif] [other image: L_2015332FR.01004401.tif] [other image: L_2015332FR.01004501.tif]",
+      "text_sha256": "1605e7aa593605bfa31670200277b38b3e2dc89237c7c7a7b5044ee09a52cd73",
+      "md_span": {
+        "start": 15724,
+        "end": 17029
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_vii",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#annexe_vii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le formulaire à utiliser pour l'échange automatique et obligatoire d'informations sur les décisions fiscales anticipées en matière transfrontière et les accords préalables en matière de prix de transfert en application de l'article 8 *bis* de la directive 2011/16/UE contient, outre les éléments énumérés à l'article 8 *bis*, paragraphe 6, de cette directive, le champ suivant:\n\n**Formulaire visé à l'article 2 bis**\n\na) Référence de la décision.",
+      "text_sha256": "745a84e3cd833d182ceefdd3b457c51864b602ef57610caab75d634f77819194",
+      "md_span": {
+        "start": 17072,
+        "end": 17518
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_viii",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#annexe_viii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VIII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Le formulaire à utiliser pour la communication, conformément à l'article 23, paragraphe 3, de la directive 2011/16/UE, couvre les informations suivantes:\n\n**Formulaire visé à l'article 2 quater**\n\n- identification de l'État membre qui répond au questionnaire, identification de l'État membre qui répond au questionnaire,\n\n- disponibilité des informations dans l'État membre, disponibilité des informations dans l'État membre,\n\n- suivi de l'envoi des retours d'informations bilatéraux annuels, conformément à l'article 14, paragraphe 2, suivi de l'envoi des retours d'informations bilatéraux annuels, conformément à l'article 14, paragraphe 2,\n\n- efficacité de l'échange automatique d'informations: - traitement des informations reçues et principaux problèmes techniques (informatiques) généraux rencontrés, traitement des informations reçues et principaux problèmes techniques (informatiques) généraux rencontrés, - qualité des informations reçues, y compris l'identification des bénéficiaires/parties; problèmes relatifs au contenu des informations reçues et suggestions en la matière, qualité des informations reçues, y compris l'identification des bénéficiaires/parties; problèmes relatifs au contenu des informations reçues et suggestions en la matière, - utilisation des informations et efficacité aux fins du respect des dispositions, y compris l'utilité de principe des informations; l'utilisation actuelle et future des informations; utilisation des informations par domaine fiscal; encouragement de la coopération administrative par l'utilisation des informations reçues, utilisation des informations et efficacité aux fins du respect des dispositions, y compris l'utilité de principe des informations; l'utilisation actuelle et future des informations; utilisation des informations par domaine fiscal; encouragement de la coopération administrative par l'utilisation des informations reçues, - résultats pratiques obtenus, avec mention du résultat global (y compris les projets spéciaux); résultat spécifique des projets spéciaux; coûts administratifs et autres coûts pertinents pour le développement et la mise en œuvre de l'échange automatique d'informations; coûts administratifs des opérations récurrentes d'échange automatique d'informations; autres coûts pertinents pour les opérations liées au respect des obligations fiscales; expériences positives et négatives; principaux aspects sources de litiges et de recours, résultats pratiques obtenus, avec mention du résultat global (y compris les projets spéciaux); résultat spécifique des projets spéciaux; coûts administratifs et autres coûts pertinents pour le développement et la mise en œuvre de l'échange automatique d'informations; coûts administratifs des opérations récurrentes d'échange automatique d'informations; autres coûts pertinents pour les opérations liées au respect des obligations fiscales; expériences positives et négatives; principaux aspects sources de litiges et de recours, - taux de réussite en ce qui concerne l'obligation de communiquer les déclarations pays par pays aux États membres concernés (nombre de déclarations pays par pays reçues des autorités fiscales d'autres États membres/nombre de déclarations pays par pays devant être reçues d'autorités fiscales d'autres États membres), taux de réussite en ce qui concerne l'obligation de communiquer les déclarations pays par pays aux États membres concernés (nombre de déclarations pays par pays reçues des autorités fiscales d'autres États membres/nombre de déclarations pays par pays devant être reçues d'autorités fiscales d'autres États membres), - taux de respect des dispositions par les entités déclarantes en ce qui concerne l'obligation de fournir les déclarations pays par pays (nombre de déclarations pays par pays reçues/nombre de déclarations pays par pays devant être communiquées), taux de respect des dispositions par les entités déclarantes en ce qui concerne l'obligation de fournir les déclarations pays par pays (nombre de déclarations pays par pays reçues/nombre de déclarations pays par pays devant être communiquées), - liste de toutes les juridictions dans lesquelles les entités mères ultimes d'entités déclarantes établies dans l'Union sont résidentes, mais pour lesquelles aucune déclaration pays par pays n'a été déposée ou échangée. liste de toutes les juridictions dans lesquelles les entités mères ultimes d'entités déclarantes établies dans l'Union sont résidentes, mais pour lesquelles aucune déclaration pays par pays n'a été déposée ou échangée. efficacité de l'échange automatique d'informations: - traitement des informations reçues et principaux problèmes techniques (informatiques) généraux rencontrés, traitement des informations reçues et principaux problèmes techniques (informatiques) généraux rencontrés, - qualité des informations reçues, y compris l'identification des bénéficiaires/parties; problèmes relatifs au contenu des informations reçues et suggestions en la matière, qualité des informations reçues, y compris l'identification des bénéficiaires/parties; problèmes relatifs au contenu des informations reçues et suggestions en la matière, - utilisation des informations et efficacité aux fins du respect des dispositions, y compris l'utilité de principe des informations; l'utilisation actuelle et future des informations; utilisation des informations par domaine fiscal; encouragement de la coopération administrative par l'utilisation des informations reçues, utilisation des informations et efficacité aux fins du respect des dispositions, y compris l'utilité de principe des informations; l'utilisation actuelle et future des informations; utilisation des informations par domaine fiscal; encouragement de la coopération administrative par l'utilisation des informations reçues, - résultats pratiques obtenus, avec mention du résultat global (y compris les projets spéciaux); résultat spécifique des projets spéciaux; coûts administratifs et autres coûts pertinents pour le développement et la mise en œuvre de l'échange automatique d'informations; coûts administratifs des opérations récurrentes d'échange automatique d'informations; autres coûts pertinents pour les opérations liées au respect des obligations fiscales; expériences positives et négatives; principaux aspects sources de litiges et de recours, résultats pratiques obtenus, avec mention du résultat global (y compris les projets spéciaux); résultat spécifique des projets spéciaux; coûts administratifs et autres coûts pertinents pour le développement et la mise en œuvre de l'échange automatique d'informations; coûts administratifs des opérations récurrentes d'échange automatique d'informations; autres coûts pertinents pour les opérations liées au respect des obligations fiscales; expériences positives et négatives; principaux aspects sources de litiges et de recours, - taux de réussite en ce qui concerne l'obligation de communiquer les déclarations pays par pays aux États membres concernés (nombre de déclarations pays par pays reçues des autorités fiscales d'autres États membres/nombre de déclarations pays par pays devant être reçues d'autorités fiscales d'autres États membres), taux de réussite en ce qui concerne l'obligation de communiquer les déclarations pays par pays aux États membres concernés (nombre de déclarations pays par pays reçues des autorités fiscales d'autres États membres/nombre de déclarations pays par pays devant être reçues d'autorités fiscales d'autres États membres), - taux de respect des dispositions par les entités déclarantes en ce qui concerne l'obligation de fournir les déclarations pays par pays (nombre de déclarations pays par pays reçues/nombre de déclarations pays par pays devant être communiquées), taux de respect des dispositions par les entités déclarantes en ce qui concerne l'obligation de fournir les déclarations pays par pays (nombre de déclarations pays par pays reçues/nombre de déclarations pays par pays devant être communiquées), - liste de toutes les juridictions dans lesquelles les entités mères ultimes d'entités déclarantes établies dans l'Union sont résidentes, mais pour lesquelles aucune déclaration pays par pays n'a été déposée ou échangée. liste de toutes les juridictions dans lesquelles les entités mères ultimes d'entités déclarantes établies dans l'Union sont résidentes, mais pour lesquelles aucune déclaration pays par pays n'a été déposée ou échangée.",
+      "text_sha256": "0b2d2b8754b60b2af5070d09999f053681c6bf39fc1ca4c62af7d909ed9cf6c4",
+      "md_span": {
+        "start": 17563,
+        "end": 25972
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_ix",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#annexe_ix",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IX",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les données statistiques requises pour les formes de coopération administrative autres que l'échange automatique et obligatoire d'informations visées à l'article 23, paragraphe 4, de la directive 2011/16/UE, couvrent les informations suivantes:\n\n**Liste visée à l'article 2 quinquies**\n\n- identification de l'État membre, identification de l'État membre,\n\n- année, année,\n\n- partie A: statistiques par État membre en ce qui concerne l'échange d'informations - sur l'échange d'informations sur demande (articles 5, 6 et 7 de la directive 2011/16/UE), - nombre de demandes envoyées, nombre de demandes envoyées, - nombre de réponses reçues, nombre de réponses reçues, - nombre de réponses complètes reçues dans un délai de six mois, nombre de réponses complètes reçues dans un délai de six mois, - nombre de réponses pour lesquelles l'ensemble des informations ou une partie d'entre elles ont été reçues dans un délai de deux mois, nombre de réponses pour lesquelles l'ensemble des informations ou une partie d'entre elles ont été reçues dans un délai de deux mois, - nombre de demandes reçues, nombre de demandes reçues, - nombre de réponses envoyées, nombre de réponses envoyées, - nombre de refus fondés sur l'article 17 de la directive 2011/16/UE, nombre de refus fondés sur l'article 17 de la directive 2011/16/UE, sur l'échange d'informations sur demande (articles 5, 6 et 7 de la directive 2011/16/UE), - nombre de demandes envoyées, nombre de demandes envoyées, - nombre de réponses reçues, nombre de réponses reçues, - nombre de réponses complètes reçues dans un délai de six mois, nombre de réponses complètes reçues dans un délai de six mois, - nombre de réponses pour lesquelles l'ensemble des informations ou une partie d'entre elles ont été reçues dans un délai de deux mois, nombre de réponses pour lesquelles l'ensemble des informations ou une partie d'entre elles ont été reçues dans un délai de deux mois, - nombre de demandes reçues, nombre de demandes reçues, - nombre de réponses envoyées, nombre de réponses envoyées, - nombre de refus fondés sur l'article 17 de la directive 2011/16/UE, nombre de refus fondés sur l'article 17 de la directive 2011/16/UE, - sur l'échange spontané d'informations (articles 9 et 10 de la directive 2011/16/UE), - nombre d'échanges spontanés envoyés, nombre d'échanges spontanés envoyés, - nombre d'échanges spontanés reçus, nombre d'échanges spontanés reçus, - nombre de décisions fiscales en matière transfrontière envoyées, nombre de décisions fiscales en matière transfrontière envoyées, - nombre de décisions fiscales en matière transfrontière reçues, nombre de décisions fiscales en matière transfrontière reçues, - nombre d'accords préalables unilatéraux en matière de prix de transfert envoyés, nombre d'accords préalables unilatéraux en matière de prix de transfert envoyés, - nombre d'accords préalables unilatéraux en matière de prix de transfert reçus, nombre d'accords préalables unilatéraux en matière de prix de transfert reçus, sur l'échange spontané d'informations (articles 9 et 10 de la directive 2011/16/UE), - nombre d'échanges spontanés envoyés, nombre d'échanges spontanés envoyés, - nombre d'échanges spontanés reçus, nombre d'échanges spontanés reçus, - nombre de décisions fiscales en matière transfrontière envoyées, nombre de décisions fiscales en matière transfrontière envoyées, - nombre de décisions fiscales en matière transfrontière reçues, nombre de décisions fiscales en matière transfrontière reçues, - nombre d'accords préalables unilatéraux en matière de prix de transfert envoyés, nombre d'accords préalables unilatéraux en matière de prix de transfert envoyés, - nombre d'accords préalables unilatéraux en matière de prix de transfert reçus, nombre d'accords préalables unilatéraux en matière de prix de transfert reçus, partie A: statistiques par État membre en ce qui concerne l'échange d'informations - sur l'échange d'informations sur demande (articles 5, 6 et 7 de la directive 2011/16/UE), - nombre de demandes envoyées, nombre de demandes envoyées, - nombre de réponses reçues, nombre de réponses reçues, - nombre de réponses complètes reçues dans un délai de six mois, nombre de réponses complètes reçues dans un délai de six mois, - nombre de réponses pour lesquelles l'ensemble des informations ou une partie d'entre elles ont été reçues dans un délai de deux mois, nombre de réponses pour lesquelles l'ensemble des informations ou une partie d'entre elles ont été reçues dans un délai de deux mois, - nombre de demandes reçues, nombre de demandes reçues, - nombre de réponses envoyées, nombre de réponses envoyées, - nombre de refus fondés sur l'article 17 de la directive 2011/16/UE, nombre de refus fondés sur l'article 17 de la directive 2011/16/UE, sur l'échange d'informations sur demande (articles 5, 6 et 7 de la directive 2011/16/UE), - nombre de demandes envoyées, nombre de demandes envoyées, - nombre de réponses reçues, nombre de réponses reçues, - nombre de réponses complètes reçues dans un délai de six mois, nombre de réponses complètes reçues dans un délai de six mois, - nombre de réponses pour lesquelles l'ensemble des informations ou une partie d'entre elles ont été reçues dans un délai de deux mois, nombre de réponses pour lesquelles l'ensemble des informations ou une partie d'entre elles ont été reçues dans un délai de deux mois, - nombre de demandes reçues, nombre de demandes reçues, - nombre de réponses envoyées, nombre de réponses envoyées, - nombre de refus fondés sur l'article 17 de la directive 2011/16/UE, nombre de refus fondés sur l'article 17 de la directive 2011/16/UE, - sur l'échange spontané d'informations (articles 9 et 10 de la directive 2011/16/UE), - nombre d'échanges spontanés envoyés, nombre d'échanges spontanés envoyés, - nombre d'échanges spontanés reçus, nombre d'échanges spontanés reçus, - nombre de décisions fiscales en matière transfrontière envoyées, nombre de décisions fiscales en matière transfrontière envoyées, - nombre de décisions fiscales en matière transfrontière reçues, nombre de décisions fiscales en matière transfrontière reçues, - nombre d'accords préalables unilatéraux en matière de prix de transfert envoyés, nombre d'accords préalables unilatéraux en matière de prix de transfert envoyés, - nombre d'accords préalables unilatéraux en matière de prix de transfert reçus, nombre d'accords préalables unilatéraux en matière de prix de transfert reçus, sur l'échange spontané d'informations (articles 9 et 10 de la directive 2011/16/UE), - nombre d'échanges spontanés envoyés, nombre d'échanges spontanés envoyés, - nombre d'échanges spontanés reçus, nombre d'échanges spontanés reçus, - nombre de décisions fiscales en matière transfrontière envoyées, nombre de décisions fiscales en matière transfrontière envoyées, - nombre de décisions fiscales en matière transfrontière reçues, nombre de décisions fiscales en matière transfrontière reçues, - nombre d'accords préalables unilatéraux en matière de prix de transfert envoyés, nombre d'accords préalables unilatéraux en matière de prix de transfert envoyés, - nombre d'accords préalables unilatéraux en matière de prix de transfert reçus, nombre d'accords préalables unilatéraux en matière de prix de transfert reçus,\n\n- partie B: statistiques relatives à d'autres formes de coopération administrative - sur la présence dans les bureaux administratifs et sur la participation aux enquêtes administratives (article 11 de la directive 2011/16/UE), - nombre de présences dans les bureaux administratifs et de participations aux enquêtes administratives nombre de présences dans les bureaux administratifs et de participations aux enquêtes administratives sur la présence dans les bureaux administratifs et sur la participation aux enquêtes administratives (article 11 de la directive 2011/16/UE), - nombre de présences dans les bureaux administratifs et de participations aux enquêtes administratives nombre de présences dans les bureaux administratifs et de participations aux enquêtes administratives - sur les contrôles simultanés (article 12 de la directive 2011/16/UE), - nombre de contrôles simultanés menés à l'initiative de l'État membre, nombre de contrôles simultanés menés à l'initiative de l'État membre, - nombre de contrôles simultanés auxquels l'État membre a participé, nombre de contrôles simultanés auxquels l'État membre a participé, sur les contrôles simultanés (article 12 de la directive 2011/16/UE), - nombre de contrôles simultanés menés à l'initiative de l'État membre, nombre de contrôles simultanés menés à l'initiative de l'État membre, - nombre de contrôles simultanés auxquels l'État membre a participé, nombre de contrôles simultanés auxquels l'État membre a participé, - sur les demandes de notification (article 13 de la directive 2011/16/UE), - nombre de demandes de notification envoyées, nombre de demandes de notification envoyées, - nombre de demandes de notification reçues, nombre de demandes de notification reçues, sur les demandes de notification (article 13 de la directive 2011/16/UE), - nombre de demandes de notification envoyées, nombre de demandes de notification envoyées, - nombre de demandes de notification reçues, nombre de demandes de notification reçues, - sur le retour d'informations (article 14 de la directive 2011/16/UE), - nombre de demandes de retours d'informations envoyées, nombre de demandes de retours d'informations envoyées, - nombre de retours d'informations reçus, nombre de retours d'informations reçus, - nombre de demandes de retours d'informations reçues, nombre de demandes de retours d'informations reçues, - nombre de retours d'informations envoyés, nombre de retours d'informations envoyés, sur le retour d'informations (article 14 de la directive 2011/16/UE), - nombre de demandes de retours d'informations envoyées, nombre de demandes de retours d'informations envoyées, - nombre de retours d'informations reçus, nombre de retours d'informations reçus, - nombre de demandes de retours d'informations reçues, nombre de demandes de retours d'informations reçues, - nombre de retours d'informations envoyés, nombre de retours d'informations envoyés, partie B: statistiques relatives à d'autres formes de coopération administrative - sur la présence dans les bureaux administratifs et sur la participation aux enquêtes administratives (article 11 de la directive 2011/16/UE), - nombre de présences dans les bureaux administratifs et de participations aux enquêtes administratives nombre de présences dans les bureaux administratifs et de participations aux enquêtes administratives sur la présence dans les bureaux administratifs et sur la participation aux enquêtes administratives (article 11 de la directive 2011/16/UE), - nombre de présences dans les bureaux administratifs et de participations aux enquêtes administratives nombre de présences dans les bureaux administratifs et de participations aux enquêtes administratives - sur les contrôles simultanés (article 12 de la directive 2011/16/UE), - nombre de contrôles simultanés menés à l'initiative de l'État membre, nombre de contrôles simultanés menés à l'initiative de l'État membre, - nombre de contrôles simultanés auxquels l'État membre a participé, nombre de contrôles simultanés auxquels l'État membre a participé, sur les contrôles simultanés (article 12 de la directive 2011/16/UE), - nombre de contrôles simultanés menés à l'initiative de l'État membre, nombre de contrôles simultanés menés à l'initiative de l'État membre, - nombre de contrôles simultanés auxquels l'État membre a participé, nombre de contrôles simultanés auxquels l'État membre a participé, - sur les demandes de notification (article 13 de la directive 2011/16/UE), - nombre de demandes de notification envoyées, nombre de demandes de notification envoyées, - nombre de demandes de notification reçues, nombre de demandes de notification reçues, sur les demandes de notification (article 13 de la directive 2011/16/UE), - nombre de demandes de notification envoyées, nombre de demandes de notification envoyées, - nombre de demandes de notification reçues, nombre de demandes de notification reçues, - sur le retour d'informations (article 14 de la directive 2011/16/UE), - nombre de demandes de retours d'informations envoyées, nombre de demandes de retours d'informations envoyées, - nombre de retours d'informations reçus, nombre de retours d'informations reçus, - nombre de demandes de retours d'informations reçues, nombre de demandes de retours d'informations reçues, - nombre de retours d'informations envoyés, nombre de retours d'informations envoyés, sur le retour d'informations (article 14 de la directive 2011/16/UE), - nombre de demandes de retours d'informations envoyées, nombre de demandes de retours d'informations envoyées, - nombre de retours d'informations reçus, nombre de retours d'informations reçus, - nombre de demandes de retours d'informations reçues, nombre de demandes de retours d'informations reçues, - nombre de retours d'informations envoyés, nombre de retours d'informations envoyés,\n\n- partie C: statistiques relatives à l'estimation des recettes supplémentaires ou à l'augmentation de la taxe établie à la suite de la coopération administrative Les informations figurant dans cette partie sont facultatives. - résultant de l'échange d'informations sur demande, résultant de l'échange d'informations sur demande, - résultant de l'échange spontané d'informations, résultant de l'échange spontané d'informations, - résultant des contrôles simultanés, résultant des contrôles simultanés, - chiffre global et nombre de cas. chiffre global et nombre de cas. partie C: statistiques relatives à l'estimation des recettes supplémentaires ou à l'augmentation de la taxe établie à la suite de la coopération administrative Les informations figurant dans cette partie sont facultatives. - résultant de l'échange d'informations sur demande, résultant de l'échange d'informations sur demande, - résultant de l'échange spontané d'informations, résultant de l'échange spontané d'informations, - résultant des contrôles simultanés, résultant des contrôles simultanés, - chiffre global et nombre de cas. chiffre global et nombre de cas.",
+      "text_sha256": "e6b396b8f7f9c4760ce912bc1a9599e5c81692f762245773e660f6051b0725c2",
+      "md_span": {
+        "start": 26013,
+        "end": 40211
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_x",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#annexe_x",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE X",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les données statistiques requises pour l'échange automatique et obligatoire d'informations visées à l'article 23, paragraphe 4, de la directive 2011/16/UE, concernant les catégories de revenu et de capital visées à l'article 8, paragraphe 1, de ladite directive couvrent les informations suivantes:\n\n**Liste visée à l'article 2 quinquies**\n\n- pour toutes les catégories de revenu et de capital visées à l'article 8, paragraphe 1, de la directive 2011/16/UE: des statistiques relatives au message et au contribuable, pour toutes les catégories de revenu et de capital visées à l'article 8, paragraphe 1, de la directive 2011/16/UE: des statistiques relatives au message et au contribuable,\n\n- dans le cas de revenus d'emploi et de tantièmes et jetons de présence: statistiques sur le message et le bénéficiaire, le message et le payeur, le bénéficiaire et la relation, le payeur et la relation, le bénéficiaire et le revenu, dans le cas de revenus d'emploi et de tantièmes et jetons de présence: statistiques sur le message et le bénéficiaire, le message et le payeur, le bénéficiaire et la relation, le payeur et la relation, le bénéficiaire et le revenu,\n\n- dans le cas de pensions: statistiques sur le message et le bénéficiaire, le message et le payeur, le bénéficiaire, le payeur, le régime, le revenu, dans le cas de pensions: statistiques sur le message et le bénéficiaire, le message et le payeur, le bénéficiaire, le payeur, le régime, le revenu,\n\n- dans le cas de produits d'assurance sur la vie: statistiques sur le message et la police, la police générale, l'événement, dans le cas de produits d'assurance sur la vie: statistiques sur le message et la police, la police générale, l'événement,\n\n- dans le cas de propriété et de revenus de biens immobiliers: statistiques sur le message et les parties, parties en général, nombre et valeur des propriétés, nombre et valeur des transactions, nombre et valeurs des emprunts, quantité et valeur des revenus issus de droits, dans le cas de propriété et de revenus de biens immobiliers: statistiques sur le message et les parties, parties en général, nombre et valeur des propriétés, nombre et valeur des transactions, nombre et valeurs des emprunts, quantité et valeur des revenus issus de droits,\n\n- dans le cas de message sur le statut: des statistiques relatives aux messages sur le statut, erreurs concernant ces messages, dans le cas de message sur le statut: des statistiques relatives aux messages sur le statut, erreurs concernant ces messages,\n\n- dans le cas de messages ne contenant aucune donnée: statistiques relatives aux messages ne contenant aucune donnée. dans le cas de messages ne contenant aucune donnée: statistiques relatives aux messages ne contenant aucune donnée.",
+      "text_sha256": "e22c2da8b4592cd7e08b0139e08191e907f9af18f18e3eb4b5657eb3ed4d5890",
+      "md_span": {
+        "start": 40250,
+        "end": 42992
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_xi",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#annexe_xi",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE XI",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les données statistiques requises pour l'échange automatique et obligatoire d'informations visées à l'article 8, paragraphe 3 *bis*, de la directive 2011/16/UE, conformément à l'article 23, paragraphe 4, de ladite directive couvrent les informations suivantes:\n\n**Liste visée à l'article 2 quinquies**\n\n- par message, des statistiques sur le pays d'origine et le pays de destination, nombre total d'enregistrements, montants totaux des paiements, par message, des statistiques sur le pays d'origine et le pays de destination, nombre total d'enregistrements, montants totaux des paiements,\n\n- par pays d'origine, des statistiques sur le nombre total d'institutions financières déclarantes, montants totaux des paiements, par pays d'origine, des statistiques sur le nombre total d'institutions financières déclarantes, montants totaux des paiements,\n\n- par compte unique, des statistiques sur le nombre de titulaires du compte, la catégorie de paiement, le montant par catégorie de paiement, par compte unique, des statistiques sur le nombre de titulaires du compte, la catégorie de paiement, le montant par catégorie de paiement,\n\n- par compte, des statistiques sur le type de titulaire du compte, numéro d'identification fiscale du titulaire du compte (ou équivalent fonctionnel), pays de résidence du titulaire du compte, personne physique titulaire du compte, compte clos, compte dormant, par compte, des statistiques sur le type de titulaire du compte, numéro d'identification fiscale du titulaire du compte (ou équivalent fonctionnel), pays de résidence du titulaire du compte, personne physique titulaire du compte, compte clos, compte dormant,\n\n- par titulaire de compte, des statistiques sur le type de personne détenant le contrôle, numéro d'identification fiscale de la personne détenant le contrôle (ou équivalent fonctionnel), pays de résidence de la personne détenant le contrôle, personne physique détenant le contrôle. par titulaire de compte, des statistiques sur le type de personne détenant le contrôle, numéro d'identification fiscale de la personne détenant le contrôle (ou équivalent fonctionnel), pays de résidence de la personne détenant le contrôle, personne physique détenant le contrôle.",
+      "text_sha256": "c4e0c9606f632da4741b2c8bd339cba9187e1a55d6aa62b15a787514f1fef795",
+      "md_span": {
+        "start": 43033,
+        "end": 45245
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_xii",
+      "provision_id": "eu-eurlex:32015r2378:2018-02-12#annexe_xii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE XII",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les données statistiques requises pour l'échange automatique et obligatoire d'informations visées à l'article 8 *bis bis*, de la directive 2011/16/UE, conformément à l'article 23, paragraphe 4, de ladite directive couvrent les informations suivantes:\n\n**Liste visée à l'article 2 quinquies**\n\n- nombre de déclarations pays par pays reçues émanant des entités déclarantes, nombre de déclarations pays par pays reçues émanant des entités déclarantes,\n\n- nombre de déclarations pays par pays devant être communiquées par des entités déclarantes mais non reçues ou partielles, ventilation par juridiction des entités mères ultimes, nombre de déclarations pays par pays devant être communiquées par des entités déclarantes mais non reçues ou partielles, ventilation par juridiction des entités mères ultimes,\n\n- nombre de déclarations pays par pays reçues émanant d'autres États membres, nombre de déclarations pays par pays reçues émanant d'autres États membres,\n\n- nombre de déclarations pays par pays attendues d'autres États membres, nombre de déclarations pays par pays attendues d'autres États membres,\n\n- nombre de déclarations pays par pays envoyées entre États membres. nombre de déclarations pays par pays envoyées entre États membres.",
+      "text_sha256": "bf51f73e7f0bd22be4c26da0955f110fbdda8a03b60b744e47616764c091ebf8",
+      "md_span": {
+        "start": 45288,
+        "end": 46528
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: Formex ARTICLE / CONS.ANNEX elements (publisher structural markup)",
+    "footnotes omitted from provision text: 6"
+  ]
+}

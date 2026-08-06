@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32024r2795:2024-07-24",
+  "language": "en",
+  "title": "Commission Delegated Regulation (EU) 2024/2795 of 24\u00A0July 2024 amending Regulation (EU) No\u00A0575/2013",
+  "valid_from": "2024-07-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32024r2795/versions/2024-07-24/en.xml",
+    "sha256": "85c614ff8f12321da2fd99c3de5757883c8e00f23cd6a6fb4b73a928d1cd15cd",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2795"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32024r2795:2024-07-24#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nIn Regulation (EU) No 575/2013, the following Article 520a is inserted:\n\n‘Article 520a\n\nApplication of own funds requirements for market risk\n\nUntil 1 January 2026, institutions shall continue to apply Part Three, Title IV, and the market risk requirements of Articles 430, 430b, 445 and 455 of this Regulation in the version in force on 8 July 2024.’.",
+      "text_sha256": "319797f4ab586a4a511fc4ff4f25f0515893ee57a722dad0e46525184159da55",
+      "md_span": {
+        "start": 644,
+        "end": 1007
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32024r2795:2024-07-24#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nThis Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.\n\nThis Regulation shall apply from 1 January 2025.",
+      "text_sha256": "c04498c2ddcecdc902c542feece7cde1efca5a9be67cb897d11a3a6e442a17c4",
+      "md_span": {
+        "start": 1040,
+        "end": 1231
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

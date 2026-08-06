@@ -4,13 +4,11 @@ title: 'MiCA — Regulation (EU) 2023/1114'
 valid_from: '2024-01-09'
 valid_to: 'open'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023R1114-20240109'
-source_sha256: 'c3622782e76f8fe4612909a9b77a071ca8a34af9912881f739900d1cbfeac145'
+source_sha256: '078da6ed766fe117be60ff63536f25101ec21f2dec175394eef7bf82c02ffe19'
 license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
 attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
-generator: 'fmx4-eu/1 · lex derive'
+generator: 'xhtml-eu/1 · lex derive'
 ---
-
-## TITLE I — SUBJECT MATTER, SCOPE AND DEFINITIONS
 
 <a id="art_1"></a>
 
@@ -18,17 +16,7 @@ generator: 'fmx4-eu/1 · lex derive'
 
 **1.** This Regulation lays down uniform requirements for the offer to the public and admission to trading on a trading platform of crypto-assets other than asset-referenced tokens and e-money tokens, of asset-referenced tokens and of e-money tokens, as well as requirements for crypto-asset service providers.
 
-**2.** In particular, this Regulation lays down the following:
-
-(a) transparency and disclosure requirements for the issuance, offer to the public and admission of crypto-assets to trading on a trading platform for crypto-assets (‘admission to trading’);
-
-(b) requirements for the authorisation and supervision of crypto-asset service providers, issuers of asset-referenced tokens and issuers of e-money tokens, as well as for their operation, organisation and governance;
-
-(c) requirements for the protection of holders of crypto-assets in the issuance, offer to the public and admission to trading of crypto-assets;
-
-(d) requirements for the protection of clients of crypto-asset service providers;
-
-(e) measures to prevent insider dealing, unlawful disclosure of inside information and market manipulation related to crypto-assets, in order to ensure the integrity of markets in crypto-assets.
+**2.** In particular, this Regulation lays down the following:(a) transparency and disclosure requirements for the issuance, offer to the public and admission of crypto-assets to trading on a trading platform for crypto-assets (‘admission to trading’);(b) requirements for the authorisation and supervision of crypto-asset service providers, issuers of asset-referenced tokens and issuers of e-money tokens, as well as for their operation, organisation and governance;(c) requirements for the protection of holders of crypto-assets in the issuance, offer to the public and admission to trading of crypto-assets;(d) requirements for the protection of clients of crypto-asset service providers;(e) measures to prevent insider dealing, unlawful disclosure of inside information and market manipulation related to crypto-assets, in order to ensure the integrity of markets in crypto-assets.
 
 <a id="art_2"></a>
 
@@ -36,43 +24,11 @@ generator: 'fmx4-eu/1 · lex derive'
 
 **1.** This Regulation applies to natural and legal persons and certain other undertakings that are engaged in the issuance, offer to the public and admission to trading of crypto-assets or that provide services related to crypto-assets in the Union.
 
-**2.** This Regulation does not apply to:
-
-(a) persons who provide crypto-asset services exclusively for their parent companies, for their own subsidiaries or for other subsidiaries of their parent companies;
-
-(b) a liquidator or an administrator acting in the course of an insolvency procedure, except for the purposes of Article 47;
-
-(c) the ECB, central banks of the Member States when acting in their capacity as monetary authorities, or other public authorities of the Member States;
-
-(d) the European Investment Bank and its subsidiaries;
-
-(e) the European Financial Stability Facility and the European Stability Mechanism;
-
-(f) public international organisations.
+**2.** This Regulation does not apply to:(a) persons who provide crypto-asset services exclusively for their parent companies, for their own subsidiaries or for other subsidiaries of their parent companies;(b) a liquidator or an administrator acting in the course of an insolvency procedure, except for the purposes of Article 47;(c) the ECB, central banks of the Member States when acting in their capacity as monetary authorities, or other public authorities of the Member States;(d) the European Investment Bank and its subsidiaries;(e) the European Financial Stability Facility and the European Stability Mechanism;(f) public international organisations.
 
 **3.** This Regulation does not apply to crypto-assets that are unique and not fungible with other crypto-assets.
 
-**4.** This Regulation does not apply to crypto-assets that qualify as one or more of the following:
-
-(a) financial instruments;
-
-(b) deposits, including structured deposits;
-
-(c) funds, except if they qualify as e-money tokens;
-
-(d) securitisation positions in the context of a securitisation as defined in Article 2, point (1), of Regulation (EU) 2017/2402;
-
-(e) non-life or life insurance products falling within the classes of insurance listed in Annexes I and II to Directive 2009/138/EC of the European Parliament and of the Council or reinsurance and retrocession contracts referred to in that Directive;
-
-(f) pension products that, under national law, are recognised as having the primary purpose of providing the investor with an income in retirement and that entitle the investor to certain benefits;
-
-(g) officially recognised occupational pension schemes falling within the scope of Directive (EU) 2016/2341 of the European Parliament and of the Council or Directive 2009/138/EC;
-
-(h) individual pension products for which a financial contribution from the employer is required by national law and where the employer or the employee has no choice as to the pension product or provider;
-
-(i) a pan-European Personal Pension Product as defined in Article 2, point (2), of Regulation (EU) 2019/1238 of the European Parliament and of the Council;
-
-(j) social security schemes covered by Regulations (EC) No 883/2004 and (EC) No 987/2009 of the European Parliament and of the Council.
+**4.** This Regulation does not apply to crypto-assets that qualify as one or more of the following:(a) financial instruments;(b) deposits, including structured deposits;(c) funds, except if they qualify as e-money tokens;(d) securitisation positions in the context of a securitisation as defined in Article 2, point (1), of Regulation (EU) 2017/2402;(e) non-life or life insurance products falling within the classes of insurance listed in Annexes I and II to Directive 2009/138/EC of the European Parliament and of the Council (1) or reinsurance and retrocession contracts referred to in that Directive;(f) pension products that, under national law, are recognised as having the primary purpose of providing the investor with an income in retirement and that entitle the investor to certain benefits;(g) officially recognised occupational pension schemes falling within the scope of Directive (EU) 2016/2341 of the European Parliament and of the Council (2) or Directive 2009/138/EC;(h) individual pension products for which a financial contribution from the employer is required by national law and where the employer or the employee has no choice as to the pension product or provider;(i) a pan-European Personal Pension Product as defined in Article 2, point (2), of Regulation (EU) 2019/1238 of the European Parliament and of the Council (3);(j) social security schemes covered by Regulations (EC) No 883/2004 (4) and (EC) No 987/2009 of the European Parliament and of the Council (5).
 
 **5.** By 30 December 2024, ESMA shall, for the purposes of paragraph 4, point (a), of this Article issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 on the conditions and criteria for the qualification of crypto-assets as financial instruments.
 
@@ -82,165 +38,29 @@ generator: 'fmx4-eu/1 · lex derive'
 
 ### Article 3 — Definitions
 
-**1.** For the purposes of this Regulation, the following definitions apply:
-
-(1) ‘distributed ledger technology’ or ‘DLT’ means a technology that enables the operation and use of distributed ledgers;
-
-(2) ‘distributed ledger’ means an information repository that keeps records of transactions and that is shared across, and synchronised between, a set of DLT network nodes using a consensus mechanism;
-
-(3) ‘consensus mechanism’ means the rules and procedures by which an agreement is reached, among DLT network nodes, that a transaction is validated;
-
-(4) ‘DLT network node’ means a device or process that is part of a network and that holds a complete or partial replica of records of all transactions on a distributed ledger;
-
-(5) ‘crypto-asset’ means a digital representation of a value or of a right that is able to be transferred and stored electronically using distributed ledger technology or similar technology;
-
-(6) ‘asset-referenced token’ means a type of crypto-asset that is not an electronic money token and that purports to maintain a stable value by referencing another value or right or a combination thereof, including one or more official currencies;
-
-(7) ‘electronic money token’ or ‘e-money token’ means a type of crypto-asset that purports to maintain a stable value by referencing the value of one official currency;
-
-(8) ‘official currency’ means an official currency of a country that is issued by a central bank or other monetary authority;
-
-(9) ‘utility token’ means a type of crypto-asset that is only intended to provide access to a good or a service supplied by its issuer;
-
-(10) ‘issuer’ means a natural or legal person, or other undertaking, who issues crypto-assets;
-
-(11) ‘applicant issuer’ means an issuer of asset-referenced tokens or e-money tokens who applies for authorisation to offer to the public or seeks the admission to trading of those crypto-assets;
-
-(12) ‘offer to the public’ means a communication to persons in any form, and by any means, presenting sufficient information on the terms of the offer and the crypto-assets to be offered so as to enable prospective holders to decide whether to purchase those crypto-assets;
-
-(13) ‘offeror’ means a natural or legal person, or other undertaking, or the issuer, who offers crypto-assets to the public;
-
-(14) ‘funds’ means funds as defined in Article 4, point (25), of Directive (EU) 2015/2366;
-
-(15) ‘crypto-asset service provider’ means a legal person or other undertaking whose occupation or business is the provision of one or more crypto-asset services to clients on a professional basis, and that is allowed to provide crypto-asset services in accordance with Article 59;
-
-(16) ‘crypto-asset service’ means any of the following services and activities relating to any crypto-asset: (a) providing custody and administration of crypto-assets on behalf of clients; (b) operation of a trading platform for crypto-assets; (c) exchange of crypto-assets for funds; (d) exchange of crypto-assets for other crypto-assets; (e) execution of orders for crypto-assets on behalf of clients; (f) placing of crypto-assets; (g) reception and transmission of orders for crypto-assets on behalf of clients; (h) providing advice on crypto-assets; (i) providing portfolio management on crypto-assets; (j) providing transfer services for crypto-assets on behalf of clients;
-
-(17) ‘providing custody and administration of crypto-assets on behalf of clients’ means the safekeeping or controlling, on behalf of clients, of crypto-assets or of the means of access to such crypto-assets, where applicable in the form of private cryptographic keys;
-
-(18) ‘operation of a trading platform for crypto-assets’ means the management of one or more multilateral systems, which bring together or facilitate the bringing together of multiple third-party purchasing and selling interests in crypto-assets, in the system and in accordance with its rules, in a way that results in a contract, either by exchanging crypto-assets for funds or by the exchange of crypto-assets for other crypto-assets;
-
-(19) ‘exchange of crypto-assets for funds’ means the conclusion of purchase or sale contracts concerning crypto-assets with clients for funds by using proprietary capital;
-
-(20) ‘exchange of crypto-assets for other crypto-assets’ means the conclusion of purchase or sale contracts concerning crypto-assets with clients for other crypto-assets by using proprietary capital;
-
-(21) ‘execution of orders for crypto-assets on behalf of clients’ means the conclusion of agreements, on behalf of clients, to purchase or sell one or more crypto-assets or the subscription on behalf of clients for one or more crypto-assets, and includes the conclusion of contracts to sell crypto-assets at the moment of their offer to the public or admission to trading;
-
-(22) ‘placing of crypto-assets’ means the marketing, on behalf of or for the account of the offeror or a party related to the offeror, of crypto-assets to purchasers;
-
-(23) ‘reception and transmission of orders for crypto-assets on behalf of clients’ means the reception from a person of an order to purchase or sell one or more crypto-assets or to subscribe for one or more crypto-assets and the transmission of that order to a third party for execution;
-
-(24) ‘providing advice on crypto-assets’ means offering, giving or agreeing to give personalised recommendations to a client, either at the client’s request or on the initiative of the crypto-asset service provider providing the advice, in respect of one or more transactions relating to crypto-assets, or the use of crypto-asset services;
-
-(25) ‘providing portfolio management of crypto-assets’ means managing portfolios in accordance with mandates given by clients on a discretionary client-by-client basis where such portfolios include one or more crypto-assets;
-
-(26) ‘providing transfer services for crypto-assets on behalf of clients’ means providing services of transfer, on behalf of a natural or legal person, of crypto-assets from one distributed ledger address or account to another;
-
-(27) ‘management body’ means the body or bodies of an issuer, offeror or person seeking admission to trading, or of a crypto-asset service provider, which are appointed in accordance with national law, which are empowered to set the entity’s strategy, objectives and overall direction, and which oversee and monitor management decision-making in the entity and include the persons who effectively direct the business of the entity;
-
-(28) ‘credit institution’ means a credit institution as defined in Article 4(1), point (1), of Regulation (EU) No 575/2013 and authorised under Directive 2013/36/EU;
-
-(29) ‘investment firm’ means an investment firm as defined in Article 4(1), point (2), of Regulation (EU) No 575/2013 and authorised under Directive 2014/65/EU;
-
-(30) ‘qualified investors’ means persons or entities that are listed in Section I, points (1) to (4), of Annex II to Directive 2014/65/EU;
-
-(31) ‘close links’ means close links as defined in Article 4(1), point (35), of Directive 2014/65/EU;
-
-(32) ‘reserve of assets’ means the basket of reserve assets securing the claim against the issuer;
-
-(33) ‘home Member State’ means: (a) where the offeror or person seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens has its registered office in the Union, the Member State where that offeror or person has its registered office; (b) where the offeror or person seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens has no registered office in the Union but does have one or more branches in the Union, the Member State chosen by that offeror or person from among the Member States where it has branches; (c) where the offeror or person seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens is established in a third country and has no branch in the Union, either the Member State where the crypto-assets are intended to be offered to the public for the first time or, at the choice of the offeror or person seeking admission to trading, the Member State where the first application for admission to trading of those crypto-assets is made; (d) in the case of an issuer of asset-referenced tokens, the Member State where the issuer of asset-referenced tokens has its registered office; (e) in the case of an issuer of e-money tokens, the Member State where the issuer of e-money tokens is authorised as a credit institution under Directive 2013/36/EU or as an electronic money institution under Directive 2009/110/EC; (f) in the case of crypto-asset service providers, the Member State where the crypto-asset service provider has its registered office;
-
-(34) ‘host Member State’ means the Member State where an offeror or person seeking admission to trading has made an offer to the public of crypto-assets or is seeking admission to trading, or where a crypto-asset service provider provides crypto-asset services, where different from the home Member State;
-
-(35) ‘competent authority’ means one or more authorities: (a) designated by each Member State in accordance with Article 93 concerning offerors, persons seeking admission to trading of crypto-assets other than asset-referenced tokens and e-money tokens, issuers of asset-referenced tokens, or crypto-asset service providers; (b) designated by each Member State for the application of Directive 2009/110/EC concerning issuers of e-money tokens;
-
-(36) ‘qualifying holding’ means any direct or indirect holding in an issuer of asset-referenced tokens or in a crypto-asset service provider which represents at least 10 % of the capital or of the voting rights, as set out in Articles 9 and 10 of Directive 2004/109/EC of the European Parliament and of the Council, respectively, taking into account the conditions for the aggregation thereof laid down in Article 12(4) and (5) of that Directive, or which makes it possible to exercise a significant influence over the management of the issuer of asset-referenced tokens or the management of the crypto-asset service provider in which that holding subsists;
-
-(37) ‘retail holder’ means any natural person who is acting for purposes which are outside that person’s trade, business, craft or profession;
-
-(38) ‘online interface’ means any software, including a website, part of a website or an application, that is operated by or on behalf of an offeror or crypto-asset service provider, and which serves to give holders of crypto-assets access to their crypto-assets and to give clients access to crypto-asset services;
-
-(39) ‘client’ means any natural or legal person to whom a crypto-asset service provider provides crypto-asset services;
-
-(40) ‘matched principal trading’ means matched principal trading as defined in Article 4(1), point (38), of Directive 2014/65/EU;
-
-(41) ‘payment services’ means payment services as defined in Article 4, point (3), of Directive (EU) 2015/2366;
-
-(42) ‘payment service provider’ means a payment service provider as defined in Article 4, point (11), of Directive (EU) 2015/2366;
-
-(43) ‘electronic money institution’ means an electronic money institution as defined in Article 2, point (1), of Directive 2009/110/EC;
-
-(44) ‘electronic money’ means electronic money as defined in Article 2, point (2), of Directive 2009/110/EC;
-
-(45) ‘personal data’ means personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679;
-
-(46) ‘payment institution’ means a payment institution as defined in Article 4, point (4), of Directive (EU) 2015/2366;
-
-(47) ‘UCITS management company’ means a management company as defined in Article 2(1), point (b), of Directive 2009/65/EC of the European Parliament and of the Council;
-
-(48) ‘alternative investment fund manager’ means an AIFM as defined in Article 4(1), point (b), of Directive 2011/61/EU of the European Parliament and of the Council;
-
-(49) ‘financial instrument’ means financial instruments as defined in Article 4(1), point (15), of Directive 2014/65/EU;
-
-(50) ‘deposit’ means a deposit as defined in Article 2(1), point (3), of Directive 2014/49/EU;
-
-(51) ‘structured deposit’ means a structured deposit as defined in Article 4(1), point (43), of Directive 2014/65/EU.
+**1.** For the purposes of this Regulation, the following definitions apply:(1) ‘distributed ledger technology’ or ‘DLT’ means a technology that enables the operation and use of distributed ledgers;(2) ‘distributed ledger’ means an information repository that keeps records of transactions and that is shared across, and synchronised between, a set of DLT network nodes using a consensus mechanism;(3) ‘consensus mechanism’ means the rules and procedures by which an agreement is reached, among DLT network nodes, that a transaction is validated;(4) ‘DLT network node’ means a device or process that is part of a network and that holds a complete or partial replica of records of all transactions on a distributed ledger;(5) ‘crypto-asset’ means a digital representation of a value or of a right that is able to be transferred and stored electronically using distributed ledger technology or similar technology;(6) ‘asset-referenced token’ means a type of crypto-asset that is not an electronic money token and that purports to maintain a stable value by referencing another value or right or a combination thereof, including one or more official currencies;(7) ‘electronic money token’ or ‘e-money token’ means a type of crypto-asset that purports to maintain a stable value by referencing the value of one official currency;(8) ‘official currency’ means an official currency of a country that is issued by a central bank or other monetary authority;(9) ‘utility token’ means a type of crypto-asset that is only intended to provide access to a good or a service supplied by its issuer;(10) ‘issuer’ means a natural or legal person, or other undertaking, who issues crypto-assets;(11) ‘applicant issuer’ means an issuer of asset-referenced tokens or e-money tokens who applies for authorisation to offer to the public or seeks the admission to trading of those crypto-assets;(12) ‘offer to the public’ means a communication to persons in any form, and by any means, presenting sufficient information on the terms of the offer and the crypto-assets to be offered so as to enable prospective holders to decide whether to purchase those crypto-assets;(13) ‘offeror’ means a natural or legal person, or other undertaking, or the issuer, who offers crypto-assets to the public;(14) ‘funds’ means funds as defined in Article 4, point (25), of Directive (EU) 2015/2366;(15) ‘crypto-asset service provider’ means a legal person or other undertaking whose occupation or business is the provision of one or more crypto-asset services to clients on a professional basis, and that is allowed to provide crypto-asset services in accordance with Article 59;(16) ‘crypto-asset service’ means any of the following services and activities relating to any crypto-asset:(a) providing custody and administration of crypto-assets on behalf of clients;(b) operation of a trading platform for crypto-assets;(c) exchange of crypto-assets for funds;(d) exchange of crypto-assets for other crypto-assets;(e) execution of orders for crypto-assets on behalf of clients;(f) placing of crypto-assets;(g) reception and transmission of orders for crypto-assets on behalf of clients;(h) providing advice on crypto-assets;(i) providing portfolio management on crypto-assets;(j) providing transfer services for crypto-assets on behalf of clients;(17) ‘providing custody and administration of crypto-assets on behalf of clients’ means the safekeeping or controlling, on behalf of clients, of crypto-assets or of the means of access to such crypto-assets, where applicable in the form of private cryptographic keys;(18) ‘operation of a trading platform for crypto-assets’ means the management of one or more multilateral systems, which bring together or facilitate the bringing together of multiple third-party purchasing and selling interests in crypto-assets, in the system and in accordance with its rules, in a way that results in a contract, either by exchanging crypto-assets for funds or by the exchange of crypto-assets for other crypto-assets;(19) ‘exchange of crypto-assets for funds’ means the conclusion of purchase or sale contracts concerning crypto-assets with clients for funds by using proprietary capital;(20) ‘exchange of crypto-assets for other crypto-assets’ means the conclusion of purchase or sale contracts concerning crypto-assets with clients for other crypto-assets by using proprietary capital;(21) ‘execution of orders for crypto-assets on behalf of clients’ means the conclusion of agreements, on behalf of clients, to purchase or sell one or more crypto-assets or the subscription on behalf of clients for one or more crypto-assets, and includes the conclusion of contracts to sell crypto-assets at the moment of their offer to the public or admission to trading;(22) ‘placing of crypto-assets’ means the marketing, on behalf of or for the account of the offeror or a party related to the offeror, of crypto-assets to purchasers;(23) ‘reception and transmission of orders for crypto-assets on behalf of clients’ means the reception from a person of an order to purchase or sell one or more crypto-assets or to subscribe for one or more crypto-assets and the transmission of that order to a third party for execution;(24) ‘providing advice on crypto-assets’ means offering, giving or agreeing to give personalised recommendations to a client, either at the client’s request or on the initiative of the crypto-asset service provider providing the advice, in respect of one or more transactions relating to crypto-assets, or the use of crypto-asset services;(25) ‘providing portfolio management of crypto-assets’ means managing portfolios in accordance with mandates given by clients on a discretionary client-by-client basis where such portfolios include one or more crypto-assets;(26) ‘providing transfer services for crypto-assets on behalf of clients’ means providing services of transfer, on behalf of a natural or legal person, of crypto-assets from one distributed ledger address or account to another;(27) ‘management body’ means the body or bodies of an issuer, offeror or person seeking admission to trading, or of a crypto-asset service provider, which are appointed in accordance with national law, which are empowered to set the entity’s strategy, objectives and overall direction, and which oversee and monitor management decision-making in the entity and include the persons who effectively direct the business of the entity;(28) ‘credit institution’ means a credit institution as defined in Article 4(1), point (1), of Regulation (EU) No 575/2013 and authorised under Directive 2013/36/EU;(29) ‘investment firm’ means an investment firm as defined in Article 4(1), point (2), of Regulation (EU) No 575/2013 and authorised under Directive 2014/65/EU;(30) ‘qualified investors’ means persons or entities that are listed in Section I, points (1) to (4), of Annex II to Directive 2014/65/EU;(31) ‘close links’ means close links as defined in Article 4(1), point (35), of Directive 2014/65/EU;(32) ‘reserve of assets’ means the basket of reserve assets securing the claim against the issuer;(33) ‘home Member State’ means:(a) where the offeror or person seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens has its registered office in the Union, the Member State where that offeror or person has its registered office;(b) where the offeror or person seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens has no registered office in the Union but does have one or more branches in the Union, the Member State chosen by that offeror or person from among the Member States where it has branches;(c) where the offeror or person seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens is established in a third country and has no branch in the Union, either the Member State where the crypto-assets are intended to be offered to the public for the first time or, at the choice of the offeror or person seeking admission to trading, the Member State where the first application for admission to trading of those crypto-assets is made;(d) in the case of an issuer of asset-referenced tokens, the Member State where the issuer of asset-referenced tokens has its registered office;(e) in the case of an issuer of e-money tokens, the Member State where the issuer of e-money tokens is authorised as a credit institution under Directive 2013/36/EU or as an electronic money institution under Directive 2009/110/EC;(f) in the case of crypto-asset service providers, the Member State where the crypto-asset service provider has its registered office;(34) ‘host Member State’ means the Member State where an offeror or person seeking admission to trading has made an offer to the public of crypto-assets or is seeking admission to trading, or where a crypto-asset service provider provides crypto-asset services, where different from the home Member State;(35) ‘competent authority’ means one or more authorities:(a) designated by each Member State in accordance with Article 93 concerning offerors, persons seeking admission to trading of crypto-assets other than asset-referenced tokens and e-money tokens, issuers of asset-referenced tokens, or crypto-asset service providers;(b) designated by each Member State for the application of Directive 2009/110/EC concerning issuers of e-money tokens;(36) ‘qualifying holding’ means any direct or indirect holding in an issuer of asset-referenced tokens or in a crypto-asset service provider which represents at least 10 % of the capital or of the voting rights, as set out in Articles 9 and 10 of Directive 2004/109/EC of the European Parliament and of the Council (6), respectively, taking into account the conditions for the aggregation thereof laid down in Article 12(4) and (5) of that Directive, or which makes it possible to exercise a significant influence over the management of the issuer of asset-referenced tokens or the management of the crypto-asset service provider in which that holding subsists;(37) ‘retail holder’ means any natural person who is acting for purposes which are outside that person’s trade, business, craft or profession;(38) ‘online interface’ means any software, including a website, part of a website or an application, that is operated by or on behalf of an offeror or crypto-asset service provider, and which serves to give holders of crypto-assets access to their crypto-assets and to give clients access to crypto-asset services;(39) ‘client’ means any natural or legal person to whom a crypto-asset service provider provides crypto-asset services;(40) ‘matched principal trading’ means matched principal trading as defined in Article 4(1), point (38), of Directive 2014/65/EU;(41) ‘payment services’ means payment services as defined in Article 4, point (3), of Directive (EU) 2015/2366;(42) ‘payment service provider’ means a payment service provider as defined in Article 4, point (11), of Directive (EU) 2015/2366;(43) ‘electronic money institution’ means an electronic money institution as defined in Article 2, point (1), of Directive 2009/110/EC;(44) ‘electronic money’ means electronic money as defined in Article 2, point (2), of Directive 2009/110/EC;(45) ‘personal data’ means personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679;(46) ‘payment institution’ means a payment institution as defined in Article 4, point (4), of Directive (EU) 2015/2366;(47) ‘UCITS management company’ means a management company as defined in Article 2(1), point (b), of Directive 2009/65/EC of the European Parliament and of the Council (7);(48) ‘alternative investment fund manager’ means an AIFM as defined in Article 4(1), point (b), of Directive 2011/61/EU of the European Parliament and of the Council (8);(49) ‘financial instrument’ means financial instruments as defined in Article 4(1), point (15), of Directive 2014/65/EU;(50) ‘deposit’ means a deposit as defined in Article 2(1), point (3), of Directive 2014/49/EU;(51) ‘structured deposit’ means a structured deposit as defined in Article 4(1), point (43), of Directive 2014/65/EU.
 
 **2.** The Commission shall adopt delegated acts in accordance with Article 139 to supplement this Regulation by further specifying technical elements of the definitions laid down in paragraph 1 of this Article, and to adjust those definitions to market developments and technological developments.
-
-## TITLE II — CRYPTO-ASSETS OTHER THAN ASSET-REFERENCED TOKENS OR E-MONEY TOKENS
 
 <a id="art_4"></a>
 
 ### Article 4 — Offers to the public of crypto-assets other than asset-referenced tokens or e-money tokens
 
-**1.** A person shall not make an offer to the public of a crypto-asset other than an asset-referenced token or e-money token in the Union unless that person:
+**1.** A person shall not make an offer to the public of a crypto-asset other than an asset-referenced token or e-money token in the Union unless that person:(a) is a legal person;(b) has drawn up a crypto-asset white paper in respect of that crypto-asset in accordance with Article 6;(c) has notified the crypto-asset white paper in accordance with Article 8;(d) has published the crypto-asset white paper in accordance with Article 9;(e) has drafted the marketing communications, if any, in respect of that crypto-asset in accordance with Article 7;(f) has published the marketing communications, if any, in respect of that crypto-asset in accordance with Article 9;(g) complies with the requirements for offerors laid down in Article 14.
 
-(a) is a legal person;
+**2.** Paragraph 1, points (b), (c), (d) and (f), shall not apply to any of the following offers to the public of crypto-assets other than asset-referenced tokens or e-money tokens:(a) an offer to fewer than 150 natural or legal persons per Member State where such persons are acting on their own account;(b) over a period of 12 months, starting with the beginning of the offer, the total consideration of an offer to the public of a crypto-asset in the Union does not exceed EUR 1 000 000 , or the equivalent amount in another official currency or in crypto-assets;(c) an offer of a crypto-asset addressed solely to qualified investors where the crypto-asset can only be held by such qualified investors.
 
-(b) has drawn up a crypto-asset white paper in respect of that crypto-asset in accordance with Article 6;
-
-(c) has notified the crypto-asset white paper in accordance with Article 8;
-
-(d) has published the crypto-asset white paper in accordance with Article 9;
-
-(e) has drafted the marketing communications, if any, in respect of that crypto-asset in accordance with Article 7;
-
-(f) has published the marketing communications, if any, in respect of that crypto-asset in accordance with Article 9;
-
-(g) complies with the requirements for offerors laid down in Article 14.
-
-**2.** Paragraph 1, points (b), (c), (d) and (f), shall not apply to any of the following offers to the public of crypto-assets other than asset-referenced tokens or e-money tokens:
-
-(a) an offer to fewer than 150 natural or legal persons per Member State where such persons are acting on their own account;
-
-(b) over a period of 12 months, starting with the beginning of the offer, the total consideration of an offer to the public of a crypto-asset in the Union does not exceed EUR 1000000, or the equivalent amount in another official currency or in crypto-assets;
-
-(c) an offer of a crypto-asset addressed solely to qualified investors where the crypto-asset can only be held by such qualified investors.
-
-**3.** This Title shall not apply to offers to the public of crypto-assets other than asset-referenced tokens or e-money tokens where any of the following apply:
-
-(a) the crypto-asset is offered for free;
-
-(b) the crypto-asset is automatically created as a reward for the maintenance of the distributed ledger or the validation of transactions;
-
-(c) the offer concerns a utility token providing access to a good or service that exists or is in operation;
-
-(d) the holder of the crypto-asset has the right to use it only in exchange for goods and services in a limited network of merchants with contractual arrangements with the offeror.
+**3.** This Title shall not apply to offers to the public of crypto-assets other than asset-referenced tokens or e-money tokens where any of the following apply:(a) the crypto-asset is offered for free;(b) the crypto-asset is automatically created as a reward for the maintenance of the distributed ledger or the validation of transactions;(c) the offer concerns a utility token providing access to a good or service that exists or is in operation;(d) the holder of the crypto-asset has the right to use it only in exchange for goods and services in a limited network of merchants with contractual arrangements with the offeror.
 
 For the purposes of point (a) of the first subparagraph, a crypto-asset shall not be considered to be offered for free where purchasers are required to provide, or to undertake to provide, personal data to the offeror in exchange for that crypto-asset, or where the offeror of a crypto-asset receives from prospective holders of that crypto-asset any fees, commissions, or monetary or non-monetary benefits in exchange for that crypto-asset.
 
-Where, for each 12-month period starting from the beginning of the initial offer to the public, the total consideration of an offer to the public of a crypto-asset in the circumstances referred to in the first subparagraph, point (d), in the Union exceeds EUR 1000000, the offeror shall send a notification to the competent authority containing a description of the offer and explaining why the offer is exempt from this Title pursuant to the first subparagraph, point (d).
+Where, for each 12-month period starting from the beginning of the initial offer to the public, the total consideration of an offer to the public of a crypto-asset in the circumstances referred to in the first subparagraph, point (d), in the Union exceeds EUR 1 000 000 , the offeror shall send a notification to the competent authority containing a description of the offer and explaining why the offer is exempt from this Title pursuant to the first subparagraph, point (d).
 
 Based on the notification referred to in the third subparagraph, the competent authority shall take a duly justified decision where it considers that the activity does not qualify for an exemption as a limited network under the first subparagraph, point (d), and shall inform the offeror accordingly.
 
 **4.** The exemptions listed in paragraphs 2 and 3 shall not apply where the offeror, or another person acting on the offeror’s behalf, makes known in any communication its intention to seek admission to trading of a crypto-asset other than an asset-referenced token or e-money token.
 
-**5.** Authorisation as a crypto-asset service provider pursuant to Article 59 is not required for providing custody and administration of crypto-assets on behalf of clients or for providing transfer services for crypto-assets in relation to crypto-assets whose offers to the public are exempt pursuant to paragraph 3 of this Article, unless:
-
-(a) there exists another offer to the public of the same crypto-asset and that offer does not benefit from the exemption; or
-
-(b) the crypto-asset offered is admitted to a trading platform.
+**5.** Authorisation as a crypto-asset service provider pursuant to Article 59 is not required for providing custody and administration of crypto-assets on behalf of clients or for providing transfer services for crypto-assets in relation to crypto-assets whose offers to the public are exempt pursuant to paragraph 3 of this Article, unless:(a) there exists another offer to the public of the same crypto-asset and that offer does not benefit from the exemption; or(b) the crypto-asset offered is admitted to a trading platform.
 
 **6.** Where the offer to the public of the crypto-asset other than an asset-referenced token or e-money token concerns a utility token providing access to goods and services that do not yet exist or are not yet in operation, the duration of the offer to the public as described in the crypto-asset white paper shall not exceed 12 months from the date of publication of the crypto-asset white paper.
 
@@ -254,21 +74,7 @@ No additional crypto-asset white paper shall be required for any subsequent offe
 
 ### Article 5 — Admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens
 
-**1.** A person shall not seek admission to trading of a crypto-asset other than an asset-referenced token or e-money token within the Union unless that person:
-
-(a) is a legal person;
-
-(b) has drawn up a crypto-asset white paper in respect of that crypto-asset in accordance with Article 6;
-
-(c) has notified the crypto-asset white paper in accordance with Article 8;
-
-(d) has published the crypto-asset white paper in accordance with Article 9;
-
-(e) has drafted the marketing communications, if any, in respect of that crypto-asset in accordance with Article 7;
-
-(f) has published the marketing communications, if any, in respect of that crypto-asset in accordance with Article 9;
-
-(g) complies with the requirements for persons seeking admission to trading laid down in Article 14.
+**1.** A person shall not seek admission to trading of a crypto-asset other than an asset-referenced token or e-money token within the Union unless that person:(a) is a legal person;(b) has drawn up a crypto-asset white paper in respect of that crypto-asset in accordance with Article 6;(c) has notified the crypto-asset white paper in accordance with Article 8;(d) has published the crypto-asset white paper in accordance with Article 9;(e) has drafted the marketing communications, if any, in respect of that crypto-asset in accordance with Article 7;(f) has published the marketing communications, if any, in respect of that crypto-asset in accordance with Article 9;(g) complies with the requirements for persons seeking admission to trading laid down in Article 14.
 
 **2.** When a crypto-asset is admitted to trading on the initiative of the operator of a trading platform and a crypto-asset white paper has not been published in accordance with Article 9 in the cases required by this Regulation, the operator of that trading platform for crypto-assets shall comply with the requirements set out in paragraph 1 of this Article.
 
@@ -276,61 +82,25 @@ No additional crypto-asset white paper shall be required for any subsequent offe
 
 The agreement in writing referred to in the first subparagraph of this paragraph shall clearly state that the person seeking admission to trading is required to provide the operator of the trading platform with all necessary information to enable that operator to satisfy the requirements referred to in paragraph 1, points (b) to (g), as applicable.
 
-**4.** Paragraph 1, points (b), (c) and (d), shall not apply where:
-
-(a) the crypto-asset is already admitted to trading on another trading platform for crypto-assets in the Union; and
-
-(b) the crypto-asset white paper is drawn up in accordance with Article 6, updated in accordance with Article 12, and the person responsible for drawing up such white paper consents to its use in writing.
+**4.** Paragraph 1, points (b), (c) and (d), shall not apply where:(a) the crypto-asset is already admitted to trading on another trading platform for crypto-assets in the Union; and(b) the crypto-asset white paper is drawn up in accordance with Article 6, updated in accordance with Article 12, and the person responsible for drawing up such white paper consents to its use in writing.
 
 <a id="art_6"></a>
 
 ### Article 6 — Content and form of the crypto-asset white paper
 
-**1.** A crypto-asset white paper shall contain all of the following information, as further specified in Annex I:
-
-(a) information about the offeror or the person seeking admission to trading;
-
-(b) information about the issuer, if different from the offeror or person seeking admission to trading;
-
-(c) information about the operator of the trading platform in cases where it draws up the crypto-asset white paper;
-
-(d) information about the crypto-asset project;
-
-(e) information about the offer to the public of the crypto-asset or its admission to trading;
-
-(f) information about the crypto-asset;
-
-(g) information on the rights and obligations attached to the crypto-asset;
-
-(h) information on the underlying technology;
-
-(i) information on the risks;
-
-(j) information on the principal adverse impacts on the climate and other environment-related adverse impacts of the consensus mechanism used to issue the crypto-asset.
+**1.** A crypto-asset white paper shall contain all of the following information, as further specified in Annex I:(a) information about the offeror or the person seeking admission to trading;(b) information about the issuer, if different from the offeror or person seeking admission to trading;(c) information about the operator of the trading platform in cases where it draws up the crypto-asset white paper;(d) information about the crypto-asset project;(e) information about the offer to the public of the crypto-asset or its admission to trading;(f) information about the crypto-asset;(g) information on the rights and obligations attached to the crypto-asset;(h) information on the underlying technology;(i) information on the risks;(j) information on the principal adverse impacts on the climate and other environment-related adverse impacts of the consensus mechanism used to issue the crypto-asset.
 
 In cases where the crypto-asset white paper is not drawn up by the persons referred to in the first subparagraph, points (a), (b) and (c), the crypto-asset white paper shall also include the identity of the person that drew up the crypto-asset white paper and the reason why that particular person drew it up.
 
 **2.** All of the information listed in paragraph 1 shall be fair, clear and not misleading. The crypto-asset white paper shall not contain material omissions and shall be presented in a concise and comprehensible form.
 
-**3.** The crypto-asset white paper shall contain the following clear and prominent statement on the first page:‘This crypto-asset white paper has not been approved by any competent authority in any Member State of the European Union. The offeror of the crypto-asset is solely responsible for the content of this crypto-asset white paper.’.
+**3.** The crypto-asset white paper shall contain the following clear and prominent statement on the first page: ‘This crypto-asset white paper has not been approved by any competent authority in any Member State of the European Union. The offeror of the crypto-asset is solely responsible for the content of this crypto-asset white paper.’.
 
 Where the crypto-asset white paper is drawn up by the person seeking admission to trading or by an operator of a trading platform, then, instead of ‘offeror’, a reference to ‘person seeking admission to trading’ or ‘operator of the trading platform’ shall be included in the statement referred to in the first subparagraph.
 
 **4.** The crypto-asset white paper shall not contain any assertions as regards the future value of the crypto-asset, other than the statement referred to in paragraph 5.
 
-**5.** The crypto-asset white paper shall contain a clear and unambiguous statement that:
-
-(a) the crypto-asset may lose its value in part or in full;
-
-(b) the crypto-asset may not always be transferable;
-
-(c) the crypto-asset may not be liquid;
-
-(d) where the offer to the public concerns a utility token, that utility token may not be exchangeable against the good or service promised in the crypto-asset white paper, especially in the case of a failure or discontinuation of the crypto-asset project;
-
-(e) the crypto-asset is not covered by the investor compensation schemes under Directive 97/9/EC of the European Parliament and of the Council;
-
-(f) the crypto-asset is not covered by the deposit guarantee schemes under Directive 2014/49/EU.
+**5.** The crypto-asset white paper shall contain a clear and unambiguous statement that:(a) the crypto-asset may lose its value in part or in full;(b) the crypto-asset may not always be transferable;(c) the crypto-asset may not be liquid;(d) where the offer to the public concerns a utility token, that utility token may not be exchangeable against the good or service promised in the crypto-asset white paper, especially in the case of a failure or discontinuation of the crypto-asset project;(e) the crypto-asset is not covered by the investor compensation schemes under Directive 97/9/EC of the European Parliament and of the Council (9);(f) the crypto-asset is not covered by the deposit guarantee schemes under Directive 2014/49/EU.
 
 **6.** The crypto-asset white paper shall contain a statement from the management body of the offeror, the person seeking admission to trading or the operator of the trading platform. That statement, which shall be inserted after the statement referred to in paragraph 3, shall confirm that the crypto-asset white paper complies with this Title and that, to the best of the knowledge of the management body, the information presented in the crypto-asset white paper is fair, clear and not misleading and the crypto-asset white paper makes no omission likely to affect its import.
 
@@ -344,7 +114,7 @@ The summary shall contain a warning that:
 
 (c) the offer to the public of the crypto-asset does not constitute an offer or solicitation to purchase financial instruments and that any such offer or solicitation can be made only by means of a prospectus or other offer documents pursuant to the applicable national law;
 
-(d) the crypto-asset white paper does not constitute a prospectus as referred to in Regulation (EU) 2017/1129 of the European Parliament and of the Council or any other offer document pursuant to Union or national law.
+(d) the crypto-asset white paper does not constitute a prospectus as referred to in Regulation (EU) 2017/1129 of the European Parliament and of the Council (10) or any other offer document pursuant to Union or national law.
 
 **8.** The crypto-asset white paper shall contain the date of its notification and a table of contents.
 
@@ -372,17 +142,7 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 ### Article 7 — Marketing communications
 
-**1.** Any marketing communications relating to an offer to the public of a crypto-asset other than an asset-referenced token or e-money token, or to the admission to trading of such crypto-asset, shall comply with all of the following requirements:
-
-(a) the marketing communications are clearly identifiable as such;
-
-(b) the information in the marketing communications is fair, clear and not misleading;
-
-(c) the information in the marketing communications is consistent with the information in the crypto-asset white paper, where such crypto-asset white paper is required pursuant to Article 4 or 5;
-
-(d) the marketing communications clearly state that a crypto-asset white paper has been published and clearly indicate the address of the website of the offeror, the person seeking admission to trading, or the operator of the trading platform for the crypto-asset concerned, as well as a telephone number and an email address to contact that person;
-
-(e) the marketing communications contain the following clear and prominent statement: ‘This crypto-asset marketing communication has not been reviewed or approved by any competent authority in any Member State of the European Union. The offeror of the crypto-asset is solely responsible for the content of this crypto-asset marketing communication.’.
+**1.** Any marketing communications relating to an offer to the public of a crypto-asset other than an asset-referenced token or e-money token, or to the admission to trading of such crypto-asset, shall comply with all of the following requirements:(a) the marketing communications are clearly identifiable as such;(b) the information in the marketing communications is fair, clear and not misleading;(c) the information in the marketing communications is consistent with the information in the crypto-asset white paper, where such crypto-asset white paper is required pursuant to Article 4 or 5;(d) the marketing communications clearly state that a crypto-asset white paper has been published and clearly indicate the address of the website of the offeror, the person seeking admission to trading, or the operator of the trading platform for the crypto-asset concerned, as well as a telephone number and an email address to contact that person;(e) the marketing communications contain the following clear and prominent statement: ‘This crypto-asset marketing communication has not been reviewed or approved by any competent authority in any Member State of the European Union. The offeror of the crypto-asset is solely responsible for the content of this crypto-asset marketing communication.’.
 
 Where the marketing communication is prepared by the person seeking admission to trading or the operator of a trading platform, then, instead of ‛offeror’, a reference to ‘person seeking admission to trading’ or ‘operator of the trading platform’ shall be included in the statement referred to in the first subparagraph, point (e).
 
@@ -404,13 +164,7 @@ Where necessary, the competent authority of the home Member State shall assist t
 
 **3.** Competent authorities shall not require prior approval of crypto-asset white papers, nor of any marketing communications relating thereto, before their respective publication.
 
-**4.** The notification of the crypto-asset white paper referred to in paragraph 1 shall be accompanied by an explanation of why the crypto-asset described in the crypto-asset white paper should not be considered to be:
-
-(a) a crypto-asset excluded from the scope of this Regulation pursuant to Article 2(4);
-
-(b) an e-money token; or
-
-(c) an asset-referenced token.
+**4.** The notification of the crypto-asset white paper referred to in paragraph 1 shall be accompanied by an explanation of why the crypto-asset described in the crypto-asset white paper should not be considered to be:(a) a crypto-asset excluded from the scope of this Regulation pursuant to Article 2(4);(b) an e-money token; or(c) an asset-referenced token.
 
 **5.** The elements referred in paragraphs 1 and 4 shall be notified to the competent authority of the home Member State at least 20 working days before the date of publication of the crypto-asset white paper.
 
@@ -438,11 +192,7 @@ ESMA shall make the crypto-asset white paper available in the register, under Ar
 
 **2.** Offerors of crypto-assets other than asset-referenced tokens or e-money tokens that do not set a time limit on their offer to the public of those crypto-assets shall publish on their website on an ongoing basis, at least monthly, the number of units of the crypto-assets in circulation.
 
-**3.** Offerors of crypto-assets other than asset-referenced tokens or e-money tokens that set a time limit on their offer to the public of crypto-assets shall have effective arrangements in place to monitor and safeguard the funds or other crypto-assets raised during the offer to the public. For that purpose, those offerors shall ensure that the funds or crypto-assets collected during the offer to the public are kept in custody by one or both of the following:
-
-(a) a credit institution, where funds are raised during the offer to the public;
-
-(b) a crypto-asset service provider providing custody and administration of crypto-assets on behalf of clients.
+**3.** Offerors of crypto-assets other than asset-referenced tokens or e-money tokens that set a time limit on their offer to the public of crypto-assets shall have effective arrangements in place to monitor and safeguard the funds or other crypto-assets raised during the offer to the public. For that purpose, those offerors shall ensure that the funds or crypto-assets collected during the offer to the public are kept in custody by one or both of the following:(a) a credit institution, where funds are raised during the offer to the public;(b) a crypto-asset service provider providing custody and administration of crypto-assets on behalf of clients.
 
 **4.** When the offer to the public has no time limit, the offeror shall comply with paragraph 3 of this Article until the right of withdrawal of the retail holder pursuant to Article 13 has expired.
 
@@ -500,15 +250,7 @@ Such reimbursement shall be carried out using the same means of payment as that 
 
 ### Article 14 — Obligations of offerors and persons seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens
 
-**1.** Offerors and persons seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens shall:
-
-(a) act honestly, fairly and professionally;
-
-(b) communicate with holders and prospective holders of the crypto-assets in a fair, clear and not misleading manner;
-
-(c) identify, prevent, manage and disclose any conflicts of interest that might arise;
-
-(d) maintain all of their systems and security access protocols in conformity with the appropriate Union standards.
+**1.** Offerors and persons seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens shall:(a) act honestly, fairly and professionally;(b) communicate with holders and prospective holders of the crypto-assets in a fair, clear and not misleading manner;(c) identify, prevent, manage and disclose any conflicts of interest that might arise;(d) maintain all of their systems and security access protocols in conformity with the appropriate Union standards.
 
 For the purposes of point (d) of the first subparagraph, ESMA, in cooperation with EBA, shall by 30 December 2024 issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 to specify those Union standards.
 
@@ -528,37 +270,21 @@ For the purposes of point (d) of the first subparagraph, ESMA, in cooperation wi
 
 **4.** It shall be the responsibility of the holder of the crypto-asset to present evidence indicating that the offeror, person seeking admission to trading, or operator of the trading platform for crypto-assets other than asset-referenced tokens or e-money tokens has infringed Article 6 by providing information that is not complete, fair or clear, or that is misleading and that reliance on such information had an impact on the holder’s decision to purchase, sell or exchange that crypto-asset.
 
-**5.** The offeror, person seeking admission to trading, or operator of the trading platform and the members of its administrative, management or supervisory body shall not be liable to a holder of a crypto-asset for loss incurred as a result of reliance on the information provided in a summary as referred to in Article 6(7), including any translation thereof, except where the summary:
-
-(a) is misleading, inaccurate or inconsistent when read together with the other parts of the crypto-asset white paper; or
-
-(b) does not provide, when read together with the other parts of the crypto-asset white paper, key information in order to aid prospective holders of the crypto-asset when considering whether to purchase such crypto-asset.
+**5.** The offeror, person seeking admission to trading, or operator of the trading platform and the members of its administrative, management or supervisory body shall not be liable to a holder of a crypto-asset for loss incurred as a result of reliance on the information provided in a summary as referred to in Article 6(7), including any translation thereof, except where the summary:(a) is misleading, inaccurate or inconsistent when read together with the other parts of the crypto-asset white paper; or(b) does not provide, when read together with the other parts of the crypto-asset white paper, key information in order to aid prospective holders of the crypto-asset when considering whether to purchase such crypto-asset.
 
 **6.** This Article is without prejudice to any other civil liability pursuant to national law.
-
-## TITLE III — ASSET-REFERENCED TOKENS
-
-### CHAPTER 1 — Authorisation to offer asset-referenced tokens to the public and to seek their admission to trading
 
 <a id="art_16"></a>
 
 ### Article 16 — Authorisation
 
-**1.** A person shall not make an offer to the public, or seek the admission to trading, of an asset-referenced token, within the Union, unless that person is the issuer of that asset-referenced token and is:
-
-(a) a legal person or other undertaking that is established in the Union and has been authorised in accordance with Article 21 by the competent authority of its home Member State; or
-
-(b) a credit institution that complies with Article 17.
+**1.** A person shall not make an offer to the public, or seek the admission to trading, of an asset-referenced token, within the Union, unless that person is the issuer of that asset-referenced token and is:(a) a legal person or other undertaking that is established in the Union and has been authorised in accordance with Article 21 by the competent authority of its home Member State; or(b) a credit institution that complies with Article 17.
 
 Notwithstanding the first subparagraph, upon the written consent of the issuer of an asset-referenced token, other persons may offer to the public or seek the admission to trading of that asset-referenced token. Those persons shall comply with Articles 27, 29 and 40.
 
 For the purposes of point (a) of the first subparagraph, other undertakings may issue asset-referenced tokens only if their legal form ensures a level of protection for third parties’ interests equivalent to that afforded by legal persons and if they are subject to equivalent prudential supervision appropriate to their legal form.
 
-**2.** Paragraph 1 shall not apply where:
-
-(a) over a period of 12 months, calculated at the end of each calendar day, the average outstanding value of the asset-referenced token issued by an issuer never exceeds EUR 5000000, or the equivalent amount in another official currency, and the issuer is not linked to a network of other exempt issuers; or
-
-(b) the offer to the public of the asset-referenced token is addressed solely to qualified investors and the asset-referenced token can only be held by such qualified investors.
+**2.** Paragraph 1 shall not apply where:(a) over a period of 12 months, calculated at the end of each calendar day, the average outstanding value of the asset-referenced token issued by an issuer never exceeds EUR 5 000 000 , or the equivalent amount in another official currency, and the issuer is not linked to a network of other exempt issuers; or(b) the offer to the public of the asset-referenced token is addressed solely to qualified investors and the asset-referenced token can only be held by such qualified investors.
 
 Where this paragraph applies, issuers of asset-referenced tokens shall draw up a crypto-asset white paper as provided for in Article 19 and notify that crypto-asset white paper and, upon request, any marketing communications, to the competent authority of their home Member State.
 
@@ -570,11 +296,7 @@ Where this paragraph applies, issuers of asset-referenced tokens shall draw up a
 
 ### Article 17 — Requirements for credit institutions
 
-**1.** An asset-referenced token issued by a credit institution may be offered to the public or admitted to trading if the credit institution:
-
-(a) draws up a crypto-asset white paper as referred to in Article 19 for the asset-referenced token, submits that crypto-asset white paper for approval by the competent authority of its home Member State in accordance with the procedure set out in the regulatory technical standards adopted pursuant to paragraph 8 of this Article, and has the crypto-asset white paper approved by the competent authority;
-
-(b) notifies the respective competent authority, at least 90 working days before issuing the asset-referenced token for the first time, by providing it with the following information: (i) a programme of operations, setting out the business model that the credit institution intends to follow; (ii) a legal opinion that the asset-referenced token does not qualify as either of the following: - a crypto-asset excluded from the scope of this Regulation pursuant to Article 2(4); a crypto-asset excluded from the scope of this Regulation pursuant to Article 2(4); - an e-money token; an e-money token; (iii) a detailed description of the governance arrangements referred to in Article 34(1); (iv) the policies and procedures listed in Article 34(5), first subparagraph; (v) a description of the contractual arrangements with third-party entities as referred to in Article 34(5), second subparagraph; (vi) a description of the business continuity policy referred to in Article 34(9); (vii) a description of the internal control mechanisms and risk management procedures referred to in Article 34(10); (viii) a description of the systems and procedures in place to safeguard the availability, authenticity, integrity and confidentiality of data referred to in Article 34(11).
+**1.** An asset-referenced token issued by a credit institution may be offered to the public or admitted to trading if the credit institution:(a) draws up a crypto-asset white paper as referred to in Article 19 for the asset-referenced token, submits that crypto-asset white paper for approval by the competent authority of its home Member State in accordance with the procedure set out in the regulatory technical standards adopted pursuant to paragraph 8 of this Article, and has the crypto-asset white paper approved by the competent authority;(b) notifies the respective competent authority, at least 90 working days before issuing the asset-referenced token for the first time, by providing it with the following information:(i) a programme of operations, setting out the business model that the credit institution intends to follow;(ii) a legal opinion that the asset-referenced token does not qualify as either of the following:— a crypto-asset excluded from the scope of this Regulation pursuant to Article 2(4);— an e-money token;(iii) a detailed description of the governance arrangements referred to in Article 34(1);(iv) the policies and procedures listed in Article 34(5), first subparagraph;(v) a description of the contractual arrangements with third-party entities as referred to in Article 34(5), second subparagraph;(vi) a description of the business continuity policy referred to in Article 34(9);(vii) a description of the internal control mechanisms and risk management procedures referred to in Article 34(10);(viii) a description of the systems and procedures in place to safeguard the availability, authenticity, integrity and confidentiality of data referred to in Article 34(11).
 
 **2.** A credit institution that has previously notified the competent authority in accordance with paragraph 1, point (b), when issuing another asset-referenced token shall not be required to submit any information that was previously submitted by it to the competent authority where such information would be identical. When submitting the information listed in paragraph 1, point (b), the credit institution shall expressly confirm that any information not resubmitted is still up-to-date.
 
@@ -610,55 +332,13 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 **1.** Legal persons or other undertakings that intend to offer to the public or seek the admission to trading of asset-referenced tokens shall submit their application for an authorisation referred to in Article 16 to the competent authority of their home Member State.
 
-**2.** The application referred to in paragraph 1 shall contain all of the following information:
-
-(a) the address of the applicant issuer;
-
-(b) the legal entity identifier of the applicant issuer;
-
-(c) the articles of association of the applicant issuer, where applicable;
-
-(d) a programme of operations, setting out the business model that the applicant issuer intends to follow;
-
-(e) a legal opinion that the asset-referenced token does not qualify as either of the following: (i) a crypto-asset excluded from the scope of this Regulation pursuant to Article 2(4); or (ii) an e-money token;
-
-(f) a detailed description of the applicant issuer’s governance arrangements as referred to in Article 34(1);
-
-(g) where cooperation arrangements with specific crypto-asset service providers exist, a description of their internal control mechanisms and procedures to ensure compliance with the obligations in relation to the prevention of money laundering and terrorist financing under Directive (EU) 2015/849;
-
-(h) the identity of the members of the management body of the applicant issuer;
-
-(i) proof that the persons referred to in point (h) are of sufficiently good repute and possess the appropriate knowledge, skills and experience to manage the applicant issuer;
-
-(j) proof that any shareholder or member, whether direct or indirect, that has a qualifying holding in the applicant issuer is of sufficiently good repute;
-
-(k) a crypto-asset white paper as referred to in Article 19;
-
-(l) the policies and procedures referred to in Article 34(5), first subparagraph;
-
-(m) a description of the contractual arrangements with the third-party entities as referred to in Article 34(5), second subparagraph;
-
-(n) a description of the applicant issuer’s business continuity policy referred to in Article 34(9);
-
-(o) a description of the internal control mechanisms and risk management procedures referred to in Article 34(10);
-
-(p) a description of the systems and procedures in place to safeguard the availability, authenticity, integrity and confidentiality of data as referred to in Article 34(11);
-
-(q) a description of the applicant issuer’s complaints-handling procedures as referred to in Article 31;
-
-(r) where applicable, a list of host Member States where the applicant issuer intends to offer the asset-referenced token to the public or intends to seek admission to trading of the asset-referenced token.
+**2.** The application referred to in paragraph 1 shall contain all of the following information:(a) the address of the applicant issuer;(b) the legal entity identifier of the applicant issuer;(c) the articles of association of the applicant issuer, where applicable;(d) a programme of operations, setting out the business model that the applicant issuer intends to follow;(e) a legal opinion that the asset-referenced token does not qualify as either of the following:(i) a crypto-asset excluded from the scope of this Regulation pursuant to Article 2(4); or(ii) an e-money token;(f) a detailed description of the applicant issuer’s governance arrangements as referred to in Article 34(1);(g) where cooperation arrangements with specific crypto-asset service providers exist, a description of their internal control mechanisms and procedures to ensure compliance with the obligations in relation to the prevention of money laundering and terrorist financing under Directive (EU) 2015/849;(h) the identity of the members of the management body of the applicant issuer;(i) proof that the persons referred to in point (h) are of sufficiently good repute and possess the appropriate knowledge, skills and experience to manage the applicant issuer;(j) proof that any shareholder or member, whether direct or indirect, that has a qualifying holding in the applicant issuer is of sufficiently good repute;(k) a crypto-asset white paper as referred to in Article 19;(l) the policies and procedures referred to in Article 34(5), first subparagraph;(m) a description of the contractual arrangements with the third-party entities as referred to in Article 34(5), second subparagraph;(n) a description of the applicant issuer’s business continuity policy referred to in Article 34(9);(o) a description of the internal control mechanisms and risk management procedures referred to in Article 34(10);(p) a description of the systems and procedures in place to safeguard the availability, authenticity, integrity and confidentiality of data as referred to in Article 34(11);(q) a description of the applicant issuer’s complaints-handling procedures as referred to in Article 31;(r) where applicable, a list of host Member States where the applicant issuer intends to offer the asset-referenced token to the public or intends to seek admission to trading of the asset-referenced token.
 
 **3.** Issuers that have already been authorised in respect of one asset-referenced token shall not be required to submit, for the purposes of authorisation in respect of another asset-referenced token, any information that was previously submitted by them to the competent authority where such information would be identical. When submitting the information listed in paragraph 2, the issuer shall expressly confirm that any information not resubmitted is still up-to-date.
 
 **4.** The competent authority shall promptly, and in any event within two working days of receipt of an application pursuant to paragraph 1, acknowledge receipt thereof in writing to the applicant issuer.
 
-**5.** For the purposes of paragraph 2, points (i) and (j), the applicant issuer of the asset-referenced token shall provide proof of all of the following:
-
-(a) for all members of the management body, the absence of a criminal record in respect of convictions or the absence of penalties imposed under the applicable commercial law, insolvency law and financial services law, or in relation to anti-money laundering and counter-terrorist financing, to fraud or to professional liability;
-
-(b) that the members of the management body of the applicant issuer of the asset-referenced token collectively possess the appropriate knowledge, skills and experience to manage the issuer of the asset-referenced token and that those persons are required to commit sufficient time to perform their duties;
-
-(c) for all shareholders and members, whether direct or indirect, that have qualifying holdings in the applicant issuer, the absence of a criminal record in respect of convictions and the absence of penalties imposed under the applicable commercial law, insolvency law and financial services law, or in relation to anti-money laundering and counter-terrorist financing, to fraud or to professional liability.
+**5.** For the purposes of paragraph 2, points (i) and (j), the applicant issuer of the asset-referenced token shall provide proof of all of the following:(a) for all members of the management body, the absence of a criminal record in respect of convictions or the absence of penalties imposed under the applicable commercial law, insolvency law and financial services law, or in relation to anti-money laundering and counter-terrorist financing, to fraud or to professional liability;(b) that the members of the management body of the applicant issuer of the asset-referenced token collectively possess the appropriate knowledge, skills and experience to manage the issuer of the asset-referenced token and that those persons are required to commit sufficient time to perform their duties;(c) for all shareholders and members, whether direct or indirect, that have qualifying holdings in the applicant issuer, the absence of a criminal record in respect of convictions and the absence of penalties imposed under the applicable commercial law, insolvency law and financial services law, or in relation to anti-money laundering and counter-terrorist financing, to fraud or to professional liability.
 
 **6.** EBA, in close cooperation with ESMA and the ECB, shall develop draft regulatory technical standards to further specify the information referred to in paragraph 2.
 
@@ -676,23 +356,7 @@ Power is conferred on the Commission to adopt the implementing technical standar
 
 ### Article 19 — Content and form of the crypto-asset white paper for asset-referenced tokens
 
-**1.** A crypto-asset white paper for an asset-referenced token shall contain all of the following information, as further specified in Annex II:
-
-(a) information about the issuer of the asset-referenced token;
-
-(b) information about the asset-referenced token;
-
-(c) information about the offer to the public of the asset-referenced token or its admission to trading;
-
-(d) information on the rights and obligations attached to the asset-referenced token;
-
-(e) information on the underlying technology;
-
-(f) information on the risks;
-
-(g) information on the reserve of assets;
-
-(h) information on the principal adverse impacts on the climate and other environment-related adverse impacts of the consensus mechanism used to issue the asset-referenced token.
+**1.** A crypto-asset white paper for an asset-referenced token shall contain all of the following information, as further specified in Annex II:(a) information about the issuer of the asset-referenced token;(b) information about the asset-referenced token;(c) information about the offer to the public of the asset-referenced token or its admission to trading;(d) information on the rights and obligations attached to the asset-referenced token;(e) information on the underlying technology;(f) information on the risks;(g) information on the reserve of assets;(h) information on the principal adverse impacts on the climate and other environment-related adverse impacts of the consensus mechanism used to issue the asset-referenced token.
 
 The crypto-asset white paper shall also include the identity of the person other than the issuer that offers to the public or seeks admission to trading pursuant to Article 16(1), second subparagraph, and the reason why that particular person offers that asset-referenced token or seeks its admission to trading. In cases where the crypto-asset white paper is not drawn up by the issuer, the crypto-asset white paper shall also include the identity of the person that drew up the crypto-asset white paper and the reason why that particular person drew it up.
 
@@ -700,17 +364,7 @@ The crypto-asset white paper shall also include the identity of the person other
 
 **3.** The crypto-asset white paper shall not contain any assertions as regards the future value of the crypto-assets, other than the statement referred to in paragraph 4.
 
-**4.** The crypto-asset white paper shall contain a clear and unambiguous statement that:
-
-(a) the asset-referenced token may lose its value in part or in full;
-
-(b) the asset-referenced token may not always be transferable;
-
-(c) the asset-referenced token may not be liquid;
-
-(d) the asset-referenced token is not covered by the investor compensation schemes under Directive 97/9/EC;
-
-(e) the asset-referenced token is not covered by the deposit guarantee schemes under Directive 2014/49/EU.
+**4.** The crypto-asset white paper shall contain a clear and unambiguous statement that:(a) the asset-referenced token may lose its value in part or in full;(b) the asset-referenced token may not always be transferable;(c) the asset-referenced token may not be liquid;(d) the asset-referenced token is not covered by the investor compensation schemes under Directive 97/9/EC;(e) the asset-referenced token is not covered by the deposit guarantee schemes under Directive 2014/49/EU.
 
 **5.** The crypto-asset white paper shall contain a statement from the management body of the issuer of the asset-referenced token. That statement shall confirm that the crypto-asset white paper complies with this Title and that, to the best of the knowledge of the management body, the information presented in the crypto-asset white paper is fair, clear and not misleading and the crypto-asset white paper makes no omission likely to affect its import.
 
@@ -778,17 +432,7 @@ The competent authority shall, however, duly consider the opinions referred in t
 
 **1.** Competent authorities shall, within 25 working days of receipt of the opinions referred to in Article 20(5), take a fully reasoned decision granting or refusing authorisation to the applicant issuer and, within five working days of taking that decision, notify it to the applicant issuer. Where an applicant issuer is authorised, its crypto-asset white paper shall be deemed to be approved.
 
-**2.** Competent authorities shall refuse authorisation where there are objective and demonstrable grounds that:
-
-(a) the management body of the applicant issuer might pose a threat to its effective, sound and prudent management and business continuity and to the adequate consideration of the interest of its clients and the integrity of the market;
-
-(b) members of the management body do not meet the criteria set out in Article 34(2);
-
-(c) shareholders and members, whether direct or indirect, that have qualifying holdings do not meet the criteria of sufficiently good repute set out in Article 34(4);
-
-(d) the applicant issuer fails to meet or is likely to fail to meet any of the requirements of this Title;
-
-(e) the applicant issuer’s business model might pose a serious threat to market integrity, financial stability, the smooth operation of payment systems, or exposes the issuer or the sector to serious risks of money laundering and terrorist financing.
+**2.** Competent authorities shall refuse authorisation where there are objective and demonstrable grounds that:(a) the management body of the applicant issuer might pose a threat to its effective, sound and prudent management and business continuity and to the adequate consideration of the interest of its clients and the integrity of the market;(b) members of the management body do not meet the criteria set out in Article 34(2);(c) shareholders and members, whether direct or indirect, that have qualifying holdings do not meet the criteria of sufficiently good repute set out in Article 34(4);(d) the applicant issuer fails to meet or is likely to fail to meet any of the requirements of this Title;(e) the applicant issuer’s business model might pose a serious threat to market integrity, financial stability, the smooth operation of payment systems, or exposes the issuer or the sector to serious risks of money laundering and terrorist financing.
 
 **3.** EBA and ESMA shall, by 30 June 2024, jointly issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 and Article 16 of Regulation (EU) No 1095/2010, respectively, on the assessment of the suitability of the members of the management body of issuers of asset-referenced tokens and of the shareholders and members, whether direct or indirect, that have qualifying holdings in issuers of asset-referenced tokens.
 
@@ -804,21 +448,13 @@ ESMA shall make such information available in the register, under Article 109(3)
 
 ### Article 22 — Reporting on asset-referenced tokens
 
-**1.** For each asset-referenced token with an issue value that is higher than EUR 100000000, the issuer shall report on a quarterly basis to the competent authority the following information:
-
-(a) the number of holders;
-
-(b) the value of the asset-referenced token issued and the size of the reserve of assets;
-
-(c) the average number and average aggregate value of transactions per day during the relevant quarter;
-
-(d) an estimate of the average number and average aggregate value of transactions per day during the relevant quarter that are associated to its uses as a means of exchange within a single currency area.
+**1.** For each asset-referenced token with an issue value that is higher than EUR 100 000 000 , the issuer shall report on a quarterly basis to the competent authority the following information:(a) the number of holders;(b) the value of the asset-referenced token issued and the size of the reserve of assets;(c) the average number and average aggregate value of transactions per day during the relevant quarter;(d) an estimate of the average number and average aggregate value of transactions per day during the relevant quarter that are associated to its uses as a means of exchange within a single currency area.
 
 For the purposes of points (c) and (d) of the first subparagraph, ‘transaction’ shall mean any change of the natural or legal person entitled to the asset-referenced token as a result of the transfer of the asset-referenced token from one distributed ledger address or account to another.
 
 Transactions that are associated with the exchange for funds or other crypto-assets with the issuer or with a crypto-asset service provider shall not be considered associated to uses of the asset-referenced token as a means of exchange, unless there is evidence that the asset-referenced token is used for the settlement of transactions in other crypto-assets.
 
-**2.** The competent authority may require issuers of asset-referenced tokens to comply with the reporting obligation referred to in paragraph 1 in respect of asset-referenced tokens issued with a value of less than EUR 100000000.
+**2.** The competent authority may require issuers of asset-referenced tokens to comply with the reporting obligation referred to in paragraph 1 in respect of asset-referenced tokens issued with a value of less than EUR 100 000 000 .
 
 **3.** Crypto-asset service providers that provide services related to asset-referenced tokens shall provide the issuer of the asset-referenced token with the information necessary to prepare the report referred to in paragraph 1, including by reporting transactions outside the distributed ledger.
 
@@ -842,11 +478,7 @@ Power is conferred on the Commission to adopt the implementing technical standar
 
 ### Article 23 — Restrictions on the issuance of asset-referenced tokens used widely as a means of exchange
 
-**1.** Where, for an asset-referenced token, the estimated quarterly average number and average aggregate value of transactions per day associated to its uses as a means of exchange within a single currency area is higher than 1 million transactions and EUR 200000000, respectively, the issuer shall:
-
-(a) stop issuing that asset-referenced token; and
-
-(b) within 40 working days of reaching that threshold, submit a plan to the competent authority to ensure that the estimated quarterly average number and average aggregate value of those transactions per day is kept below 1 million transactions and EUR 200000000 respectively.
+**1.** Where, for an asset-referenced token, the estimated quarterly average number and average aggregate value of transactions per day associated to its uses as a means of exchange within a single currency area is higher than 1 million transactions and EUR 200 000 000 , respectively, the issuer shall:(a) stop issuing that asset-referenced token; and(b) within 40 working days of reaching that threshold, submit a plan to the competent authority to ensure that the estimated quarterly average number and average aggregate value of those transactions per day is kept below 1 million transactions and EUR 200 000 000 respectively.
 
 **2.** The competent authority shall use the information provided by the issuer, its own estimates, or the estimates provided by the ECB or, where applicable, by the central bank referred to in Article 20(4), whichever is higher, in order to assess whether the threshold referred to in paragraph 1 is reached.
 
@@ -854,27 +486,13 @@ Power is conferred on the Commission to adopt the implementing technical standar
 
 **4.** The issuer shall submit the plan referred to in paragraph 1, point (b), for approval to the competent authority. Where necessary, the competent authority shall require modifications, such as imposing a minimum denomination amount, in order to ensure a timely decrease of the use as a means of exchange of the asset-referenced token.
 
-**5.** The competent authority shall only allow the issuer to issue the asset-referenced token again when it has evidence that the estimated quarterly average number and average aggregated value of transactions per day associated to its uses as a means of exchange within a single currency area is lower than 1 million transactions and EUR 200000000 respectively.
+**5.** The competent authority shall only allow the issuer to issue the asset-referenced token again when it has evidence that the estimated quarterly average number and average aggregated value of transactions per day associated to its uses as a means of exchange within a single currency area is lower than 1 million transactions and EUR 200 000 000 respectively.
 
 <a id="art_24"></a>
 
 ### Article 24 — Withdrawal of the authorisation
 
-**1.** Competent authorities shall withdraw the authorisation of an issuer of an asset-referenced token in any of the following situations:
-
-(a) the issuer has ceased to engage in business for six consecutive months, or has not used its authorisation for 12 consecutive months;
-
-(b) the issuer has obtained its authorisation by irregular means, such as by making false statements in the application for authorisation referred to in Article 18 or in any crypto-asset white paper modified in accordance with Article 25;
-
-(c) the issuer no longer meets the conditions under which the authorisation was granted;
-
-(d) the issuer has seriously infringed the provisions of this Title;
-
-(e) the issuer has been subject to a redemption plan;
-
-(f) the issuer has expressly renounced its authorisation or has decided to cease operations;
-
-(g) the issuer’s activity poses a serious threat to market integrity, financial stability, the smooth operation of payment systems or exposes the issuer or the sector to serious risks of money laundering and terrorist financing.
+**1.** Competent authorities shall withdraw the authorisation of an issuer of an asset-referenced token in any of the following situations:(a) the issuer has ceased to engage in business for six consecutive months, or has not used its authorisation for 12 consecutive months;(b) the issuer has obtained its authorisation by irregular means, such as by making false statements in the application for authorisation referred to in Article 18 or in any crypto-asset white paper modified in accordance with Article 25;(c) the issuer no longer meets the conditions under which the authorisation was granted;(d) the issuer has seriously infringed the provisions of this Title;(e) the issuer has been subject to a redemption plan;(f) the issuer has expressly renounced its authorisation or has decided to cease operations;(g) the issuer’s activity poses a serious threat to market integrity, financial stability, the smooth operation of payment systems or exposes the issuer or the sector to serious risks of money laundering and terrorist financing.
 
 The issuer of the asset-referenced token shall notify its competent authority of any of the situations referred to in the first subparagraph, points (e) and (f).
 
@@ -882,11 +500,7 @@ The issuer of the asset-referenced token shall notify its competent authority of
 
 **3.** Competent authorities shall limit the amount of an asset-referenced token to be issued or impose a minimum denomination amount in respect of the asset-referenced token when the ECB or, where applicable, the central bank referred to in Article 20(4), issues an opinion that the asset-referenced token poses a threat to the smooth operation of payment systems, monetary policy transmission or monetary sovereignty, and specify the applicable limit or minimum denomination amount.
 
-**4.** The relevant competent authorities shall notify the competent authority of an issuer of an asset-referenced token, without delay, of the following situations:
-
-(a) a third-party entity as referred to in Article 34(5), first subparagraph, point (h), of this Regulation has lost its authorisation as a credit institution as referred to in Article 8 of Directive 2013/36/EU, as a crypto-asset service provider as referred to in Article 59 of this Regulation, as a payment institution, or as an electronic money institution;
-
-(b) the members of the issuer’s management body or shareholders or members, whether direct or indirect, that have qualifying holdings in the issuer have infringed the provisions of national law transposing Directive (EU) 2015/849.
+**4.** The relevant competent authorities shall notify the competent authority of an issuer of an asset-referenced token, without delay, of the following situations:(a) a third-party entity as referred to in Article 34(5), first subparagraph, point (h), of this Regulation has lost its authorisation as a credit institution as referred to in Article 8 of Directive 2013/36/EU, as a crypto-asset service provider as referred to in Article 59 of this Regulation, as a payment institution, or as an electronic money institution;(b) the members of the issuer’s management body or shareholders or members, whether direct or indirect, that have qualifying holdings in the issuer have infringed the provisions of national law transposing Directive (EU) 2015/849.
 
 **5.** Competent authorities shall withdraw the authorisation of an issuer of an asset-referenced token where they are of the opinion that the situations referred to in paragraph 4 of this Article affect the good repute of the members of the management body of that issuer or the good repute of any shareholders or members, whether direct or indirect, that have qualifying holdings in the issuer, or if there is an indication of a failure of the governance arrangements or internal control mechanisms as referred to in Article 34.
 
@@ -898,27 +512,7 @@ When the authorisation is withdrawn, the issuer of the asset-referenced token sh
 
 ### Article 25 — Modification of published crypto-asset white papers for asset-referenced tokens
 
-**1.** Issuers of asset-referenced tokens shall notify the competent authority of their home Member State of any intended change of their business model likely to have a significant influence on the purchase decision of any holders or prospective holders of asset-referenced tokens, which occurs after the authorisation pursuant to Article 21 or after the approval of the crypto-asset white paper pursuant to Article 17, as well as in the context of Article 23. Such changes include, amongst others, any material modifications to:
-
-(a) the governance arrangements, including reporting lines to the management body and risk management framework;
-
-(b) the reserve assets and the custody of the reserve assets;
-
-(c) the rights granted to the holders of asset-referenced tokens;
-
-(d) the mechanism through which an asset-referenced token is issued and redeemed;
-
-(e) the protocols for validating the transactions in asset-referenced tokens;
-
-(f) the functioning of issuers’ proprietary distributed ledger technology, where the asset-referenced tokens are issued, transferred and stored using such a distributed ledger technology;
-
-(g) the mechanisms to ensure the liquidity of asset-referenced tokens, including the liquidity management policy and procedures for issuers of significant asset-referenced tokens referred to in Article 45;
-
-(h) the arrangements with third-party entities, including for managing the reserve assets and the investment of the reserve, the custody of reserve assets, and, where applicable, the distribution of the asset-referenced tokens to the public;
-
-(i) the complaints-handling procedures;
-
-(j) the money laundering and terrorist financing risk assessment and general policies and procedures related thereto.
+**1.** Issuers of asset-referenced tokens shall notify the competent authority of their home Member State of any intended change of their business model likely to have a significant influence on the purchase decision of any holders or prospective holders of asset-referenced tokens, which occurs after the authorisation pursuant to Article 21 or after the approval of the crypto-asset white paper pursuant to Article 17, as well as in the context of Article 23. Such changes include, amongst others, any material modifications to:(a) the governance arrangements, including reporting lines to the management body and risk management framework;(b) the reserve assets and the custody of the reserve assets;(c) the rights granted to the holders of asset-referenced tokens;(d) the mechanism through which an asset-referenced token is issued and redeemed;(e) the protocols for validating the transactions in asset-referenced tokens;(f) the functioning of issuers’ proprietary distributed ledger technology, where the asset-referenced tokens are issued, transferred and stored using such a distributed ledger technology;(g) the mechanisms to ensure the liquidity of asset-referenced tokens, including the liquidity management policy and procedures for issuers of significant asset-referenced tokens referred to in Article 45;(h) the arrangements with third-party entities, including for managing the reserve assets and the investment of the reserve, the custody of reserve assets, and, where applicable, the distribution of the asset-referenced tokens to the public;(i) the complaints-handling procedures;(j) the money laundering and terrorist financing risk assessment and general policies and procedures related thereto.
 
 Issuers of asset-referenced tokens shall notify the competent authority of their home Member State at least 30 working days before the intended changes take effect.
 
@@ -934,11 +528,7 @@ The competent authority shall grant approval of, or refuse to approve, the draft
 
 The ECB or the relevant central bank and, where applicable, EBA and ESMA, shall provide an opinion within 20 working days of receipt of the consultation referred to in the first subparagraph.
 
-**4.** Where the competent authority approves the modified crypto-asset white paper, it may require the issuer of the asset-referenced token:
-
-(a) to put in place mechanisms to ensure the protection of holders of the asset-referenced token, when a potential modification of the issuer’s operations can have a material effect on the value, stability, or risks of the asset-referenced token or the reserve assets;
-
-(b) to take any appropriate corrective measures to address concerns related to market integrity, financial stability or the smooth operation of payment systems.
+**4.** Where the competent authority approves the modified crypto-asset white paper, it may require the issuer of the asset-referenced token:(a) to put in place mechanisms to ensure the protection of holders of the asset-referenced token, when a potential modification of the issuer’s operations can have a material effect on the value, stability, or risks of the asset-referenced token or the reserve assets;(b) to take any appropriate corrective measures to address concerns related to market integrity, financial stability or the smooth operation of payment systems.
 
 The competent authority shall require the issuer of the asset-referenced token to take any appropriate corrective measures to address concerns related to the smooth operation of payment systems, monetary policy transmission, or monetary sovereignty, if such corrective measures are proposed by the ECB or, where applicable, the central bank referred to in Article 20(4) in the consultations referred to in paragraph 3 of this Article.
 
@@ -958,15 +548,9 @@ ESMA shall make the modified crypto-asset white paper available in the register 
 
 **3.** It shall be the responsibility of the holder of the asset-referenced token to present evidence indicating that the issuer of that asset-referenced token has infringed Article 19 by providing in its crypto-asset white paper or in a modified crypto-asset white paper information that is not complete, fair or clear, or that is misleading and that reliance on such information had an impact on the holder’s decision to purchase, sell or exchange that asset-referenced token.
 
-**4.** The issuer and the members of its administrative, management or supervisory body shall not be liable for loss suffered as a result of reliance on the information provided in a summary pursuant to Article 19, including any translation thereof, except where the summary:
-
-(a) is misleading, inaccurate or inconsistent when read together with the other parts of the crypto-asset white paper; or
-
-(b) does not provide, when read together with the other parts of the crypto-asset white paper, key information in order to aid prospective holders when considering whether to purchase the asset-referenced token.
+**4.** The issuer and the members of its administrative, management or supervisory body shall not be liable for loss suffered as a result of reliance on the information provided in a summary pursuant to Article 19, including any translation thereof, except where the summary:(a) is misleading, inaccurate or inconsistent when read together with the other parts of the crypto-asset white paper; or(b) does not provide, when read together with the other parts of the crypto-asset white paper, key information in order to aid prospective holders when considering whether to purchase the asset-referenced token.
 
 **5.** This Article is without prejudice to any other civil liability pursuant to national law.
-
-### CHAPTER 2 — Obligations of issuers of asset-referenced tokens
 
 <a id="art_27"></a>
 
@@ -986,15 +570,7 @@ An issuer of an asset-referenced token shall publish on its website the approved
 
 ### Article 29 — Marketing communications
 
-**1.** Any marketing communications relating to an offer to the public of an asset-referenced token, or to the admission to trading of such asset-referenced token, shall comply with all of the following requirements:
-
-(a) the marketing communications are clearly identifiable as such;
-
-(b) the information in the marketing communications is fair, clear and not misleading;
-
-(c) the information in the marketing communications is consistent with the information in the crypto-asset white paper;
-
-(d) the marketing communications clearly state that a crypto-asset white paper has been published and clearly indicate the address of the website of the issuer of the asset-referenced token, as well as a telephone number and an email address to contact the issuer.
+**1.** Any marketing communications relating to an offer to the public of an asset-referenced token, or to the admission to trading of such asset-referenced token, shall comply with all of the following requirements:(a) the marketing communications are clearly identifiable as such;(b) the information in the marketing communications is fair, clear and not misleading;(c) the information in the marketing communications is consistent with the information in the crypto-asset white paper;(d) the marketing communications clearly state that a crypto-asset white paper has been published and clearly indicate the address of the website of the issuer of the asset-referenced token, as well as a telephone number and an email address to contact the issuer.
 
 **2.** Marketing communications shall contain a clear and unambiguous statement that the holders of the asset-referenced token have a right of redemption against the issuer at any time.
 
@@ -1038,19 +614,7 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 ### Article 32 — Identification, prevention, management and disclosure of conflicts of interest
 
-**1.** Issuers of asset-referenced tokens shall implement and maintain effective policies and procedures to identify, prevent, manage and disclose conflicts of interest between themselves and:
-
-(a) their shareholders or members;
-
-(b) any shareholder or member, whether direct or indirect, that has a qualifying holding in the issuers;
-
-(c) the members of their management body;
-
-(d) their employees;
-
-(e) the holders of asset-referenced tokens; or
-
-(f) any third party providing one of the functions as referred in Article 34(5), first subparagraph, point (h).
+**1.** Issuers of asset-referenced tokens shall implement and maintain effective policies and procedures to identify, prevent, manage and disclose conflicts of interest between themselves and:(a) their shareholders or members;(b) any shareholder or member, whether direct or indirect, that has a qualifying holding in the issuers;(c) the members of their management body;(d) their employees;(e) the holders of asset-referenced tokens; or(f) any third party providing one of the functions as referred in Article 34(5), first subparagraph, point (h).
 
 **2.** Issuers of asset-referenced tokens shall, in particular, take all appropriate steps to identify, prevent, manage and disclose conflicts of interest arising from the management and investment of the reserve of assets referred to in Article 36.
 
@@ -1058,11 +622,7 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 **4.** The disclosure referred to in paragraph 3 shall be sufficiently precise to enable the prospective holders of their asset-referenced tokens to take an informed purchasing decision about the asset-referenced tokens.
 
-**5.** EBA shall develop draft regulatory technical standards to further specify:
-
-(a) the requirements for the policies and procedures referred to in paragraph 1;
-
-(b) the details and methodology for the content of the disclosure referred to in paragraph 3.
+**5.** EBA shall develop draft regulatory technical standards to further specify:(a) the requirements for the policies and procedures referred to in paragraph 1;(b) the details and methodology for the content of the disclosure referred to in paragraph 3.
 
 EBA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
 
@@ -1086,29 +646,7 @@ Issuers of asset-referenced tokens shall notify immediately their competent auth
 
 **4.** Shareholders or members, whether direct or indirect, that have qualifying holdings in issuers of asset-referenced tokens shall be of sufficiently good repute and, in particular, shall not have been convicted of offences relating to money laundering or terrorist financing or of any other offences that would affect their good repute.
 
-**5.** Issuers of asset-referenced tokens shall adopt policies and procedures that are sufficiently effective to ensure compliance with this Regulation. Issuers of asset-referenced tokens shall establish, maintain and implement, in particular, policies and procedures on:
-
-(a) the reserve of assets referred to in Article 36;
-
-(b) the custody of the reserve assets, including the segregation of assets, as specified in Article 37;
-
-(c) the rights granted to the holders of asset-referenced tokens, as specified in Article 39;
-
-(d) the mechanism through which asset-referenced tokens are issued and redeemed;
-
-(e) the protocols for validating transactions in asset-referenced tokens;
-
-(f) the functioning of the issuers’ proprietary distributed ledger technology, where the asset-referenced tokens are issued, transferred and stored using such distributed ledger technology or similar technology that is operated by the issuers or a third party acting on their behalf;
-
-(g) the mechanisms to ensure the liquidity of asset-referenced tokens, including the liquidity management policy and procedures for issuers of significant asset-referenced tokens referred to in Article 45;
-
-(h) arrangements with third-party entities for operating the reserve of assets, and for the investment of the reserve assets, the custody of the reserve assets and, where applicable, the distribution of the asset-referenced tokens to the public;
-
-(i) the written consent of the issuers of asset-referenced tokens given to other persons that might offer or seek the admission to trading of the asset-referenced tokens;
-
-(j) complaints-handling, as specified in Article 31;
-
-(k) conflicts of interest, as specified in Article 32.
+**5.** Issuers of asset-referenced tokens shall adopt policies and procedures that are sufficiently effective to ensure compliance with this Regulation. Issuers of asset-referenced tokens shall establish, maintain and implement, in particular, policies and procedures on:(a) the reserve of assets referred to in Article 36;(b) the custody of the reserve assets, including the segregation of assets, as specified in Article 37;(c) the rights granted to the holders of asset-referenced tokens, as specified in Article 39;(d) the mechanism through which asset-referenced tokens are issued and redeemed;(e) the protocols for validating transactions in asset-referenced tokens;(f) the functioning of the issuers’ proprietary distributed ledger technology, where the asset-referenced tokens are issued, transferred and stored using such distributed ledger technology or similar technology that is operated by the issuers or a third party acting on their behalf;(g) the mechanisms to ensure the liquidity of asset-referenced tokens, including the liquidity management policy and procedures for issuers of significant asset-referenced tokens referred to in Article 45;(h) arrangements with third-party entities for operating the reserve of assets, and for the investment of the reserve assets, the custody of the reserve assets and, where applicable, the distribution of the asset-referenced tokens to the public;(i) the written consent of the issuers of asset-referenced tokens given to other persons that might offer or seek the admission to trading of the asset-referenced tokens;(j) complaints-handling, as specified in Article 31;(k) conflicts of interest, as specified in Article 32.
 
 Where issuers of asset-referenced tokens enter into arrangements as referred to in the first subparagraph, point (h), those arrangements shall be set out in a contract with the third-party entities. Those contractual arrangements shall set out the roles, responsibilities, rights and obligations both of the issuers of asset-referenced tokens and of the third-party entities. Any contractual arrangement with cross-jurisdictional implications shall provide for an unambiguous choice of applicable law.
 
@@ -1120,21 +658,13 @@ Where issuers of asset-referenced tokens enter into arrangements as referred to 
 
 **9.** Issuers of asset-referenced tokens shall establish a business continuity policy and plans to ensure, in the case of an interruption of their ICT systems and procedures, the preservation of essential data and functions and the maintenance of their activities or, where that is not possible, the timely recovery of such data and functions and the timely resumption of their activities.
 
-**10.** Issuers of asset-referenced tokens shall have in place internal control mechanisms and effective procedures for risk management, including effective control and safeguard arrangements for managing ICT systems as required by Regulation (EU) 2022/2554 of the European Parliament and of the Council. The procedures shall provide for a comprehensive assessment relating to the reliance on third-party entities as referred to in paragraph 5, first subparagraph, point (h), of this Article. Issuers of asset-referenced tokens shall monitor and evaluate on a regular basis the adequacy and effectiveness of the internal control mechanisms and procedures for risk assessment and take appropriate measures to address any deficiencies in that respect.
+**10.** Issuers of asset-referenced tokens shall have in place internal control mechanisms and effective procedures for risk management, including effective control and safeguard arrangements for managing ICT systems as required by Regulation (EU) 2022/2554 of the European Parliament and of the Council (11). The procedures shall provide for a comprehensive assessment relating to the reliance on third-party entities as referred to in paragraph 5, first subparagraph, point (h), of this Article. Issuers of asset-referenced tokens shall monitor and evaluate on a regular basis the adequacy and effectiveness of the internal control mechanisms and procedures for risk assessment and take appropriate measures to address any deficiencies in that respect.
 
 **11.** Issuers of asset-referenced tokens shall have systems and procedures in place that are adequate to safeguard the availability, authenticity, integrity and confidentiality of data as required by Regulation (EU) 2022/2554 and in line with Regulation (EU) 2016/679. Those systems shall record and safeguard relevant data and information collected and produced in the course of the issuers’ activities.
 
 **12.** Issuers of asset-referenced tokens shall ensure that they are regularly audited by independent auditors. The results of those audits shall be communicated to the management body of the issuer concerned and made available to the competent authority.
 
-**13.** By 30 June 2024, EBA, in close cooperation with ESMA and the ECB, shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 specifying the minimum content of the governance arrangements on:
-
-(a) the monitoring tools for the risks referred to in paragraph 8;
-
-(b) the business continuity plan referred to in paragraph 9;
-
-(c) the internal control mechanism referred to in paragraph 10;
-
-(d) the audits referred to in paragraph 12, including the minimum documentation to be used in the audit.
+**13.** By 30 June 2024, EBA, in close cooperation with ESMA and the ECB, shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 specifying the minimum content of the governance arrangements on:(a) the monitoring tools for the risks referred to in paragraph 8;(b) the business continuity plan referred to in paragraph 9;(c) the internal control mechanism referred to in paragraph 10;(d) the audits referred to in paragraph 12, including the minimum documentation to be used in the audit.
 
 When issuing the guidelines referred to in the first subparagraph, EBA shall take into account the provisions on governance requirements in other Union legislative acts on financial services, including Directive 2014/65/EU.
 
@@ -1142,13 +672,7 @@ When issuing the guidelines referred to in the first subparagraph, EBA shall tak
 
 ### Article 35 — Own funds requirements
 
-**1.** Issuers of asset-referenced tokens shall, at all times, have own funds equal to an amount of at least the highest of the following:
-
-(a) EUR 350000;
-
-(b) 2 % of the average amount of the reserve of assets referred to in Article 36;
-
-(c) a quarter of the fixed overheads of the preceding year.
+**1.** Issuers of asset-referenced tokens shall, at all times, have own funds equal to an amount of at least the highest of the following:(a) EUR 350 000 ;(b) 2 % of the average amount of the reserve of assets referred to in Article 36;(c) a quarter of the fixed overheads of the preceding year.
 
 For the purposes of point (b) of the first subparagraph, the average amount of the reserve of assets shall mean the average amount of the reserve assets at the end of each calendar day, calculated over the preceding six months.
 
@@ -1158,39 +682,17 @@ The amount referred to in point (c) of the first subparagraph shall be reviewed 
 
 **2.** The own funds referred to in paragraph 1 of this Article shall consist of the Common Equity Tier 1 items and instruments referred to in Articles 26 to 30 of Regulation (EU) No 575/2013 after the deductions in full pursuant to Article 36 of that Regulation, without the application of the threshold exemptions referred to in Article 46(4) and Article 48 of that Regulation.
 
-**3.** The competent authority of the home Member State may require an issuer of an asset-referenced token to hold an amount of own funds which is up to 20 % higher than the amount resulting from the application of paragraph 1, first subparagraph, point (b), where an assessment of any of the following indicates a higher degree of risk:
-
-(a) the evaluation of the risk-management processes and internal control mechanisms of the issuer of the asset-referenced token as referred to in Article 34(1), (8) and (10);
-
-(b) the quality and volatility of the reserve of assets referred to in Article 36;
-
-(c) the types of rights granted by the issuer of the asset-referenced token to holders of the asset-referenced token in accordance with Article 39;
-
-(d) where the reserve of assets includes investments, the risks posed by the investment policy on the reserve of assets;
-
-(e) the aggregate value and number of transactions settled in the asset-referenced token;
-
-(f) the importance of the markets on which the asset-referenced token is offered and marketed;
-
-(g) where applicable, the market capitalisation of the asset-referenced token.
+**3.** The competent authority of the home Member State may require an issuer of an asset-referenced token to hold an amount of own funds which is up to 20 % higher than the amount resulting from the application of paragraph 1, first subparagraph, point (b), where an assessment of any of the following indicates a higher degree of risk:(a) the evaluation of the risk-management processes and internal control mechanisms of the issuer of the asset-referenced token as referred to in Article 34(1), (8) and (10);(b) the quality and volatility of the reserve of assets referred to in Article 36;(c) the types of rights granted by the issuer of the asset-referenced token to holders of the asset-referenced token in accordance with Article 39;(d) where the reserve of assets includes investments, the risks posed by the investment policy on the reserve of assets;(e) the aggregate value and number of transactions settled in the asset-referenced token;(f) the importance of the markets on which the asset-referenced token is offered and marketed;(g) where applicable, the market capitalisation of the asset-referenced token.
 
 **4.** The competent authority of the home Member State may require an issuer of an asset-referenced token that is not significant to comply with any requirement set out in Article 45, where necessary to address the higher degree of risks identified in accordance with paragraph 3 of this Article, or any other risks that Article 45 aims to address, such as liquidity risks.
 
 **5.** Without prejudice to paragraph 3, issuers of asset-referenced tokens shall conduct, on a regular basis, stress testing that takes into account severe but plausible financial stress scenarios, such as interest rate shocks, and non-financial stress scenarios, such as operational risk. Based on the outcome of such stress testing, the competent authority of the home Member State shall require the issuer of the asset-referenced token to hold an amount of own funds that is between 20 % and 40 % higher than the amount resulting from the application of paragraph 1, first subparagraph, point (b), in certain circumstances having regard to the risk outlook and stress testing results.
 
-**6.** EBA, in close cooperation with ESMA and the ECB, shall develop draft regulatory technical standards further specifying:
-
-(a) the procedure and timeframe for an issuer of an asset-referenced token to adjust to higher own funds requirements as set out in paragraph 3;
-
-(b) the criteria for requiring a higher amount of own funds as set out in paragraph 3;
-
-(c) the minimum requirements for the design of stress testing programmes, taking into account the size, complexity and nature of the asset-referenced token, including but not limited to: (i) the types of stress testing and their main objectives and applications; (ii) the frequency of the different stress testing exercises; (iii) the internal governance arrangements; (iv) the relevant data infrastructure; (v) the methodology and the plausibility of assumptions; (vi) the application of the proportionality principle to all of the minimum requirements, whether quantitative or qualitative; and (vii) the minimum periodicity of the stress tests and the common reference parameters of the stress test scenarios.
+**6.** EBA, in close cooperation with ESMA and the ECB, shall develop draft regulatory technical standards further specifying:(a) the procedure and timeframe for an issuer of an asset-referenced token to adjust to higher own funds requirements as set out in paragraph 3;(b) the criteria for requiring a higher amount of own funds as set out in paragraph 3;(c) the minimum requirements for the design of stress testing programmes, taking into account the size, complexity and nature of the asset-referenced token, including but not limited to:(i) the types of stress testing and their main objectives and applications;(ii) the frequency of the different stress testing exercises;(iii) the internal governance arrangements;(iv) the relevant data infrastructure;(v) the methodology and the plausibility of assumptions;(vi) the application of the proportionality principle to all of the minimum requirements, whether quantitative or qualitative; and(vii) the minimum periodicity of the stress tests and the common reference parameters of the stress test scenarios.
 
 EBA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
 
 Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
-
-### CHAPTER 3 — Reserve of assets
 
 <a id="art_36"></a>
 
@@ -1234,35 +736,13 @@ Where different issuers of asset-referenced tokens offer the same asset-referenc
 
 **7.** The issuer of an asset-referenced token shall determine the aggregate value of the reserve of assets by using market prices. Its aggregate value shall be at least equal to the aggregate value of the claims against the issuer from the holders of the asset-referenced token in circulation.
 
-**8.** Issuers of asset-referenced tokens shall have a clear and detailed policy describing the stabilisation mechanism of such tokens. That policy shall in particular:
-
-(a) list the assets referenced by the asset-referenced tokens and the composition of those assets;
-
-(b) describe the type of assets and the precise allocation of assets that are included in the reserve of assets;
-
-(c) contain a detailed assessment of the risks, including credit risk, market risk, concentration risk and liquidity risk resulting from the reserve of assets;
-
-(d) describe the procedure by which the asset-referenced tokens are issued and redeemed, and the procedure by which such issuance and redemption will result in a corresponding increase and decrease in the reserve of assets;
-
-(e) mention whether a part of the reserve of assets is invested as provided in Article 38;
-
-(f) where issuers of asset-referenced tokens invest a part of the reserve of assets as provided in Article 38, describe in detail the investment policy and contain an assessment of how that investment policy can affect the value of the reserve of assets;
-
-(g) describe the procedure to purchase asset-referenced tokens and to redeem such tokens against the reserve of assets, and list the persons or categories of persons who are entitled to do so.
+**8.** Issuers of asset-referenced tokens shall have a clear and detailed policy describing the stabilisation mechanism of such tokens. That policy shall in particular:(a) list the assets referenced by the asset-referenced tokens and the composition of those assets;(b) describe the type of assets and the precise allocation of assets that are included in the reserve of assets;(c) contain a detailed assessment of the risks, including credit risk, market risk, concentration risk and liquidity risk resulting from the reserve of assets;(d) describe the procedure by which the asset-referenced tokens are issued and redeemed, and the procedure by which such issuance and redemption will result in a corresponding increase and decrease in the reserve of assets;(e) mention whether a part of the reserve of assets is invested as provided in Article 38;(f) where issuers of asset-referenced tokens invest a part of the reserve of assets as provided in Article 38, describe in detail the investment policy and contain an assessment of how that investment policy can affect the value of the reserve of assets;(g) describe the procedure to purchase asset-referenced tokens and to redeem such tokens against the reserve of assets, and list the persons or categories of persons who are entitled to do so.
 
 **9.** Without prejudice to Article 34(12), issuers of asset-referenced tokens shall mandate an independent audit of the reserve of assets every six months, assessing compliance with the rules of this Chapter, as of the date of their authorisation pursuant to Article 21 or as of the date of approval of the crypto-asset white paper pursuant to Article 17.
 
-**10.** The issuer shall notify the results of the audit referred to in paragraph 9 to the competent authority without delay, and at the latest within six weeks of the reference date of the valuation. The issuer shall publish the result of the audit within two weeks of the date of notification to the competent authority. The competent authority may instruct an issuer to delay the publication of the results of the audit in the event that:
+**10.** The issuer shall notify the results of the audit referred to in paragraph 9 to the competent authority without delay, and at the latest within six weeks of the reference date of the valuation. The issuer shall publish the result of the audit within two weeks of the date of notification to the competent authority. The competent authority may instruct an issuer to delay the publication of the results of the audit in the event that:(a) the issuer has been required to implement a recovery arrangement or measures in accordance with Article 46(3);(b) the issuer has been required to implement a redemption plan in accordance with Article 47;(c) it is deemed necessary to protect the economic interests of holders of the asset-referenced token;(d) it is deemed necessary to avoid a significant adverse effect on the financial system of the home Member State or another Member State.
 
-(a) the issuer has been required to implement a recovery arrangement or measures in accordance with Article 46(3);
-
-(b) the issuer has been required to implement a redemption plan in accordance with Article 47;
-
-(c) it is deemed necessary to protect the economic interests of holders of the asset-referenced token;
-
-(d) it is deemed necessary to avoid a significant adverse effect on the financial system of the home Member State or another Member State.
-
-**11.** The valuation at market prices referred to in paragraph 7 of this Article shall be made by using mark-to-market, as defined in Article 2, point (8), of Regulation (EU) 2017/1131 of the European Parliament and of the Council whenever possible.
+**11.** The valuation at market prices referred to in paragraph 7 of this Article shall be made by using mark-to-market, as defined in Article 2, point (8), of Regulation (EU) 2017/1131 of the European Parliament and of the Council (12) whenever possible.
 
 When using mark-to-market valuation the reserve asset shall be valued at the more prudent side of the bid and offer unless the reserve asset can be closed out at mid-market. Only market data of good quality shall be used, and such data shall be assessed based on all of the following factors:
 
@@ -1288,27 +768,11 @@ When using mark-to-model, the amortised cost method, as defined in Article 2, po
 
 ### Article 37 — Custody of reserve assets
 
-**1.** Issuers of asset-referenced tokens shall establish, maintain and implement custody policies, procedures and contractual arrangements that ensure at all times that:
-
-(a) the reserve assets are not encumbered nor pledged as a financial collateral arrangement as defined in Article 2(1), point (a), of Directive 2002/47/EC of the European Parliament and of the Council;
-
-(b) the reserve assets are held in custody in accordance with paragraph 6 of this Article;
-
-(c) the issuers of asset-referenced tokens have prompt access to the reserve assets to meet any requests for redemption from the holders of asset-referenced tokens;
-
-(d) concentrations of the custodians of reserve assets are avoided;
-
-(e) risk of concentration of reserve assets is avoided.
+**1.** Issuers of asset-referenced tokens shall establish, maintain and implement custody policies, procedures and contractual arrangements that ensure at all times that:(a) the reserve assets are not encumbered nor pledged as a financial collateral arrangement as defined in Article 2(1), point (a), of Directive 2002/47/EC of the European Parliament and of the Council (13);(b) the reserve assets are held in custody in accordance with paragraph 6 of this Article;(c) the issuers of asset-referenced tokens have prompt access to the reserve assets to meet any requests for redemption from the holders of asset-referenced tokens;(d) concentrations of the custodians of reserve assets are avoided;(e) risk of concentration of reserve assets is avoided.
 
 **2.** Issuers of asset-referenced tokens that issue two or more asset-referenced tokens in the Union shall have a custody policy in place for each pool of reserve of assets. Different issuers of asset-referenced tokens that have issued the same asset-referenced token shall operate and maintain a single custody policy.
 
-**3.** The reserve assets shall be held in custody by no later than five working days after the date of issuance of the asset-referenced token by one or more of the following:
-
-(a) a crypto-asset service provider providing custody and administration of crypto-assets on behalf of clients, where the reserve assets take the form of crypto-assets;
-
-(b) a credit institution, for all types of reserve assets;
-
-(c) an investment firm that provides the ancillary service of safekeeping and administration of financial instruments for the account of clients as referred to in Section B, point (1), of Annex I to Directive 2014/65/EU, where the reserve assets take the form of financial instruments.
+**3.** The reserve assets shall be held in custody by no later than five working days after the date of issuance of the asset-referenced token by one or more of the following:(a) a crypto-asset service provider providing custody and administration of crypto-assets on behalf of clients, where the reserve assets take the form of crypto-assets;(b) a credit institution, for all types of reserve assets;(c) an investment firm that provides the ancillary service of safekeeping and administration of financial instruments for the account of clients as referred to in Section B, point (1), of Annex I to Directive 2014/65/EU, where the reserve assets take the form of financial instruments.
 
 **4.** Issuers of asset-referenced tokens shall exercise all due skill, care and diligence in the selection, appointment and review of crypto-asset service providers, credit institutions and investment firms appointed as custodians of the reserve assets as referred to in paragraph 3. The custodian shall be a legal person different from the issuer.
 
@@ -1318,17 +782,9 @@ Issuers of asset-referenced tokens shall ensure that the crypto-asset service pr
 
 Issuers of asset-referenced tokens shall review the appointment of crypto-asset service providers, credit institutions or investment firms as custodians of the reserve assets on a regular basis. For the purpose of that review, issuers of asset-referenced tokens shall evaluate their exposures to such custodians, taking into account the full scope of their relationship with them, and monitor the financial conditions of such custodians on an ongoing basis.
 
-**6.** Custodians of the reserve assets as referred to in paragraph 4 shall ensure that the custody of those reserve assets is carried out in the following manner:
+**6.** Custodians of the reserve assets as referred to in paragraph 4 shall ensure that the custody of those reserve assets is carried out in the following manner:(a) credit institutions shall hold in custody funds in an account opened in the credit institutions’ books;(b) for financial instruments that can be held in custody, credit institutions or investment firms shall hold in custody all financial instruments that can be registered in a financial instruments account opened in the credit institutions’ or investments firms’ books and all financial instruments that can be physically delivered to such credit institutions or investment firms;(c) for crypto-assets that can be held in custody, the crypto-asset service providers shall hold in custody the crypto-assets included in the reserve assets or the means of access to such crypto-assets, where applicable, in the form of private cryptographic keys;(d) for other assets, the credit institutions shall verify the ownership of the issuers of the asset-referenced tokens and shall maintain a record of those reserve assets for which they are satisfied that the issuers of the asset-referenced tokens own those reserve assets.
 
-(a) credit institutions shall hold in custody funds in an account opened in the credit institutions’ books;
-
-(b) for financial instruments that can be held in custody, credit institutions or investment firms shall hold in custody all financial instruments that can be registered in a financial instruments account opened in the credit institutions’ or investments firms’ books and all financial instruments that can be physically delivered to such credit institutions or investment firms;
-
-(c) for crypto-assets that can be held in custody, the crypto-asset service providers shall hold in custody the crypto-assets included in the reserve assets or the means of access to such crypto-assets, where applicable, in the form of private cryptographic keys;
-
-(d) for other assets, the credit institutions shall verify the ownership of the issuers of the asset-referenced tokens and shall maintain a record of those reserve assets for which they are satisfied that the issuers of the asset-referenced tokens own those reserve assets.
-
-For the purposes of point (a) of the first subparagraph, credit institutions shall ensure that funds are registered in the credit institutions’ books on a segregated account in accordance with the provisions of national law transposing Article 16 of Commission Directive 2006/73/EC. That account shall be opened in the name of the issuer of the asset-referenced tokens for the purposes of managing the reserve assets of each asset-referenced token, so that the funds held in custody can be clearly identified as belonging to each reserve of assets.
+For the purposes of point (a) of the first subparagraph, credit institutions shall ensure that funds are registered in the credit institutions’ books on a segregated account in accordance with the provisions of national law transposing Article 16 of Commission Directive 2006/73/EC (14). That account shall be opened in the name of the issuer of the asset-referenced tokens for the purposes of managing the reserve assets of each asset-referenced token, so that the funds held in custody can be clearly identified as belonging to each reserve of assets.
 
 For the purposes of point (b) of the first subparagraph, credit institutions and investment firms shall ensure that all financial instruments that can be registered in a financial instruments account opened in the credit institutions’ books and investment firms’ books are registered in the credit institutions’ and investment firms’ books on segregated accounts in accordance with the provisions of national law transposing Article 16 of Directive 2006/73/EC. The financial instruments account shall be opened in the name of the issuers of the asset-referenced tokens for the purposes of managing the reserve assets of each asset-referenced token, so that the financial instruments held in custody can be clearly identified as belonging to each reserve of assets.
 
@@ -1340,11 +796,7 @@ For the purposes of point (d) of the first subparagraph, the assessment whether 
 
 **8.** The crypto-asset service providers, credit institutions and investment firms appointed as custodians in accordance with paragraph 4 shall act honestly, fairly, professionally, independently and in the interest of the issuers of the asset-referenced tokens and the holders of such tokens.
 
-**9.** The crypto-asset service providers, credit institutions and investment firms appointed as custodians in accordance with paragraph 4 shall not carry out activities with regard to the issuers of the asset-referenced tokens that might create conflicts of interest between those issuers, the holders of the asset-referenced tokens and themselves unless all of the following conditions are met:
-
-(a) the crypto-asset service providers, credit institutions or investment firms have functionally and hierarchically separated the performance of their custody tasks from their potentially conflicting tasks;
-
-(b) the potential conflicts of interest have been properly identified, monitored, managed and disclosed by the issuers of the asset-referenced tokens to the holders of the asset-referenced tokens, in accordance with Article 32.
+**9.** The crypto-asset service providers, credit institutions and investment firms appointed as custodians in accordance with paragraph 4 shall not carry out activities with regard to the issuers of the asset-referenced tokens that might create conflicts of interest between those issuers, the holders of the asset-referenced tokens and themselves unless all of the following conditions are met:(a) the crypto-asset service providers, credit institutions or investment firms have functionally and hierarchically separated the performance of their custody tasks from their potentially conflicting tasks;(b) the potential conflicts of interest have been properly identified, monitored, managed and disclosed by the issuers of the asset-referenced tokens to the holders of the asset-referenced tokens, in accordance with Article 32.
 
 **10.** In the case of a loss of a financial instrument or a crypto-asset held in custody pursuant to paragraph 6, the crypto-asset service provider, credit institution or investment firm that lost that financial instrument or crypto-asset shall compensate, or make restitution, to the issuer of the asset-referenced token with a financial instrument or a crypto-asset of an identical type or the corresponding value without undue delay. The crypto-asset service provider, credit institution or investment firm concerned shall not be liable for compensation or restitution where it can prove that the loss has occurred as a result of an external event beyond its reasonable control, the consequences of which were unavoidable despite all reasonable efforts to the contrary.
 
@@ -1360,15 +812,7 @@ For the purposes of point (d) of the first subparagraph, the assessment whether 
 
 **4.** All profits or losses, including fluctuations in the value of the financial instruments referred to in paragraph 1, and any counterparty or operational risks that result from the investment of the reserve of assets shall be borne by the issuer of the asset-referenced token.
 
-**5.** EBA, in cooperation with ESMA and the ECB, shall develop draft regulatory technical standards specifying the financial instruments that can be considered highly liquid and bearing minimal market risk, credit risk and concentration risk as referred to in paragraph 1. When specifying those financial instruments, EBA shall take into account:
-
-(a) the various types of assets that can be referenced by an asset-referenced token;
-
-(b) the correlation between the assets referenced by the asset-referenced token and the highly liquid financial instruments that the issuer might invest in;
-
-(c) the liquidity coverage requirement as referred to in Article 412 of Regulation (EU) No 575/2013 and as further specified in Commission Delegated Regulation (EU) 2015/61;
-
-(d) constraints on concentration preventing the issuer from: (i) investing more than a certain percentage of reserve assets in highly liquid financial instruments with minimal market risk, credit risk and concentration risk issued by a single entity; (ii) holding in custody more than a certain percentage of crypto-assets or assets with crypto-asset service providers or credit institutions which belong to the same group, as defined in Article 2, point (11), of Directive 2013/34/EU of the European Parliament and of the Council, or investment firms.
+**5.** EBA, in cooperation with ESMA and the ECB, shall develop draft regulatory technical standards specifying the financial instruments that can be considered highly liquid and bearing minimal market risk, credit risk and concentration risk as referred to in paragraph 1. When specifying those financial instruments, EBA shall take into account:(a) the various types of assets that can be referenced by an asset-referenced token;(b) the correlation between the assets referenced by the asset-referenced token and the highly liquid financial instruments that the issuer might invest in;(c) the liquidity coverage requirement as referred to in Article 412 of Regulation (EU) No 575/2013 and as further specified in Commission Delegated Regulation (EU) 2015/61 (15);(d) constraints on concentration preventing the issuer from:(i) investing more than a certain percentage of reserve assets in highly liquid financial instruments with minimal market risk, credit risk and concentration risk issued by a single entity;(ii) holding in custody more than a certain percentage of crypto-assets or assets with crypto-asset service providers or credit institutions which belong to the same group, as defined in Article 2, point (11), of Directive 2013/34/EU of the European Parliament and of the Council (16), or investment firms.
 
 For the purposes of point (d)(i) of the first subparagraph, EBA shall devise suitable limits to determine concentration requirements. Those limits shall take into account, amongst others, the relevant thresholds laid down in Article 52 of Directive 2009/65/EC.
 
@@ -1382,17 +826,7 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 **1.** Holders of asset-referenced tokens shall have a right of redemption at all times against the issuers of the asset-referenced tokens, and in respect of the reserve assets when issuers are not able to meet their obligations as referred to in Chapter 6 of this Title. Issuers shall establish, maintain and implement clear and detailed policies and procedures in respect of such permanent right of redemption.
 
-**2.** Upon request by a holder of an asset-referenced token, an issuer of such token shall redeem either by paying an amount in funds, other than electronic money, equivalent to the market value of the assets referenced by the asset-referenced token held or by delivering the assets referenced by the token. Issuers shall establish a policy on such permanent right of redemption setting out:
-
-(a) the conditions, including thresholds, periods and timeframes, for holders of asset-referenced tokens to exercise such right of redemption;
-
-(b) the mechanisms and procedures to ensure the redemption of the asset-referenced tokens, including in stressed market circumstances, as well as in the context of the implementation of the recovery plan set out in Article 46 or, in the case of an orderly redemption of asset-referenced tokens, under Article 47;
-
-(c) the valuation, or the principles of valuation, of the asset-referenced tokens and of the reserve assets when the right of redemption is exercised by the holder of asset-referenced tokens, including by using the valuation methodology set out in Article 36(11);
-
-(d) the conditions for settlement of the redemption; and
-
-(e) measures that the issuers take to adequately manage increases or decreases in the reserve of assets in order to avoid any adverse impacts on the market of the reserve assets.
+**2.** Upon request by a holder of an asset-referenced token, an issuer of such token shall redeem either by paying an amount in funds, other than electronic money, equivalent to the market value of the assets referenced by the asset-referenced token held or by delivering the assets referenced by the token. Issuers shall establish a policy on such permanent right of redemption setting out:(a) the conditions, including thresholds, periods and timeframes, for holders of asset-referenced tokens to exercise such right of redemption;(b) the mechanisms and procedures to ensure the redemption of the asset-referenced tokens, including in stressed market circumstances, as well as in the context of the implementation of the recovery plan set out in Article 46 or, in the case of an orderly redemption of asset-referenced tokens, under Article 47;(c) the valuation, or the principles of valuation, of the asset-referenced tokens and of the reserve assets when the right of redemption is exercised by the holder of asset-referenced tokens, including by using the valuation methodology set out in Article 36(11);(d) the conditions for settlement of the redemption; and(e) measures that the issuers take to adequately manage increases or decreases in the reserve of assets in order to avoid any adverse impacts on the market of the reserve assets.
 
 Where issuers, when selling an asset-referenced token, accept a payment in funds other than electronic money, denominated in an official currency, they shall always provide an option to redeem the token in funds other than electronic money, denominated in the same official currency.
 
@@ -1407,8 +841,6 @@ Where issuers, when selling an asset-referenced token, accept a payment in funds
 **2.** Crypto-asset service providers shall not grant interest when providing crypto-asset services related to asset-referenced tokens.
 
 **3.** For the purposes of paragraphs 1 and 2, any remuneration or any other benefit related to the length of time during which a holder of asset-referenced tokens holds such asset-referenced tokens shall be treated as interest. That includes net compensation or discounts, with an effect equivalent to that of interest received by the holder of asset-referenced tokens, directly from the issuer or from third parties, and directly associated to the asset-referenced tokens or from the remuneration or pricing of other products.
-
-### CHAPTER 4 — Acquisitions of issuers of asset-referenced tokens
 
 <a id="art_41"></a>
 
@@ -1438,17 +870,7 @@ The competent authority may extend the suspension referred to in the second subp
 
 ### Article 42 — Content of the assessment of proposed acquisitions of issuers of asset-referenced tokens
 
-**1.** When performing the assessment referred to in Article 41(4), the competent authority shall appraise the suitability of the proposed acquirer and the financial soundness of the proposed acquisition referred to in Article 41(1) against all of the following criteria:
-
-(a) the reputation of the proposed acquirer;
-
-(b) the reputation, knowledge, skills and experience of any person who will direct the business of the issuer of the asset-referenced token as a result of the proposed acquisition;
-
-(c) the financial soundness of the proposed acquirer, in particular in relation to the type of business envisaged and pursued in respect of the issuer of the asset-referenced token in which the acquisition is proposed;
-
-(d) whether the issuer of the asset-referenced token will be able to comply and continue to comply with the provisions of this Title;
-
-(e) whether there are reasonable grounds to suspect that, in connection with the proposed acquisition, money laundering or terrorist financing within the meaning of, respectively, Article 1(3) and (5) of Directive (EU) 2015/849 is being or has been committed or attempted, or that the proposed acquisition could increase the risk thereof.
+**1.** When performing the assessment referred to in Article 41(4), the competent authority shall appraise the suitability of the proposed acquirer and the financial soundness of the proposed acquisition referred to in Article 41(1) against all of the following criteria:(a) the reputation of the proposed acquirer;(b) the reputation, knowledge, skills and experience of any person who will direct the business of the issuer of the asset-referenced token as a result of the proposed acquisition;(c) the financial soundness of the proposed acquirer, in particular in relation to the type of business envisaged and pursued in respect of the issuer of the asset-referenced token in which the acquisition is proposed;(d) whether the issuer of the asset-referenced token will be able to comply and continue to comply with the provisions of this Title;(e) whether there are reasonable grounds to suspect that, in connection with the proposed acquisition, money laundering or terrorist financing within the meaning of, respectively, Article 1(3) and (5) of Directive (EU) 2015/849 is being or has been committed or attempted, or that the proposed acquisition could increase the risk thereof.
 
 **2.** The competent authority may oppose the proposed acquisition only where there are reasonable grounds for doing so based on the criteria set out in paragraph 1 of this Article or where the information provided in accordance with Article 41(4) is incomplete or false.
 
@@ -1460,33 +882,13 @@ EBA shall submit the draft regulatory technical standards referred to in the fir
 
 Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
 
-### CHAPTER 5 — Significant asset-referenced tokens
-
 <a id="art_43"></a>
 
 ### Article 43 — Classification of asset-referenced tokens as significant asset-referenced tokens
 
-**1.** The criteria for classifying asset-referenced tokens as significant asset-referenced tokens shall be the following, as further specified by the delegated acts adopted pursuant to paragraph 11:
+**1.** The criteria for classifying asset-referenced tokens as significant asset-referenced tokens shall be the following, as further specified by the delegated acts adopted pursuant to paragraph 11:(a) the number of holders of the asset-referenced token is larger than 10 million;(b) the value of the asset-referenced token issued, its market capitalisation or the size of the reserve of assets of the issuer of the asset-referenced token is higher than EUR 5 000 000 000 ;(c) the average number and average aggregate value of transactions in that asset-referenced token per day during the relevant period, is higher than 2,5 million transactions and EUR 500 000 000 respectively;(d) the issuer of the asset-referenced token is a provider of core platform services designated as a gatekeeper in accordance with Regulation (EU) 2022/1925 of the European Parliament and of the Council (17);(e) the significance of the activities of the issuer of the asset-referenced token on an international scale, including the use of the asset-referenced token for payments and remittances;(f) the interconnectedness of the asset-referenced token or its issuers with the financial system;(g) the fact that the same issuer issues at least one additional asset-referenced token or e-money token, and provides at least one crypto-asset service.
 
-(a) the number of holders of the asset-referenced token is larger than 10 million;
-
-(b) the value of the asset-referenced token issued, its market capitalisation or the size of the reserve of assets of the issuer of the asset-referenced token is higher than EUR 5000000000;
-
-(c) the average number and average aggregate value of transactions in that asset-referenced token per day during the relevant period, is higher than 2,5 million transactions and EUR 500000000 respectively;
-
-(d) the issuer of the asset-referenced token is a provider of core platform services designated as a gatekeeper in accordance with Regulation (EU) 2022/1925 of the European Parliament and of the Council;
-
-(e) the significance of the activities of the issuer of the asset-referenced token on an international scale, including the use of the asset-referenced token for payments and remittances;
-
-(f) the interconnectedness of the asset-referenced token or its issuers with the financial system;
-
-(g) the fact that the same issuer issues at least one additional asset-referenced token or e-money token, and provides at least one crypto-asset service.
-
-**2.** EBA shall classify asset-referenced tokens as significant asset-referenced tokens where at least three of the criteria set out in paragraph 1 of this Article are met:
-
-(a) during the period covered by the first report of information as referred to in paragraph 4 of this Article, following authorisation pursuant to Article 21 or after approval of the crypto-asset white paper pursuant to Article 17; or
-
-(b) during the period covered by at least two consecutive reports of information as referred to in paragraph 4 of this Article.
+**2.** EBA shall classify asset-referenced tokens as significant asset-referenced tokens where at least three of the criteria set out in paragraph 1 of this Article are met:(a) during the period covered by the first report of information as referred to in paragraph 4 of this Article, following authorisation pursuant to Article 21 or after approval of the crypto-asset white paper pursuant to Article 17; or(b) during the period covered by at least two consecutive reports of information as referred to in paragraph 4 of this Article.
 
 **3.** Where several issuers issue the same asset-referenced token, the fulfilment of the criteria set out in paragraph 1 shall be assessed after aggregating the data from those issuers.
 
@@ -1516,13 +918,7 @@ Issuers of such asset-referenced tokens, their competent authorities, the ECB an
 
 EBA and the competent authority shall cooperate in order to ensure the smooth transition of supervisory competences.
 
-**11.** The Commission shall adopt delegated acts in accordance with Article 139 to supplement this Regulation by further specifying the criteria set out in paragraph 1 for an asset-referenced token to be classified as significant and determine:
-
-(a) the circumstances under which the activities of the issuer of the asset-referenced token are deemed significant on an international scale outside the Union;
-
-(b) the circumstances under which asset-referenced tokens and their issuers shall be considered to be interconnected with the financial system;
-
-(c) the content and format of information provided by competent authorities to EBA and the ECB under paragraph 4 of this Article and Article 56(3).
+**11.** The Commission shall adopt delegated acts in accordance with Article 139 to supplement this Regulation by further specifying the criteria set out in paragraph 1 for an asset-referenced token to be classified as significant and determine:(a) the circumstances under which the activities of the issuer of the asset-referenced token are deemed significant on an international scale outside the Union;(b) the circumstances under which asset-referenced tokens and their issuers shall be considered to be interconnected with the financial system;(c) the content and format of information provided by competent authorities to EBA and the ECB under paragraph 4 of this Article and Article 56(3).
 
 <a id="art_44"></a>
 
@@ -1550,7 +946,7 @@ Competent authorities of issuers of such asset-referenced tokens, the ECB and, w
 
 **3.** Issuers of significant asset-referenced tokens shall assess and monitor the liquidity needs to meet requests for redemption of asset-referenced tokens by their holders. For that purpose, issuers of significant asset-referenced tokens shall establish, maintain and implement a liquidity management policy and procedures. That policy and those procedures shall ensure that the reserve assets have a resilient liquidity profile that enables issuers of significant asset-referenced tokens to continue operating normally, including under scenarios of liquidity stress.
 
-**4.** Issuers of significant asset-referenced tokens shall, on a regular basis, conduct liquidity stress testing. Depending on the outcome of such tests, EBA may decide to strengthen the liquidity requirements referred to in paragraph 7, first subparagraph, point (b), of this Article and in Article 36(4).
+**4.** ►C1 Issuers of significant asset-referenced tokens shall, on a regular basis, conduct liquidity stress testing. Depending on the outcome of such tests, EBA may decide to strengthen the liquidity requirements referred to in paragraph 7, first subparagraph, point (b), of this Article and in Article 36(4).** ◄ **
 
 Where issuers of significant asset-referenced tokens offer two or more asset-referenced tokens or provide crypto-asset services, those stress tests shall cover all of those activities in a comprehensive and holistic manner.
 
@@ -1560,13 +956,7 @@ Where issuers of significant asset-referenced tokens offer two or more asset-ref
 
 Where an issuer offers two or more asset-referenced tokens in the Union and at least one of those asset-referenced tokens is classified as significant, paragraphs 1 to 5 shall apply to that issuer.
 
-**7.** EBA, in close cooperation with ESMA, shall develop draft regulatory technical standards specifying:
-
-(a) the minimum content of the governance arrangements on the remuneration policy referred to in paragraph 1;
-
-(b) the minimum contents of the liquidity management policy and procedures as set out in paragraph 3, and liquidity requirements, including by specifying the minimum amount of deposits in each official currency referenced, which cannot be lower than 60 % of the amount referenced in each official currency;
-
-(c) the procedure and timeframe for an issuer of a significant asset-referenced token to adjust the amount of its own funds as required by paragraph 5.
+**7.** EBA, in close cooperation with ESMA, shall develop draft regulatory technical standards specifying:(a) the minimum content of the governance arrangements on the remuneration policy referred to in paragraph 1;(b) the minimum contents of the liquidity management policy and procedures as set out in paragraph 3, and liquidity requirements, including by specifying the minimum amount of deposits in each official currency referenced, which cannot be lower than 60 % of the amount referenced in each official currency;(c) the procedure and timeframe for an issuer of a significant asset-referenced token to adjust the amount of its own funds as required by paragraph 5.
 
 In the case of credit institutions, EBA shall calibrate the technical standards taking into consideration any possible interactions between the regulatory requirements established by this Regulation and the regulatory requirements established by other Union legislative acts.
 
@@ -1575,8 +965,6 @@ EBA shall submit the draft regulatory technical standards referred to in the fir
 Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1093/2010.
 
 **8.** EBA, in close cooperation with ESMA and the ECB, shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 with a view to establishing the common reference parameters of the stress test scenarios to be included in the stress tests referred to in paragraph 4 of this Article. Those guidelines shall be updated periodically taking into account the latest market developments.
-
-### CHAPTER 6 — Recovery and redemption plans
 
 <a id="art_46"></a>
 
@@ -1610,7 +998,7 @@ Where applicable, the issuer shall also notify the recovery plan to its resoluti
 
 ### Article 47 — Redemption plan
 
-**1.** An issuer of an asset-referenced token shall draw up and maintain an operational plan to support the orderly redemption of each asset-referenced token, which is to be implemented upon a decision by the competent authority that the issuer is unable or likely to be unable to fulfil its obligations, including in the case of insolvency or, where applicable, resolution or in the case of withdrawal of authorisation of the issuer, without prejudice to the commencement of a crisis prevention measure or crisis management measure as defined in Article 2(1), points (101) and (102), respectively, of Directive 2014/59/EU or a resolution action as defined in Article 2, point (11), of Regulation (EU) 2021/23 of the European Parliament and of the Council.
+**1.** An issuer of an asset-referenced token shall draw up and maintain an operational plan to support the orderly redemption of each asset-referenced token, which is to be implemented upon a decision by the competent authority that the issuer is unable or likely to be unable to fulfil its obligations, including in the case of insolvency or, where applicable, resolution or in the case of withdrawal of authorisation of the issuer, without prejudice to the commencement of a crisis prevention measure or crisis management measure as defined in Article 2(1), points (101) and (102), respectively, of Directive 2014/59/EU or a resolution action as defined in Article 2, point (11), of Regulation (EU) 2021/23 of the European Parliament and of the Council (18).
 
 **2.** The redemption plan shall demonstrate the ability of the issuer of the asset-referenced token to carry out the redemption of the outstanding asset-referenced token issued without causing undue economic harm to its holders or to the stability of the markets of the reserve assets.
 
@@ -1624,25 +1012,13 @@ The redemption plan shall ensure the continuity of any critical activities that 
 
 The resolution authority may examine the redemption plan with a view to identifying any actions in the redemption plan that might adversely impact the resolvability of the issuer, and may make recommendations to the competent authority in respect thereof.
 
-**5.** EBA shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 to specify:
-
-(a) the content of the redemption plan and the periodicity for review, taking into account the size, complexity and nature of the asset-referenced token and the business model of its issuer; and
-
-(b) the triggers for implementation of the redemption plan.
-
-## TITLE IV — E-MONEY TOKENS
-
-### CHAPTER 1 — Requirements to be fulfilled by all issuers of e-money tokens
+**5.** EBA shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1093/2010 to specify:(a) the content of the redemption plan and the periodicity for review, taking into account the size, complexity and nature of the asset-referenced token and the business model of its issuer; and(b) the triggers for implementation of the redemption plan.
 
 <a id="art_48"></a>
 
 ### Article 48 — Requirements for the offer to the public or admission to trading of e-money tokens
 
-**1.** A person shall not make an offer to the public or seek the admission to trading of an e-money token, within the Union, unless that person is the issuer of such e-money token and:
-
-(a) is authorised as a credit institution or as an electronic money institution; and
-
-(b) has notified a crypto-asset white paper to the competent authority and has published that crypto-asset white paper in accordance with Article 51.
+**1.** A person shall not make an offer to the public or seek the admission to trading of an e-money token, within the Union, unless that person is the issuer of such e-money token and:(a) is authorised as a credit institution or as an electronic money institution; and(b) has notified a crypto-asset white paper to the competent authority and has published that crypto-asset white paper in accordance with Article 51.
 
 Notwithstanding the first subparagraph, upon the written consent of the issuer, other persons may offer to the public or seek the admission to trading of the e-money token. Those persons shall comply with Articles 50 and 53.
 
@@ -1690,33 +1066,15 @@ An e-money token that references an official currency of a Member State shall be
 
 ### Article 51 — Content and form of the crypto-asset white paper for e-money tokens
 
-**1.** A crypto-asset white paper for an e-money token shall contain all of the following information, as further specified in Annex III:
-
-(a) information about the issuer of the e-money token;
-
-(b) information about the e-money token;
-
-(c) information about the offer to the public of the e-money token or its admission to trading;
-
-(d) information on the rights and obligations attached to the e-money token;
-
-(e) information on the underlying technology;
-
-(f) information on the risks;
-
-(g) information on the principal adverse impacts on the climate and other environment-related adverse impacts of the consensus mechanism used to issue the e-money token.
+**1.** A crypto-asset white paper for an e-money token shall contain all of the following information, as further specified in Annex III:(a) information about the issuer of the e-money token;(b) information about the e-money token;(c) information about the offer to the public of the e-money token or its admission to trading;(d) information on the rights and obligations attached to the e-money token;(e) information on the underlying technology;(f) information on the risks;(g) information on the principal adverse impacts on the climate and other environment-related adverse impacts of the consensus mechanism used to issue the e-money token.
 
 The crypto-asset white paper shall also include the identity of the person other than the issuer that offers the e-money token to the public or seeks its admission to trading pursuant to Article 48(1), second subparagraph, and the reason why that particular person offers that e-money token or seeks its admission to trading.
 
 **2.** All the information listed in paragraph 1 shall be fair, clear and not misleading. The crypto-asset white paper shall not contain material omissions and shall be presented in a concise and comprehensible form.
 
-**3.** The crypto-asset white paper shall contain the following clear and prominent statement on the first page:‘This crypto-asset white paper has not been approved by any competent authority in any Member State of the European Union. The issuer of the crypto-asset is solely responsible for the content of this crypto-asset white paper.’.
+**3.** The crypto-asset white paper shall contain the following clear and prominent statement on the first page: ‘This crypto-asset white paper has not been approved by any competent authority in any Member State of the European Union. The issuer of the crypto-asset is solely responsible for the content of this crypto-asset white paper.’.
 
-**4.** The crypto-asset white paper shall contain a clear warning that:
-
-(a) the e-money token is not covered by the investor compensation schemes under Directive 97/9/EC;
-
-(b) the e-money token is not covered by the deposit guarantee schemes under Directive 2014/49/EU.
+**4.** The crypto-asset white paper shall contain a clear warning that:(a) the e-money token is not covered by the investor compensation schemes under Directive 97/9/EC;(b) the e-money token is not covered by the deposit guarantee schemes under Directive 2014/49/EU.
 
 **5.** The crypto-asset white paper shall contain a statement from the management body of the issuer of the e-money token. That statement, which shall be inserted after the statement referred to in paragraph 3, shall confirm that the crypto-asset white paper complies with this Title and that, to the best of the knowledge of the management body, the information presented in the crypto-asset white paper is complete, fair, clear and not misleading and that the crypto-asset white paper makes no omission likely to affect its import.
 
@@ -1780,11 +1138,7 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 **3.** It shall be the responsibility of the holder of the e-money token to present evidence indicating that the issuer of that e-money token has infringed Article 51 by providing in its crypto-asset white paper or in a modified crypto-asset white paper information that is not complete, fair or clear, or that is misleading and that reliance on such information had an impact on the holder’s decision to purchase, sell or exchange that e-money token.
 
-**4.** The issuer and the members of its administrative, management or supervisory bodies shall not be liable for loss suffered as a result of reliance on the information provided in a summary pursuant to Article 51(6), including any translation thereof, except where the summary:
-
-(a) is misleading, inaccurate or inconsistent when read together with the other parts of the crypto-asset white paper; or
-
-(b) does not provide, when read together with the other parts of the crypto-asset white paper, key information in order to aid prospective holders when considering whether to purchase such e-money tokens.
+**4.** The issuer and the members of its administrative, management or supervisory bodies shall not be liable for loss suffered as a result of reliance on the information provided in a summary pursuant to Article 51(6), including any translation thereof, except where the summary:(a) is misleading, inaccurate or inconsistent when read together with the other parts of the crypto-asset white paper; or(b) does not provide, when read together with the other parts of the crypto-asset white paper, key information in order to aid prospective holders when considering whether to purchase such e-money tokens.
 
 **5.** This Article is without prejudice to any other civil liability pursuant to national law.
 
@@ -1792,15 +1146,7 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 ### Article 53 — Marketing communications
 
-**1.** Marketing communications relating to an offer to the public of an e-money token, or to the admission to trading of such e-money token, shall comply with all the following requirements:
-
-(a) the marketing communications are clearly identifiable as such;
-
-(b) the information in the marketing communications is fair, clear and not misleading;
-
-(c) the information in the marketing communications is consistent with the information in the crypto-asset white paper;
-
-(d) the marketing communications clearly state that a crypto-asset white paper has been published and clearly indicate the address of the website of the issuer of the e-money token, as well as a telephone number and an email address to contact the issuer.
+**1.** Marketing communications relating to an offer to the public of an e-money token, or to the admission to trading of such e-money token, shall comply with all the following requirements:(a) the marketing communications are clearly identifiable as such;(b) the information in the marketing communications is fair, clear and not misleading;(c) the information in the marketing communications is consistent with the information in the crypto-asset white paper;(d) the marketing communications clearly state that a crypto-asset white paper has been published and clearly indicate the address of the website of the issuer of the e-money token, as well as a telephone number and an email address to contact the issuer.
 
 **2.** Marketing communications shall contain a clear and unambiguous statement that the holders of the e-money token have a right of redemption against the issuer at any time and at par value.
 
@@ -1832,17 +1178,11 @@ By way of derogation from Article 46(2), the date by which the recovery plan is 
 
 By way of derogation from Article 47(3), the date by which the redemption plan is to be notified to the competent authority shall, in respect of issuers of e-money tokens, be within six months of the date of the offer to the public or admission to trading.
 
-### CHAPTER 2 — Significant e-money tokens
-
 <a id="art_56"></a>
 
 ### Article 56 — Classification of e-money tokens as significant e-money tokens
 
-**1.** EBA shall classify e-money tokens as significant e-money tokens where at least three of the criteria set out in Article 43(1) are met:
-
-(a) during the period covered by the first report of information as referred to in paragraph 3 of this Article, following the offer to the public or the seeking admission to trading of those tokens; or
-
-(b) during the period covered by at least two consecutive reports of information as referred to in paragraph 3 of this Article.
+**1.** EBA shall classify e-money tokens as significant e-money tokens where at least three of the criteria set out in Article 43(1) are met:(a) during the period covered by the first report of information as referred to in paragraph 3 of this Article, following the offer to the public or the seeking admission to trading of those tokens; or(b) during the period covered by at least two consecutive reports of information as referred to in paragraph 3 of this Article.
 
 **2.** Where several issuers issue the same e-money token, the fulfilment of the criteria set out in Article 43(1) shall be assessed after aggregating the data from those issuers.
 
@@ -1906,11 +1246,7 @@ For the purposes of the first subparagraph, a transaction shall be considered to
 
 ### Article 58 — Specific additional obligations for issuers of e-money tokens
 
-**1.** Electronic money institutions issuing significant e-money tokens shall be subject to:
-
-(a) the requirements referred to in Articles 36, 37, 38 and Article 45, (1) to (4) of this Regulation, instead of Article 7 of Directive 2009/110/EC;
-
-(b) the requirements referred to in Article 35(2), (3) and (5) and Article 45(5) of this Regulation, instead of Article 5 of Directive 2009/110/EC.
+**1.** Electronic money institutions issuing significant e-money tokens shall be subject to:(a) the requirements referred to in Articles 36, 37, 38 and Article 45, (1) to (4) of this Regulation, instead of Article 7 of Directive 2009/110/EC;(b) the requirements referred to in Article 35(2), (3) and (5) and Article 45(5) of this Regulation, instead of Article 5 of Directive 2009/110/EC.
 
 By way of derogation from Article 36(9), the independent audit shall, in respect of issuers of significant e-money tokens, be mandated every six months as of the date of the decision to classify the e-money tokens as significant pursuant to Article 56 or 57, as applicable.
 
@@ -1918,19 +1254,11 @@ By way of derogation from Article 36(9), the independent audit shall, in respect
 
 **3.** Articles 22, 23 and 24(3) shall apply to e-money tokens denominated in a currency that is not an official currency of a Member State.
 
-## TITLE V — AUTHORISATION AND OPERATING CONDITIONS FOR CRYPTO-ASSET SERVICE PROVIDERS
-
-### CHAPTER 1 — Authorisation of crypto-asset service providers
-
 <a id="art_59"></a>
 
 ### Article 59 — Authorisation
 
-**1.** A person shall not provide crypto-asset services, within the Union, unless that person is:
-
-(a) a legal person or other undertaking that has been authorised as crypto-asset service provider in accordance with Article 63; or
-
-(b) a credit institution, central securities depository, investment firm, market operator, electronic money institution, UCITS management company, or an alternative investment fund manager that is allowed to provide crypto-asset services pursuant to Article 60.
+**1.** A person shall not provide crypto-asset services, within the Union, unless that person is:(a) a legal person or other undertaking that has been authorised as crypto-asset service provider in accordance with Article 63; or(b) a credit institution, central securities depository, investment firm, market operator, electronic money institution, UCITS management company, or an alternative investment fund manager that is allowed to provide crypto-asset services pursuant to Article 60.
 
 **2.** Crypto-asset service providers authorised in accordance with Article 63 shall have a registered office in a Member State where they carry out at least part of their crypto-asset services. They shall have their place of effective management in the Union and at least one of the directors shall be resident in the Union.
 
@@ -1952,7 +1280,7 @@ By way of derogation from Article 36(9), the independent audit shall, in respect
 
 **1.** A credit institution may provide crypto-asset services if it notifies the information referred to in paragraph 7 to the competent authority of its home Member State at least 40 working days before providing those services for the first time.
 
-**2.** A central securities depository authorised under Regulation (EU) No 909/2014 of the European Parliament and of the Council shall only provide custody and administration of crypto-assets on behalf of clients if it notifies the information referred to in paragraph 7 of this Article to the competent authority of the home Member State, at least 40 working days before providing that service for the first time.
+**2.** A central securities depository authorised under Regulation (EU) No 909/2014 of the European Parliament and of the Council (19) shall only provide custody and administration of crypto-assets on behalf of clients if it notifies the information referred to in paragraph 7 of this Article to the competent authority of the home Member State, at least 40 working days before providing that service for the first time.
 
 For the purposes of the first subparagraph of this paragraph, providing custody and administration of crypto-assets on behalf of clients is deemed equivalent to providing, maintaining or operating securities accounts in relation to the settlement service referred to in Section B, point (3), of the Annex to Regulation (EU) No 909/2014.
 
@@ -1990,29 +1318,7 @@ For the purposes of this paragraph:
 
 **6.** A market operator authorised under Directive 2014/65/EU may operate a trading platform for crypto-assets if it notifies the competent authority of the home Member State of the information referred to in paragraph 7 of this Article at least 40 working days before providing those services for the first time.
 
-**7.** For the purposes of paragraphs 1 to 6, the following information shall be notified:
-
-(a) a programme of operations setting out the types of crypto-asset services that the applicant crypto-asset service provider intends to provide, including where and how those services are to be marketed;
-
-(b) a description of: (i) the internal control mechanisms, policies and procedures to ensure compliance with the provisions of national law transposing Directive (EU) 2015/849; (ii) the risk assessment framework for the management of money laundering and terrorist financing risks; and (iii) the business continuity plan;
-
-(c) the technical documentation of the ICT systems and security arrangements, and a description thereof in non-technical language;
-
-(d) a description of the procedure for the segregation of clients’ crypto-assets and funds;
-
-(e) a description of the custody and administration policy, where it is intended to provide custody and administration of crypto-assets on behalf of clients;
-
-(f) a description of the operating rules of the trading platform and of the procedures and system to detect market abuse, where it is intended to operate a trading platform for crypto-assets;
-
-(g) a description of the non-discriminatory commercial policy governing the relationship with clients as well as a description of the methodology for determining the price of the crypto-assets they propose to exchange for funds or other crypto-assets, where it is intended to exchange crypto-assets for funds or other crypto-assets;
-
-(h) a description of the execution policy, where it is intended to execute orders for crypto-assets on behalf of clients;
-
-(i) evidence that the natural persons giving advice on behalf of the applicant crypto-asset service provider or managing portfolios on behalf of the applicant crypto-asset service provider have the necessary knowledge and expertise to fulfil their obligations, where it is intended to provide advice on crypto-assets or provide portfolio management on crypto-assets;
-
-(j) whether the crypto-asset service relates to asset-referenced tokens, e-money tokens or other crypto-assets;
-
-(k) information on the manner in which such transfer services will be provided, where it is intended to provide transfer services for crypto-assets on behalf of clients.
+**7.** For the purposes of paragraphs 1 to 6, the following information shall be notified:(a) a programme of operations setting out the types of crypto-asset services that the applicant crypto-asset service provider intends to provide, including where and how those services are to be marketed;(b) a description of:(i) the internal control mechanisms, policies and procedures to ensure compliance with the provisions of national law transposing Directive (EU) 2015/849;(ii) the risk assessment framework for the management of money laundering and terrorist financing risks; and(iii) the business continuity plan;(c) the technical documentation of the ICT systems and security arrangements, and a description thereof in non-technical language;(d) a description of the procedure for the segregation of clients’ crypto-assets and funds;(e) a description of the custody and administration policy, where it is intended to provide custody and administration of crypto-assets on behalf of clients;(f) a description of the operating rules of the trading platform and of the procedures and system to detect market abuse, where it is intended to operate a trading platform for crypto-assets;(g) a description of the non-discriminatory commercial policy governing the relationship with clients as well as a description of the methodology for determining the price of the crypto-assets they propose to exchange for funds or other crypto-assets, where it is intended to exchange crypto-assets for funds or other crypto-assets;(h) a description of the execution policy, where it is intended to execute orders for crypto-assets on behalf of clients;(i) evidence that the natural persons giving advice on behalf of the applicant crypto-asset service provider or managing portfolios on behalf of the applicant crypto-asset service provider have the necessary knowledge and expertise to fulfil their obligations, where it is intended to provide advice on crypto-assets or provide portfolio management on crypto-assets;(j) whether the crypto-asset service relates to asset-referenced tokens, e-money tokens or other crypto-assets;(k) information on the manner in which such transfer services will be provided, where it is intended to provide transfer services for crypto-assets on behalf of clients.
 
 **8.** A competent authority receiving a notification as referred to in paragraphs 1 to 6 shall, within 20 working days of receipt of such notification, assess whether all required information has been provided. Where the competent authority concludes that a notification is not complete, it shall immediately inform the notifying entity thereof and set a deadline by which that entity is required to provide the missing information.
 
@@ -2064,53 +1370,9 @@ In order to foster convergence and promote consistent supervision in respect of 
 
 **1.** Legal persons or other undertakings that intend to provide crypto-asset services shall submit their application for an authorisation as a crypto-asset service provider to the competent authority of their home Member State.
 
-**2.** The application referred to in paragraph 1 shall contain all of the following information:
+**2.** The application referred to in paragraph 1 shall contain all of the following information:(a) the name, including the legal name and any other commercial name used, the legal entity identifier of the applicant crypto-asset service provider, the website operated by that provider, a contact email address, a contact telephone number and its physical address;(b) the legal form of the applicant crypto-asset service provider;(c) the articles of association of the applicant crypto-asset service provider, where applicable;(d) a programme of operations, setting out the types of crypto-asset services that the applicant crypto-asset service provider intends to provide, including where and how those services are to be marketed;(e) proof that the applicant crypto-asset service provider meets the requirements for prudential safeguards set out in Article 67;(f) a description of the applicant crypto-asset service provider’s governance arrangements;(g) proof that members of the management body of the applicant crypto-asset service provider are of sufficiently good repute and possess the appropriate knowledge, skills and experience to manage that provider;(h) the identity of any shareholders and members, whether direct or indirect, that have qualifying holdings in the applicant crypto-asset service provider and the amounts of those holdings, as well as proof that those persons are of sufficiently good repute;(i) a description of the applicant crypto-asset service provider’s internal control mechanisms, policies and procedures to identify, assess and manage risks, including money laundering and terrorist financing risks, and business continuity plan;(j) the technical documentation of the ICT systems and security arrangements, and a description thereof in non-technical language;(k) a description of the procedure for the segregation of clients’ crypto-assets and funds;(l) a description of the applicant crypto-asset service provider’s complaints-handling procedures;(m) where the applicant crypto-asset service provider intends to provide custody and administration of crypto-assets on behalf of clients, a description of the custody and administration policy;(n) where the applicant crypto-asset service provider intends to operate a trading platform for crypto-assets, a description of the operating rules of the trading platform and of the procedure and system to detect market abuse;(o) where the applicant crypto-asset service provider intends to exchange crypto-assets for funds or other crypto-assets, a description of the commercial policy, which shall be non-discriminatory, governing the relationship with clients as well as a description of the methodology for determining the price of the crypto-assets that the applicant crypto-asset service provider proposes to exchange for funds or other crypto-assets;(p) where the applicant crypto-asset service provider intends to execute orders for crypto-assets on behalf of clients, a description of the execution policy;(q) where the applicant crypto-asset service provider intends to provide advice on crypto-assets or portfolio management of crypto-assets, proof that the natural persons giving advice on behalf of the applicant crypto-asset service provider or managing portfolios on behalf of the applicant crypto-asset service provider have the necessary knowledge and expertise to fulfil their obligations;(r) where the applicant crypto-asset service provider intends to provide transfer services for crypto-assets on behalf of clients, information on the manner in which such transfer services will be provided;(s) the type of crypto-asset to which the crypto-asset service relates.
 
-(a) the name, including the legal name and any other commercial name used, the legal entity identifier of the applicant crypto-asset service provider, the website operated by that provider, a contact email address, a contact telephone number and its physical address;
-
-(b) the legal form of the applicant crypto-asset service provider;
-
-(c) the articles of association of the applicant crypto-asset service provider, where applicable;
-
-(d) a programme of operations, setting out the types of crypto-asset services that the applicant crypto-asset service provider intends to provide, including where and how those services are to be marketed;
-
-(e) proof that the applicant crypto-asset service provider meets the requirements for prudential safeguards set out in Article 67;
-
-(f) a description of the applicant crypto-asset service provider’s governance arrangements;
-
-(g) proof that members of the management body of the applicant crypto-asset service provider are of sufficiently good repute and possess the appropriate knowledge, skills and experience to manage that provider;
-
-(h) the identity of any shareholders and members, whether direct or indirect, that have qualifying holdings in the applicant crypto-asset service provider and the amounts of those holdings, as well as proof that those persons are of sufficiently good repute;
-
-(i) a description of the applicant crypto-asset service provider’s internal control mechanisms, policies and procedures to identify, assess and manage risks, including money laundering and terrorist financing risks, and business continuity plan;
-
-(j) the technical documentation of the ICT systems and security arrangements, and a description thereof in non-technical language;
-
-(k) a description of the procedure for the segregation of clients’ crypto-assets and funds;
-
-(l) a description of the applicant crypto-asset service provider’s complaints-handling procedures;
-
-(m) where the applicant crypto-asset service provider intends to provide custody and administration of crypto-assets on behalf of clients, a description of the custody and administration policy;
-
-(n) where the applicant crypto-asset service provider intends to operate a trading platform for crypto-assets, a description of the operating rules of the trading platform and of the procedure and system to detect market abuse;
-
-(o) where the applicant crypto-asset service provider intends to exchange crypto-assets for funds or other crypto-assets, a description of the commercial policy, which shall be non-discriminatory, governing the relationship with clients as well as a description of the methodology for determining the price of the crypto-assets that the applicant crypto-asset service provider proposes to exchange for funds or other crypto-assets;
-
-(p) where the applicant crypto-asset service provider intends to execute orders for crypto-assets on behalf of clients, a description of the execution policy;
-
-(q) where the applicant crypto-asset service provider intends to provide advice on crypto-assets or portfolio management of crypto-assets, proof that the natural persons giving advice on behalf of the applicant crypto-asset service provider or managing portfolios on behalf of the applicant crypto-asset service provider have the necessary knowledge and expertise to fulfil their obligations;
-
-(r) where the applicant crypto-asset service provider intends to provide transfer services for crypto-assets on behalf of clients, information on the manner in which such transfer services will be provided;
-
-(s) the type of crypto-asset to which the crypto-asset service relates.
-
-**3.** For the purposes of paragraph 2, points (g) and (h), an applicant crypto-asset service provider shall provide proof of all of the following:
-
-(a) for all members of the management body of the applicant crypto-asset service provider, the absence of a criminal record in respect of convictions and the absence of penalties imposed under the applicable commercial law, insolvency law and financial services law, or in relation to anti-money laundering, and counter-terrorist financing, to fraud or to professional liability;
-
-(b) that the members of the management body of the applicant crypto-asset service provider collectively possess the appropriate knowledge, skills and experience to manage the crypto-asset service provider and that those persons are required to commit sufficient time to perform their duties;
-
-(c) for all shareholders and members, whether direct or indirect, that have qualifying holdings in the applicant crypto-asset service provider, the absence of a criminal record in respect of convictions or the absence of penalties imposed under the applicable commercial law, insolvency law and financial services law, or in relation to anti-money laundering and counter-terrorist financing, to fraud or to professional liability.
+**3.** For the purposes of paragraph 2, points (g) and (h), an applicant crypto-asset service provider shall provide proof of all of the following:(a) for all members of the management body of the applicant crypto-asset service provider, the absence of a criminal record in respect of convictions and the absence of penalties imposed under the applicable commercial law, insolvency law and financial services law, or in relation to anti-money laundering, and counter-terrorist financing, to fraud or to professional liability;(b) that the members of the management body of the applicant crypto-asset service provider collectively possess the appropriate knowledge, skills and experience to manage the crypto-asset service provider and that those persons are required to commit sufficient time to perform their duties;(c) for all shareholders and members, whether direct or indirect, that have qualifying holdings in the applicant crypto-asset service provider, the absence of a criminal record in respect of convictions or the absence of penalties imposed under the applicable commercial law, insolvency law and financial services law, or in relation to anti-money laundering and counter-terrorist financing, to fraud or to professional liability.
 
 **4.** Competent authorities shall not require an applicant crypto-asset service provider to provide any information referred to in paragraphs 2 and 3 of this Article that they have already received under the respective authorisation procedures in accordance with Directive 2009/110/EC, 2014/65/EU or (EU) 2015/2366, or pursuant to national law applicable to crypto-asset services prior to 29 June 2023, provided that such previously submitted information or documents are still up-to-date.
 
@@ -2140,21 +1402,9 @@ Where the application is not complete, competent authorities shall set a deadlin
 
 **4.** Once an application is complete, competent authorities shall promptly notify the applicant crypto-asset service provider thereof.
 
-**5.** Before granting or refusing authorisation as a crypto-asset service provider, competent authorities shall consult the competent authorities of another Member State where the applicant crypto-asset service provider is in one of the following positions in relation to a credit institution, a central securities depository, an investment firm, a market operator, a UCITS management company, an alternative investment fund manager, a payment institution, an insurance undertaking, an electronic money institution or an institution for occupational retirement provision, authorised in that other Member State:
+**5.** Before granting or refusing authorisation as a crypto-asset service provider, competent authorities shall consult the competent authorities of another Member State where the applicant crypto-asset service provider is in one of the following positions in relation to a credit institution, a central securities depository, an investment firm, a market operator, a UCITS management company, an alternative investment fund manager, a payment institution, an insurance undertaking, an electronic money institution or an institution for occupational retirement provision, authorised in that other Member State:(a) it is its subsidiary;(b) it is a subsidiary of the parent undertaking of that entity; or(c) it is controlled by the same natural or legal persons who control that entity.
 
-(a) it is its subsidiary;
-
-(b) it is a subsidiary of the parent undertaking of that entity; or
-
-(c) it is controlled by the same natural or legal persons who control that entity.
-
-**6.** Before granting or refusing an authorisation as a crypto-asset service provider, competent authorities:
-
-(a) may consult the competent authorities for anti-money laundering and counter-terrorist financing, and financial intelligence units, in order to verify that the applicant crypto-asset service provider has not been the subject of an investigation into conduct relating to money laundering or terrorist financing;
-
-(b) shall ensure that the applicant crypto-asset service provider that operates establishments or relies on third parties established in high-risk third countries identified pursuant to Article 9 of Directive (EU) 2015/849 complies with the provisions of national law transposing Articles 26(2), 45(3) and 45(5) of that Directive;
-
-(c) shall, where appropriate, ensure that the applicant crypto-asset service provider has put in place appropriate procedures to comply with the provisions of national law transposing Article 18a(1) and (3) of Directive (EU) 2015/849.
+**6.** Before granting or refusing an authorisation as a crypto-asset service provider, competent authorities:(a) may consult the competent authorities for anti-money laundering and counter-terrorist financing, and financial intelligence units, in order to verify that the applicant crypto-asset service provider has not been the subject of an investigation into conduct relating to money laundering or terrorist financing;(b) shall ensure that the applicant crypto-asset service provider that operates establishments or relies on third parties established in high-risk third countries identified pursuant to Article 9 of Directive (EU) 2015/849 complies with the provisions of national law transposing Articles 26(2), 45(3) and 45(5) of that Directive;(c) shall, where appropriate, ensure that the applicant crypto-asset service provider has put in place appropriate procedures to comply with the provisions of national law transposing Article 18a(1) and (3) of Directive (EU) 2015/849.
 
 **7.** Where close links exist between the applicant crypto-asset service provider and other natural or legal persons, competent authorities shall grant authorisation only if those links do not prevent the effective exercise of their supervisory functions.
 
@@ -2162,15 +1412,7 @@ Where the application is not complete, competent authorities shall set a deadlin
 
 **9.** Competent authorities shall, within 40 working days from the date of receipt of a complete application, assess whether the applicant crypto-asset service provider complies with this Title and shall adopt a fully reasoned decision granting or refusing an authorisation as a crypto-asset service provider. Competent authorities shall notify the applicant of their decision within five working days of the date of that decision. That assessment shall take into account the nature, scale and complexity of the crypto-asset services that the applicant crypto-asset service provider intends to provide.
 
-**10.** Competent authorities shall refuse authorisation as a crypto-asset service provider where there are objective and demonstrable grounds that:
-
-(a) the management body of the applicant crypto-asset service provider poses a threat to its effective, sound and prudent management and business continuity, and to the adequate consideration of the interest of its clients and the integrity of the market, or exposes the applicant crypto-asset service provider to a serious risk of money laundering or terrorist financing;
-
-(b) the members of the management body of the applicant crypto-asset service provider do not meet the criteria set out in Article 68(1);
-
-(c) the shareholders or members, whether direct or indirect, that have qualifying holdings in the applicant crypto-asset service provider do not meet the criteria of sufficiently good repute set out in Article 68(2);
-
-(d) the applicant crypto-asset service provider fails to meet or is likely to fail to meet any of the requirements of this Title.
+**10.** Competent authorities shall refuse authorisation as a crypto-asset service provider where there are objective and demonstrable grounds that:(a) the management body of the applicant crypto-asset service provider poses a threat to its effective, sound and prudent management and business continuity, and to the adequate consideration of the interest of its clients and the integrity of the market, or exposes the applicant crypto-asset service provider to a serious risk of money laundering or terrorist financing;(b) the members of the management body of the applicant crypto-asset service provider do not meet the criteria set out in Article 68(1);(c) the shareholders or members, whether direct or indirect, that have qualifying holdings in the applicant crypto-asset service provider do not meet the criteria of sufficiently good repute set out in Article 68(2);(d) the applicant crypto-asset service provider fails to meet or is likely to fail to meet any of the requirements of this Title.
 
 **11.** ESMA and EBA shall jointly issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 and Article 16 of Regulation (EU) No 1093/2010, respectively, on the assessment of the suitability of the members of the management body of the applicant crypto-asset service provider and of the shareholders or members, whether direct or indirect, that have qualifying holdings in the applicant crypto-asset service provider.
 
@@ -2186,39 +1428,15 @@ The assessment period under paragraph 9 shall be suspended for the period betwee
 
 ### Article 64 — Withdrawal of authorisation of a crypto-asset service provider
 
-**1.** Competent authorities shall withdraw the authorisation of a crypto-asset service provider if the crypto-asset service provider does any of the following:
+**1.** Competent authorities shall withdraw the authorisation of a crypto-asset service provider if the crypto-asset service provider does any of the following:(a) has not used its authorisation within 12 months of the date of the authorisation;(b) has expressly renounced its authorisation;(c) has not provided crypto-asset services for nine consecutive months;(d) has obtained its authorisation by irregular means, such as by making false statements in its application for authorisation;(e) no longer meets the conditions under which the authorisation was granted and has not taken the remedial action requested by the competent authority within the specified timeframe;(f) fails to have in place effective systems, procedures and arrangements to detect and prevent money laundering and terrorist financing in accordance with Directive (EU) 2015/849;(g) has seriously infringed this Regulation, including the provisions relating to the protection of holders of crypto-assets or of clients of crypto-asset service providers, or market integrity.
 
-(a) has not used its authorisation within 12 months of the date of the authorisation;
-
-(b) has expressly renounced its authorisation;
-
-(c) has not provided crypto-asset services for nine consecutive months;
-
-(d) has obtained its authorisation by irregular means, such as by making false statements in its application for authorisation;
-
-(e) no longer meets the conditions under which the authorisation was granted and has not taken the remedial action requested by the competent authority within the specified timeframe;
-
-(f) fails to have in place effective systems, procedures and arrangements to detect and prevent money laundering and terrorist financing in accordance with Directive (EU) 2015/849;
-
-(g) has seriously infringed this Regulation, including the provisions relating to the protection of holders of crypto-assets or of clients of crypto-asset service providers, or market integrity.
-
-**2.** Competent authorities may withdraw authorisation as a crypto-asset service provider in any of the following situations:
-
-(a) the crypto-asset service provider has infringed the provisions of national law transposing Directive (EU) 2015/849;
-
-(b) the crypto-asset service provider has lost its authorisation as a payment institution or its authorisation as an electronic money institution, and that crypto-asset service provider has failed to remedy the situation within 40 calendar days.
+**2.** Competent authorities may withdraw authorisation as a crypto-asset service provider in any of the following situations:(a) the crypto-asset service provider has infringed the provisions of national law transposing Directive (EU) 2015/849;(b) the crypto-asset service provider has lost its authorisation as a payment institution or its authorisation as an electronic money institution, and that crypto-asset service provider has failed to remedy the situation within 40 calendar days.
 
 **3.** Where a competent authority withdraws an authorisation as a crypto-asset service provider, it shall notify ESMA and the single points of contact of the host Member States without undue delay. ESMA shall make such information available in the register referred to in Article 109.
 
 **4.** Competent authorities may limit the withdrawal of authorisation to a particular crypto-asset service.
 
-**5.** Before withdrawing an authorisation as a crypto-asset service provider, competent authorities shall consult the competent authority of another Member State where the crypto-asset service provider concerned is:
-
-(a) a subsidiary of a crypto-asset service provider authorised in that other Member State;
-
-(b) a subsidiary of the parent undertaking of a crypto-asset service provider authorised in that other Member State;
-
-(c) controlled by the same natural or legal persons who control a crypto-asset service provider authorised in that other Member State.
+**5.** Before withdrawing an authorisation as a crypto-asset service provider, competent authorities shall consult the competent authority of another Member State where the crypto-asset service provider concerned is:(a) a subsidiary of a crypto-asset service provider authorised in that other Member State;(b) a subsidiary of the parent undertaking of a crypto-asset service provider authorised in that other Member State;(c) controlled by the same natural or legal persons who control a crypto-asset service provider authorised in that other Member State.
 
 **6.** Before withdrawing an authorisation as a crypto-asset service provider, competent authorities may consult the authority competent for supervising compliance of the crypto-asset service provider with the rules on anti-money laundering and counter-terrorist financing.
 
@@ -2230,23 +1448,13 @@ The assessment period under paragraph 9 shall be suspended for the period betwee
 
 ### Article 65 — Cross-border provision of crypto-asset services
 
-**1.** A crypto-asset service provider that intends to provide crypto-asset services in more than one Member State shall submit the following information to the competent authority of the home Member State:
-
-(a) a list of the Member States in which the crypto-asset service provider intends to provide crypto-asset services;
-
-(b) the crypto-asset services that the crypto-asset service provider intends to provide on a cross-border basis;
-
-(c) the starting date of the intended provision of the crypto-asset services;
-
-(d) a list of all other activities provided by the crypto-asset service provider not covered by this Regulation.
+**1.** A crypto-asset service provider that intends to provide crypto-asset services in more than one Member State shall submit the following information to the competent authority of the home Member State:(a) a list of the Member States in which the crypto-asset service provider intends to provide crypto-asset services;(b) the crypto-asset services that the crypto-asset service provider intends to provide on a cross-border basis;(c) the starting date of the intended provision of the crypto-asset services;(d) a list of all other activities provided by the crypto-asset service provider not covered by this Regulation.
 
 **2.** The competent authority of the home Member State shall, within 10 working days of receipt of the information referred to in paragraph 1, communicate that information to the single points of contact of the host Member States, to ESMA and to EBA.
 
 **3.** The competent authority of the Member State that granted authorisation shall inform the crypto-asset service provider concerned of the communication referred to in paragraph 2 without delay.
 
 **4.** The crypto-asset service provider may begin to provide crypto-asset services in a Member State other than its home Member State from the date of receipt of the communication referred to in paragraph 3 or at the latest from the 15th calendar day after having submitted the information referred to in paragraph 1.
-
-### CHAPTER 2 — Obligations for all crypto-asset service providers
 
 <a id="art_66"></a>
 
@@ -2276,55 +1484,17 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 ### Article 67 — Prudential requirements
 
-**1.** Crypto-asset service providers shall, at all times, have in place prudential safeguards equal to an amount of at least the higher of the following:
-
-(a) the amount of permanent minimum capital requirements indicated in Annex IV, depending on the type of the crypto-asset services provided;
-
-(b) one quarter of the fixed overheads of the preceding year, reviewed annually.
+**1.** Crypto-asset service providers shall, at all times, have in place prudential safeguards equal to an amount of at least the higher of the following:(a) the amount of permanent minimum capital requirements indicated in Annex IV, depending on the type of the crypto-asset services provided;(b) one quarter of the fixed overheads of the preceding year, reviewed annually.
 
 **2.** Crypto-asset service providers that have not been in business for one year from the date on which they began providing services shall use, for the calculation referred to in paragraph 1, point (b), the projected fixed overheads included in their projections for the first 12 months of service provision, as submitted with their application for authorisation.
 
-**3.** For the purposes of paragraph 1, point (b), crypto-asset service providers shall calculate their fixed overheads for the preceding year, using figures resulting from the applicable accounting framework, by subtracting the following items from the total expenses after distribution of profits to shareholders or members in their most recently audited annual financial statements or, where audited statements are not available, in annual financial statements validated by national supervisors:
+**3.** For the purposes of paragraph 1, point (b), crypto-asset service providers shall calculate their fixed overheads for the preceding year, using figures resulting from the applicable accounting framework, by subtracting the following items from the total expenses after distribution of profits to shareholders or members in their most recently audited annual financial statements or, where audited statements are not available, in annual financial statements validated by national supervisors:(a) staff bonuses and other remuneration, to the extent that those bonuses and that remuneration depend on a net profit of the crypto-asset service providers in the relevant year;(b) employees’, directors’ and partners’ shares in profits;(c) other appropriations of profits and other variable remuneration, to the extent that they are fully discretionary;(d) non-recurring expenses from non-ordinary activities.
 
-(a) staff bonuses and other remuneration, to the extent that those bonuses and that remuneration depend on a net profit of the crypto-asset service providers in the relevant year;
+**4.** The prudential safeguards referred to in paragraph 1 shall take any of the following forms or a combination thereof:(a) own funds, consisting of Common Equity Tier 1 items and instruments referred to in Articles 26 to 30 of Regulation (EU) No 575/2013 after the deductions in full, pursuant to Article 36 of that Regulation, without the application of threshold exemptions pursuant to Articles 46 and 48 of that Regulation;(b) an insurance policy covering the territories of the Union where crypto-asset services are provided or a comparable guarantee.
 
-(b) employees’, directors’ and partners’ shares in profits;
+**5.** The insurance policy referred to in paragraph 4, point (b), shall be disclosed to the public on the crypto-asset service provider’s website and shall have at least the following characteristics:(a) it has an initial term of not less than one year;(b) the notice period for its cancellation is at least 90 days;(c) it is taken out from an undertaking authorised to provide insurance, in accordance with Union or national law;(d) it is provided by a third-party entity.
 
-(c) other appropriations of profits and other variable remuneration, to the extent that they are fully discretionary;
-
-(d) non-recurring expenses from non-ordinary activities.
-
-**4.** The prudential safeguards referred to in paragraph 1 shall take any of the following forms or a combination thereof:
-
-(a) own funds, consisting of Common Equity Tier 1 items and instruments referred to in Articles 26 to 30 of Regulation (EU) No 575/2013 after the deductions in full, pursuant to Article 36 of that Regulation, without the application of threshold exemptions pursuant to Articles 46 and 48 of that Regulation;
-
-(b) an insurance policy covering the territories of the Union where crypto-asset services are provided or a comparable guarantee.
-
-**5.** The insurance policy referred to in paragraph 4, point (b), shall be disclosed to the public on the crypto-asset service provider’s website and shall have at least the following characteristics:
-
-(a) it has an initial term of not less than one year;
-
-(b) the notice period for its cancellation is at least 90 days;
-
-(c) it is taken out from an undertaking authorised to provide insurance, in accordance with Union or national law;
-
-(d) it is provided by a third-party entity.
-
-**6.** The insurance policy referred to in paragraph 4, point (b), shall include coverage against the risk of all of the following:
-
-(a) loss of documents;
-
-(b) misrepresentations or misleading statements made;
-
-(c) acts, errors or omissions resulting in a breach of: (i) legal and regulatory obligations; (ii) the obligation to act honestly, fairly and professionally towards clients; (iii) obligations of confidentiality;
-
-(d) failure to establish, implement and maintain appropriate procedures to prevent conflicts of interest;
-
-(e) losses arising from business disruption or system failures;
-
-(f) where applicable to the business model, gross negligence in the safeguarding of clients’ crypto-assets and funds;
-
-(g) liability of the crypto-asset service providers towards clients pursuant to Article 75(8).
+**6.** The insurance policy referred to in paragraph 4, point (b), shall include coverage against the risk of all of the following:(a) loss of documents;(b) misrepresentations or misleading statements made;(c) acts, errors or omissions resulting in a breach of:(i) legal and regulatory obligations;(ii) the obligation to act honestly, fairly and professionally towards clients;(iii) obligations of confidentiality;(d) failure to establish, implement and maintain appropriate procedures to prevent conflicts of interest;(e) losses arising from business disruption or system failures;(f) where applicable to the business model, gross negligence in the safeguarding of clients’ crypto-assets and funds;(g) liability of the crypto-asset service providers towards clients pursuant to Article 75(8).
 
 <a id="art_68"></a>
 
@@ -2356,11 +1526,7 @@ Crypto-asset service providers shall have systems and procedures to safeguard th
 
 The records kept pursuant to the first subparagraph shall be provided to clients upon request and shall be kept for a period of five years and, where requested by the competent authority before five years have elapsed, for a period of up to seven years.
 
-**10.** ESMA shall develop draft regulatory technical standards to further specify:
-
-(a) the measures ensuring continuity and regularity in the performance of the crypto-asset services referred to in paragraph 7;
-
-(b) the records to be kept of all crypto-asset services, activities, orders and transactions undertaken referred to in paragraph 9.
+**10.** ESMA shall develop draft regulatory technical standards to further specify:(a) the measures ensuring continuity and regularity in the performance of the crypto-asset services referred to in paragraph 7;(b) the records to be kept of all crypto-asset services, activities, orders and transactions undertaken referred to in paragraph 9.
 
 ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
 
@@ -2416,11 +1582,7 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 ### Article 72 — Identification, prevention, management and disclosure of conflicts of interest
 
-**1.** Crypto-asset service providers shall implement and maintain effective policies and procedures, taking into account the scale, the nature and range of crypto-asset services provided, to identify, prevent, manage and disclose conflicts of interest between:
-
-(a) themselves and: (i) their shareholders or members; (ii) any person directly or indirectly linked to the crypto-asset service providers or their shareholders or members by control; (iii) members of their management body; (iv) their employees; or (v) their clients; or
-
-(b) two or more clients whose mutual interests conflict.
+**1.** Crypto-asset service providers shall implement and maintain effective policies and procedures, taking into account the scale, the nature and range of crypto-asset services provided, to identify, prevent, manage and disclose conflicts of interest between:(a) themselves and:(i) their shareholders or members;(ii) any person directly or indirectly linked to the crypto-asset service providers or their shareholders or members by control;(iii) members of their management body;(iv) their employees; or(v) their clients; or(b) two or more clients whose mutual interests conflict.
 
 **2.** Crypto-asset service providers shall, in a prominent place on their website, disclose to their clients and prospective clients the general nature and sources of conflicts of interest referred to in paragraph 1 and the steps taken to mitigate them.
 
@@ -2428,11 +1590,7 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 **4.** Crypto-asset service providers shall assess and, at least annually, review their policy on conflicts of interest and take all appropriate measures to address any deficiencies in that respect.
 
-**5.** ESMA, in close cooperation with EBA, shall develop draft regulatory technical standards to further specify:
-
-(a) the requirements for the policies and procedures referred to in paragraph 1, taking into account the scale, the nature and the range of crypto-asset services provided;
-
-(b) the details and methodology for the content of the disclosure referred to in paragraph 2.
+**5.** ESMA, in close cooperation with EBA, shall develop draft regulatory technical standards to further specify:(a) the requirements for the policies and procedures referred to in paragraph 1, taking into account the scale, the nature and the range of crypto-asset services provided;(b) the details and methodology for the content of the disclosure referred to in paragraph 2.
 
 ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
 
@@ -2442,21 +1600,7 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 ### Article 73 — Outsourcing
 
-**1.** Crypto-asset service providers that outsource services or activities to third parties for the performance of operational functions shall take all reasonable steps to avoid additional operational risk. They shall remain fully responsible for discharging all of their obligations pursuant to this Title and shall ensure at all times that the following conditions are met:
-
-(a) outsourcing does not result in the delegation of the responsibility of the crypto-asset service providers;
-
-(b) outsourcing does not alter the relationship between the crypto-asset service providers and their clients, nor the obligations of the crypto-asset service providers towards their clients;
-
-(c) outsourcing does not alter the conditions for the authorisation of the crypto-asset service providers;
-
-(d) third parties involved in the outsourcing cooperate with the competent authority of the crypto-asset service providers’ home Member State and the outsourcing does not prevent the exercise of the supervisory functions of competent authorities, including on-site access to acquire any relevant information needed to fulfil those functions;
-
-(e) crypto-asset service providers retain the expertise and resources necessary for evaluating the quality of the services provided, for supervising the outsourced services effectively and for managing the risks associated with the outsourcing on an ongoing basis;
-
-(f) crypto-asset service providers have direct access to the relevant information of the outsourced services;
-
-(g) crypto-asset service providers ensure that third parties involved in the outsourcing meet the data protection standards of the Union.
+**1.** Crypto-asset service providers that outsource services or activities to third parties for the performance of operational functions shall take all reasonable steps to avoid additional operational risk. They shall remain fully responsible for discharging all of their obligations pursuant to this Title and shall ensure at all times that the following conditions are met:(a) outsourcing does not result in the delegation of the responsibility of the crypto-asset service providers;(b) outsourcing does not alter the relationship between the crypto-asset service providers and their clients, nor the obligations of the crypto-asset service providers towards their clients;(c) outsourcing does not alter the conditions for the authorisation of the crypto-asset service providers;(d) third parties involved in the outsourcing cooperate with the competent authority of the crypto-asset service providers’ home Member State and the outsourcing does not prevent the exercise of the supervisory functions of competent authorities, including on-site access to acquire any relevant information needed to fulfil those functions;(e) crypto-asset service providers retain the expertise and resources necessary for evaluating the quality of the services provided, for supervising the outsourced services effectively and for managing the risks associated with the outsourcing on an ongoing basis;(f) crypto-asset service providers have direct access to the relevant information of the outsourced services;(g) crypto-asset service providers ensure that third parties involved in the outsourcing meet the data protection standards of the Union.
 
 For the purposes of point (g) of the first subparagraph, crypto-asset service providers are responsible for ensuring that the data protection standards are set out in the written agreements referred to in paragraph 3.
 
@@ -2472,27 +1616,11 @@ For the purposes of point (g) of the first subparagraph, crypto-asset service pr
 
 Crypto-asset service providers that provide the services referred to in Articles 75 to 79 shall have in place a plan that is appropriate to support an orderly wind-down of their activities under applicable national law, including the continuity or recovery of any critical activities performed by those service providers. That plan shall demonstrate the ability of crypto-asset service providers to carry out an orderly wind-down without causing undue economic harm to their clients.
 
-### CHAPTER 3 — Obligations in respect of specific crypto-asset services
-
 <a id="art_75"></a>
 
 ### Article 75 — Providing custody and administration of crypto-assets on behalf of clients
 
-**1.** Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall conclude an agreement with their clients to specify their duties and their responsibilities. Such an agreement shall include at least the following:
-
-(a) the identity of the parties to the agreement;
-
-(b) the nature of the crypto-asset service provided and a description of that service;
-
-(c) the custody policy;
-
-(d) the means of communication between the crypto-asset service provider and the client, including the client’s authentication system;
-
-(e) a description of the security systems used by the crypto-asset service provider;
-
-(f) the fees, costs and charges applied by the crypto-asset service provider;
-
-(g) the applicable law.
+**1.** Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall conclude an agreement with their clients to specify their duties and their responsibilities. Such an agreement shall include at least the following:(a) the identity of the parties to the agreement;(b) the nature of the crypto-asset service provided and a description of that service;(c) the custody policy;(d) the means of communication between the crypto-asset service provider and the client, including the client’s authentication system;(e) a description of the security systems used by the crypto-asset service provider;(f) the fees, costs and charges applied by the crypto-asset service provider;(g) the applicable law.
 
 **2.** Crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients shall keep a register of positions, opened in the name of each client, corresponding to each client’s rights to the crypto-assets. Where relevant, crypto-asset service providers shall record as soon as possible in that register any movements following instructions from their clients. In such cases, their internal procedures shall ensure that any movement affecting the registration of the crypto-assets is evidenced by a transaction regularly registered in the client’s register of positions.
 
@@ -2530,23 +1658,7 @@ Crypto-asset service providers providing custody and administration of crypto-as
 
 ### Article 76 — Operation of a trading platform for crypto-assets
 
-**1.** Crypto-asset service providers operating a trading platform for crypto-assets shall lay down, maintain and implement clear and transparent operating rules for the trading platform. Those operating rules shall at least:
-
-(a) set the approval processes, including customer due diligence requirements commensurate to the money laundering or terrorist financing risk presented by the applicant in accordance with Directive (EU) 2015/849, that are applied before admitting crypto-assets to the trading platform;
-
-(b) define exclusion categories, if any, of the types of crypto-assets that are not admitted to trading;
-
-(c) set out the policies, procedures and the level of fees, if any, for the admission to trading;
-
-(d) set objective, non-discriminatory rules and proportionate criteria for participation in the trading activities, which promote fair and open access to the trading platform for clients willing to trade;
-
-(e) set non-discretionary rules and procedures to ensure fair and orderly trading and objective criteria for the efficient execution of orders;
-
-(f) set conditions for crypto-assets to remain accessible for trading, including liquidity thresholds and periodic disclosure requirements;
-
-(g) set conditions under which trading of crypto-assets can be suspended;
-
-(h) set procedures to ensure efficient settlement of both crypto-assets and funds.
+**1.** Crypto-asset service providers operating a trading platform for crypto-assets shall lay down, maintain and implement clear and transparent operating rules for the trading platform. Those operating rules shall at least:(a) set the approval processes, including customer due diligence requirements commensurate to the money laundering or terrorist financing risk presented by the applicant in accordance with Directive (EU) 2015/849, that are applied before admitting crypto-assets to the trading platform;(b) define exclusion categories, if any, of the types of crypto-assets that are not admitted to trading;(c) set out the policies, procedures and the level of fees, if any, for the admission to trading;(d) set objective, non-discriminatory rules and proportionate criteria for participation in the trading activities, which promote fair and open access to the trading platform for clients willing to trade;(e) set non-discretionary rules and procedures to ensure fair and orderly trading and objective criteria for the efficient execution of orders;(f) set conditions for crypto-assets to remain accessible for trading, including liquidity thresholds and periodic disclosure requirements;(g) set conditions under which trading of crypto-assets can be suspended;(h) set procedures to ensure efficient settlement of both crypto-assets and funds.
 
 For the purposes of point (a) of the first subparagraph, the operating rules shall clearly state that a crypto-asset is not to be admitted to trading where no corresponding crypto-asset white paper has been published in the cases required by this Regulation.
 
@@ -2562,23 +1674,7 @@ If the operation of a trading platform for crypto-assets is provided in another 
 
 **6.** Crypto-asset service providers operating a trading platform for crypto-assets shall only be allowed to engage in matched principal trading where the client has consented to that process. Crypto-asset service providers shall provide the competent authority with information explaining their use of matched principal trading. The competent authority shall monitor the engagement of crypto-asset service providers in matched principal trading, and ensure that their engagement in matched principal trading continues to fall within the definition of such trading and does not give rise to conflicts of interest between the crypto-asset service providers and their clients.
 
-**7.** Crypto-asset service providers operating a trading platform for crypto-assets shall have in place effective systems, procedures and arrangements to ensure that their trading systems:
-
-(a) are resilient;
-
-(b) have sufficient capacity to deal with peak order and message volumes;
-
-(c) are able to ensure orderly trading under conditions of severe market stress;
-
-(d) are able to reject orders that exceed pre-determined volume and price thresholds or are clearly erroneous;
-
-(e) are fully tested to ensure that the conditions under points (a) to (d) are met;
-
-(f) are subject to effective business continuity arrangements to ensure the continuity of their services if there is any failure of the trading system;
-
-(g) are able to prevent or detect market abuse;
-
-(h) are sufficiently robust to prevent their abuse for the purposes of money laundering or terrorist financing.
+**7.** Crypto-asset service providers operating a trading platform for crypto-assets shall have in place effective systems, procedures and arrangements to ensure that their trading systems:(a) are resilient;(b) have sufficient capacity to deal with peak order and message volumes;(c) are able to ensure orderly trading under conditions of severe market stress;(d) are able to reject orders that exceed pre-determined volume and price thresholds or are clearly erroneous;(e) are fully tested to ensure that the conditions under points (a) to (d) are met;(f) are subject to effective business continuity arrangements to ensure the continuity of their services if there is any failure of the trading system;(g) are able to prevent or detect market abuse;(h) are sufficiently robust to prevent their abuse for the purposes of money laundering or terrorist financing.
 
 **8.** Crypto-asset service providers operating a trading platform for crypto-assets shall inform their competent authority when they identify cases of market abuse or attempted market abuse occurring on or through their trading systems.
 
@@ -2596,11 +1692,7 @@ If the operation of a trading platform for crypto-assets is provided in another 
 
 **15.** Crypto-asset service providers operating a trading platform shall keep at the disposal of the competent authority, for at least five years, the relevant data relating to all orders in crypto-assets that are advertised through their systems, or give the competent authority access to the order book so that the competent authority is able to monitor the trading activity. That relevant data shall contain the characteristics of the order, including those that link an order with the executed transactions that stem from that order.
 
-**16.** ESMA shall develop draft regulatory technical standards to further specify:
-
-(a) the manner in which transparency data, including the level of disaggregation of the data to be made available to the public as referred to in paragraphs 1, 9 and 10, is to be presented;
-
-(b) the content and format of order book records to be maintained as specified in paragraph 15.
+**16.** ESMA shall develop draft regulatory technical standards to further specify:(a) the manner in which transparency data, including the level of disaggregation of the data to be made available to the public as referred to in paragraphs 1, 9 and 10, is to be presented;(b) the content and format of order book records to be maintained as specified in paragraph 15.
 
 ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
 
@@ -2640,25 +1732,11 @@ Notwithstanding the first subparagraph, crypto-asset service providers executing
 
 ### Article 79 — Placing of crypto-assets
 
-**1.** Crypto-asset service providers placing crypto-assets shall communicate the following information to the offeror, to the person seeking admission to trading, or to any third party acting on their behalf, before entering into an agreement with them:
-
-(a) the type of placement under consideration, including whether a minimum amount of purchase is guaranteed or not;
-
-(b) an indication of the amount of transaction fees associated with the proposed placing;
-
-(c) the likely timing, process and price for the proposed operation;
-
-(d) information about the targeted purchasers.
+**1.** Crypto-asset service providers placing crypto-assets shall communicate the following information to the offeror, to the person seeking admission to trading, or to any third party acting on their behalf, before entering into an agreement with them:(a) the type of placement under consideration, including whether a minimum amount of purchase is guaranteed or not;(b) an indication of the amount of transaction fees associated with the proposed placing;(c) the likely timing, process and price for the proposed operation;(d) information about the targeted purchasers.
 
 Crypto-asset service providers placing crypto-assets shall, before placing those crypto-assets, obtain the agreement of the issuers of those crypto-assets or any third party acting on their behalf as regards the information listed in the first subparagraph.
 
-**2.** Crypto-asset service providers’ rules on conflicts of interest referred to in Article 72(1) shall have specific and adequate procedures in place to identify, prevent, manage and disclose any conflicts of interest arising from the following situations:
-
-(a) crypto-asset service providers place the crypto-assets with their own clients;
-
-(b) the proposed price for placing of crypto-assets has been overestimated or underestimated;
-
-(c) incentives, including non-monetary incentives, are paid or granted by the offeror to crypto-asset service providers.
+**2.** Crypto-asset service providers’ rules on conflicts of interest referred to in Article 72(1) shall have specific and adequate procedures in place to identify, prevent, manage and disclose any conflicts of interest arising from the following situations:(a) crypto-asset service providers place the crypto-assets with their own clients;(b) the proposed price for placing of crypto-assets has been overestimated or underestimated;(c) incentives, including non-monetary incentives, are paid or granted by the offeror to crypto-asset service providers.
 
 <a id="art_80"></a>
 
@@ -2676,17 +1754,9 @@ Crypto-asset service providers placing crypto-assets shall, before placing those
 
 **1.** Crypto-asset service providers providing advice on crypto-assets or providing portfolio management of crypto-assets shall assess whether the crypto-asset services or crypto-assets are suitable for their clients or prospective clients, taking into consideration their knowledge and experience in investing in crypto-assets, their investment objectives, including risk tolerance, and their financial situation including their ability to bear losses.
 
-**2.** Crypto-asset service providers providing advice on crypto-assets shall, in good time before providing advice on crypto-assets, inform prospective clients whether the advice is:
+**2.** Crypto-asset service providers providing advice on crypto-assets shall, in good time before providing advice on crypto-assets, inform prospective clients whether the advice is:(a) provided on an independent basis;(b) based on a broad or on a more restricted analysis of different crypto-assets, including whether the advice is limited to crypto-assets issued or offered by entities having close links with the crypto-asset service provider or any other legal or economic relationships, such as contractual relationships, that risk impairing the independence of the advice provided.
 
-(a) provided on an independent basis;
-
-(b) based on a broad or on a more restricted analysis of different crypto-assets, including whether the advice is limited to crypto-assets issued or offered by entities having close links with the crypto-asset service provider or any other legal or economic relationships, such as contractual relationships, that risk impairing the independence of the advice provided.
-
-**3.** Where a crypto-asset service provider providing advice on crypto-assets informs the prospective client that advice is provided on an independent basis, it shall:
-
-(a) assess a sufficient range of crypto-assets available on the market which must be sufficiently diverse to ensure that the client’s investment objectives can be suitably met and which must not be limited to crypto-assets issued or provided by: (i) that same crypto-asset service provider; (ii) entities having close links with that same crypto-asset service provider; or (iii) other entities with which that same crypto-asset service provider has such close legal or economic relationships, such as contractual relationships, as to pose a risk of impairing the independent basis of the advice provided;
-
-(b) not accept and retain fees, commissions or any monetary or non-monetary benefits paid or provided by any third party or a person acting on behalf of a third party in relation to the provision of the service to clients.
+**3.** Where a crypto-asset service provider providing advice on crypto-assets informs the prospective client that advice is provided on an independent basis, it shall:(a) assess a sufficient range of crypto-assets available on the market which must be sufficiently diverse to ensure that the client’s investment objectives can be suitably met and which must not be limited to crypto-assets issued or provided by:(i) that same crypto-asset service provider;(ii) entities having close links with that same crypto-asset service provider; or(iii) other entities with which that same crypto-asset service provider has such close legal or economic relationships, such as contractual relationships, as to pose a risk of impairing the independent basis of the advice provided;(b) not accept and retain fees, commissions or any monetary or non-monetary benefits paid or provided by any third party or a person acting on behalf of a third party in relation to the provision of the service to clients.
 
 Notwithstanding point (b) of the first subparagraph, minor non-monetary benefits that are capable of enhancing the quality of crypto-asset services provided to a client and that are of such a scale and nature that they do not impair compliance with a crypto-asset service provider’s obligation to act in the best interests of its client shall be permitted in cases where they are clearly disclosed to the client.
 
@@ -2694,11 +1764,7 @@ Notwithstanding point (b) of the first subparagraph, minor non-monetary benefits
 
 **5.** Crypto-asset service providers providing portfolio management of crypto-assets shall not accept and retain fees, commissions or any monetary or non-monetary benefits paid or provided by an issuer, offeror, person seeking admission to trading, or any third party, or a person acting on behalf of a third party, in relation to the provision of portfolio management of crypto-assets to their clients.
 
-**6.** Where a crypto-asset service provider informs a prospective client that its advice is provided on a non-independent basis, that provider may receive inducements subject to the conditions that the payment or benefit:
-
-(a) is designed to enhance the quality of the relevant service to the client; and
-
-(b) does not impair compliance with the crypto-asset service provider’s obligation to act honestly, fairly and professionally in accordance with the best interests of its clients.
+**6.** Where a crypto-asset service provider informs a prospective client that its advice is provided on a non-independent basis, that provider may receive inducements subject to the conditions that the payment or benefit:(a) is designed to enhance the quality of the relevant service to the client; and(b) does not impair compliance with the crypto-asset service provider’s obligation to act honestly, fairly and professionally in accordance with the best interests of its clients.
 
 The existence, nature and amount of the payment or benefit referred to in paragraph 4, or, where the amount cannot be ascertained, the method of calculating that amount, shall be clearly disclosed to the client, in a manner that is comprehensive, accurate and understandable, prior to the provision of the relevant crypto-asset service.
 
@@ -2706,17 +1772,7 @@ The existence, nature and amount of the payment or benefit referred to in paragr
 
 **8.** For the purposes of the suitability assessment referred to in paragraph 1, crypto-asset service providers providing advice on crypto-assets or providing portfolio management of crypto-assets shall obtain from their clients or prospective clients the necessary information regarding their knowledge of, and experience in, investing, including in crypto-assets, their investment objectives, including risk tolerance, their financial situation including their ability to bear losses, and their basic understanding of the risks involved in purchasing crypto-assets, so as to enable crypto-asset service providers to recommend to clients or prospective clients whether or not the crypto-assets are suitable for them and, in particular, are in accordance with their risk tolerance and ability to bear losses.
 
-**9.** Crypto-asset service providers providing advice on crypto-assets or portfolio management of crypto-assets shall warn clients or prospective clients that:
-
-(a) the value of crypto-assets might fluctuate;
-
-(b) the crypto-assets might be subject to full or partial losses;
-
-(c) the crypto-assets might not be liquid;
-
-(d) where applicable, the crypto-assets are not covered by the investor compensation schemes under Directive 97/9/EC;
-
-(e) the crypto-assets are not covered by the deposit guarantee schemes under Directive 2014/49/EU.
+**9.** Crypto-asset service providers providing advice on crypto-assets or portfolio management of crypto-assets shall warn clients or prospective clients that:(a) the value of crypto-assets might fluctuate;(b) the crypto-assets might be subject to full or partial losses;(c) the crypto-assets might not be liquid;(d) where applicable, the crypto-assets are not covered by the investor compensation schemes under Directive 97/9/EC;(e) the crypto-assets are not covered by the deposit guarantee schemes under Directive 2014/49/EU.
 
 **10.** Crypto-asset service providers providing advice on crypto-assets or portfolio management of crypto-assets shall establish, maintain and implement policies and procedures to enable them to collect and assess all information necessary to conduct the assessment referred to in paragraph 1 for each client. They shall take all reasonable steps to ensure that the information collected about their clients or prospective clients is reliable.
 
@@ -2724,11 +1780,7 @@ The existence, nature and amount of the payment or benefit referred to in paragr
 
 **12.** Crypto-asset service providers providing advice on crypto-assets or portfolio management of crypto-assets shall regularly review for each client the suitability assessment referred to in paragraph 1 at least every two years after the initial assessment made in accordance with that paragraph.
 
-**13.** Once the suitability assessment referred to in paragraph 1 or its review under paragraph 12 has been performed, crypto-asset service providers providing advice on crypto-assets shall provide clients with a report on suitability specifying the advice given and how that advice meets the preferences, objectives and other characteristics of clients. That report shall be made and communicated to clients in an electronic format. That report shall, as a minimum:
-
-(a) include an updated information on the assessment referred to in paragraph 1; and
-
-(b) provide an outline of the advice given.
+**13.** Once the suitability assessment referred to in paragraph 1 or its review under paragraph 12 has been performed, crypto-asset service providers providing advice on crypto-assets shall provide clients with a report on suitability specifying the advice given and how that advice meets the preferences, objectives and other characteristics of clients. That report shall be made and communicated to clients in an electronic format. That report shall, as a minimum:(a) include an updated information on the assessment referred to in paragraph 1; and(b) provide an outline of the advice given.
 
 The report on suitability referred to in the first subparagraph shall make clear that the advice is based on the client’s knowledge and experience in investing in crypto-assets, the client’s investment objectives, risk tolerance, financial situation and ability to bear losses.
 
@@ -2736,33 +1788,15 @@ The report on suitability referred to in the first subparagraph shall make clear
 
 The periodic statement referred to in the first subparagraph of this paragraph shall be provided every three months, except in cases where a client has access to an online system where up-to-date valuations of the client’s portfolio and updated information on the suitability assessment referred to in paragraph 1 can be accessed, and the crypto-asset service provider has evidence that the client has accessed a valuation at least once during the relevant quarter. Such online system shall be deemed an electronic format.
 
-**15.** ESMA shall, by 30 December 2024, issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 specifying:
-
-(a) the criteria for the assessment of knowledge and competence in accordance with paragraph 7;
-
-(b) the information referred to in paragraph 8; and
-
-(c) the format of the periodic statement referred to in paragraph 14.
+**15.** ESMA shall, by 30 December 2024, issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 specifying:▼C1(a) the criteria for the assessment of knowledge and competence in accordance with paragraph 7;▼B(b) the information referred to in paragraph 8; and(c) the format of the periodic statement referred to in paragraph 14.
 
 <a id="art_82"></a>
 
 ### Article 82 — Providing transfer services for crypto-assets on behalf of clients
 
-**1.** Crypto-asset service providers providing transfer services for crypto-assets on behalf of clients shall conclude an agreement with their clients to specify their duties and their responsibilities. Such agreement shall include at least the following:
-
-(a) the identity of the parties to the agreement;
-
-(b) a description of the modalities of the transfer service provided;
-
-(c) a description of the security systems used by the crypto-asset service provider;
-
-(d) fees applied by the crypto-asset service provider;
-
-(e) the applicable law.
+**1.** Crypto-asset service providers providing transfer services for crypto-assets on behalf of clients shall conclude an agreement with their clients to specify their duties and their responsibilities. Such agreement shall include at least the following:(a) the identity of the parties to the agreement;(b) a description of the modalities of the transfer service provided;(c) a description of the security systems used by the crypto-asset service provider;(d) fees applied by the crypto-asset service provider;(e) the applicable law.
 
 **2.** ESMA, in close cooperation with EBA, shall issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 for crypto-asset service providers providing transfer services for crypto-assets on behalf of clients as regards procedures and policies, including the rights of clients, in the context of transfer services for crypto-assets.
-
-### CHAPTER 4 — Acquisition of crypto-asset service providers
 
 <a id="art_83"></a>
 
@@ -2794,17 +1828,7 @@ The competent authority may extend the suspension referred to in the second subp
 
 ### Article 84 — Content of the assessment of proposed acquisitions of crypto-asset service providers
 
-**1.** When performing the assessment referred to in Article 83(4), the competent authority shall appraise the suitability of the proposed acquirer and the financial soundness of the proposed acquisition referred to in Article 83(1) against all of the following criteria:
-
-(a) the reputation of the proposed acquirer;
-
-(b) the reputation, knowledge, skills and experience of any person who will direct the business of the crypto-asset service provider as a result of the proposed acquisition;
-
-(c) the financial soundness of the proposed acquirer, in particular in relation to the type of business envisaged and pursued in respect of the crypto-asset service provider in which the acquisition is proposed;
-
-(d) whether the crypto-asset service provider will be able to comply and continue to comply with the provisions of this Title;
-
-(e) whether there are reasonable grounds to suspect that, in connection with the proposed acquisition, money laundering or terrorist financing within the meaning of, respectively, Article 1(3) and (5) of Directive (EU) 2015/849 is being or has been committed or attempted, or that the proposed acquisition could increase the risk thereof.
+**1.** When performing the assessment referred to in Article 83(4), the competent authority shall appraise the suitability of the proposed acquirer and the financial soundness of the proposed acquisition referred to in Article 83(1) against all of the following criteria:(a) the reputation of the proposed acquirer;(b) the reputation, knowledge, skills and experience of any person who will direct the business of the crypto-asset service provider as a result of the proposed acquisition;(c) the financial soundness of the proposed acquirer, in particular in relation to the type of business envisaged and pursued in respect of the crypto-asset service provider in which the acquisition is proposed;(d) whether the crypto-asset service provider will be able to comply and continue to comply with the provisions of this Title;(e) whether there are reasonable grounds to suspect that, in connection with the proposed acquisition, money laundering or terrorist financing within the meaning of, respectively, Article 1(3) and (5) of Directive (EU) 2015/849 is being or has been committed or attempted, or that the proposed acquisition could increase the risk thereof.
 
 **2.** The competent authority may oppose the proposed acquisition only where there are reasonable grounds for doing so on the basis of the criteria set out in paragraph 1 of this Article or where the information provided in accordance with Article 83(4) is incomplete or false.
 
@@ -2816,8 +1840,6 @@ ESMA shall submit the draft regulatory technical standards referred to in the fi
 
 Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
 
-### CHAPTER 5 — Significant crypto-asset service providers
-
 <a id="art_85"></a>
 
 ### Article 85 — Identification of significant crypto-asset service providers
@@ -2826,21 +1848,13 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 **2.** Crypto-asset service providers shall notify their competent authorities within two months of reaching the number of active users as set out in paragraph 1. Where the competent authority agrees that the threshold set out in paragraph 1 is met, it shall notify ESMA thereof.
 
-**3.** Without prejudice to the responsibilities of competent authorities under this Regulation, the competent authorities of the home Member States shall provide ESMA’s Board of Supervisors with annual updates on the following supervisory developments in relation to significant crypto-asset service providers:
-
-(a) ongoing or concluded authorisations as referred to in Article 59;
-
-(b) ongoing or concluded processes of withdrawal of authorisations as referred to in Article 64;
-
-(c) the exercise of supervisory powers set out in Article 94(1), first subparagraph, points (b), (c), (e), (f), (g), (y) and (aa).
+**3.** Without prejudice to the responsibilities of competent authorities under this Regulation, the competent authorities of the home Member States shall provide ESMA’s Board of Supervisors with annual updates on the following supervisory developments in relation to significant crypto-asset service providers:(a) ongoing or concluded authorisations as referred to in Article 59;(b) ongoing or concluded processes of withdrawal of authorisations as referred to in Article 64;(c) the exercise of supervisory powers set out in Article 94(1), first subparagraph, points (b), (c), (e), (f), (g), (y) and (aa).
 
 The competent authority of the home Member State may provide ESMA’s Board of Supervisors with more frequent updates, or notify it prior to any decision taken by the competent authority of the home Member State with regard to the first subparagraph, point (a), (b) or (c).
 
 **4.** The update referred to in paragraph 3, second subparagraph, may be followed by an exchange of views at ESMA’s Board of Supervisors.
 
 **5.** Where appropriate, ESMA may make use of its powers under Articles 29, 30, 31 and 31b of Regulation (EU) No 1095/2010.
-
-## TITLE VI — PREVENTION AND PROHIBITION OF MARKET ABUSE INVOLVING CRYPTO-ASSETS
 
 <a id="art_86"></a>
 
@@ -2856,11 +1870,7 @@ The competent authority of the home Member State may provide ESMA’s Board of S
 
 ### Article 87 — Inside information
 
-**1.** For the purposes of this Regulation, inside information shall comprise the following types of information:
-
-(a) information of a precise nature, which has not been made public, relating, directly or indirectly, to one or more issuers, offerors or persons seeking admission to trading, or to one or more crypto-assets, and which, if it were made public, would likely have a significant effect on the prices of those crypto-assets or on the price of a related crypto-asset;
-
-(b) for persons charged with the execution of orders for crypto-assets on behalf of clients, it also means information of a precise nature conveyed by a client and relating to the client’s pending orders in crypto-assets, relating, directly or indirectly, to one or more issuers, offerors or persons seeking admission to trading or to one or more crypto-assets, and which, if it were made public, would likely have a significant effect on the prices of those crypto-assets or on the price of a related crypto-asset.
+**1.** For the purposes of this Regulation, inside information shall comprise the following types of information:(a) information of a precise nature, which has not been made public, relating, directly or indirectly, to one or more issuers, offerors or persons seeking admission to trading, or to one or more crypto-assets, and which, if it were made public, would likely have a significant effect on the prices of those crypto-assets or on the price of a related crypto-asset;(b) for persons charged with the execution of orders for crypto-assets on behalf of clients, it also means information of a precise nature conveyed by a client and relating to the client’s pending orders in crypto-assets, relating, directly or indirectly, to one or more issuers, offerors or persons seeking admission to trading or to one or more crypto-assets, and which, if it were made public, would likely have a significant effect on the prices of those crypto-assets or on the price of a related crypto-asset.
 
 **2.** For the purposes of paragraph 1, information shall be deemed to be of a precise nature if it indicates a set of circumstances which exists or which may reasonably be expected to come into existence, or an event which has occurred or which may reasonably be expected to occur, where it is specific enough to enable a conclusion to be drawn as to the possible effect of that set of circumstances or event on the prices of crypto-assets. In that respect, in the case of a protracted process that is intended to bring about, or that results in, particular circumstances or a particular event, those future circumstances or that future event, and also the intermediate steps of that process which are connected with bringing about or resulting in those future circumstances or that future event, may be deemed to be precise information.
 
@@ -2874,21 +1884,11 @@ The competent authority of the home Member State may provide ESMA’s Board of S
 
 **1.** Issuers, offerors and persons seeking admission to trading shall inform the public as soon as possible of inside information referred to in Article 87 that directly concerns them, in a manner that enables fast access as well as complete, correct and timely assessment of the information by the public. Issuers, offerors and persons seeking admission to trading shall not combine the disclosure of inside information to the public with the marketing of their activities. Issuers, offerors and persons seeking admission to trading shall post and maintain on their website, for a period of at least five years, all inside information that they are required to disclose publicly.
 
-**2.** Issuers, offerors and persons seeking admission to trading may, on their own responsibility, delay disclosure to the public of inside information referred to in Article 87 provided that all of the following conditions are met:
-
-(a) immediate disclosure is likely to prejudice the legitimate interests of the issuers, offerors or persons seeking admission to trading;
-
-(b) delay of disclosure is not likely to mislead the public;
-
-(c) issuers, offerors or persons seeking admission to trading are able to ensure the confidentiality of that information.
+**2.** Issuers, offerors and persons seeking admission to trading may, on their own responsibility, delay disclosure to the public of inside information referred to in Article 87 provided that all of the following conditions are met:(a) immediate disclosure is likely to prejudice the legitimate interests of the issuers, offerors or persons seeking admission to trading;(b) delay of disclosure is not likely to mislead the public;(c) issuers, offerors or persons seeking admission to trading are able to ensure the confidentiality of that information.
 
 **3.** Where an issuer, offeror or a person seeking admission to trading has delayed the disclosure of inside information in accordance with paragraph 2, it shall inform the competent authority that disclosure of the information was delayed and shall provide a written explanation of how the conditions set out in paragraph 2 were met, immediately after the information is disclosed to the public. Alternatively, Member States may provide that a record of such an explanation is to be provided only upon the request of the competent authority.
 
-**4.** In order to ensure uniform conditions of application of this Article, ESMA shall develop draft implementing technical standards to determine the technical means for:
-
-(a) appropriate public disclosure of inside information as referred to in paragraph 1; and
-
-(b) delaying the public disclosure of inside information as referred to in paragraphs 2 and 3.
+**4.** In order to ensure uniform conditions of application of this Article, ESMA shall develop draft implementing technical standards to determine the technical means for:(a) appropriate public disclosure of inside information as referred to in paragraph 1; and(b) delaying the public disclosure of inside information as referred to in paragraphs 2 and 3.
 
 ESMA shall submit the draft implementing technical standards referred to in the first subparagraph to the Commission by 30 June 2024.
 
@@ -2902,23 +1902,11 @@ Power is conferred on the Commission to adopt the implementing technical standar
 
 **2.** No person shall engage or attempt to engage in insider dealing or use inside information about crypto-assets to acquire, or dispose of, those crypto-assets, directly or indirectly, whether for that person’s own account or for the account of a third party. No person shall recommend that another person engage in insider dealing or induce another person to engage in insider dealing.
 
-**3.** No person in the possession of inside information about crypto-assets shall, based on that inside information, recommend or induce another person:
-
-(a) to acquire or dispose of those crypto-assets; or
-
-(b) to cancel or amend an order concerning those crypto-assets.
+**3.** No person in the possession of inside information about crypto-assets shall, based on that inside information, recommend or induce another person:(a) to acquire or dispose of those crypto-assets; or(b) to cancel or amend an order concerning those crypto-assets.
 
 **4.** The use of a recommendation or inducement as referred to in paragraph 3 amounts to insider dealing within the meaning of this Article where the person using that recommendation or inducement knows or ought to know that it is based on inside information.
 
-**5.** This Article applies to any person who possesses inside information as a result of:
-
-(a) being a member of the administrative, management or supervisory bodies of the issuer, the offeror, or the person seeking admission to trading;
-
-(b) having a holding in the capital of the issuer, the offeror, or the person seeking admission to trading;
-
-(c) having access to the information through the exercise of an employment, profession or duties or in relation to its role in the distributed ledger technology or similar technology; or
-
-(d) being involved in criminal activities.
+**5.** This Article applies to any person who possesses inside information as a result of:(a) being a member of the administrative, management or supervisory bodies of the issuer, the offeror, or the person seeking admission to trading;(b) having a holding in the capital of the issuer, the offeror, or the person seeking admission to trading;(c) having access to the information through the exercise of an employment, profession or duties or in relation to its role in the distributed ledger technology or similar technology; or(d) being involved in criminal activities.
 
 This Article also applies to any person who possesses inside information under circumstances other than those referred to in the first subparagraph where that person knows or ought to know that it is inside information.
 
@@ -2938,21 +1926,9 @@ This Article also applies to any person who possesses inside information under c
 
 **1.** No person shall engage in or attempt to engage in market manipulation.
 
-**2.** For the purposes of this Regulation, market manipulation shall comprise any of the following activities:
+**2.** For the purposes of this Regulation, market manipulation shall comprise any of the following activities:(a) unless carried out for legitimate reasons, entering into a transaction, placing an order to trade or engaging in any other behaviour which:(i) gives, or is likely to give, false or misleading signals as to the supply of, demand for, or price of, a crypto-asset;(ii) secures, or is likely to secure, the price of one or several crypto-assets at an abnormal or artificial level;(b) entering into a transaction, placing an order to trade or any other activity or behaviour which affects or is likely to affect the price of one or several crypto-assets, while employing a fictitious device or any other form of deception or contrivance;(c) disseminating information through the media, including the internet, or by any other means, which gives, or is likely to give, false or misleading signals as to the supply of, demand for, or price of one or several crypto-assets, or secures or is likely to secure, the price of one or several crypto-assets, at an abnormal or artificial level, including the dissemination of rumours, where the person who engaged in the dissemination knew, or ought to have known, that the information was false or misleading.
 
-(a) unless carried out for legitimate reasons, entering into a transaction, placing an order to trade or engaging in any other behaviour which: (i) gives, or is likely to give, false or misleading signals as to the supply of, demand for, or price of, a crypto-asset; (ii) secures, or is likely to secure, the price of one or several crypto-assets at an abnormal or artificial level;
-
-(b) entering into a transaction, placing an order to trade or any other activity or behaviour which affects or is likely to affect the price of one or several crypto-assets, while employing a fictitious device or any other form of deception or contrivance;
-
-(c) disseminating information through the media, including the internet, or by any other means, which gives, or is likely to give, false or misleading signals as to the supply of, demand for, or price of one or several crypto-assets, or secures or is likely to secure, the price of one or several crypto-assets, at an abnormal or artificial level, including the dissemination of rumours, where the person who engaged in the dissemination knew, or ought to have known, that the information was false or misleading.
-
-**3.** The following behaviour shall, inter alia, be considered market manipulation:
-
-(a) securing a dominant position over the supply of, or demand for, a crypto-asset, which has, or is likely to have, the effect of fixing, directly or indirectly, purchase or sale prices or creates, or is likely to create, other unfair trading conditions;
-
-(b) the placing of orders to a trading platform for crypto-assets, including any cancellation or modification thereof, by any available means of trading, and which has one of the effects referred to in paragraph 2, point (a), by: (i) disrupting or delaying the functioning of the trading platform for crypto-assets or engaging into any activities that are likely to have that effect; (ii) making it more difficult for other persons to identify genuine orders on the trading platform for crypto-assets or engaging into any activities that are likely to have that effect, including by entering orders which result in the destabilisation of the normal functioning of the trading platform for crypto-assets; (iii) creating a false or misleading signal about the supply of, or demand for, or price of, a crypto-asset, in particular by entering orders to initiate or exacerbate a trend, or engaging into any activities that are likely to have that effect;
-
-(c) taking advantage of occasional or regular access to the traditional or electronic media by voicing an opinion about a crypto-asset, while having previously taken positions on that crypto-asset, and profiting subsequently from the impact of the opinions voiced on the price of that crypto-asset, without having simultaneously disclosed that conflict of interest to the public in a proper and effective way.
+**3.** The following behaviour shall, inter alia, be considered market manipulation:(a) securing a dominant position over the supply of, or demand for, a crypto-asset, which has, or is likely to have, the effect of fixing, directly or indirectly, purchase or sale prices or creates, or is likely to create, other unfair trading conditions;(b) the placing of orders to a trading platform for crypto-assets, including any cancellation or modification thereof, by any available means of trading, and which has one of the effects referred to in paragraph 2, point (a), by:(i) disrupting or delaying the functioning of the trading platform for crypto-assets or engaging into any activities that are likely to have that effect;(ii) making it more difficult for other persons to identify genuine orders on the trading platform for crypto-assets or engaging into any activities that are likely to have that effect, including by entering orders which result in the destabilisation of the normal functioning of the trading platform for crypto-assets;(iii) creating a false or misleading signal about the supply of, or demand for, or price of, a crypto-asset, in particular by entering orders to initiate or exacerbate a trend, or engaging into any activities that are likely to have that effect;(c) taking advantage of occasional or regular access to the traditional or electronic media by voicing an opinion about a crypto-asset, while having previously taken positions on that crypto-asset, and profiting subsequently from the impact of the opinions voiced on the price of that crypto-asset, without having simultaneously disclosed that conflict of interest to the public in a proper and effective way.
 
 <a id="art_92"></a>
 
@@ -2962,23 +1938,13 @@ This Article also applies to any person who possesses inside information under c
 
 The competent authorities receiving a report of suspicious orders or transactions shall transmit such information immediately to the competent authorities of the trading platforms concerned.
 
-**2.** ESMA shall develop draft regulatory technical standards to further specify:
-
-(a) appropriate arrangements, systems and procedures for persons to comply with paragraph 1;
-
-(b) the template to be used by persons to comply with paragraph 1;
-
-(c) for cross-border market abuse situations, coordination procedures between the relevant competent authorities for the detection and sanctioning of market abuse.
+**2.** ESMA shall develop draft regulatory technical standards to further specify:(a) appropriate arrangements, systems and procedures for persons to comply with paragraph 1;(b) the template to be used by persons to comply with paragraph 1;(c) for cross-border market abuse situations, coordination procedures between the relevant competent authorities for the detection and sanctioning of market abuse.
 
 ESMA shall submit the draft regulatory technical standards referred to in the first subparagraph to the Commission by 30 December 2024.
 
 Power is delegated to the Commission to supplement this Regulation by adopting the regulatory technical standards referred to in the first subparagraph of this paragraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
 
 **3.** In order to ensure consistency of supervisory practices under this Article, ESMA shall by 30 June 2025 issue guidelines in accordance with Article 16 of Regulation (EU) No 1095/2010 on supervisory practices among the competent authorities to prevent and detect market abuse, if not already covered by the regulatory technical standards referred to in paragraph 2.
-
-## TITLE VII — COMPETENT AUTHORITIES, EBA AND ESMA
-
-### CHAPTER 1 — Powers of competent authorities and cooperation between competent authorities, EBA and ESMA
 
 <a id="art_93"></a>
 
@@ -2994,95 +1960,15 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 ### Article 94 — Powers of competent authorities
 
-**1.** In order to perform their duties under Titles II to VI of this Regulation, competent authorities shall have, in accordance with national law, at least the following supervisory and investigative powers:
-
-(a) to require any person to provide information and documents which the competent authorities consider could be relevant for the performance of their duties;
-
-(b) to suspend, or to require a crypto-asset service provider to suspend, the provision of crypto-asset services for a maximum of 30 consecutive working days on any single occasion where there are reasonable grounds for suspecting that this Regulation has been infringed;
-
-(c) to prohibit the provision of crypto-asset services where they find that this Regulation has been infringed;
-
-(d) to disclose, or to require a crypto-asset servicer provider to disclose, all material information which might have an effect on the provision of the crypto-asset services concerned, in order to ensure the protection of the interests of clients, in particular retail holders, or the smooth operation of the market;
-
-(e) to make public the fact that a crypto-asset service provider fails to fulfil its obligations;
-
-(f) to suspend, or to require a crypto-asset service provider to suspend, the provision of crypto-asset services where the competent authorities consider that the crypto-asset service provider’s situation is such that the provision of the crypto-asset service would be detrimental to the interests of clients, in particular retail holders;
-
-(g) to require the transfer of existing contracts to another crypto-asset service provider in cases where a crypto-asset service provider’s authorisation is withdrawn in accordance with Article 64, subject to the agreement of the clients and the crypto-asset service provider to which the contracts are to be transferred;
-
-(h) where there is a reason to assume that a person is providing crypto-asset services without authorisation, to order the immediate cessation of the activity without prior warning or imposition of a deadline;
-
-(i) to require offerors, persons seeking admission to trading of crypto-assets, or issuers of asset-referenced tokens or e-money tokens to amend their crypto-asset white paper or further amend their modified crypto-asset white paper, where they find that the crypto-asset white paper or the modified crypto-asset white paper does not contain the information required by Article 6, 19 or 51;
-
-(j) to require offerors, persons seeking admission to trading of crypto-assets, or issuers of asset-referenced tokens or e-money tokens, to amend their marketing communications, where they find that the marketing communications do not comply with the requirements set out in Article 7, 29 or 53 of this Regulation;
-
-(k) to require offerors, persons seeking admission to trading of crypto-assets, or issuers of asset-referenced tokens or e-money tokens, to include additional information in their crypto-asset white papers, where necessary for financial stability or the protection of the interests of the holders of crypto-assets, in particular retail holders;
-
-(l) to suspend an offer to the public or an admission to trading of crypto-assets for a maximum of 30 consecutive working days on any single occasion where there are reasonable grounds for suspecting that this Regulation has been infringed;
-
-(m) to prohibit an offer to the public or an admission to trading of crypto-assets where they find that this Regulation has been infringed or where there are reasonable grounds for suspecting that it will be infringed;
-
-(n) to suspend, or require a crypto-asset service provider operating a trading platform for crypto-assets to suspend, trading of the crypto-assets for a maximum of 30 consecutive working days on any single occasion where there are reasonable grounds for suspecting that this Regulation has been infringed;
-
-(o) to prohibit trading of crypto-assets on a trading platform for crypto-assets where they find that this Regulation has been infringed or where there are reasonable grounds for suspecting that it will be infringed;
-
-(p) to suspend or prohibit marketing communications where there are reasonable grounds for suspecting that this Regulation has been infringed;
-
-(q) to require offerors, persons seeking admission to trading of crypto-assets, issuers of asset-referenced tokens or e-money tokens or relevant crypto-asset service providers to cease or suspend marketing communications for a maximum of 30 consecutive working days on any single occasion where there are reasonable grounds for suspecting that this Regulation has been infringed;
-
-(r) to make public the fact that an offeror, a person seeking admission to trading of a crypto-asset or an issuer of an asset-referenced token or e-money token, fails to fulfil its obligations under this Regulation;
-
-(s) to disclose, or to require the offeror, the person seeking admission to trading of a crypto-asset or the issuer of the asset-referenced token or e-money token, to disclose all material information which may have an effect on the assessment of the crypto-asset offered to the public or admitted to trading in order to ensure the protection of the interests of holders of crypto-assets, in particular retail holders, or the smooth operation of the market;
-
-(t) to suspend, or require the relevant crypto-asset service provider operating the trading platform for crypto-assets to suspend, the crypto-assets from trading where they consider that the situation of the offeror, the person seeking admission to trading of a crypto-asset or the issuer of an asset-referenced token or an e-money token is such that trading would be detrimental to the interests of the holders of crypto-assets, in particular retail holders;
-
-(u) where there is a reason to assume that a person is issuing asset-referenced tokens or e-money tokens without authorisation or a person is offering or seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens without a crypto-asset white paper notified in accordance with Article 8, to order the immediate cessation of the activity without prior warning or imposition of a deadline;
-
-(v) to take any type of measure to ensure that an offeror or a person seeking admission to trading of crypto-assets, an issuer of an asset-referenced token or an e-money token or a crypto-asset service provider comply with this Regulation including to require the cessation of any practice or conduct that the competent authorities consider contrary to this Regulation;
-
-(w) to carry out on-site inspections or investigations at sites other than the private residences of natural persons, and for that purpose to enter premises in order to access documents and other data in any form;
-
-(x) to outsource verifications or investigations to auditors or experts;
-
-(y) to require the removal of a natural person from the management body of an issuer of an asset-referenced token or of a crypto-asset service provider;
-
-(z) to request any person to take steps to reduce the size of its position or exposure to crypto-assets;
-
-(aa) where no other effective means are available to bring about the cessation of the infringement of this Regulation and in order to avoid the risk of serious harm to the interests of clients or holders of crypto-assets to take all necessary measures, including by requesting a third party or a public authority to implement such measures, to: (i) remove content or restrict access to an online interface or to order the explicit display of a warning to clients and holders of crypto-assets when they access an online interface; (ii) order a hosting service provider to remove, disable or restrict access to an online interface; or (iii) order domain registries or registrars to delete a fully qualified domain name and allow the competent authority concerned to register it;
-
-(ab) to require an issuer of an asset-referenced token or e-money token, in accordance with Article 23(4), 24(3) or 58(3), to introduce a minimum denomination amount or to limit the amount issued.
+**1.** In order to perform their duties under Titles II to VI of this Regulation, competent authorities shall have, in accordance with national law, at least the following supervisory and investigative powers:(a) to require any person to provide information and documents which the competent authorities consider could be relevant for the performance of their duties;(b) to suspend, or to require a crypto-asset service provider to suspend, the provision of crypto-asset services for a maximum of 30 consecutive working days on any single occasion where there are reasonable grounds for suspecting that this Regulation has been infringed;(c) to prohibit the provision of crypto-asset services where they find that this Regulation has been infringed;(d) to disclose, or to require a crypto-asset servicer provider to disclose, all material information which might have an effect on the provision of the crypto-asset services concerned, in order to ensure the protection of the interests of clients, in particular retail holders, or the smooth operation of the market;(e) to make public the fact that a crypto-asset service provider fails to fulfil its obligations;(f) to suspend, or to require a crypto-asset service provider to suspend, the provision of crypto-asset services where the competent authorities consider that the crypto-asset service provider’s situation is such that the provision of the crypto-asset service would be detrimental to the interests of clients, in particular retail holders;(g) to require the transfer of existing contracts to another crypto-asset service provider in cases where a crypto-asset service provider’s authorisation is withdrawn in accordance with Article 64, subject to the agreement of the clients and the crypto-asset service provider to which the contracts are to be transferred;(h) where there is a reason to assume that a person is providing crypto-asset services without authorisation, to order the immediate cessation of the activity without prior warning or imposition of a deadline;(i) to require offerors, persons seeking admission to trading of crypto-assets, or issuers of asset-referenced tokens or e-money tokens to amend their crypto-asset white paper or further amend their modified crypto-asset white paper, where they find that the crypto-asset white paper or the modified crypto-asset white paper does not contain the information required by Article 6, 19 or 51;(j) to require offerors, persons seeking admission to trading of crypto-assets, or issuers of asset-referenced tokens or e-money tokens, to amend their marketing communications, where they find that the marketing communications do not comply with the requirements set out in Article 7, 29 or 53 of this Regulation;(k) to require offerors, persons seeking admission to trading of crypto-assets, or issuers of asset-referenced tokens or e-money tokens, to include additional information in their crypto-asset white papers, where necessary for financial stability or the protection of the interests of the holders of crypto-assets, in particular retail holders;(l) to suspend an offer to the public or an admission to trading of crypto-assets for a maximum of 30 consecutive working days on any single occasion where there are reasonable grounds for suspecting that this Regulation has been infringed;(m) to prohibit an offer to the public or an admission to trading of crypto-assets where they find that this Regulation has been infringed or where there are reasonable grounds for suspecting that it will be infringed;(n) to suspend, or require a crypto-asset service provider operating a trading platform for crypto-assets to suspend, trading of the crypto-assets for a maximum of 30 consecutive working days on any single occasion where there are reasonable grounds for suspecting that this Regulation has been infringed;(o) to prohibit trading of crypto-assets on a trading platform for crypto-assets where they find that this Regulation has been infringed or where there are reasonable grounds for suspecting that it will be infringed;(p) to suspend or prohibit marketing communications where there are reasonable grounds for suspecting that this Regulation has been infringed;(q) to require offerors, persons seeking admission to trading of crypto-assets, issuers of asset-referenced tokens or e-money tokens or relevant crypto-asset service providers to cease or suspend marketing communications for a maximum of 30 consecutive working days on any single occasion where there are reasonable grounds for suspecting that this Regulation has been infringed;(r) to make public the fact that an offeror, a person seeking admission to trading of a crypto-asset or an issuer of an asset-referenced token or e-money token, fails to fulfil its obligations under this Regulation;(s) to disclose, or to require the offeror, the person seeking admission to trading of a crypto-asset or the issuer of the asset-referenced token or e-money token, to disclose all material information which may have an effect on the assessment of the crypto-asset offered to the public or admitted to trading in order to ensure the protection of the interests of holders of crypto-assets, in particular retail holders, or the smooth operation of the market;(t) to suspend, or require the relevant crypto-asset service provider operating the trading platform for crypto-assets to suspend, the crypto-assets from trading where they consider that the situation of the offeror, the person seeking admission to trading of a crypto-asset or the issuer of an asset-referenced token or an e-money token is such that trading would be detrimental to the interests of the holders of crypto-assets, in particular retail holders;(u) where there is a reason to assume that a person is issuing asset-referenced tokens or e-money tokens without authorisation or a person is offering or seeking admission to trading of crypto-assets other than asset-referenced tokens or e-money tokens without a crypto-asset white paper notified in accordance with Article 8, to order the immediate cessation of the activity without prior warning or imposition of a deadline;(v) to take any type of measure to ensure that an offeror or a person seeking admission to trading of crypto-assets, an issuer of an asset-referenced token or an e-money token or a crypto-asset service provider comply with this Regulation including to require the cessation of any practice or conduct that the competent authorities consider contrary to this Regulation;(w) to carry out on-site inspections or investigations at sites other than the private residences of natural persons, and for that purpose to enter premises in order to access documents and other data in any form;(x) to outsource verifications or investigations to auditors or experts;(y) to require the removal of a natural person from the management body of an issuer of an asset-referenced token or of a crypto-asset service provider;(z) to request any person to take steps to reduce the size of its position or exposure to crypto-assets;(aa) where no other effective means are available to bring about the cessation of the infringement of this Regulation and in order to avoid the risk of serious harm to the interests of clients or holders of crypto-assets to take all necessary measures, including by requesting a third party or a public authority to implement such measures, to:(i) remove content or restrict access to an online interface or to order the explicit display of a warning to clients and holders of crypto-assets when they access an online interface;(ii) order a hosting service provider to remove, disable or restrict access to an online interface; or(iii) order domain registries or registrars to delete a fully qualified domain name and allow the competent authority concerned to register it;(ab) to require an issuer of an asset-referenced token or e-money token, in accordance with Article 23(4), 24(3) or 58(3), to introduce a minimum denomination amount or to limit the amount issued.
 
 **2.** Supervisory and investigative powers exercised in relation to offerors, persons seeking admission to trading, issuers and crypto-asset service providers, are without prejudice to powers granted to the same or other supervisory authorities regarding those entities, including powers granted to relevant competent authorities under the provisions of national law transposing Directive 2009/110/EC and prudential supervisory powers granted to the ECB under Regulation (EU) No 1024/2013.
 
-**3.** In order to fulfil their duties under Title VI, competent authorities shall have, in accordance with national law, at least the following supervisory and investigatory powers in addition to the powers referred to in paragraph 1:
-
-(a) to access any document and data in any form, and to receive or take a copy thereof;
-
-(b) to require or demand information from any person, including those who are successively involved in the transmission of orders or conduct of the operations concerned, as well as their principals, and if necessary, to summon and question any such person with a view to obtain information;
-
-(c) to enter the premises of natural and legal persons in order to seize documents and data in any form where a reasonable suspicion exists that documents or data relating to the subject matter of the inspection or investigation might be relevant to prove a case of insider dealing or market manipulation;
-
-(d) to refer matters for criminal prosecution;
-
-(e) to require, insofar as permitted by national law, existing data traffic records held by a telecommunications operator, where there is a reasonable suspicion of an infringement and where such records may be relevant to the investigation of an infringement of Articles 88 to 91;
-
-(f) to request the freezing or sequestration of assets, or both;
-
-(g) to impose a temporary prohibition on the exercise of professional activity;
-
-(h) to take all necessary measures to ensure that the public is correctly informed, inter alia, by correcting false or misleading disclosed information, including by requiring an offeror, person seeking admission to trading or issuer or other person who has published or disseminated false or misleading information to publish a corrective statement.
+**3.** In order to fulfil their duties under Title VI, competent authorities shall have, in accordance with national law, at least the following supervisory and investigatory powers in addition to the powers referred to in paragraph 1:(a) to access any document and data in any form, and to receive or take a copy thereof;(b) to require or demand information from any person, including those who are successively involved in the transmission of orders or conduct of the operations concerned, as well as their principals, and if necessary, to summon and question any such person with a view to obtain information;(c) to enter the premises of natural and legal persons in order to seize documents and data in any form where a reasonable suspicion exists that documents or data relating to the subject matter of the inspection or investigation might be relevant to prove a case of insider dealing or market manipulation;(d) to refer matters for criminal prosecution;(e) to require, insofar as permitted by national law, existing data traffic records held by a telecommunications operator, where there is a reasonable suspicion of an infringement and where such records may be relevant to the investigation of an infringement of Articles 88 to 91;(f) to request the freezing or sequestration of assets, or both;(g) to impose a temporary prohibition on the exercise of professional activity;(h) to take all necessary measures to ensure that the public is correctly informed, inter alia, by correcting false or misleading disclosed information, including by requiring an offeror, person seeking admission to trading or issuer or other person who has published or disseminated false or misleading information to publish a corrective statement.
 
 **4.** Where necessary under national law, the competent authority may ask the relevant court to decide on the use of the powers referred to in paragraphs 1 and 2.
 
-**5.** Competent authorities shall exercise the powers referred to in paragraphs 1 and 2 in any of the following ways:
-
-(a) directly;
-
-(b) in collaboration with other authorities, including authorities competent for the prevention and fight against money laundering and terrorist financing;
-
-(c) under their responsibility, by delegation to the authorities referred to in point (b);
-
-(d) by application to the competent courts.
+**5.** Competent authorities shall exercise the powers referred to in paragraphs 1 and 2 in any of the following ways:(a) directly;(b) in collaboration with other authorities, including authorities competent for the prevention and fight against money laundering and terrorist financing;(c) under their responsibility, by delegation to the authorities referred to in point (b);(d) by application to the competent courts.
 
 **6.** Member States shall ensure that appropriate measures are in place so that competent authorities can exercise the supervisory and investigatory powers that are necessary to perform their duties.
 
@@ -3096,15 +1982,7 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 Where Member States have, in accordance with Article 111(1), second subparagraph, laid down criminal penalties for the infringements of this Regulation referred to in Article 111(1), first subparagraph, they shall ensure that appropriate measures are in place so that competent authorities have all the necessary powers to liaise with judicial, prosecuting or criminal justice authorities within their jurisdiction to receive specific information related to criminal investigations or proceedings commenced for infringements of this Regulation and to provide the same information to other competent authorities as well as to EBA and ESMA, in order to fulfil their obligation to cooperate for the purposes of this Regulation.
 
-**2.** A competent authority may refuse to act on a request for information or a request to cooperate with an investigation only in the following cases:
-
-(a) communication of relevant information could adversely affect the security of the Member State addressed, in particular with regard to the fight against terrorism and other serious crimes;
-
-(b) where complying with the request is likely to adversely affect its own investigation, enforcement activities or, where applicable, a criminal investigation;
-
-(c) where proceedings have already been initiated in respect of the same actions and against the same natural or legal persons before the courts of the Member State addressed;
-
-(d) where a final judgment has already been delivered in respect of the same action and against the same natural or legal person in the Member State addressed.
+**2.** A competent authority may refuse to act on a request for information or a request to cooperate with an investigation only in the following cases:(a) communication of relevant information could adversely affect the security of the Member State addressed, in particular with regard to the fight against terrorism and other serious crimes;(b) where complying with the request is likely to adversely affect its own investigation, enforcement activities or, where applicable, a criminal investigation;(c) where proceedings have already been initiated in respect of the same actions and against the same natural or legal persons before the courts of the Member State addressed;(d) where a final judgment has already been delivered in respect of the same action and against the same natural or legal person in the Member State addressed.
 
 **3.** Competent authorities shall, upon request, without undue delay provide any information required for the purposes of this Regulation.
 
@@ -3218,27 +2096,13 @@ By way of derogation from the first subparagraph of this paragraph, where the me
 
 ### Article 103 — ESMA temporary intervention powers
 
-**1.** In accordance with Article 9(5) of Regulation (EU) No 1095/2010, ESMA may, where the conditions in paragraphs 2 and 3 of this Article are fulfilled, temporarily prohibit or restrict:
-
-(a) the marketing, distribution or sale of certain crypto-assets other than asset-referenced tokens or e-money tokens or crypto-assets other than asset-referenced tokens or e-money tokens with certain specified features; or
-
-(b) a type of activity or practice related to crypto-assets other than asset-referenced tokens or e-money tokens.
+**1.** In accordance with Article 9(5) of Regulation (EU) No 1095/2010, ESMA may, where the conditions in paragraphs 2 and 3 of this Article are fulfilled, temporarily prohibit or restrict:(a) the marketing, distribution or sale of certain crypto-assets other than asset-referenced tokens or e-money tokens or crypto-assets other than asset-referenced tokens or e-money tokens with certain specified features; or(b) a type of activity or practice related to crypto-assets other than asset-referenced tokens or e-money tokens.
 
 A prohibition or restriction may apply in certain circumstances, or be subject to exceptions, specified by ESMA.
 
-**2.** ESMA shall take a measure pursuant to paragraph 1 only if all of the following conditions are fulfilled:
+**2.** ESMA shall take a measure pursuant to paragraph 1 only if all of the following conditions are fulfilled:(a) the proposed prohibition or restriction addresses a significant investor protection concern or a threat to the orderly functioning and integrity of markets in crypto-assets or to the stability of the whole or part of the financial system in the Union;(b) the regulatory requirements under Union law that are applicable to the relevant crypto-assets and crypto-asset services do not address the threat at issue;(c) a relevant competent authority has not taken action to address the threat at issue or the actions that have been taken do not adequately address that threat.
 
-(a) the proposed prohibition or restriction addresses a significant investor protection concern or a threat to the orderly functioning and integrity of markets in crypto-assets or to the stability of the whole or part of the financial system in the Union;
-
-(b) the regulatory requirements under Union law that are applicable to the relevant crypto-assets and crypto-asset services do not address the threat at issue;
-
-(c) a relevant competent authority has not taken action to address the threat at issue or the actions that have been taken do not adequately address that threat.
-
-**3.** When taking a measure pursuant to paragraph 1, ESMA shall ensure that the measure does not:
-
-(a) have a detrimental effect on the efficiency of markets in crypto-assets or on holders of crypto-assets or clients receiving crypto-asset services that is disproportionate to the benefits of the measure; and
-
-(b) create a risk of regulatory arbitrage.
+**3.** When taking a measure pursuant to paragraph 1, ESMA shall ensure that the measure does not:(a) have a detrimental effect on the efficiency of markets in crypto-assets or on holders of crypto-assets or clients receiving crypto-asset services that is disproportionate to the benefits of the measure; and(b) create a risk of regulatory arbitrage.
 
 Where competent authorities have taken a measure pursuant to Article 105, ESMA may take any of the measures referred to in paragraph 1 of this Article without issuing an opinion pursuant to Article 106(2).
 
@@ -3256,27 +2120,13 @@ Where competent authorities have taken a measure pursuant to Article 105, ESMA m
 
 ### Article 104 — EBA temporary intervention powers
 
-**1.** In accordance with Article 9(5) of Regulation (EU) No 1093/2010, EBA may, where the conditions in paragraphs 2 and 3 of this Article are fulfilled, temporarily prohibit or restrict:
-
-(a) the marketing, distribution or sale of certain asset-referenced tokens or e-money tokens or asset-referenced tokens or e-money tokens with certain specified features; or
-
-(b) a type of activity or practice related to asset-referenced tokens or e-money tokens.
+**1.** In accordance with Article 9(5) of Regulation (EU) No 1093/2010, EBA may, where the conditions in paragraphs 2 and 3 of this Article are fulfilled, temporarily prohibit or restrict:(a) the marketing, distribution or sale of certain asset-referenced tokens or e-money tokens or asset-referenced tokens or e-money tokens with certain specified features; or(b) a type of activity or practice related to asset-referenced tokens or e-money tokens.
 
 A prohibition or restriction may apply in certain circumstances, or be subject to exceptions, specified by EBA.
 
-**2.** EBA shall take a measure pursuant to paragraph 1 only if all of the following conditions are fulfilled:
+**2.** EBA shall take a measure pursuant to paragraph 1 only if all of the following conditions are fulfilled:(a) the proposed prohibition or restriction addresses a significant investor protection concern or a threat to the orderly functioning and integrity of markets in crypto-assets or to the stability of the whole or part of the financial system in the Union;(b) the regulatory requirements under Union law that are applicable to the relevant asset-referenced tokens, e-money tokens or crypto-asset services related to them do not address the threat at issue;(c) a relevant competent authority has not taken action to address the threat at issue or the actions that have been taken do not adequately address that threat.
 
-(a) the proposed prohibition or restriction addresses a significant investor protection concern or a threat to the orderly functioning and integrity of markets in crypto-assets or to the stability of the whole or part of the financial system in the Union;
-
-(b) the regulatory requirements under Union law that are applicable to the relevant asset-referenced tokens, e-money tokens or crypto-asset services related to them do not address the threat at issue;
-
-(c) a relevant competent authority has not taken action to address the threat at issue or the actions that have been taken do not adequately address that threat.
-
-**3.** When taking a measure pursuant to paragraph 1, EBA shall ensure that the measure does not:
-
-(a) have a detrimental effect on the efficiency of markets in crypto-assets or on holders of asset-referenced tokens or e-money tokens or clients receiving crypto-asset services that is disproportionate to the benefits of the measure; and
-
-(b) create a risk of regulatory arbitrage.
+**3.** When taking a measure pursuant to paragraph 1, EBA shall ensure that the measure does not:(a) have a detrimental effect on the efficiency of markets in crypto-assets or on holders of asset-referenced tokens or e-money tokens or clients receiving crypto-asset services that is disproportionate to the benefits of the measure; and(b) create a risk of regulatory arbitrage.
 
 Where competent authorities have taken a measure pursuant to Article 105, EBA may take any of the measures referred to in paragraph 1 of this Article without issuing an opinion pursuant to Article 106(2).
 
@@ -3294,35 +2144,15 @@ Where competent authorities have taken a measure pursuant to Article 105, EBA ma
 
 ### Article 105 — Product intervention by competent authorities
 
-**1.** A competent authority may prohibit or restrict the following in or from its Member State:
+**1.** A competent authority may prohibit or restrict the following in or from its Member State:(a) the marketing, distribution or sale of certain crypto-assets or crypto-assets with certain specified features; or(b) a type of activity or practice related to crypto-assets.
 
-(a) the marketing, distribution or sale of certain crypto-assets or crypto-assets with certain specified features; or
-
-(b) a type of activity or practice related to crypto-assets.
-
-**2.** A competent authority shall only take a measure pursuant to paragraph 1 if it is satisfied on reasonable grounds that:
-
-(a) a crypto-asset gives rise to significant investor protection concerns or poses a threat to the orderly functioning and integrity of markets in crypto-assets or to the stability of the whole or part of the financial system within at least one Member State;
-
-(b) existing regulatory requirements under Union law applicable to the crypto-asset or crypto-asset service concerned do not sufficiently address the risks referred to in point (a) and the issue would not be better addressed by improved supervision or enforcement of existing requirements;
-
-(c) the measure is proportionate, taking into account the nature of the risks identified, the level of sophistication of investors or market participants concerned and the likely effect of the measure on investors and market participants who may hold, use or benefit from the crypto-asset or crypto-asset service concerned;
-
-(d) the competent authority has properly consulted the competent authorities in other Member States that might be significantly affected by the measure; and
-
-(e) the measure does not have a discriminatory effect on services or activities provided from another Member State.
+**2.** A competent authority shall only take a measure pursuant to paragraph 1 if it is satisfied on reasonable grounds that:(a) a crypto-asset gives rise to significant investor protection concerns or poses a threat to the orderly functioning and integrity of markets in crypto-assets or to the stability of the whole or part of the financial system within at least one Member State;(b) existing regulatory requirements under Union law applicable to the crypto-asset or crypto-asset service concerned do not sufficiently address the risks referred to in point (a) and the issue would not be better addressed by improved supervision or enforcement of existing requirements;(c) the measure is proportionate, taking into account the nature of the risks identified, the level of sophistication of investors or market participants concerned and the likely effect of the measure on investors and market participants who may hold, use or benefit from the crypto-asset or crypto-asset service concerned;(d) the competent authority has properly consulted the competent authorities in other Member States that might be significantly affected by the measure; and(e) the measure does not have a discriminatory effect on services or activities provided from another Member State.
 
 Where the conditions set out in the first subparagraph of this paragraph are fulfilled, the competent authority may impose the prohibition or restriction referred to in paragraph 1 on a precautionary basis before a crypto-asset has been marketed, distributed or sold to clients.
 
 The competent authority may decide to apply the prohibition or restriction referred to in paragraph 1 only in certain circumstances or to make it subject to exceptions.
 
-**3.** The competent authority shall not impose a prohibition or restriction under this Article unless, not less than one month before the measure is intended to take effect, it has notified all other competent authorities and ESMA, or EBA for asset-referenced tokens and e-money tokens, in writing or through another medium agreed between the authorities, the following details:
-
-(a) the crypto-asset or activity or practice to which the proposed measure relates;
-
-(b) the precise nature of the proposed prohibition or restriction and when it is intended to take effect; and
-
-(c) the evidence upon which it has based its decision and upon which it is satisfied that each of the conditions in paragraph 2, first subparagraph, are met.
+**3.** The competent authority shall not impose a prohibition or restriction under this Article unless, not less than one month before the measure is intended to take effect, it has notified all other competent authorities and ESMA, or EBA for asset-referenced tokens and e-money tokens, in writing or through another medium agreed between the authorities, the following details:(a) the crypto-asset or activity or practice to which the proposed measure relates;(b) the precise nature of the proposed prohibition or restriction and when it is intended to take effect; and(c) the evidence upon which it has based its decision and upon which it is satisfied that each of the conditions in paragraph 2, first subparagraph, are met.
 
 **4.** In exceptional cases where the competent authority considers it necessary in order to prevent any detrimental effects arising from the crypto-asset or activity or practice referred to in paragraph 1, the competent authority may take an urgent measure on a provisional basis with no less than 24 hours’ written notice before the measure is intended to take effect to all other competent authorities and ESMA, provided that all of the criteria listed in this Article are met and, in addition, that it is clearly established that a one-month notification period would not adequately address the specific concern or threat. The duration of measures taken on a provisional basis shall not exceed three months.
 
@@ -3370,21 +2200,11 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 **2.** Information on the complaints-handling procedures referred to in paragraph 1 of this Article shall be made available on the website of each competent authority and communicated to EBA and ESMA. ESMA shall publish hyperlinks to the sections of the websites of the competent authorities related to complaints-handling procedures in its crypto-asset register referred to in Article 109.
 
-### CHAPTER 2 — ESMA register
-
 <a id="art_109"></a>
 
 ### Article 109 — Register of crypto-asset white papers, of issuers of asset-referenced tokens and e-money tokens, and of crypto-asset service providers
 
-**1.** ESMA shall establish a register of:
-
-(a) crypto-asset white papers for crypto-assets other than asset-referenced tokens and e-money tokens;
-
-(b) issuers of asset-referenced tokens;
-
-(c) issuers of e-money tokens; and
-
-(d) crypto-asset service providers.
+**1.** ESMA shall establish a register of:(a) crypto-asset white papers for crypto-assets other than asset-referenced tokens and e-money tokens;(b) issuers of asset-referenced tokens;(c) issuers of e-money tokens; and(d) crypto-asset service providers.
 
 ESMA’s register shall be publicly available on its website and shall be updated on a regular basis. In order to facilitate such updating, the competent authorities shall communicate to ESMA any changes notified to them regarding the information specified in paragraphs 2 to 5.
 
@@ -3392,53 +2212,11 @@ The competent authorities shall provide ESMA with the data necessary for the cla
 
 **2.** As regards crypto-asset white papers for crypto-assets other than asset-referenced tokens or e-money tokens, the register shall contain the crypto-asset white papers and any modified crypto-asset white papers. Any out-of-date versions of the crypto-asset white papers shall be kept in a separate archive and be clearly marked as out-of-date versions.
 
-**3.** As regards issuers of asset-referenced tokens, the register shall contain the following information:
+**3.** As regards issuers of asset-referenced tokens, the register shall contain the following information:(a) the name, legal form and legal entity identifier of the issuer;(b) the commercial name, physical address, telephone number, email and website of the issuer;(c) the crypto-asset white papers and any modified crypto-asset white papers, with the out-of-date versions of the crypto-asset white paper kept in a separate archive and clearly marked as out-of-date;(d) the list of host Member States where the applicant issuer intends to offer an asset-referenced token to the public or intends to seek admission to trading of the asset-referenced tokens;(e) the starting date, or, if not available at the time of the notification by the competent authority, the intended starting date, of the offer to the public or the admission to trading;(f) any other services provided by the issuer not covered by this Regulation, with a reference to the applicable Union or national law;(g) the date of authorisation to offer to the public or seek the admission to trading of an asset-referenced token or of authorisation as a credit institution and, where applicable, of withdrawal of either authorisation.
 
-(a) the name, legal form and legal entity identifier of the issuer;
+**4.** As regards issuers of e-money tokens, the register shall contain the following information:(a) the name, legal form and legal entity identifier of the issuer;(b) the commercial name, physical address, telephone number, email and website of the issuer;(c) the crypto-asset white papers and any modified crypto-asset white papers, with the out-of-date versions of the crypto-asset white paper kept in a separate archive and clearly marked as out-of-date;(d) the starting date, or, if not available at the time of the notification by the competent authority, the intended starting date, of the offer to the public or the admission to trading;(e) any other services provided by the issuer not covered by this Regulation, with a reference to the applicable Union or national law;(f) the date of authorisation as a credit institution or as an electronic money institution and, where applicable, of withdrawal of that authorisation.
 
-(b) the commercial name, physical address, telephone number, email and website of the issuer;
-
-(c) the crypto-asset white papers and any modified crypto-asset white papers, with the out-of-date versions of the crypto-asset white paper kept in a separate archive and clearly marked as out-of-date;
-
-(d) the list of host Member States where the applicant issuer intends to offer an asset-referenced token to the public or intends to seek admission to trading of the asset-referenced tokens;
-
-(e) the starting date, or, if not available at the time of the notification by the competent authority, the intended starting date, of the offer to the public or the admission to trading;
-
-(f) any other services provided by the issuer not covered by this Regulation, with a reference to the applicable Union or national law;
-
-(g) the date of authorisation to offer to the public or seek the admission to trading of an asset-referenced token or of authorisation as a credit institution and, where applicable, of withdrawal of either authorisation.
-
-**4.** As regards issuers of e-money tokens, the register shall contain the following information:
-
-(a) the name, legal form and legal entity identifier of the issuer;
-
-(b) the commercial name, physical address, telephone number, email and website of the issuer;
-
-(c) the crypto-asset white papers and any modified crypto-asset white papers, with the out-of-date versions of the crypto-asset white paper kept in a separate archive and clearly marked as out-of-date;
-
-(d) the starting date, or, if not available at the time of the notification by the competent authority, the intended starting date, of the offer to the public or the admission to trading;
-
-(e) any other services provided by the issuer not covered by this Regulation, with a reference to the applicable Union or national law;
-
-(f) the date of authorisation as a credit institution or as an electronic money institution and, where applicable, of withdrawal of that authorisation.
-
-**5.** As regards crypto-asset service providers, the register shall contain the following information:
-
-(a) the name, legal form and legal entity identifier of the crypto-asset service provider and, where applicable, of the branches of the crypto-asset service provider;
-
-(b) the commercial name, physical address, telephone number, email and website of the crypto-asset service provider and, where applicable, of the trading platform for crypto-assets operated by the crypto-asset service provider;
-
-(c) the name and address of the competent authority that granted authorisation and its contact details;
-
-(d) the list of crypto-asset services provided by the crypto-asset service provider;
-
-(e) the list of host Member States in which the crypto-asset service provider intends to provide crypto-asset services;
-
-(f) the starting date, or, if not available at the time of the notification by the competent authority, the intended starting date, of the provision of crypto-asset services;
-
-(g) any other services provided by the crypto-asset service provider not covered by this Regulation with a reference to the applicable Union or national law;
-
-(h) the date of authorisation and, where applicable, of the withdrawal of an authorisation.
+**5.** As regards crypto-asset service providers, the register shall contain the following information:(a) the name, legal form and legal entity identifier of the crypto-asset service provider and, where applicable, of the branches of the crypto-asset service provider;(b) the commercial name, physical address, telephone number, email and website of the crypto-asset service provider and, where applicable, of the trading platform for crypto-assets operated by the crypto-asset service provider;(c) the name and address of the competent authority that granted authorisation and its contact details;(d) the list of crypto-asset services provided by the crypto-asset service provider;(e) the list of host Member States in which the crypto-asset service provider intends to provide crypto-asset services;(f) the starting date, or, if not available at the time of the notification by the competent authority, the intended starting date, of the provision of crypto-asset services;(g) any other services provided by the crypto-asset service provider not covered by this Regulation with a reference to the applicable Union or national law;(h) the date of authorisation and, where applicable, of the withdrawal of an authorisation.
 
 **6.** Competent authorities shall notify ESMA without delay of the measures listed in Article 94(1), first subparagraph, point (b), (c), (f), (l), (m), (n), (o) or (t), and of any public precautionary measures taken pursuant to Article 102 affecting the provision of crypto-asset services or the issuance, offer to the public or use of crypto-assets. ESMA shall include such information in the register.
 
@@ -3468,7 +2246,7 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 ### Article 110a — Accessibility of information on the European single access point
 
-**1.** From 10 January 2030, when making public any information referred to in Article 88(1) of this Regulation, the issuer, offeror or person seeking admission to trading shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council.
+**1.** From 10 January 2030, when making public any information referred to in Article 88(1) of this Regulation, the issuer, offeror or person seeking admission to trading shall submit that information at the same time to the relevant collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council (20).
 
 That information shall comply with the following requirements:
 
@@ -3488,13 +2266,7 @@ That information shall comply with the following requirements:
 
 (b) be accompanied by the following metadata: (i) all the names of the issuer of asset-referenced tokens, issuer of e-money tokens and crypto-asset service provider to which the information relates; (ii) where available, the legal entity identifier of the issuer of asset-referenced tokens, issuer of e-money tokens and crypto-asset service provider, as specified pursuant to Article 7(4), point (b), of that Regulation; (iii) the type of information, as classified pursuant to Article 7(4), point (c), of that Regulation; (iv) an indication of whether the information contains personal data.
 
-**5.** For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, ESMA shall develop draft implementing technical standards to specify:
-
-(a) any other metadata to accompany the information;
-
-(b) the structuring of data in the information;
-
-(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.
+**5.** For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, ESMA shall develop draft implementing technical standards to specify:(a) any other metadata to accompany the information;(b) the structuring of data in the information;(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.
 
 For the purposes of point (c), ESMA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests.
 
@@ -3504,75 +2276,25 @@ Power is conferred on the Commission to adopt the implementing technical standar
 
 **6.** Where necessary, ESMA shall adopt guidelines for entities to ensure that the metadata submitted in accordance with paragraph 5, first subparagraph, point (a), are correct.
 
-### CHAPTER 3 — Administrative penalties and other administrative measures by competent authorities
-
 <a id="art_111"></a>
 
 ### Article 111 — Administrative penalties and other administrative measures
 
-**1.** Without prejudice to any criminal penalties and without prejudice to the supervisory and investigative powers of competent authorities listed in Article 94, Member States shall, in accordance with national law, provide for competent authorities to have the power to take appropriate administrative penalties and other administrative measures in relation to at least the following infringements:
-
-(a) infringements of Articles 4 to 14;
-
-(b) infringements of Articles 16, 17, 19, 22, 23, 25, Articles 27 to 41, Articles 46 and 47;
-
-(c) infringements of Articles 48 to 51, Articles 53, 54 and 55;
-
-(d) infringements of Articles 59, 60, 64 and Articles 65 to 83;
-
-(e) infringements of Articles 88 to 92;
-
-(f) failure to cooperate or to comply with an investigation, with an inspection or with a request as referred to in Article 94(3).
+**1.** Without prejudice to any criminal penalties and without prejudice to the supervisory and investigative powers of competent authorities listed in Article 94, Member States shall, in accordance with national law, provide for competent authorities to have the power to take appropriate administrative penalties and other administrative measures in relation to at least the following infringements:(a) infringements of Articles 4 to 14;(b) infringements of Articles 16, 17, 19, 22, 23, 25, Articles 27 to 41, Articles 46 and 47;(c) infringements of Articles 48 to 51, Articles 53, 54 and 55;(d) infringements of Articles 59, 60, 64 and Articles 65 to 83;(e) infringements of Articles 88 to 92;(f) failure to cooperate or to comply with an investigation, with an inspection or with a request as referred to in Article 94(3).
 
 Member States may decide not to lay down rules for administrative penalties where the infringements referred to in the first subparagraph, point (a), (b), (c), (d) or (e), are already subject to criminal penalties in their national law by 30 June 2024. Where they so decide, Member States shall notify to the Commission, ESMA and to EBA, in detail, the relevant parts of their criminal law.
 
 By 30 June 2025, Member States shall notify to the Commission, EBA and ESMA, in detail, the rules referred to in the first and second subparagraphs. They shall also notify the Commission, ESMA and EBA without delay of any subsequent amendment thereto.
 
-**2.** Member States shall, in accordance with their national law, ensure that competent authorities have the power to impose at least the following administrative penalties and other administrative measures in relation to the infringements referred to in paragraph 1, first subparagraph, points (a) to (d):
+**2.** Member States shall, in accordance with their national law, ensure that competent authorities have the power to impose at least the following administrative penalties and other administrative measures in relation to the infringements referred to in paragraph 1, first subparagraph, points (a) to (d):(a) a public statement indicating the natural or legal person responsible and the nature of the infringement;(b) an order requiring the natural or legal person responsible to cease the conduct constituting the infringement and to desist from a repetition of that conduct;(c) maximum administrative fines of at least twice the amount of the profits gained or losses avoided because of the infringement where those can be determined, even if it exceeds the maximum amounts set out in point (d) of this paragraph, as regards natural persons, or in paragraph 3 as regards legal persons;(d) in the case of a natural person, maximum administrative fines of at least EUR 700 000 , or, in the Member States whose official currency is not the euro, the corresponding value in the official currency on 29 June 2023.
 
-(a) a public statement indicating the natural or legal person responsible and the nature of the infringement;
-
-(b) an order requiring the natural or legal person responsible to cease the conduct constituting the infringement and to desist from a repetition of that conduct;
-
-(c) maximum administrative fines of at least twice the amount of the profits gained or losses avoided because of the infringement where those can be determined, even if it exceeds the maximum amounts set out in point (d) of this paragraph, as regards natural persons, or in paragraph 3 as regards legal persons;
-
-(d) in the case of a natural person, maximum administrative fines of at least EUR 700000, or, in the Member States whose official currency is not the euro, the corresponding value in the official currency on 29 June 2023.
-
-**3.** Member States shall, in accordance with their national law, ensure that competent authorities have the power to impose, in relation to infringements committed by legal persons, maximum administrative fines of at least:
-
-(a) EUR 5000000, or, in the Member States whose official currency is not the euro, the corresponding value in the official currency on 29 June 2023, for the infringements referred to in paragraph 1, first subparagraph, points (a) to (d);
-
-(b) 3 % of the total annual turnover of the legal person according to the last available financial statements approved by the management body, for the infringements referred to in paragraph 1, first subparagraph, point (a);
-
-(c) 5 % of the total annual turnover of the legal person according to the last available financial statements approved by the management body, for the infringements referred to in paragraph 1, first subparagraph, point (d);
-
-(d) 12,5 % of the total annual turnover of the legal person according to the last available financial statements approved by the management body, for the infringements referred to in paragraph 1, first subparagraph, points (b) and (c).
+**3.** Member States shall, in accordance with their national law, ensure that competent authorities have the power to impose, in relation to infringements committed by legal persons, maximum administrative fines of at least:(a) EUR 5 000 000 , or, in the Member States whose official currency is not the euro, the corresponding value in the official currency on 29 June 2023, for the infringements referred to in paragraph 1, first subparagraph, points (a) to (d);(b) 3 % of the total annual turnover of the legal person according to the last available financial statements approved by the management body, for the infringements referred to in paragraph 1, first subparagraph, point (a);(c) 5 % of the total annual turnover of the legal person according to the last available financial statements approved by the management body, for the infringements referred to in paragraph 1, first subparagraph, point (d);(d) 12,5 % of the total annual turnover of the legal person according to the last available financial statements approved by the management body, for the infringements referred to in paragraph 1, first subparagraph, points (b) and (c).
 
 Where the legal person referred to in the first subparagraph, points (a) to (d), is a parent undertaking or a subsidiary of a parent undertaking which is required to prepare consolidated financial statements in accordance with Directive 2013/34/EU, the relevant total annual turnover shall be the total annual turnover or the corresponding type of income in accordance with applicable Union law in the field of accounting according to the last available consolidated accounts approved by the management body of the ultimate parent undertaking.
 
 **4.** In addition to the administrative penalties and other administrative measures as well as administrative fines referred to in paragraphs 2 and 3, Member States shall, in accordance with their national law, ensure that competent authorities have the power to impose, in the event of infringements referred to in paragraph 1, first subparagraph, point (d), a temporary ban preventing any member of the management body of the crypto-asset service provider, or any other natural person who is held responsible for the infringement, from exercising management functions in a crypto-asset service provider.
 
-**5.** Member States shall, in accordance with their national law, ensure that, in the event of the infringements referred to in paragraph 1, first subparagraph, point (e), competent authorities have the power to impose at least the following administrative penalties and to take at least the following administrative measures:
-
-(a) a public statement indicating the natural or legal person responsible and the nature of the infringement;
-
-(b) an order requiring the natural or legal person responsible to cease the conduct constituting the infringement and to desist from a repetition of that conduct;
-
-(c) the disgorgement of the profits gained or losses avoided due to the infringement insofar as they can be determined;
-
-(d) withdrawal or suspension of the authorisation of a crypto-asset service provider;
-
-(e) a temporary ban of any member of the management body of the crypto-asset service provider, or any other natural person who is held responsible for the infringement, from exercising management functions in crypto-asset service providers;
-
-(f) in the event of a repeated infringement of Article 89, 90, 91 or 92, a ban of at least 10 years for any member of the management body of a crypto-asset service provider, or any other natural person who is held responsible for the infringement, from exercising management functions in a crypto-asset service provider;
-
-(g) a temporary ban of any member of the management body of a crypto-asset service provider or any other natural person who is held responsible for the infringement, from dealing on own account;
-
-(h) maximum administrative fines of at least three times the amount of the profits gained or losses avoided because of the infringement, where those can be determined, even if it exceeds the maximum amounts set out in point (i) or (j), as applicable;
-
-(i) in respect of a natural person, maximum administrative fines of at least EUR 1000000 for infringements of Article 88 and EUR 5000000 for infringements of Articles 89 to 92 or in the Member States whose official currency is not the euro, the corresponding value in the official currency on 29 June 2023;
-
-(j) in respect of legal persons, maximum administrative fines of at least EUR 2500000 for infringements of Article 88 and EUR 15000000 for infringements of Articles 89 to 92, or 2 % for infringements of Article 88 and 15 % for infringements of Articles 89 to 92 of the total annual turnover of the legal person according to the last available accounts approved by the management body, or in the Member States whose official currency is not the euro, the corresponding value in the official currency on 29 June 2023.
+**5.** Member States shall, in accordance with their national law, ensure that, in the event of the infringements referred to in paragraph 1, first subparagraph, point (e), competent authorities have the power to impose at least the following administrative penalties and to take at least the following administrative measures:(a) a public statement indicating the natural or legal person responsible and the nature of the infringement;(b) an order requiring the natural or legal person responsible to cease the conduct constituting the infringement and to desist from a repetition of that conduct;(c) the disgorgement of the profits gained or losses avoided due to the infringement insofar as they can be determined;(d) withdrawal or suspension of the authorisation of a crypto-asset service provider;(e) a temporary ban of any member of the management body of the crypto-asset service provider, or any other natural person who is held responsible for the infringement, from exercising management functions in crypto-asset service providers;(f) in the event of a repeated infringement of Article 89, 90, 91 or 92, a ban of at least 10 years for any member of the management body of a crypto-asset service provider, or any other natural person who is held responsible for the infringement, from exercising management functions in a crypto-asset service provider;(g) a temporary ban of any member of the management body of a crypto-asset service provider or any other natural person who is held responsible for the infringement, from dealing on own account;(h) maximum administrative fines of at least three times the amount of the profits gained or losses avoided because of the infringement, where those can be determined, even if it exceeds the maximum amounts set out in point (i) or (j), as applicable;(i) in respect of a natural person, maximum administrative fines of at least EUR 1 000 000 for infringements of Article 88 and EUR 5 000 000 for infringements of Articles 89 to 92 or in the Member States whose official currency is not the euro, the corresponding value in the official currency on 29 June 2023;(j) in respect of legal persons, maximum administrative fines of at least EUR 2 500 000 for infringements of Article 88 and EUR 15 000 000 for infringements of Articles 89 to 92, or 2 % for infringements of Article 88 and 15 % for infringements of Articles 89 to 92 of the total annual turnover of the legal person according to the last available accounts approved by the management body, or in the Member States whose official currency is not the euro, the corresponding value in the official currency on 29 June 2023.
 
 For the purpose of point (j) of the first subparagraph, where the legal person is a parent undertaking or a subsidiary of a parent undertaking which is required to prepare consolidated financial statements in accordance with Directive 2013/34/EU, the relevant total annual turnover shall be the total annual turnover or the corresponding type of income in accordance with applicable Union law in the field of accounting according to the last available consolidated accounts approved by the management body of the ultimate parent undertaking.
 
@@ -3582,27 +2304,7 @@ For the purpose of point (j) of the first subparagraph, where the legal person i
 
 ### Article 112 — Exercise of supervisory powers and powers to impose penalties
 
-**1.** Competent authorities, when determining the type and level of an administrative penalty or other administrative measure to be imposed in accordance with Article 111, shall take into account all relevant circumstances, including, where appropriate:
-
-(a) the gravity and the duration of the infringement;
-
-(b) whether the infringement has been committed intentionally or negligently;
-
-(c) the degree of responsibility of the natural or legal person responsible for the infringement;
-
-(d) the financial strength of the natural or legal person responsible for the infringement, as indicated by the total turnover of the responsible legal person or the annual income and net assets of the responsible natural person;
-
-(e) the importance of the profits gained or losses avoided by the natural or legal person responsible for the infringement, insofar as those can be determined;
-
-(f) the losses for third parties caused by the infringement, insofar as those can be determined;
-
-(g) the level of cooperation of the natural or legal person responsible for the infringement with the competent authority, without prejudice to the need to ensure disgorgement of profits gained or losses avoided by that person;
-
-(h) previous infringements of this Regulation by the natural or legal person responsible for the infringement;
-
-(i) measures taken by the person responsible for the infringement to prevent its repetition;
-
-(j) the impact of the infringement on the interests of holders of crypto-assets and clients of crypto-asset service providers, in particular retail holders.
+**1.** Competent authorities, when determining the type and level of an administrative penalty or other administrative measure to be imposed in accordance with Article 111, shall take into account all relevant circumstances, including, where appropriate:(a) the gravity and the duration of the infringement;(b) whether the infringement has been committed intentionally or negligently;(c) the degree of responsibility of the natural or legal person responsible for the infringement;(d) the financial strength of the natural or legal person responsible for the infringement, as indicated by the total turnover of the responsible legal person or the annual income and net assets of the responsible natural person;(e) the importance of the profits gained or losses avoided by the natural or legal person responsible for the infringement, insofar as those can be determined;(f) the losses for third parties caused by the infringement, insofar as those can be determined;(g) the level of cooperation of the natural or legal person responsible for the infringement with the competent authority, without prejudice to the need to ensure disgorgement of profits gained or losses avoided by that person;(h) previous infringements of this Regulation by the natural or legal person responsible for the infringement;(i) measures taken by the person responsible for the infringement to prevent its repetition;(j) the impact of the infringement on the interests of holders of crypto-assets and clients of crypto-asset service providers, in particular retail holders.
 
 **2.** In the exercise of their powers to impose administrative penalties and other administrative measures under Article 111, competent authorities shall cooperate closely to ensure that the exercise of their supervisory and investigative powers, and the administrative penalties and other administrative measures that they impose, are effective and appropriate. They shall coordinate their action in order to avoid duplication and overlaps when exercising their supervisory and investigative powers and when imposing administrative penalties and other administrative measures in cross-border cases.
 
@@ -3612,13 +2314,7 @@ For the purpose of point (j) of the first subparagraph, where the legal person i
 
 **1.** Member States shall ensure that decisions taken by competent authorities under this Regulation are properly reasoned and subject to the right of appeal before a court. The right of appeal before a court shall also apply where, in respect of an application for authorisation which provides all of the required information, no decision is taken within six months of its submission.
 
-**2.** Member States shall provide that one or more of the following bodies, as determined by national law, may, in the interests of consumers and in accordance with national law, take action before the courts or competent administrative bodies to ensure that this Regulation is applied:
-
-(a) public bodies or their representatives;
-
-(b) consumer organisations having a legitimate interest in protecting holders of crypto-assets;
-
-(c) professional organisations having a legitimate interest in protecting their members.
+**2.** Member States shall provide that one or more of the following bodies, as determined by national law, may, in the interests of consumers and in accordance with national law, take action before the courts or competent administrative bodies to ensure that this Regulation is applied:(a) public bodies or their representatives;(b) consumer organisations having a legitimate interest in protecting holders of crypto-assets;(c) professional organisations having a legitimate interest in protecting their members.
 
 <a id="art_114"></a>
 
@@ -3626,13 +2322,7 @@ For the purpose of point (j) of the first subparagraph, where the legal person i
 
 **1.** A decision imposing administrative penalties and other administrative measures for an infringement of this Regulation in accordance with Article 111 shall be published by competent authorities on their official websites without undue delay after the natural or legal person subject to that decision has been informed of that decision. The publication shall include at least information on the type and nature of the infringement and the identity of the natural or legal persons responsible. Decisions imposing measures that are of an investigatory nature need not be published.
 
-**2.** Where the publication of the identity of the legal entities, or the identity or personal data of natural persons, is considered by the competent authority to be disproportionate following a case-by-case assessment conducted on the proportionality of the publication of such data, or where such publication would jeopardise an ongoing investigation, competent authorities shall take one of the following actions:
-
-(a) defer the publication of the decision to impose an administrative penalty or other administrative measure until the moment where the reasons for non-publication cease to exist;
-
-(b) publish the decision to impose an administrative penalty or other administrative measure on an anonymous basis in a manner which is in conformity with national law, where such anonymous publication ensures the effective protection of the personal data concerned;
-
-(c) not publish the decision to impose an administrative penalty or other administrative measure in the event that the options provided for in points (a) and (b) are considered insufficient to ensure: (i) that the stability of financial markets is not jeopardised; (ii) the proportionality of the publication of such a decision with regard to measures which are deemed to be of a minor nature.
+**2.** Where the publication of the identity of the legal entities, or the identity or personal data of natural persons, is considered by the competent authority to be disproportionate following a case-by-case assessment conducted on the proportionality of the publication of such data, or where such publication would jeopardise an ongoing investigation, competent authorities shall take one of the following actions:(a) defer the publication of the decision to impose an administrative penalty or other administrative measure until the moment where the reasons for non-publication cease to exist;(b) publish the decision to impose an administrative penalty or other administrative measure on an anonymous basis in a manner which is in conformity with national law, where such anonymous publication ensures the effective protection of the personal data concerned;(c) not publish the decision to impose an administrative penalty or other administrative measure in the event that the options provided for in points (a) and (b) are considered insufficient to ensure:(i) that the stability of financial markets is not jeopardised;(ii) the proportionality of the publication of such a decision with regard to measures which are deemed to be of a minor nature.
 
 In the case of a decision to publish an administrative penalty or other administrative measure on an anonymous basis, as referred to in the first subparagraph, point (b), the publication of the relevant data may be deferred for a reasonable period where it is foreseen that within that period the reasons for anonymous publication will cease to exist.
 
@@ -3658,8 +2348,6 @@ Where Member States have, in accordance with Article 111(1), second subparagraph
 
 Directive (EU) 2019/1937 shall apply to the reporting of infringements of this Regulation and the protection of persons reporting such infringements.
 
-### CHAPTER 4 — Supervisory responsibilities of EBA with respect to issuers of significant asset-referenced tokens and significant e-money tokens and colleges of supervisors
-
 <a id="art_117"></a>
 
 ### Article 117 — Supervisory responsibilities of EBA with respect to issuers of significant asset-referenced tokens and issuers of significant e-money tokens
@@ -3676,13 +2364,7 @@ Without prejudice to the powers of national competent authorities under paragrap
 
 For the purposes of the supervision of compliance with Articles 55 and 58, EBA shall exercise the powers of the competent authorities conferred on them by Articles 22 and 23, Article 24(3), Article 35(3) and (5), Article 36(10) and Articles 46 and 47, as regards electronic money institutions issuing significant e-money tokens.
 
-**5.** EBA shall exercise its supervisory powers as provided in paragraphs 1 to 4 in close cooperation with the other competent authorities responsible for supervising the issuer, in particular:
-
-(a) the prudential supervisory authority, including, where applicable, the ECB under Regulation (EU) No 1024/2013;
-
-(b) relevant competent authorities under national law transposing Directive 2009/110/EC, where applicable;
-
-(c) the competent authorities referred to in Article 20(1).
+**5.** EBA shall exercise its supervisory powers as provided in paragraphs 1 to 4 in close cooperation with the other competent authorities responsible for supervising the issuer, in particular:(a) the prudential supervisory authority, including, where applicable, the ECB under Regulation (EU) No 1024/2013;(b) relevant competent authorities under national law transposing Directive 2009/110/EC, where applicable;(c) the competent authorities referred to in Article 20(1).
 
 <a id="art_118"></a>
 
@@ -3700,45 +2382,13 @@ For the purposes of the supervision of compliance with Articles 55 and 58, EBA s
 
 **1.** Within 30 calendar days of a decision to classify an asset-referenced token or e-money token as significant pursuant to Article 43, 44, 56 or 57, as applicable, EBA shall establish, manage and chair a consultative supervisory college for each issuer of a significant asset-referenced token or of a significant e-money token, to facilitate the exercise of supervisory tasks and act as a vehicle for the coordination of supervisory activities under this Regulation.
 
-**2.** A college referred to in paragraph 1 shall consist of:
-
-(a) EBA;
-
-(b) ESMA;
-
-(c) the competent authorities of the home Member State where the issuer of the significant asset-referenced token or of the significant e-money token is established;
-
-(d) the competent authorities of the most relevant crypto-asset service providers, credit institutions or investment firms ensuring the custody of the reserve assets in accordance with Article 37 or of the funds received in exchange of the significant e-money tokens;
-
-(e) where applicable, the competent authorities of the most relevant trading platforms for crypto-assets where the significant asset-referenced tokens or the significant e-money tokens are admitted to trading;
-
-(f) the competent authorities of the most relevant payment service providers providing payment services in relation to the significant e-money tokens;
-
-(g) where applicable, the competent authorities of the entities ensuring the functions as referred to in Article 34(5), first subparagraph, point (h);
-
-(h) where applicable, the competent authorities of the most relevant crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients in relation to the significant asset-referenced tokens or with the significant e-money tokens;
-
-(i) the ECB;
-
-(j) where the issuer of the significant asset-referenced token is established in a Member State whose official currency is not the euro, or where an official currency that is not the euro is referenced by the significant asset-referenced token, the central bank of that Member State;
-
-(k) where the issuer of the significant e-money token is established in a Member State whose official currency is not the euro, or where an official currency that is not the euro is referenced by the significant e-money token, the central bank of that Member State;
-
-(l) competent authorities of Member States where the asset-referenced token or the e-money token is used at large scale, at their request;
-
-(m) relevant supervisory authorities of third countries with which EBA has concluded administrative agreements in accordance with Article 126.
+**2.** A college referred to in paragraph 1 shall consist of:(a) EBA;(b) ESMA;(c) the competent authorities of the home Member State where the issuer of the significant asset-referenced token or of the significant e-money token is established;(d) the competent authorities of the most relevant crypto-asset service providers, credit institutions or investment firms ensuring the custody of the reserve assets in accordance with Article 37 or of the funds received in exchange of the significant e-money tokens;(e) where applicable, the competent authorities of the most relevant trading platforms for crypto-assets where the significant asset-referenced tokens or the significant e-money tokens are admitted to trading;(f) the competent authorities of the most relevant payment service providers providing payment services in relation to the significant e-money tokens;(g) where applicable, the competent authorities of the entities ensuring the functions as referred to in Article 34(5), first subparagraph, point (h);(h) where applicable, the competent authorities of the most relevant crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients in relation to the significant asset-referenced tokens or with the significant e-money tokens;(i) the ECB;(j) where the issuer of the significant asset-referenced token is established in a Member State whose official currency is not the euro, or where an official currency that is not the euro is referenced by the significant asset-referenced token, the central bank of that Member State;(k) where the issuer of the significant e-money token is established in a Member State whose official currency is not the euro, or where an official currency that is not the euro is referenced by the significant e-money token, the central bank of that Member State;(l) competent authorities of Member States where the asset-referenced token or the e-money token is used at large scale, at their request;(m) relevant supervisory authorities of third countries with which EBA has concluded administrative agreements in accordance with Article 126.
 
 **3.** EBA may invite other authorities to be members of the college referred to in paragraph 1 where the entities they supervise are relevant to the work of the college.
 
 **4.** The competent authority of a Member State which is not a member of the college may request from the college any information relevant for the performance of its supervisory duties under this Regulation.
 
-**5.** A college referred to in paragraph 1 of this Article shall, without prejudice to the responsibilities of competent authorities under this Regulation, ensure:
-
-(a) the preparation of the non-binding opinion referred to in Article 120;
-
-(b) the exchange of information in accordance with this Regulation;
-
-(c) agreement on the voluntary entrustment of tasks among its members.
+**5.** A college referred to in paragraph 1 of this Article shall, without prejudice to the responsibilities of competent authorities under this Regulation, ensure:(a) the preparation of the non-binding opinion referred to in Article 120;(b) the exchange of information in accordance with this Regulation;(c) agreement on the voluntary entrustment of tasks among its members.
 
 In order to facilitate the performance of the tasks assigned to colleges pursuant to the first subparagraph of this paragraph, the members of the college referred to in paragraph 2 shall be entitled to contribute to the setting of the agenda of the college meetings, in particular by adding points to the agenda of a meeting.
 
@@ -3760,25 +2410,9 @@ The agreement referred to in the first subparagraph shall determine the practica
 
 The agreement may also determine tasks to be entrusted to EBA or another member of the college.
 
-**7.** As chair of each college, EBA shall:
+**7.** As chair of each college, EBA shall:(a) establish written arrangements and procedures for the functioning of the college, after consulting the other members of the college;(b) coordinate all activities of the college;(c) convene and chair all its meetings and keep the members of the college fully informed in advance of the organisation of meetings of the college, of the main issues to be discussed and of the items to be considered;(d) notify the members of the college of any planned meetings so that they can request to participate;(e) keep the members of the college informed, in a timely manner, of the decisions and outcomes of those meetings.
 
-(a) establish written arrangements and procedures for the functioning of the college, after consulting the other members of the college;
-
-(b) coordinate all activities of the college;
-
-(c) convene and chair all its meetings and keep the members of the college fully informed in advance of the organisation of meetings of the college, of the main issues to be discussed and of the items to be considered;
-
-(d) notify the members of the college of any planned meetings so that they can request to participate;
-
-(e) keep the members of the college informed, in a timely manner, of the decisions and outcomes of those meetings.
-
-**8.** In order to ensure the consistent and coherent functioning of colleges, EBA, in cooperation with ESMA and the ECB, shall develop draft regulatory standards specifying:
-
-(a) the conditions under which the entities referred to in paragraph 2, points (d), (e), (f) and (h), are to be considered the most relevant;
-
-(b) the conditions under which it is considered that asset-referenced tokens or e-money tokens are used at large scale, as referred to in paragraph 2, point (l); and
-
-(c) the details of the practical arrangements referred to in paragraph 6.
+**8.** In order to ensure the consistent and coherent functioning of colleges, EBA, in cooperation with ESMA and the ECB, shall develop draft regulatory standards specifying:(a) the conditions under which the entities referred to in paragraph 2, points (d), (e), (f) and (h), are to be considered the most relevant;(b) the conditions under which it is considered that asset-referenced tokens or e-money tokens are used at large scale, as referred to in paragraph 2, point (l); and(c) the details of the practical arrangements referred to in paragraph 6.
 
 EBA shall submit the draft regulatory standards referred to in the first subparagraph to the Commission by 30 June 2024.
 
@@ -3788,29 +2422,7 @@ Power is delegated to the Commission to supplement this Regulation by adopting t
 
 ### Article 120 — Non-binding opinions of the colleges for issuers of significant asset-referenced tokens and significant e-money tokens
 
-**1.** A college referred to in Article 119(1) may issue a non-binding opinion on the following:
-
-(a) the supervisory reassessment as referred to in Article 117(3);
-
-(b) any decision to require an issuer of a significant asset-referenced token or a significant e-money token to hold a higher amount of own funds in accordance with Article 35(2), (3) and (5), Article 45(5) and Article 58(1), as applicable;
-
-(c) any update of the recovery plan or redemption plan of an issuer of a significant asset-referenced token or an issuer of a significant e-money token pursuant to Articles 46, 47 and 55, as applicable;
-
-(d) any change of the business model of an issuer of a significant asset-referenced token pursuant to Article 25(1);
-
-(e) a draft modified crypto-asset white paper drawn up in accordance with Article 25(2);
-
-(f) any envisaged appropriate corrective measures pursuant to Article 25(4);
-
-(g) any envisaged supervisory measures pursuant to Article 130;
-
-(h) any envisaged administrative agreement on the exchange of information with a supervisory authority of a third-country in accordance with Article 126;
-
-(i) any delegation of supervisory tasks from EBA to a competent authority pursuant to Article 138;
-
-(j) any envisaged change in the authorisation of, or any envisaged supervisory measure on, the members of the college referred to in Article 119(2), points (d) to (h);
-
-(k) a draft modified crypto-asset white paper drawn up in accordance with Article 51(12).
+**1.** A college referred to in Article 119(1) may issue a non-binding opinion on the following:(a) the supervisory reassessment as referred to in Article 117(3);(b) any decision to require an issuer of a significant asset-referenced token or a significant e-money token to hold a higher amount of own funds in accordance with Article 35(2), (3) and (5), Article 45(5) and Article 58(1), as applicable;(c) any update of the recovery plan or redemption plan of an issuer of a significant asset-referenced token or an issuer of a significant e-money token pursuant to Articles 46, 47 and 55, as applicable;(d) any change of the business model of an issuer of a significant asset-referenced token pursuant to Article 25(1);(e) a draft modified crypto-asset white paper drawn up in accordance with Article 25(2);(f) any envisaged appropriate corrective measures pursuant to Article 25(4);(g) any envisaged supervisory measures pursuant to Article 130;(h) any envisaged administrative agreement on the exchange of information with a supervisory authority of a third-country in accordance with Article 126;(i) any delegation of supervisory tasks from EBA to a competent authority pursuant to Article 138;(j) any envisaged change in the authorisation of, or any envisaged supervisory measure on, the members of the college referred to in Article 119(2), points (d) to (h);(k) a draft modified crypto-asset white paper drawn up in accordance with Article 51(12).
 
 **2.** Where the college issues an opinion in accordance with paragraph 1, at the request of any member of the college and upon adoption by a majority of the college in accordance with paragraph 3, the opinion may include any recommendations aimed at addressing shortcomings of the measure envisaged by EBA or the competent authorities.
 
@@ -3824,8 +2436,6 @@ Supervisory authorities of third countries referred to in Article 119(2), point 
 
 **4.** EBA or the competent authorities, as applicable, shall duly consider the non-binding opinion of the college reached in accordance with paragraph 3, including any recommendations aimed at addressing shortcomings of the supervisory measure envisaged in respect of an issuer of a significant asset-referenced token, an issuer of a significant e-money token, an entity or a crypto-asset service provider as referred to in Article 119(2), points (d) to (h). Where EBA or a competent authority does not agree with an opinion of the college, including any recommendations aimed at addressing shortcomings of the supervisory measure envisaged, its decision shall contain its reasons and an explanation for any significant deviation from that opinion or recommendations.
 
-### CHAPTER 5 — EBA’s powers and competences with respect to issuers of significant asset-referenced tokens and issuers of significant e-money tokens
-
 <a id="art_121"></a>
 
 ### Article 121 — Legal privilege
@@ -3836,55 +2446,11 @@ The powers conferred on EBA by Articles 122 to 125, or on any official or other 
 
 ### Article 122 — Request for information
 
-**1.** In order to carry out its supervisory responsibilities under Article 117, EBA may by simple request or by decision require the following persons to provide all information necessary to enable EBA to carry out its duties under this Regulation:
+**1.** In order to carry out its supervisory responsibilities under Article 117, EBA may by simple request or by decision require the following persons to provide all information necessary to enable EBA to carry out its duties under this Regulation:(a) an issuer of a significant asset-referenced token or a person controlling or being directly or indirectly controlled by an issuer of a significant asset-referenced token;(b) a third party as referred to in Article 34(5), first subparagraph, point (h), with which an issuer of a significant asset-referenced token has a contractual arrangement;(c) a crypto-asset service provider, credit institution or investment firm ensuring the custody of the reserve assets in accordance with Article 37;(d) an issuer of a significant e-money token or a person controlling or being directly or indirectly controlled by an issuer of a significant e-money token;(e) a payment service provider that provides payment services in relation to significant e-money tokens;(f) a natural or legal person in charge of distributing significant e-money tokens on behalf of an issuer of significant e-money tokens;(g) a crypto-asset service provider providing custody and administration of crypto-assets on behalf of clients in relation to significant asset-referenced tokens or significant e-money tokens;(h) an operator of a trading platform for crypto-assets that has admitted to trading a significant asset-referenced token or a significant e-money token;(i) the management body of the persons referred to in points (a) to (h).
 
-(a) an issuer of a significant asset-referenced token or a person controlling or being directly or indirectly controlled by an issuer of a significant asset-referenced token;
+**2.** A simple request for information as referred to in paragraph 1 shall:(a) refer to this Article as the legal basis of that request;(b) state the purpose of the request;(c) specify the information required;(d) include a time limit within which the information is to be provided;(e) inform the person from whom the information is requested that it is not obliged to provide the information but that, in the case of a voluntary reply to the request, the information provided is required to be correct and not misleading; and(f) indicate the fine provided for in Article 131, where the answers to questions asked are incorrect or misleading.
 
-(b) a third party as referred to in Article 34(5), first subparagraph, point (h), with which an issuer of a significant asset-referenced token has a contractual arrangement;
-
-(c) a crypto-asset service provider, credit institution or investment firm ensuring the custody of the reserve assets in accordance with Article 37;
-
-(d) an issuer of a significant e-money token or a person controlling or being directly or indirectly controlled by an issuer of a significant e-money token;
-
-(e) a payment service provider that provides payment services in relation to significant e-money tokens;
-
-(f) a natural or legal person in charge of distributing significant e-money tokens on behalf of an issuer of significant e-money tokens;
-
-(g) a crypto-asset service provider providing custody and administration of crypto-assets on behalf of clients in relation to significant asset-referenced tokens or significant e-money tokens;
-
-(h) an operator of a trading platform for crypto-assets that has admitted to trading a significant asset-referenced token or a significant e-money token;
-
-(i) the management body of the persons referred to in points (a) to (h).
-
-**2.** A simple request for information as referred to in paragraph 1 shall:
-
-(a) refer to this Article as the legal basis of that request;
-
-(b) state the purpose of the request;
-
-(c) specify the information required;
-
-(d) include a time limit within which the information is to be provided;
-
-(e) inform the person from whom the information is requested that it is not obliged to provide the information but that, in the case of a voluntary reply to the request, the information provided is required to be correct and not misleading; and
-
-(f) indicate the fine provided for in Article 131, where the answers to questions asked are incorrect or misleading.
-
-**3.** When requiring the provision of information by decision pursuant to paragraph 1, EBA shall:
-
-(a) refer to this Article as the legal basis of that request;
-
-(b) state the purpose of the request;
-
-(c) specify the information required;
-
-(d) set a time limit within which the information is to be provided;
-
-(e) indicate the periodic penalty payments provided for in Article 132 where the production of information is required;
-
-(f) indicate the fine provided for in Article 131, where the answers to questions asked are incorrect or misleading;
-
-(g) indicate the right to appeal the decision before EBA’s Board of Appeal and to have the decision reviewed by the Court of Justice in accordance with Articles 60 and 61 of Regulation (EU) No 1093/2010.
+**3.** When requiring the provision of information by decision pursuant to paragraph 1, EBA shall:(a) refer to this Article as the legal basis of that request;(b) state the purpose of the request;(c) specify the information required;(d) set a time limit within which the information is to be provided;(e) indicate the periodic penalty payments provided for in Article 132 where the production of information is required;(f) indicate the fine provided for in Article 131, where the answers to questions asked are incorrect or misleading;(g) indicate the right to appeal the decision before EBA’s Board of Appeal and to have the decision reviewed by the Court of Justice in accordance with Articles 60 and 61 of Regulation (EU) No 1093/2010.
 
 **4.** The persons referred to in paragraph 1 or their representatives and, in the case of legal persons or associations having no legal personality, the persons authorised to represent them by law, shall provide the information requested.
 
@@ -3894,17 +2460,7 @@ The powers conferred on EBA by Articles 122 to 125, or on any official or other 
 
 ### Article 123 — General investigative powers
 
-**1.** In order to carry out its supervisory responsibilities under Article 117, EBA may conduct investigations into issuers of significant asset-referenced tokens and issuers of significant e-money tokens. To that end, the officials and other persons authorised by EBA shall be empowered to:
-
-(a) examine any records, data, procedures and any other material relevant to the execution of its tasks irrespective of the medium on which they are stored;
-
-(b) take or obtain certified copies of or extracts from such records, data, procedures and other material;
-
-(c) summon and ask any issuer of a significant asset-referenced token or issuer of a significant of e-money token, or their management body or staff, for oral or written explanations of facts or documents relating to the subject matter and purpose of the investigation and to record the answers;
-
-(d) interview any other natural or legal person who consents to be interviewed for the purposes of collecting information relating to the subject matter of an investigation;
-
-(e) request records of telephone and data traffic.
+**1.** In order to carry out its supervisory responsibilities under Article 117, EBA may conduct investigations into issuers of significant asset-referenced tokens and issuers of significant e-money tokens. To that end, the officials and other persons authorised by EBA shall be empowered to:(a) examine any records, data, procedures and any other material relevant to the execution of its tasks irrespective of the medium on which they are stored;(b) take or obtain certified copies of or extracts from such records, data, procedures and other material;(c) summon and ask any issuer of a significant asset-referenced token or issuer of a significant of e-money token, or their management body or staff, for oral or written explanations of facts or documents relating to the subject matter and purpose of the investigation and to record the answers;(d) interview any other natural or legal person who consents to be interviewed for the purposes of collecting information relating to the subject matter of an investigation;(e) request records of telephone and data traffic.
 
 A college as referred to in Article 119(1) shall be informed without undue delay of any findings that might be relevant for the execution of its tasks.
 
@@ -3916,11 +2472,7 @@ A college as referred to in Article 119(1) shall be informed without undue delay
 
 **5.** If a request for records of telephone or data traffic referred to in paragraph 1, first subparagraph, point (e), requires authorisation from a court pursuant to applicable national law, EBA shall apply for such authorisation. Such authorisation may also be applied for as a precautionary measure.
 
-**6.** Where a court in a Member State receives an application for the authorisation of a request for records of telephone or data traffic referred to in paragraph 1, first subparagraph, point (e), that court shall verify whether:
-
-(a) the decision of EBA referred to in paragraph 3 is authentic;
-
-(b) any measures to be taken are proportionate and not arbitrary or excessive.
+**6.** Where a court in a Member State receives an application for the authorisation of a request for records of telephone or data traffic referred to in paragraph 1, first subparagraph, point (e), that court shall verify whether:(a) the decision of EBA referred to in paragraph 3 is authentic;(b) any measures to be taken are proportionate and not arbitrary or excessive.
 
 **7.** For the purposes of paragraph 6, point (b), the court may ask EBA for detailed explanations, in particular relating to the grounds EBA has for suspecting that an infringement of this Regulation has taken place, the seriousness of the suspected infringement and the nature of the involvement of the person subject to the coercive measures. That court shall, however, not review the necessity for the investigation or demand that it be provided with the information on EBA’s file. The lawfulness of EBA’s decision shall be subject to review only by the Court of Justice following the procedure set out in Regulation (EU) No 1093/2010.
 
@@ -3948,11 +2500,7 @@ The college referred to in Article 119 shall be informed without undue delay of 
 
 **9.** If the on-site inspection provided for in paragraph 1 or the assistance provided for in paragraph 7 requires authorisation by a court pursuant to national law, EBA shall make an application for such authorisation. Such authorisation may also be applied for as a precautionary measure.
 
-**10.** Where a court in a Member State receives an application for the authorisation of an on-site inspection provided for in paragraph 1 or the assistance provided for in paragraph 7, that court shall verify whether:
-
-(a) the decision adopted by EBA referred to in paragraph 4 is authentic;
-
-(b) any measures to be taken are proportionate and not arbitrary or excessive.
+**10.** Where a court in a Member State receives an application for the authorisation of an on-site inspection provided for in paragraph 1 or the assistance provided for in paragraph 7, that court shall verify whether:(a) the decision adopted by EBA referred to in paragraph 4 is authentic;(b) any measures to be taken are proportionate and not arbitrary or excessive.
 
 **11.** For the purposes of paragraph 10, point (b), the court may ask EBA for detailed explanations, in particular relating to the grounds EBA has for suspecting that an infringement of this Regulation has taken place, the seriousness of the suspected infringement and the nature of the involvement of the person subject to the coercive measures. That court shall, however, not review the necessity for the investigation or demand that it be provided with the information on EBA’s file. The lawfulness of EBA’s decision shall be subject to review only by the Court of Justice following the procedure set out in Regulation (EU) No 1093/2010.
 
@@ -3960,33 +2508,9 @@ The college referred to in Article 119 shall be informed without undue delay of 
 
 ### Article 125 — Exchange of information
 
-**1.** In order to carry out EBA’s supervisory responsibilities under Article 117 and without prejudice to Article 96, EBA and the competent authorities shall provide each other with the information required for the purposes of carrying out their duties under this Regulation without undue delay. For that purpose, the competent authorities and EBA shall exchange any information related to:
+**1.** In order to carry out EBA’s supervisory responsibilities under Article 117 and without prejudice to Article 96, EBA and the competent authorities shall provide each other with the information required for the purposes of carrying out their duties under this Regulation without undue delay. For that purpose, the competent authorities and EBA shall exchange any information related to:(a) an issuer of a significant asset-referenced token or a person controlling or being directly or indirectly controlled by an issuer of a significant asset-referenced token;(b) a third party as referred to in Article 34(5), first subparagraph, point (h), with which an issuer of a significant asset-referenced token has a contractual arrangement;(c) a crypto-asset service provider, credit institution or investment firm ensuring the custody of the reserve assets in accordance with Article 37;(d) an issuer of a significant e-money token or a person controlling or being directly or indirectly controlled by an issuer of a significant e-money token;(e) a payment service provider that provides payment services in relation to significant e-money tokens;(f) a natural or legal person in charge of distributing significant e-money tokens on behalf of the issuer of significant e-money tokens;(g) a crypto-asset service provider providing custody and administration of crypto-assets on behalf of clients, in relation to significant asset-referenced tokens or significant e-money tokens;(h) a trading platform for crypto-assets on which a significant asset-referenced token or a significant e-money token has been admitted to trading;(i) the management body of the persons referred to in points (a) to (h).
 
-(a) an issuer of a significant asset-referenced token or a person controlling or being directly or indirectly controlled by an issuer of a significant asset-referenced token;
-
-(b) a third party as referred to in Article 34(5), first subparagraph, point (h), with which an issuer of a significant asset-referenced token has a contractual arrangement;
-
-(c) a crypto-asset service provider, credit institution or investment firm ensuring the custody of the reserve assets in accordance with Article 37;
-
-(d) an issuer of a significant e-money token or a person controlling or being directly or indirectly controlled by an issuer of a significant e-money token;
-
-(e) a payment service provider that provides payment services in relation to significant e-money tokens;
-
-(f) a natural or legal person in charge of distributing significant e-money tokens on behalf of the issuer of significant e-money tokens;
-
-(g) a crypto-asset service provider providing custody and administration of crypto-assets on behalf of clients, in relation to significant asset-referenced tokens or significant e-money tokens;
-
-(h) a trading platform for crypto-assets on which a significant asset-referenced token or a significant e-money token has been admitted to trading;
-
-(i) the management body of the persons referred to in points (a) to (h).
-
-**2.** A competent authority may refuse to act on a request to exchange information as provided for in paragraph 1 of this Article or a request for cooperation in carrying out an investigation or an on-site inspection as provided for in Articles 123 and 124, respectively, only where:
-
-(a) complying with the request is likely to adversely affect its own investigation, enforcement activities or, where applicable, criminal investigation;
-
-(b) judicial proceedings have already been initiated in respect of the same actions and against the same natural or legal persons before the courts of the Member State addressed;
-
-(c) a final judgment has already been delivered in relation to such natural or legal person for the same actions in the Member State addressed.
+**2.** A competent authority may refuse to act on a request to exchange information as provided for in paragraph 1 of this Article or a request for cooperation in carrying out an investigation or an on-site inspection as provided for in Articles 123 and 124, respectively, only where:(a) complying with the request is likely to adversely affect its own investigation, enforcement activities or, where applicable, criminal investigation;(b) judicial proceedings have already been initiated in respect of the same actions and against the same natural or legal persons before the courts of the Member State addressed;(c) a final judgment has already been delivered in relation to such natural or legal person for the same actions in the Member State addressed.
 
 <a id="art_126"></a>
 
@@ -4022,81 +2546,11 @@ The obligation of professional secrecy shall apply to EBA and all persons who wo
 
 ### Article 130 — Supervisory measures by EBA
 
-**1.** Where EBA finds that an issuer of a significant asset-referenced token has committed an infringement as listed in Annex V, it may take one or more of the following measures:
+**1.** Where EBA finds that an issuer of a significant asset-referenced token has committed an infringement as listed in Annex V, it may take one or more of the following measures:(a) adopt a decision requiring the issuer of the significant asset-referenced token to cease the conduct constituting the infringement;(b) adopt a decision imposing fines or periodic penalty payments pursuant to Articles 131 and 132;(c) adopt a decision requiring the issuer of the significant asset-referenced token to transmit supplementary information, where necessary for the protection of holders of the asset-referenced token, in particular retail holders;(d) adopt a decision requiring the issuer of the significant asset-referenced token to suspend an offer to the public of crypto-assets for a maximum period of 30 consecutive working days on any single occasion where it has reasonable grounds for suspecting that this Regulation has been infringed;(e) adopt a decision prohibiting an offer to the public of the significant asset-referenced token where it finds that this Regulation has been infringed or where it has reasonable grounds for suspecting that it will be infringed;(f) adopt a decision requiring the crypto-asset service provider operating a trading platform for crypto-assets that has admitted to trading the significant asset-referenced token to suspend trading of such crypto-asset for a maximum of 30 consecutive working days on any single occasion where it has reasonable grounds for suspecting that this Regulation has been infringed;(g) adopt a decision prohibiting trading of the significant asset-referenced token on a trading platform for crypto-assets where it finds that this Regulation has been infringed;(h) adopt a decision requiring the issuer of the significant asset-referenced token to amend its marketing communications, where it finds that the marketing communications do not comply with Article 29;(i) adopt a decision to suspend or prohibit marketing communications where there are reasonable grounds for suspecting that this Regulation has been infringed;(j) adopt a decision requiring the issuer of the significant asset-referenced token to disclose all material information which might have an effect on the assessment of the significant asset-referenced token offered to the public or admitted to trading in order to ensure consumer protection or the smooth operation of the market;(k) issue warnings that the issuer of the significant asset-referenced token fails to fulfil its obligations under this Regulation;(l) withdraw the authorisation of the issuer of the significant asset-referenced token;(m) adopt a decision requiring the removal of a natural person from the management body of the issuer of the significant asset-referenced token;(n) require the issuer of the significant asset-referenced token under its supervision to introduce a minimum denomination amount in respect of that significant asset-referenced token or to limit the amount of the significant asset-referenced token issued, in accordance with Article 23(4) and Article 24(3).
 
-(a) adopt a decision requiring the issuer of the significant asset-referenced token to cease the conduct constituting the infringement;
+**2.** Where EBA finds that an issuer of a significant e-money token has committed an infringement as listed in Annex VI, it may take one or more of the following measures:(a) adopt a decision requiring the issuer of the significant e-money token to cease the conduct constituting the infringement;(b) adopt a decision imposing fines or periodic penalty payments pursuant to Articles 131 and 132;(c) adopt a decision requiring the issuer of the significant e-money token to transmit supplementary information where necessary for the protection of holders of the significant e-money token, in particular retail holders;(d) adopt a decision requiring the issuer of the significant e-money token to suspend an offer to the public of crypto-assets for a maximum period of 30 consecutive working days on any single occasion where it has reasonable grounds for suspecting that this Regulation has been infringed;(e) adopt a decision prohibiting an offer to the public of the significant e-money token where it finds that this Regulation has been infringed or where it has reasonable grounds for suspecting that it will be infringed;(f) adopt a decision requiring the relevant crypto-asset service provider operating a trading platform for crypto-assets that has admitted to trading significant e-money tokens to suspend trading of such crypto-assets for a maximum of 30 consecutive working days on any single occasion where it has reasonable grounds for suspecting that this Regulation has been infringed;(g) adopt a decision prohibiting trading of significant e-money tokens on a trading platform for crypto-assets where it finds that this Regulation has been infringed;(h) adopt a decision requiring the issuer of the significant e-money token to disclose all material information which might have an effect on the assessment of the significant e-money token offered to the public or admitted to trading in order to ensure consumer protection or the smooth operation of the market;(i) issue warnings that the issuer of the significant e-money token fails to fulfil its obligations under this Regulation;(j) require the issuer of the significant e-money token under its supervision to introduce a minimum denomination amount in respect of that significant e-money token or to limit the amount of the significant e-money token issued, as a result of the application of Article 58(3).
 
-(b) adopt a decision imposing fines or periodic penalty payments pursuant to Articles 131 and 132;
-
-(c) adopt a decision requiring the issuer of the significant asset-referenced token to transmit supplementary information, where necessary for the protection of holders of the asset-referenced token, in particular retail holders;
-
-(d) adopt a decision requiring the issuer of the significant asset-referenced token to suspend an offer to the public of crypto-assets for a maximum period of 30 consecutive working days on any single occasion where it has reasonable grounds for suspecting that this Regulation has been infringed;
-
-(e) adopt a decision prohibiting an offer to the public of the significant asset-referenced token where it finds that this Regulation has been infringed or where it has reasonable grounds for suspecting that it will be infringed;
-
-(f) adopt a decision requiring the crypto-asset service provider operating a trading platform for crypto-assets that has admitted to trading the significant asset-referenced token to suspend trading of such crypto-asset for a maximum of 30 consecutive working days on any single occasion where it has reasonable grounds for suspecting that this Regulation has been infringed;
-
-(g) adopt a decision prohibiting trading of the significant asset-referenced token on a trading platform for crypto-assets where it finds that this Regulation has been infringed;
-
-(h) adopt a decision requiring the issuer of the significant asset-referenced token to amend its marketing communications, where it finds that the marketing communications do not comply with Article 29;
-
-(i) adopt a decision to suspend or prohibit marketing communications where there are reasonable grounds for suspecting that this Regulation has been infringed;
-
-(j) adopt a decision requiring the issuer of the significant asset-referenced token to disclose all material information which might have an effect on the assessment of the significant asset-referenced token offered to the public or admitted to trading in order to ensure consumer protection or the smooth operation of the market;
-
-(k) issue warnings that the issuer of the significant asset-referenced token fails to fulfil its obligations under this Regulation;
-
-(l) withdraw the authorisation of the issuer of the significant asset-referenced token;
-
-(m) adopt a decision requiring the removal of a natural person from the management body of the issuer of the significant asset-referenced token;
-
-(n) require the issuer of the significant asset-referenced token under its supervision to introduce a minimum denomination amount in respect of that significant asset-referenced token or to limit the amount of the significant asset-referenced token issued, in accordance with Article 23(4) and Article 24(3).
-
-**2.** Where EBA finds that an issuer of a significant e-money token has committed an infringement as listed in Annex VI, it may take one or more of the following measures:
-
-(a) adopt a decision requiring the issuer of the significant e-money token to cease the conduct constituting the infringement;
-
-(b) adopt a decision imposing fines or periodic penalty payments pursuant to Articles 131 and 132;
-
-(c) adopt a decision requiring the issuer of the significant e-money token to transmit supplementary information where necessary for the protection of holders of the significant e-money token, in particular retail holders;
-
-(d) adopt a decision requiring the issuer of the significant e-money token to suspend an offer to the public of crypto-assets for a maximum period of 30 consecutive working days on any single occasion where it has reasonable grounds for suspecting that this Regulation has been infringed;
-
-(e) adopt a decision prohibiting an offer to the public of the significant e-money token where it finds that this Regulation has been infringed or where it has reasonable grounds for suspecting that it will be infringed;
-
-(f) adopt a decision requiring the relevant crypto-asset service provider operating a trading platform for crypto-assets that has admitted to trading significant e-money tokens to suspend trading of such crypto-assets for a maximum of 30 consecutive working days on any single occasion where it has reasonable grounds for suspecting that this Regulation has been infringed;
-
-(g) adopt a decision prohibiting trading of significant e-money tokens on a trading platform for crypto-assets where it finds that this Regulation has been infringed;
-
-(h) adopt a decision requiring the issuer of the significant e-money token to disclose all material information which might have an effect on the assessment of the significant e-money token offered to the public or admitted to trading in order to ensure consumer protection or the smooth operation of the market;
-
-(i) issue warnings that the issuer of the significant e-money token fails to fulfil its obligations under this Regulation;
-
-(j) require the issuer of the significant e-money token under its supervision to introduce a minimum denomination amount in respect of that significant e-money token or to limit the amount of the significant e-money token issued, as a result of the application of Article 58(3).
-
-**3.** When taking the measures referred to in paragraph 1 or 2, EBA shall take into account the nature and seriousness of the infringement, having regard to:
-
-(a) the duration and frequency of the infringement;
-
-(b) whether financial crime has been occasioned, facilitated or is otherwise attributable to the infringement;
-
-(c) whether the infringement has revealed serious or systemic weaknesses in the procedures, policies and risk management measures of the issuer of the significant asset-referenced token or the issuer of the significant e-money tokens;
-
-(d) whether the infringement has been committed intentionally or negligently;
-
-(e) the degree of responsibility of the issuer of the significant asset-referenced token or the issuer of the significant e-money token responsible for the infringement;
-
-(f) the financial strength of the issuer of the significant asset-referenced token, or of the issuer of the significant e-money token, responsible for the infringement, as indicated by the total turnover of the responsible legal person or the annual income and net assets of the responsible natural person;
-
-(g) the impact of the infringement on the interests of holders of significant asset-referenced tokens or significant e-money tokens;
-
-(h) the importance of the profits gained, losses avoided by the issuer of the significant asset-referenced token or significant e-money token responsible for the infringement or the losses for third parties caused by the infringement, insofar as they can be determined;
-
-(i) the level of cooperation of the issuer of the significant asset-referenced token or of the issuer of the significant e-money token responsible for the infringement with EBA, without prejudice to the need to ensure disgorgement of profits gained or losses avoided by that person;
-
-(j) previous infringements by the issuer of the significant asset-referenced token or by the issuer of the e-money token responsible for the infringement;
-
-(k) measures taken by the issuer of the significant asset-referenced token or by the issuer of the significant e-money token after the infringement to prevent the repetition of such an infringement.
+**3.** When taking the measures referred to in paragraph 1 or 2, EBA shall take into account the nature and seriousness of the infringement, having regard to:(a) the duration and frequency of the infringement;(b) whether financial crime has been occasioned, facilitated or is otherwise attributable to the infringement;(c) whether the infringement has revealed serious or systemic weaknesses in the procedures, policies and risk management measures of the issuer of the significant asset-referenced token or the issuer of the significant e-money tokens;(d) whether the infringement has been committed intentionally or negligently;(e) the degree of responsibility of the issuer of the significant asset-referenced token or the issuer of the significant e-money token responsible for the infringement;(f) the financial strength of the issuer of the significant asset-referenced token, or of the issuer of the significant e-money token, responsible for the infringement, as indicated by the total turnover of the responsible legal person or the annual income and net assets of the responsible natural person;(g) the impact of the infringement on the interests of holders of significant asset-referenced tokens or significant e-money tokens;(h) the importance of the profits gained, losses avoided by the issuer of the significant asset-referenced token or significant e-money token responsible for the infringement or the losses for third parties caused by the infringement, insofar as they can be determined;(i) the level of cooperation of the issuer of the significant asset-referenced token or of the issuer of the significant e-money token responsible for the infringement with EBA, without prejudice to the need to ensure disgorgement of profits gained or losses avoided by that person;(j) previous infringements by the issuer of the significant asset-referenced token or by the issuer of the e-money token responsible for the infringement;(k) measures taken by the issuer of the significant asset-referenced token or by the issuer of the significant e-money token after the infringement to prevent the repetition of such an infringement.
 
 **4.** Before taking any of the measures as referred to in paragraph 1, points (d) to (g), and point (j), EBA shall inform ESMA and, where the significant asset-referenced tokens are referencing the euro or an official currency of a Member State that is not the euro, the ECB or the central bank of the Member State concerned issuing that official currency, respectively.
 
@@ -4104,49 +2558,17 @@ The obligation of professional secrecy shall apply to EBA and all persons who wo
 
 **6.** EBA shall notify any measure taken pursuant to paragraph 1 or 2 to the issuer of the significant asset-referenced token or the issuer of the significant e-money token responsible for the infringement without undue delay and shall communicate that measure to the competent authorities concerned as well as to the Commission. EBA shall publicly disclose any such decision on its website within 10 working days of the date of adoption of such decision, unless such disclosure would seriously jeopardise financial stability or cause disproportionate damage to the parties involved. Such disclosure shall not contain personal data.
 
-**7.** The disclosure to the public referred to in paragraph 6 shall include the following statements:
-
-(a) a statement affirming the right of the person responsible for the infringement to appeal the decision before the Court of Justice;
-
-(b) where relevant, a statement affirming that an appeal has been lodged and specifying that such an appeal does not have suspensive effect;
-
-(c) a statement asserting that it is possible for EBA’s Board of Appeal to suspend the application of the contested decision in accordance with Article 60(3) of Regulation (EU) No 1093/2010.
+**7.** The disclosure to the public referred to in paragraph 6 shall include the following statements:(a) a statement affirming the right of the person responsible for the infringement to appeal the decision before the Court of Justice;(b) where relevant, a statement affirming that an appeal has been lodged and specifying that such an appeal does not have suspensive effect;(c) a statement asserting that it is possible for EBA’s Board of Appeal to suspend the application of the contested decision in accordance with Article 60(3) of Regulation (EU) No 1093/2010.
 
 <a id="art_131"></a>
 
 ### Article 131 — Fines
 
-**1.** EBA shall adopt a decision imposing a fine in accordance with paragraph 3 or 4 of this Article where, in accordance with Article 134(8), it finds that:
-
-(a) an issuer of a significant asset-referenced token or a member of its management body has, intentionally or negligently, committed an infringement as listed in Annex V;
-
-(b) an issuer of a significant e-money token or a member of its management body has, intentionally or negligently, committed an infringement as listed in Annex VI.
+**1.** EBA shall adopt a decision imposing a fine in accordance with paragraph 3 or 4 of this Article where, in accordance with Article 134(8), it finds that:(a) an issuer of a significant asset-referenced token or a member of its management body has, intentionally or negligently, committed an infringement as listed in Annex V;(b) an issuer of a significant e-money token or a member of its management body has, intentionally or negligently, committed an infringement as listed in Annex VI.
 
 An infringement shall be considered to have been committed intentionally if EBA finds objective factors which demonstrate that such an issuer or a member of its management body acted deliberately to commit the infringement.
 
-**2.** When adopting a decision as referred to in paragraph 1, EBA shall take into account the nature and seriousness of the infringement, having regard to:
-
-(a) the duration and frequency of the infringement;
-
-(b) whether financial crime has been occasioned, facilitated or is otherwise attributable to the infringement;
-
-(c) whether the infringement has revealed serious or systemic weaknesses in the issuer of the significant asset-referenced token’s or in the issuer of the significant e-money token’s procedures, policies and risk management measures;
-
-(d) whether the infringement has been committed intentionally or negligently;
-
-(e) the degree of responsibility of the issuer of the significant asset-referenced token or the issuer of the significant e-money token responsible for the infringement;
-
-(f) the financial strength of the issuer of the significant asset-referenced token, or of the issuer of the significant e-money token, responsible for the infringement, as indicated by the total turnover of the responsible legal person or the annual income and net assets of the responsible natural person;
-
-(g) the impact of the infringement on the interests of holders of significant asset-referenced tokens or significant e-money tokens;
-
-(h) the importance of the profits gained, losses avoided by the issuer of the significant asset-referenced token or the significant e-money token responsible for the infringement or the losses for third parties caused by the infringement, insofar as they can be determined;
-
-(i) the level of cooperation of the issuer of the significant asset-referenced token or of the issuer of the significant e-money token responsible for the infringement with EBA, without prejudice to the need to ensure disgorgement of profits gained or losses avoided by that person;
-
-(j) previous infringements by the issuer of the significant asset-referenced token or by the issuer of the significant e-money token responsible for the infringement;
-
-(k) measures taken by the issuer of the significant asset-referenced token or by the issuer of the significant e-money token after the infringement to prevent the repetition of such an infringement.
+**2.** When adopting a decision as referred to in paragraph 1, EBA shall take into account the nature and seriousness of the infringement, having regard to:(a) the duration and frequency of the infringement;(b) whether financial crime has been occasioned, facilitated or is otherwise attributable to the infringement;(c) whether the infringement has revealed serious or systemic weaknesses in the issuer of the significant asset-referenced token’s or in the issuer of the significant e-money token’s procedures, policies and risk management measures;(d) whether the infringement has been committed intentionally or negligently;(e) the degree of responsibility of the issuer of the significant asset-referenced token or the issuer of the significant e-money token responsible for the infringement;(f) the financial strength of the issuer of the significant asset-referenced token, or of the issuer of the significant e-money token, responsible for the infringement, as indicated by the total turnover of the responsible legal person or the annual income and net assets of the responsible natural person;(g) the impact of the infringement on the interests of holders of significant asset-referenced tokens or significant e-money tokens;(h) the importance of the profits gained, losses avoided by the issuer of the significant asset-referenced token or the significant e-money token responsible for the infringement or the losses for third parties caused by the infringement, insofar as they can be determined;(i) the level of cooperation of the issuer of the significant asset-referenced token or of the issuer of the significant e-money token responsible for the infringement with EBA, without prejudice to the need to ensure disgorgement of profits gained or losses avoided by that person;(j) previous infringements by the issuer of the significant asset-referenced token or by the issuer of the significant e-money token responsible for the infringement;(k) measures taken by the issuer of the significant asset-referenced token or by the issuer of the significant e-money token after the infringement to prevent the repetition of such an infringement.
 
 **3.** For issuers of significant asset-referenced tokens, the maximum amount of the fine referred to in paragraph 1 shall be up to 12,5 % of its annual turnover in the preceding business year, or twice the amount or profits gained or losses avoided because of the infringement where those can be determined.
 
@@ -4156,11 +2578,7 @@ An infringement shall be considered to have been committed intentionally if EBA 
 
 ### Article 132 — Periodic penalty payments
 
-**1.** EBA shall adopt a decision imposing periodic penalty payments in order to compel:
-
-(a) a person to cease the conduct constituting an infringement in accordance with a decision taken pursuant to Article 130;
-
-(b) a person referred to in Article 122(1): (i) to provide complete information which has been requested by a decision pursuant to Article 122; (ii) to submit to an investigation and in particular to produce complete records, data, procedures or any other material required and to complete and correct other information provided in an investigation launched by a decision pursuant to Article 123; (iii) to submit to an on-site inspection ordered by a decision taken pursuant to Article 124.
+**1.** EBA shall adopt a decision imposing periodic penalty payments in order to compel:(a) a person to cease the conduct constituting an infringement in accordance with a decision taken pursuant to Article 130;(b) a person referred to in Article 122(1):(i) to provide complete information which has been requested by a decision pursuant to Article 122;(ii) to submit to an investigation and in particular to produce complete records, data, procedures or any other material required and to complete and correct other information provided in an investigation launched by a decision pursuant to Article 123;(iii) to submit to an on-site inspection ordered by a decision taken pursuant to Article 124.
 
 **2.** A periodic penalty payment shall be effective and proportionate. The periodic penalty payment shall be imposed for each day of delay.
 
@@ -4242,19 +2660,11 @@ The amount of the fee charged to an individual issuer of a significant e-money t
 
 **1.** Where necessary for the proper performance of a supervisory task in respect of issuers of significant asset-referenced tokens or issuers of significant e-money tokens, EBA may delegate specific supervisory tasks to a competent authority. Such specific supervisory tasks may include the power to carry out requests for information in accordance with Article 122 and to conduct investigations and on-site inspections in accordance with Article 123 or 124.
 
-**2.** Before delegating a task as referred to in paragraph 1, EBA shall consult the relevant competent authority about:
-
-(a) the scope of the task to be delegated;
-
-(b) the timetable for the performance of the task; and
-
-(c) the transmission of necessary information by and to EBA.
+**2.** Before delegating a task as referred to in paragraph 1, EBA shall consult the relevant competent authority about:(a) the scope of the task to be delegated;(b) the timetable for the performance of the task; and(c) the transmission of necessary information by and to EBA.
 
 **3.** In accordance with the delegated act on fees adopted by the Commission pursuant to Article 137(3) and Article 139, EBA shall reimburse a competent authority for the costs incurred as a result of carrying out delegated tasks.
 
 **4.** EBA shall review the delegation of tasks at appropriate intervals. Such delegation may be revoked at any time.
-
-## TITLE VIII — DELEGATED ACTS
 
 <a id="art_139"></a>
 
@@ -4272,81 +2682,13 @@ The amount of the fee charged to an individual issuer of a significant e-money t
 
 **6.** A delegated act adopted pursuant to Articles 3(2), 43(11), 103(8), 104(8), 105(7), 134(10) and 137(3) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of three months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months on the initiative of the European Parliament or of the Council.
 
-## TITLE IX — TRANSITIONAL AND FINAL PROVISIONS
-
 <a id="art_140"></a>
 
 ### Article 140 — Reports on the application of this Regulation
 
 **1.** By 30 June 2027, having consulted EBA and ESMA, the Commission shall present a report to the European Parliament and the Council on the application of this Regulation accompanied, where appropriate, by a legislative proposal. An interim report shall be presented by 30 June 2025, accompanied, where appropriate, by a legislative proposal.
 
-**2.** The reports referred to in paragraph 1 shall contain the following:
-
-(a) the number of issuances of crypto-assets in the Union, the number of crypto-asset white papers submitted or notified to the competent authorities, the type of crypto-assets issued and their market capitalisation and the number of crypto-assets admitted to trading;
-
-(b) a description of the experience with the classification of crypto-assets including possible divergences in approaches by competent authorities;
-
-(c) an assessment of the necessity of the introduction of an approval mechanism for crypto-asset white papers for crypto-assets other than asset-referenced tokens and e-money tokens;
-
-(d) an estimate of the number of Union residents using or investing in crypto-assets issued in the Union;
-
-(e) where possible, an estimate of the number of Union residents using or investing in crypto-assets issued outside the Union and an explanation of the availability of data in that respect;
-
-(f) the number and value of fraud, scams, hacks, the use of crypto-assets for payments related to ransomware attacks, cyber-attacks, thefts or losses of crypto-assets reported in the Union, types of fraudulent behaviour, the number of complaints received by crypto-asset service providers and issuers of asset-referenced tokens, the number of complaints received by competent authorities and the subjects of the complaints received;
-
-(g) the number of issuers of asset-referenced tokens and an analysis of the categories of reserve assets, the size of the reserves of assets and the volume of payments made in asset-referenced tokens;
-
-(h) the number of issuers of significant asset-referenced tokens and an analysis of the categories of reserve assets, the size of the reserves of assets and the volume of payments made in significant asset-referenced tokens;
-
-(i) the number of issuers of e-money tokens and an analysis of the official currencies referenced by the e-money tokens, the composition and the size of the funds deposited or invested in accordance with Article 54 and the volume of payments made in e-money tokens;
-
-(j) the number of issuers of significant e-money tokens and an analysis of the official currencies referenced by the significant e-money tokens and, for electronic money institutions issuing significant e-money tokens, an analysis of the categories of reserve assets, the size of the reserves of assets, and the volume of payments made in significant e-money tokens;
-
-(k) the number of significant crypto-asset service providers;
-
-(l) an assessment of the functioning of the markets in crypto-assets in the Union, including of market development and trends, taking into account the experience of the supervisory authorities, the number of authorised crypto-asset service providers and their respective average market share;
-
-(m) an assessment of the level of protection of holders of crypto-assets and clients of crypto-asset service providers, in particular retail holders;
-
-(n) an assessment of fraudulent marketing communications and scams involving crypto-assets occurring through social media networks;
-
-(o) an assessment of the requirements applicable to issuers of crypto-assets and crypto-asset service providers and their impact on operational resilience, market integrity, financial stability, and the protection of clients and holders of crypto-assets;
-
-(p) an evaluation of the application of Article 81 and of the possibility of introducing appropriateness tests in Articles 78, 79 and 80 in order to better protect clients of crypto-asset service providers, especially retail holders;
-
-(q) an assessment of whether the scope of crypto-asset services covered by this Regulation is appropriate and whether any adjustment to the definitions set out in this Regulation is needed, as well as whether any additional innovative crypto-asset forms need to be included in the scope of this Regulation;
-
-(r) an assessment of whether the prudential requirements for crypto-asset service providers are appropriate and whether they should be aligned with the requirements for initial capital and own funds applicable to investment firms under Regulation (EU) 2019/2033 of the European Parliament and of the Council and Directive (EU) 2019/2034 of the European Parliament and of the Council;
-
-(s) an assessment of the appropriateness of the thresholds to classify asset-referenced tokens and e-money tokens as significant as set out in Article 43(1), points (a), (b) and (c), and an assessment of whether the thresholds should be evaluated periodically;
-
-(t) an assessment of the development of decentralised finance in markets in crypto-assets and of the appropriate regulatory treatment of decentralised crypto-asset systems;
-
-(u) an assessment of the appropriateness of the thresholds to consider crypto-asset service providers as significant pursuant to Article 85, and an assessment of whether the thresholds should be evaluated periodically;
-
-(v) an assessment of whether an equivalence regime should be established under this Regulation for entities providing crypto-asset services, issuers of asset-referenced tokens or issuers of e-money tokens from third countries;
-
-(w) an assessment of whether the exemptions under Articles 4 and 16 are appropriate;
-
-(x) an assessment of the impact of this Regulation on the proper functioning of the internal market with regard to crypto-assets, including any impact on the access to finance for SMEs and on the development of new means of payment, including payment instruments;
-
-(y) a description of developments in business models and technologies in markets in crypto-assets with a particular focus on the environmental and climate-related impact of new technologies, as well as an assessment of policy options and where necessary any additional measures that might be warranted to mitigate the adverse impacts on the climate and other environment-related adverse impacts of the technologies used in markets in crypto-assets and, in particular, of the consensus mechanisms used to validate crypto-asset transactions;
-
-(z) an appraisal of whether any changes are needed to the measures set out in this Regulation to ensure the protection of clients and holders of crypto-assets, market integrity and financial stability;
-
-(aa) the application of administrative penalties and other administrative measures;
-
-(ab) an evaluation of the cooperation between the competent authorities, EBA, ESMA, central banks, as well as other relevant authorities, including with regards to the interaction between their responsibilities or tasks, and an assessment of the advantages and disadvantages of the competent authorities of the Member States and EBA, respectively, being responsible for supervision under this Regulation;
-
-(ac) an evaluation of the cooperation between the competent authorities and ESMA regarding the supervision of significant crypto-asset service providers, and an assessment of the advantages and disadvantages of the competent authorities of the Member States and ESMA, respectively, being responsible for the supervision of significant crypto-asset service providers under this Regulation;
-
-(ad) the costs for issuers of crypto-assets other than asset-referenced tokens and e-money tokens, to comply with this Regulation as a percentage of the amount raised through crypto-asset issuances;
-
-(ae) the costs for issuers of asset-referenced tokens and issuers of e-money tokens to comply with this Regulation as a percentage of their operational costs;
-
-(af) the costs for crypto-asset service providers to comply with this Regulation as a percentage of their operational costs;
-
-(ag) the number and amount of administrative fines and criminal penalties imposed for infringements of this Regulation by competent authorities and EBA.
+**2.** The reports referred to in paragraph 1 shall contain the following:(a) the number of issuances of crypto-assets in the Union, the number of crypto-asset white papers submitted or notified to the competent authorities, the type of crypto-assets issued and their market capitalisation and the number of crypto-assets admitted to trading;(b) a description of the experience with the classification of crypto-assets including possible divergences in approaches by competent authorities;(c) an assessment of the necessity of the introduction of an approval mechanism for crypto-asset white papers for crypto-assets other than asset-referenced tokens and e-money tokens;(d) an estimate of the number of Union residents using or investing in crypto-assets issued in the Union;(e) where possible, an estimate of the number of Union residents using or investing in crypto-assets issued outside the Union and an explanation of the availability of data in that respect;(f) the number and value of fraud, scams, hacks, the use of crypto-assets for payments related to ransomware attacks, cyber-attacks, thefts or losses of crypto-assets reported in the Union, types of fraudulent behaviour, the number of complaints received by crypto-asset service providers and issuers of asset-referenced tokens, the number of complaints received by competent authorities and the subjects of the complaints received;(g) the number of issuers of asset-referenced tokens and an analysis of the categories of reserve assets, the size of the reserves of assets and the volume of payments made in asset-referenced tokens;(h) the number of issuers of significant asset-referenced tokens and an analysis of the categories of reserve assets, the size of the reserves of assets and the volume of payments made in significant asset-referenced tokens;(i) the number of issuers of e-money tokens and an analysis of the official currencies referenced by the e-money tokens, the composition and the size of the funds deposited or invested in accordance with Article 54 and the volume of payments made in e-money tokens;(j) the number of issuers of significant e-money tokens and an analysis of the official currencies referenced by the significant e-money tokens and, for electronic money institutions issuing significant e-money tokens, an analysis of the categories of reserve assets, the size of the reserves of assets, and the volume of payments made in significant e-money tokens;(k) the number of significant crypto-asset service providers;(l) an assessment of the functioning of the markets in crypto-assets in the Union, including of market development and trends, taking into account the experience of the supervisory authorities, the number of authorised crypto-asset service providers and their respective average market share;(m) an assessment of the level of protection of holders of crypto-assets and clients of crypto-asset service providers, in particular retail holders;(n) an assessment of fraudulent marketing communications and scams involving crypto-assets occurring through social media networks;(o) an assessment of the requirements applicable to issuers of crypto-assets and crypto-asset service providers and their impact on operational resilience, market integrity, financial stability, and the protection of clients and holders of crypto-assets;(p) an evaluation of the application of Article 81 and of the possibility of introducing appropriateness tests in Articles 78, 79 and 80 in order to better protect clients of crypto-asset service providers, especially retail holders;(q) an assessment of whether the scope of crypto-asset services covered by this Regulation is appropriate and whether any adjustment to the definitions set out in this Regulation is needed, as well as whether any additional innovative crypto-asset forms need to be included in the scope of this Regulation;(r) an assessment of whether the prudential requirements for crypto-asset service providers are appropriate and whether they should be aligned with the requirements for initial capital and own funds applicable to investment firms under Regulation (EU) 2019/2033 of the European Parliament and of the Council (21) and Directive (EU) 2019/2034 of the European Parliament and of the Council (22);(s) an assessment of the appropriateness of the thresholds to classify asset-referenced tokens and e-money tokens as significant as set out in Article 43(1), points (a), (b) and (c), and an assessment of whether the thresholds should be evaluated periodically;(t) an assessment of the development of decentralised finance in markets in crypto-assets and of the appropriate regulatory treatment of decentralised crypto-asset systems;(u) an assessment of the appropriateness of the thresholds to consider crypto-asset service providers as significant pursuant to Article 85, and an assessment of whether the thresholds should be evaluated periodically;(v) an assessment of whether an equivalence regime should be established under this Regulation for entities providing crypto-asset services, issuers of asset-referenced tokens or issuers of e-money tokens from third countries;(w) an assessment of whether the exemptions under Articles 4 and 16 are appropriate;(x) an assessment of the impact of this Regulation on the proper functioning of the internal market with regard to crypto-assets, including any impact on the access to finance for SMEs and on the development of new means of payment, including payment instruments;(y) a description of developments in business models and technologies in markets in crypto-assets with a particular focus on the environmental and climate-related impact of new technologies, as well as an assessment of policy options and where necessary any additional measures that might be warranted to mitigate the adverse impacts on the climate and other environment-related adverse impacts of the technologies used in markets in crypto-assets and, in particular, of the consensus mechanisms used to validate crypto-asset transactions;(z) an appraisal of whether any changes are needed to the measures set out in this Regulation to ensure the protection of clients and holders of crypto-assets, market integrity and financial stability;(aa) the application of administrative penalties and other administrative measures;(ab) an evaluation of the cooperation between the competent authorities, EBA, ESMA, central banks, as well as other relevant authorities, including with regards to the interaction between their responsibilities or tasks, and an assessment of the advantages and disadvantages of the competent authorities of the Member States and EBA, respectively, being responsible for supervision under this Regulation;(ac) an evaluation of the cooperation between the competent authorities and ESMA regarding the supervision of significant crypto-asset service providers, and an assessment of the advantages and disadvantages of the competent authorities of the Member States and ESMA, respectively, being responsible for the supervision of significant crypto-asset service providers under this Regulation;(ad) the costs for issuers of crypto-assets other than asset-referenced tokens and e-money tokens, to comply with this Regulation as a percentage of the amount raised through crypto-asset issuances;(ae) the costs for issuers of asset-referenced tokens and issuers of e-money tokens to comply with this Regulation as a percentage of their operational costs;(af) the costs for crypto-asset service providers to comply with this Regulation as a percentage of their operational costs;(ag) the number and amount of administrative fines and criminal penalties imposed for infringements of this Regulation by competent authorities and EBA.
 
 **3.** Where applicable, the reports referred to in paragraph 1 of this Article shall also follow up on the topics addressed in the reports referred to in Articles 141 and 142.
 
@@ -4392,15 +2734,7 @@ Competent authorities shall provide ESMA with the information necessary for the 
 
 **1.** By 30 December 2024 and after consulting EBA and ESMA, the Commission shall present a report to the European Parliament and the Council on the latest developments with respect to crypto-assets, in particular on matters that are not addressed in this Regulation, accompanied, where appropriate, by a legislative proposal.
 
-**2.** The report referred to in paragraph 1 shall contain at least the following:
-
-(a) an assessment of the development of decentralised-finance in markets in crypto-assets and of the appropriate regulatory treatment of decentralised crypto-asset systems without an issuer or crypto-asset service provider, including an assessment of the necessity and feasibility of regulating decentralised finance;
-
-(b) an assessment of the necessity and feasibility of regulating lending and borrowing of crypto-assets;
-
-(c) an assessment of the treatment of services associated to the transfer of e-money tokens, where not addressed in the context of the review of Directive (EU) 2015/2366;
-
-(d) an assessment of the development of markets in unique and non-fungible crypto-assets and of the appropriate regulatory treatment of such crypto-assets, including an assessment of the necessity and feasibility of regulating offerors of unique and non-fungible crypto-assets as well as providers of services related to such crypto-assets.
+**2.** The report referred to in paragraph 1 shall contain at least the following:(a) an assessment of the development of decentralised-finance in markets in crypto-assets and of the appropriate regulatory treatment of decentralised crypto-asset systems without an issuer or crypto-asset service provider, including an assessment of the necessity and feasibility of regulating decentralised finance;(b) an assessment of the necessity and feasibility of regulating lending and borrowing of crypto-assets;(c) an assessment of the treatment of services associated to the transfer of e-money tokens, where not addressed in the context of the review of Directive (EU) 2015/2366;(d) an assessment of the development of markets in unique and non-fungible crypto-assets and of the appropriate regulatory treatment of such crypto-assets, including an assessment of the necessity and feasibility of regulating offerors of unique and non-fungible crypto-assets as well as providers of services related to such crypto-assets.
 
 <a id="art_143"></a>
 
@@ -4408,11 +2742,7 @@ Competent authorities shall provide ESMA with the information necessary for the 
 
 **1.** Articles 4 to 15 shall not apply to offers to the public of crypto-assets that ended before 30 December 2024.
 
-**2.** By way of derogation from Title II, only the following requirements shall apply in relation to crypto-assets other than asset-referenced tokens and e-money tokens that were admitted to trading before 30 December 2024:
-
-(a) Articles 7 and 9 shall apply to marketing communications published after 30 December 2024;
-
-(b) operators of trading platforms shall ensure by 31 December 2027 that a crypto-asset white paper, in the cases required by this Regulation, is drawn up, notified and published in accordance with Articles 6, 8 and 9 and updated in accordance with Article 12.
+**2.** By way of derogation from Title II, only the following requirements shall apply in relation to crypto-assets other than asset-referenced tokens and e-money tokens that were admitted to trading before 30 December 2024:(a) Articles 7 and 9 shall apply to marketing communications published after 30 December 2024;(b) operators of trading platforms shall ensure by 31 December 2027 that a crypto-asset white paper, in the cases required by this Regulation, is drawn up, notified and published in accordance with Articles 6, 8 and 9 and updated in accordance with Article 12.
 
 **3.** Crypto-asset service providers that provided their services in accordance with applicable law before 30 December 2024, may continue to do so until 1 July 2026 or until they are granted or refused an authorisation pursuant to Article 63, whichever is sooner.
 
@@ -4432,25 +2762,37 @@ By 30 June 2024, Member States shall notify to the Commission and ESMA whether t
 
 ### Article 144 — Amendment to Regulation (EU) No 1093/2010
 
-In Article 1(2) of Regulation (EU) No 1093/2010, the first subparagraph is replaced by the following:‘The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 2002/87/EC, Directive 2008/48/EC, Directive 2009/110/EC, Regulation (EU) No 575/2013, Directive 2013/36/EU, Directive 2014/49/EU, Directive 2014/92/EU, Directive (EU) 2015/2366, Regulation (EU) 2023/1114 of the European Parliament and of the Council and, to the extent that those acts apply to credit and financial institutions and the competent authorities that supervise them, within the relevant parts of Directive 2002/65/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority. The Authority shall also act in accordance with Council Regulation (EU) No 1024/2013.
+In Article 1(2) of Regulation (EU) No 1093/2010, the first subparagraph is replaced by the following:
+
+‘The Authority shall act within the powers conferred by this Regulation and within the scope of Directive 2002/87/EC, Directive 2008/48/EC (*1), Directive 2009/110/EC, Regulation (EU) No 575/2013 (*2), Directive 2013/36/EU (*3), Directive 2014/49/EU (*4), Directive 2014/92/EU (*5), Directive (EU) 2015/2366 (*6), Regulation (EU) 2023/1114 (*7) of the European Parliament and of the Council and, to the extent that those acts apply to credit and financial institutions and the competent authorities that supervise them, within the relevant parts of Directive 2002/65/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority. The Authority shall also act in accordance with Council Regulation (EU) No 1024/2013 (*8).
 
 <a id="art_145"></a>
 
 ### Article 145 — Amendment to Regulation (EU) No 1095/2010
 
-In Article 1(2) of Regulation (EU) No 1095/2010, the first subparagraph is replaced by the following:‘The Authority shall act within the powers conferred by this Regulation and within the scope of Directives 97/9/EC, 98/26/EC, 2001/34/EC, 2002/47/EC, 2004/109/EC, 2009/65/EC, Directive 2011/61/EU of the European Parliament and of the Council, Regulation (EC) No 1060/2009 and Directive 2014/65/EU of the European Parliament and of the Council, Regulation (EU) 2017/1129 of the European Parliament and of the Council, Regulation (EU) 2023/1114 of the European Parliament and of the Council and to the extent that those acts apply to firms providing investment services or to collective investment undertakings marketing their units or shares, issuers or offerors of crypto-assets, persons seeking admission to trading or crypto-asset service providers and the competent authorities that supervise them, within the relevant parts of, Directives 2002/87/EC and 2002/65/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority.
+In Article 1(2) of Regulation (EU) No 1095/2010, the first subparagraph is replaced by the following:
+
+‘The Authority shall act within the powers conferred by this Regulation and within the scope of Directives 97/9/EC, 98/26/EC, 2001/34/EC, 2002/47/EC, 2004/109/EC, 2009/65/EC, Directive 2011/61/EU of the European Parliament and of the Council (*9), Regulation (EC) No 1060/2009 and Directive 2014/65/EU of the European Parliament and of the Council (*10), Regulation (EU) 2017/1129 of the European Parliament and of the Council (*11), Regulation (EU) 2023/1114 of the European Parliament and of the Council (*12) and to the extent that those acts apply to firms providing investment services or to collective investment undertakings marketing their units or shares, issuers or offerors of crypto-assets, persons seeking admission to trading or crypto-asset service providers and the competent authorities that supervise them, within the relevant parts of, Directives 2002/87/EC and 2002/65/EC, including all directives, regulations, and decisions based on those acts, and of any further legally binding Union act which confers tasks on the Authority.
 
 <a id="art_146"></a>
 
 ### Article 146 — Amendment to Directive 2013/36/EU
 
-In Annex I to Directive 2013/36/EU, point 15 is replaced by the following:‘15.Issuing electronic money including electronic-money tokens as defined in Article 3(1), point (7), of Regulation (EU) 2023/1114 of the European Parliament and of the Council.16.Issuance of asset-referenced tokens as defined in Article 3(1), point (6), of Regulation (EU) 2023/1114.17.Crypto-asset services as defined in Article 3(1), point (16), of Regulation (EU) 2023/1114.
+In Annex I to Directive 2013/36/EU, point 15 is replaced by the following:
+
+‘15. Issuing electronic money including electronic-money tokens as defined in Article 3(1), point (7), of Regulation (EU) 2023/1114 of the European Parliament and of the Council (*13).
+
+16. Issuance of asset-referenced tokens as defined in Article 3(1), point (6), of Regulation (EU) 2023/1114.
+
+17. Crypto-asset services as defined in Article 3(1), point (16), of Regulation (EU) 2023/1114.
 
 <a id="art_147"></a>
 
 ### Article 147 — Amendment to Directive (EU) 2019/1937
 
-In Part I.B of the Annex to Directive (EU) 2019/1937, the following point is added:‘(xxii)Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (OJ L 150, 9.6.2023, p. 40).’.
+In Part I.B of the Annex to Directive (EU) 2019/1937, the following point is added:
+
+‘(xxii) Regulation (EU) 2023/1114 of the European Parliament and of the Council of 31 May 2023 on markets in crypto-assets, and amending Regulations (EU) No 1093/2010 and (EU) No 1095/2010 and Directives 2013/36/EU and (EU) 2019/1937 (OJ L 150, 9.6.2023, p. 40).’.
 
 <a id="art_148"></a>
 
@@ -4471,707 +2813,3 @@ In Part I.B of the Annex to Directive (EU) 2019/1937, the following point is add
 **3.** By way of derogation from paragraph 2, Titles III and IV shall apply from 30 June 2024.
 
 **4.** By way of derogation from paragraphs 2 and 3 of this Article, Articles 2(5), 3(2), 6(11) and (12), Article 14(1), second subparagraph, Articles 17(8), 18(6) and (7), 19(10) and (11), 21(3), 22(6) and (7), 31(5), 32(5), 34(13), 35(6), 36(4), 38(5), 42(4), 43(11), 45(7) and (8), 46(6), 47(5), 51(10) and (15), 60(13) and (14), 61(3), 62(5) and (6), 63(11), 66(6), 68(10), 71(5), 72(5), 76(16), 81(15), 82(2), 84(4), 88(4), 92(2) and (3), 95(10) and (11), 96(3), 97(1), 103(8), 104(8), 105(7), 107(3) and (4), 109(8) and 119(8), 134(10), 137(3) and Article 139 shall apply from 29 June 2023.
-
-<a id="anx_i"></a>
-
-### ANNEX I
-
-**DISCLOSURE ITEMS FOR THE CRYPTO-ASSET WHITE PAPER FOR CRYPTO-ASSETS OTHER THAN ASSET-REFERENCED TOKENS OR E-MONEY TOKENS**
-
-**Part A: Information about the offeror or the person seeking admission to trading**
-
-1. Name;
-
-2. Legal form;
-
-3. Registered address and head office, where different;
-
-4. Date of the registration;
-
-5. Legal entity identifier or another identifier required pursuant to applicable national law;
-
-6. A contact telephone number and an email address of the offeror or the person seeking admission to trading, and the period of days within which an investor contacting the offeror or the person seeking admission to trading via that telephone number or email address will receive an answer;
-
-7. Where applicable, the name of the parent company;
-
-8. Identity, business addresses and functions of persons that are members of the management body of the offeror or person seeking admission to trading;
-
-9. Business or professional activity of the offeror or person seeking admission to trading and, where applicable, of its parent company;
-
-10. The financial condition of the offeror or person seeking admission to trading over the past three years or where the offeror or person seeking admission to trading has not been established for the past three years, its financial condition since the date of its registration. The financial condition shall be assessed based on a fair review of the development and performance of the business of the offeror or person seeking admission to trading and of its position for each year and interim period for which historical financial information is required, including the causes of material changes. The review shall be a balanced and comprehensive analysis of the development and performance of the business of the offeror or person seeking admission to trading and of its position, consistent with the size and complexity of the business.
-
-**Part B: Information about the issuer, if different from the offeror or person seeking admission to trading**
-
-1. Name;
-
-2. Legal form;
-
-3. Registered address and head office, where different;
-
-4. Date of the registration;
-
-5. Legal entity identifier or another identifier required pursuant to applicable national law;
-
-6. Where applicable, the name of the parent company;
-
-7. Identity, business addresses and functions of persons that are members of the management body of the issuer;
-
-8. Business or professional activity of the issuer and, where applicable, of its parent company.
-
-**Part C: Information about the operator of the trading platform in cases where it draws up the crypto-asset white paper**
-
-1. Name;
-
-2. Legal form;
-
-3. Registered address and head office, where different;
-
-4. Date of the registration;
-
-5. Legal entity identifier or another identifier required pursuant to applicable national law;
-
-6. Where applicable, the name of the parent company;
-
-7. The reason why that operator drew up the crypto-asset white paper;
-
-8. Identity, business addresses and functions of persons that are members of the management body of the operator;
-
-9. Business or professional activity of the operator and, where applicable, of its parent company.
-
-**Part D: Information about the crypto-asset project**
-
-1. Name of the crypto-asset project and of the crypto-assets, if different from the name of the offeror or person seeking admission to trading, and abbreviation or ticker handler;
-
-2. A brief description of the crypto-asset project;
-
-3. Details of all natural or legal persons (including business addresses or domicile of the company) involved in the implementation of the crypto-asset project, such as advisors, development team and crypto-asset service providers;
-
-4. Where the crypto-asset project concerns utility tokens, key features of the goods or services to be developed;
-
-5. Information about the crypto-asset project, especially past and future milestones of the project and, where applicable, resources already allocated to the project;
-
-6. Where applicable, planned use of any funds or other crypto-assets collected.
-
-**Part E: Information about the offer to the public of crypto-assets or their admission to trading**
-
-1. Indication as to whether the crypto-asset white paper concerns an offer to the public of crypto-assets or their admission to trading;
-
-2. The reasons for the offer to the public or for seeking admission to trading;
-
-3. Where applicable, the amount that the offer to the public intends to raise in funds or in any other crypto-asset, including, where applicable, any minimum and maximum target subscription goals set for the offer to the public of crypto-assets, and whether oversubscriptions are accepted and how they are allocated;
-
-4. The issue price of the crypto-asset being offered to the public (in an official currency or any other crypto-assets), any applicable subscription fee or the method in accordance with which the offer price will be determined;
-
-5. Where applicable, the total number of crypto-assets to be offered to the public or admitted to trading;
-
-6. Indication of the prospective holders targeted by the offer to the public of crypto-assets or admission of such crypto-assets to trading, including any restriction as regards the type of holders for such crypto-assets;
-
-7. Specific notice that purchasers participating in the offer to the public of crypto-assets will be able to be reimbursed if the minimum target subscription goal is not reached at the end of the offer to the public, if they exercise the right to withdrawal foreseen in Article 13 or if the offer is cancelled and detailed description of the refund mechanism, including the expected timeline of when such refunds will be completed;
-
-8. Information about the various phases of the offer to the public of crypto-assets, including information on discounted purchase price for early purchasers of crypto-assets (pre-public sales); in the case of discounted purchase prices for some purchasers, an explanation why purchase prices may be different, and a description of the impact on the other investors;
-
-9. For time-limited offers, the subscription period during which the offer to the public is open;
-
-10. The arrangements to safeguard funds or other crypto-assets as referred to in Article 10 during the time-limited offer to the public or during the withdrawal period;
-
-11. Methods of payment to purchase the crypto-assets offered and methods of transfer of the value to the purchasers when they are entitled to be reimbursed;
-
-12. In the case of offers to the public, information on the right of withdrawal as referred to in Article 13;
-
-13. Information on the manner and time schedule of transferring the purchased crypto-assets to the holders;
-
-14. Information about technical requirements that the purchaser is required to fulfil to hold the crypto-assets;
-
-15. Where applicable, the name of the crypto-asset service provider in charge of the placing of crypto-assets and the form of such placement (with or without a firm commitment basis);
-
-16. Where applicable, the name of the trading platform for crypto-assets where admission to trading is sought, and information about how investors can access such trading platforms and the costs involved;
-
-17. Expenses related to the offer to the public of crypto-assets;
-
-18. Potential conflicts of interest of the persons involved in the offer to the public or admission to trading, arising in relation to the offer or admission to trading;
-
-19. The law applicable to the offer to the public of crypto-assets, as well as the competent court.
-
-**Part F: Information about the crypto-assets**
-
-1. The type of crypto-asset that will be offered to the public or for which admission to trading is sought;
-
-2. A description of the characteristics, including the data necessary for classification of the crypto-asset white paper in the register referred to in Article 109, as specified in accordance with paragraph 8 of that Article, and functionality of the crypto-assets being offered or admitted to trading, including information about when the functionalities are planned to apply.
-
-**Part G: Information on the rights and obligations attached to the crypto-assets**
-
-1. A description of the rights and obligations, if any, of the purchaser, and the procedure and conditions for the exercise of those rights;
-
-2. A description of the conditions under which the rights and obligations may be modified;
-
-3. Where applicable, information on the future offers to the public of crypto-assets by the issuer and the number of crypto-assets retained by the issuer itself;
-
-4. Where the offer to the public of crypto-assets or their admission to trading concerns utility tokens, information about the quality and quantity of goods or services to which the utility tokens give access;
-
-5. Where the offers to the public of crypto-assets or their admission to trading concerns utility tokens, information on how utility tokens can be redeemed for goods or services to which they relate;
-
-6. Where an admission to trading is not sought, information on how and where the crypto-assets can be purchased or sold after the offer to the public;
-
-7. Restrictions on the transferability of the crypto-assets that are being offered or admitted to trading;
-
-8. Where the crypto-assets have protocols for the increase or decrease of their supply in response to changes in demand, a description of the functioning of such protocols;
-
-9. Where applicable, a description of protection schemes protecting the value of the crypto-assets and of compensation schemes;
-
-10. The law applicable to the crypto-assets, as well as the competent court.
-
-**Part H: Information on the underlying technology**
-
-1. Information on the technology used, including distributed ledger technology, protocols and technical standards used;
-
-2. The consensus mechanism, where applicable;
-
-3. Incentive mechanisms to secure transactions and any fees applicable;
-
-4. Where the crypto-assets are issued, transferred and stored using distributed ledger technology that is operated by the issuer, the offeror or a third-party acting on their behalf, a detailed description of the functioning of such distributed ledger technology;
-
-5. Information on the audit outcome of the technology used, if such an audit was conducted.
-
-**Part I: Information on the risks**
-
-1. A description of the risks associated with the offer to the public of crypto-assets or their admission to trading;
-
-2. A description of the risks associated with the issuer, if different from the offeror, or person seeking admission to trading;
-
-3. A description of the risks associated with the crypto-assets;
-
-4. A description of the risks associated with project implementation;
-
-5. A description of the risks associated with the technology used as well as mitigation measures, if any.
-
-<a id="anx_ii"></a>
-
-### ANNEX II
-
-**DISCLOSURE ITEMS FOR THE CRYPTO-ASSET WHITE PAPER FOR AN ASSET-REFERENCED TOKEN**
-
-**Part A: Information about the issuer of the asset-referenced token**
-
-1. Name;
-
-2. Legal form;
-
-3. Registered address and head office, where different;
-
-4. Date of the registration;
-
-5. Legal entity identifier or another identifier required pursuant to applicable national law;
-
-6. Where applicable, the identity of the parent company;
-
-7. Identity, business addresses and functions of persons that are members of the management body of the issuer;
-
-8. Business or professional activity of the issuer and, where applicable, of its parent company;
-
-9. The financial condition of the issuer over the past three years or, where the issuer has not been established for the past three years, its financial condition since the date of its registration. The financial condition shall be assessed based on a fair review of the development and performance of the business of the issuer and of its position for each year and interim period for which historical financial information is required, including the causes of material changes. The review shall be a balanced and comprehensive analysis of the development and performance of the issuer’s business and of its position, consistent with the size and complexity of the business.
-
-10. A detailed description of the issuer’s governance arrangements;
-
-11. Except for issuers of asset-referenced tokens that are exempted from authorisation in accordance with Article 17, details about the authorisation as an issuer of an asset-referenced token and name of the competent authority which granted such authorisation. For credit institutions, the name of the competent authority of the home Member State.
-
-12. Where the issuer of the asset-referenced token also issues other crypto-assets, or also has activities related to other crypto-assets, that should be clearly stated; the issuer should also state whether there is any connection between the issuer and the entity running the distributed ledger technology used to issue the crypto-asset, including if the protocols are run or controlled by a person closely connected to the project participants.
-
-**Part B: Information about the asset-referenced token**
-
-1. Name and abbreviation or ticker handler of the asset-referenced token;
-
-2. A description of the characteristics of the asset-referenced token, including the data necessary for classification of the crypto-asset white paper in the register referred to in Article 109, as specified in accordance with paragraph 8 of that Article;
-
-3. Details of all natural or legal persons (including business addresses or domicile of the company) involved in the operationalisation of the asset-referenced token, such as advisors, development team and crypto-asset service providers;
-
-4. A description of the role, responsibilities and accountability of any third-party entities referred to in Article 34(5), first subparagraph, point (h);
-
-5. Information about the plans for the asset-referenced tokens, including the description of the past and future milestones and, where applicable, resources already allocated.
-
-**Part C: Information about the offer to the public of the asset-referenced token or its admission to trading**
-
-1. Indication as to whether the crypto-asset white paper concerns an offer to the public of the asset-referenced token or its admission to trading;
-
-2. Where applicable, the amount that the offer to the public of the asset-referenced token intends to raise in funds or in any other crypto-asset, including, where applicable, any minimum and maximum target subscription goals set for the offer to the public of the asset-referenced token, and whether oversubscriptions are accepted and how they are allocated;
-
-3. Where applicable, the total number of units of the asset-referenced token to be offered or admitted to trading;
-
-4. Indication of the prospective holders targeted by the offer to the public of the asset-referenced token or admission of such asset-referenced token to trading, including any restriction as regards the type of holders for such asset-referenced token;
-
-5. A specific notice that purchasers participating in the offer to the public of the asset-referenced token will be able to be reimbursed if the minimum target subscription goal is not reached at the end of the offer to the public, including the expected timeline of when such refunds will be completed; the consequences of exceeding a maximum target subscription goal should be made explicit;
-
-6. Information about the various phases of the offer to the public of the asset-referenced token, including information on discounted purchase price for early purchasers of the asset-referenced token (pre-public sales) and, in the case of discounted purchase price for some purchasers, an explanation as to why the purchase prices may be different, and a description of the impact on the other investors;
-
-7. For time-limited offers, the subscription period during which the offer to the public is open;
-
-8. Methods of payment to purchase and to redeem the asset-referenced token offered;
-
-9. Information on the method and time schedule of transferring the purchased asset-referenced token to the holders;
-
-10. Information about technical requirements that the purchaser is required to fulfil to hold the asset-referenced token;
-
-11. Where applicable, the name of the crypto-asset service provider in charge of the placing of asset-referenced tokens and the form of such placement (with or without a firm commitment basis);
-
-12. Where applicable, the name of the trading platform for crypto-assets where admission to trading is sought, and information about how investors can access such trading platforms and the costs involved;
-
-13. Expenses related to the offer to the public of the asset-referenced token;
-
-14. Potential conflicts of interest of the persons involved in the offer to the public or admission to trading, arising in relation to the offer or admission to trading;
-
-15. The law applicable to the offer to the public of the asset-referenced token, as well as the competent court.
-
-**Part D: Information on the rights and obligations attached to the asset-referenced token**
-
-1. A description of the characteristics and functionality of the asset-referenced token being offered or admitted to trading, including information about when the functionalities are planned to apply;
-
-2. A description of the rights and obligations, if any, of the purchaser, and the procedure and conditions for the exercise of those rights;
-
-3. A description of the conditions under which the rights and obligations may be modified;
-
-4. Where applicable, information on the future offers to the public of the asset-referenced token by the issuer and the number of units of the asset-referenced token retained by the issuer itself;
-
-5. Where an admission to trading is not sought, information on how and where the asset-referenced token can be purchased or sold after the offer to the public;
-
-6. Any restrictions on the transferability of the asset-referenced token that is being offered or admitted to trading;
-
-7. Where the asset-referenced token has protocols for the increase or decrease of its supply in response to changes in demand, a description of the functioning of such protocols;
-
-8. Where applicable, a description of protection schemes protecting the value of the asset-referenced token and compensation schemes;
-
-9. Information on the nature and enforceability of rights, including permanent rights of redemption and any claims that holders and any legal or natural person as referred to in Article 39(2), may have against the issuer, including information on how such rights will be treated in the case of insolvency procedures, information on whether different rights are allocated to different holders and the non-discriminatory reasons for such different treatment;
-
-10. A detailed description of the claim that the asset-referenced token represents for holders, including: (a) the description of each referenced asset and specified proportions of each of those assets; (b) the relation between the value of the referenced assets and the amount of the claim and the reserve of assets; and (c) a description how a fair and transparent valuation of components of the claim is undertaken, which identifies, where relevant, independent parties;
-
-11. Where applicable, information on the arrangements put in place by the issuer to ensure the liquidity of the asset-referenced token, including the name of the entities in charge of ensuring such liquidity;
-
-12. The contact details for submitting complaints and description of the complaints-handling procedures and any dispute resolution mechanism or redress procedure established by the issuer of the asset-referenced token;
-
-13. A description of the rights of the holders when the issuer is not able to fulfil its obligations, including in insolvency;
-
-14. A description of the rights in the context of the implementation of the recovery plan;
-
-15. A description of the rights in the context of the implementation of the redemption plan;
-
-16. Detailed information on how the asset-referenced token is redeemed, including whether the holder will be able to choose the form of redemption, the form of transference or the official currency of redemption;
-
-17. The law applicable to the asset-referenced token, as well as the competent court.
-
-**Part E: Information on the underlying technology**
-
-1. Information on the technology used, including distributed ledger technology, as well as protocols and technical standards used, allowing for the holding, storing and transfer of asset-referenced tokens;
-
-2. The consensus mechanism, where applicable;
-
-3. Incentive mechanisms to secure transactions and any fees applicable;
-
-4. Where the asset-referenced tokens are issued, transferred and stored using distributed ledger technology that is operated by the issuer or a third-party acting on the issuer’s behalf, a detailed description of the functioning of such distributed ledger technology;
-
-5. Information on the audit outcome of the technology used, if such an audit was conducted.
-
-**Part F: Information on the risks**
-
-1. The risks related to the reserve of assets, when the issuer is not able to fulfil its obligations;
-
-2. A description of the risks associated with the issuer of the asset-referenced token;
-
-3. A description of the risks associated with the offer to the public of the asset-referenced token or its admission to trading;
-
-4. A description of the risks associated with the asset-referenced token, in particular with regard to the assets referenced;
-
-5. A description of the risks associated with the operationalisation of the asset-referenced token project;
-
-6. A description of the risks associated with the technology used as well as mitigation measures, if any.
-
-**Part G: Information on the reserve of assets**
-
-1. A detailed description of the mechanism aimed at aligning the value of the reserve of assets with the claim associated with the asset-referenced token, including legal and technical aspects;
-
-2. A detailed description of the reserve of assets and their composition;
-
-3. A description of the mechanisms through which asset-referenced tokens are issued and redeemed;
-
-4. Information on whether a part of the reserve assets are invested and, where applicable, a description of the investment policy for those reserve assets;
-
-5. A description of the custody arrangements for the reserve assets, including their segregation, and the name of crypto-asset service providers providing custody and administration of crypto-assets on behalf of clients, credit institutions or investment firms appointed as custodians of the reserve assets.
-
-<a id="anx_iii"></a>
-
-### ANNEX III
-
-**DISCLOSURE ITEMS FOR THE CRYPTO-ASSET WHITE PAPER FOR AN E-MONEY TOKEN**
-
-**Part A: Information about the issuer of the e-money token**
-
-1. Name;
-
-2. Legal form;
-
-3. Registered address and head office, where different;
-
-4. Date of the registration;
-
-5. Legal entity identifier or another identifier required pursuant to applicable national law;
-
-6. A contact telephone number and an email address of the issuer, and the period of days within which an investor contacting the issuer via that telephone number or email address will receive an answer;
-
-7. Where applicable, the identity of the parent company;
-
-8. Identity, business address and functions of persons that are members of the management body of the issuer;
-
-9. Business or professional activity of the issuer and, where applicable, of its parent company;
-
-10. Potential conflicts of interest;
-
-11. Where the issuer of the e-money token also issues other crypto-assets, or also has other activities related to crypto-assets, that should be clearly stated; the issuer should also state whether there is any connection between the issuer and the entity running the distributed ledger technology used to issue the crypto-asset, including if the protocols are run or controlled by a person closely connected to project participants;
-
-12. The issuer’s financial condition over the past three years or, where the issuer has not been established for the past three years, the issuer’s financial condition record since the date of its registration. The financial condition shall be assessed based on a fair review of the development and performance of the business of the issuer and of its position for each year and interim period for which historical financial information is required, including the causes of material changes. The review shall be a balanced and comprehensive analysis of the development and performance of the issuer’s business and of its position, consistent with the size and complexity of the business;
-
-13. Except for issuers of e-money tokens who are exempted from authorisation in accordance with Article 48(4) and (5), details about the authorisation as an issuer of an e-money token and the name of the competent authority which granted authorisation.
-
-**Part B: Information about the e-money token**
-
-1. Name and abbreviation;
-
-2. A description of the characteristics of the e-money token, including the data necessary for classification of the crypto-asset white paper in the register referred to in Article 109, as specified in accordance with paragraph 8 of that Article;
-
-3. Details of all natural or legal persons (including business addresses and/or domicile of the company) involved in the design and development, such as advisors, development team and crypto-asset service providers.
-
-**Part C: Information about the offer to the public of the e-money token or its admission to trading**
-
-1. Indication as to whether the crypto-asset white paper concerns an offer to the public of the e-money token or its admission to trading;
-
-2. Where applicable, the total number of units of the e-money token to be offered to the public or admitted to trading;
-
-3. Where applicable, name of the trading platforms for crypto-assets where the admission to trading of the e-money token is sought;
-
-4. The law applicable to the offer to the public of the e-money token, as well as the competent court.
-
-**Part D: Information on the rights and obligations attached to e-money tokens**
-
-1. A detailed description of the rights and obligations, if any, that the holder of the e-money token has, including the right of redemption at par value as well as the procedure and conditions for the exercise of those rights;
-
-2. A description of the conditions under which the rights and obligations may be modified;
-
-3. A description of the rights of the holders when the issuer is not able to fulfil its obligations, including in insolvency;
-
-4. A description of rights in the context of the implementation of the recovery plan;
-
-5. A description of rights in the context of the implementation of the redemption plan;
-
-6. The contact details for submitting complaints and description of the complaints-handling procedures and any dispute resolution mechanism or redress procedure established by the issuer of the e-money token;
-
-7. Where applicable, a description of protection schemes protecting the value of the crypto-asset and of compensation schemes;
-
-8. The law applicable to the e-money token as well as the competent court.
-
-**Part E: Information on the underlying technology**
-
-1. Information on the technology used, including distributed ledger technology, as well as the protocols and technical standards used, allowing for the holding, storing and transfer of e-money tokens;
-
-2. Information about the technical requirements that the purchaser has to fulfil to gain control over the e-money token;
-
-3. The consensus mechanism, where applicable;
-
-4. Incentive mechanisms to secure transactions and any fees applicable;
-
-5. Where the e-money token is issued, transferred and stored using distributed ledger technology that is operated by the issuer or a third-party acting on its behalf, a detailed description of the functioning of such distributed ledger technology;
-
-6. Information on the audit outcome of the technology used, if such an audit was conducted.
-
-**Part F: Information on the risks**
-
-1. Description of the risks associated with the issuer of the e-money token;
-
-2. Description of the risks associated with the e-money token;
-
-3. Description of the risks associated with the technology used as well as mitigation measures, if any.
-
-<a id="anx_iv"></a>
-
-### ANNEX IV
-
-**MINIMUM CAPITAL REQUIREMENTS FOR CRYPTO-ASSET SERVICE PROVIDERS**
-
-| Crypto-asset service providers | Type of crypto-asset services | Minimum capital requirements under Article 67(1), point (a) |
-| --- | --- | --- |
-| Class 1 | Crypto-asset service provider authorised for the following crypto-asset services:execution of orders on behalf of clients;placing of crypto-assets;providing transfer services for crypto-assets on behalf of clients;reception and transmission of orders for crypto-assets on behalf of clients;providing advice on crypto-assets; and/orproviding portfolio management on crypto-assets. | EUR 50000 |
-| Class 2 | Crypto-asset service provider authorised for any crypto-asset services under class 1 and:providing custody and administration of crypto-assets on behalf of clients;exchange of crypto-assets for funds; and/orexchange of crypto-assets for other crypto-assets. | EUR 125000 |
-| Class 3 | Crypto-asset service provider authorised for any crypto-asset services under class 2 and:operation of a trading platform for crypto-assets. | EUR 150000 |
-
-<a id="anx_v"></a>
-
-### ANNEX V
-
-**LIST OF INFRINGEMENTS REFERRED TO IN TITLES III AND VI FOR ISSUERS OF SIGNIFICANT ASSET-REFERENCED TOKENS**
-
-1. The issuer infringes Article 22(1) by not reporting, for each significant asset-referenced token with an issue value that is higher than EUR 100000000, on a quarterly basis to EBA the information referred to in the first subparagraph, points (a) to (d), of that paragraph.
-
-2. The issuer infringes Article 23(1) by not stopping issuing a significant asset-referenced token upon reaching the thresholds provided for in that paragraph or by not submitting a plan to EBA within 40 working days of reaching those thresholds to ensure that the estimated quarterly average number and average aggregate value of the transactions per day are kept below those thresholds.
-
-3. The issuer infringes Article 23(4) by not complying with the modifications of the plan referred to in paragraph 1, point (b), of that Article as required by EBA.
-
-4. The issuer infringes Article 25 by not notifying EBA of any intended change of its business model likely to have a significant influence on the purchase decision of any holders or prospective holders of significant asset-referenced tokens, or by not describing such a change in a crypto-asset white paper.
-
-5. The issuer infringes Article 25 by not complying with a measure requested by EBA in accordance with Article 25(4).
-
-6. The issuer infringes Article 27(1) by not acting honestly, fairly and professionally.
-
-7. The issuer infringes Article 27(1) by not communicating with holders and prospective holders of the significant asset-referenced token in a fair, clear and not misleading manner.
-
-8. The issuer infringes Article 27(2) by not acting in the best interests of the holders of the significant asset-referenced token, or by giving preferential treatment to specific holders which is not disclosed in the issuer’s crypto-asset white paper or, where applicable, the marketing communications.
-
-9. The issuer infringes Article 28 by not publishing on its website the approved crypto-asset white paper as referred to in Article 21(1) and, where applicable, the modified crypto-asset white paper as referred to in Article 25.
-
-10. The issuer infringes Article 28 by not making the crypto-asset white paper publicly accessible by the starting date of the offer to the public of the significant asset-referenced token or the admission to trading of that token.
-
-11. The issuer infringes Article 28 by not ensuring that the crypto-asset white paper, and, where applicable, the modified crypto-asset white paper, remains available on its website for as long as the significant asset-referenced token is held by the public.
-
-12. The issuer infringes Article 29(1) and (2) by publishing marketing communications relating to an offer to the public of a significant asset-referenced token, or to the admission to trading of such significant asset-referenced token, which do not comply with the requirements set out in paragraph 1, points (a) to (d), and paragraph 2 of that Article.
-
-13. The issuer infringes Article 29(3) by not publishing marketing communications and any modifications thereto on its website.
-
-14. The issuer infringes Article 29(5) by not notifying marketing communications to EBA upon request.
-
-15. The issuer infringes Article 29(6) by disseminating marketing communications prior to the publication of the crypto-asset white paper.
-
-16. The issuer infringes Article 30(1) by not disclosing in a clear, accurate and transparent manner in a publicly and easily accessible place on its website the amount of the significant asset-referenced token in circulation and the value and composition of the reserve of assets referred to in Article 36, or by not updating the required information at least monthly.
-
-17. The issuer infringes Article 30(2) by not publishing as soon as possible in a publicly and easily accessible place on its website a brief, clear, accurate and transparent summary of the audit report, as well as the full and unredacted audit report, in relation to the reserve of assets referred to in Article 36.
-
-18. The issuer infringes Article 30(3) by not disclosing in a publicly and easily accessible place on its website in a clear, accurate and transparent manner as soon as possible any event that has or is likely to have a significant effect on the value of the significant asset-referenced token or on the reserve of assets referred to in Article 36.
-
-19. The issuer infringes Article 31(1) by not establishing and maintaining effective and transparent procedures for the prompt, fair and consistent handling of complaints received from holders of the significant asset-referenced token and other interested parties, including consumer associations that represent holders of the significant asset-referenced token, and by not publishing descriptions of those procedures, or, where the significant asset-referenced token is distributed, totally or partially, by third-party entities, by not establishing procedures to also facilitate the handling of complaints between holders and third-party entities as referred to in Article 34(5), first subparagraph, point (h).
-
-20. The issuer infringes Article 31(2) by not enabling the holders of the significant asset-referenced token to file complaints free of charge.
-
-21. The issuer infringes Article 31(3) by not developing and making available to the holders of the significant asset-referenced token a template for filing complaints and by not keeping a record of all complaints received and any measures taken in response to those complaints.
-
-22. The issuer infringes Article 31(4), by not investigating all complaints in a timely and fair manner or by not communicating the outcome of such investigations to the holders of its significant asset-referenced token within a reasonable period.
-
-23. The issuer infringes Article 32(1) by not implementing and maintaining effective policies and procedures to identify, prevent, manage and disclose conflicts of interest between the issuer itself and its shareholders or members, itself and any shareholder or member, whether direct or indirect, that has a qualifying holding in it, itself and the members of its management body, itself and its employees, itself and the holders of the significant asset-referenced token or itself and any third party providing one of the functions as referred in Article 34(5), first subparagraph, point (h).
-
-24. The issuer infringes Article 32(2) by not taking all appropriate steps to identify, prevent, manage and disclose conflicts of interest arising from the management and investment of the reserve of assets referred to in Article 36.
-
-25. The issuer infringes Article 32(3) and (4), by not disclosing, in a prominent place on its website, to the holders of the significant asset-referenced token the general nature and sources of conflicts of interest and the steps taken to mitigate those risks, or by not being sufficiently precise in the disclosure to enable the prospective holders of the significant asset-referenced token to take an informed purchasing decision about such token.
-
-26. The issuer infringes Article 33 by not immediately notifying EBA of any changes to its management body or by not providing EBA with all necessary information to assess compliance with Article 34(2).
-
-27. The issuer infringes Article 34(1) by not having robust governance arrangements, including a clear organisational structure with well-defined, transparent and consistent lines of responsibility, effective processes to identify, manage, monitor and report the risks to which it is or might be exposed, and adequate internal control mechanisms, including sound administrative and accounting procedures.
-
-28. The issuer infringes Article 34(2) by having members of its management body who are not of sufficiently good repute or do not possess the appropriate knowledge, skills and experience, both individually and collectively, to perform their duties or do not demonstrate that they are capable of committing sufficient time to effectively perform their duties.
-
-29. The issuer infringes Article 34(3) by not having its management body assess or periodically review the effectiveness of the policy arrangements and procedures put in place to comply with Chapters 2, 3, 5 and 6 of Title III or by not taking appropriate measures to address any deficiencies in that respect.
-
-30. The issuer infringes Article 34(4) by having shareholders or members, whether direct or indirect, with qualifying holdings who are not of sufficiently good repute.
-
-31. The issuer infringes Article 34(5) by not adopting policies and procedures that are sufficiently effective to ensure compliance with this Regulation, in particular by not establishing, maintaining and implementing any of the policies and procedures referred to in the first subparagraph, points (a) to (k), of that paragraph.
-
-32. The issuer infringes Article 34(5) by not entering into contractual arrangements with third-party entities as referred to in the first subparagraph, point (h), of that paragraph that set out the roles, responsibilities, rights and obligations both of the issuer and of the third-party entity concerned, or by not providing for an unambiguous choice of applicable law.
-
-33. The issuer infringes Article 34(6), unless it has initiated a plan as referred to in Article 47, by not employing appropriate and proportionate systems, resources or procedures to ensure the continued and regular performance of its services and activities, and by not maintaining all of its systems and security access protocols in conformity with the appropriate Union standards.
-
-34. The issuer infringes Article 34(7) by not submitting a plan for discontinuation of providing services and activities to EBA, for approval of such discontinuation.
-
-35. The issuer infringes Article 34(8) by not identifying sources of operational risks and by not minimising those risks through the development of appropriate systems, controls and procedures.
-
-36. The issuer infringes Article 34(9) by not establishing a business continuity policy and plans to ensure, in the case of an interruption of its ICT systems and procedures, the preservation of essential data and functions and the maintenance of its activities, or, where that is not possible, the timely recovery of such data and functions and the timely resumption of its activities.
-
-37. The issuer infringes Article 34(10) by not having in place internal control mechanisms and effective procedures for risk management, including effective control and safeguard arrangements for managing ICT systems as required by Regulation (EU) 2022/2554.
-
-38. The issuer infringes Article 34(11) by not having in place systems and procedures that are adequate to safeguard the availability, authenticity, integrity and confidentiality of data as required by Regulation (EU) 2022/2554 and in line with Regulation (EU) 2016/679.
-
-39. The issuer infringes Article 34(12) by not ensuring that the issuer is regularly audited by independent auditors.
-
-40. The issuer infringes Article 35(1) by not having, at all times, own funds equal to amounts of at least the highest of that set in point (a) or (c) of that paragraph or in Article 45(5).
-
-41. The issuer infringes Article 35(2) of this Regulation where its own funds do not consist of the Common Equity Tier 1 items and instruments referred to in Articles 26 to 30 of Regulation (EU) No 575/2013 after the deductions in full, pursuant to Article 36 of that Regulation, without the application of threshold exemptions referred to in Article 46(4) and Article 48 of that Regulation.
-
-42. The issuer infringes Article 35(3) by not complying with the requirement of EBA to hold a higher amount of own funds, following the assessment made in accordance with points (a) to (g) of that paragraph.
-
-43. The issuer infringes Article 35(5) by not conducting, on a regular basis, stress testing that takes into account severe but plausible financial stress scenarios, such as interest rate shocks and non-financial stress scenarios such as operational risk.
-
-44. The issuer infringes Article 35(5) by not complying with the requirement of EBA to hold a higher amount of own funds based on the outcome of the stress testing.
-
-45. The issuer infringes Article 36(1) by not constituting and, at all times, maintaining a reserve of assets.
-
-46. The issuer infringes Article 36(1) by not ensuring that the reserve of assets is composed and managed in such a way that the risks associated to the assets referenced by the significant asset-referenced token are covered.
-
-47. The issuer infringes Article 36(1) by not ensuring that the reserve of assets is composed and managed in such a way that the liquidity risks associated to the permanent rights of redemption of the holders are addressed.
-
-48. The issuer infringes Article 36(3) by not ensuring that the reserve of assets is operationally segregated from the issuer’s estate, and from the reserve of assets of other asset-referenced tokens.
-
-49. The issuer infringes Article 36(6) where its management body does not ensure effective and prudent management of the reserve of assets.
-
-50. The issuer infringes Article 36(6) by not ensuring that the issuance and redemption of the significant asset-referenced token is always matched by a corresponding increase or decrease in the reserve of assets.
-
-51. The issuer infringes Article 36(7) by not determining the aggregate value of the reserve of assets using market prices, and by not having its aggregate value always at least equal to the aggregate value of the claims against the issuer from holders of the significant asset-referenced token in circulation.
-
-52. The issuer infringes Article 36(8), by not having a clear and detailed policy describing the stabilisation mechanism of the significant asset-referenced token that meets the conditions set out in points (a) to (g) of that paragraph.
-
-53. The issuer infringes Article 36(9) by not mandating an independent audit of the reserve of assets every six months, as of the date of its authorisation or as of the date of approval of the crypto-asset white paper pursuant to Article 17.
-
-54. The issuer infringes Article 36(10) by not notifying to EBA the result of the audit in accordance with that paragraph or by not publishing the result of the audit within two weeks of the date of notification to EBA.
-
-55. The issuer infringes Article 37(1) by not establishing, maintaining or implementing custody policies, procedures and contractual arrangements that ensure at all times that the conditions listed in the first subparagraph, points (a) to (e), of that paragraph are met.
-
-56. The issuer infringes Article 37(2) by not having, when issuing two or more significant asset-referenced tokens, a custody policy in place for each pool of reserve of assets.
-
-57. The issuer infringes Article 37(3) by not ensuring that the reserve assets are held in custody by a crypto-asset service provider providing custody and administration of crypto-assets on behalf of clients, a credit institution or an investment firm by no later than five working days after the date of issuance of the significant asset-referenced token.
-
-58. The issuer infringes Article 37(4) by not exercising all due skill, care and diligence in the selection, appointment and review of crypto-asset service providers, credit institutions and investment firms appointed as custodians of the reserve assets, or by not ensuring that the custodian is a legal person different from the issuer.
-
-59. The issuer infringes Article 37(4) by not ensuring that the crypto-asset service providers, credit institutions and investment firms appointed as custodians of the reserve assets have the necessary expertise and market reputation to act as custodians of such reserve assets.
-
-60. The issuer infringes Article 37(4) by not ensuring in the contractual arrangements with the custodians that the reserve assets held in custody are protected against claims of the custodians’ creditors.
-
-61. The issuer infringes Article 37(5) by not setting out in the custody policies and procedures the selection criteria for the appointment of crypto-asset service providers, credit institutions or investment firms as custodians of the reserve assets or by not setting out the procedure for reviewing such appointment.
-
-62. The issuer infringes Article 37(5) by not reviewing the appointment of crypto-asset service providers, credit institutions or investment firms as custodians of the reserve assets on a regular basis, by not evaluating its exposures to such custodians or by not monitoring the financial conditions of such custodians on an ongoing basis.
-
-63. The issuer infringes Article 37(6) by not ensuring that custody of the reserve assets is carried out in accordance with the first subparagraph, points (a) to (d), of that paragraph.
-
-64. The issuer infringes Article 37(7) by not having the appointment of a crypto-asset service provider, credit institution or investment firm as custodian of the reserve assets evidenced by a contractual arrangement, or by not regulating, by means of such a contractual arrangement, the flow of information necessary to enable the issuer of the significant asset-referenced token, the crypto-asset service provider, the credit institution and the investment firm to perform their functions as custodians.
-
-65. The issuer infringes Article 38(1) by investing the reserve of assets in any products that are not highly liquid financial instruments with minimal market risk, credit risk and concentration risks or where such investments cannot be liquidated rapidly with minimal adverse price effect.
-
-66. The issuer infringes Article 38(3) by not holding in custody in accordance with Article 37 the financial instruments in which the reserve of assets is invested.
-
-67. The issuer infringes Article 38(4) by not bearing all profits and losses and any counterparty or operational risks that result from the investment of the reserve of assets.
-
-68. The issuer infringes Article 39(1), by not establishing, maintaining and implementing clear and detailed policies and procedures in respect of permanent rights of redemption of holders of the significant asset-referenced token.
-
-69. The issuer infringes Article 39(1) and (2) by not ensuring that holders of the significant asset-referenced token have permanent rights of redemption in accordance with those paragraphs, and by not establishing a policy on such permanent rights of redemption that meets the conditions listed in Article 39(2), first subparagraph, points (a) to (e).
-
-70. The issuer infringes Article 39(3) by applying fees in the event of the redemption of the significant asset-referenced token.
-
-71. The issuer infringes Article 40 by granting interest in relation to the significant asset-referenced token.
-
-72. The issuer infringes Article 45(1) by not adopting, implementing and maintaining a remuneration policy that promotes the sound and effective risk management of issuers of significant asset-referenced tokens and that does not create incentives to relax risk standards.
-
-73. The issuer infringes Article 45(2) by not ensuring that its significant asset-referenced token can be held in custody by different crypto-asset service providers authorised for providing custody and administration of crypto-assets on behalf of clients, on a fair, reasonable and non-discriminatory basis.
-
-74. The issuer infringes Article 45(3) by not assessing or monitoring the liquidity needs to meet requests for redemption of the significant asset-referenced token by its holders.
-
-75. The issuer infringes Article 45(3) by not establishing, maintaining or implementing a liquidity management policy and procedures or by not ensuring, with those policy and procedures, that the reserve assets have a resilient liquidity profile that enables the issuer of the significant asset-referenced token to continue operating normally, including under scenarios of liquidity stress.
-
-76. The issuer infringes Article 45(4) by not conducting, on a regular basis, liquidity stress testing or by not strengthening the liquidity requirements where requested by EBA based on the outcome of such tests.
-
-77. The issuer infringes Article 46(1) by not drawing up and maintaining a recovery plan providing for measures to be taken by the issuer of the significant asset-referenced token to restore compliance with the requirements applicable to the reserve of assets in cases where the issuer fails to comply with those requirements, including the preservation of its services related to the significant asset-referenced token, the timely recovery of operations and the fulfilment of the issuer’s obligations in the case of events that pose a significant risk of disrupting operations.
-
-78. The issuer infringes Article 46(1) by not drawing up and maintaining a recovery plan that includes appropriate conditions and procedures to ensure the timely implementation of recovery actions as well as a wide range of recovery options, as listed in the third subparagraph of that paragraph.
-
-79. The issuer infringes Article 46(2) by not notifying the recovery plan to EBA and, where applicable, to its resolution and prudential supervisory authorities, within six months of the date of authorisation pursuant to Article 21 or of the date of approval of the crypto-asset white paper pursuant to Article 17.
-
-80. The issuer infringes Article 46(2) by not regularly reviewing or updating the recovery plan.
-
-81. The issuer infringes Article 47(1) by not drawing up and maintaining an operational plan to support the orderly redemption of each significant asset-referenced token.
-
-82. The issuer infringes Article 47(2) by not having a redemption plan that demonstrates the ability of the issuer of the significant asset-referenced token to carry out the redemption of the outstanding significant asset-referenced token issued without causing undue economic harm to its holders or to the stability of the markets of the reserve assets.
-
-83. The issuer infringes Article 47(2) by not having a redemption plan that includes contractual arrangements, procedures or systems, including the designation of a temporary administrator, to ensure the equitable treatment of all holders of the significant asset-referenced token and to ensure that holders of the significant asset-referenced token are paid in a timely manner with the proceeds from the sale of the remaining reserve assets.
-
-84. The issuer infringes Article 47(2) by not having a redemption plan that ensures the continuity of any critical activities that are necessary for the orderly redemption and that are performed by the issuer or by any third-party entity.
-
-85. The issuer infringes Article 47(3) by not notifying the redemption plan to EBA within six months of the date of authorisation pursuant to Article 21 or of the date of approval of the crypto-asset white paper pursuant to Article 17.
-
-86. The issuer infringes Article 47(3) by not regularly reviewing or updating the redemption plan.
-
-87. The issuer infringes Article 88(1), except where the conditions of Article 88(2) are met, by not informing the public as soon as possible of inside information as referred to in Article 87, that directly concerns that issuer, in a manner that enables fast access and complete, correct and timely assessment of the information by the public.
-
-<a id="anx_vi"></a>
-
-### ANNEX VI
-
-**LIST OF INFRINGEMENTS OF PROVISIONS REFERRED TO IN TITLE IV IN CONJUNCTION WITH TITLE III FOR ISSUERS OF SIGNIFICANT E-MONEY TOKENS**
-
-1. The issuer infringes Article 22(1) by not reporting, for each significant e-money token denominated in a currency that is not an official currency of a Member State with an issue value that is higher than EUR 100000000, on a quarterly basis to EBA, the information referred to in the first subparagraph, points (a) to (d), of that paragraph.
-
-2. The issuer infringes Article 23(1) by not stopping issuing a significant e-money token denominated in a currency that is not an official currency of a Member State upon reaching the thresholds provided for in that paragraph or by not submitting a plan to EBA within 40 working days of reaching those thresholds to ensure that the estimated quarterly average number and average aggregate value of the transactions per day are kept below those thresholds.
-
-3. The issuer infringes Article 23(4) by not complying with the modifications of the plan referred to in paragraph 1, point (b), of that Article as required by EBA.
-
-4. The issuer infringes Article 35(2) of this Regulation where its own funds do not consist of the Common Equity Tier 1 items and instruments referred to in Articles 26 to 30 of Regulation (EU) No 575/2013 after the deductions in full, pursuant to Article 36 of that Regulation, without the application of threshold exemptions referred to in Article 46(4) and Article 48 of that Regulation.
-
-5. The issuer infringes Article 35(3) by not complying with the requirement of EBA to hold a higher amount of own funds, following the assessment made in accordance with points (a) to (g) of that paragraph.
-
-6. The issuer infringes Article 35(5) by not conducting, on a regular basis, stress testing that takes into account severe but plausible financial stress scenarios, such as interest rate shocks, and non-financial stress scenarios, such as operational risk.
-
-7. The issuer infringes Article 35(5) by not complying with the requirement of EBA to hold a higher amount of own funds based on the outcome of the stress testing.
-
-8. The issuer infringes Article 36(1) by not constituting and, at all times, maintaining a reserve of assets.
-
-9. The issuer infringes Article 36(1) by not ensuring that the reserve of assets is composed and managed in such a way that the risks associated to the official currency referenced by the significant e-money token are covered.
-
-10. The issuer infringes Article 36(1) by not ensuring that the reserve of assets is composed and managed in such a way that the liquidity risks associated to the permanent rights of redemption of the holders are addressed.
-
-11. The issuer infringes Article 36(3) by not ensuring that the reserve of assets is operationally segregated from the issuer’s estate, and from the reserve of assets of other e-money tokens.
-
-12. The issuer infringes Article 36(6) where its management body does not ensure effective and prudent management of the reserve of assets.
-
-13. The issuer infringes Article 36(6) by not ensuring that the issuance and redemption of the significant e-money token is always matched by a corresponding increase or decrease in the reserve of assets.
-
-14. The issuer infringes Article 36(7) by not determining the aggregate value of the reserve of assets by using market prices, and by not having its aggregate value always at least equal to the aggregate value of the claims against the issuer from the holders of the significant e-money token in circulation.
-
-15. The issuer infringes Article 36(8) by not having a clear and detailed policy describing the stabilisation mechanism of the significant e-money token that meets the conditions set out in points (a) to (g) of that paragraph.
-
-16. The issuer infringes Article 36(9) by not mandating an independent audit of the reserve of assets every six months after the date of the offer to the public or admission to trading.
-
-17. The issuer infringes Article 36(10) by not notifying to EBA the result of the audit in accordance with that paragraph or by not publishing the result of the audit within two weeks of the date of notification to EBA.
-
-18. The issuer infringes Article 37(1) by not establishing, maintaining or implementing custody policies, procedures and contractual arrangements that ensure at all times that the conditions listed in the first subparagraph, points (a) to (e), of that paragraph are met.
-
-19. The issuer infringes Article 37(2) by not having, when issuing two or more significant e-money tokens, a custody policy in place for each pool of reserve of assets.
-
-20. The issuer infringes Article 37(3) by not ensuring that the reserve assets are held in custody by a crypto-asset service provider providing custody and administration of crypto-assets on behalf of clients, a credit institution or an investment firm by no later than five working days after the date of issuance of the significant e-money token.
-
-21. The issuer infringes Article 37(4) by not exercising all due skill, care and diligence in the selection, appointment and review of crypto-asset service providers, credit institutions and investment firms appointed as custodians of the reserve assets or by not ensuring that the custodian is a legal person different from the issuer.
-
-22. The issuer infringes Article 37(4) by not ensuring that the crypto-asset service providers, credit institutions and investment firms appointed as custodians of the reserve assets have the necessary expertise and market reputation to act as custodians of such reserve assets.
-
-23. The issuer infringes Article 37(4) by not ensuring in the contractual arrangements with the custodians that the reserve assets held in custody are protected against claims of the custodians’ creditors.
-
-24. The issuer infringes Article 37(5) by not setting out in the custody policies and procedures the selection criteria for the appointment of crypto-asset service providers, credit institutions or investment firms as custodians of the reserve assets or by not setting out the procedure for reviewing such appointment.
-
-25. The issuer infringes Article 37(5) by not reviewing the appointment of crypto-asset service providers, credit institutions or investment firms as custodians of the reserve assets on a regular basis, and by not evaluating its exposures to such custodians, or by not monitoring the financial conditions of such custodians on an ongoing basis.
-
-26. The issuer infringes Article 37(6) by not ensuring that the custody of the reserve assets is carried out in accordance with the first subparagraph, points (a) to (d), of that paragraph.
-
-27. The issuer infringes Article 37(7) by not having the appointment of a crypto-asset service provider, credit institution or investment firm as custodian of the reserve assets evidenced by a contractual arrangement, or by not regulating, by means of such a contractual arrangement, the flow of information necessary to enable the issuer of the significant e-money token, the crypto-asset service provider, the credit institutions and the investment firm to perform their functions as custodians.
-
-28. The issuer infringes Article 38(1) by investing the reserve of assets in any products that are not highly liquid financial instruments with minimal market risk, credit risk and concentration risks or where such investments cannot be liquidated rapidly with minimal adverse price effect.
-
-29. The issuer infringes Article 38(3) by not holding in custody in accordance with Article 37 the financial instruments in which the reserve of assets is invested.
-
-30. The issuer infringes Article 38(4) by not bearing all profits and losses and any counterparty or operational risks that result from the investment of the reserve of assets.
-
-31. The issuer infringes Article 45(1) by not adopting, implementing and maintaining a remuneration policy that promotes the sound and effective risk management of issuers of significant e-money tokens and that does not create incentives to relax risk standards.
-
-32. The issuer infringes Article 45(2) by not ensuring that its significant e-money token can be held in custody by different crypto-asset service providers authorised for providing custody and administration of crypto-assets on behalf of clients on a fair, reasonable and non-discriminatory basis.
-
-33. The issuer infringes Article 45(3) by not assessing or monitoring the liquidity needs to meet requests for redemption of the significant e-money token by its holders.
-
-34. The issuer infringes Article 45(3) by not establishing, maintaining or implementing a liquidity management policy and procedures or by not ensuring, with those policy and procedures, that the reserve assets have a resilient liquidity profile that enables the issuer of the significant e-money token to continue operating normally, including under liquidity stressed scenarios.
-
-35. The issuer infringes Article 45(4) by not conducting, on a regular basis, liquidity stress testing or by not strengthening the liquidity requirements where requested by EBA based on the outcome of such tests.
-
-36. The issuer infringes Article 45(5) by not complying, at all times, with the own funds requirement.
-
-37. The issuer infringes Article 46(1) by not drawing up and maintaining a recovery plan providing for measures to be taken by the issuer of significant e-money tokens to restore compliance with the requirements applicable to the reserve of assets in cases where the issuer fails to comply with those requirements, including the preservation of its services related to the significant e-money token, the timely recovery of operations and the fulfilment of the issuer’s obligations in the case of events that pose a significant risk of disrupting operations.
-
-38. The issuer infringes Article 46(1) by not drawing up and maintaining a recovery plan that includes appropriate conditions and procedures to ensure the timely implementation of recovery actions as well as a wide range of recovery options, as listed in the third subparagraph, points (a), (b) and (c), of that paragraph.
-
-39. The issuer infringes Article 46(2) by not notifying the recovery plan to EBA and, where applicable, to its resolution and prudential supervisory authorities, within six months of the date of the offer to the public or admission to trading.
-
-40. The issuer infringes Article 46(2) by not regularly reviewing or updating the recovery plan.
-
-41. The issuer infringes Article 47(1) by not drawing up and maintaining an operational plan that supports the orderly redemption of each significant e-money token.
-
-42. The issuer infringes Article 47(2) by not having a redemption plan that demonstrates the ability of the issuer of the significant e-money token to carry out the redemption of the outstanding significant e-money token issued without causing undue economic harm to its holders or to the stability of the markets of the reserve assets.
-
-43. The issuer infringes Article 47(2) by not having a redemption plan that includes contractual arrangements, procedures or systems, including the designation of a temporary administrator, to ensure the equitable treatment of all holders of the significant e-money token and to ensure that holders of the significant e-money token are paid in a timely manner with the proceeds from the sale of the remaining reserve assets.
-
-44. The issuer infringes Article 47(2) by not having a redemption plan that ensures the continuity of any critical activities that are necessary for the orderly redemption and that are performed by the issuer or by any third-party entities.
-
-45. The issuer infringes Article 47(3) by not notifying the redemption plan to EBA within six months of the date of the offer to the public or admission to trading.
-
-46. The issuer infringes Article 47(3) by not regularly reviewing or updating the redemption plan.

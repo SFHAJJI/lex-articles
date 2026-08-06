@@ -1,0 +1,230 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r0180:2016-10-24",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2017/180 of 24 October 2016 supplementing Directive 2013/36/EU",
+  "valid_from": "2016-10-24",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r0180/versions/2016-10-24/fr.xml",
+    "sha256": "c9c2e6538f71c1a70a546da6bce8d22436c55337996a2360f26d3bf9dec4d26e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R0180"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r0180:2016-10-24#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Les autorités compétentes qui, conformément à l'article 78, paragraphe 3, de la directive 2013/36/UE, procèdent à une évaluation annuelle de la qualité des approches internes utilisées par les établissements de crédit partagent ces évaluations avec toutes les autres autorités compétentes concernées ainsi qu'avec l'Autorité bancaire européenne (ABE) dans un délai de trois mois à compter de la date de diffusion du rapport de l'ABE visé à l'article 78, paragraphe 3, deuxième alinéa, de ladite directive.\n\n2. Après réception des évaluations visées au paragraphe 1, l'ABE les communique aux autorités compétentes concernées chargées de surveiller les établissements appartenant à un groupe soumis à une surveillance consolidée, si les autorités compétentes qui ont établi ces évaluations ne l'ont pas déjà fait.",
+      "text_sha256": "5edc7d25efbdd3bb6a8133914f81390520c9e627ac199c5d2a03bda1567c45f0",
+      "md_span": {
+        "start": 644,
+        "end": 1475
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r0180:2016-10-24#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nDans le cadre du partage des évaluations au titre de l'article 78, paragraphe 3, de la directive 2013/36/UE, les autorités compétentes fournissent les informations suivantes:\n\n| a) | les conclusions et la justification de leur évaluation, sur la base de l'application des normes d'évaluation visées aux articles 3 à 11; |\n| --- | --- |\n\n| b) | leur point de vue sur le niveau de sous-estimation potentielle des exigences de fonds propres résultant des approches internes utilisées par les établissements. |\n| --- | --- |",
+      "text_sha256": "733d793772eed2f0c8563a3ede5fea5d8ca64b8c38bae4b7880b07f77d4da927",
+      "md_span": {
+        "start": 1508,
+        "end": 2039
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32017r0180:2016-10-24#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. Lorsqu'elles procèdent à l'évaluation visée à l'article 78, paragraphe 3, premier alinéa, de la directive 2013/36/UE, les autorités compétentes identifient les approches internes qui requièrent une évaluation spécifique, de façon proportionnée à la nature, à l'ampleur et à la complexité des risques inhérents au modèle d'entreprise, et déterminent la pertinence des portefeuilles figurant dans le règlement d'exécution (UE) 2016/2070 pour l'établissement eu égard à son profil de risque. Elles tiennent compte également, comme suit, de l'analyse contenue dans le rapport de l'ABE visé à l'article 78, paragraphe 3, deuxième alinéa, de la directive 2013/36/UE:\n\n| a) | elles traitent les valeurs résultant de la modélisation qui sont considérées comme extrêmes dans le rapport de l'ABE comme une indication de différences significatives dans les exigences de fonds propres, au sens de l'article 78, paragraphe 3, premier alinéa, de la directive 2013/36/UE; |\n| --- | --- |\n\n| b) | elles traitent les valeurs résultant de la modélisation et l'écart type de ces valeurs pour les expositions incluses dans le même portefeuille de référence ou dans des portefeuilles de référence similaires identifiés dans le rapport de l'ABE comme une première indication, selon le cas, de différences significatives et de diversité faible ou élevée dans les exigences de fonds propres au sens de l'article 78, paragraphe 3, premier alinéa, de la directive 2013/36/UE; |\n| --- | --- |\n\n| c) | elles traitent les différences potentielles calculées conformément à l'article 4 du présent règlement comme une première indication de sous-estimation significative et systématique des exigences de fonds propres au sens de l'article 78, paragraphe 3, premier alinéa, de la directive 2013/36/UE; |\n| --- | --- |\n\n| d) | elles traitent les différences potentielles entre les paramètres de risque estimés déclarés par les établissements dans le cadre du règlement d'exécution (UE) 2016/2070 et les paramètres de risque observés historiquement communiqués par les établissements conformément à ce règlement d'exécution comme une première indication de différences significatives dans les exigences de fonds propres au sens de l'article 78, paragraphe 3, premier alinéa, de la directive 2013/36/UE; |\n| --- | --- |\n\n| e) | elles traitent les différences potentielles entre les exigences de fonds propres pour risque de crédit telles que communiquées par les établissements dans le cadre du règlement d'exécution (UE) 2016/2070 et les exigences de fonds propres pour risque de crédit qui résultent de l'utilisation par les établissements des paramètres de risque observés historiquement conformément à ce règlement d'exécution, ou calculées par l'ABE dans son rapport visé à l'article 78, paragraphe 3, deuxième alinéa, de la directive 2013/36/UE, comme une première indication de sous-estimation significative et systématique des exigences de fonds propres au sens de l'article 78, paragraphe 3, premier alinéa, de ladite directive. Dans leur utilisation du rapport transmis par l'ABE, les autorités compétentes peuvent prendre en considération les limitations éventuelles des données et en tenir compte le cas échéant dans leur évaluation. |\n| --- | --- |\n\n2. Lorsqu'elles procèdent à l'évaluation visée au paragraphe 1 du présent article, les autorités compétentes appliquent les normes d'évaluation visées aux articles 6 à 11.",
+      "text_sha256": "8f3496e47949e384b6a75b107dd8bff40373947824f2a085013330d40e59b218",
+      "md_span": {
+        "start": 2072,
+        "end": 5484
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32017r0180:2016-10-24#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les autorités compétentes calculent les différences potentielles visées à l'article 3, paragraphe 1, point c), en soustrayant les exigences de fonds propres pour risque de crédit, telles que communiquées par les établissements dans le cadre du règlement d'exécution (UE) 2016/2070, des exigences de fonds propres pour risque de crédit qui résultent de l'application de l'approche standard. En outre, elles calculent comme suit les statistiques de référence concernant ces différences:\n\n| a) | pour les portefeuilles à faible taux de défaut, au niveau du portefeuille, en excluant les expositions sur les administrations centrales et les banques centrales des États membres libellées et financées dans la monnaie nationale, comme indiqué à l'article 114, paragraphe 4, du règlement (UE) no 575/2013; |\n| --- | --- |\n\n| b) | pour les portefeuilles à taux de défaut élevé, au niveau du portefeuille. |\n| --- | --- |\n\n2. Aux fins du calcul des statistiques de référence visées au paragraphe 1 du présent article, les autorités compétentes utilisent les exigences de fonds propres pour risque de crédit ajustées au niveau utilisé pour le calcul du plancher transitoire de Bâle I sur la base de l'article 500 du règlement (UE) no 575/2013.",
+      "text_sha256": "3c64c03af34482d5ada51da88d5a511ed09907fac0853d163254c1f025d056dd",
+      "md_span": {
+        "start": 5517,
+        "end": 6764
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32017r0180:2016-10-24#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nAux fins de l'article 3, paragraphe 1, points d) et e), les autorités compétentes utilisent à la fois la moyenne sur un an et sur cinq ans des paramètres de risque observés pour calculer les différences.",
+      "text_sha256": "f8fc2eb81a621e53cfe462bece653773bad17a0f2cdd71cde2a6a72db1d7dab3",
+      "md_span": {
+        "start": 6797,
+        "end": 7011
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32017r0180:2016-10-24#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. Lorsqu'elles effectuent l'évaluation visée à l'article 3, paragraphe 1, du présent règlement, les autorités compétentes déterminent si les établissements qui ont exercé l'option prévue à l'article 3, paragraphe 2, du règlement d'exécution (UE) 2016/2070, afin de présenter une communication d'informations plus limitée en vertu de ce règlement d'exécution, se conforment aux exigences prévues par celui-ci. Elles le font en confirmant les motifs avancés par ces établissements pour justifier toute limitation des informations qu'ils communiquent en vertu dudit règlement d'exécution.\n\n2. Lorsqu'elles effectuent l'évaluation visée à l'article 3, paragraphe 1, du présent règlement, les autorités compétentes enquêtent comme suit sur les raisons de la sous-estimation significative et systématique des exigences de fonds propres, et de leur diversité faible ou élevée, telles que visées audit paragraphe:\n\n| a) | pour les évaluations d'approches internes en matière de risque de crédit, en appliquant les normes prévues aux articles 7 et 8; |\n| --- | --- |\n\n| b) | pour les évaluations d'approches internes en matière de risque de marché, en appliquant les normes prévues aux articles 9 à 11. |\n| --- | --- |",
+      "text_sha256": "b0013fd5bc97d46cc321cd14a620f1f4a844c6e42c74ca376fe5288b52f7cdc9",
+      "md_span": {
+        "start": 7044,
+        "end": 8265
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32017r0180:2016-10-24#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Lorsqu'elles effectuent une évaluation visée à l'article 3, paragraphe 1, pour des approches internes en matière de risque de crédit, les autorités compétentes utilisent au moins les informations relatives aux approches internes appliquées aux portefeuilles prudentiels de référence qui sont contenues dans les documents suivants, le cas échéant:\n\n| a) | le rapport de l'ABE visé à l'article 78, paragraphe 3, deuxième alinéa, de la directive 2013/36/UE; |\n| --- | --- |\n\n| b) | les rapports de validation réguliers de l'établissement; |\n| --- | --- |\n\n| c) | la documentation relative au modèle, et notamment son mode d'emploi, la documentation relative à son élaboration et à son calibrage et la méthode régissant les approches internes; |\n| --- | --- |\n\n| d) | les rapports des inspections sur place. |\n| --- | --- |\n\n2. Lorsqu'elles effectuent une évaluation visée à l'article 3, paragraphe 1, pour des approches internes en matière de risque de crédit, les autorités compétentes tiennent compte, s'il y a lieu, des éléments suivants:\n\n| a) | si l'établissement utilise ses propres estimations des pertes en cas de défaut (LGD) et facteurs de conversion conformément à l'article 143 du règlement (UE) no 575/2013; |\n| --- | --- |\n\n| b) | le périmètre d'application du modèle et la représentativité des portefeuilles de référence; |\n| --- | --- |\n\n| c) | les principales caractéristiques du modèle, et notamment s'il s'agit d'un modèle conçu et calibré au niveau central du groupe (modèle global) ou uniquement au niveau du pays ou territoire d'accueil (modèle local), d'un modèle acheté à un tiers ou élaboré par l'établissement, et d'un modèle conçu et calibré à partir de données internes ou externes; |\n| --- | --- |\n\n| d) | la date d'élaboration du modèle et la date de son approbation; |\n| --- | --- |\n\n| e) | la comparaison des taux de défaut prévus avec les taux de défaut observés sur une période de référence; |\n| --- | --- |\n\n| f) | la comparaison des LGD prévues en cas de ralentissement économique avec les LGD observées; |\n| --- | --- |\n\n| g) | la comparaison des expositions en défaut estimées avec les expositions en défaut observées; |\n| --- | --- |\n\n| h) | la longueur des séries chronologiques utilisées et, le cas échéant, si elles incluent des années critiques, ou la nature et l'importance de tout ajustement apporté pour prendre en compte des conditions de ralentissement économique et intégrer des marges de prudence au calibrage du modèle; |\n| --- | --- |\n\n| i) | les modifications récentes de la composition du portefeuille de l'établissement auquel l'approche interne est appliquée; |\n| --- | --- |\n\n| j) | la situation micro- et macroéconomique du portefeuille de l'établissement, sa stratégie commerciale et en matière de risque et ses procédures internes, telles que ses procédures de recouvrement des actifs en défaut («procédures de liquidation»); |\n| --- | --- |\n\n| k) | la position actuelle dans le cycle, la philosophie de notation choisie, entre notation ponctuelle et notation étalée sur le cycle, et la cyclicité observée dans le modèle; |\n| --- | --- |\n\n| l) | le nombre d'échelons et de dimensions de notation utilisés par l'établissement dans ses modèles de probabilité de défaut (PD), de pertes en cas de défaut (LGD) et de facteurs de conversion; |\n| --- | --- |\n\n| m) | les définitions des taux de défaut et de rétablissement utilisées par l'établissement; |\n| --- | --- |\n\n| n) | s'il y a lieu, si les séries chronologiques utilisées pour le calibrage des modèles de LGD incluent ou non des procédures de liquidation ouvertes. |\n| --- | --- |\n\n3. Lorsqu'elles estiment que les informations visées au paragraphe 1 ne leur suffisent pas à tirer des conclusions sur les éléments énumérés au paragraphe 2, les autorités compétentes recueillent promptement, auprès de l'établissement, les informations supplémentaires dont elles estiment avoir besoin pour terminer leur évaluation.\n\nPour décider des informations supplémentaires à recueillir, les autorités compétentes prennent en considération l'importance quantitative et qualitative de l'écart observé au niveau des paramètres et des exigences de fonds propres de l'établissement. Les autorités compétentes recueillent les informations supplémentaires de la manière qu'elles jugent la plus appropriée, y compris au moyen de questionnaires, d'entretiens et d'inspections ad hoc sur place.",
+      "text_sha256": "a1fbf1221e735dc50a84ce56bac2fd82f7bb3a0d673c7b9b6cc2ac67e4bd2c86",
+      "md_span": {
+        "start": 8298,
+        "end": 12695
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32017r0180:2016-10-24#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Lorsqu'elles effectuent une évaluation visée à l'article 3, paragraphe 1, par rapport aux contreparties du portefeuille à faible taux de défaut figurant dans le modèle 101 de l'annexe I du règlement d'exécution (UE) 2016/2070, les autorités compétentes vérifient si les différences entre les exigences de fonds propres pour risque de crédit de l'établissement et celles de ses pairs sont dues à l'un des facteurs suivants:\n\n| a) | une différence de rang entre les contreparties reprises dans les échantillons de portefeuille à faible taux de défaut ou une différence entre les niveaux de probabilité de défaut assignés à chaque échelon; |\n| --- | --- |\n\n| b) | des types de facilité spécifiques, des instruments de couverture (collatéral) spécifiques ou la situation géographique spécifique des contreparties; |\n| --- | --- |\n\n| c) | l'hétérogénéité des probabilités de défaut, des pertes en cas de défaut, des échéances ou des facteurs de conversion; |\n| --- | --- |\n\n| d) | les pratiques de couverture (collatéralisation); |\n| --- | --- |\n\n| e) | le niveau d'indépendance par rapport aux notations externes et la fréquence d'actualisation des notations internes. |\n| --- | --- |\n\n2. Lorsqu'un établissement classe une contrepartie comme étant «en défaut», alors que d'autres établissements la classent comme «performante», ou inversement, les autorités compétentes appliquent à cette contrepartie l'approche indiquée au paragraphe 1.",
+      "text_sha256": "09fc73f8e60976c56b7bd14f8b7bbe453be44d1872c1557d62be62c8780e4ef1",
+      "md_span": {
+        "start": 12728,
+        "end": 14177
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32017r0180:2016-10-24#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Lorsqu'elles effectuent une évaluation visée à l'article 3, paragraphe 1, les autorités compétentes utilisent au moins les informations relatives aux approches internes appliquées aux portefeuilles prudentiels de référence qui sont contenues dans les documents suivants, le cas échéant:\n\n| a) | le rapport de l'ABE visé à l'article 78, paragraphe 3, deuxième alinéa, de la directive 2013/36/UE; |\n| --- | --- |\n\n| b) | les rapports de validation de l'établissement, établis par des tiers indépendants qualifiés au moment de l'élaboration du modèle interne, puis à chaque modification importante de celui-ci. Ces rapports attestent notamment de contrôles visant à démontrer que toute hypothèse formulée dans le cadre des approches internes est appropriée et ne sous-estime pas ni ne surestime le risque, de contrôles a posteriori spécifiques conçus en fonction des risques et de la structure du portefeuille de l'établissement, et de l'utilisation de portefeuilles hypothétiques permettant de garantir que les approches internes sont à même de prendre en compte des caractéristiques structurelles particulières susceptibles d'apparaître, telles que des risques de base et un risque de concentration importants; |\n| --- | --- |\n\n| c) | le nombre et la justification des dépassements quotidiens observés l'année précédente sur la base de contrôles a posteriori portant sur les variations hypothétiques et effectives de la valeur du portefeuille; |\n| --- | --- |\n\n| d) | la documentation relative au modèle, et notamment son mode d'emploi, la documentation relative à son élaboration et à son calibrage, et la méthode régissant les approches internes; |\n| --- | --- |\n\n| e) | les rapports des inspections sur place. |\n| --- | --- |\n\n2. Lorsqu'elles effectuent une évaluation visée à l'article 3, paragraphe 1, les autorités compétentes tiennent compte, s'il y a lieu, des éléments suivants:\n\n| a) | la méthode de valeur en risque (VaR) que l'établissement a choisi d'appliquer; |\n| --- | --- |\n\n| b) | le périmètre d'application du modèle et la représentativité des portefeuilles de référence; |\n| --- | --- |\n\n| c) | les motifs justifiant qu'un facteur de risque puisse être intégré au modèle de tarification de l'établissement, mais non à son modèle de mesure des risques; |\n| --- | --- |\n\n| d) | l'ensemble de facteurs de risque intégrés au modèle, correspondant aux taux d'intérêt sur chaque monnaie dans laquelle l'établissement détient des positions de bilan ou de hors bilan sensibles aux taux d'intérêt; |\n| --- | --- |\n\n| e) | le nombre de fourchettes d'échéances par lequel chaque courbe de rendement est divisée; |\n| --- | --- |\n\n| f) | la méthode appliquée pour tenir compte du risque de mouvements imparfaitement corrélés entre courbes de rendement différentes; |\n| --- | --- |\n\n| g) | l'ensemble de facteurs de risque intégrés au modèle, correspondant à l'or et aux diverses devises dans lesquelles les positions de l'établissement sont libellées; |\n| --- | --- |\n\n| h) | le nombre de facteurs de risque utilisés pour tenir compte du risque sur actions; |\n| --- | --- |\n\n| i) | la méthode appliquée pour évaluer, selon des scénarios de marché réalistes, le risque lié aux positions moins liquides et aux positions caractérisées par une transparence des prix limitée; |\n| --- | --- |\n\n| j) | le bilan des approximations utilisées dans le modèle, avec une évaluation de leur incidence sur la mesure des risques; |\n| --- | --- |\n\n| k) | la longueur des séries chronologiques utilisées pour la valeur en risque; |\n| --- | --- |\n\n| l) | la méthode appliquée pour déterminer la période de tensions aux fins du calcul de la valeur en risque en situation de tensions (sVaR) et l'adéquation de la période de tensions retenue pour les portefeuilles de référence; |\n| --- | --- |\n\n| m) | les méthodes appliquées, dans le modèle de mesure des risques, pour tenir compte du caractère non linéaire des options (en particulier lorsque l'établissement recourt à une approximation de Taylor plutôt qu'à une réévaluation complète) et de celui d'autres produits, ainsi que du risque de corrélation et du risque de base; |\n| --- | --- |\n\n| n) | les méthodes appliquées pour tenir compte du risque de base lié à la signature (et si ces méthodes sont sensibles aux différences idiosyncratiques significatives existant entre des positions similaires, mais non identiques); |\n| --- | --- |\n\n| o) | les méthodes appliquées pour tenir compte du risque d'événement; |\n| --- | --- |\n\n| p) | pour le modèle interne pour risques supplémentaires de défaut et de migration (IRC), les méthodes appliquées pour déterminer les horizons de liquidité par position, ainsi que les probabilités de défaut, les pertes en cas de défaut et les matrices de transition utilisées dans la simulation visée à l'article 374 du règlement (UE) no 575/2013; |\n| --- | --- |\n\n| q) | en ce qui concerne l'approche interne pour la négociation en corrélation, les méthodes appliquées pour tenir compte des risques énumérés à l'article 377, paragraphe 3, du règlement (UE) no 575/2013, et les hypothèses de corrélation entre les facteurs de risques modélisés. |\n| --- | --- |\n\n3. Lorsqu'elles estiment que les informations visées au paragraphe 1 ne leur suffisent pas à tirer des conclusions sur les éléments énumérés au paragraphe 2, les autorités compétentes recueillent promptement, auprès de l'établissement, les informations supplémentaires dont elles estiment avoir besoin pour terminer leur évaluation.\n\nPour décider des informations supplémentaires à recueillir, les autorités compétentes prennent en considération l'importance quantitative et qualitative de l'écart observé au niveau des paramètres et des exigences de fonds propres de l'établissement. Les autorités compétentes recueillent les informations supplémentaires de la manière qu'elles jugent la plus appropriée, y compris au moyen de questionnaires, d'entretiens et d'inspections ad hoc sur place.",
+      "text_sha256": "5951e7cd9e5cfa7bc1b380617b22202ee7aeffdc68540b1f4f4d74790913a5c6",
+      "md_span": {
+        "start": 14210,
+        "end": 20145
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32017r0180:2016-10-24#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Lorsqu'elles procèdent à une évaluation, telle que visée à l'article 3, paragraphe 1, d'approches concernant le risque de marché, les autorités compétentes appliquent les normes énoncées aux paragraphes 2 à 8 du présent article.\n\n2. Dans leur évaluation des facteurs à l'origine de différences constatées dans les montants des valeurs en risque, les autorités compétentes tiennent compte des deux éléments suivants:\n\n| a) | l'existence éventuelle d'autres calculs, homogénéisés, de la valeur en risque, que l'ABE a pu fournir dans son rapport visé à l'article 78, paragraphe 3, deuxième alinéa, de la directive 2013/36/UE sur la base des données disponibles relatives aux profits et pertes; |\n| --- | --- |\n\n| b) | la dispersion observée du paramètre communiqué par les établissements pour la valeur en risque dans le cadre du règlement d'exécution (UE) 2016/2070. |\n| --- | --- |\n\n3. Dans le cas des établissements qui ont recours à la simulation historique, les autorités compétentes évaluent la variabilité observée tant dans les autres calculs, homogénéisés, de la valeur en risque que dans les données de valeur en risque communiquées par les établissements qui sont visées au paragraphe 2, afin de déterminer l'effet des différentes options utilisées par ces établissements dans le cadre de la simulation historique.\n\n4. Les autorités compétentes évaluent la dispersion entre les établissements du point de vue de facteurs de risque particuliers inclus dans chacun des portefeuilles de référence non agrégés, au moyen de la volatilité observée et de la corrélation observée dans le vecteur de données de profits et pertes fourni par les établissements recourant à la simulation historique pour les portefeuilles non agrégés.\n\n5. Les autorités compétentes analysent les modèles de valeur en risque d'un établissement pour tout portefeuille qui risque de présenter des séries chronologiques de profits et pertes différant considérablement de celles des établissements analogues, comme relevé dans le rapport de l'ABE visé à l'article 78, paragraphe 3, deuxième alinéa, de la directive 2013/36/UE, même si l'exigence finale de fonds propres pour le portefeuille en question est similaire en valeur absolue à celle prévue par les établissements analogues.\n\n6. En outre, pour la valeur en risque, la valeur en risque en situation de tensions, le modèle IRC et les modèles utilisés pour les activités de négociation en corrélation, les autorités compétentes évaluent l'incidence des facteurs de variabilité liés à la réglementation, à l'aide des données fournies par le rapport de l'ABE visé à l'article 78, paragraphe 3, deuxième alinéa, de la directive 2013/36/UE, en regroupant les résultats par option de modélisation.\n\n7. Après avoir évalué les causes de variabilité liées aux différentes options réglementaires, les autorités compétentes examinent si la variabilité et la sous-estimation résiduelles des exigences de fonds propres proviennent de l'un ou de plusieurs des facteurs suivants:\n\n| a) | une mauvaise perception des positions ou des facteurs de risque concernés; |\n| --- | --- |\n\n| b) | une application incomplète du modèle; |\n| --- | --- |\n\n| c) | la non-prise en compte de certains facteurs de risque; |\n| --- | --- |\n\n| d) | des différences dans le calibrage ou les séries de données utilisées pour modéliser la simulation; |\n| --- | --- |\n\n| e) | tout facteur de risque supplémentaire intégré dans le modèle; |\n| --- | --- |\n\n| f) | l'utilisation d'autres hypothèses de modélisation; |\n| --- | --- |\n\n| g) | des différences imputables à la méthode appliquée par l'établissement. |\n| --- | --- |\n\n8. Les autorités compétentes procèdent à une comparaison entre les résultats obtenus pour des portefeuilles qui ne se distinguent que par un facteur de risque spécifique, afin de déterminer si les établissements ont intégré ce facteur de risque dans leur modèle interne d'une manière cohérente par rapport à leurs homologues.",
+      "text_sha256": "ad45b5c4d7b073ce94ea9ab7fb58c717f379cb017b1086574b635865e1233420",
+      "md_span": {
+        "start": 20180,
+        "end": 24136
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32017r0180:2016-10-24#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Lorsqu'elles évaluent le niveau de fonds propres de chaque établissement, les autorités compétentes tiennent compte des deux éléments suivants:\n\n| a) | le niveau de fonds propres par portefeuille non agrégé; |\n| --- | --- |\n\n| b) | l'effet de l'avantage de diversification appliqué par chaque établissement dans les portefeuilles agrégés, en comparant la somme de fonds propres des portefeuilles non agrégés visés au point a) du présent paragraphe avec le niveau de fonds propres fourni pour le portefeuille agrégé, comme stipulé dans le rapport de l'ABE visé à l'article 78, paragraphe 3, deuxième alinéa, de la directive 2013/36/UE. |\n| --- | --- |\n\n2. Lorsqu'elles évaluent le niveau de fonds propres par établissement, les autorités compétentes prennent en outre en considération les deux éléments suivants:\n\n| a) | l'effet des exigences prudentielles supplémentaires; |\n| --- | --- |\n\n| b) | l'effet des mesures prudentielles non envisagées dans les données collectées par l'ABE. |\n| --- | --- |",
+      "text_sha256": "283c4dba316310282bf232538383eef7c2fd0727954cd87e527497e535598035",
+      "md_span": {
+        "start": 24171,
+        "end": 25186
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32017r0180:2016-10-24#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "976ed0678f69f6b4f486ac7ac50ff9b1304cc3de2029f0461fe3fe27f86e1dc1",
+      "md_span": {
+        "start": 25221,
+        "end": 25363
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "lex_work_id": "eu-eurlex:31991l0680",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "html-eu-tolerant/1",
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "art_2": [
+      {
+        "valid_from": "2009-11-30",
+        "valid_to": null,
+        "text_sha256": "ed4773a67342eac7863c9106156e4050eb8442901f67cc6c6ae88d4967fdeb17",
+        "in_version": "eu-eurlex:31991l0680:2009-11-30"
+      }
+    ],
+    "document": [
+      {
+        "valid_from": "1991-12-16",
+        "valid_to": "1991-12-22",
+        "text_sha256": "8c85d876c8c82bfa2601ea6b9979df1422953247f012923bf92debcd73008f5b",
+        "in_version": "eu-eurlex:31991l0680:1991-12-16"
+      },
+      {
+        "valid_from": "1991-12-23",
+        "valid_to": "2009-11-29",
+        "text_sha256": "738e05b9457eab042c3c67a2e407d364e2bd0b7f5efa9c37057b1e4fa251d380",
+        "in_version": "eu-eurlex:31991l0680:1991-12-23"
+      }
+    ]
+  },
+  "anchor_events": [
+    {
+      "type": "removed",
+      "anchor": "document",
+      "at_version": "eu-eurlex:31991l0680:2009-11-30"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_2",
+      "at_version": "eu-eurlex:31991l0680:2009-11-30"
+    }
+  ],
+  "anchors_by_language": {
+    "en": {
+      "art_2": [
+        {
+          "valid_from": "2009-11-30",
+          "valid_to": null,
+          "text_sha256": "ed4773a67342eac7863c9106156e4050eb8442901f67cc6c6ae88d4967fdeb17",
+          "in_version": "eu-eurlex:31991l0680:2009-11-30"
+        }
+      ],
+      "document": [
+        {
+          "valid_from": "1991-12-16",
+          "valid_to": "1991-12-22",
+          "text_sha256": "8c85d876c8c82bfa2601ea6b9979df1422953247f012923bf92debcd73008f5b",
+          "in_version": "eu-eurlex:31991l0680:1991-12-16"
+        },
+        {
+          "valid_from": "1991-12-23",
+          "valid_to": "2009-11-29",
+          "text_sha256": "738e05b9457eab042c3c67a2e407d364e2bd0b7f5efa9c37057b1e4fa251d380",
+          "in_version": "eu-eurlex:31991l0680:1991-12-23"
+        }
+      ]
+    },
+    "fr": {
+      "art_2": [
+        {
+          "valid_from": "2009-11-30",
+          "valid_to": null,
+          "text_sha256": "8ed7f27fee13851650339efbd6dd5dc7fabf174f87f5aac739b87c4e9f057ffd",
+          "in_version": "eu-eurlex:31991l0680:2009-11-30"
+        }
+      ],
+      "document": [
+        {
+          "valid_from": "1991-12-16",
+          "valid_to": "1991-12-22",
+          "text_sha256": "0e64014a8afc9906f38e2742beac02315a241ecfde794bcedc0201441ccfb858",
+          "in_version": "eu-eurlex:31991l0680:1991-12-16"
+        },
+        {
+          "valid_from": "1991-12-23",
+          "valid_to": "2009-11-29",
+          "text_sha256": "3ee49b4cbf62295dd54ebcf586d8111144ed735100524b33770ed546ecc623e8",
+          "in_version": "eu-eurlex:31991l0680:1991-12-23"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [
+      {
+        "type": "removed",
+        "anchor": "document",
+        "at_version": "eu-eurlex:31991l0680:2009-11-30"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_2",
+        "at_version": "eu-eurlex:31991l0680:2009-11-30"
+      }
+    ],
+    "fr": [
+      {
+        "type": "removed",
+        "anchor": "document",
+        "at_version": "eu-eurlex:31991l0680:2009-11-30"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_2",
+        "at_version": "eu-eurlex:31991l0680:2009-11-30"
+      }
+    ]
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32014r0625:2014-03-13",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) No 625/2014 of 13 March 2014 supplementing Regulation (EU) No 575/2013",
+  "valid_from": "2014-03-13",
+  "valid_to": "2015-10-27",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32014r0625/versions/2014-03-13/fr.xml",
+    "sha256": "7ab92eaaa801703dfe847b7331bad8260bd7e5448a17eb40bb949eef6b469b6e",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32014R0625"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nAux fins du présent règlement, on entend par:\n\n| a) | «rétenteur»: l'entité agissant en qualité d'initiateur, de sponsor ou de prêteur initial qui retient un intérêt économique net dans la titrisation conformément à l'article 405, paragraphe 1, du règlement (UE) no 575/2013; |\n| --- | --- |\n\n| b) | «forme synthétique de rétention»: la rétention d'un intérêt économique par le biais de l'utilisation d'instruments dérivés; |\n| --- | --- |\n\n| c) | «forme conditionnelle de rétention»: la rétention d'un intérêt économique par le biais de l'utilisation de garanties, de lettres de crédits et d'autres formes similaires de soutien du crédit garantissant une application immédiate de la rétention; |\n| --- | --- |\n\n| d) | «tranche verticale»: une tranche qui expose son détenteur au risque de crédit de chaque tranche émise de l'opération de titrisation sur une base proportionnelle; |\n| --- | --- |",
+      "text_sha256": "8173bbe375b5559815163e260f11b20d6eeeafb3064b5437a34b78fce7ad6383",
+      "md_span": {
+        "start": 658,
+        "end": 1571
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. Lorsqu'un établissement agit en qualité de contrepartie de dérivé de crédit ou en qualité de contrepartie fournissant la couverture ou en qualité de fournisseur de facilité de trésorerie dans le cadre d'une opération de titrisation, il est considéré comme étant exposé au risque de crédit d'une position de titrisation lorsque le dérivé, la couverture ou la facilité de trésorerie assume le risque de crédit des expositions titrisées ou des positions de titrisation.\n\n2. Aux fins des articles 405 et 406 du règlement (UE) no 575/2013, lorsqu'une facilité de trésorerie satisfait aux conditions énoncées à l'article 255, paragraphe 2, dudit règlement, le fournisseur de trésorerie n'est pas considéré comme exposé au risque de crédit d'une position de titrisation.\n\n3. Dans le cadre d'une retitrisation comportant plus d'un niveau ou d'une titrisation comportant de multiples opérations sous-jacentes distinctes, un établissement est considéré n'être exposé au risque de crédit que de l'opération ou position de titrisation pour laquelle il assume l'exposition.\n\n4. Les établissements ne sont pas considérés comme étant en violation de l'article 405 du règlement (UE) no 575/2013 conformément à l'article 14, paragraphe 2, dudit règlement sur une base consolidée, pour autant que les conditions suivantes soient remplies:\n\n| a) | l'entité qui détient les positions de titrisation est établie dans un pays tiers et est incluse dans le groupe consolidé conformément à l'article 18 du règlement (UE) no 575/2013; |\n| --- | --- |\n\n| b) | les positions de titrisation sont détenues dans le portefeuille de négociation de l'entité visée au point a) à des fins d'activités de tenue de marché; |\n| --- | --- |\n\n| c) | les positions de titrisation ne sont pas significatives par rapport au profil de risque global du portefeuille de négociation du groupe visé au point a) et ne constituent pas une part disproportionnée des activités de négociation du groupe. |\n| --- | --- |",
+      "text_sha256": "9b959cf9af496fc2a39b401c264bba1d7976aa2c3a7532f7a613f4c4e3be85ba",
+      "md_span": {
+        "start": 1604,
+        "end": 3583
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. L'intérêt économique net significatif retenu n'est pas partagé entre différents types de rétenteurs. L'exigence de rétention d'un intérêt économique net significatif est entièrement satisfaite par:\n\n| a) | l'initiateur ou les initiateurs multiples; |\n| --- | --- |\n\n| b) | le sponsor ou les sponsors multiples; |\n| --- | --- |\n\n| c) | le prêteur initial ou les prêteurs initiaux multiples; |\n| --- | --- |\n\n2. Lorsque les expositions titrisées sont créées par des initiateurs multiples, l'exigence de rétention est satisfaite par chaque initiateur, en fonction de la proportion de l'ensemble des expositions titrisées pour laquelle il est l'initiateur.\n\n3. Lorsque les expositions titrisées sont créées par des prêteurs initiaux multiples, l'exigence de rétention est satisfaite par chaque prêteur initial, en fonction de la proportion de l'ensemble des expositions titrisées pour laquelle il est le prêteur initial.\n\n4. Par dérogation aux dispositions des paragraphes 2 et 3, lorsque les expositions titrisées sont créées par des initiateurs multiples ou des prêteurs initiaux multiples, l'exigence de rétention peut être entièrement satisfaite par un seul initiateur ou prêteur initial, à condition que l'une des conditions suivantes soit remplie:\n\n| a) | l'initiateur ou le prêteur initial a mis en place le programme ou le dispositif de titrisation et le gère; |\n| --- | --- |\n\n| b) | l'initiateur ou le prêteur initial a mis en place le programme ou le dispositif de titrisation et a apporté plus de 50 % du total des expositions titrisées. |\n| --- | --- |\n\n5. Lorsque les expositions titrisées ont été sponsorisées par des sponsors multiples, l'exigence de rétention est satisfaite par:\n\n| a) | le sponsor dont l'intérêt économique est le mieux aligné sur les investisseurs tel que convenu par les sponsors multiples sur la base de critères objectifs, tels que la structure des frais, la participation à la mise en place et à la gestion du programme ou dispositif de titrisation et l'exposition au risque de crédit des titrisations; ou |\n| --- | --- |\n\n| b) | chacun des sponsors de façon proportionnelle en fonction du nombre de sponsors. |\n| --- | --- |",
+      "text_sha256": "cf76b560eb8e2ffa8497fcc2a8495bcaf2681b76dd20d54b7a775617658091f7",
+      "md_span": {
+        "start": 3616,
+        "end": 5791
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. L'exigence de rétention d'un intérêt peut être satisfaite d'une manière équivalente à l'une des options prévues à l'article 405, paragraphe 1, deuxième alinéa du règlement (UE) no 575/2013 au moyen d'une forme synthétique ou conditionnelle de rétention lorsque les conditions suivantes sont remplies:\n\n| a) | le montant retenu est au moins égal à l'exigence sous l'option à laquelle la forme synthétique ou conditionnelle de rétention peut être assimilée; |\n| --- | --- |\n\n| b) | le rétenteur a expressément indiqué qu'il retiendra, sur une base continue, un intérêt économique net significatif de cette manière, en précisant la forme de rétention, la méthode utilisée pour sa détermination et son équivalence à l'une de ces options. |\n| --- | --- |\n\n2. Lorsqu'une entité autre qu'un établissement de crédit au sens de l'article 4, paragraphe 1, point 1, du règlement (UE) no 575/2013 agit en qualité de rétenteur par le biais d'une forme synthétique ou conditionnelle de rétention, les intérêts retenus sur une base synthétique ou conditionnelle sont entièrement garantis en espèces et détenus séparément sous la forme de fonds «clients» visés à l'article 13, paragraphe 8, de la directive 2004/39/CE du Parlement européen et du Conseil (3).",
+      "text_sha256": "556846871de57c9a65d4d97673eeca34d12ff5d45d9e75568f5c54db72f083a7",
+      "md_span": {
+        "start": 5824,
+        "end": 7080
+      },
+      "citations": [
+        {
+          "href": "#ntr3-L_2014174FR.01001601-E0003",
+          "text": "(3)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. Une rétention de 5 % au moins de la valeur nominale de chacune des tranches vendues ou transférées, comme visée à l'article 405, paragraphe 1, point a), du règlement (UE) no 575/2013 peut également être obtenue comme suit:\n\n| a) | rétention de 5 % au moins de la valeur nominale de chacune des expositions titrisées, à condition que le risque de crédit de ces expositions soit de rang égal ou subordonné au risque de crédit titrisé pour les mêmes expositions. Dans le cas d'une titrisation renouvelable, telle que définie à l'article 242, paragraphe 13, du règlement (UE) no 575/2013, cela se produirait par la rétention de l'intérêt de l'initiateur en supposant que l'intérêt de l'initiateur concernait 5 % au moins de la valeur nominale de chacune des expositions titrisées et était de rang égal ou subordonné au risque de crédit qui a été titrisé eu égard à ces mêmes expositions; |\n| --- | --- |\n\n| b) | la mise à disposition, dans le cadre d'un programme ABCP, d'une facilité de trésorerie qui peut être de rang supérieur dans la cascade contractuelle lorsque les conditions suivantes sont satisfaites:i)la facilité de trésorerie couvre 100 % du risque de crédit des expositions titrisées;ii)la facilité de trésorerie couvre le risque de crédit aussi longtemps que le rétenteur doit retenir l'intérêt économique au moyen d'une telle facilité de trésorerie pour la position de titrisation pertinente;iii)la facilité de trésorerie est fournie par l'initiateur, le sponsor ou le prêteur initial dans l'opération de titrisation;iv)l'établissement qui devient exposé à une telle titrisation a reçu accès aux informations appropriées pour lui permettre de vérifier que les points i), ii) et iii) sont respectés; |\n| --- | --- |\n| i) | la facilité de trésorerie couvre 100 % du risque de crédit des expositions titrisées; |\n| ii) | la facilité de trésorerie couvre le risque de crédit aussi longtemps que le rétenteur doit retenir l'intérêt économique au moyen d'une telle facilité de trésorerie pour la position de titrisation pertinente; |\n| iii) | la facilité de trésorerie est fournie par l'initiateur, le sponsor ou le prêteur initial dans l'opération de titrisation; |\n| iv) | l'établissement qui devient exposé à une telle titrisation a reçu accès aux informations appropriées pour lui permettre de vérifier que les points i), ii) et iii) sont respectés; |\n\n| c) | rétention d'une tranche verticale qui a une valeur nominale de 5 % au moins de la valeur nominale totale de toutes les tranches émises de notes. |\n| --- | --- |",
+      "text_sha256": "20bb5057ac2e2b27ffa824f4ae7e0671e1e569fda6fbd6450a29490ca12e2d19",
+      "md_span": {
+        "start": 7113,
+        "end": 9657
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nUne rétention visée à l'article 405, paragraphe 1, point b), du règlement (UE) no 575/2013 peut être obtenue en retenant 5 % au moins de la valeur nominale de chacune des expositions titrisées, à condition que le risque de crédit retenu de ces expositions soit de rang égal ou subordonné au risque de crédit titrisé pour les mêmes expositions.",
+      "text_sha256": "9be5eac8b187fdee30426d37b5566672d1a2c4f9da326f9049032d5ac4b38c84",
+      "md_span": {
+        "start": 9690,
+        "end": 10044
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. L'ensemble d'au moins 100 expositions potentiellement titrisées à partir duquel des expositions retenues et titrisées sont choisies de manière aléatoire, visé à l'article 405, paragraphe 1, deuxième alinéa, point c), du règlement (UE) no 575/2013, est suffisamment divers pour éviter une concentration excessive de l'intérêt retenu. Lors de l'élaboration du processus de sélection, le rétenteur prend en compte les facteurs quantitatifs et qualitatifs appropriés afin de garantir que la distinction entre les expositions retenues et titrisées est vraiment aléatoire. L'entité qui retient des expositions choisies de manières aléatoire prend en considération, le cas échéant, des facteurs telles que date d'émission, produit, géographie, date d'initiation, date d'échéance, ratio prêt/valeur, type de propriété, secteur de l'industrie, et solde de prêt impayé lors de la sélection des expositions.\n\n2. Le rétenteur ne désigne pas des expositions individuelles différentes comme des expositions retenues à différents points dans le temps, excepté si nécessaire pour respecter l'exigence de rétention eu égard à une titrisation dans laquelle les expositions titrisées fluctuent au fil du temps, que ce soit en raison de l'ajout de nouvelles expositions à la titrisation ou de changements dans le niveau des différentes expositions titrisées.",
+      "text_sha256": "6c7fef8417aa8523196b12c7de67a14307f4ed18db51a4d5584cb8dc166f1217",
+      "md_span": {
+        "start": 10077,
+        "end": 11429
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. La rétention de la tranche de première perte conformément à l'article 405, paragraphe 1, deuxième alinéa, point d), du règlement (UE) no 575/2013 est satisfaite par des positions de bilan ou hors bilan et peut également être exécutée comme suit:\n\n| a) | fourniture d'une forme conditionnelle de rétention telle que visée à l'article 1, paragraphe 1, point c) ou d'une facilité de trésorerie dans le cadre d'un programme ABCP, qui satisfait aux critères suivants:i)elle couvre 5 % au moins de la valeur nominale des expositions titrisées;ii)elle constitue une position de première perte par rapport à la titrisation;iii)elle couvre le risque de crédit pour toute la durée de l'engagement de rétention;iv)elle est fournie par l'initiateur, le sponsor ou le prêteur initial dans la titrisation;v)l'établissement qui devient exposé à une telle titrisation a reçu accès aux informations appropriées pour lui permettre de vérifier que les points i), ii), iii) et iv) sont respectés; |\n| --- | --- |\n| i) | elle couvre 5 % au moins de la valeur nominale des expositions titrisées; |\n| ii) | elle constitue une position de première perte par rapport à la titrisation; |\n| iii) | elle couvre le risque de crédit pour toute la durée de l'engagement de rétention; |\n| iv) | elle est fournie par l'initiateur, le sponsor ou le prêteur initial dans la titrisation; |\n| v) | l'établissement qui devient exposé à une telle titrisation a reçu accès aux informations appropriées pour lui permettre de vérifier que les points i), ii), iii) et iv) sont respectés; |\n\n| b) | le surnantissement, en tant que forme de rehaussement de crédit, si ce surnantissement agit comme une rétention de «première perte» de 5 % au moins de la valeur nominale des tranches émises par la titrisation. |\n| --- | --- |\n\n2. Lorsque la tranche de première perte est supérieure à 5 % de la valeur nominale des expositions titrisées, le rétenteur a la possibilité de ne retenir qu'une portion de cette tranche de première perte, cette portion étant équivalente à 5 % au moins de la valeur nominale des expositions titrisées.\n\n3. Pour l'accomplissement de l'exigence de rétention du risque au niveau d'un dispositif de titrisation, les établissements ne prennent pas en compte l'existence d'opérations sous-jacentes dans lesquelles les initiateurs ou les prêteurs initiaux retiennent une exposition de première perte au niveau spécifique à l'opération.",
+      "text_sha256": "5a67a1780f1ff915a36218b873e5b776679c248940d67b4a5ddd3b701cc11f58",
+      "md_span": {
+        "start": 11462,
+        "end": 13885
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. La rétention d'une exposition de première perte au niveau de chaque exposition titrisée conformément à l'article 405, paragraphe 1, deuxième alinéa, point e), est appliquée de sorte que le risque de crédit retenu est toujours subordonné au risque de crédit qui a été titrisé eu égard à ces mêmes expositions.\n\n2. La rétention visée au paragraphe 1 peut être satisfaite par la vente à leur valeur actualisée des expositions sous-jacentes par l'initiateur ou le prêteur initial, lorsque le montant de l'actualisation n'est pas inférieur à 5 % de la valeur nominale de chaque exposition et lorsque le montant actualisé de la vente est uniquement remboursable à l'initiateur ou au prêteur initial lorsqu'il n'est pas absorbé par les pertes liées au risque de crédit associé aux expositions titrisées.",
+      "text_sha256": "06cefa61a313efff43a1590a80c898482fdf4825eb6bf74848a59b2c47950850",
+      "md_span": {
+        "start": 13918,
+        "end": 14728
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Lors de la mesure du niveau de rétention d'un intérêt économique net, les critères suivants s'appliquent:\n\n| a) | l'initiation est considérée comme la date à laquelle les expositions ont été titrisées pour la première fois; |\n| --- | --- |\n\n| b) | le calcul du niveau de rétention repose sur les valeurs nominales et le prix d'acquisition des actifs n'est pas pris en considération; |\n| --- | --- |\n\n| c) | la «marge nette» telle que définie à l'article 242, paragraphe 1, du règlement (UE) no 575/2013 n'est pas prise en compte lors de la mesure de l'intérêt économique net du rétenteur; |\n| --- | --- |\n\n| d) | Les mêmes option et méthode de rétention sont utilisées pour calculer l'intérêt économique net pendant la durée de vie d'une opération de titrisation, excepté si des circonstances exceptionnelles nécessitent un changement et ce changement n'est pas utilisé dans le but de réduire le montant de l'intérêt retenu. |\n| --- | --- |\n\n2. Outre les critères énoncés au paragraphe 1, en l'absence de mécanisme intégré par lequel l'intérêt retenu à l'initiation diminuerait plus vite que l'intérêt transféré, le respect de l'exigence de rétention n'est pas considéré avoir été affecté par l'amortissement de la rétention par l'attribution de flux de trésorerie ou par l'attribution de pertes, qui, en effet, réduisent le niveau de rétention au cours du temps. Un rétenteur n'est pas tenu de renouveler ou réajuster constamment son intérêt retenu à 5 % au moins alors que des pertes sont réalisées sur ses expositions ou affectées à sa position retenue.",
+      "text_sha256": "f4ffe9a985508464b44d7d3b652ebe744b1cd3b90c20dfff1be0961d9e51dbb3",
+      "md_span": {
+        "start": 14763,
+        "end": 16334
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nLe calcul de l'intérêt économique net qui doit être retenu pour les facilités de crédit, y compris les cartes de crédit, se fonde uniquement sur les montants déjà prélevés, réalisés ou reçus et est ajusté en fonction des changements de ces montants.",
+      "text_sha256": "805b76d28cb41c303c47f56ab7a24a26f4e318d6517845a24962541426017b8d",
+      "md_span": {
+        "start": 16369,
+        "end": 16630
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. L'obligation énoncée à l'article 405, paragraphe 1, troisième alinéa, du règlement (UE) no 575/2013 de ne soumettre l'intérêt économique net retenu à aucune atténuation du risque de crédit, position courte ou autre couverture ni à une vente s'applique eu égard à l'objectif de l'exigence de rétention et en tenant compte de la substance économique de l'opération. Les couvertures de l'intérêt économique net ne sont pas considérées comme une couverture aux fins de l'article 405, paragraphe 1, troisième alinéa, du règlement (UE) no 575/2013 et peuvent en conséquence être autorisées uniquement lorsqu'elles ne couvrent pas le rétenteur contre le risque de crédit des positions de titrisation retenues ou des expositions retenues.\n\n2. Le rétenteur peut utiliser toute exposition ou position de titrisation retenue comme garantie à des fins de financement garanti, dans la mesure où une telle utilisation ne transfère pas le risque de crédit de ces expositions ou positions de titrisation retenues à un tiers.",
+      "text_sha256": "8e149d2c17ea4c380af04b48b8ec876dd668e19fb8215deb5e81087e4ebd37ea",
+      "md_span": {
+        "start": 16665,
+        "end": 17688
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\nLes opérations visées à l'article 405, paragraphe 4, du règlement (UE) no 575/2013 comprennent les positions de titrisation dans le portefeuille de négociation en corrélation qui sont des instruments de référence satisfaisant le critère à l'article 338, paragraphe 1, point b), dudit règlement ou peuvent être incluses dans le portefeuille de négociation en corrélation.",
+      "text_sha256": "31d258e2e84312573e5f8dc62b179498c90f0195e574f5a009055a6648414426",
+      "md_span": {
+        "start": 17723,
+        "end": 18105
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\nUn établissement satisfaisant l'exigence de rétention sur la base de la situation consolidée de l'établissement de crédit mère dans l'Union, de la compagnie financière holding dans l'Union ou de la compagnie financière holding mixte dans l'Union conformément à l'article 405, paragraphe 2, du règlement (UE) no 575/2013 s'assure, dans le cas où le rétenteur n'est plus compris dans le champ de la surveillance sur base consolidée, qu'une ou plusieurs des entités restantes incluses dans le champ de la surveillance sur base consolidée assument l'exposition à la titrisation de sorte à garantir le respect continu de l'exigence.",
+      "text_sha256": "dd20b6a114045f0a0daad2e0d106b5501ae3fa92b4bf9d6c456c6deafb7f9456",
+      "md_span": {
+        "start": 18140,
+        "end": 18779
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Lorsque aucune information n'est disponible sur les expositions spécifiques à titriser, y compris lorsque les expositions s'accumulent avant leur titrisation ou si elles peuvent être substituées dans une titrisation renouvelable existante, un établissement est réputé respecter ses obligations de diligence appropriée visées à l'article 406 du règlement (UE) no 575/2013 pour chacune de ses positions de titrisation sur la base des critères d'éligibilité pertinents relatifs à ces expositions.\n\n2. Lorsqu'ils externalisent certaines tâches du processus pour l'accomplissement des obligations énoncées à l'article 406 du règlement (UE) no 575/2013, y compris l'enregistrement, les établissements qui deviennent exposés au risque d'une titrisation conservent le plein contrôle de ce processus.",
+      "text_sha256": "064b1ed371d6eb24bc647e25b47680b50837b13376da1341b7e2ac685422ff9a",
+      "md_span": {
+        "start": 18814,
+        "end": 19620
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Les caractéristiques de risque de la position de titrisation visées à l'article 406, paragraphe 1, point b), du règlement (UE) no 575/2013 incluent les caractéristiques suivantes les plus appropriées et importantes, telles que:\n\n| a) | le rang de la tranche; |\n| --- | --- |\n\n| b) | le profil des flux de trésorerie; |\n| --- | --- |\n\n| c) | toute notation existante; |\n| --- | --- |\n\n| d) | la performance historique de tranches similaires; |\n| --- | --- |\n\n| e) | les obligations liées aux tranches incluses dans la documentation relative à la titrisation; |\n| --- | --- |\n\n| f) | le rehaussement de crédit. |\n| --- | --- |\n\n2. Les caractéristiques de risque des expositions sous-jacentes à la position de titrisation visées à l'article 406, paragraphe 1, point c), du règlement (UE) no 575/2013 incluent les caractéristiques les plus appropriées et importantes, y compris les informations relatives à la performance visées à l'article 406, paragraphe 2, dudit règlement en ce qui concerne les expositions sur des prêts hypothécaires résidentiels. Les établissements définissent des paramètres appropriés et comparables pour analyser les caractéristiques de risque d'autres classes d'actifs.\n\n3. Les caractéristiques structurelles supplémentaires visées à l'article 406, paragraphe 1, point g), du règlement (UE) no 575/2013 incluent les instruments dérivés, les garanties, les lettres de crédits et autres formes similaires de soutien de crédit.",
+      "text_sha256": "016c4fe9beb46d4254fab8584859d82ad19087e0ffe311a41014f073d6891ccf",
+      "md_span": {
+        "start": 19655,
+        "end": 21117
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\nLes établissements réexaminent leur conformité à l'article 406 du règlement (UE) no 575/2013 après être devenus exposés à des positions de titrisation au moins une fois par an et plus fréquemment, dès que les établissements ont connaissance de l'existence d'un manquement aux obligations figurant dans les documents relatifs à la titrisation ou d'un changement significatif de l'une des caractéristiques suivantes:\n\n| a) | des caractéristiques structurelles susceptibles d'influencer significativement la performance de la position de titrisation; ou |\n| --- | --- |\n\n| b) | des caractéristiques de risque des positions de titrisation et des expositions sous-jacentes. |\n| --- | --- |",
+      "text_sha256": "1f7e0b8649c630f8ff73e12098290d2aac150909123545f7d0abdf0644c8390f",
+      "md_span": {
+        "start": 21152,
+        "end": 21848
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Les tests de résistance visés à l'article 406, paragraphe 1, deuxième alinéa, du règlement (UE) no 575/2013 incluent toutes les positions de titrisation pertinentes et sont incorporés aux stratégies et processus de tests de résistance mis en œuvre par les établissements conformément au processus d'évaluation de l'adéquation du capital interne prévu à l'article 73 de la directive 2013/36/UE du Parlement européen et du Conseil (4).\n\n2. Afin de répondre aux exigences en matière de tests de résistance visées à l'article 406, paragraphe 1, deuxième alinéa, du règlement (UE) no 575/2013, les établissements peuvent recourir à des modèles financiers comparables développés par des tiers, en plus de ceux développés par les OEEC, à condition de pouvoir démontrer, sur demande, qu'ils ont dûment veillé, avant d'investir, à valider les hypothèses pertinentes et les structures des modèles ainsi qu'à comprendre la méthodologie, les hypothèses et les résultats.\n\n3. Lors de la réalisation des tests de résistance visés à l'article 406, paragraphe 1, du règlement (UE) no 575/2013 dans un programme ABCP, tel que défini à l'article 242, paragraphe 9, du règlement (UE) no 575/2013, qui est soutenu par une facilité de trésorerie qui couvre entièrement le risque de crédit des expositions titrisées, les établissements peuvent soumettre à un test de résistance la qualité de crédit du fournisseur de facilité de trésorerie plutôt que les expositions titrisées.",
+      "text_sha256": "b2df4bc4cacf16584a5be2207176c404fa2a243064ff9cf9157bbb795a0b9e1a",
+      "md_span": {
+        "start": 21883,
+        "end": 23353
+      },
+      "citations": [
+        {
+          "href": "#ntr4-L_2014174FR.01001601-E0004",
+          "text": "(4)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. La détention d'une position de titrisation dans le portefeuille de négociation ou hors portefeuille de négociation ne constitue pas une justification suffisante en soi pour l'application de politiques et procédures différentes ou une intensité différente d'examen pour se conformer aux obligations de diligence appropriée visées à l'article 406 du règlement (UE) no 575/2013. Pour déterminer si des politiques et procédures différentes ou une intensité différente d'examen doivent être appliquées, tous les facteurs pertinents qui influent considérablement le profil de risque de chacun des portefeuilles et des positions de titrisation concernées doivent être pris en considération, y compris la taille des positions, l'incidence sur la base de capital de l'établissement pendant une période de résistance, et la concentration des risques dans une opération, un émetteur, ou une classe d'actifs spécifique.\n\n2. Les établissements veillent à ce que tout changement important augmentant le profil de risque des positions de titrisation dans leur portefeuille de négociation et hors portefeuille de négociation se traduise par un changement adéquat dans leurs procédures de diligence appropriée en ce qui concerne ces positions de titrisation. À cet égard, les établissements indiquent dans leurs politiques et procédures formelles applicables au portefeuille de négociation et au portefeuille hors négociation les circonstances susceptibles de déclencher un réexamen des obligations de diligence appropriée.",
+      "text_sha256": "9c8c60919b6a374cf8c54ea49dd9a2710ddeb043eab2b5bb5b0bcfe55f033c3f",
+      "md_span": {
+        "start": 23388,
+        "end": 24909
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\nL'article 406 du règlement (UE) no 575/2013 est réputé respecté lorsque les conditions suivantes sont remplies:\n\n| a) | les positions de titrisation sont détenues dans le portefeuille de négociation en corrélation et sont des instruments de référence visés à l'article 338, paragraphe 1, point b) dudit règlement ou elles peuvent être incluses dans le portefeuille de négociation en corrélation; |\n| --- | --- |\n\n| b) | l'établissement respecte l'article 377 dudit règlement eu égard au calcul des exigences de fonds propres en ce qui concerne son portefeuille de négociation en corrélation; |\n| --- | --- |\n\n| c) | la méthode de calcul des fonds propres de l'établissement en ce qui concerne son portefeuille de négociation aboutit à une compréhension exhaustive et approfondie du profil de risque de son placement dans les positions de titrisation; |\n| --- | --- |\n\n| d) | l'établissement a mis en œuvre les politiques et procédures formelles adaptées à son portefeuille de négociation en corrélation et proportionnées au profil de risque de ses investissements dans les positions titrisées correspondantes, visant à analyser et enregistrer les informations pertinentes visées à l'article 406, paragraphe 1, du règlement (UE) no 575/2013. |\n| --- | --- |",
+      "text_sha256": "9f1f82c481fbf40cec4d6578befb13d44f3d32a96835a9f527f32e8e229fc369",
+      "md_span": {
+        "start": 24944,
+        "end": 26212
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. Le respect de l'obligation visée à l'article 408 du règlement (UE) no 575/2013 par les établissements initiateurs ou sponsors ne signifie pas que les types d'emprunteur et les produits de crédit doivent être les mêmes pour les expositions titrisées et non titrisées.\n\n2. Lorsque les établissements sponsors et initiateurs n'ont pas participé à l'octroi de crédit initial des expositions à titriser, ou ne sont pas actifs dans l'octroi de crédit pour les types spécifiques d'expositions à titriser, ces établissements obtiennent toutes les informations nécessaires pour évaluer si les critères appliqués dans l'octroi de crédit pour ces expositions sont aussi solides et bien définis que les critères appliqués aux expositions non titrisées.",
+      "text_sha256": "aff463d0082a70733e63b393ae4c1ad7628891f716b3855f85df469cd2f42add",
+      "md_span": {
+        "start": 26247,
+        "end": 27002
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. Le rétenteur communique aux investisseurs, conformément à l'article 409 du règlement (UE) no 575/2013, au moins les informations suivantes concernant le niveau de l'engagement qu'il prend de retenir un intérêt économique net dans la titrisation:\n\n| a) | la confirmation de l'identité du rétenteur et du fait qu'il agit en qualité d'initiateur, de sponsor ou de prêteur initial; |\n| --- | --- |\n\n| b) | si les modalités prévues à l'article 405, paragraphe 1, deuxième alinéa, point a), b), c), d) ou e), du règlement (UE) no 575/2013 ont été appliquées pour retenir un intérêt économique net; |\n| --- | --- |\n\n| c) | tout changement de la modalité de rétention d'un intérêt économique net visée au point b), conformément à l'article 10, paragraphe 1, point d); |\n| --- | --- |\n\n| d) | la confirmation du niveau de rétention à l'initiation et de l'engagement de retenir sur une base permanente, qui doit porter uniquement sur la poursuite de la réalisation de l'obligation initiale et ne peut exiger de données sur la valeur nominale ou de marché actuelle, ou sur toutes dépréciations ou réductions de valeur de l'intérêt retenu. |\n| --- | --- |\n\n2. Lorsque les exemptions visées à l'article 405, paragraphe 3 ou 4, du règlement (UE) no 575/2013 s'appliquent à une opération de titrisation, les établissements qui agissent en qualité d'initiateur, de sponsor ou de prêteur initial communiquent aux investisseurs des informations sur les exemptions applicables.\n\n3. Les communications d'informations visées aux paragraphes 1 et 2 sont dûment documentées et mises à la disposition du public, excepté dans les opérations bilatérales ou privées pour lesquelles la communication privée est considérée par les parties comme suffisante. L'inclusion d'une déclaration sur l'engagement de rétention dans le prospectus pour les titres émis dans le cadre du programme de titrisation est considérée comme un moyen approprié de satisfaire à l'exigence.\n\n4. La communication d'informations est également confirmée après l'initiation avec la même régularité que la fréquence des rapports de l'opération, au moins chaque année et dans tous les cas suivants:\n\n| a) | lorsque se produit un manquement à l'engagement de rétention visé à l'article 405, paragraphe 1, du règlement (UE) no 575/2013; |\n| --- | --- |\n\n| b) | lorsque la performance de la position de titrisation ou les caractéristiques de risque de la titrisation ou des expositions sous-jacentes changent de manière significative; |\n| --- | --- |\n\n| c) | après un manquement aux obligations incluses dans la documentation relative à la titrisation. |\n| --- | --- |",
+      "text_sha256": "7f132e95fa9b54ce11630c04b236d8abdab77bd7233a20d78de338b3c02a2767",
+      "md_span": {
+        "start": 27037,
+        "end": 29658
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\n1. Les initiateurs, les sponsors et les prêteurs initiaux veillent à ce que les données pertinentes et significatives visées à l'article 409 du règlement (UE) no 575/2013 soient aisément accessibles aux investisseurs, sans charge administrative excessive.\n\n2. La communication appropriée d'informations visée à l'article 409 du règlement (UE) no 575/2013 est effectuée au moins une fois par an et dans les cas suivants:\n\n| a) | lorsque la performance de la position de titrisation ou les caractéristiques de risque de la titrisation ou des expositions sous-jacentes changent de manière significative; |\n| --- | --- |\n\n| b) | après un manquement aux obligations incluses dans la documentation relative à la titrisation; |\n| --- | --- |\n\n| c) | pour que les données soient considérées comme pertinentes et significatives en ce qui concerne les différentes expositions sous-jacentes, elles sont, en général, fournies «prêt par prêt», mais il y existe cependant des cas dans lesquels les données peuvent être fournies sous une forme agrégée. Pour déterminer si des données sous forme agrégée sont suffisantes, les facteurs à prendre en compte incluent la granularité de l'ensemble sous-jacent et si la gestion des expositions dans cet ensemble est basée sur l'ensemble lui-même ou procède «prêt par prêt». |\n| --- | --- |\n\n3. L'obligation de publicité est subordonnée à toute autre exigence législative ou réglementaire applicable au rétenteur.",
+      "text_sha256": "6a0202aabe58e14cf289851da0f969368bd1a8a61b75f6b1a9853e0a3f96f6f5",
+      "md_span": {
+        "start": 29693,
+        "end": 31145
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32014r0625:2014-03-13#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l'Union européenne.",
+      "text_sha256": "69008f69cb10fd1f83cbc60ab3187cf3677f2333c936a2d1edd3e55ce0d0571a",
+      "md_span": {
+        "start": 31180,
+        "end": 31322
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

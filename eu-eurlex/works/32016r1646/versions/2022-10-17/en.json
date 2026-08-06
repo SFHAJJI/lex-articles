@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r1646:2022-10-17",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2016/1646 of 13 September 2016 laying down implementing technical standards with regard to main indices and recognised exchanges in accordance with Regulation (EU) No 575/2013",
+  "valid_from": "2022-10-17",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r1646/versions/2022-10-17/en.html",
+    "sha256": "48e1269880a308dd218354c67dba1e53922836d4302652dc36b471d78b1d3a6d",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1646-20221017"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r1646:2022-10-17#art_1",
+      "eli": null,
+      "type": "article",
+      "num": "Article 1",
+      "heading": "Main indices",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The main indices for the purposes of Article 197(8)(a) of Regulation (EU) No 575/2013 are specified in Annex I to this Regulation.",
+      "text_sha256": "11fb2f27f178410a2a06ffe206637a844c35f0ef45cef083dc10207599257894",
+      "md_span": {
+        "start": 788,
+        "end": 918
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r1646:2022-10-17#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": "Recognised exchanges",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "The recognised exchanges for the purposes of Article 197(8)(b) of Regulation (EU) No 575/2013 are specified in Annex II to this Regulation.",
+      "text_sha256": "2a6f1857fd9b403f1f14246721b76a7587f716554536c80ac92225e9b8f1335f",
+      "md_span": {
+        "start": 978,
+        "end": 1117
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r1646:2022-10-17#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": "Entry into force",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.",
+      "text_sha256": "b56708fda318747539ac1535763071331ae847bde5f1692b41a90b7bddad33b0",
+      "md_span": {
+        "start": 1173,
+        "end": 1315
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r0855:2026-04-14",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2026/855 of 14\u00A0April 2026 on interoperability requ…",
+  "valid_from": "2026-04-14",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r0855/versions/2026-04-14/fr.xml",
+    "sha256": "778b35afd03f9e543c21ae4d1275c59c3cc9ed3e1cd2f7dea044141405e6efbb",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R0855"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r0855:2026-04-14#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\n1. Le présent règlement établit des exigences d’interopérabilité et des procédures non discriminatoires et transparentes pour l’accès aux données nécessaires au changement de fournisseur sur le marché de l’électricité et l’échange de ces données. Il précise également le processus technique de changement de fournisseur d’électricité, qui, conformément à l’article 12, paragraphe 1, de la directive (UE) 2019/944, au plus tard en 2026, ne dure pas plus de 24 h et est possible n’importe quel jour ouvrable. Il définit également des procédures non discriminatoires et transparentes pour l’accès aux données, qui nécessitent de notifier et de publier les pratiques nationales appliquant le modèle de référence.\n\n2. Afin de garantir l’application des exigences d’interopérabilité visées au paragraphe 1, le présent règlement établit un modèle de référence pour les données requises pour le processus de changement de fournisseur du client final, qui définit les règles et procédures permettant l’interopérabilité. Le modèle de référence énumère également les acteurs du marché de l’électricité concernés ainsi que leurs rôles et responsabilités individuels ou conjoints.",
+      "text_sha256": "13a8d0acb5759ed839625f10ae26d7d476f57c2ff99b04583558f84560326340",
+      "md_span": {
+        "start": 636,
+        "end": 1820
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r0855:2026-04-14#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nAux fins du présent règlement, on entend par:\n\n| 1) | «fournisseur d’électricité» ou «fournisseur», un acteur du marché exerçant des activités de fourniture d’électricité; |\n| --- | --- |\n\n| 2) | «fourniture», la fourniture au sens de l’article 2, point 12), de la directive (UE) 2019/944; |\n| --- | --- |\n\n| 3) | «modèle de référence», le modèle de référence au sens de l’article 2, point 1), du règlement d’exécution (UE) 2023/1162; |\n| --- | --- |\n\n| 4) | «client final», un client final au sens de l’article 2, point 3), de la directive (UE) 2019/944; |\n| --- | --- |\n\n| 5) | «point de comptage», un emplacement physique où le soutirage ou l’injection de grandeurs électriques est mesuré ou calculé; |\n| --- | --- |\n\n| 6) | «administrateur du point de comptage», administrateur du point de comptage au sens de l’article 2, point 12), du règlement d’exécution (UE) 2023/1162; |\n| --- | --- |\n\n| 7) | «authentification», l’authentification au sens de l’article 2, point 16), du règlement d’exécution (UE) 2023/1162; |\n| --- | --- |\n\n| 8) | «point de règlement», un point de comptage ou un point de comptage virtuel placé sous la responsabilité d’un responsable d’équilibre, où l’approvisionnement en énergie est fourni par un fournisseur d’énergie, où le règlement est effectué et où le changement de fournisseur d’énergie peut avoir lieu; |\n| --- | --- |\n\n| 9) | «responsable d’équilibre», un responsable d’équilibre au sens de l’article 2, point 14), du règlement (UE) 2019/943 du Parlement européen et du Conseil (13); |\n| --- | --- |\n\n| 10) | «autorisation», l’autorisation au sens de l’article 2, point 8), du règlement d’exécution (UE) 2023/1162; |\n| --- | --- |\n\n| 11) | «contrat de fourniture d’électricité», un contrat de fourniture d’électricité, à l’exclusion des instruments dérivés sur l’électricité, tels que définis à l’article 2, point 13), de la directive (UE) 2019/944; |\n| --- | --- |\n\n| 12) | «administrateur des données issues du comptage», l’administrateur des données issues du comptage au sens de l’article 2, point 7), du règlement d’exécution (UE) 2023/1162; |\n| --- | --- |\n\n| 13) | «partie ayant droit», un acteur du marché qui doit être informé des modifications apportées au registre des points de comptage par l’administrateur du point de comptage, ou l’entité déléguée si les États membres le prévoient, à la suite d’un processus sur le marché de détail ou de l’annulation de ce processus; |\n| --- | --- |\n\n| 14) | «partie affectée», un acteur du marché qui acquiert ou perd la responsabilité du point de règlement concerné en conséquence directe d’un processus sur le marché de détail ou de l’annulation de ce processus; |\n| --- | --- |\n\n| 15) | «administrateur des autorisations», un administrateur des autorisations au sens de l’article 2, point 10), du règlement d’exécution (UE) 2023/1162; |\n| --- | --- |\n\n| 16) | «futur fournisseur», un fournisseur qui est déjà enregistré dans le registre des points de mesure pour un point de règlement pour une période donnée dans le futur. |\n| --- | --- |",
+      "text_sha256": "f32c6a9d0b802d564aaf56e519b47171165d50bbedb75f8a65a886de80a0a735",
+      "md_span": {
+        "start": 1853,
+        "end": 4897
+      },
+      "citations": [
+        {
+          "href": "#ntr13-L_202600855FR.000101-E0013",
+          "text": "(13)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32026r0855:2026-04-14#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLes entreprises d’électricité sur le marché de détail de l’électricité appliquent les dispositions du présent chapitre et le modèle de référence figurant à l’annexe.",
+      "text_sha256": "aacb15c21ae909fc209bc7ff4d888e7ec3cc7e385f2fd4d1e760f83a28c2f039",
+      "md_span": {
+        "start": 4930,
+        "end": 5106
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32026r0855:2026-04-14#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. Les États membres veillent à la notification des pratiques nationales concernant la mise en œuvre des exigences d’interopérabilité et des procédures d’accès aux données, conformément à l’article 9, et veillent à leur conformité avec les obligations énoncées dans le présent règlement.\n\n2. Les États membres mettent à la disposition de toutes les parties éligibles et de tous les clients finals les informations relatives à l’organisation du marché national en ce qui concerne les rôles et responsabilités spécifiques figurant dans le tableau I de l’annexe.\n\n3. Les informations visées au paragraphe 2 comprennent l’identification des parties agissant sur le marché national en tant que nouveau fournisseur d’électricité, fournisseur précédent et administrateur du point de comptage.\n\n4. Les États membres peuvent, le cas échéant, confier tout ou partie des responsabilités spécifiques de l’administrateur du point de comptage liées au changement de fournisseur à une entité autre que celle désignée pour exercer ce rôle en vertu du règlement d’exécution (UE) 2023/1162, à condition que ces modalités soient clairement indiquées dans la cartographie des rôles au niveau national conformément à l’article 9 du présent règlement.",
+      "text_sha256": "bb28ff927a3fc116a7a06480c784b955810b591ba01e1cb20a26d19e271cc263",
+      "md_span": {
+        "start": 5139,
+        "end": 6379
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32026r0855:2026-04-14#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nLe nouveau fournisseur d’électricité:\n\n| a) | vérifie l’identité du client final demandant le changement de fournisseur; |\n| --- | --- |\n\n| b) | identifie le ou les points de règlement liés à la demande enregistrés auprès du client final; |\n| --- | --- |\n\n| c) | veille à ce qu’un responsable d’équilibre assume la responsabilité d’équilibre pour le ou les points de règlement identifiés au début de l’approvisionnement; |\n| --- | --- |\n\n| d) | obtient l’autorisation du client final pour réaliser les activités préparatoires nécessaires à la conclusion d’un contrat de fourniture d’électricité avec lui; |\n| --- | --- |\n\n| e) | présente une demande d’enregistrement à l’administrateur du point de comptage, ou à l’entité déléguée si les États membres le prévoient, afin d’être enregistré en tant que nouveau fournisseur pour le ou les points de règlement concernés à la date convenue et spécifiée dans le nouveau contrat de fourniture avec le client final; |\n| --- | --- |\n\n| f) | reçoit les données de comptage de l’administrateur des données issues du comptage au début de la fourniture afin de garantir une facturation précise; |\n| --- | --- |\n\n| g) | sans préjudice du droit contractuel, demande à l’administrateur du point de comptage, ou à l’entité déléguée si les États membres le prévoient, d’annuler toute procédure de changement de fournisseur en cours dans les cas où le client final annule le nouveau contrat de fourniture avec le fournisseur concerné. |\n| --- | --- |",
+      "text_sha256": "1f9ba337ee60dc76c656ec59d606f8e4d616e2c10cccb60acd7898135bdaa836",
+      "md_span": {
+        "start": 6412,
+        "end": 7904
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32026r0855:2026-04-14#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nLe fournisseur précédent fournit au client final un compte de clôture définitif, conformément à l’article 10, paragraphe 12, de la directive (UE) 2019/944, et reçoit les données de comptage de l’administrateur des données issues du comptage afin de garantir une facturation précise, une fois que leur fourniture au(x) point(s) de règlement a pris fin.",
+      "text_sha256": "0f3f5e50665186282b7f76cce558a13f7687467e14cbc2f2cf513aa9842310bf",
+      "md_span": {
+        "start": 7937,
+        "end": 8299
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32026r0855:2026-04-14#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. Dans les meilleurs délais, l’administrateur du point de comptage, ou l’entité déléguée chargée de responsabilités spécifiques en matière de changement de fournisseur lorsque les États membres l’ont prévu:\n\n| a) | met à la disposition du nouveau fournisseur, de manière non discriminatoire, à sa demande et avec l’autorisation du client final, les caractéristiques du ou des points de règlement associés, par l’intermédiaire d’une interface en ligne ou d’une autre interface appropriée; |\n| --- | --- |\n\n| b) | traite la demande de changement de fournisseur validée du client final, soumise par le nouveau fournisseur; |\n| --- | --- |\n\n| c) | notifie aux parties habilitées et aux parties concernées tout changement de fournisseur et de responsable d’équilibre affecté au(x) point(s) de règlement associé(s). |\n| --- | --- |\n\n2. Les administrateurs de points de comptage, ou les entités déléguées lorsque les États membres l’ont prévu, donnent aux fournisseurs accès à des installations d’essai afin qu’ils puissent tester la compatibilité de leurs systèmes avec les systèmes des administrateurs de points de comptage, ou des entités déléguées lorsque les États membres l’ont prévu, mettant en œuvre les procédures prévues par le présent règlement. L’installation d’essai est disponible avant la mise en œuvre des procédures et pendant leur fonctionnement.",
+      "text_sha256": "0585d10abcf507e0e2b0ab45f745d22c5602b4fd3f57ae9067d7a8d83ee90776",
+      "md_span": {
+        "start": 8332,
+        "end": 9701
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32026r0855:2026-04-14#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nLes États membres appliquent les procédures 1 et 2 figurant en annexe à l’accès et à l’échange des données requises pour le processus de changement de fournisseur du client.",
+      "text_sha256": "dc34f28b6e14c4ad859cc21ad76e29cd2302dac4fde898ff871943c38dcbb182",
+      "md_span": {
+        "start": 9734,
+        "end": 9918
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32026r0855:2026-04-14#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. Aux fins de la notification des pratiques nationales pour la mise en œuvre du modèle de référence, les États membres:\n\n| a) | désignent une autorité compétente ou une autre entité pour s’acquitter des obligations de notification énoncées dans le présent article. Le mandat et les modalités de sa nomination sont clairement détaillés dans le cadre national de mise en œuvre et communiqués à la Commission; |\n| --- | --- |\n\n| b) | exigent de l’autorité ou de l’entité désignée qu’elle établisse et tienne à jour une cartographie détaillée des pratiques nationales, comprenant une description et une explication complètes de la manière dont les étapes procédurales décrites dans les tableaux III.1 et III.2 de l’annexe sont effectuées. Cette cartographie doit indiquer toutes les étapes combinées et l’ordre dans lequel elles sont exécutées; |\n| --- | --- |\n\n| c) | veillent à ce que la cartographie des pratiques nationales, telle que mentionnée au point b), soit soumise par l’autorité ou l’entité désignée au REGRT-E et à l’entité des GRD de l’Union, qui la publient dans un répertoire accessible au public, tel que visé à l’article 10. |\n| --- | --- |\n\n2. La notification des pratiques nationales contient des informations sur la mise en œuvre nationale du modèle de référence, notamment des différents rôles, des échanges d’informations et des procédures.\n\n3. La notification des pratiques nationales respecte les orientations élaborées par le REGRT-E et l’entité des GRD de l’Union visée à l’article 11.\n\n4. L’autorité compétente ou toute autre entité désignée conformément au paragraphe 1, point a), communique les notifications des pratiques nationales au REGRT-E et à l’entité des GRD de l’Union et veille à ce que la Commission soit dûment informée au plus tard le 1er juillet 2027.",
+      "text_sha256": "2ad84c377e5a0225efa6f76760eadf8468c150980c35c32ed9ea773d521bda6c",
+      "md_span": {
+        "start": 9951,
+        "end": 11754
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32026r0855:2026-04-14#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Aux fins de leur coopération en matière de transparence des données, le REGRT-E et l’entité des GRD de l’Union accomplissent les tâches suivantes:\n\n| a) | élaborer et publier des orientations destinées à aider les États membres à notifier leurs pratiques nationales, telles que prévues à l’article 11; |\n| --- | --- |\n\n| b) | recueillir les notifications des pratiques nationales fournies par les autorités compétentes ou les entités désignées par les États membres en ce qui concerne la mise en œuvre du modèle de référence conformément à l’article 9; |\n| --- | --- |\n\n| c) | publier et tenir à jour les notifications des pratiques nationales dans un répertoire accessible au public, en s’appuyant sur le répertoire mis au point pour l’accès aux données de comptage et de consommation conformément au règlement d’exécution (UE) 2023/1162. |\n| --- | --- |\n\n2. Le REGRT-E et l’entité des GRD de l’Union collaborent également avec la Commission, conformément à l’article 11 du règlement d’exécution (UE) 2023/1162, pour surveiller la mise en œuvre du modèle de référence établi dans le présent règlement, en tenant compte des évolutions ultérieures dues aux changements réglementaires, commerciaux ou technologiques.",
+      "text_sha256": "c74774774e20ec06dfe9e5b3c405ca5f2c43cb0919d4ded824a03e382cf68da2",
+      "md_span": {
+        "start": 11789,
+        "end": 13018
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32026r0855:2026-04-14#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\nAu plus tard le 1er juillet 2026, le REGRT-E et l’entité des GRD de l’Union élaborent et publient des orientations sur la notification des pratiques nationales en matière de changement de fournisseur. Ces orientations sont mises à la disposition du public, garantissant l’accessibilité et la transparence pour toutes les parties prenantes concernées.",
+      "text_sha256": "491c6f1d412a4d155f65ea9b0ddef0844a60b084828200b408c3283ae9d35d66",
+      "md_span": {
+        "start": 13053,
+        "end": 13415
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32026r0855:2026-04-14#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nL’article 3 est applicable à partir du 31 décembre 2026.",
+      "text_sha256": "adc385d2f8f1ddb6b25f661e788ff2fc05fd17f508ce0ed6180d3d83117cf2a5",
+      "md_span": {
+        "start": 13450,
+        "end": 13650
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

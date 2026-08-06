@@ -1,0 +1,115 @@
+---
+lex_id: 'eu-eurlex:32023r2599:2023-11-22'
+title: 'Commission Implementing Regulation (EU) 2023/2599 of 22 November 2023 laying down rules for the application of Directive 2003/87/EC'
+valid_from: '2023-11-22'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R2599'
+source_sha256: '667d5cc38da25ae5c94b521298c98cada8def7313bb122614b17939ab55fbda6'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'xhtml-eu/1 · lex derive'
+---
+
+<a id="art_1"></a>
+
+### art_1
+
+Article premier
+
+1. Dans le cas où un organisme ou une personne, tels que l’armateur gérant ou l’affréteur coque nue, auxquels le propriétaire du navire a confié la responsabilité de l’exploitation du navire, ont, en assumant cette responsabilité, accepté de s’acquitter des tâches et des obligations imposées par le code international de gestion pour la sécurité de l’exploitation des navires et la prévention de la pollution, lequel figure à l’annexe I du règlement (CE) no 336/2006, et également d’assumer la responsabilité des obligations de se conformer aux mesures nationales transposant la directive 2003/87/CE et de l’obligation de restituer des quotas en vertu des articles 3 octies ter et 12 de ladite directive (ci-après les «obligations SEQE»), les États membres veillent à ce que cet organisme ou cette personne aient été dûment mandatés par le propriétaire du navire pour se conformer aux obligations SEQE.
+
+2. Aux fins du paragraphe 1, l’organisme ou la personne fournissent à l’autorité responsable d’une compagnie maritime dont ils relèvent un document indiquant clairement qu’ils ont été dûment mandatés par le propriétaire du navire pour se conformer aux obligations SEQE.
+
+Le document est signé à la fois par propriétaire du navire et par l’organisme ou la personne en question.
+
+Si ce document est rédigé dans une langue autre qu’une langue officielle de l’État membre ou que l’anglais, une traduction en anglais est fournie.
+
+Si ce document est une copie, celle-ci est certifiée conforme par un notaire ou une personne exerçant des fonctions équivalentes spécifiée par l’autorité responsable d’une compagnie maritime. Si la copie certifiée conforme n’est pas délivrée dans l’État membre de l’autorité responsable d’une compagnie maritime, la copie est légalisée, sauf dispositions contraires de la législation nationale.
+
+3. Le document visé au paragraphe 2 contient les éléments suivants:
+
+| a) | le nom et le numéro d’identification unique de l’Organisation maritime internationale (OMI) pour les compagnies et les propriétaires enregistrés de l’organisme ou de la personne mandatés par le propriétaire du navire; |
+| --- | --- |
+
+| b) | le pays d’enregistrement de l’organisme ou de la personne mandatée par le propriétaire du navire, tel qu’il est enregistré dans le système de numéro d’identification unique de l’OMI pour les compagnies et les propriétaires enregistrés; |
+| --- | --- |
+
+| c) | le nom du propriétaire du navire, et son numéro d’identification unique de l’OMI pour les compagnies et les propriétaires enregistrés; |
+| --- | --- |
+
+| d) | les informations suivantes pour le propriétaire du navire (personne de contact):i)prénom;ii)nom de famille;iii)intitulé du poste;iv)adresse professionnelle;v)numéro de téléphone professionnel;vi)adresse électronique professionnelle; |
+| --- | --- |
+| i) | prénom; |
+| ii) | nom de famille; |
+| iii) | intitulé du poste; |
+| iv) | adresse professionnelle; |
+| v) | numéro de téléphone professionnel; |
+| vi) | adresse électronique professionnelle; |
+
+| e) | date d’application du mandat octroyé par le propriétaire du navire à l’organisme ou à la personne; |
+| --- | --- |
+
+| f) | numéro OMI d’identification de chaque navire relevant du mandat. |
+| --- | --- |
+
+4. Lorsque l’organisme ou la personne visés au premier paragraphe ne peuvent fournir à leur autorité responsable le document visé au paragraphe 2, le propriétaire du navire est réputé être l’entité responsable des obligations SEQE.
+
+<a id="art_2"></a>
+
+### art_2
+
+Article 2
+
+1. Lorsque l’entité qui a assumé la responsabilité des obligations SEQE est le propriétaire du navire, l’autorité responsable d’une compagnie maritime veille à ce que ledit propriétaire lui fournisse un document comprenant la liste des navires pour lesquels il assume la responsabilité des obligations SEQE et dont les émissions relèvent du champ d’application de la directive 2003/87/CE, ainsi que les numéros OMI d’identification des navires en cause.
+
+2. En cas de modification de la liste visée au paragraphe 1, le propriétaire du navire informe sans délai l’autorité responsable d’une compagnie maritime et, pour chacun des navires ne relevant plus de sa responsabilité, fournit à cette dernière un document mis à jour, ainsi que le nom et le numéro d’identification unique de l’OMI pour les compagnies et les propriétaires enregistrés de la nouvelle compagnie maritime.
+
+<a id="art_3"></a>
+
+### art_3
+
+Article 3
+
+1. Aux fins de l’attribution d’une compagnie maritime à une autorité responsable d’une compagnie maritime conformément à l’article 3 octies septies de la directive 2003/87/CE, le pays d’immatriculation d’une compagnie maritime visé à l’article 3 octies septies de ladite directive est le pays enregistré dans Thetis MRV, le système d’information spécifique de l’Union qui soutient la mise en œuvre du règlement (UE) 2015/757.
+
+2. Aux fins de l’attribution à une autorité responsable d’une compagnie maritime conformément à l’article 3 octies septies, paragraphe 1, de la directive 2003/87/CE d’une compagnie maritime non immatriculée dans un État membre, les données relatives aux escales sont fondées sur les données enregistrées dans le système d’échange d’informations maritimes de l’Union (SafeSeaNet) mis en place par la directive 2002/59/CE.
+
+Lorsque les données enregistrées dans SafeSeaNet sont insuffisantes pour permettre l’attribution d’une compagnie maritime non immatriculée dans un État membre à une autorité responsable d’une compagnie maritime, la Commission peut utiliser des données complémentaires, telles que les données du système d’identification automatique, stockées par d’autres systèmes d’information.
+
+<a id="art_4"></a>
+
+### art_4
+
+Article 4
+
+Lorsque le premier voyage d’un navire d’une compagnie maritime non immatriculée dans un État membre, au sens de l’article 3 octies septies, paragraphe 1, point c), de la directive 2003/87/CE, est un voyage ayant débuté dans un port d’escale relevant de la juridiction d’un État membre et ayant pris fin dans un port d’escale relevant de la juridiction d’un autre État membre, l’autorité responsable de ladite compagnie maritime est l’État membre dans lequel ce voyage a commencé.
+
+<a id="art_5"></a>
+
+### art_5
+
+Article 5
+
+Dans le cas où une compagnie maritime non immatriculée dans un État membre totalise un nombre maximal d’escales identique dans deux États membres ou plus, l’autorité responsable d’une compagnie maritime est l’État membre dans lequel la compagnie maritime a effectué sa première escale au cours des voyages qui ont débuté ou pris fin dans lesdits États membres qui comptabilisent le même nombre d’escales au cours des périodes de déclaration concernées.
+
+La date et l’heure de départ ou d’arrivée sont calculées en fonction du temps universel coordonné (GMT/UTC).
+
+<a id="art_6"></a>
+
+### art_6
+
+Article 6
+
+1. En cas de changement d’autorité responsable d’une compagnie maritime, la nouvelle autorité responsable a accès à toutes les informations pertinentes concernant la compagnie maritime en question. Cela inclut l’accès au programme de surveillance de chaque navire relevant de la responsabilité de la compagnie maritime, aux déclarations d’émissions précédentes au niveau du navire et aux déclarations au niveau du navire à présenter en cas de changement de compagnie pour chaque navire sous la responsabilité de la compagnie maritime, ainsi qu’aux données d’émissions agrégées au niveau de la compagnie pour les périodes de surveillance précédentes.
+
+2. L’autorité qui était responsable d’une compagnie maritime avant le changement visé au paragraphe 1 fait preuve de la diligence nécessaire en vue de fournir à la nouvelle autorité responsable, lorsque celle-ci en fait la demande, tout document ou information utiles supplémentaires concernant la compagnie maritime concernée.
+
+3. L’autorité qui était responsable d’une compagnie maritime avant le changement visé au paragraphe 1 a accès aux informations relatives à la période pendant laquelle la compagnie maritime était sous sa responsabilité autant que de besoin, notamment aux fins du traitement des procédures de sanctions applicables aux violations des dispositions nationales prises en application de la directive 2003/87/CE et des sanctions visées à l’article 16, paragraphe 3, de ladite directive.
+
+<a id="art_7"></a>
+
+### art_7
+
+Article 7
+
+Le présent règlement entre en vigueur le troisième jour suivant celui de sa publication au Journal officiel de l’Union européenne.

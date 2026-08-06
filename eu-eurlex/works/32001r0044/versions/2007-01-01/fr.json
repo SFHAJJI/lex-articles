@@ -1,0 +1,1809 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32001r0044:2007-01-01",
+  "language": "fr",
+  "title": "Council Regulation (EC) No 44/2001 of 22 December 2000 on jurisdiction and the recognition…",
+  "valid_from": "2007-01-01",
+  "valid_to": "2008-12-03",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32001r0044/versions/2007-01-01/fr.html",
+    "sha256": "c3b4e1b0f5a909160ca23b1e09314066dae7aff8221283a6438994d35fa2a194",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02001R0044-20070101"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_premier",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_premier",
+      "eli": null,
+      "type": "article",
+      "num": "Article premier",
+      "heading": null,
+      "path": [
+        "CHAPITRE I",
+        "CHAMP D'APPLICATION"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Le présent règlement s'applique en matière civile et commerciale et quelle que soit la nature de la juridiction. Il ne recouvre notamment pas les matières fiscales, douanières ou administratives.\n\n2. Sont exclus de son application:\n\na) l'état et la capacité des personnes physiques, les régimes matrimoniaux, les testaments et les successions;\n\nb) les faillites, concordats et autres procédures analogues;\n\nc) la sécurité sociale;\n\nd) l'arbitrage.\n\n3. Dans le présent règlement, on entend par «État membre» tous les États membres à l'exception du Danemark.",
+      "text_sha256": "2cfe4117e546851d70892cd734c74e129d295b714316cb799b7ae8f201fe5db0",
+      "md_span": {
+        "start": 707,
+        "end": 1266
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_2",
+      "eli": null,
+      "type": "article",
+      "num": "Article 2",
+      "heading": null,
+      "path": [
+        "Section 1",
+        "Dispositions générales"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Sous réserve des dispositions du présent règlement, les personnes domiciliées sur le territoire d'un État membre sont attraites, quelle que soit leur nationalité, devant les juridictions de cet État membre.\n\n2. Les personnes qui ne possèdent pas la nationalité de l'État membre dans lequel elles sont domiciliées y sont soumises aux règles de compétence applicables aux nationaux.",
+      "text_sha256": "af122f0b0aabadaddfc8b2c6d5c129833defee68a5068516654bffb2c6eba5ab",
+      "md_span": {
+        "start": 1345,
+        "end": 1728
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_3",
+      "eli": null,
+      "type": "article",
+      "num": "Article 3",
+      "heading": null,
+      "path": [
+        "Section 1",
+        "Dispositions générales"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les personnes domiciliées sur le territoire d'un État membre ne peuvent être attraites devant les tribunaux d'un autre État membre qu'en vertu des règles énoncées aux sections 2 à 7 du présent chapitre.\n\n2. Ne peuvent être invoquées contre elles notamment les règles de compétence nationales figurant à l'annexe I.",
+      "text_sha256": "6f7517333995adadf41c02574f41a90ed268441005ecfaca717f10de3b2f2065",
+      "md_span": {
+        "start": 1765,
+        "end": 2082
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_4",
+      "eli": null,
+      "type": "article",
+      "num": "Article 4",
+      "heading": null,
+      "path": [
+        "Section 1",
+        "Dispositions générales"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Si le défendeur n'est pas domicilié sur le territoire d'un État membre, la compétence est, dans chaque État membre, réglée par la loi de cet État membre, sous réserve de l'application des dispositions des articles 22 et 23.\n\n2. Toute personne, quelle que soit sa nationalité, domiciliée sur le territoire d'un État membre, peut, comme les nationaux, y invoquer contre ce défendeur les règles de compétence qui y sont en vigueur et notamment celles prévues à l'annexe I.",
+      "text_sha256": "f0d9c317118e5df0f914c57d535aa6b5df962230f71419177b6b93232726d066",
+      "md_span": {
+        "start": 2119,
+        "end": 2591
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_5",
+      "eli": null,
+      "type": "article",
+      "num": "Article 5",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Compétences spéciales"
+      ],
+      "article_valid_from": null,
+      "text_md": "Une personne domiciliée sur le territoire d'un État membre peut être attraite, dans un autre État membre:\n\na) en matière contractuelle, devant le tribunal du lieu où l'obligation qui sert de base à la demande a été ou doit être exécutée;\n\nb) aux fins de l'application de la présente disposition, et sauf convention contraire, le lieu d'exécution de l'obligation qui sert de base à la demande est:\n\n— pour la vente de marchandises, le lieu d'un État membre où, en vertu du contrat, les marchandises ont été ou auraient dû être livrées,\n\n— pour la fourniture de services, le lieu d'un État membre où, en vertu du contrat, les services ont été ou auraient dû être fournis;\n\nc) le point a) s'applique si le point b) ne s'applique pas;\n\n2) en matière d'obligation alimentaire, devant le tribunal du lieu où le créancier d'aliments a son domicile ou sa résidence habituelle ou, s'il s'agit d'une demande accessoire à une action relative à l'état des personnes, devant le tribunal compétent selon la loi du for pour en connaître, sauf si cette compétence est uniquement fondée sur la nationalité d'une des parties;\n\n3) en matière délictuelle ou quasi délictuelle, devant le tribunal du lieu où le fait dommageable s'est produit ou risque de se produire;\n\n4) s'il s'agit d'une action en réparation de dommage ou d'une action en restitution fondées sur une infraction, devant le tribunal saisi de l'action publique, dans la mesure où, selon sa loi, ce tribunal peut connaître de l'action civile;\n\n5) s'il s'agit d'une contestation relative à l'exploitation d'une succursale, d'une agence ou de tout autre établissement, devant le tribunal du lieu de leur situation;\n\n6) en sa qualité de fondateur, de *trustee* ou de bénéficiaire d'un *trust* constitué soit en application de la loi, soit par écrit ou par une convention verbale, confirmée par écrit, devant les tribunaux de l'État membre sur le territoire duquel le *trust* a son domicile;\n\n7) s'il s'agit d'une contestation relative au paiement de la rémunération réclamé en raison de l'assistance ou du sauvetage dont a bénéficié une cargaison ou un fret, devant le tribunal dans le ressort duquel cette cargaison ou le fret s'y rapportant:\n\na) a été saisi pour garantir ce paiement, ou\n\nb) aurait pu être saisi à cet effet, mais une caution ou une autre sûreté a été donnée,\n\ncette disposition ne s'applique que s'il est prétendu que le défendeur a un droit sur la cargaison ou sur le fret ou qu'il avait un tel droit au moment de cette assistance ou de ce sauvetage.",
+      "text_sha256": "985519c471bd80655461f27abd03b8c51a6f3eba38702a7ae1f586edc73c6a29",
+      "md_span": {
+        "start": 2669,
+        "end": 5181
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_6",
+      "eli": null,
+      "type": "article",
+      "num": "Article 6",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Compétences spéciales"
+      ],
+      "article_valid_from": null,
+      "text_md": "Cette même personne peut aussi être attraite:\n\n1) s'il y a plusieurs défendeurs, devant le tribunal du domicile de l'un d'eux, à condition que les demandes soient liées entre elles par un rapport si étroit qu'il y a intérêt à les instruire et à les juger en même temps afin d'éviter des solutions qui pourraient être inconciliables si les causes étaient jugées séparément;\n\n2) s'il s'agit d'une demande en garantie ou d'une demande en intervention, devant le tribunal saisi de la demande originaire, à moins qu'elle n'ait été formée que pour traduire hors de son tribunal celui qui a été appelé;\n\n3) s'il s'agit d'une demande reconventionnelle qui dérive du contrat ou du fait sur lequel est fondée la demande originaire, devant le tribunal saisi de celle-ci;\n\n4) en matière contractuelle, si l'action peut être jointe à une action en matière de droits réels immobiliers dirigée contre le même défendeur, devant le tribunal de l'État membre sur le territoire duquel l'immeuble est situé.",
+      "text_sha256": "1c7f8791a718209a4aae5c9d742b6b47248338f1e818890fa1d76aa0ef6b7731",
+      "md_span": {
+        "start": 5218,
+        "end": 6205
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_7",
+      "eli": null,
+      "type": "article",
+      "num": "Article 7",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Compétences spéciales"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsque, en vertu du présent règlement, un tribunal d'un État membre est compétent pour connaître des actions en responsabilité du fait de l'utilisation ou de l'exploitation d'un navire, ce tribunal ou tout autre que lui substitue la loi interne de cet État membre connaît aussi des demandes relatives à la limitation de cette responsabilité.",
+      "text_sha256": "4ebfe2f99e50320ccfc6654f640081296e81a6add508def246899c54b9105704",
+      "md_span": {
+        "start": 6242,
+        "end": 6584
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_8",
+      "eli": null,
+      "type": "article",
+      "num": "Article 8",
+      "heading": null,
+      "path": [
+        "Section 3",
+        "Compétence en matière d'assurances"
+      ],
+      "article_valid_from": null,
+      "text_md": "En matière d'assurances, la compétence est déterminée par la présente section, sans préjudice des dispositions de l'article 4 et de l'article 5, point 5.",
+      "text_sha256": "3f72cfde612b4e7960502b5b94ceef78468837264b9ad90b9ab3e04ce7b67e45",
+      "md_span": {
+        "start": 6675,
+        "end": 6828
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_9",
+      "eli": null,
+      "type": "article",
+      "num": "Article 9",
+      "heading": null,
+      "path": [
+        "Section 3",
+        "Compétence en matière d'assurances"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. L'assureur domicilié sur le territoire d'un État membre peut être attrait:\n\na) devant les tribunaux de l'État membre où il a son domicile, ou\n\nb) dans un autre État membre, en cas d'actions intentées par le preneur d'assurance, l'assuré ou un bénéficiaire, devant le tribunal du lieu où le demandeur a son domicile, ou\n\nc) s'il s'agit d'un coassureur, devant le tribunal d'un État membre saisi de l'action formée contre l'apériteur de la coassurance.\n\n2. Lorsque l'assureur n'est pas domicilié sur le territoire d'un État membre, mais possède une succursale, une agence ou tout autre établissement dans un État membre, il est considéré pour les contestations relatives à leur exploitation comme ayant son domicile sur le territoire de cet État membre.",
+      "text_sha256": "e1d5e98003ef9c21e26552e465e91c0a2ddf7b5fb0dfa300ad498be1cfe9c8b2",
+      "md_span": {
+        "start": 6865,
+        "end": 7619
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_10",
+      "eli": null,
+      "type": "article",
+      "num": "Article 10",
+      "heading": null,
+      "path": [
+        "Section 3",
+        "Compétence en matière d'assurances"
+      ],
+      "article_valid_from": null,
+      "text_md": "L'assureur peut, en outre, être attrait devant le tribunal du lieu où le fait dommageable s'est produit s'il s'agit d'assurance de responsabilité ou d'assurance portant sur des immeubles. Il en est de même si l'assurance porte à la fois sur des immeubles et des meubles couverts par une même police et atteints par le même sinistre.",
+      "text_sha256": "d4e6129629bbc595ef08dd43cc77bc2495802d92db4473c82ca2c62c08fd09b2",
+      "md_span": {
+        "start": 7658,
+        "end": 7990
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_11",
+      "eli": null,
+      "type": "article",
+      "num": "Article 11",
+      "heading": null,
+      "path": [
+        "Section 3",
+        "Compétence en matière d'assurances"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. En matière d'assurance de responsabilité, l'assureur peut également être appelé devant le tribunal saisi de l'action de la personne lésée contre l'assuré, si la loi de ce tribunal le permet.\n\n2. Les dispositions des articles 8, 9 et 10 sont applicables en cas d'action directe intentée par la victime contre l'assureur, lorsque l'action directe est possible.\n\n3. Si la loi relative à cette action directe prévoit la mise en cause du preneur d'assurance ou de l'assuré, le même tribunal sera aussi compétent à leur égard.",
+      "text_sha256": "2cab7ca7e7247fc02c5256c5b0921b74b2eb2866cb613718600599fa44c394cf",
+      "md_span": {
+        "start": 8029,
+        "end": 8552
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_12",
+      "eli": null,
+      "type": "article",
+      "num": "Article 12",
+      "heading": null,
+      "path": [
+        "Section 3",
+        "Compétence en matière d'assurances"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Sous réserve des dispositions de l'article 11, paragraphe 3, l'action de l'assureur ne peut être portée que devant les tribunaux de l'État membre sur le territoire duquel est domicilié le défendeur, qu'il soit preneur d'assurance, assuré ou bénéficiaire.\n\n2. Les dispositions de la présente section ne portent pas atteinte au droit d'introduire une demande reconventionnelle devant le tribunal saisi d'une demande originaire conformément à la présente section.",
+      "text_sha256": "07b19c33bab9ee3ac7ec4595be498989b193bf38500982d054652c0d9fea5269",
+      "md_span": {
+        "start": 8591,
+        "end": 9054
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_13",
+      "eli": null,
+      "type": "article",
+      "num": "Article 13",
+      "heading": null,
+      "path": [
+        "Section 3",
+        "Compétence en matière d'assurances"
+      ],
+      "article_valid_from": null,
+      "text_md": "Il ne peut être dérogé aux dispositions de la présente section que par des conventions:\n\n1) postérieures à la naissance du différend, ou\n\n2) qui permettent au preneur d'assurance, à l'assuré ou au bénéficiaire de saisir d'autres tribunaux que ceux indiqués à la présente section, ou\n\n3) qui, passées entre un preneur d'assurance et un assureur ayant, au moment de la conclusion du contrat, leur domicile ou leur résidence habituelle dans un même État membre, ont pour effet, alors même que le fait dommageable se produirait à l'étranger, d'attribuer compétence aux tribunaux de cet État sauf si la loi de celui-ci interdit de telles conventions, ou\n\n4) conclues par un preneur d'assurance n'ayant pas son domicile dans un État membre, sauf s'il s'agit d'une assurance obligatoire ou qui porte sur un immeuble situé dans un État membre, ou\n\n5) qui concernent un contrat d'assurance en tant que celui-ci couvre un ou plusieurs des risques énumérés à l'article 14.",
+      "text_sha256": "0334a857bc27b4ad9fd9050aed4f75bb752ec60ad9b8b94bdfa6e2fb3d84eb4a",
+      "md_span": {
+        "start": 9093,
+        "end": 10054
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_14",
+      "eli": null,
+      "type": "article",
+      "num": "Article 14",
+      "heading": null,
+      "path": [
+        "Section 3",
+        "Compétence en matière d'assurances"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les risques visés à l'article 13, point 5, sont les suivants:\n\n1) tout dommage:\n\na) aux navires de mer, aux installations au large des côtes et en haute mer ou aux aéronefs, causé par des événements survenant en relation avec leur utilisation à des fins commerciales;\n\nb) aux marchandises autres que les bagages des passagers, durant un transport réalisé par ces navires ou aéronefs soit en totalité, soit en combinaison avec d'autres modes de transport;\n\n2) toute responsabilité, à l'exception de celle des dommages corporels aux passagers ou des dommages à leurs bagages,\n\na) résultant de l'utilisation ou de l'exploitation des navires, installations ou aéronefs, conformément au point 1 a) visé ci-dessus, pour autant que, en ce qui concerne les derniers, la loi de l'État membre d'immatriculation de l'aéronef n'interdise pas les clauses attributives de juridiction dans l'assurance de tels risques;\n\nb) du fait de marchandises durant un transport visé au point 1 b) énoncé ci-dessus;\n\n3) toute perte pécuniaire liée à l'utilisation ou à l'exploitation des navires, installations ou aéronefs conformément au point 1 a) visé ci-dessus, notamment celle du fret ou du bénéfice d'affrètement;\n\n4) tout risque lié accessoirement à l'un de ceux visés aux points 1 à 3 énoncés ci-dessus;\n\n5) sans préjudice des points 1 à 4, tous les «grands risques» au sens de la directive 73/239/CEE du Conseil (7), modifiée par les directives 88/357/CEE (8) et 90/618/CEE (9), dans leur dernière version en vigueur.",
+      "text_sha256": "e376f30eeca885f5b95e6e9d0b5c64d7c36cb35d416b217981f5e620435493a9",
+      "md_span": {
+        "start": 10093,
+        "end": 11592
+      },
+      "citations": [
+        {
+          "href": "#E0007",
+          "text": "7"
+        },
+        {
+          "href": "#E0008",
+          "text": "8"
+        },
+        {
+          "href": "#E0009",
+          "text": "9"
+        }
+      ]
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_15",
+      "eli": null,
+      "type": "article",
+      "num": "Article 15",
+      "heading": null,
+      "path": [
+        "Section 4",
+        "Compétence en matière de contrats conclus par les consommateurs"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. En matière de contrat conclu par une personne, le consommateur, pour un usage pouvant être considéré comme étranger à son activité professionnelle, la compétence est déterminée par la présente section, sans préjudice des dispositions de l'article 4 et de l'article 5, point 5:\n\na) lorsqu'il s'agit d'une vente à tempérament d'objets mobiliers corporels;\n\nb) lorsqu'il s'agit d'un prêt à tempérament ou d'une autre opération de crédit liés au financement d'une vente de tels objets;\n\nc) lorsque, dans tous les autres cas, le contrat a été conclu avec une personne qui exerce des activités commerciales ou professionnelles dans l'État membre sur le territoire duquel le consommateur a son domicile ou qui, par tout moyen, dirige ces activités vers cet État membre ou vers plusieurs États, dont cet État membre, et que le contrat entre dans le cadre de ces activités.\n\n2. Lorsque le cocontractant du consommateur n'est pas domicilié sur le territoire d'un État membre, mais possède une succursale, une agence ou tout autre établissement dans un État membre, il est considéré pour les contestations relatives à leur exploitation comme ayant son domicile sur le territoire de cet État.\n\n3. La présente section ne s'applique pas aux contrats de transport autres que ceux qui, pour un prix forfaitaire, combinent voyage et hébergement.",
+      "text_sha256": "560f488d53fe24c55e099e47c00f5c7099e2f8bb8d4b14d64b08302652b2c058",
+      "md_span": {
+        "start": 11714,
+        "end": 13045
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_16",
+      "eli": null,
+      "type": "article",
+      "num": "Article 16",
+      "heading": null,
+      "path": [
+        "Section 4",
+        "Compétence en matière de contrats conclus par les consommateurs"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. L'action intentée par un consommateur contre l'autre partie au contrat peut être portée soit devant les tribunaux de l'État membre sur le territoire duquel est domiciliée cette partie, soit devant le tribunal du lieu où le consommateur est domicilié.\n\n2. L'action intentée contre le consommateur par l'autre partie au contrat ne peut être portée que devant les tribunaux de l'État membre sur le territoire duquel est domicilié le consommateur.\n\n3. Les dispositions du présent article ne portent pas atteinte au droit d'introduire une demande reconventionnelle devant le tribunal saisi d'une demande originaire conformément à la présente section.",
+      "text_sha256": "7f19ae3309d117d72cc83cd41a78bf7f80dc38eb2dc12cffb340438ba173e1ca",
+      "md_span": {
+        "start": 13084,
+        "end": 13732
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_17",
+      "eli": null,
+      "type": "article",
+      "num": "Article 17",
+      "heading": null,
+      "path": [
+        "Section 4",
+        "Compétence en matière de contrats conclus par les consommateurs"
+      ],
+      "article_valid_from": null,
+      "text_md": "Il ne peut être dérogé aux dispositions de la présente section que par des conventions:\n\n1) postérieures à la naissance du différend, ou\n\n2) qui permettent au consommateur de saisir d'autres tribunaux que ceux indiqués à la présente section, ou\n\n3) qui, passées entre le consommateur et son cocontractant ayant, au moment de la conclusion du contrat, leur domicile ou leur résidence habituelle dans un même État membre, attribuent compétence aux tribunaux de cet État membre, sauf si la loi de celui-ci interdit de telles conventions.",
+      "text_sha256": "4ff2d43a31f2f2cc89dad3d91b9665351966dc3db11432a1e18bdc9089642dcc",
+      "md_span": {
+        "start": 13771,
+        "end": 14305
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_18",
+      "eli": null,
+      "type": "article",
+      "num": "Article 18",
+      "heading": null,
+      "path": [
+        "Section 5",
+        "Compétence en matière de contrats individuels de travail"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. En matière de contrats individuels de travail, la compétence est déterminée par la présente section, sans préjudice de l'article 4 et de l'article 5, point 5.\n\n2. Lorsqu'un travailleur conclut un contrat individuel de travail avec un employeur qui n'est pas domicilié dans un État membre mais possède une succursale, une agence ou tout autre établissement dans un État membre, l'employeur est considéré, pour les contestations relatives à leur exploitation comme ayant son domicile dans cet État membre.",
+      "text_sha256": "2a1271fef14eb0d28f879ed6e05eee6456e13e26849f0ba87856df5ab9ba31b3",
+      "md_span": {
+        "start": 14420,
+        "end": 14926
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_19",
+      "eli": null,
+      "type": "article",
+      "num": "Article 19",
+      "heading": null,
+      "path": [
+        "Section 5",
+        "Compétence en matière de contrats individuels de travail"
+      ],
+      "article_valid_from": null,
+      "text_md": "Un employeur ayant son domicile sur le territoire d'un État membre peut être attrait:\n\n1) devant les tribunaux de l'État membre où il a son domicile, ou\n\n2) dans un autre État membre:\n\na) devant le tribunal du lieu où le travailleur accomplit habituellement son travail ou devant le tribunal du dernier lieu où il a accompli habituellement son travail, ou\n\nb) lorsque le travailleur n'accomplit pas ou n'a pas accompli habituellement son travail dans un même pays, devant le tribunal du lieu où se trouve ou se trouvait l'établissement qui a embauché le travailleur.",
+      "text_sha256": "956ff404099de1a7b4f6aea7dfb77e0d80e7d5c0b447e4d45acb8a81d1995d8b",
+      "md_span": {
+        "start": 14965,
+        "end": 15531
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_20",
+      "eli": null,
+      "type": "article",
+      "num": "Article 20",
+      "heading": null,
+      "path": [
+        "Section 5",
+        "Compétence en matière de contrats individuels de travail"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. L'action de l'employeur ne peut être portée que devant les tribunaux de l'État membre sur le territoire duquel le travailleur a son domicile.\n\n2. Les dispositions de la présente section ne portent pas atteinte au droit d'introduire une demande reconventionnelle devant le tribunal saisi de la demande originaire conformément à la présente section.",
+      "text_sha256": "a2a0a14cd7f9056cb202e6efcfdc997f547a7380cd819d04ce6b2a4ad3ea6a7c",
+      "md_span": {
+        "start": 15570,
+        "end": 15920
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_21",
+      "eli": null,
+      "type": "article",
+      "num": "Article 21",
+      "heading": null,
+      "path": [
+        "Section 5",
+        "Compétence en matière de contrats individuels de travail"
+      ],
+      "article_valid_from": null,
+      "text_md": "Il ne peut être dérogé aux dispositions de la présente section que par des conventions attributives de juridiction:\n\n1) postérieures à la naissance du différend, ou\n\n2) qui permettent au travailleur de saisir d'autres tribunaux que ceux indiqués à la présente section.",
+      "text_sha256": "6cd95d6fd502842407decf2e31066e8a284fa82a1e181b558b9a67cb781b45ce",
+      "md_span": {
+        "start": 15959,
+        "end": 16227
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_22",
+      "eli": null,
+      "type": "article",
+      "num": "Article 22",
+      "heading": null,
+      "path": [
+        "Section 6",
+        "Compétences exclusives"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sont seuls compétents, sans considération de domicile:\n\n1) en matière de droits réels immobiliers et de baux d'immeubles, les tribunaux de l'État membre où l'immeuble est situé.\n\nToutefois, en matière de baux d'immeubles conclus en vue d'un usage personnel temporaire pour une période maximale de six mois consécutifs, sont également compétents les tribunaux de l'État membre dans lequel le défendeur est domicilié, à condition que le locataire soit une personne physique et que le propriétaire et le locataire soient domiciliés dans le même État membre;\n\n2) en matière de validité, de nullité ou de dissolution des sociétés ou personnes morales ayant leur siège sur le territoire d'un État membre, ou de validité des décisions de leurs organes, les tribunaux de cet État membre. Pour déterminer le siège, le juge applique les règles de son droit international privé;\n\n3) en matière de validité des inscriptions sur les registres publics, les tribunaux de l'État membre sur le territoire duquel ces registres sont tenus;\n\n4) en matière d'inscription ou de validité des brevets, marques, dessins et modèles, et autres droits analogues donnant lieu à dépôt ou à un enregistrement, les juridictions de l'État membre sur le territoire duquel le dépôt ou l'enregistrement a été demandé, a été effectué ou est réputé avoir été effectué aux termes d'un instrument communautaire ou d'une convention internationale.\n\nSans préjudice de la compétence de l'Office européen des brevets selon la convention sur la délivrance des brevets européens, signée à Munich le 5 octobre 1973, les juridictions de chaque État membre sont seules compétentes, sans considération de domicile, en matière d'inscription ou de validité d'un brevet européen délivré pour cet État;\n\n5) en matière d'exécution des décisions, les tribunaux de l'État membre du lieu de l'exécution.",
+      "text_sha256": "1055afa1282b05396dd1587f179d3ba9adc0810abf2f831d13dd47ec99737831",
+      "md_span": {
+        "start": 16308,
+        "end": 18153
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_23",
+      "eli": null,
+      "type": "article",
+      "num": "Article 23",
+      "heading": null,
+      "path": [
+        "Section 7",
+        "Prorogation de compétence"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Si les parties, dont l'une au moins a son domicile sur le territoire d'un État membre, sont convenues d'un tribunal ou de tribunaux d'un État membre pour connaître des différends nés ou à naître à l'occasion d'un rapport de droit déterminé, ce tribunal ou les tribunaux de cet État membre sont compétents. Cette compétence est exclusive, sauf convention contraire des parties. Cette convention attributive de juridiction est conclue:\n\na) par écrit ou verbalement avec confirmation écrite, ou\n\nb) sous une forme qui soit conforme aux habitudes que les parties ont établies entre elles, ou\n\nc) dans le commerce international, sous une forme qui soit conforme à un usage dont les parties avaient connaissance ou étaient censées avoir connaissance et qui est largement connu et régulièrement observé dans ce type de commerce par les parties à des contrats du même type dans la branche commerciale considérée.\n\n2. Toute transmission par voie électronique qui permet de consigner durablement la convention est considérée comme revêtant une forme écrite.\n\n3. Lorsqu'une telle convention est conclue par des parties dont aucune n'a son domicile sur le territoire d'un État membre, les tribunaux des autres États membres ne peuvent connaître du différend tant que le tribunal ou les tribunaux désignés n'ont pas décliné leur compétence.\n\n4. Le tribunal ou les tribunaux d'un État membre auxquels l'acte constitutif d'un *trust* attribue compétence sont exclusivement compétents pour connaître d'une action contre un fondateur, un *trustee* ou un bénéficiaire d'un *trust*, s'il s'agit des relations entre ces personnes ou de leurs droits ou obligations dans le cadre du *trust*;\n\n5. Les conventions attributives de juridiction ainsi que les stipulations similaires d'actes constitutifs de *trust* sont sans effet si elles sont contraires aux dispositions des articles 13, 17 et 21 ou si les tribunaux à la compétence desquels elles dérogent sont exclusivement compétents en vertu de l'article 22.",
+      "text_sha256": "09b00a4a6247ec0f0c4326953c35c27d9a35d62f9fcf6d51e37f383ee466d3be",
+      "md_span": {
+        "start": 18237,
+        "end": 20227
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_24",
+      "eli": null,
+      "type": "article",
+      "num": "Article 24",
+      "heading": null,
+      "path": [
+        "Section 7",
+        "Prorogation de compétence"
+      ],
+      "article_valid_from": null,
+      "text_md": "Outre les cas où sa compétence résulte d'autres dispositions du présent règlement, le juge d'un État membre devant lequel le défendeur comparaît est compétent. Cette règle n'est pas applicable si la comparution a pour objet de contester la compétence ou s'il existe une autre juridiction exclusivement compétente en vertu de l'article 22.",
+      "text_sha256": "303944b9933c24ed29a1df697177d0018de6c8b511f83ad33d11b273540c853f",
+      "md_span": {
+        "start": 20266,
+        "end": 20604
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_25",
+      "eli": null,
+      "type": "article",
+      "num": "Article 25",
+      "heading": null,
+      "path": [
+        "Section 8",
+        "Vérification de la compétence et de la recevabilité"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le juge d'un État membre, saisi à titre principal d'un litige pour lequel une juridiction d'un autre État membre est exclusivement compétente en vertu de l'article 22, se déclare d'office incompétent.",
+      "text_sha256": "d941342dfc912a6110a82147e099c705e12c2ab2b2ee7c9fbb9edead7d7197eb",
+      "md_span": {
+        "start": 20714,
+        "end": 20914
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_26",
+      "eli": null,
+      "type": "article",
+      "num": "Article 26",
+      "heading": null,
+      "path": [
+        "Section 8",
+        "Vérification de la compétence et de la recevabilité"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Lorsque le défendeur domicilié sur le territoire d'un État membre est attrait devant une juridiction d'un autre État membre et ne comparaît pas, le juge se déclare d'office incompétent si sa compétence n'est pas fondée aux termes du présent règlement.\n\n2. Le juge est tenu de surseoir à statuer aussi longtemps qu'il n'est pas établi que ce défendeur a été mis à même de recevoir l'acte introductif d'instance ou un acte équivalent en temps utile pour se défendre ou que toute diligence a été faite à cette fin.\n\n3. L'article 19 du règlement (CE) no 1348/2000 du Conseil du 29 mai 2000 relatif à la signification et à la notification dans les États membres des actes judiciaires et extrajudiciaires en matière civile ou commerciale (10) s'applique en lieu et place des dispositions du paragraphe 2 si l'acte introductif d'instance ou un acte équivalent a dû être transmis d'un État membre à un autre en exécution de ce règlement.\n\n4. Lorsque les dispositions du règlement (CE) no 1348/2000 ne sont pas applicables, l'article 15 de la convention de La Haye du 15 novembre 1965 relative à la signification et à la notification à l'étranger des actes judiciaires et extrajudiciaires en matière civile ou commerciale s'applique si l'acte introductif d'instance ou un acte équivalent a dû être transmis en exécution de cette convention.",
+      "text_sha256": "e173e85831ce04780b7671ebac0a0d6e4bc7c6b545d7bd574e3db6bfe2688f66",
+      "md_span": {
+        "start": 20953,
+        "end": 22287
+      },
+      "citations": [
+        {
+          "href": "#E0010",
+          "text": "10"
+        }
+      ]
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_27",
+      "eli": null,
+      "type": "article",
+      "num": "Article 27",
+      "heading": null,
+      "path": [
+        "Section 9",
+        "Litispendance et connexité"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Lorsque des demandes ayant le même objet et la même cause sont formées entre les mêmes parties devant des juridictions d'États membres différents, la juridiction saisie en second lieu sursoit d'office à statuer jusqu'à ce que la compétence du tribunal premier saisi soit établie.\n\n2. Lorsque la compétence du tribunal premier saisi est établie, le tribunal saisi en second lieu se dessaisit en faveur de celui-ci.",
+      "text_sha256": "dbf7c3a943f4a0a982bc42977aed4db5300ab606e226bc85d7324884c7d46698",
+      "md_span": {
+        "start": 22372,
+        "end": 22788
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_28",
+      "eli": null,
+      "type": "article",
+      "num": "Article 28",
+      "heading": null,
+      "path": [
+        "Section 9",
+        "Litispendance et connexité"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Lorsque des demandes connexes sont pendantes devant des juridictions d'États membres différents, la juridiction saisie en second lieu peut surseoir à statuer.\n\n2. Lorsque ces demandes sont pendantes au premier degré, la juridiction saisie en second lieu peut également se dessaisir, à la demande de l'une des parties, à condition que le tribunal premier saisi soit compétent pour connaître des demandes en question et que sa loi permette leur jonction.\n\n3. Sont connexes, au sens du présent article, les demandes liées entre elles par un rapport si étroit qu'il y a intérêt à les instruire et à les juger en même temps afin d'éviter des solutions qui pourraient être inconciliables si les causes étaient jugées séparément.",
+      "text_sha256": "951c924d0fad3bce5b6f626c4660eeb73ec130fc7c3d82be4263acae1944b753",
+      "md_span": {
+        "start": 22827,
+        "end": 23552
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_29",
+      "eli": null,
+      "type": "article",
+      "num": "Article 29",
+      "heading": null,
+      "path": [
+        "Section 9",
+        "Litispendance et connexité"
+      ],
+      "article_valid_from": null,
+      "text_md": "Lorsque les demandes relèvent de la compétence exclusive de plusieurs juridictions, le dessaisissement a lieu en faveur de la juridiction première saisie.",
+      "text_sha256": "6acad2b3ee3a556356cc0495f6029ca57c29d79917b167247972157072500cd0",
+      "md_span": {
+        "start": 23591,
+        "end": 23745
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_30",
+      "eli": null,
+      "type": "article",
+      "num": "Article 30",
+      "heading": null,
+      "path": [
+        "Section 9",
+        "Litispendance et connexité"
+      ],
+      "article_valid_from": null,
+      "text_md": "Aux fins de la présente section, une juridiction est réputée saisie:\n\n1) à la date à laquelle l'acte introductif d'instance ou un acte équivalent est déposé auprès de la juridiction, à condition que le demandeur n'ait pas négligé par la suite de prendre les mesures qu'il était tenu de prendre pour que l'acte soit notifié ou signifié au défendeur, ou\n\n2) si l'acte doit être notifié ou signifié avant d'être déposé auprès de la juridiction, à la date à laquelle il est reçu par l'autorité chargée de la notification ou de la signification, à condition que le demandeur n'ait pas négligé par la suite de prendre les mesures qu'il était tenu de prendre pour que l'acte soit déposé auprès de la juridiction.",
+      "text_sha256": "b8571ad7ad36bc81d37b3fb984025076c0b2635e9a324bf1d44397d5dc487e07",
+      "md_span": {
+        "start": 23784,
+        "end": 24489
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_31",
+      "eli": null,
+      "type": "article",
+      "num": "Article 31",
+      "heading": null,
+      "path": [
+        "Section 10",
+        "Mesures provisoires et conservatoires"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les mesures provisoires ou conservatoires prévues par la loi d'un État membre peuvent être demandées aux autorités judiciaires de cet État, même si, en vertu du présent règlement, une juridiction d'un autre État membre est compétente pour connaître du fond.",
+      "text_sha256": "8a133c68870952b3ccdb0bae72f2710af3efde7b6501dbc4674026deebb76e88",
+      "md_span": {
+        "start": 24586,
+        "end": 24843
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_32",
+      "eli": null,
+      "type": "article",
+      "num": "Article 32",
+      "heading": null,
+      "path": [
+        "CHAPITRE III",
+        "RECONNAISSANCE ET EXÉCUTION"
+      ],
+      "article_valid_from": null,
+      "text_md": "On entend par décision, au sens du présent règlement, toute décision rendue par une juridiction d'un État membre quelle que soit la dénomination qui lui est donnée, telle qu'arrêt, jugement, ordonnance ou mandat d'exécution, ainsi que la fixation par le greffier du montant des frais du procès.",
+      "text_sha256": "78af14215496e624070e1a6751a1dad65e5af3879fc7eccabd31de23ad8141d1",
+      "md_span": {
+        "start": 24932,
+        "end": 25226
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_33",
+      "eli": null,
+      "type": "article",
+      "num": "Article 33",
+      "heading": null,
+      "path": [
+        "Section 1",
+        "Reconnaissance"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les décisions rendues dans un État membre sont reconnues dans les autres États membres, sans qu'il soit nécessaire de recourir à aucune procédure.\n\n2. En cas de contestation, toute partie intéressée qui invoque la reconnaissance à titre principal peut faire constater, selon les procédures prévues aux sections 2 et 3 du présent chapitre, que la décision doit être reconnue.\n\n3. Si la reconnaissance est invoquée de façon incidente devant une juridiction d'un État membre, celle-ci est compétente pour en connaître.",
+      "text_sha256": "56a9c49ede7ca2e476ed7074a306053fc80574c2527fb350a3f631202b1b8d69",
+      "md_span": {
+        "start": 25299,
+        "end": 25817
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_34",
+      "eli": null,
+      "type": "article",
+      "num": "Article 34",
+      "heading": null,
+      "path": [
+        "Section 1",
+        "Reconnaissance"
+      ],
+      "article_valid_from": null,
+      "text_md": "Une décision n'est pas reconnue si:\n\n1) la reconnaissance est manifestement contraire à l'ordre public de l'État membre requis;\n\n2) l'acte introductif d'instance ou un acte équivalent n'a pas été signifié ou notifié au défendeur défaillant en temps utile et de telle manière qu'il puisse se défendre, à moins qu'il n'ait pas exercé de recours à l'encontre de la décision alors qu'il était en mesure de le faire;\n\n3) elle est inconciliable avec une décision rendue entre les mêmes parties dans l'État membre requis;\n\n4) elle est inconciliable avec une décision rendue antérieurement dans un autre État membre ou dans un État tiers entre les mêmes parties dans un litige ayant le même objet et la même cause, lorsque la décision rendue antérieurement réunit les conditions nécessaires à sa reconnaissance dans l'État membre requis.",
+      "text_sha256": "4dc5e008d4e2e9311a2fcc830eb9d525de567b11a4034b2d631cc5180be3b5dc",
+      "md_span": {
+        "start": 25856,
+        "end": 26685
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_35",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_35",
+      "eli": null,
+      "type": "article",
+      "num": "Article 35",
+      "heading": null,
+      "path": [
+        "Section 1",
+        "Reconnaissance"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. De même, les décisions ne sont pas reconnues si les dispositions des sections 3, 4 et 6 du chapitre II ont été méconnues, ainsi que dans le cas prévu à l'article 72.\n\n2. Lors de l'appréciation des compétences mentionnées au paragraphe précédent, l'autorité requise est liée par les constatations de fait sur lesquelles la juridiction de l'État membre d'origine a fondé sa compétence.\n\n3. Sans préjudice des dispositions du paragraphe 1, il ne peut être procédé au contrôle de la compétence des juridictions de l'État membre d'origine. Le critère de l'ordre public visé à l'article 34, point 1, ne peut être appliqué aux règles de compétence.",
+      "text_sha256": "9f3a63a8e26be7cb96ce6a1aa56d89de9a2a2a03021ff1636d4fd47d43681426",
+      "md_span": {
+        "start": 26724,
+        "end": 27368
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_36",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_36",
+      "eli": null,
+      "type": "article",
+      "num": "Article 36",
+      "heading": null,
+      "path": [
+        "Section 1",
+        "Reconnaissance"
+      ],
+      "article_valid_from": null,
+      "text_md": "En aucun cas, la décision étrangère ne peut faire l'objet d'une révision au fond.",
+      "text_sha256": "ada9191f91f6eeb44a56bf7b5b961d847df179a0325fbf380a04cf00ce0c3bcb",
+      "md_span": {
+        "start": 27407,
+        "end": 27488
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_37",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_37",
+      "eli": null,
+      "type": "article",
+      "num": "Article 37",
+      "heading": null,
+      "path": [
+        "Section 1",
+        "Reconnaissance"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. L'autorité judiciaire d'un État membre devant laquelle est invoquée la reconnaissance d'une décision rendue dans un autre État membre peut surseoir à statuer si cette décision fait l'objet d'un recours ordinaire.\n\n2. L'autorité judiciaire d'un État membre devant laquelle est invoquée la reconnaissance d'une décision rendue en Irlande ou au Royaume-Uni et dont l'exécution est suspendue dans l'État membre d'origine du fait de l'exercice d'un recours, peut surseoir à statuer.",
+      "text_sha256": "e2038df74878751f9b888e069c455a81ccb395f8eb2c3da29cea83b05ba967b4",
+      "md_span": {
+        "start": 27527,
+        "end": 28007
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_38",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_38",
+      "eli": null,
+      "type": "article",
+      "num": "Article 38",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Exécution"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les décisions rendues dans un État membre et qui y sont exécutoires sont mises à exécution dans un autre État membre après y avoir été déclarées exécutoires sur requête de toute partie intéressée.\n\n2. Toutefois, au Royaume-Uni, ces décisions sont mises à exécution en Angleterre et au pays de Galles, en Écosse ou en Irlande du Nord, après avoir été enregistrées en vue de leur exécution, sur requête de toute partie intéressée, dans l'une ou l'autre de ces parties du Royaume-Uni, suivant le cas.",
+      "text_sha256": "e0ab8cec3b7c8d306c29eced31652c8db1178a520e0c4f937e905de50d16214c",
+      "md_span": {
+        "start": 28075,
+        "end": 28575
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_39",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_39",
+      "eli": null,
+      "type": "article",
+      "num": "Article 39",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Exécution"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La requête est présentée à la juridiction ou à l'autorité compétente indiquée sur la liste figurant à l'annexe II.\n\n2. La compétence territoriale est déterminée par le domicile de la partie contre laquelle l'exécution est demandée, ou par le lieu de l'exécution.",
+      "text_sha256": "f9f49bf37fafbf5fd76169d45ab8f0ca1951e858a845d148758910b650606ba9",
+      "md_span": {
+        "start": 28614,
+        "end": 28879
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_40",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_40",
+      "eli": null,
+      "type": "article",
+      "num": "Article 40",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Exécution"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les modalités du dépôt de la requête sont déterminées par la loi de l'État membre requis.\n\n2. Le requérant doit faire élection de domicile dans le ressort de la juridiction saisie. Toutefois, si la loi de l'État membre requis ne connaît pas l'élection de domicile, le requérant désigne un mandataire *ad litem*.\n\n3. Les documents mentionnés à l'article 53 sont joints à la requête.",
+      "text_sha256": "a773bf093f2ccbb2fd36f0d92b9f59ac64fa2e5694f6d37fd0d73e5304f5679c",
+      "md_span": {
+        "start": 28918,
+        "end": 29302
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_41",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_41",
+      "eli": null,
+      "type": "article",
+      "num": "Article 41",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Exécution"
+      ],
+      "article_valid_from": null,
+      "text_md": "La décision est déclarée exécutoire dès l'achèvement des formalités prévues à l'article 53, sans examen au titre des articles 34 et 35. La partie contre laquelle l'exécution est demandée ne peut, en cet état de la procédure, présenter d'observations.",
+      "text_sha256": "2e2600d4eefb411c2aa3bea81eaf0915dd1f6674fd2647d6ab420db04fcb94be",
+      "md_span": {
+        "start": 29341,
+        "end": 29591
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_42",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_42",
+      "eli": null,
+      "type": "article",
+      "num": "Article 42",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Exécution"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La décision relative à la demande de déclaration constatant la force exécutoire est aussitôt portée à la connaissance du requérant suivant les modalités déterminées par la loi de l'État membre requis.\n\n2. La déclaration constatant la force exécutoire est signifiée ou notifiée à la partie contre laquelle l'exécution est demandée, accompagnée de la décision si celle-ci n'a pas encore été signifiée ou notifiée à cette partie.",
+      "text_sha256": "187a9b368e7e8964e68cd067af7e7d9707d5da698a374971970b11a631ac67cc",
+      "md_span": {
+        "start": 29630,
+        "end": 30059
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_43",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_43",
+      "eli": null,
+      "type": "article",
+      "num": "Article 43",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Exécution"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. L'une ou l'autre partie peut former un recours contre la décision relative à la demande de déclaration constatant la force exécutoire.\n\n2. Le recours est porté devant la juridiction indiquée sur la liste figurant à l'annexe III.\n\n3. Le recours est examiné selon les règles de la procédure contradictoire.\n\n4. Si la partie contre laquelle l'exécution est demandée ne comparaît pas devant la juridiction saisie du recours formé par le requérant, les dispositions de l'article 26, paragraphes 2 à 4, sont d'application, même si la partie contre laquelle l'exécution est demandée n'est pas domiciliée sur le territoire de l'un des États membres.\n\n5. Le recours contre la déclaration constatant la force exécutoire doit être formé dans un délai d'un mois à compter de sa signification. Si la partie contre laquelle l'exécution est demandée est domiciliée sur le territoire d'un autre État membre que celui dans lequel la déclaration constatant la force exécutoire a été délivrée, le délai est de deux mois et court à compter du jour où la signification a été faite à personne ou à domicile. Ce délai ne comporte pas de prorogation à raison de la distance.",
+      "text_sha256": "bb606f67739f2ca4ac0d936ac19e44c885e11203d62a5f3111d50d1725ca0bdf",
+      "md_span": {
+        "start": 30098,
+        "end": 31251
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_44",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_44",
+      "eli": null,
+      "type": "article",
+      "num": "Article 44",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Exécution"
+      ],
+      "article_valid_from": null,
+      "text_md": "La décision rendue sur le recours ne peut faire l'objet que du recours visé à l'annexe IV.",
+      "text_sha256": "ac060228da5f01e5e296703ea228e4c2824a5ace8515fd22d95d4d17c8c2c2bb",
+      "md_span": {
+        "start": 31290,
+        "end": 31380
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_45",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_45",
+      "eli": null,
+      "type": "article",
+      "num": "Article 45",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Exécution"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La juridiction saisie d'un recours prévu à l'article 43 ou 44 ne peut refuser ou révoquer une déclaration constatant la force exécutoire que pour l'un des motifs prévus aux articles 34 et 35. Elle statue à bref délai.\n\n2. En aucun cas la décision étrangère ne peut faire l'objet d'une révision au fond.",
+      "text_sha256": "47574fd912b4d727a8361e5d125b3ab658d97d8b129d604ba5ff2642ebaeb082",
+      "md_span": {
+        "start": 31419,
+        "end": 31724
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_46",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_46",
+      "eli": null,
+      "type": "article",
+      "num": "Article 46",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Exécution"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La juridiction saisie d'un recours prévu à l'article 43 ou 44 peut, à la requête de la partie contre laquelle l'exécution est demandée, surseoir à statuer, si la décision étrangère fait, dans l'État membre d'origine, l'objet d'un recours ordinaire ou si le délai pour le former n'est pas expiré; dans ce dernier cas, la juridiction peut impartir un délai pour former ce recours.\n\n2. Lorsque la décision a été rendue en Irlande ou au Royaume-Uni, toute voie de recours prévue dans l'État membre d'origine est considérée comme un recours ordinaire pour l'application du paragraphe 1.\n\n3. Cette juridiction peut également subordonner l'exécution à la constitution d'une garantie qu'elle détermine.",
+      "text_sha256": "0d5878e513e9be7d40d3c02efd64d6509610a86192c5b59c9463acdf371aed53",
+      "md_span": {
+        "start": 31763,
+        "end": 32460
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_47",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_47",
+      "eli": null,
+      "type": "article",
+      "num": "Article 47",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Exécution"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Lorsqu'une décision doit être reconnue en application du présent règlement, rien n'empêche le requérant de demander qu'il soit procédé à des mesures provisoires, ou conservatoires, prévues par la loi de l'État membre requis, sans qu'il soit nécessaire que cette décision soit déclarée exécutoire au sens de l'article 41.\n\n2. La déclaration constatant la force exécutoire emporte l'autorisation de procéder à des mesures conservatoires.\n\n3. Pendant le délai du recours prévu à l'article 43, paragraphe 5, contre la déclaration constatant la force exécutoire et jusqu'à ce qu'il ait été statué sur celui-ci, il ne peut être procédé qu'à des mesures conservatoires sur les biens de la partie contre laquelle l'exécution est demandée.",
+      "text_sha256": "0a8945713d92637d29d4a6a80ca5b5ca58c7ac2dc61bda69370d5533ac326295",
+      "md_span": {
+        "start": 32499,
+        "end": 33232
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_48",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_48",
+      "eli": null,
+      "type": "article",
+      "num": "Article 48",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Exécution"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Lorsque la décision étrangère a statué sur plusieurs chefs de la demande et que la déclaration constatant la force exécutoire ne peut être délivrée pour le tout, la juridiction ou l'autorité compétente la délivre pour un ou plusieurs d'entre eux.\n\n2. Le requérant peut demander que la déclaration constatant la force exécutoire soit limitée à certaines parties d'une décision.",
+      "text_sha256": "07406dec34163dd29b97fdf7f1e372fcb31373c8d49c5da73888f6ecf994741c",
+      "md_span": {
+        "start": 33271,
+        "end": 33650
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_49",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_49",
+      "eli": null,
+      "type": "article",
+      "num": "Article 49",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Exécution"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les décisions étrangères condamnant à une astreinte ne sont exécutoires dans l'État membre requis que si le montant en a été définitivement fixé par les tribunaux de l'État membre d'origine.",
+      "text_sha256": "4e3afceb12f6861d3679b0ec5d8e3313fd223326b94659f84c422b847db41340",
+      "md_span": {
+        "start": 33689,
+        "end": 33879
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_50",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_50",
+      "eli": null,
+      "type": "article",
+      "num": "Article 50",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Exécution"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le requérant qui, dans l'État membre d'origine, a bénéficié en tout ou en partie de l'assistance judiciaire ou d'une exemption de frais et dépens bénéficie, dans la procédure prévue à la présente section, de l'assistance la plus favorable ou de l'exemption la plus large prévue par le droit de l'État membre requis.",
+      "text_sha256": "58c3867f5d67dbaffb6c00adb3eb01f5c91cd93b5db7997324091017bb858a2f",
+      "md_span": {
+        "start": 33918,
+        "end": 34233
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_51",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_51",
+      "eli": null,
+      "type": "article",
+      "num": "Article 51",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Exécution"
+      ],
+      "article_valid_from": null,
+      "text_md": "Aucune caution ni aucun dépôt, sous quelque dénomination que ce soit, ne peuvent être imposés en raison, soit de la qualité d'étranger, soit du défaut de domicile ou de résidence dans le pays, à la partie qui demande l'exécution dans un État membre d'une décision rendue dans un autre État membre.",
+      "text_sha256": "ab2c0a7be5e09f39cd3cc2e74c12bf62171d681f28c8c6a73c2cd8c367e8863a",
+      "md_span": {
+        "start": 34272,
+        "end": 34569
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_52",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_52",
+      "eli": null,
+      "type": "article",
+      "num": "Article 52",
+      "heading": null,
+      "path": [
+        "Section 2",
+        "Exécution"
+      ],
+      "article_valid_from": null,
+      "text_md": "Aucun impôt, droit ou taxe proportionnel à la valeur du litige n'est perçu dans l'État membre requis à l'occasion de la procédure tendant à la délivrance d'une déclaration constatant la force exécutoire.",
+      "text_sha256": "d9041db9fecee8653b372b7e26d0ee8e042c5090d3e60fd17df121436eb53ff3",
+      "md_span": {
+        "start": 34608,
+        "end": 34811
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_53",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_53",
+      "eli": null,
+      "type": "article",
+      "num": "Article 53",
+      "heading": null,
+      "path": [
+        "Section 3",
+        "Dispositions communes"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La partie qui invoque la reconnaissance d'une décision ou sollicite la délivrance d'une déclaration constatant sa force exécutoire doit produire une expédition de celle-ci réunissant les conditions nécessaires à son authenticité.\n\n2. La partie qui sollicite la délivrance d'une déclaration constatant la force exécutoire d'une décision doit aussi produire le certificat visé à l'article 54, sans préjudice de l'article 55.",
+      "text_sha256": "9d7897a19e6a1d4252c7b5e2a393616aab8a456cce6617ce3e9de4ce8aa86f76",
+      "md_span": {
+        "start": 34891,
+        "end": 35316
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_54",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_54",
+      "eli": null,
+      "type": "article",
+      "num": "Article 54",
+      "heading": null,
+      "path": [
+        "Section 3",
+        "Dispositions communes"
+      ],
+      "article_valid_from": null,
+      "text_md": "La juridiction ou l'autorité compétente d'un État membre dans lequel une décision a été rendue délivre, à la requête de toute partie intéressée, un certificat en utilisant le formulaire dont le modèle figure à l'annexe V du présent règlement.",
+      "text_sha256": "d8dbc8c2dd450d6e6e136961e8301b6bae3311ba36add9b0f5b8bf5a481876bc",
+      "md_span": {
+        "start": 35355,
+        "end": 35597
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_55",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_55",
+      "eli": null,
+      "type": "article",
+      "num": "Article 55",
+      "heading": null,
+      "path": [
+        "Section 3",
+        "Dispositions communes"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. À défaut de production du certificat visé à l'article 54, la juridiction ou l'autorité compétente peut impartir un délai pour le produire ou accepter un document équivalent ou, si elle s'estime suffisamment éclairée, en dispenser.\n\n2. Il est produit une traduction des documents si la juridiction ou l'autorité compétente l'exige. La traduction est certifiée par une personne habilitée à cet effet dans l'un des États membres.",
+      "text_sha256": "552e523e9d70ed76366d40da15935294a2b5a16f0824dee07d6da8e31c63896e",
+      "md_span": {
+        "start": 35636,
+        "end": 36065
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_56",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_56",
+      "eli": null,
+      "type": "article",
+      "num": "Article 56",
+      "heading": null,
+      "path": [
+        "Section 3",
+        "Dispositions communes"
+      ],
+      "article_valid_from": null,
+      "text_md": "Aucune légalisation ni formalité analogue n'est exigée en ce qui concerne les documents mentionnés à l'article 53, ou à l'article 55, paragraphe 2, ou, le cas échéant, la procuration *ad litem*.",
+      "text_sha256": "f35fe6067b13a6f98a522ef4b2c6b6ea63a7df9bbdebe3c8e024d7f158219a64",
+      "md_span": {
+        "start": 36104,
+        "end": 36298
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_57",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_57",
+      "eli": null,
+      "type": "article",
+      "num": "Article 57",
+      "heading": null,
+      "path": [
+        "CHAPITRE IV",
+        "ACTES AUTHENTIQUES ET TRANSACTIONS JUDICIAIRES"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les actes authentiques reçus et exécutoires dans un État membre sont, sur requête, déclarés exécutoires dans un autre État membre, conformément à la procédure prévue aux articles 38 et suivants. La juridiction auprès de laquelle un recours est formé en vertu des articles 43 ou 44 ne refuse ou révoque une déclaration constatant la force exécutoire que si l'exécution de l'acte authentique est manifestement contraire à l'ordre public de l'État membre requis.\n\n2. Sont également considérées comme des actes authentiques au sens du paragraphe 1, les conventions en matière d'obligations alimentaires conclues devant des autorités administratives ou authentifiées par elles.\n\n3. L'acte produit doit réunir les conditions nécessaires à son authenticité dans l'État membre d'origine.\n\n4. Les dispositions de la section 3 du chapitre III sont applicables, en tant que de besoin. L'autorité compétente de l'État membre dans lequel un acte authentique a été reçu établit, à la requête de toute partie intéressée, un certificat en utilisant le formulaire dont le modèle figure à l'annexe VI du présent règlement.",
+      "text_sha256": "9ba1fe1daf66cd3003ac50a60f2b9b534c3aeeda26f21759c388b13462b99a31",
+      "md_span": {
+        "start": 36405,
+        "end": 37512
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_58",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_58",
+      "eli": null,
+      "type": "article",
+      "num": "Article 58",
+      "heading": null,
+      "path": [
+        "CHAPITRE IV",
+        "ACTES AUTHENTIQUES ET TRANSACTIONS JUDICIAIRES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Les transactions conclues devant le juge au cours d'un procès et exécutoires dans l'État membre d'origine sont exécutoires dans l'État membre requis aux mêmes conditions que les actes authentiques. La juridiction ou l'autorité compétente d'un État membre dans lequel une transaction a été conclue délivre, à la requête de toute partie intéressée, un certificat en utilisant le formulaire dont le modèle figure à l'annexe V du présent règlement.",
+      "text_sha256": "f9b1375ef94f73c6bf909358e87880e13cf2f6d8498d2c7386f4df412bc30061",
+      "md_span": {
+        "start": 37551,
+        "end": 37995
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_59",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_59",
+      "eli": null,
+      "type": "article",
+      "num": "Article 59",
+      "heading": null,
+      "path": [
+        "CHAPITRE V",
+        "DISPOSITIONS GÉNÉRALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Pour déterminer si une partie a un domicile sur le territoire de l'État membre dont les tribunaux sont saisis, le juge applique sa loi interne.\n\n2. Lorsqu'une partie n'a pas de domicile dans l'État membre dont les tribunaux sont saisis, le juge, pour déterminer si elle a un domicile dans un autre État membre, applique la loi de cet État membre.",
+      "text_sha256": "5b6be0d6a2e158007d9d6e8cae8d15c8e4b71b19ed39ec7f040690b572573f76",
+      "md_span": {
+        "start": 38077,
+        "end": 38426
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_60",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_60",
+      "eli": null,
+      "type": "article",
+      "num": "Article 60",
+      "heading": null,
+      "path": [
+        "CHAPITRE V",
+        "DISPOSITIONS GÉNÉRALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Pour l'application du présent règlement, les sociétés et les personnes morales sont domiciliées là ou est situé:\n\na) leur siège statutaire;\n\nb) leur administration centrale, ou\n\nc) leur principal établissement.\n\n2. Pour le Royaume-Uni et l'Irlande, on entend par «siège statutaire» le *registered office* ou, s'il n'existe nulle part de *registered office*, le *place of incorporation* (le lieu d'acquisition de la personnalité morale) ou, s'il n'existe nulle part de lieu d'acquisition de la personnalité morale, le lieu selon la loi duquel la *formation* (la constitution) a été effectuée.\n\n3. Pour déterminer si un *trust* a son domicile sur le territoire d'un État membre dont les tribunaux sont saisis, le juge applique les règles de son droit international privé.",
+      "text_sha256": "400390cc1ef2c0ca6b60cb58d4cdc30458dbb540e3856ceb56cf41d5b5c01bc6",
+      "md_span": {
+        "start": 38465,
+        "end": 39237
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_61",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_61",
+      "eli": null,
+      "type": "article",
+      "num": "Article 61",
+      "heading": null,
+      "path": [
+        "CHAPITRE V",
+        "DISPOSITIONS GÉNÉRALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sans préjudice de dispositions nationales plus favorables, les personnes domiciliées sur le territoire d'un État membre et poursuivies pour une infraction involontaire devant les juridictions répressives d'un autre État membre dont elles ne sont pas les nationaux peuvent se faire défendre par les personnes habilitées à cette fin, même si elles ne comparaissent pas personnellement. Toutefois, la juridiction saisie peut ordonner la comparution personnelle; si celle-ci n'a pas eu lieu, la décision rendue sur l'action civile sans que la personne en cause ait eu la possibilité de se défendre pourra ne pas être reconnue ni exécutée dans les autres États membres.",
+      "text_sha256": "8d103edcda5ca1a8159623477354f9b26f667e3071ec08485307b981ac0be2e1",
+      "md_span": {
+        "start": 39276,
+        "end": 39940
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_62",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_62",
+      "eli": null,
+      "type": "article",
+      "num": "Article 62",
+      "heading": null,
+      "path": [
+        "CHAPITRE V",
+        "DISPOSITIONS GÉNÉRALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "En Suède, dans les procédures sommaires concernant les injonctions de payer (*betalningsföreläggande*) et l'assistance (*handräckning*), les termes «juge», «tribunal» et «juridiction» comprennent le service public suédois de recouvrement forcé (*kronofogdemyndighet*).",
+      "text_sha256": "0e1f678bef70c66febf9d4971d69ced01f18282208252b284135de69f8944008",
+      "md_span": {
+        "start": 39979,
+        "end": 40247
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_63",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_63",
+      "eli": null,
+      "type": "article",
+      "num": "Article 63",
+      "heading": null,
+      "path": [
+        "CHAPITRE V",
+        "DISPOSITIONS GÉNÉRALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Une personne domiciliée sur le territoire du Luxembourg et attraite devant le tribunal d'un autre État membre en application de l'article 5, point 1, a la faculté de décliner la compétence de ce tribunal lorsque le lieu final de livraison de la marchandise ou de la prestation de service se situe au Luxembourg.\n\n2. Lorsqu'en application du paragraphe 1, le lieu final de livraison de la marchandise ou de la prestation de service se situe au Luxembourg, toute convention attributive de juridiction, pour être valable, doit être acceptée par écrit ou verbalement avec confirmation écrite, au sens de l'article 23, paragraphe 1, point a).\n\n3. Les dispositions du présent article ne sont pas applicables aux contrats de prestation de services financiers.\n\n4. Les dispositions du présent article sont applicables pour une durée de six ans à compter de l'entrée en vigueur du présent règlement.",
+      "text_sha256": "974cb54bd16f323185c5d681f0ada5a58fbe96759c346784d139941a4d472bc7",
+      "md_span": {
+        "start": 40286,
+        "end": 41179
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_64",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_64",
+      "eli": null,
+      "type": "article",
+      "num": "Article 64",
+      "heading": null,
+      "path": [
+        "CHAPITRE V",
+        "DISPOSITIONS GÉNÉRALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Dans les litiges entre le capitaine et un membre d'équipage d'un navire de mer immatriculé en Grèce ou au Portugal, relatif aux rémunérations ou autres conditions de service, les juridictions d'un État membre doivent contrôler si l'agent diplomatique ou consulaire dont relève le navire a été informé du litige. Elles peuvent statuer dès que cet agent a été informé.\n\n2. Les dispositions du présent article sont applicables pour une durée de six ans à compter de l'entrée en vigueur du présent règlement.",
+      "text_sha256": "b0f5206dfa0a77f725d0910fff56c09e8a0b899933f7f7558ecbd2341372ae3a",
+      "md_span": {
+        "start": 41218,
+        "end": 41725
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_65",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_65",
+      "eli": null,
+      "type": "article",
+      "num": "Article 65",
+      "heading": null,
+      "path": [
+        "CHAPITRE V",
+        "DISPOSITIONS GÉNÉRALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La compétence judiciaire prévue à l'article 6, point 2, et à l'article 11 pour la demande en garantie ou la demande en intervention ne peut être invoquée ni en Allemagne ni en Autriche ni en Hongrie. Toute personne domiciliée sur le territoire d'un autre État membre peut être appelée devant les tribunaux:\n\na) d'Allemagne, en application de l'article 68 et des articles 72 à 74 du Code de procédure civile (Zivilprozessordnung) concernant la litis denuntiatio;\n\nb) d'Autriche, conformément à l'article 21 du Code de procédure civile (Zivilprozessordnung) concernant la litis denuntiatio;\n\nc) de Hongrie, en vertu des articles 58 à 60 du Code de procédure civile (Polgári perrendtartás) concernant la litis denuntiatio.\n\n2. Les décisions rendues dans les autres États membres en vertu de l'article 6, point 2, et de l'article 11 sont reconnues et exécutées en Allemagne, en Autriche et en Hongrie conformément au chapitre III. Les effets produits à l'égard des tiers, en application du paragraphe 1, par des jugements rendus dans ces États sont également reconnus dans les autres États membres.",
+      "text_sha256": "992e353a6b8a7e2d4d5eb2d3d6ea0c6559a575ad4847e9d3538f4f4d5366d39d",
+      "md_span": {
+        "start": 41764,
+        "end": 42861
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/12003T",
+          "text": "12003T: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32001R0044",
+          "text": "32001R0044"
+        }
+      ]
+    },
+    {
+      "anchor": "art_66",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_66",
+      "eli": null,
+      "type": "article",
+      "num": "Article 66",
+      "heading": null,
+      "path": [
+        "CHAPITRE VI",
+        "DISPOSITIONS TRANSITOIRES"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les dispositions du présent règlement ne sont applicables qu'aux actions judiciaires intentées et aux actes authentiques reçus postérieurement à son entrée en vigueur.\n\n2. Toutefois, si l'action dans l'État membre d'origine a été intentée avant la date d'entrée en vigueur du présent règlement, les décisions rendues après cette date sont reconnues et exécutées conformément aux dispositions du chapitre III:\n\na) dès lors que l'action dans l'État membre d'origine a été intentée après l'entrée en vigueur de la convention de Bruxelles ou de la convention de Lugano à la fois dans l'État membre d'origine et dans l'État membre requis;\n\nb) dans tous les autres cas, dès lors que les règles de compétence appliquées sont conformes à celles prévues soit par le chapitre II, soit par une convention qui était en vigueur entre l'État membre d'origine et l'État membre requis au moment où l'action a été intentée.",
+      "text_sha256": "8d40647d43c965bb3cf950e742a7a356a2131833aa88fb5e75d88c9213010db2",
+      "md_span": {
+        "start": 42947,
+        "end": 43856
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_67",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_67",
+      "eli": null,
+      "type": "article",
+      "num": "Article 67",
+      "heading": null,
+      "path": [
+        "CHAPITRE VII",
+        "RELATIONS AVEC LES AUTRES INSTRUMENTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement ne préjuge pas de l'application des dispositions qui, dans des matières particulières, règlent la compétence judiciaire, la reconnaissance et l'exécution des décisions et qui sont contenues dans les actes communautaires ou dans les législations nationales harmonisées en exécution de ces actes.",
+      "text_sha256": "0593037b535c13fd7b875b7485e49833e2132c7bcddf50639b6866354ce1b62b",
+      "md_span": {
+        "start": 43955,
+        "end": 44270
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_68",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_68",
+      "eli": null,
+      "type": "article",
+      "num": "Article 68",
+      "heading": null,
+      "path": [
+        "CHAPITRE VII",
+        "RELATIONS AVEC LES AUTRES INSTRUMENTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Le présent règlement remplace, entre les États membres, la convention de Bruxelles, sauf en ce qui concerne les territoires des États membres qui entrent dans le champ d'application territorial de cette convention et qui sont exclus du présent règlement en vertu de l'article 299 du traité.\n\n2. Dans la mesure où le présent règlement remplace entre les États membres les dispositions de la convention de Bruxelles, toute référence faite à celle-ci s'entend comme faite au présent règlement.",
+      "text_sha256": "8f51f090da3b83ec7f7c87aea9ecff5f8031f8eb59916e2b8402050ba6388a38",
+      "md_span": {
+        "start": 44309,
+        "end": 44802
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_69",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_69",
+      "eli": null,
+      "type": "article",
+      "num": "Article 69",
+      "heading": null,
+      "path": [
+        "CHAPITRE VII",
+        "RELATIONS AVEC LES AUTRES INSTRUMENTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Sans préjudice des dispositions de l'article 66, paragraphe 2, et de l'article 70, le présent règlement remplace entre les États membres les conventions et le traité suivants:\n\n— la convention entre la Belgique et la France sur la compétence judiciaire, sur l'autorité et l'exécution des décisions judiciaires, des sentences arbitrales et des actes authentiques, signée à Paris le 8 juillet 1899,\n\n— la convention entre la Belgique et les Pays-Bas sur la compétence judiciaire territoriale, sur la faillite, ainsi que sur l'autorité et l'exécution des décisions judiciaires, des sentences arbitrales et des actes authentiques, signée à Bruxelles le 28 mars 1925,\n\n— la convention entre la France et l'Italie sur l'exécution des jugements en matière civile et commerciale, signée à Rome le 3 juin 1930,\n\n— la convention entre le Royaume-Uni et la France sur l'exécution réciproque des jugements en matière civile et commerciale, accompagnée d'un protocole, signée à Paris le 18 janvier 1934,\n\n— la convention entre le Royaume-Uni et la Belgique sur l'exécution réciproque des jugements en matière civile et commerciale, accompagnée d'un protocole, signée à Bruxelles le 2 mai 1934,\n\n— la convention entre l'Allemagne et l'Italie sur la reconnaissance et l'exécution des décisions judiciaires en matière civile et commerciale, signée à Rome le 9 mars 1936,\n\n— la convention entre la Belgique et l'Autriche sur la reconnaissance et l'exécution réciproques des décisions judiciaires et des actes authentiques en matière d'obligations alimentaires, signée à Vienne le 25 octobre 1957,\n\n— la convention entre l'Allemagne et la Belgique concernant la reconnaissance et l'exécution réciproques en matière civile et commerciale des décisions judiciaires, sentences arbitrales et actes authentiques, signée à Bonn le 30 juin 1958,\n\n— la convention entre les Pays-Bas et l'Italie sur la reconnaissance et l'exécution des décisions judiciaires en matière civile et commerciale, signée à Rome le 17 avril 1959,\n\n— la convention entre l'Allemagne et l'Autriche sur la reconnaissance et l'exécution réciproques des décisions et transactions judiciaires et des actes authentiques en matière civile et commerciale, signée à Vienne le 6 juin 1959,\n\n— la convention entre la Belgique et l'Autriche sur la reconnaissance et l'exécution réciproques des décisions judiciaires, sentences arbitrales et actes authentiques en matière civile et commerciale, signée à Vienne le 16 juin 1959,\n\n— la convention entre le Royaume-Uni et la République fédérale d'Allemagne sur la reconnaissance et l'exécution réciproques des jugements en matière civile et commerciale, signée à Bonn le 14 juillet 1960,\n\n— la convention entre le Royaume-Uni et l'Autriche sur la reconnaissance et l'exécution réciproques des décisions judiciaires en matière civile et commerciale, signée à Vienne le 14 juillet 1961, ainsi que le protocole de modification signé à Londres le 6 mars 1970,\n\n— la convention entre la Grèce et l'Allemagne sur la reconnaissance et l'exécution réciproques des jugements, transactions et actes authentiques en matière civile et commerciale, signée à Athènes le 4 novembre 1961,\n\n— la convention entre la Belgique et l'Italie concernant la reconnaissance et l'exécution des décisions judiciaires et d'autres titres exécutoires en matière civile et commerciale, signée à Rome le 6 avril 1962,\n\n— la convention entre les Pays-Bas et l'Allemagne sur la reconnaissance et l'exécution mutuelles des décisions judiciaires et autres titres exécutoires en matière civile et commerciale, signée à La Haye le 30 août 1962,\n\n— la convention entre les Pays-Bas et l'Autriche sur la reconnaissance et l'exécution réciproques des décisions judiciaires et des actes authentiques en matière civile et commerciale, signée à La Haye le 6 février 1963,\n\n— la convention entre le Royaume-Uni et la République italienne sur la reconnaissance et l'exécution réciproques des jugements en matière civile et commerciale, signée à Rome le 7 février 1964, accompagnée d'un protocole signé à Rome le 14 juillet 1970,\n\n— la convention entre la France et l'Autriche sur la reconnaissance et l'exécution des décisions judiciaires et des actes authentiques en matière civile et commerciale, signée à Vienne le 15 juillet 1966,\n\n— la convention entre le Royaume-Uni et le Royaume des Pays-Bas sur la reconnaissance et l'exécution réciproques des jugements en matière civile, signée à La Haye le 17 novembre 1967,\n\n— la convention entre l'Espagne et la France sur la reconnaissance et l'exécution de jugements et de sentences arbitrales en matière civile et commerciale, signée à Paris le 28 mai 1969,\n\n— la convention entre le Luxembourg et l'Autriche sur la reconnaissance et l'exécution des décisions judiciaires et des actes authentiques en matière civile et commerciale, signée à Luxembourg le 29 juillet 1971,\n\n— la convention entre l'Italie et l'Autriche sur la reconnaissance et l'exécution des décisions judiciaires en matière civile et commerciale, des transactions judiciaires et des actes notariés, signée à Rome le 16 novembre 1971,\n\n— la convention entre l'Espagne et l'Italie en matière d'assistance judiciaire et de reconnaissance et d'exécution des jugements en matière civile et commerciale, signée à Madrid le 22 mai 1973,\n\n— la convention entre la Finlande, l'Islande, la Norvège, la Suède et le Danemark sur la reconnaissance et l'exécution des décisions en matière civile, signée à Copenhague le 11 octobre 1977,\n\n— la convention entre l'Autriche et la Suède sur la reconnaissance et l'exécution des jugements en matière civile, signée à Stockholm le 16 septembre 1982,\n\n— la convention entre l'Espagne et l'Allemagne sur la reconnaissance et l'exécution de décisions et transactions judiciaires, et d'actes authentiques exécutoires en matière civile et commerciale, signée à Bonn le 14 novembre 1983,\n\n— la convention entre l'Autriche et l'Espagne sur la reconnaissance et l'exécution des décisions et transactions judiciaires et des actes authentiques exécutoires en matière civile et commerciale, signée à Vienne le 17 février 1984,\n\n— la convention entre la Finlande et l'Autriche sur la reconnaissance et l'exécution des jugements en matière civile, signée à Vienne le 17 novembre 1986, et\n\n— le traité entre la Belgique, les Pays-Bas et le Luxembourg sur la compétence judiciaire, sur la faillite, sur l'autorité et l'exécution des décisions judiciaires, des sentences arbitrales et des actes authentiques, signé à Bruxelles le 24 novembre 1961, pour autant qu'il est en vigueur,\n\n— la convention entre la République tchécoslovaque et le Portugal relative à la reconnaissance et à l'exécution des décisions de justice, signée à Lisbonne le 23 novembre 1927, toujours en vigueur entre la République tchèque et le Portugal,\n\n— la convention entre la République fédérative socialiste de Yougoslavie et la République d'Autriche relative à l'entraide judiciaire, signée à Vienne le 16 décembre 1954,\n\n— la convention entre la République populaire de Pologne et la République populaire de Hongrie relative à l'entraide judiciaire en matière civile, familiale et pénale, signée à Budapest le 6 mars 1959,\n\n— la convention entre la République fédérative socialiste de Yougoslavie et le Royaume de Grèce relative à la reconnaissance et à l'exécution des décisions, signée à Athènes le 18 juin 1959,\n\n— la convention entre la République populaire de Pologne et la République fédérale socialiste de Yougoslavie relative à l'entraide judiciaire en matière civile et pénale, signé à Varsovie le 6 février 1960, actuellement en vigueur entre la Pologne et la Slovénie,\n\n— l'accord entre la République fédérative socialiste de Yougoslavie et la République d'Autriche relatif à la reconnaissance et à l'exécution réciproques des décisions et sentences arbitrales en matière commerciale, signé à Belgrade le 18 mars 1960,\n\n— l'accord entre la République fédérative socialiste de Yougoslavie et la République d'Autriche relatif à la reconnaissance et à l'exécution réciproques des décisions en matière d'obligations alimentaires, signé à Vienne le 10 octobre 1961,\n\n— la convention entre la Pologne et l'Autriche relative aux relations mutuelles en matière civile et aux documents, signée à Vienne le 11 décembre 1963,\n\n— le traité entre la République socialiste tchécoslovaque et la République fédérative socialiste de Yougoslavie relatif à l'établissement de relations judiciaires en matière civile, familiale et pénale, signé à Belgrade le 20 janvier 1964, toujours en vigueur entre la République tchèque, la Slovaquie et la Slovénie,\n\n— la convention entre la Pologne et la France relative au droit applicable, à la juridiction et à l'exécution des décisions dans le domaine du droit personnel et familial, conclue à Varsovie le 5 avril 1967,\n\n— la convention entre le gouvernement de la Yougoslavie et le gouvernement de la France relative à la reconnaissance et à l'exécution des décisions en matière civile et commerciale, signée à Paris le 18 mai 1971,\n\n— la convention entre la République fédérative socialiste de Yougoslavie et le Royaume de Belgique relative à la reconnaissance et à l'exécution des décisions judiciaires en matière d'obligations alimentaires, signée à Belgrade le 12 décembre 1973,\n\n— la convention entre la Hongrie et la Grèce relative à l'entraide judiciaire en matière civile et pénale, signée à Budapest le 8 octobre 1979,\n\n— la convention entre la Pologne et la Grèce relative à l'entraide judiciaire en matière civile et pénale, signée à Athènes le 24 octobre 1979,\n\n— la convention entre la Hongrie et la France relative à l'entraide judiciaire en matière civile et familiale, à la reconnaissance et à l'exécution des décisions ainsi qu'à l'entraide judiciaire en matière pénale et à l'extradition, signée à Budapest le 31 juillet 1980,\n\n— le traité entre la République socialiste tchécoslovaque et la République hellénique relatif à l'entraide judiciaire en matière civile et pénale, signé à Athènes le 22 octobre 1980, toujours en vigueur entre la République tchèque, la Slovaquie et la Grèce,\n\n— la convention entre la République de Chypre et la République populaire hongroise relative à l'entraide judiciaire en matière civile et pénale, signée à Nicosie le 30 novembre 1981,\n\n— le traité entre la République socialiste tchécoslovaque et la République de Chypre relatif à l'entraide judiciaire en matière civile et pénale, signé à Nicosie le 23 avril 1982, toujours en vigueur entre la République tchèque, la Slovaquie et Chypre,\n\n— l'accord entre la République de Chypre et la République de Grèce relatif à la coopération judiciaire en matière civile, familiale, commerciale et pénale, signé à Nicosie le 5 mars 1984,\n\n— le traité entre le gouvernement de la République socialiste tchécoslovaque et le gouvernement de la République française relatif à l'entraide judiciaire, à la reconnaissance et à l'exécution des décisions, en matière civile, familiale et commerciale, signé à Paris le 10 mai 1984, toujours en vigueur entre la République tchèque, la Slovaquie et la France,\n\n— l'accord entre la République de Chypre et la République fédérative socialiste de Yougoslavie relatif à l'entraide judiciaire en matière civile et pénale, signé à Nicosie le 19 septembre 1984, actuellement en vigueur entre Chypre et la Slovénie,\n\n— le traité entre la République socialiste tchécoslovaque et la République italienne relatif à l'entraide judiciaire en matière civile et pénale, signé à Prague le 6 décembre 1985, toujours en vigueur entre la République tchèque, la Slovaquie et l'Italie,\n\n— le traité entre la République socialiste tchécoslovaque et le Royaume d'Espagne relatif à l'entraide judiciaire, à la reconnaissance et à l'exécution des décisions judiciaires en matière civile, signé à Madrid le 4 mai 1987, toujours en vigueur entre la République tchèque, la Slovaquie et l'Espagne,\n\n— le traité entre la République socialiste tchécoslovaque et la République populaire de Pologne relatif à l'entraide judiciaire et à l'établissement de relations judiciaires en matière civile, familiale, pénale et du travail, signé à Varsovie le 21 décembre 1987, toujours en vigueur entre la République tchèque, la Slovaquie et la Pologne,\n\n— le traité entre la République socialiste tchécoslovaque et la République populaire de Hongrie relatif à l'entraide judiciaire et à l'établissement de relations judiciaires en matière civile, familiale et pénale, signé à Bratislava le 28 mars 1989, toujours en vigueur entre la République tchèque, la Slovaquie et la Hongrie,\n\n— la convention entre la Pologne et l'Italie relative à l'entraide judiciaire, à la reconnaissance et à l'exécution des décisions en matière civile, signée à Varsovie le 28 avril 1989,\n\n— le traité entre la République tchèque et la République slovaque relatif à l'assistance fournie par les instances judiciaires et à l'établissement de certaines relations judiciaires en matière civile et pénale, signé à Prague le 29 octobre 1992,\n\n— l'accord entre la République de Lettonie, la République d'Estonie et la République de Lituanie relatif à l'entraide judiciaire et aux relations judiciaires, signé à Tallinn le 11 novembre 1992,\n\n— l'accord entre la République de Pologne et la République de Lituanie relatif à l'entraide judiciaire et aux relations judiciaires en matière civile, familiale, pénale et du travail, signé à Varsovie le 26 janvier 1993,\n\n— l'accord entre la République de Lettonie et la République de Pologne relatif à l'entraide judiciaire et aux relations judiciaires en matière civile, familiale, pénale et du travail, signé à Riga le 23 février 1994,\n\n— l'accord entre la République de Chypre et la République de Pologne relatif à la coopération judiciaire en matière civile et pénale, signé à Nicosie le 14 novembre 1996, et\n\n— l'accord entre l'Estonie et la Pologne relatif à l'entraide judiciaire et l'établissement de relations judiciaires en matière civile, pénale et du travail, signé à Tallinn le 27 novembre 1998,\n\n— la convention entre la Bulgarie et la Belgique sur certaines matières judiciaires, signée à Sofia le 2 juillet 1930,\n\n— l'accord entre la République populaire de Bulgarie et la République populaire fédérative de Yougoslavie relatif à l'entraide judiciaire, signé à Sofia le 23 mars 1959, toujours en vigueur entre la Bulgarie et la Slovénie,\n\n— le traité entre la République populaire de Roumanie et la République populaire de Hongrie relatif à l'entraide judiciaire en matière civile, familiale et pénale, signé à Bucarest le 7 octobre 1958,\n\n— le traité entre la République populaire de Roumanie et la République tchécoslovaque relatif à l'entraide judiciaire en matière civile, familiale et pénale, signé à Prague le 25 octobre 1958, toujours en vigueur entre la Roumanie et la Slovaquie,\n\n— l'accord entre la République populaire de Bulgarie et la République populaire de Roumanie relatif à l'entraide judiciaire en matière civile, familiale et pénale, signé à Sofia le 3 décembre 1958,\n\n— le traité entre la République populaire de Roumanie et la République populaire fédérale de Yougoslavie relatif à l'entraide judiciaire, signé à Belgrade le 18 octobre 1960, et son protocole, toujours en vigueur entre la Roumanie et la Slovénie,\n\n— l'accord entre la République populaire de Bulgarie et la République populaire de Pologne relatif à l'entraide judiciaire et aux relations judiciaires en matière civile, familiale et pénale, signé à Varsovie le 4 décembre 1961,\n\n— la convention entre la République socialiste de Roumanie et la République d'Autriche relative à l'entraide judiciaire en matière de droit civil et familial et à la validité et à la signification de documents, et son protocole qui y est annexé, signés à Vienne le 17 novembre 1965,\n\n— l'accord entre la République populaire de Bulgarie et la République populaire de Hongrie relatif à l'entraide judiciaire en matière civile, familiale et pénale, signé à Sofia le 16 mai 1966,\n\n— la convention entre la République socialiste de Roumanie et la République hellénique relative à l'entraide judiciaire en matière civile et pénale et son protocole, signés à Bucarest le 19 octobre 1972,\n\n— la convention entre la République socialiste de Roumanie et la République italienne relative à l'entraide judiciaire en matière civile et pénale, signée à Bucarest le 11 novembre 1972,\n\n— la convention entre la République socialiste de Roumanie et la République française concernant l'entraide judiciaire en matière civile et commerciale, signée à Paris le 5 novembre 1974,\n\n— la convention entre la République socialiste de Roumanie et le Royaume de Belgique concernant l'entraide judiciaire en matière civile et commerciale, signée à Bucarest le 30 octobre 1975,\n\n— l'accord entre la République populaire de Bulgarie et la République hellénique relatif à l'entraide judiciaire en matière civile et pénale, signé à Athènes le 10 avril 1976,\n\n— l'accord entre la République populaire de Bulgarie et la République socialiste tchécoslovaque relatif à l'entraide judiciaire et à l'établissement de relations en matière civile, familiale et pénale, signé à Sofia le 25 novembre 1976,\n\n— la convention entre la République socialiste de Roumanie et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord concernant l'entraide judiciaire en matière civile et commerciale, signée à Londres le 15 juin 1978,\n\n— le protocole additionnel à la convention entre la République socialiste de Roumanie et le Royaume de Belgique concernant l'entraide judiciaire en matière civile et commerciale, signé à Bucarest le 30 octobre 1979,\n\n— la convention entre la République socialiste de Roumanie et le Royaume de Belgique relative à la reconnaissance et à l'exécution des décisions concernant les obligations en matière de pension alimentaire, signée à Bucarest le 30 octobre 1979,\n\n— la convention entre la République socialiste de Roumanie et le Royaume de Belgique relative à la reconnaissance et à l'exécution des décisions en matière de divorce, signée à Bucarest le 6 novembre 1980,\n\n— l'accord entre la République populaire de Bulgarie et la République de Chypre relatif à l'entraide judiciaire en matière civile et pénale, signé à Nicosie le 29 avril 1983,\n\n— l'accord entre le gouvernement de la République populaire de Bulgarie et le gouvernement de la République française relatif à l'entraide judiciaire en matière civile, signé à Sofia le 18 janvier 1989,\n\n— l'accord entre la République populaire de Bulgarie et la République italienne relatif à l'entraide judiciaire et à l'exécution des décisions en matière civile, signé à Rome le 18 mai 1990,\n\n— l'accord entre la République de Bulgarie et le Royaume d'Espagne relatif à l'entraide judiciaire en matière civile, signé à Sofia le 23 mai 1993,\n\n— le traité entre la Roumanie et la République tchèque relatif à l'entraide judiciaire en matière civile, signé à Bucarest le 11 juillet 1994,\n\n— la convention entre la Roumanie et le Royaume d'Espagne relative à la compétence judiciaire, à la reconnaissance et à l'exécution des décisions en matière civile et commerciale, signée à Bucarest le 17 novembre 1997,\n\n— la convention entre la Roumanie et le Royaume d'Espagne — complémentaire à la convention de La Haye relative aux règles de procédure civile (La Haye, 1er mars 1954), signée à Bucarest le 17 novembre 1997,\n\n— le traité entre la Roumanie et la République de Pologne relatif à l'entraide judiciaire et aux relations judiciaires dans les affaires civiles, signé à Bucarest le 15 mai 1999",
+      "text_sha256": "7c172a395363d359fce7fc2d2810cdd4e97b43cf31159f53625d0a7b242cbf8e",
+      "md_span": {
+        "start": 44841,
+        "end": 64333
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32001R0044R%2801%29",
+          "text": "32001R0044R(01): INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32001R0044",
+          "text": "32001R0044"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/12003T",
+          "text": "12003T: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32006R1791",
+          "text": "32006R1791: INSERTED"
+        }
+      ]
+    },
+    {
+      "anchor": "art_70",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_70",
+      "eli": null,
+      "type": "article",
+      "num": "Article 70",
+      "heading": null,
+      "path": [
+        "CHAPITRE VII",
+        "RELATIONS AVEC LES AUTRES INSTRUMENTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les conventions et le traité mentionnés à l'article 69 continuent à produire leurs effets dans les matières auxquelles le présent règlement n'est pas applicable.\n\n2. Ils continuent à produire leurs effets en ce qui concerne les décisions rendues et les actes authentiques reçus avant l'entrée en vigueur du présent règlement.",
+      "text_sha256": "4fcba4cfc0e7d48e071a9b325f74a9bdd0728acfd284a36dfe88b7fb63281890",
+      "md_span": {
+        "start": 64372,
+        "end": 64700
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_71",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_71",
+      "eli": null,
+      "type": "article",
+      "num": "Article 71",
+      "heading": null,
+      "path": [
+        "CHAPITRE VII",
+        "RELATIONS AVEC LES AUTRES INSTRUMENTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Le présent règlement n'affecte pas les conventions auxquelles les États membres sont parties et qui, dans des matières particulières, règlent la compétence judiciaire, la reconnaissance ou l'exécution des décisions.\n\n2. En vue d'assurer son interprétation uniforme, le paragraphe 1 est appliqué de la manière suivante:\n\na) le présent règlement ne fait pas obstacle à ce qu'un tribunal d'un État membre, partie à une convention relative à une matière particulière, puisse fonder sa compétence sur une telle convention, même si le défendeur est domicilié sur le territoire d'un État membre non partie à une telle convention. Le tribunal saisi applique, en tout cas, l'article 26 du présent règlement;\n\nb) les décisions rendues dans un État membre par un tribunal ayant fondé sa compétence sur une convention relative à une matière particulière sont reconnues et exécutées dans les autres États membres conformément au présent règlement.\n\nSi une convention relative à une matière particulière et à laquelle sont parties l'État membre d'origine et l'État membre requis détermine les conditions de reconnaissance et d'exécution des décisions, il est fait application de ces conditions. Il peut, en tout cas, être fait application des dispositions du présent règlement qui concernent la procédure relative à la reconnaissance et à l'exécution des décisions.",
+      "text_sha256": "5edd96278fc2654f717a2b1597b450110347c6e2f39c081d0fb6fd307428f74a",
+      "md_span": {
+        "start": 64739,
+        "end": 66093
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_72",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_72",
+      "eli": null,
+      "type": "article",
+      "num": "Article 72",
+      "heading": null,
+      "path": [
+        "CHAPITRE VII",
+        "RELATIONS AVEC LES AUTRES INSTRUMENTS"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement n'affecte pas les accords par lesquels les États membres se sont engagés, avant l'entrée en vigueur du présent règlement, en vertu de l'article 59 de la convention de Bruxelles, à ne pas reconnaître une décision rendue, notamment dans un autre État contractant à ladite convention, contre un défendeur qui a son domicile ou sa résidence habituelle dans un pays tiers lorsque, dans un cas prévu à l'article 4 de cette convention, la décision n'a pu être fondée que sur une compétence visée à l'article 3, deuxième alinéa, de cette même convention.",
+      "text_sha256": "5187592c5542b538fa48d028793ff20525b84e48ccaef5453fac9d69b3471960",
+      "md_span": {
+        "start": 66132,
+        "end": 66699
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_73",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_73",
+      "eli": null,
+      "type": "article",
+      "num": "Article 73",
+      "heading": null,
+      "path": [
+        "CHAPITRE VIII",
+        "DISPOSITIONS FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Au plus tard cinq ans après l'entrée en vigueur du présent règlement, la Commission présente au Parlement européen, au Conseil et au Comité économique et social un rapport relatif à l'application du présent règlement. Ce rapport est accompagné, le cas échéant, de propositions visant à adapter le règlement.",
+      "text_sha256": "d7e611dedcef935e42292eee4aee5aa2372c9f6f42183d6103f3e0945cb6f494",
+      "md_span": {
+        "start": 66782,
+        "end": 67089
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_74",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_74",
+      "eli": null,
+      "type": "article",
+      "num": "Article 74",
+      "heading": null,
+      "path": [
+        "CHAPITRE VIII",
+        "DISPOSITIONS FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. Les États membres notifient à la Commission les textes modifiant les listes figurant dans les annexes I à IV. La Commission adapte les annexes concernées en conséquence.\n\n2. La mise à jour ou l'adaptation technique des formulaires, dont les modèles figurent dans les annexes V et VI, sont adoptées conformément à la procédure consultative visée à l'article 75, paragraphe 2.",
+      "text_sha256": "f9eb74ca89ff07c212dfc20ef641fb981b49e62965218cda668585a88cfd4cfa",
+      "md_span": {
+        "start": 67128,
+        "end": 67505
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_75",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_75",
+      "eli": null,
+      "type": "article",
+      "num": "Article 75",
+      "heading": null,
+      "path": [
+        "CHAPITRE VIII",
+        "DISPOSITIONS FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "1. La Commission est assistée d'un comité.\n\n2. Dans le cas où il est fait référence au présent paragraphe, les articles 3 et 7 de la décision 1999/468/CE s'appliquent.\n\n3. Le comité adopte son règlement intérieur.",
+      "text_sha256": "c93bfa8da97a789139b74ea16c340ed92dfe08229060e9b244e479b58df24a43",
+      "md_span": {
+        "start": 67544,
+        "end": 67757
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_76",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#art_76",
+      "eli": null,
+      "type": "article",
+      "num": "Article 76",
+      "heading": null,
+      "path": [
+        "CHAPITRE VIII",
+        "DISPOSITIONS FINALES"
+      ],
+      "article_valid_from": null,
+      "text_md": "Le présent règlement entre en vigueur le 1er mars 2002.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans les États membres conformément au traité instituant la Communauté européenne.",
+      "text_sha256": "9a7c1d8960c508343264a8b50835a7dc1d2b2d25bf1492850f68688e70c3d1a7",
+      "md_span": {
+        "start": 67796,
+        "end": 68021
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_i",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#annexe_i",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE I",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Règles de compétence nationales visées à l'article 3, paragraphe 2, et à l'article 4, paragraphe 2\n\nLes règles de compétence nationales visées à l'article 3, paragraphe 2, et à l'article 4, paragraphe 2, sont les suivantes:\n\n— en Belgique: l'article 15 du Code civil (*Burgerlijk Wetboek*) et l'article 638 du Code judiciaire (*Gerechtelijk Wetboek*),\n\n— en Bulgarie: l'article 4, paragraphe 1, du Code de droit international privé,\n\n— en République tchčque: l'article 86 de la loi no 99/1963 Coll., le Code de procédure civile (*občanský soudní řád*), tel que modifié,\n\n— en Allemagne: l'article 23 du Code de procédure civile (*Zivilprozessordnung*),\n\n— en Estonie: l'article 139, paragraphe 2, du Code de procédure civile (*tsiviilkohtumenetluse seadustik*),\n\n— en Grèce: l'article 40 du Code de procédure civile (*Κώδικας Πολιτικής Δικονομίας*),\n\n— en France: les articles 14 et 15 du Code civil,\n\n— en Irlande: les dispositions relatives à la compétence fondée sur un acte introductif d'instance signifié ou notifié au défendeur qui se trouve temporairement en Irlande,\n\n— en Italie: les articles 3 et 4 de la loi 218 du 31 mai 1995,\n\n— à Chypre: la section 21(2) de la loi no 14 de 1960 relative aux tribunaux, telle que modifiée,\n\n— en Lettonie: l'article 27 et l'article 28, paragraphes 3, 5, 6 et 9, de la loi de procédure civile (*Civilprocesa likums*),\n\n— en Lituanie: l'article 31 du Code de procédure civile (*Civilinis kodeksas*),\n\n— au Luxembourg: les articles 14 et 15 du Code civil,\n\n— en Hongrie: l'article 57 du décret-loi no 13 de 1979 relatif au droit international privé (*a nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet*),\n\n— à Malte: les articles 742, 743 et 744 du Code d'organisation et de procédure civile - Cap. 12 (*Kodiċi ta' Organizzazzjoni u Proċedura Ċivili - Kap. 12*) et l'article 549 du Code commercial - Cap. 13 (*Kodiċi tal-kummerċ - Kap. 13*),\n\n— en Autriche: l'article 99 de la loi sur la compétence judiciaire (*Jurisdiktionsnorm*),\n\n— en Pologne: les articles 1103 et 1110 du Code de procédure civile (*Kodeks postępowania cywilnego*),\n\n— au Portugal: les articles 65 et 65 A du Code de procédure civile (*Código de Processo Civil*) et l'article 11 du Code de procédure du travail (*Código de Processo de Trabalho*),\n\n— en Roumanie: les articles 148 à 157 de la loi no 105/1992 sur les relations de droit privé international,\n\n— en Slovénie: l'article 48, paragraphe 2, de la loi relative au droit international privé et aux procédures en la matière (*Zakon o medarodnem zasebnem pravu in postopku*) en liaison avec l'article 47, paragraphe 2, de la loi relative à la procédure civile (*Zakon o pravdnem postopku*) et l'article 58, paragraphe 1, de la loi relative au droit international privé et aux procédures en la matière (*Zakon o medarodnem zasebnem pravu in postopku*) en liaison avec l'article 57, paragraphe 1, et l'article 47, paragraphe 2, de la loi relative à la procédure civile (*Zakon o pravdnem postopku*),\n\n— en Slovaquie: les articles 37 à 37 *sexties* de la loi no 97/1963 relative au droit international privé et aux règles de procédure en la matière,\n\n— en Finlande: le chapitre 10, article 1er, premier alinéa, deuxième, troisième et quatrième phrases, du Code de procédure judiciaire (*oikeudenkäymiskaari*/*rättegångsbalken*),\n\n— en Suède: le chapitre 10, article 3, premier alinéa, première phrase, du Code de procédure judiciaire (*rättegångsbalken*),\n\n— au Royaume-Uni: les dispositions relatives à la compétence fondée sur:\n\na) un acte introductif d'instance signifié ou notifié au défendeur qui se trouve temporairement au Royaume-Uni;\n\nb) l'existence au Royaume-Uni de biens appartenant au défendeur;\n\nc) la saisie par le demandeur de biens situés au Royaume-Uni.",
+      "text_sha256": "ad3fd6293d5d95633d832403b7839f5871ce57db1eaf1f0005afb56ad584a6f1",
+      "md_span": {
+        "start": 68060,
+        "end": 71814
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32006R1791",
+          "text": "32006R1791: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/12003T",
+          "text": "12003T: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32001R0044",
+          "text": "32001R0044"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004R2245",
+          "text": "32004R2245: REPLACED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002R1496",
+          "text": "32002R1496: DELETED"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_ii",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#annexe_ii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE II",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les juridictions ou autorités compétentes auprès desquelles les requêtes visées à l'article 39 sont présentées sont les suivantes:\n\n— en Belgique, le tribunal de première instance ou *rechtbank van eerste aanleg* ou *erstinstanzliches Gericht*,\n\n— en Bulgarie, le *Софийски градски съд*,\n\n— en République tchèque, le *okresní soud* ou *soudní exekutor*,\n\n— ►M1 en Allemagne:\n\na) le président d'une chambre du *Landgericht*;\n\nb) un notaire («…»), dans le cadre d'une procédure de déclaration constatant la force exécutoire d'un acte authentique** ◄ **,\n\n— en Estonie, le *maakohus* ou le *linnakohus*,\n\n— en Grèce, le *Μονομελές Πρωτοδικείο*,\n\n— en Espagne, le *Juzgado de Primera Instancia*,\n\n— en France:\n\na) greffier en chef du tribunal de grande instance\n\nb) le président de la chambre départementale des notaires lorsque la requête vise à voir déclarer exécutoire un acte authentique notarié,\n\n— en Irlande, la *High Court*,\n\n— en Italie, la *Corte d'appello*,\n\n— à Chypre, le *Επαρχιακό Δικαστήριο* ou, dans le cas d'une décision en matière d'obligation alimentaire, le *Οικογενειακό Δικαστήριο*,\n\n— en Lettonie, le *rajona (pilsētas) tiesa*,\n\n— en Lituanie, le *Lietuvos apeliacinis teismas*,\n\n— au Luxembourg, le président du tribunal d'arrondissement,\n\n— en Hongrie, le *megyei bíróság székhelyén működő helyi bíróság* et, à Budapest, le *Budai Központi Kerületi Bíróság*,\n\n— à Malte, le *Prim' Awla tal-Qorti Ċivili* ou *Qorti tal-Maġistrati ta' Għawdex fil-ġurisdizzjoni superjuri tagħha* ou, dans le cas d'une décision en matière d'obligation alimentaire, le *Reġistratur tal-Qorti* après transmission par le *Ministru responsabbli għall-Ġustizzja,*\n\n— ►M1 aux Pays-Bas,*le voorzieningenrechter van de rechtbank*** ◄ **,\n\n— en Autriche, le *Bezirksgericht*,\n\n— en Pologne, le *Sąd Okręgowy*,\n\n— au Portugal, le *Tribunal de Comarca*,\n\n— en Roumanie, le *Tribunal*,\n\n— en Slovénie, le *okrožno sodišče*,\n\n— en Slovaquie, le *okresný súd*,\n\n— en Finlande, le *käräjäoikeus*/*tingsrätt*,\n\n— en Suède, le *Svea hovrätt*,\n\n— au Royaume-Uni:\n\na) en Angleterre et au pays de Galles, la *High Court of Justice* ou, s'il s'agit d'une décision en matière d'obligation alimentaire, la *Magistrates' Court* saisie par l'intermédiaire du *Secretary of State*;\n\nb) en Écosse, la *Court of Session* ou, s'il s'agit d'une décision en matière d'obligation alimentaire, la *Sheriff Court*, saisie par l'intermédiaire du *Secretary of State*;\n\nc) en Irlande du Nord, la *High Court of Justice* ou, s'il s'agit d'une décision en matière d'obligation alimentaire, la *Magistrates' Court* saisie par l'intermédiaire du *Secretary of State*;\n\nd) à Gibraltar, la *Supreme Court* de Gibraltar ou, s'il s'agit d'une décision en matière d'obligation alimentaire, la *Magistrates' Court* saisie par l'intermédiaire de l'*Attorney General* de Gibraltar.",
+      "text_sha256": "8bd2ec7bb2d411cab8071bf73d1584925c7039ee70e57e62774f69b344fe58f7",
+      "md_span": {
+        "start": 71855,
+        "end": 74690
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32006R1791",
+          "text": "32006R1791: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/12003T",
+          "text": "12003T: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32001R0044",
+          "text": "32001R0044"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32002R1496",
+          "text": "►M1"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004R2245",
+          "text": "32004R2245: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_iii",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#annexe_iii",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE III",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les juridictions des États membres devant lesquelles les recours visés à l'article 43, paragraphe 2, sont portés sont les suivantes:\n\n— en Belgique,\n\na) en ce qui concerne le recours du défendeur:\n\nle tribunal de première instance ou *rechtbank van eerste aanleg* ou *erstinstanzliches Gericht*;\n\nb) en ce qui concerne le recours du requérant:\n\nla cour d'appel ou*hof van beroep*,\n\n— en Bulgarie, la *Апелативен съд* — *София*,\n\n— en République tchèque, le *okresní soud*,\n\n— en Allemagne, le *Oberlandesgericht*,\n\n— en Estonie, le *ringkonnakohus*,\n\n— en Grèce, le *Εφετείο*,\n\n— en Espagne, la *Audiencia Provincial*,\n\n— en France:\n\na) la cour d’appel pour les décisions accueillant la requête;\n\nb) le président du tribunal de grande instance pour les décisions rejetant la requête,\n\n— en Irlande, la *High Court*,\n\n— en Italie, la *Corte d'appello*,\n\n— à Chypre, le *Επαρχιακό Δικαστήριο* ou, dans le cas d'une décision en matière d'obligation alimentaire, le *Οικογενειακό Δικαστήριο*,\n\n— en Lettonie, le *Apgabaltiesa*,\n\n— en Lituanie, le *Lietuvos apeliacinis teismas*,\n\n— au Luxembourg, la Cour supérieure de justice siégeant en matière d'appel civil,\n\n— en Hongrie, le *megyei bíróság*; à Budapest, le *Fővárosi Bíróság*,\n\n— à Malte, le *Qorti ta' l-Appell* conformément à la procédure prévue pour les appels dans le *Kodiċi ta' Organizzazzjoni u Proċedura Ċivili - Kap. 12* ou, dans le cas d'une décision en matière d'obligation alimentaire, par le *ċitazzjoni* devant le *Prim' Awla tal-Qorti ċivili jew il-Qorti tal-Maġistrati ta' Għawdex fil-ġurisdizzjoni superjuri tagħha'*,\n\n— aux Pays-Bas:\n\na) pour le défendeur: l'*arrondissementsrechtbank*;\n\nb) pour le requérant: le *gerechtshof*,\n\n— en Autriche, le *Bezirksgericht*,\n\n— en Pologne, le *Sąd Apelacyjny*,\n\n— au Portugal, le *Tribunal de Relação*,\n\n— en Roumanie, la *Curte de Appel*,\n\n— en Slovénie, le *okrožno sodišče*,\n\n— en Slovaquie, le *okresný súd*,\n\n— en Finlande, le *hovioikeus*/*hovrätt*,\n\n— en Suède, le *Svea hovrätt*,\n\n— au Royaume-Uni:\n\na) en Angleterre et au pays de Galles, la *High Court of Justice* ou, s'il s'agit d'une décision en matière d'obligation alimentaire, la *Magistrates' Court*;\n\nb) en Écosse, la *Court of Session* ou, s'il s'agit d'une décision en matière d'obligation alimentaire, la *Sheriff Court*;\n\nc) en Irlande du Nord, la *High Court of Justice* ou, s'il s'agit d'une décision en matière d'obligation alimentaire, la *Magistrates' Court*;\n\nd) à Gibraltar, la *Supreme Court* de Gibraltar ou, s'il s'agit d'une décision en matière d'obligation alimentaire, la *Magistrates' Court*.",
+      "text_sha256": "e453d40a49a5d47d729081adc0dae922d1e57185ae984a93203943c86a679c8d",
+      "md_span": {
+        "start": 74733,
+        "end": 77320
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32006R1791",
+          "text": "32006R1791: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/12003T",
+          "text": "12003T: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32001R0044",
+          "text": "32001R0044"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004R2245",
+          "text": "32004R2245: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_iv",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#annexe_iv",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE IV",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Les recours qui peuvent être formés en vertu de l'article 44 sont les suivants:\n\n— en Belgique, en Grèce, en Espagne, en France, en Italie, au Luxembourg et aux Pays-Bas, le pourvoi en cassation,\n\n— en Bulgarie, *обжалване пред Върховния касационен съд*,\n\n— en République tchéque, un *dovolání* et un *žaloba pro zmatečnost*,\n\n— en Allemagne, la *Rechtsbeschwerde*,\n\n— en Estonie, un *kassatsioonkaebus*,\n\n— en Irlande, le recours sur un point de droit devant la *Supreme Court*,\n\n— à Chypre, un recours devant la Cour suprême,\n\n— en Lettonie, un recours devant le *Augstākā tiesa*,\n\n— en Lituanie, le recours devant le *Lietuvos Aukščiausiasis Teismas*,\n\n— en Hongrie, *felülvizsgálati kérelem*,\n\n— à Malte, aucun recours n'est possible devant une autre juridiction; dans le cas d'une décision en matière d'obligation alimentaire, le *Qorti ta' l-Appell* conformément à la procédure prévue pour les recours dans le *kodiċi ta' Organizzazzjoni u Procedura Ċivili - Kap. 12*,\n\n— en Autriche, le *Revisionsrekurs*,\n\n— en Pologne, un pourvoi en cassation auprès du *Sąd Najwyższy*,\n\n— au Portugal, le recours sur un point de droit,\n\n— en Roumanie, une *contestatie in anulare* or a *revizuire*,\n\n— en Slovénie, le recours devant le *Vrhovno sodišče Republike Slovenije*,\n\n— en Slovaquie, le *dovolanie*,\n\n— en Finlande, le recours devant le *Korkein oikeus*/*högsta domstolen*,\n\n— en Suède, le recours devant le *Högsta domstolen*,\n\n— au Royaume-Uni, un seul recours sur un point de droit.",
+      "text_sha256": "d5ae6184b099e0f0fa702f05247984fb7d7406f46a4c247b62832026c45300e2",
+      "md_span": {
+        "start": 77361,
+        "end": 78847
+      },
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32006R1791",
+          "text": "32006R1791: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/12003T",
+          "text": "12003T: INSERTED"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32001R0044",
+          "text": "32001R0044"
+        },
+        {
+          "href": "http://publications.europa.eu/resource/celex/32004R2245",
+          "text": "32004R2245: REPLACED"
+        }
+      ]
+    },
+    {
+      "anchor": "annexe_v",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#annexe_v",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE V",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 78886,
+        "end": 78886
+      },
+      "citations": []
+    },
+    {
+      "anchor": "annexe_vi",
+      "provision_id": "eu-eurlex:32001r0044:2007-01-01#annexe_vi",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "ANNEXE VI",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "(1) JO C 376 du 28.12.1999, p. 1.\n\n(2) Avis rendu le 21 septembre 2000 (non encore paru au Journal officiel).\n\n(3) JO C 117 du 26.4.2000, p. 6.\n\n(4) JO L 299 du 31.12.1972, p. 32.\n\nJO L 304 du 30.10.1978, p. 1.\n\nJO L 388 du 31.12.1982, p. 1.\n\nJO L 285 du 3.10.1989, p. 1.\n\nJO C 15 du 15.1.1997, p. 1.\n\nPour le texte consolidé, voir JO C 27 du 26.1.1998, p. 1.\n\n(5) JO L 204 du 2.8.1975, p. 28.\n\nJO L 304 du 30.10.1978, p. 1.\n\nJO L 388 du 31.12.1982, p. 1.\n\nJO L 285 du 3.10.1989, p. 1.\n\nJO C 15 du 15.1.1997, p. 1.\n\nPour le texte consolidé, voir JO C 27 du 26.1.1998, p. 28.\n\n(6) JO L 184 du 17.7.1999, p. 23.\n\n(7) JO L 228 du 16.8.1973, p. 3. Directive modifiée en dernier lieu par la directive 2000/26/CE du Parlement européen et du Conseil (JO L 181 du 20.7.2000, p. 65).\n\n(8) JO L 172 du 4.7.1988, p. 1. Directive modifiée en dernier lieu par la directive 2000/26/CE.\n\n(9) JO L 330 du 29.11.1990, p. 44.\n\n(10) JO L 160 du 30.6.2000, p. 37.",
+      "text_sha256": "82a46695ca55d22fc283b04cd3a163086695a699681e6c7865c21f9809167233",
+      "md_span": {
+        "start": 78927,
+        "end": 79870
+      },
+      "citations": [
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0006",
+          "text": "6"
+        },
+        {
+          "href": "#src.E0007",
+          "text": "7"
+        },
+        {
+          "href": "#src.E0008",
+          "text": "8"
+        },
+        {
+          "href": "#src.E0009",
+          "text": "9"
+        },
+        {
+          "href": "#src.E0010",
+          "text": "10"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}
