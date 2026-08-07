@@ -3,6 +3,7 @@
   "schema": "lex-articles/1",
   "profiles": [
     "fmx4-eu/1",
+    "xhtml-eu-xlink-context/1",
     "xhtml-eu/1"
   ],
   "primary_language": "en",
@@ -201,6 +202,18 @@
     ],
     "art_1": [
       {
+        "valid_from": "2023-06-27",
+        "valid_to": "2023-11-20",
+        "text_sha256": "8b0191b85a8dc2625b1be4b4c4a226f8cf5e44b18683879574cfe45a63f09712",
+        "in_version": "eu-eurlex:32023r2486:2023-06-27"
+      },
+      {
+        "valid_from": "2023-11-21",
+        "valid_to": "2025-12-31",
+        "text_sha256": "655043be2ed16d86a3c85dd494534cf432172d04749338b6aaae6861c8fcc5d5",
+        "in_version": "eu-eurlex:32023r2486:2023-11-21"
+      },
+      {
         "valid_from": "2026-01-01",
         "valid_to": null,
         "text_sha256": "75dbe1a44135e8044b43681856807baf0d7d5aa8d912f2a6434afbe482f964bb",
@@ -208,6 +221,18 @@
       }
     ],
     "art_2": [
+      {
+        "valid_from": "2023-06-27",
+        "valid_to": "2023-11-20",
+        "text_sha256": "fcdd5ac17426bb1cbb888b689dd36c86ee2330995ff46fac3786f5b0a3ca79d5",
+        "in_version": "eu-eurlex:32023r2486:2023-06-27"
+      },
+      {
+        "valid_from": "2023-11-21",
+        "valid_to": "2025-12-31",
+        "text_sha256": "ee206a97613fb5aadaaf3dca1893f12e15e5dc94628071d5a08cfca26ee1048a",
+        "in_version": "eu-eurlex:32023r2486:2023-11-21"
+      },
       {
         "valid_from": "2026-01-01",
         "valid_to": null,
@@ -217,6 +242,18 @@
     ],
     "art_3": [
       {
+        "valid_from": "2023-06-27",
+        "valid_to": "2023-11-20",
+        "text_sha256": "e95731e8f99bff95cd37a7e47e4c0f2c7f4576ea51e20fba43451af60efa90ad",
+        "in_version": "eu-eurlex:32023r2486:2023-06-27"
+      },
+      {
+        "valid_from": "2023-11-21",
+        "valid_to": "2025-12-31",
+        "text_sha256": "babf49ad22c22d427656c4d4d760bd070b2f83e9aea1be5359c76e2a5eabe7ef",
+        "in_version": "eu-eurlex:32023r2486:2023-11-21"
+      },
+      {
         "valid_from": "2026-01-01",
         "valid_to": null,
         "text_sha256": "ee50a179da8ebb5802e4a9be977f08dc56beea10c9d05f76170d38efced1be4f",
@@ -224,6 +261,18 @@
       }
     ],
     "art_4": [
+      {
+        "valid_from": "2023-06-27",
+        "valid_to": "2023-11-20",
+        "text_sha256": "ee577504665f88211319cccdde10f0fd85e0d4ebee747611fe355c7ead43acda",
+        "in_version": "eu-eurlex:32023r2486:2023-06-27"
+      },
+      {
+        "valid_from": "2023-11-21",
+        "valid_to": "2025-12-31",
+        "text_sha256": "20e24e2310cfeaebf729e4623e699980ae899104190e2ea8e139ee45f6da7b3d",
+        "in_version": "eu-eurlex:32023r2486:2023-11-21"
+      },
       {
         "valid_from": "2026-01-01",
         "valid_to": null,
@@ -233,6 +282,18 @@
     ],
     "art_5": [
       {
+        "valid_from": "2023-06-27",
+        "valid_to": "2023-11-20",
+        "text_sha256": "617d571c200d2343c104b25ffdf93249e230879e644085b5ae803cc98133880e",
+        "in_version": "eu-eurlex:32023r2486:2023-06-27"
+      },
+      {
+        "valid_from": "2023-11-21",
+        "valid_to": "2025-12-31",
+        "text_sha256": "d740772f0da8c1f121788cc6e4ae8f69366749449fda9a8278140a2b8034d187",
+        "in_version": "eu-eurlex:32023r2486:2023-11-21"
+      },
+      {
         "valid_from": "2026-01-01",
         "valid_to": null,
         "text_sha256": "c462d49373ab902a355839bf58fb5f6add5412d3877e9e48c021a21e11bceacd",
@@ -241,6 +302,18 @@
     ],
     "art_6": [
       {
+        "valid_from": "2023-06-27",
+        "valid_to": "2023-11-20",
+        "text_sha256": "ca64c33336da8566e4e05afd4a02e1dbe4351ee486c3f87b5f264be6b2592454",
+        "in_version": "eu-eurlex:32023r2486:2023-06-27"
+      },
+      {
+        "valid_from": "2023-11-21",
+        "valid_to": "2025-12-31",
+        "text_sha256": "9fa2bed0fdb1b5e8b9f719d86f8c2b12ec9b79751d813a1346c47d615902345b",
+        "in_version": "eu-eurlex:32023r2486:2023-11-21"
+      },
+      {
         "valid_from": "2026-01-01",
         "valid_to": null,
         "text_sha256": "2f7061249a17f9b6ee7f67f13969d101f3ebf6e1d180b752e8155462cad82bb4",
@@ -248,7 +321,128 @@
       }
     ]
   },
-  "anchor_events": [],
+  "anchor_events": [
+    {
+      "type": "inserted",
+      "anchor": "anx_i",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_ii",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_ii__2",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_iii",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_iv",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_v",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_vi",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_vi__2",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_vii",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_viii",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "anx_x",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "appendix_a",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "appendix_a__2",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "appendix_a__3",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "appendix_a__4",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "appendix_b",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "appendix_b__2",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "appendix_b__3",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "appendix_c",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "appendix_c__2",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "appendix_c__3",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "appendix_d",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "appendix_d__2",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "appendix_d__3",
+      "at_version": "eu-eurlex:32023r2486:2026-01-01"
+    }
+  ],
   "anchors_by_language": {
     "en": {
       "anx_i": [
@@ -445,6 +639,18 @@
       ],
       "art_1": [
         {
+          "valid_from": "2023-06-27",
+          "valid_to": "2023-11-20",
+          "text_sha256": "8b0191b85a8dc2625b1be4b4c4a226f8cf5e44b18683879574cfe45a63f09712",
+          "in_version": "eu-eurlex:32023r2486:2023-06-27"
+        },
+        {
+          "valid_from": "2023-11-21",
+          "valid_to": "2025-12-31",
+          "text_sha256": "655043be2ed16d86a3c85dd494534cf432172d04749338b6aaae6861c8fcc5d5",
+          "in_version": "eu-eurlex:32023r2486:2023-11-21"
+        },
+        {
           "valid_from": "2026-01-01",
           "valid_to": null,
           "text_sha256": "75dbe1a44135e8044b43681856807baf0d7d5aa8d912f2a6434afbe482f964bb",
@@ -452,6 +658,18 @@
         }
       ],
       "art_2": [
+        {
+          "valid_from": "2023-06-27",
+          "valid_to": "2023-11-20",
+          "text_sha256": "fcdd5ac17426bb1cbb888b689dd36c86ee2330995ff46fac3786f5b0a3ca79d5",
+          "in_version": "eu-eurlex:32023r2486:2023-06-27"
+        },
+        {
+          "valid_from": "2023-11-21",
+          "valid_to": "2025-12-31",
+          "text_sha256": "ee206a97613fb5aadaaf3dca1893f12e15e5dc94628071d5a08cfca26ee1048a",
+          "in_version": "eu-eurlex:32023r2486:2023-11-21"
+        },
         {
           "valid_from": "2026-01-01",
           "valid_to": null,
@@ -461,6 +679,18 @@
       ],
       "art_3": [
         {
+          "valid_from": "2023-06-27",
+          "valid_to": "2023-11-20",
+          "text_sha256": "e95731e8f99bff95cd37a7e47e4c0f2c7f4576ea51e20fba43451af60efa90ad",
+          "in_version": "eu-eurlex:32023r2486:2023-06-27"
+        },
+        {
+          "valid_from": "2023-11-21",
+          "valid_to": "2025-12-31",
+          "text_sha256": "babf49ad22c22d427656c4d4d760bd070b2f83e9aea1be5359c76e2a5eabe7ef",
+          "in_version": "eu-eurlex:32023r2486:2023-11-21"
+        },
+        {
           "valid_from": "2026-01-01",
           "valid_to": null,
           "text_sha256": "ee50a179da8ebb5802e4a9be977f08dc56beea10c9d05f76170d38efced1be4f",
@@ -468,6 +698,18 @@
         }
       ],
       "art_4": [
+        {
+          "valid_from": "2023-06-27",
+          "valid_to": "2023-11-20",
+          "text_sha256": "ee577504665f88211319cccdde10f0fd85e0d4ebee747611fe355c7ead43acda",
+          "in_version": "eu-eurlex:32023r2486:2023-06-27"
+        },
+        {
+          "valid_from": "2023-11-21",
+          "valid_to": "2025-12-31",
+          "text_sha256": "20e24e2310cfeaebf729e4623e699980ae899104190e2ea8e139ee45f6da7b3d",
+          "in_version": "eu-eurlex:32023r2486:2023-11-21"
+        },
         {
           "valid_from": "2026-01-01",
           "valid_to": null,
@@ -477,6 +719,18 @@
       ],
       "art_5": [
         {
+          "valid_from": "2023-06-27",
+          "valid_to": "2023-11-20",
+          "text_sha256": "617d571c200d2343c104b25ffdf93249e230879e644085b5ae803cc98133880e",
+          "in_version": "eu-eurlex:32023r2486:2023-06-27"
+        },
+        {
+          "valid_from": "2023-11-21",
+          "valid_to": "2025-12-31",
+          "text_sha256": "d740772f0da8c1f121788cc6e4ae8f69366749449fda9a8278140a2b8034d187",
+          "in_version": "eu-eurlex:32023r2486:2023-11-21"
+        },
+        {
           "valid_from": "2026-01-01",
           "valid_to": null,
           "text_sha256": "c462d49373ab902a355839bf58fb5f6add5412d3877e9e48c021a21e11bceacd",
@@ -484,6 +738,18 @@
         }
       ],
       "art_6": [
+        {
+          "valid_from": "2023-06-27",
+          "valid_to": "2023-11-20",
+          "text_sha256": "ca64c33336da8566e4e05afd4a02e1dbe4351ee486c3f87b5f264be6b2592454",
+          "in_version": "eu-eurlex:32023r2486:2023-06-27"
+        },
+        {
+          "valid_from": "2023-11-21",
+          "valid_to": "2025-12-31",
+          "text_sha256": "9fa2bed0fdb1b5e8b9f719d86f8c2b12ec9b79751d813a1346c47d615902345b",
+          "in_version": "eu-eurlex:32023r2486:2023-11-21"
+        },
         {
           "valid_from": "2026-01-01",
           "valid_to": null,
@@ -544,7 +810,128 @@
     }
   },
   "anchor_events_by_language": {
-    "en": [],
+    "en": [
+      {
+        "type": "inserted",
+        "anchor": "anx_i",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_ii",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_ii__2",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_iii",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_iv",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_v",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_vi",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_vi__2",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_vii",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_viii",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "anx_x",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendix_a",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendix_a__2",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendix_a__3",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendix_a__4",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendix_b",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendix_b__2",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendix_b__3",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendix_c",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendix_c__2",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendix_c__3",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendix_d",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendix_d__2",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendix_d__3",
+        "at_version": "eu-eurlex:32023r2486:2026-01-01"
+      }
+    ],
     "fr": []
   }
 }

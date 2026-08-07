@@ -3,6 +3,7 @@
   "schema": "lex-articles/1",
   "profiles": [
     "html-eu-tolerant/1",
+    "xhtml-eu-xlink-context/1",
     "xhtml-eu/1"
   ],
   "primary_language": "en",
@@ -45,6 +46,18 @@
         "valid_to": "1994-12-31",
         "text_sha256": "9a2fe70f232a62529b283376dab330359a5353ba58e2a7abb5e59a14b8aef489",
         "in_version": "eu-eurlex:31994l0004:1994-02-14"
+      },
+      {
+        "valid_from": "1995-01-01",
+        "valid_to": "1997-12-31",
+        "text_sha256": "28812830162a7c8bfa97d64ad8ac1dfa61910c42fd55ecfbfa45969071627417",
+        "in_version": "eu-eurlex:31994l0004:1995-01-01"
+      },
+      {
+        "valid_from": "1998-01-01",
+        "valid_to": "1998-12-31",
+        "text_sha256": "59590ea6c291472bdfb90eb360f1556f35455e9d8565e9800118ef7a7fef072f",
+        "in_version": "eu-eurlex:31994l0004:1998-01-01"
       },
       {
         "valid_from": "1999-01-01",
@@ -123,6 +136,18 @@
           "in_version": "eu-eurlex:31994l0004:1994-02-14"
         },
         {
+          "valid_from": "1995-01-01",
+          "valid_to": "1997-12-31",
+          "text_sha256": "28812830162a7c8bfa97d64ad8ac1dfa61910c42fd55ecfbfa45969071627417",
+          "in_version": "eu-eurlex:31994l0004:1995-01-01"
+        },
+        {
+          "valid_from": "1998-01-01",
+          "valid_to": "1998-12-31",
+          "text_sha256": "59590ea6c291472bdfb90eb360f1556f35455e9d8565e9800118ef7a7fef072f",
+          "in_version": "eu-eurlex:31994l0004:1998-01-01"
+        },
+        {
           "valid_from": "1999-01-01",
           "valid_to": "2006-12-31",
           "text_sha256": "ae78dd8b6e9aecac3c15cba11a4dde37fbd6140e22a9b5ffb541768602488c08",
@@ -169,6 +194,18 @@
           "valid_to": "1994-12-31",
           "text_sha256": "e5958d4475ef713ac4748c62cc69e65d6d09cbb26e534ff1146b9e0da573d5a9",
           "in_version": "eu-eurlex:31994l0004:1994-02-14"
+        },
+        {
+          "valid_from": "1995-01-01",
+          "valid_to": "1997-12-31",
+          "text_sha256": "82755f0db9c4804849aade4791c5dfefe9d7420e6dacb0da9aa64854e2985b4f",
+          "in_version": "eu-eurlex:31994l0004:1995-01-01"
+        },
+        {
+          "valid_from": "1998-01-01",
+          "valid_to": "1998-12-31",
+          "text_sha256": "3d99887e5fa42f95eddccdaccd6d5997ba6286fb488f78f2d4e7825a64d27874",
+          "in_version": "eu-eurlex:31994l0004:1998-01-01"
         },
         {
           "valid_from": "1999-01-01",

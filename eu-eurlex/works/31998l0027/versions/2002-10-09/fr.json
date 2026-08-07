@@ -1,0 +1,267 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:31998l0027:2002-10-09",
+  "language": "fr",
+  "title": "Directive 98/27/EC",
+  "valid_from": "2002-10-09",
+  "valid_to": "2005-06-11",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/31998l0027/versions/2002-10-09/fr.html",
+    "sha256": "353e3ac78efae071cbd7a876b022ce78b3a0c98a9cfe32a8ccc959e39263b4e0",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:01998L0027-20021009"
+  },
+  "generator": {
+    "profile": "xhtml-eu-xlink-context/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "clanek_1",
+      "provision_id": "eu-eurlex:31998l0027:2002-10-09#clanek_1",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 1",
+      "heading": "Oblast působnosti",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Cílem této směrnice je sbližování právních a správních předpisů členských států týkajících se žalob na zdržení se jednání ve smyslu článku 2, kterými jsou chráněny kolektivní zájmy spotřebitelů v působnosti směrnice uvedené v příloze, aby se tak zajistilo řádné fungování vnitřního trhu.\n\n2. Pro účely této směrnice se protiprávním jednáním rozumí každé jednání, které je v rozporu se směrnicemi uvedenými v příloze, tak jak byly provedeny ve vnitrostátním právním řádu členských států, a které narušuje kolektivní zájmy spotřebitelů podle odstavce 1.",
+      "text_sha256": "c3e2ffab9d9985a6448c36e86da63e1e74025f790f1996c40b74c6be7df56c9a",
+      "md_span": {
+        "start": 618,
+        "end": 1172
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_2",
+      "provision_id": "eu-eurlex:31998l0027:2002-10-09#clanek_2",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 2",
+      "heading": "Žaloby na zdržení se jednání",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Členské státy určí soudy nebo správní orgány příslušné k tomu, aby vedly řízení ve věcech zahájených na návrh oprávněných subjektů ve smyslu článku 3, která jsou zaměřena na:\n\na) co možná nejpohotovější zastavení nebo zákaz protiprávního jednání, případně vydaný v rámci zkráceného řízení;\n\nb) případná opatření, jako je vhodnou formou zveřejněné rozhodnutí v plném nebo částečném znění nebo uveřejnění opravného prohlášení s cílem zastavit pokračující účinek protiprávního jednání;\n\nc) je-li to v souladu s právním řádem členského státu, příkaz žalované straně, která prohrála a odmítla výkon rozhodnutí ve lhůtě stanovené soudy nebo správními orgány, zaplatit do veřejné pokladny nebo oprávněné osobě určené podle vnitrostátního práva pevnou částku za každý den prodlení nebo jinou částku stanovenou soudy nebo správními orgány, aby se zajistil výkon rozhodnutí.\n\n2. V rámci uplatňovaného práva se tato směrnice použije, aniž jsou dotčena pravidla mezinárodního práva soukromého, takže se obvykle uplatní buď právo členského státu, ve kterém má protiprávní jednání původ, nebo právo členského státu, ve kterém se účinky protiprávního jednání projeví.",
+      "text_sha256": "3a2d513f165e8bddf7fb4efd5e13994bfce239940703b381512c861f84b483e9",
+      "md_span": {
+        "start": 1242,
+        "end": 2397
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_3",
+      "provision_id": "eu-eurlex:31998l0027:2002-10-09#clanek_3",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 3",
+      "heading": "Subjekty oprávněné podat návrh",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Pro účely této směrnice se „oprávněným subjektem“ rozumí každý subjekt nebo organizace, které byly zřízeny řádně podle práva členského státu a mají oprávněný zájem zajistit dodržování ustanovení v článku 1, zejména:\n\na) jeden nebo více nezávislých veřejnoprávních subjektů, které jsou výhradně odpovědné za ochranu zájmů podle článku 1, v členských státech, ve kterých takové orgány existují, nebo\n\nb) organizace, jejichž cílem je hájit zájmy uvedené v článku 1 v souladu s kritérii, která jsou stanovena předpisy vnitrostátního práva.",
+      "text_sha256": "0a480d74ad545d376832adb2476e27c0ca242860e02e3441e2d3d7d888e46f5c",
+      "md_span": {
+        "start": 2469,
+        "end": 3004
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_4",
+      "provision_id": "eu-eurlex:31998l0027:2002-10-09#clanek_4",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 4",
+      "heading": "Protiprávní jednání uvnitř Společenství",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Každý členský stát přijme opatření nezbytná k tomu, aby se v případě protiprávního jednání, které má původ na jeho území, kterýkoli oprávněný subjekt jiného členského státu, ve kterém jsou zájmy chráněné tímto oprávněným subjektem dotčeny protiprávním jednáním, mohl po předložení seznamu zmíněného v odstavci 3 obrátit na soud nebo správní orgán příslušný podle článku 2. Soudy nebo správní orgány přijímají tento seznam jako doklad o způsobilosti oprávněného subjektu podat návrh, aniž je dotčeno právo přezkoumat, zda účel oprávněného subjektu jej opravňuje k podání návrhu v daném případě.\n\n2. Za účelem potírání protiprávních jednání uvnitř Společenství a aniž jsou dotčena práva příslušející jiným subjektům podle vnitrostátního práva, sdělí členské státy na žádost svých oprávněných subjektů Komisi, že tyto subjekty jsou oprávněny podat návrh podle článku 2. Členské státy sdělí Komisi název a účel těchto oprávněných subjektů.\n\n3. Komise sestaví seznam oprávněných subjektů podle odstavce 2 a upřesní v něm jejich účel. Tento seznam se zveřejní v *Úředním věstníku Evropských společenství*; změny tohoto seznamu se neprodleně zveřejní, přičemž aktualizovaný seznam se zveřejňuje každých šest měsíců.",
+      "text_sha256": "00575ddf2f2ac87677050d41629c8537dbe916c90b918acc99774111699dec32",
+      "md_span": {
+        "start": 3085,
+        "end": 4296
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_5",
+      "provision_id": "eu-eurlex:31998l0027:2002-10-09#clanek_5",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 5",
+      "heading": "Předchozí konzultace",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Členské státy mohou zavést nebo ponechat v platnosti předpisy, podle kterých může strana, která hodlá podat žalobu na zdržení se jednání, zahájit toto řízení teprve poté, co se pokusila dosáhnout zastavení protiprávního jednání při konzultacích se žalovanou stranou nebo se žalovanou stranou a některým z oprávněných subjektů ve smyslu čl. 3 písm. a) členského státu, ve kterém je podána žaloba na zdržení se jednání. Členskému státu přísluší rozhodnutí, zda strana, která hodlá podat žalobu na zdržení se jednání, musí konzultovat oprávněný subjekt. Pokud se do dvou týdnů po obdržení žádosti o konzultaci nedosáhne zastavení protiprávního jednání, může postižená strana podat bez dalšího žalobu na zdržení se jednání.\n\n2. Pravidla týkající se předchozí konzultace, která přijmou členské státy, se oznámí Komisi a zveřejní v *Úředním věstníku Evropských společenství*.",
+      "text_sha256": "12bcc6c9aa38fb901686b1e6e760f94338b61b8df2e4aa3a6900e5a3f0b8e135",
+      "md_span": {
+        "start": 4358,
+        "end": 5230
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_6",
+      "provision_id": "eu-eurlex:31998l0027:2002-10-09#clanek_6",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 6",
+      "heading": "Zprávy",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Komise předloží Evropskému parlamentu a Radě každé tři roky a poprvé nejpozději pět let po vstupu této směrnice v platnost zprávu o jejím uplatňování.\n\n2. Ve své první zprávě přezkoumá Komise zejména:\n\n— oblast působnosti této směrnice vzhledem k ochraně kolektivních zájmů osob, které provozují obchod, živnost, řemeslo nebo svobodné povolání,\n\n— oblast působnosti této směrnice, jak je určen směrnicemi uvedenými v příloze,\n\n— zda předchozí konzultace podle článku 5 přispěla k účinné ochraně spotřebitele.\n\nV případě potřeby se ke zprávě připojí návrhy na změnu této směrnice.",
+      "text_sha256": "c93b26000fdc4434b46ea734b1fa0cd63e2f73a48450abf1bcd778dd02b2d01e",
+      "md_span": {
+        "start": 5278,
+        "end": 5860
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_7",
+      "provision_id": "eu-eurlex:31998l0027:2002-10-09#clanek_7",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 7",
+      "heading": "Ustanovení poskytující rozsáhlejší oprávnění",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Tato směrnice nebrání členským státům přijímat nebo ponechat v platnosti ustanovení, která poskytují oprávněným subjektům, jakož i jiným dotčeným osobám na vnitrostátní úrovni rozsáhlejší oprávnění podávat návrhy.",
+      "text_sha256": "54b464fd6ceefa9dae0c4f1dbc7e623c5ba74cf66b1585f3e7081b4a5b0a56fd",
+      "md_span": {
+        "start": 5946,
+        "end": 6159
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_8",
+      "provision_id": "eu-eurlex:31998l0027:2002-10-09#clanek_8",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 8",
+      "heading": "Provedení",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Členské státy uvedou v účinnost právní a správní předpisy nezbytné pro dosažení souladu s touto směrnicí nejpozději 30 měsíců po vstupu této směrnice v platnost. Neprodleně o nich uvědomí Komisi.\n\nTato opatření přijatá členskými státy musí obsahovat odkaz na tuto směrnici nebo musí být takový odkaz učiněn při jejich úředním vyhlášení. Způsob odkazu si stanoví členské státy.\n\n2. Členské státy sdělí Komisi znění vnitrostátních právních předpisů, které přijmou v oblasti působnosti této směrnice.",
+      "text_sha256": "879859f25ca3f0788b7167168f4c7858003fc48b7248b663aeeb8e6e5c388ddb",
+      "md_span": {
+        "start": 6210,
+        "end": 6710
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_9",
+      "provision_id": "eu-eurlex:31998l0027:2002-10-09#clanek_9",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 9",
+      "heading": "Vstup v platnost",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Tato směrnice vstupuje v platnost dvacátým dnem po vyhlášení v *Úředním věstníku Evropských společenství*.",
+      "text_sha256": "178b342f6c3dc56bcdd7960272e8b6196deb3a732e4c03f59749c74615b39dcb",
+      "md_span": {
+        "start": 6768,
+        "end": 6874
+      },
+      "citations": []
+    },
+    {
+      "anchor": "clanek_10",
+      "provision_id": "eu-eurlex:31998l0027:2002-10-09#clanek_10",
+      "eli": null,
+      "type": "article",
+      "num": "Článek 10",
+      "heading": "Určení",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Tato směrnice je určena členským státům.",
+      "text_sha256": "fa0a59c26c2a8e5b161bb52bcd36597d02f7c5c7598368ba6696bff56765ec57",
+      "md_span": {
+        "start": 6924,
+        "end": 6964
+      },
+      "citations": []
+    },
+    {
+      "anchor": "priloha",
+      "provision_id": "eu-eurlex:31998l0027:2002-10-09#priloha",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "PŘÍLOHA",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "md_span": {
+        "start": 7001,
+        "end": 7001
+      },
+      "citations": []
+    },
+    {
+      "anchor": "seznam_smernic_podle_clanku_1_4",
+      "provision_id": "eu-eurlex:31998l0027:2002-10-09#seznam_smernic_podle_clanku_1_4",
+      "eli": null,
+      "type": "annex",
+      "num": null,
+      "heading": "SEZNAM SMĚRNIC PODLE ČLÁNKU 1 (4)",
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "1. Směrnice Rady 84/450/EHS ze dne 10. září 1984 o sbližování právních a správních předpisů členských států týkajících se klamavé reklamy (Úř. věst. L 250, 19.9.1984, s. 17).\n\n2. Směrnice Rady 85/577/EHS ze dne 20. prosince 1985 o ochraně spotřebitele v případě smluv uzavřených mimo obchodní prostory (Úř. věst. L 372, 31.12.1985, s. 31).\n\n3. Směrnice Rady 87/102/EHS ze dne 22. prosince 1986 o sbližování právních a správních předpisů členských států týkajících se spotřebitelského úvěru (Úř. věst. L 42, 12. 2. 1987, s. 48), naposledy pozměněná směrnicí 98/7/ES (Úř. věst. L 101, 1.4.1988, s. 17).\n\n4. Směrnice Rady 89/552/EHS ze dne 3. října 1989 o koordinaci některých právních a správních předpisů členských států upravujících provozování televizního vysílání: články 10 až 21 (Úř. věst. L 298, 17.10.1989, s. 23), naposledy pozměněná směrnicí 97/36/ES (Úř. věst. L 202, 30.7.1997, s. 60).\n\n5. Směrnice Rady 90/314/EHS ze dne 13. června 1990 o souborných službách pro cesty, pobyty a zájezdy (Úř. věst. L 158, 23.6.1990, s. 59).\n\n6. Směrnice Rady 92/28/EHS ze dne 31. března 1992 o reklamě na humánní léčivé přípravky (Úř. věst. L 113, 30.4.1992, s. 13).\n\n7. Směrnice Rady 93/13/EHS ze dne 5. dubna 1993 o nepřiměřených podmínkách ve spotřebitelských smlouvách (Úř. věst. L 95, 21.4.1993, s. 29).\n\n8. Směrnice Evropského parlamentu a Rady 94/47/ES ze dne 26. října 1994 o ochraně nabyvatelů ve vztahu k některým aspektům smluv o nabytí práv k dočasnému užívání nemovitostí (Úř. věst. L 280, 29.10.1994, s. 83).\n\n9. Směrnice Evropského parlamentu a Rady 97/7/ES ze dne 20. května 1997 o ochraně spotřebitele v případě smluv uzavřených na dálku (Úř. věst. L 144, 4.6.1997, s. 19).\n\n10. Směrnice Evropského parlamentu a Rady 1999/44/ES ze dne 25. května 1999 o některých aspektech prodeje spotřebního zboží a záruk na toto zboží (Úř. věst. L 171, 7.7.1999, s. 12).\n\n11. Směrnice Evropského parlamentu a Rady 2000/31/ES ze dne 8. června 2000 o některých právních aspektech služeb informační společnosti, zejména elektronického obchodu na vnitřním trhu („směrnice o elektronickém obchodu“) (Úř. věst. L 178, 17.7.2000, s. 1).\n\n12. Směrnice Evropského parlamentu a Rady 2002/65/ES ze dne 23. září 2002 o uvádění finančních služeb pro spotřebitele na trh na dálku a o změně směrnice Rady 90/619/EHS a směrnic 97/7/ES a 98/27/ES (5).\n\n(1) Úř. věst. C 107, 13.4.1996, s. 3 a Úř. věst. C 80, 13.3.1997, s. 10.\n\n(2) Úř. věst. C 30, 30.1.1997, s. 112.\n\n(3) Stanovisko Evropského parlamentu ze dne 14. listopadu 1996 (Úř. věst. C 362, 2.12.1996, s. 236), společný postoj Rady ze dne 30. října 1997 (Úř. věst. C 389, 22.12.1997, s. 51) a rozhodnutí Evropského parlamentu ze dne 12. března 1998 (Úř. věst. C 104, 6.4.1998). Rozhodnutí Rady ze dne 23. dubna 1998.\n\n(4) Směrnice uvedené v bodech 1, 6, 7 a 9 obsahují specifická ustanovení o žalobách na zdržení se jednání.\n\n(5) Úř. věst. L 271, 9.10.2002, s. 16.",
+      "text_sha256": "fd08c2de3d79808e4da46bdaae142f272b8e180d95b5f05fda5475ca38911cad",
+      "md_span": {
+        "start": 7088,
+        "end": 9989
+      },
+      "citations": [
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:31999L0044",
+          "text": "31999L0044: INSERTED"
+        },
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:32000L0031",
+          "text": "32000L0031: INSERTED"
+        },
+        {
+          "href": "./../../../legal-content/FR/AUTO/?uri=celex:32002L0065",
+          "text": "32002L0065: INSERTED"
+        },
+        {
+          "href": "#E0005",
+          "text": "5"
+        },
+        {
+          "href": "#src.E0001",
+          "text": "1"
+        },
+        {
+          "href": "#src.E0002",
+          "text": "2"
+        },
+        {
+          "href": "#src.E0003",
+          "text": "3"
+        },
+        {
+          "href": "#src.E0004",
+          "text": "4"
+        },
+        {
+          "href": "#src.E0005",
+          "text": "5"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
+  ]
+}

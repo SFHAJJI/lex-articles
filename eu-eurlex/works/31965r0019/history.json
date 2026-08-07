@@ -2,7 +2,8 @@
   "lex_work_id": "eu-eurlex:31965r0019",
   "schema": "lex-articles/1",
   "profiles": [
-    "html-eu-tolerant/1"
+    "html-eu-tolerant/1",
+    "xhtml-eu-xlink-context/1"
   ],
   "primary_language": "en",
   "anchors": {
@@ -12,6 +13,36 @@
         "valid_to": "1972-12-31",
         "text_sha256": "81d92b1f392f4ceeafb3cca1eb31a0f08b88e3a85a72f778d6a50871a2c7f463",
         "in_version": "eu-eurlex:31965r0019:1965-03-02"
+      },
+      {
+        "valid_from": "1973-01-01",
+        "valid_to": "1980-12-31",
+        "text_sha256": "900a7b48f50c0e9a8b4680568f16e4aa5901dc563242a8611b804562e5a26026",
+        "in_version": "eu-eurlex:31965r0019:1973-01-01"
+      },
+      {
+        "valid_from": "1981-01-01",
+        "valid_to": "1985-12-31",
+        "text_sha256": "d7a81b2bb7295740202f5309b5c3f8702294851dc75be20e60904eab26529907",
+        "in_version": "eu-eurlex:31965r0019:1981-01-01"
+      },
+      {
+        "valid_from": "1986-01-01",
+        "valid_to": "1994-12-31",
+        "text_sha256": "4a366e82a6f317f0ecf01e226defbfbb7358cabca1a828689ac8dcf5ba15088d",
+        "in_version": "eu-eurlex:31965r0019:1986-01-01"
+      },
+      {
+        "valid_from": "1995-01-01",
+        "valid_to": "1999-06-17",
+        "text_sha256": "a0b65b5956f64b9135f7256902104be18bd2cc764c79e30c6958c12ee45d55eb",
+        "in_version": "eu-eurlex:31965r0019:1995-01-01"
+      },
+      {
+        "valid_from": "1999-06-18",
+        "valid_to": "2004-04-30",
+        "text_sha256": "ed263ef7ce8356c9b07169992e7d59c977a47fbb01fa42db6be0872e9f42e730",
+        "in_version": "eu-eurlex:31965r0019:1999-06-18"
       },
       {
         "valid_from": "2004-05-01",
@@ -32,6 +63,36 @@
           "in_version": "eu-eurlex:31965r0019:1965-03-02"
         },
         {
+          "valid_from": "1973-01-01",
+          "valid_to": "1980-12-31",
+          "text_sha256": "900a7b48f50c0e9a8b4680568f16e4aa5901dc563242a8611b804562e5a26026",
+          "in_version": "eu-eurlex:31965r0019:1973-01-01"
+        },
+        {
+          "valid_from": "1981-01-01",
+          "valid_to": "1985-12-31",
+          "text_sha256": "d7a81b2bb7295740202f5309b5c3f8702294851dc75be20e60904eab26529907",
+          "in_version": "eu-eurlex:31965r0019:1981-01-01"
+        },
+        {
+          "valid_from": "1986-01-01",
+          "valid_to": "1994-12-31",
+          "text_sha256": "4a366e82a6f317f0ecf01e226defbfbb7358cabca1a828689ac8dcf5ba15088d",
+          "in_version": "eu-eurlex:31965r0019:1986-01-01"
+        },
+        {
+          "valid_from": "1995-01-01",
+          "valid_to": "1999-06-17",
+          "text_sha256": "a0b65b5956f64b9135f7256902104be18bd2cc764c79e30c6958c12ee45d55eb",
+          "in_version": "eu-eurlex:31965r0019:1995-01-01"
+        },
+        {
+          "valid_from": "1999-06-18",
+          "valid_to": "2004-04-30",
+          "text_sha256": "ed263ef7ce8356c9b07169992e7d59c977a47fbb01fa42db6be0872e9f42e730",
+          "in_version": "eu-eurlex:31965r0019:1999-06-18"
+        },
+        {
           "valid_from": "2004-05-01",
           "valid_to": null,
           "text_sha256": "bb88ecf389fc6db07b0f2e909662d6751a580d4ebf8e2ab48f0d164822028535",
@@ -46,6 +107,36 @@
           "valid_to": "1972-12-31",
           "text_sha256": "11c07c4c7e6571af7d302c5a7efb474266e153a7729fcc2eba4eaa0661a17aa5",
           "in_version": "eu-eurlex:31965r0019:1965-03-02"
+        },
+        {
+          "valid_from": "1973-01-01",
+          "valid_to": "1980-12-31",
+          "text_sha256": "f57d0a5f5b7b3954c2d83dd877fc60923fc63b93fbe3743d153ef25398ee8ecc",
+          "in_version": "eu-eurlex:31965r0019:1973-01-01"
+        },
+        {
+          "valid_from": "1981-01-01",
+          "valid_to": "1985-12-31",
+          "text_sha256": "5c79ebf50ce6876315ac9ad064ee71d31f354802708daa56133a229ed7ab6a48",
+          "in_version": "eu-eurlex:31965r0019:1981-01-01"
+        },
+        {
+          "valid_from": "1986-01-01",
+          "valid_to": "1994-12-31",
+          "text_sha256": "c0853da97e9198777fc09aeb4972880eb3e6c86a2cbbc76a72d466945875f6c2",
+          "in_version": "eu-eurlex:31965r0019:1986-01-01"
+        },
+        {
+          "valid_from": "1995-01-01",
+          "valid_to": "1999-06-17",
+          "text_sha256": "505f0fe5b608f40867a92c07f9347c941118986c000391202729b529988dae29",
+          "in_version": "eu-eurlex:31965r0019:1995-01-01"
+        },
+        {
+          "valid_from": "1999-06-18",
+          "valid_to": "2004-04-30",
+          "text_sha256": "354f3ea3297f637a71d1356d9589e2159e7d0236def3203c69ec14bfd7877d46",
+          "in_version": "eu-eurlex:31965r0019:1999-06-18"
         },
         {
           "valid_from": "2004-05-01",

@@ -2,16 +2,79 @@
   "lex_work_id": "eu-eurlex:31992r0479",
   "schema": "lex-articles/1",
   "profiles": [
-    "html-eu-tolerant/1"
+    "html-eu-tolerant/1",
+    "xhtml-eu-xlink-context/1"
   ],
   "primary_language": "en",
   "anchors": {
+    "1": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2009-04-13",
+        "text_sha256": "8bfca7206896ff408b269d182cf1ab4f19b4c9022a27036a358ca1933c1c9566",
+        "in_version": "eu-eurlex:31992r0479:2004-05-01"
+      }
+    ],
+    "2": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2009-04-13",
+        "text_sha256": "602545925c3d815ca78a683abc32a5a23931c88c920a6f9f2c8179dd6e85a91d",
+        "in_version": "eu-eurlex:31992r0479:2004-05-01"
+      }
+    ],
+    "3": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2009-04-13",
+        "text_sha256": "9c3d121d79a9304949e52a55b69a802d292af930ff1111d6f28e7f33633ec728",
+        "in_version": "eu-eurlex:31992r0479:2004-05-01"
+      }
+    ],
+    "3a": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2009-04-13",
+        "text_sha256": "f3d9856dc729149bf6b1cd20efd1b515d11e819aee9e282c7fd76dc782d3dcb2",
+        "in_version": "eu-eurlex:31992r0479:2004-05-01"
+      }
+    ],
+    "4": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2009-04-13",
+        "text_sha256": "2f006070d33a1846d967356e1ef342173e313dd9712e91d40aff5724edd4119c",
+        "in_version": "eu-eurlex:31992r0479:2004-05-01"
+      }
+    ],
+    "5": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2009-04-13",
+        "text_sha256": "a73e2ed34e53f512829d49ad9217a17b773f44c87d54389e57a50a316ee1a443",
+        "in_version": "eu-eurlex:31992r0479:2004-05-01"
+      }
+    ],
+    "7": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2009-04-13",
+        "text_sha256": "8c923c2bea6b4885289c606db982c5853b283b85b7261ea1991fb180428b7da8",
+        "in_version": "eu-eurlex:31992r0479:2004-05-01"
+      }
+    ],
     "document": [
       {
         "valid_from": "1992-02-25",
         "valid_to": "1994-12-31",
         "text_sha256": "a5ecfc52974777a96115376d7414de71bb5733ec189a4e8d04d53cfe0b61f5ff",
         "in_version": "eu-eurlex:31992r0479:1992-02-25"
+      },
+      {
+        "valid_from": "1995-01-01",
+        "valid_to": "2004-04-30",
+        "text_sha256": "5c9c0203ddb940c0f07d62e3a68c058fa1ed6d182f2b45af8e2f95ff8a1ef710",
+        "in_version": "eu-eurlex:31992r0479:1995-01-01"
       },
       {
         "valid_from": "2009-04-14",
@@ -21,15 +84,158 @@
       }
     ]
   },
-  "anchor_events": [],
+  "anchor_events": [
+    {
+      "type": "removed",
+      "anchor": "document",
+      "at_version": "eu-eurlex:31992r0479:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "1",
+      "at_version": "eu-eurlex:31992r0479:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "2",
+      "at_version": "eu-eurlex:31992r0479:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "3",
+      "at_version": "eu-eurlex:31992r0479:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "3a",
+      "at_version": "eu-eurlex:31992r0479:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "4",
+      "at_version": "eu-eurlex:31992r0479:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "5",
+      "at_version": "eu-eurlex:31992r0479:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "7",
+      "at_version": "eu-eurlex:31992r0479:2004-05-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "1",
+      "at_version": "eu-eurlex:31992r0479:2009-04-14"
+    },
+    {
+      "type": "removed",
+      "anchor": "2",
+      "at_version": "eu-eurlex:31992r0479:2009-04-14"
+    },
+    {
+      "type": "removed",
+      "anchor": "3",
+      "at_version": "eu-eurlex:31992r0479:2009-04-14"
+    },
+    {
+      "type": "removed",
+      "anchor": "3a",
+      "at_version": "eu-eurlex:31992r0479:2009-04-14"
+    },
+    {
+      "type": "removed",
+      "anchor": "4",
+      "at_version": "eu-eurlex:31992r0479:2009-04-14"
+    },
+    {
+      "type": "removed",
+      "anchor": "5",
+      "at_version": "eu-eurlex:31992r0479:2009-04-14"
+    },
+    {
+      "type": "removed",
+      "anchor": "7",
+      "at_version": "eu-eurlex:31992r0479:2009-04-14"
+    },
+    {
+      "type": "inserted",
+      "anchor": "document",
+      "at_version": "eu-eurlex:31992r0479:2009-04-14"
+    }
+  ],
   "anchors_by_language": {
     "en": {
+      "1": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2009-04-13",
+          "text_sha256": "8bfca7206896ff408b269d182cf1ab4f19b4c9022a27036a358ca1933c1c9566",
+          "in_version": "eu-eurlex:31992r0479:2004-05-01"
+        }
+      ],
+      "2": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2009-04-13",
+          "text_sha256": "602545925c3d815ca78a683abc32a5a23931c88c920a6f9f2c8179dd6e85a91d",
+          "in_version": "eu-eurlex:31992r0479:2004-05-01"
+        }
+      ],
+      "3": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2009-04-13",
+          "text_sha256": "9c3d121d79a9304949e52a55b69a802d292af930ff1111d6f28e7f33633ec728",
+          "in_version": "eu-eurlex:31992r0479:2004-05-01"
+        }
+      ],
+      "3a": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2009-04-13",
+          "text_sha256": "f3d9856dc729149bf6b1cd20efd1b515d11e819aee9e282c7fd76dc782d3dcb2",
+          "in_version": "eu-eurlex:31992r0479:2004-05-01"
+        }
+      ],
+      "4": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2009-04-13",
+          "text_sha256": "2f006070d33a1846d967356e1ef342173e313dd9712e91d40aff5724edd4119c",
+          "in_version": "eu-eurlex:31992r0479:2004-05-01"
+        }
+      ],
+      "5": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2009-04-13",
+          "text_sha256": "a73e2ed34e53f512829d49ad9217a17b773f44c87d54389e57a50a316ee1a443",
+          "in_version": "eu-eurlex:31992r0479:2004-05-01"
+        }
+      ],
+      "7": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2009-04-13",
+          "text_sha256": "8c923c2bea6b4885289c606db982c5853b283b85b7261ea1991fb180428b7da8",
+          "in_version": "eu-eurlex:31992r0479:2004-05-01"
+        }
+      ],
       "document": [
         {
           "valid_from": "1992-02-25",
           "valid_to": "1994-12-31",
           "text_sha256": "a5ecfc52974777a96115376d7414de71bb5733ec189a4e8d04d53cfe0b61f5ff",
           "in_version": "eu-eurlex:31992r0479:1992-02-25"
+        },
+        {
+          "valid_from": "1995-01-01",
+          "valid_to": "2004-04-30",
+          "text_sha256": "5c9c0203ddb940c0f07d62e3a68c058fa1ed6d182f2b45af8e2f95ff8a1ef710",
+          "in_version": "eu-eurlex:31992r0479:1995-01-01"
         },
         {
           "valid_from": "2009-04-14",
@@ -40,12 +246,74 @@
       ]
     },
     "fr": {
+      "1": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2009-04-13",
+          "text_sha256": "8bfca7206896ff408b269d182cf1ab4f19b4c9022a27036a358ca1933c1c9566",
+          "in_version": "eu-eurlex:31992r0479:2004-05-01"
+        }
+      ],
+      "2": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2009-04-13",
+          "text_sha256": "602545925c3d815ca78a683abc32a5a23931c88c920a6f9f2c8179dd6e85a91d",
+          "in_version": "eu-eurlex:31992r0479:2004-05-01"
+        }
+      ],
+      "3": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2009-04-13",
+          "text_sha256": "9c3d121d79a9304949e52a55b69a802d292af930ff1111d6f28e7f33633ec728",
+          "in_version": "eu-eurlex:31992r0479:2004-05-01"
+        }
+      ],
+      "3a": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2009-04-13",
+          "text_sha256": "f3d9856dc729149bf6b1cd20efd1b515d11e819aee9e282c7fd76dc782d3dcb2",
+          "in_version": "eu-eurlex:31992r0479:2004-05-01"
+        }
+      ],
+      "4": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2009-04-13",
+          "text_sha256": "2f006070d33a1846d967356e1ef342173e313dd9712e91d40aff5724edd4119c",
+          "in_version": "eu-eurlex:31992r0479:2004-05-01"
+        }
+      ],
+      "5": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2009-04-13",
+          "text_sha256": "a73e2ed34e53f512829d49ad9217a17b773f44c87d54389e57a50a316ee1a443",
+          "in_version": "eu-eurlex:31992r0479:2004-05-01"
+        }
+      ],
+      "7": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2009-04-13",
+          "text_sha256": "8c923c2bea6b4885289c606db982c5853b283b85b7261ea1991fb180428b7da8",
+          "in_version": "eu-eurlex:31992r0479:2004-05-01"
+        }
+      ],
       "document": [
         {
           "valid_from": "1992-02-25",
           "valid_to": "1994-12-31",
           "text_sha256": "6401bbc4fd9328533049fb9d904d513d76f92b355c46a120e130a4612bc43855",
           "in_version": "eu-eurlex:31992r0479:1992-02-25"
+        },
+        {
+          "valid_from": "1995-01-01",
+          "valid_to": "2004-04-30",
+          "text_sha256": "27a322de88546b13dc8cd83b9244a0c75caf452d5a464485b38f7d71265e7777",
+          "in_version": "eu-eurlex:31992r0479:1995-01-01"
         },
         {
           "valid_from": "2009-04-14",
@@ -57,7 +325,169 @@
     }
   },
   "anchor_events_by_language": {
-    "en": [],
-    "fr": []
+    "en": [
+      {
+        "type": "removed",
+        "anchor": "document",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "1",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "2",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "3",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "3a",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "4",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "5",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "7",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "1",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      },
+      {
+        "type": "removed",
+        "anchor": "2",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      },
+      {
+        "type": "removed",
+        "anchor": "3",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      },
+      {
+        "type": "removed",
+        "anchor": "3a",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      },
+      {
+        "type": "removed",
+        "anchor": "4",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      },
+      {
+        "type": "removed",
+        "anchor": "5",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      },
+      {
+        "type": "removed",
+        "anchor": "7",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      },
+      {
+        "type": "inserted",
+        "anchor": "document",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      }
+    ],
+    "fr": [
+      {
+        "type": "removed",
+        "anchor": "document",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "1",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "2",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "3",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "3a",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "4",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "5",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "7",
+        "at_version": "eu-eurlex:31992r0479:2004-05-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "1",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      },
+      {
+        "type": "removed",
+        "anchor": "2",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      },
+      {
+        "type": "removed",
+        "anchor": "3",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      },
+      {
+        "type": "removed",
+        "anchor": "3a",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      },
+      {
+        "type": "removed",
+        "anchor": "4",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      },
+      {
+        "type": "removed",
+        "anchor": "5",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      },
+      {
+        "type": "removed",
+        "anchor": "7",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      },
+      {
+        "type": "inserted",
+        "anchor": "document",
+        "at_version": "eu-eurlex:31992r0479:2009-04-14"
+      }
+    ]
   }
 }

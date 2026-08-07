@@ -2,9 +2,10 @@
   "lex_work_id": "eu-eurlex:32019r1111r(02)",
   "schema": "lex-articles/1",
   "profiles": [
+    "xhtml-eu-xlink-context/1",
     "xhtml-eu/1"
   ],
-  "primary_language": "fr",
+  "primary_language": "en",
   "anchors": {
     "art_1": [
       {
@@ -849,6 +850,848 @@
   },
   "anchor_events": [],
   "anchors_by_language": {
+    "en": {
+      "art_1": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "6eb0f3a2d5caf0734a72754e901a4d034a5a41dea4fe81a3473d2ef965a37902",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "5cb8588671e08a6475ff34a9df62c0052ee7a40d75efc2e28cbe2f779477c93a",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_100": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "fce6b35c68139f9c8b5c36d5a08f02cd2c6b90cf51467cd3114a2d539a1eb9a6",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_101": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "afc9d218a96a14dc4dc2ae076290f0847fd0ddfde41194d13f9f15a71cda0c90",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_102": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "ba25d05bf595f168f2f377e9cef40f0bb80772abc148238e13e3dad89d849494",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_103": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "5f2484ce4031a7fb8f4f36c275e8b1a216a72bdfcf3bc2c183128763b9c767be",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_104": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "36db50a47c238b100375ba4fe0231d17831d1bb9f214fd231403d6b2ea88b83b",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_105": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "565143000429eeec183e85322c174c11cb14ae3ff2764e5de0369cdcc4d5bef5",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "2f2526ade6836d81f4964baca85d840e907827c856927a0cf58ed443703b09e3",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "90de1fc47f07da938218b0b3fbba875adcedf2eb8688c7d022be503320c2241a",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "bef15c22142f3636e32b26f7c9a282821a23377e53c21753ba8295689e262a82",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "5d9872797a48d34a1e76242029ba160464c0c4295913e44f3c71dd1823d3968d",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "de3de87552786042cec73ce6bfb7cfb910366d3348aea61a0a3106879d5f273b",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "38d22cf6b2eec092d1676d6623e033a37596f6a58f0dae9416da5d7e02c4cddb",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_17": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "34dc4942c4aa7e904195a1383567c2c1cfe50c3ad30a4d947605f75585640d95",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_18": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "42ee99061c581630c54c2af4e052d13bb0a5ff85df23b5fa7f0b07d5ca0a8551",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_19": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "1317754ec00c5c89ab1192e914d7c42d859a25811d51231eca5bff05b14d36dc",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "b29bdf62e1f2f985c6cb17236dd4330a503c303aaf80881ea5c3608d125d1374",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_20": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "befcbb9ac312bec8057b5c88a8f288a8c6d9af51c2296e9fd05656ad0a11e854",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_21": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "93d2233abf6b470a5dc5f7a5aae22e1d73f736f51265c2b041ab0f22c5b31bbe",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_22": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "f394b08a968e00ed2dce0f56d8620463902f65163b837b3b1508392a6ec63d88",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_23": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "1b20ab0d50fb780cbce8f6dcce03c0d66904de3f3545f8c655526ec5f0b349ab",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_24": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "80c9bc5fa4f5af45e83dca8a12e86be1fc47ff07b20c027130a41ba96d74478f",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_25": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "45b9c0041c719c5eb60176f68c9731aec29a5f1d515eb98afbaea215c1ead17d",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_26": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "8ad072cc2d53ff53a944e858da95acd1ff3568c0500e8975bb528d43dcf71ecb",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_27": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "148fee54c0880629c3ecd9d195ce0d3431013c1f208c204c471d9a0a1d72c3cf",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_28": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "67cbfd235bd332e36bc4d981fe392e977f49bc1efa800476ba4ba05232fa210e",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_29": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "d535009e6b28ba0aa0c897a24819a63864eae893eb91e232d58f41d4b1b904f1",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "05e36494c795ba67e2d5e985872ac0b2655cd0b1db7e016ece34b7816f920537",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_30": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "2dc4f9f587595bc6fb020af82578c068b16cacc93937e5c3092eca45f22136e8",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_31": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "ed86f89f661d57c84bec9b2ebdab0705c72d4a571ab363e4737d96017503e036",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_32": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "90eb21901154f38730c98367d377f7449090db4cef11efb1572fe2fb0590acd2",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_33": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "024e26f18c411d2ca88b971bf4523b23f8ae0b41f2bd661acbbd25b81db45d99",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_34": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "920c6ca7cbd6df14940ed2bc0fe9345252ed7d46ca00d2174d2b2296d6730235",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_35": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "30ab74c8b8cef54c516c556b28865d947c611879d8d4fc49683a7c5b29794c41",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_36": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "459b59fc149742eed1a61b7491fcda5bf300f0825b6117e8bdec80e1a4eb6423",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_37": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "a46e4dd4ceaf125e14b63bc4a878eb124570920a961c1d9ba5afd16c3b759ec2",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_38": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "9796d1749addf394eb14dda4749cdb0d450f1b4213fd7bcfca2dc12034cb261f",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_39": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "687d229fc80a1b5563e13520ee43fe82bd43ac376fb3d31f7eb7d89782f16157",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "aad0b3bd149db132a751c818bee70ea72635410c654410e3ec789c7d3d57656d",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_40": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "b3a9398271d5daa5f2103b5193d4641d38f597e5f546f7f34115e17d9df5e7f5",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_41": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "fe246794373bd76ece4d608a39018a562c81105202da6ce584f7992cfe8bb5bc",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_42": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "049516ff4f8a282f2007ae1f067441003c0af40d0e598b8f5083034e2b48000d",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_43": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "6c2852c0ab81312fee9834a190f89cd0c955a1ec04a1dbe653ea2656a1edcb97",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_44": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "7d1a67abb6959ed347726da28361a7c2a03a9b1da93237fd11c37fee00fdb6e3",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_45": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "fcb8de8061633c05177f722478d931a3546320fa1929f5cd5cce4d5542e0f9b8",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_46": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "172ee3e925b2fc1ec7408a54fdab745b324c663284f556ba153541f3d32b8666",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_47": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "b927d42f7b396bb74a32bfd3f9d1e851175a2c2143b38348d19ef69daf5d0695",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_48": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "da22297361253573dce01c8e394d310f900adf5c7257cba132151be66b0e8cec",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_49": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "d742140a29c864cdab6c94189f6cde0ca28f14102f25d33a1a74212582dddd07",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "89c79c0ca7f51d29b45c40e940ed91d8b48e6b4e762ffe37493144e06475c078",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_50": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "b8c8b80357778f0f9366624cd145b664883efaac89807f2d76f9ff135c301c67",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_51": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "710213f28c52c0e64093d46cfafb9522c593248390e8f7b49537413be64a4903",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_52": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "f4135487c208433306bd9548535e21d1a95d3d55afa1b38511b77fd7f85e4dc6",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_53": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "8c25c156562aae9a4bc63ec87644bae1180477831c961a96621b9fc0f9452d6c",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_54": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "02dc4f7f0802c6430805c15d1377f5d3257473f79a9e2289e9c738bd44e672f6",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_55": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "079757fea5ed23df75ffc1bb51eb12774ba3c4e741f1542e7cbc1a1f140f260e",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_56": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "ca91beba5e552a095002a3c593ff11d78439ce2f4c633a3e798531035b5bad22",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_57": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "070c4e66d15cb77c2f2d2832ef9d3d6ce3168f6d58e1e624efc4047fc6da7585",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_58": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "9c0f9f85979af2cbc33aeb1ca77a4bd49ea7a501655aa6cad5ba14bf3b624fe0",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_59": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "2c5630d133aa55de0716aca83f14bf97f7465e76d3248c1ddb9c68b6caea07a9",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "dc965b986066e55bf83de8895aef7af3dd94f9385fafc7b2cf048d0d6eed4138",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_60": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "60977f2e47a52cd963f5c91bd8fa0d2089a11fc1bf310f1a1b6008d6940262c8",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_61": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "ff4fa9ec44ac6c5def18c54b1ca78ed2d2fb5c6244170a1294f10fd49f669768",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_62": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "b8ed39230e4e4951d19b4ab70a1002259eab0862f7b43247597ae17401a6769a",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_63": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "acca3e47a663b1c8a1bb5bb8fb6bcc88e9753cf1221862c4e7699f89fedd6db2",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_64": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "b571b828dd5e9cfb401821b07d7fca3a6e79e3a1230769161bbe8054c7db0724",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_65": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "458d8b5e3704ce3ca45fae90f0d3356a5c94d321352c52fa7d3bf4e5b9c8faa1",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_66": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "d194d3c118175e494646cd8712cf2ac190c63c2e9c60125827c7cf8ea9ca661e",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_67": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "28125361e3f62fa58cc183fa78f3b3bd2694ef9e60864b7ad17e4da13764febc",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_68": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "b3e6b2011588af8a98ecf3f20e17d2e0d60483c90b297a7a69435b88141fd661",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_69": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "eef6aa5f45e84d51b47ec8e9e9451bccda1465cc447dcbdd9059392660ee08c2",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "f5685cabd6c6dd0d7f669681cb4228db7a8e0bb4b73671585e75243d874b1f0d",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_70": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "aaecd143b3909a8c6daeb3a8cf81457cbea18fc54df7914b2b85bd2f027117bf",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_71": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "3540b1634f248a55605fc6c989630c52cf4b79bd05383a26be7fba4447d83eee",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_72": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "014b71ccc7275862b2bc86db9a51d6417efa317b86824a8ef634f66118b37055",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_73": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "e02e084f34ef2c25d57d7c748550f5a7dc89ab98200d66136ebd79bdc9074c97",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_74": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "0d253eba7108fa01a95dc67387400fffe3d77198acb1f3b70c1cff9d75b63345",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_75": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "f736f9665a96a71568cab4cba3cf573cfa2ff259a3ed88201ad14669f819279e",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_76": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "24fdcd8dc4c9ba1962f8f23149b16efaf2d4ab831cb1705b0c8e691c2c45c199",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_77": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "195f12316e53cbc16ac887d7b6b91cd7dabefda7869783a1bcc2ab8c641c4392",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_78": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "a016e5946b6388be37101482ac1c6779ee609d27d8a11880ea2620f3e1844e75",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_79": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "ec9f1bcf1c0a868ab8f01f97c69ad9dbf44eccb6b8c647e621a73bca2323b881",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "ca736c59d2861fb64b44c3dc1f7e363b315a894a473f76d82f40dbcd297aedf4",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_80": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "472da16f127de7b45055f0389b6bbc2f7a7274fe0451b372932f739a7239ef3e",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_81": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "d7d2525558c20b907a7ed5ff772dbf09031ffb3596fadfa4bfc50a315769e785",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_82": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "3daef5776a58ced65131b2dc9ca91db599e67ef9c8096c0b8bd8fa5b4fc31769",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_83": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "af3c2fcc46c154cceafb4622e8e83ae8bfd9c0730033f9675a01481e9cdd6892",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_84": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "cfe09ccba8f231f54e4f2826f81b9ca286d2bd835ad54442a1a52645cce6b857",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_85": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "591f0215a10becd44a871300d6a111f6040fc8bd7a1742e5526b010587729e76",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_86": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "58ccc8ee51d8addf2cf65908a2d32fa9786b5564fc0c00e512305478fd09dffe",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_87": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "9560df70ef479ace07d5f1b1561cb4269a7bf51270a05d29c7ff66ce9a9fd0f6",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_88": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "98e382de0c00414d5e6963b53a6cb002d8aed62f91bc417074def65c45734330",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_89": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "cf102260bc491eca4ccf1d81459d308c427d0c3f531e7abe82298a999f5141ae",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "375946042886a47e571655f71e1a86acccdc56025788bd988dc50738ffe04bdc",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_90": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "17855d542ae07b44886e26f6ad91a14cbe844f8715f2a7699a135c34af97d56f",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_91": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "a9786599e4527ea608d7af68a031848ae4a4f6154510c5fb1d59233926251a12",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_92": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "21a41058bced4569f698abb168d5e4518cfe5225234e4d8caca51b2379847a08",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_93": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "0f63b2dc9d7e61ce84db9378a45f789d33f9196eef4d8815833363b3bd8e49c9",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_94": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "daac53a40b0be53044e3fbebf8a4ec6656c0ae84947b4293d0f95082de2a0776",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_95": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "ac5dbde2cbb4fcc47acdabd0708e06c1000667f22ef110b33f676d29428aeb3f",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_96": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "f334ce6aee66a1e2e84533ec30761f92f2414f8a0ee5ef8d2c25ae2e534f7da6",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_97": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "ac286f280a265186a05a089d6fe81c73411c19d3c00b2dd0196b28471dd7b7db",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_98": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "7f7b0c3d9a8b87c93b2dc0c77c81f45ae4bec4fb64810d4fb827493d5c03f1c0",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ],
+      "art_99": [
+        {
+          "valid_from": "2020-10-20",
+          "valid_to": null,
+          "text_sha256": "96dfdf0535d01f9a15e9061876f78ee026478cbebc6ee1ac41e96d6d460adf2d",
+          "in_version": "eu-eurlex:32019r1111r(02):2020-10-20"
+        }
+      ]
+    },
     "fr": {
       "art_1": [
         {
@@ -1693,6 +2536,7 @@
     }
   },
   "anchor_events_by_language": {
+    "en": [],
     "fr": []
   }
 }

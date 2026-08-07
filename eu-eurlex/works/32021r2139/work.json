@@ -7,71 +7,81 @@
   ],
   "versions": [
     {
+      "valid_from": "2021-06-04",
+      "valid_to": "2022-12-31",
+      "language": "en",
+      "provisions": 3
+    },
+    {
+      "valid_from": "2021-06-04",
+      "valid_to": "2022-12-31",
+      "language": "fr",
+      "provisions": 3
+    },
+    {
       "valid_from": "2023-01-01",
       "valid_to": "2023-12-31",
       "language": "en",
-      "provisions": 15
+      "provisions": 4
     },
     {
       "valid_from": "2023-01-01",
       "valid_to": "2023-12-31",
       "language": "fr",
-      "provisions": 15
+      "provisions": 23
     },
     {
       "valid_from": "2024-01-01",
       "valid_to": "2024-12-31",
       "language": "en",
-      "provisions": 15
+      "provisions": 4
     },
     {
       "valid_from": "2024-01-01",
       "valid_to": "2024-12-31",
       "language": "fr",
-      "provisions": 15
+      "provisions": 4
     },
     {
       "valid_from": "2025-01-01",
       "valid_to": "2025-01-07",
       "language": "en",
-      "provisions": 15
+      "provisions": 4
     },
     {
       "valid_from": "2025-01-01",
       "valid_to": "2025-01-07",
       "language": "fr",
-      "provisions": 15
+      "provisions": 4
     },
     {
       "valid_from": "2025-01-08",
       "valid_to": "2025-12-31",
       "language": "en",
-      "provisions": 15
+      "provisions": 4
     },
     {
       "valid_from": "2025-01-08",
       "valid_to": "2025-12-31",
       "language": "fr",
-      "provisions": 15
+      "provisions": 4
     },
     {
       "valid_from": "2026-01-01",
       "valid_to": null,
       "language": "en",
-      "provisions": 15
+      "provisions": 4
     },
     {
       "valid_from": "2026-01-01",
       "valid_to": null,
       "language": "fr",
-      "provisions": 15
+      "provisions": 4
     }
   ],
   "anchors": [
     "annexe_i",
     "annexe_ii",
-    "anx_i",
-    "anx_ii",
     "appendice_a",
     "appendice_a__2",
     "appendice_b",
@@ -81,21 +91,20 @@
     "appendice_d",
     "appendice_d__2",
     "appendice_e",
-    "appendix_a",
-    "appendix_a__2",
-    "appendix_b",
-    "appendix_b__2",
-    "appendix_c",
-    "appendix_c__2",
-    "appendix_d",
-    "appendix_d__2",
-    "appendix_e",
     "art_1",
     "art_2",
     "art_2_bis",
     "art_2a",
     "art_3",
-    "art_premier"
+    "art_premier",
+    "classification_des_aleas_lies_au_climat_101",
+    "criteres_d_examen_technique_permettant_de_determiner_les_conditions_dans_lesquelles_une_activite_economique_est_consideree_comme_contribuant_de_maniere_substantielle_a_l_attenuation_du_changement_climatique_et_de_determiner_si_l_activite_economique_cause_un_prejudice_important_a_l_un_quelconque_des_autres_objectifs_environnementaux",
+    "criteres_d_examen_technique_permettant_de_determiner_les_conditions_dans_lesquelles_une_activite_economique_est_consideree_comme_contribuant_de_maniere_substantielle_a_l_attenuation_du_changement_climatique_et_de_determiner_si_l_activite_economique_cause_un_prejudice_important_a_l_un_quelconque_des_autres_objectifs_environnementaux__2",
+    "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_l_adaptation_au_changement_climatique",
+    "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_la_prevention_et_de_la_reduction_de_la_pollution_concernant_l_utilisation_et_la_presence_de_produits_chimiques",
+    "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_la_protection_et_de_la_restauration_de_la_biodiversite_et_des_ecosystemes",
+    "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_la_protection_et_de_la_restauration_de_la_biodiversite_et_des_ecosystemes__2",
+    "specifications_techniques_56_pour_equipements_sanitaires"
   ],
   "relations": {
     "amends": [],

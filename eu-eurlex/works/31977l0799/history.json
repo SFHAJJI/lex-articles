@@ -3,6 +3,7 @@
   "schema": "lex-articles/1",
   "profiles": [
     "html-eu-tolerant/1",
+    "xhtml-eu-xlink-context/1",
     "xhtml-eu/1"
   ],
   "primary_language": "en",
@@ -139,6 +140,48 @@
         "valid_to": "1979-12-06",
         "text_sha256": "041396806c361154117d81eaf8d03077d4aaff1191e5855974b0cebde41406e6",
         "in_version": "eu-eurlex:31977l0799:1977-12-19"
+      },
+      {
+        "valid_from": "1979-12-07",
+        "valid_to": "1980-12-31",
+        "text_sha256": "22268c4ed949f0878027e9ed15bed194c030b27cb556a68b3a6a40f653bb464f",
+        "in_version": "eu-eurlex:31977l0799:1979-12-07"
+      },
+      {
+        "valid_from": "1981-01-01",
+        "valid_to": "1985-12-31",
+        "text_sha256": "f2eb977fffb6508a46d3e4d8a8ac106e8e46de84a53bfe075eb4f33cc3c7f11f",
+        "in_version": "eu-eurlex:31977l0799:1981-01-01"
+      },
+      {
+        "valid_from": "1986-01-01",
+        "valid_to": "1992-03-05",
+        "text_sha256": "7f45b9eebce8d6cf84a79d73d8701dca410bd25a9da011e64982714efa41b931",
+        "in_version": "eu-eurlex:31977l0799:1986-01-01"
+      },
+      {
+        "valid_from": "1992-03-06",
+        "valid_to": "1994-12-31",
+        "text_sha256": "84bc178ed92be633d1a118414234a085c6e5f1fea73f7c729b88dd143e08be05",
+        "in_version": "eu-eurlex:31977l0799:1992-03-06"
+      },
+      {
+        "valid_from": "1995-01-01",
+        "valid_to": "2003-10-14",
+        "text_sha256": "0d779e8f88e418f4d22312378fb6943c62f074fbd6d0a23779ca5480bc828377",
+        "in_version": "eu-eurlex:31977l0799:1995-01-01"
+      },
+      {
+        "valid_from": "2003-10-15",
+        "valid_to": "2004-04-30",
+        "text_sha256": "7976dbde95024c30a1b0cf1e233826d9eae7b74b7c177db1b658816ecf2d44a0",
+        "in_version": "eu-eurlex:31977l0799:2003-10-15"
+      },
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2004-12-23",
+        "text_sha256": "19f5faffd50744459e3ccaf9f327d4f3021481f40549b6c545eead9ce2aaa1e5",
+        "in_version": "eu-eurlex:31977l0799:2004-05-01"
       },
       {
         "valid_from": "2013-01-01",
@@ -446,6 +489,48 @@
           "in_version": "eu-eurlex:31977l0799:1977-12-19"
         },
         {
+          "valid_from": "1979-12-07",
+          "valid_to": "1980-12-31",
+          "text_sha256": "22268c4ed949f0878027e9ed15bed194c030b27cb556a68b3a6a40f653bb464f",
+          "in_version": "eu-eurlex:31977l0799:1979-12-07"
+        },
+        {
+          "valid_from": "1981-01-01",
+          "valid_to": "1985-12-31",
+          "text_sha256": "f2eb977fffb6508a46d3e4d8a8ac106e8e46de84a53bfe075eb4f33cc3c7f11f",
+          "in_version": "eu-eurlex:31977l0799:1981-01-01"
+        },
+        {
+          "valid_from": "1986-01-01",
+          "valid_to": "1992-03-05",
+          "text_sha256": "7f45b9eebce8d6cf84a79d73d8701dca410bd25a9da011e64982714efa41b931",
+          "in_version": "eu-eurlex:31977l0799:1986-01-01"
+        },
+        {
+          "valid_from": "1992-03-06",
+          "valid_to": "1994-12-31",
+          "text_sha256": "84bc178ed92be633d1a118414234a085c6e5f1fea73f7c729b88dd143e08be05",
+          "in_version": "eu-eurlex:31977l0799:1992-03-06"
+        },
+        {
+          "valid_from": "1995-01-01",
+          "valid_to": "2003-10-14",
+          "text_sha256": "0d779e8f88e418f4d22312378fb6943c62f074fbd6d0a23779ca5480bc828377",
+          "in_version": "eu-eurlex:31977l0799:1995-01-01"
+        },
+        {
+          "valid_from": "2003-10-15",
+          "valid_to": "2004-04-30",
+          "text_sha256": "7976dbde95024c30a1b0cf1e233826d9eae7b74b7c177db1b658816ecf2d44a0",
+          "in_version": "eu-eurlex:31977l0799:2003-10-15"
+        },
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2004-12-23",
+          "text_sha256": "19f5faffd50744459e3ccaf9f327d4f3021481f40549b6c545eead9ce2aaa1e5",
+          "in_version": "eu-eurlex:31977l0799:2004-05-01"
+        },
+        {
           "valid_from": "2013-01-01",
           "valid_to": null,
           "text_sha256": "72c740082f78410a94185e1f86b1ebed51e5a185c8dbf849e55c7eee2f511f3a",
@@ -586,6 +671,48 @@
           "valid_to": "1979-12-06",
           "text_sha256": "2028dcee77b4a3db9be1d7791256ccdf4d012eaedede07b2172a862a5b49a9ef",
           "in_version": "eu-eurlex:31977l0799:1977-12-19"
+        },
+        {
+          "valid_from": "1979-12-07",
+          "valid_to": "1980-12-31",
+          "text_sha256": "5072af16b6c511d7d00bb3d50da8b3359251546ef4a173d64f7e0125340153c6",
+          "in_version": "eu-eurlex:31977l0799:1979-12-07"
+        },
+        {
+          "valid_from": "1981-01-01",
+          "valid_to": "1985-12-31",
+          "text_sha256": "46285737cc6b46e069a9387e04633ad29abeded8c91dfc63bfc750efd37e3b5b",
+          "in_version": "eu-eurlex:31977l0799:1981-01-01"
+        },
+        {
+          "valid_from": "1986-01-01",
+          "valid_to": "1992-03-05",
+          "text_sha256": "014519e235940e19cacd16f934819613253b9cd83c8631159e9aba17122abf2f",
+          "in_version": "eu-eurlex:31977l0799:1986-01-01"
+        },
+        {
+          "valid_from": "1992-03-06",
+          "valid_to": "1994-12-31",
+          "text_sha256": "cca7e1c2b2f9a20e7930983f3cd90c560cb58f34877818cd3082ac6eae4f9df8",
+          "in_version": "eu-eurlex:31977l0799:1992-03-06"
+        },
+        {
+          "valid_from": "1995-01-01",
+          "valid_to": "2003-10-14",
+          "text_sha256": "80a29c703bedcd3bea523b28c5ca272e2802cb83a2b332b22bcc295cf9d09cd9",
+          "in_version": "eu-eurlex:31977l0799:1995-01-01"
+        },
+        {
+          "valid_from": "2003-10-15",
+          "valid_to": "2004-04-30",
+          "text_sha256": "c41e7c776d4ea5ed658b4c11934981f307320e8426eaa5f71e251b238e97c49f",
+          "in_version": "eu-eurlex:31977l0799:2003-10-15"
+        },
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2004-12-23",
+          "text_sha256": "bc8ae41e9c0df79776dcdf0bbc6f2ca985382442e0ceec9f35e4224fe4af611a",
+          "in_version": "eu-eurlex:31977l0799:2004-05-01"
         },
         {
           "valid_from": "2013-01-01",

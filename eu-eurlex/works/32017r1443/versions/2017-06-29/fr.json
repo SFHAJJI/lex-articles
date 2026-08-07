@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32017r1443:2017-06-29",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2017/1443 of 29 June 2017 amending Implementing Regulation (EU) No 680/2014 laying down implementing technical standards with regards to supervisory reporting of institutions according to Regulation (EU) No 575/2013",
+  "valid_from": "2017-06-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32017r1443/versions/2017-06-29/fr.xml",
+    "sha256": "61701ae3fc4498016068507a1b4c2e9f8b4f18033821d5695acc339878cd23f6",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32017R1443"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32017r1443:2017-06-29#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe règlement d’exécution (UE) no 680/2014 est modifié comme suit:\n\n| a) | l’annexe III du règlement d’exécution (UE) no 680/2014 est remplacée par le texte de l’annexe I du présent règlement; |\n| --- | --- |\n\n| b) | l’annexe IV du règlement d’exécution (UE) no 680/2014 est remplacée par le texte de l’annexe II du présent règlement; |\n| --- | --- |\n\n| c) | l’annexe V du règlement d’exécution (UE) no 680/2014 est remplacée par le texte de l’annexe III du présent règlement. |\n| --- | --- |",
+      "text_sha256": "7d45ee597ad0e2609328af5c189ddb85c094fe16f59cc2cf1475e760b1eaf096",
+      "md_span": {
+        "start": 800,
+        "end": 1308
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32017r1443:2017-06-29#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl s’applique à compter du 1er janvier 2018.\n\nPour ceux des établissements suivants qui appliquent un exercice comptable différent de l’année civile, les annexes I et III du présent règlement s’appliquent à compter du début de l’exercice comptable commençant après le 1er janvier 2018:\n\n| a) | les établissements soumis à l’article 4 du règlement (CE) no 1606/2002; |\n| --- | --- |\n\n| b) | les établissements de crédit, autres que ceux visés à l’article 4 du règlement (CE) no 1606/2002, qui établissent leurs comptes consolidés selon les normes comptables internationales adoptées conformément à la procédure prévue à l’article 6, paragraphe 2, dudit règlement; |\n| --- | --- |\n\n| c) | les établissements de crédit appliquant les normes comptables internationales en vertu du règlement (CE) no 1606/2002 pour déclarer leurs fonds propres sur une base consolidée en vertu de l’article 24, paragraphe 2, du règlement (UE) no 575/2013. |\n| --- | --- |",
+      "text_sha256": "82722fd134eab205abca59d6288c04e55fd41d1d7dad40a891efa6bb5b8970c3",
+      "md_span": {
+        "start": 1341,
+        "end": 2433
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

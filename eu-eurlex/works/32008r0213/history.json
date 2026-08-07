@@ -1,0 +1,117 @@
+{
+  "lex_work_id": "eu-eurlex:32008r0213",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "xhtml-eu/1"
+  ],
+  "primary_language": "en",
+  "anchors": {
+    "art_1": [
+      {
+        "valid_from": "2007-11-28",
+        "valid_to": null,
+        "text_sha256": "fa3ab73ad27e3d5c2a7179b2594e34df410edeed299695e09e69a30ca8d1c9ec",
+        "in_version": "eu-eurlex:32008r0213:2007-11-28"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "2007-11-28",
+        "valid_to": null,
+        "text_sha256": "a887d673ced51756736b6cae2f102bd01679af165062ff91243198ea8f07d5ee",
+        "in_version": "eu-eurlex:32008r0213:2007-11-28"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "2007-11-28",
+        "valid_to": null,
+        "text_sha256": "a06f9cd909f24d33d46e480cf7aa9be97a106c50c4522b94700c27e369548cac",
+        "in_version": "eu-eurlex:32008r0213:2007-11-28"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "2007-11-28",
+        "valid_to": null,
+        "text_sha256": "1e462f8696bd74a3c4bc80e67da0a767df7ac0faf82d0cc411b6a6e889ffe76b",
+        "in_version": "eu-eurlex:32008r0213:2007-11-28"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "en": {
+      "art_1": [
+        {
+          "valid_from": "2007-11-28",
+          "valid_to": null,
+          "text_sha256": "fa3ab73ad27e3d5c2a7179b2594e34df410edeed299695e09e69a30ca8d1c9ec",
+          "in_version": "eu-eurlex:32008r0213:2007-11-28"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2007-11-28",
+          "valid_to": null,
+          "text_sha256": "a887d673ced51756736b6cae2f102bd01679af165062ff91243198ea8f07d5ee",
+          "in_version": "eu-eurlex:32008r0213:2007-11-28"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2007-11-28",
+          "valid_to": null,
+          "text_sha256": "a06f9cd909f24d33d46e480cf7aa9be97a106c50c4522b94700c27e369548cac",
+          "in_version": "eu-eurlex:32008r0213:2007-11-28"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2007-11-28",
+          "valid_to": null,
+          "text_sha256": "1e462f8696bd74a3c4bc80e67da0a767df7ac0faf82d0cc411b6a6e889ffe76b",
+          "in_version": "eu-eurlex:32008r0213:2007-11-28"
+        }
+      ]
+    },
+    "fr": {
+      "art_1": [
+        {
+          "valid_from": "2007-11-28",
+          "valid_to": null,
+          "text_sha256": "e1e7ac7c4b99af31065aaf3e703392e156a822cabe85102edf2cecb61931e1c0",
+          "in_version": "eu-eurlex:32008r0213:2007-11-28"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "2007-11-28",
+          "valid_to": null,
+          "text_sha256": "bef7cd5af970c3350260e50ae049a335bb9b345f5187d49d16e8d1c1f6ccab34",
+          "in_version": "eu-eurlex:32008r0213:2007-11-28"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "2007-11-28",
+          "valid_to": null,
+          "text_sha256": "740d948c5b16f7481861b27cbbd5f9554c6a52b07aba23831847ce49ae842b43",
+          "in_version": "eu-eurlex:32008r0213:2007-11-28"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "2007-11-28",
+          "valid_to": null,
+          "text_sha256": "2b93bbeb036d66de16cd1f31c1ba3e9e727dbe5ddff6acee1a3239a6ae4aaaf7",
+          "in_version": "eu-eurlex:32008r0213:2007-11-28"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "en": [],
+    "fr": []
+  }
+}

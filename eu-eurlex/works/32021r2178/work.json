@@ -7,12 +7,30 @@
   ],
   "versions": [
     {
+      "valid_from": "2021-07-06",
+      "valid_to": "2022-12-31",
+      "language": "en",
+      "provisions": 10
+    },
+    {
+      "valid_from": "2021-07-06",
+      "valid_to": "2022-12-31",
+      "language": "fr",
+      "provisions": 10
+    },
+    {
       "valid_from": "2023-01-01",
       "valid_to": "2023-12-31",
       "language": "en",
       "provisions": 22
     },
     {
+      "valid_from": "2023-01-01",
+      "valid_to": "2023-12-31",
+      "language": "fr",
+      "provisions": 35
+    },
+    {
       "valid_from": "2024-01-01",
       "valid_to": "2025-12-31",
       "language": "en",
@@ -28,13 +46,13 @@
       "valid_from": "2026-01-01",
       "valid_to": null,
       "language": "en",
-      "provisions": 22
+      "provisions": 10
     },
     {
       "valid_from": "2026-01-01",
       "valid_to": null,
       "language": "fr",
-      "provisions": 22
+      "provisions": 10
     }
   ],
   "anchors": [
@@ -72,7 +90,20 @@
     "art_7",
     "art_8",
     "art_9",
-    "art_premier"
+    "art_premier",
+    "contenu_des_indicateurs_cles_de_performance_icp_des_entreprises_d_investissement",
+    "icp_des_entreprises_d_assurance_et_de_reassurance",
+    "icp_des_entreprises_d_investissement",
+    "icp_des_entreprises_non_financieres",
+    "icp_des_etablissements_de_credit",
+    "icp_des_gestionnaires_d_actifs",
+    "informations_qualitatives_pour_les_gestionnaires_d_actifs_les_etablissements_de_credit_les_entreprises_d_investissement_et_les_entreprises_d_assurance_et_de_reassurance",
+    "modele_pour_les_icp_d_etablissements_de_credit",
+    "modele_pour_les_icp_des_entreprises_d_assurance_et_de_reassurance",
+    "modele_pour_les_icp_des_entreprises_d_investissement",
+    "modele_pour_les_icp_des_gestionnaires_d_actifs",
+    "modeles_pour_les_icp_des_entreprises_non_financieres",
+    "modeles_standard_pour_la_publication_des_informations_visees_a_l_article_8_paragraphes_6_et_7"
   ],
   "relations": {
     "amends": [],

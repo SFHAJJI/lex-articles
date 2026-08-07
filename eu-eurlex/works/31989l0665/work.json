@@ -19,6 +19,18 @@
       "provisions": 1
     },
     {
+      "valid_from": "1992-07-14",
+      "valid_to": "2008-01-08",
+      "language": "en",
+      "provisions": 6
+    },
+    {
+      "valid_from": "1992-07-14",
+      "valid_to": "2008-01-08",
+      "language": "fr",
+      "provisions": 6
+    },
+    {
       "valid_from": "2008-01-09",
       "valid_to": "2014-04-16",
       "language": "en",
@@ -44,6 +56,12 @@
     }
   ],
   "anchors": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
     "art_1",
     "art_2",
     "art_2_bis",

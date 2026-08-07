@@ -3,6 +3,7 @@
   "schema": "lex-articles/1",
   "profiles": [
     "html-eu-tolerant/1",
+    "xhtml-eu-xlink-context/1",
     "xhtml-eu/1"
   ],
   "primary_language": "en",
@@ -87,6 +88,86 @@
         "in_version": "eu-eurlex:31984l0450:2005-06-12"
       }
     ],
+    "clanek_1": [
+      {
+        "valid_from": "1997-11-12",
+        "valid_to": "2005-06-11",
+        "text_sha256": "d927fe66e9be08f280eeeccb2211f4b5a88216bb15cde13ebce3dcce5433994e",
+        "in_version": "eu-eurlex:31984l0450:1997-11-12"
+      }
+    ],
+    "clanek_2": [
+      {
+        "valid_from": "1997-11-12",
+        "valid_to": "2005-06-11",
+        "text_sha256": "898dc444407ee465733788749ef5145de6ffaefe124ce34ae08c98ec369eaa3a",
+        "in_version": "eu-eurlex:31984l0450:1997-11-12"
+      }
+    ],
+    "clanek_3": [
+      {
+        "valid_from": "1997-11-12",
+        "valid_to": "2005-06-11",
+        "text_sha256": "44d1a2f2d7df02416aa5f9c307edab8919dd8ec5cfef672ed50f4baef457f5e1",
+        "in_version": "eu-eurlex:31984l0450:1997-11-12"
+      }
+    ],
+    "clanek_3a": [
+      {
+        "valid_from": "1997-11-12",
+        "valid_to": "2005-06-11",
+        "text_sha256": "2e74178539c6b877ab5c310dcd11c9adfc13f032fc1f113b8157b3963f8e2dde",
+        "in_version": "eu-eurlex:31984l0450:1997-11-12"
+      }
+    ],
+    "clanek_4": [
+      {
+        "valid_from": "1997-11-12",
+        "valid_to": "2005-06-11",
+        "text_sha256": "7874f5039767c97c535c906be679d2fdcf8abf417a22ed6df3fb92daeeef5733",
+        "in_version": "eu-eurlex:31984l0450:1997-11-12"
+      }
+    ],
+    "clanek_5": [
+      {
+        "valid_from": "1997-11-12",
+        "valid_to": "2005-06-11",
+        "text_sha256": "37948ab4054d3cd39d3b1789f24755d311331523e4e603c18273d6b28e30bc08",
+        "in_version": "eu-eurlex:31984l0450:1997-11-12"
+      }
+    ],
+    "clanek_6": [
+      {
+        "valid_from": "1997-11-12",
+        "valid_to": "2005-06-11",
+        "text_sha256": "48fe336974e70d66d4cd779a8f88157551087703b62a6ba8457e1609079b1f25",
+        "in_version": "eu-eurlex:31984l0450:1997-11-12"
+      }
+    ],
+    "clanek_7": [
+      {
+        "valid_from": "1997-11-12",
+        "valid_to": "2005-06-11",
+        "text_sha256": "b4ced7f289f8f3e806affbf941edd13801e62494a9fdbdde56c39aeb3a4eaf44",
+        "in_version": "eu-eurlex:31984l0450:1997-11-12"
+      }
+    ],
+    "clanek_8": [
+      {
+        "valid_from": "1997-11-12",
+        "valid_to": "2005-06-11",
+        "text_sha256": "f589d88a32f96ce771846a5061b69212d7a703a333cf6e476d5bfd561fd42d68",
+        "in_version": "eu-eurlex:31984l0450:1997-11-12"
+      }
+    ],
+    "clanek_9": [
+      {
+        "valid_from": "1997-11-12",
+        "valid_to": "2005-06-11",
+        "text_sha256": "6722fb59db67398356133e914fd7a39425d9bd450c2ec59bee3b3a14ba3057e9",
+        "in_version": "eu-eurlex:31984l0450:1997-11-12"
+      }
+    ],
     "document": [
       {
         "valid_from": "1984-09-10",
@@ -106,6 +187,106 @@
     {
       "type": "removed",
       "anchor": "document",
+      "at_version": "eu-eurlex:31984l0450:1997-11-12"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_1",
+      "at_version": "eu-eurlex:31984l0450:1997-11-12"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_2",
+      "at_version": "eu-eurlex:31984l0450:1997-11-12"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_3",
+      "at_version": "eu-eurlex:31984l0450:1997-11-12"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_3a",
+      "at_version": "eu-eurlex:31984l0450:1997-11-12"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_4",
+      "at_version": "eu-eurlex:31984l0450:1997-11-12"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_5",
+      "at_version": "eu-eurlex:31984l0450:1997-11-12"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_6",
+      "at_version": "eu-eurlex:31984l0450:1997-11-12"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_7",
+      "at_version": "eu-eurlex:31984l0450:1997-11-12"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_8",
+      "at_version": "eu-eurlex:31984l0450:1997-11-12"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_9",
+      "at_version": "eu-eurlex:31984l0450:1997-11-12"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_1",
+      "at_version": "eu-eurlex:31984l0450:2005-06-12"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_2",
+      "at_version": "eu-eurlex:31984l0450:2005-06-12"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_3",
+      "at_version": "eu-eurlex:31984l0450:2005-06-12"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_3a",
+      "at_version": "eu-eurlex:31984l0450:2005-06-12"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_4",
+      "at_version": "eu-eurlex:31984l0450:2005-06-12"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_5",
+      "at_version": "eu-eurlex:31984l0450:2005-06-12"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_6",
+      "at_version": "eu-eurlex:31984l0450:2005-06-12"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_7",
+      "at_version": "eu-eurlex:31984l0450:2005-06-12"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_8",
+      "at_version": "eu-eurlex:31984l0450:2005-06-12"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_9",
       "at_version": "eu-eurlex:31984l0450:2005-06-12"
     },
     {
@@ -296,6 +477,86 @@
           "in_version": "eu-eurlex:31984l0450:2005-06-12"
         }
       ],
+      "clanek_1": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "d927fe66e9be08f280eeeccb2211f4b5a88216bb15cde13ebce3dcce5433994e",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_2": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "898dc444407ee465733788749ef5145de6ffaefe124ce34ae08c98ec369eaa3a",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_3": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "44d1a2f2d7df02416aa5f9c307edab8919dd8ec5cfef672ed50f4baef457f5e1",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_3a": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "2e74178539c6b877ab5c310dcd11c9adfc13f032fc1f113b8157b3963f8e2dde",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_4": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "7874f5039767c97c535c906be679d2fdcf8abf417a22ed6df3fb92daeeef5733",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_5": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "37948ab4054d3cd39d3b1789f24755d311331523e4e603c18273d6b28e30bc08",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_6": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "48fe336974e70d66d4cd779a8f88157551087703b62a6ba8457e1609079b1f25",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_7": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "b4ced7f289f8f3e806affbf941edd13801e62494a9fdbdde56c39aeb3a4eaf44",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_8": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "f589d88a32f96ce771846a5061b69212d7a703a333cf6e476d5bfd561fd42d68",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_9": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "6722fb59db67398356133e914fd7a39425d9bd450c2ec59bee3b3a14ba3057e9",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
       "document": [
         {
           "valid_from": "1984-09-10",
@@ -392,6 +653,86 @@
           "in_version": "eu-eurlex:31984l0450:2005-06-12"
         }
       ],
+      "clanek_1": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "d927fe66e9be08f280eeeccb2211f4b5a88216bb15cde13ebce3dcce5433994e",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_2": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "898dc444407ee465733788749ef5145de6ffaefe124ce34ae08c98ec369eaa3a",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_3": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "44d1a2f2d7df02416aa5f9c307edab8919dd8ec5cfef672ed50f4baef457f5e1",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_3a": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "2e74178539c6b877ab5c310dcd11c9adfc13f032fc1f113b8157b3963f8e2dde",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_4": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "7874f5039767c97c535c906be679d2fdcf8abf417a22ed6df3fb92daeeef5733",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_5": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "37948ab4054d3cd39d3b1789f24755d311331523e4e603c18273d6b28e30bc08",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_6": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "48fe336974e70d66d4cd779a8f88157551087703b62a6ba8457e1609079b1f25",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_7": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "b4ced7f289f8f3e806affbf941edd13801e62494a9fdbdde56c39aeb3a4eaf44",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_8": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "f589d88a32f96ce771846a5061b69212d7a703a333cf6e476d5bfd561fd42d68",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
+      "clanek_9": [
+        {
+          "valid_from": "1997-11-12",
+          "valid_to": "2005-06-11",
+          "text_sha256": "6722fb59db67398356133e914fd7a39425d9bd450c2ec59bee3b3a14ba3057e9",
+          "in_version": "eu-eurlex:31984l0450:1997-11-12"
+        }
+      ],
       "document": [
         {
           "valid_from": "1984-09-10",
@@ -413,6 +754,106 @@
       {
         "type": "removed",
         "anchor": "document",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_1",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_2",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_3",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_3a",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_4",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_5",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_6",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_7",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_8",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_9",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_1",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_2",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_3",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_3a",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_4",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_5",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_6",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_7",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_8",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_9",
         "at_version": "eu-eurlex:31984l0450:2005-06-12"
       },
       {
@@ -525,6 +966,106 @@
       {
         "type": "removed",
         "anchor": "document",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_1",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_2",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_3",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_3a",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_4",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_5",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_6",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_7",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_8",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_9",
+        "at_version": "eu-eurlex:31984l0450:1997-11-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_1",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_2",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_3",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_3a",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_4",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_5",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_6",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_7",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_8",
+        "at_version": "eu-eurlex:31984l0450:2005-06-12"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_9",
         "at_version": "eu-eurlex:31984l0450:2005-06-12"
       },
       {

@@ -19,6 +19,42 @@
       "provisions": 1
     },
     {
+      "valid_from": "2000-12-04",
+      "valid_to": "2003-03-21",
+      "language": "en",
+      "provisions": 1
+    },
+    {
+      "valid_from": "2000-12-04",
+      "valid_to": "2003-03-21",
+      "language": "fr",
+      "provisions": 1
+    },
+    {
+      "valid_from": "2003-03-22",
+      "valid_to": "2003-11-19",
+      "language": "en",
+      "provisions": 1
+    },
+    {
+      "valid_from": "2003-03-22",
+      "valid_to": "2003-11-19",
+      "language": "fr",
+      "provisions": 1
+    },
+    {
+      "valid_from": "2003-11-20",
+      "valid_to": "2009-06-24",
+      "language": "en",
+      "provisions": 21
+    },
+    {
+      "valid_from": "2003-11-20",
+      "valid_to": "2009-06-24",
+      "language": "fr",
+      "provisions": 21
+    },
+    {
       "valid_from": "2009-06-25",
       "valid_to": "2011-06-21",
       "language": "en",
@@ -92,6 +128,23 @@
     }
   ],
   "anchors": [
+    "1",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "9__2",
     "annexe_i",
     "annexe_ii",
     "annexe_iii",
@@ -138,6 +191,10 @@
     "document",
     "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_compression_ignition_engines",
     "environmental_specifications_for_market_fuels_to_be_used_for_vehicles_equipped_with_positive_ignition_engines",
+    "i",
+    "ii",
+    "iii",
+    "iv",
     "regles_de_calcul_des_emissions_de_gaz_a_effet_de_serre_produites_par_les_biocarburants_sur_l_ensemble_du_cycle_de_vie",
     "rules_for_calculating_life_cycle_greenhouse_emissions_from_biofuels",
     "specifications_environnementales_applicables_aux_carburants_sur_le_marche_destines_aux_vehicules_equipes_de_moteur_a_allumage_commande",

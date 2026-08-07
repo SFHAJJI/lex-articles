@@ -2,7 +2,8 @@
   "lex_work_id": "eu-eurlex:31962r0141",
   "schema": "lex-articles/1",
   "profiles": [
-    "html-eu-tolerant/1"
+    "html-eu-tolerant/1",
+    "xhtml-eu-xlink-context/1"
   ],
   "primary_language": "en",
   "anchors": {
@@ -12,6 +13,12 @@
         "valid_to": "1967-12-31",
         "text_sha256": "515867b806c53eb1a197584a995e12ad2e85658c95844a1cc431a12a69a1e25e",
         "in_version": "eu-eurlex:31962r0141:1962-11-26"
+      },
+      {
+        "valid_from": "1968-01-01",
+        "valid_to": "2004-04-30",
+        "text_sha256": "a26edd6264c2df81f58653d6554cd188c212a1fc2a2dc332983df4f41b4d5928",
+        "in_version": "eu-eurlex:31962r0141:1968-01-01"
       },
       {
         "valid_from": "2004-05-01",
@@ -32,6 +39,12 @@
           "in_version": "eu-eurlex:31962r0141:1962-11-26"
         },
         {
+          "valid_from": "1968-01-01",
+          "valid_to": "2004-04-30",
+          "text_sha256": "a26edd6264c2df81f58653d6554cd188c212a1fc2a2dc332983df4f41b4d5928",
+          "in_version": "eu-eurlex:31962r0141:1968-01-01"
+        },
+        {
           "valid_from": "2004-05-01",
           "valid_to": null,
           "text_sha256": "fb8e4012acf2b729fcf35fc8ec6d5dc13e3532d9f4557c5ba556dafcd043b580",
@@ -46,6 +59,12 @@
           "valid_to": "1967-12-31",
           "text_sha256": "99ba60a615c2fce3fffb6daf1588e6e2f504b64efa5d525bb0aac3e03fecd043",
           "in_version": "eu-eurlex:31962r0141:1962-11-26"
+        },
+        {
+          "valid_from": "1968-01-01",
+          "valid_to": "2004-04-30",
+          "text_sha256": "7c10e77d6e87e140086125e91e7b758522dd8ffa08e04110e23626229cc8d29a",
+          "in_version": "eu-eurlex:31962r0141:1968-01-01"
         },
         {
           "valid_from": "2004-05-01",

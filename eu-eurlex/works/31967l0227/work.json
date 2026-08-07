@@ -19,6 +19,30 @@
       "provisions": 1
     },
     {
+      "valid_from": "1969-12-15",
+      "valid_to": "1977-05-22",
+      "language": "en",
+      "provisions": 1
+    },
+    {
+      "valid_from": "1969-12-15",
+      "valid_to": "1977-05-22",
+      "language": "fr",
+      "provisions": 1
+    },
+    {
+      "valid_from": "1977-05-23",
+      "valid_to": "2006-12-31",
+      "language": "en",
+      "provisions": 5
+    },
+    {
+      "valid_from": "1977-05-23",
+      "valid_to": "2006-12-31",
+      "language": "fr",
+      "provisions": 5
+    },
+    {
       "valid_from": "2007-01-01",
       "valid_to": null,
       "language": "en",
@@ -32,6 +56,11 @@
     }
   ],
   "anchors": [
+    "clanek_1",
+    "clanek_2",
+    "clanek_3",
+    "clanek_4",
+    "clanek_6",
     "document"
   ],
   "relations": {

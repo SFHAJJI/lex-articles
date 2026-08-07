@@ -3,6 +3,7 @@
   "schema": "lex-articles/1",
   "profiles": [
     "html-eu-tolerant/1",
+    "xhtml-eu-xlink-context/1",
     "xhtml-eu/1"
   ],
   "primary_language": "en",
@@ -307,12 +308,130 @@
         "in_version": "eu-eurlex:31992l0013:2007-01-01"
       }
     ],
+    "clanek_1": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "cce848f60b7e56f0fdc2b6faa3ae07f6b5159e46a2ac463548417465caf577cd",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
+    ],
+    "clanek_10": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "8eb57c72cf546126042e8d13e523b29678abad542c7a1a7df75ca42d5cadd716",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
+    ],
+    "clanek_11": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "358766cbd9765392a186210caac69e7035920b9d4b825504647f62650bdb33e2",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
+    ],
+    "clanek_12": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "19d2b726e24e4d30851f274ac27aa5176268cf440bc7f44c8cdd7cb16f8f6e54",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
+    ],
+    "clanek_13": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "e27ea1ec60dc7f649e19947f8ca3e66b71aa91e5ed2256eb243404a33a0a3d43",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
+    ],
+    "clanek_14": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "fa0a59c26c2a8e5b161bb52bcd36597d02f7c5c7598368ba6696bff56765ec57",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
+    ],
+    "clanek_2": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "1ca3ba6d0525f4ab2f6a4ea4a69bf66fdf7f3c2b077eea04d618179c2a6bc920",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
+    ],
+    "clanek_3": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "99b776d1ee35bc05e75fdb36d7417803b31aa13d264eff3d7e7aecf23995edec",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
+    ],
+    "clanek_4": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "78001df9b59ad6f150c3f1592f8436b45e3d4ee21b249eac97285093aae4870e",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
+    ],
+    "clanek_5": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "3ac04555265107ee7623201b9a4106fe62c3b6b77425962c3b3a52739e3bd4ab",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
+    ],
+    "clanek_6": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "7e9da2cc9da0aafea7a34d773f45df47bdc8a15801fe119154ef091169a9b75f",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
+    ],
+    "clanek_7": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "e3862b40a4aa8d4cb063ada92f240032cddaab45345963adb35e6c2e393909c4",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
+    ],
+    "clanek_8": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "d122c69ec16a4598e5442a208b670f86c94c234038cec732e61c7a93c2b080a7",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
+    ],
+    "clanek_9": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "acf985702f203bb4af203449cb3cab4d737d22fd79888164720311fd3fc80027",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
+    ],
     "document": [
       {
         "valid_from": "1992-02-25",
         "valid_to": "1994-12-31",
         "text_sha256": "6b06d6622415da431972ce281e033d173aac30e9ac9540c37a56c8039e827756",
         "in_version": "eu-eurlex:31992l0013:1992-02-25"
+      },
+      {
+        "valid_from": "1995-01-01",
+        "valid_to": "2004-04-30",
+        "text_sha256": "bf4b595e9476ae469464a459906295e2441b55f1d51b773ae8dbc4964e8a4f90",
+        "in_version": "eu-eurlex:31992l0013:1995-01-01"
       }
     ],
     "national_authorities_to_which_requests_for_application_of_the_conciliation_procedure_referred_to_in_article_9_may_be_addressed": [
@@ -322,17 +441,191 @@
         "text_sha256": "d017be93efd9990d39bea6956c8b0017b3ad285fc2082c85fe8e6565db8aef1d",
         "in_version": "eu-eurlex:31992l0013:2007-01-01"
       }
+    ],
+    "priloha": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
+    ],
+    "vnitrostatni_organy_kterym_lze_podat_zadost_o_smirci_rizeni_podle_clanku_9": [
+      {
+        "valid_from": "2004-05-01",
+        "valid_to": "2006-12-31",
+        "text_sha256": "a00994600cb69a4d1b6f5ccb87252f6a817b1ec0f7f574fee6f65ae6a7198ab7",
+        "in_version": "eu-eurlex:31992l0013:2004-05-01"
+      }
     ]
   },
   "anchor_events": [
     {
       "type": "removed",
       "anchor": "document",
-      "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
     },
     {
       "type": "inserted",
-      "anchor": "annex",
+      "anchor": "clanek_1",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_10",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_11",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_12",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_13",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_14",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_2",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_3",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_4",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_5",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_6",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_7",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_8",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "clanek_9",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "priloha",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "vnitrostatni_organy_kterym_lze_podat_zadost_o_smirci_rizeni_podle_clanku_9",
+      "at_version": "eu-eurlex:31992l0013:2004-05-01"
+    },
+    {
+      "type": "renumbered",
+      "from": "priloha",
+      "to": "annex",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "at_version": "eu-eurlex:31992l0013:2007-01-01",
+      "basis": "identical_text"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_1",
+      "at_version": "eu-eurlex:31992l0013:2007-01-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_10",
+      "at_version": "eu-eurlex:31992l0013:2007-01-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_11",
+      "at_version": "eu-eurlex:31992l0013:2007-01-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_12",
+      "at_version": "eu-eurlex:31992l0013:2007-01-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_13",
+      "at_version": "eu-eurlex:31992l0013:2007-01-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_14",
+      "at_version": "eu-eurlex:31992l0013:2007-01-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_2",
+      "at_version": "eu-eurlex:31992l0013:2007-01-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_3",
+      "at_version": "eu-eurlex:31992l0013:2007-01-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_4",
+      "at_version": "eu-eurlex:31992l0013:2007-01-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_5",
+      "at_version": "eu-eurlex:31992l0013:2007-01-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_6",
+      "at_version": "eu-eurlex:31992l0013:2007-01-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_7",
+      "at_version": "eu-eurlex:31992l0013:2007-01-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_8",
+      "at_version": "eu-eurlex:31992l0013:2007-01-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "clanek_9",
+      "at_version": "eu-eurlex:31992l0013:2007-01-01"
+    },
+    {
+      "type": "removed",
+      "anchor": "vnitrostatni_organy_kterym_lze_podat_zadost_o_smirci_rizeni_podle_clanku_9",
       "at_version": "eu-eurlex:31992l0013:2007-01-01"
     },
     {
@@ -808,12 +1101,130 @@
           "in_version": "eu-eurlex:31992l0013:2007-01-01"
         }
       ],
+      "clanek_1": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "cce848f60b7e56f0fdc2b6faa3ae07f6b5159e46a2ac463548417465caf577cd",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_10": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "8eb57c72cf546126042e8d13e523b29678abad542c7a1a7df75ca42d5cadd716",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_11": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "358766cbd9765392a186210caac69e7035920b9d4b825504647f62650bdb33e2",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_12": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "19d2b726e24e4d30851f274ac27aa5176268cf440bc7f44c8cdd7cb16f8f6e54",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_13": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "e27ea1ec60dc7f649e19947f8ca3e66b71aa91e5ed2256eb243404a33a0a3d43",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_14": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "fa0a59c26c2a8e5b161bb52bcd36597d02f7c5c7598368ba6696bff56765ec57",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_2": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "1ca3ba6d0525f4ab2f6a4ea4a69bf66fdf7f3c2b077eea04d618179c2a6bc920",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_3": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "99b776d1ee35bc05e75fdb36d7417803b31aa13d264eff3d7e7aecf23995edec",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_4": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "78001df9b59ad6f150c3f1592f8436b45e3d4ee21b249eac97285093aae4870e",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_5": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "3ac04555265107ee7623201b9a4106fe62c3b6b77425962c3b3a52739e3bd4ab",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_6": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "7e9da2cc9da0aafea7a34d773f45df47bdc8a15801fe119154ef091169a9b75f",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_7": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "e3862b40a4aa8d4cb063ada92f240032cddaab45345963adb35e6c2e393909c4",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_8": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "d122c69ec16a4598e5442a208b670f86c94c234038cec732e61c7a93c2b080a7",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_9": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "acf985702f203bb4af203449cb3cab4d737d22fd79888164720311fd3fc80027",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
       "document": [
         {
           "valid_from": "1992-02-25",
           "valid_to": "1994-12-31",
           "text_sha256": "6b06d6622415da431972ce281e033d173aac30e9ac9540c37a56c8039e827756",
           "in_version": "eu-eurlex:31992l0013:1992-02-25"
+        },
+        {
+          "valid_from": "1995-01-01",
+          "valid_to": "2004-04-30",
+          "text_sha256": "bf4b595e9476ae469464a459906295e2441b55f1d51b773ae8dbc4964e8a4f90",
+          "in_version": "eu-eurlex:31992l0013:1995-01-01"
         }
       ],
       "national_authorities_to_which_requests_for_application_of_the_conciliation_procedure_referred_to_in_article_9_may_be_addressed": [
@@ -822,6 +1233,22 @@
           "valid_to": "2008-01-08",
           "text_sha256": "d017be93efd9990d39bea6956c8b0017b3ad285fc2082c85fe8e6565db8aef1d",
           "in_version": "eu-eurlex:31992l0013:2007-01-01"
+        }
+      ],
+      "priloha": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "vnitrostatni_organy_kterym_lze_podat_zadost_o_smirci_rizeni_podle_clanku_9": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "a00994600cb69a4d1b6f5ccb87252f6a817b1ec0f7f574fee6f65ae6a7198ab7",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
         }
       ]
     },
@@ -1110,12 +1537,146 @@
           "in_version": "eu-eurlex:31992l0013:2007-01-01"
         }
       ],
+      "clanek_1": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "cce848f60b7e56f0fdc2b6faa3ae07f6b5159e46a2ac463548417465caf577cd",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_10": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "8eb57c72cf546126042e8d13e523b29678abad542c7a1a7df75ca42d5cadd716",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_11": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "358766cbd9765392a186210caac69e7035920b9d4b825504647f62650bdb33e2",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_12": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "19d2b726e24e4d30851f274ac27aa5176268cf440bc7f44c8cdd7cb16f8f6e54",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_13": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "e27ea1ec60dc7f649e19947f8ca3e66b71aa91e5ed2256eb243404a33a0a3d43",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_14": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "fa0a59c26c2a8e5b161bb52bcd36597d02f7c5c7598368ba6696bff56765ec57",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_2": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "1ca3ba6d0525f4ab2f6a4ea4a69bf66fdf7f3c2b077eea04d618179c2a6bc920",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_3": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "99b776d1ee35bc05e75fdb36d7417803b31aa13d264eff3d7e7aecf23995edec",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_4": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "78001df9b59ad6f150c3f1592f8436b45e3d4ee21b249eac97285093aae4870e",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_5": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "3ac04555265107ee7623201b9a4106fe62c3b6b77425962c3b3a52739e3bd4ab",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_6": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "7e9da2cc9da0aafea7a34d773f45df47bdc8a15801fe119154ef091169a9b75f",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_7": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "e3862b40a4aa8d4cb063ada92f240032cddaab45345963adb35e6c2e393909c4",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_8": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "d122c69ec16a4598e5442a208b670f86c94c234038cec732e61c7a93c2b080a7",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "clanek_9": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "acf985702f203bb4af203449cb3cab4d737d22fd79888164720311fd3fc80027",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
       "document": [
         {
           "valid_from": "1992-02-25",
           "valid_to": "1994-12-31",
           "text_sha256": "56d42ccf23ed5b5f933406e467540c052b6c7a5eda0bba9e5c8bb348ef445317",
           "in_version": "eu-eurlex:31992l0013:1992-02-25"
+        },
+        {
+          "valid_from": "1995-01-01",
+          "valid_to": "2004-04-30",
+          "text_sha256": "9a059cd29cfb5e9b3018360cbb716a6d62b865f2776f2607ecac1edc77557cbc",
+          "in_version": "eu-eurlex:31992l0013:1995-01-01"
+        }
+      ],
+      "priloha": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
+        }
+      ],
+      "vnitrostatni_organy_kterym_lze_podat_zadost_o_smirci_rizeni_podle_clanku_9": [
+        {
+          "valid_from": "2004-05-01",
+          "valid_to": "2006-12-31",
+          "text_sha256": "a00994600cb69a4d1b6f5ccb87252f6a817b1ec0f7f574fee6f65ae6a7198ab7",
+          "in_version": "eu-eurlex:31992l0013:2004-05-01"
         }
       ]
     }
@@ -1125,11 +1686,169 @@
       {
         "type": "removed",
         "anchor": "document",
-        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
       },
       {
         "type": "inserted",
-        "anchor": "annex",
+        "anchor": "clanek_1",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_10",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_11",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_12",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_13",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_14",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_2",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_3",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_4",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_5",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_6",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_7",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_8",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_9",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "priloha",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "vnitrostatni_organy_kterym_lze_podat_zadost_o_smirci_rizeni_podle_clanku_9",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "renumbered",
+        "from": "priloha",
+        "to": "annex",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01",
+        "basis": "identical_text"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_1",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_10",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_11",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_12",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_13",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_14",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_2",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_3",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_4",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_5",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_6",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_7",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_8",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_9",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "vnitrostatni_organy_kterym_lze_podat_zadost_o_smirci_rizeni_podle_clanku_9",
         "at_version": "eu-eurlex:31992l0013:2007-01-01"
       },
       {
@@ -1307,11 +2026,169 @@
       {
         "type": "removed",
         "anchor": "document",
-        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
       },
       {
         "type": "inserted",
-        "anchor": "annexe",
+        "anchor": "clanek_1",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_10",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_11",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_12",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_13",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_14",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_2",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_3",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_4",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_5",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_6",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_7",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_8",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "clanek_9",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "priloha",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "vnitrostatni_organy_kterym_lze_podat_zadost_o_smirci_rizeni_podle_clanku_9",
+        "at_version": "eu-eurlex:31992l0013:2004-05-01"
+      },
+      {
+        "type": "renumbered",
+        "from": "priloha",
+        "to": "annexe",
+        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01",
+        "basis": "identical_text"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_1",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_10",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_11",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_12",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_13",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_14",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_2",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_3",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_4",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_5",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_6",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_7",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_8",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "clanek_9",
+        "at_version": "eu-eurlex:31992l0013:2007-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "vnitrostatni_organy_kterym_lze_podat_zadost_o_smirci_rizeni_podle_clanku_9",
         "at_version": "eu-eurlex:31992l0013:2007-01-01"
       },
       {

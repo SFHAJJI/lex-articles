@@ -3,6 +3,7 @@
   "schema": "lex-articles/1",
   "profiles": [
     "html-eu-tolerant/1",
+    "xhtml-eu-xlink-context/1",
     "xhtml-eu/1"
   ],
   "primary_language": "en",
@@ -667,6 +668,66 @@
         "valid_to": "1996-12-31",
         "text_sha256": "dfef26903b6f56b3546c9c1d5e3dc04e29ad7691967a38efba4e817280e8dd8c",
         "in_version": "eu-eurlex:31977l0388:1977-05-17"
+      },
+      {
+        "valid_from": "1997-01-01",
+        "valid_to": "2000-10-20",
+        "text_sha256": "d02b1f3b7720b3371c34819c4c25c776fc5d067318dc62b6caeaa8d1bfb1c8bc",
+        "in_version": "eu-eurlex:31977l0388:1997-01-01"
+      },
+      {
+        "valid_from": "2000-10-21",
+        "valid_to": "2000-12-31",
+        "text_sha256": "f1100e250bf84424862c15461a0bd04e01b8aa2a21cff221c4c9c05359bebf8a",
+        "in_version": "eu-eurlex:31977l0388:2000-10-21"
+      },
+      {
+        "valid_from": "2001-01-01",
+        "valid_to": "2002-02-05",
+        "text_sha256": "37031b0a9c195896c477f411d95353ee6c3d7d23178f7e5065e7cd700e7a57de",
+        "in_version": "eu-eurlex:31977l0388:2001-01-01"
+      },
+      {
+        "valid_from": "2002-02-06",
+        "valid_to": "2002-05-14",
+        "text_sha256": "9e384f62e92dad4aedd786f67494d4efac77316b5c83a38442655eea020778a4",
+        "in_version": "eu-eurlex:31977l0388:2002-02-06"
+      },
+      {
+        "valid_from": "2002-05-15",
+        "valid_to": "2002-12-06",
+        "text_sha256": "4c9f3078c2e43e62b50ced05968488ae33470390559fd012de5ead6292954e17",
+        "in_version": "eu-eurlex:31977l0388:2002-05-15"
+      },
+      {
+        "valid_from": "2002-12-07",
+        "valid_to": "2003-06-30",
+        "text_sha256": "836cf8b8badb08a41c7de15a14c63a7438bbd362ecb4c44b33907feac2c534d4",
+        "in_version": "eu-eurlex:31977l0388:2002-12-07"
+      },
+      {
+        "valid_from": "2003-07-01",
+        "valid_to": "2003-10-10",
+        "text_sha256": "85d819cbbed6eeb8f5a13544cac40eb72d9956e982dff24a9bddf542857b5936",
+        "in_version": "eu-eurlex:31977l0388:2003-07-01"
+      },
+      {
+        "valid_from": "2003-10-11",
+        "valid_to": "2003-12-31",
+        "text_sha256": "00481edc02f8c1c00c217f1d9dcfb1a9c6cfd84da2e4c78facdab3d98a8035d1",
+        "in_version": "eu-eurlex:31977l0388:2003-10-11"
+      },
+      {
+        "valid_from": "2004-01-01",
+        "valid_to": "2004-02-18",
+        "text_sha256": "7aeef1490079b03c94e5bf1ffc2cee2618c2259cc48fa4a9308e12b292396743",
+        "in_version": "eu-eurlex:31977l0388:2004-01-01"
+      },
+      {
+        "valid_from": "2004-02-19",
+        "valid_to": "2004-04-30",
+        "text_sha256": "17fb736a08f7afd102c85abbb9fa1f941f538b83312244ecfe8cd27e9d2d0e2b",
+        "in_version": "eu-eurlex:31977l0388:2004-02-19"
       },
       {
         "valid_from": "2007-01-01",
@@ -2240,6 +2301,66 @@
           "in_version": "eu-eurlex:31977l0388:1977-05-17"
         },
         {
+          "valid_from": "1997-01-01",
+          "valid_to": "2000-10-20",
+          "text_sha256": "d02b1f3b7720b3371c34819c4c25c776fc5d067318dc62b6caeaa8d1bfb1c8bc",
+          "in_version": "eu-eurlex:31977l0388:1997-01-01"
+        },
+        {
+          "valid_from": "2000-10-21",
+          "valid_to": "2000-12-31",
+          "text_sha256": "f1100e250bf84424862c15461a0bd04e01b8aa2a21cff221c4c9c05359bebf8a",
+          "in_version": "eu-eurlex:31977l0388:2000-10-21"
+        },
+        {
+          "valid_from": "2001-01-01",
+          "valid_to": "2002-02-05",
+          "text_sha256": "37031b0a9c195896c477f411d95353ee6c3d7d23178f7e5065e7cd700e7a57de",
+          "in_version": "eu-eurlex:31977l0388:2001-01-01"
+        },
+        {
+          "valid_from": "2002-02-06",
+          "valid_to": "2002-05-14",
+          "text_sha256": "9e384f62e92dad4aedd786f67494d4efac77316b5c83a38442655eea020778a4",
+          "in_version": "eu-eurlex:31977l0388:2002-02-06"
+        },
+        {
+          "valid_from": "2002-05-15",
+          "valid_to": "2002-12-06",
+          "text_sha256": "4c9f3078c2e43e62b50ced05968488ae33470390559fd012de5ead6292954e17",
+          "in_version": "eu-eurlex:31977l0388:2002-05-15"
+        },
+        {
+          "valid_from": "2002-12-07",
+          "valid_to": "2003-06-30",
+          "text_sha256": "836cf8b8badb08a41c7de15a14c63a7438bbd362ecb4c44b33907feac2c534d4",
+          "in_version": "eu-eurlex:31977l0388:2002-12-07"
+        },
+        {
+          "valid_from": "2003-07-01",
+          "valid_to": "2003-10-10",
+          "text_sha256": "85d819cbbed6eeb8f5a13544cac40eb72d9956e982dff24a9bddf542857b5936",
+          "in_version": "eu-eurlex:31977l0388:2003-07-01"
+        },
+        {
+          "valid_from": "2003-10-11",
+          "valid_to": "2003-12-31",
+          "text_sha256": "00481edc02f8c1c00c217f1d9dcfb1a9c6cfd84da2e4c78facdab3d98a8035d1",
+          "in_version": "eu-eurlex:31977l0388:2003-10-11"
+        },
+        {
+          "valid_from": "2004-01-01",
+          "valid_to": "2004-02-18",
+          "text_sha256": "7aeef1490079b03c94e5bf1ffc2cee2618c2259cc48fa4a9308e12b292396743",
+          "in_version": "eu-eurlex:31977l0388:2004-01-01"
+        },
+        {
+          "valid_from": "2004-02-19",
+          "valid_to": "2004-04-30",
+          "text_sha256": "17fb736a08f7afd102c85abbb9fa1f941f538b83312244ecfe8cd27e9d2d0e2b",
+          "in_version": "eu-eurlex:31977l0388:2004-02-19"
+        },
+        {
           "valid_from": "2007-01-01",
           "valid_to": null,
           "text_sha256": "619bc2d87697fbd4ff1332b7d56b559ca766f98e61d5bb251c503e39b1423b94",
@@ -2918,6 +3039,66 @@
           "valid_to": "1996-12-31",
           "text_sha256": "4032a7037b34ae0e03f3869ac82f010f4c1e2c21e041379c014b51ed465cceaf",
           "in_version": "eu-eurlex:31977l0388:1977-05-17"
+        },
+        {
+          "valid_from": "1997-01-01",
+          "valid_to": "2000-10-20",
+          "text_sha256": "d8aa281fcfbf0ce1a718d96cd2372bcf80dbd563a9942b9872e64f0f832142d8",
+          "in_version": "eu-eurlex:31977l0388:1997-01-01"
+        },
+        {
+          "valid_from": "2000-10-21",
+          "valid_to": "2000-12-31",
+          "text_sha256": "1b3a7f57b898c5e1f72fc670069d9ec63e524d73bad50cdc02b7c5250abfccdc",
+          "in_version": "eu-eurlex:31977l0388:2000-10-21"
+        },
+        {
+          "valid_from": "2001-01-01",
+          "valid_to": "2002-02-05",
+          "text_sha256": "3957b0c065040079976e2efd351ba4a79981583dd30b65c7214e2622a36fe861",
+          "in_version": "eu-eurlex:31977l0388:2001-01-01"
+        },
+        {
+          "valid_from": "2002-02-06",
+          "valid_to": "2002-05-14",
+          "text_sha256": "907edb6feb71ac7bcaf7773e1f032f31cd60780d0c1dd6d65c380563f6ab1fe1",
+          "in_version": "eu-eurlex:31977l0388:2002-02-06"
+        },
+        {
+          "valid_from": "2002-05-15",
+          "valid_to": "2002-12-06",
+          "text_sha256": "357a629a0743b22b0d869e3777527c2938cf48a553883e6145501508dec6d85c",
+          "in_version": "eu-eurlex:31977l0388:2002-05-15"
+        },
+        {
+          "valid_from": "2002-12-07",
+          "valid_to": "2003-06-30",
+          "text_sha256": "73356caccfc6208ed98f8e53054803c3cba098429667fa6ac3c3bb868ae13382",
+          "in_version": "eu-eurlex:31977l0388:2002-12-07"
+        },
+        {
+          "valid_from": "2003-07-01",
+          "valid_to": "2003-10-10",
+          "text_sha256": "0b53f1175027ca19636480e4710ea16978d1033e3b88f9d44d642083b579003d",
+          "in_version": "eu-eurlex:31977l0388:2003-07-01"
+        },
+        {
+          "valid_from": "2003-10-11",
+          "valid_to": "2003-12-31",
+          "text_sha256": "88b7b690a40037035fbc5e1560cc618ef28a6aceb695ab81cf5dcf9be9016e28",
+          "in_version": "eu-eurlex:31977l0388:2003-10-11"
+        },
+        {
+          "valid_from": "2004-01-01",
+          "valid_to": "2004-02-18",
+          "text_sha256": "dbe3739e4f61d0e120d155ca1afa167c01adeeae3a3b905f995bc621ebc52cdd",
+          "in_version": "eu-eurlex:31977l0388:2004-01-01"
+        },
+        {
+          "valid_from": "2004-02-19",
+          "valid_to": "2004-04-30",
+          "text_sha256": "aaa39bc9db0ac0bf6e11d430dbfe91e249aa9cf13d150a7f5f0d792336c3efae",
+          "in_version": "eu-eurlex:31977l0388:2004-02-19"
         },
         {
           "valid_from": "2007-01-01",

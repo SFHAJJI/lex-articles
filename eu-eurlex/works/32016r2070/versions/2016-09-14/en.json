@@ -1,0 +1,162 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32016r2070:2016-09-14",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2016/2070 of 14 September 2016 laying down implementing technical standards for templates, definitions and IT-solutions to be used by institutions when reporting to the European Banking Authority and to competent authorities in accordance with Article 78(2) of Directive 2013/36/EU",
+  "valid_from": "2016-09-14",
+  "valid_to": "2018-06-06",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32016r2070/versions/2016-09-14/en.xml",
+    "sha256": "dfc07749de94ab6f9c5d305cb87106e9adde92a395fcbb0c8c16bc9a2714fa8f",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R2070"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32016r2070:2016-09-14#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\nFor the purposes of Article 78(2) of Directive 2013/36/EU, an institution referred to in paragraph 1 of that Article shall submit to its competent authority all the information referred to in Articles 2 and 3 on an individual and consolidated basis.",
+      "text_sha256": "cb83b53d1142f7a0d1b7ce015e8489c9ba48c64fea69cdee6aa8ee21095d33dd",
+      "md_span": {
+        "start": 872,
+        "end": 1132
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32016r2070:2016-09-14#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nFor internal approaches for credit risk, an institution shall submit to its competent authority the following information:\n\n| (a) | the information specified in template 101 of Annex III, for the counterparties referred to in template 101 of Annex I, in accordance with the instructions referred to in Tables C 101 of Annex II and Annex IV respectively; |\n| --- | --- |\n\n| (b) | the information specified in template 102 of Annex III, for the portfolios referred to in template 102 of Annex I, in accordance with the instructions referred to in Tables C 102 of Annex II and Annex IV respectively; |\n| --- | --- |\n\n| (c) | the information specified in template 103 of Annex III, for the portfolios referred to in template 103 of Annex I, in accordance with the instructions referred to in Tables C 103 of Annex II and Annex IV respectively; |\n| --- | --- |\n\n| (d) | the information specified in template 104 of Annexes III, for the hypothetical transactions referred to in template 104 of Annex I, in accordance with the instructions referred to in Tables C 104 in Annex II and Annex IV respectively; |\n| --- | --- |\n\n| (e) | the information specified in template 105 of Annex III in relation to the name and characteristics of the internal approaches used for the computation of the results provided in templates 102 to 104 of Annex III, in accordance with the instructions referred to in Table C 105 of Annex IV. |\n| --- | --- |",
+      "text_sha256": "fb52c7503fe880f5e88895fc8ce0dbefe2178c37908127fd0887c961d6c81afb",
+      "md_span": {
+        "start": 1165,
+        "end": 2605
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32016r2070:2016-09-14#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. For internal approaches for market risk, an institution shall submit to its competent authority the information specified in the templates of Annex VII, in accordance with the portfolio definitions and instructions contained in Annexes V and VI, respectively.\n\n2. As a derogation from paragraph 1, an institution shall not be required to submit the information referred to in paragraph 1 for an individual portfolio in any of the following cases:\n\n| (a) | the institution does not have the permission from its competent authority to model the relevant instruments or risk factors that are included in the portfolio; |\n| --- | --- |\n\n| (b) | there is no internal approval by the management of that institution to operate in one or more instruments or in the underlying assets included in the relevant portfolios; |\n| --- | --- |\n\n| (c) | one or more of the instruments included in the portfolios incorporate underlying risks or modelling features that are not contemplated in the institution's risk metrics. |\n| --- | --- |\n\n3. An institution that meets the conditions of paragraph 2 and has decided not to submit the information referred to in paragraph 1 on one or more portfolios shall:\n\n| (a) | report those portfolios and indicate which of the reasons listed in paragraph 2 is the cause thereof; |\n| --- | --- |\n\n| (b) | still submit the information for the aggregated portfolios included in Annex V, considering only the individual portfolios that it is able and permitted to model. |\n| --- | --- |",
+      "text_sha256": "0d3f783961f5de74c759c03cc956ce18ec7578ec701b592234ccb96962a4abce",
+      "md_span": {
+        "start": 2638,
+        "end": 4155
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32016r2070:2016-09-14#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. An institution shall submit to its competent authority the information referred to in Article 1 on the following reporting reference dates:\n\n| (a) | the information referred to in Article 2 shall be submitted as it stands on 31 December of each year; |\n| --- | --- |\n\n| (b) | the information referred to in Article 3 shall be submitted as it stands on the reporting reference dates specified in the instructions laid down in Annexes V and VI. |\n| --- | --- |\n\n2. An institution shall submit to its competent authority the information referred to in Articles 2 and 3 by 11 April of each year. The remittance date of the initial market valuation of market risk data specified in template C 106 of Annex VII is set out in Annex V.\n\n3. Where the date referred to in paragraph 2 is not a working day in the Member State of the competent authority to which the information is to be submitted, the information shall be submitted on the following working day.\n\n4. An institution shall submit to its competent authority any corrections to the submitted information without undue delay.",
+      "text_sha256": "9391aa45f50dce4d7d39b339ba519b30acda88c8a8ed3acec431d996ad7a6652",
+      "md_span": {
+        "start": 4188,
+        "end": 5278
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32016r2070:2016-09-14#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nFor portfolios other than those reported in accordance with point (a) of Article 3(3), an institution shall report to its competent authority an initial market valuation of those portfolios or of individual instruments included in those portfolios, as applicable, at the precise date specified in the instructions set out in Annex VI.",
+      "text_sha256": "631fb3ead65d458beb1f8525c81d554da732699766d9bcfbb799767d35f4396d",
+      "md_span": {
+        "start": 5311,
+        "end": 5656
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32016r2070:2016-09-14#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\nWhen submitting information in accordance with Article 1, an institution shall use the IT solution developed for the purposes of the supervisory reporting in accordance with Article 17 of Implementing Regulation (EU) No 680/2014.",
+      "text_sha256": "7bf9edc43121b73b20291fcd62bb7579227255d400ec2e1ac1160665f182ce4b",
+      "md_span": {
+        "start": 5689,
+        "end": 5929
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32016r2070:2016-09-14#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. As a derogation from Article 2, during the first year of application of this Regulation, institutions shall submit only the information referred to in points (c) and (e) of that Article.\n\n2. As a derogation from Article 2, during the second year of application of this Regulation, institutions shall submit only the information referred to in points (a), (b), (d) and (e) of that Article.\n\n3. As a derogation from Article 2 and until 31 December 2016, an institution shall not be required to report column 180 of templates 102 and 103 of Annex III where that institution does not compute the own funds requirements for credit risk resulting from the application of the standardised approach.\n\n4. As a derogation from Article 4(2), during the first year of application of this Regulation, an institution shall submit the information referred to in Articles 2 and 3 to competent authorities by close of business of 27 December 2016.",
+      "text_sha256": "cd21eaef06b9a204024e5738d6d96a609252d6ac3d7fd450e82b86740d3b1e7f",
+      "md_span": {
+        "start": 5962,
+        "end": 6906
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32016r2070:2016-09-14#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\nThis Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "text_sha256": "1335a8f0977035adb9d8f6089e10eeef2bf2ec4148c9a36c353ec7491c0be6b2",
+      "md_span": {
+        "start": 6939,
+        "end": 7090
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

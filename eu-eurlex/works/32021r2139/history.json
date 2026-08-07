@@ -2,159 +2,17 @@
   "lex_work_id": "eu-eurlex:32021r2139",
   "schema": "lex-articles/1",
   "profiles": [
-    "fmx4-eu/1"
+    "xhtml-eu/1"
   ],
   "primary_language": "en",
   "anchors": {
-    "anx_i": [
-      {
-        "valid_from": "2023-01-01",
-        "valid_to": "2023-12-31",
-        "text_sha256": "ab3dbfa8611a524ec332aaf034333c74c6634515bfa2df6e61590318e6daced0",
-        "in_version": "eu-eurlex:32021r2139:2023-01-01"
-      },
-      {
-        "valid_from": "2024-01-01",
-        "valid_to": null,
-        "text_sha256": "b9d258c1c008601b333ae1a444670f59cc231e5099c5e2d5a23c4ab05956f92d",
-        "in_version": "eu-eurlex:32021r2139:2024-01-01"
-      }
-    ],
-    "anx_ii": [
-      {
-        "valid_from": "2023-01-01",
-        "valid_to": "2023-12-31",
-        "text_sha256": "652228c0b49c118cb4a96c7b28af106df8b9599af68651ae7b3497526df18b9a",
-        "in_version": "eu-eurlex:32021r2139:2023-01-01"
-      },
-      {
-        "valid_from": "2024-01-01",
-        "valid_to": null,
-        "text_sha256": "39354c8b9930b79204469ab16be3dd26399670bf57b6876bd88d90d96660c4a5",
-        "in_version": "eu-eurlex:32021r2139:2024-01-01"
-      }
-    ],
-    "appendix_a": [
-      {
-        "valid_from": "2023-01-01",
-        "valid_to": null,
-        "text_sha256": "3d1bbbe929cfe417b1fadc8bca03919591270e31d4d9345068b28ec31c6a9b31",
-        "in_version": "eu-eurlex:32021r2139:2023-01-01"
-      }
-    ],
-    "appendix_a__2": [
-      {
-        "valid_from": "2023-01-01",
-        "valid_to": null,
-        "text_sha256": "5f9ba3ce830d4a2ea8c6850c7abbf1c656f5be03b4ea483816e25e732e4d53d5",
-        "in_version": "eu-eurlex:32021r2139:2023-01-01"
-      }
-    ],
-    "appendix_b": [
-      {
-        "valid_from": "2023-01-01",
-        "valid_to": "2023-12-31",
-        "text_sha256": "511190018d0dce144ef2c24910881be8a700ef67d04fc8c8ce83c77803a40698",
-        "in_version": "eu-eurlex:32021r2139:2023-01-01"
-      },
-      {
-        "valid_from": "2024-01-01",
-        "valid_to": null,
-        "text_sha256": "7f4eb05b083a6c01e40991dffe43b5b93ae54bd4d24691be9759697e443b8c3b",
-        "in_version": "eu-eurlex:32021r2139:2024-01-01"
-      }
-    ],
-    "appendix_b__2": [
-      {
-        "valid_from": "2023-01-01",
-        "valid_to": "2023-12-31",
-        "text_sha256": "b1dcafe5acaff0c796702bc2018239f447da089a96ae6545a70fd948636b0492",
-        "in_version": "eu-eurlex:32021r2139:2023-01-01"
-      },
-      {
-        "valid_from": "2024-01-01",
-        "valid_to": null,
-        "text_sha256": "9ef3ce4be9449fcdda03436db5f3a8e121e0b3b6113ae053792dc55a8a746db6",
-        "in_version": "eu-eurlex:32021r2139:2024-01-01"
-      }
-    ],
-    "appendix_c": [
-      {
-        "valid_from": "2023-01-01",
-        "valid_to": "2023-12-31",
-        "text_sha256": "850d11206071099b48f4b5fa0575635a73a2c7ac8c062c21c272161c13b29789",
-        "in_version": "eu-eurlex:32021r2139:2023-01-01"
-      },
-      {
-        "valid_from": "2024-01-01",
-        "valid_to": "2024-12-31",
-        "text_sha256": "58e526a865490d3b23634e5d665357aa31e6220d22cabfba5cb504d05abe28d3",
-        "in_version": "eu-eurlex:32021r2139:2024-01-01"
-      },
-      {
-        "valid_from": "2025-01-01",
-        "valid_to": "2025-12-31",
-        "text_sha256": "4d7b1342e997da91bb5823c957a7d83dbd864a2570199a4900cb106efc1bb8f3",
-        "in_version": "eu-eurlex:32021r2139:2025-01-01"
-      },
-      {
-        "valid_from": "2026-01-01",
-        "valid_to": null,
-        "text_sha256": "3bc3051135b6bff8ac78771f9fa1fa459f96c7bb208e9d3f02dde7a6173d6935",
-        "in_version": "eu-eurlex:32021r2139:2026-01-01"
-      }
-    ],
-    "appendix_c__2": [
-      {
-        "valid_from": "2023-01-01",
-        "valid_to": "2023-12-31",
-        "text_sha256": "85a093193721ed0295eeb3c508b6946043c2da191e288b1e6d12232f370853bb",
-        "in_version": "eu-eurlex:32021r2139:2023-01-01"
-      },
-      {
-        "valid_from": "2024-01-01",
-        "valid_to": "2024-12-31",
-        "text_sha256": "e33e96145e279567e96a939fceb3ac65465fd3d82923f3ff25e34633fe945634",
-        "in_version": "eu-eurlex:32021r2139:2024-01-01"
-      },
-      {
-        "valid_from": "2025-01-01",
-        "valid_to": "2025-12-31",
-        "text_sha256": "cae3c090f99ab184865a5738d76d4868934b0db2433b358e87187e48270696d2",
-        "in_version": "eu-eurlex:32021r2139:2025-01-01"
-      },
-      {
-        "valid_from": "2026-01-01",
-        "valid_to": null,
-        "text_sha256": "2fa6ba1d12a1d801e53c5a309a0633a94dbe53d387a05e20705d8da7a5ee88ff",
-        "in_version": "eu-eurlex:32021r2139:2026-01-01"
-      }
-    ],
-    "appendix_d": [
-      {
-        "valid_from": "2023-01-01",
-        "valid_to": null,
-        "text_sha256": "355bbf8ceb7b0311ea10fcd76a63910313a64d508ef366df61d6dfff9d47dc18",
-        "in_version": "eu-eurlex:32021r2139:2023-01-01"
-      }
-    ],
-    "appendix_d__2": [
-      {
-        "valid_from": "2023-01-01",
-        "valid_to": null,
-        "text_sha256": "355bbf8ceb7b0311ea10fcd76a63910313a64d508ef366df61d6dfff9d47dc18",
-        "in_version": "eu-eurlex:32021r2139:2023-01-01"
-      }
-    ],
-    "appendix_e": [
-      {
-        "valid_from": "2023-01-01",
-        "valid_to": null,
-        "text_sha256": "3c8a11c4b6818873acfdef2576f1a8d0cb0353b8e644daaa99dbf36c03d061ee",
-        "in_version": "eu-eurlex:32021r2139:2023-01-01"
-      }
-    ],
     "art_1": [
+      {
+        "valid_from": "2021-06-04",
+        "valid_to": "2022-12-31",
+        "text_sha256": "929cf52fe3a58c016e8b68621267587d08232fb1ebd0ce6b6bb209f3abc075c5",
+        "in_version": "eu-eurlex:32021r2139:2021-06-04"
+      },
       {
         "valid_from": "2023-01-01",
         "valid_to": null,
@@ -163,6 +21,12 @@
       }
     ],
     "art_2": [
+      {
+        "valid_from": "2021-06-04",
+        "valid_to": "2022-12-31",
+        "text_sha256": "71ce9e2bb34d68ee80c6c26daa16a4377b95dd50ad70f36c674c509fddf54330",
+        "in_version": "eu-eurlex:32021r2139:2021-06-04"
+      },
       {
         "valid_from": "2023-01-01",
         "valid_to": null,
@@ -180,6 +44,12 @@
     ],
     "art_3": [
       {
+        "valid_from": "2021-06-04",
+        "valid_to": "2022-12-31",
+        "text_sha256": "7bc379e4ce712a388229ed33b25c590054e28e02d6e50153bbe87b030bc6a61b",
+        "in_version": "eu-eurlex:32021r2139:2021-06-04"
+      },
+      {
         "valid_from": "2023-01-01",
         "valid_to": null,
         "text_sha256": "4a6c864d3d997a806ea7da0d6dbb6ce836fe21eb820b8bb8682bc5775d56ee43",
@@ -187,158 +57,22 @@
       }
     ]
   },
-  "anchor_events": [],
+  "anchor_events": [
+    {
+      "type": "inserted",
+      "anchor": "art_2a",
+      "at_version": "eu-eurlex:32021r2139:2023-01-01"
+    }
+  ],
   "anchors_by_language": {
     "en": {
-      "anx_i": [
-        {
-          "valid_from": "2023-01-01",
-          "valid_to": "2023-12-31",
-          "text_sha256": "ab3dbfa8611a524ec332aaf034333c74c6634515bfa2df6e61590318e6daced0",
-          "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        },
-        {
-          "valid_from": "2024-01-01",
-          "valid_to": null,
-          "text_sha256": "b9d258c1c008601b333ae1a444670f59cc231e5099c5e2d5a23c4ab05956f92d",
-          "in_version": "eu-eurlex:32021r2139:2024-01-01"
-        }
-      ],
-      "anx_ii": [
-        {
-          "valid_from": "2023-01-01",
-          "valid_to": "2023-12-31",
-          "text_sha256": "652228c0b49c118cb4a96c7b28af106df8b9599af68651ae7b3497526df18b9a",
-          "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        },
-        {
-          "valid_from": "2024-01-01",
-          "valid_to": null,
-          "text_sha256": "39354c8b9930b79204469ab16be3dd26399670bf57b6876bd88d90d96660c4a5",
-          "in_version": "eu-eurlex:32021r2139:2024-01-01"
-        }
-      ],
-      "appendix_a": [
-        {
-          "valid_from": "2023-01-01",
-          "valid_to": null,
-          "text_sha256": "3d1bbbe929cfe417b1fadc8bca03919591270e31d4d9345068b28ec31c6a9b31",
-          "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        }
-      ],
-      "appendix_a__2": [
-        {
-          "valid_from": "2023-01-01",
-          "valid_to": null,
-          "text_sha256": "5f9ba3ce830d4a2ea8c6850c7abbf1c656f5be03b4ea483816e25e732e4d53d5",
-          "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        }
-      ],
-      "appendix_b": [
-        {
-          "valid_from": "2023-01-01",
-          "valid_to": "2023-12-31",
-          "text_sha256": "511190018d0dce144ef2c24910881be8a700ef67d04fc8c8ce83c77803a40698",
-          "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        },
-        {
-          "valid_from": "2024-01-01",
-          "valid_to": null,
-          "text_sha256": "7f4eb05b083a6c01e40991dffe43b5b93ae54bd4d24691be9759697e443b8c3b",
-          "in_version": "eu-eurlex:32021r2139:2024-01-01"
-        }
-      ],
-      "appendix_b__2": [
-        {
-          "valid_from": "2023-01-01",
-          "valid_to": "2023-12-31",
-          "text_sha256": "b1dcafe5acaff0c796702bc2018239f447da089a96ae6545a70fd948636b0492",
-          "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        },
-        {
-          "valid_from": "2024-01-01",
-          "valid_to": null,
-          "text_sha256": "9ef3ce4be9449fcdda03436db5f3a8e121e0b3b6113ae053792dc55a8a746db6",
-          "in_version": "eu-eurlex:32021r2139:2024-01-01"
-        }
-      ],
-      "appendix_c": [
-        {
-          "valid_from": "2023-01-01",
-          "valid_to": "2023-12-31",
-          "text_sha256": "850d11206071099b48f4b5fa0575635a73a2c7ac8c062c21c272161c13b29789",
-          "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        },
-        {
-          "valid_from": "2024-01-01",
-          "valid_to": "2024-12-31",
-          "text_sha256": "58e526a865490d3b23634e5d665357aa31e6220d22cabfba5cb504d05abe28d3",
-          "in_version": "eu-eurlex:32021r2139:2024-01-01"
-        },
-        {
-          "valid_from": "2025-01-01",
-          "valid_to": "2025-12-31",
-          "text_sha256": "4d7b1342e997da91bb5823c957a7d83dbd864a2570199a4900cb106efc1bb8f3",
-          "in_version": "eu-eurlex:32021r2139:2025-01-01"
-        },
-        {
-          "valid_from": "2026-01-01",
-          "valid_to": null,
-          "text_sha256": "3bc3051135b6bff8ac78771f9fa1fa459f96c7bb208e9d3f02dde7a6173d6935",
-          "in_version": "eu-eurlex:32021r2139:2026-01-01"
-        }
-      ],
-      "appendix_c__2": [
-        {
-          "valid_from": "2023-01-01",
-          "valid_to": "2023-12-31",
-          "text_sha256": "85a093193721ed0295eeb3c508b6946043c2da191e288b1e6d12232f370853bb",
-          "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        },
-        {
-          "valid_from": "2024-01-01",
-          "valid_to": "2024-12-31",
-          "text_sha256": "e33e96145e279567e96a939fceb3ac65465fd3d82923f3ff25e34633fe945634",
-          "in_version": "eu-eurlex:32021r2139:2024-01-01"
-        },
-        {
-          "valid_from": "2025-01-01",
-          "valid_to": "2025-12-31",
-          "text_sha256": "cae3c090f99ab184865a5738d76d4868934b0db2433b358e87187e48270696d2",
-          "in_version": "eu-eurlex:32021r2139:2025-01-01"
-        },
-        {
-          "valid_from": "2026-01-01",
-          "valid_to": null,
-          "text_sha256": "2fa6ba1d12a1d801e53c5a309a0633a94dbe53d387a05e20705d8da7a5ee88ff",
-          "in_version": "eu-eurlex:32021r2139:2026-01-01"
-        }
-      ],
-      "appendix_d": [
-        {
-          "valid_from": "2023-01-01",
-          "valid_to": null,
-          "text_sha256": "355bbf8ceb7b0311ea10fcd76a63910313a64d508ef366df61d6dfff9d47dc18",
-          "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        }
-      ],
-      "appendix_d__2": [
-        {
-          "valid_from": "2023-01-01",
-          "valid_to": null,
-          "text_sha256": "355bbf8ceb7b0311ea10fcd76a63910313a64d508ef366df61d6dfff9d47dc18",
-          "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        }
-      ],
-      "appendix_e": [
-        {
-          "valid_from": "2023-01-01",
-          "valid_to": null,
-          "text_sha256": "3c8a11c4b6818873acfdef2576f1a8d0cb0353b8e644daaa99dbf36c03d061ee",
-          "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        }
-      ],
       "art_1": [
+        {
+          "valid_from": "2021-06-04",
+          "valid_to": "2022-12-31",
+          "text_sha256": "929cf52fe3a58c016e8b68621267587d08232fb1ebd0ce6b6bb209f3abc075c5",
+          "in_version": "eu-eurlex:32021r2139:2021-06-04"
+        },
         {
           "valid_from": "2023-01-01",
           "valid_to": null,
@@ -347,6 +81,12 @@
         }
       ],
       "art_2": [
+        {
+          "valid_from": "2021-06-04",
+          "valid_to": "2022-12-31",
+          "text_sha256": "71ce9e2bb34d68ee80c6c26daa16a4377b95dd50ad70f36c674c509fddf54330",
+          "in_version": "eu-eurlex:32021r2139:2021-06-04"
+        },
         {
           "valid_from": "2023-01-01",
           "valid_to": null,
@@ -364,6 +104,12 @@
       ],
       "art_3": [
         {
+          "valid_from": "2021-06-04",
+          "valid_to": "2022-12-31",
+          "text_sha256": "7bc379e4ce712a388229ed33b25c590054e28e02d6e50153bbe87b030bc6a61b",
+          "in_version": "eu-eurlex:32021r2139:2021-06-04"
+        },
+        {
           "valid_from": "2023-01-01",
           "valid_to": null,
           "text_sha256": "4a6c864d3d997a806ea7da0d6dbb6ce836fe21eb820b8bb8682bc5775d56ee43",
@@ -376,55 +122,31 @@
         {
           "valid_from": "2023-01-01",
           "valid_to": "2023-12-31",
-          "text_sha256": "54b8c9b7ae06f424eb043d737affbc13b1ed67e712a75547013823c04dbe9577",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        },
-        {
-          "valid_from": "2024-01-01",
-          "valid_to": "2025-01-07",
-          "text_sha256": "45fa0c3d47bef374e708e9d9dc7b6c946a3ee916587afce2d047a6d8a99413b8",
-          "in_version": "eu-eurlex:32021r2139:2024-01-01"
-        },
-        {
-          "valid_from": "2025-01-08",
-          "valid_to": null,
-          "text_sha256": "dde42dc4dd01fe2a41b225bac8273e8ef67adadc5ad3762acc03781a254dabd4",
-          "in_version": "eu-eurlex:32021r2139:2025-01-08"
         }
       ],
       "annexe_ii": [
         {
           "valid_from": "2023-01-01",
           "valid_to": "2023-12-31",
-          "text_sha256": "b65ef809d30d542c7fb77364170d01af1943ceb25c288936da022b8a2b5d3cc0",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        },
-        {
-          "valid_from": "2024-01-01",
-          "valid_to": "2025-01-07",
-          "text_sha256": "4cc39d998fc38b9c1f5ad8095a117cddfbc28f17e44c59c581334ce70ff1b9da",
-          "in_version": "eu-eurlex:32021r2139:2024-01-01"
-        },
-        {
-          "valid_from": "2025-01-08",
-          "valid_to": null,
-          "text_sha256": "d43dadb5928f68902d1e56e86124e4906617d75b67758ac52954481d435be8cf",
-          "in_version": "eu-eurlex:32021r2139:2025-01-08"
         }
       ],
       "appendice_a": [
         {
           "valid_from": "2023-01-01",
-          "valid_to": null,
-          "text_sha256": "67f08be44b6f6d4931b82ec8139e618c2f9de0a2e7d1962566fb8b8e20e6f571",
+          "valid_to": "2023-12-31",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "in_version": "eu-eurlex:32021r2139:2023-01-01"
         }
       ],
       "appendice_a__2": [
         {
           "valid_from": "2023-01-01",
-          "valid_to": null,
-          "text_sha256": "97e328d69f63058da8227677897b49a8f5b085afebbaae04bec3565cd8f018bd",
+          "valid_to": "2023-12-31",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "in_version": "eu-eurlex:32021r2139:2023-01-01"
         }
       ],
@@ -432,107 +154,79 @@
         {
           "valid_from": "2023-01-01",
           "valid_to": "2023-12-31",
-          "text_sha256": "3046d2d0ef5b23ea4d0f579c973a3946ef8599b04907613db889cd736cc435ca",
+          "text_sha256": "cb17167ada67ee8e71f94987455a7ee8feb1b3ea14d8cf929e5f0962432e23fa",
           "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        },
-        {
-          "valid_from": "2024-01-01",
-          "valid_to": null,
-          "text_sha256": "e4483caea653de675bbbc1efe8e1e1a2f80496537b853a0bf443896fc9037042",
-          "in_version": "eu-eurlex:32021r2139:2024-01-01"
         }
       ],
       "appendice_b__2": [
         {
           "valid_from": "2023-01-01",
           "valid_to": "2023-12-31",
-          "text_sha256": "cd0d9c4e4522789e01dad605163a71dd6080cb6334fe2299caa76de464cf068a",
+          "text_sha256": "f19c60df825ddfb62ffd80710d2365f39f6fcb54a4870b763cc586b2119c6ad8",
           "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        },
-        {
-          "valid_from": "2024-01-01",
-          "valid_to": null,
-          "text_sha256": "24c05cfcf03b7d38e9b50c24727910da06ba8362c5782a523adc66c1f6180d93",
-          "in_version": "eu-eurlex:32021r2139:2024-01-01"
         }
       ],
       "appendice_c": [
         {
           "valid_from": "2023-01-01",
           "valid_to": "2023-12-31",
-          "text_sha256": "1d4451aa372dc56e1dc002778a948130aaf2de7bc3757779bb43e7890ef5a6be",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        },
-        {
-          "valid_from": "2024-01-01",
-          "valid_to": "2024-12-31",
-          "text_sha256": "99d8da6657346742382e3af69f833107b9846f9ad886ea5f1a6603741cc55a38",
-          "in_version": "eu-eurlex:32021r2139:2024-01-01"
-        },
-        {
-          "valid_from": "2025-01-01",
-          "valid_to": "2025-12-31",
-          "text_sha256": "60c7729394a1d39b4cc3939285c6b16e5e12034bc45f8055c7e6395f2cc5112c",
-          "in_version": "eu-eurlex:32021r2139:2025-01-01"
-        },
-        {
-          "valid_from": "2026-01-01",
-          "valid_to": null,
-          "text_sha256": "d188899a9cf5ae6d1ea1af97013cd09eca45401bef1e6d9655ca26a4c67fcfa9",
-          "in_version": "eu-eurlex:32021r2139:2026-01-01"
         }
       ],
       "appendice_c__2": [
         {
           "valid_from": "2023-01-01",
           "valid_to": "2023-12-31",
-          "text_sha256": "ffd593bfe00c682c48dcff60942b556bca6aedfff3d68e5236bdbace62aff737",
+          "text_sha256": "b8d8c87d056cc2ede173988ab0b2b4b8c78a2e3cc7a8a24c8dc44e821c23b622",
           "in_version": "eu-eurlex:32021r2139:2023-01-01"
-        },
-        {
-          "valid_from": "2024-01-01",
-          "valid_to": "2024-12-31",
-          "text_sha256": "7751ab5c82383d6e9c0ee16c4358cbbb1167ec55bebe3d4d36667b8acdbc6238",
-          "in_version": "eu-eurlex:32021r2139:2024-01-01"
-        },
-        {
-          "valid_from": "2025-01-01",
-          "valid_to": "2025-12-31",
-          "text_sha256": "8ec9722d6901248ee85855222055b9d3525533e1a4f0203be41532378ef518c5",
-          "in_version": "eu-eurlex:32021r2139:2025-01-01"
-        },
-        {
-          "valid_from": "2026-01-01",
-          "valid_to": null,
-          "text_sha256": "e14d958127ad01eef994a2a59f7d52ab933715e2daaa2240fc84d92c19a6e33c",
-          "in_version": "eu-eurlex:32021r2139:2026-01-01"
         }
       ],
       "appendice_d": [
         {
           "valid_from": "2023-01-01",
-          "valid_to": null,
-          "text_sha256": "46558dee6a2b730e1ca51172a35b820fcaef250b07cd128b913f8493d5447369",
+          "valid_to": "2023-12-31",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "in_version": "eu-eurlex:32021r2139:2023-01-01"
         }
       ],
       "appendice_d__2": [
         {
           "valid_from": "2023-01-01",
-          "valid_to": null,
-          "text_sha256": "46558dee6a2b730e1ca51172a35b820fcaef250b07cd128b913f8493d5447369",
+          "valid_to": "2023-12-31",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "in_version": "eu-eurlex:32021r2139:2023-01-01"
         }
       ],
       "appendice_e": [
         {
           "valid_from": "2023-01-01",
-          "valid_to": null,
-          "text_sha256": "222466683793f519d248e3746844f390d5a25f245840c81608edbce3ad0791b9",
+          "valid_to": "2023-12-31",
+          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "in_version": "eu-eurlex:32021r2139:2023-01-01"
         }
       ],
+      "art_1": [
+        {
+          "valid_from": "2021-06-04",
+          "valid_to": "2022-12-31",
+          "text_sha256": "56a9d03536bc3c865651ef8921d84e2ca8ac3292b820da97e6e00daba5c49340",
+          "in_version": "eu-eurlex:32021r2139:2021-06-04"
+        },
+        {
+          "valid_from": "2024-01-01",
+          "valid_to": null,
+          "text_sha256": "17adc47b8e073a8610ccb8bf040a5993fb031c667e3e2abcfda39a96fae91972",
+          "in_version": "eu-eurlex:32021r2139:2024-01-01"
+        }
+      ],
       "art_2": [
+        {
+          "valid_from": "2021-06-04",
+          "valid_to": "2022-12-31",
+          "text_sha256": "89a2934774d2710ec1b9bc508051ef815cdcfc727e51abd1bf68f84445eaf79a",
+          "in_version": "eu-eurlex:32021r2139:2021-06-04"
+        },
         {
           "valid_from": "2023-01-01",
           "valid_to": null,
@@ -543,31 +237,343 @@
       "art_2_bis": [
         {
           "valid_from": "2023-01-01",
-          "valid_to": null,
+          "valid_to": "2023-12-31",
           "text_sha256": "fe77c6d82a943be4d67ae30db2005d21e3c6b1f42fc8875764a066fcd95feccd",
           "in_version": "eu-eurlex:32021r2139:2023-01-01"
         }
       ],
+      "art_2a": [
+        {
+          "valid_from": "2024-01-01",
+          "valid_to": null,
+          "text_sha256": "fe77c6d82a943be4d67ae30db2005d21e3c6b1f42fc8875764a066fcd95feccd",
+          "in_version": "eu-eurlex:32021r2139:2024-01-01"
+        }
+      ],
       "art_3": [
         {
+          "valid_from": "2021-06-04",
+          "valid_to": "2022-12-31",
+          "text_sha256": "602bef32f3aeed01054c38cdfd4eb43ec2427b118a1ff88f8fb32255c91f86b1",
+          "in_version": "eu-eurlex:32021r2139:2021-06-04"
+        },
+        {
           "valid_from": "2023-01-01",
-          "valid_to": null,
-          "text_sha256": "a502fff0bdc4d2839fab87e463f3aa91e447001d6d6680a1cc7cbc6333a754e0",
+          "valid_to": "2023-12-31",
+          "text_sha256": "aee7771df60ef4a278132bc5c9f275f4741fa9a20bc0283593b07663ce283153",
           "in_version": "eu-eurlex:32021r2139:2023-01-01"
+        },
+        {
+          "valid_from": "2024-01-01",
+          "valid_to": null,
+          "text_sha256": "cff71ca1b557fc3dce22ab135fd996f8b504bdcae0277f693fb1f5ef4f78b5ab",
+          "in_version": "eu-eurlex:32021r2139:2024-01-01"
         }
       ],
       "art_premier": [
         {
           "valid_from": "2023-01-01",
-          "valid_to": null,
+          "valid_to": "2023-12-31",
           "text_sha256": "17adc47b8e073a8610ccb8bf040a5993fb031c667e3e2abcfda39a96fae91972",
+          "in_version": "eu-eurlex:32021r2139:2023-01-01"
+        }
+      ],
+      "classification_des_aleas_lies_au_climat_101": [
+        {
+          "valid_from": "2023-01-01",
+          "valid_to": "2023-12-31",
+          "text_sha256": "97e328d69f63058da8227677897b49a8f5b085afebbaae04bec3565cd8f018bd",
+          "in_version": "eu-eurlex:32021r2139:2023-01-01"
+        }
+      ],
+      "criteres_d_examen_technique_permettant_de_determiner_les_conditions_dans_lesquelles_une_activite_economique_est_consideree_comme_contribuant_de_maniere_substantielle_a_l_attenuation_du_changement_climatique_et_de_determiner_si_l_activite_economique_cause_un_prejudice_important_a_l_un_quelconque_des_autres_objectifs_environnementaux": [
+        {
+          "valid_from": "2023-01-01",
+          "valid_to": "2023-12-31",
+          "text_sha256": "d6015d9202c7f03c79d79bfaa3dc67c00f4372d334084256829a35abad176144",
+          "in_version": "eu-eurlex:32021r2139:2023-01-01"
+        }
+      ],
+      "criteres_d_examen_technique_permettant_de_determiner_les_conditions_dans_lesquelles_une_activite_economique_est_consideree_comme_contribuant_de_maniere_substantielle_a_l_attenuation_du_changement_climatique_et_de_determiner_si_l_activite_economique_cause_un_prejudice_important_a_l_un_quelconque_des_autres_objectifs_environnementaux__2": [
+        {
+          "valid_from": "2023-01-01",
+          "valid_to": "2023-12-31",
+          "text_sha256": "6d583deebb134fbc79cbddeef0f675722ef8f3a6843a2f93446a543f0e666101",
+          "in_version": "eu-eurlex:32021r2139:2023-01-01"
+        }
+      ],
+      "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_l_adaptation_au_changement_climatique": [
+        {
+          "valid_from": "2023-01-01",
+          "valid_to": "2023-12-31",
+          "text_sha256": "51edfbbb1f09cc9ff1829f78ccc2b8a59915dceaf303942a3d4af2c46b1ab3af",
+          "in_version": "eu-eurlex:32021r2139:2023-01-01"
+        }
+      ],
+      "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_la_prevention_et_de_la_reduction_de_la_pollution_concernant_l_utilisation_et_la_presence_de_produits_chimiques": [
+        {
+          "valid_from": "2023-01-01",
+          "valid_to": "2023-12-31",
+          "text_sha256": "ca7dcbef0f97e8c11df64bcdca804bb5b7f2bb736b13866538cea854469d0a0f",
+          "in_version": "eu-eurlex:32021r2139:2023-01-01"
+        }
+      ],
+      "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_la_protection_et_de_la_restauration_de_la_biodiversite_et_des_ecosystemes": [
+        {
+          "valid_from": "2023-01-01",
+          "valid_to": "2023-12-31",
+          "text_sha256": "fe84295e3910f3968da1613b43f0579f6bd2d6fbebc5df378626a100eb572218",
+          "in_version": "eu-eurlex:32021r2139:2023-01-01"
+        }
+      ],
+      "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_la_protection_et_de_la_restauration_de_la_biodiversite_et_des_ecosystemes__2": [
+        {
+          "valid_from": "2023-01-01",
+          "valid_to": "2023-12-31",
+          "text_sha256": "091638d3cbd46c4c93e3ab3d76a7953893acba6cb5131cf157acdbd53355c02e",
+          "in_version": "eu-eurlex:32021r2139:2023-01-01"
+        }
+      ],
+      "specifications_techniques_56_pour_equipements_sanitaires": [
+        {
+          "valid_from": "2023-01-01",
+          "valid_to": "2023-12-31",
+          "text_sha256": "1d09c94339f7d9fff738d37d81433cf96d70533a4389b2bd91527bbeabd30c99",
           "in_version": "eu-eurlex:32021r2139:2023-01-01"
         }
       ]
     }
   },
   "anchor_events_by_language": {
-    "en": [],
-    "fr": []
+    "en": [
+      {
+        "type": "inserted",
+        "anchor": "art_2a",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      }
+    ],
+    "fr": [
+      {
+        "type": "removed",
+        "anchor": "art_1",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_i",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe_ii",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendice_a",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendice_a__2",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendice_b",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendice_b__2",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendice_c",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendice_c__2",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendice_d",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendice_d__2",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "appendice_e",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_2_bis",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_premier",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "classification_des_aleas_lies_au_climat_101",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "criteres_d_examen_technique_permettant_de_determiner_les_conditions_dans_lesquelles_une_activite_economique_est_consideree_comme_contribuant_de_maniere_substantielle_a_l_attenuation_du_changement_climatique_et_de_determiner_si_l_activite_economique_cause_un_prejudice_important_a_l_un_quelconque_des_autres_objectifs_environnementaux",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "criteres_d_examen_technique_permettant_de_determiner_les_conditions_dans_lesquelles_une_activite_economique_est_consideree_comme_contribuant_de_maniere_substantielle_a_l_attenuation_du_changement_climatique_et_de_determiner_si_l_activite_economique_cause_un_prejudice_important_a_l_un_quelconque_des_autres_objectifs_environnementaux__2",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_l_adaptation_au_changement_climatique",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_la_prevention_et_de_la_reduction_de_la_pollution_concernant_l_utilisation_et_la_presence_de_produits_chimiques",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_la_protection_et_de_la_restauration_de_la_biodiversite_et_des_ecosystemes",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_la_protection_et_de_la_restauration_de_la_biodiversite_et_des_ecosystemes__2",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "specifications_techniques_56_pour_equipements_sanitaires",
+        "at_version": "eu-eurlex:32021r2139:2023-01-01"
+      },
+      {
+        "type": "renumbered",
+        "from": "art_2_bis",
+        "to": "art_2a",
+        "text_sha256": "fe77c6d82a943be4d67ae30db2005d21e3c6b1f42fc8875764a066fcd95feccd",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01",
+        "basis": "identical_text"
+      },
+      {
+        "type": "renumbered",
+        "from": "art_premier",
+        "to": "art_1",
+        "text_sha256": "17adc47b8e073a8610ccb8bf040a5993fb031c667e3e2abcfda39a96fae91972",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01",
+        "basis": "identical_text"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_i",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe_ii",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "appendice_a",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "appendice_a__2",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "appendice_b",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "appendice_b__2",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "appendice_c",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "appendice_c__2",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "appendice_d",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "appendice_d__2",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "appendice_e",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "classification_des_aleas_lies_au_climat_101",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "criteres_d_examen_technique_permettant_de_determiner_les_conditions_dans_lesquelles_une_activite_economique_est_consideree_comme_contribuant_de_maniere_substantielle_a_l_attenuation_du_changement_climatique_et_de_determiner_si_l_activite_economique_cause_un_prejudice_important_a_l_un_quelconque_des_autres_objectifs_environnementaux",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "criteres_d_examen_technique_permettant_de_determiner_les_conditions_dans_lesquelles_une_activite_economique_est_consideree_comme_contribuant_de_maniere_substantielle_a_l_attenuation_du_changement_climatique_et_de_determiner_si_l_activite_economique_cause_un_prejudice_important_a_l_un_quelconque_des_autres_objectifs_environnementaux__2",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_l_adaptation_au_changement_climatique",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_la_prevention_et_de_la_reduction_de_la_pollution_concernant_l_utilisation_et_la_presence_de_produits_chimiques",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_la_protection_et_de_la_restauration_de_la_biodiversite_et_des_ecosystemes",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "criteres_generiques_du_principe_consistant_a_ne_pas_causer_de_prejudice_important_en_vue_de_la_protection_et_de_la_restauration_de_la_biodiversite_et_des_ecosystemes__2",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      },
+      {
+        "type": "removed",
+        "anchor": "specifications_techniques_56_pour_equipements_sanitaires",
+        "at_version": "eu-eurlex:32021r2139:2024-01-01"
+      }
+    ]
   }
 }

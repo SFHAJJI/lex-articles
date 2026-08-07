@@ -3,9 +3,10 @@
   "schema": "lex-articles/1",
   "profiles": [
     "html-eu-tolerant/1",
+    "xhtml-eu-xlink-context/1",
     "xhtml-eu/1"
   ],
-  "primary_language": "fr",
+  "primary_language": "en",
   "anchors": {
     "annexe": [
       {
@@ -13,20 +14,28 @@
         "valid_to": "2020-07-29",
         "text_sha256": "557ae114911ea5107580954cccdf18f78bf5e0c1f5c7bba3a19c3745efecca74",
         "in_version": "eu-eurlex:31996l0071:1997-02-10"
-      },
+      }
+    ],
+    "art_1": [
       {
         "valid_from": "2020-07-30",
         "valid_to": null,
-        "text_sha256": "cf510dbde7b8d566d6fd01292c50d8f0dd8ef84cc35036d83301336de632dfb8",
+        "text_sha256": "e446f09438b1d67336462c9e6c9eca253d830523aea77d2134f314d2160ae52b",
         "in_version": "eu-eurlex:31996l0071:2020-07-30"
       }
     ],
     "art_2": [
       {
         "valid_from": "1997-02-10",
-        "valid_to": null,
+        "valid_to": "2020-07-29",
         "text_sha256": "3a3f230093ea117dafcce7371774e4ac52f533fcf9b318af18253b226539c93c",
         "in_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "valid_from": "2020-07-30",
+        "valid_to": null,
+        "text_sha256": "2854147af33091182d81bf896755db1a814858d13f63a635f267cbed160627bb",
+        "in_version": "eu-eurlex:31996l0071:2020-07-30"
       }
     ],
     "art_3": [
@@ -39,7 +48,7 @@
       {
         "valid_from": "2020-07-30",
         "valid_to": null,
-        "text_sha256": "ab9d03535fc1e07b54dcb1a0d2d1617e121fe30bc721d6821edd504fc13eb5aa",
+        "text_sha256": "cb8fc09a9875d38b8dc9a5ce667596b9da71bd9b4107804ff37e74280fd83e5f",
         "in_version": "eu-eurlex:31996l0071:2020-07-30"
       }
     ],
@@ -53,7 +62,7 @@
       {
         "valid_from": "2020-07-30",
         "valid_to": null,
-        "text_sha256": "c9ebef26e979cfb8ba849d7723f32a9540367020a80ab2b096d3299c3441cc20",
+        "text_sha256": "5ed5fa78e545210007254573e0e9a545beaecdaeb7fc7dac3803c5677d8f96e7",
         "in_version": "eu-eurlex:31996l0071:2020-07-30"
       }
     ],
@@ -67,40 +76,64 @@
       {
         "valid_from": "2020-07-30",
         "valid_to": null,
-        "text_sha256": "ac9b0c257a5d1f6e27e294008f48ffcf75971ea153d0493285be8d2d0dee8879",
+        "text_sha256": "af1b89c1197985bcbeb55354d71fc55691c89232801dc8d1daa8c4fd10832e5c",
         "in_version": "eu-eurlex:31996l0071:2020-07-30"
       }
     ],
     "art_6": [
       {
         "valid_from": "1997-02-10",
-        "valid_to": null,
+        "valid_to": "2020-07-29",
         "text_sha256": "1aab4ebb28e219cf19571f688f15ac83239db6721907eca6f077a78174ced48e",
         "in_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "valid_from": "2020-07-30",
+        "valid_to": null,
+        "text_sha256": "5c3d296b72e29ead10dba94ebba89ab8917c4c36c8aefbc0b3cc8a908e287329",
+        "in_version": "eu-eurlex:31996l0071:2020-07-30"
       }
     ],
     "art_7": [
       {
         "valid_from": "1997-02-10",
-        "valid_to": null,
+        "valid_to": "2020-07-29",
         "text_sha256": "7e4f688f5a43f86e02902964d60a959b66ea71c1462ae35fcc539ba0dd332370",
         "in_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "valid_from": "2020-07-30",
+        "valid_to": null,
+        "text_sha256": "eac133179858b8d353143374ada5bee692c50e10ceab831876ba09d0783f3391",
+        "in_version": "eu-eurlex:31996l0071:2020-07-30"
       }
     ],
     "art_8": [
       {
         "valid_from": "1997-02-10",
-        "valid_to": null,
+        "valid_to": "2020-07-29",
         "text_sha256": "379e0eea01a115f1b01866639317f56c962c83f493a2ec280daff529835122d3",
         "in_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "valid_from": "2020-07-30",
+        "valid_to": null,
+        "text_sha256": "d977733dbdf209f9e5a0f22884ec1636d93585d1e9c0c8ebd660c5d028f65be0",
+        "in_version": "eu-eurlex:31996l0071:2020-07-30"
       }
     ],
     "art_9": [
       {
         "valid_from": "1997-02-10",
-        "valid_to": null,
+        "valid_to": "2020-07-29",
         "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
         "in_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "valid_from": "2020-07-30",
+        "valid_to": null,
+        "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
+        "in_version": "eu-eurlex:31996l0071:2020-07-30"
       }
     ],
     "art_premier": [
@@ -109,19 +142,13 @@
         "valid_to": "2020-07-29",
         "text_sha256": "1b16e5ff9d1e61f807b9f4deade8c96ef53dbee3b103ef8182b597f249a423ab",
         "in_version": "eu-eurlex:31996l0071:1997-02-10"
-      },
-      {
-        "valid_from": "2020-07-30",
-        "valid_to": null,
-        "text_sha256": "9a7f5ec8063b95a1f441fc459c4c689d87ab665dd14aa0aef93e3999a00028db",
-        "in_version": "eu-eurlex:31996l0071:2020-07-30"
       }
     ],
     "document": [
       {
         "valid_from": "1996-12-16",
         "valid_to": "1997-02-09",
-        "text_sha256": "36b85c1223f367daf8268a6201c8ec44058bf36b2ddb2182046bc674252fc7ef",
+        "text_sha256": "4ca98e64b94194fdd039f781bb738637891e4e8bc867d9a62584134b3c76a789",
         "in_version": "eu-eurlex:31996l0071:1996-12-16"
       }
     ]
@@ -181,10 +208,33 @@
       "type": "inserted",
       "anchor": "art_premier",
       "at_version": "eu-eurlex:31996l0071:1997-02-10"
+    },
+    {
+      "type": "removed",
+      "anchor": "annexe",
+      "at_version": "eu-eurlex:31996l0071:2020-07-30"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_premier",
+      "at_version": "eu-eurlex:31996l0071:2020-07-30"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_1",
+      "at_version": "eu-eurlex:31996l0071:2020-07-30"
     }
   ],
   "anchors_by_language": {
     "en": {
+      "annexe": [
+        {
+          "valid_from": "1997-02-10",
+          "valid_to": "2020-07-29",
+          "text_sha256": "557ae114911ea5107580954cccdf18f78bf5e0c1f5c7bba3a19c3745efecca74",
+          "in_version": "eu-eurlex:31996l0071:1997-02-10"
+        }
+      ],
       "art_1": [
         {
           "valid_from": "2020-07-30",
@@ -195,6 +245,12 @@
       ],
       "art_2": [
         {
+          "valid_from": "1997-02-10",
+          "valid_to": "2020-07-29",
+          "text_sha256": "3a3f230093ea117dafcce7371774e4ac52f533fcf9b318af18253b226539c93c",
+          "in_version": "eu-eurlex:31996l0071:1997-02-10"
+        },
+        {
           "valid_from": "2020-07-30",
           "valid_to": null,
           "text_sha256": "2854147af33091182d81bf896755db1a814858d13f63a635f267cbed160627bb",
@@ -202,6 +258,12 @@
         }
       ],
       "art_3": [
+        {
+          "valid_from": "1997-02-10",
+          "valid_to": "2020-07-29",
+          "text_sha256": "2f9763f794efe68e25ff805c7c16c8b04c83535c246b41afe93c9940ab892d3c",
+          "in_version": "eu-eurlex:31996l0071:1997-02-10"
+        },
         {
           "valid_from": "2020-07-30",
           "valid_to": null,
@@ -211,6 +273,12 @@
       ],
       "art_4": [
         {
+          "valid_from": "1997-02-10",
+          "valid_to": "2020-07-29",
+          "text_sha256": "9bb3c859bff4cd37ba99cf3e8ecc31788c3adba815f9c0563dd0749575e75d4c",
+          "in_version": "eu-eurlex:31996l0071:1997-02-10"
+        },
+        {
           "valid_from": "2020-07-30",
           "valid_to": null,
           "text_sha256": "5ed5fa78e545210007254573e0e9a545beaecdaeb7fc7dac3803c5677d8f96e7",
@@ -218,6 +286,12 @@
         }
       ],
       "art_5": [
+        {
+          "valid_from": "1997-02-10",
+          "valid_to": "2020-07-29",
+          "text_sha256": "65c76917f2f640cfa5a0bbff0927607899500f623b94734b03f2250717b5c7b4",
+          "in_version": "eu-eurlex:31996l0071:1997-02-10"
+        },
         {
           "valid_from": "2020-07-30",
           "valid_to": null,
@@ -227,6 +301,12 @@
       ],
       "art_6": [
         {
+          "valid_from": "1997-02-10",
+          "valid_to": "2020-07-29",
+          "text_sha256": "1aab4ebb28e219cf19571f688f15ac83239db6721907eca6f077a78174ced48e",
+          "in_version": "eu-eurlex:31996l0071:1997-02-10"
+        },
+        {
           "valid_from": "2020-07-30",
           "valid_to": null,
           "text_sha256": "5c3d296b72e29ead10dba94ebba89ab8917c4c36c8aefbc0b3cc8a908e287329",
@@ -234,6 +314,12 @@
         }
       ],
       "art_7": [
+        {
+          "valid_from": "1997-02-10",
+          "valid_to": "2020-07-29",
+          "text_sha256": "7e4f688f5a43f86e02902964d60a959b66ea71c1462ae35fcc539ba0dd332370",
+          "in_version": "eu-eurlex:31996l0071:1997-02-10"
+        },
         {
           "valid_from": "2020-07-30",
           "valid_to": null,
@@ -243,6 +329,12 @@
       ],
       "art_8": [
         {
+          "valid_from": "1997-02-10",
+          "valid_to": "2020-07-29",
+          "text_sha256": "379e0eea01a115f1b01866639317f56c962c83f493a2ec280daff529835122d3",
+          "in_version": "eu-eurlex:31996l0071:1997-02-10"
+        },
+        {
           "valid_from": "2020-07-30",
           "valid_to": null,
           "text_sha256": "d977733dbdf209f9e5a0f22884ec1636d93585d1e9c0c8ebd660c5d028f65be0",
@@ -251,10 +343,24 @@
       ],
       "art_9": [
         {
+          "valid_from": "1997-02-10",
+          "valid_to": "2020-07-29",
+          "text_sha256": "02c91ea720a0b94fdebc0073c9f9d1fb5a73aa6217ba5b11dc94b79b6c491b7a",
+          "in_version": "eu-eurlex:31996l0071:1997-02-10"
+        },
+        {
           "valid_from": "2020-07-30",
           "valid_to": null,
           "text_sha256": "a10b8fc122568129fb74f91aac29ca08b598b0badc5fba6a19942970570782c0",
           "in_version": "eu-eurlex:31996l0071:2020-07-30"
+        }
+      ],
+      "art_premier": [
+        {
+          "valid_from": "1997-02-10",
+          "valid_to": "2020-07-29",
+          "text_sha256": "1b16e5ff9d1e61f807b9f4deade8c96ef53dbee3b103ef8182b597f249a423ab",
+          "in_version": "eu-eurlex:31996l0071:1997-02-10"
         }
       ],
       "document": [
@@ -392,51 +498,71 @@
       {
         "type": "removed",
         "anchor": "document",
+        "at_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "type": "inserted",
+        "anchor": "annexe",
+        "at_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_2",
+        "at_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_3",
+        "at_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_4",
+        "at_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_5",
+        "at_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_6",
+        "at_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_7",
+        "at_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_8",
+        "at_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_9",
+        "at_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_premier",
+        "at_version": "eu-eurlex:31996l0071:1997-02-10"
+      },
+      {
+        "type": "removed",
+        "anchor": "annexe",
+        "at_version": "eu-eurlex:31996l0071:2020-07-30"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_premier",
         "at_version": "eu-eurlex:31996l0071:2020-07-30"
       },
       {
         "type": "inserted",
         "anchor": "art_1",
-        "at_version": "eu-eurlex:31996l0071:2020-07-30"
-      },
-      {
-        "type": "inserted",
-        "anchor": "art_2",
-        "at_version": "eu-eurlex:31996l0071:2020-07-30"
-      },
-      {
-        "type": "inserted",
-        "anchor": "art_3",
-        "at_version": "eu-eurlex:31996l0071:2020-07-30"
-      },
-      {
-        "type": "inserted",
-        "anchor": "art_4",
-        "at_version": "eu-eurlex:31996l0071:2020-07-30"
-      },
-      {
-        "type": "inserted",
-        "anchor": "art_5",
-        "at_version": "eu-eurlex:31996l0071:2020-07-30"
-      },
-      {
-        "type": "inserted",
-        "anchor": "art_6",
-        "at_version": "eu-eurlex:31996l0071:2020-07-30"
-      },
-      {
-        "type": "inserted",
-        "anchor": "art_7",
-        "at_version": "eu-eurlex:31996l0071:2020-07-30"
-      },
-      {
-        "type": "inserted",
-        "anchor": "art_8",
-        "at_version": "eu-eurlex:31996l0071:2020-07-30"
-      },
-      {
-        "type": "inserted",
-        "anchor": "art_9",
         "at_version": "eu-eurlex:31996l0071:2020-07-30"
       }
     ],

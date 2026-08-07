@@ -19,6 +19,30 @@
       "provisions": 1
     },
     {
+      "valid_from": "1995-01-01",
+      "valid_to": "2004-04-30",
+      "language": "en",
+      "provisions": 1
+    },
+    {
+      "valid_from": "1995-01-01",
+      "valid_to": "2004-04-30",
+      "language": "fr",
+      "provisions": 1
+    },
+    {
+      "valid_from": "2004-05-01",
+      "valid_to": "2006-12-31",
+      "language": "en",
+      "provisions": 16
+    },
+    {
+      "valid_from": "2004-05-01",
+      "valid_to": "2006-12-31",
+      "language": "fr",
+      "provisions": 16
+    },
+    {
       "valid_from": "2007-01-01",
       "valid_to": "2008-01-08",
       "language": "en",
@@ -92,8 +116,24 @@
     "art_9",
     "art_premier",
     "autorites_nationales_auxquelles_peuvent_etre_adressees_les_demandes_d_application_de_la_procedure_de_conciliation_visees_a_l_article_9",
+    "clanek_1",
+    "clanek_10",
+    "clanek_11",
+    "clanek_12",
+    "clanek_13",
+    "clanek_14",
+    "clanek_2",
+    "clanek_3",
+    "clanek_4",
+    "clanek_5",
+    "clanek_6",
+    "clanek_7",
+    "clanek_8",
+    "clanek_9",
     "document",
-    "national_authorities_to_which_requests_for_application_of_the_conciliation_procedure_referred_to_in_article_9_may_be_addressed"
+    "national_authorities_to_which_requests_for_application_of_the_conciliation_procedure_referred_to_in_article_9_may_be_addressed",
+    "priloha",
+    "vnitrostatni_organy_kterym_lze_podat_zadost_o_smirci_rizeni_podle_clanku_9"
   ],
   "relations": {
     "amends": [],

@@ -19,6 +19,30 @@
       "provisions": 1
     },
     {
+      "valid_from": "1995-01-01",
+      "valid_to": "2004-04-30",
+      "language": "en",
+      "provisions": 1
+    },
+    {
+      "valid_from": "1995-01-01",
+      "valid_to": "2004-04-30",
+      "language": "fr",
+      "provisions": 1
+    },
+    {
+      "valid_from": "2004-05-01",
+      "valid_to": "2009-04-13",
+      "language": "en",
+      "provisions": 7
+    },
+    {
+      "valid_from": "2004-05-01",
+      "valid_to": "2009-04-13",
+      "language": "fr",
+      "provisions": 7
+    },
+    {
       "valid_from": "2009-04-14",
       "valid_to": null,
       "language": "en",
@@ -32,6 +56,13 @@
     }
   ],
   "anchors": [
+    "1",
+    "2",
+    "3",
+    "3a",
+    "4",
+    "5",
+    "7",
     "document"
   ],
   "relations": {

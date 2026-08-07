@@ -3,6 +3,7 @@
   "schema": "lex-articles/1",
   "profiles": [
     "html-eu-tolerant/1",
+    "xhtml-eu-xlink-context/1",
     "xhtml-eu/1"
   ],
   "primary_language": "en",
@@ -650,6 +651,12 @@
           "valid_to": "2001-06-21",
           "text_sha256": "1366ba98667ef15044a6b2d094dd804af2548eb6893539b9f4daf2638d68750d",
           "in_version": "eu-eurlex:32001l0029:2001-05-22"
+        },
+        {
+          "valid_from": "2001-06-22",
+          "valid_to": "2017-10-09",
+          "text_sha256": "ad239fbf3e3701e2c53dc1b6af20780f9f3eb3e20123e63d14c4bc9cde2a7264",
+          "in_version": "eu-eurlex:32001l0029:2001-06-22"
         }
       ]
     }

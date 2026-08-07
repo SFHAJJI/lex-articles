@@ -1,0 +1,77 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32021r2139:2021-06-04",
+  "language": "fr",
+  "title": "Commission Delegated Regulation (EU) 2021/2139 of 4 June 2021 supplementing Regulation (EU) 2020/852",
+  "valid_from": "2021-06-04",
+  "valid_to": "2022-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32021r2139/versions/2021-06-04/fr.xml",
+    "sha256": "d3daadebb7ca8a89aa8254161cf7499c22a521e90d71671102321ba22c44a416",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32021R2139"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32021r2139:2021-06-04#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLes critères d’examen technique permettant de déterminer à quelles conditions on peut considérer qu’une activité économique contribue substantiellement à l’atténuation du changement climatique et ne cause de préjudice important à aucun des autres objectifs environnementaux énoncés à l’article 9 du règlement (UE) 2020/852 sont établis à l’annexe I du présent règlement.",
+      "text_sha256": "56a9d03536bc3c865651ef8921d84e2ca8ac3292b820da97e6e00daba5c49340",
+      "md_span": {
+        "start": 651,
+        "end": 1038
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32021r2139:2021-06-04#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLes critères d’examen technique permettant de déterminer à quelles conditions on peut considérer qu’une activité économique contribue substantiellement à l’adaptation au changement climatique et ne cause de préjudice important à aucun des autres objectifs environnementaux énoncés à l’article 9 du règlement (UE) 2020/852 sont établis à l’annexe II du présent règlement.",
+      "text_sha256": "89a2934774d2710ec1b9bc508051ef815cdcfc727e51abd1bf68f84445eaf79a",
+      "md_span": {
+        "start": 1071,
+        "end": 1452
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32021r2139:2021-06-04#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.\n\nIl est applicable à partir du 1er janvier 2022.",
+      "text_sha256": "602bef32f3aeed01054c38cdfd4eb43ec2427b118a1ff88f8fb32255c91f86b1",
+      "md_span": {
+        "start": 1485,
+        "end": 1675
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

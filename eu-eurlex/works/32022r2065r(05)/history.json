@@ -2,21 +2,32 @@
   "lex_work_id": "eu-eurlex:32022r2065r(05)",
   "schema": "lex-articles/1",
   "profiles": [
-    "html-eu-tolerant/1"
+    "html-eu-tolerant/1",
+    "xhtml-eu-xlink-context/1"
   ],
-  "primary_language": "fr",
+  "primary_language": "en",
   "anchors": {
     "document": [
       {
         "valid_from": "2024-07-04",
         "valid_to": null,
-        "text_sha256": "806b7f217d661f619871c075245d2c8befb98afb9c584f88e82d69446258e734",
+        "text_sha256": "3423649c3a8ab335dd15b032666134018de2d75dd4b2bda8b27ba2ddae0c9743",
         "in_version": "eu-eurlex:32022r2065r(05):2024-07-04"
       }
     ]
   },
   "anchor_events": [],
   "anchors_by_language": {
+    "en": {
+      "document": [
+        {
+          "valid_from": "2024-07-04",
+          "valid_to": null,
+          "text_sha256": "3423649c3a8ab335dd15b032666134018de2d75dd4b2bda8b27ba2ddae0c9743",
+          "in_version": "eu-eurlex:32022r2065r(05):2024-07-04"
+        }
+      ]
+    },
     "fr": {
       "document": [
         {
@@ -29,6 +40,7 @@
     }
   },
   "anchor_events_by_language": {
+    "en": [],
     "fr": []
   }
 }

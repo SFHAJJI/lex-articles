@@ -1,0 +1,111 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32015r2378:2015-12-15",
+  "language": "en",
+  "title": "Commission Implementing Regulation (EU) 2015/2378 of 15 December 2015 laying down detailed…",
+  "valid_from": "2015-12-15",
+  "valid_to": "2016-12-31",
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32015r2378/versions/2015-12-15/en.xml",
+    "sha256": "1ac82cf1debd6a165f2f2ee6ba463c63b4ba59796863662d144b432cbc6e5f7c",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32015R2378"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32015r2378:2015-12-15#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. In regard to the forms to be used, ‘field’ means a location in a form where information to be exchanged pursuant to Directive 2011/16/EU may be recorded.\n\n2. The form to be used for requests for information and for administrative enquiries pursuant to Article 5 of Directive 2011/16/EU and their replies, acknowledgments, requests for additional background information, inability or refusal pursuant to Article 7 of that Directive shall comply with Annex I to this Regulation.\n\n3. The form to be used for spontaneous information and its acknowledgment pursuant to Articles 9 and 10 of Directive 2011/16/EU shall comply with Annex II to this Regulation.\n\n4. The form to be used for requests for administrative notification pursuant to Article 13(1) and 13(2) of Directive 2011/16/EU and their responses pursuant to Article 13(3) of that Directive shall comply with Annex III to this Regulation.\n\n5. The form to be used for feedback information pursuant to Article 14(1) of Directive 2011/16/EU shall comply with Annex IV to this Regulation.",
+      "text_sha256": "093ebaed6d5084ec80196675ad0d2a314cbf159ae58939a4ffc35614de6875e0",
+      "md_span": {
+        "start": 642,
+        "end": 1695
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32015r2378:2015-12-15#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. The computerised format to be used for the mandatory automatic exchange of information pursuant to Article 8(1) of Directive 2011/16/EU shall comply with Annex V to this Regulation.\n\n2. The computerised format to be used for the mandatory automatic exchange of information pursuant to Article 8(3a) of Directive 2011/16/EU shall comply with Annex VI to this Regulation.",
+      "text_sha256": "bfe4541100b9381dc6632c67fae77fc4f49de6b798b77b1a165ad1854c3ea9d5",
+      "md_span": {
+        "start": 1728,
+        "end": 2111
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32015r2378:2015-12-15#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\n1. The reports, statements and other documents referred to in the information communicated pursuant to Directive 2011/16/EU may be sent using means of communication other than the CCN network.\n\n2. Where the information referred to in Directive 2011/16/EU is not exchanged by electronic means using the CCN network, and unless otherwise agreed bilaterally, the information shall be provided under cover of a letter describing the information communicated and duly signed by the competent authority communicating the information.",
+      "text_sha256": "de7276727ca6ba5a6c2983559a516840bd08ae84cf625462bd5ec86e115e6a15",
+      "md_span": {
+        "start": 2144,
+        "end": 2682
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32015r2378:2015-12-15#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\nImplementing Regulation (EU) No 1156/2012 is repealed with effect from 1 January 2016.\n\nReferences made to the repealed Implementing Regulation shall be construed as references to this Regulation.",
+      "text_sha256": "3784b9e8f55dc6cf0e308f3adb0097d3bb9a9cef188e531e5d0fcae3b3cd34fa",
+      "md_span": {
+        "start": 2715,
+        "end": 2922
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32015r2378:2015-12-15#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\nThis Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.\n\nIt shall apply from 1 January 2016.",
+      "text_sha256": "fb9c1dc7df4af6d9352770205a79eec0cf7e80900621c34034ec7ffd78f7b411",
+      "md_span": {
+        "start": 2955,
+        "end": 3139
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

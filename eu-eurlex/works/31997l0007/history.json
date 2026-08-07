@@ -3,6 +3,7 @@
   "schema": "lex-articles/1",
   "profiles": [
     "html-eu-tolerant/1",
+    "xhtml-eu-xlink-context/1",
     "xhtml-eu/1"
   ],
   "primary_language": "en",
@@ -173,6 +174,12 @@
         "valid_to": "2002-10-08",
         "text_sha256": "36ce516a7919e018d5563e09bbdd200659018455923b2f86308ba157835b8e57",
         "in_version": "eu-eurlex:31997l0007:1997-05-20"
+      },
+      {
+        "valid_from": "2002-10-09",
+        "valid_to": "2005-06-11",
+        "text_sha256": "0e81e7020e360fd1170f51217e42243983907da1e00eebd79cba821135c7a72b",
+        "in_version": "eu-eurlex:31997l0007:2002-10-09"
       },
       {
         "valid_from": "2014-06-13",
@@ -588,6 +595,12 @@
           "in_version": "eu-eurlex:31997l0007:1997-05-20"
         },
         {
+          "valid_from": "2002-10-09",
+          "valid_to": "2005-06-11",
+          "text_sha256": "0e81e7020e360fd1170f51217e42243983907da1e00eebd79cba821135c7a72b",
+          "in_version": "eu-eurlex:31997l0007:2002-10-09"
+        },
+        {
           "valid_from": "2014-06-13",
           "valid_to": null,
           "text_sha256": "9b65e861ca662c241253e6e7b2a69278e4a3981f1343c240488470cf2dc6b9b9",
@@ -776,6 +789,12 @@
           "valid_to": "2002-10-08",
           "text_sha256": "7ce44b572156bfeb88d2f1b2f67512a8cfe49e4005c387f97bb2f896462d197d",
           "in_version": "eu-eurlex:31997l0007:1997-05-20"
+        },
+        {
+          "valid_from": "2002-10-09",
+          "valid_to": "2005-06-11",
+          "text_sha256": "ffb741c266fb4a35e049f0306eb21f511da56f4c21904787d524538eeaa1bf0d",
+          "in_version": "eu-eurlex:31997l0007:2002-10-09"
         },
         {
           "valid_from": "2014-06-13",

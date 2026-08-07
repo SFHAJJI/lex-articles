@@ -7,6 +7,18 @@
   ],
   "versions": [
     {
+      "valid_from": "2015-11-11",
+      "valid_to": "2015-11-11",
+      "language": "en",
+      "provisions": 1
+    },
+    {
+      "valid_from": "2015-11-11",
+      "valid_to": "2015-11-11",
+      "language": "fr",
+      "provisions": 1
+    },
+    {
       "valid_from": "2015-11-12",
       "valid_to": null,
       "language": "en",
@@ -73,7 +85,8 @@
     "art_7",
     "art_8",
     "art_9",
-    "art_premier"
+    "art_premier",
+    "document"
   ],
   "relations": {
     "amends": [],

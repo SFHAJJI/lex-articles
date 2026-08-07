@@ -1,0 +1,623 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32023r1543:2023-07-12",
+  "language": "en",
+  "title": "Regulation (EU) 2023/1543",
+  "valid_from": "2023-07-12",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32023r1543/versions/2023-07-12/en.xml",
+    "sha256": "01c1ddc89bea91c3b9694349580f1295203a0e4faaacd053e1570ec406b39671",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1543"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 1\n\n1. This Regulation lays down the rules under which an authority of a Member State, in criminal proceedings, may issue a European Production Order or a European Preservation Order and thereby order a service provider offering services in the Union and established in another Member State, or, if not established, represented by a legal representative in another Member State, to produce or to preserve electronic evidence regardless of the location of the data.\n\nThis Regulation is without prejudice to the powers of national authorities to address service providers established or represented on their territory for the purpose of ensuring that they comply with national measures similar to those referred to in the first subparagraph.\n\n2. The issuing of a European Production Order or of a European Preservation Order may also be requested by a suspect or an accused person, or by a lawyer on that person’s behalf within the framework of applicable defence rights in accordance with national criminal procedural law.\n\n3. This Regulation shall not have the effect of modifying the obligation to respect the fundamental rights and legal principles as enshrined in the Charter and in Article 6 TEU, and any obligations applicable to law enforcement authorities or judicial authorities in this respect shall remain unaffected. This Regulation applies without prejudice to fundamental principles, in particular the freedom of expression and information, including the freedom and pluralism of the media, respect for private and family life, the protection of personal data, as well as the right to effective judicial protection.",
+      "text_sha256": "18f14a96fa4cf8fe2aae680b521e5f93ed9c9c67ccfe01fa1aef66b899bb9594",
+      "md_span": {
+        "start": 570,
+        "end": 2205
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\n1. This Regulation applies to service providers which offer services in the Union.\n\n2. European Production Orders and European Preservation Orders may be issued only in the framework and for the purposes of criminal proceedings, and for the execution of a custodial sentence or a detention order of at least four months, following criminal proceedings, imposed by a decision that was not rendered in absentia, in cases where the person convicted absconded from justice. Such orders may also be issued in proceedings relating to a criminal offence for which a legal person could be held liable or punished in the issuing State.\n\n3. European Production Orders and European Preservation Orders may be issued only for data pertaining to the services referred to in Article 3, point (3), offered in the Union.\n\n4. This Regulation does not apply to proceedings initiated for the purpose of providing mutual legal assistance to another Member State or a third country.",
+      "text_sha256": "c3c9b9795186e2a9a598ba9aa0887261f0ce1450b23aaf3aaecac7c5ce19b04d",
+      "md_span": {
+        "start": 2238,
+        "end": 3210
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_3",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 3\n\nFor the purpose of this Regulation, the following definitions apply:\n\n| (1) | ‘European Production Order’ means a decision ordering the production of electronic evidence, issued or validated by a judicial authority of a Member State in accordance with Article 4(1), (2), (4) and (5), and addressed to a designated establishment or to a legal representative of a service provider offering services in the Union, where that designated establishment or legal representative is located in another Member State bound by this Regulation; |\n| --- | --- |\n\n| (2) | ‘European Preservation Order’ means a decision which orders the preservation of electronic evidence for the purposes of a subsequent request for production, and which is issued or validated by a judicial authority of a Member State in accordance with Article 4(3), (4) and (5), and addressed to a designated establishment or to a legal representative of a service provider offering services in the Union, where that designated establishment or legal representative is located in another Member State bound by this Regulation; |\n| --- | --- |\n\n| (3) | ‘service provider’ means any natural or legal person that provides one or more of the following categories of services, with the exception of financial services as referred to in Article 2(2), point (b), of Directive 2006/123/EC of the European Parliament and of the Council (30):(a)electronic communications services as defined in Article 2, point (4), of Directive (EU) 2018/1972;(b)internet domain name and IP numbering services, such as IP address assignment, domain name registry, domain name registrar and domain name-related privacy and proxy services;(c)other information society services as referred to in Article 1(1), point (b), of Directive (EU) 2015/1535 that:(i)enable their users to communicate with each other; or(ii)make it possible to store or otherwise process data on behalf of the users to whom the service is provided, provided that the storage of data is a defining component of the service provided to the user; |\n| --- | --- |\n| (a) | electronic communications services as defined in Article 2, point (4), of Directive (EU) 2018/1972; |\n| (b) | internet domain name and IP numbering services, such as IP address assignment, domain name registry, domain name registrar and domain name-related privacy and proxy services; |\n| (c) | other information society services as referred to in Article 1(1), point (b), of Directive (EU) 2015/1535 that:(i)enable their users to communicate with each other; or(ii)make it possible to store or otherwise process data on behalf of the users to whom the service is provided, provided that the storage of data is a defining component of the service provided to the user; |\n| (i) | enable their users to communicate with each other; or |\n| (ii) | make it possible to store or otherwise process data on behalf of the users to whom the service is provided, provided that the storage of data is a defining component of the service provided to the user; |\n\n| (4) | ‘offering services in the Union’ means:(a)enabling natural or legal persons in a Member State to use the services listed in point (3); and(b)having a substantial connection, based on specific factual criteria, to the Member State referred to in point (a); such a substantial connection is to be considered to exist where the service provider has an establishment in a Member State, or, in the absence of such an establishment, where there is a significant number of users in one or more Member States, or where there is targeting of activities towards one or more Member States; |\n| --- | --- |\n| (a) | enabling natural or legal persons in a Member State to use the services listed in point (3); and |\n| (b) | having a substantial connection, based on specific factual criteria, to the Member State referred to in point (a); such a substantial connection is to be considered to exist where the service provider has an establishment in a Member State, or, in the absence of such an establishment, where there is a significant number of users in one or more Member States, or where there is targeting of activities towards one or more Member States; |\n\n| (5) | ‘establishment’ means an entity that actually pursues an economic activity for an indefinite period through a stable infrastructure from where the business of providing services is carried out or the business is managed; |\n| --- | --- |\n\n| (6) | ‘designated establishment’ means an establishment with legal personality designated in writing by a service provider established in a Member State taking part in a legal instrument referred to in Article 1(2) of Directive (EU) 2023/1544, for the purposes referred to in Article 1(1) and Article 3(1) of that Directive; |\n| --- | --- |\n\n| (7) | ‘legal representative’ means a natural or legal person appointed in writing by a service provider not established in a Member State taking part in a legal instrument referred to in Article 1(2) of Directive (EU) 2023/1544, for the purposes referred to in Article 1(1) and Article 3(1) of that Directive; |\n| --- | --- |\n\n| (8) | ‘electronic evidence’ means subscriber data, traffic data or content data stored by or on behalf of a service provider, in an electronic form, at the time of the receipt of a European Production Order Certificate (EPOC) or of a European Preservation Order Certificate (EPOC-PR); |\n| --- | --- |\n\n| (9) | ‘subscriber data’ means any data held by a service provider relating to the subscription to its services, pertaining to:(a)the identity of a subscriber or customer, such as the provided name, date of birth, postal or geographic address, billing and payment data, telephone number, or email address;(b)the type of service and its duration, including technical data and data identifying related technical measures or interfaces used by or provided to the subscriber or customer at the moment of initial registration or activation, and data related to the validation of the use of the service, excluding passwords or other authentication means used instead of a password that are provided by a user, or created at the request of a user; |\n| --- | --- |\n| (a) | the identity of a subscriber or customer, such as the provided name, date of birth, postal or geographic address, billing and payment data, telephone number, or email address; |\n| (b) | the type of service and its duration, including technical data and data identifying related technical measures or interfaces used by or provided to the subscriber or customer at the moment of initial registration or activation, and data related to the validation of the use of the service, excluding passwords or other authentication means used instead of a password that are provided by a user, or created at the request of a user; |\n\n| (10) | ‘data requested for the sole purpose of identifying the user’ means IP addresses and, where necessary, the relevant source ports and time stamp, namely the date and time, or technical equivalents of those identifiers and related information, where requested by law enforcement authorities or by judicial authorities for the sole purpose of identifying the user in a specific criminal investigation; |\n| --- | --- |\n\n| (11) | ‘traffic data’ means data related to the provision of a service offered by a service provider which serve to provide context or additional information about such service and are generated or processed by an information system of the service provider, such as the source and destination of a message or another type of interaction, the location of the device, date, time, duration, size, route, format, the protocol used and the type of compression, and other electronic communications metadata and data, other than subscriber data, relating to the commencement and termination of a user access session to a service, such as the date and time of use, the log-in to and log-off from the service; |\n| --- | --- |\n\n| (12) | ‘content data’ means any data in a digital format, such as text, voice, videos, images and sound, other than subscriber data or traffic data; |\n| --- | --- |\n\n| (13) | ‘information system’ means an information system as defined in Article 2, point (a), of Directive 2013/40/EU of the European Parliament and of the Council (31); |\n| --- | --- |\n\n| (14) | ‘issuing State’ means the Member State in which the European Production Order or the European Preservation Order is issued; |\n| --- | --- |\n\n| (15) | ‘issuing authority’ means the competent authority in the issuing State, which, in accordance with Article 4, can issue a European Production Order or a European Preservation Order; |\n| --- | --- |\n\n| (16) | ‘enforcing State’ means the Member State in which the designated establishment is established or the legal representative resides and to which a European Production Order and an EPOC or a European Preservation Order and an EPOC-PR are transmitted by the issuing authority for notification or for enforcement in accordance with this Regulation; |\n| --- | --- |\n\n| (17) | ‘enforcing authority’ means the authority in the enforcing State, which, in accordance with the national law of that State, is competent to receive a European Production Order and an EPOC or a European Preservation Order and an EPOC-PR transmitted by the issuing authority for notification or for enforcement in accordance with this Regulation; |\n| --- | --- |\n\n| (18) | ‘emergency case’ means a situation in which there is an imminent threat to the life, physical integrity or safety of a person, or to a critical infrastructure, as defined in Article 2, point (a), of Directive 2008/114/EC, where the disruption or destruction of such critical infrastructure would result in an imminent threat to the life, physical integrity or safety of a person, including through serious harm to the provision of basic supplies to the population or to the exercise of the core functions of the State; |\n| --- | --- |\n\n| (19) | ‘controller’ means controller as defined in Article 4, point (7), of Regulation (EU) 2016/679; |\n| --- | --- |\n\n| (20) | ‘processor’ means processor as defined in Article 4, point (8), of Regulation (EU) 2016/679; |\n| --- | --- |\n\n| (21) | ‘decentralised IT system’ means a network of IT systems and interoperable access points, operating under the individual responsibility and management of each Member State, Union agency or body, which enables the cross-border exchange of information to take place in a secure and reliable manner. |\n| --- | --- |",
+      "text_sha256": "6284efabe2bfcc9049aac92eb51a701ccaf6f012ca89eb24c5e4307d8f5aec70",
+      "md_span": {
+        "start": 3243,
+        "end": 13745
+      },
+      "citations": [
+        {
+          "href": "#ntr30-L_2023191EN.01011801-E0030",
+          "text": "(30)"
+        },
+        {
+          "href": "#ntr31-L_2023191EN.01011801-E0031",
+          "text": "(31)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_4",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 4\n\n1. A European Production Order to obtain subscriber data or to obtain data requested for the sole purpose of identifying the user, as defined in Article 3, point (10), may be issued only by:\n\n| (a) | a judge, a court, an investigating judge or a public prosecutor competent in the case concerned; or |\n| --- | --- |\n\n| (b) | any other competent authority as defined by the issuing State which, in the case concerned, is acting in its capacity as an investigating authority in criminal proceedings with competence to order the gathering of evidence in accordance with national law; in such a case, the European Production Order shall be validated, after examination of its conformity with the conditions for issuing a European Production Order under this Regulation, by a judge, a court, an investigating judge or a public prosecutor in the issuing State. |\n| --- | --- |\n\n2. A European Production Order to obtain traffic data, except for data requested for the sole purpose of identifying the user as defined in Article 3, point (10), or to obtain content data may be issued only by:\n\n| (a) | a judge, a court or an investigating judge competent in the case concerned; or |\n| --- | --- |\n\n| (b) | any other competent authority as defined by the issuing State which, in the case concerned, is acting in its capacity as an investigating authority in criminal proceedings with competence to order the gathering of evidence in accordance with national law; in such a case, the European Production Order shall be validated, after examination of its conformity with the conditions for issuing a European Production Order under this Regulation, by a judge, a court or an investigating judge in the issuing State. |\n| --- | --- |\n\n3. A European Preservation Order for data of any category may be issued only by:\n\n| (a) | a judge, a court, an investigating judge or a public prosecutor competent in the case concerned; or |\n| --- | --- |\n\n| (b) | any other competent authority as defined by the issuing State which, in the case concerned, is acting in its capacity as an investigating authority in criminal proceedings with competence to order the gathering of evidence in accordance with national law; in such a case, the European Preservation Order shall be validated, after examination of its conformity with the conditions for issuing a European Preservation Order under this Regulation, by a judge, a court, an investigating judge or a public prosecutor in the issuing State. |\n| --- | --- |\n\n4. Where a European Production Order or a European Preservation Order has been validated by a judicial authority pursuant to paragraph 1, point (b), paragraph 2, point (b), or paragraph 3, point (b), that authority may also be regarded as an issuing authority for the purposes of transmission of the EPOC and the EPOC-PR.\n\n5. In a validly established emergency case, as defined in Article 3, point (18), the competent authorities referred to in paragraph 1, point (b), and in paragraph 3, point (b), of this Article may exceptionally issue a European Production Order for subscriber data or for data requested for the sole purpose of identifying the user as defined in Article 3, point (10), or a European Preservation Order, without prior validation of the order concerned, where validation cannot be obtained in time and where those authorities could issue an order in a similar domestic case without prior validation. The issuing authority shall seek ex post validation of the order concerned without undue delay, at the latest within 48 hours. Where such ex post validation of the order concerned is not granted, the issuing authority shall withdraw the order immediately and shall delete or otherwise restrict the use of any data that were obtained.\n\n6. Each Member State may designate one or more central authorities to be responsible for the administrative transmission of EPOCs and EPOC-PRs, of European Production Orders and European Preservation Orders and of notifications, and for the receipt of data and notifications as well as for the transmission of other official correspondence relating to such certificates or orders.",
+      "text_sha256": "23c7487face600d58260efed9868143660c7eae300bda4bb4db0dedd6864f8d8",
+      "md_span": {
+        "start": 13778,
+        "end": 17914
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_5",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 5\n\n1. An issuing authority may only issue a European Production Order where the conditions set out in this Article are fulfilled.\n\n2. A European Production Order shall be necessary for and proportionate to the purpose of the proceedings referred to in Article 2(3), taking into account the rights of the suspect or the accused person, and may only be issued if a similar order could have been issued under the same conditions in a similar domestic case.\n\n3. A European Production Order to obtain subscriber data or to obtain data requested for the sole purpose of identifying the user as defined in Article 3, point (10), may be issued for all criminal offences and for the execution of a custodial sentence or a detention order of at least four months, following criminal proceedings, imposed by a decision that was not rendered in absentia, in cases where the person convicted absconded from justice.\n\n4. A European Production Order to obtain traffic data, except for data requested for the sole purpose of identifying the user as defined in Article 3, point (10), of this Regulation or to obtain content data shall only be issued:\n\n| (a) | for criminal offences punishable in the issuing State by a custodial sentence of a maximum of at least three years; or |\n| --- | --- |\n\n| (b) | for the following offences, if they are wholly or partly committed by means of an information system:(i)offences as defined in Articles 3 to 8 of Directive (EU) 2019/713 of the European Parliament and of the Council (32);(ii)offences as defined in Articles 3 to 7 of Directive 2011/93/EU;(iii)offences as defined in Articles 3 to 8 of Directive 2013/40/EU; |\n| --- | --- |\n| (i) | offences as defined in Articles 3 to 8 of Directive (EU) 2019/713 of the European Parliament and of the Council (32); |\n| (ii) | offences as defined in Articles 3 to 7 of Directive 2011/93/EU; |\n| (iii) | offences as defined in Articles 3 to 8 of Directive 2013/40/EU; |\n\n| (c) | for criminal offences as defined in Articles 3 to 12 and 14 of Directive (EU) 2017/541; |\n| --- | --- |\n\n| (d) | for the execution of a custodial sentence or a detention order of at least four months, following criminal proceedings, imposed by a decision that was not rendered in absentia, in cases where the person convicted absconded from justice, for criminal offences referred to in points (a), (b) and (c) of this paragraph. |\n| --- | --- |\n\n5. A European Production Order shall include the following information:\n\n| (a) | the issuing authority and, where applicable, the validating authority; |\n| --- | --- |\n\n| (b) | the addressee of the European Production Order as referred to in Article 7; |\n| --- | --- |\n\n| (c) | the user, except where the sole purpose of the order is to identify the user, or any other unique identifier such as user name, login ID or account name to determine the data that are being requested; |\n| --- | --- |\n\n| (d) | the requested data category as defined in Article 3, points (9) to (12); |\n| --- | --- |\n\n| (e) | if applicable, the time range of the data for which production is requested; |\n| --- | --- |\n\n| (f) | the applicable provisions of the criminal law of the issuing State; |\n| --- | --- |\n\n| (g) | in emergency cases as defined in Article 3, point (18), the duly justified reasons for the emergency; |\n| --- | --- |\n\n| (h) | in cases where the European Production Order is directly addressed to the service provider that stores or otherwise processes the data on behalf of the controller, a confirmation that the conditions set out in paragraph 6 of this Article are met; |\n| --- | --- |\n\n| (i) | the grounds for determining that the European Production Order fulfils the conditions of necessity and proportionality under paragraph 2 of this Article; |\n| --- | --- |\n\n| (j) | a summary description of the case. |\n| --- | --- |\n\n6. A European Production Order shall be addressed to the service provider acting as controller in accordance with Regulation (EU) 2016/679.\n\nBy way of exception, the European Production Order may be directly addressed to the service provider that stores or otherwise processes the data on behalf of the controller, where:\n\n| (a) | the controller cannot be identified despite reasonable efforts on the part of the issuing authority; or |\n| --- | --- |\n\n| (b) | addressing the controller might be detrimental to the investigation. |\n| --- | --- |\n\n7. In accordance with Regulation (EU) 2016/679, the processor that stores or otherwise processes the data on behalf of the controller shall inform the controller about the production of the data unless the issuing authority has requested the service provider to refrain from informing the controller, for as long as necessary and proportionate, in order not to obstruct the relevant criminal proceedings. In that case, the issuing authority shall indicate in the case file the reasons for the delay in informing the controller. A short justification shall also be added in the EPOC.\n\n8. Where the data are stored or otherwise processed as part of an infrastructure provided by a service provider to a public authority, a European Production Order may only be issued where the public authority for which the data are stored or otherwise processed is located in the issuing State.\n\n9. In cases where data protected by professional privilege under the law of the issuing State are stored or otherwise processed by a service provider as part of an infrastructure provided to professionals covered by professional privilege (‘privileged professional’), in their business capacity, a European Production Order to obtain traffic data, except for data requested for the sole purpose of identifying the user as defined in Article 3, point (10), or to obtain content data may only be issued:\n\n| (a) | where the privileged professional resides in the issuing State; |\n| --- | --- |\n\n| (b) | where addressing the privileged professional might be detrimental to the investigation; or |\n| --- | --- |\n\n| (c) | where the privileges were waived in accordance with the applicable law. |\n| --- | --- |\n\n10. If the issuing authority has reasons to believe that the traffic data, except for data requested for the sole purpose of identifying the user as defined in Article 3, point (10), or the content data requested by the European Production Order are protected by immunities or privileges granted under the law of the enforcing State, or that those data are subject in that State to rules on determination and limitation of criminal liability relating to freedom of the press or freedom of expression in other media, the issuing authority may seek clarification before issuing the European Production Order, including by consulting the competent authorities of the enforcing State, either directly or via Eurojust or the European Judicial Network.\n\nThe issuing authority shall not issue a European Production Order if it finds that the requested traffic data, except for data requested for the sole purpose of identifying the user as defined in Article 3, point (10), or the content data are protected by immunities or privileges granted under the law of the enforcing State, or that those data are subject in that State to rules on determination and limitation of criminal liability relating to freedom of the press and freedom of expression in other media.",
+      "text_sha256": "4ad617baeffdbfb4565a17a3202e251e089ae054fd7fc15ada6f26a95d09286a",
+      "md_span": {
+        "start": 17947,
+        "end": 25265
+      },
+      "citations": [
+        {
+          "href": "#ntr32-L_2023191EN.01011801-E0032",
+          "text": "(32)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_6",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 6\n\n1. An issuing authority may only issue a European Preservation Order where the conditions set out in this Article are fulfilled. Article 5(8) shall apply mutatis mutandis.\n\n2. A European Preservation Order shall be necessary for and proportionate to the purpose of preventing the removal, deletion or alteration of data with a view to issuing a subsequent request for production of those data via mutual legal assistance, a European Investigation Order (EIO) or a European Production Order, taking into account the rights of the suspect or the accused person.\n\n3. A European Preservation Order may be issued for all criminal offences, if it could have been issued under the same conditions in a similar domestic case, and for the execution of a custodial sentence or a detention order of at least four months, following criminal proceedings, imposed by a decision that was not rendered in absentia, in cases where the person convicted absconded from justice.\n\n4. A European Preservation Order shall include the following information:\n\n| (a) | the issuing authority and, where applicable, the validating authority; |\n| --- | --- |\n\n| (b) | the addressee of the European Preservation Order as referred to in Article 7; |\n| --- | --- |\n\n| (c) | the user, except where the sole purpose of the order is to identify the user, or any other unique identifier such as user name, login ID or account name to determine the data for which preservation is requested; |\n| --- | --- |\n\n| (d) | the requested data category as defined in Article 3, points (9) to (12); |\n| --- | --- |\n\n| (e) | if applicable, the time range of the data for which preservation is requested; |\n| --- | --- |\n\n| (f) | the applicable provisions of the criminal law of the issuing State; |\n| --- | --- |\n\n| (g) | the grounds for determining that the European Preservation Order fulfils the conditions of necessity and proportionality under paragraph 2 of this Article. |\n| --- | --- |",
+      "text_sha256": "8a8988dc7538290731a401979e37aae9aa7c320c019b5df525e290587b55c337",
+      "md_span": {
+        "start": 25298,
+        "end": 27254
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_7",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 7\n\n1. European Production Orders and European Preservation Orders shall be addressed directly to a designated establishment or to a legal representative of the service provider concerned.\n\n2. Exceptionally, in emergency cases as defined in Article 3, point (18), where the designated establishment or the legal representative of a service provider does not react to an EPOC or an EPOC-PR within the deadlines, that EPOC or EPOC-PR may be addressed to any other establishment or legal representative of the service provider in the Union.",
+      "text_sha256": "866f3fe95e5fd3c0b58f8ab0321fa5060ac0e5a11653987935be856abb6f22f7",
+      "md_span": {
+        "start": 27287,
+        "end": 27831
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_8",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 8\n\n1. Where a European Production Order is issued to obtain traffic data, except for data requested for the sole purpose of identifying the user as defined in Article 3, point (10), or to obtain content data, the issuing authority shall notify the enforcing authority by transmitting the EPOC to that authority at the same time as it transmits the EPOC to the addressee in accordance with Article 9(1) and (2).\n\n2. Paragraph 1 shall not apply if, at the time of issuing the order, the issuing authority has reasonable grounds to believe that:\n\n| (a) | the offence has been committed, is being committed or is likely to be committed in the issuing State; and |\n| --- | --- |\n\n| (b) | the person whose data are requested resides in the issuing State. |\n| --- | --- |\n\n3. When transmitting the EPOC as referred to in paragraph 1 of this Article to the enforcing authority, the issuing authority shall, where appropriate, include any additional information that could be needed for the evaluation of the possibility of raising a ground for refusal in accordance with Article 12.\n\n4. The notification to the enforcing authority referred to in paragraph 1 of this Article shall have a suspensive effect on the obligations of the addressee as set out in Article 10(2), except in emergency cases as defined in Article 3, point (18).",
+      "text_sha256": "05fbf4b6f9d36ff4b824c4dac94ec5bc46f12e9c28bc284c9024ad6819535409",
+      "md_span": {
+        "start": 27864,
+        "end": 29196
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_9",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 9\n\n1. A European Production Order or a European Preservation Order shall be transmitted to the addressee as defined in Article 7, through an EPOC or through an EPOC-PR.\n\nThe issuing authority or, where applicable, the validating authority shall complete the EPOC set out in Annex I or the EPOC-PR set out in Annex II, shall sign it and shall certify that its content is accurate and correct.\n\n2. An EPOC shall contain the information listed in Article 5(5), points (a) to (h), including sufficient information to allow the addressee to identify and contact the issuing authority and the enforcing authority, if necessary.\n\nWhere a notification to the enforcing authority is required pursuant to Article 8, the EPOC transmitted to that authority shall contain the information listed in Article 5(5), points (a) to (j).\n\n3. An EPOC-PR shall contain the information listed in Article 6(4), points (a) to (f), including sufficient information to allow the addressee to identify and contact the issuing authority.\n\n4. Where needed, the EPOC or the EPOC-PR shall be translated into an official language of the Union accepted by the addressee as provided for in Article 4 of Directive (EU) 2023/1544. Where no language has been specified by the service provider, the EPOC or the EPOC-PR shall be translated into an official language of the Member State where the designated establishment or the legal representative of the service provider is located.\n\nWhere a notification to the enforcing authority is required pursuant to Article 8, the EPOC to be transmitted to that authority shall be translated into an official language of the enforcing State or into another official language of the Union accepted by that State.",
+      "text_sha256": "4cf7e6adf5b35d5ddf686d2662688434e9c414266a26e929131ddabbcbecfd5f",
+      "md_span": {
+        "start": 29229,
+        "end": 30950
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_10",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 10\n\n1. Upon receipt of an EPOC, the addressee shall act expeditiously to preserve the data requested.\n\n2. Where a notification to the enforcing authority is required pursuant to Article 8 and that authority has not raised any ground for refusal in accordance with Article 12 within 10 days following receipt of the EPOC, the addressee shall ensure that the requested data are transmitted directly to the issuing authority or the law enforcement authorities, as indicated in the EPOC, at the end of that 10-day period. Where the enforcing authority already before the end of that 10-day period confirms to the issuing authority and the addressee that it will not raise any ground for refusal, the addressee shall act as soon as possible upon such confirmation and at the latest at the end of that 10-day period.\n\n3. Where a notification to the enforcing authority is not required pursuant to Article 8, upon receipt of an EPOC, the addressee shall ensure that the requested data are transmitted directly to the issuing authority or the law enforcement authorities, as indicated in the EPOC, at the latest within 10 days following receipt of the EPOC.\n\n4. In emergency cases, the addressee shall transmit the requested data without undue delay, at the latest within eight hours following receipt of the EPOC. Where a notification to the enforcing authority is required pursuant to Article 8, the enforcing authority may, if it decides to raise a ground for refusal in accordance with Article 12(1), without delay and at the latest within 96 hours following receipt of the notification, notify the issuing authority and the addressee that it objects to the use of the data or that the data may only be used under conditions which it shall specify. Where a ground for refusal is raised by the enforcing authority, if the data have already been transmitted by the addressee to the issuing authority, the issuing authority shall delete or otherwise restrict the use of the data or, in the event that the enforcing authority has specified conditions, the issuing authority shall comply with those conditions when using the data.\n\n5. Where the addressee considers, based solely on the information contained in the EPOC, that the execution of the EPOC could interfere with immunities or privileges, or with rules on the determination or limitation of criminal liability that relate to freedom of the press or freedom of expression in other media, under the law of the enforcing State, the addressee shall inform the issuing authority and the enforcing authority using the form set out in Annex III.\n\nWhere no notification to the enforcing authority took place pursuant to Article 8, the issuing authority shall take the information referred to in the first subparagraph of this paragraph into account, and shall decide, on its own initiative or at the request of the enforcing authority, whether to withdraw, adapt or maintain the European Production Order.\n\nWhere a notification to the enforcing authority took place pursuant to Article 8, the issuing authority shall take the information referred to in the first subparagraph of this paragraph into account, and shall decide whether to withdraw, adapt or maintain the European Production Order. The enforcing authority may decide to raise the grounds for refusal set out in Article 12.\n\n6. Where the addressee cannot comply with its obligation to produce the requested data because the EPOC is incomplete, contains manifest errors or does not contain sufficient information to execute the EPOC, the addressee shall, without undue delay, inform the issuing authority and, where a notification to the enforcing authority took place pursuant to Article 8, the enforcing authority referred to in the EPOC, and seek clarification, using the form set out in Annex III. At the same time, the addressee shall inform the issuing authority of whether identification of the data requested and preservation of those data as set out in paragraph 9 of this Article was possible.\n\nThe issuing authority shall react expeditiously and at the latest within five days following receipt of the form. The addressee shall ensure that it can receive the necessary clarification or any correction provided by the issuing authority, in order for the addressee to fulfil its obligations set out in paragraphs 1 to 4. The obligations set out in paragraphs 1 to 4 shall not apply until such clarification or correction is provided by the issuing authority or the enforcing authority.\n\n7. Where the addressee cannot comply with its obligation to produce the requested data because of a de facto impossibility due to circumstances not attributable to the addressee, the addressee shall, without undue delay, inform the issuing authority and, where a notification to the enforcing authority took place pursuant to Article 8, the enforcing authority referred to in the EPOC, explaining the reasons for such a de facto impossibility, using the form set out in Annex III. Where the issuing authority concludes that there is such a de facto impossibility, it shall inform the addressee, and, where a notification to the enforcing authority took place pursuant to Article 8, the enforcing authority, that the EPOC no longer needs to be executed.\n\n8. In all cases where the addressee does not provide the requested data, does not provide the requested data exhaustively or does not provide the requested data within the specified deadline, for reasons other than those referred to in paragraphs 5, 6 and 7 of this Article, the addressee shall, without undue delay and at the latest within the deadlines set out in paragraphs 2, 3 and 4 of this Article, inform the issuing authority and, where a notification to the enforcing authority took place pursuant to Article 8, the enforcing authority referred to in the EPOC, of those reasons using the form set out in Annex III. The issuing authority shall review the European Production Order in light of the information provided by the addressee and, if necessary, set a new deadline for the addressee to produce the data.\n\n9. The data shall be preserved, to the extent possible, until they are produced, irrespective of whether the production is ultimately requested on the basis of a clarified European Production Order and its EPOC or through other channels, such as mutual legal assistance, or until the European Production Order is withdrawn.\n\nWhere the production of data and their preservation are no longer necessary, the issuing authority and, where applicable pursuant to Article 16(8), the enforcing authority shall inform the addressee without undue delay.",
+      "text_sha256": "0e9743b6709b6fdff99f959f6df06a1ad3a30cdda178b0f5f7782bbb239a1f8b",
+      "md_span": {
+        "start": 30985,
+        "end": 37612
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_11",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_11",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 11\n\n1. Upon receipt of an EPOC-PR, the addressee shall, without undue delay, preserve the data requested. The obligation to preserve the data shall cease after 60 days, unless the issuing authority confirms, using the form set out in Annex V, that a subsequent request for production has been issued. During that 60-day period, the issuing authority may, using the form set out in Annex VI, extend the duration of the obligation to preserve the data by an additional 30-day period, where necessary to allow for the issuing of a subsequent request for production.\n\n2. Where, during the period of preservation set out in paragraph 1, the issuing authority confirms that a subsequent request for production has been issued, the addressee shall preserve the data as long as necessary to produce the data once the subsequent request for production is received.\n\n3. Where the preservation is no longer necessary, the issuing authority shall inform the addressee without undue delay and the obligation to preserve on the basis of the relevant European Preservation Order shall cease.\n\n4. Where the addressee considers, based solely on the information contained in the EPOC-PR, that the execution of the EPOC-PR could interfere with immunities or privileges, or with rules on the determination or limitation of criminal liability that relate to freedom of the press or freedom of expression in other media, under the law of the enforcing State, the addressee shall inform the issuing authority and the enforcing authority using the form set out in Annex III.\n\nThe issuing authority shall take the information referred to in the first subparagraph into account, and shall decide, on its own initiative or at the request of the enforcing authority, whether to withdraw, adapt or maintain the European Preservation Order.\n\n5. Where the addressee cannot comply with its obligation to preserve the requested data because the EPOC-PR is incomplete, contains manifest errors or does not contain sufficient information to execute the EPOC-PR, the addressee shall, without undue delay, inform the issuing authority referred to in the EPOC-PR and seek clarification, using the form set out in Annex III.\n\nThe issuing authority shall react expeditiously and at the latest within five days of the receipt of the form. The addressee shall ensure that it can receive the necessary clarification or any correction provided by the issuing authority in order for the addressee to fulfil its obligations set out in paragraphs 1, 2 and 3. In the absence of a reaction from the issuing authority within the five-day period, the service provider shall be exempt from the obligations set out in paragraphs 1 and 2.\n\n6. Where the addressee cannot comply with its obligation to preserve the requested data because of a de facto impossibility due to circumstances not attributable to the addressee, the addressee shall, without undue delay, inform the issuing authority referred to in the EPOC-PR explaining the reasons for such de facto impossibility, using the form set out in Annex III. Where the issuing authority concludes that such impossibility does exist, it shall inform the addressee that the EPOC-PR no longer needs to be executed.\n\n7. In all cases where the addressee does not preserve the requested data, for reasons other than those referred to in paragraphs 4, 5 and 6, the addressee shall, without undue delay, inform the issuing authority of those reasons, using the form set out in Annex III. The issuing authority shall review the European Preservation Order in light of the justification provided by the addressee.",
+      "text_sha256": "d3f43be1b0ff02c53d6fc35f8d01489860dd237d4e0dca4ff0fbbff22bf92ff3",
+      "md_span": {
+        "start": 37647,
+        "end": 41256
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_12",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_12",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 12\n\n1. Where the issuing authority has notified the enforcing authority pursuant to Article 8, and without prejudice to Article 1(3), the enforcing authority shall, as soon as possible but at the latest within 10 days following receipt of the notification, or, in emergency cases, at the latest within 96 hours following such receipt, assess the information set out in the order and, where appropriate, raise one or more of the following grounds for refusal:\n\n| (a) | the data requested are protected by immunities or privileges granted under the law of the enforcing State which prevent the execution or enforcement of the order, or the data requested are covered by rules on the determination or limitation of criminal liability that relate to freedom of the press or freedom of expression in other media, which prevent the execution or enforcement of the order; |\n| --- | --- |\n\n| (b) | in exceptional situations, there are substantial grounds to believe, on the basis of specific and objective evidence, that the execution of the order would, in the particular circumstances of the case, entail a manifest breach of a relevant fundamental right as set out in Article 6 TEU and in the Charter; |\n| --- | --- |\n\n| (c) | the execution of the order would be contrary to the principle of ne bis in idem; |\n| --- | --- |\n\n| (d) | the conduct for which the order has been issued does not constitute an offence under the law of the enforcing State, unless it concerns an offence listed within the categories of offences set out in Annex IV, as indicated by the issuing authority in the EPOC, if it is punishable in the issuing State by a custodial sentence or a detention order for a maximum period of at least three years. |\n| --- | --- |\n\n2. Where the enforcing authority raises a ground for refusal pursuant to paragraph 1, it shall inform the addressee and the issuing authority. The addressee shall stop the execution of the European Production Order and not transfer the data, and the issuing authority shall withdraw the order.\n\n3. Before deciding to raise a ground for refusal, the enforcing authority notified pursuant to Article 8 shall contact the issuing authority by any appropriate means, in order to discuss the appropriate measures to take. On that basis, the issuing authority may decide to adapt or to withdraw the European Production Order. Where, following such discussions, no solution is reached, the enforcing authority notified pursuant to Article 8 may decide to raise grounds for refusal of the European Production Order and inform the issuing authority and the addressee accordingly.\n\n4. Where the enforcing authority decides to raise grounds for refusal pursuant to paragraph 1, it may indicate whether it objects to the transfer of all data requested in the European Production Order or whether the data may only be partly transferred or used under conditions specified by the enforcing authority.\n\n5. Where the power to waive the immunity or privilege as set out in paragraph 1, point (a), of this Article, lies with an authority of the enforcing State, the issuing authority may request the enforcing authority notified pursuant to Article 8 to contact that authority of the enforcing State to request it to exercise that power without delay. Where the power to waive the immunity or privilege lies with an authority of another Member State or a third country or with an international organisation, the issuing authority may request the authority concerned to exercise that power.",
+      "text_sha256": "ba685973126f7092931286aebf23ccb6b917e0ba2de1f497e67f919d70b5a534",
+      "md_span": {
+        "start": 41291,
+        "end": 44806
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_13",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_13",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 13\n\n1. The issuing authority shall, without undue delay, inform the person whose data are being requested about the production of data on the basis of a European Production Order.\n\n2. The issuing authority may, in accordance with the national law of the issuing State, delay or restrict informing, or omit to inform, the person whose data are being requested, to the extent that, and for as long as, the conditions in Article 13(3) of Directive (EU) 2016/680 are met, in which case the issuing authority shall indicate in the case file the reasons for the delay, restriction or omission. A short justification shall also be added in the EPOC.\n\n3. When informing the person whose data are being requested as referred to in paragraph 1 of this Article, the issuing authority shall include information about available remedies pursuant to Article 18.\n\n4. The addressees and, if different, the service providers shall take the necessary state-of-the-art operational and technical measures to ensure the confidentiality, secrecy and integrity of the EPOC or the EPOC-PR and of the data produced or preserved.",
+      "text_sha256": "fcdb2be7d26781005fceff016e028addc6ebd777e2b7a2b507f34b379c3c1db6",
+      "md_span": {
+        "start": 44841,
+        "end": 45952
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_14",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_14",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 14\n\n1. The service provider may claim reimbursement of its costs from the issuing State, if that possibility is provided for in the national law of the issuing State for domestic orders in similar situations, in accordance with the national law of that State. Member States shall inform the Commission about their national rules for reimbursement, and the Commission shall make them public.\n\n2. This Article shall not apply to the reimbursement of costs of the decentralised IT system as referred to in Article 25.",
+      "text_sha256": "b269e3621c6a5e706e542c54c94c977f5a57c34839dcaa40b5019584bf36b2b0",
+      "md_span": {
+        "start": 45987,
+        "end": 46509
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_15",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_15",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 15\n\n1. Without prejudice to national laws providing for the imposition of criminal penalties, Member States shall lay down rules on pecuniary penalties applicable to infringements of Articles 10 and 11 and Article 13(4), in accordance with Article 16(10), and shall take all measures necessary to ensure that they are implemented. The pecuniary penalties provided for shall be effective, proportionate and dissuasive. Member States shall ensure that pecuniary penalties of up to 2 % of the total worldwide annual turnover of the service provider’s preceding financial year can be imposed. Member States shall, without delay, notify the Commission of those rules and of those measures, and shall notify it, without delay, of any subsequent amendment affecting them.\n\n2. Without prejudice to data protection obligations, service providers shall not be held liable in Member States for prejudice caused to their users or third parties that exclusively results from compliance in good faith with an EPOC or an EPOC-PR.",
+      "text_sha256": "c3fb7bf3fe31f9932ff11b777bb70c79afebcb90972c899490425127cfec716a",
+      "md_span": {
+        "start": 46544,
+        "end": 47566
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_16",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_16",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 16\n\n1. Where the addressee does not comply with an EPOC within the deadline or with an EPOC-PR, without providing reasons accepted by the issuing authority, and, if applicable, where the enforcing authority has not invoked any of the grounds for refusal as provided for in Article 12, the issuing authority may request the enforcing authority to enforce the European Production Order or the European Preservation Order.\n\nFor the purpose of enforcement as referred to in the first subparagraph, the issuing authority shall transfer the order concerned, the form set out in Annex III as completed by the addressee, and any relevant document in accordance with Article 19. The issuing authority shall translate the order concerned and any document to be transferred into one of the languages accepted by the enforcing State and shall inform the addressee of the transfer.\n\n2. Upon receipt, the enforcing authority shall without further formalities recognise and take the necessary measures for enforcement of:\n\n| (a) | a European Production Order, unless the enforcing authority considers that one of the grounds provided for in paragraph 4 applies; or |\n| --- | --- |\n\n| (b) | a European Preservation Order, unless the enforcing authority considers that one of the grounds provided for in paragraph 5 applies. |\n| --- | --- |\n\nThe enforcing authority shall take the decision on the recognition of the order concerned without undue delay and no later than five working days after the receipt of that order.\n\n3. The enforcing authority shall formally require the addressee to comply with their relevant obligations, and shall inform the addressee of the following:\n\n| (a) | the possibility of objecting to the execution of the order concerned by invoking one or more of the grounds listed in paragraph 4, points (a) to (f), or in paragraph 5, points (a) to (e); |\n| --- | --- |\n\n| (b) | the applicable penalties in the event of non-compliance; and |\n| --- | --- |\n\n| (c) | the deadline for compliance or objection. |\n| --- | --- |\n\n4. Enforcement of the European Production Order may only be denied on the basis of one or more of the following grounds:\n\n| (a) | the European Production Order has not been issued or validated by an issuing authority as provided for in Article 4; |\n| --- | --- |\n\n| (b) | the European Production Order has not been issued for an offence provided for in Article 5(4); |\n| --- | --- |\n\n| (c) | the addressee could not comply with the EPOC because of a de facto impossibility due to circumstances not attributable to the addressee, or because the EPOC contains manifest errors; |\n| --- | --- |\n\n| (d) | the European Production Order does not concern data stored by or on behalf of the service provider at the time of receipt of the EPOC; |\n| --- | --- |\n\n| (e) | the service is not covered by this Regulation; |\n| --- | --- |\n\n| (f) | the data requested are protected by immunities or privileges granted under the law of the enforcing State, or the data requested are covered by rules on the determination or limitation of criminal liability that relate to freedom of the press or freedom of expression in other media, which prevent execution or enforcement of the European Production Order; |\n| --- | --- |\n\n| (g) | in exceptional situations, based on the sole information contained in the EPOC, it is apparent that there are substantial grounds to believe, on the basis of specific and objective evidence, that the execution of the European Production Order would, in the particular circumstances of the case, entail a manifest breach of a relevant fundamental right as set out in Article 6 TEU and the Charter. |\n| --- | --- |\n\n5. The enforcement of the European Preservation Order may only be denied on the basis of one or more of the following grounds:\n\n| (a) | the European Preservation Order has not been issued or validated by an issuing authority as provided for in Article 4; |\n| --- | --- |\n\n| (b) | the addressee could not comply with the EPOC-PR because of a de facto impossibility due to circumstances not attributable to the addressee, or because the EPOC-PR contains manifest errors; |\n| --- | --- |\n\n| (c) | the European Preservation Order does not concern data stored by or on behalf of the service provider at the time of receipt of the EPOC-PR; |\n| --- | --- |\n\n| (d) | the service is not covered by the scope of this Regulation; |\n| --- | --- |\n\n| (e) | the data requested are protected by immunities or privileges granted under the law of the enforcing State, or the data requested are covered by rules on the determination or limitation of criminal liability that relate to freedom of the press or freedom of expression in other media, which prevent execution or enforcement of the European Preservation Order; |\n| --- | --- |\n\n| (f) | in exceptional situations, based on the sole information contained in the EPOC-PR, it is apparent that there are substantial grounds to believe, on the basis of specific and objective evidence, that the execution of the European Preservation Order would, in the particular circumstances of the case, entail a manifest breach of a relevant fundamental right as set out in Article 6 TEU and the Charter. |\n| --- | --- |\n\n6. In the event of an objection by the addressee as referred to in paragraph 3, point (a), the enforcing authority shall decide whether or not to enforce the European Production Order or the European Preservation Order on the basis of any information provided by the addressee and, if necessary, supplementary information obtained from the issuing authority in accordance with paragraph 7.\n\n7. Before deciding not to recognise or not to enforce the European Production Order or the European Preservation Order in accordance with paragraph 2 or 6, respectively, the enforcing authority shall consult the issuing authority by any appropriate means. Where appropriate, it shall request further information from the issuing authority. The issuing authority shall reply to any such request within five working days.\n\n8. The enforcing authority shall notify all of its decisions immediately to the issuing authority and to the addressee.\n\n9. If the enforcing authority obtains the data requested by a European Production Order from the addressee, it shall transmit those data to the issuing authority without undue delay.\n\n10. Where the addressee does not comply with its obligations under a recognised European Production Order or European Preservation Order the enforceability of which has been confirmed by the enforcing authority, that authority shall impose a pecuniary penalty in accordance with Article 15. An effective judicial remedy shall be available against a decision to impose a pecuniary penalty.",
+      "text_sha256": "b9dbfdf3bca5f03528745c2b94943fa027b186b29321c42c6f2074c48d0615c5",
+      "md_span": {
+        "start": 47601,
+        "end": 54317
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_17",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_17",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 17\n\n1. Where an addressee considers that compliance with a European Production Order would conflict with an obligation under the applicable law of a third country, it shall inform the issuing authority and the enforcing authority of its reasons for not executing the European Production Order, in accordance with the procedure set out in Article 10(8) and (9) using the form set out in Annex III (‘the reasoned objection’).\n\n2. The reasoned objection shall include all relevant details on the law of the third country, its applicability to the case at hand and the nature of the conflicting obligation. The reasoned objection shall not be based on:\n\n| (a) | the fact that similar provisions concerning the conditions, formalities and procedures for issuing an order for production do not exist in the applicable law of the third country; or |\n| --- | --- |\n\n| (b) | the sole fact that the data are stored in a third country. |\n| --- | --- |\n\nThe reasoned objection shall be filed no later than 10 days after the date on which the addressee received the EPOC.\n\n3. The issuing authority shall review the European Production Order on the basis of the reasoned objection and any input provided by the enforcing State. Where the issuing authority intends to uphold the European Production Order, it shall request a review by the competent court of the issuing State. The execution of the European Production Order shall be suspended pending completion of the review procedure.\n\n4. The competent court shall first assess whether a conflict of obligations exists, based on an examination of whether:\n\n| (a) | the law of the third country is applicable based on the specific circumstances of the case in question; and |\n| --- | --- |\n\n| (b) | the law of the third country, if applicable as referred to in point (a), prohibits disclosure of the data concerned when applied to the specific circumstances of the case in question. |\n| --- | --- |\n\n5. Where the competent court finds that no relevant conflict of obligations within the meaning of paragraphs 1 and 4 exists, it shall uphold the European Production Order.\n\n6. Where the competent court establishes, based on the examination pursuant to paragraph 4, point (b), that the law of the third country prohibits disclosure of the data concerned, the competent court shall determine whether to uphold or lift the European Production Order. That assessment shall in particular be based on the following factors, while giving particular weight to the factors referred to in points (a) and (b):\n\n| (a) | the interest protected by the relevant law of the third country, including fundamental rights as well as other fundamental interests preventing disclosure of the data, in particular national security interests of the third country; |\n| --- | --- |\n\n| (b) | the degree of connection between the criminal case for which the European Production Order was issued and either of the two jurisdictions, as indicated inter alia by:(i)the location, nationality and place of residence of the person whose data are being requested or of the victim or victims of the criminal offence in question;(ii)the place where the criminal offence in question was committed; |\n| --- | --- |\n| (i) | the location, nationality and place of residence of the person whose data are being requested or of the victim or victims of the criminal offence in question; |\n| (ii) | the place where the criminal offence in question was committed; |\n\n| (c) | the degree of connection between the service provider and the third country in question; in this context, the data storage location alone shall not suffice for the purpose of establishing a substantial degree of connection; |\n| --- | --- |\n\n| (d) | the interests of the investigating State in obtaining the evidence concerned, based on the seriousness of the offence and the importance of obtaining evidence in an expeditious manner; |\n| --- | --- |\n\n| (e) | the possible consequences for the addressee or for the service provider of complying with the European Production Order, including the potential penalties. |\n| --- | --- |\n\n7. The competent court may request information from the competent authority of the third country, taking into account Directive (EU) 2016/680, in particular Chapter V thereof, and to the extent that such request does not obstruct the relevant criminal proceedings. Information shall, in particular, be requested from the competent authority of the third country by the issuing State where the conflict of obligations concerns fundamental rights or other fundamental interests of the third country related to national security and defence.\n\n8. If the competent court decides to lift the European Production Order, it shall inform the issuing authority and the addressee. If the competent court determines that the European Production Order is to be upheld, it shall inform the issuing authority and the addressee, and that addressee shall proceed with the execution of the European Production Order.\n\n9. For the purposes of the procedures under this Article, the time limits shall be calculated in accordance with the national law of the issuing authority.\n\n10. The issuing authority shall inform the enforcing authority about the outcome of the review procedure.",
+      "text_sha256": "69ac3c9d175ffbe00b5266380afc3032300fd2ebff36f4d509be2526a102bcde",
+      "md_span": {
+        "start": 54352,
+        "end": 59619
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_18",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_18",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 18\n\n1. Without prejudice to further legal remedies available in accordance with national law, any person whose data were requested via a European Production Order shall have the right to effective remedies against that order. Where that person is a suspect or an accused person, such person shall have the right to effective remedies during the criminal proceedings in which the data were being used. The right to effective remedies referred to in this paragraph shall be without prejudice to the right to seek remedies under Regulation (EU) 2016/679 and Directive (EU) 2016/680.\n\n2. The right to effective remedies shall be exercised before a court in the issuing State in accordance with its national law and shall include the possibility of challenging the legality of the measure, including its necessity and proportionality, without prejudice to the guarantees of fundamental rights in the enforcing State.\n\n3. For the purposes of Article 13(1), information shall be provided in due time about the possibilities under national law for seeking remedies and it shall be ensured that they can be exercised effectively.\n\n4. The same time limits or other conditions for seeking remedies in similar domestic cases shall apply for the purposes of this Regulation and in a way that guarantees that the persons concerned can exercise their right to those remedies effectively.\n\n5. Without prejudice to national procedural rules, the issuing State and any other Member State to which electronic evidence has been transmitted under this Regulation shall ensure that the rights of defence and fairness of the proceedings are respected when assessing evidence obtained through the European Production Order.",
+      "text_sha256": "3623a2253067714a78d31bd31be973d2b438a411d29bf751554e8d19df6348db",
+      "md_span": {
+        "start": 59654,
+        "end": 61361
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_19",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_19",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 19\n\n1. Written communication between competent authorities and designated establishments or legal representatives under this Regulation, including the exchange of forms provided for in this Regulation and the data requested under a European Production Order or a European Preservation Order, shall be carried out through a secure and reliable decentralised IT system (‘the decentralised IT system’).\n\n2. Each Member State shall ensure that the designated establishments or legal representatives of service providers located in that Member State are provided with access to the decentralised IT system via their respective national IT system.\n\n3. Service providers shall ensure that their designated establishments or legal representatives can use the decentralised IT system via the respective national IT system in order to receive EPOCs and EPOC-PRs, send the requested data to the issuing authority and communicate in any other way with the issuing authority and the enforcing authority, as provided for in this Regulation.\n\n4. Written communication between competent authorities under this Regulation, including the exchange of forms provided for in this Regulation, and of the requested data under the procedure for enforcement as provided for in Article 16, as well as written communication with competent Union agencies or bodies, shall be carried out through the decentralised IT system.\n\n5. Where communication through the decentralised IT system in accordance with paragraph 1 or 4 is not possible due to, for instance, the disruption of the decentralised IT system, the nature of the transmitted material, technical limitations, such as data size, legal constraints relating to the admissibility as evidence of the requested data or to forensic requirements applicable to the requested data, or exceptional circumstances, the transmission shall be carried out by the most appropriate alternative means, taking into account the need to ensure an exchange of information which is swift, secure and reliable, and allows the recipient to establish authenticity.\n\n6. Where a transmission is carried out by alternative means as provided for in paragraph 5, the originator of the transmission shall record the transmission, including, as appropriate, the date and time of transmission, the sender and recipient, the file name and its size, in the decentralised IT system, without undue delay.",
+      "text_sha256": "06750d220bc8ca53d46a71851849db841f445907eaa64bad02a913834a98f0b4",
+      "md_span": {
+        "start": 61396,
+        "end": 63800
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_20",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_20",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 20\n\nDocuments transmitted as part of electronic communication shall not be denied legal effect or be considered inadmissible in the context of cross-border judicial procedures under this Regulation solely on the ground that they are in electronic form.",
+      "text_sha256": "5235d4318f7ea51d455ad7396dcc9495b1c7ab6ebc4d447ebe8629d53614e624",
+      "md_span": {
+        "start": 63835,
+        "end": 64095
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_21",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_21",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 21\n\n1. The general legal framework for the use of trust services set out in Regulation (EU) No 910/2014 shall apply to electronic communication under this Regulation.\n\n2. Where a document transmitted as part of the electronic communication under Article 19(1) or (4) of this Regulation requires a seal or a signature in accordance with this Regulation, the document shall feature a qualified electronic seal or qualified electronic signature as defined in Regulation (EU) No 910/2014.",
+      "text_sha256": "ced9864657ee64028e170b835cae9183b38de509c5688e9941d2361561c6e073",
+      "md_span": {
+        "start": 64130,
+        "end": 64622
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_22",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_22",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 22\n\n1. The Commission shall be responsible for the creation, maintenance and development of reference implementation software which Member States may choose to apply as their back-end system instead of a national IT system. The creation, maintenance and development of the reference implementation software shall be financed from the general budget of the Union.\n\n2. The Commission shall provide, maintain and support the reference implementation software free of charge.",
+      "text_sha256": "63286491fe8789f584337ead787d1a89ec3d51fbc5bee71e6310821ce7fb00fb",
+      "md_span": {
+        "start": 64657,
+        "end": 65136
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_23",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_23",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 23\n\n1. Each Member State shall bear the costs of the installation, operation and maintenance of the access points of the decentralised IT system for which that Member State is responsible.\n\n2. Each Member State shall bear the costs of establishing and adjusting its relevant national IT systems to make them interoperable with the access points, and shall bear the costs of administering, operating and maintaining those systems.\n\n3. Union agencies and bodies shall bear the costs of the installation, operation and maintenance of the components comprising the decentralised IT system under their responsibility.\n\n4. Union agencies and bodies shall bear the costs of establishing and adjusting their case-management systems to make them interoperable with the access points, and shall bear the costs of administering, operating and maintaining those systems.\n\n5. Service providers shall bear all costs necessary in order for them to successfully integrate or otherwise interact with the decentralised IT system.",
+      "text_sha256": "184aa7509a8cb622af024793b4880a97d0f3c8689c5c8d3cec1638e5cb293d6d",
+      "md_span": {
+        "start": 65171,
+        "end": 66190
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_24",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_24",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 24\n\nBefore the obligation to carry out written communication through the decentralised IT system referred to in Article 19 becomes applicable (‘transition period’), the written communication between competent authorities and designated establishments or legal representatives under this Regulation shall take place by the most appropriate alternative means, taking into account the need to ensure a swift, secure and reliable exchange of information. Where service providers, Member States or Union agencies or bodies have established dedicated platforms or other secure channels for the handling of requests for data by law enforcement authorities and judicial authorities, issuing authorities may also choose to transmit an EPOC or an EPOC-PR via those channels to designated establishments or legal representatives during the transition period.",
+      "text_sha256": "bff394973cb5d2483d61b858a13d89734c5b858865bb7736d03d9e875a58fd69",
+      "md_span": {
+        "start": 66225,
+        "end": 67080
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_25",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_25",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 25\n\n1. The Commission shall adopt implementing acts necessary for the establishment and use of the decentralised IT system for the purposes of this Regulation, setting out the following:\n\n| (a) | the technical specifications defining the methods of communication by electronic means for the purposes of the decentralised IT system; |\n| --- | --- |\n\n| (b) | the technical specifications for communication protocols; |\n| --- | --- |\n\n| (c) | the information security objectives and relevant technical measures ensuring minimum information security standards and a high level of cybersecurity for the processing and communication of information within the decentralised IT system; |\n| --- | --- |\n\n| (d) | the minimum availability objectives and possible related technical requirements for the services provided by the decentralised IT system. |\n| --- | --- |\n\n2. The implementing acts referred to in paragraph 1 of this Article shall be adopted in accordance with the examination procedure referred to in Article 26.\n\n3. The implementing acts referred to in paragraph 1 shall be adopted by 18 August 2025.",
+      "text_sha256": "fba08665eb290186aaf8932e1cc1fb779f93b328975f4bb1726b1b07171b923b",
+      "md_span": {
+        "start": 67115,
+        "end": 68226
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_26",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_26",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 26\n\n1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.\n\n2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.",
+      "text_sha256": "09e58d277ed993f1c82ce7e8748985322d905fde8837ed62964b47b530551741",
+      "md_span": {
+        "start": 68261,
+        "end": 68512
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_27",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_27",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 27\n\nEach Member State may decide, at any time, that it will accept translations of EPOCs and EPOC-PRs in one or more official languages of the Union in addition to their official language or languages, and shall indicate such a decision in a written declaration submitted to the Commission. The Commission shall make the declarations available to all Member States and to the European Judicial Network.",
+      "text_sha256": "7eb3e2f8756f3b4057ad6837d0a299e8360de93c8a626c978b09093f5406073b",
+      "md_span": {
+        "start": 68547,
+        "end": 68957
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_28",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_28",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 28\n\n1. By 18 August 2026, the Commission shall establish a detailed programme for monitoring the outputs, results and impacts of this Regulation. The monitoring programme shall set out the means by which and the intervals at which the data will be collected. It shall specify the action to be taken by the Commission and by the Member States in collecting and analysing the data.\n\n2. In any event, from 18 August 2026, Member States shall collect from the relevant authorities comprehensive statistics and keep a record of such statistics. The data collected for the preceding calendar year shall be sent to the Commission each year by 31 March, and shall include:\n\n| (a) | the number of EPOCs and EPOC-PRs issued, by the type of data requested, the addressees and the situation (emergency case or not); |\n| --- | --- |\n\n| (b) | the number of EPOCs issued under emergency case derogations; |\n| --- | --- |\n\n| (c) | the number of fulfilled and non-fulfilled EPOCs and EPOC-PRs, by the type of data requested, the addressees and the situation (emergency case or not); |\n| --- | --- |\n\n| (d) | the number of notifications to enforcing authorities pursuant to Article 8, and the number of EPOCs that were refused, by the type of data requested, the addressees, the situation (emergency case or not) and the ground for refusal raised; |\n| --- | --- |\n\n| (e) | for fulfilled EPOCs, the average period between the moment the EPOC was issued and the moment the data requested were obtained, by the type of data requested, the addressees and the situation (emergency case or not); |\n| --- | --- |\n\n| (f) | for fulfilled EPOC-PRs, the average period between the moment the EPOC-PR was issued and the moment the subsequent request for production was issued, by the type of data requested and the addressees; |\n| --- | --- |\n\n| (g) | the number of European Production Orders or European Preservation Orders transmitted to and received by an enforcing State for enforcement, by the type of data requested, the addressees and the situation (emergency case or not) and the number of such orders fulfilled; |\n| --- | --- |\n\n| (h) | the number of legal remedies used against European Production Orders in the issuing State and in the enforcing State, by the type of data requested; |\n| --- | --- |\n\n| (i) | the number of cases where ex post validation in accordance with Article 4(5) was not granted; |\n| --- | --- |\n\n| (j) | an overview of the costs claimed by service providers in relation to the execution of EPOCs or EPOC-PRs and the costs reimbursed by the issuing authorities. |\n| --- | --- |\n\n3. From 18 August 2026, for the data exchanges carried out via the decentralised IT system pursuant to Article 19(1), the statistics referred to in paragraph 2 of this Article may be programmatically collected by national portals. The reference implementation software referred to in Article 22 shall be technically equipped to provide for such functionality.\n\n4. Service providers may collect, keep a record of and publish statistics in accordance with existing data protection principles. If any such statistics are collected for the preceding calendar year, they may be sent to the Commission by 31 March and may, as far as possible, include:\n\n| (a) | the number of EPOCs and EPOC-PRs received, by the type of data requested, the issuing State and situation (emergency case or not); |\n| --- | --- |\n\n| (b) | the number of fulfilled and non-fulfilled EPOCs and EPOC-PRs, by the type of data requested, the issuing State and the situation (emergency case or not); |\n| --- | --- |\n\n| (c) | for fulfilled EPOCs, the average period needed to provide the requested data from the moment the EPOC was received to the moment the data were provided, by the type of data requested, the issuing State and the situation (emergency case or not); |\n| --- | --- |\n\n| (d) | for fulfilled EPOC-PRs, the average period between the moment the EPOC-PR was issued and the moment the subsequent request for production was issued, by the type of data requested and the issuing State. |\n| --- | --- |\n\n5. From 18 August 2027, the Commission shall, by 30 June each year, publish a report containing the data referred to in paragraphs 2 and 3 in a compiled form, subdivided into Member States and type of service provider.",
+      "text_sha256": "1e82c41ba681fc0756246ff06cfdf1792342a600972ecbd98b14ddaecfb6c102",
+      "md_span": {
+        "start": 68992,
+        "end": 73281
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_29",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_29",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 29\n\nThe Commission shall adopt delegated acts in accordance with Article 30 to amend Annexes I, II, III, V and VI in order to effectively address a possible need for improvements regarding the content of the EPOC and EPOC-PR forms and of the forms to be used for providing information on the impossibility of executing an EPOC or an EPOC-PR, for confirming the issuance of a request for production following a European Preservation Order and for extending the preservation of electronic evidence.",
+      "text_sha256": "fa2e651886578e92f5a485b10ee399bfecab194c37f81a94abab99b08da9cc19",
+      "md_span": {
+        "start": 73316,
+        "end": 73820
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_30",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_30",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 30\n\n1. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.\n\n2. The power to adopt delegated acts referred to in Article 29 shall be conferred on the Commission for an indeterminate period of time from 18 August 2026.\n\n3. The delegation of power referred to in Article 29 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.\n\n4. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.\n\n5. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.\n\n6. A delegated act adopted pursuant to Article 29 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.",
+      "text_sha256": "0785ee4c666ec3dffd9dc304b5bfdb369f7d2bb520a162997e6a19fc28d4d2d1",
+      "md_span": {
+        "start": 73855,
+        "end": 75471
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_31",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_31",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 31\n\n1. By 18 August 2025 each Member State shall notify the Commission of:\n\n| (a) | the authority or authorities which, in accordance with its national law, are competent in accordance with Article 4 to issue, validate or transmit European Production Orders and European Preservation Orders or the notifications thereof; |\n| --- | --- |\n\n| (b) | the authority or authorities which are competent to receive notifications pursuant to Article 8, and to enforce European Production Orders and European Preservation Orders on behalf of another Member State, in accordance with Article 16; |\n| --- | --- |\n\n| (c) | the authority or authorities which are competent to deal with reasoned objections by addressees in accordance with Article 17; |\n| --- | --- |\n\n| (d) | the languages accepted for the notification and the transmission of an EPOC, an EPOC-PR, a European Production Order or a European Preservation Order in the case of enforcement, in accordance with Article 27. |\n| --- | --- |\n\n2. The Commission shall make the information received under this Article publicly available, either on a dedicated website or on the website of the European Judicial Network in criminal matters referred to in Article 9 of Council Decision 2008/976/JHA (33).",
+      "text_sha256": "89b62a14cca1a0f25b5a718228e6213180572bfcff90956231a07f85a23a5a31",
+      "md_span": {
+        "start": 75506,
+        "end": 76758
+      },
+      "citations": [
+        {
+          "href": "#ntr33-L_2023191EN.01011801-E0033",
+          "text": "(33)"
+        }
+      ]
+    },
+    {
+      "anchor": "art_32",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_32",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 32\n\n1. This Regulation does not affect Union or other international instruments, agreements and arrangements on the gathering of evidence that falls within the scope of this Regulation.\n\n2. Member States shall notify the Commission by 18 August 2026 of any existing instruments, agreements and arrangements as referred to in paragraph 1 which they will continue to apply. Member States shall also notify the Commission within three months of the signing of any new agreement or arrangement as referred to in paragraph 1.",
+      "text_sha256": "0d20044c3542a1df81bd31cbc58d20bae492101e8f0555f308690f1959cb32bd",
+      "md_span": {
+        "start": 76793,
+        "end": 77321
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_33",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_33",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 33\n\nBy 18 August 2029, the Commission shall carry out an evaluation of this Regulation. The Commission shall transmit an evaluation report to the European Parliament, the Council, the European Data Protection Supervisor and the European Union Agency for Fundamental Rights. That evaluation report shall include an assessment of the application of this Regulation and of the results that have been achieved with regard to its objectives, as well as an assessment of this Regulation’s impact on fundamental rights. The evaluation shall be conducted in accordance with the Commission’s better regulation guidelines. Member States shall provide the Commission with the information necessary for the preparation of the evaluation report.",
+      "text_sha256": "fabb6ce0d6a7cf7bdfe63dc8c4b96e9018874b2b8ae09537e669791e97c24113",
+      "md_span": {
+        "start": 77356,
+        "end": 78096
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_34",
+      "provision_id": "eu-eurlex:32023r1543:2023-07-12#art_34",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 34\n\n1. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.\n\n2. It shall apply from 18 August 2026.\n\nHowever, the obligation for competent authorities and service providers to use the decentralised IT system established in Article 19 for written communication under this Regulation shall apply from one year after the adoption of the implementing acts referred to in Article 25.",
+      "text_sha256": "fc36abef40f168b06c37e8b571427c22826bb8305a96584e2e03002d3a659203",
+      "md_span": {
+        "start": 78131,
+        "end": 78605
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

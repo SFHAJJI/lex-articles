@@ -8,12 +8,12 @@
   "valid_time_source": "publisher",
   "derived_from": {
     "corpus_repo": "lex-corpus-eu-eurlex",
-    "path": "works/32017r2382/versions/2017-12-20/fr.fmx4/CL2017R2382FR0000010.0001.xml",
-    "sha256": "6b59721782297a93cbca413e94890c5fba1be4113bca8a6b769731317bacc4e3",
+    "path": "works/32017r2382/versions/2017-12-20/fr.html",
+    "sha256": "157eefcee74d2df70b2756db9f4280d91548bce1e62c3afab228564800eef966",
     "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02017R2382-20171220"
   },
   "generator": {
-    "profile": "fmx4-eu/1",
+    "profile": "xhtml-eu/1",
     "tool": "lex derive"
   },
   "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
@@ -28,11 +28,11 @@
       "heading": "Champ d'application",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** Le présent règlement s'applique aux entreprises d'investissement et aux opérateurs de marché exploitant un système multilatéral de négociation (MTF) ou un système organisé de négociation (OTF).\n\n**2.** Le présent règlement s'applique également aux établissements de crédit agréés en vertu de la directive 2013/36/UE qui fournissent un ou plusieurs services d'investissement ou exercent des activités d'investissement au titre de la directive 2014/65/UE, et qui souhaitent recourir à des agents liés dans le cadre de l'un des droits suivants:\n\na) le droit à la libre prestation de services et d'activités d'investissement conformément à l'article 34, paragraphe 5, de la directive 2014/65/UE;\n\nb) le droit d'établissement conformément à l'article 35, paragraphe 7, de la directive 2014/65/UE.",
-      "text_sha256": "2e5a87e25c87357c7c7747da0f4f4b6b6c427101c011a0ae687f824c7c1efd06",
+      "text_md": "1. Le présent règlement s'applique aux entreprises d'investissement et aux opérateurs de marché exploitant un système multilatéral de négociation (MTF) ou un système organisé de négociation (OTF).\n\n2. Le présent règlement s'applique également aux établissements de crédit agréés en vertu de la directive 2013/36/UE qui fournissent un ou plusieurs services d'investissement ou exercent des activités d'investissement au titre de la directive 2014/65/UE, et qui souhaitent recourir à des agents liés dans le cadre de l'un des droits suivants:\n\na) le droit à la libre prestation de services et d'activités d'investissement conformément à l'article 34, paragraphe 5, de la directive 2014/65/UE;\n\nb) le droit d'établissement conformément à l'article 35, paragraphe 7, de la directive 2014/65/UE.",
+      "text_sha256": "39bf9da673b1866c2ce18dce0bc526dfb7192a3fc6e6fe5a165d1ba875b2a317",
       "md_span": {
-        "start": 843,
-        "end": 1641
+        "start": 844,
+        "end": 1634
       },
       "citations": []
     },
@@ -45,11 +45,11 @@
       "heading": "Exigences générales",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** Les notifications ou communications transmises au titre du présent règlement sont rédigées dans une langue officielle de l'Union acceptée tant par l'autorité compétente de l'État membre d'origine que par l'autorité compétente de l'État membre d'accueil.\n\nElles sont transmises sur papier ou, lorsque l'autorité compétente concernée l'accepte, par voie électronique.\n\n**2.** Les autorités compétentes mettent à la disposition du public des informations concernant les langues et moyens de transmission acceptés, et notamment l'adresse d'envoi des notifications de passeport.",
-      "text_sha256": "dbb45871f1b3dc16cb6082a97dd3070cfb0e62bf6aac182905f29c289de12a7c",
+      "text_md": "1. Les notifications ou communications transmises au titre du présent règlement sont rédigées dans une langue officielle de l'Union acceptée tant par l'autorité compétente de l'État membre d'origine que par l'autorité compétente de l'État membre d'accueil.\n\nElles sont transmises sur papier ou, lorsque l'autorité compétente concernée l'accepte, par voie électronique.\n\n2. Les autorités compétentes mettent à la disposition du public des informations concernant les langues et moyens de transmission acceptés, et notamment l'adresse d'envoi des notifications de passeport.",
+      "text_sha256": "7a9db42934f8d7ee860a849e0780c01ce27e95545986dde26d488611cdd8d008",
       "md_span": {
-        "start": 1700,
-        "end": 2280
+        "start": 1693,
+        "end": 2265
       },
       "citations": []
     },
@@ -62,11 +62,11 @@
       "heading": "Transmission de la notification relative à l'exercice de la libre prestation de services et d'activités d'investissement",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** Les entreprises d'investissement utilisent le formulaire figurant à l'annexe I pour transmettre à l'autorité compétente de leur État membre d'origine la notification relative à l'exercice de la libre prestation de services et d'activités d'investissement prévue par l'article 34, paragraphe 2 ou 5, de la directive 2014/65/UE.\n\n**2.** Aux fins du paragraphe 1, les entreprises d'investissement transmettent, pour chaque État membre dans lequel elles envisagent d'opérer, une notification séparée relative à la libre prestation de services d'investissement et à l'exercice d'activités d'investissement.\n\n**3.** Les entreprises d'investissement ainsi que les établissements de crédit visés à l'article 1^er, paragraphe 2, point a), qui souhaitent recourir à un agent lié établi dans leur État membre d'origine pour fournir des services d'investissement ou exercer des activités d'investissement transmettent à l'autorité compétente de ce même État une notification relative à la libre prestation de services d'investissement et à l'exercice d'activités d'investissement, en ne remplissant que les parties du formulaire figurant à l'annexe I qui concernent l'agent lié.",
-      "text_sha256": "4bf38c472971c01ac22ac4f91b04b88b32323fa9a4912c7bc8c39f6fc80d4ed2",
+      "text_md": "1. Les entreprises d'investissement utilisent le formulaire figurant à l'annexe I pour transmettre à l'autorité compétente de leur État membre d'origine la notification relative à l'exercice de la libre prestation de services et d'activités d'investissement prévue par l'article 34, paragraphe 2 ou 5, de la directive 2014/65/UE.\n\n2. Aux fins du paragraphe 1, les entreprises d'investissement transmettent, pour chaque État membre dans lequel elles envisagent d'opérer, une notification séparée relative à la libre prestation de services d'investissement et à l'exercice d'activités d'investissement.\n\n3. Les entreprises d'investissement ainsi que les établissements de crédit visés à l'article 1er, paragraphe 2, point a), qui souhaitent recourir à un agent lié établi dans leur État membre d'origine pour fournir des services d'investissement ou exercer des activités d'investissement transmettent à l'autorité compétente de ce même État une notification relative à la libre prestation de services d'investissement et à l'exercice d'activités d'investissement, en ne remplissant que les parties du formulaire figurant à l'annexe I qui concernent l'agent lié.",
+      "text_sha256": "2d351a857149d907fa0903ebecba61937bc711f1a2f2f4d2abcbcfedcf722c25",
       "md_span": {
-        "start": 2440,
-        "end": 3613
+        "start": 2425,
+        "end": 3585
       },
       "citations": []
     },
@@ -79,11 +79,11 @@
       "heading": "Évaluation de l'exhaustivité et de l'exactitude de la notification relative à l'exercice de la libre prestation de services et d'activités d'investissement",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** À la réception d'une notification relative à l'exercice de la libre prestation de services et d'activités d'investissement transmise au titre de l'article 3, l'autorité compétente de l'État membre d'origine évalue l'exhaustivité et l'exactitude des informations fournies.\n\n**2.** Lorsqu'elle constate que les informations fournies sont incomplètes ou inexactes, l'autorité compétente de l'État membre d'origine en informe promptement l'entreprise d'investissement ou l'établissement de crédit visé à l'article 1^er, paragraphe 2, point a). L'autorité compétente de l'État membre d'origine indique précisément en quoi les informations sont incomplètes ou inexactes.\n\n**3.** Le délai d'un mois visé à l'article 34, paragraphe 3, et à l'article 34, paragraphe 5, deuxième alinéa, de la directive 2014/65/UE commence à courir à compter de la réception de la notification relative à l'exercice de la libre prestation de services et d'activités d'investissement qui contient des informations jugées complètes et exactes.",
-      "text_sha256": "cb6343ced4744f4cb53c0a1019dcd5e4cc05f73d70a2a354377d17dd8677afa3",
+      "text_md": "1. À la réception d'une notification relative à l'exercice de la libre prestation de services et d'activités d'investissement transmise au titre de l'article 3, l'autorité compétente de l'État membre d'origine évalue l'exhaustivité et l'exactitude des informations fournies.\n\n2. Lorsqu'elle constate que les informations fournies sont incomplètes ou inexactes, l'autorité compétente de l'État membre d'origine en informe promptement l'entreprise d'investissement ou l'établissement de crédit visé à l'article 1er, paragraphe 2, point a). L'autorité compétente de l'État membre d'origine indique précisément en quoi les informations sont incomplètes ou inexactes.\n\n3. Le délai d'un mois visé à l'article 34, paragraphe 3, et à l'article 34, paragraphe 5, deuxième alinéa, de la directive 2014/65/UE commence à courir à compter de la réception de la notification relative à l'exercice de la libre prestation de services et d'activités d'investissement qui contient des informations jugées complètes et exactes.",
+      "text_sha256": "995b74a2f39f6f1b8220b89854f731e7bacf8b3cae4a53566e8e91f8808af8ec",
       "md_span": {
-        "start": 3808,
-        "end": 4829
+        "start": 3780,
+        "end": 4788
       },
       "citations": []
     },
@@ -96,11 +96,11 @@
       "heading": "Communication concernant la notification relative à l'exercice de la libre prestation de services et d'activités d'investissement",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** Dans un délai d'un mois à compter de la réception de la notification prévue à l'article 3, l'autorité compétente de l'État membre d'origine informe de cette notification l'autorité compétente de l'État membre d'accueil en utilisant le formulaire figurant à l'annexe II, accompagné d'une copie de ladite notification.\n\n**2.** L'autorité compétente de l'État membre d'origine informe promptement l'entreprise d'investissement ou l'établissement de crédit visé à l'article 1^er, paragraphe 2, point a), que la communication prévue au paragraphe 1 a été effectuée, et lui en précise la date.",
-      "text_sha256": "bf1ebc7bfc6a553ab6d42706fdadbff8a30cc43ba3dcf3858da53b6053c06306",
+      "text_md": "1. Dans un délai d'un mois à compter de la réception de la notification prévue à l'article 3, l'autorité compétente de l'État membre d'origine informe de cette notification l'autorité compétente de l'État membre d'accueil en utilisant le formulaire figurant à l'annexe II, accompagné d'une copie de ladite notification.\n\n2. L'autorité compétente de l'État membre d'origine informe promptement l'entreprise d'investissement ou l'établissement de crédit visé à l'article 1er, paragraphe 2, point a), que la communication prévue au paragraphe 1 a été effectuée, et lui en précise la date.",
+      "text_sha256": "19499aed4c6022632743445e8922790fd811930d8528d527359745a8351bdcb3",
       "md_span": {
-        "start": 4998,
-        "end": 5592
+        "start": 4957,
+        "end": 5542
       },
       "citations": []
     },
@@ -113,11 +113,11 @@
       "heading": "Notification d'une modification des renseignements contenus dans une notification relative à l'exercice de la libre prestation de services et d'activités d'investissement",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** Les entreprises d'investissement ainsi que les établissements de crédit visés à l'article 1^er, paragraphe 2, point a), notifient à l'autorité compétente de leur État membre d'origine, au moyen du formulaire figurant à l'annexe I, toute modification de l'un quelconque des renseignements contenus dans une notification relative à l'exercice de la libre prestation de services et d'activités d'investissement.\n\n**2.** Aux fins de la notification prévue au paragraphe 1 du présent article, les entreprises d'investissement ainsi que les établissements de crédit visés à l'article 1^er, paragraphe 2, point a), ne complètent que les parties du formulaire figurant à l'annexe I qui concernent les changements apportés aux renseignements contenus dans la notification relative à l'exercice de la libre prestation de services et d'activités d'investissement.\n\n**3.** Aux fins de la notification des modifications liées aux services d'investissement, aux services auxiliaires ou aux instruments financiers fournis, ou aux activités d'investissement exercées, les entreprises d'investissement ainsi que les établissements de crédit visés à l'article 1^er, paragraphe 2, point a), dressent la liste de tous les services d'investissement, services auxiliaires et instruments financiers qu'ils fournissent au moment de la notification ou envisagent de fournir ultérieurement, et de toutes les activités d'investissement qu'ils exercent au moment de la notification ou envisagent d'exercer ultérieurement.",
-      "text_sha256": "46c667e7086614659003cb6036697b000219ce59f16cffb6af5cbb8d09ccf5ff",
+      "text_md": "1. Les entreprises d'investissement ainsi que les établissements de crédit visés à l'article 1er, paragraphe 2, point a), notifient à l'autorité compétente de leur État membre d'origine, au moyen du formulaire figurant à l'annexe I, toute modification de l'un quelconque des renseignements contenus dans une notification relative à l'exercice de la libre prestation de services et d'activités d'investissement.\n\n2. Aux fins de la notification prévue au paragraphe 1 du présent article, les entreprises d'investissement ainsi que les établissements de crédit visés à l'article 1er, paragraphe 2, point a), ne complètent que les parties du formulaire figurant à l'annexe I qui concernent les changements apportés aux renseignements contenus dans la notification relative à l'exercice de la libre prestation de services et d'activités d'investissement.\n\n3. Aux fins de la notification des modifications liées aux services d'investissement, aux services auxiliaires ou aux instruments financiers fournis, ou aux activités d'investissement exercées, les entreprises d'investissement ainsi que les établissements de crédit visés à l'article 1er, paragraphe 2, point a), dressent la liste de tous les services d'investissement, services auxiliaires et instruments financiers qu'ils fournissent au moment de la notification ou envisagent de fournir ultérieurement, et de toutes les activités d'investissement qu'ils exercent au moment de la notification ou envisagent d'exercer ultérieurement.",
+      "text_sha256": "47ebcb59f145316a3b1c1090260cf7ab300042d1049564850d49a042bf96c9b9",
       "md_span": {
-        "start": 5802,
-        "end": 7302
+        "start": 5752,
+        "end": 7237
       },
       "citations": []
     },
@@ -130,11 +130,11 @@
       "heading": "Communication concernant la notification modifiée relative à la libre prestation de services et d'activités d'investissement",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** Lorsqu'elle reçoit une notification au titre de l'article 6, l'autorité compétente de l'État membre d'origine communique promptement à l'autorité compétente de l'État membre d'accueil les changements notifiés, en utilisant le formulaire figurant à l'annexe III, accompagné d'une copie de ladite notification.\n\n**2.** Dans le cas où l'agrément d'une entreprise d'investissement ou d'un établissement de crédit est retiré ou annulé, l'autorité compétente de l'État membre d'origine le notifie à l'autorité compétente de l'État membre d'accueil au moyen du formulaire figurant à l'annexe III.",
-      "text_sha256": "e7766c633e29cbbc2a7b218a7261eff5d139bdfca7b5d83933dae90b55627d3e",
+      "text_md": "1. Lorsqu'elle reçoit une notification au titre de l'article 6, l'autorité compétente de l'État membre d'origine communique promptement à l'autorité compétente de l'État membre d'accueil les changements notifiés, en utilisant le formulaire figurant à l'annexe III, accompagné d'une copie de ladite notification.\n\n2. Dans le cas où l'agrément d'une entreprise d'investissement ou d'un établissement de crédit est retiré ou annulé, l'autorité compétente de l'État membre d'origine le notifie à l'autorité compétente de l'État membre d'accueil au moyen du formulaire figurant à l'annexe III.",
+      "text_sha256": "8659782330c092c4d63e16fd1c5a8dec6fa920b50ad73cdb11959d70fdbf1fd9",
       "md_span": {
-        "start": 7466,
-        "end": 8062
+        "start": 7401,
+        "end": 7989
       },
       "citations": []
     },
@@ -150,8 +150,8 @@
       "text_md": "Les entreprises d'investissement ainsi que les opérateurs de marché exploitant un MTF ou un OTF qui envisagent de mettre en place, sur le territoire d'un autre État membre d'accueil, des dispositifs appropriés pour faciliter l'accès des utilisateurs, des membres ou des participants établis dans cet État membre à ces systèmes et leur permettre d'y négocier à distance notifient à l'autorité compétente de leur État membre d'origine, au moyen du formulaire figurant à l'annexe IV, les détails relatifs à l'État membre d'accueil dans lequel ils souhaitent mettre en place ces dispositifs.",
       "text_sha256": "e6b88749e013445e976c2472938b04717459a6bac98d424ee50848a33189aaf8",
       "md_span": {
-        "start": 8224,
-        "end": 8811
+        "start": 8151,
+        "end": 8738
       },
       "citations": []
     },
@@ -164,11 +164,11 @@
       "heading": "Communication concernant la notification relative à la mise en place de dispositifs visant à faciliter l'accès à un MTF ou à un OTF",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** Dans un délai d'un mois à compter de la réception de la notification prévue à l'article 8, l'autorité compétente de l'État membre d'origine informe de cette notification l'autorité compétente de l'État membre d'accueil au moyen du formulaire figurant à l'annexe V, accompagné d'une copie de ladite notification.\n\n**2.** L'autorité compétente de l'État membre d'origine informe promptement l'entreprise d'investissement ou l'opérateur de marché exploitant un MTF ou un OTF que la communication prévue au paragraphe 1 a été effectuée, et lui en précise la date.",
-      "text_sha256": "9ca4c27ae67e6337ea71ffa0341d6cfc8d03bec53cb5787254fcb1fad6ddcb8c",
+      "text_md": "1. Dans un délai d'un mois à compter de la réception de la notification prévue à l'article 8, l'autorité compétente de l'État membre d'origine informe de cette notification l'autorité compétente de l'État membre d'accueil au moyen du formulaire figurant à l'annexe V, accompagné d'une copie de ladite notification.\n\n2. L'autorité compétente de l'État membre d'origine informe promptement l'entreprise d'investissement ou l'opérateur de marché exploitant un MTF ou un OTF que la communication prévue au paragraphe 1 a été effectuée, et lui en précise la date.",
+      "text_sha256": "4910aafdde0e8682b76cd3e5d98566524d2e839be65957c952d9600dabf58da3",
       "md_span": {
-        "start": 8982,
-        "end": 9548
+        "start": 8909,
+        "end": 9467
       },
       "citations": []
     },
@@ -181,11 +181,11 @@
       "heading": "Notification d'une modification des renseignements contenus dans une notification relative à la mise en place de dispositifs visant à faciliter l'accès à un MTF ou à un OTF",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** Les entreprises d'investissement ainsi que les opérateurs de marché exploitant un MTF ou un OTF notifient à l'autorité compétente de leur État membre d'origine, au moyen du formulaire figurant à l'annexe IV, toute modification de l'un quelconque des renseignements contenus dans une notification relative à la mise en place de dispositifs visant à faciliter l'accès à un MTF ou à un OTF.\n\n**2.** Aux fins de la notification prévue au paragraphe 1, les entreprises d'investissement ainsi que les opérateurs de marché exploitant un MTF ou un OTF ne complètent que les parties du formulaire figurant à l'annexe IV qui concernent les changements apportés aux renseignements contenus dans la notification relative à la mise en place de dispositifs visant à faciliter l'accès à un MTF ou à un OTF.",
-      "text_sha256": "452255f33163869c4f4e214e1b76c8f6b760222314f60e8bc2782ae7b76c7bd2",
+      "text_md": "1. Les entreprises d'investissement ainsi que les opérateurs de marché exploitant un MTF ou un OTF notifient à l'autorité compétente de leur État membre d'origine, au moyen du formulaire figurant à l'annexe IV, toute modification de l'un quelconque des renseignements contenus dans une notification relative à la mise en place de dispositifs visant à faciliter l'accès à un MTF ou à un OTF.\n\n2. Aux fins de la notification prévue au paragraphe 1, les entreprises d'investissement ainsi que les opérateurs de marché exploitant un MTF ou un OTF ne complètent que les parties du formulaire figurant à l'annexe IV qui concernent les changements apportés aux renseignements contenus dans la notification relative à la mise en place de dispositifs visant à faciliter l'accès à un MTF ou à un OTF.",
+      "text_sha256": "325bd6df185624640e6ec3aabeebf98a6a67093cf893b1d2a6626e4e2a37d314",
       "md_span": {
-        "start": 9762,
-        "end": 10560
+        "start": 9681,
+        "end": 10471
       },
       "citations": []
     },
@@ -201,8 +201,8 @@
       "text_md": "Lorsqu'elle reçoit une notification au titre de l'article 10, paragraphe 1, l'autorité compétente de l'État membre d'origine communique promptement à l'autorité compétente de l'État membre d'accueil les changements notifiés, en utilisant le formulaire figurant à l'annexe III, accompagné d'une copie de ladite notification.",
       "text_sha256": "afabee1b5fa87899e4c91ad855b54409fda11f9325c2cca1abd4b576882a46a8",
       "md_span": {
-        "start": 10783,
-        "end": 11106
+        "start": 10694,
+        "end": 11017
       },
       "citations": []
     },
@@ -218,8 +218,8 @@
       "text_md": "Les entreprises d'investissement qui souhaitent établir une succursale sur le territoire d'un autre État membre communiquent à l'autorité compétente de leur État membre d'origine, au moyen du formulaire figurant à l'annexe VI, les informations requises par l'article 35, paragraphe 2, de la directive 2014/65/UE.",
       "text_sha256": "c0aa57e5b1b2af1c6ba10dfae454d5e06c03dca3066e13448f02f3b96d5e2bec",
       "md_span": {
-        "start": 11243,
-        "end": 11555
+        "start": 11154,
+        "end": 11466
       },
       "citations": []
     },
@@ -232,11 +232,11 @@
       "heading": "Notification relative à l'exercice du droit de recours à un agent lié",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** Les entreprises d'investissement ainsi que les établissements de crédit visés à l'article 1^er, paragraphe 2, point b), qui souhaitent recourir à un agent lié établi dans un autre État membre communiquent à l'autorité compétente de leur État membre d'origine, au moyen du formulaire figurant à l'annexe VII, les informations requises par l'article 35, paragraphe 2, de la directive 2014/65/UE.\n\n**2.** Lorsque des entreprises d'investissement ou des établissements de crédit visés à l'article 1^er, paragraphe 2, point b), souhaitent recourir à plusieurs agents liés dans un autre État membre, ils remplissent un formulaire de notification séparé pour chaque agent lié auquel ils souhaitent recourir.\n\n**3.** Les entreprises d'investissement qui souhaitent établir une succursale qui aura recours à des agents liés soumettent à l'autorité compétente de leur État membre d'origine, pour chacun de ces agents, une notification séparée relative à l'exercice du droit de recours à un agent lié, en utilisant le formulaire figurant à l'annexe VII.",
-      "text_sha256": "033da148ad03fa65dc320f83df240e2b760b1e99dc5c449e1791d52f4721406c",
+      "text_md": "1. Les entreprises d'investissement ainsi que les établissements de crédit visés à l'article 1er, paragraphe 2, point b), qui souhaitent recourir à un agent lié établi dans un autre État membre communiquent à l'autorité compétente de leur État membre d'origine, au moyen du formulaire figurant à l'annexe VII, les informations requises par l'article 35, paragraphe 2, de la directive 2014/65/UE.\n\n2. Lorsque des entreprises d'investissement ou des établissements de crédit visés à l'article 1er, paragraphe 2, point b), souhaitent recourir à plusieurs agents liés dans un autre État membre, ils remplissent un formulaire de notification séparé pour chaque agent lié auquel ils souhaitent recourir.\n\n3. Les entreprises d'investissement qui souhaitent établir une succursale qui aura recours à des agents liés soumettent à l'autorité compétente de leur État membre d'origine, pour chacun de ces agents, une notification séparée relative à l'exercice du droit de recours à un agent lié, en utilisant le formulaire figurant à l'annexe VII.",
+      "text_sha256": "004e7daa35703c2101470e06994f1a6a05c81ed0e6558e254cdd4737a646885c",
       "md_span": {
-        "start": 11666,
-        "end": 12715
+        "start": 11577,
+        "end": 12612
       },
       "citations": []
     },
@@ -249,11 +249,11 @@
       "heading": "Évaluation de l'exhaustivité et de l'exactitude des notifications relatives à l'exercice du droit d'établissement d'une succursale et du droit de recours à un agent lié",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** À la réception d'une notification soumise au titre des articles 12 ou 13, l'autorité compétente de l'État membre d'origine évalue l'exhaustivité et l'exactitude des informations fournies.\n\n**2.** Lorsqu'elle constate que les informations fournies sont incomplètes ou inexactes, l'autorité compétente de l'État membre d'origine en informe promptement l'entreprise d'investissement ou l'établissement de crédit visé à l'article 1^er, paragraphe 2, point b). L'autorité compétente de l'État membre d'origine indique précisément en quoi les informations sont incomplètes ou inexactes.\n\n**3.** Le délai de trois mois prévu à l'article 35, paragraphe 3, et à l'article 35, paragraphe 7, deuxième alinéa, de la directive 2014/65/UE commence à courir à compter de la réception de la notification relative à l'exercice du droit d'établissement d'une succursale ou de celle relative à l'exercice du droit de recours à un agent qui contient des informations jugées complètes et exactes.",
-      "text_sha256": "4e4e340535bf0412ddc5fdfaa9729ecc6fc97e5c01106f7db84efbe3f95232cb",
+      "text_md": "1. À la réception d'une notification soumise au titre des articles 12 ou 13, l'autorité compétente de l'État membre d'origine évalue l'exhaustivité et l'exactitude des informations fournies.\n\n2. Lorsqu'elle constate que les informations fournies sont incomplètes ou inexactes, l'autorité compétente de l'État membre d'origine en informe promptement l'entreprise d'investissement ou l'établissement de crédit visé à l'article 1er, paragraphe 2, point b). L'autorité compétente de l'État membre d'origine indique précisément en quoi les informations sont incomplètes ou inexactes.\n\n3. Le délai de trois mois prévu à l'article 35, paragraphe 3, et à l'article 35, paragraphe 7, deuxième alinéa, de la directive 2014/65/UE commence à courir à compter de la réception de la notification relative à l'exercice du droit d'établissement d'une succursale ou de celle relative à l'exercice du droit de recours à un agent qui contient des informations jugées complètes et exactes.",
+      "text_sha256": "df065c7c72eda845bf48f4fb367b43c6999c80c061a7fd3b6ba06fc925bc4e03",
       "md_span": {
-        "start": 12925,
-        "end": 13907
+        "start": 12822,
+        "end": 13791
       },
       "citations": []
     },
@@ -266,11 +266,11 @@
       "heading": "Communication concernant la notification relative à l'exercice du droit d'établissement d'une succursale",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** Dans un délai de trois mois à compter de la réception de la notification relative à l'exercice du droit d'établissement d'une succursale prévue à l'article 12, l'autorité compétente de l'État membre d'origine informe de cette notification l'autorité compétente de l'État membre d'accueil au moyen du formulaire figurant à l'annexe VIII, accompagné d'une copie de ladite notification.\n\n**2.** L'autorité compétente de l'État membre d'origine informe promptement l'entreprise d'investissement que la communication prévue au paragraphe 1 a été effectuée, et lui en précise la date.\n\n**3.** L'autorité compétente de l'État membre d'accueil accuse réception de la notification tant auprès de l'autorité compétente de l'État membre d'origine que de l'entreprise d'investissement.",
-      "text_sha256": "1d7eef26fc58b213f2fbf4c3b9de91ff35134c7aa912060d95ae0765166f4fec",
+      "text_md": "1. Dans un délai de trois mois à compter de la réception de la notification relative à l'exercice du droit d'établissement d'une succursale prévue à l'article 12, l'autorité compétente de l'État membre d'origine informe de cette notification l'autorité compétente de l'État membre d'accueil au moyen du formulaire figurant à l'annexe VIII, accompagné d'une copie de ladite notification.\n\n2. L'autorité compétente de l'État membre d'origine informe promptement l'entreprise d'investissement que la communication prévue au paragraphe 1 a été effectuée, et lui en précise la date.\n\n3. L'autorité compétente de l'État membre d'accueil accuse réception de la notification tant auprès de l'autorité compétente de l'État membre d'origine que de l'entreprise d'investissement.",
+      "text_sha256": "a6875d1b95383ea5c56127d49c3d28691ea993bb9cb35ce54dd83f7d414a65a6",
       "md_span": {
-        "start": 14053,
-        "end": 14833
+        "start": 13937,
+        "end": 14705
       },
       "citations": []
     },
@@ -283,11 +283,11 @@
       "heading": "Communication concernant la notification relative à l'exercice du droit de recours à un agent lié",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** Dans un délai de trois mois à compter de la réception de la notification relative à l'exercice du droit de recours à un agent lié prévue à l'article 13, l'autorité compétente de l'État membre d'origine informe de cette notification l'autorité compétente de l'État membre d'accueil au moyen du formulaire figurant à l'annexe IX, accompagné d'une copie de ladite notification.\n\n**2.** L'autorité compétente de l'État membre d'origine informe promptement l'entreprise d'investissement ou l'établissement de crédit que la communication prévue au paragraphe 1 a été effectuée, et lui en précise la date.\n\n**3.** L'autorité compétente de l'État membre d'accueil accuse réception de la notification tant auprès de l'autorité compétente de l'État membre d'origine que de l'entreprise d'investissement ou de l'établissement de crédit visé à l'article 1^er, paragraphe 2, point b).\n\n**4.** L'agent lié ne commence à fournir les services d'investissement proposés, ou à exercer les activités d'investissement proposées, qu'après avoir été inscrit au registre public de l'État membre dans lequel il est établi, conformément à l'article 29, paragraphe 3, de la directive 2014/65/UE.\n\n**5.** L'agent lié ne commence à fournir les services d'investissement proposés, ou à exercer les activités d'investissement proposées, qu'après avoir reçu la communication de l'autorité compétente de l'État membre d'accueil.\n\n**6.** Lorsque cette communication n'a pas lieu, l'agent lié peut commencer à fournir les services d'investissement proposés, ou à exercer les activités d'investissement proposées, deux mois après la date à laquelle l'autorité compétente de l'État membre d'origine a effectué la communication visée au paragraphe 2.",
-      "text_sha256": "efa68536fc9efbc746cd7c6a52eca6d19f9791bc002593ba58d55bb919aebbe1",
+      "text_md": "1. Dans un délai de trois mois à compter de la réception de la notification relative à l'exercice du droit de recours à un agent lié prévue à l'article 13, l'autorité compétente de l'État membre d'origine informe de cette notification l'autorité compétente de l'État membre d'accueil au moyen du formulaire figurant à l'annexe IX, accompagné d'une copie de ladite notification.\n\n2. L'autorité compétente de l'État membre d'origine informe promptement l'entreprise d'investissement ou l'établissement de crédit que la communication prévue au paragraphe 1 a été effectuée, et lui en précise la date.\n\n3. L'autorité compétente de l'État membre d'accueil accuse réception de la notification tant auprès de l'autorité compétente de l'État membre d'origine que de l'entreprise d'investissement ou de l'établissement de crédit visé à l'article 1er, paragraphe 2, point b).\n\n4. L'agent lié ne commence à fournir les services d'investissement proposés, ou à exercer les activités d'investissement proposées, qu'après avoir été inscrit au registre public de l'État membre dans lequel il est établi, conformément à l'article 29, paragraphe 3, de la directive 2014/65/UE.\n\n5. L'agent lié ne commence à fournir les services d'investissement proposés, ou à exercer les activités d'investissement proposées, qu'après avoir reçu la communication de l'autorité compétente de l'État membre d'accueil.\n\n6. Lorsque cette communication n'a pas lieu, l'agent lié peut commencer à fournir les services d'investissement proposés, ou à exercer les activités d'investissement proposées, deux mois après la date à laquelle l'autorité compétente de l'État membre d'origine a effectué la communication visée au paragraphe 2.",
+      "text_sha256": "5d4c83346f24974e6398448c6e9abaee0f4ef4fe16326bd0339e3da5ce56fd66",
       "md_span": {
-        "start": 14972,
-        "end": 16692
+        "start": 14844,
+        "end": 16539
       },
       "citations": []
     },
@@ -300,11 +300,11 @@
       "heading": "Notification d'une modification des renseignements contenus dans une notification relative à l'exercice du droit d'établissement d'une succursale",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** Les entreprises d'investissement notifient à l'autorité compétente de leur État membre d'origine, au moyen du formulaire figurant à l'annexe VI, toute modification des renseignements contenus dans une notification relative à l'exercice du droit d'établissement d'une succursale.\n\nLes entreprises d'investissement ou les établissements de crédit ne complètent que les parties du formulaire figurant à l'annexe VI qui concernent les changements apportés aux renseignements figurant dans la notification relative à l'exercice du droit d'établissement d'une succursale.\n\n**2.** Lorsque les entreprises d'investissement ou les établissements de crédit souhaitent apporter des modifications aux services d'investissement, aux services auxiliaires ou aux instruments financiers fournis, ou aux activités d'investissement exercées, ils transmettent, au moyen du formulaire figurant à l'annexe VI, une liste de tous les services d'investissement, services auxiliaires et instruments financiers qu'ils fournissent par l'intermédiaire d'agents liés au moment de cette notification ou qu'ils envisagent de fournir de la sorte ultérieurement, et de toutes les activités d'investissement qu'ils exercent par l'intermédiaire d'agents liés au moment de cette notification ou envisagent d'exercer de la sorte ultérieurement.\n\n**3.** Les modifications apportées aux renseignements contenus dans une notification relative à l'exercice du droit d'établissement d'une succursale afin de signaler la cessation de l'activité de la succursale sont communiquées au moyen du formulaire figurant à l'annexe X.",
-      "text_sha256": "94f885af031c2329287da5d2ec7fa47f859febed76dd18d54bdca0b4e84deaf0",
+      "text_md": "1. Les entreprises d'investissement notifient à l'autorité compétente de leur État membre d'origine, au moyen du formulaire figurant à l'annexe VI, toute modification des renseignements contenus dans une notification relative à l'exercice du droit d'établissement d'une succursale.\n\nLes entreprises d'investissement ou les établissements de crédit ne complètent que les parties du formulaire figurant à l'annexe VI qui concernent les changements apportés aux renseignements figurant dans la notification relative à l'exercice du droit d'établissement d'une succursale.\n\n2. Lorsque les entreprises d'investissement ou les établissements de crédit souhaitent apporter des modifications aux services d'investissement, aux services auxiliaires ou aux instruments financiers fournis, ou aux activités d'investissement exercées, ils transmettent, au moyen du formulaire figurant à l'annexe VI, une liste de tous les services d'investissement, services auxiliaires et instruments financiers qu'ils fournissent par l'intermédiaire d'agents liés au moment de cette notification ou qu'ils envisagent de fournir de la sorte ultérieurement, et de toutes les activités d'investissement qu'ils exercent par l'intermédiaire d'agents liés au moment de cette notification ou envisagent d'exercer de la sorte ultérieurement.\n\n3. Les modifications apportées aux renseignements contenus dans une notification relative à l'exercice du droit d'établissement d'une succursale afin de signaler la cessation de l'activité de la succursale sont communiquées au moyen du formulaire figurant à l'annexe X.",
+      "text_sha256": "e859473e7aa18e100b070c5ca4b88c9421c52494d0463461423f3cb3d9377088",
       "md_span": {
-        "start": 16879,
-        "end": 18468
+        "start": 16726,
+        "end": 18303
       },
       "citations": []
     },
@@ -317,11 +317,11 @@
       "heading": "Notification d'une modification des renseignements contenus dans une notification relative à l'exercice du droit de recours à un agent lié",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** Les entreprises d'investissement ainsi que les établissements de crédit visés à l'article 1^er, paragraphe 2, point b), notifient à l'autorité compétente de leur État membre d'origine, au moyen du formulaire figurant à l'annexe VII, toute modification de l'un quelconque des renseignements contenus dans une notification relative à l'exercice du droit de recours à un agent lié.\n\nLes entreprises d'investissement ou les établissements de crédit ne complètent que les parties du formulaire figurant à l'annexe VII qui concernent les changements apportés aux renseignements figurant dans la notification relative à l'exercice du droit de recours à un agent lié.\n\n**2.** Lorsque les entreprises d'investissement souhaitent apporter des modifications aux services d'investissement ou aux instruments financiers fournis, ou aux activités d'investissement exercées, qui font l'objet d'une notification relative à l'exercice du droit de recours à un agent lié, elles transmettent, au moyen du formulaire figurant à l'annexe VI, une liste de tous les services d'investissement et instruments financiers qu'elles fournissent par l'intermédiaire de l'agent lié concerné à la date de cette notification, ou envisagent de fournir de la sorte ultérieurement, et de toutes les activités d'investissement qu'elles exercent par l'intermédiaire de l'agent lié concerné au moment de la notification, ou envisagent d'exercer de la sorte ultérieurement.\n\n**3.** Les modifications apportées aux renseignements contenus dans une notification relative à l'exercice du droit de recours à un agent lié afin de signaler la cessation du recours aux services d'un agent lié établi dans un autre État membre sont communiquées au moyen du formulaire figurant à l'annexe X.",
-      "text_sha256": "2f14b472c108382ce55daeef3e07d5117d98260542b47cc27a2cfd1841a895a5",
+      "text_md": "1. Les entreprises d'investissement ainsi que les établissements de crédit visés à l'article 1er, paragraphe 2, point b), notifient à l'autorité compétente de leur État membre d'origine, au moyen du formulaire figurant à l'annexe VII, toute modification de l'un quelconque des renseignements contenus dans une notification relative à l'exercice du droit de recours à un agent lié.\n\nLes entreprises d'investissement ou les établissements de crédit ne complètent que les parties du formulaire figurant à l'annexe VII qui concernent les changements apportés aux renseignements figurant dans la notification relative à l'exercice du droit de recours à un agent lié.\n\n2. Lorsque les entreprises d'investissement souhaitent apporter des modifications aux services d'investissement ou aux instruments financiers fournis, ou aux activités d'investissement exercées, qui font l'objet d'une notification relative à l'exercice du droit de recours à un agent lié, elles transmettent, au moyen du formulaire figurant à l'annexe VI, une liste de tous les services d'investissement et instruments financiers qu'elles fournissent par l'intermédiaire de l'agent lié concerné à la date de cette notification, ou envisagent de fournir de la sorte ultérieurement, et de toutes les activités d'investissement qu'elles exercent par l'intermédiaire de l'agent lié concerné au moment de la notification, ou envisagent d'exercer de la sorte ultérieurement.\n\n3. Les modifications apportées aux renseignements contenus dans une notification relative à l'exercice du droit de recours à un agent lié afin de signaler la cessation du recours aux services d'un agent lié établi dans un autre État membre sont communiquées au moyen du formulaire figurant à l'annexe X.",
+      "text_sha256": "d1746bff2b48c7df05224279e0bd61cb4a4b20ff5b5382f85b91d0ca9efa641c",
       "md_span": {
-        "start": 18648,
-        "end": 20397
+        "start": 18483,
+        "end": 20219
       },
       "citations": []
     },
@@ -334,11 +334,11 @@
       "heading": "Communication concernant la modification des renseignements contenus dans une notification relative à l'exercice du droit d'établissement d'une succursale",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** Lorsqu'elle reçoit une notification au titre de l'article 17, paragraphe 1, l'autorité compétente de l'État membre d'origine communique promptement à l'autorité compétente de l'État membre d'accueil les changements notifiés, en utilisant le formulaire figurant à l'annexe XI, accompagné d'une copie de ladite notification.\n\n**2.** Lorsqu'elle reçoit une notification au titre de l'article 17, paragraphe 3, l'autorité compétente de l'État membre d'origine communique promptement à l'autorité compétente de l'État membre d'accueil les changements notifiés, en utilisant le formulaire figurant à l'annexe XIII, accompagné d'une copie de ladite notification.",
-      "text_sha256": "6543e012b5fbb9a705f0d521ab2fd1ed427a88844452239dbc66325931d49bfa",
+      "text_md": "1. Lorsqu'elle reçoit une notification au titre de l'article 17, paragraphe 1, l'autorité compétente de l'État membre d'origine communique promptement à l'autorité compétente de l'État membre d'accueil les changements notifiés, en utilisant le formulaire figurant à l'annexe XI, accompagné d'une copie de ladite notification.\n\n2. Lorsqu'elle reçoit une notification au titre de l'article 17, paragraphe 3, l'autorité compétente de l'État membre d'origine communique promptement à l'autorité compétente de l'État membre d'accueil les changements notifiés, en utilisant le formulaire figurant à l'annexe XIII, accompagné d'une copie de ladite notification.",
+      "text_sha256": "d0c06178578d4cebd42b50d53620aebb4bf7108d58ca8766886cce49bea4b9dd",
       "md_span": {
-        "start": 20593,
-        "end": 21255
+        "start": 20415,
+        "end": 21069
       },
       "citations": []
     },
@@ -351,11 +351,11 @@
       "heading": "Communication concernant la modification des renseignements contenus dans une notification relative à l'exercice du droit de recours à un agent lié",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** Lorsqu'elle reçoit une notification au titre de l'article 18, paragraphe 1, l'autorité compétente de l'État membre d'origine communique promptement à l'autorité compétente de l'État membre d'accueil les changements notifiés, en utilisant le formulaire figurant à l'annexe XII, accompagné d'une copie de ladite notification.\n\n**2.** Lorsqu'elle reçoit une notification au titre de l'article 18, paragraphe 3, l'autorité compétente de l'État membre d'origine communique promptement à l'autorité compétente de l'État membre d'accueil les changements notifiés, en utilisant le formulaire figurant à l'annexe XIII, accompagné d'une copie de ladite notification.",
-      "text_sha256": "d70613f7b120fa903e02073f7311ee7b4210e354cc87ff463435b34f3d319b7a",
+      "text_md": "1. Lorsqu'elle reçoit une notification au titre de l'article 18, paragraphe 1, l'autorité compétente de l'État membre d'origine communique promptement à l'autorité compétente de l'État membre d'accueil les changements notifiés, en utilisant le formulaire figurant à l'annexe XII, accompagné d'une copie de ladite notification.\n\n2. Lorsqu'elle reçoit une notification au titre de l'article 18, paragraphe 3, l'autorité compétente de l'État membre d'origine communique promptement à l'autorité compétente de l'État membre d'accueil les changements notifiés, en utilisant le formulaire figurant à l'annexe XIII, accompagné d'une copie de ladite notification.",
+      "text_sha256": "4e4e96a2299baf2ebed2fb5a450c1e1ea28f69e3891cd3be3d1943272408516a",
       "md_span": {
-        "start": 21444,
-        "end": 22107
+        "start": 21258,
+        "end": 21913
       },
       "citations": []
     },
@@ -368,11 +368,11 @@
       "heading": "Entrée en vigueur et application",
       "path": [],
       "article_valid_from": null,
-      "text_md": "Le présent règlement entre en vigueur le jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.\n\nIl s'applique à partir du 3 janvier 2018.",
-      "text_sha256": "b7c05ddb3a79f42abadc5e7552f73e9ead75ad1e22fa9b544eddeb802cf964fe",
+      "text_md": "Le présent règlement entre en vigueur le jour suivant celui de sa publication au *Journal officiel de l'Union européenne*.\n\nIl s'applique à partir du 3 janvier 2018.\n\nLe présent règlement est obligatoire dans tous ses éléments et directement applicable dans tout État membre.",
+      "text_sha256": "1179d27d8d072760b32978fed4bddfdf4575602461b5d8445d0cc456085b4aa8",
       "md_span": {
-        "start": 22181,
-        "end": 22346
+        "start": 21987,
+        "end": 22262
       },
       "citations": []
     },
@@ -385,11 +385,11 @@
       "heading": "ANNEXE I",
       "path": [],
       "article_valid_from": null,
-      "text_md": "Formulaire à utiliser pour toute notification relative à l’exercice de la libre prestation de services et d’activités d’investissement et pour la modification des renseignements contenus dans une telle notification (1)\n\n[Articles 3 et 6 du règlement d’exécution (UE) 2017/2382 de la Commission]\n\nNuméro de référence:\n\nDate:\n\nPartie 1 — Informations de contact\n\nType de notification:\n\nNotification relative à l’exercice de la libre prestation de services et d’activités d’investissement/Modification des renseignements contenus dans une notification relative à l’exercice de la libre prestation de services et d’activités d’investissement\n\nÉtat membre dans lequel l’entreprise d’investissement ou l’établissement de crédit envisage d’opérer:\n\nNom de l’entreprise d’investissement ou de l’établissement de crédit:\n\nRaison commerciale:\n\nAdresse:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nNom de la personne de contact dans l’entreprise d’investissement ou l’établissement de crédit:\n\nÉtat membre d’origine:\n\nStatut de l’agrément:\n\nAgréé(e) par [nom de l’autorité compétente de l’État membre d’origine]\n\nDate de l’agrément:\n\nPartie 2 — Tableau des activités\n\nServices et activités d’investissement et services auxiliaires (*) envisagés\n\nServices et activités d’investissement\n\nServices auxiliaires\n\nA1\n\nA2\n\nA3\n\nA4\n\nA5\n\nA5\n\nA7\n\nA8\n\nA9\n\nB1\n\nB2\n\nB3\n\nB4\n\nB5\n\nB6\n\nB7\n\nInstruments financiers\n\nC1\n\nC2\n\nC3\n\nC4\n\nC5\n\nC6\n\nC7\n\nC8\n\nC9\n\nC10\n\nC11\n\n(*) Veuillez cocher (x) les cases appropriées.\n\n(1) Pour une modification des renseignements contenus dans une notification concernant l’exercice de la libre prestation de services et d’activités d’investissement, veuillez ne remplir que les parties du formulaire qui sont pertinentes pour les changements notifiés. Si l’intention est d’apporter des changements aux services et activités d’investissement, aux services auxiliaires ou aux instruments financiers, veuillez dresser la liste de tous les services et activités d’investissement, services auxiliaires ou instruments financiers que l’entreprise fournira.\n\nCoordonnées de l’agent lié situé dans l’État membre d’origine (*)\n\nNom de l’agent lié\n\nAdresse\n\nTéléphone\n\nAdresse électronique\n\nPersonne de contact\n\n(*) Veuillez fournir, pour chaque agent lié auquel l’entreprise d’investissement a l’intention de recourir, des tableaux distincts indiquant les services d’investissement envisagés.\n\nServices d’investissement devant être fournis par l’agent lié (*)\n\nServices et activités d’investissement\n\nServices auxiliaires\n\nA1\n\nA2\n\nA3\n\nA4\n\nA5\n\nA6\n\nA7\n\nA8\n\nA9\n\nB1\n\nB2\n\nB3\n\nB4\n\nB5\n\nB6\n\nB7\n\nInstruments financiers\n\nC1\n\nC2\n\nC3\n\nC4\n\nC5\n\nC6\n\nC7\n\nC8\n\nC9\n\nC10\n\nC11\n\n(*) Veuillez cocher (x) la/les case(s) appropriée(s). Si l’intention est de modifier les services et activités d’investissement ou les instruments financiers fournis par l’agent lié, veuillez dresser la liste de tous les services et activités d’investissement ou instruments financiers que cet agent fournira.",
-      "text_sha256": "3306e3eb17d094a21f786a26f99253f661b141b1f630ff27a1ebb82cc67da02c",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "md_span": {
-        "start": 22385,
-        "end": 25338
+        "start": 22301,
+        "end": 22301
       },
       "citations": []
     },
@@ -402,11 +402,11 @@
       "heading": "ANNEXE II",
       "path": [],
       "article_valid_from": null,
-      "text_md": "Formulaire à utiliser par l’autorité compétente de l’État membre d’origine pour la communication à l’autorité compétente de l’État membre d’accueil d’une notification relative à l’exercice de la libre prestation de serviceset d’activités d’investissement\n\n[Article 5 du règlement d’exécution (UE) 2017/2382 de la Commission]\n\nNuméro de référence:\n\nDate:\n\nCommunication en application de l’article 34, paragraphe 3, de la directive 2014/65/UE (1)\n\nEXPÉDITEUR:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’origine:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nDESTINATAIRE:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’accueil:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nEn application de l’article 34, paragraphe 3, de la directive 2014/65/UE, nous vous informons que [nom de l’entreprise],1) entreprise d’investissement agréée par [nom de l’autorité compétente de l’État membre d’origine], a l’intention de fournir pour la première fois les services et/ou activités d’investissement ainsi que les services auxiliaires énumérés dans la notification ci-jointe dans le cadre de l’exercice du droit à la libre prestation de services et d’activités d’investissement; ou 2) établissement de crédit agréé par [nom de l’autorité compétente de l’État membre d’origine], a l’intention de fournir pour la première fois, par l’intermédiaire d’un agent lié, les services ou activités d’investissement énumérés dans la notification ci-jointe dans le cadre de l’exercice du droit à la libre prestation de services et d’activités d’investissement.\n\nN’hésitez pas à nous contacter pour toute question.\n\n[Formule de politesse]\n\n[Signature]\n\n(1) Veuillez adapter comme il y a lieu.",
-      "text_sha256": "bab6b0059fc79befec0edf9433abd35fcc9b8983a493357054f8ac2351756e02",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "md_span": {
-        "start": 25379,
-        "end": 27145
+        "start": 22342,
+        "end": 22342
       },
       "citations": []
     },
@@ -419,11 +419,11 @@
       "heading": "ANNEXE III",
       "path": [],
       "article_valid_from": null,
-      "text_md": "Formulaire à utiliser par l’autorité compétente de l’État membre d’origine pour la communication à l’autorité compétente de l’État membre d’accueil d’une modification des renseignements contenus dans une notification relative à l’exercice de la libre prestation de services et d’activités d’investissement ou dans une notification relative à la mise en place de dispositifs visant à faciliter l’accès à un MTF ou à un OTF\n\n[Articles 7 et 8 du règlement d’exécution (UE) 2017/2382 de la Commission]\n\nNuméro de référence:\n\nDate:\n\nCommunication en application de l’article 34, paragraphe 4, ou de l’article 34, paragraphe 7, de la directive 2014/65/UE (1)\n\nEXPÉDITEUR:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’origine:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nDESTINATAIRE:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’accueil:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nConformément à l’article 34, paragraphe 4, de la directive 2014/65/UE, nous vous informons que [nom de l’entreprise], entreprise d’investissement/établissement de crédit/opérateur de marché agréé(e)/surveillé(e) par [nom de l’autorité compétente de l’État membre d’origine], a:\n\na) modifié les services et activités d’investissement/services auxiliaires/instruments financiers qu’il/elle a l’intention de fournir sur votre territoire sur une base transfrontière;\n\nb) changé de nom («[nouveau nom]» au lieu de «[ancien nom]») avec effet au [date du changement];\n\nc) déménagé à l’adresse suivante avec effet au [date du changement];\n\nd) modifié ses autres informations de contact comme suit: [ajoutez toutes les modifications apportées aux informations de contact figurant à l’annexe I, partie 1], avec effet au [date du changement];\n\ne) engagé un agent lié supplémentaire agréé en/au(x) [nom de l’État membre d’origine] pour fournir ses services et exercer ses activités d’investissement sur votre territoire sur une base transfrontière;\n\nf) modifié les dispositifs mis en place en/au(x) [nom de l’État membre d’accueil] afin de faciliter l’accès au système multilatéral/organisé de négociation dénommé [nom du MTF ou de l’OTF] et la négociation sur cette plateforme;\n\ng) cessé de fournir des services d’investissement et/ou d’exercer des activités d’investissement en raison du retrait/de l’annulation de son agrément avec effet au [date du retrait ou de l’annulation].\n\nVeuillez trouver ci-joint une copie de la notification modifiée relative à la [prestation de services et d’activités d’investissement/mise en place de dispositifs visant à faciliter l’accès à un MTF ou à un OTF] avec indication des changements pertinents. N’hésitez pas à nous contacter pour toute question.\n\n[Formule de politesse]\n\n[Signature]\n\n(1) Veuillez adapter comme il y a lieu en fonction des changements à notifier.",
-      "text_sha256": "91f3466a641515bc2b207ff58391d1679f215fc473e1983990631269c44b7220",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "md_span": {
-        "start": 27188,
-        "end": 30063
+        "start": 22385,
+        "end": 22385
       },
       "citations": []
     },
@@ -436,11 +436,11 @@
       "heading": "ANNEXE IV",
       "path": [],
       "article_valid_from": null,
-      "text_md": "Formulaire à utiliser pour toute notification relative à la mise en place de dispositifs visant à faciliter l’accès àun MTF ou à un OTF\n\n[Articles 8 et 10 du règlement d’exécution (UE) 2017/2382 de la Commission]\n\nNuméro de référence:\n\nDate:\n\nPartie 1 — Informations de contact\n\nType de notification:\n\nMise en place de dispositifs visant à faciliter l’accès à un MTF ou à un OTF/Modification des renseignements contenus dans une telle notification\n\nÉtat(s) membre(s) dans lequel/lesquels l’entreprise d’inves-tissement ou l’établissement de crédit envisage de mettre en place de tels dispositifs:\n\nNom de l’entreprise d’investissement/de l’opérateur de marché:\n\nAdresse:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nNom de la personne de contact dans l’entreprise d’inves-tissement/chez l’opérateur de marché:\n\nÉtat membre d’origine:\n\nStatut de l’agrément (de l’entreprise d’investissement)/Droit applicable (à l’opérateur de marché):\n\nAgréé(e)/surveillé(e) par [nom de l’autorité compétente de l’État membre d’origine]\n\nDate d’agrément (pour les entreprises d’investissement):\n\nNom du MTF ou de l’OTF:\n\nDate à laquelle les dispositifs seront en place:\n\nAvec effet immédiat\n\nPartie 2 — Description du modèle d’entreprise de [nom du MTF ou de l’OTF]\n\n[Veuillez inclure au moins les informations suivantes.]\n\nType d’instruments financiers négociés:\n\n[À compléter par l’entreprise d’investissement ou l’opérateur de marché.]\n\nType de participants:\n\n[À compléter par l’entreprise d’investissement ou l’opérateur de marché.]\n\nType de dispositifs appropriés:\n\n[À compléter par l’entreprise d’investissement ou l’opérateur de marché.]\n\nCommercialisation:\n\n[À compléter par l’entreprise d’investissement ou l’opérateur de marché.]",
-      "text_sha256": "9c8a61874a0a387bcf3b831d4d6d108b558080d715049947e17ba6e233308cb5",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "md_span": {
-        "start": 30104,
-        "end": 31827
+        "start": 22426,
+        "end": 22426
       },
       "citations": []
     },
@@ -453,11 +453,11 @@
       "heading": "ANNEXE V",
       "path": [],
       "article_valid_from": null,
-      "text_md": "Formulaire à utiliser par l’autorité compétente de l’État membre d’origine pour la communication à l’autorité compétente de l’État membre d’accueil d’une notification relative à la mise en place de dispositifs visantà faciliter l’accès à un MTF ou à un O\n\n[Article 9 du règlement d’exécution (UE) 2017/2382 de la Commission]\n\nNuméro de référence:\n\nDate:\n\nCommunication en application de l’article 34, paragraphe 7, de la directive 2014/65/UE (1)\n\nEXPÉDITEUR:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’origine:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nDESTINATAIRE:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’accueil:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nConformément à l’article 34, paragraphe 7, de la directive 2014/65/UE, nous vous informons que [nom de l’opérateur de marché/de l’entreprise d’investissement], qui exploite le [nom du MTF ou de l’OTF] conformément au/à la [nom de la législation nationale applicable] en vigueur en/au(x) [nom de l’État membre d’origine], a l’intention de mettre en place des dispositifs en/au(x) [nom de l’État membre d’accueil] afin de faciliter l’accès au [nom du MTF ou de l’OTF] et à la négociation sur cette plateforme par les utilisateurs, membres ou participants établis en/au(x) [nom de l’État membre d’accueil], comme indiqué dans la notification ci-jointe.\n\nN’hésitez pas à nous contacter pour toute question.\n\n[Formule de politesse]\n\n[Signature]\n\n(1) Veuillez adapter comme il y a lieu.",
-      "text_sha256": "89696119023e3be944aa3598fc12575068fce7db482c3197897e3ada35abc1a6",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "md_span": {
-        "start": 31866,
-        "end": 33419
+        "start": 22465,
+        "end": 22465
       },
       "citations": []
     },
@@ -470,13 +470,18 @@
       "heading": "ANNEXE VI",
       "path": [],
       "article_valid_from": null,
-      "text_md": "Formulaire à utiliser pour toute notification relative à l’exercice du droit d’établissement d’une succursale et pour la modification des renseignements contenus dans une telle notification (1)\n\n[Articles 12, 17 et 19 du règlement d’exécution (UE) 2017/2382 de la Commission]\n\nNuméro de référence:\n\nDate:\n\nPartie 1 — Informations de contact\n\nType de notification:\n\nNotification relative à l’exercice du droit d’établissement d’une succursale/Notification de modification des rensei-gnements relatifs à une succursale\n\nÉtat membre dans lequel l’entreprise d’investissement a l’intention d’établir une succursale (2):\n\nNom de l’entreprise d’investissement:\n\nAdresse de l’entreprise d’investissement:\n\nNuméro de téléphone de l’entreprise d’investissement:\n\nAdresse électronique de l’entreprise d’investissement:\n\nNom de la personne de contact dans l’entreprise d’inves-tissement:\n\nNom de la succursale:\n\nAdresse de la succursale:\n\nNuméro de téléphone de la succursale:\n\nAdresse électronique de la succursale:\n\nNoms des dirigeants de la succursale:\n\nÉtat membre d’origine:\n\nStatut de l’agrément:\n\nAgréé(e) par [l’autorité compétente de l’État membre d’origine]\n\nDate de l’agrément:\n\n(1) Pour une modification des renseignements contenus dans une notification concernant l’exercice du droit d’établissement d’une succursale, veuillez remplir seulement les parties du formulaire qui sont pertinentes pour les changements notifiés. Si l’entreprise d’investissement a l’intention d’apporter des changements aux services et activités d’investissement, aux services auxiliaires ou aux instruments financiers fournis par la succursale, elle dresse la liste de tous les services et activités d’investissement, services auxiliaires ou instruments financiers que celle-ci fournira.\n\n(2) Veuillez noter que le droit national des sociétés peut exiger l’immatriculation préalable de la succursale au registre du commerce avant le démarrage de ses activités.\n\nPartie 2 — Tableau des activités\n\nServices et activités d’investissement et services auxiliaires devant être fournis par la succursale (*)\n\nServices et activités d’investissement\n\nServices auxiliaires\n\nA1\n\nA2\n\nA3\n\nA4\n\nA5\n\nA6\n\nA7\n\nA8\n\nA9\n\nB1\n\nB2\n\nB3\n\nB4\n\nB5\n\nB6\n\nB7\n\nInstruments financiers\n\nC1\n\nC2\n\nC3\n\nC4\n\nC5\n\nC6\n\nC7\n\nC8\n\nC9\n\nC10\n\nC11\n\n(*) Veuillez cocher (x) la/les case(s) appropriée(s).\n\nPlan d’entreprise et structure organisationnelle de la succursale\n\nPlan d’entreprise\n\n1. De quelle manière la succursale contribue-t-elle à la stratégie de l’entreprise/du groupe?\n\n2. Quelles seront ses principales fonctions?\n\n3. Décrire ses principaux objectifs.\n\nStratégie commerciale\n\n1. Décrire les types de clients ou de contreparties dont sera chargée la succursale.\n\n2. Décrire comment l’entreprise se procurera ces clients et s’en occupera.\n\nStructure organisationnelle\n\n1. Indiquer brièvement comment la succursale s’insère dans la structure organisationnelle de l’entreprise/du groupe. (Cette tâche peut être facilitée par l’ajout d’un organigramme.)\n\n2. Décrire la structure de la succursale, en faisant ressortir les liens hiérarchiques fonctionnels, géographiques et juridiques.\n\n3. Indiquer qui sera responsable des opérations de la succursale au jour le jour; fournir des détails sur l’expérience professionnelle des dirigeants de la succursale. (Veuillez joindre les curriculum vitæ.)\n\n4. Indiquer qui sera responsable des fonctions de contrôle interne dans la succursale.\n\n5. Indiquer qui sera chargé du traitement des plaintes en rapport avec la succursale.\n\n6. Expliquer comment la succursale fera rapport au siège.\n\n7. Détailler tout accord d’externalisation d’importance majeure.\n\nAgents liés (*)\n\n1. Indiquer si la succursale aura recours à un agent lié.\n\n2. Identité de l’agent lié:\n\nNom:\n\nAdresse:\n\nTéléphone:\n\nAdresse électronique:\n\nPersonne de contact:\n\nRéférence ou hyperlien vers le registre public dans lequel l’agent lié est inscrit:\n\nSystèmes et contrôles\n\nVeuillez fournir un résumé succinct des modalités arrêtées:\n\n1) pour protéger les fonds et actifs des clients;\n\n4) pour respecter les règles de conduite des affaires et les autres obligations qui relèvent de la responsabilité de l’autorité compétente de l’État membre d’accueil conformément à l’article 35, paragraphe 8, ainsi que de l’obligation de tenue de registres v\n\n5) en matière de code de conduite du personnel, y compris en ce qui concerne les opérations effectuées pour compte propre;\n\n6) pour combattre le blanchiment de capitaux;\n\n7) pour surveiller les accords d’externalisation d’importance majeure (le cas échéant);\n\n8) le nom, l’adresse et les coordonnées de contact du système accrédité d’indemnisation des investisseurs auquel l’entreprise d’investissement est affiliée.\n\nPrévisions financières\n\nJoindre un état prévisionnel du compte de profits et pertes et des flux de trésorerie sur une période initiale detrente-six mois.\n\n(*) L’entreprise d’investissement soumet une notification distincte pour chaque agent lié auquel la succursale a l’intention de recourir.",
-      "text_sha256": "123c9c7c3960cea34d040a2ec644c2ea63065be2ffc1a33b882913c08f92a49d",
+      "text_md": "►(1) C1",
+      "text_sha256": "d420980b3f441d892276f41e1b25657931bbff716fec1c546daa6d51a9ce9983",
       "md_span": {
-        "start": 33460,
-        "end": 38463
+        "start": 22506,
+        "end": 22513
       },
-      "citations": []
+      "citations": [
+        {
+          "href": "http://publications.europa.eu/resource/celex/32017R2382R%2801%29",
+          "text": "►(1) C1"
+        }
+      ]
     },
     {
       "anchor": "annexe_vii",
@@ -487,11 +492,11 @@
       "heading": "ANNEXE VII",
       "path": [],
       "article_valid_from": null,
-      "text_md": "Formulaire à utiliser pour toute notification relative à l’exercice du droit de recours à un agent lié et pourla modification des renseignements contenus dans une telle notification (1)\n\n[Articles 13, 14 et 18 du règlement d’exécution (UE) 2017/2382 de la Commission]\n\nNuméro de référence:\n\nDate:\n\nPartie 1 — Informations de contact\n\nType de notification:\n\nNotification relative à l’exercice du droit de recours à un agent lié/Modification des renseignements contenus dans une telle notification\n\nÉtat membre dans lequel l’entreprise d’investissement ou l’établissement de crédit entend recourir à un agent lié établi dans le ou les États membres d’accueil:\n\nNom de l’entreprise d’investissement/de l’établissement de crédit:\n\nAdresse de l’entreprise d’investissement/de l’établissement de crédit:\n\nNom de la personne de contact dans l’entreprise d’inves-tissement/l’établissement de crédit:\n\nNuméro de téléphone de l’entreprise d’investissement/de l’établissement de crédit:\n\nAdresse électronique de l’entreprise d’investissement/de l’établissement de crédit:\n\nNom de l’agent lié:\n\nAdresse de l’agent lié:\n\nNuméro de téléphone de l’agent lié:\n\nAdresse électronique de l’agent lié:\n\nNoms des responsables de la gestion de l’agent lié:\n\nÉtat membre d’origine:\n\nStatut de l’agrément:\n\nAgréé par [nom de l’autorité compétente de l’État membre d’origine]\n\nDate de l’agrément:\n\nRéférence ou hyperlien vers le registre public dans lequel l’agent lié est inscrit\n\n(1) Pour une modification des renseignements contenus dans une notification concernant l’exercice du droit de recours à un agent lié, veuillez ne remplir que les parties des formulaires qui sont pertinentes pour les changements notifiés. Dans le cas où des changements ont été apportés aux services et activités d’investissement ou aux instruments financiers, l’entreprise dresse la liste de tous les services et activités d’investissement ou instruments financiers devant être fournis par l’agent lié.\n\nPartie 2 — Tableau des activités\n\nServices ou activités d’investissement devant être fournis par l’agent lié (*):\n\nServices et activités d’investissement\n\nServices auxiliaires\n\nA1\n\nA2\n\nA3\n\nA4\n\nA5\n\nA6\n\nA7\n\nA8\n\nA9\n\nB1\n\nB2\n\nB3\n\nB4\n\nB5\n\nB6\n\nB7\n\nInstruments financiers\n\nC1\n\nC2\n\nC3\n\nC4\n\nC5\n\nC6\n\nC7\n\nC8\n\nC9\n\nC10\n\nC11\n\n(*) Veuillez cocher (x) la/les case(s) appropriée(s).\n\nPlan d’entreprise et structure organisationnelle de l’agent lié\n\nPlan d’entreprise\n\n1. De quelle manière l’agent lié contribuera-t-il à la stratégie de l’entreprise/du groupe?\n\n2. Quelles seront ses principales fonctions?\n\n3. Décrire ses principaux objectifs.\n\nStratégie commerciale\n\n1. Décrire les types de clients ou de contreparties dont sera chargé l’agent lié.\n\n2. Décrire comment l’entreprise se procurera ces clients et s’en occupera.\n\nStructure organisationnelle\n\n1. Indiquer brièvement comment l’agent lié s’insère dans la structure organisationnelle de l’entreprise/du groupe. (Cette tâche peut être facilitée par l’ajout d’un organigramme.)\n\n2. Décrire la structure organisationnelle de l’agent lié, en faisant ressortir les liens hiérarchiques fonctionnels et juridiques.\n\n3. Indiquer qui sera responsable des opérations de l’agent lié au jour le jour; fournir des détails sur l’expérience professionnelle des personnes chargées de la gestion de l’agent lié. (Veuillez joindre les curriculum vitæ.)\n\n4. Indiquer qui sera responsable des fonctions de contrôle interne au sein de l’agent lié.\n\n5. Indiquer qui sera chargé du traitement des plaintes en rapport avec l’agent lié.\n\n6. Expliquer comment l’agent lié fera rapport au siège.\n\n7. Détailler tout accord d’externalisation d’importance majeure.\n\nSystèmes et contrôles\n\nVeuillez fournir un résumé succinct des modalités arrêtées:\n\n1) pour protéger les fonds et actifs des clients (le cas échéant);\n\n2) pour respecter les règles de conduite des affaires et les autres obligations qui relèvent de la responsabilité de l’autorité compétente de l’État membre d’accueil conformément à l’article 35, paragraphe 8, ainsi que de l’obligation de tenue de registres v\n\n3) en matière de code de conduite du personnel, y compris en ce qui concerne les opérations effectuées pour compte propre;\n\n4) pour combattre le blanchiment de capitaux;\n\n5) pour surveiller les accords d’externalisation d’importance majeure (le cas échéant);\n\n6) le nom, l’adresse et les coordonnées de contact du système accrédité d’indemnisation des investisseurs auquel l’entreprise d’investissement ou l’établissement de crédit est affilié.\n\nPrévisions financières\n\nJoindre un état prévisionnel du compte de profits et de pertes et des flux de trésorerie sur une période initiale detrente-six mois.",
-      "text_sha256": "99ae5d84f7e82d6417b70b5fc9e1da9a1da8a3c3ef1d2361c2e9024ee3fe92ee",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "md_span": {
-        "start": 38506,
-        "end": 43159
+        "start": 22556,
+        "end": 22556
       },
       "citations": []
     },
@@ -504,11 +509,11 @@
       "heading": "ANNEXE VIII",
       "path": [],
       "article_valid_from": null,
-      "text_md": "Formulaire à utiliser par l’autorité compétente de l’État membre d’origine pour la communication à l’autorité compétente de l’État membre d’accueil d’une notification relative à l’exercice du droit d’établissement d’une succursale\n\n[Article 15 du règlement d’exécution (UE) 2017/2382 de la Commission]\n\nNuméro de référence:\n\nDate:\n\nCommunication en application de l’article 35, paragraphe 3, de la directive 2014/65/UE (1)\n\nEXPÉDITEUR:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’origine:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nDESTINATAIRE:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’accueil:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nConformément à l’article 35, paragraphe 3, de la directive 2014/65/UE, nous vous informons que [nom de l’entreprise], entreprise d’investissement agréée par [nom de l’autorité compétente de l’État membre d’origine], a l’intention d’établir une succursale située en/au(x) [nom de l’État membre d’accueil] en vue de fournir des services d’investissement ou d’exercer des activités d’investissement et de proposer des services auxiliaires énumérés dans la notification ci-jointe relative à l’exercice du droit d’établissement d’une succursale.\n\n[Nom de l’entreprise d’investissement] participe au système [insérer le nom du système accrédité d’indemnisation de l’État membre d’origine], qui fournit une couverture aux investisseurs éligibles, comme requis par la législation de [insérer le nom de l’État membre d’origine] pour les services et activités d’investissement fournis par l’intéressée à partir d’un établissement situé en/au(x) [nom de l’État membre d’origine] et par l’intermédiaire de sa succursale dans l’Espace économique européen.\n\nN’hésitez pas à nous contacter pour toute question.\n\n[Formule de politesse]\n\n[Signature]\n\n(1) Veuillez adapter comme il y a lieu.",
-      "text_sha256": "0ad2d73580e3060b5456bf3ebb336d8290f5af96d7021b1494dac5e212b32bcd",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "md_span": {
-        "start": 43204,
-        "end": 45127
+        "start": 22601,
+        "end": 22601
       },
       "citations": []
     },
@@ -521,11 +526,11 @@
       "heading": "ANNEXE IX",
       "path": [],
       "article_valid_from": null,
-      "text_md": "Formulaire à utiliser par l’autorité compétente de l’État membre d’origine pour la communication à l’autorité compétente de l’État membre d’accueil d’une notification relative à l’exercice du droit de recours à un agent lié\n\n[Article 16 du règlement d’exécution (UE) 2017/2382 de la Commission]\n\nNuméro de référence:\n\nDate:\n\nCommunication en application de l’article 35, paragraphe 3, ou de l’article 35, paragraphe 7, de la directive 2014/65/UE (1)\n\nEXPÉDITEUR:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’origine:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nDESTINATAIRE:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’accueil:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nConformément à l’article 34, paragraphe 3/à l’article 35, paragraphe 7, de la directive 2014/65/UE, nous vous informons que [nom de l’entreprise], entreprise d’investissement/établissement de crédit agréé(e) par [nom de l’autorité compétente de l’État membre d’origine], a l’intention de recourir aux services d’un agent lié en/au(x) [nom de l’État membre d’accueil] en vue de fournir des services d’investissement ou d’exercer des activités d’investissement énumérés dans la notification ci-jointe relative à l’exercice du droit de recours à un agent lié.\n\n[Nom de l’entreprise d’investissement/de l’établissement de crédit] participe au système [insérer le nom du système accrédité d’indemnisation de l’État membre d’origine], qui fournit une couverture aux investisseurs éligibles, comme requis par la législation de [insérer le nom de l’État membre d’origine] pour les services et les activités d’investissement fournis par l’intéressé(e) à partir d’un établissement situé en/au(x) [nom de l’État membre d’origine] et par l’intermédiaire de son agent lié dans l’Espace économique européen.\n\nN’hésitez pas à nous contacter pour toute question.\n\n[Formule de politesse]\n\n[Signature]\n\n(1) Veuillez adapter comme il y a lieu.",
-      "text_sha256": "c4925128b8362d03c9905dc2a36726c124fb725cff02947360374e6f21d3b430",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "md_span": {
-        "start": 45168,
-        "end": 47169
+        "start": 22642,
+        "end": 22642
       },
       "citations": []
     },
@@ -538,11 +543,11 @@
       "heading": "ANNEXE X",
       "path": [],
       "article_valid_from": null,
-      "text_md": "Formulaire à utiliser pour toute modification des renseignements contenus dans une notification relative à l’exercice du droit de recours à un agent lié en ce qui concerne la cessation de l’activité d’une succursale oudu recours à un agent lié établis dans un autre État membre\n\n[Article 17, paragraphe 3, et article 18, paragraphe 3, du règlement d’exécution (UE) 2017/2382 de la Commission]\n\nNuméro de référence:\n\nDate:\n\nNotification en vertu de l’article 35, paragraphe 10, de la directive 2014/65/UE concernant la cessation de l’activité d’une succursale ou du recours à un agent lié établis dans un autre État membre (1)\n\nPartie 1 — Informations de contact\n\nType de notification:\n\nCessation de l’activité d’une succursale ou du recours à un agent lié\n\nÉtat membre dans lequel la succursale ou l’agent lié est établi(e):\n\nNom de l’entreprise d’investissement/de l’établissement de crédit:\n\nAdresse de l’entreprise d’investissement/de l’établissement de crédit:\n\nNuméro de téléphone de l’entreprise d’investissement/de l’établissement de crédit:\n\nAdresse électronique de l’entreprise d’investissement/de l’établissement de crédit:\n\nNom de la personne de contact responsable de la ces-sation de l’activité de la succursale ou du recours à l’agent lié:\n\nDénomination de la succursale ou de l’agent lié sur le ter-ritoire de l’État membre d’accueil:\n\nÉtat membre d’origine:\n\nAutorité compétente de l’État membre d’origine:\n\nStatut de l’agrément:\n\nAgréé(e) par [nom de l’autorité compétente de l’État membre d’origine]\n\nDate de l’agrément:\n\nDate à laquelle la cessation de l’activité de la succursale ou du recours à l’agent lié sera effective:\n\n(1) Veuillez adapter comme il y a lieu.\n\nDescription du calendrier de la cessation prévue de l’activité de la succursale ou du recours à l’agent lié:\n\n[À compléter par l’entreprise d’investissement/l’établissement de crédit.]\n\nInformations sur le processus de liquidation des activités concernées, y compris des détails sur la manière dont les inté-rêts des clients seront protégés, les plaintes traitées et les engagements restants acquittés:\n\n[À compléter par l’entreprise d’investissement/l’établissement de crédit.]",
-      "text_sha256": "7452c0f2d4b3c4ca610a41db6a54bdaefd1a610193f1e8ef32c8a2a86bfa9323",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "md_span": {
-        "start": 47208,
-        "end": 49372
+        "start": 22681,
+        "end": 22681
       },
       "citations": []
     },
@@ -555,11 +560,11 @@
       "heading": "ANNEXE XI",
       "path": [],
       "article_valid_from": null,
-      "text_md": "Formulaire à utiliser par l’autorité compétente de l’État membre d’origine pour la communication à l’autorité compétente de l’État membre d’accueil de toute modification des renseignements contenus dans une notification relative à l’exercice du droit d’ét\n\n[Article 19, paragraphe 1, du règlement d’exécution (UE) 2017/2382 de la Commission]\n\nNuméro de référence:\n\nDate:\n\nCommunication en application de l’article 35, paragraphe 10, de la directive 2014/65/UE (1)\n\nEXPÉDITEUR:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’origine:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nDESTINATAIRE:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’accueil:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nConformément à l’article 35, paragraphe 10, de la directive 2014/65/UE, nous vous informons que [nom de l’entreprise], entreprise d’investissement agréée par [nom de l’autorité compétente de l’État membre d’origine], a:\n\na) modifié les services et activités d’investissement/les services auxiliaires fournis par [nom de la succursale], qui est établie en/au(x) [nom de l’État membre d’accueil];\n\nb) changé de nom («[nouveau nom]» au lieu de «[ancien nom]») avec effet au [date du changement];\n\nc) modifié ses autres informations de contact concernant la succursale comme suit: [ajoutez toutes les modifications apportées aux informations de contact notifiées dans la partie 1 du formulaire figurant à l’annexe VI du règlement d’exécution (UE) 2017/2382 de la Commission], avec effet au [date du changement];\n\nd) engagé un agent lié supplémentaire établi en/au(x) [nom de l’État membre d’accueil] et fourni une mise à jour du programme d’activités;\n\ne) changé son nom/son adresse/ses coordonnées, soit «[nouveau nom/nouvelle adresse/nouvelles coordonnées]» au lieu de «[ancien nom/ancienne adresse/anciennes coordonnées]», avec effet au [date du changement].\n\nVeuillez trouver ci-joint un exemplaire de la notification modifiée relative à la libre prestation de services et d’activités d’investissement, avec les changements pertinents.\n\nN’hésitez pas à nous contacter pour toute question.\n\n[Formule de politesse]\n\n[Signature]\n\n(1) Veuillez adapter comme il y a lieu.",
-      "text_sha256": "7c158b8da1738402848769dfdda23a2b748e4a380f37772e344dcf6ffb118f26",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "md_span": {
-        "start": 49413,
-        "end": 51670
+        "start": 22722,
+        "end": 22722
       },
       "citations": []
     },
@@ -572,11 +577,11 @@
       "heading": "ANNEXE XII",
       "path": [],
       "article_valid_from": null,
-      "text_md": "Formulaire à utiliser par l’autorité compétente de l’État membre d’accueil pour la communication à l’autorité compétente de l’État membre d’origine de toute modification des renseignements contenus dans une notification relative à l’exercice du droit de r\n\n[Article 20, paragraphe 1, du règlement d’exécution (UE) 2017/2382 de la Commission]\n\nNuméro de référence:\n\nDate:\n\nCommunication en application de l’article 35, paragraphe 10, de la directive 2014/65/UE (1)\n\nEXPÉDITEUR:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’origine:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nDESTINATAIRE:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’accueil:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nConformément à l’article 35, paragraphe 10, de la directive 2014/65/UE, nous vous informons que [nom de l’entreprise], entreprise d’investissement/établissement de crédit agréé(e) par [nom de l’autorité compétente de l’État membre d’origine], a:\n\na) modifié les services et activités d’investissement fournis par [nom de l’agent lié];\n\nb) changé le nom de son agent lié («[nouveau nom]» au lieu de «[ancien nom]») avec effet au [date du changement];\n\nc) modifié comme suit ses autres informations de contact concernant son agent lié: [ajoutez toutes les modifications apportées aux informations de contact notifiées dans la partie 1 du formulaire figurant à l’annexe VII du règlement d’exécution (UE) 2017/2382 de la Commission], avec effet au [date du changement];\n\nd) changé son nom/son adresse/ses coordonnées, soit «[nouveau nom/nouvelle adresse/nouvelles coordonnées]» au lieu de «[ancien nom/ancienne adresse/anciennes coordonnées]», avec effet au [date du changement].\n\nVeuillez trouver ci-joint une copie de la notification modifiée relative à la libre prestation de services et d’activités d’inves-tissement, avec les changements pertinents.\n\nN’hésitez pas à nous contacter pour toute question.\n\n[Formule de politesse]\n\n[Signature]\n\n(1) Veuillez adapter comme il y a lieu.",
-      "text_sha256": "fd515ca3f71198f4a9fbfef671b8ee1febe21fcb1237d61c1cb6eb5b844cadef",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "md_span": {
-        "start": 51713,
-        "end": 53785
+        "start": 22765,
+        "end": 22765
       },
       "citations": []
     },
@@ -589,16 +594,16 @@
       "heading": "ANNEXE XIII",
       "path": [],
       "article_valid_from": null,
-      "text_md": "Formulaire à utiliser par l’autorité compétente de l’État membre d’origine pour la communication à l’autorité compétente de l’État membre d’accueil de la cessation de l’activité d’une succursale ou de la cessationdu recours à un agent lié qui sont établis dans un État membre autre que leur État membre d’origine\n\n[Article 19, paragraphe 2, et article 20, paragraphe 2, du règlement d’exécution (UE) 2017/2382 de la Commission]\n\nNuméro de référence:\n\nDate:\n\nCommunication en vertu de l’article 35, paragraphe 10, de la directive 2014/65/UE concernant la cessation de l’activité d’une succursale ou du recours à un agent lié établis dans un État membre autre que leur État membre d’origine (1)\n\nEXPÉDITEUR:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’origine:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nDESTINATAIRE:\n\nÉtat membre:\n\nAutorité compétente de l’État membre d’accueil:\n\nAdresse:\n\nPersonne de contact désignée:\n\nNuméro de téléphone:\n\nAdresse électronique:\n\nConformément à l’article 35, paragraphe 10, de la directive 2014/65/UE, nous vous informons que [nom de l’entreprise], entreprise d’investissement/établissement de crédit agréé(e) par [nom de l’autorité compétente de l’État membre d’origine], a l’intention de mettre fin à l’activité de la succursale/de cesser de recourir aux services de l’agent lié établi(e) sur votre territoire, avec effet au [date de cessation de l’activité de la succursale ou du recours à l’agent lié].\n\nVeuillez trouver ci-joint une copie de la notification concernant la cessation de l’activité de [nom de la succursale]/la cessation du recours aux services de [nom de l’agent lié].\n\nN’hésitez pas à nous contacter pour toute question.\n\n[Formule de politesse]\n\n[Signature]\n\n(1) Veuillez adapter comme il y a lieu.",
-      "text_sha256": "ad858634282d45f2108ee518201c69ac0a88d7cc2f80bec3129d176339000eab",
+      "text_md": "",
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "md_span": {
-        "start": 53830,
-        "end": 55639
+        "start": 22810,
+        "end": 22810
       },
       "citations": []
     }
   ],
   "notes": [
-    "boundaries: Formex ARTICLE / CONS.ANNEX elements (publisher structural markup)"
+    "boundaries: flat format segmented on title-article-norm / title-annex-1; anchors derived from publisher numbering (art_N / anx_N)"
   ]
 }

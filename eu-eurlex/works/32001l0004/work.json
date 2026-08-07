@@ -7,24 +7,32 @@
   ],
   "versions": [
     {
+      "valid_from": "2001-01-01",
+      "valid_to": "2006-12-31",
+      "language": "en",
+      "provisions": 1
+    },
+    {
+      "valid_from": "2001-01-01",
+      "valid_to": "2006-12-31",
+      "language": "fr",
+      "provisions": 1
+    },
+    {
       "valid_from": "2007-01-01",
       "valid_to": null,
       "language": "en",
-      "provisions": 4
+      "provisions": 1
     },
     {
       "valid_from": "2007-01-01",
       "valid_to": null,
       "language": "fr",
-      "provisions": 4
+      "provisions": 1
     }
   ],
   "anchors": [
-    "art_1",
-    "art_2",
-    "art_3",
-    "art_4",
-    "art_premier"
+    "document"
   ],
   "relations": {
     "amends": [],
