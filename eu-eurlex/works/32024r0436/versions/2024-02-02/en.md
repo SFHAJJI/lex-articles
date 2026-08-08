@@ -1,0 +1,444 @@
+---
+lex_id: 'eu-eurlex:32024r0436:2024-02-02'
+title: 'Commission Delegated Regulation (EU) 2024/436 of 20 October 2023 supplementing Regulation (EU) 2022/2065'
+valid_from: '2024-02-02'
+valid_to: 'open'
+source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R0436-20240202'
+source_sha256: 'ba9dca02c6d3db50e003c42c79325692d091f2553dcae8000851c859e1af05eb'
+license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
+attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
+generator: 'fmx4-eu/1 · lex derive'
+---
+
+## SECTION I — General provisions
+
+<a id="art_1"></a>
+
+### Article 1 — Subject matter
+
+This Regulation lays down rules on the performance of audits pursuant to Article 37 of Regulation (EU) 2022/2065, as regards:
+
+(a) the procedural steps for ensuring that the auditing organisation to be selected fulfils the conditions laid down in Article 37(3) of Regulation (EU) 2022/2065;
+
+(b) the procedural steps for cooperation and assistance by the audited provider in the performance of audits, including accessing relevant information with a view to obtaining audit evidence;
+
+(c) the definition and selection of auditing methodologies;
+
+(d) the templates for the audit report and the audit implementation report.
+
+<a id="art_2"></a>
+
+### Article 2 — Definitions
+
+For the purpose of this Regulation, the following definitions shall apply:
+
+(1) ‘auditing organisation’ means an individual organisation, a consortium or other combination of organisations, including any sub-contractors, that the audited provider has contracted to perform an independent audit in accordance with Article 37 of Regulation (EU) 2022/2065;
+
+(2) ‘audited service’ means a very large online platform or a very large online search engine designated in accordance with Article 33 of Regulation (EU) 2022/2065;
+
+(3) ‘audited provider’ means the provider of an audited service which is subject to independent audits pursuant to Article 37(1) of that Regulation;
+
+(4) ‘audited obligation or commitment’ means an obligation or commitment referred to in Article 37(1) of Regulation (EU) 2022/2065 which forms the subject matter of the audit;
+
+(5) ‘audit criteria’ means the criteria against which the auditing organisation assesses compliance with each audited obligation or commitment;
+
+(6) ‘audit evidence’ means any information used by an auditing organisation to support the audit findings and conclusions and to issue an audit opinion, including data collected from documents, databases or IT systems, interviews or testing performed;
+
+(7) ‘misstatement’ means an intentional or unintentional omission, misrepresentation or error in the declarations or data reported or provided by the audited provider to the auditing organisation, or in the testing environment made available by the audited provider to the auditing organisation;
+
+(8) ‘audit risk’ means the risk that the auditing organisation issues an incorrect audit opinion or reaches an incorrect conclusion concerning the audited provider’s compliance with an audited obligation or commitment, considering detection risks, inherent risks and control risks with respect to that audited obligation or commitment;
+
+(9) ‘detection risk’ means the risk that the auditing organisation does not detect a misstatement that is relevant for the assessment of the audited provider’s compliance with an audited obligation or commitment;
+
+(10) ‘inherent risk’ means the risk of non-compliance intrinsically related to the nature, the design, the activity and the use of the audited service, as well as the context in which it is operated, and the risk of non-compliance related to the nature of the audited obligation or commitment;
+
+(11) ‘control risk’ means the risk that a misstatement is not prevented, detected and corrected in a timely manner by means of the audited provider’s internal controls;
+
+(12) ‘materiality threshold’ means the threshold beyond which deviations or misstatements by the audited provider, individually or aggregated, would reasonably affect the audit findings, conclusions and opinions;
+
+(13) ‘reasonable level of assurance’ means a high but not absolute level of assurance, which allows the auditing organisation to assert in its audit opinion and audit conclusions whether the audited provider complies with the audited obligations or commitments, based on sufficient and appropriate evidence;
+
+(14) ‘internal control’ means any measures, including processes and tests, that are designed, implemented and maintained by the audited provider, including its compliance officers and management body, to monitor and ensure the audited provider’s compliance with the audited obligation or commitment;
+
+(15) ‘vetted researcher’ means a researcher vetted in accordance with Article 40(8) of Regulation (EU) 2022/2065;
+
+(16) ‘audit procedure’ means any technique applied by the auditing organisation in the performance of the audit, including data collection, the choice and application of methodologies, such as tests and substantive analytical procedures, and any other action taken to collect and analyse information to collect audit evidence and formulate audit conclusions, not including the issuing of an audit opinion or of the audit report;
+
+(17) ‘test’ means an audit methodology consisting in measurements, experiments or other checks, including checks of algorithmic systems, through which the auditing organisation assesses the audited provider’s compliance with the audited obligation or commitment;
+
+(18) ‘substantive analytical procedure’ means an audit methodology used by the auditing organisation to assess information to infer audit risks or compliance with the audited obligation or commitment.
+
+<a id="art_3"></a>
+
+### Article 3 — Scope of the audit and reasonable level of assurance
+
+**1.** The audit shall be performed in a manner and for a duration that allows the auditing organisation to assess the audited provider’s compliance with all audited obligations and commitments with a reasonable level of assurance.
+
+**2.** The audit shall cover the period starting immediately after the period covered by the previous audit and ending on a date that allows the auditing organisation to perform the audit within the time frame required by Article 37(1) of Regulation (EU) 2022/2065, including by asserting its assessment pursuant to paragraph 1 based on the evidence collected and audit procedures conducted during that period, and by completing and submitting the audit report pursuant to Article 37(4) of that Regulation to the audited provider.
+
+**3.** Where no previous audit was performed, the audit shall cover the period starting four months after the notification referred to in Article 33(6), first subparagraph, of Regulation (EU) 2022/2065, and the duration of the audit shall allow for the audit report pursuant to Article 6(1) to be completed at the latest within a year as from the start of the audited period.
+
+## SECTION II — Conditions for the performance of the audit
+
+<a id="art_4"></a>
+
+### Article 4 — Selection of the auditing organisation
+
+**1.** Prior to selecting an auditing organisation with a view to performing the audit, the audited provider shall check whether the organisation to be selected fulfils the requirements laid down in Article 37(3) of Regulation (EU) 2022/2065.
+
+**2.** Where the auditing organisation to be selected consists of more than one legal person or intends to have recourse to one or several sub-contractors, the audited provider shall check whether all those legal persons or subcontractors:
+
+(a) individually fulfil the requirements laid down in Article 37(3), points (a) and (c), of Regulation (EU) 2022/2065;
+
+(b) jointly fulfil the requirement laid down in Article 37(3), point (b), of Regulation (EU) 2022/2065.
+
+<a id="art_5"></a>
+
+### Article 5 — Cooperation and assistance between the audited provider and the auditing organisation
+
+**1.** At a time agreed with the auditing organisation, and in any event prior to the performance of any audit procedure, the audited provider shall transmit to the selected auditing organisation at least the following information:
+
+(a) a description of the internal controls put in place with respect to each audited obligation and commitment, including related indicators and all present and historical measurements, and benchmarks used by the audited provider to assert or monitor compliance with the audited obligations and commitments, as well as any supporting documentation;
+
+(b) its preliminary analysis of inherent and control risks, where the audited provider has performed such an analysis, and any supporting documentation;
+
+(c) information about any relevant decision-making structures, competences of departments of the provider, including the compliance function pursuant to Article 41 of Regulation (EU) 2022/2065, relevant IT systems, data sources, processing and storage, as well as explanations of relevant algorithmic systems and their interactions.
+
+**2.** The audited provider shall grant the auditing organisation, without undue delay, access to all data necessary for the performance of the audit, including personal data, documentation, information on procedures and processes, and to the information technology systems, testing environments, personnel and premises of that provider, and any relevant sub-contractors.
+
+**3.** The audited provider shall make all necessary resources available and provide the auditing organisation with the assistance and explanations necessary for the auditing organisation to analyse the relevant information and to carry out tests, including where the information requested by the auditing organisation in accordance with Article 37(3) of Regulation (EU) 2022/2065 is held by a third-party contracted by the audited provider.
+
+## SECTION III — Performance of audits
+
+<a id="art_6"></a>
+
+### Article 6 — Audit report and audit implementation report
+
+**1.** The audit report referred to in Article 37(4) of Regulation (EU) 2022/2065 shall be established by the auditing organisation, without interference from the audited provider. That audit report shall be drawn up in accordance with the template in Annex I, and shall contain detailed and substantiated conclusions in relation to all elements of the template.
+
+**2.** Where applicable, the audit implementation report referred to in Article 37(6) of Regulation (EU) 2022/2065 shall be drawn up in accordance with the template in Annex II.
+
+<a id="art_7"></a>
+
+### Article 7 — Procedures for the preparations for the audit
+
+**1.** The audited provider and the auditing organisation shall conclude a written agreement setting out:
+
+(a) the exhaustive list of audited obligations and commitments;
+
+(b) the responsibilities of the audit organisation, including, where applicable, detailed for each legal person constituting the auditing organisation, and the parties empowered to sign the audit report;
+
+(c) the procedures and contact points made available by the audited provider for the auditing organisation to request access to data referred to in Article 5(2);
+
+(d) the timeframe for the audit, including the start and end date of the audit procedures and the completion of the audit report;
+
+(e) a procedure on how disputes between the audited provider and the auditing organisation arising from the performance of the audit shall be resolved.
+
+**2.** The agreement referred to in paragraph 1, as well as any other agreements or engagements letters between the auditing organisation and the audited provider related to the performance of the audit, shall be annexed to the audit report.
+
+**3.** Where changes are made to the agreement referred to in paragraph 1 during the performance of the audit, they shall be made explicit in the audit report.
+
+<a id="art_8"></a>
+
+### Article 8 — Audit opinion, audit conclusions and recommendations
+
+**1.** The audit report shall include the audit conclusions that the auditing organisation has reached on the audited provider’s compliance with each of the audited obligations and commitments. The audit conclusions shall be either:
+
+(a) ‘positive’, where the auditing organisation concludes with a reasonable level of assurance that the audited provider has complied with an audited obligation or commitment;
+
+(b) ‘positive with comments’, where the auditing organisation concludes with a reasonable level of assurance that the audited provider has complied with an audited obligation or commitment, but: (i) the auditing organisation includes remarks on the benchmarks provided by the audited provider pursuant to Article 5(1), point (a); or (ii) the auditing organisation recommends improvements that do not have a substantive effect on its conclusion;
+
+(c) ‘negative’, where the auditing organisation concludes with a reasonable level of assurance that the audited provider has not complied with an audited obligation or commitment.
+
+**2.** Where an audit report includes operational recommendations pursuant to Article 37(4), point (h) of Regulation (EU) 2022/2065, those recommendations and their recommended timeframe shall be specific to each audited obligation or commitment for which the audit conclusion pursuant to paragraph 1 is ‘positive with comments’ or ‘negative’.
+
+**3.** Where the operational recommendations referred to in paragraph 2 include specific measures to achieve compliance, they shall be formulated in a way that explains the auditing organisation’s assessment of how such measures would affect the materiality threshold by comparison with the audit conclusion for the respective audited obligation or commitment.
+
+**4.** On the basis of the audit conclusions, the audit report shall include an audit opinion on the audited provider’s compliance with all audited obligations referred to in Article 37(1), point (a), of Regulation (EU) 2022/2065.
+
+**5.** On the basis of the conclusions of all audited commitments, the audit report shall include an audit opinion or opinions, as applicable, on the audited provider’s compliance with all audited commitments made by the audited provider under each code of conduct and crisis protocol referred to in Article 37(1), point (b), of Regulation (EU) 2022/2065.
+
+**6.** Audit opinions pursuant to paragraphs 4 and 5 shall be either:
+
+(a) ‘positive’ if the auditing organisation has reached a ‘positive’ audit conclusion for all of the audited obligations or commitments;
+
+(b) ‘positive with comments’ if the auditing organisation has reached at least one audit conclusion that is ‘positive with comments’ for an audited obligation or commitment and has not reached a ‘negative’ audit conclusion for any of the audited obligations or commitments;
+
+(c) ‘negative’ if the auditing organisation reached a ‘negative’ audit conclusion for at least one audited obligation or commitment.
+
+**7.** Where the auditing organisation assesses that, for a limited period during the period referred to in Article 3(2), the provider has not complied with an audited obligation or commitment, the audit report shall duly document that assessment.
+
+**8.** Where the auditing organisation cannot issue with a reasonable level of assurance an audit conclusion pursuant to paragraph 1 or an audit opinion pursuant to paragraphs 4 and 5, the audit report shall include an explanation of the circumstances and the reasons why such a level of assurance could not be achieved.
+
+## SECTION IV — Audit methodologies
+
+<a id="art_9"></a>
+
+### Article 9 — Audit risks analysis
+
+**1.** The audit report shall include a substantiated audit risk analysis performed by the auditing organisation for the assessment of the audited provider’s compliance with each audited obligation or commitment.
+
+**2.** The audit risk analysis shall be carried out prior to the performance of audit procedures and shall be updated during the performance of the audit, in the light of any new audit evidence which, according to the professional judgement of the auditing organisation, materially modifies the assessment of the audit risk.
+
+**3.** The audit risk analysis shall consider:
+
+(a) inherent risks;
+
+(b) control risks;
+
+(c) detection risks.
+
+**4.** The audit risk analysis shall be conducted taking into account:
+
+(a) the nature of the audited service and the societal and economic context in which the audited service is operated, including probability and severity of exposure to crisis situations and unexpected events;
+
+(b) the nature of the obligations and commitments;
+
+(c) other appropriate information, including: (i) where applicable, information from previous audits to which the audited service was subjected; (ii) where applicable, information from reports issued by the European Board for Digital Services or guidance from the Commission, including guidelines issued pursuant to Article 35(2) and (3) of Regulation (EU) 2022/2065, and any other relevant guidance issued by the Commission with respect to the application of Regulation (EU) 2022/2065; (iii) where applicable, information from audit reports published pursuant to Article 42(4) of Regulation (EU) 2022/2065 by other providers of very large online platforms or of very large online search engines operating in similar conditions or providing similar services to the audited service.
+
+<a id="art_10"></a>
+
+### Article 10 — Appropriate audit methodologies
+
+**1.** Without prejudice to the specific audit methodologies set out in Articles 13, 14, and 15, audits shall be performed by using appropriate auditing methodologies to reduce the assessed audit risks to a level that enables the auditing organisation to reach audit conclusions at a reasonable level of assurance.
+
+**2.** The audit report shall include a description of the audit methodologies designed by the auditing organisation prior to performing any audit procedures, including at least:
+
+(a) the audit criteria, for assessing compliance with each audited obligation or commitment, defined on the basis of information pursuant to Article 5(1), point (a), and the materiality threshold tolerated and expressed in qualitative or quantitative terms, as appropriate;
+
+(b) all tests and substantive analytical procedures and audit evidence that the auditing organisation intends to use to assess compliance for each audited obligation or commitment.
+
+The audit report shall include a description of any changes to the methodologies used during the performance of the audit compared to the methodologies designed prior to performing audit procedures.
+
+**3.** Where an auditing organisation has reasonable doubts concerning the information assessed in the performance of the audit, in particular as regards information that has been presented by the audited provider, the choice and application of the methodology shall be adapted to afford that organisation the necessary audit evidence in accordance with Article 11.
+
+**4.** Reasonable doubts referred to in paragraph 3 shall be deemed to arise, in particular, in the presence of any of the following elements:
+
+(a) professional judgment and scepticism in assessing information, including concerning internal controls of the audited provider, that leads the auditing organisation to formulate reasonable doubts;
+
+(b) external indications pointing to audit risks, in particular reports from the European Board for Digital Services referred to in Article 35(2) of Regulation (EU) 2022/2065, guidance from the Commission including through guidelines referred to in Article 35(3) of that Regulation, and any other relevant guidance issued by the Commission with respect to the application of Regulation (EU) 2022/2065, and audit reports issued pursuant to codes of conduct or crisis protocols referred to in Articles 45, 46 and 48 of that Regulation;
+
+(c) information related to events occurring during the performance of the audit, including crisis situations, that require additional actions from the audited provider to ensure compliance with certain audited obligations or commitments.
+
+**5.** Audit procedures shall include at least:
+
+(a) the performance of tests and substantive analytical procedures for the internal controls the audited provider has put in place for each of the audited obligations or commitments;
+
+(b) the performance of substantive analytical procedures to assess compliance with each audited obligation and commitment, including as regards algorithmic systems;
+
+(c) the performance of tests, including with respect to algorithmic systems, concerning the audited obligations and commitments in relation to which the auditing organisation has reasonable doubts, as referred to in paragraph 4, and concerning audited obligations and commitments where the auditing organisation deems necessary to perform tests in its choice of methodology pursuant to paragraph 1.
+
+**6.** Where obligations or commitments referred to in Article 37(1) of Regulation (EU) 2022/2065 require the audited provider to report certain information publicly, the auditing methodologies shall include an assessment of whether the reported information is free from material error or omission which might otherwise render them misleading.
+
+<a id="art_11"></a>
+
+### Article 11 — Quality of audit evidence
+
+The audit conclusions and audit opinions shall be based on audit evidence which fulfils both of the following requirements:
+
+(a) it is relevant and sufficient to reduce audit risks identified in accordance with Article 9, and to enable the auditing organisation to provide audit conclusions and opinions in accordance with Article 8;
+
+(b) it is reliable, according to the auditing organisation’s professional judgment and scepticism.
+
+<a id="art_12"></a>
+
+### Article 12 — Sampling methods
+
+**1.** Where audit evidence is based, partially or entirely, on a sample of data or information, the sample size and methodology for sampling shall be selected with a view to minimising the detection risk and without interference by the audited provider.
+
+**2.** The sample size and methodology for sampling shall be selected in a way that ensures representativeness of the data or information and, as appropriate, in consideration of all of the following:
+
+(a) the representativeness of the sample for the period referred to in Article 3(2) and (3);
+
+(b) relevant changes to the audited service during that period;
+
+(c) relevant changes to the context in which the audited service is provided during that period;
+
+(d) relevant features of algorithmic systems, where applicable, including personalisation based on profiling or other criteria;
+
+(e) other relevant characteristics or partitions of the data, information and evidence under consideration;
+
+(f) the representation and appropriate analysis of concerns related to particular groups as appropriate, such as minors or vulnerable groups and minorities, in relation to the audited obligation or commitment.
+
+**3.** The audit report shall include a justification of the choice of the sample size and of the methodology for sampling.
+
+<a id="art_13"></a>
+
+### Article 13 — Specific methodologies for auditing compliance with Article 34 of Regulation (EU) 2022/2065 on risk assessment
+
+**1.** The assessment of the audited provider’s compliance with Article 34 of Regulation (EU) 2022/2065 shall include, but not be limited to, an analysis of all of the following:
+
+(a) whether the audited provider has diligently identified, analysed, and assessed the systemic risks in the Union referred to in Article 34(1), first subparagraph, of Regulation (EU) 2022/2065, including by assessing: (i) how the audited provider identified the risks that are linked to its service, taking into account regional and linguistic aspects of the use made of its service, including when specific to a Member State, and whether the risks are appropriately identified; (ii) how the audited provider analysed and assessed each risk, including how it considered the probability and severity of the risks, and whether the assessment was appropriate; (iii) how the audited provider identified, analysed and assessed the factors referred to in Article 34(2), first subparagraph, of Regulation (EU) 2022/2065, whether they were appropriately identified, and to what extent such factors influence the risks identified in paragraph 1 of that Article; (iv) what sources of information the audited provider used, how it collected the information, including whether and how it relied on scientific and technical insights; (v) whether and how the audited provider tested assumptions on risks with groups most impacted by the specific risks;
+
+(b) whether the risk assessment was performed within the timeframes set out in Article 34(1), second subparagraph, of Regulation (EU) 2022/2065 and, where applicable, within the timeframes set for activities established as risk mitigation measures for the detection of systemic risks pursuant to Article 35(1), point (f) of that Regulation;
+
+(c) how the audited provider identified functionalities that are likely to have a critical impact on the risks for which risk assessments shall be conducted prior to their deployment, pursuant to Article 34(1), second subparagraph, of Regulation (EU) 2022/2065, whether those functionalities were correctly identified, and whether the risk assessment was appropriately conducted;
+
+(d) whether the audited provider correctly identified the supporting documentation that should be preserved with respect to the risk assessment and whether it has put in place the necessary means to ensure the preservation of that documentation for at least three years, pursuant to Article 34(3) of Regulation (EU) 2022/2065, and whether the documentation was preserved accordingly.
+
+**2.** Without prejudice to any other analysis necessary for reaching a reasonable level of assurance, methodologies for auditing compliance with Article 34 of Regulation (EU) 2022/2065 shall include at least an assessment by the auditing organisation of the following elements:
+
+(a) the internal controls that the audited provider has put in place to monitor the performance of risk assessments regarding each factor referred to in Article 34(2), first subparagraph, of Regulation (EU) 2022/2065; such assessment shall: (i) be based on substantive analytical procedures, for those internal controls; (ii) be based on tests of whether those internal controls are reliable and diligently conceived, executed and monitored; (iii) evaluate how the compliance officer or officers performed their tasks with respect to Article 41(3), points (b), (d), (e) and, where applicable, (f), of Regulation (EU) 2022/2065 and how the management body of the audited provider was involved in the decisions related to risk management pursuant to Article 41(6) and (7) of that Regulation;
+
+(b) the actions, means and processes put in place by the audited provider to ensure compliance with Article 34 of Regulation (EU) 2022/2065 and the results thereof; such assessment shall be based on: (i) substantive analytical procedures; (ii) tests, including of algorithmic systems, where the auditing organisation has reasonable doubts, following the results of the substantive analytical procedures and the assessment of internal controls, or where the auditing organisation deems necessary to perform tests in its choice of methodology pursuant to article 10(1).
+
+**3.** Information analysed by the auditing organisation in support of the assessment carried out pursuant to this Article shall consist of, but not be limited to:
+
+(a) the risk assessment report for the relevant audited period, which has been drawn up by the audited including, where necessary, confidential information that is not part of the information published pursuant to Article 42(2) of that Regulation, and all supporting documents;
+
+(b) where relevant, other risk assessments reports of the audited provider and their supporting documents;
+
+(c) information submitted by the audited provider pursuant to Article 5;
+
+(d) all relevant transparency reports of the audited provider referred to in Article 15(1) of Regulation (EU) 2022/2065;
+
+(e) any other test results, documentation, evidence, statements made in response to written or oral questions addressed by the auditing organisation to the personnel of the audited provider, and observations made on premises, where applicable;
+
+(f) other relevant evidence, including based on information made available by the audited provider;
+
+(g) where available, reports referred to in Article 35(2) of Regulation (EU) 2022/2065 and guidance from the Commission, including guidelines issued pursuant to Article 35(3) of that Regulation and any other relevant guidance issued by the Commission with respect to the application of Regulation (EU) 2022/2065.
+
+**4.** Information analysed by the auditing organisation may comprise, as appropriate, information referred to in Article 42(4) of Regulation (EU) 2022/2065, including from audit, risk assessment and risk mitigation reports, concerning other very large online platforms or very large online search engines, or data and research made publicly available by vetted researchers pursuant to Article 40(8), point (g), of the Regulation.
+
+<a id="art_14"></a>
+
+### Article 14 — Specific methodologies for auditing compliance with Article 35 of Regulation (EU) 2022/2065 on mitigation of risks
+
+**1.** The assessment of the audited provider’s compliance with Article 35 of Regulation (EU) 2022/2065 shall include, but not be limited to, an analysis of all of the following:
+
+(a) how the audited provider identified risk mitigation measures for each of the systemic risks referred to in Article 34(1) of Regulation (EU) 2022/2065, and whether the identification of such risk mitigation measures was carried out in a diligent manner;
+
+(b) how the audited provider assessed whether the risk mitigation measures in Article 35(1), points (a) to (k), of Regulation (EU) 2022/2065 were applicable to the audited service and whether the conclusion of that assessment was appropriate, including as regards those measures which were not applied by the audited provider;
+
+(c) whether the mitigation measures put in place by the audited provider are reasonable, proportionate and effective for mitigating the respective risks, including by: (i) assessing whether they respond collectively to all the risks, with particular consideration of the risks concerning the exercise of fundamental rights; (ii) assessing comparatively how the risks were addressed before and after the specific risk mitigation measures were put in place; (iii) assessing whether the risk mitigation measures were appropriately designed and executed.
+
+**2.** Without prejudice to any other analysis necessary for reaching a reasonable level of assurance, methodologies for auditing compliance with Article 35 of Regulation (EU) 2022/2065 shall include at least an assessment by the auditing organisation of the following elements:
+
+(a) the internal controls the audited provider has put in place to monitor the application of risk mitigation measures referred to in Article 35(1) of Regulation (EU) 2022/2065 and whether they are reasonable, proportionate and effective; such assessment shall: (i) be based on substantive analytical procedures for those internal controls; (ii) be based on tests, of whether those internal controls are reliable and diligently conceived, executed and monitored; (iii) evaluate how the compliance officer or officers performed their tasks with respect to Article 41(3), points (b), (d), (e) and, where applicable, (f), of Regulation (EU) 2022/2065, and how the management body of the provider was involved pursuant to Article 41(6) and (7) of that Regulation;
+
+(b) mitigation measures put in place by audited providers; such assessment shall be based on: (i) substantive analytical procedures; (ii) tests, including of algorithmic systems, where the auditing organisation has reasonable doubts, following the results of the substantive analytical procedures and the assessment of internal controls, or where the auditing organisation deems necessary to perform tests in its choice of methodology pursuant to Article 10(1).
+
+**3.** Information analysed by the auditing organisation in support of the assessment carried out pursuant to this Article shall consist of, but not be limited to:
+
+(a) the reports on risk assessment and risk mitigation for the relevant audited period, which have been drawn up by the audited provider including, where necessary, confidential information that is not part of the information published pursuant to Article 42(2) of Regulation (EU) 2022/2065, and all supporting documents;
+
+(b) where relevant, other reports on risk assessment and risk mitigation of the audited provider and their supporting documents;
+
+(c) information submitted by the audited provider pursuant to Article 5;
+
+(d) all relevant transparency reports of the audited provider referred to in Article 15(1) of Regulation (EU) 2022/2065;
+
+(e) where relevant, past reports on risk mitigation and their supporting documents, which concern periods not covered by the audited period, including, where necessary, confidential information that is not part of the information published pursuant to Article 42(2) of Regulation (EU) 2022/2065;
+
+(f) any other test results, documentation, evidence, statements made in response to written and or oral questions addressed by the auditing organisation to the personnel of the audited provider, and observations made on premises, where applicable;
+
+(g) other relevant evidence, including based on information made available by the audited provider;
+
+(h) where available, reports referred to in Article 35(2) of Regulation (EU) 2022/2065 and guidance from the Commission, including guidelines issued pursuant to Article 35(3) of that Regulation and any other relevant guidance issued by the Commission with respect to the application of Regulation (EU) 2022/2065.
+
+**4.** Information analysed by the auditing organisation may comprise, as appropriate, information referred to in Article 42(4) of Regulation (EU) 2022/2065, including from audit, risk assessment and risk mitigation reports, concerning other very large online platforms or very large online search engines, or data and research made publicly available by vetted researchers pursuant to Article 40(8), point (g), of Regulation (EU) 2022/2065.
+
+<a id="art_15"></a>
+
+### Article 15 — Specific methodologies for auditing compliance with Article 36 of Regulation (EU) 2022/2065 on crisis response mechanism
+
+**1.** The assessment of the audited provider’s compliance with Article 36(1), first subparagraph, point (a) of Regulation (EU) 2022/2065 shall include, but not be limited to, an analysis of whether and how the audited provider performed the required actions, in particular:
+
+(a) whether and how the audited provider identified the relevant systems involved in the functioning and use of their service that significantly contribute to the serious threat and whether those systems were appropriately identified;
+
+(b) whether and how the audited provider defined and monitored the significant contribution to the serious threat and whether its assessment was appropriate;
+
+(c) any other requirement specified in the Commission’s decision referred to in Article 36(1) or (7), second subparagraph, of Regulation (EU) 2022/2065, as appropriate.
+
+**2.** The assessment of the audited provider’s compliance with Article 36(1), first subparagraph, point (b), of Regulation (EU) 2022/2065 shall include, but not be limited to, an analysis of whether and how the audited provider performed the required actions, in particular:
+
+(a) whether and how the audited provider identified measures to prevent, eliminate or limit any contribution to the serious threat;
+
+(b) whether and how the measures taken by the audited provider addressed the gravity of the serious threat, the urgency, and whether the measures were appropriate in this respect;
+
+(c) whether and how the audited provider identified the parties concerned by the measures and their legitimate interests, and how the audited provider assessed the actual or potential impact of the measures on those parties’ rights, including fundamental rights, and legitimate interests;
+
+(d) whether the measures taken by the audited provided were effective and proportionate;
+
+(e) any other requirement specified in the Commission’s decision referred to in Article 36(1) or (7), second subparagraph, of Regulation (EU) 2022/2065, as appropriate.
+
+**3.** The assessment of the audited provider’s compliance with Article 36(1), first subparagraph, point (c) of Regulation (EU) 2022/2065, shall include, but not be limited to, an analysis of how the audited provider performed the required action, in particular whether the audited provider provided to the Commission the information required in the Commission’s decision referred to in Article 36(1) or (7), second subparagraph, of Regulation (EU) 2022/2065, and whether those reports were accurate.
+
+<a id="art_16"></a>
+
+### Article 16 — Auditing compliance with Article 37 of Regulation (EU) 2022/2065 on independent audit
+
+**1.** Compliance with the obligations laid down in Article 37 of Regulation (EU) 2022/2065 and in this Regulation shall be assessed in relation to the audit or audits performed for the yearly period preceding that of the current audit.
+
+**2.** In addition to paragraph 1, the audit shall include an assessment of the audited provider’s compliance with Article 37(2) of Regulation (EU) 2022/2065 with respect to the current audit.
+
+**3.** Where the previous audit or audits referred to in paragraph 1 were performed by the same auditing organisation as the current audit, or where the auditing organisation carrying out the current audit comprises at least one legal entity which participated in the previous audit, the audit report shall include an explanation of the steps put in place by the auditing organisation to ensure the objectivity of the assessment.
+
+<a id="art_17"></a>
+
+### Article 17 — Auditing compliance with codes of conduct and crisis protocols
+
+**1.** The audited provider shall make available to the auditing organisation:
+
+(a) a list and the text of all codes of conduct referred to in Articles 45 and 46 of Regulation (EU) 2022/2065 and crisis protocols referred to in Article 48 of that Regulation, to which the audited provider is a signatory;
+
+(b) a detailed list of commitments within those codes of conduct and crisis protocols that the audited provider has taken;
+
+(c) where applicable, the key performance indicators agreed under each code of conduct and crisis protocol;
+
+(d) where applicable, any available measurements, data and documentation, and any reports prepared by the audited provider with respect to the compliance of the audited provider with the commitments taken, including access to all relevant information and data related to the functioning of the services offered by the audited provider relevant to the implementation of the code of conduct or the crisis protocol;
+
+(e) where applicable, other measurements, data and documentation prepared by signatories of the code of conduct or the crisis protocol, and the assessments by the Commission or the Board referred to in Article 45(4) of Regulation (EU) 2022/2065.
+
+**2.** The assessment of the audited provider’s compliance with codes of conduct referred to in Article 45 of Regulation (EU) 2022/2065 shall include, but not be limited to, the measurement of key performance indicators agreed in the code of conduct pursuant to Article 45(3) of that Regulation, specifying the materiality threshold of the audit conclusions, and whether the reported data is accurate.
+
+## SECTION V — Final provisions
+
+<a id="art_18"></a>
+
+### Article 18 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
+
+<a id="anx_i"></a>
+
+### ANNEX I
+
+[form image: L_202400436EN.002002.fmx.tif][form image: L_202400436EN.002201.fmx.tif][form image: L_202400436EN.002301.fmx.tif][form image: L_202400436EN.002302.fmx.tif][form image: L_202400436EN.002401.fmx.tif][form image: L_202400436EN.002501.fmx.tif][form image: L_202400436EN.002601.fmx.tif]
+
+**Table of contents**
+
+| SECTION B: Auditing organisation(s)*To complete the section below, insert as many lines as necessary per point.* |
+| --- |
+| 1.Name(s) of organisation(s) constituting the auditing organisation:…2.Information about the auditing team of the auditing organisation:*For each member of the auditing team, provide:*1.*their personal name;*2.*the individual organisation, part of the auditing organisation, they are affiliated with;*3.*their professional email address;*4.*descriptions of their responsibilities and the work they undertook during the audit.*…3.Auditors’ qualifications:…a.Overview of the professional qualifications of the individuals who performed the audit, including domains of expertise, certifications, as applicable:…b.Documents attesting that the auditing organisation fulfils the requirements laid down in Article 37(3), point (b) of Regulation (EU) 2022/2065 have been attached as an annex to this report:…4.Auditors’ independence:a.Declaration of interests:…b.References to any standards relevant for the auditing team’s independence that the auditing organisation(s) adheres to:…c.List of documents attesting that the auditing organisation complies with the obligations laid down in Article 37(3), points (a) and (c) of Regulation (EU) 2022/2065 attached as annexes to this report:…5.References to any auditing standards applied in the audit, as applicable:…6.References to any quality management standards the auditing organisation adheres to, as applicable:… |
+
+| SECTION F.1: Third-parties consulted*Repeat this section per third-party consulted, incrementing the name of the section by one (for example, F.1, F.2, and so forth).* |
+| --- |
+| 1.Name of third party consulted:…2.Representative and contact information of consulted third party:…3.Date(s) of consultation:…4.Input provided by third-party:… |
+
+| SECTION G: Any other information the auditing body wishes to include in the audit report (such as a description of possible inherent limitations). |
+| --- |
+|  |
+
+|  | *Include as many lines as necessary in accordance with the allocation of responsibilities and empowerment as referred to in Article 7(1) point (b)* |
+| --- | --- |
+| Date:… | Signed by:… |
+| Place:… | In the name of:… |
+|  | Responsible for:… |
+
+Documents requested pursuant to Article 7(2) of this Regulation.Documents relating to the audit risk analysis pursuant to Article 9 of this Regulation.Documents attesting that the auditing organisation complies with the obligations laid down in Article 37(3), point (a) of Regulation (EU) 2022/2065.Documents attesting that the auditing organisation complies with the obligations laid down in Article 37(3), point (b) of Regulation (EU) 2022/2065.Documents attesting that the auditing organisation complies with the obligations laid down in Article 37(3), point (c) of Regulation (EU) 2022/2065.Documentation and results of any tests performed by the auditing organisation, including as regards algorithmic systems of the audited provider.Codes of conduct referred to in Article 45 and 46 of Regulation (EU) 2022/2065 under which the audited provider made commitments, including a clear indication of any commitment undertaken and of any agreed key performance indicator for that commitment.Crisis protocols referred to in Article 48 of Regulation (EU) 2022/2065 implemented by the audited provider.Any other annex the auditing organisation wishes to include.
+
+**Annexes to the Audit Report (as applicable):**
+
+<a id="anx_ii"></a>
+
+### ANNEX II
+
+[form image: L_202400436EN.002901.fmx.tif][form image: L_202400436EN.003001.fmx.tif][form image: L_202400436EN.003101.fmx.tif]
+
+**Table of contents**
+
+| SECTION A: General Information |
+| --- |
+| 1.Audited provider:…2.Address of the audited provider:…3.Audit report on which this implementation report is basedDate of adoption of the audit report: …Reference to the audit report (for example an URL):…4.Information on the underlying audit and the involved parties (refer to sections A and B of the audit report of reference):…5.Does the audit implementation report refer to an audit report on compliance with all the obligations and commitments pursuant to Article 37(1) of Regulation (EU) 2022/2065 applicable to the audited provider?Yes/No *(if ‘No’, indicate which obligations and commitments are covered in the audit report of reference)*…6.Where applicable, references to other audit reports resulting from audits pursuant to Article 37 of Regulation (EU) 2022/2065 that the audited provider is or will be subject to concerning the audited period:… |
+|  |

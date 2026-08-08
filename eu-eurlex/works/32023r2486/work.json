@@ -25,13 +25,36 @@
       "provisions": 6
     },
     {
+      "valid_from": "2023-11-21",
+      "valid_to": "2025-12-31",
+      "language": "fr",
+      "provisions": 30
+    },
+    {
       "valid_from": "2026-01-01",
       "valid_to": null,
       "language": "en",
       "provisions": 30
+    },
+    {
+      "valid_from": "2026-01-01",
+      "valid_to": null,
+      "language": "fr",
+      "provisions": 30
     }
   ],
   "anchors": [
+    "annexe_i",
+    "annexe_ii",
+    "annexe_ii__2",
+    "annexe_iii",
+    "annexe_iv",
+    "annexe_v",
+    "annexe_vi",
+    "annexe_vi__2",
+    "annexe_vii",
+    "annexe_viii",
+    "annexe_x",
     "anx_i",
     "anx_ii",
     "anx_ii__2",
@@ -43,6 +66,19 @@
     "anx_vii",
     "anx_viii",
     "anx_x",
+    "appendice_a",
+    "appendice_a__2",
+    "appendice_a__3",
+    "appendice_a__4",
+    "appendice_b",
+    "appendice_b__2",
+    "appendice_b__3",
+    "appendice_c",
+    "appendice_c__2",
+    "appendice_c__3",
+    "appendice_d",
+    "appendice_d__2",
+    "appendice_d__3",
     "appendix_a",
     "appendix_a__2",
     "appendix_a__3",
@@ -61,7 +97,8 @@
     "art_3",
     "art_4",
     "art_5",
-    "art_6"
+    "art_6",
+    "art_premier"
   ],
   "relations": {
     "amends": [],

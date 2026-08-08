@@ -21,12 +21,20 @@
     {
       "valid_from": "2008-12-04",
       "valid_to": null,
+      "language": "en",
+      "provisions": 25
+    },
+    {
+      "valid_from": "2008-12-04",
+      "valid_to": null,
       "language": "fr",
       "provisions": 25
     }
   ],
   "anchors": [
+    "annex",
     "annexe",
+    "art_1",
     "art_10",
     "art_11",
     "art_12",

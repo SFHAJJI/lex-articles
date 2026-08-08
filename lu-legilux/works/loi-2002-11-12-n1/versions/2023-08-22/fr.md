@@ -1,8 +1,8 @@
 ---
 lex_id: 'lu-legilux:loi-2002-11-12-n1:2023-08-22'
-title: 'Version consolidée applicable au 22/08/2023 : Loi du 12 novembre 2002 relative aux activités privées de gardiennage et de surveillance.'
+title: 'Version consolidée applicable au 01/11/2026 : Loi du 12 novembre 2002 relative aux activités privées de gardiennage et de surveillance.'
 valid_from: '2023-08-22'
-valid_to: 'open'
+valid_to: '2026-10-31'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/2002/11/12/n1/consolide/20230822/fr'
 source_sha256: '003c3fbaf39c811df725447394b4d60294b14dd6850a6f950747829413a8863e'
 license: 'CC-BY-4.0'

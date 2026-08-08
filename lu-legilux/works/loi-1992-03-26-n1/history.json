@@ -152,10 +152,17 @@
       },
       {
         "valid_from": "2025-12-22",
-        "valid_to": null,
+        "valid_to": "2026-08-09",
         "text_sha256": "a9c2dd0dda2fccffd4b7f51e9725743cd27b65b7a4661f2eae814451805f3194",
         "in_version": "lu-legilux:loi-1992-03-26-n1:2025-12-22",
         "article_valid_from": "2025-12-22"
+      },
+      {
+        "valid_from": "2026-08-10",
+        "valid_to": null,
+        "text_sha256": "0b5c1afeb654c40aae08af7ff51393c711606e60f8d2c2b2fc965feb798a0d60",
+        "in_version": "lu-legilux:loi-1992-03-26-n1:2026-08-10",
+        "article_valid_from": "2026-08-10"
       }
     ],
     "art_1erbis": [
@@ -494,10 +501,17 @@
       },
       {
         "valid_from": "2023-06-30",
-        "valid_to": null,
+        "valid_to": "2026-08-09",
         "text_sha256": "5c0e94d406248e09b8458b44fac96ac99702a0e916b05b45ab0204f38ca2b420",
         "in_version": "lu-legilux:loi-1992-03-26-n1:2023-06-30",
         "article_valid_from": "2023-06-30"
+      },
+      {
+        "valid_from": "2026-08-10",
+        "valid_to": null,
+        "text_sha256": "6e1eed5cf6bb56d54e6611b8a4abd02329dbe1b0884fe395c39e1b1032717b20",
+        "in_version": "lu-legilux:loi-1992-03-26-n1:2026-08-10",
+        "article_valid_from": "2026-08-10"
       }
     ],
     "art_46": [
@@ -602,9 +616,15 @@
     "attachment_1": [
       {
         "valid_from": "2025-12-22",
-        "valid_to": null,
+        "valid_to": "2026-08-09",
         "text_sha256": "f2f802f30e24622aa2109215d76e6510af6292157b260843523e3e1948d2356e",
         "in_version": "lu-legilux:loi-1992-03-26-n1:2025-12-22"
+      },
+      {
+        "valid_from": "2026-08-10",
+        "valid_to": null,
+        "text_sha256": "0b21f1a65667ba42fa099a0c45d30e40fd4d48873e10d16348ff7fe9c4173f9a",
+        "in_version": "lu-legilux:loi-1992-03-26-n1:2026-08-10"
       }
     ],
     "attachment_10": [
@@ -1051,10 +1071,17 @@
         },
         {
           "valid_from": "2025-12-22",
-          "valid_to": null,
+          "valid_to": "2026-08-09",
           "text_sha256": "a9c2dd0dda2fccffd4b7f51e9725743cd27b65b7a4661f2eae814451805f3194",
           "in_version": "lu-legilux:loi-1992-03-26-n1:2025-12-22",
           "article_valid_from": "2025-12-22"
+        },
+        {
+          "valid_from": "2026-08-10",
+          "valid_to": null,
+          "text_sha256": "0b5c1afeb654c40aae08af7ff51393c711606e60f8d2c2b2fc965feb798a0d60",
+          "in_version": "lu-legilux:loi-1992-03-26-n1:2026-08-10",
+          "article_valid_from": "2026-08-10"
         }
       ],
       "art_1erbis": [
@@ -1393,10 +1420,17 @@
         },
         {
           "valid_from": "2023-06-30",
-          "valid_to": null,
+          "valid_to": "2026-08-09",
           "text_sha256": "5c0e94d406248e09b8458b44fac96ac99702a0e916b05b45ab0204f38ca2b420",
           "in_version": "lu-legilux:loi-1992-03-26-n1:2023-06-30",
           "article_valid_from": "2023-06-30"
+        },
+        {
+          "valid_from": "2026-08-10",
+          "valid_to": null,
+          "text_sha256": "6e1eed5cf6bb56d54e6611b8a4abd02329dbe1b0884fe395c39e1b1032717b20",
+          "in_version": "lu-legilux:loi-1992-03-26-n1:2026-08-10",
+          "article_valid_from": "2026-08-10"
         }
       ],
       "art_46": [
@@ -1501,9 +1535,15 @@
       "attachment_1": [
         {
           "valid_from": "2025-12-22",
-          "valid_to": null,
+          "valid_to": "2026-08-09",
           "text_sha256": "f2f802f30e24622aa2109215d76e6510af6292157b260843523e3e1948d2356e",
           "in_version": "lu-legilux:loi-1992-03-26-n1:2025-12-22"
+        },
+        {
+          "valid_from": "2026-08-10",
+          "valid_to": null,
+          "text_sha256": "0b21f1a65667ba42fa099a0c45d30e40fd4d48873e10d16348ff7fe9c4173f9a",
+          "in_version": "lu-legilux:loi-1992-03-26-n1:2026-08-10"
         }
       ],
       "attachment_10": [

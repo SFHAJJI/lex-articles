@@ -1,6 +1,6 @@
 ---
 lex_id: 'lu-legilux:loi-1992-03-26-n1:2023-06-30'
-title: 'Version consolidée applicable au 22/12/2025 : Loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé, Texte coordonné.'
+title: 'Version consolidée applicable au 10/08/2026 : Loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé.'
 valid_from: '2023-06-30'
 valid_to: '2025-12-21'
 source: 'https://legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1/consolide/20230630/fr'
