@@ -2,7 +2,8 @@
   "lex_work_id": "lu-legilux:rgd-1999-07-16-n1",
   "schema": "lex-articles/1",
   "profiles": [
-    "pdf-memorial-lu/1"
+    "pdf-memorial-lu/1",
+    "pdf-memorial-lu/2"
   ],
   "primary_language": "fr",
   "anchors": {
@@ -85,9 +86,73 @@
         "text_sha256": "9a8f95797db330bd473db5890bc8b07cdb3a0030f45cda5d64a722f935bbd6d3",
         "in_version": "lu-legilux:rgd-1999-07-16-n1:2003-04-21"
       }
+    ],
+    "document": [
+      {
+        "valid_from": "2003-05-03",
+        "valid_to": null,
+        "text_sha256": "f3ed45a3ffa6e415ed756d65888da69a570e99ccd8f4ddb9fd448fac5b6e81d4",
+        "in_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+      }
     ]
   },
-  "anchor_events": [],
+  "anchor_events": [
+    {
+      "type": "removed",
+      "anchor": "art_10",
+      "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_1er",
+      "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_2",
+      "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_3",
+      "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_4",
+      "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_5",
+      "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_6",
+      "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_7",
+      "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_8",
+      "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+    },
+    {
+      "type": "removed",
+      "anchor": "art_9",
+      "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+    },
+    {
+      "type": "inserted",
+      "anchor": "document",
+      "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+    }
+  ],
   "anchors_by_language": {
     "fr": {
       "art_10": [
@@ -169,10 +234,74 @@
           "text_sha256": "9a8f95797db330bd473db5890bc8b07cdb3a0030f45cda5d64a722f935bbd6d3",
           "in_version": "lu-legilux:rgd-1999-07-16-n1:2003-04-21"
         }
+      ],
+      "document": [
+        {
+          "valid_from": "2003-05-03",
+          "valid_to": null,
+          "text_sha256": "f3ed45a3ffa6e415ed756d65888da69a570e99ccd8f4ddb9fd448fac5b6e81d4",
+          "in_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+        }
       ]
     }
   },
   "anchor_events_by_language": {
-    "fr": []
+    "fr": [
+      {
+        "type": "removed",
+        "anchor": "art_10",
+        "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_1er",
+        "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_2",
+        "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_3",
+        "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_4",
+        "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_5",
+        "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_6",
+        "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_7",
+        "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_8",
+        "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+      },
+      {
+        "type": "removed",
+        "anchor": "art_9",
+        "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+      },
+      {
+        "type": "inserted",
+        "anchor": "document",
+        "at_version": "lu-legilux:rgd-1999-07-16-n1:2003-05-03"
+      }
+    ]
   }
 }

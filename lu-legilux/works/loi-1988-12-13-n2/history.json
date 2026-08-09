@@ -2,11 +2,18 @@
   "lex_work_id": "lu-legilux:loi-1988-12-13-n2",
   "schema": "lex-articles/1",
   "profiles": [
-    "akn-lu/1"
+    "akn-lu/1",
+    "pdf-memorial-lu/2"
   ],
   "primary_language": "fr",
   "anchors": {
     "art_1er": [
+      {
+        "valid_from": "1993-04-12",
+        "valid_to": "2014-10-13",
+        "text_sha256": "49d105281a22b508b029c08ddcfc30a30c5deabf2281dc5f34e0c58f9cce4caa",
+        "in_version": "lu-legilux:loi-1988-12-13-n2:1993-04-12"
+      },
       {
         "valid_from": "2014-10-14",
         "valid_to": null,
@@ -17,6 +24,12 @@
     ],
     "art_2": [
       {
+        "valid_from": "1993-04-12",
+        "valid_to": "2014-10-13",
+        "text_sha256": "87343efb925131e7d5657514b4ad93ca4b907d5c976d8d96f14af678397d8210",
+        "in_version": "lu-legilux:loi-1988-12-13-n2:1993-04-12"
+      },
+      {
         "valid_from": "2014-10-14",
         "valid_to": null,
         "text_sha256": "53a4786ef895d73b0e42f344c4599586c44097a144a80844799aa47b75ec24ed",
@@ -25,6 +38,12 @@
       }
     ],
     "art_3": [
+      {
+        "valid_from": "1993-04-12",
+        "valid_to": "2014-10-13",
+        "text_sha256": "608bfaa7a7f4e98b15028e08e67373c7504520ab9eb7b3a578de844a9bad9cd2",
+        "in_version": "lu-legilux:loi-1988-12-13-n2:1993-04-12"
+      },
       {
         "valid_from": "2014-10-14",
         "valid_to": null,
@@ -35,6 +54,12 @@
     ],
     "art_4": [
       {
+        "valid_from": "1993-04-12",
+        "valid_to": "2014-10-13",
+        "text_sha256": "b172639fd3f1d33f74e0e519313ed3d9e186f921249af264cf4fafad02184721",
+        "in_version": "lu-legilux:loi-1988-12-13-n2:1993-04-12"
+      },
+      {
         "valid_from": "2014-10-14",
         "valid_to": null,
         "text_sha256": "00573cc5144d586d9e07eab7f7114c0e61f4c4177372aac6ebd7a575bc5435c7",
@@ -43,6 +68,12 @@
       }
     ],
     "art_5": [
+      {
+        "valid_from": "1993-04-12",
+        "valid_to": "2014-10-13",
+        "text_sha256": "f9fdb121a23fdce4c8ec47a5a26610253b9a3cd7204c66419b7af0c7c405c5c2",
+        "in_version": "lu-legilux:loi-1988-12-13-n2:1993-04-12"
+      },
       {
         "valid_from": "2014-10-14",
         "valid_to": null,
@@ -53,6 +84,12 @@
     ],
     "art_6": [
       {
+        "valid_from": "1993-04-12",
+        "valid_to": "2014-10-13",
+        "text_sha256": "d759a72145776ab0adb58cda2c13587014fe84d4466b6eec3231414d43463333",
+        "in_version": "lu-legilux:loi-1988-12-13-n2:1993-04-12"
+      },
+      {
         "valid_from": "2014-10-14",
         "valid_to": null,
         "text_sha256": "c5a3b5bc2308ef902ebf6e9f9604a22354b3cf5af2bdb08b8216ec7f4d1bc801",
@@ -61,6 +98,12 @@
       }
     ],
     "art_7": [
+      {
+        "valid_from": "1993-04-12",
+        "valid_to": "2014-10-13",
+        "text_sha256": "b3b63da36893c39bd31777f971915e8f6463f57e4c9ea1914f13474e681d457c",
+        "in_version": "lu-legilux:loi-1988-12-13-n2:1993-04-12"
+      },
       {
         "valid_from": "2014-10-14",
         "valid_to": null,
@@ -88,10 +131,27 @@
       }
     ]
   },
-  "anchor_events": [],
+  "anchor_events": [
+    {
+      "type": "inserted",
+      "anchor": "art_8",
+      "at_version": "lu-legilux:loi-1988-12-13-n2:2014-10-14"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_9",
+      "at_version": "lu-legilux:loi-1988-12-13-n2:2014-10-14"
+    }
+  ],
   "anchors_by_language": {
     "fr": {
       "art_1er": [
+        {
+          "valid_from": "1993-04-12",
+          "valid_to": "2014-10-13",
+          "text_sha256": "49d105281a22b508b029c08ddcfc30a30c5deabf2281dc5f34e0c58f9cce4caa",
+          "in_version": "lu-legilux:loi-1988-12-13-n2:1993-04-12"
+        },
         {
           "valid_from": "2014-10-14",
           "valid_to": null,
@@ -102,6 +162,12 @@
       ],
       "art_2": [
         {
+          "valid_from": "1993-04-12",
+          "valid_to": "2014-10-13",
+          "text_sha256": "87343efb925131e7d5657514b4ad93ca4b907d5c976d8d96f14af678397d8210",
+          "in_version": "lu-legilux:loi-1988-12-13-n2:1993-04-12"
+        },
+        {
           "valid_from": "2014-10-14",
           "valid_to": null,
           "text_sha256": "53a4786ef895d73b0e42f344c4599586c44097a144a80844799aa47b75ec24ed",
@@ -110,6 +176,12 @@
         }
       ],
       "art_3": [
+        {
+          "valid_from": "1993-04-12",
+          "valid_to": "2014-10-13",
+          "text_sha256": "608bfaa7a7f4e98b15028e08e67373c7504520ab9eb7b3a578de844a9bad9cd2",
+          "in_version": "lu-legilux:loi-1988-12-13-n2:1993-04-12"
+        },
         {
           "valid_from": "2014-10-14",
           "valid_to": null,
@@ -120,6 +192,12 @@
       ],
       "art_4": [
         {
+          "valid_from": "1993-04-12",
+          "valid_to": "2014-10-13",
+          "text_sha256": "b172639fd3f1d33f74e0e519313ed3d9e186f921249af264cf4fafad02184721",
+          "in_version": "lu-legilux:loi-1988-12-13-n2:1993-04-12"
+        },
+        {
           "valid_from": "2014-10-14",
           "valid_to": null,
           "text_sha256": "00573cc5144d586d9e07eab7f7114c0e61f4c4177372aac6ebd7a575bc5435c7",
@@ -128,6 +206,12 @@
         }
       ],
       "art_5": [
+        {
+          "valid_from": "1993-04-12",
+          "valid_to": "2014-10-13",
+          "text_sha256": "f9fdb121a23fdce4c8ec47a5a26610253b9a3cd7204c66419b7af0c7c405c5c2",
+          "in_version": "lu-legilux:loi-1988-12-13-n2:1993-04-12"
+        },
         {
           "valid_from": "2014-10-14",
           "valid_to": null,
@@ -138,6 +222,12 @@
       ],
       "art_6": [
         {
+          "valid_from": "1993-04-12",
+          "valid_to": "2014-10-13",
+          "text_sha256": "d759a72145776ab0adb58cda2c13587014fe84d4466b6eec3231414d43463333",
+          "in_version": "lu-legilux:loi-1988-12-13-n2:1993-04-12"
+        },
+        {
           "valid_from": "2014-10-14",
           "valid_to": null,
           "text_sha256": "c5a3b5bc2308ef902ebf6e9f9604a22354b3cf5af2bdb08b8216ec7f4d1bc801",
@@ -146,6 +236,12 @@
         }
       ],
       "art_7": [
+        {
+          "valid_from": "1993-04-12",
+          "valid_to": "2014-10-13",
+          "text_sha256": "b3b63da36893c39bd31777f971915e8f6463f57e4c9ea1914f13474e681d457c",
+          "in_version": "lu-legilux:loi-1988-12-13-n2:1993-04-12"
+        },
         {
           "valid_from": "2014-10-14",
           "valid_to": null,
@@ -175,6 +271,17 @@
     }
   },
   "anchor_events_by_language": {
-    "fr": []
+    "fr": [
+      {
+        "type": "inserted",
+        "anchor": "art_8",
+        "at_version": "lu-legilux:loi-1988-12-13-n2:2014-10-14"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_9",
+        "at_version": "lu-legilux:loi-1988-12-13-n2:2014-10-14"
+      }
+    ]
   }
 }

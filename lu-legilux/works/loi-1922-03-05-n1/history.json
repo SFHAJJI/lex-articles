@@ -1,0 +1,706 @@
+{
+  "lex_work_id": "lu-legilux:loi-1922-03-05-n1",
+  "schema": "lex-articles/1",
+  "profiles": [
+    "pdf-memorial-lu/2"
+  ],
+  "primary_language": "fr",
+  "anchors": {
+    "art_1": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "6d89ba13229074dd2cd611af555fcf013dcdbe28f86d78a8df79214fde63a200",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_10": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "f1b8d0d30b3e725b4e0a439d74ddcdf3faaafed146ae283c3e3c90e861b377e7",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_11": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "ff4d2ded096a776220cc2491e8cc942e76635d66244d1c94638414979895466e",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_12": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "5c1fbcc2fc4bd8e7c7e6b460f33e10580ccda9649dd3c5d2895385df6bd75886",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_13": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "b75512fd7b1d102cb582eecc0c61a9ad8f1e20f63b2e762156a965533befe901",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_14": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "9cdb478e17cecd12a39f919f26cffb8266a1ab02a92f60ac4310ffaaf86400ba",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_15": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "5e98b2ad2ccc2a3c8cf0472658144855e98136f3ebd29142e6ab882f70b297e1",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_16": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "acdf7a0844637a70c8e60e871a10bfcc876bddcb23db334a1c566726ea356cdc",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_17": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "7c1a05f6f7d064088577628528fd0f43aa622b235625406fae3c30cf3245ac2f",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_18": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "b43b8b100c5b1cf0510352b0afc42d1fc57b85e2a11955284d33c40c3edf8312",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_19": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "c8477387f8b1d49a81d2abe7f23fd8cbc19cdf4fd9bfb70d3011dff5d184e2e8",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_2": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "2c33e9f7764326985897f5f30f437fb15470614d01275d97a6b2041dee2d0d9d",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_20": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "155ce0d353ed043c7751b5533b9d1619e8f128ec3e3b49328cb7b89283c84c50",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_21": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "3d54ac7f63001e9d9f250b9131d97334971c4466fb03e201917abb323d3afa5c",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_22": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "7222f9dbef7cdc31fae118a74ebc2c1a482ada870f6d2a6d9cbe6502254714c7",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_23": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "e964e971c061f3c28e1f8c519e8e3793d91487677b62243a10444f6d63edb362",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_24": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "476c5d5087d56aa1d5bfaa35032a26a9bbf1235c4bbe8bf5d669e176e3887cf7",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_25": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "1110bf916a198ca017dd6e6ccbf51255e23ad2cde79c632fb5969db39eff702c",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_26": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "6237de794006347a65a168b94a2d256f6c5d04302107e24fe74a7be9547426d7",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_27": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "24e705676f4d7fb19c2b5b63a2619de17a9b000ecabe03de74812ed9688949d0",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_28": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "965a201d0aadf65daae760a2f00b6700e0e38f9ca0163421a1c88d667266f5a7",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_29": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "373903f281392b0c4b9918ce4503b7b147afd910d9b1729a4a52aa502c12db4c",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_3": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "147843481955402cddaf84b6ce448b8a8715368e1d59d6f2732acc783be3852a",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_30": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "2db79f88730d0b442e0956008236f6c1857f3d019fc038ece227e9295e4d45f6",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_31": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "7389abda519cd4706a10af3b3f8666e78d05f3e6a2229a39f87ea8be065bd359",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_32": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "2fa0cbf0dba29a547126878ea6acf28cb83f15cc07314626f0d71624468a876c",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_33": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "7b05c7e93c3e2347ec237ce2ddaf0505ec8a05c7dc584f704753f676ed75a143",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_34": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "92790d6cbbae4186153d46ca442010e12b1b63d9f16e109e4055a590947ac894",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_35": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "712dc3f9be41ffb71be29205351e56793dfb8be8095ef1ddb2cb853982d2fbef",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_36": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "616d22052d9b28796c295f5737c3902e5f8208bb9b5392e2ca0561e8313e27b6",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_37": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "78d51ff390425ff79e2b182aa5e56318f3f60643dcbb869c90eddb27a20dbba2",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_38": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "bc182864b1b5ea42872045ff2fe6e7cb19ca175bb7716b04ebf9904f7e3c2e4d",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_39": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "e10540dc1615eaca1d60e1bcbcdaa750e500fe1975688aa7f2d8b7a12765944e",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_4": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "568465562489d6f134bfd4ba1bf3202ad3a875378ef07b6f3130a299aac457f7",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_40": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "d14eca04c79b17c1b45a3ab62b96074f9ca6d01d354bcffc27f3ee575785f3fa",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_41": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "2977607873a1e146495ec9202d7b86a3f31f9e7fc46346770add59b056a98453",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_42": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "443ede92c416ba7991d4a19e874540029307ba82bfce46d81cbf5857fb58c9d4",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_43": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "177d5d1f5c1bf9566d4add83295baa4dee4a6aab0f3eb4f029a2b52fcd1f7124",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_5": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "30641b78c78136e6d2ee20ecfce18823110f4f6ab05a114ccc86d36b1afcb92e",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_6": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "55bcf4541f4987af75f7be70e3312a7786a084e66b8afe139a81ed45a9f9714b",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_7": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "6644450e28883987eeafbdf7bfa7cc3c0f92f7ccecb7f43d66283aa197f183a3",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_8": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "1e1eea478bd91fddb91c02333860de1117e2f65c550ba5ffc33c8e6cd83218c4",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ],
+    "art_9": [
+      {
+        "valid_from": "1965-05-31",
+        "valid_to": null,
+        "text_sha256": "13b91899e0276b628b8557229b7c17d3955f2e9a455f90789f7323c8906370be",
+        "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+      }
+    ]
+  },
+  "anchor_events": [],
+  "anchors_by_language": {
+    "fr": {
+      "art_1": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "6d89ba13229074dd2cd611af555fcf013dcdbe28f86d78a8df79214fde63a200",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_10": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "f1b8d0d30b3e725b4e0a439d74ddcdf3faaafed146ae283c3e3c90e861b377e7",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_11": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "ff4d2ded096a776220cc2491e8cc942e76635d66244d1c94638414979895466e",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_12": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "5c1fbcc2fc4bd8e7c7e6b460f33e10580ccda9649dd3c5d2895385df6bd75886",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_13": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "b75512fd7b1d102cb582eecc0c61a9ad8f1e20f63b2e762156a965533befe901",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_14": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "9cdb478e17cecd12a39f919f26cffb8266a1ab02a92f60ac4310ffaaf86400ba",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_15": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "5e98b2ad2ccc2a3c8cf0472658144855e98136f3ebd29142e6ab882f70b297e1",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_16": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "acdf7a0844637a70c8e60e871a10bfcc876bddcb23db334a1c566726ea356cdc",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_17": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "7c1a05f6f7d064088577628528fd0f43aa622b235625406fae3c30cf3245ac2f",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_18": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "b43b8b100c5b1cf0510352b0afc42d1fc57b85e2a11955284d33c40c3edf8312",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_19": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "c8477387f8b1d49a81d2abe7f23fd8cbc19cdf4fd9bfb70d3011dff5d184e2e8",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_2": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "2c33e9f7764326985897f5f30f437fb15470614d01275d97a6b2041dee2d0d9d",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_20": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "155ce0d353ed043c7751b5533b9d1619e8f128ec3e3b49328cb7b89283c84c50",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_21": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "3d54ac7f63001e9d9f250b9131d97334971c4466fb03e201917abb323d3afa5c",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_22": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "7222f9dbef7cdc31fae118a74ebc2c1a482ada870f6d2a6d9cbe6502254714c7",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_23": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "e964e971c061f3c28e1f8c519e8e3793d91487677b62243a10444f6d63edb362",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_24": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "476c5d5087d56aa1d5bfaa35032a26a9bbf1235c4bbe8bf5d669e176e3887cf7",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_25": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "1110bf916a198ca017dd6e6ccbf51255e23ad2cde79c632fb5969db39eff702c",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_26": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "6237de794006347a65a168b94a2d256f6c5d04302107e24fe74a7be9547426d7",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_27": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "24e705676f4d7fb19c2b5b63a2619de17a9b000ecabe03de74812ed9688949d0",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_28": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "965a201d0aadf65daae760a2f00b6700e0e38f9ca0163421a1c88d667266f5a7",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_29": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "373903f281392b0c4b9918ce4503b7b147afd910d9b1729a4a52aa502c12db4c",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_3": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "147843481955402cddaf84b6ce448b8a8715368e1d59d6f2732acc783be3852a",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_30": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "2db79f88730d0b442e0956008236f6c1857f3d019fc038ece227e9295e4d45f6",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_31": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "7389abda519cd4706a10af3b3f8666e78d05f3e6a2229a39f87ea8be065bd359",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_32": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "2fa0cbf0dba29a547126878ea6acf28cb83f15cc07314626f0d71624468a876c",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_33": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "7b05c7e93c3e2347ec237ce2ddaf0505ec8a05c7dc584f704753f676ed75a143",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_34": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "92790d6cbbae4186153d46ca442010e12b1b63d9f16e109e4055a590947ac894",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_35": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "712dc3f9be41ffb71be29205351e56793dfb8be8095ef1ddb2cb853982d2fbef",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_36": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "616d22052d9b28796c295f5737c3902e5f8208bb9b5392e2ca0561e8313e27b6",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_37": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "78d51ff390425ff79e2b182aa5e56318f3f60643dcbb869c90eddb27a20dbba2",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_38": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "bc182864b1b5ea42872045ff2fe6e7cb19ca175bb7716b04ebf9904f7e3c2e4d",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_39": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "e10540dc1615eaca1d60e1bcbcdaa750e500fe1975688aa7f2d8b7a12765944e",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_4": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "568465562489d6f134bfd4ba1bf3202ad3a875378ef07b6f3130a299aac457f7",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_40": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "d14eca04c79b17c1b45a3ab62b96074f9ca6d01d354bcffc27f3ee575785f3fa",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_41": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "2977607873a1e146495ec9202d7b86a3f31f9e7fc46346770add59b056a98453",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_42": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "443ede92c416ba7991d4a19e874540029307ba82bfce46d81cbf5857fb58c9d4",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_43": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "177d5d1f5c1bf9566d4add83295baa4dee4a6aab0f3eb4f029a2b52fcd1f7124",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_5": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "30641b78c78136e6d2ee20ecfce18823110f4f6ab05a114ccc86d36b1afcb92e",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_6": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "55bcf4541f4987af75f7be70e3312a7786a084e66b8afe139a81ed45a9f9714b",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_7": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "6644450e28883987eeafbdf7bfa7cc3c0f92f7ccecb7f43d66283aa197f183a3",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_8": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "1e1eea478bd91fddb91c02333860de1117e2f65c550ba5ffc33c8e6cd83218c4",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ],
+      "art_9": [
+        {
+          "valid_from": "1965-05-31",
+          "valid_to": null,
+          "text_sha256": "13b91899e0276b628b8557229b7c17d3955f2e9a455f90789f7323c8906370be",
+          "in_version": "lu-legilux:loi-1922-03-05-n1:1965-05-31"
+        }
+      ]
+    }
+  },
+  "anchor_events_by_language": {
+    "fr": []
+  }
+}

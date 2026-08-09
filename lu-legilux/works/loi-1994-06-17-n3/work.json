@@ -6,6 +6,12 @@
   ],
   "versions": [
     {
+      "valid_from": "1998-06-01",
+      "valid_to": "2002-01-26",
+      "language": "fr",
+      "provisions": 20
+    },
+    {
       "valid_from": "2002-01-27",
       "valid_to": null,
       "language": "fr",
@@ -30,6 +36,8 @@
     "art_6",
     "art_7",
     "art_8",
+    "art_8bis",
+    "art_8ter",
     "art_9"
   ],
   "relations": {
