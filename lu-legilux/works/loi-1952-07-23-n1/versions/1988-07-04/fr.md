@@ -1,0 +1,509 @@
+---
+lex_id: 'lu-legilux:loi-1952-07-23-n1:1988-07-04'
+title: 'Version consolidée applicable au 31/03/2023 : Loi du 23 juillet 1952 concernant l’organisation militaire.'
+valid_from: '1988-07-04'
+valid_to: '2021-06-06'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1952/07/23/n1/consolide/19880704/fr'
+source_sha256: 'd6d7920fddf966d58a1a582e01ce57e1c94eb1a1695e73c990d48c53839b8c7f'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'pdf-memorial-lu/2 · lex derive'
+---
+
+<a id="art_1er"></a>
+
+### Art. 1er.
+
+La Force Publique (*) comprend: 1. l´armée 2. la gendarmerie, et 3. la police. Un règlement d´administration publique fixera les modalités de coopération entre les trois corps en temps de paix et en temps de guerre et déterminera les conditions dans lesquelles un arrêté grand-ducal pourra placer tout ou partie des trois corps sous un commandement unique.» A. ARMEE Chapitre Ier. Mode de recrutement et composition de l´armée
+
+<a id="art_2"></a>
+
+### Art. 2.
+
+L´armée se recrute par voie d´engagement volontaire.»
+
+<a id="art_3"></a>
+
+### Art. 3.
+
+Les hommes de troupe sont exclusivement des volontaires. Les cadres de l´armée comprennent des officiers et des sous-officiers de carrière ou volontaires ainsi que des personnes chargées de fonctions militaires en vertu d´une commission.»
+
+<a id="art_4"></a>
+
+### Art. 4.
+
+Il est créé une Ecole de l´Armée. Elle relève du Ministre de la Force Publique pour tout ce qui concerne l´organisation, l´administration et le fonctionne- ment et du Ministre de l´Education Nationale et de la Jeunesse pour tout ce qui est relatif à l´enseignement. La direction de l´école est assurée par un enseignant qui est désigné d´un commun accord par le ministre de la Force publique et le ministre de l´Education nationale. Le chargé de direction représente l´école de l´armée et assure l´exécution des décisions des deux prédits ministres. Il bénéfice d´une indemnité non pensionnable à fixer par le conseil de Gouvernement. Le personnel de l´école comprend: a) des instituteurs et des professeurs; b) des chargés de cours; c) un employé chargé des fonctions de secrétaire. Les instituteurs et professeurs sont nommés par le Grand-Duc sur proposition commune du Ministre de la Force publique et du Ministre de l´Education nationale. Les chargés de cours sont désignés d´un commun accord par le Ministre de la Force publique et le Ministre de l´Education nationale. Le fonctionnement de l´école, l´établissement des programmes, l´organisation des cours, les modalités du contrôle péda- gogique ainsi que du diplôme délivré aux volontaires qui ont suivi avec succès les cours de l´Ecole de l´Armée font l´objet d´un règlement grand-ducal à prendre sur avis du Conseil d´Etat.»
+
+<a id="art_5"></a>
+
+### Art. 5.
+
+L´armée comprend une musique militaire.»
+
+<a id="art_6"></a>
+
+### Art. 6.
+
+Un règlement grand-ducal pourra créer une force de réserve destinée au renforcement de l´armée en cas de crise internationale. Les membres de la force de réserve seront recrutés par voie d´engagement volontaire. Le même règlement déterminera l´effectif de cette force, les modalités de sa composition et celles de son appel sous les armes. Il fixera les conditions de recrutement, de formation et d´avancement des membres de la force de réserve, ainsi que leur indemnisation.» Chapitre II. Des volontaires
+
+<a id="art_7"></a>
+
+### Art. 7.
+
+Nul n´est admis comme volontaire dans l´armée s´il ne possède pas la nationalité luxembourgeoise.»
+
+<a id="art_8"></a>
+
+### Art. 8.
+
+Dans les limites du contingent qui sera fixé conformément à l´article 11 ci-après, tout luxembourgeois (. . .)**, âgé de dix-sept ans accomplis au moins, peut servir comme volontaire, s´il remplit les conditions de recrutement à fixer par le règlement grand-ducal prévu au susdit article 11. Par dérogation à l´article 19 de la loi du 2 août 1939 sur la protection de l´enfance, les militaires auxquels est imputé un fait constituant une infraction pénale sont considérés comme ayant atteint la majorité pénale, alors même qu´au moment de ce fait ils étaient âgés de moins de dix-huit ans accomplis.» ( *) Conformément à la loi du 15 novembre 1972 (art. VII) la dénomination «Force Armée» est remplacée par la dénomination «Force Publique». (**) Termes («de sexe masculin») supprimés par la loi du 17 novembre 1986.    268 (Loi du 29juin 1967)
+
+<a id="art_9"></a>
+
+### Art. 9.
+
+Ne sont pas admis comme volontaires: a) ceux qui ont encouru une condamnation sans sursis à une peine privative de la liberté de six mois ou plus du chef d´une quelconque infraction; b) ceux qui ont encouru une condamnation sans sursis à une peine privative de la liberté, même inférieure à six mois, du chef d´atteinte à la sûreté extérieure de l´Etat, de vol, d´extorsion, d´abus de confiance, d´escroquerie, d´attentat à la pudeur, de viol ou d´une infraction concernant la corruption de la jeunesse, la prostitution ou les outrages publics aux bonnes moeurs; c) ceux qui ont encouru une condamnation sans sursis à une peine privative de la liberté du chef d´une infraction relevant de la législation pénale militaire; d) ceux qui ont subi l´interdiction, en tout ou en partie, à perpétuité ou à temps, du droit de remplir des fonctions, emplois ou offices publics, du droit de port d´armes ou de servir dans l´armée; e) ceux qui se trouvent sous le coup de poursuites judiciaires du chef d´une des infractions énumérées sub b) et c) ou d´une infraction quelconque à l´égard de laquelle la loi prévoit une peine privative de la liberté de six mois ou plus ou l´inter- diction des droits visés sub d).»
+
+<a id="art_10"></a>
+
+### Art. 10.
+
+Sont exclus de plein droit de l´armée les volontaires se trouvant dans l´une des situations prévues sub a), b), c) et d) de l´article qui précède, dès que la décision judiciaire sera coulée en force de chose jugée. Ceux qui se trouvent dans la situation sub e) peuvent être suspendus de leurs fonctions par le ministre de la force publique. S´ils se trouvent en détention préventive, la suspension s´opère de plein droit pour la durée de la détention.»
+
+<a id="art_11"></a>
+
+### Art. 11.
+
+Le contingent des volontaires, cadres et hommes de troupe, sera fixé par règlement grand-ducal, sans que le nombre des officiers puisse dépasser trois pour cent et celui des sous-officiers dix pour cent du contingent autorisé. Le même règlement déterminera le statut des volontaires, y compris leurs conditions de recrutement, de formation et d´avancement, la durée de leur engagement et leur rémunération. Le même règlement pourra en outre fixer la composition des cadres dans les limites de l´article 19 (1), (2) et (3) ci- dessous; allouer une indemnité de ménage aux hommes de troupe mariés et en déterminer le montant; fixer les indemnités des officiers et sous-officiers, sans que des indemnités supérieures aux rémunérations en principal et accessoires des offi- ciers et sous-officiers de carrière de même grade et de même ancienneté puissent être prévues; prévoir des primes de démobilisation et en fixer le montant, les modalités de paiement et les conditions à remplir par les bénéficiaires; ces primes ne peuvent dépasser douze mille francs (N.I. 100) par année entière de volontariat.»
+
+<a id="art_12"></a>
+
+### Art. 12.
+
+Pendant leur instruction militaire de base les hommes de troupe feront la promesse solennelle suivante: «Je promets devant Dieu fidélité au Grand-Duc et au Drapeau, obéissance à la Constitution, aux lois de l´Etat et aux règlements militaires». La promesse solennelle des hommes de troupe sera reçue collectivement par le commandant ou par un officier supérieur délégué à ces fins. Les hommes de troupe sont promus par le commandant de l´armée ou son délégué.»
+
+<a id="art_13"></a>
+
+### Art. 13.
+
+Les volontaires reçoivent une instruction militaire complète et assurent le service dans les conditions établies par les règlements en vigueur. Ils participent en outre à des cours ayant pour but de parfaire leur instruction générale et professionnelle et leur formation civique; les détails de cette organisation seront fixés par un règlement grand-ducal. Les volontaires ne peuvent être distraits de l´instruction militaire proprement dite. Ils ne peuvent être utilisés à l´exté- rieur du corps qu´accidentellement, lorsque l´intérêt public l´exige.»
+
+<a id="art_14"></a>
+
+### Art. 14.
+
+Dans la mesure où ils remplissent les conditions d´admission aux différentes administrations, les volontaires quittant l´Armée après une période de service de trois ans au moins: 1) sont seuls admis à la carrière de sous-officier de l´Armée, de la Musique Militaire et de gardien des Etablissements Péni- tentiaires, à la carrière de sous-officier et gendarme de la Gendarmerie, de sous-officier et agent de la Police, de facteur de l´administration des Postes et Télécommunications, de préposé forestier de l´administration des Eaux et Forêts et de préposé de l´administration des Douanes, et 2) bénéficient d´un droit de priorité pour les emplois de la carrière inférieure des autres administrations, offices, services et établissements publics y compris les établissements d´assurances sociales, les communes, les établissements et syndicats communaux et la société nationale de chemins de fer luxembourgeois.» «Par dérogation aux dispositions qui précèdent les emplois de la carrière de l´artisan des administrations visées sub 1) sont rangés parmi les emplois pour lesquels les volontaires n´ont qu´un droit de priorité. Un règlement grand-ducal arrêtera le mode de préparation des volontaires aux carrières pour lesquelles ils ont l´exclusi- vité ou la priorité. Par dérogation à l´article 7 de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l´Etat, la période de volontariat à l´armée est mise en compte comme ancienneté de service comptant pour la totalité pour la fixation du trai- tement initial, même pour la période située avant l´âge fictif de début de carrière. Par dérogation à l´article 8 de la loi précitée, la période de volontariat dépassant trois années est considérée comme période passée dans le grade de début de carrière pour l´obtention du bénéfice de cet article.» 269 (Loi du 15 novembre 1972) «Les dispositions de l´article 32, paragraphe 1er de la loi du 22 juin 1963, fixant le régime des traitements des fonction- naires de l´Etat sont applicables aux dérogations qui précèdent se rapportant aux articles 7 et 8 de la loi du 22 juin 1963 précitée.»
+
+<a id="art_14-1"></a>
+
+### Art. 14-1.
+
+(L´alinéa 1er concernant l´admission de personnes de sexe féminin à la carrière inférieure de la gendarmerie et de la police, a été supprimé par la loi du 17 novembre 1986) (Loi du 27 août 1986  dispositions concernant les sous-officiers féminins de la gendarmerie et de la police recrutés sous le régime des fonctionnaires de l´Etat) «Par dérogation à l´article 7 de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l´Etat, la période de leur stage est mise en compte comme ancienneté de service comptant pour la totalité pour la fixation du traite- ment initial, même pour la période située avant l´âge fictif de début de carrière.» Chapitre III. Organisation des cadres de l´armée
+
+<a id="art_15"></a>
+
+### Art. 15.
+
+L´armée comprend: a) le commandement, b) des unités de troupes d´active et de réserve, c) un centre d´instruction et une école de formation de gradés, d) des services techniques. La tâche incombant à ces subdivisions sera fixée par règlement grand-ducal. Les tableaux d´organisation et d´équipement seront arrêtés par le ministre de la force publique.»
+
+<a id="art_16"></a>
+
+### Art. 16.
+
+Un règlement grand-ducal pourra créer une inspection générale de l´armée auprès du ministère de la force publique.»
+
+<a id="art_17"></a>
+
+### Art. 17.
+
+Sont rattachés à l´armée: a) la justice militaire, b) le service de l´aumônerie. L´organisation judiciaire dans l´armée fera l´objet d´une loi spéciale. L´organisation du service de l´aumônerie et les attributions des aumôniers seront fixées par règlement grand-ducal.»
+
+<a id="art_18"></a>
+
+### Art. 18.
+
+Les grades militaires se succèdent dans l´ordre hiérarchique ci-après: 1. hommes de troupe: soldat, soldat de 1re classe, caporal, caporal-chef; 2. sous-officiers: sergent, 1er sergent, sergent-chef, adjudant, adjudant-chef, adjudant-major;» (Loi du 27 août 1986) «3. officiers: lieutenant, lieutenant en 1er, capitaine, major, lieutenant-colonel, colonel». (Régl. g.-d. du 13 juin 1988)
+
+<a id="art_19"></a>
+
+### Art. 19.
+
+Le corps des officiers de carrière de l´Armée proprement dite comprend: 1) a) un maximum de trente-cinq officiers, dont: un commandant de l´Armée qui porte le titre de colonel, un commandant adjoint de l´Armée qui porte le titre de lieutenant-colonel, un commandant du centre d´instruction militaire de l´Armée qui porte le titre de lieutenant-colonel, six lieutenants -colonels, huit majors, des capitaines, des lieutenants en premier, des lieutenants.» «b) un médecin et un médecin-dentiste dont le grade ne pourra dépasser celui de lieutenant-colonel. Les officiers sont nommés et promus par le Grand-Duc. La nomination aux fonctions de commandant de l´Armée, de commandant adjoint de l´Armée et de commandant du Centre d´Instruction Militaire de l´Armée se fait au choix.» (Règl. g.-d. du 13 juin 1988) «2) Le corps des sous-officiers de carrière de l´Armée proprement dite comprend un maximum de cent vingt-cinq sous- officiers des grades de sergent à adjudant-major, dont quatorze adjudants-majors, dix-huit adjudants-chefs, vingt-neuf adjudants.» «Les sous-officiers sont nommés et promus par le Ministre de la Force Publique.»              270 (Règl. g.-d. du 28 avril 1986) «3) La musique militaire comprend un officier qui ne pourra obtenir un grade supérieur à celui de capitaine, et au maximum soixante sous-officiers de carrière et volontaires des grades de sergent à adjudant-major sans qu´il puisse y avoir plus de huit adjudants-majors, onze adjudants-chefs et dix-sept adjudants.» «4) En cas de vacance dans un grade, les effectifs prévus sub 1), 2) et 3) ci-dessus pour les grades inférieurs peuvent être augmentés à concurrence du nombre de ces vacances. Les conditions de recrutement, de formation et d´avancement des officiers et sous-officiers de carrière et volontaires sont fixées par règlement grand-ducal. 5) Le grade est distinct de l´emploi. Les officiers sont affectés aux emplois et désaffectés par le Grand-Duc. Les sous-offi- ciers sont affectés aux emplois et désaffectés par le Ministre de la Force Publique. En cas de nécessité les officiers et sous-officiers peuvent être autorisés par le Ministre de la Force Publique à porter le titre d´un grade supérieur soit pour la durée d´une mission spéciale, soit pour une durée indéterminée. Ces autorisations ne portent pas atteinte aux règles établies en matière d´avancement.» (Règl. g.-d. du 13 juin 1988) «6) Le personnel civil de l´Armée comprend au maximum 110 unités: a) dans la carrière de l´artisan-fonctionnaire: huit artisans dirigeants, onze premiers artisans principaux, des artisans principaux, des premiers artisans, des artisans.» «b) des employés; c) des ouvriers et magasiniers.»
+
+<a id="art_20"></a>
+
+### Art. 20.
+
+Sont adjoints au corps des officiers et chargés de fonctions militaires en vertu d´une commission: 1) deux magistrats de l´ordre judiciaire; 2) un docteur en médecine; 3) deux prêtres catholiques; 4) le cas échéant, un ministre du culte protestant et un ministre du culte israëlite. Les commissions sont délivrées et retirées par le ministre de la force publique, les ministres compétents et le comman- dant entendus en leur avis.»
+
+<a id="art_21"></a>
+
+### Art. 21.
+
+Pourront être placés et promus hors cadre par dépassement des effectifs prévus par la présente loi: «1) Les aides de camp et les sous-officiers en service extraordinaire auprès de la Maison Grand-Ducale;» «2) les officiers et sous-officiers de carrière employés par ordre du Gouvernement dans un service autre que le service actif de l´armée ou auprès des organismes alliés ou interalliés. Ni le nombre de ces officiers ni celui des sous-officiers ne pourront dépasser le nombre de dix. Un règlement grand-ducal déterminera les services luxembourgeois dans lesquels les officiers et sous-officiers pourront être employés.» (Loi du 27 août 1986) «Les officiers prévus à l´alinéa qui précède pourront bénéficier du susdit avancement jusqu´au grade de lieutenant- colonel et au moment seulement où leurs collègues du cadre de l´active de rang égal ou immédiatement inférieur, obtien- nent une promotion.» (Loi du 31 janvier 1974) «Les sous-officiers prévus au même alinéa avanceront suivant leur ancienneté telle qu´elle est fixée par les dispositions en vigueur simultanément avec leur collègue immédiatement inférieur en rang.» «La mise hors cadre est décrétée par le Grand-Duc. Les officiers et sous-officiers qui, sur la base de ces dispositions, sont appelés à occuper un poste à l´étranger pourront toucher en dehors du traitement de leur grade une indemnité de poste dont le montant est fixé par un arrêté pris par le ministre d´Etat, sur proposition du ministre de la force publique, eu égard aux conditions et exigences spéciales de ce poste et du pays de séjour.»
+
+<a id="art_22"></a>
+
+### Art. 22.
+
+Avant d´entrer en fonctions les officiers et sous-officiers prêteront le serment suivant: «Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l´Etat et soumission à la discipline militaire. Ainsi Dieu me soit en aide.» Les officiers commissionnés prêteront le même serment. L´assermentation des officiers se fera par le ministre de la force publique, celle des sous-officiers par le commandant ou un officier supérieur délégué à ces fins.» 271 Chapitre IV. Mesures sociales
+
+<a id="art_23"></a>
+
+### Art. 23.
+
+En cas de mort, occasionnée par le service militaire, ou de blessures, maladies ou infirmités, contractées à l´occasion de ce service, de même qu´en cas d´aggravation par le fait ou à l´occasion dudit service de maladies ou d´infirmités étrangères à ce service, les dispositions légales et réglementaires régissant l´assurance obligatoire contre les accidents de travail, section industrielle, sont applicables aux militaires de l´armée pour autant qu´ils ne sont pas déjà assurés contre les accidents conformément aux dispositions légales et réglementaires et sauf les dérogations prévues par la présente loi. Les présentes dispositions sont pareillement applicables lorsque les faits dommageables surviennent à l´étranger. Est à considérer comme service militaire au sens des présentes dispositions: a) la présence imposée ou autorisée dans une installation militaire ou en tout autre lieu de service pendant les services volontaires; b) la présence en tout autre lieu, si elle a été organisée par l´autorité militaire; c) la comparution, sur convocation, devant l´autorité militaire; d) le trajet effectué dans l´un ou l´autre sens, soit du domicile ou de la résidence habituelle au lieu de service, soit de ce dernier au lieu imposé ou autorisé par l´autorité militaire. Toutefois la présence dans un intérêt privé en dehors d´un lieu de service n´est pas couverte par la présence disposition. Un règlement grand-ducal précisera les conditions sous lesquelles l´accident survenu à l´occasion d´une permission de sortir donnera lieu à indemnisation. L´association d´assurance contre les accidents est chargée de l´octroi et de la détermination des prestations. L´armée remplira les devoirs imposés aux employeurs en cas d´accident. En outre elle procédera à la constatation de bles- sures, maladies ou infirmités provoquées par le fait ou à l´occasion du service ou survenues après l´engagement, mais en dehors du service. Elle fournira de même, lors des demandes de réparation, tous les renseignements utiles pour établir les responsabilités.»
+
+<a id="art_24"></a>
+
+### Art. 24.
+
+Pendant la durée de son engagement, le militaire blessé, malade ou infirme n´a pas droit à une prestation d´assurance. Le service des prestations d´assurance ne prendra cours que le jour qui suit la fin de l´engagement du militaire. Si les constatations prévues à l´article qui précède n´ont lieu qu´après la fin de l´engagement, les prestations à fournir par l´associa- tion d´assurance ne sont dues au plus tôt qu´à partir du jour qui suit la présentation de la demande.»
+
+<a id="art_25"></a>
+
+### Art. 25.
+
+Les demandes en réparation du chef de blessures, de maladies ou d´infirmités, non constatées par un médecin militaire pendant la durée du service militaire et non déclarées pendant cette même période, doivent être présentées à l´autorité militaire par l´intéressé ou ses ayants droit, dans les trois mois qui suivent la fin de l´engagement. La demande n´est recevable qu´après l´expiration de ce délai que s´il est prouvé que les conséquences dommageables n´ont pu être constatées qu´ultérieurement ou que l´intéressé, par suite de circonstances indépendantes de sa volonté, s´est trouvé dans l´impossibi- lité de formuler sa demande. Dans ce cas la demande devra être présentée endéans les trois mois de la constatation des suites dommageables ou de la cessation de l´impossibilité d´agir. Le médecin militaire ou le médecin de l´association d´assurance donneront leur avis sur l´origine causale de la blessure, de la maladie ou de l´infirmité non constatée pendant le service militaire.»
+
+<a id="art_26"></a>
+
+### Art. 26.
+
+Le calcul des prestations en espèces fera l´objet d´un règlement grand-ducal. Les prescriptions concernant la réévaluation des rentes d´accident, leur ajustement et leur adaptation au coût de la vie sont applicables aux rentes calculées d´après les présentes dispositions. Les bénéficiaires d´une ou de plusieurs rentes allouées en vertu de la présente loi pour une réduction de la capacité de travail initiale d´au moins cinquante pour cent sont assimilés aux bénéficiaires d´une ou de plusieurs rentes d´accident pour l´application de l´article 1er, numéro 2° du code des assurances sociales. Lorsqu´en cas de décès il n´y a pas lieu à octroi d´une rente, les ascendants ayant vécu en ménage commun avec la victime lors de son engagement, auront droit à une indemnité de décès égale à douze cents fois le salaire horaire minimum légal.»
+
+<a id="art_27"></a>
+
+### Art. 27.
+
+Lorsque les organes de l´association d´assurante contre les accidents sont appelés à déterminer les indemnités revenant aux militaires lésés, ou à leurs ayants droit, un représentant de l´autorité militaire leur est adjoint avec voix consul- tative. Les décisions de ces organes donneront lieu aux recours prévus en matière d´assurance contre les accidents.»
+
+<a id="art_28"></a>
+
+### Art. 28.
+
+Les frais résultant de l´application des dispositions qui précèdent seront à charge de l´Etat qui remboursera à l´association ceux qu´elle aura exposés. Les crédits nécessaires figureront au budget de la force publique. L´Etat contribuera également aux frais administratifs exposés par l´association d´assurance.»
+
+<a id="art_29"></a>
+
+### Art. 29.
+
+Les dispositions des articles 114 à 118 du code des assurances sociales sont applicables dans les cas prévus par les articles 23 à 28 de la présente loi. Celles concernant les employeurs s´appliquent à l´armée, celles concernant les employés et ouvriers assurés à toutes les personnes militaires et civiles en service à l´armée, celles concernant les victimes d´accidents du travail, leurs ayants droit et leurs héritiers aux victimes d´accidents militaires et maladies de service, à leurs ayants droit et à leurs héritiers. Les recours prévus par l´article 118 du code des assurances sociales seront exercés par l´association d´assurance contre les accidents. Toutefois, dans le cas où les prestations se limitent aux frais du traitement  272 médical fourni par l´armée et cessent avant la fin de l´engagement du militaire, lesdits recours seront exercés par le ministre de la force publique. Les sommes perçues par l´assocation d´assurance seront computées sur les remboursements courants dus par l´Etat.»
+
+<a id="art_30"></a>
+
+### Art. 30.
+
+(1) Les périodes accomplies comme volontaire à l´armée après l´âge de dix-sept ans compteront comme temps de service pour le calcul de la pension conformément à l´article 9, a, 2° modifié de la loi du 26 mai 1954 réglant les pensions des fonctionnaires de l´Etat.» (Loi du 15 novembre 1972) «Les dispositions de l´article 32, paragraphe 1er, de la loi du 22 juin 1963 fixant le régime des traitements des fonction- naires de l´Etat, sont applicables à l´alinéa qui précède.» «Les dispositions des articles 15 et 16 de la loi du 16 décembre 1963 ayant pour objet la coordination des régimes de pension, sont applicables aux volontaires qui quittent le service de l´armée sans avoir droit à une pension de fonctionnaire. (2) a) Le service de santé de l´armée assurera le traitement médical des volontaires; il peut avoir recours à des médecins spécialistes et, en cas d´urgence ou d´indisponibilité d´un médecin militaire, à un médecin civil. Un règlement grand-ducal fixera les modalités des services médicaux et des traitements connexes, des fournitures phar- maceutiques, des fournitures et réparations des moyens accessoires, ainsi que les modalités applicables en cas de détache- ment de membres de l´armée à l´étranger. b) Les membres de famille des volontaires jouiront des mêmes droits que les membres de famille des militaires de carrière. c) Les prestations à payer par la caisse de maladie des fonctionnaires et employés publics en application de la disposition sub b) seront remboursées à cette caisse par l´Etat sur état mensuel avec une majoration d´un pour cent pour frais d´adminis- tration. (3) Le service militaire n´interrompt pas l´attribution des allocations familiales. Les prestations fournies sont rembour- sées respectivement aux caisses d´allocations familiales par l´Etat, suivant les modalités à fixer par règlement grand-ducal.»
+
+<a id="art_31"></a>
+
+### Art. 31.
+
+Les contestations relatives à l´application des dispositions de l´article 30 ci-dessus sont de la compétence des juridictions appelées à statuer en matière de sécurité sociale.» Chapitre V. Dispositions disciplinaires
+
+<a id="art_32"></a>
+
+### Art. 32.
+
+(supprimé par la loi du 16 avril 1979) Chapitre VI. Dispositions pénales
+
+<a id="art_33"></a>
+
+### Art. 33.
+
+Sera déféré aux tribunaux ordinaires et puni d´une peine d´emprisonnement d´un mois à un an et d´une amende de cinq cent un à trente mille francs ou d´une de ces peines seulement, quiconque aura provoqué à la violation des devoirs militaires, à l´insubordination, à la révolte ou à la désertion. La tentative de ces délits sera punie d´une peine d´empri- sonnement de huit jours à six mois et d´une amende de cinq cent un à cinq mille francs ou d´une de ces peines seulement.»
+
+<a id="art_34"></a>
+
+### Art. 34.
+
+Indépendamment des sanctions disciplinaires à fixer, les infractions aux dispositions réglementaires à prendre en vertu de la présente loi peuvent être punies d´une peine d´emprisonnement de huit jours à trois mois et d´une amende de cinq cent un à dix mille francs ou d´une de ces peines seulement.»
+
+<a id="art_35"></a>
+
+### Art. 35.
+
+Les dispositions du livre 1er du code pénal, la loi du 18 juin 1879, modifiée par celle du 16 mai 1904, portant attribution aux cours et tribunaux de l´appréciation de circonstances atténuantes, ainsi que la loi du 10 mai 1892 sur la condamnation conditionnelle sont applicables aux infractions prévues par la présente loi et par les arrêtés d´exécution. L´article 25 de la loi du 12 août 1927 sur le régime des cabarets, comprenant le texte coordonné de toutes les dispositions légales en vigueur sur la matière, pourra être appliqué.» Chapitre VII. Dispositions transitoires
+
+<a id="art_36"></a>
+
+### Art. 36.
+
+(1) Les officiers qui feront partie de la première composition du corps des officiers, visé aux articles 19 (1) et 21 de la présente loi, seront choisis parmi les officiers actuellement en service par arrêté grand-ducal. Les sous-officiers qui feront partie de la première composition du corps des sous-officiers visés aux articles 19 (2) et 21 de la présente loi, seront choisis parmi les sous-officiers actuellement en service par arrêté ministériel. Les officiers et sous-officiers de l´armée proprement dite et actuellement en service, qui n´entreront pas dans ce choix, pourront demander leur détachement à une autre administration ou à un organisme international à désigner par règlement grand-ducal. Lorsque le nombre de ces demandes sera insuffisant pour réaliser la réduction des cadres aux proportions fixées par l´article 19 ci-dessus, ces mêmes officiers et sous-officiers pourront être détachés d´office. Si le détachement d´office est refusé, il leur sera alloué pendant deux années un traitement d´attente. Ce traitement d´attente est fixé à douze soixan- tièmes du traitement dont l´ayant droit a joui au moment de la cessation de ses fonctions, augmenté d´un soixantième par    273 année de service, sans qu´il puisse être inférieur aux vingt soixantièmes du dernier traitement, ni dépasser les cinquante soixantièmes de ce traitement. En attendant la réduction des cadres, qui devra être terminée le 31 décembre 1967 au plus tard, les officiers et sous-offi- ciers actuellement en service continueront à jouir de leurs traitements et avantages accessoires.» (Loi du 15 novembre 1972) «(2) Les officiers et sous-officiers détachés conformément au paragraphe 1er ci-dessus resteront dans le cadre de l´armée à des emplois hors cadre, avec conservation de leur traitement et de leur grade ou du titre de leur grade. Jusqu´à leur mise à la retraite et au plus tard jusqu´à l´âge de cinquante-cinq ans, ils pourront obtenir les promotions qui sont accordées à leurs collègues dans le cadre de rang égal ou immédiatement inférieur, sauf celle au grade de lieutenant-colonel.» (Loi du 22 juin 1977) «Cette dernière promotion est réservée à un ou deux officiers au maximum et se fait au choix sur avis conforme du Ministre dont relève l´administration à laquelle ils sont détachés ou de l´organisme international d´affectation.» «Les officiers et sous-officiers détachés conserveront leurs avantages en matière de traitement médical. Ils continueront à jouir de leur masse d´habillement en 1967, sans qu´ils puissent cumuler cette masse avec celle qui pourra être due aux fonc- tionnaires de l´administration à laquelle ils seront détachés.» (Loi du 15 novembre 1972) «Il sera alloué en outre à ceux des intéressés qui n´auront pas bénéficié d´une indemnité d´habillement ou de première mise au moment de leur détachement une indemnité d´équipement d´un montant de douze mille francs.» «Le traitement de base des officiers et sous-officiers détachés à une administration, un organisme ou service où ils ne bénéficient plus d´une prime d´astreinte est majoré d´un supplément de traitement qui est égal à la valeur de quinze points indiciaires. Ce supplément est dû à partir du premier jour du mois qui suit celui pendant lequel a eu lieu le détachement et cesse d´être dû lorsqu´il est mis fin au détachement. Pour les officiers et sous-officiers détachés qui touchent une rémunération du chef de leur nouvel emploi, le traitement, éventuellement majoré, conservé conformément au premier alinéa du présent paragraphe, est diminué à concurrence de cette rémunération.» (Loi du 15 novembre 1972) «Les officiers et sous-officiers qui n´ont pas été choisis conformément aux deux premiers alinéas du paragraphe 1 ci- dessus bénéficieront d´un pécule de reconversion dont le montant annuel correspond à neuf points indiciaires, la valeur d´un point étant égale à celle du point indiciaire de la loi fixant le régime des traitements des fonctionnaires de l´Etat. Ce pécule est dû à partir du premier jour du mois qui suit celui pendant lequel a eu lieu le détachement et cesse d´être dû au moment de la mise à la retraite et au plus tard sept années à partir du détachement. Il n´est pas dû aux officiers et aux sous-officiers qui, admis dans une carrière civile auprès de l´Etat ou détachés à un orga- nisme international, bénéficient d´un traitement ou d´une rémunération supérieure au traitement conservé conformément au premier alinéa du présent paragraphe.» (3) Après la date du 28 février 1968 les officiers et sous-officiers détachés conformément aux dispositions qui précèdent ne pourront plus être réintégrés dans les corps des officiers et sous-officiers tels qu´ils sont définis aux paragraphes (1) et (2) de l´article 19 de la présente loi. Néanmoins les militaires détachés pourront être transférés d´une administration ou organi- sation à une autre administration ou organisation. (4) Les officiers et sous-officiers détachés feront le service dans les mêmes conditions que les fonctionnaires des admi- nistrations auxquelles ils seront détachés, avec les mêmes droits et devoirs et sous le même régime disciplinaire. Un règlement grand-ducal fixera les titres des grades, les insignes et les uniformes que porteront les officiers et sous-offi- ciers détachés à la gendarmerie, la police, l´administration des douanes, l´administration des établissements pénitentiaires et l´administration des eaux et forêts.» (Loi du 15 novembre 1972) «(5) Par dérogation au paragraphe 1er, alinéa 3 du présent article, l´officier supérieur, détaché à l´inspection générale des finances pour y remplir les fonctions d´inspecteur des finances, pourra être nommé inspecteur des finances hors cadre. A cet effet, il est dispensé, pour autant que de besoin, des conditions de nomination prévues à l´article 10 de la loi du 10 mars 1969 portant institution d´une inspection générale des finances, à condition toutefois qu´il ait suivi avec succès les cours préparant aux fonctions d´inspecteur des finances de l´armée et qu´il ait exercé ces fonctions pendant trois années au moins à l´armée luxembourgeoise.» «(6) Les officiers et sous-officiers actuellement en service dont les fonctions ne sont plus prévues par l´article 19 (1) ci-dessus seront traités comme les autres officiers qui n´entreront pas dans le choix prévu par le paragraphe (1) du présent article. Les officiers actuellement en service détenant le titre d´un grade qui n´est plus prévu à l´article 18 de la présente loi conserveront ce titre. (7) L´emploi hors cadre est supprimé au moment où son titulaire quitte le service actif de l´Etat. (8) Par dérogation à l´article 19 (1) ci-dessus les officiers et sous-officiers volontaires actuellement en service pourront continuer à servir jusqu´à la fin de leur engagement ou rengagement.» (Loi du 15 novembre 1972) «L´officier volontaire ayant quitté l´armée depuis le 1er juillet 1967 et qui a été réintégré dans son ancienne carrière auprès de l´Etablissement d´assurance contre la vieillesse et l´invalidité, avancera hors cadre. A cet effet, il sera rangé dans le tableau 274 de classement de l´Office des assurances sociales comme candidat ayant obtenu sa première nomination dans la carrière le 1er mai 1957. Pour l´octroi des biennales et pour l´avancement en traitement il sera tenu compte de la période d´occupation passée auprès de cet Etablissement avant l´engagement dans l´armée. L´emploi hors cadre comptera pour la fixation du nombre des emplois des différentes fonctions de la carrière de l´expédi- tionnaire administratif.»
+
+<a id="art_37"></a>
+
+### Art. 37.
+
+L´officier ou le sous-officier de l´armée proprement dite, qui n´aura pas été choisi conformément aux deux premiers alinéas du paragraphe (1) de l´article 36 de la présente loi et qui a atteint trente ans de service ou l´âge de cinquante ans pourra obtenir une pension correspondant aux cinquante soixantièmes de son dernier traitement. Ces dispositions sont également applicables à l´officier et au sous-officier de l´armée proprement dite qui remplira l´une ou l´autre des condi- tions qui précèdent avant le 1er décembre 1967.(*) Les demandes de mise à la retraite devront être présentées avant le 1er décembre 1967.(**)» (Loi du 15 novembre 1972) «Les pensions accordées dans les conditions de cet article seront diminuées, jusqu´à l´âge de cinquante-cinq ans accom- plis du bénéficiaire, dans la mesure où le total de la pension et des revenus d´une activité postérieure à la mise à la retraite dépassera le traitement maximum attaché aux grades respectifs de lieutenant-colonel et d´adjudant-major, augmenté des émoluments accessoires qui sont comptés pour la valeur de vingt-cinq points indiciaires.» «Toutefois pour les officiers d´un grade supérieur au grade A 10 et pour les sous-officiers d´un grade supérieur au grade A 6 les plafonds qui précèdent sont majorés de trente points indiciaires.» (Loi du 15 novembre 1972)
+
+<a id="art_38"></a>
+
+### Art. 38.
+
+(1) Le personnel civil de l´armée, en surnombre, sera soit intégré soit détaché à d´autres administrations ou détachées à des organismes internationaux, à désigner par règlement grand-ducal. Il conservera son traitement, son indem- nité ou son salaire touché à l´armée, y compris, le cas échéant, son droit aux augmentations périodiques et aux avancements en traitement. Le personnel civil détaché fera le service dans les mêmes conditions que le personnel des administrations auxquelles il sera détaché, avec les mêmes droits et devoirs et sous le même régime disciplinaire. (2) La rémunération versée par l´Etat au personnel civil détaché à un organisme international et qui y touche une rému- nération du chef du nouvel emploi est diminuée à concurrence de cette dernière rémunération. (3) Le personnel civil visé au paragraphe (1), alinéa 1er ci-dessus, ne pourra plus être réintégré à l´armée. Néanmoins il pourra être transféré d´une administration ou d´un organisme international à une autre administration ou un autre orga- nisme international. (4) Les artisans et les magasiniers appartenant en raison de leurs études et examens à la carrière de l´artisan, visés au paragraphe (1) ci-dessus, pourront, par dépassement des effectifs fonctionnaires prévus à l´article 19 (6) de la présente loi et dans les conditions y prévues, obtenir hors cadre une nomination au grade de début de la carrière de l´artisan, ainsi que les promotions qui sont accordées à leurs collègues dans le cadre de l´armée de rang égal ou immédiatement inférieur. Cette disposition ne s´applique pas à ceux qui sont intégrés comme fonctionnaires à une autre administration.»
+
+<a id="art_39"></a>
+
+### Art. 39.
+
+Par dérogation à l´article 14 ci-dessus et pendant une période de deux ans à partir de l´entrée en vigueur de la présente loi, les volontaires de l´armée pourront obtenir la résiliation de leur engagement pour être admis à une des carrières visées à l´article 14 ci-dessus, sans avoir accompli trois ans de service.»
+
+<a id="art_40"></a>
+
+### Art. 40.
+
+(supprimé par la loi du 29 juin 1967)
+
+<a id="art_41"></a>
+
+### Art. 41.
+
+(supprimé par la loi du 29 juin 1967)
+
+<a id="art_42"></a>
+
+### Art. 42.
+
+(supprimé par la loi du 29 juin 1967)
+
+<a id="art_43"></a>
+
+### Art. 43.
+
+(supprimé par la loi du 29 juin 1967)
+
+<a id="art_44"></a>
+
+### Art. 44.
+
+(supprimé par la loi du 29 juin 1967)
+
+<a id="art_45"></a>
+
+### Art. 45.
+
+(supprimé par la loi du 29 juin 1967)
+
+<a id="art_46"></a>
+
+### Art. 46.
+
+(supprimé par la loi du 29 juin 1967)
+
+<a id="art_47"></a>
+
+### Art. 47.
+
+(supprimé par la loi du 29 juin 1967) (*) Les effets de ces dispositions ont été prorogés à l´égard des militaires visés ayant atteint l´âge de 50 ans: «avant le 31 décembre 1968» Loi du 23.12.1967 (budget) «avant le 31 décembre 1969» Loi du 22.04.1969 (budget) «avant le 31 décembre 1970» Loi du 24.12.1969 (budget) «avant le 31 décembre 1971» Loi du 29.12.1970 (budget) «avant le 31 décembre 1972» Loi du 29.12.1971 (budget) (**) La date de la présentation des demandes a été successivement modifiée comme suit: «le 1er décembre 1968» Loi du 23.12.1967 (budget) «le 1er décembre 1969» Loi du 22.04.1969 (budget) «le 1er décembre 1970» Loi du 24.12.1969 (budget) «le 1er décembre 1971» Loi du 29.12.1970 (budget) «le 1er décembre 1972» Loi du 29.12.1971 (budget) 275
+
+<a id="art_48"></a>
+
+### Art. 48.
+
+(supprimé par la loi du 29 juin 1967)
+
+<a id="art_49"></a>
+
+### Art. 49.
+
+(supprimé par la loi du 29 juin 1967)
+
+<a id="art_50"></a>
+
+### Art. 50.
+
+(supprimé par la loi du 29 juin 1967)
+
+<a id="art_51"></a>
+
+### Art. 51.
+
+(supprimé par la loi du 29 juin 1967)
+
+<a id="art_52"></a>
+
+### Art. 52.
+
+
+
+<a id="art_53"></a>
+
+### Art. 53.
+
+(supprimé par la loi du 29 juin 1967)
+
+<a id="art_54"></a>
+
+### Art. 54.
+
+(supprimé par la loi du 29 juin 1967)
+
+<a id="art_55"></a>
+
+### Art. 55.
+
+(supprimé par la loi du 29 juin 1967)
+
+<a id="art_56"></a>
+
+### Art. 56.
+
+(supprimé par la loi du 29 juin 1967)
+
+<a id="art_57"></a>
+
+### Art. 57.
+
+(supprimé par la loi du 29 juin 1967) B. GENDARMERIE Chapitre VIII. Organisation de la gendarmerie (Loi du 16 décembre 1963)
+
+<a id="art_58"></a>
+
+### Art. 58.
+
+La gendarmerie conserve les attributions qui lui sont dévolues par les lois et règlements en vigueur, sans préju- dice des dispositions ci-après: La gendarmerie assiste l´armée en tout ce qui concerne la sûreté des forces armées, la discipline et la police des militaires dans les formes et conditions prévues au règlement d´administration publique visé à l´article 1er; elle participe à la défense intérieure du territoire en ce qui concerne les missions de sûreté, de renseignements et d´alerte et, pour toute autre mission, dans la mesure fixée de commun accord par les ministres de la force publique, de la justice et de l´intérieur; un aucun cas les détachements de la gendarmerie ne peuvent être placés en soutien des unités de l´armée pour les missions de combat. Il est créé au sein de l´armée une force de réserve destinée, en cas de besoin, au renforcement de la gendarmerie; elle est formée de militaires faisant partie de la disponibilité ou de la réserve de l´armée. Les membres de la force de réserve seront recrutés par voie d´engagement volontaire. Un règlement d´administration publique déterminera l´effectif de cette force, les modalités de sa composition et celles de son appel sous les armes, ceci dans le cadre de la loi concernant l´organisation militaire. Le même règlement fixera les condi- tions de recrutement, de formation et d´avancement des membres de la force de réserve ainsi que leur indemnisation. Les dispositions relatives à la durée et au nombre des rappels d´entraînement ne sont pas applicables aux membres de la force de réserve. La gendarmerie relève du ministre de la force publique pour tout ce qui concerne l´organisation, l´administration, l´ins- truction et la discipline, et du ministre de la justice pour tout ce qui est relatif au maintien de l´ordre public et à l´exercice de la police judiciaire.» (Règ. g.-d. du 13 juin 1988)
+
+<a id="art_59"></a>
+
+### Art. 59.
+
+Le cadre des officiers de gendarmerie comprend un maximum de seize officiers dont: un commandant de la Gendarmerie qui porte le titre de colonel, un commandant adjoint de la Gendarmerie qui porte le titre de lieutenant-colonel, trois lieutenants -colonels, quatre majors, des capitaines, des lieutenants en premier, des lieutenants. Lorsqu´un emploi d´une fonction de promotion reste vacant, le nombre des emplois d´une fonction inférieure en grade peut être temporairement augmenté en conséquence.» (Règ. g.-d. du 13 juin 1988)
+
+<a id="art_60"></a>
+
+### Art. 60.
+
+1) Dans le corps de la gendarmerie le nombre totaldes sous-officiers et des gendarmes ne peut dépasser 590 dans les deux carrières ci-après mentionnées sous a) et b); a) La carrière des sous-officiers de la Gendarmerie comprend: soixante-sept adjudants-chefs, quatre-vingt-huit adjudants, cent cinquante-quatre maréchaux des logis-chef, des maréchaux des logis, des premiers brigadiers, des brigadiers.» «b) La carrière des gendarmes comprend: des premiers gendarmes-chefs, des gendarmes-chefs, des gendarmes de 1re classe, des gendarmes. (supprimé par la loi du 29 juin 1967)          276 Le nombre maximum des fonctionnaires de la carrière des gendarmes est fixé à dix pour cent de l´effectif total des sous- officiers de la Gendarmerie. Lorsqu´un emploi d´une fonction de promotion reste vacant, le nombre des emplois d´une fonction inférieure en grade peut être temporairement augmenté en conséquence. 2) Le personnel civil de la Gendarmerie comprend: a) dans la carrière supérieure de l´ingénieur: 3 fonctionnaires, des ingénieurs première classe, des ingénieurs-chefs de division, des ingénieurs principaux, des ingénieurs inspecteurs, des ingénieurs. Les attributions des ingénieurs sont déterminées par arrêté du Ministre de la Force Publique. L´ingénieur avance aux fonctions supérieures de sa carrière au moment où ces fonctions sont atteintes par un fonction- naire de rang égal ou immédiatement inférieur de l´administration des Postes et Télécommunications. La détermination de ce fonctionnaire se fait par le Ministre de la Fonction Publique. b) dans la carrière moyenne de l´ingénieur technicien: 3 fonctionnaires des ingénieurs inspecteurs principaux 1ers en rang, des ingénieurs inspecteurs principaux, des ingénieurs techniciens inspecteurs, des ingénieurs techniciens principaux, des ingénieurs techniciens. L´ingénieur technicien avance aux fonctions supérieures de sa carrière au moment où ces fonctions sont atteintes par un fonctionnaire de rang égal ou immédiatement inférieur de l´administration des Postes et Télécommunications. La détermi- nation de ce fonctionnaire se fait par le Ministre de la Fonction Publique. Les conditions de recrutement, d´instruction, de nomination et d´avancement pour les carrières de l´ingénieur et de l´ingénieur technicien susvisées sous a) et b) sont fixées par règlement grand-ducal. c) dans la carrière inférieure de l´artisan: des artisans dirigeants, des premiers artisans principaux, des artisans principaux, des premiers artisans, des artisans. d) des employés et ouvriers de l´Etat suivant les besoins du service et dans la limite des crédits budgétaires. Le nombre total des emplois ci-dessus prévus sous c) et d) ne peut dépasser 25.»
+
+<a id="art_61"></a>
+
+### Art. 61.
+
+Les officiers de gendarmerie sont nommés et promus par le Grand-Duc qui les affecte aux emplois ou les en désaffecte. La nomination aux fonctions de commandant et de commandant adjoint de la Gendarmerie se fait au choix. Les sous-officiers de gendarmerie et les gendarmes sont nommés et promus par le Ministre de la Force Publique. En cas de nécessité les officiers, les sous-officiers et les gendarmes peuvent être autorisés par le Ministre de la Force Publique à porter le titre d´un grade supérieur de leur carrière soit pour la durée d´une mission spéciale, soit pour une durée indéterminée. Ces autorisations ne portent pas atteinte aux règles établies en matière d´avancement.» (Loi du 16 décembre 1963)
+
+<a id="art_62"></a>
+
+### Art. 62.
+
+Il est institué au sein de la gendarmerie un service de la sûreté publique, placé sous l´autorité du chef de la gendarmerie et chargé de missions spéciales de police judiciaire et administrative. Le personnel comprend un officier délégué, ayant le grade de major, de capitaine ou de lieutenant en premier, des commissaires en chef, ayant le grade d´adjudant-chef, des commissaires, ayant le grade d´adjudant, des commissaires adjoints, ayant le grade de maréchal des logis-chef, des inspecteurs, ayant le grade de maréchal des logis et des inspecteurs adjoints, ayant le grade de brigadier. Le nombre de ce personnel est compris dans les cadres prévus par les articles 59 et 60 de la présente loi.»
+
+<a id="art_63"></a>
+
+### Art. 63.
+
+Pour l´instruction et la formation des candidats à la carrière de sous-officier de gendarmerie ou de police ainsi qu´à la carrière de gendarme ou d´agent de police, il est institué une école de gendarmerie et de police dirigée par un officier. En matière juridique, l´enseignement sera confié entre autres à un ou plusieurs chargés de cours à formation juridique complète. (alinéa 2 supprimé par la loi du 17 novembre 1986) Les modalités de fonctionnement de l´école de gendarmerie et de police sont fixées d´un commun accord par le Ministre de la Force Publique et par le Ministre de la Justice. Un règlement grand-ducal fixe les conditions de recrutement, d´instruction et d´avancement des officiers, des sous-offi- ciers de gendarmerie et des gendarmes et règle tout ce qui concerne l´organisation, l´administration et la dislocation de la Gendarmerie, y compris le service de la Sûreté Publique prévu à l´article 62 de la présente loi.» (Loi du 16 décembre 1963)
+
+<a id="art_64"></a>
+
+### Art. 64.
+
+Le personnel de la sûreté publique, les officiers, sous-officiers et gendarmes employés par ordre du gouverne- ment dans un service de l´Etat autre que le service actif de la gendarmerie, pourront obtenir hors cadre les grades prévus aux articles 59 et 60 de la présente loi. 277 Ils avanceront suivant leur ancienneté, telle qu´elle est fixée par les dispositions en vigueur, simultanément avec leur collègue immédiatement inférieur en rang. Pourront avancer hors cadre au grade immédiatement supérieur, sans égard à leur ancienneté, et sur avis conforme du conseil d´Etat, les officiers, sous-officiers et gendarmes qui se seront distingués par une action d´éclat. Leur avancement ultérieur sera déterminé par leur rang d´ancienneté normal.»
+
+<a id="art_65"></a>
+
+### Art. 65.
+
+(supprimé par la loi du 19 mars 1969) (Loi du 16 décembre 1963)
+
+<a id="art_66"></a>
+
+### Art. 66.
+
+Avant d´entrer en fonctions, les membres de la gendarmerie prêteront le serment suivant: «Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l´Etat. Je jure d´obéir à mes chefs en tout ce qui concerne le service auquel je suis appelé et de ne faire usage, dans l´exercice de mes fonctions, de la force qui m´est confiée, que pour le maintien de l´ordre et l´exécution des lois. Ainsi Dieu me soit en aide.» L´assermentation des officiers se fera par le ministre de la force publique, celle des sous-officiers et des gendarmes par le chef de la gendarmerie ou par un officier ayant au moins le grade de capitaine, par lui délégué à ces fins.»
+
+<a id="art_67"></a>
+
+### Art. 67.
+
+alinéa 1er (supprimé par la loi du 16 avril 1979) alinéa 2 (supprimé par la loi du 16 avril 1979) Jusqu´à disposition ultérieure contraire continueront à être appliqués: le règlement du 30 janvier 1815 sur la police, la discipline et le service de la maréchaussée; sous-alinéa 2 (supprimé par la loi du 16 avril 1979) l´ordonnance du 29 janvier 1840 concernant l´organisation d´une force armée de police pour le Grand-Duché; le règlement du 19 juin 1843 concernant l´incorporation de la gendarmerie dons le contingent fédéral; le règlement de service du 1er novembre 1893 concernant le Corps des gendarmes et volontaires; le règlement de service pour la gendarmerie du 6 mai 1921 qui sera publié avec la présente loi; sous-alinéa 7 (supprimé par la loi du 16 avril 1979) Les officiers et sous-officiers de la gendarmerie et les gendarmes sont soumis aux dispositions du Code pénal militaire. C. POLICE Chapitre IX. Organisation de la police (Loi du 12 mai 1964)
+
+<a id="art_68"></a>
+
+### Art. 68.
+
+Le Corps de la police exerce les attributions qui lui sont dévolues par les lois et règlements en vigueur. Il relève du ministre de la Force Publique pour tout ce qui concerne l´organisation, l´administration, l´instruction et la discipline, du ministre de l´intérieur pour tout ce qui a rapport à la police administrative, et du ministre de la Justice pour tout ce qui est relatif à l´exercice de la police judiciaire.»
+
+<a id="art_69"></a>
+
+### Art. 69.
+
+La dénomination «Police locale étatisée» est remplacée dans les textes législatifs, réglementaires et administra- tifs actuellement en vigueur, par la dénomination «Police», laquelle sera seule employée à partir de la mise en vigueur de la présente loi. (Régl. g.-d. du 13 juin 1988)
+
+<a id="art_70"></a>
+
+### Art. 70.
+
+Le corps de la Police comprend le cadre de la Direction et des circonscriptions et celui des commissariats et postes de police. Ces cadres comprennent les emplois et fonctions ci-après: 1. Cadre de la Direction et des Commandements des circonscriptions: a) dans la carrière de l´officier un maximum de dix officiers, dont: un directeur de la Police qui porte le titre de colonel, un directeur adjoint de la Police qui porte le titre de lieutenant-colonel, deux lieutenants-colonels, trois majors, des capitaines, des lieutenants en premier, des lieutenants.» «b) dans la carrière du sous-officier de la Police: trois commissaires -contrôleurs, des sous-officiers de différents grades. Les fonctionnaires désignés sub b) sont rangés, au point de vue de leur ancienneté, dans le cadre des commissariats et postes de police prévu au paragraphe 2 ci-après, sans que leur nombre soit compris dans le cadre. Ils avancent suivant leur ancienneté telle qu´elle est fixée par les dispositions en vigueur simultanément avec leur collègue immédiatement inférieur en rang. 2. Cadre des commissariats et postes de police: a) dans la carrière de l´officier: un capitaine de police, commissaire central de la ville de Luxembourg qui peut avancer, hors cadre, au grade de major au moment où ses collègues de rang égal ou immédiatement inférieur du cadre des officiers de gendarmerie bénéficient d´une promotion.»            278 ((Règl. g.-d. du 13 juin 1988) «b) dans la carrière du sous-officier: quarante-huit commissaires, soixante-deux inspecteurs-chefs, cent huit inspecteurs, des brigadiers-chefs, des premiers brigadiers, des brigadiers.» «c) dans la carrière de l´agent de police: des premiers agents-chefs, des agents-chefs, des agents de 1re classe, des agents. Le nombre maximum des fonctionnaires de la carrière de l´agent de police est fixé à dix pour cent de l´effectif total des sous-officiers de police. Le nombre total des sous-officiers et des agents de police ne peut dépasser 449. 3. Le personnel civil du corps de la Police comprend, pour l´ensemble des cadres de la Direction et des commissariats et postes: a) dans la carrière moyenne de l´ingénieur technicien: 2 fonctionnaires, des ingénieurs inspecteurs principaux 1ers en rang, des ingénieurs inspecteurs principaux, des ingénieurs techniciens inspecteurs, des ingénieurs techniciens principaux, des ingénieurs techniciens. L´ingénieur technicien avance aux fonctions supérieures de sa carrière au moment où ces fonctions sont atteintes par un fonctionnaire de rang égal ou immédiatement inférieur de l´administration des Postes et Télécommunications. La détermi- nation de ce fonctionnaire se fait par le Ministre de la Fonction Publique. b) dans la carrière inférieure de l´artisan: des artisans dirigeants, des premiers artisans principaux, des artisans principaux, des premiers artisans, des artisans. c) des employés et ouvriers de l´Etat suivant les besoins du service et dans les limites des crédits budgétaires. Lorsqu´un emploi d´une fonction de promotion reste vacant, le nombre des emplois d´une fonction inférieure en grade peut être temporairement augmenté en conséquence. Le nombre total des emplois ci-dessus énumérés sous b) et c) ne peut dépasser 20.»
+
+<a id="art_71"></a>
+
+### Art. 71.
+
+Les officiers de police sont nommés et promus par le Grand-Duc qui les affecte aux emplois ou désaffecte. La nomination aux fonctions de directeur de la Police et de directeur adjoint de la Police se fait au choix. Les sous-officiers et agents de police sont nommés et promus par le Ministre de la Force Publique, l´avis du ou des bourg- mestres ayant été demandé pour ce qui concerne les membres des commissariats et postes de police. En cas de nécessité les officiers, les sous-officiers et agents peuvent être autorisés par le Ministre de la Force Publique à porter le titre d´un grade supérieur de leur carrière soit pour la durée d´une mission spéciale, soit pour une durée indéter- minée. Ces autorisations ne portent pas atteinte aux règles établies en matière d´avancement.»
+
+<a id="art_72"></a>
+
+### Art. 72.
+
+Les officiers de police sont recrutés parmi les officiers de gendarmerie, dans le cadre desquels ils conservent le droit d´ancienneté et d´avancement; toutefois leur nombre n´est pas compris dans le cadre prévu par l´article 59 de la présente loi.»
+
+<a id="art_73"></a>
+
+### Art. 73.
+
+Le directeur de la police est placé sous l´autorité immédiate du Ministre de la Force Publique sans préjudice des attributions du Ministre de l´Intérieur et du Ministre de la Justice, fixées par l´article 68, alinéa 2, de la présente loi. Les attributions du directeur de la police seront fixées par règlement d´administration publique.
+
+<a id="art_74"></a>
+
+### Art. 74.
+
+Les traitements et émoluments revenant aux officiers de police et aux membres de la direction de police au- dessous du grade d´officier sont à charge de l´Etat. Des officiers et sous-officiers peuvent être employés par ordre du Gouvernement dans un service de l´Etat autre que le service actif de la Police. Ils font partie du cadre prévu à l´article 70, sub 1) ci-dessus. Ils avancent hors cadre suivant leur ancienneté, telle qu´elle est fixée par les dispositions en vigueur, simultanément avec leur collègue immédiatement inférieur en rang.»
+
+<a id="art_75"></a>
+
+### Art. 75.
+
+Un règlement d´administration publique fixera les conditions de recrutement, d´instruction et d´avancement des membres du Corps de police et réglera tout ce qui concerne l´organisation et l´administration de ce Corps. (alinéa 2 supprimé par la loi du 17 novembre 1986) 279
+
+<a id="art_76"></a>
+
+### Art. 76.
+
+Avant d´entrer en fonctions les membres du corps de la Police prêtent serment; la formule du serment est celle prévue à l´article 66 de la présente loi. L´assermentation des officiers de police se fait par le Ministre de la Force Publique, celle des sous-officiers et agents de police par le directeur ou par le directeur adjoint de la Police.»
+
+<a id="art_77"></a>
+
+### Art. 77.
+
+alinéas 1 à 4 (supprimés par la loi du 16 avril 1979) Les membres du Corps de police sont soumis aux dispositions du Code pénal militaire. D. Chapitre X. Dispositions communes
+
+<a id="art_78"></a>
+
+### Art. 78.
+
+Les mesures tendant à coordonner et concentrer l´activité de la gendarmerie et de la police, en vue d´une colla- boration constante et très étroite dans le service, seront arrêtées par règlement d´administration publique.
+
+<a id="art_79"></a>
+
+### Art. 79.
+
+Les officiers, à l´exception toutefois de ceux classés au grade A13ter, A14, A14bis et A15, les sous-officiers de l´Armée proprement dite, de la Gendarmerie et de la Police, ainsi que les membres de la carrière du gendarme et de l´agent de police bénéficient d´une prime de grand risque non pensionnable de vingt points indiciaires.»
+
+<a id="art_80"></a>
+
+### Art. 80.
+
+Par dérogation à l´article 39 de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l´Etat, l´officier de l´Armée, de la Gendarmerie ou de la Police ne peut renoncer à ses fonctions que s´il compte au moins, à partir de la nomination définitive, une durée de service égale à 1,5 fois la durée de sa formation complète de candidat-offi- cier. L´abandon de l´exercice des fonctions avant l´expiration de ce délai entraîne: a) la démission d´office avec perte de l´emploi, du titre et du droit à la pension, sans préjudice aux droits découlant de l´assurance rétroactive prévue en matière de coordination des régimes de pension; b) le remboursement de la solde et du supplément de solde touchés durant la période de formation en tant qu´aspirant- officier. En cas de réadmission à un emploi public, les dispositions de l´article 7 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l´Etat, ne sont pas applicables.»
+
+<a id="art_81"></a>
+
+### Art. 81.
+
+Les effectifs de promotion des différentes carrières de l´Armée proprement dite, de la Gendarmerie et de la Police sont déterminés par règlement grand-ducal en application des dispositions de la loi du 28 mars 1986 portant harmo- nisation des conditions et modalités d´avancement dans les différentes carrières des administrations et services de l´Etat.»
+
+<a id="art_82"></a>
+
+### Art. 82.
+
+Les fonctionnaires de la carrière du gendarme et de l´agent de police peuvent accéder à la carrière de sous-offi- cier de gendarmerie ou de police. Les conditions et les modalités de changement de carrière prévu à l´alinéa qui précède sont déterminées par règlement grand-ducal, à prendre sur avis obligatoire du Conseil d´Etat.» E. Chapitre XI. Dispositions additionnelles et transitoires (Loi du 29 juin 1967, art. II) «Art. I. Les instituteurs actuellement en service à la force publique bénéficient de l´avancement automatique prévu par l´article 8, section III de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l´Etat après six ans de bons et loyaux services passés soit dans l´enseignement primaire dans une école communale, soit au service de l´Etat, dans le grade qu´ils occupent après six années.» (Loi du 29 juin 1967, art III) «Art. II. Pour autant qu´ils ne sont pas contraires aux dispositions de la présente loi, les règlements existants et basés sur l´ancienne législation concernant l´organisation militaire, restent en vigueur jusqu´à la publication des règlements prévus par la présente loi.» (Loi du 29 juin 1967, art. IV) «Art. III. Le Gouvernement pourra publier, sous la date de la présente loi, le texte coordonné de la législation concer- nant l´organisation militaire. A cette fin il pourra: 1) adapter l´ordre et le numérotage des chapitres et articles des dispositions à coordonner; 2) adapter les références contenues dans les dispositions à coordonner en vue de les mettre en concordance avec le numérotage nouveau. L´intitulé du texte coordonné sera le suivant: «Texte coordonné du de la loi concernant l´organisation militaire.» (Loi du 29 juin 1967, art V) «Art. IV. La présente loi entrera en vigueur le premier du mois qui suivra sa publication au Mémorial. Toutes les disposi- tions antérieures non conformes sont abrogées, sans préjudice des droits acquis des inscrits quant à l´application des dispo- sitions des articles 18 à 35 de la loi du 23 juillet 1952 concernant l´organisation militaire, telle qu´elle a été modifiée par la loi du 23 juillet 1963.     . . . . . 280 En ce qui concerne la computation des périodes de service militaire accomplies avant la mise en vigueur de la présente loi, les dispositions de l´article 34 paragraphe (1) de la loi du 23 juillet 1952 concernant l´organisation militaire telle qu´elle a été modifiée par la loi du 23 juillet 1963, restent applicables aux personnes y visées, sans préjudice de l´application des disposi- tions de l´article II 6 de la loi du 23 juillet 1963 précitée.» (Loi du 27 août 1986, art. IV, 19) Art. V. (1) Le traitement de base des fonctionnaires et employés publics, anciens volontaires des contingents luxem- bourgeois des forces des nations unies, est majoré d´un supplément de traitement égal à la valeur de l´avant-dernière augmentation biennale d´échelon prévue ou fixée par référence pour leur grade aux tableaux indiciaires de l´annexe C de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l´Etat. Les fonctionnaires et employés publics mis à la retraite bénéficient par application de la disposition qui précède d´une réévaluation du traitement ayant servi à la fixation de leur pension.» (Loi du 15 novembre 1972, art. II) «(2) Les Luxembourgeois qui se sont volontairement mis à la disposition des forces des nations unies et qui de ce fait se sont trouvés dans l´impossibilité d´être affiliés à un régime de pension luxembourgeois, peuvent demander que les périodes durant lesquelles ils se sont trouvés dans cette impossibilité soient prises en considération comme périodes d´assurance normales sous le premier régime de pension auquel ils étaient affiliés dans la suite. Sera compris dans ces périodes le temps durant lequel les personnes visées ont été passagèrement dans l´impossibilité de travailler après la fin de leur service volontaire par suite de blessures ou de maladies causées par faits de guerre. Les demandes visées à l´alinéa qui précède sont à introduire auprès de l´organisme de pension compétent dans le délai de deux ans à dater de l´entrée en vigueur de la présente loi. Les charges résultant des dispositions qui précèdent seront couvertes au moment de la constatation de périodes compu- tables par un rappel de cotisations à supporter par l´Etat. Ces cotisations seront calculées au taux de dix pour cent des rému- nérations établies conformément à l´article 17 de la loi du 25 février 1967 ayant pour objet diverses mesures en faveur de personnes devenues victimes d´actes illégaux de l´occupant. Les cotisations sont productives d´intérêts composés de quatre pour cent l´an à partir de l´expiration de l´année en cours de laquelle les périodes ci-dessus ont pris fin.» (Loi du 31 janvier 1974, art. II) «Art. VI. Les effectifs de promotion prévusaux paragraphes (1) et(2) de l´article 19, à l´exception du lieutenant-colonel (et des adjudants-majors)* peuvent être dépassés de trente pour cent en faveur des militaires en service à la date du 30 juin 1967. Les effectifs des grades de lieutenant et lieutenant en 1er et de sergent à sergent-chef sont réduits en conséquence.» (Loi du 15 novembre 1972, art. III) «En dehors des nombres entiers, les fractions comptent pour une unité.» (Loi du 27 juillet 1978) «Par la suite, les effectifs de promotion résultant de l´application des deux alinéas qui précèdent sont réduits progressive- ment, à partir du premier janvier 1977 en ce qui concerne les officiers et à partir du (premier janvier 1980)** en ce qui concerne les sous-officiers, par la suppression d´une unité sur deux vacances.» (Loi du 27 août 1986, art. III, 22) j)) «Pour autant que les nécessités administratives de coordination et de conception l´exigent et compte tenu des effectifs, des règlements grand-ducaux pris sur avis du Conseil d´Etat pourront créer des emplois de lieutenent-colonel et de major par dépassement des effectifs indiqués ci-dessus. Toutefois le nombre total des emplois de lieutenant-colonel et de major ne peut dépasser les plafonds tels qu´ils sont fixés ci-après pour un effectif total théorique de référence de cent unités dans la carrière: lieutenant-colonel: 30 emplois major: 40 emplois.» (Loi du 15 novembre 1972, art. IV) «Art. VII. Par dérogation à l´article 19, paragraphe (1), alinéa 1er, le nombre des officiers de carrière et volontaires de l´armée proprement dite,y compris un médecin et un médecin-dentiste, est porté temporairement à trente-trois. Ce nombre est ramené à trente à la suite des prochaines vacances de poste.» (Loi du 15 novembre 1972, art. V) «Art. VIII. L´officier ou le sous -officier maintenu à l´armée proprement dite, qui peut invoque r l´article 22 de la loi du 25 février 1967 ayant pour objet diverses mesures en faveur des personnes devenues victimes d´actes illégaux de l´occupant et qui, bien qu´ayant présenté la demande prévue à l´article 25 de la même loi avant le 1er décembre 1967, n´avait pas obtenu une décision à cette même date, peut obtenir une pension correspondant aux cinquante soixantièmes de son derniertraite- ment, à condition de demander sa mise à la retraite dans les trois mois à partir de l´entrée en vigueur de la présente loi.» (Loi du 15 novembre 1972, art. VI) «Art. IX. (1) Les artisans et les magasiniers appartenant, en raison de leurs études et examens, à la carrière de l´artisan, visés aux articles 19 (6) et 38 (4) ci-dessus, qui, au moment de l´entrée en vigueur de la présente loi, dont à leur actif plus de * termes supprimés par la loi du 27 juillet 1978 ** remplacé par «1er janvier 1981» par la loi du 22.12.1979 (budget) remplacé par «1er janvier 1982» par la loi du 23.12.1980 (budget) 281 trois années de service depuis leur engagement à l´armée, passées sous le régime du contrat collectif pour les ouvriers de l´Etat, pourront être nommés aux fonctions d´artisan et de premier artisan. A cet effet ils sont dispensés de l´examen- concours pour l´admission au stage, du stage et de l´examen d´admission définitive. (2) Les artisans de l´armée qui, au moment de l´entrée en vigueur de la présente loi, ne comptent pas encore trois années de service depuis leur engagement sous le régime du contrat collectif pour les ouvriers de l´Etat, pourront être admis au stage à la fonction d´artisan. A cet effet ils sont dispensés du concours d´admission au stage; ils bénéficient en outre, pour le temps de stage, d´une bonification égale à la période pendant laquelle ils ont été employés à plein temps par l´armée. (3) Pour les artisans- et magasiniers -fonctionnaires, en service à l´armée ou détachés, ainsi que pour les artisans et maga- siniers visés sub (1) ci-dessus, qui, au moment de l´entrée en vigueur de la présente loi, ont à leur actif plus de sept années de service à partir de leur engagement à l´armée, la nomination aux fonctions d´artisan principal et de premier artisan principal est subordonnée à la réussite à un examen de promotion à programme réduit, ont il ne sera organisé qu´une seule session. (4) Un règlement grand-ducal déterminera les matières et les modalités de l´examen de promotion à programme visé sub (3). Ce même règlement fixera les critères en vue de l´établissement du rang d´avancement du personnel tombant sous l´application des dispositions prévues sub (1) ou (3) ci-dessus. (5) Les artisans principaux en service à l´armée ou détachés, ayant acquis un rang d´avancement en application des dispo- sitions du règlement grand-ducal du 19 juin 1964 concernant les artisans et ouvriers civils de l´armée, conservent ce rang en vue de leur avancement ultérieur.» (Loi du 15 novembre 1972, art. VII) «Art. X. La dénomination «Force Armée» est remplacée dans les textes législatifs et réglementaires actuellement en vigueur, par la dénomination «Force Publique», laquelle sera seule employée à partir de la mise en vigueur de la présente loi.» (Loi du 11 janvier 1979, art. II) «Art. XI. Les ouvriers de l´Etat qui sont détenteurs d´un certificat artisanal d´aptitude professionnelle et qui à la date de l´entrée en vigueur de la présente loi ont au moins trois années de service, soit auprès de la gendarmerie, soit auprès de la police sont dispensés du concours d´avant-stage, du stage et de l´examen d´admission définitive et pourront être nommés aux fonctions d´artisan et de premier artisan. S´ils n´ont pas trois années de service à la date susdite, ils sont dispensés du concours d´avant-stage et pourront être admis au stage d´artisan. Dans ce cas, ils bénéficient, pour le temps du stage, d´une bonification égale au temps de service accompli.» (Loi du 17 juin 1987, art. IV) «Art. XII. a) Les 12 fonctionnaires du cadre des commissariats et postes de police détachés à la Direction, aux services communs de la Gendarmerie et de la Police, ou effectuant au Commissariat Central de la Ville de Luxembourg des missions entrant dans les attributions de la Direction, sont repris dans le cadre de la Direction et des commandements des circonscriptions de la Police le premier jour du mois qui suit la mise en vigueur de la présente loi. b) L´employé de l´Etat, engagé le 1er juillet 1978, auprès de la Gendarmerie pour y exercer la fonction d´ingénieur peut obtenir une nomination dans cette carrière. A cet effet il est dispensé de l´examen d´admission au stage, du stage et de l´examen de fin de stage. Les dispositions de l´article 7, paragraphe 6 de la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l´Etat ne lui sont pas applicables. En vue des promotions ultérieures, le rang de l´intéressé est fixé en tenant compte du temps passé au service de l´Etat à tâche complète, déduction faite d´une période de trois années. c) L´employé de l´Etat, détenteur du diplôme d´ingénieur-technicien décerné par l´Institut supérieur de technologie. engagé en 1986 auprès de la Direction de la Police peut être admis au stage de la carrière de l´ingénieur-technicien. A cet effet, il est dispensé de l´examen d´admission au stage. Il bénéficie d´une réduction de stage égale à la période passée au service de l´Etat à tâche complète.» (Loi du 17 juin 1987, art. V) «Art. XIII. Par dérogation à l´article 12, par. 3, de la loi du 28 mars 1986 portant harmonisation des conditions et moda- lités d´avancement dans les différentes carrières des administrations et services de l´Etat, les promotions aux fonctions de gendarme-chef et d´agent-chef classés au grade A3, et de premier gendarme chef et de premier agent chef classés au grade A4, se font pendant une période transitoire de quinze années à compter de l´entrée en vigueur de la présente loi respective- ment 9 et 15 années de grade à partir de la première nomination.» Imprimerie de la Cour Victor Buck, s. à r.l., Luxembourg réduit,

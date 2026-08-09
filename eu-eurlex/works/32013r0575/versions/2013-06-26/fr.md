@@ -1,6 +1,6 @@
 ---
 lex_id: 'eu-eurlex:32013r0575:2013-06-26'
-title: 'CRR — Regulation (EU) No 575/2013'
+title: 'Regulation (EU) No 575/2013'
 valid_from: '2013-06-26'
 valid_to: '2013-06-27'
 source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32013R0575'

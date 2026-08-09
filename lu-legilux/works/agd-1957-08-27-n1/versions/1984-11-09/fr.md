@@ -1,0 +1,843 @@
+---
+lex_id: 'lu-legilux:agd-1957-08-27-n1:1984-11-09'
+title: 'Version consolidée applicable au 01/11/1983 : Arrêté grand-ducal du 27 août 1957 approuvant le règlement sur les pensions des agents de la Société Nationale des Chemins de Fer Luxembourgeois.'
+valid_from: '1984-11-09'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/agd/1957/08/27/n1/consolide/19841109/fr'
+source_sha256: '011701a0ba7cf549c76ebc6c2d9bbcc36d382ab0743be4ea698240751d01919b'
+license: 'CC-BY-4.0'
+attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
+generator: 'pdf-memorial-lu/2 · lex derive'
+---
+<a id="document"></a>
+
+### Document
+
+Le présent texte coordonné comprend l´arrêté grand-ducal du 27 août 1957 approuvant le règlement sur
+les pensions des agents de la Société Nationale des Chemins de Fer luxembourgeois,
+tel qu´il a été modifié par:
+(Mém. A 1957, p. 1103 Pasin. 1957, p. 975)
+1. la loi du 16 décembre 1963 ayant pour objet la coordination des régimes de pension;
+(Mém. A 1963, p. 1050 Pasin. 191963, p. 460)
+2. le règlement grand-ducal du 19 mars 1968 portant modification du règlement sur les pensions des
+agents de la Société des Chemins de Fer luxembourgeois;
+(Mém. A 1968, p. 168 Pasin. 1968, p. 883)
+3. le règlement grand-ducal du 19 décembre 1968 portant modification du règlement sur les pensions des
+agents de la Société Nationale des Chemins de Fer luxembourgeois;
+(Mém. A 1968, p. 1289 Pasin. 1968, p. 860)
+4. la loi du 11 novembre 1970 sur les cessions et saisies des rémunérations de travail ainsi que des pensions
+et rentes;
+(Mém. A 1970, p. 1314 Pasin. 1970, p. 824)
+5. le règlement grand-ducal du 4 avril 1974 portant modification du règlement sur les pensions des agents
+de la Société Nationale des Chemins de Fer luxembourgeois;
+(Mém. A 1974, p. 483 Pasin. 1984, p. 450)
+6. le règlement grand-ducal du 10 mai 1974 portant modification du règlement sur les pensions des agents
+de la Société Nationale des Chemins de Fer luxembourgeois;
+(Mém. A 1974, p. 771 Pasin. 1974, p. 665)
+7. le règlement grand-ducal du 21 février 1976 portant modification du règlement sur les pensions des
+agents de la Société Nationale des Chemins de Fer luxembourgeois;
+(Mém. A 1976, p. 86 Pasin. 1976, p. 93)
+8. le règlement grand-ducal du 15 décembre 1978 portant modification du règlement sur les pensions des
+agents de la Société Nationale des Chemins de Fer luxembourgeois;
+(Mém. A 1978, p. 2491 Pasin. 1978, p. 1223)
+9. le règlement grand-ducal du 26 novembre 1979 portant modification du règlement sur les pensions des
+agents de la Société Nationale des Chemins de Fer luxembourgeois;
+(Mém. A 1979, p. 1764 Pasin. 1979, p. 1640)
+10. le règlement grand-ducal du 25 octobre 1984 portant modification du règlement sur les pensions des
+agents de la Société Nationale des Chemins de Fer luxembourgeois.
+(Mém. A 1984, p. 1572)
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+327
+Texte coordonné
+de l´arrêté grand-ducal modifié du 27 août 1957 approuvant le règlement sur les pensions des
+agents de la Société Nationale des Chemins de Fer luxembourgeois.
+Art. Ier. Est approuvé le règlement sur les pensions des agents de la Société Nationale des Chemins de Fer
+luxembourgeois, règlement dont la teneur suit:
+Titre Ier. Pensions des agents
+Section 1re. Droit à la pension et limite d´âge
+(Régl. g.-d. du 10 mai 1974)
+« Article 1er.
+I. A droit à la pension l´agent tombant sous les dispositions du statut du personnel de la Société Nationale
+des Chemins de Fer luxembourgeois et de son annexe:
+1. mis d´office à la retraite pour cause de limite d´âge. Celle-ci est fixée à 65 ans. Toutefois elle est fixée à 60
+ans pour les agents ayant accompli au réseau au moins 15 années de service de conduite sur rail ou sur
+route;
+2. admis à faire valoir ses droits à la retraite:
+a) après 30 années de service au réseau, s´il a 60 ans d´âge;
+après 25 années de service au réseau, s´il a 55 ans d´âge et s´il appartient à la catégorie du personnel
+pour laquelle la limite d´âge obligatoire est fixée à 60 ans;
+b) après 10 années de service au réseau, si, ayant eu un traitement d´attente, son traitement est venu à
+cesser après deux années de jouissance; »
+(Règl. g.-d. du 21 février 1976)
+« c) après une année de service au réseau et sans condition d´âge, si, par suite d´inaptitude physique, il
+est reconnu hors d´état de continuer ses fonctions ou de les reprendre; »
+(Règl. g.-d. du 10 mai 1974)
+« d) sans condition d´âge ni de durée de service si, par suite de blessures reçues ou d´accidents survenus
+dans l´exercice ou à l´occasion de l´exercice de ses fonctions, soit par un acte de dévouement dans
+un intérêt public, soit en exposant ses jours pour sauver une vie humaine, il est reconnu hors d´état
+de continuer ses fonctions ou de les reprendre ou d´occuper un autre emploi répondant à ses
+aptitudes.
+Dans les cas visés sub c) et d) le droit à pension n´est accordé que si la réalité des causes d´invalidité
+a été constatée par la commission spéciale prévue à l´article 25.
+e) s´il quitte le service volontairement après plus de 15 années de service. La jouissance de la pension
+est différée jusqu´à l´âge de 65 ans. Elle est différée jusqu´à l´âge de 60 ans pour les agents ayant
+accompli au réseau au moins 15 années de service de conduite sur rail ou sur route. Toutefois, si
+l´incapacité de travail des intéressés est totale, ils auront droit à la pension différée déjà à l´âge de 60
+ans, s´il s´agit d´agents de la première catégorie, ou à l´âge de 55 ans, s´il s´agit d´agents de la
+deuxième catégorie. En cas de décès la pension de survie sera payée à partir du mois qui suit le
+décès de l´intéressé.
+L´ayant droit à pension différée peut opter pour l´application des dispositions concernant
+l´assurance rétroactive prévues par la législation ayant pour objet la coordination des régimes de
+pension dans un délai et suivant les modalités qui sont applicables aux fonctionnaires de l´Etat.
+Dans les cas visés sub e) les dispositions de l´article 11, alinéas 1er et 2 sont applicables, même si
+l´entrée en jouissance de la pension n´a pas encore eu lieu.
+II. Les pensions mentionnées sous I, 1. et 2. a) sont considérées comme pensions de vieillesse.
+Il en est de même des pensions accordées aux agents pour raisons d´infirmités, si par ailleurs ils remplissent
+les conditions pour l´attribution d´une pension de vieillesse. »
+-
+-
+328
+Article 2.
+Sous réserve de l´application des dispositions de l´art. 1er, 2. e) du présent règlement l´agent encourt la
+déchéance du droit à la pension:
+1. s´il abandonne l´exercice de ses fonctions sans avoir été admis à faire valoir ses droits à la retraite;
+2. si, pour un acte commis intentionnellement, il est condamné à une peine privative de liberté de plus d´un
+an, ou à l´interdiction des droits mentionnés à l´art. 31 du Code pénal. Ces condamnations emportent
+aussi à l´égard des agents mis en disponibilité ou au traitement d´attente, la perte du traitement de
+disponibilité ou d´attente ainsi que du titre et des droits à la pension;
+3. s´il est révoqué par mesure disciplinaire pour un acte commis intentionnellement.
+Article 3 (implicitement abrogé par l´article 45 de la loi du 16 décembre 1953)1
+Article 4.
+En cas de condamnation à une peine criminelle du bénéficiaire d´une pension, cette pension est réduite au
+montant minimum prévu à l´article 20-II du présent règlement.
+(Règl. g.-d. du 21 février 1976)
+« Le bénéficiaire d´une pension ou l´ayant droit à pension en encourt la déchéance, s´il perd la qualité de
+Luxembourgeois. S´il recouvre cette qualité, la pension ou le droit à pension sont rétablis. »
+Cette disposition n´est pas applicable à la femme de l´agent qui n´a pas acquis la nationalité luxembourgeoise
+conformément à la loi du 9 mars 1940, sauf dans le cas où elle en a été déclarée déchue.
+1 Les principes de l´article 3 abrogé ont été repris par les articles 15 et 16 de la loi du 16 décembre 1963:
+Art. 15. Tout fonctionnaire, agent ou employé qui, pour quelque motif que ce soit, quitte le service de l´Etat, d´un
+établissement public ou d´utilité publique ou des chemins de fer, sans avoir droit à pension ou à rachat en vertu des régimes
+afférents ou qui décède sans avoir accompli le stage d´affiliation, sera considéré comme ayant été assuré conformément à la
+législation de pension des employés privés, à condition qu´il n´ait pas été assuré effectivement du chef de ce service en vertu
+de ladite législation ou du Livre III du code des assurances sociales et que ce service n´entre pas en compte pour le calcul
+d´une pension sous un régime non contributif. Il en sera de même de tout ouvrier ou employé au service des mêmes
+employeurs qui n´était pas affilié à un régime de pension.
+Le présent article ne s´applique pas au remboursement de cotisations pour cessation prématurée de l´assurance.
+Art. 16. Les pensions servies par application de l´article qui précède sont liquidées et payées par la caisse de pension des
+employés privés, compte tenu des rémunérations correspondant aux services visés et des limites prévues pour la fixation
+des cotisations.
+Sauf en ce qui concerne la détermination du salaire de référence servant à la fixation du montant maximum des pensions,
+les limites prévues à l´alinéa qui précède ne seront pas applicables aux personnes qui ont quitté les fonctions en vertu
+desquelles elles étaient affiliées à un régime non contributif et qui n´exerceront pas dans la suite une autre profession
+comportant un droit à pension ou donnant lieu à assurance obligatoire auprès d´un régime contributif. Cette disposition ne
+s´applique pas aux personnes qui ont été démises de leurs fonctions par mesure disciplinaire.
+(Loi du 3 septembre 1972)
+« Les pensions liquidées conformément aux alinéas qui précèdent seront remboursées à la caisse de pension par les
+prédits employeurs en fonction des périodes passées par l´assuré à leur service sans paiement effectif de cotisations et dans la
+mesure où le remboursement n´est pas d´office à charge de l´Etat. »
+Les remboursements auront lieu à l´expiration de chaque exercice avec majoration de 2,5%.
+Les majorations dues pour une période déterminée en application des dispositions de l´article 15 peuvent être cumulées
+sans limitation avec celles résultant d´une affiliation à un régime contributif. Toutefois le montant total de la pension ne
+pourra dépasser le maximum de pension fixé en raison du plafond cotisable.
+_
+329
+Section II. Computation du temps de service.
+(Règl. g.-d. du 10 mai 1974)
+« Article 5.
+a) Comptent pour la pension pour la durée effective:
+1. Le temps passé au service d´un réseau quelconque du Grand-Duché en qualité d´agent du cadre
+permanent;
+2. Par mesure transitoire, le temps passé par les agents de l´ancien réseau Guillaume-Luxembourg sur
+l´ancien réseau d´Alsace et de Lorraine;
+3. Le temps passé au service d´un réseau quelconque du Grand-Duché en qualité de journalier,
+d´auxiliaire ou de temporaire;
+4. Le temps passé en l´une des qualités visées sous 1. et 3. au service de la Couronne, de la Chambre des
+Députés, de l´Etat, d´une Commune, d´un syndicat de communes, d´un établissement public ou à
+l´ancienne Compagnie des volontaires, ainsi que le temps computable en vertu de la législation qui règle
+le droit à pension auprès de ces organismes;
+5. Le temps pendant lequel l´agent était en jouissance d´un traitement d´attente;
+6. Les interruptions de service occasionnées ou provoquées pendant la guerre de 1940 à 1945 par des
+mesures de l´occupant;
+7. Le temps non-computable en vertu d´une autre disposition du présent règlement, couvert par des
+périodes d´assurances sous un ou plusieurs régimes de pension contributifs, pour autant que ce temps
+est situé avant le début de la pension de la Société et qu´il n´a pas donné lieu à prestation ou
+remboursement des cotisations, et à la condition que ce temps soit inférieur aux autres périodes
+computables par application du présent règlement; »
+(Règl. g.-d. du 25 octobre 1984)
+« 8. Le temps passé dans l´armée luxembourgeoise en qualité d´appelé ou de volontaire, conformément
+aux certificats y relatifs à délivrer par le ministre de la Force publique.
+La période de l´incapacité au travail résultant d´un accident subi ou d´une maladie grave contractée à
+l´occasion de l´accomplissement du service militaire dans les conditions ci-dessus est considérée
+comme temps de service au sens de la présente disposition. Les constatations relatives à l´incapacité au
+travail sont faites par la commission des pensions prévue par l´article 25 du présent règlement.
+Si la ou les périodes à mettre en compte conformément aux deux alinéas qui précèdent se terminent
+par une fraction de mois, celle-ci compte pour un mois entier. »
+(Règl. g.-d. du 10 mai 1974)
+« 9. »1 Le temps computable en vertu de lois autres que le présent règlement.
+Les modalités d´exécution des dispositions prévues sous 7. seront les mêmes que celles qui sont
+applicables aux fonctionnaires de l´Etat.
+La mise en compte des périodes énumérées sous 3., 4. et 7. a lieu sur la base d´une décision de
+validation qui sera prise par la Société après la nomination définitive de l´agent. En ce qui concerne les
+services qui n´ont pas été exercés à temps plein et à titre continu, la décision fixera la valeur du temps à
+mettre en compte du chef de ces services.
+Les dispositions qui précèdent ne sont pas applicables aux personnes bénéficiant du chef des services
+énumérés ci-devant d´une pension au moment de l´entrée en vigueur du présent règlement.
+b) Comptent pour la pension pour la durée double:
+1. Le temps passé au service actif dans une armée alliée pendant les guerres de 1914 à 1918 et de 1940 à
+1945;
+Numérotation introduite par régl. g.-d. du 25 octobre 1984
+_
+_
+-
+330
+2. Le temps passé au service actif dans les forces des Nations Unies par les membres de la Force Armée
+ayant contracté un engagement volontaire dans ces forces;
+c) Compte pour la pension pour la moitié de la durée effective:
+Le temps passé en suspension par mesure disciplinaire.
+d) Les services et périodes pris en considération pour le calcul de la pension conformément aux
+dispositions du présent article ne donnent plus lieu à prestation de la part d´un autre régime de
+pension. »
+(Règl. g.-d. du 10 mai 1974)
+« Article 6.
+Ne comptent pas pour la pension:
+1. Les interruptions de service;
+2. Les services qui ne sont conférés que sous la condition qu´ils ne donnent pas droit à pension;
+« 3. »1Les périodes de service énumérées à l´article 5,3., 4. et 7. si, par rapport à une fonction ou
+occupation analogue ou comparable et exercée à plein temps, elles ne représentent qu´un degré
+d´occupation inférieur à vingt pour cent.
+Les périodes non computables conformément à l´alinéa qui précède ne sont pas prises en
+considération pour l´application de l´article 15 de la loi du 16 décembre 1963 ayant pour objet la
+coordination des régimes de pension.
+Le temps visé à l´article 5, a), 7., ne peut pas être computé pour l´octroi d´une pension prévue à l´article
+1er, 2., e). »
+(Règl. g.-d. du 10 mai 1974)
+« Article 7.
+Le prétendant-droit à la pension qui est reconnu hors d´état de continuer ses fonctions et de les reprendre
+ultérieurement par suite de blessures reçues ou d´accidents graves survenus dans l´exercice ou à l´occasion de
+l´exercice de ses fonctions sans qu´on puisse les imputer à sa faute grave, a droit à une bonification de dix
+années de service. La même bonification est accordée si les blessures ou l´accident résultent d´un acte de
+dévouement accompli en dehors du service, dans un intérêt public ou dans le but de sauver une vie humaine.
+La bonification est de quinze années de service, si l´acte de dévouement a eu lieu dans l´exercice ou à
+l´occasion de l´exercice des fonctions ou si l´impossibilité de les continuer est le résultat d´une lutte à l´occasion
+de l´exercice du service.
+Les dispositions prévues aux alinéas précédents s´appliquent de même aux agents chargés par la Société
+d´une mission spéciale, soit à l´intérieur du pays, soit à l´étranger.
+Les constatations relatives aux bonifications à accorder sont faites par la commission prévue à l´article 25 du
+présent règlement; la décision de la commission indiquera également la bonification à accorder. »
+Article 8.
+Dans les états de service ne comptent que les années et les mois, chaque mois étant pris pour un douzième
+de l´année.
+Section III. Emoluments de base et fixation des pensions
+(Règl. g.-d. du 4 avril 1974)
+« Article 9.
+I. La pension est basée sur le dernier traitement dont l´ayant droit a joui au moment de la cessation de ses
+fonctions.
+Dans le traitement il faut comprendre l´allocation de famille effectivement touchée.
+Numérotation introduite par régl. g.-d. du 25 octobre 1984, qui a supprimé l´ancien chiffre 3.
+_
+1
+331
+II. Dans l´évaluation des traitements servant de base à la liquidation des pensions les primes pour service de
+nuit et pour service de dimanche sont comptées aux bénéficiaires ayant joui pendant trente années, soit
+de l´une, soit de l´autre de ces primes. Si les intéressés n´ont pas trente années de jouissance, le montant
+de la prime sera diminué d´un trentième pour chaque année de jouissance qui manquera pour parfaire ce
+nombre.
+Est encore considéré comme bénéficiaire, quant aux primes antérieurement touchées, l´agent qui a
+cessé de jouir de la prime avant la cessation de ses fonctions, lorsque l´interruption dans la jouissance de
+la prime est imputable à des raisons de santé ou d´âge dûment arrêtées ou à des nécessités de service
+reconnues par le Directeur.
+Pour le calcul de la pension des intéressés, les primes pour service de nuit et pour service de dimanche
+sont mises en compte pour la valeur moyenne des primes annuelles effectivement touchées par l´agent
+jusqu´au momant de la cessation des fonctions. Si le montant de la prime annuelle touchée en dernier
+lieu est supérieur à cette moyenne, il entrera en ligne de compte pour la fixation de la pension.
+Pour les cas où les primes annuelles effectivement touchées ne peuvent pas être déterminées, la valeur
+des primes annuelles à mettre en compte sera fixée forfaitairement par un règlement du réseau, la
+délégation centrale du personnel entendue.
+Les dispositions des quatre alinéas qui précèdent ne sont pas applicables aux bénéficiaires d´une pension
+échue avant le premier juillet 1963. Pour les bénéficiaires d´une pension échue après le trente juin 1963
+seules les primes de travail de nuit et de dimanche correspondant à des périodes postérieures au
+premier juillet 1963 sont prises en considération.
+III. Toute modification qu´un règlement d´administration publique futur apportera aux traitements et autres
+émoluments entrant en ligne de compte pour le calcul de la pension entraîne de plein droit la
+modification correspondante des pensions auxquelles ces rémunérations ont servi de base. »
+Article 10.
+I. La pension est fixée à 20/60mes du dernier traitement établi en conformité de l´article 9, elle s´accroît
+d´un soixantième de ces émoluments pour chaque année de service au-delà de dix.
+II. La pension ne pourra dépasser 50/60mes du traitement servant de base à la fixation de la pension.
+(Règl. g.-d. du 10 mai 1974)
+« III. L´agent mis à la retraite à la limite d´âge obligatoire, s´il a 30 années de service, a droit à une pension
+égale aux 50/60mes du dernier traitement S´il n´a pas 30 années de service, sa pension sera diminuée
+d´un trentième pour chaque année de service qui manquera pour parfaire ce nombre. Toutefois,
+l´agent bénéficiera de la formule la plus avantageuse.
+IV. A également droit à la pension correspondant aux 50/60mes du dernier traitement, l´agent qui
+compte au moins 35 années de service et qui a atteint ou dépassé l´âge de 60 ans.
+A encore droit à la pension correspondant aux 50/60mes du dernier traitement, l´agent qui a atteint
+ou dépassé l´âge de 60 ans, si les années de service et d´âge cumulées atteignent au moins le nombre
+de quatre-vingt-quinze. »
+(Règl. g.-d. du 21 février 1976)
+« La même pension est due en cas de mise à la retraite pour cause d´invalidité dûment reconnue ou en
+cas de décès survenu avant l´âge de 60 ans, si les années d´âge et de service cumulées atteignent au
+moins le nombre de 95 ans. »
+V. La pension revenant à l´agent remplissant les conditions prévues à l´article 1er, 2. d) est fixée comme
+suit:
+1. pour le cas de cécité ou d´amputation de deux membres ou de l´existence d´un état d´impotence
+tel que l´agent ne peut subsister sans l´assistance et les soins d´autrui, pendant la durée de cet état,
+au traitement entier dont l´intéressé a joui au moment de l´ouverture du droit à la pension;
+332
+2. pour le cas d´amputation d´un membre ou de la perte absolue de l´usage d´un membre, aux deux
+tiers dudit traitement, pourvu que l´intéressé n´ait pas droit à une pension plus élevée en raison de
+ses états de service, majorés, le cas échéant, d´une des bonifications prévues à l´article 7.
+VI. Les pensions établies en conformité des dispositions de l´article 7 ne pourront être inférieures au
+minimum de respectivement 30/60mes et 35/60mes du dernier traitement suivant que la bonification
+est de 10 ou de 15 années.
+(Régl. g.-d. du 10 mai 1974)
+« Article 11.
+La rentrée au service du réseau d´un bénéficiaire de pension n´a aucun effet sur la pension acquise par ses
+services antérieurs, lorsque le nouveau service n´excède pas un an.
+Si le nouveau service excède un an, l´ancienne pension sera revisée pour la totalité des années de service sur
+la base, soit du traitement pris en compte pour la fixation de l´ancienne pension, soit du traitement nouveau, si
+celui-ci est supérieur.
+Les dispositions qui précèdent sont pareillement applicables en cas d´entrée au service de la Société en
+qualité d´agent d´un bénéficiaire de pension d´un autre régime de pension non contributif, à la condition que
+cette pension corresponde à une occupation de plein emploi.
+La pension du retraité peut se cumuler avec les émoluments d´un emploi rémunéré par la Société et les
+organismes énumérés à l´article 5, a) 4. dans les limites, soit du dernier traitement, soit des émoluments
+afférents au nouvel emploi, si cette rémunération excède ce traitement. »
+Article 12.
+(Règl. g.-d. du 21 février 1976)
+« I. Une bonification de 5 années sera accordée lors de leur mise à la retraite aux agents pour lesquels la
+limite d´âge obligatoire est fixée à 60 ans et qui peuvent faire état d´au moins 55 ans d´âge et de 25
+années de service au sens de l´article 5 du présent règlement. »
+(Régl. g.-d. du 19 mars 1968)
+« L´agent qui, après 15 années de service au moins dans un emploi de la catégorie d´agents pour
+laquelle la limite d´âge obligatoire est fixée à 60 ans, passe dans un emploi de la catégorie pour laquelle
+cette limite est fixée à 65 ans, a le droit d´opter pour le régime de pension de la première ou de la
+deuxième catégorie. S´il opte pour la deuxième catégorie, il perd la bonification prévue par le présent
+article.
+Le droit d´option doit être exercé au moment du changement d´emploi.
+II. Une bonification de respectivement 3 et 5 années est accordée aux agents ayant au moins 20 ou 25
+années de service effectives dans une équipe de manoeuvre (« Rangierdienst »). »
+Titre II. Pensions des veuves et orphelins
+Section 1er. Pension de la veuve
+Article 13.
+(Régl. g.-d. du 21 février 1976)
+« I. a) La veuve d´un agent a droit à une pension égale à la part fondamentale et aux deux tiers du reste
+de la pension à laquelle la mari aurait eu droit ou qu´il avait obtenue, sans que le montant payable
+de la pension puisse dépasser « 94,80 »1 points indiciaires, augmentés de trois points indiciaires
+pour chaque enfant bénéficiaire d´une pension d´orphelin. »
+(Règl. g.-d. du 26 novembre 1979)
+1Le règl. g.-d. du 16 avril 1979 (Mém. A 1979, p. 651) a augmenté le plafond limite de 92,05 à 94,80 points indiciaires.
+-
+-
+_
+333
+« Lorsque le plafond-limite susvisé est modifié par application des mesures d´exécution prises
+conformément à la loi du 26 mai 1954 réglant les pensions des fonctionnaires de l´Etat, telle
+qu´elle a été validée et modifiée dans la suite, le nouveau plafond-limite est également applicable
+aux bénéficiaires de pensions CFL. »
+(Règl. g.-d. du 21 février 1976)
+« b) La pension de veuve, qui n´est pas calculée en application de ce qui précède, est égale aux deux
+tiers de la part fondamentale et à soixante pour cent du reste de la pension à laquelle le mari
+aurait eu droit ou qu´il avait obtenue.
+c) Par part fondamentale dans le sens des dispositions qui précèdent il faut entendre les dix
+soixantièmes du traitement qui a servi de base au calcul de la pension.
+II. Le droit à la pension de veuve est subordonné à la condition:
+a) si le mari est décédé après une année de service, que le mariage ait eu lieu un an au moins avant le
+décès de l´agent;
+« b) si le mari est décédé après une période de service même inférieure à une année, qu´un ou
+plusieurs enfants aient été légitimés par le mariage ou soient nés viables dans le mariage de l´agent
+ou qu´un enfant naisse viable moins de trois cents jours après le décès de l´agent; si lors du décès
+de l´agent sa veuve est reconnue enceinte, la pension sera versée dès la cessation du droit au
+traitement; les mensualités versées ne seront en aucun cas sujettes à restitution; »
+(Règl. g.-d. du 19 mars 1968)
+« c) si le mari était en jouissance d´une pension, que le mariage ait été contracté un an au moins avant
+la mise à la retraite du mari ou qu´un ou plusieurs enfants actuellement vivants soient issus du
+mariage antérieur à la mise à la retraite;
+d) si le mari a perdu la vie pour une des causes accidentelles prévues à l´article 1er, 2. d), que le
+mariage soit antérieur à l´événement qui a amené la mort du mari; »
+(Règl. g.-d. du 26 novembre 1979)
+Par dérogation aux conditions d´allocation qui précèdent la veuve, qui est moins de 15 années plus jeune
+que son mari, a également droit à la pension si à la date du décès de ce dernier le mariage antérieur ou
+postérieur à la cessation des fonctions a duré au moins 10 années ou si à la date du décès du mari il existe
+un enfant né ou conçu du mariage ou légitimé par le mariage. »
+III. (supprimé par le Règlement grand-ducal du 19 décembre 1968)
+(Règl. g.-d. du 15 décembre 1978)
+« IV En cas de divorce d´un agent, l´épouse divorcée bénéficie du droit à la pension de veuve à partir de
+la date de décès de son époux divorcé, à condition de ne pas avoir contracté elle-même un
+nouveau mariage avant ce décès.
+La pension de l´épouse divorcée sera égale à la pension qu´elle aurait obtenue, si le décès était
+intervenu la veille du divorce.
+En cas de concours de femmes divorcées entre elles, la pension de veuve, calculée comme si le
+décès était intervenu la veille du dernier divorce, est partagée entre les femmes divorcées au
+prorata de la durée de leurs mariages, sans que la pension de la première femme divorcée puisse
+dépasser celle qui lui revient en vertu de la disposition qui précède.
+En cas de concours d´une ou de plusieurs femmes divorcées avec une veuve, la pension de veuve,
+calculée sur la totalité des services du mari, est partagée entre la veuve et la ou les femmes
+divorcées au prorata de la durée totale des années de mariage, sans que la pension des femmes
+divorcées puisse dépasser celle qui lui revient en vertu de l´alinéa 2 qui précède; le cas échéant, la
+part excédentaire sera payée à la veuve.
+En cas de décès de l´une des bénéficiaires, la pension de l´autre sera recalculée en conformité des
+dispositions du présent article. »
+334
+V. (supprimé par le règlement grand-ducal du 15 décembre 1978)
+VI. Si la femme de l´agent ou sa veuve encourt une condamnation à une peine criminelle, ses droits à
+pension sont suspendus pendant la durée de la détention.
+(Règl. g.-d. du 10 mai 1974)
+« VII. a) On droit à une pension de survie la mère, la belle-mère, la fille, la fille adoptée avant l´âge de seize
+ans, la belle-fille et la soeur de l´agent décédé sans laisser de veuve ayant droit à la pension, à
+condition:
+1) qu´elles aient fait le ménage de l´agent et vécu avec lui en communauté domestique jusqu´à son
+décès pendant au moins cinq années consécutives, dont une année au moins avant la mise à la
+retraite, et
+2) que pendant cette période de cinq années, elles aient été célibataires, veuves, divorcées ou
+séparées de corps et que l´agent ait contribué pour une part prépondérante à leur entretien.
+Si les conditions visées ci-dessus sous 1) viennent à défaillir moins de cinq années avant le
+décès de l´agent pour cause de maladie grave ou d´infirmité, soit de l´agent, soit de la personne
+prétendant à la pension, le droit à la pension est maintenu si lesdites conditions étaient
+remplies antérieurement.
+Lorsqu´il y a plusieurs ayants droit en vertu des dispositions ci-dessus, les arrérages se
+partagent par tête.
+Ces dispositions sont pareillement applicables en cas de décès d´une femme agent non mariée.
+Au sens du présent article on entend par belle-mère tant la mère du conjoint que l´épouse du
+père de l´agent homme ou femme, par belle-fille tant la bru de l´agent que la fille née d´un
+mariage antérieur du conjoint. »
+(Règl. g.-d. du 15 décembre 1978)
+« b) La pension de survie sera calculée par application des dispositions de l´article 13.1. ».
+(Règl. g.-d. du 10 mai 1974)
+« En cas de cumul de la pension de survie avec d´autres pensions ou rentes, il sera procédé de la
+façon suivante: Si le total des pensions ou rentes est inférieur au montant de la pension de survie,
+il ne sera dû que la différence entre la pension de survie et le total des autres pensions ou rentes;
+si le total des autres pensions ou rentes est supérieur au montant de la pension de survie, il ne
+sera rien dû.
+Les conditions dans lesquelles se fera la revision périodique des pensions de survie sont les
+mêmes que celles qui sont applicables aux fonctionnaires de l´Etat.
+c) La jouissance de la pension est différée jusqu´à l´âge de cinquante ans, à moins d´incapacité de
+travail de l´ayant droit constatée par la commission spéciale prévue à l´article 25 du présent
+règlement.
+Les pensions ne sont accordées que si les intéressées en font la demande et prennent cours à
+partir du premier jour du mois qui suit celui de la présentation de la demande.
+d) En cas de mariage ou de remariage de la bénéficiaire, la pension de survie est supprimée.
+e) Si la bénéficiaire d´une pension de survie encourt une condamnation à une peine criminelle, la
+pension est suspendue pendant la durée de la détention. »
+f) (abrogé par règlement grand-ducal du 15 décembre 1978)
+(Règl. g.-d. du 15 décembre 1978)
+« g) Les constatations relatives aux pensions et rentes mentionnées sous b) seront faites par une
+commission nommée par le Ministre qui a les pensions des fonctionnaires de l´Etat dans ses
+attributions. »
+Sur avis de cette commission, le Ministre fixe le montant déductible à titre de revenus personnels.
+Article 14
+La pension de la veuve qui se remarie est suspendue pour la moitié pendant la durée du deuxième mariage.
+(Règl. g.-d. du 19 mars 1968)
+335
+« Lorsqu´au décès du second mari la veuve a droit à une pension du chef de celui-ci, le cumul des deux
+pensions est régi par l´article 29 de la loi du 16 décembre 1963 ayant pour objet la coordination des régimes
+de pension. Dans les où, en vertu de l´article 42 de la loi du 16 décembre 1963, l´article 29 de cette loi n´est
+pas applicable, le cumul des deux pensions est autorisé, mais la première pension reste réduite de moitié. »
+Article 15.
+En cas de décès d´un titulaire d´une pension à jouissance différée avant l´entrée en jouissance de cette
+pension, le droit de réversibilité s´ouvre immédiatement en faveur de la veuve, si le mariage a eu lieu un an au
+moins avant que le mari ait quitté le service.
+Ce droit de réversibilité s´ouvre en même temps en faveur d´orphelins bénéficiaires d´une pension dans les
+conditions énoncées à l´article 16 ci-après.
+Section II. - Pensions des orphelins.
+(Règl. g.-d. du 10 mai 1974)
+« Article 16.
+I. L´enfant légitime, l´enfant naturel reconnu et l´enfant adoptif de l´agent décédé ainsi que l´enfant du
+conjoint ayant été à charge du défunt ont droit à une pension d´orphelin jusqu´à l´âge de dix-huit ans
+accomplis.
+La pension d´orphelin est due au-delà de l´âge de dix-huit ans, si, à cet âge, l´enfant de l´agent était atteint
+d´une maladie incurable ou d´une infirmité le rendant inapte à tout travail rémunéré, et aussi longtemps
+que cet état perdure. Le droit à pension au-delà de l´âge de dix-huit ans n´est accordé que si la réalité de
+ces causes a été constatée par la commission spéciale prévu à l´article 25 du présent règlement.
+La pension d´orphelin est continuée jusqu´à l´âge de vingt-cinq ans révolus au cas où l´orphelin s´adonne à
+des études universitaires, secondaires, moyennes ou professionnelles.
+II. Sauf en ce qui concerne les orphelins en études visés à l´alinéa qui précède, le droit à pension d´orphelins
+cesse, lorsque l´orphelin contracte mariage.
+Les enfants de la femme agent, décédée en jouissance d´une pension ou en possession des droits à une
+pension au titre du présent règlement, ont également droit, en cas de prédécès du père non agent, à une
+pension d´orphelin.
+La pension de l´orphelin condamné à une peine criminelle est suspendue pendant la durée de la
+détention. »
+(Règl. g.-d. du 19 mars 1968)
+« Article 17
+La pension des orphelins est fixée comme suit:
+a) s´il existe une veuve ayant droit à la pension:
+pour un enfant à 20%
+pour deux enfants à 30%
+pour trois enfants à 40%
+pour quatre enfants et plus à 50% de la pension normale du père;
+b) s´il n´existe pas de veuve ou si la veuve est inhabile à recueillir une pension ou encore si les orphelins ont
+droit à une pension du chef de leur mère agent:
+pour un enfant à 33 1/3%
+pour deux enfants à 50%
+pour trois enfants à 75%
+pour quatre enfants et plus à 100% de la pension normale du père
+Dans les deux hypothèses visées sub a) et b), la pension allouée globalement à plusieurs enfants leur est
+répartie par portions égales et par tête, sans dixtinction de lits.
+S´il existe une veuve et si les enfants ou quelques-uns d´entre eux sont issue d´un mariage antérieur du père,
+la pension de ces orphelins est fixée suivant les taux prévus sub b) ci-dessus.
+336
+Les pensions de la veuve et des orphelins réunies ne peuvent dépasser dans aucun cas la pension normale du
+père. Au besoin, elles seront réduites proportionnellement dans cette limite.
+La même réduction proportionnelle s´opérera en cas de concours de la pension des orphelins avec la
+pension de survie conformément à l´article 13, VI, du présent règlement. »
+Section III. - Cas spéciaux de la pension de veuve et d´orphelins
+Article 18
+I. Les pensions conférées dans les cas prévus à l´article 10, V, sont réversibles, sauf application des taux
+normaux plus favorables:
+a) par 80% sur la veuve avec un ou plusieurs orphelins, y compris la pension revenant aux orphelins;
+b) par 60% sur la veuve seule ou sur un ou plusieurs seuls.
+II. Dans les cas visés à l´article 7, la pension de la veuve et des orphelins est fixée comme suit, sauf échéance
+d´un droit plus favorable:
+a) pour la veuve avec ou sans orphelins à 80% du traitement dont le défunt a joui au moment de son
+décès
+b) pour un orphelin seul à 40%, pour deux orphelins seuls à 60% et pour trois et plusieurs orphelins
+seuls à 80% de ce traitement.
+III. Si les enfants ou quelques-uns d´entre eux sont issus d´un mariage antérieur du père, la pension revenant
+à ces orphelins est prélevée sur la pension globale d´après les taux prévus pour le cas où il n´existe pas de
+veuve (article 17, b), sauf réversibilité en faveur de la veuve dans la mesure des extinctions.
+S´il n´existe pas de veuve ou si la veuve est inhabile à recueillir une pension, la pension allouée
+globalement à plusieurs enfants leur est répartie par portions égales et par tête, sans distinction de lits. »
+Article 19
+L´extinction de la pension de la veuve et l´extinction successive des parts d´orphelins ainsi que la revision
+consécutive n´ont d´effet qu´à partir du mois qui suit celui où la cause de l´extinction s´est produite.
+Titre III. - Dispositions diverses applicables à toutes espèces de pensions
+(Règl. g.-d. du 19 décembre 1968)
+« Section 1re . - Adaptation des pensions au coût de la vie, minimum de pension, indemnités pour charge
+d´enfants, secours et majoration de pension. »
+Article 20.
+I. Les pensions de retraite seront adaptées au coût de la vie suivant la formule applicable aux
+traitements d´activité.
+II. Les pensions des agents et celles de réversion de la veuve et des orphelins ne pourront être
+inférieures aux taux minima qui sont ou seront en vigueur pour les fonctionnaires et employés de
+l´Etat.
+Les dispositions de cet article ne sont applicables qu´aux agents dont les emplois figurent au tableau
+de classification et des rémunérations du statut du personnel de la Société Nationale des Chemins de
+Fer luxembourgeois ou qui seront assimilés par la direction du réseau, la délégation centrale du
+personnel entendue et d´accord avec le Gouvernement, à un des grades dudit tableau.
+Elles ne s´appliquent pas aux pensions dont sont bénéficiaires les veuves remariées. Elles ne
+s´appliquent pas non plus aux veuves bénéficiaires d´une double pension, si ces deux pensions réunies
+dépassent le taux minimum fixé ci-dessus, ni aux bénéficiaires d´une pension à jouissance différée.
+III. En dehors de leur pension, les agents retraités, leurs veuves et orphelins toucheront les allocations
+pour charge d´enfants consenties aux agents en activité.
+Règl. g.-d. du 19 décembre 1968)
+337
+« IV. Lorsqu´en cas de.décès d´un agent en activité de service ou en retraite, les conditions requises pour
+l´octroi d´une pension ne sont pas remplies, un secours pourra être accordé aux survivants chaque
+fois que pour des considérations sociales, familiales ou sanitaires la nécessité en est établie.
+La décision relative à l´allocation et à la fixation du secours est prise par le Gouvernement en Conseil,
+sur proposition du ministre ayant dans ses attributions le service des pensions sur avis préalable de la
+commission du conseil d´Etat prévue à l´article 27 de la loi du 26 mai 1954 réglant les pensions des
+fonctionnaires de l´Etat, telle qu´elle a été validée et modifiée dans la suite. Cette décision est sujette à
+revision en cas de changement de la situation du bénéficiaire. En aucun cas, le montant du secours ne
+pourra être supérieur à la pension de survie correspondant au temps et au dernier traitement acquis
+par l´agent au moment de la cessation des fonctions.
+V. Lorsqu´un agent est mis à la retraite avant l´âge de cinquante-cinq ans pour cause d´invalidité dûment
+constatée dans les conditions prévues à l´article 25, alinéa 3 et suivants, ou s´il décède avant cet âge,
+les pensions échues en application du présent règlement sont majorées conformément aux
+dispositions ci-après:
+1. Une majoration de pension égale à 1/60e du traitement de base minimum de 100 points
+indiciaires et de l´allocation du chef de famille y relative est payée à l´agent visé à l´alinéa qui
+précède pour chaque année se situant entre la date de la cessation des fonctions et la date où il
+aurait atteint l´âge de trente-cinq ans. Pour la période se situant après l´âge de trente-cinq ans cette
+majoration est augmentée de vingt pour cent.
+2. La majoration de pension à laquelle l´agent aurait eu droit ou qu´il avait obtenue conformément
+aux dispositions qui precèdent est payée à la veuve dans les conditions et aux taux fixés par les
+articles 13 et 14 et aux orphelins dans les conditions et aux taux fixés par les articles 16 et 17.
+Dans le cas de la veuve, cette majoration sera portée en compte pour autant que la veuve remplit
+au moins l´une des conditions ci-après:
+1. qu´elle ait accompli l´âge de quarante-cinq ans;
+2. qu´elle soit atteinte d´une incapacité de travail de cinquante pour cent au moins, constatée par
+la commission prévue par l´article 25;
+3. qu´elle élève ou ait élevé un enfant. »
+(Règl. g.-d. du 10 mai 1974)
+« 3. Les majorations de pension ne sont pas dues en cas d´arrêt de la pension.
+Le paiement des majorations autres que celles revenant à des titulaires d´une pension d´orphelin
+est suspendu.
+a) si le bénéficiaire de la pension exerce une activité professionnelle;
+b) si le conjoint du bénéficiaire exerce une activité professionnelle ou qu´il touche une pension;
+c) pour la veuve, si elle se remarie.
+Dans les cas sous a) et b) il n´y a pas de suspension, si les revenus de l´activité professionnelle ou
+de la pension restent inférieurs au salaire social minimum. »
+(Règl. g.-d. du 19 décembre 1968)
+« 4. Lorsqu´un nouveau droit à pension est ouvert après le retrait d´une pension d´invalidité, les
+majorations de l´ancienne pension resteront dues pour la valeur correspondant aux périodes de
+jouissance de la pension d´invalidité, sans que toutefois la pension et la majoration réunies ne
+puissent dépasser le montant de la pension maximum.
+5. La majoration de pension peut être cumulée avec la pension jusqu´à concurrence du montant de
+pension résultant de l´application de l´article 10, II.
+6. Lorsque, par application de l´article 7, une bonification d´années de service est entrée dans le
+calcul de la pension, la majoration de pension est calculée en raison d´un âge de référence de
+cinquante-cinq ans abaissé par un nombre d´années égal au nombre des années bonifiées.
+338
+7. La majoration de pension est ajoutée à la pension pour déterminer le montant cumulable en cas
+de concours avec une rente-accident. »
+Section II. - Déchéance, droits de la femme et des orphelins dans le cas où l´agent est condamné, révoqué ou
+détenu, suspension de la pension.
+Article 21.
+Lorsque la déchéance des droits à la pension est encourue par l´application de l´article 2 du présent
+règlement, les droits à la pension pourront être rétablis par mesure de grâce et le seront en cas de
+réhabilitation du condamné.
+Dans le cas où l´agent condamné ou révoqué remplit les conditions prescrites pour l´ouverture du droit à la
+pension, la femme ou les enfants du condamné ou du révoqué jouiront des pensions qui leur reviendraient si le
+mari ou père était décédé.
+(Règl. g.-d. du 19 mars 1968).
+« Les droits des survivants sont également ouverts en cas d´absence de l´agent non poursuivi pour délit ou
+pour manquement à la discipline. Est réputé absent pour l´application de la présente disposition, l´agent qui a
+cessé de paraître au lieu de son domicile ou de sa résidence, et dont, depuis une année, on n´aura point de
+nouvelles. »
+Article 22.
+Tout pensionné détenu répressivement ou préventivement encourt la perte de sa pension pour la durée de
+cette détention. La moitié de la pension ainsi suspendue est servie, le cas échéant, à sa femme et à ses enfants.
+Si, toutefois, le pensionné est acquitté ou s´il obtient le bénéfice de la condamnation conditionnelle, la pension
+retenue lui sera restituée intégralement.
+Section III. Trimestre de faveur.
+Article 23.
+Dans le cas de mise à la retraite et dans le cas de décès d´un agent en activité, une somme égale au traitement
+de trois mois sera payée encore après la mise à la retraite ou le décès.
+(Règl. g.-d. du 21 février 1976).
+« Ce trimestre de faveur prend court, indépendamment de la mise à la retraite prévue aux articles 1er, I, 1°
+et 35, I, 1° du présent règlement grand-ducal, à partir du premier du mois qui suit celui pendant lequel l´agent a
+atteint la limite d´âge. »
+(Règl. g.-d. du 10 mai 1974).
+« Dans le cas de décès d´un bénéficiaire d´une pension, une somme égale à la pension de trois mois sera
+encore payée après le décès. »
+En cas de décès, le paiement du trimestre de faveur se fera au profit respectivement de la veuve, des enfants
+ou parents qui ont vécu en ménage commun avec le défunt et dont l´entretien était à sa charge.
+A défaut d´une veuve, d´enfants ou de parents remplissant ces conditions, le trimestre de faveur n´est pas dû.
+(Règl. g.-d. du 19 mars 1968).
+« Toutefois une indemnité ne pouvant dépasser 10.000 francs, valeur au nombre 100 de l´indice visé à
+l´article 11 de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l´Etat sera allouée à
+toute personne qui aura payé les frais de dernière maladie et d´enterrement. La spécification de ces frais et la
+procédure d´allocation feront l´objet d´un arrêté du Ministre des Transports.
+Au cas où l´indemnité payable serait plus élevée que le trimestre de faveur, les personnes visées au troisième
+alinéa du présent article auront droit à l´indemnité. »
+-
+339
+Section IV. - Délais de paiement de pensions.
+(Régl. g.-d. du 21 février 1976).
+Article 24.
+« Toute pension commence à courir à partir du jour de la cessation du trimestre de faveur ou, dans le cas où
+celui-ci n´est pas payé, à partir du jour de la cessation du traitement.
+La pension de reconversion ou de survie autre que celle qui suit un trimestre de faveur commence à courir à
+partir du jour de la cessation de la pension dont elle découle. »
+La pension suspendue reprend son cours à dater du 1er du mois qui suit celui où la cause de la cessation a
+pris fin.
+Section V. Procédure d´allocation des pensions.
+Article 25.
+(Régi. g.-d. du 10 mai 1974).
+« Toute pension est accordée par décision de la Société.
+L´allocation est faite d´office ou sur la demande de la partie intéressée.
+Lorsqu´il s´agit de pensions accordées conformément aux dispositions figurant sous c) et d) de l´article 1er, I,
+2°, du présent règlement, le directeur de la Société saisit la commission spéciale visée au présent article quand
+il le juge indiqué. Toutefois, lorsqu´au cours d´une période de douze mois un agent a été absent pour cause de
+maladie pendant six mois consécutifs ou non, le directeur est tenu de demander au president de cette
+commission de désigner un médecin pour examiner le malade. Si ce médecin estime que l´agent est atteint
+d´infirmités graves et permanentes qui le rendent inapte au service, le directeur devra traduire l´agent devant la
+commission spéciale. Il en sera de même si l´agent refuse de se laisser examiner par le médecin.
+Une décision de la Société détermine les pièces et documents à produire pour la justification des droits à la
+pension. Les extraits de l´état civil et toutes autres pièces officielles à produire en matière de pensions sont
+délivrés sur papier libre et sans frais.
+Aucune pension pour cause de blessures, accidents ou infirmités n´est accordée, si leur réalité n´a pas été
+constatée par la commission spéciale, à la majorité des voix. »
+Cette commission est composée de trois membres effectifs et de trois membres suppléants, dont deux de
+chaque catégorie à désigner par le Directeur et un de chaque catégorie par la délégation centrale du personnel.
+Le délégué du personnel devra être d´un grade au moins égal à celui de l´agent qui se présente devant la
+commission. Lorsque le membre élu par la délégation centrale du personnel est d´un grade inférieur, il sera
+remplacé par un membre à désigner par le Directeur, la délégation centrale du personnel entendue.
+Les membres ainsi que leurs suppléants sont désignés pour la durée d´une année.
+Le mandat peut être renouvelé. Ces fonctions sont gratuites. Il est adjoint à la commission, avec voix
+consultative, deux médecins admis à exercer l´art de guérir, désignés par le Directeur pour chaque réunion de
+la commission. Leurs honoraires, fixés par le Directeur et avancés par la Société, ne sont payés par les
+intéressés que lorsque leur demande de mise à la retraite pour infirmité est rejetée.
+Si les médecins sont divisés d´opinion ou bien si la demande en est faite par le réseau ou par l´agent à
+examiner, la commission peut appeler un troisième médecin, de préférence un spécialiste, tant pour constater
+l´existence des infirmités que leur origine au point de vue médical.
+La commission, sur cet avis, décidera, sauf recours aux tribunaux, si les infirmités ou l´accident qui
+entraînent la cessation des fonctions ont été occasionnés ou non par l´exercice ou à l´occasion de l´exercice de
+ces fonctions; sa décision sera motivée.
+Le procès-verbal de la commission indiquera pour chaque prétendant-droit à la pension l´opinion
+individuelle des médecins; si l´intéressé ne peut pas se présenter devant la commission, l´impossibilité sera
+constatée par un certificat motivé de deux médecins désignés par la commission.
+Article 26.
+La liquidation de la pension et du traitement d´attente est faite d´office ou sur la demande de la partie
+intéressée.
+-
+340
+Tout prétendant à la pension qui a laissé s´écouler plus d´une année à partir du jour de l´ouverture du droit,
+sans former sa demande ou sans justifier de ses titres, n´a droit à la jouissance de la pension qu´à dater du mois
+qui suit celui dans lequel sa demande est parvenue à la Société.
+Section VI. - Paiement des pensions.
+Article 27.
+Les pensions sont établies en francs entiers, les centimes étant négligés.
+Article 28.
+Les pensions sont payées par mois et d´avance.
+Section VII. Saisie ou retenue sur les pensions.
+Article 29.
+(abrogé par la loi du 11 novembre 1970).
+Section VIII. Cumul des pensions avec une rente
+(Règl. g.-d. du 19 mars 1968).
+« Article 30.
+I. Les rentes d´accident peuvent être cumulées avec une pension de retraite ou d´invalidité.
+Toutefois, jusqu´à l´âge de 65 ans, les rentes d´accident inférieures à 40% au total ne peuvent être
+cumulées avec une pension de retraite ou d´invalidité que jusqu´à concurrence du maximum du
+traitement relatif au grade dans lequel le blessé figure au moment de sa mise à la retraite ou, si au
+moment de sa mise à la retraite le blessé touche le maximum de ce traitement, jusqu´à concurrence dudit
+maximum augmenté du montant de la dernière biennale du même grade.
+L´excédent éventuel sera retenu sur la pension.
+II. La rente d´accident des survivants peut être cumulée avec une pension, pour la veuve, jusqu´à
+concurrence des 2/3 du traitement de référence servant de base au calcul de la pension et, pour chaque
+orphelin, jusqu´à concurrence de 1/3 du même traitement.
+Dans les cas visés à l´article 18, la rente d´accident de la veuve peut être cumulée avec la pension
+jusqu´aux 50/60mes du traitement de référence.
+L´ensemble des pensions et des rentes d´accident des survivants ne peut dépasser le montant entier du
+traitement de référence.
+L´excédent éventuel sera retenu sur la pension. »
+(Règl. g.-d. du 19 mars 1968).
+Article 31.
+Le cumul d´une pension de la Société Nationale des Chemins de Fer luxembourgeois avec une pension d´un
+régime, contributif ou non, autre que celui de la Société est régi par l´article 29 de la loi du 16 décembre 1963
+ayant pour objet la coordination des régimes de pension.
+Dans les cas où, en vertu de l´article 42 de la loi du 16 décembre 1963, l´article 29 de cette loi n´est pas
+applicable, le cumul est réglementé comme suit:
+I. Au cas où le bénéficiaire d´une pension de la Société Nationale des Chemins de Fer luxembourgeois
+aurait droit à une pension de la part d´un régime, contributif ou non, autre que celui de la Société du chef
+de services qui sont computables pour la pension conformément à l´article 5 du présent règlement, la
+pension servie par la Société sera réduite du montant de cette pension pour autant que le total de ces
+deux pensions dépasse les 50/60mes du dernier traitement.
+II. Le cumul d´une pension de réversion de la Société Nationale des Chemins de Fer luxembourgeois avec
+une pension d´un régime, contributif ou non, autre que celui de la Société est autorisé:
+pour la veuve sans enfants au-dessous de 18 ans, jusqu´à concurrence des 30/60mes du dernier
+traitement de l´agent;
+-
+-
+341
+pour la veuve avec un ou plusieurs enfants au-dessous de 18 ans, jusqu´à concurrence des 50/60mes du
+dernier traitement de l´agent;
+pour un ou plusieurs orphelins de père et de mère, jusqu´à concurrence des 30/60mes du dernier
+traitement de l´agent.
+L´excédent éventuel sera retenu sur la pension de réversion.
+Sont assimilés aux enfants au-dessous de 18 ans, les enfants visés à l´article 16,1, alinéas « 2 et 3 »1 »
+Section IX. - Revision des cas de mise à la retraite pour inaptitude physique.
+Article 32.
+Le pensionné admis à la retraite pour cause d´infirmité ou d´invalidité peut être obligé pendant les 10
+premières années qui suivent la mise à la retraite par la Société à rentrer en activité de service, si son état de
+santé se modifie de telle façon qu´il sera reconnu apte par la commission prévue à l´article 25 du présent
+règlement à reprendre ses anciennes fonctions ou des fonctions équivalentes au point de vue du rang et des
+émoluments. S´il refuse de se présenter devant la commission ou s´il refuse d´accepter l´emploi qui lui est
+offert, la pension lui sera retirée.
+S´il arrive au bénéficiaire d´une pension d´invalidité d´améliorer sa situation en se créant de nouvelles
+ressources dépassant le montant de son dernier traitement d´activité, la pension peut être suspendue, pour
+tant ou partie, par décision de la Société sur avis de la commission prévue à l´article 25 du présent règlement.
+Section X. Cas d´accidents provoqués par l´agent.
+Article 33.
+Toute pension peut être refusée à l´agent qui se sera intentionnellement causé des blessures ou qui aura subi
+des blessures à l´occasion d´un accident qu´il aura intentionnellement provoqué ainsi qu´à celui qui aura subi
+des blessures à l´occasion de la perpétration d´un crime ou d´un délit. Cette disposition s´applique également
+aux pensions de réversion.
+Titre IV. Dispositions additionnelles
+Article 34.
+Le présent règlement est applicable aux agents qui ont quitté le service des Chemins de Fer luxembourgeois
+sans avoir eu droit à une pension, à leurs ayants droit ainsi qu´à toutes les pensions accordées avant son entrée
+en vigueur.
+Les pensions calculées d´après les dispositions qui précèdent ne pourront être inférieures à celles servies au
+moment de la publication du présent arrêté grand-ducal.
+Titre V. Dispositions transitoires
+Article 35.
+(Règl. g.-d. du 19 mai 1974).
+« A l´égard des agents entrés au service du réseau avant la mise en vigueur de l´arrêté grand-ducal du 4
+février 1952, les dispositions figurant sous 1. et 2. a) de l´article 1er et sous III et IV de l´article 10 du présent
+règlement sont remplacées par les dispositions ci-après: »
+I. 1. mis d´office à la retraite pour cause de limite d´âge.
+Celle-ci est fixée à 63 ans.
+1Ainsi modifié en vertu du règl. g.-d. du 10 mai 1974.
+-
+-
+-
+342
+Toutefois elle est fixée à 58 ans pour les agents ayant accompli au réseau au moins quinze années
+de service de conduite sur rail ou sur route.
+2. admis à faire valoir ses droits à la retraite après 25 années de service au réseau comptant pour la
+pension:
+a) s´il a 55 ans d´âge;
+b) s´il a 50 ans d´âge et s´il appartient à la catégorie du personnel pour laquelle la limite d´âge
+obligatoire est fixée à 58 ans.
+(Règl. g.-d. du 21 février 1976).
+« II. 1. L´agent mis à la retraite à la limite d´âge obligatoire fixée par la disposition transitoire de l´article
+35, I, 1. du présent règlement, s´il a 30 années de service, a droit à une pension égale aux
+50/60mes du dernier traitement. S´il n´a pas 30 années de service, sa pension sera diminuée d´un
+trentième pour chaque année de service qui manquera pour parfaire ce nombre. Toutefois,
+l´agent bénéficiera de la formule la plus avantageuse.
+2. A également droit à la pension correspondant aux 50/60mes du dernier traitement l´agent qui
+compte au moins 35 années de service et qui a atteint ou dépassé l´âge de 60 ans, respectivement
+55 ans s´il s´agit d´un agent tombant sous la disposition transitoire de l´article 35, I, 1., alinéa 3,
+ci-dessus.
+3. L´agent qui a été mis à la reraite ou qui avait demandé sa mise à la retraite avant l´entrée en vigueur
+de l´arrêté grand-ducal du 27 août 1957 et qui n´a pas, soit 35 années de service, soit 60 ans
+d´âge, a droit à une pension correspondant aux 50/60mes du dernier traitement, si les années de
+service et d´âge cumulés atteignent au moins le nombre de quatre-vingt-quinze. »
+Article 36.
+A l´égard des agents ayant été admis au cadre permanent avant la mise en vigueur de l´arrêté grand-ducal du
+4 février 1952 portant modification du régime des pensions des agents des Chemins de Fer luxembourgeois et
+des agents du cadre permanent qui ont quitté le réseau postérieurement au 1er juin 1921, les dispositions
+faisant l´objet de l´article 1er 2. e) du présent règlement sont remplacées par les dispositions ci-après:
+(Règl. g.-d. du 10 mai 1974).
+« Tout agent quittant le service volontairement, a droit, s´il a plus de 15 années de service, à une pension de
+retraite dont la jouissance est différée jusqu´à l´âge de 50 ans pour les agents ayant accompli au réseau au moins
+15 années de service de conduite sur rail ou sur route et de 55 ans pour tous les autres agents. En cas de décès
+la pension de survie sera payée à partir du mois qui suit le décès de l´intéressé.
+L´ayant droit à pension différée peut opter pour l´application des dispositions concernant l´assurance
+rétroactive prévues par la législation ayant pour objet la coordination des régimes de pension dans un délai et
+suivant les modalités qui sont applicables aux fonctionnaires de l´Etat.
+Dans les cas visés ci-dessus les dispositions de l´article 11, alinéa 1er et 2 sont applicables, même si l´entrée
+en jouissance de la pension n´a pas encore eu lieu. »
+Article 37.
+(Règl. g.-d. du 21 février 1976).
+« Une bonification de 5 années sera accordée aux agents admis à la retraite à partir du 5 mars 1926 pour
+lesquels la limite d´âge obligatoire est fixée à 58 ans et qui comptent au moins 50 ans d´âge et 20 années de
+service au sens de l´article 5 du présent règlement. »
+L´agent qui, après quinze années de service au moins dans un emploi de la catégorie d´agents pour laquelle la
+limite d´âge obligatoire est fixée à 58 ans, passe dans un emploi de la catégorie pour laquelle cette limite est
+fixée à 63 ans, a le droit d´option pour le régime de pension de la première ou de la deuxième catégorie. S´il
+opte pour la deuxième catégorie, il perd la bonification prévue par la présente disposition transitoire.
+Le droit d´option doit être exercé au moment du changement d´emploi.
+343
+Article 38.
+Les pensions de base actuelles des agents mis à la retraite avant la mise en vigueur du statut du personnel des
+Chemins de Fer seront revisées suivant la méthode de la reconstitution de carrière appliquée aux agents mis à
+la retraite à partir du 1er juin 1921.
+Article 39.
+Le droit d´option des agents affiliés à une des deux caisses d´assurance et de retraite instituées par
+l´ex-réseau Prince Henri doit être exercé avant la limite d´âge fixée sous I.1. de la disposition transitoire de
+l´article 35 du présent règlement.
+Article 40.
+En cas de décès, dans les circonstances prévues à l´article 18 du présent règlement, d´un agent non affilié à
+l´assurance-accident, les pensions de réversion sont établies d´après les taux ci-après:
+a) pour la veuve sans enfants au-dessous de 18 ans,
+50% du dernier traitement de l´agent;
+b) pour la veuve avec enfants au-dessous de 18 ans,
+50% comme il est dit sub a) ci-dessus pour la veuve et la pension normale d´orphelins prévue à l´article
+17 pour les orphelins, sans que le cumul en puisse dépasser 100% du dernier traitement de l´agent;
+c) pour un ou plusieurs orphelins de père et de mère, 50% du dernier traitement de l´agent.
+Article 41.
+Les pensions des agents de l´ancien réseau Guillaume Luxembourg qui ont accompli une partie de leurs
+services sur le réseau d´Alsace et de Lorraine, sont réglées d´après la convention du 20 août 1949 passée entre
+les Gouvernements de la France et du Grand-Duché.
+Art II. Le présent règlement sortira ses effets à partir du 1er juin 1954.
+Toutes les dispositions contraires au présent arrêté sont abrogées.
+Art III. Notre Ministre des Finances et Notre Ministre des Transports sont chargés, chacun en ce qui le
+concerne, de l´exécution du présent arrêté qui sera publié au Mémorial.
+Imprimerie de la Cour Victor Buck, s. à r. I., Luxembourg
+_
+_
+_

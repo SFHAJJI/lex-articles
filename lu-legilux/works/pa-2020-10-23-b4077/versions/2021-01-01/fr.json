@@ -1,0 +1,43 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:pa-2020-10-23-b4077:2021-01-01",
+  "language": "fr",
+  "title": "Version consolidée applicable au 01/01/2021 : Notariat - Nomination.",
+  "valid_from": "2021-01-01",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/pa-2020-10-23-b4077/versions/2021-01-01/fr.xml",
+    "sha256": "2d0edbd960c4c32819e202655a269878560210085724b5e076866ffe41b8be45",
+    "source_uri": "https://legilux.public.lu/eli/etat/adm/pa/2020/10/23/b4077/consolide/20210101/fr"
+  },
+  "generator": {
+    "profile": "akn-lu-document/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "lu-legilux:pa-2020-10-23-b4077:2021-01-01#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Par arrêté grand-ducal du 23 novembre 2020, Maître Max WELBES, candidat-notaire, a été nommé notaire à Clervaux, avec effet au 1er janvier 2021.",
+      "text_sha256": "96109b94f57f7b74adb205365a0c409b855bae92b8f3f30a75edc78fe4eb101e",
+      "md_span": {
+        "start": 570,
+        "end": 714
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "publisher markup exposes no article or annex boundary; used the official AKN body as one document-level provision"
+  ]
+}

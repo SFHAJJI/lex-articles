@@ -1,6 +1,6 @@
 ---
 lex_id: 'eu-eurlex:32019r2088:2019-11-27'
-title: 'SFDR — Regulation (EU) 2019/2088'
+title: 'Regulation (EU) 2019/2088'
 valid_from: '2019-11-27'
 valid_to: '2020-07-11'
 source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019R2088'

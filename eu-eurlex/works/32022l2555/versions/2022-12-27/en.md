@@ -1,6 +1,6 @@
 ---
 lex_id: 'eu-eurlex:32022l2555:2022-12-27'
-title: 'NIS2 — Directive (EU) 2022/2555'
+title: 'Directive (EU) 2022/2555'
 valid_from: '2022-12-27'
 valid_to: 'open'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022L2555-20221227'

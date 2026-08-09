@@ -1,6 +1,6 @@
 ---
 lex_id: 'eu-eurlex:32024r2847:2024-11-20'
-title: 'Cyber Resilience Act — Regulation (EU) 2024/2847'
+title: 'Regulation (EU) 2024/2847'
 valid_from: '2024-11-20'
 valid_to: 'open'
 source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02024R2847-20241120'

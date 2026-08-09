@@ -1,6 +1,6 @@
 ---
 lex_id: 'eu-eurlex:32016r0679:2016-04-27'
-title: 'GDPR — Regulation (EU) 2016/679'
+title: 'Regulation (EU) 2016/679'
 valid_from: '2016-04-27'
 valid_to: '2016-05-03'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679'

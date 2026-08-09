@@ -1,6 +1,6 @@
 ---
 lex_id: 'eu-eurlex:32023r1114:2023-05-31'
-title: 'MiCA — Regulation (EU) 2023/1114'
+title: 'Regulation (EU) 2023/1114'
 valid_from: '2023-05-31'
 valid_to: '2023-06-08'
 source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R1114'

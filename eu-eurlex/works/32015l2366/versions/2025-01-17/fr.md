@@ -1,6 +1,6 @@
 ---
 lex_id: 'eu-eurlex:32015l2366:2025-01-17'
-title: 'PSD2 — Directive (EU) 2015/2366'
+title: 'Directive (EU) 2015/2366'
 valid_from: '2025-01-17'
 valid_to: 'open'
 source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02015L2366-20250117'

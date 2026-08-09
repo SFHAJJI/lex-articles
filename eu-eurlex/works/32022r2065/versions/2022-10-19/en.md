@@ -1,6 +1,6 @@
 ---
 lex_id: 'eu-eurlex:32022r2065:2022-10-19'
-title: 'DSA — Regulation (EU) 2022/2065'
+title: 'Regulation (EU) 2022/2065'
 valid_from: '2022-10-19'
 valid_to: '2022-10-26'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2065'

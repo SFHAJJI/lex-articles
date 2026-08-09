@@ -1,6 +1,6 @@
 ---
 lex_id: 'eu-eurlex:32023r2854:2023-12-13'
-title: 'Data Act — Regulation (EU) 2023/2854'
+title: 'Regulation (EU) 2023/2854'
 valid_from: '2023-12-13'
 valid_to: '2023-12-21'
 source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R2854'

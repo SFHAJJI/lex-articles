@@ -1,6 +1,6 @@
 ---
 lex_id: 'eu-eurlex:32014l0065:2025-01-17'
-title: 'MiFID II — Directive 2014/65/EU'
+title: 'Directive 2014/65/EU'
 valid_from: '2025-01-17'
 valid_to: '2026-06-05'
 source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02014L0065-20250117'

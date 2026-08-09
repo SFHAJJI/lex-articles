@@ -1,6 +1,6 @@
 ---
 lex_id: 'eu-eurlex:32018l2001:2023-11-20'
-title: 'RED II — Directive (EU) 2018/2001'
+title: 'Directive (EU) 2018/2001'
 valid_from: '2023-11-20'
 valid_to: '2024-06-05'
 source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02018L2001-20231120'

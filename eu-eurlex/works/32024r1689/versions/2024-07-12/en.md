@@ -1,6 +1,6 @@
 ---
 lex_id: 'eu-eurlex:32024r1689:2024-07-12'
-title: 'AI Act — Regulation (EU) 2024/1689'
+title: 'Regulation (EU) 2024/1689'
 valid_from: '2024-07-12'
 valid_to: '2026-07-26'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1689-20240712'

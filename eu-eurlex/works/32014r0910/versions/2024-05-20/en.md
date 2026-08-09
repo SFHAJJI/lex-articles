@@ -1,6 +1,6 @@
 ---
 lex_id: 'eu-eurlex:32014r0910:2024-05-20'
-title: 'eIDAS — Regulation (EU) No 910/2014'
+title: 'Regulation (EU) No 910/2014'
 valid_from: '2024-05-20'
 valid_to: '2024-10-17'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0910-20240520'

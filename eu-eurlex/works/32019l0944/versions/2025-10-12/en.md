@@ -1,6 +1,6 @@
 ---
 lex_id: 'eu-eurlex:32019l0944:2025-10-12'
-title: 'Electricity Market Directive — Directive (EU) 2019/944'
+title: 'Directive (EU) 2019/944'
 valid_from: '2025-10-12'
 valid_to: 'open'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019L0944-20251012'

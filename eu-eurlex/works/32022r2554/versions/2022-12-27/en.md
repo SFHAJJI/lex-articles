@@ -1,6 +1,6 @@
 ---
 lex_id: 'eu-eurlex:32022r2554:2022-12-27'
-title: 'DORA — Regulation (EU) 2022/2554'
+title: 'Regulation (EU) 2022/2554'
 valid_from: '2022-12-27'
 valid_to: 'open'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R2554-20221227'

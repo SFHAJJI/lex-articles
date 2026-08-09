@@ -1,0 +1,52 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:pa-2025-07-15-b2905:2025-07-15",
+  "language": "fr",
+  "title": "Version rectifiée applicable au 15/07/2025 : Pharmacie - Concession vacante.",
+  "valid_from": "2025-07-15",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/pa-2025-07-15-b2905/versions/2025-07-15/fr.xml",
+    "sha256": "c12facf45fdd184aeb86c23ec181a79728c24d1c14f6c28fbb98595c04116ea1",
+    "source_uri": "https://legilux.public.lu/eli/etat/adm/pa/2025/07/15/b2905/consolide/20250715/fr"
+  },
+  "generator": {
+    "profile": "akn-lu-document/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "document",
+      "provision_id": "lu-legilux:pa-2025-07-15-b2905:2025-07-15#document",
+      "eli": null,
+      "type": "document",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Il est porté à la connaissance du public que la concession de pharmacie à Schifflange, 53, avenue de la Libération, détenue actuellement par Monsieur Claude GREIS, est déclarée vacante à partir du 30 avril 2026 suite à la renonciation du concessionnaire.\n\nLes candidats qui désirent solliciter l’octroi de cette concession sont invités à faire parvenir leur demande au **Ministère de la Santé et de la Sécurité sociale, 1, rue Charles Darwin, L-1433 Luxembourg** jusqu’au **18 août 2025 au plus tard**.\n\nLa demande devra être accompagnée des documents et renseignements suivants :\n\n1. une courte notice biographique\n2. le diplôme conférant le grade de pharmacien\n3. une copie de l’autorisation d’exercer la profession de pharmacien au Luxembourg\n4. une copie de la carte d’identité ou du passeport\n5. /\n6. le certificat d’affiliation et le certificat de revenu délivrés par le Centre commun de la Sécurité sociale ou d’un organisme étranger similaire, attestant les périodes d’occupation\n7. le(s) contrat(s) de travail avec d’éventuels avenants si les certificats cités sous 5.1. n’indiquent pas le taux d’occupation en heures/semaine.\n8. loi du 28 octobre 2016\n9. Titulaire du compte : Administration de l’Enregistrement et des Domaines Compte bancaire : IBAN LU80 0019 5955 4435 5000 (Code Swift : BCEELULL) Communication : CONCESSPHARM Schifflange + nom du demandeur\n\nLes candidat(e)s demandant l’application de la disposition prévue à l’article 2, paragraphe 2, point 2.8. du règlement grand-ducal modifié du 27 mai 1997 relatif à l’octroi des concessions de pharmacie (prise en compte de la cessation totale ou partielle de l’activité professionnelle pour éduquer un enfant) voudront l’indiquer et verser un acte de naissance de l’(des) enfant(s) concerné(s).\n\nLe cahier des charges, rédigé au prescrit de l’article 5 du règlement grand-ducal précité, sera tenu à la disposition des intéressés dans les bureaux du Ministère de la Santé et de la Sécurité sociale, 1, rue Charles Darwin à Luxembourg, à partir du jour de la publication du présent avis au Journal officiel du Grand-Duché de Luxembourg.",
+      "text_sha256": "d83e4332d91bee85ebe42cabe393a355cad58338c3fcb27e0cf437b8f5e26dca",
+      "md_span": {
+        "start": 578,
+        "end": 2682
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1997/05/27/n1/jo",
+          "text": "règlement grand-ducal modifié du 27 mai 1997"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1997/05/27/n1/jo",
+          "text": "règlement grand-ducal précité"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "publisher markup exposes no article or annex boundary; used the official AKN body as one document-level provision"
+  ]
+}
