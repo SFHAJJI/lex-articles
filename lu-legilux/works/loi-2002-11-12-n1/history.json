@@ -343,10 +343,44 @@
       },
       {
         "valid_from": "2026-11-01",
-        "valid_to": null,
+        "valid_to": "2027-01-31",
         "text_sha256": "af762b25a973660238f309b258ba4e57cb3ef2d455621455977ea297e0862f2d",
         "in_version": "lu-legilux:loi-2002-11-12-n1:2026-11-01",
         "article_valid_from": "2026-11-01"
+      },
+      {
+        "valid_from": "2027-02-01",
+        "valid_to": null,
+        "text_sha256": "2ce725de15d0f7299d07f07fa95efc1c7a06393d57896cae206a98e1362d7d3a",
+        "in_version": "lu-legilux:loi-2002-11-12-n1:2027-02-01",
+        "article_valid_from": "2027-02-01"
+      }
+    ],
+    "art_28-1": [
+      {
+        "valid_from": "2027-02-01",
+        "valid_to": null,
+        "text_sha256": "87dfe99cd0cb5a919ee6c989fcc7e83af3a53aa0955cb1ae522febefe84366f0",
+        "in_version": "lu-legilux:loi-2002-11-12-n1:2027-02-01",
+        "article_valid_from": "2027-02-01"
+      }
+    ],
+    "art_28-2": [
+      {
+        "valid_from": "2027-02-01",
+        "valid_to": null,
+        "text_sha256": "52d0780895b420fe83ca99adaf38d9117c4c79249ea85a0eb4002a3fad0b411e",
+        "in_version": "lu-legilux:loi-2002-11-12-n1:2027-02-01",
+        "article_valid_from": "2027-02-01"
+      }
+    ],
+    "art_28-3": [
+      {
+        "valid_from": "2027-02-01",
+        "valid_to": null,
+        "text_sha256": "865c3e0ec6238da56eafeef2ea2ef6151c21fe03757b1bfe8de6816885e192b1",
+        "in_version": "lu-legilux:loi-2002-11-12-n1:2027-02-01",
+        "article_valid_from": "2027-02-01"
       }
     ],
     "art_29": [
@@ -617,6 +651,21 @@
       "type": "inserted",
       "anchor": "art_30-3",
       "at_version": "lu-legilux:loi-2002-11-12-n1:2026-11-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_28-1",
+      "at_version": "lu-legilux:loi-2002-11-12-n1:2027-02-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_28-2",
+      "at_version": "lu-legilux:loi-2002-11-12-n1:2027-02-01"
+    },
+    {
+      "type": "inserted",
+      "anchor": "art_28-3",
+      "at_version": "lu-legilux:loi-2002-11-12-n1:2027-02-01"
     }
   ],
   "anchors_by_language": {
@@ -958,10 +1007,44 @@
         },
         {
           "valid_from": "2026-11-01",
-          "valid_to": null,
+          "valid_to": "2027-01-31",
           "text_sha256": "af762b25a973660238f309b258ba4e57cb3ef2d455621455977ea297e0862f2d",
           "in_version": "lu-legilux:loi-2002-11-12-n1:2026-11-01",
           "article_valid_from": "2026-11-01"
+        },
+        {
+          "valid_from": "2027-02-01",
+          "valid_to": null,
+          "text_sha256": "2ce725de15d0f7299d07f07fa95efc1c7a06393d57896cae206a98e1362d7d3a",
+          "in_version": "lu-legilux:loi-2002-11-12-n1:2027-02-01",
+          "article_valid_from": "2027-02-01"
+        }
+      ],
+      "art_28-1": [
+        {
+          "valid_from": "2027-02-01",
+          "valid_to": null,
+          "text_sha256": "87dfe99cd0cb5a919ee6c989fcc7e83af3a53aa0955cb1ae522febefe84366f0",
+          "in_version": "lu-legilux:loi-2002-11-12-n1:2027-02-01",
+          "article_valid_from": "2027-02-01"
+        }
+      ],
+      "art_28-2": [
+        {
+          "valid_from": "2027-02-01",
+          "valid_to": null,
+          "text_sha256": "52d0780895b420fe83ca99adaf38d9117c4c79249ea85a0eb4002a3fad0b411e",
+          "in_version": "lu-legilux:loi-2002-11-12-n1:2027-02-01",
+          "article_valid_from": "2027-02-01"
+        }
+      ],
+      "art_28-3": [
+        {
+          "valid_from": "2027-02-01",
+          "valid_to": null,
+          "text_sha256": "865c3e0ec6238da56eafeef2ea2ef6151c21fe03757b1bfe8de6816885e192b1",
+          "in_version": "lu-legilux:loi-2002-11-12-n1:2027-02-01",
+          "article_valid_from": "2027-02-01"
         }
       ],
       "art_29": [
@@ -1234,6 +1317,21 @@
         "type": "inserted",
         "anchor": "art_30-3",
         "at_version": "lu-legilux:loi-2002-11-12-n1:2026-11-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_28-1",
+        "at_version": "lu-legilux:loi-2002-11-12-n1:2027-02-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_28-2",
+        "at_version": "lu-legilux:loi-2002-11-12-n1:2027-02-01"
+      },
+      {
+        "type": "inserted",
+        "anchor": "art_28-3",
+        "at_version": "lu-legilux:loi-2002-11-12-n1:2027-02-01"
       }
     ]
   }

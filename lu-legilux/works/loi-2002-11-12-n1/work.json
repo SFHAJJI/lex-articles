@@ -1,6 +1,6 @@
 {
   "lex_work_id": "lu-legilux:loi-2002-11-12-n1",
-  "title": "Version consolidée applicable au 01/11/2026 : Loi du 12 novembre 2002 relative aux activités privées de gardiennage et de surveillance.",
+  "title": "Version consolidée applicable au 01/02/2027 : Loi du 12 novembre 2002 relative aux activités privées de gardiennage et de surveillance.",
   "languages": [
     "fr"
   ],
@@ -25,9 +25,15 @@
     },
     {
       "valid_from": "2026-11-01",
-      "valid_to": null,
+      "valid_to": "2027-01-31",
       "language": "fr",
       "provisions": 49
+    },
+    {
+      "valid_from": "2027-02-01",
+      "valid_to": null,
+      "language": "fr",
+      "provisions": 52
     }
   ],
   "anchors": [
@@ -62,6 +68,9 @@
     "art_27-5",
     "art_27-6",
     "art_28",
+    "art_28-1",
+    "art_28-2",
+    "art_28-3",
     "art_29",
     "art_3",
     "art_3-1",
