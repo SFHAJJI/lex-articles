@@ -1,10 +1,10 @@
 ---
-lex_id: 'lu-legilux:loi-1997-01-13-n1:2004-01-27'
+lex_id: 'lu-legilux:loi-1997-01-13-n1:2017-04-03'
 title: 'Version consolidée applicable au 03/04/2017 : Loi du 13 janvier 1997 relative au contrôle de l’utilisation et de la dissémination des organismes génétiquement modifiés.'
-valid_from: '2004-01-27'
-valid_to: '2012-12-31'
-source: 'https://legilux.public.lu/eli/etat/leg/loi/1997/01/13/n1/consolide/20040127/fr'
-source_sha256: 'f6b72ae6119805f899f688bc655294233a5eae589977d524e885578ac00765be'
+valid_from: '2017-04-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1997/01/13/n1/consolide/20170403/fr'
+source_sha256: '4b9be29d5fc5bd94ef56d78c268a714a210bae34c875245cf5c253e17870f0ee'
 license: 'CC-BY-4.0'
 attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
 generator: 'akn-lu/1 · lex derive'
@@ -148,7 +148,7 @@ Les critères de classement, établis d’après l’état le plus avancé des c
 
 **(6)** Lorsque l’instruction de la demande est terminée le directeur de la Santé transmet le dossier avec son avis au ministre de la Santé.
 
-**(7)** Toute décision du ministre fixe également le montant représentatif des frais d’instruction. Ce montant est fonction de la nature de la demande et des difficultés de l’instruction. Il ne peut être ni inférieur à 10.000 francs ni supérieur à 200.000 francs.
+**(7)** Toute décision du ministre fixe également le montant représentatif des frais d’instruction. Ce montant est fonction de la nature de la demande et des difficultés de l’instruction. Il ne peut être ni inférieur à 250 euros ni supérieur à 5.000 euros.
 
 Toutefois, le ministre, avant de commencer l’instruction de la demande, peut exiger le versement d’un montant qu’il détermine, dans les limites fixées à l’alinéa qui précède. Le ministre peut réajuster ce montant en cours de procédure vers le haut ou vers le bas, en tenant compte des difficultés effectivement rencontrées et des éléments d’appréciation dont question ci-dessus.
 
@@ -303,7 +303,7 @@ Le public est admis à présenter, dans les formes et conditions déterminées �
 
 **(3)** Pour le calcul du délai de quatre-vingt-dix jours visé au paragraphe 2, ne sont pas prises en compte les périodes durant lesquelles le ministre attend des informations complémentaires demandées au demandeur.
 
-**(4)** Toute décision du ministre fixe également le montant représentatif des frais d’instruction. Ce montant est fonction de la nature de la demande et des difficultés de l’instruction. Il ne peut être ni inférieur à 10.000 francs ni supérieur à 200.000 francs. Pour le calcul de ce montant, il est tenu compte des avances déjà versées lors de l’instruction de la demande.
+**(4)** Toute décision du ministre fixe également le montant représentatif des frais d’instruction. Ce montant est fonction de la nature de la demande et des difficultés de l’instruction. Il ne peut être ni inférieur à 250 euros ni supérieur à 5.000 euros. Pour le calcul de ce montant, il est tenu compte des avances déjà versées lors de l’instruction de la demande.
 
 **(5)** Le demandeur ne peut procéder à la dissémination qu’après avoir obtenu l’autorisation écrite du ministre et en se conformant aux conditions requises dans cette autorisation.
 
@@ -383,7 +383,7 @@ Dans le cas prévu au paragraphe (3) point b), au plus tôt quinze jours après 
 
 **(3)** Le rapport d’évaluation indique:
 
-1. si le ou les OGM concernés peuvent être mis sur le marché et dans quelles conditions, ou
+1. ou
 2. si ce ou ces OGM ne doivent pas être mis sur le marché.
 
 Les rapports d’évaluation sont établis conformément aux orientations définies par règlement grand-ducal.
@@ -454,14 +454,14 @@ Dès lors qu’un produit a fait l’objet d’une autorisation par l’autorit�
 
 1. une copie de l’autorisation de mise sur le marché des OGM;
 2. un rapport sur les résultats de la surveillance effectuée conformément à l’article 25 bis;
-3. toute autre nouvelle information devenue disponible sur les risques du produit pour la santé humaine et/ou l’environnement et,
+3. et,
 4. s’il y a lieu, une proposition visant à modifier ou à compléter les conditions de l’autorisation initiale, c’est-à-dire les conditions relatives à la surveillance future et à la durée de validité de l’autorisation.
 
 Le ministre accuse réception de la demande et prend acte de la date de réception de celle-ci; lorsque la demande est conforme au présent paragraphe, le ministre en transmet sans tarder une copie avec son rapport d’évaluation à la Commission.
 
 **(3)** Le rapport d’évaluation précise:
 
-1. si le ou les OGM doivent rester sur le marché et à quelles conditions, ou
+1. ou
 2. si le ou les OGM ne doivent pas rester sur le marché.
 
 **(4)** A la fin de la procédure communautaire subséquente le ministre transmet par écrit au demandeur la décision finale et en informe les autres Etats membres et la Commission dans un délai de trente jours. La durée de validité de l’autorisation n’excède pas dix ans, en règle générale, et peut être limitée ou prolongée, le cas échéant, pour des raisons spécifiques.
@@ -632,7 +632,7 @@ Ce recours doit être interjeté sous peine de déchéance dans le délai de qua
 
 Outre les officiers de police judiciaire et les agents de la Police grand-ducale, les agents de l’Administration des douanes et accises ainsi que les fonctionnaires de l’Administration de l’environnement de la carrière des ingénieurs, les médecins, pharmaciens et ingénieurs de la Direction de la Santé et les médecins, pharmaciens et ingénieurs du Laboratoire national de santé sont chargés de rechercher et de constater les infractions à la présente loi et à ses règlements d’exécution.
 
-Dans l’exercice de leurs fonctions relatives à la présente loi, les fonctionnaires de l’Administration de l’environnement, de la Direction de la santé et du Laboratoire national de santé ont la qualité d’officiers de police judiciaire. Ils constatent les infractions par des procès-verbaux faisant foi jusqu’à preuve contraire. Leur compétence s’étend sur tout le territoire du Grand-Duché.
+Dans l’exercice de leurs fonctions relatives à la présente loi, les fonctionnaires de l’Administration de l’environnement, de la Direction de la Santé ont la qualité d’officiers de police judiciaire. Ils constatent les infractions par des procès-verbaux faisant foi jusqu’à preuve contraire. Leur compétence s’étend sur tout le territoire du Grand-Duché.
 
 Avant d’entrer en fonctions, ils prêtent devant le tribunal d’arrondissement de leur domicile le serment suivant: «Je jure de remplir mes fonctions avec intégrité, exactitude et impartialité.»
 
@@ -662,7 +662,7 @@ En cas de condamnation, les frais occasionnés par les mesures prises en vertu d
 
 ### Art. 42.- Sanctions pénales
 
-**(1)** Sera puni d’un emprisonnement de huit jours à six mois et d’une amende de dix mille et un à cinq millions de francs ou d’une de ces peines seulement quiconque contrevient à la présente loi ou à ses règlements d’exécution, et notamment celui qui:
+**(1)** Sera puni d’un emprisonnement de huit jours à six mois et d’une amende de deux cent cinquante et un à cent vingt-cinq mille euros ou d’une de ces peines seulement quiconque contrevient à la présente loi ou à ses règlements d’exécution, et notamment celui qui:
 
 1. exploite une installation utilisant des OGM à des fins de recherche, de développement ou d’enseignement sans l’autorisation requise en application des dispositions du titre II de la présente loi, ou en violation des conditions auxquelles cette autorisation est subordonnée;
 2. procède à la dissémination volontaire d’OGM dans l’environnement à des fins autres que leur mise sur le marché, qui n’aurait pas été autorisée conformément aux dispositions de la présente loi, ou qui aurait été faite sans que les conditions déterminées à l’autorisation aient été observées;
@@ -677,7 +677,7 @@ En cas de récidive dans le délai de deux ans après une condamnation définiti
 
 **(2)** La confiscation spéciale est facultative. Toutefois, la confiscation des organismes génétiquement modifiés ou des produits consistant en organismes génétiquement modifiés ou en contenant, dont l’utilisation, la dissémination volontaire ou la mise sur le marché ont eu lieu en violation des dispositions de la présente loi ou de ses règlements d’exécution sera toujours ordonnée, que la propriété en appartienne ou non au condamné. Les OGM et les produits ainsi confisqués seront détruits.
 
-**(3)** Indépendamment des règles de droit commun en matière de saisie, prévues au code d’instruction criminelle, les agents de la gendarmerie, de la police, de l’Administration des douanes et accises ainsi que les fonctionnaires de l’Administration de l’environnement, de la Direction de la santé et du Laboratoire national de santé visés à l’article 39 qui constatent l’infraction ont le droit de saisir les objets, appareils, ustensiles, produits et substances susceptibles d’une confiscation ultérieure; cette saisie ne pourra être maintenue que si elle est validée dans les huit jours par ordonnance du juge d’instruction.
+**(3)** Indépendamment des règles de droit commun en matière de saisie, prévues au Code de procédure pénale, les agents de la gendarmerie, de la police, de l’Administration des douanes et accises ainsi que les fonctionnaires de l’Administration de l’environnement, de la Direction de la santé et du Laboratoire national de santé visés à l’article 39 qui constatent l’infraction ont le droit de saisir les objets, appareils, ustensiles, produits et substances susceptibles d’une confiscation ultérieure; cette saisie ne pourra être maintenue que si elle est validée dans les huit jours par ordonnance du juge d’instruction.
 
 La mainlevée de la saisie validée par ordonnance du juge d’instruction peut être demandée en tout état de cause, à savoir:
 

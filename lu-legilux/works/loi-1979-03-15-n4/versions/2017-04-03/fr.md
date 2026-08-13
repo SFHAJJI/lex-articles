@@ -1,10 +1,10 @@
 ---
-lex_id: 'lu-legilux:loi-1979-03-15-n4:2002-01-01'
+lex_id: 'lu-legilux:loi-1979-03-15-n4:2017-04-03'
 title: 'Version consolidée applicable au 03/04/2017 : Loi du 15 mars 1979 portant réglementation de la transfusion sanguine.'
-valid_from: '2002-01-01'
-valid_to: '2017-04-02'
-source: 'https://legilux.public.lu/eli/etat/leg/loi/1979/03/15/n4/consolide/20020101/fr'
-source_sha256: '2c98b7a4ae147dd4f1228fce67ab9bcab38d87db906dc8f2c260d560bea164b4'
+valid_from: '2017-04-03'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/1979/03/15/n4/consolide/20170403/fr'
+source_sha256: '7a30c08ad9324619726c620bb8a6b6ef2039c21db3ade08097a571efc004e05c'
 license: 'CC-BY-4.0'
 attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
 generator: 'akn-lu/1 · lex derive'
@@ -129,10 +129,10 @@ Le prix auquel le sang complet et ses dérivés, à l'exception des produits pr�
 
 ### Art. 15.
 
-Les infractions aux dispositions de la présente loi et de ses règlements d'exécution sont punies d'un emprisonnement de huit jours à six mois et d'une amende de soixante-trois à douze mille cinq cents euros ou d'une de ces peines seulement.
+Les infractions aux dispositions de la présente loi et de ses règlements d’exécution sont punies d’un emprisonnement de huit jours à six mois et d’une amende de deux cent cinquante et un à douze mille cinq cents euros ou d’une de ces peines seulement.
 
-Est puni des mêmes peines celui qui s'oppose ou se soustrait à l'exercice des pouvoirs ou à la mise en oeuvre des mesures prévues à l'article 8.
+Est puni des mêmes peines celui qui s’oppose ou se soustrait à l’exercice des pouvoirs ou à la mise en oeuvre des mesures prévues à l’article 8.
 
-Les dispositions du livre 1er du code pénal ainsi que celles de la loi du 18 juin 1879 portant attribution aux cour et tribunaux de l'appréciation des circonstances atténuantes, modifiée par la loi du 16 mai 1904, sont applicables.
+Les dispositions du livre 1er du code pénal ainsi que les articles 130-1 à 132-1 du Code de procédure pénale, sont applicables.
 
-Ces peines peuvent être portées au double du maximum lorsque le délit a été commis dans les deux ans qui suivent une condamnation définitive d'une infraction à la présente loi.
+Ces peines peuvent être portées au double du maximum lorsque le délit a été commis dans les deux ans qui suivent une condamnation définitive d’une infraction à la présente loi.

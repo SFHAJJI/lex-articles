@@ -113,10 +113,18 @@
     "art_19": [
       {
         "valid_from": "1997-01-28",
-        "valid_to": null,
+        "valid_to": "2017-04-02",
         "text_sha256": "63c7721a87d9c44f5fe4890bd1674f2691589cdd7db4cf15662141b1154d87c4",
         "in_version": "lu-legilux:loi-1997-01-13-n1:1997-01-28",
         "article_valid_from": "1997-01-28"
+      },
+      {
+        "valid_from": "2017-04-03",
+        "valid_to": null,
+        "text_sha256": "194f7478228b92256cd278981c6cea15c226a5bf88f083324ff717c699521afc",
+        "in_version": "lu-legilux:loi-1997-01-13-n1:2017-04-03",
+        "article_valid_from": "1997-01-28",
+        "validity_conflict": true
       }
     ],
     "art_1er": [
@@ -197,10 +205,18 @@
       },
       {
         "valid_from": "2004-01-27",
-        "valid_to": null,
+        "valid_to": "2017-04-02",
         "text_sha256": "a5dffbffbe9f91b20f904622c9e26aef0a59be2721f76a6bde3dea19e9fc9fd3",
         "in_version": "lu-legilux:loi-1997-01-13-n1:2004-01-27",
         "article_valid_from": "2004-01-27"
+      },
+      {
+        "valid_from": "2017-04-03",
+        "valid_to": null,
+        "text_sha256": "d557e1a83deec9977e68824a3385a81a6e402630ba90ca262a20ae6ea267e58c",
+        "in_version": "lu-legilux:loi-1997-01-13-n1:2017-04-03",
+        "article_valid_from": "2004-01-27",
+        "validity_conflict": true
       }
     ],
     "art_25": [
@@ -240,10 +256,18 @@
     "art_26bis": [
       {
         "valid_from": "2004-01-27",
-        "valid_to": null,
+        "valid_to": "2017-04-02",
         "text_sha256": "8ec76728a5dc9f639b3a376a7c2da46e289ba16247793aa0c4c0394ed810b280",
         "in_version": "lu-legilux:loi-1997-01-13-n1:2004-01-27",
         "article_valid_from": "2004-01-27"
+      },
+      {
+        "valid_from": "2017-04-03",
+        "valid_to": null,
+        "text_sha256": "a7fe5acc9a4471cf34baf57862fb6d4434a02b600ad9763aaaf80daf3a845e60",
+        "in_version": "lu-legilux:loi-1997-01-13-n1:2017-04-03",
+        "article_valid_from": "2004-01-27",
+        "validity_conflict": true
       }
     ],
     "art_27": [
@@ -437,10 +461,17 @@
     "art_42": [
       {
         "valid_from": "1997-01-28",
-        "valid_to": null,
+        "valid_to": "2017-04-02",
         "text_sha256": "d690422b633988fb9b9921fa365ca630986db23ef9bae5165ce73bb0f0956927",
         "in_version": "lu-legilux:loi-1997-01-13-n1:1997-01-28",
         "article_valid_from": "1997-01-28"
+      },
+      {
+        "valid_from": "2017-04-03",
+        "valid_to": null,
+        "text_sha256": "ba4ceaf5101c261c5feaaae31bf91f5216ce780bf055d90198b859826508a1dd",
+        "in_version": "lu-legilux:loi-1997-01-13-n1:2017-04-03",
+        "article_valid_from": "2017-04-03"
       }
     ],
     "art_43": [
@@ -514,10 +545,18 @@
     "art_9": [
       {
         "valid_from": "1997-01-28",
-        "valid_to": null,
+        "valid_to": "2017-04-02",
         "text_sha256": "cdce04b5170e859640840303d1bf91ae509494b654c7b6f8750f170fd3e9f9a0",
         "in_version": "lu-legilux:loi-1997-01-13-n1:1997-01-28",
         "article_valid_from": "1997-01-28"
+      },
+      {
+        "valid_from": "2017-04-03",
+        "valid_to": null,
+        "text_sha256": "a83df6097057c97d89d13dee477bb7e299162498ce736443f37365a0cd668456",
+        "in_version": "lu-legilux:loi-1997-01-13-n1:2017-04-03",
+        "article_valid_from": "1997-01-28",
+        "validity_conflict": true
       }
     ]
   },
@@ -647,10 +686,18 @@
       "art_19": [
         {
           "valid_from": "1997-01-28",
-          "valid_to": null,
+          "valid_to": "2017-04-02",
           "text_sha256": "63c7721a87d9c44f5fe4890bd1674f2691589cdd7db4cf15662141b1154d87c4",
           "in_version": "lu-legilux:loi-1997-01-13-n1:1997-01-28",
           "article_valid_from": "1997-01-28"
+        },
+        {
+          "valid_from": "2017-04-03",
+          "valid_to": null,
+          "text_sha256": "194f7478228b92256cd278981c6cea15c226a5bf88f083324ff717c699521afc",
+          "in_version": "lu-legilux:loi-1997-01-13-n1:2017-04-03",
+          "article_valid_from": "1997-01-28",
+          "validity_conflict": true
         }
       ],
       "art_1er": [
@@ -731,10 +778,18 @@
         },
         {
           "valid_from": "2004-01-27",
-          "valid_to": null,
+          "valid_to": "2017-04-02",
           "text_sha256": "a5dffbffbe9f91b20f904622c9e26aef0a59be2721f76a6bde3dea19e9fc9fd3",
           "in_version": "lu-legilux:loi-1997-01-13-n1:2004-01-27",
           "article_valid_from": "2004-01-27"
+        },
+        {
+          "valid_from": "2017-04-03",
+          "valid_to": null,
+          "text_sha256": "d557e1a83deec9977e68824a3385a81a6e402630ba90ca262a20ae6ea267e58c",
+          "in_version": "lu-legilux:loi-1997-01-13-n1:2017-04-03",
+          "article_valid_from": "2004-01-27",
+          "validity_conflict": true
         }
       ],
       "art_25": [
@@ -774,10 +829,18 @@
       "art_26bis": [
         {
           "valid_from": "2004-01-27",
-          "valid_to": null,
+          "valid_to": "2017-04-02",
           "text_sha256": "8ec76728a5dc9f639b3a376a7c2da46e289ba16247793aa0c4c0394ed810b280",
           "in_version": "lu-legilux:loi-1997-01-13-n1:2004-01-27",
           "article_valid_from": "2004-01-27"
+        },
+        {
+          "valid_from": "2017-04-03",
+          "valid_to": null,
+          "text_sha256": "a7fe5acc9a4471cf34baf57862fb6d4434a02b600ad9763aaaf80daf3a845e60",
+          "in_version": "lu-legilux:loi-1997-01-13-n1:2017-04-03",
+          "article_valid_from": "2004-01-27",
+          "validity_conflict": true
         }
       ],
       "art_27": [
@@ -971,10 +1034,17 @@
       "art_42": [
         {
           "valid_from": "1997-01-28",
-          "valid_to": null,
+          "valid_to": "2017-04-02",
           "text_sha256": "d690422b633988fb9b9921fa365ca630986db23ef9bae5165ce73bb0f0956927",
           "in_version": "lu-legilux:loi-1997-01-13-n1:1997-01-28",
           "article_valid_from": "1997-01-28"
+        },
+        {
+          "valid_from": "2017-04-03",
+          "valid_to": null,
+          "text_sha256": "ba4ceaf5101c261c5feaaae31bf91f5216ce780bf055d90198b859826508a1dd",
+          "in_version": "lu-legilux:loi-1997-01-13-n1:2017-04-03",
+          "article_valid_from": "2017-04-03"
         }
       ],
       "art_43": [
@@ -1048,10 +1118,18 @@
       "art_9": [
         {
           "valid_from": "1997-01-28",
-          "valid_to": null,
+          "valid_to": "2017-04-02",
           "text_sha256": "cdce04b5170e859640840303d1bf91ae509494b654c7b6f8750f170fd3e9f9a0",
           "in_version": "lu-legilux:loi-1997-01-13-n1:1997-01-28",
           "article_valid_from": "1997-01-28"
+        },
+        {
+          "valid_from": "2017-04-03",
+          "valid_to": null,
+          "text_sha256": "a83df6097057c97d89d13dee477bb7e299162498ce736443f37365a0cd668456",
+          "in_version": "lu-legilux:loi-1997-01-13-n1:2017-04-03",
+          "article_valid_from": "1997-01-28",
+          "validity_conflict": true
         }
       ]
     }

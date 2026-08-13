@@ -59,10 +59,18 @@
     "art_15": [
       {
         "valid_from": "2002-01-01",
-        "valid_to": null,
+        "valid_to": "2017-04-02",
         "text_sha256": "c7d8d7e888464c23c16aab1c9163f1edd1dc8122e30aea95fcf43c2f638c852e",
         "in_version": "lu-legilux:loi-1979-03-15-n4:2002-01-01",
         "article_valid_from": "2002-01-01"
+      },
+      {
+        "valid_from": "2017-04-03",
+        "valid_to": null,
+        "text_sha256": "32ff96f81efcf763ac9e22e78433ae9e0eb33b0188b8bd95c98e5670c440fb28",
+        "in_version": "lu-legilux:loi-1979-03-15-n4:2017-04-03",
+        "article_valid_from": "1979-04-21",
+        "validity_conflict": true
       }
     ],
     "art_1er": [
@@ -212,10 +220,18 @@
       "art_15": [
         {
           "valid_from": "2002-01-01",
-          "valid_to": null,
+          "valid_to": "2017-04-02",
           "text_sha256": "c7d8d7e888464c23c16aab1c9163f1edd1dc8122e30aea95fcf43c2f638c852e",
           "in_version": "lu-legilux:loi-1979-03-15-n4:2002-01-01",
           "article_valid_from": "2002-01-01"
+        },
+        {
+          "valid_from": "2017-04-03",
+          "valid_to": null,
+          "text_sha256": "32ff96f81efcf763ac9e22e78433ae9e0eb33b0188b8bd95c98e5670c440fb28",
+          "in_version": "lu-legilux:loi-1979-03-15-n4:2017-04-03",
+          "article_valid_from": "1979-04-21",
+          "validity_conflict": true
         }
       ],
       "art_1er": [
